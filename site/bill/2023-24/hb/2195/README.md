@@ -12,6 +12,19 @@
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%202195)
 
 ## Meetings
+### Thu 02/22 01:30 PM - Ways & Means (WM): SHB 2195 Early learning facilities
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160061&caId=24382&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160061&caId=24382&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160061&caId=24382&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160061&caId=24382&tId=4)
+
+#### 18 👍 - Pro
+
+#### 15 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/18 01:30 PM - Capital Budget (CB): HB 2195 Early learning facilities
 #### 96 👍 - Pro
 Testifying:

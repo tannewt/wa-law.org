@@ -13,6 +13,21 @@
 * 01/31/2024 [The Seattle Times](/org/the_seattle_times/) - [After young people leave treatment, let’s give them a safe place to go | The Seattle Times](https://www.seattletimes.com/opinion/after-young-people-leave-treatment-lets-give-them-a-safe-place-to-go/#:~:text=Substitute%20House%20Bill%201929)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Ways & Means (WM): 2SHB 1929 Postinpatient housing
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160117&caId=24410&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160117&caId=24410&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160117&caId=24410&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160117&caId=24410&tId=4)
+
+#### 12 👍 - Pro
+Testifying:
+* Jim Theofelis - NorthStar Advocates
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/15 08:00 AM - Human Services (HS): 2SHB 1929 Postinpatient housing
 #### 93 👍 - Pro
 Testifying:

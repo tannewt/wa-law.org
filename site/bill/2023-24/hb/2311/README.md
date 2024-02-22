@@ -10,6 +10,21 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Ways & Means (WM): E2SHB 2311 First responder wellness
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160121&caId=24414&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160121&caId=24414&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160121&caId=24414&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160121&caId=24414&tId=4)
+
+#### 6 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/16 01:30 PM - Law & Justice (LAW): E2SHB 2311 First responder wellness
 #### 16 👍 - Pro
 Testifying:

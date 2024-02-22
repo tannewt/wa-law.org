@@ -5,6 +5,9 @@
 ## [HB 1729](/bill/2023-24/hb/1729/) - Hydrogen fuel products 👍1  
 * 👍 Derek Phelps
 
+## [HB 2410](/bill/2023-24/hb/2410/) - Jet fuel tax preferences 👍1  
+* 👍💵 Dave Warren
+
 ## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍1  
 * 👍 Derek Phelps
 

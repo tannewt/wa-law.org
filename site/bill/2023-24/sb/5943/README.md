@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Tue 02/20 01:30 PM - Human Services, Youth, & Early Learning (HSEL): 2SSB 5943 Resource data tool
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159529&caId=24304&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159529&caId=24304&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159529&caId=24304&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159529&caId=24304&tId=4)
-
-#### 29 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Deb Miller - Action Health Partners
 * 💵Nick Federici - United Ways Of The Pacific Northwest

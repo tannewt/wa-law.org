@@ -12,9 +12,10 @@
 
 ## Meetings
 ### Mon 02/19 01:30 PM - Environment & Energy (ENVI): SSB 6163 Biosolids
-#### 27 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Jenna Ramsey
 
 #### 0 👎 - Con
 

@@ -38,6 +38,8 @@
 
 ## [HB 2335](/bill/2023-24/hb/2335/) - State-tribal edu. compacts 👍1  
 
+## [HB 2372](/bill/2023-24/hb/2372/) - Tribes/health facilities 👍1  
+
 ## [HB 2469](/bill/2023-24/hb/2469/) - Concerning involuntary treatment. 👍1  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍1  

@@ -131,6 +131,9 @@
 
 ## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍1  
 
+## [HB 2352](/bill/2023-24/hb/2352/) - College athletes   ❓1
+* ❓ Joe Dacca
+
 ## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
 
 ## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account. 👍1  

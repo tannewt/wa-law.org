@@ -16,7 +16,7 @@
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍2  
 
 ## [HB 2105](/bill/2023-24/hb/2105/) - Instream resources  👎1 
 

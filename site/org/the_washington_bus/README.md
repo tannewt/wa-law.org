@@ -36,7 +36,7 @@
 
 ## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍2  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍4  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍5  
 * 👍💵 Jazmine Smith
 
 ## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍3  

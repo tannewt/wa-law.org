@@ -104,7 +104,8 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓ Jeff DeLuca
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍3  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍5  
+* 👍💵 Linda Garcia
 
 ## [HB 2234](/bill/2023-24/hb/2234/) - Low-income energy assistance  👎1 
 * 👎💵 Linda Garcia

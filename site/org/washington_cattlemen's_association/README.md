@@ -27,7 +27,8 @@
 
 ## [HB 2424](/bill/2023-24/hb/2424/) - State-tribe coop./wildlife 👍2  
 
-## [SB 5150](/bill/2023-24/sb/5150/) - Beef commission 👍4  
+## [SB 5150](/bill/2023-24/sb/5150/) - Beef commission 👍5  
+* 👍💵 Mark Streuli
 * 👍💵 Mark Streuli
 * 👍💵 Mark Streuli
 * 👍💵 Mark Streuli

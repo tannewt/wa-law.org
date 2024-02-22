@@ -11,6 +11,23 @@
 * 02/09/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205376)
 
 ## Meetings
+### Thu 02/22 01:30 PM - Appropriations (APP): SSB 5376 Cannabis waste
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160083&caId=24393&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160083&caId=24393&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160083&caId=24393&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160083&caId=24393&tId=4)
+
+#### 7 👍 - Pro
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Andrew Darnell - Dewey Scientific
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/14 10:30 AM - Regulated Substances & Gaming (RSG): SSB 5376 Cannabis waste
 #### 8 👍 - Pro
 Testifying:

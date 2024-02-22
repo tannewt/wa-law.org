@@ -17,17 +17,11 @@
 
 ## Meetings
 ### Tue 02/20 04:00 PM - Ways & Means (WM): 2ESHB 1508 Health care cost board
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159948&caId=24357&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159948&caId=24357&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159948&caId=24357&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159948&caId=24357&tId=4)
-
-#### 78 👍 - Pro
+#### 88 👍 - Pro
 Testifying:
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other
 

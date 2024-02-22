@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5873/</link>
 		<description>Updates about SB 5873</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2024 11:26:56 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -276,6 +276,38 @@
 			<pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-14/First reading, referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍Tyler Muench - OSPI</title>
+			<description>Tyler Muench signed up to testify Pro. They are signed up to represent OSPI.</description>
+			<pubDate>Tue, 20 Feb 2024 05:05:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tyler/Muench/2024-02-20 05:05:58</guid>
+		</item>
+		<item>
+			<title>👍Kerry Breakfield - Teamsters 174</title>
+			<description>Kerry Breakfield signed up to testify Pro. They are signed up to represent Teamsters 174.</description>
+			<pubDate>Wed, 21 Feb 2024 05:53:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kerry/Breakfield/2024-02-21 05:53:18</guid>
+		</item>
+		<item>
+			<title>👍Debbie Gath - IBT L38</title>
+			<description>Debbie Gath signed up to testify Pro. They are signed up to represent IBT L38.</description>
+			<pubDate>Wed, 21 Feb 2024 09:33:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Debbie/Gath/2024-02-21 09:33:37</guid>
+		</item>
+		<item>
+			<title>❓💵Carolyn Logue - WA Student Transportation Coalition</title>
+			<description>Carolyn Logue signed up to testify Other. They are signed up to represent WA Student Transportation Coalition. They are a registered lobbyist.</description>
+			<pubDate>Wed, 21 Feb 2024 11:26:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Carolyn/Logue/2024-02-21 11:26:56</guid>
 		</item>
 	</channel>
 </rss>

@@ -68,7 +68,7 @@
 ## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍3  
 * 👍 Juliana Yenne
 
-## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
+## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍2  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 

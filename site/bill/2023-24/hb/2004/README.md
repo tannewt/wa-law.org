@@ -22,7 +22,7 @@ Testifying:
 * Jordan Caron - [University of Washington](/org/university_of_washington/)
 * 💵Collin Bannister - The Washington Student Association and ASWSU
 * Tammie Perreault - Department of Defense
-* Reese Ramirez - Associated Students of UW Tacoma
+* 💵Reese Ramirez - Associated Students of UW Tacoma
 
 #### 0 👎 - Con
 

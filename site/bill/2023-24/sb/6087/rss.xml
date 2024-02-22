@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6087/</link>
 		<description>Updates about SB 6087</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2024 05:57:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -66,6 +66,22 @@
 			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-16/First reading, referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍💵Bud Sizemore - WSCFF</title>
+			<description>Bud Sizemore signed up to testify Pro. They are signed up to represent WSCFF. They are a registered lobbyist.</description>
+			<pubDate>Wed, 21 Feb 2024 04:04:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bud/Sizemore/2024-02-21 04:04:53</guid>
+		</item>
+		<item>
+			<title>👍Kelly Merz - Washington State Patrol - State Fire Marshal</title>
+			<description>Kelly Merz signed up to testify Pro. They are signed up to represent Washington State Patrol - State Fire Marshal.</description>
+			<pubDate>Wed, 21 Feb 2024 05:57:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kelly/Merz/2024-02-21 05:57:20</guid>
 		</item>
 	</channel>
 </rss>

@@ -13,15 +13,9 @@
 
 ## Meetings
 ### Tue 02/20 04:00 PM - Ways & Means (WM): EHB 2372 Tribes/health facilities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159659&caId=24258&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159659&caId=24258&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159659&caId=24258&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159659&caId=24258&tId=4)
+#### 16 👍 - Pro
 
-#### 13 👍 - Pro
-
-#### 270 👎 - Con
+#### 280 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 

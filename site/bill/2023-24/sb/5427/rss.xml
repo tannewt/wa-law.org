@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5427/</link>
 		<description>Updates about SB 5427</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Feb 2024 08:30:22 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2024 02:58:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -685,6 +685,37 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Lalita/Uppala/2024-02-16 08:30:22</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍💵Gabriel Neuman - GSBA</title>
+			<description>Gabriel Neuman signed up to testify Pro. They are signed up to represent GSBA. They are a registered lobbyist.</description>
+			<pubDate>Wed, 21 Feb 2024 02:58:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Gabriel/Neuman/2024-02-21 02:58:48</guid>
+		</item>
+		<item>
+			<title>👍💵Kristin Ang - Faith Action Network</title>
+			<description>Kristin Ang signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/faith_action_network/&quot;&gt;Faith Action Network&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 21 Feb 2024 02:58:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kristin/Ang/2024-02-21 02:58:48</guid>
+		</item>
+		<item>
+			<title>👍Miri Cypers - ADL</title>
+			<description>Miri Cypers signed up to testify Pro. They are signed up to represent ADL.</description>
+			<pubDate>Wed, 21 Feb 2024 02:58:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Miri/Cypers/2024-02-21 02:58:48</guid>
 		</item>
 	</channel>
 </rss>

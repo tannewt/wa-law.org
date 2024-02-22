@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6247/</link>
 		<description>Updates about SB 6247</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 15 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2024 07:49:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -65,6 +65,22 @@
 			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-15/First reading, referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍Captian Dan Twohig - International Organization of Masters, Mates and Pilots</title>
+			<description>Captian Dan Twohig signed up to testify Pro. They are signed up to represent International Organization of Masters, Mates and Pilots.</description>
+			<pubDate>Wed, 21 Feb 2024 05:04:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Captian Dan/Twohig/2024-02-21 05:04:48</guid>
+		</item>
+		<item>
+			<title>👍Eric Winge - Marine Engineers Beneficial Association</title>
+			<description>Eric Winge signed up to testify Pro. They are signed up to represent Marine Engineers Beneficial Association.</description>
+			<pubDate>Wed, 21 Feb 2024 07:49:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Eric/Winge/2024-02-21 07:49:32</guid>
 		</item>
 	</channel>
 </rss>

@@ -13,7 +13,7 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍4  
 
 ## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍3  
 

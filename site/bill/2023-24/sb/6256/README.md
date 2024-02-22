@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 02/20 01:30 PM - Consumer Protection & Business (CPB): SSB 6256 Solar consumer protections
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159478&caId=24282&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159478&caId=24282&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159478&caId=24282&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159478&caId=24282&tId=4)
-
-#### 106 👍 - Pro
+#### 107 👍 - Pro
 Testifying:
 * 💵Josie Cummings - Avista
 * Mendy Droke - Seattle City Light
@@ -27,6 +21,7 @@ Testifying:
 * Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 * Gavin Tenold - Northwest Renewables
 * Ralph Ibarra - DiverseAmerica Network
+* nora hawkins - Washington Department of Commerce
 
 #### 0 👎 - Con
 

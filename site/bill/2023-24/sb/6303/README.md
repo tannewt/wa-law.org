@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/20 04:00 PM - Ways & Means (WM): SB 6303 Energy storage manufacturing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159430&caId=24254&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159430&caId=24254&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159430&caId=24254&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159430&caId=24254&tId=4)
-
-#### 25 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * KARL DYE - TRIDEC

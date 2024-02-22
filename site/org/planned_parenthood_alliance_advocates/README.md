@@ -40,6 +40,8 @@
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍3  
 
+## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board 👍1  
+
 ## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety 👍1  
 
 ## [HB 1564](/bill/2023-24/hb/1564/) - OTC sexual assault kits 👍2  

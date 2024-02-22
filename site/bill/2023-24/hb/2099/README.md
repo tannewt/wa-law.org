@@ -11,19 +11,13 @@
 
 ## Meetings
 ### Tue 02/20 04:00 PM - Transportation (TRAN): E2SHB 2099 State custody/ID cards
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159724&caId=24252&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159724&caId=24252&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159724&caId=24252&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159724&caId=24252&tId=4)
-
-#### 53 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Ty Reed - Washington Statewide Reentry Council
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Christopher Poulos - Center for Justice and Human Dignity
 
-#### 23 👎 - Con
+#### 25 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

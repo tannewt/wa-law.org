@@ -11,17 +11,11 @@
 
 ## Meetings
 ### Tue 02/20 04:00 PM - Transportation (TRAN): HB 1963 License plate covers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159721&caId=24249&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159721&caId=24249&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159721&caId=24249&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159721&caId=24249&tId=4)
-
 #### 8 👍 - Pro
 Testifying:
 * Iñaki Longa
 
-#### 18 👎 - Con
+#### 20 👎 - Con
 
 #### 0 ❓ - Other
 

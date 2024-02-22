@@ -114,7 +114,7 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍10  
+## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍11  
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
 * 👍💵 Lianna Kressin
@@ -244,7 +244,7 @@
 
 ## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects 👍1  
 
-## [SB 6025](/bill/2023-24/sb/6025/) - Predatory loans 👍2  
+## [SB 6025](/bill/2023-24/sb/6025/) - Predatory loans 👍3  
 
 ## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings 👍1  
 

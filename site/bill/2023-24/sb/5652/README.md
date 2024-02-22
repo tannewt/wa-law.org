@@ -20,7 +20,7 @@ Testifying:
 * Randy Houston - Randy’s Towing, Okanogan and Ephrata & Wenatchee
 * 💵Peter Lukevich - Towing Recovery Association of Washington (TRAW)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

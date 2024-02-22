@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 02/20 01:30 PM - Health Care & Wellness (HCW): SB 5811 Individual providers/family
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159494&caId=24295&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159494&caId=24295&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159494&caId=24295&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159494&caId=24295&tId=4)
-
 #### 31 👍 - Pro
 Testifying:
 * Cathy Knight - WA Association for Area Agencies on Aging (W4A)
@@ -22,7 +16,7 @@ Testifying:
 * Nikki Lee - Caregiver
 * Bea Rector - Dept. of Social and Health Services
 
-#### 36 👎 - Con
+#### 37 👎 - Con
 Testifying:
 * Kenda Edwards
 * Sibongile Chadyiwa

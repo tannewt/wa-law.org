@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1892/</link>
 		<description>Updates about HB 1892</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2024 10:12:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -284,6 +284,38 @@
 			<pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-19/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍Nicholas Carr - Tacoma Housing Authority</title>
+			<description>Nicholas Carr signed up to testify Pro. They are signed up to represent Tacoma Housing Authority.</description>
+			<pubDate>Wed, 21 Feb 2024 03:24:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nicholas/Carr/2024-02-21 03:24:29</guid>
+		</item>
+		<item>
+			<title>👍Breck Lebegue - Tacoma Housing Authority</title>
+			<description>Breck Lebegue signed up to testify Pro.</description>
+			<pubDate>Wed, 21 Feb 2024 07:38:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Breck/Lebegue/2024-02-21 07:38:09</guid>
+		</item>
+		<item>
+			<title>👍💵Bryce Yadon - Futurewise</title>
+			<description>Bryce Yadon signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/futurewise/&quot;&gt;Futurewise&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 21 Feb 2024 09:47:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bryce/Yadon/2024-02-21 09:47:59</guid>
+		</item>
+		<item>
+			<title>👍💵Brian Bonlender - Coalition for Affordable Housing Development</title>
+			<description>Brian Bonlender signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/coalition_for_affordable_housing_development/&quot;&gt;Coalition for Affordable Housing Development&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 21 Feb 2024 10:12:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brian/Bonlender/2024-02-21 10:12:59</guid>
 		</item>
 	</channel>
 </rss>

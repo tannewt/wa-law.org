@@ -16,13 +16,7 @@
 
 ## Meetings
 ### Tue 02/20 04:00 PM - Ways & Means (WM): SHB 1985 PERS/TRS 1 benefit increase
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159660&caId=24259&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159660&caId=24259&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159660&caId=24259&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159660&caId=24259&tId=4)
-
-#### 1366 👍 - Pro
+#### 1384 👍 - Pro
 Testifying:
 * Timothy Knopf - Washington State School Retirees
 * Clair Olivers - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
@@ -32,7 +26,7 @@ Testifying:
 * Phyllis Farrell - WEA-R
 * Gloria Smith
 
-#### 274 👎 - Con
+#### 289 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 

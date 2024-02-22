@@ -11,6 +11,24 @@
 * 03/03/2023 [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=House%20Bill%201453)
 
 ## Meetings
+### Thu 02/22 01:30 PM - Ways & Means (WM): SHB 1453 Medical cannabis/tax
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160063&caId=24384&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160063&caId=24384&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160063&caId=24384&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160063&caId=24384&tId=4)
+
+#### 69 👍 - Pro
+Testifying:
+* Hana Keefe-Guerrero - Patient
+* John Kingsbury - Authorized cannabis patient
+* Sean O’Leary
+* 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/19 10:30 AM - Labor & Commerce (LC): SHB 1453 Medical cannabis/tax
 #### 150 👍 - Pro
 Testifying:

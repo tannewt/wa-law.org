@@ -9,18 +9,13 @@
 
 ## Meetings
 ### Tue 02/20 01:30 PM - State Government & Tribal Relations (SGOV): SSB 6125 Lakeland Village records
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31993&aId=159667&caId=24323&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31993&aId=159667&caId=24323&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31993&aId=159667&caId=24323&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31993&aId=159667&caId=24323&tId=4)
-
-#### 18 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 * Monica Thomas
 * Cathy Murahashi - The Arc of Washington
 * 💵Diana Stadden - The Arc of WA State
+* 💵Corinna Fale - Self Advocates In Leadership
 
 #### 0 👎 - Con
 

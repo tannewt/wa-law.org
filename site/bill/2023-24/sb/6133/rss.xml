@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6133/</link>
 		<description>Updates about SB 6133</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 18 Feb 2024 19:20:49 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -102,6 +102,13 @@
 			<pubDate>Sun, 18 Feb 2024 19:20:49 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.king5.com/article/news/crime/west-seattle-strip-mall-targeted-burglars-robbers/281-2ae34653-c7dc-43e6-a558-031afb0f7d4f#:~:text=Senate%20Bill%206133</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

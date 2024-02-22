@@ -8,18 +8,12 @@
 
 ## Meetings
 ### Tue 02/20 01:30 PM - Health Care & Wellness (HCW): ESB 6151 Ultrasound
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159694&caId=24299&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159694&caId=24299&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159694&caId=24299&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159694&caId=24299&tId=4)
-
-#### 204 👍 - Pro
+#### 205 👍 - Pro
 Testifying:
 * B. F. - Parents of impacted minor
 * K. F. - Parents of impacted minor
 
-#### 1189 👎 - Con
+#### 1199 👎 - Con
 Testifying:
 * Gabriel Jacobs
 * Sharon Damoff

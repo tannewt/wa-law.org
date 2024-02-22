@@ -8,18 +8,14 @@
 
 ## Meetings
 ### Wed 02/21 03:00 PM - Transportation (TRAN): SB 6316 SR 520 corridor
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31968&aId=159843&caId=24342&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31968&aId=159843&caId=24342&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31968&aId=159843&caId=24342&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31968&aId=159843&caId=24342&tId=4)
-
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Reema Griffith - Wash. State Transportation Commission
+* Lilly Hayward - Seattle Metropolitan Chamber of Commerce
+* 💵Nick Streuli - [Microsoft](/org/microsoft/)
 
-#### 152 👎 - Con
+#### 554 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

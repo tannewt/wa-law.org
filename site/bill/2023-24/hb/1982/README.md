@@ -13,6 +13,19 @@
 * 01/09/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Waters introduces bipartisan legislation that would help further rural broadband expansion](https://gorgenewscenter.com/2024/01/09/rep-waters-introduces-bipartisan-legislation-that-would-help-further-rural-broadband-expansion/#:~:text=House%20Bill%201982)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Ways & Means (WM): HB 1982 Broadband loans & grants
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160105&caId=24398&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160105&caId=24398&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160105&caId=24398&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160105&caId=24398&tId=4)
+
+#### 7 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/15 10:30 AM - Business, Financial Services, Gaming & Trade (BFGT): HB 1982 Broadband loans & grants
 #### 23 👍 - Pro
 Testifying:

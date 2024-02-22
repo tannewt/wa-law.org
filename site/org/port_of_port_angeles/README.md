@@ -25,3 +25,6 @@
 
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands.  👎1 
 * 👎 Connie BEAUVAIS
+
+## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
+* 👍 Paul Jarkiewicz

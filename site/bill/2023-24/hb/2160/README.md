@@ -16,6 +16,23 @@
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%202160)
 
 ## Meetings
+### Sat 02/24 09:00 AM - Ways & Means (WM): E2SHB 2160 Housing development
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160127&caId=24420&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160127&caId=24420&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160127&caId=24420&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160127&caId=24420&tId=4)
+
+#### 7 👍 - Pro
+Testifying:
+* Joe Kunzler
+
+#### 2 👎 - Con
+
+#### 2 ❓ - Other
+Testifying:
+* John Worthington
+
 ### Thu 02/15 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): E2SHB 2160 Housing development
 #### 481 👍 - Pro
 Testifying:

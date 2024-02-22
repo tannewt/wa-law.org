@@ -19,18 +19,12 @@
 
 ## Meetings
 ### Tue 02/20 01:30 PM - Environment, Energy & Technology (ENET): E3SHB 1433 Energy labeling/residential
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159363&caId=24242&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159363&caId=24242&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159363&caId=24242&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159363&caId=24242&tId=4)
-
-#### 247 👍 - Pro
+#### 248 👍 - Pro
 Testifying:
 * Lisa Parshley - Olympia City Councilmember
 * R. Court Olson - Shift Zero and also People for Climate Action
 
-#### 473 👎 - Con
+#### 477 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Jeannette Mcchesney

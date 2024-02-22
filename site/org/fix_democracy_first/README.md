@@ -171,7 +171,7 @@
 ## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations. 👍3  
 * 👍💵 Cindy Black
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍4  
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍5  
 * 👍💵 Cindy Black
 * 👍💵 Cindy Black
 

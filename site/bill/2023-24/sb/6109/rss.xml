@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6109/</link>
 		<description>Updates about SB 6109</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2024 11:41:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -483,6 +483,46 @@
 			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-20/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>❓Hanahn Korman - ALTSA Nurse Contractors (Nurse Delegators, Private Duty Nurses and Visiting Nurses</title>
+			<description>Hanahn Korman signed up to testify Other. They are signed up to represent ALTSA Nurse Contractors (Nurse Delegators, Private Duty Nurses and Visiting Nurses.</description>
+			<pubDate>Wed, 21 Feb 2024 02:32:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Hanahn/Korman/2024-02-21 02:32:45</guid>
+		</item>
+		<item>
+			<title>❓Katie Biron - ALTSA Nurse Contractors (Nurse Delegators, Private Duty Nurses and Visiting Nurses</title>
+			<description>Katie Biron signed up to testify Other.</description>
+			<pubDate>Wed, 21 Feb 2024 07:14:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Katie/Biron/2024-02-21 07:14:52</guid>
+		</item>
+		<item>
+			<title>👎Crushante Richburg - VOCAL-WA</title>
+			<description>Crushante Richburg signed up to testify Con. They are signed up to represent VOCAL-WA.</description>
+			<pubDate>Wed, 21 Feb 2024 09:26:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Crushante/Richburg/2024-02-21 09:26:54</guid>
+		</item>
+		<item>
+			<title>👍Kati Durkin - Washington Federation of State Employees</title>
+			<description>Kati Durkin signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_federation_of_state_employees/&quot;&gt;Washington Federation of State Employees&lt;/a&gt;.</description>
+			<pubDate>Wed, 21 Feb 2024 10:57:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kati/Durkin/2024-02-21 10:57:03</guid>
+		</item>
+		<item>
+			<title>👎💵Malika Lamont - VOCAL-WA</title>
+			<description>Malika Lamont signed up to testify Con. They are signed up to represent VOCAL-WA. They are a registered lobbyist.</description>
+			<pubDate>Wed, 21 Feb 2024 11:41:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Malika/Lamont/2024-02-21 11:41:11</guid>
 		</item>
 	</channel>
 </rss>

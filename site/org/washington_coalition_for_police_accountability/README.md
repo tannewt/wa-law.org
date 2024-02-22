@@ -34,7 +34,7 @@
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍15  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍16  
 * 👍 Debbie Novak
 * 👍💵 Nickeia Hunter
 * 👍 Po Leapai

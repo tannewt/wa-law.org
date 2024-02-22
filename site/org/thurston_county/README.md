@@ -34,7 +34,9 @@
 
 ## [HB 1926](/bill/2023-24/hb/1926/) - Supervision compliance 👍1  
 
-## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍2  
+## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍3  
+
+## [HB 2003](/bill/2023-24/hb/2003/) - Housing/public lands leases 👍1  
 
 ## [HB 2090](/bill/2023-24/hb/2090/) - Local boards of health 👍1  
 

@@ -10,6 +10,19 @@
 * 02/16/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate committee hears Dye bill to seek feasibility of a wild horse inmate training program in Washington state](https://gorgenewscenter.com/2024/02/16/senate-committee-hears-dye-bill-to-seek-feasibility-of-a-wild-horse-inmate-training-program-in-washington-state/#:~:text=House%20Bill%202210)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Ways & Means (WM): HB 2210 DOC wild horse program
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160120&caId=24413&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160120&caId=24413&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160120&caId=24413&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160120&caId=24413&tId=4)
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/15 08:00 AM - Human Services (HS): HB 2210 DOC wild horse program
 #### 1 👍 - Pro
 

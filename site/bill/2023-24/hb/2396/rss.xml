@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2396/</link>
 		<description>Updates about HB 2396</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Feb 2024 08:23:32 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -170,6 +170,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Melissa/Howtopat/2024-02-19 08:23:32</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

@@ -25,7 +25,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159945&caId=24358&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159945&caId=24358&tId=4)
 
-#### 11 👍 - Pro
+#### 124 👍 - Pro
+Testifying:
+* Sthavir Sumanam
+* 💵Larry Shannon - Washington State Association for Justice
+* Janet C Robertson
+* Christene Hansen
+* Skylar Schmitt
 
 #### 0 👎 - Con
 

@@ -10,6 +10,19 @@
 * 02/12/2024 [House Democrats](/org/house_democrats/) - [House passes Rep. Bateman bill to raise state employee vacation cap – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/12/house-passes-rep-bateman-bill-to-raise-state-employee-vacation-cap/#:~:text=House%20Bill%202246)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Ways & Means (WM): HB 2246 Vacation leave accrual
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160109&caId=24402&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160109&caId=24402&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160109&caId=24402&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160109&caId=24402&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/20 10:30 AM - Labor & Commerce (LC): HB 2246 Vacation leave accrual
 #### 18 👍 - Pro
 Testifying:

@@ -27,4 +27,6 @@
 
 ## [SB 6040](/bill/2023-24/sb/6040/) - Public works payments  👎1 
 
+## [SB 6277](/bill/2023-24/sb/6277/) - Transportation partnerships 👍1  
+
 ## [SB 6291](/bill/2023-24/sb/6291/) - State building code council 👍1  

@@ -33,7 +33,7 @@ Testifying:
 * Breck Lebegue
 * Breck Lebegue
 * Paula Sardiñas - WBBA
-* Reese Ramirez - Associated Students of UW Tacoma
+* 💵Reese Ramirez - Associated Students of UW Tacoma
 
 #### 0 👎 - Con
 

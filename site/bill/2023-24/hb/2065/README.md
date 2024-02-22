@@ -18,6 +18,21 @@
 * 01/04/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Legislative Agenda 2024 | ACLU of Washington](http://www.aclu-wa.org/pages/legislative-agenda-2024#:~:text=HB%202065)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Ways & Means (WM): E2SHB 2065 Offender score recalc.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160118&caId=24411&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160118&caId=24411&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160118&caId=24411&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160118&caId=24411&tId=4)
+
+#### 500 👍 - Pro
+
+#### 3 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 ❓ - Other
+
 ### Mon 02/19 10:30 AM - Law & Justice (LAW): E2SHB 2065 Offender score recalc.
 #### 1489 👍 - Pro
 Testifying:

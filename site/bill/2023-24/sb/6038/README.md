@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Tue 02/20 01:30 PM - Human Services, Youth, & Early Learning (HSEL): ESSB 6038 Child care tax preference
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159530&caId=24305&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159530&caId=24305&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159530&caId=24305&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159530&caId=24305&tId=4)
-
-#### 160 👍 - Pro
+#### 165 👍 - Pro
 Testifying:
 * 💵Tathagata Pal - Legislative Liaison, WSU Graduate and Professional Student Association
 * Alan Lesher - YMCA of the Inland Northwest

@@ -312,7 +312,8 @@
 ## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 * 👎 Mike Ennis
 
-## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍2  
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍4  
+* 👍💵 Emily Shay
 * 👍💵 Emily Shay
 
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍3  
@@ -466,6 +467,8 @@
 ## [HB 2361](/bill/2023-24/hb/2361/) - Standardized health plans  👎1 
 
 ## [HB 2373](/bill/2023-24/hb/2373/) - Adopt-a-highway program  👎1 
+
+## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras   ❓1
 
 ## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases  👎1 
 * 👎💵 Peter Godlewski
@@ -836,7 +839,8 @@
 
 ## [SB 6258](/bill/2023-24/sb/6258/) - Standardized health plans  👎1 
 
-## [SB 6277](/bill/2023-24/sb/6277/) - Transportation partnerships 👍1  
+## [SB 6277](/bill/2023-24/sb/6277/) - Transportation partnerships 👍2  
+* 👍💵 Morgan Irwin
 
 ## [SB 6291](/bill/2023-24/sb/6291/) - State building code council 👍1  
 

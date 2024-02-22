@@ -20,11 +20,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31967&aId=159962&caId=24369&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31967&aId=159962&caId=24369&tId=4)
 
-#### 1 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Benjamin Lelivelt
+* Diego Irias
+* Noah Moore
+* Tyler Robison
+* Noelle Burianek - Lake Washington High School
+* 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Peter Lukevich - [Towing and Recovery Association of Washington](/org/towing_and_recovery_association_of_washington/)
 
 ### Thu 02/01 10:30 AM - Transportation (TR): HB 2153 Catalytic converter theft
 #### 7 👍 - Pro

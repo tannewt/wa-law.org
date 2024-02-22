@@ -14,9 +14,11 @@
 
 ## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍2  
 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
 ## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
 
-## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍3  
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍4  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 

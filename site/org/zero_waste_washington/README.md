@@ -100,7 +100,8 @@
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
-## [SB 5376](/bill/2023-24/sb/5376/) - Cannabis waste 👍3  
+## [SB 5376](/bill/2023-24/sb/5376/) - Cannabis waste 👍4  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 

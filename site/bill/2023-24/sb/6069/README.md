@@ -14,17 +14,12 @@
 
 ## Meetings
 ### Tue 02/20 01:30 PM - Consumer Protection & Business (CPB): ESSB 6069 Retirement savings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159949&caId=24367&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159949&caId=24367&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159949&caId=24367&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159949&caId=24367&tId=4)
-
-#### 25 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Kirsten Curry - Leading Retirement Solutions
 * Jill Nelson
 * Karim Lessard
+* Cathy MacCaul - AARP Washington state
 
 #### 9 👎 - Con
 Testifying:

@@ -20,6 +20,9 @@
 
 ## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  
 
+## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp. 👍1  
+* 👍 Cindy Wolf
+
 ## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍1  
 
 ## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification 👍1  

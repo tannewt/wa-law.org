@@ -8,22 +8,29 @@
 
 ## Meetings
 ### Wed 02/21 08:00 AM - Agriculture and Natural Resources (AGNR): HB 2434 Fish and wildlife commission
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31979&aId=159577&caId=24268&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31979&aId=159577&caId=24268&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31979&aId=159577&caId=24268&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31979&aId=159577&caId=24268&tId=4)
-
-#### 2 👍 - Pro
-
-#### 143 👎 - Con
+#### 122 👍 - Pro
 Testifying:
+* Gary Tatro - Stillaguamish Tribe
+* 💵Thomas Nelson - The Outdoor Line LLC
+
+#### 407 👎 - Con
+Testifying:
+* Claire Davis - [Washington Wildlife First](/org/washington_wildlife_first/)
+* Susan D Kane-Ronning - Washington Sierra Club Wildlife Committee
+* David Moskowitz - The Conservation Angler
+* David Linn - Linn
+* Ronald Reed - PacifiCAD, Inc Retired
+* John Rosapepe - Endangered Species Coalition
 * Jeannette Mcchesney
 * Patricia Cooper
 * William Cooper
+* Bob McCoy
+* Carole Richmond - None
 
-#### 4 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Dane Czarnecki
 * Clarence Rushing - Backcountry Hunters and Anglers
+* Josh Rosenau - [Mountain Lion Foundation](/org/mountain_lion_foundation/)
+* Lisa Wilson - Lummi Nation, Secretary
 * Kelsey Ross

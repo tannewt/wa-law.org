@@ -11,31 +11,46 @@
 
 ## Meetings
 ### Wed 02/21 03:00 PM - Transportation (TRAN): SB 5947 Transportation budget, supp.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31968&aId=159726&caId=24262&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31968&aId=159726&caId=24262&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31968&aId=159726&caId=24262&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31968&aId=159726&caId=24262&tId=4)
-
-#### 6 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * 💵Justin Leighton - Washington State Transit Association
 * Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
 * Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* Cindy Wolf - [San Juan County](/org/san_juan_county/)
 * Mayor Mike Rosen - [City of Edmonds](/org/city_of_edmonds/)
+* Mike Rosen - [City of Edmonds](/org/city_of_edmonds/)
+* Lilly Hayward - Seattle Metropolitan Chamber of Commerce
+* Scott Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Axel Swanson - Washington State Association of County Engineers
+* Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 366 👎 - Con
+#### 483 👎 - Con
 Testifying:
 * Lisa Rojecki
 * Michael Zeller - Marathon Petroleum
 * Jeannette Mcchesney
+* Armondo Pavone - Mayor, City of Renton
 * Craig Blackwood
+* Bill Moyer - Solutionary Rail
+* 💵Carolyn Logue - South Sound Chambers of Commerce Legislative Coalition
+* 💵Michael Transue - Tacoma Pierce County Chamber
+* Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
+* Mary Paterson
 
-#### 4 ❓ - Other
+#### 15 ❓ - Other
 Testifying:
 * Mary Paterson - Rail Can't Wait campaign
 * Breck Lebegue - WA Physicians for Social Responsibility
+* Regan Bolli - Covington City Manager
 * 💵Jane Wall - County Road Administration Board
+* Lael White - Climate Rail Alliance
+* Thomas White - Climate Rail Alliance
+* Tim Gould
+* Will Knedlik - BadRoads.US
+* Arvia Morris
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* 💵Isaac Kastama - Clean and Prosperous Washington
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
 ### Tue 01/09 04:00 PM - Transportation (TRAN): SB 5947 Transportation budget, supp.
 #### 14 👍 - Pro

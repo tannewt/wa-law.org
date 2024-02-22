@@ -54,7 +54,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159803&caId=24332&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159803&caId=24332&tId=4)
 
-#### 1518 👍 - Pro
+#### 2997 👍 - Pro
 Testifying:
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * Stacey Valenzuela - Manufactured Homeowner
@@ -79,8 +79,28 @@ Testifying:
 * 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)
 * 💵Yvette Maganya - WBBA (WA Build Back Black Alliance)
 * Cindy Madigan
+* Douglas Freimarck Sr - AMHO
+* Councilmember Paul Dillon
+* Sol Villareal
+* Xavier Perez
+* Tonya Hennen
+* Mayor Thomas Strobehn - [City of La Center](/org/city_of_la_center/)
+* Richard Pirtle
+* Rebekah Gardea - QLaw Foundation of Washington
+* Julie Sparkman
+* Steven Powell
+* Elizabeth Oergel - Timberlane Mobile Estates
+* Elizabeth Oergel - Timberlane Mobile Estates
+* Anthony Nash - Self Advocates in Leadership
+* Eric Matthes - Self Advocates in Leadership
+* Kyle Matheson - Self Advocates in Leadership
+* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Sara Eubank - President: Silverdale Estates Resident Assn. 55+ Manufactured Home Community
+* Angela Jefferson - Councilmember City of Tumwater
+* Cindy Vargas - Tenants of Timberlane Mobile Estates
 
-#### 1424 👎 - Con
+#### 2393 👎 - Con
 Testifying:
 * Amandeep Cheema
 * Douglas Cole - - None -
@@ -140,12 +160,51 @@ Testifying:
 * Clifford Lund
 * Rebecka Bailey - McCathren Management
 * PATRICIA HOENDERMIS - Yakima Valley Landlords Assoc.
+* Jeff Krueger - Hidden Haven Mobile Home Park
+* Scott Heino
+* Doris McConnell
+* Morgan Shook - Partner/Sr. Policy Advisor, ECONorthwest
+* Ph.D., Ike Bannon - Senior Fellow, Jack Kemp Foundation
+* Sheri Druckman - Regional Vice-President, Legacy Partners
+* Carolyn Anderson - Republican Women of Whatcom County
+* Keith Schlemlein
+* Trina DeMoss
 * Jeannette Mcchesney
 * michael walsh - None
 * Natalie Martell - Windermere Property Management
 * David Bocock
+* Raymundo Manzanares
+* Janelle Costanti - Independent Small Housing Provider
+* Christa Connolly - West Prairie Village MHP
+* Monica Grant - Manufactured Housing Communities of Washington (MHCW)
+* Russ Millard - Manufactured Housing Communities of Washington (MHCW)
+* AP Hurd
+* Chris Rossman - NAIOPwa
+* Kevin Wallace - Wallace Properties, Inc.
+* Teri Haglund
+* Joe Levin - Disbursement Department
+* Chris Savage
+* Rob Little
+* Kyle Weeks
+* Greg Christiansen
+* John Shaw - SeaLevel Properties
+* Ty Brickner
+* 💵Michael Martin
+* Regina mbure
+* DENISE Helms
+* Elena Dailey
+* Tad Sommerville
+* Michael Stach
+* Mohammad Aminpour - Edgewood Apartments LLC
+* Sam Spiegelman - CADF
+* Camden Schutte - 360 Property Management
+* Riley Benge - Washington REALTORS
+* 💵Kevin Schilling - Mayor of Burien
+* Doris McConnell - Former Shoreline Councilmember
+* Sam Spiegelman - CADF - Citizen's Action Defense Fund
+* 💵Brett Waller - General Counsel, Devco Residential Group
 
-#### 9 ❓ - Other
+#### 21 ❓ - Other
 Testifying:
 * Peter Hansen - Keyrenter Tacoma Property Management
 * Ben Assa

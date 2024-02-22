@@ -12,6 +12,22 @@
 * 01/18/2024 [KIRO7](/org/kiro7/) - [State bill that would allow flexible work schedule for police officers passes senate – KIRO 7 News Seattle](https://www.kiro7.com/news/local/state-bill-that-would-allow-flexible-work-schedule-police-officers-passes-senate/KSLPOEZJ6NEL7NRUXJ6K6GXX3Y/#:~:text=SB%205424)
 
 ## Meetings
+### Thu 02/22 01:30 PM - Appropriations (APP): ESSB 5424 Flexible work/peace officers
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160084&caId=24394&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160084&caId=24394&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160084&caId=24394&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160084&caId=24394&tId=4)
+
+#### 6 👍 - Pro
+Testifying:
+* Sue Rahr
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/14 10:30 AM - Community Safety, Justice, & Reentry (CSJR): ESSB 5424 Flexible work/peace officers
 #### 28 👍 - Pro
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2230/</link>
 		<description>Updates about HB 2230</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 18 Feb 2024 04:51:05 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -196,6 +196,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Caitlyn/Jekel/2024-02-18 04:51:05</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

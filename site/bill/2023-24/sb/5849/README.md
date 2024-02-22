@@ -29,7 +29,7 @@ Testifying:
 * Jagriti Agrawal - CS Forward
 * Amy Zhou - CS Forward
 * Laura Hu
-* Kelly Ogilvie - [Kira Learning](/org/kira_learning/)
+* 💵Kelly Ogilvie - [Kira Learning](/org/kira_learning/)
 
 #### 7 👎 - Con
 Testifying:

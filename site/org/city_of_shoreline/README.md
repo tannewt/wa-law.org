@@ -15,13 +15,13 @@
 
 ## [HB 1585](/bill/2023-24/hb/1585/) - Local infra. project areas 👍2  
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍3  
 * 👍 Nathan Daum
 
 ## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍1  
 * 👍 Chris Roberts
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍3  
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍4  
 * 👍 Jim Hammond
 * 👍 Jim Hammond
 

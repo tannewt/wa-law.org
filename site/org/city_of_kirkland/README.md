@@ -8,7 +8,7 @@
 
 ## [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 
-## [HB 1052](/bill/2023-24/hb/1052/) - Nonprofit housing/tax ex. 👍1  
+## [HB 1052](/bill/2023-24/hb/1052/) - Nonprofit housing/tax ex. 👍2  
 
 ## [HB 1054](/bill/2023-24/hb/1054/) - Occupancy limits 👍2  
 
@@ -71,11 +71,13 @@
 
 ## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍1  
 
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
+
 ## [HB 1894](/bill/2023-24/hb/1894/) - Modifying provisions of the business licensing service program. 👍1  
 
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍2  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍3  
 
 ## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 👍1  
 
@@ -87,7 +89,7 @@
 
 ## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
 
-## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
+## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍2  
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 * 👍 Neal Black
@@ -101,6 +103,8 @@
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines. 👍1  
 
 ## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍1  
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
 
 ## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍2  
 
@@ -118,6 +122,8 @@
 
 ## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎1 
 * 👎 Michael Olson
+
+## [HB 2375](/bill/2023-24/hb/2375/) - Senior property tax ex./ADUs 👍1  
 
 ## [HB 2411](/bill/2023-24/hb/2411/) - School construction debt 👍1  
 

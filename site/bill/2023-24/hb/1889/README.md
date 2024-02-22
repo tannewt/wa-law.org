@@ -63,8 +63,8 @@ Testifying:
 * Paul Ryan Villanueva
 * Naydelin Olalde
 * Isela bonilla - ASWSU Vancouver
-* Michelle Carrillo - ASCWU Leg. Liaison
-* Reese Ramirez - Associated Students of UWT
+* 💵Michelle Carrillo - ASCWU Leg. Liaison
+* 💵Reese Ramirez - Associated Students of UWT
 * Eduardo Blancarte - Communities for Our Colleges
 * Stella Seth - Associated Students of Western Washington University
 * Isaac Marroquin - Washington State Graduate Student

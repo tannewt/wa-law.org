@@ -174,6 +174,9 @@
 ## [SB 5945](/bill/2023-24/sb/5945/) - Vehicle dealers  👎1 
 * 👎💵 Leah Missik
 
+## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
+* ❓💵 Leah Missik
+
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 * 👍 Megan Larkin
 

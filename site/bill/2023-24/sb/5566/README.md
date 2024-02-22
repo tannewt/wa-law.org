@@ -40,7 +40,7 @@ Testifying:
 * Jennifer Dellinger - State Board of Community and Technical Colleges
 * Riham Hashi - United Way of King County
 * 💵Sopeara Chay - South Puget Sound Community College
-* Michelle Carrillo - Student, Central Washington University
+* 💵Michelle Carrillo - Student, Central Washington University
 
 #### 9 👎 - Con
 

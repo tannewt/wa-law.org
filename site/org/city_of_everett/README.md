@@ -10,7 +10,7 @@
 
 ## [HB 1716](/bill/2023-24/hb/1716/) - Child care B&O credit 👍1  
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍3  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍4  
 
 ## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts  👎1 
 
@@ -33,7 +33,7 @@
 
 ## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
 
-## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍2  
+## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍3  
 
 ## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍1  
 
@@ -55,6 +55,8 @@
 ## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
 
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
+
+## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp. 👍1  
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 

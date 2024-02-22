@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 02/20 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 5774 Fingerprint backgr. checks
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159527&caId=24302&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159527&caId=24302&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159527&caId=24302&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32026&aId=159527&caId=24302&tId=4)
-
-#### 122 👍 - Pro
+#### 128 👍 - Pro
 Testifying:
 * Alan Lesher - YMCA of the Inland Northwest
 * Wendy Bart - Olympic Peninsula YMCAs
@@ -26,7 +20,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
 

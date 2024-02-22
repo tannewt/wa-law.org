@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6115/</link>
 		<description>Updates about SB 6115</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Feb 2024 08:28:44 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2024 10:37:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -155,12 +155,76 @@
 			<guid isPermaLink="false">testifier/Travis/Snell/2024-02-19 11:18:48</guid>
 		</item>
 		<item>
+			<title>👎Stuart Barry - WSDOT</title>
+			<description>Stuart Barry signed up to testify Con.</description>
+			<pubDate>Tue, 20 Feb 2024 03:54:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Stuart/Barry/2024-02-20 03:54:59</guid>
+		</item>
+		<item>
 			<title>👎Jeannette Mcchesney - WSDOT</title>
 			<description>Jeannette Mcchesney signed up to testify Con.</description>
 			<pubDate>Tue, 20 Feb 2024 08:28:44 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jeannette/Mcchesney/2024-02-20 08:28:44</guid>
+		</item>
+		<item>
+			<title>👎Stanislav Khozyainov - WSDOT</title>
+			<description>Stanislav Khozyainov signed up to testify Con.</description>
+			<pubDate>Tue, 20 Feb 2024 08:36:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Stanislav/Khozyainov/2024-02-20 08:36:16</guid>
+		</item>
+		<item>
+			<title>👎James Ware - WSDOT</title>
+			<description>James Ware signed up to testify Con.</description>
+			<pubDate>Tue, 20 Feb 2024 12:05:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/James/Ware/2024-02-20 12:05:25</guid>
+		</item>
+		<item>
+			<title>👎Tyler Jones - WSDOT</title>
+			<description>Tyler Jones signed up to testify Con.</description>
+			<pubDate>Wed, 21 Feb 2024 08:46:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tyler/Jones/2024-02-21 08:46:29</guid>
+		</item>
+		<item>
+			<title>👎Olivia Schuster - WSDOT</title>
+			<description>Olivia Schuster signed up to testify Con.</description>
+			<pubDate>Wed, 21 Feb 2024 09:42:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Olivia/Schuster/2024-02-21 09:42:04</guid>
+		</item>
+		<item>
+			<title>👎Viraj Chaudhary - WSDOT</title>
+			<description>Viraj Chaudhary signed up to testify Con.</description>
+			<pubDate>Wed, 21 Feb 2024 09:43:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Viraj/Chaudhary/2024-02-21 09:43:00</guid>
+		</item>
+		<item>
+			<title>👎Sophia Claiborne - WSDOT</title>
+			<description>Sophia Claiborne signed up to testify Con.</description>
+			<pubDate>Wed, 21 Feb 2024 09:45:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sophia/Claiborne/2024-02-21 09:45:33</guid>
+		</item>
+		<item>
+			<title>👎Konrad Schulz - WSDOT</title>
+			<description>Konrad Schulz signed up to testify Con.</description>
+			<pubDate>Wed, 21 Feb 2024 10:37:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Konrad/Schulz/2024-02-21 10:37:42</guid>
 		</item>
 	</channel>
 </rss>

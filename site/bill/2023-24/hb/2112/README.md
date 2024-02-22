@@ -52,7 +52,7 @@ Testifying:
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Melissa Beard - Council of Presidents
-* Reese Ramirez - UW Tacoma Students
+* 💵Reese Ramirez - UW Tacoma Students
 * Amanda Kost - University of Washington Faculty
 
 #### 0 👎 - Con

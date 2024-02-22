@@ -37,5 +37,7 @@
 * 👍 wendy sorensen
 * 👍 Dylan Doty
 
+## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp. 👍1  
+
 ## [SB 6185](/bill/2023-24/sb/6185/) - PTBA governing body members   ❓1
 * ❓ Sanjay Bhatt

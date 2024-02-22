@@ -86,7 +86,8 @@
 * ❓ Kati Durkin
 * 👍💵 Nicole Gomez
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍3  
+* 👍💵 Nicole Gomez
 * 👍💵 Nicole Gomez
 * 👍💵 Nicole Gomez
 
@@ -190,7 +191,8 @@
 
 ## [SB 5932](/bill/2023-24/sb/5932/) - Temporary total disability 👍1  
 
-## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
+## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓2
+* ❓ Kati Durkin
 * ❓ Kati Durkin
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  ❓1
@@ -215,9 +217,10 @@
 
 ## [SB 6107](/bill/2023-24/sb/6107/) - Construction/sanitary cond. 👍1  
 
-## [SB 6109](/bill/2023-24/sb/6109/) - Children and families 👍1  ❓2
+## [SB 6109](/bill/2023-24/sb/6109/) - Children and families 👍2  ❓2
 * ❓ Kati Durkin
 * ❓ Chelsea Burroughs
+* 👍 Kati Durkin
 * 👍 Kati Durkin
 
 ## [SB 6110](/bill/2023-24/sb/6110/) - Child fatalities 👍1  

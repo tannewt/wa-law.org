@@ -11,12 +11,6 @@
 
 ## Meetings
 ### Tue 02/20 01:30 PM - Postsecondary Education & Workforce (PEW): ESB 6296 Retail industry work group
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31904&aId=159620&caId=24318&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31904&aId=159620&caId=24318&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31904&aId=159620&caId=24318&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31904&aId=159620&caId=24318&tId=4)
-
 #### 14 👍 - Pro
 Testifying:
 * Rose GUNDERSEN - [Washington Retail Association](/org/washington_retail_association/)

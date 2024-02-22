@@ -11,12 +11,6 @@
 
 ## Meetings
 ### Tue 02/20 01:30 PM - State Government & Tribal Relations (SGOV): 2ESSB 5284 Campaign finance disclosure
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31993&aId=159561&caId=24321&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31993&aId=159561&caId=24321&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31993&aId=159561&caId=24321&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31993&aId=159561&caId=24321&tId=4)
-
 #### 8 👍 - Pro
 Testifying:
 * Sean Flynn - Public Disclosure Commission
@@ -24,7 +18,7 @@ Testifying:
 * Michael Charles
 * Ryan Hollander - [Fuse Washington](/org/fuse_washington/)
 
-#### 302 👎 - Con
+#### 303 👎 - Con
 Testifying:
 * 💵Conner Edwards - WA Professional Campaign Treasurer
 * Jeannette Mcchesney

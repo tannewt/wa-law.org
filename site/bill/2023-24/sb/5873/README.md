@@ -13,6 +13,25 @@
 * 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=SB%205873)
 
 ## Meetings
+### Thu 02/22 01:30 PM - Appropriations (APP): SSB 5873 Student transportation
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160007&caId=24371&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160007&caId=24371&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160007&caId=24371&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160007&caId=24371&tId=4)
+
+#### 27 👍 - Pro
+Testifying:
+* Tyler Muench - OSPI
+* Kerry Breakfield - Teamsters 174
+* Debbie Gath - IBT L38
+
+#### 55 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Carolyn Logue - WA Student Transportation Coalition
+
 ### Tue 01/23 04:00 PM - Ways & Means (WM): SB 5873 Student transportation
 #### 131 👍 - Pro
 Testifying:

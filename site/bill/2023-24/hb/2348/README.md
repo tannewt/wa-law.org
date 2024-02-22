@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Tue 02/20 04:00 PM - Ways & Means (WM): SHB 2348 County hospital funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159658&caId=24257&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159658&caId=24257&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159658&caId=24257&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159658&caId=24257&tId=4)
-
-#### 42 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * 💵Ian Goodhew - UW Med
@@ -27,7 +21,7 @@ Testifying:
 * Mike White - King County Executive Dow Constantine
 * Lauren Keeler - RN (Harborview Respite Program) - SEIU 1199NW
 
-#### 94 👎 - Con
+#### 113 👎 - Con
 
 #### 0 ❓ - Other
 

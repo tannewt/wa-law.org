@@ -3,8 +3,9 @@
 ## [HB 1485](/bill/2023-24/hb/1485/) - Roadside safety measures 👍1  
 * 👍💵 Peter Lukevich
 
-## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft   ❓1
+## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft   ❓2
 * ❓ Peter Lukevicvh
+* ❓💵 Peter Lukevich
 
 ## [HB 2359](/bill/2023-24/hb/2359/) - Vehicle impounds   ❓1
 * ❓ Peter Lukevicvh

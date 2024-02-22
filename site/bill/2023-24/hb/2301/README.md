@@ -13,6 +13,19 @@
 * 02/10/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Corry relieved property tax increase bill failed, but warns Democrats still have many other bills that will cost you](https://gorgenewscenter.com/2024/02/10/rep-corry-relieved-property-tax-increase-bill-failed-but-warns-democrats-still-have-many-other-bills-that-will-cost-you/#:~:text=HB%202301)
 
 ## Meetings
+### Sat 02/24 09:00 AM - Ways & Means (WM): E2SHB 2301 Waste material management
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160123&caId=24416&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160123&caId=24416&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160123&caId=24416&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160123&caId=24416&tId=4)
+
+#### 9 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/23 04:00 PM - Environment & Energy (ENVI): HB 2301 Waste material management
 #### 414 👍 - Pro
 Testifying:

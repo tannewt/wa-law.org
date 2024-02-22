@@ -87,7 +87,7 @@
 
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  
 
-## [SB 6277](/bill/2023-24/sb/6277/) - Transportation partnerships 👍1  
+## [SB 6277](/bill/2023-24/sb/6277/) - Transportation partnerships 👍2  
 
 ## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  
 

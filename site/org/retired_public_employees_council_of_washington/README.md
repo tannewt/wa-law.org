@@ -31,6 +31,8 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
 * 👍💵 Laurie Weidner
 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+
 ## [HB 2188](/bill/2023-24/hb/2188/) - Health subsidy/retirees 👍11  
 
 ## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings 👍1  

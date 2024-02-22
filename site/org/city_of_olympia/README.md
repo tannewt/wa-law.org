@@ -83,7 +83,7 @@
 
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍1  
+## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍2  
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍2  
 
@@ -111,7 +111,7 @@
 
 ## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports 👍1  
 
-## [HB 2375](/bill/2023-24/hb/2375/) - Senior property tax ex./ADUs 👍2  
+## [HB 2375](/bill/2023-24/hb/2375/) - Senior property tax ex./ADUs 👍3  
 
 ## [HB 2425](/bill/2023-24/hb/2425/) - Rental support program 👍1  
 

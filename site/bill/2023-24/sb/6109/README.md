@@ -15,6 +15,27 @@
 * 01/19/2024 [MyNorthwest](/org/mynorthwest/) - [Bill proposing child removal from homes with fentanyl gets emotional - MyNorthwest.com](https://mynorthwest.com/3947163/bill-proposes-child-removal-homes-fentanyl-sparks-charged-debate/#:~:text=Senate%20Bill%206109)
 
 ## Meetings
+### Thu 02/22 01:30 PM - Appropriations (APP): E2SSB 6109 Children and families
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160014&caId=24378&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160014&caId=24378&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160014&caId=24378&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160014&caId=24378&tId=4)
+
+#### 4 👍 - Pro
+Testifying:
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+
+#### 3 👎 - Con
+Testifying:
+* Crushante Richburg - VOCAL-WA
+* 💵Malika Lamont - VOCAL-WA
+
+#### 6 ❓ - Other
+Testifying:
+* Hanahn Korman - ALTSA Nurse Contractors (Nurse Delegators, Private Duty Nurses and Visiting Nurses
+* Katie Biron
+
 ### Wed 02/14 01:30 PM - Human Services, Youth, & Early Learning (HSEL): 2SSB 6109 Children and families
 #### 21 👍 - Pro
 Testifying:

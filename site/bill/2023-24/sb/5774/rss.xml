@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5774/</link>
 		<description>Updates about SB 5774</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Feb 2024 11:08:50 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -220,6 +220,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Suzie/Hanson/2024-02-20 11:08:50</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

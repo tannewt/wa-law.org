@@ -236,9 +236,9 @@
 ## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system.  👎1 
 * 👎💵 Carl Schroeder
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍3  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍4  
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍1 👎1 
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍2 👎1 
 * 👎💵 Lindsey Hueer
 
 ## [HB 1940](/bill/2023-24/hb/1940/) - Employer political speech   ❓1
@@ -327,7 +327,7 @@
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
-## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
+## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍2  
 
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
 * 👍💵 Lindsey Hueer
@@ -359,7 +359,7 @@
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
 * 👍💵 Carl Schroeder
 
-## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍2  
+## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍3  
 
 ## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
 
@@ -530,7 +530,7 @@
 ## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
 * 👎 Brandy DeLange
 
-## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍2  
+## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍3  
 * 👍💵 Lindsey Hueer
 * 👍💵 Lindsey Hueer
 
@@ -673,6 +673,9 @@
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
 
 ## [SB 5937](/bill/2023-24/sb/5937/) - Crime victims & witnesses 👍1  ❓1
+
+## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp. 👍1  
+* 👍 Brandy DeLange
 
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  ❓1
 * ❓ Brandy DeLange

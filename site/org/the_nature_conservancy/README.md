@@ -185,6 +185,9 @@
 
 ## [SB 5946](/bill/2023-24/sb/5946/) - Fallen firefighter memorial 👍2  
 
+## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp. 👍1  
+* 👍 Scott Richards
+
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍2  
 * 👍 Scott Richards
 * 👍 Skippy Shaw

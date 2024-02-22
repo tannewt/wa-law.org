@@ -14,3 +14,5 @@
 * 👎 Dave Gent
 
 ## [SB 5272](/bill/2023-24/sb/5272/) - Speed safety cameras 👍1  
+
+## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp. 👍1  

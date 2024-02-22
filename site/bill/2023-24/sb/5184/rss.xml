@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5184/</link>
 		<description>Updates about SB 5184</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 07:13:13 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1422,6 +1422,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Brian/Schwartz/2024-02-14 07:13:13</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

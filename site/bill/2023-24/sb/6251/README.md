@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Tue 02/20 01:30 PM - Health Care & Wellness (HCW): E2SSB 6251 Behavioral crisis coord.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159789&caId=24300&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159789&caId=24300&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159789&caId=24300&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159789&caId=24300&tId=4)
-
-#### 122 👍 - Pro
+#### 123 👍 - Pro
 Testifying:
 * Angela Kimball - Inseparable
 * 💵Brad Banks - Behavioral Health Administrative Services Organizations

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1916/</link>
 		<description>Updates about HB 1916</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -179,6 +179,13 @@
 			<pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-14/First reading, referred to Early Learning &amp; K-12 Education.</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

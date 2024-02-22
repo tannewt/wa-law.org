@@ -10,13 +10,7 @@
 
 ## Meetings
 ### Tue 02/20 01:30 PM - Consumer Protection & Business (CPB): ESSB 5968 Home equity sharing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159481&caId=24284&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159481&caId=24284&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159481&caId=24284&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159481&caId=24284&tId=4)
-
-#### 81 👍 - Pro
+#### 83 👍 - Pro
 Testifying:
 * Brendan Donckers - Northwest Consumer Law Center Board Member
 * Malena Pinkham - Northwest Justice Project
@@ -26,11 +20,12 @@ Testifying:
 * Mary Veneziani
 * Blythe Chandler
 
-#### 26 👎 - Con
+#### 27 👎 - Con
 Testifying:
 * Joshua Gaffney - Hometap Equity Partners, LLC
 * Lee Kaplan - [Unlock Technologies](/org/unlock_technologies/)
 * John Arens - Redwood Trust
+* 💵Rowland Thompson - Unison Equity
 
 #### 6 ❓ - Other
 Testifying:

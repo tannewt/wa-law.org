@@ -13,13 +13,11 @@
 
 ## Meetings
 ### Tue 02/20 04:00 PM - Ways & Means (WM): ESHB 1862 Disabled veteran assist./tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159946&caId=24355&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159946&caId=24355&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159946&caId=24355&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31971&aId=159946&caId=24355&tId=4)
-
-#### 11 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Allen Acosta - Veterans Legislative Coalition
+* Jerry Fugich - Veterans Legislative Coalition
+* Jason Bryan - American Lake Veterans Golf Course
 
 #### 0 👎 - Con
 

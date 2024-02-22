@@ -25,6 +25,21 @@
 * 01/29/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201579)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Ways & Means (WM): 3SHB 1579 Independent prosecutions
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160107&caId=24400&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160107&caId=24400&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160107&caId=24400&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160107&caId=24400&tId=4)
+
+#### 9 👍 - Pro
+
+#### 2 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 ❓ - Other
+
 ### Thu 02/15 08:00 AM - Law & Justice (LAW): 3SHB 1579 Independent prosecutions
 #### 518 👍 - Pro
 Testifying:

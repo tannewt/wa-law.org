@@ -13,3 +13,5 @@
 ## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  
 
 ## [SB 5835](/bill/2023-24/sb/5835/) - Rule making websites 👍1  
+
+## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp. 👍1  

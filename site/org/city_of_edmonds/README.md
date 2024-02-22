@@ -20,7 +20,8 @@
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances 👍2  
 
-## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp. 👍1  
+## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp. 👍2  
 * 👍 Mayor Mike Rosen
+* 👍 Mike Rosen
 
 ## [SB 6285](/bill/2023-24/sb/6285/) - Use of impact fees  👎1 

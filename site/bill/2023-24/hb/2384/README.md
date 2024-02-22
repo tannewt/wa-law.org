@@ -16,18 +16,13 @@
 
 ## Meetings
 ### Tue 02/20 04:00 PM - Transportation (TRAN): ESHB 2384 Traffic safety cameras
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159722&caId=24250&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159722&caId=24250&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159722&caId=24250&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31966&aId=159722&caId=24250&tId=4)
-
-#### 24 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Debbie Driver - Office of Governor Jay Inslee
 * Mark McKechnie - Washington Traffic Safety Commission
 * Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Axel Swanson - Washington State Association of County Engineers
+* Daniella Clark
 * Dr. Daniella Clark
 * Janice Zahn - [City of Bellevue](/org/city_of_bellevue/)
 * Rebecca Pezely - Brain Injury Community Alliance
@@ -35,17 +30,19 @@ Testifying:
 * JOEL WARE
 * Scott Yoos - person with TBI
 * Council Member Zack Zappone - Spokane City Council
+* Zack Zappone - Spokane City Council
+* Joe Kunzler
 * Serry Bauer
 * Kimberly Sandquist
 * Shawn Sandquist
 
-#### 386 👎 - Con
+#### 414 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 * Tim Eyman - Initiative Activist
 * Tad Sommerville
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

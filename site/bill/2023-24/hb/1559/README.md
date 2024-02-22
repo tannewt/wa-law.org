@@ -63,7 +63,7 @@ Testifying:
 * 💵Madeline Sprute - Tacoma Community College
 * Martell Naranjo - Tacoma Community College
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
-* Michelle Carrillo - 13th LD
+* 💵Michelle Carrillo - 13th LD
 * 💵Joel Anderson - Uniersity of Washington Graduate and Professional Student Senate
 * 💵Nora Selander - Western Washington University
 * Sandy Kaiser - The Evergreen State College

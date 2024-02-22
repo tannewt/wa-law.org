@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Tue 02/20 01:30 PM - Health Care & Wellness (HCW): E2SSB 5213 Health care benefit managers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159492&caId=24294&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159492&caId=24294&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159492&caId=24294&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32022&aId=159492&caId=24294&tId=4)
-
-#### 303 👍 - Pro
+#### 311 👍 - Pro
 Testifying:
 * Paul Naber - Personal
 * saikrishna arumilli - edmonds pharmacy
@@ -38,7 +32,7 @@ Testifying:
 * Robert Queen - Rosauers Supermarkets
 * 💵Erin Callahan - [Diabetes Patient Advocacy Coalition](/org/diabetes_patient_advocacy_coalition/)
 
-#### 577 👎 - Con
+#### 583 👎 - Con
 Testifying:
 * Mary Stoll - Pacific Health Coalition
 * Tim O'Donnell - IBEW Local 76

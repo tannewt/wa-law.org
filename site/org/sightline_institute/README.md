@@ -85,7 +85,8 @@
 
 ## [HB 2126](/bill/2023-24/hb/2126/) - Rural area ADUs 👍1  
 
-## [HB 2131](/bill/2023-24/hb/2131/) - Thermal energy networks 👍2  
+## [HB 2131](/bill/2023-24/hb/2131/) - Thermal energy networks 👍3  
+* 👍💵 Laura Feinstein
 * 👍💵 Laura Feinstein
 * 👍💵 Laura Feinstein
 

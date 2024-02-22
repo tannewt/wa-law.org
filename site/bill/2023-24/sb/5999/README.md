@@ -33,7 +33,7 @@ Testifying:
 * Max Zivin
 * Elisia Reaves - US Tacoma student
 * Holly Wetzel - Associated Students of the University of Washingtion Tacoma
-* Michelle Carrillo - Associated Students of Central Washington University
+* 💵Michelle Carrillo - Associated Students of Central Washington University
 * 💵Puneet Birk - Washington Student Association and Associated Students of the University of Washington Bothell
 * Sean Behl - Bellevue College Associated Student Government
 * Elias Bonilla

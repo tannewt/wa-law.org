@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1248/</link>
 		<description>Updates about HB 1248</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 15 Feb 2024 10:53:27 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -309,6 +309,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Charles/West/2024-02-15 10:53:27</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

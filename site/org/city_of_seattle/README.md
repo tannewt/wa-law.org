@@ -151,7 +151,7 @@
 
 ## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍2  
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
 
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
 
@@ -185,7 +185,7 @@
 
 ## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍3  
 
-## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍2  
+## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍3  
 * 👍 Kelli Larsen
 * 👍 Kelli Larsen
 
@@ -226,7 +226,7 @@
 
 ## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍2  
 
-## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
+## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍2  
 
 ## [HB 2197](/bill/2023-24/hb/2197/) - Medical assist./prevention 👍1  
 
@@ -369,9 +369,9 @@
 
 ## [SB 5383](/bill/2023-24/sb/5383/) - Pedestrians/roadways 👍1  
 
-## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍1  
+## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍2  
 
-## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍3  
+## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍4  
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
@@ -468,7 +468,7 @@
 
 ## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
 
-## [SB 6040](/bill/2023-24/sb/6040/) - Public works payments 👍1  
+## [SB 6040](/bill/2023-24/sb/6040/) - Public works payments 👍2  
 * 👍 Miguel Beltran
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍2  

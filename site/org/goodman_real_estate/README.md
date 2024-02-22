@@ -10,7 +10,7 @@
 
 ## [HB 1817](/bill/2023-24/hb/1817/) - Housing gap voucher pilot 👍1  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎3 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎4 
 * 👎 Audrey Riddle
 * 👎 Audrey Riddle
 

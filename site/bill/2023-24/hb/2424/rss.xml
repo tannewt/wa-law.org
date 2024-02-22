@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2424/</link>
 		<description>Updates about HB 2424</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 11:11:26 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -239,6 +239,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kent/Clark/2024-02-14 11:11:26</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Placed on second reading by Rules Committee.</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5241/</link>
 		<description>Updates about SB 5241</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 06:43:18 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -928,6 +928,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Cynthia/Radtke/2024-02-14 06:43:18</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

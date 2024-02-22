@@ -17,6 +17,21 @@
 * 01/24/2024 [Crosscut](/org/crosscut/) - [WA Legislature considers establishing a new state housing agency | Crosscut](https://crosscut.com/briefs/2024/01/wa-legislature-considers-establishing-new-state-housing-agency#:~:text=House%20Bill%202270)
 
 ## Meetings
+### Thu 02/22 01:30 PM - Ways & Means (WM): 2SHB 2270 Department of housing
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160068&caId=24389&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160068&caId=24389&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160068&caId=24389&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160068&caId=24389&tId=4)
+
+#### 12 👍 - Pro
+Testifying:
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+
+#### 224 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/14 10:30 AM - Housing (HSG): 2SHB 2270 Department of housing
 #### 22 👍 - Pro
 Testifying:

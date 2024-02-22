@@ -13,12 +13,6 @@
 
 ## Meetings
 ### Tue 02/20 01:30 PM - Environment, Energy & Technology (ENET): 2SHB 1551 Lead in cookware
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159760&caId=24245&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159760&caId=24245&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159760&caId=24245&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32003&aId=159760&caId=24245&tId=4)
-
 #### 39 👍 - Pro
 Testifying:
 * Megan Liu - Toxic-Free Future
@@ -27,10 +21,11 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Holly Davies - Washington State Department of Health
 * Kimberly Goetz - Department of Ecology
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
 ### Sat 02/03 09:00 AM - Appropriations (APP): HB 1551 Lead in cookware
 #### 6 👍 - Pro

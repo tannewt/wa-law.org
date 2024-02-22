@@ -18,26 +18,21 @@
 
 ## Meetings
 ### Tue 02/20 01:30 PM - Consumer Protection & Business (CPB): E2SSB 5838 AI task force
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159480&caId=24283&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159480&caId=24283&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159480&caId=24283&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32018&aId=159480&caId=24283&tId=4)
-
-#### 99 👍 - Pro
+#### 101 👍 - Pro
 Testifying:
 * Rosa Mai - Attorney General's Office
 * Veda Nayar
 * Jai Jaisimha - Transparency Coalition.ai
 * 💵Paula Sardinas - FMSGS/WBBA (WA Build Back Black Alliance)
+* Tee Sannon - ACLU of Washington
 
-#### 856 👎 - Con
+#### 868 👎 - Con
 Testifying:
 * Julie Barrett - Conservative Ladies of Washington
 * Laurie Layne
 * Teo Morca
 
-#### 7 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * 💵Kevin Schilling - Washington State Dental Association
 * Robert (Bob) Battles - Association of Washington Business (AWB)

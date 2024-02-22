@@ -44,7 +44,8 @@
 
 ## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍3  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍4  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
@@ -63,7 +64,7 @@
 ## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍1  
 * 👍💵 Bryce Yadon
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍6  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍7  
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon

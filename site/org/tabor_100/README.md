@@ -6,7 +6,7 @@
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
 
-## [SB 6040](/bill/2023-24/sb/6040/) - Public works payments 👍2  
+## [SB 6040](/bill/2023-24/sb/6040/) - Public works payments 👍3  
 * 👍💵 Brian Sims
 * 👍 Darci Henderson
 

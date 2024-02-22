@@ -16,6 +16,19 @@
 * 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202247)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Ways & Means (WM): E2SHB 2247 Behavioral health providers
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160110&caId=24403&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160110&caId=24403&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160110&caId=24403&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160110&caId=24403&tId=4)
+
+#### 3 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/16 08:00 AM - Health & Long Term Care (HLTC): E2SHB 2247 Behavioral health providers
 #### 85 👍 - Pro
 Testifying:

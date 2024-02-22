@@ -49,7 +49,7 @@ Testifying:
 * Martell Naranjo - Associated Students of Tacoma Community College
 * Alec Acosta-Vega - Associated Students of Central Washington University
 * Joseph Gabriel Burke - Director of Governmental Affairs, Associated Students of Central Washington University
-* Michelle Carrillo - Associated Students of Central Washington University
+* 💵Michelle Carrillo - Associated Students of Central Washington University
 * 💵Jessica Smith
 * Naira Gonzales Aranda - Associated Students of Western Washington University
 * 💵Collin Bannister - ASWSU

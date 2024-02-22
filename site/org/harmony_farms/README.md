@@ -5,7 +5,8 @@
 * 👍💵 Lukas Hunter
 * 👍💵 Lukas Hunter
 
-## [HB 1453](/bill/2023-24/hb/1453/) - Medical cannabis/tax 👍2  
+## [HB 1453](/bill/2023-24/hb/1453/) - Medical cannabis/tax 👍3  
+* 👍💵 Lukas Hunter
 * 👍💵 Lukas Hunter
 * 👍💵 Lukas Hunter
 
@@ -51,7 +52,8 @@
 * 👍💵 Lukas Hunter
 * 👍💵 Lukas Hunter
 
-## [SB 5376](/bill/2023-24/sb/5376/) - Cannabis waste 👍2  
+## [SB 5376](/bill/2023-24/sb/5376/) - Cannabis waste 👍3  
+* 👍💵 Lukas Hunter
 * 👍💵 Lukas Hunter
 * 👍💵 Lukas Hunter
 

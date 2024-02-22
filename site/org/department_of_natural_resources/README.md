@@ -9,7 +9,8 @@
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
 * 👍 Larry Leach
 
-## [HB 1818](/bill/2023-24/hb/1818/) - Forestland/compensating tax 👍1  
+## [HB 1818](/bill/2023-24/hb/1818/) - Forestland/compensating tax 👍2  
+* 👍 Duane Emmons
 * 👍 Duane Emmons
 
 ## [HB 1863](/bill/2023-24/hb/1863/) - Concerning payment for surveys of state-owned aquatic lands by current or prospective lessees of such lands.   ❓1
@@ -21,9 +22,10 @@
 ## [HB 1971](/bill/2023-24/hb/1971/) - Rangeland fire pilot   ❓1
 * ❓ Brian Considine
 
-## [HB 2003](/bill/2023-24/hb/2003/) - Housing/public lands leases 👍2  
+## [HB 2003](/bill/2023-24/hb/2003/) - Housing/public lands leases 👍3  
 * 👍 Krosbie Carter
 * 👍 Brian Considine
+* 👍 Krosbie Carter
 
 ## [HB 2051](/bill/2023-24/hb/2051/) - Reducing emissions from small off-road engines.   ❓1
 

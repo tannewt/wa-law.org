@@ -45,7 +45,7 @@
 * ❓💵 Charles Smith
 * ❓💵 Charles Smith
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍3  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍4  
 
 ## [HB 2186](/bill/2023-24/hb/2186/) - Juv. deferred adjudications 👍1  
 

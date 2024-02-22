@@ -32,8 +32,9 @@
 
 ## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍3  
 
-## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
+## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.  👎1 ❓1
 * ❓ Sean Eagan
+* 👎 Sean Eagan
 
 ## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍2  
 * 👍 Sean Eagan

@@ -5,6 +5,8 @@
 ## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍2  ❓1
 * ❓ Adam LeMieux
 
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
+
 ## [HB 1906](/bill/2023-24/hb/1906/) - Vessel length/nonresident 👍1  
 
 ## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎1 

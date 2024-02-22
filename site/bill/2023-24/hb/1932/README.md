@@ -23,6 +23,21 @@
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%201932)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Ways & Means (WM): ESHB 1932 Even-numbered year elections
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160108&caId=24401&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160108&caId=24401&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160108&caId=24401&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160108&caId=24401&tId=4)
+
+#### 4 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* Andy Cilley
+
+#### 0 ❓ - Other
+
 ### Fri 02/16 08:00 AM - State Government & Elections (SGE): ESHB 1932 Even-numbered year elections
 #### 504 👍 - Pro
 Testifying:

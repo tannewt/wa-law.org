@@ -12,6 +12,21 @@
 * 02/10/2024 [House Democrats](/org/house_democrats/) - [Ramel Bill Clears Obstacles for Exploring Thermal Energy Networks  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/10/ramel-bill-clears-obstacles-for-exploring-thermal-energy-networks/#:~:text=House%20Bill%202131)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Ways & Means (WM): ESHB 2131 Thermal energy networks
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160106&caId=24399&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160106&caId=24399&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160106&caId=24399&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160106&caId=24399&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* 💵Laura Feinstein - [Sightline Institute](/org/sightline_institute/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/01 08:00 AM - Capital Budget (CB): SHB 2131 Thermal energy networks
 #### 304 👍 - Pro
 Testifying:

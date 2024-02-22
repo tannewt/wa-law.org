@@ -85,7 +85,8 @@
 
 ## [HB 1521](/bill/2023-24/hb/1521/) - Industrial insurance/duties  👎1 
 
-## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware   ❓2
+## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware   ❓3
+* ❓💵 Crystal Leatherman
 * ❓💵 Crystal Leatherman
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  ❓1
@@ -197,8 +198,9 @@
 ## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.  👎1 
 * 👎💵 Crystal Leatherman
 
-## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft   ❓1
+## [HB 2153](/bill/2023-24/hb/2153/) - Catalytic converter theft 👍1  ❓1
 * ❓💵 Mark Johnson
+* 👍💵 Mark Johnson
 
 ## [HB 2171](/bill/2023-24/hb/2171/) - Incarcerated students 👍1  
 * 👍 Rose GUNDERSEN

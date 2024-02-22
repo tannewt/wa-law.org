@@ -108,7 +108,7 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍3  
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍4  
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍5  
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍5  
 
@@ -117,7 +117,7 @@
 ## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍4  
 * 👍💵 Kristin Ang
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍14  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍16  
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍7  
 
@@ -147,7 +147,8 @@
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍3  
 * 👍💵 Kristin Ang
 
-## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍8  
+## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍9  
+* 👍💵 Kristin Ang
 * 👍💵 Kristin Ang
 
 ## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍4  

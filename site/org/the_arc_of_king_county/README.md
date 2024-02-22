@@ -103,9 +103,9 @@
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Infants and toddlers program 👍2  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍3  
 
-## [HB 1941](/bill/2023-24/hb/1941/) - Health home serv./children 👍2  
+## [HB 1941](/bill/2023-24/hb/1941/) - Health home serv./children 👍3  
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍2  
 

@@ -17,6 +17,9 @@
 ## [HB 2424](/bill/2023-24/hb/2424/) - State-tribe coop./wildlife  👎2 
 * 👎 Claire Davis
 
+## [HB 2434](/bill/2023-24/hb/2434/) - Fish and wildlife commission  👎1 
+* 👎 Claire Davis
+
 ## [HB 2456](/bill/2023-24/hb/2456/) - Wildlife safe passages 👍1  
 
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍1  
