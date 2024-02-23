@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Appropriations (APP): SSB 5940 Medical assistant-EMT cert.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160008&caId=24372&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160008&caId=24372&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160008&caId=24372&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160008&caId=24372&tId=4)
-
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Katie Kolan - Washington State Hospital Association (WSHA)
 

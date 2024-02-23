@@ -18,6 +18,9 @@
 ## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources  👎1 
 * 👎💵 Brandon Houskeeper
 
+## [HB 2131](/bill/2023-24/hb/2131/) - Thermal energy networks   ❓1
+* ❓💵 Brandon Houskeeper
+
 ## [HB 2201](/bill/2023-24/hb/2201/) - Carbon market linkage   ❓2
 * ❓💵 Brandon Houskeeper
 

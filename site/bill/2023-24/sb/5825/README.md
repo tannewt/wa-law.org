@@ -9,6 +9,19 @@
 * [Second Substitute](S2/)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Appropriations (APP): 2SSB 5825 Guardianship
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160154&caId=24448&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160154&caId=24448&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160154&caId=24448&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160154&caId=24448&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): 2SSB 5825 Guardianship
 #### 11 👍 - Pro
 Testifying:

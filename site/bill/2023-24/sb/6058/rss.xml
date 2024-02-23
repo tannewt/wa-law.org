@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6058/</link>
 		<description>Updates about SB 6058</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2024 04:57:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -463,6 +463,21 @@
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-21/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>Republicans reject Democrat idea of linking energy policy with California</title>
+			<description>News article &quot;Republicans reject Democrat idea of linking energy policy with California&quot; from Gorge News Center.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/02/21/republicans-reject-democrat-idea-of-linking-energy-policy-with-california/#:~:text=Senate%20Bill%206058</guid>
+		</item>
+		<item>
+			<title>👍💵John Rothlin - Avista</title>
+			<description>John Rothlin signed up to testify Pro. They are signed up to represent Avista. They are a registered lobbyist.</description>
+			<pubDate>Thu, 22 Feb 2024 04:57:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Rothlin/2024-02-22 04:57:49</guid>
 		</item>
 	</channel>
 </rss>

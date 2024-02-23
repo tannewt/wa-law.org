@@ -67,7 +67,7 @@
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍6  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍4  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍5  
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍2  
 * 👍💵 Aaron Czyzewski
@@ -96,6 +96,8 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  ❓1
 * 👍💵 Aaron Czyzewski
 * ❓💵 Aaron Czyzewski
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
 
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
 

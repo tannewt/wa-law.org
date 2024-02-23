@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 07/20/2023 [Sightline Institute](/org/sightline_institute/) - [From Vermont to Oklahoma, Legislatures Challenge Parking Mandates - Sightline Institute](https://www.sightline.org/2023/07/20/from-vermont-to-oklahoma-legislatures-challenge-parking-mandates/#:~:text=SB%205456)
+* 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [UPDATED: 50 Housing Bills and How They Fared in Olympia - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now#:~:text=SB%205456)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB%205456)
 
 ## Meetings

@@ -16,7 +16,7 @@
 
 ## [HB 2088](/bill/2023-24/hb/2088/) - Crisis teams/liability 👍1  
 
-## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
+## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍2  
 * 👍 Julia O'Connor
 
 ## [HB 2319](/bill/2023-24/hb/2319/) - Substance use treatment   ❓1

@@ -335,7 +335,7 @@
 
 ## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
 
-## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍1  
+## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍2  
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 
@@ -388,7 +388,7 @@
 
 ## [HB 2186](/bill/2023-24/hb/2186/) - Juv. deferred adjudications 👍1  
 
-## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
+## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍2  
 
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
 * 👍💵 Michael White
@@ -403,7 +403,7 @@
 
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍1  
 
-## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍4  
+## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍5  
 
 ## [HB 2250](/bill/2023-24/hb/2250/) - Local elections 👍1  
 
@@ -411,7 +411,7 @@
 
 ## [HB 2258](/bill/2023-24/hb/2258/) - Regional 911 funding  👎1 
 
-## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍3  
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍4  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
@@ -622,11 +622,11 @@
 
 ## [SB 5423](/bill/2023-24/sb/5423/) - Working conn. child care 👍1  
 
-## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍2  
+## [SB 5424](/bill/2023-24/sb/5424/) - Flexible work/peace officers 👍3  
 
 ## [SB 5426](/bill/2023-24/sb/5426/) - Family connections program 👍1  
 
-## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍1  
+## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍2  
 
 ## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍2  
 

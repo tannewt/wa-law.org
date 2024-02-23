@@ -20,19 +20,17 @@
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Appropriations (APP): SSB 5427 Hate crimes & bias incidents
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160086&caId=24396&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160086&caId=24396&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160086&caId=24396&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160086&caId=24396&tId=4)
-
-#### 119 👍 - Pro
+#### 147 👍 - Pro
 Testifying:
 * 💵Gabriel Neuman - GSBA
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 * Miri Cypers - ADL
+* 💵Albert Sardinas - WBBA
 
-#### 236 👎 - Con
+#### 387 👎 - Con
+Testifying:
+* Kim Slinger
+* Jeannette Mcchesney
 
 #### 0 ❓ - Other
 

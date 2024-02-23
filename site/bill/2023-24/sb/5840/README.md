@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/20/2024 [Gorge News Center](/org/gorge_news_center/) - [House Housing Committee passes Padden small condominium bill](https://gorgenewscenter.com/2024/02/20/house-housing-committee-passes-padden-small-condominium-bill/#:~:text=Senate%20Bill%205840)
+
 ## Meetings
 ### Wed 02/14 10:30 AM - Housing (HOUS): SSB 5840 Leases
 #### 3 👍 - Pro

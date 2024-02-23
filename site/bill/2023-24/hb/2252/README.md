@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024#:~:text=HB%202252)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%202252)
 * 01/27/2024 [The Urbanist](/org/the_urbanist/) - [Legislature Advances Proposal Allowing Cafes in More Neighborhoods - The Urbanist](https://www.theurbanist.org/2024/01/27/legislature-advances-proposal-allowing-cafes-in-more-neighborhoods/#:~:text=House%20Bill%202252)
 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [UPDATED: 50 Housing Bills and How They Fared in Olympia - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now#:~:text=HB%201149)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201149)
 * 01/09/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of the Pacific Northwest - First Legislative Update of 2023 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate1102023#:~:text=HB%201149)
 

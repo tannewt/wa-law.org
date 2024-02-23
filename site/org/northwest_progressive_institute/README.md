@@ -97,7 +97,8 @@
 
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍4  
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍6  
+* 👍 Andrew Villeneuve
 * 👍 Andrew Villeneuve
 * 👍 Andrew Villeneuve
 
@@ -130,7 +131,7 @@
 * 👍 Andrew Villeneuve
 * 👍 Andrew Villeneuve
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍1  
 

@@ -13,6 +13,19 @@
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%202236)
 
 ## Meetings
+### Sat 02/24 09:00 AM - Ways & Means (WM): ESHB 2236 Tech. ed. core plus programs
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160239&caId=24477&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160239&caId=24477&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160239&caId=24477&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160239&caId=24477&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/19 01:30 PM - Early Learning & K-12 Education (EDU): ESHB 2236 Tech. ed. core plus programs
 #### 18 👍 - Pro
 Testifying:

@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160112&caId=24405&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160112&caId=24405&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Bea Rector - Dept. of Social and Health Services
 
 #### 1 👎 - Con
 Testifying:

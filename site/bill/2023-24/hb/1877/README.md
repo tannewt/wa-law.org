@@ -21,11 +21,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160116&caId=24409&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160116&caId=24409&tId=4)
 
-#### 2 👍 - Pro
+#### 27 👍 - Pro
 
-#### 0 👎 - Con
+#### 183 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Nanci Watson
 
 ### Mon 02/19 10:30 AM - Law & Justice (LAW): 2SHB 1877 Behavioral health/tribes
 #### 24 👍 - Pro

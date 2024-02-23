@@ -17,7 +17,7 @@
 
 ## [HB 1565](/bill/2023-24/hb/1565/) - Prof. education workforce 👍5  
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍5  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍6  
 
 ## [HB 1793](/bill/2023-24/hb/1793/) - Wireless devices tax  👎1 
 * 👎💵 Kelly Fukai
@@ -43,7 +43,7 @@
 
 ## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings   ❓1
 
-## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍3  
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍4  
 
 ## [HB 2277](/bill/2023-24/hb/2277/) - Data brokering  👎1 
 * 👎💵 Kelly Fukai
@@ -54,7 +54,7 @@
 
 ## [HB 2382](/bill/2023-24/hb/2382/) - TNC driver death benefits  👎1 
 
-## [HB 2482](/bill/2023-24/hb/2482/) - Semiconductor tax incentives 👍1  
+## [HB 2482](/bill/2023-24/hb/2482/) - Semiconductor tax incentives 👍2  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍4  
 

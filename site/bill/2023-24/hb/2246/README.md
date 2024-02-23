@@ -17,7 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160109&caId=24402&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160109&caId=24402&tId=4)
 
-#### 1 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Kati Durkin
 
 #### 0 👎 - Con
 

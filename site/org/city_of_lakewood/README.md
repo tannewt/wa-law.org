@@ -2,7 +2,7 @@
 
 ## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍4  
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎1 ❓2
 * ❓ Tiffany Speir
@@ -18,9 +18,11 @@
 
 ## [HB 1650](/bill/2023-24/hb/1650/) - Cannabis prohibitions  👎3 
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
 
 ## [HB 2321](/bill/2023-24/hb/2321/) - Middle housing requirements   ❓1
+
+## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas 👍1  
 
 ## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍1  
 
@@ -52,4 +54,4 @@
 
 ## [SB 6015](/bill/2023-24/sb/6015/) - Residential parking  👎1 
 
-## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍2  
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍3  

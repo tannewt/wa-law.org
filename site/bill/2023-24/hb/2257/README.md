@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/21/2024 [House Democrats](/org/house_democrats/) - [Economic Growth, Social Cohesion, & Support for Veterans – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/21/economic-growth-social-cohesion-support-for-veterans/#:~:text=2257)
 * 02/14/2024 [Gorge News Center](/org/gorge_news_center/) - [Goehner’s bill to aid costly search and rescue efforts in Washington’s wilderness unanimously approved in House](https://gorgenewscenter.com/2024/02/14/goehners-bill-to-aid-costly-search-and-rescue-efforts-in-washingtons-wilderness-unanimously-approved-in-house/#:~:text=House%20Bill%202257)
 
 ## Meetings

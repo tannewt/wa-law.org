@@ -13,6 +13,19 @@
 * 01/22/2024 [KIRO7](/org/kiro7/) - [New bill would improve human trafficking laws as Washington gets C grade – KIRO 7 News Seattle](https://www.kiro7.com/news/local/new-bill-would-improve-human-trafficking-laws-washington-gets-c-grade/P765H4NLHNGSNENZNIMIOUKKYU/#:~:text=SB%206006)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Appropriations (APP): 2SSB 6006 Victims of human trafficking
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160166&caId=24460&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160166&caId=24460&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160166&caId=24460&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160166&caId=24460&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/15 08:00 AM - Community Safety, Justice, & Reentry (CSJR): 2SSB 6006 Victims of human trafficking
 #### 72 👍 - Pro
 

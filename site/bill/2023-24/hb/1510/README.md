@@ -16,11 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160114&caId=24407&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160114&caId=24407&tId=4)
 
-#### 19 👍 - Pro
+#### 132 👍 - Pro
+Testifying:
+* Kji Kelly - Historic Seattle
+* Liz Jarrard - Compass Housing Alliance
+* Kathleen Barry Johnson - [Historic South Downtown](/org/historic_south_downtown/)
 
-#### 0 👎 - Con
+#### 193 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 02/15 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): ESHB 1510 Community preservation auth.
 #### 61 👍 - Pro

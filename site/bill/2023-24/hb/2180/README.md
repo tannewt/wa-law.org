@@ -17,6 +17,19 @@
 * 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=HB%202180)
 
 ## Meetings
+### Sat 02/24 09:00 AM - Ways & Means (WM): SHB 2180 Special education cap
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160244&caId=24482&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160244&caId=24482&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160244&caId=24482&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160244&caId=24482&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/17 04:00 PM - Appropriations (APP): HB 2180 Special education cap
 #### 203 👍 - Pro
 Testifying:

@@ -10,6 +10,19 @@
 * 02/16/2024 [The Seattle Times](/org/the_seattle_times/) - [Lawmakers won’t act on WA long-term care ballot initiative | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/lawmakers-wont-act-on-wa-long-term-care-ballot-initiative/#:~:text=Senate%20Bill%206072)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Appropriations (APP): ESB 6072 LTSS commission recs.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160171&caId=24465&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160171&caId=24465&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160171&caId=24465&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160171&caId=24465&tId=4)
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/20 01:30 PM - Health Care & Wellness (HCW): ESB 6072 LTSS commission recs.
 #### 89 👍 - Pro
 Testifying:

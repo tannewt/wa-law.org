@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5881/</link>
 		<description>Updates about SB 5881</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 13 Feb 2024 06:29:15 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -103,6 +103,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Dylan/Doty/2024-02-13 06:29:15</guid>
+		</item>
+		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-22/APP - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

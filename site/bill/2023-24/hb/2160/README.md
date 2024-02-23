@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024#:~:text=HB%202160)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%202160)
 * 01/17/2024 [PubliCola](/org/publicola/) - [State Rep Says Inclusionary Zoning Near Transit Will Prevent Displacement, SPD General Counsel Filed Initial Complaint Against Laughing Cop - PubliCola](https://publicola.com/2024/01/17/spd-general-counsel-filed-initial-complaint-against-laughing-cop-rep-reed-says-inclusionary-zoning-near-transit-will-prevent-displacement/#:~:text=(HB%202160)
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%202160)
@@ -23,15 +24,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160127&caId=24420&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160127&caId=24420&tId=4)
 
-#### 7 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Joe Kunzler
+* Noha Mahgoub - Governor's Office
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * John Worthington
+* Scott Bonjukian
 
 ### Thu 02/15 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): E2SHB 2160 Housing development
 #### 481 👍 - Pro

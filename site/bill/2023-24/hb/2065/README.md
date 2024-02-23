@@ -25,13 +25,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160118&caId=24411&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160118&caId=24411&tId=4)
 
-#### 500 👍 - Pro
+#### 923 👍 - Pro
+Testifying:
+* Maria Buxbaum
+* Judge Veronica Galvan - King County Superior Court Judge and Minority & Justice Commission Co-Chair
+* 💵Michael Moran - 1. Chehalis Tribe 2. Coville Tribes
+* Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
 
-#### 3 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/19 10:30 AM - Law & Justice (LAW): E2SHB 2065 Offender score recalc.
 #### 1489 👍 - Pro

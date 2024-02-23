@@ -20,7 +20,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160123&caId=24416&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160123&caId=24416&tId=4)
 
-#### 9 👍 - Pro
+#### 32 👍 - Pro
+Testifying:
+* Jay Kang - Thurston County Food Bank
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Michael Moran - Second Harvest of the Inland Northwest
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
 #### 0 👎 - Con
 

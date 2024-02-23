@@ -21,7 +21,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160125&caId=24418&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160125&caId=24418&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Josh Kerns - [Spokane County](/org/spokane_county/)
 
 #### 0 👎 - Con
 

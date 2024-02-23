@@ -15,17 +15,11 @@
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Appropriations (APP): 2ESSB 5150 Beef commission
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160006&caId=24370&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160006&caId=24370&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160006&caId=24370&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160006&caId=24370&tId=4)
-
-#### 93 👍 - Pro
+#### 132 👍 - Pro
 Testifying:
 * 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

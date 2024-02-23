@@ -14,7 +14,7 @@
 
 ## [HB 1530](/bill/2023-24/hb/1530/) - Law enf. employ. eligibility 👍1  
 
-## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍2  
 * 👍 Richa Sigdel
 
 ## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍2  

@@ -12,6 +12,22 @@
 * 02/12/2024 [Gorge News Center](/org/gorge_news_center/) - [Muzzall bill gives economic boost for habitat preservation](https://gorgenewscenter.com/2024/02/12/muzzall-bill-gives-economic-boost-for-habitat-preservation/#:~:text=Senate%20Bill%205667)
 
 ## Meetings
+### Fri 02/23 08:00 AM - Capital Budget (CB): SSB 5667 Forestry riparian easements
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=160229&caId=24433&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=160229&caId=24433&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=160229&caId=24433&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=160229&caId=24433&tId=4)
+
+#### 17 👍 - Pro
+Testifying:
+* Elaine Oneil - WA Farm Forestry Association
+* Ken Miller - Miller Family Forest
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/20 10:30 AM - Agriculture and Natural Resources (AGNR): SSB 5667 Forestry riparian easements
 #### 224 👍 - Pro
 Testifying:

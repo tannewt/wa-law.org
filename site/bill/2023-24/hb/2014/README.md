@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/21/2024 [House Democrats](/org/house_democrats/) - [Economic Growth, Social Cohesion, & Support for Veterans – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/21/economic-growth-social-cohesion-support-for-veterans/#:~:text=2014)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=House%20Bill%202014)
 
 ## Meetings

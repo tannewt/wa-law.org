@@ -16,7 +16,7 @@
 
 ## [HB 1716](/bill/2023-24/hb/1716/) - Child care B&O credit 👍1  
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 
 ## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
 
@@ -125,7 +125,7 @@
 
 ## [SB 6245](/bill/2023-24/sb/6245/) - Refugee & immigrant assist. 👍1  
 
-## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
+## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍2  
 
 ## [SB 6303](/bill/2023-24/sb/6303/) - Providing tax incentives to encourage energy storage system and component parts manufacturing in Washington. 👍1  
 

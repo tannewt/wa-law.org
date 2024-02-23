@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/20/2024 [Gorge News Center](/org/gorge_news_center/) - [House Housing Committee passes Padden small condominium bill](https://gorgenewscenter.com/2024/02/20/house-housing-committee-passes-padden-small-condominium-bill/#:~:text=Senate%20Bill%205792)
 * 01/26/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate committee passes another Padden bill removing red tape from construction of smaller condominiums](https://gorgenewscenter.com/2024/01/26/senate-committee-passes-another-padden-bill-removing-red-tape-from-construction-of-smaller-condominiums/#:~:text=Senate%20Bill%205792)
 
 ## Meetings

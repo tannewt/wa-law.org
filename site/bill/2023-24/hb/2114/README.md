@@ -21,6 +21,7 @@
 * 02/14/2024 [Gorge News Center](/org/gorge_news_center/) - [Rent control passes House; Republicans warn partisan bill could result in less housing and higher rents](https://gorgenewscenter.com/2024/02/14/rent-control-passes-house-republicans-warn-partisan-bill-could-result-in-less-housing-and-higher-rents/#:~:text=House%20Bill%202114)
 * 02/13/2024 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization Backers Aim to Beat Deadline to Keep Bill Alive - The Urbanist](https://www.theurbanist.org/2024/02/13/rent-stabilization-backers-aim-to-beat-deadline-to-keep-bill-alive/#:~:text=House%20Bill%202114)
 * 02/13/2024 [The Seattle Times](/org/the_seattle_times/) - [WA House votes to limit rent hikes; tough Senate road awaits | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-house-votes-to-limit-rent-hikes-tough-senate-road-awaits/#:~:text=House%20Bill%202114)
+* 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024#:~:text=HB%202114)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%202114)
 * 02/13/2024 [House Democrats](/org/house_democrats/) - [Washington House Democrats bring fairness to the housing market with rent stabilization – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/13/washington-house-democrats-bring-fairness-to-the-housing-market-with-rent-stabilization/#:~:text=HB%202114)
 * 02/12/2024 [The Seattle Times](/org/the_seattle_times/) - [As deadline looms, WA House vote on rent bill is uncertain | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/as-deadline-looms-wa-house-vote-on-rent-bill-is-uncertain/#:~:text=House%20Bill%202114)
@@ -48,13 +49,7 @@
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Ways & Means (WM): ESHB 2114 Residential tenants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159803&caId=24332&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159803&caId=24332&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159803&caId=24332&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159803&caId=24332&tId=4)
-
-#### 2997 👍 - Pro
+#### 3440 👍 - Pro
 Testifying:
 * 💵Jazmine Smith - [The Washington Bus](/org/the_washington_bus/)
 * Stacey Valenzuela - Manufactured Homeowner
@@ -99,8 +94,12 @@ Testifying:
 * Sara Eubank - President: Silverdale Estates Resident Assn. 55+ Manufactured Home Community
 * Angela Jefferson - Councilmember City of Tumwater
 * Cindy Vargas - Tenants of Timberlane Mobile Estates
+* Mellany Manaig
+* Rebecca Ward
+* Ry Armstrong
+* Amber I aid
 
-#### 2393 👎 - Con
+#### 2689 👎 - Con
 Testifying:
 * Amandeep Cheema
 * Douglas Cole - - None -
@@ -203,11 +202,27 @@ Testifying:
 * Doris McConnell - Former Shoreline Councilmember
 * Sam Spiegelman - CADF - Citizen's Action Defense Fund
 * 💵Brett Waller - General Counsel, Devco Residential Group
+* Anne Karppinen
+* Wyatt Stanley
+* Cory Brewer
+* Susan Watkins - Owner of 150 homes
+* barbara korducki
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Andrea Reay
+* Tad Sommerville
+* Donald Arsenault - Arsenault Realty Advisors, LLC
+* Brandon Allen - 85-3467580
+* Don Peterson - Prometheus Real Estate Group
+* Michael Gustavson
+* Elisa Lyles
+* Marianne Gustavson
+* Alberto Aguirre
 
-#### 21 ❓ - Other
+#### 25 ❓ - Other
 Testifying:
 * Peter Hansen - Keyrenter Tacoma Property Management
 * Ben Assa
+* Thomas Karston
 
 ### Wed 01/24 04:00 PM - Appropriations (APP): HB 2114 Residential tenants
 #### 1582 👍 - Pro

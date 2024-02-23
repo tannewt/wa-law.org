@@ -16,6 +16,19 @@
 * [Cascadia Daily News](/org/cascadia_daily_news/) - [Fentanyl, housing, public safety top priorities for Washington Legislature](https://cascadiadaily.com/news/2024/jan/04/fentanyl-housing-public-safety-top-priorities-in-2024-legislative-session/#:~:text=House%20Bill%201391)
 
 ## Meetings
+### Sat 02/24 09:00 AM - Ways & Means (WM): 2SHB 1391 Energy in buildings
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160236&caId=24474&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160236&caId=24474&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160236&caId=24474&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160236&caId=24474&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/16 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1391 Energy in buildings
 #### 277 👍 - Pro
 Testifying:

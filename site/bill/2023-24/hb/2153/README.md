@@ -9,18 +9,13 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/21/2024 [House Democrats](/org/house_democrats/) - [Economic Growth, Social Cohesion, & Support for Veterans – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/21/economic-growth-social-cohesion-support-for-veterans/#:~:text=2153)
 * 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202153)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202153)
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Transportation (TRAN): ESHB 2153 Catalytic converter theft
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31967&aId=159962&caId=24369&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31967&aId=159962&caId=24369&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31967&aId=159962&caId=24369&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31967&aId=159962&caId=24369&tId=4)
-
-#### 13 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Benjamin Lelivelt
@@ -29,8 +24,10 @@ Testifying:
 * Tyler Robison
 * Noelle Burianek - Lake Washington High School
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
+* Gary Ernsdorff - King County Prosecuting Attorney's Office
+* 💵Holly Chisa - Institute of Scrap Recycling Industries
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

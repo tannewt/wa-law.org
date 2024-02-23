@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Appropriations (APP): SB 5811 Individual providers/family
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160153&caId=24447&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160153&caId=24447&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160153&caId=24447&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160153&caId=24447&tId=4)
+
+#### 0 👍 - Pro
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/20 01:30 PM - Health Care & Wellness (HCW): SB 5811 Individual providers/family
 #### 31 👍 - Pro
 Testifying:

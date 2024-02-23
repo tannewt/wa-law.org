@@ -408,7 +408,7 @@
 ## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍2  
 * 👍 Rose GUNDERSEN
 
-## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
+## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍2  
 * 👍💵 Crystal Leatherman
 
 ## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍3  

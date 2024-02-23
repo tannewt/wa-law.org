@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/21/2024 [House Democrats](/org/house_democrats/) - [Economic Growth, Social Cohesion, & Support for Veterans – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/21/economic-growth-social-cohesion-support-for-veterans/#:~:text=1012)
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [Speaker Jinkins: “Optimistic and determined” about 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/speaker-jinkins-optimistic-and-determined-about-2024-legislative-session/#:~:text=SHB%201012)
 * 02/24/2023 [House Democrats](/org/house_democrats/) - [Representative Mari Leavitt Passes Four Bills to Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/24/representative-mari-leavitt-passes-four-bills-to-senate/#:~:text=HB%201012)
 
@@ -19,9 +20,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160115&caId=24408&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160115&caId=24408&tId=4)
 
-#### 1 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* Cynthia Stewart - League of Women Voters of WA
+* Bob Rilling-Smith - American Kennel Club
 
-#### 0 👎 - Con
+#### 188 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
 #### 0 ❓ - Other
 

@@ -114,7 +114,7 @@
 
 ## [HB 2283](/bill/2023-24/hb/2283/) - Shared leave/disasters 👍2  
 
-## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍2  ❓1
+## [HB 2311](/bill/2023-24/hb/2311/) - First responder wellness 👍3  ❓1
 * ❓ Kati Durkin
 
 ## [HB 2323](/bill/2023-24/hb/2323/) - Rent payments/credit reports 👍1  

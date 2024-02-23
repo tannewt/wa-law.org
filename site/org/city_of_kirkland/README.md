@@ -219,9 +219,9 @@
 
 ## [SB 6076](/bill/2023-24/sb/6076/) - Criminal justice local tax 👍2  
 
-## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍2  
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍3  
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍2  
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍3  
 
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 
 * 👎 Michael Olson

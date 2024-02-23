@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5241/</link>
 		<description>Updates about SB 5241</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2024 05:15:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -935,6 +935,54 @@
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-21/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍Rory Paine-Donovan - WA Attorney General</title>
+			<description>Rory Paine-Donovan signed up to testify Pro. They are signed up to represent WA Attorney General.</description>
+			<pubDate>Thu, 22 Feb 2024 04:57:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rory/Paine-Donovan/2024-02-22 04:57:40</guid>
+		</item>
+		<item>
+			<title>👎💵Vicki Christophersen - Washington Independent Physician Practice Association</title>
+			<description>Vicki Christophersen signed up to testify Con. They are signed up to represent Washington Independent Physician Practice Association. They are a registered lobbyist.</description>
+			<pubDate>Thu, 22 Feb 2024 05:02:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Vicki/Christophersen/2024-02-22 05:02:42</guid>
+		</item>
+		<item>
+			<title>👎💵Brooke Davies - Pediatrix Medical Group of Washington</title>
+			<description>Brooke Davies signed up to testify Con. They are signed up to represent Pediatrix Medical Group of Washington. They are a registered lobbyist.</description>
+			<pubDate>Thu, 22 Feb 2024 05:04:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brooke/Davies/2024-02-22 05:04:01</guid>
+		</item>
+		<item>
+			<title>👍Dr. Anuj Khattar - Cedar River Clinics</title>
+			<description>Dr. Anuj Khattar signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/cedar_river_clinics/&quot;&gt;Cedar River Clinics&lt;/a&gt;.</description>
+			<pubDate>Thu, 22 Feb 2024 05:15:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dr. Anuj/Khattar/2024-02-22 05:15:36</guid>
+		</item>
+		<item>
+			<title>👍Justin Gill - WSNA</title>
+			<description>Justin Gill signed up to testify Pro. They are signed up to represent WSNA.</description>
+			<pubDate>Thu, 22 Feb 2024 05:15:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Justin/Gill/2024-02-22 05:15:36</guid>
+		</item>
+		<item>
+			<title>👍Sam Hatzenbeler - Economic Opportunity Institute</title>
+			<description>Sam Hatzenbeler signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/economic_opportunity_institute/&quot;&gt;Economic Opportunity Institute&lt;/a&gt;.</description>
+			<pubDate>Thu, 22 Feb 2024 05:15:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sam/Hatzenbeler/2024-02-22 05:15:36</guid>
 		</item>
 	</channel>
 </rss>

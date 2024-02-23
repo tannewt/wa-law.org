@@ -7,6 +7,21 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Appropriations (APP): SB 5837 State election database
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160156&caId=24450&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160156&caId=24450&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160156&caId=24450&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160156&caId=24450&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Alex Hur - OneAmerica
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/16 08:00 AM - State Government & Tribal Relations (SGOV): SB 5837 State election database
 #### 92 👍 - Pro
 Testifying:

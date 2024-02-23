@@ -32,11 +32,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160107&caId=24400&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160107&caId=24400&tId=4)
 
-#### 9 👍 - Pro
+#### 247 👍 - Pro
+Testifying:
+* 💵Katrina Johnson - WA Coalition for Police Accountability
+* Sonia Joseph - WA Coalition for Police Accountability
 
-#### 2 👎 - Con
+#### 230 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Brandy Holbrook
+* Jeannette Mcchesney
+* Olga Vander Kooy
+* Paul Giuglianotti - Partnership for a Truly Independent Prosecutor
+* 💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs
 
 #### 0 ❓ - Other
 

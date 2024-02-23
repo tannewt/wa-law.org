@@ -32,7 +32,7 @@
 
 ## [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations.  👎1 
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍3  
 
 ## [HB 2025](/bill/2023-24/hb/2025/) - State work-study program 👍2  
 * 👍💵 Neil Strege
@@ -83,7 +83,7 @@
 
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍3  
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍4  
 
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  
 

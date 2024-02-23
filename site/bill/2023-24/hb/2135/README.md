@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/21/2024 [House Democrats](/org/house_democrats/) - [Economic Growth, Social Cohesion, & Support for Veterans – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/21/economic-growth-social-cohesion-support-for-veterans/#:~:text=2135)
+
 ## Meetings
 ### Thu 02/15 06:00 PM - State Government & Elections (SGE): HB 2135 Emergency worker prg./tribes
 #### 5 👍 - Pro

@@ -86,7 +86,7 @@
 
 ## [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt 👍1  
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍12  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍13  
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
@@ -94,6 +94,7 @@
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
+* 👍💵 Alex Hur
 
 ## [HB 1666](/bill/2023-24/hb/1666/) - Fee and debt collection 👍1  
 
@@ -114,11 +115,12 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍11  
+## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍12  
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin
 * 👍💵 Lianna Kressin
 * 👍💵 Alex Hur
+* 👍💵 Lianna Kressin
 * 👍💵 Lianna Kressin
 
 ## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  

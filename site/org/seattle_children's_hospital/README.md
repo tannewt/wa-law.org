@@ -26,7 +26,7 @@
 
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
 
-## [HB 1941](/bill/2023-24/hb/1941/) - Health home serv./children 👍2  
+## [HB 1941](/bill/2023-24/hb/1941/) - Health home serv./children 👍3  
 
 ## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍2  
 

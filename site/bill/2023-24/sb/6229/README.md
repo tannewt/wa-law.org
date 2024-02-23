@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Transportation (TR): SB 6229 Green transp. grants/match
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159749&caId=24329&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159749&caId=24329&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159749&caId=24329&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159749&caId=24329&tId=4)
-
-#### 46 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * 💵Justin Leighton - Washington State Transit Association
 
-#### 430 👎 - Con
+#### 438 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 

@@ -7,10 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/20/2024 [Gorge News Center](/org/gorge_news_center/) - [House Housing Committee passes Padden small condominium bill](https://gorgenewscenter.com/2024/02/20/house-housing-committee-passes-padden-small-condominium-bill/#:~:text=Senate%20Bill%205058)
 * 01/26/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate committee passes another Padden bill removing red tape from construction of smaller condominiums](https://gorgenewscenter.com/2024/01/26/senate-committee-passes-another-padden-bill-removing-red-tape-from-construction-of-smaller-condominiums/#:~:text=Senate%20Bill%205058)
 * 05/12/2023 [Crosscut](/org/crosscut/) - [WA lawmakers' 'year of housing' could ease the affordability crisis | Crosscut](https://crosscut.com/politics/2023/05/wa-lawmakers-year-housing-could-ease-affordability-crisis#:~:text=Senate%20Bill%205058)
 * 05/04/2023 [Gorge News Center](/org/gorge_news_center/) - [Governor signs two Padden bills one week after legislative session ends](https://gorgenewscenter.com/2023/05/04/governor-signs-two-padden-bills-one-week-after-legislative-session-ends/#:~:text=SB%205058)
 * 02/28/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Shewmake: We can deliver on affordable housing | Cascadia Daily News](https://www.cascadiadaily.com/2023/feb/28/shewmake-we-can-deliver-on-affordable-housing/#:~:text=SB%205058)
+* 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [UPDATED: 50 Housing Bills and How They Fared in Olympia - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now#:~:text=SB%205058)
 * [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=SB%205058)
 
 ## Meetings

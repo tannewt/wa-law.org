@@ -20,11 +20,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160117&caId=24410&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160117&caId=24410&tId=4)
 
-#### 12 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * Jim Theofelis - NorthStar Advocates
+* 💵Anna Nepomuceno - NAMI Washington and Patients Coalition of Washington
+* Jason McGill - Northwest Youth Services
 
-#### 0 👎 - Con
+#### 183 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
 #### 0 ❓ - Other
 

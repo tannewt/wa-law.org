@@ -8,19 +8,16 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/21/2024 [House Democrats](/org/house_democrats/) - [Economic Growth, Social Cohesion, & Support for Veterans – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/21/economic-growth-social-cohesion-support-for-veterans/#:~:text=1717)
 * 03/08/2023 [House Democrats](/org/house_democrats/) - [Rule Passes Two Bills on to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/08/rule-passes-two-bills-on-to-the-senate/#:~:text=HB%201717)
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Ways & Means (WM): SHB 1717 Associate development orgs.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160069&caId=24390&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160069&caId=24390&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160069&caId=24390&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160069&caId=24390&tId=4)
-
-#### 78 👍 - Pro
+#### 113 👍 - Pro
 Testifying:
 * KARL DYE - TRIDEC
+* 💵Alisha Benson - Greater Spokane Inc. & Washington Economic Development Association
+* Wendy Poischbeg - [Economic Alliance Snohomish County](/org/economic_alliance_snohomish_county/)
 
 #### 0 👎 - Con
 

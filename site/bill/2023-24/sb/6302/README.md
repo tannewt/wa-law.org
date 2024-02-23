@@ -9,16 +9,14 @@
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Transportation (TR): SSB 6302 Supply chain competitiveness
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159750&caId=24330&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159750&caId=24330&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159750&caId=24330&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31961&aId=159750&caId=24330&tId=4)
-
-#### 4 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Paul Jarkiewicz - [Port of Port Angeles](/org/port_of_port_angeles/)
+* Adam LeMieux - [Port of Everett](/org/port_of_everett/)
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Diahann Howard - Port of Benton
+* Sean Eagan - Northwest Seaport Alliance
 
 #### 0 👎 - Con
 

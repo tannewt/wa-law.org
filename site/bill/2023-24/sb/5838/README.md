@@ -17,6 +17,22 @@
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson proposes creation of bipartisan Artificial Intelligence Task Force | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-proposes-creation-bipartisan-artificial-intelligence-task-force#:~:text=Senate%20Bill%205838)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Appropriations (APP): E2SSB 5838 AI task force
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160157&caId=24451&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160157&caId=24451&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160157&caId=24451&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160157&caId=24451&tId=4)
+
+#### 4 👍 - Pro
+Testifying:
+* Rosa Mai - WA Attorney General
+* Jai Jaisimha - Transparency Coalition.ai
+
+#### 1 👎 - Con
+
+#### 1 ❓ - Other
+
 ### Tue 02/20 01:30 PM - Consumer Protection & Business (CPB): E2SSB 5838 AI task force
 #### 101 👍 - Pro
 Testifying:

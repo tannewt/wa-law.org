@@ -16,6 +16,21 @@
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202214)
 
 ## Meetings
+### Sat 02/24 09:00 AM - Ways & Means (WM): 2SHB 2214 College grant/public assist.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160251&caId=24489&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160251&caId=24489&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160251&caId=24489&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160251&caId=24489&tId=4)
+
+#### 3 👍 - Pro
+Testifying:
+* 💵Joel Anderson - Washington Student Achievement Council
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/16 10:30 AM - Higher Education & Workforce Development (HEWD): 2SHB 2214 College grant/public assist.
 #### 52 👍 - Pro
 Testifying:

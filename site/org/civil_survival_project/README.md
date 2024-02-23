@@ -35,7 +35,7 @@
 ## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍2  
 * 👍💵 Anthony Blankenship
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍3  
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍5  
 
 ## [HB 2084](/bill/2023-24/hb/2084/) - Construction training/DOC 👍2  
 

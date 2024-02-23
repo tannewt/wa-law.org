@@ -15,6 +15,25 @@
 * 01/15/2024 [Senate Democrats](/org/senate_democrats/) - [Elected officials, residents propose action to cut noise and air pollution near Sea-Tac Airport - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/15/elected-officials-residents-propose-action-to-cut-noise-and-air-pollution-near-sea-tac-airport/#:~:text=SB%205955)
 
 ## Meetings
+### Fri 02/23 08:00 AM - Capital Budget (CB): E2SSB 5955 Large port districts
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=160231&caId=24435&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=160231&caId=24435&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=160231&caId=24435&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=160231&caId=24435&tId=4)
+
+#### 11 👍 - Pro
+Testifying:
+* Kyle Moore - City of SeaTac, Government Relations
+* Traci Buxton - Mayor, City of Des Moines WA
+* JC Harris - SeatacNoise.Info
+
+#### 2 👎 - Con
+Testifying:
+* David Ortman - n.a.
+
+#### 0 ❓ - Other
+
 ### Tue 02/20 10:30 AM - Local Government (LG): E2SSB 5955 Large port districts
 #### 79 👍 - Pro
 Testifying:

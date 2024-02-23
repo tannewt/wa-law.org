@@ -36,6 +36,8 @@
 
 ## [HB 2218](/bill/2023-24/hb/2218/) - Extended foster care 👍1  
 
+## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
+
 ## [HB 2335](/bill/2023-24/hb/2335/) - State-tribal edu. compacts 👍1  
 
 ## [HB 2372](/bill/2023-24/hb/2372/) - Tribes/health facilities 👍1  

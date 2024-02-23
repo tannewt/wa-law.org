@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024#:~:text=HB%202270)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%202270)
 * 02/13/2024 [The Daily News](/org/the_daily_news/) - [New report shows where WA subsidized rentals are located for first time. Here are Cowlitz County numbers.](https://tdn.com/news/local/government-politics/new-report-shows-where-wa-subsidized-rentals-are-located-for-first-time-here-are-cowlitz/article_6e299b8e-bbba-11ee-879f-93e65427c1c0.html#:~:text=for%20House%20Bill%202270)
 * 02/09/2024 [House Democrats](/org/house_democrats/) - [House Approves New Department of Housing Bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/house-approves-new-department-of-housing-bill/#:~:text=HB%202270)
@@ -18,17 +19,13 @@
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Ways & Means (WM): 2SHB 2270 Department of housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160068&caId=24389&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160068&caId=24389&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160068&caId=24389&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160068&caId=24389&tId=4)
-
-#### 12 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 
-#### 224 👎 - Con
+#### 501 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
 #### 0 ❓ - Other
 

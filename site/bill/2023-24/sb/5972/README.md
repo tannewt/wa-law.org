@@ -12,6 +12,19 @@
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%205972)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Appropriations (APP): SSB 5972 Neonicotinoid pesticides
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160164&caId=24458&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160164&caId=24458&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160164&caId=24458&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160164&caId=24458&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/20 10:30 AM - Agriculture and Natural Resources (AGNR): SSB 5972 Neonicotinoid pesticides
 #### 359 👍 - Pro
 Testifying:

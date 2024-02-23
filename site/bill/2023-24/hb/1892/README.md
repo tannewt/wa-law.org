@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024#:~:text=HB%201892)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%201892)
 * 02/08/2024 [House Democrats](/org/house_democrats/) - [House passes Leavitt bill to accelerate construction of affordable workforce housing.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/house-passes-leavitt-bill-to-accelerate-construction-of-affordable-workforce-housing/#:~:text=House%20Bill%201892)
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%201892)
@@ -15,18 +16,13 @@
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Ways & Means (WM): SHB 1892 Workforce housing prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160060&caId=24381&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160060&caId=24381&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160060&caId=24381&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160060&caId=24381&tId=4)
-
-#### 48 👍 - Pro
+#### 102 👍 - Pro
 Testifying:
 * Nicholas Carr - Tacoma Housing Authority
 * Breck Lebegue
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Brian Bonlender - [Coalition for Affordable Housing Development](/org/coalition_for_affordable_housing_development/)
+* Mary Connolly - South Sound Housing Affordability Partners
 
 #### 0 👎 - Con
 

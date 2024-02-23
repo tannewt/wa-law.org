@@ -12,6 +12,19 @@
 * 01/19/2024 [The Center Square](/org/the_center_square/) - [Bipartisan bill seeks to boost payments for crops damaged by deer and elk | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b91e0168-b721-11ee-b2c9-3b720d352e41.html#:~:text=Senate%20Bill%205784)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Appropriations (APP): 2SSB 5784 Deer & elk crop damage
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160151&caId=24445&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160151&caId=24445&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160151&caId=24445&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160151&caId=24445&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/16 10:30 AM - Agriculture and Natural Resources (AGNR): 2SSB 5784 Deer & elk crop damage
 #### 15 👍 - Pro
 Testifying:

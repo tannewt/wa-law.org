@@ -316,7 +316,7 @@
 * 👍💵 Emily Shay
 * 👍💵 Emily Shay
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍3  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍4  
 * 👍💵 Morgan Irwin
 * 👍💵 Morgan Irwin
 
@@ -390,7 +390,8 @@
 
 ## [HB 2103](/bill/2023-24/hb/2103/) - Large port districts  👎1 
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎2 
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants  👎3 
+* 👎💵 Morgan Irwin
 * 👎💵 Morgan Irwin
 
 ## [HB 2119](/bill/2023-24/hb/2119/) - Medical debt garnishment  👎1 
@@ -441,7 +442,7 @@
 ## [HB 2262](/bill/2023-24/hb/2262/) - Tire rolling resistance  👎1 
 * 👎💵 Morgan Irwin
 
-## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍2  
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍3  
 * 👍💵 Morgan Irwin
 
 ## [HB 2275](/bill/2023-24/hb/2275/) - Senior independent housing 👍1  
@@ -772,7 +773,7 @@
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development  👎1 
 * 👎💵 Morgan Irwin
 
-## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍3  
+## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍4  
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply  👎1 
 
@@ -848,7 +849,7 @@
 
 ## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍2  
 
-## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
+## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍2  
 * 👍💵 Morgan Irwin
 
 ## [SB 6303](/bill/2023-24/sb/6303/) - Providing tax incentives to encourage energy storage system and component parts manufacturing in Washington. 👍2  

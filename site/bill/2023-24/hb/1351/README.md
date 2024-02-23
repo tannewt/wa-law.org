@@ -9,11 +9,14 @@
 
 ## 📰 Articles
 * 07/20/2023 [Sightline Institute](/org/sightline_institute/) - [From Vermont to Oklahoma, Legislatures Challenge Parking Mandates - Sightline Institute](https://www.sightline.org/2023/07/20/from-vermont-to-oklahoma-legislatures-challenge-parking-mandates/#:~:text=HB%201351)
+* 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam#:~:text=HB%201351)
 * 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam/#:~:text=HB%201351)
+* 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [UPDATED: 50 Housing Bills and How They Fared in Olympia - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now#:~:text=HB%201351)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201351)
 * 02/10/2023 [PubliCola](/org/publicola/) - [Seeking Compromise, Lawmakers May Preserve Local Parking Mandates in This Year's Pro-Housing Bills - PubliCola](https://publicola.com/2023/02/10/seeking-compromise-lawmakers-may-preserve-local-parking-mandates-in-this-years-pro-housing-bills/#:~:text=House%20Bill%201351)
 * 02/05/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB%201351)
 * 01/22/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201351)
+* 01/16/2023 [Sightline Institute](/org/sightline_institute/) - [New Washington Bill Would Legalize More Homes and Businesses by Transit - Sightline Institute](https://www.sightline.org/2023/01/16/new-washington-bill-would-legalize-more-homes-and-businesses-by-transit#:~:text=HB%201351)
 * 01/16/2023 [Sightline Institute](/org/sightline_institute/) - [New Washington Bill Would Legalize More Homes and Businesses by Transit - Sightline Institute](https://www.sightline.org/2023/01/16/new-washington-bill-would-legalize-more-homes-and-businesses-by-transit/#:~:text=HB%201351)
 
 ## Meetings

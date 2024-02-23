@@ -13,6 +13,21 @@
 * 01/25/2024 [Crosscut](/org/crosscut/) - [WA intercepts millions in child support for low-income families | Crosscut](https://crosscut.com/investigations/2024/01/wa-intercepts-millions-child-support-low-income-families#:~:text=House%20Bill%201652)
 
 ## Meetings
+### Sat 02/24 09:00 AM - Ways & Means (WM): ESHB 1652 Child support pass through
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160255&caId=24493&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160255&caId=24493&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160255&caId=24493&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160255&caId=24493&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/30 10:30 AM - Law & Justice (LAW): ESHB 1652 Child support pass through
 #### 222 👍 - Pro
 Testifying:

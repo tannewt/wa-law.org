@@ -54,7 +54,7 @@
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 * 👍💵 Juliet Schindler
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍3  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍4  
 
 ## [HB 2025](/bill/2023-24/hb/2025/) - State work-study program 👍2  
 * 👍💵 Juliet Schindler

@@ -1,6 +1,6 @@
 # Washington State Public Health Association
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 
 ## [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍1  
 
@@ -40,7 +40,7 @@
 
 ## [HB 1452](/bill/2023-24/hb/1452/) - Medical reserve corps 👍1  
 
-## [HB 1453](/bill/2023-24/hb/1453/) - Medical cannabis/tax  👎1 
+## [HB 1453](/bill/2023-24/hb/1453/) - Medical cannabis/tax  👎2 
 
 ## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍3  
 
@@ -58,7 +58,7 @@
 
 ## [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases. 👍1  
 
-## [HB 1877](/bill/2023-24/hb/1877/) - Behavioral health/tribes 👍3  
+## [HB 1877](/bill/2023-24/hb/1877/) - Behavioral health/tribes 👍4  
 
 ## [HB 1902](/bill/2023-24/hb/1902/) - Firearms/purchase & transfer 👍1  
 
@@ -70,6 +70,8 @@
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
+## [HB 2003](/bill/2023-24/hb/2003/) - Housing/public lands leases 👍1  
+
 ## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍1  
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
@@ -79,6 +81,8 @@
 ## [HB 2073](/bill/2023-24/hb/2073/) - Greenhouse gas other sources 👍1  
 
 ## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍1  
+
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
 
 ## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍2  
 
@@ -155,6 +159,8 @@
 
 ## [SB 6095](/bill/2023-24/sb/6095/) - Secretary of health orders 👍1  
 
+## [SB 6099](/bill/2023-24/sb/6099/) - Tribal opioid account 👍1  
+
 ## [SB 6110](/bill/2023-24/sb/6110/) - Child fatalities 👍1  
 
 ## [SB 6122](/bill/2023-24/sb/6122/) - Alcohol delivery  👎1 
@@ -167,9 +173,10 @@
 * 👍 Megan Moore
 * 👍💵 Amy Brackenbury
 
-## [SB 6271](/bill/2023-24/sb/6271/) - Cannabis excise tax/THC 👍2  
+## [SB 6271](/bill/2023-24/sb/6271/) - Cannabis excise tax/THC 👍3  
 * 👍 Megan Moore
 * 👍 Megan Moore
+* 👍💵 Amy Brackenbury
 
 ## [SB 6300](/bill/2023-24/sb/6300/) - College grant/public assist. 👍1  
 

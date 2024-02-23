@@ -12,6 +12,8 @@
 ## [HB 1933](/bill/2023-24/hb/1933/) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner.   ❓1
 * ❓💵 Michael Transue
 
+## [HB 2482](/bill/2023-24/hb/2482/) - Semiconductor tax incentives 👍1  
+
 ## [SB 5074](/bill/2023-24/sb/5074/) - Biomarker testing coverage 👍1  
 
 ## [SB 5097](/bill/2023-24/sb/5097/) - Rare diseases adv. council 👍1  

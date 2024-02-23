@@ -14,6 +14,19 @@
 * 02/09/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205580)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Appropriations (APP): 2E2SSB 5580 Maternal health outcomes
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160146&caId=24440&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160146&caId=24440&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160146&caId=24440&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160146&caId=24440&tId=4)
+
+#### 1 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/16 08:00 AM - Health Care & Wellness (HCW): 2E2SSB 5580 Maternal health outcomes
 #### 104 👍 - Pro
 Testifying:

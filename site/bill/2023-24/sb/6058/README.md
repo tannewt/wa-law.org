@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/21/2024 [Gorge News Center](/org/gorge_news_center/) - [Republicans reject Democrat idea of linking energy policy with California](https://gorgenewscenter.com/2024/02/21/republicans-reject-democrat-idea-of-linking-energy-policy-with-california/#:~:text=Senate%20Bill%206058)
 * 02/17/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 19 - 23, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=SB%206058)
 * 02/13/2024 [FOX13](/org/fox13/) - [New WA bill addressing carbon emissions hopes to link up with California and Quebec](https://www.fox13seattle.com/news/a-new-wa-bill-addressing-carbon-emissions-hoping-to-link-up-with-california-and-quebec-critics-say-not-now#:~:text=Senate%20Bill%206058)
 * 02/13/2024 [The Center Square](/org/the_center_square/) - [Senate passes bill supporting linking WA’s carbon market to CA-Quebec | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_856eebc4-cab9-11ee-9983-57680a4333aa.html#:~:text=Senate%20Bill%206058)
@@ -20,6 +21,21 @@
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%206058)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Appropriations (APP): E2SSB 6058 Carbon market linkage
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160167&caId=24461&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160167&caId=24461&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160167&caId=24461&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160167&caId=24461&tId=4)
+
+#### 3 👍 - Pro
+Testifying:
+* 💵John Rothlin - Avista
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/19 01:30 PM - Environment & Energy (ENVI): E2SSB 6058 Carbon market linkage
 #### 75 👍 - Pro
 Testifying:

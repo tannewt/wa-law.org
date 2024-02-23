@@ -12,20 +12,14 @@
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Ways & Means (WM): SHB 1453 Medical cannabis/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160063&caId=24384&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160063&caId=24384&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160063&caId=24384&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160063&caId=24384&tId=4)
-
-#### 69 👍 - Pro
+#### 93 👍 - Pro
 Testifying:
 * Hana Keefe-Guerrero - Patient
 * John Kingsbury - Authorized cannabis patient
 * Sean O’Leary
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

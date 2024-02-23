@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5058/</link>
 		<description>Updates about SB 5058</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 26 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 20 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -84,6 +84,13 @@
 			<pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-15/Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>UPDATED: 50 Housing Bills and How They Fared in Olympia - Sightline Institute</title>
+			<description>News article &quot;UPDATED: 50 Housing Bills and How They Fared in Olympia - Sightline Institute&quot; from Sightline Institute.</description>
+			<pubDate>Wed, 15 Feb 2023 20:30:06 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now#:~:text=SB%205058</guid>
 		</item>
 		<item>
 			<title>First reading, referred to Housing.</title>
@@ -240,6 +247,13 @@
 			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://gorgenewscenter.com/2024/01/26/senate-committee-passes-another-padden-bill-removing-red-tape-from-construction-of-smaller-condominiums/#:~:text=Senate%20Bill%205058</guid>
+		</item>
+		<item>
+			<title>House Housing Committee passes Padden small condominium bill</title>
+			<description>News article &quot;House Housing Committee passes Padden small condominium bill&quot; from Gorge News Center.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/02/20/house-housing-committee-passes-padden-small-condominium-bill/#:~:text=Senate%20Bill%205058</guid>
 		</item>
 	</channel>
 </rss>

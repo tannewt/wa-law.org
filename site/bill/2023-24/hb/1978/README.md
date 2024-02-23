@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/21/2024 [House Democrats](/org/house_democrats/) - [Economic Growth, Social Cohesion, & Support for Veterans – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/21/economic-growth-social-cohesion-support-for-veterans/#:~:text=1978)
 * 02/10/2024 [House Democrats](/org/house_democrats/) - [Rule bill about mutual aid concerning emergency services passes House unanimously  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/10/rule-bill-about-mutual-aid-concerning-emergency-services-passes-house-unanimously/#:~:text=House%20Bill%201978)
 
 ## Meetings

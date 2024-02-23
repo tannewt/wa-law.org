@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 02/23/2023 [The Center Square](/org/the_center_square/) - [Washington Senate bill would punish cities that don't make way for more housing | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b118b280-b3ba-11ed-a29c-476e0a121e9f.html#:~:text=SB%205609)
+* 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [UPDATED: 50 Housing Bills and How They Fared in Olympia - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now#:~:text=SB%205609)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB%205609)
 
 ## Meetings

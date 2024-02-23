@@ -79,7 +79,7 @@
 
 ## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor 👍2  
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍3  
 
 ## [HB 1790](/bill/2023-24/hb/1790/) - Cannabis social equity 👍1  
 * 👍 Councilmember Keith Blocker
@@ -102,7 +102,7 @@
 
 ## [HB 2209](/bill/2023-24/hb/2209/) - Lunar new year 👍1  
 
-## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍2  
+## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍3  
 
 ## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management   ❓1
 * ❓ Lewis Griffith

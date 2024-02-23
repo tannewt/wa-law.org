@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/22/2024 [The Center Square](/org/the_center_square/) - [Controversial curriculum choices bill moves forward in WA Senate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a6042b2a-d148-11ee-8edd-d3ca19d7926b.html#:~:text=Engrossed%20Substitute%20House%20B%20ill%202331)
+* 02/21/2024 [MyNorthwest](/org/mynorthwest/) - [Rantz: Dems may push 'porn' on kids with law ending LGBTQ book bans - MyNorthwest.com](https://mynorthwest.com/3949824/rantz-democrats-pornographic-books-bans-lgbtq-washington-state/#:~:text=House%20Bill%202331)
 * 02/07/2024 [The Center Square](/org/the_center_square/) - [Bill tying school funding to curriculum materials moves forward in Olympia | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_26b4e844-c600-11ee-9827-b70c2d076da4.html#:~:text=House%20Bill%202331)
 * 02/07/2024 [House Republicans](/org/house_republicans/) - [I-2081: A Parents' Bill of Rights | Washington State House Republicans](http://houserepublicans.wa.gov/i-2081/#:~:text=House%20Bill%202331)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=House%20Bill%202331)

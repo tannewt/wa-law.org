@@ -72,7 +72,7 @@
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍7  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍13  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍17  
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍8  
 * 👍💵 Kristin Ang
@@ -108,7 +108,7 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍3  
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍5  
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍7  
 
 ## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects 👍5  
 
@@ -117,7 +117,7 @@
 ## [HB 2095](/bill/2023-24/hb/2095/) - Gift certificates/unclaimed 👍4  
 * 👍💵 Kristin Ang
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍16  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍22  
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍7  
 
@@ -147,7 +147,7 @@
 ## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍3  
 * 👍💵 Kristin Ang
 
-## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍9  
+## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍10  
 * 👍💵 Kristin Ang
 * 👍💵 Kristin Ang
 

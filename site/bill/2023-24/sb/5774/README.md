@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Appropriations (APP): SSB 5774 Fingerprint backgr. checks
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160150&caId=24444&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160150&caId=24444&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160150&caId=24444&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160150&caId=24444&tId=4)
+
+#### 4 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/20 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 5774 Fingerprint backgr. checks
 #### 128 👍 - Pro
 Testifying:

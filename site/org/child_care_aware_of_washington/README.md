@@ -35,7 +35,8 @@
 
 ## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍2  
 
-## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
+## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍2  
+* 👍 Genevieve Stokes
 
 ## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍2  
 
@@ -58,7 +59,7 @@
 
 ## [SB 5485](/bill/2023-24/sb/5485/) - Public employees/child care 👍1  
 
-## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍3  
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍4  
 * 👍💵 Emily Murphy
 
 ## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  
@@ -73,4 +74,4 @@
 ## [SB 6018](/bill/2023-24/sb/6018/) - Early learning coordinators 👍1  
 * 👍💵 Emily Murphy
 
-## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍2  
+## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍3  

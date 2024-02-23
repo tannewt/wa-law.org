@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1652/</link>
 		<description>Updates about HB 1652</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 17 Feb 2024 01:28:38 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2024 05:34:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -279,6 +279,14 @@
 			<pubDate>Sat, 17 Feb 2024 01:28:38 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.quakervoicewa.org/2024-additional-supported-bills/#:~:text=HB%201652</guid>
+		</item>
+		<item>
+			<title>👍💵Alex Hur - Statewide Poverty Action Network</title>
+			<description>Alex Hur signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/statewide_poverty_action_network/&quot;&gt;Statewide Poverty Action Network&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 22 Feb 2024 05:34:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alex/Hur/2024-02-22 05:34:15</guid>
 		</item>
 	</channel>
 </rss>

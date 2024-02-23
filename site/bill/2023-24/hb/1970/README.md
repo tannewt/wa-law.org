@@ -11,6 +11,19 @@
 * 02/12/2024 [Gorge News Center](/org/gorge_news_center/) - [McClintock bill to improve Department of Children, Youth, and Families (DCYF) communications gains unanimous House approval](https://gorgenewscenter.com/2024/02/12/mcclintock-bill-to-improve-department-of-children-youth-and-families-dcyf-communications-gains-unanimous-house-approval/#:~:text=House%20Bill%201970)
 
 ## Meetings
+### Sat 02/24 09:00 AM - Ways & Means (WM): SHB 1970 DCYF-caregiver communication
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160256&caId=24494&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160256&caId=24494&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160256&caId=24494&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160256&caId=24494&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/19 10:30 AM - Human Services (HS): SHB 1970 DCYF-caregiver communication
 #### 4 👍 - Pro
 

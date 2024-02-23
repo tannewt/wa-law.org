@@ -12,6 +12,7 @@
 ## 📰 Articles
 * 03/06/2023 [House Democrats](/org/house_democrats/) - [House unanimously passes Duerr bill to expand housing options – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/06/house-unanimously-passes-duerr-bill-to-expand-housing-options/#:~:text=House%20Bill%201167)
 * 02/28/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Shewmake: We can deliver on affordable housing | Cascadia Daily News](https://www.cascadiadaily.com/2023/feb/28/shewmake-we-can-deliver-on-affordable-housing/#:~:text=HB%201167)
+* 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [UPDATED: 50 Housing Bills and How They Fared in Olympia - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now#:~:text=HB%201167)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201167)
 * 01/29/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201167)
 

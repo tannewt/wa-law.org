@@ -46,7 +46,7 @@
 
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍1  
 
-## [SB 6099](/bill/2023-24/sb/6099/) - Tribal opioid account 👍1  
+## [SB 6099](/bill/2023-24/sb/6099/) - Tribal opioid account 👍2  
 
 ## [SB 6113](/bill/2023-24/sb/6113/) - Community solar 👍1  
 

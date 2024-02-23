@@ -11,7 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam#:~:text=HB%201042)
 * 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam/#:~:text=HB%201042)
+* 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [UPDATED: 50 Housing Bills and How They Fared in Olympia - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now#:~:text=HB%201042)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201042)
 * 02/09/2023 [House Democrats](/org/house_democrats/) - [Representative Amy Walen Passes Three Bills to Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/09/representative-amy-walen-passes-three-bills-to-senate/#:~:text=House%20Bill%201042)
 * [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=HB%201042)

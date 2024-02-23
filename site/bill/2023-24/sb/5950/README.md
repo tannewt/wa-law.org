@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/19/2024 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Week Seven Legislative Update - United Ways of Washington - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02192024#:~:text=SB%205950)

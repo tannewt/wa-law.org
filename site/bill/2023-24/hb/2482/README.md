@@ -13,15 +13,10 @@
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Ways & Means (WM): ESHB 2482 Semiconductor tax incentives
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160088&caId=24392&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160088&caId=24392&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160088&caId=24392&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160088&caId=24392&tId=4)
-
-#### 3 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Emily Shay - Association of Washington business
+* 💵Jennifer Baker - Columbia River Economic Development Council
 
 #### 0 👎 - Con
 

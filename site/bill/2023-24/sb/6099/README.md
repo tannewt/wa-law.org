@@ -15,13 +15,9 @@
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Appropriations (APP): SSB 6099 Tribal opioid account
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160013&caId=24377&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160013&caId=24377&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160013&caId=24377&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160013&caId=24377&tId=4)
-
-#### 6 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Anthony Hillaire - Chairman, Lummi Nation
 
 #### 0 👎 - Con
 

@@ -16,14 +16,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159935&caId=24360&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159935&caId=24360&tId=4)
 
-#### 46 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * 💵Paula Sardinas - WBBA for Tabor 100
 * 💵Brian Sims - United Evergreen Sign Company (Tabor 100 Board Chair)
 
-#### 2 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Jerry VanderWood - AGC of Washington
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Sarah Erdmann - OMWBE
 
 ### Fri 01/19 08:00 AM - State Government & Elections (SGE): SB 6040 Public works payments
 #### 23 👍 - Pro

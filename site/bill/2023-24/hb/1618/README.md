@@ -19,23 +19,26 @@
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Ways & Means (WM): E2SHB 1618 Childhood sexual abuse/SOL
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159945&caId=24358&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159945&caId=24358&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159945&caId=24358&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=159945&caId=24358&tId=4)
-
-#### 124 👍 - Pro
+#### 162 👍 - Pro
 Testifying:
 * Sthavir Sumanam
 * 💵Larry Shannon - Washington State Association for Justice
 * Janet C Robertson
 * Christene Hansen
 * Skylar Schmitt
+* Elizabeth Hendren - Sexual Violence Law Center
+* 💵Paula Sardinas - The Purpose Driven Girl
+* Leslie Segla - The Purpose Driven Girl
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Timothy LAW - Catholic Accountability Project
+* Sarah Pearson - Catholic Accountability Project
+* Peter Isely - Catholic Accountability Project
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Cecilie Wathne
 
 ### Tue 01/30 10:30 AM - Law & Justice (LAW): E2SHB 1618 Childhood sexual abuse/SOL
 #### 99 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2354/</link>
 		<description>Updates about HB 2354</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2024 11:06:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -245,6 +245,22 @@
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-21/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍💵Candice Bock - Association of Washington Cities</title>
+			<description>Candice Bock signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/association_of_washington_cities/&quot;&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 22 Feb 2024 07:24:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Candice/Bock/2024-02-22 07:24:32</guid>
+		</item>
+		<item>
+			<title>👍Steve Brooks - Washington Fire Chiefs</title>
+			<description>Steve Brooks signed up to testify Pro. They are signed up to represent Washington Fire Chiefs.</description>
+			<pubDate>Thu, 22 Feb 2024 11:06:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Steve/Brooks/2024-02-22 11:06:54</guid>
 		</item>
 	</channel>
 </rss>

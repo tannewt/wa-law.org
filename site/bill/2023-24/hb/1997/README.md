@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/21/2024 [House Democrats](/org/house_democrats/) - [Economic Growth, Social Cohesion, & Support for Veterans – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/21/economic-growth-social-cohesion-support-for-veterans/#:~:text=1997)
+
 ## Meetings
 ### Mon 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 1997 Parks and recreation comm.
 #### 5 👍 - Pro

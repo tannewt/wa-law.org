@@ -1,6 +1,6 @@
 # Methow Valley Citizens Council
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍4  
 
 ## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍2  
 

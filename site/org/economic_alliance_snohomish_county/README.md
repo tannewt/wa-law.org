@@ -1,8 +1,9 @@
 # Economic Alliance Snohomish County
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍4  
+## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍5  
 * 👍💵 Garry Clark
 * 👍💵 Garry Clark
+* 👍 Wendy Poischbeg
 
 ## [HB 1939](/bill/2023-24/hb/1939/) - Social work compact 👍1  
 
@@ -23,6 +24,8 @@
 
 ## [SB 5838](/bill/2023-24/sb/5838/) - AI task force 👍1  
 
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍1  
+
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  
 
-## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
+## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍2  

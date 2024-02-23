@@ -59,7 +59,8 @@
 ## [HB 2262](/bill/2023-24/hb/2262/) - Tire rolling resistance 👍1  
 * 👍💵 Heather Trim
 
-## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍2  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍3  

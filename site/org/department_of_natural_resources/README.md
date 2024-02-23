@@ -9,6 +9,8 @@
 ## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
 * 👍 Larry Leach
 
+## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
+
 ## [HB 1818](/bill/2023-24/hb/1818/) - Forestland/compensating tax 👍2  
 * 👍 Duane Emmons
 * 👍 Duane Emmons
@@ -98,7 +100,7 @@
 ## [SB 6011](/bill/2023-24/sb/6011/) - Tribal interlocal agreements 👍1  
 * 👍 Jayanna Marshall
 
-## [SB 6039](/bill/2023-24/sb/6039/) - Geothermal energy resources 👍2  
+## [SB 6039](/bill/2023-24/sb/6039/) - Geothermal energy resources 👍3  
 * 👍 Casey Hanell
 * 👍 Casey Hanell
 

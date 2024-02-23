@@ -15,5 +15,5 @@
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
 * 👍 Kiara Daniels
 
-## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍2  
 * 👍💵 Nick Federici

@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/20/2024 [The Center Square](/org/the_center_square/) - [Washington bill allowing even-numbered year elections only clears committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c5c8528c-d04a-11ee-8220-f38e50cf0c06.html#:~:text=HB%201932)
 * 02/19/2024 [House Republicans](/org/house_republicans/) - [Initiatives, bill updates, state budgets, and the week ahead | Washington State House Republicans](http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%201932)
 * 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=House%20Bill%201932)
 * 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=House%20Bill%201932)
@@ -17,6 +18,7 @@
 * 02/08/2024 [The Seattle Times](/org/the_seattle_times/) - [WA House votes to allow local even-year elections | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-house-votes-to-allow-local-even-year-elections/#:~:text=House%20Bill%201932)
 * 02/08/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: House Passes HB 1932 Promoting Local Democracy – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/legislative-news-house-passes-hb-1932-promoting-local-democracy/#:~:text=House%20Bill%201932)
 * 01/30/2024 [Hacks and Wonks](/org/hacks_and_wonks/) - [Pairing Advocacy and Research for Progress with Andrew Villeneuve of the Northwest Progressive Institute — Hacks & Wonks](https://www.officialhacksandwonks.com/blog/andrew-villeneuve-northwest-progressive-institute#:~:text=HB%201932)
+* 01/16/2024 [Sightline Institute](/org/sightline_institute/) - [Washingtonians May Get a Democracy Upgrade in 2024 - Sightline Institute](https://www.sightline.org/2024/01/16/washingtonians-may-get-a-democracy-upgrade-in-2024#:~:text=HB%201932)
 * 01/16/2024 [Sightline Institute](/org/sightline_institute/) - [Washingtonians May Get a Democracy Upgrade in 2024 - Sightline Institute](https://www.sightline.org/2024/01/16/washingtonians-may-get-a-democracy-upgrade-in-2024/#:~:text=HB%201932)
 * 01/09/2024 [The Center Square](/org/the_center_square/) - [Washington bill could ban some cities from having odd-numbered year elections | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9f78faa4-af49-11ee-b019-7ffdbc40415f.html#:~:text=House%20Bill%201932)
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%201932)
@@ -30,11 +32,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160108&caId=24401&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160108&caId=24401&tId=4)
 
-#### 4 👍 - Pro
+#### 71 👍 - Pro
+Testifying:
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
 
-#### 1 👎 - Con
+#### 209 👎 - Con
 Testifying:
 * Andy Cilley
+* Sam Reed
+* Steve Hobbs - Office of the Secretary of State
+* Marianne Nichols - Pend Oreille County Auditor
+* Jeannette Mcchesney
 
 #### 0 ❓ - Other
 

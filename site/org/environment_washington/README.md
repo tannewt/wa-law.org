@@ -15,7 +15,7 @@
 * 👍 Pam Clough
 * 👍 Pam Clough
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍2  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍3  
 
 ## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍5  
 

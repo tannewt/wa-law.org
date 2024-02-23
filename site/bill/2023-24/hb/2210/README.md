@@ -17,9 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160120&caId=24413&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160120&caId=24413&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Ella Menter
 
-#### 0 👎 - Con
+#### 185 👎 - Con
+Testifying:
+* Diane Vevea
+* Jeannette Mcchesney
 
 #### 0 ❓ - Other
 

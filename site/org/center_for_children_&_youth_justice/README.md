@@ -34,7 +34,7 @@
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Infants and toddlers program 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
 
 ## [HB 1970](/bill/2023-24/hb/1970/) - DCYF-caregiver communication 👍1  
 
@@ -42,7 +42,7 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍2  
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍3  
 
 ## [HB 2076](/bill/2023-24/hb/2076/) - Human trafficking crimes   ❓3
 * ❓ Nicholas Oakley
@@ -97,4 +97,4 @@
 
 ## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍4  
 
-## [SB 6109](/bill/2023-24/sb/6109/) - Children and families 👍1  ❓3
+## [SB 6109](/bill/2023-24/sb/6109/) - Children and families 👍1  ❓4

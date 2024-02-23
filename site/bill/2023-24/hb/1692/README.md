@@ -20,7 +20,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160126&caId=24419&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160126&caId=24419&tId=4)
 
-#### 1 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Kwabena Ledbetter - Student Representative Network, WSSDA
+* James Layman - Association of Washington Student Leaders
 
 #### 1 👎 - Con
 

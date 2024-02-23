@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 02/23/2023 [Senate Democrats](/org/senate_democrats/) - [MOCC Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/moccpriorities/#:~:text=SB%205202)
+* 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [UPDATED: 50 Housing Bills and How They Fared in Olympia - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now#:~:text=SB%205202)
 * 01/14/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: Housing, Climate Change and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/13/this-week-in-the-senate-week-12-housing-climate-change-and-mlk-day/#:~:text=Senate%20Bill%205202)
 
 ## Meetings

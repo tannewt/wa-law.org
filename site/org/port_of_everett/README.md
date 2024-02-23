@@ -25,5 +25,6 @@
 
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 
 
-## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
+## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍2  
 * 👍 Lisa Lefeber
+* 👍 Adam LeMieux

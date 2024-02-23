@@ -281,7 +281,8 @@
 
 ## [SB 6202](/bill/2023-24/sb/6202/) - Tourism promotion exemptions 👍1  
 
-## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
+## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍2  
+* 👍 Chris Herman
 * 👍 Chris Herman
 
 ## [SB 6303](/bill/2023-24/sb/6303/) - Providing tax incentives to encourage energy storage system and component parts manufacturing in Washington. 👍1  

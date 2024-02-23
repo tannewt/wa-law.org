@@ -13,15 +13,13 @@
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Ways & Means (WM): SHB 2195 Early learning facilities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160061&caId=24382&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160061&caId=24382&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160061&caId=24382&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160061&caId=24382&tId=4)
+#### 35 👍 - Pro
+Testifying:
+* 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
+* Genevieve Stokes - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
+* Susan Brown - WCCA
 
-#### 18 👍 - Pro
-
-#### 15 👎 - Con
+#### 30 👎 - Con
 
 #### 0 ❓ - Other
 

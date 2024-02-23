@@ -15,3 +15,5 @@
 ## [SB 5835](/bill/2023-24/sb/5835/) - Rule making websites 👍1  
 
 ## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp. 👍1  
+
+## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  

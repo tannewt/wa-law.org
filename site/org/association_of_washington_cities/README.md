@@ -227,7 +227,7 @@
 * 👍 Brandy DeLange
 * 👍 Brandy DeLange
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍3  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍4  
 * 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
@@ -371,8 +371,9 @@
 
 ## [HB 2343](/bill/2023-24/hb/2343/) - Property owners/projects 👍1  
 
-## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas 👍1 👎1 
+## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas 👍2 👎1 
 * 👎💵 Candice Bock
+* 👍💵 Candice Bock
 
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras 👍2  
 * 👍 Brandy DeLange
@@ -647,7 +648,7 @@
 
 ## [SB 5834](/bill/2023-24/sb/5834/) - Urban growth areas 👍2  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍4  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍5  
 
 ## [SB 5872](/bill/2023-24/sb/5872/) - Concerning vehicle and operator requirements for autonomous vehicles. 👍1  
 
@@ -663,7 +664,7 @@
 ## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing   ❓1
 * ❓💵 Carl Schroeder
 
-## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍1  
+## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍2  
 
 ## [SB 5920](/bill/2023-24/sb/5920/) - Psychiatric/cert. of need 👍1  
 
@@ -741,9 +742,9 @@
 ## [SB 6171](/bill/2023-24/sb/6171/) - Child care/nonstandard hours 👍1  ❓1
 * ❓💵 Lindsey Hueer
 
-## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍2  
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍3  
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍4  
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management   ❓1
 * ❓💵 Carl Schroeder
@@ -768,7 +769,7 @@
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
 * 👍💵 Lindsey Hueer
 
-## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍2  
+## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍3  
 
 ## [SB 6285](/bill/2023-24/sb/6285/) - Use of impact fees  👎1 
 * 👎💵 Carl Schroeder

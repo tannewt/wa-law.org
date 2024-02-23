@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2104/</link>
 		<description>Updates about HB 2104</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Feb 2024 18:22:26 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -2079,6 +2079,13 @@
 			<pubDate>Mon, 19 Feb 2024 18:22:26 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.uwpnw.org/legupdate02192024#:~:text=HB%202104,</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

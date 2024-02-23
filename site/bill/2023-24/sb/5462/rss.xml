@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5462/</link>
 		<description>Updates about SB 5462</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2024 05:36:30 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -755,6 +755,14 @@
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-21/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👎Britney Inglis - Moses Lake Irrigation and Rehabilitation District</title>
+			<description>Britney Inglis signed up to testify Con.</description>
+			<pubDate>Thu, 22 Feb 2024 05:36:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Britney/Inglis/2024-02-22 05:36:30</guid>
 		</item>
 	</channel>
 </rss>

@@ -10,6 +10,7 @@
 * [Third Substitute](S3/)
 
 ## 📰 Articles
+* 02/21/2024 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Dual and Tribal Language Education - WSPTA](https://www.wastatepta.org/wspta-testifies-dual-and-tribal-language-education/#:~:text=3SHB%201228)
 * 02/12/2024 [House Democrats](/org/house_democrats/) - [House Passes Ortiz-Self Bill to Embrace Multilingualism – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/12/house-passes-ortiz-self-bill-to-embrace-multilingualism/#:~:text=House%20Bill%201228)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=HB%201228)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=HB%201228)
@@ -24,6 +25,21 @@
 * 01/22/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201228)
 
 ## Meetings
+### Sat 02/24 09:00 AM - Ways & Means (WM): 3SHB 1228 Dual & tribal language edu.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160241&caId=24479&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160241&caId=24479&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160241&caId=24479&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160241&caId=24479&tId=4)
+
+#### 4 👍 - Pro
+Testifying:
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/19 01:30 PM - Early Learning & K-12 Education (EDU): 3SHB 1228 Dual & tribal language edu.
 #### 94 👍 - Pro
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6271/</link>
 		<description>Updates about SB 6271</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2024 02:03:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -181,6 +181,14 @@
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-21/Referred to Finance.</guid>
+		</item>
+		<item>
+			<title>👍💵Amy Brackenbury - Washington State Public Health Association</title>
+			<description>Amy Brackenbury signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_state_public_health_association/&quot;&gt;Washington State Public Health Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 22 Feb 2024 02:03:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amy/Brackenbury/2024-02-22 02:03:14</guid>
 		</item>
 	</channel>
 </rss>

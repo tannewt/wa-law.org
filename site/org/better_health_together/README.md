@@ -10,7 +10,7 @@
 
 ## [HB 1812](/bill/2023-24/hb/1812/) - Medicaid/B&O tax deductions 👍2  
 
-## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍2  
 
 ## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍2  
 

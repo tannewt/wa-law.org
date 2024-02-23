@@ -12,17 +12,16 @@
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Appropriations (APP): SSB 6025 Predatory loans
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160009&caId=24373&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160009&caId=24373&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160009&caId=24373&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32009&aId=160009&caId=24373&tId=4)
-
-#### 42 👍 - Pro
+#### 80 👍 - Pro
+Testifying:
+* 💵Andrew Kushner - [Center for Responsible Lending](/org/center_for_responsible_lending/)
+* Sam Leonard - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Joseph Rubin - [Opportunity Financial](/org/opportunity_financial/)
 
 ### Wed 02/14 01:30 PM - Consumer Protection & Business (CPB): SSB 6025 Predatory loans
 #### 22 👍 - Pro

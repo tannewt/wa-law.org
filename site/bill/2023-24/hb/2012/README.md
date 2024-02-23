@@ -9,15 +9,9 @@
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Ways & Means (WM): SHB 2012 Rental housing/nonprofits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160064&caId=24385&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160064&caId=24385&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160064&caId=24385&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31972&aId=160064&caId=24385&tId=4)
+#### 17 👍 - Pro
 
-#### 11 👍 - Pro
-
-#### 6 👎 - Con
+#### 21 👎 - Con
 
 #### 0 ❓ - Other
 

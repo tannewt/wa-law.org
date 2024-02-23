@@ -530,7 +530,7 @@
 
 ## [HB 2244](/bill/2023-24/hb/2244/) - Retirement savings 👍1  
 
-## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍3  
+## [HB 2246](/bill/2023-24/hb/2246/) - Vacation leave accrual 👍4  
 
 ## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍1  
 

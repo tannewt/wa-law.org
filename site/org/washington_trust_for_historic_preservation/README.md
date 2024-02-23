@@ -2,7 +2,7 @@
 
 ## [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings 👍1  
 
-## [HB 1510](/bill/2023-24/hb/1510/) - Community preservation auth. 👍1  
+## [HB 1510](/bill/2023-24/hb/1510/) - Community preservation auth. 👍2  
 
 ## [HB 1575](/bill/2023-24/hb/1575/) - Cultural access programs/tax 👍2  
 

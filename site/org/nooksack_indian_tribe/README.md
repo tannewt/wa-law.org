@@ -6,3 +6,5 @@
 * 👍 Lisa McShane
 
 ## [SB 5828](/bill/2023-24/sb/5828/) - Water rights commissioners   ❓2
+
+## [SB 6039](/bill/2023-24/sb/6039/) - Geothermal energy resources 👍1  

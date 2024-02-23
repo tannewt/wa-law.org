@@ -10,10 +10,12 @@
 
 ## 📰 Articles
 * 02/15/2024 [Crosscut](/org/crosscut/) - [WA Legislature keeps most of its priority bills alive — so far | Crosscut](https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=HB%201998)
+* 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024#:~:text=HB%201998)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%201998)
 * 02/07/2024 [House Democrats](/org/house_democrats/) - [House Bill 1998 Expands Affordable Housing Options by Allowing Co-Living – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/07/house-bill-1998-expands-affordable-housing-options-by-allowing-co-living/#:~:text=House%20Bill%201998)
 * 01/09/2024 [The Urbanist](/org/the_urbanist/) - [Micro-apartments Could Become Fully Legal in Washington, Again - The Urbanist](https://www.theurbanist.org/2024/01/09/micro-apartments-could-become-fully-legal-in-washington-again/#:~:text=House%20Bill%201998)
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%201998)
+* 01/05/2024 [Sightline Institute](/org/sightline_institute/) - [Washington Bill Would Legalize Low-cost “Co-living” Homes - Sightline Institute](https://www.sightline.org/2024/01/05/washington-bill-would-legalize-low-cost-co-living-homes#:~:text=HB%201998)
 * 01/05/2024 [Sightline Institute](/org/sightline_institute/) - [Washington Bill Would Legalize Low-cost “Co-living” Homes - Sightline Institute](https://www.sightline.org/2024/01/05/washington-bill-would-legalize-low-cost-co-living-homes/#:~:text=HB%201998)
 * 01/02/2024 [The Urbanist](/org/the_urbanist/) - [State Legislators Push for ‘Year of Housing 2.0’ - The Urbanist](https://www.theurbanist.org/2024/01/02/get-ready-for-the-year-of-housing-2-0/#:~:text=HB%201998)
 

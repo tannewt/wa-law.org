@@ -29,6 +29,27 @@
 * 06/19/2015 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB%205241)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Appropriations (APP): ESB 5241 Health care marketplace
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160143&caId=24437&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160143&caId=24437&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160143&caId=24437&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160143&caId=24437&tId=4)
+
+#### 13 👍 - Pro
+Testifying:
+* Rory Paine-Donovan - WA Attorney General
+* Dr. Anuj Khattar - [Cedar River Clinics](/org/cedar_river_clinics/)
+* Justin Gill - WSNA
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+
+#### 3 👎 - Con
+Testifying:
+* 💵Vicki Christophersen - Washington Independent Physician Practice Association
+* 💵Brooke Davies - Pediatrix Medical Group of Washington
+
+#### 0 ❓ - Other
+
 ### Wed 02/14 08:00 AM - Civil Rights & Judiciary (CRJ): ESB 5241 Health care marketplace
 #### 1740 👍 - Pro
 Testifying:

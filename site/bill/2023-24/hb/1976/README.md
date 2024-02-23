@@ -10,6 +10,19 @@
 * 02/07/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Fosse Bill Expands Incentives for Decarbonization in Large Buildings – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/07/legislative-news-fosse-bill-expands-incentives-for-decarbonization-in-large-buildings/#:~:text=House%20Bill%201976)
 
 ## Meetings
+### Sat 02/24 09:00 AM - Ways & Means (WM): HB 1976 Incentives/energy upgrades
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160257&caId=24495&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160257&caId=24495&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160257&caId=24495&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160257&caId=24495&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/14 08:00 AM - Environment, Energy & Technology (ENET): HB 1976 Incentives/energy upgrades
 #### 38 👍 - Pro
 Testifying:

@@ -57,7 +57,7 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
+## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍3  
 
 ## [HB 2270](/bill/2023-24/hb/2270/) - Department of housing 👍2  
 

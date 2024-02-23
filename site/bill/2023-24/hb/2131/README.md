@@ -19,13 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160106&caId=24399&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160106&caId=24399&tId=4)
 
-#### 2 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * 💵Laura Feinstein - [Sightline Institute](/org/sightline_institute/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 
 ### Thu 02/01 08:00 AM - Capital Budget (CB): SHB 2131 Thermal energy networks
 #### 304 👍 - Pro

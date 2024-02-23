@@ -10,6 +10,21 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Fri 02/23 01:30 PM - Appropriations (APP): E2SSB 5908 Extended foster care
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160161&caId=24455&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160161&caId=24455&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160161&caId=24455&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160161&caId=24455&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Deonate Cruz - A Way Home Washington
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/16 08:00 AM - Human Services, Youth, & Early Learning (HSEL): E2SSB 5908 Extended foster care
 #### 90 👍 - Pro
 Testifying:

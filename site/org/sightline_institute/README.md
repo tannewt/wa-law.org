@@ -65,8 +65,9 @@
 
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍2  
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍3  
 * 👍 Alan Durning
+* 👍💵 Shannon Grimes
 * 👍💵 Shannon Grimes
 
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
@@ -123,7 +124,7 @@
 
 ## [SB 5258](/bill/2023-24/sb/5258/) - Condos and townhouses 👍2  
 
-## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍2  
+## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍3  
 
 ## [SB 5357](/bill/2023-24/sb/5357/) - Detached ADUs 👍1  
 
@@ -165,6 +166,6 @@
 ## [SB 6138](/bill/2023-24/sb/6138/) - Thermal energy networks 👍1  
 * 👍💵 Laura Feinstein
 
-## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍2  
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍2  
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍3  

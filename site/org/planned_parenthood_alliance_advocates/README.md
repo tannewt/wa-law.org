@@ -146,7 +146,7 @@
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 * ❓💵 Courtney Normand
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍3  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍4  
 * 👍💵 Nicole Kern
 * 👍💵 Nicole Kern
 
@@ -197,6 +197,8 @@
 ## [SB 5890](/bill/2023-24/sb/5890/) - Ballot rejection 👍1  
 
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
+
+## [SB 5937](/bill/2023-24/sb/5937/) - Crime victims & witnesses 👍1  
 
 ## [SB 5943](/bill/2023-24/sb/5943/) - Resource data tool 👍1  
 

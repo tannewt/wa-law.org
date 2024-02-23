@@ -38,6 +38,8 @@
 
 ## [HB 2053](/bill/2023-24/hb/2053/) - Establishing the ninth grade success grant program. 👍1  
 
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
+
 ## [HB 2130](/bill/2023-24/hb/2130/) - Special education services 👍1  
 
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  

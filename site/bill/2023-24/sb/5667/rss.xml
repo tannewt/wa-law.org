@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5667/</link>
 		<description>Updates about SB 5667</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2024 02:12:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -887,7 +887,7 @@
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=SB%205667</guid>
 		</item>
 		<item>
-			<title>👍Ed Westergreen - South Puget Sound Community College</title>
+			<title>👍Ed Westergreen - Miller Family Forest</title>
 			<description>Ed Westergreen signed up to testify Pro.</description>
 			<pubDate>Sun, 18 Feb 2024 10:27:13 GMT</pubDate>
 			<category>testifier</category>
@@ -916,6 +916,22 @@
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-21/Referred to Capital Budget.</guid>
+		</item>
+		<item>
+			<title>👍Elaine Oneil - WA Farm Forestry Association</title>
+			<description>Elaine Oneil signed up to testify Pro. They are signed up to represent WA Farm Forestry Association.</description>
+			<pubDate>Thu, 22 Feb 2024 02:12:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Elaine/Oneil/2024-02-22 02:12:36</guid>
+		</item>
+		<item>
+			<title>👍Ken Miller - Miller Family Forest</title>
+			<description>Ken Miller signed up to testify Pro. They are signed up to represent Miller Family Forest.</description>
+			<pubDate>Thu, 22 Feb 2024 02:12:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ken/Miller/2024-02-22 02:12:36</guid>
 		</item>
 	</channel>
 </rss>

@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/21/2024 [The Spokesman-Review](/org/the_spokesman-review/) - [Will Merg: Driving toward change: Why we need zero-emission school buses in Washington | The Spokesman-Review](https://www.spokesman.com/stories/2024/feb/21/will-merg-driving-toward-change-why-we-need-zero-e/#:~:text=House%20Bill%201368)
 * 02/17/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Additional Supported Bills — Quaker Voice](https://www.quakervoicewa.org/2024-additional-supported-bills/#:~:text=HB%201368)
 * 02/15/2024 [Crosscut](/org/crosscut/) - [WA Legislature keeps most of its priority bills alive — so far | Crosscut](https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=House%20Bill%201368)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SHB%201368)
@@ -28,6 +29,19 @@
 * 02/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB%201368)
 
 ## Meetings
+### Sat 02/24 09:00 AM - Ways & Means (WM): E2SHB 1368 Zero emission school buses
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160243&caId=24481&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160243&caId=24481&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160243&caId=24481&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160243&caId=24481&tId=4)
+
+#### 3 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/19 01:30 PM - Early Learning & K-12 Education (EDU): E2SHB 1368 Zero emission school buses
 #### 725 👍 - Pro
 Testifying:

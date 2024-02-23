@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/21/2024 [House Democrats](/org/house_democrats/) - [Economic Growth, Social Cohesion, & Support for Veterans – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/21/economic-growth-social-cohesion-support-for-veterans/#:~:text=1870)
+
 ## Meetings
 ### Fri 02/23 01:30 PM - Ways & Means (WM): SHB 1870 Local comm. federal funding
 Sign up to testify:
@@ -15,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160104&caId=24397&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160104&caId=24397&tId=4)
 
-#### 2 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 

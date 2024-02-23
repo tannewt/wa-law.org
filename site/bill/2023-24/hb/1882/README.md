@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2024 [Sightline Institute](/org/sightline_institute/) - [Washingtonians May Get a Democracy Upgrade in 2024 - Sightline Institute](https://www.sightline.org/2024/01/16/washingtonians-may-get-a-democracy-upgrade-in-2024#:~:text=HB%201882)
 * 01/16/2024 [Sightline Institute](/org/sightline_institute/) - [Washingtonians May Get a Democracy Upgrade in 2024 - Sightline Institute](https://www.sightline.org/2024/01/16/washingtonians-may-get-a-democracy-upgrade-in-2024/#:~:text=HB%201882)
 
 ## Meetings

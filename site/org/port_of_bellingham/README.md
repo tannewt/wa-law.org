@@ -13,5 +13,5 @@
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
 
-## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍1  
+## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍2  
 * 👍 Rob Fix

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024#:~:text=HB%202126)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%202126)
 * 02/06/2024 [The Urbanist](/org/the_urbanist/) - [The Battle Over Allowing More Rural Accessory Dwelling Units in Washington - The Urbanist](https://www.theurbanist.org/2024/02/06/the-battle-over-allowing-more-rural-accessory-dwelling-units-in-washington/#:~:text=House%20Bill%202126)
 * 01/11/2024 [The Center Square](/org/the_center_square/) - [Bipartisan support in Olympia for rural accessory dwelling units | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c2346066-b0d8-11ee-9a68-77a469d83025.html#:~:text=House%20Bill%202126)

@@ -23,7 +23,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160110&caId=24403&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160110&caId=24403&tId=4)
 
-#### 3 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* 💵Melanie Smith - Washington State Psychological Association
 
 #### 0 👎 - Con
 

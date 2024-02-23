@@ -9,13 +9,39 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024#:~:text=SB%205334)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=SB%205334)
 * 02/09/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205334)
 * 01/26/2024 [Crosscut](/org/crosscut/) - [WA Senate passes tax proposal to boost affordable-housing funding | Crosscut](https://crosscut.com/briefs/2024/01/wa-senate-passes-tax-proposal-boost-affordable-housing-funding#:~:text=Senate%20Bill%205334)
 * 03/17/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-20-24-2023/#:~:text=SB%205334)
+* 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [UPDATED: 50 Housing Bills and How They Fared in Olympia - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now#:~:text=SB%205334)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB%205334)
 
 ## Meetings
+### Fri 02/23 08:00 AM - Finance (FIN): ESSB 5334 Affordable housing funding
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160130&caId=24427&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160130&caId=24427&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160130&caId=24427&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160130&caId=24427&tId=4)
+
+#### 8 👍 - Pro
+Testifying:
+* Carl Florea - Mayor, City of Leavenworth
+* Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+
+#### 6 👎 - Con
+Testifying:
+* Penny Witt
+* vicki leimback
+* Daniel Hanson
+* Allison Moser
+
+#### 2 ❓ - Other
+Testifying:
+* 💵Brent Ludeman - [Expedia Group](/org/expedia_group/)
+* Ruth Whittaker - Chamber of Progress
+
 ### Wed 02/14 08:00 AM - Local Government (LG): ESSB 5334 Affordable housing funding
 #### 188 👍 - Pro
 Testifying:

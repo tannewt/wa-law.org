@@ -1,6 +1,6 @@
 # The Nature Conservancy
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍4  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍5  
 
 ## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 
@@ -81,10 +81,10 @@
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1  
 * 👍💵 Justin Allegro
 
-## [HB 1818](/bill/2023-24/hb/1818/) - Forestland/compensating tax 👍1  
+## [HB 1818](/bill/2023-24/hb/1818/) - Forestland/compensating tax 👍2  
 * 👍 Scott Richards
 
-## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍2  
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍3  
 
 ## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍1  
 

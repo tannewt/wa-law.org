@@ -21,6 +21,7 @@
 * 03/21/2023 [Senate Democrats](/org/senate_democrats/) - [Housing Advocates Testify on Senate Capital Budget Proposal - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/21/housing-advocates-testify-on-senate-capital-budget-proposal/#:~:text=SB%205200)
 * 03/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Budget Releases and Revenue Forecasts will Dominate Next Two Weeks in Week 10 Report - WSPTA](https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=SB%205200)
 * 02/23/2023 [Senate Democrats](/org/senate_democrats/) - [MOCC Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/moccpriorities/#:~:text=SB%205200)
+* 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [UPDATED: 50 Housing Bills and How They Fared in Olympia - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now#:~:text=SB%205200)
 
 ## Meetings
 ### Mon 03/20 04:00 PM - Ways & Means (WM): PSSB 5200: All other.  (Remote Testimony Available).

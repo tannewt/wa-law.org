@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1964/</link>
 		<description>Updates about HB 1964</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 16 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 21 Feb 2024 16:59:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -128,6 +128,20 @@
 			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-16/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Governor Signs First Bill of 2024 to Close Fuel Tax Loophole, Boost Road Funding – Washington State House Democrats</title>
+			<description>News article &quot;Governor Signs First Bill of 2024 to Close Fuel Tax Loophole, Boost Road Funding – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/02/21/governor-signs-first-bill-of-2024-to-close-fuel-tax-loophole-boost-road-funding/#:~:text=House%20Bill%201964</guid>
+		</item>
+		<item>
+			<title>Inslee signs fuel tax enforcement bill into law | Washington | thecentersquare.com</title>
+			<description>News article &quot;Inslee signs fuel tax enforcement bill into law | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Wed, 21 Feb 2024 16:59:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_ee47b6fe-d102-11ee-bb94-0fc8fd9e3b22.html#:~:text=Engrossed%20House%20Bill%201964</guid>
 		</item>
 	</channel>
 </rss>

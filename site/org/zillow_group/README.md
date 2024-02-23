@@ -15,7 +15,7 @@
 
 ## [HB 1633](/bill/2023-24/hb/1633/) - Homes for heroes program 👍2  
 
-## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍1  
+## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
 
 ## [SB 5191](/bill/2023-24/sb/5191/) - Real estate agency 👍1  
 

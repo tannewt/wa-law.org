@@ -19,7 +19,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160119&caId=24412&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160119&caId=24412&tId=4)
 
-#### 1 👍 - Pro
+#### 34 👍 - Pro
+Testifying:
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
 
 #### 0 👎 - Con
 

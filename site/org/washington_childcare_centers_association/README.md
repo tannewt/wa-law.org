@@ -23,4 +23,6 @@
 
 ## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  
 
+## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
+
 ## [SB 6171](/bill/2023-24/sb/6171/) - Child care/nonstandard hours 👍1  

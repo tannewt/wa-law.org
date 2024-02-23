@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/21/2024 [House Democrats](/org/house_democrats/) - [Economic Growth, Social Cohesion, & Support for Veterans – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/21/economic-growth-social-cohesion-support-for-veterans/#:~:text=1835)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%201835)
 
 ## Meetings

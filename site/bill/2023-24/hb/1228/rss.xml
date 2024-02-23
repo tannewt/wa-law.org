@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1228/</link>
 		<description>Updates about HB 1228</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2024 05:08:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -573,6 +573,21 @@
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-21/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>WSPTA Testifies: Dual and Tribal Language Education - WSPTA</title>
+			<description>News article &quot;WSPTA Testifies: Dual and Tribal Language Education - WSPTA&quot; from Washington St Pta.</description>
+			<pubDate>Wed, 21 Feb 2024 16:00:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/wspta-testifies-dual-and-tribal-language-education/#:~:text=3SHB%201228</guid>
+		</item>
+		<item>
+			<title>👍Anna Hernandez-French - Office of Superintendent of Public Instruction</title>
+			<description>Anna Hernandez-French signed up to testify Pro. They are signed up to represent Office of Superintendent of Public Instruction.</description>
+			<pubDate>Thu, 22 Feb 2024 05:08:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Anna/Hernandez-French/2024-02-22 05:08:25</guid>
 		</item>
 	</channel>
 </rss>

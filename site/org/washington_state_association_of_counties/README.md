@@ -213,7 +213,8 @@
 ## [HB 2063](/bill/2023-24/hb/2063/) - Providing an exemption from the real estate excise tax for transfers of property to qualifying low-income first-time homebuyers.  👎1 
 * 👎💵 Paul Jewell
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc.  👎2 
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc.  👎3 
+* 👎💵 Juliana Roe
 * 👎💵 Juliana Roe
 * 👎💵 Juliana Roe
 
@@ -270,7 +271,7 @@
 
 ## [HB 2296](/bill/2023-24/hb/2296/) - Comprehensive plan revisions 👍1  
 
-## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍2  
 * 👍💵 Travis Dutton
 
 ## [HB 2307](/bill/2023-24/hb/2307/) - Public records reviews 👍1  
@@ -287,7 +288,7 @@
 ## [HB 2393](/bill/2023-24/hb/2393/) - Unleaded aircraft fuel/tax  👎1 
 * 👎💵 Paul Jewell
 
-## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍2  
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍3  
 * 👍💵 Travis Dutton
 
 ## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍1  
@@ -376,8 +377,9 @@
 
 ## [SB 5332](/bill/2023-24/sb/5332/) - Homeless camps/schools, etc.  👎1 
 
-## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍1  ❓1
+## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍2  ❓1
 * ❓ Curtis Steinhauer
+* 👍 Curtis Steinhauer
 
 ## [SB 5353](/bill/2023-24/sb/5353/) - Voluntary stewardship prog. 👍4  
 * 👍💵 Paul Jewell
@@ -506,9 +508,10 @@
 
 ## [SB 6079](/bill/2023-24/sb/6079/) - Juv. detention/health recs. 👍1  
 
-## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍3  
+## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍4  
 * 👍💵 Paul Jewell
 * 👍💵 Travis Dutton
+* 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
 ## [SB 6140](/bill/2023-24/sb/6140/) - Intensive rural development 👍2  

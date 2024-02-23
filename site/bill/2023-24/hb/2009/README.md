@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/20/2024 [Gorge News Center](/org/gorge_news_center/) - [Mosbrucker bill to match dental records tomissing persons awaits Senate hearing](https://gorgenewscenter.com/2024/02/20/mosbrucker-bill-to-match-dental-records-tomissing-persons-awaits-senate-hearing/#:~:text=House%20Bill%202009)
+
 ## Meetings
 ### Thu 02/01 10:30 AM - Appropriations (APP): HB 2009 Missing persons/dental recs.
 #### 7 👍 - Pro
