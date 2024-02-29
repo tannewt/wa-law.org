@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/27/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate unanimously approves Mosbrucker’s bill to protect domestic violence victims; next stop is the governor’s office](https://gorgenewscenter.com/2024/02/27/senate-unanimously-approves-mosbruckers-bill-to-protectdomestic-violence-victims-next-stop-is-the-governors-office/#:~:text=House%20Bill%202048)
 * 02/06/2024 [Gorge News Center](/org/gorge_news_center/) - [WA House unanimously approves Mosbrucker bill to protect domestic violence survivors from further abuse](https://gorgenewscenter.com/2024/02/06/wa-house-unanimously-approves-mosbrucker-bill-to-protect-domestic-violence-survivors-from-further-abuse/#:~:text=House%20Bill%202048)
 
 ## Meetings

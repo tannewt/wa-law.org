@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/28/2024 [House Democrats](/org/house_democrats/) - [Gov. Signs Thai Bill to Streamline Working Families Tax Credit Program – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/28/gov-signs-thai-bill-to-streamline-working-families-tax-credit-program/#:~:text=SB%205839)
+
 ## Meetings
 ### Tue 01/16 04:00 PM - Ways & Means (WM): SB 5839 Working families' tax credit
 #### 132 👍 - Pro

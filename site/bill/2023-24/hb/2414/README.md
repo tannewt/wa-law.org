@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/28/2024 [House Democrats](/org/house_democrats/) - [House Passes Bill Banning Hog-Tying by Law Enforcement – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/28/house-sends-bill-banning-hog-tying-by-law-enforcement-to-governors-desk/#:~:text=HB%202414)
+
 ## Meetings

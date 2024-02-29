@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/28/2024 [The Center Square](/org/the_center_square/) - [Ybarra energy bill approved unanimously by WA House and Senate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d28f6346-d696-11ee-a938-934c1f7d65a7.html#:~:text=House%20Bill%201948)
+
 ## Meetings
 ### Wed 02/14 08:00 AM - Environment, Energy & Technology (ENET): HB 1948 Electric load calculation
 #### 19 👍 - Pro

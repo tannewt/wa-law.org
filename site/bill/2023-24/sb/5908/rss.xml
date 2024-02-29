@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5908/</link>
 		<description>Updates about SB 5908</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -298,6 +298,20 @@
 			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-27/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 57; nays, 38; absent, 0; excused, 3.</title>
+			<description>Third reading, passed; yeas, 57; nays, 38; absent, 0; excused, 3.</description>
+			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-28/Third reading, passed; yeas, 57; nays, 38; absent, 0; excused, 3.</guid>
+		</item>
+		<item>
+			<title>House passes bill to extend foster support through age 21 – Washington State House Democrats</title>
+			<description>News article &quot;House passes bill to extend foster support through age 21 – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/02/28/house-passes-bill-to-extend-foster-support-through-age-21/#:~:text=SB%205908</guid>
 		</item>
 	</channel>
 </rss>

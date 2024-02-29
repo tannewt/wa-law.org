@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/28/2024 [House Democrats](/org/house_democrats/) - [House passes bill to extend foster support through age 21 – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/28/house-passes-bill-to-extend-foster-support-through-age-21/#:~:text=HB%202218)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=House%20Bill%202218)
 
 ## Meetings

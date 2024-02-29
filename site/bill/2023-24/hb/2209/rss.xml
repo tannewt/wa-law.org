@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2209/</link>
 		<description>Updates about HB 2209</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -282,6 +282,13 @@
 			<pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-23/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
+			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-28/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

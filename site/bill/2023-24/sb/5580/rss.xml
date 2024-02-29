@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5580/</link>
 		<description>Updates about SB 5580</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -211,6 +211,13 @@
 			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-27/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 94; nays, 0; absent, 0; excused, 4.</title>
+			<description>Third reading, passed; yeas, 94; nays, 0; absent, 0; excused, 4.</description>
+			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-28/Third reading, passed; yeas, 94; nays, 0; absent, 0; excused, 4.</guid>
 		</item>
 	</channel>
 </rss>

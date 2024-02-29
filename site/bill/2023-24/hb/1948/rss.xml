@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1948/</link>
 		<description>Updates about HB 1948</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Feb 2024 18:48:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -202,6 +202,13 @@
 			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-28/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Ybarra energy bill approved unanimously by WA House and Senate | Washington | thecentersquare.com</title>
+			<description>News article &quot;Ybarra energy bill approved unanimously by WA House and Senate | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Wed, 28 Feb 2024 18:48:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_d28f6346-d696-11ee-a938-934c1f7d65a7.html#:~:text=House%20Bill%201948</guid>
 		</item>
 	</channel>
 </rss>

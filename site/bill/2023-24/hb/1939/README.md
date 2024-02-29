@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/28/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Senate Passes Bill Enabling Multistate Licensing for Social Workers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/28/legislative-news-senate-passes-bill-enabling-multistate-licensing-for-social-workers/#:~:text=House%20Bill%201939)
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=on%20HB%201939)
 
 ## Meetings

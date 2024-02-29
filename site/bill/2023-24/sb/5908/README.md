@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## 📰 Articles
+* 02/28/2024 [House Democrats](/org/house_democrats/) - [House passes bill to extend foster support through age 21 – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/28/house-passes-bill-to-extend-foster-support-through-age-21/#:~:text=SB%205908)
+
 ## Meetings
 ### Fri 02/23 01:30 PM - Appropriations (APP): E2SSB 5908 Extended foster care
 #### 88 👍 - Pro

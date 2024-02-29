@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/28/2024 [The Seattle Times](/org/the_seattle_times/) - [Don’t extend unemployment benefits to striking workers | The Seattle Times](https://www.seattletimes.com/opinion/editorials/dont-extend-unemployment-benefits-to-striking-workers/#:~:text=House%20Bill%201893)
 * 02/19/2024 [House Republicans](/org/house_republicans/) - [Initiatives, bill updates, state budgets, and the week ahead | Washington State House Republicans](http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%201893)
 * 02/13/2024 [The Center Square](/org/the_center_square/) - [Washington House approves unemployment benefits legislation for striking workers | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4fb92b1a-cab5-11ee-a4d5-7b7e4393ca59.html#:~:text=House%20Bill%201893)
 * 02/08/2024 [Wenatchee World](/org/wenatchee_world/) - [A WA bill would extend unemployment pay to workers on strike | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/a-wa-bill-would-extend-unemployment-pay-to-workers-on-strike/article_ceebb22c-c6e1-11ee-a5b3-5f2a267f9ca7.html#:~:text=House%20Bill%201893)

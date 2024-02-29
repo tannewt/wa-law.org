@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/27/2024 [House Democrats](/org/house_democrats/) - [Walen bill expanding professional license eligibility heads to the Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/27/walens-bill-enhances-professional-license-eligibility/#:~:text=House%20Bill%201889)
 * 02/15/2024 [Crosscut](/org/crosscut/) - [WA Legislature keeps most of its priority bills alive — so far | Crosscut](https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=House%20Bill%201889)
 * 02/09/2024 [House Democrats](/org/house_democrats/) - [Walen bill to extend licensing eligibility to DREAMERS passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/walen-bill-to-extend-licensing-eligibility-to-dreamers-passes-house/#:~:text=House%20Bill%201889)
 * 01/30/2024 [Crosscut](/org/crosscut/) - [A WA bill would allow non-citizens to obtain professional licenses | Crosscut](https://crosscut.com/politics/2024/01/wa-bill-would-allow-non-citizens-obtain-professional-licenses#:~:text=House%20Bill%201889)

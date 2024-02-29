@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/28/2024 [The Seattle Times](/org/the_seattle_times/) - [Port OKs $5M to fix soundproofing in homes near Sea-Tac Airport | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/port-oks-5m-to-fix-soundproofing-in-homes-near-sea-tac-airport/#:~:text=SB%205955)
 * 01/17/2024 [The Center Square](/org/the_center_square/) - [Legislation would use Seattle Port revenue for pollution mitigation | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_896d9216-b58d-11ee-b707-2f05aad421ae.html#:~:text=Senate%20Bill%205955)
 * 01/17/2024 [House Democrats](/org/house_democrats/) - [Elected officials, residents propose action to cut noise and air pollution near Sea-Tac Airport – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/17/elected-officials-residents-propose-action-to-cut-noise-and-air-pollution-near-sea-tac-airport/#:~:text=SB%205955)
 * 01/15/2024 [Senate Democrats](/org/senate_democrats/) - [Elected officials, residents propose action to cut noise and air pollution near Sea-Tac Airport - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/15/elected-officials-residents-propose-action-to-cut-noise-and-air-pollution-near-sea-tac-airport/#:~:text=SB%205955)

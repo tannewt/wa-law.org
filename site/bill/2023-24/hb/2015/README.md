@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/27/2024 [House Democrats](/org/house_democrats/) - [Washington State Legislature Passes Senn Bill to Enhance Adult Family Home Capacity – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/27/washington-state-legislature-passes-senn-bill-to-enhance-adult-family-home-capacity/#:~:text=House%20Bill%202015)
+
 ## Meetings
 ### Thu 02/15 10:30 AM - Health & Long Term Care (HLTC): SHB 2015 Adult family homes capacity
 #### 193 👍 - Pro

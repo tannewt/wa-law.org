@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/27/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Senate Passes Bill to Empower Crisis Responders  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/27/legislative-news-senate-passes-bill-to-empower-crisis-responders/#:~:text=House%20Bill%202088)
 * 02/08/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: House Passes Bill Empowering Crisis Responders, Supporting the 988 Lifeline, and Protecting Vulnerable Individuals – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/legislative-news-house-passes-bill-empowering-crisis-responders-supporting-the-988-lifeline-and-protecting-vulnerable-individuals/#:~:text=House%20Bill%202088)
 
 ## Meetings

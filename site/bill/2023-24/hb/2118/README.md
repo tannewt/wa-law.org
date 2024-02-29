@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/28/2024 [The Center Square](/org/the_center_square/) - ['Death sentence' for gun dealers passes the Washington Senate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_39d43eb2-d68a-11ee-b076-9f55ee291e65.html#:~:text=Engrossed%20Substitute%20House%20Bill%202118)
+* 02/28/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate vote amounts to death sentence for Washington’s firearm dealers, say Republican Senators](https://gorgenewscenter.com/2024/02/28/senate-vote-amounts-to-death-sentence-for-washingtons-firearm-dealers-say-republican-senators/#:~:text=House%20Bill%202118)
 * 02/25/2024 [The Seattle Times](/org/the_seattle_times/) - [Two WA gun bills are spot-on but a third is unfair to dealers | The Seattle Times](https://www.seattletimes.com/opinion/editorials/two-wa-gun-bills-are-spot-on-but-a-third-is-unfair-to-dealers/#:~:text=2118)
 * 02/19/2024 [House Republicans](/org/house_republicans/) - [Initiatives, bill updates, state budgets, and the week ahead | Washington State House Republicans](http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%202118)
 * 02/17/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 7: More budgets revealed, another deadline arrives and Children's Day 2024 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/17/this-week-in-the-senate-week-7-more-budgets-revealed-another-deadline-arrives-and-childrens-day-2024/#:~:text=House%20Bill%202118)

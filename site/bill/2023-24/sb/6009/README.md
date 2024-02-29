@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/28/2024 [House Democrats](/org/house_democrats/) - [House Passes Bill Banning Hog-Tying by Law Enforcement – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/28/house-sends-bill-banning-hog-tying-by-law-enforcement-to-governors-desk/#:~:text=Senate%20Bill%206009)
 * 02/14/2024 [KING5](/org/king5/) - [Police raise concerns about proposed ‘hog-tying’ ban in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/hog-tying-ban-proposal/281-f1ae1c4a-8ff7-48cb-a707-d03556253616#:~:text=Senate%20Bill%206009.)
 * 02/12/2024 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Washington State Bans Hog-Ties; Japanese Incarceration Day of Remembrance Events on Feb. 19 | South Seattle Emerald](https://southseattleemerald.com/2024/02/12/news-gleams-washington-state-bans-hog-ties-japanese-incarceration-day-of-remembrance-events-on-feb-19/#:~:text=Senate%20Bill%206009)
 * 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206009)

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/07/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Washington Future Fund Gains Grassroots Momentum Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/washington-future-fund-baby-bonds-support/#:~:text=Senate%20Bill%205125)
 * 02/07/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Brief: Washington Future Fund Gains Grassroots Momentum Economic Opportunity Institute](https://www.opportunityinstitute.org/research/post/washington-future-fund-baby-bonds-support/#:~:text=Senate%20Bill%205125)
 * 12/15/2023 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2024 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2024-legislative-agenda/#:~:text=SB%205125)
 * 02/23/2023 [Senate Democrats](/org/senate_democrats/) - [MOCC Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/moccpriorities/#:~:text=SB%205125)

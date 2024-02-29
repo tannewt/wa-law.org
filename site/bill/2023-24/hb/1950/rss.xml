@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1950/</link>
 		<description>Updates about HB 1950</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 22 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -145,6 +145,20 @@
 			<pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-22/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-28/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Gov. Signs Slatter Bill Increasing Access to Public Service Loan Forgiveness – Washington State House Democrats</title>
+			<description>News article &quot;Gov. Signs Slatter Bill Increasing Access to Public Service Loan Forgiveness – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/02/28/gov-signs-slatter-bill-increasing-access-to-public-service-loan-forgiveness/#:~:text=House%20Bill%201950</guid>
 		</item>
 	</channel>
 </rss>
