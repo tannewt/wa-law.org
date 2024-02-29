@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2489/</link>
 		<description>Updates about HB 2489</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -35,6 +35,20 @@
 			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-20/House Rules &quot;X&quot; file.</guid>
+		</item>
+		<item>
+			<title>Specialty plates are just idling in the Legislature | The Seattle Times</title>
+			<description>News article &quot;Specialty plates are just idling in the Legislature | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Fri, 23 Feb 2024 10:45:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/opinion/specialty-plates-are-just-idling-in-the-legislature/#:~:text=House%20Bill%202489</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-27/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 	</channel>
 </rss>

@@ -36,7 +36,7 @@ Testifying:
 * Tom Lambro - UFCW 3000
 * Yasmin Ashur
 * James Perez
-* Michael Whalen - UFCW367
+* 💵Michael Whalen - UFCW367
 
 #### 8 👎 - Con
 Testifying:

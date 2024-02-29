@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1989/</link>
 		<description>Updates about HB 1989</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Feb 2024 07:41:38 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 24 Feb 2024 18:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -121,6 +121,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Anthony/Mixer/2024-02-19 07:41:38</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-23/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Spin Control: State may test out new ways to battle highway graffiti | The Spokesman-Review</title>
+			<description>News article &quot;Spin Control: State may test out new ways to battle highway graffiti | The Spokesman-Review&quot; from The Spokesman-Review.</description>
+			<pubDate>Sat, 24 Feb 2024 18:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.spokesman.com/stories/2024/feb/24/spin-control-state-may-test-out-new-ways-to-battle/#:~:text=HB%201989,</guid>
 		</item>
 	</channel>
 </rss>

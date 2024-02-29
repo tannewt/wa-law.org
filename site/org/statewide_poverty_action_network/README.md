@@ -86,7 +86,7 @@
 
 ## [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt 👍1  
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍13  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍14  
 * 👍💵 Alex Hur
 * 👍💵 Alex Hur
 * 👍💵 Lianna Kressin

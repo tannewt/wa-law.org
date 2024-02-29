@@ -206,7 +206,7 @@
 ## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍3  
 * 👍 Skippy Shaw
 
-## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍1  
+## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍2  
 
 ## [SB 6237](/bill/2023-24/sb/6237/) - Wildlife safe passages 👍1  
 

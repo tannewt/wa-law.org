@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5947/</link>
 		<description>Updates about SB 5947</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 12:43:29 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -426,6 +426,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Leah/Missik/2024-02-21 12:43:29</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

@@ -47,7 +47,7 @@
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍6  
 * 👍💵 Sunshine Cheng
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍2  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍3  
 
 ## [HB 1580](/bill/2023-24/hb/1580/) - Children in crisis 👍3  
 
@@ -62,13 +62,15 @@
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍1  
+
 ## [HB 2001](/bill/2023-24/hb/2001/) - Sentence modification 👍1  
 
 ## [HB 2027](/bill/2023-24/hb/2027/) - Concerning certification, background checks, and training requirements for sheriffs, police chiefs, marshals, reserve officers, and volunteers. 👍2  
 
 ## [HB 2030](/bill/2023-24/hb/2030/) - Revoking a person's voting rights only when convicted of a state crime punishable by death. 👍1  
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍2  
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍3  
 
 ## [HB 2177](/bill/2023-24/hb/2177/) - Sex offender policy board 👍1  
 

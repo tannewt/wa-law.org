@@ -14,15 +14,13 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Appropriations (APP): E2SSB 5853 Behav crisis services/minors
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160159&caId=24453&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160159&caId=24453&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160159&caId=24453&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160159&caId=24453&tId=4)
+#### 29 👍 - Pro
+Testifying:
+* 💵Michael Transue - National Alliance on Mental Illness & Connections Health Solutions
 
-#### 2 👍 - Pro
-
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* STEVEN PEARCE - Citizens Commission on Human Rights
 
 #### 0 ❓ - Other
 

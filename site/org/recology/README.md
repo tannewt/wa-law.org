@@ -10,6 +10,8 @@
 
 ## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.  👎1 
 
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management   ❓1
+
 ## [SB 5144](/bill/2023-24/sb/5144/) - Batteries/environment 👍2  
 * 👍 Logan Harvey
 * 👍 Logan Harvey

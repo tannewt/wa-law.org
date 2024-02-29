@@ -14,19 +14,13 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Ways & Means (WM): 2SHB 1929 Postinpatient housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160117&caId=24410&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160117&caId=24410&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160117&caId=24410&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160117&caId=24410&tId=4)
-
-#### 50 👍 - Pro
+#### 91 👍 - Pro
 Testifying:
 * Jim Theofelis - NorthStar Advocates
 * 💵Anna Nepomuceno - NAMI Washington and Patients Coalition of Washington
 * Jason McGill - Northwest Youth Services
 
-#### 183 👎 - Con
+#### 285 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 

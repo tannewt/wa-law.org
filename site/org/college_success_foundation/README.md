@@ -54,6 +54,8 @@
 ## [HB 1679](/bill/2023-24/hb/1679/) - Student homelessness group 👍1  
 * 👍💵 Juliet Schindler
 
+## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
+
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍4  
 
 ## [HB 2025](/bill/2023-24/hb/2025/) - State work-study program 👍2  
@@ -64,7 +66,7 @@
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓💵 Juliet Schindler
 
-## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍2  
 * 👍💵 Juliet Schindler
 
 ## [HB 2224](/bill/2023-24/hb/2224/) - Child abuse referral tool 👍3  
@@ -75,6 +77,8 @@
 * 👍💵 Emily Stochel
 
 ## [HB 2383](/bill/2023-24/hb/2383/) - Dependency outcome reporting 👍2  
+
+## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍1  
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
 * 👍💵 Juliet Schindler
@@ -146,11 +150,11 @@
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍4  
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍5  
 * 👍💵 Emily Stochel
 * 👍💵 Juliet Schindler
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍3  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍4  
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
 * ❓ Michael Cheever
@@ -163,7 +167,7 @@
 
 ## [SB 6053](/bill/2023-24/sb/6053/) - Education data sharing 👍1  
 
-## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍1  
+## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍2  
 
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍1  
 

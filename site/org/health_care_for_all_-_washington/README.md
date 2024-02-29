@@ -12,15 +12,15 @@
 
 ## [HB 2041](/bill/2023-24/hb/2041/) - Physician assistant practice 👍1  
 
-## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍1  
+## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍2  
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 
 ## [SB 5776](/bill/2023-24/sb/5776/) - Insulin emergency supply 👍1  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍3  
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍4  
 
 ## [SB 6258](/bill/2023-24/sb/6258/) - Standardized health plans 👍1  
 

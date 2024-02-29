@@ -21,9 +21,10 @@
 ## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍1  
 * 👍 Chris Roberts
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍4  
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍5  
 * 👍 Jim Hammond
 * 👍 Jim Hammond
+* 👍 James Hammond
 
 ## [HB 2354](/bill/2023-24/hb/2354/) - Tax increment areas  👎1 
 

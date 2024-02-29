@@ -20,17 +20,20 @@
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): ESHB 1248 Pupil transportation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160242&caId=24480&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160242&caId=24480&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160242&caId=24480&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160242&caId=24480&tId=4)
+#### 23 👍 - Pro
+Testifying:
+* Earl Johnson
+* Debbie Gath - IBT L38
 
-#### 1 👍 - Pro
+#### 44 👎 - Con
+Testifying:
+* Marvin Treadwell
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Charlie Brown - Federal Way SD and South Sound Superintendents
+* Jeff Baerwald - Nine Mile Fall School District
+* 💵Carolyn Logue - WA State Student Transportation Coalition
 
 ### Thu 02/15 01:30 PM - Early Learning & K-12 Education (EDU): ESHB 1248 Pupil transportation
 #### 84 👍 - Pro

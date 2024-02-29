@@ -20,13 +20,17 @@
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): E2SHB 1956 Substance use prevention ed.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160253&caId=24491&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160253&caId=24491&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160253&caId=24491&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160253&caId=24491&tId=4)
-
-#### 2 👍 - Pro
+#### 109 👍 - Pro
+Testifying:
+* Maddy Thompson - Office of the Governor
+* MD, Scott Phillips - [Washington Poison Center](/org/washington_poison_center/)
+* Melissa Spiker - Seattle Special Education PTSA / Vice President
+* Laura Lynch
+* Maria Trujillo-Petty - Classy Chassis
+* maria Trujillo-Petty
+* Scott Waller - Washington Association for Substance misuse and Violence Prevention (WASAVP)
+* John Worthington
+* 💵Melissa Gombosky - Associaiton of Educational Service Districts
 
 #### 0 👎 - Con
 

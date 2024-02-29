@@ -69,7 +69,7 @@
 
 ## [HB 1351](/bill/2023-24/hb/1351/) - Minimum parking requirements 👍1  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings  👎2 
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings  👎3 
 
 ## [HB 1393](/bill/2023-24/hb/1393/) - Journey level electricians 👍1  
 * 👍💵 Josie Cummings
@@ -347,7 +347,7 @@
 ## [SB 6107](/bill/2023-24/sb/6107/) - Construction/sanitary cond.  👎1 
 * 👎💵 Tricia Gullion
 
-## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
+## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍2  
 * 👍💵 Jan Himebaugh
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax  👎1 

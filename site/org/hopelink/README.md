@@ -18,6 +18,8 @@
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍4  
 
+## [HB 1248](/bill/2023-24/hb/1248/) - Pupil transportation 👍1  
+
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍3  
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
@@ -53,7 +55,7 @@
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍2  
 
 ## [HB 1693](/bill/2023-24/hb/1693/) - Student homelessness pilot 👍1  
 
@@ -65,7 +67,7 @@
 
 ## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍2  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍3  
+## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍4  
 * 👍 Juliana Yenne
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍2  
@@ -79,7 +81,7 @@
 
 ## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍2  
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍3  
 
 ## [HB 2191](/bill/2023-24/hb/2191/) - PTBA governing body members 👍2  
 
@@ -139,7 +141,7 @@
 
 ## [SB 5572](/bill/2023-24/sb/5572/) - Traffic safety 👍1  
 
-## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍4  
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍5  
 
 ## [SB 5581](/bill/2023-24/sb/5581/) - Maternal support services 👍1  
 
@@ -167,7 +169,7 @@
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax 👍1  
 
-## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍2  
 
 ## [SB 6185](/bill/2023-24/sb/6185/) - PTBA governing body members 👍1  
 
@@ -175,6 +177,6 @@
 
 ## [SB 6196](/bill/2023-24/sb/6196/) - Basic income pilot program 👍1  
 
-## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment 👍1  
+## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment 👍2  
 
 ## [SB 6254](/bill/2023-24/sb/6254/) - Student navigational support 👍2  

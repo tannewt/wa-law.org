@@ -34,7 +34,7 @@
 
 ## [HB 2008](/bill/2023-24/hb/2008/) - Housing cost task force 👍1  
 
-## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍3  
+## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍4  
 
 ## [HB 2149](/bill/2023-24/hb/2149/) - Protecting consumer personal information.  👎1 
 * 👎💵 Kelly Fukai
@@ -84,13 +84,13 @@
 ## [SB 5849](/bill/2023-24/sb/5849/) - Computer science/graduation 👍3  
 * 👍💵 Brittany Jarnot
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍3  
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍4  
 
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
 
 ## [SB 6012](/bill/2023-24/sb/6012/) - Teacher preparation programs 👍1  
 
-## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings   ❓2
+## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings 👍1  ❓2
 
 ## [SB 6137](/bill/2023-24/sb/6137/) - Semiconductor tax incentives 👍2  
 

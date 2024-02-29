@@ -58,7 +58,7 @@
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1 👎3 
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace  👎1 
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace  👎2 
 
 ## [SB 5302](/bill/2023-24/sb/5302/) - Adult family homes/prop. tax 👍1  
 

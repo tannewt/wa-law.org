@@ -43,11 +43,11 @@
 
 ## [HB 1701](/bill/2023-24/hb/1701/) - Institutional ed. programs   ❓1
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍4  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍5  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍2  
 
 ## [HB 2130](/bill/2023-24/hb/2130/) - Special education services 👍1  
 
@@ -111,7 +111,7 @@
 * 👍 Fred Kingston
 * 👍 Fred Kingston
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍5  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍6  
 * 👍💵 Daniel Lugo
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  

@@ -15,7 +15,7 @@
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍4  
 
-## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍3  
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍5  ❓1
 
 ## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍1  
 

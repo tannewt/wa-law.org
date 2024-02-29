@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1551/</link>
 		<description>Updates about HB 1551</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -218,6 +218,53 @@
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-21/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍Reza Pedram - Afghan Health Initiative</title>
+			<description>Reza Pedram signed up to testify Pro. They are signed up to represent Afghan Health Initiative.</description>
+			<pubDate>Fri, 23 Feb 2024 07:52:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Reza/Pedram/2024-02-23 07:52:18</guid>
+		</item>
+		<item>
+			<title>👍Katie Fellows - Hazardous Waste Management Program, Seattle &amp; King County</title>
+			<description>Katie Fellows signed up to testify Pro. They are signed up to represent Hazardous Waste Management Program, Seattle &amp; King County.</description>
+			<pubDate>Fri, 23 Feb 2024 09:15:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Katie/Fellows/2024-02-23 09:15:03</guid>
+		</item>
+		<item>
+			<title>❓Kimberly Goetz - Department of Ecology</title>
+			<description>Kimberly Goetz signed up to testify Other. They are signed up to represent Department of Ecology.</description>
+			<pubDate>Fri, 23 Feb 2024 11:42:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kimberly/Goetz/2024-02-23 11:42:09</guid>
+		</item>
+		<item>
+			<title>❓💵Crystal Leatherman - Washington Retail Association</title>
+			<description>Crystal Leatherman signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_retail_association/&quot;&gt;Washington Retail Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 23 Feb 2024 12:43:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Crystal/Leatherman/2024-02-23 12:43:10</guid>
+		</item>
+		<item>
+			<title>👎Steve Duenkel - 110 NE Belfair Sta</title>
+			<description>Steve Duenkel signed up to testify Con. They are signed up to represent 110 NE Belfair Sta.</description>
+			<pubDate>Sat, 24 Feb 2024 07:35:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Steve/Duenkel/2024-02-24 07:35:15</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

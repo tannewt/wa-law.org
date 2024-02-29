@@ -47,6 +47,8 @@
 ## [HB 1497](/bill/2023-24/hb/1497/) - Vapor and tobacco/minors 👍2  
 * 👍 Jeff Ketchel
 
+## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
+
 ## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍1  
 * 👍 Jeff Ketchel
 
@@ -66,9 +68,11 @@
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
 
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
+
 ## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍1  
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍2  
 
 ## [HB 2003](/bill/2023-24/hb/2003/) - Housing/public lands leases 👍1  
 

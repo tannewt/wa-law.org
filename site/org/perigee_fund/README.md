@@ -6,7 +6,7 @@
 
 ## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍2  
 
-## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍2  
 
 ## [HB 2256](/bill/2023-24/hb/2256/) - Children behavioral health 👍2  
 * 👍💵 Kristin Wiggins

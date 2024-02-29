@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1455/</link>
 		<description>Updates about HB 1455</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Feb 2024 13:48:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -335,6 +335,41 @@
 			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-20/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</description>
+			<pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-23/Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Sat, 24 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-24/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Child marriages to soon be banned in Washington - MyNorthwest.com</title>
+			<description>News article &quot;Child marriages to soon be banned in Washington - MyNorthwest.com&quot; from MyNorthwest.</description>
+			<pubDate>Sat, 24 Feb 2024 00:49:30 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/3952097/child-marriages-soon-to-be-illegal-in-washington-state/#:~:text=HB%201455</guid>
+		</item>
+		<item>
+			<title>State Legislature passes bill to ban child marriages in Washington  – KIRO 7 News Seattle</title>
+			<description>News article &quot;State Legislature passes bill to ban child marriages in Washington  – KIRO 7 News Seattle&quot; from KIRO7.</description>
+			<pubDate>Sun, 25 Feb 2024 22:15:25 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kiro7.com/news/local/state-legislature-passes-bill-ban-child-marriages-washington/UB4QA6PBMRFI7KIAPBS25AY4HQ/#:~:text=HB%201455</guid>
+		</item>
+		<item>
+			<title>Bill banning child marriage in Washington; moves to governor's desk</title>
+			<description>News article &quot;Bill banning child marriage in Washington; moves to governor's desk&quot; from FOX13.</description>
+			<pubDate>Mon, 26 Feb 2024 13:48:47 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/bill-banning-child-marriage-in-washington-moves-to-governors-desk#:~:text=House%20Bill%201455,</guid>
 		</item>
 	</channel>
 </rss>

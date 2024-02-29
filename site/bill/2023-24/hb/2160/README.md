@@ -18,23 +18,27 @@
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): E2SHB 2160 Housing development
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160127&caId=24420&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160127&caId=24420&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160127&caId=24420&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160127&caId=24420&tId=4)
-
-#### 54 👍 - Pro
+#### 173 👍 - Pro
 Testifying:
 * Joe Kunzler
 * Noha Mahgoub - Governor's Office
+* Jesse Simpson - Housing Development Consortium
+* James Hammond - [City of Shoreline](/org/city_of_shoreline/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 5 👎 - Con
+#### 652 👎 - Con
+Testifying:
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Bill Clarke - Washington Realtors
+* Ian Morrison - NAIOPwa
+* Morgan Irwain - [Association of Washington Business](/org/association_of_washington_business/)
+* Ian Morrison - NAIOPwa
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * John Worthington
 * Scott Bonjukian
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
 ### Thu 02/15 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): E2SHB 2160 Housing development
 #### 481 👍 - Pro

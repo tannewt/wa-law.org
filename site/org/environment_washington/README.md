@@ -17,7 +17,7 @@
 
 ## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍3  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍5  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍6  
 
 ## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍1  
 

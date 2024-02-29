@@ -30,7 +30,7 @@
 
 ## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍2  
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍2  
 * 👍 M.D., Chris Buresh
 
 ## [HB 2157](/bill/2023-24/hb/2157/) - Vaccine definition 👍2  
@@ -52,6 +52,8 @@
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1 👎1 
 
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace  👎1 
+
 ## [SB 5257](/bill/2023-24/sb/5257/) - Elementary school recess 👍1  
 
 ## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍1  
@@ -64,7 +66,7 @@
 
 ## [SB 5537](/bill/2023-24/sb/5537/) - Hospital staffing collab. 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 * 👍 Kashi Aurora
 
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍3  

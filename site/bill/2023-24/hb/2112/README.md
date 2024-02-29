@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/23/2024 [NW News Network](/org/nw_news_network/) - [Budgets, initiative hearings top agenda in week 7 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-23/budgets-initiative-hearings-top-agenda-in-week-7-of-washingtons-legislative-session#:~:text=House%20Bill%202112)
 * 02/08/2024 [House Democrats](/org/house_democrats/) - [House passes Nance bill to fund opioid prevention at colleges – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/house-passes-nance-bill-to-fund-opioid-prevention-at-colleges/#:~:text=House%20Bill%202112)
 * 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202112)
 * 01/21/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/21/the-house-hot-sheet-for-week-3-of-the-2024-legislative-session/#:~:text=HB%202112)
@@ -17,17 +18,18 @@
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): 2SHB 2112 Higher ed. opioid prevention
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160249&caId=24487&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160249&caId=24487&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160249&caId=24487&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160249&caId=24487&tId=4)
-
-#### 0 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* 💵Collin Bannister - ASWSU and The Washington Student Association
+* Scott Waller - Washington Association for Substance misuse and Violence Prevention (WASAVP)
+* Arlen Harris - SBCTC
+* Debby Herbert
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ph.D., Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
 
 ### Wed 02/14 08:00 AM - Higher Education & Workforce Development (HEWD): 2SHB 2112 Higher ed. opioid prevention
 #### 33 👍 - Pro

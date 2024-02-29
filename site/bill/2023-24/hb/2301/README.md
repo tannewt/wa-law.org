@@ -14,22 +14,29 @@
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): E2SHB 2301 Waste material management
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160123&caId=24416&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160123&caId=24416&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160123&caId=24416&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160123&caId=24416&tId=4)
-
-#### 32 👍 - Pro
+#### 93 👍 - Pro
 Testifying:
 * Jay Kang - Thurston County Food Bank
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * 💵Michael Moran - Second Harvest of the Inland Northwest
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Ashar Ahmad
+* Thejas Rao
+* Jerry Won
+* Brian Pontious - Ingevity
+* Brice Liu
 
-#### 0 👎 - Con
+#### 28 👎 - Con
+Testifying:
+* Brad Bekendam
 
-#### 0 ❓ - Other
+#### 12 ❓ - Other
+Testifying:
+* Rick Vahl - Waste Connections
+* Chris Reigelsperger - Waste Management
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Vicki Christophersen - Washington Refuse and Recycling Association
 
 ### Tue 01/23 04:00 PM - Environment & Energy (ENVI): HB 2301 Waste material management
 #### 414 👍 - Pro

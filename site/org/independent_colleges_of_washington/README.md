@@ -14,14 +14,16 @@
 
 ## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍2  
 
-## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention   ❓2
+## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention   ❓3
+* ❓ Ph.D., Terri Standish-Kuon
 * ❓ Ph.D., Terri Standish-Kuon
 * ❓ Ph.D., Terri Standish-Kuon
 
 ## [HB 2164](/bill/2023-24/hb/2164/) - Postsecondary ed protections   ❓1
 * ❓ Ph.D., Terri Standish-Kuon
 
-## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍2  
+## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍3  
+* 👍 Ph.D., Terri Standish-Kuon
 * 👍 Ph.D., Terri Standish-Kuon
 
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  ❓1
@@ -51,7 +53,7 @@
 
 ## [SB 5711](/bill/2023-24/sb/5711/) - College grant eligibility 👍2  
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍3  
 
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
 

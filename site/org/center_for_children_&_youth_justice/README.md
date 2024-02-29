@@ -83,7 +83,7 @@
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍2  
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍4  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍5  
 
 ## [SB 5933](/bill/2023-24/sb/5933/) - Infants and toddlers program 👍1  
 
@@ -93,8 +93,11 @@
 
 ## [SB 5981](/bill/2023-24/sb/5981/) - Concerning the indeterminate sentence review board. 👍1  
 
+## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking   ❓1
+* ❓💵 Gina Cumbo
+
 ## [SB 6063](/bill/2023-24/sb/6063/) - Persistent offenders 👍1  
 
-## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍4  
+## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍5  
 
 ## [SB 6109](/bill/2023-24/sb/6109/) - Children and families 👍1  ❓4

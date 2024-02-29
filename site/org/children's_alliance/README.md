@@ -60,7 +60,7 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍2  
 
-## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍3  
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
@@ -68,7 +68,7 @@
 
 ## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info. 👍1  
 
-## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍2  
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍3  
 
 ## [SB 5082](/bill/2023-24/sb/5082/) - Advisory votes 👍1  
 

@@ -32,6 +32,8 @@
 ## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management 👍1  
 * 👍 Marlene Feist
 
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
+
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍2  

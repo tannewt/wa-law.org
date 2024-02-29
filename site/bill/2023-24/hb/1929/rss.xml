@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1929/</link>
 		<description>Updates about HB 1929</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 22 Feb 2024 11:57:58 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -304,6 +304,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jason/McGill/2024-02-22 11:57:58</guid>
+		</item>
+		<item>
+			<title>Placed on second reading consent calendar.</title>
+			<description>Placed on second reading consent calendar.</description>
+			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-27/Placed on second reading consent calendar.</guid>
 		</item>
 	</channel>
 </rss>

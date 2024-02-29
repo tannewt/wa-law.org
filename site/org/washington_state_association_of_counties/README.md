@@ -525,7 +525,7 @@
 
 ## [SB 6164](/bill/2023-24/sb/6164/) - County emergency management   ❓1
 
-## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍2  
 
 ## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍1  
 

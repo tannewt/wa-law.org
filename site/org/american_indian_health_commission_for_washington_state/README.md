@@ -13,20 +13,22 @@
 
 ## [HB 1879](/bill/2023-24/hb/1879/) - Naming the curriculum used to inform students about tribal history, culture, and government after John McCoy (lulilaš). 👍2  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍2  
 
-## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍2  
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍2  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍3  
 
-## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍3  
+## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍4  
+
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
 
 ## [HB 2075](/bill/2023-24/hb/2075/) - Indian health care providers 👍1  
 * 👍💵 Vicki Lowe
 
 ## [HB 2098](/bill/2023-24/hb/2098/) - Women's commission/gifts 👍1  
 
-## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍3  
+## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍4  
 
 ## [HB 2135](/bill/2023-24/hb/2135/) - Including federally recognized tribes as part of the Washington emergency management division emergency worker program. 👍1  
 
@@ -58,7 +60,7 @@
 
 ## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍2  
 
-## [SB 5811](/bill/2023-24/sb/5811/) - Expanding the definition of family member for individual providers. 👍1  
+## [SB 5811](/bill/2023-24/sb/5811/) - Expanding the definition of family member for individual providers. 👍2  
 
 ## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
 
@@ -66,9 +68,11 @@
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
-## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍1  
+## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍2  
+
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍1  
 
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
 
@@ -77,6 +81,8 @@
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
 
 ## [SB 6099](/bill/2023-24/sb/6099/) - Tribal opioid account 👍1  
+
+## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍1  
 
 ## [SB 6308](/bill/2023-24/sb/6308/) - 988 system timeline 👍1  
 

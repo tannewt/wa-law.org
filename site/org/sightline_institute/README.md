@@ -91,7 +91,8 @@
 * 👍💵 Laura Feinstein
 * 👍💵 Laura Feinstein
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development   ❓2
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development   ❓3
+* ❓💵 Dan Bertolet
 * ❓💵 Dan Bertolet
 * ❓💵 Dan Bertolet
 

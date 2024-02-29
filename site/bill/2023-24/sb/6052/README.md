@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/22/2024 [Crosscut](/org/crosscut/) - [Gas prices too high? WA residents may get $200 back for utilities | Crosscut](https://crosscut.com/environment/2024/02/gas-prices-too-high-wa-residents-may-get-200-back-utilities#:~:text=Senate%20Bill%206052)
 * 02/17/2024 [The Seattle Times](/org/the_seattle_times/) - [Some bills survive, others don’t after WA Legislature chamber deadline | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-survive-others-dont-after-wa-legislature-chamber-deadline/#:~:text=Senate%20Bill%206052)
 * 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206052)
 * 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206052)

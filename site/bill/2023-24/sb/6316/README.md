@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/21 03:00 PM - Transportation (TRAN): SB 6316 SR 520 corridor

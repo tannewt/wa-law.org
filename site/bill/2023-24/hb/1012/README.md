@@ -14,18 +14,13 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Ways & Means (WM): SHB 1012 Extreme weather events
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160115&caId=24408&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160115&caId=24408&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160115&caId=24408&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160115&caId=24408&tId=4)
-
-#### 18 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * Bob Rilling-Smith - American Kennel Club
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 188 👎 - Con
+#### 331 👎 - Con
 Testifying:
 * Jeannette Mcchesney
 

@@ -14,3 +14,5 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 * 👍 Tienaya Godes
+
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍2  

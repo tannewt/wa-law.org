@@ -407,8 +407,9 @@
 ## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries 👍1  
 * 👍💵 Morgan Irwin
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎2 
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎3 
 * 👎💵 Morgan Irwin
+* 👎 Morgan Irwain
 
 ## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍1  
 
@@ -424,11 +425,11 @@
 * ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 
-## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍3  
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍4  
 
 ## [HB 2230](/bill/2023-24/hb/2230/) - Economic security grants 👍3  
 
-## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs 👍1  ❓2
+## [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs 👍2  ❓2
 * ❓💵 Emily Wittman
 * ❓💵 Emily Wittman
 * 👍💵 Emily Wittman
@@ -452,8 +453,9 @@
 
 ## [HB 2295](/bill/2023-24/hb/2295/) - Hospital at-home services 👍1  
 
-## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management  👎1 
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management  👎1 ❓1
 * 👎💵 Peter Godlewski
+* ❓💵 Peter Godlewski
 
 ## [HB 2308](/bill/2023-24/hb/2308/) - Existing structures/housing 👍1  
 
@@ -471,7 +473,8 @@
 
 ## [HB 2384](/bill/2023-24/hb/2384/) - Traffic safety cameras   ❓1
 
-## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases  👎1 
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases  👎2 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
 ## [HB 2422](/bill/2023-24/hb/2422/) - Affordable housing/rural 👍1  
@@ -479,7 +482,7 @@
 ## [HB 2425](/bill/2023-24/hb/2425/) - Rental support program   ❓1
 * ❓💵 Morgan Irwin
 
-## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍1  
+## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍2  
 
 ## [HB 2451](/bill/2023-24/hb/2451/) - Impact fees 👍1  
 * 👍💵 Morgan Irwin
@@ -550,7 +553,7 @@
 
 ## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍1  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace  👎3 
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace  👎4 
 
 ## [SB 5251](/bill/2023-24/sb/5251/) - Commercial driver's licenses 👍1  
 * 👍 Mike Ennis
@@ -735,7 +738,7 @@
 ## [SB 5901](/bill/2023-24/sb/5901/) - Co-living housing 👍1  
 * 👍💵 Morgan Irwin
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍3  
 
 ## [SB 5915](/bill/2023-24/sb/5915/) - Extending an existing hazardous substance tax exemption for certain agricultural crop protection products that are temporarily warehoused but not otherwise used, manufactured, packaged, or sold in the state of Washington. 👍1  
 * 👍💵 Emily Shay
@@ -781,7 +784,8 @@
 
 ## [SB 6055](/bill/2023-24/sb/6055/) - Natural resource indus. dev. 👍1  
 
-## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage   ❓3
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage   ❓4
+* ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
@@ -852,7 +856,7 @@
 ## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍2  
 * 👍💵 Morgan Irwin
 
-## [SB 6303](/bill/2023-24/sb/6303/) - Providing tax incentives to encourage energy storage system and component parts manufacturing in Washington. 👍2  
+## [SB 6303](/bill/2023-24/sb/6303/) - Energy storage manufacturing 👍2  
 * 👍💵 Emily Shay
 
 ## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  

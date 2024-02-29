@@ -15,9 +15,13 @@
 
 ## [HB 1744](/bill/2023-24/hb/1744/) - Charter school oversight 👍1  
 
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
+
 ## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍1  
 
 ## [HB 2125](/bill/2023-24/hb/2125/) - Concerning the eligibility of state-mandated benefits for contingent faculty at community and technical colleges. 👍1  
+
+## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
 
 ## [HB 2276](/bill/2023-24/hb/2276/) - Housing/taxes 👍1  
 

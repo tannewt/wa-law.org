@@ -45,7 +45,7 @@
 ## [HB 2102](/bill/2023-24/hb/2102/) - PFML benefits/health info.   ❓1
 * ❓ Kate White Tudor
 
-## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍2  
+## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍3  
 * 👍 Lisa Nelson
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  

@@ -14,15 +14,20 @@
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): ESHB 2494 School operating costs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160240&caId=24478&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160240&caId=24478&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160240&caId=24478&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160240&caId=24478&tId=4)
+#### 89 👍 - Pro
+Testifying:
+* Jim Kowalkowski - Rural Education Center
+* Malorie Larson - WSPTA Advocate
+* Charlie Brown - Federal Way SD and South Sound Superintendents
+* Kyle Rydell - West valley School District
+* Marissa Rathbone - Washington State School Directors' Association (WSSDA)
+* Jason Perrins - Chewelah SD
+* 💵Melissa Gombosky - Spokane, Evergreen, Vancouver, Richland, and ESD 105 Schools Coalition
+* Anna Hernandez-French - Office of Superintendent of Public Instruction
 
-#### 1 👍 - Pro
-
-#### 0 👎 - Con
+#### 843 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
 #### 0 ❓ - Other
 

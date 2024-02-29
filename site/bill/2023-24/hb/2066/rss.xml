@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2066/</link>
 		<description>Updates about HB 2066</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 17 Jan 2024 12:27:19 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 22 Feb 2024 20:25:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -179,6 +179,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sybill/Hyppolite/2024-01-17 12:27:19</guid>
+		</item>
+		<item>
+			<title>Hospital Consolidation Is Driving Up The Cost of Healthcare Economic Opportunity Institute</title>
+			<description>News article &quot;Hospital Consolidation Is Driving Up The Cost of Healthcare Economic Opportunity Institute&quot; from Economic Opportunity Institute.</description>
+			<pubDate>Thu, 22 Feb 2024 20:25:01 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.opportunityinstitute.org/blog/post/hospital-consolidation-keep-our-care/#:~:text=HB%202066</guid>
 		</item>
 	</channel>
 </rss>

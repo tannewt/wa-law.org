@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/24/2024 [The Spokesman-Review](/org/the_spokesman-review/) - [Spin Control: State may test out new ways to battle highway graffiti | The Spokesman-Review](https://www.spokesman.com/stories/2024/feb/24/spin-control-state-may-test-out-new-ways-to-battle/#:~:text=HB%201989,)
 * 02/15/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate to hear Barkis’ bill that would use new technology to erase graffiti, apprehend taggers](https://gorgenewscenter.com/2024/02/15/senate-to-hear-barkis-bill-that-would-use-new-technology-to-erase-graffiti-apprehend-taggers/#:~:text=House%20Bill%201989)
 * 02/13/2024 [MyNorthwest](/org/mynorthwest/) - [Bill using state traffic cameras, other tech to fight graffiti passes in House - MyNorthwest.com](https://mynorthwest.com/3949547/bill-state-traffic-cameras-other-tech-fight-graffiti-passes-house/#:~:text=House%20Bill%201989)
 * 02/06/2024 [MyNorthwest](/org/mynorthwest/) - [Wash. traffic cameras, other tech could be used to fight graffiti in bill - MyNorthwest.com](https://mynorthwest.com/3949547/state-traffic-cameras-other-tech-could-be-used-fight-graffiti-house-bill/#:~:text=House%20Bill%201989)

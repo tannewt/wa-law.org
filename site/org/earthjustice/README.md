@@ -11,13 +11,13 @@
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍1  ❓1
 * 👍💵 Jan Hasselman
 
-## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍3  
+## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍4  
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍4  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍5  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
 
-## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
+## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍2  
 
 ## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍3  
 * 👍 Eric Gonzalez Alfaro
@@ -69,7 +69,7 @@
 
 ## [HB 2376](/bill/2023-24/hb/2376/) - CCA public entity oblig.  👎1 
 
-## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍1  
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍2  
 
 ## [HB 2423](/bill/2023-24/hb/2423/) - Gray wolf management  👎1 
 

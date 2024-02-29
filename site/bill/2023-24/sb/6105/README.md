@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/23/2024 [Hacks and Wonks](/org/hacks_and_wonks/) - [Week in Review: February 23, 2024 - with Matt Driscoll — Hacks & Wonks](https://www.officialhacksandwonks.com/blog/week-in-review-february-23-2024-matt-driscoll#:~:text=SB%206105%20-%20Creating%20safer%20working%20conditions%20in%20adult%20entertainment%20establishments.)
 * 02/20/2024 [KUOW](/org/kuow/) - [KUOW - WA bill aims to make dancing in strip clubs safer. What would change?](https://www.kuow.org/stories/wa-bill-aims-to-make-dancing-in-strip-clubs-safer-what-would-change#:~:text=SB%206105)
 * 02/19/2024 [KING5](/org/king5/) - [Dancers, supporters rally for bill adding worker protections for strippers | king5.com](https://www.king5.com/article/news/local/dancers-supporters-rally-bill-adding-worker-protections-strippers/281-75a47423-3aaf-424a-8c58-555266dbc1a6#:~:text=SB%206105%20forward.)
 * 02/14/2024 [The Center Square](/org/the_center_square/) - [Washington bill would strip liquor license ban from adult entertainment venues | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d27ce6de-cb7a-11ee-9577-afd9e9bbd433.html#:~:text=Senate%20Bill%206105)

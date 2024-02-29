@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/26/2024 [MyNorthwest](/org/mynorthwest/) - [10% tax on short-term rentals closer to becoming Washington law - MyNorthwest.com](https://mynorthwest.com/3952150/proposed-tax-short-term-rentals-closer-becoming-state-law/#:~:text=Senate%20Bill%205334,)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024#:~:text=SB%205334)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=SB%205334)
 * 02/09/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205334)
@@ -19,23 +20,23 @@
 
 ## Meetings
 ### Fri 02/23 08:00 AM - Finance (FIN): ESSB 5334 Affordable housing funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160130&caId=24427&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160130&caId=24427&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160130&caId=24427&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160130&caId=24427&tId=4)
-
-#### 8 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Carl Florea - Mayor, City of Leavenworth
+* 💵Candice Bock - Association of Washington cities
 * Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 6 👎 - Con
+#### 217 👎 - Con
 Testifying:
 * Penny Witt
 * vicki leimback
 * Daniel Hanson
 * Allison Moser
+* Arlene Badzik
+* Amit Chaudhary
+* John Pace
+* Bryan Baecker
+* Elaine Snider
 
 #### 2 ❓ - Other
 Testifying:

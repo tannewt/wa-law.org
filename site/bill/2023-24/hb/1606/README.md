@@ -14,7 +14,7 @@
 #### 4 👍 - Pro
 Testifying:
 * 💵Larry Shannon - Washington State Association for Justice
-* Erin Raden - The Toy Association
+* Erin Raden - [The Toy Association](/org/the_toy_association/)
 
 #### 29 👎 - Con
 Testifying:

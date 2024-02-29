@@ -67,7 +67,7 @@
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍3  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍3  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍3  
 
@@ -101,7 +101,7 @@
 
 ## [SB 6025](/bill/2023-24/sb/6025/) - Predatory loans 👍1  
 
-## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings 👍1  
+## [SB 6069](/bill/2023-24/sb/6069/) - Retirement savings 👍2  
 
 ## [SB 6072](/bill/2023-24/sb/6072/) - LTSS commission recs. 👍3  
 

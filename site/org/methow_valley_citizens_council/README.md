@@ -22,7 +22,7 @@
 
 ## [HB 1322](/bill/2023-24/hb/1322/) - Walla Walla water 2050 plan 👍2  
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍2  
 
 ## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍3  
 * 👍 Maggie Coon

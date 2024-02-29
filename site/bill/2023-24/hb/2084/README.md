@@ -13,19 +13,14 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Ways & Means (WM): 2SHB 2084 Construction training/DOC
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160119&caId=24412&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160119&caId=24412&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160119&caId=24412&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160119&caId=24412&tId=4)
-
-#### 34 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
+* Armando Sanchez - Local 86 Ironworkers
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/19 10:30 AM - Human Services (HS): 2SHB 2084 Construction training/DOC
 #### 73 👍 - Pro

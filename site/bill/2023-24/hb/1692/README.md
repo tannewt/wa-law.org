@@ -14,18 +14,13 @@
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): E2SHB 1692 Student advisory groups
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160126&caId=24419&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160126&caId=24419&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160126&caId=24419&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160126&caId=24419&tId=4)
-
-#### 10 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Kwabena Ledbetter - Student Representative Network, WSSDA
 * James Layman - Association of Washington Student Leaders
+* Anjali Bergquist - Kennydale Elementary School
 
-#### 1 👎 - Con
+#### 10 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -13,17 +13,19 @@
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): 2SHB 1551 Lead in cookware
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160237&caId=24475&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160237&caId=24475&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160237&caId=24475&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160237&caId=24475&tId=4)
+#### 14 👍 - Pro
+Testifying:
+* Reza Pedram - Afghan Health Initiative
+* Katie Fellows - Hazardous Waste Management Program, Seattle & King County
 
-#### 0 👍 - Pro
+#### 1 👎 - Con
+Testifying:
+* Steve Duenkel - 110 NE Belfair Sta
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Kimberly Goetz - Department of Ecology
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
 ### Tue 02/20 01:30 PM - Environment, Energy & Technology (ENET): 2SHB 1551 Lead in cookware
 #### 39 👍 - Pro

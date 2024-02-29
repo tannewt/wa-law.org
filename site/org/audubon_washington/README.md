@@ -11,7 +11,7 @@
 ## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍3  ❓1
 * ❓ Adam Maxwell
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍2  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍4  
 
 ## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍2  
 

@@ -18,20 +18,19 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Appropriations (APP): E2SSB 5838 AI task force
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160157&caId=24451&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160157&caId=24451&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160157&caId=24451&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160157&caId=24451&tId=4)
-
-#### 4 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Rosa Mai - WA Attorney General
 * Jai Jaisimha - Transparency Coalition.ai
+* 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)
+* Brian Fox - HopeSourc
 
-#### 1 👎 - Con
+#### 34 👎 - Con
 
-#### 1 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Robert (Bob) Battles - Association of Washington Business (AWB)
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
 ### Tue 02/20 01:30 PM - Consumer Protection & Business (CPB): E2SSB 5838 AI task force
 #### 101 👍 - Pro

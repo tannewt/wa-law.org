@@ -67,16 +67,19 @@
 
 ## [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍6  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍5  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍6  
+* 👍💵 Aaron Czyzewski
 
 ## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍2  
 * 👍💵 Aaron Czyzewski
 
 ## [HB 1603](/bill/2023-24/hb/1603/) - Agricultural products promo. 👍1  
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍3  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍4  
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍1  
+
+## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍4  
 * 👍 Linda Nageotte
@@ -101,7 +104,8 @@
 
 ## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
 
-## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍2  
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍3  
+* 👍💵 Aaron Czyzewski
 * 👍💵 Aaron Czyzewski
 
 ## [HB 2487](/bill/2023-24/hb/2487/) - Displaced farmworkers 👍1  

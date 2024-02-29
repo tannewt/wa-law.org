@@ -41,7 +41,9 @@
 ## [HB 1365](/bill/2023-24/hb/1365/) - Puget Sound water quality 👍2  ❓1
 * ❓💵 Darcy Nonemacher
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍5  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍6  
 
 ## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1  
 
@@ -81,7 +83,7 @@
 
 ## [HB 2376](/bill/2023-24/hb/2376/) - CCA public entity oblig.  👎1 
 
-## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍1  
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍3  
 
 ## [SB 5057](/bill/2023-24/sb/5057/) - Energy standards/commercial  👎1 
 

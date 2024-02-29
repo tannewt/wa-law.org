@@ -9,6 +9,8 @@
 ## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp.   ❓1
 * ❓💵 Josh Weiss
 
+## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
+
 ## [HB 2215](/bill/2023-24/hb/2215/) - Enrichment levies limit 👍1  
 
 ## [SB 5371](/bill/2023-24/sb/5371/) - Orca vessel protection 👍1  

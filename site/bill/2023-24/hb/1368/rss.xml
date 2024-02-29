@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1368/</link>
 		<description>Updates about HB 1368</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -536,7 +536,7 @@
 			<guid isPermaLink="false">2024-02-13/First reading, referred to Early Learning &amp; K-12 Education.</guid>
 		</item>
 		<item>
-			<title>👍Maddy Thompson - Department of Commerce</title>
+			<title>👍Maddy Thompson - WA State Student Transportation Coalition</title>
 			<description>Maddy Thompson signed up to testify Pro.</description>
 			<pubDate>Wed, 14 Feb 2024 04:41:07 GMT</pubDate>
 			<category>testifier</category>
@@ -666,6 +666,69 @@
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.spokesman.com/stories/2024/feb/21/will-merg-driving-toward-change-why-we-need-zero-e/#:~:text=House%20Bill%201368</guid>
+		</item>
+		<item>
+			<title>👍Charlie Brown - South Sound Superintendents</title>
+			<description>Charlie Brown signed up to testify Pro. They are signed up to represent South Sound Superintendents.</description>
+			<pubDate>Thu, 22 Feb 2024 08:26:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Charlie/Brown/2024-02-22 08:26:28</guid>
+		</item>
+		<item>
+			<title>👎Brad Bekendam - Evergreen, Vancouver and Richland School Districts</title>
+			<description>Brad Bekendam signed up to testify Con.</description>
+			<pubDate>Fri, 23 Feb 2024 04:50:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brad/Bekendam/2024-02-23 04:50:57</guid>
+		</item>
+		<item>
+			<title>👎Diana McAlister - Evergreen, Vancouver and Richland School Districts</title>
+			<description>Diana McAlister signed up to testify Con.</description>
+			<pubDate>Fri, 23 Feb 2024 04:54:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Diana/McAlister/2024-02-23 04:54:59</guid>
+		</item>
+		<item>
+			<title>👎Jeannette Mcchesney - Evergreen, Vancouver and Richland School Districts</title>
+			<description>Jeannette Mcchesney signed up to testify Con.</description>
+			<pubDate>Fri, 23 Feb 2024 08:18:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeannette/Mcchesney/2024-02-23 08:18:40</guid>
+		</item>
+		<item>
+			<title>👍💵Leah Missik - Climate Solutions</title>
+			<description>Leah Missik signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/climate_solutions/&quot;&gt;Climate Solutions&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 23 Feb 2024 09:26:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Leah/Missik/2024-02-23 09:26:36</guid>
+		</item>
+		<item>
+			<title>👍💵Melissa Gombosky - Evergreen, Vancouver and Richland School Districts</title>
+			<description>Melissa Gombosky signed up to testify Pro. They are signed up to represent Evergreen, Vancouver and Richland School Districts. They are a registered lobbyist.</description>
+			<pubDate>Fri, 23 Feb 2024 12:05:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Melissa/Gombosky/2024-02-23 12:05:49</guid>
+		</item>
+		<item>
+			<title>❓💵Carolyn Logue - WA State Student Transportation Coalition</title>
+			<description>Carolyn Logue signed up to testify Other. They are signed up to represent WA State Student Transportation Coalition. They are a registered lobbyist.</description>
+			<pubDate>Fri, 23 Feb 2024 12:47:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Carolyn/Logue/2024-02-23 12:47:02</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

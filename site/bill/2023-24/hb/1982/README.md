@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Ways & Means (WM): HB 1982 Broadband loans & grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160105&caId=24398&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160105&caId=24398&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160105&caId=24398&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160105&caId=24398&tId=4)
-
-#### 19 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Janea Stark - CERB - Community Economic Revitalization Board
 * Michael Echanove - CERB - Community Economic Revitalization Board

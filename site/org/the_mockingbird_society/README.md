@@ -34,12 +34,12 @@
 
 ## [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases. 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍12  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍13  
 
 ## [HB 2016](/bill/2023-24/hb/2016/) - Allowing certain minors to contract for housing and utilities.   ❓1
 * ❓💵 Charles Smith
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍2  
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍4  
 
 ## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓2
 * ❓💵 Charles Smith
@@ -95,7 +95,8 @@
 
 ## [SB 5800](/bill/2023-24/sb/5800/) - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards. 👍2  
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍18  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍23  
+* 👍💵 Charles Smith
 * 👍💵 Charles Smith
 * 👍💵 Charles Smith
 

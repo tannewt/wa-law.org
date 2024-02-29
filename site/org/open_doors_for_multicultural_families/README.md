@@ -26,6 +26,8 @@
 
 ## [HB 1897](/bill/2023-24/hb/1897/) - Charter schools/enrichment 👍1  
 
+## [HB 1941](/bill/2023-24/hb/1941/) - Health home serv./children 👍1  
+
 ## [HB 2080](/bill/2023-24/hb/2080/) - Day habilitation services 👍3  
 * 👍 Moses Perez
 
@@ -44,7 +46,9 @@
 
 ## [HB 2368](/bill/2023-24/hb/2368/) - Refugee & immigrant assist. 👍2  
 
-## [SB 5811](/bill/2023-24/sb/5811/) - Expanding the definition of family member for individual providers. 👍2  
+## [SB 5811](/bill/2023-24/sb/5811/) - Expanding the definition of family member for individual providers. 👍2 👎1 
+
+## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍1  
 
 ## [SB 5966](/bill/2023-24/sb/5966/) - Student restraint, isolation 👍2 👎2 
 * 👍 Khalid Sirad
@@ -53,6 +57,8 @@
 ## [SB 6082](/bill/2023-24/sb/6082/) - Paraeducator compensation 👍3  
 * 👍 Khalid Sirad
 * 👍 Mahad Dahir
+
+## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍1  
 
 ## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍3  
 * 👍 Moses Perez

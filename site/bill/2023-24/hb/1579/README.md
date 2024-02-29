@@ -26,18 +26,17 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Ways & Means (WM): 3SHB 1579 Independent prosecutions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160107&caId=24400&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160107&caId=24400&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160107&caId=24400&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160107&caId=24400&tId=4)
-
-#### 247 👍 - Pro
+#### 413 👍 - Pro
 Testifying:
 * 💵Katrina Johnson - WA Coalition for Police Accountability
 * Sonia Joseph - WA Coalition for Police Accountability
+* Sam Martin - Washington For Black Lives
+* Heather Kelly - League of Women Voters
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* 💵Kristin Ang
+* 💵Yvette Maganya - WBBA (WA Build Back Black Alliance)
 
-#### 230 👎 - Con
+#### 391 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/23/2024 [The Seattle Times](/org/the_seattle_times/) - [How a bill could affect health care consolidations, patient care in WA | The Seattle Times](https://www.seattletimes.com/seattle-news/health/how-a-bill-could-effect-health-care-consolidations-patient-care-in-wa/#:~:text=Senate%20Bill%205241)
 * 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%205241)
 * 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%205241)
 * 02/09/2024 [Senate Democrats](/org/senate_democrats/) - [Senate passes Keep Our Care Act - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/08/senate-passes-keep-our-care-act/#:~:text=Senate%20Bill%205241)
@@ -30,25 +31,29 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Appropriations (APP): ESB 5241 Health care marketplace
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160143&caId=24437&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160143&caId=24437&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160143&caId=24437&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160143&caId=24437&tId=4)
-
-#### 13 👍 - Pro
+#### 1025 👍 - Pro
 Testifying:
 * Rory Paine-Donovan - WA Attorney General
 * Dr. Anuj Khattar - [Cedar River Clinics](/org/cedar_river_clinics/)
 * Justin Gill - WSNA
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Brynn Freal - [Washington Community Action Network](/org/washington_community_action_network/)
+* 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO
+* Sean Jacobson - Washington CAN
+* Danni Askini - Gender Justice League
+* 💵Leah Rutman - ACLU of Washington
+* Lannette Sargent
 
-#### 3 👎 - Con
+#### 140 👎 - Con
 Testifying:
 * 💵Vicki Christophersen - Washington Independent Physician Practice Association
 * 💵Brooke Davies - Pediatrix Medical Group of Washington
+* 💵Lisa Thatcher - Washington State Hospital Association
+* 💵Zosia Stanley - Washington State Hospital Association
+* Roman Daniels-Brown - WA Ambulatory Surgery Center Association
+* 💵Sean Graham - Washington State Medical Assocation (WSMA)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/14 08:00 AM - Civil Rights & Judiciary (CRJ): ESB 5241 Health care marketplace
 #### 1740 👍 - Pro

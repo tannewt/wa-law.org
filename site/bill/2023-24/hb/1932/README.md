@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/26/2024 [Sightline Institute](/org/sightline_institute/) - [On Even-Year Elections, Trust Voters—and Evidence - Sightline Institute](https://www.sightline.org/2024/02/26/on-even-year-elections-trust-voters-and-evidence#:~:text=House%20Bill%201932)
+* 02/23/2024 [Hacks and Wonks](/org/hacks_and_wonks/) - [Week in Review: February 23, 2024 - with Matt Driscoll — Hacks & Wonks](https://www.officialhacksandwonks.com/blog/week-in-review-february-23-2024-matt-driscoll#:~:text=HB%201932%20-%20Shifting%20general%20elections%20for%20local%20governments%20to%20even-numbered%20years%20to%20increase%20voter%20participation.)
 * 02/20/2024 [The Center Square](/org/the_center_square/) - [Washington bill allowing even-numbered year elections only clears committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c5c8528c-d04a-11ee-8220-f38e50cf0c06.html#:~:text=HB%201932)
 * 02/19/2024 [House Republicans](/org/house_republicans/) - [Initiatives, bill updates, state budgets, and the week ahead | Washington State House Republicans](http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%201932)
 * 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=House%20Bill%201932)
@@ -26,24 +28,22 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Ways & Means (WM): ESHB 1932 Even-numbered year elections
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160108&caId=24401&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160108&caId=24401&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160108&caId=24401&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160108&caId=24401&tId=4)
-
-#### 71 👍 - Pro
+#### 110 👍 - Pro
 Testifying:
+* Chris Roberts - Mayor, City of Shoreline
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
 
-#### 209 👎 - Con
+#### 391 👎 - Con
 Testifying:
 * Andy Cilley
 * Sam Reed
 * Steve Hobbs - Office of the Secretary of State
 * Marianne Nichols - Pend Oreille County Auditor
+* tad Sommerville
 * Jeannette Mcchesney
+* Reni Storm
+* Vicky Dalton - Spokane County Auditor - WA State Assoc of County Auditors
 
 #### 0 ❓ - Other
 

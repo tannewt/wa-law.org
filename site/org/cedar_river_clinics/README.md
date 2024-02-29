@@ -21,7 +21,7 @@
 ## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget   ❓1
 * ❓ Mercedes Sanchez
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍4  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍5  
 * 👍 Dr. Anuj Khattar
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍3  

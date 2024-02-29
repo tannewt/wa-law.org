@@ -53,6 +53,8 @@
 
 ## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts 👍3  
 
+## [HB 1899](/bill/2023-24/hb/1899/) - Wildfire reconstruction 👍1  
+
 ## [HB 1927](/bill/2023-24/hb/1927/) - Reducing the number of days that a worker's temporary total disability must continue to receive industrial insurance compensation for the day of an injury and the three-day period following the injury. 👍1  
 
 ## [HB 1934](/bill/2023-24/hb/1934/) - AI task force   ❓1
@@ -66,7 +68,7 @@
 
 ## [HB 1999](/bill/2023-24/hb/1999/) - Fabricated intimate images 👍1  
 
-## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍3  
+## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍4  
 
 ## [HB 2022](/bill/2023-24/hb/2022/) - Construction crane safety 👍1  
 
@@ -209,7 +211,7 @@
 
 ## [SB 6060](/bill/2023-24/sb/6060/) - Electronic signatures/PERC 👍2  
 
-## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍2  
+## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍3  
 
 ## [SB 6085](/bill/2023-24/sb/6085/) - Underground economy 👍1  
 

@@ -6,6 +6,8 @@
 
 ## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
+
 ## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍2  
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
@@ -17,6 +19,8 @@
 ## [HB 2108](/bill/2023-24/hb/2108/) - Smokey Bear license plates 👍1  
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍2  
+
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍1  
 
 ## [HB 2226](/bill/2023-24/hb/2226/) - H-2A worker program data 👍1  
 

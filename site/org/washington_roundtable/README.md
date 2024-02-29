@@ -40,7 +40,8 @@
 ## [HB 2077](/bill/2023-24/hb/2077/) - GET program participation 👍1  
 * 👍💵 Neil Strege
 
-## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍2  
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍3  
+* 👍💵 Neil Strege
 * 👍💵 Neil Strege
 * 👍💵 Neil Strege
 
@@ -81,7 +82,7 @@
 
 ## [SB 5809](/bill/2023-24/sb/5809/) - Charter schools/enrichment 👍1  
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  
 
 ## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍4  
 

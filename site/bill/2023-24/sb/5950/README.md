@@ -6,8 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/23/2024 [Gorge News Center](/org/gorge_news_center/) - [Wilson wins $1.5 million to combat sea lion predation on Columbia and tributaries](https://gorgenewscenter.com/2024/02/23/wilson-wins-1-5-million-to-combat-sea-lion-predation-on-columbia-and-tributaries/#:~:text=SB%205950)
 * 02/19/2024 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Week Seven Legislative Update - United Ways of Washington - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02192024#:~:text=SB%205950)
 * 02/17/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 7: More budgets revealed, another deadline arrives and Children's Day 2024 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/17/this-week-in-the-senate-week-7-more-budgets-revealed-another-deadline-arrives-and-childrens-day-2024/#:~:text=SB%205950)
 * 02/05/2024 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Week Five Legislative Update - United Ways of Washington - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02052024#:~:text=SB%205950)

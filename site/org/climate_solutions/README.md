@@ -36,7 +36,8 @@
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍2  
 * 👍 Megan Larkin
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍3  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍4  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 * 👍💵 Leah Missik
 

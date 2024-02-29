@@ -72,7 +72,7 @@ Testifying:
 #### 3 ❓ - Other
 Testifying:
 * Charlie Brown - Consumer Technology Association
-* Erin Raden - The Toy Association
+* Erin Raden - [The Toy Association](/org/the_toy_association/)
 
 ### Tue 01/24 01:30 PM - Environment, Energy & Technology (ENET): SB 5144 Batteries/environment
 #### 337 👍 - Pro

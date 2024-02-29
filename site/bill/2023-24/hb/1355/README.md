@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 02/22/2024 [The Center Square](/org/the_center_square/) - [Spokane County raises income thresholds for property tax exemption eligibility | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_79408a36-d1c3-11ee-841f-63de13aa331a.html#:~:text=House%20Bill%201355)
 * 11/03/2023 [House Democrats](/org/house_democrats/) - [Rep. Leavitt recognized as 2023 Outstanding Service to Veterans Legislator of the Year – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/11/03/rep-leavitt-recognized-as-2023-outstanding-service-to-veterans-legislator-of-the-year/#:~:text=HB%201355)
 * 05/02/2023 [House Democrats](/org/house_democrats/) - [Legislative update: Accomplishments from the 2023 session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/02/legislative-update-accomplishments-from-the-2023-session/#:~:text=HB%201355)
 * 04/11/2023 [MyNorthwest](/org/mynorthwest/) - [Seniors, disabled people, veterans will get break on property taxes - MyNorthwest.com](https://mynorthwest.com/3872729/seniors-disabled-people-veterans-will-get-break-on-property-taxes/#:~:text=HB%201355.)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1589/</link>
 		<description>Updates about HB 1589</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Feb 2024 03:38:25 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1430,6 +1430,13 @@
 			<pubDate>Mon, 19 Feb 2024 03:38:25 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%201589</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-23/Placed on second reading by Rules Committee.</guid>
 		</item>
 	</channel>
 </rss>

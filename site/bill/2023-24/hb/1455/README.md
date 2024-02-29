@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/26/2024 [FOX13](/org/fox13/) - [Bill banning child marriage in Washington; moves to governor's desk](https://www.fox13seattle.com/news/bill-banning-child-marriage-in-washington-moves-to-governors-desk#:~:text=House%20Bill%201455,)
+* 02/25/2024 [KIRO7](/org/kiro7/) - [State Legislature passes bill to ban child marriages in Washington  – KIRO 7 News Seattle](https://www.kiro7.com/news/local/state-legislature-passes-bill-ban-child-marriages-washington/UB4QA6PBMRFI7KIAPBS25AY4HQ/#:~:text=HB%201455)
+* 02/24/2024 [MyNorthwest](/org/mynorthwest/) - [Child marriages to soon be banned in Washington - MyNorthwest.com](https://mynorthwest.com/3952097/child-marriages-soon-to-be-illegal-in-washington-state/#:~:text=HB%201455)
 * 02/02/2024 [The Seattle Times](/org/the_seattle_times/) - [What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-die-after-first-wa-legislature-cutoff/#:~:text=House%20Bill%201455)
 * 01/30/2024 [FOX13](/org/fox13/) - [Washington lawmakers hear child marriage testimony: 'Different strokes for different folks'](https://www.fox13seattle.com/news/different-strokes-for-different-folks-lawmakers-hear-testimony-for-and-against-child-marriage-in-wa#:~:text=House%20Bill%201455)
 * 01/28/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety, free school lunches and a major cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/28/this-week-in-the-senate-week-4-public-safety-free-school-lunches-and-a-major-cutoff-arrives/#:~:text=House%20Bill%201455)

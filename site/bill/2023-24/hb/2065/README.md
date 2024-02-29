@@ -19,24 +19,22 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Ways & Means (WM): E2SHB 2065 Offender score recalc.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160118&caId=24411&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160118&caId=24411&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160118&caId=24411&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31975&aId=160118&caId=24411&tId=4)
-
-#### 923 👍 - Pro
+#### 1294 👍 - Pro
 Testifying:
 * Maria Buxbaum
 * Judge Veronica Galvan - King County Superior Court Judge and Minority & Justice Commission Co-Chair
 * 💵Michael Moran - 1. Chehalis Tribe 2. Coville Tribes
 * Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
+* Anthony Powers - SEATTLE CLEMENCY PROJECT
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
+* Kimberly Romero
 
-#### 8 👎 - Con
+#### 44 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * 💵Juliana Roe - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Marvin Treadwell
 
 #### 1 ❓ - Other
 

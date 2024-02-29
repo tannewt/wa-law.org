@@ -15,13 +15,10 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Appropriations (APP): E2SSB 5937 Crime victims & witnesses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160162&caId=24456&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160162&caId=24456&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160162&caId=24456&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160162&caId=24456&tId=4)
-
-#### 3 👍 - Pro
+#### 37 👍 - Pro
+Testifying:
+* Mollie Montague - Rape Abuse and Incest National Network (RAINN)
+* Em Stone - WA State Coalition Against Domestic Violence
 
 #### 0 👎 - Con
 

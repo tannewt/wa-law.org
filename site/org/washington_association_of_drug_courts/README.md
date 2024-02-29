@@ -14,3 +14,5 @@
 
 ## [SB 5536](/bill/2023-24/sb/5536/) - Controlled substances   ❓1
 * ❓ Christina Mason
+
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓1

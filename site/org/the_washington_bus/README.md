@@ -26,7 +26,7 @@
 
 ## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
 
-## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍6  
+## [HB 1932](/bill/2023-24/hb/1932/) - Even-numbered year elections 👍9  
 * 👍💵 Jazmine Smith
 * 👍💵 Jazmine Smith
 

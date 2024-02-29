@@ -50,9 +50,10 @@
 ## [SB 6161](/bill/2023-24/sb/6161/) - Provider contract comp. 👍1  
 * 👍 Aaron Eastman
 
-## [SB 6286](/bill/2023-24/sb/6286/) - Nurse anesthetist workforce 👍4  ❓1
+## [SB 6286](/bill/2023-24/sb/6286/) - Nurse anesthetist workforce 👍5  ❓1
 * ❓ Dee Bender
 * 👍 Ebony McNeal
 * 👍 Dee Bender
 * 👍 John Wiesbrod
+* 👍 Kelli Camp
 * 👍 Kelli Camp

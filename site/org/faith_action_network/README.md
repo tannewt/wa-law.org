@@ -44,7 +44,7 @@
 ## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎1 
 * 👎💵 Kristin Ang
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍6  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍8  
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍5  
 
@@ -78,7 +78,7 @@
 * 👍💵 Kristin Ang
 * 👍💵 Kristin Ang
 
-## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍7  
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍12  
 
 ## [HB 1678](/bill/2023-24/hb/1678/) - Dental therapists 👍2  
 
@@ -97,6 +97,8 @@
 ## [HB 1903](/bill/2023-24/hb/1903/) - Lost or stolen firearms 👍8  
 
 ## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍1  
+
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍2  
 
 ## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍2  
 
@@ -141,6 +143,8 @@
 * ❓ Elizabeth Dickinson
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍7  
+
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
 
 ## [SB 5249](/bill/2023-24/sb/5249/) - Working families' tax credit 👍1  
 

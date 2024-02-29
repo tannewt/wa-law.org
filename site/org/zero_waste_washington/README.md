@@ -37,7 +37,7 @@
 ## [HB 1422](/bill/2023-24/hb/1422/) - Reusable packing materials 👍1  
 * 👍💵 Heather Trim
 
-## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍2  
+## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍3  
 
 ## [HB 1574](/bill/2023-24/hb/1574/) - Methane/agriculture 👍1  
 
@@ -63,7 +63,7 @@
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
-## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍3  
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍5  
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim

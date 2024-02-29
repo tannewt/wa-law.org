@@ -127,7 +127,7 @@
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍2  
 
-## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍4  
+## [HB 1228](/bill/2023-24/hb/1228/) - Dual & tribal language edu. 👍5  
 
 ## [HB 1229](/bill/2023-24/hb/1229/) - Voter registration 👍1  
 
@@ -161,7 +161,7 @@
 
 ## [HB 1247](/bill/2023-24/hb/1247/) - Music therapists 👍1  
 
-## [HB 1248](/bill/2023-24/hb/1248/) - Pupil transportation 👍2  
+## [HB 1248](/bill/2023-24/hb/1248/) - Pupil transportation 👍3  
 * 👍💵 Julie Salvi
 
 ## [HB 1256](/bill/2023-24/hb/1256/) - Higher ed. matching grants  👎1 
@@ -425,7 +425,7 @@
 ## [HB 1950](/bill/2023-24/hb/1950/) - Concerning the public service loan forgiveness program. 👍2  
 * 👍💵 Simone Boe
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍2  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍3  
 * 👍💵 Simone Boe
 
 ## [HB 1960](/bill/2023-24/hb/1960/) - Prototypical school staffing 👍1  
@@ -437,7 +437,7 @@
 
 ## [HB 1975](/bill/2023-24/hb/1975/) - Relieving individuals from paying interest on certain unemployment insurance overpayment assessments. 👍1  
 
-## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍3  
+## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍4  
 
 ## [HB 1985](/bill/2023-24/hb/1985/) - PERS/TRS 1 benefit increase 👍2  
 * 👍 Jared Mason-Gere
@@ -447,7 +447,7 @@
 
 ## [HB 2013](/bill/2023-24/hb/2013/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  
 
-## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍2  
+## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍3  
 
 ## [HB 2022](/bill/2023-24/hb/2022/) - Construction crane safety 👍1  
 
@@ -487,7 +487,7 @@
 * 👍💵 Larry Delaney
 * ❓💵 Larry Delaney
 
-## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍3  ❓1
+## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍4  ❓1
 * ❓💵 Simone Boe
 * 👍💵 Simone Boe
 * 👍💵 Simone Boe
@@ -504,7 +504,8 @@
 
 ## [HB 2164](/bill/2023-24/hb/2164/) - Postsecondary ed protections 👍2  
 
-## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
+## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍2  
+* 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
 
 ## [HB 2184](/bill/2023-24/hb/2184/) - DD parental caregivers 👍1  
@@ -515,7 +516,7 @@
 
 ## [HB 2209](/bill/2023-24/hb/2209/) - Lunar new year 👍2  
 
-## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍4  
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍5  
 * 👍💵 Simone Boe
 
 ## [HB 2215](/bill/2023-24/hb/2215/) - Enrichment levies limit 👍1  
@@ -568,7 +569,7 @@
 
 ## [HB 2437](/bill/2023-24/hb/2437/) - Retirement savings 👍1  
 
-## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees  👎2 
+## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees  👎3 
 
 ## [HB 2459](/bill/2023-24/hb/2459/) - Alt. measure disclosures 👍1  
 
@@ -786,7 +787,7 @@
 
 ## [SB 5456](/bill/2023-24/sb/5456/) - Minimum parking requirements 👍2  
 
-## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍5  
+## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍6  
 * 👍💵 Nasue Nishida
 * 👍💵 Nasue Nishida
 
@@ -926,9 +927,9 @@
 * 👍 Brady Vallala
 * 👍💵 Simone Boe
 
-## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍2  
+## [SB 5837](/bill/2023-24/sb/5837/) - Codifying the state election database to publish, evaluate, and analyze certain election data. 👍3  
 
-## [SB 5838](/bill/2023-24/sb/5838/) - AI task force 👍2  
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force 👍3  
 
 ## [SB 5839](/bill/2023-24/sb/5839/) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 👍1  
 
@@ -942,7 +943,7 @@
 * 👍💵 Simone Boe
 * 👍💵 Simone Boe
 
-## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍3  
+## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍4  
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍2  
 
@@ -967,9 +968,9 @@
 ## [SB 5903](/bill/2023-24/sb/5903/) - Concerning representation in the educator preparation act. 👍2  
 * 👍💵 Simone Boe
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍3  
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍4  
 
-## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍1  
+## [SB 5906](/bill/2023-24/sb/5906/) - Implementing a statewide drug overdose prevention and education campaign. 👍2  
 
 ## [SB 5913](/bill/2023-24/sb/5913/) - Concerning communication between employees of state institutions of higher education and student athletes regarding name, image, and likeness use. 👍2  
 
@@ -990,7 +991,7 @@
 * 👍💵 Larry Delaney
 * ❓💵 Larry Delaney
 
-## [SB 5953](/bill/2023-24/sb/5953/) - Incarcerated student grants 👍3  
+## [SB 5953](/bill/2023-24/sb/5953/) - Incarcerated student grants 👍4  
 
 ## [SB 5956](/bill/2023-24/sb/5956/) - Enrichment levies limit 👍3  
 * 👍💵 Julie Salvi

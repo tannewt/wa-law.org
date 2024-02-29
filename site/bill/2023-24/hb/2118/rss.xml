@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2118/</link>
 		<description>Updates about HB 2118</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -723,6 +723,27 @@
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-21/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-23/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Two WA gun bills are spot-on but a third is unfair to dealers | The Seattle Times</title>
+			<description>News article &quot;Two WA gun bills are spot-on but a third is unfair to dealers | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Sun, 25 Feb 2024 12:01:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/opinion/editorials/two-wa-gun-bills-are-spot-on-but-a-third-is-unfair-to-dealers/#:~:text=2118</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.</description>
+			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-27/Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

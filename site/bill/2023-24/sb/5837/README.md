@@ -8,17 +8,14 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Appropriations (APP): SB 5837 State election database
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160156&caId=24450&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160156&caId=24450&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160156&caId=24450&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160156&caId=24450&tId=4)
-
-#### 1 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Alex Hur - OneAmerica
+* Scott Allard - Evans School of Public Policy & Governance
 
-#### 1 👎 - Con
+#### 281 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
 #### 0 ❓ - Other
 

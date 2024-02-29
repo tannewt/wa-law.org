@@ -85,7 +85,8 @@
 
 ## [HB 1521](/bill/2023-24/hb/1521/) - Industrial insurance/duties  👎1 
 
-## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware   ❓3
+## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware   ❓4
+* ❓💵 Crystal Leatherman
 * ❓💵 Crystal Leatherman
 * ❓💵 Crystal Leatherman
 
@@ -223,6 +224,8 @@
 ## [HB 2390](/bill/2023-24/hb/2390/) - Eluding & resisting arrest 👍2  
 * 👍💵 Crystal Leatherman
 
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases  👎1 
+
 ## [HB 2430](/bill/2023-24/hb/2430/) - Business licensing fees 👍1  
 * 👍💵 Mark Johnson
 
@@ -350,7 +353,7 @@
 * 👍💵 Mark Johnson
 * ❓💵 Mark Johnson
 
-## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍2  
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍3  
 * 👍💵 Crystal Leatherman
 * 👍💵 Crystal Leatherman
 
@@ -368,8 +371,9 @@
 * 👍💵 Mark Johnson
 * 👍💵 Mark Johnson
 
-## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓3
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force   ❓4
 * ❓ CRYSTAL LEATHERMAN
+* ❓💵 Crystal Leatherman
 * ❓💵 Crystal Leatherman
 * ❓💵 Crystal Leatherman
 

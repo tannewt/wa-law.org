@@ -47,3 +47,5 @@
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  
 
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
+
+## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment  👎1 

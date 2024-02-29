@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/22/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Hospital Consolidation Is Driving Up The Cost of Healthcare Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/hospital-consolidation-keep-our-care/#:~:text=HB%202066)
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%202066)
 
 ## Meetings

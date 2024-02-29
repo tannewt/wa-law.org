@@ -21,6 +21,7 @@
 ## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍1  
 * 👍 Victoria OBanion
 
-## [SB 6059](/bill/2023-24/sb/6059/) - Mobile home community sales 👍2  
+## [SB 6059](/bill/2023-24/sb/6059/) - Mobile home community sales 👍3  
+* 👍 Victoria OBanion
 * 👍 Victoria OBanion
 * 👍 Victoria OBanion

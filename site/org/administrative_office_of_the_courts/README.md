@@ -123,6 +123,6 @@
 * 👍 Christopher Stanley
 * 👍 Christopher Stanley
 
-## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍2  
+## [SB 6068](/bill/2023-24/sb/6068/) - Dependency outcome reporting 👍4  
 * 👍 Kelly Warner-King
 * 👍 Kelly Warner-King

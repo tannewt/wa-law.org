@@ -27,4 +27,4 @@
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍2  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍2  
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍3  

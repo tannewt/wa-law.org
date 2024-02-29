@@ -12,19 +12,20 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Appropriations (APP): SSB 5986 Out-of-network health costs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160165&caId=24459&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160165&caId=24459&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160165&caId=24459&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160165&caId=24459&tId=4)
-
-#### 2 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
+* Mike Battis - Ballard Ambulance/Washington Ambulance Association
+* Shawn Baird - Metro West Ambulance
+* Jeff Faucett
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Gary Strannigan - [Premera Blue Cross](/org/premera_blue_cross/)
 
 ### Wed 02/14 01:30 PM - Health Care & Wellness (HCW): SSB 5986 Out-of-network health costs
 #### 101 👍 - Pro

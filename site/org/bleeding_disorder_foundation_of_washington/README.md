@@ -33,7 +33,7 @@
 
 ## [HB 1784](/bill/2023-24/hb/1784/) - Hunger relief 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍3  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍4  
 
 ## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
 
@@ -79,7 +79,7 @@
 
 ## [SB 5177](/bill/2023-24/sb/5177/) - Organ transport vehicles 👍1  
 
-## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍1  
+## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍2  
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍5  
 * 👍💵 Stephanie Simpson
@@ -109,13 +109,13 @@
 
 ## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍2  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍3  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍4  
 
 ## [SB 5864](/bill/2023-24/sb/5864/) - Rare disease supports 👍2  
 
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍2  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍3  
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍4  
 
 ## [SB 6144](/bill/2023-24/sb/6144/) - Prescribing psychologists 👍1  
 

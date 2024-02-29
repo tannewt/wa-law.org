@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2134/</link>
 		<description>Updates about HB 2134</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -273,6 +273,27 @@
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-21/TR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>TR - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>TR - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-22/TR - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Sat, 24 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-24/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</description>
+			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-27/Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

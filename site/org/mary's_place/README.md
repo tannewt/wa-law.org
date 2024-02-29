@@ -14,6 +14,8 @@
 
 ## [HB 1945](/bill/2023-24/hb/1945/) - Food assistance access 👍1  
 
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
+
 ## [HB 1991](/bill/2023-24/hb/1991/) - Paid sick leave 👍1  
 
 ## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍3  

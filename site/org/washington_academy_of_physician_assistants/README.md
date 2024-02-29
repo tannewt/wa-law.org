@@ -37,3 +37,5 @@
 * 👍 Troy Bender
 
 ## [SB 6161](/bill/2023-24/sb/6161/) - Provider contract comp. 👍1  
+
+## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment   ❓1

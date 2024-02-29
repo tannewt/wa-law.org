@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/20/2024 [Senate Democrats](/org/senate_democrats/) - [Transportation budget focuses on ferries, traffic safety, green investments - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/20/transportation-budget-focuses-on-ferries-traffic-safety-green-investments/#:~:text=Senate%20Bill%205947)

@@ -18,7 +18,7 @@
 
 ## [HB 2044](/bill/2023-24/hb/2044/) - Standardizing limitations on voter-approved property tax levies. 👍1  
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development   ❓1
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎1 ❓1
 
 ## [HB 2474](/bill/2023-24/hb/2474/) - Transitional housing siting  👎1 
 

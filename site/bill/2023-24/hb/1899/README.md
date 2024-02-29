@@ -15,19 +15,15 @@
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): E2SHB 1899 Wildfire reconstruction
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160125&caId=24418&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160125&caId=24418&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160125&caId=24418&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160125&caId=24418&tId=4)
-
-#### 3 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Josh Kerns - [Spokane County](/org/spokane_county/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dave Pringle - Dept. of Commerce
 
 ### Fri 02/02 08:00 AM - Capital Budget (CB): SHB 1899 Wildfire reconstruction
 #### 3 👍 - Pro

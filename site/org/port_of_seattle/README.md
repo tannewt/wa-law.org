@@ -18,7 +18,7 @@
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 
-## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍2  
 
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
 * 👍 Fred Felleman
@@ -77,7 +77,7 @@
 
 ## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍2  
 
-## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍2  
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍3  
 
 ## [SB 5817](/bill/2023-24/sb/5817/) - Economic development info. 👍1  
 
@@ -90,7 +90,7 @@
 
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 
-## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍3  
+## [SB 6006](/bill/2023-24/sb/6006/) - Victims of human trafficking 👍4  
 
 ## [SB 6024](/bill/2023-24/sb/6024/) - Housing development 👍1  
 * 👍 John Flanagan
@@ -99,7 +99,7 @@
 
 ## [SB 6056](/bill/2023-24/sb/6056/) - Human trafficking/hotels 👍2  
 
-## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍3  
+## [SB 6058](/bill/2023-24/sb/6058/) - Carbon market linkage 👍4  
 
 ## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍3  
 
@@ -127,7 +127,7 @@
 
 ## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍2  
 
-## [SB 6303](/bill/2023-24/sb/6303/) - Providing tax incentives to encourage energy storage system and component parts manufacturing in Washington. 👍1  
+## [SB 6303](/bill/2023-24/sb/6303/) - Energy storage manufacturing 👍1  
 
 ## [SB 6304](/bill/2023-24/sb/6304/) - Transp. electrification   ❓1
 * ❓ John Flanagan

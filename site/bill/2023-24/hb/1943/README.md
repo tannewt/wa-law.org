@@ -12,13 +12,9 @@
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): HB 1943 National guard ed. grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160250&caId=24488&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160250&caId=24488&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160250&caId=24488&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160250&caId=24488&tId=4)
-
-#### 0 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Jerry Fugich - Veterans Legislative Coalition
 
 #### 0 👎 - Con
 

@@ -7,6 +7,8 @@
 ## [HB 1246](/bill/2023-24/hb/1246/) - Health benefits/SEBB  👎1 ❓1
 * ❓ Marnie White
 
+## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
+
 ## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍1  
 
 ## [SB 5102](/bill/2023-24/sb/5102/) - School library info and tech 👍4  

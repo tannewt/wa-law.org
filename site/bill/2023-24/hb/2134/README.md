@@ -5,6 +5,8 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 02/17/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 19 - 23, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=HB%202134)

@@ -14,7 +14,7 @@
 
 ## [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements  👎1 
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍2  
 
 ## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍2  
 

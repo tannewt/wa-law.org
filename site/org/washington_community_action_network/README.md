@@ -17,7 +17,8 @@
 
 ## [SB 5101](/bill/2023-24/sb/5101/) - DOC medical placements 👍1  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍3  
+* 👍 Brynn Freal
 
 ## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 

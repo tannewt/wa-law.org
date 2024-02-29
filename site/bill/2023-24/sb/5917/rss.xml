@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5917/</link>
 		<description>Updates about SB 5917</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 27 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -161,6 +161,13 @@
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-21/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 68; nays, 27; absent, 0; excused, 3.</title>
+			<description>Third reading, passed; yeas, 68; nays, 27; absent, 0; excused, 3.</description>
+			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-27/Third reading, passed; yeas, 68; nays, 27; absent, 0; excused, 3.</guid>
 		</item>
 	</channel>
 </rss>

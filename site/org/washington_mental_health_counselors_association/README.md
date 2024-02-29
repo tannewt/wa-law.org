@@ -15,7 +15,7 @@
 
 ## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍1  
 
-## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍1  
+## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍2  
 
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍3  
 * 👍 CMHS, NCC, Shannon Thompson LMHC

@@ -10,7 +10,7 @@
 
 ## [HB 1149](/bill/2023-24/hb/1149/) - Housing/capital expenditures 👍1  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍1  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
 
 ## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
 

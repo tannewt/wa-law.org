@@ -2,7 +2,7 @@
 
 ## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎1 
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎3 
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎4 
 * 👎 Ryan Windish
 * 👎 Ryan Windish
 

@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Fri 02/23 08:00 AM - Capital Budget (CB): SB 5789 School projects/sales tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159934&caId=24359&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159934&caId=24359&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159934&caId=24359&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159934&caId=24359&tId=4)
-
-#### 8 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Charlie Brown - Tacoma Public Schools & South Sound Superintendents
 * 💵Clifford Traisman - Seattle Publis Schools and Bellevue, Highline, Northshore School Districts

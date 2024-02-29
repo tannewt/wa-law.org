@@ -72,7 +72,7 @@ Testifying:
 * Dania Rescue - Sakura 39ers Youth Association
 * Patricia Divine Wilder
 * Ann Dorn - Tacoma 4 All
-* Michael Whalen - UFCW367
+* 💵Michael Whalen - UFCW367
 * Deanne Fritschy
 * Senaida Villegas - Community to Community
 * Zev Cook

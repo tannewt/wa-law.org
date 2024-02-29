@@ -69,7 +69,7 @@
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍3  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍3  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍4  
 * 👍💵 Emily Brice
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍2  
@@ -87,16 +87,17 @@
 
 ## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
 
-## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍1  
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍2  
 
 ## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth 👍1  
 
 ## [SB 5764](/bill/2023-24/sb/5764/) - Hospital safety net program   ❓1
 * ❓💵 Emily Brice
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍2  ❓1
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍3  ❓1
 * 👍💵 Emily Brice
 * ❓💵 Emily Brice
+* 👍💵 Emily Brice
 
 ## [SB 6144](/bill/2023-24/sb/6144/) - Prescribing psychologists 👍1  
 

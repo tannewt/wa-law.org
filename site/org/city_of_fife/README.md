@@ -5,7 +5,7 @@
 ## [HB 1304](/bill/2023-24/hb/1304/) - Electric security alarms   ❓1
 * ❓💵 Michael Transue
 
-## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍3  
 
 ## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎1 
 

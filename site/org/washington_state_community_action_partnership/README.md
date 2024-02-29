@@ -58,7 +58,7 @@
 
 ## [HB 1389](/bill/2023-24/hb/1389/) - Residential rent increases 👍1  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍4  
 
 ## [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍1  
 
@@ -106,6 +106,8 @@
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍5  
 * 👍💵 Linda Garcia
+
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
 
 ## [HB 2234](/bill/2023-24/hb/2234/) - Low-income energy assistance  👎1 
 * 👎💵 Linda Garcia

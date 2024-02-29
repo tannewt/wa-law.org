@@ -30,17 +30,21 @@
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): E2SHB 1368 Zero emission school buses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160243&caId=24481&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160243&caId=24481&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160243&caId=24481&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160243&caId=24481&tId=4)
+#### 583 👍 - Pro
+Testifying:
+* Charlie Brown - South Sound Superintendents
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Melissa Gombosky - Evergreen, Vancouver and Richland School Districts
 
-#### 3 👍 - Pro
+#### 855 👎 - Con
+Testifying:
+* Brad Bekendam
+* Diana McAlister
+* Jeannette Mcchesney
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Carolyn Logue - WA State Student Transportation Coalition
 
 ### Mon 02/19 01:30 PM - Early Learning & K-12 Education (EDU): E2SHB 1368 Zero emission school buses
 #### 725 👍 - Pro

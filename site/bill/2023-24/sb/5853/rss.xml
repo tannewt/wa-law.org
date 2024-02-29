@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5853/</link>
 		<description>Updates about SB 5853</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 28 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -291,6 +291,29 @@
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-21/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👎STEVEN PEARCE - Citizens Commission on Human Rights</title>
+			<description>STEVEN PEARCE signed up to testify Con. They are signed up to represent Citizens Commission on Human Rights.</description>
+			<pubDate>Thu, 22 Feb 2024 10:04:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/STEVEN/PEARCE/2024-02-22 10:04:23</guid>
+		</item>
+		<item>
+			<title>👍💵Michael Transue - National Alliance on Mental Illness &amp; Connections Health Solutions</title>
+			<description>Michael Transue signed up to testify Pro. They are signed up to represent National Alliance on Mental Illness &amp; Connections Health Solutions. They are a registered lobbyist.</description>
+			<pubDate>Fri, 23 Feb 2024 06:54:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/Transue/2024-02-23 06:54:38</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 92; nays, 4; absent, 0; excused, 2.</title>
+			<description>Third reading, passed; yeas, 92; nays, 4; absent, 0; excused, 2.</description>
+			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-28/Third reading, passed; yeas, 92; nays, 4; absent, 0; excused, 2.</guid>
 		</item>
 	</channel>
 </rss>

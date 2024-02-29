@@ -1,6 +1,7 @@
 # Association of Washington Cities
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍4  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
@@ -223,7 +224,7 @@
 * ❓ Brandy DeLange
 * ❓ Brandy DeLange
 
-## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍2  
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍3  
 * 👍 Brandy DeLange
 * 👍 Brandy DeLange
 
@@ -248,11 +249,11 @@
 * ❓💵 Lindsey Hueer
 * 👍 Brandy DeLange
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍2  
 
-## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
+## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍2  
 
-## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍1  
+## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍2  
 
 ## [HB 1986](/bill/2023-24/hb/1986/) - Adding purposes for the use of existing firefighter safety funding. 👍1  
 
@@ -263,7 +264,7 @@
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing   ❓1
 * ❓💵 Carl Schroeder
 
-## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍1  
+## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍2  
 * 👍 Brandy DeLange
 
 ## [HB 2026](/bill/2023-24/hb/2026/) - Rental income/property tax 👍1  
@@ -321,7 +322,8 @@
 
 ## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎4 
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development  👎5 
+* 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
@@ -713,7 +715,7 @@
 ## [SB 6105](/bill/2023-24/sb/6105/) - Adult entertainment workers   ❓1
 * ❓💵 Lindsey Hueer
 
-## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍2  
+## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍3  
 * 👍💵 Carl Schroeder
 
 ## [SB 6134](/bill/2023-24/sb/6134/) - Opioid use 👍1  
@@ -742,9 +744,9 @@
 ## [SB 6171](/bill/2023-24/sb/6171/) - Child care/nonstandard hours 👍1  ❓1
 * ❓💵 Lindsey Hueer
 
-## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍2  
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍3  
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍4  
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍5  
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management   ❓1
 * ❓💵 Carl Schroeder

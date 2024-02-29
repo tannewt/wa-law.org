@@ -10,13 +10,9 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Appropriations (APP): ESSB 6286 Nurse anesthetist workforce
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160177&caId=24471&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160177&caId=24471&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160177&caId=24471&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160177&caId=24471&tId=4)
-
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Kelli Camp - [Washington Association of Nurse Anesthetists](/org/washington_association_of_nurse_anesthetists/)
 
 #### 0 👎 - Con
 

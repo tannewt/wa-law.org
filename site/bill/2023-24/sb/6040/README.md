@@ -10,23 +10,22 @@
 
 ## Meetings
 ### Fri 02/23 08:00 AM - Capital Budget (CB): ESSB 6040 Public works payments
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159935&caId=24360&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159935&caId=24360&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159935&caId=24360&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159935&caId=24360&tId=4)
-
-#### 54 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * 💵Paula Sardinas - WBBA for Tabor 100
 * 💵Brian Sims - United Evergreen Sign Company (Tabor 100 Board Chair)
+* Darci Henderson - Alltrus Clean
+* 💵Albert Sardinas - WBBA
+* 💵Paula Sardinas - WBBA
 
-#### 6 👎 - Con
+#### 31 👎 - Con
 Testifying:
+* 💵Michael Transue - Mechanical Contractors Association of Western WA and the WA Aggregate and Concrete Ass'n
 * Jerry VanderWood - AGC of Washington
 
-#### 4 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
+* Janice Zahn - Capital Projects Advisory Review Board (CPARB)
 * Sarah Erdmann - OMWBE
 
 ### Fri 01/19 08:00 AM - State Government & Elections (SGE): SB 6040 Public works payments

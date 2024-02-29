@@ -24,19 +24,18 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Appropriations (APP): ESB 5462 Inclusive learning standards
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160145&caId=24439&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160145&caId=24439&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160145&caId=24439&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160145&caId=24439&tId=4)
+#### 27 👍 - Pro
+Testifying:
+* Devon Kellogg - Washington State PTA
 
-#### 2 👍 - Pro
-
-#### 3 👎 - Con
+#### 319 👎 - Con
 Testifying:
 * Britney Inglis
+* Trish Huddleston
+* Jeannette Mcchesney
+* Megan Iverson - Onalaska School Board
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 02/14 10:30 AM - Education (ED): ESB 5462 Inclusive learning standards
 #### 441 👍 - Pro

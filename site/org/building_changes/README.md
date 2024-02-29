@@ -87,7 +87,7 @@
 
 ## [SB 5566](/bill/2023-24/sb/5566/) - Postsecondary student needs 👍2  
 
-## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍3  
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍4  
 * 👍💵 Megan Veith
 
 ## [SB 5581](/bill/2023-24/sb/5581/) - Maternal support services 👍3  

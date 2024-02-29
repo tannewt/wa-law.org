@@ -136,7 +136,7 @@
 
 ## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍1  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍2  
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍3  
 
 ## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍1  
 

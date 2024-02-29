@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/26/2024 [The Seattle Times](/org/the_seattle_times/) - [WA bill to build community through neighborhood cafes faces roadblock | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-bill-to-build-community-through-neighborhood-cafes-faces-roadblock/#:~:text=House%20Bill%202252)
+* 02/22/2024 [The Urbanist](/org/the_urbanist/) - [Washington Senate Committee Guts Popular Neighborhood Cafe Bill - The Urbanist](https://www.theurbanist.org/2024/02/22/washington-senate-committee-guts-popular-neighborhood-cafe-bill/#:~:text=House%20Bill%202252)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024#:~:text=HB%202252)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%202252)
 * 01/27/2024 [The Urbanist](/org/the_urbanist/) - [Legislature Advances Proposal Allowing Cafes in More Neighborhoods - The Urbanist](https://www.theurbanist.org/2024/01/27/legislature-advances-proposal-allowing-cafes-in-more-neighborhoods/#:~:text=House%20Bill%202252)

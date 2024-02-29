@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1877/</link>
 		<description>Updates about HB 1877</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 22 Feb 2024 09:20:56 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -170,7 +170,7 @@
 			<guid isPermaLink="false">2024-02-21/Referred to Ways &amp; Means.</guid>
 		</item>
 		<item>
-			<title>❓Nanci Watson - WDFW</title>
+			<title>❓Nanci Watson - American Indian Health Commission for WA State</title>
 			<description>Nanci Watson signed up to testify Other.</description>
 			<pubDate>Thu, 22 Feb 2024 04:01:53 GMT</pubDate>
 			<category>testifier</category>
@@ -178,12 +178,27 @@
 			<guid isPermaLink="false">testifier/Nanci/Watson/2024-02-22 04:01:53</guid>
 		</item>
 		<item>
-			<title>👎Jeannette Mcchesney - WDFW</title>
+			<title>👎Jeannette Mcchesney - American Indian Health Commission for WA State</title>
 			<description>Jeannette Mcchesney signed up to testify Con.</description>
 			<pubDate>Thu, 22 Feb 2024 09:20:56 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jeannette/Mcchesney/2024-02-22 09:20:56</guid>
+		</item>
+		<item>
+			<title>👍💵Vicki Lowe - American Indian Health Commission for WA State</title>
+			<description>Vicki Lowe signed up to testify Pro. They are signed up to represent American Indian Health Commission for WA State. They are a registered lobbyist.</description>
+			<pubDate>Fri, 23 Feb 2024 08:06:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Vicki/Lowe/2024-02-23 08:06:00</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

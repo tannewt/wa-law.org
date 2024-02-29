@@ -30,4 +30,4 @@
 
 ## [SB 6230](/bill/2023-24/sb/6230/) - Tax increment areas  👎1 
 
-## [SB 6303](/bill/2023-24/sb/6303/) - Providing tax incentives to encourage energy storage system and component parts manufacturing in Washington. 👍1  
+## [SB 6303](/bill/2023-24/sb/6303/) - Energy storage manufacturing 👍1  

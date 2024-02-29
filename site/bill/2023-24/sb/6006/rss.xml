@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6006/</link>
 		<description>Updates about SB 6006</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -154,6 +154,21 @@
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-21/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>❓💵Gina Cumbo - Center for Children &amp; Youth Justice</title>
+			<description>Gina Cumbo signed up to testify Other. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/center_for_children_&amp;_youth_justice/&quot;&gt;Center for Children &amp; Youth Justice&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Fri, 23 Feb 2024 09:07:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Gina/Cumbo/2024-02-23 09:07:14</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

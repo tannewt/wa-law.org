@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2089/</link>
 		<description>Updates about HB 2089</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Feb 2024 06:55:48 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -903,6 +903,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Albert/Sardinas/2024-02-20 06:55:48</guid>
+		</item>
+		<item>
+			<title>CB - Executive action taken by committee.</title>
+			<description>CB - Executive action taken by committee.</description>
+			<pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-23/CB - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

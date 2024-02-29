@@ -11,17 +11,13 @@
 
 ## Meetings
 ### Fri 02/23 08:00 AM - Finance (FIN): E2SSB 6175 Existing structures/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160133&caId=24430&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160133&caId=24430&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160133&caId=24430&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160133&caId=24430&tId=4)
-
-#### 10 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Marc Angelillo - Urban Housing Ventures
+* McKenzie Darr - NAIOPwa
+* 💵Briahna Murray - Urban Housing Ventures
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

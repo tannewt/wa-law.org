@@ -5,7 +5,7 @@
 
 ## [HB 1010](/bill/2023-24/hb/1010/) - Shellfish sanitary control 👍3  
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 
 ## [HB 1019](/bill/2023-24/hb/1019/) - Pesticide advisory board  👎1 
 
@@ -162,7 +162,7 @@
 
 ## [HB 1367](/bill/2023-24/hb/1367/) - Homeless funding 👍2  
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍1  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍2  
 
 ## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  
 
@@ -248,7 +248,7 @@
 
 ## [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten 👍4  
 
-## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍2  
+## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍3  
 
 ## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts 👍2  
 
@@ -323,19 +323,21 @@
 
 ## [HB 1935](/bill/2023-24/hb/1935/) - Promoting resource conservation practices that include student education and leadership opportunities in public schools. 👍1  
 
-## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍2  
+## [HB 1946](/bill/2023-24/hb/1946/) - Creating the Washington health corps behavioral health scholarship program. 👍3  
 
 ## [HB 1952](/bill/2023-24/hb/1952/) - Disasters/long-term recovery 👍1  
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍2  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍3  
 
 ## [HB 1962](/bill/2023-24/hb/1962/) - Improving voter registration list accuracy by improving voter address change processes for county election offices and voters. 👍1  
 
 ## [HB 1974](/bill/2023-24/hb/1974/) - Disposing of human remains 👍1  
 
-## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍1  
+## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍2  
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍2  
+
+## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍1  
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍1  
 
@@ -384,7 +386,7 @@
 
 ## [HB 2158](/bill/2023-24/hb/2158/) - Urban growth area boundaries  👎1 
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍2  
 
 ## [HB 2186](/bill/2023-24/hb/2186/) - Juv. deferred adjudications 👍1  
 
@@ -417,7 +419,7 @@
 
 ## [HB 2297](/bill/2023-24/hb/2297/) - Solar energy systems/schools 👍1  
 
-## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍2  
 
 ## [HB 2319](/bill/2023-24/hb/2319/) - Substance use treatment 👍1  
 
@@ -586,7 +588,7 @@
 
 ## [SB 5330](/bill/2023-24/sb/5330/) - Pesticide application 👍1  
 
-## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍2  
+## [SB 5334](/bill/2023-24/sb/5334/) - Affordable housing funding 👍3  
 
 ## [SB 5339](/bill/2023-24/sb/5339/) - Free school meals 👍1  
 
@@ -677,7 +679,7 @@
 
 ## [SB 5570](/bill/2023-24/sb/5570/) - Energy efficiency loans 👍1  
 
-## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍3  
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍4  
 
 ## [SB 5592](/bill/2023-24/sb/5592/) - Defibrillators/fitness 👍5  
 
@@ -696,7 +698,7 @@
 
 ## [SB 5651](/bill/2023-24/sb/5651/) - GMA/equity and env. justice 👍1  
 
-## [SB 5660](/bill/2023-24/sb/5660/) - Mental health adv directives 👍2  
+## [SB 5660](/bill/2023-24/sb/5660/) - Mental health adv directives 👍3  
 
 ## [SB 5696](/bill/2023-24/sb/5696/) - PEBB/subdivision retirees 👍2  
 
@@ -709,20 +711,20 @@
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1 👎1 
 * 👍 Dwight Dively
 
-## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍1  
+## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍2  
 
 ## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
 
 ## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍3  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍4  
 * 👍 Sarah Perry
 
 ## [SB 5856](/bill/2023-24/sb/5856/) - Concerning voter registration challenges. 👍1  
 
 ## [SB 5872](/bill/2023-24/sb/5872/) - Concerning vehicle and operator requirements for autonomous vehicles. 👍1  
 
-## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍4  
+## [SB 5908](/bill/2023-24/sb/5908/) - Extended foster care 👍5  
 
 ## [SB 5931](/bill/2023-24/sb/5931/) - Motorized vehicle tires/6PPD 👍1  
 
@@ -759,6 +761,8 @@
 ## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management 👍1  
 * 👍 Pat McLaughlin
 
+## [SB 6038](/bill/2023-24/sb/6038/) - Child care tax preference 👍1  
+
 ## [SB 6042](/bill/2023-24/sb/6042/) - Juvenile detention release 👍1  
 
 ## [SB 6076](/bill/2023-24/sb/6076/) - Criminal justice local tax 👍1  
@@ -779,14 +783,14 @@
 
 ## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  
 
-## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment 👍1  
+## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment 👍2  
 
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
 
 ## [SB 6245](/bill/2023-24/sb/6245/) - Refugee & immigrant assist. 👍1  
 * 👍 Michael Padilla Ocampo
 
-## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍2  
+## [SB 6251](/bill/2023-24/sb/6251/) - Behavioral crisis coord. 👍3  
 
 ## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification 👍2  
 

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/19/2024 [House Democrats](/org/house_democrats/) - [House construction budget invests in housing, early learning, behavioral health  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/19/house-construction-budget-invests-in-housing-early-learning-behavioral-health/#:~:text=House%20Bill%202089)

@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/25/2024 [The Seattle Times](/org/the_seattle_times/) - [Two WA gun bills are spot-on but a third is unfair to dealers | The Seattle Times](https://www.seattletimes.com/opinion/editorials/two-wa-gun-bills-are-spot-on-but-a-third-is-unfair-to-dealers/#:~:text=2118)
 * 02/19/2024 [House Republicans](/org/house_republicans/) - [Initiatives, bill updates, state budgets, and the week ahead | Washington State House Republicans](http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%202118)
 * 02/17/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 7: More budgets revealed, another deadline arrives and Children's Day 2024 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/17/this-week-in-the-senate-week-7-more-budgets-revealed-another-deadline-arrives-and-childrens-day-2024/#:~:text=House%20Bill%202118)
 * 02/16/2024 [The Seattle Times](/org/the_seattle_times/) - [Washington lawmakers consider more modest set of gun restrictions | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/washington-lawmakers-consider-more-modest-set-of-gun-restrictions/#:~:text=House%20Bill%202118)

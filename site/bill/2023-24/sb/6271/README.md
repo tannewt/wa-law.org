@@ -7,23 +7,18 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/26/2024 [The Center Square](/org/the_center_square/) - [Bill to increase tax on high-THC products stuck in Washington House committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1d82cd80-d4e3-11ee-be40-a379aba78fdb.html#:~:text=Senate%20Bill%206271)
 * 02/11/2024 [The Seattle Times](/org/the_seattle_times/) - [Don’t delay legislation on high-potency cannabis | The Seattle Times](https://www.seattletimes.com/opinion/editorials/dont-delay-legislation-on-high-potency-cannabis/#:~:text=Senate%20Bill%206271)
 * 02/09/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%206271)
 * 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=SB%206271))
 
 ## Meetings
 ### Fri 02/23 08:00 AM - Finance (FIN): SB 6271 Cannabis excise tax/THC
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160134&caId=24431&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160134&caId=24431&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160134&caId=24431&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160134&caId=24431&tId=4)
-
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * 💵Amy Brackenbury - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -20,7 +20,8 @@
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍1  
 
-## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers  👎1 
+## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers  👎2 
+* 👎 Christine Radkey
 
 ## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍1  
 
@@ -32,11 +33,13 @@
 
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs   ❓1
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs   ❓2
 * ❓💵 Jane Douthit
 
 ## [SB 6182](/bill/2023-24/sb/6182/) - Obesity Rx coverage  👎1 
 
 ## [SB 6218](/bill/2023-24/sb/6218/) - Dental only plans  👎1 
+
+## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment  👎1 
 
 ## [SB 6258](/bill/2023-24/sb/6258/) - Standardized health plans  👎1 

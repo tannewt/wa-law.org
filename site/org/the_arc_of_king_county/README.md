@@ -38,7 +38,7 @@
 
 ## [HB 1222](/bill/2023-24/hb/1222/) - Hearing instruments coverage 👍3  
 
-## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints 👍4  
+## [HB 1239](/bill/2023-24/hb/1239/) - Educator ethics & complaints 👍5  
 
 ## [HB 1247](/bill/2023-24/hb/1247/) - Music therapists 👍1  
 
@@ -129,13 +129,13 @@
 
 ## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍4  
 
-## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍1  
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍2  
 
 ## [HB 2130](/bill/2023-24/hb/2130/) - Special education services 👍1  
 
 ## [HB 2145](/bill/2023-24/hb/2145/) - Concerning medically necessary treatment of a mental health or substance use disorder. 👍1  
 
-## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
+## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍2  
 
 ## [HB 2184](/bill/2023-24/hb/2184/) - DD parental caregivers 👍1  
 
@@ -155,7 +155,7 @@
 
 ## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍2  
 
-## [HB 2494](/bill/2023-24/hb/2494/) - School operating costs 👍2  
+## [HB 2494](/bill/2023-24/hb/2494/) - School operating costs 👍3  
 
 ## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 
@@ -231,7 +231,7 @@
 
 ## [SB 5734](/bill/2023-24/sb/5734/) - ABLE accounts 👍1  
 
-## [SB 5811](/bill/2023-24/sb/5811/) - Expanding the definition of family member for individual providers. 👍2  ❓1
+## [SB 5811](/bill/2023-24/sb/5811/) - Expanding the definition of family member for individual providers. 👍2  ❓2
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍2  
 
@@ -277,7 +277,7 @@
 
 ## [SB 6082](/bill/2023-24/sb/6082/) - Paraeducator compensation 👍1  
 
-## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍3  
+## [SB 6125](/bill/2023-24/sb/6125/) - Lakeland Village records 👍4  
 
 ## [SB 6126](/bill/2023-24/sb/6126/) - Respite care 👍2  
 

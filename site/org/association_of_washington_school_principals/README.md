@@ -67,7 +67,7 @@
 
 ## [HB 1658](/bill/2023-24/hb/1658/) - Work experience/H.S. credit 👍1  
 
-## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍1  
+## [HB 1692](/bill/2023-24/hb/1692/) - Student advisory groups 👍2  
 
 ## [HB 1714](/bill/2023-24/hb/1714/) - Financial literacy grants 👍1  
 
@@ -78,7 +78,7 @@
 ## [HB 1922](/bill/2023-24/hb/1922/) - Vape detectors/schools   ❓1
 * ❓💵 Roz Thompson
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍2  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍3  
 * 👍💵 Casey Brown
 
 ## [HB 1960](/bill/2023-24/hb/1960/) - Prototypical school staffing 👍1  
@@ -98,7 +98,7 @@
 
 ## [HB 2133](/bill/2023-24/hb/2133/) - Public school bus trespass 👍1  
 
-## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍1  
+## [HB 2180](/bill/2023-24/hb/2180/) - Special education cap 👍2  
 
 ## [HB 2239](/bill/2023-24/hb/2239/) - Social-emotional instruction 👍1  
 
@@ -114,9 +114,9 @@
 
 ## [HB 2398](/bill/2023-24/hb/2398/) - Instruct. materials/parents   ❓1
 
-## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍4  
+## [HB 2441](/bill/2023-24/hb/2441/) - College in the HS fees 👍5  
 
-## [HB 2494](/bill/2023-24/hb/2494/) - School operating costs 👍2  
+## [HB 2494](/bill/2023-24/hb/2494/) - School operating costs 👍3  
 
 ## [SB 5020](/bill/2023-24/sb/5020/) - Education at 6 years of age 👍1  
 
@@ -201,13 +201,13 @@
 
 ## [SB 5850](/bill/2023-24/sb/5850/) - Chronically absent students 👍1  
 
-## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍3  
+## [SB 5852](/bill/2023-24/sb/5852/) - Concerning special education safety net awards. 👍4  
 
 ## [SB 5873](/bill/2023-24/sb/5873/) - Student transportation 👍2  
 
 ## [SB 5882](/bill/2023-24/sb/5882/) - Prototypical school staffing 👍3  
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍2  
+## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍3  
 
 ## [SB 5923](/bill/2023-24/sb/5923/) - Substance use prevention ed. 👍1  
 * 👍💵 Roz Thompson

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5588/</link>
 		<description>Updates about SB 5588</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -123,6 +123,21 @@
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-21/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍Kari Reardon - WDA/WACDL</title>
+			<description>Kari Reardon signed up to testify Pro. They are signed up to represent WDA/WACDL.</description>
+			<pubDate>Thu, 22 Feb 2024 06:50:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kari/Reardon/2024-02-22 06:50:33</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

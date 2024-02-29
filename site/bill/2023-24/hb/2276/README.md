@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/13/2024 [The Seattle Times](/org/the_seattle_times/) - [People with disabilities are part of the WA housing crisis, too | The Seattle Times](https://www.seattletimes.com/opinion/people-with-disabilities-are-part-of-the-wa-housing-crisis-too/#:~:text=HB%202276)

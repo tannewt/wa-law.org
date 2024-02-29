@@ -26,17 +26,13 @@
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): 3SHB 1228 Dual & tribal language edu.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160241&caId=24479&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160241&caId=24479&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160241&caId=24479&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160241&caId=24479&tId=4)
-
-#### 4 👍 - Pro
+#### 68 👍 - Pro
 Testifying:
 * Anna Hernandez-French - Office of Superintendent of Public Instruction
+* Brian Freeman - Inchelium School District #70
+* Radu Smintina - OneAmerica
 
-#### 1 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -139,7 +139,7 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
+## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍2  
 
 ## [HB 2083](/bill/2023-24/hb/2083/) - Payday lending/small loans 👍1  
 

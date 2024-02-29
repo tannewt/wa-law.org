@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/23/2024 [NW News Network](/org/nw_news_network/) - [Budgets, initiative hearings top agenda in week 7 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-23/budgets-initiative-hearings-top-agenda-in-week-7-of-washingtons-legislative-session#:~:text=Senate%20Bill%206298)
 * 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206298)
 * 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206298)
 * 02/08/2024 [Wenatchee World](/org/wenatchee_world/) - [Washington Senate strikes ‘delicate’ balance on rules for clergy reporting child abuse | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/washington-senate-strikes-delicate-balance-on-rules-for-clergy-reporting-child-abuse/article_033c71a0-c701-11ee-9096-b32bd195ac73.html#:~:text=Senate%20Bill%206298)

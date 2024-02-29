@@ -14,19 +14,26 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Appropriations (APP): E2SSB 5213 Health care benefit managers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160142&caId=24436&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160142&caId=24436&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160142&caId=24436&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160142&caId=24436&tId=4)
-
-#### 6 👍 - Pro
+#### 135 👍 - Pro
 Testifying:
 * Katie Kolan - AIDS Healthcare Foundation
 * Jane Beyer - Office of the Insurance Commissioner
 * Jenny Arnold - Washington State Pharmacy Association
+* 💵Carolyn Logue - Washington Food Industry Association
+* Erik Hansen - Self
 
-#### 1 👎 - Con
+#### 135 👎 - Con
+Testifying:
+* TONIA SORRELLNEAL - PCMA
+* Mary Stoll - Pacific Health Hoalition
+* Tom Byrne - Affiliated unions
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Gary Strannigan - [Premera Blue Cross](/org/premera_blue_cross/)
+* Ronald Warne Jr
+* LuGIna Mendez-Harper - Prime Therapeutics
+* Christine Radkey - [Regence Blue Shield](/org/regence_blue_shield/)
+* Tim O’donnell - IBEW
+* Adam Yoest - WA State Conference of Mason Contractors
 
 #### 0 ❓ - Other
 

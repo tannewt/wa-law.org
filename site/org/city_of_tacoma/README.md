@@ -2,7 +2,7 @@
 
 ## [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍1  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 
 ## [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1
 
@@ -45,7 +45,7 @@
 ## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
 * 👍 Deputy Mayor Kristina Walker
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
 * 👍 Deputy Mayor Kristina Walker
 * 👍 Deputy Mayor Kristina Walker
 

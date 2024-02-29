@@ -9,7 +9,7 @@
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
 * 👍 Gina Stark
 
-## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍2  
+## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍3  
 
 ## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍1  
 

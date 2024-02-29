@@ -37,7 +37,7 @@
 
 ## [HB 1337](/bill/2023-24/hb/1337/) - Accessory dwelling units 👍2  
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍3  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍4  
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
@@ -56,7 +56,7 @@
 
 ## [HB 1519](/bill/2023-24/hb/1519/) - Local project review 👍1  
 
-## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍2  
+## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍3  
 
 ## [HB 1556](/bill/2023-24/hb/1556/) - Property tax rebates 👍1  
 
@@ -79,7 +79,7 @@
 
 ## [HB 1954](/bill/2023-24/hb/1954/) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 👍2  
 
-## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍2  
+## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍3  
 
 ## [HB 1998](/bill/2023-24/hb/1998/) - Co-living housing 👍1  
 

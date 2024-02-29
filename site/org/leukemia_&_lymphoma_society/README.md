@@ -25,7 +25,7 @@
 ## [SB 5204](/bill/2023-24/sb/5204/) - Fertility services coverage 👍1  
 * 👍💵 Adam Zarrin
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍3  
 
 ## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍2  
 
@@ -33,7 +33,7 @@
 * 👍💵 Adam Zarrin
 * 👍💵 Adam Zarrin
 
-## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍2  
+## [SB 5580](/bill/2023-24/sb/5580/) - Maternal health outcomes 👍3  
 
 ## [SB 5864](/bill/2023-24/sb/5864/) - Rare disease supports 👍2  
 

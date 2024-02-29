@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Fri 02/23 08:00 AM - Capital Budget (CB): SSB 6192 Construction change orders
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159936&caId=24361&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159936&caId=24361&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159936&caId=24361&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32015&aId=159936&caId=24361&tId=4)
-
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Jerry VanderWood - AGC of Washington
 * John Gehlsen - Yakima Steel

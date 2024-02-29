@@ -11,9 +11,13 @@
 
 ## [SB 5569](/bill/2023-24/sb/5569/) - Kidney disease centers 👍1  
 
+## [SB 5588](/bill/2023-24/sb/5588/) - Mental health sentencing alt  👎1 
+
 ## [SB 5815](/bill/2023-24/sb/5815/) - Physician assistant compact 👍1  
 
 ## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
+
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 
 ## [SB 5940](/bill/2023-24/sb/5940/) - Medical assistant-EMT cert. 👍1  
 

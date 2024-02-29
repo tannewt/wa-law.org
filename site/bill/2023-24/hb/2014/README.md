@@ -13,6 +13,15 @@
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=House%20Bill%202014)
 
 ## Meetings
+### Sat 02/24 09:00 AM - Ways & Means (WM): 2SHB 2014 Definition of veteran
+#### 8 👍 - Pro
+Testifying:
+* Nathan Olson - Attorney General's Office
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/31 04:00 PM - Appropriations (APP): SHB 2014 Definition of veteran
 #### 4 👍 - Pro
 Testifying:

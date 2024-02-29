@@ -14,13 +14,9 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Appropriations (APP): E2SSB 6251 Behavioral crisis coord.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160258&caId=24472&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160258&caId=24472&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160258&caId=24472&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160258&caId=24472&tId=4)
-
-#### 2 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* 💵Brad Banks - Behavioral Health Administrative Services Organizations
 
 #### 0 👎 - Con
 

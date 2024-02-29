@@ -14,17 +14,14 @@
 
 ## Meetings
 ### Fri 02/23 08:00 AM - Finance (FIN): SB 6173 Housing sales tax/use
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160132&caId=24429&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160132&caId=24429&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160132&caId=24429&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32017&aId=160132&caId=24429&tId=4)
-
-#### 17 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * 💵Jason Gauthier - South Sound Housing Affordability Partners
+* Kiara Daniels - NW community land trust coalition
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Jay fradette
 
 #### 0 ❓ - Other
 

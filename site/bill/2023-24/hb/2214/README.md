@@ -17,17 +17,13 @@
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): 2SHB 2214 College grant/public assist.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160251&caId=24489&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160251&caId=24489&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160251&caId=24489&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160251&caId=24489&tId=4)
-
-#### 3 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
+* 💵Mirian Mencias - Associated Students UW- Seattle
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 
-#### 0 👎 - Con
+#### 36 👎 - Con
 
 #### 0 ❓ - Other
 

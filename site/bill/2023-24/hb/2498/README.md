@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/26/2024 [The Center Square](/org/the_center_square/) - [Inslee resists lawmakers' plea to declare a ferry procurement emergency | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8e1dc0fa-d4e7-11ee-9f31-6b8a93c510ec.html#:~:text=House%20Bill%202498)
+
 ## Meetings

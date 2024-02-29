@@ -17,17 +17,20 @@
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): 2SHB 1391 Energy in buildings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160236&caId=24474&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160236&caId=24474&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160236&caId=24474&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160236&caId=24474&tId=4)
+#### 333 👍 - Pro
 
-#### 1 👍 - Pro
+#### 331 👎 - Con
+Testifying:
+* Charlie Brown - Cascade Natural Gas and NW Natural
+* Brad Bekendam
+* Diana McAlister
+* tad Sommerville
+* Jeannette Mcchesney
+* 💵John Rothlin - Avista
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Carolyn Logue - WA Air Conditioning Contractors Association
 
 ### Fri 02/16 08:00 AM - Environment, Energy & Technology (ENET): 2SHB 1391 Energy in buildings
 #### 277 👍 - Pro

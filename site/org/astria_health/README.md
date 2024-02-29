@@ -8,6 +8,8 @@
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards  👎1 
 
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace  👎1 
+
 ## [SB 5532](/bill/2023-24/sb/5532/) - Small rural hospital payment 👍9  
 * 👍 Eric Jensen
 * 👍 Eric Jensen

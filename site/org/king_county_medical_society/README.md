@@ -64,3 +64,5 @@
 ## [SB 5985](/bill/2023-24/sb/5985/) - Firearms background checks 👍1  
 
 ## [SB 6144](/bill/2023-24/sb/6144/) - Prescribing psychologists  👎1 
+
+## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment  👎1 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6069/</link>
 		<description>Updates about SB 6069</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 26 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -214,6 +214,45 @@
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-21/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍💵John Scott - The Pew Charitable Trusts</title>
+			<description>John Scott signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/the_pew_charitable_trusts/&quot;&gt;The Pew Charitable Trusts&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 22 Feb 2024 06:18:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Scott/2024-02-22 06:18:38</guid>
+		</item>
+		<item>
+			<title>👍💵Paula Sardinas - WA Build Back Black Alliance</title>
+			<description>Paula Sardinas signed up to testify Pro. They are signed up to represent WA Build Back Black Alliance. They are a registered lobbyist.</description>
+			<pubDate>Fri, 23 Feb 2024 05:36:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paula/Sardinas/2024-02-23 05:36:48</guid>
+		</item>
+		<item>
+			<title>👍Mike Pelliciotti - State Treasurer</title>
+			<description>Mike Pelliciotti signed up to testify Pro. They are signed up to represent State Treasurer.</description>
+			<pubDate>Fri, 23 Feb 2024 10:00:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mike/Pelliciotti/2024-02-23 10:00:11</guid>
+		</item>
+		<item>
+			<title>👍Cathy MacCaul - AARP Washington State</title>
+			<description>Cathy MacCaul signed up to testify Pro. They are signed up to represent AARP Washington State.</description>
+			<pubDate>Fri, 23 Feb 2024 11:18:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cathy/MacCaul/2024-02-23 11:18:55</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

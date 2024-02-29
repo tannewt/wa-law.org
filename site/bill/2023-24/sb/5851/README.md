@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/24/2024 [The Seattle Times](/org/the_seattle_times/) - [Holocaust education requirement fails in WA Legislature | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/holocaust-education-requirement-fails-in-wa-legislature/#:~:text=Senate%20Bill%205851)
 * 02/15/2024 [KING5](/org/king5/) - [Jewish community lobbies for protections at state Capitol | king5.com](https://www.king5.com/article/news/community/facing-race/jewish-community-lobbies-protections/281-d7d09644-6a41-4dea-9e8a-64c1482c12d7#:~:text=SB%205851)
 * 02/08/2024 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Alaska Airlines Door Plug Was Improperly Reinstalled; Legislative Bills Would Require Genocide Education in Public Schools | South Seattle Emerald](https://southseattleemerald.com/2024/02/07/news-gleams-alaska-airlines-door-plug-was-improperly-reinstalled-legislative-bills-would-require-genocide-education-in-public-schools/#:~:text=SB%205851)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SSB%205851)

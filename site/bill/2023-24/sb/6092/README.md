@@ -15,17 +15,13 @@
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Appropriations (APP): E2SSB 6092 Greenhouse gas disclosures
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160172&caId=24466&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160172&caId=24466&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160172&caId=24466&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32010&aId=160172&caId=24466&tId=4)
+#### 44 👍 - Pro
 
-#### 0 👍 - Pro
+#### 278 👎 - Con
+Testifying:
+* Jeannette Mcchesney
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/19 01:30 PM - Environment & Energy (ENVI): E2SSB 6092 Greenhouse gas disclosures
 #### 109 👍 - Pro

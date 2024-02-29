@@ -14,19 +14,22 @@
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): E2SHB 2401 Refrigerant gases
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160124&caId=24417&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160124&caId=24417&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160124&caId=24417&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=31976&aId=160124&caId=24417&tId=4)
+#### 114 👍 - Pro
+Testifying:
+* Christina Starr - Environmental Investigation Agency
+* 💵Joanna Grist - PCC Community Markets
+* 💵Mike Armstrong - A-Gas
 
-#### 59 👍 - Pro
-
-#### 2 👎 - Con
+#### 49 👎 - Con
 Testifying:
 * 💵Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)
+* 💵Carolyn Logue - Washington Air Conditioning Contractors Association
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Katie Beeson - Washington Food Industry Assoc
+* 💵Mark Streuli - Washington Potato and Onion Association
 
 ### Wed 02/14 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 2401 Refrigerant gases
 #### 102 👍 - Pro

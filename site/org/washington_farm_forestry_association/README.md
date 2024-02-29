@@ -21,7 +21,7 @@
 
 ## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
 
-## [SB 5667](/bill/2023-24/sb/5667/) - Forestry riparian easements 👍6  
+## [SB 5667](/bill/2023-24/sb/5667/) - Forestry riparian easements 👍8  
 * 👍 Elaine Oneil
 * 👍 Ken Miller
 * 👍 Nora Palattao Burnes
@@ -29,6 +29,6 @@
 ## [SB 5673](/bill/2023-24/sb/5673/) - Forest practices board 👍1  
 * 👍 Ken Miller
 
-## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍2  
+## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍3  
 
 ## [SB 6219](/bill/2023-24/sb/6219/) - Agritourism 👍1  

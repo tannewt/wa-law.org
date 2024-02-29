@@ -19,6 +19,8 @@
 * 👎 Wendy Weiker
 * 👎 Wendy Weiker
 
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management   ❓1
+
 ## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management  👎4 
 * 👎 Wendy Weiker
 

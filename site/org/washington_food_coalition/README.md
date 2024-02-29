@@ -12,7 +12,7 @@
 
 ## [HB 2058](/bill/2023-24/hb/2058/) - Increasing student access to free meals served at public schools. 👍1  
 
-## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management   ❓1
+## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management 👍1  ❓1
 * ❓ Trish Twomey
 
 ## [SB 5964](/bill/2023-24/sb/5964/) - Free school meals 👍1  

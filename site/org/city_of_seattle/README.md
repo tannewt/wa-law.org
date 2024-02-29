@@ -4,7 +4,7 @@
 
 ## [HB 1006](/bill/2023-24/hb/1006/) - Drug testing equipment 👍1  
 
-## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
+## [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 
 ## [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 
@@ -95,7 +95,7 @@
 
 ## [HB 1355](/bill/2023-24/hb/1355/) - Property tax exemptions 👍1  
 
-## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍3  
+## [HB 1368](/bill/2023-24/hb/1368/) - Zero emission school buses 👍4  
 
 ## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
@@ -121,7 +121,7 @@
 
 ## [HB 1499](/bill/2023-24/hb/1499/) - Food assistance funding 👍1  
 
-## [HB 1510](/bill/2023-24/hb/1510/) - Community preservation auth. 👍1  
+## [HB 1510](/bill/2023-24/hb/1510/) - Community preservation auth. 👍2  
 
 ## [HB 1525](/bill/2023-24/hb/1525/) - Apprenticeships/child care 👍2  
 
@@ -131,9 +131,11 @@
 
 ## [HB 1551](/bill/2023-24/hb/1551/) - Lead in cookware 👍1  
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍5  
+## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍6  
 
 ## [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍2  
+
+## [HB 1652](/bill/2023-24/hb/1652/) - Child support pass through 👍1  
 
 ## [HB 1674](/bill/2023-24/hb/1674/) - Roadway users/trucks & SUVs 👍1  
 
@@ -149,6 +151,8 @@
 
 ## [HB 1847](/bill/2023-24/hb/1847/) - Community authority/tax 👍1  
 
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍1  
+
 ## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍2  
 
 ## [HB 1892](/bill/2023-24/hb/1892/) - Workforce housing prg. 👍2  
@@ -161,7 +165,7 @@
 
 ## [HB 1916](/bill/2023-24/hb/1916/) - Infants and toddlers program 👍1  
 
-## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍3  
+## [HB 1929](/bill/2023-24/hb/1929/) - Postinpatient housing 👍4  
 
 ## [HB 1934](/bill/2023-24/hb/1934/) - AI task force 👍2  
 
@@ -173,9 +177,9 @@
 
 ## [HB 1952](/bill/2023-24/hb/1952/) - Disasters/long-term recovery 👍1  
 
-## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍2  
+## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍3  
 
-## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍2  
+## [HB 1976](/bill/2023-24/hb/1976/) - Changing the incentive structure for tier 1 and tier 2 buildings. 👍3  
 
 ## [HB 1986](/bill/2023-24/hb/1986/) - Adding purposes for the use of existing firefighter safety funding. 👍1  
 
@@ -183,7 +187,7 @@
 
 ## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍2  
 
-## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍3  
+## [HB 2007](/bill/2023-24/hb/2007/) - Cash assistance time limits 👍4  
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍3  
 * 👍 Kelli Larsen
@@ -191,7 +195,7 @@
 
 ## [HB 2019](/bill/2023-24/hb/2019/) - Native American apprentices 👍3  
 
-## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍2  
+## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍3  
 
 ## [HB 2021](/bill/2023-24/hb/2021/) - Firearm disposition 👍2  
 
@@ -212,17 +216,17 @@
 
 ## [HB 2111](/bill/2023-24/hb/2111/) - Subsidized child care 👍1  
 
-## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍3  
+## [HB 2112](/bill/2023-24/hb/2112/) - Higher ed. opioid prevention 👍4  
 
 ## [HB 2115](/bill/2023-24/hb/2115/) - Prescription labels/abortion 👍1  
 
 ## [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers 👍2  
 
-## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍2  
+## [HB 2124](/bill/2023-24/hb/2124/) - Child care prg. eligibility 👍3  
 
 ## [HB 2145](/bill/2023-24/hb/2145/) - Concerning medically necessary treatment of a mental health or substance use disorder. 👍1  
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍2  
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍3  
 
 ## [HB 2172](/bill/2023-24/hb/2172/) - Vacant state agency property 👍2  
 
@@ -230,7 +234,7 @@
 
 ## [HB 2197](/bill/2023-24/hb/2197/) - Medical assist./prevention 👍1  
 
-## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍3  
+## [HB 2214](/bill/2023-24/hb/2214/) - College grant/public assist. 👍4  
 
 ## [HB 2219](/bill/2023-24/hb/2219/) - Affordable housing/tax ex. 👍1  
 
@@ -238,7 +242,7 @@
 
 ## [HB 2245](/bill/2023-24/hb/2245/) - Co-response services 👍2  
 
-## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍2  
+## [HB 2247](/bill/2023-24/hb/2247/) - Behavioral health providers 👍3  
 
 ## [HB 2252](/bill/2023-24/hb/2252/) - Small businesses/residential   ❓2
 
@@ -282,6 +286,8 @@
 * 👍 Venu Nemani
 
 ## [HB 2396](/bill/2023-24/hb/2396/) - Synthetic opioids 👍1  
+
+## [HB 2401](/bill/2023-24/hb/2401/) - Refrigerant gases 👍1  
 
 ## [HB 2415](/bill/2023-24/hb/2415/) - Economic assistance/TANF 👍2  
 
@@ -343,7 +349,7 @@
 
 ## [SB 5235](/bill/2023-24/sb/5235/) - Accessory dwelling units 👍1  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍3  
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍4  
 
 ## [SB 5242](/bill/2023-24/sb/5242/) - Abortion cost sharing 👍3  
 
@@ -419,9 +425,9 @@
 
 ## [SB 5812](/bill/2023-24/sb/5812/) - Electric vehicle fires 👍2  
 
-## [SB 5838](/bill/2023-24/sb/5838/) - AI task force 👍3  
+## [SB 5838](/bill/2023-24/sb/5838/) - AI task force 👍4  
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍3  
+## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍4  
 
 ## [SB 5870](/bill/2023-24/sb/5870/) - Early learning programs 👍1  
 
@@ -454,7 +460,7 @@
 
 ## [SB 5973](/bill/2023-24/sb/5973/) - Heat pumps/CICs 👍1  
 
-## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍2  
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs 👍3  
 
 ## [SB 5993](/bill/2023-24/sb/5993/) - Voter education   ❓1
 
@@ -485,9 +491,9 @@
 
 ## [SB 6171](/bill/2023-24/sb/6171/) - Child care/nonstandard hours 👍2  
 
-## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
+## [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍2  
 
-## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍3  
+## [SB 6175](/bill/2023-24/sb/6175/) - Existing structures/tax 👍4  
 * 👍 Rico Quirindongo
 
 ## [SB 6186](/bill/2023-24/sb/6186/) - Missing persons/pub. assist. 👍1  
@@ -498,7 +504,7 @@
 
 ## [SB 6212](/bill/2023-24/sb/6212/) - Rent payments/credit reports 👍1  
 
-## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment 👍1  
+## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment 👍2  
 
 ## [SB 6242](/bill/2023-24/sb/6242/) - Law enforcement training 👍1  
 

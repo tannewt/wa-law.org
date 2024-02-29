@@ -46,7 +46,7 @@
 
 ## [HB 1348](/bill/2023-24/hb/1348/) - Behavioral health support 👍1  
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
+## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍3  
 
 ## [HB 1428](/bill/2023-24/hb/1428/) - Pedestrians/roadways 👍1  
 
@@ -108,7 +108,7 @@
 
 ## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg. 👍2  
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
+## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍2  
 
 ## [HB 2211](/bill/2023-24/hb/2211/) - Criminal justice local tax 👍1  
 

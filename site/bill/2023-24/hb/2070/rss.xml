@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2070/</link>
 		<description>Updates about HB 2070</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 31 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 24 Feb 2024 06:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -416,6 +416,13 @@
 			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-31/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>Could WA lawmakers end developments like this one: a massive warehouse project in South Tacoma? | The Seattle Times</title>
+			<description>News article &quot;Could WA lawmakers end developments like this one: a massive warehouse project in South Tacoma? | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Sat, 24 Feb 2024 06:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/environment/could-wa-lawmakers-end-developments-like-this-one-a-massive-warehouse-project-in-south-tacoma/#:~:text=House%20Bill%202070</guid>
 		</item>
 	</channel>
 </rss>

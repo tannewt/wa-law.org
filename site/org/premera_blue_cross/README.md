@@ -17,7 +17,10 @@
 
 ## [SB 5036](/bill/2023-24/sb/5036/) - Audio-only telemedicine 👍1  
 
-## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍1  
+## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers  👎1 
+* 👎💵 Gary Strannigan
+
+## [SB 5241](/bill/2023-24/sb/5241/) - Health care marketplace 👍2  
 
 ## [SB 5300](/bill/2023-24/sb/5300/) - Behavioral health continuity   ❓1
 * ❓💵 Christine Brewer
@@ -32,6 +35,12 @@
 
 ## [SB 5982](/bill/2023-24/sb/5982/) - Vaccine definition 👍1  
 
+## [SB 5986](/bill/2023-24/sb/5986/) - Out-of-network health costs   ❓1
+* ❓💵 Gary Strannigan
+
 ## [SB 6218](/bill/2023-24/sb/6218/) - Dental only plans  👎1 
+
+## [SB 6228](/bill/2023-24/sb/6228/) - Substance use treatment  👎1 
+* 👎💵 Gary Strannigan
 
 ## [SB 6257](/bill/2023-24/sb/6257/) - Hospital charity/residency 👍1  

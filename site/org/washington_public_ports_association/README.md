@@ -113,7 +113,7 @@
 
 ## [HB 1863](/bill/2023-24/hb/1863/) - Concerning payment for surveys of state-owned aquatic lands by current or prospective lessees of such lands. 👍1  
 
-## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍2  
+## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍3  
 
 ## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
 
@@ -134,7 +134,7 @@
 
 ## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
 
-## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg   ❓1
+## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍1  ❓1
 * ❓ Chris Herman
 
 ## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍2  
@@ -285,7 +285,7 @@
 * 👍 Chris Herman
 * 👍 Chris Herman
 
-## [SB 6303](/bill/2023-24/sb/6303/) - Providing tax incentives to encourage energy storage system and component parts manufacturing in Washington. 👍1  
+## [SB 6303](/bill/2023-24/sb/6303/) - Energy storage manufacturing 👍1  
 
 ## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  
 * 👍 Chris Herman
