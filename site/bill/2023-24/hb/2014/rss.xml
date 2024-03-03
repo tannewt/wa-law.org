@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2014/</link>
 		<description>Updates about HB 2014</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 02 Mar 2024 01:17:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -182,6 +182,20 @@
 			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-28/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-01/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Washington legislature passes bill to help over 35,000 veterans - MyNorthwest.com</title>
+			<description>News article &quot;Washington legislature passes bill to help over 35,000 veterans - MyNorthwest.com&quot; from MyNorthwest.</description>
+			<pubDate>Sat, 02 Mar 2024 01:17:48 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/3953155/washington-legislature-unanimously-passes-bill-to-help-over-35000-veterans/#:~:text=House%20Bill%20(HB)%202014</guid>
 		</item>
 	</channel>
 </rss>

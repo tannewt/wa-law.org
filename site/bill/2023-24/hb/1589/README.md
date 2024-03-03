@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201589)
+* 03/01/2024 [The Center Square](/org/the_center_square/) - ['A hot mess': Lt. Gov. Denny Heck blasts Dems over natural gas ban bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c44aaa06-d809-11ee-89f9-37ce82090049.html#:~:text=Engross%20Substitute%20House%20Bill%201589)
 * 02/19/2024 [House Republicans](/org/house_republicans/) - [Initiatives, bill updates, state budgets, and the week ahead | Washington State House Republicans](http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%201589)
 * 02/18/2024 [KIRO7](/org/kiro7/) - [Legislature could be closer to ending PSE’s natural gas obligations – KIRO 7 News Seattle](https://www.kiro7.com/news/local/legislature-could-be-closer-ending-pses-natural-gas-obligations/KGSA5UVZUJCHHPNQRFMEPYPVFY/#:~:text=House%20Bill%201589)
 * 02/17/2024 [MyNorthwest](/org/mynorthwest/) - [Bill to end PSE obligation to provide natural gas closer to passing - MyNorthwest.com](https://mynorthwest.com/3950853/end-pse-obligation-provide-natural-gas-service-closer-passing-legislature/#:~:text=House%20Bill%201589)

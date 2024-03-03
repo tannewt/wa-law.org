@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/01/2024 [House Democrats](/org/house_democrats/) - [Leavitt bill to accelerate construction of affordable workforce housing headed to the governor. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/01/leavitt-bill-to-accelerate-construction-of-affordable-workforce-housing-headed-to-the-governor/#:~:text=House%20Bill%201892)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024#:~:text=HB%201892)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%201892)
 * 02/08/2024 [House Democrats](/org/house_democrats/) - [House passes Leavitt bill to accelerate construction of affordable workforce housing.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/house-passes-leavitt-bill-to-accelerate-construction-of-affordable-workforce-housing/#:~:text=House%20Bill%201892)

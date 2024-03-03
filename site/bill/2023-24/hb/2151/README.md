@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Mon 02/19 10:30 AM - Labor & Commerce (LC): 2SHB 2151 Cannabis lab. accreditation

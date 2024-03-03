@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 01/09 01:30 PM - Consumer Protection & Business (CPB): HB 1880 Architecture licensing exams

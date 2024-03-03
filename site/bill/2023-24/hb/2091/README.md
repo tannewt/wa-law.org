@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/28/2024 [KING5](/org/king5/) - [Fallen firefighters could get Capitol campus memorial | king5.com](https://www.king5.com/article/news/local/fallen-firefighters-capitol-campus-memorial/281-dabe49cf-287f-4b94-831b-80ee0a580cbc#:~:text=House%20Bill%202091)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6146/</link>
 		<description>Updates about SB 6146</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Feb 2024 18:18:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -235,6 +235,13 @@
 			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-28/Third reading, passed; yeas, 94; nays, 0; absent, 0; excused, 4.</guid>
+		</item>
+		<item>
+			<title>Bill to allow WA police to enforce tribal warrants passes House - Washington Senate Democrats</title>
+			<description>News article &quot;Bill to allow WA police to enforce tribal warrants passes House - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Thu, 29 Feb 2024 18:18:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/02/29/bill-to-allow-wa-police-to-enforce-tribal-warrants-passes-house/#:~:text=SB%206146</guid>
 		</item>
 	</channel>
 </rss>

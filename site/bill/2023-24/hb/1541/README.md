@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [2nd Engrossed 2nd Substitute](S2.E2/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 02/06/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: House Advances “Nothing About Us Without Us” Act – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/06/legislative-news-house-advances-nothing-about-us-without-us-act/#:~:text=House%20Bill%201541)

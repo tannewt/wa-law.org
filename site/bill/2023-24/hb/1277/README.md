@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/29/2024 [House Democrats](/org/house_democrats/) - [Donaghy bill supporting paraeducators clears the Senate  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/29/donaghy-bill-supporting-paraeducators-clears-the-senate/#:~:text=House%20Bill%201277)
 * 03/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Legislature hits half-way point, March 8th next deadline - WSPTA](https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=ESHB%201277)
 * 02/27/2023 [House Democrats](/org/house_democrats/) - [Donaghy Passes Bill Supporting Paraeducators  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/27/donaghy-passes-bill-supporting-paraeducators/#:~:text=House%20Bill%201277)
 * 01/23/2023 [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB%201277)

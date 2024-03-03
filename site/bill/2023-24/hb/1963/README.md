@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/01/2024 [House Democrats](/org/house_democrats/) - [Senate Passes Bill Prohibiting License Plate Covers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/01/senate-passes-bill-prohibiting-license-plate-covers/#:~:text=House%20Bill%201963)
 * 02/08/2024 [House Democrats](/org/house_democrats/) - [House Passes Uncovered Plates Act: Promoting Safety and Fairness on Our Roads – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/469/#:~:text=House%20Bill%201963)
 
 ## Meetings

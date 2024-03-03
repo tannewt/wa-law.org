@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201455)
 * 02/26/2024 [FOX13](/org/fox13/) - [Bill banning child marriage in Washington; moves to governor's desk](https://www.fox13seattle.com/news/bill-banning-child-marriage-in-washington-moves-to-governors-desk#:~:text=House%20Bill%201455,)
 * 02/25/2024 [KIRO7](/org/kiro7/) - [State Legislature passes bill to ban child marriages in Washington  – KIRO 7 News Seattle](https://www.kiro7.com/news/local/state-legislature-passes-bill-ban-child-marriages-washington/UB4QA6PBMRFI7KIAPBS25AY4HQ/#:~:text=HB%201455)
 * 02/24/2024 [MyNorthwest](/org/mynorthwest/) - [Child marriages to soon be banned in Washington - MyNorthwest.com](https://mynorthwest.com/3952097/child-marriages-soon-to-be-illegal-in-washington-state/#:~:text=HB%201455)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5955/</link>
 		<description>Updates about SB 5955</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Feb 2024 06:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 01 Mar 2024 23:50:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -583,6 +583,20 @@
 			<pubDate>Wed, 28 Feb 2024 06:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/port-oks-5m-to-fix-soundproofing-in-homes-near-sea-tac-airport/#:~:text=SB%205955</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 83; nays, 13; absent, 0; excused, 2.</title>
+			<description>Third reading, passed; yeas, 83; nays, 13; absent, 0; excused, 2.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-01/Third reading, passed; yeas, 83; nays, 13; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>House passes bill to reduce health risks from Sea-Tac Airport - Washington Senate Democrats</title>
+			<description>News article &quot;House passes bill to reduce health risks from Sea-Tac Airport - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Fri, 01 Mar 2024 23:50:15 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/03/01/house-passes-bill-to-reduce-health-risks-from-sea-tac-airport/#:~:text=SB%205955</guid>
 		</item>
 	</channel>
 </rss>

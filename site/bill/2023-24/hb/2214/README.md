@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 02/09/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Slatter Bill Expands Pre-Eligibility for WA College Grant – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/legislative-news-slatter-bill-expands-pre-eligibility-for-wa-college-grant/#:~:text=House%20Bill%202214)

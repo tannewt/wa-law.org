@@ -1,11 +1,12 @@
 [wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1989](/bill/2023-24/hb/1989/)
 
-# HB 1989 - Graffiti abatement
+# HB 1989 - Graffiti abatement pilot
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1989&Year=2023&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/24/2024 [The Spokesman-Review](/org/the_spokesman-review/) - [Spin Control: State may test out new ways to battle highway graffiti | The Spokesman-Review](https://www.spokesman.com/stories/2024/feb/24/spin-control-state-may-test-out-new-ways-to-battle/#:~:text=HB%201989,)

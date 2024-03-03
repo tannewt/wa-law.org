@@ -6,8 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 02/29/2024 [House Democrats](/org/house_democrats/) - [Senate Passes Senn Bill to Strengthen Early Support for Children with Disabilities – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/29/senate-passes-senn-bill-to-strengthen-early-support-for-children-with-disabilities/#:~:text=House%20Bill%201916)
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%201916)
 
 ## Meetings

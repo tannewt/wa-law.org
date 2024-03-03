@@ -163,7 +163,7 @@
 ## [HB 1959](/bill/2023-24/hb/1959/) - PFML/small employers  👎1 
 * 👎 Bruce K Beckett
 
-## [HB 1989](/bill/2023-24/hb/1989/) - Graffiti abatement 👍1  
+## [HB 1989](/bill/2023-24/hb/1989/) - Graffiti abatement pilot 👍1  
 
 ## [HB 1991](/bill/2023-24/hb/1991/) - Paid sick leave  👎1 
 * 👎 Bruce K Beckett

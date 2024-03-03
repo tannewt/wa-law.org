@@ -94,7 +94,7 @@
 
 ## [HB 1956](/bill/2023-24/hb/1956/) - Substance use prevention ed. 👍1  
 
-## [HB 1989](/bill/2023-24/hb/1989/) - Graffiti abatement 👍1  
+## [HB 1989](/bill/2023-24/hb/1989/) - Graffiti abatement pilot 👍1  
 
 ## [HB 2012](/bill/2023-24/hb/2012/) - Rental housing/nonprofits 👍2  
 

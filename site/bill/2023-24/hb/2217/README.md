@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/28/2024 [House Democrats](/org/house_democrats/) - [Senate Passes Cortes Bill Championing Juvenile Justice Reform  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/28/senate-passes-cortes-bill-championing-juvenile-justice-reform/#:~:text=House%20Bill%202217)

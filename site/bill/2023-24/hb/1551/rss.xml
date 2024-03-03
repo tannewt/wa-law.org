@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1551/</link>
 		<description>Updates about HB 1551</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 26 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 01 Mar 2024 16:01:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -265,6 +265,27 @@
 			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-26/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.</title>
+			<description>Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-01/Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>Lawmakers pass bill banning sales of lead-contaminated cookware | king5.com</title>
+			<description>News article &quot;Lawmakers pass bill banning sales of lead-contaminated cookware | king5.com&quot; from KING5.</description>
+			<pubDate>Fri, 01 Mar 2024 16:01:46 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/politics/state-politics/washington-lawmakers-to-ban-sales-cookware-contaminated-lead/281-09d24ac4-c132-4809-a89b-11b27e7807e6#:~:text=HB%201551</guid>
 		</item>
 	</channel>
 </rss>

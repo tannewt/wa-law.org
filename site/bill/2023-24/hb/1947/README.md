@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Environment, Energy & Technology (ENET): SHB 1947 Technology governance

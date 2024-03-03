@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%202160)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024#:~:text=HB%202160)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%202160)
 * 01/17/2024 [PubliCola](/org/publicola/) - [State Rep Says Inclusionary Zoning Near Transit Will Prevent Displacement, SPD General Counsel Filed Initial Complaint Against Laughing Cop - PubliCola](https://publicola.com/2024/01/17/spd-general-counsel-filed-initial-complaint-against-laughing-cop-rep-reed-says-inclusionary-zoning-near-transit-will-prevent-displacement/#:~:text=(HB%202160)

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/29/2024 [Senate Democrats](/org/senate_democrats/) - [Bill to allow WA police to enforce tribal warrants passes House - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/29/bill-to-allow-wa-police-to-enforce-tribal-warrants-passes-house/#:~:text=SB%206146)
 * 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=SB%206146)
 
 ## Meetings

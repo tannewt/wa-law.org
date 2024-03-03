@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2153/</link>
 		<description>Updates about HB 2153</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 26 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -293,6 +293,27 @@
 			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-26/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Don’t let another legislative session  pass without a catalytic converter bill | The Seattle Times</title>
+			<description>News article &quot;Don’t let another legislative session  pass without a catalytic converter bill | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Thu, 29 Feb 2024 14:08:01 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/opinion/editorials/dont-let-another-legislative-session-pass-without-a-catalytic-converter-bill/#:~:text=House%20Bill%202153</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 31; nays, 18; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 31; nays, 18; absent, 0; excused, 0.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-01/Third reading, passed; yeas, 31; nays, 18; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

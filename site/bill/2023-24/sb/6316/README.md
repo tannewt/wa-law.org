@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/01/2024 [MyNorthwest](/org/mynorthwest/) - [Expanded tolling on SR 520 to pay for project may be on tap - MyNorthwest.com](https://mynorthwest.com/3952904/expanded-tolling-sr-520-finish-project-may-be-coming/#:~:text=SB%206316)
+
 ## Meetings
 ### Wed 02/21 03:00 PM - Transportation (TRAN): SB 6316 SR 520 corridor
 #### 8 👍 - Pro

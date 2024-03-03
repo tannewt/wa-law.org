@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/29/2024 [House Democrats](/org/house_democrats/) - [Simmons bill to extend support services for drug court graduates on the way to governor’s desk – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/29/simmons-bill-to-extend-support-services-for-drug-court-graduates-on-the-way-to-governors-desk/#:~:text=House%20Bill%201983)
+
 ## Meetings
 ### Tue 02/20 04:00 PM - Ways & Means (WM): HB 1983 Criminal justice trtmnt acct
 #### 8 👍 - Pro

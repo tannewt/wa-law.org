@@ -10,6 +10,9 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=Senate%20Bill%206058)
+* 03/01/2024 [Crosscut](/org/crosscut/) - [WA moves toward partnership with CA, Quebec cap-and-trade systems | Crosscut](https://crosscut.com/briefs/2024/02/wa-moves-toward-partnership-ca-quebec-cap-and-trade-systems#:~:text=Senate%20Bill%206058)
+* 02/29/2024 [The Center Square](/org/the_center_square/) - [Legislature moves closer to passing bill linking WA's carbon market to CA-Quebec | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5d67b9e0-d760-11ee-8f9c-07e5a54646cb.html#:~:text=Engrossed%20Second%20Substitute%20Senate%20Bill%206058)
 * 02/27/2024 [The Center Square](/org/the_center_square/) - [Latest CA-Quebec carbon auction results hint at possible WA linkage benefits | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_02fcefa6-d595-11ee-8d83-b37dc6bbc7b8.html#:~:text=Senate%20Bill%206058)
 * 02/22/2024 [Crosscut](/org/crosscut/) - [Gas prices too high? WA residents may get $200 back for utilities | Crosscut](https://crosscut.com/environment/2024/02/gas-prices-too-high-wa-residents-may-get-200-back-utilities#:~:text=Senate%20Bill%206058)
 * 02/21/2024 [Gorge News Center](/org/gorge_news_center/) - [Republicans reject Democrat idea of linking energy policy with California](https://gorgenewscenter.com/2024/02/21/republicans-reject-democrat-idea-of-linking-energy-policy-with-california/#:~:text=Senate%20Bill%206058)

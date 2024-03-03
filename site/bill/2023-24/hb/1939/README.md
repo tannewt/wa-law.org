@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/28/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Senate Passes Bill Enabling Multistate Licensing for Social Workers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/28/legislative-news-senate-passes-bill-enabling-multistate-licensing-for-social-workers/#:~:text=House%20Bill%201939)

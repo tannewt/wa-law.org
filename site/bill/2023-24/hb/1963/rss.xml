@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1963/</link>
 		<description>Updates about HB 1963</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -115,6 +115,27 @@
 			<pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-23/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 42; nays, 7; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 42; nays, 7; absent, 0; excused, 0.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-01/Third reading, passed; yeas, 42; nays, 7; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Senate Passes Bill Prohibiting License Plate Covers – Washington State House Democrats</title>
+			<description>News article &quot;Senate Passes Bill Prohibiting License Plate Covers – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/03/01/senate-passes-bill-prohibiting-license-plate-covers/#:~:text=House%20Bill%201963</guid>
 		</item>
 	</channel>
 </rss>

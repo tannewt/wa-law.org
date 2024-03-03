@@ -183,7 +183,7 @@
 
 ## [HB 1986](/bill/2023-24/hb/1986/) - Adding purposes for the use of existing firefighter safety funding. 👍1  
 
-## [HB 1989](/bill/2023-24/hb/1989/) - Graffiti abatement 👍1  
+## [HB 1989](/bill/2023-24/hb/1989/) - Graffiti abatement pilot 👍1  
 
 ## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍2  
 

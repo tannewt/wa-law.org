@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1277/</link>
 		<description>Updates about HB 1277</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Feb 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -261,6 +261,20 @@
 			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-27/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Donaghy bill supporting paraeducators clears the Senate  – Washington State House Democrats</title>
+			<description>News article &quot;Donaghy bill supporting paraeducators clears the Senate  – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/02/29/donaghy-bill-supporting-paraeducators-clears-the-senate/#:~:text=House%20Bill%201277</guid>
 		</item>
 	</channel>
 </rss>

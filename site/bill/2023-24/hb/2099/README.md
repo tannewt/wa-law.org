@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## 📰 Articles
+* 03/01/2024 [House Democrats](/org/house_democrats/) - [Farivar Bill Makes Reentry Easier for Released Individuals with State-Issued IDs  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/01/farivar-bill-makes-reentry-easier-for-released-individuals-with-state-issued-ids/#:~:text=House%20Bill%202099)
+
 ## Meetings
 ### Tue 02/20 04:00 PM - Transportation (TRAN): E2SHB 2099 State custody/ID cards
 #### 54 👍 - Pro

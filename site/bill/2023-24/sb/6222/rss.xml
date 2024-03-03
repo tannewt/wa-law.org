@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6222/</link>
 		<description>Updates about SB 6222</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -79,6 +79,13 @@
 			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-27/Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-01/President signed.</guid>
 		</item>
 	</channel>
 </rss>

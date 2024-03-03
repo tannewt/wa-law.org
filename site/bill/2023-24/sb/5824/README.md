@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/29/2024 [Crosscut](/org/crosscut/) - [WA bill would make it harder to shut down public libraries | Crosscut](https://crosscut.com/briefs/2024/02/wa-bill-would-make-it-harder-shut-down-public-libraries#:~:text=Senate%20Bill%205824)
+* 02/29/2024 [The Center Square](/org/the_center_square/) - [Dissolving library districts bill passes Washington Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d6789020-d747-11ee-af4c-5f6eea258082.html#:~:text=Senate%20Bill%205824)
 * 02/16/2024 [NW News Network](/org/nw_news_network/) - [Dissolving library districts is a hot topic, WA bill could make it harder to do | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-16/dissolving-library-districts-is-a-hot-topic-wa-bill-could-make-it-harder-to-do#:~:text=Engrossed%20Senate%20Bill%205824)
 * 01/26/2024 [The Center Square](/org/the_center_square/) - [Washington bill addresses library dissolution efforts | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d73888b4-bc83-11ee-9ca3-4b9f40ed7981.html#:~:text=SB%205824)
 * 01/25/2024 [NW News Network](/org/nw_news_network/) - [Washington state bill could change how rural communities can close a library | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-24/washington-state-bill-could-change-how-rural-communities-can-close-a-library#:~:text=Engrossed%20Senate%20Bill%205824)

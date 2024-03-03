@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/29/2024 [Senate Democrats](/org/senate_democrats/) - [House unanimously passes Stanford bill to crack down on predatory loans - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/29/house-unanimously-passes-stanford-bill-to-crack-down-on-predatory-loans/#:~:text=SB%206025)
 * 02/07/2024 [Senate Democrats](/org/senate_democrats/) - [Stanford bill to crack down on predatory loans clears Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/06/stanford-bill-to-crack-down-on-predatory-loans-clears-senate/#:~:text=SB%206025)
 
 ## Meetings

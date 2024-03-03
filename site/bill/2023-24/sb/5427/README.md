@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/29/2024 [The Center Square](/org/the_center_square/) - [Washington Legislature votes to create 'bias incident hotline' within AGO | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e8f88730-d73a-11ee-9889-3f1d2b606d3d.html#:~:text=Senate%20Bill%205427)
 * 02/15/2024 [KING5](/org/king5/) - [Jewish community lobbies for protections at state Capitol | king5.com](https://www.king5.com/article/news/community/facing-race/jewish-community-lobbies-protections/281-d7d09644-6a41-4dea-9e8a-64c1482c12d7#:~:text=SB%205427)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%205427)
 * 11/20/2023 [Senate Democrats](/org/senate_democrats/) - [Washington State Senate Members of Color Caucus Stands Against Hate, Advocates for Unity and Action - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/11/20/washington-state-senate-members-of-color-caucus-stands-against-hate-advocates-for-unity-and-action-2/#:~:text=Senate%20Bill%205427)
@@ -17,6 +18,7 @@
 * 02/24/2023 [The Center Square](/org/the_center_square/) - [‘Tattletale hotline': WA bill blurs line between hate crimes, bias, critics say | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b7bc1af4-b49c-11ed-9de1-df53f46161f1.html#:~:text=SB%205427)
 * 02/23/2023 [Senate Democrats](/org/senate_democrats/) - [MOCC Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/moccpriorities/#:~:text=SB%205427)
 * 01/29/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety takes center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/29/this-week-in-the-senate-week-4-public-safety-takes-center-stage/#:~:text=Senate%20Bill%205427)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson: Attorney General’s Office will implement state Hate Crimes Hotline | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-attorney-general-s-office-will-implement-state-hate-crimes-hotline#:~:text=Senate%20Bill%205427)
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Appropriations (APP): SSB 5427 Hate crimes & bias incidents

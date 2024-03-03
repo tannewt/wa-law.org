@@ -6,8 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 02/29/2024 [House Democrats](/org/house_democrats/) - [Bill to create a state public infrastructure assistance program on way to Inslee’s desk – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/29/bill-to-create-a-state-public-infrastructure-assistance-program-on-way-to-inslees-desk/#:~:text=House%20Bill%202020)
 * 02/21/2024 [House Democrats](/org/house_democrats/) - [Economic Growth, Social Cohesion, & Support for Veterans – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/21/economic-growth-social-cohesion-support-for-veterans/#:~:text=2020)
 
 ## Meetings

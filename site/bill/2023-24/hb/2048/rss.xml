@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2048/</link>
 		<description>Updates about HB 2048</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -151,6 +151,13 @@
 			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://gorgenewscenter.com/2024/02/27/senate-unanimously-approves-mosbruckers-bill-to-protectdomestic-violence-victims-next-stop-is-the-governors-office/#:~:text=House%20Bill%202048</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-01/President signed.</guid>
 		</item>
 	</channel>
 </rss>

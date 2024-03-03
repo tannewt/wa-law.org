@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 02/29/2024 [KING5](/org/king5/) - [‘Lucas Petty Act’ would add opioid, fentanyl awareness to health education courses | king5.com](https://www.king5.com/article/news/local/lucas-petty-act-would-add-opioid-fentanyl-awareness-to-health-education-courses/281-c68372f0-1597-462e-8c80-fd30130e9b12#:~:text=House%20Bill%201956)
 * 02/21/2024 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Dual and Tribal Language Education - WSPTA](https://www.wastatepta.org/wspta-testifies-dual-and-tribal-language-education/#:~:text=E2SHB%201956)
 * 02/12/2024 [KING5](/org/king5/) - [House lawmakers unite behind fentanyl education bill | king5.com](https://www.king5.com/article/news/local/public-safety/fentanyl-education-schools/281-3f0e9f02-99cf-4235-a348-337f36cadcb4#:~:text=House%20Bill%201956)
 * 02/09/2024 [House Democrats](/org/house_democrats/) - [Leavitt’s Lucas Petty Act passes the House unanimously – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/leavitts-lucas-petty-act-passes-the-house-unanimously/#:~:text=House%20Bill%201956)

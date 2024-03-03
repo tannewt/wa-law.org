@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Third Substitute](S3/)
+* [Passed Legislature](S3.PL/)
 
 ## 📰 Articles
 * 02/21/2024 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Dual and Tribal Language Education - WSPTA](https://www.wastatepta.org/wspta-testifies-dual-and-tribal-language-education/#:~:text=3SHB%201228)

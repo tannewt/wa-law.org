@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/28/2024 [Gorge News Center](/org/gorge_news_center/) - [Waters bipartisan fish barrier removal bill receives full support from the Senate](https://gorgenewscenter.com/2024/02/28/waters-bipartisan-fish-barrier-removal-bill-receives-full-support-from-the-senate/#:~:text=House%20Bill%202045)
 * 01/24/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Kevin Waters bipartisan legislation to help restore fish populations unanimously voted out of committee](https://gorgenewscenter.com/2024/01/24/rep-kevin-waters-bipartisan-legislation-to-help-restore-fish-populations-unanimously-voted-out-of-committee/#:~:text=House%20Bill%202045)
 * 01/17/2024 [Gorge News Center](/org/gorge_news_center/) - [Bipartisan legislation from Rep. Kevin Waters to help remove fish barriers receives a hearing](https://gorgenewscenter.com/2024/01/17/bipartisan-legislation-from-rep-kevin-waters-to-help-remove-fish-barriers-receives-a-hearing/#:~:text=House%20Bill%202045)
 

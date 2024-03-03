@@ -10,6 +10,8 @@
 * [Third Substitute](S3/)
 
 ## 📰 Articles
+* 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201579)
+* 02/29/2024 [KUOW](/org/kuow/) - [KUOW - Bill to create independent prosecutor for police deadly force cases fails in Washington state](https://www.kuow.org/stories/bill-to-create-independent-prosecutor-police-deadly-force-cases-fails-in-washington#:~:text=HB%201579)
 * 02/19/2024 [House Republicans](/org/house_republicans/) - [Initiatives, bill updates, state budgets, and the week ahead | Washington State House Republicans](http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%201579)
 * 02/15/2024 [KUOW](/org/kuow/) - [KUOW - Does Washington state need an independent prosecutor to charge police with misusing deadly force?](https://www.kuow.org/stories/does-washington-state-need-an-independent-prosecutor-to-charge-police-with-misusing-deadly-force#:~:text=House%20Bill%201579)
 * 02/11/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 6: Floor wraps up and budgets start to emerge - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/11/this-week-in-the-senate-week-6-floor-wraps-up-and-budgets-start-to-emerge/#:~:text=House%20Bill%201579)

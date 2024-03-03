@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Ways & Means (WM): ESHB 2003 Housing/public lands leases

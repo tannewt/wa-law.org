@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/01/2024 [House Democrats](/org/house_democrats/) - [Bronoske bill to help clean up abandoned boats passes Senate. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/01/bronoske-bill-to-help-clean-up-abandoned-boats-passes-senate/#:~:text=House%20Bill%201919)
+
 ## Meetings
 ### Mon 02/19 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 1919 Private moorage/abandonment
 #### 7 👍 - Pro

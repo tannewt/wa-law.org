@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2494/</link>
 		<description>Updates about HB 2494</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 26 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -476,6 +476,20 @@
 			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-26/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-01/Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

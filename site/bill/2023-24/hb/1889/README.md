@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/27/2024 [House Democrats](/org/house_democrats/) - [Walen bill expanding professional license eligibility heads to the Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/27/walens-bill-enhances-professional-license-eligibility/#:~:text=House%20Bill%201889)

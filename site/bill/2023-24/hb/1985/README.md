@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/06/2024 [House Democrats](/org/house_democrats/) - [Senate is the next stop for Timmons bill that provides a cost-of-living increase to retirees – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/06/179/#:~:text=House%20Bill%201985)

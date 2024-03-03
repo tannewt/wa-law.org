@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1899/</link>
 		<description>Updates about HB 1899</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -254,6 +254,20 @@
 			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-28/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rep. Suzanne Schmidt announces disaster relief is on its way to assist with wildfire recovery</title>
+			<description>News article &quot;Rep. Suzanne Schmidt announces disaster relief is on its way to assist with wildfire recovery&quot; from Gorge News Center.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/02/29/rep-suzanne-schmidt-announces-disaster-relief-is-on-its-way-to-assist-with-wildfire-recovery/#:~:text=House%20Bill%201899</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 45; nays, 1; absent, 0; excused, 3.</title>
+			<description>Third reading, passed; yeas, 45; nays, 1; absent, 0; excused, 3.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-01/Third reading, passed; yeas, 45; nays, 1; absent, 0; excused, 3.</guid>
 		</item>
 	</channel>
 </rss>

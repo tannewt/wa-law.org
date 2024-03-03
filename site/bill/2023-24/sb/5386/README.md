@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 03/01/2024 [The Center Square](/org/the_center_square/) - [WA appellate court upholds document surcharge for homeless/housing funding | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_eb3e10ac-d80f-11ee-aaad-a354b14e37a0.html#:~:text=Senate%20Bill%205386)
+
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): SSB 5386 Document recording fees
 #### 25 👍 - Pro
