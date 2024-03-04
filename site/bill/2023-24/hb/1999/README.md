@@ -10,6 +10,7 @@
 
 ## 📰 Articles
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201999)
+* 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201999)
 * 02/15/2024 [Crosscut](/org/crosscut/) - [WA Legislature keeps most of its priority bills alive — so far | Crosscut](https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=House%20Bill%201999)
 * 02/13/2024 [Crosscut](/org/crosscut/) - [WA bill would add explicit ‘deepfakes’ to child pornography laws | Crosscut](https://crosscut.com/news/2024/02/wa-bill-would-add-explicit-deepfakes-child-pornography-laws#:~:text=House%20Bill%201999,)
 * 02/13/2024 [Crosscut](/org/crosscut/) - [WA bill would add explicit ‘deepfakes’ to child pornography laws | Crosscut](https://crosscut.com/politics/2024/02/wa-bill-would-add-explicit-deepfakes-child-pornography-laws#:~:text=House%20Bill%201999,)

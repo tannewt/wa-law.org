@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/02/2024 [Gorge News Center](/org/gorge_news_center/) - [Washington State Senate passes three bipartisan bills from Rep. Kevin Waters](https://gorgenewscenter.com/2024/03/02/washington-state-senate-passes-three-bipartisan-bills-from-rep-kevin-waters/#:~:text=House%20Bill%201982)
 * 02/21/2024 [House Democrats](/org/house_democrats/) - [Economic Growth, Social Cohesion, & Support for Veterans – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/21/economic-growth-social-cohesion-support-for-veterans/#:~:text=1982)
 * 02/08/2024 [Gorge News Center](/org/gorge_news_center/) - [Bipartisan legislation from Waters to expand rural broadband receives full support from the House](https://gorgenewscenter.com/2024/02/08/bipartisan-legislation-from-waters-to-expand-rural-broadband-receives-full-support-from-the-house/#:~:text=House%20Bill%201982)
 * 01/26/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 29 - Feb. 2, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-29-feb-2-2024/#:~:text=HB%201982)

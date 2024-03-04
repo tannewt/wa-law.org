@@ -11,6 +11,7 @@
 
 ## 📰 Articles
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%205908)
+* 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%205908)
 * 02/29/2024 [MyNorthwest](/org/mynorthwest/) - [Older foster children could get boost from state - MyNorthwest.com](https://mynorthwest.com/3952916/wash-foster-children-could-get-boost-from-legislature/#:~:text=SB%205908)
 * 02/28/2024 [House Democrats](/org/house_democrats/) - [House passes bill to extend foster support through age 21 – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/28/house-passes-bill-to-extend-foster-support-through-age-21/#:~:text=SB%205908)
 

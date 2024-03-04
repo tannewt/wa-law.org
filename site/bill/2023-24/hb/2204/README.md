@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/02/2024 [Gorge News Center](/org/gorge_news_center/) - [Washington State Senate passes three bipartisan bills from Rep. Kevin Waters](https://gorgenewscenter.com/2024/03/02/washington-state-senate-passes-three-bipartisan-bills-from-rep-kevin-waters/#:~:text=House%20Bill%202204)
 * 02/13/2024 [Gorge News Center](/org/gorge_news_center/) - [Waters bipartisan bill to assist beverage producers during an emergency or disaster gets approval from the House](https://gorgenewscenter.com/2024/02/13/waters-bipartisan-bill-to-assist-beverage-producers-during-an-emergency-or-disaster-gets-approval-from-the-house/#:~:text=House%20Bill%202204)
 * 01/24/2024 [Gorge News Center](/org/gorge_news_center/) - [Legislation that would help beverage producers during an emergency among three bills from Rep. Kevin Waters unanimously voted out of committee](https://gorgenewscenter.com/2024/01/24/legislation-that-would-help-beverage-producers-during-an-emergency-among-three-bills-from-rep-kevin-waters-unanimously-voted-out-of-committee/#:~:text=House%20Bill%202204)
 

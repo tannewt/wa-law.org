@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/28/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Whatcom school boards oppose curriculum bills, argue state is undermining local control | Cascadia Daily News](https://www.cascadiadaily.com/2024/feb/28/whatcom-school-boards-oppose-curriculum-bills-argue-state-is-undermining-local-control/#:~:text=House%20Bill%202331)
 * 02/23/2024 [NW News Network](/org/nw_news_network/) - [Budgets, initiative hearings top agenda in week 7 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-23/budgets-initiative-hearings-top-agenda-in-week-7-of-washingtons-legislative-session#:~:text=House%20Bill%202331)
 * 02/23/2024 [MyNorthwest](/org/mynorthwest/) - [Wash. Senate passes a bill which would ban banning books - MyNorthwest.com](https://mynorthwest.com/3951928/senate-passes-ban-on-banning-books-after-making-changes-reducing-local-decision-making/#:~:text=ESHB%202331)
 * 02/22/2024 [The Center Square](/org/the_center_square/) - [WA Legislature passes controversial curriculum choices bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6cab4a2c-d1e6-11ee-b42c-6f1d81ee6795.html#:~:text=Engrossed%20Substitute%20House%20Bill%202331)

@@ -10,6 +10,7 @@
 
 ## 📰 Articles
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=Senate%20Bill%205444)
+* 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=Senate%20Bill%205444)
 * 02/16/2024 [FOX13](/org/fox13/) - [Washington gun laws in 2024: Legislators still weighing several bills](https://www.fox13seattle.com/news/the-status-of-gun-bills-in-washington-legislature-in-2024#:~:text=SB%205444)
 * 02/16/2024 [The Seattle Times](/org/the_seattle_times/) - [Washington lawmakers consider more modest set of gun restrictions | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/washington-lawmakers-consider-more-modest-set-of-gun-restrictions/#:~:text=Senate%20Bill%205444)
 * 02/13/2024 [MyNorthwest](/org/mynorthwest/) - [Wash. Senate passes bill expanding prohibited weapon zones - MyNorthwest.com](https://mynorthwest.com/3950498/washington-senate-passes-bill-expanding-prohibited-weapon-zones/#:~:text=Senate%20Bill%205444%20(SB%205444))

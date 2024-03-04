@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201903)
+* 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201903)
 * 02/19/2024 [House Republicans](/org/house_republicans/) - [Initiatives, bill updates, state budgets, and the week ahead | Washington State House Republicans](http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%201903)
 * 02/17/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 7: More budgets revealed, another deadline arrives and Children's Day 2024 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/17/this-week-in-the-senate-week-7-more-budgets-revealed-another-deadline-arrives-and-childrens-day-2024/#:~:text=HB%201903)
 * 02/12/2024 [KUOW](/org/kuow/) - [KUOW - Washington lawmakers aim for new open carry limitations in certain public settings](https://www.kuow.org/stories/washington-lawmakers-aim-for-new-open-carry-limitations-in-certain-public-settings#:~:text=HB1903)

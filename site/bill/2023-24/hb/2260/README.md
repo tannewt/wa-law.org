@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/02/2024 [Gorge News Center](/org/gorge_news_center/) - [Washington State Senate passes three bipartisan bills from Rep. Kevin Waters](https://gorgenewscenter.com/2024/03/02/washington-state-senate-passes-three-bipartisan-bills-from-rep-kevin-waters/#:~:text=House%20Bill%202260)
 * 02/07/2024 [Gorge News Center](/org/gorge_news_center/) - [House unanimously passes Waters bipartisan bill to bring equity to the penalties for selling to a minor](https://gorgenewscenter.com/2024/02/07/house-unanimously-passes-waters-bipartisan-bill-to-bring-equity-to-the-penalties-for-selling-to-a-minor/#:~:text=House%20Bill%202260)
 * 01/24/2024 [Gorge News Center](/org/gorge_news_center/) - [Legislation that would help beverage producers during an emergency among three bills from Rep. Kevin Waters unanimously voted out of committee](https://gorgenewscenter.com/2024/01/24/legislation-that-would-help-beverage-producers-during-an-emergency-among-three-bills-from-rep-kevin-waters-unanimously-voted-out-of-committee/#:~:text=House%20Bill%202260)
 

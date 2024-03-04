@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/02/2024 [KIRO7](/org/kiro7/) - [Washington legislature unanimously passes bill to help over 35,000 veterans – KIRO 7 News Seattle](https://www.kiro7.com/news/local/washington-legislature-unanimously-passes-bill-help-over-35000-veterans/AA3ERPZXBRGZ7ESTT5ZQUZ2PKE/#:~:text=House%20Bill%20(HB)%202014)
 * 03/02/2024 [MyNorthwest](/org/mynorthwest/) - [Washington legislature passes bill to help over 35,000 veterans - MyNorthwest.com](https://mynorthwest.com/3953155/washington-legislature-unanimously-passes-bill-to-help-over-35000-veterans/#:~:text=House%20Bill%20(HB)%202014)
 * 02/21/2024 [House Democrats](/org/house_democrats/) - [Economic Growth, Social Cohesion, & Support for Veterans – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/21/economic-growth-social-cohesion-support-for-veterans/#:~:text=2014)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=House%20Bill%202014)

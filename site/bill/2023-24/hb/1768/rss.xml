@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1768/</link>
 		<description>Updates about HB 1768</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 01:07:38 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 04 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -137,6 +137,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Dave/Warren/2024-02-21 01:07:38</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-04/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

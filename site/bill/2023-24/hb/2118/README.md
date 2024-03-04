@@ -10,6 +10,7 @@
 
 ## 📰 Articles
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%202118)
+* 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%202118)
 * 02/28/2024 [The Center Square](/org/the_center_square/) - ['Death sentence' for gun dealers passes the Washington Senate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_39d43eb2-d68a-11ee-b076-9f55ee291e65.html#:~:text=Engrossed%20Substitute%20House%20Bill%202118)
 * 02/28/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate vote amounts to death sentence for Washington’s firearm dealers, say Republican Senators](https://gorgenewscenter.com/2024/02/28/senate-vote-amounts-to-death-sentence-for-washingtons-firearm-dealers-say-republican-senators/#:~:text=House%20Bill%202118)
 * 02/25/2024 [The Seattle Times](/org/the_seattle_times/) - [Two WA gun bills are spot-on but a third is unfair to dealers | The Seattle Times](https://www.seattletimes.com/opinion/editorials/two-wa-gun-bills-are-spot-on-but-a-third-is-unfair-to-dealers/#:~:text=2118)

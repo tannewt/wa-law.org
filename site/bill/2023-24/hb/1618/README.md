@@ -11,6 +11,7 @@
 
 ## 📰 Articles
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201618)
+* 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201618)
 * 02/29/2024 [House Democrats](/org/house_democrats/) - [Senate Votes To Empower Child Sex Abuse Survivors – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/29/senate-votes-to-empower-child-sex-abuse-survivors/#:~:text=House%20Bill%201618)
 * 01/27/2024 [NW News Network](/org/nw_news_network/) - [Natural gas, opioids and DUIs: Highlights from week 3 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-26/natural-gas-opioids-and-duis-highlights-from-week-3-of-washingtons-legislative-session#:~:text=House%20Bill%201618)
 * 01/25/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Bill Seeking Justice for Child Sex Abuse Victims Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/25/legislative-news-bill-seeking-justice-for-child-sex-abuse-victims-passes-house/#:~:text=House%20Bill%201618)

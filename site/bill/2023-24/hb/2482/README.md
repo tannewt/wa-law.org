@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/02/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate approves Bipartisan legislation from Harris to assist semiconductor manufacturers](https://gorgenewscenter.com/2024/03/02/senate-approves-bipartisan-legislation-from-harris-to-assist-semiconductor-manufacturers/#:~:text=House%20Bill%202482)
 * 02/12/2024 [Gorge News Center](/org/gorge_news_center/) - [Bipartisan legislation from Harris headed to the Senate after unanimous approval from the House](https://gorgenewscenter.com/2024/02/12/bipartisan-legislation-from-harris-headed-to-the-senate-after-unanimous-approval-from-the-house/#:~:text=House%20Bill%202482)
 
 ## Meetings

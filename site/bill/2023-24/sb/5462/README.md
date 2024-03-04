@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/28/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Whatcom school boards oppose curriculum bills, argue state is undermining local control | Cascadia Daily News](https://www.cascadiadaily.com/2024/feb/28/whatcom-school-boards-oppose-curriculum-bills-argue-state-is-undermining-local-control/#:~:text=Senate%20Bill%205462)
 * 02/09/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205462)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%205462)
 * 01/26/2024 [The Seattle Times](/org/the_seattle_times/) - [WA could require public schools teach LGBTQ+ history under proposed bill | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-could-require-public-schools-teach-lgbtq-history-under-proposed-bill/#:~:text=Senate%20Bill%205462)
