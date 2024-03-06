@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 02/09/2024 [House Democrats](/org/house_democrats/) - [HB 2022 passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/hb-2022-passes-house/#:~:text=HB%202022)

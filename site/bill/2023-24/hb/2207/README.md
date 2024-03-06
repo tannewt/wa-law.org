@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/01/2024 [House Democrats](/org/house_democrats/) - [Senate Passes Ramos Bill on Illegal Dumping – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/01/senate-passes-ramos-bill-on-illegal-dumping/#:~:text=Substitute%20House%20Bill%202207)

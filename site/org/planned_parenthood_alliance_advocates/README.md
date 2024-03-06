@@ -164,7 +164,7 @@
 
 ## [SB 5414](/bill/2023-24/sb/5414/) - Elections law violation info  👎1 
 
-## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍2  
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearms/certain premises 👍2  
 
 ## [SB 5462](/bill/2023-24/sb/5462/) - Inclusive learning standards 👍2  
 

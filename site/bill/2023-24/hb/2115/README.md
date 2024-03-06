@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/09/2024 [House Democrats](/org/house_democrats/) - [House Passes Thai Bill Protecting Providers, Safeguarding Reproductive Healthcare Access – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/protecting-providers-safeguarding-reproductive-healthcare-access/#:~:text=House%20Bill%202115)

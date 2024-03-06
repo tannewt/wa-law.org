@@ -16,7 +16,7 @@
 
 ## [SB 5297](/bill/2023-24/sb/5297/) - Commercial salmon fisheries 👍1  
 
-## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places  👎1 
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearms/certain premises  👎1 
 
 ## [SB 5516](/bill/2023-24/sb/5516/) - Clay targets/sales tax 👍1  
 

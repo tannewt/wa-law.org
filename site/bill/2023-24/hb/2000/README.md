@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 02/09/2024 [House Democrats](/org/house_democrats/) - [Mena’s Bill Embraces Global Future For WA – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/menas-bill-embraces-global-future-for-wa/#:~:text=House%20Bill%202000)

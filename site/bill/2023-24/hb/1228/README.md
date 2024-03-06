@@ -11,6 +11,7 @@
 * [Passed Legislature](S3.PL/)
 
 ## 📰 Articles
+* 03/06/2024 [The Seattle Times](/org/the_seattle_times/) - [Dual language education is one step closer to becoming a WA law | The Seattle Times](https://www.seattletimes.com/seattle-news/dual-language-education-is-one-step-closer-to-becoming-a-wa-law/#:~:text=House%20Bill%201228)
 * 02/21/2024 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Dual and Tribal Language Education - WSPTA](https://www.wastatepta.org/wspta-testifies-dual-and-tribal-language-education/#:~:text=3SHB%201228)
 * 02/12/2024 [House Democrats](/org/house_democrats/) - [House Passes Ortiz-Self Bill to Embrace Multilingualism – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/12/house-passes-ortiz-self-bill-to-embrace-multilingualism/#:~:text=House%20Bill%201228)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=HB%201228)

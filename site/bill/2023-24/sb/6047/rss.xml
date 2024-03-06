@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 6047 - Natural gas utilities/OPMA</title>
+		<title>SB 6047 - OPMA executive sessions/CCA</title>
 		<link>https://wa-law.org/bill/2023-24/sb/6047/</link>
 		<description>Updates about SB 6047</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -116,6 +116,13 @@
 			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-28/Third reading, passed; yeas, 92; nays, 2; absent, 0; excused, 4.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
+			<description>Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-05/Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

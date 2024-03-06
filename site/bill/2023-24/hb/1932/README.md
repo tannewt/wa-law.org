@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/04/2024 [House Republicans](/org/house_republicans/) - [The last four days of the 2024 legislative session | Washington State House Republicans](http://houserepublicans.wa.gov/current/the-last-four-days-of-the-2024-legislative-session/#:~:text=House%20Bill%201932)
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201932)
 * 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201932)
 * 02/26/2024 [Sightline Institute](/org/sightline_institute/) - [On Even-Year Elections, Trust Voters—and Evidence - Sightline Institute](https://www.sightline.org/2024/02/26/on-even-year-elections-trust-voters-and-evidence#:~:text=House%20Bill%201932)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Mon 02/19 01:30 PM - Community Safety, Justice, & Reentry (CSJR): ESSB 5891 School bus trespass

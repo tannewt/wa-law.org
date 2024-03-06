@@ -177,7 +177,7 @@
 
 ## [SB 5790](/bill/2023-24/sb/5790/) - Bleeding control/schools 👍2  
 
-## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍2  
+## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose med./schools 👍2  
 
 ## [SB 5813](/bill/2023-24/sb/5813/) - Mandating instruction on agricultural literacy for students in grades seven through 12.   ❓1
 

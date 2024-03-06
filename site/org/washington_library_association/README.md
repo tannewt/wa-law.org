@@ -49,7 +49,7 @@
 * 👍💵 Carolyn Logue
 * 👍 Lesley Bourne
 
-## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
+## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose med./schools 👍1  
 
 ## [SB 5824](/bill/2023-24/sb/5824/) - Dissolution of libraries 👍3  
 * 👍💵 Carolyn Logue

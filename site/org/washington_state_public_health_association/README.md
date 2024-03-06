@@ -134,7 +134,7 @@
 ## [SB 5367](/bill/2023-24/sb/5367/) - Products containing THC 👍2  
 * 👍 Megan Moore
 
-## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍3  
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearms/certain premises 👍3  
 
 ## [SB 5489](/bill/2023-24/sb/5489/) - Health care services/access 👍1  
 

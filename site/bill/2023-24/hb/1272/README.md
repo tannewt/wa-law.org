@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## Meetings
 ### Fri 02/16 08:00 AM - State Government & Elections (SGE): E2SHB 1272 Voters' pamphlets

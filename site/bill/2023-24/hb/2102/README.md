@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Health & Long Term Care (HLTC): SHB 2102 PFML benefits/health info.

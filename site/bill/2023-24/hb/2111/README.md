@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/04/2024 [The Spokesman-Review](/org/the_spokesman-review/) - [Washingtonians do not – and will not – have to pay personal income tax with initiative passed by the Legislature | The Spokesman-Review](https://www.spokesman.com/stories/2024/mar/04/washingtonians-do-not-and-will-not-have-to-pay-per/#:~:text=Initiative%202111)
 * 02/02/2024 [NW News Network](/org/nw_news_network/) - [First cutoff deadline, rent bill complications: A quick look at week 4 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-02/first-cutoff-deadline-rent-bill-complications-a-quick-look-at-week-4-in-the-wa-legislature#:~:text=House%20Bill%202111)
 
 ## Meetings

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/28/2024 [MyNorthwest](/org/mynorthwest/) - [Washington Senate passes bill criminalizing fertility fraud - MyNorthwest.com](https://mynorthwest.com/3952580/washington-senate-passes-bill-criminalizing-fertility-fraud/#:~:text=House%20Bill%201300)

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/07/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Farmworker Transparency Bill Advances to Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/07/legislative-news-farmworker-transparency-bill-advances-to-senate/#:~:text=House%20Bill%202226)

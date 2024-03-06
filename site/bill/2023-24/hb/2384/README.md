@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/19/2024 [House Democrats](/org/house_democrats/) - [Presupuesto de Transporte de Cámara de Representantes de Washington propone $14.3 billones para transbordadores, seguridad vial, proyectos de carreteras, pasajes para peces y más – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/19/presupuesto-de-transporte-de-camara-de-representantes-de-washington-propone-14-3-billones-para-transbordadores-seguridad-vial-proyectos-de-carreteras-pasajes-para-peces-y-mas/#:~:text=HB%202384)

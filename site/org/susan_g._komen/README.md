@@ -18,7 +18,7 @@
 
 ## [SB 5204](/bill/2023-24/sb/5204/) - Fertility services coverage 👍1  
 
-## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍1  
+## [SB 5213](/bill/2023-24/sb/5213/) - Health care benefit managers 👍1  
 
 ## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍4  
 * 👍💵 Kirsten Smith

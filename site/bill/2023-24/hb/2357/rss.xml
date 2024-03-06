@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2357/</link>
 		<description>Updates about HB 2357</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -152,6 +152,13 @@
 			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-01/Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>House refuses to concur in Senate amendments.  Asks Senate to recede from amendments.</title>
+			<description>House refuses to concur in Senate amendments.  Asks Senate to recede from amendments.</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-05/House refuses to concur in Senate amendments.  Asks Senate to recede from amendments.</guid>
 		</item>
 	</channel>
 </rss>

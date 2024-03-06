@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/05/2024 [House Democrats](/org/house_democrats/) - [Leavitt bills to support military families and veterans headed to the Governor’s desk.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/05/leavitt-bills-to-support-military-families-and-veterans-headed-to-the-governors-desk/#:~:text=House%20Bill%201869)
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%201869)
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=Keeping%20Our%20Washington%20Guard%20Strong%20Act%20(HB%201869))
 

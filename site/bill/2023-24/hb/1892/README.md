@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/01/2024 [House Democrats](/org/house_democrats/) - [Leavitt bill to accelerate construction of affordable workforce housing headed to the governor. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/01/leavitt-bill-to-accelerate-construction-of-affordable-workforce-housing-headed-to-the-governor/#:~:text=House%20Bill%201892)

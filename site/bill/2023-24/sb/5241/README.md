@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/05/2024 [The Seattle Times](/org/the_seattle_times/) - [Bill that would up oversight of WA hospital consolidations dies | The Seattle Times](https://www.seattletimes.com/seattle-news/health/bill-that-would-up-oversight-of-wa-hospital-consolidations-dies/#:~:text=Senate%20Bill%205241)
+* 03/04/2024 [House Republicans](/org/house_republicans/) - [The last four days of the 2024 legislative session | Washington State House Republicans](http://houserepublicans.wa.gov/current/the-last-four-days-of-the-2024-legislative-session/#:~:text=Senate%20Bill%205241)
 * 02/23/2024 [The Seattle Times](/org/the_seattle_times/) - [How a bill could affect health care consolidations, patient care in WA | The Seattle Times](https://www.seattletimes.com/seattle-news/health/how-a-bill-could-effect-health-care-consolidations-patient-care-in-wa/#:~:text=Senate%20Bill%205241)
 * 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%205241)
 * 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%205241)

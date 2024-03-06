@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 03/05/2024 [The Seattle Times](/org/the_seattle_times/) - [Mayor Harrell proposes housing density in every Seattle neighborhood | The Seattle Times](https://www.seattletimes.com/seattle-news/mayor-harrell-proposes-housing-density-in-every-seattle-neighborhood/#:~:text=House%20Bill%201110)
 * 02/16/2024 [The Urbanist](/org/the_urbanist/) - [Tacoma’s Grand Rezoning Plan Comes into View - The Urbanist](https://www.theurbanist.org/2024/02/16/tacomas-grand-rezoning-plan-comes-into-view/#:~:text=House%20Bill%201110)
 * 02/13/2024 [PubliCola](/org/publicola/) - [Seattle's MHA Program Should Come with a Tax Break, Not a Fee - PubliCola](https://publicola.com/2024/02/13/seattles-mha-program-should-come-with-a-tax-break-not-a-fee/#:~:text=HB%201110)
 * 02/09/2024 [The Urbanist](/org/the_urbanist/) - [Bellevue Unveils Bold Growth Strategy for 152,000 Additional Homes - The Urbanist](https://www.theurbanist.org/2024/02/09/bellevue-unveils-bold-growth-strategy-for-152000-additional-homes/#:~:text=1110)

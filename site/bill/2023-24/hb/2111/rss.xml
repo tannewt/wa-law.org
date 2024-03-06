@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2111/</link>
 		<description>Updates about HB 2111</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -108,6 +108,27 @@
 			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-01/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Washingtonians do not – and will not – have to pay personal income tax with initiative passed by the Legislature | The Spokesman-Review</title>
+			<description>News article &quot;Washingtonians do not – and will not – have to pay personal income tax with initiative passed by the Legislature | The Spokesman-Review&quot; from The Spokesman-Review.</description>
+			<pubDate>Mon, 04 Mar 2024 18:01:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.spokesman.com/stories/2024/mar/04/washingtonians-do-not-and-will-not-have-to-pay-per/#:~:text=Initiative%202111</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-05/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-05/President signed.</guid>
 		</item>
 	</channel>
 </rss>

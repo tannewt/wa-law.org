@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2260/</link>
 		<description>Updates about HB 2260</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 02 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 04 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -136,6 +136,13 @@
 			<pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://gorgenewscenter.com/2024/03/02/washington-state-senate-passes-three-bipartisan-bills-from-rep-kevin-waters/#:~:text=House%20Bill%202260</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-04/Delivered to Governor.</guid>
 		</item>
 	</channel>
 </rss>

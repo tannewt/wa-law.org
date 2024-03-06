@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6316/</link>
 		<description>Updates about SB 6316</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 01 Mar 2024 02:06:50 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -88,6 +88,13 @@
 			<pubDate>Fri, 01 Mar 2024 02:06:50 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://mynorthwest.com/3952904/expanded-tolling-sr-520-finish-project-may-be-coming/#:~:text=SB%206316</guid>
+		</item>
+		<item>
+			<title>Placed on second reading.</title>
+			<description>Placed on second reading.</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-05/Placed on second reading.</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 03/02/2024 [KIRO7](/org/kiro7/) - [Washington legislature unanimously passes bill to help over 35,000 veterans – KIRO 7 News Seattle](https://www.kiro7.com/news/local/washington-legislature-unanimously-passes-bill-help-over-35000-veterans/AA3ERPZXBRGZ7ESTT5ZQUZ2PKE/#:~:text=House%20Bill%20(HB)%202014)

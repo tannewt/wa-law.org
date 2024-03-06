@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/28/2024 [Gorge News Center](/org/gorge_news_center/) - [Waters bipartisan fish barrier removal bill receives full support from the Senate](https://gorgenewscenter.com/2024/02/28/waters-bipartisan-fish-barrier-removal-bill-receives-full-support-from-the-senate/#:~:text=House%20Bill%202045)

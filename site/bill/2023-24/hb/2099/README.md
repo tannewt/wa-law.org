@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 03/01/2024 [House Democrats](/org/house_democrats/) - [Farivar Bill Makes Reentry Easier for Released Individuals with State-Issued IDs  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/01/farivar-bill-makes-reentry-easier-for-released-individuals-with-state-issued-ids/#:~:text=House%20Bill%202099)

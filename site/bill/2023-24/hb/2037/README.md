@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/05/2024 [Crosscut](/org/crosscut/) - [How the Israel/Hamas war influenced a WA genocide education bill | Crosscut](https://crosscut.com/politics/2024/03/how-israelhamas-war-influenced-wa-genocide-education-bill#:~:text=House%20Bill%202037)
 * 02/24/2024 [The Seattle Times](/org/the_seattle_times/) - [Holocaust education requirement fails in WA Legislature | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/holocaust-education-requirement-fails-in-wa-legislature/#:~:text=House%20Bill%202037,)
 * 02/13/2024 [MyNorthwest](/org/mynorthwest/) - [Rantz: 'Hamas amendment' added to Holocaust education bill - MyNorthwest.com](https://mynorthwest.com/3950429/rantz-democrats-add-hamas-amendment-to-holocaust-education-bill/#:~:text=House%20Bill%202037)
 * 02/08/2024 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Alaska Airlines Door Plug Was Improperly Reinstalled; Legislative Bills Would Require Genocide Education in Public Schools | South Seattle Emerald](https://southseattleemerald.com/2024/02/07/news-gleams-alaska-airlines-door-plug-was-improperly-reinstalled-legislative-bills-would-require-genocide-education-in-public-schools/#:~:text=HB%202037)

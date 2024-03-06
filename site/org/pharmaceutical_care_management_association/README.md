@@ -1,6 +1,6 @@
 # Pharmaceutical Care Management Association
 
-## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers  👎1 ❓1
+## [SB 5213](/bill/2023-24/sb/5213/) - Health care benefit managers  👎1 ❓1
 * 👎 Tonia Sorrell-Neal
 * ❓ Tonia Sorrell-Neal
 

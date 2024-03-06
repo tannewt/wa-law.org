@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 02/12/2024 [FOX13](/org/fox13/) - [Senate bill asking for $770M for paraeducators, some say it's focused on the wrong thing](https://www.fox13seattle.com/news/senate-bill-asking-for-770m-for-paraeducators-some-say-its-focused-on-the-wrong-thing#:~:text=SB%205882)

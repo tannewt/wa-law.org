@@ -19,7 +19,7 @@ Testifying:
 * Isaac Wagnitz - UFCW Local 367
 * Britt Leggett
 * Jennifer MaCabe
-* Tom Lambro - UFCW 3000
+* 💵Tom Lambro - UFCW 3000
 * Heiderose Miller - Sale’s Associate @Macy’s
 
 #### 27 👎 - Con
@@ -33,7 +33,7 @@ Testifying:
 Testifying:
 * Isaac Wagnitz - UFCW Local 367
 * Celeste Rogers
-* Tom Lambro - UFCW 3000
+* 💵Tom Lambro - UFCW 3000
 * Yasmin Ashur
 * James Perez
 * 💵Michael Whalen - UFCW367

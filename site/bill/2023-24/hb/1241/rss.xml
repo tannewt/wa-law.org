@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1241/</link>
 		<description>Updates about HB 1241</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 23 Feb 2024 22:27:33 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -223,6 +223,13 @@
 			<pubDate>Fri, 23 Feb 2024 22:27:33 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.nwnewsnetwork.org/government-and-politics/2024-02-23/budgets-initiative-hearings-top-agenda-in-week-7-of-washingtons-legislative-session#:~:text=House%20Bill%201241</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-05/Speaker signed.</guid>
 		</item>
 	</channel>
 </rss>

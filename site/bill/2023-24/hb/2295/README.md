@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/13/2024 [House Democrats](/org/house_democrats/) - [Hospital-at-home program may continue in WA thanks to Rep. Bateman’s HB 2295 – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/13/hospital-at-home-program-may-continue-in-wa-thanks-to-rep-batemans-hb-2295/#:~:text=House%20Bill%202295)

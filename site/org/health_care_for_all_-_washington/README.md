@@ -12,7 +12,7 @@
 
 ## [HB 2041](/bill/2023-24/hb/2041/) - Physician assistant practice 👍1  
 
-## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍2  
+## [SB 5213](/bill/2023-24/sb/5213/) - Health care benefit managers 👍2  
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍1  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1300/</link>
 		<description>Updates about HB 1300</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Feb 2024 03:16:17 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -145,6 +145,13 @@
 			<pubDate>Wed, 28 Feb 2024 03:16:17 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://mynorthwest.com/3952580/washington-senate-passes-bill-criminalizing-fertility-fraud/#:~:text=House%20Bill%201300</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 93; nays, 0; absent, 0; excused, 4.</title>
+			<description>Passed final passage; yeas, 93; nays, 0; absent, 0; excused, 4.</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-05/Passed final passage; yeas, 93; nays, 0; absent, 0; excused, 4.</guid>
 		</item>
 	</channel>
 </rss>

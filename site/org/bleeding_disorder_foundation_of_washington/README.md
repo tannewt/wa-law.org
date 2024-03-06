@@ -79,7 +79,7 @@
 
 ## [SB 5177](/bill/2023-24/sb/5177/) - Organ transport vehicles 👍1  
 
-## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍2  
+## [SB 5213](/bill/2023-24/sb/5213/) - Health care benefit managers 👍2  
 
 ## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍5  
 * 👍💵 Stephanie Simpson

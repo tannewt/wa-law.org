@@ -58,7 +58,7 @@
 
 ## [SB 5388](/bill/2023-24/sb/5388/) - Diversity in clinical trials 👍1  
 
-## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍2  
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearms/certain premises 👍2  
 
 ## [SB 5499](/bill/2023-24/sb/5499/) - Multistate nurse licensure 👍2  
 

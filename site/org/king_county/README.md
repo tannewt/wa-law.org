@@ -529,7 +529,7 @@
 
 ## [SB 5208](/bill/2023-24/sb/5208/) - Online voter registration 👍2  
 
-## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers 👍1  
+## [SB 5213](/bill/2023-24/sb/5213/) - Health care benefit managers 👍1  
 
 ## [SB 5219](/bill/2023-24/sb/5219/) - Counseling compact 👍2  
 
@@ -638,7 +638,7 @@
 * 👍💵 Michael White
 * 👍💵 Michael White
 
-## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍1  
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearms/certain premises 👍1  
 
 ## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍3  
 
@@ -713,7 +713,7 @@
 
 ## [SB 5774](/bill/2023-24/sb/5774/) - Fingerprint backgr. checks 👍2  
 
-## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
+## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose med./schools 👍1  
 
 ## [SB 5821](/bill/2023-24/sb/5821/) - Audio-only telemedicine 👍1  
 

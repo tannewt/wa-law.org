@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/05/2024 [House Democrats](/org/house_democrats/) - [Leavitt bills to support military families and veterans headed to the Governor’s desk.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/05/leavitt-bills-to-support-military-families-and-veterans-headed-to-the-governors-desk/#:~:text=House%20Bill%201943)
 * 02/15/2024 [House Democrats](/org/house_democrats/) - [House passes Leavitt bills to support National Guard families and veterans with disabilities – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/15/house-passes-leavitt-bills-to-support-national-guard-families-and-veterans-with-disabilities/#:~:text=House%20Bill%201943)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%201943)
 

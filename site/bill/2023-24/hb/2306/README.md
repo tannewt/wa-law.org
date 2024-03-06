@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/16/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Steele’s bill to offer additional tax credits to Main Street businesses gains House approval](https://gorgenewscenter.com/2024/02/16/rep-steeles-bill-to-offer-additional-tax-credits-to-main-street-businesses-gains-house-approval/#:~:text=House%20Bill%202306)

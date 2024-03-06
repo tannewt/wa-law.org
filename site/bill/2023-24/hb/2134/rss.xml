@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2134/</link>
 		<description>Updates about HB 2134</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 27 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 06 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -294,6 +294,13 @@
 			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-27/Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Conference committee report; received 11:25 PM 3/6/2024.</title>
+			<description>Conference committee report; received 11:25 PM 3/6/2024.</description>
+			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-06/Conference committee report; received 11:25 PM 3/6/2024.</guid>
 		</item>
 	</channel>
 </rss>

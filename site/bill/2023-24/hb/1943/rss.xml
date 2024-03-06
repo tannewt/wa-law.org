@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1943/</link>
 		<description>Updates about HB 1943</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -263,6 +263,20 @@
 			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-01/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 96; nays, 0; absent, 0; excused, 1.</title>
+			<description>Passed final passage; yeas, 96; nays, 0; absent, 0; excused, 1.</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-05/Passed final passage; yeas, 96; nays, 0; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Leavitt bills to support military families and veterans headed to the Governor’s desk.  – Washington State House Democrats</title>
+			<description>News article &quot;Leavitt bills to support military families and veterans headed to the Governor’s desk.  – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/03/05/leavitt-bills-to-support-military-families-and-veterans-headed-to-the-governors-desk/#:~:text=House%20Bill%201943</guid>
 		</item>
 	</channel>
 </rss>

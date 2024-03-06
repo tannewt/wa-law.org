@@ -907,7 +907,7 @@
 
 ## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍2  
 
-## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍2  
+## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose med./schools 👍2  
 
 ## [SB 5808](/bill/2023-24/sb/5808/) - Safety telecom/interest arb. 👍1  
 

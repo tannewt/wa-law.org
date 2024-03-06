@@ -6,8 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/06/2024 [The Urbanist](/org/the_urbanist/) - [In Trees Versus Parking War, Washington Just Gave Trees A Leg Up - The Urbanist](https://www.theurbanist.org/2024/03/06/in-trees-versus-parking-war-washington-just-gave-trees-a-leg-up/#:~:text=Senate%20Bill%206015)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024#:~:text=SB%206015)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=SB%206015)
 

@@ -7,8 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/06/2024 [MyNorthwest](/org/mynorthwest/) - [Strippers, book bans, guns: Partisan divide persists in Olympia - MyNorthwest.com](https://mynorthwest.com/3953688/strippers-book-bans-guns-examples-of-partisan-divide-persist-in-olympia/#:~:text=ESSB%206105)
+* 03/05/2024 [FOX13](/org/fox13/) - [Washington's ‘Stripper Bill of Rights’: Proposed bill aims to protect sex workers](https://www.fox13seattle.com/news/washingtons-stripper-bill-of-rights-proposed-bill-aims-to-protect-sex-workers#:~:text=Senate%20Bill%206105)
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=Senate%20Bill%206105)
 * 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=Senate%20Bill%206105)
 * 02/29/2024 [MyNorthwest](/org/mynorthwest/) - ['Strippers Bill of Rights' headed to the state Senate - MyNorthwest.com](https://mynorthwest.com/3952761/strippers-bill-of-rights-takes-big-step-forward-in-state-legislature/#:~:text=Senate%20Bill%206105)

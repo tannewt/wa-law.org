@@ -20,7 +20,7 @@
 
 ## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍1  
 
-## [SB 5213](/bill/2023-24/sb/5213/) - Pharmacy benefit managers  👎2 
+## [SB 5213](/bill/2023-24/sb/5213/) - Health care benefit managers  👎2 
 * 👎 Christine Radkey
 
 ## [SB 5338](/bill/2023-24/sb/5338/) - Essential health benefits 👍1  

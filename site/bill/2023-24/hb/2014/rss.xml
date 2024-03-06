@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2014/</link>
 		<description>Updates about HB 2014</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 02 Mar 2024 19:12:27 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 06 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -203,6 +203,13 @@
 			<pubDate>Sat, 02 Mar 2024 19:12:27 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.kiro7.com/news/local/washington-legislature-unanimously-passes-bill-help-over-35000-veterans/AA3ERPZXBRGZ7ESTT5ZQUZ2PKE/#:~:text=House%20Bill%20(HB)%202014</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-06/Delivered to Governor.</guid>
 		</item>
 	</channel>
 </rss>

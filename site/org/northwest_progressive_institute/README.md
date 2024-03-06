@@ -203,7 +203,7 @@
 
 ## [SB 5427](/bill/2023-24/sb/5427/) - Hate crimes & bias incidents 👍2  
 
-## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍1  
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearms/certain premises 👍1  
 
 ## [SB 5459](/bill/2023-24/sb/5459/) - Election info. requests 👍2  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1963/</link>
 		<description>Updates about HB 1963</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 06 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -136,6 +136,13 @@
 			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/03/01/senate-passes-bill-prohibiting-license-plate-covers/#:~:text=House%20Bill%201963</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-06/Delivered to Governor.</guid>
 		</item>
 	</channel>
 </rss>

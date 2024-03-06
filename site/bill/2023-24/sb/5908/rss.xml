@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5908/</link>
 		<description>Updates about SB 5908</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 01 Mar 2024 22:10:10 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 04 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -333,6 +333,13 @@
 			<pubDate>Fri, 01 Mar 2024 22:10:10 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%205908</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 38; nays, 11; absent, 0; excused, 0.</title>
+			<description>Passed final passage; yeas, 38; nays, 11; absent, 0; excused, 0.</description>
+			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-04/Passed final passage; yeas, 38; nays, 11; absent, 0; excused, 0.</guid>
 		</item>
 	</channel>
 </rss>

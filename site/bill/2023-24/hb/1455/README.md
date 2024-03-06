@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/04/2024 [The Center Square](/org/the_center_square/) - [State lawmakers approve bill to ban child marriages in Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d706e7ba-da73-11ee-94a5-7bd68d1be6ea.html#:~:text=House%20Bill%201455)
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201455)
 * 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201455)
 * 02/26/2024 [FOX13](/org/fox13/) - [Bill banning child marriage in Washington; moves to governor's desk](https://www.fox13seattle.com/news/bill-banning-child-marriage-in-washington-moves-to-governors-desk#:~:text=House%20Bill%201455,)

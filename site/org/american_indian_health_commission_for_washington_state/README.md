@@ -58,7 +58,7 @@
 
 ## [SB 5588](/bill/2023-24/sb/5588/) - Mental health sentencing alt 👍1  
 
-## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍2  
+## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose med./schools 👍2  
 
 ## [SB 5811](/bill/2023-24/sb/5811/) - Expanding the definition of family member for individual providers. 👍2  
 

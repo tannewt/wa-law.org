@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2056/</link>
 		<description>Updates about HB 2056</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -170,6 +170,20 @@
 			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-01/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 96; nays, 0; absent, 0; excused, 1.</title>
+			<description>Passed final passage; yeas, 96; nays, 0; absent, 0; excused, 1.</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-05/Passed final passage; yeas, 96; nays, 0; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Goodman legislation to protect Supreme Court justices heads to governor. – Washington State House Democrats</title>
+			<description>News article &quot;Goodman legislation to protect Supreme Court justices heads to governor. – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/03/05/goodman-legislation-to-protect-supreme-court-justices-heads-to-governor/#:~:text=House%20Bill%202056</guid>
 		</item>
 	</channel>
 </rss>

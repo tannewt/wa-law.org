@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/05/2024 [House Democrats](/org/house_democrats/) - [Shavers’ bill to expand health care education headed to the governor. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/05/shavers-bill-to-expand-health-care-education-headed-to-the-governor/#:~:text=House%20Bill%202236)
 * 01/15/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/15/the-house-hot-sheet-for-week-2-of-the-2024-legislative-session/#:~:text=HB%202236)
 
 ## Meetings

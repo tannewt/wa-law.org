@@ -381,7 +381,7 @@
 
 ## [SB 5435](/bill/2023-24/sb/5435/) - Residential rent increases 👍1  
 
-## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍3  
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearms/certain premises 👍3  
 
 ## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development   ❓2
 
@@ -421,7 +421,7 @@
 
 ## [SB 5793](/bill/2023-24/sb/5793/) - Paid sick leave 👍1  
 
-## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍2  
+## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose med./schools 👍2  
 
 ## [SB 5812](/bill/2023-24/sb/5812/) - Electric vehicle fires 👍2  
 

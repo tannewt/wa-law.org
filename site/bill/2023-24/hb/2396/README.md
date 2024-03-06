@@ -6,8 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/05/2024 [Gorge News Center](/org/gorge_news_center/) - [Mosbrucker fentanyl bills gain Senate approval, one step closer to the governor’s desk](https://gorgenewscenter.com/2024/03/05/mosbrucker-fentanyl-bills-gain-senate-approval-one-step-closer-to-the-governors-desk/#:~:text=House%20Bill%202396)
 * 01/27/2024 [The Seattle Times](/org/the_seattle_times/) - [Ivan’s Law would promote fentanyl prevention, services, testing | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/ivans-law-would-promote-fentanyl-prevention-services-testing/#:~:text=House%20Bill%202396)
 * 01/26/2024 [The Center Square](/org/the_center_square/) - ['Can you please just help us?' WA lawmakers bill to address the fentanyl crisis | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_84dcd208-bc80-11ee-ba76-0bf71aa1a635.html#:~:text=House%20Bill%202396)
 * 01/24/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Gina Mosbrucker leads the fight for added protections from fentanyl](https://gorgenewscenter.com/2024/01/24/rep-gina-mosbrucker-leads-the-fight-for-added-protections-from-fentanyl/#:~:text=House%20Bill%202396)

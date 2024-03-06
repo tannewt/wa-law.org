@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 03/01/2024 [KIRO7](/org/kiro7/) - [Washington to enhance survivor benefits for families of rideshare drivers – KIRO 7 News Seattle](https://www.kiro7.com/news/local/washington-enhance-survivor-benefits-families-rideshare-drivers/FVMPW3KM6RHELPDX4DLHUDEKRU/#:~:text=HB%202382)

@@ -7,8 +7,12 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/06/2024 [MyNorthwest](/org/mynorthwest/) - [Strippers, book bans, guns: Partisan divide persists in Olympia - MyNorthwest.com](https://mynorthwest.com/3953688/strippers-book-bans-guns-examples-of-partisan-divide-persist-in-olympia/#:~:text=ESHB%202118)
+* 03/04/2024 [Crosscut](/org/crosscut/) - [WA legislators are pushing new gun bills. Here’s what could pass | Crosscut](https://crosscut.com/politics/2024/03/wa-legislators-are-pushing-new-gun-bills-heres-what-could-pass#:~:text=House%20Bill%202118)
+* 03/04/2024 [House Republicans](/org/house_republicans/) - [The last four days of the 2024 legislative session | Washington State House Republicans](http://houserepublicans.wa.gov/current/the-last-four-days-of-the-2024-legislative-session/#:~:text=House%20Bill%202118)
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%202118)
 * 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%202118)
 * 02/28/2024 [The Center Square](/org/the_center_square/) - ['Death sentence' for gun dealers passes the Washington Senate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_39d43eb2-d68a-11ee-b076-9f55ee291e65.html#:~:text=Engrossed%20Substitute%20House%20Bill%202118)

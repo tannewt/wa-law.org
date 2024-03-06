@@ -8,6 +8,10 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
+
+## 📰 Articles
+* 03/05/2024 [House Democrats](/org/house_democrats/) - [Street sends three bills to the governor’s desk – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/05/street-sends-three-bills-to-the-governors-desk/#:~:text=House%20Bill%202354)
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Ways & Means (WM): E2SHB 2354 Tax increment areas

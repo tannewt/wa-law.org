@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5427/</link>
 		<description>Updates about SB 5427</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 02 Mar 2024 06:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 04 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -768,6 +768,13 @@
 			<pubDate>Sat, 02 Mar 2024 06:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/wa-to-establish-hotline-for-hate-crimes-and-bias-incidents/#:~:text=Senate%20Bill%205427</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-04/Speaker signed.</guid>
 		</item>
 	</channel>
 </rss>

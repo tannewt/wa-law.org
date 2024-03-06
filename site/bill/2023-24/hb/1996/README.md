@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 02/20 10:30 AM - Labor & Commerce (LC): SHB 1996 RV manufacturers and dealers

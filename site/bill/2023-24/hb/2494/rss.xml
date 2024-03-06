@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2494/</link>
 		<description>Updates about HB 2494</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -490,6 +490,13 @@
 			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-01/Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 93; nays, 0; absent, 0; excused, 4.</title>
+			<description>Passed final passage; yeas, 93; nays, 0; absent, 0; excused, 4.</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-05/Passed final passage; yeas, 93; nays, 0; absent, 0; excused, 4.</guid>
 		</item>
 	</channel>
 </rss>

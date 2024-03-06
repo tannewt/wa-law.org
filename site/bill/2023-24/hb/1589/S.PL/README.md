@@ -1,0 +1,584 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 1589](/bill/2023-24/hb/1589/) > [Passed Legislature](/bill/2023-24/hb/1589/S.PL/)
+
+# HB 1589 - Clean energy
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/House%20Passed%20Legislature/1589-S.PL.pdf)
+
+## Section 1
+1. The legislature finds that the state's gas and electrical companies face transformational change brought on by new technology, emerging opportunities for customers, and state clean energy laws. Chapter 19.405 RCW, the Washington clean energy transformation act, and chapter 70A.65 RCW, the Washington climate commitment act, require these companies to find innovative and creative solutions to equitably serve their customers, provide clean energy, reduce emissions, and keep rates fair, just, reasonable, and sufficient.
+
+2. Gas companies that serve over 500,000 gas customers in Washington state, which are also electrical companies, or large combination utilities, play an important role in providing affordable and reliable heating and other energy services, and in leading the implementation of state climate policies. As the state transitions to cleaner sources of energy, large combination utilities are an important partner in helping their customers make smart energy choices, including actively supporting the replacement of fossil fuel-based space and water heating equipment and other fossil fuel-based equipment with high-efficiency nonemitting equipment. Programs to accelerate the adoption of efficient, nonemitting appliances have the potential to allow large combination utilities to optimize the use of energy infrastructure, improve the management of energy loads, better manage the integration of variable renewable energy resources, reduce greenhouse gas emissions from the buildings sector, mitigate the environmental impacts of utility operations and power purchases, and improve health outcomes for occupants. Legislative clarity is important for utilities to offer programs and services, including incentives, in the decarbonization of homes and buildings for their customers.
+
+3. In order to meet the statewide greenhouse gas limits in the energy sectors of the economy, more resources must be directed toward achieving decarbonization of residential and commercial heating loads and other loads that are served with fossil fuels, while continuing to protect all customers, but especially low-income customers, vulnerable populations, highly impacted communities, and overburdened communities. The legislature finds that regulatory innovation may be needed to remove barriers that large combination utilities may face to meet the state's public policy objectives and expectations. The enactment of chapter 188, Laws of 2021 (Engrossed Substitute Senate Bill No. 5295) began that regulatory transition from traditional cost-of-service regulation, with investor-owned gas and electrical companies using forward-looking multiyear rate plans and taking steps toward performance-based regulation. These steps are intended to provide certainty and stability to both customers and to investor-owned gas and electrical companies, aligning public policy objectives with investments, safety, and reliability.
+
+4. The legislature finds that as Washington transitions to 100 percent clean electricity and as the state implements the Washington climate commitment act, switching from fossil fuel-based heating equipment and other fossil fuel-based appliances to high-efficiency nonemitting equipment will reduce climate impacts and fuel price risks for customers in the long term. This new paradigm requires a thoughtful transition to decarbonize the energy system to ensure that all customers benefit from the transition, that customers are protected, are not subject to sudden price shocks, and continue to receive needed energy services, with an equitable allocation of benefits and burdens. This transition will require careful and integrated planning by and between utilities, the commission, and customers, as well as new regulatory tools.
+
+5. It is the intent of the legislature to require large combination utilities to decarbonize their systems by: (a) Prioritizing efficient and cost-effective measures to transition customers off of the direct use of fossil fuels at the lowest reasonable cost to customers; (b) investing in the energy supply, storage, delivery, and demand-side resources that will be needed to serve any increase in electrical demand affordably and reliably; (c) maintaining safety and reliability as the gas system undergoes transformational changes; (d) integrating zero-carbon and carbon-neutral fuels to serve high heat and industrial loads where electrification may not be technically feasible; (e) managing peak demand of the electric system; and (f) ensuring an equitable distribution of benefits to, and reduction of burdens for, vulnerable populations, highly impacted communities, and overburdened communities that have historically been underserved by utility energy efficiency programs, and may be disproportionately impacted by rising fuel and equipment costs or experience high energy burden.
+
+6. It is the intent of the legislature to support this transition by adopting requirements for large combination utilities to conduct integrated system planning to develop specific actions supporting gas system decarbonization and electrification, and reduction in the gas rate base.
+
+7. It is the intent of the legislature to encourage a robust competitive wholesale market for generation, storage, and demand-side resources to serve the state's electrical companies, other electric utilities, and end-users that secure their own power supply.
+
+## Section 2
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Carbon dioxide equivalent" has the same meaning as provided in RCW 70A.65.010.
+
+2. "Combined heat and power" has the same meaning as provided in RCW 19.280.020.
+
+3. "Commission" means the utilities and transportation commission.
+
+4. "Conservation and efficiency resources" means any reduction in electric or natural gas consumption that results from increases in the efficiency of energy use, production, transmission, transportation, or distribution.
+
+5. "Cost effective" means that a project or resource is, or is forecast to:
+
+    a. Be reliable and available within the time it is needed; and
+
+    b. Reduce greenhouse gas emissions and meet or reduce the energy demand or supply an equivalent level of energy service to the intended customers at an estimated long-term incremental system cost no greater than that of the least-cost similarly reliable and available alternative project or resource, or any combination thereof, including the cost of compliance with chapter 70A.65 RCW, based on the forward allowance ceiling price of allowances approved by the department of ecology under RCW 70A.65.160.
+
+6. "Costs of greenhouse gas emissions" means the costs of greenhouse gas emissions established in RCW 80.28.395 and 80.28.405.
+
+7. "Delivery system" includes any power line, pipe, equipment, apparatus, mechanism, machinery, instrument, or ancillary facility used by a large combination utility to deliver electricity or gas for ultimate consumption by a customer of the large combination utility.
+
+8. "Demand flexibility" means the capacity of demand-side loads to change their consumption patterns hourly or on another timescale.
+
+9. "Electrical company" has the same meaning as provided in RCW 80.04.010.
+
+10. [Empty]
+
+    a. "Electrification" means the installation of energy efficient electric end-use equipment.
+
+    b. Electrification programs may include weatherization and conservation and efficiency measures.
+
+11. "Electrification readiness" means upgrades or changes required before the installation of energy efficient electric end-use equipment to prevent heat loss from homes including, but not limited to: Structural repairs, such as roof repairs, preweatherization, weatherization, and electrical panel and wiring upgrades.
+
+12. "Emissions baseline" means the actual cumulative greenhouse gas emissions of a large combination utility, calculated pursuant to chapter 70A.65 RCW, for the five-year period beginning January 1, 2015, and ending December 31, 2019.
+
+13. "Emissions reduction period" means one of five periods of five calendar years each, with the five periods beginning on January 1st of calendar years 2030, 2035, 2040, 2045, and 2050, respectively.
+
+14. "Emissions reduction target" means a targeted reduction of projected cumulative greenhouse gas emissions of a large combination utility approved by the commission for an emissions reduction period that is at least as stringent as the limits established in RCW 70A.45.020.
+
+15. "Gas company" has the same meaning as provided in RCW 80.04.010.
+
+16. "Geographically targeted electrification" means the geographically targeted transition of a portion of gas customers of the large combination utility with an intent to electrify loads of such customers and, in conjunction, to reduce capital and operational costs of gas operations of the large combination utility serving such customers.
+
+17. "Greenhouse gas" has the same meaning as provided in RCW 70A.45.010.
+
+18. "Highly impacted community" has the same meaning as provided in RCW 19.405.020.
+
+19. "Integrated system plan" means a plan that the commission may approve, reject, or approve with conditions pursuant to section 3 of this act.
+
+20. "Large combination utility" means a public service company that is both an electrical company and a gas company that serves more than 800,000 retail electric customers and 500,000 retail gas customers in the state of Washington as of June 30, 2024.
+
+21. "Low-income" has the same meaning as provided in RCW 19.405.020.
+
+22. "Lowest reasonable cost" means the lowest cost mix of demand-side and supply side resources and decarbonization measures determined through a detailed and consistent analysis of a wide range of commercially available resources and measures. At a minimum, this analysis must consider long-term costs and benefits, market-volatility risks, resource uncertainties, resource dispatchability, resource effect on system operation, the risks imposed on the large combination utility and its ratepayers, public policies regarding resource preference adopted by Washington state or the federal government, the cost of risks associated with environmental effects including potential spills and emissions of carbon dioxide, and the need for security of supply.
+
+23. "Multiyear rate plan" means a multiyear rate plan of a large combination utility filed with the commission pursuant to RCW 80.28.425.
+
+24. "Natural gas" has the same meaning as provided in RCW 19.405.020.
+
+25. "Nonemitting electric generation" has the same meaning as provided in RCW 19.405.020.
+
+26. "Nonpipeline alternative" means activities or investments that delay, reduce, or avoid the need to build, upgrade, or repair gas plant, such as pipelines and service lines.
+
+27. "Overburdened community" has the same meaning as provided in RCW 70A.65.010.
+
+28. "Overgeneration event" has the same meaning as provided in RCW 19.280.020.
+
+29. "Renewable resource" has the same meaning as provided in RCW 19.405.020.
+
+30. "Supply side resource" means, as applicable: (a) Any resource that can provide capacity, electricity, or ancillary services to the large combination utility's electric delivery system; or (b) any resource that can provide conventional or nonconventional gas supplies to the large combination utility's gas delivery system.
+
+31. "System cost" means actual direct costs or an estimate of all direct costs of a project or resource over its effective life including, if applicable: The costs of transmission and distribution to the customers; waste disposal costs; permitting, siting, mitigation, and end-of-cycle decommissioning and remediation costs; fuel costs, including projected increases; resource integration and balancing costs; and such quantifiable environmental costs and benefits and other energy and nonenergy benefits as are directly attributable to the project or resource, including flexibility, resilience, reliability, greenhouse gas emissions reductions, and air quality.
+
+32. "Vulnerable populations" has the same meaning as provided in RCW 19.405.020.
+
+## Section 3
+1. The legislature finds that large combination utilities are subject to a range of reporting and planning requirements as part of the clean energy transition. The legislature further finds that current natural gas integrated resource plans under development might not yield optimal results for timely and cost-effective decarbonization. To reduce regulatory barriers, achieve equitable and transparent outcomes, and integrate planning requirements, the commission may consolidate a large combination utility's planning requirements for both gas and electric operations, including consolidation into a single integrated system plan that is approved by the commission.
+
+2. [Empty]
+
+    a. By July 1, 2025, the commission shall complete a rule-making proceeding to implement consolidated planning requirements for gas and electric services for large combination utilities that may include plans required under: (i) RCW 19.280.030; (ii) RCW 19.285.040; (iii) RCW 19.405.060; (iv) RCW 80.28.380; (v) RCW 80.28.365; (vi) RCW 80.28.425; and (vii) RCW 80.28.130. The commission may extend the rule-making proceeding for 90 days for good cause shown. The large combination utilities' filing deadline required in subsection (4) of this section will be extended commensurate to the rule-making extension period set by the commission. Subsequent planning requirements for future integrated system plans must be fulfilled on a timeline set by the commission. Large combination utilities that file integrated system plans are no longer required to file separate plans that are required in an integrated system plan. The statutorily required contents of any plan consolidated into an integrated system plan must be met by the integrated system plan.
+
+    b. In its order adopting rules or issuing a policy statement approving the consolidation of planning requirements, the commission shall include a compliance checklist and any additional guidance that is necessary to assist the large combination utility in meeting the minimum requirements of all relevant statutes and rules.
+
+3. Upon request by a large combination utility, the commission may issue an order extending the filing and reporting requirements of a large combination utility under RCW 19.405.060 and 19.280.030, and requiring the large combination utility to file an integrated system plan pursuant to subsection (4) of this section if the commission finds that the large combination utility has made public a work plan that demonstrates reasonable progress toward meeting the standards under RCW 19.405.040(1) and 19.405.050(1) and achieving equity goals. The commission's approval of an extension of filing and reporting requirements does not relieve the large combination utility from the obligation to demonstrate progress towards meeting the standards under RCW 19.405.040(1) and 19.405.050(1) and the interim targets approved in its most recent clean energy implementation plan. Commission approval of an extension under this section fulfills the large combination utilities statutory filing deadlines under RCW 19.405.060(1).
+
+4. By January 1, 2027, and on a timeline set by the commission thereafter, large combination utilities shall file an integrated system plan demonstrating how the large combination utilities' plans are consistent with the requirements of this chapter and any rules and guidance adopted by the commission, and which:
+
+    a. Achieve the obligations of all plans consolidated into the integrated system plan;
+
+    b. Provide a range of forecasts, for at least the next 20 years, of projected customer demand that takes into account econometric data and addresses changes in the number, type, and efficiency of customer usage;
+
+    c. Include scenarios that achieve emissions reductions for both gas and electric operations equal to at least their proportional share of emissions reductions required under RCW 70A.45.020;
+
+    d. Include scenarios with emissions reduction targets for both gas and electric operations for each emissions reduction period that account for the interactions between gas and electric systems;
+
+    e. Achieve two percent of electric load annually with conservation and energy efficiency resources, unless the commission finds that a higher target is cost effective. However, the commission may accept a lower level of achievement if it determines that the requirement in this subsection (4)(e) is neither technically nor commercially feasible during the applicable emissions reduction period;
+
+    f. Assess commercially available conservation and efficiency resources, including demand response and load management, to achieve the conservation and energy efficiency requirements in (e) of this subsection, and as informed by the assessment for conservation potential under RCW 19.285.040 for the planning horizon consistent with (b) of this subsection. Such an assessment may include, as appropriate, opportunities for development of combined heat and power as an energy and capacity resource, demand response and load management programs, and currently employed and new policies and programs needed to obtain the conservation and efficiency resources. The value of recoverable waste heat resulting from combined heat and power must be reflected in analyses of cost effectiveness under this subsection;
+
+    g. Achieve annual demand response and demand flexibility equal to or greater than 10 percent of winter and summer peak electric demand, unless the commission finds that a higher target is cost effective. However, the commission may accept a lower level of achievement if it determines that the requirement in this subsection (4)(g) is neither technically nor commercially feasible during the applicable emissions reduction period;
+
+    h. Achieve all cost-effective electrification of end uses currently served by natural gas identified through an assessment of alternatives to known and planned gas infrastructure projects, including nonpipeline alternatives, rebates and incentives, and geographically targeted electrification;
+
+        i. Include low-income electrification programs that must:
+
+        i. Include rebates and incentives to low-income customers and customers experiencing high energy burden for the deployment of high-efficiency electric-only heat pumps in homes and buildings currently heating with wood, oil, propane, electric resistance, or gas;
+
+        ii. Provide demonstrated material benefits to low-income participants including, but not limited to, decreased energy burden, the addition of air conditioning, and backup heat sources or energy storage systems, if necessary to protect health and safety in areas with frequent outages, or improved indoor air quality;
+
+        iii. Enroll customers in energy assistance programs or provide bill assistance;
+
+        iv. Provide dedicated funding for electrification readiness;
+
+    v. Include low-income customer protections to mitigate energy burden, if electrification measures will increase a low-income participant's energy burden; and
+
+    vi. Coordinate with community-based organizations in the gas or electrical company's service territory including, but not limited to, grantees of the department of commerce, community action agencies, and community-based nonprofit organizations, to remove barriers and effectively serve low-income customers;
+
+    j. Accept as proof of eligibility for energy assistance enrollment in any means-tested public benefit, or low-income energy assistance program, for which eligibility does not exceed the low-income definition set by the commission pursuant to RCW 19.405.020;
+
+    k. Assess the potential for geographically targeted electrification including, but not limited to, in overburdened communities, on gas plant that is fully depreciated or gas plant that is included in a proposal for geographically targeted electrification that requires accelerating depreciation pursuant to section 7(1) of this act for the gas plant subject to such electrification proposal;
+
+    l. Assess commercially available supply side resources, including a comparison of the benefits and risks of purchasing electricity or gas or building new resources;
+
+    m. Assess nonpipeline alternatives, including geographically targeted electrification and demand response, as an alternative to replacing aging gas infrastructure or expanded gas capacity. Assessments must involve, at a minimum:
+
+        i. Identifying all known and planned gas infrastructure projects, including those without a fully defined scope or cost estimate, for at least the 10 years following the filing;
+
+        ii. Estimating programmatic expenses of maintaining that portion of the gas system for at least the 10 years following the filing; and
+
+        iii. Ranking all gas pipeline segments for their suitability for nonpipeline alternatives;
+
+    n. Assess distributed energy resources that meets the requirements of RCW 19.280.100;
+
+    o. Provide an assessment and 20-year forecast of the availability of and requirements for regional supply side resource and delivery system capacity to provide and deliver electricity and gas to the large combination utility's customers and to meet, as applicable, the requirements of chapter 19.405 RCW and the state's greenhouse gas emissions reduction limits in RCW 70A.45.020. The delivery system assessment must identify the large combination utility's expected needs to acquire new long-term firm rights, develop new, or expand or upgrade existing, delivery system facilities consistent with the requirements of this section and reliability standards and take into account opportunities to make more effective use of existing delivery facility capacity through improved delivery system operating practices, conservation and efficiency resources, distributed energy resources, demand response, grid modernization, nonwires solutions, and other programs if applicable;
+
+    p. Assess methods, commercially available technologies, or facilities for integrating renewable resources and nonemitting electric generation including, but not limited to, battery storage and pumped storage, and addressing overgeneration events, if applicable to the large combination utility's resource portfolio;
+
+    q. Provide a comparative evaluation of supply side resources, delivery system resources, and conservation and efficiency resources using lowest reasonable cost as a criterion;
+
+    r. Include a determination of resource adequacy metrics for the integrated system plan consistent with the forecasts;
+
+    s. Forecast distributed energy resources that may be installed by the large combination utility's customers and an assessment of their effect on the large combination utility's load and operations;
+
+    t. Identify an appropriate resource adequacy requirement and measurement metric consistent with prudent utility practice in implementing RCW 19.405.030 through 19.405.050;
+
+    u. Integrate demand forecasts, resource evaluations, and resource adequacy requirements into a long-range assessment describing the mix of supply side resources and conservation and efficiency resources that will meet current and projected needs, including mitigating overgeneration events and implementing RCW 19.405.030 through 19.405.050, at the lowest reasonable cost and risk to the large combination utility and its customers, while maintaining and protecting the safety, reliable operation, and balancing of the energy system of the large combination utility;
+
+    v. Include an assessment, informed by the cumulative impact analysis conducted under RCW 19.405.140, of: Energy and nonenergy benefits and the avoidance and reductions of burdens to vulnerable populations and highly impacted communities; long-term and short-term public health and environmental benefits, costs, and risks; and energy security and risk;
+
+    w. Include a 10-year clean energy action plan for implementing RCW 19.405.030 through 19.405.050 at the lowest reasonable cost, and at an acceptable resource adequacy standard;
+
+    x. Include an analysis of how the integrated system plan accounts for:
+
+        i. Model load forecast scenarios that consider the anticipated levels of zero emissions vehicle use in a large combination utility's service area, including anticipated levels of zero emissions vehicle use in the large combination utility's service area provided in RCW 47.01.520, if feasible;
+
+        ii. Analysis, research, findings, recommendations, actions, and any other relevant information found in the electrification of transportation plans submitted under RCW 80.28.365; and
+
+        iii. Assumed use case forecasts and the associated energy impacts, which may use the forecasts generated by the mapping and forecasting tool created in RCW 47.01.520;
+
+    y. Establish that the large combination utility has:
+
+        i. Consigned to auction for the benefit of ratepayers the minimum required number of allowances allocated to the large combination utility for the applicable compliance period pursuant to RCW 70A.65.130, consistent with the climate commitment act, chapter 70A.65 RCW, and rules adopted pursuant to the climate commitment act; and
+
+        ii. Prioritized, to the maximum extent permissible under the climate commitment act, chapter 70A.65 RCW, revenues derived from the auction of allowances allocated to the utility for the applicable compliance period pursuant to RCW 70A.65.130, first to programs that eliminate the cost burden for low-income ratepayers, such as bill assistance, nonvolumetric credits on ratepayer utility bills, or electrification programs, and second to electrification programs benefiting residential and small commercial customers;
+
+    z. Propose an action plan outlining the specific actions to be taken by the large combination utility in implementing the integrated system plan following submission; and
+
+    aa. Report on the large combination utility's progress towards implementing the recommendations contained in its previously filed integrated system plan.
+
+5. In evaluating the lowest reasonable cost of decarbonization measures included in an integrated system plan, large combination utilities must apply a risk reduction premium that must account for the applicable allowance ceiling price approved by the department of ecology pursuant to the climate commitment act, chapter 70A.65 RCW. For the purpose of this chapter, the risk reduction premium is necessary to ensure that a large combination utility is making appropriate long-term investments to mitigate against the allowance and fuel price risks to customers of the large combination utility.
+
+6. The clean energy action plan must:
+
+    a. Identify and be informed by the large combination utility's 10-year cost-effective conservation potential assessment as determined under RCW 19.285.040, if applicable;
+
+    b. Establish a resource adequacy requirement;
+
+    c. Identify the potential cost-effective demand response and load management programs that may be acquired;
+
+    d. Identify renewable resources, nonemitting electric generation, and distributed energy resources that may be acquired and evaluate how each identified resource may be expected to contribute to meeting the large combination utility's resource adequacy requirement;
+
+    e. Identify any need to develop new, or expand or upgrade existing, bulk transmission and distribution facilities and document existing and planned efforts by the large combination utility to make more effective use of existing transmission capacity and secure additional transmission capacity consistent with the requirements of subsection (4)(o) of this section; and
+
+    f. Identify the nature and possible extent to which the large combination utility may need to rely on alternative compliance options under RCW 19.405.040(1)(b), if appropriate.
+
+7. A large combination utility shall consider the social cost of greenhouse gas emissions, as determined by the commission pursuant to RCW 80.28.405, when developing integrated system plans and clean energy action plans. A large combination utility must incorporate the social cost of greenhouse gas emissions as a cost adder when:
+
+    a. Evaluating and selecting conservation policies, programs, and targets;
+
+    b. Developing integrated system plans and clean energy action plans; and
+
+    c. Evaluating and selecting intermediate term and long-term resource options.
+
+8. Plans developed under this section must be updated on a regular basis, on intervals approved by the commission.
+
+9. [Empty]
+
+    a. To maximize transparency, the commission may require a large combination utility to make the utility's data input files available in a native format. Each large combination utility shall publish its final plan either as part of an annual report or as a separate document available to the public. The report may be in an electronic form.
+
+    b. Nothing in this subsection limits the protection of records containing commercial information under RCW 80.04.095.
+
+10. The commission shall establish by rule a cost test for emissions reduction measures achieved by large combination utilities to comply with state clean energy and climate policies. The cost test must be used by large combination utilities under this chapter for the purpose of determining the lowest reasonable cost of decarbonization and electrification measures in integrated system plans, at the portfolio level, and for any other purpose determined by the commission by rule.
+
+11. The commission must approve, reject, or approve with conditions an integrated system plan within 12 months of the filing of such an integrated system plan. The commission may for good cause shown extend the time by 90 days for a decision on an integrated system plan filed on or before January 1, 2027, as such date is extended pursuant to subsection (2)(a) of this section.
+
+12. In determining whether to approve the integrated system plan, reject the integrated system plan, or approve the integrated system plan with conditions, the commission must evaluate whether the plan is in the public interest, and includes the following:
+
+    a. The equitable distribution and prioritization of energy benefits and reduction of burdens to vulnerable populations, highly impacted communities, and overburdened communities;
+
+    b. Long-term and short-term public health, economic, and environmental benefits and the reduction of costs and risks;
+
+    c. Health and safety concerns;
+
+    d. Economic development;
+
+    e. Equity;
+
+    f. Energy security and resiliency;
+
+    g. Whether the integrated system plan:
+
+        i. Would achieve a proportional share of reductions in greenhouse gas emissions for each emissions reduction period on the gas and electric systems;
+
+        ii. Would achieve the energy efficiency and demand response targets in subsection (4)(e) and (g) of this section;
+
+        iii. Would achieve cost-effective electrification of end uses as required by subsection (4)(h) of this section;
+
+        iv. Results in a reasonable cost to customers, and projects the rate impacts of specific actions, programs, and investments on customers;
+
+    v. Would maintain system reliability and reduces long-term costs and risks to customers;
+
+    vi. Would lead to new construction career opportunities and prioritizes a transition of natural gas and electricity utility workers to perform work on construction and maintenance of new and existing renewable energy infrastructure; and
+
+    vii. Describes specific actions that the large combination utility plans to take to achieve the requirements of the integrated system plan.
+
+## Section 4
+Large combination utilities shall work in good faith with other utilities, independent power producers, power marketers, end-use customers, and interested parties in the region to develop market structures and mechanisms that require the sale of wholesale electricity from generating resources in a manner that allows the greenhouse gas attributes of those resources to be accounted for when they are sold into organized markets.
+
+## Section 5
+2. A large combination utility submitting an application under this section may request one or more of the following:
+
+    a. A certificate of necessity that the electric energy or capacity to be supplied or transmitted as a result of the proposed construction, investment, or purchase, including entering into a power purchase agreement, is needed;
+
+    b. A certificate of necessity that the size, fuel type, and other design characteristics of the existing or proposed electric generation or transmission facility or the terms of the power purchase agreement represent the most appropriate and reasonable means of meeting that power need;
+
+    c. A certificate of necessity that the estimated purchase or capital costs of and the financing plan for the existing or proposed electric generation or transmission facility including, but not limited to, the costs of siting and licensing a new facility and the estimated cost of power from the new or proposed electric generation facility, or the cost of transmission on the new or proposed electric transmission facility, are reasonable; or
+
+    d. A request to: (i) Recognize, accrue, and defer the allowance for funds used during construction; and (ii) recover financing interest costs in base rates on construction work in progress for capital improvements approved under this section prior to the assets being considered used and useful.
+
+3. The commission may approve, reject, or approve with conditions an application under this section if it is in the public interest, and the construction, investment, or purchase, including entering into a power purchase agreement, complies with the commission's administrative rules governing electric resource procurement.
+
+4. In a certificate of necessity under this section, the commission may specify the estimated costs included for the construction of or significant investment in the electric generation or transmission facility, the estimated price included for the purchase of the existing electric generation or transmission facility, or the estimated price included for the purchase of power pursuant to the terms of the power purchase agreement.
+
+5. The large combination utility shall file reports to the commission regarding the status of any project for which a certificate of necessity has been granted under this section, including an update concerning the cost and schedule of that project at intervals determined by the commission.
+
+6. If the commission denies any of the relief requested by a large combination utility, the large combination utility may withdraw its application or proceed with the proposed construction, purchase, investment, or power purchase agreement without a certificate and the assurance granted under this section under its ordinary course of business.
+
+7. If the assumptions underlying an approved certificate of necessity materially change, a large combination utility shall request, or the commission or potential intervenor on its own motion may initiate, a proceeding to review whether it is reasonable to complete an unfinished project for which a certificate of necessity has been granted. The commission shall list the assumptions underlying an approved certificate in the order approving the certificate. If the commission finds that the completion of the project is no longer reasonable, the commission may modify or cancel approval of the certificate of necessity. The commission may allow recovery of reasonable costs already incurred or committed to by contract. Once the commission finds that completion of the project is no longer reasonable, the commission may limit future cost recovery to those costs that could not be reasonably avoided. Nothing in this subsection may be construed as amending, modifying, or repealing any existing authority of the commission to ascertain and determine the fair value for rate-making purposes of the property of any large combination utility.
+
+8. A proposed or existing supplier of electric generation capacity that seeks to provide electric generation energy or capacity resources to the large combination utility may submit a written proposal directly to the commission as an alternative to the construction, investment, or purchase, including entering into a power purchase agreement, for which the certificate of necessity is sought under this section. The entity submitting an alternative proposal under this subsection has standing to intervene and the commission may allow reasonable discovery in the contested case proceeding conducted under this subsection. In evaluating an alternative proposal, the commission may consider the cost of the alternative proposal and the submitting entity's qualifications, technical competence, capability, reliability, creditworthiness, and past performance. In reviewing an application, the commission may consider any alternative proposals submitted under this subsection. This subsection does not limit the ability of any other person to submit to the commission an alternative proposal to the construction, investment, or purchase, including entering into a power purchase agreement, for which a certificate of necessity is sought under this subsection and to petition for and be granted leave to intervene in the contested case proceeding conducted under this subsection under the rules of practice and procedure of the commission. This subsection does not authorize the commission to order or otherwise require a large combination utility to adopt any alternative proposal submitted under this subsection.
+
+## Section 6
+1. Large combination utilities must include the following in calculating the emissions baseline and projected cumulative emissions for an emissions reduction period, consistent with reporting of greenhouse gas emissions pursuant to the Washington clean air act, chapter 70A.15 RCW:
+
+    a. Methane leaked from the transportation and delivery of gas from the gas distribution and service pipelines from the city gate to customer end use;
+
+    b. Greenhouse gas emissions resulting from the combustion of gas by customers not otherwise subject to federal greenhouse gas emissions reporting and excluding all transport customers; and
+
+    c. Emissions of methane resulting from leakage from delivery of gas to other gas companies.
+
+2. In calculating an emissions reduction target, a large combination utility must show its emissions baseline and projected cumulative greenhouse gas emissions for the applicable emissions reduction period separately and must show that the total emissions reductions are projected to make progress toward the achievement of the emissions reduction targets identified in the applicable integrated system plan. The final calculation must be presented on a carbon dioxide equivalent basis.
+
+3. All emissions are metric tons of carbon dioxide equivalent as reported to the federal environmental protection agency pursuant to 40 C.F.R. 98, either subpart W (methane) or subpart NN (carbon dioxide), or successor reporting requirements.
+
+## Section 7
+1. In any multiyear rate plan filed by a large combination utility pursuant to RCW 80.28.425 and in accordance with this chapter, the large combination utility must include an updated depreciation study that reduces the gas rate base consistent with an approved integrated system plan, and the commission may adopt depreciation schedules that accelerate cost recovery and reduce the rate base for any gas plant. The commission shall approve a depreciation schedule that depreciates all gas plants in service as of July 1, 2024, by a date no later than January 1, 2050, in any multiyear rate plan, but the commission may adjust depreciation schedules for gas plants as necessary when considering future multiyear rate plans to address affordability provided all plants in service as of July 1, 2024, are fully depreciated by 2050.
+
+2. In any multiyear rate plan proposed by a large combination utility, the company may propose a merger of regulated gas and electric operations into a single rate base. The commission may approve the merger of electric and gas rate bases if the commission finds that the proposal will result in a net benefit to customers of the large combination utility and includes reasonable rate protections for low-income natural gas and electric customers.
+
+3. For a large combination utility that has merged gas and electricity rate bases, the large combination utility must monetize benefits received from any applicable federal and state tax and other incentives for the benefit of customers. These benefits must be separately accounted for and amortized on a schedule designed to mitigate the rate impacts to customers after the rate bases are combined. These credits may not be used for any other purpose, unless directed by the commission.
+
+4. For the first multiyear rate plan proposed by a large combination utility following commission approval or approval with conditions of the initial integrated system plan identified in section 3 of this act, the commission may for good cause shown extend the deadline for a decision set forth under RCW 80.04.130 by up to 60 days.
+
+## Section 8
+1. Beginning January 1, 2025, no large combination utility may offer any form of rebate, incentive, or other inducement to residential gas customers to purchase any natural gas appliance or equipment. Until January 1, 2031, rebates and incentives for commercial and industrial gas customers are not included in this requirement. Rebates and incentives for electric heat pumps that include natural gas backups may be offered until January 1, 2031.
+
+2. By November 1, 2025, a large combination utility must initiate and maintain an effort to educate its ratepayers about the benefits of electrification and the availability of rebates, incentives, or other inducements to purchase energy efficient electric appliances and equipment including, but not limited to, the maintenance of an educational website and the inclusion of educational materials in monthly billing statements.
+
+3. Beginning January 1, 2031, a large combination utility may not include electric air source heat pumps with gas backups as part of its electrification programs.
+
+## Section 9
+Each electric utility must develop a plan consistent with this section.
+
+1. Utilities with more than 25,000 customers that are not full requirements customers must develop or update an integrated resource plan by September 1, 2008. At a minimum, progress reports reflecting changing conditions and the progress of the integrated resource plan must be produced every two years thereafter. An updated integrated resource plan must be developed at least every four years subsequent to the 2008 integrated resource plan. The integrated resource plan, at a minimum, must include:
+
+    a. A range of forecasts, for at least the next 10 years or longer, of projected customer demand which takes into account econometric data and customer usage;
+
+    b. An assessment of commercially available conservation and efficiency resources, as informed, as applicable, by the assessment for conservation potential under RCW 19.285.040 for the planning horizon consistent with (a) of this subsection. Such assessment may include, as appropriate, opportunities for development of combined heat and power as an energy and capacity resource, demand response and load management programs, and currently employed and new policies and programs needed to obtain the conservation and efficiency resources;
+
+    c. An assessment of commercially available, utility scale renewable and nonrenewable generating technologies including a comparison of the benefits and risks of purchasing power or building new resources;
+
+    d. A comparative evaluation of renewable and nonrenewable generating resources, including transmission and distribution delivery costs, and conservation and efficiency resources using "lowest reasonable cost" as a criterion;
+
+    e. An assessment of methods, commercially available technologies, or facilities for integrating renewable resources, including but not limited to battery storage and pumped storage, and addressing overgeneration events, if applicable to the utility's resource portfolio;
+
+    f. An assessment and 20-year forecast of the availability of and requirements for regional generation and transmission capacity to provide and deliver electricity to the utility's customers and to meet the requirements of chapter 288, Laws of 2019 and the state's greenhouse gas emissions reduction limits in RCW 70A.45.020. The transmission assessment must identify the utility's expected needs to acquire new long-term firm rights, develop new, or expand or upgrade existing, bulk transmission facilities consistent with the requirements of this section and reliability standards;
+
+        i. If an electric utility operates transmission assets rated at 115,000 volts or greater, the transmission assessment must take into account opportunities to make more effective use of existing transmission capacity through improved transmission system operating practices, energy efficiency, demand response, grid modernization, nonwires solutions, and other programs if applicable;
+
+        ii. An electric utility that relies entirely or primarily on a contract for transmission service to provide necessary transmission services may comply with the transmission requirements of this subsection by requesting that the counterparty to the transmission service contract include the provisions of chapter 288, Laws of 2019 and chapter 70A.45 RCW as public policy mandates in the transmission service provider's process for assessing transmission need, and planning and acquiring necessary transmission capacity;
+
+        iii. An electric utility may comply with the requirements of this subsection (1)(f) by relying on and incorporating the results of a separate transmission assessment process, conducted individually or jointly with other utilities and transmission system users, if that assessment process meets the requirements of this subsection;
+
+    g. A determination of resource adequacy metrics for the resource plan consistent with the forecasts;
+
+    h. A forecast of distributed energy resources that may be installed by the utility's customers and an assessment of their effect on the utility's load and operations;
+
+        i. An identification of an appropriate resource adequacy requirement and measurement metric consistent with prudent utility practice in implementing RCW 19.405.030 through 19.405.050;
+
+    j. The integration of the demand forecasts, resource evaluations, and resource adequacy requirement into a long‑range assessment describing the mix of supply side generating resources and conservation and efficiency resources that will meet current and projected needs, including mitigating overgeneration events and implementing RCW 19.405.030 through 19.405.050, at the lowest reasonable cost and risk to the utility and its customers, while maintaining and protecting the safety, reliable operation, and balancing of its electric system;
+
+    k. An assessment, informed by the cumulative impact analysis conducted under RCW 19.405.140, of: Energy and nonenergy benefits and the avoidance and reductions of burdens to vulnerable populations and highly impacted communities; long-term and short-term public health and environmental benefits, costs, and risks; and energy security and risk;
+
+    l. A 10-year clean energy action plan for implementing RCW 19.405.030 through 19.405.050 at the lowest reasonable cost, and at an acceptable resource adequacy standard, that identifies the specific actions to be taken by the utility consistent with the long‑range integrated resource plan; and
+
+    m. An analysis of how the plan accounts for:
+
+        i. Modeled load forecast scenarios that consider the anticipated levels of zero emissions vehicle use in a utility's service area, including anticipated levels of zero emissions vehicle use in the utility's service area provided in RCW 47.01.520, if feasible;
+
+        ii. Analysis, research, findings, recommendations, actions, and any other relevant information found in the electrification of transportation plans submitted under RCW 35.92.450, 54.16.430, and 80.28.365; and
+
+        iii. Assumed use case forecasts and the associated energy impacts. Electric utilities may, but are not required to, use the forecasts generated by the mapping and forecasting tool created in RCW 47.01.520. This subsection (1)(m)(iii) applies only to plans due to be filed after September 1, 2023.
+
+2. The clean energy action plan must:
+
+    a. Identify and be informed by the utility's 10-year cost-effective conservation potential assessment as determined under RCW 19.285.040, if applicable;
+
+    b. Establish a resource adequacy requirement;
+
+    c. Identify the potential cost-effective demand response and load management programs that may be acquired;
+
+    d. Identify renewable resources, nonemitting electric generation, and distributed energy resources that may be acquired and evaluate how each identified resource may be expected to contribute to meeting the utility's resource adequacy requirement;
+
+    e. Identify any need to develop new, or expand or upgrade existing, bulk transmission and distribution facilities and document existing and planned efforts by the utility to make more effective use of existing transmission capacity and secure additional transmission capacity consistent with the requirements of subsection (1)(f) of this section; and
+
+    f. Identify the nature and possible extent to which the utility may need to rely on alternative compliance options under RCW 19.405.040(1)(b), if appropriate.
+
+3. [Empty]
+
+    a. An electric or large combination utility shall consider the social cost of greenhouse gas emissions, as determined by the commission for investor-owned utilities pursuant to RCW 80.28.405 and the department for consumer-owned utilities, when developing integrated resource plans and clean energy action plans. An electric utility must incorporate the social cost of greenhouse gas emissions as a cost adder when:
+
+        i. Evaluating and selecting conservation policies, programs, and targets;
+
+        ii. Developing integrated resource plans and clean energy action plans; and
+
+        iii. Evaluating and selecting intermediate term and long-term resource options.
+
+    b. For the purposes of this subsection (3): (i) Gas consisting largely of methane and other hydrocarbons derived from the decomposition of organic material in landfills, wastewater treatment facilities, and anaerobic digesters must be considered a nonemitting resource; and (ii) qualified biomass energy must be considered a nonemitting resource.
+
+4. To facilitate broad, equitable, and efficient implementation of chapter 288, Laws of 2019, a consumer-owned energy utility may enter into an agreement with a joint operating agency organized under chapter 43.52 RCW or other nonprofit organization to develop and implement a joint clean energy action plan in collaboration with other utilities.
+
+5. All other utilities may elect to develop a full integrated resource plan as set forth in subsection (1) of this section or, at a minimum, shall develop a resource plan that:
+
+    a. Estimates loads for the next five and 10 years;
+
+    b. Enumerates the resources that will be maintained and/or acquired to serve those loads;
+
+    c. Explains why the resources in (b) of this subsection were chosen and, if the resources chosen are not: (i) Renewable resources; (ii) methods, commercially available technologies, or facilities for integrating renewable resources, including addressing any overgeneration event; or (iii) conservation and efficiency resources, why such a decision was made;
+
+    d. By December 31, 2020, and in every resource plan thereafter, identifies how the utility plans over a 10-year period to implement RCW 19.405.040 and 19.405.050; and
+
+    e. Accounts for:
+
+        i. Modeled load forecast scenarios that consider the anticipated levels of zero emissions vehicle use in a utility's service area, including anticipated levels of zero emissions vehicle use in the utility's service area provided in RCW 47.01.520, if feasible;
+
+        ii. Analysis, research, findings, recommendations, actions, and any other relevant information found in the electrification of transportation plans submitted under RCW 35.92.450, 54.16.430, and 80.28.365; and
+
+        iii. Assumed use case forecasts and the associated energy impacts. Electric utilities may, but are not required to, use the forecasts generated by the mapping and forecasting tool created in RCW 47.01.520. This subsection (5)(e)(iii) applies only to plans due to be filed after September 1, 2023.
+
+6. Assessments for demand-side resources included in an integrated resource plan may include combined heat and power systems as one of the measures in a conservation supply curve. The value of recoverable waste heat resulting from combined heat and power must be reflected in analyses of cost-effectiveness under this subsection.
+
+7. An electric utility that is required to develop a resource plan under this section must complete its initial plan by September 1, 2008.
+
+8. Plans developed under this section must be updated on a regular basis, on intervals approved by the commission or the department, or at a minimum on intervals of two years.
+
+9. [Empty]
+
+    a. Plans shall not be a basis to bring legal action against electric utilities. However, nothing in this subsection (9)(a) may be construed as limiting the commission or any party from bringing any action pursuant to Title 80 RCW, this chapter, or chapter 19.405 RCW against any large combination utility related to an integrated system plan submitted pursuant to section 3 of this act.
+
+    b. The commission may approve, reject, or approve with conditions, any integrated system plans submitted by a large combination utility as defined in section 2 of this act.
+
+10. [Empty]
+
+    a. To maximize transparency, the commission, for investor-owned utilities, or the governing body, for consumer-owned utilities, may require an electric utility to make the utility's data input files available in a native format. Each electric utility shall publish its final plan either as part of an annual report or as a separate document available to the public. The report may be in an electronic form.
+
+    b. Nothing in this subsection limits the protection of records containing commercial information under RCW 80.04.095.
+
+11. The commission may require a large combination utility as defined in section 2 of this act to incorporate the requirements of this section into an integrated system plan established under section 3 of this act.
+
+## Section 10
+1. When an integrated system plan of a large combination utility proposes geographically targeted electrification of all or a portion of a service area in which the large combination utility provides gas service to such a service area and one or more consumer-owned utilities provide electric service to such a service area, the integrated system plan of the large combination utility must include a process for outreach by the large combination utility to all consumer-owned utilities providing electric service to such a service area. As part of that outreach, the large combination utility shall provide gas delivery data of sufficient granularity for the consumer-owned electric company to assess the sufficiency of the capacity of the electric distribution system to accommodate the additional load from electrification at the circuit level. This data must be provided at least one plan cycle prior to electrification actions by the large combination utility to allow affected consumer-owned electric companies sufficient time to upgrade electrical distribution equipment and materials as needed to preserve system reliability.
+
+2. Consumer-owned utilities are encouraged to:
+
+    a. Work with large combination utilities providing gas service within their service areas to identify opportunities for electrification and mitigating grid impacts by the large combination utility;
+
+    b. Account for the costs of greenhouse gas emissions, set total energy savings and greenhouse gas emissions reduction goals, and develop and implement electrification programs in collaboration with large combination utilities providing gas service in service areas of consumer-owned utilities; and
+
+    c. Include an electrification plan or transportation electrification program as part of collaboration with large combination utilities.
+
+3. Nothing in this section may be construed as expanding or contracting the authority of any electric utility with regard to the designation of the boundaries of adjoining service areas that each electric utility must observe.
+
+## Section 11
+1. For any project in an integrated system plan of a large combination utility that is part of a competitive solicitation and with a cost of more than $10,000,000, the large combination utility must certify to the commission that any work associated with such a project will be constructed by a prime contractor and its subcontractors in a way that includes community workforce agreements or project labor agreements and the payment of area standard prevailing wages and apprenticeship utilization requirements, provided the following apply:
+
+    a. The project owner and the prime contractor and all of its subcontractors, regardless of tier, have the absolute right to select any qualified and responsible bidder for the award of contracts on a specified project without reference to the existence or nonexistence of any agreements between such a bidder and any party to such a project labor agreement, and only when such a bidder is willing, ready, and able to become a party to, signs a letter of assent, and complies with such an agreement or agreements, should it be designated the successful bidder; and
+
+    b. It is understood that this is a self-contained, stand-alone agreement, and that by virtue of having become bound to such an agreement or agreements, neither the prime contractor nor the subcontractors are obligated to sign any other local, area, or national agreement.
+
+2. Nothing in this section supersedes RCW 19.28.091 or 19.28.261 or chapter 49.17 RCW, without regard to project cost.
+
+## Section 12
+The commission may adopt rules to ensure the proper implementation and enforcement of this act.
+
+## Section 13
+Every public service company subject to regulation by the commission shall, on or before the date specified by the commission for filing annual reports under RCW 80.04.080, file with the commission a statement on oath showing its gross operating revenue from intrastate operations for the preceding calendar year or portion thereof and pay to the commission a fee equal to one-tenth of one percent of the first $50,000 of gross operating revenue, plus four-tenths of one percent of any gross operating revenue in excess of $50,000, except that a large combination utility as defined in section 2 of this act shall pay a fee equal to 0.001 percent of the first $50,000 of gross operating revenue, plus 0.005 percent of any gross operating revenue in excess of $50,000: PROVIDED, That the commission may, by rule, set minimum fees that do not exceed the cost of collecting the fees. The commission may by rule waive any or all of the minimum fee established pursuant to this section.
+
+The percentage rates of gross operating revenue to be paid in any year may be decreased by the commission for any class of companies subject to the payment of such fees, by general order entered before March 1st of such year, and for such purpose such companies shall be classified as follows:
+
+Electrical, gas, water, telecommunications, and irrigation companies shall constitute class one. Every other company subject to regulation by the commission, for which regulatory fees are not otherwise fixed by law shall pay fees as herein provided and shall constitute additional classes according to kinds of businesses engaged in.
+
+Any payment of the fee imposed by this section made after its due date shall include a late fee of two percent of the amount due. Delinquent fees shall accrue interest at the rate of one percent per month.
+
+## Section 14
+1. [Empty]
+
+    a. By January 1, 2022, and every four years thereafter, each investor-owned utility must develop and submit to the commission:
+
+        i. A four-year clean energy implementation plan for the standards established under RCW 19.405.040(1) and 19.405.050(1) that proposes specific targets for energy efficiency, demand response, and renewable energy; and
+
+        ii. Proposed interim targets for meeting the standard under RCW 19.405.040(1) during the years prior to 2030 and between 2030 and 2045.
+
+    b. An investor-owned utility's clean energy implementation plan must:
+
+        i. Be informed by the investor-owned utility's clean energy action plan developed under RCW 19.280.030;
+
+        ii. Be consistent with subsection (3) of this section; and
+
+        iii. Identify specific actions to be taken by the investor-owned utility over the next four years, consistent with the utility's long-range integrated resource plan and resource adequacy requirements, that demonstrate progress toward meeting the standards under RCW 19.405.040(1) and 19.405.050(1) and the interim targets proposed under (a)(i) of this subsection. The specific actions identified must be informed by the investor-owned utility's historic performance under median water conditions and resource capability and by the investor-owned utility's participation in centralized markets. In identifying specific actions in its clean energy implementation plan, the investor-owned utility may also take into consideration any significant and unplanned loss or addition of load it experiences.
+
+    c. The commission, after a hearing, must by order approve, reject, or approve with conditions an investor-owned utility's clean energy implementation plan and interim targets. The commission may, in its order, recommend or require more stringent targets than those proposed by the investor-owned utility. The commission may periodically adjust or expedite timelines if it can be demonstrated that the targets or timelines can be achieved in a manner consistent with the following:
+
+        i. Maintaining and protecting the safety, reliable operation, and balancing of the electric system;
+
+        ii. Planning to meet the standards at the lowest reasonable cost, considering risk;
+
+        iii. Ensuring that all customers are benefiting from the transition to clean energy: Through the equitable distribution of energy and nonenergy benefits and the reduction of burdens to vulnerable populations and highly impacted communities; long-term and short-term public health and environmental benefits and reduction of costs and risks; and energy security and resiliency; and
+
+        iv. Ensuring that no customer or class of customers is unreasonably harmed by any resulting increases in the cost of utility-supplied electricity as may be necessary to comply with the standards.
+
+2. [Empty]
+
+    a. By January 1, 2022, and every four years thereafter, each consumer-owned utility must develop and submit to the department a four-year clean energy implementation plan for the standards established under RCW 19.405.040(1) and 19.405.050(1) that:
+
+        i. Proposes interim targets for meeting the standard under RCW 19.405.040(1) during the years prior to 2030 and between 2030 and 2045, as well as specific targets for energy efficiency, demand response, and renewable energy;
+
+        ii. Is informed by the consumer-owned utility's clean energy action plan developed under RCW 19.280.030(1) or other ten-year plan developed under RCW 19.280.030(5);
+
+        iii. Is consistent with subsection (4) of this section; and
+
+        iv. Identifies specific actions to be taken by the consumer-owned utility over the next four years, consistent with the utility's long-range resource plan and resource adequacy requirements, that demonstrate progress towards meeting the standards under RCW 19.405.040(1) and 19.405.050(1) and the interim targets proposed under (a)(i) of this subsection. The specific actions identified must be informed by the consumer-owned utility's historic performance under median water conditions and resource capability and by the consumer-owned utility's participation in centralized markets. In identifying specific actions in its clean energy implementation plan, the consumer-owned utility may also take into consideration any significant and unplanned loss or addition of load it experiences.
+
+    b. The governing body of the consumer-owned utility must, after a public meeting, adopt the consumer-owned utility's clean energy implementation plan. The clean energy implementation plan must be submitted to the department and made available to the public. The governing body may adopt more stringent targets than those proposed by the consumer-owned utility and periodically adjust or expedite timelines if it can be demonstrated that such targets or timelines can be achieved in a manner consistent with the following:
+
+        i. Maintaining and protecting the safety, reliable operation, and balancing of the electric system;
+
+        ii. Planning to meet the standards at the lowest reasonable cost, considering risk;
+
+        iii. Ensuring that all customers are benefiting from the transition to clean energy: Through the equitable distribution of energy and nonenergy benefits and reduction of burdens to vulnerable populations and highly impacted communities; long-term and short-term public health and environmental benefits and reduction of costs and risks; and energy security and resiliency; and
+
+        iv. Ensuring that no customer or class of customers is unreasonably harmed by any resulting increases in the cost of utility-supplied electricity as may be necessary to comply with the standards.
+
+3. [Empty]
+
+    a. An investor-owned utility must be considered to be in compliance with the standards under RCW 19.405.040(1) and 19.405.050(1) if, over the four-year compliance period, the average annual incremental cost of meeting the standards or the interim targets established under subsection (1) of this section equals a two percent increase of the investor-owned utility's weather-adjusted sales revenue to customers for electric operations above the previous year, as reported by the investor-owned utility in its most recent commission basis report. All costs included in the determination of cost impact must be directly attributable to actions necessary to comply with the requirements of RCW 19.405.040 and 19.405.050.
+
+    b. If an investor-owned utility relies on (a) of this subsection as a basis for compliance with the standard under RCW 19.405.040(1), then it must demonstrate that it has maximized investments in renewable resources and nonemitting electric generation prior to using alternative compliance options allowed under RCW 19.405.040(1)(b).
+
+4. [Empty]
+
+    a. A consumer-owned utility must be considered to be in compliance with the standards under RCW 19.405.040(1) and 19.405.050(1) if, over the four-year compliance period, the average annual incremental cost of meeting the standards or the interim targets established under subsection (2) of this section meets or exceeds a two percent increase of the consumer-owned utility's retail revenue requirement above the previous year. All costs included in the determination of cost impact must be directly attributable to actions necessary to comply with the requirements of RCW 19.405.040 and 19.405.050.
+
+    b. If a consumer-owned utility relies on (a) of this subsection as a basis for compliance with the standard under RCW 19.405.040(1), and it has not met eighty percent of its annual retail electric load using electricity from renewable resources and nonemitting electric generation, then it must demonstrate that it has maximized investments in renewable resources and nonemitting electric generation prior to using alternative compliance options allowed under RCW 19.405.040(1)(b).
+
+5. The commission, for investor-owned utilities, and the department, for consumer-owned utilities, must adopt rules establishing the methodology for calculating the incremental cost of compliance under this section, as compared to the cost of an alternative lowest reasonable cost portfolio of investments that are reasonably available.
+
+6. The commission may require a large combination utility as defined in section 2 of this act to incorporate the requirements of this section into an integrated system plan established under section 3 of this act.
+
+## Section 15
+Whenever the commission finds, after hearing had upon its own motion or upon complaint, that repairs or improvements, to, or changes in, any gas plant, electrical plant, system of sewerage, or water system ought to be made, or that any additions or extensions should reasonably be made thereto, in order to promote the security or convenience of the public or employees, or in order to secure adequate service or facilities for manufacturing, distributing or supplying gas, electricity, wastewater company services, or water, the commission may enter an order directing that such reasonable repairs, improvements, changes, additions or extensions of such gas plant, electrical plant, system of sewerage, or water system be made. The commission may require a large combination utility as defined in section 2 of this act to incorporate any existing pipeline safety and replacement plans under this section into an integrated system plan established under section 3 of this act.
+
+## Section 16
+1. An electric utility regulated by the utilities and transportation commission under this chapter may submit to the commission an electrification of transportation plan that deploys electric vehicle supply equipment or provides other electric transportation programs, services, or incentives to support electrification of transportation. The plans should align to a period consistent with either the utility's planning horizon under its most recent integrated resource plan or the time frame of the actions contemplated in the plan, and may include:
+
+    a. Any programs that the utility is proposing contemporaneously with the plan filing or anticipates later in the plan period;
+
+    b. Anticipated benefits of transportation electrification, based on a forecast of electric transportation in the utilities' service territory; and
+
+    c. Anticipated costs of programs, subject to the restrictions in RCW 80.28.360.
+
+2. In reviewing an electrification of transportation plan under subsection (1) of this section, the commission may consider the following: (a) The applicability of multiple options for electrification of transportation across all customer classes; (b) the impact of electrification on the utility's load, and whether demand response or other load management opportunities, including direct load control and dynamic pricing, are operationally appropriate; (c) system reliability and distribution system efficiencies; (d) interoperability concerns, including the interoperability of hardware and software systems in electrification of transportation proposals; and (e) the benefits and costs of the planned actions.
+
+3. The commission must issue an acknowledgment of an electrification of transportation plan within six months of the submittal of the plan. The commission may establish by rule the requirements for preparation and submission of an electrification of transportation plan. An electric utility may submit a plan under this section before or during rule-making proceedings.
+
+4. The commission may require a large combination utility as defined in section 2 of this act to incorporate the requirements of this section into an integrated system plan established under section 3 of this act.
+
+## Section 17
+1. Each gas company must identify and acquire all conservation measures that are available and cost-effective. Each company must establish an acquisition target every two years and must demonstrate that the target will result in the acquisition of all resources identified as available and cost-effective. The cost-effectiveness analysis required by this section must include the costs of greenhouse gas emissions established in RCW 80.28.395. The targets must be based on a conservation potential assessment prepared by an independent third party and approved by the commission. Conservation targets must be approved by order by the commission. The initial conservation target must take effect by 2022.
+
+2. The commission may require a large combination utility as defined in section 2 of this act to incorporate the requirements of this section into an integrated system plan established under section 3 of this act.
+
+## Section 18
+1. Beginning January 1, 2022, every general rate case filing of a gas or electrical company must include a proposal for a multiyear rate plan as provided in this chapter. The commission may, by order after an adjudicative proceeding as provided by chapter 34.05 RCW, approve, approve with conditions, or reject, a multiyear rate plan proposal made by a gas or electrical company or an alternative proposal made by one or more parties, or any combination thereof. The commission's consideration of a proposal for a multiyear rate plan is subject to the same standards applicable to other rate filings made under this title, including the public interest and fair, just, reasonable, and sufficient rates. In determining the public interest, the commission may consider such factors including, but not limited to, environmental health and greenhouse gas emissions reductions, health and safety concerns, economic development, and equity, to the extent such factors affect the rates, services, and practices of a gas or electrical company regulated by the commission.
+
+2. The commission may approve, disapprove, or approve with modifications any proposal to recover from ratepayers up to five percent of the total revenue requirement approved by the commission for each year of a multiyear rate plan for tariffs that reduce the energy burden of low-income residential customers including, but not limited to: (a) Bill assistance programs; or (b) one or more special rates. For any multiyear rate plan approved under this section resulting in a rate increase, the commission must approve an increase in the amount of low-income bill assistance to take effect in each year of the rate plan where there is a rate increase. At a minimum, the amount of such low-income assistance increase must be equal to double the percentage increase, if any, in the residential base rates approved for each year of the rate plan. The commission may approve a larger increase to low-income bill assistance based on an appropriate record.
+
+3. [Empty]
+
+    a. If it approves a multiyear rate plan, the commission shall separately approve rates for each of the initial rate year, the second rate year and, if applicable, the third rate year, and the fourth rate year.
+
+    b. The commission shall ascertain and determine the fair value for rate-making purposes of the property of any gas or electrical company that is or will be used and useful under RCW 80.04.250 for service in this state by or during each rate year of the multiyear rate plan. For the initial rate year, the commission shall, at a minimum, ascertain and determine the fair value for rate-making purposes of the property of any gas or electrical company that is used and useful for service in this state as of the rate effective date. The commission may order refunds to customers if property expected to be used and useful by the rate effective date when the commission approves a multiyear rate plan is in fact not used and useful by such a date.
+
+    c. The commission shall ascertain and determine the revenues and operating expenses for rate-making purposes of any gas or electrical company for each rate year of the multiyear rate plan.
+
+    d. In ascertaining and determining the fair value of property of a gas or electrical company pursuant to (b) of this subsection and projecting the revenues and operating expenses of a gas or electrical company pursuant to (c) of this subsection, the commission may use any standard, formula, method, or theory of valuation reasonably calculated to arrive at fair, just, reasonable, and sufficient rates.
+
+    e. If the commission approves a multiyear rate plan with a duration of three or four years, then the electrical company must update its power costs as of the rate effective date of the third rate year. The proceeding to update the electrical company's power costs is subject to the same standards that apply to other rate filings made under this title.
+
+4. Subject to subsection (5) of this section, the commission may by order establish terms, conditions, and procedures for a multiyear rate plan and ensure that rates remain fair, just, reasonable, and sufficient during the course of the plan.
+
+5. Notwithstanding subsection (4) of this section, a gas or electrical company is bound by the terms of the multiyear rate plan approved by the commission for each of the initial rate year and the second rate year. A gas or electrical company may file a new multiyear rate plan in accordance with this section for the third rate year and fourth rate year, if any, of a multiyear rate plan.
+
+6. If the annual commission basis report for a gas or electrical company demonstrates that the reported rate of return on rate base of the company for the 12-month period ending as of the end of the period for which the annual commission basis report is filed is more than .5 percent higher than the rate of return authorized by the commission in the multiyear rate plan for such a company, the company shall defer all revenues that are in excess of .5 percent higher than the rate of return authorized by the commission for refunds to customers or another determination by the commission in a subsequent adjudicative proceeding. If a multistate electrical company with fewer than 250,000 customers in Washington files a multiyear rate plan that provides for no increases in base rates in consecutive years beyond the initial rate year, the commission shall waive the requirements of this subsection provided that such a waiver results in just and reasonable rates.
+
+7. The commission must, in approving a multiyear rate plan, determine a set of performance measures that will be used to assess a gas or electrical company operating under a multiyear rate plan. These performance measures may be based on proposals made by the gas or electrical company in its initial application, by any other party to the proceeding in its response to the company's filing, or in the testimony and evidence admitted in the proceeding. In developing performance measures, incentives, and penalty mechanisms, the commission may consider factors including, but not limited to, lowest reasonable cost planning, affordability, increases in energy burden, cost of service, customer satisfaction and engagement, service reliability, clean energy or renewable procurement, conservation acquisition, demand side management expansion, rate stability, timely execution of competitive procurement practices, attainment of state energy and emissions reduction policies, rapid integration of renewable energy resources, and fair compensation of utility employees.
+
+8. Nothing in this section precludes any gas or electrical company from making filings required or permitted by the commission.
+
+9. The commission shall align, to the extent practical, the timing of approval of a multiyear rate plan of an electrical company submitted pursuant to this section with the clean energy implementation plan of the electrical company filed pursuant to RCW 19.405.060.
+
+10. The provisions of this section may not be construed to limit the existing rate-making authority of the commission.
+
+11. The commission may require a large combination utility as defined in section 2 of this act to incorporate the requirements of this section into an integrated system plan established under section 3 of this act.
+
+## Section 19
+This chapter may be known and cited as the Washington decarbonization act for large combination utilities.
+
+## Section 21
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+## Section 22
+This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/07/2024 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Increased Allocation for Materials, Supplies, and Operating Costs - WSPTA](https://www.wastatepta.org/wspta-testifies-increased-allocation-for-materials-supplies-and-operating-costs/#:~:text=HB%202494)

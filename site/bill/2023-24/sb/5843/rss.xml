@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5843/</link>
 		<description>Updates about SB 5843</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 29 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 04 Mar 2024 19:17:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -156,6 +156,13 @@
 			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-29/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>WA bill gives elections access to nonprofit that aided in social media suppression | Washington | thecentersquare.com</title>
+			<description>News article &quot;WA bill gives elections access to nonprofit that aided in social media suppression | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Mon, 04 Mar 2024 19:17:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_d3e42042-da79-11ee-81f5-9b6d4f7bb3b7.html#:~:text=Senate%20Bill%205843</guid>
 		</item>
 	</channel>
 </rss>

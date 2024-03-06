@@ -155,7 +155,7 @@
 * 👍💵 Kristin Ang
 * 👍💵 Kristin Ang
 
-## [SB 5444](/bill/2023-24/sb/5444/) - Firearm sensitive places 👍4  
+## [SB 5444](/bill/2023-24/sb/5444/) - Firearms/certain premises 👍4  
 
 ## [SB 5480](/bill/2023-24/sb/5480/) - Work-limiting disability 👍3  
 

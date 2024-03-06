@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 02/21/2024 [The Spokesman-Review](/org/the_spokesman-review/) - [Will Merg: Driving toward change: Why we need zero-emission school buses in Washington | The Spokesman-Review](https://www.spokesman.com/stories/2024/feb/21/will-merg-driving-toward-change-why-we-need-zero-e/#:~:text=House%20Bill%201368)

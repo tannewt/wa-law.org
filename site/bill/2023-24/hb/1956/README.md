@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 02/29/2024 [KING5](/org/king5/) - [‘Lucas Petty Act’ would add opioid, fentanyl awareness to health education courses | king5.com](https://www.king5.com/article/news/local/lucas-petty-act-would-add-opioid-fentanyl-awareness-to-health-education-courses/281-c68372f0-1597-462e-8c80-fd30130e9b12#:~:text=House%20Bill%201956)

@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/05/2024 [House Democrats](/org/house_democrats/) - [Pollet bill reducing lead in cookware heading to the governor’s desk. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/05/pollet-bill-reducing-lead-in-cookware-heading-to-the-governors-desk/#:~:text=House%20Bill%201551)
 * 03/01/2024 [KING5](/org/king5/) - [Lawmakers pass bill banning sales of lead-contaminated cookware | king5.com](https://www.king5.com/article/news/politics/state-politics/washington-lawmakers-to-ban-sales-cookware-contaminated-lead/281-09d24ac4-c132-4809-a89b-11b27e7807e6#:~:text=HB%201551)
 * 02/13/2024 [House Democrats](/org/house_democrats/) - [Pollet bill to reduce lead in cookware heads to the Senate  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/13/pollet-bill-to-reduce-lead-in-cookware-heads-to-the-senate/#:~:text=House%20Bill%201551)
 

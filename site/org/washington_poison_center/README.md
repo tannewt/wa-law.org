@@ -23,7 +23,7 @@
 ## [SB 5188](/bill/2023-24/sb/5188/) - Operating budget, supp. 👍1  
 * 👍 Dr. Scott Phillips
 
-## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose/high schools 👍1  
+## [SB 5804](/bill/2023-24/sb/5804/) - Opioid overdose med./schools 👍1  
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍1  
 

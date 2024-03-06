@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/19/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate Republican budget leader encouraged by proposal with strong lean toward addressing public-safety concerns](https://gorgenewscenter.com/2024/02/19/senate-republican-budget-leader-encouraged-by-proposal-with-strong-lean-toward-addressing-public-safety-concerns/#:~:text=SB%206099)
