@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/05/2024 [The Center Square](/org/the_center_square/) - [Gray wolves’ status in Washington unchanged after feds’ announcement | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3f61e07c-c46b-11ee-ad4a-6b53f53f0a0d.html#:~:text=House%20Bill%202424)

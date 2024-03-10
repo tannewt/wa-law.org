@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2384/</link>
 		<description>Updates about HB 2384</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 08 Mar 2024 23:10:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -399,6 +399,27 @@
 			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-05/Passed final passage; yeas, 55; nays, 38; absent, 0; excused, 4.</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Washington’s Traffic Camera Laws Get a Significant Overhaul - The Urbanist</title>
+			<description>News article &quot;Washington’s Traffic Camera Laws Get a Significant Overhaul - The Urbanist&quot; from The Urbanist.</description>
+			<pubDate>Fri, 08 Mar 2024 15:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2024/03/08/washingtons-traffic-camera-laws-get-a-significant-overhaul/#:~:text=House%20Bill%202384</guid>
+		</item>
+		<item>
+			<title>Bill allows speed cameras to ticket police responding to crime - MyNorthwest.com</title>
+			<description>News article &quot;Bill allows speed cameras to ticket police responding to crime - MyNorthwest.com&quot; from MyNorthwest.</description>
+			<pubDate>Fri, 08 Mar 2024 23:10:15 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/3953955/controversial-bill-allows-automated-speed-cameras-ticket-police-responding-crime/#:~:text=ESHB%202384</guid>
 		</item>
 	</channel>
 </rss>

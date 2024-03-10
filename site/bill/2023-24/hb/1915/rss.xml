@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1915/</link>
 		<description>Updates about HB 1915</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 07 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -536,6 +536,13 @@
 			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-05/Senate insists on its position and asks House to concur.</guid>
+		</item>
+		<item>
+			<title>House adheres to its position.</title>
+			<description>House adheres to its position.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/House adheres to its position.</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/08/2024 [Crosscut](/org/crosscut/) - [WA lawmakers approve union bargaining rules for legislative staff | Crosscut](https://crosscut.com/briefs/2024/03/wa-lawmakers-approve-union-bargaining-rules-legislative-staff#:~:text=Senate%20Bill%206194)
 * 01/14/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=Senate%20Bill%206194)
 
 ## Meetings

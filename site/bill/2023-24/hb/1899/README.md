@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 02/29/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Suzanne Schmidt announces disaster relief is on its way to assist with wildfire recovery](https://gorgenewscenter.com/2024/02/29/rep-suzanne-schmidt-announces-disaster-relief-is-on-its-way-to-assist-with-wildfire-recovery/#:~:text=House%20Bill%201899)

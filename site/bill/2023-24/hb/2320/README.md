@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 02/11/2024 [The Seattle Times](/org/the_seattle_times/) - [Don’t delay legislation on high-potency cannabis | The Seattle Times](https://www.seattletimes.com/opinion/editorials/dont-delay-legislation-on-high-potency-cannabis/#:~:text=HB%202320)

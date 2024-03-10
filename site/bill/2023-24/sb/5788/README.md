@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 02/20 10:30 AM - Civil Rights & Judiciary (CRJ): ESSB 5788 Service animal training

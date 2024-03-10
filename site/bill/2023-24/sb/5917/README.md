@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/07/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington lawmakers look to broaden hate crime law to cover vandalizing public property | Cascadia Daily News](https://www.cascadiadaily.com/2024/feb/07/washington-lawmakers-look-to-broaden-hate-crime-law-to-cover-vandalizing-public-property/#:~:text=Senate%20Bill%205917)

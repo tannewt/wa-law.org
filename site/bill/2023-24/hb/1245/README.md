@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/07/2024 [Wenatchee World](/org/wenatchee_world/) - [A heap of housing bills failed in WA’s legislative session | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/a-heap-of-housing-bills-failed-in-wa-s-legislative-session/article_2da5dd3a-dccf-11ee-b530-fb674c849926.html#:~:text=House%20Bill%201245)
+* 03/07/2024 [Crosscut](/org/crosscut/) - [A heap of housing bills failed in WA’s legislative session | Crosscut](https://crosscut.com/politics/2024/03/heap-housing-bills-failed-was-legislative-session#:~:text=House%20Bill%201245,)
 * 02/19/2024 [The Urbanist](/org/the_urbanist/) - [What’s in the Transit-Oriented Development Bill the WA House Just Passed - The Urbanist](https://www.theurbanist.org/2024/02/19/whats-in-the-transit-oriented-development-bill-the-wa-house-just-passed/#:~:text=HB%201245)
 * 02/11/2024 [House Republicans](/org/house_republicans/) - [Fix the housing and homelessness crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-housing-and-homelessness-crisis/#:~:text=House%20Bill%201245)
 * 02/05/2024 [The Seattle Times](/org/the_seattle_times/) - [With tweaks, rent limit proposal forges ahead in WA House | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-tweaks-rent-limit-proposal-forges-ahead-in-wa-house/#:~:text=House%20Bill%201245)

@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/08/2024 [FOX13](/org/fox13/) - [Washington's new laws in 2024: Everything you need to know](https://www.fox13seattle.com/news/washingtons-new-laws-in-2024-everything-you-need-to-know#:~:text=SB%205778)
 * 02/17/2024 [The Seattle Times](/org/the_seattle_times/) - [Some bills survive, others don’t after WA Legislature chamber deadline | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-survive-others-dont-after-wa-legislature-chamber-deadline/#:~:text=Senate%20Bill%205778)
 * 02/08/2024 [Senate Democrats](/org/senate_democrats/) - [Keiser’s Employee Free Choice Act passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/07/keisers-employee-free-choice-act-passes-senate/#:~:text=SB%205778)
 

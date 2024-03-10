@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6194/</link>
 		<description>Updates about SB 6194</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 04 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 08 Mar 2024 23:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -154,6 +154,20 @@
 			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-04/Senate refuses to concur in House amendments.  Asks House to recede from amendments.</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-08/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>WA lawmakers approve union bargaining rules for legislative staff | Crosscut</title>
+			<description>News article &quot;WA lawmakers approve union bargaining rules for legislative staff | Crosscut&quot; from Crosscut.</description>
+			<pubDate>Fri, 08 Mar 2024 23:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://crosscut.com/briefs/2024/03/wa-lawmakers-approve-union-bargaining-rules-legislative-staff#:~:text=Senate%20Bill%206194</guid>
 		</item>
 	</channel>
 </rss>

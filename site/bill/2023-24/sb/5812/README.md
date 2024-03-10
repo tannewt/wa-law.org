@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/09/2024 [The Center Square](/org/the_center_square/) - [Bill to study electric vehicle battery fires on fast track in Olympia | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7935b076-c6e6-11ee-9634-0f5c22f1e3bd.html#:~:text=Senate%20Bill%205812)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1889/</link>
 		<description>Updates about HB 1889</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 01 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 08 Mar 2024 17:41:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -483,6 +483,13 @@
 			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-01/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Washington's new laws in 2024: Everything you need to know</title>
+			<description>News article &quot;Washington's new laws in 2024: Everything you need to know&quot; from FOX13.</description>
+			<pubDate>Fri, 08 Mar 2024 17:41:41 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/washingtons-new-laws-in-2024-everything-you-need-to-know#:~:text=HB%201889</guid>
 		</item>
 	</channel>
 </rss>

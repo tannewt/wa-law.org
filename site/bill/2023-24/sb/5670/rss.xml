@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5670 - Running start/10th grade</title>
+		<title>SB 5670 - Running start/rising juniors</title>
 		<link>https://wa-law.org/bill/2023-24/sb/5670/</link>
 		<description>Updates about SB 5670</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 01 Mar 2024 22:10:10 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 08 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -239,6 +239,13 @@
 			<pubDate>Fri, 01 Mar 2024 22:10:10 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=Senate%20Bill%205670</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-08/Delivered to Governor.</guid>
 		</item>
 	</channel>
 </rss>

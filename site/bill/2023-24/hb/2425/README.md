@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/07/2024 [Wenatchee World](/org/wenatchee_world/) - [A heap of housing bills failed in WA’s legislative session | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/a-heap-of-housing-bills-failed-in-wa-s-legislative-session/article_2da5dd3a-dccf-11ee-b530-fb674c849926.html#:~:text=House%20Bill%202425)
+* 03/07/2024 [Crosscut](/org/crosscut/) - [A heap of housing bills failed in WA’s legislative session | Crosscut](https://crosscut.com/politics/2024/03/heap-housing-bills-failed-was-legislative-session#:~:text=House%20Bill%202425,)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024#:~:text=HB%202425)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%202425)
 

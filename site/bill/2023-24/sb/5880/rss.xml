@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5880/</link>
 		<description>Updates about SB 5880</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 07 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -94,6 +94,13 @@
 			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-05/First reading, referred to Health Care &amp; Wellness.</guid>
+		</item>
+		<item>
+			<title>By resolution, returned to Senate Rules Committee for third reading.</title>
+			<description>By resolution, returned to Senate Rules Committee for third reading.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/By resolution, returned to Senate Rules Committee for third reading.</guid>
 		</item>
 	</channel>
 </rss>

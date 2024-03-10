@@ -116,7 +116,7 @@
 ## [SB 6120](/bill/2023-24/sb/6120/) - Wildland urban interface 👍1  
 * 👍 Brian Considine
 
-## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍2  
+## [SB 6121](/bill/2023-24/sb/6121/) - Ag. and forestry biomass 👍2  
 
 ## [SB 6281](/bill/2023-24/sb/6281/) - Reforestation grants 👍1  
 * 👍 Csenka Favorini-Csorba

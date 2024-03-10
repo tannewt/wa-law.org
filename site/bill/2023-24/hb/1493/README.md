@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/07/2024 [Gorge News Center](/org/gorge_news_center/) - [Legislature keeps Padden policy in bill passed to combat impaired driving](https://gorgenewscenter.com/2024/03/07/legislature-keeps-padden-policy-in-bill-passed-to-combat-impaired-driving/#:~:text=House%20Bill%201493)
 * 04/24/2023 [Gorge News Center](/org/gorge_news_center/) - [Padden laments Legislature’s lack of progress to address impaired driving](https://gorgenewscenter.com/2023/04/24/padden-laments-legislatures-lack-of-progress-to-address-impaired-driving/#:~:text=House%20Bill%201493)
 
 ## Meetings

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Mon 02/19 01:30 PM - Community Safety, Justice, & Reentry (CSJR): SSB 6186 Missing persons/pub. assist.

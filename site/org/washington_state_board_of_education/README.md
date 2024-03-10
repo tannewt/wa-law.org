@@ -169,7 +169,7 @@
 ## [SB 5648](/bill/2023-24/sb/5648/) - Board of education waivers 👍3  
 * 👍 J. Lee Schultz
 
-## [SB 5670](/bill/2023-24/sb/5670/) - Running start/10th grade 👍1  
+## [SB 5670](/bill/2023-24/sb/5670/) - Running start/rising juniors 👍1  
 
 ## [SB 5710](/bill/2023-24/sb/5710/) - Behavioral health/youth 👍1  
 

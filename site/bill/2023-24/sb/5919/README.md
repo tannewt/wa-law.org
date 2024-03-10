@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Thu 02/15 08:00 AM - Environment & Energy (ENVI): SSB 5919 Biogenic carbon dioxide

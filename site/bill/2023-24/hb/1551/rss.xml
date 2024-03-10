@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1551/</link>
 		<description>Updates about HB 1551</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 07 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -300,6 +300,13 @@
 			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/03/05/pollet-bill-reducing-lead-in-cookware-heading-to-the-governors-desk/#:~:text=House%20Bill%201551</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/Delivered to Governor.</guid>
 		</item>
 	</channel>
 </rss>

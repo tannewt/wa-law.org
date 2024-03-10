@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 02/09/2024 [Senate Democrats](/org/senate_democrats/) - [Senate passes four Dhingra bills to tackle mental health, substance use disorder - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/09/senate-passes-four-dhingra-bills-to-tackle-mental-health-substance-use-disorder/#:~:text=SB%205853)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5241/</link>
 		<description>Updates about SB 5241</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 05 Mar 2024 16:37:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 08 Mar 2024 16:21:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1091,6 +1091,20 @@
 			<pubDate>Tue, 05 Mar 2024 16:37:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/health/bill-that-would-up-oversight-of-wa-hospital-consolidations-dies/#:~:text=Senate%20Bill%205241</guid>
+		</item>
+		<item>
+			<title>By resolution, returned to Senate Rules Committee for third reading.</title>
+			<description>By resolution, returned to Senate Rules Committee for third reading.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/By resolution, returned to Senate Rules Committee for third reading.</guid>
+		</item>
+		<item>
+			<title>'We played defense better': WA Republicans on the just-ended legislative session | Washington | thecentersquare.com</title>
+			<description>News article &quot;'We played defense better': WA Republicans on the just-ended legislative session | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Fri, 08 Mar 2024 16:21:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_ff903bd8-dd83-11ee-955d-fb20f554782d.html#:~:text=House%20Bill%205241</guid>
 		</item>
 	</channel>
 </rss>

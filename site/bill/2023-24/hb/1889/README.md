@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/08/2024 [FOX13](/org/fox13/) - [Washington's new laws in 2024: Everything you need to know](https://www.fox13seattle.com/news/washingtons-new-laws-in-2024-everything-you-need-to-know#:~:text=HB%201889)
 * 02/27/2024 [House Democrats](/org/house_democrats/) - [Walen bill expanding professional license eligibility heads to the Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/27/walens-bill-enhances-professional-license-eligibility/#:~:text=House%20Bill%201889)
 * 02/15/2024 [Crosscut](/org/crosscut/) - [WA Legislature keeps most of its priority bills alive — so far | Crosscut](https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=House%20Bill%201889)
 * 02/09/2024 [House Democrats](/org/house_democrats/) - [Walen bill to extend licensing eligibility to DREAMERS passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/walen-bill-to-extend-licensing-eligibility-to-dreamers-passes-house/#:~:text=House%20Bill%201889)

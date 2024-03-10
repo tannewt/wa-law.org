@@ -10,6 +10,10 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/08/2024 [Crosscut](/org/crosscut/) - [WA Legislature revs up plan to electrify 10,000 school buses | Crosscut](https://crosscut.com/politics/2024/03/wa-legislature-revs-plan-electrify-10000-school-buses#:~:text=House%20Bill%201589)
+* 03/07/2024 [FOX13](/org/fox13/) - [GOP: Inslee threatened to torpedo legislation if Dems didn't pass controversial gas bill](https://www.fox13seattle.com/news/gop-inslee-threatened-to-torpedo-legislation-if-dems-didnt-pass-controversial-gas-bill#:~:text=House%20Bill%201589)
+* 03/07/2024 [MyNorthwest](/org/mynorthwest/) - [Controversial 'Clean Energy Bill' could face constitutional challenge - MyNorthwest.com](https://mynorthwest.com/3953865/controversial-clean-energy-bill-drops-ban-on-natural-gas-may-face-challenge/#:~:text=House%20Bill%20(HB)%201589)
+* 03/06/2024 [The Center Square](/org/the_center_square/) - ['Environmental radicalism': WA Republicans decry passage of natural gas ban bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fcd1693e-dbf9-11ee-ad14-1b319f02570b.html#:~:text=Engrossed%20Substitute%20House%20Bill%201589)
 * 03/04/2024 [House Republicans](/org/house_republicans/) - [The last four days of the 2024 legislative session | Washington State House Republicans](http://houserepublicans.wa.gov/current/the-last-four-days-of-the-2024-legislative-session/#:~:text=House%20Bill%201589)
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201589)
 * 03/01/2024 [The Center Square](/org/the_center_square/) - ['A hot mess': Lt. Gov. Denny Heck blasts Dems over natural gas ban bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c44aaa06-d809-11ee-89f9-37ce82090049.html#:~:text=Engross%20Substitute%20House%20Bill%201589)

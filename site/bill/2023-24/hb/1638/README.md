@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/07/2024 [House Democrats](/org/house_democrats/) - [Fey sends bill to retain experienced Washington State Patrol troopers to the governor’s desk – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/07/fey-bill-sends-bill-to-retain-experienced-washington-state-patrol-troopers-to-the-governors-desk/#:~:text=House%20Bill%201638)
 * 02/12/2024 [House Democrats](/org/house_democrats/) - [Two Fey traffic safety bills advance to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/12/two-fey-traffic-safety-bills-advance-to-the-senate/#:~:text=House%20Bill%201638)
 * 01/19/2024 [House Democrats](/org/house_democrats/) - [Fey bill aims to retain experienced Washington State Patrol troopers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/19/fey-bill-aims-to-retain-experienced-washington-state-patrol-troopers/#:~:text=House%20Bill%201638)
 * 07/22/2023 [The Seattle Times](/org/the_seattle_times/) - [1 of 5 WA state trooper positions is vacant. What’s being done to fill the ranks? | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/lawmakers-eyeing-ways-to-keep-troopers-on-wa-roads-after-years-of-attrition/#:~:text=House%20Bill%201638)

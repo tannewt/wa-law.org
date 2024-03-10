@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2128/</link>
 		<description>Updates about HB 2128</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 07 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -147,6 +147,13 @@
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-21/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>By resolution, returned to House Rules Committee for third reading.</title>
+			<description>By resolution, returned to House Rules Committee for third reading.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/By resolution, returned to House Rules Committee for third reading.</guid>
 		</item>
 	</channel>
 </rss>

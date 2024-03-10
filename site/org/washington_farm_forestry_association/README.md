@@ -29,6 +29,6 @@
 ## [SB 5673](/bill/2023-24/sb/5673/) - Forest practices board 👍1  
 * 👍 Ken Miller
 
-## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍3  
+## [SB 6121](/bill/2023-24/sb/6121/) - Ag. and forestry biomass 👍3  
 
 ## [SB 6219](/bill/2023-24/sb/6219/) - Agritourism 👍1  

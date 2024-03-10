@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sjm/8009/</link>
 		<description>Updates about SJM 8009</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 04 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 07 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -102,6 +102,13 @@
 			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-04/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Filed with Secretary of State.</title>
+			<description>Filed with Secretary of State.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/Filed with Secretary of State.</guid>
 		</item>
 	</channel>
 </rss>

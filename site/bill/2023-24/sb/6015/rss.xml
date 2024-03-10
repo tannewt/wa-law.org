@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6015/</link>
 		<description>Updates about SB 6015</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 06 Mar 2024 15:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 08 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -255,6 +255,20 @@
 			<pubDate>Wed, 06 Mar 2024 15:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theurbanist.org/2024/03/06/in-trees-versus-parking-war-washington-just-gave-trees-a-leg-up/#:~:text=Senate%20Bill%206015</guid>
+		</item>
+		<item>
+			<title>A heap of housing bills failed in WA’s legislative session | Crosscut</title>
+			<description>News article &quot;A heap of housing bills failed in WA’s legislative session | Crosscut&quot; from Crosscut.</description>
+			<pubDate>Thu, 07 Mar 2024 12:59:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://crosscut.com/politics/2024/03/heap-housing-bills-failed-was-legislative-session#:~:text=Senate%20Bill%206015</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-08/Delivered to Governor.</guid>
 		</item>
 	</channel>
 </rss>

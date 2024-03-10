@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/08/2024 [Crosscut](/org/crosscut/) - [WA Legislature revs up plan to electrify 10,000 school buses | Crosscut](https://crosscut.com/politics/2024/03/wa-legislature-revs-plan-electrify-10000-school-buses#:~:text=House%20Bill%201368)
 * 02/21/2024 [The Spokesman-Review](/org/the_spokesman-review/) - [Will Merg: Driving toward change: Why we need zero-emission school buses in Washington | The Spokesman-Review](https://www.spokesman.com/stories/2024/feb/21/will-merg-driving-toward-change-why-we-need-zero-e/#:~:text=House%20Bill%201368)
 * 02/17/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Additional Supported Bills — Quaker Voice](https://www.quakervoicewa.org/2024-additional-supported-bills/#:~:text=HB%201368)
 * 02/15/2024 [Crosscut](/org/crosscut/) - [WA Legislature keeps most of its priority bills alive — so far | Crosscut](https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=House%20Bill%201368)

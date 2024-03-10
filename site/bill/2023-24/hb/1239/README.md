@@ -10,6 +10,7 @@
 * [Third Substitute](S3/)
 * [Fourth Substitute](S4/)
 * [Engrossed Fourth Substitute](S4.E/)
+* [Passed Legislature](S4.PL/)
 
 ## 📰 Articles
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=House%20Bill%201239)

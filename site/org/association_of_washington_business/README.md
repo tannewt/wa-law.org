@@ -808,7 +808,7 @@
 ## [SB 6114](/bill/2023-24/sb/6114/) - Sustainable aviation fuel  👎1 
 * 👎💵 Morgan Irwin
 
-## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍3  
+## [SB 6121](/bill/2023-24/sb/6121/) - Ag. and forestry biomass 👍3  
 
 ## [SB 6136](/bill/2023-24/sb/6136/) - Rental property B&O tax  👎1 
 

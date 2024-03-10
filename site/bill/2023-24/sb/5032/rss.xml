@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5032/</link>
 		<description>Updates about SB 5032</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 07 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -322,6 +322,20 @@
 			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-05/First reading, referred to Community Safety, Justice, &amp; Reentry.</guid>
+		</item>
+		<item>
+			<title>By resolution, returned to Senate Rules Committee for third reading.</title>
+			<description>By resolution, returned to Senate Rules Committee for third reading.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/By resolution, returned to Senate Rules Committee for third reading.</guid>
+		</item>
+		<item>
+			<title>Legislature keeps Padden policy in bill passed to combat impaired driving</title>
+			<description>News article &quot;Legislature keeps Padden policy in bill passed to combat impaired driving&quot; from Gorge News Center.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/03/07/legislature-keeps-padden-policy-in-bill-passed-to-combat-impaired-driving/#:~:text=Senate%20Bill%205032</guid>
 		</item>
 	</channel>
 </rss>

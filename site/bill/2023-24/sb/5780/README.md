@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
 * 03/06/2024 [The Seattle Times](/org/the_seattle_times/) - [WA to train public defenders, prosecutors for rural, underserved areas | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-to-train-public-defenders-prosecutors-for-rural-underserved-areas/#:~:text=Senate%20Bill%205780)

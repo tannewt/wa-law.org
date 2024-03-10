@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/08/2024 [The Center Square](/org/the_center_square/) - ['We played defense better': WA Republicans on the just-ended legislative session | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ff903bd8-dd83-11ee-955d-fb20f554782d.html#:~:text=House%20Bill%201893)
+* 03/07/2024 [Crosscut](/org/crosscut/) - [WA bill to offer unemployment pay to striking workers falls short | Crosscut](https://crosscut.com/briefs/2024/03/wa-bill-offer-unemployment-pay-striking-workers-falls-short#:~:text=House%20Bill%201893)
 * 03/04/2024 [House Republicans](/org/house_republicans/) - [The last four days of the 2024 legislative session | Washington State House Republicans](http://houserepublicans.wa.gov/current/the-last-four-days-of-the-2024-legislative-session/#:~:text=House%20Bill%201893)
 * 02/29/2024 [The Seattle Times](/org/the_seattle_times/) - [Final push in Olympia for unemployment benefits for striking workers | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/final-push-in-olympia-for-unemployment-benefits-for-striking-workers/#:~:text=House%20Bill%201893)
 * 02/28/2024 [The Seattle Times](/org/the_seattle_times/) - [Don’t extend unemployment benefits to striking workers | The Seattle Times](https://www.seattletimes.com/opinion/editorials/dont-extend-unemployment-benefits-to-striking-workers/#:~:text=House%20Bill%201893)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5427/</link>
 		<description>Updates about SB 5427</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 04 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 08 Mar 2024 17:41:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -775,6 +775,20 @@
 			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-04/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-06/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Washington's new laws in 2024: Everything you need to know</title>
+			<description>News article &quot;Washington's new laws in 2024: Everything you need to know&quot; from FOX13.</description>
+			<pubDate>Fri, 08 Mar 2024 17:41:41 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/washingtons-new-laws-in-2024-everything-you-need-to-know#:~:text=SB%205427</guid>
 		</item>
 	</channel>
 </rss>

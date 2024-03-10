@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/08/2024 [The Center Square](/org/the_center_square/) - ['We played defense better': WA Republicans on the just-ended legislative session | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ff903bd8-dd83-11ee-955d-fb20f554782d.html#:~:text=Senate%20Bill%205770)
 * 02/12/2024 [The Center Square](/org/the_center_square/) - [Property tax hike bill dead, but GOP lawmakers warn other tax increases remain | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e0346100-c9ed-11ee-9a92-4325a289d9d8.html#:~:text=Senate%20Bill%205770)
 * 02/10/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Corry relieved property tax increase bill failed, but warns Democrats still have many other bills that will cost you](https://gorgenewscenter.com/2024/02/10/rep-corry-relieved-property-tax-increase-bill-failed-but-warns-democrats-still-have-many-other-bills-that-will-cost-you/#:~:text=Senate%20Bill%205770)
 * 02/09/2024 [MyNorthwest](/org/mynorthwest/) - [Wash. lawmakers abandon proposed statewide property tax hike - MyNorthwest.com](https://mynorthwest.com/3950197/lawmakers-abandon-proposed-statewide-property-tax-hike/#:~:text=Senate%20Bill%205770%20(SB%205770))

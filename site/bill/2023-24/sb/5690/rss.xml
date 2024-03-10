@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5690/</link>
 		<description>Updates about SB 5690</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 07 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -159,6 +159,13 @@
 			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-05/House insists on its position and asks Senate to concur.</guid>
+		</item>
+		<item>
+			<title>Returned to Senate Rules 3.</title>
+			<description>Returned to Senate Rules 3.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/Returned to Senate Rules 3.</guid>
 		</item>
 	</channel>
 </rss>

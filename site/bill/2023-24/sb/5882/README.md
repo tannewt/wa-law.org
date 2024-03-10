@@ -10,6 +10,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/08/2024 [FOX13](/org/fox13/) - [Washington's new laws in 2024: Everything you need to know](https://www.fox13seattle.com/news/washingtons-new-laws-in-2024-everything-you-need-to-know#:~:text=SB%205882)
 * 02/12/2024 [FOX13](/org/fox13/) - [Senate bill asking for $770M for paraeducators, some say it's focused on the wrong thing](https://www.fox13seattle.com/news/senate-bill-asking-for-770m-for-paraeducators-some-say-its-focused-on-the-wrong-thing#:~:text=SB%205882)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SSB%205882)
 * 01/10/2024 [The Center Square](/org/the_center_square/) - [Reykdal defends public education during annual state of K-12 address | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0bc54d8e-aff4-11ee-ad96-c3e5190b03ba.html#:~:text=Senate%20Bill%205882)

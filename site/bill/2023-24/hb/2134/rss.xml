@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2134/</link>
 		<description>Updates about HB 2134</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 06 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 07 Mar 2024 23:23:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -301,6 +301,34 @@
 			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-06/Conference committee report; received 11:25 PM 3/6/2024.</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>NOTICIAS LEGISLATIVAS: Presupuesto de transporte que prioriza seguridad pública, preservación, y transbordadores va camino al escritorio del gobernador – Washington State House Democrats</title>
+			<description>News article &quot;NOTICIAS LEGISLATIVAS: Presupuesto de transporte que prioriza seguridad pública, preservación, y transbordadores va camino al escritorio del gobernador – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/03/07/noticias-legislativas-presupuesto-de-transporte-que-prioriza-seguridad-publica-preservacion-y-transbordadores-va-camino-al-escritorio-del-gobernador/#:~:text=HB%202134</guid>
+		</item>
+		<item>
+			<title>Transportation budget that prioritizes public safety, preservation and ferries heads to governor’s desk – Washington State House Democrats</title>
+			<description>News article &quot;Transportation budget that prioritizes public safety, preservation and ferries heads to governor’s desk – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/03/07/transportation-budget-that-prioritizes-public-safety-preservation-and-ferries-heads-to-governors-desk/#:~:text=HB%202134</guid>
+		</item>
+		<item>
+			<title>Transportation budget that prioritizes public safety, preservation and ferries heads to governor’s desk - Washington Senate Democrats</title>
+			<description>News article &quot;Transportation budget that prioritizes public safety, preservation and ferries heads to governor’s desk - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Thu, 07 Mar 2024 23:23:01 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/03/07/transportation-budget-that-prioritizes-public-safety-preservation-and-ferries-heads-to-governors-desk/#:~:text=HB%202134</guid>
 		</item>
 	</channel>
 </rss>

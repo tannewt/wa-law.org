@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## Meetings
 ### Tue 02/20 10:30 AM - Labor & Workplace Standards (LAWS): SSB 6108 Construction retainage

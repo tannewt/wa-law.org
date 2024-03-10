@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/20/2024 [Gorge News Center](/org/gorge_news_center/) - [House Housing Committee passes Padden small condominium bill](https://gorgenewscenter.com/2024/02/20/house-housing-committee-passes-padden-small-condominium-bill/#:~:text=Senate%20Bill%205840)

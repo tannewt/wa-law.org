@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/06/2024 [The Center Square](/org/the_center_square/) - [Former WSDOT economist sues, speaks out over gas price whistleblowing claims | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_59d26ec2-dc0d-11ee-943c-2b11ea5a8edb.html#:~:text=House%20Bill%201838)
 * 12/04/2023 [The Center Square](/org/the_center_square/) - [Gov's Office downplays former state economist's claim of pressure to lie about gas prices | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f8e058fe-92fb-11ee-a42d-bbe6e46bf55b.html#:~:text=House%20Bill%201838)
 
 ## Meetings

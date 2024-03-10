@@ -22,4 +22,4 @@
 
 ## [SB 5780](/bill/2023-24/sb/5780/) - Public defense & prosecution 👍1  
 
-## [SB 6121](/bill/2023-24/sb/6121/) - Biochar production 👍1  
+## [SB 6121](/bill/2023-24/sb/6121/) - Ag. and forestry biomass 👍1  

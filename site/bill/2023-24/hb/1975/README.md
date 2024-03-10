@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/07/2024 [House Democrats](/org/house_democrats/) - [Gov. Signs Ortiz-Self Bill Regarding Pandemic Unemployment Overpayment Interest – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/07/gov-signs-ortiz-self-bill-regarding-pandemic-unemployment-overpayment-interest/#:~:text=House%20Bill%201975)
 * 02/08/2024 [House Democrats](/org/house_democrats/) - [Ortiz-Self Offers Relief to Those Facing Pandemic Unemployment Overpayment Interest – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/ortiz-self-offers-relief-to-those-facing-pandemic-unemployment-overpayment-interest/#:~:text=House%20Bill%201975)
 
 ## Meetings

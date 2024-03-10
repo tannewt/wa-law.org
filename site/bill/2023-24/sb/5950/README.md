@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
 * 02/23/2024 [Gorge News Center](/org/gorge_news_center/) - [Wilson wins $1.5 million to combat sea lion predation on Columbia and tributaries](https://gorgenewscenter.com/2024/02/23/wilson-wins-1-5-million-to-combat-sea-lion-predation-on-columbia-and-tributaries/#:~:text=SB%205950)

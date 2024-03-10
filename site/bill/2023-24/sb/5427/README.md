@@ -6,8 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/08/2024 [FOX13](/org/fox13/) - [Washington's new laws in 2024: Everything you need to know](https://www.fox13seattle.com/news/washingtons-new-laws-in-2024-everything-you-need-to-know#:~:text=SB%205427)
 * 03/02/2024 [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers pass bill to create hotline for hate crimes and bias incidents | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-to-establish-hotline-for-hate-crimes-and-bias-incidents/#:~:text=Senate%20Bill%205427)
 * 02/29/2024 [The Center Square](/org/the_center_square/) - [Washington Legislature votes to create 'bias incident hotline' within AGO | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e8f88730-d73a-11ee-9889-3f1d2b606d3d.html#:~:text=Senate%20Bill%205427)
 * 02/15/2024 [KING5](/org/king5/) - [Jewish community lobbies for protections at state Capitol | king5.com](https://www.king5.com/article/news/community/facing-race/jewish-community-lobbies-protections/281-d7d09644-6a41-4dea-9e8a-64c1482c12d7#:~:text=SB%205427)

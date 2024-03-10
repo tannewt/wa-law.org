@@ -7,8 +7,12 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
+* [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/07/2024 [Senate Democrats](/org/senate_democrats/) - [Transportation budget that prioritizes public safety, preservation and ferries heads to governor’s desk - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/03/07/transportation-budget-that-prioritizes-public-safety-preservation-and-ferries-heads-to-governors-desk/#:~:text=HB%202134)
+* 03/07/2024 [House Democrats](/org/house_democrats/) - [NOTICIAS LEGISLATIVAS: Presupuesto de transporte que prioriza seguridad pública, preservación, y transbordadores va camino al escritorio del gobernador – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/07/noticias-legislativas-presupuesto-de-transporte-que-prioriza-seguridad-publica-preservacion-y-transbordadores-va-camino-al-escritorio-del-gobernador/#:~:text=HB%202134)
+* 03/07/2024 [House Democrats](/org/house_democrats/) - [Transportation budget that prioritizes public safety, preservation and ferries heads to governor’s desk – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/07/transportation-budget-that-prioritizes-public-safety-preservation-and-ferries-heads-to-governors-desk/#:~:text=HB%202134)
 * 02/17/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 19 - 23, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=HB%202134)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202134)
 

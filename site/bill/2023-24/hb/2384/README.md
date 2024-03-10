@@ -10,6 +10,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/08/2024 [MyNorthwest](/org/mynorthwest/) - [Bill allows speed cameras to ticket police responding to crime - MyNorthwest.com](https://mynorthwest.com/3953955/controversial-bill-allows-automated-speed-cameras-ticket-police-responding-crime/#:~:text=ESHB%202384)
+* 03/08/2024 [The Urbanist](/org/the_urbanist/) - [Washington’s Traffic Camera Laws Get a Significant Overhaul - The Urbanist](https://www.theurbanist.org/2024/03/08/washingtons-traffic-camera-laws-get-a-significant-overhaul/#:~:text=House%20Bill%202384)
 * 02/19/2024 [House Democrats](/org/house_democrats/) - [Presupuesto de Transporte de Cámara de Representantes de Washington propone $14.3 billones para transbordadores, seguridad vial, proyectos de carreteras, pasajes para peces y más – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/19/presupuesto-de-transporte-de-camara-de-representantes-de-washington-propone-14-3-billones-para-transbordadores-seguridad-vial-proyectos-de-carreteras-pasajes-para-peces-y-mas/#:~:text=HB%202384)
 * 02/19/2024 [House Democrats](/org/house_democrats/) - [WA House transportation budget proposes $14.3 billion for ferries, traffic safety, highway projects, fish passages and more – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/19/wa-house-transportation-budget-proposes-14-3-billion-for-ferries-traffic-safety-highway-projects-fish-passages-and-more/#:~:text=House%20Bill%202384)
 * 02/12/2024 [House Democrats](/org/house_democrats/) - [Donaghy traffic safety bill passes the House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/12/donaghy-traffic-safety-bill-passes-the-house-58-39/#:~:text=House%20Bill%202384)

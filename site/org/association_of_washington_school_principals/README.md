@@ -173,7 +173,7 @@
 
 ## [SB 5650](/bill/2023-24/sb/5650/) - K-12 inflationary increases 👍1  
 
-## [SB 5670](/bill/2023-24/sb/5670/) - Running start/10th grade 👍1 👎2 
+## [SB 5670](/bill/2023-24/sb/5670/) - Running start/rising juniors 👍1 👎2 
 * 👎💵 Roz Thompson
 
 ## [SB 5671](/bill/2023-24/sb/5671/) - K-12 experience factors 👍1  

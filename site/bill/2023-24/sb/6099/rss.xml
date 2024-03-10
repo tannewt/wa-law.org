@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6099/</link>
 		<description>Updates about SB 6099</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 08 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -138,6 +138,20 @@
 			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-05/Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Senators mystified by cut in drug task force funding; lawmakers approve other Republican fentanyl proposals</title>
+			<description>News article &quot;Senators mystified by cut in drug task force funding; lawmakers approve other Republican fentanyl proposals&quot; from Gorge News Center.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/03/07/senators-mystified-by-cut-in-drug-task-force-funding-lawmakers-approve-other-republican-fentanyl-proposals/#:~:text=SB%206099</guid>
+		</item>
+		<item>
+			<title>Delivered to Governor.</title>
+			<description>Delivered to Governor.</description>
+			<pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-08/Delivered to Governor.</guid>
 		</item>
 	</channel>
 </rss>

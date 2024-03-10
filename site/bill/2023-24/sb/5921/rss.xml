@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5921/</link>
 		<description>Updates about SB 5921</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 12 Feb 2024 06:44:11 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 07 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -110,6 +110,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Daryl/Williams/2024-02-12 06:44:11</guid>
+		</item>
+		<item>
+			<title>By resolution, returned to Senate Rules Committee for third reading.</title>
+			<description>By resolution, returned to Senate Rules Committee for third reading.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/By resolution, returned to Senate Rules Committee for third reading.</guid>
 		</item>
 	</channel>
 </rss>
