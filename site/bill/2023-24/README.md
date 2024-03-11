@@ -682,7 +682,7 @@
 * [SB 5332](sb/5332) - Homeless camps/schools, etc. 72👍 101👎 0❓ - S Loc Gov, Land
 * [SB 5365](sb/5365) - Vapor and tobacco/minors 9📰 137👍 31👎 5❓ - C 398 L 23
 * [SB 6276](sb/6276) - Digital electronics/repair 1📰 161👍 9👎 3❓ - S Environment, E
-* [HB 1915](hb/1915) - Financial education 8📰 163👍 0👎 9❓ - H adheres
+* [HB 1915](hb/1915) - Financial education 10📰 163👍 0👎 9❓ - H adheres
 * [HB 1026](hb/1026) - Local gov. design review 10📰 158👍 8👎 4❓ - H Workroom
 * [HB 2195](hb/2195) - Early learning facilities 2📰 131👍 36👎 3❓ - Del to Gov
 * [SB 6258](sb/6258) - Standardized health plans 158👍 12👎 0❓ - S Health & Long

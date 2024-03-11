@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/09/2024 [The Seattle Times](/org/the_seattle_times/) - [Financial education bill changed last minute on Senate floor and fails | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/financial-education-bill-changed-last-minute-on-senate-floor-and-fails/#:~:text=House%20Bill%201915)
+* 03/08/2024 [KUOW](/org/kuow/) - [KUOW - Why Washington's high school financial education bill didn't survive the '24 session](https://www.kuow.org/stories/washington-high-school-financial-education-bill-2024-legislative-session#:~:text=House%20Bill%201915)
 * 02/22/2024 [KING5](/org/king5/) - [Financial literary may soon be a graduation requirement at all Washington high schools | king5.com](https://www.king5.com/article/news/local/bill-requiring-students-financial-literacy-class-advances/281-c22ab596-611a-4e98-b60e-6e47b4eab3d3#:~:text=HB%201915)
 * 02/16/2024 [KUOW](/org/kuow/) - [KUOW - Balancing the books: Financial education could become a graduation requirement in WA schools](https://www.kuow.org/stories/wa-lawmakers-considering-bill-to-require-financial-education#:~:text=House%20Bill%201915)
 * 02/12/2024 [The Seattle Times](/org/the_seattle_times/) - [Financial literacy may become a graduation requirement for students | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/financial-literacy-may-become-a-graduation-requirement-for-students/#:~:text=House%20Bill%201915)
