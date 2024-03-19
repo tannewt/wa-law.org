@@ -9,6 +9,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/14/2024 [Gorge News Center](/org/gorge_news_center/) - [Governor signs Mosbrucker’s domestic violence supervision bill into law; Two other Mosbrucker bills await Inslee’s signature](https://gorgenewscenter.com/2024/03/14/governor-signs-mosbruckers-domestic-violence-supervision-bill-into-law-two-other-mosbrucker-bills-await-inslees-signature/#:~:text=House%20Bill%202396)
+* 03/13/2024 [The Center Square](/org/the_center_square/) - [How WA lawmakers did and did not address the fentanyl crisis during session | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_07d8d5f4-e183-11ee-b5de-831681fa2eb4.html#:~:text=HB%202396)
 * 03/05/2024 [Gorge News Center](/org/gorge_news_center/) - [Mosbrucker fentanyl bills gain Senate approval, one step closer to the governor’s desk](https://gorgenewscenter.com/2024/03/05/mosbrucker-fentanyl-bills-gain-senate-approval-one-step-closer-to-the-governors-desk/#:~:text=House%20Bill%202396)
 * 01/27/2024 [The Seattle Times](/org/the_seattle_times/) - [Ivan’s Law would promote fentanyl prevention, services, testing | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/ivans-law-would-promote-fentanyl-prevention-services-testing/#:~:text=House%20Bill%202396)
 * 01/26/2024 [The Center Square](/org/the_center_square/) - ['Can you please just help us?' WA lawmakers bill to address the fentanyl crisis | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_84dcd208-bc80-11ee-ba76-0bf71aa1a635.html#:~:text=House%20Bill%202396)

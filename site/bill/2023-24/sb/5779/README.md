@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/15/2024 [The Seattle Times](/org/the_seattle_times/) - [What’s next for WA ‘Sunshine Committee’ with exits, legislative apathy | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/whats-next-for-wa-sunshine-committee-with-exits-legislative-apathy/#:~:text=Senate%20Bill%205779)
 * 12/15/2023 [Gorge News Center](/org/gorge_news_center/) - [Wilson proposal would revitalize ‘Sunshine Committee’](https://gorgenewscenter.com/2023/12/15/wilson-proposal-would-revitalize-sunshine-committee/#:~:text=Senate%20Bill%205779)
 
 ## Meetings

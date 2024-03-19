@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/13/2024 [House Democrats](/org/house_democrats/) - [Octopuses in Washington to remain in their little hideaways beneath the waves, safe from farming.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/13/octopuses-in-washington-to-remain-in-their-little-hideaways-beneath-the-waves-safe-from-farming/#:~:text=House%20Bill%201153)
 * 02/07/2024 [House Democrats](/org/house_democrats/) - [House passes Peterson bill to ban Octopus farming in Washington. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/07/house-passes-peterson-bill-to-ban-octopus-farming-in-washington/#:~:text=House%20Bill%201153)
 * 02/17/2023 [The Center Square](/org/the_center_square/) - [Bill banning octopus farming in Washington state passes House committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_03d9fb18-af0c-11ed-8955-0bdf499e72bb.html#:~:text=House%20Bill%201153)
 * 02/13/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201153)

@@ -9,6 +9,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/13/2024 [The Spokesman-Review](/org/the_spokesman-review/) - [Inslee updates hate crime law, expands powers of physician assistants, boosts money paid to those leaving prison, recognizes Lunar New Year | The Spokesman-Review](https://www.spokesman.com/stories/2024/mar/13/the-2024-legislative-session-wrapped-last-week-now/#:~:text=5917)
+* 03/13/2024 [The Center Square](/org/the_center_square/) - [Gov. Inslee signs bill allowing hate crime charges for defacing public property | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_217aad78-e17b-11ee-b57f-53c6a4568cc8.html#:~:text=Senate%20Bill%205917)
 * 02/07/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington lawmakers look to broaden hate crime law to cover vandalizing public property | Cascadia Daily News](https://www.cascadiadaily.com/2024/feb/07/washington-lawmakers-look-to-broaden-hate-crime-law-to-cover-vandalizing-public-property/#:~:text=Senate%20Bill%205917)
 * 02/02/2024 [NW News Network](/org/nw_news_network/) - [First cutoff deadline, rent bill complications: A quick look at week 4 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-02/first-cutoff-deadline-rent-bill-complications-a-quick-look-at-week-4-in-the-wa-legislature#:~:text=Senate%20Bill%205917)
 * 02/02/2024 [The Center Square](/org/the_center_square/) - [WA Senate passes bill allowing hate crime charges for defacing public property | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_92ae3a64-c21d-11ee-a4f9-bfd47d666f0c.html#:~:text=Senate%20Bill%205917)

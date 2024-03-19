@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5935/</link>
 		<description>Updates about SB 5935</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 07 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 13 Mar 2024 18:16:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -237,6 +237,20 @@
 			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-07/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-13/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Stanford legislation limiting noncompetition contracts signed into law - Washington Senate Democrats</title>
+			<description>News article &quot;Stanford legislation limiting noncompetition contracts signed into law - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Wed, 13 Mar 2024 18:16:07 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/03/13/stanford-legislation-limiting-noncompetition-contracts-signed-into-law/#:~:text=SB%205935</guid>
 		</item>
 	</channel>
 </rss>

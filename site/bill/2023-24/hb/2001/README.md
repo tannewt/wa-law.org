@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/15/2024 [The Seattle Times](/org/the_seattle_times/) - [WA has no parole. Should prosecutors control who gets a second chance? | The Seattle Times](https://www.seattletimes.com/seattle-news/law-justice/with-no-parole-in-wa-should-prosecutors-control-who-gets-a-second-chance/#:~:text=House%20Bill%202001)
 * 03/04/2024 [House Republicans](/org/house_republicans/) - [The last four days of the 2024 legislative session | Washington State House Republicans](http://houserepublicans.wa.gov/current/the-last-four-days-of-the-2024-legislative-session/#:~:text=House%20Bill%202001)
 * 02/23/2024 [NW News Network](/org/nw_news_network/) - [Budgets, initiative hearings top agenda in week 7 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-23/budgets-initiative-hearings-top-agenda-in-week-7-of-washingtons-legislative-session#:~:text=House%20Bill%202001)
 * 02/19/2024 [House Republicans](/org/house_republicans/) - [Initiatives, bill updates, state budgets, and the week ahead | Washington State House Republicans](http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%202001)

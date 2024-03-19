@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/12/2024 [The Seattle Times](/org/the_seattle_times/) - [Key health takeaways from WA’s 2024 legislative session | The Seattle Times](https://www.seattletimes.com/seattle-news/health/key-health-take-aways-from-was-2024-legislative-session/#:~:text=House%20Bill%202295)
 * 02/13/2024 [House Democrats](/org/house_democrats/) - [Hospital-at-home program may continue in WA thanks to Rep. Bateman’s HB 2295 – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/13/hospital-at-home-program-may-continue-in-wa-thanks-to-rep-batemans-hb-2295/#:~:text=House%20Bill%202295)
 
 ## Meetings

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/11/2024 [The Seattle Times](/org/the_seattle_times/) - [What happened with WA lawmakers’ climate agenda | The Seattle Times](https://www.seattletimes.com/seattle-news/climate-lab/what-happened-with-wa-lawmakers-climate-agenda/#:~:text=House%20Bill%202070)
 * 02/24/2024 [The Seattle Times](/org/the_seattle_times/) - [Could WA lawmakers end developments like this one: a massive warehouse project in South Tacoma? | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/could-wa-lawmakers-end-developments-like-this-one-a-massive-warehouse-project-in-south-tacoma/#:~:text=House%20Bill%202070)
 * 01/08/2024 [The Seattle Times](/org/the_seattle_times/) - [From a state clam to car tab discounts, lawmakers’ agenda takes shape | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/from-a-state-clam-to-car-tab-discounts-lawmakers-agenda-takes-shape/#:~:text=House%20Bill%202070)
 

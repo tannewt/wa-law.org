@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
+## 📰 Articles
+* 03/14/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. April Connors’ bill to help build affordable housing on public lands signed into law](https://gorgenewscenter.com/2024/03/14/rep-april-connors-bill-to-help-build-affordable-housing-on-public-lands-signed-into-law/#:~:text=House%20Bill%202003)
+
 ## Meetings
 ### Thu 02/22 01:30 PM - Ways & Means (WM): ESHB 2003 Housing/public lands leases
 #### 13 👍 - Pro

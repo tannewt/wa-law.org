@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/12/2024 [The Center Square](/org/the_center_square/) - [Federal judge dismisses lawsuit over WA state law regulating firearms distribution | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_68457d8e-e0a2-11ee-9515-8f15bd458660.html#:~:text=Senate%20Bill%205078)
 * 03/08/2024 [KREM](/org/krem/) - [Judge dismisses challenges against WA gun laws | krem.com](https://www.krem.com/article/news/local/judge-dismisses-lawsuits-ferguson/293-fe19a1ce-bf4a-49a5-87cd-a646eefb373f#:~:text=Senate%20Bill%205078)
 * 05/12/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [Gov. Inslee Signs Gun Reform Legislation | South Seattle Emerald](https://southseattleemerald.com/2023/05/12/gov-inslee-signs-gun-reform-legislation/#:~:text=Senate%20Bill%205078)
 * 04/29/2023 [Wenatchee World](/org/wenatchee_world/) - [With assault weapons ban, Washington enters a new era of gun reform |  | wenatcheeworld.com](https://www.wenatcheeworld.com/with-assault-weapons-ban-washington-enters-a-new-era-of-gun-reform/article_33285b66-e545-11ed-944e-fb8806426d22.html#:~:text=Senate%20Bill%205078)

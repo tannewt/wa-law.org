@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/11/2024 [The Seattle Times](/org/the_seattle_times/) - [What happened with WA lawmakers’ climate agenda | The Seattle Times](https://www.seattletimes.com/seattle-news/climate-lab/what-happened-with-wa-lawmakers-climate-agenda/#:~:text=House%20Bill%202144)
 * 02/14/2024 [KUOW](/org/kuow/) - [KUOW - Washington bottle deposit proposal fizzles out in Legislature](https://www.kuow.org/stories/washington-bottle-deposit-proposal-fizzles-out-in-legislature#:~:text=HB%202144)
 * 02/10/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Corry relieved property tax increase bill failed, but warns Democrats still have many other bills that will cost you](https://gorgenewscenter.com/2024/02/10/rep-corry-relieved-property-tax-increase-bill-failed-but-warns-democrats-still-have-many-other-bills-that-will-cost-you/#:~:text=HB%202144)
 * 02/03/2024 [KUOW](/org/kuow/) - [KUOW - Washington lawmakers crack open a fresh bottle deposit bill](https://www.kuow.org/stories/washington-lawmakers-crack-open-a-fresh-bottle-deposit-bill#:~:text=HB%202144)

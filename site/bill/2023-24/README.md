@@ -11,31 +11,31 @@
 * [HB 1240](hb/1240) - Firearms/assault weapons 77📰 2828👍 10425👎 26❓ - C 162 L 23
 * [HB 1143](hb/1143) - Firearms/purchase & transfer 47📰 3402👍 8858👎 16❓ - C 161 L 23
 * [HB 1469](hb/1469) - Health care services/access 31📰 6406👍 4534👎 9❓ - C 193 L 23
-* [HB 2114](hb/2114) - Residential tenants 50📰 7035👍 3700👎 50❓ - H Rules 3C
+* [HB 2114](hb/2114) - Residential tenants 53📰 7035👍 3700👎 50❓ - H Rules 3C
 * [SB 5599](sb/5599) - Protected health care/youth 34📰 569👍 9854👎 28❓ - C 408 L 23
-* [SB 5078](sb/5078) - Firearm industry duties 25📰 3527👍 6551👎 3❓ - C 163 L 23
+* [SB 5078](sb/5078) - Firearm industry duties 26📰 3527👍 6551👎 3❓ - C 163 L 23
 * [HB 1038](hb/1038) - Anesthesiologist assistants 1📰 2398👍 6105👎 38❓ - H HC/Wellness
-* [SB 5770](sb/5770) - Property tax 27📰 516👍 7579👎 203❓ - S Rules X
-* [HB 1110](hb/1110) - Middle housing 89📰 5098👍 1228👎 53❓ - C 332 L 23
+* [SB 5770](sb/5770) - Property tax 28📰 516👍 7579👎 203❓ - S Rules X
+* [HB 1110](hb/1110) - Middle housing 90📰 5098👍 1228👎 53❓ - C 332 L 23
 * [SB 5232](sb/5232) - Firearms/purchase & transfer 7📰 1782👍 4345👎 2❓ - S Ways & Means
 * [HB 1333](hb/1333) - Domestic violent extremism 4📰 253👍 5451👎 12❓ - H Rules X
 * [HB 1389](hb/1389) - Residential rent increases 33📰 3125👍 2455👎 27❓ - H Rules X
 * [SB 5444](sb/5444) - Firearms/certain premises 14📰 2645👍 2865👎 4❓ - Del to Gov
-* [SB 5241](sb/5241) - Health care marketplace 24📰 3903👍 1435👎 6❓ - S Rules 3
+* [SB 5241](sb/5241) - Health care marketplace 25📰 3903👍 1435👎 6❓ - S Rules 3
 * [HB 1181](hb/1181) - Climate change/planning 28📰 4665👍 601👎 16❓ - C 228 L 23
 * [SB 5768](sb/5768) - DOC/abortion medications 20📰 1440👍 3668👎 7❓ - C 195 L 23
-* [SB 5462](sb/5462) - Inclusive learning standards 16📰 654👍 4223👎 10❓ - Del to Gov
+* [SB 5462](sb/5462) - Inclusive learning standards 18📰 654👍 4223👎 10❓ - Del to Gov
 * [HB 1045](hb/1045) - Basic income pilot program 24📰 2290👍 2561👎 9❓ - H Approps
 * [HB 1859](hb/1859) - Concerning the rights of residents in long-term care facilities. 1📰 1321👍 3389👎 106❓ - H HC/Wellness
 * [SB 5427](sb/5427) - Hate crimes & bias incidents 13📰 1025👍 3774👎 8❓ - Del to Gov
 * [HB 2494](hb/2494) - School operating costs 2📰 460👍 4173👎 6❓ - Del to Gov
 * [HB 2021](hb/2021) - Firearm disposition 7📰 2328👍 2247👎 8❓ - Del to Gov
-* [HB 2118](hb/2118) - Firearms dealers 17📰 1262👍 3288👎 3❓ - Del to Gov
+* [HB 2118](hb/2118) - Firearms dealers 19📰 1262👍 3288👎 3❓ - Del to Gov
 * [HB 2065](hb/2065) - Offender score recalc. 8📰 4133👍 169👎 19❓ - H Rules 3C
-* [HB 1903](hb/1903) - Lost or stolen firearms 14📰 1873👍 2313👎 4❓ - Del to Gov
+* [HB 1903](hb/1903) - Lost or stolen firearms 15📰 1873👍 2313👎 4❓ - Del to Gov
 * [SB 5242](sb/5242) - Abortion cost sharing 24📰 1286👍 2743👎 0❓ - C 194 L 23
 * [SB 5082](sb/5082) - Advisory votes 21📰 2333👍 1482👎 3❓ - C 109 L 23
-* [SB 5982](sb/5982) - Vaccine definition 556👍 3236👎 3❓ - Del to Gov
+* [SB 5982](sb/5982) - Vaccine definition 556👍 3236👎 3❓ - C 41 L 24
 * [HB 1579](hb/1579) - Independent prosecutions 17📰 2446👍 1220👎 5❓ - H Rules 3C
 * [HB 2250](hb/2250) - Local elections 4📰 1709👍 1843👎 5❓ - H Rules X
 * [HB 1541](hb/1541) - Lived experience 7📰 2079👍 1389👎 7❓ - Del to Gov
@@ -45,7 +45,7 @@
 * [ESJM 8006](esjm/8006) - Universal health care 2📰 1066👍 2278👎 1❓ - S Rules 3
 * [SB 5961](sb/5961) - Residential tenants 14📰 2421👍 833👎 11❓ - S Housing
 * [HB 1178](hb/1178) - Firearms/local government 5📰 890👍 2341👎 5❓ - H Civil R & Judi
-* [HB 1368](hb/1368) - Zero emission school buses 18📰 1789👍 1408👎 14❓ - Del to Gov
+* [HB 1368](hb/1368) - Zero emission school buses 19📰 1789👍 1408👎 14❓ - Del to Gov
 * [SB 6196](sb/6196) - Basic income pilot program 4📰 1441👍 1689👎 3❓ - S Human Services
 * [HB 1678](hb/1678) - Dental therapists 8📰 1471👍 1619👎 5❓ - C 460 L 23
 * [SB 5486](sb/5486) - Wealth/property tax 15📰 2642👍 433👎 5❓ - S Ways & Means
@@ -55,7 +55,7 @@
 * [HB 1655](hb/1655) - Provider contract comp. 2939👍 10👎 12❓ - H HCWDPS
 * [HB 1628](hb/1628) - Real estate excise tax 18📰 1357👍 1518👎 5❓ - H Rules X
 * [HB 1985](hb/1985) - PERS/TRS 1 benefit increase 5📰 2527👍 293👎 16❓ - Del to Gov
-* [HB 1589](hb/1589) - Clean energy 30📰 542👍 2183👎 42❓ - Del to Gov
+* [HB 1589](hb/1589) - Clean energy 34📰 542👍 2183👎 42❓ - Del to Gov
 * [SB 5466](sb/5466) - Transit-oriented development 40📰 2545👍 46👎 35❓ - S Rules X
 * [HB 1391](hb/1391) - Energy in buildings 6📰 2075👍 529👎 20❓ - H Rules 3C
 * [HB 1832](hb/1832) - Vehicle per mile charge 6📰 62👍 2527👎 34❓ - H Transportation
@@ -72,16 +72,16 @@
 * [HB 1902](hb/1902) - Firearms/purchase & transfer 5📰 878👍 1472👎 3❓ - H Civil R & Judi
 * [HB 1932](hb/1932) - Even-numbered year elections 20📰 774👍 1555👎 6❓ - H Rules 3C
 * [SB 5389](sb/5389) - Optometry 1📰 615👍 1710👎 5❓ - C 400 L 23
-* [HB 2160](hb/2160) - Housing development 9📰 1559👍 743👎 26❓ - H Rules 3C
+* [HB 2160](hb/2160) - Housing development 10📰 1559👍 743👎 26❓ - H Rules 3C
 * [SB 5435](sb/5435) - Residential rent increases 14📰 1207👍 1090👎 11❓ - S Housing
 * [HB 1002](hb/1002) - Hazing penalty 10📰 2240👍 12👎 11❓ - C 196 L 23
 * [HB 2054](hb/2054) - Concerning bulk purchases and transfers of firearms. 3📰 843👍 1414👎 2❓ - H Civil R & Judi
-* [HB 2474](hb/2474) - Transitional housing siting 2📰 461👍 1770👎 7❓ - H Rules 3C
+* [HB 2474](hb/2474) - Transitional housing siting 4📰 461👍 1770👎 7❓ - H Rules 3C
 * [HB 2095](hb/2095) - Gift certificates/unclaimed 2📰 1944👍 261👎 1❓ - H Finance
 * [HB 1340](hb/1340) - Health professions/conduct 23📰 1547👍 650👎 1❓ - C 192 L 23
-* [HB 1954](hb/1954) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 1📰 416👍 1767👎 2❓ - C 14 L 24
+* [HB 1954](hb/1954) - Harmonizing language relating to reproductive health care services and gender-affirming treatment. 2📰 416👍 1767👎 2❓ - C 14 L 24
 * [HB 2094](hb/2094) - Gift certificates 2📰 1930👍 244👎 0❓ - H ConsPro&Bus
-* [HB 2049](hb/2049) - Solid waste management 8📰 1769👍 343👎 17❓ - H Rules X
+* [HB 2049](hb/2049) - Solid waste management 9📰 1769👍 343👎 17❓ - H Rules X
 * [SB 5371](sb/5371) - Orca vessel protection 12📰 2062👍 23👎 27❓ - C 452 L 23
 * [HB 1238](hb/1238) - Free school meals 27📰 1951👍 126👎 5❓ - C 379 L 23
 * [HB 2270](hb/2270) - Department of housing 9📰 152👍 1917👎 4❓ - H Rules 3C
@@ -89,10 +89,10 @@
 * [SB 6191](sb/6191) - Housing/taxes 4📰 1726👍 262👎 4❓ - S Ways & Means
 * [SB 5990](sb/5990) - Env. justice/SEPA projects 1330👍 641👎 13❓ - S Environment, En
 * [SB 5963](sb/5963) - Deadly weapons insurance 5📰 786👍 1179👎 1❓ - S Law & Justice
-* [SB 6052](sb/6052) - Petroleum product supply 8📰 1016👍 945👎 5❓ - S Ways & Means
+* [SB 6052](sb/6052) - Petroleum product supply 9📰 1016👍 945👎 5❓ - S Ways & Means
 * [HB 1433](hb/1433) - Energy labeling/residential 5📰 1338👍 600👎 3❓ - H Rules 3C
 * [HB 1085](hb/1085) - Plastic pollution 6📰 1707👍 221👎 8❓ - C 135 L 23
-* [SB 5838](sb/5838) - AI task force 10📰 264👍 1592👎 28❓ - Del to Gov
+* [SB 5838](sb/5838) - AI task force 11📰 264👍 1592👎 28❓ - Del to Gov
 * [HB 1151](hb/1151) - Fertility services coverage 2📰 1753👍 115👎 2❓ - H Rules X
 * [HB 1282](hb/1282) - Public building materials 1📰 1227👍 620👎 10❓ - Del to Gov
 * [HB 2442](hb/2442) - Law enforcement memorial 1📰 222👍 1626👎 5❓ - H Cap Budget
@@ -100,23 +100,23 @@
 * [HB 1460](hb/1460) - DNR land 1📰 1807👍 17👎 14❓ - C 383 L 23
 * [SB 5964](sb/5964) - Free school meals 4📰 1265👍 526👎 7❓ - S EL/K-12
 * [HB 1074](hb/1074) - Landlord damage claims 7📰 999👍 785👎 7❓ - C 331 L 23
-* [SB 6058](sb/6058) - Carbon market linkage 17📰 138👍 1485👎 138❓ - Del to Gov
+* [SB 6058](sb/6058) - Carbon market linkage 18📰 138👍 1485👎 138❓ - Del to Gov
 * [SB 5217](sb/5217) - Musculoskeletal injuries/L&I 3📰 1114👍 603👎 37❓ - C 112 L 23
-* [SB 6095](sb/6095) - Secretary of health orders 35👍 1716👎 1❓ - Del to Gov
+* [SB 6095](sb/6095) - Secretary of health orders 35👍 1716👎 1❓ - C 100 L 24
 * [SB 6264](sb/6264) - Competency-based education 3📰 41👍 1640👎 4❓ - S Rules 3
-* [HB 2276](hb/2276) - Housing/taxes 9📰 1372👍 291👎 6❓ - H Rules R
+* [HB 2276](hb/2276) - Housing/taxes 10📰 1372👍 291👎 6❓ - H Rules R
 * [SB 5882](sb/5882) - Prototypical school staffing 6📰 773👍 871👎 16❓ - Del to Gov
 * [HB 1363](hb/1363) - Vehicular pursuits 44📰 706👍 938👎 14❓ - H Rules X
 * [SB 6161](sb/6161) - Provider contract comp. 1644👍 6👎 5❓ - S Health & Long
 * [SB 5738](sb/5738) - LeMay special license plate 1625👍 1👎 11❓ - S Transportation
-* [SB 6269](sb/6269) - Alt. voter verification 208👍 1413👎 2❓ - Del to Gov
+* [SB 6269](sb/6269) - Alt. voter verification 208👍 1413👎 2❓ - C 138 L 24
 * [SB 5297](sb/5297) - Commercial salmon fisheries 1400👍 170👎 20❓ - S Ag/Water/Natur
 * [SB 5198](sb/5198) - Mobile home community sales 5📰 1403👍 177👎 9❓ - C 40 L 23
 * [SB 6144](sb/6144) - Prescribing psychologists 575👍 998👎 2❓ - S Health & Long
 * [SB 5154](sb/5154) - Solid waste management 6📰 1475👍 63👎 21❓ - S Ways & Means
 * [SB 5102](sb/5102) - School library info and tech 1510👍 41👎 6❓ - S Rules X
 * [SB 5208](sb/5208) - Online voter registration 4📰 673👍 871👎 1❓ - C 363 L 23
-* [HB 1889](hb/1889) - Professionals/immigration 6📰 982👍 541👎 19❓ - Del to Gov
+* [HB 1889](hb/1889) - Professionals/immigration 7📰 982👍 541👎 19❓ - C 50 L 24
 * [HB 2037](hb/2037) - Holocaust and genocide edu. 6📰 1307👍 180👎 42❓ - H Rules 3C
 * [HB 1789](hb/1789) - Ecosystem services 11📰 458👍 1057👎 11❓ - H Ag&Nr
 * [HB 1155](hb/1155) - Consumer health data 35📰 1423👍 71👎 28❓ - C 191 L 23
@@ -131,12 +131,12 @@
 * [HB 1025](hb/1025) - Police/private actions 8📰 1308👍 79👎 2❓ - H Civil R & Judi
 * [SB 5112](sb/5112) - Voter registration 7📰 907👍 475👎 4❓ - C 466 L 23
 * [SB 5077](sb/5077) - Uniform commercial code 1📰 8👍 1360👎 2❓ - C 266 L 23
-* [SB 5213](sb/5213) - Health care benefit managers 1📰 604👍 739👎 18❓ - Del to Gov
+* [SB 5213](sb/5213) - Health care benefit managers 2📰 604👍 739👎 18❓ - Del to Gov
 * [HB 1222](hb/1222) - Hearing instruments coverage 3📰 1351👍 5👎 4❓ - C 245 L 23
 * [HB 2115](hb/2115) - Prescription labels/abortion 2📰 356👍 982👎 0❓ - Del to Gov
 * [SB 5350](sb/5350) - PERS/TRS 1 benefit increase 3📰 1313👍 3👎 3❓ - C 397 L 23
 * [HB 1071](hb/1071) - School resource officers 1📰 873👍 441👎 2❓ - H Education
-* [HB 1272](hb/1272) - Voters' pamphlets 171👍 1138👎 4❓ - Del to Gov
+* [HB 1272](hb/1272) - Voters' pamphlets 171👍 1138👎 4❓ - C 78 L 24
 * [HB 1466](hb/1466) - Dental auxiliaries 1📰 584👍 701👎 7❓ - C 211 L 23
 * [SB 5054](sb/5054) - Prof. learning communities 4📰 15👍 1263👎 6❓ - S Rules X
 * [SB 5496](sb/5496) - Covenant homeownership prg. 2📰 916👍 364👎 1❓ - S Ways & Means
@@ -144,7 +144,7 @@
 * [SB 6208](sb/6208) - Public school materials 2📰 459👍 812👎 3❓ - S EL/K-12
 * [SB 5203](sb/5203) - Climate change/planning 8📰 1241👍 22👎 2❓ - S Ways & Means
 * [SB 5237](sb/5237) - Education law noncompliance 2📰 16👍 1227👎 6❓ - S Ways & Means
-* [HB 2070](hb/2070) - Env. justice/SEPA projects 2📰 1154👍 82👎 11❓ - H Approps
+* [HB 2070](hb/2070) - Env. justice/SEPA projects 3📰 1154👍 82👎 11❓ - H Approps
 * [HB 1445](hb/1445) - Law enf. misconduct 6📰 1047👍 193👎 1❓ - H Rules X
 * [HB 1459](hb/1459) - PERS & TRS plan 1 adjustment 1📰 1219👍 3👎 11❓ - H Approps
 * [HB 1397](hb/1397) - Dependency 2📰 928👍 295👎 3❓ - H Human Svc, You
@@ -153,7 +153,7 @@
 * [HB 2459](hb/2459) - Alt. measure disclosures 1📰 36👍 1171👎 2❓ - H Rules X
 * [SB 5006](sb/5006) - Waiver of firearm rights 4📰 337👍 867👎 3❓ - C 262 L 23
 * [HB 2239](hb/2239) - Social-emotional instruction 4📰 364👍 837👎 3❓ - H Rules 3C
-* [HB 1893](hb/1893) - Unemp ins/strikes & lockouts 13📰 662👍 528👎 8❓ - H Rules 3C
+* [HB 1893](hb/1893) - Unemp ins/strikes & lockouts 15📰 662👍 528👎 8❓ - H Rules 3C
 * [HB 1562](hb/1562) - Violence 4📰 688👍 501👎 7❓ - C 295 L 23
 * [SB 5999](sb/5999) - Financial aid eligibility 1📰 1149👍 35👎 12❓ - S Ways & Means
 * [HB 1239](hb/1239) - Educator ethics & complaints 3📰 688👍 499👎 5❓ - Del to Gov
@@ -187,12 +187,12 @@
 * [SB 6136](sb/6136) - Rental property B&O tax 2📰 65👍 925👎 3❓ - S Ways & Means
 * [HB 1424](hb/1424) - Dogs and cats/consumers 9📰 823👍 149👎 15❓ - C 208 L 23
 * [HB 1189](hb/1189) - Total confinement release 4📰 892👍 84👎 4❓ - H Community Safet
-* [HB 1062](hb/1062) - Law enf. officers/deception 7📰 369👍 606👎 3❓ - H Rules X
+* [HB 1062](hb/1062) - Law enf. officers/deception 8📰 369👍 606👎 3❓ - H Rules X
 * [SB 5939](sb/5939) - Livestock wolf predation 1📰 348👍 621👎 5❓ - S Ag/Water/Natura
 * [HB 1489](hb/1489) - Mt. St. Helens license plate 966👍 3👎 0❓ - H Transportation
 * [HB 1392](hb/1392) - Electronics repair 14📰 914👍 50👎 4❓ - H ConsPro&Bus
 * [HB 2347](hb/2347) - Adult family home info. 908👍 55👎 4❓ - Del to Gov
-* [SB 6007](sb/6007) - Grocery workers 1📰 915👍 35👎 15❓ - Del to Gov
+* [SB 6007](sb/6007) - Grocery workers 1📰 915👍 35👎 15❓ - C 129 L 24
 * [SB 5109](sb/5109) - Wage replacement 4📰 914👍 46👎 2❓ - S Ways & Means
 * [HB 1230](hb/1230) - School websites/drug info. 9📰 660👍 289👎 12❓ - C 173 L 23
 * [SB 5197](sb/5197) - Eviction processes 5📰 239👍 712👎 6❓ - C 336 L 23
@@ -203,13 +203,13 @@
 * [HB 1258](hb/1258) - Tourism marketing 894👍 50👎 1❓ - C 348 L 23
 * [HB 2019](hb/2019) - Native American apprentices 1📰 213👍 728👎 2❓ - Del to Gov
 * [HB 1087](hb/1087) - Solitary confinement 9📰 889👍 44👎 9❓ - H Approps
-* [HB 1153](hb/1153) - Octopus farming 3📰 861👍 80👎 1❓ - Del to Gov
+* [HB 1153](hb/1153) - Octopus farming 4📰 861👍 80👎 1❓ - C 45 L 24
 * [SB 6304](sb/6304) - Transp. electrification 1📰 260👍 670👎 8❓ - S Rules X
 * [HB 1784](hb/1784) - Hunger relief 6📰 925👍 3👎 6❓ - C 63 L 23
 * [HB 1170](hb/1170) - Climate response strategy 10📰 867👍 60👎 6❓ - C 169 L 23
 * [HB 2470](hb/2470) - Creating a local sales and use tax to address gender-based violence. 46👍 883👎 4❓ - H Local Govt
 * [HB 1124](hb/1124) - Residential rent and fees 21📰 657👍 268👎 4❓ - H Rules X
-* [HB 1510](hb/1510) - Community preservation auth. 596👍 329👎 4❓ - H ref/S recede
+* [HB 1510](hb/1510) - Community preservation auth. 596👍 329👎 4❓ - H Rules 3C
 * [SB 5624](sb/5624) - Substance use recovery serv. 3📰 892👍 26👎 10❓ - S Law & Justice
 * [HB 1244](hb/1244) - Enrichment levy authority 5📰 400👍 521👎 2❓ - H Rules X
 * [SB 5931](sb/5931) - Motorized vehicle tires/6PPD 1📰 388👍 522👎 6❓ - Del to Gov
@@ -219,7 +219,7 @@
 * [HB 1575](hb/1575) - Cultural access programs/tax 4📰 742👍 156👎 1❓ - C 179 L 23
 * [HB 1584](hb/1584) - Nuclear reactor technology 1📰 610👍 285👎 4❓ - H Env & Energy
 * [SB 5517](sb/5517) - Water resource mitigation 133👍 756👎 5❓ - S Ways & Means
-* [HB 1508](hb/1508) - Health care cost board 4📰 754👍 124👎 9❓ - Del to Gov
+* [HB 1508](hb/1508) - Health care cost board 4📰 754👍 124👎 9❓ - C 80 L 24
 * [HB 2266](hb/2266) - Construction/sanitary cond. 2📰 403👍 479👎 5❓ - Del to Gov
 * [SB 6236](sb/6236) - Home-based instruction decl. 64👍 816👎 1❓ - S EL/K-12
 * [HB 1269](hb/1269) - Rx drug affordability board 3📰 850👍 21👎 9❓ - H HC/Wellness
@@ -234,12 +234,12 @@
 * [HB 1167](hb/1167) - Residential housing 5📰 567👍 269👎 8❓ - H Workroom
 * [SB 5072](sb/5072) - Highly capable students 10📰 818👍 17👎 7❓ - C 265 L 23
 * [SB 5945](sb/5945) - Vehicle dealers 772👍 66👎 3❓ - S Rules X
-* [HB 2144](hb/2144) - Beverage deposit return prg. 6📰 720👍 102👎 15❓ - H Rules X
+* [HB 2144](hb/2144) - Beverage deposit return prg. 7📰 720👍 102👎 15❓ - H Rules X
 * [SB 5311](sb/5311) - Special education funding 23📰 758👍 10👎 63❓ - S Rules X
 * [SB 5986](sb/5986) - Out-of-network health costs 1📰 800👍 8👎 21❓ - Del to Gov
 * [SB 6237](sb/6237) - Wildlife safe passages 1📰 804👍 24👎 1❓ - S Ways & Means
 * [HB 1618](hb/1618) - Childhood sexual abuse/SOL 9📰 801👍 20👎 5❓ - Del to Gov
-* [HB 2113](hb/2113) - GMA housing element 3📰 333👍 488👎 5❓ - H Rules X
+* [HB 2113](hb/2113) - GMA housing element 4📰 333👍 488👎 5❓ - H Rules X
 * [HB 2188](hb/2188) - Health subsidy/retirees 1📰 810👍 0👎 6❓ - H Approps
 * [SB 5356](sb/5356) - Procurement/automated system 802👍 11👎 3❓ - S Environment, E
 * [SB 5019](sb/5019) - School safety staff 2📰 37👍 767👎 7❓ - S Rules X
@@ -254,12 +254,12 @@
 * [SB 5598](sb/5598) - Horses/funding 552👍 205👎 1❓ - S Rules X
 * [SB 6315](sb/6315) - Retiree benefits 751👍 2👎 5❓ - S Ways & Means
 * [HB 1905](hb/1905) - Equal pay/protected classes 7📰 111👍 639👎 3❓ - Del to Gov
-* [HB 1951](hb/1951) - Algorithmic discrimination 36👍 707👎 9❓ - H ConsPro&Bus
+* [HB 1951](hb/1951) - Algorithmic discrimination 1📰 36👍 707👎 9❓ - H ConsPro&Bus
 * [HB 1885](hb/1885) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations. 3📰 713👍 21👎 13❓ - H State Govt & Tr
 * [HB 2051](hb/2051) - Reducing emissions from small off-road engines. 3📰 269👍 466👎 10❓ - H Env & Energy
 * [HB 1559](hb/1559) - Postsecondary student needs 10📰 639👍 102👎 0❓ - C 421 L 23
 * [SB 5667](sb/5667) - Forestry riparian easements 2📰 728👍 9👎 3❓ - Del to Gov
-* [HB 1245](hb/1245) - Lot splitting 32📰 488👍 241👎 7❓ - H Rules 3C
+* [HB 1245](hb/1245) - Lot splitting 34📰 488👍 241👎 7❓ - H Rules 3C
 * [HB 1332](hb/1332) - Tribes/K-12 instruction 8📰 360👍 373👎 3❓ - H Rules 3C
 * [SB 6143](sb/6143) - Salmon habitat planning 176👍 556👎 3❓ - S Ag/Water/Natur
 * [HB 2007](hb/2007) - Cash assistance time limits 7📰 340👍 389👎 3❓ - Del to Gov
@@ -271,13 +271,13 @@
 * [SB 5562](sb/5562) - Clean energy 4📰 347👍 342👎 14❓ - S Ways & Means
 * [HB 2309](hb/2309) - Washington 13 free guarantee 5📰 210👍 480👎 5❓ - H Approps
 * [SB 6118](sb/6118) - Vapor product directory 63👍 625👎 7❓ - S Ways & Means
-* [SB 6105](sb/6105) - Adult entertainment workers 19📰 637👍 45👎 12❓ - Del to Gov
+* [SB 6105](sb/6105) - Adult entertainment workers 21📰 637👍 45👎 12❓ - Del to Gov
 * [SB 6107](sb/6107) - Construction/sanitary cond. 191👍 497👎 1❓ - S Labor & Comm
 * [SB 5322](sb/5322) - Public building materials 591👍 90👎 4❓ - S Ways & Means
 * [SB 5150](sb/5150) - Beef commission 2📰 523👍 160👎 1❓ - Del to Gov
-* [SB 5917](sb/5917) - Bias-motivated defacement 5📰 22👍 662👎 0❓ - Del to Gov
+* [SB 5917](sb/5917) - Bias-motivated defacement 7📰 22👍 662👎 0❓ - C 34 L 24
 * [HB 2044](hb/2044) - Standardizing limitations on voter-approved property tax levies. 57👍 624👎 1❓ - Del to Gov
-* [HB 2209](hb/2209) - Lunar new year 4📰 612👍 7👎 63❓ - Del to Gov
+* [HB 2209](hb/2209) - Lunar new year 6📰 612👍 7👎 63❓ - C 76 L 24
 * [HB 1094](hb/1094) - Future fund program 12📰 386👍 288👎 0❓ - H Approps
 * [SB 5425](sb/5425) - Fire sprinkler contractors 1📰 636👍 29👎 8❓ - C 329 L 23
 * [HB 2495](hb/2495) - Liquor/clothing and conduct 1📰 225👍 444👎 1❓ - H Reg Subst & Gam
@@ -286,16 +286,16 @@
 * [SB 5853](sb/5853) - Behav crisis services/minors 1📰 642👍 23👎 2❓ - Del to Gov
 * [HB 1047](hb/1047) - Cosmetic product chemicals 7📰 618👍 38👎 9❓ - C 455 L 23
 * [SB 5204](sb/5204) - Fertility services coverage 2📰 625👍 40👎 0❓ - S Health & Long
-* [HB 1929](hb/1929) - Postinpatient housing 3📰 369👍 288👎 1❓ - Del to Gov
+* [HB 1929](hb/1929) - Postinpatient housing 4📰 369👍 288👎 1❓ - Del to Gov
 * [HB 1185](hb/1185) - Lighting products 1📰 615👍 34👎 8❓ - Del to Gov
 * [HB 2372](hb/2372) - Tribes/health facilities 3📰 31👍 622👎 1❓ - H Rules 3C
 * [SB 5035](sb/5035) - Controlled sub. possession 2📰 533👍 115👎 4❓ - S Law & Justice
 * [SB 5047](sb/5047) - Voting rights act 2📰 207👍 438👎 6❓ - S Rules X
-* [HB 1652](hb/1652) - Child support pass through 3📰 637👍 1👎 5❓ - Del to Gov
+* [HB 1652](hb/1652) - Child support pass through 4📰 637👍 1👎 5❓ - Del to Gov
 * [HB 2476](hb/2476) - Creating a covered lives assessment professional services rate account. 606👍 33👎 4❓ - H Approps
 * [HB 1676](hb/1676) - Special ed. early support 1📰 632👍 0👎 2❓ - H Approps
 * [SB 5238](sb/5238) - Academic employee bargaining 1📰 611👍 20👎 2❓ - C 115 L 23
-* [HB 1608](hb/1608) - Anaphylaxis meds./schools 2📰 629👍 0👎 2❓ - Del to Gov
+* [HB 1608](hb/1608) - Anaphylaxis meds./schools 3📰 629👍 0👎 2❓ - C 81 L 24
 * [HB 1897](hb/1897) - Charter schools/enrichment 1📰 575👍 55👎 1❓ - H Approps
 * [HB 2131](hb/2131) - Thermal energy networks 1📰 621👍 2👎 5❓ - Del to Gov
 * [HB 2028](hb/2028) - Concerning manufacturer and new dealer franchise agreements. 265👍 359👎 3❓ - H Rules X
@@ -328,7 +328,7 @@
 * [SB 5532](sb/5532) - Small rural hospital payment 1📰 558👍 1👎 10❓ - C 443 L 23
 * [SB 5093](sb/5093) - Climate response strategy 3📰 538👍 28👎 2❓ - S Rules X
 * [HB 1216](hb/1216) - Clean energy siting 5📰 442👍 115👎 10❓ - C 230 L 23
-* [HB 1962](hb/1962) - Improving voter registration list accuracy by improving voter address change processes for county election offices and voters. 2📰 560👍 4👎 1❓ - Del to Gov
+* [HB 1962](hb/1962) - Improving voter registration list accuracy by improving voter address change processes for county election offices and voters. 2📰 560👍 4👎 1❓ - C 56 L 24
 * [HB 1777](hb/1777) - Energy contracting 1📰 537👍 24👎 2❓ - C 309 L 23
 * [SB 6316](sb/6316) - SR 520 corridor 1📰 8👍 554👎 1❓ - Del to Gov
 * [HB 2485](hb/2485) - Speed safety camera pilot 3📰 12👍 544👎 1❓ - H Rules X
@@ -337,10 +337,10 @@
 * [HB 1933](hb/1933) - Supporting the servicing and right to repair of certain products with digital electronics in a secure and reliable manner. 4📰 543👍 6👎 5❓ - H ConsPro&Bus
 * [SB 5947](sb/5947) - Transportation budget, supp. 2📰 37👍 487👎 30❓ - S Rules 2
 * [SB 5257](sb/5257) - Elementary school recess 12📰 522👍 23👎 8❓ - C 272 L 23
-* [SB 6229](sb/6229) - Green transp. grants/match 114👍 439👎 0❓ - Del to Gov
+* [SB 6229](sb/6229) - Green transp. grants/match 114👍 439👎 0❓ - C 104 L 24
 * [HB 2166](hb/2166) - POLST access 551👍 0👎 1❓ - H Rules 3C
-* [HB 2041](hb/2041) - Physician assistant practice 539👍 1👎 11❓ - Del to Gov
-* [HB 2071](hb/2071) - Residential housing 5📰 443👍 98👎 10❓ - Del to Gov
+* [HB 2041](hb/2041) - Physician assistant practice 2📰 539👍 1👎 11❓ - C 62 L 24
+* [HB 2071](hb/2071) - Residential housing 6📰 443👍 98👎 10❓ - Del to Gov
 * [HB 1310](hb/1310) - Physician assistant collab. 541👍 5👎 4❓ - H HC/Wellness
 * [HB 1095](hb/1095) - Wage replacement 3📰 512👍 23👎 12❓ - H Approps
 * [HB 1934](hb/1934) - AI task force 4📰 72👍 461👎 14❓ - H Rules X
@@ -377,11 +377,11 @@
 * [HB 1177](hb/1177) - Indigenous women 19📰 488👍 0👎 3❓ - C 104 L 23
 * [SB 5094](sb/5094) - Water system plans/climate 1📰 404👍 86👎 0❓ - S Rules X
 * [SB 5467](sb/5467) - Controlled sub. possession 2📰 223👍 260👎 6❓ - S Law & Justice
-* [HB 1044](hb/1044) - Capital assistance/schools 12📰 216👍 270👎 0❓ - S Passed 3rd
+* [HB 1044](hb/1044) - Capital assistance/schools 12📰 216👍 270👎 0❓ - H Rules 3C
 * [HB 1564](hb/1564) - OTC sexual assault kits 13📰 346👍 139👎 1❓ - C 296 L 23
 * [HB 2038](hb/2038) - Public school transfer data 3📰 18👍 462👎 5❓ - H Rules X
 * [HB 1024](hb/1024) - Incarcerated persons/labor 6📰 469👍 11👎 4❓ - H Rules X
-* [SB 5843](sb/5843) - Election security breaches 2📰 196👍 286👎 1❓ - Del to Gov
+* [SB 5843](sb/5843) - Election security breaches 2📰 196👍 286👎 1❓ - C 28 L 24
 * [HB 1228](hb/1228) - Dual & tribal language edu. 14📰 434👍 44👎 3❓ - Del to Gov
 * [HB 1843](hb/1843) - School district elections 6📰 12👍 466👎 2❓ - H Education
 * [HB 1320](hb/1320) - Personnel records 1📰 264👍 197👎 15❓ - H Rules X
@@ -407,13 +407,13 @@
 * [HB 1032](hb/1032) - Wildfires/electric utilities 2📰 442👍 2👎 5❓ - C 132 L 23
 * [SB 5080](sb/5080) - Cannabis social equity 10📰 342👍 90👎 17❓ - C 220 L 23
 * [HB 1599](hb/1599) - Firearm background checks 1📰 36👍 408👎 4❓ - C 298 L 23
-* [HB 1961](hb/1961) - Animal cruelty/seriousness 5📰 440👍 6👎 1❓ - Del to Gov
+* [HB 1961](hb/1961) - Animal cruelty/seriousness 6📰 440👍 6👎 1❓ - C 55 L 24
 * [HB 1106](hb/1106) - Unemployment/voluntary 4📰 76👍 357👎 13❓ - C 240 L 23
 * [SB 5057](sb/5057) - Energy standards/commercial 2📰 76👍 368👎 1❓ - S Rules X
 * [SB 5165](sb/5165) - Electric transm. planning 8📰 405👍 24👎 10❓ - C 229 L 23
 * [SB 5710](sb/5710) - Behavioral health/youth 2📰 50👍 388👎 1❓ - S Ways & Means
 * [HB 1393](hb/1393) - Journey level electricians 394👍 41👎 3❓ - H Labor & Workpl
-* [HB 1958](hb/1958) - Concerning nonconsensual removal of or tampering with a sexually protective device. 6📰 243👍 190👎 3❓ - Del to Gov
+* [HB 1958](hb/1958) - Concerning nonconsensual removal of or tampering with a sexually protective device. 7📰 243👍 190👎 3❓ - Del to Gov
 * [HB 1436](hb/1436) - Special education funding 20📰 390👍 18👎 27❓ - C 417 L 23
 * [HB 1892](hb/1892) - Workforce housing prg. 8📰 431👍 4👎 0❓ - Del to Gov
 * [HB 1140](hb/1140) - Operating budget 8📰 190👍 13👎 231❓ - H Rules X
@@ -424,7 +424,7 @@
 * [HB 1525](hb/1525) - Apprenticeships/child care 2📰 420👍 0👎 0❓ - C 294 L 23
 * [SB 5020](sb/5020) - Education at 6 years of age 5📰 10👍 409👎 1❓ - S Ways & Means
 * [SB 6231](sb/6231) - Hostile architecture 3📰 10👍 406👎 2❓ - S Loc Gov, Land
-* [HB 2124](hb/2124) - Child care prg. eligibility 1📰 363👍 51👎 2❓ - Del to Gov
+* [HB 2124](hb/2124) - Child care prg. eligibility 2📰 363👍 51👎 2❓ - Del to Gov
 * [HB 1956](hb/1956) - Substance use prevention ed. 8📰 411👍 2👎 2❓ - Del to Gov
 * [HB 2000](hb/2000) - International leadership 1📰 45👍 369👎 1❓ - Del to Gov
 * [HB 1877](hb/1877) - Behavioral health/tribes 3📰 118👍 288👎 3❓ - Del to Gov
@@ -451,7 +451,7 @@
 * [HB 1268](hb/1268) - Sentencing enhancements 8📰 164👍 218👎 5❓ - H Rules X
 * [SB 5823](sb/5823) - School district elections 3📰 82👍 305👎 0❓ - S Ways & Means
 * [HB 1717](hb/1717) - Associate development orgs. 2📰 384👍 2👎 0❓ - H Rules 3C
-* [HB 1453](hb/1453) - Medical cannabis/tax 1📰 380👍 4👎 0❓ - Del to Gov
+* [HB 1453](hb/1453) - Medical cannabis/tax 1📰 380👍 4👎 0❓ - C 79 L 24
 * [HB 2497](hb/2497) - Ferries 75 work group 360👍 15👎 6❓ - H Transportation
 * [SB 5978](sb/5978) - Authorizing the office of the superintendent of public instruction to act as a guarantor for a county when the county provides a loan to a school district. 2📰 32👍 348👎 1❓ - S Ways & Means
 * [SB 6021](sb/6021) - Correctional fees & expenses 1📰 306👍 70👎 3❓ - S Ways & Means
@@ -479,7 +479,7 @@
 * [HB 1478](hb/1478) - Student rights 5📰 59👍 293👎 1❓ - H Rules X
 * [SB 5591](sb/5591) - Dependent youth financial ed 259👍 93👎 1❓ - S Rules 3
 * [HB 1089](hb/1089) - Sex trafficking 2📰 348👍 0👎 4❓ - H Approps
-* [HB 2158](hb/2158) - Urban growth area boundaries 1📰 221👍 131👎 0❓ - H Housing
+* [HB 2158](hb/2158) - Urban growth area boundaries 2📰 221👍 131👎 0❓ - H Housing
 * [HB 2177](hb/2177) - Sex offender policy board 2📰 343👍 5👎 2❓ - H Community Safet
 * [HB 2210](hb/2210) - DOC wild horse program 1📰 47👍 300👎 2❓ - H Rules 3C
 * [SB 5140](sb/5140) - Election security testing 337👍 10👎 2❓ - S State Govt & E
@@ -489,12 +489,12 @@
 * [SB 5923](sb/5923) - Substance use prevention ed. 3📰 336👍 1👎 1❓ - S Ways & Means
 * [SB 6251](sb/6251) - Behavioral crisis coord. 1📰 335👍 1👎 2❓ - Del to Gov
 * [HB 1644](hb/1644) - Margin tax 1📰 12👍 318👎 6❓ - H Finance
-* [HB 1917](hb/1917) - Physician assistant compact 2📰 326👍 3👎 5❓ - Del to Gov
+* [HB 1917](hb/1917) - Physician assistant compact 2📰 326👍 3👎 5❓ - C 53 L 24
 * [SB 5135](sb/5135) - Solitary confinement 3📰 313👍 13👎 8❓ - S Human Services
 * [HB 1946](hb/1946) - Creating the Washington health corps behavioral health scholarship program. 1📰 331👍 2👎 0❓ - Del to Gov
 * [HB 2015](hb/2015) - Adult family homes capacity 1📰 322👍 1👎 9❓ - Del to Gov
 * [HB 2247](hb/2247) - Behavioral health providers 4📰 322👍 0👎 10❓ - Del to Gov
-* [SB 6120](sb/6120) - Wildland urban interface 327👍 4👎 1❓ - Del to Gov
+* [SB 6120](sb/6120) - Wildland urban interface 327👍 4👎 1❓ - C 133 L 24
 * [SB 6210](sb/6210) - Unlawful detainer actions 306👍 20👎 3❓ - S Housing
 * [HB 1418](hb/1418) - Charter schools/enrichment 1📰 253👍 69👎 6❓ - H Approps
 * [HB 2066](hb/2066) - Health provider contracting 2📰 194👍 128👎 2❓ - H HC/Wellness
@@ -528,7 +528,7 @@
 * [SB 5860](sb/5860) - Spring blade knives 279👍 13👎 2❓ - S Rules 3
 * [HB 1147](hb/1147) - Capital budget 9📰 182👍 14👎 97❓ - H Rules X
 * [HB 1744](hb/1744) - Charter school oversight 1📰 252👍 27👎 14❓ - C 356 L 23
-* [HB 2001](hb/2001) - Sentence modification 8📰 282👍 7👎 3❓ - H Rules 3C
+* [HB 2001](hb/2001) - Sentence modification 9📰 282👍 7👎 3❓ - H Rules 3C
 * [SB 6138](sb/6138) - Thermal energy networks 291👍 0👎 1❓ - S Environment, E
 * [HB 1051](hb/1051) - Robocalls & telephone scams 12📰 280👍 1👎 8❓ - C 103 L 23
 * [HB 1149](hb/1149) - Housing/capital expenditures 3📰 281👍 6👎 2❓ - H Cap Budget
@@ -544,13 +544,13 @@
 * [SB 5650](sb/5650) - K-12 inflationary increases 1📰 269👍 10👎 1❓ - C 48 L 23
 * [HB 2080](hb/2080) - Day habilitation services 269👍 0👎 10❓ - H Human Svc, Yout
 * [SB 5464](sb/5464) - Electronics repair 4📰 274👍 4👎 1❓ - S Environment, E
-* [SB 5834](sb/5834) - Urban growth areas 2📰 84👍 193👎 2❓ - Del to Gov
+* [SB 5834](sb/5834) - Urban growth areas 2📰 84👍 193👎 2❓ - C 26 L 24
 * [HB 1305](hb/1305) - Students with disabilities 7📰 260👍 7👎 11❓ - H Rules X
-* [HB 1998](hb/1998) - Co-living housing 10📰 272👍 2👎 4❓ - Del to Gov
+* [HB 1998](hb/1998) - Co-living housing 12📰 272👍 2👎 4❓ - Del to Gov
 * [HB 1248](hb/1248) - Pupil transportation 8📰 159👍 105👎 11❓ - Del to Gov
 * [SB 5218](sb/5218) - Mobility enhancing equip/tax 1📰 275👍 0👎 0❓ - C 319 L 23
 * [SB 5601](sb/5601) - Youth development office 111👍 164👎 0❓ - S Ways & Means
-* [SB 6015](sb/6015) - Residential parking 4📰 237👍 28👎 8❓ - Del to Gov
+* [SB 6015](sb/6015) - Residential parking 6📰 237👍 28👎 8❓ - Del to Gov
 * [SB 6069](sb/6069) - Retirement savings 3📰 116👍 150👎 7❓ - Del to Gov
 * [SB 5956](sb/5956) - Enrichment levies limit 3📰 112👍 146👎 14❓ - S Ways & Means
 * [HB 1187](hb/1187) - Employee-union privilege 240👍 24👎 7❓ - C 202 L 23
@@ -561,7 +561,7 @@
 * [SB 5707](sb/5707) - Housing court pilot program 21👍 242👎 4❓ - S Law & Justice
 * [SB 6006](sb/6006) - Victims of human trafficking 2📰 261👍 1👎 5❓ - Del to Gov
 * [SB 5125](sb/5125) - Future fund program 11📰 187👍 76👎 1❓ - S Ways & Means
-* [HB 1979](hb/1979) - Inhalers & epinephrine cost 2📰 259👍 2👎 2❓ - Del to Gov
+* [HB 1979](hb/1979) - Inhalers & epinephrine cost 3📰 259👍 2👎 2❓ - Del to Gov
 * [HB 1583](hb/1583) - Certified peer specialists 2📰 27👍 234👎 1❓ - H HC/Wellness
 * [SB 5299](sb/5299) - Law enf. officer protection 2📰 172👍 90👎 0❓ - S Rules 3
 * [HB 1109](hb/1109) - Special education funding 12📰 252👍 3👎 6❓ - H Rules X
@@ -573,8 +573,8 @@
 * [SB 6256](sb/6256) - Solar consumer protections 1📰 260👍 0👎 0❓ - S Rules 3
 * [HB 2323](hb/2323) - Rent payments/credit reports 1📰 14👍 243👎 1❓ - H Rules X
 * [SB 5965](sb/5965) - Fashion/environmental impact 2📰 74👍 183👎 1❓ - S Environment, En
-* [SB 5883](sb/5883) - Concerning the burden of proof for special education due process hearings. 245👍 5👎 6❓ - Del to Gov
-* [HB 1576](hb/1576) - Dentist compact 252👍 3👎 0❓ - C 297 L 23
+* [SB 5883](sb/5883) - Concerning the burden of proof for special education due process hearings. 1📰 245👍 5👎 6❓ - C 29 L 24
+* [HB 1576](hb/1576) - Dentist compact 1📰 252👍 3👎 0❓ - C 297 L 23
 * [SB 6267](sb/6267) - DD parental caregivers 1📰 255👍 0👎 0❓ - S Human Services
 * [HB 1357](hb/1357) - Prior authorization/health 1📰 207👍 36👎 10❓ - C 382 L 23
 * [SB 5263](sb/5263) - Psilocybin 5📰 190👍 33👎 30❓ - C 364 L 23
@@ -585,7 +585,7 @@
 * [HB 1694](hb/1694) - Home care workforce shortage 246👍 1👎 4❓ - C 424 L 23
 * [HB 2116](hb/2116) - Pharmacist prescriptive auth 1📰 171👍 79👎 1❓ - H HC/Wellness
 * [HB 1378](hb/1378) - Derelict aquatic structures 4📰 246👍 1👎 3❓ - H Rules X
-* [SB 5893](sb/5893) - Gate money/DOC 3📰 241👍 8👎 1❓ - Del to Gov
+* [SB 5893](sb/5893) - Gate money/DOC 4📰 241👍 8👎 1❓ - C 32 L 24
 * [SB 5087](sb/5087) - Defects and omissions 6📰 236👍 11👎 1❓ - C 102 L 23
 * [HB 1497](hb/1497) - Vapor and tobacco/minors 2📰 243👍 2👎 2❓ - H Reg Subst & Gam
 * [HB 1924](hb/1924) - Fusion technology policies 1📰 68👍 174👎 2❓ - Del to Gov
@@ -600,7 +600,7 @@
 * [SB 5333](sb/5333) - Sport special license plate 1📰 227👍 0👎 9❓ - S Transportation
 * [SB 5741](sb/5741) - Housing gap voucher pilot 2📰 85👍 151👎 0❓ - S Housing
 * [HB 1173](hb/1173) - Light pollution 2📰 221👍 7👎 5❓ - C 344 L 23
-* [HB 1455](hb/1455) - Child marriage 23📰 230👍 2👎 1❓ - C 10 L 24
+* [HB 1455](hb/1455) - Child marriage 24📰 230👍 2👎 1❓ - C 10 L 24
 * [SB 5776](sb/5776) - Insulin emergency supply 2📰 220👍 11👎 2❓ - S Ways & Means
 * [SB 5949](sb/5949) - Capital budget, supplemental 3📰 181👍 10👎 42❓ - Del to Gov
 * [HB 2219](hb/2219) - Affordable housing/tax ex. 3📰 230👍 2👎 0❓ - H Finance
@@ -619,8 +619,8 @@
 * [SB 5256](sb/5256) - Child welfare housing 3📰 214👍 2👎 0❓ - C 321 L 23
 * [SB 5129](sb/5129) - Nuclear reactor technology 59👍 155👎 1❓ - S Rules X
 * [SB 5392](sb/5392) - Concerning overpayments for certain matters. 208👍 2👎 3❓ - C 278 L 23
-* [HB 1633](hb/1633) - Homes for heroes program 7📰 211👍 0👎 1❓ - H Cap Budget
-* [HB 1999](hb/1999) - Fabricated intimate images 8📰 201👍 10👎 1❓ - Del to Gov
+* [HB 1633](hb/1633) - Homes for heroes program 8📰 211👍 0👎 1❓ - H Cap Budget
+* [HB 1999](hb/1999) - Fabricated intimate images 11📰 201👍 10👎 1❓ - C 88 L 24
 * [SB 5368](sb/5368) - Stay-at-work program 43👍 160👎 8❓ - S Rules 3
 * [HB 1164](hb/1164) - Appliance management 180👍 28👎 2❓ - H Env & Energy
 * [HB 1229](hb/1229) - Voter registration 1📰 124👍 84👎 2❓ - H Rules X
@@ -632,7 +632,7 @@
 * [HB 1505](hb/1505) - Alternative jet fuel 58👍 144👎 5❓ - H Env & Energy
 * [HB 1307](hb/1307) - Physician bargaining 202👍 4👎 0❓ - H Approps
 * [HB 2156](hb/2156) - Solar consumer protections 202👍 1👎 3❓ - Del to Gov
-* [HB 2230](hb/2230) - Economic security grants 3📰 161👍 44👎 1❓ - Del to Gov
+* [HB 2230](hb/2230) - Economic security grants 3📰 161👍 44👎 1❓ - C 92 L 24
 * [HB 2467](hb/2467) - LTSS trust access 2📰 199👍 5👎 2❓ - Del to Gov
 * [HB 2102](hb/2102) - PFML benefits/health info. 200👍 2👎 3❓ - Del to Gov
 * [SB 5727](sb/5727) - Common int. comms./consumers 10👍 192👎 2❓ - S Law & Justice
@@ -643,14 +643,14 @@
 * [HB 2425](hb/2425) - Rental support program 4📰 175👍 18👎 6❓ - H Housing
 * [SB 5000](sb/5000) - Americans of Chinese descent 2📰 194👍 1👎 3❓ - C 357 L 23
 * [SB 5477](sb/5477) - Murdered indigenous women 1📰 197👍 0👎 1❓ - S Rules X
-* [SB 6283](sb/6283) - Connecting communities prg. 2📰 198👍 0👎 0❓ - Del to Gov
+* [SB 6283](sb/6283) - Connecting communities prg. 2📰 198👍 0👎 0❓ - C 106 L 24
 * [SB 6127](sb/6127) - HIV prophylaxis 1📰 190👍 0👎 7❓ - Del to Gov
 * [HB 1941](hb/1941) - Health home serv./children 194👍 2👎 0❓ - Del to Gov
 * [SB 5103](sb/5103) - Medicaid patients/discharge 187👍 3👎 5❓ - C 315 L 23
 * [HB 1945](hb/1945) - Food assistance access 194👍 0👎 0❓ - Del to Gov
 * [SB 5433](sb/5433) - Derelict aquatic structures 5📰 189👍 2👎 3❓ - C 227 L 23
 * [HB 1405](hb/1405) - Public benefit payments/DCYF 1📰 192👍 1👎 0❓ - H Human Svc, Yout
-* [HB 1900](hb/1900) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system. 3📰 39👍 141👎 13❓ - H Env & Energy
+* [HB 1900](hb/1900) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system. 4📰 39👍 141👎 13❓ - H Env & Energy
 * [HB 1407](hb/1407) - Dev. disability/eligibility 2📰 191👍 0👎 0❓ - C 207 L 23
 * [HB 1899](hb/1899) - Wildfire reconstruction 3📰 180👍 7👎 3❓ - Del to Gov
 * [SB 5933](sb/5933) - Infants and toddlers program 1📰 188👍 2👎 0❓ - S EL/K-12
@@ -663,7 +663,7 @@
 * [HB 1615](hb/1615) - Education savings accounts 6📰 172👍 15👎 0❓ - H Education
 * [SB 5480](sb/5480) - Work-limiting disability 2📰 187👍 0👎 0❓ - S Ways & Means
 * [HB 1504](hb/1504) - Elementary school recess 6📰 181👍 1👎 4❓ - H Rules X
-* [HB 1976](hb/1976) - Changing the incentive structure for tier 1 and tier 2 buildings. 1📰 183👍 1👎 2❓ - Del to Gov
+* [HB 1976](hb/1976) - Changing the incentive structure for tier 1 and tier 2 buildings. 2📰 183👍 1👎 2❓ - C 85 L 24
 * [SB 5328](sb/5328) - Pub safety telecommunicators 185👍 0👎 1❓ - S Rules X
 * [SB 5367](sb/5367) - Products containing THC 3📰 87👍 86👎 12❓ - C 365 L 23
 * [HB 1068](hb/1068) - Injured worker medical exams 70👍 111👎 2❓ - C 166 L 23
@@ -672,7 +672,7 @@
 * [HB 1200](hb/1200) - Employee information/unions 123👍 55👎 3❓ - C 204 L 23
 * [SB 5207](sb/5207) - Controlled entities 2📰 125👍 52👎 4❓ - S Rules X
 * [HB 1440](hb/1440) - Juvenile court jurisdiction 170👍 10👎 0❓ - H Human Svc, You
-* [HB 1635](hb/1635) - Police dogs/liability 4📰 38👍 142👎 0❓ - Del to Gov
+* [HB 1635](hb/1635) - Police dogs/liability 6📰 38👍 142👎 0❓ - Del to Gov
 * [HB 1568](hb/1568) - Long-term care professionals 1📰 169👍 6👎 4❓ - H Rules X
 * [HB 1050](hb/1050) - Apprenticeship utilization 4📰 122👍 46👎 10❓ - C 342 L 23
 * [HB 1175](hb/1175) - Petroleum storage tanks 1📰 48👍 127👎 2❓ - C 170 L 23
@@ -682,7 +682,7 @@
 * [SB 5332](sb/5332) - Homeless camps/schools, etc. 72👍 101👎 0❓ - S Loc Gov, Land
 * [SB 5365](sb/5365) - Vapor and tobacco/minors 9📰 137👍 31👎 5❓ - C 398 L 23
 * [SB 6276](sb/6276) - Digital electronics/repair 1📰 161👍 9👎 3❓ - S Environment, E
-* [HB 1915](hb/1915) - Financial education 10📰 163👍 0👎 9❓ - H adheres
+* [HB 1915](hb/1915) - Financial education 11📰 163👍 0👎 9❓ - H adheres
 * [HB 1026](hb/1026) - Local gov. design review 10📰 158👍 8👎 4❓ - H Workroom
 * [HB 2195](hb/2195) - Early learning facilities 2📰 131👍 36👎 3❓ - Del to Gov
 * [SB 6258](sb/6258) - Standardized health plans 158👍 12👎 0❓ - S Health & Long
@@ -699,14 +699,14 @@
 * [SB 5618](sb/5618) - Local property tax limit 94👍 71👎 0❓ - S Loc Gov, Land
 * [SB 5414](sb/5414) - Elections law violation info 159👍 4👎 1❓ - S State Govt & E
 * [SB 6097](sb/6097) - Dental services contracts 158👍 4👎 0❓ - S Health & Long
-* [SB 6173](sb/6173) - Housing sales tax/use 4📰 154👍 7👎 0❓ - Del to Gov
+* [SB 6173](sb/6173) - Housing sales tax/use 4📰 154👍 7👎 0❓ - C 136 L 24
 * [HB 2039](hb/2039) - Env. & land use appeals 72👍 83👎 5❓ - Del to Gov
 * [HB 1132](hb/1132) - Limited authority officers 147👍 6👎 6❓ - C 168 L 23
 * [HB 1745](hb/1745) - Diversity in clinical trials 1📰 136👍 22👎 0❓ - C 426 L 23
 * [HB 2076](hb/2076) - Human trafficking crimes 2📰 151👍 3👎 4❓ - H Rules X
 * [HB 2088](hb/2088) - Crisis teams/liability 2📰 154👍 3👎 1❓ - Del to Gov
 * [HB 1323](hb/1323) - Fire-resistant materials 138👍 18👎 1❓ - C 145 L 23
-* [HB 1982](hb/1982) - Broadband loans & grants 6📰 154👍 3👎 0❓ - Del to Gov
+* [HB 1982](hb/1982) - Broadband loans & grants 7📰 154👍 3👎 0❓ - C 86 L 24
 * [HB 1614](hb/1614) - Home cultivation of cannabis 1📰 114👍 40👎 2❓ - H Approps
 * [HB 2205](hb/2205) - Signature gathering/protests 3📰 144👍 9👎 2❓ - H State Govt & T
 * [HB 2252](hb/2252) - Small businesses/residential 6📰 142👍 5👎 8❓ - H Rules 3C
@@ -715,7 +715,7 @@
 * [HB 1724](hb/1724) - Behavioral health workforce 6📰 137👍 5👎 12❓ - C 425 L 23
 * [HB 1715](hb/1715) - Domestic violence 11📰 76👍 54👎 21❓ - C 462 L 23
 * [HB 1736](hb/1736) - Vehicle odometer readings 1👍 142👎 8❓ - Gov vetoed
-* [SB 5980](sb/5980) - WISHA violation timeline 149👍 1👎 1❓ - Del to Gov
+* [SB 5980](sb/5980) - WISHA violation timeline 149👍 1👎 1❓ - C 40 L 24
 * [HB 1117](hb/1117) - Power supply inadequacy 7📰 70👍 80👎 0❓ - C 200 L 23
 * [SB 5408](sb/5408) - Ninth grade success grants 3📰 121👍 29👎 0❓ - S Ways & Means
 * [HB 2194](hb/2194) - Home cultivation of cannabis 4📰 115👍 32👎 2❓ - H Approps
@@ -734,7 +734,7 @@
 * [SB 5872](sb/5872) - Concerning vehicle and operator requirements for autonomous vehicles. 118👍 23👎 5❓ - S Transportation
 * [HB 1138](hb/1138) - Drought preparedness 1📰 143👍 0👎 1❓ - C 287 L 23
 * [SB 5259](sb/5259) - Product theft 1📰 135👍 1👎 8❓ - S Ways & Means
-* [SB 5808](sb/5808) - Safety telecom/interest arb. 139👍 1👎 4❓ - Del to Gov
+* [SB 5808](sb/5808) - Safety telecom/interest arb. 139👍 1👎 4❓ - C 124 L 24
 * [SB 5968](sb/5968) - Home equity sharing 95👍 36👎 13❓ - S Rules 3
 * [HB 1450](hb/1450) - Biomarker testing coverage 137👍 5👎 1❓ - H Approps
 * [HB 1516](hb/1516) - Lunar new year 1📰 49👍 94👎 0❓ - H Approps
@@ -755,11 +755,11 @@
 * [HB 2403](hb/2403) - Kennel fire safety standards 3📰 138👍 2👎 0❓ - H Local Govt
 * [SB 5002](sb/5002) - Alcohol concentration/DUI 17📰 71👍 66👎 3❓ - S Rules X
 * [HB 1128](hb/1128) - Personal needs allowance 137👍 2👎 0❓ - C 201 L 23
-* [HB 1365](hb/1365) - Puget Sound water quality 2📰 134👍 1👎 3❓ - H Rules X
-* [HB 2293](hb/2293) - Avian predation/salmon 1📰 74👍 61👎 3❓ - Del to Gov
+* [HB 1365](hb/1365) - Puget Sound water quality 3📰 134👍 1👎 3❓ - H Rules X
+* [HB 2293](hb/2293) - Avian predation/salmon 1📰 74👍 61👎 3❓ - C 72 L 24
 * [SB 5894](sb/5894) - Equal pay/protected classes 3📰 79👍 55👎 4❓ - S Rules X
 * [SB 6185](sb/6185) - PTBA governing body members 1📰 110👍 24👎 4❓ - S Transportation
-* [SB 6194](sb/6194) - Legislative employees 2📰 6👍 103👎 29❓ - Del to Gov
+* [SB 6194](sb/6194) - Legislative employees 3📰 6👍 103👎 29❓ - Del to Gov
 * [HB 2313](hb/2313) - Digital equity 4📰 97👍 35👎 5❓ - H Rules X
 * [SB 5338](sb/5338) - Essential health benefits 1📰 136👍 0👎 1❓ - C 87 L 23
 * [SB 5723](sb/5723) - Even-numbered year elections 12📰 127👍 9👎 1❓ - S Rules X
@@ -777,7 +777,7 @@
 * [SB 6135](sb/6135) - TANF transitional assistance 131👍 1👎 1❓ - S Ways & Means
 * [SB 5740](sb/5740) - Catalytic converter theft 1📰 85👍 41👎 6❓ - S Transportation
 * [SB 5839](sb/5839) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 1📰 132👍 0👎 0❓ - S Ways & Means
-* [SB 5852](sb/5852) - Concerning special education safety net awards. 1📰 131👍 1👎 0❓ - Del to Gov
+* [SB 5852](sb/5852) - Concerning special education safety net awards. 1📰 131👍 1👎 0❓ - C 127 L 24
 * [SB 6025](sb/6025) - Predatory loans 2📰 117👍 6👎 9❓ - Del to Gov
 * [HB 1746](hb/1746) - State broadband map 1📰 127👍 1👎 3❓ - H Rules X
 * [SB 5162](sb/5162) - Transportation budget 1📰 65👍 3👎 63❓ - S Rules X
@@ -796,8 +796,8 @@
 * [SB 5286](sb/5286) - Paid leave premiums 3📰 125👍 1👎 0❓ - C 116 L 23
 * [SB 5819](sb/5819) - Financial education 117👍 3👎 6❓ - S EL/K-12
 * [SB 5039](sb/5039) - Wildfires/electric utilities 120👍 2👎 3❓ - S Ways & Means
-* [SB 5792](sb/5792) - Concerning the definition of multiunit residential buildings. 4📰 124👍 0👎 1❓ - Del to Gov
-* [SB 5974](sb/5974) - Unenforceable LFOs 1📰 120👍 2👎 3❓ - Del to Gov
+* [SB 5792](sb/5792) - Concerning the definition of multiunit residential buildings. 4📰 124👍 0👎 1❓ - C 122 L 24
+* [SB 5974](sb/5974) - Unenforceable LFOs 1📰 120👍 2👎 3❓ - C 38 L 24
 * [HB 1009](hb/1009) - Military spouse employment 6📰 123👍 0👎 1❓ - C 165 L 23
 * [SB 5641](sb/5641) - African heritage week 118👍 0👎 6❓ - S State Govt & E
 * [SB 5712](sb/5712) - College grant/promise prg. 5📰 121👍 0👎 3❓ - S Higher Ed & Wo
@@ -808,14 +808,14 @@
 * [HB 2342](hb/2342) - Dependent youth financial ed 122👍 0👎 1❓ - H Human Svc, You
 * [HB 2393](hb/2393) - Unleaded aircraft fuel/tax 120👍 2👎 1❓ - H Transportation
 * [SB 5600](sb/5600) - Universal communications prg 121👍 1👎 1❓ - S Rules X
-* [HB 2329](hb/2329) - Insurance market/housing 120👍 0👎 2❓ - Del to Gov
+* [HB 2329](hb/2329) - Insurance market/housing 120👍 0👎 2❓ - C 74 L 24
 * [SB 5513](sb/5513) - CTC mental health counseling 2📰 119👍 0👎 3❓ - S Ways & Means
 * [SB 6134](sb/6134) - Opioid use 3📰 117👍 1👎 2❓ - S Ways & Means
 * [HB 1205](hb/1205) - Service by pub./dependency 112👍 3👎 4❓ - Del to Gov
 * [HB 1371](hb/1371) - Freight railroad infra. 117👍 0👎 2❓ - H Rules 3C
 * [HB 1959](hb/1959) - PFML/small employers 2📰 22👍 97👎 0❓ - H Approps
 * [HB 2107](hb/2107) - Hunting/tribal members 1📰 28👍 90👎 1❓ - H Ag&Nr
-* [SB 6175](sb/6175) - Existing structures/tax 115👍 2👎 2❓ - Del to Gov
+* [SB 6175](sb/6175) - Existing structures/tax 3📰 115👍 2👎 2❓ - Del to Gov
 * [HB 2226](hb/2226) - H-2A worker program data 4📰 42👍 76👎 0❓ - Del to Gov
 * [SB 5028](sb/5028) - Name changes 6📰 115👍 1👎 2❓ - C 34 L 23
 * [SB 5294](sb/5294) - Retirement system funding 1📰 35👍 80👎 3❓ - C 396 L 23
@@ -849,19 +849,19 @@
 * [HB 1217](hb/1217) - Wage complaints 44👍 61👎 3❓ - C 243 L 23
 * [HB 1322](hb/1322) - Walla Walla water 2050 plan 1📰 108👍 0👎 0❓ - C 239 L 23
 * [SB 5937](sb/5937) - Crime victims & witnesses 2📰 95👍 8👎 5❓ - Del to Gov
-* [SB 6060](sb/6060) - Electronic signatures/PERC 84👍 23👎 1❓ - Del to Gov
+* [SB 6060](sb/6060) - Electronic signatures/PERC 84👍 23👎 1❓ - C 98 L 24
 * [HB 1679](hb/1679) - Student homelessness group 3📰 107👍 0👎 0❓ - C 300 L 23
 * [SB 5943](sb/5943) - Resource data tool 2📰 102👍 3👎 2❓ - S Rules 3
 * [HB 2097](hb/2097) - Worker wage recovery 100👍 3👎 3❓ - Del to Gov
 * [SB 5668](sb/5668) - Small districts/skill center 106👍 0👎 0❓ - S Ways & Means
 * [SB 6246](sb/6246) - Firearm info./mental health 2📰 64👍 40👎 2❓ - Del to Gov
-* [HB 1146](hb/1146) - Dual credit program notice 8📰 104👍 1👎 0❓ - Del to Gov
+* [HB 1146](hb/1146) - Dual credit program notice 8📰 104👍 1👎 0❓ - C 44 L 24
 * [HB 1611](hb/1611) - Local government permitting 2📰 87👍 17👎 1❓ - H Finance
 * [SB 5001](sb/5001) - Public facility districts 4📰 102👍 2👎 1❓ - C 218 L 23
 * [HB 1234](hb/1234) - Civil forfeiture of animals 2📰 102👍 1👎 1❓ - C 246 L 23
 * [HB 1293](hb/1293) - Development regulations 17📰 101👍 1👎 2❓ - C 333 L 23
 * [HB 2236](hb/2236) - Tech. ed. core plus programs 2📰 96👍 1👎 7❓ - Del to Gov
-* [SB 5271](sb/5271) - DOH facilities/enforcement 34👍 66👎 4❓ - Del to Gov
+* [SB 5271](sb/5271) - DOH facilities/enforcement 34👍 66👎 4❓ - C 121 L 24
 * [SB 5719](sb/5719) - Student homelessness group 1📰 103👍 1👎 0❓ - S Ways & Means
 * [SB 6212](sb/6212) - Rent payments/credit reports 1📰 10👍 93👎 1❓ - S Rules X
 * [HB 1186](hb/1186) - Child welfare housing 3📰 103👍 0👎 0❓ - H Rules X
@@ -884,7 +884,7 @@
 * [SB 6230](sb/6230) - Tax increment areas 68👍 32👎 0❓ - S Loc Gov, Land
 * [HB 1067](hb/1067) - High-hazard facility wages 55👍 44👎 0❓ - H Rules X
 * [HB 1446](hb/1446) - Law enf. officers/increase 2📰 95👍 4👎 0❓ - H Local Govt
-* [HB 1551](hb/1551) - Lead in cookware 3📰 86👍 1👎 12❓ - Del to Gov
+* [HB 1551](hb/1551) - Lead in cookware 4📰 86👍 1👎 12❓ - Del to Gov
 * [HB 1797](hb/1797) - Real estate appraisers/eval. 1📰 97👍 0👎 2❓ - C 464 L 23
 * [HB 2128](hb/2128) - Certificate of need program 92👍 0👎 7❓ - H Rules 3C
 * [SB 5423](sb/5423) - Working conn. child care 3📰 99👍 0👎 0❓ - S Ways & Means
@@ -905,19 +905,19 @@
 * [HB 1267](hb/1267) - Rural public facilities/tax 1📰 93👍 0👎 1❓ - C 411 L 23
 * [HB 1462](hb/1462) - Journey level electricians 64👍 29👎 1❓ - H Labor & Workpl
 * [SB 6024](sb/6024) - Housing development 78👍 9👎 7❓ - S Loc Gov, Land U
-* [SB 6178](sb/6178) - Midwives/prescriptive auth. 92👍 2👎 0❓ - Del to Gov
+* [SB 6178](sb/6178) - Midwives/prescriptive auth. 92👍 2👎 0❓ - C 102 L 24
 * [HB 1018](hb/1018) - Hog fuel/tax exemption 3📰 27👍 64👎 2❓ - C 341 L 23
 * [HB 1752](hb/1752) - Modifying the application of the annual consumptive quantity calculation to change applications related to certain water rights held by the United States bureau of reclamation. 90👍 1👎 2❓ - Del to Gov
 * [HB 2179](hb/2179) - Child care local licensing 2📰 83👍 9👎 1❓ - H Human Svc, Yout
 * [HB 2187](hb/2187) - Water/family farms 77👍 14👎 2❓ - H Ag&Nr
 * [SB 5440](sb/5440) - Competency evaluations 2📰 25👍 42👎 26❓ - C 453 L 23
 * [HB 1795](hb/1795) - Estate tax 2📰 31👍 59👎 2❓ - H Finance
-* [SB 6140](sb/6140) - Intensive rural development 89👍 1👎 2❓ - Del to Gov
+* [SB 6140](sb/6140) - Intensive rural development 89👍 1👎 2❓ - C 135 L 24
 * [HB 2262](hb/2262) - Tire rolling resistance 4📰 77👍 12👎 1❓ - H Transportation
 * [SB 5609](sb/5609) - Housing approval 3📰 71👍 18👎 1❓ - S Ways & Means
 * [SB 5799](sb/5799) - Sale of halal foods 82👍 2👎 6❓ - Del to Gov
-* [SB 6068](sb/6068) - Dependency outcome reporting 1📰 87👍 1👎 2❓ - Del to Gov
-* [SB 6228](sb/6228) - Substance use treatment 2📰 56👍 27👎 7❓ - Del to Gov
+* [SB 6068](sb/6068) - Dependency outcome reporting 2📰 87👍 1👎 2❓ - Del to Gov
+* [SB 6228](sb/6228) - Substance use treatment 3📰 56👍 27👎 7❓ - Del to Gov
 * [HB 1276](hb/1276) - Accessory dwelling units 5📰 28👍 55👎 6❓ - H Housing
 * [HB 1319](hb/1319) - Collisions/driver reexam 1📰 87👍 2👎 0❓ - C 29 L 23
 * [SB 5032](sb/5032) - DUI lookback & sentencing 5📰 82👍 3👎 4❓ - S Rules 3
@@ -925,12 +925,12 @@
 * [SB 5936](sb/5936) - Palliative care work group 88👍 0👎 1❓ - Del to Gov
 * [HB 2133](hb/2133) - Public school bus trespass 73👍 15👎 0❓ - H Community Safet
 * [SB 5274](sb/5274) - Public employ. eligibility 2📰 10👍 75👎 3❓ - S Rules X
-* [SB 5849](sb/5849) - Computer science/graduation 3📰 56👍 13👎 19❓ - S Rules 3
+* [SB 5849](sb/5849) - Computer science/graduation 4📰 56👍 13👎 19❓ - S Rules 3
 * [SB 5996](sb/5996) - H-2A worker program data 31👍 55👎 2❓ - S Rules X
 * [HB 1084](hb/1084) - Freight mobility priority 68👍 2👎 17❓ - C 167 L 23
 * [HB 2307](hb/2307) - Public records reviews 38👍 49👎 0❓ - H State Govt & T
 * [SB 5379](sb/5379) - Associate development orgs. 86👍 1👎 0❓ - S Ways & Means
-* [SB 5891](sb/5891) - School bus trespass 68👍 18👎 1❓ - Del to Gov
+* [SB 5891](sb/5891) - School bus trespass 1📰 68👍 18👎 1❓ - Del to Gov
 * [SB 5903](sb/5903) - Concerning representation in the educator preparation act. 18👍 69👎 0❓ - S Rules 3
 * [SB 5800](sb/5800) - Improving access to department of licensing issued documents by clarifying the application requirements for a minor, modifying the requirements for at-cost identicards, and studying the feasibility of reduced-fee identicards. 31👍 55👎 0❓ - Del to Gov
 * [SB 6291](sb/6291) - State building code council 2📰 83👍 1👎 2❓ - Del to Gov
@@ -964,7 +964,7 @@
 * [HB 2022](hb/2022) - Construction crane safety 2📰 71👍 1👎 7❓ - Del to Gov
 * [SB 5391](sb/5391) - Embodied carbon reductions 61👍 13👎 5❓ - S Environment, E
 * [SB 5397](sb/5397) - Public benefit payments/DCYF 1📰 77👍 2👎 0❓ - S Ways & Means
-* [SB 6125](sb/6125) - Lakeland Village records 77👍 1👎 1❓ - Del to Gov
+* [SB 6125](sb/6125) - Lakeland Village records 77👍 1👎 1❓ - C 134 L 24
 * [HB 1207](hb/1207) - Harassment/schools 5📰 64👍 14👎 0❓ - C 242 L 23
 * [HB 1650](hb/1650) - Cannabis prohibitions 47👍 28👎 3❓ - H Approps
 * [SB 5141](sb/5141) - WMS bargaining 69👍 9👎 0❓ - S Ways & Means
@@ -982,17 +982,17 @@
 * [HB 1927](hb/1927) - Reducing the number of days that a worker's temporary total disability must continue to receive industrial insurance compensation for the day of an injury and the three-day period following the injury. 24👍 49👎 2❓ - Del to Gov
 * [HB 2053](hb/2053) - Establishing the ninth grade success grant program. 1📰 72👍 3👎 0❓ - H Approps
 * [SB 5539](sb/5539) - Tax increment financing 73👍 1👎 1❓ - S Ways & Means
-* [SB 5821](sb/5821) - Audio-only telemedicine 69👍 4👎 2❓ - Del to Gov
+* [SB 5821](sb/5821) - Audio-only telemedicine 1📰 69👍 4👎 2❓ - Del to Gov
 * [SB 6281](sb/6281) - Reforestation grants 72👍 1👎 2❓ - S Ways & Means
 * [HB 1716](hb/1716) - Child care B&O credit 4📰 67👍 6👎 1❓ - H Finance
-* [HB 2217](hb/2217) - Juvenile criminal offenses 3📰 62👍 11👎 1❓ - Del to Gov
+* [HB 2217](hb/2217) - Juvenile criminal offenses 5📰 62👍 11👎 1❓ - Del to Gov
 * [SB 5118](sb/5118) - Multifamily property tax ex. 3📰 27👍 36👎 11❓ - S Ways & Means
 * [SB 5523](sb/5523) - Forensic pathologists 2📰 73👍 1👎 0❓ - C 442 L 23
 * [HB 1969](hb/1969) - Individual providers/family 1📰 70👍 3👎 0❓ - H Rules X
 * [HB 2359](hb/2359) - Vehicle impounds 6👍 63👎 4❓ - H Transportation
 * [HB 2451](hb/2451) - Impact fees 66👍 5👎 2❓ - H Local Govt
 * [SB 5301](sb/5301) - Commerce housing programs 4📰 71👍 1👎 1❓ - C 275 L 23
-* [SB 5804](sb/5804) - Opioid overdose med./schools 7📰 73👍 0👎 0❓ - Del to Gov
+* [SB 5804](sb/5804) - Opioid overdose med./schools 8📰 73👍 0👎 0❓ - Del to Gov
 * [HB 1046](hb/1046) - Housing dev. income limits 4📰 63👍 8👎 1❓ - C 133 L 23
 * [HB 1122](hb/1122) - WMS bargaining 1📰 64👍 7👎 1❓ - C 136 L 23
 * [HB 1506](hb/1506) - DSHS leases 3👍 68👎 1❓ - H Cap Budget
@@ -1013,7 +1013,7 @@
 * [SB 5183](sb/5183) - Personal needs allowance 68👍 0👎 2❓ - S Ways & Means
 * [SB 5482](sb/5482) - Margin tax 1📰 29👍 33👎 8❓ - S Business, Fin
 * [SB 5610](sb/5610) - Used vehicle warranties 9👍 59👎 2❓ - S Rules X
-* [SB 5660](sb/5660) - Mental health adv directives 1📰 68👍 1👎 1❓ - Del to Gov
+* [SB 5660](sb/5660) - Mental health adv directives 2📰 68👍 1👎 1❓ - Del to Gov
 * [SB 6220](sb/6220) - High THC cannabis products 2📰 38👍 31👎 1❓ - S Ways & Means
 * [HB 1042](hb/1042) - Use of existing buildings 6📰 53👍 10👎 6❓ - C 285 L 23
 * [HB 1556](hb/1556) - Property tax rebates 1📰 29👍 40👎 0❓ - H Finance
@@ -1059,11 +1059,11 @@
 * [HB 1114](hb/1114) - Sentencing comm'n members 6📰 62👍 0👎 0❓ - C 241 L 23
 * [HB 1156](hb/1156) - College grant eligibility 3📰 62👍 0👎 0❓ - H Approps
 * [HB 1771](hb/1771) - Relocation assistance 4📰 61👍 1👎 0❓ - C 259 L 23
-* [HB 1987](hb/1987) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 56👍 4👎 2❓ - Del to Gov
+* [HB 1987](hb/1987) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities. 56👍 4👎 2❓ - C 58 L 24
 * [HB 2207](hb/2207) - Solid waste dumping 5📰 53👍 1👎 8❓ - Del to Gov
 * [SB 5277](sb/5277) - Dairy, etc. tax preferences 62👍 0👎 0❓ - S Rules X
 * [SB 5522](sb/5522) - College grant prg. stipend 1📰 62👍 0👎 0❓ - S Higher Ed & Wo
-* [SB 5935](sb/5935) - Noncompetition covenants 3📰 34👍 28👎 0❓ - Del to Gov
+* [SB 5935](sb/5935) - Noncompetition covenants 4📰 34👍 28👎 0❓ - C 36 L 24
 * [SB 6074](sb/6074) - TNC driver death benefits 56👍 6👎 0❓ - S Labor & Comm
 * [SB 6219](sb/6219) - Agritourism 56👍 5👎 1❓ - S Loc Gov, Land
 * [HB 1725](hb/1725) - Insulin/access under 21 1📰 60👍 0👎 1❓ - H Approps
@@ -1104,7 +1104,7 @@
 * [HB 2147](hb/2147) - Agriculture pests & diseases 52👍 2👎 1❓ - Del to Gov
 * [HB 2231](hb/2231) - Law enforcement funding 49👍 5👎 1❓ - H Local Govt
 * [SB 5765](sb/5765) - I-5 bridge tolling 4📰 38👍 16👎 1❓ - C 377 L 23
-* [SB 5824](sb/5824) - Dissolution of libraries 5📰 35👍 19👎 1❓ - Del to Gov
+* [SB 5824](sb/5824) - Dissolution of libraries 6📰 35👍 19👎 1❓ - Del to Gov
 * [HB 1015](hb/1015) - Paraeducator requirements 3📰 53👍 0👎 1❓ - C 19 L 23
 * [HB 1396](hb/1396) - First degree murder/juvenile 1📰 14👍 21👎 19❓ - H Rules X
 * [SB 5344](sb/5344) - Public school revolving fund 7📰 52👍 2👎 0❓ - S Rules 3
@@ -1112,7 +1112,7 @@
 * [SB 6288](sb/6288) - Headlight use at all times 6👍 48👎 0❓ - S Transportation
 * [HB 1197](hb/1197) - Workers' comp. providers 42👍 6👎 5❓ - C 171 L 23
 * [HB 1343](hb/1343) - Rent relief & housing 2📰 52👍 1👎 0❓ - H Housing
-* [HB 1648](hb/1648) - Ticket sales 9📰 21👍 4👎 28❓ - H Rules X
+* [HB 1648](hb/1648) - Ticket sales 10📰 21👍 4👎 28❓ - H Rules X
 * [HB 1807](hb/1807) - Speed safety cameras 2📰 22👍 30👎 1❓ - H Rules X
 * [HB 1895](hb/1895) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 3📰 53👍 0👎 0❓ - C 3 L 24
 * [HB 2140](hb/2140) - Modifying laws related to adverse possession to protect legal owners of property. 1📰 51👍 2👎 0❓ - H Civil R & Judi
@@ -1128,7 +1128,7 @@
 * [SB 5921](sb/5921) - Concerning tribal representation on the state conservation commission. 1📰 53👍 0👎 0❓ - S Rules 3
 * [SB 6157](sb/6157) - Civil service 1📰 30👍 21👎 2❓ - Del to Gov
 * [SB 6226](sb/6226) - DSHS fraud office reporting 53👍 0👎 0❓ - S Ways & Means
-* [SB 6299](sb/6299) - Employees/digital technology 2📰 47👍 6👎 0❓ - S Rules X
+* [SB 6299](sb/6299) - Employees/digital technology 3📰 47👍 6👎 0❓ - S Rules X
 * [HB 1326](hb/1326) - Utility connection charges 6📰 52👍 0👎 0❓ - C 249 L 23
 * [HB 1421](hb/1421) - Voluntary stewardship prog. 50👍 0👎 2❓ - H Rules X
 * [HB 1465](hb/1465) - Prescription cost-sharing 36👍 14👎 2❓ - H HC/Wellness
@@ -1138,12 +1138,12 @@
 * [SB 5417](sb/5417) - Employer political speech 38👍 13👎 1❓ - S Rules X
 * [SB 5784](sb/5784) - Deer & elk crop damage 1📰 52👍 0👎 0❓ - Del to Gov
 * [SB 5785](sb/5785) - WDFW/volunteer organizations 1📰 49👍 3👎 0❓ - Del to Gov
-* [HB 1226](hb/1226) - Smelt, crawfish, and carp 2📰 9👍 41👎 1❓ - Del to Gov
+* [HB 1226](hb/1226) - Smelt, crawfish, and carp 2📰 9👍 41👎 1❓ - C 77 L 24
 * [HB 1335](hb/1335) - Personal identifying info. 4📰 40👍 11👎 0❓ - C 381 L 23
 * [HB 1338](hb/1338) - DOC ed. and vocational prgs. 1📰 50👍 1👎 0❓ - H Rules X
 * [HB 1910](hb/1910) - Pawnbroker fees, int. rates 49👍 1👎 1❓ - H Rules X
-* [HB 2086](hb/2086) - Office of indep. invest. 23👍 27👎 1❓ - Del to Gov
-* [HB 2306](hb/2306) - Main street tax credits 2📰 48👍 3👎 0❓ - Del to Gov
+* [HB 2086](hb/2086) - Office of indep. invest. 23👍 27👎 1❓ - C 64 L 24
+* [HB 2306](hb/2306) - Main street tax credits 2📰 48👍 3👎 0❓ - C 93 L 24
 * [HB 2352](hb/2352) - College athletes 1📰 1👍 47👎 3❓ - H Postsec Ed & W
 * [HB 2371](hb/2371) - Political advert. removal 51👍 0👎 0❓ - H Rules 3C
 * [SB 5110](sb/5110) - Labor practices/penalties 26👍 25👎 0❓ - S Rules X
@@ -1181,12 +1181,12 @@
 * [HB 1738](hb/1738) - Universal comm. services 47👍 0👎 0❓ - H Approps
 * [HB 2283](hb/2283) - Shared leave/disasters 47👍 0👎 0❓ - H Rules 3C
 * [SB 5145](sb/5145) - Liability/hydro. projects 45👍 1👎 1❓ - C 183 L 23
-* [SB 5829](sb/5829) - Congenital cytomegalovirus 43👍 4👎 0❓ - Del to Gov
+* [SB 5829](sb/5829) - Congenital cytomegalovirus 43👍 4👎 0❓ - C 96 L 24
 * [SB 5995](sb/5995) - Interpreters and translators 1📰 18👍 22👎 7❓ - S Rules 3
 * [HB 1570](hb/1570) - TNC insurance programs 4📰 42👍 2👎 2❓ - C 451 L 23
 * [HB 1653](hb/1653) - Animal adoption fees/tax 45👍 1👎 0❓ - H Finance
 * [HB 1683](hb/1683) - Dental only coverage 1📰 44👍 0👎 2❓ - C 216 L 23
-* [HB 2151](hb/2151) - Cannabis lab. accreditation 45👍 0👎 1❓ - Del to Gov
+* [HB 2151](hb/2151) - Cannabis lab. accreditation 45👍 0👎 1❓ - C 69 L 24
 * [SB 5130](sb/5130) - Assisted outpatient treat. 1📰 31👍 15👎 0❓ - S Rules X
 * [SB 5153](sb/5153) - Future voters/records 25👍 21👎 0❓ - C 361 L 23
 * [SB 5302](sb/5302) - Adult family homes/prop. tax 45👍 1👎 0❓ - S Rules X
@@ -1232,7 +1232,7 @@
 * [HB 2061](hb/2061) - Health employees/overtime 40👍 0👎 1❓ - Del to Gov
 * [SB 5355](sb/5355) - Sex trafficking prev. ed. 10📰 33👍 6👎 2❓ - C 328 L 23
 * [SB 5690](sb/5690) - Conditional release teams 9👍 31👎 1❓ - S Rules 3
-* [SB 6031](sb/6031) - Student transp. allocation 4📰 37👍 1👎 3❓ - S ref/H recede
+* [SB 6031](sb/6031) - Student transp. allocation 4📰 37👍 1👎 3❓ - S Rules 3
 * [HB 1194](hb/1194) - Renewable energy workforce 1📰 25👍 14👎 1❓ - H Postsec Ed & W
 * [HB 1994](hb/1994) - Misdemeanor dismissal 6📰 32👍 5👎 3❓ - H Rules X
 * [SB 5074](sb/5074) - Biomarker testing coverage 37👍 3👎 0❓ - S Health & Long
@@ -1253,11 +1253,11 @@
 * [HB 1912](hb/1912) - Economic development info. 9👍 28👎 2❓ - H Approps
 * [HB 1942](hb/1942) - Long-term care providers 35👍 4👎 0❓ - Del to Gov
 * [HB 1972](hb/1972) - Physicians health prg. fees 2📰 36👍 3👎 0❓ - C 15 L 24
-* [HB 2020](hb/2020) - Public infra. assistance prg 2📰 36👍 2👎 1❓ - Del to Gov
+* [HB 2020](hb/2020) - Public infra. assistance prg 2📰 36👍 2👎 1❓ - C 60 L 24
 * [SB 5199](sb/5199) - Newspaper publishers/tax 9📰 30👍 6👎 3❓ - C 286 L 23
 * [SB 5534](sb/5534) - Workforce investment board 39👍 0👎 0❓ - C 282 L 23
 * [SB 5666](sb/5666) - CTC student housing pilot 31👍 8👎 0❓ - S Ways & Means
-* [SB 5979](sb/5979) - Concerning accrued leave for construction workers. 39👍 0👎 0❓ - Del to Gov
+* [SB 5979](sb/5979) - Concerning accrued leave for construction workers. 39👍 0👎 0❓ - C 39 L 24
 * [SB 6238](sb/6238) - Property tax/veteran widows 37👍 2👎 0❓ - Del to Gov
 * [SB 6286](sb/6286) - Nurse anesthetist workforce 37👍 0👎 2❓ - Del to Gov
 * [HB 1027](hb/1027) - Audio-only telemedicine 38👍 0👎 0❓ - H Rules X
@@ -1276,19 +1276,19 @@
 * [SB 5709](sb/5709) - Irrigation dist. elections 37👍 1👎 0❓ - S Rules 3
 * [SB 6168](sb/6168) - International leadership 14👍 24👎 0❓ - S Rules X
 * [HB 1385](hb/1385) - Civil forfeiture proceedings 5👍 25👎 7❓ - H Approps
-* [HB 1963](hb/1963) - License plate covers 2📰 13👍 23👎 1❓ - Del to Gov
+* [HB 1963](hb/1963) - License plate covers 2📰 13👍 23👎 1❓ - C 84 L 24
 * [HB 1971](hb/1971) - Rangeland fire pilot 1📰 31👍 2👎 4❓ - H AGNRDPS
 * [HB 2391](hb/2391) - County ferries 1📰 37👍 0👎 0❓ - H Rules X
 * [SB 5415](sb/5415) - Public defense/insanity 36👍 1👎 0❓ - C 120 L 23
-* [SB 5508](sb/5508) - Greenhouses 37👍 0👎 0❓ - Del to Gov
+* [SB 5508](sb/5508) - Greenhouses 37👍 0👎 0❓ - C 19 L 24
 * [SB 5659](sb/5659) - Gas companies/renewable res. 1📰 30👍 5👎 2❓ - S Environment, E
-* [SB 5790](sb/5790) - Bleeding control/schools 3📰 37👍 0👎 0❓ - Del to Gov
+* [SB 5790](sb/5790) - Bleeding control/schools 4📰 37👍 0👎 0❓ - Del to Gov
 * [SB 5976](sb/5976) - Dogs at large 5👍 32👎 0❓ - S Law & Justice
 * [HB 1064](hb/1064) - School safety capital grants 1📰 33👍 3👎 0❓ - H Cap Budget
 * [HB 1728](hb/1728) - Statewide resiliency program 1📰 15👍 18👎 3❓ - C 428 L 23
-* [HB 1955](hb/1955) - Repealing the greenhouse gas content disclosure provision. 1📰 35👍 0👎 1❓ - Del to Gov
+* [HB 1955](hb/1955) - Repealing the greenhouse gas content disclosure provision. 1📰 35👍 0👎 1❓ - C 83 L 24
 * [HB 2322](hb/2322) - Child care/tax preferences 2📰 36👍 0👎 0❓ - H Rules X
-* [HB 2396](hb/2396) - Synthetic opioids 4📰 35👍 1👎 0❓ - Del to Gov
+* [HB 2396](hb/2396) - Synthetic opioids 6📰 35👍 1👎 0❓ - Del to Gov
 * [SB 5541](sb/5541) - Supply chain transparency 2📰 10👍 20👎 6❓ - S Ways & Means
 * [SB 5613](sb/5613) - Rural public facilities/tax 33👍 2👎 1❓ - S Ways & Means
 * [SB 5662](sb/5662) - Cannabis employees 8👍 28👎 0❓ - S Rules X
@@ -1338,12 +1338,12 @@
 * [HB 2378](hb/2378) - Health care facility fees 23👍 10👎 0❓ - H HC/Wellness
 * [HB 2466](hb/2466) - Addressing ambulance wait times. 1📰 27👍 6👎 0❓ - H HC/Wellness
 * [SB 6053](sb/6053) - Education data sharing 2📰 27👍 4👎 2❓ - Del to Gov
-* [SB 6080](sb/6080) - Tourism marketing funding 32👍 1👎 0❓ - Del to Gov
+* [SB 6080](sb/6080) - Tourism marketing funding 32👍 1👎 0❓ - C 130 L 24
 * [SB 6111](sb/6111) - Prevailing wage sanctions 30👍 0👎 3❓ - S Labor & Comm
 * [HB 1104](hb/1104) - Deferred prosecutions 21👍 4👎 7❓ - H Rules 3C
 * [HB 1412](hb/1412) - Ag. land/foreign ownership 25👍 5👎 2❓ - H Civil R & Judi
 * [HB 1701](hb/1701) - Institutional ed. programs 3📰 25👍 1👎 6❓ - C 303 L 23
-* [HB 1974](hb/1974) - Disposing of human remains 1📰 31👍 1👎 0❓ - Del to Gov
+* [HB 1974](hb/1974) - Disposing of human remains 1📰 31👍 1👎 0❓ - C 57 L 24
 * [HB 1990](hb/1990) - Aerial imagery program 27👍 3👎 2❓ - H Approps
 * [HB 2009](hb/2009) - Missing persons/dental recs. 1📰 32👍 0👎 0❓ - H Rules 3C
 * [HB 2333](hb/2333) - Carbon seq./state lands 1📰 25👍 3👎 4❓ - H Cap Budget
@@ -1359,7 +1359,7 @@
 * [HB 1073](hb/1073) - Medical assistants 6📰 25👍 4👎 2❓ - C 134 L 23
 * [HB 1753](hb/1753) - Derelict vessel notices 31👍 0👎 0❓ - C 304 L 23
 * [HB 1862](hb/1862) - Disabled veteran assist./tax 2📰 31👍 0👎 0❓ - Del to Gov
-* [HB 2004](hb/2004) - Military student early reg. 31👍 0👎 0❓ - Del to Gov
+* [HB 2004](hb/2004) - Military student early reg. 31👍 0👎 0❓ - C 89 L 24
 * [HB 2197](hb/2197) - Medical assist./prevention 2📰 30👍 0👎 1❓ - H Rules X
 * [HB 2308](hb/2308) - Existing structures/housing 2📰 30👍 0👎 1❓ - H Rules X
 * [HB 2360](hb/2360) - Digital workforce 29👍 2👎 0❓ - H Approps
@@ -1392,7 +1392,7 @@
 * [HB 1595](hb/1595) - Cannabis excise tax 4👍 21👎 4❓ - H Reg Subst & Ga
 * [HB 1693](hb/1693) - Student homelessness pilot 3📰 28👍 0👎 1❓ - H Rules X
 * [HB 1783](hb/1783) - Grant writers 1📰 28👍 1👎 0❓ - C 311 L 23
-* [HB 2048](hb/2048) - Domestic violence/sentencing 2📰 23👍 4👎 2❓ - Del to Gov
+* [HB 2048](hb/2048) - Domestic violence/sentencing 4📰 23👍 4👎 2❓ - C 63 L 24
 * [HB 2186](hb/2186) - Juv. deferred adjudications 26👍 2👎 1❓ - H Human Svc, Yout
 * [HB 2325](hb/2325) - Legislative employees 1📰 7👍 0👎 22❓ - H Rules X
 * [SB 5281](sb/5281) - Aircraft fuel excise tax 19👍 10👎 0❓ - S Transportation
@@ -1423,7 +1423,7 @@
 * [SB 5586](sb/5586) - Paid leave data 1📰 25👍 2👎 1❓ - C 375 L 23
 * [SB 5634](sb/5634) - Problem gambling 1📰 14👍 9👎 5❓ - C 284 L 23
 * [SB 5648](sb/5648) - Board of education waivers 28👍 0👎 0❓ - S Rules 3
-* [SB 5670](sb/5670) - Running start/rising juniors 8📰 17👍 6👎 5❓ - Del to Gov
+* [SB 5670](sb/5670) - Running start/rising juniors 9📰 17👍 6👎 5❓ - Del to Gov
 * [SB 5673](sb/5673) - Forest practices board 25👍 3👎 0❓ - S Ag/Water/Natura
 * [SB 5794](sb/5794) - Architecture licensing exams 28👍 0👎 0❓ - S Rules 3
 * [SB 5912](sb/5912) - Reentry services & supports 1📰 24👍 0👎 4❓ - S Ways & Means
@@ -1435,7 +1435,7 @@
 * [HB 1756](hb/1756) - Energy/tax 22👍 2👎 3❓ - C 427 L 23
 * [HB 1772](hb/1772) - Tetrahydrocannabinol & alc. 8📰 25👍 1👎 1❓ - C 217 L 23
 * [HB 1812](hb/1812) - Medicaid/B&O tax deductions 27👍 0👎 0❓ - C 313 L 23
-* [HB 1880](hb/1880) - Architecture licensing exams 27👍 0👎 0❓ - Del to Gov
+* [HB 1880](hb/1880) - Architecture licensing exams 27👍 0👎 0❓ - C 49 L 24
 * [HB 2255](hb/2255) - Cannabis inversion/diversion 2📰 20👍 7👎 0❓ - H Rules 3C
 * [HB 2463](hb/2463) - Conducting a review of salmon planning and recovery efforts. 23👍 1👎 3❓ - H AGNRDP
 * [SB 5025](sb/5025) - DOC technology systems 26👍 1👎 0❓ - S Rules X
@@ -1448,14 +1448,14 @@
 * [SB 5910](sb/5910) - Creating the state department of natural resources' Smokey Bear special license plates. 4📰 27👍 0👎 0❓ - S Transportation
 * [SB 5915](sb/5915) - Extending an existing hazardous substance tax exemption for certain agricultural crop protection products that are temporarily warehoused but not otherwise used, manufactured, packaged, or sold in the state of Washington. 25👍 2👎 0❓ - S Rules 3
 * [SB 6036](sb/6036) - Agriculture pests & diseases 27👍 0👎 0❓ - S Rules 3
-* [SB 6296](sb/6296) - Establishing a retail industry work group. 1📰 27👍 0👎 0❓ - Del to Gov
+* [SB 6296](sb/6296) - Establishing a retail industry work group. 2📰 27👍 0👎 0❓ - C 43 L 24
 * [HB 1007](hb/1007) - Military service credit 1📰 26👍 0👎 0❓ - C 18 L 23
 * [HB 1077](hb/1077) - Courthouse facility dogs 2📰 24👍 0👎 2❓ - C 59 L 23
 * [HB 1444](hb/1444) - Common school trust revenue 1📰 26👍 0👎 0❓ - H Cap Budget
 * [HB 1591](hb/1591) - Open adoption agreements 25👍 1👎 0❓ - H Approps
 * [HB 1651](hb/1651) - Infraction debt 15👍 10👎 1❓ - H Transportation
 * [HB 1663](hb/1663) - Consolidated port districts 2📰 25👍 1👎 0❓ - C 215 L 23
-* [HB 2003](hb/2003) - Housing/public lands leases 26👍 0👎 0❓ - Del to Gov
+* [HB 2003](hb/2003) - Housing/public lands leases 1📰 26👍 0👎 0❓ - C 59 L 24
 * [SB 5010](sb/5010) - Synthetic opioids/endanger. 3📰 22👍 3👎 1❓ - S Rules 3
 * [SB 5240](sb/5240) - Unemployment ins. appeals 26👍 0👎 0❓ - S Rules X
 * [SB 5310](sb/5310) - Workers' comp. providers 17👍 6👎 3❓ - S Rules X
@@ -1463,7 +1463,7 @@
 * [SB 5603](sb/5603) - Driver training/large veh. 25👍 1👎 0❓ - S Rules X
 * [SB 5607](sb/5607) - Fashion/env. policies 1📰 7👍 18👎 1❓ - S Environment, E
 * [SB 5795](sb/5795) - Year-round Pacific std. time 5📰 22👍 4👎 0❓ - S State Govt & El
-* [SB 5803](sb/5803) - National guard recruitment 1📰 22👍 1👎 3❓ - Del to Gov
+* [SB 5803](sb/5803) - National guard recruitment 1📰 22👍 1👎 3❓ - C 24 L 24
 * [SB 5810](sb/5810) - Interpreter bargaining units 22👍 2👎 2❓ - S Ways & Means
 * [SB 6028](sb/6028) - Unemployment overpayments 26👍 0👎 0❓ - S Rules 3
 * [ESJM 8005](esjm/8005) - De-risking/financial inst. 5👍 20👎 1❓ - S Filed Sec/St
@@ -1477,7 +1477,7 @@
 * [HB 1714](hb/1714) - Financial literacy grants 1📰 25👍 0👎 0❓ - H Rules 3C
 * [HB 1851](hb/1851) - First approach skills prog. 1📰 17👍 8👎 0❓ - Del to Gov
 * [HB 2011](hb/2011) - Enhancing consumer protections for automobile insurance coverage. 17👍 7👎 1❓ - H ConsPro&Bus
-* [HB 2091](hb/2091) - Fallen firefighter memorial 3📰 25👍 0👎 0❓ - Del to Gov
+* [HB 2091](hb/2091) - Fallen firefighter memorial 4📰 25👍 0👎 0❓ - C 65 L 24
 * [HB 2164](hb/2164) - Postsecondary ed protections 20👍 0👎 5❓ - H Rules 3C
 * [HB 2248](hb/2248) - Traumatic brain injuries 22👍 3👎 0❓ - H Approps
 * [HB 2437](hb/2437) - Retirement savings 1📰 2👍 21👎 2❓ - H Approps
@@ -1518,7 +1518,7 @@
 * [HB 1574](hb/1574) - Methane/agriculture 19👍 3👎 1❓ - H AGNRDP
 * [HB 1702](hb/1702) - Senior citizens local tax 23👍 0👎 0❓ - H Local Govt
 * [HB 1743](hb/1743) - Employee ownership 23👍 0👎 0❓ - H Approps
-* [HB 1835](hb/1835) - Frontier counties 2📰 22👍 1👎 0❓ - Del to Gov
+* [HB 1835](hb/1835) - Frontier counties 2📰 22👍 1👎 0❓ - C 47 L 24
 * [HB 2152](hb/2152) - Criminal insanity terms 14👍 2👎 7❓ - H Rules X
 * [HB 2193](hb/2193) - Env. restoration accelerator 16👍 2👎 5❓ - H Ag&Nr
 * [HB 2416](hb/2416) - ARNP legal title 23👍 0👎 0❓ - Del to Gov
@@ -1530,7 +1530,7 @@
 * [SB 5602](sb/5602) - Hearing examiners/counties 0👍 23👎 0❓ - S Rules X
 * [SB 5652](sb/5652) - Tow truck operator comp. 14👍 7👎 2❓ - Del to Gov
 * [SB 5733](sb/5733) - Payment card processing/tax 16👍 0👎 7❓ - S Ways & Means
-* [SB 5779](sb/5779) - Sunshine committee 1📰 22👍 0👎 1❓ - S Rules X
+* [SB 5779](sb/5779) - Sunshine committee 2📰 22👍 0👎 1❓ - S Rules X
 * [SB 5827](sb/5827) - Superior court/Whatcom 1📰 22👍 1👎 0❓ - S Rules X
 * [SJR 8201](sjr/8201) - Public works account 23👍 0👎 0❓ - S Rules X
 * [HB 1107](hb/1107) - "Master" and "servant" terms 1📰 22👍 0👎 0❓ - C 25 L 23
@@ -1539,7 +1539,7 @@
 * [HB 1638](hb/1638) - State trooper recruitment 8📰 19👍 3👎 0❓ - C 459 L 23
 * [HB 1983](hb/1983) - Criminal justice trtmnt acct 1📰 21👍 1👎 0❓ - Del to Gov
 * [HB 2082](hb/2082) - Electrical transmission 21👍 0👎 1❓ - H Approps
-* [HB 2127](hb/2127) - Incentives to return to work 1📰 19👍 3👎 0❓ - Del to Gov
+* [HB 2127](hb/2127) - Incentives to return to work 1📰 19👍 3👎 0❓ - C 90 L 24
 * [HB 2224](hb/2224) - Child abuse referral tool 2📰 21👍 1👎 0❓ - H Rules 3C
 * [SB 5015](sb/5015) - Productivity board 21👍 0👎 1❓ - C 106 L 23
 * [SB 5143](sb/5143) - Pesticide registration comm. 11👍 10👎 1❓ - C 37 L 23
@@ -1547,7 +1547,7 @@
 * [SB 5538](sb/5538) - Postretirement/nursing 2📰 17👍 5👎 0❓ - C 99 L 23
 * [SB 5788](sb/5788) - Service animal training 20👍 0👎 2❓ - Del to Gov
 * [SB 5789](sb/5789) - Concerning the sales and use tax for school construction assistance program capital projects. 3📰 20👍 2👎 0❓ - S Rules 3
-* [SB 5997](sb/5997) - Plumbing hours reporting 17👍 2👎 3❓ - Del to Gov
+* [SB 5997](sb/5997) - Plumbing hours reporting 17👍 2👎 3❓ - C 97 L 24
 * [SB 6242](sb/6242) - Law enforcement training 1📰 21👍 1👎 0❓ - S Rules 3
 * [HB 1113](hb/1113) - Prof. educator reprimands 4📰 17👍 2👎 2❓ - H Rules 3C
 * [HB 1249](hb/1249) - Retail cannabis products 1📰 19👍 1👎 1❓ - C 9 L 24
@@ -1567,19 +1567,19 @@
 * [SB 5502](sb/5502) - Sub. use disorder treatment 1📰 16👍 3👎 2❓ - C 405 L 23
 * [SB 5569](sb/5569) - Kidney disease centers 20👍 1👎 0❓ - C 48 L 23
 * [SB 5577](sb/5577) - Capital broadband program 1📰 20👍 0👎 1❓ - S Environment, E
-* [SB 6027](sb/6027) - Insurance holding companies 21👍 0👎 0❓ - Del to Gov
+* [SB 6027](sb/6027) - Insurance holding companies 21👍 0👎 0❓ - C 42 L 24
 * [SB 6087](sb/6087) - Fire srv. training account 20👍 1👎 0❓ - Del to Gov
 * [HB 1006](hb/1006) - Drug testing equipment 2📰 20👍 0👎 0❓ - H Rules X
 * [HB 1008](hb/1008) - Plan 2 members/insurance 19👍 0👎 1❓ - C 164 L 23
 * [HB 1017](hb/1017) - Cosmetologists, etc/licenses 19👍 0👎 1❓ - C 55 L 23
-* [HB 1070](hb/1070) - Property sale and leaseback 2📰 17👍 2👎 1❓ - C 22 L 23
+* [HB 1070](hb/1070) - Property sale and leaseback 3📰 17👍 2👎 1❓ - C 22 L 23
 * [HB 1243](hb/1243) - Muni. airport commissions 1📰 8👍 12👎 0❓ - C 247 L 23
 * [HB 1318](hb/1318) - Aircraft maintenance/tax 18👍 0👎 2❓ - C 414 L 23
 * [HB 1438](hb/1438) - Shooting sports contests 17👍 0👎 3❓ - H Reg Subst & Ga
 * [HB 1552](hb/1552) - Urban agriculture study 19👍 1👎 0❓ - C 178 L 23
 * [HB 1567](hb/1567) - Conserv. district elections 17👍 0👎 3❓ - H Rules X
 * [HB 1585](hb/1585) - Local infra. project areas 19👍 0👎 1❓ - H Finance
-* [HB 1726](hb/1726) - Fire service training 20👍 0👎 0❓ - Del to Gov
+* [HB 1726](hb/1726) - Fire service training 1📰 20👍 0👎 0❓ - C 46 L 24
 * [HB 1737](hb/1737) - Reconciliation account 2📰 5👍 15👎 0❓ - H Rules X
 * [HB 1750](hb/1750) - Water safety education 5📰 19👍 1👎 0❓ - C 181 L 23
 * [HB 1873](hb/1873) - Concerning office of public defense social service workers for parents in child welfare cases. 17👍 1👎 2❓ - H Human Svc, Yout
@@ -1597,7 +1597,7 @@
 * [SB 5483](sb/5483) - Digital processing services 19👍 1👎 0❓ - S Ways & Means
 * [SB 5528](sb/5528) - Construction retainage 20👍 0👎 0❓ - C 373 L 23
 * [SB 5530](sb/5530) - Digital experience 1📰 16👍 3👎 1❓ - S Environment, E
-* [SB 5836](sb/5836) - Adding an additional superior court judge in Clark county. 20👍 0👎 0❓ - Del to Gov
+* [SB 5836](sb/5836) - Adding an additional superior court judge in Clark county. 20👍 0👎 0❓ - C 125 L 24
 * [HB 1166](hb/1166) - Water quality trading prog. 1📰 14👍 3👎 2❓ - H Env & Energy
 * [HB 1209](hb/1209) - Controlled substance equip. 4📰 16👍 2👎 1❓ - C 66 L 23
 * [HB 1256](hb/1256) - Higher ed. matching grants 11👍 6👎 2❓ - H Cap Budget
@@ -1627,11 +1627,11 @@
 * [HB 1705](hb/1705) - Stormwater facilities/county 15👍 2👎 1❓ - H Rules X
 * [HB 1742](hb/1742) - Nontax statutes/DOR 18👍 0👎 0❓ - C 258 L 23
 * [HB 1896](hb/1896) - Tourism marketing funding 18👍 0👎 0❓ - H Rules X
-* [HB 1898](hb/1898) - Concerning unemployment insurance benefit charging. 17👍 1👎 0❓ - Del to Gov
+* [HB 1898](hb/1898) - Concerning unemployment insurance benefit charging. 17👍 1👎 0❓ - C 51 L 24
 * [HB 1935](hb/1935) - Promoting resource conservation practices that include student education and leadership opportunities in public schools. 2📰 16👍 1👎 1❓ - H Rules X
 * [HB 2059](hb/2059) - Sale of halal foods 17👍 0👎 1❓ - H Rules 3C
 * [HB 2074](hb/2074) - Landowner's lessee/penalties 16👍 0👎 2❓ - H Rules 3C
-* [HB 2110](hb/2110) - High school graduation 1📰 15👍 3👎 0❓ - Del to Gov
+* [HB 2110](hb/2110) - High school graduation 1📰 15👍 3👎 0❓ - C 66 L 24
 * [HB 2258](hb/2258) - Regional 911 funding 6👍 11👎 1❓ - H Rules X
 * [HB 2279](hb/2279) - Dev. disabilities waiver use 16👍 0👎 2❓ - H Rules X
 * [SB 5113](sb/5113) - Dental school faculty 1📰 18👍 0👎 0❓ - C 89 L 23
@@ -1639,7 +1639,7 @@
 * [SB 5336](sb/5336) - Main street trust fund 18👍 0👎 0❓ - C 96 L 23
 * [SB 5349](sb/5349) - Postretirement employment 2📰 18👍 0👎 0❓ - S Rules X
 * [SB 5407](sb/5407) - Concerning the administration of property taxes. 16👍 0👎 2❓ - S Ways & Means
-* [SB 5647](sb/5647) - School safety/temp employees 2📰 17👍 1👎 0❓ - Del to Gov
+* [SB 5647](sb/5647) - School safety/temp employees 2📰 17👍 1👎 0❓ - C 21 L 24
 * [SB 5687](sb/5687) - Wrestling grant programs 16👍 1👎 1❓ - C 190 L 23
 * [SB 5694](sb/5694) - Concerning public employee salary surveys. 18👍 0👎 0❓ - S Ways & Means
 * [SB 5807](sb/5807) - Housing authorities 17👍 1👎 0❓ - S Rules X
@@ -1657,8 +1657,8 @@
 * [HB 1636](hb/1636) - Foreclosure/common interest 1📰 17👍 0👎 0❓ - C 214 L 23
 * [HB 2141](hb/2141) - Promoting affordable housing in unincorporated areas within urban growth areas of large counties. 16👍 0👎 1❓ - H Finance
 * [HB 2277](hb/2277) - Data brokering 8👍 7👎 2❓ - H ConsPro&Bus
-* [HB 2295](hb/2295) - Hospital at-home services 1📰 16👍 0👎 1❓ - Del to Gov
-* [HB 2355](hb/2355) - MRI technologists 1📰 17👍 0👎 0❓ - Del to Gov
+* [HB 2295](hb/2295) - Hospital at-home services 2📰 16👍 0👎 1❓ - Del to Gov
+* [HB 2355](hb/2355) - MRI technologists 1📰 17👍 0👎 0❓ - C 94 L 24
 * [HB 2407](hb/2407) - Child welfare workers 1📰 14👍 0👎 3❓ - H Rules X
 * [SB 5031](sb/5031) - Special ed safety net awards 6📰 16👍 0👎 1❓ - S Ways & Means
 * [SB 5081](sb/5081) - Victim notification 15👍 2👎 0❓ - C 391 L 23
@@ -1697,7 +1697,7 @@
 * [SB 5485](sb/5485) - Public employees/child care 15👍 0👎 1❓ - S Ways & Means
 * [SB 5518](sb/5518) - Cybersecurity 3📰 15👍 0👎 1❓ - C 124 L 23
 * [SB 5907](sb/5907) - Providing for recreational licensing of eulachon, crawfish, and carp. 3👍 8👎 5❓ - S Ag/Water/Natura
-* [SB 6079](sb/6079) - Juv. detention/health recs. 14👍 2👎 0❓ - Del to Gov
+* [SB 6079](sb/6079) - Juv. detention/health recs. 1📰 14👍 2👎 0❓ - C 99 L 24
 * [SB 6308](sb/6308) - 988 system timeline 1📰 16👍 0👎 0❓ - Del to Gov
 * [SJM 8009](sjm/8009) - Harbor maintenance tax 16👍 0👎 0❓ - S Filed Sec/St
 * [HB 1004](hb/1004) - Bridge jumping signs 2📰 14👍 0👎 1❓ - C 54 L 23
@@ -1713,10 +1713,10 @@
 * [HB 1722](hb/1722) - Tow truck operator comp. 9👍 5👎 1❓ - H Transportation
 * [HB 1764](hb/1764) - Asphalt & agg. valuation 13👍 0👎 2❓ - C 307 L 23
 * [HB 1815](hb/1815) - Payment card processing/tax 13👍 0👎 2❓ - H Finance
-* [HB 1901](hb/1901) - Removing the sunset on changes to the unemployment insurance voluntary contribution program. 12👍 3👎 0❓ - Del to Gov
+* [HB 1901](hb/1901) - Removing the sunset on changes to the unemployment insurance voluntary contribution program. 12👍 3👎 0❓ - C 52 L 24
 * [HB 2026](hb/2026) - Rental income/property tax 11👍 4👎 0❓ - H Rules X
 * [HB 2138](hb/2138) - Outdoor learning/state parks 1📰 14👍 0👎 1❓ - H Approps
-* [HB 2216](hb/2216) - State employee degree reqs. 1📰 13👍 2👎 0❓ - Del to Gov
+* [HB 2216](hb/2216) - State employee degree reqs. 1📰 13👍 2👎 0❓ - C 70 L 24
 * [HB 2317](hb/2317) - Unlicensed bingo, etc. 15👍 0👎 0❓ - H Reg Subst & Ga
 * [HB 2353](hb/2353) - Residential targeted areas 13👍 2👎 0❓ - H Housing
 * [HB 2409](hb/2409) - Safe excavation practices 11👍 1👎 3❓ - H Rules X
@@ -1728,7 +1728,7 @@
 * [SB 5726](sb/5726) - Prevailing wage/public works 3📰 1👍 7👎 7❓ - S Rules X
 * [SB 5857](sb/5857) - Campaign disclosure reorg. 8👍 3👎 4❓ - Del to Gov
 * [SB 6182](sb/6182) - Obesity Rx coverage 11👍 4👎 0❓ - S Health & Long
-* [SB 6227](sb/6227) - Protection order/insanity 13👍 1👎 1❓ - Del to Gov
+* [SB 6227](sb/6227) - Protection order/insanity 13👍 1👎 1❓ - C 137 L 24
 * [HB 1005](hb/1005) - Military/employer tax incen. 13👍 0👎 1❓ - H Rules C
 * [HB 1159](hb/1159) - Interstate cannabis agrmts. 7👍 7👎 0❓ - H Rules X
 * [HB 1289](hb/1289) - Opportunity scholarship 14👍 0👎 0❓ - C 176 L 23
@@ -1742,7 +1742,7 @@
 * [HB 2310](hb/2310) - State park heritage center 1📰 9👍 3👎 2❓ - H Cap Budget
 * [HB 2363](hb/2363) - Alcohol/pop-up retail sales 10👍 1👎 3❓ - H Approps
 * [HB 2381](hb/2381) - School calendar waivers 9👍 1👎 4❓ - Del to Gov
-* [HB 2428](hb/2428) - Sales and use tax sharing 9👍 5👎 0❓ - Del to Gov
+* [HB 2428](hb/2428) - Sales and use tax sharing 1📰 9👍 5👎 0❓ - C 95 L 24
 * [HB 2482](hb/2482) - Semiconductor tax incentives 2📰 14👍 0👎 0❓ - Del to Gov
 * [SB 5099](sb/5099) - Estate tax/extraordinary rev 13👍 1👎 0❓ - S Ways & Means
 * [SB 5100](sb/5100) - Breast & chest wall surgery 11👍 0👎 3❓ - S Health & Long
@@ -1757,7 +1757,7 @@
 * [SB 5507](sb/5507) - Tenure-track faculty 14👍 0👎 0❓ - S Higher Ed & Wo
 * [SB 5691](sb/5691) - Resource & assess. centers 13👍 1👎 0❓ - S Rules X
 * [SB 5764](sb/5764) - Hospital safety net program 11👍 2👎 1❓ - S Rules X
-* [SB 5973](sb/5973) - Heat pumps/CICs 13👍 0👎 1❓ - Del to Gov
+* [SB 5973](sb/5973) - Heat pumps/CICs 13👍 0👎 1❓ - C 128 L 24
 * [SB 6263](sb/6263) - Firefighter death benefits 14👍 0👎 0❓ - Del to Gov
 * [HB 1043](hb/1043) - Records/comm. associations 1📰 7👍 5👎 1❓ - C 409 L 23
 * [HB 1219](hb/1219) - PTBA governing bodies 9👍 3👎 1❓ - H Transportation
@@ -1778,7 +1778,7 @@
 * [SB 5470](sb/5470) - Lactation consultants 4👍 3👎 6❓ - S Ways & Means
 * [SB 5621](sb/5621) - Finfish worker displacement 13👍 0👎 0❓ - S Rules X
 * [SB 5649](sb/5649) - Floodproofing improvements 12👍 0👎 1❓ - Del to Gov
-* [SB 5806](sb/5806) - Insurance company data 8👍 2👎 3❓ - Del to Gov
+* [SB 5806](sb/5806) - Insurance company data 8👍 2👎 3❓ - C 123 L 24
 * [SB 5845](sb/5845) - Military housing taxation 1👍 10👎 2❓ - S Ways & Means
 * [SB 6012](sb/6012) - Teacher preparation programs 1📰 13👍 0👎 0❓ - S Ways & Means
 * [SB 6081](sb/6081) - Consumer contracts 5👍 7👎 1❓ - S Law & Justice
@@ -1796,7 +1796,7 @@
 * [HB 1727](hb/1727) - Transaction fees 5👍 6👎 1❓ - H ConsPro&Bus
 * [HB 1779](hb/1779) - Toxic air pollution 5📰 11👍 1👎 0❓ - C 310 L 23
 * [HB 1838](hb/1838) - Transp. revenue forecast 2📰 12👍 0👎 0❓ - C 390 L 23
-* [HB 1947](hb/1947) - Technology governance 6👍 4👎 2❓ - Del to Gov
+* [HB 1947](hb/1947) - Technology governance 6👍 4👎 2❓ - C 54 L 24
 * [HB 2265](hb/2265) - Climbing facilities 9👍 3👎 0❓ - H Rules X
 * [SB 5086](sb/5086) - Tribal police training 11👍 0👎 1❓ - S Rules X
 * [SB 5166](sb/5166) - Cooperative finance org. B&O 1📰 12👍 0👎 0❓ - C 317 L 23
@@ -1806,10 +1806,10 @@
 * [SB 5516](sb/5516) - Clay targets/sales tax 9👍 3👎 0❓ - S Ways & Means
 * [SB 5663](sb/5663) - Abandoned vehicle auctions 9👍 2👎 1❓ - S Rules 2
 * [SB 5684](sb/5684) - Small works rosters 6👍 3👎 3❓ - S Rules X
-* [SB 5786](sb/5786) - Business corporations 11👍 1👎 0❓ - Del to Gov
+* [SB 5786](sb/5786) - Business corporations 11👍 1👎 0❓ - C 22 L 24
 * [SB 5847](sb/5847) - Enhancing prorate and fuel tax collections by improving taxpayer compliance, providing additional enforcement mechanisms, and protecting confidential taxpayer information. 4👍 7👎 1❓ - S Rules X
 * [SB 5881](sb/5881) - Concerning membership in the public employees' retirement system for certain part-time bus drivers employed full-time by the federal government. 12👍 0👎 0❓ - Del to Gov
-* [SB 5913](sb/5913) - Concerning communication between employees of state institutions of higher education and student athletes regarding name, image, and likeness use. 11👍 0👎 1❓ - Del to Gov
+* [SB 5913](sb/5913) - Concerning communication between employees of state institutions of higher education and student athletes regarding name, image, and likeness use. 11👍 0👎 1❓ - C 33 L 24
 * [SB 5944](sb/5944) - Prosecutorial filing 11👍 0👎 1❓ - S Law & Justice
 * [SB 6042](sb/6042) - Juvenile detention release 1📰 5👍 0👎 7❓ - S Human Services
 * [SB 6089](sb/6089) - Electrical inspector reqs. 12👍 0👎 0❓ - Del to Gov
@@ -1827,7 +1827,7 @@
 * [HB 1370](hb/1370) - Securities whistleblowers 10👍 1👎 0❓ - C 149 L 23
 * [HB 1588](hb/1588) - Ambulance personnel 10👍 1👎 0❓ - H HC/Wellness
 * [HB 1661](hb/1661) - Mobile crisis intervention 8👍 1👎 2❓ - H Approps
-* [HB 1996](hb/1996) - RV manufacturers and dealers 10👍 0👎 1❓ - Del to Gov
+* [HB 1996](hb/1996) - RV manufacturers and dealers 10👍 0👎 1❓ - C 87 L 24
 * [HB 2339](hb/2339) - Cert. renewal/nursing assist 1📰 9👍 0👎 2❓ - H Rules X
 * [HB 2408](hb/2408) - Crisis response comm methods 11👍 0👎 0❓ - H Rules 3C
 * [HB 2430](hb/2430) - Business licensing fees 11👍 0👎 0❓ - H Rules X
@@ -1835,15 +1835,15 @@
 * [SB 5285](sb/5285) - Caseload forecast/tax credit 11👍 0👎 0❓ - S Rules X
 * [SB 5370](sb/5370) - Adult protective services 10👍 0👎 1❓ - C 44 L 23
 * [SB 5405](sb/5405) - LCB subpoena authority 1📰 4👍 7👎 0❓ - S Rules X
-* [SB 5589](sb/5589) - Probate 11👍 0👎 0❓ - Del to Gov
+* [SB 5589](sb/5589) - Probate 11👍 0👎 0❓ - C 20 L 24
 * [SB 5640](sb/5640) - Independent living residents 11👍 0👎 0❓ - S Rules 3
 * [SB 5798](sb/5798) - Insurance notices 7👍 0👎 4❓ - Del to Gov
-* [SB 5840](sb/5840) - Leases 1📰 10👍 1👎 0❓ - Del to Gov
-* [SB 5885](sb/5885) - Certificates of annexation 10👍 1👎 0❓ - Del to Gov
+* [SB 5840](sb/5840) - Leases 1📰 10👍 1👎 0❓ - C 27 L 24
+* [SB 5885](sb/5885) - Certificates of annexation 10👍 1👎 0❓ - C 30 L 24
 * [SB 5898](sb/5898) - Clarifying employment standards for long-term care individual providers. 10👍 1👎 0❓ - S Labor & Comm
 * [SB 5938](sb/5938) - Modifying the community parenting alternative for eligible participants in the residential parenting program at the department of corrections. 10👍 1👎 0❓ - Del to Gov
 * [SB 6150](sb/6150) - Comprehensive plan revisions 10👍 0👎 1❓ - S Rules 3
-* [SB 6222](sb/6222) - District court judges 9👍 0👎 2❓ - Del to Gov
+* [SB 6222](sb/6222) - District court judges 9👍 0👎 2❓ - C 103 L 24
 * [SB 6280](sb/6280) - Veteran parking privileges 11👍 0👎 0❓ - S Transportation
 * [HB 1014](hb/1014) - Fire protection projects 1📰 10👍 0👎 0❓ - H Cap Budget
 * [HB 1221](hb/1221) - Lottery players/PRA 1📰 10👍 0👎 0❓ - C 346 L 23
@@ -1858,11 +1858,11 @@
 * [HB 1711](hb/1711) - Internet projects/tribes 9👍 0👎 1❓ - C 355 L 23
 * [HB 1759](hb/1759) - Chinese American month 2📰 3👍 7👎 0❓ - H State Govt & T
 * [HB 1776](hb/1776) - Applied behavior analysis 5👍 4👎 1❓ - H HC/Wellness
-* [HB 1867](hb/1867) - Eliminating the estate tax filing requirement for certain estates involving a qualifying familial residence. 8👍 1👎 1❓ - Del to Gov
+* [HB 1867](hb/1867) - Eliminating the estate tax filing requirement for certain estates involving a qualifying familial residence. 8👍 1👎 1❓ - C 82 L 24
 * [HB 1931](hb/1931) - Addressing financial aid grants for incarcerated students. 1📰 10👍 0👎 0❓ - H Postsec Ed & Wk
 * [HB 1986](hb/1986) - Adding purposes for the use of existing firefighter safety funding. 10👍 0👎 0❓ - H Rules 3C
 * [HB 2155](hb/2155) - Credential registry 6👍 2👎 2❓ - H Approps
-* [HB 2204](hb/2204) - Emergency liquor permits 3📰 7👍 3👎 0❓ - Del to Gov
+* [HB 2204](hb/2204) - Emergency liquor permits 4📰 7👍 3👎 0❓ - C 91 L 24
 * [HB 2267](hb/2267) - Commencement/cultural exp. 10👍 0👎 0❓ - H Rules X
 * [HB 2296](hb/2296) - Comprehensive plan revisions 9👍 0👎 1❓ - C 17 L 24
 * [HB 2335](hb/2335) - State-tribal edu. compacts 10👍 0👎 0❓ - Del to Gov
@@ -1873,11 +1873,11 @@
 * [SB 5497](sb/5497) - Medicaid expenditures 9👍 0👎 1❓ - C 439 L 23
 * [SB 5503](sb/5503) - Nursing ed./clinical hours 1📰 10👍 0👎 0❓ - S Rules X
 * [SB 5897](sb/5897) - Modifying provisions of the business licensing service program. 10👍 0👎 0❓ - Del to Gov
-* [SB 5919](sb/5919) - Biogenic carbon dioxide 8👍 2👎 0❓ - Del to Gov
+* [SB 5919](sb/5919) - Biogenic carbon dioxide 1📰 8👍 2👎 0❓ - Del to Gov
 * [SB 5989](sb/5989) - Confirming property ownership or owner authorization for short-term rentals. 9👍 0👎 1❓ - S Rules X
 * [SB 6055](sb/6055) - Natural resource indus. dev. 7👍 2👎 1❓ - S Loc Gov, Land U
 * [SB 6094](sb/6094) - Retired health subsidy/PEBB 6👍 0👎 4❓ - Del to Gov
-* [SB 6108](sb/6108) - Construction retainage 9👍 1👎 0❓ - Del to Gov
+* [SB 6108](sb/6108) - Construction retainage 9👍 1👎 0❓ - C 101 L 24
 * [SB 6164](sb/6164) - County emergency management 2👍 1👎 7❓ - Del to Gov
 * [SB 6190](sb/6190) - Fund-raising activities 9👍 0👎 1❓ - S Business, Fin
 * [SB 6232](sb/6232) - Public records portal pilot 8👍 0👎 2❓ - S Ways & Means
@@ -1900,11 +1900,11 @@
 * [HB 1712](hb/1712) - Finfish worker displacement 1📰 9👍 0👎 0❓ - C 156 L 23
 * [HB 1811](hb/1811) - Insurance/credit exceptions 5👍 2👎 2❓ - H Rules X
 * [HB 2063](hb/2063) - Providing an exemption from the real estate excise tax for transfers of property to qualifying low-income first-time homebuyers. 6👍 2👎 1❓ - H Finance
-* [HB 2069](hb/2069) - Biogenic carbon dioxide 1📰 5👍 2👎 2❓ - H Rules 3C
+* [HB 2069](hb/2069) - Biogenic carbon dioxide 2📰 5👍 2👎 2❓ - H Rules 3C
 * [HB 2092](hb/2092) - Concerning school construction assistance program funding for preschool and before-and-after school care program enrollments. 2📰 4👍 5👎 0❓ - H Cap Budget
 * [HB 2109](hb/2109) - Permanent cosmetics 2📰 8👍 0👎 1❓ - H Rules X
 * [HB 2312](hb/2312) - Tribal interlocal agreements 7👍 1👎 1❓ - H Ag&Nr
-* [HB 2318](hb/2318) - State route number 501 9👍 0👎 0❓ - Del to Gov
+* [HB 2318](hb/2318) - State route number 501 9👍 0👎 0❓ - C 73 L 24
 * [HB 2357](hb/2357) - State patrol longevity bonus 6📰 8👍 1👎 0❓ - Del to Gov
 * [HB 2392](hb/2392) - Kimchi day 6👍 3👎 0❓ - H Rules X
 * [SB 5005](sb/5005) - Real property 9👍 0👎 0❓ - C 6 L 23
@@ -1944,7 +1944,7 @@
 * [SB 5735](sb/5735) - Impounded vehicles/military 7👍 0👎 1❓ - S Transportation
 * [SB 5869](sb/5869) - Rural fire district stations 7👍 0👎 1❓ - Del to Gov
 * [SB 5911](sb/5911) - Cancer research funding 7👍 1👎 0❓ - S Rules X
-* [SB 5925](sb/5925) - Fire commissioner comp. 8👍 0👎 0❓ - Del to Gov
+* [SB 5925](sb/5925) - Fire commissioner comp. 8👍 0👎 0❓ - C 35 L 24
 * [SB 6034](sb/6034) - Document fees/excise tax 8👍 0👎 0❓ - S Business, Fin S
 * [HB 1060](hb/1060) - Mutual insurer reorg. 1📰 7👍 0👎 0❓ - C 20 L 23
 * [HB 1101](hb/1101) - Tenant screening/communities 1📰 5👍 2👎 0❓ - C 23 L 23
@@ -1961,7 +1961,7 @@
 * [HB 1925](hb/1925) - Veterans service officers 6👍 0👎 1❓ - H Approps
 * [HB 1953](hb/1953) - Dept. of licensing documents 7👍 0👎 0❓ - H Rules X
 * [HB 1992](hb/1992) - Superior court/Whatcom 2📰 7👍 0👎 0❓ - Del to Gov
-* [HB 2034](hb/2034) - Requiring counties and cities to provide the administrative office of the courts with notice of court reorganizations. 6👍 1👎 0❓ - Del to Gov
+* [HB 2034](hb/2034) - Requiring counties and cities to provide the administrative office of the courts with notice of court reorganizations. 6👍 1👎 0❓ - C 61 L 24
 * [HB 2139](hb/2139) - Concerning the rental of self-service storage facilities. 4👍 0👎 3❓ - H ConsPro&Bus
 * [HB 2173](hb/2173) - Natural gas utilities/OPMA 3👍 4👎 0❓ - H Rules X
 * [HB 2275](hb/2275) - Senior independent housing 7👍 0👎 0❓ - H Approps
@@ -1973,14 +1973,14 @@
 * [SB 5751](sb/5751) - Nonhighway vehicles 4👍 1👎 2❓ - S Rules X
 * [SB 5787](sb/5787) - Electronic estate planning 6👍 1👎 0❓ - Del to Gov
 * [SB 5797](sb/5797) - Concerning fines levied upon authorized insurers. 2👍 5👎 0❓ - S Business, Fin S
-* [SB 5801](sb/5801) - Special deposits 6👍 1👎 0❓ - Del to Gov
+* [SB 5801](sb/5801) - Special deposits 6👍 1👎 0❓ - C 23 L 24
 * [SB 5841](sb/5841) - DUI/financial support 3📰 6👍 0👎 1❓ - S Rules 3
 * [SB 5844](sb/5844) - Dilapidated RV disposal 3👍 0👎 4❓ - S Environment, En
-* [SB 5886](sb/5886) - Firefighter safety funding 7👍 0👎 0❓ - Del to Gov
+* [SB 5886](sb/5886) - Firefighter safety funding 7👍 0👎 0❓ - C 31 L 24
 * [SB 5887](sb/5887) - Public accountancy act 5👍 2👎 0❓ - S Rules 3
-* [SB 5970](sb/5970) - Local boards of health 6👍 1👎 0❓ - Del to Gov
-* [SB 6084](sb/6084) - Collector vehicles/trailers 7👍 0👎 0❓ - Del to Gov
-* [SB 6088](sb/6088) - Baseball players/employment 5👍 0👎 2❓ - Del to Gov
+* [SB 5970](sb/5970) - Local boards of health 6👍 1👎 0❓ - C 37 L 24
+* [SB 6084](sb/6084) - Collector vehicles/trailers 7👍 0👎 0❓ - C 131 L 24
+* [SB 6088](sb/6088) - Baseball players/employment 5👍 0👎 2❓ - C 132 L 24
 * [HB 1327](hb/1327) - Dental school faculty 6👍 0👎 0❓ - H Rules X
 * [HB 1624](hb/1624) - ESD election administration 1📰 5👍 1👎 0❓ - C 83 L 23
 * [HB 1637](hb/1637) - Unclaimed property fees 1📰 6👍 0👎 0❓ - H Rules 3C
@@ -1992,7 +1992,7 @@
 * [HB 2043](hb/2043) - Theater licenses/alcohol 1📰 1👍 2👎 3❓ - H Approps
 * [HB 2062](hb/2062) - Concerning exemption of certain personnel of the department of social and health services from civil service. 4👍 2👎 0❓ - H Rules 3C
 * [HB 2106](hb/2106) - Library district annexation 2👍 0👎 4❓ - H Local Govt
-* [HB 2260](hb/2260) - Alcohol sale to minors/civil 3📰 5👍 1👎 0❓ - Del to Gov
+* [HB 2260](hb/2260) - Alcohol sale to minors/civil 4📰 5👍 1👎 0❓ - C 71 L 24
 * [HB 2273](hb/2273) - Functional recovery building 4👍 0👎 2❓ - H Rules X
 * [HB 2373](hb/2373) - Adopt-a-highway program 0👍 5👎 1❓ - H Rules X
 * [SB 5155](sb/5155) - Court of appeals 6👍 0👎 0❓ - C 184 L 23
@@ -2004,8 +2004,8 @@
 * [SB 5565](sb/5565) - Tax and revenue laws 6👍 0👎 0❓ - C 374 L 23
 * [SB 5714](sb/5714) - Property tax payments 1📰 5👍 0👎 1❓ - C 376 L 23
 * [SB 5732](sb/5732) - Property tax exemptions 6👍 0👎 0❓ - S Rules X
-* [SB 5805](sb/5805) - Developing a schedule for court appointment of attorneys for children and youth in dependency and termination proceedings. 2👍 0👎 4❓ - Del to Gov
-* [SB 5842](sb/5842) - Restricting the use of social security numbers by insurance companies for the purpose of determining child support debt. 1📰 5👍 1👎 0❓ - Del to Gov
+* [SB 5805](sb/5805) - Developing a schedule for court appointment of attorneys for children and youth in dependency and termination proceedings. 2👍 0👎 4❓ - C 25 L 24
+* [SB 5842](sb/5842) - Restricting the use of social security numbers by insurance companies for the purpose of determining child support debt. 1📰 5👍 1👎 0❓ - C 126 L 24
 * [SB 6215](sb/6215) - Tax and revenue laws 1📰 5👍 1👎 0❓ - Del to Gov
 * [HB 1061](hb/1061) - Insurance producer education 4👍 1👎 0❓ - C 21 L 23
 * [HB 1066](hb/1066) - Technical corrections 5👍 0👎 0❓ - C 470 L 23
@@ -2024,7 +2024,7 @@
 * [HB 1803](hb/1803) - Specialty shop endorsement 5👍 0👎 0❓ - H Reg Subst & Gam
 * [HB 1863](hb/1863) - Concerning payment for surveys of state-owned aquatic lands by current or prospective lessees of such lands. 4👍 0👎 1❓ - H Ag&Nr
 * [HB 1869](hb/1869) - Enacting the keeping our Washington guard strong act. 3📰 5👍 0👎 0❓ - H Approps
-* [HB 1876](hb/1876) - Concerning confidential fisheries information collected by other states and maintaining that confidentiality under the public records act. 4👍 1👎 0❓ - Del to Gov
+* [HB 1876](hb/1876) - Concerning confidential fisheries information collected by other states and maintaining that confidentiality under the public records act. 4👍 1👎 0❓ - C 48 L 24
 * [HB 1928](hb/1928) - Service contracts 5👍 0👎 0❓ - H Rules X
 * [HB 1964](hb/1964) - Prorate & fuel tax collect. 6📰 4👍 1👎 0❓ - C 1 L 24
 * [HB 2005](hb/2005) - Weighted grade point average 1📰 5👍 0👎 0❓ - H Education
@@ -2064,7 +2064,7 @@
 * [HB 2060](hb/2060) - Creating an establishment private club license. 1📰 2👍 2👎 0❓ - H Reg Subst & Gam
 * [HB 2163](hb/2163) - Liquor licensee advertising 4👍 0👎 0❓ - H Rules X
 * [HB 2316](hb/2316) - PERS/certain bus drivers 4👍 0👎 0❓ - H Rules 3C
-* [HB 2433](hb/2433) - Southwest WA fair admin. 4👍 0👎 0❓ - Del to Gov
+* [HB 2433](hb/2433) - Southwest WA fair admin. 4👍 0👎 0❓ - C 75 L 24
 * [HB 2445](hb/2445) - Leasing/state parks comm. 4👍 0👎 0❓ - H Rules X
 * [HB 2491](hb/2491) - Lease of unused highway land 4👍 0👎 0❓ - H Rules X
 * [SB 5176](sb/5176) - Employee-owned coop UI 3👍 0👎 1❓ - C 92 L 23
@@ -2080,7 +2080,7 @@
 * [SB 5763](sb/5763) - Connecting WA bonds 1📰 4👍 0👎 0❓ - S Transportation
 * [SB 5831](sb/5831) - Vintage snowmobiles 4👍 0👎 0❓ - S Transportation
 * [SB 5888](sb/5888) - Health care/confinement 1📰 4👍 0👎 0❓ - S Ways & Means
-* [SB 6234](sb/6234) - Newborn screening for BCKDK 2👍 2👎 0❓ - Del to Gov
+* [SB 6234](sb/6234) - Newborn screening for BCKDK 2👍 2👎 0❓ - C 105 L 24
 * [SB 6262](sb/6262) - State park heritage center 4👍 0👎 0❓ - S State Govt & El
 * [HB 1031](hb/1031) - Medal of valor award 1📰 2👍 0👎 1❓ - C 131 L 23
 * [HB 1103](hb/1103) - Capital vessel rep. account 3👍 0👎 0❓ - C 2 L 23
@@ -2172,7 +2172,7 @@
 * [SB 6314](sb/6314) - Social studies instruction - S EL/K-12
 * [SB 6313](sb/6313) - Sounders FC license plate - S Transportation
 * [HB 2493](hb/2493) - Ready-to-serve alcoholic bev - H Reg Subst & Gam
-* [HB 2489](hb/2489) - New special license plates 2📰 - H Rules 3C
+* [HB 2489](hb/2489) - New special license plates 3📰 - H Rules 3C
 * [HB 2488](hb/2488) - Gub. proclamations/religion - H State Govt & T
 * [SB 6311](sb/6311) - Pension returns/transp. - S Ways & Means
 * [SB 6312](sb/6312) - Federal candidate removal - S State Govt & El
@@ -2272,7 +2272,7 @@
 * [HB 2328](hb/2328) - Small fire districts/leave - H Labor & Workpl
 * [HB 2326](hb/2326) - High school/AP, IB, CIE exam - H Approps
 * [HB 2327](hb/2327) - Digital equity/revenue - H Finance
-* [HB 2324](hb/2324) - Narcotics enforcement 1📰 - H Community Safe
+* [HB 2324](hb/2324) - Narcotics enforcement 2📰 - H Community Safe
 * [SB 6214](sb/6214) - Animal cruelty/seriousness 1📰 - S Law & Justice
 * [SB 6188](sb/6188) - Aerial firefighting/permits 1📰 - S Environment, En
 * [SB 6184](sb/6184) - Deepfake AI material/minors - S Law & Justice
@@ -2384,7 +2384,7 @@
 * [HB 2174](hb/2174) - Funded special education 1📰 - H Education
 * [HB 2168](hb/2168) - Industrial insurance/duties - H Labor & Workpla
 * [HB 2167](hb/2167) - LEOFF 2 rehiring - H Approps
-* [HB 2165](hb/2165) - Recreational use fees - Del to Gov
+* [HB 2165](hb/2165) - Recreational use fees - C 18 L 24
 * [HB 2162](hb/2162) - LTSS exemption/military 1📰 - H HC/Wellness
 * [HB 2161](hb/2161) - Landlord-tenant enforcement - H Housing
 * [HB 2159](hb/2159) - Journey level electricians - H Labor & Workpla
@@ -2400,7 +2400,7 @@
 * [HB 2146](hb/2146) - Supporting students who are chronically absent and at risk for not graduating high school. - H Education
 * [HB 2143](hb/2143) - Providing information related to the human rights records of nations that export crude oil to Washington. - H Env & Energy
 * [HB 2142](hb/2142) - Reading coaches grants 1📰 - H Education
-* [HB 2137](hb/2137) - Concerning technical changes to allowable exemptions for tourism promotion area assessments. - Del to Gov
+* [HB 2137](hb/2137) - Concerning technical changes to allowable exemptions for tourism promotion area assessments. - C 68 L 24
 * [HB 2123](hb/2123) - Running start for the trades - H Education
 * [HB 2121](hb/2121) - Special education hearings - H Education
 * [HB 2096](hb/2096) - Ensuring adequate notice to and consideration of local communities when establishing housing options for individuals qualifying for a less restrictive alternative placement. - H Community Safet
@@ -2439,7 +2439,7 @@
 * [SB 5877](sb/5877) - Providing information about the costs of the climate commitment act to electricity and natural gas customers. - S Environment, En
 * [SB 5874](sb/5874) - Concerning the removal of unauthorized persons. - S Law & Justice
 * [SB 5875](sb/5875) - Balancing energy efficiency with consideration of other factors such as housing affordability, development costs, and feasibility in the state energy code for residential structures. - S Environment, En
-* [HB 1984](hb/1984) - State clam 1📰 - H State Govt & Tr
+* [HB 1984](hb/1984) - State clam 2📰 - H State Govt & Tr
 * [HB 1977](hb/1977) - State rock - H State Govt & Tr
 * [HB 1973](hb/1973) - Special education safety net - H Education
 * [SB 5868](sb/5868) - Providing information on reporting domestic violence and other unlawful conduct in family court proceedings. 1📰 - S Law & Justice
@@ -2651,7 +2651,7 @@
 * [SB 5511](sb/5511) - K-12 education funding 1📰 - S EL/K-12
 * [SB 5510](sb/5510) - Vehicle inspection backlog - S Transportation
 * [HB 1523](hb/1523) - Agricultural overtime - H Labor & Workpl
-* [HB 1520](hb/1520) - Fentanyl - H Community Safe
+* [HB 1520](hb/1520) - Fentanyl 1📰 - H Community Safe
 * [HB 1502](hb/1502) - PFML job protection study - H Labor & Workpl
 * [HB 1496](hb/1496) - Naselle Youth Camp property - H State Govt & T
 * [HB 1495](hb/1495) - ARNP, PA, & MD reimbursement - H HC/Wellness

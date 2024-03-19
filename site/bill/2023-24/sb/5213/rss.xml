@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5213/</link>
 		<description>Updates about SB 5213</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 08 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 12 Mar 2024 10:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -710,6 +710,13 @@
 			<pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-08/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Key health takeaways from WA’s 2024 legislative session | The Seattle Times</title>
+			<description>News article &quot;Key health takeaways from WA’s 2024 legislative session | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Tue, 12 Mar 2024 10:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/health/key-health-take-aways-from-was-2024-legislative-session/#:~:text=Senate%20Bill%205213</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/11/2024 [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers ease burden for parents challenging school special ed | The Seattle Times](https://www.seattletimes.com/education-lab/wa-lawmakers-ease-burden-for-parents-challenging-school-special-ed/#:~:text=Senate%20Bill%205883)
+
 ## Meetings
 ### Wed 02/14 10:30 AM - Education (ED): SB 5883 Special education hearings
 #### 55 👍 - Pro

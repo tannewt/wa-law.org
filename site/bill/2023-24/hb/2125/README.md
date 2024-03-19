@@ -14,7 +14,7 @@ Testifying:
 * Jaqui Cain - AFT WA
 * 💵Karen Strickland - President, AFT WA
 * Tracey Higgins - AFT WA
-* Sue Nightingale - President, Washington Education Association Higher Ed
+* 💵Sue Nightingale - President, Washington Education Association Higher Ed
 
 #### 0 👎 - Con
 

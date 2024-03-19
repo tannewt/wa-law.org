@@ -891,7 +891,7 @@
 ## [SB 5719](/bill/2023-24/sb/5719/) - Student homelessness group 👍1  
 
 ## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages  👎2 
-* 👎 Sue Nightingale
+* 👎💵 Sue Nightingale
 
 ## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
 

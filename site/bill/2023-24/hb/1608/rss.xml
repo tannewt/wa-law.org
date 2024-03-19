@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1608/</link>
 		<description>Updates about HB 1608</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 04 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 14 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -160,6 +160,20 @@
 			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-04/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-14/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signs Bronoske expanding access to anaphylaxis medication in schools.  – Washington State House Democrats</title>
+			<description>News article &quot;Governor signs Bronoske expanding access to anaphylaxis medication in schools.  – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/03/14/governor-signs-bronoske-expanding-access-to-anaphylaxis-meds-in-schools/#:~:text=House%20Bill%201608</guid>
 		</item>
 	</channel>
 </rss>

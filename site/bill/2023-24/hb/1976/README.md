@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/14/2024 [House Democrats](/org/house_democrats/) - [Gov. Signs Fosse Bill to Boost Building Decarbonization – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/14/gov-signs-fosse-bill-to-boost-building-decarbonization/#:~:text=House%20Bill%201976)
 * 02/07/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Fosse Bill Expands Incentives for Decarbonization in Large Buildings – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/07/legislative-news-fosse-bill-expands-incentives-for-decarbonization-in-large-buildings/#:~:text=House%20Bill%201976)
 
 ## Meetings

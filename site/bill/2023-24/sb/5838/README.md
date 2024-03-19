@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=Senate%20Bill%205838)
 * 03/05/2024 [KIRO7](/org/kiro7/) - [Bill to create AI task force passes Washington state legislature – KIRO 7 News Seattle](https://www.kiro7.com/news/local/bill-create-ai-task-force-passes-legislature/BKUWXXGMGJHAXDDLADR5CHOI6I/#:~:text=Senate%20Bill%205838)
 * 03/01/2024 [Crosscut](/org/crosscut/) - [AI task force will advise the WA Legislature on the emerging tech | Crosscut](https://crosscut.com/briefs/2024/03/ai-task-force-will-advise-wa-legislature-emerging-tech#:~:text=Senate%20Bill%205838)
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=Senate%20Bill%205838)

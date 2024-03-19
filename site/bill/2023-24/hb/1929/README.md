@@ -10,6 +10,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%201929)
 * 03/01/2024 [Crosscut](/org/crosscut/) - [Most WA youth exiting mental health treatment face homelessness | Crosscut](https://crosscut.com/politics/2024/03/most-wa-youth-exiting-mental-health-treatment-face-homelessness#:~:text=House%20Bill%201929)
 * 02/10/2024 [House Democrats](/org/house_democrats/) - [Cortes Bill Offers Hope & Stability for Young Adults – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/10/cortes-bill-offers-hope-stability-for-young-adults/#:~:text=House%20Bill%201929)
 * 01/31/2024 [The Seattle Times](/org/the_seattle_times/) - [After young people leave treatment, let’s give them a safe place to go | The Seattle Times](https://www.seattletimes.com/opinion/after-young-people-leave-treatment-lets-give-them-a-safe-place-to-go/#:~:text=Substitute%20House%20Bill%201929)

@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/14/2024 [Crosscut](/org/crosscut/) - [Legislature decides WA schools should include LGBTQ+ history | Crosscut](https://crosscut.com/politics/2024/03/legislature-decides-wa-schools-should-include-lgbtq-history#:~:text=Senate%20Bill%205462)
+* 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=Senate%20Bill%205462)
 * 03/08/2024 [FOX13](/org/fox13/) - [Washington's new laws in 2024: Everything you need to know](https://www.fox13seattle.com/news/washingtons-new-laws-in-2024-everything-you-need-to-know#:~:text=SB%205462)
 * 02/28/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Whatcom school boards oppose curriculum bills, argue state is undermining local control | Cascadia Daily News](https://www.cascadiadaily.com/2024/feb/28/whatcom-school-boards-oppose-curriculum-bills-argue-state-is-undermining-local-control/#:~:text=Senate%20Bill%205462)
 * 02/09/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 12 - 16, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205462)

@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/14/2024 [House Democrats](/org/house_democrats/) - [Governor signs Bronoske expanding access to anaphylaxis medication in schools.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/14/governor-signs-bronoske-expanding-access-to-anaphylaxis-meds-in-schools/#:~:text=House%20Bill%201608)
 * 01/19/2024 [House Democrats](/org/house_democrats/) - [Bronoske bill to expand access to anaphylaxis meds in schools passed out of committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/19/bronoske-bill-to-expand-access-to-anaphylaxis-meds-in-schools-passed-out-of-committee/#:~:text=House%20Bill%201608)
 * 01/26/2023 [House Democrats](/org/house_democrats/) - [Bronoske introduces bill to make epinephrine more accessible for schools – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/26/bronoske-introduces-bill-to-make-epinephrine-more-accessible-for-schools/#:~:text=HB%201608)
 

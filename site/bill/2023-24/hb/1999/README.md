@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/15/2024 [Gorge News Center](/org/gorge_news_center/) - [Protections Against Fabricated Intimate Images Signed into Law](https://gorgenewscenter.com/2024/03/15/protections-against-fabricated-intimate-images-signed-into-law/#:~:text=House%20Bill%201999)
+* 03/14/2024 [House Democrats](/org/house_democrats/) - [Protections Against Fabricated Intimate Images Signed into Law – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/14/protections-against-fabricated-intimate-images-signed-into-law/#:~:text=House%20Bill%201999)
+* 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%201999)
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201999)
 * 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201999)
 * 02/15/2024 [Crosscut](/org/crosscut/) - [WA Legislature keeps most of its priority bills alive — so far | Crosscut](https://crosscut.com/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=House%20Bill%201999)

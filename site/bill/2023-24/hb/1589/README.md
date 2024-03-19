@@ -10,6 +10,10 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/14/2024 [House Republicans](/org/house_republicans/) - [Big wins, a few losses in the 2024 legislative session | Washington State House Republicans](http://houserepublicans.wa.gov/current/big-wins-a-few-losses-in-the-2024-legislative-session/#:~:text=House%20Bill%201589)
+* 03/14/2024 [The Center Square](/org/the_center_square/) - [Concerns remain about passage of a bill that paves way for natural gas ban in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7a7efa4c-e22e-11ee-ae9b-8b363f1db8d6.html#:~:text=Engrossed%20Substitute%20House%20Bill%201589)
+* 03/12/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Mary Dye warns Democratic legislation will raise utility costs](https://gorgenewscenter.com/2024/03/12/rep-mary-dye-warns-democratic-legislation-will-raise-utility-costs/#:~:text=House%20Bill%201589)
+* 03/11/2024 [The Seattle Times](/org/the_seattle_times/) - [What happened with WA lawmakers’ climate agenda | The Seattle Times](https://www.seattletimes.com/seattle-news/climate-lab/what-happened-with-wa-lawmakers-climate-agenda/#:~:text=House%20Bill%201589)
 * 03/08/2024 [Crosscut](/org/crosscut/) - [WA Legislature revs up plan to electrify 10,000 school buses | Crosscut](https://crosscut.com/politics/2024/03/wa-legislature-revs-plan-electrify-10000-school-buses#:~:text=House%20Bill%201589)
 * 03/07/2024 [FOX13](/org/fox13/) - [GOP: Inslee threatened to torpedo legislation if Dems didn't pass controversial gas bill](https://www.fox13seattle.com/news/gop-inslee-threatened-to-torpedo-legislation-if-dems-didnt-pass-controversial-gas-bill#:~:text=House%20Bill%201589)
 * 03/07/2024 [MyNorthwest](/org/mynorthwest/) - [Controversial 'Clean Energy Bill' could face constitutional challenge - MyNorthwest.com](https://mynorthwest.com/3953865/controversial-clean-energy-bill-drops-ban-on-natural-gas-may-face-challenge/#:~:text=House%20Bill%20(HB)%201589)

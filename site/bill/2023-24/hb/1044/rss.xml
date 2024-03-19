@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1044/</link>
 		<description>Updates about HB 1044</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 11 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -432,6 +432,13 @@
 			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-28/Third reading, passed; yeas, 46; nays, 2; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Returned to House Rules 3.</title>
+			<description>Returned to House Rules 3.</description>
+			<pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-11/Returned to House Rules 3.</guid>
 		</item>
 	</channel>
 </rss>

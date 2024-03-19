@@ -29,6 +29,6 @@ Testifying:
 
 #### 4 👎 - Con
 Testifying:
-* Sue Nightingale - [Washington Education Association](/org/washington_education_association/)
+* 💵Sue Nightingale - [Washington Education Association](/org/washington_education_association/)
 
 #### 0 ❓ - Other

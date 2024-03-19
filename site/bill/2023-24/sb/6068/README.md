@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/12/2024 [Gorge News Center](/org/gorge_news_center/) - [5 Boehnke bills pass legislature](https://gorgenewscenter.com/2024/03/12/5-boehnke-bills-pass-legislature/#:~:text=SB%206068)
 * 02/17/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 19 - 23, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=SB%206068)
 
 ## Meetings

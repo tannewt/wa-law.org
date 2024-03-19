@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 03/14/2024 [The Urbanist](/org/the_urbanist/) - [Port Townsend Just Quietly Ditched Its Off-Street Parking Mandates - The Urbanist](https://www.theurbanist.org/2024/03/14/port-townsend-just-quietly-ditched-its-off-street-parking-mandates/#:~:text=House%20Bill%201110)
 * 03/05/2024 [The Seattle Times](/org/the_seattle_times/) - [Mayor Harrell proposes housing density in every Seattle neighborhood | The Seattle Times](https://www.seattletimes.com/seattle-news/mayor-harrell-proposes-housing-density-in-every-seattle-neighborhood/#:~:text=House%20Bill%201110)
 * 02/16/2024 [The Urbanist](/org/the_urbanist/) - [Tacoma’s Grand Rezoning Plan Comes into View - The Urbanist](https://www.theurbanist.org/2024/02/16/tacomas-grand-rezoning-plan-comes-into-view/#:~:text=House%20Bill%201110)
 * 02/13/2024 [PubliCola](/org/publicola/) - [Seattle's MHA Program Should Come with a Tax Break, Not a Fee - PubliCola](https://publicola.com/2024/02/13/seattles-mha-program-should-come-with-a-tax-break-not-a-fee/#:~:text=HB%201110)

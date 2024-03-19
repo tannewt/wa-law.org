@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/14/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. April Connors’ bill to help build affordable housing on public lands signed into law](https://gorgenewscenter.com/2024/03/14/rep-april-connors-bill-to-help-build-affordable-housing-on-public-lands-signed-into-law/#:~:text=House%20Bill%201070)
 * 01/26/2023 [Gorge News Center](/org/gorge_news_center/) - [Freshman Rep. April Connors passes first bill early in 2023 session](https://gorgenewscenter.com/2023/01/26/freshman-rep-april-connors-passes-first-bill-early-in-2023-session/#:~:text=House%20Bill%201070)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1070)
 

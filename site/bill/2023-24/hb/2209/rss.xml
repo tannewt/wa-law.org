@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2209/</link>
 		<description>Updates about HB 2209</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 04 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 13 Mar 2024 16:32:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -303,6 +303,27 @@
 			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-04/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-13/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Gov. Signs Bill to Recognize Lunar New Year – Washington State House Democrats</title>
+			<description>News article &quot;Gov. Signs Bill to Recognize Lunar New Year – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/03/13/gov-signs-bill-to-recognize-lunar-new-year/#:~:text=House%20Bill%202209</guid>
+		</item>
+		<item>
+			<title>Inslee updates hate crime law, expands powers of physician assistants, boosts money paid to those leaving prison, recognizes Lunar New Year | The Spokesman-Review</title>
+			<description>News article &quot;Inslee updates hate crime law, expands powers of physician assistants, boosts money paid to those leaving prison, recognizes Lunar New Year | The Spokesman-Review&quot; from The Spokesman-Review.</description>
+			<pubDate>Wed, 13 Mar 2024 16:32:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.spokesman.com/stories/2024/mar/13/the-2024-legislative-session-wrapped-last-week-now/#:~:text=2209</guid>
 		</item>
 	</channel>
 </rss>

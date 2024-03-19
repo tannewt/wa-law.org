@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2003/</link>
 		<description>Updates about HB 2003</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 04 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 14 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -151,6 +151,20 @@
 			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-04/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-13/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Rep. April Connors’ bill to help build affordable housing on public lands signed into law</title>
+			<description>News article &quot;Rep. April Connors’ bill to help build affordable housing on public lands signed into law&quot; from Gorge News Center.</description>
+			<pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/03/14/rep-april-connors-bill-to-help-build-affordable-housing-on-public-lands-signed-into-law/#:~:text=House%20Bill%202003</guid>
 		</item>
 	</channel>
 </rss>

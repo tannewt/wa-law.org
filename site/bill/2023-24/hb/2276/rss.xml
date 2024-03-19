@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2276/</link>
 		<description>Updates about HB 2276</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 26 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 11 Mar 2024 11:59:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -363,6 +363,13 @@
 			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-26/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>2024 WA Legislature passes bills on guns, environment, education | Crosscut</title>
+			<description>News article &quot;2024 WA Legislature passes bills on guns, environment, education | Crosscut&quot; from Crosscut.</description>
+			<pubDate>Mon, 11 Mar 2024 11:59:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%202276</guid>
 		</item>
 	</channel>
 </rss>

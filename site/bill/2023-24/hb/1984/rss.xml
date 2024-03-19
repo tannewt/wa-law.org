@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1984/</link>
 		<description>Updates about HB 1984</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 06:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 11 Mar 2024 06:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -35,6 +35,13 @@
 			<pubDate>Mon, 08 Jan 2024 06:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/environment/from-a-state-clam-to-car-tab-discounts-lawmakers-agenda-takes-shape/#:~:text=House%20Bill%201984</guid>
+		</item>
+		<item>
+			<title>What happened with WA lawmakers’ climate agenda | The Seattle Times</title>
+			<description>News article &quot;What happened with WA lawmakers’ climate agenda | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Mon, 11 Mar 2024 06:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/climate-lab/what-happened-with-wa-lawmakers-climate-agenda/#:~:text=House%20Bill%201984</guid>
 		</item>
 	</channel>
 </rss>

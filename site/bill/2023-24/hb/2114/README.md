@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/11/2024 [The Urbanist](/org/the_urbanist/) - [Year of Housing 2.0 Mostly Fizzles Out at Washington Legislature - The Urbanist](https://www.theurbanist.org/2024/03/11/year-of-housing-2-0-mostly-fizzles-out-at-washington-legislature/#:~:text=House%20Bill%202114)
+* 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%202114)
+* 03/11/2024 [Gorge News Center](/org/gorge_news_center/) - [‘We played defense better’: WA Republicans on the just-ended legislative session](https://gorgenewscenter.com/2024/03/11/we-played-defense-better-wa-republicans-on-the-just-ended-legislative-session/#:~:text=House%20Bill%202114)
 * 03/08/2024 [The Center Square](/org/the_center_square/) - ['We played defense better': WA Republicans on the just-ended legislative session | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ff903bd8-dd83-11ee-955d-fb20f554782d.html#:~:text=House%20Bill%202114)
 * 03/07/2024 [Wenatchee World](/org/wenatchee_world/) - [A heap of housing bills failed in WA’s legislative session | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/a-heap-of-housing-bills-failed-in-wa-s-legislative-session/article_2da5dd3a-dccf-11ee-b530-fb674c849926.html#:~:text=House%20Bill%202114)
 * 03/07/2024 [Crosscut](/org/crosscut/) - [A heap of housing bills failed in WA’s legislative session | Crosscut](https://crosscut.com/politics/2024/03/heap-housing-bills-failed-was-legislative-session#:~:text=House%20Bill %202114)

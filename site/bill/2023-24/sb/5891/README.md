@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
 
+## 📰 Articles
+* 03/12/2024 [Gorge News Center](/org/gorge_news_center/) - [5 Boehnke bills pass legislature](https://gorgenewscenter.com/2024/03/12/5-boehnke-bills-pass-legislature/#:~:text=SB%205891)
+
 ## Meetings
 ### Mon 02/19 01:30 PM - Community Safety, Justice, & Reentry (CSJR): ESSB 5891 School bus trespass
 #### 16 👍 - Pro

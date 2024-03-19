@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
+## 📰 Articles
+* 03/14/2024 [Gorge News Center](/org/gorge_news_center/) - [Governor signs Klicker bill to allow local governments to share certain tax revenue](https://gorgenewscenter.com/2024/03/14/governor-signs-klicker-bill-to-allow-local-governments-to-share-certain-tax-revenue/#:~:text=House%20Bill%202428)
+
 ## Meetings
 ### Thu 02/15 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): SHB 2428 Sales and use tax sharing
 #### 4 👍 - Pro

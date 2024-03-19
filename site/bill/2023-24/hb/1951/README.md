@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/13/2024 [The Seattle Times](/org/the_seattle_times/) - [WA must move swiftly to regulate AI | The Seattle Times](https://www.seattletimes.com/opinion/editorials/wa-must-move-swiftly-to-regulate-ai/#:~:text=HB%201951)
+
 ## Meetings
 ### Fri 01/19 08:00 AM - Consumer Protection & Business (CPB): HB 1951 Algorithmic discrimination
 #### 36 👍 - Pro

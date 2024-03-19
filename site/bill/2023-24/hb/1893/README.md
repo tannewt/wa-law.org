@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%201893)
+* 03/11/2024 [Gorge News Center](/org/gorge_news_center/) - [‘We played defense better’: WA Republicans on the just-ended legislative session](https://gorgenewscenter.com/2024/03/11/we-played-defense-better-wa-republicans-on-the-just-ended-legislative-session/#:~:text=House%20Bill%201893)
 * 03/08/2024 [The Center Square](/org/the_center_square/) - ['We played defense better': WA Republicans on the just-ended legislative session | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ff903bd8-dd83-11ee-955d-fb20f554782d.html#:~:text=House%20Bill%201893)
 * 03/07/2024 [Crosscut](/org/crosscut/) - [WA bill to offer unemployment pay to striking workers falls short | Crosscut](https://crosscut.com/briefs/2024/03/wa-bill-offer-unemployment-pay-striking-workers-falls-short#:~:text=House%20Bill%201893)
 * 03/04/2024 [House Republicans](/org/house_republicans/) - [The last four days of the 2024 legislative session | Washington State House Republicans](http://houserepublicans.wa.gov/current/the-last-four-days-of-the-2024-legislative-session/#:~:text=House%20Bill%201893)

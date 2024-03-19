@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
 
+## 📰 Articles
+* 03/14/2024 [Gorge News Center](/org/gorge_news_center/) - [Governor signs Mosbrucker’s domestic violence supervision bill into law; Two other Mosbrucker bills await Inslee’s signature](https://gorgenewscenter.com/2024/03/14/governor-signs-mosbruckers-domestic-violence-supervision-bill-into-law-two-other-mosbrucker-bills-await-inslees-signature/#:~:text=Senate%20Bill%205919)
+
 ## Meetings
 ### Thu 02/15 08:00 AM - Environment & Energy (ENVI): SSB 5919 Biogenic carbon dioxide
 #### 4 👍 - Pro

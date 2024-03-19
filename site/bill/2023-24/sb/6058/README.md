@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/13/2024 [The Center Square](/org/the_center_square/) - [With program’s future in doubt, WA’s first carbon auction of 2024 raises almost $192M | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_642ea986-e184-11ee-898a-2fa0cc3415d5.html#:~:text=Senate%20Bill%206058)
 * 03/08/2024 [FOX13](/org/fox13/) - [Washington's new laws in 2024: Everything you need to know](https://www.fox13seattle.com/news/washingtons-new-laws-in-2024-everything-you-need-to-know#:~:text=SB%206058)
 * 03/08/2024 [Crosscut](/org/crosscut/) - [WA Legislature revs up plan to electrify 10,000 school buses | Crosscut](https://crosscut.com/politics/2024/03/wa-legislature-revs-plan-electrify-10000-school-buses#:~:text=Senate%20Bill%206058)
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=Senate%20Bill%206058)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/14/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. April Connors’ bill to help build affordable housing on public lands signed into law](https://gorgenewscenter.com/2024/03/14/rep-april-connors-bill-to-help-build-affordable-housing-on-public-lands-signed-into-law/#:~:text=House%20Bill%202158)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202158)
 
 ## Meetings

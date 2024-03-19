@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1915/</link>
 		<description>Updates about HB 1915</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 09 Mar 2024 06:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 11 Mar 2024 17:22:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -538,6 +538,13 @@
 			<guid isPermaLink="false">2024-03-05/Senate insists on its position and asks House to concur.</guid>
 		</item>
 		<item>
+			<title>By resolution, returned to House Rules Committee for third reading.</title>
+			<description>By resolution, returned to House Rules Committee for third reading.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/By resolution, returned to House Rules Committee for third reading.</guid>
+		</item>
+		<item>
 			<title>House adheres to its position.</title>
 			<description>House adheres to its position.</description>
 			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
@@ -557,6 +564,13 @@
 			<pubDate>Sat, 09 Mar 2024 06:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/financial-education-bill-changed-last-minute-on-senate-floor-and-fails/#:~:text=House%20Bill%201915</guid>
+		</item>
+		<item>
+			<title>Mandatory financial literacy bill died as legislative session came to an end | Washington | thecentersquare.com</title>
+			<description>News article &quot;Mandatory financial literacy bill died as legislative session came to an end | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Mon, 11 Mar 2024 17:22:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_d6970c28-dfd3-11ee-807e-17fe0fdbf41c.html#:~:text=House%20Bill%201915</guid>
 		</item>
 	</channel>
 </rss>

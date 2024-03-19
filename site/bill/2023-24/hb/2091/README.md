@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/13/2024 [House Democrats](/org/house_democrats/) - [Bronoske firefighter legislation signed by governor.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/13/bronoske-firefighter-legislation-signed-by-governor/#:~:text=House%20Bill%202091)
 * 02/28/2024 [KING5](/org/king5/) - [Fallen firefighters could get Capitol campus memorial | king5.com](https://www.king5.com/article/news/local/fallen-firefighters-capitol-campus-memorial/281-dabe49cf-287f-4b94-831b-80ee0a580cbc#:~:text=House%20Bill%202091)
 * 02/08/2024 [House Democrats](/org/house_democrats/) - [Bronoske bill to establish state fallen firefighter memorial passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/bronoske-bill-to-establish-state-fallen-firefighter-memorial-passes-house/#:~:text=House%20Bill%202091)
 * 02/02/2024 [The Center Square](/org/the_center_square/) - [Bill would honor firefighters lost in the line of duty with $5M Olympia memorial | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c61d1470-c217-11ee-a730-5b43b51af6e0.html#:~:text=House%20Bill%202091)
