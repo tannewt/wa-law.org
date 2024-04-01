@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2214/</link>
 		<description>Updates about HB 2214</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 04 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 27 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -364,6 +364,20 @@
 			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-04/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-15/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Gov. Signs Slatter Bill Expanding Access to Higher Education – Washington State House Democrats</title>
+			<description>News article &quot;Gov. Signs Slatter Bill Expanding Access to Higher Education – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/03/27/gov-signs-slatter-bill-expanding-access-to-higher-education/#:~:text=House%20Bill%202214</guid>
 		</item>
 	</channel>
 </rss>

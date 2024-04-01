@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Fri 02/16 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5786 Business corporations

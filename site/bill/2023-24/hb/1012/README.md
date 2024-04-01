@@ -7,8 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/20/2024 [Gorge News Center](/org/gorge_news_center/) - [Leavitt bill to help the vulnerable during extreme weather signed into law.](https://gorgenewscenter.com/2024/03/20/leavitt-bill-to-help-the-vulnerable-during-extreme-weather-signed-into-law/#:~:text=House%20Bill%201012)
+* 03/20/2024 [House Democrats](/org/house_democrats/) - [Leavitt bill to help the vulnerable during extreme weather signed into law. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/20/leavitt-bill-to-help-the-vulnerable-during-extreme-weather-signed-into-law/#:~:text=House%20Bill%201012)
 * 02/21/2024 [House Democrats](/org/house_democrats/) - [Economic Growth, Social Cohesion, & Support for Veterans – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/21/economic-growth-social-cohesion-support-for-veterans/#:~:text=1012)
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [Speaker Jinkins: “Optimistic and determined” about 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/speaker-jinkins-optimistic-and-determined-about-2024-legislative-session/#:~:text=SHB%201012)
 * 02/24/2023 [House Democrats](/org/house_democrats/) - [Representative Mari Leavitt Passes Four Bills to Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/24/representative-mari-leavitt-passes-four-bills-to-senate/#:~:text=HB%201012)

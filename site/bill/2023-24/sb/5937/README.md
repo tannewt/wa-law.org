@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/26/2024 [Senate Democrats](/org/senate_democrats/) - [Dhingra bills to support survivors of gender-based violence signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/03/26/dhingra-bills-to-support-survivors-of-gender-based-violence-signed-into-law/#:~:text=SB%205937)
 * 01/16/2024 [Senate Democrats](/org/senate_democrats/) - [Dhingra: bill represents a ‘victim-centered, trauma-informed’ response to sexual assault - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/15/dhingra-bill-would-support-sexual-assault-survivors/#:~:text=SB%205937)
 * 01/14/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=Senate%20Bill%205937)
 

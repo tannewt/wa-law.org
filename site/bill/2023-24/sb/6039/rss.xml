@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6039/</link>
 		<description>Updates about SB 6039</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 08 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 28 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -241,6 +241,20 @@
 			<pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-08/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Washingtonians Will Soon Enjoy Cleaner Heating and Cooling Options - Sightline Institute</title>
+			<description>News article &quot;Washingtonians Will Soon Enjoy Cleaner Heating and Cooling Options - Sightline Institute&quot; from Sightline Institute.</description>
+			<pubDate>Thu, 21 Mar 2024 14:00:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.sightline.org/2024/03/21/washingtonians-will-soon-enjoy-cleaner-heating-and-cooling-options/#:~:text=Senate%20Bill%206039</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-28/Effective date 6/6/2024.</guid>
 		</item>
 	</channel>
 </rss>

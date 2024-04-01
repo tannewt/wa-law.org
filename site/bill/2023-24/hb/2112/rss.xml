@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2112/</link>
 		<description>Updates about HB 2112</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 06 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 21 Mar 2024 13:41:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -408,6 +408,27 @@
 			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-06/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-19/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>New laws aim to prevent youth opioid overdoses - Axios Seattle</title>
+			<description>News article &quot;New laws aim to prevent youth opioid overdoses - Axios Seattle&quot; from Axios.</description>
+			<pubDate>Thu, 21 Mar 2024 13:40:59 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.axios.com/local/seattle/2024/03/21/new-laws-aim-to-prevent-youth-opioid-overdoses#:~:text=House%20Bill%202112</guid>
+		</item>
+		<item>
+			<title>New laws aim to prevent youth opioid overdoses in Washington state - Axios Seattle</title>
+			<description>News article &quot;New laws aim to prevent youth opioid overdoses in Washington state - Axios Seattle&quot; from Axios.</description>
+			<pubDate>Thu, 21 Mar 2024 13:41:27 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.axios.com/local/seattle/2024/03/21/fentanyl-overdose-laws-washington-state-kids#:~:text=House%20Bill%202112</guid>
 		</item>
 	</channel>
 </rss>

@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/05/2024 [House Democrats](/org/house_democrats/) - [Shavers’ bill to expand health care education headed to the governor. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/05/shavers-bill-to-expand-health-care-education-headed-to-the-governor/#:~:text=House%20Bill%202236)

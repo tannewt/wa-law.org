@@ -23,7 +23,7 @@ Testifying:
 * 💵Troy Nichols - Lewis County, Washington
 * Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Axel Swanson - Washington State Association of County Engineers
-* Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* 💵Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
 * Rick Hughes - Ray's Pharmacy - Orcas Island
 

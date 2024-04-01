@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/25/2024 [The Seattle Times](/org/the_seattle_times/) - [Legislature passes bills that may help King County’s budget crisis | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/help-from-olympia-could-ease-king-county-budget-crisis-if-property-taxes-rise/#:~:text=House%20Bill%202044)
+
 ## Meetings
 ### Tue 02/20 04:00 PM - Ways & Means (WM): HB 2044 Voter-approved property tax
 #### 42 👍 - Pro

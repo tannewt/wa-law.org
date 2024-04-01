@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2124/</link>
 		<description>Updates about HB 2124</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 11 Mar 2024 16:07:22 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 26 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -220,6 +220,13 @@
 			<pubDate>Mon, 11 Mar 2024 16:07:22 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.uwpnw.org/legupdate03112024#:~:text=House%20Bill%202124,</guid>
+		</item>
+		<item>
+			<title>Effective date 11/1/2024.</title>
+			<description>Effective date 11/1/2024.</description>
+			<pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-26/Effective date 11/1/2024.</guid>
 		</item>
 	</channel>
 </rss>

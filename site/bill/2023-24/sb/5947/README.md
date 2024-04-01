@@ -17,7 +17,7 @@
 Testifying:
 * 💵Justin Leighton - Washington State Transit Association
 * Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
-* Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* 💵Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * Cindy Wolf - [San Juan County](/org/san_juan_county/)
 * Mayor Mike Rosen - [City of Edmonds](/org/city_of_edmonds/)
 * Mike Rosen - [City of Edmonds](/org/city_of_edmonds/)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1927/</link>
 		<description>Updates about HB 1927</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 06 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 18 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -161,6 +161,13 @@
 			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-06/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024*.</title>
+			<description>Effective date 6/6/2024*.</description>
+			<pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-18/Effective date 6/6/2024*.</guid>
 		</item>
 	</channel>
 </rss>

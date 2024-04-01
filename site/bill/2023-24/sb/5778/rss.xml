@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5778/</link>
 		<description>Updates about SB 5778</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 08 Mar 2024 17:41:41 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 28 Mar 2024 18:56:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -262,6 +262,20 @@
 			<pubDate>Fri, 08 Mar 2024 17:41:41 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.fox13seattle.com/news/washingtons-new-laws-in-2024-everything-you-need-to-know#:~:text=SB%205778</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-28/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Keiser’s last bill, the Employee Free Choice Act, signed into law - Washington Senate Democrats</title>
+			<description>News article &quot;Keiser’s last bill, the Employee Free Choice Act, signed into law - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Thu, 28 Mar 2024 18:56:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/03/28/keisers-last-bill-the-employee-free-choice-act-signed-into-law/#:~:text=SB%205778</guid>
 		</item>
 	</channel>
 </rss>

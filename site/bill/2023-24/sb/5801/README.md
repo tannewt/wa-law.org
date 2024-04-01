@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Wed 02/14 01:30 PM - Consumer Protection & Business (CPB): ESSB 5801 Special deposits

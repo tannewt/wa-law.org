@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/21/2024 [The Center Square](/org/the_center_square/) - [Inslee signs Washington bill directing study of EV fires | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b8c2e284-e7ae-11ee-9d51-fb11cf98dbb8.html#:~:text=Senate%20Bill%205812)
 * 02/09/2024 [The Center Square](/org/the_center_square/) - [Bill to study electric vehicle battery fires on fast track in Olympia | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7935b076-c6e6-11ee-9634-0f5c22f1e3bd.html#:~:text=Senate%20Bill%205812)
 * 02/06/2024 [Gorge News Center](/org/gorge_news_center/) - [Wilson EV bill catches fire in Legislature](https://gorgenewscenter.com/2024/02/06/wilson-ev-bill-catches-fire-in-legislature/#:~:text=Senate%20Bill%205812,)
 

@@ -8,8 +8,10 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 03/27/2024 [House Democrats](/org/house_democrats/) - [Gov. Signs Slatter Bill Expanding Access to Higher Education – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/27/gov-signs-slatter-bill-expanding-access-to-higher-education/#:~:text=House%20Bill%202214)
 * 02/09/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Slatter Bill Expands Pre-Eligibility for WA College Grant – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/legislative-news-slatter-bill-expands-pre-eligibility-for-wa-college-grant/#:~:text=House%20Bill%202214)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SHB%202214)
 * 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202214)

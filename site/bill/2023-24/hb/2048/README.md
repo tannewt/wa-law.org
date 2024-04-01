@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/14/2024 [The Center Square](/org/the_center_square/) - [Gov. Inslee signs domestic violence supervision bill into law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fbe795b6-e23e-11ee-ba69-9ffedf94cbec.html#:~:text=House%20Bill%202048)

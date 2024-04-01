@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/14/2024 [House Democrats](/org/house_democrats/) - [Governor signs Bronoske expanding access to anaphylaxis medication in schools.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/14/governor-signs-bronoske-expanding-access-to-anaphylaxis-meds-in-schools/#:~:text=House%20Bill%201608)

@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Third Substitute](S3/)
 * [Passed Legislature](S3.PL/)
+* [Session Law](S3.SL/)
 
 ## 📰 Articles
 * 03/06/2024 [The Seattle Times](/org/the_seattle_times/) - [Dual language education is one step closer to becoming a WA law | The Seattle Times](https://www.seattletimes.com/seattle-news/dual-language-education-is-one-step-closer-to-becoming-a-wa-law/#:~:text=House%20Bill%201228)

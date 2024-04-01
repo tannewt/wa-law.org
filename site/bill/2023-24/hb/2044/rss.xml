@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2044/</link>
 		<description>Updates about HB 2044</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 25 Mar 2024 06:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -217,6 +217,20 @@
 			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-05/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-15/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Legislature passes bills that may help King County’s budget crisis | The Seattle Times</title>
+			<description>News article &quot;Legislature passes bills that may help King County’s budget crisis | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Mon, 25 Mar 2024 06:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/help-from-olympia-could-ease-king-county-budget-crisis-if-property-taxes-rise/#:~:text=House%20Bill%202044</guid>
 		</item>
 	</channel>
 </rss>

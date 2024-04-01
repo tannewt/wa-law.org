@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Appropriations (APP): ESSB 5271 DOH facilities/enforcement

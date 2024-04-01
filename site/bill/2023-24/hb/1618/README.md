@@ -11,6 +11,9 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/27/2024 [Gorge News Center](/org/gorge_news_center/) - [Gov. Signs Farivar Bills into Law to Empowering Communities, Supporting Child Sex Abuse Survivors & Addressing Antitrust Practices](https://gorgenewscenter.com/2024/03/27/gov-signs-farivar-bills-into-law-to-empowering-communities-supporting-child-sex-abuse-survivors-addressing-antitrust-practices/#:~:text=1618)
+* 03/27/2024 [House Democrats](/org/house_democrats/) - [Gov. Signs Farivar Bills into Law to Empowering Communities, Supporting Child Sex Abuse Survivors & Addressing Antitrust Practices – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/27/179-2/#:~:text=1618)
+* 03/26/2024 [The Center Square](/org/the_center_square/) - [No more statute of limitations in civil child sex abuse cases in Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_38a99c8e-ebad-11ee-bed3-63c88e943360.html#:~:text=House%20Bill%201618.)
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201618)
 * 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%201618)
 * 02/29/2024 [House Democrats](/org/house_democrats/) - [Senate Votes To Empower Child Sex Abuse Survivors – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/29/senate-votes-to-empower-child-sex-abuse-survivors/#:~:text=House%20Bill%201618)

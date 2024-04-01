@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/28/2024 [Sightline Institute](/org/sightline_institute/) - [Washington’s 2024 Short-Session Housing Wins - Sightline Institute](https://www.sightline.org/2024/03/28/washingtons-2024-short-session-housing-wins/#:~:text=SB%206015)
 * 03/11/2024 [The Urbanist](/org/the_urbanist/) - [Year of Housing 2.0 Mostly Fizzles Out at Washington Legislature - The Urbanist](https://www.theurbanist.org/2024/03/11/year-of-housing-2-0-mostly-fizzles-out-at-washington-legislature/#:~:text=SB%206015)
 * 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=Senate%20Bill%206015)
 * 03/07/2024 [Crosscut](/org/crosscut/) - [A heap of housing bills failed in WA’s legislative session | Crosscut](https://crosscut.com/politics/2024/03/heap-housing-bills-failed-was-legislative-session#:~:text=Senate%20Bill%206015)

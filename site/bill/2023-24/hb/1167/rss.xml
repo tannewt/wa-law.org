@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1167/</link>
 		<description>Updates about HB 1167</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 28 Mar 2024 19:00:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -329,6 +329,13 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/Rules Committee relieved of further consideration.</guid>
+		</item>
+		<item>
+			<title>Washington’s 2024 Short-Session Housing Wins - Sightline Institute</title>
+			<description>News article &quot;Washington’s 2024 Short-Session Housing Wins - Sightline Institute&quot; from Sightline Institute.</description>
+			<pubDate>Thu, 28 Mar 2024 19:00:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.sightline.org/2024/03/28/washingtons-2024-short-session-housing-wins/#:~:text=HB%201167</guid>
 		</item>
 	</channel>
 </rss>

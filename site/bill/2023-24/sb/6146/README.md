@@ -7,8 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/20/2024 [Gorge News Center](/org/gorge_news_center/) - [Governor Signs Heal One Washington Bills](https://gorgenewscenter.com/2024/03/20/governor-signs-heal-one-washington-bills/#:~:text=Senate%20Bill%206146)
+* 03/20/2024 [House Democrats](/org/house_democrats/) - [Governor Signs Heal One Washington Bills – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/20/governor-signs-heal-one-washington-bills/#:~:text=Senate%20Bill%206146)
 * 02/29/2024 [Senate Democrats](/org/senate_democrats/) - [Bill to allow WA police to enforce tribal warrants passes House - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/29/bill-to-allow-wa-police-to-enforce-tribal-warrants-passes-house/#:~:text=SB%206146)
 * 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=SB%206146)
 

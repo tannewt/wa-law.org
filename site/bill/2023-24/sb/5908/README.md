@@ -9,8 +9,10 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 03/19/2024 [Gorge News Center](/org/gorge_news_center/) - [Extended foster care for young adults up to 21 set to expand in WA](https://gorgenewscenter.com/2024/03/19/extended-foster-care-for-young-adults-up-to-21-set-to-expand-in-wa/#:~:text=Senate%20Bill%205908)
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%205908)
 * 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%205908)
 * 02/29/2024 [MyNorthwest](/org/mynorthwest/) - [Older foster children could get boost from state - MyNorthwest.com](https://mynorthwest.com/3952916/wash-foster-children-could-get-boost-from-legislature/#:~:text=SB%205908)

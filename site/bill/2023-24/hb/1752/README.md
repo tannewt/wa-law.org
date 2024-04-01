@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/20/2024 [Gorge News Center](/org/gorge_news_center/) - [Eastern Washington farmers to benefit from greater access to the state’s water resource](https://gorgenewscenter.com/2024/03/20/eastern-washington-farmers-to-benefit-from-greater-access-to-the-states-water-resource/#:~:text=House%20Bill%201752)
+
 ## Meetings
 ### Thu 02/15 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): HB 1752 Water/consumptive quality
 #### 43 👍 - Pro

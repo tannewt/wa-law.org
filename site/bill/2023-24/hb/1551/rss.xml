@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1551/</link>
 		<description>Updates about HB 1551</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 11 Mar 2024 11:59:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 29 Mar 2024 13:48:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -314,6 +314,20 @@
 			<pubDate>Mon, 11 Mar 2024 11:59:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%201551</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-28/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>WA becomes first state to ban lead-contaminated cookware | The Seattle Times</title>
+			<description>News article &quot;WA becomes first state to ban lead-contaminated cookware | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Fri, 29 Mar 2024 13:48:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/health/wa-becomes-first-state-to-ban-lead-contaminated-cookware/#:~:text=House%20Bill%201551</guid>
 		</item>
 	</channel>
 </rss>

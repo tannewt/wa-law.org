@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/29/2024 [House Democrats](/org/house_democrats/) - [Gov. Signs Mena Bill Strengthening International Partnerships – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/29/gov-signs-mena-bill-strengthening-international-partnerships/#:~:text=House%20Bill%202000)
 * 02/09/2024 [House Democrats](/org/house_democrats/) - [Mena’s Bill Embraces Global Future For WA – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/menas-bill-embraces-global-future-for-wa/#:~:text=House%20Bill%202000)
 
 ## Meetings

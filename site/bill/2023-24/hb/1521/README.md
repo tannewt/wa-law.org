@@ -45,7 +45,7 @@ Testifying:
 #### 9 👎 - Con
 Testifying:
 * Bernadette Pratt - Pratt, Day & Stratton/WSIA
-* Kelly Early - Educational Service District 113
+* Kelly Early - [Educational Service District 113](/org/educational_service_district_113/)
 * Kris Tefft - Washington Self-Insurers Association
 
 #### 1 ❓ - Other

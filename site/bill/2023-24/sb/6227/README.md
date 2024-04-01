@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Wed 02/14 08:00 AM - Civil Rights & Judiciary (CRJ): SSB 6227 Protection order/insanity

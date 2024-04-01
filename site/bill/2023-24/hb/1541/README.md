@@ -12,6 +12,8 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/27/2024 [Gorge News Center](/org/gorge_news_center/) - [Gov. Signs Farivar Bills into Law to Empowering Communities, Supporting Child Sex Abuse Survivors & Addressing Antitrust Practices](https://gorgenewscenter.com/2024/03/27/gov-signs-farivar-bills-into-law-to-empowering-communities-supporting-child-sex-abuse-survivors-addressing-antitrust-practices/#:~:text=1541)
+* 03/27/2024 [House Democrats](/org/house_democrats/) - [Gov. Signs Farivar Bills into Law to Empowering Communities, Supporting Child Sex Abuse Survivors & Addressing Antitrust Practices – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/27/179-2/#:~:text=1541)
 * 02/06/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: House Advances “Nothing About Us Without Us” Act – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/06/legislative-news-house-advances-nothing-about-us-without-us-act/#:~:text=House%20Bill%201541)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=House%20Bill%201541)
 * 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=HB%201541)

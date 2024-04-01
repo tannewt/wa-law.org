@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Appropriations (APP): SSB 5940 Medical assistant-EMT cert.

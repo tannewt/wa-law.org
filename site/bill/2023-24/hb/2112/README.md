@@ -8,8 +8,11 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 03/21/2024 [Axios](/org/axios/) - [New laws aim to prevent youth opioid overdoses in Washington state - Axios Seattle](https://www.axios.com/local/seattle/2024/03/21/fentanyl-overdose-laws-washington-state-kids#:~:text=House%20Bill%202112)
+* 03/21/2024 [Axios](/org/axios/) - [New laws aim to prevent youth opioid overdoses - Axios Seattle](https://www.axios.com/local/seattle/2024/03/21/new-laws-aim-to-prevent-youth-opioid-overdoses#:~:text=House%20Bill%202112)
 * 02/23/2024 [NW News Network](/org/nw_news_network/) - [Budgets, initiative hearings top agenda in week 7 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-23/budgets-initiative-hearings-top-agenda-in-week-7-of-washingtons-legislative-session#:~:text=House%20Bill%202112)
 * 02/08/2024 [House Democrats](/org/house_democrats/) - [House passes Nance bill to fund opioid prevention at colleges – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/house-passes-nance-bill-to-fund-opioid-prevention-at-colleges/#:~:text=House%20Bill%202112)
 * 01/28/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/28/the-house-hot-sheet-for-week-4-of-the-2024-legislative-session/#:~:text=HB%202112)

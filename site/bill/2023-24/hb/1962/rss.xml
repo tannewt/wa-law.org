@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1962/</link>
 		<description>Updates about HB 1962</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 13 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 27 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -169,6 +169,13 @@
 			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-13/Effective date 6/1/2025.</guid>
+		</item>
+		<item>
+			<title>Secretary Hobbs lauds new laws to strengthen elections</title>
+			<description>News article &quot;Secretary Hobbs lauds new laws to strengthen elections&quot; from Gorge News Center.</description>
+			<pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/03/27/secretary-hobbs-lauds-new-laws-to-strengthen-elections/#:~:text=House%20Bill%201962</guid>
 		</item>
 	</channel>
 </rss>

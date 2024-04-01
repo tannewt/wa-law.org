@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/15/2024 [Gorge News Center](/org/gorge_news_center/) - [Protections Against Fabricated Intimate Images Signed into Law](https://gorgenewscenter.com/2024/03/15/protections-against-fabricated-intimate-images-signed-into-law/#:~:text=House%20Bill%201999)

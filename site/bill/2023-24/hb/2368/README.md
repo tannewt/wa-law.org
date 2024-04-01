@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/21/2024 [The Center Square](/org/the_center_square/) - [Washington state supplemental budget includes $32M for asylum seekers | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_aebcd322-e7cb-11ee-bd06-d74670ccda21.html#:~:text=House%20Bill%202368)
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%202368)
 * 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%202368)
 * 03/01/2024 [The Seattle Times](/org/the_seattle_times/) - [Help for WA asylum-seekers is focus of bill passed by Legislature | The Seattle Times](https://www.seattletimes.com/seattle-news/help-for-wa-asylum-seekers-is-focus-of-bill-passed-by-legislature/#:~:text=House%20Bill%202368)

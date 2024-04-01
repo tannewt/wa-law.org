@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/05/2024 [Gorge News Center](/org/gorge_news_center/) - [Legislature approves Warnick bill expanding public-private partnerships on state-managed lands](https://gorgenewscenter.com/2024/03/05/legislature-approves-warnick-bill-expanding-public-private-partnerships-on-state-managed-lands/#:~:text=Senate%20Bill%205785)

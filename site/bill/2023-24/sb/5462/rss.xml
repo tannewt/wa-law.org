@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5462/</link>
 		<description>Updates about SB 5462</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 14 Mar 2024 12:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 21 Mar 2024 10:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -851,6 +851,20 @@
 			<pubDate>Thu, 14 Mar 2024 12:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://crosscut.com/politics/2024/03/legislature-decides-wa-schools-should-include-lgbtq-history#:~:text=Senate%20Bill%205462</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-18/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>What to know about WA’s law requiring LGBTQ+ history in public schools | The Seattle Times</title>
+			<description>News article &quot;What to know about WA’s law requiring LGBTQ+ history in public schools | The Seattle Times&quot; from The Seattle Times.</description>
+			<pubDate>Thu, 21 Mar 2024 10:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.seattletimes.com/education-lab/what-to-know-about-was-law-requiring-lgbtq-history-in-public-schools/#:~:text=Senate%20Bill%205462</guid>
 		</item>
 	</channel>
 </rss>

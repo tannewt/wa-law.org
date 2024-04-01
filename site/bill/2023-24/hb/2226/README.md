@@ -7,8 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/25/2024 [Gorge News Center](/org/gorge_news_center/) - [LEGISLATIVE NEWS: Gov. Signs Bill Providing Transparency in Wage Data for Farmworkers](https://gorgenewscenter.com/2024/03/25/legislative-news-gov-signs-bill-providing-transparency-in-wage-data-for-farmworkers/#:~:text=House%20Bill%202226)
+* 03/25/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Gov. Signs Bill Providing Transparency in Wage Data for Farmworkers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/25/legislative-news-gov-signs-bill-providing-transparency-in-wage-data-for-farmworkers/#:~:text=House%20Bill%202226)
 * 02/07/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Farmworker Transparency Bill Advances to Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/07/legislative-news-farmworker-transparency-bill-advances-to-senate/#:~:text=House%20Bill%202226)
 * 01/26/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Committee Passes Legislation Empowering H-2A Workers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/26/legislative-news-committee-passes-legislation-empowering-h-2a-workers/#:~:text=House%20Bill%202226)
 * 01/21/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/21/the-house-hot-sheet-for-week-3-of-the-2024-legislative-session/#:~:text=HB%202226)

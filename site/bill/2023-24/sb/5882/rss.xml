@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5882/</link>
 		<description>Updates about SB 5882</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 08 Mar 2024 17:41:41 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 19 Mar 2024 17:54:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -506,6 +506,20 @@
 			<pubDate>Fri, 08 Mar 2024 17:41:41 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.fox13seattle.com/news/washingtons-new-laws-in-2024-everything-you-need-to-know#:~:text=SB%205882</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-19/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>It’s the law: Stanford bill puts $72 million toward more paras in schools - Washington Senate Democrats</title>
+			<description>News article &quot;It’s the law: Stanford bill puts $72 million toward more paras in schools - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Tue, 19 Mar 2024 17:54:03 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/03/19/its-the-law-stanford-bill-puts-72-million-toward-more-paras-in-schools/#:~:text=SB%205882</guid>
 		</item>
 	</channel>
 </rss>

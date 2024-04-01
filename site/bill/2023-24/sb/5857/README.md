@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Fri 02/16 08:00 AM - State Government & Tribal Relations (SGOV): SSB 5857 Campaign disclosure reorg.

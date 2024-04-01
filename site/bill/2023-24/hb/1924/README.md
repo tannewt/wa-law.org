@@ -9,6 +9,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/28/2024 [The Seattle Times](/org/the_seattle_times/) - [WA Gov. Inslee signs slate of climate and environment bills into law | The Seattle Times](https://www.seattletimes.com/seattle-news/climate-lab/wa-gov-inslee-signs-slate-of-climate-and-environment-bills-into-law/#:~:text=House%20Bill%201924)
 * 01/08/2024 [The Seattle Times](/org/the_seattle_times/) - [From a state clam to car tab discounts, lawmakers’ agenda takes shape | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/from-a-state-clam-to-car-tab-discounts-lawmakers-agenda-takes-shape/#:~:text=House%20Bill%201924)
 
 ## Meetings

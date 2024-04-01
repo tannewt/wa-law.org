@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/05/2024 [House Democrats](/org/house_democrats/) - [Peterson bills to help families with low incomes head to governor’s desk.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/05/peterson-bills-to-help-families-with-low-incomes-head-to-governors-desk/#:~:text=2007)

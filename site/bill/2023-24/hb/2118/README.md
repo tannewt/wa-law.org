@@ -10,6 +10,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/27/2024 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | CAIR-WA Urges NWDC Ramadan Accommodations; Alexis Mercedes Rinck Eyes City Council Seat 8 | South Seattle Emerald](https://southseattleemerald.com/2024/03/27/news-gleams-cair-wa-urges-nwdc-ramadan-accommodations-alexis-mercedes-rinck-eyes-city-council-seat-8/#:~:text=House%20Bill%202118)
+* 03/26/2024 [The Seattle Times](/org/the_seattle_times/) - [Inslee signs new gun laws, including ban at transit facilities, libraries | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/inslee-signs-new-gun-laws-including-ban-at-transit-facilities-libraries/#:~:text=House%20Bill%202118)
 * 03/11/2024 [The Center Square](/org/the_center_square/) - [Legal challenges likely await gun retailer oversight bill if it's signed into law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0bb30344-dff7-11ee-9c92-4759b441253a.html#:~:text=Engrossed%20Substitute%20House%20Bill%202118)
 * 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%202118)
 * 03/08/2024 [FOX13](/org/fox13/) - [Washington's new laws in 2024: Everything you need to know](https://www.fox13seattle.com/news/washingtons-new-laws-in-2024-everything-you-need-to-know#:~:text=HB%202118)

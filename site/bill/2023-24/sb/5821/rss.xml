@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5821/</link>
 		<description>Updates about SB 5821</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 12 Mar 2024 10:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 19 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -217,6 +217,13 @@
 			<pubDate>Tue, 12 Mar 2024 10:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/health/key-health-take-aways-from-was-2024-legislative-session/#:~:text=Senate%20Bill%205821</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-19/Effective date 6/6/2024.</guid>
 		</item>
 	</channel>
 </rss>

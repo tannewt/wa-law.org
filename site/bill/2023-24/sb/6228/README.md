@@ -10,6 +10,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/28/2024 [House Democrats](/org/house_democrats/) - [Critical addiction treatment bill to be signed by Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/28/critical-addiction-treatment-bill-to-be-signed-by-governor/#:~:text=SB%206228)
 * 03/12/2024 [The Seattle Times](/org/the_seattle_times/) - [Key health takeaways from WA’s 2024 legislative session | The Seattle Times](https://www.seattletimes.com/seattle-news/health/key-health-take-aways-from-was-2024-legislative-session/#:~:text=Senate%20Bill%206228)
 * 02/09/2024 [Senate Democrats](/org/senate_democrats/) - [Senate passes four Dhingra bills to tackle mental health, substance use disorder - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/09/senate-passes-four-dhingra-bills-to-tackle-mental-health-substance-use-disorder/#:~:text=SB%206228)
 * 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=Senate%20Bill%206228)

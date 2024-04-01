@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 02/29/2024 [House Democrats](/org/house_democrats/) - [Donaghy bill supporting paraeducators clears the Senate  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/29/donaghy-bill-supporting-paraeducators-clears-the-senate/#:~:text=House%20Bill%201277)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/01/2024 [The Center Square](/org/the_center_square/) - [Gov. Inslee signs bill making it harder to dissolve library districts | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fbdb2434-f04e-11ee-a01b-e310c7b7107b.html#:~:text=SB%205824)
 * 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=Senate%20Bill%205824)
 * 02/29/2024 [Crosscut](/org/crosscut/) - [WA bill would make it harder to shut down public libraries | Crosscut](https://crosscut.com/briefs/2024/02/wa-bill-would-make-it-harder-shut-down-public-libraries#:~:text=Senate%20Bill%205824)
 * 02/29/2024 [The Center Square](/org/the_center_square/) - [Dissolving library districts bill passes Washington Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d6789020-d747-11ee-af4c-5f6eea258082.html#:~:text=Senate%20Bill%205824)

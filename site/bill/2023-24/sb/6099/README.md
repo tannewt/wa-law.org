@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/07/2024 [Gorge News Center](/org/gorge_news_center/) - [Senators mystified by cut in drug task force funding; lawmakers approve other Republican fentanyl proposals](https://gorgenewscenter.com/2024/03/07/senators-mystified-by-cut-in-drug-task-force-funding-lawmakers-approve-other-republican-fentanyl-proposals/#:~:text=SB%206099)

@@ -11,6 +11,7 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/28/2024 [The Seattle Times](/org/the_seattle_times/) - [WA Gov. Inslee signs slate of climate and environment bills into law | The Seattle Times](https://www.seattletimes.com/seattle-news/climate-lab/wa-gov-inslee-signs-slate-of-climate-and-environment-bills-into-law/#:~:text=House%20Bill%201368)
 * 03/11/2024 [The Seattle Times](/org/the_seattle_times/) - [What happened with WA lawmakers’ climate agenda | The Seattle Times](https://www.seattletimes.com/seattle-news/climate-lab/what-happened-with-wa-lawmakers-climate-agenda/#:~:text=House%20Bill%201368)
 * 03/08/2024 [Crosscut](/org/crosscut/) - [WA Legislature revs up plan to electrify 10,000 school buses | Crosscut](https://crosscut.com/politics/2024/03/wa-legislature-revs-plan-electrify-10000-school-buses#:~:text=House%20Bill%201368)
 * 02/21/2024 [The Spokesman-Review](/org/the_spokesman-review/) - [Will Merg: Driving toward change: Why we need zero-emission school buses in Washington | The Spokesman-Review](https://www.spokesman.com/stories/2024/feb/21/will-merg-driving-toward-change-why-we-need-zero-e/#:~:text=House%20Bill%201368)

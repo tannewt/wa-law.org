@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/15/2024 [Gorge News Center](/org/gorge_news_center/) - [Gov. Signs Cortes Bill Providing Juvenile Justice](https://gorgenewscenter.com/2024/03/15/gov-signs-cortes-bill-providing-juvenile-justice/#:~:text=Substitute%20House%20Bill%202217)

@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/18/2024 [Gorge News Center](/org/gorge_news_center/) - [Governor signs McClintock bill to enhance communication with the DCYF, improve foster care services](https://gorgenewscenter.com/2024/03/18/governor-signs-mcclintock-bill-to-enhance-communication-with-the-dcyf-improve-foster-care-services/#:~:text=House%20Bill%201970)
 * 02/12/2024 [Gorge News Center](/org/gorge_news_center/) - [McClintock bill to improve Department of Children, Youth, and Families (DCYF) communications gains unanimous House approval](https://gorgenewscenter.com/2024/02/12/mcclintock-bill-to-improve-department-of-children-youth-and-families-dcyf-communications-gains-unanimous-house-approval/#:~:text=House%20Bill%201970)
 
 ## Meetings

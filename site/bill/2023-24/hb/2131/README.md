@@ -10,6 +10,7 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/21/2024 [Sightline Institute](/org/sightline_institute/) - [Washingtonians Will Soon Enjoy Cleaner Heating and Cooling Options - Sightline Institute](https://www.sightline.org/2024/03/21/washingtonians-will-soon-enjoy-cleaner-heating-and-cooling-options/#:~:text=House%20Bill%202131)
 * 02/10/2024 [House Democrats](/org/house_democrats/) - [Ramel Bill Clears Obstacles for Exploring Thermal Energy Networks  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/10/ramel-bill-clears-obstacles-for-exploring-thermal-energy-networks/#:~:text=House%20Bill%202131)
 
 ## Meetings

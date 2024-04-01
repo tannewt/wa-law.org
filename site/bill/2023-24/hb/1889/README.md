@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/25/2024 [The Center Square](/org/the_center_square/) - [New Washington law allows illegal foreign nationals to obtain commercial licenses | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_dfa345b0-eafb-11ee-8393-73303d16fb82.html#:~:text=HB%201889)
 * 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%201889)
 * 03/08/2024 [FOX13](/org/fox13/) - [Washington's new laws in 2024: Everything you need to know](https://www.fox13seattle.com/news/washingtons-new-laws-in-2024-everything-you-need-to-know#:~:text=HB%201889)
 * 02/27/2024 [House Democrats](/org/house_democrats/) - [Walen bill expanding professional license eligibility heads to the Governor – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/27/walens-bill-enhances-professional-license-eligibility/#:~:text=House%20Bill%201889)

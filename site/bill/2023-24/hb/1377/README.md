@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 * [Second Engrossed Substitute](S.E2/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Thu 02/15 01:30 PM - Early Learning & K-12 Education (EDU): 2ESHB 1377 Continuing education/K-12

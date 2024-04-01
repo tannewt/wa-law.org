@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2000/</link>
 		<description>Updates about HB 2000</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 07 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 29 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -246,6 +246,20 @@
 			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-07/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-28/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Gov. Signs Mena Bill Strengthening International Partnerships – Washington State House Democrats</title>
+			<description>News article &quot;Gov. Signs Mena Bill Strengthening International Partnerships – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/03/29/gov-signs-mena-bill-strengthening-international-partnerships/#:~:text=House%20Bill%202000</guid>
 		</item>
 	</channel>
 </rss>

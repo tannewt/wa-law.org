@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/14/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [I want my corner coffee shops, dammit! | Cascadia Daily News](https://www.cascadiadaily.com/2024/mar/14/i-want-my-corner-coffee-shops-dammit/#:~:text=House%20Bill%202252)
 * 03/06/2024 [The Seattle Times](/org/the_seattle_times/) - [WA won’t legalize cafes in residential neighborhoods, lawmakers decide | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-wont-legalize-cafes-in-residential-neighborhoods-lawmakers-decide/#:~:text=House%20Bill%202252)
 * 02/26/2024 [The Seattle Times](/org/the_seattle_times/) - [WA bill to build community through neighborhood cafes faces roadblock | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-bill-to-build-community-through-neighborhood-cafes-faces-roadblock/#:~:text=House%20Bill%202252)
 * 02/22/2024 [The Urbanist](/org/the_urbanist/) - [Washington Senate Committee Guts Popular Neighborhood Cafe Bill - The Urbanist](https://www.theurbanist.org/2024/02/22/washington-senate-committee-guts-popular-neighborhood-cafe-bill/#:~:text=House%20Bill%202252)

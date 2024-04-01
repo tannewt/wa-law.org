@@ -24,7 +24,7 @@
 * ❓💵 Bryce Yadon
 
 ## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp. 👍1  
-* 👍 Kirk Hovenkotter
+* 👍💵 Kirk Hovenkotter
 
 ## [HB 2425](/bill/2023-24/hb/2425/) - Rental support program 👍1  
 
@@ -62,7 +62,7 @@
 ## [SB 5872](/bill/2023-24/sb/5872/) - Concerning vehicle and operator requirements for autonomous vehicles. 👍1  
 
 ## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp. 👍1  
-* 👍 Kirk Hovenkotter
+* 👍💵 Kirk Hovenkotter
 
 ## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply 👍1  
 

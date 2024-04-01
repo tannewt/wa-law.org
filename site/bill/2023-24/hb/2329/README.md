@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Tue 02/20 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 2329 Insurance market/housing

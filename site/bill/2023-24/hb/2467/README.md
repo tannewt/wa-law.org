@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 02/21/2024 [The Center Square](/org/the_center_square/) - [Democrats seek to quell opposition to WA Cares ahead of potential repeal in November | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ef52a91e-d10c-11ee-af9d-73e1cf7fc3be.html#:~:text=Substitute%20House%20Bill%202467)

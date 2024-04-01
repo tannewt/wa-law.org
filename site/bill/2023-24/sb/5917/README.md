@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/13/2024 [The Spokesman-Review](/org/the_spokesman-review/) - [Inslee updates hate crime law, expands powers of physician assistants, boosts money paid to those leaving prison, recognizes Lunar New Year | The Spokesman-Review](https://www.spokesman.com/stories/2024/mar/13/the-2024-legislative-session-wrapped-last-week-now/#:~:text=5917)

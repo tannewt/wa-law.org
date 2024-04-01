@@ -8,8 +8,11 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/25/2024 [Gorge News Center](/org/gorge_news_center/) - [LEGISLATIVE NEWS: Gov. Signs Protections Against Assisted Reproduction Fraud](https://gorgenewscenter.com/2024/03/25/legislative-news-gov-signs-protections-against-assisted-reproduction-fraud/#:~:text=.%20House%20Bill%201300)
+* 03/25/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Gov. Signs Protections Against Assisted Reproduction Fraud  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/25/legislative-news-gov-signs-protections-against-assisted-reproduction-fraud/#:~:text=.%20House%20Bill%201300)
 * 02/28/2024 [MyNorthwest](/org/mynorthwest/) - [Washington Senate passes bill criminalizing fertility fraud - MyNorthwest.com](https://mynorthwest.com/3952580/washington-senate-passes-bill-criminalizing-fertility-fraud/#:~:text=House%20Bill%201300)
 * 02/27/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Senate passes bill strengthening protections against assisted reproduction fraud – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/27/senate-passes-bill-strengthening-protections-against-assisted-reproduction-fraud/#:~:text=House%20Bill%201300)
 * 02/09/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Fertility Fraud Legislation Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/legislative-news-fertility-fraud-legislation-passes-house/#:~:text=House%20Bill%201300)

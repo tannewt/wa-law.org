@@ -9,6 +9,8 @@
 * [Passed Legislature](S.PL/)
 
 ## 📰 Articles
+* 03/27/2024 [Gorge News Center](/org/gorge_news_center/) - [Gov. Signs Farivar Bills into Law to Empowering Communities, Supporting Child Sex Abuse Survivors & Addressing Antitrust Practices](https://gorgenewscenter.com/2024/03/27/gov-signs-farivar-bills-into-law-to-empowering-communities-supporting-child-sex-abuse-survivors-addressing-antitrust-practices/#:~:text=2072)
+* 03/27/2024 [House Democrats](/org/house_democrats/) - [Gov. Signs Farivar Bills into Law to Empowering Communities, Supporting Child Sex Abuse Survivors & Addressing Antitrust Practices – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/27/179-2/#:~:text=2072)
 * 02/08/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: House Passes Farivar Bill Addressing Antitrust Penalties – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/08/legislative-news-house-passes-farivar-bill-addressing-antitrust-penalties/#:~:text=House%20Bill%202072)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202072)
 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 02/12/2024 [House Democrats](/org/house_democrats/) - [HB 2025 passes House. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/12/hb-2025-passes-house/#:~:text=HB%202025)

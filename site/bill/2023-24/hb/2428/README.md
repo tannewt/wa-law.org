@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/14/2024 [Gorge News Center](/org/gorge_news_center/) - [Governor signs Klicker bill to allow local governments to share certain tax revenue](https://gorgenewscenter.com/2024/03/14/governor-signs-klicker-bill-to-allow-local-governments-to-share-certain-tax-revenue/#:~:text=House%20Bill%202428)

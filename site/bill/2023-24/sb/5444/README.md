@@ -10,6 +10,9 @@
 * [Passed Legislature](S2.PL/)
 
 ## 📰 Articles
+* 03/27/2024 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | CAIR-WA Urges NWDC Ramadan Accommodations; Alexis Mercedes Rinck Eyes City Council Seat 8 | South Seattle Emerald](https://southseattleemerald.com/2024/03/27/news-gleams-cair-wa-urges-nwdc-ramadan-accommodations-alexis-mercedes-rinck-eyes-city-council-seat-8/#:~:text=Senate%20Bill%205444)
+* 03/27/2024 [The Center Square](/org/the_center_square/) - [Inslee signs legislation expanding places where guns are banned | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_efff7e3e-ec67-11ee-b20b-074323800618.html#:~:text=Senate%20Bill%205444)
+* 03/26/2024 [The Seattle Times](/org/the_seattle_times/) - [Inslee signs new gun laws, including ban at transit facilities, libraries | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/inslee-signs-new-gun-laws-including-ban-at-transit-facilities-libraries/#:~:text=Senate%20Bill%205444)
 * 03/06/2024 [MyNorthwest](/org/mynorthwest/) - [Strippers, book bans, guns: Partisan divide persists in Olympia - MyNorthwest.com](https://mynorthwest.com/3953688/strippers-book-bans-guns-examples-of-partisan-divide-persist-in-olympia/#:~:text=SB%205444)
 * 03/04/2024 [Crosscut](/org/crosscut/) - [WA legislators are pushing new gun bills. Here’s what could pass | Crosscut](https://crosscut.com/politics/2024/03/wa-legislators-are-pushing-new-gun-bills-heres-what-could-pass#:~:text=Senate%20Bill%205444)
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=Senate%20Bill%205444)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6146/</link>
 		<description>Updates about SB 6146</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 08 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 20 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -256,6 +256,27 @@
 			<pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-08/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 7/1/2025*.</title>
+			<description>Effective date 7/1/2025*.</description>
+			<pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-19/Effective date 7/1/2025*.</guid>
+		</item>
+		<item>
+			<title>Governor Signs Heal One Washington Bills</title>
+			<description>News article &quot;Governor Signs Heal One Washington Bills&quot; from Gorge News Center.</description>
+			<pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/03/20/governor-signs-heal-one-washington-bills/#:~:text=Senate%20Bill%206146</guid>
+		</item>
+		<item>
+			<title>Governor Signs Heal One Washington Bills – Washington State House Democrats</title>
+			<description>News article &quot;Governor Signs Heal One Washington Bills – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/03/20/governor-signs-heal-one-washington-bills/#:~:text=Senate%20Bill%206146</guid>
 		</item>
 	</channel>
 </rss>

@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/01/2024 [Senate Democrats](/org/senate_democrats/) - [House passes bill to reduce health risks from Sea-Tac Airport - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/03/01/house-passes-bill-to-reduce-health-risks-from-sea-tac-airport/#:~:text=SB%205955)

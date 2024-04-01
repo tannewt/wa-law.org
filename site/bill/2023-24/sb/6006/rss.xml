@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6006/</link>
 		<description>Updates about SB 6006</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 08 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 26 Mar 2024 22:01:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -197,6 +197,20 @@
 			<pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-08/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 7/1/2025.</title>
+			<description>Effective date 7/1/2025.</description>
+			<pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-26/Effective date 7/1/2025.</guid>
+		</item>
+		<item>
+			<title>Dhingra bills to support survivors of gender-based violence signed into law - Washington Senate Democrats</title>
+			<description>News article &quot;Dhingra bills to support survivors of gender-based violence signed into law - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Tue, 26 Mar 2024 22:01:23 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/03/26/dhingra-bills-to-support-survivors-of-gender-based-violence-signed-into-law/#:~:text=SB%206006</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/13/2024 [House Democrats](/org/house_democrats/) - [Bronoske firefighter legislation signed by governor.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/13/bronoske-firefighter-legislation-signed-by-governor/#:~:text=House%20Bill%202091)

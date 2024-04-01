@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/19/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Sam Low’s affordable workforce housing bill, a priority for Skagit County commissioners, signed into law](https://gorgenewscenter.com/2024/03/19/rep-sam-lows-affordable-workforce-housing-bill-a-priority-for-skagit-county-commissioners-signed-into-law/#:~:text=House%20Bill%201987)
+
 ## Meetings
 ### Thu 02/15 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): HB 1987 Public facilities tax use
 #### 7 👍 - Pro

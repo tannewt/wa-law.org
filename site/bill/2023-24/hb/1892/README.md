@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/07/2024 [Wenatchee World](/org/wenatchee_world/) - [A heap of housing bills failed in WA’s legislative session | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/a-heap-of-housing-bills-failed-in-wa-s-legislative-session/article_2da5dd3a-dccf-11ee-b530-fb674c849926.html#:~:text=House%20Bill%201892)

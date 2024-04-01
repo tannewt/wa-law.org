@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Health Care & Wellness (HCW): SSB 5920 Psychiatric/cert. of need

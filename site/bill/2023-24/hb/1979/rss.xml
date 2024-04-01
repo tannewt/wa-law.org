@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1979/</link>
 		<description>Updates about HB 1979</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 12 Mar 2024 10:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 25 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -167,6 +167,13 @@
 			<pubDate>Tue, 12 Mar 2024 10:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/health/key-health-take-aways-from-was-2024-legislative-session/#:~:text=House%20Bill%201979</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-25/Effective date 6/6/2024.</guid>
 		</item>
 	</channel>
 </rss>

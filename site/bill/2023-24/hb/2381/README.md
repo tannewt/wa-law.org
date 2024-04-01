@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Thu 02/15 01:30 PM - Early Learning & K-12 Education (EDU): SHB 2381 School calendar waivers

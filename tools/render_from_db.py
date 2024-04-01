@@ -30,7 +30,12 @@ REVISION_TO_NAME = {
     "S2.E2": "2nd Engrossed 2nd Substitute",
     "S3": "Third Substitute",
     "S4": "Fourth Substitute",
-    "S3.E": "Engrossed Third Substitute"
+    "S3.E": "Engrossed Third Substitute",
+    "S4.E": "Engrossed Fourth Substitute",
+    "S3.PL": "Passed Legislature",
+    "S4.PL": "Passed Legislature",
+    "S3.SL": "Session Law",
+    "S4.SL": "Session Law",
 }
 
 POSITION_TO_EMOJI = {

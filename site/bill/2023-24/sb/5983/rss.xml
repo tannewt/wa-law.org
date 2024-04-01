@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5983/</link>
 		<description>Updates about SB 5983</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 08 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 25 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -170,6 +170,13 @@
 			<pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-08/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 3/25/2024.</title>
+			<description>Effective date 3/25/2024.</description>
+			<pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-25/Effective date 3/25/2024.</guid>
 		</item>
 	</channel>
 </rss>

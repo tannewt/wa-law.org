@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6025/</link>
 		<description>Updates about SB 6025</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 08 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 25 Mar 2024 22:54:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -325,6 +325,20 @@
 			<pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-08/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-25/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Stanford bill to crack down on predatory loans signed into law - Washington Senate Democrats</title>
+			<description>News article &quot;Stanford bill to crack down on predatory loans signed into law - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Mon, 25 Mar 2024 22:54:37 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/03/25/stanford-bill-to-crack-down-on-predatory-loans-signed-into-law/#:~:text=SB%206025</guid>
 		</item>
 	</channel>
 </rss>

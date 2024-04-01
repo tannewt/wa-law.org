@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/13/2024 [Senate Democrats](/org/senate_democrats/) - [Stanford legislation limiting noncompetition contracts signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/03/13/stanford-legislation-limiting-noncompetition-contracts-signed-into-law/#:~:text=SB%205935)

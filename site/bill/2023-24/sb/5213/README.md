@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/12/2024 [The Seattle Times](/org/the_seattle_times/) - [Key health takeaways from WA’s 2024 legislative session | The Seattle Times](https://www.seattletimes.com/seattle-news/health/key-health-take-aways-from-was-2024-legislative-session/#:~:text=Senate%20Bill%205213)

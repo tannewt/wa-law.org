@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 02/27/2024 [House Democrats](/org/house_democrats/) - [Washington State Legislature Passes Senn Bill to Enhance Adult Family Home Capacity – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/27/washington-state-legislature-passes-senn-bill-to-enhance-adult-family-home-capacity/#:~:text=House%20Bill%202015)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5812/</link>
 		<description>Updates about SB 5812</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 06 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 21 Mar 2024 14:51:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -183,6 +183,20 @@
 			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-06/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-19/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Inslee signs Washington bill directing study of EV fires | Washington | thecentersquare.com</title>
+			<description>News article &quot;Inslee signs Washington bill directing study of EV fires | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Thu, 21 Mar 2024 14:51:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_b8c2e284-e7ae-11ee-9d51-fb11cf98dbb8.html#:~:text=Senate%20Bill%205812</guid>
 		</item>
 	</channel>
 </rss>

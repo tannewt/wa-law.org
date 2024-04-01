@@ -8,8 +8,11 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/26/2024 [Axios](/org/axios/) - [Washington strip clubs will soon allow alcohol - Axios Seattle](https://www.axios.com/local/seattle/2024/03/26/washington-strip-clubs-alcohol-allowed#:~:text=Senate%20Bill%206105)
+* 03/26/2024 [The Center Square](/org/the_center_square/) - [Inslee signs bill allowing liquor at adult entertainment venues | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_eaf7606e-eb95-11ee-a9e8-4bd51358eaa3.html#:~:text=Senate%20Bill%206105)
 * 03/11/2024 [KING5](/org/king5/) - [Seattle nightclub to feature nude dancers, citing suspension of ‘lewd conduct’ law | king5.com](https://www.king5.com/article/news/local/seattle/seattle-nightclub-first-strip-club-washington-state-serve-alcohol/281-58b3683d-ebc7-4337-87ec-c475cbad11da#:~:text=Senate%20Bill%206105)
 * 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=Senate%20Bill%206105)
 * 03/06/2024 [MyNorthwest](/org/mynorthwest/) - [Strippers, book bans, guns: Partisan divide persists in Olympia - MyNorthwest.com](https://mynorthwest.com/3953688/strippers-book-bans-guns-examples-of-partisan-divide-persist-in-olympia/#:~:text=ESSB%206105)

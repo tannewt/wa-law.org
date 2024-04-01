@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/05/2024 [House Democrats](/org/house_democrats/) - [Leavitt bills to support military families and veterans headed to the Governor’s desk.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/05/leavitt-bills-to-support-military-families-and-veterans-headed-to-the-governors-desk/#:~:text=House%20Bill%201862)
