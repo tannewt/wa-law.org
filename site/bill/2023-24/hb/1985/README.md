@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/26/2024 [House Democrats](/org/house_democrats/) - [Timmons bill that provides a cost-of-living increase to retirees signed into law – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/26/timmons-bill-that-provides-a-cost-of-living-increase-to-retirees-signed-into-law/#:~:text=House%20Bill%201985)

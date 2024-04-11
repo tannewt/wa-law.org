@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 01/12/2024 [Senate Democrats](/org/senate_democrats/) - [Liias bill will keep bees safe from dangerous pesticides - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/12/liias-bill-will-keep-bees-safe-from-dangerous-pesticides/#:~:text=Senate%20Bill%205972)

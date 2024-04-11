@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/28/2024 [Crosscut](/org/crosscut/) - [Washington Saves retirement act signed, set to launch in 2027 | Crosscut](https://crosscut.com/briefs/2024/03/washington-saves-retirement-act-signed-set-launch-2027#:~:text=Senate%20Bill%206069)

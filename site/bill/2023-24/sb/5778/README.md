@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/28/2024 [Senate Democrats](/org/senate_democrats/) - [Keiser’s last bill, the Employee Free Choice Act, signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/03/28/keisers-last-bill-the-employee-free-choice-act-signed-into-law/#:~:text=SB%205778)

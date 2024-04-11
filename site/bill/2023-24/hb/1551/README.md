@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/29/2024 [The Seattle Times](/org/the_seattle_times/) - [WA becomes first state to ban lead-contaminated cookware | The Seattle Times](https://www.seattletimes.com/seattle-news/health/wa-becomes-first-state-to-ban-lead-contaminated-cookware/#:~:text=House%20Bill%201551)

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/07/2024 [Senate Democrats](/org/senate_democrats/) - [Transportation budget that prioritizes public safety, preservation and ferries heads to governor’s desk - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/03/07/transportation-budget-that-prioritizes-public-safety-preservation-and-ferries-heads-to-governors-desk/#:~:text=HB%202134)

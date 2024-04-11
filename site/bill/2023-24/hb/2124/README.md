@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/11/2024 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [The 2024 legislative session concluded last week with advancements made on the priorities of United Ways of Washington - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate03112024#:~:text=House%20Bill%202124,)

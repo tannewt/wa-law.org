@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Ways & Means (WM): SB 6106 DSHS competency rest./PSERS

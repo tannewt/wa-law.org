@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2381/</link>
 		<description>Updates about HB 2381</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 25 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 02 Apr 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -152,6 +152,13 @@
 			<pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-25/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signs McEntire legislation to increase flexible school calendar waivers</title>
+			<description>News article &quot;Governor signs McEntire legislation to increase flexible school calendar waivers&quot; from Gorge News Center.</description>
+			<pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/04/02/governor-signs-mcentire-legislation-to-increase-flexible-school-calendar-waivers/#:~:text=House%20Bill%202381</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Community Safety, Justice, & Reentry (CSJR): SSB 6301 Basic law enf. academy

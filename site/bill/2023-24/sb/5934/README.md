@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 02/12/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate approves Padden bill to help pollinators](https://gorgenewscenter.com/2024/02/12/senate-approves-padden-bill-to-help-pollinators/#:~:text=Senate%20Bill%205934)

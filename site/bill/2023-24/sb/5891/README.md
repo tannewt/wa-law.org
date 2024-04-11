@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/12/2024 [Gorge News Center](/org/gorge_news_center/) - [5 Boehnke bills pass legislature](https://gorgenewscenter.com/2024/03/12/5-boehnke-bills-pass-legislature/#:~:text=SB%205891)

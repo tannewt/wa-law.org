@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/29/2024 [The Center Square](/org/the_center_square/) - [Inslee moves Washington a step closer to linking its carbon market to CA-Quebec | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d27cba60-ee11-11ee-9452-c7260579d5db.html#:~:text=Engrossed%20Second%20Substitute%20Senate%20Bill%206058)

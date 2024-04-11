@@ -1,0 +1,264 @@
+[wa-law.org](/) > [bill](/bill/) > [2023-24](/bill/2023-24/) > [HB 2384](/bill/2023-24/hb/2384/) > [Session Law](/bill/2023-24/hb/2384/S.SL/)
+
+# HB 2384 - Traffic safety cameras
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Session%20Laws/House/2384-S.SL.pdf)
+
+## Section 1
+The definitions in this section apply throughout this section and sections 2 through 6 of this act unless the context clearly requires otherwise.
+
+1. "Automated traffic safety camera" means a device that uses a vehicle sensor installed to work in conjunction with an intersection traffic control system, a railroad grade crossing control system, or a speed measuring device, and a camera synchronized to automatically record one or more sequenced photographs, microphotographs, or electronic images of the front or rear of a motor vehicle at the time the vehicle fails to stop when facing a steady red traffic control signal or an activated railroad grade crossing control signal, or exceeds a speed limit as detected by a speed measuring device. "Automated traffic safety camera" also includes a device used to detect stopping at intersection or crosswalk violations; stopping when traffic obstructed violations; public transportation only lane violations; stopping or traveling in restricted lane violations; and public transportation bus stop zone violations detected by a public transportation vehicle-mounted system.
+
+2. "Hospital speed zone" means the marked area within hospital property and extending 300 feet from the border of the hospital property (a) consistent with hospital use; and (b) where signs are posted to indicate the location is within a hospital speed zone, where "hospital" has the same meaning as in RCW 70.41.020.
+
+3. "Public park speed zone" means the marked area within public park property and extending 300 feet from the border of the public park property (a) consistent with active park use; and (b) where signs are posted to indicate the location is within a public park speed zone.
+
+4. "Public transportation vehicle" means any motor vehicle, streetcar, train, trolley vehicle, ferry boat, or any other device, vessel, or vehicle that is owned or operated by a transit authority or an entity providing service on behalf of a transit authority that is used for the purpose of carrying passengers and that operates on established routes. "Transit authority" has the same meaning as provided in RCW 9.91.025.
+
+5. "Roadway work zone" means an area of any city roadway, including state highways that are also classified as city streets under chapter 47.24 RCW, or county road as defined in RCW 46.04.150, with construction, maintenance, or utility work with a duration of 30 calendar days or more. A roadway work zone is identified by the placement of temporary traffic control devices that may include signs, channelizing devices, barriers, pavement markings, and/or work vehicles with warning lights. A roadway work zone extends from the first warning sign or high intensity rotating, flashing, oscillating, or strobe lights on a vehicle to the end road work sign or the last temporary traffic control device or vehicle.
+
+6. "School speed zone" has the same meaning as described in RCW 46.61.440 (1) and (2).
+
+7. "School walk zone" means a roadway identified under RCW 28A.160.160 or roadways within a one-mile radius of a school that students use to travel to school by foot, bicycle, or other means of active transportation.
+
+## Section 2
+1. Nothing in this section prohibits a law enforcement officer from issuing a notice of traffic infraction to a person in control of a vehicle at the time a violation occurs under RCW 46.63.030(1) (a), (b), or (c).
+
+2. Any city or county may authorize the use of automated traffic safety cameras and must adopt an ordinance authorizing such use through its local legislative authority.
+
+3. The local legislative authority must prepare an analysis of the locations within the jurisdiction where automated traffic safety cameras are proposed to be located before adding traffic safety cameras to a new location or relocating any existing camera to a new location within the jurisdiction. The analysis must include equity considerations including the impact of the camera placement on livability, accessibility, economics, education, and environmental health when identifying where to locate an automated traffic safety camera. The analysis must also show a demonstrated need for traffic cameras based on one or more of the following in the vicinity of the proposed camera location: Travel by vulnerable road users, evidence of vehicles speeding, rates of collision, reports showing near collisions, and anticipated or actual ineffectiveness or infeasibility of other mitigation measures.
+
+4. Automated traffic safety cameras may not be used on an on-ramp to a limited access facility as defined in RCW 47.52.010.
+
+5. A city may use automated traffic safety cameras to enforce traffic ordinances in this section on state highways that are also classified as city streets under chapter 47.24 RCW. A city government must notify the department of transportation when it installs an automated traffic safety camera to enforce traffic ordinances as authorized in this subsection.
+
+6. [Empty]
+
+    a. At a minimum, a local ordinance adopted pursuant to this section must contain the restrictions described in this section and provisions for public notice and signage. Cities and counties must also post such restrictions and other automated traffic safety camera policies on the city's or county's website. Cities and counties using automated traffic safety cameras before July 24, 2005, are subject to the restrictions described in this section, but are not required to adopt an authorizing ordinance.
+
+    b. [Empty]
+
+        i. Cities and counties using automated traffic safety cameras must post an annual report on the city's or county's website of the number of traffic crashes that occurred at each location where an automated traffic safety camera is located, as well as the number of notices of infraction issued for each camera. Beginning January 1, 2026, the annual report must include the percentage of revenues received from fines issued from automated traffic safety camera infractions that were used to pay for the costs of the automated traffic safety camera program and must describe the uses of revenues that exceeded the costs of operation and administration of the automated traffic safety camera program by the city or county.
+
+        ii. The Washington traffic safety commission must provide an annual report to the transportation committees of the legislature, and post the report to its website for public access, beginning July 1, 2026, that includes aggregated information on the use of automated traffic safety cameras in the state that includes an assessment of the impact of their use, information required in city and county annual reports under (b)(i) of this subsection, and information on the number of automated traffic safety cameras in use by type and location, with an analysis of camera placement in the context of area demographics and household incomes. To the extent practicable, the commission must also provide in its annual report the number of traffic accidents, speeding violations, single vehicle accidents, pedestrian accidents, and driving under the influence violations that occurred at each location where an automated traffic safety camera is located in the five years before each camera's authorization and after each camera's authorization. Cities and counties using automated traffic safety cameras must provide the commission with the data it requests for the report required under this subsection in a form and manner specified by the commission.
+
+7. All locations where an automated traffic safety camera is used on roadways or intersections must be clearly marked by placing signs at least 30 days prior to activation of the camera in locations that clearly indicate to a driver either that: (a) The driver is within an area where automated traffic safety cameras are authorized; or (b) the driver is entering an area where violations are enforced by an automated traffic safety camera. The signs must be readily visible to a driver approaching an automated traffic safety camera. Signs placed in automated traffic safety camera locations after June 7, 2012, must follow the specifications and guidelines under the manual of uniform traffic control devices for streets and highways as adopted by the department of transportation under chapter 47.36 RCW. All public transportation vehicles utilizing a vehicle-mounted system must post a sign on the rear of the vehicle indicating to drivers that the vehicle is equipped with an automated traffic safety camera to enforce bus stop zone violations.
+
+8. Automated traffic safety cameras may only record images of the vehicle and vehicle license plate and only while an infraction is occurring. The image must not reveal the face of the driver or of passengers in the vehicle. The primary purpose of camera placement is to record images of the vehicle and vehicle license plate when an infraction is occurring. Cities and counties must consider installing automated traffic safety cameras in a manner that minimizes the impact of camera flash on drivers.
+
+9. A notice of infraction must be mailed to the registered owner of the vehicle within 14 days of the violation, or to the renter of a vehicle within 14 days of establishing the renter's name and address under subsection (17) of this section. The notice of infraction must include with it a certificate or facsimile thereof, based upon inspection of photographs, microphotographs, or electronic images produced by an automated traffic safety camera, stating the facts supporting the notice of infraction. This certificate or facsimile is prima facie evidence of the facts contained in it and is admissible in a proceeding charging a violation under this chapter. The photographs, microphotographs, or electronic images evidencing the violation must be available for inspection and admission into evidence in a proceeding to adjudicate the liability for the infraction. A person receiving a notice of infraction based on evidence detected by an automated traffic safety camera may respond to the notice by mail.
+
+10. The registered owner of a vehicle is responsible for an infraction under RCW 46.63.030(1)(d) unless the registered owner overcomes the presumption in RCW 46.63.075, or, in the case of a rental car business, satisfies the conditions under subsection (17) of this section. If appropriate under the circumstances, a renter identified under subsection (17)(a) of this section is responsible for an infraction.
+
+11. Notwithstanding any other provision of law, all photographs, microphotographs, or electronic images, or any other personally identifying data prepared under this section are for the exclusive use of authorized city or county employees, as specified in RCW 46.63.030(1)(d), in the discharge of duties under this section and are not open to the public and may not be used in a court in a pending action or proceeding unless the action or proceeding relates to a violation under this section. No photograph, microphotograph, or electronic image, or any other personally identifying data may be used for any purpose other than enforcement of violations under this section nor retained longer than necessary to enforce this section. Transit authorities must provide to the appropriate local jurisdiction that has authorized traffic safety camera use under section 6(2) of this act any images or evidence collected establishing that a violation of stopping, standing, or parking in a bus stop zone has occurred for infraction processing purposes consistent with this section.
+
+12. If a county or city has established an automated traffic safety camera program as authorized under this section, the compensation paid to the manufacturer or vendor of the equipment used must be based only upon the value of the equipment and services provided or rendered in support of the system and may not be based upon a portion of the fine or civil penalty imposed or the revenue generated by the equipment. If the contract between the city or county and manufacturer or vendor of the equipment does not provide for performance or quality control measures regarding camera images, the city or county must perform a performance audit of the manufacturer or vendor of the equipment every three years to review and ensure that images produced from automated traffic safety cameras are sufficient for evidentiary purposes as described in subsection (9) of this section.
+
+13. [Empty]
+
+    a. Except as provided in (d) of this subsection, a county or a city may only use revenue generated by an automated traffic safety camera program as authorized under this section for:
+
+        i. Traffic safety activities related to construction and preservation projects and maintenance and operations purposes including, but not limited to, projects designed to implement the complete streets approach as defined in RCW 47.04.010, changes in physical infrastructure to reduce speeds through road design, and changes to improve safety for active transportation users, including improvements to access and safety for road users with mobility, sight, or other disabilities; and
+
+        ii. The cost to administer, install, operate, and maintain the automated traffic safety cameras, including the cost of processing infractions.
+
+    b. Except as provided in (d) of this subsection:
+
+        i. The automated traffic safety camera program revenue used by a county or city with a population of 10,000 or more for purposes described in (a)(i) of this subsection must include the use of revenue in census tracts of the city or county that have household incomes in the lowest quartile determined by the most currently available census data and areas that experience rates of injury crashes that are above average for the city or county. Funding contributed from traffic safety program revenue must be, at a minimum, proportionate to the share of the population of the county or city who are residents of these low-income communities and communities experiencing high injury crash rates. This share must be directed to investments that provide direct and meaningful traffic safety benefits to these communities. Revenue used to administer, install, operate, and maintain automated traffic safety cameras, including the cost of processing infractions, are excluded from determination of the proportionate share of revenues under this subsection (13)(b); and
+
+        ii. The automated traffic safety camera program revenue used by a city or county with a population under 10,000 for traffic safety activities under (a)(i) of this subsection must be informed by the department of health's environmental health disparities map.
+
+    c. Except as provided in (d) of this subsection, beginning four years after an automated traffic safety camera authorized under this section is initially placed and in use after the effective date of this section, 25 percent of the noninterest money received for infractions issued by such cameras in excess of the cost to administer, install, operate, and maintain the cameras, including the cost of processing infractions, must be deposited into the Cooper Jones active transportation safety account created in RCW 46.68.480.
+
+    d. [Empty]
+
+        i.(A) Jurisdictions with an automated traffic safety camera program in effect before January 1, 2024, may continue to allocate revenue generated from automated traffic safety cameras authorized under sections 3 and 5(2)(c) of this act as determined by the jurisdiction, as well as for the purposes established in (a) through (c) of this subsection, by:
+
+(I) Up to a 10 percent increase in the number of traffic safety camera locations authorized to detect violations for automated traffic safety cameras authorized under section 3 of this act; and
+
+(II) Up to a 10 percent increase in the number of traffic safety camera locations authorized to detect violations for automated traffic safety cameras authorized under section 5(2)(c) of this act.
+
+(B)(I) Any automated traffic safety camera program in effect before January 1, 2024, with fewer than 10 traffic safety camera locations for automated traffic safety cameras authorized under section 3 of this act, which adds automated traffic safety cameras to one additional location for the use of cameras authorized under section 3 of this act, may continue to allocate revenue generated from automated traffic safety cameras authorized under section 3 of this act as determined by the jurisdiction, as well as for the purposes established in (a) through (c) of this subsection.
+
+(II) Any automated traffic safety camera program in effect before January 1, 2024, with fewer than 10 traffic safety camera locations for automated traffic safety cameras authorized under section 5(2)(c) of this act as of January 1, 2024, which adds automated traffic safety cameras to one additional location for the use of cameras authorized under section 5(2)(c) of this act, may continue to allocate revenue generated from automated traffic safety cameras authorized under section 5(2)(c) of this act as determined by the jurisdiction, as well as for the purposes established in (a) through (c) of this subsection.
+
+(C) For the purposes of this subsection (13)(d)(i), a location is:
+
+(I) An intersection for automated traffic safety cameras authorized under section 3 of this act where cameras authorized under section 3 of this act are in use; and
+
+(II) A school speed zone for automated traffic safety cameras authorized under section 5(2)(c) of this act where cameras authorized under section 5(2)(c) of this act are in use.
+
+        ii. The revenue distribution requirements under (a) through (d)(i) of this subsection do not apply to automated traffic safety camera programs in effect before January 1, 2024, for which an ordinance in effect as of January 1, 2024, directs the manner in which revenue generated from automated traffic safety cameras authorized under section 3 or 5(2)(c) of this act must be used.
+
+14. A county or city may adopt the use of an online ability-to-pay calculator to process and grant requests for reduced fines or reduced civil penalties for automated traffic safety camera violations.
+
+15. Except as provided in this subsection, registered owners of vehicles who receive notices of infraction for automated traffic safety camera-enforced infractions and are recipients of public assistance under Title 74 RCW or participants in the Washington women, infants, and children program, and who request reduced penalties for infractions detected through the use of automated traffic safety camera violations, must be granted reduced penalty amounts of 50 percent of what would otherwise be assessed for a first automated traffic safety camera violation and for subsequent automated traffic safety camera violations issued within 21 days of issuance of the first automated traffic safety camera violation. Eligibility for medicaid under RCW 74.09.510 is not a qualifying criterion under this subsection. Registered owners of vehicles who receive notices of infraction must be provided with information on their eligibility and the opportunity to apply for a reduction in penalty amounts through the mail or internet.
+
+16. Infractions detected through the use of automated traffic safety cameras are not part of the registered owner's driving record under RCW 46.52.101 and 46.52.120. Additionally, infractions generated by the use of automated traffic safety cameras under this section must be processed in the same manner as parking infractions, including for the purposes of RCW 3.50.100, 35.20.220, 46.16A.120, and 46.20.270(2). The amount of the fine issued for an infraction generated through the use of an automated traffic safety camera may not exceed $145, as adjusted for inflation by the office of financial management every five years, beginning January 1, 2029, based upon changes in the consumer price index during that time period, but may be doubled for a school speed zone infraction generated through the use of an automated traffic safety camera.
+
+17. If the registered owner of the vehicle is a rental car business, the issuing agency must, before a notice of infraction being issued under this section, provide a written notice to the rental car business that a notice of infraction may be issued to the rental car business if the rental car business does not, within 18 days of receiving the written notice, provide to the issuing agency by return mail:
+
+    a. A statement under oath stating the name and known mailing address of the individual driving or renting the vehicle when the infraction occurred; or
+
+    b. A statement under oath that the business is unable to determine who was driving or renting the vehicle at the time the infraction occurred because the vehicle was stolen at the time of the infraction. A statement provided under this subsection must be accompanied by a copy of a filed police report regarding the vehicle theft; or
+
+    c. In lieu of identifying the vehicle operator, the rental car business may pay the applicable penalty. Timely mailing of this statement to the issuing agency relieves a rental car business of any liability under this chapter for the notice of infraction.
+
+## Section 3
+1. Automated traffic safety cameras may be used to detect stoplight violations, subject to section 2 of this act.
+
+2. Automated traffic safety cameras used to detect stoplight violations are restricted to intersections of two or more arterials with traffic control signals that have yellow change interval durations in accordance with RCW 47.36.022, which interval durations may not be reduced after placement of the camera.
+
+## Section 4
+1. Automated traffic safety cameras may be used to detect railroad grade crossing violations, subject to section 2 of this act.
+
+2. Automated traffic safety cameras at railroad grade crossings may be used only to detect instances when a vehicle fails to stop when facing an activated railroad grade crossing control signal.
+
+## Section 5
+1. Automated traffic safety cameras may be used to detect speed violations, subject to section 2 of this act.
+
+2. Automated traffic safety cameras may be used to detect speed violations within the following locations:
+
+    a. Hospital speed zones;
+
+    b. Public park speed zones;
+
+    c. School speed zones;
+
+    d. School walk zones;
+
+    e. Roadway work zones, except that a notice of infraction may only be issued if an automated traffic safety camera captures a speed violation when workers are present; and
+
+    f. State highways within city limits that are classified as city streets under chapter 47.24 RCW.
+
+3. In addition to the automated traffic safety cameras that may be authorized for specified zones or roads in subsection (2) of this section, the local legislative authority may authorize the use of one additional automated traffic safety camera per 10,000 population to detect speed violations in locations deemed by the local legislative authority to experience higher crash risks due to excessive vehicle speeds. For automated traffic safety cameras authorized to detect speed violations as part of a pilot program prior to the effective date of this section, the location must be deemed by a local legislative authority to have experienced higher crash risks due to excessive vehicle speeds prior to installation of the automated traffic safety camera.
+
+4. Notices of infraction for automated traffic safety camera-detected speed violations may not be issued to the registered vehicle owner of:
+
+    a. A marked fire engine equipped with emergency lights and siren; or
+
+    b. An ambulance licensed by the department of health and equipped with emergency lights and siren.
+
+## Section 6
+1. [Empty]
+
+    a. Subject to section 2 of this act and as limited in this subsection, automated traffic safety cameras may be used in cities with populations of more than 500,000 residents to detect one or more of the following violations:
+
+        i. Stopping when traffic obstructed violations;
+
+        ii. Stopping at intersection or crosswalk violations;
+
+        iii. Public transportation only lane violations; or
+
+        iv. Stopping or traveling in restricted lane violations.
+
+    b. Use of automated traffic safety cameras as authorized in this subsection (1) is restricted to the following locations only: Intersections as described in section 3(2) of this act; railroad grade crossings; school speed zones; school walk zones; public park speed zones; hospital speed zones; and midblock on arterials. The use of such automated traffic safety cameras is further limited to the following:
+
+        i. The portion of state and local roadways in downtown areas of the city used for office and commercial activities, as well as retail shopping and support services, and that may include mixed residential uses;
+
+        ii. The portion of state and local roadways in areas in the city within one-half mile north of the boundary of the area described in (b)(i) of this subsection;
+
+        iii. Portions of roadway systems in the city that travel into and out of (b)(ii) of this subsection that are designated by the Washington state department of transportation as noninterstate freeways for up to four miles; and
+
+        iv. Portions of roadway systems in the city connected to the portions of the noninterstate freeways identified in (b)(iii) of this subsection that are designated by the Washington state department of transportation as arterial roadways for up to one mile from the intersection of the arterial roadway and the noninterstate freeway.
+
+2. Subject to section 2 of this act, automated traffic safety cameras may also be used in cities with a bus rapid transit corridor or routes to detect public transportation only lane violations.
+
+3. Subject to section 2 of this act, automated traffic safety cameras that are part of a public transportation vehicle-mounted system may be used by a transit authority within a county with a population of more than 1,500,000 residents to detect stopping, standing, or parking in bus stop zone violations if authorized by the local legislative authority with jurisdiction over the transit authority.
+
+4. Subject to section 2 of this act, and in consultation with the department of transportation, automated traffic safety cameras may be used to detect ferry queue violations under RCW 46.61.735.
+
+5. A transit authority may not take disciplinary action regarding a warning or infraction issued pursuant to subsections (1) through (3) of this section against an employee who was operating a public transportation vehicle at the time the violation that was the basis of the warning or infraction was detected.
+
+## Section 7
+1. Each court and government agency located in this state having jurisdiction over standing, stopping, and parking violations, the use of a photo toll system under RCW 46.63.160, the use of automated traffic safety cameras under sections 2 through 6 of this act, and the use of automated school bus safety cameras under RCW 46.63.180 may forward to the department any outstanding:
+
+    a. Standing, stopping, and parking violations;
+
+    b. Civil penalties for toll nonpayment detected through the use of photo toll systems issued under RCW 46.63.160;
+
+    c. Automated traffic safety camera infractions issued under RCW 46.63.030(1)(d); and
+
+    d. Automated school bus safety camera infractions issued under RCW 46.63.030(1)(e).
+
+2. Violations, civil penalties, and infractions described in subsection (1) of this section must be reported to the department in the manner described in RCW 46.20.270(3).
+
+3. The department shall:
+
+    a. Record the violations, civil penalties, and infractions on the matching vehicle records; and
+
+    b. Send notice approximately 120 days in advance of the current vehicle registration expiration date to the registered owner listing the dates and jurisdictions in which the violations, civil penalties, and infractions occurred, the amounts of unpaid fines and penalties, and the surcharge to be collected. Only those violations, civil penalties, and infractions received by the department 120 days or more before the current vehicle registration expiration date will be included in the notice. Violations, civil penalties, and infractions received by the department later than 120 days before the current vehicle registration expiration date that are not satisfied will be delayed until the next vehicle registration expiration date.
+
+4. The department, county auditor or other agent, or subagent appointed by the director shall not renew a vehicle registration if there are any outstanding standing, stopping, and parking violations, and other civil penalties issued under RCW 46.63.160 for the vehicle unless:
+
+    a. The outstanding standing, stopping, or parking violations and civil penalties were received by the department within 120 days before the current vehicle registration expiration;
+
+    b. There is a change in registered ownership; or
+
+    c. The registered owner presents proof of payment of each violation, civil penalty, and infraction provided in this section and the registered owner pays the surcharge required under RCW 46.17.030.
+
+5. The department shall:
+
+    a. Forward a change in registered ownership information to the court or government agency who reported the outstanding violations, civil penalties, or infractions; and
+
+    b. Remove the outstanding violations, civil penalties, and infractions from the vehicle record.
+
+## Section 8
+1. A law enforcement officer has the authority to issue a notice of traffic infraction:
+
+    a. When the infraction is committed in the officer's presence, except as provided in RCW 46.09.485;
+
+    b. When the officer is acting upon the request of a law enforcement officer in whose presence the traffic infraction was committed;
+
+    c. If an officer investigating at the scene of a motor vehicle accident has reasonable cause to believe that the driver of a motor vehicle involved in the accident has committed a traffic infraction;
+
+    d. When the infraction is detected through the use of an automated traffic safety camera under sections 2 through 6 of this act. A trained and authorized civilian employee of a general authority Washington law enforcement agency, as defined in RCW 10.93.020, or an employee of a local public works or transportation department performing under the supervision of a qualified traffic engineer and as designated by a city or county, has the authority to review infractions detected through the use of an automated traffic safety camera under sections 2 through 6 of this act and to issue notices of infraction consistent with section 2(9) of this act. These employees must be sufficiently trained and certified in reviewing infractions and issuing notices of infraction by qualified peace officers or by traffic engineers employed in the jurisdiction's public works or transportation department. Nothing in this subsection impairs decision and effects collective bargaining rights under chapter 41.56 RCW;
+
+    e. When the infraction is detected through the use of an automated school bus safety camera under RCW 46.63.180. A trained and authorized civilian employee of a general authority Washington law enforcement agency, as defined in RCW 10.93.020, or an employee of a local public works or transportation department performing under the supervision of a qualified traffic engineer and as designated by a city or county, has the authority to review infractions detected through the use of an automated school bus safety camera under RCW 46.63.180 and to issue notices of infraction consistent with RCW 46.63.180(1)(b). These employees must be sufficiently trained and certified in reviewing infractions and issuing notices of infraction by qualified peace officers or by traffic engineers employed in the jurisdiction's public works or transportation department. Nothing in this subsection impairs decision and effects collective bargaining rights under chapter 41.56 RCW; or
+
+    f. When the infraction is detected through the use of a speed safety camera system under RCW 46.63.200.
+
+2. A court may issue a notice of traffic infraction upon receipt of a written statement of the officer that there is reasonable cause to believe that an infraction was committed.
+
+3. If any motor vehicle without a driver is found parked, standing, or stopped in violation of this title or an equivalent administrative regulation or local law, ordinance, regulation, or resolution, the officer finding the vehicle shall take its registration number and may take any other information displayed on the vehicle which may identify its user, and shall conspicuously affix to the vehicle a notice of traffic infraction.
+
+4. In the case of failure to redeem an abandoned vehicle under RCW 46.55.120, upon receiving a complaint by a registered tow truck operator that has incurred costs in removing, storing, and disposing of an abandoned vehicle, an officer of the law enforcement agency responsible for directing the removal of the vehicle shall send a notice of infraction by certified mail to the last known address of the person responsible under RCW 46.55.105. The notice must be entitled "LitteringAbandoned Vehicle" and give notice of the monetary penalty. The officer shall append to the notice of infraction, on a form prescribed by the department of licensing, a notice indicating the amount of costs incurred as a result of removing, storing, and disposing of the abandoned vehicle, less any amount realized at auction, and a statement that monetary penalties for the infraction will not be considered as having been paid until the monetary penalty payable under this chapter has been paid and the court is satisfied that the person has made restitution in the amount of the deficiency remaining after disposal of the vehicle.
+
+## Section 9
+1. School districts may install and operate automated school bus safety cameras on school buses to be used for the detection of violations of RCW 46.61.370(1) if the use of the cameras is approved by a vote of the school district board of directors. School districts are not required to take school buses out of service if the buses are not equipped with automated school bus safety cameras or functional automated safety cameras. Further, school districts shall be held harmless from and not liable for any criminal or civil liability arising under the provisions of this section.
+
+    a. Automated school bus safety cameras may only take pictures of the vehicle and vehicle license plate and only while an infraction is occurring. The picture must not reveal the face of the driver or of passengers in the vehicle.
+
+    b. A notice of infraction must be mailed to the registered owner of the vehicle within 14 days of the violation, or to the renter of a vehicle within 14 days of establishing the renter's name and address under subsection (2)(a)(i) of this section. The  notice of infraction must also include a certificate or facsimile of the notice, based upon inspection of photographs, microphotographs, or electronic images produced by an automated school bus safety camera, stating the facts supporting the notice of infraction. This certificate or facsimile is prima facie evidence of the facts contained in it and is admissible in a proceeding charging a violation under this chapter. The photographs, microphotographs, or electronic images evidencing the violation must be available for inspection and admission into evidence in a proceeding to adjudicate the liability for the infraction. A person receiving a notice of infraction based on evidence detected by an automated school bus safety camera may respond to the notice by mail.
+
+    c. The registered owner of a vehicle is responsible for an infraction under RCW 46.63.030(1)(e) unless the registered owner overcomes the presumption in RCW 46.63.075, or, in the case of a rental car business, satisfies the conditions under subsection (2) of this section. If appropriate under the circumstances, a renter identified under subsection (2)(a)(i) of this section is responsible for an infraction.
+
+    d. Notwithstanding any other provision of law, all photographs, microphotographs, or electronic images prepared under this section are for the exclusive use of authorized city or county employees, as specified in RCW 46.63.030(1)(e), in the discharge of duties under this section and are not open to the public and may not be used in a court in a pending action or proceeding unless the action or proceeding relates to a violation under this section. No photograph, microphotograph, or electronic image may be used for any purpose other than enforcement of violations under this section nor retained longer than necessary to enforce this section.
+
+    e. If a school district installs and operates an automated school bus safety camera under this section, the compensation paid to the manufacturer or vendor of the equipment used must be based only upon the value of the equipment and services provided or rendered in support of the system, and may not be based upon a portion of the fine or civil penalty imposed or the revenue generated by the equipment. Further, any repair, replacement, or administrative work costs related to installing or repairing automated school bus safety cameras must be solely paid for by the manufacturer or vendor of the cameras. Before entering into a contract with the manufacturer or vendor of the equipment used under this subsection (1)(e), the school district must follow the competitive bid process as outlined in RCW 28A.335.190(1).
+
+    f. Any revenue collected from infractions detected through the use of automated school bus safety cameras, less the administration and operating costs of the cameras, must be remitted to school districts for school zone safety projects as determined by the school district using the automated school bus safety cameras. The administration and operating costs of the cameras includes infraction enforcement and processing costs that are incurred by local law enforcement or local courts. During the 2013-2015 fiscal biennium, the infraction revenue may also be used for school bus safety projects by those school districts eligible to apply for funding from the school zone safety account appropriation in section 201, chapter 306, Laws of 2013.
+
+2. [Empty]
+
+    a. If the registered owner of the vehicle is a rental car business, the issuing agency shall, before a notice of infraction is issued under this section, provide a written notice to the rental car business that a notice of infraction may be issued to the rental car business if the rental car business does not, within 18 days of receiving the written notice, provide to the issuing agency by return mail:
+
+        i. A statement under oath stating the name and known mailing address of the individual driving or renting the vehicle when the infraction occurred;
+
+        ii. A statement under oath that the business is unable to determine who was driving or renting the vehicle at the time the infraction occurred because the vehicle was stolen at the time of the infraction. A statement provided under this subsection (2)(a)(ii) must be accompanied by a copy of a filed police report regarding the vehicle theft; or
+
+        iii. In lieu of identifying the vehicle operator, the rental car business may pay the applicable penalty.
+
+    b. Timely mailing of a statement under this subsection to the issuing  agency relieves a rental car business of any liability under this chapter for the notice of infraction.
+
+3. For purposes of this section, "automated school bus safety camera" means a device that is affixed to a school bus that is synchronized to automatically record one or more sequenced photographs, microphotographs, or electronic images of the rear of a vehicle at the time the vehicle is detected for an infraction identified in RCW 46.61.370(1).
+
+## Section 10
+1. In a traffic infraction case involving an infraction detected through the use of an automated traffic safety camera under sections 2 through 6 of this act, detected through the use of a speed safety camera system under RCW 46.63.200, or detected through the use of an automated school bus safety camera under RCW 46.63.180, proof that the particular vehicle described in the notice of traffic infraction was in violation of any such provision of sections 2 through 6 of this act or RCW  46.63.200 and 46.63.180, together with proof that the person named in the notice of traffic infraction was at the time of the violation the registered owner of the vehicle, constitutes in evidence a prima facie presumption that the registered owner of the vehicle was the person in control of the vehicle at the point where, and for the time during which, the violation occurred.
+
+2. This presumption may be overcome only if the registered owner states, under oath, in a written statement to the court or in testimony before the court that the vehicle involved was, at the time, stolen or in the care, custody, or control of some person other than the registered owner.
+
+## Section 11
+The Cooper Jones active transportation safety account is created in the state treasury. All receipts from penalties collected under section 2(13)(c) of this act and funds designated by the legislature shall be deposited into the account. Expenditures from the account may be used only to fund grant projects or programs for bicycle, pedestrian, and nonmotorist safety improvement administered by the Washington traffic safety commission. By December 1, 2024, and every two years thereafter, the commission shall report to the transportation committees of the legislature regarding the activities funded from the account. The account is subject to allotment procedures under chapter 43.88 RCW. Moneys in the account may be spent only after appropriation.
+
+## Section 12

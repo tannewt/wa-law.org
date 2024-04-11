@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 02/27/2024 [House Democrats](/org/house_democrats/) - [Riccelli Bill to Expand Preventive Services Passes Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/27/riccelli-bill-to-expand-preventive-services-passes-senate/#:~:text=HB%201957)

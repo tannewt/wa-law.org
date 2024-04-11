@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 02/12/2024 [House Democrats](/org/house_democrats/) - [Rep. Bateman bill addressing behavioral health workforce shortage passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/12/rep-bateman-bill-addressing-behavioral-health-workforce-shortage-passes-house/#:~:text=House%20Bill%202247)

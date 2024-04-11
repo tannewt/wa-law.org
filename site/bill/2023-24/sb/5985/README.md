@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/04/2024 [Crosscut](/org/crosscut/) - [WA legislators are pushing new gun bills. Here’s what could pass | Crosscut](https://crosscut.com/politics/2024/03/wa-legislators-are-pushing-new-gun-bills-heres-what-could-pass#:~:text=Senate%20Bill%205985)

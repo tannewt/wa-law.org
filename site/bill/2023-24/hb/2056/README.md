@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/05/2024 [House Democrats](/org/house_democrats/) - [Goodman legislation to protect Supreme Court justices heads to governor. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/05/goodman-legislation-to-protect-supreme-court-justices-heads-to-governor/#:~:text=House%20Bill%202056)

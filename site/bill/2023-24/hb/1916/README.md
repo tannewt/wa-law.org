@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 02/29/2024 [House Democrats](/org/house_democrats/) - [Senate Passes Senn Bill to Strengthen Early Support for Children with Disabilities – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/29/senate-passes-senn-bill-to-strengthen-early-support-for-children-with-disabilities/#:~:text=House%20Bill%201916)

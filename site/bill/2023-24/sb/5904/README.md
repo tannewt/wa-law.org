@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/04/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Cost-Free College Would Change Lives - So Why Don't We Do It? Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/cost-free-college-wa-what-it-means/#:~:text=SB%205904,)
 * 02/10/2024 [Senate Democrats](/org/senate_democrats/) - [Senate passes Nobles bill aligning eligibility time frames across state, federal financial aid programs - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/09/senate-passes-nobles-bill-aligning-eligibility-time-frames-across-state-federal-financial-aid-programs/#:~:text=Senate%20Bill%205904)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SB%205904)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SB%205904)

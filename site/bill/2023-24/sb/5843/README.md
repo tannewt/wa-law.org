@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/03/2024 [The Seattle Times](/org/the_seattle_times/) - [WA laws aim to detect cyber attacks, protect election workers | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-laws-aim-to-detect-cyber-attacks-protect-election-workers/#:~:text=Senate%20Bill%205843)
+* 04/02/2024 [Gorge News Center](/org/gorge_news_center/) - [As campaigning revs up, WA laws aim to detect cyber attacks and protect election workers](https://gorgenewscenter.com/2024/04/02/as-campaigning-revs-up-wa-laws-aim-to-detect-cyber-attacks-and-protect-election-workers/#:~:text=Senate%20Bill%205843)
 * 03/27/2024 [Gorge News Center](/org/gorge_news_center/) - [Secretary Hobbs lauds new laws to strengthen elections](https://gorgenewscenter.com/2024/03/27/secretary-hobbs-lauds-new-laws-to-strengthen-elections/#:~:text=Senate%20Bill%205843)
 * 03/19/2024 [The Center Square](/org/the_center_square/) - [Inslee gives nonprofit exclusive access to local county election systems | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f2b47a9c-e61a-11ee-86a1-07cdebe3b115.html#:~:text=Senate%20Bill%205843)
 * 03/04/2024 [The Center Square](/org/the_center_square/) - [WA bill gives elections access to nonprofit that aided in social media suppression | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d3e42042-da79-11ee-81f5-9b6d4f7bb3b7.html#:~:text=Senate%20Bill%205843)

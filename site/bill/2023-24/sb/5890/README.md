@@ -8,8 +8,11 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/03/2024 [The Seattle Times](/org/the_seattle_times/) - [WA laws aim to detect cyber attacks, protect election workers | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-laws-aim-to-detect-cyber-attacks-protect-election-workers/#:~:text=Senate%20Bill%205890)
+* 04/02/2024 [Gorge News Center](/org/gorge_news_center/) - [As campaigning revs up, WA laws aim to detect cyber attacks and protect election workers](https://gorgenewscenter.com/2024/04/02/as-campaigning-revs-up-wa-laws-aim-to-detect-cyber-attacks-and-protect-election-workers/#:~:text=Senate%20Bill%205890)
 * 03/27/2024 [Gorge News Center](/org/gorge_news_center/) - [Secretary Hobbs lauds new laws to strengthen elections](https://gorgenewscenter.com/2024/03/27/secretary-hobbs-lauds-new-laws-to-strengthen-elections/#:~:text=Senate%20Bill%205890)
 * 01/16/2024 [Sightline Institute](/org/sightline_institute/) - [Washingtonians May Get a Democracy Upgrade in 2024 - Sightline Institute](https://www.sightline.org/2024/01/16/washingtonians-may-get-a-democracy-upgrade-in-2024#:~:text=SB%205890)
 * 01/16/2024 [Sightline Institute](/org/sightline_institute/) - [Washingtonians May Get a Democracy Upgrade in 2024 - Sightline Institute](https://www.sightline.org/2024/01/16/washingtonians-may-get-a-democracy-upgrade-in-2024/#:~:text=SB%205890)

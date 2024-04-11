@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1508/</link>
 		<description>Updates about HB 1508</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 14 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 03 Apr 2024 21:01:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -543,6 +543,13 @@
 			<pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-14/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>WA Hospitals Failing to Meet Community Investment Requirements Economic Opportunity Institute</title>
+			<description>News article &quot;WA Hospitals Failing to Meet Community Investment Requirements Economic Opportunity Institute&quot; from Economic Opportunity Institute.</description>
+			<pubDate>Wed, 03 Apr 2024 21:01:26 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.opportunityinstitute.org/blog/post/wa-hospitals-falling-behind-community-investment/#:~:text=HB%201508</guid>
 		</item>
 	</channel>
 </rss>

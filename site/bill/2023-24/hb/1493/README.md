@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/07/2024 [Gorge News Center](/org/gorge_news_center/) - [Legislature keeps Padden policy in bill passed to combat impaired driving](https://gorgenewscenter.com/2024/03/07/legislature-keeps-padden-policy-in-bill-passed-to-combat-impaired-driving/#:~:text=House%20Bill%201493)

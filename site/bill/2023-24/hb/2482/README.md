@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/02/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate approves Bipartisan legislation from Harris to assist semiconductor manufacturers](https://gorgenewscenter.com/2024/03/02/senate-approves-bipartisan-legislation-from-harris-to-assist-semiconductor-manufacturers/#:~:text=House%20Bill%202482)

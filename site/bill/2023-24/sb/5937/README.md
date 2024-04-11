@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/26/2024 [Senate Democrats](/org/senate_democrats/) - [Dhingra bills to support survivors of gender-based violence signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/03/26/dhingra-bills-to-support-survivors-of-gender-based-violence-signed-into-law/#:~:text=SB%205937)

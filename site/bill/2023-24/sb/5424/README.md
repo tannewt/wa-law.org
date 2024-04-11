@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 01/18/2024 [KIRO7](/org/kiro7/) - [State bill that would allow flexible work schedule for police officers passes senate – KIRO 7 News Seattle](https://www.kiro7.com/news/local/state-bill-that-would-allow-flexible-work-schedule-police-officers-passes-senate/KSLPOEZJ6NEL7NRUXJ6K6GXX3Y/#:~:text=SB%205424)

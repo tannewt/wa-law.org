@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/27/2024 [House Democrats](/org/house_democrats/) - [Washington Moves to Protect Abortion Medication Providers Amid Escalating Threats – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/27/washington-moves-to-protect-abortion-medication-providers-amid-escalating-threats/#:~:text=House%20Bill%202115)

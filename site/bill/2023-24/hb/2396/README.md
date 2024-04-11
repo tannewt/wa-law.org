@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/29/2024 [The Center Square](/org/the_center_square/) - [Inslee signs bills combating fentanyl, opioid addiction in Washington state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f3e125d0-edf6-11ee-9f10-a72062622aa8.html#:~:text=House%20Bill%202396)

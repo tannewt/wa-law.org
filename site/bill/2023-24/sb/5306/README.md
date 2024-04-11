@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## Meetings
 ### Tue 02/20 10:30 AM - Agriculture and Natural Resources (AGNR): SSB 5306 WDFW disease interdiction

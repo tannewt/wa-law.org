@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 01/19/2024 [The Center Square](/org/the_center_square/) - [Bipartisan bill seeks to boost payments for crops damaged by deer and elk | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b91e0168-b721-11ee-b2c9-3b720d352e41.html#:~:text=Senate%20Bill%205784)

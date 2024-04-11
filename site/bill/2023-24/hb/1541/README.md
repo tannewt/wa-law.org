@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 * [2nd Engrossed 2nd Substitute](S2.E2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/27/2024 [Gorge News Center](/org/gorge_news_center/) - [Gov. Signs Farivar Bills into Law to Empowering Communities, Supporting Child Sex Abuse Survivors & Addressing Antitrust Practices](https://gorgenewscenter.com/2024/03/27/gov-signs-farivar-bills-into-law-to-empowering-communities-supporting-child-sex-abuse-survivors-addressing-antitrust-practices/#:~:text=1541)

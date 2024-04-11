@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 04/10/2024 [The Urbanist](/org/the_urbanist/) - [Heroes and Zeroes of the 2024 Washington State Legislature - The Urbanist](https://www.theurbanist.org/2024/04/10/heroes-and-zeroes-of-the-2024-washington-state-legislature/#:~:text=House%20Bill%202474)
 * 03/15/2024 [The Seattle Times](/org/the_seattle_times/) - [Bill to hold WA cities accountable for affordable housing could return | The Seattle Times](https://www.seattletimes.com/seattle-news/homeless/bill-to-hold-wa-cities-accountable-for-affordable-housing-could-return/#:~:text=House%20Bill%202474)
 * 03/11/2024 [The Urbanist](/org/the_urbanist/) - [Year of Housing 2.0 Mostly Fizzles Out at Washington Legislature - The Urbanist](https://www.theurbanist.org/2024/03/11/year-of-housing-2-0-mostly-fizzles-out-at-washington-legislature/#:~:text=House%20Bill%202474)
 * 02/15/2024 [The Seattle Times](/org/the_seattle_times/) - [Why Plymouth Housing project didn’t work in Kenmore | The Seattle Times](https://www.seattletimes.com/opinion/why-plymouth-housing-project-didnt-work-in-kenmore/#:~:text=House%20Bill%202474)

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/21/2024 [Sightline Institute](/org/sightline_institute/) - [Washingtonians Will Soon Enjoy Cleaner Heating and Cooling Options - Sightline Institute](https://www.sightline.org/2024/03/21/washingtonians-will-soon-enjoy-cleaner-heating-and-cooling-options/#:~:text=House%20Bill%202131)

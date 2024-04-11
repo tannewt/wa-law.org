@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 01/29/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Fosse Bill Expands Construction Apprenticeship Opportunities for Incarcerated Individuals – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/29/legislative-news-fosse-bill-expands-construction-apprenticeship-opportunities-for-incarcerated-individuals/#:~:text=House%20Bill%202084)

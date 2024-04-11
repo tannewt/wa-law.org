@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5790/</link>
 		<description>Updates about SB 5790</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 11 Mar 2024 11:59:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 29 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -285,6 +285,13 @@
 			<pubDate>Mon, 11 Mar 2024 11:59:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=Senate%20Bill%205790</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-29/Effective date 6/6/2024.</guid>
 		</item>
 	</channel>
 </rss>

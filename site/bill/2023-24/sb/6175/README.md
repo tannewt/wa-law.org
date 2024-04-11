@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 * [Passed Legislature](S2.PL/)
+* [Session Law](S2.SL/)
 
 ## 📰 Articles
 * 03/16/2024 [The Urbanist](/org/the_urbanist/) - [Harrell Rolls Out Incentive Proposal for Converting Offices to Housing - The Urbanist](https://www.theurbanist.org/2024/03/16/harrell-rolls-out-incentive-proposal-for-converting-offices-to-housing/#:~:text=6175)

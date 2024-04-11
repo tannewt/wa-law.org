@@ -12,6 +12,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/03/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [WA Hospitals Failing to Meet Community Investment Requirements Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/wa-hospitals-falling-behind-community-investment/#:~:text=HB%201508)
 * 02/11/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 6: Floor wraps up and budgets start to emerge - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/11/this-week-in-the-senate-week-6-floor-wraps-up-and-budgets-start-to-emerge/#:~:text=HB%201508)
 * 12/15/2023 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2024 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2024-legislative-agenda/#:~:text=HB%201508)
 * 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Progress - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2023-legislative-progress/#:~:text=HB%201508)

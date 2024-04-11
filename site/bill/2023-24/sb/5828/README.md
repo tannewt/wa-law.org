@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 02/29/2024 [House Democrats](/org/house_democrats/) - [Shewmake and Timmons send bills to the governor’s desk that will add support for Whatcom County Superior Court  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/29/shewmake-and-timmons-send-bills-to-the-governors-desk-that-will-add-support-for-whatcom-county-superior-court/#:~:text=Senate%20Bill%205828)

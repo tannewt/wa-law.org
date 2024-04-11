@@ -8,8 +8,11 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/09/2024 [The Center Square](/org/the_center_square/) - [The uncertain future of natural gas in Washington state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_297d6c46-f69c-11ee-93ab-f3947ebf1a46.html#:~:text=House%20Bill%201589)
+* 04/01/2024 [The Center Square](/org/the_center_square/) - [Does a new Washington state law ban natural gas, or is that claim 'misinformation'? | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4496751c-f071-11ee-8146-73fac6fee36b.html#:~:text=Engrossed%20Substitute%20House%20Bill%201589)
 * 03/30/2024 [MyNorthwest](/org/mynorthwest/) - [Inslee signs controversial natural gas bill into law - MyNorthwest.com](https://mynorthwest.com/3956123/inslee-signs-natural-gas-bill-into-law-critics-say-it-comes-at-expense-of-customers/#:~:text=Engrossed%20Substitute%20House%20Bill%201589%20(ESHB%201589))
 * 03/29/2024 [The Center Square](/org/the_center_square/) - [BIAW: Repealing the CCA won't eliminate new natural gas phaseout law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6d141884-edef-11ee-9815-cf5c7fe20ac3.html#:~:text=Engrossed%20Substitute%20House%20Bill%201589)
 * 03/29/2024 [FOX13](/org/fox13/) - [Gov. Inslee signs controversial decarbonization bill](https://www.fox13seattle.com/news/gov-inslee-signs-controversial-decarbonization-bill#:~:text=House%20Bill%201589)

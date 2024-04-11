@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 02/29/2024 [The Seattle Times](/org/the_seattle_times/) - [Don’t let another legislative session  pass without a catalytic converter bill | The Seattle Times](https://www.seattletimes.com/opinion/editorials/dont-let-another-legislative-session-pass-without-a-catalytic-converter-bill/#:~:text=House%20Bill%202153)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1946/</link>
 		<description>Updates about HB 1946</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 05 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 29 Mar 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -326,6 +326,13 @@
 			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-05/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Effective date 6/6/2024.</title>
+			<description>Effective date 6/6/2024.</description>
+			<pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-29/Effective date 6/6/2024.</guid>
 		</item>
 	</channel>
 </rss>

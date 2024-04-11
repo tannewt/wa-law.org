@@ -7,8 +7,11 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/03/2024 [The Seattle Times](/org/the_seattle_times/) - [WA laws aim to detect cyber attacks, protect election workers | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-laws-aim-to-detect-cyber-attacks-protect-election-workers/#:~:text=House%20Bill%201241)
+* 04/02/2024 [Gorge News Center](/org/gorge_news_center/) - [As campaigning revs up, WA laws aim to detect cyber attacks and protect election workers](https://gorgenewscenter.com/2024/04/02/as-campaigning-revs-up-wa-laws-aim-to-detect-cyber-attacks-and-protect-election-workers/#:~:text=House%20Bill%201241)
 * 03/27/2024 [Gorge News Center](/org/gorge_news_center/) - [Secretary Hobbs lauds new laws to strengthen elections](https://gorgenewscenter.com/2024/03/27/secretary-hobbs-lauds-new-laws-to-strengthen-elections/#:~:text=House%20Bill%201241)
 * 03/26/2024 [House Democrats](/org/house_democrats/) - [Leavitt bill to protect election workers signed into law.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/26/leavitt-bill-to-protect-election-workers-signed-into-law/#:~:text=House%20Bill%201241)
 * 02/23/2024 [NW News Network](/org/nw_news_network/) - [Budgets, initiative hearings top agenda in week 7 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-23/budgets-initiative-hearings-top-agenda-in-week-7-of-washingtons-legislative-session#:~:text=House%20Bill%201241)

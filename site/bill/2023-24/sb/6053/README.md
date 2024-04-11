@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/05/2024 [Gorge News Center](/org/gorge_news_center/) - [Legislature OKs Holy bill aiming to help high-school students attend college](https://gorgenewscenter.com/2024/03/05/legislature-oks-holy-bill-aiming-to-help-high-school-students-attend-college/#:~:text=Senate%20Bill%206053)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 02/27/2024 [House Democrats](/org/house_democrats/) - [Senate Passes Mena Bill Establishing Pay Equity for All Protected Classes in Washington  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/27/senate-passes-mena-bill-establishing-pay-equity-for-all-protected-classes-in-washington/#:~:text=House%20Bill%201905)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/25/2024 [The Seattle Times](/org/the_seattle_times/) - [Legislature passes bills that may help King County’s budget crisis | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/help-from-olympia-could-ease-king-county-budget-crisis-if-property-taxes-rise/#:~:text=House%20Bill%202348)

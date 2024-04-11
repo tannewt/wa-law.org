@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 * [Passed Legislature](S.PL/)
+* [Session Law](S.SL/)
 
 ## 📰 Articles
 * 03/29/2024 [FOX13](/org/fox13/) - [WA bill to bring more traffic cameras across the state](https://www.fox13seattle.com/news/newly-passed-bill-to-bring-more-traffic-cameras-across-washington#:~:text=House%20Bill%202384)
