@@ -56,7 +56,7 @@ Testifying:
 #### 445 👍 - Pro
 Testifying:
 * Richard Pope - Parent of Isolation Survivor
-* Oliver Miska - WAESN
+* 💵Oliver Miska - WAESN
 * Samantha Fogg - Seattle Council PTSA Immediate Past President
 * 💵Ramona Hattendorf
 * melissa spiker - Seattle Special Education PTSA
@@ -96,7 +96,7 @@ Testifying:
 * Samantha Fogg - Seattle Council PTSA
 * Jennifer Crespi - WA PTA
 * Susan Driscoll - Crisis Prevention Institute
-* Oliver Miska - WAESN
+* 💵Oliver Miska - WAESN
 * 💵Andrea Kadlec - [Disability Rights Washington](/org/disability_rights_washington/)
 * 💵Roxana Gomez - ACLU of Washington
 * Sarah Butcher - Roots of Inclusion

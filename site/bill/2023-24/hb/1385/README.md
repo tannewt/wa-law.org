@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 04/12/2024 [The Seattle Times](/org/the_seattle_times/) - [More transparency needed for WA police asset seizures, audit says | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/more-transparency-needed-for-wa-police-asset-seizures-audit-says/#:~:text=House%20Bill%201385)
+
 ## Meetings
 ### Tue 01/31 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1385 Civil forfeiture proceedings
 #### 5 👍 - Pro

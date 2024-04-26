@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/05/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [As campaigning revs up, WA laws aim to detect cyber attacks and protect election workers | Cascadia Daily News](https://www.cascadiadaily.com/2024/apr/05/as-campaigning-revs-up-wa-laws-aim-to-detect-cyber-attacks-and-protect-election-workers/#:~:text=Senate%20Bill%205890)
 * 04/03/2024 [The Seattle Times](/org/the_seattle_times/) - [WA laws aim to detect cyber attacks, protect election workers | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-laws-aim-to-detect-cyber-attacks-protect-election-workers/#:~:text=Senate%20Bill%205890)
 * 04/02/2024 [Gorge News Center](/org/gorge_news_center/) - [As campaigning revs up, WA laws aim to detect cyber attacks and protect election workers](https://gorgenewscenter.com/2024/04/02/as-campaigning-revs-up-wa-laws-aim-to-detect-cyber-attacks-and-protect-election-workers/#:~:text=Senate%20Bill%205890)
 * 03/27/2024 [Gorge News Center](/org/gorge_news_center/) - [Secretary Hobbs lauds new laws to strengthen elections](https://gorgenewscenter.com/2024/03/27/secretary-hobbs-lauds-new-laws-to-strengthen-elections/#:~:text=Senate%20Bill%205890)

@@ -27,5 +27,5 @@ Testifying:
 
 #### 4 ❓ - Other
 Testifying:
-* Tracy Dr. Castro-Gill - Washington Ethnic Studies Now
-* Oliver Miska - WAESN
+* Tracy Dr. Castro-Gill - [Washington Ethnic Studies Now](/org/washington_ethnic_studies_now/)
+* 💵Oliver Miska - WAESN

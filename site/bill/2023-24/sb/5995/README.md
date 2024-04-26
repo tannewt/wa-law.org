@@ -28,7 +28,7 @@ Testifying:
 * Kate White Tudor - WA Association for community health
 * Beau Perschbacher - WA Dept. of Licensing
 * Natalya Mytareva - Certification Commission for Healthcare Interpreters
-* Alyssa Patrick - [Washington Association for Community Health](/org/washington_association_for_community_health/)
+* 💵Alyssa Patrick - [Washington Association for Community Health](/org/washington_association_for_community_health/)
 
 ### Mon 01/15 10:30 AM - Labor & Commerce (LC): SB 5995 Interpreters and translators
 #### 11 👍 - Pro

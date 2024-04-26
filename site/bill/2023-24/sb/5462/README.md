@@ -110,7 +110,7 @@ Testifying:
 * Anna Hernandez-French - Office of Superintendent of Public Instruction
 * Dr. Karen Bolton
 * Dr. Karen Bolton
-* Oliver Miska - WAESN
+* 💵Oliver Miska - WAESN
 * Sara Betnel
 * Devon Kellogg - Washington State PTA
 * Natasha Kalombo - Legislative Youth Advisory Council

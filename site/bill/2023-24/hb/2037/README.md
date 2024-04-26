@@ -45,13 +45,13 @@ Testifying:
 * Naveed Siddiqui
 * Ala Hassan
 * Leslie Maxwell
-* Oliver Miska - Washington Ethnic Studies Now
+* 💵Oliver Miska - [Washington Ethnic Studies Now](/org/washington_ethnic_studies_now/)
 * Zahid Chaudhry
 * Osama Emara
 * Khaled Mohamed
 * Khaled Mohamed
 * Zahid Chaudhry
-* Tracy Dr. Castro-Gill - Washington Ethnic Studies Now
+* Tracy Dr. Castro-Gill - [Washington Ethnic Studies Now](/org/washington_ethnic_studies_now/)
 * Nizama Djuderija
 * Muhammed Ibrahim
 * Hira Niaz

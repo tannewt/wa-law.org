@@ -10,6 +10,8 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 04/12/2024 [NW News Network](/org/nw_news_network/) - [Money, politics, debate over crime victims: What's stalling prison reforms in Olympia | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-04-12/money-politics-debate-over-crime-victims-whats-stalling-prison-reforms-in-olympia#:~:text=House%20Bill%202065)
+* 04/12/2024 [KUOW](/org/kuow/) - [KUOW - Money, politics, debate over crime victims: What's stalling prison reforms in Olympia](https://www.kuow.org/stories/money-politics-debate-over-crime-victims-what-s-stalling-prison-reforms-in-olympia#:~:text=House%20Bill%202065)
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%202065)
 * 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%202065)
 * 02/13/2024 [The Center Square](/org/the_center_square/) - [Felon rights bills divide lawmakers but move forward in Olympia | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_bfd9d64c-cac4-11ee-8622-4bb2d43796b2.html#:~:text=House%20Bill%202065)

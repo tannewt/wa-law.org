@@ -181,7 +181,7 @@ Testifying:
 * Carolyn Driscoll - The Sequoia Assisted Living Community
 * 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
 * 💵John Ficker - [Adult Family Home Council](/org/adult_family_home_council/)
-* Oliver Miska
+* 💵Oliver Miska
 * Shannon Dorsey
 * Beth Ebel - WA Chapter of the American Academy of Pediatrics
 * Heidi Suarez

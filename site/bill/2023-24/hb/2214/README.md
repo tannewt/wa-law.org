@@ -39,7 +39,7 @@ Testifying:
 * Annette Anderson - Black Education Strategy Roundtable
 * Daniel Ngoy - Bellevue College ASG
 * Yokiko Hayashi-Saguil - Washington State Board for Community and Technical Colleges
-* Kyra Sung - South Puget Sound Community College AS
+* 💵Kyra Sung - South Puget Sound Community College AS
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 * Susan Dynarski
 

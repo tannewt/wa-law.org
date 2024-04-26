@@ -33,7 +33,7 @@ Testifying:
 * 💵Summer Stinson - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Mike Yestramski - WFSE
 * Martha Burke
-* Oliver Miska - WAESN
+* 💵Oliver Miska - WAESN
 * E. Bailey Medilo
 * 💵Hyeeun Park - BIPOC Executive Directors Coalition
 * 💵Karen Strickland - American Federation of Teachers (AFT)

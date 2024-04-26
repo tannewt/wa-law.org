@@ -27,7 +27,7 @@ Testifying:
 * Sophia Arnold
 * Bernadette Jungblut - Central Washington University Faculty
 * Jacob Vigdor - University of Washington Faculty
-* Kaitlynn Albenesius - Legislative Liaison for District of Pierce College
+* 💵Kaitlynn Albenesius - Legislative Liaison for District of Pierce College
 * Bellana Bogar - President of the Young Democrats at WSU
 * Amanda Kost - [University of Washington](/org/university_of_washington/)
 * Meredith Massey

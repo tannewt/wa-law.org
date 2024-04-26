@@ -18,7 +18,7 @@
 #### 27 👍 - Pro
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
-* Kyra Sung - AS Leg Liaison South Puget Sound Community College
+* 💵Kyra Sung - AS Leg Liaison South Puget Sound Community College
 
 #### 4 👎 - Con
 

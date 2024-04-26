@@ -38,7 +38,7 @@ Testifying:
 ### Wed 01/10 10:30 AM - Early Learning & K-12 Education (EDU): SB 5789 School projects/sales tax
 #### 4 👍 - Pro
 Testifying:
-* Oliver Miska
+* 💵Oliver Miska
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Charlie Brown - South Sound School Districts
 

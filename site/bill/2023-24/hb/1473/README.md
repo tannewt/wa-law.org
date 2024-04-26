@@ -42,7 +42,7 @@ Testifying:
 * Stephan Blanford - [Children's Alliance](/org/children's_alliance/)
 * 💵Denisse Guerrero - WA Community Alliance
 * 💵Hyeeun Park - BIPOC Executive Directors Coalition
-* Oliver Miska
+* 💵Oliver Miska
 * Ananda Valenzuela - BIPOC ED Coalition of WA
 * 💵Emily Vyhnanek - Working Families Tax Credit Coalition & Washington State Budget & Policy Center
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)

@@ -83,7 +83,7 @@ Testifying:
 ### Tue 01/16 01:30 PM - Postsecondary Education & Workforce (PEW): HB 2112 Higher ed. opioid prevention
 #### 33 👍 - Pro
 Testifying:
-* Kaitlynn Albenesius - Legislative Liaison for District of Pierce College
+* 💵Kaitlynn Albenesius - Legislative Liaison for District of Pierce College
 * Melissa Beard - Council of Presidents
 * Amanda Kost
 * 💵Collin Bannister - The Associated Students of Washington State University

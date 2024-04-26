@@ -85,7 +85,7 @@ Testifying:
 
 #### 7 ❓ - Other
 Testifying:
-* Oliver Miska - WAESN
+* 💵Oliver Miska - WAESN
 * Liv Finne - Washington Policy Center
 * Joy Gjersvold - Conservative Ladies of Washington
 * Katherine George - Johnston George LLP

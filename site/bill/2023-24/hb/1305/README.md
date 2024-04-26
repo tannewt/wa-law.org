@@ -41,7 +41,7 @@ Testifying:
 * Jana Parker - Seattle Special Education PTSA
 * Samantha Fogg - Seattle Council PTSA
 * 💵Karen Pillar - TeamChild
-* Tracy Castro-Gill - Washington Ethnic Studies Now
+* Tracy Castro-Gill - [Washington Ethnic Studies Now](/org/washington_ethnic_studies_now/)
 * melissa spiker
 * Lisa BRODOFF - Seattle University Clinical Law Program
 * 💵Diana Stadden - The Arc of WA State

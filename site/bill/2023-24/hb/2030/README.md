@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 04/17/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Andrew Barkis issues statement after protesters illegally block access to Sea-Tac Airport](https://gorgenewscenter.com/2024/04/17/rep-andrew-barkis-issues-statement-after-protesters-illegally-block-access-to-sea-tac-airport/#:~:text=House%20Bill%202030)
 * 02/19/2024 [House Republicans](/org/house_republicans/) - [Initiatives, bill updates, state budgets, and the week ahead | Washington State House Republicans](http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%202030)
 * 01/21/2024 [KIRO7](/org/kiro7/) - [Debate over criminals’ right to vote intensifies in Olympia – KIRO 7 News Seattle](https://www.kiro7.com/news/local/debate-over-criminals-right-vote-intensifies-olympia/VEEEVB72NJDJJBZMVYUM5NLSRQ/#:~:text=House%20Bill%202030%20(HB%202030))
 * 01/20/2024 [The Spokesman-Review](/org/the_spokesman-review/) - [Spin Control: Proposal to let Washington prison inmates vote sparks heated panel discussion | The Spokesman-Review](https://www.spokesman.com/stories/2024/jan/20/spin-control-proposal-to-let-washington-prison-inm/#:~:text=House%20Bill%202030,)

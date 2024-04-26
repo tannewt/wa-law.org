@@ -39,4 +39,4 @@ Testifying:
 #### 3 ❓ - Other
 Testifying:
 * 💵Darbi Gottlieb - AdvaMed
-* 💵Michael Transue - Oregon Bioscience Association
+* 💵Michael Transue - [Oregon Bioscience Association](/org/oregon_bioscience_association/)

@@ -60,4 +60,4 @@
 
 ## [SB 5995](/bill/2023-24/sb/5995/) - Interpreters and translators   ❓2
 * ❓ Kate White Tudor
-* ❓ Alyssa Patrick
+* ❓💵 Alyssa Patrick

@@ -28,11 +28,11 @@ Testifying:
 * Micah Fitzgerald - Washington State Youth Advisory Council
 * Natasha Kalombo - Legislative Youth Advisory Council
 * Stacy Osoria - Legislative Youth Advisory Council
-* Tara Ryan - Washington Ethnic Studies Now
+* Tara Ryan - [Washington Ethnic Studies Now](/org/washington_ethnic_studies_now/)
 * Sherri Nagamine - Justice for Girls Coalition
 * Anna Hernandez-French - OSPI
 * Janae Larsen - n/a
-* Tara Ryan - Washington Ethnic Studies Now
+* Tara Ryan - [Washington Ethnic Studies Now](/org/washington_ethnic_studies_now/)
 * Beth Halpern
 * Vicki Skeels
 * Noah Aquino

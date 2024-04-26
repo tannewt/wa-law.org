@@ -28,9 +28,9 @@ Testifying:
 #### 433 👎 - Con
 Testifying:
 * Samantha Field - Coalition for Responsible Home Education
-* Tracy Castro-Gill - Washington Ethnic Studies Now
+* Tracy Castro-Gill - [Washington Ethnic Studies Now](/org/washington_ethnic_studies_now/)
 * Denise Michaels
-* Oliver Miska
+* 💵Oliver Miska
 * Vicki Skeels
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 

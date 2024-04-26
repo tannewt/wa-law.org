@@ -35,7 +35,7 @@ Testifying:
 ### Thu 03/09 01:30 PM - Early Learning & K-12 Education (EDU): ESHB 1377 Continuing education/K-12
 #### 15 👍 - Pro
 Testifying:
-* Oliver Miska
+* 💵Oliver Miska
 * 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * Doug Rich - Catholic Diocese of Yakima
 * 💵Zackary Turner - [Professional Educator Standards Board](/org/professional_educator_standards_board/)

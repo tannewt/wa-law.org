@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/23/2024 [The Seattle Times](/org/the_seattle_times/) - [How to garden with pollinators in mind this spring | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/how-to-garden-with-pollinators-in-mind-this-spring/#:~:text=Senate%20Bill%205972)
 * 01/12/2024 [Senate Democrats](/org/senate_democrats/) - [Liias bill will keep bees safe from dangerous pesticides - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/12/liias-bill-will-keep-bees-safe-from-dangerous-pesticides/#:~:text=Senate%20Bill%205972)
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%205972)
 

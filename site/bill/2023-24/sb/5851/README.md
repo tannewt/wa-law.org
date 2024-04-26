@@ -40,7 +40,7 @@ Testifying:
 * Nomy Lamm - JVP Olympia
 * Osama Emara
 * Nizama Djuderija - BAI
-* Oliver Miska - WAESN
+* 💵Oliver Miska - WAESN
 * Leslie Maxwell
 * Sarah Karim
 * Ella Hassan
@@ -79,8 +79,8 @@ Testifying:
 
 #### 87 👎 - Con
 Testifying:
-* Tracy Dr. Castro-Gill - Washington Ethnic Studies Now
-* Oliver Miska
+* Tracy Dr. Castro-Gill - [Washington Ethnic Studies Now](/org/washington_ethnic_studies_now/)
+* 💵Oliver Miska
 * Mohamad Bin Bin Zohor - Rohingya
 * Omar Mehilba
 * Ahmed Nada

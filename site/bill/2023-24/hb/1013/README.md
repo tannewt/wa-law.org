@@ -34,7 +34,7 @@ Testifying:
 Testifying:
 * Jim Stoffer - Public School Advocate of Sequim
 * 💵Josh Weiss - Snohomish County
-* Oliver Miska
+* 💵Oliver Miska
 * Nick Massie - Southwest WA Contractors Assoc.
 * Jim Kowalkowski - Rural Education Center
 * Jennifer Heine-Withee - Family Policy Institute of Washington

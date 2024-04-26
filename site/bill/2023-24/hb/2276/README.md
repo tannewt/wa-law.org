@@ -28,7 +28,7 @@ Testifying:
 * Cathy Murahashi - The Arc of Washington
 * Marc Cote - Parkview Services
 * Scott Livengood - Alpha Supported Living
-* Oliver Miska
+* 💵Oliver Miska
 * Patience Malaba - Sound Communities/Housing Development Consortium of Seattle-King County
 * Georgia Spiropoulos - Equiscript
 * 💵Shawn Latham - Self Advocates In Leadership
