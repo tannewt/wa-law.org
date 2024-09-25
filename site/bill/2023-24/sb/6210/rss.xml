@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6210/</link>
 		<description>Updates about SB 6210</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 26 Jan 2024 08:43:55 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 24 May 2024 12:34:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -189,6 +189,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Constance/Nelson/2024-01-26 08:43:55</guid>
+		</item>
+		<item>
+			<title>King County councilmember seeks funding to address unlawful detainer case backlog | Washington | thecentersquare.com</title>
+			<description>News article &quot;King County councilmember seeks funding to address unlawful detainer case backlog | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Fri, 24 May 2024 12:34:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_59e1ea3a-19e5-11ef-a966-c38cd854c18b.html#:~:text=Senate%20Bill%206210</guid>
 		</item>
 	</channel>
 </rss>

@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 05/21/2024 [The Urbanist](/org/the_urbanist/) - [Seattle Proposes Co-Living Ordinance Seeking to Meet New State Mandate - The Urbanist](https://www.theurbanist.org/2024/05/21/seattle-proposes-co-living-ordinance/#:~:text=House%20Bill%201998)
 * 04/10/2024 [The Urbanist](/org/the_urbanist/) - [Heroes and Zeroes of the 2024 Washington State Legislature - The Urbanist](https://www.theurbanist.org/2024/04/10/heroes-and-zeroes-of-the-2024-washington-state-legislature/#:~:text=ill%201998)
 * 03/28/2024 [Sightline Institute](/org/sightline_institute/) - [Washington’s 2024 Short-Session Housing Wins - Sightline Institute](https://www.sightline.org/2024/03/28/washingtons-2024-short-session-housing-wins/#:~:text=HB%201998)
 * 03/20/2024 [Gorge News Center](/org/gorge_news_center/) - [Inslee Signs Gregerson Bill Expanding Affordable Housing Options](https://gorgenewscenter.com/2024/03/20/inslee-signs-gregerson-bill-expanding-affordable-housing-options/#:~:text=Engrossed%20Substitute%20House%20Bill%201998)

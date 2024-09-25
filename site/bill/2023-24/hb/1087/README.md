@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 08/29/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Millions spent to reduce solitary confinement in Washington produces few visible results | Cascadia Daily News](https://www.cascadiadaily.com/2024/aug/29/millions-spent-to-reduce-solitary-confiment-in-washington-produces-few-visible-results/#:~:text=House%20Bill%201087)
 * 04/12/2024 [NW News Network](/org/nw_news_network/) - [Money, politics, debate over crime victims: What's stalling prison reforms in Olympia | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-04-12/money-politics-debate-over-crime-victims-whats-stalling-prison-reforms-in-olympia#:~:text=House%20Bill%201087,)
 * 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=House%20Bill%201087)
 * 02/09/2024 [KUOW](/org/kuow/) - [KUOW - Passing bills, bills, bills: Highlights from week 5 in the WA Legislature](https://www.kuow.org/stories/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=House%20Bill%201087)

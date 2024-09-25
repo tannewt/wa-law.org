@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 06/04/2024 [The Center Square](/org/the_center_square/) - [Washington starts nationwide search for electric ferry builders | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_19955b46-229c-11ef-b8f9-6771a16e5e05.html#:~:text=House%20Bill%201846)
 * 04/18/2023 [The Center Square](/org/the_center_square/) - [Bill to buy new ferries sails out of the WA Legislature to governor’s desk | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5fe07bc2-de3b-11ed-a3af-9b25c00db609.html#:~:text=Engrossed%20House%20Bill%201846)
 * 04/18/2023 [House Democrats](/org/house_democrats/) - [Fey’s ferry bill now heads to the Governor’s desk – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/18/feys-ferry-bill-now-heads-to-the-governors-desk/#:~:text=HB%201846)
 * 04/17/2023 [The Seattle Times](/org/the_seattle_times/) - [Beached ferry reminder of WA’s aging fleet as state struggles to replace boats | The Seattle Times](https://www.seattletimes.com/seattle-news/transportation/beached-ferry-reminder-of-was-aging-fleet-as-state-struggles-to-replace-boats/#:~:text=House%20Bill%201846)

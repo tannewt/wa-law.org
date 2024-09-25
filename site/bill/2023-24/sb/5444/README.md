@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/06/2024 [The Center Square](/org/the_center_square/) - [Open-carry now banned in WA transit stations, libraries, zoos | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_73352384-2436-11ef-adf4-dbdf00a51eaa.html#:~:text=SB%205444)
 * 03/27/2024 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | CAIR-WA Urges NWDC Ramadan Accommodations; Alexis Mercedes Rinck Eyes City Council Seat 8 | South Seattle Emerald](https://southseattleemerald.com/2024/03/27/news-gleams-cair-wa-urges-nwdc-ramadan-accommodations-alexis-mercedes-rinck-eyes-city-council-seat-8/#:~:text=Senate%20Bill%205444)
 * 03/27/2024 [The Center Square](/org/the_center_square/) - [Inslee signs legislation expanding places where guns are banned | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_efff7e3e-ec67-11ee-b20b-074323800618.html#:~:text=Senate%20Bill%205444)
 * 03/26/2024 [The Seattle Times](/org/the_seattle_times/) - [Inslee signs new gun laws, including ban at transit facilities, libraries | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/inslee-signs-new-gun-laws-including-ban-at-transit-facilities-libraries/#:~:text=Senate%20Bill%205444)

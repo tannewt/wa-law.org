@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/08/2024 [The Center Square](/org/the_center_square/) - [New WA law gives green light to more red light and speed zone cameras | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ca142f92-3d59-11ef-9a9c-4b9da64c2b6b.html#:~:text=House%20Bill%202384)
 * 03/29/2024 [FOX13](/org/fox13/) - [WA bill to bring more traffic cameras across the state](https://www.fox13seattle.com/news/newly-passed-bill-to-bring-more-traffic-cameras-across-washington#:~:text=House%20Bill%202384)
 * 03/27/2024 [The Seattle Times](/org/the_seattle_times/) - [New WA law will allow traffic cameras on more city streets | The Seattle Times](https://www.seattletimes.com/seattle-news/transportation/new-wa-law-will-allow-traffic-cameras-on-more-city-streets/#:~:text=House%20Bill%202384)
 * 03/27/2024 [Gorge News Center](/org/gorge_news_center/) - [New Washington law will allow traffic cameras on more city streets and county roads](https://gorgenewscenter.com/2024/03/27/new-washington-law-will-allow-traffic-cameras-on-more-city-streets-and-county-roads/#:~:text=House%20Bill%202384)

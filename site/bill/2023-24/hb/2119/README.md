@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/15/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [It’s too expensive to get sick – it's time to protect Washington patients - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/its-too-expensive-to-get-sick-its-time-to-protect-washington-patients/#:~:text=HB%202119)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202119)
 
 ## Meetings

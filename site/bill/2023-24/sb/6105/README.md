@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/05/2024 [FOX13](/org/fox13/) - [WA ‘Stripper Bill of Rights’ goes into effect this week | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-stripper-bill-rights-begins#:~:text=Senate%20Bill%206105)
 * 04/24/2024 [Real Change](/org/real_change/) - [Washington-based strippers empowered by recent laws | April 24–30, 2024 | Real Change](https://www.realchangenews.org/news/2024/04/24/washington-based-strippers-empowered-recent-laws#:~:text=Senate%20Bill%20(SB)%206105)
 * 04/11/2024 [MyNorthwest](/org/mynorthwest/) - [Former bikini barista talks dress code, appropriate behavior - MyNorthwest.com](https://mynorthwest.com/3957202/jack-and-spike-lattes-to-lingerie-from-a-former-bikini-barista-point-of-view/#:~:text=Senate%20Bill%206105)
 * 04/01/2024 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | Mixed Reactions From King County Council on Closure of Youth Jail; Starbucks to Bargain With Union | South Seattle Emerald](https://southseattleemerald.com/2024/04/01/news-gleams-or-mixed-reactions-from-king-county-council-on-closure-of-youth-jail-starbucks-to-bargain-with-union/#:~:text=Senate%20Bill%206105)

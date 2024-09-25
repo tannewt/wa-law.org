@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 05/06/2024 [PubliCola](/org/publicola/) - [The Backlash to Harrell's Comp Plan Proves We're All YIMBYs Now - PubliCola](https://publicola.com/2024/05/06/the-backlash-to-harrells-comp-plan-proves-were-all-yimbys-now/#:~:text=House%20Bill%201110)
 * 03/28/2024 [Sightline Institute](/org/sightline_institute/) - [Washington’s 2024 Short-Session Housing Wins - Sightline Institute](https://www.sightline.org/2024/03/28/washingtons-2024-short-session-housing-wins/#:~:text=HB%201110)
 * 03/19/2024 [KUOW](/org/kuow/) - [KUOW - How will Seattle's next comprehensive plan shape the city?](https://www.kuow.org/stories/how-will-the-next-comprehensive-plan-shape-seattle#:~:text=House%20Bill%201110)
 * 03/14/2024 [The Urbanist](/org/the_urbanist/) - [Port Townsend Just Quietly Ditched Its Off-Street Parking Mandates - The Urbanist](https://www.theurbanist.org/2024/03/14/port-townsend-just-quietly-ditched-its-off-street-parking-mandates/#:~:text=House%20Bill%201110)

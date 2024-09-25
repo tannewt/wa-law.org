@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/29/2024 [The Center Square](/org/the_center_square/) - [Washington to conduct statewide LGBTQ+ survey | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4d375822-1e06-11ef-be40-87b8d4e85614.html#:~:text=Senate%20Bill%205462)
 * 03/21/2024 [The Seattle Times](/org/the_seattle_times/) - [What to know about WA’s law requiring LGBTQ+ history in public schools | The Seattle Times](https://www.seattletimes.com/education-lab/what-to-know-about-was-law-requiring-lgbtq-history-in-public-schools/#:~:text=Senate%20Bill%205462)
 * 03/14/2024 [Crosscut](/org/crosscut/) - [Legislature decides WA schools should include LGBTQ+ history | Crosscut](https://crosscut.com/politics/2024/03/legislature-decides-wa-schools-should-include-lgbtq-history#:~:text=Senate%20Bill%205462)
 * 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=Senate%20Bill%205462)

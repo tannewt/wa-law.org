@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/10/2024 [The Center Square](/org/the_center_square/) - [Policy change for Washington's extended foster care has unknown price tag | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_81207e00-275e-11ef-8862-8f0e9160bdb8.html#:~:text=Senate%20Bill%205908)
 * 03/19/2024 [Gorge News Center](/org/gorge_news_center/) - [Extended foster care for young adults up to 21 set to expand in WA](https://gorgenewscenter.com/2024/03/19/extended-foster-care-for-young-adults-up-to-21-set-to-expand-in-wa/#:~:text=Senate%20Bill%205908)
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%205908)
 * 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=House%20Bill%205908)

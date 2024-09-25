@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/05/2024 [House Republicans](/org/house_republicans/) - [2024 legislative session recap | Washington State House Republicans](http://houserepublicans.wa.gov/current/2024-legislative-session-recap/#:~:text=Senate%20Bill%205241)
 * 03/11/2024 [Gorge News Center](/org/gorge_news_center/) - [‘We played defense better’: WA Republicans on the just-ended legislative session](https://gorgenewscenter.com/2024/03/11/we-played-defense-better-wa-republicans-on-the-just-ended-legislative-session/#:~:text=House%20Bill%205241)
 * 03/08/2024 [The Center Square](/org/the_center_square/) - ['We played defense better': WA Republicans on the just-ended legislative session | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ff903bd8-dd83-11ee-955d-fb20f554782d.html#:~:text=House%20Bill%205241)
 * 03/05/2024 [The Seattle Times](/org/the_seattle_times/) - [Bill that would up oversight of WA hospital consolidations dies | The Seattle Times](https://www.seattletimes.com/seattle-news/health/bill-that-would-up-oversight-of-wa-hospital-consolidations-dies/#:~:text=Senate%20Bill%205241)

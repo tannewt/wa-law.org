@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 07/12/2024 [The Center Square](/org/the_center_square/) - [Washington panel eyes increasing jail-based voter participation | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7ecdc766-406d-11ef-b95d-fb92d0a2e860.html#:~:text=House%20Bill%201174)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201174)
 * 02/01/2019 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=HB%201174)
 * 01/11/2016 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House%20Bill%201174)

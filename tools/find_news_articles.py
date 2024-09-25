@@ -47,9 +47,9 @@ EXCLUDE = {
 session = url_history.HistorySession("org-website.db")
 
 # regular expression pattern to match a date in the format yyyy/mm/dd
-DATE_PATTERN = r"(\d{4})/(\d{2})/(\d{2})"
+DATE_PATTERN = r"(\d{4})[/-](\d{2})[/-](\d{2})"
 
-after_date = arrow.get(2023, 12, 1)
+after_date = arrow.get(2024, 9, 1)
 
 def parse_date(content):
     if not content:
@@ -125,6 +125,9 @@ for org_rowid, domain in org_cur:
         sitemap = BeautifulSoup(sitemap, 'xml')
         for subsitemap in sitemap.find_all("sitemap"):
             lastmod = subsitemap.lastmod
+            if "southseattleemerald" in subsitemap.loc.text:
+                # Don't use lastmod because old sitemaps still have it updated.
+                lastmod = None
             if lastmod:
                 lastmod = lastmod.text
                 if lastmod.startswith("-0001"):
@@ -145,6 +148,19 @@ for org_rowid, domain in org_cur:
                 query = parse_qs(parsed.query)
                 if "yearmonth" in query and arrow.get(query["yearmonth"][0] + "-01") < after_date:
                     continue
+            else:
+                match = re.search(DATE_PATTERN, subsitemap.loc.text)
+                if match:
+                    year = int(match.group(1))
+                    month = int(match.group(2))
+                    day = int(match.group(3))
+                    lastmod = datetime.datetime(year=year, month=month, day=day, tzinfo=arrow.now().tzinfo)
+                    if lastmod < after_date:
+                        continue
+                    elif subsitemap.lastmod:
+                        # Use the true lastmod if our date is within range.
+                        lastmod = subsitemap.lastmod
+
 
             if domain == "www.spokesman.com":
                 parsed = urlparse(subsitemap.loc.text)
@@ -288,7 +304,11 @@ for org_rowid, domain in org_cur:
                 year = int(match.group(1))
                 month = int(match.group(2))
                 day = int(match.group(3))
-                modified_time = datetime.datetime(year=year, month=month, day=day)
+                try:
+                    modified_time = datetime.datetime(year=year, month=month, day=day)
+                except ValueError:
+                    print("Invalid modified time", page_url)
+                    modified_time = None
 
         # print(page)
         for link in page.find_all("a"):

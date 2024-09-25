@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 05/05/2024 [House Republicans](/org/house_republicans/) - [2024 legislative session recap | Washington State House Republicans](http://houserepublicans.wa.gov/current/2024-legislative-session-recap/#:~:text=House%20Bill%202001)
 * 04/12/2024 [NW News Network](/org/nw_news_network/) - [Money, politics, debate over crime victims: What's stalling prison reforms in Olympia | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-04-12/money-politics-debate-over-crime-victims-whats-stalling-prison-reforms-in-olympia#:~:text=House%20Bill%202001)
 * 04/12/2024 [KUOW](/org/kuow/) - [KUOW - Money, politics, debate over crime victims: What's stalling prison reforms in Olympia](https://www.kuow.org/stories/money-politics-debate-over-crime-victims-what-s-stalling-prison-reforms-in-olympia#:~:text=House%20Bill%202001)
 * 03/15/2024 [The Seattle Times](/org/the_seattle_times/) - [WA has no parole. Should prosecutors control who gets a second chance? | The Seattle Times](https://www.seattletimes.com/seattle-news/law-justice/with-no-parole-in-wa-should-prosecutors-control-who-gets-a-second-chance/#:~:text=House%20Bill%202001)

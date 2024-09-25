@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 05/05/2024 [House Republicans](/org/house_republicans/) - [2024 legislative session recap | Washington State House Republicans](http://houserepublicans.wa.gov/current/2024-legislative-session-recap/#:~:text=Senate%20Bill%205770)
 * 04/18/2024 [Wenatchee World](/org/wenatchee_world/) - [Facing shortages, WA expands police trainings and fronts the bill | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/facing-shortages-wa-expands-police-trainings-and-fronts-the-bill/article_4d3185fc-fd9d-11ee-8c3b-03dbcfb22b77.html#:~:text=Senate%20Bill%205770)
 * 04/17/2024 [Crosscut](/org/crosscut/) - [Facing shortages, WA expands police trainings and fronts the bill | Cascade PBS News](https://crosscut.com/news/2024/04/facing-shortages-wa-expands-police-trainings-and-fronts-bill#:~:text=Senate%20Bill%205770)
 * 03/11/2024 [Gorge News Center](/org/gorge_news_center/) - [‘We played defense better’: WA Republicans on the just-ended legislative session](https://gorgenewscenter.com/2024/03/11/we-played-defense-better-wa-republicans-on-the-just-ended-legislative-session/#:~:text=Senate%20Bill%205770)

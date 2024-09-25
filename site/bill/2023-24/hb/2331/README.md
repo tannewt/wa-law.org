@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 08/01/2024 [Gorge News Center](/org/gorge_news_center/) - [A GOP state senator faces two foes, and his own party leaders](https://gorgenewscenter.com/2024/08/01/a-gop-state-senator-faces-two-foes-and-his-own-party-leaders/#:~:text=House%20Bill%202331)
 * 03/06/2024 [MyNorthwest](/org/mynorthwest/) - [Strippers, book bans, guns: Partisan divide persists in Olympia - MyNorthwest.com](https://mynorthwest.com/3953688/strippers-book-bans-guns-examples-of-partisan-divide-persist-in-olympia/#:~:text=ESHB%202331)
 * 02/28/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Whatcom school boards oppose curriculum bills, argue state is undermining local control | Cascadia Daily News](https://www.cascadiadaily.com/2024/feb/28/whatcom-school-boards-oppose-curriculum-bills-argue-state-is-undermining-local-control/#:~:text=House%20Bill%202331)
 * 02/23/2024 [NW News Network](/org/nw_news_network/) - [Budgets, initiative hearings top agenda in week 7 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-23/budgets-initiative-hearings-top-agenda-in-week-7-of-washingtons-legislative-session#:~:text=House%20Bill%202331)

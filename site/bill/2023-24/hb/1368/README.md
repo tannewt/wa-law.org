@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/21/2024 [The Center Square](/org/the_center_square/) - [Washington officials address EV bus transition if CCA repealed | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b30bc978-2ffc-11ef-98c4-3b272530d8a8.html#:~:text=House%20Bill%201368)
 * 03/28/2024 [The Seattle Times](/org/the_seattle_times/) - [WA Gov. Inslee signs slate of climate and environment bills into law | The Seattle Times](https://www.seattletimes.com/seattle-news/climate-lab/wa-gov-inslee-signs-slate-of-climate-and-environment-bills-into-law/#:~:text=House%20Bill%201368)
 * 03/11/2024 [The Seattle Times](/org/the_seattle_times/) - [What happened with WA lawmakers’ climate agenda | The Seattle Times](https://www.seattletimes.com/seattle-news/climate-lab/what-happened-with-wa-lawmakers-climate-agenda/#:~:text=House%20Bill%201368)
 * 03/08/2024 [Crosscut](/org/crosscut/) - [WA Legislature revs up plan to electrify 10,000 school buses | Crosscut](https://crosscut.com/politics/2024/03/wa-legislature-revs-plan-electrify-10000-school-buses#:~:text=House%20Bill%201368)

@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/20/2024 [The Center Square](/org/the_center_square/) - [New law aims to help Washington funeral homes overwhelmed with unclaimed bodies | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e50b1400-2f4e-11ef-baa8-df89419de235.html#:~:text=House%20Bill%201974)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%201974)
 
 ## Meetings

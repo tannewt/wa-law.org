@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 05/24/2024 [The Center Square](/org/the_center_square/) - [King County councilmember seeks funding to address unlawful detainer case backlog | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_59e1ea3a-19e5-11ef-a966-c38cd854c18b.html#:~:text=Senate%20Bill%206210)
+
 ## Meetings
 ### Fri 01/26 10:30 AM - Housing (HSG): SB 6210 Unlawful detainer actions
 #### 306 👍 - Pro

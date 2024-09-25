@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 09/23/2024 [The Center Square](/org/the_center_square/) - [Sex offender panel reexamines recommendation ending lifetime community custody | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_37d11a20-79cf-11ef-a884-8ba607c8695d.html#:~:text=House%20Bill%202178)
+* 08/16/2024 [The Center Square](/org/the_center_square/) - [Washington may alter stance ending lifetime supervision for highest-risk sex offenders | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ac350e14-5c13-11ef-95ce-7b9d8bc318aa.html#:~:text=House%20Bill%202178)
 * 01/31/2024 [The Center Square](/org/the_center_square/) - [Washington bill permitting end of sex offender supervision passes out of committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_49468d3c-c064-11ee-b7d7-a300f37dbffe.html#:~:text=House%20Bill%202178)
 * 01/18/2024 [The Center Square](/org/the_center_square/) - [Washington bill would allow highest-risk sex offenders to end state supervision | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5f2c7d66-b63a-11ee-9b97-4f32f22ef84e.html#:~:text=HB%202178)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202178)

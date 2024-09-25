@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 08/26/2024 [The Center Square](/org/the_center_square/) - [Stan’s Merry Mart to end guns sales over new retailer oversight law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b0ff0f1a-63f9-11ef-9aff-23181baacd42.html#:~:text=House%20Bill%202118)
+* 06/10/2024 [The Center Square](/org/the_center_square/) - [Will WA gun shops be able to comply with new regulations or be forced to close? | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_49716ad6-277d-11ef-88b8-2bbf258d3f01.html#:~:text=House%20Bill%202118)
 * 03/27/2024 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | CAIR-WA Urges NWDC Ramadan Accommodations; Alexis Mercedes Rinck Eyes City Council Seat 8 | South Seattle Emerald](https://southseattleemerald.com/2024/03/27/news-gleams-cair-wa-urges-nwdc-ramadan-accommodations-alexis-mercedes-rinck-eyes-city-council-seat-8/#:~:text=House%20Bill%202118)
 * 03/26/2024 [The Seattle Times](/org/the_seattle_times/) - [Inslee signs new gun laws, including ban at transit facilities, libraries | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/inslee-signs-new-gun-laws-including-ban-at-transit-facilities-libraries/#:~:text=House%20Bill%202118)
 * 03/11/2024 [The Center Square](/org/the_center_square/) - [Legal challenges likely await gun retailer oversight bill if it's signed into law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0bb30344-dff7-11ee-9c92-4759b441253a.html#:~:text=Engrossed%20Substitute%20House%20Bill%202118)

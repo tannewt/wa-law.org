@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 09/11/2024 [The Center Square](/org/the_center_square/) - [New FDA rule requires notice to women with 'dense breast tissue' after mammogram | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_167290be-7080-11ef-ac5c-afd85b1c27d2.html#:~:text=Senate%20Bill%205396)
 * 01/26/2024 [The Seattle Times](/org/the_seattle_times/) - [How recent WA legislative changes could save you money on health care | The Seattle Times](https://www.seattletimes.com/seattle-news/health/how-recent-wa-legislative-changes-could-save-you-money-on-health-care/#:~:text=Senate%20Bill%205396)
 
 ## Meetings

@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/20/2024 [The Center Square](/org/the_center_square/) - [Washington state lawmakers explore Retail Delivery Fee for online orders | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2867ff60-2f36-11ef-b752-7bb122fb2599.html#:~:text=House%20Bill%201125)
 * 06/26/2023 [House Republicans](/org/house_republicans/) - [Week Ahead | Washington State House Republicans](https://houserepublicans.wa.gov/stay-connected/week-ahead/#:~:text=HB%201125)
 * 04/24/2023 [The Center Square](/org/the_center_square/) - [Washington Legislature heads home without reforming drug laws | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_abec1e28-e2f9-11ed-89ee-dff56dc51444.html#:~:text=HB%201125)
 * 04/23/2023 [Senate Democrats](/org/senate_democrats/) - [Transportation budget focused on safety, workforce, green investments heads to governor’s desk  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/22/transportation-budget-focused-on-safety-workforce-green-investments-heads-to-governors-desk/#:~:text=House%20Bill%201125)

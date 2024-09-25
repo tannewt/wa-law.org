@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 09/06/2024 [The Urbanist](/org/the_urbanist/) - [Downtown Design Review Moratorium Gets Mixed Reception from Seattle Council - The Urbanist](https://www.theurbanist.org/2024/09/06/downtown-design-review-moratorium-gets-mixed-reception-from-seattle-council/#:~:text=House%20Bill%201293)
+* 08/02/2024 [The Urbanist](/org/the_urbanist/) - [Spokane Poised to Abolish Parking Mandates in Urbanist Reform Package - The Urbanist](https://www.theurbanist.org/2024/08/02/spokane-poised-to-abolish-parking-mandates-in-urbanist-reform-package/#:~:text=HB%201293)
 * 07/19/2023 [The Center Square](/org/the_center_square/) - [Study: WA needs more than a quarter-million new housing units to meet demand | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2acabb02-267d-11ee-b614-2b4d3b7568f9.html#:~:text=HB%201293)
 * 07/06/2023 [MyNorthwest](/org/mynorthwest/) - [Seattle City Council passes laws to increase volume of affordable housing - MyNorthwest.com](https://mynorthwest.com/3906076/seattle-city-council-passes-laws-raise-volume-affordable-housing/#:~:text=HB%201293)
 * 05/12/2023 [PubliCola](/org/publicola/) - [State Legislature Deals a Blow to Seattle's Dysfunctional Design Review Process - PubliCola](https://publicola.com/2023/05/12/state-legislature-deals-a-blow-to-seattles-dysfunctional-design-review-process/#:~:text=House%20Bill%201293)

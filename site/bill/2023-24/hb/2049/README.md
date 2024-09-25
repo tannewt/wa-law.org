@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 05/30/2024 [The Center Square](/org/the_center_square/) - [Washington's Styrofoam ban goes into effect on Saturday | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_cfe61b80-1eb2-11ef-b8b6-47f012e89b00.html#:~:text=House%20Bill%202049)
 * 03/11/2024 [The Seattle Times](/org/the_seattle_times/) - [What happened with WA lawmakers’ climate agenda | The Seattle Times](https://www.seattletimes.com/seattle-news/climate-lab/what-happened-with-wa-lawmakers-climate-agenda/#:~:text=House%20Bill%202049)
 * 02/12/2024 [The Center Square](/org/the_center_square/) - [Property tax hike bill dead, but GOP lawmakers warn other tax increases remain | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e0346100-c9ed-11ee-9a92-4325a289d9d8.html#:~:text=House%20Bill%202049)
 * 02/10/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Corry relieved property tax increase bill failed, but warns Democrats still have many other bills that will cost you](https://gorgenewscenter.com/2024/02/10/rep-corry-relieved-property-tax-increase-bill-failed-but-warns-democrats-still-have-many-other-bills-that-will-cost-you/#:~:text=HB%202049)

@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/12/2024 [The Center Square](/org/the_center_square/) - [Cannabis industry concerned over new tax break for WA medical marijuana patients | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_26e176b2-290a-11ef-8f02-3751d10041f1.html#:~:text=HB%201453)
 * 03/03/2023 [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=House%20Bill%201453)
 
 ## Meetings

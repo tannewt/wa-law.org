@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5838/</link>
 		<description>Updates about SB 5838</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 18 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jul 2024 17:28:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -518,6 +518,20 @@
 			<pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-18/Effective date 3/18/2024.</guid>
+		</item>
+		<item>
+			<title>Boehnke selected to serve on new state AI task force</title>
+			<description>News article &quot;Boehnke selected to serve on new state AI task force&quot; from Gorge News Center.</description>
+			<pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/07/09/boehnke-selected-to-serve-on-new-state-ai-task-force/#:~:text=Senate%20Bill%205838</guid>
+		</item>
+		<item>
+			<title>Attorney General's AI Task Force holds its first meeting | Washington | thecentersquare.com</title>
+			<description>News article &quot;Attorney General's AI Task Force holds its first meeting | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Fri, 26 Jul 2024 17:28:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_e60c84f0-4b92-11ef-ab38-6f5e5d7f9896.html#:~:text=Senate%20Bill%205838</guid>
 		</item>
 	</channel>
 </rss>

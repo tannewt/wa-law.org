@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 08/01/2024 [Gorge News Center](/org/gorge_news_center/) - [A GOP state senator faces two foes, and his own party leaders](https://gorgenewscenter.com/2024/08/01/a-gop-state-senator-faces-two-foes-and-his-own-party-leaders/#:~:text=Senate%20Bill%205599)
 * 02/28/2024 [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers hear initiatives on parents’ bill of rights, police pursuits | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-lawmakers-hear-initiatives-on-parents-bill-of-rights-police-pursuits/#:~:text=Senate%20Bill%205599)
 * 01/10/2024 [MyNorthwest](/org/mynorthwest/) - [Rantz: Democrats reject child marriage, but accept their gender reassignment - MyNorthwest.com](https://mynorthwest.com/3945913/rantz-democrats-reject-child-marriage-accept-gender-reassignment/#:~:text=SB%205599)
 * 08/17/2023 [The Center Square](/org/the_center_square/) - [Lawsuit filed against Washington’s 'state-sanctioned kidnapping' law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0b71a294-3d24-11ee-8b00-efdcf6f9cf67.html#:~:text=SB%205599)

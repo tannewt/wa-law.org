@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 05/05/2024 [House Republicans](/org/house_republicans/) - [2024 legislative session recap | Washington State House Republicans](http://houserepublicans.wa.gov/current/2024-legislative-session-recap/#:~:text=House%20Bill%202177)
 * 02/19/2024 [House Republicans](/org/house_republicans/) - [Initiatives, bill updates, state budgets, and the week ahead | Washington State House Republicans](http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%202177)
 * 01/22/2024 [The Center Square](/org/the_center_square/) - [Washington bill would require a convicted sex offender serve on state policy board | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3ff4fa30-b96f-11ee-a95b-4f1f66eccefb.html#:~:text=House%20Bill%202177)
 

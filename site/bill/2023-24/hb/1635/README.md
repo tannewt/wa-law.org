@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 08/13/2024 [Gorge News Center](/org/gorge_news_center/) - [Washington’s fentanyl-sniffing dogs: The newest tool in the fight against opioids](https://gorgenewscenter.com/2024/08/13/washingtons-fentanyl-sniffing-dogs-the-newest-tool-in-the-fight-against-opioids/#:~:text=House%20Bill%201635)
 * 03/29/2024 [The Center Square](/org/the_center_square/) - [Inslee signs bills combating fentanyl, opioid addiction in Washington state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f3e125d0-edf6-11ee-9f10-a72062622aa8.html#:~:text=House%20Bill%201635)
 * 03/28/2024 [Gorge News Center](/org/gorge_news_center/) - [Governor signs Rep. Gina Mosbrucker’s bills to fight fentanyl, encourage treatment](https://gorgenewscenter.com/2024/03/28/governor-signs-rep-gina-mosbruckers-bills-to-fight-fentanyl-encourage-treatment/#:~:text=House%20Bill%201635)
 * 03/14/2024 [Gorge News Center](/org/gorge_news_center/) - [Governor signs Mosbrucker’s domestic violence supervision bill into law; Two other Mosbrucker bills await Inslee’s signature](https://gorgenewscenter.com/2024/03/14/governor-signs-mosbruckers-domestic-violence-supervision-bill-into-law-two-other-mosbrucker-bills-await-inslees-signature/#:~:text=House%20Bill%201635)

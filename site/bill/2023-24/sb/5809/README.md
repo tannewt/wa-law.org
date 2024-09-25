@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 05/13/2024 [The Center Square](/org/the_center_square/) - [Former Washington Democratic lawmaker wins award for charter school support | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_89323f42-1161-11ef-9b1f-af6cec00a26b.html#:~:text=Senate%20Bill%205809)
 * 01/11/2024 [The Center Square](/org/the_center_square/) - [Charter school supporters again asking Washington lawmakers for equal funding | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ae2e81c6-b0c1-11ee-ba16-3f826e4811a2.html#:~:text=Senate%20Bill%205809.)
 
 ## Meetings
