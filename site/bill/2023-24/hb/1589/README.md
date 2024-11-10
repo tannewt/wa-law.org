@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 11/08/2024 [Gorge News Center](/org/gorge_news_center/) - [Washington voters approve pro-natural gas measure](https://gorgenewscenter.com/2024/11/08/washington-voters-approve-pro-natural-gas-measure/#:~:text=House%20Bill%201589)
 * 10/29/2024 [The Center Square](/org/the_center_square/) - [Initiative opponents claim blocking natural gas ban will drive up gas bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d248e9ca-9630-11ef-a2eb-ebb5e98eaccd.html#:~:text=House%20Bill%201589)
 * 10/22/2024 [The Center Square](/org/the_center_square/) - [WA Supreme Court releases full decisions on challenges to ballot initiatives | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f07c6c0c-909d-11ef-ad4d-434c50a7b704.html#:~:text=House%20Bill%201589)
 * 10/17/2024 [Real Change](/org/real_change/) - [Four initiatives aim to repeal progressive policies | Oct. 16–22, 2024 | Real Change](https://www.realchangenews.org/news/2024/10/17/four-initiatives-aim-repeal-progressive-policies#:~:text=House%20Bill%20(HB)%201589)

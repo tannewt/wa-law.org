@@ -49,7 +49,7 @@ session = url_history.HistorySession("org-website.db")
 # regular expression pattern to match a date in the format yyyy/mm/dd
 DATE_PATTERN = r"(\d{4})[/-](\d{2})[/-](\d{2})"
 
-after_date = arrow.get(2024, 9, 1)
+after_date = arrow.get(2024, 11, 1)
 
 def parse_date(content):
     if not content:
@@ -89,6 +89,9 @@ for org_rowid, domain in org_cur:
     if len(sys.argv) > 1 and domain not in sys.argv[1:]:
         print("skipping", domain)
         continue
+    if "seattletimes" in domain:
+        print("skipping seattle times")
+        continue
     print(i, len(org_cur), domain)
     i += 1
     url_base = "https://" + domain
@@ -97,7 +100,11 @@ for org_rowid, domain in org_cur:
     robots_url = url_base + "/robots.txt"
     rp.set_url(robots_url)
     print("Fetching", robots_url)
-    robots = session.get(robots_url, fetch_again=True)
+    try:
+        robots = session.get(robots_url, fetch_again=True)
+    except (requests.exceptions.ConnectionError, requests.exceptions.SSLError, requests.exceptions.TooManyRedirects, requests.exceptions.MissingSchema, requests.exceptions.ConnectTimeout, urllib3.exceptions.LocationParseError) as e:
+        print("Unable to get robots", e)
+        continue
     rp.parse(robots.decode("utf-8").splitlines())
 
     if rp.site_maps():

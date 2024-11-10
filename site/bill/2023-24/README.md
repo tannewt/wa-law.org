@@ -55,7 +55,7 @@
 * [HB 1655](hb/1655) - Provider contract comp. 2939👍 10👎 12❓ - H HCWDPS
 * [HB 1628](hb/1628) - Real estate excise tax 18📰 1357👍 1518👎 5❓ - H Rules X
 * [HB 1985](hb/1985) - PERS/TRS 1 benefit increase 6📰 2527👍 293👎 16❓ - C 255 L 24
-* [HB 1589](hb/1589) - Clean energy 58📰 542👍 2183👎 42❓ - C 351 L 24
+* [HB 1589](hb/1589) - Clean energy 59📰 542👍 2183👎 42❓ - C 351 L 24
 * [SB 5466](sb/5466) - Transit-oriented development 40📰 2545👍 46👎 35❓ - S Rules X
 * [HB 1391](hb/1391) - Energy in buildings 6📰 2075👍 529👎 20❓ - H Rules 3C
 * [HB 1832](hb/1832) - Vehicle per mile charge 6📰 62👍 2527👎 34❓ - H Transportation
