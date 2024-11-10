@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 09/25/2024 [The Urbanist](/org/the_urbanist/) - [Seattle Council Streamlines Development Downtown with 3-Year Design Review Bypass - The Urbanist](https://www.theurbanist.org/2024/09/25/seattle-downtown-design-review-bypass/#:~:text=House%20Bill%201293)
 * 09/06/2024 [The Urbanist](/org/the_urbanist/) - [Downtown Design Review Moratorium Gets Mixed Reception from Seattle Council - The Urbanist](https://www.theurbanist.org/2024/09/06/downtown-design-review-moratorium-gets-mixed-reception-from-seattle-council/#:~:text=House%20Bill%201293)
 * 08/02/2024 [The Urbanist](/org/the_urbanist/) - [Spokane Poised to Abolish Parking Mandates in Urbanist Reform Package - The Urbanist](https://www.theurbanist.org/2024/08/02/spokane-poised-to-abolish-parking-mandates-in-urbanist-reform-package/#:~:text=HB%201293)
 * 07/19/2023 [The Center Square](/org/the_center_square/) - [Study: WA needs more than a quarter-million new housing units to meet demand | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2acabb02-267d-11ee-b614-2b4d3b7568f9.html#:~:text=HB%201293)

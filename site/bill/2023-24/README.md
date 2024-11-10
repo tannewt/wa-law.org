@@ -8,7 +8,7 @@
 ## Heard bills
 * [SB 5184](sb/5184) - Anesthesiologist assistants 1📰 5818👍 12146👎 40❓ - C 362 L 24
 * [SB 5236](sb/5236) - Hospital staffing standards 19📰 11619👍 1922👎 112❓ - C 114 L 23
-* [HB 1240](hb/1240) - Firearms/assault weapons 77📰 2828👍 10425👎 26❓ - C 162 L 23
+* [HB 1240](hb/1240) - Firearms/assault weapons 78📰 2828👍 10425👎 26❓ - C 162 L 23
 * [HB 1143](hb/1143) - Firearms/purchase & transfer 47📰 3402👍 8858👎 16❓ - C 161 L 23
 * [HB 1469](hb/1469) - Health care services/access 32📰 6406👍 4534👎 9❓ - C 193 L 23
 * [HB 2114](hb/2114) - Residential tenants 54📰 7035👍 3700👎 50❓ - H Rules 3C
@@ -16,7 +16,7 @@
 * [SB 5078](sb/5078) - Firearm industry duties 26📰 3527👍 6551👎 3❓ - C 163 L 23
 * [HB 1038](hb/1038) - Anesthesiologist assistants 1📰 2398👍 6105👎 38❓ - H HC/Wellness
 * [SB 5770](sb/5770) - Property tax 31📰 516👍 7579👎 203❓ - S Rules X
-* [HB 1110](hb/1110) - Middle housing 93📰 5098👍 1228👎 53❓ - C 332 L 23
+* [HB 1110](hb/1110) - Middle housing 94📰 5098👍 1228👎 53❓ - C 332 L 23
 * [SB 5232](sb/5232) - Firearms/purchase & transfer 7📰 1782👍 4345👎 2❓ - S Ways & Means
 * [HB 1333](hb/1333) - Domestic violent extremism 4📰 253👍 5451👎 12❓ - H Rules X
 * [HB 1389](hb/1389) - Residential rent increases 33📰 3125👍 2455👎 27❓ - H Rules X
@@ -55,7 +55,7 @@
 * [HB 1655](hb/1655) - Provider contract comp. 2939👍 10👎 12❓ - H HCWDPS
 * [HB 1628](hb/1628) - Real estate excise tax 18📰 1357👍 1518👎 5❓ - H Rules X
 * [HB 1985](hb/1985) - PERS/TRS 1 benefit increase 6📰 2527👍 293👎 16❓ - C 255 L 24
-* [HB 1589](hb/1589) - Clean energy 55📰 542👍 2183👎 42❓ - C 351 L 24
+* [HB 1589](hb/1589) - Clean energy 58📰 542👍 2183👎 42❓ - C 351 L 24
 * [SB 5466](sb/5466) - Transit-oriented development 40📰 2545👍 46👎 35❓ - S Rules X
 * [HB 1391](hb/1391) - Energy in buildings 6📰 2075👍 529👎 20❓ - H Rules 3C
 * [HB 1832](hb/1832) - Vehicle per mile charge 6📰 62👍 2527👎 34❓ - H Transportation
@@ -153,7 +153,7 @@
 * [HB 2459](hb/2459) - Alt. measure disclosures 1📰 36👍 1171👎 2❓ - H Rules X
 * [SB 5006](sb/5006) - Waiver of firearm rights 4📰 337👍 867👎 3❓ - C 262 L 23
 * [HB 2239](hb/2239) - Social-emotional instruction 4📰 364👍 837👎 3❓ - H Rules 3C
-* [HB 1893](hb/1893) - Unemp ins/strikes & lockouts 15📰 662👍 528👎 8❓ - H Rules 3C
+* [HB 1893](hb/1893) - Unemp ins/strikes & lockouts 16📰 662👍 528👎 8❓ - H Rules 3C
 * [HB 1562](hb/1562) - Violence 4📰 688👍 501👎 7❓ - C 295 L 23
 * [SB 5999](sb/5999) - Financial aid eligibility 1📰 1149👍 35👎 12❓ - S Ways & Means
 * [HB 1239](hb/1239) - Educator ethics & complaints 3📰 688👍 499👎 5❓ - C 219 L 24
@@ -297,7 +297,7 @@
 * [SB 5238](sb/5238) - Academic employee bargaining 1📰 611👍 20👎 2❓ - C 115 L 23
 * [HB 1608](hb/1608) - Anaphylaxis meds./schools 3📰 629👍 0👎 2❓ - C 81 L 24
 * [HB 1897](hb/1897) - Charter schools/enrichment 1📰 575👍 55👎 1❓ - H Approps
-* [HB 2131](hb/2131) - Thermal energy networks 3📰 621👍 2👎 5❓ - C 348 L 24
+* [HB 2131](hb/2131) - Thermal energy networks 4📰 621👍 2👎 5❓ - C 348 L 24
 * [HB 2028](hb/2028) - Concerning manufacturer and new dealer franchise agreements. 265👍 359👎 3❓ - H Rules X
 * [SB 5372](sb/5372) - DNR land 2📰 600👍 11👎 13❓ - S Ways & Means
 * [HB 2013](hb/2013) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 613👍 2👎 0❓ - H Approps
@@ -378,7 +378,7 @@
 * [SB 5094](sb/5094) - Water system plans/climate 1📰 404👍 86👎 0❓ - S Rules X
 * [SB 5467](sb/5467) - Controlled sub. possession 2📰 223👍 260👎 6❓ - S Law & Justice
 * [HB 1044](hb/1044) - Capital assistance/schools 12📰 216👍 270👎 0❓ - H Rules 3C
-* [HB 1564](hb/1564) - OTC sexual assault kits 14📰 346👍 139👎 1❓ - C 296 L 23
+* [HB 1564](hb/1564) - OTC sexual assault kits 16📰 346👍 139👎 1❓ - C 296 L 23
 * [HB 2038](hb/2038) - Public school transfer data 3📰 18👍 462👎 5❓ - H Rules X
 * [HB 1024](hb/1024) - Incarcerated persons/labor 6📰 469👍 11👎 4❓ - H Rules X
 * [SB 5843](sb/5843) - Election security breaches 7📰 196👍 286👎 1❓ - C 28 L 24
@@ -665,7 +665,7 @@
 * [HB 1504](hb/1504) - Elementary school recess 6📰 181👍 1👎 4❓ - H Rules X
 * [HB 1976](hb/1976) - Changing the incentive structure for tier 1 and tier 2 buildings. 2📰 183👍 1👎 2❓ - C 85 L 24
 * [SB 5328](sb/5328) - Pub safety telecommunicators 185👍 0👎 1❓ - S Rules X
-* [SB 5367](sb/5367) - Products containing THC 3📰 87👍 86👎 12❓ - C 365 L 23
+* [SB 5367](sb/5367) - Products containing THC 4📰 87👍 86👎 12❓ - C 365 L 23
 * [HB 1068](hb/1068) - Injured worker medical exams 70👍 111👎 2❓ - C 166 L 23
 * [HB 1475](hb/1475) - Online ballot portal 18👍 164👎 1❓ - H State Govt & T
 * [SB 5412](sb/5412) - Land use permitting/local 12📰 178👍 1👎 3❓ - C 368 L 23
@@ -771,7 +771,7 @@
 * [HB 1451](hb/1451) - Child care workforce 1📰 98👍 35👎 2❓ - H Approps
 * [HB 2297](hb/2297) - Solar energy systems/schools 1📰 124👍 11👎 0❓ - H Cap Budget
 * [SB 5579](sb/5579) - Hydrofluorocarbons/supply 6👍 128👎 1❓ - S Ways & Means
-* [HB 1028](hb/1028) - Crime victims & witnesses 7📰 131👍 1👎 2❓ - C 197 L 23
+* [HB 1028](hb/1028) - Crime victims & witnesses 8📰 131👍 1👎 2❓ - C 197 L 23
 * [SB 5045](sb/5045) - ADU rental/property tax 11📰 123👍 10👎 0❓ - C 335 L 23
 * [SB 6040](sb/6040) - Public works payments 84👍 35👎 14❓ - C 276 L 24
 * [SB 6135](sb/6135) - TANF transitional assistance 131👍 1👎 1❓ - S Ways & Means
@@ -859,7 +859,7 @@
 * [HB 1611](hb/1611) - Local government permitting 2📰 87👍 17👎 1❓ - H Finance
 * [SB 5001](sb/5001) - Public facility districts 4📰 102👍 2👎 1❓ - C 218 L 23
 * [HB 1234](hb/1234) - Civil forfeiture of animals 2📰 102👍 1👎 1❓ - C 246 L 23
-* [HB 1293](hb/1293) - Development regulations 19📰 101👍 1👎 2❓ - C 333 L 23
+* [HB 1293](hb/1293) - Development regulations 20📰 101👍 1👎 2❓ - C 333 L 23
 * [HB 2236](hb/2236) - Tech. ed. core plus programs 2📰 96👍 1👎 7❓ - C 234 L 24
 * [SB 5271](sb/5271) - DOH facilities/enforcement 34👍 66👎 4❓ - C 121 L 24
 * [SB 5719](sb/5719) - Student homelessness group 1📰 103👍 1👎 0❓ - S Ways & Means
@@ -1795,7 +1795,7 @@
 * [HB 1501](hb/1501) - Family counseling/homicide 2📰 11👍 0👎 1❓ - C 152 L 23
 * [HB 1727](hb/1727) - Transaction fees 5👍 6👎 1❓ - H ConsPro&Bus
 * [HB 1779](hb/1779) - Toxic air pollution 5📰 11👍 1👎 0❓ - C 310 L 23
-* [HB 1838](hb/1838) - Transp. revenue forecast 3📰 12👍 0👎 0❓ - C 390 L 23
+* [HB 1838](hb/1838) - Transp. revenue forecast 5📰 12👍 0👎 0❓ - C 390 L 23
 * [HB 1947](hb/1947) - Technology governance 6👍 4👎 2❓ - C 54 L 24
 * [HB 2265](hb/2265) - Climbing facilities 9👍 3👎 0❓ - H Rules X
 * [SB 5086](sb/5086) - Tribal police training 11👍 0👎 1❓ - S Rules X

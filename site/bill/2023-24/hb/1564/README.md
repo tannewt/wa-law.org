@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 10/24/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington ban on over-the-counter sexual assault kits upheld by federal judge | Cascadia Daily News](https://www.cascadiadaily.com/2024/oct/24/washington-ban-on-over-the-counter-sexual-assault-kits-upheld-by-federal-judge/#:~:text=House%20Bill%201564)
 * 06/21/2024 [The Center Square](/org/the_center_square/) - [Lawsuit filed against Washington ban on commercial sexual assault evidence kits | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1ed98b2e-2fe7-11ef-b2bd-e70031de153c.html#:~:text=HB%201564)
 * 05/06/2023 [Gorge News Center](/org/gorge_news_center/) - [Final three of six Mosbrucker bills to pass Legislature receive governor’s signature](https://gorgenewscenter.com/2023/05/06/final-three-of-six-mosbrucker-bills-to-pass-legislature-receive-governors-signature/#:~:text=House%20Bill%201564%20(Do-it-yourself%20inadmissible%20sexual%20assault%20rape%20kits))
 * 04/24/2023 [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=HB%201564)
@@ -21,6 +22,7 @@
 * 02/02/2023 [Gorge News Center](/org/gorge_news_center/) - [Mosbrucker bill would ban do-it-yourself rape kits](https://gorgenewscenter.com/2023/02/02/mosbrucker-bill-would-ban-do-it-yourself-rape-kits/#:~:text=House%20Bill%201564)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1564)
 * [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=House%20Bill%201564)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson: Washington successfully defends ban on the sale and distribution of DIY rape kits | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-washington-successfully-defends-ban-sale-and-distribution-diy-rape#:~:text=House%20Bill%201564)
 
 ## Meetings
 ### Wed 03/08 08:00 AM - Law & Justice (LAW): HB 1564 OTC sexual assault kits

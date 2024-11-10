@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 10/02/2024 [The Center Square](/org/the_center_square/) - [Boeing pulls healthcare coverage for striking machinists as WA taxpayers step up | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_91d86e2e-8113-11ef-a4e4-2fdced4f99a7.html#:~:text=House%20Bill%201893)
 * 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%201893)
 * 03/11/2024 [Gorge News Center](/org/gorge_news_center/) - [‘We played defense better’: WA Republicans on the just-ended legislative session](https://gorgenewscenter.com/2024/03/11/we-played-defense-better-wa-republicans-on-the-just-ended-legislative-session/#:~:text=House%20Bill%201893)
 * 03/08/2024 [The Center Square](/org/the_center_square/) - ['We played defense better': WA Republicans on the just-ended legislative session | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ff903bd8-dd83-11ee-955d-fb20f554782d.html#:~:text=House%20Bill%201893)

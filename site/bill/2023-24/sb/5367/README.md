@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 09/30/2024 [The Center Square](/org/the_center_square/) - [Federal government, states grapple with regulating hemp products | National | thecentersquare.com](https://www.thecentersquare.com/national/article_694f58ce-7f82-11ef-8f14-6bbfa646cf9b.html#:~:text=Senate%20Bill%205367)
 * 04/26/2023 [Senate Democrats](/org/senate_democrats/) - [Bill to better regulate THC products, limit youth access signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/04/26/bill-to-better-regulate-thc-products-limit-youth-access-signed-into-law/#:~:text=Senate%20Bill%205367)
 * 04/21/2023 [KUOW](/org/kuow/) - [KUOW - 'Social equity' cannabis licenses aim to repair drug law harms to BIPOC communities](https://www.kuow.org/stories/social-equity-cannabis-licenses-aim-to-repair-drug-law-harms-to-bipoc-communities#:~:text=SB%205367)
 * 01/29/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety takes center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/29/this-week-in-the-senate-week-4-public-safety-takes-center-stage/#:~:text=SB%205367)

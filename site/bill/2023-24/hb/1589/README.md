@@ -11,6 +11,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 10/29/2024 [The Center Square](/org/the_center_square/) - [Initiative opponents claim blocking natural gas ban will drive up gas bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d248e9ca-9630-11ef-a2eb-ebb5e98eaccd.html#:~:text=House%20Bill%201589)
+* 10/22/2024 [The Center Square](/org/the_center_square/) - [WA Supreme Court releases full decisions on challenges to ballot initiatives | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f07c6c0c-909d-11ef-ad4d-434c50a7b704.html#:~:text=House%20Bill%201589)
+* 10/17/2024 [Real Change](/org/real_change/) - [Four initiatives aim to repeal progressive policies | Oct. 16–22, 2024 | Real Change](https://www.realchangenews.org/news/2024/10/17/four-initiatives-aim-repeal-progressive-policies#:~:text=House%20Bill%20(HB)%201589)
 * 07/24/2024 [The Center Square](/org/the_center_square/) - [Washington energy choice initiative officially qualifies for the November ballot | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d42a2078-4a00-11ef-8de3-c39e05c7b43c.html#:~:text=House%20Bill%201589)
 * 07/02/2024 [The Center Square](/org/the_center_square/) - [Washington energy choice initiative supporters turn in 431,000 voter signatures | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5ab461c6-38c7-11ef-8fac-e735fe729b15.html#:~:text=House%20Bill%201589)
 * 06/28/2024 [The Center Square](/org/the_center_square/) - [With a week to qualify, backers of WA energy choice initiative feeling confident | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4c16fd9a-3598-11ef-9656-cbabce8aea9a.html#:~:text=House%20Bill%201589)
