@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## 📰 Articles
+* 02/06/2024 [Washington State Standard](/org/washington_state_standard/) - [State lawmakers won't require insurers to cover tests cancer survivors say are crucial • Washington State Standard](https://washingtonstatestandard.com/2024/02/05/state-lawmakers-wont-require-insurers-to-cover-tests-cancer-survivors-say-are-crucial/#:~:text=House%20Bill%201450)
+
 ## Meetings
 ### Fri 01/26 08:00 AM - Health Care & Wellness (HCW): SHB 1450 Biomarker testing coverage
 #### 96 👍 - Pro

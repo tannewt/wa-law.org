@@ -15,8 +15,6 @@
 * 02/24/2023 [House Democrats](/org/house_democrats/) - [Representative Mari Leavitt Passes Four Bills to Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/24/representative-mari-leavitt-passes-four-bills-to-senate/#:~:text=House%20Bill%201002)
 * 01/22/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201002)
 * 01/15/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/15/the-house-hot-sheet-for-week-2-of-the-2023-legislative-session/#:~:text=HB%201002)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Education](https://crosscut.com/voter-guide/2023-legislative-tracker/election/education#:~:text=House%20Bill%201002)
-* [KING5](/org/king5/) - [Washington Gov. Jay Inslee signs 'Sam Martinez Stop Hazing Law' | king5.com](https://www.king5.com/article/news/politics/state-politics/inslee-signs-law-hazing-penalties-washington/281-0ff90a2f-f43d-4def-804a-4a441efab637#:~:text=House%20Bill%201002)
 
 ## Meetings
 ### Mon 03/13 10:30 AM - Law & Justice (LAW): HB 1002 Hazing penalty

@@ -18,7 +18,7 @@
 #### 81 👍 - Pro
 Testifying:
 * Sarah Hock - Joint Animal Services and the Pet Alliance of WA
-* Kirsten Gregory - [Pasado's Safe Haven](/org/pasado's_safe_haven/)
+* 💵Kirsten Gregory - [Pasado's Safe Haven](/org/pasado's_safe_haven/)
 * Jessica Garza - Newport Police Department
 
 #### 1 👎 - Con
@@ -31,7 +31,7 @@ Testifying:
 #### 21 👍 - Pro
 Testifying:
 * Kim Koon - Pasado's Safe Haven/ Director of Investigations
-* Kirsten Gregory - Pasado's Safe Haven/Animal Cruelty Response & Prevention Director
+* 💵Kirsten Gregory - Pasado's Safe Haven/Animal Cruelty Response & Prevention Director
 * Jessica Garza - Newport Police Department
 * Sara Penhallegon - Center Valley Animal Rescue/ Director & Founder
 * Hannah Thompson-Garner - Northwest Animal Rights Network (NARN)

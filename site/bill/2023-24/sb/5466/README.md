@@ -46,9 +46,6 @@
 * 01/24/2023 [House Democrats](/org/house_democrats/) - [Bipartisan legislation would spur development near transit centers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/24/bipartisan-legislation-would-spur-development-near-transit-centers/#:~:text=Senate%20Bill%205466)
 * 01/18/2023 [Sightline Institute](/org/sightline_institute/) - [The Vast Potential of Pairing Transit and Homes in Washington State - Sightline Institute](https://www.sightline.org/2023/01/18/the-vast-potential-of-pairing-transit-and-homes-in-washington-state#:~:text=SB%205466)
 * 01/18/2023 [Sightline Institute](/org/sightline_institute/) - [The Vast Potential of Pairing Transit and Homes in Washington State - Sightline Institute](https://www.sightline.org/2023/01/18/the-vast-potential-of-pairing-transit-and-homes-in-washington-state/#:~:text=SB%205466)
-* [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/washington-has-shot-passing-massive-housing-reform-package#:~:text=Senate%20Bill%205466)
-* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=SB%205466)
-* [KING5](/org/king5/) - [Bill aims to promote ‘transit-oriented’ housing in Washington | king5.com](https://www.king5.com/article/news/local/bill-promote-transit-oriented-housing-washington/281-70d4c5b8-9e8f-47fa-944a-96ff4678e955#:~:text=House%20Bill%205466)
 
 ## Meetings
 ### Thu 03/30 08:00 AM - Capital Budget (CB): ESSB 5466 Transit-oriented development

@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 03/09/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [WaLeg Recap: Progress Made – but Far More is Needed Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/waleg-recap-2024/#:~:text=timely%20medical%20certification)
+
 ## Meetings
 ### Fri 02/16 08:00 AM - Health & Long Term Care (HLTC): SHB 2102 PFML benefits/health info.
 #### 84 👍 - Pro

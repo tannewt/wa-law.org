@@ -51,7 +51,7 @@ Testifying:
 Testifying:
 * 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * Katie Taylor - Office of Superintendent of Public Instruction
-* Ben Mitchell - Foundation for Tacoma Students
+* Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * Karl Gapuz - [Seattle Education Association](/org/seattle_education_association/)
 * Dr. Erica Hernandez-Scott - [Professional Educator Standards Board](/org/professional_educator_standards_board/)
 * Koray Lynx - Washington Association of Colleges for Teacher Education (WACTE)
@@ -82,7 +82,7 @@ Testifying:
 * Kristen (Bao Anh) Le - Washington Education Association (WEA)
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * Antonia Woods
-* Ben Mitchell - Foundation for Tacoma Students
+* Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * 💵Bob Cooper - [Washington Association of Colleges for Teacher Education](/org/washington_association_of_colleges_for_teacher_education/)
 * Thomas Fairchild - President - Student Washington Education Association
 

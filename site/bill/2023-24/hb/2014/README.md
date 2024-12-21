@@ -15,7 +15,7 @@
 * 03/02/2024 [MyNorthwest](/org/mynorthwest/) - [Washington legislature passes bill to help over 35,000 veterans - MyNorthwest.com](https://mynorthwest.com/3953155/washington-legislature-unanimously-passes-bill-to-help-over-35000-veterans/#:~:text=House%20Bill%20(HB)%202014)
 * 02/21/2024 [House Democrats](/org/house_democrats/) - [Economic Growth, Social Cohesion, & Support for Veterans – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/21/economic-growth-social-cohesion-support-for-veterans/#:~:text=2014)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=House%20Bill%202014)
-* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson request bill to help more than 35,000 Washington veterans access state benefits passes legislature unanimously | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-request-bill-help-more-35000-washington-veterans-access-state#:~:text=House%20Bill%202014)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson request bill to help more than 35,000 Washington veterans access state benefits passes legislature unanimously | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-request-bill-help-more-35000-washington-veterans-access-state#:~:text=House%20Bill%202014)
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): 2SHB 2014 Definition of veteran

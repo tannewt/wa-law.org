@@ -9,7 +9,6 @@
 ## 📰 Articles
 * 03/27/2024 [Gorge News Center](/org/gorge_news_center/) - [Secretary Hobbs lauds new laws to strengthen elections](https://gorgenewscenter.com/2024/03/27/secretary-hobbs-lauds-new-laws-to-strengthen-elections/#:~:text=House%20Bill%201962)
 * 01/04/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Fentanyl, housing, public safety top priorities for Washington Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2024/jan/04/fentanyl-housing-public-safety-top-priorities-in-2024-legislative-session/#:~:text=House%20Bill%201962)
-* [Cascadia Daily News](/org/cascadia_daily_news/) - [Fentanyl, housing, public safety top priorities for Washington Legislature](https://cascadiadaily.com/news/2024/jan/04/fentanyl-housing-public-safety-top-priorities-in-2024-legislative-session/#:~:text=House%20Bill%201962)
 
 ## Meetings
 ### Thu 02/15 06:00 PM - State Government & Elections (SGE): HB 1962 Voter address changes

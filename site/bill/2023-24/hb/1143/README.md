@@ -14,6 +14,7 @@
 ## 📰 Articles
 * 01/02/2024 [KUOW](/org/kuow/) - [KUOW - New year, new rules: 2024 brings new laws for Washington state](https://www.kuow.org/stories/new-year-new-laws-2024-brings-new-laws-for-washington-state#:~:text=HB-1143)
 * 01/01/2024 [Crosscut](/org/crosscut/) - [The new year brings new WA laws for guns, minimum wage and more | Crosscut](https://crosscut.com/news/2024/01/new-year-brings-new-wa-laws-guns-minimum-wage-and-more#:~:text=House%20Bill%201143)
+* 01/01/2024 [Cascade PBS](/org/cascade_pbs/) - [The new year brings new WA laws for guns, minimum wage and more | Cascade PBS](https://www.cascadepbs.org/news/2024/01/new-year-brings-new-wa-laws-guns-minimum-wage-and-more#:~:text=House%20Bill%201143)
 * 12/29/2023 [FOX13](/org/fox13/) - [10-day waiting period to purchase a firearm starts Monday](https://www.fox13seattle.com/news/10-day-waiting-period-to-purchase-a-firearm-starts-monday#:~:text=House%20Bill%201143)
 * 12/28/2023 [KIRO7](/org/kiro7/) - [Street racing among new laws, changes going into effect in Washington in 2024 – KIRO 7 News Seattle](https://www.kiro7.com/news/local/street-racing-among-new-laws-changes-going-into-effect-washington-2024/3BSXTJGYPVAFLFVKXPUYMZOU2A/#:~:text=House%20Bill%201143)
 * 12/26/2023 [The Center Square](/org/the_center_square/) - [WA state laws in 2024: minimum wage, firearm sales, employee cannabis use and more | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_64f5489a-a438-11ee-bb84-6798534e51a4.html#:~:text=House%20Bill%201143)
@@ -54,11 +55,6 @@
 * 01/16/2023 [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=HB%201143)
 * 01/15/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/15/the-house-hot-sheet-for-week-2-of-the-2023-legislative-session/#:~:text=HB%201143)
 * 01/11/2023 [The Seattle Times](/org/the_seattle_times/) - [Blue state paradox: WA keeps arming up | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-keeps-getting-bluer-and-also-more-heavily-armed/#:~:text=House%20Bill%201143)
-* [MyNorthwest](/org/mynorthwest/) - [Gun store owner: Assault weapons ban is 'a failed policy' - MyNorthwest.com](https://mynorthwest.com/3875463/west-coast-armory-north-owner-assault-weapon-ban-failed-policy/#:~:text=House%20Bill%201143)
-* [KING5](/org/king5/) - [5 things to know this weekend | king5.com](https://www.king5.com/article/news/local/5-things-to-know-this-weekend/281-9e3a9fef-5b9c-4147-a295-b271a940d305#:~:text=House%20Bill%201143)
-* [KING5](/org/king5/) - [Assault weapon ban passes Washington state Senate | king5.com](https://www.king5.com/article/news/politics/state-politics/assault-weapon-ban-passes-senate-to-house-concurrence/281-4400321f-2822-4685-9fae-05a0f1cb1ef8#:~:text=House%20Bill%201143)
-* [KING5](/org/king5/) - [Bill requiring 10-day waiting period, safety training for gun buyers passes in Senate | king5.com](https://www.king5.com/article/news/politics/state-politics/firearm-bills-debated-washington-senate/281-cd3fb2a2-055c-4d6c-8641-676c0aafb5a0#:~:text=House%20Bill%201143)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [State House passes bills to ban assault weapons and require background checks, safety training for gun purchases | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/08/state-house-passes-bills-to-ban-assault-weapons-an/#:~:text=House%20Bill%201143)
 
 ## Meetings
 ### Thu 03/23 08:00 AM - Law & Justice (LAW): E2SHB 1143 Firearms/purchase & transfer

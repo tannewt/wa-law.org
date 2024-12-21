@@ -47,7 +47,7 @@ Testifying:
 #### 8 ❓ - Other
 Testifying:
 * Kim Reykdal - Office of Superintendent of Public Instruction
-* Ben Mitchell - Foundation for Tacoma Students
+* Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * 💵Juliet Schindler - [College Success Foundation](/org/college_success_foundation/)
 * Steve Smith - Black Education Strategy Roundtable
 * Rep Paul Harris

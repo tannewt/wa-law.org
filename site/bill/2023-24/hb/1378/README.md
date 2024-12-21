@@ -8,10 +8,9 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/17/2023 [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislation to Remove Derelict Structures Would Promote Healthier Environment, Communities | WA - DNR](https://www.dnr.wa.gov/news/legislation-remove-derelict-structures-would-promote-healthier-environment-communities#:~:text=House%20Bill%201378)
+* 03/06/2023 [Department of Natural Resources](/org/department_of_natural_resources/) - [Passage of Derelict Structures Legislation Puts Washington’s Aquatic Habitat on Cleaner, Healthier Track, says Commissioner Franz | WA - DNR](https://www.dnr.wa.gov/news/passage-derelict-structures-legislation-puts-washington’s-aquatic-habitat-cleaner-healthier#:~:text=House%20Bill%201378)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=HB%201378)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislation to Remove Derelict Structures Would Promote Healthier Environment, Communities | WA - DNR](https://www.dnr.wa.gov/news/legislation-remove-derelict-structures-would-promote-healthier-environment-communities#:~:text=House%20Bill%201378)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [Passage of Derelict Structures Legislation Puts Washington’s Aquatic Habitat on Cleaner, Healthier Track, says Commissioner Franz | WA - DNR](https://www.dnr.wa.gov/news/passage-derelict-structures-legislation-puts-washington%E2%80%99s-aquatic-habitat-cleaner-healthier#:~:text=House%20Bill%201378)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [Passage of Derelict Structures Legislation Puts Washington’s Aquatic Habitat on Cleaner, Healthier Track, says Commissioner Franz | WA - DNR](https://www.dnr.wa.gov/news/passage-derelict-structures-legislation-puts-washington’s-aquatic-habitat-cleaner-healthier#:~:text=House%20Bill%201378)
 
 ## Meetings
 ### Wed 02/22 09:00 AM - Capital Budget (CB): SHB 1378 Derelict aquatic structures

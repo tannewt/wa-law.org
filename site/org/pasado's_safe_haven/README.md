@@ -9,7 +9,7 @@
 ## [HB 1153](/bill/2023-24/hb/1153/) - Octopus farming 👍1  
 
 ## [HB 1234](/bill/2023-24/hb/1234/) - Civil forfeiture of animals 👍2  
-* 👍 Kirsten Gregory
+* 👍💵 Kirsten Gregory
 
 ## [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 

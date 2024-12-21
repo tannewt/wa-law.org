@@ -12,7 +12,6 @@
 
 ## 📰 Articles
 * 03/12/2024 [Gorge News Center](/org/gorge_news_center/) - [5 Boehnke bills pass legislature](https://gorgenewscenter.com/2024/03/12/5-boehnke-bills-pass-legislature/#:~:text=SB%205660,)
-* [KING5](/org/king5/) - [Push for better use of mental health advance directives in Washington | king5.com](https://www.king5.com/article/news/local/push-use-mental-health-advance-directives-washington/281-504a7229-6803-4aa2-86ef-4b92b769a2f3#:~:text=Senate%20Bill%205660)
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Appropriations (APP): 2SSB 5660 Mental health adv directives

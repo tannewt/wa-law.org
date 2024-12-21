@@ -17,6 +17,7 @@
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SHB%201915)
 * 02/03/2024 [House Republicans](/org/house_republicans/) - [Fix the education crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-education-crisis/#:~:text=House%20Bill%201915)
 * 01/16/2024 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Students and Leaders Convene in Olympia for Focus on Advocacy Day - WSPTA](https://www.wastatepta.org/wspta-testifies-foa-24/#:~:text=HB%201915)
+* 01/13/2024 [NW News Network](/org/nw_news_network/) - [A quick start and renters' pleas: Week 1 recap of Washington's 2024 legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-12/a-quick-start-and-renters-pleas-week-1-recap-of-washingtons-2024-legislative-session#:~:text=financial%20education)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%201915)
 * 01/12/2024 [The Center Square](/org/the_center_square/) - [Students in Washington could need to pass a financial literacy class to graduate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_416a4c8a-b177-11ee-b237-9f1cc940f2a1.html#:~:text=HB%201915)
 

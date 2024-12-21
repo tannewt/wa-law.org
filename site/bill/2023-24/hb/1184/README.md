@@ -9,7 +9,6 @@
 ## 📰 Articles
 * 01/29/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201184)
 * 01/15/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/15/the-house-hot-sheet-for-week-2-of-the-2023-legislative-session/#:~:text=HB%201184)
-* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Rep. Hackney partner to expand protections for used car purchases | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-rep-hackney-partner-expand-protections-used-car-purchases#:~:text=HB%201184)
 
 ## Meetings
 ### Wed 01/18 01:30 PM - Consumer Protection & Business (CPB): HB 1184 Used vehicle warranties

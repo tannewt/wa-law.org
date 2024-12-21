@@ -15,7 +15,6 @@
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201003)
 * 01/23/2023 [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB%201003)
 * 01/17/2023 [The Seattle Times](/org/the_seattle_times/) - [Special education spending, oversight top priorities for WA lawmakers | The Seattle Times](https://www.seattletimes.com/education-lab/special-education-spending-oversight-top-priorities-for-wa-lawmakers/#:~:text=HB%201003)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Education](https://crosscut.com/voter-guide/2023-legislative-tracker/election/education#:~:text=House%20Bill%201003)
 
 ## Meetings
 ### Mon 01/23 01:30 PM - Education (ED): HB 1003 Dual credit program access

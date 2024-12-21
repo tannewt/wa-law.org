@@ -1,6 +1,8 @@
 """Simple HTTP get wrapper that stores the history of fetched urls."""
 
-import requests
+import asyncio
+import httpx
+import stamina
 import sqlite3
 import lzma
 import hashlib
@@ -19,7 +21,7 @@ import time
 # requests_log.setLevel(logging.DEBUG)
 # requests_log.propagate = True
 
-headers={'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/110.0'}
+headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0'}
 
 __version__ = "0.0.1"
 
@@ -43,12 +45,7 @@ class HistorySession:
             cur.execute("PRAGMA user_version = 1;")
             self.db.commit()
 
-        self.requests = requests.Session()
-        retry_policy = urllib3.Retry(total=10, backoff_factor=0.1)
-        a = requests.adapters.HTTPAdapter(max_retries=retry_policy)
-        self.requests.mount('https://', a)
-
-    def get(self, url, fetch_again=False, index=-1, crawl_delay=0, only_after=None):
+    async def get(self, url, fetch_again=False, index=-1, crawl_delay=0, only_after=None):
         now = datetime.datetime.now()
         cur = self.db.cursor()
         cur.execute("SELECT sha256, content_xz, first_fetch, last_fetch FROM pages WHERE url = ? ORDER BY last_fetch ASC", (url,))
@@ -60,17 +57,17 @@ class HistorySession:
                 headers["If-Modified-Since"] = only_after.strftime("%a, %d %b %Y %H:%M:%S GMT")
             elif "If-Modified-Since" in headers:
                 del headers["If-Modified-Since"]
-            before = time.monotonic()
-            response = self.requests.get(url, headers=headers, timeout=30)
-            after = time.monotonic()
-            diff = after - before
-            if diff > 1:
-                print("Slow request:", diff)
+            async for attempt in stamina.retry_context(on=httpx.HTTPError, attempts=3):
+                with attempt:
+                    async with httpx.AsyncClient() as client:
+                        response = await client.get(url, headers=headers, follow_redirects=True)
+                    if response.status_code == 304:
+                        return None
+                    response.raise_for_status()
+
             self.already_refetched.add(url)
-            if response.status_code == 304:
-                return None
             # Hide failing requests if we have an older version
-            if not response.ok:
+            if response.status_code != httpx.codes.OK:
                 if past_fetch:
                     return lzma.decompress(past_fetch[index][1])
                 return None
@@ -84,9 +81,13 @@ class HistorySession:
                 content_xz = lzma.compress(content)
                 cur.execute("INSERT INTO pages (url, sha256, content_xz, last_modified, first_fetch, last_fetch) VALUES (?, ?, ?, ?, ?, ?)", (url, sha256, content_xz, last_modified, now, now))
             self.db.commit()
-            time.sleep(crawl_delay)
+            await asyncio.sleep(crawl_delay)
             return content
         return lzma.decompress(past_fetch[index][1])
+
+    async def close(self):
+        await asyncio.sleep(0)
+        self.db.commit()
 
 if __name__ == "__main__":
     session = HistorySession()

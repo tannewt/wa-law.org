@@ -21,7 +21,7 @@ Testifying:
 #### 3 👎 - Con
 Testifying:
 * Mark McKechnie - Washington Traffic Safety Commission
-* Brad Tower - WA Liquor Store Assn
+* 💵Brad Tower - WA Liquor Store Assn
 
 #### 10 ❓ - Other
 Testifying:

@@ -10,6 +10,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 09/03/2024 [Cascade PBS](/org/cascade_pbs/) - [DACA recipients now eligible to be police officers in Washington | Cascade PBS](https://crosscut.com/news/2024/09/daca-recipients-now-eligible-be-police-officers-washington#:~:text=bill%20in%20the%20Washington%20Legislature)
+* 09/03/2024 [Cascade PBS](/org/cascade_pbs/) - [DACA recipients now eligible to be police officers in Washington | Cascade PBS](https://www.cascadepbs.org/news/2024/09/daca-recipients-now-eligible-be-police-officers-washington#:~:text=bill%20in%20the%20Washington%20Legislature)
 * 01/22/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Criminal justice reform, education, tax cuts for housing - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/21/this-week-in-the-senate-week-3-criminal-justice-reform-education-tax-cuts-for-housing/#:~:text=Senate%20Bill%206157)
 
 ## Meetings

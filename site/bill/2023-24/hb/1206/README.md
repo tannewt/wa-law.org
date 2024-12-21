@@ -8,7 +8,6 @@
 
 ## 📰 Articles
 * 01/17/2023 [The Seattle Times](/org/the_seattle_times/) - [A smart way for legislators to help save local news | The Seattle Times](https://www.seattletimes.com/opinion/editorials/a-smart-way-for-legislators-to-help-save-local-news/#:~:text=House%20Bill%201206)
-* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Sen. Mullet, Rep. Pollet propose legislation to support local journalism | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-sen-mullet-rep-pollet-propose-legislation-support-local-journalism#:~:text=House%20Bill%201206)
 
 ## Meetings
 ### Tue 01/24 08:00 AM - Finance (FIN): HB 1206 Newspaper publishers/tax

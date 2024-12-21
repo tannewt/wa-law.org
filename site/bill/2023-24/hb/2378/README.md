@@ -17,7 +17,7 @@ Testifying:
 * Laura Rich - America's Health Insurance Plans
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
-* Kelsey Wulfkuhle - United States of Care
+* 💵Kelsey Wulfkuhle - United States of Care
 
 #### 10 👎 - Con
 Testifying:

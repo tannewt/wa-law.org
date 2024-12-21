@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/07/2024 [Gorge News Center](/org/gorge_news_center/) - [House Republican budget lead Rep. Chris Corry says final operating budget improves some on reserves, but majority spending problem remains](https://gorgenewscenter.com/2024/03/07/house-republican-budget-lead-rep-chris-corry-says-final-operating-budget-improves-some-on-reserves-but-majority-spending-problem-remains/#:~:text=Senate%20Bill%205950)
+
 ## Meetings
 ### Wed 02/14 04:00 PM - Transportation (TR): ESB 5590 Mt. St. Helens license plate
 #### 55 👍 - Pro

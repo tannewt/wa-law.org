@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/13/2024 [The Urbanist](/org/the_urbanist/) - [Franz: Mobilize Washington State-Owned Land to Tackle Housing Affordability Crisis - The Urbanist](https://www.theurbanist.org/2024/04/13/franz-mobilize-washington-state-owned-land-to-tackle-housing-affordability-crisis/#:~:text=exempt%20affordable%20housing%20developers%20from%20the%20Leasehold%20Excise%20Tax)
 * 03/14/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. April Connors’ bill to help build affordable housing on public lands signed into law](https://gorgenewscenter.com/2024/03/14/rep-april-connors-bill-to-help-build-affordable-housing-on-public-lands-signed-into-law/#:~:text=House%20Bill%202003)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Affordable Housing | WA - DNR](https://www.dnr.wa.gov/housing#:~:text=HB2003)
 

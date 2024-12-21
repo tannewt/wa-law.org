@@ -32,7 +32,7 @@ Testifying:
 
 #### 55 👎 - Con
 Testifying:
-* Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Ryan Erickson - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Barbara Tibeau - BeauView Water
 * Don Leabo

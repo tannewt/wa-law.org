@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/15/2024 [Washington State Standard](/org/washington_state_standard/) - [Ranchers and farmers would help state fight wildfires under proposal in Legislature • Washington State Standard](https://washingtonstatestandard.com/2024/01/15/ranchers-and-farmers-would-help-state-fight-wildfires-under-proposal-in-legislature/#:~:text=House%20Bill%201971)
 * 01/11/2024 [Gorge News Center](/org/gorge_news_center/) - [Public hearing Friday on Rep. Dent’s bill to create wildfire prevention partnerships between landowners and firefighters](https://gorgenewscenter.com/2024/01/11/public-hearing-friday-on-rep-dents-bill-to-create-wildfire-prevention-partnerships-between-landowners-and-firefighters/#:~:text=House%20Bill%201971)
 
 ## Meetings

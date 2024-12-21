@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 12/16/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [Washington: A Firewall for Freedom | ACLU of Washington](http://www.aclu-wa.org/pages/firewalls-freedom#:~:text=HB%201469)
+* 09/20/2024 [Gorge News Center](/org/gorge_news_center/) - [Brown and Serrano clash in back-to-back AG debates](https://gorgenewscenter.com/2024/09/20/brown-and-serrano-clash-in-back-to-back-ag-debates/#:~:text=“shield%20law”)
 * 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=HB%201469)
 * 06/28/2023 [House Democrats](/org/house_democrats/) - [Rep. Thai Attends White House Convening on Reproductive Rights – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/06/28/rep-thai-attends-white-house-convening-on-reproductive-rights/#:~:text=HB%201469)
 * 06/15/2023 [Senate Democrats](/org/senate_democrats/) - [Sens. Dhingra, Kuderer attend White House event detailing efforts to protect reproductive rights in Washington state  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/06/15/sens-dhingra-kuderer-attend-white-house-event-detailing-efforts-to-protect-reproductive-rights-in-washington-state/#:~:text=HB%201469)
@@ -41,8 +43,6 @@
 * 01/23/2023 [House Democrats](/org/house_democrats/) - [Trudeau, Hansen introduce shield law to protect access to reproductive care in WA – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/23/trudeau-hansen-introduce-shield-law-to-protect-access-to-reproductive-care-in-wa/#:~:text=House%20Bill%201469)
 * 01/22/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201469)
 * 06/19/2015 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB%201469)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=House%20Bill%201469)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington lawmakers are trying to protect out-of-state abortion patients. Here's what you need to know: | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/05/washington-lawmakers-are-trying-to-protect-out-of-/#:~:text=House%20Bill%201469)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): ESHB 1469 Health care services/access

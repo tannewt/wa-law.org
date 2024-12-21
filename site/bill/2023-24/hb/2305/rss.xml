@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2305/</link>
 		<description>Updates about HB 2305</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 11 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 29 Feb 2024 18:18:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-11/First reading, referred to Community Safety, Justice, &amp; Reentry.</guid>
+		</item>
+		<item>
+			<title>Bill to allow WA police to enforce tribal warrants passes House - Washington Senate Democrats</title>
+			<description>News article &quot;Bill to allow WA police to enforce tribal warrants passes House - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Thu, 29 Feb 2024 18:18:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/02/29/bill-to-allow-wa-police-to-enforce-tribal-warrants-passes-house/#:~:text=companion%20legislation</guid>
 		</item>
 	</channel>
 </rss>

@@ -13,6 +13,8 @@
 
 ## 📰 Articles
 * 08/18/2024 [Gorge News Center](/org/gorge_news_center/) - [Fewer Washington kids are going to foster care despite steady stream of child neglect reports](https://gorgenewscenter.com/2024/08/18/fewer-washington-kids-are-going-to-foster-care-despite-steady-stream-of-child-neglect-reports/#:~:text=Senate%20Bill%206109)
+* 08/17/2024 [Washington State Standard](/org/washington_state_standard/) - [Fewer Washington kids are going to foster care • Washington State Standard](https://washingtonstatestandard.com/2024/08/17/fewer-washington-kids-are-going-to-foster-care-despite-steady-stream-of-child-neglect-reports/#:~:text=Senate%20Bill%206109)
+* 04/03/2024 [Real Change](/org/real_change/) - [Advocates warn new CPS drug law may harm families | April 3–9, 2024 | Real Change](https://www.realchangenews.org/news/2024/04/03/advocates-warn-new-cps-drug-law-may-harm-families#:~:text=A%20new%20law)
 * 03/01/2024 [NW News Network](/org/nw_news_network/) - [WA lawmakers hear initiatives, kill big bills in week 8 of legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-03-01/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=Senate%20Bill%206109)
 * 03/01/2024 [KUOW](/org/kuow/) - [KUOW - Strippers' rights win, tenants' rights lose: The fate of key bills in Washington state](https://www.kuow.org/stories/wa-lawmakers-hear-initiatives-kill-big-bills-in-week-8-of-legislative-session#:~:text=Senate%20Bill%206109)
 * 02/06/2024 [KING5](/org/king5/) - [Foster parents call for improved child welfare laws in Washington | king5.com](https://www.king5.com/article/news/local/foster-parents-call-for-improved-child-welfare-laws-washington/281-d0b56195-e3b8-48be-8e65-346cb702b5eb#:~:text=Senate%20Bill%206109)
@@ -100,7 +102,7 @@ Testifying:
 
 #### 22 ❓ - Other
 Testifying:
-* 💵Giovanni Severino - Latino Community Fund
+* 💵Giovanni Severino - [Latino Community Fund](/org/latino_community_fund/)
 * Tara Urs - King County Department of Public Defense
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
 * Kathleen Biron

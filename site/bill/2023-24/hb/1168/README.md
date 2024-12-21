@@ -10,6 +10,9 @@
 * [Passed Legislature](S2.PL/)
 * [Session Law](S2.SL/)
 
+## 📰 Articles
+* 10/23/2023 [Washington State Standard](/org/washington_state_standard/) - [For children exposed to alcohol before birth, services are in short supply • Washington State Standard](https://washingtonstatestandard.com/2023/10/23/for-children-exposed-to-alcohol-before-birth-services-are-in-short-supply/#:~:text=House%20Bill%201168)
+
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1168 Prenatal substance exposure
 #### 37 👍 - Pro

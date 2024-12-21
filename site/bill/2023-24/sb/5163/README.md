@@ -11,7 +11,7 @@
 * 03/03/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead | March 6 - 10, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-6-10-2023/#:~:text=SB%205163)
 * 03/03/2023 [MyNorthwest](/org/mynorthwest/) - [WA Rep. hopes to eradicate sex offender housing in Enumclaw - MyNorthwest.com](https://mynorthwest.com/3850396/reps-eradicate-sex-offender-housing-enumclaw-tenino/#:~:text=Senate%20Bill%205163,)
 * 02/27/2023 [MyNorthwest](/org/mynorthwest/) - [Sex offender housing: How recent WA laws have changed the process - MyNorthwest.com](https://mynorthwest.com/3839940/sex-offender-housing-recent-state-laws-changed-process/#:~:text=Senate%20Bill%205163)
-* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislative Priorities | Washington State](https://www.atg.wa.gov/legislative-priorities#:~:text=SB%205163)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislative Priorities | Washington State](http://www.atg.wa.gov/legislative-priorities#:~:text=SB%205163)
 
 ## Meetings
 ### Tue 03/21 10:30 AM - Civil Rights & Judiciary (CRJ): SB 5163 Medicaid fraud false claims

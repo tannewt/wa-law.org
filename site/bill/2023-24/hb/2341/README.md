@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 07/23/2024 [Cascade PBS](/org/cascade_pbs/) - [Are offshore wind turbines in Washington’s future? | Cascade PBS](https://crosscut.com/environment/2024/07/are-offshore-wind-turbines-washingtons-future#:~:text=a%20bill)
+
 ## Meetings
 ### Fri 01/19 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2341 Offshore wind dev. study
 #### 36 👍 - Pro

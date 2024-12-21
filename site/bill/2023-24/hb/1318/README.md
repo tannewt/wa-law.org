@@ -30,5 +30,5 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Stephanie Wright - Snohomish County
+* 💵Stephanie Wright - Snohomish County
 * 💵Rashma Agarwal - EASC - Economic Alliance of Snohomish County

@@ -10,7 +10,6 @@
 * 02/01/2023 [House Democrats](/org/house_democrats/) - [Right to Repair Bills heard in House and Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/01/right-to-repair-bills-heard-in-house-and-senate/#:~:text=SB%205464)
 * 01/30/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB%205464)
 * 01/29/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety takes center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/29/this-week-in-the-senate-week-4-public-safety-takes-center-stage/#:~:text=Senate%20Bill%205464)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate%20Bill%205464)
 
 ## Meetings
 ### Tue 01/31 01:30 PM - Environment, Energy & Technology (ENET): SB 5464 Electronics repair

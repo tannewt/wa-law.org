@@ -15,7 +15,6 @@
 * 02/22/2023 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Priority Bills -- current status — Quaker Voice](https://www.quakervoicewa.org/priority-bills-current-status/#:~:text=1085)
 * 01/09/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/09/the-house-hot-sheet-for-week-1-of-the-2023-legislative-session/#:~:text=HB%201085)
 * 02/02/2021 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship/#:~:text=HB1085)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Environment](https://crosscut.com/voter-guide/2023-legislative-tracker/election/environment#:~:text=House%20Bill%201085)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1085 Plastic pollution
@@ -65,7 +64,7 @@ Testifying:
 * Nora Nickum - Seattle Aquarium
 * Pam Clough - [Environment Washington](/org/environment_washington/)
 * Annabella (Bella) Hillyer - Oceana
-* 💵Giovanni Severino - Latino Community Fund
+* 💵Giovanni Severino - [Latino Community Fund](/org/latino_community_fund/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Ann Murphy - League of Women Voters of Washington
 * 💵Ezra Eickmeyer - [Terramer Inc](/org/terramer_inc/)

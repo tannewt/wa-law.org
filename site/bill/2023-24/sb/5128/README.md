@@ -12,7 +12,6 @@
 
 ## 📰 Articles
 * 02/23/2023 [Senate Democrats](/org/senate_democrats/) - [MOCC Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/moccpriorities/#:~:text=SB%205128)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=Senate%20Bill%205128)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5128 Jury diversity

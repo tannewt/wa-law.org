@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1902/</link>
 		<description>Updates about HB 1902</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 19 Feb 2024 03:38:25 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 10 Dec 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -423,6 +423,13 @@
 			<pubDate>Mon, 19 Feb 2024 03:38:25 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%201902</guid>
+		</item>
+		<item>
+			<title>Gun group wants new taxes and permits for WA firearm sales</title>
+			<description>News article &quot;Gun group wants new taxes and permits for WA firearm sales&quot; from Gorge News Center.</description>
+			<pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/12/10/gun-group-wants-new-taxes-and-permits-for-wa-firearm-sales/#:~:text=bill%20last%20session</guid>
 		</item>
 	</channel>
 </rss>

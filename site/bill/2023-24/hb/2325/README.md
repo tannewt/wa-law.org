@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 01/20/2024 [Washington State Standard](/org/washington_state_standard/) - [State lawmakers writing rules to govern collective bargaining with their staff • Washington State Standard](https://washingtonstatestandard.com/2024/01/20/state-lawmakers-writing-rules-to-govern-collective-bargaining-with-their-staff/#:~:text=House%20Bill%202325)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202325)
 
 ## Meetings

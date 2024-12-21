@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 12/13/2024 [The Center Square](/org/the_center_square/) - [No FAFSA required for low income WA students seeking taxpayer-funded college | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9f183acc-b98c-11ef-afea-17e8339c4c3b.html#:~:text=new%20law)
 * 03/27/2024 [House Democrats](/org/house_democrats/) - [Gov. Signs Slatter Bill Expanding Access to Higher Education – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/27/gov-signs-slatter-bill-expanding-access-to-higher-education/#:~:text=House%20Bill%202214)
 * 02/09/2024 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS: Slatter Bill Expands Pre-Eligibility for WA College Grant – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/legislative-news-slatter-bill-expands-pre-eligibility-for-wa-college-grant/#:~:text=House%20Bill%202214)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=SHB%202214)

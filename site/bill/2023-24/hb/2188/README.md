@@ -19,7 +19,7 @@ Testifying:
 * Amy Fortier - Retired Public Employees Council of WA
 * 💵Laurie Weidner - PEBB Stakeholders' Medicare Coalition & Retired Public Employees Council of Washington (RPEC)
 * Lee Ann Prielipp - PEBB Stakeholders' Medicare Coalition & Washington Education Association - Retired
-* Richard Burton - PEBB Stakeholders' Medicare Coalition & AFT WA Retiree Chapter
+* 💵Richard Burton - PEBB Stakeholders' Medicare Coalition & AFT WA Retiree Chapter
 * Carol Dotlich - Retired Public Employees
 * Marcus Ehrlander - Office of Financial Management
 * Toni Long - Retired Public Employees Council of WA

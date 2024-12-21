@@ -127,7 +127,7 @@ Testifying:
 * Jacqueline Kinley - Unified Residential Care and Main Residential Care
 * Kate White Tudor - Washington Association of Area Agencies on Aging
 * Elisia Anderson - First Step Family Support
-* Nathan Koch - Children's Home Society of Washington
+* 💵Nathan Koch - Children's Home Society of Washington
 * Steve Daschle - Southwest Youth and Family Services
 * Heather Cantamessa - Children's Home Society of Washington
 * Jessica Cinollo - XChange

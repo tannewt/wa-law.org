@@ -14,7 +14,6 @@
 * 01/30/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB%201146)
 * 01/29/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201146)
 * 01/23/2023 [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB%201146)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Education](https://crosscut.com/voter-guide/2023-legislative-tracker/election/education#:~:text=House%20Bill%201146)
 
 ## Meetings
 ### Wed 02/14 10:30 AM - Early Learning & K-12 Education (EDU): HB 1146 Dual credit program notice

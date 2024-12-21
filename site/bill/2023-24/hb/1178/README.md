@@ -28,7 +28,7 @@ Testifying:
 * Karyn Brownson - King County Public Health
 * Liz Hjelmseth
 * Neal Black - Kirkland City Council
-* Brad Blackburn
+* 💵Brad Blackburn
 * Jennifer Dolan Waldman - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
 * 💵Stephen Paolini - ADL
 * Ian Taylor

@@ -19,8 +19,6 @@
 * 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201134)
 * 01/29/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201134)
 * 01/15/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/15/the-house-hot-sheet-for-week-2-of-the-2023-legislative-session/#:~:text=HB%201134)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=House%20Bill%201134)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=House%20Bill%201134)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): E2SHB 1134 988 system

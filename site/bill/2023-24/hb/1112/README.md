@@ -14,7 +14,6 @@
 * 02/23/2023 [Gorge News Center](/org/gorge_news_center/) - [Rep. Harris legislation to protect vulnerable victims one step closer to passing the House](https://gorgenewscenter.com/2023/02/23/rep-harris-legislation-to-protect-vulnerable-victims-one-step-closer-to-passing-the-house/#:~:text=House%20Bill%201112)
 * 01/17/2023 [Gorge News Center](/org/gorge_news_center/) - [Harris pushes for review of negligent driving penalties with new bill](https://gorgenewscenter.com/2023/01/17/harris-pushes-for-review-of-negligent-driving-penalties-with-new-bill/#:~:text=House%20Bill%201112)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1112)
-* [Gorge Radio](/org/gorge_radio/) - [Inslee Signs Bill Upping Penalty For Negligent Driving Resulting In Death – Gorge Radio](https://gorgeradio.com/inslee-signs-bill-upping-penalty-for-negligent-driving-resulting-in-death/#:~:text=House%20Bill%201112)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Transportation (TRAN): HB 1112 Negligent driving

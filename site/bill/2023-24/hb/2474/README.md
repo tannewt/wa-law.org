@@ -15,6 +15,7 @@
 * 03/11/2024 [The Urbanist](/org/the_urbanist/) - [Year of Housing 2.0 Mostly Fizzles Out at Washington Legislature - The Urbanist](https://www.theurbanist.org/2024/03/11/year-of-housing-2-0-mostly-fizzles-out-at-washington-legislature/#:~:text=House%20Bill%202474)
 * 02/15/2024 [The Seattle Times](/org/the_seattle_times/) - [Why Plymouth Housing project didn’t work in Kenmore | The Seattle Times](https://www.seattletimes.com/opinion/why-plymouth-housing-project-didnt-work-in-kenmore/#:~:text=House%20Bill%202474)
 * 02/14/2024 [The Urbanist](/org/the_urbanist/) - [Redmond Swoops In To Save Kenmore’s Cancelled Low-Income Housing Project - The Urbanist](https://www.theurbanist.org/2024/02/14/redmond-swoops-in-to-save-kenmores-cancelled-low-income-housing-project/#:~:text=HB%202474)
+* 01/27/2024 [The Urbanist](/org/the_urbanist/) - [Legislature Advances Proposal Allowing Cafes in More Neighborhoods - The Urbanist](https://www.theurbanist.org/2024/01/27/legislature-advances-proposal-allowing-cafes-in-more-neighborhoods/#:~:text=siting%20permanent%20supportive%20and%20transitional%20housing)
 
 ## Meetings
 ### Tue 02/20 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): ESHB 2474 Transitional housing siting

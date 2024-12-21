@@ -10,7 +10,7 @@
 ### Thu 02/09 01:30 PM - Finance (FIN): HB 1557 Digital processing services
 #### 8 👍 - Pro
 Testifying:
-* Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * 💵Joe Adamack - Washington's Credit Unions - GWCUA
 
 #### 2 👎 - Con

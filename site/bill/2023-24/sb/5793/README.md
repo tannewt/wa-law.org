@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 04/02/2024 [Washington State Standard](/org/washington_state_standard/) - [Inslee signs worker protection bills, 'captive audience' meetings ban • Washington State Standard](https://washingtonstatestandard.com/2024/04/02/inslee-signs-worker-protection-bills-washington-ban-on-captive-audience-meetings/#:~:text=Senate%20Bill%205793)
+* 03/09/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [WaLeg Recap: Progress Made – but Far More is Needed Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/waleg-recap-2024/#:~:text=Paid%20Sick%20and%20Safe%20Leave%20law)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%205793)
 
 ## Meetings

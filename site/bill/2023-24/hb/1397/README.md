@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/28/2024 [FOX13](/org/fox13/) - [Reward to find Oakley Carlson reaches $100,000](https://www.fox13seattle.com/news/reward-to-find-oakley-carlson-reaches-100000#:~:text=Oakley%20Carlson%20Act)
 * 02/21/2023 [NW News Network](/org/nw_news_network/) - [WA bill meant to safeguard foster children appears to have died in committee | Northwest News Network](https://www.nwnewsnetwork.org/2023-02-21/wa-bill-meant-to-safeguard-foster-children-appears-to-have-died-in-committee#:~:text=House%20Bill%201397)
 * 02/17/2023 [FOX13](/org/fox13/) - [Legislators hear emotional testimony on 'Oakley Carlson Act' aimed at protecting children](https://www.fox13seattle.com/news/legislators-hear-emotional-testimony-on-oakley-carlson-act-aimed-at-protecting-children#:~:text=House%20Bill%201397)
 

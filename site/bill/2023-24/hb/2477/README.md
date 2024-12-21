@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/02/2024 [Gorge News Center](/org/gorge_news_center/) - [First bills drop ahead of WA’s 2025 legislative session](https://gorgenewscenter.com/2024/12/02/first-bills-drop-ahead-of-was-2025-legislative-session/#:~:text=the%20same%20bill)
+
 ## Meetings

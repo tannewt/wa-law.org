@@ -1,5 +1,30 @@
 import sqlite3
 
+import datetime
+
+def adapt_date_iso(val):
+    """Adapt datetime.date to ISO 8601 date."""
+    return val.isoformat()
+
+def adapt_datetime_iso(val):
+    """Adapt datetime.datetime to timezone-naive ISO 8601 date."""
+    return val.isoformat()
+
+sqlite3.register_adapter(datetime.date, adapt_date_iso)
+sqlite3.register_adapter(datetime.datetime, adapt_datetime_iso)
+
+def convert_date(val):
+    """Convert ISO 8601 date to datetime.date object."""
+    return datetime.date.fromisoformat(val.decode())
+
+def convert_datetime(val):
+    """Convert ISO 8601 datetime to datetime.datetime object."""
+    return datetime.datetime.fromisoformat(val.decode())
+
+sqlite3.register_converter("date", convert_date)
+sqlite3.register_converter("datetime", convert_datetime)
+sqlite3.register_converter("timestamp", convert_datetime)
+
 def add_or_update_section(path, section, contents):
     """This adds or updates a section within the markdown file. The section
        starts at the line that matches section and goes until another line that

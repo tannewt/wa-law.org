@@ -20,9 +20,6 @@
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB%205045)
 * 01/31/2023 [The Center Square](/org/the_center_square/) - [‘Big session for housing’: Bipartisan group of lawmakers push for more construction | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a86ce3a0-a1b7-11ed-999e-3b10893492fd.html#:~:text=Senate%20Bill%205045)
 * 01/08/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: WE'RE BACK - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/08/this-week-in-the-senate-week-1-were-back/#:~:text=Senate%20Bill%205045)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Housing & Homelessness](https://crosscut.com/voter-guide/2023-legislative-tracker/election/housing-homelessness#:~:text=Senate%20Bill%205045)
-* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=E2SSB%205045)
-* [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=SB%205045)
 
 ## Meetings
 ### Thu 03/30 08:00 AM - Finance (FIN): E2SSB 5045 ADU rental/property tax

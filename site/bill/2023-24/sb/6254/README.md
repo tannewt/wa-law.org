@@ -17,7 +17,7 @@
 Testifying:
 * Melissa Beard - Council of Presidents
 * Arlen Harris - SBCTC
-* Ben Mitchell - Foundation for Tacoma Students
+* Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 
 #### 0 👎 - Con
 
@@ -27,7 +27,7 @@ Testifying:
 #### 68 👍 - Pro
 Testifying:
 * Dr. Joyce Loveday - Clover Park Technical College
-* Dr. Tafona Ervin - Foundation for Tacoma Students
+* Dr. Tafona Ervin - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * Melissa Beard - Council of Presidents
 * Celva Boon - Clover Park Technical College
 * Megan Clark - 5923 S I St

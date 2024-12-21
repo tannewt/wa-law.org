@@ -11,6 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 01/01/2024 [Crosscut](/org/crosscut/) - [The new year brings new WA laws for guns, minimum wage and more | Crosscut](https://crosscut.com/news/2024/01/new-year-brings-new-wa-laws-guns-minimum-wage-and-more#:~:text=Supporters%20of%20the%20change%20told%20lawmakers)
+* 01/01/2024 [Cascade PBS](/org/cascade_pbs/) - [The new year brings new WA laws for guns, minimum wage and more | Cascade PBS](https://www.cascadepbs.org/news/2024/01/new-year-brings-new-wa-laws-guns-minimum-wage-and-more#:~:text=Supporters%20of%20the%20change%20told%20lawmakers)
 * 12/26/2023 [The Center Square](/org/the_center_square/) - [WA state laws in 2024: minimum wage, firearm sales, employee cannabis use and more | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_64f5489a-a438-11ee-bb84-6798534e51a4.html#:~:text=Senate%20Bill%205111)
 
 ## Meetings

@@ -42,7 +42,7 @@ Testifying:
 Testifying:
 * 💵Holly Chisa - Institute of Scrap Metal Industries
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
-* Brad Tower - Radius Recycling
+* 💵Brad Tower - Radius Recycling
 
 #### 0 👎 - Con
 
@@ -54,7 +54,7 @@ Testifying:
 #### 10 👍 - Pro
 Testifying:
 * 💵Taylor Gardner - WA Assn of Sheriffs and Police Chiefs
-* Brad Tower - Radius Recycling
+* 💵Brad Tower - Radius Recycling
 * 💵Holly Chisa - Institute of Scrap Recycling Industries
 
 #### 0 👎 - Con

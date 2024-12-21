@@ -19,8 +19,8 @@ Testifying:
 
 #### 9 👎 - Con
 Testifying:
-* Brad Tower - Community Bankers of WA
-* Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* 💵Brad Tower - Community Bankers of WA
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * Josh Deck - Olympia Federal Savings
 * Tamra Rieger - Evergreen Home Loans, President
 * Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)

@@ -8,10 +8,11 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 11/25/2024 [The Center Square](/org/the_center_square/) - [AGO task force looks at 'extremism' from a public health perspective | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_234480b2-ab55-11ef-8872-c73ed755b538.html#:~:text=House%20Bill%201333)
+* 03/29/2024 [Washington State Standard](/org/washington_state_standard/) - [New Washington budget boosts state spending by $2B • Washington State Standard](https://washingtonstatestandard.com/2024/03/29/inslee-oks-2-billion-boost-in-state-spending/#:~:text=House%20Bill%201333)
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [House of origin cutoff | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-of-origin-cutoff/#:~:text=House%20Bill%201333)
 * 01/29/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201333)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201333)
-* [MyNorthwest](/org/mynorthwest/) - [Rantz: AG pushing most dangerous bill in legislative history - MyNorthwest.com](https://mynorthwest.com/3843618/rantz-ag-ferguson-conservative-views-terrifying-extremism-commission/#:~:text=HB%201333)
 
 ## Meetings
 ### Mon 02/13 04:00 PM - Appropriations (APP): SHB 1333 Domestic violent extremism

@@ -10,6 +10,7 @@
 ## 📰 Articles
 * 02/23/2023 [Senate Democrats](/org/senate_democrats/) - [MOCC Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/moccpriorities/#:~:text=SB%205339)
 * 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB%205339)
+* 01/30/2023 [Food Lifeline](/org/food_lifeline/) - [Washington State Legislative Session Update – Day 22 | Food Lifeline](https://foodlifeline.org/article/washington-state-legislative-session-update-day-22#:~:text=SB%205339)
 * 01/30/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB%205339)
 * 01/24/2023 [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](https://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=5339)
 * 01/23/2023 [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=SB%205339)
@@ -26,7 +27,7 @@ Testifying:
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation
 * Andrea Davis - Coordinated Care
 * 💵Mitch Denning - WA Assn of Maintenance and Operation Administrators
-* Ben Mitchell - Foundation for Tacoma Students
+* Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * Roni Cook - [Washington Education Association](/org/washington_education_association/)
 * Mollie Grow - WA Chapter of the American Academy of Pediatrics
 * Jodi Jaap

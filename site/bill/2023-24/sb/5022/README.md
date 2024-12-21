@@ -6,9 +6,6 @@
 ## Revisions
 * [Original Bill](1/)
 
-## 📰 Articles
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=Senate%20Bill%205022)
-
 ## Meetings
 ### Tue 03/21 04:00 PM - Community Safety, Justice, & Reentry (CSJR): ESB 5022 Drug testing equipment
 #### 18 👍 - Pro

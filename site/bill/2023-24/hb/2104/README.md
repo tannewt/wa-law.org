@@ -100,7 +100,7 @@ Testifying:
 * Sydney Krebsbach
 * John Lemus
 * Lynn Kimball - Long-Term Care of Eastern Washington
-* Cristina Ortega - Latino Community Fund
+* Cristina Ortega - [Latino Community Fund](/org/latino_community_fund/)
 * 💵Kaitie Dong - WA Budget and Policy Center
 * Vanessa Reyes - WA Immigrant and Solidarity Network
 * 💵Kia Franklin - Stand for Children Washington

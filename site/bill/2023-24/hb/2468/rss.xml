@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2468/</link>
 		<description>Updates about HB 2468</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 30 Jan 2024 12:31:32 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 19 Nov 2024 17:34:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Erika/Snell/2024-01-27 08:39:25</guid>
+		</item>
+		<item>
+			<title>Legislature Advances Proposal Allowing Cafes in More Neighborhoods - The Urbanist</title>
+			<description>News article &quot;Legislature Advances Proposal Allowing Cafes in More Neighborhoods - The Urbanist&quot; from The Urbanist.</description>
+			<pubDate>Sat, 27 Jan 2024 17:32:37 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2024/01/27/legislature-advances-proposal-allowing-cafes-in-more-neighborhoods/#:~:text=child%20care%20facilities</guid>
 		</item>
 		<item>
 			<title>👍Dana Christiansen - Washington Childcare Center Association</title>
@@ -85,6 +92,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Amber/Rosier/2024-01-30 12:31:32</guid>
+		</item>
+		<item>
+			<title>Parking Mandates Are Keeping Kids Out of Daycare - Sightline Institute</title>
+			<description>News article &quot;Parking Mandates Are Keeping Kids Out of Daycare - Sightline Institute&quot; from Sightline Institute.</description>
+			<pubDate>Tue, 19 Nov 2024 17:34:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.sightline.org/2024/11/19/parking-mandates-are-keeping-kids-out-of-daycare/#:~:text=legalized%20daycare%20in%20more%20zones</guid>
 		</item>
 	</channel>
 </rss>

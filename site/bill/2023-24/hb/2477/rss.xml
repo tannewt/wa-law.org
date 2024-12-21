@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2477/</link>
 		<description>Updates about HB 2477</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 25 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 02 Dec 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,13 @@
 			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-25/First reading, referred to Community Safety, Justice, &amp; Reentry.</guid>
+		</item>
+		<item>
+			<title>First bills drop ahead of WA’s 2025 legislative session</title>
+			<description>News article &quot;First bills drop ahead of WA’s 2025 legislative session&quot; from Gorge News Center.</description>
+			<pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/12/02/first-bills-drop-ahead-of-was-2025-legislative-session/#:~:text=the%20same%20bill</guid>
 		</item>
 	</channel>
 </rss>

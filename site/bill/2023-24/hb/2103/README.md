@@ -7,9 +7,11 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/01/2024 [Senate Democrats](/org/senate_democrats/) - [House passes bill to reduce health risks from Sea-Tac Airport - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/03/01/house-passes-bill-to-reduce-health-risks-from-sea-tac-airport/#:~:text=companion%20bill)
+* 03/01/2024 [House Democrats](/org/house_democrats/) - [House passes bill to reduce health risks from Sea-Tac Airport – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/01/house-passes-bill-to-reduce-health-risks-from-sea-tac-airport/#:~:text=companion%20bill)
 * 02/28/2024 [The Seattle Times](/org/the_seattle_times/) - [Port OKs $5M to fix soundproofing in homes near Sea-Tac Airport | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/port-oks-5m-to-fix-soundproofing-in-homes-near-sea-tac-airport/#:~:text=HB%202103,)
-* 01/17/2024 [The Center Square](/org/the_center_square/) - [Legislation would use Seattle Port revenue for pollution mitigation | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_896d9216-b58d-11ee-b707-2f05aad421ae.html#:~:text=House%20Bill%202103)
 * 01/17/2024 [House Democrats](/org/house_democrats/) - [Elected officials, residents propose action to cut noise and air pollution near Sea-Tac Airport – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/17/elected-officials-residents-propose-action-to-cut-noise-and-air-pollution-near-sea-tac-airport/#:~:text=HB%202103)
+* 01/17/2024 [The Center Square](/org/the_center_square/) - [Legislation would use Seattle Port revenue for pollution mitigation | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_896d9216-b58d-11ee-b707-2f05aad421ae.html#:~:text=House%20Bill%202103)
 * 01/16/2024 [KIRO7](/org/kiro7/) - [State lawmakers hold press conference on Sea-Tac Airport noise, pollution bill – KIRO 7 News Seattle](https://www.kiro7.com/news/local/state-lawmakers-hold-press-conference-sea-airport-noise-pollution-bill/PDSAOQWB4VCHDMC2NUNRBJT57E/#:~:text=House%20Bill%202103)
 * 01/15/2024 [Senate Democrats](/org/senate_democrats/) - [Elected officials, residents propose action to cut noise and air pollution near Sea-Tac Airport - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/15/elected-officials-residents-propose-action-to-cut-noise-and-air-pollution-near-sea-tac-airport/#:~:text=HB%202103)
 

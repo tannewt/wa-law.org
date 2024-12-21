@@ -9,6 +9,7 @@
 ## 📰 Articles
 * 01/12/2024 [House Democrats](/org/house_democrats/) - [ICYMI: WA improves tax equity based on new report. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/12/icymi-wa-improves-tax-equity-based-on-new-report/#:~:text=House%20Bill%201473)
 * 12/15/2023 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2024 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2024-legislative-agenda/#:~:text=HB%201473)
+* 11/09/2023 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Jeff Bezos is Leaving Seattle - So What? - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/jeff-bezos-is-leaving-seattle-so-what/#:~:text=House)
 * 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=HB%201473)
 * 02/13/2023 [Washington St Pta](/org/washington_st_pta/) - [Deadline for Policy Bills Looms in Week 5 - WSPTA](https://www.wastatepta.org/deadline-for-policy-bills-looms-in-week-5/#:~:text=HB%201473)
 * 02/13/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201473)

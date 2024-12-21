@@ -50,7 +50,7 @@ Testifying:
 * Ph.D., Susan Stoner
 * Patrick Dowd - WA State Office of the Family & Children's Ombuds
 * Christina Faucett
-* 💵Giovanni Severino - Latino Community Fund
+* 💵Giovanni Severino - [Latino Community Fund](/org/latino_community_fund/)
 * 💵Shrounda Selivanoff
 * Teshara Villaluz
 * Mishka Terplan MD MPH,FACOG,DFAS

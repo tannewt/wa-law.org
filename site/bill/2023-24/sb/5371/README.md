@@ -21,8 +21,6 @@
 * 04/12/2023 [House Democrats](/org/house_democrats/) - [House Passes Bill to Protect Endangered Orcas – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/12/house-passes-bill-to-protect-endangered-orcas/#:~:text=Senate%20Bill%205371)
 * 02/20/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Local lawmakers advance bills on environment, children | Cascadia Daily News](https://www.cascadiadaily.com/2023/feb/20/local-lawmakers-advance-bills-on-environment-children/#:~:text=Senate%20Bill%205371)
 * 06/29/2022 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/blog/team_members/sen-liz-lovelett/#:~:text=Senate%20Bill%205371)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate%20Bill%205371)
-* [KING5](/org/king5/) - [Southern Resident orca protection bill passes House | king5.com](https://www.king5.com/article/life/animals/southern-resident-orca-bill-passes-house/281-5eda670b-e100-43c9-9f4e-b7fc5393257e#:~:text=Senate%20Bill%205371)
 
 ## Meetings
 ### Mon 04/03 09:00 AM - Appropriations (APP): ESSB 5371 Orca vessel protection

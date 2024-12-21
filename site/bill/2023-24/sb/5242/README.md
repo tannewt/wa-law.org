@@ -30,8 +30,6 @@
 * 01/20/2023 [Senate Democrats](/org/senate_democrats/) - [WA Senate to hear five abortion protection bills Tuesday - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/20/wa-senate-to-hear-five-abortion-protection-bills-tuesday/#:~:text=SB%205242)
 * 01/13/2023 [Senate Democrats](/org/senate_democrats/) - [Senate Democrats unite to act on protecting reproductive rights  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/13/senate-democrats-unite-to-act-on-protecting-reproductive-rights/#:~:text=SB%205242)
 * 06/19/2015 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB%205242)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=Senate%20Bill%205242)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington lawmakers are trying to protect out-of-state abortion patients. Here's what you need to know: | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/05/washington-lawmakers-are-trying-to-protect-out-of-/#:~:text=Senate%20Bill%205242)
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): SB 5242 Abortion cost sharing

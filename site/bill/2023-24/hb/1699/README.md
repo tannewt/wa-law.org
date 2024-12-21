@@ -9,7 +9,6 @@
 
 ## 📰 Articles
 * 02/08/2023 [The Center Square](/org/the_center_square/) - ['Some equity here': Bill would pay Fish and Wildlife Commission members | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_bf6e8384-a7ec-11ed-94a5-a31ec1967646.html#:~:text=HB%201699)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington commissioners would receive salary per proposed legislation | The Spokesman-Review](https://www.spokesman.com/stories/2023/feb/08/washington-commissioners-would-receive-salary-per-/#:~:text=House%20Bill%201699)
 
 ## Meetings
 ### Fri 02/10 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1699 Fish & wildlife salaries

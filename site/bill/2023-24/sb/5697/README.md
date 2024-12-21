@@ -9,6 +9,9 @@
 
 ## 📰 Articles
 * 12/22/2023 [Crosscut](/org/crosscut/) - [What tenant protections will WA lawmakers consider in 2024? | Crosscut](https://crosscut.com/investigations/2023/12/what-tenant-protections-will-wa-lawmakers-consider-2024#:~:text=SB%205697)
+* 12/22/2023 [Cascade PBS](/org/cascade_pbs/) - [What tenant protections will WA lawmakers consider in 2024? | Cascade PBS](https://www.cascadepbs.org/investigations/2023/12/what-tenant-protections-will-wa-lawmakers-consider-2024#:~:text=SB%205697)
+* 08/30/2023 [Crosscut](/org/crosscut/) - [WA mobile home communities organize against ‘economic eviction’ | Crosscut](https://crosscut.com/investigations/2023/08/wa-mobile-home-communities-organize-against-economic-eviction#:~:text=proposed%20bill)
+* 08/30/2023 [Cascade PBS](/org/cascade_pbs/) - [WA mobile home communities organize against ‘economic eviction’ | Cascade PBS](https://www.cascadepbs.org/investigations/2023/08/wa-mobile-home-communities-organize-against-economic-eviction#:~:text=proposed%20bill)
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5697 Mobile home park rates
@@ -16,7 +19,7 @@
 
 #### 1 👎 - Con
 Testifying:
-* Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 
 #### 0 ❓ - Other
 
@@ -45,7 +48,7 @@ Testifying:
 * Jared Varnes
 * Beau Harer - Detente Management, Inc
 * Ryan Erickson - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
-* Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Mike Simonitch - Shelter Management
 * Walter Jorgensen
 * Michael Ewing

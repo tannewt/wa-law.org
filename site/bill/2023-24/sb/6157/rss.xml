@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6157/</link>
 		<description>Updates about SB 6157</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 28 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 03 Sep 2024 12:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -146,6 +146,20 @@
 			<pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-28/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>DACA recipients now eligible to be police officers in Washington | Cascade PBS</title>
+			<description>News article &quot;DACA recipients now eligible to be police officers in Washington | Cascade PBS&quot; from Cascade PBS.</description>
+			<pubDate>Tue, 03 Sep 2024 12:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://crosscut.com/news/2024/09/daca-recipients-now-eligible-be-police-officers-washington#:~:text=bill%20in%20the%20Washington%20Legislature</guid>
+		</item>
+		<item>
+			<title>DACA recipients now eligible to be police officers in Washington | Cascade PBS</title>
+			<description>News article &quot;DACA recipients now eligible to be police officers in Washington | Cascade PBS&quot; from Cascade PBS.</description>
+			<pubDate>Tue, 03 Sep 2024 12:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadepbs.org/news/2024/09/daca-recipients-now-eligible-be-police-officers-washington#:~:text=bill%20in%20the%20Washington%20Legislature</guid>
 		</item>
 	</channel>
 </rss>

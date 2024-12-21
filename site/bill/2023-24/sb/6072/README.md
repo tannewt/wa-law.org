@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/29/2024 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers approve out-of-state option for long-term care benefit • Washington State Standard](https://washingtonstatestandard.com/2024/02/29/long-term-care-benefit-washington/#:~:text=Senate%20Bill%206072)
 * 02/16/2024 [The Seattle Times](/org/the_seattle_times/) - [Lawmakers won’t act on WA long-term care ballot initiative | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/lawmakers-wont-act-on-wa-long-term-care-ballot-initiative/#:~:text=Senate%20Bill%206072)
 
 ## Meetings

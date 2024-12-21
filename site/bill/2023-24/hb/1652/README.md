@@ -11,10 +11,14 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/20/2024 [Food Lifeline](/org/food_lifeline/) - [2024 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2024-washington-state-legislative-session-summary#:~:text=HB%201652)
 * 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%201652)
+* 03/11/2024 [Cascade PBS](/org/cascade_pbs/) - [2024 WA Legislature passes bills on guns, environment, education | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%201652)
 * 03/05/2024 [Crosscut](/org/crosscut/) - [WA lawmakers pass bill to curb seizures of child support payments | Crosscut](https://crosscut.com/briefs/2024/03/wa-lawmakers-pass-bill-curb-seizures-child-support-payments#:~:text=HB%201652)
+* 03/05/2024 [Cascade PBS](/org/cascade_pbs/) - [WA lawmakers pass bill to curb seizures of child support payments | Cascade PBS](https://www.cascadepbs.org/briefs/2024/03/wa-lawmakers-pass-bill-curb-seizures-child-support-payments#:~:text=HB%201652)
 * 02/17/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Additional Supported Bills — Quaker Voice](https://www.quakervoicewa.org/2024-additional-supported-bills/#:~:text=HB%201652)
 * 01/25/2024 [Crosscut](/org/crosscut/) - [WA intercepts millions in child support for low-income families | Crosscut](https://crosscut.com/investigations/2024/01/wa-intercepts-millions-child-support-low-income-families#:~:text=House%20Bill%201652)
+* [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=HB%201625)
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): ESHB 1652 Child support pass through

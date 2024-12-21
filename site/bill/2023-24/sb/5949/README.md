@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/14/2024 [House Republicans](/org/house_republicans/) - [Big wins, a few losses in the 2024 legislative session | Washington State House Republicans](http://houserepublicans.wa.gov/current/big-wins-a-few-losses-in-the-2024-legislative-session/#:~:text=supplemental%20capital%20budget)
 * 02/11/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 6: Floor wraps up and budgets start to emerge - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/11/this-week-in-the-senate-week-6-floor-wraps-up-and-budgets-start-to-emerge/#:~:text=SB%205949)
 * 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=SB%205949)
 * [Senate Republicans](/org/senate_republicans/) - [Senate Capital Budget Proposal - Senate Republican Caucus](https://src.wastateleg.org/senate-capital-budget-proposal-2/#:~:text=(PSSB%205949))
@@ -31,7 +32,7 @@ Testifying:
 * Sherry Williams - HealthPoint CHC
 * Seth Muir - Sail Sand Point
 * Amanda Barta - Moses Lake Community Health Center
-* Joe Vessey - Community Health Center of Snohomish County
+* Joe Vessey - [Community Health Center of Snohomish County](/org/community_health_center_of_snohomish_county/)
 * Paul Tabayoyon - Asian Pacific Islander Coaltion of Yakima Valley
 * SuYoung Yun - ACRS and APIC Washington
 * Afua Kouyate - African Cultural Arts Center

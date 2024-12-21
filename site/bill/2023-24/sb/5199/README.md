@@ -12,6 +12,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 01/01/2024 [Crosscut](/org/crosscut/) - [The new year brings new WA laws for guns, minimum wage and more | Crosscut](https://crosscut.com/news/2024/01/new-year-brings-new-wa-laws-guns-minimum-wage-and-more#:~:text=for%20news%20organizations%20that%20primarily%20publish%20in%20print)
+* 01/01/2024 [Cascade PBS](/org/cascade_pbs/) - [The new year brings new WA laws for guns, minimum wage and more | Cascade PBS](https://www.cascadepbs.org/news/2024/01/new-year-brings-new-wa-laws-guns-minimum-wage-and-more#:~:text=for%20news%20organizations%20that%20primarily%20publish%20in%20print)
 * 12/28/2023 [KIRO7](/org/kiro7/) - [Street racing among new laws, changes going into effect in Washington in 2024 – KIRO 7 News Seattle](https://www.kiro7.com/news/local/street-racing-among-new-laws-changes-going-into-effect-washington-2024/3BSXTJGYPVAFLFVKXPUYMZOU2A/#:~:text=Senate%20Bill%205199)
 * 12/26/2023 [The Center Square](/org/the_center_square/) - [WA state laws in 2024: minimum wage, firearm sales, employee cannabis use and more | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_64f5489a-a438-11ee-bb84-6798534e51a4.html#:~:text=SB%205199)
 * 05/31/2023 [The Center Square](/org/the_center_square/) - [Study: Washington’s local news decline hurts democracy, costs taxpayers | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9dda11f6-fffe-11ed-ae77-abdcc59e18f3.html#:~:text=Senate%20Bill%205199)
@@ -19,8 +21,7 @@
 * 03/01/2023 [The Seattle Times](/org/the_seattle_times/) - [Free Press roundup: WA legislative progress, Google bullies Canada | The Seattle Times](https://www.seattletimes.com/opinion/free-press-roundup-wa-legislative-progress-google-bullies-canada/#:~:text=Bill%205199)
 * 01/17/2023 [The Seattle Times](/org/the_seattle_times/) - [A smart way for legislators to help save local news | The Seattle Times](https://www.seattletimes.com/opinion/editorials/a-smart-way-for-legislators-to-help-save-local-news/#:~:text=Senate%20Bill%205199)
 * 01/11/2016 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate%20Bill%205199)
-* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislative Priorities | Washington State](https://www.atg.wa.gov/legislative-priorities#:~:text=E2SSB%205199)
-* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Sen. Mullet, Rep. Pollet propose legislation to support local journalism | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-sen-mullet-rep-pollet-propose-legislation-support-local-journalism#:~:text=Senate%20Bill%205199)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislative Priorities | Washington State](http://www.atg.wa.gov/legislative-priorities#:~:text=E2SSB%205199)
 
 ## Meetings
 ### Fri 04/14 08:00 AM - Finance (FIN): E2SSB 5199 Newspaper publishers/tax

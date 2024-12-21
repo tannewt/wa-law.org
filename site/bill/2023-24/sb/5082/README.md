@@ -29,9 +29,6 @@
 * 01/09/2023 [The Seattle Times](/org/the_seattle_times/) - [Lawmakers convene in Olympia for first day of 2023 Legislature | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/lawmakers-convene-in-olympia-for-first-day-of-2023-legislature/#:~:text=SB%205082)
 * 01/08/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: WE'RE BACK - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/08/this-week-in-the-senate-week-1-were-back/#:~:text=SB%205082)
 * 01/11/2016 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate%20Bill%205082)
-* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=ESSB%205082)
-* [KIRO7](/org/kiro7/) - [State lawmakers pass bill to remove advisory votes from Washington ballots – KIRO 7 News Seattle](https://www.kiro7.com/news/local/state-lawmakers-pass-bill-remove-advisory-votes-washington-ballots/W5GFVDOO2VA73IHFUDIIRNTLP4/#:~:text=House%20Bill%205082)
-* [The Spokesman-Review](/org/the_spokesman-review/) - ['It’s time to end the failed experiment': Bill to repeal advisory votes heads to Inslee's desk | The Spokesman-Review](https://www.spokesman.com/stories/2023/apr/12/its-time-to-end-the-failed-experiment-bill-to-repe/#:~:text=Senate%20Bill%205082)
 
 ## Meetings
 ### Fri 03/10 08:00 AM - State Government & Tribal Relations (SGOV): ESSB 5082 Advisory votes

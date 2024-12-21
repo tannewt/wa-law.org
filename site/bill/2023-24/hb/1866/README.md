@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/17/2024 [Latino Community Fund](/org/latino_community_fund/) - [2024 Legislative Agenda - Latino Community Fund of Washington](https://www.latinocommunityfund.org/2024_legislative_agenda#:~:text=HB%201866%20-%20Support%20the%20Academic%20Needs%20of%20Seasonal%20Farmworkers’%20Children)
+
 ## Meetings

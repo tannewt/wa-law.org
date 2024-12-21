@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 09/23/2024 [Cascade PBS](/org/cascade_pbs/) - [Learning curve: WA schools grapple with new cell phone policies | Cascade PBS](https://crosscut.com/news/2024/09/learning-curve-wa-schools-grapple-new-cell-phone-policies#:~:text=proposed%20state%20law)
+* 09/23/2024 [Cascade PBS](/org/cascade_pbs/) - [Learning curve: WA schools grapple with new cell phone policies | Cascade PBS](https://www.cascadepbs.org/news/2024/09/learning-curve-wa-schools-grapple-new-cell-phone-policies#:~:text=proposed%20state%20law)
+* 05/03/2024 [Gorge News Center](/org/gorge_news_center/) - [Should Washington’s public schools ban students from using cellphones?](https://gorgenewscenter.com/2024/05/03/should-washingtons-public-schools-ban-students-from-using-cellphones/#:~:text=A%20bill%20in%20the%20state%20Legislature%20this%20year)
 * 01/31/2024 [MyNorthwest](/org/mynorthwest/) - [Phones to be banned in Wash. schools under new bill, if it passes - MyNorthwest.com](https://mynorthwest.com/3948604/phones-banned-schools-washington-under-new-bill-if-it-passes/#:~:text=House%20Bill%202018)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=HB%202018)
 * 01/29/2024 [FOX13](/org/fox13/) - [Lawmakers push to ban cell phones in Washington classrooms](https://www.fox13seattle.com/news/lawmakers-push-to-ban-cell-phones-in-washington-classrooms#:~:text=House%20Bill%202018)

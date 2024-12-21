@@ -66,7 +66,7 @@ Testifying:
 * Yokiko Hayashi-Saguil - Washington State Board for Community and Technical Colleges
 * Prem Subedi
 * 💵Joel Anderson - Washington Student Achievement Council
-* Ben Mitchell - Foundation for Tacoma Students
+* Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * 💵Fahren Johnson - School's Out Washington
 * Isha Hussein - Seeds of Peace
 * 💵Emily Stochel - [College Success Foundation](/org/college_success_foundation/)

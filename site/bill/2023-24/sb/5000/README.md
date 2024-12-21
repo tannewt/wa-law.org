@@ -8,7 +8,6 @@
 
 ## 📰 Articles
 * 02/20/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Local lawmakers advance bills on environment, children | Cascadia Daily News](https://www.cascadiadaily.com/2023/feb/20/local-lawmakers-advance-bills-on-environment-children/#:~:text=Senate%20Bill%205000)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [Bill to honor 'Americans of Chinese Descent' in January passes through Washington Senate | The Spokesman-Review](https://www.spokesman.com/stories/2023/feb/01/bill-to-honor-americans-of-chinese-descent-in-janu/#:~:text=Senate%20Bill%205000)
 
 ## Meetings
 ### Tue 03/21 01:30 PM - State Government & Tribal Relations (SGOV): SB 5000 Americans of Chinese descent

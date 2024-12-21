@@ -22,7 +22,7 @@ Testifying:
 Testifying:
 * Jennifer Rancourt - Snohomish County District Court (Presiding Judge)
 * Haily Perkins - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
-* Stephanie Wright - Snohomish County
+* 💵Stephanie Wright - Snohomish County
 
 #### 0 👎 - Con
 

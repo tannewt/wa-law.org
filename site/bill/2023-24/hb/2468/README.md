@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 11/19/2024 [Sightline Institute](/org/sightline_institute/) - [Parking Mandates Are Keeping Kids Out of Daycare - Sightline Institute](https://www.sightline.org/2024/11/19/parking-mandates-are-keeping-kids-out-of-daycare/#:~:text=legalized%20daycare%20in%20more%20zones)
+* 01/27/2024 [The Urbanist](/org/the_urbanist/) - [Legislature Advances Proposal Allowing Cafes in More Neighborhoods - The Urbanist](https://www.theurbanist.org/2024/01/27/legislature-advances-proposal-allowing-cafes-in-more-neighborhoods/#:~:text=child%20care%20facilities)
+
 ## Meetings
 ### Tue 01/30 10:30 AM - Local Government (LG): HB 2468 Child care facility siting
 #### 13 👍 - Pro

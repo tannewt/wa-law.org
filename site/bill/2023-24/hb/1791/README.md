@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 02/28/2024 [The Urbanist](/org/the_urbanist/) - [Paine Field: The Region’s Next Major Airport or Small Regional Airport? - The Urbanist](https://www.theurbanist.org/2024/02/28/paine-field-the-regions-next-major-airport-or-small-regional-airport/#:~:text=periodically%20advise%20on%20state%20aviation%20needs%20and%20alternatives)
 * 09/06/2023 [The Center Square](/org/the_center_square/) - [Washington’s new Commercial Aviation Work Group preparing for take-off | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b63272f8-4d0a-11ee-88b9-e7837d306965.html#:~:text=House%20Bill%201791)
 * 04/13/2023 [MyNorthwest](/org/mynorthwest/) - [Search for new Washington airport location likely to start over - MyNorthwest.com](https://mynorthwest.com/3874896/search-new-airport-western-washington-starting-over/#:~:text=Engrossed%20Substitute%20House%20Bill%201791)
 * 04/13/2023 [House Democrats](/org/house_democrats/) - [Fey bill will pause the state’s heated airport debate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/13/fey-bill-will-pause-the-states-heated-airport-debate/#:~:text=HB%201791)

@@ -35,7 +35,7 @@ Testifying:
 * Melissa Stuart - Redmond City Councilmember
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Lauren Aguilar - AMERIPEN
-* Dylan de Thomas - The Recycling Partnership
+* Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
 * Scott DeFife - Glass Packaging Institute
 
 #### 13 ❓ - Other

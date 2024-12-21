@@ -13,10 +13,11 @@
 
 ## 📰 Articles
 * 12/22/2023 [Crosscut](/org/crosscut/) - [What tenant protections will WA lawmakers consider in 2024? | Crosscut](https://crosscut.com/investigations/2023/12/what-tenant-protections-will-wa-lawmakers-consider-2024#:~:text=SB%205198)
+* 12/22/2023 [Cascade PBS](/org/cascade_pbs/) - [What tenant protections will WA lawmakers consider in 2024? | Cascade PBS](https://www.cascadepbs.org/investigations/2023/12/what-tenant-protections-will-wa-lawmakers-consider-2024#:~:text=SB%205198)
+* 12/01/2023 [Crosscut](/org/crosscut/) - [Tumwater mobile home tenants lobby against rent hikes | Crosscut](https://crosscut.com/investigations/2023/12/tumwater-mobile-home-tenants-lobby-against-rent-hikes#:~:text=new%20law)
 * 03/12/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 10 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/12/the-house-hot-sheet-for-week-10-of-the-2023-legislative-session/#:~:text=SB%205198)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [UPDATED: 50 Housing Bills and How They Fared in Olympia - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now#:~:text=SB%205198)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB%205198)
-* [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=SB%205198)
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Housing (HOUS): E2SSB 5198 Mobile home community sales
@@ -38,7 +39,7 @@ Testifying:
 #### 5 ❓ - Other
 Testifying:
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)
-* Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Ann Campbell - Department of Commerce
 
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SSB 5198 Mobile home community sales
@@ -53,7 +54,7 @@ Testifying:
 #### 2 ❓ - Other
 Testifying:
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)
-* Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 
 ### Wed 01/18 01:30 PM - Housing (HSG): SB 5198 Mobile home community sales
 #### 770 👍 - Pro
@@ -76,7 +77,7 @@ Testifying:
 
 #### 132 👎 - Con
 Testifying:
-* Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Ryan Erickson - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Don Leabo
 * NICOLE KURTENBACH

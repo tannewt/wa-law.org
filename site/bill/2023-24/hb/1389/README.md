@@ -12,6 +12,7 @@
 * 01/15/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Rent-cap bill gets second chance in Olympia | Cascadia Daily News](https://www.cascadiadaily.com/2024/jan/15/rent-cap-bill-gets-second-chance-in-olympia/#:~:text=House%20Bill%201389)
 * 12/26/2023 [Crosscut](/org/crosscut/) - [WA rental increases cooling, but an affordability crisis remains | Crosscut](https://crosscut.com/news/2023/12/wa-rental-increases-cooling-affordability-crisis-remains#:~:text=House%20Bill%201389)
 * 12/22/2023 [Crosscut](/org/crosscut/) - [What tenant protections will WA lawmakers consider in 2024? | Crosscut](https://crosscut.com/investigations/2023/12/what-tenant-protections-will-wa-lawmakers-consider-2024#:~:text=HB%201389)
+* 12/22/2023 [Cascade PBS](/org/cascade_pbs/) - [What tenant protections will WA lawmakers consider in 2024? | Cascade PBS](https://www.cascadepbs.org/investigations/2023/12/what-tenant-protections-will-wa-lawmakers-consider-2024#:~:text=HB%201389)
 * 12/19/2023 [The Urbanist](/org/the_urbanist/) - [Tacoma Voters Pass State’s Strongest Tenant Protections, Inspiring Other Cities to Act - The Urbanist](https://www.theurbanist.org/2023/12/19/tacoma-voters-pass-states-strongest-tenant-protections/#:~:text=House%20Bill%201389)
 * 12/01/2023 [Crosscut](/org/crosscut/) - [Tumwater mobile home tenants lobby against rent hikes | Crosscut](https://crosscut.com/investigations/2023/12/tumwater-mobile-home-tenants-lobby-against-rent-hikes#:~:text=HB%201389)
 * 04/24/2023 [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=House%20Bill%201389)
@@ -41,7 +42,6 @@
 * 01/17/2023 [The Center Square](/org/the_center_square/) - [Bills to prevent 'excessive rent' hikes proposed in Washington State House | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_750bd532-96c4-11ed-8a3f-3302e22ff2a0.html#:~:text=House%20Bill%201389)
 * 01/17/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Rent stabilization bills introduced by lawmakers | Cascadia Daily News](https://www.cascadiadaily.com/2023/jan/17/rent-stabilization-bills-introduced-by-lawmakers/#:~:text=HB%201389)
 * 01/17/2023 [House Democrats](/org/house_democrats/) - [Macri, Ramel Introduce Stability Measures to Stop Excessive Rent Hikes – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/17/macri-ramel-introduce-stability-measures-to-stop-excessive-rent-hikes/#:~:text=HB%201389)
-* [Cascadia Daily News](/org/cascadia_daily_news/) - [Rent-cap bill gets second chance in Olympia](https://cascadiadaily.com/news/2024/jan/15/rent-cap-bill-gets-second-chance-in-olympia/#:~:text=House%20Bill%201389)
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1389 Residential rent increases
@@ -172,7 +172,7 @@ Testifying:
 * Lawrence Crites - Private housing provider
 * Christina Nelson - Townsend Bay Property Management
 * JENNIFER WU - JAY CURVE ENTERPRISES LLC
-* Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * Valerie Robinson
 * Taylor Higgins
 * Jennifer Lekisch

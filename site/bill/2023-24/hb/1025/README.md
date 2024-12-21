@@ -10,6 +10,8 @@
 
 ## 📰 Articles
 * 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=HB%201025)
+* 05/22/2023 [Food Lifeline](/org/food_lifeline/) - [2023 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2023-washington-state-legislative-session-summary#:~:text=HB%201025)
+* 03/22/2023 [Food Lifeline](/org/food_lifeline/) - [2023 State Advocacy Agenda – Session Update | Food Lifeline](https://foodlifeline.org/article/2023-state-advocacy-agenda-session-update#:~:text=HB%201025)
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [House of origin cutoff | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-of-origin-cutoff/#:~:text=House%20Bill%201025)
 * 03/10/2023 [The Seattle Times](/org/the_seattle_times/) - [WA Legislature forges ahead on assault weapons ban, new drug law | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-legislature-forges-ahead-on-assault-weapons-ban-new-drug-law/#:~:text=House%20Bill%201025)
 * 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201025)

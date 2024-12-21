@@ -24,7 +24,7 @@ Testifying:
 #### 6 👍 - Pro
 Testifying:
 * Jackie Tomlinson - Retired SHD Employee
-* Stephanie Wright - Snohomish County
+* 💵Stephanie Wright - Snohomish County
 
 #### 1 👎 - Con
 

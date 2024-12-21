@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## 📰 Articles
+* 01/30/2023 [Food Lifeline](/org/food_lifeline/) - [Washington State Legislative Session Update – Day 22 | Food Lifeline](https://foodlifeline.org/article/washington-state-legislative-session-update-day-22#:~:text=HB%201586)
+
 ## Meetings
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1586 Vehicular pursuits work grp.
 #### 201 👍 - Pro

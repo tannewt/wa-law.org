@@ -14,7 +14,7 @@
 ### Thu 03/30 12:30 PM - Transportation (TRAN): SB 5740 Catalytic converter theft
 #### 5 👍 - Pro
 Testifying:
-* Brad Tower - Schnitzer
+* 💵Brad Tower - Schnitzer
 * 💵Holly Chisa - Institute of Scrap Recycling Industries
 
 #### 32 👎 - Con
@@ -39,7 +39,7 @@ Testifying:
 Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 * 💵James King - [Independent Business Association](/org/independent_business_association/)
-* Brad Tower - Schnitzer Steel
+* 💵Brad Tower - Schnitzer Steel
 
 #### 2 ❓ - Other
 Testifying:

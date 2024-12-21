@@ -11,6 +11,7 @@
 
 ## 📰 Articles
 * 03/11/2024 [Crosscut](/org/crosscut/) - [2024 WA Legislature passes bills on guns, environment, education | Crosscut](https://crosscut.com/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=Senate%20Bill%205849)
+* 03/11/2024 [Cascade PBS](/org/cascade_pbs/) - [2024 WA Legislature passes bills on guns, environment, education | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=Senate%20Bill%205849)
 * 02/15/2024 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Dual Credit Programs & Graduation Requirements - WSPTA](https://www.wastatepta.org/wspta-testifies-2/#:~:text=E2SSB%205849)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SSB%205849)
 * 01/14/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=Senate%20Bill%205849)

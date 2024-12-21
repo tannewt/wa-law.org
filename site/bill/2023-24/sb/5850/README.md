@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/05/2024 [Crosscut](/org/crosscut/) - [WA school districts aren’t following up on their truant students | Crosscut](https://crosscut.com/news/2024/03/wa-school-districts-arent-following-their-truant-students#:~:text=Proposed%20legislation)
+* 03/05/2024 [Cascade PBS](/org/cascade_pbs/) - [WA school districts aren’t following up on their truant students | Cascade PBS](https://www.cascadepbs.org/news/2024/03/wa-school-districts-arent-following-their-truant-students#:~:text=Proposed%20legislation)
 * 02/19/2024 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Week Seven Legislative Update - United Ways of Washington - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02192024#:~:text=Senate%20Bill%205850)
 * 02/17/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 19 - 23, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-19-23-2024/#:~:text=SB%205850)
 * 02/13/2024 [Gorge News Center](/org/gorge_news_center/) - [Braun bill to reduce chronic absenteeism in schools passes Senate](https://gorgenewscenter.com/2024/02/13/braun-bill-to-reduce-chronic-absenteeism-in-schools-passes-senate/#:~:text=Senate%20bill%205850)

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/04/2024 [Washington State Standard](/org/washington_state_standard/) - [Parents caring for disabled children left waiting for pay, as bill fails in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2024/03/04/intellectual-and-developmental-disabilities-parental-pay/#:~:text=House%20Bill%202184)
+
 ## Meetings
 ### Wed 01/10 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2184 DD parental caregivers
 #### 298 👍 - Pro

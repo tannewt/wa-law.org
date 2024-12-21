@@ -11,13 +11,12 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 04/25/2023 [Department of Natural Resources](/org/department_of_natural_resources/) - [Bark Beetles Account for More Than Half of Tree Mortality Reported in Annual Forest Health Highlights | WA - DNR](https://www.dnr.wa.gov/news/bark-beetles-account-more-half-tree-mortality-reported-annual-forest-health-highlights#:~:text=Cascading%20Impacts%20of%20Wildfire)
+* 03/20/2023 [Department of Natural Resources](/org/department_of_natural_resources/) - [Federal Government to Fund $25M in Wildfire Defense Grants in Washington | WA - DNR](https://www.dnr.wa.gov/news/federal-government-fund-25m-wildfire-defense-grants-washington#:~:text=House%20Bill%201578)
+* 03/07/2023 [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Passes House with Unanimous Vote, Heads to Senate | WA - DNR](https://www.dnr.wa.gov/news/‘cascading-impacts-wildfire’-bill-passes-house-unanimous-vote-heads-senate#:~:text=House%20Bill%201578)
 * 03/06/2023 [House Democrats](/org/house_democrats/) - [House addresses increasingly dangerous wildfire seasons – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/06/house-addresses-increasingly-dangerous-wildfire-seasons/#:~:text=HB%201578)
+* 01/31/2023 [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Introduced to Address Smoke and Wildfire Risk Statewide | WA - DNR](https://www.dnr.wa.gov/news/‘cascading-impacts-wildfire’-bill-introduced-address-smoke-and-wildfire-risk-statewide#:~:text=House%20Bill%201578)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=HB%201578)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Introduced to Address Smoke and Wildfire Risk Statewide | WA - DNR](https://www.dnr.wa.gov/news/%E2%80%98cascading-impacts-wildfire%E2%80%99-bill-introduced-address-smoke-and-wildfire-risk-statewide#:~:text=House%20Bill%201578)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Passes House with Unanimous Vote, Heads to Senate | WA - DNR](https://www.dnr.wa.gov/news/%E2%80%98cascading-impacts-wildfire%E2%80%99-bill-passes-house-unanimous-vote-heads-senate#:~:text=House%20Bill%201578)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [Federal Government to Fund $25M in Wildfire Defense Grants in Washington | WA - DNR](https://www.dnr.wa.gov/news/federal-government-fund-25m-wildfire-defense-grants-washington#:~:text=House%20Bill%201578)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Introduced to Address Smoke and Wildfire Risk Statewide | WA - DNR](https://www.dnr.wa.gov/news/‘cascading-impacts-wildfire’-bill-introduced-address-smoke-and-wildfire-risk-statewide#:~:text=House%20Bill%201578)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Passes House with Unanimous Vote, Heads to Senate | WA - DNR](https://www.dnr.wa.gov/news/‘cascading-impacts-wildfire’-bill-passes-house-unanimous-vote-heads-senate#:~:text=House%20Bill%201578)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): 2SHB 1578 Wildland fire safety
@@ -61,7 +60,7 @@ Testifying:
 #### 42 👍 - Pro
 Testifying:
 * Jessa Lewis - Alliance for a Healthy Washington
-* 💵Giovanni Severino - Latino Community Fund
+* 💵Giovanni Severino - [Latino Community Fund](/org/latino_community_fund/)
 * Hilary Franz - Washington Department of Natural Resources
 * George Geissler - Washington State Department of Natural Resources
 * 💵Sybill Hyppolite - Washington State Labor Council, AFL-CIO

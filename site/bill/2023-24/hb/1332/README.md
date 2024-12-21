@@ -11,6 +11,7 @@
 
 ## 📰 Articles
 * 02/11/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 6: Floor wraps up and budgets start to emerge - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/11/this-week-in-the-senate-week-6-floor-wraps-up-and-budgets-start-to-emerge/#:~:text=House%20Bill%201332)
+* 11/30/2023 [Washington State Standard](/org/washington_state_standard/) - [Native and state leaders push for K-12 schools to fully implement tribal history curriculum  • Washington State Standard](https://washingtonstatestandard.com/2023/11/30/native-and-state-leaders-push-for-k-12-schools-to-fully-implement-tribal-history-curriculum/#:~:text=House%20Bill%201332,)
 * 03/08/2023 [House Democrats](/org/house_democrats/) - [House passes Lekanoff tribal k-12 curriculum bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/08/house-passes-lekanoff-tribal-k-12-curriculum-bill/#:~:text=House%20Bill%201332)
 * 02/27/2023 [Washington St Pta](/org/washington_st_pta/) - [Many Bills End Their Journey in 2023 with Fiscal Cutoff - WSPTA](https://www.wastatepta.org/many-bills-end-their-journey-in-2023-with-fiscal-cutoff/#:~:text=2SHB%201332)
 * 02/20/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Local lawmakers advance bills on environment, children | Cascadia Daily News](https://www.cascadiadaily.com/2023/feb/20/local-lawmakers-advance-bills-on-environment-children/#:~:text=House%20Bill%201332)

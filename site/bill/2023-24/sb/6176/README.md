@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/11/2024 [The Center Square](/org/the_center_square/) - [Two Senate bills target Washington AGO’s use of lawsuit settlement money | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c15eaa1a-b0d4-11ee-b05f-1be8e5b5995e.html#:~:text=Senate%20Bill%206176)
 * 01/11/2024 [Gorge News Center](/org/gorge_news_center/) - [Wagoner bill would keep elected officials from playing politics with consumer-settlement funds](https://gorgenewscenter.com/2024/01/11/wagoner-bill-would-keep-elected-officials-from-playing-politics-with-consumer-settlement-funds/#:~:text=Senate%20Bill%206176)
+* 01/11/2024 [The Center Square](/org/the_center_square/) - [Two Senate bills target Washington AGO’s use of lawsuit settlement money | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c15eaa1a-b0d4-11ee-b05f-1be8e5b5995e.html#:~:text=Senate%20Bill%206176)
 
 ## Meetings

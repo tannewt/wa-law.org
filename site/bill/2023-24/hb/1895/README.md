@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 07/23/2024 [Washington State Standard](/org/washington_state_standard/) - [Thousands of low-income WA families qualify for a tax credit they aren’t claiming • Washington State Standard](https://washingtonstatestandard.com/2024/07/23/thousands-of-low-income-wa-families-qualify-for-a-tax-credit-they-arent-claiming/#:~:text=House%20Bill%201895)
 * 07/23/2024 [Gorge News Center](/org/gorge_news_center/) - [Thousands of low-income WA families qualify for a tax credit they aren’t claiming](https://gorgenewscenter.com/2024/07/23/thousands-of-low-income-wa-families-qualify-for-a-tax-credit-they-arent-claiming/#:~:text=House%20Bill%201895)
 * 02/28/2024 [House Democrats](/org/house_democrats/) - [Gov. Signs Thai Bill to Streamline Working Families Tax Credit Program – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/28/gov-signs-thai-bill-to-streamline-working-families-tax-credit-program/#:~:text=House%20Bill%201895)
 * 02/17/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 7: More budgets revealed, another deadline arrives and Children's Day 2024 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/17/this-week-in-the-senate-week-7-more-budgets-revealed-another-deadline-arrives-and-childrens-day-2024/#:~:text=House%20Bill%201895)

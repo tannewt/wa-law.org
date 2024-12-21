@@ -11,8 +11,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* 03/13/2024 [The Spokesman-Review](/org/the_spokesman-review/) - [Inslee updates hate crime law, expands powers of physician assistants, boosts money paid to those leaving prison, recognizes Lunar New Year | The Spokesman-Review](https://www.spokesman.com/stories/2024/mar/13/the-2024-legislative-session-wrapped-last-week-now/#:~:text=2041)
 * 03/13/2024 [House Democrats](/org/house_democrats/) - [Riccelli Bill to Expand Health Care Access Signed Into Law – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/13/riccelli-bill-to-expand-health-care-access-signed-into-law/#:~:text=HB%202041)
+* 03/13/2024 [The Spokesman-Review](/org/the_spokesman-review/) - [Inslee updates hate crime law, expands powers of physician assistants, boosts money paid to those leaving prison, recognizes Lunar New Year | The Spokesman-Review](https://www.spokesman.com/stories/2024/mar/13/the-2024-legislative-session-wrapped-last-week-now/#:~:text=2041)
 
 ## Meetings
 ### Fri 02/16 08:00 AM - Health & Long Term Care (HLTC): ESHB 2041 Physician assistant practice

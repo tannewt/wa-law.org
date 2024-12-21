@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 07/04/2024 [Washington State Standard](/org/washington_state_standard/) - [Initiative opponents target the millionaire behind the measures • Washington State Standard](https://washingtonstatestandard.com/2024/07/04/initiative-opponents-target-the-millionaire-behind-the-measures/#:~:text=Initiative%202109)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SHB%202109)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202109)
 

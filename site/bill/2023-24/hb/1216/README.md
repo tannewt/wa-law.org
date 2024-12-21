@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 06/07/2024 [NW News Network](/org/nw_news_network/) - [Washington wants to hear rural communities’ thoughts on renewable energy | Northwest News Network](https://www.nwnewsnetwork.org/environment-and-planning/2024-06-07/washington-wants-to-hear-rural-communities-thoughts-on-renewable-energy#:~:text=a%20law)
 * 05/03/2023 [The Center Square](/org/the_center_square/) - [Gov. Inslee signs a slew of climate bills into law from Eastern Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0027a7a6-e9ed-11ed-b77a-7f7862703a86.html#:~:text=House%20Bill%201216)
 * 03/16/2023 [NW News Network](/org/nw_news_network/) - [Washington bill could help ease renewable energy development tensions | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-03-15/washington-bill-could-help-ease-renewable-energy-development-tensions#:~:text=House%20Bill%201216)
 * 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB%201216)

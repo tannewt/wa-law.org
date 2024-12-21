@@ -22,7 +22,7 @@
 Testifying:
 * Jonathan Smith - Issaquah Volunteer Litter Clean-up Group
 * Eric Chambers - [Oregon Beverage Recycling Cooperative](/org/oregon_beverage_recycling_cooperative/)
-* Dylan de Thomas - The Recycling Partnership
+* Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
 * Scott DeFife - Glass Packaging Institute
 * Fiona Bell - Novelis
 * Liz Donohue - BlueTriton Brands
@@ -52,7 +52,7 @@ Testifying:
 #### 260 👍 - Pro
 Testifying:
 * Kate Bailey - The Association of Plastic Recyclers (APR)
-* Dylan de Thomas - The Recycling Partnership
+* Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
 * Eric Chambers - [Oregon Beverage Recycling Cooperative](/org/oregon_beverage_recycling_cooperative/)
 * 💵Megan Lane - Ball
 * 💵Scott Hazlegrove - [Washington Beer & Wine Distributors Association](/org/washington_beer_&_wine_distributors_association/)

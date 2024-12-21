@@ -25,7 +25,6 @@
 * 01/23/2023 [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=SB%205174)
 * 01/16/2023 [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=SB%205174)
 * 01/08/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: WE'RE BACK - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/08/this-week-in-the-senate-week-1-were-back/#:~:text=Senate%20Bill%205174)
-* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=SB%205174)
 
 ## Meetings
 ### Wed 03/15 04:00 PM - Appropriations (APP): E2SSB 5174 Student transportation

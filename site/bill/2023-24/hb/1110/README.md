@@ -18,8 +18,10 @@
 * 03/19/2024 [KUOW](/org/kuow/) - [KUOW - How will Seattle's next comprehensive plan shape the city?](https://www.kuow.org/stories/how-will-the-next-comprehensive-plan-shape-seattle#:~:text=House%20Bill%201110)
 * 03/14/2024 [The Urbanist](/org/the_urbanist/) - [Port Townsend Just Quietly Ditched Its Off-Street Parking Mandates - The Urbanist](https://www.theurbanist.org/2024/03/14/port-townsend-just-quietly-ditched-its-off-street-parking-mandates/#:~:text=House%20Bill%201110)
 * 03/05/2024 [The Seattle Times](/org/the_seattle_times/) - [Mayor Harrell proposes housing density in every Seattle neighborhood | The Seattle Times](https://www.seattletimes.com/seattle-news/mayor-harrell-proposes-housing-density-in-every-seattle-neighborhood/#:~:text=House%20Bill%201110)
+* 02/27/2024 [The Urbanist](/org/the_urbanist/) - [More than Zoning Reform: Home in Tacoma and the Prospect of Real Change - The Urbanist](https://www.theurbanist.org/2024/02/27/more-than-zoning-reform-home-in-tacoma-and-the-prospect-of-real-change/#:~:text=State%20of%20Washington)
 * 02/16/2024 [The Urbanist](/org/the_urbanist/) - [Tacoma’s Grand Rezoning Plan Comes into View - The Urbanist](https://www.theurbanist.org/2024/02/16/tacomas-grand-rezoning-plan-comes-into-view/#:~:text=House%20Bill%201110)
 * 02/13/2024 [PubliCola](/org/publicola/) - [Seattle's MHA Program Should Come with a Tax Break, Not a Fee - PubliCola](https://publicola.com/2024/02/13/seattles-mha-program-should-come-with-a-tax-break-not-a-fee/#:~:text=HB%201110)
+* 02/11/2024 [House Republicans](/org/house_republicans/) - [Fix the housing and homelessness crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-housing-and-homelessness-crisis/#:~:text=middle%20housing)
 * 02/09/2024 [The Urbanist](/org/the_urbanist/) - [Bellevue Unveils Bold Growth Strategy for 152,000 Additional Homes - The Urbanist](https://www.theurbanist.org/2024/02/09/bellevue-unveils-bold-growth-strategy-for-152000-additional-homes/#:~:text=1110)
 * 12/29/2023 [The Center Square](/org/the_center_square/) - [New ‘missing middle’ housing law runs into barriers in Spokane | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_eb3f2bc8-a677-11ee-97ca-9bb47eef88bf.html#:~:text=House%20Bill%201110)
 * 11/21/2023 [The Center Square](/org/the_center_square/) - [‘Middle housing’ gets a boost from Spokane City Council | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_36610a24-88d0-11ee-bbdc-a7cc8a39a49b.html#:~:text=House%20Bill%201110)
@@ -101,11 +103,8 @@
 * 01/03/2023 [Sightline Institute](/org/sightline_institute/) - [Washington’s 2023 Middle Housing Bill, Explained - Sightline Institute](https://www.sightline.org/2023/01/03/washingtons-2023-middle-housing-bill-explained/#:~:text=HB%201110)
 * 02/11/2020 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2023 Economic Justice Priorities — Quaker Voice](https://www.quakervoicewa.org/additional-2020-economic-justice-priorities/#:~:text=1110)
 * 01/11/2016 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House%20Bill%201110)
-* [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/washington-has-shot-passing-massive-housing-reform-package#:~:text=House%20Bill%201110)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Housing & Homelessness](https://crosscut.com/voter-guide/2023-legislative-tracker/election/housing-homelessness#:~:text=House%20Bill%201110)
-* [KING5](/org/king5/) - [Washington bill has lawmakers mulling over 'middle housing' | king5.com](https://www.king5.com/article/news/politics/state-politics/washington-bill-middle-housing/281-b8a2cfe3-99ba-4eb5-9856-ae2c7e41ad38#:~:text=House%20Bill%201110)
-* [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=HB%201110)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [Bill to limit single-family housing in Washington picks up steam with House passage | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/07/bill-to-limit-single-family-housing-in-washington-/#:~:text=House%20Bill%201110)
+* [Axios](/org/axios/) - [News - Axios Seattle](https://www.axios.com/local/seattle/news#:~:text=new%20Washington%20law)
+* [Axios](/org/axios/) - [Politics - Axios Seattle](https://www.axios.com/local/seattle/politics#:~:text=new%20Washington%20law)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): E2SHB 1110 Middle housing

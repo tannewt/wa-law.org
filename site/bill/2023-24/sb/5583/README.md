@@ -18,7 +18,6 @@
 * 02/28/2023 [The Seattle Times](/org/the_seattle_times/) - [What’s still on the table for traffic safety in WA Legislature? | The Seattle Times](https://www.seattletimes.com/seattle-news/transportation/whats-still-on-the-table-for-traffic-safety-in-wa-legislature/#:~:text=House%20Bill%205583)
 * 02/09/2023 [Crosscut](/org/crosscut/) - [A WA bill would lower the legal driving limit to .05% BAC | Crosscut](https://crosscut.com/politics/2023/02/wa-bill-would-lower-legal-driving-limit-05-bac#:~:text=Senate%20Bill%205583)
 * 01/29/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety takes center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/29/this-week-in-the-senate-week-4-public-safety-takes-center-stage/#:~:text=Senate%20Bill%205583)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington may add automated cameras on highways to catch speeders in construction zones | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/01/washington-may-add-automated-cameras-on-highways-t/#:~:text=Senate%20Bill%205583)
 
 ## Meetings
 ### Thu 03/16 04:00 PM - Transportation (TR): ESSB 5583 Young driver safety

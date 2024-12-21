@@ -38,8 +38,6 @@
 * 01/11/2023 [FOX13](/org/fox13/) - [Bill aims to help Washington improve climate change preparedness, response](https://www.fox13seattle.com/news/bills-aim-to-help-washington-improve-climate-change-preparedness-response#:~:text=House%20Bill%201181)
 * 01/11/2023 [House Democrats](/org/house_democrats/) - [Legislation introduced to address climate change in state and local planning – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/11/legislation-introduced-to-address-climate-change-in-state-and-local-planning/#:~:text=HB%201181)
 * 03/16/2019 [House Republicans](/org/house_republicans/) - [House floor debate highlights | Washington State House Republicans](https://houserepublicans.wa.gov/floor-debates/#:~:text=House%20Bill%201181)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Environment](https://crosscut.com/voter-guide/2023-legislative-tracker/election/environment#:~:text=House%20Bill%201181)
-* [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=HB%201181)
 
 ## Meetings
 ### Thu 03/23 04:00 PM - Ways & Means (WM): E2SHB 1181 Climate change/planning

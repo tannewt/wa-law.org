@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 07/20/2023 [Sightline Institute](/org/sightline_institute/) - [Why Is It So Hard to Build New Transmission Lines? - Sightline Institute](https://www.sightline.org/2023/07/20/why-is-it-so-hard-to-build-new-transmission-lines/#:~:text=law%20in%202023%20to%20extend%20utility%20planning)
 * 05/03/2023 [Senate Democrats](/org/senate_democrats/) - [Nguyễn legislation helps Washington better plan for clean energy future - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/05/03/nguyen-legislation-helps-washington-better-plan-for-clean-energy-future/#:~:text=Senate%20Bill%205165)
 * 05/03/2023 [The Center Square](/org/the_center_square/) - [Gov. Inslee signs a slew of climate bills into law from Eastern Washington | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0027a7a6-e9ed-11ed-b77a-7f7862703a86.html#:~:text=Senate%20Bill%205165)
 * 04/18/2023 [The Seattle Times](/org/the_seattle_times/) - [Lawmakers vote to bar utilities from cutting power in extreme heat | The Seattle Times](https://www.seattletimes.com/seattle-news/lawmakers-vote-to-bar-utilities-from-cutting-power-in-extreme-heat/#:~:text=Senate%20Bill%205165)

@@ -13,7 +13,6 @@
 * 01/19/2023 [House Democrats](/org/house_democrats/) - [Bill to pay incarcerated workers minimum wage passes House Community Safety, Justice, & Reentry Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/19/bill-to-pay-incarcerated-workers-minimum-wage-passes-house-community-safety-justice-reentry-committee/#:~:text=HB%201024)
 * 01/15/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/15/the-house-hot-sheet-for-week-2-of-the-2023-legislative-session/#:~:text=HB%201024)
 * 02/01/2019 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Criminal Justice — Quaker Voice](https://www.quakervoicewa.org/criminal-justice/#:~:text=HB%201024)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=House%20Bill%201024)
 
 ## Meetings
 ### Mon 01/30 04:00 PM - Appropriations (APP): HB 1024 Incarcerated persons/labor

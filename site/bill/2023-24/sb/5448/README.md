@@ -57,7 +57,7 @@ Testifying:
 * Justin Nordhorn - Liquor & Cannabis Board
 * Mark McKechnie - WA Traffic Safety Commission
 * Sheri Sawyer - Office of Governor Jay Inslee
-* Brad Tower - [Washington Liquor Store Association](/org/washington_liquor_store_association/)
+* 💵Brad Tower - [Washington Liquor Store Association](/org/washington_liquor_store_association/)
 
 #### 10 ❓ - Other
 Testifying:

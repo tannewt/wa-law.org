@@ -9,6 +9,7 @@
 ## 📰 Articles
 * 02/02/2024 [The Seattle Times](/org/the_seattle_times/) - [What bills are dead, alive after WA Legislature’s first cutoff | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-die-after-first-wa-legislature-cutoff/#:~:text=Senate%20Bill%205820)
 * 01/31/2024 [Gorge News Center](/org/gorge_news_center/) - [Defeat of signature-gatherer bill demonstrates ‘attitude problem’ about initiatives, Wilson says](https://gorgenewscenter.com/2024/01/31/defeat-of-signature-gatherer-bill-demonstrates-attitude-problem-about-initiatives-wilson-says/#:~:text=Senate%20Bill%205820)
+* 12/21/2023 [NW News Network](/org/nw_news_network/) - [WA initiative supporters turn in signatures to repeal capital gains tax, carbon auctions | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-12-21/wa-initiative-supporters-turn-in-signatures-to-repeal-capital-gains-tax-carbon-auctions#:~:text=pre-filed%20the%20bill)
 * 12/11/2023 [Senate Republicans](/org/senate_republicans/) - [Legislature must protect signature gatherers from harassment, senators say - Senate Republican Caucus](https://src.wastateleg.org/blog/legislature-must-protect-signature-gatherers-harassment-senators-say/#:~:text=Senate%20Bill%205820)
 * 12/11/2023 [Gorge News Center](/org/gorge_news_center/) - [Legislature must protect signature gatherers from harassment](https://gorgenewscenter.com/2023/12/11/legislature-must-protect-signature-gatherers-from-harassment/#:~:text=Senate%20Bill%205820)
 

@@ -14,7 +14,6 @@
 * 02/09/2023 [Crosscut](/org/crosscut/) - [A WA bill would lower the legal driving limit to .05% BAC | Crosscut](https://crosscut.com/politics/2023/02/wa-bill-would-lower-legal-driving-limit-05-bac#:~:text=Senate%20Bill%205514)
 * 02/03/2023 [The Center Square](/org/the_center_square/) - [Red light, don't turn right bill introduced to Washington Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_18982be8-a41b-11ed-a79c-5f4a9d65b3cb.html#:~:text=Senate%20Bill%205514)
 * 01/26/2023 [FOX13](/org/fox13/) - [State leaders hope bipartisan effort saves lives, increases traffic safety in Washington](https://www.fox13seattle.com/news/state-leaders-hope-bipartisan-effort-saves-lives-and-increases-traffic-safety-in-washington#:~:text=Senate%20Bill%205514)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington may add automated cameras on highways to catch speeders in construction zones | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/01/washington-may-add-automated-cameras-on-highways-t/#:~:text=House%20Bill%201582/Senate%20Bill%205514)
 
 ## Meetings
 ### Tue 01/31 04:00 PM - Transportation (TRAN): SB 5514 Right turns

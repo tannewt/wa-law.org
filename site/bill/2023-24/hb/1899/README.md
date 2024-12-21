@@ -44,7 +44,7 @@ Testifying:
 * Al French - Spokane county Commissioner
 * Michael Bissell - Campbell & Bissell, PLLC
 * Al Merkel - Councilmember, City of Spokane Valley
-* Terri Cooper - City of Medical Lake
+* Terri Cooper - [City of Medical Lake](/org/city_of_medical_lake/)
 * Lisa Johnson
 * Susan Brown
 * 💵Lukas Garcia - Greater Spokane Valley Chamber of Commerce

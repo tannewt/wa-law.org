@@ -2,15 +2,21 @@ from bs4 import BeautifulSoup
 import arrow
 import datetime
 import url_history
+import aiohttp
 import urllib.robotparser
 import requests
+import httpx
+import httpcore
 import urllib3
 import pathlib
 import pickle
 import json
 import re
 import sys
+import asyncio
 from urllib.parse import urlparse, parse_qs
+
+from rich.progress import *
 
 import utils
 
@@ -41,15 +47,20 @@ EXCLUDE = {
     ],
     "mynorthwest.com": [
         "/tag/"
+    ],
+    "tdn.com": [
+    "/ads/",
+    "/obituaries/",
+    "/sports/",
+    "/online/",
+    "/life-entertainment"
     ]
 }
-
-session = url_history.HistorySession("org-website.db")
 
 # regular expression pattern to match a date in the format yyyy/mm/dd
 DATE_PATTERN = r"(\d{4})[/-](\d{2})[/-](\d{2})"
 
-after_date = arrow.get(2024, 11, 1)
+after_date = arrow.get(2024, 12, 1)
 
 def parse_date(content):
     if not content:
@@ -63,7 +74,7 @@ def parse_date(content):
             return arrow.get(content, other_format).datetime
         except arrow.parser.ParserError:
             pass
-    print("other parse failed:", content)
+    # print("other parse failed:", content)
     return None
 
 FETCH_NEW = True
@@ -81,51 +92,57 @@ leg_links = 0
 past_session = 0
 nonspecific = 0
 
-org_cur = db.cursor()
-org_cur.execute("SELECT rowid, url FROM organizations WHERE url IS NOT NULL")
-org_cur = org_cur.fetchall()
 i = 0
-for org_rowid, domain in org_cur:
+
+async def scrape(progress, session, org_rowid, domain):
+    global i, link_count, leg_links, past_session, nonspecific
+    task = progress.add_task(f"{i} {domain}")
     if len(sys.argv) > 1 and domain not in sys.argv[1:]:
-        print("skipping", domain)
-        continue
+        progress.update(task, visible=False)
+        return
     if "seattletimes" in domain:
-        print("skipping seattle times")
-        continue
-    print(i, len(org_cur), domain)
+        progress.update(task, visible=False)
+        return
     i += 1
     url_base = "https://" + domain
 
     rp = urllib.robotparser.RobotFileParser()
     robots_url = url_base + "/robots.txt"
     rp.set_url(robots_url)
-    print("Fetching", robots_url)
+    robots = None
     try:
-        robots = session.get(robots_url, fetch_again=True)
-    except (requests.exceptions.ConnectionError, requests.exceptions.SSLError, requests.exceptions.TooManyRedirects, requests.exceptions.MissingSchema, requests.exceptions.ConnectTimeout, urllib3.exceptions.LocationParseError) as e:
+        robots = await session.get(robots_url, fetch_again=True)
+    except (httpx.HTTPStatusError, requests.exceptions.ConnectionError, requests.exceptions.SSLError, requests.exceptions.TooManyRedirects, requests.exceptions.MissingSchema, requests.exceptions.ConnectTimeout, urllib3.exceptions.LocationParseError, aiohttp.client_exceptions.ClientConnectorError, aiohttp.client_exceptions.ConnectionTimeoutError, aiohttp.client_exceptions.ClientOSError) as e:
         print("Unable to get robots", e)
-        continue
-    rp.parse(robots.decode("utf-8").splitlines())
 
-    if rp.site_maps():
+    if robots:
+        rp.parse(robots.decode("utf-8").splitlines())
+
+    if robots is not None and rp.site_maps():
         sitemaps = set(rp.site_maps())
     else:
         sitemaps = set([url_base + "/sitemap.xml"])
 
-    crawl_delay = rp.crawl_delay("*")
+    crawl_delay = None
+    if robots:
+        crawl_delay = rp.crawl_delay("*")
     if not crawl_delay:
         crawl_delay = 0
     crawl_delay = min(10, crawl_delay)
 
-    if rp.request_rate("*"):
+    if robots is not None and rp.request_rate("*"):
         raise NotImplementedError()
 
+    running_total = len(sitemaps)
     pages = set()
-    print("Getting sitemaps")
     while sitemaps:
         sitemap = sitemaps.pop()
-        print(sitemap)
-        sitemap = session.get(sitemap, fetch_again=FETCH_NEW, crawl_delay=crawl_delay, only_after=after_date)
+        progress.update(task, advance=1, total=running_total)
+        try:
+            sitemap = await session.get(sitemap, fetch_again=FETCH_NEW, crawl_delay=crawl_delay, only_after=after_date)
+        except (asyncio.TimeoutError, aiohttp.client_exceptions.ClientConnectorError,aiohttp.client_exceptions.ServerDisconnectedError, aiohttp.client_exceptions.ConnectionTimeoutError,aiohttp.client_exceptions.ClientConnectionResetError, aiohttp.client_exceptions.ClientOSError) as e:
+            # print(f"Unable to get sitemap {sitemap} {e}")
+            continue
         if sitemap is None:
             continue
         # print(sitemap)
@@ -176,6 +193,7 @@ for org_rowid, domain in org_cur:
                     continue
 
             sitemaps.add(subsitemap.loc.text)
+            running_total += 1
 
         for url in sitemap.find_all("url"):
             url_text = url.loc.text
@@ -208,40 +226,34 @@ for org_rowid, domain in org_cur:
             pages.add(url_loc)
         # if len(pages) > 100:
         #     break
-    print()
 
-    print(f"Fetching {len(pages)} pages")
     count = 0
     skipped = 0
-    while pages:
-        page_url = pages.pop()
-        count += 1
-        if count % 100 == 0:
-            print(f"fetched {count} remaining {len(pages)}")
 
+    progress.update(task, total=len(pages) + running_total)
+    for page_url in pages:
+        progress.update(task, advance=1)
         if page_url in parsed_urls and not REPARSE:
             skipped += 1
             continue
         else:
             parsed_urls.add(page_url)
 
-        if not rp.can_fetch("*", page_url):
-            print("Can't fetch", page_url)
+        if robots is not None and not rp.can_fetch("*", page_url):
+            # print(f"Can't fetch {page_url}")
             continue
         try:
-            page = session.get(page_url, fetch_again=False)
-        except (requests.exceptions.ConnectionError, requests.exceptions.SSLError, requests.exceptions.TooManyRedirects, requests.exceptions.MissingSchema, requests.exceptions.ConnectTimeout, urllib3.exceptions.LocationParseError) as e:
-            print(e, page_url)
+            page = await session.get(page_url, fetch_again=False, crawl_delay=crawl_delay)
+        except (httpx.HTTPStatusError, httpx.ReadTimeout, httpcore.ReadTimeout, requests.exceptions.ConnectionError, requests.exceptions.SSLError, requests.exceptions.TooManyRedirects, requests.exceptions.MissingSchema, requests.exceptions.ConnectTimeout, urllib3.exceptions.LocationParseError, asyncio.TimeoutError, aiohttp.client_exceptions.ClientOSError, aiohttp.client_exceptions.TooManyRedirects, asyncio.TimeoutError) as e:
+            # print(f"{e} {page_url}")
             continue
         if page is None:
-            print("missing page", page_url)
+            # print(f"missing page {page_url}")
             continue
         try:
-            if "southseattleemerald" in page_url:
-                print(page_url)
             page = BeautifulSoup(page, 'html.parser')
         except (AssertionError, TypeError):
-            print("failed to parse", page_url)
+            # print(f"failed to parse: {page_url}")
             continue
         canonical_url = page.find("link", rel="canonical")
         if canonical_url:
@@ -251,7 +263,7 @@ for org_rowid, domain in org_cur:
 
         meta_robots = page.find("meta", attrs={"name":"robots"})
         if meta_robots and "noindex" in meta_robots.text:
-            print("noindex", page_url)
+            # print(f"noindex {page_url}")
             continue
 
         meta_published_time = page.find("meta", attrs={"property":"article:published_time"})
@@ -270,8 +282,8 @@ for org_rowid, domain in org_cur:
                 try:
                     ld_json = json.loads(ld_json.text)
                 except json.decoder.JSONDecodeError as e:
-                    print("json parse error:", e)
-                    print(ld_json.text)
+                    # print(f"json parse error: {e}")
+                    # print(ld_json.text)
                     ln_json = {}
                 # print(page_url)
                 # print(ld_json)
@@ -283,8 +295,8 @@ for org_rowid, domain in org_cur:
                                 modified_time = parse_date(graph[key])
                                 break
                             except arrow.parser.ParserError:
-                                print("invalid date on", page_url)
-                                print(graph[key])
+                                # print(f"invalid date on {page_url}")
+                                # print(graph[key])
                                 pass
                 if not modified_time:
                     for key in ("datePublished", "dateCreated", "dateModified"):
@@ -296,6 +308,8 @@ for org_rowid, domain in org_cur:
             meta_modified_time = page.find("meta", attrs={"property":"article:modified_time"})
             if not meta_modified_time:
                 meta_modified_time = page.find("meta", attrs={"itemprop":"dateModified"})
+            if not meta_modified_time:
+                meta_modified_time = page.find(attrs={"property":"dc:date"})
             if meta_modified_time:
                 modified_time = parse_date(meta_modified_time["content"])
 
@@ -314,7 +328,7 @@ for org_rowid, domain in org_cur:
                 try:
                     modified_time = datetime.datetime(year=year, month=month, day=day)
                 except ValueError:
-                    print("Invalid modified time", page_url)
+                    # print(f"Invalid modified time {page_url}")
                     modified_time = None
 
         # print(page)
@@ -325,7 +339,7 @@ for org_rowid, domain in org_cur:
             try:
                 parsed = urlparse(href)
             except ValueError:
-                print("parse error", href)
+                # print(f"parse error {href}")
                 continue
             if not parsed.hostname or "leg.wa.gov" not in parsed.hostname or "pages" in parsed.path:
                 continue
@@ -373,23 +387,53 @@ for org_rowid, domain in org_cur:
                     cur.execute("INSERT INTO web_articles (organization_rowid, bill_rowid, date_posted, title, url, text_fragment) VALUES (?, ?, ?, ?, ?, ?) ON CONFLICT (bill_rowid, url) DO UPDATE SET date_posted = excluded.date_posted", (org_rowid, bill_rowid, modified_time, page.title.string.strip(), page_url, text_fragment))
                     link_count += 1
                     continue
+
+                page_text = " ".join(page.stripped_strings)
+                if page_text.count(link_text) == 1:
+                    text_fragment = "#:~:text=" + link_text
+                    cur.execute("INSERT INTO web_articles (organization_rowid, bill_rowid, date_posted, title, url, text_fragment) VALUES (?, ?, ?, ?, ?, ?) ON CONFLICT (bill_rowid, url) DO UPDATE SET date_posted = excluded.date_posted", (org_rowid, bill_rowid, modified_time, page.title.string.strip(), page_url, text_fragment))
+                    link_count += 1
+                    continue
+
                 nonspecific += 1
-                print(page_url)
-                print(link)
-                print(link.parent)
-                print()
+                # print("nonspecific", link_text)
+                # print(page_url)
+                # print(link)
+                # print(link.parent)
             else:
+                # print("skipped", query)
                 # print(page_url)
                 # print(link)
                 # print()
                 pass
         db.commit()
+    
+    progress.update(task, visible=False)
 
     with parsed_path.open("wb") as f:
         pickle.dump(parsed_urls, f)
-    print(f"{count} urls and skipped {skipped}")
-    print()
-print("bill links", link_count)
-print("leg links", leg_links)
-print("nonspecific", nonspecific)
-print("past session", past_session)
+
+
+org_cur = db.cursor()
+org_cur.execute("SELECT rowid, url FROM organizations WHERE url IS NOT NULL")
+org_cur = org_cur.fetchall()
+
+# Add scrape calls to asyncio task group
+async def main():
+    session = url_history.HistorySession("org-website.db")
+    with Progress(
+    TextColumn("[progress.description]{task.description}"),
+    BarColumn(),
+    TaskProgressColumn(),
+    MofNCompleteColumn()) as progress:
+        async with asyncio.TaskGroup() as tg:
+            for org_rowid, domain in org_cur:
+                tg.create_task(scrape(progress, session, org_rowid, domain))
+    await session.close()
+
+asyncio.run(main())
+
+print(f"bill links {link_count}")
+print(f"leg links {leg_links}")
+print(f"nonspecific {nonspecific}")
+print(f"past session {past_session}")

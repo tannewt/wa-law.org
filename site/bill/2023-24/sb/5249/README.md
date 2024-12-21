@@ -8,7 +8,9 @@
 
 ## 📰 Articles
 * 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=SB%205249)
+* 03/22/2023 [Food Lifeline](/org/food_lifeline/) - [2023 State Advocacy Agenda – Session Update | Food Lifeline](https://foodlifeline.org/article/2023-state-advocacy-agenda-session-update#:~:text=SB%205249)
 * 02/04/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washingtons Legislative Update - Week 5 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate020623#:~:text=S.B.%205249)
+* 01/30/2023 [Food Lifeline](/org/food_lifeline/) - [Washington State Legislative Session Update – Day 22 | Food Lifeline](https://foodlifeline.org/article/washington-state-legislative-session-update-day-22#:~:text=SB%205249)
 * 01/16/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Legislative Update - 2023 - Week Two - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate01172023#:~:text=S.B.%205249)
 * 06/19/2015 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=SB%205249)
 * [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=SB%205249)

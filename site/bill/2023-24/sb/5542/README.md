@@ -13,7 +13,7 @@
 ### Wed 03/15 01:30 PM - Consumer Protection & Business (CPB): SSB 5542 EV supply equipment
 #### 16 👍 - Pro
 Testifying:
-* Brad Tower - Schnitzer Steel
+* 💵Brad Tower - Schnitzer Steel
 
 #### 0 👎 - Con
 
@@ -22,7 +22,7 @@ Testifying:
 ### Tue 02/07 10:30 AM - Law & Justice (LAW): SB 5542 Vehicle charging equipment
 #### 18 👍 - Pro
 Testifying:
-* Brad Tower - Schnitzer Steel
+* 💵Brad Tower - Schnitzer Steel
 
 #### 0 👎 - Con
 

@@ -18,7 +18,7 @@ Testifying:
 #### 199 👎 - Con
 Testifying:
 * MaryAnne Lindeblad - Arcora Foundation
-* Luzmila Freese - Latino Community Fund
+* Luzmila Freese - [Latino Community Fund](/org/latino_community_fund/)
 * Owen Urech - National Association of Dental Plans
 * 💵Melissa Johnson - Willamette Dental Group
 * 💵Paula Sardinas - FMS Global Strategies /WBBA

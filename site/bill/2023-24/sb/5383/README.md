@@ -13,7 +13,6 @@
 * 03/01/2023 [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=SB%205383)
 * 02/22/2023 [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=SB%205383)
 * 02/09/2023 [Crosscut](/org/crosscut/) - [A WA bill would lower the legal driving limit to .05% BAC | Crosscut](https://crosscut.com/politics/2023/02/wa-bill-would-lower-legal-driving-limit-05-bac#:~:text=Senate%20Bill%205383)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=Senate%20Bill%205383)
 
 ## Meetings
 ### Tue 01/23 04:00 PM - Transportation (TRAN): SSB 5383 Pedestrians/roadways

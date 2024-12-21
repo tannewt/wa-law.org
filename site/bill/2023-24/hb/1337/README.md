@@ -7,9 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 11/22/2024 [The Urbanist](/org/the_urbanist/) - [State Senate Taps Bateman for Housing Chair in Major Committee Shakeup - The Urbanist](https://www.theurbanist.org/2024/11/22/state-senate-taps-bateman-for-housing-chair/#:~:text=accessory%20dwelling%20unit%20(ADU)%20regulations)
+* 10/15/2024 [The Urbanist](/org/the_urbanist/) - [Seattle Breaks Ground on West Coast’s First Residential Highrise of 2024 - The Urbanist](https://www.theurbanist.org/2024/10/15/seattle-breaks-ground-on-west-coasts-first-residential-highrise-of-2024/#:~:text=new%20state%20legislation)
 * 09/18/2024 [The Urbanist](/org/the_urbanist/) - [Harrell Proposal Would Relax Accessory Dwelling Unit Rules, Implement State Law - The Urbanist](https://www.theurbanist.org/2024/09/18/harrell-proposal-relaxes-accessory-dwelling-unit-rules/#:~:text=House%20Bill%201337)
 * 02/16/2024 [The Urbanist](/org/the_urbanist/) - [Tacoma’s Grand Rezoning Plan Comes into View - The Urbanist](https://www.theurbanist.org/2024/02/16/tacomas-grand-rezoning-plan-comes-into-view/#:~:text=HB%201337)
+* 02/11/2024 [House Republicans](/org/house_republicans/) - [Fix the housing and homelessness crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-housing-and-homelessness-crisis/#:~:text=accessory%20dwelling%20units)
 * 02/09/2024 [The Urbanist](/org/the_urbanist/) - [Bellevue Unveils Bold Growth Strategy for 152,000 Additional Homes - The Urbanist](https://www.theurbanist.org/2024/02/09/bellevue-unveils-bold-growth-strategy-for-152000-additional-homes/#:~:text=1337)
+* 02/06/2024 [The Urbanist](/org/the_urbanist/) - [The Battle Over Allowing More Rural Accessory Dwelling Units in Washington - The Urbanist](https://www.theurbanist.org/2024/02/06/the-battle-over-allowing-more-rural-accessory-dwelling-units-in-washington/#:~:text=sweeping%20overhaul)
 * 07/20/2023 [Sightline Institute](/org/sightline_institute/) - [From Vermont to Oklahoma, Legislatures Challenge Parking Mandates - Sightline Institute](https://www.sightline.org/2023/07/20/from-vermont-to-oklahoma-legislatures-challenge-parking-mandates/#:~:text=HB%201337)
 * 05/30/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [Advocates Say Housing Levy Is Critical to Keeping Seattle Affordable and Inclusive | South Seattle Emerald](https://southseattleemerald.com/2023/05/30/advocates-say-housing-levy-is-critical-to-keeping-seattle-affordable-and-inclusive/#:~:text=House%20Bill%201337)
 * 05/12/2023 [Crosscut](/org/crosscut/) - [WA lawmakers' 'year of housing' could ease the affordability crisis | Crosscut](https://crosscut.com/politics/2023/05/wa-lawmakers-year-housing-could-ease-affordability-crisis#:~:text=House%20Bill%201337)
@@ -43,7 +47,6 @@
 * 01/16/2023 [Sightline Institute](/org/sightline_institute/) - [New Washington Bill Would Legalize More Homes and Businesses by Transit - Sightline Institute](https://www.sightline.org/2023/01/16/new-washington-bill-would-legalize-more-homes-and-businesses-by-transit#:~:text=HB%201337)
 * 01/16/2023 [Sightline Institute](/org/sightline_institute/) - [New Washington Bill Would Legalize More Homes and Businesses by Transit - Sightline Institute](https://www.sightline.org/2023/01/16/new-washington-bill-would-legalize-more-homes-and-businesses-by-transit/#:~:text=HB%201337)
 * 01/11/2016 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House%20Bill%201337)
-* [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=HB%201337)
 
 ## Meetings
 ### Thu 03/16 10:30 AM - Local Government, Land Use & Tribal Affairs (LGLT): EHB 1337 Accessory dwelling units

@@ -26,8 +26,6 @@
 * 02/23/2023 [Senate Democrats](/org/senate_democrats/) - [Keiser bill would ban pre-employment cannabis tests - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/02/22/keiser-bill-bans-pre-employment-cannabis-tests/#:~:text=SB%205123)
 * 02/22/2023 [The Seattle Times](/org/the_seattle_times/) - [WA Senate passes bill to bar hiring discrimination for cannabis use | The Seattle Times](https://www.seattletimes.com/seattle-news/wa-senate-passes-bill-to-bar-hiring-discrimination-for-cannabis-use/#:~:text=Senate%20Bill%205123)
 * 01/08/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: WE'RE BACK - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/08/this-week-in-the-senate-week-1-were-back/#:~:text=Senate%20Bill%205123)
-* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=ESSB%205123)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [Bill would eliminate pre-employment cannabis testing in Washington | The Spokesman-Review](https://www.spokesman.com/stories/2023/feb/27/bill-to-eliminate-pre-employment-cannabis-testing-/#:~:text=Senate%20Bill%205123)
 
 ## Meetings
 ### Tue 03/14 10:30 AM - Labor & Workplace Standards (LAWS): ESSB 5123 Cannabis/employment

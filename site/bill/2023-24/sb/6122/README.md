@@ -26,5 +26,5 @@ Testifying:
 * 💵Katie Beeson - Washington Food Industry Association
 * 💵Marian Dacca - Northwest Grocery Assn
 * 💵Bill Stauffacher - Washington Beer and Wine Distributors Association
-* Brad Tower - [Washington Liquor Store Association](/org/washington_liquor_store_association/)
+* 💵Brad Tower - [Washington Liquor Store Association](/org/washington_liquor_store_association/)
 * Marc Webster - Washington State Liquor and Cannabis Board

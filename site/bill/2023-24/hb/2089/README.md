@@ -24,7 +24,7 @@ Testifying:
 * 💵James Lovell - [Chief Seattle Club](/org/chief_seattle_club/)
 * Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
 * Sandy Kaiser - The Evergreen State College
-* Kathleen Hosfeld - Homestead Community Land Trust
+* Kathleen Hosfeld - [Homestead Community Land Trust](/org/homestead_community_land_trust/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Lisa Daugaard - Purpose Dignity Action (PDA)/CoLEAD Program
 * Fe LopezGaetke - Purpose Dignity Action (PDA)/CoLEAD Program
@@ -54,7 +54,7 @@ Testifying:
 
 #### 26 ❓ - Other
 Testifying:
-* Adrienne Mason - Akin
+* Adrienne Mason - [Akin](/org/akin/)
 * Susan Baird-Joshi - Washington State PTA
 * Melissa Stone - WSPTA
 * 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
@@ -135,7 +135,7 @@ Testifying:
 * Michone Preston - Habitat for Humanity of Washington State
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * David Buri
-* Kathleen Hosfeld - Homestead Community Land Trust
+* Kathleen Hosfeld - [Homestead Community Land Trust](/org/homestead_community_land_trust/)
 * Alexa Allman - Deer Park School District
 * Lynette Brower - WA State Skills Center Association
 * melissa spiker - Seattle Special Education PTSA, Advocacy Chair

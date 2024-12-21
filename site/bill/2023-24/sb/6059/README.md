@@ -29,7 +29,7 @@ Testifying:
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 * 💵Mike Hoover - [Detente Management](/org/detente_management/)
 * Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
-* Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 
 #### 0 👎 - Con
 

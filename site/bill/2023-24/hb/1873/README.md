@@ -14,7 +14,7 @@ Testifying:
 * Tonia McClanahan - Washington State Office of Public Defense
 * 💵Jill May - Washington Association for Children and Families (WACF)
 * Gabrial Cisneros-Lassey - WSPAC
-* Heather Cantamessa - Akin
+* Heather Cantamessa - [Akin](/org/akin/)
 
 #### 1 👎 - Con
 

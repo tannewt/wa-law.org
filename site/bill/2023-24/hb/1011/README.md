@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/14/2024 [House Republicans](/org/house_republicans/) - [Big wins, a few losses in the 2024 legislative session | Washington State House Republicans](http://houserepublicans.wa.gov/current/big-wins-a-few-losses-in-the-2024-legislative-session/#:~:text=repeal%20the%20state%20long-term%20care%20payroll%20tax)
 * 02/07/2024 [House Republicans](/org/house_republicans/) - [I-2124: Allowing long-term care opt-out | Washington State House Republicans](http://houserepublicans.wa.gov/i-2124/#:~:text=HB%201011)
 * 01/30/2024 [House Republicans](/org/house_republicans/) - [Fix the affordability crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-affordability-crisis/#:~:text=House%20Bill%201011)
 * 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the affordability crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/affordability/#:~:text=House%20Bill%201011)

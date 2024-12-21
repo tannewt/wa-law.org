@@ -11,7 +11,10 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/27/2024 [PubliCola](/org/publicola/) - [State Will Continue Requiring Low-Income People to Pay Back Disability Benefits Through 2025 - PubliCola](https://publicola.com/2024/06/27/state-will-continue-requiring-low-income-people-to-pay-back-disability-benefits-through-2025/#:~:text=a%20bill)
+* 05/22/2023 [Food Lifeline](/org/food_lifeline/) - [2023 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2023-washington-state-legislative-session-summary#:~:text=HB%201260)
 * 05/09/2023 [PubliCola](/org/publicola/) - [State Legislature Funds Social Services, Will Revisit Drug Policy After Failing to Act - PubliCola](https://publicola.com/2023/05/09/state-legislature-funds-social-services-will-revisit-drug-policy-after-failing-to-act/#:~:text=HB%201260)
+* 03/22/2023 [Food Lifeline](/org/food_lifeline/) - [2023 State Advocacy Agenda – Session Update | Food Lifeline](https://foodlifeline.org/article/2023-state-advocacy-agenda-session-update#:~:text=HB%201260)
 * 01/31/2023 [Crosscut](/org/crosscut/) - [Homeless services could face cuts in WA's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/01/homeless-services-could-face-cuts-was-2023-legislative-session#:~:text=House%20Bill%201260)
 * [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=HB%201260)
 

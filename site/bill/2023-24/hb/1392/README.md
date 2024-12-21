@@ -23,7 +23,6 @@
 * 01/30/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB%201392)
 * 02/02/2021 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship/#:~:text=HB1392)
 * 01/11/2016 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House%20Bill%201392)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=House%20Bill%201392)
 
 ## Meetings
 ### Wed 03/22 08:00 AM - Environment, Energy & Technology (ENET): E2SHB 1392 Electronics repair

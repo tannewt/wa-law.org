@@ -6,7 +6,4 @@
 ## Revisions
 * [Original Bill](1/)
 
-## 📰 Articles
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=Senate%20Bill%205055)
-
 ## Meetings

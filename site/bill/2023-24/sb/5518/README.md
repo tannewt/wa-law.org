@@ -13,7 +13,6 @@
 ## 📰 Articles
 * 03/03/2023 [The Center Square](/org/the_center_square/) - [Washington Senate unanimously passes bill to coordinate efforts against cybercrime | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_acf806d8-b9ff-11ed-8421-dbdadc55ad00.html#:~:text=Second%20Substitute%20Senate%20Bill%205518)
 * 02/27/2023 [The Center Square](/org/the_center_square/) - [Bill to coordinate efforts against cybercrime in WA passes out of Senate committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7fb2dcec-b6e0-11ed-ad70-cf3c0941767c.html#:~:text=Second%20Substitute%20Senate%20Bill%205518)
-* [KIRO7](/org/kiro7/) - [Gov. Inslee signs bill to protect Washingtonians from cyber-attacks, ransomware  – KIRO 7 News Seattle](https://www.kiro7.com/news/local/gov-inslee-signs-bill-protect-washingtonians-cyber-attacks-ransomware/GXMVQZ3RKNHIHPLH5ZNNHSSVNI/#:~:text=Senate%20Bill%205518)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5518 Cybersecurity

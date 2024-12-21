@@ -16,8 +16,9 @@
 * 01/31/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Current Status of Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2024-current-status-of-priority-bills/#:~:text=HB%202049)
 * 01/24/2024 [The Center Square](/org/the_center_square/) - [Trash talk: Legislation intends to boost Washington state’s recycling rate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2967b294-baff-11ee-a57a-9357d74e4990.html#:~:text=House%20Bill%202049)
 * 01/20/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Quaker Voice Priorities — Quaker Voice](https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=HB%202049)
-* 01/08/2024 [The Seattle Times](/org/the_seattle_times/) - [From a state clam to car tab discounts, lawmakers’ agenda takes shape | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/from-a-state-clam-to-car-tab-discounts-lawmakers-agenda-takes-shape/#:~:text=House%20Bill%202049)
+* 01/17/2024 [Latino Community Fund](/org/latino_community_fund/) - [2024 Legislative Agenda - Latino Community Fund of Washington](https://www.latinocommunityfund.org/2024_legislative_agenda#:~:text=HB%202049%20-%20Improve%20Our%20Recycling%20Services%20in%20WA)
 * 01/08/2024 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2024 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/01/08/the-house-hot-sheet-for-week-1-of-the-2024-legislative-session/#:~:text=HB%202049)
+* 01/08/2024 [The Seattle Times](/org/the_seattle_times/) - [From a state clam to car tab discounts, lawmakers’ agenda takes shape | The Seattle Times](https://www.seattletimes.com/seattle-news/environment/from-a-state-clam-to-car-tab-discounts-lawmakers-agenda-takes-shape/#:~:text=House%20Bill%202049)
 * 01/05/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 8 - 12, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-8-12-2024/#:~:text=HB%202049)
 
 ## Meetings
@@ -29,7 +30,7 @@ Testifying:
 * Brent Paul
 * Cornelia Teed - - None -
 * Peggy Butler
-* Dylan de Thomas - The Recycling Partnership
+* Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
 * Sophia Keller
 * 💵Andrew Hackman - AMERIPEN
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
@@ -100,7 +101,7 @@ Testifying:
 * Marlene Feist - [City of Spokane](/org/city_of_spokane/)
 * Kate Bailey - The Association of Plastic Recyclers (APR)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
-* 💵Giovanni Severino - Latino Community Fund
+* 💵Giovanni Severino - [Latino Community Fund](/org/latino_community_fund/)
 * Noa Figlin - Student
 * Pat McLaughlin - [King County](/org/king_county/)
 * Peter Steelquist - Surfrider Foundation
@@ -139,7 +140,7 @@ Testifying:
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Andrew Hackman - Serlin Haley LLP
-* Dylan de Thomas - The Recycling Partnership
+* Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
 * eric pratt
 * 💵Katie Beeson - Washington Food Industry Association
 * 💵Jacob Cassady - Association of Home Appliance Manufacturers

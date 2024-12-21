@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1469/</link>
 		<description>Updates about HB 1469</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 10 Oct 2023 17:58:19 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 16 Dec 2024 15:39:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -892,6 +892,20 @@
 			<pubDate>Tue, 10 Oct 2023 17:58:19 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=HB%201469</guid>
+		</item>
+		<item>
+			<title>Brown and Serrano clash in back-to-back AG debates</title>
+			<description>News article &quot;Brown and Serrano clash in back-to-back AG debates&quot; from Gorge News Center.</description>
+			<pubDate>Fri, 20 Sep 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/09/20/brown-and-serrano-clash-in-back-to-back-ag-debates/#:~:text=“shield%20law”</guid>
+		</item>
+		<item>
+			<title>Washington: A Firewall for Freedom | ACLU of Washington</title>
+			<description>News article &quot;Washington: A Firewall for Freedom | ACLU of Washington&quot; from American Civil Liberties Union of Washington.</description>
+			<pubDate>Mon, 16 Dec 2024 15:39:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://www.aclu-wa.org/pages/firewalls-freedom#:~:text=HB%201469</guid>
 		</item>
 	</channel>
 </rss>

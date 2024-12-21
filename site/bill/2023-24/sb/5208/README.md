@@ -14,6 +14,8 @@
 * 05/22/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | New State Laws Enhance Election Security and Participation | South Seattle Emerald](https://southseattleemerald.com/2023/05/22/news-gleams-new-state-laws-enhance-election-security-and-participation/#:~:text=Senate%20Bill%20(SB)%205208)
 * 05/19/2023 [Gorge News Center](/org/gorge_news_center/) - [Secretary of State Steve Hobbs applauds new elections laws](https://gorgenewscenter.com/2023/05/19/secretary-of-state-steve-hobbs-applauds-new-elections-laws/#:~:text=Senate%20Bill%20(SB)%205208)
 * 01/24/2023 [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](https://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=5208)
+* [Axios](/org/axios/) - [News - Axios Seattle](https://www.axios.com/local/seattle/news#:~:text=new%20state%20law)
+* [Axios](/org/axios/) - [Politics - Axios Seattle](https://www.axios.com/local/seattle/politics#:~:text=new%20state%20law)
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): SSB 5208 Online voter registration

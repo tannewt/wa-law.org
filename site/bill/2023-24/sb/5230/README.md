@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%205908)
 * 04/05/2023 [Senate Democrats](/org/senate_democrats/) - [2023 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2023priorities/#:~:text=Senate%20Bill%205230)
 * 01/22/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Housing, public safety and reproductive freedom take center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/22/this-week-in-the-senate-week-3-housing-public-safety-and-reproductive-freedom-take-center-stage/#:~:text=Senate%20Bill%205230)
 

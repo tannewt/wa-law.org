@@ -9,10 +9,12 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/02/2024 [NW News Network](/org/nw_news_network/) - [First cutoff deadline, rent bill complications: A quick look at week 4 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-02/first-cutoff-deadline-rent-bill-complications-a-quick-look-at-week-4-in-the-wa-legislature#:~:text=task%20force%20bill)
 * 01/20/2024 [NW News Network](/org/nw_news_network/) - [AI, guns, and initiatives: highlights from Week 2 of Washington's 2024 legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-19/ai-guns-and-initiatives-highlights-from-week-2-of-washingtons-2024-legislative-session#:~:text=House%20Bill%201934)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%201934)
-* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [2024 Legislative Priorities | Washington State](https://www.atg.wa.gov/2024-legislative-priorities#:~:text=HB%201934)
-* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson proposes creation of bipartisan Artificial Intelligence Task Force | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-proposes-creation-bipartisan-artificial-intelligence-task-force#:~:text=House%20Bill%201934)
+* 01/12/2024 [Crosscut](/org/crosscut/) - [Washington Legislature aims to regulate AI — but treads cautiously | Crosscut](https://crosscut.com/politics/2024/01/washington-legislature-aims-regulate-ai-treads-cautiously#:~:text=parallel%20bills)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [2024 Legislative Priorities | Washington State](http://www.atg.wa.gov/2024-legislative-priorities#:~:text=HB%201934)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson proposes creation of bipartisan Artificial Intelligence Task Force | Washington State](http://www.atg.wa.gov/news/news-releases/ag-ferguson-proposes-creation-bipartisan-artificial-intelligence-task-force#:~:text=House%20Bill%201934)
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Appropriations (APP): SHB 1934 AI task force

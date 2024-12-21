@@ -8,12 +8,12 @@
 
 ## 📰 Articles
 * 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SB%205688)
+* 02/14/2023 [Department of Natural Resources](/org/department_of_natural_resources/) - [Commissioner Franz Urges House to Pass Carbon Credit Bill | WA - DNR](https://www.dnr.wa.gov/news/commissioner-franz-urges-house-pass-carbon-credit-bill#:~:text=SB%205688)
 * 02/10/2023 [NW News Network](/org/nw_news_network/) - [Washington bill could allow Department of Natural Resources to sell carbon credits | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-02-10/washington-bill-could-allow-department-of-natural-resources-to-sell-carbon-credits#:~:text=S.B.%205688)
+* 02/09/2023 [Department of Natural Resources](/org/department_of_natural_resources/) - [State Looks to Seize Opportunity to Cash in on Carbon for Schools and Communities | WA - DNR](https://www.dnr.wa.gov/news/state-looks-seize-opportunity-cash-carbon-schools-and-communities#:~:text=Senate%20Bill%205688)
 * 02/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB%205688)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Carbon SB 5688 - HB 1789 | WA - DNR](https://www.dnr.wa.gov/CarbonBill#:~:text=SB%205688)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=SB%205688)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [Commissioner Franz Urges House to Pass Carbon Credit Bill | WA - DNR](https://www.dnr.wa.gov/news/commissioner-franz-urges-house-pass-carbon-credit-bill#:~:text=SB%205688)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [State Looks to Seize Opportunity to Cash in on Carbon for Schools and Communities | WA - DNR](https://www.dnr.wa.gov/news/state-looks-seize-opportunity-cash-carbon-schools-and-communities#:~:text=Senate%20Bill%205688)
 
 ## Meetings
 ### Wed 02/22 01:30 PM - Ways & Means (WM): SB 5688 Public lands/carbon seq.

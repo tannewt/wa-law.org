@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/22/2024 [Washington State Standard](/org/washington_state_standard/) - [How WA lawmakers are looking to improve K-12 special education • Washington State Standard](https://washingtonstatestandard.com/2024/02/21/wa-lawmakers-look-to-improve-k-12-special-education/#:~:text=Senate%20Bill%205852)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=SB%205852)
 
 ## Meetings

@@ -19,7 +19,6 @@
 * 01/23/2023 [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=SB%205072)
 * 01/19/2023 [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! January 18, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-january-18-2023/#:~:text=SB%205072)
 * 01/16/2023 [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=SB%205072)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Education](https://crosscut.com/voter-guide/2023-legislative-tracker/election/education#:~:text=Senate%20Bill%205072)
 
 ## Meetings
 ### Wed 03/01 08:00 AM - Education (ED): SSB 5072 Highly capable students

@@ -80,7 +80,7 @@ Testifying:
 * Joe Blodgett - Yakama Nation
 * Lisa Pelly - [Trout Unlimited](/org/trout_unlimited/)
 * 💵Bill Clarke - KRD + Kittitas County + Trust for Public Land
-* Kathleen Hosfeld - Homestead Community Land Trust
+* Kathleen Hosfeld - [Homestead Community Land Trust](/org/homestead_community_land_trust/)
 * 💵John Stuhlmiller - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * 💵Nick Federici - [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/)
 * Michael Pugsley - [Ashley House](/org/ashley_house/)

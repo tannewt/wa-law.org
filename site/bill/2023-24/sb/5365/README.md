@@ -19,7 +19,6 @@
 * 02/23/2023 [Senate Democrats](/org/senate_democrats/) - [MOCC Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/moccpriorities/#:~:text=SB%205365)
 * 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB%205365)
 * 02/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=SB%205365)
-* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=SB%205365)
 
 ## Meetings
 ### Thu 03/16 08:00 AM - Regulated Substances & Gaming (RSG): ESSB 5365 Vapor and tobacco/minors

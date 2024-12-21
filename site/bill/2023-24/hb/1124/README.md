@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 12/22/2023 [Crosscut](/org/crosscut/) - [What tenant protections will WA lawmakers consider in 2024? | Crosscut](https://crosscut.com/investigations/2023/12/what-tenant-protections-will-wa-lawmakers-consider-2024#:~:text=HB%201124)
+* 12/22/2023 [Cascade PBS](/org/cascade_pbs/) - [What tenant protections will WA lawmakers consider in 2024? | Cascade PBS](https://www.cascadepbs.org/investigations/2023/12/what-tenant-protections-will-wa-lawmakers-consider-2024#:~:text=HB%201124)
 * 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=HB%201124)
 * 03/14/2023 [The Urbanist](/org/the_urbanist/) - [Legislature Abandons Rent Stabilization Push | The Urbanist](https://www.theurbanist.org/2023/03/14/legislature-abandons-rent-stabilization-push/#:~:text=House%20Bill%201124)
 * 03/14/2023 [PubliCola](/org/publicola/) - [Eight-Month-Old Program to Mitigate Rent Hikes Shows Promise, Areas for Improvement - PubliCola](https://publicola.com/2023/03/14/eight-month-old-program-to-mitigate-rent-hikes-shows-promise-areas-for-improvement/#:~:text=House%20Bill%201124)
@@ -28,7 +29,6 @@
 * 01/12/2023 [Crosscut](/org/crosscut/) - [How WA's legislature is addressing the housing crisis in 2023 | Crosscut](https://crosscut.com/politics/2023/01/how-was-legislature-addressing-housing-crisis-2023#:~:text=has%20introduced%20House%20Bill%201124)
 * 01/09/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/09/the-house-hot-sheet-for-week-1-of-the-2023-legislative-session/#:~:text=HB%201124)
 * 06/19/2015 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB%201124)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Housing & Homelessness](https://crosscut.com/voter-guide/2023-legislative-tracker/election/housing-homelessness#:~:text=House%20Bill%201124)
 
 ## Meetings
 ### Thu 01/12 08:00 AM - Housing (HOUS): HB 1124 Residential rent and fees
@@ -63,7 +63,7 @@ Testifying:
 * Constance Nelson
 * Bruce Becker - Bruce Becker
 * Allison Moser
-* Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Ryan Erickson - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Cory Brewer
 * Lyle Crews

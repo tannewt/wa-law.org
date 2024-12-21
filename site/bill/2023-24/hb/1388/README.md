@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 12/01/2023 [Crosscut](/org/crosscut/) - [Tumwater mobile home tenants lobby against rent hikes | Crosscut](https://crosscut.com/investigations/2023/12/tumwater-mobile-home-tenants-lobby-against-rent-hikes#:~:text=HB%201388)
+* 03/22/2023 [Food Lifeline](/org/food_lifeline/) - [2023 State Advocacy Agenda – Session Update | Food Lifeline](https://foodlifeline.org/article/2023-state-advocacy-agenda-session-update#:~:text=HB%201388)
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [House of origin cutoff | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-of-origin-cutoff/#:~:text=House%20Bill%201388)
 * 03/09/2023 [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=HB%201388)
 * 03/09/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Rent cap bill dies, housing density lives on in Legislature | Cascadia Daily News](https://www.cascadiadaily.com/2023/mar/09/rent-cap-bill-dies-housing-density-lives-on-in-legislature/#:~:text=1388)
@@ -20,6 +21,7 @@
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201388)
 * 02/08/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Bellingham lawmaker's bill would cap rent increases | Cascadia Daily News](https://www.cascadiadaily.com/2023/feb/08/bellingham-lawmakers-bill-would-cap-rent-increases/#:~:text=House%20Bill%201388)
 * 02/05/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/05/the-house-hot-sheet-for-week-5-of-the-2023-legislative-session/#:~:text=HB%201388)
+* 01/30/2023 [Food Lifeline](/org/food_lifeline/) - [Washington State Legislative Session Update – Day 22 | Food Lifeline](https://foodlifeline.org/article/washington-state-legislative-session-update-day-22#:~:text=HB%201388)
 * 01/29/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Committee Action Expected on Some Bills This Week - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate012323#:~:text=H.B.%201388)
 * 01/26/2023 [The Urbanist](/org/the_urbanist/) - [WALeg Wednesday Gets Wonky with Wealth Taxes and Rent Stabilization | The Urbanist](https://www.theurbanist.org/2023/01/25/waleg-wednesday-week-3/#:~:text=HB%201388)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201388)
@@ -109,7 +111,7 @@ Testifying:
 * JENNIFER WU
 * John Barrett
 * Santana Schoene - [Detente Management](/org/detente_management/)
-* Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * Cindy Taylor
 * Valerie Robinson - Landlord
 * Jon Pettit - citizen

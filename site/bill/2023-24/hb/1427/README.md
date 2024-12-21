@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 05/10/2023 [Sightline Institute](/org/sightline_institute/) - [The Northwest Needs More Midsize Solar - Sightline Institute](https://www.sightline.org/2023/05/10/the-northwest-needs-more-midsize-solar/#:~:text=House%20Bill%201407)
+
 ## Meetings
 ### Tue 01/24 04:00 PM - Environment & Energy (ENVI): HB 1427 On-premises energy gen.
 #### 389 👍 - Pro

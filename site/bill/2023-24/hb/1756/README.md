@@ -9,6 +9,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 06/07/2024 [NW News Network](/org/nw_news_network/) - [Washington wants to hear rural communities’ thoughts on renewable energy | Northwest News Network](https://www.nwnewsnetwork.org/environment-and-planning/2024-06-07/washington-wants-to-hear-rural-communities-thoughts-on-renewable-energy#:~:text=new%20state%20law)
+
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): SHB 1756 Energy/tax
 #### 4 👍 - Pro

@@ -32,7 +32,6 @@
 * 01/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Advocacy in Action! January 19, 2023 - WSPTA](https://www.wastatepta.org/advocacy-in-action-january-19-2023/#:~:text=SB%205311)
 * 01/16/2023 [Washington St Pta](/org/washington_st_pta/) - [Flurry of Hearings Kick Off Week 1 of the 2023 Session - WSPTA](https://www.wastatepta.org/flurry-of-hearings-kick-off-week-1-of-the-2023-session/#:~:text=SB%205311)
 * 01/14/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: Housing, Climate Change and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/13/this-week-in-the-senate-week-12-housing-climate-change-and-mlk-day/#:~:text=SB%205311)
-* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=SB%205311)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): E2SSB 5311 Special education funding

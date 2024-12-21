@@ -34,7 +34,7 @@ Testifying:
 ### Wed 02/22 01:30 PM - Appropriations (APP): SHB 1570 TNC insurance programs
 #### 13 👍 - Pro
 Testifying:
-* Nicholas Johnson - Lyft, Inc.
+* 💵Nicholas Johnson - Lyft, Inc.
 * 💵Brenda Wiest - Teamsters 117
 * 💵Allison Ford - Uber
 

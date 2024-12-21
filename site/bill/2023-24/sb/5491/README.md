@@ -16,7 +16,6 @@
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [UPDATED: 50 Housing Bills and How They Fared in Olympia - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now#:~:text=SB%205491)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB%205491)
 * 02/07/2023 [The Urbanist](/org/the_urbanist/) - [One Stairway is Enough to Reach Housing Heaven | The Urbanist](https://www.theurbanist.org/2023/02/07/one-stairway-is-enough-to-reach-housing-heaven/#:~:text=SB%205491)
-* [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=SB%205491)
 
 ## Meetings
 ### Mon 03/20 01:30 PM - Housing (HOUS): SSB 5491 Residential building exits

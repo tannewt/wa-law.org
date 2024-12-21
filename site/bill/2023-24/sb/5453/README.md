@@ -15,7 +15,6 @@
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 13 - 17, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-13-17-2023/#:~:text=SB%205453)
 * 03/02/2023 [The Center Square](/org/the_center_square/) - [Bills to protect young people, help crime victims advance in WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1ce009d8-b93c-11ed-bade-8b982e7a07ad.html#:~:text=Senate%20Bill%205453)
 * 03/01/2023 [Senate Democrats](/org/senate_democrats/) - [Senate unanimously passes Keiser bill banning female genital mutilation - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/01/senate-unanimously-passes-keiser-bill-banning-female-genital-mutilation/#:~:text=SB%205453)
-* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=SB%205453)
 
 ## Meetings
 ### Fri 03/31 01:30 PM - Appropriations (APP): SSB 5453 Female genital mutilation

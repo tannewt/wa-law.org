@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 02/10/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington looks to put its most famous volcano on a specialty license plate | Cascadia Daily News](https://www.cascadiadaily.com/2024/feb/10/washington-looks-to-put-its-most-famous-volcano-on-a-specialty-license-plate/#:~:text=Senate%20Bill%205333)
+* 02/07/2024 [Washington State Standard](/org/washington_state_standard/) - [Washington looks to put its most famous volcano on a specialty license plate • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-looks-to-put-its-most-famous-volcano-on-specialty-license-plates/#:~:text=Senate%20Bill%205333)
 
 ## Meetings
 ### Mon 02/06 04:00 PM - Transportation (TRAN): SB 5333 Sport special license plate

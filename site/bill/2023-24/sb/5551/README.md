@@ -11,7 +11,7 @@
 #### 58 👍 - Pro
 Testifying:
 * Jay Gordon - WA State Dairy Federation
-* Allan Warren - Bonneville Environmental Foundation
+* Allan Warren - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
 * Joe Crumbley - Coalition for Organic and Regenerative Agriculture
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * john Worthington

@@ -10,6 +10,8 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 06/04/2024 [Cascade PBS](/org/cascade_pbs/) - [Washington’s latest attempt at graffiti cleanup: drones | Cascade PBS](https://crosscut.com/news/2024/06/washingtons-latest-attempt-graffiti-cleanup-drones#:~:text=graffiti%20reduction%20and%20removal%20pilot%20program)
+* 06/04/2024 [Cascade PBS](/org/cascade_pbs/) - [Washington’s latest attempt at graffiti cleanup: drones | Cascade PBS](https://www.cascadepbs.org/news/2024/06/washingtons-latest-attempt-graffiti-cleanup-drones#:~:text=graffiti%20reduction%20and%20removal%20pilot%20program)
 * 03/21/2024 [The Center Square](/org/the_center_square/) - [Targeting the taggers: Washington anti-graffiti bill signed into law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_bbafcfca-e7bd-11ee-a45a-9bb0a9b96b12.html#:~:text=House%20Bill%201989)
 * 02/24/2024 [The Spokesman-Review](/org/the_spokesman-review/) - [Spin Control: State may test out new ways to battle highway graffiti | The Spokesman-Review](https://www.spokesman.com/stories/2024/feb/24/spin-control-state-may-test-out-new-ways-to-battle/#:~:text=HB%201989,)
 * 02/15/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate to hear Barkis’ bill that would use new technology to erase graffiti, apprehend taggers](https://gorgenewscenter.com/2024/02/15/senate-to-hear-barkis-bill-that-would-use-new-technology-to-erase-graffiti-apprehend-taggers/#:~:text=House%20Bill%201989)

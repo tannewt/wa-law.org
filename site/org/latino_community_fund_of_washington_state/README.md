@@ -55,4 +55,4 @@
 ## [SB 6109](/bill/2023-24/sb/6109/) - Children and families   ❓3
 
 ## [SB 6269](/bill/2023-24/sb/6269/) - Alt. voter verification 👍2  
-* 👍 Jake García
+* 👍💵 Jake García

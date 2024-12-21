@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/25/2024 [Washington State Standard](/org/washington_state_standard/) - [WA lawmaker wants to make voting mandatory ... sort of? • Washington State Standard](https://washingtonstatestandard.com/2024/01/24/wa-lawmaker-wants-to-make-voting-mandatory-sort-of/#:~:text=Senate%20Bill%205209)
 * 02/08/2023 [Senate Republicans](/org/senate_republicans/) - [Democracy on the ballot: SB 5082 & SB 5209 - Senate Republican Caucus](https://src.wastateleg.org/blog/democracy-ballot-sb-5082-sb-5209/#:~:text=Senate%20Bill%205209)
 * 01/29/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety takes center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/29/this-week-in-the-senate-week-4-public-safety-takes-center-stage/#:~:text=Senate%20Bill%205209)
 

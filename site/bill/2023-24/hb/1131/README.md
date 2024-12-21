@@ -15,7 +15,6 @@
 * 02/22/2023 [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=HB%201131)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201131)
 * 01/06/2023 [The Urbanist](/org/the_urbanist/) - [One Tool to Fight Plastic Pollution? Make Companies Pay for Packaging Waste | The Urbanist](https://www.theurbanist.org/2023/01/06/one-tool-to-fight-plastic-pollution-make-companies-pay-for-packaging-waste/#:~:text=House%20Bill%201131)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Environment](https://crosscut.com/voter-guide/2023-legislative-tracker/election/environment#:~:text=House%20Bill%201131)
 
 ## Meetings
 ### Wed 02/15 04:00 PM - Appropriations (APP): SHB 1131 Solid waste management
@@ -28,7 +27,7 @@ Testifying:
 * Kate Bailey - The Association of Plastic Recyclers
 * 💵Ezra Eickmeyer - [Terramer Inc](/org/terramer_inc/)
 * 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
-* Dylan de Thomas - The Recycling Partnership
+* Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
 * 💵Alex Hur - [Oregon Beverage Recycling Cooperative](/org/oregon_beverage_recycling_cooperative/)
 * Eric Chambers - [Oregon Beverage Recycling Cooperative](/org/oregon_beverage_recycling_cooperative/)
 * Pat McLaughlin - [King County](/org/king_county/)
@@ -82,7 +81,7 @@ Testifying:
 * Melissa Stuart - City of Redmond Councilmember
 * Manya Gupta - Juanita High School (Student)
 * Pam Clough - [Environment Washington](/org/environment_washington/)
-* 💵Giovanni Severino - Latino Community Fund
+* 💵Giovanni Severino - [Latino Community Fund](/org/latino_community_fund/)
 * Preston Peck - [City of Tacoma](/org/city_of_tacoma/)
 * Pat McLaughlin - [King County](/org/king_county/)
 * 💵Blair Englebrecht - Puget Soundkeeper Alliance
@@ -133,8 +132,8 @@ Testifying:
 * Daniel Groce - Novelis
 * Laurie Davies - Washington State Department of Ecology
 * 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
-* Dylan de Thomas - The Recycling Partnership
-* Mike Smaha - Can Manufacturers Institute
+* Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
+* Mike Smaha - [Can Manufacturers Institute](/org/can_manufacturers_institute/)
 * Brendan Flanagan - [Consumer Brands Association](/org/consumer_brands_association/)
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Charles Feick - NGO PIECE and NGO PEACE

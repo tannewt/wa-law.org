@@ -15,8 +15,6 @@
 * 04/08/2023 [Gorge News Center](/org/gorge_news_center/) - [Senate sends Harris bill to expand medical assistants’ responsibilities to the governor](https://gorgenewscenter.com/2023/04/08/senate-sends-harris-bill-to-expand-medical-assistants-responsibilities-to-the-governor/#:~:text=House%20Bill%201073)
 * 02/15/2023 [Gorge News Center](/org/gorge_news_center/) - [Harris bill to expand medical assistants’ responsibilities unanimously passes the House](https://gorgenewscenter.com/2023/02/15/harris-bill-to-expand-medical-assistants-responsibilities-unanimously-passes-the-house/#:~:text=House%20Bill%201073)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1073)
-* [Gorge Radio](/org/gorge_radio/) - [Harris Bill For Medical Assistants Passed By Washington House – Gorge Radio](https://gorgeradio.com/harris-bill-for-medical-assistants-passed-by-washington-house/#:~:text=House%20Bill%201073)
-* [Gorge Radio](/org/gorge_radio/) - [Harris Medical Procedure Access Bill Approved By Senate – Gorge Radio](https://gorgeradio.com/harris-medical-procedure-access-bill-approved-by-senate/#:~:text=House%20Bill%201073)
 
 ## Meetings
 ### Thu 03/09 10:30 AM - Health & Long Term Care (HLTC): ESHB 1073 Medical assistants

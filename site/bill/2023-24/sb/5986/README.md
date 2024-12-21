@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 03/09/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [WaLeg Recap: Progress Made – but Far More is Needed Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/waleg-recap-2024/#:~:text=protected%20from%20surprise%20bills)
 * 01/26/2024 [The Seattle Times](/org/the_seattle_times/) - [How recent WA legislative changes could save you money on health care | The Seattle Times](https://www.seattletimes.com/seattle-news/health/how-recent-wa-legislative-changes-could-save-you-money-on-health-care/#:~:text=Senate%20Bill%205986)
 
 ## Meetings

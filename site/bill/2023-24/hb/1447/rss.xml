@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1447/</link>
 		<description>Updates about HB 1447</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 11 May 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 22 May 2023 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -286,6 +286,13 @@
 			<guid isPermaLink="false">testifier/Lianna/Kressin/2023-03-20 03:42:46</guid>
 		</item>
 		<item>
+			<title>2023 State Advocacy Agenda – Session Update | Food Lifeline</title>
+			<description>News article &quot;2023 State Advocacy Agenda – Session Update | Food Lifeline&quot; from Food Lifeline.</description>
+			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://foodlifeline.org/article/2023-state-advocacy-agenda-session-update#:~:text=HB%201447</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
@@ -333,6 +340,13 @@
 			<pubDate>Thu, 11 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-11/Effective date 7/23/2023*.</guid>
+		</item>
+		<item>
+			<title>2023 Washington State Legislative Session Summary | Food Lifeline</title>
+			<description>News article &quot;2023 Washington State Legislative Session Summary | Food Lifeline&quot; from Food Lifeline.</description>
+			<pubDate>Mon, 22 May 2023 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://foodlifeline.org/article/2023-washington-state-legislative-session-summary#:~:text=HB%201447</guid>
 		</item>
 	</channel>
 </rss>

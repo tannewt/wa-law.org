@@ -12,7 +12,9 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 10/16/2024 [Washington State Standard](/org/washington_state_standard/) - [70% of Washington public school students now have access to free meals • Washington State Standard](https://washingtonstatestandard.com/2024/10/16/70-of-washington-public-school-students-now-have-access-to-free-meals/#:~:text=House%20Bill%201238)
 * 07/17/2023 [House Democrats](/org/house_democrats/) - [LEGISLATIVE NEWS / NOTICIAS LEGISLATIVAS: 2023 Session Report from the Washington Latino Democratic Caucus / Informe de la sesión de 2023 del Caucus Demócrata Latino de Washington – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/07/17/legislative-news-noticias-legislativas-2023-session-report-from-the-washington-latino-democratic-caucus-informe-de-la-sesion-de-2023-del-caucus-democrata-latino-de-washington/#:~:text=HB%201238)
+* 05/22/2023 [Food Lifeline](/org/food_lifeline/) - [2023 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2023-washington-state-legislative-session-summary#:~:text=HB%201238)
 * 05/09/2023 [House Democrats](/org/house_democrats/) - [Expanded Free School Meals Signed into Law – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/05/09/expanded-free-school-meals-signed-into-law/#:~:text=HB%201238)
 * 04/27/2023 [NW News Network](/org/nw_news_network/) - [Washington's regular legislative session is over. Here are some of the highlights | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-04-27/washingtons-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House%20Bill%201238)
 * 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=House%20Bill%201238)
@@ -21,6 +23,7 @@
 * 04/18/2023 [House Democrats](/org/house_democrats/) - [Riccelli’s Expanded Free School Meals Bill Passes Legislature / Legislatura aprueba proyecto de ley de Riccelli ampliando comidas escolares gratuitas – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/18/riccellis-expanded-free-school-meals-bill-passes-legislature/#:~:text=HB%201238)
 * 04/14/2023 [The Seattle Times](/org/the_seattle_times/) - [With 10 days to go, some bills fall by the wayside in Olympia | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/with-10-days-to-go-some-bills-fall-by-the-wayside-in-olympia/#:~:text=House%20Bill%201238)
 * 03/27/2023 [Washington St Pta](/org/washington_st_pta/) - [It’s all About the Budget Now in Week 11 Report - WSPTA](https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=E2SHB%201238)
+* 03/22/2023 [Food Lifeline](/org/food_lifeline/) - [2023 State Advocacy Agenda – Session Update | Food Lifeline](https://foodlifeline.org/article/2023-state-advocacy-agenda-session-update#:~:text=E2SHB%201238)
 * 03/13/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 10 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate031323#:~:text=H.B.%201238,)
 * 03/13/2023 [Washington St Pta](/org/washington_st_pta/) - [March 8 Deadline Ends Journey for Many Bills in Week 9 Report - WSPTA](https://www.wastatepta.org/march-8-deadline-ends-journey-for-many-bills-in-week-9-report/#:~:text=E2SHB%201238)
 * 03/10/2023 [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=House%20Bill%201238)
@@ -31,6 +34,7 @@
 * 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SHB%201238)
 * 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201238)
 * 02/06/2023 [Washington St Pta](/org/washington_st_pta/) - [Funding Bills for Special Education and Transportation Continue to Advance in Week 4 - WSPTA](https://www.wastatepta.org/funding-bills-for-special-education-and-transportation-continue-to-advance-in-week-4/#:~:text=HB%201238)
+* 01/30/2023 [Food Lifeline](/org/food_lifeline/) - [Washington State Legislative Session Update – Day 22 | Food Lifeline](https://foodlifeline.org/article/washington-state-legislative-session-update-day-22#:~:text=HB%201238)
 * 01/30/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=HB%201238)
 * 01/29/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/29/the-house-hot-sheet-for-week-4-of-the-2023-legislative-session/#:~:text=HB%201238)
 * 01/24/2023 [The Washington Bus](/org/the_washington_bus/) - [Announcing our 2023 Legislative Priorities! – The Washington Bus](https://www.washingtonbus.org/2023/01/23/announcing-our-2023-legislative-priorities/#:~:text=1238)
@@ -38,7 +42,6 @@
 * 01/22/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201238)
 * 01/12/2023 [Senate Democrats](/org/senate_democrats/) - [Riccelli, Nobles Introduce Free School Meals Bill - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/12/riccelli-nobles-introduce-free-school-meals-bill/#:~:text=HB%201238)
 * 01/11/2023 [House Democrats](/org/house_democrats/) - [Riccelli, Nobles Introduce Free School Meals Bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/11/riccelli-nobles-introduce-free-school-meals-bill/#:~:text=HB%201238)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [Bill to expand free school meals advances in Washington legislature | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/03/bill-to-expand-free-school-meals-advances-in-washi/#:~:text=House%20Bill%201238)
 
 ## Meetings
 ### Tue 03/28 04:00 PM - Ways & Means (WM): E2SHB 1238 Free school meals
@@ -73,7 +76,7 @@ Testifying:
 * 💵Logan Endres - Washington State School Directors' Association (WSSDA)
 * Mikhail Cherniske - Office of Superintendent of Public Instruction
 * Dr. Laurie Dent - Sumner-Bonney Lake School District
-* Ben Mitchell - Foundation for Tacoma Students
+* Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * Sophia Hernandez - [The Washington Bus](/org/the_washington_bus/)
 * MD, FAAP, Tsering Lhewa - Washington Chapter of the American Academy of Pediatrics
 * Andrea Davis
@@ -129,7 +132,7 @@ Testifying:
 * Director Liza Rankin - School Board Director, Seattle Public Schools
 * Roni Cook - [Washington Education Association](/org/washington_education_association/)
 * Ben Atkinson - Washington State Academy of Nutrition and Dietetics
-* Ben Mitchell - Foundation for Tacoma Students
+* Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * Mikhail Cherniske - Office of Superintendent of Public Instruction
 * Karen Brown - [Franklin Pierce School District](/org/franklin_pierce_school_district/)
 * Andrea Davis - Coordinated Care

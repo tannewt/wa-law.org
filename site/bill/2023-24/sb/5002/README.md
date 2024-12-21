@@ -10,7 +10,9 @@
 
 ## 📰 Articles
 * 02/17/2024 [The Seattle Times](/org/the_seattle_times/) - [Some bills survive, others don’t after WA Legislature chamber deadline | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-survive-others-dont-after-wa-legislature-chamber-deadline/#:~:text=Senate%20Bill%205002)
+* 02/15/2024 [Washington State Standard](/org/washington_state_standard/) - [Hold on. ‘The Evergreen State’ isn’t Washington’s nickname? • Washington State Standard](https://washingtonstatestandard.com/briefs/hold-on-the-evergreen-state-isnt-washingtons-nickname/#:~:text=Senate%20Bill%205002)
 * 01/29/2024 [The Seattle Times](/org/the_seattle_times/) - [WA lawmakers try again to lower blood alcohol limit as DUI deaths rise | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/as-death-toll-rises-washington-lawmakers-look-to-lower-legal-limit-for-driving-drunk/#:~:text=Senate%20Bill%205002)
+* 01/26/2024 [Washington State Standard](/org/washington_state_standard/) - [As death toll rises, Washington lawmakers look to lower legal limit for driving drunk • Washington State Standard](https://washingtonstatestandard.com/2024/01/26/as-death-toll-rises-washington-lawmakers-look-to-lower-legal-limit-for-driving-drunk/#:~:text=Senate%20Bill%205002)
 * 01/26/2024 [MyNorthwest](/org/mynorthwest/) - [State lawmakers try again to lower legal blood alcohol limit for DUIs - MyNorthwest.com](https://mynorthwest.com/3948088/state-lawmakers-try-again-lower-legal-blood-alcohol-limit/#:~:text=Senate%20Bill%205002)
 * 01/25/2024 [KING5](/org/king5/) - [.05 BAC limit proposal has public hearing in state House | king5.com](https://www.king5.com/article/news/politics/state-politics/bill-lower-washington-bac-05-08-hearing-legislature-blood-alcohol-content/281-4c6a5d14-839a-4b68-81f1-2ecb537137c0#:~:text=SB%205002)
 * 04/24/2023 [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=Senate%20Bill%205002)
@@ -23,9 +25,6 @@
 * 02/09/2023 [Crosscut](/org/crosscut/) - [A WA bill would lower the legal driving limit to .05% BAC | Crosscut](https://crosscut.com/politics/2023/02/wa-bill-would-lower-legal-driving-limit-05-bac#:~:text=Senate%20Bill%205002)
 * 02/03/2023 [Axios](/org/axios/) - [Washington state considers lowering legal BAC limit to .05% - Axios Seattle](https://www.axios.com/local/seattle/2023/02/03/blood-alcohol-limit-washington-state-lowering#:~:text=Senate%20Bill%205002)
 * 01/29/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 4: Public safety takes center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/29/this-week-in-the-senate-week-4-public-safety-takes-center-stage/#:~:text=SB%205002)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=Senate%20Bill%205002)
-* [MyNorthwest](/org/mynorthwest/) - [Stricter blood alcohol limit fails to pass WA state Senate - MyNorthwest.com](https://mynorthwest.com/3855645/stricter-blood-alcohol-limit-fails-pass-wa-state-senate/#:~:text=SB%205002)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington may add automated cameras on highways to catch speeders in construction zones | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/01/washington-may-add-automated-cameras-on-highways-t/#:~:text=Senate%20Bill%205002)
 
 ## Meetings
 ### Mon 01/30 04:00 PM - Transportation (TRAN): SSB 5002 Alcohol concentration/DUI

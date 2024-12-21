@@ -9,6 +9,7 @@
 ## 📰 Articles
 * 03/06/2024 [MyNorthwest](/org/mynorthwest/) - [Strippers, book bans, guns: Partisan divide persists in Olympia - MyNorthwest.com](https://mynorthwest.com/3953688/strippers-book-bans-guns-examples-of-partisan-divide-persist-in-olympia/#:~:text=ESB%206246)
 * 03/04/2024 [Crosscut](/org/crosscut/) - [WA legislators are pushing new gun bills. Here’s what could pass | Crosscut](https://crosscut.com/politics/2024/03/wa-legislators-are-pushing-new-gun-bills-heres-what-could-pass#:~:text=Senate%20Bill%206246)
+* 03/04/2024 [Cascade PBS](/org/cascade_pbs/) - [WA legislators are pushing new gun bills. Here’s what could pass | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/wa-legislators-are-pushing-new-gun-bills-heres-what-could-pass#:~:text=Senate%20Bill%206246)
 
 ## Meetings
 ### Fri 02/16 10:30 AM - Civil Rights & Judiciary (CRJ): ESB 6246 Firearm info./mental health

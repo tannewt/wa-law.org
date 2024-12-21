@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 08/01/2024 [Washington State Standard](/org/washington_state_standard/) - [A GOP state senator faces two foes, and his own party leaders • Washington State Standard](https://washingtonstatestandard.com/2024/08/01/a-gop-state-senator-faces-two-foes-and-his-own-party-leaders/#:~:text=House%20Bill%202331)
 * 08/01/2024 [Gorge News Center](/org/gorge_news_center/) - [A GOP state senator faces two foes, and his own party leaders](https://gorgenewscenter.com/2024/08/01/a-gop-state-senator-faces-two-foes-and-his-own-party-leaders/#:~:text=House%20Bill%202331)
 * 03/06/2024 [MyNorthwest](/org/mynorthwest/) - [Strippers, book bans, guns: Partisan divide persists in Olympia - MyNorthwest.com](https://mynorthwest.com/3953688/strippers-book-bans-guns-examples-of-partisan-divide-persist-in-olympia/#:~:text=ESHB%202331)
 * 02/28/2024 [Cascadia Daily News](/org/cascadia_daily_news/) - [Whatcom school boards oppose curriculum bills, argue state is undermining local control | Cascadia Daily News](https://www.cascadiadaily.com/2024/feb/28/whatcom-school-boards-oppose-curriculum-bills-argue-state-is-undermining-local-control/#:~:text=House%20Bill%202331)
@@ -21,8 +22,8 @@
 * 02/22/2024 [KING5](/org/king5/) - [New bill prohibits Washington school districts from banning books | king5.com](https://www.king5.com/article/news/politics/state-politics/bill-prohibits-washington-school-districts-from-banning-books/281-4eb099d9-81a1-46fd-9f3a-a38c2d4a6ea3#:~:text=House%20Bill%202331)
 * 02/22/2024 [The Center Square](/org/the_center_square/) - [Controversial curriculum choices bill moves forward in WA Senate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a6042b2a-d148-11ee-8edd-d3ca19d7926b.html#:~:text=Engrossed%20Substitute%20House%20B%20ill%202331)
 * 02/21/2024 [MyNorthwest](/org/mynorthwest/) - [Rantz: Dems may push 'porn' on kids with law ending LGBTQ book bans - MyNorthwest.com](https://mynorthwest.com/3949824/rantz-democrats-pornographic-books-bans-lgbtq-washington-state/#:~:text=House%20Bill%202331)
-* 02/07/2024 [The Center Square](/org/the_center_square/) - [Bill tying school funding to curriculum materials moves forward in Olympia | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_26b4e844-c600-11ee-9827-b70c2d076da4.html#:~:text=House%20Bill%202331)
 * 02/07/2024 [House Republicans](/org/house_republicans/) - [I-2081: A Parents' Bill of Rights | Washington State House Republicans](http://houserepublicans.wa.gov/i-2081/#:~:text=House%20Bill%202331)
+* 02/07/2024 [The Center Square](/org/the_center_square/) - [Bill tying school funding to curriculum materials moves forward in Olympia | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_26b4e844-c600-11ee-9827-b70c2d076da4.html#:~:text=House%20Bill%202331)
 * 01/30/2024 [Senate Democrats](/org/senate_democrats/) - [2024 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=House%20Bill%202331)
 * 01/29/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Legislative Session: Policy Cutoff Approaches - WSPTA](https://www.wastatepta.org/policy-cutoff-approaches/#:~:text=HB%202331)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202331)

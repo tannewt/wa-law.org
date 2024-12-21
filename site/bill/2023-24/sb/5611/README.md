@@ -7,9 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2023 [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Introduced to Address Smoke and Wildfire Risk Statewide | WA - DNR](https://www.dnr.wa.gov/news/‘cascading-impacts-wildfire’-bill-introduced-address-smoke-and-wildfire-risk-statewide#:~:text=Senate%20Bill%205611)
 * [Department of Natural Resources](/org/department_of_natural_resources/) - [Legislative Priorities | WA - DNR](https://www.dnr.wa.gov/about/legislative#:~:text=SB%205611)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Introduced to Address Smoke and Wildfire Risk Statewide | WA - DNR](https://www.dnr.wa.gov/news/%E2%80%98cascading-impacts-wildfire%E2%80%99-bill-introduced-address-smoke-and-wildfire-risk-statewide#:~:text=Senate%20Bill%205611)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [‘Cascading Impacts of Wildfire’ Bill Introduced to Address Smoke and Wildfire Risk Statewide | WA - DNR](https://www.dnr.wa.gov/news/‘cascading-impacts-wildfire’-bill-introduced-address-smoke-and-wildfire-risk-statewide#:~:text=Senate%20Bill%205611)
 
 ## Meetings
 ### Thu 02/09 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5611 Wildland fire safety

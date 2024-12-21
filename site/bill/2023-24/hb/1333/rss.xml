@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1333/</link>
 		<description>Updates about HB 1333</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 20 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 25 Nov 2024 13:14:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -785,6 +785,20 @@
 			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-20/House Rules &quot;X&quot; file.</guid>
+		</item>
+		<item>
+			<title>New Washington budget boosts state spending by $2B • Washington State Standard</title>
+			<description>News article &quot;New Washington budget boosts state spending by $2B • Washington State Standard&quot; from Washington State Standard.</description>
+			<pubDate>Fri, 29 Mar 2024 20:08:44 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2024/03/29/inslee-oks-2-billion-boost-in-state-spending/#:~:text=House%20Bill%201333</guid>
+		</item>
+		<item>
+			<title>AGO task force looks at 'extremism' from a public health perspective | Washington | thecentersquare.com</title>
+			<description>News article &quot;AGO task force looks at 'extremism' from a public health perspective | Washington | thecentersquare.com&quot; from The Center Square.</description>
+			<pubDate>Mon, 25 Nov 2024 13:14:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_234480b2-ab55-11ef-8872-c73ed755b538.html#:~:text=House%20Bill%201333</guid>
 		</item>
 	</channel>
 </rss>

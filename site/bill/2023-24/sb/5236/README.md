@@ -28,9 +28,6 @@
 * 01/11/2023 [Senate Democrats](/org/senate_democrats/) - [News - Washington Senate Democrats](https://senatedemocrats.wa.gov/news/#:~:text=Senate%20Bill%205236)
 * 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Progress - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects/2023-legislative-progress/#:~:text=SB%205236)
 * 12/15/2022 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2023 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/research/2023-legislative-agenda/#:~:text=SB%205236)
-* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=SB%205236)
-* [MyNorthwest](/org/mynorthwest/) - [Virginia Mason Franciscan Health lays off 400 workers - MyNorthwest.com](https://mynorthwest.com/3871365/virginia-mason-franciscan-health-lays-off-400-workers-nurses-struggle-demand-healthcare-workers/#:~:text=Senate%20Bill%205236)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [State Senate passes safe staffing standard, in compromise between hospitals, unions | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/08/state-senate-passes-safe-staffing-standard-in-comp/#:~:text=Senate%20Bill%205236)
 
 ## Meetings
 ### Thu 03/30 01:30 PM - Appropriations (APP): E2SSB 5236 Hospital staffing standards

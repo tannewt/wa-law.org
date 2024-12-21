@@ -15,7 +15,6 @@
 * 03/11/2023 [House Republicans](/org/house_republicans/) - [House of origin cutoff | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-of-origin-cutoff/#:~:text=House%20Bill%201013)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201013)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1013)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Education](https://crosscut.com/voter-guide/2023-legislative-tracker/election/education#:~:text=House%20Bill%201013)
 
 ## Meetings
 ### Fri 03/31 12:30 PM - Ways & Means (WM): 2SHB 1013 Regional apprenticeship prgs
@@ -69,7 +68,7 @@ Testifying:
 * Becky Wallace - OSPI
 * 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 * 💵Josh Weiss - Snohomish County
-* Stephanie Wright - Snohomish County
+* 💵Stephanie Wright - Snohomish County
 * Ryan Beatty - Marysville School District
 
 #### 51 👎 - Con

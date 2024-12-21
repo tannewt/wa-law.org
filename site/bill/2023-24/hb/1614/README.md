@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/30/2024 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers make another run at legalizing homegrown marijuana • Washington State Standard](https://washingtonstatestandard.com/2024/01/29/washington-lawmakers-make-another-run-at-legalizing-home-grown-marijuana/#:~:text=House%20Bill%201614)
 * 03/03/2023 [Crosscut](/org/crosscut/) - [How federal weed legalization would impact Washington state | Crosscut](https://crosscut.com/politics/2023/03/how-federal-weed-legalization-would-impact-washington-state#:~:text=House%20Bill%201614)
 
 ## Meetings

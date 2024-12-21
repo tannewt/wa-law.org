@@ -25,7 +25,7 @@ Testifying:
 #### 123 👍 - Pro
 Testifying:
 * William Cavecche - King County Elections
-* Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
+* 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 
 #### 561 👎 - Con
 Testifying:

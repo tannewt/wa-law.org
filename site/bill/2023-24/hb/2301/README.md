@@ -12,7 +12,9 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 03/20/2024 [Food Lifeline](/org/food_lifeline/) - [2024 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2024-washington-state-legislative-session-summary#:~:text=HB%202301)
 * 02/10/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Corry relieved property tax increase bill failed, but warns Democrats still have many other bills that will cost you](https://gorgenewscenter.com/2024/02/10/rep-corry-relieved-property-tax-increase-bill-failed-but-warns-democrats-still-have-many-other-bills-that-will-cost-you/#:~:text=HB%202301)
+* 05/31/2023 [Food Lifeline](/org/food_lifeline/) - [Building a Movement | Food Lifeline](https://foodlifeline.org/building-a-movement#:~:text=HB%202301)
 
 ## Meetings
 ### Sat 02/24 09:00 AM - Ways & Means (WM): E2SHB 2301 Waste material management

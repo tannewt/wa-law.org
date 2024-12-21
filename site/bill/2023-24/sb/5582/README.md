@@ -16,7 +16,6 @@
 * 04/27/2023 [KUOW](/org/kuow/) - [KUOW - Washington's regular legislative session is over. Here are some of the highlights](https://www.kuow.org/stories/washington-s-regular-legislative-session-is-over-here-are-some-of-the-highlights#:~:text=Senate%20Bill%205582)
 * 03/17/2023 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 20 - 24, 2023 | Washington State House Republicans](https://houserepublicans.wa.gov/week/march-20-24-2023/#:~:text=SB%205582)
 * 02/09/2023 [The Center Square](/org/the_center_square/) - [Bill creating a new development pipeline for Washington nurses passes out of Senate committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_46548788-a8d6-11ed-ba63-c34bfb67b336.html#:~:text=Senate%20Bill%205582)
-* [MyNorthwest](/org/mynorthwest/) - [Virginia Mason Franciscan Health lays off 400 workers - MyNorthwest.com](https://mynorthwest.com/3871365/virginia-mason-franciscan-health-lays-off-400-workers-nurses-struggle-demand-healthcare-workers/#:~:text=Senate%20Bill%205582)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): E2SSB 5582 Nurse supply

@@ -1,0 +1,13 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5061](/bill/2025-26/sb/5061/) > [Original Bill](/bill/2025-26/sb/5061/1/)
+
+# SB 5061 - Public works wages
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5061.pdf)
+
+## Section 1
+The legislature finds that the voters of this state have twice recognized by way of initiative the importance of fair labor standards and protecting workers by establishing minimum wages and appropriate incremental adjustments to minimum wages. Similarly, the prevailing wage laws are the minimum wage required to be paid on public works projects. However, in most cases, prevailing wages are frozen from the time bids are due for the duration of the project regardless of how long it takes to complete. The legislature intends to provide for fair labor standards and the protection of workers by requiring that wages be adjusted in accordance with prevailing rate of wage adjustments published by the department of labor and industries.
+
+## Section 2
+1. The specifications for every contract for the construction, reconstruction, maintenance or repair of any public work to which the state or any county, municipality, or political subdivision created by its laws is a party, shall contain a provision stating the hourly minimum rate of wage, not less than the prevailing rate of wage, which may be paid to laborers, workers, or mechanics in each trade or occupation required for such public work employed in the performance of the contract either by the contractor, subcontractor or other person doing or contracting to do the whole or any part of the work contemplated by the contract, and the contract shall stipulate that such laborers, workers, or mechanics shall be paid not less than such specified hourly minimum rate of wage. The contract shall stipulate that the hourly minimum rate of wage for laborers, workers, or mechanics must be adjusted as necessary to provide that such wage is not less than the latest prevailing rate of wage in effect at the time the work is performed. If the awarding agency determines that the work contracted for meets the definition of residential construction, the contract must include that information.
+
+2. If the hourly minimum rate of wage stated in the contract specifies residential construction rates and it is later determined that the work performed is commercial and subject to commercial construction rates, the state, county, municipality, or political subdivision that entered into the contract must pay the difference between the residential rate stated and the actual commercial rate to the contractor, subcontractor, or other person doing or contracting to do the whole or any part of the work under the contract.

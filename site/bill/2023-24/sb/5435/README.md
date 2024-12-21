@@ -10,6 +10,7 @@
 * 01/08/2024 [Crosscut](/org/crosscut/) - [The Washington Legislature kicks off. Here’s what to watch. | Crosscut](https://crosscut.com/politics/2024/01/washington-legislature-kicks-heres-what-watch#:~:text=Senate%20Bill%205435)
 * 12/26/2023 [Crosscut](/org/crosscut/) - [WA rental increases cooling, but an affordability crisis remains | Crosscut](https://crosscut.com/news/2023/12/wa-rental-increases-cooling-affordability-crisis-remains#:~:text=Senate%20Bill%205435)
 * 12/22/2023 [Crosscut](/org/crosscut/) - [What tenant protections will WA lawmakers consider in 2024? | Crosscut](https://crosscut.com/investigations/2023/12/what-tenant-protections-will-wa-lawmakers-consider-2024#:~:text=SB%205435)
+* 12/22/2023 [Cascade PBS](/org/cascade_pbs/) - [What tenant protections will WA lawmakers consider in 2024? | Cascade PBS](https://www.cascadepbs.org/investigations/2023/12/what-tenant-protections-will-wa-lawmakers-consider-2024#:~:text=SB%205435)
 * 03/13/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 10 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate031323#:~:text=S.B.%205435)
 * 03/09/2023 [The Urbanist](/org/the_urbanist/) - [The Olympia Waltz Continues for Middle Housing and Other Vital Legislation | The Urbanist](https://www.theurbanist.org/2023/03/09/waleg-week-9-striker-hb1110/#:~:text=SB%205435)
 * 03/01/2023 [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=SB%205435)
@@ -19,7 +20,6 @@
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=SB%205435)
 * 02/13/2023 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [United Ways of Washington Legislative Update 2023 - Week 6 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02142023#:~:text=S.B.%205435)
 * 02/08/2023 [Crosscut](/org/crosscut/) - [Rising rents are drowning Washington's smaller cities | Crosscut](https://crosscut.com/news/2023/02/rising-rents-are-drowning-washingtons-smaller-cities#:~:text=Senate%20Bill%205435)
-* [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Support Rent Stabilization – Statewide Poverty Action Network](https://povertyaction.org/advocacy-actions/support-rent-stabilization/#:~:text=SB%205435)
 * [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Support Rent Stabilization – Statewide Poverty Action Network](https://povertyaction.org/support-rent-stabilization/#:~:text=SB%205435)
 
 ## Meetings
@@ -73,7 +73,7 @@ Testifying:
 Testifying:
 * Jeff Pack - Me
 * 💵Chester Baldwin - Rental Housing Coalition
-* Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * Arthur Grafton
 * GORDON HAGGERTY
 * Threasa Melton

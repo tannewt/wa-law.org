@@ -22,7 +22,6 @@
 * 01/14/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: Housing, Climate Change and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/13/this-week-in-the-senate-week-12-housing-climate-change-and-mlk-day/#:~:text=Senate%20Bill%205257)
 * 07/19/2021 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/blog/team_members/sen-twina-nobles/#:~:text=Senate%20Bill%205257)
 * 01/11/2016 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=Senate%20Bill%205257)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington may require 30-minute recess at all schools | The Spokesman-Review](https://www.spokesman.com/stories/2023/feb/22/washington-may-require-30-minute-recess-at-all-sch/#:~:text=Senate%20Bill%205257)
 
 ## Meetings
 ### Wed 03/01 08:00 AM - Education (ED): SSB 5257 Elementary school recess

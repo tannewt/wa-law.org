@@ -21,8 +21,6 @@
 * 02/15/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [State, Bellingham on separate tracks to ease ADU rules | Cascadia Daily News](https://www.cascadiadaily.com/2023/feb/15/state-bellingham-on-separate-tracks-to-ease-adu-rules/#:~:text=Senate%20Bill%205235)
 * 02/10/2023 [The Center Square](/org/the_center_square/) - [Bill expanding ADU construction in Washington passes out of committee in the Senate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e0a647a2-a99b-11ed-b403-cbe5af4077b1.html#:~:text=Senate%20Bill%205235)
 * 01/19/2023 [The Urbanist](/org/the_urbanist/) - [Bellevue Initiates Middle Housing Planning, but State May Beat Them to It | The Urbanist](https://www.theurbanist.org/2023/01/19/bellevue-city-council-initiates-planning-work-on-middle-housing-but-state-may-beat-them-to-it/#:~:text=SB%205235)
-* [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/washington-has-shot-passing-massive-housing-reform-package#:~:text=Senate%20Bill%205235)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington may make it easier to build backyard cottages in a bid to ease the housing crisis | The Spokesman-Review](https://www.spokesman.com/stories/2023/feb/27/washington-may-make-it-easier-to-build-backyard-co/#:~:text=Senate%20Bill%205235)
 
 ## Meetings
 ### Mon 03/13 01:30 PM - Housing (HOUS): SSB 5235 Accessory dwelling units

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2103/</link>
 		<description>Updates about HB 2103</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 28 Feb 2024 06:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 01 Mar 2024 23:50:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -271,6 +271,20 @@
 			<pubDate>Wed, 28 Feb 2024 06:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/port-oks-5m-to-fix-soundproofing-in-homes-near-sea-tac-airport/#:~:text=HB%202103,</guid>
+		</item>
+		<item>
+			<title>House passes bill to reduce health risks from Sea-Tac Airport – Washington State House Democrats</title>
+			<description>News article &quot;House passes bill to reduce health risks from Sea-Tac Airport – Washington State House Democrats&quot; from House Democrats.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/03/01/house-passes-bill-to-reduce-health-risks-from-sea-tac-airport/#:~:text=companion%20bill</guid>
+		</item>
+		<item>
+			<title>House passes bill to reduce health risks from Sea-Tac Airport - Washington Senate Democrats</title>
+			<description>News article &quot;House passes bill to reduce health risks from Sea-Tac Airport - Washington Senate Democrats&quot; from Senate Democrats.</description>
+			<pubDate>Fri, 01 Mar 2024 23:50:15 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/03/01/house-passes-bill-to-reduce-health-risks-from-sea-tac-airport/#:~:text=companion%20bill</guid>
 		</item>
 	</channel>
 </rss>

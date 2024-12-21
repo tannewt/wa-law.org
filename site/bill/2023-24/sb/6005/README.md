@@ -30,7 +30,7 @@ Testifying:
 * Pat McLaughlin - [King County](/org/king_county/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Elian Bayas - Friday Harbor High School Eco club
-* Dylan de Thomas - The Recycling Partnership
+* Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
 * 💵Samantha Grad - Teamsters 117
 * Anne Dickerson
 

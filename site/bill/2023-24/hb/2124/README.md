@@ -11,6 +11,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 10/07/2024 [Gorge News Center](/org/gorge_news_center/) - [Child care subsidies expanding for some WA families](https://gorgenewscenter.com/2024/10/07/child-care-subsidies-expanding-for-some-wa-families/#:~:text=a%20state%20law%20approved%20earlier%20this%20year)
+* 07/04/2024 [Washington State Standard](/org/washington_state_standard/) - [Initiative opponents target the millionaire behind the measures • Washington State Standard](https://washingtonstatestandard.com/2024/07/04/initiative-opponents-target-the-millionaire-behind-the-measures/#:~:text=Initiative%202124)
 * 03/11/2024 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [The 2024 legislative session concluded last week with advancements made on the priorities of United Ways of Washington - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate03112024#:~:text=House%20Bill%202124,)
 * 02/17/2024 [The Seattle Times](/org/the_seattle_times/) - [Some bills survive, others don’t after WA Legislature chamber deadline | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-survive-others-dont-after-wa-legislature-chamber-deadline/#:~:text=House%20Bill%202124)
 

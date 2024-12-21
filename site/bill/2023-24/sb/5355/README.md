@@ -16,7 +16,6 @@
 * 03/02/2023 [The Center Square](/org/the_center_square/) - [Bills to protect young people, help crime victims advance in WA Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1ce009d8-b93c-11ed-bade-8b982e7a07ad.html#:~:text=Senate%20Bill%205355)
 * 03/01/2023 [Senate Democrats](/org/senate_democrats/) - [Senate passes student-created bill mandating instruction on sex trafficking prevention - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/01/senate-passes-student-created-bill-mandating-instruction-on-sex-trafficking-prevention/#:~:text=Senate%20Bill%205355)
 * 01/23/2023 [Washington St Pta](/org/washington_st_pta/) - [Committees Dig Into Policy Work in Week 2 - WSPTA](https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=SB%205355)
-* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=SB%205355)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): ESB 5355 Sex trafficking prev. ed.

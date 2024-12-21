@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2124/</link>
 		<description>Updates about HB 2124</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 26 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 07 Oct 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -227,6 +227,20 @@
 			<pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-26/Effective date 11/1/2024.</guid>
+		</item>
+		<item>
+			<title>Initiative opponents target the millionaire behind the measures • Washington State Standard</title>
+			<description>News article &quot;Initiative opponents target the millionaire behind the measures • Washington State Standard&quot; from Washington State Standard.</description>
+			<pubDate>Thu, 04 Jul 2024 13:00:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2024/07/04/initiative-opponents-target-the-millionaire-behind-the-measures/#:~:text=Initiative%202124</guid>
+		</item>
+		<item>
+			<title>Child care subsidies expanding for some WA families</title>
+			<description>News article &quot;Child care subsidies expanding for some WA families&quot; from Gorge News Center.</description>
+			<pubDate>Mon, 07 Oct 2024 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://gorgenewscenter.com/2024/10/07/child-care-subsidies-expanding-for-some-wa-families/#:~:text=a%20state%20law%20approved%20earlier%20this%20year</guid>
 		</item>
 	</channel>
 </rss>

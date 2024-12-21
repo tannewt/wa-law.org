@@ -20,7 +20,7 @@
 * 02/20/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 7 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201020)
 * 01/11/2023 [NW News Network](/org/nw_news_network/) - [No bones about it: Students seek a Washington state dinosaur designation | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2023-01-10/no-bones-about-it-students-seek-a-washington-state-dinosaur-designation#:~:text=House%20Bill%201020)
 * 01/09/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/09/the-house-hot-sheet-for-week-1-of-the-2023-legislative-session/#:~:text=HB%201020)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Other Topics](https://crosscut.com/voter-guide/2023-legislative-tracker/election/other-topics#:~:text=House%20Bill%201020)
+* [Axios](/org/axios/) - [Politics - Axios Seattle](https://www.axios.com/local/seattle/politics#:~:text=a%20measure)
 
 ## Meetings
 ### Fri 03/17 08:00 AM - State Government & Elections (SGE): HB 1020 State dinosaur

@@ -10,8 +10,9 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* 03/07/2024 [Wenatchee World](/org/wenatchee_world/) - [A heap of housing bills failed in WA’s legislative session | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/a-heap-of-housing-bills-failed-in-wa-s-legislative-session/article_2da5dd3a-dccf-11ee-b530-fb674c849926.html#:~:text=House%20Bill%201892)
 * 03/07/2024 [Crosscut](/org/crosscut/) - [A heap of housing bills failed in WA’s legislative session | Crosscut](https://crosscut.com/politics/2024/03/heap-housing-bills-failed-was-legislative-session#:~:text=House%20Bill%201892)
+* 03/07/2024 [Cascade PBS](/org/cascade_pbs/) - [A heap of housing bills failed in WA’s legislative session | Cascade PBS](https://www.cascadepbs.org/politics/2024/03/heap-housing-bills-failed-was-legislative-session#:~:text=House%20Bill%201892)
+* 03/07/2024 [Wenatchee World](/org/wenatchee_world/) - [A heap of housing bills failed in WA’s legislative session | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/a-heap-of-housing-bills-failed-in-wa-s-legislative-session/article_2da5dd3a-dccf-11ee-b530-fb674c849926.html#:~:text=House%20Bill%201892)
 * 03/01/2024 [House Democrats](/org/house_democrats/) - [Leavitt bill to accelerate construction of affordable workforce housing headed to the governor. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/01/leavitt-bill-to-accelerate-construction-of-affordable-workforce-housing-headed-to-the-governor/#:~:text=House%20Bill%201892)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024#:~:text=HB%201892)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=HB%201892)

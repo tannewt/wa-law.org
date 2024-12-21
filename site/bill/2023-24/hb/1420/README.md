@@ -10,7 +10,7 @@
 ### Mon 03/13 10:30 AM - Law & Justice (LAW): HB 1420 Lien priority/mortgages
 #### 4 👍 - Pro
 Testifying:
-* Brad Tower - Community Bankers of WA
+* 💵Brad Tower - Community Bankers of WA
 
 #### 0 👎 - Con
 
@@ -20,7 +20,7 @@ Testifying:
 #### 3 👍 - Pro
 Testifying:
 * Mike Kot - WA Mortgage Bankers Association
-* Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * 💵Trent House - [Washington Bankers Association](/org/washington_bankers_association/)
 
 #### 0 👎 - Con

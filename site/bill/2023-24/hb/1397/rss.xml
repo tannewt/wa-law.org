@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1397/</link>
 		<description>Updates about HB 1397</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 28 Mar 2024 17:59:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -211,6 +211,13 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>Reward to find Oakley Carlson reaches $100,000</title>
+			<description>News article &quot;Reward to find Oakley Carlson reaches $100,000&quot; from FOX13.</description>
+			<pubDate>Thu, 28 Mar 2024 17:59:25 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/reward-to-find-oakley-carlson-reaches-100000#:~:text=Oakley%20Carlson%20Act</guid>
 		</item>
 	</channel>
 </rss>

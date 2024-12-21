@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 07/04/2024 [Washington State Standard](/org/washington_state_standard/) - [Initiative opponents target the millionaire behind the measures • Washington State Standard](https://washingtonstatestandard.com/2024/07/04/initiative-opponents-target-the-millionaire-behind-the-measures/#:~:text=Initiative%202117)
+* 02/05/2024 [NW News Network](/org/nw_news_network/) - [Largest proposed wind farm in WA slashed in half, firefighting issues are part of the problem | Northwest News Network](https://www.nwnewsnetwork.org/environment-and-planning/2024-02-05/largest-proposed-wind-farm-in-wa-slashed-in-half-firefighting-issues-are-part-of-the-problem#:~:text=A%20Washington%20bill)
 * 02/01/2024 [The Center Square](/org/the_center_square/) - [Bill addresses concerns over tall wind turbines and aerial firefighting | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_22272daa-c137-11ee-af1a-53a50085d102.html#:~:text=House%20Bill%202117)
 * 01/31/2024 [Gorge News Center](/org/gorge_news_center/) - [Protection for wildfire-prone areas to be considered in siting new wind turbines under Rep. Barnard’s bill](https://gorgenewscenter.com/2024/01/31/protection-for-wildfire-prone-areas-to-be-considered-in-siting-new-wind-turbines-under-rep-barnards-bill/#:~:text=House%20Bill%202117)
 * 01/12/2024 [The Center Square](/org/the_center_square/) - [Tri-Cities lawmakers eye nuclear facilities tax break, wind farm fire concerns | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ebd7f824-b182-11ee-97f3-3f080b13cf66.html#:~:text=House%20Bill%202117)

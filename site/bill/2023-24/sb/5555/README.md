@@ -20,7 +20,6 @@
 * 03/02/2023 [Senate Democrats](/org/senate_democrats/) - [Senate unanimously approves Dhingra crisis relief center bill - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/03/01/senate-approves-dhingra-crisis-relief-center-bill/#:~:text=SB%205555)
 * 02/20/2023 [Washington St Pta](/org/washington_st_pta/) - [Bills Die at Policy Cutoff in Week 6 - WSPTA](https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB%205555)
 * 01/30/2023 [Washington St Pta](/org/washington_st_pta/) - [Senate Committee Approves Increased Special Education, Transportation Funding in Week 3 - WSPTA](https://www.wastatepta.org/senate-committee-approves-increased-special-education-transportation-funding-in-week-3/#:~:text=SB%205555)
-* [House Democrats](/org/house_democrats/) - [The Hot Sheet – Washington State House Democrats](https://housedemocrats.wa.gov/media/the-hot-sheet/#:~:text=SB%205555)
 
 ## Meetings
 ### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5555 Certified peer specialists

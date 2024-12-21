@@ -14,6 +14,7 @@
 * 09/25/2024 [The Urbanist](/org/the_urbanist/) - [Seattle Council Streamlines Development Downtown with 3-Year Design Review Bypass - The Urbanist](https://www.theurbanist.org/2024/09/25/seattle-downtown-design-review-bypass/#:~:text=House%20Bill%201293)
 * 09/06/2024 [The Urbanist](/org/the_urbanist/) - [Downtown Design Review Moratorium Gets Mixed Reception from Seattle Council - The Urbanist](https://www.theurbanist.org/2024/09/06/downtown-design-review-moratorium-gets-mixed-reception-from-seattle-council/#:~:text=House%20Bill%201293)
 * 08/02/2024 [The Urbanist](/org/the_urbanist/) - [Spokane Poised to Abolish Parking Mandates in Urbanist Reform Package - The Urbanist](https://www.theurbanist.org/2024/08/02/spokane-poised-to-abolish-parking-mandates-in-urbanist-reform-package/#:~:text=HB%201293)
+* 02/11/2024 [House Republicans](/org/house_republicans/) - [Fix the housing and homelessness crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-housing-and-homelessness-crisis/#:~:text=streamlining%20development%20regulations)
 * 07/19/2023 [The Center Square](/org/the_center_square/) - [Study: WA needs more than a quarter-million new housing units to meet demand | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_2acabb02-267d-11ee-b614-2b4d3b7568f9.html#:~:text=HB%201293)
 * 07/06/2023 [MyNorthwest](/org/mynorthwest/) - [Seattle City Council passes laws to increase volume of affordable housing - MyNorthwest.com](https://mynorthwest.com/3906076/seattle-city-council-passes-laws-raise-volume-affordable-housing/#:~:text=HB%201293)
 * 05/12/2023 [PubliCola](/org/publicola/) - [State Legislature Deals a Blow to Seattle's Dysfunctional Design Review Process - PubliCola](https://publicola.com/2023/05/12/state-legislature-deals-a-blow-to-seattles-dysfunctional-design-review-process/#:~:text=House%20Bill%201293)
@@ -29,8 +30,6 @@
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [UPDATED: 50 Housing Bills and How They Fared in Olympia - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now#:~:text=HB%201293)
 * 02/15/2023 [Sightline Institute](/org/sightline_institute/) - [50 Housing Bills to Watch in Olympia Right Now - Sightline Institute](https://www.sightline.org/2023/02/15/50-housing-bills-to-watch-in-olympia-right-now/#:~:text=HB%201293)
 * 05/20/2021 [House Republicans](/org/house_republicans/) - [House Republican bills passed by the Legislature | Washington State House Republicans](https://houserepublicans.wa.gov/republican-bills/#:~:text=1293)
-* [Crosscut](/org/crosscut/) - [WA looks to address housing shortage with density, zoning changes | Crosscut](https://crosscut.com/politics/2023/03/washington-has-shot-passing-massive-housing-reform-package#:~:text=House%20Bill%201293)
-* [KIRO7](/org/kiro7/) - [‘WA needs 1 million new homes within next 20 years’: Suite of bills target the housing crisis – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-needs-1-million-new-homes-within-next-20-years-suite-bills-target-housing-crisis/UDGREATSP5FQXCOF6E5GUFIF5A/#:~:text=HB%201293)
 
 ## Meetings
 ### Tue 03/21 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): ESHB 1293 Development regulations

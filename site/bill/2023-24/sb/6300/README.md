@@ -28,7 +28,7 @@ Testifying:
 * Jennifer Dellinger - SBCTC
 * Jacob Vigdor - University of Washington Faculty
 * 💵Isela Bonilla - Associated Students of WSU Vancouver
-* Ben Mitchell - Foundation for Tacoma Students
+* Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * 💵Michelle Carrillo - ASCWU Legislative Liaison
 * Samuel Ligon - Eastern Washington University Faculty
 * 💵Collin Bannister - The Washington Student Association

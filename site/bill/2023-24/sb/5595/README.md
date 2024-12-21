@@ -7,8 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 02/14/2024 [KUOW](/org/kuow/) - [KUOW - Is Washington really 'The Evergreen State'? The question remains](https://www.kuow.org/stories/is-washington-really-the-evergreen-state-the-question-remains#:~:text=SB%205595)
+* 02/15/2024 [Washington State Standard](/org/washington_state_standard/) - [Hold on. ‘The Evergreen State’ isn’t Washington’s nickname? • Washington State Standard](https://washingtonstatestandard.com/briefs/hold-on-the-evergreen-state-isnt-washingtons-nickname/#:~:text=Senate%20Bill%205595)
 * 02/14/2024 [Gorge News Center](/org/gorge_news_center/) - [Senate votes to make ‘The Evergreen State’ Washington’s official nickname](https://gorgenewscenter.com/2024/02/14/senate-votes-to-make-the-evergreen-state-washingtons-official-nickname/#:~:text=Senate%20Bill%205595)
+* 02/14/2024 [KUOW](/org/kuow/) - [KUOW - Is Washington really 'The Evergreen State'? The question remains](https://www.kuow.org/stories/is-washington-really-the-evergreen-state-the-question-remains#:~:text=SB%205595)
 * 02/19/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 7: Children's Day returns and another crucial deadline approaches - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/02/19/this-week-in-the-senate-week-7-childrens-day-returns-and-another-crucial-deadline-approaches/#:~:text=SB%205595)
 
 ## Meetings

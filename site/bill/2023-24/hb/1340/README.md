@@ -33,8 +33,6 @@
 * 01/13/2023 [House Democrats](/org/house_democrats/) - [Reproductive Care Provider Licenses Protected Under New Bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/13/reproductive-care-provider-licenses-protected-under-new-bill/#:~:text=HB%201340)
 * 01/11/2016 [Northwest Progressive Institute](/org/northwest_progressive_institute/) - [Advocacy - Northwest Progressive Institute](https://www.nwprogressive.org/advocacy/#:~:text=House%20Bill%201340)
 * 06/19/2015 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB%201340)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Healthcare](https://crosscut.com/voter-guide/2023-legislative-tracker/election/healthcare#:~:text=House%20Bill%201340)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [Washington lawmakers are trying to protect out-of-state abortion patients. Here's what you need to know: | The Spokesman-Review](https://www.spokesman.com/stories/2023/mar/05/washington-lawmakers-are-trying-to-protect-out-of-/#:~:text=House%20Bill%201340)
 
 ## Meetings
 ### Thu 03/09 10:30 AM - Health & Long Term Care (HLTC): ESHB 1340 Health professions/conduct

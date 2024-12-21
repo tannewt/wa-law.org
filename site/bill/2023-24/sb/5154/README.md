@@ -13,7 +13,6 @@
 * 03/01/2023 [The Urbanist](/org/the_urbanist/) - [Washington Legislature’s New Thinking About Housing | The Urbanist](https://www.theurbanist.org/2023/03/01/washington-legislatures-new-thinking-about-housing/#:~:text=SB%205154)
 * 02/22/2023 [The Urbanist](/org/the_urbanist/) - [What Groups Around Washington Are Asking from Olympia | The Urbanist](https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=SB%205154)
 * 01/14/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: Housing, Climate Change and MLK Day - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/13/this-week-in-the-senate-week-12-housing-climate-change-and-mlk-day/#:~:text=Senate%20Bill%205154)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Environment](https://crosscut.com/voter-guide/2023-legislative-tracker/election/environment#:~:text=Senate%20Bill%205154)
 
 ## Meetings
 ### Wed 01/18 08:00 AM - Environment, Energy & Technology (ENET): SB 5154 Solid waste management
@@ -45,7 +44,7 @@ Testifying:
 * Melissa Stuart - City of Redmond Councilmember
 * Manya Gupta - Juanita High School (student)
 * Pam Clough - [Environment Washington](/org/environment_washington/)
-* 💵Giovanni Severino - Latino Community Fund
+* 💵Giovanni Severino - [Latino Community Fund](/org/latino_community_fund/)
 * McKenna Morrigan - Seattle Public Utilities
 * Preston Peck - City of Tacoma | Environmental Services Department
 * Pat McLaughlin - [King County](/org/king_county/)
@@ -96,8 +95,8 @@ Testifying:
 * Daniel Groce - Novelis
 * Laurie Davies - Washington State Department of Ecology
 * 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
-* Dylan de Thomas - The Recycling Partnership
-* Mike Smaha - Can Manufacturers Institute
+* Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
+* Mike Smaha - [Can Manufacturers Institute](/org/can_manufacturers_institute/)
 * Brendan Flanagan - [Consumer Brands Association](/org/consumer_brands_association/)
 * James Toner - IBWA
 * 💵Rowland Thompson - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association

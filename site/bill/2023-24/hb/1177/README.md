@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 11/07/2023 [Washington State Standard](/org/washington_state_standard/) - [WA hires leader for new investigative unit focused on missing and murdered Indigenous people • Washington State Standard](https://washingtonstatestandard.com/briefs/wa-hires-leader-for-new-investigative-unit-focused-on-missing-and-murdered-indigenous-people/#:~:text=House%20Bill%201177)
 * 10/10/2023 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2023 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2023-legislative-session-summary/#:~:text=HB%201177)
 * 06/15/2023 [House Democrats](/org/house_democrats/) - [Celebrating Juneteenth and the fight for racial justice – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/06/15/celebrating-juneteenth-and-the-fight-for-racial-justice/#:~:text=HB%201177)
 * 04/21/2023 [The Seattle Times](/org/the_seattle_times/) - [WA launches cold case unit for missing and murdered Indigenous people | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/wa-launches-cold-case-unit-for-missing-and-murdered-indigenous-people/#:~:text=House%20Bill%201177)
@@ -24,11 +25,9 @@
 * 01/18/2023 [Real Change](/org/real_change/) - [Washington state taking action to address MMIWP crisis | Jan. 18-24, 2023 | Real Change](https://www.realchangenews.org/news/2023/01/18/washington-state-taking-action-address-mmiwp-crisis#:~:text=HB%201177)
 * 01/15/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/15/the-house-hot-sheet-for-week-2-of-the-2023-legislative-session/#:~:text=HB%201177)
 * 06/19/2015 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [State Legislative Advocacy – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/projects/public-policy/state-legislative-advocacy/#:~:text=HB%201177)
-* [Crosscut](/org/crosscut/) - [2023 Legislative Tracker: Policing, Crime & Courts](https://crosscut.com/voter-guide/2023-legislative-tracker/election/policing-crime-courts#:~:text=House%20Bill%201177)
-* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislative Priorities | Washington State](https://www.atg.wa.gov/legislative-priorities#:~:text=SHB%201177)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Legislative Priorities | Washington State](http://www.atg.wa.gov/legislative-priorities#:~:text=SHB%201177)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Rep. Lekanoff legislation creating MMIWP Cold Case Unit signed into law | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-rep-lekanoff-legislation-creating-mmiwp-cold-case-unit-signed-law#:~:text=House%20Bill%201177)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [AG Ferguson, Rep. Lekanoff, Sen. Dhingra introduce legislation creating a MMIWP Cold Case Unit in the Attorney General’s Office | Washington State](https://www.atg.wa.gov/news/news-releases/ag-ferguson-rep-lekanoff-sen-dhingra-introduce-legislation-creating-mmiwp-cold#:~:text=HB%201177)
-* [The Spokesman-Review](/org/the_spokesman-review/) - [Special cold case unit for missing or murdered Indigenous people proposed in Washington Legislature | The Spokesman-Review](https://www.spokesman.com/stories/2023/apr/07/special-cold-case-unit-for-missing-or-murdered-ind/#:~:text=House%20Bill%201177)
 
 ## Meetings
 ### Thu 03/30 12:30 PM - Ways & Means (WM): SHB 1177 Indigenous women

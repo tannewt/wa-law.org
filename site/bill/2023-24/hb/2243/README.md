@@ -8,10 +8,11 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/14/2024 [Washington State Standard](/org/washington_state_standard/) - [The bills that are dead and still alive in Washington's 2024 legislative session • Washington State Standard](https://washingtonstatestandard.com/2024/02/14/the-bills-that-are-dead-and-still-alive-in-washingtons-2024-legislative-session/#:~:text=House%20Bill%202243)
+* 01/31/2024 [Department of Natural Resources](/org/department_of_natural_resources/) - [Commissioner Franz Hails Legislature for Advancing Bill to Create New Land Trust to Fund Child Care | WA - DNR](https://www.dnr.wa.gov/news/commissioner-franz-hails-legislature-advancing-bill-create-new-land-trust-fund-child-care#:~:text=House%20Bill%202243)
 * 01/20/2024 [NW News Network](/org/nw_news_network/) - [AI, guns, and initiatives: highlights from Week 2 of Washington's 2024 legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-01-19/ai-guns-and-initiatives-highlights-from-week-2-of-washingtons-2024-legislative-session#:~:text=House%20Bill%202243)
+* 01/19/2024 [Department of Natural Resources](/org/department_of_natural_resources/) - [Commissioner Franz Testifies in Support of Bill to Create New Land Trust to Fund Child Care | WA - DNR](https://www.dnr.wa.gov/news/commissioner-franz-testifies-support-bill-create-new-land-trust-fund-child-care#:~:text=House%20Bill%202243)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202243)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [Commissioner Franz Hails Legislature for Advancing Bill to Create New Land Trust to Fund Child Care | WA - DNR](https://www.dnr.wa.gov/news/commissioner-franz-hails-legislature-advancing-bill-create-new-land-trust-fund-child-care#:~:text=House%20Bill%202243)
-* [Department of Natural Resources](/org/department_of_natural_resources/) - [Commissioner Franz Testifies in Support of Bill to Create New Land Trust to Fund Child Care | WA - DNR](https://www.dnr.wa.gov/news/commissioner-franz-testifies-support-bill-create-new-land-trust-fund-child-care#:~:text=House%20Bill%202243)
 
 ## Meetings
 ### Fri 01/19 10:30 AM - Agriculture and Natural Resources (AGNR): HB 2243 Social equity land trust

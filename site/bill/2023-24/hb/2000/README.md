@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 12/12/2024 [House Democrats](/org/house_democrats/) - [Rep. Mena Elected Chair of House State Government & Tribal Relations Committee   – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/12/12/rep-mena-elected-chair-of-house-state-government-tribal-relations-committee/#:~:text=House%20Bill%202000)
 * 04/01/2024 [Gorge News Center](/org/gorge_news_center/) - [Inslee Signs Mena Bill Strengthening International Partnerships](https://gorgenewscenter.com/2024/04/01/gov-signs-mena-bill-strengthening-international-partnerships/#:~:text=House%20Bill%202000)
 * 03/29/2024 [House Democrats](/org/house_democrats/) - [Gov. Signs Mena Bill Strengthening International Partnerships – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/29/gov-signs-mena-bill-strengthening-international-partnerships/#:~:text=House%20Bill%202000)
 * 02/09/2024 [House Democrats](/org/house_democrats/) - [Mena’s Bill Embraces Global Future For WA – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/09/menas-bill-embraces-global-future-for-wa/#:~:text=House%20Bill%202000)

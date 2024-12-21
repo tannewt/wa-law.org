@@ -11,6 +11,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 05/22/2023 [Food Lifeline](/org/food_lifeline/) - [2023 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2023-washington-state-legislative-session-summary#:~:text=HB%201447)
+* 03/22/2023 [Food Lifeline](/org/food_lifeline/) - [2023 State Advocacy Agenda – Session Update | Food Lifeline](https://foodlifeline.org/article/2023-state-advocacy-agenda-session-update#:~:text=HB%201447)
 * [Statewide Poverty Action Network](/org/statewide_poverty_action_network/) - [Bill Tracker – Statewide Poverty Action Network](https://povertyaction.org/bill-tracker/#:~:text=HB%201447)
 
 ## Meetings

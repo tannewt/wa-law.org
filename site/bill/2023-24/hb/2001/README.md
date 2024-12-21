@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 05/31/2024 [Washington State Standard](/org/washington_state_standard/) - [Lawmakers look at allowing judges to resentence certain prisoners • Washington State Standard](https://washingtonstatestandard.com/2024/05/31/lawmakers-look-at-bill-to-allow-resentencing-of-people-serving-long-prison-terms/#:~:text=House%20Bill%202001)
 * 05/05/2024 [House Republicans](/org/house_republicans/) - [2024 legislative session recap | Washington State House Republicans](http://houserepublicans.wa.gov/current/2024-legislative-session-recap/#:~:text=House%20Bill%202001)
 * 04/12/2024 [NW News Network](/org/nw_news_network/) - [Money, politics, debate over crime victims: What's stalling prison reforms in Olympia | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-04-12/money-politics-debate-over-crime-victims-whats-stalling-prison-reforms-in-olympia#:~:text=House%20Bill%202001)
 * 04/12/2024 [KUOW](/org/kuow/) - [KUOW - Money, politics, debate over crime victims: What's stalling prison reforms in Olympia](https://www.kuow.org/stories/money-politics-debate-over-crime-victims-what-s-stalling-prison-reforms-in-olympia#:~:text=House%20Bill%202001)

@@ -40,7 +40,7 @@ Testifying:
 #### 40 👍 - Pro
 Testifying:
 * 💵Jason Gauthier - South Sound Housing Affordability Partners
-* Kathleen Hosfeld - Homestead Community Land Trust
+* Kathleen Hosfeld - [Homestead Community Land Trust](/org/homestead_community_land_trust/)
 * Jet Richardson - Tri-County Partners Habitat for Humanity
 * Heather Moss - Pierce County Human Services
 * Liz Crouse - Tacoma/Pierce County Habitat for Humanity
