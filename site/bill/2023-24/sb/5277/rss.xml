@@ -10,7 +10,7 @@
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
 			<title>👍Craig Smith - Food Northwest</title>
-			<description>Craig Smith signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/food_northwest/&quot;&gt;Food Northwest&lt;/a&gt;.</description>
+			<description>Craig Smith signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/food_northwest/"&gt;Food Northwest&lt;/a&gt;.</description>
 			<pubDate>Fri, 20 Jan 2023 04:06:21 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
@@ -26,7 +26,7 @@
 		</item>
 		<item>
 			<title>👍Josh McDonald - Washington Wine Institute</title>
-			<description>Josh McDonald signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/washington_wine_institute/&quot;&gt;Washington Wine Institute&lt;/a&gt;.</description>
+			<description>Josh McDonald signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_wine_institute/"&gt;Washington Wine Institute&lt;/a&gt;.</description>
 			<pubDate>Sun, 22 Jan 2023 11:25:42 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
@@ -64,7 +64,7 @@
 		</item>
 		<item>
 			<title>👍Craig Smith - Food Northwest</title>
-			<description>Craig Smith signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/food_northwest/&quot;&gt;Food Northwest&lt;/a&gt;.</description>
+			<description>Craig Smith signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/food_northwest/"&gt;Food Northwest&lt;/a&gt;.</description>
 			<pubDate>Thu, 02 Feb 2023 09:04:16 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
@@ -88,7 +88,7 @@
 		</item>
 		<item>
 			<title>👍💵David Ward - Darigold</title>
-			<description>David Ward signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/darigold/&quot;&gt;Darigold&lt;/a&gt;. They are a registered lobbyist.</description>
+			<description>David Ward signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/darigold/"&gt;Darigold&lt;/a&gt;. They are a registered lobbyist.</description>
 			<pubDate>Mon, 06 Feb 2023 09:17:59 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
@@ -130,11 +130,11 @@
 			<guid isPermaLink="false">2023-04-23/By resolution, returned to Senate Rules Committee for third reading.</guid>
 		</item>
 		<item>
-			<title>Senate Rules &quot;X&quot; file.</title>
-			<description>Senate Rules &quot;X&quot; file.</description>
+			<title>Senate Rules "X" file.</title>
+			<description>Senate Rules "X" file.</description>
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
-			<guid isPermaLink="false">2024-01-08/Senate Rules &quot;X&quot; file.</guid>
+			<guid isPermaLink="false">2024-01-08/Senate Rules "X" file.</guid>
 		</item>
 	</channel>
 </rss>

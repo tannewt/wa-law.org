@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1025/</link>
 		<description>Updates about HB 1025</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 10 Dec 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 23 Dec 2024 15:34:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-12-10/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>New legislation seeks to reopen opt-out for WA Cares long-term care program | Washington | thecentersquare.com</title>
+			<description>News article "New legislation seeks to reopen opt-out for WA Cares long-term care program | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 23 Dec 2024 15:34:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_b76e72bc-c157-11ef-8316-ab46cb22a750.html#:~:text=House%20Bill%201025</guid>
 		</item>
 	</channel>
 </rss>

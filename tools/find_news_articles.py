@@ -2,12 +2,9 @@ from bs4 import BeautifulSoup
 import arrow
 import datetime
 import url_history
-import aiohttp
 import urllib.robotparser
-import requests
 import httpx
 import httpcore
-import urllib3
 import pathlib
 import pickle
 import json
@@ -112,8 +109,8 @@ async def scrape(progress, session, org_rowid, domain):
     robots = None
     try:
         robots = await session.get(robots_url, fetch_again=True)
-    except (httpx.HTTPStatusError, requests.exceptions.ConnectionError, requests.exceptions.SSLError, requests.exceptions.TooManyRedirects, requests.exceptions.MissingSchema, requests.exceptions.ConnectTimeout, urllib3.exceptions.LocationParseError, aiohttp.client_exceptions.ClientConnectorError, aiohttp.client_exceptions.ConnectionTimeoutError, aiohttp.client_exceptions.ClientOSError) as e:
-        print("Unable to get robots", e)
+    except (httpx.HTTPStatusError, httpx.ConnectError) as e:
+        print(f"Unable to get {robots_url}", e)
 
     if robots:
         rp.parse(robots.decode("utf-8").splitlines())
@@ -140,8 +137,8 @@ async def scrape(progress, session, org_rowid, domain):
         progress.update(task, advance=1, total=running_total)
         try:
             sitemap = await session.get(sitemap, fetch_again=FETCH_NEW, crawl_delay=crawl_delay, only_after=after_date)
-        except (asyncio.TimeoutError, aiohttp.client_exceptions.ClientConnectorError,aiohttp.client_exceptions.ServerDisconnectedError, aiohttp.client_exceptions.ConnectionTimeoutError,aiohttp.client_exceptions.ClientConnectionResetError, aiohttp.client_exceptions.ClientOSError) as e:
-            # print(f"Unable to get sitemap {sitemap} {e}")
+        except (asyncio.TimeoutError, httpx.HTTPStatusError, httpx.ConnectError) as e:
+            print(f"Unable to get sitemap {sitemap} {e}")
             continue
         if sitemap is None:
             continue
@@ -244,9 +241,13 @@ async def scrape(progress, session, org_rowid, domain):
             continue
         try:
             page = await session.get(page_url, fetch_again=False, crawl_delay=crawl_delay)
-        except (httpx.HTTPStatusError, httpx.ReadTimeout, httpcore.ReadTimeout, requests.exceptions.ConnectionError, requests.exceptions.SSLError, requests.exceptions.TooManyRedirects, requests.exceptions.MissingSchema, requests.exceptions.ConnectTimeout, urllib3.exceptions.LocationParseError, asyncio.TimeoutError, aiohttp.client_exceptions.ClientOSError, aiohttp.client_exceptions.TooManyRedirects, asyncio.TimeoutError) as e:
-            # print(f"{e} {page_url}")
+        except (httpx.HTTPStatusError, httpx.ReadTimeout, httpx.ConnectError, httpcore.ReadTimeout, asyncio.TimeoutError) as e:
+            print(f"{e} {page_url}")
             continue
+        except url_history.Blocked:
+            print(f"Blocked by CloudFlare {page_url}")
+            progress.update(task, visible=False)
+            return
         if page is None:
             # print(f"missing page {page_url}")
             continue
@@ -406,7 +407,7 @@ async def scrape(progress, session, org_rowid, domain):
                 # print(link)
                 # print()
                 pass
-        db.commit()
+            db.commit()
     
     progress.update(task, visible=False)
 

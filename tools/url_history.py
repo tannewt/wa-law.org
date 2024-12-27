@@ -7,8 +7,6 @@ import sqlite3
 import lzma
 import hashlib
 import datetime
-import urllib3
-import time
 
 # import logging
 
@@ -21,9 +19,14 @@ import time
 # requests_log.setLevel(logging.DEBUG)
 # requests_log.propagate = True
 
-headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0'}
+headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0',
+'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+'Accept-Language': 'en-US,en;q=0.5'}
 
 __version__ = "0.0.1"
+
+class Blocked(BaseException):
+    pass
 
 class HistorySession:
 
@@ -45,6 +48,8 @@ class HistorySession:
             cur.execute("PRAGMA user_version = 1;")
             self.db.commit()
 
+        self.client = None
+
     async def get(self, url, fetch_again=False, index=-1, crawl_delay=0, only_after=None):
         now = datetime.datetime.now()
         cur = self.db.cursor()
@@ -52,6 +57,8 @@ class HistorySession:
         past_fetch = cur.fetchall()
         if index < -1 and len(past_fetch) > 0 and -index > len(past_fetch):
             return None
+        if self.client is None:
+            self.client = httpx.AsyncClient()
         if not past_fetch or (fetch_again and url not in self.already_refetched):
             if only_after:
                 headers["If-Modified-Since"] = only_after.strftime("%a, %d %b %Y %H:%M:%S GMT")
@@ -59,10 +66,11 @@ class HistorySession:
                 del headers["If-Modified-Since"]
             async for attempt in stamina.retry_context(on=httpx.HTTPError, attempts=3):
                 with attempt:
-                    async with httpx.AsyncClient() as client:
-                        response = await client.get(url, headers=headers, follow_redirects=True)
+                    response = await self.client.get(url, headers=headers, follow_redirects=True)
                     if response.status_code == 304:
                         return None
+                    if response.status_code == 403 and "cf-mitigated" in response.headers:
+                        raise Blocked()
                     response.raise_for_status()
 
             self.already_refetched.add(url)
@@ -88,6 +96,8 @@ class HistorySession:
     async def close(self):
         await asyncio.sleep(0)
         self.db.commit()
+        await self.client.aclose()
+        self.client = None
 
 if __name__ == "__main__":
     session = HistorySession()

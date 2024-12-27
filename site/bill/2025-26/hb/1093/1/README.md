@@ -1,0 +1,8 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1093](/bill/2025-26/hb/1093/) > [Original Bill](/bill/2025-26/hb/1093/1/)
+
+# HB 1093 - Massage therapy coverage
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1093.pdf)
+
+## Section 1
+(1) The term "medical assistance" may include the following care and services subject to rules adopted by the authority or department: (a) Inpatient hospital services; (b) outpatient hospital services; (c) other laboratory and X-ray services; (d) nursing facility services; (e) physicians' services, which shall include prescribed medication and instruction on birth control devices; (f) medical care, or any other type of remedial care as may be established by the secretary or director; (g) home health care services; (h) private duty nursing services; (i) dental services; (j) physical and occupational therapy and related services; (k) prescribed drugs, dentures, and prosthetic devices; and eyeglasses prescribed by a physician skilled in diseases of the eye or by an optometrist, whichever the individual may select; (l) personal care services, as provided in this section; (m) hospice services; (n) other diagnostic, screening, preventive, and rehabilitative services; and (o) like services when furnished to a child by a school district in a manner consistent with the requirements of this chapter. For the purposes of this section, neither the authority nor the department may cut off any prescription medications, oxygen supplies, respiratory services, or other life-sustaining medical services or supplies.

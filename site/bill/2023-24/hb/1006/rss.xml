@@ -10,7 +10,7 @@
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
 			<title>👍Bradley Finegood - King County</title>
-			<description>Bradley Finegood signed up to testify Pro. They are signed up to represent &lt;a href=&quot;https://wa-law.org/org/king_county/&quot;&gt;King County&lt;/a&gt;.</description>
+			<description>Bradley Finegood signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/king_county/"&gt;King County&lt;/a&gt;.</description>
 			<pubDate>Thu, 05 Jan 2023 02:39:41 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
@@ -70,14 +70,14 @@
 		</item>
 		<item>
 			<title>These test strips might help prevent fentanyl overdoses, but they’re illegal | The Seattle Times</title>
-			<description>News article &quot;These test strips might help prevent fentanyl overdoses, but they’re illegal | The Seattle Times&quot; from The Seattle Times.</description>
+			<description>News article "These test strips might help prevent fentanyl overdoses, but they’re illegal | The Seattle Times" from The Seattle Times.</description>
 			<pubDate>Tue, 14 Mar 2023 04:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/politics/these-test-strips-might-help-prevent-fentanyl-overdoses-but-theyre-illegal/#:~:text=House%20Bill%201006</guid>
 		</item>
 		<item>
 			<title>Nearly 200 people died of fentanyl overdoses this year in King County, but test strips are illegal in WA</title>
-			<description>News article &quot;Nearly 200 people died of fentanyl overdoses this year in King County, but test strips are illegal in WA&quot; from FOX13.</description>
+			<description>News article "Nearly 200 people died of fentanyl overdoses this year in King County, but test strips are illegal in WA" from FOX13.</description>
 			<pubDate>Wed, 29 Mar 2023 17:36:48 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.fox13seattle.com/news/nearly-200-people-died-of-fentanyl-overdoses-this-year-in-king-county-but-test-strips-are-illegal-in-wa#:~:text=House%20Bill%201006</guid>
@@ -90,11 +90,11 @@
 			<guid isPermaLink="false">2023-04-23/By resolution, returned to House Rules Committee for third reading.</guid>
 		</item>
 		<item>
-			<title>House Rules &quot;X&quot; file.</title>
-			<description>House Rules &quot;X&quot; file.</description>
+			<title>House Rules "X" file.</title>
+			<description>House Rules "X" file.</description>
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
-			<guid isPermaLink="false">2024-01-08/House Rules &quot;X&quot; file.</guid>
+			<guid isPermaLink="false">2024-01-08/House Rules "X" file.</guid>
 		</item>
 	</channel>
 </rss>

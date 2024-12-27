@@ -48,7 +48,7 @@
 * [HB 1368](hb/1368) - Zero emission school buses 22📰 1789👍 1408👎 14❓ - C 345 L 24
 * [SB 6196](sb/6196) - Basic income pilot program 5📰 1441👍 1689👎 3❓ - S Human Services
 * [HB 1678](hb/1678) - Dental therapists 8📰 1471👍 1619👎 5❓ - C 460 L 23
-* [SB 5486](sb/5486) - Wealth/property tax 23📰 2642👍 433👎 5❓ - S Ways & Means
+* [SB 5486](sb/5486) - Wealth/property tax 24📰 2642👍 433👎 5❓ - S Ways & Means
 * [HB 1474](hb/1474) - Covenant homeownership prg. 26📰 2403👍 642👎 8❓ - C 340 L 23
 * [HB 1039](hb/1039) - Intramuscular needling 1845👍 1168👎 22❓ - C 198 L 23
 * [SB 5536](sb/5536) - Controlled substances 71📰 365👍 2530👎 81❓ - C 1 L 23 E1
@@ -58,7 +58,7 @@
 * [HB 1589](hb/1589) - Clean energy 80📰 542👍 2183👎 42❓ - C 351 L 24
 * [SB 5466](sb/5466) - Transit-oriented development 37📰 2545👍 46👎 35❓ - S Rules X
 * [HB 1391](hb/1391) - Energy in buildings 6📰 2075👍 529👎 20❓ - H Rules 3C
-* [HB 1832](hb/1832) - Vehicle per mile charge 6📰 62👍 2527👎 34❓ - H Transportation
+* [HB 1832](hb/1832) - Vehicle per mile charge 7📰 62👍 2527👎 34❓ - H Transportation
 * [HB 1829](hb/1829) - LeMay special license plate 1📰 2589👍 2👎 20❓ - H Transportation
 * [SB 6151](sb/6151) - Ultrasound 222👍 2375👎 2❓ - C 329 L 24
 * [SB 5209](sb/5209) - Universal civic duty voting 3📰 246👍 2347👎 2❓ - S Transportation
@@ -373,7 +373,7 @@
 * [HB 1674](hb/1674) - Roadway users/trucks & SUVs 1📰 203👍 290👎 4❓ - H Transportation
 * [HB 2120](hb/2120) - Clean energy manufacturers 2📰 121👍 373👎 1❓ - H Rules 3C
 * [HB 1035](hb/1035) - Health care restrictions 203👍 290👎 0❓ - H HC/Wellness
-* [SB 5793](sb/5793) - Paid sick leave 3📰 358👍 131👎 4❓ - C 356 L 24
+* [SB 5793](sb/5793) - Paid sick leave 4📰 358👍 131👎 4❓ - C 356 L 24
 * [HB 1177](hb/1177) - Indigenous women 18📰 488👍 0👎 3❓ - C 104 L 23
 * [SB 5094](sb/5094) - Water system plans/climate 1📰 404👍 86👎 0❓ - S Rules X
 * [SB 5467](sb/5467) - Controlled sub. possession 2📰 223👍 260👎 6❓ - S Law & Justice
@@ -1276,7 +1276,7 @@
 * [SB 5709](sb/5709) - Irrigation dist. elections 37👍 1👎 0❓ - S Rules 3
 * [SB 6168](sb/6168) - International leadership 14👍 24👎 0❓ - S Rules X
 * [HB 1385](hb/1385) - Civil forfeiture proceedings 1📰 5👍 25👎 7❓ - H Approps
-* [HB 1963](hb/1963) - License plate covers 2📰 13👍 23👎 1❓ - C 84 L 24
+* [HB 1963](hb/1963) - License plate covers 4📰 13👍 23👎 1❓ - C 84 L 24
 * [HB 1971](hb/1971) - Rangeland fire pilot 2📰 31👍 2👎 4❓ - H Approps
 * [HB 2391](hb/2391) - County ferries 1📰 37👍 0👎 0❓ - H Rules X
 * [SB 5415](sb/5415) - Public defense/insanity 36👍 1👎 0❓ - C 120 L 23
@@ -1403,7 +1403,7 @@
 * [SB 6197](sb/6197) - LEOFF plan 2 29👍 0👎 0❓ - C 304 L 24
 * [SB 6209](sb/6209) - Hemp consumable products 21👍 6👎 2❓ - S Ag/Water/Natura
 * [SB 6301](sb/6301) - Basic law enf. academy 29👍 0👎 0❓ - C 335 L 24
-* [HB 1112](hb/1112) - Negligent driving 7📰 25👍 3👎 0❓ - C 471 L 23
+* [HB 1112](hb/1112) - Negligent driving 8📰 25👍 3👎 0❓ - C 471 L 23
 * [HB 1296](hb/1296) - Local permit review 1📰 28👍 0👎 0❓ - H Approps
 * [HB 1449](hb/1449) - Project permits/reports 3📰 23👍 5👎 0❓ - H Rules X
 * [HB 1766](hb/1766) - Protection orders/hope cards 1📰 27👍 0👎 1❓ - C 308 L 23
@@ -2122,7 +2122,7 @@
 * [HB 2385](hb/2385) - State ferry fuel purchasing 2👍 0👎 0❓ - H Rules X
 * [HB 2400](hb/2400) - Adopt-a-waterway program 1📰 1👍 0👎 1❓ - H Approps
 * [SB 5051](sb/5051) - Dissolution/doc. language 0👍 2👎 0❓ - S Rules X
-* [SB 5067](sb/5067) - County legislative meetings 2👍 0👎 0❓ - S Rules X
+* [SB 5067](sb/5067) - County legislative meetings 1📰 2👍 0👎 0❓ - S Rules X
 * [SB 5106](sb/5106) - County district boundaries 2👍 0👎 0❓ - S Rules X
 * [SB 5170](sb/5170) - Legislative organizations 0👍 2👎 0❓ - C 91 L 23
 * [SB 5295](sb/5295) - Eliminating accounts 2👍 0👎 0❓ - C 41 L 23

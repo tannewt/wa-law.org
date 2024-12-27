@@ -8,6 +8,95 @@
 ## Heard bills
 
 ## Pending bills
+* [SB 5117](sb/5117) - Protecting agriculture. - S Prefiled
+* [HB 1136](hb/1136) - Providing student navigational supports to increase postsecondary enrollment. - H Prefiled
+* [HB 1135](hb/1135) - Ensuring that local government planning complies with the growth management act. - H Prefiled
+* [SB 5116](sb/5116) - Concerning the immediate use of marriage licenses for medical necessity. - S Prefiled
+* [SB 5115](sb/5115) - Creating the Washington dream act service incentive program. - S Prefiled
+* [HB 1134](hb/1134) - Promoting resource conservation practices in public schools. - H Prefiled
+* [HB 1133](hb/1133) - Concerning sexually violent predators. - H Prefiled
+* [HB 1132](hb/1132) - Enhancing public safety by limiting bulk purchases and transfers of firearms and ammunition. - H Prefiled
+* [HB 1131](hb/1131) - Concerning clemency and pardons. - H Prefiled
+* [HB 1108](hb/1108) - Housing cost task force - H Prefiled
+* [HB 1102](hb/1102) - Veteran support and services - H Prefiled
+* [HB 1099](hb/1099) - Tenant assistance program - H Prefiled
+* [HB 1096](hb/1096) - Lot splitting - H Prefiled
+* [SB 5114](sb/5114) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. - S Prefiled
+* [SB 5113](sb/5113) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. - S Prefiled
+* [SB 5112](sb/5112) - Establishing a prescribing psychologist certification in Washington state. - S Prefiled
+* [SB 5111](sb/5111) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. - S Prefiled
+* [SB 5110](sb/5110) - Providing tuition waivers for tribal elders at Washington’s community and technical colleges. - S Prefiled
+* [SB 5109](sb/5109) - Concerning the mortgage lending fraud prosecution account. - S Prefiled
+* [SB 5108](sb/5108) - Regulating service contracts and protection product guarantees. - S Prefiled
+* [SB 5107](sb/5107) - Concerning underinsured motorist coverage for local government employees. - S Prefiled
+* [SB 5106](sb/5106) - Establishing Eid al-Fitr and Eid al-Adha as state holidays. - S Prefiled
+* [SB 5105](sb/5105) - Concerning offenses involving fabricated depictions of minors. - S Prefiled
+* [SB 5104](sb/5104) - Protecting employees from coercion in the workplace based on immigration status. - S Prefiled
+* [SB 5103](sb/5103) - Expediting review of sentences when there exists a pending deportation proceeding. - S Prefiled
+* [SB 5102](sb/5102) - Establishing a public records exemption for the proprietary information of public risk pools. - S Prefiled
+* [SB 5101](sb/5101) - Expanding access to leave and safety accommodations to include workers who are victims of hate crimes or bias incidents. - S Prefiled
+* [SB 5100](sb/5100) - Standardizing basic training and certification requirements for long-term care workers who provide in-home care for their family members, including spouses or domestic partners. - S Prefiled
+* [HB 1130](hb/1130) - Concerning utilization of developmental disabilities waivers. - H Prefiled
+* [HB 1129](hb/1129) - Concerning health plan coverage of fertility-related services. - H Prefiled
+* [HB 1128](hb/1128) - Establishing a child care workforce standards board. - H Prefiled
+* [HB 1127](hb/1127) - Modifying provisions of the revised uniform unclaimed property act. - H Prefiled
+* [HB 1126](hb/1126) - Standardizing notification provisions relating to local tax rate changes and shared taxes administered by the department. - H Prefiled
+* [HB 1125](hb/1125) - Providing judicial discretion to modify sentences in the interest of justice. - H Prefiled
+* [HB 1124](hb/1124) - Establishing a prescribing psychologist certification in Washington state. - H Prefiled
+* [HB 1123](hb/1123) - Ensuring access to primary care, behavioral health, and affordable hospital services. - H Prefiled
+* [HB 1122](hb/1122) - Restricting mobile device usage by public school students. - H Prefiled
+* [HB 1121](hb/1121) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. - H Prefiled
+* [HB 1120](hb/1120) - Determining state allocations for school staff salaries. - H Prefiled
+* [HB 1119](hb/1119) - Concerning supervision compliance credit.  - H Prefiled
+* [HB 1118](hb/1118) - Concerning restoration of the right to possess a firearm. - H Prefiled
+* [HB 1117](hb/1117) - Removing the delegation of authority related to California motor vehicle emissions standards to generate new transportation revenue for the state by reducing administration burdens on the government and the people. - H Prefiled
+* [HB 1116](hb/1116) - Recognizing election day. - H Prefiled
+* [HB 1115](hb/1115) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. - H Prefiled
+* [HB 1114](hb/1114) - Concerning the respiratory care interstate compact. - H Prefiled
+* [HB 1103](hb/1103) - Expanding protections against unwanted telephone calls and text messages for cellular users. - H Prefiled
+* [HB 1097](hb/1097) - Extending governmental services beyond the urban growth area in specific circumstances. - H Prefiled
+* [HB 1094](hb/1094) - Providing a property tax exemption for property owned by a qualifying nonprofit organization and loaned, leased, or rented to and used by any government entity to provide character-building, benevolent, protective, or rehabilitative social services. - H Prefiled
+* [HB 1093](hb/1093) - Massage therapy coverage - H Prefiled
+* [HB 1090](hb/1090) - Contraceptive coverage - H Prefiled
+* [SB 5099](sb/5099) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers. - S Prefiled
+* [SB 5098](sb/5098) - Restricting the possession of weapons on the premises of state or local public buildings, parks or playground facilities where children are likely to be present, and county fairs and county fair facilities. - S Prefiled
+* [SB 5097](sb/5097) - Safeguarding competitiveness in girls' interscholastic athletic activities. - S Prefiled
+* [SB 5096](sb/5096) - Removing references to pregnancy from the model directive form under the natural death act. - S Prefiled
+* [SB 5095](sb/5095) - School construction debt - S Prefiled
+* [SB 5094](sb/5094) - Concerning sexually explicit depictions of minors.  - S Prefiled
+* [SB 5093](sb/5093) - Concerning dignity in pregnancy loss. - S Prefiled
+* [SB 5092](sb/5092) - Farm machinery sales tax - S Prefiled
+* [HB 1113](hb/1113) - Concerning accountability and access to services for individuals charged with a misdemeanor. - H Prefiled
+* [HB 1112](hb/1112) - Removing the city residency requirement for judges pro tempore in municipalities with a population of more than 400,000 inhabitants. - H Prefiled
+* [HB 1111](hb/1111) - Concerning the indeterminate sentence review board. - H Prefiled
+* [HB 1110](hb/1110) - DUI conviction vacation - H Prefiled
+* [HB 1109](hb/1109) - Public facilities districts - H Prefiled
+* [HB 1107](hb/1107) - Concerning environmental impacts of fashion. - H Prefiled
+* [HB 1106](hb/1106) - Recognizing the tremendous sacrifices made by our military veterans by phasing down the disability rating requirements to ensure more disabled veterans are eligible for property tax relief. - H Prefiled
+* [SB 5091](sb/5091) - Motor vehicle emissions - S Prefiled
+* [SB 5090](sb/5090) - Professional engineers' reg. - S Prefiled
+* [SB 5089](sb/5089) - Concerning funding rural county coroners and medical examiners. - S Prefiled
+* [SB 5088](sb/5088) - Public utility tax, counties - S Prefiled
+* [SB 5087](sb/5087) - CTC legal education programs - S Prefiled
+* [SB 5086](sb/5086) - PEBB & SEBB consolidation - S Prefiled
+* [SB 5085](sb/5085) - Closed retirement plans - S Prefiled
+* [SB 5084](sb/5084) - Health carrier reporting - S Prefiled
+* [SB 5083](sb/5083) - Ensuring access to primary care, behavioral health, and affordable hospital services. - S Prefiled
+* [SB 5082](sb/5082) - Creating a housing assistance program for youth enrolled in extended foster care. - S Prefiled
+* [SB 5081](sb/5081) - Unattended motor vehicles - S Prefiled
+* [SB 5080](sb/5080) - Financial education - S Prefiled
+* [SB 5079](sb/5079) - DSHS overpayments - S Prefiled
+* [HB 1105](hb/1105) - Exempting exclusive bargaining representatives for department of corrections employees from certain provisions related to coalition bargaining. - H Prefiled
+* [HB 1104](hb/1104) - Professional engineers' reg. - H Prefiled
+* [HB 1101](hb/1101) - Vehicular homicide offenses - H Prefiled
+* [HB 1100](hb/1100) - Local sales and use tax - H Prefiled
+* [HB 1098](hb/1098) - County local roads - H Prefiled
+* [HB 1095](hb/1095) - Law enforcement funding - H Prefiled
+* [SB 5078](sb/5078) - Agricultural real estate - S Prefiled
+* [SB 5077](sb/5077) - Agency voter registration - S Prefiled
+* [SB 5076](sb/5076) - Nonspot shrimp pot license - S Prefiled
+* [HB 1092](hb/1092) - Children/controlled sub. - H Prefiled
+* [HB 1091](hb/1091) - SVP supervision credit - H Prefiled
 * [HB 1057](hb/1057) - Access to federal funds - H Prefiled
 * [SB 5075](sb/5075) - Prenatal and postnatal care - S Prefiled
 * [SB 5074](sb/5074) - Turfgrass seed contracts - S Prefiled
@@ -31,14 +120,14 @@
 * [SB 5070](sb/5070) - Interchange fees on tips - S Prefiled
 * [SB 5069](sb/5069) - Voters' pamphlets - S Prefiled
 * [SB 5068](sb/5068) - Public employ. eligibility - S Prefiled
-* [SB 5067](sb/5067) - Impaired driving - S Prefiled
+* [SB 5067](sb/5067) - Impaired driving 1📰 - S Prefiled
 * [SB 5066](sb/5066) - Law enf. misconduct - S Prefiled
 * [SB 5065](sb/5065) - Traveling animal acts - S Prefiled
 * [SB 5064](sb/5064) - Rare diseases adv. council - S Prefiled
 * [SB 5063](sb/5063) - Freight railroad infra. - S Prefiled
 * [SB 5062](sb/5062) - Child care workforce board - S Prefiled
 * [SB 5061](sb/5061) - Public works wages - S Prefiled
-* [SB 5060](sb/5060) - Law enf. hiring grants 1📰 - S Prefiled
+* [SB 5060](sb/5060) - Law enf. hiring grants 2📰 - S Prefiled
 * [SB 5059](sb/5059) - Ferry captains - S Prefiled
 * [SB 5058](sb/5058) - Recycling rates - S Prefiled
 * [SB 5057](sb/5057) - Agricultural real estate - S Prefiled
@@ -106,7 +195,7 @@
 * [SB 5029](sb/5029) - DOC release transportation - S Prefiled
 * [SB 5028](sb/5028) - Unlawful camping - S Prefiled
 * [SB 5027](sb/5027) - Law school loan repayment - S Prefiled
-* [SB 5026](sb/5026) - Motor vehicle sales tax - S Prefiled
+* [SB 5026](sb/5026) - Motor vehicle sales tax 1📰 - S Prefiled
 * [SB 5025](sb/5025) - Educational interpreters - S Prefiled
 * [SB 5024](sb/5024) - Wine/alcohol tax exemption - S Prefiled
 * [SB 5023](sb/5023) - Domestic workers - S Prefiled
@@ -117,7 +206,7 @@
 * [HB 1044](hb/1044) - County REET admin. fees - H Prefiled
 * [HB 1043](hb/1043) - Commute trip reduction - H Prefiled
 * [HB 1042](hb/1042) - County treasurer costs - H Prefiled
-* [HB 1041](hb/1041) - Replacement tires 1📰 - H Prefiled
+* [HB 1041](hb/1041) - Replacement tires 3📰 - H Prefiled
 * [HB 1039](hb/1039) - Gov. services/tribal lands - H Prefiled
 * [HB 1038](hb/1038) - Gender/health providers - H Prefiled
 * [HB 1037](hb/1037) - PFD formation - H Prefiled
@@ -132,8 +221,8 @@
 * [HB 1029](hb/1029) - 3D-printed buildings - H Prefiled
 * [HB 1028](hb/1028) - Child exposure to violence - H Prefiled
 * [HB 1027](hb/1027) - Housing of inmates - H Prefiled
-* [HB 1026](hb/1026) - LTSS trust spousal benefits - H Prefiled
-* [HB 1025](hb/1025) - LTSS trust exemptions - H Prefiled
+* [HB 1026](hb/1026) - LTSS trust spousal benefits 1📰 - H Prefiled
+* [HB 1025](hb/1025) - LTSS trust exemptions 1📰 - H Prefiled
 * [SB 5019](sb/5019) - Prepacked medication distr. - S Prefiled
 * [SB 5018](sb/5018) - County weed boards - S Prefiled
 * [SB 5017](sb/5017) - Uniformed & overseas voting - S Prefiled
@@ -164,7 +253,7 @@
 * [HB 1006](hb/1006) - Regulating service contracts and protection product guarantees. - H Prefiled
 * [HB 1005](hb/1005) - Concerning prearrangement funeral services. - H Prefiled
 * [HB 1004](hb/1004) - Increasing the personal property tax exemption. - H Prefiled
-* [SB 5005](sb/5005) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 2📰 - S Prefiled
+* [SB 5005](sb/5005) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 3📰 - S Prefiled
 * [SB 5004](sb/5004) - Updating emergency response systems in public schools including panic or alert buttons. - S Prefiled
 * [SB 5003](sb/5003) - Establishing the school security and preparedness infrastructure grant program. - S Prefiled
 * [SB 5002](sb/5002) - Concerning federal immigration enforcement. 2📰 - S Prefiled

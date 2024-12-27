@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/23/2024 [The Urbanist](/org/the_urbanist/) - [The Washington State Transportation Budget Is In Deep Trouble - The Urbanist](https://www.theurbanist.org/2024/12/23/state-transportation-budget-is-in-deep-trouble/#:~:text=dedicating)
+
 ## Meetings

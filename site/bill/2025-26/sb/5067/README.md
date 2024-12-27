@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/19/2024 [The Center Square](/org/the_center_square/) - [Bipartisan effort reducing BAC limit to .05% could face opposition from both sides | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5743f656-be4f-11ef-8e62-f748d7706995.html#:~:text=Senate%20Bill%205067)
+
 ## Meetings
