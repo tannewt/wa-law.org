@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/30/2024 [The Center Square](/org/the_center_square/) - [Bipartisan legislation could save parents thousands of dollars in medical bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_678d0754-c6e3-11ef-b4a5-674e04724042.html#:~:text=Senate%20Bill%205075)
+
 ## Meetings

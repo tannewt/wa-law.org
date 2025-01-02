@@ -606,7 +606,7 @@ Testifying:
 * Diana Sullivan - The Foundation for Homeless and Poverty Management
 * Heather Moss - Pierce County Human Services
 * Mindy Woods
-* Laura Ellsworth - Council for the Homeless
+* Laura Ellsworth - [Council for the Homeless](/org/council_for_the_homeless/)
 * Peter Shapiro
 * Eric Jensen - Astria Toppenish Hospital
 * Sheila Babb Anderson - [Campion Advocacy Fund](/org/campion_advocacy_fund/)

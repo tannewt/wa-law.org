@@ -8,6 +8,31 @@
 ## Heard bills
 
 ## Pending bills
+* [HB 1152](hb/1152) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. - H Prefiled
+* [HB 1151](hb/1151) - Establishing the ninth grade success grant program. - H Prefiled
+* [HB 1150](hb/1150) - Improving Washington's solid waste management outcomes. - H Prefiled
+* [HB 1140](hb/1140) - Establishing empowerED scholarships using educational savings accounts. - H Prefiled
+* [SB 5126](sb/5126) - Student mental health net. - S Prefiled
+* [HB 1149](hb/1149) - Cruelty to animals - H Prefiled
+* [HB 1148](hb/1148) - Exempting goods and services provided by youth athletic facilities from sales and use tax. - H Prefiled
+* [HB 1147](hb/1147) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. - H Prefiled
+* [HB 1146](hb/1146) - Voting in jails, hospitals - H Prefiled
+* [HB 1145](hb/1145) - Public works reporting - H Prefiled
+* [SB 5125](sb/5125) - Residential services rate - S Prefiled
+* [SB 5124](sb/5124) - SNF & rehab network adequacy - S Prefiled
+* [SB 5123](sb/5123) - Expanding protections for certain students to promote inclusivity in public schools. - S Prefiled
+* [SB 5122](sb/5122) - Uniform antitrust premerger - S Prefiled
+* [SB 5121](sb/5121) - Fertility-related services - S Prefiled
+* [HB 1144](hb/1144) - Superior court judge/Skagit - H Prefiled
+* [HB 1143](hb/1143) - College grant award amounts - H Prefiled
+* [HB 1142](hb/1142) - In-home care training - H Prefiled
+* [HB 1141](hb/1141) - Ag. cannabis workers - H Prefiled
+* [HB 1139](hb/1139) - Unlawful firearm possession - H Prefiled
+* [SB 5120](sb/5120) - Learning assistance program - S Prefiled
+* [SB 5119](sb/5119) - Academic employee bargaining - S Prefiled
+* [SB 5118](sb/5118) - Updating the requirements for the clinical experience license for international medical graduates. - S Prefiled
+* [HB 1138](hb/1138) - Improving public safety by implementing evidence-based interview practices that increase the reliability of statements collected during criminal investigations. - H Prefiled
+* [HB 1137](hb/1137) - Establishing uniform policies and procedures within department of corrections facilities relating to disciplinary proceedings and administrative segregation. - H Prefiled
 * [SB 5117](sb/5117) - Protecting agriculture. - S Prefiled
 * [HB 1136](hb/1136) - Providing student navigational supports to increase postsecondary enrollment. - H Prefiled
 * [HB 1135](hb/1135) - Ensuring that local government planning complies with the growth management act. - H Prefiled
@@ -98,7 +123,7 @@
 * [HB 1092](hb/1092) - Children/controlled sub. - H Prefiled
 * [HB 1091](hb/1091) - SVP supervision credit - H Prefiled
 * [HB 1057](hb/1057) - Access to federal funds - H Prefiled
-* [SB 5075](sb/5075) - Prenatal and postnatal care - S Prefiled
+* [SB 5075](sb/5075) - Prenatal and postnatal care 1📰 - S Prefiled
 * [SB 5074](sb/5074) - Turfgrass seed contracts - S Prefiled
 * [SB 5073](sb/5073) - Motor vehicles sales tax use - S Prefiled
 * [SB 5072](sb/5072) - Abandoned vehicle auctions - S Prefiled
@@ -174,7 +199,7 @@
 * [HB 1068](hb/1068) - DOC WMS employee arbitration - H Prefiled
 * [HB 1067](hb/1067) - Cannabis/dept of agriculture - H Prefiled
 * [HB 1066](hb/1066) - Regulated substance use data - H Prefiled
-* [HB 1065](hb/1065) - Family burial grounds - H Prefiled
+* [HB 1065](hb/1065) - Family burial grounds 1📰 - H Prefiled
 * [HB 1064](hb/1064) - System improvement team - H Prefiled
 * [HB 1063](hb/1063) - Earned wage access services - H Prefiled
 * [HB 1062](hb/1062) - Biomarker testing coverage - H Prefiled
@@ -216,7 +241,7 @@
 * [HB 1033](hb/1033) - Child care local licensing - H Prefiled
 * [HB 1032](hb/1032) - School district elections - H Prefiled
 * [SB 5021](sb/5021) - Retention of court exhibits - S Prefiled
-* [SB 5020](sb/5020) - Senior citizens/prop. taxes - S Prefiled
+* [SB 5020](sb/5020) - Senior citizens/prop. taxes 1📰 - S Prefiled
 * [HB 1030](hb/1030) - Counted ballot audits - H Prefiled
 * [HB 1029](hb/1029) - 3D-printed buildings - H Prefiled
 * [HB 1028](hb/1028) - Child exposure to violence - H Prefiled

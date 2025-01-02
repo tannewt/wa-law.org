@@ -410,7 +410,7 @@ Testifying:
 * Jon Holmen - Lake Washington School District
 * Sue Ann Bube - Mercer Island School District
 * Krista Milhofer - People First of Washington
-* Laura Ellsworth - Council for the Homeless
+* Laura Ellsworth - [Council for the Homeless](/org/council_for_the_homeless/)
 * 💵Samantha Bruegger - WA Wildlife First
 * Eric Jensen - Astria Toppenish Hospital
 * Sheila Babb Anderson - [Campion Advocacy Fund](/org/campion_advocacy_fund/)

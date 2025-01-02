@@ -41,7 +41,7 @@ Testifying:
 ### Tue 03/14 10:30 AM - Local Government (LG): E2SSB 5001 Public facility districts
 #### 32 👍 - Pro
 Testifying:
-* Frank Kuntz - City of Wenatchee
+* Frank Kuntz - [City of Wenatchee](/org/city_of_wenatchee/)
 * 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 * Steve Maher - Our Valley Our Future nonprofit in Wenatchee
 * Jerrilea Crawford - City of East Wenatchee
@@ -78,12 +78,12 @@ Testifying:
 * Paul Simmons - City of Olympia, Washington Recreation and Parks Association
 * Jim Huffman - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 * Jeff Wilkens - Chelan-Douglas Transportation Council
-* Frank Kuntz - City of Wenatchee
+* Frank Kuntz - [City of Wenatchee](/org/city_of_wenatchee/)
 * Dan Sutton
 * Jerrilea Crawford - City of East Wenatchee
 * Jeffrey Sutton
 * Sasha Sleiman - Chelan County
-* Frank Kuntz - City of Wenatchee
+* Frank Kuntz - [City of Wenatchee](/org/city_of_wenatchee/)
 * Jerrilea Crawford - City of East Wenatchee
 * Paul Simmons - City of Olympia, Washington Recreation and Parks Association
 
@@ -101,7 +101,7 @@ Testifying:
 * 💵Blake Baldwin - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 * Jim Kuntz - [Chelan Douglas Regional Port Authority](/org/chelan_douglas_regional_port_authority/)
 * Paul Simmons - [City of Olympia](/org/city_of_olympia/)
-* Frank Kuntz - City of Wenatchee
+* Frank Kuntz - [City of Wenatchee](/org/city_of_wenatchee/)
 
 #### 0 👎 - Con
 

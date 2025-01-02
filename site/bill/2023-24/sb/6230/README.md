@@ -18,7 +18,7 @@ Testifying:
 * 💵Bud Sizemore - WSCFF
 * Brandon Asher - Fire Chief, Chelan Fire & Rescue
 * John Nohr - Fire Chief, Clark-Cowlitz Fire & Rescue
-* Steve Brooks - Chief, Lacey Fire; President, Washington Fire Chiefs Association
+* 💵Steve Brooks - Chief, Lacey Fire; President, Washington Fire Chiefs Association
 * 💵Matthew Ellsworth - Association of Washington Public Hospital Districts (AWPHD)
 * Larry Bartel - Clark/Cowlitz Fire Rescue
 * Aaron Edwards - Lake Chelan Health, CEO

@@ -18,7 +18,7 @@
 #### 42 👍 - Pro
 Testifying:
 * 💵Megan Veith - [Building Changes](/org/building_changes/)
-* Morgan Valentine - Council for the Homeless
+* Morgan Valentine - [Council for the Homeless](/org/council_for_the_homeless/)
 * Charlie Brown - Pierce County Superintendents
 
 #### 0 👎 - Con
@@ -29,9 +29,9 @@ Testifying:
 #### 99 👍 - Pro
 Testifying:
 * 💵Megan Veith - [Building Changes](/org/building_changes/)
-* Wilder Yeats - Council for the Homeless
+* Wilder Yeats - [Council for the Homeless](/org/council_for_the_homeless/)
 * Josh Binda - City Councilmember of Lynnwood
-* Sunny Wonder - Council for the Homeless
+* Sunny Wonder - [Council for the Homeless](/org/council_for_the_homeless/)
 
 #### 0 👎 - Con
 

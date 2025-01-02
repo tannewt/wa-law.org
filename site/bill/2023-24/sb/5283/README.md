@@ -19,7 +19,7 @@ Testifying:
 ### Thu 02/02 08:00 AM - Labor & Commerce (LC): SB 5283 Engineer comity applicants
 #### 2 👍 - Pro
 Testifying:
-* Ken Fuller - Board of Registration for Professional Engineers and Land Surveyors
+* Ken Fuller - [Board of Registration for Professional Engineers and Land Surveyors](/org/board_of_registration_for_professional_engineers_and_land_surveyors/)
 
 #### 0 👎 - Con
 

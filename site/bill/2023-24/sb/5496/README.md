@@ -28,7 +28,7 @@ Testifying:
 * James Gregory
 * Darryl Smith - HomeSight
 * 💵Anna Boone - [Zillow Group](/org/zillow_group/)
-* DENISE Rodriguez - Washington Homeownership Resource Center
+* DENISE Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Kiara Daniels - Tacoma City Council
 * 💵Hyeeun Park - BIPOC ED Coalition

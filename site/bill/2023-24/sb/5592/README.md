@@ -12,7 +12,7 @@
 Testifying:
 * Kim Reiter
 * Luke Martin
-* Steve Brooks - Washington Fire Chiefs
+* 💵Steve Brooks - Washington Fire Chiefs
 * Karli Reiter
 
 #### 0 👎 - Con

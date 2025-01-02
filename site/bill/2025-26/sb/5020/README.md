@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/31/2024 [The Center Square](/org/the_center_square/) - [Republican proposes senior tax exemption as Democrats contemplate raising rates | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b74ae12c-c7af-11ef-8116-7303430bf7c4.html#:~:text=Senate%20Bill%205020)
+
 ## Meetings

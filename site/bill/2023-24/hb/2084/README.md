@@ -29,7 +29,7 @@ Testifying:
 Testifying:
 * Hilary Young - WA Statewide Reentry Council and Pioneer Human Services
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
-* Minna Long - Washington State Building & Construction Trades Council
+* 💵Minna Long - Washington State Building & Construction Trades Council
 * 💵Ray Dumas - Cement Masons & Plasterers Local 528
 * Will Durden - State Board for Community and Technical Colleges
 * Armando Sanchez - Local 86 Ironworkers
@@ -49,7 +49,7 @@ Testifying:
 * Bruce Carley
 * 💵Ray Dumas - OPCMIA Local 528
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
-* Minna Long - Washington State Building & Construction Trades Council
+* 💵Minna Long - Washington State Building & Construction Trades Council
 * Eric Sanchez - Ironworkers L 86
 * 💵John Traynor - Washington State Labor Council, AFL-CIO
 

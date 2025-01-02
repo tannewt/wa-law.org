@@ -20,7 +20,7 @@
 #### 31 👍 - Pro
 Testifying:
 * Ryan Umstattd - Zap Energy, Inc.
-* Hawkins DeFrance - Avalanche Energy Designs, Inc.
+* Hawkins DeFrance - [Avalanche Energy Designs, Inc.](/org/avalanche_energy_designs,_inc./)
 * Sachin Desai - [Helion Energy](/org/helion_energy/)
 * Chris Ajemian - Kyoto Fusioneering America
 * Jessie Barton - Helion
@@ -35,7 +35,7 @@ Testifying:
 * Ryan Umstattd - Zap Energy
 * James Conca
 * Jackie Siebens - [Helion Energy](/org/helion_energy/)
-* Hawkins DeFrance - Avalanche Energy Designs, Inc.
+* Hawkins DeFrance - [Avalanche Energy Designs, Inc.](/org/avalanche_energy_designs,_inc./)
 
 #### 174 👎 - Con
 Testifying:

@@ -19,7 +19,7 @@
 #### 12 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
-* Steve Brooks - Washington Fire Chiefs
+* 💵Steve Brooks - Washington Fire Chiefs
 
 #### 0 👎 - Con
 
@@ -52,7 +52,7 @@ Testifying:
 * Aaron Edwards - Lake Chelan Health, CEO
 * Brandon Asher - Chelan Fire & Rescue
 * John Nohr - Clark-Cowlitz Fire & Rescue
-* Steve Brooks - Fire Chief, Lacey Fire; President, Washington Fire Chiefs Associatio
+* 💵Steve Brooks - Fire Chief, Lacey Fire; President, Washington Fire Chiefs Associatio
 
 #### 27 👎 - Con
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1795/</link>
 		<description>Updates about HB 1795</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 27 Dec 2024 15:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -123,6 +123,13 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
+			<title>Op-Ed: Legislature Should Close the Family Foundation Loophole for Estate Taxes - The Urbanist</title>
+			<description>News article "Op-Ed: Legislature Should Close the Family Foundation Loophole for Estate Taxes - The Urbanist" from The Urbanist.</description>
+			<pubDate>Fri, 27 Dec 2024 15:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2024/12/27/op-ed-close-the-family-foundation-estate-tax-loophole/#:~:text=a%20bill%20that%20would%20narrow%20this%20family%20foundation%20loophole.</guid>
 		</item>
 	</channel>
 </rss>

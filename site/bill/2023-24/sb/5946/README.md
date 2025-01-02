@@ -29,7 +29,7 @@ Testifying:
 * Patrick McElligott - IAFF Local 31- Tacoma Firefighters
 * Brian Considine - [Department of Natural Resources](/org/department_of_natural_resources/)
 * George Geissler - [Department of Natural Resources](/org/department_of_natural_resources/)
-* Steve Brooks - Washington Fire Chiefs
+* 💵Steve Brooks - Washington Fire Chiefs
 
 #### 0 👎 - Con
 

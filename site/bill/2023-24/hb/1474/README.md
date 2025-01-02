@@ -129,10 +129,10 @@ Testifying:
 * Eddie Chang
 * 💵Nathan Gorton - Washington REALTORS
 * Michone Preston - Habitat for Humanity of Washington State CEO
-* DENISE Rodriguez - Washington Homeownership Resource Center
+* DENISE Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * 💵Anna Boone - [Zillow Group](/org/zillow_group/)
 * John Smith
-* Evelin Martinez - Washington Homeownership Resource Center
+* Evelin Martinez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * Tonja Wortham - Mortgage Industry
 * Norma Martinez-Olivera
 * Michael Dotson - Banner Bank

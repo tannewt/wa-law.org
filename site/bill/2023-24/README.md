@@ -373,7 +373,7 @@
 * [HB 1674](hb/1674) - Roadway users/trucks & SUVs 1📰 203👍 290👎 4❓ - H Transportation
 * [HB 2120](hb/2120) - Clean energy manufacturers 2📰 121👍 373👎 1❓ - H Rules 3C
 * [HB 1035](hb/1035) - Health care restrictions 203👍 290👎 0❓ - H HC/Wellness
-* [SB 5793](sb/5793) - Paid sick leave 4📰 358👍 131👎 4❓ - C 356 L 24
+* [SB 5793](sb/5793) - Paid sick leave 5📰 358👍 131👎 4❓ - C 356 L 24
 * [HB 1177](hb/1177) - Indigenous women 18📰 488👍 0👎 3❓ - C 104 L 23
 * [SB 5094](sb/5094) - Water system plans/climate 1📰 404👍 86👎 0❓ - S Rules X
 * [SB 5467](sb/5467) - Controlled sub. possession 2📰 223👍 260👎 6❓ - S Law & Justice
@@ -911,7 +911,7 @@
 * [HB 2179](hb/2179) - Child care local licensing 2📰 83👍 9👎 1❓ - H Human Svc, You
 * [HB 2187](hb/2187) - Water/family farms 77👍 14👎 2❓ - H Ag&Nr
 * [SB 5440](sb/5440) - Competency evaluations 2📰 25👍 42👎 26❓ - C 453 L 23
-* [HB 1795](hb/1795) - Estate tax 2📰 31👍 59👎 2❓ - H Finance
+* [HB 1795](hb/1795) - Estate tax 3📰 31👍 59👎 2❓ - H Finance
 * [SB 6140](sb/6140) - Intensive rural development 89👍 1👎 2❓ - C 135 L 24
 * [HB 2262](hb/2262) - Tire rolling resistance 4📰 77👍 12👎 1❓ - H Transportation
 * [SB 5609](sb/5609) - Housing approval 3📰 71👍 18👎 1❓ - S Ways & Means
@@ -1381,7 +1381,7 @@
 * [HB 2452](hb/2452) - Manuf housing/building codes 24👍 4👎 2❓ - H Rules X
 * [SB 5303](sb/5303) - Public works trust account 1📰 30👍 0👎 0❓ - S Rules X
 * [SB 5402](sb/5402) - Authorizing public transportation benefit areas to become limited authority Washington law enforcement agencies. 14👍 15👎 1❓ - S Law & Justice
-* [SB 5581](sb/5581) - Maternal support services 1📰 30👍 0👎 0❓ - C 444 L 23
+* [SB 5581](sb/5581) - Maternal support services 2📰 30👍 0👎 0❓ - C 444 L 23
 * [SB 5657](sb/5657) - Kit home permitting 2📰 24👍 0👎 6❓ - S Rules 3
 * [SB 5906](sb/5906) - Implementing a statewide drug overdose prevention and education campaign. 10📰 30👍 0👎 0❓ - C 216 L 24
 * [SB 6137](sb/6137) - Semiconductor tax incentives 27👍 2👎 1❓ - S Ways & Means

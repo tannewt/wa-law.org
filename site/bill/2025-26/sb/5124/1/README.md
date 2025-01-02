@@ -1,0 +1,133 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5124](/bill/2025-26/sb/5124/) > [Original Bill](/bill/2025-26/sb/5124/1/)
+
+# SB 5124 - SNF & rehab network adequacy
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5124.pdf)
+
+## Section 1
+1. The legislature finds medicaid enrollees are entitled to timely access to postacute care services when apple health managed care organizations have determined such services are medically necessary for quality of care and health outcomes.
+
+2. In order to facilitate more access to postacute care services, the authority shall establish and adopt network adequacy standards for postacute care services by no later than June 30, 2026. Network adequacy standards development must include skilled nursing facilities licensed under chapter 18.51 RCW and inpatient rehabilitation facilities licensed under chapter 70.41 RCW.
+
+    a. Network adequacy standards for skilled nursing facilities must take into consideration the Washington medicaid principle of keeping care local to an enrollee's community and any geographic adequacy threshold should not be broader than the regional service area a managed care organization is contracted to serve. The authority may narrow the geographic standards during development. These standards must also consider:
+
+        i. Provider availability in a regional service area;
+
+        ii. Timeliness of care, which is defined as the reasonable amount of time in which patients can receive access to postacute care based on their medical needs; and
+
+        iii. Any other network adequacy standard required to maintain compliance with federal medicaid regulations.
+
+    b. Network adequacy standards for inpatient rehabilitation facilities must take into consideration the Washington medicaid principle of keep care local to an enrollee's community and the geographic adequacy threshold must not be narrower than the regional service area a managed care organization is contracted to serve and must take into consideration patient referral and practice patterns. The authority may narrow the geographic standards during development. These standards must also consider:
+
+        i. Provider availability in a regional service area;
+
+        ii. Timeliness of care, which is defined as the reasonable amount of time in which patients can receive access to postacute care based on their medical needs; and
+
+        iii. Any other network adequacy standard required to maintain compliance with federal medicaid regulations.
+
+3. As part of the development of network adequacy standards, the authority shall obtain stakeholder feedback.
+
+    a. Stakeholders must include hospitals, skilled nursing facilities, managed care organizations, and any associations representing members of these groups. If the authority chooses to include additional provider types in developing postacute care network standards, it must include representatives from those facility types in the stakeholder feedback process.
+
+    b. Feedback must be obtained at least three times, including:
+
+        i. For initial criteria used to develop standards;
+
+        ii. To review draft standards; and
+
+        iii. To review final standards prior to publication and inclusion in the managed care contract.
+
+4. The authority shall include these network adequacy standards as part of the federal access monitoring requirements in 42 C.F.R. Sec. 438, including network adequacy secret shopper reviews.
+
+## Section 2
+1. For the purposes of this section, "nonparticipating provider" means a person, health care provider, practitioner, facility, or entity, acting within their scope of practice, that does not have a written contract to participate in a managed care organization's provider network, but provides health care services to enrollees of programs authorized under this chapter or other applicable law whose health care services are provided by the managed care organization.
+
+2. The authority shall enter into agreements with managed care organizations to provide health care services to recipients of medicaid under the following conditions:
+
+    a. Agreements shall be made for at least thirty thousand recipients statewide;
+
+    b. Agreements in at least one county shall include enrollment of all recipients of programs as allowed for in the approved state plan amendment or federal waiver for Washington state's medicaid program;
+
+    c. To the extent that this provision is consistent with section 1903(m) of Title XIX of the federal social security act or federal demonstration waivers granted under section 1115(a) of Title XI of the federal social security act, recipients shall have a choice of systems in which to enroll and shall have the right to terminate their enrollment in a system: PROVIDED, That the authority may limit recipient termination of enrollment without cause to the first month of a period of enrollment, which period shall not exceed twelve months: AND PROVIDED FURTHER, That the authority shall not restrict a recipient's right to terminate enrollment in a system for good cause as established by the authority by rule;
+
+    d. To the extent that this provision is consistent with section 1903(m) of Title XIX of the federal social security act, participating managed care organizations shall not enroll a disproportionate number of medical assistance recipients within the total numbers of persons served by the managed care organizations, except as authorized by the authority under federal demonstration waivers granted under section 1115(a) of Title XI of the federal social security act;
+
+    e. [Empty]
+
+        i. In negotiating with managed care organizations the authority shall adopt a uniform procedure to enter into contractual arrangements, including:
+
+(A) Standards regarding the quality of services to be provided;
+
+(B) The financial integrity of the responding system;
+
+(C) Provider reimbursement methods that incentivize chronic care management within health homes, including comprehensive medication management services for patients with multiple chronic conditions consistent with the findings and goals established in RCW 74.09.5223;
+
+(D) Provider reimbursement methods that reward health homes that, by using chronic care management, reduce emergency department and inpatient use;
+
+(E) Promoting provider participation in the program of training and technical assistance regarding care of people with chronic conditions described in RCW 43.70.533, including allocation of funds to support provider participation in the training, unless the managed care organization is an integrated health delivery system that has programs in place for chronic care management;
+
+(F) Provider reimbursement methods within the medical billing processes that incentivize pharmacists or other qualified providers licensed in Washington state to provide comprehensive medication management services consistent with the findings and goals established in RCW 74.09.5223;
+
+(G) Evaluation and reporting on the impact of comprehensive medication management services on patient clinical outcomes and total health care costs, including reductions in emergency department utilization, hospitalization, and drug costs; and
+
+(H) Established consistent processes to incentivize integration of behavioral health services in the primary care setting, promoting care that is integrated, collaborative, colocated, and preventive.
+
+        ii.(A) Health home services contracted for under this subsection may be prioritized to enrollees with complex, high cost, or multiple chronic conditions.
+
+(B) Contracts that include the items in (e)(i)(C) through (G) of this subsection must not exceed the rates that would be paid in the absence of these provisions;
+
+    f. The authority shall seek waivers from federal requirements as necessary to implement this chapter;
+
+    g. The authority shall, wherever possible, enter into prepaid capitation contracts that include inpatient care. However, if this is not possible or feasible, the authority may enter into prepaid capitation contracts that do not include inpatient care;
+
+    h. The authority shall define those circumstances under which a managed care organization is responsible for out-of-plan services and assure that recipients shall not be charged for such services;
+
+        i. Nothing in this section prevents the authority from entering into similar agreements for other groups of people eligible to receive services under this chapter; and
+
+    j. The authority must consult with the federal center for medicare and medicaid innovation and seek funding opportunities to support health homes.
+
+3. The authority shall ensure that publicly supported community health centers and providers in rural areas, who show serious intent and apparent capability to participate as managed care organizations are seriously considered as contractors. The authority shall coordinate its managed care activities with activities under chapter 70.47 RCW.
+
+4. The authority shall work jointly with the state of Oregon and other states in this geographical region in order to develop recommendations to be presented to the appropriate federal agencies and the United States congress for improving health care of the poor, while controlling related costs.
+
+5. The legislature finds that competition in the managed health care marketplace is enhanced, in the long term, by the existence of a large number of managed care organization options for medicaid clients. In a managed care delivery system, whose goal is to focus on prevention, primary care, and improved enrollee health status, continuity in care relationships is of substantial importance, and disruption to clients and health care providers should be minimized. To help ensure these goals are met, the following principles shall guide the authority in its healthy options managed health care purchasing efforts:
+
+    a. All managed care organizations should have an opportunity to contract with the authority to the extent that minimum contracting requirements defined by the authority are met, at payment rates that enable the authority to operate as far below appropriated spending levels as possible, consistent with the principles established in this section.
+
+    b. Managed care organizations should compete for the award of contracts and assignment of medicaid beneficiaries who do not voluntarily select a contracting system, based upon:
+
+        i. Demonstrated commitment to or experience in serving low-income populations;
+
+        ii. Quality of services provided to enrollees;
+
+        iii. Accessibility, including appropriate utilization, of services offered to enrollees;
+
+        iv. Demonstrated capability to perform contracted services, including ability to supply an adequate provider network;
+
+    v. Payment rates; and
+
+    vi. The ability to meet other specifically defined contract requirements established by the authority, including consideration of past and current performance and participation in other state or federal health programs as a contractor.
+
+    c. Consideration should be given to using multiple year contracting periods.
+
+    d. Quality, accessibility, and demonstrated commitment to serving low-income populations shall be given significant weight in the contracting, evaluation, and assignment process.
+
+    e. All contractors that are regulated health carriers must meet state minimum net worth requirements as defined in applicable state laws. The authority shall adopt rules establishing the minimum net worth requirements for contractors that are not regulated health carriers. This subsection does not limit the authority of the Washington state health care authority to take action under a contract upon finding that a contractor's financial status seriously jeopardizes the contractor's ability to meet its contract obligations.
+
+    f. Procedures for resolution of disputes between the authority and contract bidders or the authority and contracting carriers related to the award of, or failure to award, a managed care contract must be clearly set out in the procurement document.
+
+6. The authority may apply the principles set forth in subsection (5) of this section to its managed health care purchasing efforts on behalf of clients receiving supplemental security income benefits to the extent appropriate.
+
+7. Any contract with a managed care organization to provide services to medical assistance enrollees shall require that managed care organizations offer contracts to mental health providers and substance use disorder treatment providers to provide access to primary care services integrated into behavioral health clinical settings, for individuals with behavioral health and medical comorbidities.
+
+8. Managed care organization contracts effective on or after April 1, 2016, shall serve geographic areas that correspond to the regional service areas established in RCW 74.09.870.
+
+9. A managed care organization shall pay a nonparticipating provider that provides a service covered under this chapter or other applicable law to the organization's enrollee no more than the lowest amount paid for that service under the managed care organization's contracts with similar providers in the state if the managed care organization has made good faith efforts to contract with the nonparticipating provider.
+
+10. For services covered under this chapter or other applicable law to medical assistance or medical care services enrollees, nonparticipating providers must accept as payment in full the amount paid by the managed care organization under subsection (9) of this section in addition to any deductible, coinsurance, or copayment that is due from the enrollee for the service provided. An enrollee is not liable to any nonparticipating provider for covered services, except for amounts due for any deductible, coinsurance, or copayment under the terms and conditions set forth in the managed care organization contract to provide services under this section.
+
+11. Pursuant to federal managed care access standards, 42 C.F.R. Sec. 438, managed care organizations must maintain a network of appropriate providers that is supported by written agreements sufficient to provide adequate access to all services covered under the contract with the authority, including hospital-based physician services. The authority will monitor and periodically report on the proportion of services provided by contracted providers and nonparticipating providers, by county, for each managed care organization to ensure that managed health care systems are meeting network adequacy requirements. No later than January 1st of each year, the authority will review and report its findings to the appropriate policy and fiscal committees of the legislature for the preceding state fiscal year.
+
+12. Managed care organization contracts or amendments effective on or after January 1, 2027, shall be required to meet network adequacy requirements established under this chapter for postacute care services, including skilled nursing facility providers licensed under chapter 18.51 RCW, rehabilitation hospitals licensed under chapter 70.41 RCW, and any other postacute care services the authority determines necessary to increase access to a full continuum of care for medicaid enrollees. The adequacy requirements included in this subsection shall be incorporated into monitoring and reporting requirements under subsection (11) of this section.
+
+13. Payments under RCW 74.60.130 are exempt from this section.

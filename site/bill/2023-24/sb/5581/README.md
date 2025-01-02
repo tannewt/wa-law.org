@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 12/30/2024 [The Center Square](/org/the_center_square/) - [Bipartisan legislation could save parents thousands of dollars in medical bills | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_678d0754-c6e3-11ef-b4a5-674e04724042.html#:~:text=SB%205581)
 * 01/26/2024 [The Seattle Times](/org/the_seattle_times/) - [How recent WA legislative changes could save you money on health care | The Seattle Times](https://www.seattletimes.com/seattle-news/health/how-recent-wa-legislative-changes-could-save-you-money-on-health-care/#:~:text=Senate%20Bill%205581)
 
 ## Meetings
