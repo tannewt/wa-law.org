@@ -224,6 +224,38 @@ async def scrape(progress, session, org_rowid, domain):
         # if len(pages) > 100:
         #     break
 
+    # Find RSS feed
+    homepage = None
+    try:
+        homepage = await session.get(url_base, fetch_again=FETCH_NEW, crawl_delay=crawl_delay)
+    except (asyncio.TimeoutError, httpx.HTTPStatusError, httpx.ConnectError) as e:
+        print(f"Unable to get homepage {url_base} {e}")
+
+    try:
+        homepage = BeautifulSoup(homepage, 'html.parser')
+    except (AssertionError, TypeError):
+        print(f"failed to parse: {url_base}")
+    if homepage:
+        rss_url = homepage.find("link", rel="alternate", type="application/rss+xml")
+        if rss_url:
+            print("rss", rss_url["href"])
+            feed = None
+
+            try:
+                feed = await session.get(url_base + rss_url["href"], fetch_again=FETCH_NEW, crawl_delay=crawl_delay, only_after=after_date)
+            except (asyncio.TimeoutError, httpx.HTTPStatusError, httpx.ConnectError) as e:
+                print(f"Unable to get homepage {url_base} {e}")
+
+            if feed:
+                # Iterate over all items and add their urls to pages.
+                feed = BeautifulSoup(feed, 'xml')
+                for item in feed.find_all("item"):
+                    link = item.find("link")
+                    if link:
+                        print(link.text)
+                        pages.add(link.text)
+        
+
     count = 0
     skipped = 0
 
@@ -241,6 +273,7 @@ async def scrape(progress, session, org_rowid, domain):
             continue
         try:
             page = await session.get(page_url, fetch_again=False, crawl_delay=crawl_delay)
+            print(f"Fetch {page_url} delay {crawl_delay}")
         except (httpx.HTTPStatusError, httpx.ReadTimeout, httpx.ConnectError, httpcore.ReadTimeout, asyncio.TimeoutError) as e:
             print(f"{e} {page_url}")
             continue
@@ -249,12 +282,12 @@ async def scrape(progress, session, org_rowid, domain):
             progress.update(task, visible=False)
             return
         if page is None:
-            # print(f"missing page {page_url}")
+            print(f"missing page {page_url}")
             continue
         try:
             page = BeautifulSoup(page, 'html.parser')
         except (AssertionError, TypeError):
-            # print(f"failed to parse: {page_url}")
+            print(f"failed to parse: {page_url}")
             continue
         canonical_url = page.find("link", rel="canonical")
         if canonical_url:

@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 01/03/2025 [The Stranger](/org/the_stranger/) - [The Stranger’s 2025 Bill Tracker  - The Stranger](https://www.thestranger.com/news/2025/01/03/79855719/the-strangers-2025-bill-tracker#:~:text=Rep.%20Lisa%20Callan)
 * 03/08/2024 [FOX13](/org/fox13/) - [Washington's new laws in 2024: Everything you need to know](https://www.fox13seattle.com/news/washingtons-new-laws-in-2024-everything-you-need-to-know#:~:text=HB%202180)
 * 02/17/2024 [The Seattle Times](/org/the_seattle_times/) - [Some bills survive, others don’t after WA Legislature chamber deadline | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/some-bills-survive-others-dont-after-wa-legislature-chamber-deadline/#:~:text=House%20Bill%202180)
 * 02/16/2024 [House Democrats](/org/house_democrats/) - [House passes five Callan bills on education, early learning, health care  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/16/house-passes-five-callan-bills-on-education-early-learning-health-care/#:~:text=House%20Bill%202180)

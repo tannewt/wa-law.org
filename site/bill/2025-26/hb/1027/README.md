@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/03/2025 [The Stranger](/org/the_stranger/) - [The Stranger’s 2025 Bill Tracker  - The Stranger](https://www.thestranger.com/news/2025/01/03/79855719/the-strangers-2025-bill-tracker#:~:text=HB%201027)
+
 ## Meetings

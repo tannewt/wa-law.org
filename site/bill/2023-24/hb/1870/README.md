@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 01/02/2025 [The Center Square](/org/the_center_square/) - [Republican rep pre-files legislation to help communities secure federal grants | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0f1e80c6-c93f-11ef-b0e3-c774d3b0af07.html#:~:text=House%20Bill%201870)
 * 02/21/2024 [House Democrats](/org/house_democrats/) - [Economic Growth, Social Cohesion, & Support for Veterans – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/21/economic-growth-social-cohesion-support-for-veterans/#:~:text=1870)
 
 ## Meetings

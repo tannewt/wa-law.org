@@ -8,6 +8,26 @@
 ## Heard bills
 
 ## Pending bills
+* [SB 5137](sb/5137) - Sex ed./parent approval - S Prefiled
+* [SB 5136](sb/5136) - Student given names - S Prefiled
+* [SB 5135](sb/5135) - Curriculum establishment - S Prefiled
+* [SB 5134](sb/5134) - Chinese Americans/schools - S Prefiled
+* [SB 5133](sb/5133) - Sentencing guide/caregivers - S Prefiled
+* [SB 5132](sb/5132) - Small claims actions notice - S Prefiled
+* [SB 5131](sb/5131) - Religious foods/correctional - S Prefiled
+* [HB 1161](hb/1161) - Veteran employability - H Prefiled
+* [HB 1160](hb/1160) - Local gov. design review - H Prefiled
+* [HB 1159](hb/1159) - Control. subst. endangerment - H Prefiled
+* [HB 1158](hb/1158) - Community inclusion services - H Prefiled
+* [HB 1157](hb/1157) - Vital records family access - H Prefiled
+* [HB 1156](hb/1156) - Volunteer firefighters/DCP - H Prefiled
+* [HB 1155](hb/1155) - Noncompetition agreements - H Prefiled
+* [HB 1154](hb/1154) - Solid waste handling - H Prefiled
+* [HB 1153](hb/1153) - Urban forest management - H Prefiled
+* [SB 5130](sb/5130) - Eliminating child care licensing fees. - S Prefiled
+* [SB 5129](sb/5129) - Concerning common interest communities. - S Prefiled
+* [SB 5128](sb/5128) - Concerning the provision of medical assistance to individuals in juvenile detention facilities. - S Prefiled
+* [SB 5127](sb/5127) - Creating additional requirements for collector vehicle and horseless carriage license plates to improve compliance and public safety. - S Prefiled
 * [HB 1152](hb/1152) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. - H Prefiled
 * [HB 1151](hb/1151) - Establishing the ninth grade success grant program. - H Prefiled
 * [HB 1150](hb/1150) - Improving Washington's solid waste management outcomes. - H Prefiled
@@ -122,7 +142,7 @@
 * [SB 5076](sb/5076) - Nonspot shrimp pot license - S Prefiled
 * [HB 1092](hb/1092) - Children/controlled sub. - H Prefiled
 * [HB 1091](hb/1091) - SVP supervision credit - H Prefiled
-* [HB 1057](hb/1057) - Access to federal funds - H Prefiled
+* [HB 1057](hb/1057) - Access to federal funds 1📰 - H Prefiled
 * [SB 5075](sb/5075) - Prenatal and postnatal care 1📰 - S Prefiled
 * [SB 5074](sb/5074) - Turfgrass seed contracts - S Prefiled
 * [SB 5073](sb/5073) - Motor vehicles sales tax use - S Prefiled
@@ -245,7 +265,7 @@
 * [HB 1030](hb/1030) - Counted ballot audits - H Prefiled
 * [HB 1029](hb/1029) - 3D-printed buildings - H Prefiled
 * [HB 1028](hb/1028) - Child exposure to violence - H Prefiled
-* [HB 1027](hb/1027) - Housing of inmates - H Prefiled
+* [HB 1027](hb/1027) - Housing of inmates 1📰 - H Prefiled
 * [HB 1026](hb/1026) - LTSS trust spousal benefits 1📰 - H Prefiled
 * [HB 1025](hb/1025) - LTSS trust exemptions 1📰 - H Prefiled
 * [SB 5019](sb/5019) - Prepacked medication distr. - S Prefiled

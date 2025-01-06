@@ -462,7 +462,7 @@
 * [SB 5850](sb/5850) - Chronically absent students 9📰 371👍 2👎 1❓ - S Rules 3
 * [HB 1720](hb/1720) - Riparian grant program 6📰 354👍 8👎 11❓ - H Cap Budget
 * [HB 2023](hb/2023) - Improving meaningful access to elections by increasing language assistance. 1📰 211👍 160👎 2❓ - H Rules 3C
-* [HB 2180](hb/2180) - Special education cap 9📰 367👍 0👎 6❓ - C 229 L 24
+* [HB 2180](hb/2180) - Special education cap 10📰 367👍 0👎 6❓ - C 229 L 24
 * [SB 5366](sb/5366) - Utility shutoffs/heat 326👍 32👎 15❓ - S Rules X
 * [SB 5452](sb/5452) - Impact fee use 301👍 71👎 0❓ - C 121 L 23
 * [SB 5320](sb/5320) - Journey level electricians 4📰 242👍 125👎 4❓ - C 95 L 23
@@ -842,7 +842,7 @@
 * [SB 5386](sb/5386) - Document recording fees 1📰 94👍 14👎 3❓ - C 277 L 23
 * [HB 2035](hb/2035) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 100👍 10👎 0❓ - H Labor & Workpl
 * [SB 5899](sb/5899) - Adding to the list of provisions prohibited from rental agreements. 63👍 44👎 3❓ - S Housing
-* [HB 1870](hb/1870) - Local comm. federal funding 1📰 106👍 2👎 1❓ - C 223 L 24
+* [HB 1870](hb/1870) - Local comm. federal funding 2📰 106👍 2👎 1❓ - C 223 L 24
 * [SB 5173](sb/5173) - Property exempt from exec. 1📰 75👍 32👎 2❓ - C 393 L 23
 * [SB 5254](sb/5254) - Leasing of state lands 98👍 10👎 1❓ - S Rules X
 * [SB 5702](sb/5702) - Student homelessness pilot 9📰 107👍 2👎 0❓ - C 339 L 23
