@@ -8,6 +8,38 @@
 ## Heard bills
 
 ## Pending bills
+* [HB 1190](hb/1190) - Allowing additional health professions to access the University of Washington health sciences library. - H Prefiled
+* [HB 1189](hb/1189) - Addressing parental involvement through volunteering in schools after a criminal conviction. - H Prefiled
+* [HB 1188](hb/1188) - Requiring local government and tribal approval of wind and solar siting recommendations by the energy facility site evaluation council. - H Prefiled
+* [HB 1187](hb/1187) - Protecting patients involved in motor vehicle accidents from delayed ambulance bills. - H Prefiled
+* [HB 1186](hb/1186) - Expanding the situations in which medications can be dispensed or delivered from hospitals and health care entities. - H Prefiled
+* [HB 1185](hb/1185) - Concerning membership on the correctional industries advisory committee. - H Prefiled
+* [HB 1184](hb/1184) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. - H Prefiled
+* [HB 1183](hb/1183) - Concerning building code and development regulation reform. - H Prefiled
+* [HB 1182](hb/1182) - Granting interest arbitration to certain parks and recreation commission employees. - H Prefiled
+* [HB 1181](hb/1181) - Concerning labor standards and the Washington minimum wage act. - H Prefiled
+* [HB 1180](hb/1180) - Implementing certain recommendations from the sex offender policy board concerning the criminal offense of failure to register. - H Prefiled
+* [HB 1179](hb/1179) - Providing a property tax valuation freeze for senior citizens and disabled veterans. - H Prefiled
+* [HB 1178](hb/1178) - Concerning sentencing enhancements. - H Prefiled
+* [HB 1177](hb/1177) - Concerning the child welfare housing assistance program. - H Prefiled
+* [HB 1176](hb/1176) - Health care/minors - H Prefiled
+* [HB 1175](hb/1175) - Small businesses/residential - H Prefiled
+* [HB 1174](hb/1174) - Court interpreters - H Prefiled
+* [SB 5140](sb/5140) - Firearm purchase - S Prefiled
+* [SB 5139](sb/5139) - Reentry council members - S Prefiled
+* [SB 5138](sb/5138) - Public facilities districts - S Prefiled
+* [HB 1173](hb/1173) - High-hazard facility wages - H Prefiled
+* [HB 1172](hb/1172) - Fire district civil service - H Prefiled
+* [HB 1171](hb/1171) - Mandated reporting/higher ed - H Prefiled
+* [HB 1170](hb/1170) - AI content notices - H Prefiled
+* [HB 1169](hb/1169) - Fabricated depictions/minors - H Prefiled
+* [HB 1168](hb/1168) - Artificial intelligence info - H Prefiled
+* [HB 1167](hb/1167) - Maritime careers task force - H Prefiled
+* [HB 1166](hb/1166) - DOC reentry education - H Prefiled
+* [HB 1165](hb/1165) - Property tax exemptions - H Prefiled
+* [HB 1164](hb/1164) - Urban growth area boundaries - H Prefiled
+* [HB 1163](hb/1163) - Firearm purchase - H Prefiled
+* [HB 1162](hb/1162) - Health care work violence - H Prefiled
 * [SB 5137](sb/5137) - Sex ed./parent approval - S Prefiled
 * [SB 5136](sb/5136) - Student given names - S Prefiled
 * [SB 5135](sb/5135) - Curriculum establishment - S Prefiled
@@ -140,7 +172,7 @@
 * [SB 5078](sb/5078) - Agricultural real estate - S Prefiled
 * [SB 5077](sb/5077) - Agency voter registration - S Prefiled
 * [SB 5076](sb/5076) - Nonspot shrimp pot license - S Prefiled
-* [HB 1092](hb/1092) - Children/controlled sub. - H Prefiled
+* [HB 1092](hb/1092) - Children/controlled sub. 1📰 - H Prefiled
 * [HB 1091](hb/1091) - SVP supervision credit - H Prefiled
 * [HB 1057](hb/1057) - Access to federal funds 1📰 - H Prefiled
 * [SB 5075](sb/5075) - Prenatal and postnatal care 1📰 - S Prefiled

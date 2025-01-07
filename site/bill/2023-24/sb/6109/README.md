@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 01/07/2025 [The Center Square](/org/the_center_square/) - [Budget deficit may mean protecting, not expanding, substance abuse treatment programs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fd0854be-cc79-11ef-9302-2b3d8c646cc8.html#:~:text=Senate%20Bill%206109,)
 * 08/18/2024 [Gorge News Center](/org/gorge_news_center/) - [Fewer Washington kids are going to foster care despite steady stream of child neglect reports](https://gorgenewscenter.com/2024/08/18/fewer-washington-kids-are-going-to-foster-care-despite-steady-stream-of-child-neglect-reports/#:~:text=Senate%20Bill%206109)
 * 08/17/2024 [Washington State Standard](/org/washington_state_standard/) - [Fewer Washington kids are going to foster care • Washington State Standard](https://washingtonstatestandard.com/2024/08/17/fewer-washington-kids-are-going-to-foster-care-despite-steady-stream-of-child-neglect-reports/#:~:text=Senate%20Bill%206109)
 * 04/03/2024 [Real Change](/org/real_change/) - [Advocates warn new CPS drug law may harm families | April 3–9, 2024 | Real Change](https://www.realchangenews.org/news/2024/04/03/advocates-warn-new-cps-drug-law-may-harm-families#:~:text=A%20new%20law)

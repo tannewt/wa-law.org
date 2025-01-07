@@ -1,0 +1,20 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1190](/bill/2025-26/hb/1190/) > [Original Bill](/bill/2025-26/hb/1190/1/)
+
+# HB 1190 - Allowing additional health professions to access the University of Washington health sciences library.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1190.pdf)
+
+## Section 1
+1. The secretary shall charge fees to the licensee for obtaining a license. Physicians regulated pursuant to chapter 18.71 RCW who reside and practice in Washington and obtain or renew a retired active license are exempt from such fees. Municipal corporations providing emergency medical care and transportation services pursuant to chapter 18.73 RCW shall be exempt from such fees, provided that such other emergency services shall only be charged for their pro rata share of the cost of licensure and inspection, if appropriate. The secretary may charge different fees for registered nurses licensed under chapter 18.79 RCW, licensed practical nurses licensed under chapter 18.79 RCW, and nurses who hold a valid multistate license issued by the state of Washington under chapter 18.80 RCW. The secretary may waive the fees when, in the discretion of the secretary, the fees would not be in the best interest of public health and safety, or when the fees would be to the financial disadvantage of the state.
+
+2. Except as provided in subsection (3) of this section, fees charged shall be based on, but shall not exceed, the cost to the department for the licensure of the activity or class of activities and may include costs of necessary inspection.
+
+3. License fees shall include amounts in addition to the cost of licensure activities in the following circumstances:
+
+    a. For registered nurses and licensed practical nurses licensed under chapter 18.79 RCW, and for nurses who hold a valid multistate license issued by the state of Washington under chapter 18.80 RCW, support of a central nursing resource center as provided in RCW 18.79.202;
+
+    b. For all health care providers licensed under RCW 18.130.040, the cost of regulatory activities for retired volunteer medical worker licensees as provided in RCW 18.130.360; and
+
+    c. For physicians licensed under chapter 18.71 RCW, physician assistants licensed under chapter 18.71A RCW, osteopathic physicians licensed under chapter 18.57 RCW, naturopaths licensed under chapter 18.36A RCW, podiatrists licensed under chapter 18.22 RCW, chiropractors licensed under chapter 18.25 RCW, psychologists and psychological associates licensed under chapter 18.83 RCW, registered nurses and licensed practical nurses licensed under chapter 18.79 RCW, nurses who hold a valid multistate license issued by the state of Washington under chapter 18.80 RCW, optometrists licensed under chapter 18.53 RCW, mental health counselors and mental health counselor associates licensed under chapter 18.225 RCW, massage therapists licensed under chapter 18.108 RCW, advanced social workers licensed under chapter 18.225 RCW, independent clinical social workers and independent clinical social worker associates licensed under chapter 18.225 RCW, midwives licensed under chapter 18.50 RCW, marriage and family therapists and marriage and family therapist associates licensed under chapter 18.225 RCW, occupational therapists and occupational therapy assistants licensed under chapter 18.59 RCW, dietitians and nutritionists certified under chapter 18.138 RCW, speech-language pathologists licensed under chapter 18.35 RCW, acupuncturists or acupuncture and Eastern medicine practitioners licensed under chapter 18.06 RCW, and veterinarians and veterinary technicians licensed under chapter 18.92 RCW, the license fees shall include up to an additional twenty-five dollars to be transferred by the department to the University of Washington for the purposes of RCW 43.70.112.
+
+4. Department of health advisory committees may review fees established by the secretary for licenses and comment upon the appropriateness of the level of such fees.

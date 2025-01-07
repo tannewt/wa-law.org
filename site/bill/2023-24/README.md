@@ -588,7 +588,7 @@
 * [SB 5893](sb/5893) - Gate money/DOC 4📰 241👍 8👎 1❓ - C 32 L 24
 * [SB 5087](sb/5087) - Defects and omissions 5📰 236👍 11👎 1❓ - C 102 L 23
 * [HB 1497](hb/1497) - Vapor and tobacco/minors 2📰 243👍 2👎 2❓ - H Reg Subst & Gam
-* [HB 1924](hb/1924) - Fusion technology policies 4📰 68👍 174👎 2❓ - C 346 L 24
+* [HB 1924](hb/1924) - Fusion technology policies 5📰 68👍 174👎 2❓ - C 346 L 24
 * [SB 5111](sb/5111) - Sick leave/construction 3📰 225👍 15👎 3❓ - C 267 L 23
 * [HB 1078](hb/1078) - Urban forest management 3📰 192👍 37👎 13❓ - H Rules X
 * [HB 2119](hb/2119) - Medical debt garnishment 2📰 57👍 185👎 0❓ - H Civil R & Judi
@@ -655,7 +655,7 @@
 * [HB 1899](hb/1899) - Wildfire reconstruction 3📰 180👍 7👎 3❓ - C 143 L 24
 * [SB 5933](sb/5933) - Infants and toddlers program 1📰 188👍 2👎 0❓ - S EL/K-12
 * [SB 6126](sb/6126) - Respite care 189👍 0👎 1❓ - S Ways & Means
-* [SB 6109](sb/6109) - Children and families 8📰 53👍 65👎 71❓ - C 328 L 24
+* [SB 6109](sb/6109) - Children and families 9📰 53👍 65👎 71❓ - C 328 L 24
 * [HB 1001](hb/1001) - Audiology & speech compact 4📰 187👍 1👎 0❓ - C 53 L 23
 * [HB 1432](hb/1432) - Juvenile justice 179👍 4👎 5❓ - H Human Svc, You
 * [HB 2244](hb/2244) - Retirement savings 2📰 53👍 131👎 4❓ - H ConsPro&Bus

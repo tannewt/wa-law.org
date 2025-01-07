@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 01/06/2025 [The Center Square](/org/the_center_square/) - [Washington bill clarifies facility siting for 'Holy Grail' of energy | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d124007e-cc64-11ef-aba2-4b687b7015d5.html#:~:text=House%20Bill%201924)
 * 07/03/2024 [Cascade PBS](/org/cascade_pbs/) - [WA ballot initiative would cut $848.6M of environmental programs | Cascade PBS](https://crosscut.com/politics/2024/07/wa-ballot-initiative-would-cut-8486m-environmental-programs#:~:text=House%20Bill%201924)
 * 07/03/2024 [Cascade PBS](/org/cascade_pbs/) - [WA ballot initiative would cut $848.6M of environmental programs | Cascade PBS](https://www.cascadepbs.org/politics/2024/07/wa-ballot-initiative-would-cut-8486m-environmental-programs#:~:text=House%20Bill%201924)
 * 03/28/2024 [The Seattle Times](/org/the_seattle_times/) - [WA Gov. Inslee signs slate of climate and environment bills into law | The Seattle Times](https://www.seattletimes.com/seattle-news/climate-lab/wa-gov-inslee-signs-slate-of-climate-and-environment-bills-into-law/#:~:text=House%20Bill%201924)
