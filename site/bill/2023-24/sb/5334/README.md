@@ -24,7 +24,7 @@
 Testifying:
 * Carl Florea - Mayor, City of Leavenworth
 * 💵Candice Bock - Association of Washington cities
-* Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 217 👎 - Con
 Testifying:
@@ -62,7 +62,7 @@ Testifying:
 #### 2 ❓ - Other
 Testifying:
 * Ruth Whittaker - Chamber of Progress
-* Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Thu 03/30 08:00 AM - Finance (FIN): ESSB 5334 Affordable housing funding
 #### 5 👍 - Pro

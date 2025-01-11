@@ -7,3 +7,17 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/13 01:30 PM - Housing (HOUS): HB 1003 Service of notice/tenants
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161190&caId=24654&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161190&caId=24654&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161190&caId=24654&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161190&caId=24654&tId=4)
+
+#### 4 👍 - Pro
+Testifying:
+* Daniel Wulfkuhle
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other

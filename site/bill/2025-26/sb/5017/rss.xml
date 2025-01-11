@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5017/</link>
 		<description>Updates about SB 5017</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 09 Dec 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 10 Jan 2025 09:04:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,30 @@
 			<pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-12-09/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👎Lorilee Gates - Office of Secretary of State</title>
+			<description>Lorilee Gates signed up to testify Con.</description>
+			<pubDate>Thu, 09 Jan 2025 01:38:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Lorilee/Gates/2025-01-09 01:38:50</guid>
+		</item>
+		<item>
+			<title>👍Mary Hall - Thurston County Auditor</title>
+			<description>Mary Hall signed up to testify Pro. They are signed up to represent Thurston County Auditor.</description>
+			<pubDate>Fri, 10 Jan 2025 03:47:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mary/Hall/2025-01-10 03:47:34</guid>
+		</item>
+		<item>
+			<title>👍Steve Hobbs - Office of Secretary of State</title>
+			<description>Steve Hobbs signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/office_of_secretary_of_state/"&gt;Office of Secretary of State&lt;/a&gt;.</description>
+			<pubDate>Fri, 10 Jan 2025 09:04:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Steve/Hobbs/2025-01-10 09:04:02</guid>
 		</item>
 	</channel>
 </rss>

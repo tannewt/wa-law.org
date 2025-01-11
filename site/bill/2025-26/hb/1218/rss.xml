@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1218 - Concerning persons referred for competency evaluation and restoration services.</title>
+		<link>https://wa-law.org/bill/2025-26/hb/1218/</link>
+		<description>Updates about HB 1218</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 10 Jan 2025 03:38:54 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-09/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Amber Leaders - Office of Governor Jay Inslee</title>
+			<description>Amber Leaders signed up to testify Pro. They are signed up to represent Office of Governor Jay Inslee.</description>
+			<pubDate>Fri, 10 Jan 2025 03:38:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amber/Leaders/2025-01-10 03:38:54</guid>
+		</item>
+	</channel>
+</rss>

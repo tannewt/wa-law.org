@@ -12,6 +12,7 @@
 
 ## 📰 Articles
 * 03/21/2024 [Sightline Institute](/org/sightline_institute/) - [Washingtonians Will Soon Enjoy Cleaner Heating and Cooling Options - Sightline Institute](https://www.sightline.org/2024/03/21/washingtonians-will-soon-enjoy-cleaner-heating-and-cooling-options/#:~:text=Senate%20Bill%206039)
+* 05/18/2000 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/#:~:text=Senate%20Bill%206039)
 
 ## Meetings
 ### Fri 02/23 08:00 AM - Capital Budget (CB): ESSB 6039 Geothermal energy resources

@@ -15,7 +15,7 @@
 * [SB 5599](sb/5599) - Protected health care/youth 36📰 569👍 9854👎 28❓ - C 408 L 23
 * [SB 5078](sb/5078) - Firearm industry duties 24📰 3527👍 6551👎 3❓ - C 163 L 23
 * [HB 1038](hb/1038) - Anesthesiologist assistants 1📰 2398👍 6105👎 38❓ - H HC/Wellness
-* [SB 5770](sb/5770) - Property tax 35📰 516👍 7579👎 203❓ - S Rules X
+* [SB 5770](sb/5770) - Property tax 36📰 516👍 7579👎 203❓ - S Rules X
 * [HB 1110](hb/1110) - Middle housing 93📰 5098👍 1228👎 53❓ - C 332 L 23
 * [SB 5232](sb/5232) - Firearms/purchase & transfer 7📰 1782👍 4345👎 2❓ - S Ways & Means
 * [HB 1333](hb/1333) - Domestic violent extremism 5📰 253👍 5451👎 12❓ - H Rules X
@@ -54,7 +54,7 @@
 * [SB 5536](sb/5536) - Controlled substances 71📰 365👍 2530👎 81❓ - C 1 L 23 E1
 * [HB 1655](hb/1655) - Provider contract comp. 2939👍 10👎 12❓ - H Approps
 * [HB 1628](hb/1628) - Real estate excise tax 17📰 1357👍 1518👎 5❓ - H Rules X
-* [HB 1985](hb/1985) - PERS/TRS 1 benefit increase 6📰 2527👍 293👎 16❓ - C 255 L 24
+* [HB 1985](hb/1985) - PERS/TRS 1 benefit increase 7📰 2527👍 293👎 16❓ - C 255 L 24
 * [HB 1589](hb/1589) - Clean energy 80📰 542👍 2183👎 42❓ - C 351 L 24
 * [SB 5466](sb/5466) - Transit-oriented development 37📰 2545👍 46👎 35❓ - S Rules X
 * [HB 1391](hb/1391) - Energy in buildings 6📰 2075👍 529👎 20❓ - H Rules 3C
@@ -90,7 +90,7 @@
 * [SB 5990](sb/5990) - Env. justice/SEPA projects 1330👍 641👎 13❓ - S Environment, E
 * [SB 5963](sb/5963) - Deadly weapons insurance 6📰 786👍 1179👎 1❓ - S Law & Justice
 * [SB 6052](sb/6052) - Petroleum product supply 10📰 1016👍 945👎 5❓ - S Ways & Means
-* [HB 1433](hb/1433) - Energy labeling/residential 5📰 1338👍 600👎 3❓ - H Rules 3C
+* [HB 1433](hb/1433) - Energy labeling/residential 6📰 1338👍 600👎 3❓ - H Rules 3C
 * [HB 1085](hb/1085) - Plastic pollution 5📰 1707👍 221👎 8❓ - C 135 L 23
 * [SB 5838](sb/5838) - AI task force 20📰 264👍 1592👎 28❓ - C 163 L 24
 * [HB 1151](hb/1151) - Fertility services coverage 2📰 1753👍 115👎 2❓ - H Rules X
@@ -106,7 +106,7 @@
 * [SB 6264](sb/6264) - Competency-based education 3📰 41👍 1640👎 4❓ - S Rules 3
 * [HB 2276](hb/2276) - Housing/taxes 15📰 1372👍 291👎 6❓ - H Rules R
 * [SB 5882](sb/5882) - Prototypical school staffing 7📰 773👍 871👎 16❓ - C 191 L 24
-* [HB 1363](hb/1363) - Vehicular pursuits 43📰 706👍 938👎 14❓ - H Rules X
+* [HB 1363](hb/1363) - Vehicular pursuits 44📰 706👍 938👎 14❓ - H Rules X
 * [SB 6161](sb/6161) - Provider contract comp. 1644👍 6👎 5❓ - S Health & Long
 * [SB 5738](sb/5738) - LeMay special license plate 1625👍 1👎 11❓ - S Transportation
 * [SB 6269](sb/6269) - Alt. voter verification 208👍 1413👎 2❓ - C 138 L 24
@@ -259,7 +259,7 @@
 * [HB 2051](hb/2051) - Reducing emissions from small off-road engines. 4📰 269👍 466👎 10❓ - H Env & Energy
 * [HB 1559](hb/1559) - Postsecondary student needs 13📰 639👍 102👎 0❓ - C 421 L 23
 * [SB 5667](sb/5667) - Forestry riparian easements 2📰 728👍 9👎 3❓ - C 158 L 24
-* [HB 1245](hb/1245) - Lot splitting 37📰 488👍 241👎 7❓ - H Rules 3C
+* [HB 1245](hb/1245) - Lot splitting 38📰 488👍 241👎 7❓ - H Rules 3C
 * [HB 1332](hb/1332) - Tribes/K-12 instruction 9📰 360👍 373👎 3❓ - H Rules 3C
 * [SB 6143](sb/6143) - Salmon habitat planning 176👍 556👎 3❓ - S Ag/Water/Natur
 * [HB 2007](hb/2007) - Cash assistance time limits 8📰 340👍 389👎 3❓ - C 181 L 24
@@ -267,7 +267,7 @@
 * [HB 1569](hb/1569) - Common interest communities 9👍 711👎 5❓ - H Approps
 * [HB 2103](hb/2103) - Large port districts 7📰 332👍 374👎 1❓ - H Local Govt
 * [SB 5459](sb/5459) - Election info. requests 4📰 58👍 646👎 3❓ - C 404 L 23
-* [SB 5950](sb/5950) - Operating budget, supp. 7📰 105👍 442👎 159❓ - C 376 L 24
+* [SB 5950](sb/5950) - Operating budget, supp. 12📰 105👍 442👎 159❓ - C 376 L 24
 * [SB 5562](sb/5562) - Clean energy 4📰 347👍 342👎 14❓ - S Ways & Means
 * [HB 2309](hb/2309) - Washington 13 free guarantee 6📰 210👍 480👎 5❓ - H Approps
 * [SB 6118](sb/6118) - Vapor product directory 63👍 625👎 7❓ - S Ways & Means
@@ -377,7 +377,7 @@
 * [HB 1177](hb/1177) - Indigenous women 18📰 488👍 0👎 3❓ - C 104 L 23
 * [SB 5094](sb/5094) - Water system plans/climate 1📰 404👍 86👎 0❓ - S Rules X
 * [SB 5467](sb/5467) - Controlled sub. possession 2📰 223👍 260👎 6❓ - S Law & Justice
-* [HB 1044](hb/1044) - Capital assistance/schools 12📰 216👍 270👎 0❓ - H Rules 3C
+* [HB 1044](hb/1044) - Capital assistance/schools 13📰 216👍 270👎 0❓ - H Rules 3C
 * [HB 1564](hb/1564) - OTC sexual assault kits 16📰 346👍 139👎 1❓ - C 296 L 23
 * [HB 2038](hb/2038) - Public school transfer data 3📰 18👍 462👎 5❓ - H Rules X
 * [HB 1024](hb/1024) - Incarcerated persons/labor 5📰 469👍 11👎 4❓ - H Rules X
@@ -422,7 +422,7 @@
 * [HB 1686](hb/1686) - Salmon recovery 1📰 143👍 282👎 0❓ - H Rules X
 * [SB 5451](sb/5451) - Long sentences review 2📰 417👍 5👎 0❓ - S Law & Justice
 * [HB 1525](hb/1525) - Apprenticeships/child care 2📰 420👍 0👎 0❓ - C 294 L 23
-* [SB 5020](sb/5020) - Education at 6 years of age 4📰 10👍 409👎 1❓ - S Ways & Means
+* [SB 5020](sb/5020) - Education at 6 years of age 5📰 10👍 409👎 1❓ - S Ways & Means
 * [SB 6231](sb/6231) - Hostile architecture 3📰 10👍 406👎 2❓ - S Loc Gov, Land
 * [HB 2124](hb/2124) - Child care prg. eligibility 4📰 363👍 51👎 2❓ - C 282 L 24
 * [HB 1956](hb/1956) - Substance use prevention ed. 10📰 411👍 2👎 2❓ - C 201 L 24
@@ -462,7 +462,7 @@
 * [SB 5850](sb/5850) - Chronically absent students 9📰 371👍 2👎 1❓ - S Rules 3
 * [HB 1720](hb/1720) - Riparian grant program 6📰 354👍 8👎 11❓ - H Cap Budget
 * [HB 2023](hb/2023) - Improving meaningful access to elections by increasing language assistance. 1📰 211👍 160👎 2❓ - H Rules 3C
-* [HB 2180](hb/2180) - Special education cap 10📰 367👍 0👎 6❓ - C 229 L 24
+* [HB 2180](hb/2180) - Special education cap 11📰 367👍 0👎 6❓ - C 229 L 24
 * [SB 5366](sb/5366) - Utility shutoffs/heat 326👍 32👎 15❓ - S Rules X
 * [SB 5452](sb/5452) - Impact fee use 301👍 71👎 0❓ - C 121 L 23
 * [SB 5320](sb/5320) - Journey level electricians 4📰 242👍 125👎 4❓ - C 95 L 23
@@ -580,7 +580,7 @@
 * [SB 5263](sb/5263) - Psilocybin 3📰 190👍 33👎 30❓ - C 364 L 23
 * [SB 5474](sb/5474) - Juvenile justice 1📰 235👍 11👎 7❓ - S Ways & Means
 * [SB 5703](sb/5703) - College grant/bridge grants 3📰 253👍 0👎 0❓ - S Ways & Means
-* [SB 6038](sb/6038) - Child care tax preference 250👍 2👎 1❓ - C 195 L 24
+* [SB 6038](sb/6038) - Child care tax preference 1📰 250👍 2👎 1❓ - C 195 L 24
 * [HB 2126](hb/2126) - Rural area ADUs 4📰 71👍 181👎 0❓ - H Rules X
 * [HB 1694](hb/1694) - Home care workforce shortage 246👍 1👎 4❓ - C 424 L 23
 * [HB 2116](hb/2116) - Pharmacist prescriptive auth 1📰 171👍 79👎 1❓ - H HC/Wellness
@@ -615,11 +615,11 @@
 * [HB 2348](hb/2348) - County hospital funding 5📰 71👍 146👎 0❓ - C 361 L 24
 * [SB 5390](sb/5390) - Establishing a programmatic safe harbor agreement on forestlands. 188👍 29👎 0❓ - C 119 L 23
 * [SB 5960](sb/5960) - Prescription labels/abortion 1📰 197👍 20👎 0❓ - S Rules X
-* [HB 1351](hb/1351) - Minimum parking requirements 10📰 194👍 20👎 2❓ - H Local Govt
+* [HB 1351](hb/1351) - Minimum parking requirements 11📰 194👍 20👎 2❓ - H Local Govt
 * [SB 5256](sb/5256) - Child welfare housing 3📰 214👍 2👎 0❓ - C 321 L 23
 * [SB 5129](sb/5129) - Nuclear reactor technology 59👍 155👎 1❓ - S Rules X
 * [SB 5392](sb/5392) - Concerning overpayments for certain matters. 208👍 2👎 3❓ - C 278 L 23
-* [HB 1633](hb/1633) - Homes for heroes program 8📰 211👍 0👎 1❓ - H Cap Budget
+* [HB 1633](hb/1633) - Homes for heroes program 9📰 211👍 0👎 1❓ - H Cap Budget
 * [HB 1999](hb/1999) - Fabricated intimate images 14📰 201👍 10👎 1❓ - C 88 L 24
 * [SB 5368](sb/5368) - Stay-at-work program 43👍 160👎 8❓ - S Rules 3
 * [HB 1164](hb/1164) - Appliance management 180👍 28👎 2❓ - H Env & Energy
@@ -638,7 +638,7 @@
 * [SB 5727](sb/5727) - Common int. comms./consumers 10👍 192👎 2❓ - S Law & Justice
 * [SB 5777](sb/5777) - Unemp ins/strikes & lockouts 3📰 181👍 21👎 1❓ - S Rules X
 * [SB 5494](sb/5494) - Freight railroad infra. 195👍 4👎 3❓ - S Ways & Means
-* [SB 6039](sb/6039) - Geothermal energy resources 1📰 195👍 2👎 5❓ - C 350 L 24
+* [SB 6039](sb/6039) - Geothermal energy resources 2📰 195👍 2👎 5❓ - C 350 L 24
 * [HB 1125](hb/1125) - Transportation budget 10📰 85👍 20👎 94❓ - C 472 L 23
 * [HB 2425](hb/2425) - Rental support program 5📰 175👍 18👎 6❓ - H Housing
 * [SB 5000](sb/5000) - Americans of Chinese descent 1📰 194👍 1👎 3❓ - C 357 L 23
@@ -655,12 +655,12 @@
 * [HB 1899](hb/1899) - Wildfire reconstruction 3📰 180👍 7👎 3❓ - C 143 L 24
 * [SB 5933](sb/5933) - Infants and toddlers program 1📰 188👍 2👎 0❓ - S EL/K-12
 * [SB 6126](sb/6126) - Respite care 189👍 0👎 1❓ - S Ways & Means
-* [SB 6109](sb/6109) - Children and families 9📰 53👍 65👎 71❓ - C 328 L 24
+* [SB 6109](sb/6109) - Children and families 11📰 53👍 65👎 71❓ - C 328 L 24
 * [HB 1001](hb/1001) - Audiology & speech compact 4📰 187👍 1👎 0❓ - C 53 L 23
 * [HB 1432](hb/1432) - Juvenile justice 179👍 4👎 5❓ - H Human Svc, You
 * [HB 2244](hb/2244) - Retirement savings 2📰 53👍 131👎 4❓ - H ConsPro&Bus
 * [HB 1522](hb/1522) - Sexual misconduct/assocs. 2📰 165👍 18👎 4❓ - C 79 L 23
-* [HB 1615](hb/1615) - Education savings accounts 7📰 172👍 15👎 0❓ - H Education
+* [HB 1615](hb/1615) - Education savings accounts 8📰 172👍 15👎 0❓ - H Education
 * [SB 5480](sb/5480) - Work-limiting disability 2📰 187👍 0👎 0❓ - S Ways & Means
 * [HB 1504](hb/1504) - Elementary school recess 6📰 181👍 1👎 4❓ - H Rules X
 * [HB 1976](hb/1976) - Changing the incentive structure for tier 1 and tier 2 buildings. 2📰 183👍 1👎 2❓ - C 85 L 24
@@ -675,7 +675,7 @@
 * [HB 1635](hb/1635) - Police dogs/liability 10📰 38👍 142👎 0❓ - C 305 L 24
 * [HB 1568](hb/1568) - Long-term care professionals 1📰 169👍 6👎 4❓ - H Rules X
 * [HB 1050](hb/1050) - Apprenticeship utilization 3📰 122👍 46👎 10❓ - C 342 L 23
-* [HB 1175](hb/1175) - Petroleum storage tanks 1📰 48👍 127👎 2❓ - C 170 L 23
+* [HB 1175](hb/1175) - Petroleum storage tanks 2📰 48👍 127👎 2❓ - C 170 L 23
 * [SB 5559](sb/5559) - Student restraint, isolation 6📰 149👍 20👎 7❓ - S EL/K-12
 * [SB 5128](sb/5128) - Jury diversity 1📰 141👍 32👎 2❓ - C 316 L 23
 * [SB 5953](sb/5953) - Incarcerated student grants 1📰 100👍 70👎 4❓ - C 272 L 24
@@ -883,7 +883,7 @@
 * [SB 5622](sb/5622) - Municipal water supply 35👍 65👎 0❓ - S Ag/Water/Natur
 * [SB 6230](sb/6230) - Tax increment areas 68👍 32👎 0❓ - S Loc Gov, Land
 * [HB 1067](hb/1067) - High-hazard facility wages 55👍 44👎 0❓ - H Rules X
-* [HB 1446](hb/1446) - Law enf. officers/increase 4📰 95👍 4👎 0❓ - H Local Govt
+* [HB 1446](hb/1446) - Law enf. officers/increase 5📰 95👍 4👎 0❓ - H Local Govt
 * [HB 1551](hb/1551) - Lead in cookware 6📰 86👍 1👎 12❓ - C 340 L 24
 * [HB 1797](hb/1797) - Real estate appraisers/eval. 1📰 97👍 0👎 2❓ - C 464 L 23
 * [HB 2128](hb/2128) - Certificate of need program 92👍 0👎 7❓ - H Rules 3C
@@ -908,7 +908,7 @@
 * [SB 6178](sb/6178) - Midwives/prescriptive auth. 92👍 2👎 0❓ - C 102 L 24
 * [HB 1018](hb/1018) - Hog fuel/tax exemption 2📰 27👍 64👎 2❓ - C 341 L 23
 * [HB 1752](hb/1752) - Modifying the application of the annual consumptive quantity calculation to change applications related to certain water rights held by the United States bureau of reclamation. 1📰 90👍 1👎 2❓ - C 108 L 24
-* [HB 2179](hb/2179) - Child care local licensing 2📰 83👍 9👎 1❓ - H Human Svc, You
+* [HB 2179](hb/2179) - Child care local licensing 3📰 83👍 9👎 1❓ - H Human Svc, You
 * [HB 2187](hb/2187) - Water/family farms 77👍 14👎 2❓ - H Ag&Nr
 * [SB 5440](sb/5440) - Competency evaluations 2📰 25👍 42👎 26❓ - C 453 L 23
 * [HB 1795](hb/1795) - Estate tax 3📰 31👍 59👎 2❓ - H Finance
@@ -950,7 +950,7 @@
 * [SB 5632](sb/5632) - Labor disputes/health care 3📰 51👍 32👎 0❓ - C 263 L 24
 * [HB 1342](hb/1342) - Embodied carbon reductions 51👍 25👎 6❓ - H Cap Budget
 * [HB 2465](hb/2465) - State building code council 79👍 0👎 3❓ - H Rules X
-* [SB 6076](sb/6076) - Criminal justice local tax 2📰 41👍 41👎 0❓ - S Ways & Means
+* [SB 6076](sb/6076) - Criminal justice local tax 3📰 41👍 41👎 0❓ - S Ways & Means
 * [HB 1543](hb/1543) - Horse program/Coyote Ridge 1📰 81👍 0👎 0❓ - H Rules X
 * [HB 1781](hb/1781) - Boater safety and education 3👍 77👎 1❓ - H Innov, Comm &
 * [SB 5230](sb/5230) - Extended foster care 3📰 72👍 7👎 2❓ - S Ways & Means
@@ -973,7 +973,7 @@
 * [HB 2290](hb/2290) - Untreated sewage discharges 1📰 70👍 4👎 3❓ - H Env & Energy
 * [SB 5380](sb/5380) - Clean energy siting 2📰 59👍 9👎 9❓ - S Ways & Means
 * [SB 5730](sb/5730) - Vehicle residences/impound 28👍 36👎 13❓ - S Housing
-* [HB 1401](hb/1401) - Housing permit process 10📰 74👍 1👎 1❓ - H Housing
+* [HB 1401](hb/1401) - Housing permit process 11📰 74👍 1👎 1❓ - H Housing
 * [HB 1519](hb/1519) - Local project review 2📰 71👍 1👎 4❓ - H Rules X
 * [HB 2018](hb/2018) - Improving student outcomes by restricting mobile device use by public school students. 9📰 62👍 11👎 3❓ - H Approps
 * [SB 5531](sb/5531) - Milk product haulers 72👍 4👎 0❓ - C 281 L 23
@@ -984,7 +984,7 @@
 * [SB 5539](sb/5539) - Tax increment financing 73👍 1👎 1❓ - S Ways & Means
 * [SB 5821](sb/5821) - Audio-only telemedicine 1📰 69👍 4👎 2❓ - C 215 L 24
 * [SB 6281](sb/6281) - Reforestation grants 72👍 1👎 2❓ - S Ways & Means
-* [HB 1716](hb/1716) - Child care B&O credit 4📰 67👍 6👎 1❓ - H Finance
+* [HB 1716](hb/1716) - Child care B&O credit 5📰 67👍 6👎 1❓ - H Finance
 * [HB 2217](hb/2217) - Juvenile criminal offenses 5📰 62👍 11👎 1❓ - C 117 L 24
 * [SB 5118](sb/5118) - Multifamily property tax ex. 3📰 27👍 36👎 11❓ - S Ways & Means
 * [SB 5523](sb/5523) - Forensic pathologists 2📰 73👍 1👎 0❓ - C 442 L 23
@@ -1732,7 +1732,7 @@
 * [HB 1005](hb/1005) - Military/employer tax incen. 13👍 0👎 1❓ - H Rules C
 * [HB 1159](hb/1159) - Interstate cannabis agrmts. 7👍 7👎 0❓ - H Rules X
 * [HB 1289](hb/1289) - Opportunity scholarship 14👍 0👎 0❓ - C 176 L 23
-* [HB 1380](hb/1380) - Law enf. officer funding 7📰 13👍 1👎 0❓ - H Approps
+* [HB 1380](hb/1380) - Law enf. officer funding 8📰 13👍 1👎 0❓ - H Approps
 * [HB 1558](hb/1558) - Self-insured pensions/fund 14👍 0👎 0❓ - H Approps
 * [HB 1634](hb/1634) - Residential insurance 10👍 0👎 4❓ - H ConsPro&Bus
 * [HB 1733](hb/1733) - Nursing degrees 11👍 3👎 0❓ - H Postsec Ed & W
@@ -2166,7 +2166,7 @@
 * [SB 6318](sb/6318) - Child sexual abuse - S Human Services
 * [SB 6317](sb/6317) - American dream homes - S Loc Gov, Land U
 * [HB 2499](hb/2499) - Agricultural land - H Env & Energy
-* [HB 2498](hb/2498) - Ferry system emergency decl. 1📰 - H Transportation
+* [HB 2498](hb/2498) - Ferry system emergency decl. 2📰 - H Transportation
 * [HB 2496](hb/2496) - Ferry captains - H Transportation
 * [HB 2492](hb/2492) - Ferries 75 commission - H Transportation
 * [SB 6314](sb/6314) - Social studies instruction - S EL/K-12
@@ -2202,7 +2202,7 @@
 * [HB 2436](hb/2436) - Local sales and use tax 1📰 - H Local Govt
 * [HB 2435](hb/2435) - TikTok ban 1📰 - H ConsPro&Bus
 * [HB 2432](hb/2432) - Facility district taxing - H Local Govt
-* [HB 2439](hb/2439) - Personal income taxes 1📰 - H Finance
+* [HB 2439](hb/2439) - Personal income taxes 2📰 - H Finance
 * [SB 6293](sb/6293) - Law enf. officers/deception - S Law & Justice
 * [SB 6292](sb/6292) - Eid al-Fitr and Hannukah - S State Govt & E
 * [SB 6290](sb/6290) - Agricultural real estate - S Law & Justice
@@ -2258,7 +2258,7 @@
 * [HB 2402](hb/2402) - Fire srv. training account - H Approps
 * [HB 2399](hb/2399) - School library complaints - H Education
 * [HB 2388](hb/2388) - Clean energy fund - H Cap Budget
-* [HB 2387](hb/2387) - Schools/classified alloc. 4📰 - H Approps
+* [HB 2387](hb/2387) - Schools/classified alloc. 5📰 - H Approps
 * [HB 2380](hb/2380) - Paraeducator compensation - H Approps
 * [SB 6207](sb/6207) - Office of indep. invest. - S Law & Justice
 * [SB 6193](sb/6193) - Rangeland fire pilot - S Ag/Water/Natura
@@ -2272,7 +2272,7 @@
 * [HB 2328](hb/2328) - Small fire districts/leave - H Labor & Workpl
 * [HB 2327](hb/2327) - Digital equity/revenue - H Finance
 * [HB 2326](hb/2326) - High school/AP, IB, CIE exam - H Approps
-* [HB 2324](hb/2324) - Narcotics enforcement 2📰 - H Community Safe
+* [HB 2324](hb/2324) - Narcotics enforcement 3📰 - H Community Safe
 * [SB 6214](sb/6214) - Animal cruelty/seriousness 1📰 - S Law & Justice
 * [SB 6188](sb/6188) - Aerial firefighting/permits 1📰 - S Environment, En
 * [SB 6184](sb/6184) - Deepfake AI material/minors - S Law & Justice
@@ -2291,7 +2291,7 @@
 * [HB 2314](hb/2314) - Health care/confinement - H HC/Wellness
 * [HB 2305](hb/2305) - Tribal warrants 1📰 - H Community Safe
 * [HB 2304](hb/2304) - UW primate research center - H Postsec Ed & W
-* [HB 2300](hb/2300) - Child care qualifications 1📰 - H Human Svc, You
+* [HB 2300](hb/2300) - Child care qualifications 2📰 - H Human Svc, You
 * [HB 2298](hb/2298) - Climate equity campus - H Postsec Ed & W
 * [SB 6204](sb/6204) - Curriculum establishment - S EL/K-12
 * [SB 6149](sb/6149) - Kimchi day - S State Govt & E
@@ -2357,7 +2357,7 @@
 * [HB 2222](hb/2222) - Controlled sub. endangerment 1📰 - H Community Safe
 * [HB 2220](hb/2220) - Violent offenses - H Community Safe
 * [HB 2212](hb/2212) - School admin. allocations - H Approps
-* [HB 2202](hb/2202) - Local public defense costs 2📰 - H Approps
+* [HB 2202](hb/2202) - Local public defense costs 3📰 - H Approps
 * [HB 2198](hb/2198) - School facility temperatures - H Education
 * [SB 6131](sb/6131) - Definition of employee - S Labor & Comm
 * [SB 6086](sb/6086) - Supervision compliance - S Human Services
@@ -2399,7 +2399,7 @@
 * [HB 2148](hb/2148) - Concerning a comparable wage analysis of public school staff compensation. - H Education
 * [HB 2146](hb/2146) - Supporting students who are chronically absent and at risk for not graduating high school. - H Education
 * [HB 2143](hb/2143) - Providing information related to the human rights records of nations that export crude oil to Washington. - H Env & Energy
-* [HB 2142](hb/2142) - Reading coaches grants 1📰 - H Education
+* [HB 2142](hb/2142) - Reading coaches grants 2📰 - H Education
 * [HB 2137](hb/2137) - Concerning technical changes to allowable exemptions for tourism promotion area assessments. - C 68 L 24
 * [HB 2123](hb/2123) - Running start for the trades - H Education
 * [HB 2121](hb/2121) - Special education hearings - H Education
@@ -2418,7 +2418,7 @@
 * [HB 2067](hb/2067) - Congenital cytomegalovirus - H HC/Wellness
 * [HB 2064](hb/2064) - Providing for an exemption from the real estate excise tax for transfers of property to qualifying low-income first-time homebuyers. - H Finance
 * [HB 2042](hb/2042) - Requiring applicants seeking energy facility site certification for an energy facility that generates electricity using renewable resources to provide evidence of an adequate water supply for the project. 1📰 - H Env & Energy
-* [HB 2040](hb/2040) - Concerning carbon auction rebate payments. 3📰 - H Transportation
+* [HB 2040](hb/2040) - Concerning carbon auction rebate payments. 4📰 - H Transportation
 * [SB 5918](sb/5918) - Concerning the allocation of allowances under chapter 70A.65 RCW, the Washington climate commitment act. - S Environment, En
 * [SB 5916](sb/5916) - Reinstating the indigent defense task force. 3📰 - S Law & Justice
 * [SB 5914](sb/5914) - Concerning activities in which the office of public defense may engage without violating the prohibition on providing direct representation of clients. - S Law & Justice
@@ -2426,7 +2426,7 @@
 * [HB 2050](hb/2050) - Concerning the posting of information about government policies that impact motor vehicle fuel price at fuel pumps. 2📰 - H Transportation
 * [HB 2047](hb/2047) - Allowing employers to screen candidates for cannabis use when hiring for certain positions involving services to persons with substance use disorder. - H Labor & Workpl
 * [SB 5905](sb/5905) - Concerning certification, background checks, and training requirements for sheriffs, police chiefs, marshals, reserve officers, and volunteers. - S Law & Justice
-* [HB 2033](hb/2033) - Creating a rent relief incentive program. 2📰 - H Housing
+* [HB 2033](hb/2033) - Creating a rent relief incentive program. 3📰 - H Housing
 * [HB 2029](hb/2029) - Concerning opioid overdose reversal medication in high schools. - H Education
 * [HB 2024](hb/2024) - Concerning flexible work policies for law enforcement officers and participation in the law enforcement officers' and firefighters' retirement system plan 2. - H Community Safe
 * [SB 5896](sb/5896) - Extending the terms of eligibility for financial aid programs. - S Higher Ed & Wor
@@ -2570,7 +2570,7 @@
 * [HB 1718](hb/1718) - Parks/health & wellness - H HC/Wellness
 * [HB 1710](hb/1710) - Tutoring & extended learning 1📰 - H Approps
 * [HB 1708](hb/1708) - Ballots/online portal - H State Govt & T
-* [HB 1704](hb/1704) - Sales and use tax rate 8📰 - H Finance
+* [HB 1704](hb/1704) - Sales and use tax rate 9📰 - H Finance
 * [HB 1703](hb/1703) - Local property tax levies - H Local Govt
 * [SB 5676](sb/5676) - Behavioral health siting - S Health & Long T
 * [SB 5643](sb/5643) - Personal data rights charter - S Environment, E
@@ -2651,7 +2651,7 @@
 * [SB 5511](sb/5511) - K-12 education funding 1📰 - S EL/K-12
 * [SB 5510](sb/5510) - Vehicle inspection backlog - S Transportation
 * [HB 1523](hb/1523) - Agricultural overtime - H Labor & Workpl
-* [HB 1520](hb/1520) - Fentanyl 1📰 - H Community Safe
+* [HB 1520](hb/1520) - Fentanyl 2📰 - H Community Safe
 * [HB 1502](hb/1502) - PFML job protection study - H Labor & Workpl
 * [HB 1496](hb/1496) - Naselle Youth Camp property - H State Govt & T
 * [HB 1495](hb/1495) - ARNP, PA, & MD reimbursement - H HC/Wellness
@@ -2660,7 +2660,7 @@
 * [SB 5521](sb/5521) - RV & park trailers/insignia - S Labor & Comm
 * [HB 1463](hb/1463) - State employee transport. - H State Govt & T
 * [HB 1461](hb/1461) - Eastern WA law enf. training - H Community Safe
-* [HB 1456](hb/1456) - Definition of theft 7📰 - H Community Safe
+* [HB 1456](hb/1456) - Definition of theft 13📰 - H Community Safe
 * [SB 5500](sb/5500) - Aircraft maintenance/tax - S Ways & Means
 * [HB 1483](hb/1483) - Providing property tax relief by reducing both parts of the state school levies. 5📰 - H Finance
 * [HB 1472](hb/1472) - Motor vehicle sales tax - H Approps
@@ -2670,7 +2670,7 @@
 * [HB 1429](hb/1429) - Educational employee strikes - H Labor & Workpla
 * [HB 1434](hb/1434) - DOH facilities/enforcement - H HC/Wellness
 * [HB 1423](hb/1423) - Trust land transfer program - H Cap Budget
-* [HB 1415](hb/1415) - Controlled sub. possession 9📰 - H Community Safe
+* [HB 1415](hb/1415) - Controlled sub. possession 15📰 - H Community Safe
 * [HB 1410](hb/1410) - Hate crimes & bias incidents 3📰 - H Civil R & Judi
 * [HB 1409](hb/1409) - Building code classif. - H Local Govt
 * [HB 1404](hb/1404) - State building code council - H Local Govt
@@ -2692,7 +2692,7 @@
 * [HB 1382](hb/1382) - Comm. transition services - H Human Svc, You
 * [HB 1379](hb/1379) - Health provider contracting 3📰 - H HC/Wellness
 * [HB 1376](hb/1376) - School practice standards - H Education
-* [HB 1373](hb/1373) - Illegal encampment removal 8📰 - H Housing
+* [HB 1373](hb/1373) - Illegal encampment removal 12📰 - H Housing
 * [HB 1372](hb/1372) - Electrification/gas emission - H State Govt & T
 * [HB 1366](hb/1366) - First-time home buyers - H Cap Budget
 * [SB 5354](sb/5354) - Social worker licensing - S Health & Long
@@ -2788,12 +2788,12 @@
 * [SB 5244](sb/5244) - Second amendment/legislators - S State Govt & El
 * [HB 1034](hb/1034) - Fur farming - H Ag&Nr
 * [HB 1029](hb/1029) - Vaccine mandate reemployment - H Labor & Workpl
-* [HB 1011](hb/1011) - Long-term care/repeal 11📰 - H HC/Wellness
+* [HB 1011](hb/1011) - Long-term care/repeal 12📰 - H HC/Wellness
 * [HB 1190](hb/1190) - Climate funding/outdoor rec. 1📰 - H Env & Energy
 * [HB 1183](hb/1183) - Vehicle emissions standards - H Env & Energy
 * [HB 1180](hb/1180) - Firearms/assault weapons 1📰 - H Civil R & Judi
 * [HB 1172](hb/1172) - Working fam. fiscal impacts - H Approps
-* [HB 1162](hb/1162) - Controlled substances 1📰 - H Community Safe
+* [HB 1162](hb/1162) - Controlled substances 2📰 - H Community Safe
 * [HB 1161](hb/1161) - Firearm enhancements - H Community Safe
 * [HB 1157](hb/1157) - Wild and exotic animals - H Ag&Nr
 * [HB 1154](hb/1154) - Religious institutions - H State Govt & T

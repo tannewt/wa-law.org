@@ -7,3 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/16 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5053 PFD formation
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161022&caId=24594&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161022&caId=24594&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161022&caId=24594&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161022&caId=24594&tId=4)
+
+#### 4 👍 - Pro
+Testifying:
+* Matthew Lundh - Mayor, City of Cle Elum
+* Gary Berndt
+* Nicky Pasi - Mountains to Sound Greenway Trust
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

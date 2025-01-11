@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>SB 5184 - Minimum parking requirements</title>
+		<link>https://wa-law.org/bill/2025-26/sb/5184/</link>
+		<description>Updates about SB 5184</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 10 Jan 2025 18:45:11 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-08/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>Bateman Takes Aim at Washington’s Parking Mandates - The Urbanist</title>
+			<description>News article "Bateman Takes Aim at Washington’s Parking Mandates - The Urbanist" from The Urbanist.</description>
+			<pubDate>Fri, 10 Jan 2025 18:45:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2025/01/10/bateman-takes-aim-at-parking-mandates/#:~:text=Senate%20Bill%205184</guid>
+		</item>
+	</channel>
+</rss>

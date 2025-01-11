@@ -29,7 +29,7 @@ Testifying:
 * Chief John Batiste - Washington State Patrol
 * LINDA THOMPSON - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 * Chief John Batiste
-* Debbie Driver - Governor Inslee's Office
+* 💵Debbie Driver - Governor Inslee's Office
 * Shelly Baldwin - Washington Traffic Safety Commission
 * Tao Kwan-Gett
 * Beth Ebel - WCAAP

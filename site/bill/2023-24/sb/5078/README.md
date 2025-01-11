@@ -69,7 +69,7 @@ Testifying:
 * 💵Brad Blackburn
 * Dr. Gwen Loosmore - WA State PTA
 * Karyn Brownson - King County Public Health
-* Chetan Soni - Seattle Student Union
+* 💵Chetan Soni - Seattle Student Union
 * 💵Tremayne Edwards
 
 #### 2476 👎 - Con

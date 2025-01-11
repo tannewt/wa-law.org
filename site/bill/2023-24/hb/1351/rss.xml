@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1351/</link>
 		<description>Updates about HB 1351</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 10 Jan 2025 18:45:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -224,6 +224,13 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/Referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>Bateman Takes Aim at Washington’s Parking Mandates - The Urbanist</title>
+			<description>News article "Bateman Takes Aim at Washington’s Parking Mandates - The Urbanist" from The Urbanist.</description>
+			<pubDate>Fri, 10 Jan 2025 18:45:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2025/01/10/bateman-takes-aim-at-parking-mandates/#:~:text=introducing%20a%20bill%20in%202023</guid>
 		</item>
 	</channel>
 </rss>

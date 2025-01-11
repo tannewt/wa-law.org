@@ -7,3 +7,21 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/15 01:30 PM - State Government & Tribal Relations (SGOV): HB 1146 Voting in jails, hospitals
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161098&caId=24687&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161098&caId=24687&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161098&caId=24687&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161098&caId=24687&tId=4)
+
+#### 27 👍 - Pro
+Testifying:
+* 💵Anthony Blankenship - [Civil Survival Project](/org/civil_survival_project/)
+* Amani Sawari
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+
+#### 2 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
+
+#### 0 ❓ - Other

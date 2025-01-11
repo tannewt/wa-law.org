@@ -18,7 +18,7 @@ Testifying:
 * Annie Agle - Cotopaxi
 * Maxine Bedat - New Standard Institute
 * Brady Walkinshaw
-* Harpreet Kaur
+* 💵Harpreet Kaur
 * Stacy Flynn - Evrnu
 
 #### 85 👎 - Con

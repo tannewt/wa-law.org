@@ -31,7 +31,7 @@
 #### 40 👍 - Pro
 Testifying:
 * Captain Neil Weaver - Washington State Patrol
-* Debbie Driver - Governor Inslee's Office
+* 💵Debbie Driver - Governor Inslee's Office
 * Shelly Baldwin - Washington Traffic Safety Commission
 * Timothy Knopf
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
@@ -58,7 +58,7 @@ Testifying:
 * Dennis Maughan - Mothers Against Drunk Driving
 * Amy Freedheim
 * Linda Thompson - Washington Association for Substance Misuse and Violence Prevention
-* Debbie Driver - Office of the Governor
+* 💵Debbie Driver - Office of the Governor
 * Mark McKechnie - Washington Traffic Safety Commission
 * Neil Weaver - Washington State Patrol
 * Shelly Baldwin - Washington Traffic Safety Commission

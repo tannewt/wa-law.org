@@ -9,6 +9,7 @@
 ## 📰 Articles
 * 02/03/2024 [House Republicans](/org/house_republicans/) - [Fix the education crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-education-crisis/#:~:text=House%20Bill%201615)
 * 01/15/2024 [House Republicans](/org/house_republicans/) - [Fix the education crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/education/#:~:text=House%20bill%201162)
+* 01/11/2024 [House Republicans](/org/house_republicans/) - [Better Schools | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/education/#:~:text=House%20bill%201615)
 * 06/29/2023 [The Center Square](/org/the_center_square/) - [Low test scores used to assail Inslee's school closure during pandemic | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3351c9f4-16cf-11ee-820d-5747875c2db0.html#:~:text=House%20Bill%201615)
 * 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201615)
 * 02/11/2023 [House Republicans](/org/house_republicans/) - [Helping students recover from learning loss | Washington State House Republicans](https://houserepublicans.wa.gov/current/helping-students-recover-from-learning-loss/#:~:text=House%20Bill%201615)

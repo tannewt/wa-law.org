@@ -9,6 +9,7 @@
 ## 📰 Articles
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [Fix the public safety crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-public-safety-crisis/#:~:text=House%20Bill%201380)
 * 01/15/2024 [House Republicans](/org/house_republicans/) - [Fix the public safety crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/public-safety/#:~:text=House%20bill%201380)
+* 01/11/2024 [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/public-safety/#:~:text=House%20bill%201380)
 * 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201380)
 * 02/03/2023 [House Republicans](/org/house_republicans/) - [Put more police officers on the street | Washington State House Republicans](https://houserepublicans.wa.gov/put-more-police-officers-on-the-street/#:~:text=House%20bill%201380)
 * 01/30/2023 [FOX13](/org/fox13/) - [Bill pushes hiring, retention bonuses for state troopers, aims to improve traffic safety](https://www.fox13seattle.com/news/bill-proposing-hiring-and-retention-bonuses-for-state-troopers-could-help-improve-traffic-safety#:~:text=House%20Bill%201380)

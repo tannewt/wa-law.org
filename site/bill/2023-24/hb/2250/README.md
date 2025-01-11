@@ -22,7 +22,7 @@ Testifying:
 * Carol Sullivan - self
 * 💵Giovanni Severino
 * 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
-* Nilu Jenks - FairVote Washington
+* 💵Nilu Jenks - FairVote Washington
 * 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
 * Cindy Madigan - League of Women Voters
 * 💵Colin Cole - More Equitable Democracy

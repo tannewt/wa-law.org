@@ -1,240 +1,261 @@
 # University of Washington
+## 2025-26
 
-## [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+* ❓💵 Morgan Hickel
 
-## [HB 1041](/bill/2023-24/hb/1041/) - Prescribing psychologists  👎1 
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
+* 👍💵 Morgan Hickel
 
-## [HB 1082](/bill/2023-24/hb/1082/) - PT & OT service corporations 👍1  
+### [SB 5158](/bill/2025-26/sb/5158/) - Student athlete insurance 👍1  
+* 👍 Joe Dacca
 
-## [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement 👍1  
+### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+* ❓💵 Morgan Hickel
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+## [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+* 👍 Joe Dacca
+
+## 2023-24
+
+### [SB 5195](/bill/2023-24/sb/5195/) - Capital budget 👍1  
+* 👍 Joe Dacca
+
+### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
+
+### [HB 1041](/bill/2023-24/hb/1041/) - Prescribing psychologists  👎1 
+
+### [HB 1082](/bill/2023-24/hb/1082/) - PT & OT service corporations 👍1  
+
+### [HB 1087](/bill/2023-24/hb/1087/) - Solitary confinement 👍1  
+
+### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 * 👍 Amanda Kost
 
-## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
+### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍2  
 
-## [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
+### [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 * 👍 Jennifer Stuber
 
-## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍2  
+### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍2  
 * 👍💵 Morgan Hickel
 * 👍 Joe Dacca
 
-## [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer  👎1 
+### [HB 1143](/bill/2023-24/hb/1143/) - Firearms/purchase & transfer  👎1 
 
-## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  ❓1
+### [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  ❓1
 * 👍 Joe Dacca
 * ❓💵 Morgan Hickel
 
-## [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
+### [HB 1151](/bill/2023-24/hb/1151/) - Fertility services coverage 👍1  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning  👎1 
+### [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning  👎1 
 
-## [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
+### [HB 1232](/bill/2023-24/hb/1232/) - College bound scholarship 👍1  
 
-## [HB 1307](/bill/2023-24/hb/1307/) - Physician bargaining 👍1  
+### [HB 1307](/bill/2023-24/hb/1307/) - Physician bargaining 👍1  
 * 👍 Emily Marre
 
-## [HB 1325](/bill/2023-24/hb/1325/) - Long sentences review 👍2  
+### [HB 1325](/bill/2023-24/hb/1325/) - Long sentences review 👍2  
 * 👍 Dr. Katherine Beckett
 
-## [HB 1348](/bill/2023-24/hb/1348/) - Behavioral health support 👍2  
+### [HB 1348](/bill/2023-24/hb/1348/) - Behavioral health support 👍2  
 * 👍 Anna Ratzliff
 * 👍 Hoa Appel
 
-## [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎1 
+### [HB 1363](/bill/2023-24/hb/1363/) - Vehicular pursuits  👎1 
 
-## [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
+### [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices 👍1  
 
-## [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍4  
+### [HB 1390](/bill/2023-24/hb/1390/) - District energy systems 👍4  
 * 👍 David Woodson
 * 👍 David Woodson
 * 👍 David Woodson
 
-## [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  
+### [HB 1399](/bill/2023-24/hb/1399/) - Native American scholarships 👍1  
 * 👍 Sherri Berdine
 
-## [HB 1465](/bill/2023-24/hb/1465/) - Prescription cost-sharing   ❓1
+### [HB 1465](/bill/2023-24/hb/1465/) - Prescription cost-sharing   ❓1
 * ❓ Amanda Kost
 
-## [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
+### [HB 1469](/bill/2023-24/hb/1469/) - Health care services/access 👍1  
 
-## [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍2  
+### [HB 1470](/bill/2023-24/hb/1470/) - Private detention facilities 👍2  
 
-## [HB 1488](/bill/2023-24/hb/1488/) - Working forest license plate 👍1  
+### [HB 1488](/bill/2023-24/hb/1488/) - Working forest license plate 👍1  
 
-## [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety  👎1 
+### [HB 1513](/bill/2023-24/hb/1513/) - Traffic safety  👎1 
 * 👎 Susan elliott
 
-## [HB 1522](/bill/2023-24/hb/1522/) - Sexual misconduct/assocs. 👍2  
+### [HB 1522](/bill/2023-24/hb/1522/) - Sexual misconduct/assocs. 👍2  
 * 👍 Joe Dacca
 * 👍 Amanda Kost
 
-## [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
+### [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information 👍1  
 
-## [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
+### [HB 1541](/bill/2023-24/hb/1541/) - Lived experience 👍1  
 
-## [HB 1564](/bill/2023-24/hb/1564/) - OTC sexual assault kits 👍1 👎1 
+### [HB 1564](/bill/2023-24/hb/1564/) - OTC sexual assault kits 👍1 👎1 
 
-## [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
+### [HB 1579](/bill/2023-24/hb/1579/) - Independent prosecutions 👍1  
 
-## [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
+### [HB 1586](/bill/2023-24/hb/1586/) - Vehicular pursuits work grp. 👍1  
 
-## [HB 1641](/bill/2023-24/hb/1641/) - High-potency cannabis 👍1  
+### [HB 1641](/bill/2023-24/hb/1641/) - High-potency cannabis 👍1  
 * 👍 Beatriz Carlini
 
-## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
+### [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
 
-## [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor  👎1 
+### [HB 1670](/bill/2023-24/hb/1670/) - Property tax limit factor  👎1 
 
-## [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery  👎1 
+### [HB 1686](/bill/2023-24/hb/1686/) - Salmon recovery  👎1 
 
-## [HB 1715](/bill/2023-24/hb/1715/) - Domestic violence 👍1  
+### [HB 1715](/bill/2023-24/hb/1715/) - Domestic violence 👍1  
 * 👍💵 Morgan Hickel
 
-## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎2 
+### [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge  👎2 
 
-## [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities. 👍1  
+### [HB 1859](/bill/2023-24/hb/1859/) - Concerning the rights of residents in long-term care facilities. 👍1  
 
-## [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
+### [HB 1889](/bill/2023-24/hb/1889/) - Professionals/immigration 👍1  
 
-## [HB 2004](/bill/2023-24/hb/2004/) - Military student early reg. 👍1  
+### [HB 2004](/bill/2023-24/hb/2004/) - Military student early reg. 👍1  
 * 👍 Jordan Caron
 
-## [HB 2037](/bill/2023-24/hb/2037/) - Holocaust and genocide edu. 👍1  
+### [HB 2037](/bill/2023-24/hb/2037/) - Holocaust and genocide edu. 👍1  
 
-## [HB 2041](/bill/2023-24/hb/2041/) - Physician assistant practice 👍1  
+### [HB 2041](/bill/2023-24/hb/2041/) - Physician assistant practice 👍1  
 
-## [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
+### [HB 2065](/bill/2023-24/hb/2065/) - Offender score recalc. 👍1  
 * 👍 Dr. Katherine Beckett
 
-## [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍2  
+### [HB 2089](/bill/2023-24/hb/2089/) - Capital budget, supplemental 👍2  
 * 👍 Joe Dacca
 * 👍💵 Morgan Hickel
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍2  
+### [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍2  
 * 👍💵 Morgan Hickel
 * 👍 Joe Dacca
 
-## [HB 2111](/bill/2023-24/hb/2111/) - Subsidized child care 👍1  
+### [HB 2111](/bill/2023-24/hb/2111/) - Subsidized child care 👍1  
 
-## [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
+### [HB 2114](/bill/2023-24/hb/2114/) - Residential tenants 👍1  
 
-## [HB 2116](/bill/2023-24/hb/2116/) - Pharmacist prescriptive auth 👍1  
+### [HB 2116](/bill/2023-24/hb/2116/) - Pharmacist prescriptive auth 👍1  
 
-## [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
+### [HB 2160](/bill/2023-24/hb/2160/) - Housing development 👍1  
 
-## [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
+### [HB 2242](/bill/2023-24/hb/2242/) - Sexual assault/higher ed. 👍1  
 * 👍 Amanda Kost
 
-## [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍2  
+### [HB 2309](/bill/2023-24/hb/2309/) - Washington 13 free guarantee 👍2  
 
-## [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍1  
+### [HB 2348](/bill/2023-24/hb/2348/) - County hospital funding 👍1  
 
-## [HB 2352](/bill/2023-24/hb/2352/) - College athletes   ❓1
+### [HB 2352](/bill/2023-24/hb/2352/) - College athletes   ❓1
 * ❓ Joe Dacca
 
-## [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
+### [HB 2374](/bill/2023-24/hb/2374/) - Washington promise program 👍1  
 
-## [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account. 👍1  
+### [HB 2476](/bill/2023-24/hb/2476/) - Creating a covered lives assessment professional services rate account. 👍1  
 
-## [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
+### [SB 5048](/bill/2023-24/sb/5048/) - College in high school fees 👍3  
 * 👍 Joe Dacca
 * 👍 Amanda Kost
 
-## [SB 5079](/bill/2023-24/sb/5079/) - Tuition establishment date 👍2  
+### [SB 5079](/bill/2023-24/sb/5079/) - Tuition establishment date 👍2  
 
-## [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍2  
+### [SB 5169](/bill/2023-24/sb/5169/) - Medicare/health care plans 👍2  
 
-## [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍1  
+### [SB 5179](/bill/2023-24/sb/5179/) - Death with dignity act 👍1  
 
-## [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍2  
+### [SB 5187](/bill/2023-24/sb/5187/) - Operating budget 👍2  
 * 👍 Joe Dacca
 * 👍 Joe Dacca
 
-## [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍4  
+### [SB 5189](/bill/2023-24/sb/5189/) - Behavioral health support 👍4  
 * 👍 Anna Ratzliff
 * 👍 Anna Ratzliff
 * 👍 Bill O'Connell
 * 👍 Anna Ratzliff
 
-## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
+### [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 
-## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍2  
+### [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍2  
 * 👍💵 Morgan Hickel
 * 👍💵 Morgan Hickel
 
-## [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍1  
+### [SB 5217](/bill/2023-24/sb/5217/) - Musculoskeletal injuries/L&I 👍1  
 
-## [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍2  
+### [SB 5228](/bill/2023-24/sb/5228/) - Behavioral health OT 👍2  
 * 👍 Hoa Appel
 
-## [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍5  
+### [SB 5236](/bill/2023-24/sb/5236/) - Hospital staffing standards 👍5  
 
-## [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍1  
+### [SB 5263](/bill/2023-24/sb/5263/) - Psilocybin 👍1  
 * 👍 Nancy Connolly
 
-## [SB 5270](/bill/2023-24/sb/5270/) - DOC/immigration assistance 👍1  
+### [SB 5270](/bill/2023-24/sb/5270/) - DOC/immigration assistance 👍1  
 
-## [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍1  
+### [SB 5315](/bill/2023-24/sb/5315/) - Special education/nonpublic 👍1  
 
-## [SB 5409](/bill/2023-24/sb/5409/) - Voter identifier numbers 👍1  
+### [SB 5409](/bill/2023-24/sb/5409/) - Voter identifier numbers 👍1  
 
-## [SB 5414](/bill/2023-24/sb/5414/) - Elections law violation info 👍1  
+### [SB 5414](/bill/2023-24/sb/5414/) - Elections law violation info 👍1  
 
-## [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍1  
+### [SB 5453](/bill/2023-24/sb/5453/) - Female genital mutilation 👍1  
 * 👍 Bettina Shell-Duncan
 
-## [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime 👍1  
+### [SB 5476](/bill/2023-24/sb/5476/) - Agricultural overtime 👍1  
 
-## [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
+### [SB 5486](/bill/2023-24/sb/5486/) - Wealth/property tax 👍1  
 
-## [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍1  
+### [SB 5523](/bill/2023-24/sb/5523/) - Forensic pathologists 👍1  
 
-## [SB 5534](/bill/2023-24/sb/5534/) - Workforce investment board 👍1  
+### [SB 5534](/bill/2023-24/sb/5534/) - Workforce investment board 👍1  
 
-## [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍4  
+### [SB 5593](/bill/2023-24/sb/5593/) - Student data transfer 👍4  
 
-## [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth  👎2 
+### [SB 5599](/bill/2023-24/sb/5599/) - Protected health care/youth  👎2 
 
-## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  
+### [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  
 
-## [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
+### [SB 5703](/bill/2023-24/sb/5703/) - College grant/bridge grants 👍1  
 
-## [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍2  
+### [SB 5736](/bill/2023-24/sb/5736/) - Workforce shortages 👍2  
 
-## [SB 5738](/bill/2023-24/sb/5738/) - LeMay special license plate 👍1  
+### [SB 5738](/bill/2023-24/sb/5738/) - LeMay special license plate 👍1  
 
-## [SB 5795](/bill/2023-24/sb/5795/) - Year-round Pacific std. time  👎1 
+### [SB 5795](/bill/2023-24/sb/5795/) - Year-round Pacific std. time  👎1 
 * 👎 Laura Prugh
 
-## [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
+### [SB 5853](/bill/2023-24/sb/5853/) - Behav crisis services/minors 👍1  
 
-## [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍1  
+### [SB 5883](/bill/2023-24/sb/5883/) - Concerning the burden of proof for special education due process hearings. 👍1  
 
-## [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍3  
+### [SB 5904](/bill/2023-24/sb/5904/) - Extending the terms of eligibility for financial aid programs. 👍3  
 
-## [SB 5913](/bill/2023-24/sb/5913/) - Concerning communication between employees of state institutions of higher education and student athletes regarding name, image, and likeness use. 👍2  
+### [SB 5913](/bill/2023-24/sb/5913/) - Concerning communication between employees of state institutions of higher education and student athletes regarding name, image, and likeness use. 👍2  
 * 👍 Joe Dacca
 * 👍 Joe Dacca
 
-## [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍2  
+### [SB 5949](/bill/2023-24/sb/5949/) - Capital budget, supplemental 👍2  
 * 👍💵 Morgan Hickel
 * 👍 Joe Dacca
 
-## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍2  
+### [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp. 👍2  
 * 👍💵 Morgan Hickel
 * 👍💵 Morgan Hickel
 
-## [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍3  
+### [SB 5999](/bill/2023-24/sb/5999/) - Financial aid eligibility 👍3  
 * 👍 Adrienne Delossantos
 
-## [SB 6021](/bill/2023-24/sb/6021/) - Correctional fees & expenses 👍1  
+### [SB 6021](/bill/2023-24/sb/6021/) - Correctional fees & expenses 👍1  
 
-## [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  
+### [SB 6220](/bill/2023-24/sb/6220/) - High THC cannabis products 👍1  
 * 👍 Beatriz Carlini
 
-## [SB 6221](/bill/2023-24/sb/6221/) - UW primate research center   ❓2
+### [SB 6221](/bill/2023-24/sb/6221/) - UW primate research center   ❓2
 * ❓💵 Morgan Hickel
 * ❓💵 Morgan Hickel
 

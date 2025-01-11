@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/10/2025 [Cascade PBS](/org/cascade_pbs/) - [WA cop shortage persists statewide as lawmakers gear up in Olympia | Cascade PBS](https://crosscut.com/politics/2025/01/wa-cop-shortage-persists-statewide-lawmakers-gear-olympia#:~:text=Senate%20Bill%206076)
 * 04/18/2024 [Wenatchee World](/org/wenatchee_world/) - [Facing shortages, WA expands police trainings and fronts the bill | Northwest | wenatcheeworld.com](https://www.wenatcheeworld.com/news/northwest/facing-shortages-wa-expands-police-trainings-and-fronts-the-bill/article_4d3185fc-fd9d-11ee-8c3b-03dbcfb22b77.html#:~:text=Senate%20Bill%206076)
 * 04/17/2024 [Crosscut](/org/crosscut/) - [Facing shortages, WA expands police trainings and fronts the bill | Cascade PBS News](https://crosscut.com/news/2024/04/facing-shortages-wa-expands-police-trainings-and-fronts-bill#:~:text=Senate%20Bill%206076)
 

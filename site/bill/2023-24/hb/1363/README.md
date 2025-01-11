@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 01/15/2024 [House Republicans](/org/house_republicans/) - [Fix the public safety crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/public-safety/#:~:text=House%20bill%201363)
+* 01/11/2024 [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/public-safety/#:~:text=House%20bill%201363)
 * 05/05/2023 [MyNorthwest](/org/mynorthwest/) - [Solan: 'Cops can't do their jobs right now in Seattle' despite new police pursuit law - MyNorthwest.com](https://mynorthwest.com/3885588/solan-cop-cant-jobs-seattle-updated-police-pursuit-law/#:~:text=House%20Bill%201363)
 * 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201363)
 * 04/13/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Keeping our communities safe | Cascadia Daily News](https://www.cascadiadaily.com/2023/apr/13/keeping-our-communities-safe/#:~:text=HB%201363)

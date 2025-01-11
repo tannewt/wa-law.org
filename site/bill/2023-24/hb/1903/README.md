@@ -66,7 +66,7 @@ Testifying:
 * 💵Stephen Paolini
 * Stg. Jordan Ferguson - Spokane Regional Domestic Violence Coalition
 * Betty Taylor - Ezra's Hands
-* Chetan Soni - Washington Youth Alliance
+* 💵Chetan Soni - Washington Youth Alliance
 * Greg Hauth
 * Diane Studley
 * Jane Weiss

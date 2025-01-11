@@ -1,9 +1,21 @@
 # The Imagine Institute
+## 2025-26
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
+* 👍 Pauli Owen
+
+## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
+* 👍 Aida Rodriguez
+
+## 2023-24
+
+### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp. 👍1  
+* 👍 Aida Rodriguez
+
+### [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓ Pauli Owen
 
-## [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍2  
+### [HB 2195](/bill/2023-24/hb/2195/) - Early learning facilities 👍2  
 
 ## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
 * ❓ Aida Rodriguez

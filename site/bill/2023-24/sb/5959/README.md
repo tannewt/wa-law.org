@@ -18,7 +18,7 @@ Testifying:
 * Venu Nemani - [City of Seattle](/org/city_of_seattle/)
 * Rob Karlinsey - [City of Kenmore](/org/city_of_kenmore/)
 * 💵Axel Swanson - Washington State Association of County Engineers
-* Debbie Driver - Governor's Office
+* 💵Debbie Driver - Governor's Office
 * Mark McKechnie - Washington State Traffic Safety Commission
 
 #### 7 👎 - Con

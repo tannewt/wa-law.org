@@ -94,7 +94,7 @@ Testifying:
 * Dr. Jerrold Eichner - WA Chapter of the American Academy of Pediatrics
 * Emily Cantrell
 * Niko Battle
-* Chetan Soni - Seattle Student Union
+* 💵Chetan Soni - Seattle Student Union
 * Justine Stromberg - Moms Demand Action
 * Karyn Brownson - King County Public Health
 * Ian Taylor

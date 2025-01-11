@@ -41,7 +41,7 @@ Testifying:
 * Dr. Beth Ebel - Washington Chapter of the American Academy of Pediatrics
 * Dr. Gwen Loosmore - Washington State PTA
 * Mahi Malladi
-* Chetan Soni - Washington Youth Alliance
+* 💵Chetan Soni - Washington Youth Alliance
 * Liz Hjelmseth
 * Paula Barnes
 * Jane Weiss
@@ -64,7 +64,7 @@ Testifying:
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 5444 Firearm sensitive places
 #### 859 👍 - Pro
 Testifying:
-* Chetan Soni - Washington Youth Alliance
+* 💵Chetan Soni - Washington Youth Alliance
 * Dr. Gwen Loosmore - Washington State PTA
 * Liz Hjelmseth
 

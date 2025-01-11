@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1202 - State gen. obligation bonds</title>
+		<link>https://wa-law.org/bill/2025-26/hb/1202/</link>
+		<description>Updates about HB 1202</description>
+		<language>en-US</language>
+		<lastBuildDate>Wed, 08 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-08/Prefiled for introduction.</guid>
+		</item>
+	</channel>
+</rss>

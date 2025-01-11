@@ -30,7 +30,7 @@
 ### Tue 02/20 04:00 PM - Transportation (TRAN): ESHB 2384 Traffic safety cameras
 #### 30 👍 - Pro
 Testifying:
-* Debbie Driver - Office of Governor Jay Inslee
+* 💵Debbie Driver - Office of Governor Jay Inslee
 * Mark McKechnie - Washington Traffic Safety Commission
 * Brandy DeLange - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Axel Swanson - Washington State Association of County Engineers
@@ -63,7 +63,7 @@ Testifying:
 ### Thu 01/18 04:00 PM - Transportation (TR): HB 2384 Traffic safety cameras
 #### 16 👍 - Pro
 Testifying:
-* Debbie Driver - Office of Governor Jay Inslee
+* 💵Debbie Driver - Office of Governor Jay Inslee
 * Mark McKechnie - Washington Traffic Safety Commission
 * 💵Briahna Murray - [City of Tacoma](/org/city_of_tacoma/)
 * Rob Karlinsey - City Manager, City of Kenmore

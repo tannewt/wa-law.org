@@ -14,5 +14,11 @@
 * 01/14/2024 [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/drugs/#:~:text=House%20bill%201456)
 * 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/child-care/#:~:text=House%20bill%201456)
 * 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the affordability crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/affordability/#:~:text=House%20bill%201456)
+* 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the housing & homelessness crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/housing/#:~:text=House%20bill%201456)
+* 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/child-care/#:~:text=House%20bill%201456)
+* 01/11/2024 [House Republicans](/org/house_republicans/) - [Better Schools | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/education/#:~:text=House%20bill%201456)
+* 01/11/2024 [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/affordability/#:~:text=House%20bill%201456)
+* 01/11/2024 [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/public-safety/#:~:text=House%20bill%201456)
+* 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/drugs/#:~:text=House%20bill%201456)
 
 ## Meetings

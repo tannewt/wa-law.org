@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1175/</link>
 		<description>Updates about HB 1175</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Jun 2023 11:58:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 09 Jan 2025 15:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -287,6 +287,13 @@
 			<pubDate>Wed, 14 Jun 2023 11:58:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://crosscut.com/environment/2023/06/washington-gas-stations-are-leaking-toxins-nearby-groundwater#:~:text=HB1175</guid>
+		</item>
+		<item>
+			<title>Statewide Neighborhood Cafe Bill Returns, Expanded to More Types of Businesses - The Urbanist</title>
+			<description>News article "Statewide Neighborhood Cafe Bill Returns, Expanded to More Types of Businesses - The Urbanist" from The Urbanist.</description>
+			<pubDate>Thu, 09 Jan 2025 15:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2025/01/09/statewide-neighborhood-cafe-bill-returns-expanded-to-more-types-of-businesses/#:~:text=House%20Bill%201175</guid>
 		</item>
 	</channel>
 </rss>

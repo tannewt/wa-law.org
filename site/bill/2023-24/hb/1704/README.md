@@ -10,6 +10,7 @@
 * 03/14/2024 [House Republicans](/org/house_republicans/) - [Big wins, a few losses in the 2024 legislative session | Washington State House Republicans](http://houserepublicans.wa.gov/current/big-wins-a-few-losses-in-the-2024-legislative-session/#:~:text=lower%20the%20state%20sales%20tax)
 * 01/30/2024 [House Republicans](/org/house_republicans/) - [Fix the affordability crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-affordability-crisis/#:~:text=House%20Bill%201704)
 * 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the affordability crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/affordability/#:~:text=House%20Bill%201704)
+* 01/11/2024 [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/affordability/#:~:text=House%20Bill%201704)
 * 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201704)
 * 02/25/2023 [House Republicans](/org/house_republicans/) - [Fiscal committee cutoff | Washington State House Republicans](https://houserepublicans.wa.gov/current/fiscal-committee-cutoff/#:~:text=House%20Bill%201704)
 * 02/04/2023 [House Republicans](/org/house_republicans/) - [Tax relief | Washington State House Republicans](https://houserepublicans.wa.gov/current/tax-relief/#:~:text=House%20Bill%201704)

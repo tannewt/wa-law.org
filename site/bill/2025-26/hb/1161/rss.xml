@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1161/</link>
 		<description>Updates about HB 1161</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 03 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 10 Jan 2025 10:42:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,22 @@
 			<pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-03/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Dennis Gibb - Edmonds College</title>
+			<description>Dennis Gibb signed up to testify Pro. They are signed up to represent Edmonds College.</description>
+			<pubDate>Thu, 09 Jan 2025 11:22:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dennis/Gibb/2025-01-09 11:22:22</guid>
+		</item>
+		<item>
+			<title>👍Rory Andes - Rory Andes</title>
+			<description>Rory Andes signed up to testify Pro. They are signed up to represent Rory Andes.</description>
+			<pubDate>Fri, 10 Jan 2025 10:42:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rory/Andes/2025-01-10 10:42:36</guid>
 		</item>
 	</channel>
 </rss>

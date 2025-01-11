@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5092/</link>
 		<description>Updates about SB 5092</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 20 Dec 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 09 Jan 2025 02:22:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,14 @@
 			<pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-12-20/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>👍Eric Wareham - North American Equipment Dealers Association</title>
+			<description>Eric Wareham signed up to testify Pro. They are signed up to represent North American Equipment Dealers Association.</description>
+			<pubDate>Thu, 09 Jan 2025 02:22:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Eric/Wareham/2025-01-09 02:22:09</guid>
 		</item>
 	</channel>
 </rss>

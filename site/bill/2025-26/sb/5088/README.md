@@ -7,3 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/16 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5088 Public utility tax, counties
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161024&caId=24596&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161024&caId=24596&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161024&caId=24596&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161024&caId=24596&tId=4)
+
+#### 0 👍 - Pro
+
+#### 37 👎 - Con
+Testifying:
+* Jeff Pack - Me
+* Tim Eyman - Initiative Activist
+* Jeff Pack - Me
+
+#### 0 ❓ - Other

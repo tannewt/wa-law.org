@@ -7,3 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 01/16 01:30 PM - Finance (FIN): HB 1004 Property tax exemption
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32388&aId=161144&caId=24649&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32388&aId=161144&caId=24649&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32388&aId=161144&caId=24649&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32388&aId=161144&caId=24649&tId=4)
+
+#### 4 👍 - Pro
+Testifying:
+* 💵Patrick Connor - NFIB
+
+#### 1 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
+
+#### 0 ❓ - Other

@@ -8,5 +8,6 @@
 
 ## 📰 Articles
 * 02/03/2024 [House Republicans](/org/house_republicans/) - [Fix the education crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-education-crisis/#:~:text=House%20Bill%202142)
+* 01/11/2024 [House Republicans](/org/house_republicans/) - [Better Schools | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/education/#:~:text=House%20bill%202142)
 
 ## Meetings

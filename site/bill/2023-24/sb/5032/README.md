@@ -62,7 +62,7 @@ Testifying:
 * Barbara Serrano - Office of the Governor
 * Amy Freedheim
 * Linda Thompson - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
-* Debbie Driver - Office of the Governor
+* 💵Debbie Driver - Office of the Governor
 * Mark McKechnie - Washington Traffic Safety Commission
 * Neil Weaver - Washington State Patrol
 * Shelly Baldwin - Washington Traffic Safety Commission

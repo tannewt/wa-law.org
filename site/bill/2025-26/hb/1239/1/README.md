@@ -1,0 +1,207 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1239](/bill/2025-26/hb/1239/) > [Original Bill](/bill/2025-26/hb/1239/1/)
+
+# HB 1239 - Preparing incarcerated people for successful reentry upon release from a correctional facility.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1239.pdf)
+
+## Section 1
+The legislature recognizes that reentry readiness reduces recidivism, reducing the harm to individuals, families, and communities. The state of Washington has committed to reducing recidivism and increasing reentry readiness by joining and pledging to support the national reentry 2030 initiative.
+
+The legislature recognizes that an equitable incentive in the form of earned release time incentivizes behaviors which lead to reentry readiness, while also addressing existing racial inequities in earned time and graduated reentry.
+
+Through the reentry readiness act, the legislature intends to align public policy with the goals of the Washington statewide reentry council and the principles of the Washington way program.
+
+The legislature recognizes that the availability of earned time is the most effective means of incentivizing participation in rehabilitative programming, which is critical for the purposes of increasing public safety and improving reentry outcomes.
+
+The legislature intends to provide those who have served the longest sentences with an extended transition period between total confinement and full independence, to increase reentry readiness.
+
+## Section 2
+1. [Empty]
+
+    a. The term of the sentence of an offender committed to a correctional facility operated by the department may be reduced by earned release time in accordance with procedures that shall be developed and adopted by the correctional agency having jurisdiction in which the offender is confined. The earned release time shall be for good behavior and good performance, as determined by the correctional agency having jurisdiction. The correctional agency may calculate but shall not credit the offender with earned release credits in advance of the offender actually earning the credits.
+
+    b. Any program established pursuant to this section shall allow an offender to earn earned release time credits for presentence incarceration. If an offender is transferred from a county jail to the department, the administrator of a county jail facility shall certify to the department the amount of time spent in custody at the facility and the number of days of earned release time credits lost or not earned. The department may approve a jail certification from a correctional agency that calculates earned release time based on the actual amount of confinement time served by the offender before sentencing when an erroneous calculation of confinement time served by the offender before sentencing appears on the judgment and sentence. The department must adjust an offender's rate of earned release time listed on the jail certification to be consistent with the rate applicable to offenders in the department's facilities. However, the department is not authorized to adjust the amount of presentence earned release time that the jail has certified as lost or not earned.
+
+2. [Empty]
+
+    a.
+
+A person who is eligible for earned early release as provided in this section and who will be supervised by the department pursuant to RCW 9.94A.501 or 9.94A.5011, shall be transferred to community custody in lieu of earned release time;
+
+    b. The department shall, as a part of its program for release to the community in lieu of earned release, require the offender to propose a release plan that includes an approved residence and living arrangement. All offenders with community custody terms eligible for release to community custody in lieu of earned release shall provide an approved residence and living arrangement prior to release to the community;
+
+    c. The department may deny transfer to community custody in lieu of earned release time if the department determines an offender's release plan, including proposed residence location and living arrangements, may violate the conditions of the sentence or conditions of supervision, place the offender at risk to violate the conditions of the sentence, place the offender at risk to reoffend, or present a risk to victim safety or community safety. The department's authority under this section is independent of any court-ordered condition of sentence or statutory provision regarding conditions for community custody;
+
+    d. If the department is unable to approve the offender's release plan, the department may do one or more of the following:
+
+        i. Transfer an offender to partial confinement in lieu of earned early release for a period not to exceed three months. The three months in partial confinement is in addition to that portion of the offender's term of confinement that may be served in partial confinement as provided in RCW 9.94A.728(1)(e);
+
+        ii. Provide rental vouchers to the offender for a period not to exceed six months if rental assistance will result in an approved release plan.
+
+A voucher must be provided in conjunction with additional transition support programming or services that enable an offender to participate in services including, but not limited to, substance abuse treatment, mental health treatment, sex offender treatment, educational programming, or employment programming;
+
+    e. The department shall maintain a list of housing providers that meets the requirements of RCW 72.09.285. If more than two voucher recipients will be residing per dwelling unit, as defined in RCW 59.18.030, rental vouchers for those recipients may only be paid to a housing provider on the department's list
+
+.
+
+3. For any term of confinement set to be completed on or after July 1, 2025, an offender may accrue earned release time up to 33.33 percent of the total sentence. In the case of consecutive sentences, the phrase "any term of confinement set to be completed on or after July 1, 2025," means the sentence currently being served and any sentences yet to be served, but not any consecutive sentence previously served by the offender, whether the consecutive sentences are imposed under one judgment or multiple judgments. This includes sentence enhancements under RCW 9.94A.533, except that:
+
+    a. The following are ineligible for earned release time:
+
+        i. A federal sentence served in the department's custody;
+
+        ii. An out-of-state sentence served at the department;
+
+        iii. A juvenile sentence under Title 13 RCW;
+
+        iv. A less restrictive alternative under chapter 71.05 RCW;
+
+    v. A civil commitment under chapter 10.77 RCW;
+
+    vi. A mandatory minimum sentence under RCW 9.94A.540;
+
+    vii. A persistent offender sentence under RCW 9.94A.570;
+
+    viii. A special sex offender sentencing alternative under RCW 9.94A.670; and
+
+        ix. An aggravated first degree murder sentence imposed on an adult under RCW 10.95.030.
+
+    b. A sentence imposed on a juvenile under RCW 10.95.030 or 10.95.035 is ineligible for earned release time during the minimum term of confinement imposed by the court; for any remaining portion of the sentence, the aggregate earned release time may not exceed 33.33 percent.
+
+    c. An offender qualified to earn up to 50 percent earned release time under RCW 9.94A.729 shall not lose earned release time accrued before July 1, 2025.
+
+## Section 3
+Pursuant to RCW 9.94A.729, the department of corrections shall recalculate the earned release date for any offender currently serving a term of confinement in a facility or institution either operated by the state or utilized under contract. The earned release date shall be recalculated whether the offender is currently incarcerated or is sentenced after the effective date of this section, and regardless of the offender's date of offense. For offenders whose offense was committed prior to the effective date of this section, the recalculation shall apply to any term of confinement set to be completed on or after July 1, 2025, and shall not extend a term of incarceration beyond that to which an offender is currently subject. This act applies to any term of confinement set to be completed on or after July 1, 2025, regardless of the date of the underlying offense.
+
+## Section 4
+The department of corrections' recalculations of earned release time pursuant to this act do not create any expectations that the percentage of earned release time will be revised before July 1, 2026, and there is no reason to conclude that the maximum percentage of earned release time is an entitlement or creates any liberty interest. The department of corrections is authorized to take the time reasonably necessary to complete the recalculations of earned release time after the effective date of this section.
+
+## Section 5
+1. No incarcerated individual serving a sentence imposed pursuant to this chapter and committed to the custody of the department shall leave the confines of the correctional facility or be released prior to the expiration of the sentence except as follows:
+
+    a. An incarcerated individual may earn early release time as authorized by RCW 9.94A.729;
+
+    b. An incarcerated individual may leave a correctional facility pursuant to an authorized furlough or leave of absence. In addition, incarcerated individuals may leave a correctional facility when in the custody of a corrections officer or officers;
+
+    c. [Empty]
+
+        i. The secretary may authorize an extraordinary medical placement for an incarcerated individual when all of the following conditions exist:
+
+(A) The incarcerated individual has been assessed by two physicians and is determined to be one of the following:
+
+(I) Affected by a permanent or degenerative medical condition to such a degree that the individual does not presently, and likely will not in the future, pose a threat to public safety; or
+
+(II) In ill health and is expected to die within six months and does not presently, and likely will not in the future, pose a threat to public safety;
+
+(B) The incarcerated individual has been assessed as low risk to the community at the time of release; and
+
+(C) It is expected that granting the extraordinary medical placement will result in a cost savings to the state.
+
+        ii. An incarcerated individual sentenced to death or to life imprisonment without the possibility of release or parole is not eligible for an extraordinary medical placement.
+
+        iii. The secretary shall require electronic monitoring for all individuals in extraordinary medical placement unless the electronic monitoring equipment is detrimental to the individual's health, interferes with the function of the individual's medical equipment, or results in the loss of funding for the individual's medical care, in which case, an alternative type of monitoring shall be utilized. The secretary shall specify who shall provide the monitoring services and the terms under which the monitoring shall be performed.
+
+        iv. The secretary may revoke an extraordinary medical placement under this subsection (1)(c) at any time.
+
+    v. Persistent offenders are not eligible for extraordinary medical placement;
+
+    d. The governor, upon recommendation from the clemency and pardons board, may grant an extraordinary release for reasons of serious health problems, senility, advanced age, extraordinary meritorious acts, or other extraordinary circumstances;
+
+    e. No more than the final 12 months of the incarcerated individual's term of confinement may be served in partial confinement for aiding the incarcerated individual with: Finding work as part of the work release program under chapter 72.65 RCW; or reestablishing himself or herself in the community as part of the parenting program in RCW 9.94A.6551. This is in addition to that period of earned early release time that may be exchanged for partial confinement pursuant to RCW 9.94A.729(2)(d);
+
+    f. [Empty]
+
+        i. No more than the final five months of the incarcerated individual's term of confinement may be served in partial confinement as home detention as part of the graduated reentry program developed by the department under RCW 9.94A.733(1)(a);
+
+        ii. For eligible incarcerated individuals under RCW 9.94A.733(1)(b), after serving at least four months in total confinement in a state correctional facility, an incarcerated individual may serve no more than the final 18 months of the incarcerated individual's term of confinement in partial confinement as home detention as part of the graduated reentry program developed by the department;
+
+        iii. For eligible incarcerated individuals under RCW 9.94A.733(1)(c), after serving at least 13 years in total confinement in a state correctional facility, an incarcerated individual may serve no more than the final 18 months of the individual's sentence in partial confinement in a work release or other approved graduated reentry facility with up to the final six months in partial confinement as home detention as part of the graduated reentry program developed by the department;
+
+    g. The governor may pardon any incarcerated individual;
+
+    h. The department may release an incarcerated individual from confinement any time within 10 days before a release date calculated under this section;
+
+        i. An incarcerated individual may leave a correctional facility prior to completion of his or her sentence if the sentence has been reduced as provided in RCW 9.94A.870;
+
+    j. Notwithstanding any other provisions of this section, an incarcerated individual sentenced for a felony crime listed in RCW 9.94A.540 as subject to a mandatory minimum sentence of total confinement shall not be released from total confinement before the completion of the listed mandatory minimum sentence for that felony crime of conviction unless allowed under RCW 9.94A.540; and
+
+    k. Any individual convicted of one or more crimes committed prior to the individual's 18th birthday may be released from confinement pursuant to RCW 9.94A.730.
+
+2. Notwithstanding any other provision of this section, an incarcerated individual entitled to vacation of a conviction or the recalculation of his or her offender score pursuant to , No. 96873-0 (Feb. 25, 2021), may be released from confinement pursuant to a court order if the incarcerated individual has already served a period of confinement that exceeds his or her new standard range. This provision does not create an independent right to release from confinement prior to resentencing.
+
+3. Individuals residing in a juvenile correctional facility placement pursuant to RCW 72.01.410(1)(a) are not subject to the limitations in this section.
+
+## Section 6
+1. [Empty]
+
+    a. Except as provided in (b) of this subsection, an offender may not participate in the graduated reentry program under this subsection unless he or she has served at least six months in total confinement in a state correctional facility.
+
+        i. An offender subject to (a) of this subsection may serve no more than the final five months of the offender's term of confinement in partial confinement as home detention as part of the graduated reentry program developed by the department.
+
+        ii. Home detention under (a) of this subsection may not be imposed for individuals subject to a deportation order, civil commitment, or the interstate compact for adult offender supervision under RCW 9.94A.745.
+
+    b. For offenders who meet the requirements of (b)(iii) of this subsection, an offender may not participate in the graduated reentry program unless he or she has served at least four months in total confinement in a state correctional facility.
+
+        i. An offender under this subsection (1)(b) may serve no more than the final 18 months of the offender's term of confinement in partial confinement as home detention as part of the graduated reentry program developed by the department.
+
+        ii. Home detention under this subsection (1)(b) may not be imposed for individuals subject to a deportation order or subject to the jurisdiction of the indeterminate sentence review board.
+
+        iii. Home detention under this subsection (1)(b) may not be imposed for offenders currently serving a term of confinement for the following offenses:
+
+(A) Any sex offense;
+
+(B) Any violent offense; or
+
+(C) Any crime against a person offense in accordance with the categorization of crimes against persons outlined in RCW 9.94A.411(2).
+
+    c. For offenders who meet the requirements of (c)(iii) of this subsection, an offender may not participate in the graduated reentry program unless he or she has served at least 13 years in total confinement in a state correctional facility.
+
+        i. An offender under this subsection (1)(c) may serve no more than the final 18 months of the offender's term of confinement in partial confinement in a work release program or other graduated reentry approved site and six months on home detention as part of the graduated reentry program developed by the department.
+
+        ii. An offender must be serving a sentence of no less than 15 years.
+
+        iii. Work release and home detention under this subsection (1)(c) may not be imposed for individuals subject to a deportation order, part of the interstate compact for out-of-state releases, subject to the jurisdiction of the indeterminate sentence review board, or under the jurisdiction of the long-term juvenile board.
+
+2. The secretary of the department may transfer an offender from a department correctional facility to home detention in the community if it is determined that the graduated reentry program is an appropriate placement and must assist the offender's transition from confinement to the community.
+
+3. The department and its officers, agents, and employees are not liable for the acts of offenders participating in the graduated reentry program unless the department or its officers, agents, and employees acted with willful and wanton disregard.
+
+4. [Empty]
+
+    a. All offenders placed on home detention as part of the graduated reentry program must provide an approved residence and living arrangement prior to transfer to home detention.
+
+    b. The department may not transfer an offender to participate in the graduated reentry program until the department has conducted a comprehensive assessment for substance use disorder. If the offender is assessed to have a substance use disorder, the department shall assist the offender in enrolling in substance use disorder treatment services at the level deemed appropriate by the assessment. Offenders transferred to participate in the graduated reentry program must begin receiving substance use disorder treatment services as soon as practicable after transfer to avoid any delays in treatment. Substance use disorder treatment services shall include, as deemed necessary by the assessment, access to medication-assisted treatment and counseling programs. Upon transfer to the graduated reentry program, when clinically appropriate, individuals must be provided with access to self-administered fentanyl testing supplies and medications designed to reverse the effects of opioid overdose.
+
+5. While in the community on home detention as part of the graduated reentry program, the department must:
+
+    a. Require the offender to be placed on electronic home monitoring;
+
+    b. Require the offender to participate in programming and treatment that the department shall assign based on an offender's assessed need; and
+
+    c. Assign a community corrections officer who will monitor the offender's compliance with conditions of partial confinement and programming requirements.
+
+6. The department retains the authority to return any offender serving partial confinement in the graduated reentry program to total confinement for any reason including, but not limited to, the offender's noncompliance with any sentence requirement.
+
+7. The department may issue rental vouchers for a period not to exceed six months for those transferring to partial confinement under this section if an approved address cannot be obtained without the assistance of a voucher.
+
+8. In the selection of offenders to participate in the graduated reentry program, and in setting, modifying, and enforcing the requirements of the graduated reentry program, the department is deemed to be performing a quasi-judicial function.
+
+9. The department shall publish a monthly report on its website with the number of offenders who were transferred during the month to home detention as part of the graduated reentry program. The department shall submit an annual report by December 1st to the appropriate committees of the legislature with the number of offenders who were transferred to home detention as part of the graduated reentry program during the prior year.
+
+10. [Empty]
+
+    a. Beginning July 1, 2023, the following data must be collected and posted to the department's website on a monthly basis:
+
+        i. The number of offenders who were transferred to the graduated reentry program who were assessed to have a substance use disorder during the prior calendar month; and
+
+        ii. The number of offenders in the graduated reentry program who received during the prior 12 months:
+
+(A) Outpatient substance use disorder treatment;
+
+(B) Inpatient substance use disorder treatment; and
+
+(C) Both outpatient and inpatient substance use disorder treatment.
+
+    b. Beginning July 1, 2023, the health care authority must report monthly to the department on the number of offenders in the graduated reentry program who received substance use disorder outpatient treatment, while in the community, during the prior 12 months.
+
+11. The department must share data with the health care authority on offenders participating in the graduated reentry program.

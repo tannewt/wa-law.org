@@ -9,5 +9,6 @@
 ## 📰 Articles
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [Fix the public safety crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-public-safety-crisis/#:~:text=House%20Bill%202202)
 * 01/15/2024 [House Republicans](/org/house_republicans/) - [Fix the public safety crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/public-safety/#:~:text=House%20bill%202202)
+* 01/11/2024 [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/public-safety/#:~:text=House%20bill%202202)
 
 ## Meetings

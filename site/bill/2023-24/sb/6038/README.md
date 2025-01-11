@@ -10,6 +10,9 @@
 * [Passed Legislature](S.PL/)
 * [Session Law](S.SL/)
 
+## 📰 Articles
+* 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/child-care/#:~:text=Senate%20Bill%206038)
+
 ## Meetings
 ### Fri 02/23 08:00 AM - Finance (FIN): ESSB 6038 Child care tax preference
 #### 19 👍 - Pro

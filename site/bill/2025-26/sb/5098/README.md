@@ -7,3 +7,20 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 01/14 08:00 AM - Law & Justice (LAW): SB 5098 Weapons in certain areas
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161160&caId=24588&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161160&caId=24588&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161160&caId=24588&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161160&caId=24588&tId=4)
+
+#### 4 👍 - Pro
+
+#### 161 👎 - Con
+Testifying:
+* Jeff Pack - Me
+* Michael Strauss
+* 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
+* Jane Milhans
+
+#### 0 ❓ - Other

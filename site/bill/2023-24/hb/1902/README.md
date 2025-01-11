@@ -19,7 +19,7 @@
 #### 878 👍 - Pro
 Testifying:
 * Melinda Mueller - Wallingford Indivisible
-* Chetan Soni - Washington Youth Alliance
+* 💵Chetan Soni - Washington Youth Alliance
 * Jim Parsons
 * 💵Margaret Heldring
 * Trudi Inslee
