@@ -422,7 +422,7 @@
 * [HB 1686](hb/1686) - Salmon recovery 1📰 143👍 282👎 0❓ - H Rules X
 * [SB 5451](sb/5451) - Long sentences review 2📰 417👍 5👎 0❓ - S Law & Justice
 * [HB 1525](hb/1525) - Apprenticeships/child care 2📰 420👍 0👎 0❓ - C 294 L 23
-* [SB 5020](sb/5020) - Education at 6 years of age 5📰 10👍 409👎 1❓ - S Ways & Means
+* [SB 5020](sb/5020) - Education at 6 years of age 6📰 10👍 409👎 1❓ - S Ways & Means
 * [SB 6231](sb/6231) - Hostile architecture 3📰 10👍 406👎 2❓ - S Loc Gov, Land
 * [HB 2124](hb/2124) - Child care prg. eligibility 4📰 363👍 51👎 2❓ - C 282 L 24
 * [HB 1956](hb/1956) - Substance use prevention ed. 10📰 411👍 2👎 2❓ - C 201 L 24
@@ -866,7 +866,7 @@
 * [SB 6212](sb/6212) - Rent payments/credit reports 1📰 10👍 93👎 1❓ - S Rules X
 * [HB 1186](hb/1186) - Child welfare housing 3📰 103👍 0👎 0❓ - H Rules X
 * [HB 1692](hb/1692) - Student advisory groups 1📰 75👍 26👎 2❓ - H Rules 3C
-* [HB 2191](hb/2191) - PTBA governing body members 1📰 70👍 26👎 7❓ - H Rules 3C
+* [HB 2191](hb/2191) - PTBA governing body members 2📰 70👍 26👎 7❓ - H Rules 3C
 * [SB 5780](sb/5780) - Public defense & prosecution 6📰 102👍 1👎 0❓ - C 293 L 24
 * [HB 1188](hb/1188) - Child welfare services/DD 1📰 100👍 0👎 2❓ - C 345 L 23
 * [SB 5272](sb/5272) - Speed safety cameras 9📰 91👍 6👎 5❓ - C 17 L 23

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161191&caId=24655&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161191&caId=24655&tId=4)
 
-#### 42 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
@@ -23,4 +23,6 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jakob Perry

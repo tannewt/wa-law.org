@@ -18,6 +18,8 @@ Sign up to testify:
 Testifying:
 * Kerry Werner - Attorney General's Office
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Sonja Hardenbrook - WDA/WACDL
 
 #### 0 ❓ - Other

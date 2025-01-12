@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32375&aId=161226&caId=24582&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32375&aId=161226&caId=24582&tId=4)
 
-#### 73 👍 - Pro
+#### 143 👍 - Pro
+Testifying:
+* Evan Gallo
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

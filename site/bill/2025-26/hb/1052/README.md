@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32368&aId=161079&caId=24630&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32368&aId=161079&caId=24630&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Yessenia Manzo - King County Prosecuting Attorney's Office
 
-#### 38 👎 - Con
+#### 285 👎 - Con
 Testifying:
 * Laurie Layne
 

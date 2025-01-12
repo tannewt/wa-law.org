@@ -14,9 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161394&caId=24706&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161394&caId=24706&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Jennifer Butler - Stand Up for Peninsula Schools
+* Krestin Bahr - Peninsula School District
 
-#### 0 👎 - Con
+#### 193 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
 
 #### 2 ❓ - Other
 Testifying:

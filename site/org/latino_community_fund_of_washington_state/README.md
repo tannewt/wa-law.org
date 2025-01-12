@@ -4,7 +4,8 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍💵 Jake García
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+* 👍💵 Jake García
 
 ## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Jake García

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=4)
 
-#### 15 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Lisa Yohalem - HealthPoint
 * 💵Erica Hallock - Start Early WA
@@ -38,7 +38,7 @@ Testifying:
 * Ruth Clemens - [City of Aberdeen](/org/city_of_aberdeen/)
 * Vickie Raines - Grays Harbor County
 
-#### 6 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * Kathryn Gardow - Chair, Public Works Board
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
@@ -46,3 +46,8 @@ Testifying:
 * Caroline Villanova - Mountains to Sound Greenway Trust
 * Jordan Rash - Backcountry Hunters and Anglers
 * Yvonne Kraus - Washington Wildlife and Recreation Coalition
+* Jim CastroLang - [Thrive International](/org/thrive_international/)
+* Erin McCardle - [City of Chelan](/org/city_of_chelan/)
+* Mike Gonzalez - City of Sunnyside
+* Kris Robbins - Lind-Ritzville Cooperative Schools
+* Jon Erickson - [Columbia Basin Development League](/org/columbia_basin_development_league/)

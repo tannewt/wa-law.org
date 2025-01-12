@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32407&aId=161218&caId=24563&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32407&aId=161218&caId=24563&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Amanda McKinney - Yakima County
 
 #### 0 👎 - Con
 

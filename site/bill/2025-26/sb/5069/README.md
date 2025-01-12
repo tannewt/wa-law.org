@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32427&aId=161275&caId=24601&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32427&aId=161275&caId=24601&tId=4)
 
-#### 10 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * Heidi Hunt - County Auditors Association/Adams County Auditor
 * 💵Michael Shaw - Washington Association of County Officials (WACO)

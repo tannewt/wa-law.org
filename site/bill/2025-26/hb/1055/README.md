@@ -18,11 +18,12 @@ Sign up to testify:
 Testifying:
 * Joe Kunzler
 
-#### 9 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * DONNA CHRISTENSEN
 * Robert McClure - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
 * Hannah Marcley - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
 * D Edson Clark
+* Jim Simon - individual
 
 #### 0 ❓ - Other

@@ -23,10 +23,12 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Bill Adamson - South Sound Military & Communities Partnership
 * 💵Gary Rowe - Vice Chair, Public Works Board
+* Erin McCardle - [City of Chelan](/org/city_of_chelan/)
+* Mike Gonzalez - City of Sunnyside
 
 ### Mon 01/13 04:00 PM - Ways & Means (WM): SB 5195: Higher education. (Remote Testimony Available).
 Sign up to testify:
@@ -67,12 +69,13 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Melissa Johnson - [Community Residential Services Association](/org/community_residential_services_association/)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Jessica Johnson
+* Kyla Shkerich Blair - [Thrive International](/org/thrive_international/)
 
 ### Mon 01/13 04:00 PM - Ways & Means (WM): SB 5195: K-12 public schools. (Remote Testimony Available).
 Sign up to testify:
@@ -87,7 +90,9 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Don Vanderholm - Lind-Ritzville Cooperative Schools
 
 ### Mon 01/13 04:00 PM - Ways & Means (WM): SB 5195: Natural resources. (Remote Testimony Available).
 Sign up to testify:
@@ -96,7 +101,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32413&aId=161375&caId=24608&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32413&aId=161375&caId=24608&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 5 👎 - Con
 Testifying:
@@ -106,8 +111,9 @@ Testifying:
 * Vickie Raines - Grays Harbor County
 * Allan Warren - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Caroline Villanova - Mountains to Sound Greenway Trust
 * Jordan Rash - Backcountry Hunters and Anglers
 * Yvonne Kraus - Washington Wildlife and Recreation Coalition
+* Jon Erickson - [Columbia Basin Development League](/org/columbia_basin_development_league/)

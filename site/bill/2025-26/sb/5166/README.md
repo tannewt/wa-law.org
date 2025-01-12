@@ -25,7 +25,7 @@ Testifying:
 Testifying:
 * Tim Eyman - Initiative Activist
 
-#### 8 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Radu Smintina - School's Out Washington
@@ -34,6 +34,7 @@ Testifying:
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * 💵Alex Hamasaki - [American Heart Association](/org/american_heart_association/)
 * Audrey Miller Garcia - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
+* Mohamed Khalif - The International Medical Graduates Academy (TIMGA)
 * 💵Melissa Gombosky - Big Smiles Pediatric Dentistry
 
 ### Tue 01/14 04:00 PM - Ways & Means (WM): SB 5166 and SB 5167: Early learning. (Remote Testimony Available).
@@ -97,7 +98,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161367&caId=24616&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161367&caId=24616&tId=4)
 
-#### 44 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Jim Theofelis - NorthStar Advocates
 * Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
@@ -120,8 +121,9 @@ Testifying:
 * Kris Camenzind - Hope Alliance
 * Sherrie Tinoco - WA State Coalition Against Domestic Violence
 * Alejandra Perdomo-Menera - Cherrywood Care Assisted Living
+* Shelly Willis - kinship caregiver
 
-#### 8 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Teresa Andree - Park Rose Care Center
 * Joany Schimmelfennig - Good Samaritan Health Care Center
@@ -131,8 +133,9 @@ Testifying:
 * Marc Schneiderman - Frontier Rehabilitation and Extended Care Center
 * Annie Wingard - Alaska Gardens Health and Rehab
 * Dieu Dinh - Hudson Bay Health and Rehab
+* Mark von Walter
 
-#### 21 ❓ - Other
+#### 22 ❓ - Other
 Testifying:
 * Ashley Dutton - Wonderland Child and Family Services
 * 💵Melanie Smith - WA State LTC Ombuds Program
@@ -155,6 +158,7 @@ Testifying:
 * 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 * Jessica Johnson
 * Hollianne Monson - Catholic Community Services
+* 💵Shaun Cross - [Maddie's Place](/org/maddie's_place/)
 
 ### Tue 01/14 04:00 PM - Ways & Means (WM): SB 5166 and SB 5167: K-12 public schools. (Remote Testimony Available).
 Sign up to testify:
@@ -198,7 +202,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161366&caId=24615&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161366&caId=24615&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Rashi Gupta - UW Medicine
 
 #### 0 👎 - Con
 
@@ -215,8 +221,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
+* Tom Davis - WA Forest Protection Association
 
 #### 0 ❓ - Other

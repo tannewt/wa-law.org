@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 37 👎 - Con
+#### 55 👎 - Con
 Testifying:
 * Jeff Pack - Me
 * Tim Eyman - Initiative Activist

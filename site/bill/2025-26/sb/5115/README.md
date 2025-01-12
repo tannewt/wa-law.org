@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161083&caId=24571&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161083&caId=24571&tId=4)
 
-#### 75 👍 - Pro
+#### 80 👍 - Pro
 Testifying:
 * Angelita Cervantes - Communities for Our College
 * Benjamin Gonzalez - Comunidades por nuestros colegios.

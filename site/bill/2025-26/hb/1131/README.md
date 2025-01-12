@@ -18,6 +18,8 @@ Sign up to testify:
 Testifying:
 * Waldo Waldron-Ramsey - [Washington Community Action Network](/org/washington_community_action_network/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 0 ❓ - Other

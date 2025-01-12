@@ -14,13 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32368&aId=161081&caId=24631&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32368&aId=161081&caId=24631&tId=4)
 
-#### 139 👍 - Pro
+#### 357 👍 - Pro
 Testifying:
 * 💵Tricia Gullion - Washington State Gambling Commission
 * 💵Kirsten Gregory - [Pasado's Safe Haven](/org/pasado's_safe_haven/)
 * Nathaniel Block
 * Sarah Hock - Washington Federation of Animal Care & Control Agencies/Joint Animal Services
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other

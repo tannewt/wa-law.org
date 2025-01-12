@@ -9,6 +9,7 @@
 ## 📰 Articles
 * 04/24/2023 [Crosscut](/org/crosscut/) - [The bills that survived Washington's 2023 legislative session | Crosscut](https://crosscut.com/politics/2023/04/bills-survived-washingtons-2023-legislative-session#:~:text=Senate%20Bill%205020)
 * 03/10/2023 [Crosscut](/org/crosscut/) - [Rifle ban, housing bills and more advance in the WA Legislature | Crosscut](https://crosscut.com/politics/2023/03/rifle-ban-housing-bills-and-more-advance-wa-legislature#:~:text=Senate%20Bill%205020)
+* 02/20/2023 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Lisa Wellman](https://senatedemocrats.wa.gov/blog/team_members/sen-lisa-wellman/#:~:text=A%20bill)
 * 01/26/2023 [Crosscut](/org/crosscut/) - [WA parents push back against proposal to lower required school age | Crosscut](https://crosscut.com/news/2023/01/wa-parents-push-back-against-proposal-lower-required-school-age#:~:text=Senate%20Bill%205020)
 * 01/08/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: WE'RE BACK - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/08/this-week-in-the-senate-week-1-were-back/#:~:text=Senate%20Bill%205020)
 * 05/18/2000 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Lisa Wellman](https://senatedemocrats.wa.gov/wellman/#:~:text=A%20bill)

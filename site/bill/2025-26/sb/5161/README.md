@@ -25,9 +25,10 @@ Testifying:
 Testifying:
 * Tim Eyman - Initiative Activist
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Nancy Backus - Mayor, City of Auburn
 * 💵Debora Munguia - Mason County
 * Chad Bieren - City of Kent Public Works Director
+* Carston Curd - City of Bothell Councilmember

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32411&aId=161381&caId=24697&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32411&aId=161381&caId=24697&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * 💵Justin Leighton - Washington State Transit Association
@@ -24,8 +24,9 @@ Testifying:
 Testifying:
 * Tim Eyman - Initiative Activist
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Nancy Backus - Mayor, City of Auburn
 * 💵Debora Munguia - Mason County
 * Chad Bieren - City of Kent Public Works Director
+* Jenne Alderks - City of Bothell Councilmember

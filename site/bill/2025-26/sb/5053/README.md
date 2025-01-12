@@ -14,11 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161022&caId=24594&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161022&caId=24594&tId=4)
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Matthew Lundh - Mayor, City of Cle Elum
 * Gary Berndt
 * Nicky Pasi - Mountains to Sound Greenway Trust
+* Claire Nicholls - Upper Kittitas County Community Recreation Center Alliance 501(c)(3)
+* Gary Berndt
+* John Belcher
+* Matthew Lundh
+* Paul Kantwill
 
 #### 0 👎 - Con
 

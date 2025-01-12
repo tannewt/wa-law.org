@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32408&aId=161390&caId=24702&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32408&aId=161390&caId=24702&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Hannah Fischer - Twin Sisters Moblie Market
 * Caitlin Sieh - Twin Sisters Mobile Market (Director of Special Projects)

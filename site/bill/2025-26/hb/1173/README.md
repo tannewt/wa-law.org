@@ -16,9 +16,10 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Rick Stumph - InServ PNW LLC
 * Cary Clemenson - InServ PNW LLC
+* Karen Miller - bp America -- Cherry Point Refinery
 
 #### 0 ❓ - Other

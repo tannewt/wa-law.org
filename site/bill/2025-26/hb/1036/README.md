@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32385&aId=161131&caId=24678&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32385&aId=161131&caId=24678&tId=4)
 
-#### 10 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Bill Lyne - United Faculty of WA

@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 37 👎 - Con
+#### 50 👎 - Con
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 

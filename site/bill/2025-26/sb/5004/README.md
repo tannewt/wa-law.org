@@ -14,10 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161302&caId=24568&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161302&caId=24568&tId=4)
 
-#### 2 👍 - Pro
+#### 173 👍 - Pro
 Testifying:
 * Lori Alhadeff - Make Our Schools Safe
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

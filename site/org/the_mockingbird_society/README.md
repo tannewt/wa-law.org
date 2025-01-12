@@ -6,7 +6,12 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
-### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍7  
+### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍13  
+* 👍💵 Charles Smith
+* 👍 Corrina Chatterton
+* 👍 Lexx Senner
+* 👍 Luv Anatomy
+* 👍 Esmina James-Secret
 
 ## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓2
 * ❓💵 Samuel Martin

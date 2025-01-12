@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32424&aId=161331&caId=24619&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32424&aId=161331&caId=24619&tId=4)
 
-#### 61 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
 * Jim Theofelis - NorthStar Advocates
 * Sara Robbins - Washington State Office of Civil Legal Aid
@@ -52,8 +52,11 @@ Testifying:
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Alejandra Perdomo-Menera - Cherrywood Care Assisted Living
+* Rashi Gupta - UW Medicine
+* Shelly Willis
+* Cathy Knight - WA Assn of Area Agencies on Aging (W4A) in support of senior nutrition funding
 
-#### 14 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
@@ -69,8 +72,9 @@ Testifying:
 * Tim Eyman - Initiative Activist
 * Marissa Rathbone - Washington State School Directors' Association
 * Dieu Dinh - Hudson Bay Health and Rehab
+* Tom Davis - WA Forest Protection Association
 
-#### 38 ❓ - Other
+#### 41 ❓ - Other
 Testifying:
 * Samantha Masters - [Akin](/org/akin/)
 * Ashley Dutton - Wonderland Child and Family Services
@@ -110,3 +114,6 @@ Testifying:
 * 💵Alex Hamasaki - [American Heart Association](/org/american_heart_association/)
 * 💵Casey Brown - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
 * Hollianne Monson - Catholic Community Services
+* 💵Shaun Cross - [Maddie's Place](/org/maddie's_place/)
+* Jim CastroLang - [Thrive International](/org/thrive_international/)
+* 💵Michele Thomas - WA Low Income Housing Alliance

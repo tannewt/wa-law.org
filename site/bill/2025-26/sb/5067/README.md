@@ -32,8 +32,8 @@ Testifying:
 * Tao Sheng Kwan-Gett - Washington Department of Health
 * Tom Chapman - National Transportation Safety Board
 
-#### 101 👎 - Con
+#### 180 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Jason Lantz - Washington Association of Criminal Defense Lawyers and Washington Defender Association

@@ -16,6 +16,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 185 👎 - Con
+Testifying:
+* Sarah Garriott
+* Joy Gjersvold - Conservative Ladies of Washington
 
 #### 0 ❓ - Other

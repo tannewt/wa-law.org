@@ -19,6 +19,6 @@ Testifying:
 * Barbara Posthumus - Lake Washington School District
 * Leah Choi - Lake Washington School District
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

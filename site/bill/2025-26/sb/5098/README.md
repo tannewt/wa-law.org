@@ -14,13 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161160&caId=24588&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161160&caId=24588&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 
-#### 161 👎 - Con
+#### 532 👎 - Con
 Testifying:
 * Jeff Pack - Me
 * Michael Strauss
 * 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
 * Jane Milhans
+* Jerry Koch - 110 Cottage Lane
+* Amanda McKinney - Yakima County
+* Nathaniel Port
+* Cory Barnes
+* Jacob Lynde
+* Phil Tamburlin
 
 #### 0 ❓ - Other

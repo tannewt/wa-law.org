@@ -18,6 +18,8 @@ Sign up to testify:
 Testifying:
 * Amber Leaders - Office of Governor Jay Inslee
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 0 ❓ - Other

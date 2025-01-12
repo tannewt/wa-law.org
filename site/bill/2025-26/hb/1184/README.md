@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161262&caId=24666&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161262&caId=24666&tId=4)
 
-#### 45 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Christopher Christian
 * 💵Patrick Connor - NFIB
@@ -25,6 +25,6 @@ Testifying:
 * Rose Gunderson
 * Kim Pope - Boys & Girls Club of the Columbia Basin
 
-#### 14 👎 - Con
+#### 15 👎 - Con
 
 #### 0 ❓ - Other

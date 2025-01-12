@@ -16,8 +16,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 0 ❓ - Other

@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32372&aId=161095&caId=24684&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32372&aId=161095&caId=24684&tId=4)
 
-#### 19 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * Bonny Jo Peterson
 * Joe Kunzler
+* Chryss James
 
 #### 0 👎 - Con
 

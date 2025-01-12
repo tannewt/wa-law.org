@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161389&caId=24699&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161389&caId=24699&tId=4)
 
-#### 1123 👍 - Pro
+#### 2117 👍 - Pro
 Testifying:
 * 💵Harpreet Kaur - FMSGS/WBBA
 * 💵Paula Sardinas - FMSGS?WBBA
@@ -33,8 +33,23 @@ Testifying:
 * William Booth
 * Kyle Taylor Lucas - Urban Indians NW & Tenants United at Western Plaza Mobile Home Park
 * Aliene Olsen - Tenants United at Western Plaza Mobile Home Park, Steering Cmt.
+* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
+* 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
+* 💵Ishbel Dickens - Assoc of Manufactured Home Owners
+* Diana Nygaard
+* 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
+* Teri Scott
+* Desirée Toliver
+* Kimberly Marquette
+* Scott Nygaard
+* Marilyn Anderson
+* 💵Nancy Sapiro - Puget Sound Advocates for Retirement Action (PSARA)
+* LISA STRIEDINGER-HUBBARD - Friends without homes
+* Terri Anderson - Tenants Union of Washington State
+* Janice Baxter
+* Marsha Daniel
 
-#### 1281 👎 - Con
+#### 2025 👎 - Con
 Testifying:
 * Constance Nelson
 * Audrey Riddle - [Goodman Real Estate](/org/goodman_real_estate/)
@@ -82,6 +97,7 @@ Testifying:
 * Errin Reynolds - 81-0966505
 * Angela Blevens - WASHINGTON LANDLORD ASSOCIATION
 * Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
+* Ben Phares
 * Shep Salusky
 * Tammie Freeman
 * Tim Steele
@@ -91,7 +107,25 @@ Testifying:
 * Grace Obuse
 * Michael Hawkins
 * PETER NELSON - Full Service Property Management
+* Autumn Meadows
+* Merry Field
+* Troy Peterson
+* Jennifer Zehrung - 17024 32nd Ave East
+* Brad Augustine
+* Dianna Ball - 604 whitecap dr nw
+* Jayne Ranae
+* Nam Nguyen
+* David Albers
+* Peter Jackson
+* Susan Hutchins
+* Kenton Gartrell - Yakima Valley Landlords Association Board member, Norse Woodworking owner, Willow Barn Ranch & PCO
+* DAVID NAGEL
+* Joe Levin
+* Todd Monohon - President of South West Washington Chapter, National Association of Residential Property Managers
+* John Templetton
 
-#### 11 ❓ - Other
+#### 26 ❓ - Other
 Testifying:
 * Ben Assa
+* Morgan Capps
+* Cathy Gerhart

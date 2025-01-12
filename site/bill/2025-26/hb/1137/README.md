@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161064&caId=24635&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161064&caId=24635&tId=4)
 
-#### 122 👍 - Pro
+#### 190 👍 - Pro
 Testifying:
 * Micaela Romero
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
