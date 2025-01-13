@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161159&caId=24587&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161159&caId=24587&tId=4)
 
-#### 18 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Mark McKechnie - Washington Traffic Safety Commission
@@ -33,7 +33,7 @@ Testifying:
 * Tao Sheng Kwan-Gett - Washington Department of Health
 * Tom Chapman - National Transportation Safety Board
 
-#### 196 👎 - Con
+#### 200 👎 - Con
 Testifying:
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)

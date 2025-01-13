@@ -1,6 +1,9 @@
 # Administrative Office of the Courts
 ## 2025-26
 
+### [HB 1144](/bill/2025-26/hb/1144/) - Superior court judge/Skagit 👍1  
+* 👍 Haily Perkins
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍2  
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley

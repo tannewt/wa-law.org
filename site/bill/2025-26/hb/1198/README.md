@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32424&aId=161331&caId=24619&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32424&aId=161331&caId=24619&tId=4)
 
-#### 76 👍 - Pro
+#### 78 👍 - Pro
 Testifying:
 * Jim Theofelis - NorthStar Advocates
 * Sara Robbins - Washington State Office of Civil Legal Aid
@@ -59,8 +59,9 @@ Testifying:
 * 💵Leslie Emerick - WA Acupuncture and Eastern Medicine Association (WAEMA)
 * 💵Lori Grassi - WA State Chiropractic Association
 * Maurice Parrish - Battle Ground Adventist Community Services Diaper Bank
+* Scott Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
 
-#### 29 👎 - Con
+#### 32 👎 - Con
 Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
@@ -79,8 +80,9 @@ Testifying:
 * Tom Davis - WA Forest Protection Association
 * LEN MCCOMB - WASHINGTON STATE HOSPITAL ASSOCIATION
 * Charlie Brown - Tacoma, Federal Way, Puyallup, Clover Park, Bethel and other School Districts
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 50 ❓ - Other
+#### 58 ❓ - Other
 Testifying:
 * Samantha Masters - [Akin](/org/akin/)
 * Ashley Dutton - Wonderland Child and Family Services
@@ -131,3 +133,10 @@ Testifying:
 * Tim Stokes - South Puget Sound Community College, State Board for Community and Technical Colleges
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Po Leapai
+* 💵Nora Selander - Western Washington University
+* 💵Lisa Daugaard - Purpose Dignity Action (PDA)
+* Carolanne Sanders Lundgren - Purpose Dignity Action (PDA)
+* Nichole Alexander - Purpose Dignity Action (PDA)
+* Chris Mulick - Washington State University
+* 💵Malika Lamont - Purpose Dignity Action (PDA)
+* 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)

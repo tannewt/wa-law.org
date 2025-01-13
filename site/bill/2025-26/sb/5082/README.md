@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32435&aId=161317&caId=24576&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32435&aId=161317&caId=24576&tId=4)
 
-#### 183 👍 - Pro
+#### 186 👍 - Pro
 Testifying:
 * 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Corrina Chatterton - [The Mockingbird Society](/org/the_mockingbird_society/)
@@ -25,6 +25,6 @@ Testifying:
 * Luv Anatomy - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Esmina James-Secret - [The Mockingbird Society](/org/the_mockingbird_society/)
 
-#### 142 👎 - Con
+#### 186 👎 - Con
 
 #### 0 ❓ - Other

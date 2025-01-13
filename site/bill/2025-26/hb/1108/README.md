@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32399&aId=161194&caId=24658&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32399&aId=161194&caId=24658&tId=4)
 
-#### 7 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Elisicher Smith
 
 #### 0 👎 - Con
 

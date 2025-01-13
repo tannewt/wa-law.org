@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization Tops Washington Democrats’ Housing Agenda for 2025 Session - The Urbanist](https://www.theurbanist.org/2025/01/13/rent-stabilization-tops-washington-democrats-housing-agenda/#:~:text=House%20Bill%201217)
+
 ## Meetings
 ### Mon 01/13 01:30 PM - Housing (HOUS): HB 1217 Residential tenants
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161389&caId=24699&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161389&caId=24699&tId=4)
 
-#### 2862 👍 - Pro
+#### 3093 👍 - Pro
 Testifying:
 * 💵Harpreet Kaur - FMSGS/WBBA
 * 💵Paula Sardinas - FMSGS?WBBA
@@ -73,11 +76,13 @@ Testifying:
 * Joseph Price
 * Victoria Loveland
 * Calvin Rabiroff
+* Caroline Hardy
 * Richard sims
 * SANDRA Sims
 * Meredith Slota
+* Glenn Harper - The Elderhood Senior Alliance
 
-#### 2604 👎 - Con
+#### 3004 👎 - Con
 Testifying:
 * Constance Nelson
 * Audrey Riddle - [Goodman Real Estate](/org/goodman_real_estate/)
@@ -163,15 +168,22 @@ Testifying:
 * MICHAEL YOUNG
 * Keaton Forrest
 * Leslie Boeshart
+* Stephanie Erickson
 * Chi Walsh
 * Anne Knapp
+* Gaylerd Masters
 * MARILYN HUNT
 * Sharon Hsieh
 * Marlow Harris
 * John Wisdom
 * Lizabeth Lyles - - None -
+* Yoel Kelman - Three Pillar Communities
+* DAN TRACY
+* Paula Cottingham
+* Kathy Dobler
+* Russ Millard - PREFERRED PROPERTIES
 
-#### 38 ❓ - Other
+#### 41 ❓ - Other
 Testifying:
 * Ben Assa
 * Morgan Capps

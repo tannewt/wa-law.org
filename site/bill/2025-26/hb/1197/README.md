@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 13 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Chris Bailey - State Board for Community and Technical Colleges
 * Tim Stokes - South Puget Sound Community College, State Board for Community and Technical Colleges

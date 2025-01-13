@@ -16,6 +16,9 @@ Sign up to testify:
 
 #### 3 👍 - Pro
 
-#### 145 👎 - Con
+#### 189 👎 - Con
+Testifying:
+* Jamie renninger
+* Eileen Anderson
 
 #### 1 ❓ - Other

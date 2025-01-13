@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161262&caId=24666&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161262&caId=24666&tId=4)
 
-#### 69 👍 - Pro
+#### 80 👍 - Pro
 Testifying:
 * Christopher Christian
 * 💵Patrick Connor - NFIB
@@ -24,7 +24,8 @@ Testifying:
 * 💵Neal Mizushima - [Nonprofit Association of Washington](/org/nonprofit_association_of_washington/)
 * Rose Gunderson
 * Kim Pope - Boys & Girls Club of the Columbia Basin
+* Miriam Battson - Gig Harbor Chamber of Commerce
 
-#### 19 👎 - Con
+#### 21 👎 - Con
 
 #### 0 ❓ - Other

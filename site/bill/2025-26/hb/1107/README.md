@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161108&caId=24646&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161108&caId=24646&tId=4)
 
-#### 93 👍 - Pro
+#### 127 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Kathryn Horvath - WashPIRG
 
-#### 214 👎 - Con
+#### 259 👎 - Con
 Testifying:
 * Edith Faylor
 * john worthington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

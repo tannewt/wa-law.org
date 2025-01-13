@@ -21,9 +21,10 @@ Testifying:
 * 💵Laurie Weidner - Retired Public Employees Council of WA
 * 💵Melissa Johnson - District & Municipal Court Judges Association
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 10 ❓ - Other
 Testifying:
@@ -65,7 +66,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161365&caId=24614&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161365&caId=24614&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Miri Cypers - Anti-Defamation League Pacific Northwest Region
 
@@ -86,7 +87,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Jacob Vigdor - University of Washington Faculty
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
@@ -94,6 +95,7 @@ Testifying:
 * Stephen Bollens - Washington State University
 * Chemene Crawford - Everett Community College, State Board for Community and Technical Colleges
 * Chris Bailey - State Board for Community and Technical Colleges
+* 💵Nora Selander - Western Washington University
 
 ### Tue 01/14 04:00 PM - Ways & Means (WM): SB 5166 and SB 5167: Human services. (Remote Testimony Available).
 Sign up to testify:
@@ -102,7 +104,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161367&caId=24616&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161367&caId=24616&tId=4)
 
-#### 50 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * Jim Theofelis - NorthStar Advocates
 * Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
@@ -141,7 +143,7 @@ Testifying:
 * Mark von Walter
 * Steven Hughes - Regency at the Park Skilled Nursing Facility
 
-#### 24 ❓ - Other
+#### 29 ❓ - Other
 Testifying:
 * Ashley Dutton - Wonderland Child and Family Services
 * 💵Melanie Smith - WA State LTC Ombuds Program
@@ -167,6 +169,11 @@ Testifying:
 * 💵Shaun Cross - [Maddie's Place](/org/maddie's_place/)
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Rob Huff
+* Anna Bondarenko - [Thrive International](/org/thrive_international/)
+* 💵Lisa Daugaard - Purpose Dignity Action (PDA)
+* Nichole Alexander - Purpose Dignity Action (PDA)
+* Carolanne Sanders Lundgren - Purpose Dignity Action (PDA)
+* 💵Malika Lamont - Purpose Dignity Action (PDA)
 
 ### Tue 01/14 04:00 PM - Ways & Means (WM): SB 5166 and SB 5167: K-12 public schools. (Remote Testimony Available).
 Sign up to testify:

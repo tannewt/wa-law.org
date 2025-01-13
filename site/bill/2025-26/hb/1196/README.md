@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161403&caId=24713&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161403&caId=24713&tId=4)
 
-#### 88 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions
 
-#### 12 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Rebecca Faust - n/a
 

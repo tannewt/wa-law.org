@@ -24,13 +24,14 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎💵 Janie White
 
-## [SB 5186](/bill/2025-26/sb/5186/) - School district elections   ❓1
+### [SB 5186](/bill/2025-26/sb/5186/) - School district elections   ❓1
 * ❓💵 Simone Boe
+
+## [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 
 ## 2023-24
 
-### [SB 5186](/bill/2023-24/sb/5186/) - School district elections   ❓1
-* ❓💵 Simone Boe
+### [SB 5195](/bill/2023-24/sb/5195/) - Capital budget 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 

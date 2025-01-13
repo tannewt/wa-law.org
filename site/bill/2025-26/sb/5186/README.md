@@ -22,7 +22,7 @@ Testifying:
 * Jennifer Butler - Stand Up for Peninsula Schools
 * Krestin Bahr - Peninsula School District
 
-#### 309 👎 - Con
+#### 366 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 

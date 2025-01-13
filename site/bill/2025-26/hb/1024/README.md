@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161329&caId=24647&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161329&caId=24647&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Kevin Daniels - The Lodge at St Edward State Park
 * Owen Rowe - Washington State Parks and Recreation Commission, Policy and Governmental Affairs Director
+* James Daniels
 
 #### 0 👎 - Con
 

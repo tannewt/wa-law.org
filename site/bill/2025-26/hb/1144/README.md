@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32370&aId=161085&caId=24623&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32370&aId=161085&caId=24623&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Commissioner Lisa Janicki - Skagit County Board of Commissioners
+* Haily Perkins - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Judge Laura Riquelme - Skagit County Superior Court
 
 #### 0 👎 - Con
 

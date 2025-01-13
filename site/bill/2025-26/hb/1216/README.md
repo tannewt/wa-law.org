@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=4)
 
-#### 18 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Lisa Yohalem - HealthPoint
 * 💵Erica Hallock - Start Early WA
@@ -40,7 +40,7 @@ Testifying:
 * Vickie Raines - Grays Harbor County
 * JOHN WORTHINGTON
 
-#### 14 ❓ - Other
+#### 16 ❓ - Other
 Testifying:
 * Kathryn Gardow - Chair, Public Works Board
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
@@ -56,3 +56,5 @@ Testifying:
 * Patrick Arney - [Weld Seattle](/org/weld_seattle/)
 * Dan Ford - [City of Toppenish](/org/city_of_toppenish/)
 * Jen Burbidge
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* DAVID DEMARCO - EVERETT FIRE DEPARTMENT

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5167/</link>
 		<description>Updates about SB 5167</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 12 Jan 2025 19:05:48 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,13 @@
 			<pubDate>Sun, 12 Jan 2025 19:05:48 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2025/01/12/this-week-in-the-senate-week-1-welcome-to-the-2025-session/#:~:text=Senate%20Bill%205167</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Ways &amp; Means (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Ways &amp; Means (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-13/First reading, referred to Ways &amp; Means (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

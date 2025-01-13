@@ -14,15 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161191&caId=24655&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161191&caId=24655&tId=4)
 
-#### 135 👍 - Pro
+#### 176 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Ruby Holland
 * Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * 💵Bill Clarke - [WA Realtors](/org/washington_association_of_realtors/)
+* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* Charlotte Kayne-Amoureux
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Salim Nice - Mayor, City Mercer Island
 
 #### 3 ❓ - Other
 Testifying:

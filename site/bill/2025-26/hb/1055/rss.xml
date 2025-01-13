@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1055/</link>
 		<description>Updates about HB 1055</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 11 Jan 2025 05:22:41 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -62,6 +62,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jim/Simon/2025-01-11 05:22:41</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government &amp; Tribal Relations (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to State Government &amp; Tribal Relations (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-13/First reading, referred to State Government &amp; Tribal Relations (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

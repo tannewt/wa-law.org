@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32368&aId=161079&caId=24630&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32368&aId=161079&caId=24630&tId=4)
 
-#### 9 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Yessenia Manzo - King County Prosecuting Attorney's Office
 * Ariel Novick - ADL Pacific Northwest
 
-#### 423 👎 - Con
+#### 508 👎 - Con
 Testifying:
 * Laurie Layne
+* Sharon Damoff
 
 #### 1 ❓ - Other

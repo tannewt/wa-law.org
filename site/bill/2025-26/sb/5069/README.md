@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [Senate Democrats](/org/senate_democrats/) - [The 2025 legislative session has officially begun - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/01/13/the-2025-legislative-session-has-officially-begun/#:~:text=SB%205069)
+
 ## Meetings
 ### Tue 01/14 01:30 PM - State Government & Elections (SGE): SB 5069 Voters' pamphlets
 Sign up to testify:
@@ -14,13 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32427&aId=161275&caId=24601&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32427&aId=161275&caId=24601&tId=4)
 
-#### 83 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * Heidi Hunt - County Auditors Association/Adams County Auditor
 * 💵Michael Shaw - Washington Association of County Officials (WACO)
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* 💵Conner Edwards - Professional Campaign Treasurer/CG Edwards PLLC
 
-#### 112 👎 - Con
+#### 150 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Laurie Layne

@@ -14,14 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161098&caId=24687&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161098&caId=24687&tId=4)
 
-#### 73 👍 - Pro
+#### 76 👍 - Pro
 Testifying:
 * 💵Anthony Blankenship - [Civil Survival Project](/org/civil_survival_project/)
 * Amani Sawari
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Jacob Schmitt - Just Us Solutions
 
-#### 15 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 

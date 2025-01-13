@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1107/</link>
 		<description>Updates about HB 1107</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 12 Jan 2025 04:40:49 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jan 2025 08:39:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2024-12-20/Prefiled for introduction.</guid>
 		</item>
 		<item>
-			<title>👎Edith Faylor - Zero Waste Washington</title>
+			<title>👎Edith Faylor - WashPIRG</title>
 			<description>Edith Faylor signed up to testify Con.</description>
 			<pubDate>Sat, 11 Jan 2025 10:50:03 GMT</pubDate>
 			<category>testifier</category>
@@ -24,7 +24,7 @@
 			<guid isPermaLink="false">testifier/Edith/Faylor/2025-01-11 10:50:03</guid>
 		</item>
 		<item>
-			<title>👎john worthington - Zero Waste Washington</title>
+			<title>👎john worthington - WashPIRG</title>
 			<description>john worthington signed up to testify Con.</description>
 			<pubDate>Sun, 12 Jan 2025 02:49:33 GMT</pubDate>
 			<category>testifier</category>
@@ -38,6 +38,21 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Heather/Trim/2025-01-12 04:40:49</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Environment &amp; Energy (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Environment &amp; Energy (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-13/First reading, referred to Environment &amp; Energy (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>👍💵Kathryn Horvath - WashPIRG</title>
+			<description>Kathryn Horvath signed up to testify Pro. They are signed up to represent WashPIRG. They are a registered lobbyist.</description>
+			<pubDate>Mon, 13 Jan 2025 08:39:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kathryn/Horvath/2025-01-13 08:39:23</guid>
 		</item>
 	</channel>
 </rss>

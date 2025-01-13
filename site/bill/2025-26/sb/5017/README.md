@@ -22,7 +22,7 @@ Testifying:
 * Mary Hall - Thurston County Auditor
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 117 👎 - Con
+#### 159 👎 - Con
 Testifying:
 * Lorilee Gates
 * C. Jay Coles - [Verified Voting](/org/verified_voting/)
