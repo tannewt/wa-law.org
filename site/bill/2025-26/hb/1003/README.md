@@ -18,9 +18,12 @@ Sign up to testify:
 Testifying:
 * Daniel Wulfkuhle
 
-#### 4 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Kenton Gartrell - Precinct Officer, Norse Woodworking, and Ranch owner and Landlord board member
 * Kenton Gartrell - Willow Barn Ranch & Norse Woodworking owner, precinct officer, Yakima Valley Landlord board member
+* MICHAEL YOUNG
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Lauren Bisplinghoff

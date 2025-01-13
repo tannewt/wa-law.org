@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=4)
 
-#### 16 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Lisa Yohalem - HealthPoint
 * 💵Erica Hallock - Start Early WA
@@ -30,15 +30,17 @@ Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Lua Pritchard - [Asia Pacific Cultural Center](/org/asia_pacific_cultural_center/)
 * Mary Connolly - South Sound Housing Affordability Partners
+* Hend Alhinnawi - Muslim Association of Puget Sound (MAPS)
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Brian Shay - [City of Hoquiam](/org/city_of_hoquiam/)
 * Darrin Raines - Greater Grays Harbor, Inc.
 * Ruth Clemens - [City of Aberdeen](/org/city_of_aberdeen/)
 * Vickie Raines - Grays Harbor County
+* JOHN WORTHINGTON
 
-#### 11 ❓ - Other
+#### 14 ❓ - Other
 Testifying:
 * Kathryn Gardow - Chair, Public Works Board
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
@@ -51,3 +53,6 @@ Testifying:
 * Mike Gonzalez - City of Sunnyside
 * Kris Robbins - Lind-Ritzville Cooperative Schools
 * Jon Erickson - [Columbia Basin Development League](/org/columbia_basin_development_league/)
+* Patrick Arney - [Weld Seattle](/org/weld_seattle/)
+* Dan Ford - [City of Toppenish](/org/city_of_toppenish/)
+* Jen Burbidge

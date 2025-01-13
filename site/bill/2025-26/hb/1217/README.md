@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161389&caId=24699&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161389&caId=24699&tId=4)
 
-#### 2117 👍 - Pro
+#### 2862 👍 - Pro
 Testifying:
 * 💵Harpreet Kaur - FMSGS/WBBA
 * 💵Paula Sardinas - FMSGS?WBBA
@@ -48,8 +48,36 @@ Testifying:
 * Terri Anderson - Tenants Union of Washington State
 * Janice Baxter
 * Marsha Daniel
+* Karalyn Gibbs
+* William McQuaid
+* 💵Paul Benz - Quaker Voice
+* Valerie phillips
+* JENNIFER BAXTER
+* Susan Cozzens
+* Warren Miller
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Kelley Rinehart - My own rental business
+* Stephanie Tidholm
+* Richard Benbow
+* Chris Walker
+* Tonya Hennen
+* Zeenia Junkeer
+* kraig peck
+* Duana Ricks-Johnson
+* Sol Villarreal
+* Tina Hammond
+* Deborah Wilson
+* Monica Zazueta
+* Robin Zorich
+* Tom Crawford
+* Joseph Price
+* Victoria Loveland
+* Calvin Rabiroff
+* Richard sims
+* SANDRA Sims
+* Meredith Slota
 
-#### 2025 👎 - Con
+#### 2604 👎 - Con
 Testifying:
 * Constance Nelson
 * Audrey Riddle - [Goodman Real Estate](/org/goodman_real_estate/)
@@ -123,8 +151,27 @@ Testifying:
 * Joe Levin
 * Todd Monohon - President of South West Washington Chapter, National Association of Residential Property Managers
 * John Templetton
+* John Stiggelbout - Olyopa LLC
+* Frantz Germain
+* Cheryl Jennett
+* Morgan Shook - ECOnorthwest
+* Jennifer Lekisch
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Sherilyn Olson
+* Clara Ling
+* John Huang
+* MICHAEL YOUNG
+* Keaton Forrest
+* Leslie Boeshart
+* Chi Walsh
+* Anne Knapp
+* MARILYN HUNT
+* Sharon Hsieh
+* Marlow Harris
+* John Wisdom
+* Lizabeth Lyles - - None -
 
-#### 26 ❓ - Other
+#### 38 ❓ - Other
 Testifying:
 * Ben Assa
 * Morgan Capps

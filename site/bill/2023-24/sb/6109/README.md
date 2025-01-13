@@ -23,6 +23,8 @@
 * 01/19/2024 [MyNorthwest](/org/mynorthwest/) - [Bill proposing child removal from homes with fentanyl gets emotional - MyNorthwest.com](https://mynorthwest.com/3947163/bill-proposes-child-removal-homes-fentanyl-sparks-charged-debate/#:~:text=Senate%20Bill%206109)
 * 01/11/2024 [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/public-safety/#:~:text=Senate%20Bill%206109)
 * 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/drugs/#:~:text=Senate%20Bill%206109)
+* [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/drugs/#:~:text=Senate%20Bill%206109)
+* [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/public-safety/#:~:text=Senate%20Bill%206109)
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Appropriations (APP): E2SSB 6109 Children and families

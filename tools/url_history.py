@@ -51,6 +51,7 @@ class HistorySession:
         self.client = None
 
     async def get(self, url, fetch_again=False, index=-1, crawl_delay=0, only_after=None):
+        # print(url)
         now = datetime.datetime.now()
         cur = self.db.cursor()
         cur.execute("SELECT sha256, content_xz, first_fetch, last_fetch FROM pages WHERE url = ? ORDER BY last_fetch ASC", (url,))
@@ -64,18 +65,22 @@ class HistorySession:
                 headers["If-Modified-Since"] = only_after.strftime("%a, %d %b %Y %H:%M:%S GMT")
             elif "If-Modified-Since" in headers:
                 del headers["If-Modified-Since"]
-            async for attempt in stamina.retry_context(on=httpx.HTTPError, attempts=3):
-                with attempt:
-                    response = await self.client.get(url, headers=headers, follow_redirects=True)
-                    if response.status_code == 304:
-                        return None
-                    if response.status_code == 403 and "cf-mitigated" in response.headers:
-                        raise Blocked()
-                    response.raise_for_status()
+            response = None
+            try:
+                async for attempt in stamina.retry_context(on=httpx.HTTPError, attempts=3):
+                    with attempt:
+                        response = await self.client.get(url, headers=headers, follow_redirects=True)
+                        if response.status_code == 304:
+                            return None
+                        if response.status_code == 403 and "cf-mitigated" in response.headers:
+                            raise Blocked()
+                        response.raise_for_status()
+            except httpx.HTTPError:
+                pass
 
             self.already_refetched.add(url)
             # Hide failing requests if we have an older version
-            if response.status_code != httpx.codes.OK:
+            if response is None or response.status_code != httpx.codes.OK:
                 if past_fetch:
                     return lzma.decompress(past_fetch[index][1])
                 return None

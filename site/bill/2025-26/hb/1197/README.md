@@ -16,8 +16,12 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 13 👎 - Con
+Testifying:
+* Chris Bailey - State Board for Community and Technical Colleges
+* Tim Stokes - South Puget Sound Community College, State Board for Community and Technical Colleges
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation

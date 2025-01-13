@@ -7,7 +7,7 @@
 ### [HB 1035](/bill/2025-26/hb/1035/) - Higher ed. traumatic stress 👍1  
 * 👍💵 Simone Boe
 
-### [HB 1036](/bill/2025-26/hb/1036/) - Labor trustees/colleges 👍1  
+### [HB 1036](/bill/2025-26/hb/1036/) - Labor trustees/colleges 👍2  
 * 👍💵 Simone Boe
 
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers 👍1  

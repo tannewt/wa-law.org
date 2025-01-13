@@ -14,11 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32403&aId=161204&caId=24673&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32403&aId=161204&caId=24673&tId=4)
 
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Nicky Pasi - Mountains to Sound Greenway Trust
 * Matthew Lundh - Mayor, City of Cle Elum
 * Gary Berndt
+* Claire Nicholls
+* Gary Berndt
+* John Belcher
+* Matthew Lundh
+* Paul Kantwill
 
 #### 0 👎 - Con
 

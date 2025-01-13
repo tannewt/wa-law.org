@@ -23,6 +23,11 @@
 * 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/drugs/#:~:text=Senate%20Bill%205950)
 * 01/08/2024 [Washington St Pta](/org/washington_st_pta/) - [2024 Session Preview: Legislature convenes January 8 for short session - WSPTA](https://www.wastatepta.org/2024-session-preview/#:~:text=SB%205950)
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%205950)
+* [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/affordability/#:~:text=Senate%20Bill%205950)
+* [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/drugs/#:~:text=Senate%20Bill%205950)
+* [House Republicans](/org/house_republicans/) - [Better Schools | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/education/#:~:text=Senate%20Bill%205950)
+* [House Republicans](/org/house_republicans/) - [Fix the housing & homelessness crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/housing/#:~:text=Senate%20Bill%205950)
+* [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/public-safety/#:~:text=Senate%20Bill%205950)
 
 ## Meetings
 ### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: All other. (Remote Testimony Available).

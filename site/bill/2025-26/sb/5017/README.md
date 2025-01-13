@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/12/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: Welcome to the 2025 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/12/this-week-in-the-senate-week-1-welcome-to-the-2025-session/#:~:text=Senate%20Bill%205017)
+
 ## Meetings
 ### Tue 01/14 01:30 PM - State Government & Elections (SGE): SB 5017 Uniformed & overseas voting
 Sign up to testify:
@@ -19,8 +22,9 @@ Testifying:
 * Mary Hall - Thurston County Auditor
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 1 👎 - Con
+#### 117 👎 - Con
 Testifying:
 * Lorilee Gates
+* C. Jay Coles - [Verified Voting](/org/verified_voting/)
 
 #### 0 ❓ - Other

@@ -22,5 +22,11 @@
 * 04/18/2023 [House Republicans](/org/house_republicans/) - [Our Priorities | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/#:~:text=House%20bill%201415)
 * 02/03/2023 [House Republicans](/org/house_republicans/) - [Confronting drug addiction | Washington State House Republicans](https://houserepublicans.wa.gov/confront-drug-addiction/#:~:text=House%20bill%201415)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201415)
+* [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/affordability/#:~:text=House%20bill%201415)
+* [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/child-care/#:~:text=House%20bill%201415)
+* [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/drugs/#:~:text=House%20bill%201415)
+* [House Republicans](/org/house_republicans/) - [Better Schools | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/education/#:~:text=House%20bill%201415)
+* [House Republicans](/org/house_republicans/) - [Fix the housing & homelessness crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/housing/#:~:text=House%20bill%201415)
+* [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/public-safety/#:~:text=House%20bill%201415)
 
 ## Meetings

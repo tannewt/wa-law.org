@@ -5,17 +5,15 @@ import url_history
 import pathlib
 import csv
 
-requests = url_history.HistorySession("committee_cache.db")
-
 api_root_url = "http://wslwebservices.leg.wa.gov"
 csi_root_url = "https://app.leg.wa.gov/csi"
 
 
-def request_biennium_meetings(start_year, force_fetch):
+async def request_biennium_meetings(session, start_year, force_fetch):
     url = api_root_url + \
         f"/CommitteeMeetingService.asmx/GetCommitteeMeetings?beginDate={start_year}-01-01&endDate={start_year+1}-12-31"
     print(f"Loading {url}")
-    response = requests.get(url, fetch_again=force_fetch)
+    response = await session.get(url, fetch_again=force_fetch)
     return BeautifulSoup(response.decode("utf-8"), "xml")
 
 
@@ -47,18 +45,18 @@ def extract_meetings(meetings_xml):
     return all_meetings
 
 
-def load_committee_meeting_items(agenda_id, force_fetch):
+async def load_committee_meeting_items(session, agenda_id, force_fetch):
     url = api_root_url + f"/CommitteeMeetingService.asmx/GetCommitteeMeetingItems?agendaId={agenda_id}"
-    response = requests.get(url, fetch_again=force_fetch)
+    response = await session.get(url, fetch_again=force_fetch)
     items_xml = BeautifulSoup(response.decode("utf-8"), "xml")
     return items_xml.find_all("CommitteeMeetingItem")
 
 
-def populate_meeting_items(all_meetings, meetings_by_bill, now, force_fetch):
+async def populate_meeting_items(session, all_meetings, meetings_by_bill, now, force_fetch):
     for (meeting_date, meeting) in all_meetings:
         upcoming = now < meeting_date
         agenda_id = meeting["agendaId"]
-        items = load_committee_meeting_items(agenda_id, upcoming and force_fetch)
+        items = await load_committee_meeting_items(session, agenda_id, upcoming and force_fetch)
         agenda = {}
         meeting["agenda"] = agenda
         for item in items:
@@ -91,11 +89,11 @@ with agenda_fn.open("r") as f:
             agenda_cache[agendaId] = []
         agenda_cache[agendaId].append(AgendaItem(*row))
 
-def load_agenda_items(agendaId, force_fetch):
+async def load_agenda_items(session, agendaId, force_fetch):
     if not force_fetch and agendaId in agenda_cache:
         return agenda_cache[agendaId]
     url = csi_root_url + f"/Home/GetAgendaItems/?chamber=House&meetingFamilyId={agendaId}"
-    response = requests.get(url, fetch_again=force_fetch)
+    response = session.get(url, fetch_again=force_fetch)
     xml_items = BeautifulSoup(response.decode("utf-8"), "lxml")
     agenda_items = []
     for item in xml_items.find_all(class_="agendaItem"):
@@ -117,21 +115,21 @@ def save_cache_files():
             writer.writerows(agenda_cache[agendaId])
 
 
-def load_all_meetings(start_year, force_fetch):
-  meetings_xml = request_biennium_meetings(start_year, force_fetch)
+async def load_all_meetings(session, start_year, force_fetch):
+  meetings_xml = await request_biennium_meetings(session, start_year, force_fetch)
   return extract_meetings(meetings_xml)
 
 
-def load_biennium_meetings_by_bill(start_year, now, force_fetch):
-    all_meetings = load_all_meetings(start_year, force_fetch)
+async def load_biennium_meetings_by_bill(session, start_year, now, force_fetch):
+    all_meetings = await load_all_meetings(session, start_year, force_fetch)
     meetings_by_bill = {}
-    populate_meeting_items(all_meetings, meetings_by_bill, now, force_fetch)
+    await populate_meeting_items(session, all_meetings, meetings_by_bill, now, force_fetch)
     return all_meetings, meetings_by_bill
 
 
-def load_testifier_counts(caId, force_fetch):
+async def load_testifier_counts(session, caId, force_fetch):
     url = csi_root_url + f"/Home/GetOtherTestifiers/?agendaItemId={caId}"
-    testifiers = requests.get(url, fetch_again=force_fetch)
+    testifiers = session.get(url, fetch_again=force_fetch)
     testifiers = BeautifulSoup(testifiers.decode("utf-8"), "lxml")
     results = []
     for row in testifiers.find_all("tr"):

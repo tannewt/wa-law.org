@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1216/</link>
 		<description>Updates about HB 1216</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 11 Jan 2025 10:25:37 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 12 Jan 2025 11:00:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -246,6 +246,46 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jon/Erickson/2025-01-11 10:25:37</guid>
+		</item>
+		<item>
+			<title>❓Patrick Arney - Weld Seattle</title>
+			<description>Patrick Arney signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/weld_seattle/"&gt;Weld Seattle&lt;/a&gt;.</description>
+			<pubDate>Sun, 12 Jan 2025 02:10:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Patrick/Arney/2025-01-12 02:10:47</guid>
+		</item>
+		<item>
+			<title>👎JOHN WORTHINGTON - Grays Harbor County</title>
+			<description>JOHN WORTHINGTON signed up to testify Con.</description>
+			<pubDate>Sun, 12 Jan 2025 03:07:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/JOHN/WORTHINGTON/2025-01-12 03:07:05</guid>
+		</item>
+		<item>
+			<title>❓Dan Ford - City of Toppenish</title>
+			<description>Dan Ford signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_toppenish/"&gt;City of Toppenish&lt;/a&gt;.</description>
+			<pubDate>Sun, 12 Jan 2025 03:44:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Dan/Ford/2025-01-12 03:44:49</guid>
+		</item>
+		<item>
+			<title>👍Hend Alhinnawi - Muslim Association of Puget Sound (MAPS)</title>
+			<description>Hend Alhinnawi signed up to testify Pro. They are signed up to represent Muslim Association of Puget Sound (MAPS).</description>
+			<pubDate>Sun, 12 Jan 2025 07:57:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Hend/Alhinnawi/2025-01-12 07:57:17</guid>
+		</item>
+		<item>
+			<title>❓Jen Burbidge - City of Toppenish</title>
+			<description>Jen Burbidge signed up to testify Other.</description>
+			<pubDate>Sun, 12 Jan 2025 11:00:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jen/Burbidge/2025-01-12 11:00:10</guid>
 		</item>
 	</channel>
 </rss>

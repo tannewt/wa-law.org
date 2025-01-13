@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/12/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: Welcome to the 2025 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/12/this-week-in-the-senate-week-1-welcome-to-the-2025-session/#:~:text=Senate%20Bill%205067)
 * 12/19/2024 [The Center Square](/org/the_center_square/) - [Bipartisan effort reducing BAC limit to .05% could face opposition from both sides | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5743f656-be4f-11ef-8e62-f748d7706995.html#:~:text=Senate%20Bill%205067)
 
 ## Meetings
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161159&caId=24587&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161159&caId=24587&tId=4)
 
-#### 17 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Mark McKechnie - Washington Traffic Safety Commission
@@ -32,7 +33,11 @@ Testifying:
 * Tao Sheng Kwan-Gett - Washington Department of Health
 * Tom Chapman - National Transportation Safety Board
 
-#### 180 👎 - Con
+#### 196 👎 - Con
+Testifying:
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 2 ❓ - Other
 Testifying:

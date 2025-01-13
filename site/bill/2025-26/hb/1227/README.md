@@ -20,13 +20,16 @@ Testifying:
 * 💵Justin Leighton - Washington State Transit Association
 * Jared Nieuwenhuis - City of Bellevue, Council
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
+* JOHN WORTHINGTON
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Nancy Backus - Mayor, City of Auburn
 * 💵Debora Munguia - Mason County
 * Chad Bieren - City of Kent Public Works Director
 * Jenne Alderks - City of Bothell Councilmember
+* Lael White
+* Jeff Wagner - [City of Covington](/org/city_of_covington/)

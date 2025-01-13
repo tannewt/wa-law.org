@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161022&caId=24594&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161022&caId=24594&tId=4)
 
-#### 9 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Matthew Lundh - Mayor, City of Cle Elum
 * Gary Berndt

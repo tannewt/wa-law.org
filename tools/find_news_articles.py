@@ -230,6 +230,10 @@ async def scrape(progress, session, org_rowid, domain):
         homepage = await session.get(url_base, fetch_again=FETCH_NEW, crawl_delay=crawl_delay)
     except (asyncio.TimeoutError, httpx.HTTPStatusError, httpx.ConnectError) as e:
         print(f"Unable to get homepage {url_base} {e}")
+    except url_history.Blocked:
+        print(f"Blocked by CloudFlare {url_base}")
+        progress.update(task, visible=False)
+        return
 
     try:
         homepage = BeautifulSoup(homepage, 'html.parser')

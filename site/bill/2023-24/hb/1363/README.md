@@ -51,6 +51,7 @@
 * 01/23/2023 [The Center Square](/org/the_center_square/) - [‘The data is incomplete’: Sen. Dhingra defends her opposition to revising police pursuit law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_75a8ced4-9b7c-11ed-9255-97615e5e5d25.html#:~:text=House%20Bill%201363)
 * 01/18/2023 [FOX13](/org/fox13/) - [Bill introduced to amend Washington's police pursuit laws unlikely to pass](https://www.fox13seattle.com/news/police-pursuits-washington-law-bill-to-amend-unlikely-to-pass-legislature#:~:text=House%20Bill%201363)
 * 01/18/2023 [Gorge News Center](/org/gorge_news_center/) - [Unified bipartisan vehicular pursuit bill emerges in Olympia](https://gorgenewscenter.com/2023/01/18/unified-bipartisan-vehicular-pursuit-bill-emerges-in-olympia/#:~:text=House%20Bill%201363)
+* [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/public-safety/#:~:text=House%20bill%201363)
 * [PubliCola](/org/publicola/) - [PubliCola - News. Politics. Urbanism.](https://publicola.com/#:~:text=House%20Bill%201363)
 
 ## Meetings

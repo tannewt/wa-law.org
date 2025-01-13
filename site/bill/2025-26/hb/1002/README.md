@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32397&aId=161173&caId=24667&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32397&aId=161173&caId=24667&tId=4)
 
-#### 15 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵Timothy Grisham - [Washington Association of County Officials](/org/washington_association_of_county_officials/)
 * Annie Pillers - Washington Association of Coroners and Medical Examiners
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 

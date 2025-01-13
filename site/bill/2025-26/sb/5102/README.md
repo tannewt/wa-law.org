@@ -19,6 +19,8 @@ Testifying:
 * Deborah Callahan - WA Schools Risk Management Pool
 * Tyna Ek - WA Schools Risk Management Pool
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* JOHN WORTHINGTON
 
 #### 0 ❓ - Other

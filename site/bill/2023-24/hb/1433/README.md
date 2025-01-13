@@ -17,6 +17,7 @@
 * 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the housing & homelessness crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/housing/#:~:text=House%20Bill%201433)
 * 02/02/2021 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship/#:~:text=HB%201433)
 * 10/09/2017 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Environmental Stewardship Priorities — Quaker Voice](https://www.quakervoicewa.org/environmental-stewardship-priorities/#:~:text=HB%201433)
+* [House Republicans](/org/house_republicans/) - [Fix the housing & homelessness crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/housing/#:~:text=House%20Bill%201433)
 
 ## Meetings
 ### Tue 02/20 01:30 PM - Environment, Energy & Technology (ENET): E3SHB 1433 Energy labeling/residential

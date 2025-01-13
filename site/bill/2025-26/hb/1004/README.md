@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32388&aId=161144&caId=24649&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32388&aId=161144&caId=24649&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Patrick Connor - NFIB
+* 💵Michael Moran - Office of Assessments/King County Assessor John Wilson
 
 #### 1 👎 - Con
 Testifying:

@@ -12,6 +12,7 @@
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%201716)
 * 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/child-care/#:~:text=House%20Bill%201716)
 * 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/child-care/#:~:text=House%20Bill%201716)
+* [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/child-care/#:~:text=House%20Bill%201716)
 
 ## Meetings
 ### Tue 01/23 08:00 AM - Finance (FIN): HB 1716 Child care B&O credit

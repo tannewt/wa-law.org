@@ -15,6 +15,7 @@
 * 01/30/2023 [FOX13](/org/fox13/) - [Bill pushes hiring, retention bonuses for state troopers, aims to improve traffic safety](https://www.fox13seattle.com/news/bill-proposing-hiring-and-retention-bonuses-for-state-troopers-could-help-improve-traffic-safety#:~:text=House%20Bill%201380)
 * 01/28/2023 [House Republicans](/org/house_republicans/) - [Public safety | Washington State House Republicans](https://houserepublicans.wa.gov/current/public-safety/#:~:text=House%20Bill%201380)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201380)
+* [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/public-safety/#:~:text=House%20bill%201380)
 
 ## Meetings
 ### Mon 01/30 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1380 Law enf. officer funding

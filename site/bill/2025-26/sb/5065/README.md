@@ -32,15 +32,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161045&caId=24584&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161045&caId=24584&tId=4)
 
-#### 41 👍 - Pro
+#### 68 👍 - Pro
 Testifying:
 * Anna Faust
 * Robin Vitulle - Free All Captive Elephants, Inc. (FACE)
 * 💵Debora Munguia - Woodland Park Zoo
 * Dan Paul - The Humane Society of the United States
+* Wes Burdett
+* Amanda Fox - Animal Rights Initiative
+* Vitaliy Kertchen
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Debbie Goodrich - Flight Club Foundation
+* Rebecca Faust - N/A
 
 #### 0 ❓ - Other

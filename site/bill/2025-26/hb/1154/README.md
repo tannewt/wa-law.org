@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161330&caId=24648&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161330&caId=24648&tId=4)
 
-#### 6 👍 - Pro
+#### 93 👍 - Pro
 Testifying:
 * Nancy Lust - Friends of Rocky Top / CascadiaNow.org
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
+* 💵Jaime Bodden - WSALPHO
+* 💵Nick Streuli - WRRA

@@ -16,5 +16,6 @@
 * 02/04/2023 [House Republicans](/org/house_republicans/) - [Tax relief | Washington State House Republicans](https://houserepublicans.wa.gov/current/tax-relief/#:~:text=House%20Bill%201704)
 * 02/03/2023 [House Republicans](/org/house_republicans/) - [Reducing your cost of living | Washington State House Republicans](https://houserepublicans.wa.gov/sales-tax-relief/#:~:text=House%20bill%201704)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201704)
+* [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/affordability/#:~:text=House%20Bill%201704)
 
 ## Meetings

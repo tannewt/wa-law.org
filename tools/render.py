@@ -1,3 +1,4 @@
+import subprocess
 import pathlib
 import shutil
 import warnings
@@ -92,10 +93,14 @@ def render(text, path_debug=None):
 if __name__ == "__main__":
     import sys
 
+    status = subprocess.run(["git", "status", "--porcelain"], stdout=subprocess.PIPE).stdout.decode("utf-8")
+
     out = pathlib.Path("site")
     p = out / pathlib.Path(sys.argv[-1])
     if p.is_dir():
         for subpath in p.glob("**/*.md"):
+            if str(subpath) not in status:
+                continue
             outpath = subpath.with_suffix(".html")
             if outpath.name == "README.html":
                 outpath = outpath.with_name("index.html")

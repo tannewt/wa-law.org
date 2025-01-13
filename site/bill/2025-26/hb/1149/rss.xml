@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1149/</link>
 		<description>Updates about HB 1149</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 10 Jan 2025 12:56:09 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 12 Jan 2025 08:47:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,6 +46,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sarah/Hock/2025-01-10 12:56:09</guid>
+		</item>
+		<item>
+			<title>👎Keri-Anne Jetzer - WA State Sentencing Guidelines Commission</title>
+			<description>Keri-Anne Jetzer signed up to testify Con. They are signed up to represent WA State Sentencing Guidelines Commission.</description>
+			<pubDate>Sun, 12 Jan 2025 06:27:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Keri-Anne/Jetzer/2025-01-12 06:27:02</guid>
+		</item>
+		<item>
+			<title>👍Jerald Dow - Washington Federation of Animal Care &amp; Control Agencies/Joint Animal Services</title>
+			<description>Jerald Dow signed up to testify Pro.</description>
+			<pubDate>Sun, 12 Jan 2025 08:47:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jerald/Dow/2025-01-12 08:47:35</guid>
 		</item>
 	</channel>
 </rss>

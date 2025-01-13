@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161097&caId=24686&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161097&caId=24686&tId=4)
 
-#### 134 👍 - Pro
+#### 231 👍 - Pro
 Testifying:
 * Amani Sawari
+* Rachael Ann Snell
 
 #### 1 👎 - Con
 Testifying:

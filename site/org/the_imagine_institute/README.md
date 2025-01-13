@@ -4,6 +4,8 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍 Pauli Owen
 
+### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
+
 ## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍 Aida Rodriguez
 

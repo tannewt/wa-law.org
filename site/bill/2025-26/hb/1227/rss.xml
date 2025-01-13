@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1227/</link>
 		<description>Updates about HB 1227</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 11 Jan 2025 05:18:51 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 12 Jan 2025 06:12:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -78,6 +78,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jenne/Alderks/2025-01-11 05:18:51</guid>
+		</item>
+		<item>
+			<title>👎JOHN WORTHINGTON - Initiative Activist</title>
+			<description>JOHN WORTHINGTON signed up to testify Con.</description>
+			<pubDate>Sun, 12 Jan 2025 03:02:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/JOHN/WORTHINGTON/2025-01-12 03:02:30</guid>
+		</item>
+		<item>
+			<title>❓Lael White - City of Bothell Councilmember</title>
+			<description>Lael White signed up to testify Other.</description>
+			<pubDate>Sun, 12 Jan 2025 05:33:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Lael/White/2025-01-12 05:33:17</guid>
+		</item>
+		<item>
+			<title>❓Jeff Wagner - City of Covington</title>
+			<description>Jeff Wagner signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_covington/"&gt;City of Covington&lt;/a&gt;.</description>
+			<pubDate>Sun, 12 Jan 2025 06:12:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jeff/Wagner/2025-01-12 06:12:47</guid>
 		</item>
 	</channel>
 </rss>

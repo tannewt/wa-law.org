@@ -47,6 +47,7 @@
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201245)
 * 01/12/2023 [Crosscut](/org/crosscut/) - [How WA's legislature is addressing the housing crisis in 2023 | Crosscut](https://crosscut.com/politics/2023/01/how-was-legislature-addressing-housing-crisis-2023#:~:text=House%20Bill%201245)
 * 05/16/2022 [House Republicans](/org/house_republicans/) - [Bills passed by Democrats that have contributed to our housing crisis | Washington State House Republicans](https://houserepublicans.wa.gov/housing-crisis/#:~:text=House%20Bill%201245)
+* [House Republicans](/org/house_republicans/) - [Fix the housing & homelessness crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/housing/#:~:text=House%20bill%201245)
 
 ## Meetings
 ### Tue 03/14 08:00 AM - Local Government, Land Use & Tribal Affairs (LGLT): ESHB 1245 Lot splitting

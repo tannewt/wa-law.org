@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161393&caId=24705&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161393&caId=24705&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 185 👎 - Con
+#### 302 👎 - Con
 Testifying:
 * Sarah Garriott
 * Joy Gjersvold - Conservative Ladies of Washington

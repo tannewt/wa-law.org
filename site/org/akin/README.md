@@ -1,13 +1,14 @@
 # Akin
 ## 2025-26
 
-## [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Samantha Masters
+
+## [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
 
 ## 2023-24
 
-### [HB 1198](/bill/2023-24/hb/1198/) - Operating budget   ❓1
-* ❓ Samantha Masters
+### [SB 5082](/bill/2023-24/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
 
 ### [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases. 👍1  
 * 👍 Heather Cantamessa

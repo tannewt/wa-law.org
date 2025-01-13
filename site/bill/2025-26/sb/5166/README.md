@@ -25,7 +25,7 @@ Testifying:
 Testifying:
 * Tim Eyman - Initiative Activist
 
-#### 9 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Radu Smintina - School's Out Washington
@@ -36,6 +36,7 @@ Testifying:
 * Audrey Miller Garcia - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
 * Mohamed Khalif - The International Medical Graduates Academy (TIMGA)
 * 💵Melissa Gombosky - Big Smiles Pediatric Dentistry
+* Evan Woods - WeTrain WA Grocery Apprenticeship
 
 ### Tue 01/14 04:00 PM - Ways & Means (WM): SB 5166 and SB 5167: Early learning. (Remote Testimony Available).
 Sign up to testify:
@@ -53,7 +54,7 @@ Testifying:
 Testifying:
 * Rachel Hall - Washington Communities for Children
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
 
@@ -85,11 +86,14 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Jacob Vigdor - University of Washington Faculty
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
 * 💵Morgan Hickel - [University of Washington](/org/university_of_washington/)
+* Stephen Bollens - Washington State University
+* Chemene Crawford - Everett Community College, State Board for Community and Technical Colleges
+* Chris Bailey - State Board for Community and Technical Colleges
 
 ### Tue 01/14 04:00 PM - Ways & Means (WM): SB 5166 and SB 5167: Human services. (Remote Testimony Available).
 Sign up to testify:
@@ -98,7 +102,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161367&caId=24616&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161367&caId=24616&tId=4)
 
-#### 48 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * Jim Theofelis - NorthStar Advocates
 * Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
@@ -122,8 +126,9 @@ Testifying:
 * Sherrie Tinoco - WA State Coalition Against Domestic Violence
 * Alejandra Perdomo-Menera - Cherrywood Care Assisted Living
 * Shelly Willis - kinship caregiver
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 
-#### 9 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * Teresa Andree - Park Rose Care Center
 * Joany Schimmelfennig - Good Samaritan Health Care Center
@@ -134,8 +139,9 @@ Testifying:
 * Annie Wingard - Alaska Gardens Health and Rehab
 * Dieu Dinh - Hudson Bay Health and Rehab
 * Mark von Walter
+* Steven Hughes - Regency at the Park Skilled Nursing Facility
 
-#### 22 ❓ - Other
+#### 24 ❓ - Other
 Testifying:
 * Ashley Dutton - Wonderland Child and Family Services
 * 💵Melanie Smith - WA State LTC Ombuds Program
@@ -159,6 +165,8 @@ Testifying:
 * Jessica Johnson
 * Hollianne Monson - Catholic Community Services
 * 💵Shaun Cross - [Maddie's Place](/org/maddie's_place/)
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* Rob Huff
 
 ### Tue 01/14 04:00 PM - Ways & Means (WM): SB 5166 and SB 5167: K-12 public schools. (Remote Testimony Available).
 Sign up to testify:
@@ -169,7 +177,7 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 10 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * 💵Janie White - [Washington Education Association](/org/washington_education_association/)
 * Andrea Gamboa - Tukwila Education Association
@@ -181,8 +189,9 @@ Testifying:
 * John Hannah - Morton School District
 * Melissa McCabe Gombosky - Vancouver, Evergreen, Richland, and Spokane  Public Schools
 * 💵Devin Gombosky - ESD 105 Schools Coalition
+* Charlie Brown - Skills Centers Directors
 
-#### 10 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * 💵Samuel Martin - School's Out Washington
 * Angela Steck - Washington State PTA
@@ -226,4 +235,6 @@ Testifying:
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
 * Tom Davis - WA Forest Protection Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Michael Moran - Confederated Tribes of the Colville Reservation

@@ -67,7 +67,7 @@ for start_year in range(2023, 2027, 2):
         position_counts = dict(counts)
         prefix = row[1]
         bill_number = row[2]
-        start_time = datetime.datetime.strptime(row[4].split("+")[0], "%Y-%m-%d %H:%M:%S")
+        start_time = datetime.datetime.strptime(row[4].split("+")[0], "%Y-%m-%dT%H:%M:%S")
         start_time_str = start_time.strftime("%a %m/%d %I:%M %p")
         latest_revision = db.cursor()
         latest_revision.execute("SELECT description FROM revisions WHERE bill_rowid = ? ORDER BY modified_time DESC", (row[0],))
@@ -265,7 +265,7 @@ for start_year in range(2023, 2027, 2):
             committee.execute("SELECT name, acronym FROM committees WHERE rowid = ?", (committee_rowid,))
             committee = committee.fetchone()
 
-            start_time = datetime.datetime.strptime(start_time.split("+")[0], "%Y-%m-%d %H:%M:%S")
+            start_time = datetime.datetime.strptime(start_time.split("+")[0], "%Y-%m-%dT%H:%M:%S")
             start_time_str = start_time.strftime("%a %m/%d %I:%M %p")
 
             bill_readme.append(f"### {start_time_str} - {committee[0]} ({committee[1]}): {description}")
@@ -329,7 +329,7 @@ for start_year in range(2023, 2027, 2):
                         else:
                             organization_md = ""
                             organization_html = ""
-                        sign_in_time = datetime.datetime.strptime(sign_in_time.split("+")[0], "%Y-%m-%d %H:%M:%S")
+                        sign_in_time = datetime.datetime.strptime(sign_in_time.split("+")[0], "%Y-%m-%dT%H:%M:%S")
                         description = f"{first_name} {last_name} signed up to testify {position}."
                         if organization:
                             description += f" They are signed up to represent {organization_html}."
@@ -385,40 +385,48 @@ for org_rowid in vio:
     bill_info = ()
     testifiers = []
     position_totals = {"Pro": 0, "Con": 0, "Other": 0}
-    cur.execute("SELECT bill_rowid, prefix, number, position, testifying, first_name, last_name FROM testifiers, agenda_items, bills, positions WHERE agenda_items.rowid = agenda_item_rowid AND bill_rowid = bills.rowid AND position_rowid = positions.rowid AND organization = ? ORDER BY number, sign_in_time", (name,))
-    for bill_rowid, prefix, number, position, testifying, first_name, last_name in cur:
-        if number != last_bill_number:
-            if last_bill_number:
-                old_bill_rowid, old_prefix, old_bill_number = bill_info
-                bill_cur = db.cursor()
-                bill_cur.execute("SELECT description FROM revisions WHERE bill_rowid = ? ORDER BY modified_time DESC LIMIT 1", (old_bill_rowid,))
-                description = bill_cur.fetchone()[0]
-                org_readme.append("")
-                positions = " ".join(POSITION_TO_EMOJI[p] + str(position_totals[p]) if position_totals[p] > 0 else "" for p in POSITION_TO_EMOJI)
-                org_readme.append(f"## [{old_prefix} {old_bill_number}](/bill/{biennium}/{old_prefix.lower()}/{old_bill_number}/) - {description} {positions}")
-                org_readme.extend(testifiers)
-            bill_info = (bill_rowid, prefix, number)
-            last_bill_number = number
-            position_totals = {"Pro": 0, "Con": 0, "Other": 0}
-            testifiers = []
-        position_totals[position] += 1
-        if testifying:
-            lobbyist = db.cursor()
-            lobbyist.execute("SELECT people.rowid, lobbyist_employment.lobbying_firm_rowid FROM people, lobbyist_employment WHERE first_name = ? AND last_name = ? AND people.rowid = lobbyist_employment.person_rowid", (first_name, last_name))
-            lobbyist = lobbyist.fetchone()
-            if lobbyist:
-                lobbyist = "💵"
-            else:
-                lobbyist = ""
-            testifiers.append(f"* {POSITION_TO_EMOJI[position]}{lobbyist} {first_name} {last_name}")
 
-    if bill_info:
-        old_bill_rowid, old_prefix, old_bill_number = bill_info
-        bill_cur = db.cursor()
-        bill_cur.execute("SELECT description FROM revisions WHERE bill_rowid = ? ORDER BY modified_time DESC LIMIT 1", (old_bill_rowid,))
-        description = bill_cur.fetchone()[0]
-        positions = " ".join(POSITION_TO_EMOJI[p] + str(position_totals[p])  if position_totals[p] > 0 else "" for p in POSITION_TO_EMOJI)
-        org_readme.append("")
-        org_readme.append(f"## [{old_prefix} {old_bill_number}](/bill/{biennium}/{old_prefix.lower()}/{old_bill_number}/) - {description} {positions}")
-        org_readme.extend(testifiers)
+    for start_year in range(2025, 2022, -2):
+        biennium = f"{start_year:4d}-{(start_year+1) % 100:02d}"
+        org_readme.append(f"## {biennium}")
+        cur.execute("SELECT rowid FROM bienniums WHERE name = ?;", (biennium,))
+        biennium_rowid = cur.fetchone()[0]
+        cur.execute("SELECT bill_rowid, prefix, number, position, testifying, first_name, last_name FROM testifiers, agenda_items, bills, positions WHERE agenda_items.rowid = agenda_item_rowid AND bill_rowid = bills.rowid AND position_rowid = positions.rowid AND organization = ? AND bills.biennium_rowid = ? ORDER BY number, sign_in_time", (name, biennium_rowid))
+        for bill_rowid, prefix, number, position, testifying, first_name, last_name in cur:
+            if number != last_bill_number:
+                if last_bill_number:
+                    old_bill_rowid, old_prefix, old_bill_number = bill_info
+                    bill_cur = db.cursor()
+                    bill_cur.execute("SELECT description FROM revisions WHERE bill_rowid = ? ORDER BY modified_time DESC LIMIT 1", (old_bill_rowid,))
+                    description = bill_cur.fetchone()[0]
+                    org_readme.append("")
+                    positions = " ".join(POSITION_TO_EMOJI[p] + str(position_totals[p]) if position_totals[p] > 0 else "" for p in POSITION_TO_EMOJI)
+                    org_readme.append(f"### [{old_prefix} {old_bill_number}](/bill/{biennium}/{old_prefix.lower()}/{old_bill_number}/) - {description} {positions}")
+                    org_readme.extend(testifiers)
+                bill_info = (bill_rowid, prefix, number)
+                last_bill_number = number
+                position_totals = {"Pro": 0, "Con": 0, "Other": 0}
+                testifiers = []
+            position_totals[position] += 1
+            if testifying:
+                lobbyist = db.cursor()
+                lobbyist.execute("SELECT people.rowid, lobbyist_employment.lobbying_firm_rowid FROM people, lobbyist_employment WHERE first_name = ? AND last_name = ? AND people.rowid = lobbyist_employment.person_rowid", (first_name, last_name))
+                lobbyist = lobbyist.fetchone()
+                if lobbyist:
+                    lobbyist = "💵"
+                else:
+                    lobbyist = ""
+                testifiers.append(f"* {POSITION_TO_EMOJI[position]}{lobbyist} {first_name} {last_name}")
+
+        if bill_info:
+            old_bill_rowid, old_prefix, old_bill_number = bill_info
+            bill_cur = db.cursor()
+            bill_cur.execute("SELECT description FROM revisions WHERE bill_rowid = ? ORDER BY modified_time DESC LIMIT 1", (old_bill_rowid,))
+            description = bill_cur.fetchone()[0]
+            positions = " ".join(POSITION_TO_EMOJI[p] + str(position_totals[p])  if position_totals[p] > 0 else "" for p in POSITION_TO_EMOJI)
+            org_readme.append("")
+            org_readme.append(f"## [{old_prefix} {old_bill_number}](/bill/{biennium}/{old_prefix.lower()}/{old_bill_number}/) - {description} {positions}")
+            org_readme.extend(testifiers)
+            org_readme.append("")
+
     org_readme_path.write_text("\n".join(org_readme))

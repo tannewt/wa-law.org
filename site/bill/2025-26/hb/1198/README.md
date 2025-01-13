@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32424&aId=161331&caId=24619&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32424&aId=161331&caId=24619&tId=4)
 
-#### 69 👍 - Pro
+#### 76 👍 - Pro
 Testifying:
 * Jim Theofelis - NorthStar Advocates
 * Sara Robbins - Washington State Office of Civil Legal Aid
@@ -55,8 +55,12 @@ Testifying:
 * Rashi Gupta - UW Medicine
 * Shelly Willis
 * Cathy Knight - WA Assn of Area Agencies on Aging (W4A) in support of senior nutrition funding
+* 💵Shawn Latham - Serlf Advocates In Leadership
+* 💵Leslie Emerick - WA Acupuncture and Eastern Medicine Association (WAEMA)
+* 💵Lori Grassi - WA State Chiropractic Association
+* Maurice Parrish - Battle Ground Adventist Community Services Diaper Bank
 
-#### 15 👎 - Con
+#### 29 👎 - Con
 Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
@@ -73,8 +77,10 @@ Testifying:
 * Marissa Rathbone - Washington State School Directors' Association
 * Dieu Dinh - Hudson Bay Health and Rehab
 * Tom Davis - WA Forest Protection Association
+* LEN MCCOMB - WASHINGTON STATE HOSPITAL ASSOCIATION
+* Charlie Brown - Tacoma, Federal Way, Puyallup, Clover Park, Bethel and other School Districts
 
-#### 41 ❓ - Other
+#### 50 ❓ - Other
 Testifying:
 * Samantha Masters - [Akin](/org/akin/)
 * Ashley Dutton - Wonderland Child and Family Services
@@ -117,3 +123,11 @@ Testifying:
 * 💵Shaun Cross - [Maddie's Place](/org/maddie's_place/)
 * Jim CastroLang - [Thrive International](/org/thrive_international/)
 * 💵Michele Thomas - WA Low Income Housing Alliance
+* Evan Woods - WeTrain WA Grocery Apprenticeship
+* Hali Willis - Seattle/King County Coalition on Homelessness
+* Stephen Bollens - Washington State University
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* Chris Bailey - State Board for Community and Technical Colleges
+* Tim Stokes - South Puget Sound Community College, State Board for Community and Technical Colleges
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Po Leapai

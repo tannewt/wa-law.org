@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5070/</link>
 		<description>Updates about SB 5070</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 11 Jan 2025 10:06:23 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 12 Jan 2025 19:05:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Evan/Gallo/2025-01-11 10:06:23</guid>
+		</item>
+		<item>
+			<title>This Week In The Senate - Week 1: Welcome to the 2025 session! - Washington Senate Democrats</title>
+			<description>News article "This Week In The Senate - Week 1: Welcome to the 2025 session! - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Sun, 12 Jan 2025 19:05:48 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2025/01/12/this-week-in-the-senate-week-1-welcome-to-the-2025-session/#:~:text=Senate%20Bill%205070</guid>
 		</item>
 	</channel>
 </rss>
