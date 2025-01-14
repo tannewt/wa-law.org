@@ -295,7 +295,7 @@ Testifying:
 * Mercedes Sanchez - [Cedar River Clinics](/org/cedar_river_clinics/)
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 * Louisa Severn - Midwives Assn of WA State
-* Sherrie Tinoco - Emergency Support Shelter
+* 💵Sherrie Tinoco - Emergency Support Shelter
 * Kris Camenzind - Hope Alliance
 * Karin White - YWCA Pierce County
 * Laurie Schacht - YWCA Clark County

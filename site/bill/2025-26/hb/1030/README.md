@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201030)
+
 ## Meetings
 ### Tue 01/14 01:30 PM - State Government & Tribal Relations (SGOV): HB 1030 Counted ballot audits
 Sign up to testify:
@@ -20,4 +23,4 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

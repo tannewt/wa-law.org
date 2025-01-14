@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161046&caId=24585&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161046&caId=24585&tId=4)
 
-#### 20 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * Catherine Cornwall - King County Clerk
 * 💵Timothy Grisham - [Washington Association of County Officials](/org/washington_association_of_county_officials/)
 * Tim Fitzgerald - Washington State Association of County Clerks
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

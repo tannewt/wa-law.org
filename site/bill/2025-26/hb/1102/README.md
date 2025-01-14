@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201102)
+
 ## Meetings
 ### Wed 01/15 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1102 Veteran support and services
 Sign up to testify:
@@ -14,9 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32392&aId=161153&caId=24690&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32392&aId=161153&caId=24690&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Jerry Phillips - Pacific Transit- Veterans Medical Transportation
+* Jerry Fugich - Veterans Legislative Coalition
 
 #### 0 👎 - Con
 

@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161099&caId=24688&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161099&caId=24688&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Joe Kunzler
 
-#### 10 👎 - Con
+#### 103 👎 - Con
 Testifying:
 * DONNA CHRISTENSEN
 * Robert McClure - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
@@ -26,4 +26,4 @@ Testifying:
 * D Edson Clark
 * Jim Simon - individual
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

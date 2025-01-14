@@ -1,6 +1,8 @@
 # Community Residential Services Association
 ## 2025-26
 
+### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍1  
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Melissa Johnson
 

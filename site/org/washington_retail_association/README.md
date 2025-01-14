@@ -1,6 +1,9 @@
 # Washington Retail Association
 ## 2025-26
 
+### [HB 1107](/bill/2025-26/hb/1107/) - Concerning environmental impacts of fashion.  👎1 
+* 👎💵 Crystal Leatherman
+
 ## [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍1  
 * 👍💵 Rose Gundersen
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5189/</link>
 		<description>Updates about SB 5189</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jan 2025 18:56:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2025-01-08/Prefiled for introduction.</guid>
 		</item>
 		<item>
-			<title>👎Sarah Garriott - Washington Education Association</title>
+			<title>👎Sarah Garriott - Washington State Board of Education</title>
 			<description>Sarah Garriott signed up to testify Con.</description>
 			<pubDate>Sat, 11 Jan 2025 01:05:56 GMT</pubDate>
 			<category>testifier</category>
@@ -37,6 +37,36 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Early Learning &amp; K-12 Education (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Early Learning &amp; K-12 Education.</title>
+			<description>First reading, referred to Early Learning &amp; K-12 Education.</description>
+			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-13/First reading, referred to Early Learning &amp; K-12 Education.</guid>
+		</item>
+		<item>
+			<title>👎Rhonda Looney - None</title>
+			<description>Rhonda Looney signed up to testify Con. They are signed up to represent None.</description>
+			<pubDate>Mon, 13 Jan 2025 06:40:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rhonda/Looney/2025-01-13 06:40:05</guid>
+		</item>
+		<item>
+			<title>👍J. Lee Schultz - Washington State Board of Education</title>
+			<description>J. Lee Schultz signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_board_of_education/"&gt;Washington State Board of Education&lt;/a&gt;.</description>
+			<pubDate>Mon, 13 Jan 2025 09:16:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/J. Lee/Schultz/2025-01-13 09:16:38</guid>
+		</item>
+		<item>
+			<title>69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA</title>
+			<description>News article "69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 13 Jan 2025 18:56:21 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205189</guid>
 		</item>
 	</channel>
 </rss>

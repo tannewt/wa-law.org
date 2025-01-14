@@ -1,15 +1,15 @@
 # Washington Coalition for Open Government
 ## 2025-26
 
-## [HB 1055](/bill/2025-26/hb/1055/) - Transparency ombuds study  👎3 
+### [HB 1055](/bill/2025-26/hb/1055/) - Transparency ombuds study  👎3 
 * 👎 Robert McClure
 * 👎 Hannah Marcley
+
+## [SB 5102](/bill/2025-26/sb/5102/) - Establishing a public records exemption for the proprietary information of public risk pools.  👎1 
 
 ## 2023-24
 
-### [HB 1055](/bill/2023-24/hb/1055/) - Transparency ombuds study  👎3 
-* 👎 Robert McClure
-* 👎 Hannah Marcley
+### [SB 5102](/bill/2023-24/sb/5102/) - Establishing a public records exemption for the proprietary information of public risk pools.  👎1 
 
 ### [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information  👎2 
 * 👎 Michael Fancher

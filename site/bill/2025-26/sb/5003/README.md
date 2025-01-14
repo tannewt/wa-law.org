@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205003)
+
 ## Meetings
 ### Wed 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5003 School security grants
 Sign up to testify:
@@ -14,8 +17,8 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161301&caId=24567&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161301&caId=24567&tId=4)
 
-#### 346 👍 - Pro
+#### 433 👍 - Pro
 
-#### 14 👎 - Con
+#### 105 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201133)
+
 ## Meetings
 ### Tue 01/14 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1133 Sexually violent predators
 Sign up to testify:
@@ -14,12 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161063&caId=24634&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161063&caId=24634&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Kerry Werner - Attorney General's Office
+* Vivian Eason
 
-#### 1 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Sonja Hardenbrook - WDA/WACDL
+* Jessica Fleming
+* Kenneth Chang - Hart Jarvis Murray Chang PLLC
 
 #### 0 ❓ - Other

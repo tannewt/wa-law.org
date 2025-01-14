@@ -1,12 +1,15 @@
 # Washington Public Employees Association
 ## 2025-26
 
-## [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+* ❓💵 Seamus Petrie
+
+## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Seamus Petrie
 
 ## 2023-24
 
-### [HB 1198](/bill/2023-24/hb/1198/) - Operating budget   ❓1
+### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Seamus Petrie
 
 ### [HB 1007](/bill/2023-24/hb/1007/) - Military service credit 👍1  

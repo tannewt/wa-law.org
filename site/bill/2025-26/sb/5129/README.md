@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32376&aId=161114&caId=24575&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32376&aId=161114&caId=24575&tId=4)
 
-#### 5 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Steve Horvath - HOA United
 * Joe Kunzler
 * Theresa Torgesen - Community Associations Institute
+* John Kresge
 
 #### 0 👎 - Con
 

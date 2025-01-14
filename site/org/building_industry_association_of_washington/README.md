@@ -1,8 +1,15 @@
 # Building Industry Association of Washington
 ## 2025-26
 
+### [HB 1003](/bill/2025-26/hb/1003/) - Addressing service of notice by mail in cases involving forcible entry and forcible and unlawful detainer. 👍1  
+
 ### [HB 1015](/bill/2025-26/hb/1015/) - Concerning energy labeling of residential buildings.  👎1 
 * 👎💵 Brent Ludeman
+
+### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
+* 👍💵 Andrea Smiley
+
+### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎1 
 
 ## [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review 👍1  
 * 👍💵 Brent Ludeman

@@ -14,19 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32350&aId=161267&caId=24604&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32350&aId=161267&caId=24604&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 * 💵Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * 💵Justin Leighton - Washington State Transit Association
 * Jared Nieuwenhuis - City of Bellevue, Council
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 2 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * JOHN WORTHINGTON
 
-#### 7 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Nancy Backus - Mayor, City of Auburn
@@ -35,3 +36,7 @@ Testifying:
 * Carston Curd - City of Bothell Councilmember
 * Lael White
 * Jeff Wagner - [City of Covington](/org/city_of_covington/)
+* Tom White
+* Jeff Wagner - [City of Covington](/org/city_of_covington/)
+* Will Aho - Eastside Fire and Rescue
+* Breck Lebegue - WA Physicians for Social Responsibility

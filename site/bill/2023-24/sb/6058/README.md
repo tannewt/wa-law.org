@@ -35,6 +35,7 @@
 * 01/12/2024 [Crosscut](/org/crosscut/) - [WA Legislature reviews joining CA, Quebec carbon pricing program | Crosscut](https://crosscut.com/briefs/2024/01/wa-legislature-reviews-joining-ca-quebec-carbon-pricing-program#:~:text=Senate%20Bill%206058)
 * 01/12/2024 [Cascade PBS](/org/cascade_pbs/) - [WA Legislature reviews joining CA, Quebec carbon pricing program | Cascade PBS](https://www.cascadepbs.org/briefs/2024/01/wa-legislature-reviews-joining-ca-quebec-carbon-pricing-program#:~:text=Senate%20Bill%206058)
 * 01/07/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 1: Welcome to the 2024 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/07/this-week-in-the-senate-week-1-welcome-to-the-2024-session/#:~:text=Senate%20Bill%206058)
+* 10/19/2014 [Senate Democrats](/org/senate_democrats/) - [x - Blog Style1 with Right Sidebar - Sen. Joe Nguyen](https://senatedemocrats.wa.gov/nguyen/?page_id=31#:~:text=Senate%20Bill%206058)
 
 ## Meetings
 ### Fri 02/23 01:30 PM - Appropriations (APP): E2SSB 6058 Carbon market linkage

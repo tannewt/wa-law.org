@@ -1,12 +1,22 @@
 # Washington Federation of State Employees
 ## 2025-26
 
-### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍1  
+### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍2  
+* 👍 Kati Durkin
 
 ### [HB 1036](/bill/2025-26/hb/1036/) - Labor trustees/colleges 👍1  
 
+### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers 👍1  
+
 ### [HB 1105](/bill/2025-26/hb/1105/) - Exempting exclusive bargaining representatives for department of corrections employees from certain provisions related to coalition bargaining. 👍1  
 * 👍 Kati Durkin
+
+### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board. 👍1  
+
+### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages 👍1  
+
+### [HB 1192](/bill/2025-26/hb/1192/) - Concerning disciplinary hearings held by the department of corrections.  👎1 
+* 👎 Kati Durkin
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Kati Durkin
@@ -18,13 +28,15 @@
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1
 * ❓ Kati Durkin
 
-## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Nicole Gomez
+* 👍💵 Nicole Gomez
 
 ## 2023-24
 
-### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp.   ❓1
+### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Nicole Gomez
+* 👍💵 Nicole Gomez
 
 ### [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
 

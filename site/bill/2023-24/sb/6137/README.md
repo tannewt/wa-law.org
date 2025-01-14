@@ -11,7 +11,7 @@
 #### 17 👍 - Pro
 Testifying:
 * 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
-* 💵Jennifer Baker - Columbia River Economic Development Council
+* 💵Jennifer Baker - [Columbia River Economic Development Council](/org/columbia_river_economic_development_council/)
 
 #### 1 👎 - Con
 
@@ -21,8 +21,8 @@ Testifying:
 #### 10 👍 - Pro
 Testifying:
 * 💵Emily Shay - Association of Washington Buisness
-* 💵Jennifer Baker - Columbia River Economic Development Council
-* 💵Jennifer Baker - Columbia River Economic Development Council
+* 💵Jennifer Baker - [Columbia River Economic Development Council](/org/columbia_river_economic_development_council/)
+* 💵Jennifer Baker - [Columbia River Economic Development Council](/org/columbia_river_economic_development_council/)
 * 💵Emily Shay - [Association of Washington Business](/org/association_of_washington_business/)
 * Joseph Williams - ICT Sector Lead - Commerce Dept
 

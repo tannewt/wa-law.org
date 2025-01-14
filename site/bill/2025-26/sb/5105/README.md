@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205105)
+
 ## Meetings
 ### Thu 01/16 10:30 AM - Law & Justice (LAW): SB 5105 Fabricated depictions/minors
 Sign up to testify:

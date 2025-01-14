@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201004)
+
 ## Meetings
 ### Thu 01/16 01:30 PM - Finance (FIN): HB 1004 Property tax exemption
 Sign up to testify:
@@ -14,10 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32388&aId=161144&caId=24649&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32388&aId=161144&caId=24649&tId=4)
 
-#### 6 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Michael Moran - Office of Assessments/King County Assessor John Wilson
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Steven Drew - WA Assoc of Assessors legislative co-chair
+* 💵Jennifer Wallace - WA Association of County Officials
 
 #### 1 👎 - Con
 Testifying:

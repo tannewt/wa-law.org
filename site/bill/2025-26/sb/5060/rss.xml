@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5060/</link>
 		<description>Updates about SB 5060</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jan 2025 13:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -35,6 +35,20 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Law &amp; Justice (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-13/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>Washington’s 2025 legislative priorities: Budget, housing, police | Cascade PBS</title>
+			<description>News article "Washington’s 2025 legislative priorities: Budget, housing, police | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Mon, 13 Jan 2025 13:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://crosscut.com/politics/2025/01/washingtons-2025-legislative-priorities-budget-housing-police#:~:text=co-sponsor%20of%20the%20bill</guid>
 		</item>
 	</channel>
 </rss>

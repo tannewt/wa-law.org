@@ -26,7 +26,7 @@ Testifying:
 * 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 * Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Trish Rolfe - Center for Law and Policy
-* Kiara Daniels - NW community land trust coalition
+* 💵Kiara Daniels - NW community land trust coalition
 * Patience Malaba - Housing Development Consortium
 * Cliff Cawthon - Habitat for Humanity SKC
 * Lauren McGowan - LISC Puget Sound

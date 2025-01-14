@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201017)
+
 ## Meetings
 ### Tue 01/14 01:30 PM - State Government & Tribal Relations (SGOV): HB 1017 Kimchi day
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32372&aId=161094&caId=24683&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32372&aId=161094&caId=24683&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
 #### 0 👎 - Con
 

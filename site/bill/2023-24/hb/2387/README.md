@@ -13,5 +13,6 @@
 * 01/15/2024 [House Republicans](/org/house_republicans/) - [Fix the education crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/education/#:~:text=House%20bill%202387)
 * 01/11/2024 [House Republicans](/org/house_republicans/) - [Better Schools | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/education/#:~:text=House%20bill%202387)
 * [House Republicans](/org/house_republicans/) - [Better Schools | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/education/#:~:text=House%20bill%202387)
+* [House Republicans](/org/house_republicans/) - [Better Schools | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/education/#:~:text=House%20bill%202387)
 
 ## Meetings

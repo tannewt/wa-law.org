@@ -8,21 +8,19 @@
 
 ## Meetings
 ### Mon 01/13 01:30 PM - Environment & Energy (ENVI): HB 1154 Solid waste handling
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161330&caId=24648&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161330&caId=24648&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161330&caId=24648&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161330&caId=24648&tId=4)
-
-#### 130 👍 - Pro
+#### 194 👍 - Pro
 Testifying:
 * Nancy Lust - Friends of Rocky Top / CascadiaNow.org
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Scott Cave - Friends of Rocky Top & Carole DeGrave
+* Ann Murphy - League of Women Voters of Washington
+* Jean Mendoza
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * 💵Jaime Bodden - WSALPHO
 * 💵Nick Streuli - WRRA
+* Troy Lautenbach - Lautenbach Recycling

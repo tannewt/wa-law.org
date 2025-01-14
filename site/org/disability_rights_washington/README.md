@@ -1,14 +1,20 @@
 # Disability Rights Washington
 ## 2025-26
 
-### [HB 1137](/bill/2025-26/hb/1137/) - Establishing uniform policies and procedures within department of corrections facilities relating to disciplinary proceedings and administrative segregation. 👍1  
+### [HB 1133](/bill/2025-26/hb/1133/) - Concerning sexually violent predators.  👎1 
+
+### [HB 1137](/bill/2025-26/hb/1137/) - Establishing uniform policies and procedures within department of corrections facilities relating to disciplinary proceedings and administrative segregation. 👍2  
 * 👍💵 Rachael Seevers
 
-## [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
+## [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍4  
+* 👍💵 Chloe Merino
+* 👍💵 Rachael Seevers
 
 ## 2023-24
 
-### [HB 1147](/bill/2023-24/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
+### [HB 1147](/bill/2023-24/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍4  
+* 👍💵 Chloe Merino
+* 👍💵 Rachael Seevers
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

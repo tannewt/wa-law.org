@@ -6,24 +6,23 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201149)
+* 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201149)
+
 ## Meetings
 ### Mon 01/13 02:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1149 Cruelty to animals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32368&aId=161081&caId=24631&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32368&aId=161081&caId=24631&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32368&aId=161081&caId=24631&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32368&aId=161081&caId=24631&tId=4)
-
-#### 602 👍 - Pro
+#### 665 👍 - Pro
 Testifying:
 * 💵Tricia Gullion - Washington State Gambling Commission
 * 💵Kirsten Gregory - [Pasado's Safe Haven](/org/pasado's_safe_haven/)
 * Nathaniel Block
 * Sarah Hock - Washington Federation of Animal Care & Control Agencies/Joint Animal Services
 * Jerald Dow
+* Donna Alber
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 
-#### 8 ❓ - Other
+#### 10 ❓ - Other

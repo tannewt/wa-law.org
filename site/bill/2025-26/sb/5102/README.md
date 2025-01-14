@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32427&aId=161274&caId=24600&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32427&aId=161274&caId=24600&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Deborah Callahan - WA Schools Risk Management Pool
 * Tyna Ek - WA Schools Risk Management Pool
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * JOHN WORTHINGTON
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Rowland Thompson - [Allied Daily Newspapers of Washington](/org/allied_daily_newspapers_of_washington/)

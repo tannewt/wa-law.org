@@ -30,7 +30,7 @@ Testifying:
 * 💵Anna Boone - [Zillow Group](/org/zillow_group/)
 * DENISE Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
-* Kiara Daniels - Tacoma City Council
+* 💵Kiara Daniels - Tacoma City Council
 * 💵Hyeeun Park - BIPOC ED Coalition
 * George Davenport - Nehemiah Initiative
 * Michone Preston - Habitat for Humanity of Washington State CEO

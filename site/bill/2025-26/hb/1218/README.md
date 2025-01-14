@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201218)
+
 ## Meetings
 ### Wed 01/15 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1218 Concerning persons referred for competency evaluation and restoration services. (Remote Testimony Available). (If measure is referred to committee.)
 Sign up to testify:
@@ -14,12 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32370&aId=161386&caId=24700&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32370&aId=161386&caId=24700&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Amber Leaders - Office of Governor Jay Inslee
+* 💵Chloe Merino - Disability Rights WA; Plaintiff Counsel A.B. v. DSHS (Trueblood)
+* 💵Kimberly Mosolf - Counsel for Plaintiffs in AB v DSHS (Trueblood)
 
-#### 1 👎 - Con
+#### 105 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kari Reardon - WACDL/WDA
+* Marc Stern

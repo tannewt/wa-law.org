@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201080)
+
 ## Meetings
 ### Wed 01/15 01:30 PM - Consumer Protection & Business (CPB): HB 1080 Lodging fee disclosure
 Sign up to testify:

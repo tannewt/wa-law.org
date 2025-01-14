@@ -18,6 +18,7 @@
 * 02/03/2023 [House Republicans](/org/house_republicans/) - [Create a Homes for Heroes Program | Washington State House Republicans](https://houserepublicans.wa.gov/create-a-homes-for-heroes-program/#:~:text=House%20bill%201633)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201633)
 * [House Republicans](/org/house_republicans/) - [Fix the housing & homelessness crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/housing/#:~:text=House%20bill%201633)
+* [House Republicans](/org/house_republicans/) - [Fix the housing & homelessness crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/housing/#:~:text=House%20bill%201633)
 
 ## Meetings
 ### Wed 02/22 09:00 AM - Capital Budget (CB): SHB 1633 Homes for heroes program

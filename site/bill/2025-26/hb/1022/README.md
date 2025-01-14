@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201022)
+
 ## Meetings
 ### Tue 01/14 04:00 PM - Housing (HOUS): HB 1022 Homes for heroes program
 Sign up to testify:
@@ -14,11 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32399&aId=161193&caId=24657&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32399&aId=161193&caId=24657&tId=4)
 
-#### 15 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * 💵Nick Streuli - [WA Realtors](/org/washington_association_of_realtors/)
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5105/</link>
 		<description>Updates about SB 5105</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jan 2025 18:56:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2024-12-23/Prefiled for introduction.</guid>
 		</item>
 		<item>
-			<title>👍Laura Harmon - WA Schools Risk Management Pool</title>
+			<title>👍Laura Harmon - Allied Daily Newspapers of Washington</title>
 			<description>Laura Harmon signed up to testify Pro.</description>
 			<pubDate>Sat, 11 Jan 2025 01:31:56 GMT</pubDate>
 			<category>testifier</category>
@@ -29,6 +29,20 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Law &amp; Justice (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-13/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA</title>
+			<description>News article "69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 13 Jan 2025 18:56:21 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205105</guid>
 		</item>
 	</channel>
 </rss>

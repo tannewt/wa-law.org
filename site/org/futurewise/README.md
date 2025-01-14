@@ -1,6 +1,9 @@
 # Futurewise
 ## 2025-26
 
+### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act. 👍1  
+* 👍💵 Bryce Yadon
+
 ## [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 * 👍💵 Bryce Yadon
 

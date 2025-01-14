@@ -17,7 +17,7 @@
 #### 33 👍 - Pro
 Testifying:
 * 💵Jason Gauthier - South Sound Housing Affordability Partners
-* Kiara Daniels - NW community land trust coalition
+* 💵Kiara Daniels - NW community land trust coalition
 
 #### 1 👎 - Con
 Testifying:

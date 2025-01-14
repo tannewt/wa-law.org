@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32381&aId=161121&caId=24564&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32381&aId=161121&caId=24564&tId=4)
 
-#### 31 👍 - Pro
+#### 56 👍 - Pro
+Testifying:
+* 💵Amy Anderson - [Washington Childcare Centers Association](/org/washington_childcare_centers_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

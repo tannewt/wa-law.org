@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1023/</link>
 		<description>Updates about HB 1023</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 06:36:50 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jan 2025 15:52:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,12 +31,42 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Postsecondary Education &amp; Workforce (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
+			<title>First reading, referred to Postsecondary Education &amp; Workforce.</title>
+			<description>First reading, referred to Postsecondary Education &amp; Workforce.</description>
+			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-13/First reading, referred to Postsecondary Education &amp; Workforce.</guid>
+		</item>
+		<item>
+			<title>👍Tammie Perreault - Department of Defense</title>
+			<description>Tammie Perreault signed up to testify Pro. They are signed up to represent Department of Defense.</description>
+			<pubDate>Mon, 13 Jan 2025 03:21:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tammie/Perreault/2025-01-13 03:21:46</guid>
+		</item>
+		<item>
 			<title>👍Leslie Roste - Future of the Professional Beauty Industry Coalition</title>
 			<description>Leslie Roste signed up to testify Pro. They are signed up to represent Future of the Professional Beauty Industry Coalition.</description>
 			<pubDate>Mon, 13 Jan 2025 06:36:50 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Leslie/Roste/2025-01-13 06:36:50</guid>
+		</item>
+		<item>
+			<title>👍Matthew Shillingburg - Future of the Professional Beauty Industry Coalition</title>
+			<description>Matthew Shillingburg signed up to testify Pro.</description>
+			<pubDate>Mon, 13 Jan 2025 12:53:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matthew/Shillingburg/2025-01-13 12:53:32</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Mon, 13 Jan 2025 15:52:31 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201023</guid>
 		</item>
 	</channel>
 </rss>

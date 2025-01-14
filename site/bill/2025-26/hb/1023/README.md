@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201023)
+
 ## Meetings
 ### Wed 01/15 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1023 Cosmetology compact
 Sign up to testify:
@@ -14,9 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32385&aId=161128&caId=24676&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32385&aId=161128&caId=24676&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
+* Tammie Perreault - Department of Defense
 * Leslie Roste - Future of the Professional Beauty Industry Coalition
+* Matthew Shillingburg
 
 #### 0 👎 - Con
 

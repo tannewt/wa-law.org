@@ -11,20 +11,17 @@
 
 ## Meetings
 ### Mon 01/13 02:00 PM - Human Services (HS): SB 5082 Extended foster care/housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32435&aId=161317&caId=24576&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32435&aId=161317&caId=24576&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32435&aId=161317&caId=24576&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32435&aId=161317&caId=24576&tId=4)
-
-#### 186 👍 - Pro
+#### 248 👍 - Pro
 Testifying:
 * 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Corrina Chatterton - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Lexx Senner - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Luv Anatomy - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Esmina James-Secret - [The Mockingbird Society](/org/the_mockingbird_society/)
+* Tara Urs - King County Department of Public Defense
+* Jonas Rios - [The Mockingbird Society](/org/the_mockingbird_society/)
+* Rocket Garcia - [The Mockingbird Society](/org/the_mockingbird_society/)
 
-#### 186 👎 - Con
+#### 223 👎 - Con
 
 #### 0 ❓ - Other

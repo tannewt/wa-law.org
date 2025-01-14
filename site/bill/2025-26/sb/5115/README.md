@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205115)
 * 01/13/2025 [Senate Democrats](/org/senate_democrats/) - [The 2025 legislative session has officially begun - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/01/13/the-2025-legislative-session-has-officially-begun/#:~:text=SB%205115)
 
 ## Meetings
@@ -17,10 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161083&caId=24571&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161083&caId=24571&tId=4)
 
-#### 122 👍 - Pro
+#### 133 👍 - Pro
 Testifying:
 * Angelita Cervantes - Communities for Our College
 * Benjamin Gonzalez - Comunidades por nuestros colegios.
+* Jessica Perez - WA State Board for Community and Technical Colleges
+* Khanh Pham - WA State Board for Community and Technical Colleges
+* Ana Diaz - Communities for Our College
 
 #### 2 👎 - Con
 

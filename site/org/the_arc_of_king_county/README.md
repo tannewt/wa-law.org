@@ -6,13 +6,16 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
-## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓3
 * ❓💵 Ramona Hattendorf
+* ❓💵 Ramona Hattendorf
+* ❓💵 Ramona Hattendorf
+
+## [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 
 ## 2023-24
 
-### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp.   ❓1
-* ❓💵 Ramona Hattendorf
+### [SB 5195](/bill/2023-24/sb/5195/) - Capital budget 👍1  
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

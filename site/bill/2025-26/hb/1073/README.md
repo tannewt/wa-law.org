@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201073)
+
 ## Meetings
 ### Wed 01/15 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1073 National guard retention
 Sign up to testify:

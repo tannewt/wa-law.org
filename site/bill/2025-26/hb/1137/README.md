@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201137)
+
 ## Meetings
 ### Tue 01/14 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1137 DOC discipline
 Sign up to testify:
@@ -14,12 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161064&caId=24635&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161064&caId=24635&tId=4)
 
-#### 408 👍 - Pro
+#### 559 👍 - Pro
 Testifying:
 * Micaela Romero
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 * Rose Harriot-Sitthivong
+* Derek Collier
+* Terry Kupers
+* Marriam Oliver - Solitary of Survivors Coalition
+* Samuel Merrill - Quaker Voice on WA Public Policy
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Trinity Tvedt - PO BOX 514
+* Rudy Madrigal
+* Sean Murphy - Department of Corrections

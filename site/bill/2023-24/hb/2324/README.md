@@ -11,5 +11,6 @@
 * 01/14/2024 [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/drugs/#:~:text=House%20bill%202324)
 * 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/drugs/#:~:text=House%20Bill%202324)
 * [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/drugs/#:~:text=House%20Bill%202324)
+* [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/drugs/#:~:text=House%20Bill%202324)
 
 ## Meetings

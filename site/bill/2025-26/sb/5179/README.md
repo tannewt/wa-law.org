@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/10/2025 [Senate Democrats](/org/senate_democrats/) - [Wilson files comprehensive LGBTQIA+, vulnerable student protections bill package - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/10/wilson-files-comprehensive-lgbtqia-vulnerable-student-protections-bill-package/#:~:text=SB%205179)
 * 01/10/2025 [Senate Democrats](/org/senate_democrats/) - [Wilson files comprehensive LGBTQIA+, vulnerable student protections bill package - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/10/wilson-files-comprehensive-lgbtqia-vulnerable-student-protections-bill-package/#:~:text=SB%205179)
 
 ## Meetings

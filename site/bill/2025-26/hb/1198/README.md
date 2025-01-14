@@ -6,15 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=HB%201198)
+
 ## Meetings
 ### Mon 01/13 04:00 PM - Appropriations (APP): HB 1198 Operating budget
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32424&aId=161331&caId=24619&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32424&aId=161331&caId=24619&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32424&aId=161331&caId=24619&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32424&aId=161331&caId=24619&tId=4)
-
-#### 78 👍 - Pro
+#### 164 👍 - Pro
 Testifying:
 * Jim Theofelis - NorthStar Advocates
 * Sara Robbins - Washington State Office of Civil Legal Aid
@@ -48,7 +45,7 @@ Testifying:
 * John Lemus
 * Tammy Bowen
 * Kris Camenzind - Hope Alliance
-* Sherrie Tinoco - WA State Coalition Against Domestic Violence
+* 💵Sherrie Tinoco - WA State Coalition Against Domestic Violence
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Alejandra Perdomo-Menera - Cherrywood Care Assisted Living
@@ -59,9 +56,17 @@ Testifying:
 * 💵Leslie Emerick - WA Acupuncture and Eastern Medicine Association (WAEMA)
 * 💵Lori Grassi - WA State Chiropractic Association
 * Maurice Parrish - Battle Ground Adventist Community Services Diaper Bank
+* 💵Altinay Karasapan
+* 💵Collin Bannister - The Washington Student Association
 * Scott Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Roger Rogoff - Office of Independent Investigations
+* Jolynn Kenney - MENTOR Washington
+* Colleen Condon - Lilac City Early Learning Center
+* Ramona Brandes - Washington Defender Association/ Washington Association of Criminal Defense Lawyers
+* ADAM SMITH
+* David Beckstrom
 
-#### 32 👎 - Con
+#### 61 👎 - Con
 Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
@@ -80,9 +85,15 @@ Testifying:
 * Tom Davis - WA Forest Protection Association
 * LEN MCCOMB - WASHINGTON STATE HOSPITAL ASSOCIATION
 * Charlie Brown - Tacoma, Federal Way, Puyallup, Clover Park, Bethel and other School Districts
+* john worthington
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Paula Sardinas - WBBA (WA Build Black Alliance)
+* Kathryn Kurtz - [Pacific Education Institute](/org/pacific_education_institute/)
+* Xandra Johnson
+* Kari-Anne Kane-Aguis - Liberty Place ESF
+* Jennifer Hamilton - Main Residential Care
 
-#### 58 ❓ - Other
+#### 71 ❓ - Other
 Testifying:
 * Samantha Masters - [Akin](/org/akin/)
 * Ashley Dutton - Wonderland Child and Family Services
@@ -133,6 +144,7 @@ Testifying:
 * Tim Stokes - South Puget Sound Community College, State Board for Community and Technical Colleges
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Po Leapai
+* Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
 * 💵Nora Selander - Western Washington University
 * 💵Lisa Daugaard - Purpose Dignity Action (PDA)
 * Carolanne Sanders Lundgren - Purpose Dignity Action (PDA)
@@ -140,3 +152,12 @@ Testifying:
 * Chris Mulick - Washington State University
 * 💵Malika Lamont - Purpose Dignity Action (PDA)
 * 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
+* 💵Richard Burton - AFT Washington
+* Luc Jasmin III - Community Minded Enterprises
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* Jaeney Hoene - American Federation of Teachers - WA
+* Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
+* Cortney Marabetta - AFT Washington
+* David Buri - Eastern Washington University
+* Jacqueline Kinley - Unified Residential Care
+* 💵Peter Diedrick - WA State School Retirees' Association

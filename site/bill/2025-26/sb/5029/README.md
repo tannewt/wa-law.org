@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32406&aId=161212&caId=24577&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32406&aId=161212&caId=24577&tId=4)
 
-#### 5 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
+* Danielle Armbruster - Department of Corrections
 
 #### 0 👎 - Con
 

@@ -4,15 +4,18 @@
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓1
 * ❓ Salina Lyons
 
-### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget   ❓1
+### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget   ❓2
+* ❓ Jeff Wagner
 * ❓ Jeff Wagner
 
-## [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1
+## [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓2
+* ❓ Jeff Wagner
 * ❓ Jeff Wagner
 
 ## 2023-24
 
-### [SB 5161](/bill/2023-24/sb/5161/) - Transportation budget   ❓1
+### [SB 5161](/bill/2023-24/sb/5161/) - Transportation budget   ❓2
+* ❓ Jeff Wagner
 * ❓ Jeff Wagner
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1

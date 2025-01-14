@@ -17,14 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32427&aId=161275&caId=24601&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32427&aId=161275&caId=24601&tId=4)
 
-#### 90 👍 - Pro
+#### 130 👍 - Pro
 Testifying:
 * Heidi Hunt - County Auditors Association/Adams County Auditor
 * 💵Michael Shaw - Washington Association of County Officials (WACO)
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * 💵Conner Edwards - Professional Campaign Treasurer/CG Edwards PLLC
+* Heidi Hunt - Auditors Association/Adams County Auditor
 
-#### 150 👎 - Con
+#### 241 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Laurie Layne

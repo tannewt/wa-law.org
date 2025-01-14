@@ -20,5 +20,6 @@
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201011)
 * 06/23/2021 [House Republicans](/org/house_republicans/) - [Countdown to the Democrats’ new payroll tax | Washington State House Republicans](https://houserepublicans.wa.gov/repeal-ltc/#:~:text=House%20Bill%201011)
 * [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/affordability/#:~:text=House%20Bill%201011)
+* [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/affordability/#:~:text=House%20Bill%201011)
 
 ## Meetings

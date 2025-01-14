@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201070)
+
 ## Meetings
 ### Fri 01/17 10:30 AM - Labor & Workplace Standards (LAWS): HB 1070 PTSD/correctional workers
 Sign up to testify:
@@ -14,10 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32397&aId=161176&caId=24670&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32397&aId=161176&caId=24670&tId=4)
 
-#### 3 👍 - Pro
+#### 11 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
+* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other

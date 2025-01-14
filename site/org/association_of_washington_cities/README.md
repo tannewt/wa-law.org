@@ -3,6 +3,9 @@
 
 ### [HB 1037](/bill/2025-26/hb/1037/) - PFD formation 👍1  
 
+### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓1
+* ❓💵 Carl Schroeder
+
 ### [HB 1112](/bill/2025-26/hb/1112/) - Removing the city residency requirement for judges pro tempore in municipalities with a population of more than 400,000 inhabitants. 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1

@@ -12,6 +12,14 @@
 
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers 👍1  
 
+### [HB 1116](/bill/2025-26/hb/1116/) - Recognizing election day. 👍1  
+
+### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board. 👍1  
+
+### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
+
+### [HB 1161](/bill/2025-26/hb/1161/) - Veteran employability 👍1  
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎1 
 * 👎💵 Larry Delaney
 
@@ -20,6 +28,9 @@
 ### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍1  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
+
+### [SB 5134](/bill/2025-26/sb/5134/) - Chinese Americans/schools   ❓1
+* ❓💵 Nasue Nishida
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎💵 Janie White

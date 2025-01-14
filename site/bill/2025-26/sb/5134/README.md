@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32381&aId=161300&caId=24566&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32381&aId=161300&caId=24566&tId=4)
 
-#### 16 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Jani Hitchen
 * Gavin Ripka
@@ -23,9 +23,11 @@ Testifying:
 * Theresa Pan Hosley - The Chinese Reconciliation Project Foundation
 * Yushen Liu
 * Rachel Li
+* Bettina Stanley
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Jennifer Saunders - Washington State Historical Society
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)

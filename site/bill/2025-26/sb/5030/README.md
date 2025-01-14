@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32381&aId=161122&caId=24565&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32381&aId=161122&caId=24565&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Alexandra Clifthorne
 
-#### 189 👎 - Con
+#### 297 👎 - Con
 Testifying:
 * Jamie renninger
 * Eileen Anderson

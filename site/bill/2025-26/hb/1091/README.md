@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201091)
+
 ## Meetings
 ### Tue 01/14 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1091 SVP supervision credit
 Sign up to testify:
@@ -14,8 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161061&caId=24632&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161061&caId=24632&tId=4)
 
-#### 2 👍 - Pro
+#### 10 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Sonja Hardenbrook - WDA and WACDL
 
 #### 0 ❓ - Other

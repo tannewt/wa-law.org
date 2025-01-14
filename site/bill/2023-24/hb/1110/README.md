@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 01/13/2025 [Axios](/org/axios/) - [Seattle debates future of housing growth - Axios Seattle](https://www.axios.com/local/seattle/2025/01/13/housing-affordability-debates-zoning-city-council#:~:text=2023%20state%20law)
 * 10/17/2024 [The Center Square](/org/the_center_square/) - [Proposed Seattle growth plan update seeks to allow 330,000 new housing units | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_34a640fa-8ccb-11ef-ba44-af75021ec8e3.html#:~:text=House%20Bill%201110)
 * 05/06/2024 [PubliCola](/org/publicola/) - [The Backlash to Harrell's Comp Plan Proves We're All YIMBYs Now - PubliCola](https://publicola.com/2024/05/06/the-backlash-to-harrells-comp-plan-proves-were-all-yimbys-now/#:~:text=House%20Bill%201110)
 * 03/28/2024 [Sightline Institute](/org/sightline_institute/) - [Washington’s 2024 Short-Session Housing Wins - Sightline Institute](https://www.sightline.org/2024/03/28/washingtons-2024-short-session-housing-wins/#:~:text=HB%201110)

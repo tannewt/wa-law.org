@@ -7,6 +7,10 @@
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 * 👍💵 Jake García
 
+### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
+
+### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
+
 ## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Jake García
 

@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161392&caId=24704&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161392&caId=24704&tId=4)
 
-#### 1 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* Felicia Kern - Digital Public Schools Alliance
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

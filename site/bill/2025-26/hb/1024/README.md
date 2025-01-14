@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/13 01:30 PM - Environment & Energy (ENVI): HB 1024 St. Edward state park
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161329&caId=24647&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161329&caId=24647&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161329&caId=24647&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161329&caId=24647&tId=4)
-
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Kevin Daniels - The Lodge at St Edward State Park
 * Owen Rowe - Washington State Parks and Recreation Commission, Policy and Governmental Affairs Director

@@ -6,22 +6,29 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201107)
+* 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201107)
+
 ## Meetings
 ### Mon 01/13 01:30 PM - Environment & Energy (ENVI): HB 1107 Fashion environmental impact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161108&caId=24646&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161108&caId=24646&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161108&caId=24646&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32359&aId=161108&caId=24646&tId=4)
-
-#### 127 👍 - Pro
+#### 189 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * 💵Kathryn Horvath - WashPIRG
+* Cheri Peele - Toxic-Free Future
+* Ann Murphy - League of Women Voters of Washington
 
-#### 259 👎 - Con
+#### 308 👎 - Con
 Testifying:
 * Edith Faylor
 * john worthington
+* Andrew Pappas - The American Apparel and Footwear Association
+* 💵Brandon Houskeeper - Northwest Grocery Retail Association
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Peter Godlewski - AWB
+* Myrna Molinar
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kimberly Goetz - Department of Ecology

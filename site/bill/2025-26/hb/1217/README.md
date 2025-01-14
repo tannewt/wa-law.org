@@ -7,17 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201217)
 * 01/13/2025 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization Tops Washington Democrats’ Housing Agenda for 2025 Session - The Urbanist](https://www.theurbanist.org/2025/01/13/rent-stabilization-tops-washington-democrats-housing-agenda/#:~:text=House%20Bill%201217)
+* 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201217)
 
 ## Meetings
 ### Mon 01/13 01:30 PM - Housing (HOUS): HB 1217 Residential tenants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161389&caId=24699&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161389&caId=24699&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161389&caId=24699&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32398&aId=161389&caId=24699&tId=4)
-
-#### 3093 👍 - Pro
+#### 4032 👍 - Pro
 Testifying:
 * 💵Harpreet Kaur - FMSGS/WBBA
 * 💵Paula Sardinas - FMSGS?WBBA
@@ -81,8 +77,17 @@ Testifying:
 * SANDRA Sims
 * Meredith Slota
 * Glenn Harper - The Elderhood Senior Alliance
+* Robert Brandenburg
+* Mary Vent - POWER (Parents Organizing for Welfare and Economic Rights)
+* Joanne Maddoux
+* Deleyne Gordon
+* William (Bill) Hardy
+* 💵Melanie Smith - WA State Coalition Against Domestic Violence
+* Jeannette Meeks
+* Kyle T Lucas - Urban Indians NW and Tenants United at Western Plaza Mobile Home Park
+* susan setter
 
-#### 3004 👎 - Con
+#### 3804 👎 - Con
 Testifying:
 * Constance Nelson
 * Audrey Riddle - [Goodman Real Estate](/org/goodman_real_estate/)
@@ -181,9 +186,31 @@ Testifying:
 * DAN TRACY
 * Paula Cottingham
 * Kathy Dobler
+* Kimberly Meredith - Moland
+* Phil Sodoma
+* Kathleen Brose
+* Terry Goodwin
+* Jennifer Paniagua - Dobler Management Company
+* Sheldon Goldstein
+* Eric Harting
+* Terry Warrington
+* Lee Martin
+* Sam Spiegelman - Citizen Action Defense Fund
+* Elisa Lyles
+* Michael Brumback
+* Steven Saunders
+* Katherine Carter
+* Kelvin Barton - Cottages By The Beach
+* Charles Beck
+* Carlos Rojas
+* Joshua Fant
+* Sterling Stock
+* Mohammad Aminpour - Edgewood Apartments
+* Tad Sommerville
+* Gordon Haggerty
 * Russ Millard - PREFERRED PROPERTIES
 
-#### 41 ❓ - Other
+#### 53 ❓ - Other
 Testifying:
 * Ben Assa
 * Morgan Capps

@@ -18,7 +18,7 @@ Testifying:
 * Maureen Fife - Tacoma-Pierce Co Habitat for Humanity
 * Michelle Girardot - Habitat for Humanity Spokane
 * Colleen Carmichael - Quixote Communities
-* Kiara Daniels - Northwest Community Land Trust
+* 💵Kiara Daniels - Northwest Community Land Trust
 * Sarah Clark - Seattle Metro Chamber
 * Liz Crouse - Tacoma/Pierce County Habitat
 * Tina Tate - Skagit Habitat for Humanity

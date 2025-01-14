@@ -25,6 +25,8 @@
 * 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/drugs/#:~:text=Senate%20Bill%206109)
 * [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/drugs/#:~:text=Senate%20Bill%206109)
 * [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/public-safety/#:~:text=Senate%20Bill%206109)
+* [House Republicans](/org/house_republicans/) - [Fix the drug crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/drugs/#:~:text=Senate%20Bill%206109)
+* [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/public-safety/#:~:text=Senate%20Bill%206109)
 
 ## Meetings
 ### Thu 02/22 01:30 PM - Appropriations (APP): E2SSB 6109 Children and families

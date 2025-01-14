@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32416&aId=161234&caId=24639&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32416&aId=161234&caId=24639&tId=4)
 
-#### 5 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Tom Keepers - Service Contract Industry Council
 * Travis Moore - Service Contract Industry Council
+* Rory Paine-Donovan - Office of the Insurance Commissioner
+* Tyler Langford - Office of the Insurance Commissioner
 
 #### 0 👎 - Con
 

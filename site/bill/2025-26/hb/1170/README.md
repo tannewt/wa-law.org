@@ -18,6 +18,8 @@ Sign up to testify:
 Testifying:
 * Jai Jaisimha - Transparency Coalition.ai
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Robert Singleton - Chamber of Progress
 
 #### 0 ❓ - Other

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201014)
+
 ## Meetings
 ### Wed 01/15 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1014 Child support schedule
 Sign up to testify:
@@ -14,10 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32370&aId=161087&caId=24625&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32370&aId=161087&caId=24625&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Terry Price - Child Support Workgroup Member
+* Sharon Redmond - Department of Social and Health Services
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

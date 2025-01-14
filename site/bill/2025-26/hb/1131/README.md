@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201131)
+
 ## Meetings
 ### Thu 01/16 08:30 AM - Community Safety, Justice, & Reentry (CSJR): HB 1131 Clemency and pardons
 Sign up to testify:
@@ -14,11 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32367&aId=161158&caId=24637&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32367&aId=161158&caId=24637&tId=4)
 
-#### 8 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Waldo Waldron-Ramsey - [Washington Community Action Network](/org/washington_community_action_network/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 

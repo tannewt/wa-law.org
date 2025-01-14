@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201168)
+
 ## Meetings
 ### Fri 01/17 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1168 Artificial intelligence info
 Sign up to testify:
@@ -20,6 +23,7 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Michael Han - MultiCare Health System
+* Robert Singleton - Chamber of Progress

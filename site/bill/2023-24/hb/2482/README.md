@@ -19,7 +19,7 @@
 #### 7 👍 - Pro
 Testifying:
 * 💵Emily Shay - Association of Washington business
-* 💵Jennifer Baker - Columbia River Economic Development Council
+* 💵Jennifer Baker - [Columbia River Economic Development Council](/org/columbia_river_economic_development_council/)
 
 #### 0 👎 - Con
 
@@ -29,7 +29,7 @@ Testifying:
 #### 7 👍 - Pro
 Testifying:
 * 💵Emily Shay - Association of Washington Buisness
-* 💵Jennifer Baker - Columbia River Economic Development Council
+* 💵Jennifer Baker - [Columbia River Economic Development Council](/org/columbia_river_economic_development_council/)
 
 #### 0 👎 - Con
 

@@ -14,15 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161312&caId=24636&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161312&caId=24636&tId=4)
 
-#### 14 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Jacob Schmitt
 * Raymond Williams
 * Jacob Schmitt - Just Us Solutions
 * Izzy Eads
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Mac Pevey - Department of Corrections

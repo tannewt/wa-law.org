@@ -11,6 +11,7 @@
 * 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/child-care/#:~:text=House%20bill%202179)
 * 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/child-care/#:~:text=House%20bill%202179)
 * [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/child-care/#:~:text=House%20bill%202179)
+* [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/child-care/#:~:text=House%20bill%202179)
 
 ## Meetings
 ### Tue 01/30 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 2179 Child care local licensing

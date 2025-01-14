@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201227)
+
 ## Meetings
 ### Wed 01/15 04:00 PM - Transportation (TR): HB 1227 Transportation budget
 Sign up to testify:
@@ -14,18 +17,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32411&aId=161381&caId=24697&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32411&aId=161381&caId=24697&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * 💵Justin Leighton - Washington State Transit Association
 * Jared Nieuwenhuis - City of Bellevue, Council
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * JOHN WORTHINGTON
 
-#### 6 ❓ - Other
+#### 12 ❓ - Other
 Testifying:
 * Nancy Backus - Mayor, City of Auburn
 * 💵Debora Munguia - Mason County
@@ -33,3 +37,8 @@ Testifying:
 * Jenne Alderks - City of Bothell Councilmember
 * Lael White
 * Jeff Wagner - [City of Covington](/org/city_of_covington/)
+* Tom White
+* Jeff Wagner - [City of Covington](/org/city_of_covington/)
+* Will Aho - Eastside Fire and Rescue
+* Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
+* Breck Lebegue - WA Physicians for Social Responsibility

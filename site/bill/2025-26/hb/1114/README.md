@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32385&aId=161129&caId=24677&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32385&aId=161129&caId=24677&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Emily Wittman - AWB
 * Elizabeth New - Washington Policy Center
 * Miriam O'Day - American Association for Respiratory Care
 * Tammie Perreault - Department of Defense
+* John Moyer - MultiCare Health System
 
 #### 0 👎 - Con
 

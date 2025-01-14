@@ -94,7 +94,7 @@ Testifying:
 * Gloria Rodriguez - [Yakima Neighborhood Health Services](/org/yakima_neighborhood_health_services/)
 * Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 * 💵Michael White - [King County](/org/king_county/)
-* Kiara Daniels - [Northwest Community Land Trust Coalition](/org/northwest_community_land_trust_coalition/)
+* 💵Kiara Daniels - [Northwest Community Land Trust Coalition](/org/northwest_community_land_trust_coalition/)
 * Councilman Jeremy Takala - Confederated Tribes and Bands of the Yakama Nation
 * 💵Dawn Vyvyan - Confederated Tribes and Bands of the Yakama Nation
 * Jenece Howe - Yakama Nation Village of Hope

@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32383&aId=161124&caId=24675&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32383&aId=161124&caId=24675&tId=4)
 
-#### 8 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Dennis Gibb - Edmonds College
 * Rory Andes - Rory Andes
+* Richard Thomas - Washington Veterans Legislative Coalition
 
 #### 0 👎 - Con
 

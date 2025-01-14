@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5082/</link>
 		<description>Updates about SB 5082</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jan 2025 12:49:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -68,6 +68,37 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Human Services (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Human Services.</title>
+			<description>First reading, referred to Human Services.</description>
+			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-13/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
+			<title>👍Tara Urs - King County Department of Public Defense</title>
+			<description>Tara Urs signed up to testify Pro. They are signed up to represent King County Department of Public Defense.</description>
+			<pubDate>Mon, 13 Jan 2025 09:43:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tara/Urs/2025-01-13 09:43:02</guid>
+		</item>
+		<item>
+			<title>👍Jonas Rios - The Mockingbird Society</title>
+			<description>Jonas Rios signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/the_mockingbird_society/"&gt;The Mockingbird Society&lt;/a&gt;.</description>
+			<pubDate>Mon, 13 Jan 2025 12:49:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jonas/Rios/2025-01-13 12:49:42</guid>
+		</item>
+		<item>
+			<title>👍Rocket Garcia - The Mockingbird Society</title>
+			<description>Rocket Garcia signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/the_mockingbird_society/"&gt;The Mockingbird Society&lt;/a&gt;.</description>
+			<pubDate>Mon, 13 Jan 2025 12:49:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rocket/Garcia/2025-01-13 12:49:42</guid>
 		</item>
 	</channel>
 </rss>

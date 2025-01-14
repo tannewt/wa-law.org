@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=HB%201216)
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201216)
+
 ## Meetings
 ### Thu 01/16 01:30 PM - Capital Budget (CB): HB 1216 Capital budget
 Sign up to testify:
@@ -14,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=4)
 
-#### 19 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Lisa Yohalem - HealthPoint
 * 💵Erica Hallock - Start Early WA
@@ -31,8 +35,12 @@ Testifying:
 * Lua Pritchard - [Asia Pacific Cultural Center](/org/asia_pacific_cultural_center/)
 * Mary Connolly - South Sound Housing Affordability Partners
 * Hend Alhinnawi - Muslim Association of Puget Sound (MAPS)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Wes Jessup - Executive Director - Eastern Washington State Historical Society (EWSHS)
+* Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* Patience M Malaba - HDC
 
-#### 5 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Brian Shay - [City of Hoquiam](/org/city_of_hoquiam/)
 * Darrin Raines - Greater Grays Harbor, Inc.
@@ -40,7 +48,7 @@ Testifying:
 * Vickie Raines - Grays Harbor County
 * JOHN WORTHINGTON
 
-#### 16 ❓ - Other
+#### 18 ❓ - Other
 Testifying:
 * Kathryn Gardow - Chair, Public Works Board
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
@@ -58,3 +66,5 @@ Testifying:
 * Jen Burbidge
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 * DAVID DEMARCO - EVERETT FIRE DEPARTMENT
+* Jesse Simpson - Housing Development Consortium
+* 💵Nora Selander - Western Washington University

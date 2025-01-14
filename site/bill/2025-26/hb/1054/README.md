@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32403&aId=161205&caId=24674&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32403&aId=161205&caId=24674&tId=4)
 
-#### 34 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Jani Hitchen - Pierce County Council
 * 💵Michael Shaw - [Pierce County](/org/pierce_county/)
@@ -22,4 +22,4 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

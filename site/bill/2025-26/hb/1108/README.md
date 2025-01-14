@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32399&aId=161194&caId=24658&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32399&aId=161194&caId=24658&tId=4)
 
-#### 9 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Elisicher Smith
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 8 ❓ - Other
+Testifying:
+* Jeff Pack - Me
+* Lauren Bisplinghoff
+* 💵Erin Frasier - Washington State Building & Construction Trades Council

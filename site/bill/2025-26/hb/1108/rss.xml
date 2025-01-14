@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1108/</link>
 		<description>Updates about HB 1108</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 06:05:38 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jan 2025 11:49:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,12 +23,51 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Housing (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
-			<title>👍Elisicher Smith - WashPIRG</title>
+			<title>First reading, referred to Housing.</title>
+			<description>First reading, referred to Housing.</description>
+			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-13/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>❓Jeff Pack - Me</title>
+			<description>Jeff Pack signed up to testify Other. They are signed up to represent Me.</description>
+			<pubDate>Mon, 13 Jan 2025 05:24:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jeff/Pack/2025-01-13 05:24:52</guid>
+		</item>
+		<item>
+			<title>👍Elisicher Smith - Department of Ecology</title>
 			<description>Elisicher Smith signed up to testify Pro.</description>
 			<pubDate>Mon, 13 Jan 2025 06:05:38 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Elisicher/Smith/2025-01-13 06:05:38</guid>
+		</item>
+		<item>
+			<title>❓Lauren Bisplinghoff - Me</title>
+			<description>Lauren Bisplinghoff signed up to testify Other.</description>
+			<pubDate>Mon, 13 Jan 2025 06:14:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Lauren/Bisplinghoff/2025-01-13 06:14:54</guid>
+		</item>
+		<item>
+			<title>👍💵Ryan Donohue - Habitat for Humanity Seattle-King &amp; Kittitas Counties</title>
+			<description>Ryan Donohue signed up to testify Pro. They are signed up to represent Habitat for Humanity Seattle-King &amp; Kittitas Counties. They are a registered lobbyist.</description>
+			<pubDate>Mon, 13 Jan 2025 07:38:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ryan/Donohue/2025-01-13 07:38:57</guid>
+		</item>
+		<item>
+			<title>❓💵Erin Frasier - Washington State Building &amp; Construction Trades Council</title>
+			<description>Erin Frasier signed up to testify Other. They are signed up to represent Washington State Building &amp; Construction Trades Council. They are a registered lobbyist.</description>
+			<pubDate>Mon, 13 Jan 2025 11:49:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Erin/Frasier/2025-01-13 11:49:38</guid>
 		</item>
 	</channel>
 </rss>

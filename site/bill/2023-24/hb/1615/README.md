@@ -16,6 +16,7 @@
 * 02/02/2023 [House Republicans](/org/house_republicans/) - [Provide school choice | Washington State House Republicans](https://houserepublicans.wa.gov/provide-school-choice/#:~:text=House%20bill%201615)
 * 01/24/2023 [House Republicans](/org/house_republicans/) - [2023 legislative session: Good and bad House bills | Washington State House Republicans](https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201615)
 * [House Republicans](/org/house_republicans/) - [Better Schools | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/education/#:~:text=House%20bill%201615)
+* [House Republicans](/org/house_republicans/) - [Better Schools | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/education/#:~:text=House%20bill%201615)
 
 ## Meetings
 ### Thu 02/02 08:00 AM - Education (ED): HB 1615 Education savings accounts

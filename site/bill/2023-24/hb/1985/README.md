@@ -18,6 +18,7 @@
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%201985)
 * 01/11/2024 [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/affordability/#:~:text=House%20Bill%201985)
 * [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/affordability/#:~:text=House%20Bill%201985)
+* [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/affordability/#:~:text=House%20Bill%201985)
 
 ## Meetings
 ### Tue 02/20 04:00 PM - Ways & Means (WM): SHB 1985 PERS/TRS 1 benefit increase

@@ -1,12 +1,29 @@
 # Association of Washington Business
 ## 2025-26
 
+### [HB 1002](/bill/2025-26/hb/1002/) - Recognizing posttraumatic stress disorder as an occupational disease for county coroners, examiners, and investigative personnel.  👎1 
+
+### [HB 1004](/bill/2025-26/hb/1004/) - Increasing the personal property tax exemption. 👍1  
+* 👍 Max Martin
+
 ### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍1  
+
+### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers  👎1 
+* 👎💵 Lindsey Hueer
 
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 * 👍💵 Morgan Irwin
 
 ### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍1  
+
+### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎1 
+* 👎💵 Lindsey Hueer
+
+### [HB 1155](/bill/2025-26/hb/1155/) - Noncompetition agreements  👎1 
+* 👎💵 Lindsey Hueer
+
+### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages  👎1 
+* 👎💵 Lindsey Hueer
 
 ### [HB 1197](/bill/2025-26/hb/1197/) - Operating budget, supp.  👎1 
 

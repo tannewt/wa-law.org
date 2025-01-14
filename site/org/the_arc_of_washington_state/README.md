@@ -1,6 +1,8 @@
 # The Arc of Washington State
 ## 2025-26
 
+### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍1  
+
 ## [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍💵 Stacy Dym
 

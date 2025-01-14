@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201071)
+
 ## Meetings
 ### Thu 01/16 08:00 AM - Environment & Energy (ENVI): HB 1071 Recycling rates
 Sign up to testify:
@@ -14,8 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32361&aId=161400&caId=24711&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32361&aId=161400&caId=24711&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Andrew Hackman - AMERIPEN
 
 #### 0 ❓ - Other

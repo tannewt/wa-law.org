@@ -14,13 +14,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161097&caId=24686&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161097&caId=24686&tId=4)
 
-#### 254 👍 - Pro
+#### 420 👍 - Pro
 Testifying:
 * Amani Sawari
 * Rachael Ann Snell
+* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
+* David Thometz - Self-advocate
+* Heather Kelly - League of Women Voters of Washington
+* Raymond Williams - Just Us Solutions
+* Arthur Longworth - TeamChild
+* 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 
-#### 1 👎 - Con
+#### 273 👎 - Con
 Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Mary Long - Conservative Ladies of Washington
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Danielle Armbruster - Department of Corrections
+* Kellett Sayre - Department of Corrections
+* Sean Murphy - Department of Corrections

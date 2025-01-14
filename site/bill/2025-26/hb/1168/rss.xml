@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1168/</link>
 		<description>Updates about HB 1168</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 08:04:20 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jan 2025 15:52:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,12 +31,34 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Technology, Economic Development, &amp; Veterans (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
+			<title>First reading, referred to Technology, Economic Development, &amp; Veterans.</title>
+			<description>First reading, referred to Technology, Economic Development, &amp; Veterans.</description>
+			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-13/First reading, referred to Technology, Economic Development, &amp; Veterans.</guid>
+		</item>
+		<item>
 			<title>❓Michael Han - MultiCare Health System</title>
 			<description>Michael Han signed up to testify Other. They are signed up to represent MultiCare Health System.</description>
 			<pubDate>Mon, 13 Jan 2025 08:04:20 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Michael/Han/2025-01-13 08:04:20</guid>
+		</item>
+		<item>
+			<title>❓Robert Singleton - Chamber of Progress</title>
+			<description>Robert Singleton signed up to testify Other. They are signed up to represent Chamber of Progress.</description>
+			<pubDate>Mon, 13 Jan 2025 12:15:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Robert/Singleton/2025-01-13 12:15:25</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Mon, 13 Jan 2025 15:52:31 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201168</guid>
 		</item>
 	</channel>
 </rss>

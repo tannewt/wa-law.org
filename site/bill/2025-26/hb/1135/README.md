@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32403&aId=161202&caId=24672&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32403&aId=161202&caId=24672&tId=4)
 
-#### 99 👍 - Pro
+#### 112 👍 - Pro
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
 #### 0 👎 - Con
 

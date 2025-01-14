@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1184/</link>
 		<description>Updates about HB 1184</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 07:56:19 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jan 2025 15:52:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2025-01-07/Prefiled for introduction.</guid>
 		</item>
 		<item>
-			<title>👍Christopher Christian - bp America -- Cherry Point Refinery</title>
+			<title>👍Christopher Christian - Association of Washington Business</title>
 			<description>Christopher Christian signed up to testify Pro.</description>
 			<pubDate>Thu, 09 Jan 2025 03:26:43 GMT</pubDate>
 			<category>testifier</category>
@@ -87,12 +87,58 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Labor &amp; Workplace Standards (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
+			<title>First reading, referred to Labor &amp; Workplace Standards.</title>
+			<description>First reading, referred to Labor &amp; Workplace Standards.</description>
+			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-13/First reading, referred to Labor &amp; Workplace Standards.</guid>
+		</item>
+		<item>
+			<title>👎Mark Demaray - Acoustic Sound, non-profit corp</title>
+			<description>Mark Demaray signed up to testify Con. They are signed up to represent Acoustic Sound, non-profit corp.</description>
+			<pubDate>Mon, 13 Jan 2025 07:39:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mark/Demaray/2025-01-13 07:39:30</guid>
+		</item>
+		<item>
 			<title>👍Miriam Battson - Gig Harbor Chamber of Commerce</title>
 			<description>Miriam Battson signed up to testify Pro. They are signed up to represent Gig Harbor Chamber of Commerce.</description>
 			<pubDate>Mon, 13 Jan 2025 07:56:19 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Miriam/Battson/2025-01-13 07:56:19</guid>
+		</item>
+		<item>
+			<title>👍💵Lindsey Hueer - Association of Washington Business / Government Affairs Director</title>
+			<description>Lindsey Hueer signed up to testify Pro. They are signed up to represent Association of Washington Business / Government Affairs Director. They are a registered lobbyist.</description>
+			<pubDate>Mon, 13 Jan 2025 09:54:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lindsey/Hueer/2025-01-13 09:54:32</guid>
+		</item>
+		<item>
+			<title>👍Steph Rees - Burlington Chamber of Commerce</title>
+			<description>Steph Rees signed up to testify Pro. They are signed up to represent Burlington Chamber of Commerce.</description>
+			<pubDate>Mon, 13 Jan 2025 11:16:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Steph/Rees/2025-01-13 11:16:32</guid>
+		</item>
+		<item>
+			<title>👍Janet Kenefsky - Greater Vancouver Chamber of Commerce</title>
+			<description>Janet Kenefsky signed up to testify Pro. They are signed up to represent Greater Vancouver Chamber of Commerce.</description>
+			<pubDate>Mon, 13 Jan 2025 12:47:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Janet/Kenefsky/2025-01-13 12:47:26</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Mon, 13 Jan 2025 15:52:31 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201184</guid>
 		</item>
 	</channel>
 </rss>

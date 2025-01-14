@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1150/</link>
 		<description>Updates about HB 1150</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 13 Jan 2025 17:57:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,20 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Environment &amp; Energy (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Environment &amp; Energy.</title>
+			<description>First reading, referred to Environment &amp; Energy.</description>
+			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-13/First reading, referred to Environment &amp; Energy.</guid>
+		</item>
+		<item>
+			<title>Media Advisory: Sen. Lovelett, Rep. Berry to introduce Recycling Reform Act - Sen. Liz Lovelett</title>
+			<description>News article "Media Advisory: Sen. Lovelett, Rep. Berry to introduce Recycling Reform Act - Sen. Liz Lovelett" from Senate Democrats.</description>
+			<pubDate>Mon, 13 Jan 2025 17:57:44 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/lovelett/2025/01/13/media-advisory-sen-lovelett-rep-berry-to-introduce-recycling-reform-act/#:~:text=HB1150</guid>
 		</item>
 	</channel>
 </rss>

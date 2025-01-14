@@ -19,6 +19,7 @@
 * 01/21/2023 [House Republicans](/org/house_republicans/) - [Fixing our state's housing crisis | Washington State House Republicans](https://houserepublicans.wa.gov/current/fixing-our-states-housing-crisis/#:~:text=House%20Bill%201401)
 * 05/16/2022 [House Republicans](/org/house_republicans/) - [Bills passed by Democrats that have contributed to our housing crisis | Washington State House Republicans](https://houserepublicans.wa.gov/housing-crisis/#:~:text=House%20Bill%201401)
 * [House Republicans](/org/house_republicans/) - [Fix the housing & homelessness crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/housing/#:~:text=House%20bill%201401)
+* [House Republicans](/org/house_republicans/) - [Fix the housing & homelessness crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/housing/#:~:text=House%20bill%201401)
 
 ## Meetings
 ### Mon 01/30 01:30 PM - Housing (HOUS): HB 1401 Housing permit process
