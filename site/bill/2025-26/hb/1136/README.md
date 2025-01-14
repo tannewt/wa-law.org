@@ -17,13 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161137&caId=24680&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161137&caId=24680&tId=4)
 
-#### 22 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * Bill Lyne - United Faculty of Washington State
 
 #### 0 👎 - Con
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Minna Long - Washington State Building & Construction Trades Council
+* 💵Jenny Morgan - [Washington School Counselor Association](/org/washington_school_counselor_association/)

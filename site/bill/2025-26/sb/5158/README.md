@@ -19,6 +19,6 @@ Testifying:
 * Joe Dacca - [University of Washington](/org/university_of_washington/)
 * Erin O'Connell - Deputy Athletic Director & COO, UW Athletics
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

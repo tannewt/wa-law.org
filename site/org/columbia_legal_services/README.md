@@ -1,13 +1,18 @@
 # Columbia Legal Services
 ## 2025-26
 
-## [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 * 👍💵 Sarah Nagy
+
+### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍1  
+
+### [SB 5103](/bill/2025-26/sb/5103/) - Expediting review of sentences when there exists a pending deportation proceeding. 👍1  
+
+## [SB 5131](/bill/2025-26/sb/5131/) - Religious foods/correctional 👍1  
 
 ## 2023-24
 
-### [HB 1217](/bill/2023-24/hb/1217/) - Residential tenants 👍2  
-* 👍💵 Sarah Nagy
+### [SB 5131](/bill/2023-24/sb/5131/) - Religious foods/correctional 👍1  
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty   ❓2
 * ❓💵 Antonio Ginatta

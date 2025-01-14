@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1116/</link>
 		<description>Updates about HB 1116</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 05:01:46 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jan 2025 08:12:58 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -67,6 +67,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Marcelino/Ruiz/2025-01-13 05:01:46</guid>
+		</item>
+		<item>
+			<title>👍Andrew Villeneuve - Northwest Progressive Institute</title>
+			<description>Andrew Villeneuve signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/northwest_progressive_institute/"&gt;Northwest Progressive Institute&lt;/a&gt;.</description>
+			<pubDate>Mon, 13 Jan 2025 10:16:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andrew/Villeneuve/2025-01-13 10:16:55</guid>
+		</item>
+		<item>
+			<title>👍Jonathan Pan - Lake Washington High School</title>
+			<description>Jonathan Pan signed up to testify Pro. They are signed up to represent Lake Washington High School.</description>
+			<pubDate>Tue, 14 Jan 2025 08:12:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jonathan/Pan/2025-01-14 08:12:58</guid>
 		</item>
 	</channel>
 </rss>

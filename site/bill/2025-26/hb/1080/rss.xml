@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1080/</link>
 		<description>Updates about HB 1080</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 15:52:31 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jan 2025 09:46:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -35,6 +35,14 @@
 			<pubDate>Mon, 13 Jan 2025 15:52:31 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201080</guid>
+		</item>
+		<item>
+			<title>❓💵Brent Ludeman - Expedia Group</title>
+			<description>Brent Ludeman signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/expedia_group/"&gt;Expedia Group&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 14 Jan 2025 09:46:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Brent/Ludeman/2025-01-14 09:46:25</guid>
 		</item>
 	</channel>
 </rss>

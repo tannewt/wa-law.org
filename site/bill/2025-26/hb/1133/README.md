@@ -17,12 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161063&caId=24634&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161063&caId=24634&tId=4)
 
-#### 3 👍 - Pro
+#### 269 👍 - Pro
 Testifying:
 * Kerry Werner - Attorney General's Office
 * Vivian Eason
 
-#### 9 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * Sonja Hardenbrook - WDA/WACDL
 * Jessica Fleming

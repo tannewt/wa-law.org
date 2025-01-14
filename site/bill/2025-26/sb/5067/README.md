@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 01/14 08:00 AM - Law & Justice (LAW): SB 5067 Impaired driving
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161159&caId=24587&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161159&caId=24587&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161159&caId=24587&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161159&caId=24587&tId=4)
-
-#### 47 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Mark McKechnie - Washington Traffic Safety Commission
@@ -33,9 +27,10 @@ Testifying:
 * Tao Sheng Kwan-Gett - Washington Department of Health
 * Tom Chapman - National Transportation Safety Board
 * Karen Bartlett
+* Dakota Manley - Washington State Young Republicans
 * Zachary Cyr
 
-#### 240 👎 - Con
+#### 247 👎 - Con
 Testifying:
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)

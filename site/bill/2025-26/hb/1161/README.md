@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32383&aId=161124&caId=24675&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32383&aId=161124&caId=24675&tId=4)
 
-#### 17 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Dennis Gibb - Edmonds College
 * Rory Andes - Rory Andes
@@ -22,4 +22,4 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

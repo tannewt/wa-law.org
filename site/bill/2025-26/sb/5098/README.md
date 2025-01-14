@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Tue 01/14 08:00 AM - Law & Justice (LAW): SB 5098 Weapons in certain areas
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161160&caId=24588&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161160&caId=24588&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161160&caId=24588&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161160&caId=24588&tId=4)
-
-#### 535 👍 - Pro
+#### 572 👍 - Pro
 Testifying:
 * Jane Weiss
 * Karyn Brownson - Seattle & King County Public Health
@@ -41,7 +35,7 @@ Testifying:
 * Amy Bailey
 * Sarah Rumbaugh - Council Member, City of Tacoma
 
-#### 1508 👎 - Con
+#### 1618 👎 - Con
 Testifying:
 * Jeff Pack - Me
 * Michael Strauss
@@ -79,6 +73,7 @@ Testifying:
 * Linda Wojciechowski
 * Lynsie Holt
 * Paul Sass - Tacoma Rifle and Revolver Club
+* Amparo Lopez
 
 #### 3 ❓ - Other
 Testifying:

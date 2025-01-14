@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32400&aId=161196&caId=24660&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32400&aId=161196&caId=24660&tId=4)
 
-#### 80 👍 - Pro
+#### 85 👍 - Pro
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Joe Tovar - Washington Chapter of the American Planning Association

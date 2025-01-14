@@ -22,12 +22,12 @@ Testifying:
 * Jared Nieuwenhuis - City of Bellevue, Council
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 8 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * JOHN WORTHINGTON
 
-#### 11 ❓ - Other
+#### 13 ❓ - Other
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Nancy Backus - Mayor, City of Auburn
@@ -40,3 +40,5 @@ Testifying:
 * Jeff Wagner - [City of Covington](/org/city_of_covington/)
 * Will Aho - Eastside Fire and Rescue
 * Breck Lebegue - WA Physicians for Social Responsibility
+* 💵Mara Machulsky - [Hoh Tribe](/org/hoh_tribe/)
+* 💵Peggen Frank - [Hoh Tribe](/org/hoh_tribe/)

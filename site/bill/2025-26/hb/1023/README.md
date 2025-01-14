@@ -25,6 +25,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * D'Arcy Harrison - COSMETOLOGISTS OF WASHINGTON UNITED
+* Keith Buckhout - The Council of State Governments

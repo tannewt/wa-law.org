@@ -17,18 +17,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161171&caId=24665&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161171&caId=24665&tId=4)
 
-#### 32 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
 * Mallorie Davies - Washington and Northern Idaho District Council of Laborers
 * Todd Mitchell - Heat and Frost Local 7
 
-#### 11 👎 - Con
+#### 40 👎 - Con
 Testifying:
 * Rick Stumph - InServ PNW LLC
 * Cary Clemenson - InServ PNW LLC
 * Karen Miller - bp America -- Cherry Point Refinery
 * Frank Capristo - Matrix Services
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Greg Hanon - Western States Petroleum Assoc.
+* Ryan Likkel - [Western Refinery Services](/org/western_refinery_services/)
+* 💵Christine Brewer - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
 
 #### 0 ❓ - Other

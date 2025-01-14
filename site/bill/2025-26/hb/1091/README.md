@@ -17,9 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161061&caId=24632&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161061&caId=24632&tId=4)
 
-#### 10 👍 - Pro
+#### 293 👍 - Pro
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Sonja Hardenbrook - WDA and WACDL
 

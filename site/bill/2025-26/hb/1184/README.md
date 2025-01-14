@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161262&caId=24666&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161262&caId=24666&tId=4)
 
-#### 168 👍 - Pro
+#### 181 👍 - Pro
 Testifying:
 * Christopher Christian
 * 💵Patrick Connor - NFIB
@@ -32,7 +32,7 @@ Testifying:
 * Steph Rees - Burlington Chamber of Commerce
 * Janet Kenefsky - Greater Vancouver Chamber of Commerce
 
-#### 37 👎 - Con
+#### 46 👎 - Con
 Testifying:
 * Mark Demaray - Acoustic Sound, non-profit corp
 

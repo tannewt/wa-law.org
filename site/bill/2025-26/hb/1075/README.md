@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32400&aId=161195&caId=24659&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32400&aId=161195&caId=24659&tId=4)
 
-#### 6 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Andrew Calkins - Bellingham & Whatcom Housing Authorities
+* Dan Watson - [King County Housing Authority](/org/king_county_housing_authority/)
+* Tim Walter - [King County Housing Authority](/org/king_county_housing_authority/)
 
 #### 0 👎 - Con
 

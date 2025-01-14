@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161097&caId=24686&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161097&caId=24686&tId=4)
 
-#### 420 👍 - Pro
+#### 453 👍 - Pro
 Testifying:
 * Amani Sawari
 * Rachael Ann Snell
@@ -25,13 +25,14 @@ Testifying:
 * Arthur Longworth - TeamChild
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 
-#### 273 👎 - Con
+#### 388 👎 - Con
 Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Mary Long - Conservative Ladies of Washington
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Danielle Armbruster - Department of Corrections
 * Kellett Sayre - Department of Corrections
 * Sean Murphy - Department of Corrections
+* Kevin Bovenkamp - DSHS Behavioral Health Administration

@@ -19,6 +19,8 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Kelsi Hamilton - Washington Collectors Assoc.
 
 #### 0 ❓ - Other

@@ -19,6 +19,6 @@ Testifying:
 * Krista Francis - Peninsula College
 * Maya Esquivido - WA State Board for Community and Technical Colleges
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

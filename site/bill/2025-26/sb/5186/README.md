@@ -18,13 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161394&caId=24706&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161394&caId=24706&tId=4)
 
-#### 14 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Jennifer Butler - Stand Up for Peninsula Schools
 * Krestin Bahr - Peninsula School District
 * Tyler Muench - Office of Superintendent of Public Instruction
+* Melissa Stone - Washington State PTA
 
-#### 453 👎 - Con
+#### 471 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 

@@ -9,15 +9,21 @@
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 * 👍💵 Andrea Smiley
 
+### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍1  
+* 👍💵 Bill Stauffacher
+
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎1 
 
-## [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review 👍1  
+### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review 👍1  
 * 👍💵 Brent Ludeman
+
+### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍1  
+
+## [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules  👎1 
 
 ## 2023-24
 
-### [HB 1160](/bill/2023-24/hb/1160/) - Local gov. design review 👍1  
-* 👍💵 Brent Ludeman
+### [SB 5175](/bill/2023-24/sb/5175/) - Photovoltaic modules  👎1 
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

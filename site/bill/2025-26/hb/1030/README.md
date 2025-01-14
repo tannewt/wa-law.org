@@ -21,6 +21,6 @@ Sign up to testify:
 Testifying:
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 
 #### 1 ❓ - Other

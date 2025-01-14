@@ -26,13 +26,7 @@ Testifying:
 #### 0 ❓ - Other
 
 ### Tue 01/14 08:00 AM - Law & Justice (LAW): SB 5065 Traveling animal acts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161045&caId=24584&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161045&caId=24584&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161045&caId=24584&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161045&caId=24584&tId=4)
-
-#### 187 👍 - Pro
+#### 199 👍 - Pro
 Testifying:
 * Anna Faust
 * Robin Vitulle - Free All Captive Elephants, Inc. (FACE)

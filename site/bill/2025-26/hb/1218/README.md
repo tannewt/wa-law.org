@@ -23,7 +23,7 @@ Testifying:
 * 💵Chloe Merino - Disability Rights WA; Plaintiff Counsel A.B. v. DSHS (Trueblood)
 * 💵Kimberly Mosolf - Counsel for Plaintiffs in AB v DSHS (Trueblood)
 
-#### 105 👎 - Con
+#### 150 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 

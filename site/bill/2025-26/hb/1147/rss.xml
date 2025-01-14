@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1147/</link>
 		<description>Updates about HB 1147</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 10:48:42 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jan 2025 08:55:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2024-12-31/Prefiled for introduction.</guid>
 		</item>
 		<item>
-			<title>👍Amani Sawari - Conservative Ladies of Washington</title>
+			<title>👍Amani Sawari - DSHS Behavioral Health Administration</title>
 			<description>Amani Sawari signed up to testify Pro.</description>
 			<pubDate>Fri, 10 Jan 2025 01:18:36 GMT</pubDate>
 			<category>testifier</category>
@@ -32,7 +32,7 @@
 			<guid isPermaLink="false">testifier/Brian/Hatfield/2025-01-10 09:13:26</guid>
 		</item>
 		<item>
-			<title>👍Rachael Ann Snell - Conservative Ladies of Washington</title>
+			<title>👍Rachael Ann Snell - DSHS Behavioral Health Administration</title>
 			<description>Rachael Ann Snell signed up to testify Pro.</description>
 			<pubDate>Sun, 12 Jan 2025 09:04:45 GMT</pubDate>
 			<category>testifier</category>
@@ -132,6 +132,14 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Sean/Murphy/2025-01-13 10:48:42</guid>
+		</item>
+		<item>
+			<title>❓Kevin Bovenkamp - DSHS Behavioral Health Administration</title>
+			<description>Kevin Bovenkamp signed up to testify Other. They are signed up to represent DSHS Behavioral Health Administration.</description>
+			<pubDate>Tue, 14 Jan 2025 08:55:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kevin/Bovenkamp/2025-01-14 08:55:26</guid>
 		</item>
 	</channel>
 </rss>

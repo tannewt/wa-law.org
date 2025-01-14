@@ -17,17 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32427&aId=161272&caId=24598&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32427&aId=161272&caId=24598&tId=4)
 
-#### 12 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Mary Hall - Thurston County Auditor
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Linda Farmer - WSACA Legislative Co Chair
 * Lindsay Beaver - Uniform Law Commission
 
-#### 246 👎 - Con
+#### 266 👎 - Con
 Testifying:
 * Lorilee Gates
 * C. Jay Coles - [Verified Voting](/org/verified_voting/)
 * Erica Engelhart
+* Susannah Goodman - Common Cause
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

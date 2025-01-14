@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * Joe Kunzler
 
-#### 103 👎 - Con
+#### 156 👎 - Con
 Testifying:
 * DONNA CHRISTENSEN
 * Robert McClure - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)

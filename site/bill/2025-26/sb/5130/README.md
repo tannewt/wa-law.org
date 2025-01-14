@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/14 08:00 AM - Early Learning & K-12 Education (EDU): SB 5130 Child care licensing fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32381&aId=161121&caId=24564&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32381&aId=161121&caId=24564&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32381&aId=161121&caId=24564&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32381&aId=161121&caId=24564&tId=4)
-
-#### 56 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * 💵Amy Anderson - [Washington Childcare Centers Association](/org/washington_childcare_centers_association/)
 

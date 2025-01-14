@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32416&aId=161235&caId=24640&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32416&aId=161235&caId=24640&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

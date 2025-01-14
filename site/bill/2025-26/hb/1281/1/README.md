@@ -1,0 +1,5314 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1281](/bill/2025-26/hb/1281/) > [Original Bill](/bill/2025-26/hb/1281/1/)
+
+# HB 1281 - Technical corrections
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1281.pdf)
+
+## Section 1
+RCW 1.08.025 directs the code reviser, with the approval of the statute law committee, to prepare legislation for submission to the legislature "concerning deficiencies, conflicts, or obsolete provisions" in statutes. This act makes technical, nonsubstantive amendments as follows:
+
+1. Section 1001 of this act places legislatively recognized days in calendar order.
+
+2. Section 1002 of this act corrects a cross reference concerning the sentencing of sex offenders.
+
+3. Section 1003 of this act corrects a drafting error concerning the number of hours of supervised experience for licensed advanced social workers.
+
+4. Section 1004 of this act renumbers a definition section in order to combine two subsections defining the term "commercial telephone solicitor."
+
+5. Sections 1005 through 1007 of this act correct errors in internal references of the Washington business corporation act.
+
+6. Section 1008 of this act removes a duplicative cross reference created by merging multiple amendments.
+
+7. Section 1009 of this act corrects a cross reference concerning the definition of liquor retailers.
+
+8. Section 1010 of this act decodifies sections relating to various groups whose work has concluded.
+
+9. Section 1011 of this act repeals a session law section omitted in error from the repeal of RCW 10.31.115 by chapter 1, Laws of 2023 sp. sess.
+
+10. Sections 2001 through 2051 of this act adjust cross references to reflect recodification of sections and changes in subsection numbering.
+
+11. Sections 3001 through 3011 of this act merge multiple amendments created when sections were amended without reference to other amendments made in the same session.
+
+12. Sections 4001 through 4010 of this act change the term "marijuana" to "cannabis" in uncodified notes published in the Revised Code of Washington.
+
+13. Sections 5001 through 5172 of this act change the term "nursing care quality assurance commission" to "state board of nursing," in accordance with chapter 123, Laws of 2023, and "advanced registered nurse practitioner" to "advanced practice registered nurse," in accordance with chapter 239, Laws of 2024.
+
+## Section 1001
+1. The following are state legal holidays:
+
+    a. Sunday;
+
+    b. The first day of January, commonly called New Year's Day;
+
+    c. The third Monday of January, celebrated as the anniversary of the birth of Martin Luther King, Jr.;
+
+    d. The third Monday of February, to be known as Presidents' Day and celebrated as the anniversary of the births of Abraham Lincoln and George Washington;
+
+    e. The last Monday of May, commonly known as Memorial Day;
+
+    f. The nineteenth day of June, recognized as Juneteenth, a day of remembrance for the day the African slaves learned of their freedom;
+
+    g. The fourth day of July, the anniversary of the Declaration of Independence;
+
+    h. The first Monday in September, to be known as Labor Day;
+
+        i. The eleventh day of November, to be known as Veterans Day;
+
+    j. The fourth Thursday in November, to be known as Thanksgiving Day;
+
+    k. The Friday immediately following the fourth Thursday in November, to be known as Native American Heritage Day; and
+
+    l. The twenty-fifth day of December, commonly called Christmas Day.
+
+2. Employees of the state and its political subdivisions, except employees of school districts and except those nonclassified employees of institutions of higher education who hold appointments or are employed under contracts to perform services for periods of less than twelve consecutive months, are entitled to one paid holiday per calendar year in addition to those specified in this section. Each employee of the state or its political subdivisions may select the day on which the employee desires to take the additional holiday provided for in this section after consultation with the employer pursuant to guidelines to be promulgated by rule of the appropriate personnel authority, or in the case of local government by ordinance or resolution of the legislative authority.
+
+3. Employees of the state and its political subdivisions, including employees of school districts and those nonclassified employees of institutions of higher education who hold appointments or are employed under contracts to perform services for periods of less than twelve consecutive months, are entitled to two unpaid holidays per calendar year for a reason of faith or conscience or an organized activity conducted under the auspices of a religious denomination, church, or religious organization. This includes employees of public institutions of higher education, including community colleges, technical colleges, and workforce training programs. The employee may select the days on which the employee desires to take the two unpaid holidays after consultation with the employer pursuant to guidelines to be promulgated by rule of the appropriate personnel authority, or in the case of local government by ordinance or resolution of the legislative authority. If an employee prefers to take the two unpaid holidays on specific days for a reason of faith or conscience, or an organized activity conducted under the auspices of a religious denomination, church, or religious organization, the employer must allow the employee to do so unless the employee's absence would impose an undue hardship on the employer or the employee is necessary to maintain public safety. Undue hardship shall have the meaning established in rule by the office of financial management under RCW 43.41.109.
+
+4. If any of the state legal holidays specified in this section are also federal legal holidays but observed on different dates, only the state legal holidays are recognized as a paid legal holiday for employees of the state and its political subdivisions. However, for port districts and the law enforcement and public transit employees of municipal corporations, either the federal or the state legal holiday is recognized as a paid legal holiday, but in no case may both holidays be recognized as a paid legal holiday for employees.
+
+5. Whenever any state legal holiday:
+
+    a. Other than Sunday, falls upon a Sunday, the following Monday is the legal holiday; or
+
+    b. Falls upon a Saturday, the preceding Friday is the legal holiday.
+
+6. Nothing in this section may be construed to have the effect of adding or deleting the number of paid holidays provided for in an agreement between employees and employers of political subdivisions of the state or as established by ordinance or resolution of the local government legislative authority.
+
+7. The legislature declares that the following days are recognized as provided in this subsection, but may not be considered legal holidays for any purpose:
+
+    a.
+
+The eleventh day of January, recognized as human trafficking awareness day;
+
+    b. The thirteenth day of January, recognized as Korean American day;
+
+    c. The date corresponding with the second new moon following the winter solstice, or the third new moon following the winter solstice should an intercalary month intervene, recognized as the lunar new year;
+
+    d. The twenty-sixth day of January, recognized as Washington army and air national guard day;
+
+    e. The nineteenth day of February, recognized as civil liberties day of remembrance;
+
+    f. The ninth day of March, recognized as Billy Frank Jr. day;
+
+    g. The thirtieth day of March, recognized as welcome home Vietnam veterans day;
+
+    h. The thirty-first day of March, recognized as Cesar Chavez day;
+
+        i. The ninth day of April, recognized as former prisoner of war recognition day;
+
+    j. The tenth day of April, recognized as Dolores Huerta day;
+
+    k. The sixteenth day of April, recognized as Mother Joseph day;
+
+    l. The fifteenth day of May, recognized as water safety day;
+
+    m. The twenty-seventh day of July, recognized as national Korean war veterans armistice day;
+
+    n. The seventh day of August, recognized as purple heart recipient recognition day;
+
+    o. The fourth day of September, recognized as Marcus Whitman day;
+
+    p. The fourth Saturday of September, recognized as public lands day;
+
+    q. The second Sunday in October, recognized as Washington state children's day;
+
+    r. The twelfth day of October, recognized as Columbus day;
+
+    s. The seventh day of December, recognized as Pearl Harbor remembrance day; and
+
+    t. The eighteenth day of December, recognized as blood donor day.
+
+## Section 1002
+1. An offender who is not a persistent offender shall be sentenced under this section if the offender:
+
+    a. Is convicted of:
+
+        i. Rape in the first degree, rape in the second degree, rape of a child in the first degree, child molestation in the first degree, rape of a child in the second degree, or indecent liberties by forcible compulsion;
+
+        ii. Any of the following offenses with a finding of sexual motivation: Murder in the first degree, murder in the second degree, homicide by abuse, kidnapping in the first degree, kidnapping in the second degree, assault in the first degree, assault in the second degree, assault of a child in the first degree, assault of a child in the second degree, or burglary in the first degree; or
+
+        iii. An attempt to commit any crime listed in this subsection (1)(a); or
+
+    b. Has a prior conviction for an offense listed in RCW 9.94A.030(37)(b)(i), and is convicted of any sex offense other than failure to register.
+
+2. An offender convicted of rape of a child in the first or second degree or child molestation in the first degree who was seventeen years of age or younger at the time of the offense shall not be sentenced under this section.
+
+3. [Empty]
+
+    a. Upon a finding that the offender is subject to sentencing under this section, the court shall impose a sentence to a maximum term and a minimum term.
+
+    b. The maximum term shall consist of the statutory maximum sentence for the offense.
+
+    c. [Empty]
+
+        i. Except as provided in (c)(ii) of this subsection, the minimum term shall be either within the standard sentence range for the offense, or outside the standard sentence range pursuant to RCW 9.94A.535, if the offender is otherwise eligible for such a sentence.
+
+        ii. If the offense that caused the offender to be sentenced under this section was rape of a child in the first degree, rape of a child in the second degree, or child molestation in the first degree, and there has been a finding that the offense was predatory under RCW 9.94A.836, the minimum term shall be either the maximum of the standard sentence range for the offense or twenty-five years, whichever is greater. If the offense that caused the offender to be sentenced under this section was rape in the first degree, rape in the second degree, indecent liberties by forcible compulsion, or kidnapping in the first degree with sexual motivation, and there has been a finding that the victim was under the age of fifteen at the time of the offense under RCW 9.94A.837, the minimum term shall be either the maximum of the standard sentence range for the offense or twenty-five years, whichever is greater. If the offense that caused the offender to be sentenced under this section is rape in the first degree, rape in the second degree with forcible compulsion, indecent liberties with forcible compulsion, or kidnapping in the first degree with sexual motivation, and there has been a finding under RCW 9.94A.838 that the victim was, at the time of the offense, developmentally disabled, mentally disordered, or a frail elder or vulnerable adult, the minimum sentence shall be either the maximum of the standard sentence range for the offense or twenty-five years, whichever is greater.
+
+    d. The minimum terms in (c)(ii) of this subsection do not apply to a juvenile tried as an adult pursuant to RCW 13.04.030(1)(e) (i) or (v). The minimum term for such a juvenile shall be imposed under (c)(i) of this subsection.
+
+4. A person sentenced under subsection (3) of this section shall serve the sentence in a facility or institution operated, or utilized under contract, by the state.
+
+5. When a court sentences a person to the custody of the department under this section, the court shall, in addition to the other terms of the sentence, sentence the offender to community custody under the supervision of the department and the authority of the board for any period of time the person is released from total confinement before the expiration of the maximum sentence.
+
+6. [Empty]
+
+    a. As part of any sentence under this section, the court shall also require the offender to comply with any conditions imposed by the board under RCW 9.95.420 through 9.95.435.
+
+    b. An offender released by the board under RCW 9.95.420 is subject to the supervision of the department until the expiration of the maximum term of the sentence. The department shall monitor the offender's compliance with conditions of community custody imposed by the court, department, or board, and promptly report any violations to the board. Any violation of conditions of community custody established or modified by the board are subject to the provisions of RCW 9.95.425 through 9.95.440.
+
+## Section 1003
+1. The secretary shall issue a license to any applicant who demonstrates to the satisfaction of the secretary that the applicant meets the following education and experience requirements for the applicant's practice area.
+
+    a. Licensed social work classifications:
+
+        i. Licensed advanced social worker:
+
+(A) Graduation from a master's social work educational program accredited by the council on social work education or a social work doctorate program at a university accredited by a recognized accrediting organization, and approved by the secretary based upon nationally recognized standards;
+
+(B) Successful completion of an approved examination;
+
+(C) Successful completion of a supervised experience requirement. The supervised experience requirement consists of a minimum of 3,000 hours with supervision by an approved supervisor who has been licensed for at least two years. Of those supervised hours:
+
+(I) At least 90 hours must include direct supervision as specified in this subsection by a licensed independent clinical social worker, a licensed advanced social worker, or an equally qualified licensed mental health professional. Of those hours of directly supervised experience at least 40 hours must be in one-to-one supervision and 50 hours may be in one-to-one supervision or group supervision; and
+
+(II) 800 hours must be in direct client contact; and
+
+(D) Successful completion of continuing education requirements established in rule by the secretary in consultation with the committee, including a minimum number of hours in professional ethics.
+
+        ii. Licensed independent clinical social worker:
+
+(A) Graduation from a master's level social work educational program accredited by the council on social work education or a social work doctorate program at a university accredited by a recognized accrediting organization, and approved by the secretary based upon nationally recognized standards;
+
+(B) Successful completion of an approved examination;
+
+(C) Successful completion of a supervised experience requirement. The supervised experience requirement consists of a minimum of 3,000 hours of experience, over a period of not less than two years, with supervision by an approved supervisor who has been licensed for at least two years and, as specified in this subsection, may be either a licensed independent clinical social worker who has had at least one year of experience in supervising the clinical social work of others or an equally qualified licensed mental health practitioner. Of those supervised hours:
+
+(I) At least 1,000 hours must be direct client contact; and
+
+(II) Hours of direct supervision must include:
+
+1. At least 100 hours by a licensed mental health practitioner;
+
+2. At least 70 hours of supervision with a licensed independent clinical social worker meeting the qualifications under this subsection (1)(a)(ii)(C); the remaining hours may be supervised by an equally qualified licensed mental health practitioner; and
+
+3. At least 60 hours must be in one-to-one supervision and the remaining hours may be in one-to-one supervision or group supervision; and
+
+(D) Successful completion of continuing education requirements established in rule by the secretary in consultation with the committee, including a minimum number of hours in professional ethics.
+
+    b. Licensed mental health counselor:
+
+        i.(A) Graduation from a master's or doctoral level educational program in counseling that consists of at least 60 semester hours or 90 quarter hours, or includes at least 60 semester hours or 90 quarter hours of graduate coursework that includes the following topic areas:
+
+(I) Mental health counseling orientation and ethical practice;
+
+(II) Social and cultural diversity;
+
+(III) Human growth and development;
+
+(IV) Career development;
+
+(V) Counseling and helping relationships;
+
+(VI) Group counseling and group work;
+
+(VII) Diagnosis and treatment;
+
+(VIII) Assessment and testing; and
+
+(IX) Research and program evaluation; or
+
+(B) Graduation from a master's or doctoral level educational program in a related discipline from a college or university approved by the secretary based upon nationally recognized standards. An applicant who satisfies the educational requirements for licensure under this subsection (1)(b)(i)(B) is not qualified to exercise the privilege to practice under the counseling compact established in chapter 18.17 RCW unless the master's or doctoral level educational program in a related discipline consists of at least 60 semester hours or 90 quarter hours, or includes at least 60 semester hours or 90 quarter hours of graduate coursework that includes the topic areas specified in (b)(i)(A)(I) through (IX) of this subsection;
+
+        ii. Successful completion of an approved examination;
+
+        iii. Successful completion of a supervised experience requirement. The experience requirement consists of a minimum of 36 months full-time counseling or 3,000 hours of postgraduate mental health counseling under the supervision of a qualified licensed mental health counselor or equally qualified licensed mental health practitioner, in an approved setting. The 3,000 hours of required experience includes a minimum of 100 hours spent in immediate supervision with the qualified licensed mental health counselor, and includes a minimum of 1,200 hours of direct counseling with individuals, couples, families, or groups; and
+
+        iv. Successful completion of continuing education requirements established in rule by the secretary in consultation with the committee, including a minimum number of hours in professional ethics.
+
+    c. Licensed marriage and family therapist:
+
+        i. Graduation from a master's degree or doctoral degree educational program in marriage and family therapy or graduation from an educational program in an allied field equivalent to a master's degree or doctoral degree in marriage and family therapy approved by the secretary based upon nationally recognized standards;
+
+        ii. Successful passage of an approved examination;
+
+        iii. Successful completion of a supervised experience requirement. The experience requirement consists of a minimum of 3,000 hours of marriage and family therapy. Of the total supervision, 100 hours must be with a licensed marriage and family therapist with at least two years' clinical experience; the other 100 hours may be with an equally qualified licensed mental health practitioner. Total experience requirements include:
+
+(A) 1,000 hours of direct client contact; at least 500 hours must be gained in diagnosing and treating couples and families; plus
+
+(B) At least 200 hours of qualified supervision with a supervisor. At least 100 of the 200 hours must be one-on-one supervision, and the remaining hours may be in one-on-one or group supervision.
+
+Applicants who have completed a master's program accredited by the commission on accreditation for marriage and family therapy education of the American association for marriage and family therapy may be credited with 500 hours of direct client contact and 100 hours of formal meetings with an approved supervisor; and
+
+        iv. Successful completion of continuing education requirements established in rule by the secretary in consultation with the committee, including a minimum number of hours in professional ethics.
+
+2. The department shall establish by rule what constitutes adequate proof of meeting the criteria. Only rules in effect on the date of submission of a completed application of an associate for her or his license shall apply. If the rules change after a completed application is submitted but before a license is issued, the new rules shall not be reason to deny the application.
+
+3. In addition, applicants shall be subject to the grounds for denial of a license or issuance of a conditional license under chapter 18.130 RCW.
+
+## Section 1004
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+## Section 1005
+1. If proposed corporate action creating dissenters' rights under RCW 23B.13.020 is submitted for approval by a vote at a shareholders' meeting, the meeting notice must state that shareholders are or may be entitled to assert dissenters' rights under this chapter and be accompanied by a copy of this chapter.
+
+2. If proposed corporate action creating dissenters' rights under RCW 23B.13.020 would be submitted for approval by a vote at a shareholders' meeting but for the provisions of RCW 23B.11A.045, the offer made pursuant to RCW 23B.11A.045 must state that shareholders are or may be entitled to assert dissenters' rights under this chapter and be accompanied by a copy of this chapter.
+
+3. If corporate action creating dissenters' rights under RCW 23B.13.020 is submitted for approval without a vote of shareholders in accordance with RCW 23B.07.040, the shareholder consent described in RCW 23B.07.040(1)(b) and the notice described in RCW 23B.07.040(3)(a) must include a statement that shareholders are or may be entitled to assert dissenters' rights under this chapter and be accompanied by a copy of this chapter.
+
+## Section 1006
+1. If proposed corporate action creating dissenters' rights under RCW 23B.13.020 is submitted to a vote at a shareholders' meeting, a shareholder who wishes to assert dissenters' rights must (a) deliver to the corporation before the vote is taken written notice of the shareholder's intent to demand payment for the shareholder's shares if the proposed corporate action is effected, and (b) not vote such shares in favor of the proposed corporate action.
+
+2. If proposed corporate action creating dissenters' rights under RCW 23B.13.020 does not require shareholder approval pursuant to RCW 23B.11A.045, a shareholder who wishes to assert dissenters' rights with respect to any class or series of shares:
+
+    a. Shall deliver to the corporation before the shares are purchased pursuant to the offer under RCW 23B.11A.045 written notice of the shareholder's intent to demand payment for the shareholder's shares if the proposed corporate action is effected; and
+
+    b. Shall not tender, or cause to be tendered, any shares of such class or series in response to such offer.
+
+3. If proposed corporate action creating dissenters' rights under RCW 23B.13.020 is submitted for approval without a vote of shareholders in accordance with RCW 23B.07.040, a shareholder who wishes to assert dissenters' rights must not execute the consent or otherwise vote such shares in favor of the proposed corporate action.
+
+4. A shareholder who does not satisfy the requirements of subsection (1), (2), or (3) of this section is not entitled to payment for the shareholder's shares under this chapter.
+
+## Section 1007
+1. If proposed corporate action creating dissenters' rights under RCW 23B.13.020 is approved at a shareholders' meeting, the corporation shall within ten days after the effective date of the corporate action deliver to all shareholders who satisfied the requirements of RCW 23B.13.210(1) a notice in compliance with subsection (6) of this section.
+
+2. If proposed corporate action creating dissenters' rights under RCW 23B.13.020 is approved without a vote of shareholders in accordance with RCW 23B.11A.045, the corporation shall within 10 days after the effective date of the corporate action deliver to all shareholders who satisfied the requirements of RCW 23B.13.210(2) a notice in compliance with subsection (6) of this section.
+
+3. If proposed corporate action creating dissenters' rights under RCW 23B.13.020 is approved without a vote of shareholders in accordance with RCW 23B.07.040, the notice delivered pursuant to RCW 23B.07.040(3)(b) to shareholders who satisfied the requirements of RCW 23B.13.210(3) shall comply with subsection (6) of this section.
+
+4. In the case of proposed corporate action creating dissenters' rights under RCW 23B.13.020(1)(a)(ii), the corporation shall within ten days after the effective date of the corporate action deliver to all shareholders of the subsidiary other than the parent a notice in compliance with subsection (6) of this section.
+
+5. In the case of proposed corporate action creating dissenters' rights under RCW 23B.13.020(1)(d) that, pursuant to RCW 23B.10.020(4)(b), is not required to be approved by the shareholders of the corporation, the corporation shall within ten days after the effective date of the corporate action deliver to all shareholders entitled to dissent under RCW 23B.13.020(1)(d) a notice in compliance with subsection (6) of this section.
+
+6. Any notice under subsection (1), (2), (3), (4), or (5) of this section must:
+
+    a. State where the payment demand must be sent and where and when certificates for certificated shares must be deposited;
+
+    b. Inform holders of uncertificated shares to what extent transfer of the shares will be restricted after the payment demand is received;
+
+    c. Supply a form for demanding payment that includes the date of the first announcement to news media or to shareholders of the terms of the proposed corporate action and requires that the person asserting dissenters' rights certify whether or not the person acquired beneficial ownership of the shares before that date;
+
+    d. Set a date by which the corporation must receive the payment demand, which date may not be fewer than thirty nor more than sixty days after the date the notice in subsection (1), (2), (3), (4), or (5) of this section is delivered; and
+
+    e. Be accompanied by a copy of this chapter.
+
+## Section 1008
+(1) The hearings board shall only have jurisdiction to hear and decide appeals from the following decisions of the department, the director, local conservation districts, the air pollution control boards or authorities as established pursuant to chapter 70A.15 RCW, local health departments, the department of natural resources, the department of fish and wildlife, the parks and recreation commission, and authorized public entities described in chapter 79.100 RCW:
+
+## Section 1009
+In this title, unless the context otherwise requires:
+
+1. "Retailer" except as expressly defined by RCW 66.28.285(5) with respect to its use in RCW 66.28.280 through 66.28.315, means the holder of a license or permit issued by the board authorizing sale of liquor to consumers for consumption on and/or off the premises. With respect to retailer licenses, "on-sale" refers to the license privilege of selling for consumption upon the licensed premises.
+
+2. "Spirits distributor" means a person, other than a person who holds only a retail license, who buys spirits from a domestic distiller, manufacturer, supplier, spirits distributor, or spirits importer, or who acquires foreign-produced spirits from a source outside of the United States, for the purpose of reselling the same not in violation of this title, or who represents such distiller as agent.
+
+3. "Spirits importer" means a person who buys distilled spirits from a distiller outside the state of Washington and imports such spirits into the state for sale or export.
+
+## Section 1010
+The following sections are decodified:
+
+## Section 1011
+2023 c 470 s 3013 is repealed.
+
+## Section 1012
+Section 1003 of this act takes effect October 1, 2025.
+
+## Section 2001
+1. Except as provided in subsection (2) of this section, property claimed exempt under RCW 6.15.010 shall be selected by the individual entitled to the exemption, or by the husband or wife entitled to a community exemption, in the manner described in subsection (3) of this section.
+
+2. If, at the time of seizure under execution or attachment of property exemptible under RCW 6.15.010(1)(d)(i) and (iii), the individual or the husband or wife entitled to claim the exemption is not present, then the sheriff or deputy shall make a selection equal in value to the applicable exemptions and, if no appraisement is required and no objection is made by the creditor as permitted under subsection (4) of this section, the officer shall return the same as exempt by inventory. Any selection made as provided shall be prima facie evidence (a) that the property so selected is exempt from execution and attachment, and (b) that the property so selected is not in excess of the values specified for the exemptions.
+
+3. [Empty]
+
+    a. A debtor who claims personal property as exempt against execution or attachment shall, at any time before sale, deliver to the officer making the levy a list by separate items of the property claimed as exempt, together with an itemized list of all the personal property owned or claimed by the debtor, including money, bonds, bills, notes, claims and demands, with the residence of the person indebted upon the said bonds, bills, notes, claims and demands, and shall verify such list by affidavit. The officer shall immediately advise the creditor, attorney, or agent of the exemption claim and, if no appraisement is required and no objection is made by the creditor as permitted under subsection (4) of this section, the officer shall return with the process the list of property claimed as exempt.
+
+    b. A debtor who claims personal property exempt against garnishment shall proceed as provided in RCW 6.27.160.
+
+    c. A debtor who claims as a homestead, under chapter 6.13 RCW, a mobile home that is not yet occupied as a homestead and that is located on land not owned by the debtor shall claim the homestead as against a specific levy by delivering to the sheriff who levied on the mobile home, before sale under the levy, a declaration of homestead that contains (i) a declaration that the debtor owns the mobile home, intends to reside therein, and claims it as a homestead, and (ii) a description of the mobile home, a statement where it is located or was located before the levy, and an estimate of its actual cash value.
+
+    d. A debtor who claims as a homestead, under RCW 6.13.040, any other personal property, shall at any time before sale, deliver to the officer making the levy a notice of claim of homestead in a statement that sets forth the following: (i) The debtor owns the personal property; (ii) the debtor resides thereon as a homestead; (iii) the debtor's estimate of the fair market value of the property; and (iv) the debtor's description of the property in sufficient detail for the officer making the levy to identify the same.
+
+4. [Empty]
+
+    a. Except as provided in (b) of this subsection, a creditor, or the agent or attorney of a creditor, who wishes to object to a claim of exemption shall proceed as provided in RCW 6.27.160 and shall give notice of the objection to the officer not later than seven days after the officer's giving notice of the exemption claim.
+
+    b. A creditor, or the agent or attorney of the creditor, who wishes to object to a claim of exemption made to a levying officer, on the ground that the property claimed exceeds exemptible value, may demand appraisement. If the creditor, or the agent or attorney of the creditor, demands an appraisement, two disinterested persons shall be chosen to appraise the property, one by the debtor and the other by the creditor, agent or attorney, and these two, if they cannot agree, shall select a third; but if either party fails to choose an appraiser, or the two fail to select a third, or if one or more of the appraisers fail to act, the court shall appoint one or more as the circumstances require. The appraisers shall forthwith proceed to make a list by separate items, of the personal property selected by the debtor as exempt, which they shall decide as exempt, stating the value of each article, and annexing to the list their affidavit to the following effect: "We solemnly swear that to the best of our judgment the above is a fair cash valuation of the property therein described," which affidavit shall be signed by two appraisers at least, and be certified by the officer administering the oaths. The list shall be delivered to the officer holding the execution or attachment and be annexed to and made part of the return, and the property therein specified shall be exempt from levy and sale, but the other personal estate of the debtor shall remain subject to execution, attachment, or garnishment. Each appraiser shall be entitled to fifteen dollars or such larger fee as shall be fixed by the court, to be paid by the creditor if all the property claimed by the debtor shall be exempt; otherwise to be paid by the debtor.
+
+    c. If, within seven days following the giving of notice to a creditor of an exemption claim, the officer has received no notice from the creditor of an objection to the claim or a demand for appraisement, the officer shall release the claimed property to the debtor.
+
+## Section 2002
+1. [Empty]
+
+    a. When it appears that a person who has been convicted of a sexually violent offense may meet the criteria of a sexually violent predator as defined in RCW 71.09.020, the agency with jurisdiction over the person shall refer the person in writing to the prosecuting attorney of the county where that person was convicted, three months prior to the anticipated release from total confinement.
+
+    b. The agency shall inform the prosecutor of the following:
+
+        i. The person's name, identifying factors, anticipated future residence, and offense history; and
+
+        ii. Documentation of institutional adjustment and any treatment received.
+
+2. This section applies to acts committed before, on, or after March 26, 1992.
+
+3. The agency with jurisdiction, its employees, and officials shall be immune from liability for any good-faith conduct under this section.
+
+4. As used in this section, "agency with jurisdiction" means that agency with the authority to direct the release of a person serving a sentence or term of confinement and includes the department of corrections, the indeterminate sentence review board, and the department of social and health services.
+
+## Section 2003
+In addition to the definitions set out in RCW 9.94A.030, the following definitions apply for purposes of this chapter:
+
+1. "Community placement" means that period during which the offender is subject to the conditions of community custody and/or postrelease supervision, which begins either upon completion of the term of confinement (postrelease supervision) or at such time as the offender is transferred to community custody in lieu of earned release. Community placement may consist of entirely community custody, entirely postrelease supervision, or a combination of the two.
+
+2. "Community supervision" means a period of time during which a convicted offender is subject to crime‑related prohibitions and other sentence conditions imposed by a court pursuant to this chapter or RCW 16.52.200(9) or 46.61.524. Where the court finds that any offender has a chemical dependency that has contributed to his or her offense, the conditions of supervision may, subject to available resources, include treatment. For purposes of the interstate compact for out‑of‑state supervision of parolees and probationers, RCW 9.95.270, community supervision is the functional equivalent of probation and should be considered the same as probation by other states.
+
+3. "Postrelease supervision" is that portion of an offender's community placement that is not community custody.
+
+## Section 2004
+The board shall fix the duration of confinement for persons committed by the court before July 1, 1986, for crimes committed before July 1, 1984. Within six months after the admission of the convicted person to a state correctional facility, the board shall fix the duration of confinement. The term of imprisonment so fixed shall not exceed the maximum provided by law for the offense of which the person was convicted or the maximum fixed by the court where the law does not provide for a maximum term.
+
+Subject to RCW 9.95.047, the following limitations are placed on the board or the court for persons committed to a state correctional facility on or after July 1, 1986, for crimes committed before July 1, 1984, with regard to fixing the duration of confinement in certain cases, notwithstanding any provisions of law specifying a lesser sentence:
+
+1. For a person not previously convicted of a felony but armed with a deadly weapon at the time of the commission of the offense, the duration of confinement shall not be fixed at less than five years.
+
+2. For a person previously convicted of a felony either in this state or elsewhere and who was armed with a deadly weapon at the time of the commission of the offense, the duration of confinement shall not be fixed at less than seven and one-half years.
+
+The words "deadly weapon," as used in this section include, but are not limited to, any instrument known as a blackjack, sling shot, billy, sand club, sandbag, metal knuckles, any dirk, dagger, pistol, revolver, or any other firearm, any knife having a blade longer than three inches, any razor with an unguarded blade, any metal pipe or bar used or intended to be used as a club, any explosive, and any weapon containing poisonous or injurious gas.
+
+3. For a person convicted of being an habitual criminal within the meaning of the statute which provides for mandatory life imprisonment for such habitual criminals, the duration of confinement shall not be fixed at less than fifteen years.
+
+4. Any person convicted of embezzling funds from any institution of public deposit of which the person was an officer or stockholder, the duration of confinement shall be fixed at not less than five years.
+
+Except when an inmate of a state correctional facility has been convicted of murder in the first or second degree, the board may parole an inmate prior to the expiration of a mandatory minimum term, provided such inmate has demonstrated a meritorious effort in rehabilitation and at least two-thirds of the board members concur in such action: PROVIDED, That any inmate who has a mandatory minimum term and is paroled prior to the expiration of such term according to the provisions of this chapter shall not receive a conditional release from supervision while on parole until after the mandatory minimum term has expired.
+
+An inmate serving a sentence fixed under this chapter, whether or not a mandatory minimum term has expired, may be granted an extraordinary medical placement by the secretary of corrections when authorized under RCW 9.94A.728(1)(c).
+
+## Section 2005
+1. A person is guilty of extortion in the first degree if he or she commits extortion by means of a threat as defined in RCW 9A.04.110(28) (a), (b), or (c).
+
+2. Extortion in the first degree is a class B felony.
+
+## Section 2006
+1. To appeal a judgment or decision in a small claims action, an appellant shall file a notice of appeal in the district court, pay the statutory superior court filing fee, post the required bond or undertaking, and serve a copy of the notice of appeal on all parties of record within thirty days after the judgment is rendered or decision made.
+
+2. No appeal may be allowed, nor proceedings on the judgment or decision stayed, unless a bond or undertaking shall be executed on the part of the appellant and filed with and approved by the district court. The bond or undertaking shall be executed with two or more personal sureties, or a surety company as surety, to be approved by the district court, in a sum equal to twice the amount of the judgment and costs, or twice the amount in controversy, whichever is greater, conditioned that the appellant will pay any judgment, including costs, as may be rendered on appeal. No bond is required if the appellant is a county, city, town, or school district.
+
+3. When an appellant has filed a notice of appeal, paid the statutory superior court filing fee and the costs of preparation of the complete record as set forth in RCW 3.62.060(1)(b), and posted the bond or undertaking as required, the clerk of the district court shall immediately file a copy of the notice of appeal, the filing fee, and the bond or undertaking with the superior court.
+
+## Section 2007
+1. Except when treatment is provided in a hospital licensed under chapter 70.41 RCW, a physician's trained advanced emergency medical  technician and paramedic, emergency medical technician, or first responder who renders treatment to a patient for (a) a bullet wound, gunshot wound, powder burn, or other injury arising from or caused by the discharge of a firearm; (b) an injury caused by a knife, an ice pick, or any other sharp or pointed instrument which federal, state, or local law enforcement authorities reasonably believe to have been intentionally inflicted upon a person; (c) a blunt force injury that federal, state, or local law enforcement authorities reasonably believe resulted from a criminal act; or (d) injuries sustained in an automobile collision, shall disclose without the patient's authorization, upon a request from a federal, state, or local law enforcement authority as defined in RCW 70.02.010, the following information, if known:
+
+        i. The name of the patient;
+
+        ii. The patient's residence;
+
+        iii. The patient's sex;
+
+        iv. The patient's age;
+
+    v. The patient's condition or extent and location of injuries as determined by the physician's trained advanced emergency medical  technician and paramedic, emergency medical technician, or first responder;
+
+    vi. Whether the patient was conscious when contacted;
+
+    vii. Whether the patient appears to have consumed alcohol or appears to be under the influence of alcohol or drugs;
+
+    viii. The name or names of the physician's trained advanced emergency medical  technician and paramedic, emergency medical technician, or first responder who provided treatment to the patient; and
+
+        ix. The name of the facility to which the patient is being transported for additional treatment.
+
+2. A physician's trained advanced emergency medical  technician and paramedic, emergency medical technician, first responder, or other individual who discloses information pursuant to this section is immune from civil or criminal liability or professional licensure action for the disclosure, provided that the physician's trained advanced emergency medical  technician and paramedic, emergency medical technician, first responder, or other individual acted in good faith and without gross negligence or willful or wanton misconduct.
+
+3. The obligation to provide information pursuant to this section is secondary to patient care needs. Information must be provided as soon as reasonably possible taking into consideration a patient's emergency care needs.
+
+4. For purposes of this section, "a physician's trained advanced emergency medical  technician and paramedic" has the same meaning as in RCW 18.71.200.
+
+## Section 2008
+1. Each agency shall keep records of all referrals rendered to or on behalf of clients. These records must contain:
+
+    a. The name of the vulnerable adult, and the address and phone number of the client or the client's representative, if any;
+
+    b. The kind of supportive housing or care services for which referral was sought;
+
+    c. The location of the care services or supportive housing referred to the client and probable duration, if known;
+
+    d. The monthly or unit cost of the supportive housing or care services, if known;
+
+    e. If applicable, the amount of the agency's fee to the client or to the provider;
+
+    f. If applicable, the dates and amounts of refund of the agency's fee, if any, and reason for such refund; and
+
+    g. A copy of the client's disclosure and intake forms described in RCW 18.330.050 and 18.330.060.
+
+2. Each agency shall also keep records of any contract or written agreement entered into with any provider for services rendered to or on behalf of a vulnerable adult, including any referrals to a provider. Any provision in a contract or written agreement not consistent with this chapter is void and unenforceable.
+
+3. The agency must maintain the records covered by this chapter for a period of six years. The agency's records identifying a client are considered "health care information" and the provisions of chapter 70.02 RCW apply but only to the extent that such information meets the definition of "health care information" under RCW 70.02.010(17). The client must have access upon request to the agency's records concerning the client and covered by this chapter.
+
+## Section 2009
+1. It is a violation of this chapter for a vehicle dealer, as defined in RCW 46.70.011, to engage in the unlawful transfer of an ownership interest in motor vehicles.
+
+2. It is a violation of this chapter for a person to engage in the unlawful subleasing of motor vehicles.
+
+## Section 2010
+1. Except as authorized under subsection (2) of this section, no consumer reporting agency may make a consumer report containing any of the following items of information:
+
+    a. Bankruptcies that, from date of adjudication of the most recent bankruptcy, antedate the report by more than ten years;
+
+    b. Suits and judgments that, from date of entry, antedate the report by more than seven years or until the governing statute of limitations has expired, whichever is the longer period;
+
+    c. Paid tax liens that, from date of payment, antedate the report by more than seven years;
+
+    d. Accounts placed for collection or charged to profit and loss that antedate the report by more than seven years;
+
+    e. Records of arrest, indictment, or conviction of an adult for a crime that, from date of disposition, release, or parole, antedate the report by more than seven years;
+
+    f. Juvenile records, as defined in RCW 13.50.010(1)(f), when the subject of the records is twenty-one years of age or older at the time of the report; and
+
+    g. Any other adverse item of information that antedates the report by more than seven years.
+
+2. Subsection (1)(a) through (e) and (g) of this section is not applicable in the case of a consumer report to be used in connection with:
+
+    a. A credit transaction involving, or that may reasonably be expected to involve, a principal amount of fifty thousand dollars or more;
+
+    b. The underwriting of life insurance involving, or that may reasonably be expected to involve, a face amount of fifty thousand dollars or more; or
+
+    c. The employment of an individual at an annual salary that equals, or that may reasonably be expected to equal, twenty thousand dollars or more.
+
+## Section 2011
+1. School districts in Washington and community colleges in Oregon and Idaho may enter into cooperative agreements under chapter 39.34 RCW for the purpose of allowing eleventh and twelfth grade students who are enrolled in the school districts to earn high school and college credit concurrently.
+
+2. Except as provided in subsection (3) of this section, if a school district exercises the authority granted in subsection (1) of this section, the provisions of RCW 28A.600.310 through 28A.600.360 and 28A.600.380 through 28A.600.400 shall apply to the agreements.
+
+3. A school district may enter an agreement in which the community college agrees to accept an amount less than the statewide uniform rate under RCW 28A.600.310(9) if the community college does not charge participating students tuition and fees. A school district may not pay a per-credit rate in excess of the statewide uniform rate under RCW 28A.600.310(9).
+
+4. To the extent feasible, the agreements shall permit participating students to attend the community college without paying any tuition and fees. The agreements shall not permit the community college to charge participating students nonresident tuition and fee rates.
+
+5. The agreements shall ensure that participating students are permitted to enroll only in courses that are transferable to one or more institutions of higher education as defined in RCW 28B.10.016.
+
+## Section 2012
+The board of regents of the University of Washington is empowered to authorize from time to time the transfer from the state university permanent fund to be held in reserve in the bond retirement fund created by RCW 28B.20.720 any unobligated funds and investments derived from lands set apart for the support of the university by chapter 91, Laws of 1903 and section 9, chapter 122, Laws of 1893, to the extent required to comply with bond covenants regarding principal and interest payments and reserve requirements for bonds payable out of the bond retirement fund up to a total amount of five million dollars, and to transfer any or all of said unobligated funds and investments in excess of five million dollars to the university building account created by RCW 43.79.330(9). Any funds transferred to the bond retirement fund pursuant to this section shall be replaced by moneys first available out of the moneys required to be deposited in such fund pursuant to RCW 28B.20.800. The board is further empowered to direct the state finance committee to convert any investments in such permanent fund acquired with funds derived from such lands into cash or obligations of or guaranteed by the United States of America prior to the transfer of such funds and investments to such reserve account or building account.
+
+## Section 2013
+1. The legislature recognizes that dual credit programs reduce both the cost and time of attendance to obtain a postsecondary degree. The legislature intends to reduce barriers and increase access to postsecondary educational opportunities for low-income students by removing the financial barriers for dual enrollment programs for students.
+
+2. The office, in consultation with the institutions of higher education and the office of the superintendent of public instruction, shall create the Washington dual enrollment scholarship pilot program. The office shall administer the Washington dual enrollment scholarship pilot program and may adopt rules as necessary.
+
+3. Eligible students are those who meet the following requirements:
+
+    a. Qualify for the free or reduced-price lunch program;
+
+    b. Are enrolled in one or more dual credit programs, as defined in RCW 28B.15.821, such as running start; and
+
+    c. Have at least a 2.0 grade point average.
+
+4. Subject to availability of amounts appropriated for this specific purpose, beginning with the 2019-20 academic year, the office may award scholarships to eligible students. The scholarship award must be as follows for eligible students enrolled in running start:
+
+    a. Mandatory fees, as defined in RCW 28A.600.310, prorated based on credit load;
+
+    b. Course fees or laboratory fees as determined appropriate by college or university policies to pay for specified course related costs;
+
+    c. A textbook voucher to be used at the institution of higher education's bookstore where the student is enrolled. For every credit per quarter the student is enrolled, the student shall receive a textbook voucher for ten dollars, up to a maximum of fifteen credits per quarter, or the equivalent, per year; and
+
+    d. Apprenticeship materials as determined appropriate by the college or university to pay for specific course-related material costs, which may include occupation-specific tools, work clothes, rain gear, or boots.
+
+5. The Washington dual enrollment scholarship pilot program must apply after the fee waivers for low-income students under RCW 28A.600.310 are provided for.
+
+## Section 2014
+It is hereby declared to be the policy of this state that each housing authority shall manage and operate its housing projects in an efficient manner so as to enable it to fix the rentals for low-income dwelling accommodations at the lowest possible rates consistent with its providing decent, safe and sanitary dwelling accommodations, and that no housing authority shall construct or operate any such project for profit, or as a source of revenue to the city or the county. To this end, an authority shall fix the rentals for rental units for persons of low income in projects owned or leased by the authority at no higher rates than it shall find to be necessary in order to produce revenues which (together with all other available moneys, revenues, income and receipts of the authority from whatever sources derived) will be sufficient (1) to pay, as the same become due, the principal and interest on the bonds or other obligations of the authority issued or incurred to finance the projects; (2) to meet the cost of, and to provide for, maintaining and operating the projects (including the cost of any insurance) and the administrative expenses of the authority; and (3) to create (during not less than the six years immediately succeeding its issuance of any such bonds) a reserve sufficient to meet the largest principal and interest payments which will be due on such bonds in any one year thereafter and to maintain such reserve. Nothing contained in this section shall be construed to limit an authority's power to rent commercial space located in buildings containing housing projects or non low-income units owned, acquired, financed, or constructed under RCW 35.82.070(5), (19), or (20) at profitable rates and to use any profit realized from such rentals in carrying into effect the powers and purposes provided to housing authorities under this chapter.
+
+## Section 2015
+Housing authorities created under this chapter may establish and operate group homes or halfway houses to serve juveniles released from state juvenile or correctional institutions, or to serve individuals with developmental disabilities as defined in RCW 71A.10.020. Authorities may contract for the operation of facilities so established, with qualified nonprofit organizations as agent of the authority. Authorities may provide support or supportive services in facilities serving juveniles, individuals with developmental disabilities or other persons under a disability, and the frail elderly, whether or not they are operated by the authority.
+
+Action under this section shall be taken by the authority only after a public hearing as provided by chapter 42.30 RCW. In exercising this power the authority shall not be empowered to acquire property by eminent domain, and the facilities established shall comply with all zoning, building, fire, and health regulations and procedures applicable in the locality.
+
+## Section 2016
+The board of county commissioners of the several counties may employ such staff as deemed appropriate to serve the several boards directly in matters including but not limited to purchasing, poverty and relief programs, parks and recreation, emergency services, budgetary preparations set forth in RCW 36.40.010-36.40.050, code enforcement and general administrative coordination. Such authority shall in no way infringe upon or relieve the county auditor of responsibilities contained in RCW 36.22.010(6) and 36.22.020.
+
+## Section 2017
+1. Because of the existing and increasing possibility of the occurrence of disasters of unprecedented size and destructiveness as defined in RCW 38.52.010(13), and in order to insure that preparations of this state will be adequate to deal with such disasters, to insure the administration of state and federal programs providing disaster relief to individuals, and further to insure adequate support for search and rescue operations, and generally to protect the public peace, health, and safety, and to preserve the lives and property of the people of the state, it is hereby found and declared to be necessary:
+
+    a. To provide for emergency management by the state, and to authorize the creation of local organizations for emergency management in the political subdivisions of the state;
+
+    b. To confer upon the governor and upon the executive heads of the political subdivisions of the state the emergency powers provided herein;
+
+    c. To provide for the rendering of mutual aid among the political subdivisions of the state and with other states and to cooperate with the federal government with respect to the carrying out of emergency management functions;
+
+    d. To provide a means of compensating emergency management workers who may suffer any injury, as herein defined, or death; who suffer economic harm including personal property damage or loss; or who incur expenses for transportation, telephone or other methods of communication, and the use of personal supplies as a result of participation in emergency management activities;
+
+    e. To provide programs, with intergovernmental cooperation, to educate and train the public to be prepared for emergencies; and
+
+    f. To provide for the prioritization, development, and exercise of continuity of operations plans by the state.
+
+2. It is further declared to be the purpose of this chapter and the policy of the state that all emergency management functions of this state and its political subdivisions be coordinated to the maximum extent with the comparable functions of the federal government including its various departments and agencies of other states and localities, and of private agencies of every type, to the end that the most effective preparation and use may be made of the nation's manpower, resources, and facilities for dealing with any disaster that may occur.
+
+## Section 2018
+The governor, or upon his or her direction, the director, or any political subdivision of the state, is authorized to contract with any person, firm, corporation, or entity to provide construction or work on a cost basis to be used in emergency management functions or activities as defined in RCW 38.52.010 or as hereafter amended, said functions or activities to expressly include natural disasters, as well as all other emergencies of a type contemplated by RCW 38.52.110, 38.52.180, 38.52.195, 38.52.205, 38.52.207, 38.52.220 and 38.52.390. All funds received for purposes of RCW 38.52.110, 38.52.180, 38.52.195, 38.52.205, 38.52.207, 38.52.220 and 38.52.390, whether appropriated funds, local funds, or from whatever source, may be used to pay for the construction, equipment, or work contracted for under this section.
+
+## Section 2019
+1. Subject to the limitations contained in this section, for the purposes of RCW 41.32.010(14)(a)(iv), earnable compensation means the compensation the member would have received in the same position if employed on a regular full-time basis for the same contract period.
+
+2. In order to ensure that the benefit provided by this section is not used to unfairly inflate a member's retirement allowance, the department shall adopt rules having the force of law to govern the application of this section.
+
+3. [Empty]
+
+    a. In adopting rules which apply to a member employed by a school district, the department may consult the district's salary schedule and related workload provisions, if any, adopted pursuant to RCW 28A.405.200. The rules may require that, in order to be eligible for this benefit, a member's position must either be included on the district's schedule, or the position must have duties, responsibilities, and method of pay which are similar to those found on the district's schedule.
+
+    b. In adopting rules which apply to a member employed by a community college district, the department may consult the district's salary schedule and workload provisions contained in an agreement negotiated pursuant to chapter 28B.52 RCW, or similar documents. The rules may require that, in order to be eligible for this benefit, a member's position must either be included on the district's agreement, or the position must have duties, responsibilities, and method of pay which are similar to those found on the district's agreement. The maximum full-time workweek used in calculating the benefit for community college employees paid on an hourly rate shall in no case exceed fifteen credit hours, twenty classroom contact hours, or thirty-five assigned hours.
+
+4. If the legislature amends or revokes the benefit provided by this section, no affected employee who thereafter retires is entitled to receive the benefit as a matter of contractual right.
+
+## Section 2020
+1. In making its determination, the panel shall be mindful of the legislative purpose enumerated in RCW 41.56.430 and, as additional standards or guidelines to aid it in reaching a decision, the panel shall consider:
+
+    a. The constitutional and statutory authority of the employer;
+
+    b. Stipulations of the parties;
+
+    c. The average consumer prices for goods and services, commonly known as the cost of living;
+
+    d. Changes in any of the circumstances under (a) through (c) of this subsection during the pendency of the proceedings; and
+
+    e. Such other factors, not confined to the factors under (a) through (d) of this subsection, that are normally or traditionally taken into consideration in the determination of wages, hours, and conditions of employment. For those employees listed in RCW 41.56.030(14)(a) who are employed by the governing body of a city or town with a population of less than fifteen thousand, or a county with a population of less than seventy thousand, consideration must also be given to regional differences in the cost of living.
+
+2. For employees listed in RCW 41.56.030(14) (a) through (d), the panel shall also consider a comparison of the wages, hours, and conditions of employment of personnel involved in the proceedings with the wages, hours, and conditions of employment of like personnel of like employers of similar size on the west coast of the United States.
+
+3. For employees listed in RCW 41.56.030(14) (e) through (h), the panel shall also consider a comparison of the wages, hours, and conditions of employment of personnel involved in the proceedings with the wages, hours, and conditions of employment of like personnel of public fire departments of similar size on the west coast of the United States. However, when an adequate number of comparable employers exists within the state of Washington, other west coast employers may not be considered.
+
+4. For employees listed in RCW 41.56.028:
+
+    a. The panel shall also consider:
+
+        i. A comparison of child care provider subsidy rates and reimbursement programs by public entities, including counties and municipalities, along the west coast of the United States; and
+
+        ii. The financial ability of the state to pay for the compensation and benefit provisions of a collective bargaining agreement; and
+
+    b. The panel may consider:
+
+        i. The public's interest in reducing turnover and increasing retention of child care providers;
+
+        ii. The state's interest in promoting, through education and training, a stable child care workforce to provide quality and reliable child care from all providers throughout the state; and
+
+        iii. In addition, for employees exempt from licensing under chapter 74.15 RCW, the state's fiscal interest in reducing reliance upon public benefit programs including but not limited to medical coupons, food stamps, subsidized housing, and emergency medical services.
+
+5. For employees listed in RCW 74.39A.270:
+
+    a. The panel shall consider:
+
+        i. A comparison of wages, hours, and conditions of employment of publicly reimbursed personnel providing similar services to similar clients, including clients who are elderly, frail, or have developmental disabilities, both in the state and across the United States; and
+
+        ii. The financial ability of the state to pay for the compensation and fringe benefit provisions of a collective bargaining agreement; and
+
+    b. The panel may consider:
+
+        i. A comparison of wages, hours, and conditions of employment of publicly employed personnel providing similar services to similar clients, including clients who are elderly, frail, or have developmental disabilities, both in the state and across the United States;
+
+        ii. The state's interest in promoting a stable long-term care workforce to provide quality and reliable care to vulnerable elderly and disabled recipients;
+
+        iii. The state's interest in ensuring access to affordable, quality health care for all state citizens; and
+
+        iv. The state's fiscal interest in reducing reliance upon public benefit programs including but not limited to medical coupons, food stamps, subsidized housing, and emergency medical services.
+
+6. Subsections (2) and (3) of this section may not be construed to authorize the panel to require the employer to pay, directly or indirectly, the increased employee contributions resulting from chapter 502, Laws of 1993 or chapter 517, Laws of 1993 as required under chapter 41.26 RCW.
+
+## Section 2021
+In addition to the classes of employees listed in RCW 41.56.030(14), the provisions of RCW 41.56.430 through 41.56.452, 41.56.470, 41.56.480, and 41.56.490 shall also be applicable to the employees of a public passenger transportation system of a metropolitan municipal corporation, county transportation authority, public transportation benefit area, or city public passenger transportation system, subject to the following:
+
+1. Negotiations between the public employer and the bargaining representative may commence at any time agreed to by the parties. If no agreement has been reached ninety days after commencement of negotiations, either party may demand that the issues in disagreement be submitted to a mediator. The services of the mediator shall be provided by the commission without cost to the parties, but nothing in this section or RCW 41.56.440 shall be construed to prohibit the public employer and the bargaining representative from agreeing to substitute at their own expense some other mediator or mediation procedure; and
+
+2. If an agreement has not been reached following a reasonable period of negotiations and mediation, and the mediator finds that the parties remain at impasse, either party may demand that the issues in disagreement be submitted to an arbitration panel for a binding and final determination. In making its determination, the arbitration panel shall be mindful of the legislative purpose enumerated in RCW 41.56.430 and as additional standards or guidelines to aid it in reaching a decision, shall take into consideration the following factors:
+
+    a. The constitutional and statutory authority of the employer;
+
+    b. Stipulations of the parties;
+
+    c. Compensation package comparisons, economic indices, fiscal constraints, and similar factors determined by the arbitration panel to be pertinent to the case; and
+
+    d. Such other factors, not confined to the foregoing, which are normally or traditionally taken into consideration in the determination of wages, hours, and conditions of employment.
+
+## Section 2022
+When the department provides grant assistance to persons who possess excess real property under RCW 74.04.005(13)(h), the department may file a lien against, or otherwise perfect its interest in such real property as a condition of granting such assistance, and the department shall have the status of a secured creditor.
+
+## Section 2023
+1. The department shall appoint an advisory committee to oversee the freshwater aquatic weeds management program.
+
+2. The advisory committee shall include representatives from the following groups:
+
+    a. Recreational boaters interested in freshwater aquatic weed management;
+
+    b. Residents adjacent to lakes, rivers, or streams with public boat launch facilities;
+
+    c. Local governments;
+
+    d. Scientific specialists;
+
+    e. Pesticide registrants, as defined in RCW 15.58.030; and
+
+    f. Certified pesticide applicators, as defined in RCW 17.21.020, who specialize in the use of aquatic pesticides
+
+.
+
+3. The advisory committee shall review and provide recommendations to the department on freshwater aquatic weeds management program activities and budget and establish criteria for grants funded from the freshwater aquatic weeds account.
+
+## Section 2024
+1. "Human immunodeficiency virus insurance program," as used in this section, means a program that provides health insurance coverage for individuals with human immunodeficiency virus, as defined in RCW 70.24.017(7), who are not eligible for medical assistance programs from the health care authority as defined in RCW 74.09.010 and meet eligibility requirements established by the department of health.
+
+2. The department of health may pay for health insurance coverage on behalf of persons with human immunodeficiency virus, who meet department eligibility requirements, and who are eligible for "continuation coverage" as provided by the federal consolidated omnibus budget reconciliation act of 1985, group health insurance policies, or individual policies.
+
+## Section 2025
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Community-based early learning providers" includes for-profit and nonprofit licensed providers of child care and preschool programs.
+
+2. "Program" means the program of early learning established in RCW 43.216.555 for eligible children who are three and four years of age.
+
+## Section 2026
+The definitions in this section apply throughout RCW 43.330.431 through 43.330.436.
+
+1. "Developmental disability" has the meaning in RCW 71A.10.020(6).
+
+2. "Developmental disabilities endowment trust fund" means the fund established in the custody of the state treasurer in RCW 43.330.431, comprised of private, public, or private and public sources, to finance services for persons with developmental disabilities. All moneys in the fund, all property and rights purchased from the fund, and all income attributable to the fund, shall be held in trust by the state investment board, as provided in RCW 43.33A.030, for the exclusive benefit of fund beneficiaries. The principal and interest of the endowment fund must be maintained until such time as the governing board policy specifies except for the costs and expenses of the state treasurer and the state investment board otherwise provided for in chapter 120, Laws of 2000.
+
+3. "Governing board" means the developmental disabilities endowment governing board in RCW 43.330.432.
+
+4. "Individual trust account" means accounts established within the endowment trust fund for each individual named beneficiary for the benefit of whom contributions have been made to the fund. The money in each of the individual accounts is held in trust as provided for in subsection (2) of this section, and shall not be considered state funds or revenues of the state. The governing board serves as administrator, manager, and recordkeeper for the individual trust accounts for the benefit of the individual beneficiaries. The policies governing the disbursements, and the qualifying services for the trust accounts, shall be established by the governing board. Individual trust accounts are separate accounts within the developmental disabilities endowment trust fund, and are invested for the beneficiaries through the endowment trust fund.
+
+## Section 2027
+To the extent funds are appropriated for this purpose, the governing board shall contract with an appropriate organization for the development of a proposed operating plan for the developmental disabilities endowment program. The proposed operating plan shall be consistent with the endowment principles specified in RCW 43.330.434. The plan shall address at least the following elements:
+
+1. The recommended types of services to be available through the endowment program and their projected average costs per beneficiary;
+
+2. An assessment of the number of people likely to apply for participation in the endowment under alternative rates of matching funds, minimum service year requirements, and contribution timing approaches;
+
+3. An actuarial analysis of the number of  beneficiaries with disabilities who are likely to be supported under alternative levels of public contribution to the endowment, and the length of time the beneficiaries are likely to be served, under alternative rates of matching funds, minimum service year requirements, and contribution timing approaches;
+
+4. Recommended eligibility criteria for participation in the endowment program;
+
+5. Recommended policies regarding withdrawal of private contributions from the endowment in cases of movement out of state, death of the beneficiary, or other circumstances;
+
+6. Recommended matching rate of public and private contributions and, for each beneficiary, the maximum annual and lifetime amount of private contributions eligible for public matching funds;
+
+7. The recommended minimum years of service on behalf of a beneficiary that must be supported by private contributions in order for the contributions to qualify for public matching funds from the endowment;
+
+8. The recommended schedule according to which lump sum or periodic private contributions should be made to the endowment in order to qualify for public matching funds;
+
+9. A recommended program for educating families about the endowment, and about planning for their child's long-term future; and
+
+10. Recommended criteria and procedure for selecting an organization or organizations to administer the developmental disabilities endowment program, and projected administrative costs.
+
+## Section 2028
+1. A registered owner may apply to the department for special license plates showing the official amateur radio call letters assigned by the federal communications commission. The amateur radio operator must:
+
+    a. Provide a copy of the current valid federal communications commission amateur radio license;
+
+    b. Pay the amateur radio license plate fee required under RCW 46.17.220(2), in addition to any other fees and taxes due; and
+
+    c. Be recorded as the registered owner of the vehicle on which the amateur radio license plates will be displayed.
+
+2. Amateur radio license plates must be issued only for motor vehicles owned by persons who have a valid official radio operator license issued by the federal communications commission.
+
+3. The department shall not issue or may refuse to issue amateur radio license plates that display the consecutive letters "WSP."
+
+4. A person who has been issued amateur radio operator license plates as provided in this section must:
+
+    a. Notify the department within thirty days after the federal communications commission license assigned is canceled or expires, and return the amateur radio license plates; and
+
+    b. Provide a copy of the renewed federal communications commission license to the department after it is renewed.
+
+5. Amateur radio license plates may be transferred from one motor vehicle to another motor vehicle owned by the amateur radio operator upon application to the department, county auditor or other agent, or subagent appointed by the director.
+
+6. Facilities of official amateur radio stations may be utilized to the fullest extent in the work of governmental agencies. The director shall furnish the state military department, the department of commerce, the Washington state patrol, and all county sheriffs a list of the names, addresses, and license plate or official amateur radio call letters of each person possessing the amateur radio license plates.
+
+7. Failure to return the amateur radio license plates as required under subsection (4) of this section is a traffic infraction.
+
+## Section 2029
+1. Upon all roadways of sufficient width a vehicle shall be driven upon the right half of the roadway, except as follows:
+
+    a. When overtaking and passing another vehicle proceeding in the same direction under the rules governing such movement;
+
+    b. When an obstruction exists making it necessary to drive to the left of the center of the highway; provided, any person so doing shall yield the right-of-way to all vehicles traveling in the proper direction upon the unobstructed portion of the highway within such distance as to constitute an immediate hazard;
+
+    c. Upon a roadway divided into three marked lanes and providing for two-way movement traffic under the rules applicable thereon;
+
+    d. Upon a street or highway restricted to one-way traffic; or
+
+    e. Upon a highway having three lanes or less, when approaching the following vehicles in the manner described under RCW 46.61.212(2)(b): (i) A stationary authorized emergency vehicle; (ii) a tow truck or other vehicle providing roadside assistance while operating warning lights with three hundred sixty degree visibility; (iii) a police vehicle; or (iv) a stationary or slow moving highway construction vehicle, highway maintenance vehicle, solid waste vehicle, or utility service vehicle that meets the lighting requirements identified in RCW 46.61.212(1).
+
+2. Upon all roadways having two or more lanes for traffic moving in the same direction, all vehicles shall be driven in the right-hand lane then available for traffic, except (a) when overtaking and passing another vehicle proceeding in the same direction, (b) when traveling at a speed greater than the traffic flow, (c) when moving left to allow traffic to merge, or (d) when preparing for a left turn at an intersection, exit, or into a private road or driveway when such left turn is legally permitted. On any such roadway, a vehicle or combination over ten thousand pounds shall be driven only in the right-hand lane except under the conditions enumerated in (a) through (d) of this subsection.
+
+3. No vehicle towing a trailer or no vehicle or combination over ten thousand pounds may be driven in the left-hand lane of a limited access roadway having three or more lanes for traffic moving in one direction except when preparing for a left turn at an intersection, exit, or into a private road or driveway when a left turn is legally permitted. This subsection does not apply to a vehicle using a high occupancy vehicle lane. A high occupancy vehicle lane is not considered the left-hand lane of a roadway. The department of transportation, in consultation with the Washington state patrol, shall adopt rules specifying (a) those circumstances where it is permissible for other vehicles to use the left lane in case of emergency or to facilitate the orderly flow of traffic, and (b) those segments of limited access roadway to be exempt from this subsection due to the operational characteristics of the roadway.
+
+4. It is a traffic infraction to drive continuously in the left lane of a multilane roadway when it impedes the flow of other traffic.
+
+5. Upon any roadway having four or more lanes for moving traffic and providing for two-way movement of traffic, a vehicle shall not be driven to the left of the center line of the roadway except when authorized by official traffic control devices designating certain lanes to the left side of the center of the roadway for use by traffic not otherwise permitted to use such lanes, or except as permitted under subsection (1)(b) of this section. However, this subsection shall not be construed as prohibiting the crossing of the center line in making a left turn into or from an alley, private road or driveway.
+
+## Section 2030
+Illness‑triggered fixed payment insurance, hospital confinement fixed payment insurance, or other fixed payment insurance policies are not considered to provide coverage for hospital or medical expenses under this chapter, if the benefits provided are a fixed dollar amount that is paid regardless of the amount charged. The benefits may not be related to, or be a percentage of, the amount charged by the provider of service and must be offered as an independent and noncoordinated benefit with any other health plan as defined in RCW 48.43.005(33).
+
+## Section 2031
+Illness‑triggered fixed payment insurance, hospital confinement fixed payment insurance, or other fixed payment insurance policies are not considered to provide coverage for hospital or medical expenses or care under this chapter, if the benefits provided are a fixed dollar amount that is paid regardless of the amount charged. The benefits may not be related to, or be a percentage of, the amount charged by the provider of service and must be offered as an independent and noncoordinated benefit with any other health plan as defined in RCW 48.43.005(33).
+
+## Section 2032
+1. For the purposes of this section, "hospital" means a hospital as defined in RCW 70.41.020 or a behavioral health hospital regulated under chapter 71.12 RCW, but does not include beds utilized by a comprehensive cancer center for cancer research.
+
+2. [Empty]
+
+    a. Any two or more employers which are school districts or educational service districts, or (b) any two or more employers which are public hospital districts or hospitals, and are owned or operated by a state agency or municipal corporation of this state, or (c) any two or more employers which are hospitals, no one of which is owned or operated by a state agency or municipal corporation of this state, may enter into agreements to form self-insurance groups for the purposes of this chapter.
+
+3. No more than one group may be formed under subsection (2)(b) of this section and no more than one group may be formed under subsection (2)(c) of this section.
+
+4. The self-insurance groups shall be organized and operated under rules promulgated by the director under RCW 51.14.160. Such a self-insurance group shall be deemed an employer for the purposes of this chapter, and may qualify as a self-insurer if it meets all the other requirements of this chapter.
+
+## Section 2033
+The following definitions shall apply throughout this chapter unless the context clearly requires otherwise:
+
+1. "Affordable" means that, where feasible, low-income residents should not pay more than thirty percent of their monthly income for housing costs.
+
+2. "Conversion costs" includes the cost of acquiring the mobile home park, the costs of planning and processing the conversion, the costs of any needed repairs or rehabilitation, and any expenditures required by a government agency or lender for the project.
+
+3. "Department" means the department of commerce.
+
+4. "Housing costs" means the total cost of owning, occupying, and maintaining a mobile home and a lot or space in a mobile home park.
+
+5. "Individual interest in a mobile home park" means any interest which is fee ownership or a lesser interest which entitles the holder to occupy a lot or space in a mobile home park for a period of not less than either fifteen years or the life of the holder. Individual interests in a mobile home park include, but are not limited to, the following:
+
+    a. Ownership of a lot or space in a mobile home park or subdivision;
+
+    b. A membership or shares in a stock cooperative, or a limited equity housing cooperative; or
+
+    c. Membership in a nonprofit mutual benefit corporation which owns, operates, or owns and operates the mobile home park.
+
+6. "Landlord" shall have the same meaning as it does in RCW 59.20.030.
+
+7. "Low-income resident" means an individual or household who resided in the mobile home park prior to application for a loan pursuant to this chapter and with an annual income at or below eighty percent of the median income for the county of standard metropolitan statistical area of residence. Net worth shall be considered in the calculation of income with the exception of the resident's mobile/manufactured home which is used as their primary residence.
+
+8. "Low-income spaces" means those spaces in a mobile home park operated by a resident organization which are occupied by low-income residents.
+
+9. "Manufactured housing" means residences constructed on one or more chassis for transportation, and which bear an insignia issued by a state or federal regulatory agency indication compliance with all applicable construction standards of the United States department of housing and urban development.
+
+10. "Mobile home" shall have the same meaning as it does in RCW 43.22.335.
+
+11. "Mobile home lot" shall have the same meaning as it does in RCW 59.20.030.
+
+12. "Mobile home park" means a mobile home park, as defined in RCW 59.20.030, or a manufactured home park subdivision as defined by RCW 59.20.030 created by the conversion to resident ownership of a mobile home park.
+
+13. "Resident organization" means a group of mobile home park residents who have formed a nonprofit corporation, cooperative corporation, or other entity or organization for the purpose of acquiring the mobile home park in which they reside and converting the mobile home park to resident ownership. The membership of a resident organization shall include at least two-thirds of the households residing in the mobile home park at the time of application for assistance from the department.
+
+14. "Resident ownership" means, depending on the context, either the ownership, by a resident organization, as defined in this section, of an interest in a mobile home park which entitles the resident organization to control the operations of the mobile home park for a term of no less than fifteen years, or the ownership of individual interests in a mobile home park, or both.
+
+15. "Tenant" means a person who rents a mobile home lot for a term of one month or longer and owns the mobile home on the lot.
+
+## Section 2034
+1. The declaration for a condominium must contain:
+
+    a. The name of the condominium, which must include the word "condominium" or be followed by the words "a condominium," and the name of the association;
+
+    b. A legal description of the real property included in the condominium;
+
+    c. A statement of the number of units which the declarant has created and, if the declarant has reserved the right to create additional units, the number of such additional units;
+
+    d. The identifying number of each unit created by the declaration and a description of the boundaries of each unit if and to the extent they are different from the boundaries stated in RCW 64.34.204(1);
+
+    e. With respect to each existing unit:
+
+        i. The approximate square footage;
+
+        ii. The number of bathrooms, whole or partial;
+
+        iii. The number of rooms designated primarily as bedrooms;
+
+        iv. The number of built-in fireplaces; and
+
+    v. The level or levels on which each unit is located.
+
+The data described in (ii), (iii), and (iv) of this subsection (1)(e) may be omitted with respect to units restricted to nonresidential use;
+
+    f. The number of parking spaces and whether covered, uncovered, or enclosed;
+
+    g. The number of moorage slips, if any;
+
+    h. A description of any limited common elements, other than those specified in RCW 64.34.204 (2) and (4), as provided in RCW 64.34.232(2)(j);
+
+        i. A description of any real property which may be allocated subsequently by the declarant as limited common elements, other than limited common elements specified in RCW 64.34.204 (2) and (4), together with a statement that they may be so allocated;
+
+    j. A description of any development rights and other special declarant rights under RCW 64.34.020(40) reserved by the declarant, together with a description of the real property to which the development rights apply, and a time limit within which each of those rights must be exercised;
+
+    k. If any development right may be exercised with respect to different parcels of real property at different times, a statement to that effect together with: (i) Either a statement fixing the boundaries of those portions and regulating the order in which those portions may be subjected to the exercise of each development right, or a statement that no assurances are made in those regards; and (ii) a statement as to whether, if any development right is exercised in any portion of the real property subject to that development right, that development right must be exercised in all or in any other portion of the remainder of that real property;
+
+    l. Any other conditions or limitations under which the rights described in (j) of this subsection may be exercised or will lapse;
+
+    m. An allocation to each unit of the allocated interests in the manner described in RCW 64.34.224;
+
+    n. Any restrictions in the declaration on use, occupancy, or alienation of the units;
+
+    o. A cross-reference by recording number to the survey map and plans for the units created by the declaration; and
+
+    p. All matters required or permitted by RCW 64.34.220 through 64.34.232, 64.34.256, 64.34.260, 64.34.276, and 64.34.308(5).
+
+2. All amendments to the declaration shall contain a cross-reference by recording number to the declaration and to any prior amendments thereto. All amendments to the declaration adding units shall contain a cross-reference by recording number to the survey map and plans relating to the added units and set forth all information required by RCW 64.34.216(1) with respect to the added units.
+
+3. The declaration may contain any other matters the declarant deems appropriate.
+
+## Section 2035
+1. No special declarant right, as described in RCW 64.34.020(40), created or reserved under this chapter may be transferred except by an instrument evidencing the transfer executed by the declarant or the declarant's successor and the transferee is recorded in every county in which any portion of the condominium is located. Each unit owner shall receive a copy of the recorded instrument, but the failure to furnish the copy shall not invalidate the transfer.
+
+2. Upon transfer of any special declarant right, the liability of a transferor declarant is as follows:
+
+    a. A transferor is not relieved of any obligation or liability arising before the transfer and remains liable for warranty obligations imposed upon the transferor by this chapter. Lack of privity does not deprive any unit owner of standing to maintain an action to enforce any obligation of the transferor.
+
+    b. If a successor to any special declarant right is an affiliate of a declarant as described in RCW 64.34.020(1), the transferor is jointly and severally liable with the successor for any obligations or liabilities of the successor relating to the condominium.
+
+    c. If a transferor retains any special declarant right, but transfers other special declarant rights to a successor who is not an affiliate of the declarant, the transferor is liable for any obligations or liabilities imposed on a declarant by this chapter or by the declaration relating to the retained special declarant rights arising after the transfer.
+
+    d. A transferor has no liability for any act or omission or any breach of a contractual or warranty obligation arising from the exercise of a special declarant right by a successor declarant who is not an affiliate of the transferor.
+
+3. In case of foreclosure of a mortgage, tax sale, judicial sale, or sale under bankruptcy code or receivership proceedings of any unit owned by a declarant or real property in a condominium subject to development rights, a person acquiring title to all the real property being foreclosed or sold succeeds to all special declarant rights related to that real property held by that declarant and to any rights reserved in the declaration pursuant to RCW 64.34.256 and held by that declarant to maintain models, sales offices, and signs, unless such person requests that all or any of such rights not be transferred. The instrument conveying title shall describe any special declarant rights not being transferred.
+
+4. Upon foreclosure of a mortgage, tax sale, judicial sale, or sale under bankruptcy code or receivership proceedings of all units and other real property in a condominium owned by a declarant:
+
+    a. The declarant ceases to have any special declarant rights; and
+
+    b. The period of declarant control as described in RCW 64.34.308(5) terminates unless the judgment or instrument conveying title provides for transfer of all special declarant rights held by that declarant to a successor declarant.
+
+5. The liabilities and obligations of a person who succeeds to special declarant rights are as follows:
+
+    a. A successor to any special declarant right who is an affiliate of a declarant is subject to all obligations and liabilities imposed on the transferor by this chapter or by the declaration;
+
+    b. A successor to any special declarant right, other than a successor described in (c) or (d) of this subsection, who is not an affiliate of a declarant is subject to all obligations and liabilities imposed by this chapter or the declaration:
+
+        i. On a declarant which relate to such successor's exercise or nonexercise of special declarant rights; or
+
+        ii. On the declarant's transferor, other than:
+
+(A) Misrepresentations by any previous declarant;
+
+(B) Warranty obligations on improvements made by any previous declarant or made before the condominium was created;
+
+(C) Breach of any fiduciary obligation by any previous declarant or the declarant's appointees to the board of directors; or
+
+(D) Any liability or obligation imposed on the transferor as a result of the transferor's acts or omissions after the transfer;
+
+    c. A successor to only a right reserved in the declaration to maintain models, sales offices, and signs as described in RCW 64.34.256, if the successor is not an affiliate of a declarant, may not exercise any other special declarant right and is not subject to any liability or obligation as a declarant, except the obligation to provide a public offering statement and any liability arising as a result thereof;
+
+    d. A successor to all special declarant rights held by the successor's transferor who is not an affiliate of that declarant and who succeeded to those rights pursuant to a foreclosure, a deed in lieu of foreclosure, or a judgment or instrument conveying title to units under subsection (3) of this section may declare his or her intention in a recorded instrument to hold those rights solely for transfer to another person. Thereafter, until transferring all special declarant rights to any person acquiring title to any unit owned by the successor or until recording an instrument permitting exercise of all those rights, that successor may not exercise any of those rights other than any right held by the successor's transferor to control the board of directors in accordance with the provisions of RCW 64.34.308(5) for the duration of any period of declarant control, and any attempted exercise of those rights is void. So long as a successor declarant may not exercise special declarant rights under this subsection, the successor is not subject to any liability or obligation as a declarant other than liability for the successor's acts and omissions under RCW 64.34.308(5);
+
+    e. Nothing in this section subjects any successor to a special declarant right to any claims against or other obligations of a transferor declarant, other than claims and obligations arising under this chapter or the declaration.
+
+## Section 2036
+1. Unless provided for in the declaration, the bylaws of the association shall provide for:
+
+    a. The number, qualifications, powers and duties, terms of office, and manner of electing and removing the board of directors and officers and filling vacancies;
+
+    b. Election by the board of directors of such officers of the association as the bylaws specify;
+
+    c. Which, if any, of its powers the board of directors or officers may delegate to other persons or to a managing agent;
+
+    d. Which of its officers may prepare, execute, certify, and record amendments to the declaration on behalf of the association;
+
+    e. The method of amending the bylaws; and
+
+    f. A statement of the standard of care for officers and members of the board of directors imposed by RCW 64.34.308(1).
+
+2. Subject to the provisions of the declaration, the bylaws may provide for any other matters the association deems necessary and appropriate.
+
+3. In determining the qualifications of any officer or director of the association, notwithstanding the provision of RCW 64.34.020(44) the term "unit owner" in such context shall, unless the declaration or bylaws otherwise provide, be deemed to include any director, officer, partner in, or trustee of any person, who is, either alone or in conjunction with another person or persons, a unit owner. Any officer or director of the association who would not be eligible to serve as such if he or she were not a director, officer, partner in, or trustee of such a person shall be disqualified from continuing in office if he or she ceases to have any such affiliation with that person, or if that person would have been disqualified from continuing in such office as a natural person.
+
+## Section 2037
+1. This article applies to all units subject to this chapter, except as provided in subsection (2) of this section and unless and to the extent otherwise agreed to in writing by the seller and purchasers of those units that are restricted to nonresidential use in the declaration.
+
+2. This article shall not apply in the case of:
+
+    a. A conveyance by gift, devise, or descent;
+
+    b. A conveyance pursuant to court order;
+
+    c. A disposition by a government or governmental agency;
+
+    d. A conveyance by foreclosure;
+
+    e. A disposition of all of the units in a condominium in a single transaction;
+
+    f. A disposition to other than a purchaser as defined in RCW 64.34.020(32); or
+
+    g. A disposition that may be canceled at any time and for any reason by the purchaser without penalty.
+
+## Section 2038
+The purpose of this chapter is to promote uniformity of state legislation and regulations with the federal egg products inspection act, 21 U.S.C. sec. 1031, et seq., and regulations adopted thereunder. In accord with such declared purpose, any regulations adopted under the federal egg products inspection act relating to eggs and egg products, as defined in RCW 69.25.020 (15) and (18), in effect on July 1, 1975, are hereby deemed to have been adopted under the provisions hereof. Further, to promote such uniformity, any regulations adopted hereafter under the provisions of the federal egg products inspection act relating to eggs and egg products, as defined in RCW 69.25.020 (15) and (18), and published in the federal register, shall be deemed to have been adopted under the provisions of this chapter in accord with chapter 34.05 RCW, as now or hereafter amended. The director may, however, within thirty days of the publication of the adoption of any such regulation under the federal egg products inspection act, give public notice that a hearing will be held to determine if such regulations shall not be applicable under the provisions of this chapter. Such hearing shall be in accord with the requirements of chapter 34.05 RCW, as now or hereafter amended.
+
+The director, in addition to the foregoing, may adopt any rule and regulation necessary to carry out the purpose and provisions of this chapter.
+
+## Section 2039
+1. Each agency administering a state purchased health care program as defined in RCW 41.05.011 shall, in cooperation with other agencies, take any necessary actions to control costs without reducing the quality of care when reimbursing for or purchasing drugs. To accomplish this purpose, participating agencies may establish an evidence-based prescription drug program.
+
+2. In developing the evidence-based prescription drug program authorized by this section, agencies:
+
+    a. Shall prohibit reimbursement for drugs that are determined to be ineffective by the United States food and drug administration;
+
+    b. Shall adopt rules in order to ensure that less expensive generic drugs will be substituted for brand name drugs in those instances where the quality of care is not diminished;
+
+    c. Where possible, may authorize reimbursement for drugs only in economical quantities;
+
+    d. May limit the prices paid for drugs by such means as negotiated discounts from pharmaceutical manufacturers, central purchasing, volume contracting, or setting maximum prices to be paid;
+
+    e. Shall consider the approval of drugs with lower abuse potential in substitution for drugs with significant abuse potential;
+
+    f. May take other necessary measures to control costs of drugs without reducing the quality of care; and
+
+    g. Shall adopt rules governing practitioner endorsement and use of any list developed as part of the program authorized by this section.
+
+3. Agencies shall provide for reasonable exceptions, consistent with RCW 69.41.190, to any list developed as part of the program authorized by this section.
+
+4. Agencies shall establish an independent pharmacy and therapeutics committee to evaluate the effectiveness of prescription drugs in the development of the program authorized by this section.
+
+## Section 2040
+Unless the context clearly requires otherwise, the definitions contained in this section shall apply throughout this chapter.
+
+1. "Adult person" means a person who has attained the age of majority as defined in RCW 26.28.010 and 26.28.015, and who has the capacity to make health care decisions.
+
+2. "Attending physician" means the physician selected by, or assigned to, the patient who has primary responsibility for the treatment and care of the patient.
+
+3. "Directive" means a written document voluntarily executed by the declarer generally consistent with the guidelines of RCW 70.122.030.
+
+4. "Health facility" means a hospital as defined in RCW 70.41.020 or a nursing home as defined in RCW 18.51.010, a home health agency or hospice agency as defined in RCW 70.126.010, or an assisted living facility as defined in RCW 18.20.020.
+
+5. "Life-sustaining treatment" means any medical or surgical intervention that uses mechanical or other artificial means, including artificially provided nutrition and hydration, to sustain, restore, or replace a vital function, which, when applied to a qualified patient, would serve only to prolong the process of dying. "Life-sustaining treatment" shall not include the administration of medication or the performance of any medical or surgical intervention deemed necessary solely to alleviate pain.
+
+6. "Permanent unconscious condition" means an incurable and irreversible condition in which the patient is medically assessed within reasonable medical judgment as having no reasonable probability of recovery from an irreversible coma or a persistent vegetative state.
+
+7. "Physician" means a person licensed under chapter 18.71 or 18.57 RCW.
+
+8. "Qualified patient" means an adult person who is a patient diagnosed in writing to have a terminal condition by the patient's attending physician, who has personally examined the patient, or a patient who is diagnosed in writing to be in a permanent unconscious condition in accordance with accepted medical standards by two physicians, one of whom is the patient's attending physician, and both of whom have personally examined the patient.
+
+9. "Terminal condition" means an incurable and irreversible condition caused by injury, disease, or illness, that, within reasonable medical judgment, will cause death within a reasonable period of time in accordance with accepted medical standards, and where the application of life-sustaining treatment serves only to prolong the process of dying.
+
+## Section 2041
+1. Any service provider submitting reports pursuant to RCW 71.09.096(8), the supervising community corrections officer, the prosecuting agency, or the secretary's designee may petition the court for an immediate hearing for the purpose of revoking or modifying the terms of the person's conditional release to a less restrictive alternative if the petitioner believes the released person: (a) Violated or is in violation of the terms and conditions of the court's conditional release order; or (b) is in need of additional care, monitoring, supervision, or treatment.
+
+2. The community corrections officer or the secretary's designee may restrict the person's movement in the community until the petition is determined by the court. The person may be taken into custody if:
+
+    a. The supervising community corrections officer, the secretary's designee, or a law enforcement officer reasonably believes the person has violated or is in violation of the court's conditional release order; or
+
+    b. The supervising community corrections officer or the secretary's designee reasonably believes that the person is in need of additional care, monitoring, supervision, or treatment because the person presents a danger to himself or herself or others if his or her conditional release under the conditions imposed by the court's release order continues.
+
+3. [Empty]
+
+    a. Persons taken into custody pursuant to subsection (2) of this section shall:
+
+        i. Not be released until such time as a hearing is held to determine whether to revoke or modify the person's conditional release order and the court has issued its decision; and
+
+        ii. Be held in the county jail, at a secure community transition facility, or at the total confinement facility, at the discretion of the secretary's designee.
+
+    b. The court shall be notified before the close of the next judicial day that the person has been taken into custody and shall promptly schedule a hearing.
+
+4. Before any hearing to revoke or modify the person's conditional release order, both the prosecuting agency and the released person shall have the right to request an immediate mental examination of the released person. If the conditionally released person is indigent, the court shall, upon request, assist him or her in obtaining a qualified expert or professional person to conduct the examination.
+
+5. At any hearing to revoke or modify the conditional release order:
+
+    a. The prosecuting agency shall represent the state, including determining whether to proceed with revocation or modification of the conditional release order;
+
+    b. Hearsay evidence is admissible if the court finds that it is otherwise reliable; and
+
+    c. The state shall bear the burden of proving by a preponderance of the evidence that the person has violated or is in violation of the court's conditional release order or that the person is in need of additional care, monitoring, supervision, or treatment.
+
+6. [Empty]
+
+    a. If the court determines that the state has met its burden referenced in subsection (5)(c) of this section, and the issue before the court is revocation of the court's conditional release order, the court shall consider the evidence presented by the parties and the following factors relevant to whether continuing the person's conditional release is in the person's best interests or adequate to protect the community:
+
+        i. The nature of the condition that was violated by the person or that the person was in violation of in the context of the person's criminal history and underlying mental conditions;
+
+        ii. The degree to which the violation was intentional or grossly negligent;
+
+        iii. The ability and willingness of the released person to strictly comply with the conditional release order;
+
+        iv. The degree of progress made by the person in community-based treatment; and
+
+    v. The risk to the public or particular persons if the conditional release continues under the conditional release order that was violated.
+
+    b. Any factor alone, or in combination, shall support the court's determination to revoke the conditional release order.
+
+7. If the court determines the state has met its burden referenced in subsection (5)(c) of this section, and the issue before the court is modification of the court's conditional release order, the court shall modify the conditional release order by adding conditions if the court determines that the person is in need of additional care, monitoring, supervision, or treatment. The court has authority to modify its conditional release order by substituting a new treatment provider, requiring new housing for the person, or imposing such additional supervision conditions as the court deems appropriate.
+
+8. A person whose conditional release has been revoked shall be remanded to the custody of the secretary for control, care, and treatment in a total confinement facility as designated in RCW 71.09.060(1). The person is thereafter eligible for conditional release only in accord with the provisions of RCW 71.09.090 and related statutes.
+
+## Section 2042
+RCW 71A.12.220 through 71A.12.280 apply to a person:
+
+1. [Empty]
+
+    a. Who has been charged with or convicted of a crime and meets the following criteria:
+
+        i. Has been convicted of one of the following:
+
+(A) A crime of sexual violence as defined in chapter 9A.44 or 71.09 RCW including, but not limited to, rape, rape of a child, and child molestation;
+
+(B) Sexual acts directed toward strangers, individuals with whom a relationship has been established or promoted for the primary purpose of victimization, or persons of casual acquaintance with whom no substantial personal relationship exists; or
+
+(C) One or more violent offenses, as defined by RCW 9.94A.030; and
+
+        ii. Constitutes a current risk to others as determined by a qualified professional. Charges or crimes that resulted in acquittal must be excluded; or
+
+    b. Who has not been charged with and/or convicted of a crime, but meets the following criteria:
+
+        i. Has a history of stalking, violent, sexually violent, predatory, and/or opportunistic behavior which demonstrates a likelihood to commit a violent, sexually violent, and/or predatory act; and
+
+        ii. Constitutes a current risk to others as determined by a qualified professional; and
+
+2. Who has been determined to have a developmental disability as defined by RCW 71A.10.020.
+
+## Section 2043
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Assessment" means the written opinion of a qualified professional stating, at a minimum:
+
+    a. Whether a person meets the criteria established in RCW 71A.12.210;
+
+    b. What restrictions are necessary.
+
+2. "Certified community protection program intensive supported living services" means access to twenty-four-hour supervision, instruction, and support services as identified in the person's plan of care.
+
+3. "Community protection program" means services specifically designed to support persons who meet the criteria of RCW 71A.12.210.
+
+4. "Constitutes a risk to others" means a determination of a person's risk and/or dangerousness based upon a thorough assessment by a qualified professional.
+
+5. "Department" means the department of social and health services.
+
+6. "Developmental disability" means that condition defined in RCW 71A.10.020.
+
+7. "Disclosure" means providing copies of professional assessments, incident reports, legal documents, and other information pertaining to community protection issues to ensure the provider has all relevant information. Polygraph and plethysmograph reports are excluded from disclosure.
+
+8. "Division" means the division of developmental disabilities.
+
+9. "Managed successfully" means that a person supported by a community protection program does not engage in the behavior identified in RCW 71A.12.210.
+
+10. "Opportunistic behavior" means an act committed on impulse, which is not premeditated.
+
+11. "Predatory" means acts directed toward strangers, individuals with whom a relationship has been established or promoted for the primary purpose of victimization, or casual acquaintances with whom no substantial personal relationship exists. Predatory behavior may be characterized by planning and/or rehearsing the act, stalking, and/or grooming the victim.
+
+12. "Qualified professional" means a person with at least three years' prior experience working with individuals with developmental disabilities, and: (a) If the person being assessed has demonstrated sexually aggressive or sexually violent behavior, that person must be assessed by a qualified professional who is a certified sex offender treatment provider, or affiliate sex offender treatment provider working under the supervision of a certified sex offender treatment provider; or (b) if the person being assessed has demonstrated violent, dangerous, or aggressive behavior, that person must be assessed by a licensed psychologist or psychiatrist who has received specialized training in the treatment of or has at least three years' prior experience treating violent or aggressive behavior.
+
+13. "Treatment team" means the program participant and the group of people responsible for the development, implementation, and monitoring of the person's individualized supports and services. This group may include, but is not limited to, the case resource manager, therapist, residential provider, employment/day program provider, and the person's legal representative and/or family, provided the person consents to the family member's involvement.
+
+14. "Violent offense" means any felony defined as a violent offense in RCW 9.94A.030.
+
+15. "Waiver" means the community-based funding under section 1915 of Title XIX of the federal social security act.
+
+## Section 2044
+For purposes of RCW 74.04.005 (9) and (13),  "income" and "resource" do not include educational assistance awarded under the gaining independence for students with dependents program as defined in chapter 19, Laws of 2003 for recipients of temporary assistance for needy families.
+
+## Section 2045
+If a recipient receives public assistance and/or food stamps or food stamp benefits transferred electronically for which the recipient is not eligible, or receives public assistance and/or food stamps or food stamp benefits transferred electronically in an amount greater than that for which the recipient is eligible, the portion of the payment to which the recipient is not entitled shall be a debt due the state recoverable under RCW 43.20B.030 and 43.20B.620 through 43.20B.645. It shall be the duty of recipients of cash benefits to notify the department of changes to earned income as defined in RCW 74.04.005. It shall be the duty of recipients of cash benefits to notify the department of changes to liquid resources as defined in RCW 74.04.005 that would result in ineligibility for cash benefits. It shall be the duty of recipients of food benefits to report changes in income that result in ineligibility for food benefits. All recipients shall report changes required in this section by the tenth of the month following the month in which the change occurs. The department shall make a determination of eligibility within ten days from the date it receives the reported change from the recipient. The department shall adopt rules consistent with federal law and regulations for additional reporting requirements. The department shall advise applicants for assistance that failure to report as required, failure to reveal resources or income, and false statements will result in recovery by the state of any overpayment and may result in criminal prosecution.
+
+## Section 2046
+1. For purposes of RCW 74.04.005(13)(a), an applicant or recipient is not eligible for long-term care services if the applicant or recipient's equity interest in the home exceeds an amount established by the department in rule, which shall not be less than five hundred thousand dollars. This requirement does not apply if any of the following persons related to the applicant or recipient are legally residing in the home:
+
+    a. A spouse; or
+
+    b. A dependent child under age twenty-one; or
+
+    c. A dependent child with a disability; or
+
+    d. A dependent child who is blind; and
+
+    e. The dependent child in (c) and (d) of this subsection meets the federal supplemental security income program criteria for disabled and blind.
+
+2. The dollar amounts specified in this section shall be increased annually, beginning in 2011, from year to year based on the percentage increase in the consumer price index for all urban consumers, all items, United States city average, rounded to the nearest one thousand dollars.
+
+3. This section applies to individuals who are determined eligible for medical assistance with respect to long-term care services based on an application filed on or after May 1, 2006.
+
+## Section 2047
+1. [Empty]
+
+    a. The commission shall grant to any person who meets the eligibility requirements specified in this section a senior citizen's pass which shall: (i) Entitle such a person, and members of his or her camping unit, to a fifty percent reduction in the campsite rental fee prescribed by the commission; and (ii) entitle such a person to free admission to any state park.
+
+    b. The commission shall grant a senior citizen's pass to any person who applies for the senior citizen's pass and who meets the following requirements:
+
+        i. The person is at least sixty-two years of age;
+
+        ii. The person is a domiciliary of the state of Washington and meets reasonable residency requirements prescribed by the commission; and
+
+        iii. The person and his or her spouse have a combined income that would qualify the person for a property tax exemption pursuant to RCW 84.36.381. The financial eligibility requirements of this subsection (1)(b)(iii) apply regardless of whether the applicant for a senior citizen's pass owns taxable property or has obtained or applied for such property tax exemption.
+
+    c. Each senior citizen's pass granted pursuant to this section is valid as long as the senior citizen meets the requirements of (b)(ii) of this subsection. A senior citizen meeting the eligibility requirements of this section may make a voluntary donation for the upkeep and maintenance of state parks.
+
+    d. A holder of a senior citizen's pass shall surrender the pass upon request of a commission employee when the employee has reason to believe the holder fails to meet the criteria in (b) of this subsection. The holder shall have the pass returned upon providing proof to the satisfaction of the director that the holder meets the eligibility criteria for obtaining the senior citizen's pass.
+
+2. [Empty]
+
+    a. Any resident of Washington who is disabled as defined by the social security administration and who receives social security benefits for that disability, or any other benefits for that disability from any other governmental or nongovernmental source, or who is entitled to benefits for permanent disability under RCW 71A.10.020(6) due to unemployability full time at the minimum wage, or who is legally blind or profoundly deaf, or who has been issued a card, decal, or special license plate for a permanent disability under RCW 46.19.010 shall be entitled to receive, regardless of age and upon making application therefor, a disability pass at no cost to the holder. The pass shall: (i) Entitle such a person, and members of his or her camping unit, to a fifty percent reduction in the campsite rental fee prescribed by the commission; and (ii) entitle such a person to free admission to any state park.
+
+    b. A card, decal, or special license plate issued for a permanent disability under RCW 46.19.010 may serve as a pass for the holder to entitle that person and members of the person's camping unit to a fifty percent reduction in the campsite rental fee prescribed by the commission, and to allow the holder free admission to state parks.
+
+3. Any resident of Washington who is a veteran and has a service-connected disability of at least thirty percent shall be entitled to receive a lifetime veteran's disability pass at no cost to the holder. The pass shall: (a) Entitle such a person, and members of his or her camping unit, to free use of any campsite within any state park; (b) entitle such a person to free admission to any state park; and (c) entitle such a person to an exemption from any reservation fees.
+
+4. [Empty]
+
+    a. Any Washington state resident who provides out-of-home care to a child, as either a licensed foster family home or a person related to the child, is entitled to a foster home pass.
+
+    b. An applicant for a foster home pass must request a pass in the manner required by the commission. Upon receipt of a properly submitted request, the commission shall verify with the department of social and health services that the applicant qualifies under (a) of this subsection. Once issued, a foster home pass is valid for the period, which may not be less than one year, designated by the commission.
+
+    c. When accompanied by a child receiving out-of-home care from the pass holder, a foster home pass: (i) Entitles such a person, and members of his or her camping unit, to free use of any campsite within any state park; and (ii) entitles such a person to free admission to any state park.
+
+    d. For the purposes of this subsection (4):
+
+        i. "Out-of-home care" means placement in a foster family home or with a person related to the child under the authority of chapter 13.32A, 13.34, or 74.13 RCW;
+
+        ii. "Foster family home" has the same meaning as defined in RCW 74.15.020; and
+
+        iii. "Person related to the child" means those persons referred to in RCW 74.15.020(2)(a) (i) through (vi).
+
+5. All passes issued pursuant to this section are valid at all parks any time during the year. However, the pass is not valid for admission to concessionaire operated facilities.
+
+6. The commission shall negotiate payment and costs, to allow holders of a foster home pass free access and usage of park campsites, with the following nonoperated, nonstate‑owned parks: Central Ferry, Chief Timothy, Crow Butte, and Lyons Ferry. The commission shall seek state general fund reimbursement on a biennial basis.
+
+7. The commission may deny or revoke any Washington state park pass issued under this section for cause, including but not limited to the following:
+
+    a. Residency outside the state of Washington;
+
+    b. Violation of laws or state park rules resulting in eviction from a state park;
+
+    c. Intimidating, obstructing, or assaulting a park employee or park volunteer who is engaged in the performance of official duties;
+
+    d. Fraudulent use of a pass;
+
+    e. Providing false information or documentation in the application for a state parks pass;
+
+    f. Refusing to display or show the pass to park employees when requested; or
+
+    g. Failing to provide current eligibility information upon request by the agency or when eligibility ceases or changes.
+
+8. This section shall not affect or otherwise impair the power of the commission to continue or discontinue any other programs it has adopted for senior citizens.
+
+9. The commission may engage in a mutually agreed upon reciprocal or discounted program for all or specific pass programs with other outdoor recreation agencies.
+
+10. The commission shall adopt those rules as it finds appropriate for the administration of this section. Among other things, the rules shall prescribe a definition of "camping unit" which will authorize a reasonable number of persons traveling with the person having a pass to stay at the campsite rented by such a person, a minimum Washington residency requirement for applicants for a senior citizen's pass, and an application form to be completed by applicants for a senior citizen's pass.
+
+## Section 2048
+1. The provisions of this chapter apply to:
+
+    a. New fossil-fueled thermal electric generation facilities with station-generating capability of three hundred fifty thousand kilowatts or more and fossil-fueled floating thermal electric generation facilities of one hundred thousand kilowatts or more under RCW 80.50.020(14)(b), for which an application for site certification is made to the council after July 1, 2004;
+
+    b. New fossil-fueled thermal electric generation facilities with station-generating capability of more than twenty-five thousand kilowatts, but less than three hundred fifty thousand kilowatts, except for fossil-fueled floating thermal electric generation facilities under the council's jurisdiction, for which an application for an order of approval has been submitted after July 1, 2004;
+
+    c. Fossil-fueled thermal electric generation facilities with station-generating capability of three hundred fifty thousand kilowatts or more that have an existing site certification agreement and, after July 1, 2004, apply to the council to increase the output of carbon dioxide emissions by fifteen percent or more through permanent changes in facility operations or modification or equipment; and
+
+    d. Fossil-fueled thermal electric generation facilities with station-generating capability of more than twenty-five thousand kilowatts, but less than three hundred fifty thousand kilowatts, except for fossil-fueled floating thermal electric generation facilities under the council's jurisdiction, that have an existing order of approval and, after July 1, 2004, apply to the department or authority, as appropriate, to permanently modify the facility so as to increase its station-generating capability by at least twenty-five thousand kilowatts or to increase the output of carbon dioxide emissions by fifteen percent or more, whichever measure is greater.
+
+2. [Empty]
+
+    a. A proposed site certification agreement submitted to the governor under RCW 80.50.100 and a final site certification agreement issued under RCW 80.50.100 shall include an approved carbon dioxide mitigation plan.
+
+    b. For fossil-fueled thermal electric generation facilities not under jurisdiction of the council, the order of approval shall require an approved carbon dioxide mitigation plan.
+
+    c. Site certification agreement holders or order of approval holders may request, at any time, a change in conditions of an approved carbon dioxide mitigation plan if the council, department, or authority, as appropriate, finds that the change meets all requirements and conditions for approval of such plans.
+
+3. An applicant for a fossil-fueled thermal electric generation facility shall include one or a combination of the following carbon dioxide mitigation options as part of its mitigation plan:
+
+    a. Payment to a third party to provide mitigation;
+
+    b. Direct purchase of permanent carbon credits; or
+
+    c. Investment in applicant-controlled carbon dioxide mitigation projects, including combined heat and power (cogeneration).
+
+4. Fossil-fueled thermal electric generation facilities that receive site certification approval or an order of approval shall provide mitigation for twenty percent of the total carbon dioxide emissions produced by the facility.
+
+5. If the certificate holder or order of approval holder chooses to pay a third party to provide the mitigation, the mitigation rate shall be one dollar and sixty cents per metric ton of carbon dioxide to be mitigated. For a cogeneration plant, the monetary amount is based on the difference between twenty percent of the total carbon dioxide emissions and the cogeneration credit.
+
+    a. Through rule making, the council may adjust the rate per ton biennially as long as any increase or decrease does not exceed fifty percent of the current rate. The department or authority shall use the adjusted rate established by the council pursuant to this subsection for fossil-fueled thermal electric generation facilities subject to the provisions of this chapter.
+
+    b. In adjusting the mitigation rate the council shall consider, but is not limited to, the current market price of a ton of carbon dioxide. The council's adjusted mitigation rate shall be consistent with RCW 80.50.010(4).
+
+6. The applicant may choose to make to the third party a lump sum payment or partial payment over a period of five years.
+
+    a. Under the lump sum payment option, the payment amount is determined by multiplying the total carbon dioxide emissions by the twenty percent mitigation requirement under subsection (4) of this section and by the per ton mitigation rate established under subsection (5) of this section.
+
+    b. No later than one hundred twenty days after the start of commercial operation, the certificate holder or order of approval holder shall make a one-time payment to the independent qualified organization for the amount determined under subsection (5) of this section.
+
+    c. As an alternative to a one-time payment, the certificate holder or order of approval holder may make a partial payment of twenty percent of the amount determined under subsection (5) of this section no later than one hundred twenty days after commercial operation and a payment in the same amount or as adjusted according to subsection (5)(a) of this section, on the anniversary date of the initial payment in each of the following four years. With the initial payment, the certificate holder or order of approval holder shall provide a letter of credit or other comparable security acceptable to the council or the department for the remaining eighty percent mitigation payment amount including possible changes to the rate per metric ton from rule making under subsection (5)(a) of this section.
+
+## Section 2049
+1. A vessel owner shall apply for a vessel visitor permit if the vessel is:
+
+    a. Currently registered or numbered under the laws of a country other than the United States or has a valid United States customs service cruising license issued under 19 C.F.R. Sec. 4.94; and
+
+    b. Being used on Washington state waters for the personal use of the owner for more than sixty days.
+
+2. A vessel visitor permit:
+
+    a. May be obtained from the department, county auditor or other agent, or subagent appointed by the director;
+
+    b. Must show the date the vessel first came into Washington state; and
+
+    c. Is valid as long as the vessel remains currently registered or numbered under the laws of a country other than the United States or the United States customs service cruising license remains valid.
+
+3. The department, county auditor or other agent, or subagent appointed by the director shall collect the fee required in RCW 88.02.640(1)(p) when issuing a vessel visitor permit.
+
+4. The department shall adopt rules to implement this section, including rules on issuing and displaying the vessel visitor permit.
+
+## Section 2050
+(1) A master program, segment of a master program, or an amendment to a master program shall become effective when approved by the department as provided in subsection (7) of this section. Within the time period provided in RCW 90.58.080, each local government shall have submitted a master program, either totally or by segments, for all shorelines of the state within its jurisdiction to the department for review and approval.
+
+## Section 2051
+Sections 2034 through 2037 of this act expire January 1, 2028.
+
+## Section 3001
+(1) In lieu of disciplinary action under RCW 18.130.160 and if the disciplining authority determines that the unprofessional conduct may be the result of an applicable impairing or potentially impairing health condition, the disciplining authority may refer the license holder to a physician health program or a voluntary substance use disorder monitoring program approved by the disciplining authority.
+
+## Section 3002
+(1) Registration under this chapter is effective for one year or as established by the secretary.
+
+## Section 3003
+The Washington opportunity pathways account is created in the state treasury. Expenditures from the account may be used only for programs in chapter 28A.710 RCW (charter schools), chapter 28B.12 RCW (state work-study), chapter 28B.50 RCW (opportunity grant), RCW 28B.76.660 (Washington scholars award), RCW 28B.76.670 (Washington award for vocational excellence), chapter 28B.92 RCW (Washington college grant program), chapter 28B.105 RCW (GET ready for math and science scholarship), chapter 28B.117 RCW (passport to careers), chapter 28B.118 RCW (college bound scholarship), and chapter 43.216 RCW (early childhood education and assistance program). During the 2019-2021, 2021-2023, and 2023-2025 fiscal biennia, the account may also be appropriated for public schools funded under chapters 28A.150 and 28A.715 RCW.
+
+## Section 3004
+(1) Any agricultural commodity board or commission established pursuant to Title 15 or 16 RCW shall be identified as a class two group for purposes of compensation.
+
+## Section 3005
+(1) Any part-time, statutory board, commission, council, committee, or other similar group which has rule-making authority, performs quasi-judicial functions, has responsibility for the administration or policy direction of a state agency or program, or performs regulatory or licensing functions with respect to a specific profession, occupation, business, or industry shall be identified as a class three group for purposes of compensation.
+
+## Section 3006
+(1) A part-time, statutory board, commission, council, committee, or other similar group shall be identified as a class four group for purposes of compensation if the group:
+
+## Section 3007
+(1) Any part-time commission that has rule-making authority, performs quasi-judicial functions, has responsibility for the policy direction of a health profession credentialing program, and performs regulatory and licensing functions with respect to a health care profession licensed under Title 18 RCW shall be identified as a class five group for purposes of compensation.
+
+## Section 3008
+(1) Any civil penalty provided in RCW 18.104.155, 70A.15.3160, 70A.205.280, 70A.230.080, 70A.300.090, 70A.20.050, 70A.245.040, 70A.245.050, 70A.245.070, 70A.245.080, 70A.245.130, 70A.245.140, 70A.65.200, 70A.430.070, 70A.455.090, 70A.500.260, 70A.505.110, 70A.555.110, 70A.560.020, 70A.565.030, 86.16.081, 88.46.090, 90.03.600, 90.46.270, 90.48.144, 90.56.310, 90.56.330, and 90.64.102 and chapter 70A.355 RCW shall be imposed by a notice in writing, either by certified mail with return receipt requested or by personal service, to the person incurring the penalty from the department or the local air authority, describing the violation with reasonable particularity. For penalties issued by local air authorities, within 30 days after the notice is received, the person incurring the penalty may apply in writing to the authority for the remission or mitigation of the penalty. Upon receipt of the application, the authority may remit or mitigate the penalty upon whatever terms the authority in its discretion deems proper. The authority may ascertain the facts regarding all such applications in such reasonable manner and under such rules as it may deem proper and shall remit or mitigate the penalty only upon a demonstration of extraordinary circumstances such as the presence of information or factors not considered in setting the original penalty.
+
+## Section 3009
+(1)(a) The secretary of social and health services and the secretary of health shall adopt additional requirements for the licensure or relicensure of agencies, facilities, and licensed individuals who provide care and treatment to vulnerable adults, including nursing pools registered under chapter 18.52C RCW. These additional requirements shall ensure that any person associated with a licensed agency or facility having unsupervised access with a vulnerable adult shall not be the respondent in an active vulnerable adult protection order under chapter 7.105 RCW, nor have been: (i) Convicted of a crime against children or other persons as defined in RCW 43.43.830, except as provided in this section; (ii) convicted of crimes relating to financial exploitation as defined in RCW 43.43.830, except as provided in this section; or (iii) found in any disciplinary board final decision to have abused a vulnerable adult as defined in RCW 43.43.830.
+
+## Section 3010
+(1) The workforce education investment account is created in the state treasury. All revenues from the workforce investment surcharge created in RCW 82.04.299 and those revenues as specified under RCW 82.04.290(2)(c) must be deposited directly into the account. Moneys in the account may be spent only after appropriation. Expenditures from the account may be used only for higher education programs, higher education operations, higher education compensation, state-funded student aid programs, and workforce development including career connected learning as defined by RCW 28C.30.020.
+
+## Section 3011
+(1) Except as provided in subsection (4) of this section, each year or biennium, as appropriate, when allocating funds from the carbon emissions reduction account created in RCW 70A.65.240, the climate commitment account created in RCW 70A.65.260, the natural climate solutions account created in RCW 70A.65.270, the climate investment account created in RCW 70A.65.250, the air quality and health disparities improvement account created in RCW 70A.65.280, the climate transit programs account created in RCW 46.68.500, or the climate active transportation account created in RCW 46.68.490, or administering grants or programs funded by the accounts, agencies shall conduct an environmental justice assessment consistent with the requirements of RCW 70A.02.060 and establish a minimum of not less than 35 percent and a goal of 40 percent of total investments that provide direct and meaningful benefits to vulnerable populations within the boundaries of overburdened communities through: (a) The direct reduction of environmental burdens in overburdened communities; (b) the reduction of disproportionate, cumulative risk from environmental burdens, including those associated with climate change; (c) the support of community led project development, planning, and participation costs; or (d) meeting a community need identified by the community that is consistent with the intent of this chapter or RCW 70A.02.010.
+
+## Section 4001
+(1) The legislature finds that student behavioral health issues have become a crisis in Washington state, necessitating the deployment of behavioral health resources in schools throughout the state. The legislature's concerns are based on the following facts:
+
+## Section 4002
+The legislature intends to further the government-to-government relationship between the state of Washington and federally recognized Indian tribes in the state of Washington by authorizing the governor to enter into agreements concerning the regulation of marijuana [cannabis] cannabis. Such agreements may include provisions pertaining to: The lawful commercial production, processing, sale, and possession of marijuana [cannabis] cannabis for both recreational and medical purposes; marijuana [cannabis] cannabis-related research activities; law enforcement, both criminal and civil; and taxation. The legislature finds that these agreements will facilitate and promote a cooperative and mutually beneficial relationship between the state and the tribes regarding matters relating to the legalization of marijuana [cannabis] cannabis, particularly in light of the fact that federal Indian law precludes the state from enforcing its civil regulatory laws in Indian country. Such cooperative agreements will enhance public health and safety, ensure a lawful and well-regulated marijuana [cannabis] cannabis market, encourage economic development, and provide fiscal benefits to both the tribes and the state.
+
+## Section 4003
+The legislature finds that since voters approved Initiative Measure No. 692 in 1998, it has been the public policy of the state to permit the medical use of marijuana [cannabis] cannabis. Between 1998 and the present day, there have been multiple legislative attempts to clarify what is meant by the medical use of marijuana [cannabis] cannabis and to ensure qualifying patients have a safe, consistent, and adequate source of marijuana [cannabis] cannabis for their medical needs.
+
+## Section 4004
+The people intend to stop treating adult marijuana [cannabis] cannabis use as a crime and try a new approach that:
+
+## Section 4005
+The legislature finds that protecting the state's children, youth, and young adults under the legal age to purchase and consume marijuana [cannabis] cannabis, by establishing limited restrictions on the advertising of marijuana [cannabis] cannabis and marijuana [cannabis] cannabis products, is necessary to assist the state's efforts to discourage and prevent underage consumption and the potential risks associated with underage consumption. The legislature finds that these restrictions assist the state in maintaining a strong and effective regulatory and enforcement system as specified by the federal government. The legislature finds this act leaves ample opportunities for licensed marijuana [cannabis] cannabis businesses to market their products to those who are of legal age to purchase them, without infringing on the free speech rights of business owners. Finally, the legislature finds that the state has a substantial and compelling interest in enacting this act aimed at protecting Washington's children, youth, and young adults.
+
+## Section 4006
+(1)(a) The legislature finds the implementation of Initiative Measure No. 502 has established a clearly disadvantaged regulated legal market with respect to prices and the ability to compete with the unregulated medical dispensary market and the illicit market. The legislature further finds that it is crucial that the state continues to ensure a safe, highly regulated system in Washington that protects valuable state revenues while continuing efforts towards disbanding the unregulated marijuana [cannabis] cannabis markets. The legislature further finds that ongoing evaluation on the impact of meaningful marijuana [cannabis] cannabis tax reform for the purpose of stabilizing revenues is crucial to the overall effort of protecting the citizens and resources of this state. The legislature further finds that a partnership with local jurisdictions in this effort is imperative to the success of the legislature's policy objective. The legislature further finds that sharing revenues to promote a successful partnership in achieving the legislature's intent should be transparent and hold local jurisdictions accountable for their use of state shared revenues. Therefore, the legislature intends to reform the current tax structure for the regulated legal marijuana [cannabis] cannabis system to create price parity with the large medical and illicit markets with the specific objective of increasing the market share of the legal and highly regulated marijuana [cannabis] cannabis market. The legislature further intends to share marijuana [cannabis] cannabis tax revenues with local jurisdictions for public safety purposes and to facilitate the ongoing process of ensuring a safe regulated marijuana [cannabis] cannabis market in all communities across the state.
+
+## Section 4007
+(1) The legislature finds that additional efforts are necessary to reduce barriers to entry to the cannabis industry for individuals and communities most adversely impacted by the enforcement of cannabis-related laws. In the interest of establishing a cannabis industry that is equitable and accessible to those most adversely impacted by the enforcement of drug-related laws, including cannabis-related laws, the legislature finds a social equity program should be created.
+
+## Section 4008
+The legislature finds that recent reports of lung illnesses associated with vapor products demand serious attention by the state in the interest of protecting public health and preventing youth access. While state law grants the liquor and cannabis board broad authority to regulate vapor products containing marijuana [cannabis] cannabis, the legislature finds that risks to public health and youth access can be mitigated by clarifying that the board is granted specific authority to prohibit the use of any additive, solvent, ingredient, or compound in marijuana [cannabis] cannabis vapor product production and processing and to prohibit any device used in conjunction with a marijuana [cannabis] cannabis vapor product.
+
+## Section 4009
+The legislature intends to allow additional information on the labels and labeling of marijuana [cannabis] cannabis products to assist consumers in making purchases of these products.
+
+## Section 4010
+The legislature intends to clarify the law on medical marijuana [cannabis] cannabis so that the lawful use of this substance is not impaired and medical practitioners are able to exercise their best professional judgment in the delivery of medical treatment, qualifying patients may fully participate in the medical use of marijuana [cannabis] cannabis, and designated providers may assist patients in the manner provided by this act without fear of state criminal prosecution. This act is also intended to provide clarification to law enforcement and to all participants in the judicial system.
+
+## Section 5001
+1. The department of social and health services shall review, in coordination with the department of health, the state board of nursing, adult family home providers, assisted living facility providers, in-home personal care providers, and long-term care consumers and advocates, training standards for administrators and resident caregiving staff. Any proposed enhancements shall be consistent with this section, shall take into account and not duplicate other training requirements applicable to assisted living facilities and staff, and shall be developed with the input of assisted living facility and resident representatives, health care professionals, and other vested interest groups. Training standards and the delivery system shall be relevant to the needs of residents served by the assisted living facility and recipients of long-term in-home personal care services and shall be sufficient to ensure that administrators and caregiving staff have the skills and knowledge necessary to provide high quality, appropriate care.
+
+2. The recommendations on training standards and the delivery system developed under subsection (1) of this section shall be based on a review and consideration of the following: Quality of care; availability of training; affordability, including the training costs incurred by the department of social and health services and private providers; portability of existing training requirements; competency testing; practical and clinical coursework; methods of delivery of training; standards for management and caregiving staff training; and necessary enhancements for special needs populations and resident rights training. Residents with special needs include, but are not limited to, residents with a diagnosis of mental illness, dementia, or developmental disability.
+
+## Section 5002
+Registered nurses and nurse midwives certified by the state board of nursing under chapter 18.79 RCW shall be exempt from the requirements and provisions of this chapter.
+
+## Section 5003
+It is the purpose of the state board of nursing to regulate the competency and quality of professional health care providers under its jurisdiction by establishing, monitoring, and enforcing qualifications for licensing, consistent standards of practice, continuing competency mechanisms, and discipline. Rules, policies, and procedures developed by the board must promote the delivery of quality health care to the residents of the state of Washington.
+
+## Section 5004
+1. "Registered nursing practice" means the performance of acts requiring substantial specialized knowledge, judgment, and skill based on the principles of the biological, physiological, behavioral, and sociological sciences in either:
+
+    a. The observation, assessment, diagnosis, care or counsel, and health teaching of individuals with illnesses, injuries, or disabilities, or in the maintenance of health or prevention of illness of others;
+
+    b. The performance of such additional acts requiring education and training and that are recognized by the medical and nursing professions as proper and recognized by the board to be performed by registered nurses licensed under this chapter and that are authorized by the board through its rules;
+
+    c. The administration, supervision, delegation, and evaluation of nursing practice. However, nothing in this subsection affects the authority of a hospital, hospital district, in-home service agency, community-based care setting, medical clinic, or office, concerning its administration and supervision;
+
+    d. The teaching of nursing;
+
+    e. The executing of medical regimen as prescribed by a licensed physician and surgeon, dentist, osteopathic physician and surgeon, podiatric physician and surgeon, physician assistant, or advanced registered nurse practitioner, or as directed by a licensed midwife within his or her scope of practice.
+
+2. Nothing in this section prohibits a person from practicing a profession for which a license has been issued under the laws of this state or specifically authorized by any other law of the state of Washington.
+
+3. This section does not prohibit (a) the nursing care of the sick, without compensation, by an unlicensed person who does not hold himself or herself out to be a registered nurse, (b) the practice of licensed practical nursing by a licensed practical nurse, or (c) the practice of a nursing assistant, providing delegated nursing tasks under chapter 18.88A RCW.
+
+## Section 5005
+"Advanced registered nursing practice" means the performance of the acts of a registered nurse and the performance of an expanded role in providing health care services as recognized by the medical and nursing professions, the scope of which is defined by rule by the board. Upon approval by the board, an advanced registered nurse practitioner may prescribe legend drugs and controlled substances contained in Schedule V of the Uniform Controlled Substances Act, chapter 69.50 RCW, and Schedules II through IV subject to RCW 18.79.240(1) (r) or (s).
+
+Nothing in this section prohibits a person from practicing a profession for which a license has been issued under the laws of this state or specifically authorized by any other law of the state of Washington.
+
+This section does not prohibit (1) the nursing care of the sick, without compensation, by an unlicensed person who does not hold himself or herself out to be an advanced registered nurse practitioner, or (2) the practice of registered nursing by a licensed registered nurse or the practice of licensed practical nursing by a licensed practical nurse.
+
+## Section 5006
+1. The state board of nursing is established, consisting of fifteen members to be appointed by the governor to four-year terms. The governor shall consider nursing members who are recommended for appointment by the appropriate professional associations in the state. No person may serve as a member of the board for more than two consecutive full terms.
+
+2. There must be seven registered nurse members, two advanced registered nurse practitioner members, three licensed practical nurse members, and three public members on the board. Each member of the board must be a resident of this state.
+
+3. [Empty]
+
+    a. Registered nurse members of the board must:
+
+        i. Be licensed as registered nurses under this chapter; and
+
+        ii. Have had at least three years' experience in the active practice of nursing and have been engaged in that practice within two years of appointment.
+
+    b. In addition:
+
+        i. At least one member must be on the faculty at a four-year university nursing program;
+
+        ii. At least one member must be on the faculty at a two-year community college nursing program;
+
+        iii. At least two members must be staff nurses providing direct patient care; and
+
+        iv. At least one member must be a nurse manager or a nurse executive.
+
+4. Advanced registered nurse practitioner members of the board must:
+
+    a. Be licensed as advanced registered nurse practitioners under this chapter; and
+
+    b. Have had at least three years' experience in the active practice of advanced registered nursing and have been engaged in that practice within two years of appointment.
+
+5. Licensed practical nurse members of the board must:
+
+    a. Be licensed as licensed practical nurses under this chapter; and
+
+    b. Have had at least three years' actual experience as a licensed practical nurse and have been engaged in practice as a practical nurse within two years of appointment.
+
+6. Public members of the board may not be a member of any other health care licensing board or commission, or have a fiduciary obligation to a facility rendering health services regulated by the board, or have a material or financial interest in the rendering of health services regulated by the board.
+
+In appointing the initial members of the board, it is the intent of the legislature that, to the extent possible, the governor appoint the existing members of the board of nursing and the board of practical nursing repealed under chapter 9, Laws of 1994 sp. sess. The governor may appoint initial members of the board to staggered terms of from one to four years. Thereafter, all members shall be appointed to full four-year terms. Members of the board hold office until their successors are appointed.
+
+When the secretary appoints pro tem members, reasonable efforts shall be made to ensure that at least one pro tem member is a registered nurse who is currently practicing and, in addition to meeting other minimum qualifications, has graduated from an associate or baccalaureate nursing program within three years of appointment.
+
+## Section 5007
+The governor may remove a member of the board for neglect of duty, misconduct, malfeasance or misfeasance in office, or for incompetency or unprofessional conduct as defined in chapter 18.130 RCW. Whenever the governor is satisfied that a member of the board has been guilty of neglect of duty, misconduct, malfeasance or misfeasance in office, or of incompetency or unprofessional conduct, the governor shall file with the secretary of state a statement of the causes for and the order of removal from office, and the secretary shall forthwith send a certified copy of the statement of causes and order of removal to the last known post office address of the member. If a vacancy occurs on the board, the governor shall appoint a replacement member to fill the remainder of the unexpired term.
+
+## Section 5008
+Each board member shall be compensated in accordance with RCW 43.03.265 and shall be paid travel expenses when away from home in accordance with RCW 43.03.050 and 43.03.060.
+
+## Section 5009
+The board shall annually elect officers from among its members. The board shall meet at least quarterly at times and places it designates. It shall hold such other meetings during the year as may be deemed necessary to transact its business. A majority of the board members appointed and serving constitutes a quorum at a meeting. All meetings of the board must be open and public, except that the board may hold executive sessions to the extent permitted by chapter 42.30 RCW.
+
+Carrying a motion or resolution, adopting a rule, or passing a measure requires the affirmative vote of a majority of a quorum of the board. The board may appoint panels consisting of at least three members. A quorum for transaction of any business by a panel is a minimum of three members. A majority vote of a quorum of the panel is required to transact business delegated to it by the board.
+
+## Section 5010
+1. The board shall keep a record of all of its proceedings and make such reports to the governor as may be required. The board shall define by rules what constitutes specialized and advanced levels of nursing practice as recognized by the medical and nursing profession. The board may adopt rules or issue advisory opinions in response to questions put to it by professional health associations, nursing practitioners, and consumers in this state concerning the authority of various categories of nursing practitioners to perform particular acts.
+
+2. The board shall approve curricula and shall establish criteria for minimum standards for schools preparing persons for licensing as registered nurses, advanced registered nurse practitioners, and licensed practical nurses under this chapter. The board shall approve such schools of nursing as meet the requirements of this chapter and the board, and the board shall approve establishment of basic nursing education programs and shall establish criteria as to the need for and the size of a program and the type of program and the geographical location. The board shall establish criteria for proof of reasonable currency of knowledge and skill as a basis for safe practice after three years' inactive or lapsed status. The board shall establish criteria for licensing by endorsement. The board shall determine examination requirements for applicants for licensing as registered nurses, advanced registered nurse practitioners, and licensed practical nurses under this chapter, and shall certify to the secretary for licensing duly qualified applicants. The board shall adopt rules which allow for one hour of simulated learning to be counted as equivalent to two hours of clinical placement learning, with simulated learning accounting for up to a maximum of 50 percent of the required clinical hours.
+
+3. The board shall adopt rules on continuing competency. The rules must include exemptions from the continuing competency requirements for registered nurses seeking advanced nursing degrees. Nothing in this subsection prohibits the board from providing additional exemptions for any person credentialed under this chapter who is enrolled in an advanced education program.
+
+4. The board shall adopt such rules under chapter 34.05 RCW as are necessary to fulfill the purposes of this chapter.
+
+5. The board is the successor in interest of the board of nursing and the board of practical nursing. All contracts, undertakings, agreements, rules, regulations, decisions, orders, and policies of the former board of nursing or the board of practical nursing continue in full force and effect under the board until the board amends or rescinds those rules, regulations, decisions, orders, or policies.
+
+6. The members of the board are immune from suit in an action, civil or criminal, based on its disciplinary proceedings or other official acts performed in good faith as members of the board.
+
+7. Whenever the workload of the board requires, the board may request that the secretary appoint pro tempore members of the board. When serving, pro tempore members of the board have all of the powers, duties, and immunities, and are entitled to all of the emoluments, including travel expenses, of regularly appointed members of the board.
+
+## Section 5011
+An institution desiring to conduct a school of registered nursing or a school or program of practical nursing, or both, shall apply to the board and submit evidence satisfactory to the board that:
+
+1. It is prepared to carry out the curriculum approved by the board for basic registered nursing or practical nursing, or both; and
+
+2. It is prepared to meet other standards established by law and by the board.
+
+The board shall make, or cause to be made, such surveys of the schools and programs, and of institutions and agencies to be used by the schools and programs, as it determines are necessary. If in the opinion of the board, the requirements for an approved school of registered nursing or a school or program of practical nursing, or both, are met, the board shall approve the school or program. The board may grant approval to baccalaureate nursing education programs where the nurse administrator holds a graduate degree with a major in nursing and has sufficient experience as a registered nurse but does not hold a doctoral degree.
+
+## Section 5012
+1. An applicant for a license to practice as a registered nurse shall submit to the board:
+
+    a. An attested written application on a department form;
+
+    b. An official transcript demonstrating graduation and successful completion of an approved program of nursing; and
+
+    c. Any other official records specified by the board.
+
+2. An applicant for a license to practice as an advanced registered nurse practitioner shall submit to the board:
+
+    a. An attested written application on a department form;
+
+    b. An official transcript demonstrating graduation and successful completion of an advanced registered nurse practitioner program meeting criteria established by the board; and
+
+    c. Any other official records specified by the board.
+
+3. An applicant for a license to practice as a licensed practical nurse shall submit to the board:
+
+    a. An attested written application on a department form;
+
+    b. Written official evidence that the applicant is over the age of eighteen;
+
+    c. An official transcript demonstrating graduation and successful completion of an approved practical nursing program, or its equivalent; and
+
+    d. Any other official records specified by the board.
+
+4. At the time of submission of the application, the applicant for a license to practice as a registered nurse, advanced registered nurse practitioner, or licensed practical nurse must not be in violation of chapter 18.130 RCW or this chapter.
+
+5. The board shall establish by rule the criteria for evaluating the education of all applicants.
+
+## Section 5013
+An applicant for a license to practice as a registered nurse, advanced registered nurse practitioner, or licensed practical nurse must pass an examination in subjects determined by the board. The examination may be supplemented by an oral or practical examination. The board shall establish by rule the requirements for applicants who have failed the examination to qualify for reexamination.
+
+## Section 5014
+When authorized by the board, the department shall issue an interim permit authorizing the applicant to practice registered nursing, advanced registered nursing, or licensed practical nursing, as appropriate, from the time of verification of the completion of the school or training program until notification of the results of the examination. Upon the applicant passing the examination, and if all other requirements established by the board for licensing are met, the department shall issue the applicant a license to practice registered nursing, advanced registered nursing, or licensed practical nursing, as appropriate. If the applicant fails the examination, the interim permit expires upon notification to the applicant, and is not renewable. The holder of an interim permit is subject to chapter 18.130 RCW.
+
+## Section 5015
+Upon approval of the application by the board, the department shall issue a license by endorsement without examination to practice as a registered nurse or as a licensed practical nurse to a person who is licensed as a registered nurse or licensed practical nurse under the laws of another state, territory, or possession of the United States, and who meets all other qualifications for licensing.
+
+An applicant who has graduated from a school or program of nursing outside the United States and is licensed as a registered nurse or licensed practical nurse, or their equivalents, outside the United States must meet all qualifications required by this chapter and pass examinations as determined by the board.
+
+## Section 5016
+A person licensed under this chapter who desires to retire temporarily from registered nursing practice, advanced registered nursing practice, or licensed practical nursing practice in this state shall send a written notice to the secretary.
+
+Upon receipt of the notice the department shall place the name of the person on inactive status. While remaining on this status the person shall not practice in this state any form of nursing provided for in this chapter. When the person desires to resume practice, the person shall apply to the board for renewal of the license and pay a renewal fee to the state treasurer. Persons on inactive status for three years or more must provide evidence of knowledge and skill of current practice as required by the board or as provided in this chapter.
+
+## Section 5017
+1. In the context of the definition of registered nursing practice and advanced registered nursing practice, this chapter shall not be construed as:
+
+    a. Prohibiting the incidental care of the sick by domestic servants or persons primarily employed as housekeepers, so long as they do not practice registered nursing within the meaning of this chapter;
+
+    b. Preventing a person from the domestic administration of family remedies or the furnishing of nursing assistance in case of emergency;
+
+    c. Prohibiting the practice of nursing by students enrolled in approved schools as may be incidental to their course of study or prohibiting the students from working as nursing technicians;
+
+    d. Prohibiting auxiliary services provided by persons carrying out duties necessary for the support of nursing services, including those duties that involve minor nursing services for persons performed in hospitals, nursing homes, or elsewhere under the direction of licensed physicians or the supervision of licensed registered nurses;
+
+    e. Prohibiting the practice of nursing in this state by a legally qualified nurse of another state or territory whose engagement requires him or her to accompany and care for a patient temporarily residing in this state during the period of one such engagement, not to exceed six months in length, if the person does not represent or hold himself or herself out as a registered nurse licensed to practice in this state;
+
+    f. Prohibiting nursing or care of the sick, with or without compensation, when done in connection with the practice of the religious tenets of a church by adherents of the church so long as they do not engage in the practice of nursing as defined in this chapter;
+
+    g. Prohibiting the practice of a legally qualified nurse of another state who is employed by the United States government or a bureau, division, or agency thereof, while in the discharge of his or her official duties;
+
+    h. Permitting the measurement of the powers or range of human vision, or the determination of the accommodation and refractive state of the human eye or the scope of its functions in general, or the fitting or adaptation of lenses for the aid thereof;
+
+        i. Permitting the prescribing or directing the use of, or using, an optical device in connection with ocular exercises, visual training, vision training, or orthoptics;
+
+    j. Permitting the prescribing of contact lenses for, or the fitting and adaptation of contact lenses to, the human eye;
+
+    k. Prohibiting the performance of routine visual screening;
+
+    l. Permitting the practice of dentistry or dental hygiene as defined in chapters 18.32 and 18.29 RCW, respectively;
+
+    m. Permitting the practice of chiropractic as defined in chapter 18.25 RCW including the adjustment or manipulation of the articulation of the spine;
+
+    n. Permitting the practice of podiatric medicine and surgery as defined in chapter 18.22 RCW;
+
+    o. Permitting the performance of major surgery, except such minor surgery as the board may have specifically authorized by rule adopted in accordance with chapter 34.05 RCW;
+
+    p. Permitting the prescribing of controlled substances as defined in Schedule I of the Uniform Controlled Substances Act, chapter 69.50 RCW;
+
+    q. Prohibiting the determination and pronouncement of death;
+
+    r. Prohibiting advanced registered nurse practitioners, approved by the board as certified registered nurse anesthetists from selecting, ordering, or administering controlled substances as defined in Schedules II through IV of the Uniform Controlled Substances Act, chapter 69.50 RCW, consistent with their board-recognized scope of practice; subject to facility-specific protocols, and subject to a request for certified registered nurse anesthetist anesthesia services issued by a physician licensed under chapter 18.71 RCW, an osteopathic physician and surgeon licensed under chapter 18.57 RCW, a dentist licensed under chapter 18.32 RCW, or a podiatric physician and surgeon licensed under chapter 18.22 RCW; the authority to select, order, or administer Schedule II through IV controlled substances being limited to those drugs that are to be directly administered to patients who require anesthesia for diagnostic, operative, obstetrical, or therapeutic procedures in a hospital, clinic, ambulatory surgical facility, or the office of a practitioner licensed under chapter 18.71, 18.22, 18.36, 18.36A, 18.57, or 18.32 RCW; "select" meaning the decision-making process of choosing a drug, dosage, route, and time of administration; and "order" meaning the process of directing licensed individuals pursuant to their statutory authority to directly administer a drug or to dispense, deliver, or distribute a drug for the purpose of direct administration to a patient, under instructions of the certified registered nurse anesthetist. "Protocol" means a statement regarding practice and documentation concerning such items as categories of patients, categories of medications, or categories of procedures rather than detailed case-specific formulas for the practice of nurse anesthesia;
+
+    s. Prohibiting advanced registered nurse practitioners from ordering or prescribing controlled substances as defined in Schedules II through IV of the Uniform Controlled Substances Act, chapter 69.50 RCW, if and to the extent that doing so is permitted by their scope of practice;
+
+    t. Prohibiting the practice of registered nursing or advanced registered nursing by a student enrolled in an approved school if:
+
+        i. The student performs services without compensation or expectation of compensation as part of a volunteer activity;
+
+        ii. The student is under the direct supervision of a registered nurse or advanced registered nurse practitioner licensed under this chapter, a pharmacist licensed under chapter 18.64 RCW, an osteopathic physician and surgeon licensed under chapter 18.57 RCW, or a physician licensed under chapter 18.71 RCW;
+
+        iii. The services the student performs are within the scope of practice of: (A) The nursing profession for which the student is receiving training; and (B) the person supervising the student;
+
+        iv. The school in which the student is enrolled verifies the student has demonstrated competency through his or her education and training to perform the services; and
+
+    v. The student provides proof of current malpractice insurance to the volunteer activity organizer prior to performing any services.
+
+2. In the context of the definition of licensed practical nursing practice, this chapter shall not be construed as:
+
+    a. Prohibiting the incidental care of the sick by domestic servants or persons primarily employed as housekeepers, so long as they do not practice practical nursing within the meaning of this chapter;
+
+    b. Preventing a person from the domestic administration of family remedies or the furnishing of nursing assistance in case of emergency;
+
+    c. Prohibiting the practice of practical nursing by students enrolled in approved schools as may be incidental to their course of study or prohibiting the students from working as nursing assistants;
+
+    d. Prohibiting auxiliary services provided by persons carrying out duties necessary for the support of nursing services, including those duties that involve minor nursing services for persons performed in hospitals, nursing homes, or elsewhere under the direction of licensed physicians or the supervision of licensed registered nurses;
+
+    e. Prohibiting or preventing the practice of nursing in this state by a legally qualified nurse of another state or territory whose engagement requires him or her to accompany and care for a patient temporarily residing in this state during the period of one such engagement, not to exceed six months in length, if the person does not represent or hold himself or herself out as a licensed practical nurse licensed to practice in this state;
+
+    f. Prohibiting nursing or care of the sick, with or without compensation, when done in connection with the practice of the religious tenets of a church by adherents of the church so long as they do not engage in licensed practical nurse practice as defined in this chapter;
+
+    g. Prohibiting the practice of a legally qualified nurse of another state who is employed by the United States government or any bureau, division, or agency thereof, while in the discharge of his or her official duties.
+
+## Section 5018
+An advanced registered nurse practitioner under his or her license may perform for compensation nursing care, as that term is usually understood, of the ill, injured, or infirm, and in the course thereof, she or he may do the following things that shall not be done by a person not so licensed, except as provided in RCW 18.79.260 and 18.79.270:
+
+1. Perform specialized and advanced levels of nursing as recognized jointly by the medical and nursing professions, as defined by the board;
+
+2. Prescribe legend drugs and Schedule V controlled substances, as defined in the Uniform Controlled Substances Act, chapter 69.50 RCW, and Schedules II through IV subject to RCW 18.79.240(1) (r) or (s) within the scope of practice defined by the board;
+
+3. Perform all acts provided in RCW 18.79.260;
+
+4. Hold herself or himself out to the public or designate herself or himself as an advanced registered nurse practitioner or as a nurse practitioner.
+
+## Section 5019
+1. A registered nurse under his or her license may perform for compensation nursing care, as that term is usually understood, to individuals with illnesses, injuries, or disabilities.
+
+2. A registered nurse may, at or under the general direction of a licensed physician and surgeon, dentist, osteopathic physician and surgeon, naturopathic physician, optometrist, podiatric physician and surgeon, physician assistant, advanced registered nurse practitioner, or midwife acting within the scope of his or her license, administer medications, treatments, tests, and inoculations, whether or not the severing or penetrating of tissues is involved and whether or not a degree of independent judgment and skill is required. Such direction must be for acts which are within the scope of registered nursing practice.
+
+3. A registered nurse may delegate tasks of nursing care to other individuals where the registered nurse determines that it is in the best interest of the patient.
+
+    a. The delegating nurse shall:
+
+        i. Determine the competency of the individual to perform the tasks;
+
+        ii. Evaluate the appropriateness of the delegation;
+
+        iii. Supervise the actions of the person performing the delegated task; and
+
+        iv. Delegate only those tasks that are within the registered nurse's scope of practice.
+
+    b. A registered nurse, working for a home health or hospice agency regulated under chapter 70.127 RCW, may delegate the application, instillation, or insertion of medications to a registered or certified nursing assistant under a plan of care.
+
+    c. Except as authorized in (b) or (e) of this subsection, a registered nurse may not delegate the administration of medications. Except as authorized in (e) or (f) of this subsection, a registered nurse may not delegate acts requiring substantial skill, and may not delegate piercing or severing of tissues. Acts that require nursing judgment shall not be delegated.
+
+    d. No person may coerce a nurse into compromising patient safety by requiring the nurse to delegate if the nurse determines that it is inappropriate to do so. Nurses shall not be subject to any employer reprisal or disciplinary action by the board for refusing to delegate tasks or refusing to provide the required training for delegation if the nurse determines delegation may compromise patient safety.
+
+    e. For delegation in community-based care settings or in-home care settings, a registered nurse may delegate nursing care tasks only to registered or certified nursing assistants under chapter 18.88A RCW or home care aides certified under chapter 18.88B RCW. Simple care tasks such as blood pressure monitoring, personal care service, diabetic insulin device set up, verbal verification of insulin dosage for sight-impaired individuals, or other tasks as defined by the board are exempted from this requirement.
+
+        i. "Community-based care settings" includes: Community residential programs for people with developmental disabilities, certified by the department of social and health services under chapter 71A.12 RCW; adult family homes licensed under chapter 70.128 RCW; and assisted living facilities licensed under chapter 18.20 RCW. Community-based care settings do not include acute care or skilled nursing facilities.
+
+        ii. "In-home care settings" include an individual's place of temporary or permanent residence, but does not include acute care or skilled nursing facilities, and does not include community-based care settings as defined in (e)(i) of this subsection.
+
+        iii. Delegation of nursing care tasks in community-based care settings and in-home care settings is only allowed for individuals who have a stable and predictable condition. "Stable and predictable condition" means a situation in which the individual's clinical and behavioral status is known and does not require the frequent presence and evaluation of a registered nurse.
+
+        iv. The determination of the appropriateness of delegation of a nursing task is at the discretion of the registered nurse. Other than delegation of the administration of insulin by injection for the purpose of caring for individuals with diabetes, the administration of medications by injection, sterile procedures, and central line maintenance may never be delegated.
+
+    v. When delegating insulin injections under this section, the registered nurse delegator must instruct the individual regarding proper injection procedures and the use of insulin, demonstrate proper injection procedures, and must supervise and evaluate the individual performing the delegated task as required by the board by rule. If the registered nurse delegator determines that the individual is competent to perform the injection properly and safely, supervision and evaluation shall occur at an interval determined by the board by rule.
+
+    vi.(A) The registered nurse shall verify that the nursing assistant or home care aide, as the case may be, has completed the required core nurse delegation training required in chapter 18.88A or 18.88B RCW prior to authorizing delegation.
+
+(B) Before commencing any specific nursing tasks authorized to be delegated in this section, a home care aide must be certified pursuant to chapter 18.88B RCW and must comply with RCW 18.88B.070.
+
+    vii. The nurse is accountable for his or her own individual actions in the delegation process. Nurses acting within the protocols of their delegation authority are immune from liability for any action performed in the course of their delegation duties.
+
+    viii. Nursing task delegation protocols are not intended to regulate the settings in which delegation may occur, but are intended to ensure that nursing care services have a consistent standard of practice upon which the public and the profession may rely, and to safeguard the authority of the nurse to make independent professional decisions regarding the delegation of a task.
+
+    f. The delegation of nursing care tasks only to registered or certified nursing assistants under chapter 18.88A RCW or to home care aides certified under chapter 18.88B RCW may include glucose monitoring and testing.
+
+    g. The board may adopt rules to implement this section.
+
+4. Only a person licensed as a registered nurse may instruct nurses in technical subjects pertaining to nursing.
+
+5. Only a person licensed as a registered nurse may hold herself or himself out to the public or designate herself or himself as a registered nurse.
+
+## Section 5020
+1. In accordance with rules adopted by the board, public school districts and private schools that offer classes for any of grades kindergarten through twelve may provide for clean, intermittent bladder catheterization of students or assisted self-catheterization of students who are in the custody of the school district or private school at the time. After consultation with staff of the superintendent of public instruction, the board shall adopt rules in accordance with chapter 34.05 RCW, that provide for the following and such other matters as the board deems necessary to the proper implementation of this section:
+
+    a. A requirement for a written, current, and unexpired request from a parent, legal guardian, or other person having legal control over the student that the school district or private school provide for the catheterization of the student;
+
+    b. A requirement for a written, current, and unexpired request from a physician licensed under chapter 18.71 or 18.57 RCW, that catheterization of the student be provided for during the hours when school is in session or the hours when the student is under the supervision of school officials;
+
+    c. A requirement for written, current, and unexpired instructions from an advanced registered nurse practitioner or a registered nurse licensed under this chapter regarding catheterization that include (i) a designation of the school district or private school employee or employees who may provide for the catheterization, and (ii) a description of the nature and extent of any required supervision; and
+
+    d. The nature and extent of acceptable training that shall (i) be provided by a physician, advanced registered nurse practitioner, or registered nurse licensed under chapter 18.71 or 18.57 RCW, or this chapter, and (ii) be required of school district or private school employees who provide for the catheterization of a student under this section, except that a licensed practical nurse licensed under this chapter is exempt from training.
+
+2. This section does not require school districts to provide intermittent bladder catheterization of students.
+
+## Section 5021
+As of July 1, 1994, all rules, regulations, decisions, and orders of the board of nursing under chapter 18.88 RCW or the board of practical nursing under chapter 18.78 RCW continue to be in effect under the board, until the board acts to modify the rules, regulations, decisions, or orders.
+
+## Section 5022
+1. "Nursing technician" means a nursing student employed in a hospital licensed under chapter 70.41 RCW, a clinic, or a nursing home licensed under chapter 18.51 RCW, who:
+
+    a. Is currently enrolled in good standing in a nursing program approved by the board and has not graduated; or
+
+    b. Is a graduate of a nursing program approved by the board who graduated:
+
+        i. Within the past thirty days; or
+
+        ii. Within the past sixty days and has received a determination from the secretary that there is good cause to continue the registration period, as defined by the secretary in rule.
+
+2. No person may practice or represent oneself as a nursing technician by use of any title or description of services without being registered under this chapter, unless otherwise exempted by this chapter.
+
+3. The board may adopt rules to implement chapter 258, Laws of 2003.
+
+## Section 5023
+1. The secretary shall employ an executive director that is:
+
+    a. Hired by and serves at the pleasure of the board;
+
+    b. Exempt from the provisions of the civil service law, chapter 41.06 RCW and whose salary is established by the board in accordance with RCW 43.03.028; and
+
+    c. Responsible for performing all administrative duties of the board, including preparing an annual budget, and any other duties as delegated to the executive director by the board.
+
+2. Consistent with the budgeting and accounting act, the board is responsible for proposing its own biennial budget which the secretary must submit to the office of financial management.
+
+3. Prior to adopting credentialing fees under RCW 43.70.250, the secretary shall collaborate with the board to determine the appropriate fees necessary to support the activities of the board.
+
+4. Prior to the secretary exercising the secretary's authority to adopt uniform rules and guidelines, or any other actions that might impact the licensing or disciplinary authority of the board, the secretary shall first meet with the board to determine how those rules or guidelines, or changes to rules or guidelines, might impact the board's ability to effectively carry out its statutory duties. If the board, in consultation with the secretary, determines that the proposed rules or guidelines, or changes to existing rules or guidelines, will negatively impact the board's ability to effectively carry out its statutory duties, then the individual board shall collaborate with the secretary to develop alternative solutions to mitigate the impacts. If an alternative solution cannot be reached, the parties may resolve the dispute through a mediator as set forth in subsection (6) of this section.
+
+5. The board shall negotiate with the secretary to develop performance-based expectations, including identification of key performance measures. The performance expectations should focus on consistent, timely regulation of health care professionals.
+
+6. In the event there is a disagreement between the board and the secretary, that is unable to be resolved through negotiation, a representative of both parties shall agree on the designation of a third party to mediate the dispute.
+
+7. The secretary shall employ staff that are hired and managed by the executive director provided that nothing contained in this section may be construed to alter any existing collective bargaining unit or the provisions of any existing collective bargaining agreement.
+
+8. By December 31, 2013, the board must present a report with recommendations to the governor and the legislature regarding:
+
+    a. Evidence-based practices and research-based practices used by boards of nursing when conducting licensing, educational, disciplinary, and financial activities and the use of such practices by the board; and
+
+    b. A comparison of the board's licensing, education, disciplinary, and financial outcomes with those of other boards of nursing using a national database.
+
+## Section 5024
+1. By June 30, 2011, the board shall adopt new rules on chronic, noncancer pain management that contain the following elements:
+
+    a. [Empty]
+
+        i. Dosing criteria, including:
+
+(A) A dosage amount that must not be exceeded unless an advanced registered nurse practitioner or certified registered nurse anesthetist first consults with a practitioner specializing in pain management; and
+
+(B) Exigent or special circumstances under which the dosage amount may be exceeded without consultation with a practitioner specializing in pain management.
+
+        ii. The rules regarding consultation with a practitioner specializing in pain management must, to the extent practicable, take into account:
+
+(A) Circumstances under which repeated consultations would not be necessary or appropriate for a patient undergoing a stable, ongoing course of treatment for pain management;
+
+(B) Minimum training and experience that is sufficient to exempt an advanced registered nurse practitioner or certified registered nurse anesthetist from the specialty consultation requirement;
+
+(C) Methods for enhancing the availability of consultations;
+
+(D) Allowing the efficient use of resources; and
+
+(E) Minimizing the burden on practitioners and patients;
+
+    b. Guidance on when to seek specialty consultation and ways in which electronic specialty consultations may be sought;
+
+    c. Guidance on tracking clinical progress by using assessment tools focusing on pain interference, physical function, and overall risk for poor outcome; and
+
+    d. Guidance on tracking the use of opioids, particularly in the emergency department.
+
+2. The board shall consult with the agency medical directors' group, the department of health, the University of Washington, and the largest professional associations for advanced registered nurse practitioners and certified registered nurse anesthetists in the state.
+
+3. The rules adopted under this section do not apply:
+
+    a. To the provision of palliative, hospice, or other end‑of‑life care; or
+
+    b. To the management of acute pain caused by an injury or a surgical procedure.
+
+## Section 5025
+In addition to the authority provided in RCW 42.52.804, the board, its members, or staff as directed by the board, may communicate, present information requested, volunteer information, testify before legislative committees, and educate the legislature, as the board may from time to time see fit.
+
+## Section 5026
+1. Subject to the availability of amounts appropriated for this specific purpose, the legislature intends to expand the student nurse preceptor grant program to help reduce the shortage of health care training settings for students and increase the numbers of nurses in the workforce.
+
+2. [Empty]
+
+    a. The grant program shall provide incentive pay for individuals serving as clinical supervisors to nursing candidates with a focus on acute shortage areas including those in rural and underserved communities and long-term care facilities. The desired outcomes of the grant program include increased clinical opportunities for nursing students. In part, increased clinical opportunities shall be achieved through reducing the required number of qualifying hours of precepting clinical instruction per student from 100 to 80. The board shall consult with collective bargaining representatives of nurses who serve as clinical supervisors in the development of the grant program.
+
+    b. The board shall submit a report, in accordance with RCW 43.01.036, to the office of financial management and the appropriate committees of the legislature by September 30, 2025, on the outcomes of the grant program. The report must include:
+
+        i. A description of the mechanism for incentivizing supervisor pay and other strategies;
+
+        ii. The number of supervisors that received bonus pay and the number of sites used;
+
+        iii. The number of students that received supervision at each site;
+
+        iv. The number of supervision hours provided at each site;
+
+    v. Initial reporting on the number of students who received supervision through the programs that moved into a permanent position with the program at the end of their supervision; and
+
+    vi. Recommendations to scale up the program or otherwise recruit nurse preceptors in shortage areas.
+
+## Section 5027
+1. Subject to the availability of amounts appropriated for this specific purpose, the board, in collaboration with rural hospitals, relevant employer and exclusive bargaining unit partnerships, nursing assistant-certified training programs, the department of health, and the department of labor and industries, shall establish at least two pilot projects for rural hospitals to utilize high school students who are training to become nursing assistant-certified or high school students who are nursing assistant-certified to help address the workforce shortages and promote nursing careers in rural hospitals. As part of the program, students must receive information about related careers and educational and training opportunities including certified medical assistants, licensed practical nurses, and registered nurses.
+
+2. At least one of the rural hospitals participating in the pilot projects must be east of the crest of the Cascade mountains and at least one of the rural hospitals participating in the pilot projects must be west of the crest of the Cascade mountains.
+
+3. The pilot projects shall prioritize using the nursing assistant-certified high school students to their full scope of practice and identify any barriers to doing this.
+
+4. The board may contract with an employer and exclusive bargaining unit partnership, nursing consultant, and health services consultant to assist with establishing and supporting the pilot project, including identifying participants, coordinating with the groups and agencies as referenced in subsection (1) of this section and other stakeholders, and preparing reports to the legislature.
+
+5. The board shall submit a report, in accordance with RCW 43.01.036, to the health care committees of the legislature by December 1, 2024, and December 1, 2025, with the status of the pilot projects and any findings and recommendations.
+
+6. This section expires July 1, 2026.
+
+## Section 5028
+1. The department or board may not post information regarding an enforcement action taken by the board against a person licensed under this chapter, including any supporting documents or indication that the enforcement action was taken, on any public website when the following conditions are met:
+
+    a. In connection with the enforcement action, the person has been required by an order or agreement with the board to contact a board-approved substance use disorder monitoring program authorized by RCW 18.130.175, and if recommended by the program, to contract with and participate in the program;
+
+    b. The board has found that the person has substantially complied with the terms of the order or agreement; and
+
+    c. If the website is a third-party website, the department or board has the ability to prevent information regarding the enforcement action from being posted on the public website.
+
+2. Subject to the availability of amounts appropriated for this specific purpose, the board shall establish a stipend program to defray the out-of-pocket expenses incurred in connection with participation in the board's approved substance use disorder monitoring program authorized by RCW 18.130.175.
+
+3. To be eligible for the stipend program, a person must:
+
+    a. Hold an active, inactive, or suspended license issued pursuant to this chapter;
+
+    b. Submit an application on forms provided by the board;
+
+    c. Be actively participating in the board's approved substance use disorder monitoring program or have completed the board's approved substance use disorder monitoring program within six months of submission of an application for the stipend program; and
+
+    d. Have a demonstrated need for financial assistance with the expenses incurred in connection with participation in the board's approved substance use disorder monitoring program.
+
+4. A person is not eligible for the stipend program if they have previously applied for and participated in the stipend program.
+
+5. The board may defray up to 80 percent of each out-of-pocket expense deemed eligible for defrayment under this section.
+
+6. Out-of-pocket expenses eligible for defrayment under this section include the costs of substance use evaluation, treatment, and other ancillary services, including drug testing, participation in professional peer support groups, and any other expenses deemed appropriate by the board.
+
+7. A person participating in the stipend program established in this section shall document their out-of-pocket expenses in a manner specified by the board.
+
+8. The board must provide updated information on its website regarding the total number of individuals that have participated in the stipend program, the average total amount of eligible expenses defrayed for each participant, the aggregated total amount of expenses that have been defrayed for all individuals that have participated in the stipend program, and the amount of funds available for the stipend program.
+
+9. The board shall establish the stipend program no later than July 1, 2024.
+
+10. The board may adopt rules necessary to implement this section.
+
+## Section 5029
+1. By January 1, 2019, the board must adopt rules establishing requirements for prescribing opioid drugs. The rules may contain exemptions based on education, training, amount of opioids prescribed, patient panel, and practice environment.
+
+2. In developing the rules, the board must consider the agency medical directors' group and centers for disease control guidelines, and may consult with the department of health, the University of Washington, and the largest professional associations for advanced registered nurse practitioners and certified registered nurse anesthetists in the state.
+
+## Section 5030
+By January 1, 2020, the board must adopt or amend its rules to require advanced registered nurse practitioners who prescribe opioids to inform patients of their right to refuse an opioid prescription or order for any reason. If a patient indicates a desire to not receive an opioid, the advanced registered nurse practitioner must document the patient's request and avoid prescribing or ordering opioids, unless the request is revoked by the patient.
+
+## Section 5031
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+1. "Alternative training" means a nursing assistant-certified program meeting criteria adopted by the board under RCW 18.88A.087 to meet the requirements of a state-approved nurse aide competency evaluation program consistent with 42 U.S.C. Sec. 1395i-3(e) and (f) of the federal social security act.
+
+2. "Approved training program" means a nursing assistant-certified training program approved by the board to meet the requirements of a state-approved nurse aide training and competency evaluation program consistent with 42 U.S.C. Sec. 1395i-3(e) and (f) of the federal social security act. For community college, vocational-technical institutes, skill centers, and secondary school as defined in chapter 28B.50 RCW, nursing assistant-certified training programs shall be approved by the board in cooperation with the board for community and technical colleges or the superintendent of public instruction.
+
+3. "Board" means the state board of nursing.
+
+4. "Competency evaluation" means the measurement of an individual's knowledge and skills as related to safe, competent performance as a nursing assistant.
+
+5. "Department" means the department of health.
+
+6. "Health care facility" means a nursing home, hospital licensed under chapter 70.41 or 71.12 RCW, hospice care facility, home health care agency, hospice agency, licensed or certified service provider under chapter 71.24 RCW other than an individual health care provider, or other entity for delivery of health care services as defined by the board.
+
+7. "Medication assistant" means a nursing assistant-certified with a medication assistant endorsement issued under RCW 18.88A.082 who is authorized, in addition to his or her duties as a nursing assistant-certified, to administer certain medications and perform certain treatments in a nursing home under the supervision of a registered nurse under RCW 18.88A.082.
+
+8. "Nursing assistant" means an individual, regardless of title, who, under the direction and supervision of a registered nurse or licensed practical nurse, assists in the delivery of nursing and nursing-related activities to patients in a health care facility. The two levels of nursing assistants are:
+
+    a. "Nursing assistant-certified," an individual certified under this chapter; and
+
+    b. "Nursing assistant-registered," an individual registered under this chapter.
+
+9. "Nursing home" means a nursing home licensed under chapter 18.51 RCW.
+
+10. "Secretary" means the secretary of health.
+
+## Section 5032
+1. [Empty]
+
+    a. A nursing assistant may assist in the care of individuals as delegated by and under the direction and supervision of a licensed (registered) nurse or licensed practical nurse.
+
+    b. A health care facility shall not assign a nursing assistant-registered to provide care until the nursing assistant-registered has demonstrated skills necessary to perform competently all assigned duties and responsibilities.
+
+    c. Nothing in this chapter shall be construed to confer on a nursing assistant the authority to administer medication unless delegated as a specific nursing task pursuant to this chapter or to practice as a licensed (registered) nurse or licensed practical nurse as defined in chapter 18.79 RCW.
+
+2. [Empty]
+
+    a. A nursing assistant employed in a nursing home must have successfully obtained certification through: (i) An approved training program and the competency evaluation within a period of time determined in rule by the board; or (ii) alternative training and the competency evaluation prior to employment.
+
+    b. Certification is voluntary for nursing assistants working in health care facilities other than nursing homes unless otherwise required by state or federal law or regulation.
+
+3. The board may adopt rules to implement the provisions of this chapter.
+
+## Section 5033
+In addition to any other authority provided by law, the board may:
+
+1. Determine minimum nursing assistant education requirements and approve training programs;
+
+2. Approve education and training programs and examinations for medication assistants as provided in RCW 18.88A.082;
+
+3. Define the prescriber-ordered treatments a medication assistant is authorized to perform under RCW 18.88A.082;
+
+4. Prepare, grade, and administer, or determine the nature of, and supervise the grading and administration of, the competency evaluation for applicants for nursing assistant certification, using the same competency evaluation for all applicants, whether qualifying to take the competency evaluation under an approved training program or alternative training;
+
+5. Establish forms and procedures for evaluation of an applicant's alternative training under criteria adopted pursuant to RCW 18.88A.087;
+
+6. Define and approve any experience requirement for nursing assistant certification;
+
+7. Adopt rules implementing a continuing competency evaluation program for nursing assistants; and
+
+8. Adopt rules to enable it to carry into effect the provisions of this chapter.
+
+## Section 5034
+1. The secretary shall issue a registration to any applicant who pays any applicable fees and submits, on forms provided by the secretary, the applicant's name, address, and other information as determined by the secretary, provided there are no grounds for denial of registration or issuance of a conditional registration under this chapter or chapter 18.130 RCW.
+
+2. Applicants must file an application with the board for registration within three days of employment.
+
+## Section 5035
+1. Beginning July 1, 2013, the secretary shall issue a medication assistant endorsement to any nursing assistant-certified who meets the following requirements:
+
+    a. Ongoing certification as a nursing assistant-certified in good standing under this chapter;
+
+    b. Completion of a minimum number of hours of documented work experience as a nursing assistant-certified in a long-term care setting as defined in rule by the board;
+
+    c. Successful completion of an education and training program approved by the board by rule, such as the model medication assistant-certified curriculum adopted by the national council of state boards of nursing. The education and training program must include training on the specific tasks listed in subsection (2) of this section as well as training on identifying tasks that a medication assistant may not perform under subsection (4) of this section;
+
+    d. Passage of an examination approved by the board by rule, such as the medication aide competency examination available through the national council of state boards of nursing; and
+
+    e. Continuing competency requirements as defined in rule by the board.
+
+2. Subject to subsection (3) of this section, a medication assistant may perform the following additional tasks:
+
+    a. The administration of medications orally, topically, and through inhalation;
+
+    b. The performance of simple prescriber-ordered treatments, including blood glucose monitoring, noncomplex clean dressing changes, pulse oximetry reading, and oxygen administration, to be defined by the board by rule; and
+
+    c. The documentation of the tasks in this subsection (2) on applicable medication or treatment forms.
+
+3. A medication assistant may only perform the additional tasks in subsection (2) of this section:
+
+    a. In a nursing home;
+
+    b. Under the direct supervision of a designated registered nurse who is on-site and immediately accessible during the medication assistant's shift. The registered nurse shall assess the resident prior to the medication assistant administering medications or treatments and determine whether it is safe to administer the medications or treatments. The judgment and decision to administer medications or treatments is retained by the registered nurse; and
+
+    c. If, while functioning as a medication assistant, the primary responsibility of the medication assistant is performing the additional tasks. The board may adopt rules regarding the medication assistant's primary responsibilities and limiting the duties, within the scope of practice of a nursing assistant-certified, that a nursing assistant-certified may perform while functioning as a medication assistant.
+
+4. A medication assistant may not:
+
+    a. Accept telephone or verbal orders from a prescriber;
+
+    b. Calculate medication dosages;
+
+    c. Inject any medications;
+
+    d. Perform any sterile task;
+
+    e. Administer medications through a tube;
+
+    f. Administer any Schedule I, II, or III controlled substance; or
+
+    g. Perform any task that requires nursing judgment.
+
+5. Nothing in this section requires a nursing home to employ a nursing assistant-certified with a medication assistant endorsement.
+
+6. A medication assistant is responsible and accountable for his or her specific functions.
+
+7. A medication assistant's employer may limit or restrict the range of functions permitted under this section, but may not expand those functions.
+
+## Section 5036
+1. After January 1, 1990, the secretary shall issue a nursing assistant certificate to any applicant who demonstrates to the secretary's satisfaction that the following requirements have been met:
+
+    a. Successful completion of an approved training program or successful completion of alternative training meeting established criteria adopted by the board under RCW 18.88A.087; and
+
+    b. Successful completion of the competency evaluation.
+
+2. In addition, applicants shall be subject to the grounds for denial of certification under chapter 18.130 RCW.
+
+## Section 5037
+1. The board shall adopt criteria for evaluating an applicant's alternative training to determine the applicant's eligibility to take the competency evaluation for nursing assistant certification. At least one option adopted by the board must allow an applicant to take the competency evaluation if he or she:
+
+    a. [Empty]
+
+        i. Is a certified home care aide pursuant to chapter 18.88B RCW; or
+
+        ii. Is a certified medical assistant pursuant to a certification program accredited by a national medical assistant accreditation organization and approved by the board; and
+
+    b. Has successfully completed at least twenty-four hours of training that the board determines is necessary to provide training equivalent to approved training on topics not addressed in the training specified for certification as a home care aide or medical assistant, as applicable. In the board's discretion, a portion of these hours may include clinical training.
+
+2. [Empty]
+
+    a. The board, in consultation with the secretary, the department of social and health services, and consumer, employer, and worker representatives, shall adopt rules to implement this section and to provide for a program of credentialing reciprocity to the extent required by this section between home care aide and medical assistant certification and nursing assistant certification. The secretary shall also adopt such rules as may be necessary to implement this section and the credentialing reciprocity program.
+
+    b. Rules adopted under this section must be consistent with requirements under 42 U.S.C. Sec. 1395i-3(e) and (f) of the federal social security act relating to state-approved competency evaluation programs for certified nurse aides.
+
+3. The secretary, in consultation with the board, shall report annually by December 1st to the governor and the appropriate committees of the legislature on the progress made in achieving career advancement for certified home care aides and medical assistants into nursing practice.
+
+## Section 5038
+An applicant with military training or experience satisfies the training or experience requirements of this chapter unless the board determines that the military training or experience is not substantially equivalent to the standards of this state.
+
+## Section 5039
+1. The board shall examine each applicant, by a written or oral and a manual component of competency evaluation. The competency evaluation shall be limited to the purpose of determining whether the applicant possesses the minimum skill and knowledge necessary to practice competently.
+
+2. Any applicant failing to make the required grade in the first competency evaluation may take up to three subsequent competency evaluations as the applicant desires upon prepaying a fee determined by the secretary under RCW 43.70.250 for each subsequent competency evaluation. Upon failing four competency evaluations, the secretary may invalidate the original application and require such remedial education before the person may take future competency evaluations.
+
+The board may approve a competency evaluation prepared or administered by a private testing agency or association of licensing agencies for use by an applicant in meeting the credentialing requirements.
+
+## Section 5040
+The secretary shall waive the competency evaluation and certify a person to practice within the state of Washington if the board determines that the person meets commonly accepted standards of education and experience for the nursing assistants. This section applies only to those individuals who file an application for waiver by December 31, 1991.
+
+## Section 5041
+1. A nursing assistant meeting the requirements of this section who provides care to individuals in community-based care settings or in-home care settings, as defined in RCW 18.79.260(3), may accept delegation of nursing care tasks by a registered nurse as provided in RCW 18.79.260(3).
+
+2. For the purposes of this section, "nursing assistant" means a nursing assistant-registered or a nursing assistant-certified. Nothing in this section may be construed to affect the authority of nurses to delegate nursing tasks to other persons, including licensed practical nurses, as authorized by law.
+
+3. [Empty]
+
+    a. Before commencing any specific nursing care tasks authorized under this chapter, the nursing assistant must (i) provide to the delegating nurse a certificate of completion issued by the department of social and health services indicating the completion of basic core nurse delegation training, (ii) be regulated by the department of health pursuant to this chapter, subject to the uniform disciplinary act under chapter 18.130 RCW, and (iii) meet any additional training requirements identified by the board. Exceptions to these training requirements must adhere to RCW 18.79.260(3)(e) (vi).
+
+    b. In addition to meeting the requirements of (a) of this subsection, before commencing the care of individuals with diabetes that involves administration of insulin by injection, the nursing assistant must provide to the delegating nurse a certificate of completion issued by the department of social and health services indicating completion of specialized diabetes nurse delegation training. The training must include, but is not limited to, instruction regarding diabetes, insulin, sliding scale insulin orders, and proper injection procedures.
+
+## Section 5042
+1. The legislature recognizes that nurses have been successfully delegating nursing care tasks to family members and others for many years. The opportunity for a nurse to delegate nursing care tasks to home care aides certified under this chapter may enhance the viability and quality of health care services in community-based care settings and in-home care settings to allow individuals to live as independently as possible with maximum safeguards.
+
+2. [Empty]
+
+    a. A certified home care aide who wishes to perform a nurse delegated task pursuant to RCW 18.79.260 must complete nurse delegation core training under chapter 18.88A RCW before the home care aide may be delegated a nursing care task by a registered nurse delegator. Before administering insulin, a home care aide must also complete the specialized diabetes nurse delegation training under chapter 18.88A RCW. Before commencing any specific nursing care tasks authorized under RCW 18.79.260, the home care aide must:
+
+        i. Provide to the delegating nurse a transcript or certificate of successful completion of training issued by an approved instructor or approved training entity indicating the completion of basic core nurse delegation training; and
+
+        ii. Meet any additional training requirements mandated by the state board of nursing. Any exception to these training requirements is subject to RCW 18.79.260(3)(e)(vi).
+
+    b. In addition to meeting the requirements of (a) of this subsection, before providing delegated nursing care tasks that involve administration of insulin by injection to individuals with diabetes, the home care aide must provide to the delegating nurse a transcript or certificate of successful completion of training issued by an approved instructor or approved training entity indicating completion of specialized diabetes nurse delegation training. The training must include, but is not limited to, instruction regarding diabetes, insulin, sliding scale insulin orders, and proper injection procedures.
+
+3. The home care aide is accountable for his or her own individual actions in the delegation process. Home care aides accurately following written delegation instructions from a registered nurse are immune from liability regarding the performance of the delegated duties.
+
+4. Home care aides are not subject to any employer reprisal or disciplinary action by the secretary for refusing to accept delegation of a nursing care task based on his or her concerns about patient safety issues. No provider of a community-based care setting as defined in RCW 18.79.260, or in-home services agency as defined in RCW 70.127.010, may discriminate or retaliate in any manner against a person because the person made a complaint about the nurse delegation process or cooperated in the investigation of the complaint.
+
+## Section 5043
+1. Beginning July 1, 2014, a school district employee not licensed under chapter 18.79 RCW who is asked to administer medications or perform nursing services not previously recognized in law shall at the time he or she is asked to administer the medication or perform the nursing service file, without coercion by the employer, a voluntary written, current, and unexpired letter of intent stating the employee's willingness to administer the new medication or nursing service. It is understood that the letter of intent will expire if the conditions of acceptance are substantially changed. If a school employee who is not licensed under chapter 18.79 RCW chooses not to file a letter under this section, the employee is not subject to any employer reprisal or disciplinary action for refusing to file a letter.
+
+2. In the event a school employee provides the medication or service to a student in substantial compliance with (a) rules adopted by the state board of nursing and the instructions of a registered nurse or advanced registered nurse practitioner issued under such rules, and (b) written policies of the school district, then the employee, the employee's school district or school of employment, and the members of the governing board and chief administrator thereof are not liable in any criminal action or for civil damages in his or her individual, marital, governmental, corporate, or other capacity as a result of providing the medication or service.
+
+3. The board of directors shall designate a professional person licensed under chapter 18.71, 18.57, or 18.79 RCW as it applies to registered nurses and advanced registered nurse practitioners to consult and coordinate with the student's parents and health care provider, and train and supervise the appropriate school district personnel in proper procedures to ensure a safe, therapeutic learning environment. School employees must receive the training provided under this subsection before they are authorized to deliver the service or medication. Such training must be provided, where necessary, on an ongoing basis to ensure that the proper procedures are not forgotten because the services or medication are delivered infrequently.
+
+## Section 5044
+1. Public school districts and private schools that offer classes for any of grades kindergarten through twelve must provide for clean, intermittent bladder catheterization of students, or assisted self-catheterization of students pursuant to RCW 18.79.290. The catheterization must be provided in substantial compliance with:
+
+    a. Rules adopted by the state board of nursing and the instructions of a registered nurse or advanced registered nurse practitioner issued under such rules; and
+
+    b. Written policies of the school district or private school which shall be adopted in order to implement this section and shall be developed in accordance with such requirements of chapters 41.56 and 41.59 RCW as may be applicable.
+
+2. School district employees, except those licensed under chapter 18.79 RCW, who have not agreed in writing to perform clean, intermittent bladder catheterization as a specific part of their job description, may file a written letter of refusal to perform clean, intermittent bladder catheterization of students. This written letter of refusal may not serve as grounds for discharge, nonrenewal, or other action adversely affecting the employee's contract status.
+
+3. Any public school district or private school that provides clean, intermittent bladder catheterization shall document the provision of training given to employees who perform these services. These records shall be made available for review at any audit.
+
+## Section 5045
+1. In the event a school employee provides for the catheterization of a student pursuant to RCW 18.79.290 and 28A.210.280 in substantial compliance with (a) rules adopted by the state board of nursing and the instructions of a registered nurse or advanced registered nurse practitioner issued under such rules, and (b) written policies of the school district or private school, then the employee, the employee's school district or school of employment, and the members of the governing board and chief administrator thereof shall not be liable in any criminal action or for civil damages in their individual, marital, governmental, corporate, or other capacity as a result of providing for the catheterization.
+
+2. Providing for the catheterization of any student pursuant to RCW 18.79.290 and 28A.210.280 may be discontinued by a public school district or private school and the school district or school, its employees, its chief administrator, and members of its governing board shall not be liable in any criminal action or for civil damages in their individual, marital, governmental, corporate, or other capacity as a result of the discontinuance: PROVIDED, That the chief administrator of the public school district or private school, or his or her designee, has first provided actual notice orally or in writing in advance of the date of discontinuance to a parent or legal guardian of the student or other person having legal control over the student: PROVIDED FURTHER, That the public school district otherwise provides for the catheterization of the student to the extent required by federal or state law.
+
+## Section 5046
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+1. "Approved nursing program" means a nursing educational program that leads to a degree or licensure in nursing that is approved by the state board of nursing under RCW 18.79.070 and is located at an institution of higher education that is authorized to participate in state financial aid programs under chapter 28B.92 RCW.
+
+2. "Council" means the Washington state forensic investigations council created in chapter 43.103 RCW.
+
+3. "Credentialed health care profession" means a health care profession regulated by a disciplining authority in the state of Washington under RCW 18.130.040 or by the pharmacy quality assurance commission under chapter 18.64 RCW and designated by the department in RCW 28B.115.070 as a profession having shortages of credentialed health care professionals in the state.
+
+4. "Credentialed health care professional" means a person regulated by a disciplining authority in the state of Washington to practice a health care profession under RCW 18.130.040 or by the pharmacy quality assurance commission under chapter 18.64 RCW.
+
+5. "Department" means the state department of health.
+
+6. "Eligible education and training programs" means education and training programs approved by the department that lead to eligibility for a credential as a credentialed health care professional.
+
+7. "Eligible expenses" means reasonable expenses associated with the costs of acquiring an education such as tuition, books, equipment, fees, room and board, and other expenses determined by the office.
+
+8. "Eligible student" means a student who has been accepted into an eligible education or training program and has a declared intention to serve in a health professional shortage area upon completion of the education or training program.
+
+9. "Forgiven" or "to forgive" or "forgiveness" means to render health care services in a health professional shortage area, an underserved behavioral health area, or as a nurse educator in the state of Washington in lieu of monetary repayment.
+
+10. "Health professional shortage areas" means those areas where credentialed health care professionals are in short supply as a result of geographic maldistribution or as the result of a short supply of credentialed health care professionals in specialty health care areas and where vacancies exist in serious numbers that jeopardize patient care and pose a threat to the public health and safety. The department shall determine health professional shortage areas as provided for in RCW 28B.115.070. In making health professional shortage area designations in the state the department may be guided by applicable federal standards for "health manpower shortage areas," and "medically underserved areas," and "medically underserved populations."
+
+11. "Identified shortage areas" means those areas where qualified forensic pathologists are in short supply because of geographic maldistribution or where vacancies exist that may compromise death investigations. The council, with assistance from the department, shall determine shortage areas.
+
+12. "Loan repayment" means a loan that is paid in full or in part if the participant:
+
+    a. Renders health care services in a health professional shortage area or an underserved behavioral health area as defined by the department;
+
+    b. Teaches as a nurse educator for an approved nursing program; or
+
+    c. Renders services as a qualified board-certified forensic pathologist as determined by the department.
+
+13. "Nonshortage rural area" means a nonurban area of the state of Washington that has not been designated as a rural physician shortage area. The department shall identify the nonshortage rural areas of the state.
+
+14. "Nurse educator" means an individual with an advanced nursing degree beyond a bachelor's degree that teaches nursing curriculum and is a faculty member for an approved nursing program.
+
+15. "Office" means the office of student financial assistance.
+
+16. "Participant" means:
+
+    a. A credentialed health care professional who has received a loan repayment award and has commenced practice as a credentialed health care provider in a designated health professional shortage area or an underserved behavioral health area;
+
+    b. A nurse educator teaching in an approved nursing program;
+
+    c. An eligible student who has received a scholarship under this program; or
+
+    d. A board-certified forensic pathologist who has commenced working in or is committed to working in identified shortage areas in the state of Washington for the pathologist's required service obligation.
+
+17. "Required service obligation" means an obligation by the participant to:
+
+    a. Provide health care services in a health professional shortage area or an underserved behavioral health area for a period to be established as provided for in this chapter;
+
+    b. Teach as a nurse educator for a period to be established as provided for in this chapter; or
+
+    c. Provide services as a board-certified forensic pathologist in identified shortage areas as determined by the council.
+
+18. "Rural physician shortage area" means rural geographic areas where primary care physicians are in short supply as a result of geographic maldistributions and where their limited numbers jeopardize patient care and pose a threat to public health and safety. The department shall designate rural physician shortage areas.
+
+19. "Satisfied" means paid-in-full.
+
+20. "Scholarship" means a loan that is forgiven in whole or in part if the recipient renders health care services in a health professional shortage area or an underserved behavioral health area.
+
+21. "Sponsoring community" means a rural hospital or hospitals as authorized in chapter 70.41 RCW, a rural health care facility or facilities as authorized in chapter 70.175 RCW, or a city or county government or governments.
+
+22. "Underserved behavioral health area" means a geographic area, population, or facility that has a shortage of health care professionals providing behavioral health services, as determined by the department.
+
+## Section 5047
+Each health plan offered to public employees and their covered dependents under this chapter that is not subject to the provisions of Title 48 RCW and is established or renewed after January 1, 1990, and that provides benefits for hospital or medical care shall provide benefits for screening or diagnostic mammography services, provided that such services are delivered upon the recommendation of the patient's physician or advanced registered nurse practitioner as authorized by the state board of nursing pursuant to chapter 18.79 RCW or physician assistant pursuant to chapter 18.71A RCW.
+
+This section shall not be construed to prevent the application of standard health plan provisions applicable to other benefits such as deductible or copayment provisions. This section does not limit the authority of the state health care authority to negotiate rates and contract with specific providers for the delivery of mammography services. This section shall not apply to medicare supplement policies or supplemental contracts covering a specified disease or other limited benefits.
+
+## Section 5048
+Each disability insurance policy issued or renewed after January 1, 1990, that provides coverage for hospital or medical expenses shall provide coverage for screening or diagnostic mammography services, provided that such services are delivered upon the recommendation of the patient's physician or advanced registered nurse practitioner as authorized by the state board of nursing pursuant to chapter 18.79 RCW or physician assistant pursuant to chapter 18.71A RCW.
+
+This section shall not be construed to prevent the application of standard policy provisions, other than the cost-sharing prohibition provided in RCW 48.43.076, that are applicable to other benefits. This section does not limit the authority of an insurer to negotiate rates and contract with specific providers for the delivery of mammography services. This section shall not apply to medicare supplement policies or supplemental contracts covering a specified disease or other limited benefits.
+
+## Section 5049
+Each group disability insurance policy issued or renewed after January 1, 1990, that provides coverage for hospital or medical expenses shall provide coverage for screening or diagnostic mammography services, provided that such services are delivered upon the recommendation of the patient's physician or advanced registered nurse practitioner as authorized by the state board of nursing pursuant to chapter 18.79 RCW or physician assistant pursuant to chapter 18.71A RCW.
+
+This section shall not be construed to prevent the application of standard policy provisions, other than the cost-sharing prohibition provided in RCW 48.43.076, that are applicable to other benefits. This section does not limit the authority of an insurer to negotiate rates and contract with specific providers for the delivery of mammography services. This section shall not apply to medicare supplement policies or supplemental contracts covering a specified disease or other limited benefits.
+
+## Section 5050
+1. For purposes of this section:
+
+    a. "Health carrier" includes disability insurers regulated under chapter 48.20 or 48.21 RCW, health care services contractors regulated under chapter 48.44 RCW, plans operating under the health care authority under chapter 41.05 RCW, the basic health plan operating under chapter 70.47 RCW, the state health insurance pool operating under chapter 48.41 RCW, insuring entities regulated under this chapter, and health maintenance organizations regulated under chapter 48.46 RCW.
+
+    b. "Intermediary" means a person duly authorized to negotiate and execute provider contracts with health carriers on behalf of mental health care practitioners.
+
+    c. Consistent with their lawful scopes of practice, "mental health care practitioners" includes only the following: Any generally recognized medical specialty of practitioners licensed under chapter 18.57 or 18.71 RCW who provide mental health services, advanced practice psychiatric nurses as authorized by the state board of nursing under chapter 18.79 RCW, psychologists licensed under chapter 18.83 RCW, and mental health counselors, marriage and family therapists, and social workers licensed under chapter 18.225 RCW.
+
+    d. "Mental health services" means outpatient services.
+
+2. Consistent with federal and state law and rule, no contract between a mental health care practitioner and an intermediary or between a mental health care practitioner and a health carrier that is written, amended, or renewed after June 6, 1996, may contain a provision prohibiting a practitioner and an enrollee from agreeing to contract for services solely at the expense of the enrollee as follows:
+
+    a. On the exhaustion of the enrollee's mental health care coverage;
+
+    b. During an appeal or an adverse certification process;
+
+    c. When an enrollee's condition is excluded from coverage; or
+
+    d. For any other clinically appropriate reason at any time.
+
+3. If a mental health care practitioner provides services to an enrollee during an appeal or adverse certification process, the practitioner must provide to the enrollee written notification that the enrollee is responsible for payment of these services, unless the health carrier elects to pay for services provided.
+
+4. This section does not apply to a mental health care practitioner who is employed full time on the staff of a health carrier.
+
+## Section 5051
+Each health care service contract issued or renewed after January 1, 1990, that provides benefits for hospital or medical care shall provide benefits for screening or diagnostic mammography services, provided that such services are delivered upon the recommendation of the patient's physician or advanced registered nurse practitioner as authorized by the state board of nursing pursuant to chapter 18.79 RCW or physician assistant pursuant to chapter 18.71A RCW.
+
+This section shall not be construed to prevent the application of standard contract provisions, other than the cost-sharing prohibition provided in RCW 48.43.076, that are applicable to other benefits. This section does not limit the authority of a contractor to negotiate rates and contract with specific providers for the delivery of mammography services. This section shall not apply to medicare supplement policies or supplemental contracts covering a specified disease or other limited benefits.
+
+## Section 5052
+Each health maintenance agreement issued or renewed after January 1, 1990, that provides benefits for hospital or medical care shall provide benefits for screening or diagnostic mammography services, provided that such services are delivered upon the recommendation of the patient's physician or advanced registered nurse practitioner as authorized by the state board of nursing pursuant to chapter 18.79 RCW or physician assistant pursuant to chapter 18.71A RCW.
+
+All services must be provided by the health maintenance organization or rendered upon referral by the health maintenance organization. This section shall not be construed to prevent the application of standard agreement provisions, other than the cost-sharing prohibition provided in RCW 48.43.076, that are applicable to other benefits. This section does not limit the authority of a health maintenance organization to negotiate rates and contract with specific providers for the delivery of mammography services. This section shall not apply to medicare supplement policies or supplemental contracts covering a specified disease or other limited benefits.
+
+## Section 5053
+The definitions in this section apply throughout this chapter.
+
+1. "Commission" means the pharmacy quality assurance commission.
+
+2. "Controlled substance" means a drug, substance, or immediate precursor of such drug or substance, so designated under or pursuant to chapter 69.50 RCW, the uniform controlled substances act.
+
+3. "Deliver" or "delivery" means the actual, constructive, or attempted transfer from one person to another of a drug or device, whether or not there is an agency relationship.
+
+4. "Department" means the department of health.
+
+5. "Dispense" means the interpretation of a prescription or order for a drug, biological, or device and, pursuant to that prescription or order, the proper selection, measuring, compounding, labeling, or packaging necessary to prepare that prescription or order for delivery.
+
+6. "Distribute" means to deliver, other than by administering or dispensing, a legend drug.
+
+7. "Drug samples" means any federal food and drug administration approved controlled substance, legend drug, or products requiring prescriptions in this state, which is distributed at no charge to a practitioner by a manufacturer or a manufacturer's representative, exclusive of drugs under clinical investigations approved by the federal food and drug administration.
+
+8. "Legend drug" means any drug that is required by state law or by regulations of the commission to be dispensed on prescription only or is restricted to use by practitioners only.
+
+9. "Manufacturer" means a person or other entity engaged in the manufacture or distribution of drugs or devices, but does not include a manufacturer's representative.
+
+10. "Manufacturer's representative" means an agent or employee of a drug manufacturer who is authorized by the drug manufacturer to possess drug samples for the purpose of distribution in this state to appropriately authorized health care practitioners.
+
+11. "Person" means any individual, corporation, government or governmental subdivision or agency, business trust, estate, trust, partnership, association, or any other legal entity.
+
+12. "Practitioner" means a physician under chapter 18.71 RCW, an osteopathic physician or an osteopathic physician and surgeon under chapter 18.57 RCW, a dentist under chapter 18.32 RCW, a podiatric physician and surgeon under chapter 18.22 RCW, a veterinarian under chapter 18.92 RCW, a pharmacist under chapter 18.64 RCW, a commissioned medical or dental officer in the United States armed forces or the public health service in the discharge of his or her official duties, a duly licensed physician or dentist employed by the veterans administration in the discharge of his or her official duties, a registered nurse or advanced registered nurse practitioner under chapter 18.79 RCW when authorized to prescribe by the state board of nursing, or a physician assistant under chapter 18.71A RCW when authorized by the Washington medical commission.
+
+13. "Reasonable cause" means a state of facts found to exist that would warrant a reasonably intelligent and prudent person to believe that a person has violated state or federal drug laws or regulations.
+
+14. "Secretary" means the secretary of health or the secretary's designee.
+
+## Section 5054
+The board of naturopathy, the board of osteopathic medicine and surgery, the Washington medical commission, and the state board of nursing shall develop and approve continuing education programs related to the use of cannabis for medical purposes for the health care providers that they each regulate that are based upon practice guidelines that have been adopted by each entity.
+
+## Section 5055
+(1) Except as provided in subsection (3) of this section, prior to granting or renewing clinical privileges or association of any physician, physician assistant, or advanced registered nurse practitioner or hiring a physician, physician assistant, or advanced registered nurse practitioner who will provide clinical care under his or her license, a hospital or facility approved pursuant to this chapter shall request from the physician, physician assistant, or advanced registered nurse practitioner and the physician, physician assistant, or advanced registered nurse practitioner shall provide the following information:
+
+## Section 5056
+1. The department of social and health services shall review, in coordination with the department of health, the state board of nursing, adult family home providers, assisted living facility providers, in-home personal care providers, and long-term care consumers and advocates, training standards for providers, resident managers, and resident caregiving staff. The departments and the board shall submit to the appropriate committees of the house of representatives and the senate by December 1, 1998, specific recommendations on training standards and the delivery system, including necessary statutory changes and funding requirements. Any proposed enhancements shall be consistent with this section, shall take into account and not duplicate other training requirements applicable to adult family homes and staff, and shall be developed with the input of adult family home and resident representatives, health care professionals, and other vested interest groups. Training standards and the delivery system shall be relevant to the needs of residents served by the adult family home and recipients of long-term in-home personal care services and shall be sufficient to ensure that providers, resident managers, and caregiving staff have the skills and knowledge necessary to provide high quality, appropriate care.
+
+2. The recommendations on training standards and the delivery system developed under subsection (1) of this section shall be based on a review and consideration of the following: Quality of care; availability of training; affordability, including the training costs incurred by the department of social and health services and private providers; portability of existing training requirements; competency testing; practical and clinical coursework; methods of delivery of training; standards for management; uniform caregiving staff training; necessary enhancements for special needs populations; and resident rights training. Residents with special needs include, but are not limited to, residents with a diagnosis of mental illness, dementia, or developmental disability. Development of training recommendations for developmental disabilities services shall be coordinated with the study requirements in section 6, chapter 272, Laws of 1998.
+
+3. The department of social and health services shall report to the appropriate committees of the house of representatives and the senate by December 1, 1998, on the cost of implementing the proposed training standards for state-funded residents, and on the extent to which that cost is covered by existing state payment rates.
+
+## Section 5057
+1. The resident's attending or staff physician or authorized practitioner approved by the attending physician shall order all medications for the resident. The order may be oral or written and shall continue in effect until discontinued by a physician or other authorized prescriber, unless the order is specifically limited by time. An "authorized practitioner," as used in this section, is a registered nurse under chapter 18.79 RCW when authorized by the state board of nursing, a physician assistant under chapter 18.71A RCW when authorized by the Washington medical commission, or a pharmacist under chapter 18.64 RCW when authorized by the pharmacy quality assurance commission.
+
+2. An oral order shall be given only to a licensed nurse, pharmacist, or another physician. The oral order shall be recorded and physically or electronically signed immediately by the person receiving the order. The attending physician shall sign the record of the oral order in a manner consistent with good medical practice.
+
+3. A licensed nurse, pharmacist, or another physician receiving and recording an oral order may, if so authorized by the physician or authorized practitioner, communicate that order to a pharmacy on behalf of the physician or authorized practitioner. The order may be communicated verbally by telephone, by facsimile manually signed by the person receiving the order pursuant to subsection (2) of this section, or by electronic transmission pursuant to RCW 69.41.055. The communication of a resident's order to a pharmacy by a licensed nurse, pharmacist, or another physician acting at the prescriber's direction has the same force and effect as if communicated directly by the delegating physician or authorized practitioner. Nothing in this provision limits the authority of a licensed nurse, pharmacist, or physician to delegate to an authorized agent, including but not limited to delegation of operation of a facsimile machine by credentialed facility staff, to the extent consistent with his or her professional license.
+
+## Section 5058
+1. It shall be the duty of the director to establish and administer a program of benefits to innocent victims of criminal acts within the terms and limitations of this chapter. The director may apply for and, subject to appropriation, expend federal funds under Public Law 98-473 and any other federal program providing financial assistance to state crime victim compensation programs. The federal funds shall be deposited in the state general fund and may be expended only for purposes authorized by applicable federal law.
+
+2. The director shall:
+
+    a. Establish and adopt rules governing the administration of this chapter in accordance with chapter 34.05 RCW;
+
+    b. Regulate the proof of accident and extent thereof, the proof of death, and the proof of relationship and the extent of dependency;
+
+    c. Supervise the medical, surgical, and hospital treatment to the intent that it may be in all cases efficient and up to the recognized standard of modern surgery;
+
+    d. Issue proper receipts for moneys received and certificates for benefits accrued or accruing;
+
+    e. Designate a medical director who is licensed under chapter 18.57 or 18.71 RCW;
+
+    f. Supervise the providing of prompt and efficient care and treatment, including care provided by physician assistants governed by the provisions of chapter 18.71A RCW, including chiropractic care, and including care provided by licensed advanced practice registered nurses, to victims at the least cost consistent with promptness and efficiency, without discrimination or favoritism, and with as great uniformity as the various and diverse surrounding circumstances and locations of industries will permit and to that end shall, from time to time, establish and adopt and supervise the administration of printed forms, electronic communications, rules, regulations, and practices for the furnishing of such care and treatment. The medical coverage decisions of the department do not constitute a "rule" as used in RCW 34.05.010(16), nor are such decisions subject to the rule‑making provisions of chapter 34.05 RCW except that criteria for establishing medical coverage decisions shall be adopted by rule. The department may recommend to a victim particular health care services and providers where specialized treatment is indicated or where cost-effective payment levels or rates are obtained by the department, and the department may enter into contracts for goods and services including, but not limited to, durable medical equipment so long as statewide access to quality service is maintained for injured victims;
+
+    g. In consultation with interested persons, establish and, in his or her discretion, periodically change as may be necessary, and make available a fee schedule of the maximum charges to be made by any physician, surgeon, chiropractor, hospital, druggist, licensed advanced practice registered nurse, physician assistants as defined in chapter 18.71A RCW, acting under the supervision of or in coordination with a participating physician, as defined in RCW 18.71A.010, or other agency or person rendering services to victims. The department shall coordinate with other state purchasers of health care services to establish as much consistency and uniformity in billing and coding practices as possible, taking into account the unique requirements and differences between programs. No service covered under this title, including services provided to victims, whether aliens or other victims, who are not residing in the United States at the time of receiving the services, shall be charged or paid at a rate or rates exceeding those specified in such fee schedule, and no contract providing for greater fees shall be valid as to the excess. The establishment of such a schedule, exclusive of conversion factors, does not constitute "agency action" as used in RCW 34.05.010(3), nor does such a fee schedule constitute a "rule" as used in RCW 34.05.010(16). Payments for providers' services under the fee schedule established pursuant to this subsection (2) may not be less than payments provided for comparable services under the workers' compensation program under Title 51 RCW, provided:
+
+        i. If the department, using caseload estimates, projects a deficit in funding for the program by July 15th for the following fiscal year, the director shall notify the governor and the appropriate committees of the legislature and request funding sufficient to continue payments to not less than payments provided for comparable services under the workers' compensation program. If sufficient funding is not provided to continue payments to not less than payments provided for comparable services under the workers' compensation program, the director shall reduce the payments under the fee schedule for the following fiscal year based on caseload estimates and available funding, except payments may not be reduced to less than seventy percent of payments for comparable services under the workers' compensation program;
+
+        ii. If an unforeseeable catastrophic event results in insufficient funding to continue payments to not less than payments provided for comparable services under the workers' compensation program, the director shall reduce the payments under the fee schedule to not less than seventy percent of payments provided for comparable services under the workers' compensation program, provided that the reduction may not be more than necessary to fund benefits under the program; and
+
+        iii. Once sufficient funding is provided or otherwise available, the director shall increase the payments under the fee schedule to not less than payments provided for comparable services under the workers' compensation program;
+
+    h. Make a record of the commencement of every disability and the termination thereof and, when bills are rendered for the care and treatment of injured victims, shall approve and pay those which conform to the adopted rules, regulations, established fee schedules, and practices of the director and may reject any bill or item thereof incurred in violation of the principles laid down in this section or the rules, regulations, or the established fee schedules and rules and regulations adopted under it.
+
+3. The director and his or her authorized assistants:
+
+    a. Have power to issue subpoenas to enforce the attendance and testimony of witnesses and the production and examination of books, papers, photographs, tapes, and records before the department in connection with any claim made to the department or any billing submitted to the department. The superior court has the power to enforce any such subpoena by proper proceedings;
+
+    b. [Empty]
+
+        i. May apply for and obtain a superior court order approving and authorizing a subpoena in advance of its issuance. The application may be made in the county where the subpoenaed person resides or is found, or the county where the subpoenaed records or documents are located, or in Thurston county. The application must (A) state that an order is sought pursuant to this subsection; (B) adequately specify the records, documents, or testimony; and (C) declare under oath that an investigation is being conducted for a lawfully authorized purpose related to an investigation within the department's authority and that the subpoenaed documents or testimony are reasonably related to an investigation within the department's authority.
+
+        ii. Where the application under this subsection (3)(b) is made to the satisfaction of the court, the court must issue an order approving the subpoena. An order under this subsection constitutes authority of law for the agency to subpoena the records or testimony.
+
+        iii. The director and his or her authorized assistants may seek approval and a court may issue an order under this subsection without prior notice to any person, including the person to whom the subpoena is directed and the person who is the subject of an investigation.
+
+4. In all hearings, actions, or proceedings before the department, any physician or licensed advanced practice registered nurse having theretofore examined or treated the claimant may be required to testify fully regarding such examination or treatment, and shall not be exempt from so testifying by reason of the relation of the physician or licensed advanced practice registered nurse to the patient.
+
+## Section 5059
+Where death results from injury the parties eligible for compensation under this chapter, or someone in their behalf, shall make application for the same to the department, which application must be accompanied with proof of death and proof of relationship showing the parties to be eligible for compensation under this chapter, certificates of attending physician or licensed advanced practice registered nurse, if any, and such proof as required by the rules of the department.
+
+## Section 5060
+1. When the injury to any victim is so serious as to require the victim being taken from the place of injury to a place of treatment, reasonable transportation costs to and from the nearest place of proper treatment to a reasonable location of the victim's choice shall be reimbursed by the department as part of the victim's total claim under RCW 7.68.070(1).
+
+2. In the case of alleged rape or molestation of a child, the reasonable costs of a colposcopy examination shall be reimbursed by the department. Costs for a colposcopy examination given under this subsection shall not be included as part of the victim's total claim under RCW 7.68.070(1).
+
+3. The director shall adopt rules for fees and charges for hospital, clinic, medical, and other health care services, including fees and costs for durable medical equipment, eyeglasses, hearing aids, and other medically necessary devices for crime victims under this chapter. The director shall set these service levels and fees at a level no lower than those established for comparable services under the workers' compensation program under Title 51 RCW, except the director shall comply with the requirements of RCW 7.68.030(2)(g) (i) through (iii) when setting service levels and fees, including reducing levels and fees when required. In establishing fees for medical and other health care services, the director shall consider the director's duty to purchase health care in a prudent, cost-effective manner. The director shall establish rules adopted in accordance with chapter 34.05 RCW. Nothing in this chapter may be construed to require the payment of interest on any billing, fee, or charge.
+
+4. Whenever the director deems it necessary in order to resolve any medical issue, a victim shall submit to examination by a physician or physicians selected by the director, with the rendition of a report to the person ordering the examination. The department shall provide the physician performing an examination with all relevant medical records from the victim's claim file. The director, in his or her discretion, may charge the cost of such examination or examinations to the crime victims' compensation fund. If the examination is paid for by the victim, then the cost of said examination shall be reimbursed to the victim for reasonable costs connected with the examination as part of the victim's total claim under RCW 7.68.070(1).
+
+5. Victims of sexual assault are eligible to receive appropriate counseling. Fees for such counseling shall be determined by the department. Counseling services may include, if determined appropriate by the department, counseling of members of the victim's immediate family, other than the perpetrator of the assault.
+
+6. [Empty]
+
+    a. Immediate family members of a homicide victim may receive appropriate counseling to assist in dealing with the immediate, near‑term consequences of the related effects of the homicide. Except as provided in (b) of this subsection, up to 12 counseling sessions may be received after the crime victim's claim has been allowed. Fees for counseling shall be determined by the department in accordance with and subject to this section. Payment of counseling benefits under this section may not be provided to the perpetrator of the homicide. The benefits under this subsection may be provided only with respect to homicides committed on or after July 1, 1992.
+
+    b. The immediate family members of a homicide victim may receive more than 12 counseling sessions under this subsection (6) if a licensed mental health provider determines that:
+
+        i. Additional sessions are needed as a direct result of the near-term consequences of the related effects of the homicide; and
+
+        ii. The recipient of the counseling would benefit from additional sessions.
+
+7. Pursuant to RCW 7.68.070(13), a victim of a sex offense that occurred outside of Washington may be eligible to receive mental health counseling related to participation in proceedings to civilly commit a perpetrator.
+
+8. The crime victims' compensation program shall consider payment of benefits solely for the effects of the criminal act.
+
+9. The legislature finds and declares it to be in the public interest of the state of Washington that a proper regulatory and inspection program be instituted in connection with the provision of any services provided to crime victims pursuant to this chapter. In order to effectively accomplish such purpose and to assure that the victim receives such services as are paid for by the state of Washington, the acceptance by the victim of such services, and the request by a provider of services for reimbursement for providing such services, shall authorize the director of the department or the director's authorized representative to inspect and audit all records in connection with the provision of such services. In the conduct of such audits or investigations, the director or the director's authorized representatives may:
+
+    a. Examine all records, or portions thereof, including patient records, for which services were rendered by a health care provider and reimbursed by the department, notwithstanding the provisions of any other statute which may make or purport to make such records privileged or confidential, except that no original patient records shall be removed from the premises of the health care provider, and that the disclosure of any records or information obtained under authority of this section by the department is prohibited and constitutes a violation of RCW 42.52.050, unless such disclosure is directly connected to the official duties of the department. The disclosure of patient information as required under this section shall not subject any physician, licensed advanced practice registered nurse, or other health care provider to any liability for breach of any confidential relationships between the provider and the patient. The director or the director's authorized representative shall destroy all copies of patient medical records in their possession upon completion of the audit, investigation, or proceedings;
+
+    b. Approve or deny applications to participate as a provider of services furnished to crime victims pursuant to this title;
+
+    c. Terminate or suspend eligibility to participate as a provider of services furnished to victims pursuant to this title; and
+
+    d. Pursue collection of unpaid overpayments and/or penalties plus interest accrued from health care providers pursuant to RCW 51.32.240(6).
+
+10. When contracting for health care services and equipment, the department, upon request of a contractor, shall keep confidential financial and valuable trade information, which shall be exempt from public inspection and copying under chapter 42.56 RCW.
+
+## Section 5061
+The state may not deny or interfere with a pregnant individual's right to choose to have an abortion prior to viability of the fetus, or to protect the pregnant individual's life or health.
+
+A physician, physician assistant, advanced practice registered nurse, or other health care provider acting within the provider's scope of practice may terminate and a health care provider may assist a physician, physician assistant, advanced practice registered nurse, or other health care provider acting within the provider's scope of practice in terminating a pregnancy as permitted by this section.
+
+## Section 5062
+The good faith judgment of a physician, physician assistant, advanced practice registered nurse, or other health care provider acting within the provider's scope of practice as to viability of the fetus or as to the risk to life or health of a pregnant individual and the good faith judgment of a health care provider as to the duration of pregnancy shall be a defense in any proceeding in which a violation of this chapter is an issue.
+
+## Section 5063
+For purposes of this chapter:
+
+## Section 5064
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+## Section 5065
+As used in this chapter:
+
+## Section 5066
+1. Conditional release planning should start at admission and proceed in coordination between the department and the person's managed care organization, or behavioral health administrative services organization if the person is not eligible for medical assistance under chapter 74.09 RCW. If needed, the department shall assist the person to enroll in medical assistance in suspense status under RCW 74.09.670. The state hospital liaison for the managed care organization or behavioral health administrative services organization shall facilitate conditional release planning in collaboration with the department.
+
+2. Less restrictive alternative treatment pursuant to a conditional release order, at a minimum, includes the following services:
+
+    a. Assignment of a care coordinator;
+
+    b. An intake evaluation with the provider of the conditional treatment;
+
+    c. A psychiatric evaluation or a substance use disorder evaluation, or both;
+
+    d. A schedule of regular contacts with the provider of the less restrictive alternative treatment services for the duration of the order;
+
+    e. A transition plan addressing access to continued services at the expiration of the order;
+
+    f. An individual crisis plan;
+
+    g. Consultation about the formation of a mental health advance directive under chapter 71.32 RCW;
+
+    h. Appointment of a transition team under RCW 10.77.150; and
+
+        i. Notification to the care coordinator assigned in (a) of this subsection and to the transition team as provided in RCW 10.77.150 if reasonable efforts to engage the client fail to produce substantial compliance with court-ordered treatment conditions.
+
+3. Less restrictive alternative treatment pursuant to a conditional release order may additionally include requirements to participate in the following services:
+
+    a. Medication management;
+
+    b. Psychotherapy;
+
+    c. Nursing;
+
+    d. Substance use disorder counseling;
+
+    e. Residential treatment;
+
+    f. Partial hospitalization;
+
+    g. Intensive outpatient treatment;
+
+    h. Support for housing, benefits, education, and employment; and
+
+        i. Periodic court review.
+
+4. Nothing in this section prohibits items in subsection (2) of this section from beginning before the conditional release of the individual.
+
+5. If the person was provided with involuntary medication under RCW 10.77.094 or pursuant to a judicial order during the involuntary commitment period, the less restrictive alternative treatment pursuant to the conditional release order may authorize the less restrictive alternative treatment provider or its designee to administer involuntary antipsychotic medication to the person if the provider has attempted and failed to obtain the informed consent of the person and there is a concurring medical opinion approving the medication by a psychiatrist, physician assistant working with a psychiatrist who is acting as a participating physician as defined in RCW 18.71A.010, psychiatric advanced practice registered nurse, or physician or physician assistant in consultation with an independent mental health professional with prescribing authority.
+
+6. Less restrictive alternative treatment pursuant to a conditional release order must be administered by a provider that is certified or licensed to provide or coordinate the full scope of services required under the less restrictive alternative order and that has agreed to assume this responsibility.
+
+7. The care coordinator assigned to a person ordered to less restrictive alternative treatment pursuant to a conditional release order must submit an individualized plan for the person's treatment services to the court that entered the order. An initial plan must be submitted as soon as possible following the intake evaluation and a revised plan must be submitted upon any subsequent modification in which a type of service is removed from or added to the treatment plan.
+
+8. A care coordinator may disclose information and records related to mental health treatment under RCW 70.02.230(2)(k) for purposes of implementing less restrictive alternative treatment pursuant to a conditional release order.
+
+9. For the purpose of this section, "care coordinator" means a representative from the department of social and health services who coordinates the activities of less restrictive alternative treatment pursuant to a conditional release order. The care coordinator coordinates activities with the person's transition team that are necessary for enforcement and continuation of the conditional release order and is responsible for coordinating service activities with other agencies and establishing and maintaining a therapeutic relationship with the individual on a continuing basis.
+
+## Section 5067
+1. On receipt of a petition under RCW 11.130.270 and at the time the court appoints a court visitor under RCW 11.130.280, the court shall order a professional evaluation of the respondent.
+
+2. The respondent must be examined by a physician licensed to practice under chapter 18.71 or 18.57 RCW, psychologist licensed under chapter 18.83 RCW, advanced practice registered nurse licensed under chapter 18.79 RCW, or physician assistant licensed under chapter 18.71A RCW selected by the court visitor who is qualified to evaluate the respondent's alleged cognitive and functional abilities and limitations and will not be advantaged or disadvantaged by a decision to grant the petition or otherwise have a conflict of interest. If the respondent opposes the professional selected by the court visitor, the court visitor shall obtain a professional evaluation from the professional selected by the respondent. The court visitor, after receiving a professional evaluation from the individual selected by the respondent, may obtain a supplemental evaluation from a different professional.
+
+3. The individual conducting the evaluation shall provide the completed evaluation report to the court visitor within thirty days of the examination of the respondent. The court visitor shall file the report in a sealed record with the court. Unless otherwise directed by the court, the report must contain:
+
+    a. The professional's name, address, education, and experience;
+
+    b. A description of the nature, type, and extent of the respondent's cognitive and functional abilities and limitations;
+
+    c. An evaluation of the respondent's mental and physical condition and, if appropriate, educational potential, adaptive behavior, and social skills;
+
+    d. A prognosis for improvement and recommendation for the appropriate treatment, support, or habilitation plan;
+
+    e. A description of the respondent's current medications, and the effect of the medications on the respondent's cognitive and functional abilities;
+
+    f. Identification or persons with whom the professional has met or spoken with regarding the respondent; and
+
+    g. The date of the examination on which the report is based.
+
+4. If the respondent declines to participate in an evaluation ordered under subsection (1) of this section, the court may proceed with the hearing under RCW 11.130.275 if the court finds that it has sufficient information to determine the respondent's needs and abilities without the professional evaluation.
+
+## Section 5068
+1. On receipt of a petition under RCW 11.130.360 and at the time the court appoints a court visitor under RCW 11.130.380, the court shall order a professional evaluation of the respondent.
+
+2. The respondent must be examined by a physician licensed to practice under chapter 18.71 or 18.57 RCW, psychologist licensed under chapter 18.83 RCW, advanced practice registered nurse licensed under chapter 18.79 RCW, or physician assistant licensed under chapter 18.71A RCW, selected by the court visitor who is qualified to evaluate the respondent's alleged cognitive and functional abilities and limitations and will not be advantaged or disadvantaged by a decision to grant the petition or otherwise have a conflict of interest. If the respondent opposes the professional selected by the court visitor, the court visitor shall obtain a professional evaluation from the professional selected by the respondent. The court visitor, after receiving a professional evaluation from the individual selected by the respondent, may obtain a supplemental evaluation from a different professional.
+
+3. The individual conducting the evaluation shall promptly provide the completed evaluation report to the court visitor who shall file the report in a sealed record with the court. Unless otherwise directed by the court, the report must contain:
+
+    a. The professional's name, address, education, and experience;
+
+    b. A description of the nature, type, and extent of the respondent's cognitive and functional abilities and limitations with regard to the management of the respondent's property and financial affairs;
+
+    c. An evaluation of the respondent's mental and physical condition and, if appropriate, educational potential, adaptive behavior, and social skills;
+
+    d. A prognosis for improvement with regard to the ability to manage the respondent's property and financial affairs;
+
+    e. A description of the respondent's current medications, and the effect of the medications on the respondent's cognitive and functional abilities;
+
+    f. Identification or persons with whom the professional has met or spoken with regarding the respondent; and
+
+    g. The date of the examination on which the report is based.
+
+4. If the respondent declines to participate in an evaluation ordered under subsection (1) of this section, the court may proceed with the hearing under RCW 11.130.370 if the court finds that it has sufficient information to determine the respondent's needs and abilities without the professional evaluation.
+
+5. A professional evaluation is not required if a petition for appointment of a conservator under RCW 11.130.360 is for a conservator for the property or financial affairs of a minor or for an adult missing, detained, or unable to return to the United States.
+
+## Section 5069
+1. On receipt of a petition under RCW 11.130.595 and at the time the court appoints a court visitor under RCW 11.130.605, the court shall order a professional evaluation of the respondent.
+
+2. The respondent must be examined by a physician licensed to practice under chapter 18.71 or 18.57 RCW, psychologist licensed under chapter 18.83 RCW, advanced practice registered nurse licensed under chapter 18.79 RCW, or physician assistant licensed under chapter 18.71A RCW selected by the court visitor who is qualified to evaluate the respondent's alleged cognitive and functional abilities and limitations and will not be advantaged or disadvantaged by a decision to grant the petition or otherwise have a conflict of interest. If the respondent opposes the professional selected by the court visitor, the court visitor shall obtain a professional evaluation from the professional selected by the respondent. The court visitor, after receiving a professional evaluation from the individual selected by the respondent, may obtain a supplemental evaluation from a different professional.
+
+3. The individual conducting the evaluation shall provide the completed evaluation report to the court visitor within thirty days of the examination of the respondent. The court visitor shall file the report in a sealed record with the court. Unless otherwise directed by the court, the report must contain:
+
+    a. The professional's name, address, education, and experience;
+
+    b. A description of the nature, type, and extent of the respondent's cognitive and functional abilities and limitations;
+
+    c. An evaluation of the respondent's mental and physical condition and, if appropriate, education potential, adaptive behavior, and social skills;
+
+    d. A prognosis for improvement and recommendation for the appropriate treatment, support, or habilitation plan;
+
+    e. A description of the respondent's current medications, and the effect of the medications on the respondent's cognitive and functional abilities;
+
+    f. Identification or persons with whom the professional has met or spoken with regarding the respondent; and
+
+    g. The date of the examination on which the report is based.
+
+4. If the respondent declines to participate in an evaluation ordered under subsection (1) of this section, the court may proceed with the hearing under RCW 11.130.600 if the court finds that it has sufficient information to determine the respondent's needs and abilities without the professional evaluation.
+
+## Section 5070
+1. [Empty]
+
+    a. Prior to July 1, 2005, (i) a cosmetology licensee who held a license in good standing between June 30, 1999, and June 30, 2003, may request a renewal of the license or an additional license in barbering, manicuring, and/or esthetics; and (ii) a licensee who held a barber, manicurist, or esthetics license between June 30, 1999, and June 30, 2003, may request a renewal of such licenses held during that period.
+
+    b. A license renewal fee, including, if applicable, a renewal fee, at the current rate, for each year the licensee did not hold a license in good standing between July 1, 2001, and the date of the renewal request, must be paid prior to issuance of each type of license requested. After June 30, 2005, any cosmetology licensee wishing to renew an expired license or obtain additional licenses must meet the applicable renewal, training, and examination requirements of this chapter.
+
+2. [Empty]
+
+    a. Any person holding an active license in good standing as an esthetician prior to January 1, 2015, may be licensed as an esthetician licensee after paying the appropriate license fee.
+
+    b. Prior to January 1, 2015, an applicant for a master esthetician license must have an active license in good standing as an esthetician, pay the appropriate license fee, and provide the department with proof of having satisfied one or more of the following requirements:
+
+        i.(A)(I) A minimum of thirty-five hours employment as a provider of medium depth peels under the delegation or supervision of a licensed physician, advanced practice registered nurse, or physician assistant, or other licensed professional whose licensure permits such delegation or supervision; or
+
+(II) Seven hours of training in theory and application of medium depth peels; and
+
+(B)(I) A minimum of one hundred fifty hours employment as a laser operator under the delegation or supervision of a licensed physician, advanced practice registered nurse, or physician assistant, or other licensed professional whose licensure permits such delegation or supervision; or
+
+(II) Seventy-five hours of laser training;
+
+        ii. A national or international diploma or certification in esthetics that is recognized by the department by rule;
+
+        iii. An instructor in esthetics who has been licensed as an instructor in esthetics by the department for a minimum of three years; or
+
+        iv. Completion of one thousand two hundred hours of an esthetic curriculum approved by the department.
+
+3. The director may, as provided in RCW 43.24.140, modify the duration of any additional license granted under this section to make all licenses issued to a person expire on the same date.
+
+## Section 5071
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter:
+
+1. "Advanced practice registered nurse" means an advanced practice registered nurse licensed under chapter 18.79 RCW.
+
+2. "Department" means the department of health.
+
+3. "Secretary" means the secretary of health.
+
+4. "Midwife" means a midwife licensed under this chapter.
+
+5. "Naturopath" means a naturopath licensed under chapter 18.36A RCW.
+
+6. "Physician" means a physician licensed under chapter 18.57 or 18.71 RCW.
+
+7. "Physician assistant" means a physician assistant licensed under chapter 18.71A RCW.
+
+## Section 5072
+1. A midwife licensed under this chapter may obtain and administer prophylactic ophthalmic medication, postpartum oxytocic, vitamin K, Rho immune globulin (human), and local anesthetic and may administer such other drugs or medications as prescribed by a physician, an advanced practice registered nurse, a naturopath, or a physician assistant acting within the practitioner's scope of practice. A pharmacist who dispenses such drugs to a licensed midwife shall not be liable for any adverse reactions caused by any method of use by the midwife.
+
+2. A midwife licensed under this chapter who has been granted a limited prescriptive license extension by the secretary may prescribe, obtain, and administer:
+
+    a. Antibiotic, antiemetic, antiviral, antifungal, low-potency topical steroid, and antipruritic medications and therapies, and other medications and therapies as defined in the midwifery legend drugs and devices rule for the prevention and treatment of conditions that do not constitute a significant deviation from normal in pregnancy or postpartum; and
+
+    b. Hormonal and nonhormonal family planning methods.
+
+3. A midwife licensed under this chapter who has been granted an additional license extension to include medical devices and implants by the secretary may prescribe, obtain, and administer hormonal and nonhormonal family planning medical devices, as prescribed in rule.
+
+4. The secretary, after collaboration with representatives of the midwifery advisory committee, the pharmacy quality assurance commission, and the Washington medical commission, may adopt rules that authorize licensed midwives to prescribe, obtain, and administer legend drugs and devices in addition to the drugs authorized in this chapter.
+
+## Section 5073
+Nothing in this chapter shall be construed to prohibit:
+
+1. Service in the case of emergency;
+
+2. The domestic administration of family remedies;
+
+3. The practice of midwifery as permitted under chapter 18.50 RCW;
+
+4. The practice of osteopathic medicine and surgery by any commissioned medical officer in the United States government or military service or by any osteopathic physician and surgeon employed by a federal agency, in the discharge of his or her official duties;
+
+5. Practice by a dentist licensed under chapter 18.32 RCW when engaged exclusively in the practice of dentistry;
+
+6. The consultation through telemedicine or other means by a practitioner, licensed by another state or territory in which he or she resides, with a practitioner licensed in this state who has responsibility for the diagnosis and treatment of the patient within this state;
+
+7. In-person practice by any osteopathic physician and surgeon from any other state or territory in which he or she resides: PROVIDED, That such practitioner shall not open an office or appoint a place of meeting patients or receive calls within the limits of this state;
+
+8. Practice by a person who is a student enrolled in an accredited school of osteopathic medicine and surgery approved by the board if:
+
+    a. The performance of such services is only pursuant to a course of instruction or assignments from his or her instructor or school, and such services are performed only under the supervision of a person licensed pursuant to this chapter or chapter 18.71 RCW; or
+
+    b. [Empty]
+
+        i. Such services are performed without compensation or expectation of compensation as part of a volunteer activity;
+
+        ii. The student is under the direct supervision and control of a pharmacist licensed under chapter 18.64 RCW, a physician licensed under chapter 18.71 RCW, an osteopathic physician and surgeon licensed under this chapter, or a registered nurse or advanced practice registered nurse licensed under chapter 18.79 RCW;
+
+        iii. The services the student performs are within the scope of practice of: (A) An osteopathic physician and surgeon licensed under this chapter; and (B) the person supervising the student;
+
+        iv. The school in which the student is enrolled verifies the student has demonstrated competency through his or her education and training to perform the services; and
+
+    v. The student provides proof of current malpractice insurance to the volunteer activity organizer prior to performing any services;
+
+9. Practice by an osteopathic physician and surgeon serving a period of clinical postgraduate medical training in a postgraduate program approved by the board: PROVIDED, That the performance of such services be only pursuant to a course of instruction in said program, and said services are performed only under the supervision and control of a person licensed pursuant to this chapter or chapter 18.71 RCW; or
+
+10. Practice by a person who is enrolled in a physician assistant program approved by the board who is performing such services only pursuant to a course of instruction in said program: PROVIDED, That such services are performed only under the supervision and control of a person licensed pursuant to this chapter or chapter 18.71 RCW.
+
+This chapter shall not be construed to apply in any manner to any other system or method of treating the sick or afflicted or to apply to or interfere in any way with the practice of religion or any kind of treatment by prayer.
+
+## Section 5074
+An occupational therapist shall, after evaluating a patient and if the case is a medical one, refer the case to a physician for appropriate medical direction if such direction is lacking. Treatment by an occupational therapist of such a medical case may take place only upon the referral of a physician, osteopathic physician, podiatric physician and surgeon, naturopath, chiropractor, physician assistant, psychologist, optometrist, or advanced practice registered nurse licensed to practice in this state.
+
+## Section 5075
+1. This chapter does not prohibit a student from practicing pharmacy if:
+
+    a. The student is enrolled in a college or school of pharmacy accredited by the commission and is registered as a pharmacy intern under RCW 18.64.080;
+
+    b. The student performs services without compensation or the expectation of compensation as part of a volunteer activity;
+
+    c. The student is under the direct supervision of a pharmacist licensed under this chapter, a physician licensed under chapter 18.71 RCW, an osteopathic physician and surgeon licensed under chapter 18.57 RCW, or a registered nurse or advanced practice registered nurse licensed under chapter 18.79 RCW;
+
+    d. The services the student performs are within the scope of practice of: (i) A pharmacist licensed under this chapter; and (ii) the person supervising the student;
+
+    e. The college or school in which the student is enrolled verifies that the student has demonstrated competency through his or her education and training to perform the services; and
+
+    f. The student provides proof of current malpractice insurance to the volunteer activity organizer prior to performing any services.
+
+2. The commission may adopt rules to implement the requirements of this section.
+
+## Section 5076
+1. A pharmacy or pharmacist may provide a limited quantity of drugs to a nursing home or hospice program without a prescription for emergency administration by authorized personnel of the facility or program pursuant to a valid prescription. The drugs so provided must be limited to those required to meet the immediate therapeutic needs of residents or patients and may not be available from another authorized source in sufficient time to prevent risk of harm by delay resulting from obtaining drugs from another source. Emergency kits must be secured in a locked room, container, or device to prevent unauthorized access and to ensure the proper environment for preservation of the drugs.
+
+2. In addition to or in connection with the emergency kit authorized under subsection (1) of this section, a nursing home that employs a unit dose drug distribution system may maintain a supplemental dose kit for supplemental nonemergency drug therapy. Supplemental dose kits must be secured in a locked room, container, or device to prevent unauthorized access, and to ensure the proper environment for preservation of the drugs. Administration of drugs from a supplemental dose kit must be under a valid prescription or chart order.
+
+3. The types and quantity of drugs appropriate to serve the resident or patient population of a nursing home or hospice program using an emergency kit or supplemental dose kit and procedures for the proper storage and security of drugs must be determined by a pharmaceutical services committee that includes a pharmacist licensed under this chapter, a physician licensed under chapter 18.71 RCW, an osteopathic physician licensed under chapter 18.57 RCW, or an advanced practice registered nurse licensed under chapter 18.79 RCW, and appropriate clinical or administrative personnel of the nursing home or hospice program as set forth in rules adopted by the pharmacy quality assurance commission.
+
+4. A registered nurse or licensed practical nurse operating under appropriate direction and supervision by a pharmacist may restock an emergency kit or supplemental dose kit to provide for safe and timely patient access.
+
+## Section 5077
+Nothing in this chapter shall be construed to apply to or interfere in any way with the practice of religion or any kind of treatment by prayer; nor shall anything in this chapter be construed to prohibit:
+
+1. The furnishing of medical assistance in cases of emergency requiring immediate attention;
+
+2. The domestic administration of family remedies;
+
+3. The administration of oral medication of any nature to students by public school district employees or private elementary or secondary school employees as provided for in chapter 28A.210 RCW;
+
+4. The practice of dentistry, osteopathic medicine and surgery, nursing, chiropractic, podiatric medicine and surgery, optometry, naturopathy, or any other healing art licensed under the methods or means permitted by such license;
+
+5. The practice of medicine in this state by any commissioned medical officer serving in the armed forces of the United States or public health service or any medical officer on duty with the United States veterans administration while such medical officer is engaged in the performance of the duties prescribed for him or her by the laws and regulations of the United States;
+
+6. The consultation through telemedicine or other means by a practitioner, licensed by another state or territory in which he or she resides, with a practitioner licensed in this state who has responsibility for the diagnosis and treatment of the patient within this state;
+
+7. The in-person practice of medicine by any practitioner licensed by another state or territory in which he or she resides, provided that such practitioner shall not open an office or appoint a place of meeting patients or receiving calls within this state;
+
+8. The practice of medicine by a person who is a regular student in a school of medicine approved and accredited by the commission if:
+
+    a. The performance of such services is only pursuant to a regular course of instruction or assignments from his or her instructor; or
+
+    b. Such services are performed only under the supervision and control of a person licensed pursuant to this chapter; or
+
+    c. [Empty]
+
+        i. Such services are performed without compensation or expectation of compensation as part of a volunteer activity;
+
+        ii. The student is under the direct supervision and control of a pharmacist licensed under chapter 18.64 RCW, an osteopathic physician and surgeon licensed under chapter 18.57 RCW, or a registered nurse or advanced practice registered nurse licensed under chapter 18.79 RCW;
+
+        iii. The services the student performs are within the scope of practice of: (A) A physician licensed under this chapter; and (B) the person supervising the student;
+
+        iv. The school in which the student is enrolled verifies the student has demonstrated competency through his or her education and training to perform the services; and
+
+    v. The student provides proof of current malpractice insurance to the volunteer activity organizer prior to performing any services;
+
+9. The practice of medicine by a person serving a period of postgraduate medical training in a program of clinical medical training sponsored by a college or university in this state or by a hospital accredited in this state, however, the performance of such services shall be only pursuant to his or her duties as a trainee;
+
+10. The practice of medicine by a person who is regularly enrolled in a physician assistant program approved by the commission, however, the performance of such services shall be only pursuant to a regular course of instruction in said program and such services are performed only under the supervision and control of a person licensed pursuant to this chapter;
+
+11. The practice of medicine by a licensed physician assistant which practice is performed under the supervision of or in collaboration with a physician licensed pursuant to this chapter;
+
+12. The practice of medicine, in any part of this state which shares a common border with Canada and which is surrounded on three sides by water, by a physician licensed to practice medicine and surgery in Canada or any province or territory thereof;
+
+13. The administration of nondental anesthesia by a dentist who has completed a residency in anesthesiology at a school of medicine approved by the commission, however, a dentist allowed to administer nondental anesthesia shall do so only under authorization of the patient's attending surgeon, obstetrician, or psychiatrist, and the commission has jurisdiction to discipline a dentist practicing under this exemption and enjoin or suspend such dentist from the practice of nondental anesthesia according to this chapter and chapter 18.130 RCW;
+
+14. Emergency lifesaving service rendered by a physician's trained advanced emergency medical technician and paramedic, as defined in RCW 18.71.200, if the emergency lifesaving service is rendered under the responsible supervision and control of a licensed physician;
+
+15. The provision of clean, intermittent bladder catheterization for students by public school district employees or private school employees as provided for in RCW 18.79.290 and 28A.210.280.
+
+## Section 5078
+1. Subject to the limitations of this section, a physical therapist may perform intramuscular needling only after being issued an intramuscular needling endorsement by the secretary. The secretary, upon approval by the board, shall issue an endorsement to a physical therapist who has at least one year of postgraduate practice experience that averages at least 36 hours a week and consists of direct patient care and who provides evidence in a manner acceptable to the board of a total of 325 hours of instruction and clinical experience that meet or exceed the following criteria:
+
+    a. A total of 100 hours of didactic instruction in the following areas:
+
+        i. Anatomy and physiology of the musculoskeletal and neuromuscular systems;
+
+        ii. Anatomical basis of pain mechanisms, chronic pain, and referred pain;
+
+        iii. Trigger point evaluation and management;
+
+        iv. Universal precautions in avoiding contact with a patient's bodily fluids; and
+
+    v. Preparedness and response to unexpected events including but not limited to injury to blood vessels, nerves, and organs, and psychological effects or complications.
+
+    b. A total of 75 hours of in-person intramuscular needling instruction in the following areas:
+
+        i. Intramuscular needling technique;
+
+        ii. Intramuscular needling indications and contraindications;
+
+        iii. Documentation and informed consent for intramuscular needling;
+
+        iv. Management of adverse effects;
+
+    v. Practical psychomotor competency; and
+
+    vi. Occupational safety and health administration's bloodborne pathogens protocol.
+
+    c. A successful clinical review of a minimum of 150 hours of at least 150 individual intramuscular needling treatment sessions by a qualified provider. A physical therapist seeking endorsement must submit an affidavit to the department demonstrating successful completion of this clinical review.
+
+2. A qualified provider must be one of the following:
+
+    a. A physician licensed under chapter 18.71 RCW; an osteopathic physician licensed under chapter 18.57 RCW; a licensed naturopath under chapter 18.36A RCW; a licensed acupuncture and Eastern medicine practitioner under chapter 18.06 RCW; or a licensed advanced practice registered nurse under chapter 18.79 RCW;
+
+    b. A physical therapist credentialed to perform intramuscular needling in any branch of the United States armed forces;
+
+    c. A licensed physical therapist who currently holds an intramuscular needling endorsement; or
+
+    d. A licensed physical therapist who meets the requirements of the intramuscular needling endorsement.
+
+3. After receiving 100 hours of didactic instruction and 75 hours of in-person intramuscular needling instruction, a physical therapist seeking endorsement has up to 18 months to complete a minimum of 150 treatment sessions for review.
+
+4. A physical therapist may not delegate intramuscular needling and must remain in constant attendance of the patient for the entirety of the procedure.
+
+5. A physical therapist can apply for endorsement before they have one year of clinical practice experience if they can meet the requirement of 100 hours of didactic instruction and 75 hours of in-person intramuscular needling instruction in subsection (1)(a)(i) and (ii) of this section through their prelicensure coursework and has completed all other requirements set forth in this chapter.
+
+6. If a physical therapist is intending to perform intramuscular needling on a patient who the physical therapist knows is being treated by an acupuncturist or acupuncture and Eastern medicine practitioner for the same diagnosis, the physical therapist shall make reasonable efforts to coordinate patient care with the acupuncturist or acupuncture and Eastern medicine practitioner to prevent conflict or duplication of services.
+
+7. All patients receiving intramuscular needling from a physical therapist must sign an informed consent form that includes:
+
+    a. The definition of intramuscular needling;
+
+    b. A description of the risks of intramuscular needling;
+
+    c. A description of the benefits of intramuscular needling;
+
+    d. A description of the potential side effects of intramuscular needling; and
+
+    e. A statement clearly differentiating the procedure from the practice of acupuncture.
+
+8. Intramuscular needling may not be administered as a stand-alone treatment within a physical therapy care plan.
+
+## Section 5079
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+1. "Department" means the department of health.
+
+2. "Direct supervision" means a health care practitioner is continuously on-site and physically present in the treatment operatory while the procedures are performed by the respiratory care practitioner.
+
+3. "Health care practitioner" means:
+
+    a. A physician licensed under chapter 18.71 RCW;
+
+    b. An osteopathic physician or surgeon licensed under chapter 18.57 RCW; or
+
+    c. Acting within the scope of their respective licensure, a podiatric physician and surgeon licensed under chapter 18.22 RCW, an advanced practice registered nurse licensed under chapter 18.79 RCW, a naturopath licensed under chapter 18.36A RCW, or a physician assistant licensed under chapter 18.71A RCW.
+
+4. "Respiratory care practitioner" means an individual licensed under this chapter.
+
+5. "Secretary" means the secretary of health or the secretary's designee.
+
+## Section 5080
+It is not professional misconduct for a physician licensed under chapter 18.71 RCW; osteopathic physician licensed under chapter 18.57 RCW; registered nurse, licensed practical nurse, or advanced practice registered nurse licensed under chapter 18.79 RCW; physician assistant licensed under chapter 18.71A RCW; advanced emergency medical technician or paramedic certified under chapter 18.71 RCW; or medical assistant-certified, medical assistant-phlebotomist, or forensic phlebotomist certified under chapter 18.360 RCW, or person holding another credential under Title 18 RCW whose scope of practice includes performing venous blood draws, or hospital, or duly licensed clinical laboratory employing or utilizing services of such licensed or certified health care provider, to collect a blood sample without a person's consent when the physician licensed under chapter 18.71 RCW; osteopathic physician licensed under chapter 18.57 RCW; registered nurse, licensed practical nurse, or advanced practice registered nurse licensed under chapter 18.79 RCW; physician assistant licensed under chapter 18.71A RCW; advanced emergency medical technician or paramedic certified under chapter 18.71 RCW; or medical assistant-certified, medical assistant-phlebotomist, or forensic phlebotomist certified under chapter 18.360 RCW, or person holding another credential under Title 18 RCW whose scope of practice includes performing venous blood draws, or hospital, or duly licensed clinical laboratory employing or utilizing services of such licensed or certified health care provider withdrawing blood was directed by a law enforcement officer to do so for the purpose of a blood test under the provisions of a search warrant or exigent circumstances: PROVIDED, That nothing in this section shall relieve a physician licensed under chapter 18.71 RCW; osteopathic physician licensed under chapter 18.57 RCW; registered nurse, licensed practical nurse, or advanced practice registered nurse licensed under chapter 18.79 RCW; physician assistant licensed under chapter 18.71A RCW; advanced emergency medical technician or paramedic certified under chapter 18.71 RCW; or medical assistant-certified, medical assistant-phlebotomist, or forensic phlebotomist certified under chapter 18.360 RCW, or person holding another credential under Title 18 RCW whose scope of practice includes performing venous blood draws, or hospital, or duly licensed clinical laboratory employing or utilizing services of such licensed or certified health care provider withdrawing blood from professional discipline arising from the use of improper procedures or from failing to exercise the required standard of care.
+
+## Section 5081
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Disciplining authority" means an entity to which a state has granted the authority to license, certify, or discipline individuals who provide health care.
+
+2. "Electronic" means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic, or similar capabilities.
+
+3. "Health care" means care, treatment, or a service or procedure, to maintain, monitor, diagnose, or otherwise affect an individual's physical or behavioral health, injury, or condition.
+
+4. [Empty]
+
+    a. "Health care practitioner" means:
+
+        i. A physician licensed under chapter 18.71 RCW;
+
+        ii. An osteopathic physician or surgeon licensed under chapter 18.57 RCW;
+
+        iii. A podiatric physician and surgeon licensed under chapter 18.22 RCW;
+
+        iv. An advanced practice registered nurse licensed under chapter 18.79 RCW;
+
+    v. A naturopath licensed under chapter 18.36A RCW;
+
+    vi. A physician assistant licensed under chapter 18.71A RCW; or
+
+    vii. A person who is otherwise authorized to practice a profession regulated under the authority of RCW 18.130.040 to provide health care in this state, to the extent the profession's scope of practice includes health care that can be provided through telehealth.
+
+    b. "Health care practitioner" does not include a veterinarian licensed under chapter 18.92 RCW.
+
+5. "Professional practice standard" includes:
+
+    a. A standard of care;
+
+    b. A standard of professional ethics; and
+
+    c. A practice requirement imposed by a disciplining authority.
+
+6. "Scope of practice" means the extent of a health care practitioner's authority to provide health care.
+
+7. "State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any other territory or possession subject to the jurisdiction of the United States. The term includes a federally recognized Indian tribe.
+
+8. "Telecommunication technology" means technology that supports communication through electronic means. The term is not limited to regulated technology or technology associated with a regulated industry.
+
+9. "Telehealth" includes telemedicine and means the use of synchronous or asynchronous telecommunication technology by a practitioner to provide health care to a patient at a different physical location than the practitioner. "Telehealth" does not include the use, in isolation, of email, instant messaging, text messaging, or fax.
+
+10. "Telehealth services" means health care provided through telehealth.
+
+## Section 5082
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Advanced social work" means the application of social work theory and methods, including:
+
+    a. Emotional and biopsychosocial assessment;
+
+    b. Psychotherapy under the supervision of a licensed independent clinical social worker, psychiatrist, psychologist, psychiatric advanced practice registered nurse, psychiatric nurse, or other mental health professionals as may be defined by rules adopted by the secretary;
+
+    c. Case management;
+
+    d. Consultation;
+
+    e. Advocacy;
+
+    f. Counseling; or
+
+    g. Community organization.
+
+2. "Applicant" means a person who completes the required application, pays the required fee, is at least eighteen years of age, and meets any background check requirements and uniform disciplinary act requirements.
+
+3. "Associate" means a prelicensure candidate who has a graduate degree in a mental health field under RCW 18.225.090 and is gaining the supervision and supervised experience necessary to become a licensed independent clinical social worker, a licensed advanced social worker, a licensed mental health counselor, or a licensed marriage and family therapist.
+
+4. "Committee" means the Washington state mental health counselors, marriage and family therapists, and social workers advisory committee.
+
+5. "Department" means the department of health.
+
+6. "Disciplining authority" means the department.
+
+7. "Independent clinical social work" means the diagnosis and treatment of emotional and mental disorders based on knowledge of human development, the causation and treatment of psychopathology, psychotherapeutic treatment practices, and social work practice as defined in advanced social work. Treatment modalities include but are not limited to diagnosis and treatment of individuals, couples, families, groups, or organizations.
+
+8. "Marriage and family therapy" means the diagnosis and treatment of mental and emotional disorders, whether cognitive, affective, or behavioral, within the context of relationships, including marriage and family systems. Marriage and family therapy involves the professional application of psychotherapeutic and family systems theories and techniques in the delivery of services to individuals, couples, and families for the purpose of treating such diagnosed nervous and mental disorders. The practice of marriage and family therapy means the rendering of professional marriage and family therapy services to individuals, couples, and families, singly or in groups, whether such services are offered directly to the general public or through organizations, either public or private, for a fee, monetary or otherwise.
+
+9. "Mental health counseling" means the application of principles of human development, learning theory, psychotherapy, group dynamics, and etiology of mental illness and dysfunctional behavior to individuals, couples, families, groups, and organizations, for the purpose of treatment of mental disorders and promoting optimal mental health and functionality. Mental health counseling also includes, but is not limited to, the assessment, diagnosis, and treatment of mental and emotional disorders, as well as the application of a wellness model of mental health.
+
+10. "Secretary" means the secretary of health or the secretary's designee.
+
+## Section 5083
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Athlete" means a person who participates in exercise, recreation, activities, sport, or games requiring physical strength, range‑of‑motion, flexibility, body awareness and control, speed, stamina, or agility, and the exercise, recreation, activities, sports, or games are of a type conducted for the benefits of health and wellness in association with an educational institution or professional, amateur, recreational sports club or organization, hospital, or industrial-based organization.
+
+2. "Athletic injury" means an injury or condition sustained by an athlete that affects the person's participation or performance in exercise, recreation, activities, sport, or games and the injury or condition is within the professional preparation and education of an athletic trainer.
+
+3. "Athletic trainer" means a health care provider who is licensed under this chapter. An athletic trainer can practice athletic training through the consultation, referral, or guidelines of a licensed health care provider as defined in subsection (7) of this section working within their scope of practice.
+
+4. [Empty]
+
+    a. "Athletic training" means the application of the following principles and methods as provided by a licensed athletic trainer:
+
+        i. Risk management and prevention of athletic injuries through preactivity screening and evaluation, educational programs, physical conditioning and reconditioning programs, application of commercial products, use of protective equipment, promotion of healthy behaviors, and reduction of environmental risks;
+
+        ii. Recognition, evaluation, and assessment of athletic injuries by obtaining a history of the athletic injury, inspection and palpation of the injured part and associated structures, and performance of specific testing techniques related to stability and function to determine the extent of an injury;
+
+        iii. Immediate care of athletic injuries, including emergency medical situations through the application of first‑aid and emergency procedures and techniques for nonlife-threatening or life‑threatening athletic injuries;
+
+        iv. Treatment, rehabilitation, and reconditioning of athletic injuries through the application of physical agents and modalities, therapeutic activities and exercise, standard reassessment techniques and procedures, commercial products, and educational programs, in accordance with guidelines established with a licensed health care provider as provided in RCW 18.250.070;
+
+    v. Treatment, rehabilitation, and reconditioning of work-related injuries through the application of physical agents and modalities, therapeutic activities and exercise, standard reassessment techniques and procedures, commercial products, and educational programs, under the direct supervision of and in accordance with a plan of care for an individual worker established by a provider authorized to provide physical medicine and rehabilitation services for injured workers; and
+
+    vi. Referral of an athlete to an appropriately licensed health care provider if the athletic injury requires further definitive care or the injury or condition is outside an athletic trainer's scope of practice, in accordance with RCW 18.250.070.
+
+    b. "Athletic training" does not include:
+
+        i. The use of spinal adjustment or manipulative mobilization of the spine and its immediate articulations;
+
+        ii. Orthotic or prosthetic services with the exception of evaluation, measurement, fitting, and adjustment of temporary, prefabricated or direct‑formed orthosis as defined in chapter 18.200 RCW;
+
+        iii. The practice of occupational therapy as defined in chapter 18.59 RCW;
+
+        iv. The practice of acupuncture and Eastern medicine as defined in chapter 18.06 RCW;
+
+    v. Any medical diagnosis; and
+
+    vi. Prescribing legend drugs or controlled substances, or surgery.
+
+5. "Committee" means the athletic training advisory committee.
+
+6. "Department" means the department of health.
+
+7. "Licensed health care provider" means a physician, physician assistant, osteopathic physician, advanced practice registered nurse, naturopath, physical therapist, chiropractor, dentist, massage therapist, acupuncturist, occupational therapist, or podiatric physician and surgeon.
+
+8. "Secretary" means the secretary of health or the secretary's designee.
+
+## Section 5084
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+## Section 5085
+1. Subject to amounts appropriated for this purpose, the psilocybin therapy services pilot program is established within, and administered by, the University of Washington department of psychiatry and behavioral sciences. No later than January 1, 2025, the University of Washington department of psychiatry and behavioral sciences must implement this section.
+
+2. The pilot program must:
+
+    a. Offer psilocybin therapy services through pathways approved by the federal food and drug administration, to populations including first responders and veterans who are:
+
+        i. 21 years of age or older; and
+
+        ii. Experiencing posttraumatic stress disorder, mood disorders, or substance use disorders;
+
+    b. Offer psilocybin therapy services facilitated by:
+
+        i. An advanced social worker, independent clinical social worker, or mental health counselor licensed under chapter 18.225 RCW;
+
+        ii. A physician licensed under chapter 18.71 RCW; or
+
+        iii. A psychiatric advanced practice registered nurse licensed under chapter 18.79 RCW as defined in RCW 71.05.020;
+
+    c. Ensure psilocybin therapy services are safe, accessible, and affordable;
+
+    d. Require an initial assessment to understand participant goals and expectations, and assess the participant's history for any concerns that require further intervention or information before receiving psilocybin therapy services, and an integration session after receiving psilocybin therapy services; and
+
+    e. Use outreach and engagement strategies to include participants from communities or demographic groups that are more likely to be historically marginalized and less likely to be included in research and clinical trials represented by race, sex, sexual orientation, socioeconomic status, age, or geographic location.
+
+## Section 5086
+1. Any child shall be exempt in whole or in part from the immunization measures required by RCW 28A.210.060 through 28A.210.170 upon the presentation of any one or more of the certifications required by this section, on a form prescribed by the department of health:
+
+    a. A written certification signed by a health care practitioner that a particular vaccine required by rule of the state board of health is, in his or her judgment, not advisable for the child: PROVIDED, That when it is determined that this particular vaccine is no longer contraindicated, the child will be required to have the vaccine;
+
+    b. A written certification signed by any parent or legal guardian of the child or any adult in loco parentis to the child that the religious beliefs of the signator are contrary to the required immunization measures; or
+
+    c. A written certification signed by any parent or legal guardian of the child or any adult in loco parentis to the child that the signator has either a philosophical or personal objection to the immunization of the child. A philosophical or personal objection may not be used to exempt a child from the measles, mumps, and rubella vaccine.
+
+2. [Empty]
+
+    a. The form presented on or after July 22, 2011, must include a statement to be signed by a health care practitioner stating that he or she provided the signator with information about the benefits and risks of immunization to the child. The form may be signed by a health care practitioner at any time prior to the enrollment of the child in a school or licensed day care. Photocopies of the signed form or a letter from the health care practitioner referencing the child's name shall be accepted in lieu of the original form.
+
+    b. A health care practitioner who, in good faith, signs the statement provided for in (a) of this subsection is immune from civil liability for providing the signature.
+
+    c. Any parent or legal guardian of the child or any adult in loco parentis to the child who exempts the child due to religious beliefs pursuant to subsection (1)(b) of this section is not required to have the form provided for in (a) of this subsection signed by a health care practitioner if the parent or legal guardian demonstrates membership in a religious body or a church in which the religious beliefs or teachings of the church preclude a health care practitioner from providing medical treatment to the child.
+
+3. For purposes of this section, "health care practitioner" means a physician licensed under chapter 18.71 or 18.57 RCW, a naturopath licensed under chapter 18.36A RCW, a physician assistant licensed under chapter 18.71A RCW, or an advanced practice registered nurse licensed under chapter 18.79 RCW.
+
+## Section 5087
+1. Beginning July 1, 2014, a school district employee not licensed under chapter 18.79 RCW who is asked to administer medications or perform nursing services not previously recognized in law shall at the time he or she is asked to administer the medication or perform the nursing service file, without coercion by the employer, a voluntary written, current, and unexpired letter of intent stating the employee's willingness to administer the new medication or nursing service. It is understood that the letter of intent will expire if the conditions of acceptance are substantially changed. If a school employee who is not licensed under chapter 18.79 RCW chooses not to file a letter under this section, the employee is not subject to any employer reprisal or disciplinary action for refusing to file a letter.
+
+2. In the event a school employee provides the medication or service to a student in substantial compliance with (a) rules adopted by the state board of nursing and the instructions of a registered nurse or advanced practice registered nurse issued under such rules, and (b) written policies of the school district, then the employee, the employee's school district or school of employment, and the members of the governing board and chief administrator thereof are not liable in any criminal action or for civil damages in his or her individual, marital, governmental, corporate, or other capacity as a result of providing the medication or service.
+
+3. The board of directors shall designate a professional person licensed under chapter 18.71, 18.57, or 18.79 RCW as it applies to registered nurses and advanced practice registered nurses to consult and coordinate with the student's parents and health care provider, and train and supervise the appropriate school district personnel in proper procedures to ensure a safe, therapeutic learning environment. School employees must receive the training provided under this subsection before they are authorized to deliver the service or medication. Such training must be provided, where necessary, on an ongoing basis to ensure that the proper procedures are not forgotten because the services or medication are delivered infrequently.
+
+## Section 5088
+1. Public school districts and private schools that offer classes for any of grades kindergarten through twelve must provide for clean, intermittent bladder catheterization of students, or assisted self-catheterization of students pursuant to RCW 18.79.290. The catheterization must be provided in substantial compliance with:
+
+    a. Rules adopted by the state board of nursing and the instructions of a registered nurse or advanced practice registered nurse issued under such rules; and
+
+    b. Written policies of the school district or private school which shall be adopted in order to implement this section and shall be developed in accordance with such requirements of chapters 41.56 and 41.59 RCW as may be applicable.
+
+2. School district employees, except those licensed under chapter 18.79 RCW, who have not agreed in writing to perform clean, intermittent bladder catheterization as a specific part of their job description, may file a written letter of refusal to perform clean, intermittent bladder catheterization of students. This written letter of refusal may not serve as grounds for discharge, nonrenewal, or other action adversely affecting the employee's contract status.
+
+3. Any public school district or private school that provides clean, intermittent bladder catheterization shall document the provision of training given to employees who perform these services. These records shall be made available for review at any audit.
+
+## Section 5089
+1. In the event a school employee provides for the catheterization of a student pursuant to RCW 18.79.290 and 28A.210.280 in substantial compliance with (a) rules adopted by the state board of nursing and the instructions of a registered nurse or advanced practice registered nurse issued under such rules, and (b) written policies of the school district or private school, then the employee, the employee's school district or school of employment, and the members of the governing board and chief administrator thereof shall not be liable in any criminal action or for civil damages in their individual, marital, governmental, corporate, or other capacity as a result of providing for the catheterization.
+
+2. Providing for the catheterization of any student pursuant to RCW 18.79.290 and 28A.210.280 may be discontinued by a public school district or private school and the school district or school, its employees, its chief administrator, and members of its governing board shall not be liable in any criminal action or for civil damages in their individual, marital, governmental, corporate, or other capacity as a result of the discontinuance: PROVIDED, That the chief administrator of the public school district or private school, or his or her designee, has first provided actual notice orally or in writing in advance of the date of discontinuance to a parent or legal guardian of the student or other person having legal control over the student: PROVIDED FURTHER, That the public school district otherwise provides for the catheterization of the student to the extent required by federal or state law.
+
+## Section 5090
+1. [Empty]
+
+    a. A registered nurse or an advanced practice registered nurse licensed under chapter 18.79 RCW working in a school setting is authorized and responsible for the nursing care of students to the extent that the care is within the practice of nursing as defined in this section.
+
+    b. A school administrator may supervise a registered nurse or an advanced practice registered nurse licensed under chapter 18.79 RCW in aspects of employment other than the practice of nursing as defined in this section.
+
+    c. Only a registered nurse or an advanced practice registered nurse licensed under chapter 18.79 RCW may supervise, direct, or evaluate a licensed nurse working in a school setting with respect to the practice of nursing as defined in this section.
+
+2. Nothing in this section:
+
+    a. Prohibits a nonnurse supervisor from supervising, directing, or evaluating a licensed nurse working in a school setting with respect to matters other than the practice of nursing;
+
+    b. Requires a registered nurse or an advanced practice registered nurse to be clinically supervised in a school setting; or
+
+    c. Prohibits a nonnurse supervisor from conferring with a licensed nurse working in a school setting with respect to the practice of nursing.
+
+3. Within existing funds, the superintendent of public instruction shall notify each school district in this state of the requirements of this section.
+
+4. For purposes of this section, "practice of nursing" means:
+
+    a. Registered nursing practice as defined in RCW 18.79.040, advanced practice registered nursing  as defined in RCW 18.79.050, and licensed practical nursing practice as defined in RCW 18.79.060, including, but not limited to:
+
+        i. The administration of medication pursuant to a medication or treatment order; and
+
+        ii. The decision to summon emergency medical assistance; and
+
+    b. Compliance with any state or federal statute or administrative rule specifically regulating licensed nurses, including any statute or rule defining or establishing standards of patient care or professional conduct or practice.
+
+## Section 5091
+1. Each plan offered to public employees and their covered dependents under this chapter that is not subject to the provisions of Title 48 RCW and is issued or renewed after December 31, 2006, shall provide coverage for prostate cancer screening, provided that the screening is delivered upon the recommendation of the patient's physician, advanced practice registered nurse, or physician assistant.
+
+2. This section shall not be construed to prevent the application of standard policy provisions applicable to other benefits, such as deductible or copayment provisions. This section does not limit the authority of the health care authority to negotiate rates and contract with specific providers for the delivery of prostate cancer screening services. This section shall not apply to medicare supplemental policies or supplemental contracts covering a specified disease or other limited benefits.
+
+## Section 5092
+Each health plan offered to public employees and their covered dependents under this chapter that is not subject to the provisions of Title 48 RCW and is established or renewed after January 1, 1990, and that provides benefits for hospital or medical care shall provide benefits for screening or diagnostic mammography services, provided that such services are delivered upon the recommendation of the patient's physician or advanced practice registered nurse as authorized by the state board of nursing pursuant to chapter 18.79 RCW or physician assistant pursuant to chapter 18.71A RCW.
+
+This section shall not be construed to prevent the application of standard health plan provisions applicable to other benefits such as deductible or copayment provisions. This section does not limit the authority of the state health care authority to negotiate rates and contract with specific providers for the delivery of mammography services. This section shall not apply to medicare supplement policies or supplemental contracts covering a specified disease or other limited benefits.
+
+## Section 5093
+1. One of the primary purposes of this section is to enable injured participants to return to their regular occupation, business, or profession, or to engage in any occupation or perform any work for compensation or profit. To this end, the state board shall utilize the services of individuals and organizations, public or private, whose experience, training, and interests in vocational rehabilitation and retraining qualify them to lend expert assistance to the state board in such programs of vocational rehabilitation as may be reasonable to make the participant return to his or her regular occupation, business, or profession, or to engage in any occupation or perform any work for compensation or profit consistent with his or her physical and mental status. After evaluation and recommendation by such individuals or organizations and prior to final evaluation of the participant's permanent disability, if in the sole opinion of the state board, whether or not medical treatment has been concluded, vocational rehabilitation is both necessary and likely to enable the injured participant to return to his or her regular occupation, business, or profession, or to engage in any occupation or perform any work for compensation or profit, the state board may, in its sole discretion, pay the cost as provided in subsection (3) or (4) of this section.
+
+2. When, in the sole discretion of the state board, vocational rehabilitation is both necessary and likely to make the participant return to his or her regular occupation, business, or profession, or to engage in any occupation or perform any work for compensation or profit, then the following order of priorities shall be used:
+
+    a. Return to the previous job with the same employer;
+
+    b. Modification of the previous job with the same employer including transitional return to work;
+
+    c. A new job with the same employer in keeping with any limitations or restrictions;
+
+    d. Modification of a new job with the same employer including transitional return to work;
+
+    e. Modification of the previous job with a new employer;
+
+    f. A new job with a new employer or self‑employment based upon transferable skills;
+
+    g. Modification of a new job with a new employer;
+
+    h. A new job with a new employer or self‑employment involving on‑the‑job training;
+
+        i. Short‑term retraining and job placement.
+
+3. [Empty]
+
+    a. Except as provided in (b) of this subsection, costs for vocational rehabilitation benefits allowed by the state board under subsection (1) of this section may include the cost of books, tuition, fees, supplies, equipment, transportation, child or dependent care, and other necessary expenses in an amount not to exceed four thousand dollars. This amount must be used within fifty-two weeks of the determination that vocational rehabilitation is permitted under this section.
+
+    b. The expenses allowed under (a) of this subsection may include training fees for on‑the‑job training and the cost of furnishing tools and other equipment necessary for self‑employment or reemployment. However, compensation or payment of retraining with job placement expenses under (a) of this subsection may not be authorized for a period of more than fifty‑two weeks, except that such period may, in the sole discretion of the state board, after its review, be extended for an additional fifty‑two weeks or portion thereof by written order of the state board. However, under no circumstances shall the total amount of benefit paid under this section exceed four thousand dollars.
+
+4. In addition to the vocational rehabilitation expenditures provided for under subsection (3) of this section, an additional five thousand dollars may, upon authorization of the state board, be expended for: (a) Accommodations for an injured participant that are medically necessary for participation in an approved retraining plan; and (b) accommodations necessary to perform the essential functions of an occupation in which an injured participant is seeking employment, consistent with the retraining plan or the recommendations of a vocational evaluation. The injured participant's attending physician or licensed advanced practice registered nurse must verify the necessity of the modifications or accommodations. The total expenditures authorized in this subsection shall not exceed five thousand dollars.
+
+5. The state board shall follow the established criteria set forth by the department of labor and industries to monitor the quality and effectiveness of rehabilitation services provided by the individuals and organizations used under subsection (1) of this section. The state board shall make referrals for vocational rehabilitation services based on these performance criteria.
+
+6. The state board may engage, where feasible and cost‑effective, in a cooperative program with the state employment security department to provide job placement services under this section.
+
+7. Except as otherwise provided in this section, the vocational benefits provided for in this section are available to participants who have claims currently pending as of April 17, 2007, or whose injury occurred on or after January 1, 2006.
+
+## Section 5094
+(1)(a) Each of the following professionals certified or licensed under Title 18 RCW shall, at least once every six years, complete training in suicide assessment, treatment, and management that is approved, in rule, by the relevant disciplining authority:
+
+## Section 5095
+The department may establish by rule the conditions of participation in the liability insurance program by retired health care providers at clinics utilizing retired health care providers for the purposes of this section and RCW 43.70.460. These conditions shall include, but not be limited to, the following:
+
+1. The participating health care provider associated with the clinic shall hold a valid license to practice as a physician under chapter 18.71 or 18.57 RCW, a naturopath under chapter 18.36A RCW, a physician assistant under chapter 18.71A RCW, an advanced practice registered nurse under chapter 18.79 RCW, a dentist under chapter 18.32 RCW, or other health professionals as may be deemed in short supply by the department. All health care providers must be in conformity with current requirements for licensure, including continuing education requirements;
+
+2. Health care shall be limited to noninvasive procedures and shall not include obstetrical care. Noninvasive procedures include injections, suturing of minor lacerations, and incisions of boils or superficial abscesses. Primary dental care shall be limited to diagnosis, oral hygiene, restoration, and extractions and shall not include orthodontia, or other specialized care and treatment;
+
+3. The provision of liability insurance coverage shall not extend to acts outside the scope of rendering health care services pursuant to this section and RCW 43.70.460;
+
+4. The participating health care provider shall limit the provision of health care services to primarily low-income persons provided that clinics may, but are not required to, provide means tests for eligibility as a condition for obtaining health care services;
+
+5. The participating health care provider shall not accept compensation for providing health care services from patients served pursuant to this section and RCW 43.70.460, nor from clinics serving these patients. "Compensation" shall mean any remuneration of value to the participating health care provider for services provided by the health care provider, but shall not be construed to include any nominal copayments charged by the clinic, nor reimbursement of related expenses of a participating health care provider authorized by the clinic in advance of being incurred; and
+
+6. The use of mediation or arbitration for resolving questions of potential liability may be used, however any mediation or arbitration agreement format shall be expressed in terms clear enough for a person with a sixth grade level of education to understand, and on a form no longer than one page in length.
+
+## Section 5096
+1. A natural person who has a disability that meets one of the following criteria may apply for special parking privileges:
+
+    a. Cannot walk two hundred feet without stopping to rest;
+
+    b. Is severely limited in ability to walk due to arthritic, neurological, or orthopedic condition;
+
+    c. Has such a severe disability that the person cannot walk without the use of or assistance from a brace, cane, another person, prosthetic device, wheelchair, or other assistive device;
+
+    d. Uses portable oxygen;
+
+    e. Is restricted by lung disease to an extent that forced expiratory respiratory volume, when measured by spirometry, is less than one liter per second or the arterial oxygen tension is less than sixty mm/hg on room air at rest;
+
+    f. Impairment by cardiovascular disease or cardiac condition to the extent that the person's functional limitations are classified as class III or IV under standards accepted by the American heart association;
+
+    g. Has a disability resulting from an acute sensitivity to automobile emissions that limits or impairs the ability to walk. The personal physician, advanced practice registered nurse, or physician assistant of the applicant shall document that the disability is comparable in severity to the others listed in this subsection;
+
+    h. Has limited mobility and has no vision or whose vision with corrective lenses is so limited that the person requires alternative methods or skills to do efficiently those things that are ordinarily done with sight by persons with normal vision;
+
+        i. Has an eye condition of a progressive nature that may lead to blindness; or
+
+    j. Is restricted by a form of porphyria to the extent that the applicant would significantly benefit from a decrease in exposure to light.
+
+2. The disability must be determined by either:
+
+    a. A licensed physician;
+
+    b. An advanced practice registered nurse licensed under chapter 18.79 RCW; or
+
+    c. A physician assistant licensed under chapter 18.71A RCW.
+
+3. A health care practitioner listed under subsection (2) of this section who is authorizing a parking permit for purposes of this chapter must provide a signed written authorization: On a prescription pad or paper, as defined in RCW 18.64.500; on office letterhead; or by electronic means, as described by the director in rule.
+
+4. The application for special parking privileges for persons with disabilities must contain:
+
+    a. The following statement immediately below the physician's, advanced practice registered nurse's, or physician assistant's signature: "A parking permit for a person with disabilities may be issued only for a medical necessity that severely affects mobility or involves acute sensitivity to light (RCW 46.19.010). An applicant or health care practitioner who knowingly provides false information on this application is guilty of a gross misdemeanor. The penalty is up to three hundred sixty-four days in jail and a fine of up to $5,000 or both. In addition, the health care practitioner may be subject to sanctions under chapter 18.130 RCW, the Uniform Disciplinary Act"; and
+
+    b. Other information as required by the department.
+
+5. A natural person who has a disability described in subsection (1) of this section and is expected to improve within twelve months may be issued a temporary placard for a period not to exceed twelve months. If the disability exists after twelve months, a new temporary placard must be issued upon receipt of a new application with certification from the person's physician as prescribed in subsections (3) and (4) of this section. Special license plates for persons with disabilities may not be issued to a person with a temporary disability.
+
+6. A natural person who qualifies for special parking privileges under this section must receive an identification card showing the name and date of birth of the person to whom the parking privilege has been issued and the serial number of the placard.
+
+7. A natural person who qualifies for permanent special parking privileges under this section may receive one of the following:
+
+    a. Up to two parking placards;
+
+    b. One set of special license plates for persons with disabilities if the person with the disability is the registered owner of the vehicle on which the license plates will be displayed;
+
+    c. One parking placard and one set of special license plates for persons with disabilities if the person with the disability is the registered owner of the vehicle on which the license plates will be displayed; or
+
+    d. One special parking year tab for persons with disabilities and one parking placard.
+
+8. Parking placards and identification cards described in this section must be issued free of charge.
+
+9. The parking placard and identification card must be immediately returned to the department upon the placard holder's death.
+
+## Section 5097
+1. Upon the trial of any civil or criminal action or proceeding arising out of acts alleged to have been committed by any person while driving or in actual physical control of a vehicle while under the influence of intoxicating liquor or any drug, if the person's alcohol concentration is less than 0.08 or the person's THC concentration is less than 5.00, it is evidence that may be considered with other competent evidence in determining whether the person was under the influence of intoxicating liquor or any drug.
+
+2. [Empty]
+
+    a. The breath analysis of the person's alcohol concentration shall be based upon grams of alcohol per two hundred ten liters of breath.
+
+    b. The blood analysis of the person's THC concentration shall be based upon nanograms per milliliter of whole blood.
+
+    c. The foregoing provisions of this section shall not be construed as limiting the introduction of any other competent evidence bearing upon the question whether the person was under the influence of intoxicating liquor or any drug.
+
+3. Analysis of the person's blood or breath to be considered valid under the provisions of this section or RCW 46.61.502 or 46.61.504 shall have been performed according to methods approved by the state toxicologist and by an individual possessing a valid permit issued by the state toxicologist for this purpose. The state toxicologist is directed to approve satisfactory techniques or methods, to supervise the examination of individuals to ascertain their qualifications and competence to conduct such analyses, and to issue permits which shall be subject to termination or revocation at the discretion of the state toxicologist.
+
+4. [Empty]
+
+    a. A breath test performed by any instrument approved by the state toxicologist shall be admissible at trial or in an administrative proceeding if the prosecution or department produces prima facie evidence of the following:
+
+        i. The person who performed the test was authorized to perform such test by the state toxicologist;
+
+        ii. The person being tested did not vomit or have anything to eat, drink, or smoke for at least fifteen minutes prior to administration of the test;
+
+        iii. The person being tested did not have any foreign substances, not to include dental work or piercings, fixed or removable, in his or her mouth at the beginning of the fifteen-minute observation period;
+
+        iv. Prior to the start of the test, the temperature of any liquid simulator solution utilized as an external standard, as measured by a thermometer approved of by the state toxicologist was thirty-four degrees centigrade plus or minus 0.3 degrees centigrade;
+
+    v. The internal standard test resulted in the message "verified";
+
+    vi. The two breath samples agree to within plus or minus ten percent of their mean to be determined by the method approved by the state toxicologist;
+
+    vii. The result of the test of the liquid simulator solution external standard or dry gas external standard result did lie between .072 to .088 inclusive; and
+
+    viii. All blank tests gave results of .000.
+
+    b. For purposes of this section, "prima facie evidence" is evidence of sufficient circumstances that would support a logical and reasonable inference of the facts sought to be proved. In assessing whether there is sufficient evidence of the foundational facts, the court or administrative tribunal is to assume the truth of the prosecution's or department's evidence and all reasonable inferences from it in a light most favorable to the prosecution or department.
+
+    c. Nothing in this section shall be deemed to prevent the subject of the test from challenging the reliability or accuracy of the test, the reliability or functioning of the instrument, or any maintenance procedures. Such challenges, however, shall not preclude the admissibility of the test once the prosecution or department has made a prima facie showing of the requirements contained in (a) of this subsection. Instead, such challenges may be considered by the trier of fact in determining what weight to give to the test result.
+
+5. When a blood test is administered under the provisions of RCW 46.20.308, the withdrawal of blood for the purpose of determining its alcohol or drug content may be performed only by a physician licensed under chapter 18.71 RCW; an osteopathic physician licensed under chapter 18.57 RCW; a registered nurse, licensed practical nurse, or advanced practice registered nurse licensed under chapter 18.79 RCW; a physician assistant licensed under chapter 18.71A RCW; an advanced emergency medical technician or paramedic certified under chapter 18.71 RCW; or a medical assistant-certified or medical assistant-phlebotomist certified under chapter 18.360 RCW, a person holding another credential under Title 18 RCW whose scope of practice includes performing venous blood draws, or a forensic phlebotomist certified under chapter 18.360 RCW. When the blood test is performed outside the state of Washington, the withdrawal of blood for the purpose of determining its alcohol or drug content may be performed by any person who is authorized by the out-of-state jurisdiction to perform venous blood draws. Proof of qualification to draw blood may be established through the department of health's provider credential search. This limitation shall not apply to the taking of breath specimens.
+
+6. When a venous blood sample is performed by a forensic phlebotomist certified under chapter 18.360 RCW, it must be done under the following conditions:
+
+    a. If taken at the scene, it must be performed in an ambulance or aid service vehicle licensed by the department of health under chapter 18.73 RCW.
+
+    b. The collection of blood samples must not interfere with the provision of essential medical care.
+
+    c. The blood sample must be collected using sterile equipment and the skin area of puncture must be thoroughly cleansed and disinfected.
+
+    d. The person whose blood is collected must be seated, reclined, or lying down when the blood is collected.
+
+7. The person tested may have a licensed or certified health care provider listed in subsection (5) of this section, or a qualified technician, chemist, or other qualified person of his or her own choosing administer one or more tests in addition to any administered at the direction of a law enforcement officer. The test will be admissible if the person establishes the general acceptability of the testing technique or method. The failure or inability to obtain an additional test by a person shall not preclude the admission of evidence relating to the test or tests taken at the direction of a law enforcement officer.
+
+8. Upon the request of the person who shall submit to a test or tests at the request of a law enforcement officer, full information concerning the test or tests shall be made available to him or her or his or her attorney.
+
+## Section 5098
+No physician licensed under chapter 18.71 RCW; osteopathic physician licensed under chapter 18.57 RCW; registered nurse, licensed practical nurse, or advanced practice registered nurse licensed under chapter 18.79 RCW; physician assistant licensed under chapter 18.71A RCW; advanced emergency medical technician or paramedic certified under chapter 18.71 RCW; or medical assistant-certified or medical assistant-phlebotomist certified under chapter 18.360 RCW, person holding another credential under Title 18 RCW whose scope of practice includes performing venous blood draws, or forensic phlebotomist certified under chapter 18.360 RCW, or hospital, or duly licensed clinical laboratory employing or utilizing services of such licensed or certified health care provider, shall incur any civil or criminal liability as a result of the act of withdrawing blood from any person when directed by a law enforcement officer to do so for the purpose of a blood test under the provisions of a search warrant, a waiver of the search warrant requirement, exigent circumstances, or any other authority of law: PROVIDED, That nothing in this section shall relieve such licensed or certified health care provider, hospital or duly licensed clinical laboratory, or forensic phlebotomist from civil liability arising from the use of improper procedures or failing to exercise the required standard of care.
+
+## Section 5099
+1. Each disability insurance policy issued or renewed after December 31, 2006, that provides coverage for hospital or medical expenses shall provide coverage for prostate cancer screening, provided that the screening is delivered upon the recommendation of the patient's physician, advanced practice registered nurse, or physician assistant.
+
+2. This section shall not be construed to prevent the application of standard policy provisions applicable to other benefits, such as deductible or copayment provisions. This section does not limit the authority of an insurer to negotiate rates and contract with specific providers for the delivery of prostate cancer screening services. This section shall not apply to medicare supplemental policies or supplemental contracts covering a specified disease or other limited benefits.
+
+## Section 5100
+Each disability insurance policy issued or renewed after January 1, 1990, that provides coverage for hospital or medical expenses shall provide coverage for screening or diagnostic mammography services, provided that such services are delivered upon the recommendation of the patient's physician or advanced practice registered nurse as authorized by the state board of nursing pursuant to chapter 18.79 RCW or physician assistant pursuant to chapter 18.71A RCW.
+
+This section shall not be construed to prevent the application of standard policy provisions, other than the cost-sharing prohibition provided in RCW 48.43.076, that are applicable to other benefits. This section does not limit the authority of an insurer to negotiate rates and contract with specific providers for the delivery of mammography services. This section shall not apply to medicare supplement policies or supplemental contracts covering a specified disease or other limited benefits.
+
+## Section 5101
+Each group disability insurance policy issued or renewed after January 1, 1990, that provides coverage for hospital or medical expenses shall provide coverage for screening or diagnostic mammography services, provided that such services are delivered upon the recommendation of the patient's physician or advanced practice registered nurse as authorized by the state board of nursing pursuant to chapter 18.79 RCW or physician assistant pursuant to chapter 18.71A RCW.
+
+This section shall not be construed to prevent the application of standard policy provisions, other than the cost-sharing prohibition provided in RCW 48.43.076, that are applicable to other benefits. This section does not limit the authority of an insurer to negotiate rates and contract with specific providers for the delivery of mammography services. This section shall not apply to medicare supplement policies or supplemental contracts covering a specified disease or other limited benefits.
+
+## Section 5102
+1. Each group disability insurance policy issued or renewed after December 31, 2006, that provides coverage for hospital or medical expenses shall provide coverage for prostate cancer screening, provided that the screening is delivered upon the recommendation of the patient's physician, advanced practice registered nurse, or physician assistant.
+
+2. This section shall not be construed to prevent the application of standard policy provisions applicable to other benefits, such as deductible or copayment provisions. This section does not limit the authority of an insurer to negotiate rates and contract with specific providers for the delivery of prostate cancer screening services. This section shall not apply to medicare supplemental policies or supplemental contracts covering a specified disease or other limited benefits.
+
+## Section 5103
+1. For purposes of this section, health care carriers includes disability insurers regulated under chapter 48.20 or 48.21 RCW, health care services contractors regulated under chapter 48.44 RCW, health maintenance organizations regulated under chapter 48.46 RCW, plans operating under the health care authority under chapter 41.05 RCW, the state health insurance pool operating under chapter 48.41 RCW, and insuring entities regulated under chapter 48.43 RCW.
+
+2. For purposes of this section and consistent with their lawful scopes of practice, types of health care practitioners that provide women's health care services shall include, but need not be limited by a health care carrier to, the following: Any generally recognized medical specialty of practitioners licensed under chapter 18.57 or 18.71 RCW who provides women's health care services; practitioners licensed under chapter 18.71A RCW when providing women's health care services; midwives licensed under chapter 18.50 RCW; and advanced practice registered nurse specialists in women's health and midwifery under chapter 18.79 RCW.
+
+3. For purposes of this section, women's health care services shall include, but need not be limited by a health care carrier to, the following: Maternity care; reproductive health services; gynecological care; general examination; and preventive care as medically appropriate and medically appropriate follow-up visits for the services listed in this subsection.
+
+4. Health care carriers shall ensure that enrolled female patients have direct access to timely and appropriate covered women's health care services from the type of health care practitioner of their choice in accordance with subsection (5) of this section.
+
+5. [Empty]
+
+    a. Health care carrier policies, plans, and programs written, amended, or renewed after July 23, 1995, shall provide women patients with direct access to the type of health care practitioner of their choice for appropriate covered women's health care services without the necessity of prior referral from another type of health care practitioner.
+
+    b. Health care carriers may comply with this section by including all the types of health care practitioners listed in this section for women's health care services for women patients.
+
+    c. Nothing in this section shall prevent health care carriers from restricting women patients to seeing only health care practitioners who have signed participating provider agreements with the health care carrier.
+
+## Section 5104
+1. For health plans issued or renewed on or after January 1, 2017:
+
+    a. Benefits shall not be denied for any health care service performed by a pharmacist licensed under chapter 18.64 RCW if:
+
+        i. The service performed was within the lawful scope of such person's license;
+
+        ii. The plan would have provided benefits if the service had been performed by a physician licensed under chapter 18.71 or 18.57 RCW, an advanced practice registered nurse licensed under chapter 18.79 RCW, or a physician's assistant licensed under chapter 18.71A RCW; and
+
+        iii. The pharmacist is included in the plan's network of participating providers; and
+
+    b. The health plan must include an adequate number of pharmacists in its network of participating medical providers.
+
+2. The participation of pharmacies in the plan network's drug benefit does not satisfy the requirement that plans include pharmacists in their networks of participating medical providers.
+
+3. For health benefit plans issued or renewed on or after January 1, 2016, but before January 1, 2017, health plans that delegate credentialing agreements to contracted health care facilities must accept credentialing for pharmacists employed or contracted by those facilities. Health plans must reimburse facilities for covered services provided by network pharmacists within the pharmacists' scope of practice per negotiations with the facility.
+
+4. This section does not supersede the requirements of RCW 48.43.045.
+
+## Section 5105
+1. The legislature recognizes the role of health care providers as the appropriate authority to determine and establish the delivery of quality health care services to maternity patients and their newly born children. It is the intent of the legislature to recognize patient preference and the clinical sovereignty of providers as they make determinations regarding services provided and the length of time individual patients may need to remain in a health care facility after giving birth. It is not the intent of the legislature to diminish a carrier's ability to utilize managed care strategies but to ensure the clinical judgment of the provider is not undermined by restrictive carrier contracts or utilization review criteria that fail to recognize individual postpartum needs.
+
+2. Unless otherwise specifically provided, the following definitions apply throughout this section:
+
+    a. "Attending provider" means a provider who: Has clinical hospital privileges consistent with RCW 70.43.020; is included in a provider network of the carrier that is providing coverage; and is a physician licensed under chapter 18.57 or 18.71 RCW, a certified nurse midwife licensed under chapter 18.79 RCW, a midwife licensed under chapter 18.50 RCW, a physician's assistant licensed under chapter 18.71A RCW, or an advanced practice registered nurse licensed under chapter 18.79 RCW.
+
+    b. "Health carrier" or "carrier" means disability insurers regulated under chapter 48.20 or 48.21 RCW, health care services contractors regulated under chapter 48.44 RCW, health maintenance organizations regulated under chapter 48.46 RCW, plans operating under the health care authority under chapter 41.05 RCW, the state health insurance pool operating under chapter 48.41 RCW, and insuring entities regulated under this chapter.
+
+3. [Empty]
+
+    a. Every health carrier that provides coverage for maternity services must permit the attending provider, in consultation with the mother, to make decisions on the length of inpatient stay, rather than making such decisions through contracts or agreements between providers, hospitals, and insurers. These decisions must be based on accepted medical practice.
+
+    b. Covered eligible services may not be denied for inpatient, postdelivery care to a mother and her newly born child after a vaginal delivery or a cesarean section delivery for such care as ordered by the attending provider in consultation with the mother.
+
+    c. At the time of discharge, determination of the type and location of follow-up care must be made by the attending provider in consultation with the mother rather than by contract or agreement between the hospital and the insurer. These decisions must be based on accepted medical practice.
+
+    d. Covered eligible services may not be denied for follow-up care, including in-person care, as ordered by the attending provider in consultation with the mother. Coverage for providers of follow-up services must include, but need not be limited to, attending providers as defined in this section, home health agencies licensed under chapter 70.127 RCW, and registered nurses licensed under chapter 18.79 RCW.
+
+    e. This section does not require attending providers to authorize care they believe to be medically unnecessary.
+
+    f. Coverage for the newly born child must be no less than the coverage of the child's mother for no less than three weeks, even if there are separate hospital admissions.
+
+4. A carrier that provides coverage for maternity services may not deselect, terminate the services of, require additional documentation from, require additional utilization review of, reduce payments to, or otherwise provide financial disincentives to any attending provider or health care facility solely as a result of the attending provider or health care facility ordering care consistent with this section. This section does not prevent any insurer from reimbursing an attending provider or health care facility on a capitated, case rate, or other financial incentive basis.
+
+5. Every carrier that provides coverage for maternity services must provide notice to policyholders regarding the coverage required under this section. The notice must be in writing and must be transmitted at the earliest of the next mailing to the policyholder, the yearly summary of benefits sent to the policyholder, or January 1 of the year following June 6, 1996.
+
+6. This section does not establish a standard of medical care.
+
+7. This section applies to coverage for maternity services under a contract issued or renewed by a health carrier after June 6, 1996, and applies to plans operating under the health care authority under chapter 41.05 RCW beginning January 1, 1998.
+
+## Section 5106
+Each health care service contract issued or renewed after January 1, 1990, that provides benefits for hospital or medical care shall provide benefits for screening or diagnostic mammography services, provided that such services are delivered upon the recommendation of the patient's physician or advanced practice registered nurse as authorized by the state board of nursing pursuant to chapter 18.79 RCW or physician assistant pursuant to chapter 18.71A RCW.
+
+This section shall not be construed to prevent the application of standard contract provisions, other than the cost-sharing prohibition provided in RCW 48.43.076, that are applicable to other benefits. This section does not limit the authority of a contractor to negotiate rates and contract with specific providers for the delivery of mammography services. This section shall not apply to medicare supplement policies or supplemental contracts covering a specified disease or other limited benefits.
+
+## Section 5107
+1. Each health care service contract issued or renewed after December 31, 2006, that provides coverage for hospital or medical expenses shall provide coverage for prostate cancer screening, provided that the screening is delivered upon the recommendation of the patient's physician, advanced practice registered nurse, or physician assistant.
+
+2. This section shall not be construed to prevent the application of standard policy provisions applicable to other benefits, such as deductible or copayment provisions. This section does not limit the authority of a contractor to negotiate rates and contract with specific providers for the delivery of prostate cancer screening services. This section shall not apply to medicare supplemental policies or supplemental contracts covering a specified disease or other limited benefits.
+
+## Section 5108
+Each health maintenance agreement issued or renewed after January 1, 1990, that provides benefits for hospital or medical care shall provide benefits for screening or diagnostic mammography services, provided that such services are delivered upon the recommendation of the patient's physician or advanced practice registered nurse as authorized by the state board of nursing pursuant to chapter 18.79 RCW or physician assistant pursuant to chapter 18.71A RCW.
+
+All services must be provided by the health maintenance organization or rendered upon referral by the health maintenance organization. This section shall not be construed to prevent the application of standard agreement provisions, other than the cost-sharing prohibition provided in RCW 48.43.076, that are applicable to other benefits. This section does not limit the authority of a health maintenance organization to negotiate rates and contract with specific providers for the delivery of mammography services. This section shall not apply to medicare supplement policies or supplemental contracts covering a specified disease or other limited benefits.
+
+## Section 5109
+1. Each health maintenance agreement issued or renewed after December 31, 2006, that provides coverage for hospital or medical expenses shall provide coverage for prostate cancer screening, provided that the screening is delivered upon the recommendation of the patient's physician, advanced practice registered nurse, or physician assistant.
+
+2. All services must be provided by the health maintenance organization or rendered upon a referral by the health maintenance organization.
+
+3. This section shall not be construed to prevent the application of standard policy provisions applicable to other benefits, such as deductible or copayment provisions. This section does not limit the authority of a health maintenance organization to negotiate rates and contract with specific providers for the delivery of prostate cancer screening services. This section shall not apply to medicare supplemental policies or supplemental contracts covering a specified disease or other limited benefits.
+
+## Section 5110
+1. Each self-funded multiple employer welfare arrangement established, operated, providing benefits, or maintained in this state after December 31, 2006, that provides coverage for hospital or medical expenses shall provide coverage for prostate cancer screening, provided that the screening is delivered upon the recommendation of the patient's physician, advanced practice registered nurse, or physician assistant.
+
+2. This section shall not be construed to prevent the application of standard policy provisions applicable to other benefits, such as deductible or copayment provisions. This section does not limit the authority of a self-funded multiple employer welfare arrangement to negotiate rates and contract with specific providers for the delivery of prostate cancer screening services.
+
+## Section 5111
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this title.
+
+1. [Empty]
+
+    a. "Casual labor" means work that:
+
+        i. Is performed infrequently and irregularly; and
+
+        ii. If performed for an employer, does not promote or advance the employer's customary trade or business.
+
+    b. For purposes of casual labor:
+
+        i. "Infrequently" means work performed twelve or fewer times per calendar quarter; and
+
+        ii. "Irregularly" means work performed not on a consistent cadence.
+
+2. "Child" includes a biological, adopted, or foster child, a stepchild, a child's spouse, or a child to whom the employee stands in loco parentis, is a legal guardian, or is a de facto parent, regardless of age or dependency status.
+
+3. "Commissioner" means the commissioner of the department or the commissioner's designee.
+
+4. "Department" means the employment security department.
+
+5. [Empty]
+
+    a. "Employee" means an individual who is in the employment of an employer.
+
+    b. "Employee" does not include employees of the United States of America.
+
+6. "Employee's average weekly wage" means the quotient derived by dividing the employee's total wages during the two quarters of the employee's qualifying period in which total wages were highest by twenty-six. If the result is not a multiple of one dollar, the department must round the result to the next lower multiple of one dollar.
+
+7. [Empty]
+
+    a. "Employer" means: (i) Any individual or type of organization, including any partnership, association, trust, estate, joint stock company, insurance company, limited liability company, or corporation, whether domestic or foreign, or the receiver, trustee in bankruptcy, trustee, or the legal representative of a deceased person, having any person in employment or, having become an employer, has not ceased to be an employer as provided in this title; (ii) the state, state institutions, and state agencies; and (iii) any unit of local government including, but not limited to, a county, city, town, municipal corporation, quasi‑municipal corporation, or political subdivision.
+
+    b. "Employer" does not include the United States of America.
+
+8. [Empty]
+
+    a. "Employment" means personal service, of whatever nature, unlimited by any employment relationship as known to the common law or any other legal relationship performed for wages or under any contract calling for the performance of personal services, written or oral, express or implied. The term "employment" includes an individual's entire service performed within or without or both within and without this state, if:
+
+        i. The service is localized in this state; or
+
+        ii. The service is not localized in any state, but some of the service is performed in this state; and
+
+(A) The base of operations of the employee is in the state, or if there is no base of operations, then the place from which such service is directed or controlled is in this state; or
+
+(B) The base of operations or place from which such service is directed or controlled is not in any state in which some part of the service is performed, but the individual's residence is in this state.
+
+    b. "Employment" does not include:
+
+        i. Self-employed individuals;
+
+        ii. Casual labor;
+
+        iii. Services for remuneration when it is shown to the satisfaction of the commissioner that:
+
+(A)(I) Such individual has been and will continue to be free from control or direction over the performance of such service, both under his or her contract of service and in fact; and
+
+(II) Such service is either outside the usual course of business for which such service is performed, or that such service is performed outside of all the places of business of the enterprises for which such service is performed; and
+
+(III) Such individual is customarily engaged in an independently established trade, occupation, profession, or business, of the same nature as that involved in the contract of service; or
+
+(B) As a separate alternative:
+
+(I) Such individual has been and will continue to be free from control or direction over the performance of such service, both under his or her contract of service and in fact; and
+
+(II) Such service is either outside the usual course of business for which such service is performed, or that such service is performed outside of all the places of business of the enterprises for which such service is performed, or the individual is responsible, both under the contract and in fact, for the costs of the principal place of business from which the service is performed; and
+
+(III) Such individual is customarily engaged in an independently established trade, occupation, profession, or business, of the same nature as that involved in the contract of service, or such individual has a principal place of business for the work the individual is conducting that is eligible for a business deduction for federal income tax purposes; and
+
+(IV) On the effective date of the contract of service, such individual is responsible for filing at the next applicable filing period, both under the contract of service and in fact, a schedule of expenses with the internal revenue service for the type of business the individual is conducting; and
+
+(V) On the effective date of the contract of service, or within a reasonable period after the effective date of the contract, such individual has established an account with the department of revenue, and other state agencies as required by the particular case, for the business the individual is conducting for the payment of all state taxes normally paid by employers and businesses and has registered for and received a unified business identifier number from the state of Washington; and
+
+(VI) On the effective date of the contract of service, such individual is maintaining a separate set of books or records that reflect all items of income and expenses of the business which the individual is conducting; or
+
+        iv. Services that require registration under chapter 18.27 RCW or licensing under chapter 19.28 RCW rendered by an individual when:
+
+(A) The individual has been and will continue to be free from control or direction over the performance of the service, both under the contract of service and in fact;
+
+(B) The service is either outside the usual course of business for which the service is performed, or the service is performed outside of all the places of business of the enterprise for which the service is performed, or the individual is responsible, both under the contract and in fact, for the costs of the principal place of business from which the service is performed;
+
+(C) The individual is customarily engaged in an independently established trade, occupation, profession, or business, of the same nature as that involved in the contract of service, or the individual has a principal place of business for the business the individual is conducting that is eligible for a business deduction for federal income tax purposes, other than that furnished by the employer for which the business has contracted to furnish services;
+
+(D) On the effective date of the contract of service, the individual is responsible for filing at the next applicable filing period, both under the contract of service and in fact, a schedule of expenses with the internal revenue service for the type of business the individual is conducting;
+
+(E) On the effective date of the contract of service, or within a reasonable period after the effective date of the contract, the individual has an active and valid certificate of registration with the department of revenue, and an active and valid account with any other state agencies as required by the particular case, for the business the individual is conducting for the payment of all state taxes normally paid by employers and businesses and has registered for and received a unified business identifier number from the state of Washington;
+
+(F) On the effective date of the contract of service, the individual is maintaining a separate set of books or records that reflect all items of income and expenses of the business that the individual is conducting; and
+
+(G) On the effective date of the contract of service, the individual has a valid contractor registration pursuant to chapter 18.27 RCW or an electrical contractor license pursuant to chapter 19.28 RCW.
+
+9. "Employment benefits" means all benefits provided or made available to employees by an employer, including group life insurance, health insurance, disability insurance, sick leave, annual leave, educational benefits, and pensions.
+
+10. "Family leave" means any leave taken by an employee from work:
+
+    a. To participate in providing care, including physical or psychological care, for a family member of the employee made necessary by a serious health condition of the family member;
+
+    b. To bond with the employee's child during the first twelve months after the child's birth, or the first twelve months after the placement of a child under the age of eighteen with the employee;
+
+    c. Because of any qualifying exigency as permitted under the federal family and medical leave act, 29 U.S.C. Sec. 2612(a)(1)(E) and 29 C.F.R. Sec. 825.126(b)(1) through (9), as they existed on October 19, 2017, for family members as defined in subsection (11) of this section; or
+
+    d. During the seven calendar days following the death of the family member for whom the employee:
+
+        i. Would have qualified for medical leave under subsection (15) of this section for the birth of their child; or
+
+        ii. Would have qualified for family leave under (b) of this subsection.
+
+11. "Family member" means a child, grandchild, grandparent, parent, sibling, or spouse of an employee, and also includes any individual who regularly resides in the employee's home or where the relationship creates an expectation that the employee care for the person, and that individual depends on the employee for care. "Family member" includes any individual who regularly resides in the employee's home, except that it does not include an individual who simply resides in the same home with no expectation that the employee care for the individual.
+
+12. "Grandchild" means a child of the employee's child.
+
+13. "Grandparent" means a parent of the employee's parent.
+
+14. "Health care provider" means: (a) A person licensed as a physician under chapter 18.71 RCW or an osteopathic physician and surgeon under chapter 18.57 RCW; (b) a person licensed as an advanced practice registered nurse under chapter 18.79 RCW; or (c) any other person determined by the commissioner to be capable of providing health care services.
+
+15. "Medical leave" means any leave taken by an employee from work made necessary by the employee's own serious health condition.
+
+16. "Paid time off" includes vacation leave, personal leave, medical leave, sick leave, compensatory leave, or any other paid leave offered by an employer under the employer's established policy.
+
+17. "Parent" means the biological, adoptive, de facto, or foster parent, stepparent, or legal guardian of an employee or the employee's spouse, or an individual who stood in loco parentis to an employee when the employee was a child.
+
+18. "Period of incapacity" means an inability to work, attend school, or perform other regular daily activities because of a serious health condition, treatment of that condition or recovery from it, or subsequent treatment in connection with such inpatient care.
+
+19. "Postnatal" means the first six weeks after birth.
+
+20. "Premium" or "premiums" means the payments required by RCW 50A.10.030 and paid to the department for deposit in the family and medical leave insurance account under RCW 50A.05.070.
+
+21. "Qualifying period" means the first four of the last five completed calendar quarters or, if eligibility is not established, the last four completed calendar quarters immediately preceding the application for leave.
+
+22. [Empty]
+
+    a. "Remuneration" means all compensation paid for personal services including commissions and bonuses and the cash value of all compensation paid in any medium other than cash.
+
+    b. Previously accrued compensation, other than severance pay or payments received pursuant to plant closure agreements, when assigned to a specific period of time by virtue of a collective bargaining agreement, individual employment contract, customary trade practice, or request of the individual compensated, is considered remuneration for the period to which it is assigned. Assignment clearly occurs when the compensation serves to make the individual eligible for all regular fringe benefits for the period to which the compensation is assigned.
+
+    c. Remuneration also includes settlements or other proceeds received by an individual as a result of a negotiated settlement for termination of an individual written employment contract prior to its expiration date. The proceeds are deemed assigned in the same intervals and in the same amount for each interval as compensation was allocated under the contract.
+
+    d. Remuneration does not include:
+
+        i. The payment of tips;
+
+        ii. Supplemental benefit payments made by an employer to an employee in addition to any paid family or medical leave benefits received by the employee; or
+
+        iii. Payments to members of the armed forces of the United States, including the organized militia of the state of Washington, for the performance of duty for periods not exceeding seventy-two hours at a time.
+
+23. [Empty]
+
+    a. "Serious health condition" means an illness, injury, impairment, or physical or mental condition that involves:
+
+        i. Inpatient care in a hospital, hospice, or residential medical care facility, including any period of incapacity; or
+
+        ii. Continuing treatment by a health care provider. A serious health condition involving continuing treatment by a health care provider includes any one or more of the following:
+
+(A) A period of incapacity of more than three consecutive, full calendar days, and any subsequent treatment or period of incapacity relating to the same condition, that also involves:
+
+(I) Treatment two or more times, within thirty days of the first day of incapacity, unless extenuating circumstances exist, by a health care provider, by a nurse or physician's assistant under direct supervision of a health care provider, or by a provider of health care services, such as a physical therapist, under orders of, or on referral by, a health care provider; or
+
+(II) Treatment by a health care provider on at least one occasion which results in a regimen of continuing treatment under the supervision of the health care provider;
+
+(B) Any period of incapacity due to pregnancy, or for prenatal care;
+
+(C) Any period of incapacity or treatment for such incapacity due to a chronic serious health condition. A chronic serious health condition is one which:
+
+(I) Requires periodic visits, defined as at least twice a year, for treatment by a health care provider, or by a nurse under direct supervision of a health care provider;
+
+(II) Continues over an extended period of time, including recurring episodes of a single underlying condition; and
+
+(III) May cause episodic rather than a continuing period of incapacity, including asthma, diabetes, and epilepsy;
+
+(D) A period of incapacity which is permanent or long term due to a condition for which treatment may not be effective. The employee or family member must be under the continuing supervision of, but need not be receiving active treatment by, a health care provider, including Alzheimer's, a severe stroke, or the terminal stages of a disease; or
+
+(E) Any period of absence to receive multiple treatments, including any period of recovery from the treatments, by a health care provider or by a provider of health care services under orders of, or on referral by, a health care provider, either for: (I) Restorative surgery after an accident or other injury; or (II) a condition that would likely result in a period of incapacity of more than three consecutive, full calendar days in the absence of medical intervention or treatment, such as cancer, severe arthritis, or kidney disease.
+
+    b. The requirement in (a)(i) and (ii) of this subsection for treatment by a health care provider means an in-person visit to a health care provider. The first, or only, in-person treatment visit must take place within seven days of the first day of incapacity.
+
+    c. Whether additional treatment visits or a regimen of continuing treatment is necessary within the thirty-day period shall be determined by the health care provider.
+
+    d. The term extenuating circumstances in (a)(ii)(A)(I) of this subsection means circumstances beyond the employee's control that prevent the follow-up visit from occurring as planned by the health care provider. Whether a given set of circumstances are extenuating depends on the facts. For example, extenuating circumstances exist if a health care provider determines that a second in-person visit is needed within the thirty-day period, but the health care provider does not have any available appointments during that time period.
+
+    e. Treatment for purposes of (a) of this subsection includes, but is not limited to, examinations to determine if a serious health condition exists and evaluations of the condition. Treatment does not include routine physical examinations, eye examinations, or dental examinations. Under (a)(ii)(A)(II) of this subsection, a regimen of continuing treatment includes, but is not limited to, a course of prescription medication, such as an antibiotic, or therapy requiring special equipment to resolve or alleviate the health condition, such as oxygen. A regimen of continuing treatment that includes taking over-the-counter medications, such as aspirin, antihistamines, or salves, or bed rest, drinking fluids, exercise, and other similar activities that can be initiated without a visit to a health care provider, is not, by itself, sufficient to constitute a regimen of continuing treatment for purposes of this title.
+
+    f. Conditions for which cosmetic treatments are administered, such as most treatments for acne or plastic surgery, are not serious health conditions unless inpatient hospital care is required or unless complications develop. Ordinarily, unless complications arise, the common cold, the flu, ear aches, upset stomach, minor ulcers, headaches other than migraines, routine dental or orthodontia problems, and periodontal disease are examples of conditions that are not serious health conditions and do not qualify for leave under this title. Restorative dental or plastic surgery after an injury or removal of cancerous growths are serious health conditions provided all the other conditions of this section are met. Mental illness resulting from stress or allergies may be serious health conditions, but only if all the conditions of this section are met.
+
+    g. [Empty]
+
+        i. Substance abuse may be a serious health condition if the conditions of this section are met. However, leave may only be taken for treatment for substance abuse by a health care provider or by a licensed substance abuse treatment provider. Absence because of the employee's use of the substance, rather than for treatment, does not qualify for leave under this title.
+
+        ii. Treatment for substance abuse does not prevent an employer from taking employment action against an employee. The employer may not take action against the employee because the employee has exercised his or her right to take medical leave for treatment. However, if the employer has an established policy, applied in a nondiscriminatory manner that has been communicated to all employees, that provides under certain circumstances an employee may be terminated for substance abuse, pursuant to that policy the employee may be terminated whether or not the employee is presently taking medical leave. An employee may also take family leave to care for a covered family member who is receiving treatment for substance abuse. The employer may not take action against an employee who is providing care for a covered family member receiving treatment for substance abuse.
+
+    h. Absences attributable to incapacity under (a)(ii)(B) or (C) of this subsection qualify for leave under this title even though the employee or the family member does not receive treatment from a health care provider during the absence, and even if the absence does not last more than three consecutive, full calendar days. For example, an employee with asthma may be unable to report for work due to the onset of an asthma attack or because the employee's health care provider has advised the employee to stay home when the pollen count exceeds a certain level. An employee who is pregnant may be unable to report to work because of severe morning sickness.
+
+24. "Service is localized in this state" has the same meaning as described in RCW 50.04.120.
+
+25. "Spouse" means a husband or wife, as the case may be, or state registered domestic partner.
+
+26. "State average weekly wage" means the most recent average weekly wage calculated under RCW 50.04.355 and available on January 1st of each year.
+
+27. "Supplemental benefit payments" means payments made by an employer to an employee as salary continuation or as paid time off. Such payments must be in addition to any paid family or medical leave benefits the employee is receiving.
+
+28. "Typical workweek hours" means:
+
+    a. For an hourly employee, the average number of hours worked per week by an employee within the qualifying period; and
+
+    b. Forty hours for a salaried employee, regardless of the number of hours the salaried employee typically works.
+
+29. "Wage" or "wages" means:
+
+    a. For the purpose of premium assessment, the remuneration paid by an employer to an employee. The maximum wages subject to a premium assessment are those wages as set by the commissioner under RCW 50A.10.030;
+
+    b. For the purpose of payment of benefits, the remuneration paid by one or more employers to an employee for employment during the employee's qualifying period. At the request of an employee, wages may be calculated on the basis of remuneration payable. The department shall notify each employee that wages are calculated on the basis of remuneration paid, but at the employee's request a redetermination may be performed and based on remuneration payable; and
+
+    c. For the purpose of a self-employed person electing coverage under RCW 50A.10.010, the meaning is defined by rule.
+
+## Section 5112
+1. The director shall supervise the providing of prompt and efficient care and treatment, including care provided by physician assistants governed by the provisions of chapter 18.71A RCW, including chiropractic care, and including care provided by licensed advanced practice registered nurses, to workers injured during the course of their employment at the least cost consistent with promptness and efficiency, without discrimination or favoritism, and with as great uniformity as the various and diverse surrounding circumstances and locations of industries will permit and to that end shall, from time to time, establish and adopt and supervise the administration of printed forms, rules, regulations, and practices for the furnishing of such care and treatment: PROVIDED, That the medical coverage decisions of the department do not constitute a "rule" as used in RCW 34.05.010(16), nor are such decisions subject to the rule-making provisions of chapter 34.05 RCW except that criteria for establishing medical coverage decisions shall be adopted by rule after consultation with the workers' compensation advisory committee established in RCW 51.04.110: PROVIDED FURTHER, That the department may recommend to an injured worker particular health care services and providers where specialized treatment is indicated or where cost-effective payment levels or rates are obtained by the department: AND PROVIDED FURTHER, That the department may enter into contracts for goods and services including, but not limited to, durable medical equipment so long as statewide access to quality service is maintained for injured workers.
+
+2. The director shall, in consultation with interested persons, establish and, in his or her discretion, periodically change as may be necessary, and make available a fee schedule of the maximum charges to be made by any physician, surgeon, chiropractor, hospital, druggist, licensed advanced practice registered nurse, physician assistants as defined in chapter 18.71A RCW, acting under the supervision of or in coordination with a participating physician, as defined in RCW 18.71A.010, or other agency or person rendering services to injured workers. The department shall coordinate with other state purchasers of health care services to establish as much consistency and uniformity in billing and coding practices as possible, taking into account the unique requirements and differences between programs. No service covered under this title, including services provided to injured workers, whether aliens or other injured workers, who are not residing in the United States at the time of receiving the services, shall be charged or paid at a rate or rates exceeding those specified in such fee schedule, and no contract providing for greater fees shall be valid as to the excess. The establishment of such a schedule, exclusive of conversion factors, does not constitute "agency action" as used in RCW 34.05.010(3), nor does such a fee schedule and its associated billing or payment instructions and policies constitute a "rule" as used in RCW 34.05.010(16).
+
+3. The director or self-insurer, as the case may be, shall make a record of the commencement of every disability and the termination thereof and, when bills are rendered for the care and treatment of injured workers, shall approve and pay those which conform to the adopted rules, regulations, established fee schedules, and practices of the director and may reject any bill or item thereof incurred in violation of the principles laid down in this section or the rules, regulations, or the established fee schedules and rules and regulations adopted under it.
+
+## Section 5113
+1. Whenever any accident occurs to any worker it shall be the duty of such worker or someone in his or her behalf to forthwith report such accident to his or her employer, superintendent, or supervisor in charge of the work, and of the employer to at once report such accident and the injury resulting therefrom to the department pursuant to RCW 51.28.025 where the worker has received treatment from a physician, osteopathic physician, chiropractor, naturopath, podiatric physician, optometrist, dentist, licensed advanced practice registered nurse, physician assistant, or psychologist in claims solely for mental health conditions, has been hospitalized, disabled from work, or has died as the apparent result of such accident and injury.
+
+2. Upon receipt of such notice of accident, the department shall immediately forward to the worker or his or her beneficiaries or dependents notification, in nontechnical language, of their rights under this title. The notice must specify the worker's right to receive health services from a provider of the worker's choice under RCW 51.36.010(2)(a), including chiropractic services under RCW 51.36.015, and must list the types of providers authorized to provide these services.
+
+3. Employers shall not engage in claim suppression.
+
+4. For the purposes of this section, "claim suppression" means intentionally:
+
+    a. Inducing employees to fail to report injuries;
+
+    b. Inducing employees to treat injuries in the course of employment as off‑the‑job injuries; or
+
+    c. Acting otherwise to suppress legitimate industrial insurance claims.
+
+5. In determining whether an employer has engaged in claim suppression, the department shall consider the employer's history of compliance with industrial insurance reporting requirements, and whether the employer has discouraged employees from reporting injuries or filing claims. The department has the burden of proving claim suppression by a preponderance of the evidence.
+
+6. Claim suppression does not include bona fide workplace safety and accident prevention programs or an employer's provision at the worksite of first aid as defined by the department. The department shall adopt rules defining bona fide workplace safety and accident prevention programs and defining first aid.
+
+## Section 5114
+1. [Empty]
+
+    a. Where a worker is entitled to compensation under this title he or she shall file with the department or his or her self-insured employer, as the case may be, his or her application for such, together with the certificate of the physician, osteopathic physician, chiropractor, naturopath, podiatric physician, optometrist, dentist, licensed advanced practice registered nurse, physician assistant, or psychologist in claims solely for mental health conditions, who attended him or her. An application form developed by the department shall include a notice specifying the worker's right to receive health services from a provider of the worker's choice under RCW 51.36.010(2)(a), and listing the types of providers authorized to provide these services.
+
+    b. The physician, osteopathic physician, chiropractor, naturopath, podiatric physician, optometrist, dentist, licensed advanced practice registered nurse, physician assistant, or psychologist in claims solely for mental health conditions, who attended the injured worker shall inform the injured worker of his or her rights under this title and lend all necessary assistance in making this application for compensation and such proof of other matters as required by the rules of the department without charge to the worker. The department shall provide a manual which outlines the procedures to be followed in applications for compensation involving occupational diseases, and which describes claimants' rights and responsibilities related to occupational disease claims.
+
+2. If the application required by this section is:
+
+    a. Made to the department and the employer has not received a copy of the application, the department shall immediately send a copy of the application to the employer; or
+
+    b. Made to a self-insured employer, the employer shall forthwith send a copy of the application to the department.
+
+3. The application required by this section may be transmitted to the department electronically.
+
+## Section 5115
+1. Whenever an employer has notice or knowledge of an injury or occupational disease sustained by any worker in his or her employment who has received treatment from a physician or a licensed advanced practice registered nurse, has been hospitalized, disabled from work or has died as the apparent result of such injury or occupational disease, the employer shall immediately report the same to the department on forms prescribed by it. The report shall include:
+
+    a. The name, address, and business of the employer;
+
+    b. The name, address, and occupation of the worker;
+
+    c. The date, time, cause, and nature of the injury or occupational disease;
+
+    d. Whether the injury or occupational disease arose in the course of the injured worker's employment;
+
+    e. All available information pertaining to the nature of the injury or occupational disease including but not limited to any visible signs, any complaints of the worker, any time lost from work, and the observable effect on the worker's bodily functions, so far as is known; and
+
+    f. Such other pertinent information as the department may prescribe by regulation.
+
+2. The employer shall not engage in claim suppression. An employer found to have engaged in claim suppression shall be subject to a penalty of at least two hundred fifty dollars, not to exceed two thousand five hundred dollars, for each offense. The penalty shall be payable to the supplemental pension fund. The department shall adopt rules establishing the amount of penalties, taking into account the size of the employer and whether there are prior findings of claim suppression. When a determination of claim suppression has been made, the employer shall be prohibited from any current or future participation in a retrospective rating program. If self‑insured, the director shall withdraw certification as provided in RCW 51.14.080.
+
+3. When a determination of claim suppression is made and the penalty is assessed, the department shall serve the employer and any affected retrospective rating group with a determination as provided in RCW 51.52.050. The determination may be protested to the department or appealed to the board of industrial insurance appeals. Once the order is final, the amount due shall be collected in accordance with the provisions of RCW 51.48.140 and 51.48.150.
+
+4. The director, or the director's designee, shall investigate reports or complaints that an employer has engaged in claim suppression as prohibited in RCW 51.28.010(3). The complaints or allegations must be received in writing, and must include the name or names of the individuals or organizations submitting the complaint. In cases where the department can show probable cause, the director may subpoena records from the employer, medical providers, and any other entity that the director believes may have relevant information. The director's investigative and subpoena authority in this subsection is limited solely to investigations into allegations of claim suppression or where the director has probable cause that claim suppression might have occurred.
+
+5. If the director determines that an employer has engaged in claim suppression and, as a result, the worker has not filed a claim for industrial insurance benefits as prescribed by law, then the director in his or her sole discretion may waive the time limits for filing a claim provided in RCW 51.28.050, if the complaint or allegation of claim suppression is received within two years of the worker's accident or exposure. For the director to exercise this discretion, the claim must be filed with the department within ninety days of the date the determination of claim suppression is issued.
+
+6. For the purposes of this section, "claim suppression" has the same meaning as in RCW 51.28.010(4).
+
+## Section 5116
+1. Except as provided in subsection (2) of this section for claims filed for occupational hearing loss, claims for occupational disease or infection to be valid and compensable must be filed within two years following the date the worker had written notice from a physician or a licensed advanced practice registered nurse: (a) Of the existence of his or her occupational disease, and (b) that a claim for disability benefits may be filed. The notice shall also contain a statement that the worker has two years from the date of the notice to file a claim. The physician or licensed advanced practice registered nurse shall file the notice with the department. The department shall send a copy to the worker and to the self-insurer if the worker's employer is self-insured. However, a claim is valid if it is filed within two years from the date of death of the worker suffering from an occupational disease.
+
+2. [Empty]
+
+    a. Except as provided in (b) of this subsection, to be valid and compensable, claims for hearing loss due to occupational noise exposure must be filed within two years of the date of the worker's last injurious exposure to occupational noise in employment covered under this title or within one year of September 10, 2003, whichever is later.
+
+    b. A claim for hearing loss due to occupational noise exposure that is not timely filed under (a) of this subsection can only be allowed for medical aid benefits under chapter 51.36 RCW.
+
+3. The department may adopt rules to implement this section.
+
+## Section 5117
+1. The legislature finds that high quality medical treatment and adherence to occupational health best practices can prevent disability and reduce loss of family income for workers, and lower labor and insurance costs for employers. Injured workers deserve high quality medical care in accordance with current health care best practices. To this end, the department shall establish minimum standards for providers who treat workers from both state fund and self-insured employers. The department shall establish a health care provider network to treat injured workers, and shall accept providers into the network who meet those minimum standards. The department shall convene an advisory group made up of representatives from or designees of the workers' compensation advisory committee and the industrial insurance medical and chiropractic advisory committees to consider and advise the department related to implementation of this section, including development of best practices treatment guidelines for providers in the network. The department shall also seek the input of various health care provider groups and associations concerning the network's implementation. Network providers must be required to follow the department's evidence-based coverage decisions and treatment guidelines, policies, and must be expected to follow other national treatment guidelines appropriate for their patient. The department, in collaboration with the advisory group, shall also establish additional best practice standards for providers to qualify for a second tier within the network, based on demonstrated use of occupational health best practices. This second tier is separate from and in addition to the centers for occupational health and education established under subsection (5) of this section.
+
+2. [Empty]
+
+    a. Upon the occurrence of any injury to a worker entitled to compensation under the provisions of this title, he or she shall receive proper and necessary medical and surgical services at the hands of a physician, osteopathic physician, chiropractor, naturopath, podiatric physician, optometrist, dentist, licensed advanced practice registered nurse, physician assistant, or psychologist in claims solely for mental health conditions, of his or her own choice, if conveniently located, except as provided in (b) of this subsection, and proper and necessary hospital care and services during the period of his or her disability from such injury.
+
+    b. Once the provider network is established in the worker's geographic area, an injured worker may receive care from a nonnetwork provider only for an initial office or emergency room visit. However, the department or self-insurer may limit reimbursement to the department's standard fee for the services. The provider must comply with all applicable billing policies and must accept the department's fee schedule as payment in full.
+
+    c. The department, in collaboration with the advisory group, shall adopt policies for the development, credentialing, accreditation, and continued oversight of a network of health care providers approved to treat injured workers. Health care providers shall apply to the network by completing the department's provider application which shall have the force of a contract with the department to treat injured workers. The advisory group shall recommend minimum network standards for the department to approve a provider's application, to remove a provider from the network, or to require peer review such as, but not limited to:
+
+        i. Current malpractice insurance coverage exceeding a dollar amount threshold, number, or seriousness of malpractice suits over a specific time frame;
+
+        ii. Previous malpractice judgments or settlements that do not exceed a dollar amount threshold recommended by the advisory group, or a specific number or seriousness of malpractice suits over a specific time frame;
+
+        iii. No licensing or disciplinary action in any jurisdiction or loss of treating or admitting privileges by any board, commission, agency, public or private health care payer, or hospital;
+
+        iv. For some specialties such as surgeons, privileges in at least one hospital;
+
+    v. Whether the provider has been credentialed by another health plan that follows national quality assurance guidelines; and
+
+    vi. Alternative criteria for providers that are not credentialed by another health plan.
+
+The department shall develop alternative criteria for providers that are not credentialed by another health plan or as needed to address access to care concerns in certain regions.
+
+    d. Network provider contracts will automatically renew at the end of the contract period unless the department provides written notice of changes in contract provisions or the department or provider provides written notice of contract termination. The industrial insurance medical advisory committee shall develop criteria for removal of a provider from the network to be presented to the department and advisory group for consideration in the development of contract terms.
+
+    e. In order to monitor quality of care and assure efficient management of the provider network, the department shall establish additional criteria and terms for network participation including, but not limited to, requiring compliance with administrative and billing policies.
+
+    f. The advisory group shall recommend best practices standards to the department to use in determining second tier network providers. The department shall develop and implement financial and nonfinancial incentives for network providers who qualify for the second tier. The department is authorized to certify and decertify second tier providers.
+
+3. The department shall work with self-insurers and the department utilization review provider to implement utilization review for the self-insured community to ensure consistent quality, cost-effective care for all injured workers and employers, and to reduce administrative burden for providers.
+
+4. The department for state fund claims shall pay, in accordance with the department's fee schedule, for any alleged injury for which a worker files a claim, any initial prescription drugs provided in relation to that initial visit, without regard to whether the worker's claim for benefits is allowed. In all accepted claims, treatment shall be limited in point of duration as follows:
+
+In the case of permanent partial disability, not to extend beyond the date when compensation shall be awarded him or her, except when the worker returned to work before permanent partial disability award is made, in such case not to extend beyond the time when monthly allowances to him or her shall cease; in case of temporary disability not to extend beyond the time when monthly allowances to him or her shall cease: PROVIDED, That after any injured worker has returned to his or her work his or her medical and surgical treatment may be continued if, and so long as, such continuation is deemed necessary by the supervisor of industrial insurance to be necessary to his or her more complete recovery; in case of a permanent total disability not to extend beyond the date on which a lump sum settlement is made with him or her or he or she is placed upon the permanent pension roll: PROVIDED, HOWEVER, That the supervisor of industrial insurance, solely in his or her discretion, may authorize continued medical and surgical treatment for conditions previously accepted by the department when such medical and surgical treatment is deemed necessary by the supervisor of industrial insurance to protect such worker's life or provide for the administration of medical and therapeutic measures including payment of prescription medications, but not including those controlled substances currently scheduled by the pharmacy quality assurance commission as Schedule I, II, III, or IV substances under chapter 69.50 RCW, which are necessary to alleviate continuing pain which results from the industrial injury. In order to authorize such continued treatment the written order of the supervisor of industrial insurance issued in advance of the continuation shall be necessary.
+
+The supervisor of industrial insurance, the supervisor's designee, or a self-insurer, in his or her sole discretion, may authorize inoculation or other immunological treatment in cases in which a work-related activity has resulted in probable exposure of the worker to a potential infectious occupational disease. Authorization of such treatment does not bind the department or self-insurer in any adjudication of a claim by the same worker or the worker's beneficiary for an occupational disease.
+
+5. [Empty]
+
+    a. The legislature finds that the department and its business and labor partners have collaborated in establishing centers for occupational health and education to promote best practices and prevent preventable disability by focusing additional provider-based resources during the first twelve weeks following an injury. The centers for occupational health and education represent innovative accountable care systems in an early stage of development consistent with national health care reform efforts. Many Washington workers do not yet have access to these innovative health care delivery models.
+
+    b. To expand evidence-based occupational health best practices, the department shall establish additional centers for occupational health and education, with the goal of extending access to at least fifty percent of injured and ill workers by December 2013 and to all injured workers by December 2015. The department shall also develop additional best practices and incentives that span the entire period of recovery, not only the first twelve weeks.
+
+    c. The department shall certify and decertify centers for occupational health and education based on criteria including institutional leadership and geographic areas covered by the center for occupational health and education, occupational health leadership and education, mix of participating health care providers necessary to address the anticipated needs of injured workers, health services coordination to deliver occupational health best practices, indicators to measure the success of the center for occupational health and education, and agreement that the center's providers shall, if feasible, treat certain injured workers if referred by the department or a self-insurer.
+
+    d. Health care delivery organizations may apply to the department for certification as a center for occupational health and education. These may include, but are not limited to, hospitals and affiliated clinics and providers, multispecialty clinics, health maintenance organizations, and organized systems of network physicians.
+
+    e. The centers for occupational health and education shall implement benchmark quality indicators of occupational health best practices for individual providers, developed in collaboration with the department. A center for occupational health and education shall remove individual providers who do not consistently meet these quality benchmarks.
+
+    f. The department shall develop and implement financial and nonfinancial incentives for center for occupational health and education providers that are based on progressive and measurable gains in occupational health best practices, and that are applicable throughout the duration of an injured or ill worker's episode of care.
+
+    g. The department shall develop electronic methods of tracking evidence-based quality measures to identify and improve outcomes for injured workers at risk of developing prolonged disability. In addition, these methods must be used to provide systematic feedback to physicians regarding quality of care, to conduct appropriate objective evaluation of progress in the centers for occupational health and education, and to allow efficient coordination of services.
+
+6. If a provider fails to meet the minimum network standards established in subsection (2) of this section, the department is authorized to remove the provider from the network or take other appropriate action regarding a provider's participation. The department may also require remedial steps as a condition for a provider to participate in the network. The department, with input from the advisory group, shall establish waiting periods that may be imposed before a provider who has been denied or removed from the network may reapply.
+
+7. The department may permanently remove a provider from the network or take other appropriate action when the provider exhibits a pattern of conduct of low quality care that exposes patients to risk of physical or psychiatric harm or death. Patterns that qualify as risk of harm include, but are not limited to, poor health care outcomes evidenced by increased, chronic, or prolonged pain or decreased function due to treatments that have not been shown to be curative, safe, or effective or for which it has been shown that the risks of harm exceed the benefits that can be reasonably expected based on peer-reviewed opinion.
+
+8. The department may not remove a health care provider from the network for an isolated instance of poor health and recovery outcomes due to treatment by the provider.
+
+9. When the department terminates a provider from the network, the department or self-insurer shall assist an injured worker currently under the provider's care in identifying a new network provider or providers from whom the worker can select an attending or treating provider. In such a case, the department or self-insurer shall notify the injured worker that he or she must choose a new attending or treating provider.
+
+10. The department may adopt rules related to this section.
+
+11. The department shall report to the workers' compensation advisory committee and to the appropriate committees of the legislature on each December 1st, beginning in 2012 and ending in 2016, on the implementation of the provider network and expansion of the centers for occupational health and education. The reports must include a summary of actions taken, progress toward long-term goals, outcomes of key initiatives, access to care issues, results of disputes or controversies related to new provisions, and whether any changes are needed to further improve the occupational health best practices care of injured workers.
+
+## Section 5118
+The director of the department of labor and industries or the director's authorized representative shall have the authority to:
+
+## Section 5119
+Any physician or licensed advanced practice registered nurse who fails, neglects or refuses to file a report with the director, as required by this title, within five days of the date of treatment, showing the condition of the injured worker at the time of treatment, a description of the treatment given, and an estimate of the probable duration of the injury, or who fails or refuses to render all necessary assistance to the injured worker, as required by this title, shall be subject to a civil penalty determined by the director but not to exceed five hundred dollars.
+
+## Section 5120
+There shall be a "board of industrial insurance appeals," hereinafter called the "board," consisting of three members appointed by the governor, with the advice and consent of the senate, as hereinafter provided. One shall be a representative of the public and a lawyer, appointed from a mutually agreed to list of not less than three active or judicial members of the Washington state bar association, submitted to the governor by the two organizations defined below, and such member shall be the chairperson of said board. The second member shall be a representative of the majority of workers engaged in employment under this title and selected from a list of not less than three names submitted to the governor by an organization, statewide in scope, which through its affiliates embraces a cross section and a majority of the organized labor of the state. The third member shall be a representative of employers under this title, and appointed from a list of at least three names submitted to the governor by a recognized statewide organization of employers, representing a majority of employers. The initial terms of office of the members of the board shall be for six, four, and two years respectively. Thereafter all terms shall be for a period of six years. Each member of the board shall be eligible for reappointment and shall hold office until his or her successor is appointed and qualified. In the event of a vacancy the governor is authorized to appoint a successor to fill the unexpired term of his or her predecessor. All appointments to the board shall be made in conformity with the foregoing plan. In the event a board member becomes incapacitated in excess of thirty days either due to his or her illness or that of an immediate family member as determined by a request for family leave or as certified by the affected member's treating physician or licensed advanced practice registered nurse, the governor shall appoint an acting member to serve pro tem. Such an appointment shall be made in conformity with the foregoing plan, except that the list of candidates shall be submitted to the governor not more than fifteen days after the affected organizations are notified of the incapacity and the governor shall make the appointment within fifteen days after the list is submitted. The temporary member shall serve until such time as the affected member is able to reassume his or her duties by returning from requested family leave or as determined by the treating physician or licensed advanced practice registered nurse or until the affected member's term expires, whichever occurs first. Whenever the workload of the board and its orderly and expeditious disposition shall necessitate, the governor may appoint two additional pro-tem members in addition to the regular members. Such appointments shall be for a definite period of time, and shall be made from lists submitted respectively by labor and industry as in the case of regular members. One pro-tem member shall be a representative of labor and one shall be a representative of industry. Members shall devote their entire time to the duties of the board and shall receive for their services a salary as fixed by the governor in accordance with the provisions of RCW 43.03.040 which shall be in addition to travel expenses in accordance with RCW 43.03.050 and 43.03.060 as now existing or hereafter amended. Headquarters for the board shall be located in Olympia. The board shall adopt a seal which shall be judicially recognized.
+
+## Section 5121
+1. Reports and records of autopsies or postmortems shall be confidential, except that the following persons may examine and obtain copies of any such report or record: The personal representative of the decedent as defined in RCW 11.02.005, any family member, the attending physician or advanced practice registered nurse, the prosecuting attorney or law enforcement agencies having jurisdiction, public health officials, the department of labor and industries in cases in which it has an interest under RCW 68.50.103, the secretary of the department of children, youth, and families or his or her designee in cases being reviewed under RCW 74.13.640, or the secretary of the department of social and health services or his or her designee under chapter 74.34 RCW.
+
+2. [Empty]
+
+    a. Notwithstanding the restrictions contained in this section regarding the dissemination of records and reports of autopsies or postmortems, nor the exemptions referenced under RCW 42.56.240(1), nothing in this chapter prohibits a coroner, medical examiner, or his or her designee, from publicly discussing his or her findings as to any death subject to the jurisdiction of his or her office where actions of a law enforcement officer or corrections officer have been determined to be a proximate cause of the death, except as provided in (b) of this subsection.
+
+    b. A coroner, medical examiner, or his or her designee may not publicly discuss his or her findings outside of formal court or inquest proceedings if there is a pending or active criminal investigation, or a criminal or civil action, concerning a death that has commenced prior to January 1, 2014.
+
+3. The coroner, the medical examiner, or the attending physician shall, upon request, meet with the family of the decedent to discuss the findings of the autopsy or postmortem. For the purposes of this section, the term "family" means the surviving spouse, state registered domestic partner, or any child, parent, grandparent, grandchild, brother, or sister of the decedent, or any person who was guardian of the decedent at the time of death.
+
+## Section 5122
+As used in this chapter, the following terms have the meanings indicated unless the context clearly requires otherwise:
+
+1. "Administer" means the direct application of a legend drug whether by injection, inhalation, ingestion, or any other means, to the body of a patient or research subject by:
+
+    a. A practitioner; or
+
+    b. The patient or research subject at the direction of the practitioner.
+
+2. "Commission" means the pharmacy quality assurance commission.
+
+3. "Community-based care settings" include: Community residential programs for persons with developmental disabilities, certified by the department of social and health services under chapter 71A.12 RCW; adult family homes licensed under chapter 70.128 RCW; and assisted living facilities licensed under chapter 18.20 RCW. Community-based care settings do not include acute care or skilled nursing facilities.
+
+4. "Deliver" or "delivery" means the actual, constructive, or attempted transfer from one person to another of a legend drug, whether or not there is an agency relationship.
+
+5. "Department" means the department of health.
+
+6. "Dispense" means the interpretation of a prescription or order for a legend drug and, pursuant to that prescription or order, the proper selection, measuring, compounding, labeling, or packaging necessary to prepare that prescription or order for delivery.
+
+7. "Dispenser" means a practitioner who dispenses.
+
+8. "Distribute" means to deliver other than by administering or dispensing a legend drug.
+
+9. "Distributor" means a person who distributes.
+
+10. "Drug" means:
+
+    a. Substances recognized as drugs in the official United States pharmacopoeia, official homeopathic pharmacopoeia of the United States, or official national formulary, or any supplement to any of them;
+
+    b. Substances intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in human beings or animals;
+
+    c. Substances (other than food, minerals or vitamins) intended to affect the structure or any function of the body of human beings or animals; and
+
+    d. Substances intended for use as a component of any article specified in (a), (b), or (c) of this subsection. It does not include devices or their components, parts, or accessories.
+
+11. "Electronic communication of prescription information" means the transmission of a prescription or refill authorization for a drug of a practitioner using computer systems. The term does not include a prescription or refill authorization transmitted verbally by telephone nor a facsimile manually signed by the practitioner.
+
+12. "In-home care settings" include an individual's place of temporary and permanent residence, but does not include acute care or skilled nursing facilities, and does not include community-based care settings.
+
+13. "Legend drugs" means any drugs which are required by state law or regulation of the pharmacy quality assurance commission to be dispensed on prescription only or are restricted to use by practitioners only.
+
+14. "Legible prescription" means a prescription or medication order issued by a practitioner that is capable of being read and understood by the pharmacist filling the prescription or the nurse or other practitioner implementing the medication order. A prescription must be hand printed, typewritten, or electronically generated.
+
+15. "Medication assistance" means assistance rendered by a nonpractitioner to an individual residing in a community-based care setting or in-home care setting to facilitate the individual's self-administration of a legend drug or controlled substance. It includes reminding or coaching the individual, handing the medication container to the individual, opening the individual's medication container, using an enabler, or placing the medication in the individual's hand, and such other means of medication assistance as defined by rule adopted by the department. A nonpractitioner may help in the preparation of legend drugs or controlled substances for self-administration where a practitioner has determined and communicated orally or by written direction that such medication preparation assistance is necessary and appropriate. Medication assistance shall not include assistance with intravenous medications or injectable medications, except prefilled insulin syringes.
+
+16. "Person" means individual, corporation, government or governmental subdivision or agency, business trust, estate, trust, partnership or association, or any other legal entity.
+
+17. "Practitioner" means:
+
+    a. A physician under chapter 18.71 RCW, an osteopathic physician or an osteopathic physician and surgeon under chapter 18.57 RCW, a dentist under chapter 18.32 RCW, a podiatric physician and surgeon under chapter 18.22 RCW, an acupuncturist or acupuncture and Eastern medicine practitioner to the extent authorized under chapter 18.06 RCW and the rules adopted under RCW 18.06.010(1)(m), a veterinarian under chapter 18.92 RCW, a registered nurse, advanced practice registered nurse, or licensed practical nurse under chapter 18.79 RCW, an optometrist under chapter 18.53 RCW who is certified by the optometry board under RCW 18.53.010, a physician assistant under chapter 18.71A RCW, a naturopath licensed under chapter 18.36A RCW, a licensed athletic trainer to the extent authorized under chapter 18.250 RCW, a pharmacist under chapter 18.64 RCW, when acting under the required supervision of a dentist licensed under chapter 18.32 RCW, a dental hygienist licensed under chapter 18.29 RCW, a licensed dental therapist to the extent authorized under chapter 18.265 RCW, or a licensed midwife to the extent authorized under chapter 18.50 RCW;
+
+    b. A pharmacy, hospital, or other institution licensed, registered, or otherwise permitted to distribute, dispense, conduct research with respect to, or to administer a legend drug in the course of professional practice or research in this state; and
+
+    c. A physician licensed to practice medicine and surgery or a physician licensed to practice osteopathic medicine and surgery in any state, or province of Canada, which shares a common border with the state of Washington.
+
+18. "Secretary" means the secretary of health or the secretary's designee.
+
+## Section 5123
+1. It shall be unlawful for any person to sell or deliver any legend drug, or knowingly possess any legend drug, or knowingly use any legend drug in a public place, except upon the order or prescription of a physician under chapter 18.71 RCW, an osteopathic physician and surgeon under chapter 18.57 RCW, an optometrist licensed under chapter 18.53 RCW who is certified by the optometry board under RCW 18.53.010, a dentist under chapter 18.32 RCW, a podiatric physician and surgeon under chapter 18.22 RCW, a licensed midwife to the extent authorized under chapter 18.50 RCW, a veterinarian under chapter 18.92 RCW, a commissioned medical or dental officer in the United States armed forces or public health service in the discharge of his or her official duties, a duly licensed physician or dentist employed by the veterans administration in the discharge of his or her official duties, a registered nurse or advanced practice registered nurse under chapter 18.79 RCW when authorized by the board of nursing, a pharmacist licensed under chapter 18.64 RCW to the extent permitted by drug therapy guidelines or protocols established under RCW 18.64.011 and authorized by the commission and approved by a practitioner authorized to prescribe drugs, a physician assistant under chapter 18.71A RCW when authorized by the Washington medical commission, or any of the following professionals in any province of Canada that shares a common border with the state of Washington or in any state of the United States: A physician licensed to practice medicine and surgery or a physician licensed to practice osteopathic medicine and surgery, a dentist licensed to practice dentistry, a podiatric physician and surgeon licensed to practice podiatric medicine and surgery, a licensed advanced practice registered nurse, a licensed physician assistant, or a veterinarian licensed to practice veterinary medicine: PROVIDED, HOWEVER, That the above provisions shall not apply to sale, delivery, or possession by drug wholesalers or drug manufacturers, or their agents or employees, or to any practitioner acting within the scope of his or her license, or to a common or contract carrier or warehouse operator, or any employee thereof, whose possession of any legend drug is in the usual course of business or employment: PROVIDED FURTHER, That nothing in this chapter or chapter 18.64 RCW shall prevent a family planning clinic that is under contract with the health care authority from selling, delivering, possessing, and dispensing commercially prepackaged oral contraceptives prescribed by authorized, licensed health care practitioners: PROVIDED FURTHER, That nothing in this chapter prohibits possession or delivery of legend drugs by an authorized collector or other person participating in the operation of a drug take-back program authorized in chapter 69.48 RCW.
+
+2. [Empty]
+
+    a. A violation of this section involving the sale, delivery, or possession with intent to sell or deliver is a class B felony punishable according to chapter 9A.20 RCW.
+
+    b. A violation of this section involving knowing possession is a misdemeanor. The prosecutor is encouraged to divert such cases for assessment, treatment, or other services.
+
+    c. A violation of this section involving knowing use in a public place is a misdemeanor. The prosecutor is encouraged to divert such cases for assessment, treatment, or other services.
+
+    d. No person may be charged with both knowing possession and knowing use in a public place under this section relating to the same course of conduct.
+
+    e. In lieu of jail booking and referral to the prosecutor for a violation of this section involving knowing possession, or knowing use in a public place, law enforcement is encouraged to offer a referral to assessment and services available under RCW 10.31.110 or other program or entity responsible for receiving referrals in lieu of legal system involvement, which may include, but are not limited to, arrest and jail alternative programs established under RCW 36.28A.450, law enforcement assisted diversion programs established under RCW 71.24.589, and the recovery navigator program established under RCW 71.24.115.
+
+3. For the purposes of this section, "public place" has the same meaning as defined in RCW 66.04.010, but the exclusions in RCW 66.04.011 do not apply.
+
+4. For the purposes of this section, "use any legend drug" means to introduce the drug into the human body by injection, inhalation, ingestion, or any other means.
+
+## Section 5124
+1. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Iodine matrix" means iodine at a concentration greater than two percent by weight in a matrix or solution.
+
+    b. "Matrix" means something, as a substance, in which something else originates, develops, or is contained.
+
+    c. "Methylsulfonylmethane" means methylsulfonylmethane in its powder form only, and does not include products containing methylsulfonylmethane in other forms such as liquids, tablets, capsules not containing methylsulfonylmethane in pure powder form, ointments, creams, cosmetics, foods, and beverages.
+
+2. Any person who knowingly purchases in a thirty-day period or possesses any quantity of iodine in its elemental form, an iodine matrix, or more than two pounds of methylsulfonylmethane is guilty of a gross misdemeanor, except as provided in subsection (3) of this section.
+
+3. Subsection (2) of this section does not apply to:
+
+    a. A person who possesses iodine in its elemental form or an iodine matrix as a prescription drug, under a prescription issued by a licensed veterinarian, physician, or advanced practice registered nurse;
+
+    b. A person who possesses iodine in its elemental form, an iodine matrix, or any quantity of methylsulfonylmethane in its powder form and is actively engaged in the practice of animal husbandry of livestock;
+
+    c. A person who possesses iodine in its elemental form or an iodine matrix in conjunction with experiments conducted in a chemistry or chemistry-related laboratory maintained by a:
+
+        i. Public or private secondary school;
+
+        ii. Public or private institution of higher education that is accredited by a regional or national accrediting agency recognized by the United States department of education;
+
+        iii. Manufacturing facility, government agency, or research facility in the course of lawful business activities;
+
+    d. A veterinarian, physician, advanced practice registered nurse, pharmacist, retail distributor, wholesaler, manufacturer, warehouse operator, or common carrier, or an agent of any of these persons who possesses iodine in its elemental form, an iodine matrix, or methylsulfonylmethane in its powder form in the regular course of lawful business activities; or
+
+    e. A person working in a general hospital who possesses iodine in its elemental form or an iodine matrix in the regular course of employment at the hospital.
+
+4. Any person who purchases any quantity of iodine in its elemental form, an iodine matrix, or any quantity of methylsulfonylmethane must present an identification card or driver's license issued by any state in the United States or jurisdiction of another country before purchasing the item.
+
+5. The Washington state patrol shall develop a form to be used in recording transactions involving iodine in its elemental form, an iodine matrix, or methylsulfonylmethane. A person who sells or otherwise transfers any quantity of iodine in its elemental form, an iodine matrix, or any quantity of methylsulfonylmethane to a person for any purpose authorized in subsection (3) of this section must record each sale or transfer. The record must be made on the form developed by the Washington state patrol and must be retained by the person for at least three years. The Washington state patrol or any local law enforcement agency may request access to the records.
+
+    a. Failure to make or retain a record required under this subsection is a misdemeanor.
+
+    b. Failure to comply with a request for access to records required under this subsection to the Washington state patrol or a local law enforcement agency is a misdemeanor.
+
+## Section 5125
+The definitions in this section apply throughout this chapter.
+
+1. "Commission" means the pharmacy quality assurance commission.
+
+2. "Controlled substance" means a drug, substance, or immediate precursor of such drug or substance, so designated under or pursuant to chapter 69.50 RCW, the uniform controlled substances act.
+
+3. "Deliver" or "delivery" means the actual, constructive, or attempted transfer from one person to another of a drug or device, whether or not there is an agency relationship.
+
+4. "Department" means the department of health.
+
+5. "Dispense" means the interpretation of a prescription or order for a drug, biological, or device and, pursuant to that prescription or order, the proper selection, measuring, compounding, labeling, or packaging necessary to prepare that prescription or order for delivery.
+
+6. "Distribute" means to deliver, other than by administering or dispensing, a legend drug.
+
+7. "Drug samples" means any federal food and drug administration approved controlled substance, legend drug, or products requiring prescriptions in this state, which is distributed at no charge to a practitioner by a manufacturer or a manufacturer's representative, exclusive of drugs under clinical investigations approved by the federal food and drug administration.
+
+8. "Legend drug" means any drug that is required by state law or by regulations of the commission to be dispensed on prescription only or is restricted to use by practitioners only.
+
+9. "Manufacturer" means a person or other entity engaged in the manufacture or distribution of drugs or devices, but does not include a manufacturer's representative.
+
+10. "Manufacturer's representative" means an agent or employee of a drug manufacturer who is authorized by the drug manufacturer to possess drug samples for the purpose of distribution in this state to appropriately authorized health care practitioners.
+
+11. "Person" means any individual, corporation, government or governmental subdivision or agency, business trust, estate, trust, partnership, association, or any other legal entity.
+
+12. "Practitioner" means a physician under chapter 18.71 RCW, an osteopathic physician or an osteopathic physician and surgeon under chapter 18.57 RCW, a dentist under chapter 18.32 RCW, a podiatric physician and surgeon under chapter 18.22 RCW, a veterinarian under chapter 18.92 RCW, a pharmacist under chapter 18.64 RCW, a commissioned medical or dental officer in the United States armed forces or the public health service in the discharge of his or her official duties, a duly licensed physician or dentist employed by the veterans administration in the discharge of his or her official duties, a registered nurse or advanced practice registered nurse under chapter 18.79 RCW when authorized to prescribe by the state board of nursing, or a physician assistant under chapter 18.71A RCW when authorized by the Washington medical commission.
+
+13. "Reasonable cause" means a state of facts found to exist that would warrant a reasonably intelligent and prudent person to believe that a person has violated state or federal drug laws or regulations.
+
+14. "Secretary" means the secretary of health or the secretary's designee.
+
+## Section 5126
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Administer" means to apply a controlled substance, whether by injection, inhalation, ingestion, or any other means, directly to the body of a patient or research subject by:
+
+    a. a practitioner authorized to prescribe (or, by the practitioner's authorized agent); or
+
+    b. the patient or research subject at the direction and in the presence of the practitioner.
+
+2. "Agent" means an authorized person who acts on behalf of or at the direction of a manufacturer, distributor, or dispenser. It does not include a common or contract carrier, public warehouseperson, or employee of the carrier or warehouseperson.
+
+3. "Board" means the Washington state liquor and cannabis board.
+
+4. "Cannabis" means all parts of the plant , whether growing or not, with a THC concentration greater than 0.3 percent on a dry weight basis during the growing cycle through harvest and usable cannabis. "Cannabis" does not include hemp or industrial hemp as defined in RCW 15.140.020, or seeds used for licensed hemp production under chapter 15.140 RCW.
+
+5. "Cannabis concentrates" means products consisting wholly or in part of the resin extracted from any part of the plant  and having a THC concentration greater than ten percent.
+
+6. "Cannabis processor" means a person licensed by the board to process cannabis into cannabis concentrates, useable cannabis, and cannabis-infused products, package and label cannabis concentrates, useable cannabis, and cannabis-infused products for sale in retail outlets, and sell cannabis concentrates, useable cannabis, and cannabis-infused products at wholesale to cannabis retailers.
+
+7. "Cannabis producer" means a person licensed by the board to produce and sell cannabis at wholesale to cannabis processors and other cannabis producers.
+
+8. [Empty]
+
+    a. "Cannabis products" means useable cannabis, cannabis concentrates, and cannabis-infused products as defined in this section, including any product intended to be consumed or absorbed inside the body by any means including inhalation, ingestion, or insertion, with any detectable amount of THC.
+
+    b. "Cannabis products" also means any product containing only THC content.
+
+    c. "Cannabis products" does not include cannabis health and beauty aids as defined in RCW 69.50.575 or products approved by the United States food and drug administration.
+
+9. "Cannabis researcher" means a person licensed by the board to produce, process, and possess cannabis for the purposes of conducting research on cannabis and cannabis-derived drug products.
+
+10. "Cannabis retailer" means a person licensed by the board to sell cannabis concentrates, useable cannabis, and cannabis-infused products in a retail outlet.
+
+11. "Cannabis-infused products" means products that contain cannabis or cannabis extracts, are intended for human use, are derived from cannabis as defined in subsection (4) of this section, and have a THC concentration no greater than ten percent. The term "cannabis-infused products" does not include either useable cannabis or cannabis concentrates.
+
+12. "CBD concentration" has the meaning provided in RCW 69.51A.010.
+
+13. "CBD product" means any product containing or consisting of cannabidiol.
+
+14. "Commission" means the pharmacy quality assurance commission.
+
+15. "Controlled substance" means a drug, substance, or immediate precursor included in Schedules I through V as set forth in federal or state laws, or federal or commission rules, but does not include hemp or industrial hemp as defined in RCW 15.140.020.
+
+16. [Empty]
+
+    a. "Controlled substance analog" means a substance the chemical structure of which is substantially similar to the chemical structure of a controlled substance in Schedule I or II and:
+
+        i. that has a stimulant, depressant, or hallucinogenic effect on the central nervous system substantially similar to the stimulant, depressant, or hallucinogenic effect on the central nervous system of a controlled substance included in Schedule I or II; or
+
+        ii. with respect to a particular individual, that the individual represents or intends to have a stimulant, depressant, or hallucinogenic effect on the central nervous system substantially similar to the stimulant, depressant, or hallucinogenic effect on the central nervous system of a controlled substance included in Schedule I or II.
+
+    b. The term does not include:
+
+        i. a controlled substance;
+
+        ii. a substance for which there is an approved new drug application;
+
+        iii. a substance with respect to which an exemption is in effect for investigational use by a particular person under Section 505 of the federal food, drug, and cosmetic act, 21 U.S.C. Sec. 355, or chapter 69.77 RCW to the extent conduct with respect to the substance is pursuant to the exemption; or
+
+        iv. any substance to the extent not intended for human consumption before an exemption takes effect with respect to the substance.
+
+17. "Deliver" or "delivery" means the actual or constructive transfer from one person to another of a substance, whether or not there is an agency relationship.
+
+18. "Department" means the department of health.
+
+19. "Designated provider" has the meaning provided in RCW 69.51A.010.
+
+20. "Dispense" means the interpretation of a prescription or order for a controlled substance and, pursuant to that prescription or order, the proper selection, measuring, compounding, labeling, or packaging necessary to prepare that prescription or order for delivery.
+
+21. "Dispenser" means a practitioner who dispenses.
+
+22. "Distribute" means to deliver other than by administering or dispensing a controlled substance.
+
+23. "Distributor" means a person who distributes.
+
+24. "Drug" means (a) a controlled substance recognized as a drug in the official United States pharmacopoeia/national formulary or the official homeopathic pharmacopoeia of the United States, or any supplement to them; (b) controlled substances intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in individuals or animals; (c) controlled substances (other than food) intended to affect the structure or any function of the body of individuals or animals; and (d) controlled substances intended for use as a component of any article specified in (a), (b), or (c) of this subsection. The term does not include devices or their components, parts, or accessories.
+
+25. "Drug enforcement administration" means the drug enforcement administration in the United States Department of Justice, or its successor agency.
+
+26. "Electronic communication of prescription information" means the transmission of a prescription or refill authorization for a drug of a practitioner using computer systems. The term does not include a prescription or refill authorization verbally transmitted by telephone nor a facsimile manually signed by the practitioner.
+
+27. "Immature plant or clone" means a plant or clone that has no flowers, is less than twelve inches in height, and is less than twelve inches in diameter.
+
+28. "Immediate precursor" means a substance:
+
+    a. that the commission has found to be and by rule designates as being the principal compound commonly used, or produced primarily for use, in the manufacture of a controlled substance;
+
+    b. that is an immediate chemical intermediary used or likely to be used in the manufacture of a controlled substance; and
+
+    c. the control of which is necessary to prevent, curtail, or limit the manufacture of the controlled substance.
+
+29. "Isomer" means an optical isomer, but in subsection (33)(e) of this section, RCW 69.50.204(1) (l) and (hh), and 69.50.206(2)(d), the term includes any geometrical isomer; in RCW 69.50.204(1) (h) and (pp) and 69.50.210(3), the term includes any positional isomer; and in RCW 69.50.204(1)(ii), 69.50.204(3), and 69.50.208(1), the term includes any positional or geometric isomer.
+
+30. "Lot" means a definite quantity of cannabis, cannabis concentrates, useable cannabis, or cannabis-infused product identified by a lot number, every portion or package of which is uniform within recognized tolerances for the factors that appear in the labeling.
+
+31. "Lot number" must identify the licensee by business or trade name and Washington state unified business identifier number, and the date of harvest or processing for each lot of cannabis, cannabis concentrates, useable cannabis, or cannabis-infused product.
+
+32. "Manufacture" means the production, preparation, propagation, compounding, conversion, or processing of a controlled substance, either directly or indirectly or by extraction from substances of natural origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis, and includes any packaging or repackaging of the substance or labeling or relabeling of its container. The term does not include the preparation, compounding, packaging, repackaging, labeling, or relabeling of a controlled substance:
+
+    a. by a practitioner as an incident to the practitioner's administering or dispensing of a controlled substance in the course of the practitioner's professional practice; or
+
+    b. by a practitioner, or by the practitioner's authorized agent under the practitioner's supervision, for the purpose of, or as an incident to, research, teaching, or chemical analysis and not for sale.
+
+33. "Narcotic drug" means any of the following, whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
+
+    a. Opium, opium derivative, and any derivative of opium or opium derivative, including their salts, isomers, and salts of isomers, whenever the existence of the salts, isomers, and salts of isomers is possible within the specific chemical designation. The term does not include the isoquinoline alkaloids of opium.
+
+    b. Synthetic opiate and any derivative of synthetic opiate, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of the isomers, esters, ethers, and salts is possible within the specific chemical designation.
+
+    c. Poppy straw and concentrate of poppy straw.
+
+    d. Coca leaves, except coca leaves and extracts of coca leaves from which cocaine, ecgonine, and derivatives or ecgonine or their salts have been removed.
+
+    e. Cocaine, or any salt, isomer, or salt of isomer thereof.
+
+    f. Cocaine base.
+
+    g. Ecgonine, or any derivative, salt, isomer, or salt of isomer thereof.
+
+    h. Any compound, mixture, or preparation containing any quantity of any substance referred to in (a) through (g) of this subsection.
+
+34. "Opiate" means any substance having an addiction-forming or addiction-sustaining liability similar to morphine or being capable of conversion into a drug having addiction-forming or addiction-sustaining liability. The term includes opium, substances derived from opium (opium derivatives), and synthetic opiates. The term does not include, unless specifically designated as controlled under RCW 69.50.201, the dextrorotatory isomer of 3-methoxy-n-methylmorphinan and its salts (dextromethorphan). The term includes the racemic and levorotatory forms of dextromethorphan.
+
+35. "Opium poppy" means the plant of the species Papaver somniferum L., except its seeds.
+
+36. "Package" means a container that has a single unit or group of units.
+
+37. "Person" means individual, corporation, business trust, estate, trust, partnership, association, joint venture, government, governmental subdivision or agency, or any other legal or commercial entity.
+
+38. "Plant" has the meaning provided in RCW 69.51A.010.
+
+39. "Poppy straw" means all parts, except the seeds, of the opium poppy, after mowing.
+
+40. "Practitioner" means:
+
+    a. A physician under chapter 18.71 RCW; a physician assistant under chapter 18.71A RCW; an osteopathic physician and surgeon under chapter 18.57 RCW; an optometrist licensed under chapter 18.53 RCW who is certified by the optometry board under RCW 18.53.010 subject to any limitations in RCW 18.53.010; a dentist under chapter 18.32 RCW; a podiatric physician and surgeon under chapter 18.22 RCW; a veterinarian under chapter 18.92 RCW; a registered nurse, advanced practice registered nurse, or licensed practical nurse under chapter 18.79 RCW; a naturopathic physician under chapter 18.36A RCW who is licensed under RCW 18.36A.030 subject to any limitations in RCW 18.36A.040; a pharmacist under chapter 18.64 RCW or a scientific investigator under this chapter, licensed, registered or otherwise permitted insofar as is consistent with those licensing laws to distribute, dispense, conduct research with respect to or administer a controlled substance in the course of their professional practice or research in this state.
+
+    b. A pharmacy, hospital or other institution licensed, registered, or otherwise permitted to distribute, dispense, conduct research with respect to or to administer a controlled substance in the course of professional practice or research in this state.
+
+    c. A physician licensed to practice medicine and surgery, a physician licensed to practice osteopathic medicine and surgery, a dentist licensed to practice dentistry, a podiatric physician and surgeon licensed to practice podiatric medicine and surgery, a licensed physician assistant or a licensed osteopathic physician assistant specifically approved to prescribe controlled substances by his or her state's medical commission or equivalent and his or her participating physician as defined in RCW 18.71A.010, an advanced practice registered nurse licensed to prescribe controlled substances, or a veterinarian licensed to practice veterinary medicine in any state of the United States.
+
+41. "Prescription" means an order for controlled substances issued by a practitioner duly authorized by law or rule in the state of Washington to prescribe controlled substances within the scope of his or her professional practice for a legitimate medical purpose.
+
+42. "Production" includes the manufacturing, planting, cultivating, growing, or harvesting of a controlled substance.
+
+43. "Qualifying patient" has the meaning provided in RCW 69.51A.010.
+
+44. "Recognition card" has the meaning provided in RCW 69.51A.010.
+
+45. "Retail outlet" means a location licensed by the board for the retail sale of cannabis concentrates, useable cannabis, and cannabis-infused products.
+
+46. "Secretary" means the secretary of health or the secretary's designee.
+
+47. "Social equity plan" means a plan that addresses at least some of the elements outlined in this subsection (47), along with any additional plan components or requirements approved by the board following consultation with the task force created in RCW 69.50.336. The plan may include:
+
+    a. A statement that indicates how the cannabis licensee will work to promote social equity goals in their community;
+
+    b. A description of how the cannabis licensee will meet social equity goals as defined in RCW 69.50.335;
+
+    c. The composition of the workforce the licensee has employed or intends to hire; and
+
+    d. Business plans involving partnerships or assistance to organizations or residents with connections to populations with a history of high rates of enforcement of cannabis prohibition.
+
+48. "State," unless the context otherwise requires, means a state of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or a territory or insular possession subject to the jurisdiction of the United States.
+
+49. "THC concentration" means percent of tetrahydrocannabinol content of any part of the plant , or per volume or weight of cannabis product, or the combined percent of tetrahydrocannabinol and tetrahydrocannabinolic acid in any part of the plant  regardless of moisture content.
+
+50. "Ultimate user" means an individual who lawfully possesses a controlled substance for the individual's own use or for the use of a member of the individual's household or for administering to an animal owned by the individual or by a member of the individual's household.
+
+51. "Unit" means an individual consumable item within a package of one or more consumable items in solid, liquid, gas, or any form intended for human consumption.
+
+52. "Useable cannabis" means dried cannabis flowers. The term "useable cannabis" does not include either cannabis-infused products or cannabis concentrates.
+
+53. "Youth access" means the level of interest persons under the age of twenty-one may have in a vapor product, as well as the degree to which the product is available or appealing to such persons, and the likelihood of initiation, use, or addiction by adolescents and young adults.
+
+## Section 5127
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+## Section 5128
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Admission" has the same meaning as in RCW 71.05.020.
+
+2. "Audit" means an assessment, evaluation, determination, or investigation of a health care provider by a person not employed by or affiliated with the provider to determine compliance with:
+
+    a. Statutory, regulatory, fiscal, medical, or scientific standards;
+
+    b. A private or public program of payments to a health care provider; or
+
+    c. Requirements for licensing, accreditation, or certification.
+
+3. "Authority" means the Washington state health care authority.
+
+4. "Commitment" has the same meaning as in RCW 71.05.020.
+
+5. "Custody" has the same meaning as in RCW 71.05.020.
+
+6. "Deidentified" means health information that does not identify an individual and with respect to which there is no reasonable basis to believe that the information can be used to identify an individual.
+
+7. "Department" means the department of social and health services.
+
+8. "Designated crisis responder" has the same meaning as in RCW 71.05.020 or 71.34.020, as applicable.
+
+9. "Detention" or "detain" has the same meaning as in RCW 71.05.020.
+
+10. "Directory information" means information disclosing the presence, and for the purpose of identification, the name, location within a health care facility, and the general health condition of a particular patient who is a patient in a health care facility or who is currently receiving emergency health care in a health care facility.
+
+11. "Discharge" has the same meaning as in RCW 71.05.020.
+
+12. "Evaluation and treatment facility" has the same meaning as in RCW 71.05.020 or 71.34.020, as applicable.
+
+13. "Federal, state, or local law enforcement authorities" means an officer of any agency or authority in the United States, a state, a tribe, a territory, or a political subdivision of a state, a tribe, or a territory who is empowered by law to: (a) Investigate or conduct an official inquiry into a potential criminal violation of law; or (b) prosecute or otherwise conduct a criminal proceeding arising from an alleged violation of law.
+
+14. "General health condition" means the patient's health status described in terms of "critical," "poor," "fair," "good," "excellent," or terms denoting similar conditions.
+
+15. "Health care" means any care, service, or procedure provided by a health care provider:
+
+    a. To diagnose, treat, or maintain a patient's physical or mental condition; or
+
+    b. That affects the structure or any function of the human body.
+
+16. "Health care facility" means a hospital, clinic, nursing home, laboratory, office, or similar place where a health care provider provides health care to patients.
+
+17. "Health care information" means any information, whether oral or recorded in any form or medium, that identifies or can readily be associated with the identity of a patient and directly relates to the patient's health care, including a patient's deoxyribonucleic acid and identified sequence of chemical base pairs. The term includes any required accounting of disclosures of health care information.
+
+18. "Health care operations" means any of the following activities of a health care provider, health care facility, or third-party payor to the extent that the activities are related to functions that make an entity a health care provider, a health care facility, or a third-party payor:
+
+    a. Conducting: Quality assessment and improvement activities, including outcomes evaluation and development of clinical guidelines, if the obtaining of generalizable knowledge is not the primary purpose of any studies resulting from such activities; population-based activities relating to improving health or reducing health care costs, protocol development, case management and care coordination, contacting of health care providers and patients with information about treatment alternatives; and related functions that do not include treatment;
+
+    b. Reviewing the competence or qualifications of health care professionals, evaluating practitioner and provider performance and third-party payor performance, conducting training programs in which students, trainees, or practitioners in areas of health care learn under supervision to practice or improve their skills as health care providers, training of nonhealth care professionals, accreditation, certification, licensing, or credentialing activities;
+
+    c. Underwriting, premium rating, and other activities relating to the creation, renewal, or replacement of a contract of health insurance or health benefits, and ceding, securing, or placing a contract for reinsurance of risk relating to claims for health care, including stop-loss insurance and excess of loss insurance, if any applicable legal requirements are met;
+
+    d. Conducting or arranging for medical review, legal services, and auditing functions, including fraud and abuse detection and compliance programs;
+
+    e. Business planning and development, such as conducting cost-management and planning-related analyses related to managing and operating the health care facility or third-party payor, including formulary development and administration, development, or improvement of methods of payment or coverage policies; and
+
+    f. Business management and general administrative activities of the health care facility, health care provider, or third-party payor including, but not limited to:
+
+        i. Management activities relating to implementation of and compliance with the requirements of this chapter;
+
+        ii. Customer service, including the provision of data analyses for policyholders, plan sponsors, or other customers, provided that health care information is not disclosed to such policyholder, plan sponsor, or customer;
+
+        iii. Resolution of internal grievances;
+
+        iv. The sale, transfer, merger, or consolidation of all or part of a health care provider, health care facility, or third-party payor with another health care provider, health care facility, or third-party payor or an entity that following such activity will become a health care provider, health care facility, or third-party payor, and due diligence related to such activity; and
+
+    v. Consistent with applicable legal requirements, creating deidentified health care information or a limited data set for the benefit of the health care provider, health care facility, or third-party payor.
+
+19. "Health care provider" means a person who is licensed, certified, registered, or otherwise authorized by the law of this state to provide health care in the ordinary course of business or practice of a profession.
+
+20. "Human immunodeficiency virus" or "HIV" has the same meaning as in RCW 70.24.017.
+
+21. "Imminent" has the same meaning as in RCW 71.05.020.
+
+22. "Indian health care provider" has the same meaning as in RCW 43.71B.010(11).
+
+23. "Information and records related to mental health services" means a type of health care information that relates to all information and records compiled, obtained, or maintained in the course of providing services by a mental health service agency or mental health professional to persons who are receiving or have received services for mental illness. The term includes mental health information contained in a medical bill, registration records, and all other records regarding the person maintained by the department, by the authority, by behavioral health administrative services organizations and their staff, managed care organizations contracted with the authority under chapter 74.09 RCW and their staff, and by treatment facilities. The term further includes documents of legal proceedings under chapter 71.05, 71.34, or 10.77 RCW, or somatic health care information. For health care information maintained by a hospital as defined in RCW 70.41.020 or a health care facility or health care provider that participates with a hospital in an organized health care arrangement defined under federal law, "information and records related to mental health services" is limited to information and records of services provided by a mental health professional or information and records of services created by a hospital-operated community behavioral health program as defined in RCW 71.24.025. The term does not include psychotherapy notes.
+
+24. "Information and records related to sexually transmitted diseases" means a type of health care information that relates to the identity of any person upon whom an HIV antibody test or other sexually transmitted infection test is performed, the results of such tests, and any information relating to diagnosis of or treatment for any confirmed sexually transmitted infections.
+
+25. "Institutional review board" means any board, committee, or other group formally designated by an institution, or authorized under federal or state law, to review, approve the initiation of, or conduct periodic review of research programs to assure the protection of the rights and welfare of human research subjects.
+
+26. "Legal counsel" has the same meaning as in RCW 71.05.020.
+
+27. "Local public health officer" has the same meaning as the term "local health officer" as defined in RCW 70.24.017.
+
+28. "Maintain," as related to health care information, means to hold, possess, preserve, retain, store, or control that information.
+
+29. "Managed care organization" has the same meaning as provided in RCW 71.24.025.
+
+30. "Mental health professional" means a psychiatrist, psychologist, psychiatric advanced practice registered nurse, psychiatric nurse, or social worker, and such other mental health professionals as may be defined by rules adopted by the secretary of health under chapter 71.05 RCW, whether that person works in a private or public setting.
+
+31. "Mental health service agency" means a public or private agency that provides services to persons with mental disorders as defined under RCW 71.05.020 or 71.34.020 and receives funding from public sources. This includes evaluation and treatment facilities as defined in RCW 71.34.020, community mental health service delivery systems, or community behavioral health programs, as defined in RCW 71.24.025, and facilities conducting competency evaluations and restoration under chapter 10.77 RCW.
+
+32. "Minor" has the same meaning as in RCW 71.34.020.
+
+33. "Parent" has the same meaning as in RCW 71.34.020.
+
+34. "Patient" means an individual who receives or has received health care. The term includes a deceased individual who has received health care.
+
+35. "Payment" means:
+
+    a. The activities undertaken by:
+
+        i. A third-party payor to obtain premiums or to determine or fulfill its responsibility for coverage and provision of benefits by the third-party payor; or
+
+        ii. A health care provider, health care facility, or third-party payor, to obtain or provide reimbursement for the provision of health care; and
+
+    b. The activities in (a) of this subsection that relate to the patient to whom health care is provided and that include, but are not limited to:
+
+        i. Determinations of eligibility or coverage, including coordination of benefits or the determination of cost-sharing amounts, and adjudication or subrogation of health benefit claims;
+
+        ii. Risk adjusting amounts due based on enrollee health status and demographic characteristics;
+
+        iii. Billing, claims management, collection activities, obtaining payment under a contract for reinsurance, including stop-loss insurance and excess of loss insurance, and related health care data processing;
+
+        iv. Review of health care services with respect to medical necessity, coverage under a health plan, appropriateness of care, or justification of charges;
+
+    v. Utilization review activities, including precertification and preauthorization of services, and concurrent and retrospective review of services; and
+
+    vi. Disclosure to consumer reporting agencies of any of the following health care information relating to collection of premiums or reimbursement:
+
+(A) Name and address;
+
+(B) Date of birth;
+
+(C) Social security number;
+
+(D) Payment history;
+
+(E) Account number; and
+
+(F) Name and address of the health care provider, health care facility, and/or third-party payor.
+
+36. "Person" means an individual, corporation, business trust, estate, trust, partnership, association, joint venture, government, governmental subdivision or agency, or any other legal or commercial entity.
+
+37. "Professional person" has the same meaning as in RCW 71.05.020.
+
+38. "Psychiatric advanced practice registered nurse" has the same meaning as in RCW 71.05.020.
+
+39. "Psychotherapy notes" means notes recorded, in any medium, by a mental health professional documenting or analyzing the contents of conversations during a private counseling session or group, joint, or family counseling session, and that are separated from the rest of the individual's medical record. The term excludes mediation prescription and monitoring, counseling session start and stop times, the modalities and frequencies of treatment furnished, results of clinical tests, and any summary of the following items: Diagnosis, functional status, the treatment plan, symptoms, prognosis, and progress to date.
+
+40. "Reasonable fee" means the charges for duplicating or searching the record, but shall not exceed 65 cents per page for the first 30 pages and 50 cents per page for all other pages. In addition, a clerical fee for searching and handling may be charged not to exceed $15. These amounts shall be adjusted biennially in accordance with changes in the consumer price index, all consumers, for Seattle-Tacoma metropolitan statistical area as determined by the secretary of health. However, where editing of records by a health care provider is required by statute and is done by the provider personally, the fee may be the usual and customary charge for a basic office visit.
+
+41. "Release" has the same meaning as in RCW 71.05.020.
+
+42. "Resource management services" has the same meaning as in RCW 71.05.020.
+
+43. "Serious violent offense" has the same meaning as in RCW 9.94A.030.
+
+44. "Sexually transmitted infection" or "sexually transmitted disease" has the same meaning as "sexually transmitted disease" in RCW 70.24.017.
+
+45. "Test for a sexually transmitted disease" has the same meaning as in RCW 70.24.017.
+
+46. "Third-party payor" means an insurer regulated under Title 48 RCW authorized to transact business in this state or other jurisdiction, including a health care service contractor, and health maintenance organization; or an employee welfare benefit plan, excluding fitness or wellness plans; or a state or federal health benefit program.
+
+47. "Treatment" means the provision, coordination, or management of health care and related services by one or more health care providers or health care facilities, including the coordination or management of health care by a health care provider or health care facility with a third party; consultation between health care providers or health care facilities relating to a patient; or the referral of a patient for health care from one health care provider or health care facility to another.
+
+48. "Tribal public health authority" means a tribe that is responsible for public health matters as a part of its official mandate.
+
+49. "Tribal public health officer" means the individual appointed as the health officer for the tribe.
+
+50. "Tribe" has the same meaning as in RCW 71.24.025.
+
+## Section 5129
+1. The fact of admission to a provider for mental health services and all information and records compiled, obtained, or maintained in the course of providing mental health services to either voluntary or involuntary recipients of services at public or private agencies may not be disclosed except as provided in this section, RCW 70.02.050, 71.05.445, 74.09.295, 70.02.210, 70.02.240, 70.02.250, 70.02.260, and 70.02.265, or pursuant to a valid authorization under RCW 70.02.030.
+
+2. Information and records related to mental health services, other than those obtained through treatment under chapter 71.34 RCW, may be disclosed:
+
+    a. In communications between qualified professional persons to meet the requirements of chapter 71.05 RCW, including Indian health care providers, in the provision of services or appropriate referrals, or in the course of guardianship proceedings if provided to a professional person:
+
+        i. Employed by the facility;
+
+        ii. Who has medical responsibility for the patient's care;
+
+        iii. Who is a designated crisis responder;
+
+        iv. Who is providing services under chapter 71.24 RCW;
+
+    v. Who is employed by a state or local correctional facility where the person is confined or supervised; or
+
+    vi. Who is providing evaluation, treatment, or follow-up services under chapter 10.77 RCW;
+
+    b. When the communications regard the special needs of a patient and the necessary circumstances giving rise to such needs and the disclosure is made by a facility providing services to the operator of a facility in which the patient resides or will reside;
+
+    c. [Empty]
+
+        i. When the person receiving services, or his or her guardian, designates persons to whom information or records may be released, or if the person is a minor, when his or her parents make such a designation;
+
+        ii. A public or private agency shall release to a person's next of kin, attorney, personal representative, guardian, or conservator, if any:
+
+(A) The information that the person is presently a patient in the facility or that the person is seriously physically ill;
+
+(B) A statement evaluating the mental and physical condition of the patient, and a statement of the probable duration of the patient's confinement, if such information is requested by the next of kin, attorney, personal representative, guardian, or conservator; and
+
+        iii. Other information requested by the next of kin or attorney as may be necessary to decide whether or not proceedings should be instituted to appoint a guardian or conservator;
+
+    d. [Empty]
+
+        i. To the courts, including tribal courts, as necessary to the administration of chapter 71.05 RCW, or equivalent proceedings in tribal courts, or to a court ordering an evaluation or treatment under chapter 10.77 RCW solely for the purpose of preventing the entry of any evaluation or treatment order that is inconsistent with any order entered under chapter 71.05 RCW.
+
+        ii. To a court or its designee in which a motion under chapter 10.77 RCW has been made for involuntary medication of a defendant for the purpose of competency restoration.
+
+        iii. Disclosure under this subsection is mandatory for the purpose of the federal health insurance portability and accountability act;
+
+    e. [Empty]
+
+        i. When a mental health professional or designated crisis responder is requested by a representative of a law enforcement or corrections agency, including a police officer, sheriff, community corrections officer, a municipal attorney, or prosecuting attorney to undertake an investigation or provide treatment under RCW 71.05.150, 10.31.110, or 71.05.153, the mental health professional or designated crisis responder shall, if requested to do so, advise the representative in writing of the results of the investigation including a statement of reasons for the decision to detain or release the person investigated. The written report must be submitted within 72 hours of the completion of the investigation or the request from the law enforcement or corrections representative, whichever occurs later.
+
+        ii. Disclosure under this subsection is mandatory for the purposes of the federal health insurance portability and accountability act;
+
+    f. To the attorney of the detained person;
+
+    g. To the prosecuting attorney, including tribal prosecuting attorney, as necessary to carry out the responsibilities of the office under RCW 71.05.330(2), 71.05.340(1)(b), and 71.05.335. The prosecutor, including tribal prosecutor, must be provided access to records regarding the committed person's treatment and prognosis, medication, behavior problems, and other records relevant to the issue of whether treatment less restrictive than inpatient treatment is in the best interest of the committed person or others. Information must be disclosed only after giving notice to the committed person and the person's counsel;
+
+    h. [Empty]
+
+    i. To appropriate law enforcement agencies, including tribal law enforcement agencies, and to a person, when the identity of the person is known to the public or private agency, whose health and safety has been threatened, or who is known to have been repeatedly harassed, by the patient. The person may designate a representative to receive the disclosure. The disclosure must be made by the professional person in charge of the public or private agency or his or her designee and must include the dates of commitment, admission, discharge, or release, authorized or unauthorized absence from the agency's facility, and only any other information that is pertinent to the threat or harassment. The agency or its employees are not civilly liable for the decision to disclose or not, so long as the decision was reached in good faith and without gross negligence. Nothing in this section shall be interpreted as a waiver of sovereign immunity by a tribe.
+
+        ii. Disclosure under this subsection is mandatory for the purposes of the federal health insurance portability and accountability act;
+
+        i. [Empty]
+
+        i. To appropriate corrections and law enforcement agencies, including tribal corrections and law enforcement agencies, all necessary and relevant information in the event of a crisis or emergent situation that poses a significant and imminent risk to the public. The mental health service agency or its employees are not civilly liable for the decision to disclose or not so long as the decision was reached in good faith and without gross negligence.
+
+        ii. Disclosure under this subsection is mandatory for the purposes of the health insurance portability and accountability act;
+
+    j. To the persons designated in RCW 71.05.425 for the purposes described in those sections;
+
+    k. By a care coordinator, including an Indian health care provider, under RCW 71.05.585 or 10.77.175 assigned to a person ordered to receive less restrictive alternative treatment for the purpose of sharing information to parties necessary for the implementation of proceedings under chapter 71.05 or 10.77 RCW;
+
+    l. Upon the death of a person. The person's next of kin, personal representative, guardian, or conservator, if any, must be notified. Next of kin who are of legal age and competent must be notified under this section in the following order: Spouse, parents, children, brothers and sisters, and other relatives according to the degree of relation. Access to all records and information compiled, obtained, or maintained in the course of providing services to a deceased patient are governed by RCW 70.02.140;
+
+    m. To mark headstones or otherwise memorialize patients interred at state hospital cemeteries. The department of social and health services shall make available the name, date of birth, and date of death of patients buried in state hospital cemeteries fifty years after the death of a patient;
+
+    n. To law enforcement officers and to prosecuting attorneys as are necessary to enforce RCW 9.41.040(2)(a)(iii). The extent of information that may be released is limited as follows:
+
+        i. Only the fact, place, and date of involuntary commitment, an official copy of any order or orders of commitment, and an official copy of any written or oral notice of ineligibility to possess a firearm that was provided to the person pursuant to RCW 9.41.047(1), must be disclosed upon request;
+
+        ii. The law enforcement and prosecuting attorneys may only release the information obtained to the person's attorney as required by court rule and to a jury or judge, if a jury is waived, that presides over any trial at which the person is charged with violating RCW 9.41.040(2)(a)(iii);
+
+        iii. Tribal law enforcement officers and tribal prosecuting attorneys who enforce tribal laws or tribal court orders similar to RCW 9.41.040(2)(a)(v) may also receive confidential information in accordance with this subsection;
+
+        iv. Disclosure under this subsection is mandatory for the purposes of the federal health insurance portability and accountability act;
+
+    o. When a patient would otherwise be subject to the provisions of this section and disclosure is necessary for the protection of the patient or others due to his or her unauthorized disappearance from the facility, and his or her whereabouts is unknown, notice of the disappearance, along with relevant information, may be made to relatives, the department of corrections when the person is under the supervision of the department, and governmental law enforcement agencies designated by the physician or psychiatric advanced practice registered nurse in charge of the patient or the professional person in charge of the facility, or his or her professional designee;
+
+    p. Pursuant to lawful order of a court, including a tribal court;
+
+    q. To qualified staff members of the department, to the authority, to behavioral health administrative services organizations, to managed care organizations, to resource management services responsible for serving a patient, or to service providers designated by resource management services as necessary to determine the progress and adequacy of treatment and to determine whether the person should be transferred to a less restrictive or more appropriate treatment modality or facility;
+
+    r. Within the mental health service agency or Indian health care provider facility where the patient is receiving treatment, confidential information may be disclosed to persons employed, serving in bona fide training programs, or participating in supervised volunteer programs, at the facility when it is necessary to perform their duties;
+
+    s. Within the department and the authority as necessary to coordinate treatment for mental illness, developmental disabilities, or substance use disorder of persons who are under the supervision of the department;
+
+    t. Between the department of social and health services, the department of children, youth, and families, and the health care authority as necessary to coordinate treatment for mental illness, developmental disabilities, or substance use disorder of persons who are under the supervision of the department of social and health services or the department of children, youth, and families;
+
+    u. To a licensed physician or psychiatric advanced practice registered nurse who has determined that the life or health of the person is in danger and that treatment without the information and records related to mental health services could be injurious to the patient's health. Disclosure must be limited to the portions of the records necessary to meet the medical emergency;
+
+    v. [Empty]
+
+        i. Consistent with the requirements of the federal health insurance portability and accountability act, to:
+
+(A) A health care provider, including an Indian health care provider, who is providing care to a patient, or to whom a patient has been referred for evaluation or treatment; or
+
+(B) Any other person who is working in a care coordinator role for a health care facility, health care provider, or Indian health care provider, or is under an agreement pursuant to the federal health insurance portability and accountability act with a health care facility or a health care provider and requires the information and records to assure coordinated care and treatment of that patient.
+
+        ii. A person authorized to use or disclose information and records related to mental health services under this subsection (2)(v) must take appropriate steps to protect the information and records relating to mental health services.
+
+        iii. Psychotherapy notes may not be released without authorization of the patient who is the subject of the request for release of information;
+
+    w. To administrative and office support staff designated to obtain medical records for those licensed professionals listed in (v) of this subsection;
+
+    x. To a facility that is to receive a person who is involuntarily committed under chapter 71.05 RCW, or upon transfer of the person from one evaluation and treatment facility to another. The release of records under this subsection is limited to the information and records related to mental health services required by law, a record or summary of all somatic treatments, and a discharge summary. The discharge summary may include a statement of the patient's problem, the treatment goals, the type of treatment which has been provided, and recommendation for future treatment, but may not include the patient's complete treatment record;
+
+    y. To the person's counsel or guardian ad litem, without modification, at any time in order to prepare for involuntary commitment or recommitment proceedings, reexaminations, appeals, or other actions relating to detention, admission, commitment, or patient's rights under chapter 71.05 RCW;
+
+    z. To staff members of the protection and advocacy agency or to staff members of a private, nonprofit corporation for the purpose of protecting and advocating the rights of persons with mental disorders or developmental disabilities. Resource management services may limit the release of information to the name, birthdate, and county of residence of the patient, information regarding whether the patient was voluntarily admitted, or involuntarily committed, the date and place of admission, placement, or commitment, the name and address of a guardian of the patient, and the date and place of the guardian's appointment. Any staff member who wishes to obtain additional information must notify the patient's resource management services in writing of the request and of the resource management services' right to object. The staff member shall send the notice by mail to the guardian's address. If the guardian does not object in writing within fifteen days after the notice is mailed, the staff member may obtain the additional information. If the guardian objects in writing within fifteen days after the notice is mailed, the staff member may not obtain the additional information;
+
+    aa. To all current treating providers, including Indian health care providers, of the patient with prescriptive authority who have written a prescription for the patient within the last twelve months. For purposes of coordinating health care, the department or the authority may release without written authorization of the patient, information acquired for billing and collection purposes as described in RCW 70.02.050(1)(d). The department, or the authority, if applicable, shall notify the patient that billing and collection information has been released to named providers, and provide the substance of the information released and the dates of such release. Neither the department nor the authority may release counseling, inpatient psychiatric hospitalization, or drug and alcohol treatment information without a signed written release from the client;
+
+    bb. [Empty]
+
+        i. To the secretary of social and health services and the director of the health care authority for either program evaluation or research, or both so long as the secretary or director, where applicable, adopts rules for the conduct of the evaluation or research, or both. Such rules must include, but need not be limited to, the requirement that all evaluators and researchers sign an oath of confidentiality substantially as follows:
+
+"As a condition of conducting evaluation or research concerning persons who have received services from (fill in the facility, agency, or person) I, . . . . . ., agree not to divulge, publish, or otherwise make known to unauthorized persons or the public any information obtained in the course of such evaluation or research regarding persons who have received services such that the person who received such services is identifiable.
+
+I recognize that unauthorized release of confidential information may subject me to civil liability under the provisions of state law.
+
+/s/ . . . . . ."
+
+        ii. Nothing in this chapter may be construed to prohibit the compilation and publication of statistical data for use by government or researchers under standards, including standards to assure maintenance of confidentiality, set forth by the secretary, or director, where applicable;
+
+    cc. To any person if the conditions in RCW 70.02.205 are met;
+
+    dd. To the secretary of health for the purposes of the maternal mortality review panel established in RCW 70.54.450; or
+
+    ee. To a tribe or Indian health care provider to carry out the requirements of RCW 71.05.150(5).
+
+3. Whenever federal law or federal regulations restrict the release of information contained in the information and records related to mental health services of any patient who receives treatment for a substance use disorder, the department or the authority may restrict the release of the information as necessary to comply with federal law and regulations.
+
+4. Civil liability and immunity for the release of information about a particular person who is committed to the department of social and health services or the authority under RCW 71.05.280(3) and 71.05.320(4)(c) after dismissal of a sex offense as defined in RCW 9.94A.030, is governed by RCW 4.24.550.
+
+5. The fact of admission to a provider of mental health services, as well as all records, files, evidence, findings, or orders made, prepared, collected, or maintained pursuant to chapter 71.05 RCW are not admissible as evidence in any legal proceeding outside that chapter without the written authorization of the person who was the subject of the proceeding except as provided in RCW 70.02.260, in a subsequent criminal prosecution of a person committed pursuant to RCW 71.05.280(3) or 71.05.320(4)(c) on charges that were dismissed pursuant to chapter 10.77 RCW due to incompetency to stand trial, in a civil commitment proceeding pursuant to chapter 71.09 RCW, or, in the case of a minor, a guardianship or dependency proceeding. The records and files maintained in any court proceeding pursuant to chapter 71.05 RCW must be confidential and available subsequent to such proceedings in accordance with RCW 71.05.620. In addition, the court may order the subsequent release or use of such records or files only upon good cause shown if the court finds that appropriate safeguards for strict confidentiality are and will be maintained.
+
+6. [Empty]
+
+    a. Except as provided in RCW 4.24.550, any person may bring an action against an individual who has willfully released confidential information or records concerning him or her in violation of the provisions of this section, for the greater of the following amounts:
+
+        i. One thousand dollars; or
+
+        ii. Three times the amount of actual damages sustained, if any.
+
+    b. It is not a prerequisite to recovery under this subsection that the plaintiff suffered or was threatened with special, as contrasted with general, damages.
+
+    c. Any person may bring an action to enjoin the release of confidential information or records concerning him or her or his or her ward, in violation of the provisions of this section, and may in the same action seek damages as provided in this subsection.
+
+    d. The court may award to the plaintiff, should he or she prevail in any action authorized by this subsection, reasonable attorney fees in addition to those otherwise provided by law.
+
+    e. If an action is brought under this subsection, no action may be brought under RCW 70.02.170.
+
+## Section 5130
+1. Notwithstanding any other law, a health care provider who diagnoses a case of sexually transmitted chlamydia, gonorrhea, trichomoniasis, or other sexually transmitted infection, as determined by the department or recommended in the most recent federal centers for disease control and prevention guidelines for the prevention or treatment of sexually transmitted diseases, in an individual patient may prescribe, dispense, furnish, or otherwise provide prescription antibiotic drugs to the individual patient's sexual partner or partners without examination of that patient's partner or partners or having an established provider and patient relationship with the partner or partners. This practice shall be known as expedited partner therapy.
+
+2. A health care provider may provide expedited partner therapy as outlined in subsection (1) of this section if all the following requirements are met:
+
+    a. The patient has a confirmed laboratory test result, or direct observation of clinical signs or assessment of clinical data by a health care provider confirming the person has, or is likely to have, a sexually transmitted infection;
+
+    b. The patient indicates that the individual has a partner or partners with whom the patient has engaged in sexual activity within the 60-day period immediately before the diagnosis of a sexually transmitted infection; and
+
+    c. The patient indicates that the partner or partners of the individual are unable or unlikely to seek clinical services in a timely manner.
+
+3. A prescribing health care provider may prescribe, dispense, furnish, or otherwise provide medication to the diagnosed patient as outlined in subsection (1) of this section for the patient to deliver to the exposed sexual partner or partners of the patient in order to prevent reinfection in the diagnosed patient.
+
+4. If a health care provider does not have the name of a patient's sexual partner for a drug prescribed under subsection (1) of this section, the prescription shall include the words "expedited partner therapy" or "EPT."
+
+5. A health care provider shall not be liable in a medical malpractice action or professional disciplinary action if the health care provider's use of expedited partner therapy is in compliance with this section, except in cases of intentional misconduct, gross negligence, or wanton or reckless activity.
+
+6. The department may adopt rules necessary to implement this section.
+
+7. For the purpose of this section, "health care provider" means a physician under chapter 18.71 RCW, an osteopathic physician or an osteopathic physician and surgeon under chapter 18.57 RCW, or a registered nurse, advanced practice registered nurse, or licensed practical nurse under chapter 18.79 RCW.
+
+## Section 5131
+Any person residing in the state and needing treatment for tuberculosis may apply in person to the local health officer or to any licensed physician, advanced practice registered nurse, or licensed physician assistant for examination and if that health care provider has reasonable cause to believe that the person is suffering from tuberculosis in any form he or she may apply to the local health officer or designee for admission of the person to an appropriate facility for the care and treatment of tuberculosis.
+
+## Section 5132
+(1) Except as provided in subsection (3) of this section, prior to granting or renewing clinical privileges or association of any physician, physician assistant, or advanced registered nurse practitioner practice registered nurse or hiring a physician, physician assistant, or advanced registered nurse practitioner practice registered nurse who will provide clinical care under his or her license, a hospital or facility approved pursuant to this chapter shall request from the physician, physician assistant, or advanced registered nurse practitioner practice registered nurse and the physician, physician assistant, or advanced registered nurse practitioner practice registered nurse shall provide the following information:
+
+## Section 5133
+The definitions in this section apply throughout this sectionand RCW 70.41.420 and 70.41.425 unless the context clearly requires otherwise.
+
+1. "Hospital" has the same meaning as defined in RCW 70.41.020, and also includes state hospitals as defined in RCW 72.23.010.
+
+2. "Hospital staffing committee" means the committee established by a hospital under RCW 70.41.420.
+
+3. "Intensity" means the level of patient need for nursing care, as determined by the nursing assessment.
+
+4. "Nursing assistant-certified" means an individual certified under chapter 18.88A RCW who provides direct care to patients.
+
+5. "Nursing staff" means registered nurses, licensed practical nurses, nursing assistants-certified, and unlicensed assistive nursing personnel providing direct patient care.
+
+6. "Patient care staff" means a person who is providing direct care or supportive services to patients but who is not:
+
+    a. Nursing staff as defined in this section;
+
+    b. A physician licensed under chapter 18.71 or 18.57 RCW;
+
+    c. A physician's assistant licensed under chapter 18.71A RCW; or
+
+    d. An advanced practice registered nurse licensed under RCW 18.79.250, unless working as a direct care registered nurse.
+
+7. "Patient care unit" means any unit or area of the hospital that provides patient care by registered nurses.
+
+8. "Reasonable efforts" means that the employer exhausts and documents all of the following but is unable to obtain staffing coverage:
+
+    a. Seeks individuals to consent to work additional time from all available qualified staff who are working;
+
+    b. Contacts qualified employees who have made themselves available to work additional time;
+
+    c. Seeks the use of per diem staff; and
+
+    d. When practical, seeks personnel from a contracted temporary agency when such staffing is permitted by law or an applicable collective bargaining agreement, and when the employer regularly uses a contracted temporary agency.
+
+9. "Registered nurse" means an individual licensed as a nurse under chapter 18.79 RCW who provides direct care to patients.
+
+10. "Skill mix" means the experience of, and number and relative percentages of, nursing and patient care staff.
+
+11. "Unforeseeable emergent circumstance" means:
+
+    a. Any unforeseen declared national, state, or municipal emergency;
+
+    b. When a hospital disaster plan is activated;
+
+    c. Any unforeseen disaster or other catastrophic event that substantially affects or increases the need for health care services; or
+
+    d. When a hospital is diverting patients to another hospital or hospitals for treatment.
+
+## Section 5134
+1. Any schedule of benefits established or renewed by the Washington basic health plan after December 31, 2006, shall provide coverage for prostate cancer screening, provided that the screening is delivered upon the recommendation of the patient's physician, advanced practice registered nurse, or physician assistant.
+
+2. This section shall not be construed to prevent the application of standard policy provisions applicable to other benefits, such as deductible or copayment provisions. This section does not limit the authority of the health care authority to negotiate rates and contract with specific providers for the delivery of prostate cancer screening services.
+
+## Section 5135
+1. Jails must make reasonable accommodations for the provision of available midwifery or doula services to inmates who are pregnant or who have given birth in the last six weeks. Persons providing midwifery or doula services must be granted appropriate facility access, must be allowed to attend and provide assistance during labor and childbirth where feasible, and must have access to the inmate's relevant health care information, as defined in RCW 70.02.010, if the inmate authorizes disclosure.
+
+2. For purposes of this section, the following definitions apply:
+
+    a. "Doula services" are services provided by a trained doula and designed to provide physical, emotional, or informational support to a pregnant woman before, during, and after delivery of a child. Doula services may include, but are not limited to: Support and assistance during labor and childbirth; prenatal and postpartum education; breastfeeding assistance; parenting education; and support in the event that a woman has been or will become separated from her child.
+
+    b. "Midwifery services" means medical aid rendered by a midwife to a woman during prenatal, intrapartum, or postpartum stages or to a woman's newborn up to two weeks of age.
+
+    c. "Midwife" means a midwife licensed under chapter 18.50 RCW or an advanced practice registered nurse licensed under chapter 18.79 RCW.
+
+3. Nothing in this section requires governing units to establish or provide funding for midwifery or doula services, or prevents the adoption of policy guidelines for the delivery of midwifery or doula services to inmates. Services provided under this section may not supplant health care services routinely provided to the inmate.
+
+## Section 5136
+Jails may provide for the delivery and administration of medications and medication assistance for inmates in their custody by nonpractitioner jail personnel, subject to the following conditions:
+
+1. The jail administrator or his or her designee, or chief law enforcement executive or his or her designee, shall enter into an agreement between the jail and a licensed pharmacist, pharmacy, or other licensed practitioner or health care facility to ensure access to pharmaceutical services on a twenty‑four hour a day basis, including consultation and dispensing services.
+
+2. The jail administrator or chief law enforcement executive shall adopt policies which address the designation and training of nonpractitioner jail personnel who may deliver and administer medications or provide medication assistance to inmates as provided in this chapter. The policies must address the administration of prescriptions from licensed practitioners prescribing within the scope of their prescriptive authority, the identification of medication to be delivered and administered or administered through medication assistance, the means of securing medication with attention to the safeguarding of legend drugs, and the means of maintaining a record of the delivery, administration, self-administration, or medication assistance of all medication. The jail administrator or chief law enforcement executive shall designate a physician licensed under chapter 18.71 RCW, or a registered nurse or advanced practice registered nurse licensed under chapter 18.79 RCW, to train the designated nonpractitioner jail personnel in proper medication procedures and monitor their compliance with the procedures.
+
+3. The jail administrator or chief law enforcement executive shall consult with one or more pharmacists, and one or more licensed physicians or nurses, in the course of developing the policies described in subsections (1) and (2) of this section. A jail shall provide the Washington association of sheriffs and police chiefs with a copy of the jail's current policies regarding medication management.
+
+4. The practitioner or nonpractitioner jail personnel delivering, administering, or providing medication assistance is in receipt of (a) for prescription drugs, a written, current, and unexpired prescription, and instructions for administration from a licensed practitioner prescribing within the scope of his or her prescriptive authority for administration of the prescription drug; (b) for nonprescription drugs, a written, current, and unexpired instruction from a licensed practitioner regarding the administration of the nonprescription drug; and (c) for minors under the age of eighteen, a written, current consent from the minor's parent, legal guardian, or custodian consenting to the administration of the medication.
+
+5. Nonpractitioner jail personnel may help in the preparation of legend drugs or controlled substances for self-administration where a practitioner has determined and communicated orally or by written direction that the medication preparation assistance is necessary and appropriate. Medication assistance shall not include assistance with intravenous medications or injectable medications.
+
+6. Nonpractitioner jail personnel shall not include inmates.
+
+7. All medication is delivered and administered and all medication assistance is provided by a practitioner or nonpractitioner jail personnel pursuant to the policies adopted in this section, and in compliance with the prescription of a practitioner prescribing within the scope of his or her prescriptive authority, or the written instructions as provided in this section.
+
+8. The jail administrator or the chief law enforcement executive shall ensure that all nonpractitioner jail personnel authorized to deliver, administer, and provide medication assistance are trained pursuant to the policies adopted in this section prior to being permitted to deliver, administer, or provide medication assistance to an inmate.
+
+## Section 5137
+1. For purposes of this section:
+
+    a. "Customer" means an individual who is lawfully on the premises of a retail establishment.
+
+    b. "Eligible medical condition" means:
+
+        i. Crohn's disease, ulcerative colitis, or any other inflammatory bowel disease;
+
+        ii. Irritable bowel syndrome;
+
+        iii. Any condition requiring use of an ostomy device; or
+
+        iv. Any permanent or temporary medical condition that requires immediate access to a restroom.
+
+    c. "Employee restroom" means a restroom intended for employees only in a retail facility and not intended for customers.
+
+    d. "Health care provider" means an advanced practice registered nurse licensed under chapter 18.79 RCW, an osteopathic physician or surgeon licensed under chapter 18.57 RCW, a physician or surgeon licensed under chapter 18.71 RCW, or a physician assistant licensed under chapter 18.71A RCW.
+
+    e. "Retail establishment" means a place of business open to the general public for the sale of goods or services. Retail establishment does not include any structure such as a filling station, service station, or restaurant of eight hundred square feet or less that has an employee restroom located within that structure.
+
+2. A retail establishment that has an employee restroom must allow a customer with an eligible medical condition to use that employee restroom during normal business hours if:
+
+    a. The customer requesting the use of the employee restroom provides in writing either:
+
+        i. A signed statement by the customer's health care provider on a form that has been prepared by the department of health under subsection (4) of this section; or
+
+        ii. An identification card that is issued by a nonprofit organization whose purpose includes serving individuals who suffer from an eligible medical condition; and
+
+    b. One of the following conditions are met:
+
+        i. The employee restroom is reasonably safe and is not located in an area where providing access would create an obvious health or safety risk to the customer; or
+
+        ii. Allowing the customer to access the restroom facility does not pose a security risk to the retail establishment or its employees.
+
+3. A retail establishment that has an employee restroom must allow a customer to use that employee restroom during normal business hours if:
+
+    a. [Empty]
+
+        i. Three or more employees of the retail establishment are working at the time the customer requests use of the employee restroom; and
+
+        ii. The retail establishment does not normally make a restroom available to the public; and
+
+    b. [Empty]
+
+        i. The employee restroom is reasonably safe and is not located in an area where providing access would create an obvious health or safety risk to the customer; or
+
+        ii. Allowing the customer to access the employee restroom does not pose a security risk to the retail establishment or its employees.
+
+4. The department of health shall develop a standard electronic form that may be signed by a health care provider as evidence of the existence of an eligible medical condition as required by subsection (2) of this section. The form shall include a brief description of a customer's rights under this section and shall be made available for a customer or his or her health care provider to access by computer. Nothing in this section requires the department to distribute printed versions of the form.
+
+5. Fraudulent use of a form as evidence of the existence of an eligible medical condition is a misdemeanor punishable under RCW 9A.20.010.
+
+6. For a first violation of this section, the city or county attorney shall issue a warning letter to the owner or operator of the retail establishment, and to any employee of a retail establishment who denies access to an employee restroom in violation of this section, informing the owner or operator of the establishment and employee of the requirements of this section. A retail establishment or an employee of a retail establishment that violates this section after receiving a warning letter is guilty of a class 2 civil infraction under chapter 7.80 RCW.
+
+7. A retail establishment is not required to make any physical changes to an employee restroom under this section and may require that an employee accompany a customer or a customer with an eligible medical condition to the employee restroom.
+
+8. A retail establishment or an employee of a retail establishment is not civilly liable for any act or omission in allowing a customer or a customer with an eligible medical condition to use an employee restroom if the act or omission meets all of the following:
+
+    a. It is not willful or grossly negligent;
+
+    b. It occurs in an area of the retail establishment that is not accessible to the public; and
+
+    c. It results in an injury to or death of the customer or the customer with an eligible medical condition or any individual other than an employee accompanying the customer or the customer with an eligible medical condition.
+
+## Section 5138
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Adult" means a person who is at least eighteen years of age, or an emancipated minor under chapter 13.64 RCW.
+
+2. "Amendment" means a change to a certification item on the vital record.
+
+3. "Authorized representative" means a person permitted to receive a certification who is:
+
+    a. Identified in a notarized statement signed by a qualified applicant; or
+
+    b. An agent identified in a power of attorney as defined in chapter 11.125 RCW.
+
+4. "Certification" means the document, in either paper or electronic format, containing all or part of the information contained in the original vital record from which the document is derived, and is issued from the central vital records system. A certification includes an attestation by the state or local registrar to the accuracy of information, and has the full force and effect of the original vital record.
+
+5. "Certification item" means any item of information that appears on certifications.
+
+6. "Coroner" means the person elected or appointed in a county under chapter 36.16 RCW to serve as the county coroner and fulfill the responsibilities established under chapter 36.24 RCW.
+
+7. "Cremated remains" has the same meaning as "cremated human remains" in chapter 68.04 RCW.
+
+8. "Delayed report of live birth" means the report submitted to the department for the purpose of registering the live birth of a person born in state that was not registered within one year of the date of live birth.
+
+9. "Department" means the department of health.
+
+10. "Domestic partner" means a party to a state registered domestic partnership established under chapter 26.60 RCW.
+
+11. "Facility" means any licensed establishment, public or private, located in state, which provides inpatient or outpatient medical, surgical, or diagnostic care or treatment; or nursing, custodial, or domiciliary care. The term also includes establishments to which persons are committed by law including, but not limited to:
+
+    a. Mental illness detention facilities designated to assess, diagnose, and treat individuals detained or committed, under chapter 71.05 RCW;
+
+    b. City and county jails;
+
+    c. State department of corrections facilities; and
+
+    d. Juvenile correction centers governed by Title 72 RCW.
+
+12. "Fetal death" means any product of conception that shows no evidence of life, such as breathing, beating of the heart, pulsation of the umbilical cord, or definite movement of voluntary muscles after complete expulsion or extraction from the individual who gave birth that is not an induced termination of pregnancy and:
+
+    a. Has completed twenty or more weeks of gestation as calculated from the date the last menstrual period of the individual who gave birth began, to the date of expulsion or extraction; or
+
+    b. Weighs three hundred fifty grams or more, if weeks of gestation are not known.
+
+13. "Final disposition" means the burial, interment, entombment, cremation, removal from the state, or other manner of disposing of human remains as authorized under chapter 68.50 RCW.
+
+14. "Funeral director" means a person licensed under chapter 18.39 RCW as a funeral director.
+
+15. "Funeral establishment" means a place of business licensed under chapter 18.39 RCW as a funeral establishment.
+
+16. "Government agencies" include state boards, commissions, committees, departments, educational institutions, or other state agencies which are created by or pursuant to statute, other than courts and the legislature; county or city agencies, United States federal agencies, and federally recognized tribes and tribal organizations.
+
+17. "Human remains" means the body of a deceased person, includes the body in any stage of decomposition, and includes cremated human remains, but does not include human remains that are or were at any time under the jurisdiction of the state physical anthropologist under chapter 27.44 RCW.
+
+18. "Individual" means a natural person.
+
+19. "Induced termination of pregnancy" means the purposeful interruption of an intrauterine pregnancy with an intention other than to produce a live-born infant, and which does not result in a live birth.
+
+20. "Informational copy" means a birth or death record issued from the central vital records system, containing all or part of the information contained in the original vital record from which the document is derived, and indicating it cannot be used for legal purposes on its face.
+
+21. "Legal guardian" means a person who serves as a guardian for the purpose of either legal or custodial matters, or both, relating to the person for whom the guardian is appointed. The term legal guardian includes, but is not limited to, guardians appointed pursuant to chapters 11.130 and 13.36 RCW.
+
+22. "Legal representative" means a licensed attorney representing either the subject of the record or qualified applicant.
+
+23. "Live birth" means the complete expulsion or extraction of a product of human conception from the individual who gave birth, irrespective of the duration of pregnancy, which, after such expulsion or extraction, breathes or shows any other evidence of life, such as beating of the heart, pulsation of the umbilical cord, or definite movement of voluntary muscles.
+
+24. "Local health officer" has the same meaning as in chapter 70.05 RCW.
+
+25. "Medical certifier" for a death or fetal death means an individual required to attest to the cause of death information provided on a report of death or fetal death. Each individual certifying cause of death or fetal death may certify cause of death only as permitted by that individual's professional scope of practice. These individuals include:
+
+    a. A physician, physician's assistant, or an advanced practice registered nurse last in attendance at death or who treated the decedent through examination, medical advice, or medications within the twelve months preceding the death;
+
+    b. A midwife, only in cases of fetal death; and
+
+    c. A physician performing an autopsy, when the decedent was not treated within the last twelve months and the person died a natural death.
+
+26. "Medical examiner" means the person appointed under chapter 36.24 RCW to fulfill the responsibilities established under chapter 36.24 RCW.
+
+27. "Midwife" means a person licensed to practice midwifery pursuant to chapter 18.50 RCW.
+
+28. "Physician" means a person licensed to practice medicine, naturopathy, or osteopathy pursuant to Title 18 RCW.
+
+29. "Registration" or "register" means the process by which a report is approved and incorporated as a vital record into the vital records system.
+
+30. "Registration date" means the month, day, and year a report is incorporated into the vital records system.
+
+31. "Report" means an electronic or paper document containing information related to a vital life event for the purpose of registering the vital life event.
+
+32. "Sealed record" means the original record of a vital life event and the evidence submitted to support a change to the original record.
+
+33. "Secretary" means the secretary of the department of health.
+
+34. "State" means Washington state unless otherwise specified.
+
+35. "State registrar" means the person appointed by the secretary to administer the vital records system under RCW 70.58A.030.
+
+36. "Territory of the United States" means American Samoa, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, Guam, and the United States Virgin Islands.
+
+37. "Vital life event" means a birth, death, fetal death, marriage, dissolution of marriage, dissolution of domestic partnership, declaration of invalidity of marriage, declaration of invalidity of domestic partnership, and legal separation.
+
+38. "Vital record" or "record" means a report of a vital life event that has been registered and supporting documentation.
+
+39. "Vital records system" means the statewide system created, operated, and maintained by the department under this chapter.
+
+40. "Vital statistics" means the aggregated data derived from vital records, including related reports, and supporting documentation.
+
+## Section 5139
+1. For the purposes of this section, "provider" means a physician, advanced practice registered nurse, health care provider acting under the direction of a physician or an advanced practice registered nurse, or health care facility, as defined in this chapter or in chapter 71.32 RCW, and its personnel.
+
+2. Any provider who participates in good faith in the withholding or withdrawal of life-sustaining treatment from a qualified patient in accordance with the requirements of this chapter, shall be immune from legal liability, including civil, criminal, or professional conduct sanctions, unless otherwise negligent.
+
+3. The establishment of a health care declarations registry does not create any new or distinct obligation for a provider to determine whether a patient has a health care declaration.
+
+4. A provider is not subject to civil or criminal liability or sanctions for unprofessional conduct under the uniform disciplinary act, chapter 18.130 RCW, when in good faith and without negligence:
+
+    a. The provider provides, does not provide, withdraws, or withholds treatment to a patient in the absence of actual knowledge of the existence of a health care declaration stored in the health care declarations registry established in RCW 70.122.130;
+
+    b. The provider provides, does not provide, withdraws, or withholds treatment pursuant to a health care declaration stored in the health care declarations registry established in RCW 70.122.130 in the absence of actual knowledge of the revocation of the declaration;
+
+    c. The provider provides, does not provide, withdraws, or withholds treatment according to a health care declaration stored in the health care declarations registry established in RCW 70.122.130 in good faith reliance upon the validity of the health care declaration and the declaration is subsequently found to be invalid; or
+
+    d. The provider provides, does not provide, withdraws, or withholds treatment according to the patient's health care declaration stored in the health care declarations registry established in RCW 70.122.130.
+
+5. Except for acts of gross negligence, willful misconduct, or intentional wrongdoing, the department of health is not subject to civil liability for any claims or demands arising out of the administration or operation of the health care declarations registry established in RCW 70.122.130.
+
+## Section 5140
+1. The department of health shall establish and maintain a statewide health care declarations registry containing the health care declarations identified in subsection (2) of this section as submitted by residents of Washington. The department shall digitally reproduce and store health care declarations in the registry. The department may establish standards for individuals to submit digitally reproduced health care declarations directly to the registry, but is not required to review the health care declarations that it receives to ensure they comply with the particular statutory requirements applicable to the document. The department may contract with an organization that meets the standards identified in this section.
+
+2. [Empty]
+
+    a. An individual may submit any of the following health care declarations to the department of health to be digitally reproduced and stored in the registry:
+
+        i. A directive, as defined by this chapter;
+
+        ii. A durable power of attorney for health care, as authorized in chapter 11.125 RCW;
+
+        iii. A mental health advance directive, as defined by chapter 71.32 RCW; or
+
+        iv. A form adopted pursuant to the department of health's authority in RCW 43.70.480.
+
+    b. Failure to submit a health care declaration to the department of health does not affect the validity of the declaration.
+
+    c. Failure to notify the department of health of a valid revocation of a health care declaration does not affect the validity of the revocation.
+
+    d. The entry of a health care directive in the registry under this section does not:
+
+        i. Affect the validity of the document;
+
+        ii. Take the place of any requirements in law necessary to make the submitted document legal; or
+
+        iii. Create a presumption regarding the validity of the document.
+
+3. The department of health shall prescribe a procedure for an individual to revoke a health care declaration contained in the registry.
+
+4. The registry must:
+
+    a. Be maintained in a secure database that is accessible through a website maintained by the department of health;
+
+    b. Send annual electronic messages to individuals that have submitted health care declarations to request that they review the registry materials to ensure that it is current;
+
+    c. Provide individuals who have submitted one or more health care declarations with access to their documents and the ability to revoke their documents at all times; and
+
+    d. Provide the personal representatives of individuals who have submitted one or more health care declarations to the registry, attending physicians, advanced practice registered nurses, health care providers licensed by a disciplining authority identified in RCW 18.130.040 who is acting under the direction of a physician or an advanced practice registered nurse, and health care facilities, as defined in this chapter or in chapter 71.32 RCW, access to the registry at all times.
+
+5. In designing the registry and website, the department of health shall ensure compliance with state and federal requirements related to patient confidentiality.
+
+6. The department shall provide information to health care providers and health care facilities on the registry website regarding the different federal and Washington state requirements to ascertain and document whether a patient has an advance directive.
+
+7. The department of health may accept donations, grants, gifts, or other forms of voluntary contributions to support activities related to the creation and maintenance of the health care declarations registry and statewide public education campaigns related to the existence of the registry. All receipts from donations made under this section, and other contributions and appropriations specifically made for the purposes of creating and maintaining the registry established under this section and statewide public education campaigns related to the existence of the registry, shall be deposited into the general fund. These moneys in the general fund may be spent only after appropriation.
+
+8. The department of health may adopt rules as necessary to implement chapter 108, Laws of 2006.
+
+9. By December 1, 2008, the department shall report to the house and senate committees on health care the following information:
+
+    a. Number of participants in the registry;
+
+    b. Number of health care declarations submitted by type of declaration as defined in this section;
+
+    c. Number of health care declarations revoked and the method of revocation;
+
+    d. Number of providers and facilities, by type, that have been provided access to the registry;
+
+    e. Actual costs of operation of the registry.
+
+## Section 5141
+Each adult family home provider, applicant, and each resident manager shall have the following minimum qualifications, except that only applicants are required to meet the provisions of subsections (10) and (11) of this section:
+
+1. Twenty-one years of age or older;
+
+2. For those applying after September 1, 2001, to be licensed as providers, and for resident managers whose employment begins after September 1, 2001, a United States high school diploma or high school equivalency certificate as provided in RCW 28B.50.536 or any English or translated government documentation of the following:
+
+    a. Successful completion of government-approved public or private school education in a foreign country that includes an annual average of one thousand hours of instruction over twelve years or no less than twelve thousand hours of instruction;
+
+    b. A foreign college, foreign university, or United States community college two-year diploma;
+
+    c. Admission to, or completion of coursework at, a foreign university or college for which credit was granted;
+
+    d. Admission to, or completion of coursework at, a United States college or university for which credits were awarded;
+
+    e. Admission to, or completion of postgraduate coursework at, a United States college or university for which credits were awarded; or
+
+    f. Successful passage of the United States board examination for registered nursing, or any professional medical occupation for which college or university education preparation was required;
+
+3. Good moral and responsible character and reputation;
+
+4. Literacy and the ability to communicate in the English language;
+
+5. Management and administrative ability to carry out the requirements of this chapter;
+
+6. Satisfactory completion of department-approved basic training and continuing education training as required by RCW 74.39A.074, and in rules adopted by the department;
+
+7. Satisfactory completion of department-approved, or equivalent, special care training before a provider may provide special care services to a resident;
+
+8. Not be disqualified by a department background check;
+
+9. For those applying to be licensed as providers, and for resident managers whose employment begins after August 24, 2011, at least one thousand hours in the previous sixty months of successful, direct caregiving experience obtained after age eighteen to vulnerable adults in a licensed or contracted setting prior to operating or managing an adult family home. The applicant or resident manager must have credible evidence of the successful, direct caregiving experience or, currently hold one of the following professional licenses: Physician licensed under chapter 18.71 RCW; osteopathic physician licensed under chapter 18.57 RCW; physician assistant licensed under chapter 18.71A RCW; registered nurse, advanced practice registered nurse, or licensed practical nurse licensed under chapter 18.79 RCW;
+
+10. For applicants, proof of financial solvency, as defined in rule; and
+
+11. Applicants must successfully complete an adult family home administration and business planning class, prior to being granted a license. The class must be a minimum of forty-eight hours of classroom time and approved by the department. The department shall promote and prioritize bilingual capabilities within available resources and when materials are available for this purpose. Under exceptional circumstances, such as the sudden and unexpected death of a provider, the department may consider granting a license to an applicant who has not completed the class but who meets all other requirements. If the department decides to grant the license due to exceptional circumstances, the applicant must have enrolled in or completed the class within four months of licensure.
+
+## Section 5142
+The department shall establish or contract for a health professional temporary substitute resource pool. The purpose of the pool is to provide short-term physician, physician assistant, pharmacist, and advanced practice registered nurse personnel to rural communities where these health care providers:
+
+1. Are unavailable due to provider shortages;
+
+2. Need time off from practice to attend continuing education and other training programs; and
+
+3. Need time off from practice to attend to personal matters or recover from illness.
+
+The health professional temporary substitute resource pool is intended to provide short-term assistance and should complement active health provider recruitment efforts by rural communities where shortages exist.
+
+## Section 5143
+1. Requests for a temporary substitute health care professional may be made to the department by the certified health plan, local rural hospital, public health department or district, community health clinic, local practicing physician, physician assistant, pharmacist, or advanced practice registered nurse, or local city or county government.
+
+2. The department may provide directly or contract for services to:
+
+    a. Establish a manner and form for receiving requests;
+
+    b. Minimize paperwork and compliance requirements for participant health care professionals and entities requesting assistance; and
+
+    c. Respond promptly to all requests for assistance.
+
+3. The department may apply for, receive, and accept gifts and other payments, including property and services, from any governmental or other public or private entity or person, and may make arrangements as to the use of these receipts to operate the pool. The department shall make available upon request to the appropriate legislative committees information concerning the source, amount, and use of such gifts or payments.
+
+## Section 5144
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Adult" means an individual who is 18 years of age or older.
+
+2. "Attending qualified medical provider" means the qualified medical provider who has primary responsibility for the care of the patient and treatment of the patient's terminal disease.
+
+3. "Competent" means that, in the opinion of a court or in the opinion of the patient's attending qualified medical provider, consulting qualified medical provider, psychiatrist, or psychologist, a patient has the ability to make and communicate an informed decision to health care providers, including communication through persons familiar with the patient's manner of communicating if those persons are available.
+
+4. "Consulting qualified medical provider" means a qualified medical provider who is qualified by specialty or experience to make a professional diagnosis and prognosis regarding the patient's disease.
+
+5. "Counseling" means one or more consultations as necessary between a state licensed psychiatrist, psychologist, independent clinical social worker, advanced social worker, mental health counselor, or psychiatric advanced practice registered nurse and a patient for the purpose of determining that the patient is competent and not suffering from a psychiatric or psychological disorder or depression causing impaired judgment.
+
+6. "Health care provider" means a person licensed, certified, or otherwise authorized or permitted by law to administer health care or dispense medication in the ordinary course of business or practice of a profession, and includes a health care facility.
+
+7. "Informed decision" means a decision by a qualified patient, to request and obtain a prescription for medication that the qualified patient may self-administer to end his or her life in a humane and dignified manner, that is based on an appreciation of the relevant facts and after being fully informed by the attending qualified medical provider of:
+
+    a. His or her medical diagnosis;
+
+    b. His or her prognosis;
+
+    c. The potential risks associated with taking the medication to be prescribed;
+
+    d. The probable result of taking the medication to be prescribed; and
+
+    e. The feasible alternatives including, but not limited to, comfort care, hospice care, and pain control.
+
+8. "Medically confirmed" means the medical opinion of the attending qualified medical provider has been confirmed by a consulting qualified medical provider who has examined the patient and the patient's relevant medical records.
+
+9. "Patient" means a person who is under the care of an attending qualified medical provider.
+
+10. "Qualified medical provider" means a physician licensed under chapter 18.57 or 18.71 RCW, a physician assistant licensed under chapter 18.71A RCW, or an advanced practice registered nurse licensed under chapter 18.79 RCW.
+
+11. "Qualified patient" means a competent adult who is a resident of Washington state and has satisfied the requirements of this chapter in order to obtain a prescription for medication that the qualified patient may self-administer to end his or her life in a humane and dignified manner.
+
+12. "Self-administer" means a qualified patient's act of ingesting medication to end his or her life in a humane and dignified manner.
+
+13. "Terminal disease" means an incurable and irreversible disease that has been medically confirmed and will, within reasonable medical judgment, produce death within six months.
+
+## Section 5145
+1. A person is in need of assisted outpatient treatment if the court finds by clear, cogent, and convincing evidence pursuant to a petition filed under this section that:
+
+    a. The person has a behavioral health disorder;
+
+    b. Based on a clinical determination and in view of the person's treatment history and current behavior, at least one of the following is true:
+
+        i. The person is unlikely to survive safely in the community without supervision and the person's condition is substantially deteriorating; or
+
+        ii. The person is in need of assisted outpatient treatment in order to prevent a relapse or deterioration that would be likely to result in grave disability or a likelihood of serious harm to the person or to others;
+
+    c. The person has a history of lack of compliance with treatment for his or her behavioral health disorder that has:
+
+        i. At least twice within the 36 months prior to the filing of the petition been a significant factor in necessitating hospitalization of the person, or the person's receipt of services in a forensic or other mental health unit of a state or tribal correctional facility or local correctional facility, provided that the 36-month period shall be extended by the length of any hospitalization or incarceration of the person that occurred within the 36-month period;
+
+        ii. At least twice within the 36 months prior to the filing of the petition been a significant factor in necessitating emergency medical care or hospitalization for behavioral health-related medical conditions including overdose, infected abscesses, sepsis, endocarditis, or other maladies, or a significant factor in behavior which resulted in the person's incarceration in a state, tribal, or local correctional facility; or
+
+        iii. Resulted in one or more violent acts, threats, or attempts to cause serious physical harm to the person or another within the 48 months prior to the filing of the petition, provided that the 48-month period shall be extended by the length of any hospitalization or incarceration of the person that occurred during the 48-month period;
+
+    d. Participation in an assisted outpatient treatment program would be the least restrictive alternative necessary to ensure the person's recovery and stability; and
+
+    e. The person will benefit from assisted outpatient treatment.
+
+2. The following individuals may directly file a petition for less restrictive alternative treatment on the basis that a person is in need of assisted outpatient treatment:
+
+    a. The director of a hospital where the person is hospitalized or the director's designee;
+
+    b. The director of a behavioral health service provider providing behavioral health care or residential services to the person or the director's designee;
+
+    c. The person's treating mental health professional or substance use disorder professional or one who has evaluated the person;
+
+    d. A designated crisis responder;
+
+    e. A release planner from a corrections facility; or
+
+    f. An emergency room physician.
+
+3. A court order for less restrictive alternative treatment on the basis that the person is in need of assisted outpatient treatment may be effective for up to 18 months. The petitioner must personally interview the person, unless the person refuses an interview, to determine whether the person will voluntarily receive appropriate treatment.
+
+4. The petitioner must allege specific facts based on personal observation, evaluation, or investigation, and must consider the reliability or credibility of any person providing information material to the petition.
+
+5. The petition must include:
+
+    a. A statement of the circumstances under which the person's condition was made known and the basis for the opinion, from personal observation or investigation, that the person is in need of assisted outpatient treatment. The petitioner must state which specific facts come from personal observation and specify what other sources of information the petitioner has relied upon to form this belief;
+
+    b. A declaration from a physician, physician assistant, advanced practice registered nurse, or the person's treating mental health professional or substance use disorder professional, who has examined the person no more than 10 days prior to the submission of the petition and who is willing to testify in support of the petition, or who alternatively has made appropriate attempts to examine the person within the same period but has not been successful in obtaining the person's cooperation, and who is willing to testify to the reasons they believe that the person meets the criteria for assisted outpatient treatment. If the declaration is provided by the person's treating mental health professional or substance use disorder professional, it must be cosigned by a supervising physician, physician assistant, or advanced practice registered nurse who certifies that they have reviewed the declaration;
+
+    c. The declarations of additional witnesses, if any, supporting the petition for assisted outpatient treatment;
+
+    d. The name of an agency, provider, or facility that agrees to provide less restrictive alternative treatment if the petition is granted by the court; and
+
+    e. If the person is detained in a state hospital, inpatient treatment facility, jail, or correctional facility at the time the petition is filed, the anticipated release date of the person and any other details needed to facilitate successful reentry and transition into the community.
+
+6. [Empty]
+
+    a. Upon receipt of a petition meeting all requirements of this section, the court shall fix a date for a hearing:
+
+        i. No sooner than three days or later than seven days after the date of service or as stipulated by the parties or, upon a showing of good cause, no later than 30 days after the date of service; or
+
+        ii. If the respondent is hospitalized at the time of filing of the petition, before discharge of the respondent and in sufficient time to arrange for a continuous transition from inpatient treatment to assisted outpatient treatment.
+
+    b. A copy of the petition and notice of hearing shall be served, in the same manner as a summons, on the petitioner, the respondent, the qualified professional whose affidavit accompanied the petition, a current provider, if any, and a surrogate decision maker or agent under chapter 71.32 RCW, if any.
+
+    c. If the respondent has a surrogate decision maker or agent under chapter 71.32 RCW who wishes to provide testimony at the hearing, the court shall afford the surrogate decision maker or agent an opportunity to testify.
+
+    d. The respondent shall be represented by counsel at all stages of the proceedings.
+
+    e. If the respondent fails to appear at the hearing after notice, the court may conduct the hearing in the respondent's absence; provided that the respondent's counsel is present.
+
+    f. If the respondent has refused to be examined by the qualified professional whose affidavit accompanied the petition, the court may order a mental examination of the respondent. The examination of the respondent may be performed by the qualified professional whose affidavit accompanied the petition. If the examination is performed by another qualified professional, the examining qualified professional shall be authorized to consult with the qualified professional whose affidavit accompanied the petition.
+
+    g. If the respondent has refused to be examined by a qualified professional and the court finds reasonable grounds to believe that the allegations of the petition are true, the court may issue a written order directing a peace officer who has completed crisis intervention training to detain and transport the respondent to a provider for examination by a qualified professional. A respondent detained pursuant to this subsection shall be detained no longer than necessary to complete the examination and in no event longer than 24 hours.
+
+7. If the petition involves a person whom the petitioner or behavioral health administrative services organization knows, or has reason to know, is an American Indian or Alaska Native who receives medical or behavioral health services from a tribe within this state, the petitioner or behavioral health administrative services organization shall notify the tribe and Indian health care provider. Notification shall be made in person or by telephonic or electronic communication to the tribal contact listed in the authority's tribal crisis coordination plan as soon as possible, but before the hearing and no later than 24 hours from the time the petition is served upon the person and the person's guardian. The notice to the tribe or Indian health care provider must include a copy of the petition, together with any orders issued by the court and a notice of the tribe's right to intervene. The court clerk shall provide copies of any court orders necessary for the petitioner or the behavioral health administrative services organization to provide notice to the tribe or Indian health care provider under this section.
+
+8. A petition for assisted outpatient treatment filed under this section shall be adjudicated under RCW 71.05.240.
+
+9. After January 1, 2023, a petition for assisted outpatient treatment must be filed on forms developed by the administrative office of the courts.
+
+## Section 5146
+If a person subject to evaluation under RCW 71.05.150 or 71.05.153 is located in an emergency room at the time of evaluation, the designated crisis responder conducting the evaluation shall take serious consideration of observations and opinions by an examining emergency room physician, advanced practice registered nurse, or physician assistant in determining whether detention under this chapter is appropriate. The designated crisis responder must document his or her consultation with this professional, if the professional is available, or his or her review of the professional's written observations or opinions regarding whether detention of the person is appropriate.
+
+## Section 5147
+1. Each person involuntarily detained and accepted or admitted at an evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program:
+
+    a. Shall, within twenty-four hours of his or her admission or acceptance at the facility, not counting time periods prior to medical clearance, be examined and evaluated by:
+
+        i. One physician, physician assistant, or advanced practice registered nurse; and
+
+        ii. One mental health professional. If the person is detained for substance use disorder evaluation and treatment, the person may be examined by a substance use disorder professional instead of a mental health professional; and
+
+    b. Shall receive such treatment and care as his or her condition requires including treatment on an outpatient basis for the period that he or she is detained, except that, beginning twenty-four hours prior to a trial or hearing pursuant to RCW 71.05.215, 71.05.240, 71.05.310, 71.05.320, 71.05.590, or 71.05.217, the individual may refuse psychiatric medications, but may not refuse: (i) Any other medication previously prescribed by a person licensed under Title 18 RCW; or (ii) emergency lifesaving treatment, and the individual shall be informed at an appropriate time of his or her right of such refusal. The person shall be detained up to one hundred twenty hours, if, in the opinion of the professional person in charge of the facility, or his or her professional designee, the person presents a likelihood of serious harm, or is gravely disabled. A person who has been detained for one hundred twenty hours shall no later than the end of such period be released, unless referred for further care on a voluntary basis, or detained pursuant to court order for further treatment as provided in this chapter.
+
+2. If, at any time during the involuntary treatment hold and following the initial examination and evaluation, the mental health professional or substance use disorder professional and licensed physician, physician assistant, or psychiatric advanced practice registered nurse determine that the initial needs of the person, if detained to an evaluation and treatment facility, would be better served by placement in a secure withdrawal management and stabilization facility or approved substance use disorder treatment program, or, if detained to a secure withdrawal management and stabilization facility or approved substance use disorder treatment program, would be better served in an evaluation and treatment facility then the person shall be referred to the more appropriate placement for the remainder of the current commitment period without any need for further court review.
+
+3. An evaluation and treatment center, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program admitting or accepting any person pursuant to this chapter whose physical condition reveals the need for hospitalization shall assure that such person is transferred to an appropriate hospital for evaluation or admission for treatment. Notice of such fact shall be given to the court, the designated attorney, and the designated crisis responder and the court shall order such continuance in proceedings under this chapter as may be necessary, but in no event may this continuance be more than fourteen days.
+
+## Section 5148
+1. A person found to be gravely disabled or to present a likelihood of serious harm as a result of a behavioral health disorder has a right to refuse antipsychotic medication unless it is determined that the failure to medicate may result in a likelihood of serious harm or substantial deterioration or substantially prolong the length of involuntary commitment and there is no less intrusive course of treatment than medication in the best interest of that person.
+
+2. The authority shall adopt rules to carry out the purposes of this chapter. These rules shall include:
+
+    a. An attempt to obtain the informed consent of the person prior to administration of antipsychotic medication.
+
+    b. For short-term treatment up to thirty days, the right to refuse antipsychotic medications unless there is an additional concurring medical opinion approving medication by a psychiatrist, physician assistant working with a psychiatrist who is acting as a participating physician as defined in RCW 18.71A.010, psychiatric advanced practice registered nurse, or physician or physician assistant in consultation with a mental health professional with prescriptive authority.
+
+    c. For continued treatment beyond thirty days through the hearing on any petition filed under RCW 71.05.217, the right to periodic review of the decision to medicate by the medical director or designee.
+
+    d. Administration of antipsychotic medication in an emergency and review of this decision within twenty-four hours. An emergency exists if the person presents an imminent likelihood of serious harm, and medically acceptable alternatives to administration of antipsychotic medications are not available or are unlikely to be successful; and in the opinion of the physician, physician assistant, or psychiatric advanced practice registered nurse, the person's condition constitutes an emergency requiring the treatment be instituted prior to obtaining a second medical opinion.
+
+    e. Documentation in the medical record of the attempt by the physician, physician assistant, or psychiatric advanced practice registered nurse to obtain informed consent and the reasons why antipsychotic medication is being administered over the person's objection or lack of consent.
+
+## Section 5149
+(1) Insofar as danger to the individual or others is not created, each person involuntarily detained, treated in a less restrictive alternative course of treatment, or committed for treatment and evaluation pursuant to this chapter shall have, in addition to other rights not specifically withheld by law, the following rights, a list of which shall be prominently posted in all facilities, institutions, and hospitals providing such services:
+
+## Section 5150
+A person detained for one hundred twenty hours of evaluation and treatment may be committed for not more than fourteen additional days of involuntary intensive treatment or ninety additional days of a less restrictive alternative treatment. A petition may only be filed if the following conditions are met:
+
+1. The professional staff of the facility providing evaluation services has analyzed the person's condition and finds that the condition is caused by a behavioral health disorder and results in: (a) A likelihood of serious harm; or (b) the person being gravely disabled; and are prepared to testify those conditions are met; and
+
+2. The person has been advised of the need for voluntary treatment and the professional staff of the facility has evidence that he or she has not in good faith volunteered; and
+
+3. The facility providing intensive treatment is certified to provide such treatment by the department or under RCW 71.05.745; and
+
+4. [Empty]
+
+    a. [Empty]
+
+        i. The professional staff of the facility or the designated crisis responder has filed a petition with the court for a fourteen day involuntary detention or a ninety day less restrictive alternative. The petition must be signed by:
+
+(A) One physician, physician assistant, or psychiatric advanced practice registered nurse; and
+
+(B) One physician, physician assistant, psychiatric advanced practice registered nurse, or mental health professional.
+
+        ii. If the petition is for substance use disorder treatment, the petition may be signed by a substance use disorder professional instead of a mental health professional and by an advanced practice registered nurse instead of a psychiatric advanced practice registered nurse. The persons signing the petition must have examined the person.
+
+    b. If involuntary detention is sought the petition shall state facts that support the finding that such person, as a result of a behavioral health disorder, presents a likelihood of serious harm, or is gravely disabled and that there are no less restrictive alternatives to detention in the best interest of such person or others. The petition shall state specifically that less restrictive alternative treatment was considered and specify why treatment less restrictive than detention is not appropriate. If an involuntary less restrictive alternative is sought, the petition shall state facts that support the finding that such person, as a result of a behavioral health disorder, presents a likelihood of serious harm or is gravely disabled and shall set forth any recommendations for less restrictive alternative treatment services; and
+
+5. A copy of the petition has been served on the detained person, his or her attorney, and his or her guardian, if any, prior to the probable cause hearing; and
+
+6. The court at the time the petition was filed and before the probable cause hearing has appointed counsel to represent such person if no other counsel has appeared; and
+
+7. The petition reflects that the person was informed of the loss of firearm rights if involuntarily committed for mental health treatment; and
+
+8. At the conclusion of the initial commitment period, the professional staff of the agency or facility or the designated crisis responder may petition for an additional period of either 90 days of less restrictive alternative treatment or 90 days of involuntary intensive treatment as provided in RCW 71.05.290; and
+
+9. If the hospital or facility designated to provide less restrictive alternative treatment is other than the facility providing involuntary treatment, the outpatient facility so designated to provide less restrictive alternative treatment has agreed to assume such responsibility.
+
+## Section 5151
+1. At any time during a person's 14-day intensive treatment period, the professional person in charge of a treatment facility or his or her professional designee or the designated crisis responder may petition the superior court for an order requiring such person to undergo an additional period of treatment. Such petition must be based on one or more of the grounds set forth in RCW 71.05.280.
+
+2. [Empty]
+
+    a. [Empty]
+
+        i. The petition shall summarize the facts which support the need for further commitment and shall be supported by affidavits based on an examination of the patient and signed by:
+
+(A) One physician, physician assistant, or psychiatric advanced practice registered nurse; and
+
+(B) One physician, physician assistant, psychiatric advanced practice registered nurse, or mental health professional.
+
+        ii. If the petition is for substance use disorder treatment, the petition may be signed by a substance use disorder professional instead of a mental health professional and by an advanced practice registered nurse instead of a psychiatric advanced practice registered nurse.
+
+    b. The affidavits shall describe in detail the behavior of the detained person which supports the petition and shall explain what, if any, less restrictive treatments which are alternatives to detention are available to such person, and shall state the willingness of the affiant to testify to such facts in subsequent judicial proceedings under this chapter. If less restrictive alternative treatment is sought, the petition shall set forth any recommendations for less restrictive alternative treatment services.
+
+3. If a person has been determined to be incompetent pursuant to RCW 10.77.086(7), then the professional person in charge of the treatment facility or his or her professional designee or the designated crisis responder may directly file a petition for 180-day treatment under RCW 71.05.280(3), or for 90-day treatment under RCW 71.05.280 (1), (2), or (4). No petition for initial detention or 14-day detention is required before such a petition may be filed.
+
+## Section 5152
+1. The petition for ninety day treatment shall be filed with the clerk of the superior court at least three days before expiration of the fourteen-day period of intensive treatment. The clerk shall set a trial setting date as provided in RCW 71.05.310 on the next judicial day after the date of filing the petition and notify the designated crisis responder. The designated crisis responder shall immediately notify the person detained, his or her attorney, if any, and his or her guardian or conservator, if any, the prosecuting attorney, and the behavioral health administrative services organization administrator, and provide a copy of the petition to such persons as soon as possible. The behavioral health administrative services organization administrator or designee may review the petition and may appear and testify at the full hearing on the petition.
+
+2. The attorney for the detained person shall advise him or her of his or her right to be represented by an attorney, his or her right to a jury trial, and, if the petition is for commitment for mental health treatment, his or her loss of firearm rights if involuntarily committed. If the detained person is not represented by an attorney, or is indigent or is unwilling to retain an attorney, the court shall immediately appoint an attorney to represent him or her. The court shall, if requested, appoint a reasonably available licensed physician, physician assistant, psychiatric advanced practice registered nurse, psychologist, psychiatrist, or other professional person, designated by the detained person to examine and testify on behalf of the detained person.
+
+3. The court may, if requested, also appoint a professional person as defined in RCW 71.05.020 to seek less restrictive alternative courses of treatment and to testify on behalf of the detained person. In the case of a person with a developmental disability who has been determined to be incompetent pursuant to RCW 10.77.086(7), the appointed professional person under this section shall be a developmental disabilities professional.
+
+## Section 5153
+1. Less restrictive alternative treatment, at a minimum, includes the following services:
+
+    a. Assignment of a care coordinator;
+
+    b. An intake evaluation with the provider of the less restrictive alternative treatment;
+
+    c. A psychiatric evaluation, a substance use disorder evaluation, or both;
+
+    d. A schedule of regular contacts with the provider of the treatment services for the duration of the order;
+
+    e. A transition plan addressing access to continued services at the expiration of the order;
+
+    f. An individual crisis plan;
+
+    g. Consultation about the formation of a mental health advance directive under chapter 71.32 RCW; and
+
+    h. Notification to the care coordinator assigned in (a) of this subsection if reasonable efforts to engage the client fail to produce substantial compliance with court-ordered treatment conditions.
+
+2. Less restrictive alternative treatment may additionally include requirements to participate in the following services:
+
+    a. Medication management;
+
+    b. Psychotherapy;
+
+    c. Nursing;
+
+    d. Substance use disorder counseling;
+
+    e. Residential treatment;
+
+    f. Partial hospitalization;
+
+    g. Intensive outpatient treatment;
+
+    h. Support for housing, benefits, education, and employment; and
+
+        i. Periodic court review.
+
+3. If the person was provided with involuntary medication under RCW 71.05.215 or pursuant to a judicial order during the involuntary commitment period, the less restrictive alternative treatment order may authorize the less restrictive alternative treatment provider or its designee to administer involuntary antipsychotic medication to the person if the provider has attempted and failed to obtain the informed consent of the person and there is a concurring medical opinion approving the medication by a psychiatrist, physician assistant working with a psychiatrist who is acting as a participating physician as defined in RCW 18.71A.010, psychiatric advanced practice registered nurse, or physician or physician assistant in consultation with an independent mental health professional with prescribing authority.
+
+4. Less restrictive alternative treatment must be administered by a provider that is certified or licensed to provide or coordinate the full scope of services required under the less restrictive alternative order and that has agreed to assume this responsibility.
+
+5. The care coordinator assigned to a person ordered to less restrictive alternative treatment must submit an individualized plan for the person's treatment services to the court that entered the order. An initial plan must be submitted as soon as possible following the intake evaluation and a revised plan must be submitted upon any subsequent modification in which a type of service is removed from or added to the treatment plan.
+
+6. A care coordinator may disclose information and records related to mental health services pursuant to RCW 70.02.230(2)(k) for purposes of implementing less restrictive alternative treatment.
+
+7. For the purpose of this section, "care coordinator" means a clinical practitioner who coordinates the activities of less restrictive alternative treatment. The care coordinator coordinates activities with the designated crisis responders that are necessary for enforcement and continuation of less restrictive alternative orders and is responsible for coordinating service activities with other agencies and establishing and maintaining a therapeutic relationship with the individual on a continuing basis.
+
+## Section 5154
+The authorities of each establishment as defined in this chapter shall place on file in the office of the establishment the recommendations made by the department of health as a result of such visits, for the purpose of consultation by such authorities, and for reference by the department representatives upon their visits. Every such establishment shall keep records of every person admitted thereto as follows and shall furnish to the department, when required, the following data: Name, age, sex, marital status, date of admission, voluntary or other commitment, name of physician, physician assistant, or psychiatric advanced practice registered nurse, diagnosis, and date of discharge.
+
+## Section 5155
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+## Section 5156
+1. For the purposes of this chapter, a principal, agent, professional person, or health care provider may seek a determination whether the principal is incapacitated or has regained capacity.
+
+2. [Empty]
+
+    a. For the purposes of this chapter, no adult may be declared an incapacitated person except by:
+
+        i. A court, if the request is made by the principal or the principal's agent;
+
+        ii. One mental health professional or substance use disorder professional and one health care provider; or
+
+        iii. Two health care providers.
+
+    b. One of the persons making the determination under (a)(ii) or (iii) of this subsection must be a psychiatrist, physician assistant working with a psychiatrist who is acting as a participating physician as defined in RCW 18.71A.010, psychologist, or a psychiatric advanced practice registered nurse.
+
+3. When a professional person or health care provider requests a capacity determination, he or she shall promptly inform the principal that:
+
+    a. A request for capacity determination has been made; and
+
+    b. The principal may request that the determination be made by a court.
+
+4. At least one mental health professional, substance use disorder professional, or health care provider must personally examine the principal prior to making a capacity determination.
+
+5. [Empty]
+
+    a. When a court makes a determination whether a principal has capacity, the court shall, at a minimum, be informed by the testimony of one mental health professional or substance use disorder professional familiar with the principal and shall, except for good cause, give the principal an opportunity to appear in court prior to the court making its determination.
+
+    b. To the extent that local court rules permit, any party or witness may testify telephonically.
+
+6. When a court has made a determination regarding a principal's capacity and there is a subsequent change in the principal's condition, subsequent determinations whether the principal is incapacitated may be made in accordance with any of the provisions of subsection (2) of this section.
+
+## Section 5157
+1. A principal who:
+
+    a. Chose not to be able to revoke his or her directive during any period of incapacity;
+
+    b. Consented to voluntary admission to inpatient behavioral health treatment, or authorized an agent to consent on the principal's behalf; and
+
+    c. At the time of admission to inpatient treatment, refuses to be admitted, may only be admitted into inpatient behavioral health treatment under subsection (2) of this section.
+
+2. A principal may only be admitted to inpatient behavioral health treatment under his or her directive if, prior to admission, a member of the treating facility's professional staff who is a physician, physician assistant, or psychiatric advanced practice registered nurse:
+
+    a. Evaluates the principal's mental condition, including a review of reasonably available psychiatric and psychological history, diagnosis, and treatment needs, and determines, in conjunction with another health care provider, mental health professional, or substance use disorder professional, that the principal is incapacitated;
+
+    b. Obtains the informed consent of the agent, if any, designated in the directive;
+
+    c. Makes a written determination that the principal needs an inpatient evaluation or is in need of inpatient treatment and that the evaluation or treatment cannot be accomplished in a less restrictive setting; and
+
+    d. Documents in the principal's medical record a summary of the physician's, physician assistant's, or psychiatric advanced practice registered nurse's findings and recommendations for treatment or evaluation.
+
+3. In the event the admitting physician is not a psychiatrist, the admitting physician assistant is not working with a psychiatrist who is acting as a participating physician as defined in RCW 18.71A.010, or the advanced practice registered nurse is not a psychiatric advanced practice registered nurse, the principal shall receive a complete behavioral health assessment by a mental health professional or substance use disorder professional within 24 hours of admission to determine the continued need for inpatient evaluation or treatment.
+
+4. [Empty]
+
+    a. If it is determined that the principal has capacity, then the principal may only be admitted to, or remain in, inpatient treatment if he or she consents at the time, is admitted for family-initiated treatment under chapter 71.34 RCW, or is detained under the involuntary treatment provisions of chapter 71.05 or 71.34 RCW.
+
+    b. If a principal who is determined by two health care providers or one mental health professional or substance use disorder professional and one health care provider to be incapacitated continues to refuse inpatient treatment, the principal may immediately seek injunctive relief for release from the facility.
+
+5. If, at the end of the period of time that the principal or the principal's agent, if any, has consented to voluntary inpatient treatment, but no more than 14 days after admission, the principal has not regained capacity or has regained capacity but refuses to consent to remain for additional treatment, the principal must be released during reasonable daylight hours, unless detained under chapter 71.05 or 71.34 RCW.
+
+6. [Empty]
+
+    a. Except as provided in (b) of this subsection, any principal who is voluntarily admitted to inpatient behavioral health treatment under this chapter shall have all the rights provided to individuals who are voluntarily admitted to inpatient treatment under chapter 71.05, 71.34, or 72.23 RCW.
+
+    b. Notwithstanding RCW 71.05.050 regarding consent to inpatient treatment for a specified length of time, the choices an incapacitated principal expressed in his or her directive shall control, provided, however, that a principal who takes action demonstrating a desire to be discharged, in addition to making statements requesting to be discharged, shall be discharged, and no principal shall be restrained in any way in order to prevent his or her discharge. Nothing in this subsection shall be construed to prevent detention and evaluation for civil commitment under chapter 71.05 RCW.
+
+7. Consent to inpatient admission in a directive is effective only while the professional person, health care provider, and health care facility are in substantial compliance with the material provisions of the directive related to inpatient treatment.
+
+## Section 5158
+1. If a principal who is a resident of a long-term care facility is admitted to inpatient behavioral health treatment pursuant to his or her directive, the principal shall be allowed to be readmitted to the same long-term care facility as if his or her inpatient admission had been for a physical condition on the same basis that the principal would be readmitted under state or federal statute or rule when:
+
+    a. The treating facility's professional staff determine that inpatient behavioral health treatment is no longer medically necessary for the resident. The determination shall be made in writing by a psychiatrist, physician assistant working with a psychiatrist who is acting as a participating physician as defined in RCW 18.71A.010, or a psychiatric advanced practice registered nurse, or (i) one physician and a mental health professional or substance use disorder professional; (ii) one physician assistant and a mental health professional or substance use disorder professional; or (iii) one psychiatric advanced practice registered nurse and a mental health professional or substance use disorder professional; or
+
+    b. The person's consent to admission in his or her directive has expired.
+
+2. [Empty]
+
+    a. If the long-term care facility does not have a bed available at the time of discharge, the treating facility may discharge the resident, in consultation with the resident and agent if any, and in accordance with a medically appropriate discharge plan, to another long-term care facility.
+
+    b. This section shall apply to inpatient behavioral health treatment admission of long-term care facility residents, regardless of whether the admission is directly from a facility, hospital emergency room, or other location.
+
+    c. This section does not restrict the right of the resident to an earlier release from the inpatient treatment facility. This section does not restrict the right of a long-term care facility to initiate transfer or discharge of a resident who is readmitted pursuant to this section, provided that the facility has complied with the laws governing the transfer or discharge of a resident.
+
+3. The joint legislative audit and review committee shall conduct an evaluation of the operation and impact of this section. The committee shall report its findings to the appropriate committees of the legislature by December 1, 2004.
+
+## Section 5159
+The directive shall be in substantially the following form:
+
+## Section 5160
+1. Each minor approved by the facility for inpatient admission shall be examined and evaluated by a children's mental health specialist, for minors admitted as a result of a mental disorder, or by a substance use disorder professional or co-occurring disorder specialist, for minors admitted as a result of a substance use disorder, as to the child's mental condition and by a physician, physician assistant, or psychiatric advanced practice registered nurse as to the child's physical condition within twenty-four hours of admission. Reasonable measures shall be taken to ensure medical treatment is provided for any condition requiring immediate medical attention.
+
+2. If, at any time during the involuntary treatment hold and following the initial examination and evaluation, the children's mental health specialist or substance use disorder specialist and the physician, physician assistant, or psychiatric advanced practice registered nurse determine that the initial needs of the minor, if detained to an evaluation and treatment facility, would be better served by placement in a secure withdrawal management and stabilization facility or approved substance use disorder treatment program or, if detained to a secure withdrawal management and stabilization facility or approved substance use disorder treatment program, would be better served in an evaluation and treatment facility, then the minor shall be referred to the more appropriate placement for the remainder of the current commitment period without any need for further court review.
+
+3. The admitting facility shall take reasonable steps to notify immediately the minor's parent of the admission.
+
+4. During the initial one hundred twenty hour treatment period, the minor has a right to associate or receive communications from parents or others unless the professional person in charge determines that such communication would be seriously detrimental to the minor's condition or treatment and so indicates in the minor's clinical record, and notifies the minor's parents of this determination. A minor must not be denied the opportunity to consult an attorney unless there is an immediate risk of harm to the minor or others.
+
+5. If the evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program admits the minor, it may detain the minor for evaluation and treatment for a period not to exceed one hundred twenty hours from the time of provisional acceptance. The computation of such one hundred twenty hour period shall exclude Saturdays, Sundays, and holidays. This initial treatment period shall not exceed one hundred twenty hours except when an application for voluntary inpatient treatment is received or a petition for fourteen-day commitment is filed.
+
+6. Within twelve hours of the admission, the facility shall advise the minor of his or her rights as set forth in this chapter.
+
+## Section 5161
+(1) The professional person in charge of an evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program where a minor has been admitted involuntarily for the initial one hundred twenty hour treatment period under this chapter may petition to have a minor committed to an evaluation and treatment facility, a secure withdrawal management and stabilization facility, or an approved substance use disorder treatment program for fourteen-day diagnosis, evaluation, and treatment.
+
+## Section 5162
+1. At any time during the minor's period of fourteen-day commitment, the professional person in charge may petition the court for an order requiring the minor to undergo an additional one hundred eighty-day period of treatment. The evidence in support of the petition shall be presented by the county prosecutor unless the petition is filed by the professional person in charge of a state-operated facility in which case the evidence shall be presented by the attorney general.
+
+2. The petition for one hundred eighty-day commitment shall contain the following:
+
+    a. The name and address of the petitioner or petitioners;
+
+    b. The name of the minor alleged to meet the criteria for one hundred eighty-day commitment;
+
+    c. A statement that the petitioner is the professional person in charge of the evaluation and treatment facility, secure withdrawal management and stabilization facility, or approved substance use disorder treatment program responsible for the treatment of the minor;
+
+    d. The date of the fourteen-day commitment order; and
+
+    e. A summary of the facts supporting the petition.
+
+3. The petition shall be supported by accompanying affidavits signed by: (a) Two examining physicians, one of whom shall be a child psychiatrist, or two psychiatric advanced practice registered nurses, one of whom shall be a child and adolescent or family psychiatric advanced practice registered nurse. If the petition is for substance use disorder treatment, the petition may be signed by a substance use disorder professional instead of a mental health professional and by an advanced practice registered nurse instead of a psychiatric advanced practice registered nurse, or two physician assistants, one of whom must be supervised by or collaborating with a child psychiatrist; (b) one children's mental health specialist and either an examining physician, physician assistant, or a psychiatric advanced practice registered nurse; or (c) two among an examining physician, physician assistant, and a psychiatric advanced practice registered nurse, one of which needs to be a child psychiatrist, a physician assistant supervised by or collaborating with a child psychiatrist, or a child and adolescent psychiatric nurse practitioner. The affidavits shall describe in detail the behavior of the detained minor which supports the petition and shall state whether a less restrictive alternative to inpatient treatment is in the best interests of the minor.
+
+4. The petition for one hundred eighty-day commitment shall be filed with the clerk of the court at least three days before the expiration of the fourteen-day commitment period. The petitioner or the petitioner's designee shall within twenty-four hours of filing serve a copy of the petition on the minor and notify the minor's attorney and the minor's parent. A copy of the petition shall be provided to such persons at least twenty-four hours prior to the hearing.
+
+5. At the time of filing, the court shall set a date within seven days for the hearing on the petition. If the hearing is not commenced within thirty days after the filing of the petition, including extensions of time requested by the detained person or his or her attorney or the court in the administration of justice under RCW 71.34.735, the minor must be released. The minor or the parents shall be afforded the same rights as in a fourteen-day commitment hearing. Treatment of the minor shall continue pending the proceeding.
+
+6. For one hundred eighty-day commitment, the court must find by clear, cogent, and convincing evidence that the minor:
+
+    a. Is suffering from a mental disorder or substance use disorder;
+
+    b. Presents a likelihood of serious harm or is gravely disabled; and
+
+    c. Is in need of further treatment that only can be provided in a one hundred eighty-day commitment.
+
+7. In determining whether an inpatient or less restrictive alternative commitment is appropriate, great weight must be given to evidence of a prior history or pattern of decompensation and discontinuation of treatment resulting in: (a) Repeated hospitalizations; or (b) repeated peace officer interventions resulting in juvenile charges. Such evidence may be used to provide a factual basis for concluding that the minor would not receive, if released, such care as is essential for his or her health or safety.
+
+8. [Empty]
+
+    a. If the court finds that the criteria for commitment are met and that less restrictive treatment in a community setting is not appropriate or available, the court shall order the minor committed to the custody of the director for further inpatient mental health treatment, to an approved substance use disorder treatment program for further substance use disorder treatment, or to a private treatment and evaluation facility for inpatient mental health or substance use disorder treatment if the minor's parents have assumed responsibility for payment for the treatment. If the court finds that a less restrictive alternative is in the best interest of the minor, the court shall order less restrictive alternative treatment upon such conditions as necessary.
+
+    b. If the court determines that the minor does not meet the criteria for one hundred eighty-day commitment, the minor shall be released.
+
+9. Successive one hundred eighty-day commitments are permissible on the same grounds and under the same procedures as the original one hundred eighty-day commitment. Such petitions shall be filed at least three days prior to the expiration of the previous one hundred eighty-day commitment order.
+
+## Section 5163
+1. Less restrictive alternative treatment, at a minimum, must include the following services:
+
+    a. Assignment of a care coordinator;
+
+    b. An intake evaluation with the provider of the less restrictive alternative treatment;
+
+    c. A psychiatric evaluation, a substance use disorder evaluation, or both;
+
+    d. A schedule of regular contacts with the provider of the less restrictive alternative treatment services for the duration of the order;
+
+    e. A transition plan addressing access to continued services at the expiration of the order;
+
+    f. An individual crisis plan;
+
+    g. Consultation about the formation of a mental health advance directive under chapter 71.32 RCW; and
+
+    h. Notification to the care coordinator assigned in (a) of this subsection if reasonable efforts to engage the client fail to produce substantial compliance with court-ordered treatment conditions.
+
+2. Less restrictive alternative treatment may include the following additional services:
+
+    a. Medication management;
+
+    b. Psychotherapy;
+
+    c. Nursing;
+
+    d. Substance use disorder counseling;
+
+    e. Residential treatment;
+
+    f. Partial hospitalization;
+
+    g. Intensive outpatient treatment;
+
+    h. Support for housing, benefits, education, and employment; and
+
+        i. Periodic court review.
+
+3. If the minor was provided with involuntary medication during the involuntary commitment period, the less restrictive alternative treatment order may authorize the less restrictive alternative treatment provider or its designee to administer involuntary antipsychotic medication to the person if the provider has attempted and failed to obtain the informed consent of the person and there is a concurring medical opinion approving the medication by a psychiatrist, physician assistant working with a psychiatrist who is acting as a participating physician as defined in RCW 18.71A.010, psychiatric advanced practice registered nurse, or physician or physician assistant in consultation with an independent mental health professional with prescribing authority.
+
+4. Less restrictive alternative treatment must be administered by a provider that is certified or licensed to provide or coordinate the full scope of services required under the less restrictive alternative order and that has agreed to assume this responsibility.
+
+5. The care coordinator assigned to a minor ordered to less restrictive alternative treatment must submit an individualized plan for the minor's treatment services to the court that entered the order. An initial plan must be submitted as soon as possible following the intake evaluation and a revised plan must be submitted upon any subsequent modification in which a type of service is removed from or added to the treatment plan.
+
+6. A care coordinator may disclose information and records related to mental health services pursuant to RCW 70.02.230(2)(k) for purposes of implementing less restrictive alternative treatment.
+
+7. For the purpose of this section, "care coordinator" means a clinical practitioner who coordinates the activities of less restrictive alternative treatment. The care coordinator coordinates activities with the designated crisis responders that are necessary for enforcement and continuation of less restrictive alternative treatment orders and is responsible for coordinating service activities with other agencies and establishing and maintaining a therapeutic relationship with the individual on a continuing basis.
+
+## Section 5164
+1. The professional person in charge of the inpatient treatment facility may authorize release for the minor under such conditions as appropriate. Conditional release may be revoked pursuant to RCW 71.34.780 if leave conditions are not met or the minor's functioning substantially deteriorates.
+
+2. Minors may be discharged prior to expiration of the commitment period if the treating physician, physician assistant, psychiatric advanced practice registered nurse, or professional person in charge concludes that the minor no longer meets commitment criteria.
+
+## Section 5165
+1. An adolescent is in need of assisted outpatient treatment if the court finds by clear, cogent, and convincing evidence in response to a petition filed under this section that:
+
+    a. The adolescent has a behavioral health disorder;
+
+    b. Based on a clinical determination and in view of the adolescent's treatment history and current behavior, at least one of the following is true:
+
+        i. The adolescent is unlikely to survive safely in the community without supervision and the adolescent's condition is substantially deteriorating; or
+
+        ii. The adolescent is in need of assisted outpatient treatment in order to prevent a relapse or deterioration that would be likely to result in grave disability or a likelihood of serious harm to the adolescent or to others;
+
+    c. The adolescent has a history of lack of compliance with treatment for his or her behavioral health disorder that has:
+
+        i. At least twice within the 36 months prior to the filing of the petition been a significant factor in necessitating hospitalization of the adolescent, or the adolescent's receipt of services in a forensic or other mental health unit of a state, local, or tribal correctional facility, provided that the 36-month period shall be extended by the length of any hospitalization or incarceration of the adolescent that occurred within the 36-month period;
+
+        ii. At least twice within the 36 months prior to the filing of the petition been a significant factor in necessitating emergency medical care or hospitalization for behavioral health-related medical conditions including overdose, infected abscesses, sepsis, endocarditis, or other maladies, or a significant factor in behavior which resulted in the adolescent's incarceration in a state, local, or tribal correctional facility; or
+
+        iii. Resulted in one or more violent acts, threats, or attempts to cause serious physical harm to the adolescent or another within the 48 months prior to the filing of the petition, provided that the 48-month period shall be extended by the length of any hospitalization or incarceration of the person that occurred during the 48-month period;
+
+    d. Participation in an assisted outpatient treatment program would be the least restrictive alternative necessary to ensure the adolescent's recovery and stability; and
+
+    e. The adolescent will benefit from assisted outpatient treatment.
+
+2. The following individuals may directly file a petition for less restrictive alternative treatment on the basis that an adolescent is in need of assisted outpatient treatment:
+
+    a. The director of a hospital where the adolescent is hospitalized or the director's designee;
+
+    b. The director of a behavioral health service provider providing behavioral health care or residential services to the adolescent or the director's designee;
+
+    c. The adolescent's treating mental health professional or substance use disorder professional or one who has evaluated the person;
+
+    d. A designated crisis responder;
+
+    e. A release planner from a juvenile detention or rehabilitation facility; or
+
+    f. An emergency room physician.
+
+3. A court order for less restrictive alternative treatment on the basis that the adolescent is in need of assisted outpatient treatment may be effective for up to 18 months. The petitioner must personally interview the adolescent, unless the adolescent refuses an interview, to determine whether the adolescent will voluntarily receive appropriate treatment.
+
+4. The petitioner must allege specific facts based on personal observation, evaluation, or investigation, and must consider the reliability or credibility of any person providing information material to the petition.
+
+5. The petition must include:
+
+    a. A statement of the circumstances under which the adolescent's condition was made known and the basis for the opinion, from personal observation or investigation, that the adolescent is in need of assisted outpatient treatment. The petitioner must state which specific facts come from personal observation and specify what other sources of information the petitioner has relied upon to form this belief;
+
+    b. A declaration from a physician, physician assistant, or advanced practice registered nurse, or the adolescent's treating mental health professional or substance use disorder professional, who has examined the adolescent no more than 10 days prior to the submission of the petition and who is willing to testify in support of the petition, or who alternatively has made appropriate attempts to examine the adolescent within the same period but has not been successful in obtaining the adolescent's cooperation, and who is willing to testify to the reasons they believe that the adolescent meets the criteria for assisted outpatient treatment. If the declaration is provided by the adolescent's treating mental health professional or substance use disorder professional, it must be cosigned by a supervising physician, physician assistant, or advanced practice registered nurse who certifies that they have reviewed the declaration;
+
+    c. The declarations of additional witnesses, if any, supporting the petition for assisted outpatient treatment;
+
+    d. The name of an agency, provider, or facility that agrees to provide less restrictive alternative treatment if the petition is granted by the court; and
+
+    e. If the adolescent is detained in a state hospital, inpatient treatment facility, or juvenile detention or rehabilitation facility at the time the petition is filed, the anticipated release date of the adolescent and any other details needed to facilitate successful reentry and transition into the community.
+
+6. [Empty]
+
+    a. Upon receipt of a petition meeting all requirements of this section, the court shall fix a date for a hearing:
+
+        i. No sooner than three days or later than seven days after the date of service or as stipulated by the parties or, upon a showing of good cause, no later than 30 days after the date of service; or
+
+        ii. If the adolescent is hospitalized at the time of filing of the petition, before discharge of the adolescent and in sufficient time to arrange for a continuous transition from inpatient treatment to assisted outpatient treatment.
+
+    b. A copy of the petition and notice of hearing shall be served, in the same manner as a summons, on the petitioner, the adolescent, the qualified professional whose affidavit accompanied the petition, a current provider, if any, and a surrogate decision maker or agent under chapter 71.32 RCW, if any.
+
+    c. If the adolescent has a surrogate decision maker or agent under chapter 71.32 RCW who wishes to provide testimony at the hearing, the court shall afford the surrogate decision maker or agent an opportunity to testify.
+
+    d. The adolescent shall be represented by counsel at all stages of the proceedings.
+
+    e. If the adolescent fails to appear at the hearing after notice, the court may conduct the hearing in the adolescent's absence; provided that the adolescent's counsel is present.
+
+    f. If the adolescent has refused to be examined by the qualified professional whose affidavit accompanied the petition, the court may order a mental examination of the adolescent. The examination of the adolescent may be performed by the qualified professional whose affidavit accompanied the petition. If the examination is performed by another qualified professional, the examining qualified professional shall be authorized to consult with the qualified professional whose affidavit accompanied the petition.
+
+    g. If the adolescent has refused to be examined by a qualified professional and the court finds reasonable grounds to believe that the allegations of the petition are true, the court may issue a written order directing a peace officer who has completed crisis intervention training to detain and transport the adolescent to a provider for examination by a qualified professional. An adolescent detained pursuant to this subsection shall be detained no longer than necessary to complete the examination and in no event longer than 24 hours. All papers in the court file must be provided to the adolescent's designated attorney.
+
+7. If the petition involves an adolescent whom the petitioner or behavioral health administrative services organization knows, or has reason to know, is an American Indian or Alaska Native who receives medical or behavioral health services from a tribe within this state, the petitioner or behavioral health administrative services organization shall notify the tribe and Indian health care provider. Notification shall be made in person or by telephonic or electronic communication to the tribal contact listed in the authority's tribal crisis coordination plan as soon as possible, but before the hearing and no later than 24 hours from the time the petition is served upon the person and the person's guardian. The notice to the tribe or Indian health care provider must include a copy of the petition, together with any orders issued by the court and a notice of the tribe's right to intervene. The court clerk shall provide copies of any court orders necessary for the petitioner or the behavioral health administrative services organization to provide notice to the tribe or Indian health care provider under this section.
+
+8. A petition for assisted outpatient treatment filed under this section shall be adjudicated under RCW 71.34.740.
+
+9. After January 1, 2023, a petition for assisted outpatient treatment must be filed on forms developed by the administrative office of the courts.
+
+## Section 5166
+1. The department must make reasonable accommodations for the provision of available midwifery or doula services to inmates who are pregnant or who have given birth in the last six weeks. Persons providing midwifery or doula services must be granted appropriate facility access, must be allowed to attend and provide assistance during labor and childbirth where feasible, and must have access to the inmate's relevant health care information, as defined in RCW 70.02.010, if the inmate authorizes disclosure.
+
+2. For purposes of this section, the following definitions apply:
+
+    a. "Doula services" are services provided by a trained doula and designed to provide physical, emotional, or informational support to a pregnant woman before, during, and after delivery of a child. Doula services may include, but are not limited to: Support and assistance during labor and childbirth; prenatal and postpartum education; breastfeeding assistance; parenting education; and support in the event that a woman has been or will become separated from her child.
+
+    b. "Midwifery services" means medical aid rendered by a midwife to a woman during prenatal, intrapartum, or postpartum stages or to a woman's newborn up to two weeks of age.
+
+    c. "Midwife" means a midwife licensed under chapter 18.50 RCW or an advanced practice registered nurse licensed under chapter 18.79 RCW.
+
+3. Nothing in this section requires the department to establish or provide funding for midwifery or doula services, or prevents the department from adopting policy guidelines for the delivery of midwifery or doula services to inmates. Services provided under this section may not supplant health care services routinely provided to the inmate.
+
+## Section 5167
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Authority" means the Washington state health care authority.
+
+2. "Bidirectional integration" means integrating behavioral health services into primary care settings and integrating primary care services into behavioral health settings.
+
+3. "Children's health program" means the health care services program provided to children under eighteen years of age and in households with incomes at or below the federal poverty level as annually defined by the federal department of health and human services as adjusted for family size, and who are not otherwise eligible for medical assistance or the limited casualty program for the medically needy.
+
+4. "Chronic care management" means the health care management within a health home of persons identified with, or at high risk for, one or more chronic conditions. Effective chronic care management:
+
+    a. Actively assists patients to acquire self-care skills to improve functioning and health outcomes, and slow the progression of disease or disability;
+
+    b. Employs evidence-based clinical practices;
+
+    c. Coordinates care across health care settings and providers, including tracking referrals;
+
+    d. Provides ready access to behavioral health services that are, to the extent possible, integrated with primary care; and
+
+    e. Uses appropriate community resources to support individual patients and families in managing chronic conditions.
+
+5. "Chronic condition" means a prolonged condition and includes, but is not limited to:
+
+    a. A mental health condition;
+
+    b. A substance use disorder;
+
+    c. Asthma;
+
+    d. Diabetes;
+
+    e. Heart disease; and
+
+    f. Being overweight, as evidenced by a body mass index over twenty-five.
+
+6. "County" means the board of county commissioners, county council, county executive, or tribal jurisdiction, or its designee.
+
+7. "Department" means the department of social and health services.
+
+8. "Department of health" means the Washington state department of health created pursuant to RCW 43.70.020.
+
+9. "Director" means the director of the Washington state health care authority.
+
+10. "Full benefit dual eligible beneficiary" means an individual who, for any month: Has coverage for the month under a medicare prescription drug plan or medicare advantage plan with part D coverage; and is determined eligible by the state for full medicaid benefits for the month under any eligibility category in the state's medicaid plan or a section 1115 demonstration waiver that provides pharmacy benefits.
+
+11. "Health home" or "primary care health home" means coordinated health care provided by a licensed primary care provider coordinating all medical care services, and a multidisciplinary health care team comprised of clinical and nonclinical staff. The term "coordinating all medical care services" shall not be construed to require prior authorization by a primary care provider in order for a patient to receive treatment for covered services by an optometrist licensed under chapter 18.53 RCW. Primary care health home services shall include those services defined as health home services in 42 U.S.C. Sec. 1396w-4 and, in addition, may include, but are not limited to:
+
+    a. Comprehensive care management including, but not limited to, chronic care treatment and management;
+
+    b. Extended hours of service;
+
+    c. Multiple ways for patients to communicate with the team, including electronically and by phone;
+
+    d. Education of patients on self-care, prevention, and health promotion, including the use of patient decision aids;
+
+    e. Coordinating and assuring smooth transitions and follow-up from inpatient to other settings;
+
+    f. Individual and family support including authorized representatives;
+
+    g. The use of information technology to link services, track tests, generate patient registries, and provide clinical data; and
+
+    h. Ongoing performance reporting and quality improvement.
+
+12. "Limited casualty program" means the medical care program provided to medically needy persons as defined under Title XIX of the federal social security act, and to medically indigent persons who are without income or resources sufficient to secure necessary medical services.
+
+13. "Managed care organization" means any health care organization, including health care providers, insurers, health care service contractors, health maintenance organizations, health insuring organizations, or any other entity or combination thereof, that provides directly or by contract health care services covered under this chapter and rendered by licensed providers, on a prepaid capitated basis and that meets the requirements of section 1903(m)(1)(A) of Title XIX of the federal social security act or federal demonstration waivers granted under section 1115(a) of Title XI of the federal social security act.
+
+14. "Medical assistance" means the federal aid medical care program provided to categorically needy persons as defined under Title XIX of the federal social security act.
+
+15. "Medical care services" means the limited scope of care financed by state funds and provided to persons who are not eligible for medicaid under RCW 74.09.510 and who are eligible for the aged, blind, or disabled assistance program authorized in RCW 74.62.030 or the essential needs and housing support program pursuant to RCW 74.04.805.
+
+16. "Multidisciplinary health care team" means an interdisciplinary team of health professionals which may include, but is not limited to, medical specialists, nurses, pharmacists, nutritionists, dieticians, social workers, behavioral and mental health providers including substance use disorder prevention and treatment providers, doctors of chiropractic, physical therapists, licensed complementary and alternative medicine practitioners, home care and other long-term care providers, and physicians' assistants.
+
+17. "Nursing home" means nursing home as defined in RCW 18.51.010.
+
+18. "Poverty" means the federal poverty level determined annually by the United States department of health and human services, or successor agency.
+
+19. "Primary care behavioral health" means a health care integration model in which behavioral health care is colocated, collaborative, and integrated within a primary care setting.
+
+20. "Primary care provider" means a general practice physician, family practitioner, internist, pediatrician, osteopathic physician, naturopath, physician assistant, and advanced practice registered nurse licensed under Title 18 RCW.
+
+21. "Secretary" means the secretary of social and health services.
+
+22. "Whole-person care in behavioral health" means a health care integration model in which primary care services are integrated into a behavioral health setting either through colocation or community-based care management.
+
+## Section 5168
+The authority shall provide coverage for prostate cancer screening under this chapter, provided that the screening is delivered upon the recommendation of the patient's physician, advanced practice registered nurse, or physician assistant.
+
+## Section 5169
+Unless the context clearly requires otherwise, the definitions in this section apply throughout this chapter.
+
+1. "Department" means the department of social and health services and the department's employees.
+
+2. "Direct care staff" means the staffing domain identified and defined in the centers for medicare and medicaid services' five-star quality rating system and as reported through the centers for medicare and medicaid services' payroll-based journal. For purposes of calculating hours per resident day minimum staffing standards for facilities with sixty-one or more licensed beds, the director of nursing services classification (job title code five), as identified in the centers for medicare and medicaid services' payroll-based journal, shall not be used. For facilities with sixty or fewer beds the director of nursing services classification (job title code five) shall be included in calculating hours per resident day minimum staffing standards.
+
+3. "Facility" refers to a nursing home as defined in RCW 18.51.010.
+
+4. "Geriatric behavioral health worker" means a person with a bachelor's or master's degree in social work, behavioral health, or other related areas, or a person who has received specialized training devoted to mental illness and treatment of older adults.
+
+5. "Licensed practical nurse" means a person licensed to practice practical nursing under chapter 18.79 RCW.
+
+6. "Medicaid" means Title XIX of the Social Security Act enacted by the social security amendments of 1965 (42 U.S.C. Sec. 1396; 79 Stat. 343), as amended.
+
+7. "Nurse practitioner" means a person licensed to practice advanced practice registered nursing under chapter 18.79 RCW.
+
+8. "Nursing care" means that care provided by a registered nurse, an advanced practice registered nurse, a licensed practical nurse, or a nursing assistant in the regular performance of their duties.
+
+9. "Physician" means a person practicing pursuant to chapter 18.57 or 18.71 RCW, including, but not limited to, a physician employed by the facility as provided in chapter 18.51 RCW.
+
+10. "Physician assistant" means a person practicing pursuant to chapter 18.71A RCW.
+
+11. "Qualified therapist" means:
+
+    a. An activities specialist who has specialized education, training, or experience specified by the department.
+
+    b. An audiologist who is eligible for a certificate of clinical competence in audiology or who has the equivalent education and clinical experience.
+
+    c. A mental health professional as defined in chapter 71.05 RCW.
+
+    d. An intellectual disabilities professional who is a qualified therapist or a therapist approved by the department and has specialized training or one year experience in treating or working with persons with intellectual or developmental disabilities.
+
+    e. An occupational therapist who is a graduate of a program in occupational therapy or who has equivalent education or training.
+
+    f. A physical therapist as defined in chapter 18.74 RCW.
+
+    g. A social worker as defined in RCW 18.320.010(2).
+
+    h. A speech pathologist who is eligible for a certificate of clinical competence in speech pathology or who has equivalent education and clinical experience.
+
+12. "Registered nurse" means a person licensed to practice registered nursing under chapter 18.79 RCW.
+
+13. "Resident" means an individual residing in a nursing home, as defined in RCW 18.51.010.
+
+## Section 5170
+1. The facility shall have a director of nursing services. The director of nursing services shall be a registered nurse or an advanced practice registered nurse.
+
+2. The director of nursing services is responsible for:
+
+    a. Coordinating the plan of care for each resident;
+
+    b. Permitting only licensed personnel to administer medications: PROVIDED, That nothing herein shall be construed as prohibiting graduate nurses or student nurses from administering medications when permitted to do so under chapter 18.79 RCW and rules adopted under it: PROVIDED FURTHER, That nothing herein shall be construed as prohibiting persons certified under chapter 18.135 RCW from practicing pursuant to the delegation and supervision requirements of chapter 18.135 RCW and rules adopted under it; and
+
+    c. Insuring that the licensed practical nurses and the registered nurses comply with chapter 18.79 RCW, and persons certified under chapter 18.135 RCW comply with the provisions of that chapter and rules adopted under it.
+
+## Section 5171
+Sections 5004, 5005, 5006, 5010, 5012, 5013, 5014, 5016, 5017, 5018, 5019, 5020, 5024, 5029, 5030, 5043, 5044, 5045, 5047, 5048, 5049, 5051, 5052, 5053, and 5055 of this act expire June 30, 2027.
+
+## Section 5172
+Sections 5058 through 5170 of this act take effect June 30, 2027.

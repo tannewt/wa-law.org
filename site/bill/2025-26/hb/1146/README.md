@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161098&caId=24687&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161098&caId=24687&tId=4)
 
-#### 176 👍 - Pro
+#### 205 👍 - Pro
 Testifying:
 * 💵Anthony Blankenship - [Civil Survival Project](/org/civil_survival_project/)
 * Amani Sawari
@@ -30,11 +30,15 @@ Testifying:
 * Jacob Schmitt - Just Us Solutions
 * Abigail Leong - Washington Voting Justice Coalition
 * Arthur Longworth - [Teamchild](/org/teamchild/)
+* Sophia Keller
 
-#### 449 👎 - Con
+#### 638 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Mary Long - Conservative Ladies of Washington
 * Barbara Gulley
+* Steve Chilson
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kevin Bovenkamp - DSHS Behavioral Health Administration

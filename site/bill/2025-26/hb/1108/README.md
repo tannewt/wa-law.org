@@ -14,14 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32399&aId=161194&caId=24658&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32399&aId=161194&caId=24658&tId=4)
 
-#### 15 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Elisicher Smith
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 8 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * Jeff Pack - Me
 * Lauren Bisplinghoff

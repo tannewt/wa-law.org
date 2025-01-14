@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=4)
 
-#### 23 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Lisa Yohalem - HealthPoint
 * 💵Erica Hallock - Start Early WA
@@ -39,6 +39,7 @@ Testifying:
 * Wes Jessup - Executive Director - Eastern Washington State Historical Society (EWSHS)
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Patience M Malaba - HDC
+* Kathleen Hosfeld - [Homestead Community Land Trust](/org/homestead_community_land_trust/)
 
 #### 7 👎 - Con
 Testifying:
@@ -48,7 +49,7 @@ Testifying:
 * Vickie Raines - Grays Harbor County
 * JOHN WORTHINGTON
 
-#### 18 ❓ - Other
+#### 19 ❓ - Other
 Testifying:
 * Kathryn Gardow - Chair, Public Works Board
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
@@ -68,3 +69,4 @@ Testifying:
 * DAVID DEMARCO - EVERETT FIRE DEPARTMENT
 * Jesse Simpson - Housing Development Consortium
 * 💵Nora Selander - Western Washington University
+* 💵Axel Swanson - Washington State Association of County Engineers

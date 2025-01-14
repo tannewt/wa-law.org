@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5017/</link>
 		<description>Updates about SB 5017</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 12:57:14 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jan 2025 06:58:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -91,6 +91,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Erica/Engelhart/2025-01-13 12:57:14</guid>
+		</item>
+		<item>
+			<title>👎Susannah Goodman - Common Cause</title>
+			<description>Susannah Goodman signed up to testify Con. They are signed up to represent Common Cause.</description>
+			<pubDate>Tue, 14 Jan 2025 06:58:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Susannah/Goodman/2025-01-14 06:58:34</guid>
 		</item>
 	</channel>
 </rss>

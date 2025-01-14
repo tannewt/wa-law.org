@@ -17,11 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161126&caId=24569&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161126&caId=24569&tId=4)
 
-#### 11 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Barbara Posthumus - Lake Washington School District
 * Leah Choi - Lake Washington School District
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

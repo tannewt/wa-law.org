@@ -18,10 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32375&aId=161226&caId=24582&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32375&aId=161226&caId=24582&tId=4)
 
-#### 178 👍 - Pro
+#### 181 👍 - Pro
 Testifying:
 * Evan Gallo
+* Eunice How - UNITE HERE Local 8
+* Otis Williams - UNITE HERE Local 8
+* William Matteo - UNITE HERE Local 8
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other

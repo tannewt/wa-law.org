@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 01/14 08:00 AM - Law & Justice (LAW): SB 5021 Retention of court exhibits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161046&caId=24585&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161046&caId=24585&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161046&caId=24585&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32355&aId=161046&caId=24585&tId=4)
-
 #### 45 👍 - Pro
 Testifying:
 * Catherine Cornwall - King County Clerk

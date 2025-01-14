@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161083&caId=24571&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161083&caId=24571&tId=4)
 
-#### 133 👍 - Pro
+#### 135 👍 - Pro
 Testifying:
 * Angelita Cervantes - Communities for Our College
 * Benjamin Gonzalez - Comunidades por nuestros colegios.
@@ -26,6 +26,6 @@ Testifying:
 * Khanh Pham - WA State Board for Community and Technical Colleges
 * Ana Diaz - Communities for Our College
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 2 ❓ - Other

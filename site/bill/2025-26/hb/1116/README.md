@@ -17,12 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32372&aId=161095&caId=24684&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32372&aId=161095&caId=24684&tId=4)
 
-#### 139 👍 - Pro
+#### 147 👍 - Pro
 Testifying:
 * Bonny Jo Peterson
 * Joe Kunzler
 * Chryss James
 * Marcelino Ruiz
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Jonathan Pan - Lake Washington High School
 
 #### 2 👎 - Con
 

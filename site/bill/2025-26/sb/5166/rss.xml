@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5166/</link>
 		<description>Updates about SB 5166</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 12:56:39 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jan 2025 12:25:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1158,6 +1158,14 @@
 			<guid isPermaLink="false">testifier/Cortney/Marabetta/2025-01-13 10:42:17</guid>
 		</item>
 		<item>
+			<title>👎💵Mitch Denning - Alliance of Educational Associations</title>
+			<description>Mitch Denning signed up to testify Con. They are signed up to represent Alliance of Educational Associations. They are a registered lobbyist.</description>
+			<pubDate>Mon, 13 Jan 2025 10:53:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mitch/Denning/2025-01-13 10:53:23</guid>
+		</item>
+		<item>
 			<title>👍Cathy Murahashi - The Arc of Washington</title>
 			<description>Cathy Murahashi signed up to testify Pro. They are signed up to represent The Arc of Washington.</description>
 			<pubDate>Mon, 13 Jan 2025 10:55:05 GMT</pubDate>
@@ -1204,6 +1212,38 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Sam/Scott/2025-01-13 12:56:39</guid>
+		</item>
+		<item>
+			<title>❓Sandy Kaiser - The Evergreen State College</title>
+			<description>Sandy Kaiser signed up to testify Other. They are signed up to represent The Evergreen State College.</description>
+			<pubDate>Tue, 14 Jan 2025 08:07:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Sandy/Kaiser/2025-01-14 08:07:52</guid>
+		</item>
+		<item>
+			<title>👍Emily Poncik - Family Connects Pierce County and Pierce County Early Chilhood Network</title>
+			<description>Emily Poncik signed up to testify Pro. They are signed up to represent Family Connects Pierce County and Pierce County Early Chilhood Network.</description>
+			<pubDate>Tue, 14 Jan 2025 08:30:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emily/Poncik/2025-01-14 08:30:15</guid>
+		</item>
+		<item>
+			<title>👍💵Altinay Karasapan - NAMI WA</title>
+			<description>Altinay Karasapan signed up to testify Pro. They are a registered lobbyist.</description>
+			<pubDate>Tue, 14 Jan 2025 09:49:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Altinay/Karasapan/2025-01-14 09:49:17</guid>
+		</item>
+		<item>
+			<title>❓Andrew Villeneuve - Northwest Progressive Institute</title>
+			<description>Andrew Villeneuve signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/northwest_progressive_institute/"&gt;Northwest Progressive Institute&lt;/a&gt;.</description>
+			<pubDate>Tue, 14 Jan 2025 12:25:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Andrew/Villeneuve/2025-01-14 12:25:18</guid>
 		</item>
 	</channel>
 </rss>
