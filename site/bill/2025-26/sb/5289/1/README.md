@@ -1,0 +1,105 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5289](/bill/2025-26/sb/5289/) > [Original Bill](/bill/2025-26/sb/5289/1/)
+
+# SB 5289 - Farm machinery sales tax
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5289.pdf)
+
+## Section 1
+1. The tax levied by RCW 82.08.020 does not apply to the sale to an eligible farmer of:
+
+    a. Qualifying farm machinery and equipment;
+
+    b. Replacement parts for qualifying farm machinery and equipment;
+
+    c. Labor and services rendered in respect to the installing of qualifying farm machinery and equipment or the installing of replacement parts; and
+
+    d. Labor and services rendered in respect to the repairing of qualifying farm machinery and equipment, provided that during the course of repairing no tangible personal property is installed, incorporated, or placed in, or becomes an ingredient or component of, the qualifying farm machinery and equipment other than replacement parts.
+
+2. [Empty]
+
+    a. Notwithstanding anything to the contrary in this chapter, if a single transaction involves services that are not exempt under this section and services that would be exempt under this section if provided separately, the exemptions provided in subsection (1) (c) and (d) of this section apply if: (i) The seller makes a separately itemized charge for labor and services described in subsection (1) (c) or (d) of this section; and (ii) the separately itemized charge does not exceed the seller's usual and customary charge for such services.
+
+    b. If the requirements in (a)(i) and (ii) of this subsection (2) are met, the exemption provided in subsection (1) (c) or (d) of this section applies to the separately itemized charge for labor and services described in subsection (1) (c) or (d) of this section.
+
+3. [Empty]
+
+    a. A purchaser claiming an exemption under subsection (1)(b) through (d) of this section must keep records necessary for the department to verify eligibility under this section. Sellers making tax‑exempt sales under subsection (1)(b) through (d) of this section must obtain an exemption certificate from the purchaser in a form and manner prescribed by the department. In lieu of an exemption certificate, a seller may capture the relevant data elements as allowed under the streamlined sales and use tax agreement. The seller must retain a copy of the certificate or the data elements for the seller's files. A purchaser claiming an exemption under subsection (1)(a) of this section must pay the tax and submit an application for a remittance as provided under subsection (4) of this section.
+
+    b. [Empty]
+
+        i. For a person who is an eligible farmer as defined in subsection (5)(b)(iv) of this section, the exemption is conditioned upon:
+
+(A) The eligible farmer having gross sales or a harvested value of agricultural products grown, raised, or produced by that person or gross sales of bee pollination services of at least ten thousand dollars in the first full tax year in which the person engages in business as a farmer; or
+
+(B) The eligible farmer, during the first full tax year in which that person engages in business as a farmer, growing, raising, or producing agricultural products or bee pollination services having an estimated value at any time during that year of at least ten thousand dollars, if the person will not sell or harvest an agricultural product or bee pollination service during the first full tax year in which the person engages in business as a farmer.
+
+        ii. If a person fails to meet the condition provided in (b)(i)(A) or (B) of this subsection, the person must repay any taxes exempted under this section. Any taxes for which an exemption under this section was claimed are due and payable to the department within thirty days of the end of the first full tax year in which the person engages in business as a farmer. The department must assess interest on the taxes for which the exemption was claimed as provided in chapter 82.32 RCW, retroactively to the date the exemption was claimed, and accrues until the taxes for which the exemption was claimed are paid. Penalties may not be imposed on any tax required to be paid under this subsection (3)(b)(ii) if full payment is received by the due date.
+
+4. The exemption under subsection (1)(a) of this section for qualifying farm machinery and equipment is provided in the form of a remittance. An eligible farmer must pay the tax imposed by RCW 82.08.020 on purchases eligible for the remittance. The eligible farmer may then apply to the department for remittance of 100 percent of the state tax paid under RCW 82.08.020 on such purchases, subject to the limits and conditions of this section. As part of the application, the eligible farmer must provide invoices for purchases of farm machinery and equipment qualifying for a remittance under this section. An eligible farmer may not apply for more than one remittance under this section per calendar quarter. The department must on a quarterly basis remit exempted amounts to eligible farmers whose applications were approved by the department during the previous quarter.
+
+5. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Agricultural products" has the meaning provided in RCW 82.04.213.
+
+    b. "Eligible farmer" means:
+
+        i. A farmer as defined in RCW 82.04.213 whose gross sales or harvested value of agricultural products grown, raised, or produced by that person or gross sales of bee pollination services was at least ten thousand dollars for the immediately preceding tax year;
+
+        ii. A farmer as defined in RCW 82.04.213 whose agricultural products had an estimated value of at least ten thousand dollars for the immediately preceding tax year, if the person did not sell or harvest an agricultural product or bee pollination service during that year;
+
+        iii. A farmer as defined in RCW 82.04.213 who has merely changed identity or the form of ownership of an entity that was an eligible farmer, where there was no change in beneficial ownership, and the combined gross sales, harvested value, or estimated value of agricultural products or bee pollination services by both entities met the requirements of (b)(i) or (ii) of this subsection for the immediately preceding tax year;
+
+        iv. A farmer as defined in RCW 82.04.213 who does not meet the definition of "eligible farmer" in (b)(i), (ii), or (iii) of this subsection, and who did not engage in farming for the entire immediately preceding tax year, because the farmer is either new to farming or newly returned to farming; or
+
+    v. Anyone who otherwise meets the definition of "eligible farmer" in this subsection except that they are not a "person" as defined in RCW 82.04.030.
+
+    c. "Farm vehicle" has the same meaning as in RCW 46.04.181.
+
+    d. "Harvested value" means the number of units of the agricultural product that were grown, raised, or produced, multiplied by the average sales price of the agricultural product. For purposes of this subsection (5)(d), "average sales price" means the average price per unit of agricultural product received by farmers in this state as reported by the United States department of agriculture's national agricultural statistics service for the twelve-month period that coincides with, or that ends closest to, the end of the relevant tax year, regardless of whether the prices are subject to revision. If the price per unit of an agricultural product received by farmers in this state is not available from the national agricultural statistics service, average sales price may be determined by using the average price per unit of agricultural product received by farmers in this state as reported by a recognized authority for the agricultural product.
+
+    e. "Qualifying farm machinery and equipment" means machinery and equipment used primarily by an eligible farmer for growing, raising, or producing agricultural products, providing bee pollination services, or both. "Qualifying farm machinery and equipment" does not include:
+
+        i. Vehicles as defined in RCW 46.04.670, other than farm tractors as defined in RCW 46.04.180, farm vehicles, and other farm implements. For purposes of this subsection (5)(e)(i), "farm implement" means machinery or equipment manufactured, designed, or reconstructed for agricultural purposes and used primarily by an eligible farmer to grow, raise, or produce agricultural products, but does not include lawn tractors and all‑terrain vehicles;
+
+        ii. Aircraft;
+
+        iii. Hand tools and hand‑powered tools; and
+
+        iv. Property with a useful life of less than one year.
+
+    f. [Empty]
+
+        i. "Replacement parts" means those parts that replace an existing part, or which are essential to maintain the working condition, of a piece of qualifying farm machinery or equipment.
+
+        ii. Paint, fuel, oil, hydraulic fluids, antifreeze, and similar items are not replacement parts except when installed, incorporated, or placed in qualifying farm machinery and equipment during the course of installing replacement parts as defined in (f)(i) of this subsection or making repairs as described in subsection (1)(d) of this section.
+
+    g. "Tax year" means the period for which a person files its federal income tax return, irrespective of whether the period represents a calendar year, fiscal year, or some other consecutive twelve‑month period. If a person is not required to file a federal income tax return, "tax year" means a calendar year.
+
+## Section 2
+1. The provisions of this chapter do not apply in respect to the use by an eligible farmer of:
+
+    a. Qualifying farm machinery and equipment;
+
+    b. Replacement parts for qualifying farm machinery and equipment;
+
+    c. Labor and services rendered in respect to the installing of replacement parts; and
+
+    d. Labor and services rendered in respect to the repairing of qualifying farm machinery and equipment, provided that during the course of repairing no tangible personal property is installed, incorporated, or placed in, or becomes a component of, the qualifying farm machinery and equipment other than replacement parts.
+
+2. [Empty]
+
+    a. Notwithstanding anything to the contrary in this chapter, if a single transaction involves services that are not exempt under this section and services that would be exempt under this section if provided separately, the exemptions provided in subsection (1) (c) and (d) of this section apply if: (i) The seller makes a separately itemized charge for labor and services described in subsection (1) (c) or (d) of this section; and (ii) the separately itemized charge does not exceed the seller's usual and customary charge for such services.
+
+    b. If the requirements in (a)(i) and (ii) of this subsection (2) are met, the exemption provided in subsection (1) (c) or (d) of this section applies to the separately itemized charge for labor and services described in subsection (1) (c) or (d) of this section.
+
+3. The definitions , recordkeeping requirements, conditions, and limitations in RCW 82.08.855 apply to this section.
+
+4. If a person is an eligible farmer as defined in RCW 82.08.855(5)(b)(iv) who cannot prove income because the person is new to farming or newly returned to farming, the exemption under this section will apply only if one of the conditions in RCW 82.08.855(3)(b)(i) (A) or (B) is met. If neither of those conditions are met, any taxes for which an exemption under this section was claimed and interest on such taxes must be paid. Amounts due under this subsection shall be in accordance with RCW 82.08.855(3)(b)(ii).
+
+5. Except as provided in subsection (4) of this section, the department may not assess the tax imposed under this chapter against a person who no longer qualifies as an eligible farmer with respect to the use of any articles or services exempt under subsection (1) of this section, if the person was an eligible farmer when the person first put the articles or services to use in this state.
+
+## Section 3
+RCW 82.32.805 and 82.32.808 do not apply to this act.
+
+## Section 4
+This act applies to sales or uses of qualifying farm machinery and equipment occurring on or after October 1, 2025.

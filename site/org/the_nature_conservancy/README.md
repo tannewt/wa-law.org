@@ -1,12 +1,15 @@
 # The Nature Conservancy
 ## 2025-26
 
-## [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
+* 👍 Scott Richards
+
+## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍 Scott Richards
 
 ## 2023-24
 
-### [HB 1198](/bill/2023-24/hb/1198/) - Operating budget 👍1  
+### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp. 👍1  
 * 👍 Scott Richards
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍5  

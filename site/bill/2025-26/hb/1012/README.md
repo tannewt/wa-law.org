@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/14 01:30 PM - State Government & Tribal Relations (SGOV): HB 1012 Women's commission/gifts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32372&aId=161093&caId=24682&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32372&aId=161093&caId=24682&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32372&aId=161093&caId=24682&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32372&aId=161093&caId=24682&tId=4)
-
-#### 9 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Leah White - Washington State Women's Commission
 * 💵Vicki Lowe - Washington State Women's Commission

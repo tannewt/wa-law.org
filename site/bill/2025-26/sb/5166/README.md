@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/14 04:00 PM - Ways & Means (WM): SB 5166 and SB 5167: All other. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161369&caId=24618&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161369&caId=24618&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161369&caId=24618&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161369&caId=24618&tId=4)
-
-#### 8 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Sara Robbins - Washington State Office of Civil Legal Aid
 * Larry Jefferson - Director, Washington State Office of Public Defense
@@ -25,12 +19,15 @@ Testifying:
 * Jolynn Kenney - MENTOR Washington
 * Roger Rogoff - Office of Independent Investigations
 
-#### 13 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Sai Samineni - Dream Investment Strategies Inc
+* Lyn Idahosa
+* 💵Paula Sardinas - FMS Global Strategies/WBBA
 
-#### 12 ❓ - Other
+#### 13 ❓ - Other
 Testifying:
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Radu Smintina - School's Out Washington
@@ -44,36 +41,26 @@ Testifying:
 * Evan Woods - WeTrain WA Grocery Apprenticeship
 * Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
 * 💵Nancy Sapiro - Jewish Community Relations Council of the Jewish Federation of Greater Seattle
+* JOANNA Grist - AARP
 
 ### Tue 01/14 04:00 PM - Ways & Means (WM): SB 5166 and SB 5167: Early learning. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161364&caId=24613&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161364&caId=24613&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161364&caId=24613&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161364&caId=24613&tId=4)
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Aida Rodriguez - [The Imagine Institute](/org/the_imagine_institute/)
 * 💵Joel Ryan - WA State Association of Head Start & ECEAP
 * Emily Poncik - Family Connects Pierce County and Pierce County Early Chilhood Network
 
-#### 11 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * Rachel Hall - Washington Communities for Children
+* 💵Paula Sardinas - WBBA
 
 #### 2 ❓ - Other
 Testifying:
 * 💵Emily Murphy - [Child Care Aware of Washington](/org/child_care_aware_of_washington/)
 
 ### Tue 01/14 04:00 PM - Ways & Means (WM): SB 5166 and SB 5167: Employee compensation. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161365&caId=24614&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161365&caId=24614&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161365&caId=24614&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161365&caId=24614&tId=4)
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Miri Cypers - Anti-Defamation League Pacific Northwest Region
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
@@ -86,19 +73,13 @@ Testifying:
 * 💵Peter Diedrick - WA State School Retirees' Association
 
 ### Tue 01/14 04:00 PM - Ways & Means (WM): SB 5166 and SB 5167: Higher education. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161363&caId=24612&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161363&caId=24612&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161363&caId=24612&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161363&caId=24612&tId=4)
-
 #### 1 👍 - Pro
 Testifying:
 * 💵Joel Anderson - Washington Student Achievement Council
 
 #### 10 👎 - Con
 
-#### 12 ❓ - Other
+#### 15 ❓ - Other
 Testifying:
 * Jacob Vigdor - University of Washington Faculty
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
@@ -110,16 +91,12 @@ Testifying:
 * Chemene Crawford - Everett Community College
 * 💵Richard Burton - AFT Washington
 * Jaeney Hoene - AFT-WA
+* David Buri - Eastern Washington University
 * Sandy Kaiser - The Evergreen State College
+* Chris Mulick - Washington State University
 
 ### Tue 01/14 04:00 PM - Ways & Means (WM): SB 5166 and SB 5167: Human services. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161367&caId=24616&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161367&caId=24616&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161367&caId=24616&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161367&caId=24616&tId=4)
-
-#### 129 👍 - Pro
+#### 140 👍 - Pro
 Testifying:
 * Jim Theofelis - NorthStar Advocates
 * Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
@@ -149,8 +126,10 @@ Testifying:
 * 💵Lori Grassi - WA State Chiropractic Association
 * Jane Pak - Snohomish County Legal Services
 * Cathy Murahashi - The Arc of Washington
+* Cynthia Green - Catholic Community Services
+* Jessica Renner - Self Advocates in Leadership (SAIL)
 
-#### 27 👎 - Con
+#### 51 👎 - Con
 Testifying:
 * Teresa Andree - Park Rose Care Center
 * Joany Schimmelfennig - Good Samaritan Health Care Center
@@ -167,7 +146,7 @@ Testifying:
 * Cara Boyer - Emerald City
 * Danielle Wallace
 
-#### 36 ❓ - Other
+#### 44 ❓ - Other
 Testifying:
 * Ashley Dutton - Wonderland Child and Family Services
 * 💵Melanie Smith - WA State LTC Ombuds Program
@@ -203,17 +182,14 @@ Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Luc Jasmin III
 * Sam Scott - Snohomish County Legal Services
+* katherine Young/Homen
+* Tim Sigler - Community Minded Enterprise
+* Edward Pospisil - Unified Residential Care
 
 ### Tue 01/14 04:00 PM - Ways & Means (WM): SB 5166 and SB 5167: K-12 public schools. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161362&caId=24611&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161362&caId=24611&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161362&caId=24611&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161362&caId=24611&tId=4)
-
 #### 1 👍 - Pro
 
-#### 28 👎 - Con
+#### 34 👎 - Con
 Testifying:
 * 💵Janie White - [Washington Education Association](/org/washington_education_association/)
 * Andrea Gamboa - Tukwila Education Association
@@ -229,7 +205,7 @@ Testifying:
 * Kathryn Kurtz - [Pacific Education Institute](/org/pacific_education_institute/)
 * 💵Mitch Denning - Alliance of Educational Associations
 
-#### 16 ❓ - Other
+#### 17 ❓ - Other
 Testifying:
 * 💵Samuel Martin - School's Out Washington
 * Angela Steck - Washington State PTA
@@ -243,15 +219,10 @@ Testifying:
 * 💵Casey Brown - Strategies 360
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Cortney Marabetta - AFT Washington
+* 💵Paula Sardinas - FMS Global Strategies/WBBA
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
 ### Tue 01/14 04:00 PM - Ways & Means (WM): SB 5166 and SB 5167: Mental health. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161366&caId=24615&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161366&caId=24615&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161366&caId=24615&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161366&caId=24615&tId=4)
-
 #### 1 👍 - Pro
 Testifying:
 * Rashi Gupta - UW Medicine
@@ -264,21 +235,17 @@ Testifying:
 * 💵Anna Nepomuceno - NAMI WA
 
 ### Tue 01/14 04:00 PM - Ways & Means (WM): SB 5166 and SB 5167: Natural resources. (Remote Testimony Available).
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161368&caId=24617&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161368&caId=24617&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161368&caId=24617&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32414&aId=161368&caId=24617&tId=4)
-
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
+* John Floberg - Washington State Parks Foundation
 * 💵Altinay Karasapan
+* Scott Richards - [The Nature Conservancy](/org/the_nature_conservancy/)
 
 #### 11 👎 - Con
 Testifying:
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
 * Tom Davis - WA Forest Protection Association
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Michael Moran - Confederated Tribes of the Colville Reservation

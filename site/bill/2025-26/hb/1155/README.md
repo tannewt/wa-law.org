@@ -11,16 +11,20 @@
 
 ## Meetings
 ### Wed 01/15 08:00 AM - Labor & Workplace Standards (LAWS): HB 1155 Noncompetition agreements
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161169&caId=24663&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161169&caId=24663&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161169&caId=24663&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161169&caId=24663&tId=4)
+#### 54 👍 - Pro
+Testifying:
+* Jeremiah Miller - [Fair Work Center](/org/fair_work_center/)
+* Jeremiah Miller - [Fair Work Center](/org/fair_work_center/)
+* Jesse Wing - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
+* Sung Shin
+* Taifa Harris
+* Joe Kendo - WA State Labor Council
+* Tanya Donovan
 
-#### 37 👍 - Pro
-
-#### 5 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Mike Burgess - WA State Fairs Association
+* 💵Rowland Thompson - Washington State Association of Broadcasters
 
 #### 0 ❓ - Other

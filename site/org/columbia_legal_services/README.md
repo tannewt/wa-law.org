@@ -1,6 +1,14 @@
 # Columbia Legal Services
 ## 2025-26
 
+### [HB 1137](/bill/2025-26/hb/1137/) - Establishing uniform policies and procedures within department of corrections facilities relating to disciplinary proceedings and administrative segregation. 👍1  
+
+### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  
+
+### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
+
+### [HB 1192](/bill/2025-26/hb/1192/) - Concerning disciplinary hearings held by the department of corrections. 👍1  
+
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 * 👍💵 Sarah Nagy
 

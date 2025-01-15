@@ -1,6 +1,9 @@
 # Zero Waste Washington
 ## 2025-26
 
+### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates  👎1 
+* 👎💵 Heather Trim
+
 ### [HB 1107](/bill/2025-26/hb/1107/) - Concerning environmental impacts of fashion. 👍1  
 * 👍💵 Heather Trim
 

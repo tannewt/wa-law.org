@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/15/2025 [MyNorthwest](/org/mynorthwest/) - [Washington residents: housing costs will skyrocket under new bills](https://mynorthwest.com/ktth/ktth-opinion/rantz-washington-utility-property-taxes-would-surge-by-3-under-democrats-bill/4028109#:~:text=Senate%20Bill%205088)
+
 ## Meetings
 ### Thu 01/16 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5088 Public utility tax, counties
 Sign up to testify:

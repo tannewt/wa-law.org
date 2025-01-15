@@ -17,10 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32361&aId=161400&caId=24711&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32361&aId=161400&caId=24711&tId=4)
 
-#### 3 👍 - Pro
+#### 31 👍 - Pro
+Testifying:
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Autumn Dietrich - Consolidated Disposal Service, Inc.
+* Brian Coddington - Sunshine Disposal and Recycling
 
-#### 3 👎 - Con
+#### 26 👎 - Con
 Testifying:
 * 💵Andrew Hackman - AMERIPEN
+* Scott DeFife - Glass Packaging Institute
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program

@@ -11,14 +11,19 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5210 Ninth grade success grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161391&caId=24703&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161391&caId=24703&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161391&caId=24703&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161391&caId=24703&tId=4)
+#### 76 👍 - Pro
+Testifying:
+* Doug Hostetter - [Tacoma Public Schools](/org/tacoma_public_schools/)
+* Doug Judge - Center for High School Success
+* Myle Tang - Stand for Children Washington
+* David Funk - Prosser High School
+* David Knight - Associate Professor
+* Matthew Yarkosky - Graham Kapowsin High School
 
-#### 47 👍 - Pro
-
-#### 141 👎 - Con
+#### 257 👎 - Con
+Testifying:
+* Loni Simone
+* Asenith M Herbert Hill
+* LaRae Richards
 
 #### 0 ❓ - Other

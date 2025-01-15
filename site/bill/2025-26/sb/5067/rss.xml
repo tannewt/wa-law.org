@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5067/</link>
 		<description>Updates about SB 5067</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 10:08:46 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jan 2025 18:28:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -194,6 +194,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Zachary/Cyr/2025-01-13 10:08:46</guid>
+		</item>
+		<item>
+			<title>Lovick bill to reduce BAC limit to .05% heard in committee - Sen. John Lovick</title>
+			<description>News article "Lovick bill to reduce BAC limit to .05% heard in committee - Sen. John Lovick" from Senate Democrats.</description>
+			<pubDate>Tue, 14 Jan 2025 18:28:51 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/lovick/2025/01/14/lovick-bill-to-reduce-bac-limit-to-05-heard-in-committee/#:~:text=Senate%20Bill%205067</guid>
 		</item>
 	</channel>
 </rss>

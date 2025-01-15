@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5005/</link>
 		<description>Updates about SB 5005</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 19:57:10 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jan 2025 05:45:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -56,6 +56,13 @@
 			<pubDate>Mon, 13 Jan 2025 19:57:10 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/saldana/2025/01/13/kicking-off-the-2025-legislative-session/#:~:text=SB%205005</guid>
+		</item>
+		<item>
+			<title>KUOW - Local jails in WA could finally get state oversight</title>
+			<description>News article "KUOW - Local jails in WA could finally get state oversight" from KUOW.</description>
+			<pubDate>Tue, 14 Jan 2025 05:45:01 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/local-jails-in-wa-could-finally-get-state-oversigh#:~:text=new%20proposal</guid>
 		</item>
 	</channel>
 </rss>

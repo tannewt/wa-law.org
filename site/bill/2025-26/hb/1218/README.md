@@ -11,23 +11,26 @@
 
 ## Meetings
 ### Wed 01/15 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1218 Concerning persons referred for competency evaluation and restoration services. (Remote Testimony Available). (If measure is referred to committee.)
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32370&aId=161386&caId=24700&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32370&aId=161386&caId=24700&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32370&aId=161386&caId=24700&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32370&aId=161386&caId=24700&tId=4)
-
-#### 6 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Amber Leaders - Office of Governor Jay Inslee
 * 💵Chloe Merino - Disability Rights WA; Plaintiff Counsel A.B. v. DSHS (Trueblood)
 * 💵Kimberly Mosolf - Counsel for Plaintiffs in AB v DSHS (Trueblood)
+* Thomas Kinlen - DSHS Behavioral Health Administration
+* Kevin Bovenkamp - DSHS Behavioral Health Administration
 
-#### 150 👎 - Con
+#### 255 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Brad Banks - Washington State Association of Counties (WSAC)
+* Loni Simone
+* 💵Michael White - King, Pierce, and Snohomish Counties
+* Asenith M Herbert Hill
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Kari Reardon - WACDL/WDA
 * Marc Stern
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Melissa Johnson - District & Municipal Court Judges' Association

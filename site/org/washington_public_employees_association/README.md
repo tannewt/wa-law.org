@@ -1,6 +1,10 @@
 # Washington Public Employees Association
 ## 2025-26
 
+### [HB 1036](/bill/2025-26/hb/1036/) - Labor trustees/colleges 👍1  
+
+### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers 👍1  
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Seamus Petrie
 

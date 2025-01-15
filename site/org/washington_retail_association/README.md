@@ -1,16 +1,25 @@
 # Washington Retail Association
 ## 2025-26
 
+### [HB 1004](/bill/2025-26/hb/1004/) - Increasing the personal property tax exemption. 👍1  
+* 👍💵 Mark Johnson
+
+### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍1  
+* 👍💵 Mark Johnson
+
 ### [HB 1107](/bill/2025-26/hb/1107/) - Concerning environmental impacts of fashion.  👎1 
 * 👎💵 Crystal Leatherman
 
-## [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍1  
+### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎1 
+
+### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍1  
 * 👍💵 Rose Gundersen
+
+## [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 
 ## 2023-24
 
-### [HB 1184](/bill/2023-24/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍1  
-* 👍💵 Rose Gundersen
+### [SB 5092](/bill/2023-24/sb/5092/) - Farm machinery sales tax 👍1  
 
 ### [HB 1005](/bill/2023-24/hb/1005/) - Military/employer tax incen. 👍1  
 * 👍💵 Mark Johnson

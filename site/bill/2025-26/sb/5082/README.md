@@ -11,7 +11,7 @@
 
 ## Meetings
 ### Mon 01/13 02:00 PM - Human Services (HS): SB 5082 Extended foster care/housing
-#### 248 👍 - Pro
+#### 249 👍 - Pro
 Testifying:
 * 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Corrina Chatterton - [The Mockingbird Society](/org/the_mockingbird_society/)
@@ -21,6 +21,7 @@ Testifying:
 * Tara Urs - King County Department of Public Defense
 * Jonas Rios - [The Mockingbird Society](/org/the_mockingbird_society/)
 * Rocket Garcia - [The Mockingbird Society](/org/the_mockingbird_society/)
+* Jalayna Ruland - [The Mockingbird Society](/org/the_mockingbird_society/)
 
 #### 223 👎 - Con
 

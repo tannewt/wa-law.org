@@ -11,17 +11,13 @@
 
 ## Meetings
 ### Wed 01/15 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1014 Child support schedule
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32370&aId=161087&caId=24625&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32370&aId=161087&caId=24625&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32370&aId=161087&caId=24625&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32370&aId=161087&caId=24625&tId=4)
-
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Terry Price - Child Support Workgroup Member
 * Sharon Redmond - Department of Social and Health Services
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Patrick Rawnsley - WSBA Family Law Executive Committee

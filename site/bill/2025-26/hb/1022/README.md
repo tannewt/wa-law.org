@@ -11,18 +11,13 @@
 
 ## Meetings
 ### Tue 01/14 04:00 PM - Housing (HOUS): HB 1022 Homes for heroes program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32399&aId=161193&caId=24657&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32399&aId=161193&caId=24657&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32399&aId=161193&caId=24657&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32399&aId=161193&caId=24657&tId=4)
-
-#### 49 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * 💵Nick Streuli - [WA Realtors](/org/washington_association_of_realtors/)
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 1 ❓ - Other

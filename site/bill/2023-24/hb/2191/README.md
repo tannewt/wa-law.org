@@ -28,7 +28,7 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Maureen McCarthy - Whatcom Transportation Authority
+* Maureen McCarthy - [Whatcom Transportation Authority](/org/whatcom_transportation_authority/)
 
 ### Mon 01/22 04:00 PM - Transportation (TR): HB 2191 PTBA governing body members
 #### 54 👍 - Pro
@@ -50,5 +50,5 @@ Testifying:
 Testifying:
 * Charles Prestrud - Washington Policy Center
 * Chelsea Ongaro - Community Transit
-* Maureen McCarthy - Whatcom Transportation Authority
+* Maureen McCarthy - [Whatcom Transportation Authority](/org/whatcom_transportation_authority/)
 * Sanjay Bhatt - [Kitsap Transit](/org/kitsap_transit/)

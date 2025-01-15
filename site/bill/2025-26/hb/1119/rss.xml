@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1119/</link>
 		<description>Updates about HB 1119</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 14 Jan 2025 09:55:52 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jan 2025 11:11:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -60,6 +60,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Keri-Anne/Jetzer/2025-01-14 09:55:52</guid>
+		</item>
+		<item>
+			<title>👍Cindy Elsberry - Washington Defender Association</title>
+			<description>Cindy Elsberry signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_defender_association/"&gt;Washington Defender Association&lt;/a&gt;.</description>
+			<pubDate>Tue, 14 Jan 2025 11:11:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cindy/Elsberry/2025-01-14 11:11:25</guid>
 		</item>
 	</channel>
 </rss>

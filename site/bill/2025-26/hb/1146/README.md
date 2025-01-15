@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - State Government & Tribal Relations (SGOV): HB 1146 Voting in jails, hospitals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161098&caId=24687&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161098&caId=24687&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161098&caId=24687&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161098&caId=24687&tId=4)
-
-#### 205 👍 - Pro
+#### 452 👍 - Pro
 Testifying:
 * 💵Anthony Blankenship - [Civil Survival Project](/org/civil_survival_project/)
 * Amani Sawari
@@ -32,13 +26,18 @@ Testifying:
 * Arthur Longworth - [Teamchild](/org/teamchild/)
 * Sophia Keller
 
-#### 638 👎 - Con
+#### 873 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Mary Long - Conservative Ladies of Washington
 * Barbara Gulley
+* Loni Simone
 * Steve Chilson
+* Asenith M Herbert Hill
+* Valerie Norman
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Kevin Bovenkamp - DSHS Behavioral Health Administration
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* LaRae Richards

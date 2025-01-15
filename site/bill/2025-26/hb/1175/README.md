@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/15/2025 [MyNorthwest](/org/mynorthwest/) - [Law mandates cafés be allowed in all Washington neighborhoods](https://mynorthwest.com/ktth/ktth-opinion/rantz-new-law-brings-small-cafes-to-every-washington-neighborhood-that-wants-one/4028664#:~:text=House%20Bill%201175)
+
 ## Meetings

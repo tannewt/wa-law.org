@@ -17,11 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32367&aId=161158&caId=24637&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32367&aId=161158&caId=24637&tId=4)
 
-#### 28 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * Waldo Waldron-Ramsey - [Washington Community Action Network](/org/washington_community_action_network/)
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 

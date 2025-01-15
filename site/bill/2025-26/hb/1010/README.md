@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 01/14 04:00 PM - Housing (HOUS): HB 1010 Rural area ADUs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32399&aId=161192&caId=24656&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32399&aId=161192&caId=24656&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32399&aId=161192&caId=24656&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32399&aId=161192&caId=24656&tId=4)
-
 #### 1 👍 - Pro
 
 #### 0 👎 - Con

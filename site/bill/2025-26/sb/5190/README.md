@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161396&caId=24708&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161396&caId=24708&tId=4)
 
-#### 2 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 
 #### 0 👎 - Con
 

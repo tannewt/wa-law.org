@@ -11,20 +11,19 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5189 Competency-based education
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161393&caId=24705&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161393&caId=24705&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161393&caId=24705&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161393&caId=24705&tId=4)
-
-#### 9 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * J. Lee Schultz - [Washington State Board of Education](/org/washington_state_board_of_education/)
+* Troy Goracke - Washington State Board for Community and Technical Colleges
 
-#### 622 👎 - Con
+#### 768 👎 - Con
 Testifying:
 * Sarah Garriott
 * Joy Gjersvold - Conservative Ladies of Washington
 * Rhonda Looney - None
+* Maxine Herbert Hill - SR162 Community Group
+* Jennifer Heine-Withee
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Becky Wallace - Office of Superintendent of Public Instruction

@@ -11,16 +11,11 @@
 
 ## Meetings
 ### Tue 01/14 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1091 SVP supervision credit
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161061&caId=24632&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161061&caId=24632&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161061&caId=24632&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161061&caId=24632&tId=4)
+#### 442 👍 - Pro
 
-#### 293 👍 - Pro
-
-#### 4 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Sonja Hardenbrook - WDA and WACDL
+* Jessica Fleming
 
 #### 0 ❓ - Other

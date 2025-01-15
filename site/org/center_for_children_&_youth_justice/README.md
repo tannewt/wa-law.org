@@ -1,6 +1,8 @@
 # Center for Children & Youth Justice
 ## 2025-26
 
+### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Giannina Ferrara
 

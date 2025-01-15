@@ -11,16 +11,14 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Consumer Protection & Business (CPB): HB 1103 Unwanted calls & texts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32417&aId=161238&caId=24643&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32417&aId=161238&caId=24643&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32417&aId=161238&caId=24643&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32417&aId=161238&caId=24643&tId=4)
-
-#### 2 👍 - Pro
+#### 9 👍 - Pro
 
 #### 1 👎 - Con
 Testifying:
 * 💵Kelsi Hamilton - Washington Collectors Assoc.
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* David Reid - Receivables Management Association International (RMAI)
+* Jeff Gombosky - CTIA - The Wireless Association
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)

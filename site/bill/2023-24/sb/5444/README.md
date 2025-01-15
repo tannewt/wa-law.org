@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 01/14/2025 [Senate Democrats](/org/senate_democrats/) - [Valdez bill to enhance public safety heard in committee - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/01/14/valdez-bill-to-enhance-public-safety-heard-in-committee/#:~:text=Senate%20Bill%205444)
 * 12/10/2024 [Gorge News Center](/org/gorge_news_center/) - [Gun group wants new taxes and permits for WA firearm sales](https://gorgenewscenter.com/2024/12/10/gun-group-wants-new-taxes-and-permits-for-wa-firearm-sales/#:~:text=places%20where%20open%20carry%20of%20firearms%20is%20restricted)
 * 06/06/2024 [The Center Square](/org/the_center_square/) - [Open-carry now banned in WA transit stations, libraries, zoos | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_73352384-2436-11ef-adf4-dbdf00a51eaa.html#:~:text=SB%205444)
 * 03/27/2024 [South Seattle Emerald](/org/south_seattle_emerald/) - [NEWS GLEAMS | CAIR-WA Urges NWDC Ramadan Accommodations; Alexis Mercedes Rinck Eyes City Council Seat 8 | South Seattle Emerald](https://southseattleemerald.com/2024/03/27/news-gleams-cair-wa-urges-nwdc-ramadan-accommodations-alexis-mercedes-rinck-eyes-city-council-seat-8/#:~:text=Senate%20Bill%205444)

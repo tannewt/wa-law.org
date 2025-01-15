@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5052/</link>
 		<description>Updates about SB 5052</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jan 2025 07:29:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,46 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
+			<title>❓Elizabeth Mustin - Washington State Office of Public Defense</title>
+			<description>Elizabeth Mustin signed up to testify Other. They are signed up to represent Washington State Office of Public Defense.</description>
+			<pubDate>Tue, 14 Jan 2025 02:00:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Elizabeth/Mustin/2025-01-14 02:00:48</guid>
+		</item>
+		<item>
+			<title>👎Emily Gause - WACDL/WDA</title>
+			<description>Emily Gause signed up to testify Con. They are signed up to represent WACDL/WDA.</description>
+			<pubDate>Tue, 14 Jan 2025 03:02:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Emily/Gause/2025-01-14 03:02:30</guid>
+		</item>
+		<item>
+			<title>👍Leyla Adam - Spokane's West Plains Water Coalition</title>
+			<description>Leyla Adam signed up to testify Pro.</description>
+			<pubDate>Tue, 14 Jan 2025 03:25:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Leyla/Adam/2025-01-14 03:25:40</guid>
+		</item>
+		<item>
+			<title>❓Jeff DeVere - DeVere Public Affairs</title>
+			<description>Jeff DeVere signed up to testify Other. They are signed up to represent DeVere Public Affairs.</description>
+			<pubDate>Tue, 14 Jan 2025 05:30:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jeff/DeVere/2025-01-14 05:30:01</guid>
+		</item>
+		<item>
+			<title>👍Rob Saka - Seattle City Council D1</title>
+			<description>Rob Saka signed up to testify Pro. They are signed up to represent Seattle City Council D1.</description>
+			<pubDate>Tue, 14 Jan 2025 07:29:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rob/Saka/2025-01-14 07:29:47</guid>
 		</item>
 	</channel>
 </rss>

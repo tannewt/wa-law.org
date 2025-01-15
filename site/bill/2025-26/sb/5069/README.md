@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/14 01:30 PM - State Government & Elections (SGE): SB 5069 Voters' pamphlets
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32427&aId=161275&caId=24601&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32427&aId=161275&caId=24601&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32427&aId=161275&caId=24601&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32427&aId=161275&caId=24601&tId=4)
-
-#### 140 👍 - Pro
+#### 146 👍 - Pro
 Testifying:
 * Heidi Hunt - County Auditors Association/Adams County Auditor
 * 💵Michael Shaw - Washington Association of County Officials (WACO)
@@ -25,7 +19,7 @@ Testifying:
 * 💵Conner Edwards - Professional Campaign Treasurer/CG Edwards PLLC
 * Heidi Hunt - Auditors Association/Adams County Auditor
 
-#### 272 👎 - Con
+#### 275 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Laurie Layne

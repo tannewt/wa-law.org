@@ -19,6 +19,8 @@ Testifying:
 * Rick Johnson - Stevens County Assessor's Office
 * Wes McCart
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* GARY FETTER - GARY FETTER LAND & LIVESTOCK llc.
 
 #### 0 ❓ - Other

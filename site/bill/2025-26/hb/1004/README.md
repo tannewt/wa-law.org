@@ -17,13 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32388&aId=161144&caId=24649&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32388&aId=161144&caId=24649&tId=4)
 
-#### 19 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Michael Moran - Office of Assessments/King County Assessor John Wilson
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * Steven Drew - WA Assoc of Assessors legislative co-chair
 * 💵Jennifer Wallace - WA Association of County Officials
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 1 👎 - Con
 Testifying:

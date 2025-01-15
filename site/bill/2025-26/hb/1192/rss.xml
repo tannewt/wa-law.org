@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1192/</link>
 		<description>Updates about HB 1192</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 11:16:01 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jan 2025 11:37:08 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -24,7 +24,7 @@
 			<guid isPermaLink="false">testifier/Russell/Brown/2025-01-11 05:11:35</guid>
 		</item>
 		<item>
-			<title>👍Jacob Schmitt - Acoustic Sound, non-profit corp</title>
+			<title>👍Jacob Schmitt - National Employment Law Project</title>
 			<description>Jacob Schmitt signed up to testify Pro.</description>
 			<pubDate>Sun, 12 Jan 2025 01:59:15 GMT</pubDate>
 			<category>testifier</category>
@@ -32,7 +32,7 @@
 			<guid isPermaLink="false">testifier/Jacob/Schmitt/2025-01-12 01:59:15</guid>
 		</item>
 		<item>
-			<title>👍Raymond Williams - Acoustic Sound, non-profit corp</title>
+			<title>👍Raymond Williams - National Employment Law Project</title>
 			<description>Raymond Williams signed up to testify Pro.</description>
 			<pubDate>Sun, 12 Jan 2025 01:59:15 GMT</pubDate>
 			<category>testifier</category>
@@ -84,6 +84,38 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Kati/Durkin/2025-01-13 11:16:01</guid>
+		</item>
+		<item>
+			<title>👍Izzy Eads - Just Us Solutions</title>
+			<description>Izzy Eads signed up to testify Pro.</description>
+			<pubDate>Tue, 14 Jan 2025 02:17:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Izzy/Eads/2025-01-14 02:17:44</guid>
+		</item>
+		<item>
+			<title>👍Cindy Arends Elsberry - Washington Defender Association</title>
+			<description>Cindy Arends Elsberry signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_defender_association/"&gt;Washington Defender Association&lt;/a&gt;.</description>
+			<pubDate>Tue, 14 Jan 2025 11:15:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cindy Arends/Elsberry/2025-01-14 11:15:58</guid>
+		</item>
+		<item>
+			<title>👍Percy Levy - Washington Defender Association</title>
+			<description>Percy Levy signed up to testify Pro.</description>
+			<pubDate>Tue, 14 Jan 2025 11:23:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Percy/Levy/2025-01-14 11:23:39</guid>
+		</item>
+		<item>
+			<title>❓Kehaulani Walker - Department of Corrections</title>
+			<description>Kehaulani Walker signed up to testify Other.</description>
+			<pubDate>Tue, 14 Jan 2025 11:37:08 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kehaulani/Walker/2025-01-14 11:37:08</guid>
 		</item>
 	</channel>
 </rss>

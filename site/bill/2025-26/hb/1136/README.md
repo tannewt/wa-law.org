@@ -17,14 +17,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161137&caId=24680&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161137&caId=24680&tId=4)
 
-#### 25 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * Bill Lyne - United Faculty of Washington State
+* Brandon Medina
+* Colleen Hall - Columbia Basin College
+* Isabella Flores - Washington State Board for Community and Technical Colleges
+* Jamie Traugott - Washington's State Board for Community and Technical Colleges
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Minna Long - Washington State Building & Construction Trades Council
 * 💵Jenny Morgan - [Washington School Counselor Association](/org/washington_school_counselor_association/)

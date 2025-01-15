@@ -4,6 +4,10 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ PAULA REED
 
+### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  
+
+### [SB 5105](/bill/2025-26/sb/5105/) - Concerning offenses involving fabricated depictions of minors. 👍1  
+
 ## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ PAULA REED
 

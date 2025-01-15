@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32400&aId=161196&caId=24660&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32400&aId=161196&caId=24660&tId=4)
 
-#### 85 👍 - Pro
+#### 88 👍 - Pro
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Joe Tovar - Washington Chapter of the American Planning Association
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Angela Rozmyn - Natural and Built Environments
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 
 #### 2 ❓ - Other

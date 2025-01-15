@@ -20,7 +20,7 @@
 * [SB 5232](sb/5232) - Firearms/purchase & transfer 7📰 1782👍 4345👎 2❓ - S Ways & Means
 * [HB 1333](hb/1333) - Domestic violent extremism 5📰 253👍 5451👎 12❓ - H Rules X
 * [HB 1389](hb/1389) - Residential rent increases 33📰 3125👍 2455👎 27❓ - H Rules X
-* [SB 5444](sb/5444) - Firearms/certain premises 22📰 2645👍 2865👎 4❓ - C 285 L 24
+* [SB 5444](sb/5444) - Firearms/certain premises 23📰 2645👍 2865👎 4❓ - C 285 L 24
 * [SB 5241](sb/5241) - Health care marketplace 28📰 3903👍 1435👎 6❓ - S Rules 3
 * [HB 1181](hb/1181) - Climate change/planning 26📰 4665👍 601👎 16❓ - C 228 L 23
 * [SB 5768](sb/5768) - DOC/abortion medications 20📰 1440👍 3668👎 7❓ - C 195 L 23
@@ -43,7 +43,7 @@
 * [HB 1388](hb/1388) - Residential rent practices 22📰 1784👍 1560👎 23❓ - H Approps
 * [HB 1131](hb/1131) - Solid waste management 6📰 3225👍 100👎 40❓ - H Rules X
 * [ESJM 8006](esjm/8006) - Universal health care 2📰 1066👍 2278👎 1❓ - S Rules 3
-* [SB 5961](sb/5961) - Residential tenants 14📰 2421👍 833👎 11❓ - S Housing
+* [SB 5961](sb/5961) - Residential tenants 15📰 2421👍 833👎 11❓ - S Housing
 * [HB 1178](hb/1178) - Firearms/local government 5📰 890👍 2341👎 5❓ - H Civil R & Judi
 * [HB 1368](hb/1368) - Zero emission school buses 22📰 1789👍 1408👎 14❓ - C 345 L 24
 * [SB 6196](sb/6196) - Basic income pilot program 5📰 1441👍 1689👎 3❓ - S Human Services

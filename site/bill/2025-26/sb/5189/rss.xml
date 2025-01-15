@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5189/</link>
 		<description>Updates about SB 5189</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 18:56:21 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 15 Jan 2025 07:37:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2025-01-08/Prefiled for introduction.</guid>
 		</item>
 		<item>
-			<title>👎Sarah Garriott - Washington State Board of Education</title>
+			<title>👎Sarah Garriott - Washington State Board for Community and Technical Colleges</title>
 			<description>Sarah Garriott signed up to testify Con.</description>
 			<pubDate>Sat, 11 Jan 2025 01:05:56 GMT</pubDate>
 			<category>testifier</category>
@@ -67,6 +67,38 @@
 			<pubDate>Mon, 13 Jan 2025 18:56:21 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205189</guid>
+		</item>
+		<item>
+			<title>👎Maxine Herbert Hill - SR162 Community Group</title>
+			<description>Maxine Herbert Hill signed up to testify Con. They are signed up to represent SR162 Community Group.</description>
+			<pubDate>Tue, 14 Jan 2025 10:36:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Maxine/Herbert Hill/2025-01-14 10:36:22</guid>
+		</item>
+		<item>
+			<title>👎Jennifer Heine-Withee - SR162 Community Group</title>
+			<description>Jennifer Heine-Withee signed up to testify Con.</description>
+			<pubDate>Tue, 14 Jan 2025 10:48:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jennifer/Heine-Withee/2025-01-14 10:48:26</guid>
+		</item>
+		<item>
+			<title>👍Troy Goracke - Washington State Board for Community and Technical Colleges</title>
+			<description>Troy Goracke signed up to testify Pro. They are signed up to represent Washington State Board for Community and Technical Colleges.</description>
+			<pubDate>Wed, 15 Jan 2025 07:24:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Troy/Goracke/2025-01-15 07:24:36</guid>
+		</item>
+		<item>
+			<title>❓Becky Wallace - Office of Superintendent of Public Instruction</title>
+			<description>Becky Wallace signed up to testify Other. They are signed up to represent Office of Superintendent of Public Instruction.</description>
+			<pubDate>Wed, 15 Jan 2025 07:37:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Becky/Wallace/2025-01-15 07:37:23</guid>
 		</item>
 	</channel>
 </rss>

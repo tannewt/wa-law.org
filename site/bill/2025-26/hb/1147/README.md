@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - State Government & Tribal Relations (SGOV): HB 1147 Civic engage./state custody
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161097&caId=24686&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161097&caId=24686&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161097&caId=24686&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32373&aId=161097&caId=24686&tId=4)
-
-#### 453 👍 - Pro
+#### 566 👍 - Pro
 Testifying:
 * Amani Sawari
 * Rachael Ann Snell
@@ -24,15 +18,23 @@ Testifying:
 * Raymond Williams - Just Us Solutions
 * Arthur Longworth - TeamChild
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
+* Derek Jones
+* 💵Kristin Ang - Faith Action Network (FAN)
+* Jordan Landry
+* Tom Sahlberg
 
-#### 388 👎 - Con
+#### 486 👎 - Con
 Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Mary Long - Conservative Ladies of Washington
+* 💵Anne Anderson
 
-#### 5 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Danielle Armbruster - Department of Corrections
 * Kellett Sayre - Department of Corrections
 * Sean Murphy - Department of Corrections
+* Bryan Glant
+* Rudy Madrigal
 * Kevin Bovenkamp - DSHS Behavioral Health Administration
+* James McMahan - WA Assoc Sheriffs & Police Chiefs

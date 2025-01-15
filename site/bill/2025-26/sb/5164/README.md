@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161333&caId=24573&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161333&caId=24573&tId=4)
 
-#### 34 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * Melissa Beard - Council of Presidents
@@ -26,10 +26,11 @@ Testifying:
 * Quinn Fetty
 * Jamie Traugott - State Board for Community & Technical Colleges
 * Alyson Ritter - Olympic College
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 
-#### 1 👎 - Con
+#### 189 👎 - Con
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
 * 💵Catherine Holm - [Washington School Counselor Association](/org/washington_school_counselor_association/)

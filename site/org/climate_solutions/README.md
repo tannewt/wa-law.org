@@ -1,6 +1,10 @@
 # Climate Solutions
 ## 2025-26
 
+### [HB 1015](/bill/2025-26/hb/1015/) - Concerning energy labeling of residential buildings. 👍1  
+
+### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act. 👍1  
+
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 * 👍💵 Leah Missik
 

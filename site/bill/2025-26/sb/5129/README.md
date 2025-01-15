@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Housing (HSG): SB 5129 Common interest communities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32376&aId=161114&caId=24575&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32376&aId=161114&caId=24575&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32376&aId=161114&caId=24575&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32376&aId=161114&caId=24575&tId=4)
-
-#### 12 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Steve Horvath - HOA United
 * Joe Kunzler
 * Theresa Torgesen - Community Associations Institute
 * John Kresge
+* 💵Bill Clarke - WA REALTORS
 
 #### 0 👎 - Con
 

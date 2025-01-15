@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 01/14 04:00 PM - Transportation (TRAN): SB 5161 Transportation budget
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32350&aId=161267&caId=24604&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32350&aId=161267&caId=24604&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32350&aId=161267&caId=24604&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32350&aId=161267&caId=24604&tId=4)
-
 #### 7 👍 - Pro
 Testifying:
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
@@ -22,12 +16,12 @@ Testifying:
 * Jared Nieuwenhuis - City of Bellevue, Council
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 14 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * JOHN WORTHINGTON
 
-#### 13 ❓ - Other
+#### 15 ❓ - Other
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Nancy Backus - Mayor, City of Auburn
@@ -42,3 +36,5 @@ Testifying:
 * Breck Lebegue - WA Physicians for Social Responsibility
 * 💵Mara Machulsky - [Hoh Tribe](/org/hoh_tribe/)
 * 💵Peggen Frank - [Hoh Tribe](/org/hoh_tribe/)
+* Joe Kunzler
+* Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)

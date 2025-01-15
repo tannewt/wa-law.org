@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161084&caId=24572&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161084&caId=24572&tId=4)
 
-#### 11 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Krista Francis - Peninsula College
 * Maya Esquivido - WA State Board for Community and Technical Colleges
 
-#### 1 👎 - Con
+#### 185 👎 - Con
 
 #### 0 ❓ - Other

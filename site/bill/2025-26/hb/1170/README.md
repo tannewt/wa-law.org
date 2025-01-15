@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32393&aId=161156&caId=24693&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32393&aId=161156&caId=24693&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Jai Jaisimha - Transparency Coalition.ai
+* Tom Kemp
 
-#### 2 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Robert Singleton - Chamber of Progress
+* John Coleman - Foundation for Individual Rights and Expression
+* 💵Kelly Fukai - WATECH
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Rose Feliciano - TECHNET
 
 #### 0 ❓ - Other

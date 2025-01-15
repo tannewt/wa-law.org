@@ -11,14 +11,14 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5003 School security grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161301&caId=24567&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161301&caId=24567&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161301&caId=24567&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161301&caId=24567&tId=4)
+#### 484 👍 - Pro
+Testifying:
+* Tyler Muench - Office of Superintendent of Public Instruction
+* Loni Simone
+* Leslie Williams - Conservative Ladies of WA
 
-#### 454 👍 - Pro
+#### 239 👎 - Con
+Testifying:
+* Asenith M Herbert Hill
 
-#### 150 👎 - Con
-
-#### 5 ❓ - Other
+#### 8 ❓ - Other

@@ -17,10 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32356&aId=161164&caId=24591&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32356&aId=161164&caId=24591&tId=4)
 
-#### 4 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Laura Harmon
+* Noel Gomez - Washington against sexual exploitation (WASE Forward)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
 #### 0 ❓ - Other

@@ -8,24 +8,22 @@
 
 ## Meetings
 ### Tue 01/14 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1192 Concerning disciplinary hearings held by the department of corrections. (Remote Testimony Available). (If measure is referred to committee.)
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161312&caId=24636&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161312&caId=24636&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161312&caId=24636&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32366&aId=161312&caId=24636&tId=4)
-
-#### 25 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Jacob Schmitt
 * Raymond Williams
 * Jacob Schmitt - Just Us Solutions
 * Izzy Eads
+* Izzy Eads
+* Cindy Arends Elsberry - [Washington Defender Association](/org/washington_defender_association/)
+* Percy Levy
 
 #### 4 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Mac Pevey - Department of Corrections
+* Kehaulani Walker

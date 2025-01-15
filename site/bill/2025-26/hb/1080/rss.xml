@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1080/</link>
 		<description>Updates about HB 1080</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 14 Jan 2025 09:46:25 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jan 2025 09:55:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -43,6 +43,14 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Brent/Ludeman/2025-01-14 09:46:25</guid>
+		</item>
+		<item>
+			<title>👎💵Julia Gorton - Washington Hospitality Association</title>
+			<description>Julia Gorton signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_hospitality_association/"&gt;Washington Hospitality Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 14 Jan 2025 09:55:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Julia/Gorton/2025-01-14 09:55:20</guid>
 		</item>
 	</channel>
 </rss>

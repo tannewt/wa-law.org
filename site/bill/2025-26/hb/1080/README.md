@@ -11,15 +11,11 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Consumer Protection & Business (CPB): HB 1080 Lodging fee disclosure
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32417&aId=161236&caId=24641&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32417&aId=161236&caId=24641&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32417&aId=161236&caId=24641&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32417&aId=161236&caId=24641&tId=4)
+#### 1 👍 - Pro
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 1 ❓ - Other
 Testifying:

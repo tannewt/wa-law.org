@@ -1,13 +1,16 @@
 # Association of Washington School Principals
 ## 2025-26
 
-## [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Casey Brown
+
+### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
+
+## [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 
 ## 2023-24
 
-### [HB 1198](/bill/2023-24/hb/1198/) - Operating budget   ❓1
-* ❓💵 Casey Brown
+### [SB 5210](/bill/2023-24/sb/5210/) - Ninth grade success grants 👍1  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
 

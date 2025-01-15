@@ -12,17 +12,25 @@
 
 ## Meetings
 ### Wed 01/15 08:00 AM - Labor & Workplace Standards (LAWS): HB 1128 Child care workforce board
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161167&caId=24661&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161167&caId=24661&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161167&caId=24661&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161167&caId=24661&tId=4)
+#### 114 👍 - Pro
+Testifying:
+* Maya Washington - MomsRising
+* Heather Kinney - former lead teacher, Cadence Academy
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* Mara Cartner - child care teacher, Small Faces
+* David Madland - Center for American Progress
+* Diana Llanes - Owner, Once Upon a Time Bilingual Child Care Center
+* Maya Washington - MomsRising
+* Heather Kinney
 
-#### 50 👍 - Pro
-
-#### 167 👎 - Con
+#### 301 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* Loni Simone
+* Asenith M Herbert Hill
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Sage Schaftel - Early Care & Education Consortium
+* 💵David Foster - KinderCare

@@ -1,7 +1,13 @@
 # The Northwest Seaport Alliance
 ## 2025-26
 
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
+* ❓ John Wolfe
+
 ### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget   ❓1
+* ❓ Sean Eagan
+
+### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1
 * ❓ Sean Eagan
 
 ### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍1  

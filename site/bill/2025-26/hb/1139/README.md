@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/14/2025 [The Center Square](/org/the_center_square/) - [Bill would toughen penalties for unlawful firearm possession | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_32ffc044-d2c8-11ef-8adc-4758397a78de.html#:~:text=House%20Bill%201139)
+
 ## Meetings

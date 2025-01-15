@@ -8,15 +8,10 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Health Care & Wellness (HCW): HB 1009 Pharmacy commission members
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32347&aId=161183&caId=24651&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32347&aId=161183&caId=24651&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32347&aId=161183&caId=24651&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32347&aId=161183&caId=24651&tId=4)
-
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Rick Hughes - Ray's Pharmacy, Orcas Island
+* 💵Dedi Little - Washington State Pharmacy Association
 
 #### 0 👎 - Con
 

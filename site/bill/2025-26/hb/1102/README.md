@@ -11,17 +11,13 @@
 
 ## Meetings
 ### Wed 01/15 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1102 Veteran support and services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32392&aId=161153&caId=24690&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32392&aId=161153&caId=24690&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32392&aId=161153&caId=24690&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32392&aId=161153&caId=24690&tId=4)
-
-#### 6 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Jerry Phillips - Pacific Transit- Veterans Medical Transportation
 * Jerry Fugich - Veterans Legislative Coalition
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jr., David Puente - Director, WA State Department of Veterans Affairs

@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Wed 01/15 08:00 AM - Labor & Workplace Standards (LAWS): HB 1184 Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. (Remote Testimony Available). (If measure is referred to committee.)
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161262&caId=24666&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161262&caId=24666&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161262&caId=24666&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161262&caId=24666&tId=4)
-
-#### 181 👍 - Pro
+#### 230 👍 - Pro
 Testifying:
 * Christopher Christian
 * 💵Patrick Connor - NFIB
@@ -31,9 +25,18 @@ Testifying:
 * 💵Lindsey Hueer - Association of Washington Business / Government Affairs Director
 * Steph Rees - Burlington Chamber of Commerce
 * Janet Kenefsky - Greater Vancouver Chamber of Commerce
+* Danny DeFranco
+* Loni Simone
+* Linnea Noreen - LC Valley Chamber of Commerce
+* John Blair - Dunham Cellars
+* 💵Mary Fischer - [Institute for Family Development](/org/institute_for_family_development/)
 
-#### 46 👎 - Con
+#### 62 👎 - Con
 Testifying:
 * Mark Demaray - Acoustic Sound, non-profit corp
+* Samantha Sanders - Economic Policy Institute
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* Omar Cuevas Vega - Office and Professional Employees Internatinal Union, Local 8
+* Daniel Ocampo - National Employment Law Project
 
 #### 0 ❓ - Other

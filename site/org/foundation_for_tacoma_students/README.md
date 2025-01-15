@@ -4,13 +4,14 @@
 ### [HB 1136](/bill/2025-26/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment. 👍1  
 * 👍 Ben Mitchell
 
-## [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
+### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
 * 👍 Ben Mitchell
+
+## [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 
 ## 2023-24
 
-### [SB 5164](/bill/2023-24/sb/5164/) - Student navigational support 👍1  
-* 👍 Ben Mitchell
+### [SB 5210](/bill/2023-24/sb/5210/) - Ninth grade success grants 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

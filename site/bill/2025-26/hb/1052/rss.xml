@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1052/</link>
 		<description>Updates about HB 1052</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 01:44:38 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jan 2025 12:17:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -60,6 +60,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Sharon/Damoff/2025-01-13 01:44:38</guid>
+		</item>
+		<item>
+			<title>'Bias' can be factor in proposed Washington hate crime bill</title>
+			<description>News article "'Bias' can be factor in proposed Washington hate crime bill" from MyNorthwest.</description>
+			<pubDate>Mon, 13 Jan 2025 23:36:03 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/mynorthwest-politics/perception-and-bias-can-be-factors-in-proposed-state-hate-crime-bill/4028286#:~:text=HB%201052</guid>
+		</item>
+		<item>
+			<title>Washington bill would broaden definition of ‘hate crime’ under existing law | Washington | thecentersquare.com</title>
+			<description>News article "Washington bill would broaden definition of ‘hate crime’ under existing law | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Tue, 14 Jan 2025 12:17:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_fdba083e-d297-11ef-b60e-47a8dd3b96b4.html#:~:text=House%20Bill%201052</guid>
 		</item>
 	</channel>
 </rss>

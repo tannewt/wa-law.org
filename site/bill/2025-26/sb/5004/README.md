@@ -11,16 +11,14 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5004 School emergency response
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161302&caId=24568&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161302&caId=24568&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161302&caId=24568&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32382&aId=161302&caId=24568&tId=4)
-
-#### 459 👍 - Pro
+#### 484 👍 - Pro
 Testifying:
 * Lori Alhadeff - Make Our Schools Safe
+* Sara Cordova - Yakima School District 7
+* Leslie Williams - Conservative Ladies of WA
 
-#### 142 👎 - Con
+#### 233 👎 - Con
+Testifying:
+* Asenith M Herbert Hill
 
 #### 0 ❓ - Other

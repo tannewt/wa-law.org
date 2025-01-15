@@ -17,7 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32397&aId=161176&caId=24670&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32397&aId=161176&caId=24670&tId=4)
 
-#### 11 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Doug Palmer - Washington State Association for Justice
 
 #### 3 👎 - Con
 Testifying:

@@ -14,21 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32354&aId=161597&caId=24720&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32354&aId=161597&caId=24720&tId=4)
 
-#### 32 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
+* Nora Hawkins - Washington State Department of Commerce, Energy Office
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 
-#### 1 👎 - Con
+#### 59 👎 - Con
 
 #### 0 ❓ - Other
 
 ### Wed 01/15 08:00 AM - Environment, Energy & Technology (ENET): SB 5175 Photovoltaic modules
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32353&aId=161383&caId=24694&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32353&aId=161383&caId=24694&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32353&aId=161383&caId=24694&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32353&aId=161383&caId=24694&tId=4)
-
 #### 4 👍 - Pro
 
 #### 53 👎 - Con

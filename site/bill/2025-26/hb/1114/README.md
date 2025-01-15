@@ -8,19 +8,16 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1114 Respiratory care compact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32385&aId=161129&caId=24677&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32385&aId=161129&caId=24677&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32385&aId=161129&caId=24677&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32385&aId=161129&caId=24677&tId=4)
-
-#### 5 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Emily Wittman - AWB
 * Elizabeth New - Washington Policy Center
 * Miriam O'Day - American Association for Respiratory Care
 * Tammie Perreault - Department of Defense
 * John Moyer - MultiCare Health System
+* Gary Wickman - Respiratory Care Society of Washington, RCSW
+* Brian Newberry - Forward Fairchild
+* Carl Hinkson - [Respiratory Care Society of Washington](/org/respiratory_care_society_of_washington/)
 
 #### 0 👎 - Con
 

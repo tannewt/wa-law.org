@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32418&aId=161239&caId=24644&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32418&aId=161239&caId=24644&tId=4)
 
-#### 7 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Bea Nahon
 * David Forte - Office of the Insurance Commissioner

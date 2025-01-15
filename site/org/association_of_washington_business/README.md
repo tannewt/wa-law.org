@@ -11,8 +11,13 @@
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers  👎1 
 * 👎💵 Lindsey Hueer
 
+### [HB 1080](/bill/2025-26/hb/1080/) - Lodging fee disclosure  👎1 
+
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 * 👍💵 Morgan Irwin
+
+### [HB 1103](/bill/2025-26/hb/1103/) - Expanding protections against unwanted telephone calls and text messages for cellular users.   ❓1
+* ❓💵 Morgan Irwin
 
 ### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍2  
 * 👍💵 Morgan Irwin
@@ -20,8 +25,16 @@
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎1 
 * 👎💵 Lindsey Hueer
 
+### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers  👎1 
+
 ### [HB 1155](/bill/2025-26/hb/1155/) - Noncompetition agreements  👎1 
 * 👎💵 Lindsey Hueer
+
+### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info  👎1 
+* 👎💵 Morgan Irwin
+
+### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎1 
+* 👎💵 Morgan Irwin
 
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages  👎1 
 * 👎💵 Lindsey Hueer
@@ -33,13 +46,14 @@
 
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 
-## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
+### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎 Max Martin
+
+## [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  
 
 ## 2023-24
 
-### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp.  👎1 
-* 👎 Max Martin
+### [SB 5193](/bill/2023-24/sb/5193/) - Remote testing 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

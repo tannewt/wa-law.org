@@ -3,6 +3,8 @@
 
 ### [HB 1037](/bill/2025-26/hb/1037/) - PFD formation 👍1  
 
+### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
+
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓1
 * ❓💵 Carl Schroeder
 
@@ -10,6 +12,9 @@
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Candice Bock
+
+### [HB 1218](/bill/2025-26/hb/1218/) - Concerning persons referred for competency evaluation and restoration services.  👎1 
+* 👎💵 Candice Bock
 
 ### [SB 5053](/bill/2025-26/sb/5053/) - PFD formation 👍1  
 

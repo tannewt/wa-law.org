@@ -29,6 +29,6 @@ Testifying:
 
 #### 4 ❓ - Other
 Testifying:
-* Maureen McCarthy - Whatcom Transportation Authority
+* Maureen McCarthy - [Whatcom Transportation Authority](/org/whatcom_transportation_authority/)
 * Chelsea Ongaro - Community Transit
 * Sanjay Bhatt - [Kitsap Transit](/org/kitsap_transit/)

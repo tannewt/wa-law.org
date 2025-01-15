@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=4)
 
-#### 24 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Lisa Yohalem - HealthPoint
 * 💵Erica Hallock - Start Early WA
@@ -40,8 +40,11 @@ Testifying:
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Patience M Malaba - HDC
 * Kathleen Hosfeld - [Homestead Community Land Trust](/org/homestead_community_land_trust/)
+* 💵Connor Haggerty - Washington State University
+* Ryan Nickels - West Sound Technical Skills Center
+* Jason Berry - [Junior Achievement of Washington](/org/junior_achievement_of_washington/)
 
-#### 7 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Brian Shay - [City of Hoquiam](/org/city_of_hoquiam/)
 * Darrin Raines - Greater Grays Harbor, Inc.
@@ -49,7 +52,7 @@ Testifying:
 * Vickie Raines - Grays Harbor County
 * JOHN WORTHINGTON
 
-#### 19 ❓ - Other
+#### 28 ❓ - Other
 Testifying:
 * Kathryn Gardow - Chair, Public Works Board
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
@@ -69,4 +72,13 @@ Testifying:
 * DAVID DEMARCO - EVERETT FIRE DEPARTMENT
 * Jesse Simpson - Housing Development Consortium
 * 💵Nora Selander - Western Washington University
+* 💵John Seng - [Spark Northwest](/org/spark_northwest/)
+* Shaylee Stokes - The Energy Project
+* Daniel Hoult - Outdoor Discovery Project
+* Joe Kane - Nisqually Community Forest
+* Monica Montgomery - Great Peninsula Conservancy
+* Vanessa Kritzer - [Washington Association of Land Trusts](/org/washington_association_of_land_trusts/)
+* David Buri - Eastern Washington University
 * 💵Axel Swanson - Washington State Association of County Engineers
+* John Wolfe - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
+* 💵Kristin Ang - The Port of Tacoma

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1108/</link>
 		<description>Updates about HB 1108</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 14 Jan 2025 08:52:59 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jan 2025 12:53:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -84,6 +84,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Morgan/Irwin/2025-01-14 08:52:59</guid>
+		</item>
+		<item>
+			<title>👍MARY HULL-DRURY - Washington Realtors</title>
+			<description>MARY HULL-DRURY signed up to testify Pro. They are signed up to represent Washington Realtors.</description>
+			<pubDate>Tue, 14 Jan 2025 12:53:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/MARY/HULL-DRURY/2025-01-14 12:53:37</guid>
 		</item>
 	</channel>
 </rss>

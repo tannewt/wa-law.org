@@ -20,6 +20,6 @@ Testifying:
 * Dan Watson - [King County Housing Authority](/org/king_county_housing_authority/)
 * Tim Walter - [King County Housing Authority](/org/king_county_housing_authority/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

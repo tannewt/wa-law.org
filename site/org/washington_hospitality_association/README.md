@@ -1,11 +1,18 @@
 # Washington Hospitality Association
 ## 2025-26
 
-### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎1 
+### [HB 1080](/bill/2025-26/hb/1080/) - Lodging fee disclosure  👎1 
+* 👎💵 Julia Gorton
+
+### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎2 
+
+### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers  👎1 
 
 ### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info  👎1 
 
 ### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎1 
+
+### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍2  
 
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎2 
 * 👎💵 Julia Gorton

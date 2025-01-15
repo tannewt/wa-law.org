@@ -17,11 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32393&aId=161155&caId=24692&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32393&aId=161155&caId=24692&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Jai Jaisimha - Transparency Coalition.ai
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* 💵Kelly Fukai - WATECH
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Rose Feliciano - TECHNET
+* 💵Kelly Fukai - WATECH
 
 #### 2 ❓ - Other
 Testifying:

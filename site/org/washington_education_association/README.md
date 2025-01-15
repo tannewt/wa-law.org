@@ -4,8 +4,9 @@
 ### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍1  
 * 👍💵 Simone Boe
 
-### [HB 1035](/bill/2025-26/hb/1035/) - Higher ed. traumatic stress 👍1  
+### [HB 1035](/bill/2025-26/hb/1035/) - Higher ed. traumatic stress 👍2  
 * 👍💵 Simone Boe
+* 👍💵 Sue Nightingale
 
 ### [HB 1036](/bill/2025-26/hb/1036/) - Labor trustees/colleges 👍2  
 * 👍💵 Simone Boe
@@ -16,6 +17,9 @@
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board. 👍1  
 
+### [HB 1136](/bill/2025-26/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment. 👍1  
+* 👍💵 Simone Boe
+
 ### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
 
 ### [HB 1161](/bill/2025-26/hb/1161/) - Veteran employability 👍1  
@@ -25,6 +29,8 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
+### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
+
 ### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍1  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
@@ -32,17 +38,26 @@
 ### [SB 5134](/bill/2025-26/sb/5134/) - Chinese Americans/schools   ❓1
 * ❓💵 Nasue Nishida
 
+### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
+* 👍💵 Simone Boe
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎💵 Janie White
 
 ### [SB 5186](/bill/2025-26/sb/5186/) - School district elections   ❓1
 * ❓💵 Simone Boe
 
-## [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍1  
+
+### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  
+
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+
+## [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 
 ## 2023-24
 
-### [SB 5195](/bill/2023-24/sb/5195/) - Capital budget 👍1  
+### [SB 5210](/bill/2023-24/sb/5210/) - Ninth grade success grants 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 

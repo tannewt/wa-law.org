@@ -11,14 +11,24 @@
 
 ## Meetings
 ### Wed 01/15 08:00 AM - Labor & Workplace Standards (LAWS): HB 1141 Ag. cannabis workers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161168&caId=24662&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161168&caId=24662&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161168&caId=24662&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32396&aId=161168&caId=24662&tId=4)
+#### 193 👍 - Pro
+Testifying:
+* Mike Asai - Black Excellence In Cannabis
+* Peter Manning - Black Excellence In Cannabis
+* Libby Rindal
+* Mike Asai - Black Excellence in Cannabis
+* Nate Howell
+* 💵Dustin Lambro - UFCW 3000
+* Jess Combs
+* Morgan Combs
 
-#### 24 👍 - Pro
+#### 194 👎 - Con
+Testifying:
+* 💵Ezra Eickmeyer
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* 💵Michael Gempler - [Washington Growers League](/org/washington_growers_league/)
+* 💵Scott Dilley - WAFLA
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* John Kingsbury

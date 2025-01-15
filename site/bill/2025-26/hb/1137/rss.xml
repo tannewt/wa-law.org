@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1137/</link>
 		<description>Updates about HB 1137</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 15:52:31 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jan 2025 11:37:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -115,6 +115,30 @@
 			<pubDate>Mon, 13 Jan 2025 15:52:31 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201137</guid>
+		</item>
+		<item>
+			<title>❓💵Brenda Wiest - Teamsters 117</title>
+			<description>Brenda Wiest signed up to testify Other. They are signed up to represent Teamsters 117. They are a registered lobbyist.</description>
+			<pubDate>Tue, 14 Jan 2025 01:20:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Brenda/Wiest/2025-01-14 01:20:50</guid>
+		</item>
+		<item>
+			<title>👍Cindy Elsberry - Washington Defender Association</title>
+			<description>Cindy Elsberry signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_defender_association/"&gt;Washington Defender Association&lt;/a&gt;.</description>
+			<pubDate>Tue, 14 Jan 2025 11:15:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cindy/Elsberry/2025-01-14 11:15:24</guid>
+		</item>
+		<item>
+			<title>❓Kehaulani Walker - Teamsters 117</title>
+			<description>Kehaulani Walker signed up to testify Other.</description>
+			<pubDate>Tue, 14 Jan 2025 11:37:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kehaulani/Walker/2025-01-14 11:37:39</guid>
 		</item>
 	</channel>
 </rss>

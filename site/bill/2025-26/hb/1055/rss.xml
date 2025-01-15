@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1055/</link>
 		<description>Updates about HB 1055</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 14 Jan 2025 11:56:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -76,6 +76,38 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>👎Ellen Hiatt - Washington Newspaper Publishers Association</title>
+			<description>Ellen Hiatt signed up to testify Con. They are signed up to represent Washington Newspaper Publishers Association.</description>
+			<pubDate>Tue, 14 Jan 2025 03:10:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ellen/Hiatt/2025-01-14 03:10:26</guid>
+		</item>
+		<item>
+			<title>❓💵Rowland Thompson - Myself</title>
+			<description>Rowland Thompson signed up to testify Other. They are signed up to represent Myself. They are a registered lobbyist.</description>
+			<pubDate>Tue, 14 Jan 2025 06:24:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Rowland/Thompson/2025-01-14 06:24:04</guid>
+		</item>
+		<item>
+			<title>👎Asenith M Herbert Hill - Washington Newspaper Publishers Association</title>
+			<description>Asenith M Herbert Hill signed up to testify Con.</description>
+			<pubDate>Tue, 14 Jan 2025 10:30:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Asenith M/Herbert Hill/2025-01-14 10:30:28</guid>
+		</item>
+		<item>
+			<title>👎Arthur West - Washington Newspaper Publishers Association</title>
+			<description>Arthur West signed up to testify Con.</description>
+			<pubDate>Tue, 14 Jan 2025 11:56:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Arthur/West/2025-01-14 11:56:20</guid>
 		</item>
 	</channel>
 </rss>
