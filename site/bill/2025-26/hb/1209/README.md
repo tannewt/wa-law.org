@@ -17,9 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32418&aId=161397&caId=24709&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32418&aId=161397&caId=24709&tId=4)
 
-#### 37 👍 - Pro
+#### 39 👍 - Pro
+Testifying:
+* Carrie Goldberg - C.A. Goldberg, PLLC
+* Naomi Leeds - C.A.Goldberg, PLLC
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

@@ -66,8 +66,9 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎💵 Janie White
 
-### [SB 5186](/bill/2025-26/sb/5186/) - School district elections   ❓1
+### [SB 5186](/bill/2025-26/sb/5186/) - School district elections   ❓2
 * ❓💵 Simone Boe
+* ❓💵 Julie Salvi
 
 ### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍2  
 * 👍💵 Nasue Nishida

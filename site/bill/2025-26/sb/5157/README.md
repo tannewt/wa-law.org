@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32407&aId=161410&caId=24717&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32407&aId=161410&caId=24717&tId=4)
 
-#### 2 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)
 * 💵Alexei Calambokidis - [Trout Unlimited](/org/trout_unlimited/)
+* Jessica Helsley - [Wild Salmon Center](/org/wild_salmon_center/)
+* Brock Milliern - Recreation and Conservation Office
 
 #### 1 👎 - Con
 

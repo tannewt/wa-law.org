@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Thu 01/16 08:00 AM - Environment & Energy (ENVI): HB 1071 Recycling rates
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32361&aId=161400&caId=24711&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32361&aId=161400&caId=24711&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32361&aId=161400&caId=24711&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32361&aId=161400&caId=24711&tId=4)
-
-#### 66 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Autumn Dietrich - Consolidated Disposal Service, Inc.
@@ -29,9 +23,10 @@ Testifying:
 * Wendy Weiker - [Republic Services](/org/republic_services/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Lyset Cadena - WM (Waste Management)
+* 💵Erin Raden - [Consumer Brands Association](/org/consumer_brands_association/)
 * 💵Jay Balasbas - Basin Disposal
 
-#### 51 👎 - Con
+#### 58 👎 - Con
 Testifying:
 * 💵Andrew Hackman - AMERIPEN
 * Scott DeFife - Glass Packaging Institute
@@ -40,10 +35,11 @@ Testifying:
 * Maggie Yuse - Seattle Public Utilities
 * Allison Kustic - Association of Plastic Recyclers (APR)
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Michael Connors - [Washington Potato & Onion Association](/org/washington_potato_&_onion_association/)
 * Dylan de Thomas - Coalition of High Performance Recycling (CHPR)
 * 💵Brandon Houskeeper
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

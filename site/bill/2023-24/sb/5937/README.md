@@ -34,7 +34,7 @@ Testifying:
 #### 26 👍 - Pro
 Testifying:
 * Kate Krug - King County Sexual Assault Resource Center
-* Riddhi Mukhopadhyay - Sexual Violence Law Center
+* Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Em Stone - WA State Coalition Against Domestic Violence
 * 💵Leah Griffin - Sexual Assault Forensic Examination Best Practices Working Group, Representative of Survivors
 
@@ -46,7 +46,7 @@ Testifying:
 #### 12 👍 - Pro
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
-* Riddhi Mukhopadhyay - Sexual Violence Law Center
+* Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * 💵Laurel Redden - King County Sexual Assault Resource Center
 
 #### 1 👎 - Con
@@ -66,7 +66,7 @@ Testifying:
 * Emi Koyama - Coalition for Rights & Safety for People in the Sex Trade
 * 💵Laurel Redden - King County Sexual Assault Resource Center
 * Em Stone - WA State Coalition Against Domestic Violence
-* Riddhi Mukhopadhyay - Sexual Violence Law Center
+* Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 
 #### 6 👎 - Con
 

@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32377&aId=161402&caId=24710&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32377&aId=161402&caId=24710&tId=4)
 
-#### 21 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Stephen Smith - Center for Building in North America
+* Markus Johnson
 
 #### 1 👎 - Con
 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2025 [House Democrats](/org/house_democrats/) - [Rep. Liz Berry Announces Legislative Priorities for 2025 Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/16/rep-liz-berry-announces-legislative-priorities-for-2025-session/#:~:text=HB%201163)
 * 01/14/2025 [MyNorthwest](/org/mynorthwest/) - [Pimps take over Seattle, but Washington Dems take away our guns](https://mynorthwest.com/ktth/ktth-opinion/rantz-will-dangerous-pimps-taking-over-seattle-follow-washington-democrats-gun-laws/4028108#:~:text=House%20Bill%201163)
 
 ## Meetings
@@ -19,7 +20,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 11 👎 - Con
+#### 326 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Jane Milhans

@@ -16,9 +16,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 10 👎 - Con
+#### 304 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Jane Milhans
+* Patrick Lewis
 
 #### 0 ❓ - Other

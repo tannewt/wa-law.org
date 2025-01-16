@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161613&caId=24831&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161613&caId=24831&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Vitaliy Kertchen - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 
-#### 4 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 

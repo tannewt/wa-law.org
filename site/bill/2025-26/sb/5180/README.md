@@ -20,9 +20,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 240 👎 - Con
+#### 342 👎 - Con
 Testifying:
 * Gabriel Jacobs
 * Sharon Damoff
+* Jennifer Heine-Withee
 
 #### 0 ❓ - Other

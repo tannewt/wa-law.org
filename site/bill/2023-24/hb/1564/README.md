@@ -35,7 +35,7 @@ Testifying:
 * 💵Ian Goodhew - UW Medicine-Harborview
 * 💵Leah Griffin - Sexual Assault Forensic Examination Best Practices Working Group, Representative of Survivors
 * Jon Tunheim - Thurston County Prosecutor/WA Assoc of Prosecuting Attorneys
-* Riddhi Mukhopadhyay - Sexual Violence Law Center
+* Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Quinn Dalan - Washington State Women’s Commission
 * Heidi Anderson - WA State Attorney General's Office
 * 💵Alex Davidson - The Associated Students of the University of Washington
@@ -69,7 +69,7 @@ Testifying:
 * Shannon Bailie - UW LiveWell
 * 💵Melissa Johnson - Washington State Nurses Association
 * Representative Orwall
-* Riddhi Mukhopadhyay - Sexual Violence Law Center
+* Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 
 #### 90 👎 - Con
 Testifying:

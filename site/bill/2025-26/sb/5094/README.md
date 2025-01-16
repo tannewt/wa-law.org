@@ -14,17 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32356&aId=161051&caId=24589&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32356&aId=161051&caId=24589&tId=4)
 
-#### 70 👍 - Pro
+#### 138 👍 - Pro
 Testifying:
 * Laura Harmon
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Paula Sardinas - WBBA (WA Build Black Alliance)
 
-#### 184 👎 - Con
+#### 189 👎 - Con
 Testifying:
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Joanne Smieja - WA Voices
 * Lisa Trifiletti
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Rose Feliciano - TechNet
+* emi koyama - Coalition for Rights & Safety

@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161137&caId=24680&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161137&caId=24680&tId=4)
 
-#### 45 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * Bill Lyne - United Faculty of Washington State
@@ -31,7 +31,7 @@ Testifying:
 * Myle Tang - Stand for Children Washington
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
 
-#### 113 👎 - Con
+#### 185 👎 - Con
 
 #### 7 ❓ - Other
 Testifying:

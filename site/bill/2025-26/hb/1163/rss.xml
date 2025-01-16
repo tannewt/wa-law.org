@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1163/</link>
 		<description>Updates about HB 1163</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 15 Jan 2025 09:03:36 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 16 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -51,6 +51,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jane/Milhans/2025-01-15 09:03:36</guid>
+		</item>
+		<item>
+			<title>Rep. Liz Berry Announces Legislative Priorities for 2025 Session – Washington State House Democrats</title>
+			<description>News article "Rep. Liz Berry Announces Legislative Priorities for 2025 Session – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/01/16/rep-liz-berry-announces-legislative-priorities-for-2025-session/#:~:text=HB%201163</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201057)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201057)
 * 01/02/2025 [The Center Square](/org/the_center_square/) - [Republican rep pre-files legislation to help communities secure federal grants | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0f1e80c6-c93f-11ef-b0e3-c774d3b0af07.html#:~:text=House%20Bill%201057)
 
@@ -18,13 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32393&aId=161154&caId=24691&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32393&aId=161154&caId=24691&tId=4)
 
-#### 16 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Richa Sigdel - Pasco Deputy City Manager
 * Cassie Hammond - Port of Benton
 * Gary Ballew - Greater Spokane Inc.
 * KARL DYE - TRIDEC
 
-#### 124 👎 - Con
+#### 188 👎 - Con
 
 #### 0 ❓ - Other

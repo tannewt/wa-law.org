@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32407&aId=161412&caId=24719&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32407&aId=161412&caId=24719&tId=4)
 
-#### 17 👍 - Pro
+#### 29 👍 - Pro
+Testifying:
+* 💵Bill Clarke - Whatcom Ag Water Board
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Ria Berns - Washington State Department of Ecology

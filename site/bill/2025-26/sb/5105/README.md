@@ -17,16 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32356&aId=161164&caId=24591&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32356&aId=161164&caId=24591&tId=4)
 
-#### 56 👍 - Pro
+#### 96 👍 - Pro
 Testifying:
 * Laura Harmon
 * Salim Nice - City Mercer Island
 * Noel Gomez - Washington against sexual exploitation (WASE Forward)
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Paula Sardinas - WBBA (WA Build Black Alliance)
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 Testifying:
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* emi koyama - Coalition for Rights & Safety
 
 #### 2 ❓ - Other
 Testifying:

@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161333&caId=24573&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161333&caId=24573&tId=4)
 
-#### 70 👍 - Pro
+#### 81 👍 - Pro
 Testifying:
 * Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * Melissa Beard - Council of Presidents
@@ -30,8 +30,9 @@ Testifying:
 * Sam Herriot - WA State Board for Community and Technical Colleges
 * 💵Jayme Shoun - Washington STEM
 * Myle Tang - Stand for Children Washington
+* monica yu - Bellevue College
 
-#### 257 👎 - Con
+#### 281 👎 - Con
 
 #### 7 ❓ - Other
 Testifying:

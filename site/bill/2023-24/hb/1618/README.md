@@ -34,7 +34,7 @@ Testifying:
 * Janet C Robertson
 * Christene Hansen
 * Skylar Schmitt
-* Elizabeth Hendren - Sexual Violence Law Center
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * 💵Paula Sardinas - The Purpose Driven Girl
 * Leslie Segla - The Purpose Driven Girl
 
@@ -74,7 +74,7 @@ Testifying:
 * Linda Darkenwald
 * Pennie Saum
 * Renee Williams - National Crime Victim Bar Association
-* Riddhi Mukhopadhyay - Sexual Violence Law Center
+* Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 
 #### 4 👎 - Con
 
@@ -91,7 +91,7 @@ Testifying:
 * Mary Ellen Stone - King County Sexual Assault Resource Center
 * Renee Williams - National Crime Victim Bar Association
 * Courtney Butler
-* Riddhi Mukhopadhyay - Sexual Violence Law Center
+* Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Bridget Grotz - Washington State Association for Justice
 * Chris Love - Washington State Association for Justice
 * Skylar Schmitt
@@ -115,7 +115,7 @@ Testifying:
 * Kathryn Robb - CHILD USAdvocacy
 * Renee Williams - National Crime Victim Bar Association
 * 💵Larry Shannon - Washington State Association for Justice
-* Riddhi Mukhopadhyay - Sexual Violence Law Center
+* Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 
 #### 3 👎 - Con
 Testifying:

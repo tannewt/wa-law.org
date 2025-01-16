@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=HB%201216)
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201216)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201216)
 
 ## Meetings
@@ -18,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=4)
 
-#### 39 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Lisa Yohalem - HealthPoint
 * 💵Erica Hallock - Start Early WA
@@ -45,8 +46,10 @@ Testifying:
 * Jason Berry - [Junior Achievement of Washington](/org/junior_achievement_of_washington/)
 * 💵Michele Thomas - WA Low Income Housing Alliance
 * Scott Richards - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
+* 💵Mitch Denning - Alliance of Educational Associations
+* Nina Martinez - Communities of Concern and Latino Civic Alliance
 
-#### 20 👎 - Con
+#### 32 👎 - Con
 Testifying:
 * Brian Shay - [City of Hoquiam](/org/city_of_hoquiam/)
 * Darrin Raines - Greater Grays Harbor, Inc.
@@ -54,7 +57,7 @@ Testifying:
 * Vickie Raines - Grays Harbor County
 * JOHN WORTHINGTON
 
-#### 32 ❓ - Other
+#### 34 ❓ - Other
 Testifying:
 * Kathryn Gardow - Chair, Public Works Board
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
@@ -88,3 +91,5 @@ Testifying:
 * 💵John Seng - [Spark Northwest](/org/spark_northwest/)
 * Shaylee Stokes - The Energy Project
 * Drayton Jackson - The Communities of Concern Commission
+* Nina Martinez - Communities of Concern
+* Dan McKisson - ILWU Washington Area District Council

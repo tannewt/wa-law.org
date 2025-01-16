@@ -24,7 +24,7 @@ Testifying:
 * Emma Schwartz - The Adjacent Project
 * Natalie Beetham
 * Jennifer Friedman
-* Elizabeth Hendren - Sexual Violence Law Center
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Georgilee Flynn
 * Skylar Johnson - Planned Parenthood Generation Action UW Chapter
 
@@ -40,7 +40,7 @@ Testifying:
 * Mina Hashemi
 * Skylar Johnson - Planned Parenthood Generation Action UW Chapter
 * Rebecca Faust
-* Elizabeth Hendren - Sexual Violence Law Center
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 
 #### 7 👎 - Con
 

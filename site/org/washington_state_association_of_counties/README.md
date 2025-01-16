@@ -1,6 +1,9 @@
 # Washington State Association of Counties
 ## 2025-26
 
+### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates   ❓1
+* ❓💵 Travis Dutton
+
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals   ❓1
 * ❓💵 Paul Jewell
 

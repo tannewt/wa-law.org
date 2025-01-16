@@ -14,15 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32354&aId=161597&caId=24720&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32354&aId=161597&caId=24720&tId=4)
 
-#### 43 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * Nora Hawkins - Washington State Department of Commerce, Energy Office
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 
-#### 63 👎 - Con
+#### 69 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Heather Alvis - Electra
 
 ### Wed 01/15 08:00 AM - Environment, Energy & Technology (ENET): SB 5175 Photovoltaic modules
 #### 4 👍 - Pro

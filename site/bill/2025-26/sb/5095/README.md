@@ -17,15 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161126&caId=24569&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161126&caId=24569&tId=4)
 
-#### 29 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Barbara Posthumus - Lake Washington School District
 * Leah Choi - Lake Washington School District
 * Dr. John Parker - Central Valley School District - Spokane Valley, WA
 * 💵Grace Yuan - Puget Sound School Coalition
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
+* 💵Grace Yuan - [School Alliance](/org/school_alliance/)
 
-#### 22 👎 - Con
+#### 36 👎 - Con
+Testifying:
+* Veronica Shriver
 
 #### 1 ❓ - Other
 Testifying:

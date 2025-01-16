@@ -16,7 +16,7 @@
 ### Wed 01/17 08:00 AM - Civil Rights & Judiciary (CRJ): HB 2237 Parenting plan limitations
 #### 172 👍 - Pro
 Testifying:
-* Elizabeth Hendren - Sexual Violence Law Center
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Alison Price - Rural Resources Victim Services
 * Em Stone - WA State Coalition Against Domestic Violence
 * Mary Welch - Northwest Justice Project

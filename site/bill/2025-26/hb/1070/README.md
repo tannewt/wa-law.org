@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201070)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201070)
 
 ## Meetings
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32397&aId=161176&caId=24670&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32397&aId=161176&caId=24670&tId=4)
 
-#### 111 👍 - Pro
+#### 145 👍 - Pro
 Testifying:
 * Doug Palmer - Washington State Association for Justice
 

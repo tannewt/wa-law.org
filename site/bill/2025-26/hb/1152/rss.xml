@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1152/</link>
 		<description>Updates about HB 1152</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 15 Jan 2025 09:09:51 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 16 Jan 2025 07:04:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jane/Milhans/2025-01-15 09:09:51</guid>
+		</item>
+		<item>
+			<title>👎Patrick Lewis - NRA</title>
+			<description>Patrick Lewis signed up to testify Con.</description>
+			<pubDate>Thu, 16 Jan 2025 07:04:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Patrick/Lewis/2025-01-16 07:04:12</guid>
 		</item>
 	</channel>
 </rss>

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32407&aId=161411&caId=24718&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32407&aId=161411&caId=24718&tId=4)
 
-#### 12 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Rick Johnson - Stevens County Assessor's Office
 * Wes McCart

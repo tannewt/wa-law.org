@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2025 [House Democrats](/org/house_democrats/) - [Rep. Liz Berry Announces Legislative Priorities for 2025 Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/16/rep-liz-berry-announces-legislative-priorities-for-2025-session/#:~:text=HB%201150)
 * 01/13/2025 [Senate Democrats](/org/senate_democrats/) - [Media Advisory: Sen. Lovelett, Rep. Berry to introduce Recycling Reform Act - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/01/13/media-advisory-sen-lovelett-rep-berry-to-introduce-recycling-reform-act/#:~:text=HB1150)
 
 ## Meetings

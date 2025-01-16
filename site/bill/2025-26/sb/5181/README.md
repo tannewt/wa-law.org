@@ -18,10 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161535&caId=24730&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161535&caId=24730&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 232 👎 - Con
+#### 329 👎 - Con
 Testifying:
 * Gabriel Jacobs
+* Jennifer Heine-Withee
+* Tim Eyman - Initiative Activist
 
 #### 0 ❓ - Other

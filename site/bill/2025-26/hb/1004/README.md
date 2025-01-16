@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201004)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201004)
 
 ## Meetings
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32388&aId=161144&caId=24649&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32388&aId=161144&caId=24649&tId=4)
 
-#### 38 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Michael Moran - Office of Assessments/King County Assessor John Wilson

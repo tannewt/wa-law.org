@@ -30,7 +30,7 @@ Testifying:
 * Jessica Parker - WFSE
 * 💵Erin Haick - SEIU 925
 * Mike Yestramski - WFSE
-* Shontrana Gates-Wertman - Sexual Violence Law Center
+* Shontrana Gates-Wertman - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 
 #### 45 👎 - Con
 Testifying:
@@ -59,7 +59,7 @@ Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * 💵Erin Haick
 * Kathleen Barnard
-* Shontrana Gates-Wertman - Sexual Violence Law Center
+* Shontrana Gates-Wertman - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Danielle Plesser
 

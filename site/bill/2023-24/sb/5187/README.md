@@ -331,7 +331,7 @@ Testifying:
 * Rena Shawver - Okanogan County Community Action Council
 * Sol Villarreal
 * Annalise Martucci - Office of Civil Legal AId
-* Riddhi Mukhopadhyay - Sexual Violence Law Center
+* Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * 💵David Lord - retired
 * Alexandra Deas - [Equal Justice Coalition](/org/equal_justice_coalition/)
 * Daryl Daugs - Board Member, United Way of Kitsap County

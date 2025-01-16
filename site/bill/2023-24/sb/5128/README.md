@@ -17,7 +17,7 @@
 ### Sat 04/01 09:00 AM - Appropriations (APP): 2SSB 5128 Jury diversity
 #### 13 👍 - Pro
 Testifying:
-* Elizabeth Hendren - Washington Supreme Court Gender and Justice Commission
+* 💵Elizabeth Hendren - Washington Supreme Court Gender and Justice Commission
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Laurence Shannon - Washington State Association of Justice
 

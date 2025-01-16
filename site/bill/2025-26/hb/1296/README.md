@@ -16,8 +16,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Robert Bleu - Former Elected School Board Member
+* Jennifer Heine-Withee
 
 #### 0 ❓ - Other

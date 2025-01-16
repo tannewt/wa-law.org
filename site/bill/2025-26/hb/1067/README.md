@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32418&aId=161240&caId=24645&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32418&aId=161240&caId=24645&tId=4)
 
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Mike Asai - Black Excellence In Cannabis
 * Peter Manning - Black Excellence In Cannabis
