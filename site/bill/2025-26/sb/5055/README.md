@@ -14,8 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161021&caId=24593&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161021&caId=24593&tId=4)
 
-#### 2 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Robby Rutledge
 
-#### 3 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Scott Luckie - Luckie Farms
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Hilary Jensen - Jensen Farms
+* Linda Hjelle - WA Association of County Assessors

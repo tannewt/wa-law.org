@@ -11,13 +11,14 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5003 School security grants
-#### 484 👍 - Pro
+#### 489 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Loni Simone
 * Leslie Williams - Conservative Ladies of WA
+* Gabriel Jacobs
 
-#### 239 👎 - Con
+#### 250 👎 - Con
 Testifying:
 * Asenith M Herbert Hill
 

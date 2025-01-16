@@ -4,13 +4,16 @@
 ### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act. 👍1  
 * 👍💵 Bryce Yadon
 
-## [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 * 👍💵 Bryce Yadon
+
+## [SB 5055](/bill/2025-26/sb/5055/) - Agritourism  👎1 
+* 👎💵 Bryce Yadon
 
 ## 2023-24
 
-### [HB 1217](/bill/2023-24/hb/1217/) - Residential tenants 👍1  
-* 👍💵 Bryce Yadon
+### [SB 5055](/bill/2023-24/sb/5055/) - Agritourism  👎1 
+* 👎💵 Bryce Yadon
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1
 

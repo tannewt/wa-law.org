@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161394&caId=24706&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161394&caId=24706&tId=4)
 
-#### 59 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Jennifer Butler - Stand Up for Peninsula Schools
 * Krestin Bahr - Peninsula School District
@@ -28,15 +28,16 @@ Testifying:
 * Melissa Stone - Washington State PTA
 * Kyle Rydell - West valley School District
 
-#### 723 👎 - Con
+#### 836 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Barbara Gulley
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Barbara Posthumus - Lake Washington School District
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Ronda Litzenberger - Washington State School Directors' Association
+* 💵Grace Yuan - Puget Sound School Coalition
 * Stephen McDuffie
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)

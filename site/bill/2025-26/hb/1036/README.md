@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1036 Labor trustees/colleges
-#### 93 👍 - Pro
+#### 114 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Bill Lyne - United Faculty of WA
@@ -17,7 +17,7 @@ Testifying:
 * Helena Ribeiro - AFT 1789 (Seattle Community Colleges)
 * Christopher "Kip" Zwolenski - AFT-WA
 
-#### 15 👎 - Con
+#### 17 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

@@ -11,18 +11,25 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5189 Competency-based education
-#### 19 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * J. Lee Schultz - [Washington State Board of Education](/org/washington_state_board_of_education/)
 * Troy Goracke - Washington State Board for Community and Technical Colleges
+* Lauren House - Dishman Hills High School
+* Emily Souders - La Conner School District
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Holly Ferguson - [Highline Public Schools](/org/highline_public_schools/)
 
-#### 768 👎 - Con
+#### 788 👎 - Con
 Testifying:
 * Sarah Garriott
 * Joy Gjersvold - Conservative Ladies of Washington
 * Rhonda Looney - None
 * Maxine Herbert Hill - SR162 Community Group
 * Jennifer Heine-Withee
+* Sharon Hanek
+* Sharon Damoff
+* Gabe Jacobs
 
 #### 2 ❓ - Other
 Testifying:

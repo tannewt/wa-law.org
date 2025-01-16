@@ -16,6 +16,8 @@
 
 ### [SB 5103](/bill/2025-26/sb/5103/) - Expediting review of sentences when there exists a pending deportation proceeding. 👍1  
 
+### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
+
 ## [SB 5131](/bill/2025-26/sb/5131/) - Religious foods/correctional 👍1  
 
 ## 2023-24

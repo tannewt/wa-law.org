@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32428&aId=161334&caId=24603&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32428&aId=161334&caId=24603&tId=4)
 
-#### 7 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Jerry VanderWood - Associated General Contractors (AGC)
+* Van Collins - PO Box 65051
+* Linneth Riley-Hall - Capital Projects Advisory Review Board (CPARB)
+* Lekha Fernandes - CPARB (BE/DBI sub committee), OMWBE
 
 #### 2 👎 - Con
 

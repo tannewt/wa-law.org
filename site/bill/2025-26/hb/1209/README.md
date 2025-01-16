@@ -17,8 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32418&aId=161397&caId=24709&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32418&aId=161397&caId=24709&tId=4)
 
-#### 23 👍 - Pro
+#### 37 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)

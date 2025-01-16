@@ -1,6 +1,8 @@
 # City of Seattle
 ## 2025-26
 
+### [HB 1015](/bill/2025-26/hb/1015/) - Concerning energy labeling of residential buildings. 👍1  
+
 ## [SB 5098](/bill/2025-26/sb/5098/) - Restricting the possession of weapons on the premises of state or local public buildings, parks or playground facilities where children are likely to be present, and county fairs and county fair facilities. 👍1  
 * 👍 AP Diaz
 

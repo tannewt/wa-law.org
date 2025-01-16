@@ -17,18 +17,33 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32361&aId=161400&caId=24711&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32361&aId=161400&caId=24711&tId=4)
 
-#### 31 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Autumn Dietrich - Consolidated Disposal Service, Inc.
 * Brian Coddington - Sunshine Disposal and Recycling
+* 💵Natalie Hester - [Republic Services](/org/republic_services/)
+* 💵Vicki Christophersen - Washington Refuse and Recycling Association
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Rick Vahl - Waste Connections
+* Wendy Weiker - [Republic Services](/org/republic_services/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Lyset Cadena - WM (Waste Management)
+* 💵Jay Balasbas - Basin Disposal
 
-#### 26 👎 - Con
+#### 51 👎 - Con
 Testifying:
 * 💵Andrew Hackman - AMERIPEN
 * Scott DeFife - Glass Packaging Institute
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Maggie Yuse - Seattle Public Utilities
+* Allison Kustic - Association of Plastic Recyclers (APR)
 
-#### 1 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Michael Connors - [Washington Potato & Onion Association](/org/washington_potato_&_onion_association/)
+* Dylan de Thomas - Coalition of High Performance Recycling (CHPR)
+* 💵Brandon Houskeeper
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program

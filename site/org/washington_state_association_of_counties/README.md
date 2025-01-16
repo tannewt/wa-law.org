@@ -1,6 +1,9 @@
 # Washington State Association of Counties
 ## 2025-26
 
+### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals   ❓1
+* ❓💵 Paul Jewell
+
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review   ❓1
 
 ## [SB 5098](/bill/2025-26/sb/5098/) - Restricting the possession of weapons on the premises of state or local public buildings, parks or playground facilities where children are likely to be present, and county fairs and county fair facilities.   ❓1

@@ -4,6 +4,8 @@
 ### [HB 1004](/bill/2025-26/hb/1004/) - Increasing the personal property tax exemption. 👍1  
 * 👍💵 Mark Johnson
 
+### [HB 1023](/bill/2025-26/hb/1023/) - Cosmetology compact 👍1  
+
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍1  
 * 👍💵 Mark Johnson
 
@@ -14,6 +16,9 @@
 
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍1  
 * 👍💵 Rose Gundersen
+
+### [HB 1209](/bill/2025-26/hb/1209/) - Sodium nitrite   ❓1
+* ❓💵 Crystal Leatherman
 
 ## [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 

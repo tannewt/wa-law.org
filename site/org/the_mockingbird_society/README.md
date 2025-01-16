@@ -1,7 +1,7 @@
 # The Mockingbird Society
 ## 2025-26
 
-### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
+### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍2  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Charles Smith
@@ -18,15 +18,15 @@
 * 👍 Rocket Garcia
 * 👍 Jalayna Ruland
 
-## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓2
+### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓2
 * ❓💵 Samuel Martin
 * ❓💵 Charles Smith
+
+## [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 
 ## 2023-24
 
-### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp.   ❓2
-* ❓💵 Samuel Martin
-* ❓💵 Charles Smith
+### [SB 5210](/bill/2023-24/sb/5210/) - Ninth grade success grants 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 

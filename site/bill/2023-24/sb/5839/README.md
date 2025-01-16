@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/15/2025 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2024 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2024-legislative-session-summary/#:~:text=SB%205839)
 * 02/28/2024 [House Democrats](/org/house_democrats/) - [Gov. Signs Thai Bill to Streamline Working Families Tax Credit Program – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/28/gov-signs-thai-bill-to-streamline-working-families-tax-credit-program/#:~:text=SB%205839)
 
 ## Meetings

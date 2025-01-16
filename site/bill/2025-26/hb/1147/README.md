@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - State Government & Tribal Relations (SGOV): HB 1147 Civic engage./state custody
-#### 566 👍 - Pro
+#### 583 👍 - Pro
 Testifying:
 * Amani Sawari
 * Rachael Ann Snell
@@ -22,12 +22,16 @@ Testifying:
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Jordan Landry
 * Tom Sahlberg
+* Katie Welch
+* Larry Jefferson - Washington State Reentry Council and Washington State Office of Public Defense
+* Devon Adams
 
-#### 486 👎 - Con
+#### 500 👎 - Con
 Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Mary Long - Conservative Ladies of Washington
 * 💵Anne Anderson
+* Steve Hobbs - Office of the Secretary of State
 
 #### 8 ❓ - Other
 Testifying:

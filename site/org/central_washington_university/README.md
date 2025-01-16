@@ -4,11 +4,16 @@
 ### [HB 1036](/bill/2025-26/hb/1036/) - Labor trustees/colleges   ❓1
 * ❓ Steve DuPont
 
+### [HB 1136](/bill/2025-26/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment. 👍1  
+* 👍 Steve DuPont
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Steve DuPont
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 * 👍 Steve DuPont
+
+### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Steve DuPont

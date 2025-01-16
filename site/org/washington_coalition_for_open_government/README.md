@@ -1,7 +1,7 @@
 # Washington Coalition for Open Government
 ## 2025-26
 
-### [HB 1055](/bill/2025-26/hb/1055/) - Transparency ombuds study  👎3 
+### [HB 1055](/bill/2025-26/hb/1055/) - Transparency ombuds study  👎4 
 * 👎 Robert McClure
 * 👎 Hannah Marcley
 

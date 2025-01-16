@@ -1,6 +1,8 @@
 # Washington Education Association
 ## 2025-26
 
+### [HB 1002](/bill/2025-26/hb/1002/) - Recognizing posttraumatic stress disorder as an occupational disease for county coroners, examiners, and investigative personnel. 👍1  
+
 ### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍1  
 * 👍💵 Simone Boe
 
@@ -11,7 +13,13 @@
 ### [HB 1036](/bill/2025-26/hb/1036/) - Labor trustees/colleges 👍2  
 * 👍💵 Simone Boe
 
+### [HB 1068](/bill/2025-26/hb/1068/) - DOC WMS employee arbitration 👍1  
+
+### [HB 1069](/bill/2025-26/hb/1069/) - Supp. retirement bargaining 👍1  
+
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers 👍1  
+
+### [HB 1105](/bill/2025-26/hb/1105/) - Exempting exclusive bargaining representatives for department of corrections employees from certain provisions related to coalition bargaining. 👍1  
 
 ### [HB 1116](/bill/2025-26/hb/1116/) - Recognizing election day. 👍1  
 
@@ -27,13 +35,27 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎1 
 * 👎💵 Larry Delaney
 
+### [HB 1202](/bill/2025-26/hb/1202/) - State gen. obligation bonds 👍1  
+
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
+
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
+
 ### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍1  
 
+### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍1  
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
+
+### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍1  
+
+### [SB 5110](/bill/2025-26/sb/5110/) - Providing tuition waivers for tribal elders at Washington’s community and technical colleges. 👍1  
+
+### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  
 
 ### [SB 5134](/bill/2025-26/sb/5134/) - Chinese Americans/schools   ❓1
 * ❓💵 Nasue Nishida
@@ -47,7 +69,10 @@
 ### [SB 5186](/bill/2025-26/sb/5186/) - School district elections   ❓1
 * ❓💵 Simone Boe
 
-### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍1  
+### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍2  
+* 👍💵 Nasue Nishida
+
+### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍1  
 
 ### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  
 

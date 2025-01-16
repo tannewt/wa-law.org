@@ -11,3 +11,15 @@
 * 01/10/2025 [Senate Democrats](/org/senate_democrats/) - [Wilson files comprehensive LGBTQIA+, vulnerable student protections bill package - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/10/wilson-files-comprehensive-lgbtqia-vulnerable-student-protections-bill-package/#:~:text=SB%205179)
 
 ## Meetings
+### Tue 01/21 08:00 AM - Early Learning & K-12 Education (EDU): SB 5179 Education complaint process
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161538&caId=24733&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161538&caId=24733&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161538&caId=24733&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161538&caId=24733&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

@@ -1,9 +1,15 @@
 # Association of Washington Cities
 ## 2025-26
 
-### [HB 1037](/bill/2025-26/hb/1037/) - PFD formation 👍1  
+### [HB 1037](/bill/2025-26/hb/1037/) - PFD formation 👍2  
 
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
+
+### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers   ❓1
+* ❓💵 Candice Bock
+
+### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates  👎1 
+* 👎💵 Carl Schroeder
 
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓1
 * ❓💵 Carl Schroeder

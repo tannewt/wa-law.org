@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32403&aId=161388&caId=24698&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32403&aId=161388&caId=24698&tId=4)
 
-#### 89 👍 - Pro
+#### 164 👍 - Pro
 Testifying:
 * David Morton
 
-#### 99 👎 - Con
+#### 226 👎 - Con
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

@@ -11,13 +11,14 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5004 School emergency response
-#### 484 👍 - Pro
+#### 489 👍 - Pro
 Testifying:
 * Lori Alhadeff - Make Our Schools Safe
 * Sara Cordova - Yakima School District 7
 * Leslie Williams - Conservative Ladies of WA
+* Gabriel Jacobs
 
-#### 233 👎 - Con
+#### 244 👎 - Con
 Testifying:
 * Asenith M Herbert Hill
 

@@ -1,12 +1,14 @@
 # Spark Northwest
 ## 2025-26
 
-## [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
+## [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓2
+* ❓💵 John Seng
 * ❓💵 John Seng
 
 ## 2023-24
 
-### [HB 1216](/bill/2023-24/hb/1216/) - Capital budget   ❓1
+### [HB 1216](/bill/2023-24/hb/1216/) - Capital budget   ❓2
+* ❓💵 John Seng
 * ❓💵 John Seng
 
 ### [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  

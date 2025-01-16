@@ -14,3 +14,15 @@
 * 12/02/2024 [Gorge News Center](/org/gorge_news_center/) - [First bills drop ahead of WA’s 2025 legislative session](https://gorgenewscenter.com/2024/12/02/first-bills-drop-ahead-of-was-2025-legislative-session/#:~:text=Senate%20Bill%205005)
 
 ## Meetings
+### Tue 01/21 01:30 PM - Human Services (HS): SB 5005 Jail system
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161469&caId=24766&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161469&caId=24766&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161469&caId=24766&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161469&caId=24766&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32420&aId=161244&caId=24570&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32420&aId=161244&caId=24570&tId=4)
 
-#### 7 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Kevin Wren - Washington #insulin4all
 * Jonathan Staloff - Washington Academy of Family Physicians (WAFP)

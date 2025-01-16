@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/15/2025 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2024 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2024-legislative-session-summary/#:~:text=HB%202006)
 * 01/20/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 22 - 26, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-22-26-2024/#:~:text=HB%202006)
 
 ## Meetings

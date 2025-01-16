@@ -12,3 +12,15 @@
 * 12/17/2024 [The Center Square](/org/the_center_square/) - [Bipartisan bill seeks $100 million for Washington law enforcement hiring | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0f36d340-bcd0-11ef-9c2a-83fd15986972.html#:~:text=Senate%20Bill%205060)
 
 ## Meetings
+### Tue 01/21 08:00 AM - Law & Justice (LAW): SB 5060 Law enf. hiring grants
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161501&caId=24794&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161501&caId=24794&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161501&caId=24794&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161501&caId=24794&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

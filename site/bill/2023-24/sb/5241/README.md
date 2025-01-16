@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/15/2025 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2024 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2024-legislative-session-summary/#:~:text=SB%205241)
 * 05/22/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [The state of bodily autonomy in Washington State and beyond | ACLU of Washington](http://www.aclu-wa.org/story/headwinds-will-turn-again-state-bodily-autonomy-washington-state-and-beyond-0#:~:text=bill%20got%20further%20than%20it%20ever%20had)
 * 05/05/2024 [House Republicans](/org/house_republicans/) - [2024 legislative session recap | Washington State House Republicans](http://houserepublicans.wa.gov/current/2024-legislative-session-recap/#:~:text=Senate%20Bill%205241)
 * 03/28/2024 [American Civil Liberties Union of Washington](/org/american_civil_liberties_union_of_washington/) - [The state of bodily autonomy in Washington State and beyond | ACLU of Washington](http://www.aclu-wa.org/story/headwinds-will-turn-again-state-bodily-autonomy-washington-state-and-beyond#:~:text=bill%20got%20further%20than%20it%20ever%20had)

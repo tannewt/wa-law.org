@@ -8,7 +8,10 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Consumer Protection & Business (CPB): HB 1081 Solicited real estate
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Carrie Tellefson - [Washington Land Title Association](/org/washington_land_title_association/)
+* Riley Benge - Washington REALTORS
 
 #### 0 👎 - Con
 

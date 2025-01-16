@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/15/2025 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2024 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2024-legislative-session-summary/#:~:text=HB%201045)
 * 03/20/2024 [Food Lifeline](/org/food_lifeline/) - [2024 Washington State Legislative Session Summary | Food Lifeline](https://foodlifeline.org/article/2024-washington-state-legislative-session-summary#:~:text=HB%201045)
 * 01/31/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Current Status of Priority Bills — Quaker Voice](https://www.quakervoicewa.org/2024-current-status-of-priority-bills/#:~:text=1045)
 * 01/20/2024 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2024 Quaker Voice Priorities — Quaker Voice](https://www.quakervoicewa.org/2024-quaker-voice-priorities/#:~:text=HB%201045)

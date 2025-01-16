@@ -1,6 +1,9 @@
 # Washington Hospitality Association
 ## 2025-26
 
+### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍1  
+* 👍💵 Samantha Louderback
+
 ### [HB 1080](/bill/2025-26/hb/1080/) - Lodging fee disclosure  👎1 
 * 👎💵 Julia Gorton
 

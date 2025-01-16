@@ -6,11 +6,13 @@
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍3  
 * 👍💵 Anthony Blankenship
 
-## [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
+### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
+
+## [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
 ## 2023-24
 
-### [HB 1147](/bill/2023-24/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
+### [SB 5115](/bill/2023-24/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍3  
 * 👍💵 Kelly Olson

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/15/2025 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2024 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2024-legislative-session-summary/#:~:text=HB%201895)
 * 07/23/2024 [Washington State Standard](/org/washington_state_standard/) - [Thousands of low-income WA families qualify for a tax credit they aren’t claiming • Washington State Standard](https://washingtonstatestandard.com/2024/07/23/thousands-of-low-income-wa-families-qualify-for-a-tax-credit-they-arent-claiming/#:~:text=House%20Bill%201895)
 * 07/23/2024 [Gorge News Center](/org/gorge_news_center/) - [Thousands of low-income WA families qualify for a tax credit they aren’t claiming](https://gorgenewscenter.com/2024/07/23/thousands-of-low-income-wa-families-qualify-for-a-tax-credit-they-arent-claiming/#:~:text=House%20Bill%201895)
 * 02/28/2024 [House Democrats](/org/house_democrats/) - [Gov. Signs Thai Bill to Streamline Working Families Tax Credit Program – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/02/28/gov-signs-thai-bill-to-streamline-working-families-tax-credit-program/#:~:text=House%20Bill%201895)

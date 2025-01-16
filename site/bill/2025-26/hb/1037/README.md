@@ -30,3 +30,28 @@ Testifying:
 #### 0 👎 - Con
 
 #### 0 ❓ - Other
+
+### Fri 01/17 10:30 AM - Local Government (LG): HB 1037 PFD formation
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32403&aId=161817&caId=24825&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32403&aId=161817&caId=24825&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32403&aId=161817&caId=24825&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32403&aId=161817&caId=24825&tId=4)
+
+#### 89 👍 - Pro
+Testifying:
+* Nicky Pasi - Mountains to Sound Greenway Trust
+* Matthew Lundh - Mayor, City of Cle Elum
+* Gary Berndt
+* Claire Nicholls
+* Gary Berndt
+* John Belcher
+* Matthew Lundh
+* Paul Kantwill
+* Andrew Lyons
+* 💵Josh Weiss - [City of Ellensburg](/org/city_of_ellensburg/)
+* Ann Leichleiter - Boys & Girls Clubs of the Columbia Basin
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

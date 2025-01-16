@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161396&caId=24708&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161396&caId=24708&tId=4)
 
-#### 12 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
+* 💵Grace Yuan - Puget Sound School Coalition
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
+* Devlin Piplic - WA Assn of Maintenance and Operation Administrators
+* Michael Knaack - WA Assn of Maintenance and Operation Administrators
+* 💵Mitch Denning - Alliance of Educational Associations
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Suzie Hanson - Washington Federation of Independent Schools

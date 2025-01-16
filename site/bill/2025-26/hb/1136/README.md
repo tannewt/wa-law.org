@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161137&caId=24680&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161137&caId=24680&tId=4)
 
-#### 34 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * Bill Lyne - United Faculty of Washington State
@@ -26,8 +26,12 @@ Testifying:
 * Isabella Flores - Washington State Board for Community and Technical Colleges
 * Jamie Traugott - Washington's State Board for Community and Technical Colleges
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Sam Herriot - WA State Board for Community and Technical Colleges
+* 💵Jayme Shoun - Washington STEM
+* Myle Tang - Stand for Children Washington
+* Steve DuPont - [Central Washington University](/org/central_washington_university/)
 
-#### 1 👎 - Con
+#### 113 👎 - Con
 
 #### 7 ❓ - Other
 Testifying:

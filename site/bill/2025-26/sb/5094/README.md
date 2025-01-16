@@ -14,14 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32356&aId=161051&caId=24589&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32356&aId=161051&caId=24589&tId=4)
 
-#### 30 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Laura Harmon
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 162 👎 - Con
+#### 184 👎 - Con
 Testifying:
 * Joanne Smieja - WA Voices
 * Lisa Trifiletti
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Rose Feliciano - TechNet

@@ -12,6 +12,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 01/15/2025 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2024 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2024-legislative-session-summary/#:~:text=SB%205937)
 * 09/30/2024 [Cascade PBS](/org/cascade_pbs/) - [Over half of sexual assault cases in King County end in plea deals | Cascade PBS](https://crosscut.com/news/2024/09/over-half-sexual-assault-cases-king-county-end-plea-deals#:~:text=passed%20a%20bill%20in%20March)
 * 09/30/2024 [Cascade PBS](/org/cascade_pbs/) - [Over half of sexual assault cases in King County end in plea deals | Cascade PBS](https://www.cascadepbs.org/news/2024/09/over-half-sexual-assault-cases-king-county-end-plea-deals#:~:text=passed%20a%20bill%20in%20March)
 * 03/26/2024 [Senate Democrats](/org/senate_democrats/) - [Dhingra bills to support survivors of gender-based violence signed into law - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/03/26/dhingra-bills-to-support-survivors-of-gender-based-violence-signed-into-law/#:~:text=SB%205937)

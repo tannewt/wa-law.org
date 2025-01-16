@@ -11,6 +11,11 @@
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers  👎1 
 * 👎💵 Lindsey Hueer
 
+### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates   ❓1
+* ❓💵 Peter Godlewski
+
+### [HB 1075](/bill/2025-26/hb/1075/) - Affordable housing financing 👍1  
+
 ### [HB 1080](/bill/2025-26/hb/1080/) - Lodging fee disclosure  👎1 
 
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
@@ -44,7 +49,16 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎1 
 * 👎 Max Martin
 
+### [HB 1209](/bill/2025-26/hb/1209/) - Sodium nitrite   ❓1
+* ❓💵 Peter Godlewski
+
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
+
+### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  
+* 👍💵 Morgan Irwin
+
+### [SB 5105](/bill/2025-26/sb/5105/) - Concerning offenses involving fabricated depictions of minors. 👍1  
+* 👍💵 Morgan Irwin
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎 Max Martin

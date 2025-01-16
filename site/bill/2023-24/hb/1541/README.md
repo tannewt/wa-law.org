@@ -13,6 +13,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 01/15/2025 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2024 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2024-legislative-session-summary/#:~:text=HB%201541)
 * 12/12/2024 [House Democrats](/org/house_democrats/) - [Rep. Mena Elected Chair of House State Government & Tribal Relations Committee   – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/12/12/rep-mena-elected-chair-of-house-state-government-tribal-relations-committee/#:~:text=House%20Bill%201541)
 * 11/26/2024 [Cascade PBS](/org/cascade_pbs/) - [The Washington state Legislature is more diverse than ever | Cascade PBS](https://crosscut.com/politics/2024/11/washington-state-legislature-more-diverse-ever#:~:text=“Nothing%20About%20Us,%20Without%20Us”)
 * 03/27/2024 [House Democrats](/org/house_democrats/) - [Gov. Signs Farivar Bills into Law to Empowering Communities, Supporting Child Sex Abuse Survivors & Addressing Antitrust Practices – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/27/179-2/#:~:text=1541)

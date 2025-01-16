@@ -1,19 +1,28 @@
 # Washington Land Title Association
+## 2025-26
 
-## [HB 1412](/bill/2023-24/hb/1412/) - Ag. land/foreign ownership   ❓1
+## [HB 1081](/bill/2025-26/hb/1081/) - Solicited real estate 👍1  
+* 👍💵 Carrie Tellefson
+
+## 2023-24
+
+### [HB 1081](/bill/2023-24/hb/1081/) - Solicited real estate 👍1  
+* 👍💵 Carrie Tellefson
+
+### [HB 1412](/bill/2023-24/hb/1412/) - Ag. land/foreign ownership   ❓1
 * ❓ Sean Holland
 
-## [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg.   ❓1
+### [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg.   ❓1
 * ❓ Sean Holland
 
-## [HB 2140](/bill/2023-24/hb/2140/) - Modifying laws related to adverse possession to protect legal owners of property.  👎1 
+### [HB 2140](/bill/2023-24/hb/2140/) - Modifying laws related to adverse possession to protect legal owners of property.  👎1 
 * 👎 Sean Holland
 
-## [SB 5399](/bill/2023-24/sb/5399/) - Future listing contracts 👍2  
+### [SB 5399](/bill/2023-24/sb/5399/) - Future listing contracts 👍2  
 * 👍 Dwight Bickel
 * 👍 Sean Holland
 
-## [SB 5840](/bill/2023-24/sb/5840/) - Leases 👍3  
+### [SB 5840](/bill/2023-24/sb/5840/) - Leases 👍3  
 * 👍 Sean Holland
 * 👍 JP Kissling
 * 👍 Sean Holland

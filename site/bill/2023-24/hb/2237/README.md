@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/15/2025 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2024 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2024-legislative-session-summary/#:~:text=HB%202237)
 * 02/09/2024 [The Center Square](/org/the_center_square/) - [Domestic violence victims and advocates press for family court system reform | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0c4f4c72-c79c-11ee-9674-5f1fc8b3a413.html#:~:text=HB%202237.)
 * 01/12/2024 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 15 - 19, 2024 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-15-19-2024/#:~:text=HB%202237)
 

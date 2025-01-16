@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1114 Respiratory care compact
-#### 15 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Emily Wittman - AWB
 * Elizabeth New - Washington Policy Center
@@ -18,6 +18,7 @@ Testifying:
 * Gary Wickman - Respiratory Care Society of Washington, RCSW
 * Brian Newberry - Forward Fairchild
 * Carl Hinkson - [Respiratory Care Society of Washington](/org/respiratory_care_society_of_washington/)
+* Toni D'Amato
 
 #### 0 👎 - Con
 

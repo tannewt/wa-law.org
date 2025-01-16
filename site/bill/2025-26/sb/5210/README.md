@@ -11,7 +11,7 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5210 Ninth grade success grants
-#### 76 👍 - Pro
+#### 101 👍 - Pro
 Testifying:
 * Doug Hostetter - [Tacoma Public Schools](/org/tacoma_public_schools/)
 * Doug Judge - Center for High School Success
@@ -19,8 +19,9 @@ Testifying:
 * David Funk - Prosser High School
 * David Knight - Associate Professor
 * Matthew Yarkosky - Graham Kapowsin High School
+* Liz Trautman - Stand for Children Washington
 
-#### 257 👎 - Con
+#### 269 👎 - Con
 Testifying:
 * Loni Simone
 * Asenith M Herbert Hill

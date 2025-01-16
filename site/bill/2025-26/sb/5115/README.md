@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161083&caId=24571&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161083&caId=24571&tId=4)
 
-#### 190 👍 - Pro
+#### 569 👍 - Pro
 Testifying:
 * Angelita Cervantes - Communities for Our College
 * Benjamin Gonzalez - Comunidades por nuestros colegios.
@@ -29,8 +29,11 @@ Testifying:
 * Dafne Pinon - Communities for Our Colleges
 * Paul Ryan Villanueva - Communities for Our Colleges
 * Sara Ochoa - Communities for Our Colleges
+* Karina Cruz - The Purple Group and Communities for Our Colleges
+* Angelique Rodriguez - CAIR-Washington
+* Aylin Díaz Romero - The Purple Group and Communities for Our Colleges
 * Daniel Gomez - Latino Community Fund of Washington
 
-#### 196 👎 - Con
+#### 268 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other

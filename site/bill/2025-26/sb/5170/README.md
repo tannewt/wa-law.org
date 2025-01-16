@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32407&aId=161411&caId=24718&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32407&aId=161411&caId=24718&tId=4)
 
-#### 2 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Rick Johnson - Stevens County Assessor's Office
 * Wes McCart
@@ -23,4 +23,6 @@ Testifying:
 Testifying:
 * GARY FETTER - GARY FETTER LAND & LIVESTOCK llc.
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)

@@ -8,15 +8,16 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5193 Remote testing
-#### 433 👍 - Pro
+#### 514 👍 - Pro
 Testifying:
 * Felicia Kern - Digital Public Schools Alliance
 * Caitlin Modine - Insight School of Washington
 * Matthew Kesler - River HomeLink
 * 💵Carolyn Logue - Stride/K12
+* 💵Jamie Anderson - parent
 
 #### 28 👎 - Con
 
-#### 8 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Becky Wallace - Office of Superintendent of Public Instruction

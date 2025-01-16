@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32356&aId=161163&caId=24590&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32356&aId=161163&caId=24590&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Victoria Blumhorst - Washington Gender and Justice Commission
+* Cindy Arends - Washington Defender Assn, WA Assn Criminal Defense Attorneys
 
 #### 2 👎 - Con
 Testifying:

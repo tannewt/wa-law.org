@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=4)
 
-#### 30 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Lisa Yohalem - HealthPoint
 * 💵Erica Hallock - Start Early WA
@@ -43,8 +43,10 @@ Testifying:
 * 💵Connor Haggerty - Washington State University
 * Ryan Nickels - West Sound Technical Skills Center
 * Jason Berry - [Junior Achievement of Washington](/org/junior_achievement_of_washington/)
+* 💵Michele Thomas - WA Low Income Housing Alliance
+* Scott Richards - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
 
-#### 8 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * Brian Shay - [City of Hoquiam](/org/city_of_hoquiam/)
 * Darrin Raines - Greater Grays Harbor, Inc.
@@ -52,7 +54,7 @@ Testifying:
 * Vickie Raines - Grays Harbor County
 * JOHN WORTHINGTON
 
-#### 28 ❓ - Other
+#### 32 ❓ - Other
 Testifying:
 * Kathryn Gardow - Chair, Public Works Board
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
@@ -82,3 +84,7 @@ Testifying:
 * 💵Axel Swanson - Washington State Association of County Engineers
 * John Wolfe - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
 * 💵Kristin Ang - The Port of Tacoma
+* Elvia Perez - Firelands
+* 💵John Seng - [Spark Northwest](/org/spark_northwest/)
+* Shaylee Stokes - The Energy Project
+* Drayton Jackson - The Communities of Concern Commission

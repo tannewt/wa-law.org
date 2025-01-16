@@ -11,7 +11,7 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Health Care & Wellness (HCW): HB 1090 Contraceptive coverage
-#### 145 👍 - Pro
+#### 152 👍 - Pro
 Testifying:
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 * Elena Vega de Soto

@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32375&aId=161226&caId=24582&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32375&aId=161226&caId=24582&tId=4)
 
-#### 196 👍 - Pro
+#### 245 👍 - Pro
 Testifying:
 * Evan Gallo
 * Eunice How - UNITE HERE Local 8
@@ -28,6 +28,6 @@ Testifying:
 * Don Rhoads - The Convenience Group
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
-#### 7 👎 - Con
+#### 10 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

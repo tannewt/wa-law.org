@@ -8,11 +8,11 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - State Government & Tribal Relations (SGOV): HB 1055 Transparency ombuds study
-#### 12 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Joe Kunzler
 
-#### 268 👎 - Con
+#### 295 👎 - Con
 Testifying:
 * DONNA CHRISTENSEN
 * Robert McClure - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)

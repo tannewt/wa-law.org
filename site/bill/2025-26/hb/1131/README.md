@@ -17,12 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32367&aId=161158&caId=24637&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32367&aId=161158&caId=24637&tId=4)
 
-#### 73 👍 - Pro
+#### 91 👍 - Pro
 Testifying:
 * Waldo Waldron-Ramsey - [Washington Community Action Network](/org/washington_community_action_network/)
+* Barbara Serrano - Former Senior Policy Advisor on Public Safety - Governor Inslee
 
-#### 3 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Tom Sahlberg - [City of Liberty Lake](/org/city_of_liberty_lake/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Cindy Arends - Washington Defender Assn, WA Assn Criminal Defense Attorneys

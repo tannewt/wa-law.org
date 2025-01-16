@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 01/15/2025 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [2024 Legislative Session Summary – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/resources/2024-legislative-session-summary/#:~:text=SB%206105)
 * 06/05/2024 [FOX13](/org/fox13/) - [WA ‘Stripper Bill of Rights’ goes into effect this week | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-stripper-bill-rights-begins#:~:text=Senate%20Bill%206105)
 * 04/24/2024 [Real Change](/org/real_change/) - [Washington-based strippers empowered by recent laws | April 24–30, 2024 | Real Change](https://www.realchangenews.org/news/2024/04/24/washington-based-strippers-empowered-recent-laws#:~:text=Senate%20Bill%20(SB)%206105)
 * 04/11/2024 [MyNorthwest](/org/mynorthwest/) - [Former bikini barista talks dress code, appropriate behavior - MyNorthwest.com](https://mynorthwest.com/3957202/jack-and-spike-lattes-to-lingerie-from-a-former-bikini-barista-point-of-view/#:~:text=Senate%20Bill%206105)

@@ -1,30 +1,41 @@
 # Republic Services
+## 2025-26
 
-## [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management  👎5 
+## [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍5  
+* 👍💵 Natalie Hester
+* 👍 Wendy Weiker
+
+## 2023-24
+
+### [HB 1071](/bill/2023-24/hb/1071/) - Recycling rates 👍5  
+* 👍💵 Natalie Hester
+* 👍 Wendy Weiker
+
+### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management  👎5 
 * 👎 Jay O'Neal
 * 👎 Wendy Weicker
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
+### [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  
 
-## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts  👎1 
+### [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts  👎1 
 
-## [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system. 👍1  
+### [HB 1900](/bill/2023-24/hb/1900/) - Implementing strategies to achieve higher recycling rates within Washington's existing solid waste management system. 👍1  
 * 👍 Wendy Weiker
 
-## [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎4 
+### [HB 2049](/bill/2023-24/hb/2049/) - Solid waste management  👎4 
 * 👎 Wendy Weiker
 * 👎 Wendy Weiker
 
-## [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.  👎4 
+### [HB 2144](/bill/2023-24/hb/2144/) - Beverage deposit return prg.  👎4 
 * 👎 Wendy Weiker
 * 👎 Wendy Weiker
 
-## [HB 2301](/bill/2023-24/hb/2301/) - Waste material management   ❓1
+### [HB 2301](/bill/2023-24/hb/2301/) - Waste material management   ❓1
 
-## [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management  👎4 
+### [SB 5154](/bill/2023-24/sb/5154/) - Solid waste management  👎4 
 * 👎 Wendy Weiker
 
-## [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management  👎1 
+### [SB 6005](/bill/2023-24/sb/6005/) - Solid waste management  👎1 
 * 👎 Wendy Weiker
 
 ## [SB 6180](/bill/2023-24/sb/6180/) - Waste material management  👎1 ❓1
