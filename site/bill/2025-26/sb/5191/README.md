@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/17 08:00 AM - Labor & Commerce (LC): SB 5191 Dockworkers/family leave
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32375&aId=161370&caId=24583&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32375&aId=161370&caId=24583&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32375&aId=161370&caId=24583&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32375&aId=161370&caId=24583&tId=4)
-
-#### 16 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Dan McKisson - ILWU WA Area District Council
 * Cam Williams - International Longshore and Warehouse Union -  Coast Longshore Division

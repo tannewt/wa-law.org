@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161575&caId=24779&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161575&caId=24779&tId=4)
 
-#### 228 👍 - Pro
+#### 283 👍 - Pro
+Testifying:
+* Anne Paxton - Unemployment Law Projexr
+* Amy Traub - National Employment Law Project
 
-#### 5 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Elizabeth New - Washington Policy Center
 

@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161537&caId=24732&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161537&caId=24732&tId=4)
 
-#### 27 👍 - Pro
+#### 118 👍 - Pro
 Testifying:
 * LINDEN JORDAN - PFLAG Skagit
+* Samantha Fogg - Seattle Council PTSA Co-President
 
-#### 521 👎 - Con
+#### 615 👎 - Con
 Testifying:
 * Khushdip Brar - School board director
 * Jennifer Heine-Withee
+* Tonya Hickman - Lynden School Board
 
 #### 0 ❓ - Other

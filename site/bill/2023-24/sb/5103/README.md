@@ -29,7 +29,7 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Catherine Morrison - Maxim Healthcare Services
+* 💵Catherine Morrison - Maxim Healthcare Services
 * Erica Drury - MGA Homecare
 
 ### Thu 02/16 04:00 PM - Ways & Means (WM): SSB 5103 Medicaid patients/discharge

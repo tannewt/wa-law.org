@@ -14,6 +14,12 @@
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎1 
 
+### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info  👎1 
+* 👎💵 Crystal Leatherman
+
+### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎1 
+* 👎💵 Crystal Leatherman
+
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍1  
 * 👍💵 Rose Gundersen
 

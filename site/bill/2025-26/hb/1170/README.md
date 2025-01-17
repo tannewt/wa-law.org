@@ -8,23 +8,18 @@
 
 ## Meetings
 ### Fri 01/17 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1170 AI content notices
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32393&aId=161156&caId=24693&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32393&aId=161156&caId=24693&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32393&aId=161156&caId=24693&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32393&aId=161156&caId=24693&tId=4)
-
-#### 21 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Jai Jaisimha - Transparency Coalition.ai
 * Tom Kemp
 
-#### 22 👎 - Con
+#### 31 👎 - Con
 Testifying:
 * Robert Singleton - Chamber of Progress
 * John Coleman - Foundation for Individual Rights and Expression
 * 💵Kelly Fukai - WATECH
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Rose Feliciano - TECHNET
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 0 ❓ - Other

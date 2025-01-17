@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1054/</link>
 		<description>Updates about HB 1054</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 15 Jan 2025 02:10:18 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 17 Jan 2025 10:37:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -60,6 +60,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Yuki/Hayashi/2025-01-15 02:10:18</guid>
+		</item>
+		<item>
+			<title>👍Jeremy Kamel - Anderson Island Citizens Advisory Board</title>
+			<description>Jeremy Kamel signed up to testify Pro. They are signed up to represent Anderson Island Citizens Advisory Board.</description>
+			<pubDate>Fri, 17 Jan 2025 10:37:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeremy/Kamel/2025-01-17 10:37:25</guid>
 		</item>
 	</channel>
 </rss>

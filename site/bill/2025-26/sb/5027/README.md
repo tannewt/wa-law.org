@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32463&aId=161494&caId=24756&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32463&aId=161494&caId=24756&tId=4)
 
-#### 7 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
 * Natalie Wilkins
 * Rachel Cortez - Washington State Office of Public Defense
+* Yewobdar Tiezazu
 
 #### 0 👎 - Con
 

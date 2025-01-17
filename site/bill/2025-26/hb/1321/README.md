@@ -16,8 +16,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 3 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Jeff Pack - Me
+* Kenton Gartrell - Precinct Officer 102
 
 #### 0 ❓ - Other

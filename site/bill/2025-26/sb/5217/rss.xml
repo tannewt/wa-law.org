@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5217/</link>
 		<description>Updates about SB 5217</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 17 Jan 2025 11:56:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,38 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👍Brooke Iverson - Teamsters 174</title>
+			<description>Brooke Iverson signed up to testify Pro. They are signed up to represent Teamsters 174.</description>
+			<pubDate>Fri, 17 Jan 2025 11:56:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brooke/Iverson/2025-01-17 11:56:42</guid>
+		</item>
+		<item>
+			<title>👍Ellie Klein - PEPS</title>
+			<description>Ellie Klein signed up to testify Pro. They are signed up to represent PEPS.</description>
+			<pubDate>Fri, 17 Jan 2025 11:56:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ellie/Klein/2025-01-17 11:56:42</guid>
+		</item>
+		<item>
+			<title>👍Haley Bannow - Teamsters 174</title>
+			<description>Haley Bannow signed up to testify Pro. They are signed up to represent Teamsters 174.</description>
+			<pubDate>Fri, 17 Jan 2025 11:56:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Haley/Bannow/2025-01-17 11:56:42</guid>
+		</item>
+		<item>
+			<title>👍💵Maggie Humphreys - MomsRising</title>
+			<description>Maggie Humphreys signed up to testify Pro. They are signed up to represent MomsRising. They are a registered lobbyist.</description>
+			<pubDate>Fri, 17 Jan 2025 11:56:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Maggie/Humphreys/2025-01-17 11:56:42</guid>
 		</item>
 	</channel>
 </rss>

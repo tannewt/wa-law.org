@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Fri 01/17 10:30 AM - Local Government (LG): HB 1054 County ferry contracts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32403&aId=161205&caId=24674&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32403&aId=161205&caId=24674&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32403&aId=161205&caId=24674&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32403&aId=161205&caId=24674&tId=4)
-
-#### 49 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * Jani Hitchen - Pierce County Council
 * 💵Michael Shaw - [Pierce County](/org/pierce_county/)
 * Robin sutton
 * Yuki Hayashi
+* Jeremy Kamel - Anderson Island Citizens Advisory Board
 
 #### 0 👎 - Con
 

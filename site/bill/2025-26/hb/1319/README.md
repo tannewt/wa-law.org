@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/17/2025 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [A look into the Department of Revenue’s Wealth Tax Study - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/wealth-tax-washington-state-revenue-study/#:~:text=HB%201319)
+
 ## Meetings

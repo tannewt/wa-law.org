@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Fri 01/17 08:00 AM - Labor & Commerce (LC): SB 5070 Interchange fees on tips
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32375&aId=161226&caId=24582&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32375&aId=161226&caId=24582&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32375&aId=161226&caId=24582&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32375&aId=161226&caId=24582&tId=4)
-
-#### 317 👍 - Pro
+#### 334 👍 - Pro
 Testifying:
 * Evan Gallo
 * Eunice How - UNITE HERE Local 8
@@ -27,13 +21,14 @@ Testifying:
 * Dan Alsaker - The Broadway Group
 * Don Rhoads - The Convenience Group
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Danielle Alvarado - [Fair Work Center](/org/fair_work_center/)
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * Barry Galen - Collector's Choice Restaurant
 * Clayton Krueger - Farrelli's Wood Fire Pizza
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Samantha Burdman - Glass Bottle Creamery
 
-#### 55 👎 - Con
+#### 60 👎 - Con
 Testifying:
 * Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
 * Steve Rauschenberger - Electronic Payments Coalition

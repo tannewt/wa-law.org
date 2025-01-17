@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161442&caId=24836&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161442&caId=24836&tId=4)
 
-#### 23 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Katie Hurley - King County Department of Public Defense
 * Elisa Cozad - TeamChild
@@ -22,6 +22,8 @@ Testifying:
 * Chris Ativalu-Ford - TVW's Capitol Classroom
 * Ron Ackerson Jr - TVW's Capitol Classroom
 * TJ Puller - TVW's Capitol Classroom
+* Judge David Keenan - Washington State Minority and Justice Commission
+* Moses Mutel - TVW's Capitol Classroom
 
 #### 0 👎 - Con
 

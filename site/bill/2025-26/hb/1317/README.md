@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161690&caId=24838&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161690&caId=24838&tId=4)
 
-#### 117 👍 - Pro
+#### 193 👍 - Pro
 Testifying:
 * Matthew Leon
 * Jeffrey Ellis
 * Jacob Schmitt - Just Us Solutions
 * Jacob Schmitt - Just Us Solutions, LLC
+* Arthur Longworth - TeamChild
+* Matthew Leon
 
 #### 1 👎 - Con
 

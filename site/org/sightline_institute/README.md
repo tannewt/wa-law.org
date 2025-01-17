@@ -4,6 +4,9 @@
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 * 👍💵 Dan Bertolet
 
+### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍1  
+* 👍💵 Dan Bertolet
+
 ## [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 * 👍 Catie Gould
 

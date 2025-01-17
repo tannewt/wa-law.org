@@ -17,10 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32447&aId=161437&caId=24803&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32447&aId=161437&caId=24803&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Friendly Vang Johnson - PNW BIPOC Farmland Trust
 * Eliana Horn - [Puget Sound Sage](/org/puget_sound_sage/)
+* Aaron Garcia - White Center Community Development Association
 
 #### 0 👎 - Con
 

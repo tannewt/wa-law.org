@@ -4,6 +4,9 @@
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates   ❓1
 * ❓💵 Travis Dutton
 
+### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act.   ❓1
+* ❓💵 Kelsey Hulse
+
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals   ❓1
 * ❓💵 Paul Jewell
 

@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161505&caId=24798&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161505&caId=24798&tId=4)
 
-#### 59 👍 - Pro
+#### 124 👍 - Pro
 
-#### 584 👎 - Con
+#### 710 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * kyle ivarra

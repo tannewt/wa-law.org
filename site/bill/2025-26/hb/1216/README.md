@@ -62,7 +62,7 @@ Testifying:
 * Yvonne Kraus - Washington Wildlife and Recreation Coalition
 * Jim CastroLang - [Thrive International](/org/thrive_international/)
 * Erin McCardle - [City of Chelan](/org/city_of_chelan/)
-* Mike Gonzalez - City of Sunnyside
+* Mike Gonzalez - [City of Sunnyside](/org/city_of_sunnyside/)
 * Kris Robbins - Lind-Ritzville Cooperative Schools
 * Jon Erickson - [Columbia Basin Development League](/org/columbia_basin_development_league/)
 * Patrick Arney - [Weld Seattle](/org/weld_seattle/)

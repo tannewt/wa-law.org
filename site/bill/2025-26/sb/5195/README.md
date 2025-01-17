@@ -31,7 +31,7 @@ Testifying:
 * Bill Adamson - South Sound Military & Communities Partnership
 * 💵Gary Rowe - Vice Chair, Public Works Board
 * Erin McCardle - [City of Chelan](/org/city_of_chelan/)
-* Mike Gonzalez - City of Sunnyside
+* Mike Gonzalez - [City of Sunnyside](/org/city_of_sunnyside/)
 * Jim Chambers (Behalf of Patrick Arney) - Weld
 * Patrick Arney - Weld
 * Dan Ford - [City of Toppenish](/org/city_of_toppenish/)

@@ -176,7 +176,7 @@ Testifying:
 * 💵Leslie Emerick - Home Care Association of WA
 * Em Stone - WA State Coalition Against Domestic Violence
 * Chloe Gale - [Evergreen Treatment Services](/org/evergreen_treatment_services/)
-* Catherine Morrison - Maxim Healthcare Services
+* 💵Catherine Morrison - Maxim Healthcare Services
 * Neil Olson - Crisis Connections
 * 💵Brad Banks - Home Care Coalition
 * Erica Drury - MGA Homecare

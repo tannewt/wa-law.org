@@ -7,11 +7,13 @@
 
 ### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍1  
 
-## [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍1  
+## [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍2  
+* 👍 Danielle Alvarado
 
 ## 2023-24
 
-### [SB 5070](/bill/2023-24/sb/5070/) - Interchange fees on tips 👍1  
+### [SB 5070](/bill/2023-24/sb/5070/) - Interchange fees on tips 👍2  
+* 👍 Danielle Alvarado
 
 ### [HB 1217](/bill/2023-24/hb/1217/) - Wage complaints 👍1  
 

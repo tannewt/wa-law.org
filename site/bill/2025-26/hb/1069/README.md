@@ -8,13 +8,13 @@
 
 ## Meetings
 ### Fri 01/17 10:30 AM - Labor & Workplace Standards (LAWS): HB 1069 Supp. retirement bargaining
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32397&aId=161175&caId=24669&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32397&aId=161175&caId=24669&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32397&aId=161175&caId=24669&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32397&aId=161175&caId=24669&tId=4)
-
-#### 179 👍 - Pro
+#### 201 👍 - Pro
+Testifying:
+* 💵Brenda Wiest
+* Julius Monroe
+* Brady McNeely
+* Christopher Malone
+* Daniel Hahn
 
 #### 0 👎 - Con
 

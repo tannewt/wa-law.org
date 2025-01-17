@@ -8,21 +8,19 @@
 
 ## Meetings
 ### Fri 01/17 10:30 AM - Housing (HSG): SB 5156 Elevators/smaller apartments
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32377&aId=161402&caId=24710&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32377&aId=161402&caId=24710&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32377&aId=161402&caId=24710&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32377&aId=161402&caId=24710&tId=4)
-
-#### 38 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Stephen Smith - Center for Building in North America
 * Markus Johnson
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* Aidan Thornsberry
 
-#### 4 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Steve Brooks - Washington Fire Chiefs
+* 💵Nicholas Gullickson - Washington State Council of Firefighters
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Tammy Fellin - Labor & Industries
+* Dustin Curb - Washington State Building Code Council

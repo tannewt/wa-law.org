@@ -135,7 +135,7 @@ Testifying:
 * Chase Buffington - Washington Outdoor School Coalition
 * 💵John Seng - [Spark Northwest](/org/spark_northwest/)
 * 💵Maud Daudon - Career Connect Washington
-* Catherine Morrison - Maxim Healthcare Services
+* 💵Catherine Morrison - Maxim Healthcare Services
 * Dewi Ali - Emerald Cities Collaborative
 * 💵John Seng - [Spark Northwest](/org/spark_northwest/)
 * 💵Brad Banks - Home Care Coalition

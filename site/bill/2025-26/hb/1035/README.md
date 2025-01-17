@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Fri 01/17 08:00 AM - Postsecondary Education & Workforce (PEW): HB 1035 Higher ed. traumatic stress
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161136&caId=24679&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161136&caId=24679&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161136&caId=24679&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161136&caId=24679&tId=4)
-
-#### 45 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Sue Nightingale Boe - Association of Higher Education, WEA
 * 💵Sue Nightingale - [Washington Education Association](/org/washington_education_association/)
+* Bill Lyne - [Washington Education Association](/org/washington_education_association/)
 
-#### 21 👎 - Con
+#### 22 👎 - Con
 
 #### 1 ❓ - Other

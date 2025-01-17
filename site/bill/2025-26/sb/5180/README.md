@@ -18,15 +18,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161536&caId=24731&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161536&caId=24731&tId=4)
 
-#### 18 👍 - Pro
+#### 128 👍 - Pro
 Testifying:
 * LINDEN JORDAN - PFLAG Skagit
+* Samantha Fogg - Seattle Council PTSA Co-President
+* Sara Betnel - Shoreline School Board
 
-#### 482 👎 - Con
+#### 568 👎 - Con
 Testifying:
 * Gabriel Jacobs
 * Sharon Damoff
 * Khushdip Brar
+* Trish Huddleston - Citizen Rights
 * Jennifer Heine-Withee
 
 #### 0 ❓ - Other

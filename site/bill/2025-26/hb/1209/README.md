@@ -11,18 +11,13 @@
 
 ## Meetings
 ### Fri 01/17 08:00 AM - Consumer Protection & Business (CPB): HB 1209 Sodium nitrite
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32418&aId=161397&caId=24709&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32418&aId=161397&caId=24709&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32418&aId=161397&caId=24709&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32418&aId=161397&caId=24709&tId=4)
-
-#### 144 👍 - Pro
+#### 152 👍 - Pro
 Testifying:
 * Carrie Goldberg - C.A. Goldberg, PLLC
 * Naomi Leeds - C.A.Goldberg, PLLC
 * Kaitlin Cherf - Washington State Association for Justice
 * Michelle Vasquez-Stickley
+* 💵Anna Nepomuceno - NAMI Washington
 
 #### 4 👎 - Con
 

@@ -7,6 +7,9 @@
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 * 👍💵 Morgan Hickel
 
+### [HB 1298](/bill/2025-26/hb/1298/) - Student athlete insurance 👍1  
+* 👍 Joe Dacca
+
 ### [SB 5158](/bill/2025-26/sb/5158/) - Student athlete insurance 👍1  
 * 👍 Joe Dacca
 

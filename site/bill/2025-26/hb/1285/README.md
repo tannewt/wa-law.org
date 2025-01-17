@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/17/2025 [The Center Square](/org/the_center_square/) - [Bipartisan bill would make financial literacy a graduation requirement in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1814b652-d504-11ef-8a97-57051ce4cf4c.html#:~:text=House%20Bill%201285)
+
 ## Meetings
 ### Thu 01/23 08:30 AM - Education (ED): HB 1285 Financial education
 Sign up to testify:
@@ -14,8 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161783&caId=24859&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161783&caId=24859&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Natalya Yudkovsky - Washington State PTA

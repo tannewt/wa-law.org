@@ -1,6 +1,10 @@
 # Columbia Legal Services
 ## 2025-26
 
+### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
+
+### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍1  
+
 ### [HB 1137](/bill/2025-26/hb/1137/) - Establishing uniform policies and procedures within department of corrections facilities relating to disciplinary proceedings and administrative segregation. 👍1  
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  
@@ -23,11 +27,15 @@
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
-## [SB 5131](/bill/2025-26/sb/5131/) - Religious foods/correctional 👍1  
+### [SB 5131](/bill/2025-26/sb/5131/) - Religious foods/correctional 👍1  
+
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
+
+## [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
 
 ## 2023-24
 
-### [SB 5131](/bill/2023-24/sb/5131/) - Religious foods/correctional 👍1  
+### [SB 5266](/bill/2023-24/sb/5266/) - Early release petitions 👍1  
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty   ❓2
 * ❓💵 Antonio Ginatta

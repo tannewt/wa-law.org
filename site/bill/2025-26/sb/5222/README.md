@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2025 [Real Change](/org/real_change/) - [Washington lawmakers to debate rent stabilization, affordable housing in new session | Jan. 15–21, 2025 | Real Change](https://www.realchangenews.org/news/2025/01/16/washington-lawmakers-debate-rent-stabilization-affordable-housing-new-session#:~:text=SB%205222)
 * 01/13/2025 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization Tops Washington Democrats’ Housing Agenda for 2025 Session - The Urbanist](https://www.theurbanist.org/2025/01/13/rent-stabilization-tops-washington-democrats-housing-agenda/#:~:text=SB%205222)
 * 01/10/2025 [The Center Square](/org/the_center_square/) - [Washington Democrats resurrect rent control proposal | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d20523b8-cf90-11ef-89a2-1b9e8fbb0c3b.html#:~:text=Senate%20Bill%205222)
 
@@ -18,14 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=4)
 
-#### 664 👍 - Pro
+#### 982 👍 - Pro
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner, AMHO
 * Kyle Lucas - Urban Indians NW & Tenants United at Western Plaza Mobile Home Park
 * david harms
 * Jani Hitchen - Jani Hitchen-Pierce County Council Chair
 
-#### 129 👎 - Con
+#### 599 👎 - Con
 Testifying:
 * Constance Nelson
 * Russ Millard
@@ -34,9 +35,17 @@ Testifying:
 * 💵Morgan Irwin - Association of Washington Business (AWB)
 * Riley Benge - Washington REALTORS
 * Dani Pro - The Rants Group
+* george shipley
+* Terri Simpson
 * Lori Brothers
 * Kristy neubo - Hidden Creek Apartments
 * john stiggelbout
 * Troy Peterson
+* Linda Aikens
+* Michael Gustavson
+* Gordon Bock - n/a
+* Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
 
-#### 6 ❓ - Other
+#### 9 ❓ - Other
+Testifying:
+* Tonya Hardwick

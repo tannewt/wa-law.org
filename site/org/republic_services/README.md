@@ -1,15 +1,15 @@
 # Republic Services
 ## 2025-26
 
-## [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍5  
+### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍5  
 * 👍💵 Natalie Hester
 * 👍 Wendy Weiker
+
+## [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes.  👎1 
 
 ## 2023-24
 
-### [HB 1071](/bill/2023-24/hb/1071/) - Recycling rates 👍5  
-* 👍💵 Natalie Hester
-* 👍 Wendy Weiker
+### [HB 1150](/bill/2023-24/hb/1150/) - Improving Washington's solid waste management outcomes.  👎1 
 
 ### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management  👎5 
 * 👎 Jay O'Neal

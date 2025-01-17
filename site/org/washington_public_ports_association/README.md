@@ -1,13 +1,16 @@
 # Washington Public Ports Association
 ## 2025-26
 
-## [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
+### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
 * 👍💵 Christopher Herman
+
+## [SB 5176](/bill/2025-26/sb/5176/) - Implementing prompt pay recommendations from the capital projects advisory review board. 👍1  
+* 👍 Chris Herman
 
 ## 2023-24
 
-### [HB 1057](/bill/2023-24/hb/1057/) - Access to federal funds 👍1  
-* 👍💵 Christopher Herman
+### [SB 5176](/bill/2023-24/sb/5176/) - Implementing prompt pay recommendations from the capital projects advisory review board. 👍1  
+* 👍 Chris Herman
 
 ### [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
 

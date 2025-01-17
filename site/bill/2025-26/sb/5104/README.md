@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161572&caId=24776&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161572&caId=24776&tId=4)
 
-#### 12 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Angelo Tadrous - Seattle University Workers' Rights Clinic
 * Elizabeth Ford - Seattle University Workers' Rights Committee

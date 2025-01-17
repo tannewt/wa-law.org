@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1321/</link>
 		<description>Updates about HB 1321</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 16 Jan 2025 04:24:38 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 17 Jan 2025 08:33:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jeff/Pack/2025-01-16 04:24:38</guid>
+		</item>
+		<item>
+			<title>👎Kenton Gartrell - Precinct Officer 102</title>
+			<description>Kenton Gartrell signed up to testify Con. They are signed up to represent Precinct Officer 102.</description>
+			<pubDate>Fri, 17 Jan 2025 08:33:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kenton/Gartrell/2025-01-17 08:33:37</guid>
 		</item>
 	</channel>
 </rss>

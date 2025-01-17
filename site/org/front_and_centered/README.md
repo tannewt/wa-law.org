@@ -4,11 +4,13 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Guillermo Rogel
 
-## [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+
+## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
 ## 2023-24
 
-### [HB 1217](/bill/2023-24/hb/1217/) - Residential tenants 👍1  
+### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

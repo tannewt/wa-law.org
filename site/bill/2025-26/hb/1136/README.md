@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Fri 01/17 08:00 AM - Postsecondary Education & Workforce (PEW): HB 1136 Student navigational support
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161137&caId=24680&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161137&caId=24680&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161137&caId=24680&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161137&caId=24680&tId=4)
-
-#### 65 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
 * Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * Bill Lyne - United Faculty of Washington State
@@ -31,8 +25,11 @@ Testifying:
 * Myle Tang - Stand for Children Washington
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
 * Sean Behl - Associated Students of the University of the Washington
+* Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
+* Mykhail Lembke
+* 💵Collin Bannister - ASWSU
 
-#### 281 👎 - Con
+#### 302 👎 - Con
 
 #### 7 ❓ - Other
 Testifying:

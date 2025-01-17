@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Fri 01/17 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1056 Law enf. misconduct
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32371&aId=161088&caId=24626&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32371&aId=161088&caId=24626&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32371&aId=161088&caId=24626&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32371&aId=161088&caId=24626&tId=4)
-
 #### 16 👍 - Pro
 
 #### 1 👎 - Con

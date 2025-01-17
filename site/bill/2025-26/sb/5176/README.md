@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/17 10:30 AM - State Government & Elections (SGE): SB 5176 Implementing prompt pay recommendations from the capital projects advisory review board. (Remote Testimony Available). (If measure is referred to committee.)
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32428&aId=161334&caId=24603&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32428&aId=161334&caId=24603&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32428&aId=161334&caId=24603&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32428&aId=161334&caId=24603&tId=4)
-
-#### 52 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * Jerry VanderWood - Associated General Contractors (AGC)
 * Van Collins - PO Box 65051
@@ -23,9 +17,15 @@ Testifying:
 * 💵Paula Sardinas - WBBA/TABOR 100
 * Jimmy Matta - Northwest Minority Builders Alliance (NWMBA)
 * Julius Brooks - Yates Consulting
+* 💵Axel Swanson - Washington State Association of County Engineers
+* 💵Paula Sardinas - WBBA/Tabor 100
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 2 👎 - Con
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
+* Katie Whittier - Clark Regional Wastewater District, Discovery Clean Water Alliance
+* 💵Joren Clowers
+* 💵Kelsey Hulse - [Association of Washington Cities](/org/association_of_washington_cities/)

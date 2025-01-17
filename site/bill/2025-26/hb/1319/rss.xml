@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1319/</link>
 		<description>Updates about HB 1319</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 15 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 17 Jan 2025 19:40:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,13 @@
 			<pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-15/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>A look into the Department of Revenue’s Wealth Tax Study - Economic Opportunity Institute Economic Opportunity Institute</title>
+			<description>News article "A look into the Department of Revenue’s Wealth Tax Study - Economic Opportunity Institute Economic Opportunity Institute" from Economic Opportunity Institute.</description>
+			<pubDate>Fri, 17 Jan 2025 19:40:05 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.opportunityinstitute.org/blog/post/wealth-tax-washington-state-revenue-study/#:~:text=HB%201319</guid>
 		</item>
 	</channel>
 </rss>

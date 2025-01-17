@@ -6,9 +6,10 @@
 ### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍1  
 * 👍💵 Simone Boe
 
-### [HB 1035](/bill/2025-26/hb/1035/) - Higher ed. traumatic stress 👍2  
+### [HB 1035](/bill/2025-26/hb/1035/) - Higher ed. traumatic stress 👍4  
 * 👍💵 Simone Boe
 * 👍💵 Sue Nightingale
+* 👍 Bill Lyne
 
 ### [HB 1036](/bill/2025-26/hb/1036/) - Labor trustees/colleges 👍2  
 * 👍💵 Simone Boe
@@ -25,7 +26,7 @@
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board. 👍1  
 
-### [HB 1136](/bill/2025-26/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment. 👍1  
+### [HB 1136](/bill/2025-26/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment. 👍2  
 * 👍💵 Simone Boe
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  

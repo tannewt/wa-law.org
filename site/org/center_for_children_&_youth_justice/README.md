@@ -1,6 +1,10 @@
 # Center for Children & Youth Justice
 ## 2025-26
 
+### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
+
+### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍1  
+
 ### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
@@ -8,13 +12,18 @@
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
 
-## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+### [SB 5149](/bill/2025-26/sb/5149/) - Early childhood court prg. 👍1  
+
+### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Nicholas Oakley
+
+### [SB 5199](/bill/2025-26/sb/5199/) - Providing compensation to members of the department of children, youth, and families oversight board with direct lived experience. 👍1  
+
+## [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
 
 ## 2023-24
 
-### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp.   ❓1
-* ❓ Nicholas Oakley
+### [SB 5266](/bill/2023-24/sb/5266/) - Early release petitions 👍1  
 
 ### [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 

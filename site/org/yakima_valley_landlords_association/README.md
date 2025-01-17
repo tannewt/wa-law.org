@@ -1,12 +1,15 @@
 # Yakima Valley Landlords Association
 ## 2025-26
 
-## [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1 👎1 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1 👎1 
+* 👎 Patricia Hoendermis
+
+## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants  👎1 
 * 👎 Patricia Hoendermis
 
 ## 2023-24
 
-### [HB 1217](/bill/2023-24/hb/1217/) - Residential tenants 👍1 👎1 
+### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants  👎1 
 * 👎 Patricia Hoendermis
 
 ### [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices  👎2 

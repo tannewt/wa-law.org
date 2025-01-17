@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161497&caId=24790&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161497&caId=24790&tId=4)
 
-#### 0 👍 - Pro
+#### 52 👍 - Pro
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Theresa Schrempp
 

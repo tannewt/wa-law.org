@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161747&caId=24761&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161747&caId=24761&tId=4)
 
-#### 25 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Catie Gould - [Sightline Institute](/org/sightline_institute/)
 * L Harrison Jerome
@@ -26,6 +26,9 @@ Testifying:
 * Jesse Simpson - Housing Development Consortium
 * Joe Kunzler
 * Ali Taysi
+* MATT HUTCHINS
+* MATT HUTCHINS
+* MATT HUTCHINS
 
 #### 1 👎 - Con
 Testifying:
