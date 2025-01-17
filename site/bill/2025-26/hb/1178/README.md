@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161443&caId=24837&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161443&caId=24837&tId=4)
 
-#### 1 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Jim Chambers
+* Percy Levy - [Washington Defender Association](/org/washington_defender_association/)
 
 #### 0 👎 - Con
 

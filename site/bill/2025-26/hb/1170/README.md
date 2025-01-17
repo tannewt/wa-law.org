@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32393&aId=161156&caId=24693&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32393&aId=161156&caId=24693&tId=4)
 
-#### 17 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Jai Jaisimha - Transparency Coalition.ai
 * Tom Kemp
 
-#### 12 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * Robert Singleton - Chamber of Progress
 * John Coleman - Foundation for Individual Rights and Expression

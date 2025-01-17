@@ -20,11 +20,13 @@
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎2 
 * 👎💵 Julia Gorton
 
-## [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍1  
+## [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍2  
+* 👍💵 Julia Gorton
 
 ## 2023-24
 
-### [SB 5070](/bill/2023-24/sb/5070/) - Interchange fees on tips 👍1  
+### [SB 5070](/bill/2023-24/sb/5070/) - Interchange fees on tips 👍2  
+* 👍💵 Julia Gorton
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  
 

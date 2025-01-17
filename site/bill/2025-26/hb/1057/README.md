@@ -19,13 +19,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32393&aId=161154&caId=24691&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32393&aId=161154&caId=24691&tId=4)
 
-#### 17 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Richa Sigdel - Pasco Deputy City Manager
 * Cassie Hammond - Port of Benton
 * Gary Ballew - Greater Spokane Inc.
 * KARL DYE - TRIDEC
+* 💵Christopher Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Stephanie Button - Historic Downtown Kennewick Partnership
+* 💵Harpreet Kaur - Washington Build Back Black Alliance (WBBA)
 
-#### 188 👎 - Con
+#### 280 👎 - Con
 
 #### 0 ❓ - Other

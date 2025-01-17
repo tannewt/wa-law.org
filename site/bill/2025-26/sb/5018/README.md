@@ -8,16 +8,13 @@
 
 ## Meetings
 ### Thu 01/16 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5018 County weed boards
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161025&caId=24597&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161025&caId=24597&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161025&caId=24597&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161025&caId=24597&tId=4)
-
 #### 1 👍 - Pro
 Testifying:
 * Jennifer Colvin
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Mary Fee - WA State Noxious Weed Control Board
+* Jennifer Mendoza

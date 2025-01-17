@@ -20,7 +20,7 @@
 * [SB 5232](sb/5232) - Firearms/purchase & transfer 7📰 1782👍 4345👎 2❓ - S Ways & Means
 * [HB 1333](hb/1333) - Domestic violent extremism 5📰 253👍 5451👎 12❓ - H Rules X
 * [HB 1389](hb/1389) - Residential rent increases 33📰 3125👍 2455👎 27❓ - H Rules X
-* [SB 5444](sb/5444) - Firearms/certain premises 23📰 2645👍 2865👎 4❓ - C 285 L 24
+* [SB 5444](sb/5444) - Firearms/certain premises 24📰 2645👍 2865👎 4❓ - C 285 L 24
 * [SB 5241](sb/5241) - Health care marketplace 29📰 3903👍 1435👎 6❓ - S Rules 3
 * [HB 1181](hb/1181) - Climate change/planning 26📰 4665👍 601👎 16❓ - C 228 L 23
 * [SB 5768](sb/5768) - DOC/abortion medications 20📰 1440👍 3668👎 7❓ - C 195 L 23
@@ -615,7 +615,7 @@
 * [HB 2348](hb/2348) - County hospital funding 5📰 71👍 146👎 0❓ - C 361 L 24
 * [SB 5390](sb/5390) - Establishing a programmatic safe harbor agreement on forestlands. 188👍 29👎 0❓ - C 119 L 23
 * [SB 5960](sb/5960) - Prescription labels/abortion 2📰 197👍 20👎 0❓ - S Rules X
-* [HB 1351](hb/1351) - Minimum parking requirements 11📰 194👍 20👎 2❓ - H Local Govt
+* [HB 1351](hb/1351) - Minimum parking requirements 12📰 194👍 20👎 2❓ - H Local Govt
 * [SB 5256](sb/5256) - Child welfare housing 3📰 214👍 2👎 0❓ - C 321 L 23
 * [SB 5129](sb/5129) - Nuclear reactor technology 59👍 155👎 1❓ - S Rules X
 * [SB 5392](sb/5392) - Concerning overpayments for certain matters. 208👍 2👎 3❓ - C 278 L 23

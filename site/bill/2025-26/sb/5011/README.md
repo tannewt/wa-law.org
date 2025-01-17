@@ -14,10 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32428&aId=161281&caId=24602&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32428&aId=161281&caId=24602&tId=4)
 
-#### 446 👍 - Pro
+#### 472 👍 - Pro
 Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 10 👎 - Con
+#### 14 👎 - Con
 
-#### 1 ❓ - Other
+#### 6 ❓ - Other

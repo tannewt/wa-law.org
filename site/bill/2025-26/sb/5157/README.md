@@ -8,21 +8,17 @@
 
 ## Meetings
 ### Thu 01/16 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5157 Habitat restoration material
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32407&aId=161410&caId=24717&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32407&aId=161410&caId=24717&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32407&aId=161410&caId=24717&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32407&aId=161410&caId=24717&tId=4)
-
-#### 10 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)
 * 💵Alexei Calambokidis - [Trout Unlimited](/org/trout_unlimited/)
 * Jessica Helsley - [Wild Salmon Center](/org/wild_salmon_center/)
 * Brock Milliern - Recreation and Conservation Office
+* Don Gourlie - Puget Sound Partnership
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Ed Bowen
+* 💵Heath Heikkila - American Forest Resource Council

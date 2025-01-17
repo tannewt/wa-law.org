@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5186/</link>
 		<description>Updates about SB 5186</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 16 Jan 2025 08:52:53 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 16 Jan 2025 21:07:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -178,6 +178,29 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Julie/Salvi/2025-01-16 08:52:53</guid>
+		</item>
+		<item>
+			<title>👍Charlie Brown - Tacoma, Clover Park, Orting, Puyallup and other School Districts</title>
+			<description>Charlie Brown signed up to testify Pro. They are signed up to represent Tacoma, Clover Park, Orting, Puyallup and other School Districts.</description>
+			<pubDate>Thu, 16 Jan 2025 09:09:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Charlie/Brown/2025-01-16 09:09:34</guid>
+		</item>
+		<item>
+			<title>👍Mikhail Cherniske - OSPI</title>
+			<description>Mikhail Cherniske signed up to testify Pro. They are signed up to represent OSPI.</description>
+			<pubDate>Thu, 16 Jan 2025 11:48:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mikhail/Cherniske/2025-01-16 11:48:13</guid>
+		</item>
+		<item>
+			<title>Krishnadasan bill to lower school bond threshold heard in committee - Sen. Deborah Krishnadasan</title>
+			<description>News article "Krishnadasan bill to lower school bond threshold heard in committee - Sen. Deborah Krishnadasan" from Senate Democrats.</description>
+			<pubDate>Thu, 16 Jan 2025 21:07:29 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/Krishnadasan/2025/01/16/krishnadasan-bill-to-lower-school-bond-threshold-heard-in-committee/#:~:text=Legislation</guid>
 		</item>
 	</channel>
 </rss>

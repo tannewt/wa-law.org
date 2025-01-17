@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161447&caId=24841&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161447&caId=24841&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Oscar Aguirre - King County Bar Association Records Project
+* Alex Uskoski - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 
 #### 0 ❓ - Other

@@ -20,6 +20,9 @@
 ### [HB 1209](/bill/2025-26/hb/1209/) - Sodium nitrite   ❓1
 * ❓💵 Crystal Leatherman
 
+### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍1  
+* 👍💵 Crystal Leatherman
+
 ## [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 
 ## 2023-24

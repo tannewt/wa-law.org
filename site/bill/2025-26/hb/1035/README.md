@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161136&caId=24679&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32387&aId=161136&caId=24679&tId=4)
 
-#### 38 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Sue Nightingale Boe - Association of Higher Education, WEA
 * 💵Sue Nightingale - [Washington Education Association](/org/washington_education_association/)
 
-#### 13 👎 - Con
+#### 21 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

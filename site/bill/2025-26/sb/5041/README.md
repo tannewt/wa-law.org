@@ -14,10 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161575&caId=24779&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161575&caId=24779&tId=4)
 
-#### 4 👍 - Pro
+#### 228 👍 - Pro
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Elizabeth New - Washington Policy Center
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

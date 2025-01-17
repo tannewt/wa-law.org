@@ -8,7 +8,7 @@
 
 ### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍2  
 
-### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers  👎1 
+### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers  👎2 
 * 👎💵 Lindsey Hueer
 
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates   ❓1

@@ -16,8 +16,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Lynn Fitz-Hugh - Restoring Earth Connection
+* Charlotte Persons
 
 #### 0 ❓ - Other

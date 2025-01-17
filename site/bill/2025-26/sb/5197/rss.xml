@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5197/</link>
 		<description>Updates about SB 5197</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 16 Jan 2025 07:48:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,14 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>❓John worthington - The Port of Tacoma</title>
+			<description>John worthington signed up to testify Other.</description>
+			<pubDate>Thu, 16 Jan 2025 07:48:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/John/worthington/2025-01-16 07:48:00</guid>
 		</item>
 	</channel>
 </rss>

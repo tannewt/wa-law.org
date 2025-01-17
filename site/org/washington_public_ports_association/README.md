@@ -1,291 +1,300 @@
 # Washington Public Ports Association
+## 2025-26
 
-## [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
+## [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
+* 👍💵 Christopher Herman
 
-## [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization   ❓2
+## 2023-24
+
+### [HB 1057](/bill/2023-24/hb/1057/) - Access to federal funds 👍1  
+* 👍💵 Christopher Herman
+
+### [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
+
+### [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization   ❓2
 * ❓ Chris Herman
 * ❓ Chris Herman
 
-## [HB 1081](/bill/2023-24/hb/1081/) - Derelict vessel appeals 👍1  
+### [HB 1081](/bill/2023-24/hb/1081/) - Derelict vessel appeals 👍1  
 
-## [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍1  ❓1
+### [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍1  ❓1
 * ❓ Chris Herman
 * 👍💵 Christopher Herman
 
-## [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1 👎1 
+### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1 👎1 
 * 👎💵 John Stuhlmiller
 
-## [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓2
+### [HB 1099](/bill/2023-24/hb/1099/) - Public works wages   ❓2
 * ❓ Chris Herman
 * ❓ Chris Herman
 
-## [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍2  ❓1
+### [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍2  ❓1
 * 👍 Chris Herman
 * 👍 Chris Herman
 
-## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
+### [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
 * 👍💵 John Stuhlmiller
 
-## [HB 1175](/bill/2023-24/hb/1175/) - Petroleum storage tanks 👍1  
+### [HB 1175](/bill/2023-24/hb/1175/) - Petroleum storage tanks 👍1  
 
-## [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍4  
+### [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting 👍4  
 * 👍 Eric ffitch
 * 👍 Eric ffitch
 
-## [HB 1231](/bill/2023-24/hb/1231/) - Site readiness grants 👍1  
+### [HB 1231](/bill/2023-24/hb/1231/) - Site readiness grants 👍1  
 
-## [HB 1257](/bill/2023-24/hb/1257/) - Cargo and passenger ports 👍2  
+### [HB 1257](/bill/2023-24/hb/1257/) - Cargo and passenger ports 👍2  
 * 👍 Eric fftich
 * 👍 Eric ffitch
 
-## [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍3  
+### [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍3  
 
-## [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍3  
+### [HB 1267](/bill/2023-24/hb/1267/) - Rural public facilities/tax 👍3  
 * 👍 Chris Herman
 * 👍 Chris Herman
 
-## [HB 1303](/bill/2023-24/hb/1303/) - Property tax administration   ❓1
+### [HB 1303](/bill/2023-24/hb/1303/) - Property tax administration   ❓1
 
-## [HB 1306](/bill/2023-24/hb/1306/) - Public works procurement 👍1  
+### [HB 1306](/bill/2023-24/hb/1306/) - Public works procurement 👍1  
 
-## [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍3  
+### [HB 1371](/bill/2023-24/hb/1371/) - Freight railroad infra. 👍3  
 * 👍 Chris Herman
 * 👍 Chris Herman
 * 👍 Chris Herman
 
-## [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  ❓1
+### [HB 1378](/bill/2023-24/hb/1378/) - Derelict aquatic structures 👍2  ❓1
 * ❓💵 John Stuhlmiller
 
-## [HB 1395](/bill/2023-24/hb/1395/) - Aircraft fuel tax distrib. 👍1  
+### [HB 1395](/bill/2023-24/hb/1395/) - Aircraft fuel tax distrib. 👍1  
 
-## [HB 1457](/bill/2023-24/hb/1457/) - Motor carriers/restrooms 👍2  
+### [HB 1457](/bill/2023-24/hb/1457/) - Motor carriers/restrooms 👍2  
 
-## [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
+### [HB 1505](/bill/2023-24/hb/1505/) - Alternative jet fuel 👍1  
 * 👍 eric ffitch
 
-## [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
+### [HB 1527](/bill/2023-24/hb/1527/) - Tax increment financing 👍1  
 * 👍 Chris Herman
 
-## [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts  👎3 ❓1
+### [HB 1554](/bill/2023-24/hb/1554/) - Lead impacts  👎3 ❓1
 * 👎 Chris Herman
 * 👎 Chris Herman
 
-## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology 👍2  
+### [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology 👍2  
 
-## [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources 👍1  
+### [HB 1619](/bill/2023-24/hb/1619/) - Renewable energy resources 👍1  
 
-## [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
+### [HB 1644](/bill/2023-24/hb/1644/) - Margin tax  👎1 
 * 👎 Chris Herman
 
-## [HB 1663](/bill/2023-24/hb/1663/) - Consolidated port districts 👍4  
+### [HB 1663](/bill/2023-24/hb/1663/) - Consolidated port districts 👍4  
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍4  
+### [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍4  
 
-## [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍5  
+### [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍5  
 * 👍 Chris Herman
 * 👍 Chris Herman
 * 👍 Chris Herman
 * 👍 Chris Herman
 
-## [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍2  
+### [HB 1753](/bill/2023-24/hb/1753/) - Derelict vessel notices 👍2  
 
-## [HB 1767](/bill/2023-24/hb/1767/) - Federal funding opps. 👍1  
+### [HB 1767](/bill/2023-24/hb/1767/) - Federal funding opps. 👍1  
 
-## [HB 1778](/bill/2023-24/hb/1778/) - Economic resilience planning 👍1  
+### [HB 1778](/bill/2023-24/hb/1778/) - Economic resilience planning 👍1  
 * 👍 Chris Herman
 
-## [HB 1787](/bill/2023-24/hb/1787/) - Transport and delivery 👍1  
+### [HB 1787](/bill/2023-24/hb/1787/) - Transport and delivery 👍1  
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍3 👎2 
+### [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍3 👎2 
 * 👎 Eric ffitch
 * 👍💵 John Stuhlmiller
 * 👍 Eric ffitch
 
-## [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
+### [HB 1791](/bill/2023-24/hb/1791/) - Commercial aviation services 👍1  
 
-## [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓2
+### [HB 1832](/bill/2023-24/hb/1832/) - Vehicle per mile charge   ❓2
 * ❓💵 Marian Dacca
 * ❓ Eric ffitch
 
-## [HB 1838](/bill/2023-24/hb/1838/) - Transp. revenue forecast 👍2  
+### [HB 1838](/bill/2023-24/hb/1838/) - Transp. revenue forecast 👍2  
 
-## [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
+### [HB 1839](/bill/2023-24/hb/1839/) - Train length  👎1 
 
-## [HB 1863](/bill/2023-24/hb/1863/) - Concerning payment for surveys of state-owned aquatic lands by current or prospective lessees of such lands. 👍1  
+### [HB 1863](/bill/2023-24/hb/1863/) - Concerning payment for surveys of state-owned aquatic lands by current or prospective lessees of such lands. 👍1  
 
-## [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍3  
+### [HB 1870](/bill/2023-24/hb/1870/) - Local comm. federal funding 👍3  
 
-## [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
+### [HB 1896](/bill/2023-24/hb/1896/) - Tourism marketing funding 👍2  
 
-## [HB 1906](/bill/2023-24/hb/1906/) - Vessel length/nonresident 👍2  
+### [HB 1906](/bill/2023-24/hb/1906/) - Vessel length/nonresident 👍2  
 * 👍💵 James Cockburn
 
-## [HB 1912](/bill/2023-24/hb/1912/) - Economic development info. 👍1  
+### [HB 1912](/bill/2023-24/hb/1912/) - Economic development info. 👍1  
 
-## [HB 1919](/bill/2023-24/hb/1919/) - Private moorage/abandonment 👍1  
+### [HB 1919](/bill/2023-24/hb/1919/) - Private moorage/abandonment 👍1  
 
-## [HB 1978](/bill/2023-24/hb/1978/) - Adding special purpose and junior taxing districts to the intrastate mutual aid system. 👍1  
+### [HB 1978](/bill/2023-24/hb/1978/) - Adding special purpose and junior taxing districts to the intrastate mutual aid system. 👍1  
 
-## [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍3  
+### [HB 1982](/bill/2023-24/hb/1982/) - Broadband loans & grants 👍3  
 * 👍 Chris Herman
 
-## [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities.   ❓2
+### [HB 1987](/bill/2023-24/hb/1987/) - Concerning the use of moneys from the rural public facilities sales and use tax for affordable workforce housing infrastructure and facilities.   ❓2
 * ❓ Chris Herman
 
-## [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
+### [HB 2000](/bill/2023-24/hb/2000/) - International leadership 👍1  
 
-## [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍1  ❓1
+### [HB 2020](/bill/2023-24/hb/2020/) - Public infra. assistance prg 👍1  ❓1
 * ❓ Chris Herman
 
-## [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍2  
+### [HB 2039](/bill/2023-24/hb/2039/) - Env. & land use appeals 👍2  
 * 👍💵 Carly Michiels
 
-## [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects   ❓1
+### [HB 2070](/bill/2023-24/hb/2070/) - Env. justice/SEPA projects   ❓1
 * ❓💵 Carly Michiels
 
-## [HB 2087](/bill/2023-24/hb/2087/) - Apprenticeship objections 👍1  
+### [HB 2087](/bill/2023-24/hb/2087/) - Apprenticeship objections 👍1  
 
-## [HB 2103](/bill/2023-24/hb/2103/) - Large port districts  👎1 
+### [HB 2103](/bill/2023-24/hb/2103/) - Large port districts  👎1 
 * 👎 Eric ffitch
 
-## [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
+### [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp.   ❓1
 * ❓💵 Carly Michiels
 
-## [HB 2120](/bill/2023-24/hb/2120/) - Clean energy manufacturers 👍1  
+### [HB 2120](/bill/2023-24/hb/2120/) - Clean energy manufacturers 👍1  
 
-## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp.   ❓1
+### [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp.   ❓1
 * ❓ Chris Herman
 
-## [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
+### [HB 2313](/bill/2023-24/hb/2313/) - Digital equity 👍1  
 
-## [HB 2341](/bill/2023-24/hb/2341/) - Offshore wind dev. study   ❓1
+### [HB 2341](/bill/2023-24/hb/2341/) - Offshore wind dev. study   ❓1
 * ❓ Eric ffitch
 
-## [HB 2393](/bill/2023-24/hb/2393/) - Unleaded aircraft fuel/tax 👍1  
+### [HB 2393](/bill/2023-24/hb/2393/) - Unleaded aircraft fuel/tax 👍1  
 * 👍 Chris Herman
 
-## [HB 2417](/bill/2023-24/hb/2417/) - Renewable energy loans 👍2  
+### [HB 2417](/bill/2023-24/hb/2417/) - Renewable energy loans 👍2  
 
-## [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
+### [SB 5047](/bill/2023-24/sb/5047/) - Voting rights act   ❓1
 * ❓ Eric ffitch
 
-## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍2  
+### [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍2  
 
-## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology 👍1  
+### [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology 👍1  
 
-## [SB 5133](/bill/2023-24/sb/5133/) - Responsible bidder criteria   ❓2
+### [SB 5133](/bill/2023-24/sb/5133/) - Responsible bidder criteria   ❓2
 * ❓ Chris Herman
 * ❓ Chris Herman
 
-## [SB 5159](/bill/2023-24/sb/5159/) - Shoreline program review 👍1  
+### [SB 5159](/bill/2023-24/sb/5159/) - Shoreline program review 👍1  
 
-## [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  ❓1
+### [SB 5162](/bill/2023-24/sb/5162/) - Transportation budget 👍1  ❓1
 * 👍 Chris Herman
 
-## [SB 5192](/bill/2023-24/sb/5192/) - Derelict vessel appeals 👍2  
+### [SB 5192](/bill/2023-24/sb/5192/) - Derelict vessel appeals 👍2  
 
-## [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍2  
+### [SB 5200](/bill/2023-24/sb/5200/) - Capital budget 👍2  
 * 👍 Eric ffitch
 * 👍 Eric ffitch
 
-## [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍4  
+### [SB 5229](/bill/2023-24/sb/5229/) - Site readiness grants 👍4  
 * 👍 Chris Herman
 * 👍 Chris Herman
 * 👍 Chris Herman
 
-## [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍2  
+### [SB 5268](/bill/2023-24/sb/5268/) - Public works procurement 👍2  
 * 👍 Chris Herman
 
-## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  
+### [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍1  
 
-## [SB 5287](/bill/2023-24/sb/5287/) - Wind turbine blade recycling 👍2  
+### [SB 5287](/bill/2023-24/sb/5287/) - Wind turbine blade recycling 👍2  
 
-## [SB 5379](/bill/2023-24/sb/5379/) - Associate development orgs. 👍2  
+### [SB 5379](/bill/2023-24/sb/5379/) - Associate development orgs. 👍2  
 
-## [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
+### [SB 5380](/bill/2023-24/sb/5380/) - Clean energy siting 👍1  
 * 👍💵 John Stuhlmiller
 
-## [SB 5406](/bill/2023-24/sb/5406/) - Clarifying ambiguities in statutory provisions administered by the department of revenue relating to periodic adjustments. 👍1  
+### [SB 5406](/bill/2023-24/sb/5406/) - Clarifying ambiguities in statutory provisions administered by the department of revenue relating to periodic adjustments. 👍1  
 * 👍 Chris Herman
 
-## [SB 5407](/bill/2023-24/sb/5407/) - Concerning the administration of property taxes.   ❓1
+### [SB 5407](/bill/2023-24/sb/5407/) - Concerning the administration of property taxes.   ❓1
 * ❓ Chris Herman
 
-## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
+### [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work  👎1 
 * 👎 Chris Herman
 
-## [SB 5429](/bill/2023-24/sb/5429/) - Motor carriers/restrooms 👍1  
+### [SB 5429](/bill/2023-24/sb/5429/) - Motor carriers/restrooms 👍1  
 
-## [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  ❓1
+### [SB 5433](/bill/2023-24/sb/5433/) - Derelict aquatic structures 👍1  ❓1
 * ❓💵 John Stuhlmiller
 
-## [SB 5437](/bill/2023-24/sb/5437/) - Special districts/vacancies   ❓1
+### [SB 5437](/bill/2023-24/sb/5437/) - Special districts/vacancies   ❓1
 
-## [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍4  
+### [SB 5447](/bill/2023-24/sb/5447/) - Alternative jet fuel 👍4  
 * 👍 Eric ffitch
 * 👍 Eric ffitch
 
-## [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍2  
+### [SB 5465](/bill/2023-24/sb/5465/) - Tourism marketing 👍2  
 
-## [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
+### [SB 5482](/bill/2023-24/sb/5482/) - Margin tax  👎1 
 * 👎 Chris Herman
 
-## [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍2  
+### [SB 5494](/bill/2023-24/sb/5494/) - Freight railroad infra. 👍2  
 * 👍 Chris Herman
 * 👍 Chris Herman
 
-## [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  
+### [SB 5539](/bill/2023-24/sb/5539/) - Tax increment financing 👍1  
 * 👍 Eric ffitch
 
-## [SB 5577](/bill/2023-24/sb/5577/) - Capital broadband program 👍1  
+### [SB 5577](/bill/2023-24/sb/5577/) - Capital broadband program 👍1  
 
-## [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  
+### [SB 5613](/bill/2023-24/sb/5613/) - Rural public facilities/tax 👍1  
 
-## [SB 5659](/bill/2023-24/sb/5659/) - Gas companies/renewable res. 👍1  
+### [SB 5659](/bill/2023-24/sb/5659/) - Gas companies/renewable res. 👍1  
 
-## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands.  👎1 
+### [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands.  👎1 
 * 👎 Eric ffitch
 
-## [SB 5726](/bill/2023-24/sb/5726/) - Prevailing wage/public works   ❓1
+### [SB 5726](/bill/2023-24/sb/5726/) - Prevailing wage/public works   ❓1
 
-## [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
+### [SB 5770](/bill/2023-24/sb/5770/) - Property tax 👍1  
 
-## [SB 5817](/bill/2023-24/sb/5817/) - Economic development info. 👍1  
+### [SB 5817](/bill/2023-24/sb/5817/) - Economic development info. 👍1  
 
-## [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
+### [SB 5947](/bill/2023-24/sb/5947/) - Transportation budget, supp.   ❓1
 * ❓ Chris Herman
 
-## [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
+### [SB 5950](/bill/2023-24/sb/5950/) - Operating budget, supp.   ❓1
 * ❓💵 Carly Michiels
 
-## [SB 5955](/bill/2023-24/sb/5955/) - Large port districts  👎1 
+### [SB 5955](/bill/2023-24/sb/5955/) - Large port districts  👎1 
 * 👎 Eric ffitch
 
-## [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects   ❓1
+### [SB 5990](/bill/2023-24/sb/5990/) - Env. justice/SEPA projects   ❓1
 * ❓💵 Carly Michiels
 
-## [SB 6040](/bill/2023-24/sb/6040/) - Public works payments   ❓1
+### [SB 6040](/bill/2023-24/sb/6040/) - Public works payments   ❓1
 * ❓ Chris Herman
 
-## [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply   ❓1
+### [SB 6052](/bill/2023-24/sb/6052/) - Petroleum product supply   ❓1
 * ❓💵 Carly Michiels
 
-## [SB 6055](/bill/2023-24/sb/6055/) - Natural resource indus. dev. 👍1  
+### [SB 6055](/bill/2023-24/sb/6055/) - Natural resource indus. dev. 👍1  
 
-## [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍2  
+### [SB 6080](/bill/2023-24/sb/6080/) - Tourism marketing funding 👍2  
 
-## [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
+### [SB 6168](/bill/2023-24/sb/6168/) - International leadership 👍1  
 
-## [SB 6192](/bill/2023-24/sb/6192/) - Construction change orders   ❓1
+### [SB 6192](/bill/2023-24/sb/6192/) - Construction change orders   ❓1
 * ❓ Chris Herman
 
-## [SB 6202](/bill/2023-24/sb/6202/) - Tourism promotion exemptions 👍1  
+### [SB 6202](/bill/2023-24/sb/6202/) - Tourism promotion exemptions 👍1  
 
-## [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍2  
+### [SB 6302](/bill/2023-24/sb/6302/) - Supply chain competitiveness 👍2  
 * 👍 Chris Herman
 * 👍 Chris Herman
 
-## [SB 6303](/bill/2023-24/sb/6303/) - Energy storage manufacturing 👍1  
+### [SB 6303](/bill/2023-24/sb/6303/) - Energy storage manufacturing 👍1  
 
 ## [SJM 8009](/bill/2023-24/sjm/8009/) - Harbor maintenance tax 👍1  
 * 👍 Chris Herman

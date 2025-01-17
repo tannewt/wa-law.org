@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/16/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Bill Would Cap Excessive Parking Mandates Around the State  | Sightline Institute](https://www.sightline.org/2025/01/16/washington-bill-would-cap-excessive-parking-mandates-around-the-state/#:~:text=HB%201299)
+
 ## Meetings

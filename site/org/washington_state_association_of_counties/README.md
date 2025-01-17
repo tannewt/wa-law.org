@@ -9,12 +9,15 @@
 
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review   ❓1
 
-## [SB 5098](/bill/2025-26/sb/5098/) - Restricting the possession of weapons on the premises of state or local public buildings, parks or playground facilities where children are likely to be present, and county fairs and county fair facilities.   ❓1
+### [SB 5089](/bill/2025-26/sb/5089/) - Concerning funding rural county coroners and medical examiners. 👍1  
+* 👍💵 Paul Jewell
+
+## [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas   ❓1
 * ❓💵 Paul Jewell
 
 ## 2023-24
 
-### [SB 5098](/bill/2023-24/sb/5098/) - Restricting the possession of weapons on the premises of state or local public buildings, parks or playground facilities where children are likely to be present, and county fairs and county fair facilities.   ❓1
+### [SB 5098](/bill/2023-24/sb/5098/) - Weapons in certain areas   ❓1
 * ❓💵 Paul Jewell
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  

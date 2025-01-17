@@ -8,21 +8,16 @@
 
 ## Meetings
 ### Thu 01/16 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5055 Agritourism
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161021&caId=24593&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161021&caId=24593&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161021&caId=24593&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32345&aId=161021&caId=24593&tId=4)
-
-#### 20 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Robby Rutledge
 * Cory Wright - Kittitas County
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Scott Luckie - Luckie Farms
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Keith Stocker - Stocker Farms, Inc
 
 #### 2 ❓ - Other
 Testifying:

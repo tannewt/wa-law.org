@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5065/</link>
 		<description>Updates about SB 5065</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 06:00:22 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 16 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -140,6 +140,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Robert/McCormick/2025-01-13 06:00:22</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-16/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

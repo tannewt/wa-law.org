@@ -19,6 +19,9 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Candice Bock
 
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
+* ❓💵 Carl Schroeder
+
 ### [HB 1218](/bill/2025-26/hb/1218/) - Concerning persons referred for competency evaluation and restoration services.  👎1 
 * 👎💵 Candice Bock
 

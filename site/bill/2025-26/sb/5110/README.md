@@ -8,17 +8,12 @@
 
 ## Meetings
 ### Thu 01/16 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5110 Tribal elder tuition waivers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161084&caId=24572&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161084&caId=24572&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161084&caId=24572&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161084&caId=24572&tId=4)
-
-#### 42 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Krista Francis - Peninsula College
 * Maya Esquivido - WA State Board for Community and Technical Colleges
+* Cathleen MacCaul - AARP Washington State
 
-#### 267 👎 - Con
+#### 274 👎 - Con
 
 #### 0 ❓ - Other

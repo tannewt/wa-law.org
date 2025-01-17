@@ -18,13 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32393&aId=161155&caId=24692&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32393&aId=161155&caId=24692&tId=4)
 
-#### 18 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Jai Jaisimha - Transparency Coalition.ai
 * Mihai-Alexandru Radu
 * Zachary McKay - Lake Washington High School
+* Nathan Guan
 
-#### 5 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * 💵Kelly Fukai - WATECH
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)

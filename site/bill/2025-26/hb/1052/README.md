@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2025 [The Center Square](/org/the_center_square/) - [Washington hate crime bill advances through House committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_96c2967e-d444-11ef-b397-0f9fc918d5b2.html#:~:text=House%20Bill%201052)
 * 01/14/2025 [The Center Square](/org/the_center_square/) - [Washington bill would broaden definition of ‘hate crime’ under existing law | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fdba083e-d297-11ef-b60e-47a8dd3b96b4.html#:~:text=House%20Bill%201052)
 * 01/13/2025 [MyNorthwest](/org/mynorthwest/) - ['Bias' can be factor in proposed Washington hate crime bill](https://mynorthwest.com/mynorthwest-politics/perception-and-bias-can-be-factors-in-proposed-state-hate-crime-bill/4028286#:~:text=HB%201052)
 

@@ -17,12 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161539&caId=24734&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161539&caId=24734&tId=4)
 
-#### 4 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Advaita Mattam
 * Moritz Maszhold
 * Eric Marcu - Lake Washington High School
 * Gajanan Dhongade - Lake Washington High School
+* Dr. Concie Pedroza - Superintendent, Tukwila School District
+* Dr. Danni Pfeiffer - Superintendent, Federal Way School District
+* Dr. Ivan Duran - Superintendent, Highline School District
+* Dr. Kelly Aramaki - Superintendent, Bellevue School District
+* Dr. Brent Jones - Superintendent, Seattle Public Schools
+* Angela Steck - President, Washington State PTA
+* 💵Joel Aune - Executive Director, Washington Association of School Administrators
+* Tricia Lubach - Executive Director, Washington State School Directors' Association
 
 #### 0 👎 - Con
 

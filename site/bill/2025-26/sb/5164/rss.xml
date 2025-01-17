@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5164/</link>
 		<description>Updates about SB 5164</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 15 Jan 2025 09:43:02 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 16 Jan 2025 23:08:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -147,6 +147,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/monica/yu/2025-01-15 09:43:02</guid>
+		</item>
+		<item>
+			<title>Nobles bill to expand postsecondary access heard in committee - Sen. T’wina Nobles</title>
+			<description>News article "Nobles bill to expand postsecondary access heard in committee - Sen. T’wina Nobles" from Senate Democrats.</description>
+			<pubDate>Thu, 16 Jan 2025 23:08:49 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/01/16/nobles-bill-to-expand-postsecondary-access-heard-in-committee/#:~:text=Senate%20Bill%205164</guid>
 		</item>
 	</channel>
 </rss>

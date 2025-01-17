@@ -60,7 +60,7 @@
 ### [SB 5134](/bill/2025-26/sb/5134/) - Chinese Americans/schools   ❓1
 * ❓💵 Nasue Nishida
 
-### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
+### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍2  
 * 👍💵 Simone Boe
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 

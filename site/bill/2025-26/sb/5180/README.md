@@ -18,12 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161536&caId=24731&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161536&caId=24731&tId=4)
 
-#### 0 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* LINDEN JORDAN - PFLAG Skagit
 
-#### 342 👎 - Con
+#### 482 👎 - Con
 Testifying:
 * Gabriel Jacobs
 * Sharon Damoff
+* Khushdip Brar
 * Jennifer Heine-Withee
 
 #### 0 ❓ - Other

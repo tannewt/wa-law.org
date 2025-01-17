@@ -20,10 +20,12 @@ Testifying:
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 
-#### 69 👎 - Con
+#### 79 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
+* Atul Deshmane - Private Citizen
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Heather Alvis - Electra
 
 ### Wed 01/15 08:00 AM - Environment, Energy & Technology (ENET): SB 5175 Photovoltaic modules

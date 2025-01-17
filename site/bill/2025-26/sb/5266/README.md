@@ -14,7 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32436&aId=161674&caId=24765&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32436&aId=161674&caId=24765&tId=4)
 
-#### 2 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Randy Roberson III - TVW's Capitol Classroom
+* Katie Hurley - King County Department of Public Defense
+* Elisa Cozad - TeamChild
+* Blake Hoffman - TVW's Capitol Classroom
+* Caya Lenay - TVW's Capitol Classroom
+* Kahlev Elkhanon - TVW's Capitol Classroom
+* Moses Mutel - TVW's Capitol Classroom
 
 #### 0 👎 - Con
 

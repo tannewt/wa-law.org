@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32418&aId=161239&caId=24644&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32418&aId=161239&caId=24644&tId=4)
 
-#### 9 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Bea Nahon
 * David Forte - Office of the Insurance Commissioner
@@ -22,4 +22,6 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* John Fielding - North American Pet Health Insurance Association (NAPHIA)

@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* [Real Change](/org/real_change/) - [Decriminalizing Homelessness | Real Change](https://www.realchangenews.org/decriminalizing-homelessness#:~:text=Encampment%20Removal%20Funding (HB%201255))
+
 ## Meetings

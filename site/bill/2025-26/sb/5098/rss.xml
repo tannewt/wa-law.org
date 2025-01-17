@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5098 - Restricting the possession of weapons on the premises of state or local public buildings, parks or playground facilities where children are likely to be present, and county fairs and county fair facilities.</title>
+		<title>SB 5098 - Weapons in certain areas</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5098/</link>
 		<description>Updates about SB 5098</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 15 Jan 2025 05:36:03 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 17 Jan 2025 00:46:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -526,6 +526,20 @@
 			<pubDate>Wed, 15 Jan 2025 05:36:03 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.kiro7.com/news/local/washington-lawmakers-propose-an-expansion-gun-free-zones-protect-public-places/EBMLNJUNJBCANNAHUJQXCJJFOU/#:~:text=Senate%20Bill%205098</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-16/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>WA bill with new gun-free zones where kids are present moves on</title>
+			<description>News article "WA bill with new gun-free zones where kids are present moves on" from MyNorthwest.</description>
+			<pubDate>Fri, 17 Jan 2025 00:46:36 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/mynorthwest-politics/washington-senate-bill-with-new-gun-free-zones-parks-where-kids-are-present-moves-ahead/4029716#:~:text=SB%205098</guid>
 		</item>
 	</channel>
 </rss>

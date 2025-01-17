@@ -8,19 +8,14 @@
 
 ## Meetings
 ### Thu 01/16 10:30 AM - Early Learning & K-12 Education (EDU): SB 5190 Allowing school districts to request extensions to state energy performance standard deadlines for K-12 school buildings. (Remote Testimony Available). (If measure is referred to committee.)
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161396&caId=24708&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161396&caId=24708&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161396&caId=24708&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161396&caId=24708&tId=4)
-
-#### 26 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Grace Yuan - Puget Sound School Coalition
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 * Devlin Piplic - WA Assn of Maintenance and Operation Administrators
 * Michael Knaack - WA Assn of Maintenance and Operation Administrators
 * 💵Mitch Denning - Alliance of Educational Associations
+* Charlie Brown - Tacoma, Puyallup, Clover Park, Bethel and other School Districts
 
 #### 0 👎 - Con
 

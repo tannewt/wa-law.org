@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/16/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Lawmakers again trying to lower legal alcohol limit for drivers in Washington | Cascadia Daily News](https://www.cascadiadaily.com/2025/jan/16/lawmakers-again-trying-to-lower-legal-alcohol-limit-for-drivers-in-washington/#:~:text=House%20version)
+
 ## Meetings
 ### Tue 01/21 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1315 Impaired driving
 Sign up to testify:
@@ -14,8 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161691&caId=24842&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161691&caId=24842&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Tom Chapman - National Transportation Safety Board
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic

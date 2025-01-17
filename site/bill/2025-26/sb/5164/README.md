@@ -7,17 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/16/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to expand postsecondary access heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/16/nobles-bill-to-expand-postsecondary-access-heard-in-committee/#:~:text=Senate%20Bill%205164)
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205164)
 
 ## Meetings
 ### Thu 01/16 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5164 Student navigational support
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161333&caId=24573&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161333&caId=24573&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161333&caId=24573&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161333&caId=24573&tId=4)
-
-#### 81 👍 - Pro
+#### 93 👍 - Pro
 Testifying:
 * Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * Melissa Beard - Council of Presidents
@@ -32,7 +27,7 @@ Testifying:
 * Myle Tang - Stand for Children Washington
 * monica yu - Bellevue College
 
-#### 281 👎 - Con
+#### 290 👎 - Con
 
 #### 7 ❓ - Other
 Testifying:

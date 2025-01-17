@@ -3,6 +3,8 @@
 
 ### [HB 1091](/bill/2025-26/hb/1091/) - SVP supervision credit  👎1 
 
+### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍1  
+
 ### [HB 1133](/bill/2025-26/hb/1133/) - Concerning sexually violent predators.  👎1 
 
 ### [HB 1137](/bill/2025-26/hb/1137/) - Establishing uniform policies and procedures within department of corrections facilities relating to disciplinary proceedings and administrative segregation. 👍2  

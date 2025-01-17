@@ -17,7 +17,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=4)
 
-#### 0 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Dr. Concie Pedroza - Superintendent, Tukwila School District
+* Dr. Dani Pfeiffer
+* Dr. Ivan Duran - Superintendent, Highline School District
+* Dr. Kelly Aramaki - Superintendent, Bellevue School District
+* Dr. Brent Jones - Superintendent, Seattle Public Schools
+* Dr. Shelley Redinger - [Richland School District](/org/richland_school_district/)
+* Michelle Whitney - Pasco School District
+* Traci Pierce - Kennewick School District
+* Angela Steck - President, Washington State PTA
+* 💵Joel Aune - Executive Director, Washington Association of School Administrators
+* Tricia Lubach - Executive Director, Washington State School Directors' Association
 
 #### 0 👎 - Con
 

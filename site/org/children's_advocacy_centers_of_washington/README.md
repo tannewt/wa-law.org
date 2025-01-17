@@ -1,6 +1,9 @@
 # Children's Advocacy Centers of Washington
 ## 2025-26
 
+### [HB 1028](/bill/2025-26/hb/1028/) - Child exposure to violence 👍2  
+* 👍 Paula Reed
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ PAULA REED
 

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/16/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Bill Would Cap Excessive Parking Mandates Around the State  | Sightline Institute](https://www.sightline.org/2025/01/16/washington-bill-would-cap-excessive-parking-mandates-around-the-state/#:~:text=HB%20HB%201351)
 * 01/10/2025 [The Urbanist](/org/the_urbanist/) - [Bateman Takes Aim at Washington’s Parking Mandates - The Urbanist](https://www.theurbanist.org/2025/01/10/bateman-takes-aim-at-parking-mandates/#:~:text=introducing%20a%20bill%20in%202023)
 * 07/20/2023 [Sightline Institute](/org/sightline_institute/) - [From Vermont to Oklahoma, Legislatures Challenge Parking Mandates - Sightline Institute](https://www.sightline.org/2023/07/20/from-vermont-to-oklahoma-legislatures-challenge-parking-mandates/#:~:text=HB%201351)
 * 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam#:~:text=HB%201351)

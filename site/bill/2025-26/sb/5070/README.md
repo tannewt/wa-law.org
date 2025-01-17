@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32375&aId=161226&caId=24582&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32375&aId=161226&caId=24582&tId=4)
 
-#### 254 👍 - Pro
+#### 317 👍 - Pro
 Testifying:
 * Evan Gallo
 * Eunice How - UNITE HERE Local 8
@@ -27,7 +27,17 @@ Testifying:
 * Dan Alsaker - The Broadway Group
 * Don Rhoads - The Convenience Group
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Barry Galen - Collector's Choice Restaurant
+* Clayton Krueger - Farrelli's Wood Fire Pizza
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Samantha Burdman - Glass Bottle Creamery
 
-#### 10 👎 - Con
+#### 55 👎 - Con
+Testifying:
+* Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
+* Steve Rauschenberger - Electronic Payments Coalition
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* 💵Joe Adamack - GoWest Credit Union Association
 
 #### 2 ❓ - Other

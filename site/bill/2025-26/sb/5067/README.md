@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/15/2025 [The Center Square](/org/the_center_square/) - [Washington pushes to join Utah as second state to lower legal BAC limit to .05 | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_89c3ddcc-d37a-11ef-bd43-1be55febbc3b.html#:~:text=Senate%20Bill%205067)

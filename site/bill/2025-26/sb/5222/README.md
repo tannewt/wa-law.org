@@ -18,14 +18,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=4)
 
-#### 176 👍 - Pro
+#### 664 👍 - Pro
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner, AMHO
+* Kyle Lucas - Urban Indians NW & Tenants United at Western Plaza Mobile Home Park
 * david harms
+* Jani Hitchen - Jani Hitchen-Pierce County Council Chair
 
-#### 10 👎 - Con
+#### 129 👎 - Con
 Testifying:
 * Constance Nelson
 * Russ Millard
+* Bruce Becker
+* 💵Andrea Smiley - Building Industry Association of Washington (BIAW)
+* 💵Morgan Irwin - Association of Washington Business (AWB)
+* Riley Benge - Washington REALTORS
+* Dani Pro - The Rants Group
+* Lori Brothers
+* Kristy neubo - Hidden Creek Apartments
+* john stiggelbout
+* Troy Peterson
 
-#### 1 ❓ - Other
+#### 6 ❓ - Other

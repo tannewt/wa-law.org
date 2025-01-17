@@ -8,20 +8,14 @@
 
 ## Meetings
 ### Thu 01/16 10:30 AM - Law & Justice (LAW): SB 5094 Sexually explicit depictions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32356&aId=161051&caId=24589&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32356&aId=161051&caId=24589&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32356&aId=161051&caId=24589&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32356&aId=161051&caId=24589&tId=4)
-
-#### 138 👍 - Pro
+#### 142 👍 - Pro
 Testifying:
 * Laura Harmon
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
 
-#### 189 👎 - Con
+#### 190 👎 - Con
 Testifying:
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Joanne Smieja - WA Voices

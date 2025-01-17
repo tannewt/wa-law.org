@@ -7,6 +7,9 @@
 ### [HB 1137](/bill/2025-26/hb/1137/) - Establishing uniform policies and procedures within department of corrections facilities relating to disciplinary proceedings and administrative segregation. 👍1  
 * 👍 Cindy Elsberry
 
+### [HB 1178](/bill/2025-26/hb/1178/) - Concerning sentencing enhancements. 👍1  
+* 👍 Percy Levy
+
 ### [HB 1192](/bill/2025-26/hb/1192/) - Concerning disciplinary hearings held by the department of corrections. 👍1  
 * 👍 Cindy Arends Elsberry
 

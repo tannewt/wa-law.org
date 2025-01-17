@@ -1,13 +1,16 @@
 # Sightline Institute
 ## 2025-26
 
-## [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
+### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 * 👍💵 Dan Bertolet
+
+## [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+* 👍 Catie Gould
 
 ## 2023-24
 
-### [HB 1096](/bill/2023-24/hb/1096/) - Lot splitting 👍1  
-* 👍💵 Dan Bertolet
+### [SB 5184](/bill/2023-24/sb/5184/) - Minimum parking requirements 👍1  
+* 👍 Catie Gould
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review 👍2  
 * 👍💵 Dan Bertolet

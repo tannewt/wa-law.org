@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Thu 01/16 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5115 Service grant program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161083&caId=24571&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161083&caId=24571&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161083&caId=24571&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32369&aId=161083&caId=24571&tId=4)
-
-#### 775 👍 - Pro
+#### 901 👍 - Pro
 Testifying:
 * Angelita Cervantes - Communities for Our College
 * Benjamin Gonzalez - Comunidades por nuestros colegios.
@@ -34,7 +28,8 @@ Testifying:
 * Aylin Díaz Romero - The Purple Group and Communities for Our Colleges
 * Sophia Li - University of Washington --- Seattle & First Generation Leaders in Pre-Law
 * Daniel Gomez - Latino Community Fund of Washington
+* 💵Michelle Carrillo - ASCWU
 
-#### 295 👎 - Con
+#### 303 👎 - Con
 
 #### 4 ❓ - Other

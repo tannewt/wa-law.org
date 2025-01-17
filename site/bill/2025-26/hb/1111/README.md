@@ -14,7 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161442&caId=24836&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161442&caId=24836&tId=4)
 
-#### 3 👍 - Pro
+#### 23 👍 - Pro
+Testifying:
+* Katie Hurley - King County Department of Public Defense
+* Elisa Cozad - TeamChild
+* Caya Lenay - TVW's Capitol Classroom
+* Chris Ativalu-Ford - TVW's Capitol Classroom
+* Ron Ackerson Jr - TVW's Capitol Classroom
+* TJ Puller - TVW's Capitol Classroom
 
 #### 0 👎 - Con
 

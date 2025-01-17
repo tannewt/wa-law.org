@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32377&aId=161402&caId=24710&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32377&aId=161402&caId=24710&tId=4)
 
-#### 22 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Stephen Smith - Center for Building in North America
 * Markus Johnson
 
-#### 1 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Steve Brooks - Washington Fire Chiefs
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tammy Fellin - Labor & Industries

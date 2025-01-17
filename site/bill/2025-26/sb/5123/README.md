@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161537&caId=24732&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161537&caId=24732&tId=4)
 
-#### 1 👍 - Pro
-
-#### 368 👎 - Con
+#### 27 👍 - Pro
 Testifying:
+* LINDEN JORDAN - PFLAG Skagit
+
+#### 521 👎 - Con
+Testifying:
+* Khushdip Brar - School board director
 * Jennifer Heine-Withee
 
 #### 0 ❓ - Other

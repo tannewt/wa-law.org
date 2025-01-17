@@ -14,13 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32428&aId=161334&caId=24603&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32428&aId=161334&caId=24603&tId=4)
 
-#### 15 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Jerry VanderWood - Associated General Contractors (AGC)
 * Van Collins - PO Box 65051
 * Linneth Riley-Hall - Capital Projects Advisory Review Board (CPARB)
 * Lekha Fernandes - CPARB (BE/DBI sub committee), OMWBE
+* 💵Paula Sardinas - WBBA/TABOR 100
+* Jimmy Matta - Northwest Minority Builders Alliance (NWMBA)
+* Julius Brooks - Yates Consulting
 
 #### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Scott Hazlegrove - WA Association of Sewer & Water Districts

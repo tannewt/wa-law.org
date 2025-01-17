@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Thu 01/16 01:30 PM - Capital Budget (CB): HB 1216 Capital budget
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32423&aId=161358&caId=24621&tId=4)
-
-#### 42 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * Lisa Yohalem - HealthPoint
 * 💵Erica Hallock - Start Early WA
@@ -48,8 +42,9 @@ Testifying:
 * Scott Richards - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
 * 💵Mitch Denning - Alliance of Educational Associations
 * Nina Martinez - Communities of Concern and Latino Civic Alliance
+* Sandy Kaiser - The Evergreen State College
 
-#### 32 👎 - Con
+#### 39 👎 - Con
 Testifying:
 * Brian Shay - [City of Hoquiam](/org/city_of_hoquiam/)
 * Darrin Raines - Greater Grays Harbor, Inc.
@@ -57,7 +52,7 @@ Testifying:
 * Vickie Raines - Grays Harbor County
 * JOHN WORTHINGTON
 
-#### 34 ❓ - Other
+#### 40 ❓ - Other
 Testifying:
 * Kathryn Gardow - Chair, Public Works Board
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
@@ -93,3 +88,9 @@ Testifying:
 * Drayton Jackson - The Communities of Concern Commission
 * Nina Martinez - Communities of Concern
 * Dan McKisson - ILWU Washington Area District Council
+* Charlie Brown - Skills Centers and Orting School District
+* Paula Rhyne - [City of Everett](/org/city_of_everett/)
+* Nicholas Farline - WA Recreation & Park Association
+* Dan Sigler - Community Minded Enterprises
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Elissa Ostergaard - Snoqualmie Watershed Forum

@@ -11,12 +11,6 @@
 
 ## Meetings
 ### Thu 01/16 10:30 AM - Early Learning & K-12 Education (EDU): SB 5095 School construction debt
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161126&caId=24569&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161126&caId=24569&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161126&caId=24569&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32384&aId=161126&caId=24569&tId=4)
-
 #### 37 👍 - Pro
 Testifying:
 * Barbara Posthumus - Lake Washington School District
@@ -26,7 +20,7 @@ Testifying:
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 * 💵Grace Yuan - [School Alliance](/org/school_alliance/)
 
-#### 36 👎 - Con
+#### 37 👎 - Con
 Testifying:
 * Veronica Shriver
 

@@ -1,12 +1,14 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5098](/bill/2025-26/sb/5098/)
 
-# SB 5098 - Restricting the possession of weapons on the premises of state or local public buildings, parks or playground facilities where children are likely to be present, and county fairs and county fair facilities.
+# SB 5098 - Weapons in certain areas
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5098&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/17/2025 [MyNorthwest](/org/mynorthwest/) - [WA bill with new gun-free zones where kids are present moves on](https://mynorthwest.com/mynorthwest-politics/washington-senate-bill-with-new-gun-free-zones-parks-where-kids-are-present-moves-ahead/4029716#:~:text=SB%205098)
 * 01/15/2025 [KIRO7](/org/kiro7/) - [Washington lawmakers propose an expansion of gun-free zones to protect public places – KIRO 7 News Seattle](https://www.kiro7.com/news/local/washington-lawmakers-propose-an-expansion-gun-free-zones-protect-public-places/EBMLNJUNJBCANNAHUJQXCJJFOU/#:~:text=Senate%20Bill%205098)
 * 01/14/2025 [Senate Democrats](/org/senate_democrats/) - [Valdez bill to enhance public safety heard in committee - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/01/14/valdez-bill-to-enhance-public-safety-heard-in-committee/#:~:text=Senate%20Bill%205098)
 * 01/14/2025 [MyNorthwest](/org/mynorthwest/) - [Pimps take over Seattle, but Washington Dems take away our guns](https://mynorthwest.com/ktth/ktth-opinion/rantz-will-dangerous-pimps-taking-over-seattle-follow-washington-democrats-gun-laws/4028108#:~:text=Senate%20Bill%205098)
