@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201015)
+
 ## Meetings
 ### Fri 01/17 10:30 AM - Local Government (LG): HB 1015 Energy labeling/residential
 #### 238 👍 - Pro

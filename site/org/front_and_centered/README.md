@@ -1,10 +1,14 @@
 # Front and Centered
 ## 2025-26
 
+### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Guillermo Rogel
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+
+### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
 ## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 

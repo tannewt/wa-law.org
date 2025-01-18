@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32521&aId=161719&caId=24893&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32521&aId=161719&caId=24893&tId=4)
 
-#### 24 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Rob Harrison - Passive House Seattle
+* Julie Blazek - AIAWA (American Institute of Architects WA Council)
 * Becaley Elsie
 * MATT HUTCHINS - cast architecture
 

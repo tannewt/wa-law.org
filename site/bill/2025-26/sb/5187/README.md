@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161539&caId=24734&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161539&caId=24734&tId=4)
 
-#### 19 👍 - Pro
+#### 247 👍 - Pro
 Testifying:
 * Advaita Mattam
 * Moritz Maszhold
@@ -31,9 +31,10 @@ Testifying:
 * Angela Steck - President, Washington State PTA
 * 💵Joel Aune - Executive Director, Washington Association of School Administrators
 * Tricia Lubach - Executive Director, Washington State School Directors' Association
+* 💵Ashley Sutton - HopSkipDrive
 * Lindsey Yocum - Lake Washington School District
 * Tyler Muench - Office of Superintendent of Public Instruction
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

@@ -1,13 +1,16 @@
 # Washington Community Action Network
 ## 2025-26
 
-## [HB 1131](/bill/2025-26/hb/1131/) - Concerning clemency and pardons. 👍1  
+### [HB 1131](/bill/2025-26/hb/1131/) - Concerning clemency and pardons. 👍1  
 * 👍 Waldo Waldron-Ramsey
+
+### [HB 1178](/bill/2025-26/hb/1178/) - Concerning sentencing enhancements. 👍1  
+
+## [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
 ## 2023-24
 
-### [HB 1131](/bill/2023-24/hb/1131/) - Concerning clemency and pardons. 👍1  
-* 👍 Waldo Waldron-Ramsey
+### [HB 1317](/bill/2023-24/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
 ### [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 * 👍 Joelle Craft

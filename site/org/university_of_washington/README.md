@@ -1,6 +1,9 @@
 # University of Washington
 ## 2025-26
 
+### [HB 1178](/bill/2025-26/hb/1178/) - Concerning sentencing enhancements. 👍1  
+* 👍 Heather Evans
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Morgan Hickel
 

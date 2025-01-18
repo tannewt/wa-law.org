@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32497&aId=161614&caId=24832&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32497&aId=161614&caId=24832&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* James Wells - Administrative Office of the Courts (AOC)
+* Luisa Gracia
+* Michael Díaz - Interpreter and Language Access Commission (ILAC)
 
 #### 0 👎 - Con
 

@@ -8,6 +8,8 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
+### [SB 5071](/bill/2025-26/sb/5071/) - Controlled sub. endangerment  👎1 
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍16  
 * 👍💵 Charles Smith
 * 👍 Corrina Chatterton
@@ -17,6 +19,8 @@
 * 👍 Jonas Rios
 * 👍 Rocket Garcia
 * 👍 Jalayna Ruland
+
+### [SB 5149](/bill/2025-26/sb/5149/) - Early childhood court prg. 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓2
 * ❓💵 Samuel Martin

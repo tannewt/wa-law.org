@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32436&aId=161674&caId=24765&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32436&aId=161674&caId=24765&tId=4)
 
-#### 28 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Randy Roberson III - TVW's Capitol Classroom
 * Katie Hurley - King County Department of Public Defense
@@ -23,6 +23,10 @@ Testifying:
 * Caya Lenay - TVW's Capitol Classroom
 * Kahlev Elkhanon - TVW's Capitol Classroom
 * Moses Mutel - TVW's Capitol Classroom
+* Caya Lenay - TVW's Capitol Classroom
+* Alexis Hale - Justice for Girls Coalition
+* Lola Luna - Justice for Girls Coalition
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 
 #### 0 👎 - Con
 

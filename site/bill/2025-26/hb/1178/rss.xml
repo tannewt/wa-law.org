@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1178/</link>
 		<description>Updates about HB 1178</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 17 Jan 2025 11:17:45 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 18 Jan 2025 01:13:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,7 +30,7 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Community Safety.</guid>
 		</item>
 		<item>
-			<title>👍Jim Chambers - Associated General Contractors of Washington</title>
+			<title>👍Jim Chambers - Washington Food Industry Association (WFIA)</title>
 			<description>Jim Chambers signed up to testify Pro.</description>
 			<pubDate>Thu, 16 Jan 2025 02:46:00 GMT</pubDate>
 			<category>testifier</category>
@@ -44,6 +44,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Percy/Levy/2025-01-16 11:22:50</guid>
+		</item>
+		<item>
+			<title>👍Heather Evans - University of Washington</title>
+			<description>Heather Evans signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/university_of_washington/"&gt;University of Washington&lt;/a&gt;.</description>
+			<pubDate>Fri, 17 Jan 2025 03:12:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Heather/Evans/2025-01-17 03:12:37</guid>
+		</item>
+		<item>
+			<title>👍Keri-Anne Jetzer - WA State Sentencing Guidelines Commission</title>
+			<description>Keri-Anne Jetzer signed up to testify Pro. They are signed up to represent WA State Sentencing Guidelines Commission.</description>
+			<pubDate>Fri, 17 Jan 2025 04:21:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Keri-Anne/Jetzer/2025-01-17 04:21:34</guid>
+		</item>
+		<item>
+			<title>👍Melody Simle - WA State Sentencing Guidelines Commission</title>
+			<description>Melody Simle signed up to testify Pro.</description>
+			<pubDate>Fri, 17 Jan 2025 04:59:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Melody/Simle/2025-01-17 04:59:11</guid>
 		</item>
 		<item>
 			<title>👍Adam Heyman - WDA and WACDL</title>
@@ -68,6 +92,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/PhD, Lauren/Knoth-Peterson/2025-01-17 11:17:45</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sat, 18 Jan 2025 01:13:45 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201178</guid>
 		</item>
 	</channel>
 </rss>

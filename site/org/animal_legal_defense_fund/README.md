@@ -4,11 +4,15 @@
 ### [HB 1046](/bill/2025-26/hb/1046/) - Motor vehicle damage/rescue 👍1  
 * 👍 Cat Kelly
 
-## [HB 1149](/bill/2025-26/hb/1149/) - Cruelty to animals 👍1  
+### [HB 1149](/bill/2025-26/hb/1149/) - Cruelty to animals 👍1  
+
+## [HB 1201](/bill/2025-26/hb/1201/) - Identifying accommodations allowing pets in an emergency or extreme weather event. 👍1  
+* 👍 Cat Kelly
 
 ## 2023-24
 
-### [HB 1149](/bill/2023-24/hb/1149/) - Cruelty to animals 👍1  
+### [HB 1201](/bill/2023-24/hb/1201/) - Identifying accommodations allowing pets in an emergency or extreme weather event. 👍1  
+* 👍 Cat Kelly
 
 ### [HB 1153](/bill/2023-24/hb/1153/) - Octopus farming 👍2  
 

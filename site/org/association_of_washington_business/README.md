@@ -8,6 +8,8 @@
 
 ### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍2  
 
+### [HB 1063](/bill/2025-26/hb/1063/) - Earned wage access services 👍1  
+
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers  👎2 
 * 👎💵 Lindsey Hueer
 
@@ -17,6 +19,8 @@
 ### [HB 1075](/bill/2025-26/hb/1075/) - Affordable housing financing 👍1  
 
 ### [HB 1080](/bill/2025-26/hb/1080/) - Lodging fee disclosure  👎1 
+
+### [HB 1082](/bill/2025-26/hb/1082/) - Child care provider qualif. 👍1  
 
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 * 👍💵 Morgan Irwin
@@ -52,10 +56,21 @@
 ### [HB 1209](/bill/2025-26/hb/1209/) - Sodium nitrite   ❓1
 * ❓💵 Peter Godlewski
 
+### [HB 1297](/bill/2025-26/hb/1297/) - Child support/self-employed  👎1 
+
+### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
+* 👎💵 Lindsey Hueer
+
+### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 
+* 👎💵 Lindsey Hueer
+
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  
 * 👍💵 Morgan Irwin
+
+### [SB 5104](/bill/2025-26/sb/5104/) - Protecting employees from coercion in the workplace based on immigration status.   ❓1
+* ❓💵 Lindsey Hueer
 
 ### [SB 5105](/bill/2025-26/sb/5105/) - Concerning offenses involving fabricated depictions of minors. 👍1  
 * 👍💵 Morgan Irwin
@@ -63,11 +78,17 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎 Max Martin
 
-## [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  
+### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  
+
+### [SB 5205](/bill/2025-26/sb/5205/) - College grant award amounts 👍1  
+
+## [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations   ❓1
+* ❓💵 Lindsey Hueer
 
 ## 2023-24
 
-### [SB 5193](/bill/2023-24/sb/5193/) - Remote testing 👍1  
+### [SB 5217](/bill/2023-24/sb/5217/) - Pregnancy accommodations   ❓1
+* ❓💵 Lindsey Hueer
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

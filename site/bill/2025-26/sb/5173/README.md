@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Maria Guadalupe Ramirez - Duwamish Valley Affordable Housing Coalition
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

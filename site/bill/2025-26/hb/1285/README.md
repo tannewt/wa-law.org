@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201285)
 * 01/17/2025 [The Center Square](/org/the_center_square/) - [Bipartisan bill would make financial literacy a graduation requirement in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1814b652-d504-11ef-8a97-57051ce4cf4c.html#:~:text=House%20Bill%201285)
 
 ## Meetings
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161783&caId=24859&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161783&caId=24859&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 
 #### 0 👎 - Con
 

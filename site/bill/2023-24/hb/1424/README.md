@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 01/18/2025 [MyNorthwest](/org/mynorthwest/) - [Puppyland settles with Washington AG's Office for $3.75M](https://mynorthwest.com/local/puppyland-settles-with-washington-ags-office-over-illegal-advertising-sales-practices/4030216#:~:text=House%20Bill%201424)
 * 05/12/2023 [FOX13](/org/fox13/) - [Newly passed pet protection bills will help abused & neglected animals rehabilitate, find homes faster](https://www.fox13seattle.com/news/newly-passed-pet-protection-bills-will-help-abused-animals-rehabilitate-find-homes-faster#:~:text=House%20Bill%201424)
 * 04/13/2023 [FOX13](/org/fox13/) - [Bill could crack down on WA pet stores who source dogs from out-of-state puppy mills](https://www.fox13seattle.com/news/bill-could-crack-down-on-wa-pet-stores-who-source-dogs-from-out-of-state-puppy-mills#:~:text=Amended%20bill%201424)
 * 04/11/2023 [The Seattle Times](/org/the_seattle_times/) - [AG sues Puppyland over alleged false health guarantees, predatory loans | The Seattle Times](https://www.seattletimes.com/seattle-news/law-justice/ag-sues-puppyland-for-alleged-false-health-guarantees-predatory-loans/#:~:text=House%20Bill%201424)

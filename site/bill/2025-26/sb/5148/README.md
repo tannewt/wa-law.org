@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161746&caId=24760&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161746&caId=24760&tId=4)
 
-#### 1 👍 - Pro
+#### 39 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Salim Nice - [City of Mercer Island](/org/city_of_mercer_island/)
 

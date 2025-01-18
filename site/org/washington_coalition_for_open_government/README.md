@@ -5,6 +5,8 @@
 * 👎 Robert McClure
 * 👎 Hannah Marcley
 
+### [SB 5049](/bill/2025-26/sb/5049/) - Sunshine committee 👍1  
+
 ## [SB 5102](/bill/2025-26/sb/5102/) - Establishing a public records exemption for the proprietary information of public risk pools.  👎1 
 
 ## 2023-24

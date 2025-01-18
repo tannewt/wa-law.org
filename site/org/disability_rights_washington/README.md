@@ -3,6 +3,8 @@
 
 ### [HB 1091](/bill/2025-26/hb/1091/) - SVP supervision credit  👎1 
 
+### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
+
 ### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍1  
 
 ### [HB 1133](/bill/2025-26/hb/1133/) - Concerning sexually violent predators.  👎1 
@@ -16,11 +18,15 @@
 * 👍💵 Chloe Merino
 * 👍💵 Rachael Seevers
 
-## [HB 1192](/bill/2025-26/hb/1192/) - Concerning disciplinary hearings held by the department of corrections. 👍1  
+### [HB 1192](/bill/2025-26/hb/1192/) - Concerning disciplinary hearings held by the department of corrections. 👍1  
+
+### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
+
+## [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 👍1  
 
 ## 2023-24
 
-### [HB 1192](/bill/2023-24/hb/1192/) - Concerning disciplinary hearings held by the department of corrections. 👍1  
+### [SB 5005](/bill/2023-24/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

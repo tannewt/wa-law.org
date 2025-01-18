@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201048)
+
 ## Meetings
 ### Wed 01/22 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1048 Rangeland fire pilot
 Sign up to testify:

@@ -10,6 +10,9 @@
 
 ### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍1  
 
+### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections 👍1  
+* 👍 Andrew Villeneuve
+
 ## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Andrew Villeneuve
 

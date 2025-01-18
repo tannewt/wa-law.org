@@ -12,7 +12,13 @@
 ### [HB 1107](/bill/2025-26/hb/1107/) - Concerning environmental impacts of fashion.  👎1 
 * 👎💵 Crystal Leatherman
 
+### [HB 1126](/bill/2025-26/hb/1126/) - Standardizing notification provisions relating to local tax rate changes and shared taxes administered by the department. 👍1  
+* 👍💵 Mark Johnson
+
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎1 
+
+### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes.   ❓1
+* ❓💵 Mark Johnson
 
 ### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info  👎1 
 * 👎💵 Crystal Leatherman
@@ -23,8 +29,12 @@
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍1  
 * 👍💵 Rose Gundersen
 
+### [HB 1186](/bill/2025-26/hb/1186/) - Expanding the situations in which medications can be dispensed or delivered from hospitals and health care entities. 👍1  
+
 ### [HB 1209](/bill/2025-26/hb/1209/) - Sodium nitrite   ❓1
 * ❓💵 Crystal Leatherman
+
+### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
 
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍1  
 * 👍💵 Crystal Leatherman

@@ -7,3 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 01/22 08:00 AM - Labor & Workplace Standards (LAWS): HB 1308 Access to personnel records
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32519&aId=161859&caId=24941&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32519&aId=161859&caId=24941&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32519&aId=161859&caId=24941&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32519&aId=161859&caId=24941&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Patrick McGah
+
+#### 23 👎 - Con
+Testifying:
+* 💵Patrick Connor - NFIB
+
+#### 0 ❓ - Other

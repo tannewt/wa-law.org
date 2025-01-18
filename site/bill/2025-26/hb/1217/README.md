@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201217)
+* 01/16/2025 [Axios](/org/axios/) - [Washington Legislature weighs new bill to limit rent increases - Axios Seattle](https://www.axios.com/local/seattle/2025/01/16/rent-increase-cap-law-washington-state#:~:text=House%20Bill%201217)
 * 01/16/2025 [Real Change](/org/real_change/) - [Washington lawmakers to debate rent stabilization, affordable housing in new session | Jan. 15–21, 2025 | Real Change](https://www.realchangenews.org/news/2025/01/16/washington-lawmakers-debate-rent-stabilization-affordable-housing-new-session#:~:text=HB%201217)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201217)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201217)

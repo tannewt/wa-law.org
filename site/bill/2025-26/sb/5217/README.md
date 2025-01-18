@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161574&caId=24778&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161574&caId=24778&tId=4)
 
-#### 26 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Brooke Iverson - Teamsters 174
 * Ellie Klein - PEPS
@@ -23,4 +23,8 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Patrick Connor - NFIB
+* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)

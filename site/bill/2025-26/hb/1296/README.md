@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201296)
+
 ## Meetings
 ### Thu 01/23 08:30 AM - Education (ED): HB 1296 Public education system
 Sign up to testify:
@@ -14,11 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161653&caId=24858&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161653&caId=24858&tId=4)
 
-#### 1 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Danni Askini - Gender Justice League
 
-#### 9 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * Robert Bleu - Former Elected School Board Member
 * Jeffrey Bastow

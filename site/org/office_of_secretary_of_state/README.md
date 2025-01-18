@@ -15,8 +15,16 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Steve Hobbs
 
+### [HB 1207](/bill/2025-26/hb/1207/) - Superior court clerk fees 👍2  
+* 👍 Heather Hirotaka
+* 👍 Steve Hobbs
+
 ### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍1  
 * 👍 Brian Hatfield
+
+### [SB 5014](/bill/2025-26/sb/5014/) - Concerning election security. 👍2  
+* 👍 Kylee Zabel
+* 👍 Steve Hobbs
 
 ### [SB 5017](/bill/2025-26/sb/5017/) - Uniformed & overseas voting 👍2  
 * 👍 Steve Hobbs
@@ -25,13 +33,19 @@
 ### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍1  
 * 👍 Steve Hobbs
 
-## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration   ❓1
+* ❓ Brian Hatfield
+
+### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Steve Hobbs
+
+## [SB 5225](/bill/2025-26/sb/5225/) - Candidate filing   ❓1
+* ❓ Brian Hatfield
 
 ## 2023-24
 
-### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp.   ❓1
-* ❓ Steve Hobbs
+### [SB 5225](/bill/2023-24/sb/5225/) - Candidate filing   ❓1
+* ❓ Brian Hatfield
 
 ### [HB 1031](/bill/2023-24/hb/1031/) - Medal of valor award 👍1  
 * 👍 Brian Hatfield

@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161498&caId=24791&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161498&caId=24791&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Sandra Shanahan - KCPAO RDVFEU
+* Kimberly Wyatt - King County Prosecuting Attorney's Office
+* Alexander Bejaran Estevez - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 
 #### 0 👎 - Con
 

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32503&aId=161644&caId=24853&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32503&aId=161644&caId=24853&tId=4)
 
-#### 27 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Karen Sinclair - Kitsap SAIVS
 * Paula Reed - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)

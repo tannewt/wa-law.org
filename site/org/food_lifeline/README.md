@@ -16,11 +16,13 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍2  
 * 👍💵 Aaron Czyzewski
 
-## [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
+### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
+
+## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
 
 ## 2023-24
 
-### [SB 5210](/bill/2023-24/sb/5210/) - Ninth grade success grants 👍1  
+### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants 👍2  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍4  
 * 👍💵 Aaron Czyzewski

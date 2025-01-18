@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161612&caId=24830&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161612&caId=24830&tId=4)
 
-#### 4 👍 - Pro
+#### 19 👍 - Pro
 
-#### 864 👎 - Con
+#### 923 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Jane Milhans
 * Patrick Lewis
 * kyle ivarra
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 
 #### 1 ❓ - Other

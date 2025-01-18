@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201297)
+
 ## Meetings
 ### Wed 01/22 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1297 Child support/self-employed
 Sign up to testify:
@@ -14,10 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32497&aId=161656&caId=24835&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32497&aId=161656&caId=24835&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Alice Jacobsohn - PayrollOrg
+* Sharon Redmond - Department of Social and Health Services
 
-#### 0 👎 - Con
+#### 35 👎 - Con
 
 #### 0 ❓ - Other

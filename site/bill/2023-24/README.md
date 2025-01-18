@@ -11,7 +11,7 @@
 * [HB 1240](hb/1240) - Firearms/assault weapons 63📰 2828👍 10425👎 26❓ - C 162 L 23
 * [HB 1143](hb/1143) - Firearms/purchase & transfer 43📰 3402👍 8858👎 16❓ - C 161 L 23
 * [HB 1469](hb/1469) - Health care services/access 32📰 6406👍 4534👎 9❓ - C 193 L 23
-* [HB 2114](hb/2114) - Residential tenants 57📰 7035👍 3700👎 50❓ - H Rules 3C
+* [HB 2114](hb/2114) - Residential tenants 58📰 7035👍 3700👎 50❓ - H Rules 3C
 * [SB 5599](sb/5599) - Protected health care/youth 36📰 569👍 9854👎 28❓ - C 408 L 23
 * [SB 5078](sb/5078) - Firearm industry duties 24📰 3527👍 6551👎 3❓ - C 163 L 23
 * [HB 1038](hb/1038) - Anesthesiologist assistants 1📰 2398👍 6105👎 38❓ - H HC/Wellness
@@ -185,7 +185,7 @@
 * [SB 6005](sb/6005) - Solid waste management 3📰 949👍 45👎 6❓ - S Environment, E
 * [HB 1195](hb/1195) - Weapons/parks & hospitals 2📰 513👍 483👎 0❓ - H Civil R & Judi
 * [SB 6136](sb/6136) - Rental property B&O tax 2📰 65👍 925👎 3❓ - S Ways & Means
-* [HB 1424](hb/1424) - Dogs and cats/consumers 7📰 823👍 149👎 15❓ - C 208 L 23
+* [HB 1424](hb/1424) - Dogs and cats/consumers 8📰 823👍 149👎 15❓ - C 208 L 23
 * [HB 1189](hb/1189) - Total confinement release 4📰 892👍 84👎 4❓ - H Community Safet
 * [HB 1062](hb/1062) - Law enf. officers/deception 13📰 369👍 606👎 3❓ - H Rules X
 * [SB 5939](sb/5939) - Livestock wolf predation 1📰 348👍 621👎 5❓ - S Ag/Water/Natur

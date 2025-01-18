@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161709&caId=24736&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161709&caId=24736&tId=4)
 
-#### 17 👍 - Pro
+#### 306 👍 - Pro
 Testifying:
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer - Superintendent, Federal Way School District
@@ -28,6 +28,7 @@ Testifying:
 * Angela Steck - President, Washington State PTA
 * 💵Joel Aune - Executive Director, Washington Association of School Administrators
 * Tricia Lubach - Executive Director, Washington State School Directors' Association
+* Samantha Fogg - SCPTSA, Co-President
 * Lindsey Yocum - Lake Washington School District
 * Shane Backlund - ESD 105 Schools Coalition
 * Preston Dwoskin

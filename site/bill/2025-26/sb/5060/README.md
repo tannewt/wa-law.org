@@ -19,11 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161501&caId=24794&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161501&caId=24794&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
+* Rod Higgins - Councilmember, City of Spokane Valley
 * Salim Nice
 
-#### 20 👎 - Con
+#### 50 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

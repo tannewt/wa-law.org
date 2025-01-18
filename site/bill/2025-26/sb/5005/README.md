@@ -21,13 +21,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161469&caId=24766&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161469&caId=24766&tId=4)
 
-#### 44 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * Celyna Ly
 * David Lara
 * 💵Ethan Frenchman - [Columbia Legal Services](/org/columbia_legal_services/)
 * Jeanelle Reanier-Briggs
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

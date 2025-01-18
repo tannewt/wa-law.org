@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161794&caId=24821&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161794&caId=24821&tId=4)
 
-#### 25 👍 - Pro
+#### 109 👍 - Pro
+Testifying:
+* 💵Peter Diedrick - Washington State School Retirees' Association
+* Clair Olivers - Retired Public Employees Council of WA
 
-#### 296 👎 - Con
+#### 312 👎 - Con
 Testifying:
 * 💵Michael Duchemin - [Retired Firefighters of Washington](/org/retired_firefighters_of_washington/)
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

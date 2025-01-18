@@ -32,6 +32,14 @@
 
 ### [SB 5053](/bill/2025-26/sb/5053/) - PFD formation 👍1  
 
+### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans   ❓1
+* ❓💵 Candice Bock
+
+### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system.   ❓1
+* ❓💵 Candice Bock
+
+### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Candice Bock
 

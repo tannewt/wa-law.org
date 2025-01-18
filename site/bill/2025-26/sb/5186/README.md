@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/17/2025 [FOX13](/org/fox13/) - [Legislation proposes amending WA state constitution | FOX 13 Seattle](https://www.fox13seattle.com/news/legislation-proposes-amending-state-constitution#:~:text=Senate%20Bill%205186)
 * 01/16/2025 [Senate Democrats](/org/senate_democrats/) - [Krishnadasan bill to lower school bond threshold heard in committee - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/01/16/krishnadasan-bill-to-lower-school-bond-threshold-heard-in-committee/#:~:text=Legislation)
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205186)
 * 01/12/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: Welcome to the 2025 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/12/this-week-in-the-senate-week-1-welcome-to-the-2025-session/#:~:text=Senate%20Bill%205186)

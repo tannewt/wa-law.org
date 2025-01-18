@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1254/</link>
 		<description>Updates about HB 1254</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 16 Jan 2025 03:01:06 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 18 Jan 2025 01:13:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Charlotte/Persons/2025-01-16 03:01:06</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sat, 18 Jan 2025 01:13:45 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201254</guid>
 		</item>
 	</channel>
 </rss>

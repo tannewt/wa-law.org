@@ -7,6 +7,9 @@
 
 ### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍1  
 
+### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
+* 👍 Danielle Alvarado
+
 ## [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍2  
 * 👍 Danielle Alvarado
 
