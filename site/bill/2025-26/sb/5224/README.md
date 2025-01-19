@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * Kim Bliss - Washington State Criminal Justice Training Commission
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

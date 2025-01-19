@@ -18,12 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161535&caId=24730&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161535&caId=24730&tId=4)
 
-#### 108 👍 - Pro
+#### 230 👍 - Pro
 Testifying:
 * LINDEN JORDAN - PFLAG Skagit
 * Danni Askini - Gender Justice League
+* Devin Owens
 
-#### 856 👎 - Con
+#### 994 👎 - Con
 Testifying:
 * Gabriel Jacobs
 * Jennifer Heine-Withee
@@ -35,5 +36,6 @@ Testifying:
 * Austin Boswell
 * Laurie Layne
 * Tonya Hickman - Lynden School Board
+* Eyman Tim - initiative Activist
 
 #### 0 ❓ - Other

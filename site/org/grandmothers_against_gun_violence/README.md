@@ -1,6 +1,8 @@
 # Grandmothers Against Gun Violence
 ## 2025-26
 
+### [HB 1132](/bill/2025-26/hb/1132/) - Enhancing public safety by limiting bulk purchases and transfers of firearms and ammunition. 👍1  
+
 ## [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 * 👍💵 Margaret Heldring
 

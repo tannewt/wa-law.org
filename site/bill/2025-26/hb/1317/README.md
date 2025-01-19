@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201317)
+* 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201317)
 
 ## Meetings
 ### Mon 01/20 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1317 Sentences/offenses before 21
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161690&caId=24838&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161690&caId=24838&tId=4)
 
-#### 248 👍 - Pro
+#### 295 👍 - Pro
 Testifying:
 * Matthew Leon
 * Jeffrey Ellis
@@ -28,7 +29,12 @@ Testifying:
 * Jeff Ellis
 * Arthur Longworth - TeamChild
 * Matthew Leon
+* Crystal Waterbury
+* Taylor Rein
+* Kurt Myers
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jenny Fisher

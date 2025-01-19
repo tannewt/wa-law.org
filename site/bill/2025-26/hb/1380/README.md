@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32456&aId=161832&caId=24922&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32456&aId=161832&caId=24922&tId=4)
 
-#### 57 👍 - Pro
+#### 90 👍 - Pro
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Eric Zimmerman - Mayor, City of Normandy Park
 * Nancy Backus - City of Auburn Mayor

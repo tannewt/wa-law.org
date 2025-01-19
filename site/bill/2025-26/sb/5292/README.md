@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 3 👍 - Pro
 
-#### 43 👎 - Con
+#### 52 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Rose Gundersen - WA Retail Association

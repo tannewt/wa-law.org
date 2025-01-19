@@ -14,15 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32451&aId=161454&caId=24843&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32451&aId=161454&caId=24843&tId=4)
 
-#### 156 👍 - Pro
+#### 192 👍 - Pro
 Testifying:
 * Kimberly Gordon
 * Kimberly Gordon - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 * Larry Jefferson - Director, Washington State Office of Public Defense
 
-#### 76 👎 - Con
+#### 77 👎 - Con
 Testifying:
 * Leslie Paine
+* Tina Reynolds
 * Tina Reynolds
 
 #### 2 ❓ - Other

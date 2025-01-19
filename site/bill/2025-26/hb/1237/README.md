@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201237)
+* 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201237)
 
 ## Meetings
 ### Mon 01/20 01:30 PM - Environment & Energy (ENVI): HB 1237 Energy facility site eval.
@@ -21,7 +22,7 @@ Sign up to testify:
 Testifying:
 * Sonia Bumpus - Energy Facility Site Evaluation Council
 
-#### 0 👎 - Con
+#### 51 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

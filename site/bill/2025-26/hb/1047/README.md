@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201047)
+* 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201047)
 
 ## Meetings
 ### Thu 01/23 01:30 PM - Finance (FIN): HB 1047 Fire district equip. taxes
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32445&aId=161419&caId=24871&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32445&aId=161419&caId=24871&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

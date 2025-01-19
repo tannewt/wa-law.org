@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=4)
 
-#### 292 👍 - Pro
+#### 463 👍 - Pro
 Testifying:
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer
@@ -35,7 +35,8 @@ Testifying:
 * Lindsey Yocum - Lake Washington School District
 * Shane Backlund - ESD 105 Schools Coalition
 * Tyler Muench - Office of Superintendent of Public Instruction
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

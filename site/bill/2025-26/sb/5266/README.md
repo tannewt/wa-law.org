@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32436&aId=161674&caId=24765&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32436&aId=161674&caId=24765&tId=4)
 
-#### 48 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Randy Roberson III - TVW's Capitol Classroom
 * Katie Hurley - King County Department of Public Defense
@@ -28,6 +28,6 @@ Testifying:
 * Lola Luna - Justice for Girls Coalition
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

@@ -19,15 +19,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=4)
 
-#### 1237 👍 - Pro
+#### 1480 👍 - Pro
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner, AMHO
 * Kyle Lucas - Urban Indians NW & Tenants United at Western Plaza Mobile Home Park
 * david harms
 * Jani Hitchen - Jani Hitchen-Pierce County Council Chair
 * Annette Hanson - Public WA State School retiree and modular home owner in 55+ park
+* Monique McClure
+* Max Newland
+* Elizabeth Rung
 
-#### 1375 👎 - Con
+#### 1642 👎 - Con
 Testifying:
 * Constance Nelson
 * Russ Millard
@@ -48,7 +51,9 @@ Testifying:
 * Michael Gustavson
 * Gordon Bock - n/a
 * Patricia Hoendermis - [Yakima Valley Landlords Association](/org/yakima_valley_landlords_association/)
+* DAVID NAGEL
+* Kenton Gartrell - YVLA
 
-#### 16 ❓ - Other
+#### 18 ❓ - Other
 Testifying:
 * Tonya Hardwick

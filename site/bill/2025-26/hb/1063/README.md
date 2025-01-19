@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201063)
+* 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201063)
 
 ## Meetings
 ### Wed 01/22 01:30 PM - Consumer Protection & Business (CPB): HB 1063 Earned wage access services
@@ -17,11 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161773&caId=24848&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161773&caId=24848&tId=4)
 
-#### 23 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Gilbert Arcos
 * Dennise Drury
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other

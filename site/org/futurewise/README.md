@@ -4,16 +4,28 @@
 ### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act. 👍1  
 * 👍💵 Bryce Yadon
 
+### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters. 👍1  
+* 👍💵 Bryce Yadon
+
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 * 👍💵 Bryce Yadon
 
-## [SB 5055](/bill/2025-26/sb/5055/) - Agritourism  👎1 
+### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
+* 👍💵 Bryce Yadon
+
+### [SB 5055](/bill/2025-26/sb/5055/) - Agritourism  👎1 
 * 👎💵 Bryce Yadon
+
+### [SB 5173](/bill/2025-26/sb/5173/) - Concerning county comprehensive plans and development regulations.  👎1 
+* 👎💵 Bryce Yadon
+
+## [SB 5197](/bill/2025-26/sb/5197/) - Local government planning 👍1  
+* 👍💵 Bryce Yadon
 
 ## 2023-24
 
-### [SB 5055](/bill/2023-24/sb/5055/) - Agritourism  👎1 
-* 👎💵 Bryce Yadon
+### [SB 5197](/bill/2023-24/sb/5197/) - Local government planning 👍1  
+* 👍💵 Bryce Yadon
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1
 

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32444&aId=161414&caId=24869&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32444&aId=161414&caId=24869&tId=4)
 
-#### 49 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * 💵Anthony Hemstad - Washington Housing Development, LLC
 

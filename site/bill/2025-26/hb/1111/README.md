@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201111)
+* 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201111)
 
 ## Meetings
 ### Mon 01/20 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1111 Early release petitions
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161442&caId=24836&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161442&caId=24836&tId=4)
 
-#### 62 👍 - Pro
+#### 77 👍 - Pro
 Testifying:
 * Katie Hurley - King County Department of Public Defense
 * Elisa Cozad - TeamChild
@@ -31,6 +32,6 @@ Testifying:
 * Judge David Keenan - Washington State Minority and Justice Commission
 * Moses Mutel - TVW's Capitol Classroom
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

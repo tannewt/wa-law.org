@@ -24,7 +24,7 @@ Testifying:
 * Rod Higgins - Councilmember, City of Spokane Valley
 * Salim Nice
 
-#### 50 👎 - Con
+#### 89 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

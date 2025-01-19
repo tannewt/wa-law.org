@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201188)
+* 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201188)
 
 ## Meetings
 ### Mon 01/20 01:30 PM - Environment & Energy (ENVI): HB 1188 Wind & solar siting approval
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161592&caId=24862&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161592&caId=24862&tId=4)
 
-#### 17 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Kevin Akesson
 * Kevin Akesson
@@ -25,6 +26,6 @@ Testifying:
 * Paul Krupin - Tri-Cities CARES
 * Sue Lani Madsen - Washington Rural Environmental Network
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

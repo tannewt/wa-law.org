@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161673&caId=24753&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161673&caId=24753&tId=4)
 
-#### 58 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Erica Tomas
 * Eliana Horn
 
-#### 10 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * Theresa Schrempp
 

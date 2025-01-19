@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1254/</link>
 		<description>Updates about HB 1254</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 18 Jan 2025 01:13:45 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 18 Jan 2025 09:21:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -51,6 +51,21 @@
 			<pubDate>Sat, 18 Jan 2025 01:13:45 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201254</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sat, 18 Jan 2025 01:13:45 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201254</guid>
+		</item>
+		<item>
+			<title>👎Marianne Tompkins - Restoring Earth Connection</title>
+			<description>Marianne Tompkins signed up to testify Con.</description>
+			<pubDate>Sat, 18 Jan 2025 09:21:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Marianne/Tompkins/2025-01-18 09:21:10</guid>
 		</item>
 	</channel>
 </rss>

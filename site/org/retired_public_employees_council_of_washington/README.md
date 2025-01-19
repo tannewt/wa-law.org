@@ -1,16 +1,16 @@
 # Retired Public Employees Council of Washington
 ## 2025-26
 
-### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans 👍13  
+### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans 👍17  
 
-### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍12  
+### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍17  
 
-## [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍13  
+## [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍17  
 * 👍 Nancy Heley
 
 ## 2023-24
 
-### [SB 5114](/bill/2023-24/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍13  
+### [SB 5114](/bill/2023-24/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍17  
 * 👍 Nancy Heley
 
 ### [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  

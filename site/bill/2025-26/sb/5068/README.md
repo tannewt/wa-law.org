@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Christina Miyamasu - King County Prosecuting Attorney's Office
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

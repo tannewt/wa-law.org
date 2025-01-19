@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161500&caId=24793&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161500&caId=24793&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Kari Reardon - WDA/WACDL
+* Judge Jessica Giner - District & Municipal Court Judges' Association
+* Judge Michael Finkle - District & Municipal Court Judges' Association
+* 💵Melissa Johnson - District & Municipal Court Judges' Association
 
 #### 0 👎 - Con
 

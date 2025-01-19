@@ -19,7 +19,7 @@ Testifying:
 * Ph.D., Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
 * Diego Gonzalez
 
-#### 0 👎 - Con
+#### 51 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

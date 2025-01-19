@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32457&aId=161833&caId=24926&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32457&aId=161833&caId=24926&tId=4)
 
-#### 45 👍 - Pro
+#### 68 👍 - Pro
 Testifying:
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 * Christine Walker - Parkwood Neighborhood Alliance

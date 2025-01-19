@@ -14,14 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161572&caId=24776&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161572&caId=24776&tId=4)
 
-#### 45 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * Angelo Tadrous - Seattle University Workers' Rights Clinic
 * Elizabeth Ford - Seattle University Workers' Rights Committee
 * Yasmene Hammoud - Seattle University Workers' Rights Clinic
 
-#### 0 👎 - Con
+#### 49 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Rose Gundersen - WA Retail Association

@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161571&caId=24775&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161571&caId=24775&tId=4)
 
-#### 26 👍 - Pro
+#### 28 👍 - Pro
 
-#### 3 👎 - Con
+#### 54 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * John Swartz - Kiddie Academy Salmon Creek

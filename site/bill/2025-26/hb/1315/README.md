@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201315)
+* 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201315)
 * 01/16/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Lawmakers again trying to lower legal alcohol limit for drivers in Washington | Cascadia Daily News](https://www.cascadiadaily.com/2025/jan/16/lawmakers-again-trying-to-lower-legal-alcohol-limit-for-drivers-in-washington/#:~:text=House%20version)
 
 ## Meetings
@@ -18,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161691&caId=24842&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161691&caId=24842&tId=4)
 
-#### 10 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Tom Chapman - National Transportation Safety Board
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
@@ -28,7 +29,7 @@ Testifying:
 * Omar Masood - Advocates for Highway & Auto Safety
 * Dale Panattoni
 
-#### 33 👎 - Con
+#### 73 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

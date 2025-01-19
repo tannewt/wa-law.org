@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201118)
+* 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201118)
 
 ## Meetings
 ### Tue 01/21 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1118 Firearm rights restoration
@@ -17,13 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161613&caId=24831&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161613&caId=24831&tId=4)
 
-#### 74 👍 - Pro
+#### 81 👍 - Pro
 Testifying:
 * Vitaliy Kertchen - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 * kyle ivarra
+* Zekiel Castillo
 
-#### 55 👎 - Con
+#### 65 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
+* Devin Owens
 
 #### 0 ❓ - Other

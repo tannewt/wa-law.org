@@ -14,6 +14,9 @@
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 👍1  
 
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
+* 👍💵 Anthony Blankenship
+
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
 ## [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  

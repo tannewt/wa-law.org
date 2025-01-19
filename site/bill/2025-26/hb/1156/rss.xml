@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1156/</link>
 		<description>Updates about HB 1156</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 18 Jan 2025 01:13:45 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 18 Jan 2025 01:32:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -35,6 +35,21 @@
 			<pubDate>Sat, 18 Jan 2025 01:13:45 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201156</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sat, 18 Jan 2025 01:13:45 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201156</guid>
+		</item>
+		<item>
+			<title>👍Andrew Schaffran - WA St Fire Fighters' Association (Volunteers)</title>
+			<description>Andrew Schaffran signed up to testify Pro. They are signed up to represent WA St Fire Fighters' Association (Volunteers).</description>
+			<pubDate>Sat, 18 Jan 2025 01:32:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andrew/Schaffran/2025-01-18 01:32:25</guid>
 		</item>
 	</channel>
 </rss>

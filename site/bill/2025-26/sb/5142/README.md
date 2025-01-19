@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32466&aId=161522&caId=24800&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32466&aId=161522&caId=24800&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Dr. Linda Smith - RKCA4J
+* Emily Weaver
+* Kenneth C Weaver
 
 #### 0 👎 - Con
 

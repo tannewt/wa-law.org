@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32460&aId=161860&caId=24943&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32460&aId=161860&caId=24943&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
+* 💵Conner Edwards - Professional Campaign Treasurer / CG Edwards PLLC
 
 #### 0 ❓ - Other

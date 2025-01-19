@@ -46,6 +46,8 @@
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
+### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
+
 ### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍1  
 
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍1  
@@ -56,10 +58,13 @@
 
 ### [SB 5110](/bill/2025-26/sb/5110/) - Providing tuition waivers for tribal elders at Washington’s community and technical colleges. 👍1  
 
-### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍1  
+### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍4  
 * 👍 Jared Mason-Gere
 
-### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  
+### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍2  
+
+### [SB 5120](/bill/2025-26/sb/5120/) - Learning assistance program 👍1  
+* 👍💵 Julie Salvi
 
 ### [SB 5134](/bill/2025-26/sb/5134/) - Chinese Americans/schools   ❓1
 * ❓💵 Nasue Nishida
@@ -74,20 +79,32 @@
 * ❓💵 Simone Boe
 * ❓💵 Julie Salvi
 
+### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
+
 ### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍2  
 * 👍💵 Nasue Nishida
 
 ### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍1  
 
+### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍1  
+* 👍💵 Julie Salvi
+
 ### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 
-## [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
+### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
+
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍2  
+* 👍💵 Larry Delaney
+
+## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
+* 👍💵 Larry Delaney
 
 ## 2023-24
 
-### [SB 5210](/bill/2023-24/sb/5210/) - Ninth grade success grants 👍1  
+### [SB 5307](/bill/2023-24/sb/5307/) - Special education funding 👍1  
+* 👍💵 Larry Delaney
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 

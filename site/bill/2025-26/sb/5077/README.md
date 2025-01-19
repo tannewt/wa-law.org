@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32482&aId=161559&caId=24810&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32482&aId=161559&caId=24810&tId=4)
 
-#### 80 👍 - Pro
+#### 102 👍 - Pro
+Testifying:
+* 💵Anthony Blankenship - [Civil Survival Project](/org/civil_survival_project/)
 
-#### 11 👎 - Con
+#### 14 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

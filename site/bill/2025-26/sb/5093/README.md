@@ -14,13 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161497&caId=24790&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161497&caId=24790&tId=4)
 
-#### 114 👍 - Pro
+#### 153 👍 - Pro
 Testifying:
 * Dr. Elizabeth Loft
 * Dr. Luis Manriquez
 * Lori Hayes
+* 💵Gabriella Nazari - Government Relations Director, Pro-Choice Washington
+* Sara Ainsworth - Chief Legal & Policy Director, If/When/How: Lawyering for Reproductive Justice
+* 💵Yvette Maganya - Lobbyist and Community Relations Liaison, Legal Voice
+* 💵Gabriella Nazari - Pro-Choice Washington
+* Sara Ainsworth - If/When/How: Lawyering for Reproductive Justice
+* 💵Yvette Maganya - [Legal Voice](/org/legal_voice/)
 
-#### 4 👎 - Con
+#### 64 👎 - Con
 Testifying:
 * Theresa Schrempp
 

@@ -14,14 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161611&caId=24829&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161611&caId=24829&tId=4)
 
-#### 91 👍 - Pro
+#### 118 👍 - Pro
 
-#### 931 👎 - Con
+#### 970 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Jane Milhans
 * Austin Sedy
 * kyle ivarra
 * 💵Karen Strickland
+* Michael McKinley
 
 #### 0 ❓ - Other

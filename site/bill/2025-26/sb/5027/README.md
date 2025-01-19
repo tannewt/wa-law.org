@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32463&aId=161494&caId=24756&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32463&aId=161494&caId=24756&tId=4)
 
-#### 26 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
 * Natalie Wilkins
@@ -22,6 +22,6 @@ Testifying:
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * Yewobdar Tiezazu
 
-#### 0 👎 - Con
+#### 56 👎 - Con
 
 #### 0 ❓ - Other

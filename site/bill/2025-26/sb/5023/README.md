@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161573&caId=24777&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161573&caId=24777&tId=4)
 
-#### 68 👍 - Pro
+#### 201 👍 - Pro
 Testifying:
 * Danielle Alvarado - [Fair Work Center](/org/fair_work_center/)
 * Ingrid Chapman
@@ -28,8 +28,10 @@ Testifying:
 * Olga de la Cruz
 * Maria Flores
 * Rocio Avila - National Domestic Workers Alliance
+* Maria Elena Echeverria
+* Maria Elena Echeverria
 
-#### 2 👎 - Con
+#### 59 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 

@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161539&caId=24734&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161539&caId=24734&tId=4)
 
-#### 247 👍 - Pro
+#### 391 👍 - Pro
 Testifying:
 * Advaita Mattam
 * Moritz Maszhold
@@ -37,4 +37,4 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
