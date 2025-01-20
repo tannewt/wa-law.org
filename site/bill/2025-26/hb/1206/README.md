@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32444&aId=161414&caId=24869&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32444&aId=161414&caId=24869&tId=4)
 
-#### 59 👍 - Pro
+#### 67 👍 - Pro
 Testifying:
 * 💵Anthony Hemstad - Washington Housing Development, LLC
+* BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
 #### 0 ❓ - Other

@@ -29,7 +29,13 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
+### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍1  
+
 ### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍1  
+
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
+
+### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1
 * ❓ Kati Durkin

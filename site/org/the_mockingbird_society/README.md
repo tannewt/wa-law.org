@@ -26,11 +26,13 @@
 * ❓💵 Samuel Martin
 * ❓💵 Charles Smith
 
-## [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
+### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
+
+## [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
 
 ## 2023-24
 
-### [SB 5210](/bill/2023-24/sb/5210/) - Ninth grade success grants 👍1  
+### [SB 5304](/bill/2023-24/sb/5304/) - Homelessness/tribal colleges 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 

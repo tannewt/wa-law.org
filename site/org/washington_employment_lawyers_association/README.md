@@ -4,11 +4,13 @@
 ### [HB 1155](/bill/2025-26/hb/1155/) - Noncompetition agreements 👍1  
 * 👍 Jesse Wing
 
-## [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses.  👎1 
+### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses.  👎1 
+
+## [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍1  
 
 ## 2023-24
 
-### [HB 1184](/bill/2023-24/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses.  👎1 
+### [HB 1308](/bill/2023-24/hb/1308/) - Access to personnel records 👍1  
 
 ### [HB 1136](/bill/2023-24/hb/1136/) - Employee expenditures 👍1  
 * 👍 Hardeep S. Rekhi

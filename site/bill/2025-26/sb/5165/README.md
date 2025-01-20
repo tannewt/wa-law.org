@@ -14,9 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32470&aId=161529&caId=24723&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32470&aId=161529&caId=24723&tId=4)
 
-#### 67 👍 - Pro
+#### 282 👍 - Pro
+Testifying:
+* Barbara,Carmel, Howard Gulley
+* Anthony Pate
+* Donna Alber - Donna Alber
 
-#### 2 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Barbara,Carmel, Howard Gulley
+* Barbara,Carmel, Howard Gulley
 
 #### 1 ❓ - Other
 Testifying:

@@ -1,18 +1,28 @@
 # Washington State Public Health Association
 ## 2025-26
 
+### [HB 1062](/bill/2025-26/hb/1062/) - Biomarker testing coverage 👍1  
+
 ### [HB 1066](/bill/2025-26/hb/1066/) - Regulated substance use data 👍2  
 * 👍 Megan Moore
 
 ### [HB 1090](/bill/2025-26/hb/1090/) - Contraceptive coverage 👍1  
 
+### [HB 1132](/bill/2025-26/hb/1132/) - Enhancing public safety by limiting bulk purchases and transfers of firearms and ammunition. 👍1  
+
+### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 👍1  
+
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
 
-## [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
+
+## [SB 5099](/bill/2025-26/sb/5099/) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers. 👍1  
 
 ## 2023-24
 
-### [SB 5098](/bill/2023-24/sb/5098/) - Weapons in certain areas 👍1  
+### [SB 5099](/bill/2023-24/sb/5099/) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers. 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

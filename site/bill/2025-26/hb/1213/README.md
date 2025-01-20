@@ -19,13 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32518&aId=161694&caId=24889&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32518&aId=161694&caId=24889&tId=4)
 
-#### 94 👍 - Pro
+#### 109 👍 - Pro
 
-#### 112 👎 - Con
+#### 141 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Rose Gundersen - WA Retail Association
 * Fortune Pestarino - Retired
 * Robin Pestarino - Retired
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 ❓ - Other

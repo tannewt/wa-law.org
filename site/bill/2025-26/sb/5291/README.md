@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161751&caId=24780&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161751&caId=24780&tId=4)
 
-#### 9 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Mark Stensager
+* 💵Alyssa Odegaard - LeadingAge Washington
+* Laura Cepoi - Olympic Area Agency on Aging
+* Victoria Bickford - SEIU 775
+* Rory Paine-Donovan - Office of the Insurance Commissioner
+* Tyler Langford - Office of the Insurance Commissioner
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

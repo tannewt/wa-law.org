@@ -3,6 +3,12 @@
 
 ### [HB 1015](/bill/2025-26/hb/1015/) - Concerning energy labeling of residential buildings. 👍1  
 
+### [HB 1018](/bill/2025-26/hb/1018/) - Fusion energy facilities 👍1  
+
+### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
+
+### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
+
 ## [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 * 👍 AP Diaz
 

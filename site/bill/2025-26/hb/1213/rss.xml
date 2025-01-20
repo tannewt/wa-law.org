@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1213/</link>
 		<description>Updates about HB 1213</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 18 Jan 2025 11:05:29 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 19 Jan 2025 02:06:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -81,6 +81,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Robin/Pestarino/2025-01-18 11:05:29</guid>
+		</item>
+		<item>
+			<title>👎💵Candice Bock - Association of Washington Cities</title>
+			<description>Candice Bock signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 19 Jan 2025 02:06:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Candice/Bock/2025-01-19 02:06:18</guid>
 		</item>
 	</channel>
 </rss>

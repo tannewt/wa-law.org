@@ -23,6 +23,6 @@ Testifying:
 * Eliana Horn - [Puget Sound Sage](/org/puget_sound_sage/)
 * Aaron Garcia - White Center Community Development Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

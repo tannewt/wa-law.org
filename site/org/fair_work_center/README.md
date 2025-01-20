@@ -7,16 +7,22 @@
 
 ### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍1  
 
-### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
+### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program. 👍1  
+
+### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍3  
 * 👍 Danielle Alvarado
 
-## [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍2  
+### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍2  
 * 👍 Danielle Alvarado
+
+### [SB 5104](/bill/2025-26/sb/5104/) - Protecting employees from coercion in the workplace based on immigration status. 👍2  
+* 👍 Jeremiah Miller
+
+## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
 ## 2023-24
 
-### [SB 5070](/bill/2023-24/sb/5070/) - Interchange fees on tips 👍2  
-* 👍 Danielle Alvarado
+### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants 👍1  
 
 ### [HB 1217](/bill/2023-24/hb/1217/) - Wage complaints 👍1  
 

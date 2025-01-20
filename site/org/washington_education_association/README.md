@@ -20,6 +20,8 @@
 
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers 👍1  
 
+### [HB 1082](/bill/2025-26/hb/1082/) - Child care provider qualif. 👍1  
+
 ### [HB 1105](/bill/2025-26/hb/1105/) - Exempting exclusive bargaining representatives for department of corrections employees from certain provisions related to coalition bargaining. 👍1  
 
 ### [HB 1116](/bill/2025-26/hb/1116/) - Recognizing election day. 👍1  
@@ -38,6 +40,8 @@
 
 ### [HB 1202](/bill/2025-26/hb/1202/) - State gen. obligation bonds 👍1  
 
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
+
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
@@ -54,14 +58,16 @@
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
 
+### [SB 5087](/bill/2025-26/sb/5087/) - CTC legal education programs 👍1  
+
 ### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍1  
 
 ### [SB 5110](/bill/2025-26/sb/5110/) - Providing tuition waivers for tribal elders at Washington’s community and technical colleges. 👍1  
 
-### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍4  
+### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍5  
 * 👍 Jared Mason-Gere
 
-### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍2  
+### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍3  
 
 ### [SB 5120](/bill/2025-26/sb/5120/) - Learning assistance program 👍1  
 * 👍💵 Julie Salvi
@@ -86,7 +92,7 @@
 
 ### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍1  
 
-### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍1  
+### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍2  
 * 👍💵 Julie Salvi
 
 ### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  
@@ -95,15 +101,17 @@
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍2  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍3  
 * 👍💵 Larry Delaney
 
-## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
+### [SB 5291](/bill/2025-26/sb/5291/) - Implementing the recommendations of the long-term services and supports trust commission. 👍1  
+
+## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍2  
 * 👍💵 Larry Delaney
 
 ## 2023-24
 
-### [SB 5307](/bill/2023-24/sb/5307/) - Special education funding 👍1  
+### [SB 5307](/bill/2023-24/sb/5307/) - Special education funding 👍2  
 * 👍💵 Larry Delaney
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1245/</link>
 		<description>Updates about HB 1245</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 14 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 19 Jan 2025 08:29:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,14 @@
 			<pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-14/First reading, referred to Technology, Economic Development, &amp; Veterans.</guid>
+		</item>
+		<item>
+			<title>👍Dave Parker - The Entrepreneurs’ Organization (EO)</title>
+			<description>Dave Parker signed up to testify Pro. They are signed up to represent The Entrepreneurs’ Organization (EO).</description>
+			<pubDate>Sun, 19 Jan 2025 08:29:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dave/Parker/2025-01-19 08:29:14</guid>
 		</item>
 	</channel>
 </rss>

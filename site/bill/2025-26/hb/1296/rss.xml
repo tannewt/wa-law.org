@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1296/</link>
 		<description>Updates about HB 1296</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 18 Jan 2025 04:37:56 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 19 Jan 2025 09:29:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -75,6 +75,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Latasha/Mae/2025-01-18 04:37:56</guid>
+		</item>
+		<item>
+			<title>👍Samantha Fogg - Seattle Council PTSA Co-President</title>
+			<description>Samantha Fogg signed up to testify Pro. They are signed up to represent Seattle Council PTSA Co-President.</description>
+			<pubDate>Sat, 18 Jan 2025 04:54:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Samantha/Fogg/2025-01-18 04:54:52</guid>
+		</item>
+		<item>
+			<title>👎Ronda Litzenberger - Eatonville School Board</title>
+			<description>Ronda Litzenberger signed up to testify Con. They are signed up to represent Eatonville School Board.</description>
+			<pubDate>Sat, 18 Jan 2025 08:55:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ronda/Litzenberger/2025-01-18 08:55:28</guid>
+		</item>
+		<item>
+			<title>❓Katherine George - Eatonville School Board</title>
+			<description>Katherine George signed up to testify Other.</description>
+			<pubDate>Sun, 19 Jan 2025 09:29:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Katherine/George/2025-01-19 09:29:04</guid>
 		</item>
 	</channel>
 </rss>

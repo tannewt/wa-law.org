@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32504&aId=161646&caId=24855&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32504&aId=161646&caId=24855&tId=4)
 
-#### 13 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Stephanie Smith
 * Anna Smith

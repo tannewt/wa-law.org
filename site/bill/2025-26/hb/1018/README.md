@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161591&caId=24861&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161591&caId=24861&tId=4)
 
-#### 3 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Sonia Bumpus - Energy Facility Site Evaluation Council
+* 💵Isaac Kastama - Clean & Prosperous Washington
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

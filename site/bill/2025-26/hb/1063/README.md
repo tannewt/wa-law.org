@@ -18,11 +18,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161773&caId=24848&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161773&caId=24848&tId=4)
 
-#### 31 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Gilbert Arcos
 * Dennise Drury
+* Angel Galvan
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Amanda Martin - NW Consumer Law Center
+* 💵Andrew Kushner - [Center for Responsible Lending](/org/center_for_responsible_lending/)
+* Sam Leonard - WA State Association for Justice
+* Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)

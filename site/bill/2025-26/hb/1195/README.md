@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32456&aId=161465&caId=24884&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32456&aId=161465&caId=24884&tId=4)
 
-#### 45 👍 - Pro
+#### 183 👍 - Pro
 Testifying:
 * Joe Tovar
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Michele Thomas - Washington Low Income Housing Alliance
 
 #### 4 👎 - Con
 

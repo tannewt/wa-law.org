@@ -18,15 +18,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161653&caId=24858&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161653&caId=24858&tId=4)
 
-#### 40 👍 - Pro
+#### 79 👍 - Pro
 Testifying:
 * Danni Askini - Gender Justice League
+* Samantha Fogg - Seattle Council PTSA Co-President
 
-#### 19 👎 - Con
+#### 363 👎 - Con
 Testifying:
 * Robert Bleu - Former Elected School Board Member
 * Jeffrey Bastow
 * Jennifer Heine-Withee
 * Latasha Mae - 14314 Ne 7th pl
+* Ronda Litzenberger - Eatonville School Board
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Katherine George

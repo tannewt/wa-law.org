@@ -18,15 +18,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161613&caId=24831&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161613&caId=24831&tId=4)
 
-#### 81 👍 - Pro
+#### 309 👍 - Pro
 Testifying:
 * Vitaliy Kertchen - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 * kyle ivarra
+* Charles Scroggins
 * Zekiel Castillo
 
-#### 65 👎 - Con
+#### 78 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Devin Owens
+* 💵Anne Anderson - Washington State Narcotics Investigators Association
 
 #### 0 ❓ - Other

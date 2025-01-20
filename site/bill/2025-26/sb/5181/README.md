@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205181)
 * 01/10/2025 [Senate Democrats](/org/senate_democrats/) - [Wilson files comprehensive LGBTQIA+, vulnerable student protections bill package - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/10/wilson-files-comprehensive-lgbtqia-vulnerable-student-protections-bill-package/#:~:text=SB%205181)
 * 01/10/2025 [Senate Democrats](/org/senate_democrats/) - [Wilson files comprehensive LGBTQIA+, vulnerable student protections bill package - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/10/wilson-files-comprehensive-lgbtqia-vulnerable-student-protections-bill-package/#:~:text=SB%205181)
 
@@ -18,13 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161535&caId=24730&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161535&caId=24730&tId=4)
 
-#### 230 👍 - Pro
+#### 366 👍 - Pro
 Testifying:
 * LINDEN JORDAN - PFLAG Skagit
 * Danni Askini - Gender Justice League
 * Devin Owens
+* Felicia Walker
 
-#### 994 👎 - Con
+#### 1328 👎 - Con
 Testifying:
 * Gabriel Jacobs
 * Jennifer Heine-Withee
@@ -36,6 +38,7 @@ Testifying:
 * Austin Boswell
 * Laurie Layne
 * Tonya Hickman - Lynden School Board
+* Autumn Meadows
 * Eyman Tim - initiative Activist
 
 #### 0 ❓ - Other

@@ -3,6 +3,9 @@
 
 ### [HB 1037](/bill/2025-26/hb/1037/) - PFD formation 👍2  
 
+### [HB 1045](/bill/2025-26/hb/1045/) - Uniformed personnel  👎1 
+* 👎💵 Candice Bock
+
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
 
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers   ❓1
@@ -24,16 +27,29 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Candice Bock
 
+### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program.  👎1 
+* 👎💵 Candice Bock
+
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
 * ❓💵 Carl Schroeder
 
 ### [HB 1218](/bill/2025-26/hb/1218/) - Concerning persons referred for competency evaluation and restoration services.  👎1 
 * 👎💵 Candice Bock
 
+### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state.   ❓1
+* ❓💵 Candice Bock
+
 ### [SB 5053](/bill/2025-26/sb/5053/) - PFD formation 👍1  
+
+### [SB 5060](/bill/2025-26/sb/5060/) - Law enf. hiring grants 👍1  
+* 👍💵 Candice Bock
 
 ### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans   ❓1
 * ❓💵 Candice Bock
+
+### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎2 
+* 👎💵 Candice Bock
+* 👎 Ian Payne
 
 ### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system.   ❓1
 * ❓💵 Candice Bock

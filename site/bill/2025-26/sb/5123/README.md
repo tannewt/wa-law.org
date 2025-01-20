@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=Senate%20Bill%205123)
+
 ## Meetings
 ### Tue 01/21 08:00 AM - Early Learning & K-12 Education (EDU): SB 5123 Discrimination in schools
 Sign up to testify:
@@ -14,16 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161537&caId=24732&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161537&caId=24732&tId=4)
 
-#### 236 👍 - Pro
+#### 361 👍 - Pro
 Testifying:
 * LINDEN JORDAN - PFLAG Skagit
 * Samantha Fogg - Seattle Council PTSA Co-President
+* Felicia Walker
 
-#### 698 👎 - Con
+#### 947 👎 - Con
 Testifying:
 * Khushdip Brar - School board director
 * Jennifer Heine-Withee
 * Agata Bergstrom
 * Tonya Hickman - Lynden School Board
+* Trish Huddleston - School Board Director
 
 #### 0 ❓ - Other

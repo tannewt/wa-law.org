@@ -8,20 +8,40 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍1  
+### [HB 1243](/bill/2025-26/hb/1243/) - DSHS overpayments 👍1  
+
+### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
+
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+
+### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
+
+### [SB 5064](/bill/2025-26/sb/5064/) - Rare diseases adv. council 👍1  
+
+### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍2  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓3
 * ❓💵 Ramona Hattendorf
 * ❓💵 Ramona Hattendorf
 * ❓💵 Ramona Hattendorf
 
-### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍1  
+### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍2  
 
-## [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
+
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
+
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
+
+## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍3  
+* 👍💵 Ramona Hattendorf
 
 ## 2023-24
 
-### [SB 5195](/bill/2023-24/sb/5195/) - Capital budget 👍1  
+### [SB 5307](/bill/2023-24/sb/5307/) - Special education funding 👍3  
+* 👍💵 Ramona Hattendorf
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

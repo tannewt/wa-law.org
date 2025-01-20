@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5209/</link>
 		<description>Updates about SB 5209</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 19 Jan 2025 03:20:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,22 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>👍Lawerence Grant - Department of Labor &amp; Industries</title>
+			<description>Lawerence Grant signed up to testify Pro. They are signed up to represent Department of Labor &amp; Industries.</description>
+			<pubDate>Sun, 19 Jan 2025 03:20:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lawerence/Grant/2025-01-19 03:20:25</guid>
+		</item>
+		<item>
+			<title>👍Tammy Fellin - Department of Labor &amp; Industries</title>
+			<description>Tammy Fellin signed up to testify Pro. They are signed up to represent Department of Labor &amp; Industries.</description>
+			<pubDate>Sun, 19 Jan 2025 03:20:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tammy/Fellin/2025-01-19 03:20:25</guid>
 		</item>
 	</channel>
 </rss>

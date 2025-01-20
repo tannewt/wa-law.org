@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161497&caId=24790&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161497&caId=24790&tId=4)
 
-#### 153 👍 - Pro
+#### 256 👍 - Pro
 Testifying:
 * Dr. Elizabeth Loft
 * Dr. Luis Manriquez
@@ -26,8 +26,12 @@ Testifying:
 * Sara Ainsworth - If/When/How: Lawyering for Reproductive Justice
 * 💵Yvette Maganya - [Legal Voice](/org/legal_voice/)
 
-#### 64 👎 - Con
+#### 315 👎 - Con
 Testifying:
 * Theresa Schrempp
+* Theresa Schrempp
+* Barbara Gulley
+* Barbara Gulley
+* Rachel Lamkin
 
 #### 0 ❓ - Other

@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32470&aId=161530&caId=24724&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32470&aId=161530&caId=24724&tId=4)
 
-#### 197 👍 - Pro
+#### 431 👍 - Pro
 Testifying:
 * Samee Charriere
+* Donna Alber - Donna Alber
 
-#### 10 👎 - Con
+#### 40 👎 - Con
 Testifying:
 * Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
 * David Linn

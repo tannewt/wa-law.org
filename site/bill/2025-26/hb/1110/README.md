@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161447&caId=24841&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161447&caId=24841&tId=4)
 
-#### 8 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Oscar Aguirre - King County Bar Association Records Project
 * Alex Uskoski - Washington Association of Criminal Defense Lawyers and Washington Defender Association
@@ -26,7 +26,7 @@ Testifying:
 * Tamara Light - Information For Change
 * Laura Del Villar - [Civil Survival](/org/civil_survival/)
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)

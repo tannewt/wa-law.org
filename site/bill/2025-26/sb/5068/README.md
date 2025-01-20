@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=Senate%20Bill%205068)
+
 ## Meetings
 ### Tue 01/21 08:00 AM - Law & Justice (LAW): SB 5068 Public employ. eligibility
 Sign up to testify:
@@ -14,10 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161502&caId=24795&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161502&caId=24795&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Christina Miyamasu - King County Prosecuting Attorney's Office
 
-#### 1 👎 - Con
+#### 495 👎 - Con
 
 #### 0 ❓ - Other

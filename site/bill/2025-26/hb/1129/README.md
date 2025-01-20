@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161424&caId=24876&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161424&caId=24876&tId=4)
 
-#### 74 👍 - Pro
+#### 143 👍 - Pro
 Testifying:
 * Camille Walton
 * Erica Sahota
@@ -23,7 +23,11 @@ Testifying:
 * Erica Tomas
 * Cari Morales - Resolve
 * Tessa Shouldice
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 
-#### 14 👎 - Con
+#### 305 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jane Beyer - Office of the Insurance Commissioner
+* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)

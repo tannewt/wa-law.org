@@ -14,13 +14,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161571&caId=24775&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161571&caId=24775&tId=4)
 
-#### 28 👍 - Pro
+#### 53 👍 - Pro
+Testifying:
+* Carol Gilmore - child care director
+* 💵Maggie Humphreys - MomsRising
+* Wren Schmid - child care teacher
+* Angelo Pidone - child care teacher
+* Heather Kinney - child care teacher
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* Teresa Brees
 
-#### 54 👎 - Con
+#### 273 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * John Swartz - Kiddie Academy Salmon Creek
+* Dana Christiansen
+* Suzie Hanson - Washington Federation of Independent Schools
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Alison May - KinderCare Learning Companies
+* Jenna Borkoski - Learning Care Group

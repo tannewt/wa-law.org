@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161545&caId=24741&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161545&caId=24741&tId=4)
 
-#### 2 👍 - Pro
+#### 23 👍 - Pro
+Testifying:
+* 💵Ramona Hattendorf
+* Samantha Fogg - Seattle Council PTSA Co-President
 
-#### 418 👎 - Con
+#### 759 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

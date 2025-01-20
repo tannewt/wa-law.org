@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=Senate%20Bill%205266)
+
 ## Meetings
 ### Mon 01/20 01:30 PM - Human Services (HS): SB 5266 Early release petitions
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32436&aId=161674&caId=24765&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32436&aId=161674&caId=24765&tId=4)
 
-#### 61 👍 - Pro
+#### 103 👍 - Pro
 Testifying:
 * Randy Roberson III - TVW's Capitol Classroom
 * Katie Hurley - King County Department of Public Defense
@@ -27,7 +30,14 @@ Testifying:
 * Alexis Hale - Justice for Girls Coalition
 * Lola Luna - Justice for Girls Coalition
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
+* Gloria Butts
+* Jacob Schmitt - Just Us Solutions
+* Raymond Williams - Just Us Solutions
+* Marriam Oliver - Black Prisoners Caucus Community Group
 
-#### 1 👎 - Con
+#### 9 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Tiffany Attrill
 
 #### 0 ❓ - Other

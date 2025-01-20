@@ -23,6 +23,8 @@ Testifying:
 * Alice Jacobsohn - PayrollOrg
 * Sharon Redmond - Department of Social and Health Services
 
-#### 43 👎 - Con
+#### 49 👎 - Con
+Testifying:
+* mike ennis - BIAW
 
 #### 0 ❓ - Other

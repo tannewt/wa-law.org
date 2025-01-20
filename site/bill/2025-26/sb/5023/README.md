@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161573&caId=24777&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161573&caId=24777&tId=4)
 
-#### 201 👍 - Pro
+#### 402 👍 - Pro
 Testifying:
 * Danielle Alvarado - [Fair Work Center](/org/fair_work_center/)
 * Ingrid Chapman
@@ -28,11 +28,33 @@ Testifying:
 * Olga de la Cruz
 * Maria Flores
 * Rocio Avila - National Domestic Workers Alliance
+* Elvia Cortes
+* Jael Cuellar
+* Jordan Goldwarg
+* Dawn Utzig
+* Doris Hinrich
+* Laura Gonzalez
 * Maria Elena Echeverria
 * Maria Elena Echeverria
+* Lilia Salmeron
+* Lisbeth Herrera
+* Maria Suchilt
+* Lizbeth Luna
+* Veronica Sanchez
+* Guadalupe Parades
+* Veronica Sanchez
+* Emily Dills
+* Emily Dills
+* Emily Dills
+* Jordan Goldwarg
 
-#### 59 👎 - Con
+#### 260 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* Barbara Carmel Howard Gulley
+* Barbara CARMEL Howard Gulley
+* Barbara Carmel Howard Gulley
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Tammy Fellin - Department of Labor & Industries

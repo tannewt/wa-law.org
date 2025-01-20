@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Wed 01/15 01:30 PM - State Government & Tribal Relations (SGOV): HB 1147 Civic engage./state custody
-#### 584 👍 - Pro
+#### 585 👍 - Pro
 Testifying:
 * Amani Sawari
 * Rachael Ann Snell
@@ -26,6 +26,7 @@ Testifying:
 * Larry Jefferson - Washington State Reentry Council and Washington State Office of Public Defense
 * Devon Adams
 * Alexa Hale
+* Alexis Hale
 
 #### 500 👎 - Con
 Testifying:

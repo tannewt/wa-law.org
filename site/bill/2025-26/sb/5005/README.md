@@ -21,13 +21,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161469&caId=24766&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161469&caId=24766&tId=4)
 
-#### 74 👍 - Pro
+#### 110 👍 - Pro
 Testifying:
 * Celyna Ly
 * David Lara
 * 💵Ethan Frenchman - [Columbia Legal Services](/org/columbia_legal_services/)
 * Jeanelle Reanier-Briggs
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161836&caId=24920&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161836&caId=24920&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Joe Dacca - [University of Washington](/org/university_of_washington/)
 * Erin O'Connell - Deputy Athletic Director & COO, UW Athletics
+* Michael Dillon - Sr. Assoc. Athletic Director – Health & Performance - University of Washington
 
 #### 0 👎 - Con
 

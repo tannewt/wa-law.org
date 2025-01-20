@@ -17,6 +17,15 @@
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review 👍1  
 * 👍💵 Brent Ludeman
 
+### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface  👎1 
+* 👎💵 Andrea Smiley
+
+### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎1 
+* 👎💵 Andrea Smiley
+
+### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act. 👍1  
+* 👍💵 Andrea Smiley
+
 ### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍1  
 
 ## [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules  👎1 

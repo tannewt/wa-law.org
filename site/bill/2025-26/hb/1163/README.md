@@ -20,9 +20,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161610&caId=24828&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161610&caId=24828&tId=4)
 
-#### 167 👍 - Pro
+#### 463 👍 - Pro
 
-#### 1028 👎 - Con
+#### 1348 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Jane Milhans
@@ -30,6 +30,6 @@ Testifying:
 * kyle ivarra
 * Michael McKinley
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Vitaliy Kertchen - Washington Association of Criminal Defense Lawyers and Washington Defender Association

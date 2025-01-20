@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161443&caId=24837&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161443&caId=24837&tId=4)
 
-#### 102 👍 - Pro
+#### 147 👍 - Pro
 Testifying:
 * Jim Chambers
 * Percy Levy - [Washington Defender Association](/org/washington_defender_association/)
@@ -27,8 +27,13 @@ Testifying:
 * Melody Simle
 * Adam Heyman - WDA and WACDL
 * Robert Goodwin - In individual capacity
+* Heather Kelly - League of Women Voters of Washington
+* Karl Jones
+* Jenice Crews
 
-#### 51 👎 - Con
+#### 243 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 1 ❓ - Other
 Testifying:

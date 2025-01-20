@@ -12,6 +12,11 @@
 
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review   ❓1
 
+### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040. 👍1  
+* 👍 BRIAN ENSLOW
+
+### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
+
 ### [SB 5089](/bill/2025-26/sb/5089/) - Concerning funding rural county coroners and medical examiners. 👍1  
 * 👍💵 Paul Jewell
 

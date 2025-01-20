@@ -11,11 +11,18 @@
 
 ### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers  👎1 
 
+### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes.  👎1 
+
 ### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info  👎1 
 
 ### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎1 
 
+### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential 👍1  
+* 👍 Sean DeWitz
+
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍2  
+
+### [SB 5060](/bill/2025-26/sb/5060/) - Law enf. hiring grants 👍1  
 
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎2 
 * 👎💵 Julia Gorton

@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161691&caId=24842&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161691&caId=24842&tId=4)
 
-#### 11 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Tom Chapman - National Transportation Safety Board
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
@@ -29,8 +29,8 @@ Testifying:
 * Omar Masood - Advocates for Highway & Auto Safety
 * Dale Panattoni
 
-#### 73 👎 - Con
+#### 88 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic

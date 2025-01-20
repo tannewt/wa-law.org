@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161495&caId=24788&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161495&caId=24788&tId=4)
 
-#### 5 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Dakota Manley - Washington State Young Republicans
 * 💵Anne Anderson - Washington State Narcotics Investigators Association
+* Bryce Nelson - Pierce County Prosecutor’s Office
 
-#### 4 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 

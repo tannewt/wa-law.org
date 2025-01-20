@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1118/</link>
 		<description>Updates about HB 1118</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 18 Jan 2025 12:49:46 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 19 Jan 2025 08:38:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -76,12 +76,28 @@
 			<guid isPermaLink="false">testifier/Devin/Owens/2025-01-18 10:31:54</guid>
 		</item>
 		<item>
+			<title>👍Charles Scroggins - Washington Association of Criminal Defense Lawyers and Washington Defender Association</title>
+			<description>Charles Scroggins signed up to testify Pro.</description>
+			<pubDate>Sat, 18 Jan 2025 11:13:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Charles/Scroggins/2025-01-18 11:13:02</guid>
+		</item>
+		<item>
 			<title>👍Zekiel Castillo - Washington Association of Criminal Defense Lawyers and Washington Defender Association</title>
 			<description>Zekiel Castillo signed up to testify Pro.</description>
 			<pubDate>Sat, 18 Jan 2025 12:49:46 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Zekiel/Castillo/2025-01-18 12:49:46</guid>
+		</item>
+		<item>
+			<title>👎💵Anne Anderson - Washington State Narcotics Investigators Association</title>
+			<description>Anne Anderson signed up to testify Con. They are signed up to represent Washington State Narcotics Investigators Association. They are a registered lobbyist.</description>
+			<pubDate>Sun, 19 Jan 2025 08:38:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Anne/Anderson/2025-01-19 08:38:50</guid>
 		</item>
 	</channel>
 </rss>

@@ -20,15 +20,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32490&aId=161596&caId=24864&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32490&aId=161596&caId=24864&tId=4)
 
-#### 361 👍 - Pro
+#### 798 👍 - Pro
 Testifying:
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * Reed Hampton
 * Alex Truelove - Biodegradable Products Institute
 * Brian Pontious - Ingevity
 
-#### 13 👎 - Con
+#### 22 👎 - Con
+Testifying:
+* Rick Vahl - Waste Connections
+* 💵Vicki Christophersen - Washington Refuse and Recycling Association
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1034/</link>
 		<description>Updates about HB 1034</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 17 Jan 2025 11:50:57 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 19 Jan 2025 08:48:56 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Chris/Fox/2025-01-17 11:50:57</guid>
+		</item>
+		<item>
+			<title>❓Jane Beyer - Office of the Insurance Commissioner</title>
+			<description>Jane Beyer signed up to testify Other. They are signed up to represent Office of the Insurance Commissioner.</description>
+			<pubDate>Sun, 19 Jan 2025 08:48:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jane/Beyer/2025-01-19 08:48:56</guid>
 		</item>
 	</channel>
 </rss>

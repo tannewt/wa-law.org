@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161791&caId=24759&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161791&caId=24759&tId=4)
 
-#### 71 👍 - Pro
+#### 96 👍 - Pro
 Testifying:
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Stacey Valenzuela - Manufactured Homeowner/ AMHO member
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Christina Mays - Detente Management, Inc.
+* Monica Grant

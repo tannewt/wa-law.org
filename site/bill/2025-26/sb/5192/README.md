@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205192)
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205192)
 
 ## Meetings
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=4)
 
-#### 463 👍 - Pro
+#### 828 👍 - Pro
 Testifying:
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer
@@ -36,7 +37,13 @@ Testifying:
 * Shane Backlund - ESD 105 Schools Coalition
 * Tyler Muench - Office of Superintendent of Public Instruction
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Jim Kowalkowski - Rural Education Center
+* Jeff Chamberlin - Superintendent, University Place School District
+* Krestin Bahr - Superintendent, Peninsula School District
+* Lance Goodpaster - Superintendent, Franklin Pierce School District
 
-#### 0 👎 - Con
+#### 312 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Alexa Allman

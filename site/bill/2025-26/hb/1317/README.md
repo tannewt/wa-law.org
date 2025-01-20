@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161690&caId=24838&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161690&caId=24838&tId=4)
 
-#### 295 👍 - Pro
+#### 384 👍 - Pro
 Testifying:
 * Matthew Leon
 * Jeffrey Ellis
@@ -32,9 +32,16 @@ Testifying:
 * Crystal Waterbury
 * Taylor Rein
 * Kurt Myers
+* Sean Reilly
+* Tom Sahlberg
+* Arthur Longworth - TeamChild
+* Eugene Youngblood - Look2Justice
+* Gail Brashear
 
-#### 3 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Jenny Fisher

@@ -14,13 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161500&caId=24793&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161500&caId=24793&tId=4)
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Kari Reardon - WDA/WACDL
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Judge Jessica Giner - District & Municipal Court Judges' Association
 * Judge Michael Finkle - District & Municipal Court Judges' Association
 * 💵Melissa Johnson - District & Municipal Court Judges' Association
+* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
+* 💵Brad Banks - Washington State Association of Counties (WSAC) & BHASOs
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

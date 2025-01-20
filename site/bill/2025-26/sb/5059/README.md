@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32500&aId=161756&caId=24815&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32500&aId=161756&caId=24815&tId=4)
 
-#### 50 👍 - Pro
+#### 94 👍 - Pro
+Testifying:
+* Captain Dan Twohig - International Organization of Masters, Mates & Pilots
 
-#### 2 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other

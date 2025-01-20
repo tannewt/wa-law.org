@@ -14,11 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32447&aId=161436&caId=24802&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32447&aId=161436&caId=24802&tId=4)
 
-#### 42 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * Kristi McKennon - Washington State Association for Justice
 * Michael Montgomery - Washington State Association for Justice
 
-#### 1 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Ian Payne - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Tyna Ek - WA Schools Risk Management Pool
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kris Tefft - Washington Self Insurers Ass’n

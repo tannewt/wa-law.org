@@ -18,8 +18,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32499&aId=161627&caId=24867&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32499&aId=161627&caId=24867&tId=4)
 
-#### 258 👍 - Pro
+#### 324 👍 - Pro
 
-#### 4 👎 - Con
+#### 10 👎 - Con
+Testifying:
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 1 ❓ - Other

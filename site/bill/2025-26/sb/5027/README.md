@@ -14,14 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32463&aId=161494&caId=24756&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32463&aId=161494&caId=24756&tId=4)
 
-#### 29 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
 * Natalie Wilkins
 * Rachel Cortez - Washington State Office of Public Defense
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * Yewobdar Tiezazu
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* LaDon Linde - Yakima County Commissioner
 
-#### 56 👎 - Con
+#### 256 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

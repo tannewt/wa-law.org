@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161423&caId=24875&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161423&caId=24875&tId=4)
 
-#### 37 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Ashlan Chang - Lake Washington High School
 * Risa Wada - Lake Washington High School
@@ -22,6 +22,6 @@ Testifying:
 * Yael Alpert - Lake Washington High School
 * Daniel Lin - Washington State Urology Society
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

@@ -307,20 +307,10 @@ async def main():
                 count += 1
             print(count, "amendments")
 
-        # for sponsor in bills_by_sponsor:
-        #     sponsor_info = sponsors_by_id[sponsor]
-        #     if sponsor_info.LastName.text != "Ryu":
-        #         continue
-        #     print(sponsor_info)
-        # sys.exit()
-        #     sponsor_name = sponsor_info.Name.text
-        #     sponsor_email = sponsor_info.Email.text.lower().replace("@leg.wa.gov", "@wa-law.org")
-        #     gitlab_user = sponsor_info.Email.text.lower().split("@")[0]
-        #     for bill_number in bills_by_sponsor[sponsor]:
         bill_link_by_number = {}
         for i, bill_number in enumerate(bills_by_number):
-                # if bill_number != "1000":
-                #     continue
+                if not FORCE_FETCH and bill_number != "1370":
+                    continue
                 sponsor = sponsor_by_bill_number[bill_number]
                 status = ""
                 bill = None
@@ -362,6 +352,9 @@ async def main():
                 print(bill_id, sponsor, short_description)
                 if sponsor in sponsors_by_id:
                     print(sponsors_by_id[sponsor])
+        #     sponsor_name = sponsor_info.Name.text
+        #     sponsor_email = sponsor_info.Email.text.lower().replace("@leg.wa.gov", "@wa-law.org")
+        #     gitlab_user = sponsor_info.Email.text.lower().split("@")[0]
                 # raise RuntimeError()
                 # print(bill.CurrentStatus.IntroducedDate.text, bill.CurrentStatus.ActionDate.text)
 

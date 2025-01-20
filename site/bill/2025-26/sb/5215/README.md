@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32500&aId=161761&caId=24820&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32500&aId=161761&caId=24820&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Rory Paine-Donovan - Office of the Insurance Commissioner
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Axel Swanson - Washington State Association of County Engineers
+* Jeff DeVere - Washington Trucking Associations

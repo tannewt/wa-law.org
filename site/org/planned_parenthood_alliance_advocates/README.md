@@ -1,21 +1,42 @@
 # Planned Parenthood Alliance Advocates
 ## 2025-26
 
+### [HB 1062](/bill/2025-26/hb/1062/) - Biomarker testing coverage 👍1  
+
 ### [HB 1090](/bill/2025-26/hb/1090/) - Contraceptive coverage 👍1  
 * 👍💵 Nicole Kern
+
+### [HB 1129](/bill/2025-26/hb/1129/) - Concerning health plan coverage of fertility-related services. 👍1  
+* 👍💵 Nicole Kern
+
+### [HB 1132](/bill/2025-26/hb/1132/) - Enhancing public safety by limiting bulk purchases and transfers of firearms and ammunition. 👍1  
+
+### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 👍1  
+
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Nicole Kern
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
-## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍1  
+
+### [SB 5093](/bill/2025-26/sb/5093/) - Concerning dignity in pregnancy loss. 👍1  
+
+### [SB 5099](/bill/2025-26/sb/5099/) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers. 👍1  
+
+### [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services 👍1  
+* 👍💵 Nicole Kern
+
+### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Nicole Kern
+
+## [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
 
 ## 2023-24
 
-### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp.   ❓1
-* ❓💵 Nicole Kern
+### [SB 5180](/bill/2023-24/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

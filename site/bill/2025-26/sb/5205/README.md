@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32463&aId=161533&caId=24757&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32463&aId=161533&caId=24757&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Ph.D., Terri Standish-Kuon - [Independent Colleges of Washington](/org/independent_colleges_of_washington/)
 * Diego Gonzalez
+* Allan Belton - [Pacific Lutheran University](/org/pacific_lutheran_university/)
+* Chelsea Cordoba - [Pacific Lutheran University](/org/pacific_lutheran_university/)
+* Marquesse Miguelle Christinia - [Pacific Lutheran University](/org/pacific_lutheran_university/)
 
-#### 51 👎 - Con
+#### 248 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Sandy Kaiser - The Evergreen State College
+* Sam Ligon - Washington State Council of Faculty; Eastern Washington University Faculty Legislative Rep.

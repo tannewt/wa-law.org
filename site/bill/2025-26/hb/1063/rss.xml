@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1063/</link>
 		<description>Updates about HB 1063</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 18 Jan 2025 01:13:45 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 19 Jan 2025 11:06:58 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -58,6 +58,46 @@
 			<pubDate>Sat, 18 Jan 2025 01:13:45 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201063</guid>
+		</item>
+		<item>
+			<title>👍Angel Galvan - Washington State Urology Society</title>
+			<description>Angel Galvan signed up to testify Pro.</description>
+			<pubDate>Sat, 18 Jan 2025 08:25:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Angel/Galvan/2025-01-18 08:25:23</guid>
+		</item>
+		<item>
+			<title>❓Amanda Martin - NW Consumer Law Center</title>
+			<description>Amanda Martin signed up to testify Other. They are signed up to represent NW Consumer Law Center.</description>
+			<pubDate>Sun, 19 Jan 2025 11:03:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Amanda/Martin/2025-01-19 11:03:09</guid>
+		</item>
+		<item>
+			<title>❓💵Andrew Kushner - Center for Responsible Lending</title>
+			<description>Andrew Kushner signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/center_for_responsible_lending/"&gt;Center for Responsible Lending&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 19 Jan 2025 11:03:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Andrew/Kushner/2025-01-19 11:03:09</guid>
+		</item>
+		<item>
+			<title>❓Sam Leonard - WA State Association for Justice</title>
+			<description>Sam Leonard signed up to testify Other. They are signed up to represent WA State Association for Justice.</description>
+			<pubDate>Sun, 19 Jan 2025 11:03:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Sam/Leonard/2025-01-19 11:03:09</guid>
+		</item>
+		<item>
+			<title>❓Molly Gallagher - Statewide Poverty Action Network</title>
+			<description>Molly Gallagher signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/statewide_poverty_action_network/"&gt;Statewide Poverty Action Network&lt;/a&gt;.</description>
+			<pubDate>Sun, 19 Jan 2025 11:06:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Molly/Gallagher/2025-01-19 11:06:58</guid>
 		</item>
 	</channel>
 </rss>

@@ -14,15 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161575&caId=24779&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161575&caId=24779&tId=4)
 
-#### 361 👍 - Pro
+#### 803 👍 - Pro
 Testifying:
 * Anne Paxton - Unemployment Law Projexr
 * Amy Traub - National Employment Law Project
+* Jan Michael Abapo
 
-#### 242 👎 - Con
+#### 408 👎 - Con
 Testifying:
 * Elizabeth New - Washington Policy Center
 * Mike Ennis - BIAW
 * 💵Patrick Connor - NFIB
+* 💵Amber Carter - WA Retail Association
 
-#### 2 ❓ - Other
+#### 9 ❓ - Other

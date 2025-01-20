@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1061/</link>
 		<description>Updates about HB 1061</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 19 Jan 2025 12:11:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,14 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍💵Alex Hur - Dept. of Revenue</title>
+			<description>Alex Hur signed up to testify Pro. They are a registered lobbyist.</description>
+			<pubDate>Sun, 19 Jan 2025 12:11:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alex/Hur/2025-01-19 12:11:45</guid>
 		</item>
 	</channel>
 </rss>

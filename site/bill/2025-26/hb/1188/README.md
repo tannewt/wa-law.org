@@ -18,14 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161592&caId=24862&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161592&caId=24862&tId=4)
 
-#### 23 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Kevin Akesson
 * Kevin Akesson
 * Tresa Bannister
 * Paul Krupin - Tri-Cities CARES
 * Sue Lani Madsen - Washington Rural Environmental Network
+* Karen Brutzman
 
-#### 2 👎 - Con
+#### 9 👎 - Con
 
 #### 0 ❓ - Other

@@ -18,6 +18,8 @@ Sign up to testify:
 Testifying:
 * Peter Herzog - Washington State Parks and Recreation Commission
 
-#### 0 👎 - Con
+#### 8 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Rick Ingham - Meany Lodge

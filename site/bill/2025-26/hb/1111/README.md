@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161442&caId=24836&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161442&caId=24836&tId=4)
 
-#### 77 👍 - Pro
+#### 125 👍 - Pro
 Testifying:
 * Katie Hurley - King County Department of Public Defense
 * Elisa Cozad - TeamChild
@@ -31,7 +31,16 @@ Testifying:
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Judge David Keenan - Washington State Minority and Justice Commission
 * Moses Mutel - TVW's Capitol Classroom
+* Rashida Robbins - TeamChild
+* Jacob Schmitt - Just Us Solutions
+* Marriam Oliver
+* Marriam Oliver
+* Raymond Williams - Just Us Solutions
 
-#### 1 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* La Johnson
+* La Jonna Johnson
 
 #### 0 ❓ - Other

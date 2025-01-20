@@ -14,14 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161574&caId=24778&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161574&caId=24778&tId=4)
 
-#### 29 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Brooke Iverson - Teamsters 174
 * Ellie Klein - PEPS
 * Haley Bannow - Teamsters 174
 * 💵Maggie Humphreys - MomsRising
 
-#### 46 👎 - Con
+#### 248 👎 - Con
 
 #### 4 ❓ - Other
 Testifying:

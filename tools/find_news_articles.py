@@ -55,7 +55,7 @@ EXCLUDE = {
 }
 
 # regular expression pattern to match a date in the format yyyy/mm/dd
-DATE_PATTERN = r"(\d{4})[/-](\d{2})[/-](\d{2})"
+DATE_PATTERN = r"(\d{4})[/-](\d{2}|\w{3})[/-](\d{2})"
 
 after_date = arrow.get(2024, 12, 1)
 
@@ -173,7 +173,11 @@ async def scrape(progress, session, org_rowid, domain):
                 match = re.search(DATE_PATTERN, subsitemap.loc.text)
                 if match:
                     year = int(match.group(1))
-                    month = int(match.group(2))
+                    month = match.group(2)
+                    if len(month) == 3:
+                        month = arrow.get(month, "MMM").month
+                    else:
+                        month = int(month)
                     day = int(match.group(3))
                     lastmod = datetime.datetime(year=year, month=month, day=day, tzinfo=arrow.now().tzinfo)
                     if lastmod < after_date:
@@ -212,7 +216,27 @@ async def scrape(progress, session, org_rowid, domain):
                 # Don't bother with old stuff yet.
                 if lastmod < after_date:
                     continue
-            url_loc = url.loc.text
+                print(url_text, lastmod)
+            else:
+                match = re.search(DATE_PATTERN, url_text)
+                if match:
+                    print(url_text, match)
+                    year = int(match.group(1))
+                    month = match.group(2)
+                    if len(month) == 3:
+                        try:
+                            month = arrow.get(month, "MMM").month
+                        except arrow.parser.ParserMatchError:
+                            month = None
+                    else:
+                        month = int(month)
+                    day = int(match.group(3))
+                    print(url_text, year, month, day)
+                    if month:
+                        lastmod = datetime.datetime(year=year, month=month, day=day, tzinfo=arrow.now().tzinfo)
+                        if lastmod < after_date:
+                            continue
+            url_loc = url_text
             if "capitolhill" in url_loc and "/2024/" not in url_loc:
                 continue
             if "gorgenewscenter.com" in url_loc and "/2024/" not in url_loc:
@@ -361,7 +385,11 @@ async def scrape(progress, session, org_rowid, domain):
             match = re.search(DATE_PATTERN, page_url)
             if match:
                 year = int(match.group(1))
-                month = int(match.group(2))
+                month = match.group(2)
+                if len(month) == 3:
+                    month = arrow.get(month, "MMM").month
+                else:
+                    month = int(month)
                 day = int(match.group(3))
                 try:
                     modified_time = datetime.datetime(year=year, month=month, day=day)

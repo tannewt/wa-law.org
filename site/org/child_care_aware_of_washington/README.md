@@ -1,18 +1,25 @@
 # Child Care Aware of Washington
 ## 2025-26
 
+### [HB 1082](/bill/2025-26/hb/1082/) - Child care provider qualif. 👍1  
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Emily Murphy
 
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
+
+### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  
+
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
 
-## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Emily Murphy
+
+## [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 
 ## 2023-24
 
-### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp.   ❓1
-* ❓💵 Emily Murphy
+### [SB 5184](/bill/2023-24/sb/5184/) - Minimum parking requirements 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205148)
+
 ## Meetings
 ### Fri 01/24 10:30 AM - Housing (HSG): SB 5148 GMA housing element
 Sign up to testify:
@@ -14,7 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161746&caId=24760&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161746&caId=24760&tId=4)
 
-#### 51 👍 - Pro
+#### 67 👍 - Pro
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
 #### 2 👎 - Con
 Testifying:

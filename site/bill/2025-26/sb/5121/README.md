@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=Senate%20Bill%205121)
+
 ## Meetings
 ### Fri 01/24 08:00 AM - Health & Long Term Care (HLTC): SB 5121 Fertility-related services
 Sign up to testify:
@@ -14,13 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161673&caId=24753&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161673&caId=24753&tId=4)
 
-#### 70 👍 - Pro
+#### 139 👍 - Pro
 Testifying:
 * Erica Tomas
 * Eliana Horn
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 
-#### 11 👎 - Con
+#### 288 👎 - Con
 Testifying:
 * Theresa Schrempp
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jane Beyer - Office of the Insurance Commissioner
+* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
