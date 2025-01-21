@@ -20,6 +20,8 @@ Testifying:
 * 💵John Traynor - Washington State Labor Council, AFL-CIO
 * 💵Minna Long - Washington State Building & Construction Trades Council
 
-#### 5 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* 💵Carolyn Logue - Associated Builders & Contractors - Inland Pacific Chapter
 
 #### 1 ❓ - Other

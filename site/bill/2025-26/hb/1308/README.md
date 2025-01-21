@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32519&aId=161859&caId=24941&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32519&aId=161859&caId=24941&tId=4)
 
-#### 97 👍 - Pro
+#### 122 👍 - Pro
 Testifying:
 * Patrick McGah
+* Jane Dale - Washington State Association for Justice
 
-#### 110 👎 - Con
+#### 112 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Amber Carter - WA Retail Association

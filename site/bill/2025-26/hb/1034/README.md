@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161422&caId=24874&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161422&caId=24874&tId=4)
 
-#### 12 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Allison Fine - Center for Chronic Illness
 * Chris Fox - Voices for Non-Opioid Choices
@@ -22,7 +22,9 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Nico Janssen - Office of the Insurance Commissioner
+* Dr. Charissa Fotinos - Health Care Authority (HCA)

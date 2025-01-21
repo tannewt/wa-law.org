@@ -4,6 +4,9 @@
 ### [HB 1144](/bill/2025-26/hb/1144/) - Superior court judge/Skagit 👍1  
 * 👍 Haily Perkins
 
+### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍1  
+* 👍 Brittany Gregory
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍2  
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley

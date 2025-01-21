@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161812&caId=24737&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161812&caId=24737&tId=4)
 
-#### 370 👍 - Pro
+#### 474 👍 - Pro
 Testifying:
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer - Superintendent, Federal Way School District
@@ -38,7 +38,8 @@ Testifying:
 * Lance Goodpaster - Superintendent, Franklin Pierce School District
 * Sarah Milici - Parent advocate
 * Misha Cherniske - Office of Superintendent of Public Instruction
+* Ben Ferney - Cheney Public Schools
 
-#### 70 👎 - Con
+#### 106 👎 - Con
 
 #### 0 ❓ - Other

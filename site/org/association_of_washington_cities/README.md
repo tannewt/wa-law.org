@@ -24,8 +24,22 @@
 ### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act.   ❓1
 * ❓💵 Carl Schroeder
 
+### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential   ❓1
+* ❓💵 Carl Schroeder
+
+### [HB 1183](/bill/2025-26/hb/1183/) - Concerning building code and development regulation reform.   ❓1
+* ❓💵 Carl Schroeder
+
+### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters.   ❓1
+* ❓💵 Carl Schroeder
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Candice Bock
+
+### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040. 👍1  
+
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
+* 👍💵 Carl Schroeder
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program.  👎1 
 * 👎💵 Candice Bock
@@ -36,8 +50,14 @@
 ### [HB 1218](/bill/2025-26/hb/1218/) - Concerning persons referred for competency evaluation and restoration services.  👎1 
 * 👎💵 Candice Bock
 
+### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element   ❓1
+* ❓💵 Carl Schroeder
+
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records   ❓1
 * ❓💵 Candice Bock
+
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
+* 👎💵 Carl Schroeder
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state.   ❓1
 * ❓💵 Candice Bock

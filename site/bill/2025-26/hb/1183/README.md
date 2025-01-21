@@ -17,18 +17,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32521&aId=161719&caId=24893&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32521&aId=161719&caId=24893&tId=4)
 
-#### 241 👍 - Pro
+#### 271 👍 - Pro
 Testifying:
 * Rob Harrison - Passive House Seattle
 * Julie Blazek - AIAWA (American Institute of Architects WA Council)
 * Becaley Elsie
 * MATT HUTCHINS - cast architecture
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Stephen Smith - Center for Building in North America
+* Courtnay Anderson
+* Reggie Bahr
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 12 👎 - Con
+#### 25 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Tammy Fellin - Department of Labor & Industries
 * Dustin Curb - Washington State Building Code Council
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

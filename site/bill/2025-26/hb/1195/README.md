@@ -17,15 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32456&aId=161465&caId=24884&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32456&aId=161465&caId=24884&tId=4)
 
-#### 507 👍 - Pro
+#### 562 👍 - Pro
 Testifying:
 * Joe Tovar
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Sarah Dickmeyer - [Plymouth Housing Group](/org/plymouth_housing_group/)
+* Dan Wise - Catholic Community Services
+* Charles Schaefer
 
-#### 39 👎 - Con
+#### 54 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

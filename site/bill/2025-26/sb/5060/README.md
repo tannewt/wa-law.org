@@ -14,21 +14,18 @@
 
 ## Meetings
 ### Tue 01/21 08:00 AM - Law & Justice (LAW): SB 5060 Law enf. hiring grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161501&caId=24794&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161501&caId=24794&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161501&caId=24794&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161501&caId=24794&tId=4)
-
-#### 78 👍 - Pro
+#### 104 👍 - Pro
 Testifying:
 * Rod Higgins - Councilmember, City of Spokane Valley
 * Salim Nice
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* Alex MacBain - [City of Tacoma](/org/city_of_tacoma/)
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Nathan Olson - Office of the Governor
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 271 👎 - Con
+#### 278 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

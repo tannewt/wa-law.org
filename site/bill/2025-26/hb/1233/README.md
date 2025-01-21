@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32451&aId=161455&caId=24844&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32451&aId=161455&caId=24844&tId=4)
 
-#### 36 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Heather Marks
+* Raymond Williams - Just Us Solutions
 
 #### 2 👎 - Con
 

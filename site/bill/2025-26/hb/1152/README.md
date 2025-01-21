@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161612&caId=24830&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161612&caId=24830&tId=4)
 
-#### 741 👍 - Pro
+#### 811 👍 - Pro
 Testifying:
 * Breck Lebegue
 * Juliet Scarpa - Be SMART
@@ -31,7 +31,7 @@ Testifying:
 * Robert Scentrup - BRADY
 * 💵Jean Hill - WA State Catholic Conference (WSCC)
 
-#### 1663 👎 - Con
+#### 1855 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Jane Milhans
@@ -53,6 +53,11 @@ Testifying:
 * Matthew Causey
 * Anthony Mixer - Washington State Young Republicans
 * Andrew de Sena
+* Anderson Kim
+* Eric Stewart
+* Arron Thompson
+* Benjamin Reed
+* Benjamin Reed
 
 #### 2 ❓ - Other
 Testifying:

@@ -8,11 +8,12 @@
 
 ## Meetings
 ### Fri 01/17 08:00 AM - Consumer Protection & Business (CPB): HB 1078 Pet insurance
-#### 22 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Bea Nahon
 * David Forte - Office of the Insurance Commissioner
 * Rory Paine-Donovan - Office of the Insurance Commissioner
+* Patty Kuderer - Office of the Insurance Commissioner
 
 #### 1 👎 - Con
 

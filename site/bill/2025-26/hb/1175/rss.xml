@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1175/</link>
 		<description>Updates about HB 1175</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 10:40:04 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jan 2025 08:16:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -69,12 +69,36 @@
 			<guid isPermaLink="false">testifier/Sean/DeWitz/2025-01-19 04:23:31</guid>
 		</item>
 		<item>
+			<title>❓💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 20 Jan 2025 10:14:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2025-01-20 10:14:57</guid>
+		</item>
+		<item>
 			<title>👍Mark Schuller - City of Cheney</title>
 			<description>Mark Schuller signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_cheney/"&gt;City of Cheney&lt;/a&gt;.</description>
 			<pubDate>Mon, 20 Jan 2025 10:40:04 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Mark/Schuller/2025-01-20 10:40:04</guid>
+		</item>
+		<item>
+			<title>👍Rachel Mazur - Hillis, Clark, Martin &amp; Peterson</title>
+			<description>Rachel Mazur signed up to testify Pro. They are signed up to represent Hillis, Clark, Martin &amp; Peterson.</description>
+			<pubDate>Tue, 21 Jan 2025 07:29:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rachel/Mazur/2025-01-21 07:29:33</guid>
+		</item>
+		<item>
+			<title>👍Paul Woods - Hillis, Clark, Martin &amp; Peterson</title>
+			<description>Paul Woods signed up to testify Pro.</description>
+			<pubDate>Tue, 21 Jan 2025 08:16:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paul/Woods/2025-01-21 08:16:49</guid>
 		</item>
 	</channel>
 </rss>

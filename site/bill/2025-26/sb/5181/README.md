@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Tue 01/21 08:00 AM - Early Learning & K-12 Education (EDU): SB 5181 Parents rights in education
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161535&caId=24730&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161535&caId=24730&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161535&caId=24730&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161535&caId=24730&tId=4)
-
-#### 773 👍 - Pro
+#### 875 👍 - Pro
 Testifying:
 * LINDEN JORDAN - PFLAG Skagit
 * Danni Askini - Gender Justice League
@@ -35,11 +29,13 @@ Testifying:
 * Emily Carmichael
 * NCSP, Carrie Suchy - Washington State Association of School Psychologists
 * 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* Sarah Hurlburt
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Megan Roseman
 * Amy Cannava - Washington State Association of School Psychologists
 * Taylor Farley - Queer Power Alliance
 
-#### 1790 👎 - Con
+#### 1960 👎 - Con
 Testifying:
 * Gabriel Jacobs
 * Jennifer Heine-Withee
@@ -63,7 +59,10 @@ Testifying:
 * Eric Lundberg
 * Ronda Litzenberger - Eatonville School Board
 * Brian Anderson
+* Latasha Mae
+* Darryl Jones
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Natalya Yudkovsky - Washington State PTA
+* Eric Pratt - America

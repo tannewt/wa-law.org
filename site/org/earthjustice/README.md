@@ -1,12 +1,15 @@
 # Earthjustice
 ## 2025-26
 
-## [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council.   ❓1
+### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council.   ❓1
+* ❓ Eric Gonzalez Alfaro
+
+## [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
 * ❓ Eric Gonzalez Alfaro
 
 ## 2023-24
 
-### [HB 1237](/bill/2023-24/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council.   ❓1
+### [SB 5246](/bill/2023-24/sb/5246/) - Energy facility site eval.   ❓1
 * ❓ Eric Gonzalez Alfaro
 
 ### [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍1  

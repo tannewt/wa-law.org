@@ -17,13 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161808&caId=24782&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161808&caId=24782&tId=4)
 
-#### 35 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * 💵Christoph Mair - [Washington State Labor Council](/org/washington_state_labor_council/)
 * 💵Kendall Kosai - ADL Pacific Northwest
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 
-#### 262 👎 - Con
+#### 328 👎 - Con
 
 #### 5 ❓ - Other
 Testifying:

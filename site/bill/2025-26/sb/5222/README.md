@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=4)
 
-#### 3098 👍 - Pro
+#### 3268 👍 - Pro
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner, AMHO
 * Kyle Lucas - Urban Indians NW & Tenants United at Western Plaza Mobile Home Park
@@ -45,7 +45,7 @@ Testifying:
 * Kathleen Poague - Alonda Villa Park (55 or older Park)
 * Erica Subramaniam
 
-#### 2244 👎 - Con
+#### 2376 👎 - Con
 Testifying:
 * Constance Nelson
 * Russ Millard
@@ -87,7 +87,10 @@ Testifying:
 * Christa Connelly - West Prairie Village MHP
 * Bri O’Hare
 * peter goldstein - Multiple park owner
+* SAM SPIEGELMAN - Citizen Action Defense Fund
+* Tonya Hardwick
 
-#### 31 ❓ - Other
+#### 32 ❓ - Other
 Testifying:
 * Tonya Hardwick
+* Michelle Bart

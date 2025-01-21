@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161445&caId=24839&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161445&caId=24839&tId=4)
 
-#### 73 👍 - Pro
+#### 100 👍 - Pro
 Testifying:
 * Maggie O'Grady - No
 * Amber Goldade
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Jason Lantz - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 

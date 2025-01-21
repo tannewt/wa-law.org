@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161752&caId=24781&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161752&caId=24781&tId=4)
 
-#### 13 👍 - Pro
+#### 22 👍 - Pro
+Testifying:
+* 💵Christoph Mair - Washington State Labor Council, AFL-CIO
 
-#### 98 👎 - Con
+#### 117 👎 - Con
 Testifying:
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Tammie Hetrick - Washington Food Industry Association
 
 #### 3 ❓ - Other
 Testifying:

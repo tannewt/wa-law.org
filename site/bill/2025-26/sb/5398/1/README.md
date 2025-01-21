@@ -1,0 +1,321 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5398](/bill/2025-26/sb/5398/) > [Original Bill](/bill/2025-26/sb/5398/1/)
+
+# SB 5398 - Veterans w/ disabilities/tax
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5398.pdf)
+
+## Section 101
+A person is exempt from any legal obligation to pay all or a portion of the amount of excess and regular real property taxes due and payable in the year following the year in which a claim is filed, and thereafter, in accordance with the following:
+
+1. [Empty]
+
+    a. The property taxes must have been imposed upon a residence which was occupied by the person claiming the exemption as a principal place of residence as of the time of filing. However, any person who sells, transfers, or is displaced from his or her residence may transfer his or her exemption status to a replacement residence, but no claimant may receive an exemption on more than one residence in any year. Moreover, confinement of the person to a hospital, nursing home, assisted living facility, adult family home, or home of a relative for the purpose of long-term care does not disqualify the claim of exemption if:
+
+        i. The residence is temporarily unoccupied;
+
+        ii. The residence is occupied by a spouse or a domestic partner and/or a person financially dependent on the claimant for support; or
+
+        iii. The residence is rented for the purpose of paying nursing home, hospital, assisted living facility, or adult family home costs.
+
+    b. For the purpose of this subsection (1), "relative" means any individual related to the claimant by blood, marriage, or adoption;
+
+2. The person claiming the exemption must have owned, at the time of filing, in fee, as a life estate, or by contract purchase, the residence on which the property taxes have been imposed or if the person claiming the exemption lives in a cooperative housing association, corporation, or partnership, such person must own a share therein representing the unit or portion of the structure in which he or she resides. For purposes of this subsection, a residence owned by a marital community or state registered domestic partnership or owned by cotenants is deemed to be owned by each spouse or each domestic partner or each cotenant, and any lease for life is deemed a life estate;
+
+3. [Empty]
+
+    a. The person claiming the exemption must be
+
+61 years of age or older on December 31st of the year in which the exemption claim is filed, or must have been, at the time of filing, retired from regular gainful employment by reason of disability
+
+.
+
+    b. However, any surviving spouse or surviving domestic partner of a person who was receiving an exemption at the time of the person's death will qualify if the surviving spouse or surviving domestic partner is 57 years of age or older and otherwise meets the requirements of this section;
+
+4. [Empty]
+
+    a. The amount that the person is exempt from an obligation to pay is calculated on the basis of combined disposable income, as defined in RCW 84.36.383.
+
+    b. If the person claiming the exemption was retired for two months or more of the assessment year, the combined disposable income of such person must be calculated by multiplying the average monthly combined disposable income of such person during the months such person was retired by 12.
+
+    c. If the income of the person claiming exemption is reduced for two or more months of the assessment year by reason of the death of the person's spouse or the person's domestic partner, or when other substantial changes occur in disposable income that are likely to continue for an indefinite period of time, the combined disposable income of such person must be calculated by multiplying the average monthly combined disposable income of such person after such occurrences by 12.
+
+    d. [Empty]
+
+        i. If the income of the person claiming the exemption increases as a result of a cost-of-living adjustment to social security benefits or supplemental security income in an amount that would disqualify the applicant from eligibility, the applicant is not disqualified but instead maintains eligibility.
+
+        ii. The continued eligibility under this subsection applies to applications for property taxes levied for collection in calendar year 2024.
+
+    e. If it is necessary to estimate income to comply with this subsection (4), the assessor may require confirming documentation of such income prior to May 31st of the year following application;
+
+5. [Empty]
+
+    a. A person who otherwise qualifies under this section and has a combined disposable income equal to or less than income threshold 3 is exempt from all excess property taxes, the additional state property tax imposed under RCW 84.52.065(2), and the portion of the regular property taxes authorized pursuant to RCW 84.55.050 and approved by the voters, if the legislative authority of the county or city imposing the additional regular property taxes identified this exemption in the ordinance placing the RCW 84.55.050 measure on the ballot; and
+
+    b. [Empty]
+
+        i. A person who otherwise qualifies under this section and has a combined disposable income equal to or less than income threshold 2 but greater than income threshold 1 is exempt from all regular property taxes on the greater of $50,000 or 35 percent of the valuation of his or her residence, but not to exceed $70,000 of the valuation of his or her residence; or
+
+        ii. A person who otherwise qualifies under this section and has a combined disposable income equal to or less than income threshold 1 is exempt from all regular property taxes on the greater of $60,000 or 60 percent of the valuation of his or her residence;
+
+6. [Empty]
+
+    a. For a person who otherwise qualifies under this section and has a combined disposable income equal to or less than income threshold 3, the valuation of the residence is the assessed value of the residence on the later of January 1, 1995, or January 1st of the assessment year the person first qualifies under this section. If the person subsequently fails to qualify under this section only for one year because of high income, this same valuation must be used upon requalification. If the person fails to qualify for more than one year in succession because of high income or fails to qualify for any other reason, the valuation upon requalification is the assessed value on January 1st of the assessment year in which the person requalifies. If the person transfers the exemption under this section to a different residence, the valuation of the different residence is the assessed value of the different residence on January 1st of the assessment year in which the person transfers the exemption.
+
+    b. In no event may the valuation under this subsection be greater than the true and fair value of the residence on January 1st of the assessment year.
+
+    c. This subsection does not apply to subsequent improvements to the property in the year in which the improvements are made. Subsequent improvements to the property must be added to the value otherwise determined under this subsection at their true and fair value in the year in which they are made.
+
+## Section 102
+A person is exempt from any legal obligation to pay all or a portion of the amount of excess and regular real property taxes due and payable in the year following the year in which a claim is filed, and thereafter, in accordance with the following:
+
+1. [Empty]
+
+    a. The property taxes must have been imposed upon a residence which was occupied by the person claiming the exemption as a principal place of residence as of the time of filing. However, any person who sells, transfers, or is displaced from his or her residence may transfer his or her exemption status to a replacement residence, but no claimant may receive an exemption on more than one residence in any year. Moreover, confinement of the person to a hospital, nursing home, assisted living facility, adult family home, or home of a relative for the purpose of long-term care does not disqualify the claim of exemption if:
+
+        i. The residence is temporarily unoccupied;
+
+        ii. The residence is occupied by a spouse or a domestic partner and/or a person financially dependent on the claimant for support; or
+
+        iii. The residence is rented for the purpose of paying nursing home, hospital, assisted living facility, or adult family home costs.
+
+    b. For the purpose of this subsection (1), "relative" means any individual related to the claimant by blood, marriage, or adoption.
+
+2. The person claiming the exemption must have owned, at the time of filing, in fee, as a life estate, or by contract purchase, the residence on which the property taxes have been imposed or if the person claiming the exemption lives in a cooperative housing association, corporation, or partnership, such person must own a share therein representing the unit or portion of the structure in which he or she resides. For purposes of this subsection, a residence owned by a marital community or state registered domestic partnership or owned by cotenants is deemed to be owned by each spouse or each domestic partner or each cotenant, and any lease for life is deemed a life estate.
+
+3. [Empty]
+
+    a. The person claiming the exemption must be a veteran of the armed forces of the United States entitled to and receiving compensation from the United States department of veterans affairs.
+
+    b. However, any surviving spouse or surviving domestic partner of a person who was receiving an exemption at the time of the person's death will qualify if the surviving spouse or surviving domestic partner is 57 years of age or older and otherwise meets the requirements of this section.
+
+4. [Empty]
+
+    a. This section provides partial exemptions for any property owned by veterans with disabilities and surviving spouses of deceased veterans with disabilities. The exemption amount that a qualified disabled veteran receives depends on the veteran's disability rating from the United States department of veterans affairs or the branch of the armed services in which the veteran served. A disability rating from 10 percent through 29 percent may receive an exemption of up to $5,000 from the property's value, 30 percent through 49 percent may receive up to $7,500, 50 percent through 69 percent may receive up to $10,000, and 70 percent through 100 percent may receive up to $12,000.
+
+    b. The amount that the person is exempt from an obligation to pay is calculated according to the table in this subsection, based on the veteran's disability rating from the United States department of veterans affairs or the branch of the armed services in which the veteran served.
+
+## Section 103
+The legislature finds that the property tax exemption authorized by Article VII, section 10 of the state Constitution should be made available on the basis of a retired person's ability to pay property taxes and that the best measure of a retired person's ability to pay taxes is that person's disposable income as defined in RCW 84.36.383.
+
+## Section 104
+The legislature finds that veterans with service-connected disabilities have given so much to our country that they deserve property tax relief.
+
+## Section 201
+1. A city or town that has annexed since 2006 or is conducting annexations of all or a part of a fire protection district or fire protection districts may by resolution, for the enhancement of fire protection services, fix and impose a benefit charge on personal property and improvements to real property that are located in the city or town, to be paid by the owners of the properties: PROVIDED, That a benefit charge shall not apply to personal property and improvements to real property owned or used by: (a) Any recognized religious denomination or religious organization as, or including, a sanctuary or for purposes related to the bona fide religious ministries of the denomination or religious organization, including schools and educational facilities used for kindergarten, primary, or secondary educational purposes or for institutions of higher education and all grounds and buildings related thereto, but not including personal property and improvements to real property owned or used by any recognized religious denomination or religious organization for business operations, profit-making enterprises, or activities not including use of a sanctuary or related to kindergarten, primary, or secondary educational purposes or for institutions of higher education; or (b) any entity exempt from taxation under RCW 35.82.210, 84.36.030(3), or 84.36.560.
+
+2. A benefit charge imposed shall be reasonably proportioned to the measurable benefits to property resulting from the enhancement of services afforded by the city or town fire department. It is acceptable to apportion the benefit charge to the values of the properties as found by the county assessor or assessors modified generally in the proportion that fire insurance rates are reduced or entitled to be reduced as the result of providing the services. Any other method that reasonably apportions the benefit charges to the actual benefits resulting from the degree of protection, which may include but is not limited to the distance from regularly maintained fire protection equipment, the level of fire prevention services provided to the properties, or the need of the properties for specialized services, may be specified in the resolution and shall be subject to contest on the ground of unreasonable or capricious action or action in excess of the measurable benefits to the property resulting from services afforded by the city or town fire department. The city or town may determine that certain properties or types or classes of properties are not receiving measurable benefits based on criteria they establish by resolution. A benefit charge authorized by this section shall not be applicable to the personal property or improvements to real property of any individual, corporation, partnership, firm, organization, or association maintaining a fire department and whose fire protection and training system has been accepted by a fire insurance underwriter maintaining a fire protection engineering and inspection service authorized by the state insurance commissioner to do business in this state, but such property may be protected by the city or town under a contractual agreement. For administrative purposes, the benefit charge imposed on any individual property may be compiled into a single charge, provided that the city or town, upon request of the property owner, provide an itemized list of charges for each measurable benefit included in the charge.
+
+3. The resolution establishing benefit charges shall specify, by legal geographical areas or other specific designations, the charge to apply to each property by location, type, or other designation, or other information that is necessary to the proper computation of the benefit charge to be charged to each property owner subject to the resolution. The county assessor of each county shall determine and identify the personal properties and improvements to real property which are subject to a benefit charge in each city or town and shall furnish and deliver to the county treasurer of that county a listing of the properties with information describing the location, legal description, and address of the person to whom the statement of benefit charges is to be mailed, the name of the owner, and the value of the property and improvements, together with the benefit charge to apply to each. These benefit charges shall be certified to the county treasurer for collection in the same manner that is used for the collection of fire protection assessments for forestlands protected by the department of natural resources under RCW 76.04.610 and the same penalties and provisions for collection shall apply.
+
+4. Each city and town shall contract, prior to the imposition of a benefit charge, for the administration and collection of the benefit charge by each county treasurer, who shall deduct a percent, as provided by contract to reimburse the county for expenses incurred by the county assessor and county treasurer in the administration of the resolution and this section. The county treasurer shall make distributions each year, as the charges are collected, in the amount of the benefit charges imposed on behalf of the city or town, less the deduction provided for in the contract.
+
+5. Any benefit charge authorized by this section shall not be effective unless a proposition to impose the benefit charge is approved by a sixty percent majority of the voters of the city or town voting at a general election or at a special election called by the city or town for that purpose, held within the city or town. An election held pursuant to this section shall be held not more than twelve months prior to the date on which the first such charge is to be assessed: PROVIDED, That a benefit charge approved at an election shall not remain in effect for a period of more than six years nor more than the number of years authorized by the voters if fewer than six years unless subsequently reapproved by the voters.
+
+6. The ballot shall be submitted so as to enable the voters favoring the authorization of a benefit charge to vote "Yes" and those opposed thereto to vote "No," and the ballot shall be:
+
+"Shall . . . . . . . . . . be authorized to impose benefit charges each year for . . . . (insert number of years not to exceed six) years, not to exceed an amount equal to . . . . (insert percentage amount not to exceed sixty) percent of its fire department operating budget?
+
+YES
+
+NO
+
+□
+
+□"
+
+7. A city or town renewing the benefit charge may elect to use the following alternative ballot:
+
+"Shall . . . . . . . . . .  be authorized to continue voter-authorized benefit charges each year for . . . . (insert number of years not to exceed six) years, not to exceed an amount equal to . . . . (insert percentage amount not to exceed sixty) percent of its fire department operating budget?
+
+YES
+
+NO
+
+□
+
+□"
+
+8. Not less than ten days nor more than six months before the election at which the proposition to impose the benefit charge is submitted as provided in this section, the city or town shall hold a public hearing specifically setting forth its proposal to impose benefit charges for the support of its legally authorized activities which will maintain or improve the services afforded in the city or town. A report of the public hearing shall be filed with the county treasurer of each county in which the property is located and be available for public inspection.
+
+9. [Empty]
+
+    a. Prior to November 15th of each year the city or town shall hold a public hearing to review and establish the benefit charges for the subsequent year.
+
+    b. All resolutions imposing or changing the benefit charges shall be filed with the county treasurer for each county in which the property is located, together with the record of each public hearing, before November 30th immediately preceding the year in which the benefit charges are to be collected on behalf of the city or town fire department.
+
+    c. After the benefit charges have been established, the owners of the property subject to the charge shall be notified of the amount of the charge.
+
+10. After notice has been given to the property owners of the amount of the charge, the city or town imposing a benefit charge under this section shall form a review board for at least a two-week period and shall, upon complaint in writing of a party aggrieved owning property in the city or town, reduce the charge of a person who, in their opinion, has been charged too large a sum, to a sum or amount as they believe to be the true, fair, and just amount.
+
+11. A person who is receiving the exemption contained in RCW 84.36.381 through 84.36.389 shall be exempt from any legal obligation to pay a portion of the charge imposed by this section according to the following:
+
+    a. A person who meets the income limitation contained in RCW 84.36.381(5)(a) and does not meet the income limitation contained in RCW 84.36.381(5)(b) (i) or (ii) shall be exempt from twenty-five percent of the charge.
+
+    b. A person who meets the income limitation contained in RCW 84.36.381(5)(b)(i) shall be exempt from fifty percent of the charge.
+
+    c. A person who meets the income limitation contained in RCW 84.36.381(5)(b)(ii) or is eligible for the exemption in section 102 of this act shall be exempt from seventy-five percent of the charge.
+
+12. For the purposes of this section:
+
+    a. "Personal property" includes every form of tangible personal property including, but not limited to, all goods, chattels, stock in trade, estates, or crops, except that the term "personal property" does not include any personal property used for farming, field crops, farm equipment, or livestock; and
+
+    b. "Improvements to real property" does not include permanent growing crops, field improvements installed for the purpose of aiding the growth of permanent crops, or other field improvements normally not subject to damage by fire.
+
+## Section 202
+A person who is receiving the exemption contained in RCW 84.36.381 through 84.36.389 shall be exempt from any legal obligation to pay a portion of the charge imposed by this chapter according to the following.
+
+1. A person who meets the income limitation contained in RCW 84.36.381(5)(a) and does not meet the income limitation contained in RCW 84.36.381(5)(b) (i) or (ii) shall be exempt from twenty-five percent of the charge.
+
+2. A person who meets the income limitation contained in RCW 84.36.381(5)(b)(i) shall be exempt from fifty percent of the charge.
+
+3. A person who meets the income limitation contained in RCW 84.36.381(5)(b)(ii) or is eligible for the exemption under section 102 of this act shall be exempt from seventy-five percent of the charge.
+
+## Section 203
+A person who is receiving the exemption contained in RCW 84.36.381 through 84.36.389 is exempt from any legal obligation to pay a portion of the benefit charge imposed under this chapter as follows:
+
+1. A person who meets the income limitation contained in RCW 84.36.381(5)(a) and does not meet the income limitation contained in RCW 84.36.381(5)(b) (i) or (ii) is exempt from twenty-five percent of the charge;
+
+2. A person who meets the income limitation contained in RCW 84.36.381(5)(b)(i) is exempt from fifty percent of the charge; and
+
+3. A person who meets the income limitation contained in RCW 84.36.381(5)(b)(ii) or is eligible for the exemption under section 102 of this act shall be exempt from seventy-five percent of the charge.
+
+## Section 204
+1. [Empty]
+
+    a. After computation of the taxes imposed pursuant to RCW 82.29A.030 and 82.29A.040, the following credits are allowed in determining the tax payable:
+
+        i. For lessees and sublessees who would qualify for a property tax exemption under RCW 84.36.381 or section 102 of this act if the property were privately owned, the tax otherwise due after this credit must be reduced by a percentage equal to the percentage reduction in property tax that would result from the property tax exemption under RCW 84.36.381 or section 102 of this act; and
+
+        ii. A credit of thirty-three percent of the tax otherwise due is allowed with respect to a product lease.
+
+    b. [Empty]
+
+        i. For a leasehold interest in real property owned by a state university, a credit is allowed equal to the amount that the tax under this chapter exceeds the property tax that would apply if the real property were privately owned by the taxpayer.
+
+        ii. The credit under this subsection (1)(b) is available only if the tax parcel that is subject to the leasehold interest has a market value in excess of ten million dollars. If the leasehold interest attaches to two or more parcels, the credit is available if at least one of the tax parcels has a market value in excess of ten million dollars. In either case, the market value must be determined as of January 1st of the year prior to the year for which the credit is claimed.
+
+        iii. For purposes of calculating the credit under this subsection (1)(b):
+
+(A) If a tax parcel does not have current assessed value in accordance with RCW 84.40.020, a market value appraisal performed by a Washington state-certified general real estate appraiser, as defined in RCW 18.140.010, is sufficient to establish the market value. If the underlying real property that is the subject of the leasehold interest consists of a part of one or more tax parcels, this appraisal must include the market value of the part of the parcel or parcels to which the leasehold interest applies; and
+
+(B) The property tax that would otherwise apply to the real property that is the subject of the leasehold interest is calculated using the existing consolidated levy rate for the property's tax code area.
+
+        iv. The definitions in this subsection apply throughout this subsection (1)(b) unless the context clearly requires otherwise.
+
+(A) "Market value" means the true and fair value of the property as that term is used in RCW 84.40.030, based on the property's highest and best use and determined by any reasonable means approved by the department.
+
+(B) "Real property" has the same meaning as in RCW 84.04.090 and also includes all improvements upon the land the fee of which is still vested in the public owner.
+
+(C) "State university" has the same meaning as "state universities" as provided in RCW 28B.10.016.
+
+    v. The credit provided under this subsection (1)(b) may not be claimed for tax reporting periods beginning on or after January 1, 2032.
+
+2. No credit under subsection (1)(b) of this section may be claimed or approved on or after January 1, 2032.
+
+## Section 205
+1. A claim for exemption under RCW 84.36.381 or section 102 of this act as now or hereafter amended, may be made and filed at any time during the year for exemption from taxes payable the following year and thereafter and solely upon forms as prescribed and furnished by the department of revenue. However, an exemption from tax under RCW 84.36.381 or section 102 of this act continues for no more than six years unless a renewal application is filed as provided in subsection (3) of this section.
+
+2. A person granted an exemption under RCW 84.36.381 or section 102 of this act must inform the county assessor of any change in status affecting the person's entitlement to the exemption on forms prescribed and furnished by the department of revenue.
+
+3. Each person exempt from taxes under RCW 84.36.381 or section 102 of this act in 1993 and thereafter must file with the county assessor a renewal application not later than December 31st of the year the assessor notifies such person of the requirement to file the renewal application. Renewal applications must be on forms prescribed and furnished by the department of revenue.
+
+4. At least once every six years, the county assessor must notify those persons receiving an exemption from taxes under RCW 84.36.381 or section 102 of this act of the requirement to file a renewal application. The county assessor may also require a renewal application following an amendment of the income requirements set forth in RCW 84.36.381 or section 102 of this act.
+
+5. If the assessor finds that the applicant does not meet the qualifications as set forth in RCW 84.36.381 or section 102 of this act, as now or hereafter amended, the claim or exemption must be denied but such denial is subject to appeal under the provisions of RCW 84.48.010 and in accordance with the provisions of RCW 84.40.038. If the applicant had received exemption in prior years based on erroneous information, the taxes must be collected subject to penalties as provided in RCW 84.40.130 for a period of not to exceed five years.
+
+6. The department and each local assessor is hereby directed to publicize the qualifications and manner of making claims under RCW 84.36.381 through 84.36.389, through communications media, including such paid advertisements or notices as it deems appropriate. Notice of the qualifications, method of making applications, the penalties for not reporting a change in status, and availability of further information must be included on or with property tax statements and revaluation notices for all residential property including mobile homes, except rental properties.
+
+7. The department must authorize an option for electronic filing of applications and renewal applications for the exemption under RCW 84.36.381 or section 102 of this act.
+
+8. Beginning August 1, 2023, and by March 1st every third year thereafter, the department must publish updated income thresholds. The adjusted thresholds must be rounded up to the nearest one thousand dollars. If the income threshold adjustment is negative, the income threshold for the prior year continues to apply. The department must adjust income thresholds for each county to reflect the most recent year available of estimated county median household incomes, including preliminary estimates or projections, as published by the office of financial management. For the purposes of this subsection, "county median household income" has the same meaning as provided in RCW 84.36.383.
+
+9. Beginning with the adjustment made by August 1, 2023, as provided in subsection (8) of this section, and every adjustment thereafter, if an income threshold in a county is not adjusted based on percentage of county median income, then the income threshold must be adjusted based on the growth of the seasonally adjusted consumer price index for all urban consumers (CPI-U) for the prior twelve month period as published by the United States bureau of labor statistics. In no case may the adjustment be greater than one percent. The adjusted thresholds must be rounded to the nearest one dollar. If the income threshold adjustment is negative, the income threshold for the prior year continues to apply.
+
+## Section 206
+1. Except as provided in subsection (3) of this section, all claims for exemption shall be made and signed under oath by the person entitled to the exemption, by his or her attorney-in-fact or in the event the residence of such person is under mortgage or purchase contract requiring accumulation of reserves out of which the holder of the mortgage or contract is required to pay real estate taxes, by such holder or by the owner: PROVIDED, That if a claim for exemption is made by a person living in a cooperative housing association, corporation, or partnership, such claim shall be made and signed by the person entitled to the exemption and by the authorized agent of such cooperative.
+
+2. If the taxpayer is unable to submit his or her own claim, the claim shall be submitted by a duly authorized agent or by a guardian or other person charged with the care of the person or property of such taxpayer.
+
+3. All claims for exemption and renewal applications shall be accompanied by such documented verification of income as shall be prescribed by rule adopted by the department of revenue.
+
+4. Any person signing a false claim with the intent to defraud or evade the payment of any tax is guilty of perjury under chapter 9A.72 RCW.
+
+5. The tax liability of a cooperative housing association, corporation, or partnership shall be reduced by the amount of tax exemption to which a claimant residing therein is entitled and such cooperative shall reduce any amount owed by the claimant to the cooperative by such exact amount of tax exemption or, if no amount be owed, the cooperative shall make payment to the claimant of such exact amount of exemption.
+
+6. A remainderman or other person who would have otherwise paid the tax on real property that is the subject of an exemption granted under RCW 84.36.381 or section 102 of this act for an estate for life shall reduce the amount which would have been payable by the life tenant to the remainderman or other person to the extent of the exemption. If no amount is owed or separately stated as an obligation between these persons, the remainderman or other person shall make payment to the life tenant in the exact amount of the exemption.
+
+## Section 207
+A person is entitled to a property tax exemption in the form of a grant as provided in this chapter. The person is entitled to assistance for the payment of all or a portion of the amount of excess and regular real property taxes imposed on the person's residence in the year in which a claim is filed in accordance with the following:
+
+1. The claimant must meet all requirements for an exemption for the residence under section 102 of this act.
+
+2. [Empty]
+
+    a. The person making the claim must be:
+
+        i. 62 years of age or older on December 31st of the year in which the claim is filed, or must have been, at the time of filing, retired from regular gainful employment by reason of disability; and
+
+        ii. A widow or widower of a veteran who:
+
+(A) Died as a result of a service-connected disability;
+
+(B) Was rated as 100 percent disabled by the United States veterans' administration for the 10 years prior to his or her death;
+
+(C) Was a former prisoner of war as substantiated by the United States veterans' administration and was rated as 100 percent disabled by the United States veterans' administration for one or more years prior to his or her death; or
+
+(D) Died on active duty or in active training status as a member of the United States uniformed services, reserves, or national guard; and
+
+    b. The person making the claim must not have remarried.
+
+3.
+
+The claimant must have owned, at the time of filing, the residence on which the real property taxes have been imposed. For purposes of this subsection, a residence owned by cotenants is deemed to be owned by each cotenant. A claimant who has only a share ownership in cooperative housing, a life estate, a lease for life, or a revocable trust does not satisfy the ownership requirement.
+
+4. A person who otherwise qualifies under this section is entitled to assistance in an amount equal to regular and excess property taxes imposed on the difference between the value of the residence eligible for exemption under section 102 of this act and
+
+the first $200,000 of assessed value of the residence
+
+.
+
+5. As used in this section:
+
+    a. "Veteran" has the same meaning as provided under RCW 41.04.005.
+
+    b. The meanings attributed in RCW 84.36.383 to the terms "residence" and "disability" apply throughout this section.
+
+## Section 208
+The assessor shall maintain an assessed valuation in accordance with the approved revaluation cycle for a residence owned by a person qualifying for exemption under RCW 84.36.381 or section 102 of this act in addition to the valuation required under RCW 84.36.381(6). Upon a change in the true and fair value of the residence, the assessor shall notify the person qualifying for exemption under RCW 84.36.381 or section 102 of this act of the new true and fair value and that the new true and fair value will be used to compute property taxes if the property fails to qualify for exemption under RCW 84.36.381 or section 102 of this act.
+
+## Section 209
+1. Subject to any otherwise applicable statutory dollar rate limitations, regular property taxes may be levied by or for a taxing district in an amount exceeding the limitations provided for in this chapter if such levy is authorized by a proposition approved by a majority of the voters of the taxing district voting on the proposition at a general election held within the district or at a special election within the taxing district called by the district for the purpose of submitting such proposition to the voters. Any election held pursuant to this section shall be held not more than 12 months prior to the date on which the proposed levy is to be made, except as provided in subsection (2) of this section. The ballot of the proposition shall state the dollar rate proposed and shall clearly state the conditions, if any, which are applicable under subsection (4) of this section.
+
+2. Subject to statutory dollar limitations, a proposition placed before the voters under this section may authorize annual increases in levies for multiple consecutive years, up to six consecutive years, during which period each year's authorized maximum legal levy shall be used as the base upon which an increased levy limit for the succeeding year is computed, but the ballot proposition must state the dollar rate proposed only for the first year of the consecutive years and must state the limit factor, or a specified index to be used for determining a limit factor, such as the consumer price index, which need not be the same for all years, by which the regular tax levy for the district may be increased in each of the subsequent consecutive years. Elections for this purpose must be held at a primary or general election. The title of each ballot measure must state the limited purposes for which the proposed annual increases during the specified period of up to six consecutive years shall be used.
+
+3. After a levy authorized pursuant to this section is made, the dollar amount of such levy may not be used for the purpose of computing the limitations for subsequent levies provided for in this chapter, unless the ballot proposition expressly states that the levy made under this section will be used for this purpose.
+
+4. If expressly stated, a proposition placed before the voters under subsection (1) or (2) of this section may:
+
+    a. Use the dollar amount of a levy under subsection (1) of this section, or the dollar amount of the final levy under subsection (2) of this section, for the purpose of computing the limitations for subsequent levies provided for in this chapter;
+
+    b. Limit the period for which the increased levy is to be made under (a) of this subsection;
+
+    c. Limit the purpose for which the increased levy is to be made under (a) of this subsection, but if the limited purpose includes making redemption payments on bonds;
+
+        i. For the county in which the state capitol is located, the period for which the increased levies are made may not exceed 25 years; and
+
+        ii. For districts other than a district under (c)(i) of this subsection, the period for which the increased levies are made may not exceed nine years;
+
+    d. Set the levy or levies at a rate less than the maximum rate allowed for the district;
+
+    e. Provide that the exemption authorized by RCW 84.36.381 or section 102 of this act will apply to the levy of any additional regular property taxes authorized by voters; or
+
+    f. Include any combination of the conditions in this subsection.
+
+5. Except as otherwise expressly stated in an approved ballot measure under this section, subsequent levies shall be computed as if:
+
+    a. The proposition under this section had not been approved; and
+
+    b. The taxing district had made levies at the maximum rates which would otherwise have been allowed under this chapter during the years levies were made under the proposition.
+
+## Section 210
+RCW 82.32.805 and 82.32.808 do not apply to this act.

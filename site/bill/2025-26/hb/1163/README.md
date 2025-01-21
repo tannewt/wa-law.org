@@ -21,7 +21,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161610&caId=24828&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161610&caId=24828&tId=4)
 
-#### 554 👍 - Pro
+#### 790 👍 - Pro
 Testifying:
 * Isaiah Lenard
 * Julia Berus
@@ -34,7 +34,7 @@ Testifying:
 * Rebecca Elbaum - Moms Demand Action
 * Robert Schentrup - BRADY
 
-#### 1769 👎 - Con
+#### 1970 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Jane Milhans
@@ -56,8 +56,16 @@ Testifying:
 * Anthony Mixer - Washington State Young Republicans
 * Elizabeth VanSteertegem
 * Andrew de Sena
+* Josef Saltz
+* Wes Vradenburg
+* Lennard Nes Alcid - Young Gun Owners of Washington
+* Eric Stewart
+* Robert McKercher
+* Benjamin Reed
+* Benjamin Reed
+* JOSH WATSON - Toyota of Olympia
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Vitaliy Kertchen - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 * Eric Pratt - America

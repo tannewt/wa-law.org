@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161854&caId=24938&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161854&caId=24938&tId=4)
 
-#### 683 👍 - Pro
+#### 977 👍 - Pro
 Testifying:
 * Chad Magendanz - ABATE
 * Corey Rowden
@@ -23,7 +23,13 @@ Testifying:
 * Jeff Schoenwald
 * Taylor Yount
 * Arun Chauhan
+* Kim Adair
+* Charles Pray
+* Porcia Palo
+* Jorge Castaneda
+* Tycho Cabral
+* Ricky O Saeteurn
 
-#### 10 👎 - Con
+#### 12 👎 - Con
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other

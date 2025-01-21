@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161691&caId=24842&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161691&caId=24842&tId=4)
 
-#### 24 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Tom Chapman - National Transportation Safety Board
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
@@ -30,7 +30,7 @@ Testifying:
 * Omar Masood - Advocates for Highway & Auto Safety
 * Dale Panattoni
 
-#### 141 👎 - Con
+#### 151 👎 - Con
 Testifying:
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
@@ -38,7 +38,8 @@ Testifying:
 * Jason Lantz - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 * Emily Bourne
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Mark McKechnie - Washington Traffic Safety Commission
+* James McMahan - WA Assoc Sheriffs & Police Chiefs

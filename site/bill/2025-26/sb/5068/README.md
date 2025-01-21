@@ -11,17 +11,12 @@
 
 ## Meetings
 ### Tue 01/21 08:00 AM - Law & Justice (LAW): SB 5068 Public employ. eligibility
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161502&caId=24795&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161502&caId=24795&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161502&caId=24795&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161502&caId=24795&tId=4)
-
-#### 9 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Christina Miyamasu - King County Prosecuting Attorney's Office
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 790 👎 - Con
+#### 868 👎 - Con
 
 #### 0 ❓ - Other

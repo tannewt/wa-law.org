@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5291/</link>
 		<description>Updates about SB 5291</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 12:14:57 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jan 2025 07:31:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -93,6 +93,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Rachel/Smith/2025-01-20 12:14:57</guid>
+		</item>
+		<item>
+			<title>❓Ben Veghte - Dept. of Social and Health Services Aging and Long-Term Supports Administration (DSHS ALTSA)</title>
+			<description>Ben Veghte signed up to testify Other. They are signed up to represent Dept. of Social and Health Services Aging and Long-Term Supports Administration (DSHS ALTSA).</description>
+			<pubDate>Tue, 21 Jan 2025 07:31:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Ben/Veghte/2025-01-21 07:31:31</guid>
 		</item>
 	</channel>
 </rss>

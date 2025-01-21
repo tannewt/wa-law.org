@@ -84,6 +84,8 @@
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
+### [SB 5051](/bill/2025-26/sb/5051/) - Nursing assistant regulation 👍1  
+
 ### [SB 5059](/bill/2025-26/sb/5059/) - Ferry captains 👍1  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍2  

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1380/</link>
 		<description>Updates about HB 1380</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 12:23:17 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jan 2025 12:35:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -48,6 +48,14 @@
 			<guid isPermaLink="false">testifier/Jeff/Wagner/2025-01-19 06:37:30</guid>
 		</item>
 		<item>
+			<title>👎💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 20 Jan 2025 10:21:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2025-01-20 10:21:25</guid>
+		</item>
+		<item>
 			<title>👎💵Curtis Steinhauer - Washington State Association of Counties</title>
 			<description>Curtis Steinhauer signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_association_of_counties/"&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
 			<pubDate>Mon, 20 Jan 2025 11:45:52 GMT</pubDate>
@@ -62,6 +70,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Armondo/Pavone/2025-01-20 12:23:17</guid>
+		</item>
+		<item>
+			<title>👎Dana Ralph - City of Kent</title>
+			<description>Dana Ralph signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_kent/"&gt;City of Kent&lt;/a&gt;.</description>
+			<pubDate>Tue, 21 Jan 2025 08:51:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Dana/Ralph/2025-01-21 08:51:26</guid>
+		</item>
+		<item>
+			<title>👍💵James Lovell - choose title</title>
+			<description>James Lovell signed up to testify Pro. They are signed up to represent choose title. They are a registered lobbyist.</description>
+			<pubDate>Tue, 21 Jan 2025 08:52:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/Lovell/2025-01-21 08:52:09</guid>
+		</item>
+		<item>
+			<title>👍Charles Schaefer - Burien Community Support Coalition</title>
+			<description>Charles Schaefer signed up to testify Pro. They are signed up to represent Burien Community Support Coalition.</description>
+			<pubDate>Tue, 21 Jan 2025 12:35:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Charles/Schaefer/2025-01-21 12:35:07</guid>
 		</item>
 	</channel>
 </rss>

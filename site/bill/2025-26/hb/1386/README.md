@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/21 08:00 AM - Finance (FIN): HB 1386 Firearms tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32444&aId=161840&caId=24930&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32444&aId=161840&caId=24930&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32444&aId=161840&caId=24930&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32444&aId=161840&caId=24930&tId=4)
-
-#### 335 👍 - Pro
+#### 583 👍 - Pro
 Testifying:
 * Karyn Brownson - King County Public Health
 * Mahiki Malldi
@@ -29,7 +23,7 @@ Testifying:
 * Gwen Loosmore - WA PTA
 * 💵Jordan Waits
 
-#### 1166 👎 - Con
+#### 1339 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Tom Klotz
@@ -57,7 +51,13 @@ Testifying:
 * Christopher Savage - [Spokane County](/org/spokane_county/)
 * Eric Pratt - America
 * Edward May - [Ducks Unlimited](/org/ducks_unlimited/)
+* Pedro Lopes
+* Anderson Kim
 * Ron Davidson
+* Austin Reed
+* Micheal Picon II
+* Justin Whitaker
+* Derek Trubia
 
 #### 1 ❓ - Other
 Testifying:

@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161737&caId=24745&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161737&caId=24745&tId=4)
 
-#### 50 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * Mark Vossler - Washington Physicians for Social Responsibility
 * Elizabeth Hansen - Washington Physicians for Social Responsibility

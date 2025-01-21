@@ -1,0 +1,82 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1472](/bill/2025-26/hb/1472/) > [Original Bill](/bill/2025-26/hb/1472/1/)
+
+# HB 1472 - Yakima & Rainier schools
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1472.pdf)
+
+## Section 1
+The legislature finds that:
+
+1. The system of services for people with intellectual and developmental disabilities should provide a balanced range of health, social, and supportive services at home or in other residential settings. The receipt of services should be coordinated so as to minimize administrative cost and service duplication, and eliminate unnecessarily complex system organization.
+
+2. Residential habilitation centers exist to provide a safe place to live and appropriate supports to learn the skills needed to live with as much self-determination and independence as possible, including moving to a community-based setting if so desired.
+
+3. Residential habilitation centers should promote individual dignity, autonomy, and a home-like environment.
+
+4. The state has made efforts towards shrinking the residential habilitation centers, particularly at Rainier school and Yakima Valley school, in recent years. The department of social and health services has thoughtfully and successfully transitioned many of the residents at residential habilitation centers into smaller supported settings. The legislature finds that this has been successful because of intentional efforts to honor personal choice, deliberate and transparent work with residents, families, and staff, and expanding supported living and state-operated living alternative settings. It has also been successful when the state makes these transitions over specific and sensible periods of time to allow for safe transition to individually tailored supports.
+
+## Section 2
+1. By June 30, 2027, the department shall close Yakima Valley school and Rainier school and relocate current residents consistent with the requirements of subsections (2) and (3) of this section.
+
+2. Upon the effective date of this section, the department shall not permit any new admission to Yakima Valley school or Rainier school unless such admission is limited to the provision of short-term respite or crisis stabilization services.
+
+3. Within available funds, the department:
+
+    a. Shall provide state-operated living alternatives to residential habilitation center residents transitioning to the community under chapter . . ., Laws of 2025 (this act) who prefer a state-operated community residential service;
+
+    b. May use existing supported living program capacity in the community for former residential habilitation center residents who prefer and choose a supported living program;
+
+    c. Shall provide space at other residential habilitation centers to those who prefer a residential habilitation center setting; and
+
+    d. Shall offer residential habilitation center employees opportunities to work in state-operated living alternatives and other state facilities and programs.
+
+## Section 3
+1. Except as provided in subsection (2) of this section, the following residential habilitation centers are permanently established to provide services to persons with developmental disabilities: Lakeland Village, located at Medical Lake, Spokane county;  and Fircrest School, located at Seattle, King county.
+
+2. The Yakima Valley School, located at Selah, Yakima county, shall cease to operate as a residential habilitation center by June 30, 2027.
+
+3. The Rainier school, located at Buckley, Pierce county shall cease to operate as a residential habilitation center by June 30, 2027.
+
+## Section 4
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Institutional education facility" means residential habilitation and child study and treatment centers operated by the department of social and health services, state long-term juvenile institutions operated by the department of children, youth, and families, state-operated community facilities, county juvenile detention centers, and facilities of the department of corrections that incarcerate juveniles committed as adults.
+
+2. "Institutional education program" means the program of education that is provided to youth in institutional education facilities as a mandatory component of the program of basic education under RCW 28A.150.200.
+
+3. "Institutional education provider" or "provider" means a school district, educational service district, or other entity providing education services to youth in an institutional education facility.
+
+4. "Postresident youth" means a person who is under the age of 21 and a former resident of an institutional education facility. A postresident youth may be a public school student or a person who is eligible to be a public school student but who is not enrolled in a school or otherwise receiving basic education services.
+
+5. "Residential school" means the following institutional education facilities: Green Hill school, Naselle Youth Camp, Echo Glen, Lakeland Village,  Fircrest school, the Child Study and Treatment Center and Secondary School of western state hospital, and other schools, camps, and centers established by the department of social and health services or the department of children, youth, and families for the diagnosis, confinement, and rehabilitation of juveniles committed by the courts or for the care and treatment of persons who are exceptional in their needs by reason of mental or physical deficiency. "Residential school" does not include the state schools for the blind, the Washington state center for childhood deafness and hearing loss, or adult correctional institutions.
+
+6. "School district" has the same meaning as in RCW 28A.315.025 and includes any educational service district that has entered into an agreement to provide a program of education for residents at an institutional education facility on behalf of the school district as a cooperative service program pursuant to RCW 28A.310.180.
+
+7. "Youth" means a person who is under the age of 21 who is a resident of an institutional education facility. A youth may be a public school student or a person who is eligible to be a public school student but who is not enrolled in a school or otherwise receiving basic education services.
+
+## Section 5
+1. The secretary of social and health services shall have full power to manage and govern the following public institutions: The western state hospital, the eastern state hospital, the northern state hospital, Lakeland Village,  and such other institutions as authorized by law, subject only to the limitations contained in laws relating to the management of such institutions.
+
+2. The secretary of corrections shall have full power to manage, govern, and name all state correctional facilities, subject only to the limitations contained in laws relating to the management of such institutions.
+
+3. If any state correctional facility is fully or partially destroyed by natural causes or otherwise, the secretary of corrections may, with the approval of the governor, provide for the establishment and operation of additional residential correctional facilities to place those inmates displaced by such destruction. However, such additional facilities may not be established if there are existing residential correctional facilities to which all of the displaced inmates can be appropriately placed. The establishment and operation of any additional facility shall be on a temporary basis, and the facility may not be operated beyond July 1 of the year following the year in which it was partially or fully destroyed.
+
+4. The secretary of the department of children, youth, and families shall have full power to manage and govern Echo Glen, the Green Hill school, and such other institutions as authorized by law, subject only to the limitations contained in laws relating to the management of such institutions.
+
+## Section 6
+1. The purposes of this section and RCW 72.05.020 through 72.05.210 are: To provide for every child with behavior problems, persons with disabilities, and hearing and visually impaired children, within the purview of this section and RCW 72.05.020 through 72.05.210, as now or hereafter amended, such care, guidance and instruction, control and treatment as will best serve the welfare of the child or person and society; to insure nonpolitical and qualified operation, supervision, management, and control of the Green Hill school, the Naselle Youth Camp, Echo Glen, Lakeland Village,  Fircrest school, the Child Study and Treatment Center and Secondary School of western state hospital, and like residential state schools, camps, and centers hereafter established; and to provide for the persons committed or admitted to those schools that type of care, instruction, and treatment most likely to accomplish their rehabilitation and restoration to normal citizenship.
+
+2. To further such purposes, Green Hill School, Echo Glen, Naselle Youth Camp, and such other juvenile rehabilitation facilities, as may hereafter be established, are placed under the department of children, youth, and families; Lakeland Village,  Fircrest school, the Child Study and Treatment Center and Secondary School of western state hospital, and like residential state schools, camps, and centers, hereafter established, are placed under the department of social and health services.
+
+## Section 7
+## Section 8
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.
+
+## Section 9
+If any part of this act is found to be in conflict with federal requirements that are a prescribed condition to the allocation of federal funds to the state, the conflicting part of this act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this act in its application to the agencies concerned. Rules adopted under this act must meet federal requirements that are a necessary condition to the receipt of federal funds by the state.
+
+## Section 10
+Except for sections 3 through 6 of this act, this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately.
+
+## Section 11
+Sections 3 through 6 of this act take effect June 30, 2027.

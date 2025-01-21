@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Fuki Marie Hisama MD - University of Washington School of Medicine
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

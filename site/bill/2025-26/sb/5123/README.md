@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/21 08:00 AM - Early Learning & K-12 Education (EDU): SB 5123 Discrimination in schools
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161537&caId=24732&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161537&caId=24732&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161537&caId=24732&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161537&caId=24732&tId=4)
-
-#### 634 👍 - Pro
+#### 729 👍 - Pro
 Testifying:
 * LINDEN JORDAN - PFLAG Skagit
 * Samantha Fogg - Seattle Council PTSA Co-President
@@ -25,9 +19,11 @@ Testifying:
 * Jaanvi Ganapathy - Legislative Youth Advisory Council (LYAC)
 * Emily Carmichael
 * NCSP, Carrie Suchy - Washington State Association of School Psychologists
+* Megan Roseman
 * Amy Cannava - Washington State Association of School Psychologists
+* Alexis Janson
 
-#### 1166 👎 - Con
+#### 1281 👎 - Con
 Testifying:
 * Khushdip Brar - School board director
 * Jennifer Heine-Withee
@@ -37,4 +33,4 @@ Testifying:
 * Sarah Garriott
 * Dawn Land - Reject 5599
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

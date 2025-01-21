@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161424&caId=24876&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161424&caId=24876&tId=4)
 
-#### 278 👍 - Pro
+#### 355 👍 - Pro
 Testifying:
 * Camille Walton
 * Erica Sahota
@@ -34,8 +34,9 @@ Testifying:
 * Amy Landram
 * Nicole Post
 * Anahita Arya - Pacific NW Fertility
+* Kaitlin Lee
 
-#### 453 👎 - Con
+#### 491 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 * Theresa Schrempp

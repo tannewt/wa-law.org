@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161423&caId=24875&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161423&caId=24875&tId=4)
 
-#### 58 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Ashlan Chang - Lake Washington High School
 * Risa Wada - Lake Washington High School
@@ -28,7 +28,7 @@ Testifying:
 * 💵Brad Forbes - Alzheimer's Association
 * Stephen King - Washington State Urology Society
 
-#### 22 👎 - Con
+#### 28 👎 - Con
 
 #### 3 ❓ - Other
 Testifying:

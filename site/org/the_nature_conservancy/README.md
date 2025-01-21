@@ -11,7 +11,11 @@
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council.   ❓1
 * ❓💵 Justin Allegro
 
+### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface 👍1  
+
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
+
+### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍 Scott Richards

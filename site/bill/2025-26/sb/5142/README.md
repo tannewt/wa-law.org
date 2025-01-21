@@ -22,6 +22,6 @@ Testifying:
 * Jerry Evans
 * Diane Dobson
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

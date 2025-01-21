@@ -6,6 +6,8 @@
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+
 ## [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services   ❓1
 * ❓💵 Christine Brewer
 

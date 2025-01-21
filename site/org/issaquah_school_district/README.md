@@ -16,7 +16,7 @@
 ### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍2  
 * 👍 Heather Tow-Yick
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍2  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍3  
 * 👍 Heather Tow-Yick
 
 ## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  

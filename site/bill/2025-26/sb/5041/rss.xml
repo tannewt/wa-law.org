@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5041/</link>
 		<description>Updates about SB 5041</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 12:39:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jan 2025 12:00:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -926,6 +926,14 @@
 			<guid isPermaLink="false">testifier/Craig/Griffith/2025-01-20 10:46:54</guid>
 		</item>
 		<item>
+			<title>👎Brian Morrish - Morrish Design Group</title>
+			<description>Brian Morrish signed up to testify Con. They are signed up to represent Morrish Design Group.</description>
+			<pubDate>Mon, 20 Jan 2025 10:50:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brian/Morrish/2025-01-20 10:50:29</guid>
+		</item>
+		<item>
 			<title>👎Corey Rogers - Ward Rugh, Inc.</title>
 			<description>Corey Rogers signed up to testify Con. They are signed up to represent Ward Rugh, Inc..</description>
 			<pubDate>Mon, 20 Jan 2025 10:55:02 GMT</pubDate>
@@ -1052,6 +1060,29 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Melissa/Slaughter/2025-01-20 12:39:00</guid>
+		</item>
+		<item>
+			<title>👎John Levenda - Group Solutions Northwest LLC</title>
+			<description>John Levenda signed up to testify Con.</description>
+			<pubDate>Tue, 21 Jan 2025 07:08:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/John/Levenda/2025-01-21 07:08:58</guid>
+		</item>
+		<item>
+			<title>👎Harry Thetford - Sound Earthworks, Inc.</title>
+			<description>Harry Thetford signed up to testify Con. They are signed up to represent Sound Earthworks, Inc..</description>
+			<pubDate>Tue, 21 Jan 2025 08:10:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Harry/Thetford/2025-01-21 08:10:48</guid>
+		</item>
+		<item>
+			<title>Legislature looks again at unemployment benefits for striking workers • Washington State Standard</title>
+			<description>News article "Legislature looks again at unemployment benefits for striking workers • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Tue, 21 Jan 2025 12:00:33 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/01/21/debate-revived-in-wa-legislature-over-unemployment-benefits-for-striking-workers/#:~:text=Senate%20Bill%205041</guid>
 		</item>
 	</channel>
 </rss>

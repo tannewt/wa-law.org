@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32482&aId=161559&caId=24810&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32482&aId=161559&caId=24810&tId=4)
 
-#### 205 👍 - Pro
+#### 238 👍 - Pro
 Testifying:
 * 💵Anthony Blankenship - [Civil Survival Project](/org/civil_survival_project/)
 * Jacob Schmitt - Just Us Solutions
@@ -26,8 +26,9 @@ Testifying:
 * Abigail Leong
 * 💵Giovanni Severino
 * Lai King
+* 💵Alex Tischenko - Institute for Responsive Government
 
-#### 448 👎 - Con
+#### 849 👎 - Con
 
 #### 4 ❓ - Other
 Testifying:

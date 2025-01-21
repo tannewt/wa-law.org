@@ -18,8 +18,9 @@ Sign up to testify:
 Testifying:
 * Danielle Armbruster - Department of Corrections
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 ❓ - Other

@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32490&aId=161596&caId=24864&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32490&aId=161596&caId=24864&tId=4)
 
-#### 1139 👍 - Pro
+#### 1206 👍 - Pro
 Testifying:
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * Reed Hampton
@@ -38,8 +38,11 @@ Testifying:
 * Allison Kustic - Association of Plastic Recyclers (APR)
 * 💵Andrew Hackman - AMERIPEN
 * Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
+* Erin Gagnon - DTG Recycling
+* Michael Smaha - [Can Manufacturers Institute](/org/can_manufacturers_institute/)
+* Michael Smaha - [Can Manufacturers Institute](/org/can_manufacturers_institute/)
 
-#### 43 👎 - Con
+#### 52 👎 - Con
 Testifying:
 * Rick Vahl - Waste Connections
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
@@ -50,9 +53,10 @@ Testifying:
 * Brian Coddington - Sunshine Disposal and Recycling
 * Ted Carlson - Sanitary Service Company
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Brandon Houskeeper - NW Grocery Retail Assoc.
+* John Richard - Flexible Packaging Association

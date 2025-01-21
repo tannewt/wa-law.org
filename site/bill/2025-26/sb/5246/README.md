@@ -14,16 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32452&aId=161724&caId=24743&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32452&aId=161724&caId=24743&tId=4)
 
-#### 21 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * Casey MacLean - Renewable NW
+* 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 0 👎 - Con
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Sonia Bumpus - Energy Facility Site Evaluation Council
 * 💵Altinay Karasapan - [Climate Solutions](/org/climate_solutions/)
 * 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Eric Gonzalez Alfaro - [Earthjustice](/org/earthjustice/)
+* 💵Josie Cummings - Avista

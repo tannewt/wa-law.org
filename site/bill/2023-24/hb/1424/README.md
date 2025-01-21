@@ -20,6 +20,7 @@
 * 01/24/2023 [The Seattle Times](/org/the_seattle_times/) - [New WA law would shut the door on puppy-mill suffering | The Seattle Times](https://www.seattletimes.com/opinion/editorials/new-wa-law-would-shut-the-door-on-puppy-mill-suffering/#:~:text=House%20Bill%201424)
 * 01/22/2023 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2023 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/01/22/the-house-hot-sheet-for-week-3-of-the-2023-legislative-session/#:~:text=HB%201424)
 * [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Puppyland to pay $3.75 million as a result of consumer protection lawsuit | Washington State](http://www.atg.wa.gov/news/news-releases/puppyland-pay-375-million-result-consumer-protection-lawsuit#:~:text=HB%201424)
+* [Office of the Attorney General](/org/office_of_the_attorney_general/) - [Puppyland to pay $3.75 million as a result of consumer protection lawsuit | Washington State](https://www.atg.wa.gov/news/news-releases/puppyland-pay-375-million-result-consumer-protection-lawsuit#:~:text=HB%201424)
 
 ## Meetings
 ### Tue 03/21 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): ESHB 1424 Dogs and cats/consumers

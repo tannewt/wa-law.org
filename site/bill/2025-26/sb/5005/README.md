@@ -21,7 +21,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161469&caId=24766&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161469&caId=24766&tId=4)
 
-#### 162 👍 - Pro
+#### 169 👍 - Pro
 Testifying:
 * Celyna Ly
 * David Lara
@@ -31,10 +31,12 @@ Testifying:
 * YVETTE ESPARZA - North End Medical Professional Group
 * Jordan Landry
 
-#### 6 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * 💵Brad Banks - Washington State Association of Counties (WSAC)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Katherine Kuhnhausen

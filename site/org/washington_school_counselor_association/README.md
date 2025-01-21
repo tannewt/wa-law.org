@@ -4,6 +4,9 @@
 ### [HB 1136](/bill/2025-26/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment.   ❓1
 * ❓💵 Jenny Morgan
 
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+* 👍💵 Jenny Morgan
+
 ### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍1  
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support   ❓1

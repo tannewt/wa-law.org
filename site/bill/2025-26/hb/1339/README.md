@@ -14,15 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32460&aId=161860&caId=24943&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32460&aId=161860&caId=24943&tId=4)
 
-#### 169 👍 - Pro
+#### 200 👍 - Pro
 Testifying:
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
 * John Ketcham - Manhattan Institute
 * Zoltan Hajnal
 * Avi Green
+* 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
+* 💵Denisse Guerrero - Washington Community Alliance
+* 💵Nilu Jenks - FairVote Washington
 
-#### 282 👎 - Con
+#### 657 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * 💵Conner Edwards - Professional Campaign Treasurer / CG Edwards PLLC
@@ -33,4 +36,4 @@ Testifying:
 * Sam Reed - Retired Secretary of State
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5222/</link>
 		<description>Updates about SB 5222</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 12:45:43 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jan 2025 08:47:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -131,7 +131,7 @@
 			<guid isPermaLink="false">testifier/george/shipley/2025-01-16 08:27:31</guid>
 		</item>
 		<item>
-			<title>❓Tonya Hardwick - Multiple park owner</title>
+			<title>❓Tonya Hardwick - Citizen Action Defense Fund</title>
 			<description>Tonya Hardwick signed up to testify Other.</description>
 			<pubDate>Thu, 16 Jan 2025 08:35:22 GMT</pubDate>
 			<category>testifier</category>
@@ -506,6 +506,14 @@
 			<guid isPermaLink="false">testifier/Kevin/Wallace/2025-01-20 08:36:53</guid>
 		</item>
 		<item>
+			<title>❓Michelle Bart - Citizen Action Defense Fund</title>
+			<description>Michelle Bart signed up to testify Other.</description>
+			<pubDate>Mon, 20 Jan 2025 09:14:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Michelle/Bart/2025-01-20 09:14:10</guid>
+		</item>
+		<item>
 			<title>👍Kathleen Poague - Alonda Villa Park (55 or older Park)</title>
 			<description>Kathleen Poague signed up to testify Pro. They are signed up to represent Alonda Villa Park (55 or older Park).</description>
 			<pubDate>Mon, 20 Jan 2025 09:25:13 GMT</pubDate>
@@ -560,6 +568,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/peter/goldstein/2025-01-20 12:45:43</guid>
+		</item>
+		<item>
+			<title>👎SAM SPIEGELMAN - Citizen Action Defense Fund</title>
+			<description>SAM SPIEGELMAN signed up to testify Con. They are signed up to represent Citizen Action Defense Fund.</description>
+			<pubDate>Tue, 21 Jan 2025 06:59:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/SAM/SPIEGELMAN/2025-01-21 06:59:48</guid>
+		</item>
+		<item>
+			<title>👎Tonya Hardwick - Citizen Action Defense Fund</title>
+			<description>Tonya Hardwick signed up to testify Con.</description>
+			<pubDate>Tue, 21 Jan 2025 08:47:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tonya/Hardwick/2025-01-21 08:47:39</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/21 08:00 AM - Law & Justice (LAW): SB 5099 Firearms dealers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161505&caId=24798&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161505&caId=24798&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161505&caId=24798&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161505&caId=24798&tId=4)
-
-#### 748 👍 - Pro
+#### 781 👍 - Pro
 Testifying:
 * Stephen Lindley
 * Isaiah Lenard
@@ -25,13 +19,14 @@ Testifying:
 * Ann Madsen
 * Ian Taylor
 
-#### 1871 👎 - Con
+#### 1993 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * kyle ivarra
 * Mark Crider - Walla Walla Sheriff's Office
 * Hiedi Mitchell - Sporting Systems
 * Sheriff Mark Crider - Walla Walla County Sheriff
+* Sheriff Mark Crider (kry-der) - Walla Walla County Sheriff
 * 💵Troy Nichols - NSSF - National Shooting Sports Foundation
 * Dan Mitchell - WA Civil Rights Association
 * Jeremy Ball - Sharp Shooting Indoor Range and Gun Shop

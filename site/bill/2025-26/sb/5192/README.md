@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=4)
 
-#### 1124 👍 - Pro
+#### 1277 👍 - Pro
 Testifying:
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer
@@ -46,8 +46,9 @@ Testifying:
 * Heather Tow-Yick - [Issaquah School District](/org/issaquah_school_district/)
 * DARCY HUFFMAN - Olympia School District Board of Directors
 * Doug Vanderleest - WA Association of Maintenance and Operation Administrators
+* Ben Ferney - Cheney Public Schools
 
-#### 517 👎 - Con
+#### 590 👎 - Con
 
 #### 4 ❓ - Other
 Testifying:

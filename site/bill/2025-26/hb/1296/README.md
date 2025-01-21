@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161653&caId=24858&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161653&caId=24858&tId=4)
 
-#### 254 👍 - Pro
+#### 310 👍 - Pro
 Testifying:
 * Danni Askini - Gender Justice League
 * Samantha Fogg - Seattle Council PTSA Co-President
@@ -29,8 +29,9 @@ Testifying:
 * Tracy Dr. Castro-Gill - [Washington Ethnic Studies Now](/org/washington_ethnic_studies_now/)
 * Danni Askini - Gender Justice League
 * Amy Cannava - Washington State Association of School Psychologists
+* 💵Jenny Morgan - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 
-#### 594 👎 - Con
+#### 652 👎 - Con
 Testifying:
 * Robert Bleu - Former Elected School Board Member
 * Jeffrey Bastow

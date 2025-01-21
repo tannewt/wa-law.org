@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Tue 01/21 08:00 AM - Early Learning & K-12 Education (EDU): SB 5180 Schools/gender inclusive
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161536&caId=24731&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161536&caId=24731&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161536&caId=24731&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161536&caId=24731&tId=4)
-
-#### 880 👍 - Pro
+#### 1049 👍 - Pro
 Testifying:
 * LINDEN JORDAN - PFLAG Skagit
 * Samantha Fogg - Seattle Council PTSA Co-President
@@ -37,8 +31,9 @@ Testifying:
 * Asher Robertsonmeyer - Middle School student
 * Amy Cannava - Washington State Association of School Psychologists
 * Taylor Farley - Queer Power Alliance
+* Alexis Janson
 
-#### 1134 👎 - Con
+#### 1258 👎 - Con
 Testifying:
 * Gabriel Jacobs
 * Sharon Damoff
@@ -53,7 +48,9 @@ Testifying:
 * Sarah Garriott
 * Abigail Hornshuh
 * Gabriel Jacobs
+* Justine Kreher
 * Dawn Land
+* Diane Dondero - Grandparents
 
 #### 4 ❓ - Other
 Testifying:

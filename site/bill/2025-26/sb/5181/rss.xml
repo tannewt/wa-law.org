@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5181/</link>
 		<description>Updates about SB 5181</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 12:35:54 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jan 2025 12:32:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -307,6 +307,14 @@
 			<guid isPermaLink="false">testifier/Roxana/Gomez/2025-01-20 09:06:03</guid>
 		</item>
 		<item>
+			<title>👍Sarah Hurlburt - Legal Counsel for Youth and Children</title>
+			<description>Sarah Hurlburt signed up to testify Pro.</description>
+			<pubDate>Mon, 20 Jan 2025 09:20:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sarah/Hurlburt/2025-01-20 09:20:47</guid>
+		</item>
+		<item>
 			<title>❓Natalya Yudkovsky - Washington State PTA</title>
 			<description>Natalya Yudkovsky signed up to testify Other. They are signed up to represent Washington State PTA.</description>
 			<pubDate>Mon, 20 Jan 2025 09:31:21 GMT</pubDate>
@@ -329,6 +337,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jean/Hill/2025-01-20 10:18:54</guid>
+		</item>
+		<item>
+			<title>👍Megan Roseman - Northwest Progressive Institute</title>
+			<description>Megan Roseman signed up to testify Pro.</description>
+			<pubDate>Mon, 20 Jan 2025 11:27:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Megan/Roseman/2025-01-20 11:27:03</guid>
 		</item>
 		<item>
 			<title>👎Eric Lundberg - Washington State Catholic Conference</title>
@@ -369,6 +385,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Taylor/Farley/2025-01-20 12:35:54</guid>
+		</item>
+		<item>
+			<title>👎Latasha Mae - Eatonville School Board</title>
+			<description>Latasha Mae signed up to testify Con.</description>
+			<pubDate>Tue, 21 Jan 2025 06:24:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Latasha/Mae/2025-01-21 06:24:30</guid>
+		</item>
+		<item>
+			<title>❓Eric Pratt - America</title>
+			<description>Eric Pratt signed up to testify Other. They are signed up to represent America.</description>
+			<pubDate>Tue, 21 Jan 2025 06:30:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Eric/Pratt/2025-01-21 06:30:22</guid>
+		</item>
+		<item>
+			<title>👎Darryl Jones - Eatonville School Board</title>
+			<description>Darryl Jones signed up to testify Con.</description>
+			<pubDate>Tue, 21 Jan 2025 12:32:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Darryl/Jones/2025-01-21 12:32:46</guid>
 		</item>
 	</channel>
 </rss>

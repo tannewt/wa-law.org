@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161544&caId=24740&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161544&caId=24740&tId=4)
 
-#### 205 👍 - Pro
+#### 217 👍 - Pro
 Testifying:
 * 💵Oliver Miska
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)

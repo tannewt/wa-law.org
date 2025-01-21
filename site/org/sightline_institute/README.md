@@ -4,8 +4,13 @@
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 * 👍💵 Dan Bertolet
 
+### [HB 1183](/bill/2025-26/hb/1183/) - Concerning building code and development regulation reform. 👍1  
+* 👍💵 Dan Bertolet
+
 ### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections 👍1  
 * 👍💵 Shannon Grimes
+
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
 
 ### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍1  
 * 👍💵 Dan Bertolet

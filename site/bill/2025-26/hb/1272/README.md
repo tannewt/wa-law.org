@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32503&aId=161738&caId=24854&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32503&aId=161738&caId=24854&tId=4)
 
-#### 17 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Taku Mineshita - The Office of the Governor Bob Ferguson
 * Alysha Thompson - Seattle Children's

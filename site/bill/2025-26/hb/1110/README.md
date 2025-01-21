@@ -26,9 +26,10 @@ Testifying:
 * Tamara Light - Information For Change
 * Laura Del Villar - [Civil Survival](/org/civil_survival/)
 
-#### 6 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 ❓ - Other

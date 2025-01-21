@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5123/</link>
 		<description>Updates about SB 5123</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 12:31:59 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jan 2025 06:17:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -133,6 +133,14 @@
 			<guid isPermaLink="false">testifier/NCSP, Carrie/Suchy/2025-01-20 09:05:29</guid>
 		</item>
 		<item>
+			<title>👍Megan Roseman - Washington State Association of School Psychologists</title>
+			<description>Megan Roseman signed up to testify Pro.</description>
+			<pubDate>Mon, 20 Jan 2025 11:27:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Megan/Roseman/2025-01-20 11:27:33</guid>
+		</item>
+		<item>
 			<title>👎Dawn Land - Reject 5599</title>
 			<description>Dawn Land signed up to testify Con. They are signed up to represent Reject 5599.</description>
 			<pubDate>Mon, 20 Jan 2025 12:21:42 GMT</pubDate>
@@ -147,6 +155,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Amy/Cannava/2025-01-20 12:31:59</guid>
+		</item>
+		<item>
+			<title>👍Alexis Janson - Washington State Association of School Psychologists</title>
+			<description>Alexis Janson signed up to testify Pro.</description>
+			<pubDate>Tue, 21 Jan 2025 06:17:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alexis/Janson/2025-01-21 06:17:27</guid>
 		</item>
 	</channel>
 </rss>

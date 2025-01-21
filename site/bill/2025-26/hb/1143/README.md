@@ -20,7 +20,7 @@ Testifying:
 * Allan Belton - [Pacific Lutheran University](/org/pacific_lutheran_university/)
 * Diego Gonzalez
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

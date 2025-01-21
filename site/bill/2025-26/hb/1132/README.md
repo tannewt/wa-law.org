@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161611&caId=24829&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161611&caId=24829&tId=4)
 
-#### 697 👍 - Pro
+#### 772 👍 - Pro
 Testifying:
 * Ann-Marie Parsons
 * Jane Wiess
@@ -28,7 +28,7 @@ Testifying:
 * Ian Taylor
 * Cheryl Berenson
 
-#### 1750 👎 - Con
+#### 1932 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Jane Milhans
@@ -50,6 +50,11 @@ Testifying:
 * Anthony Mixer - Washington State Young Republicans
 * Andrew de Sena
 * Mikhail Tarasov
+* Anderson Kim
+* Eric Stewart
+* Benjamin Reed
+* Benjamin Reed
+* Lennard Nes Alcid
 
 #### 1 ❓ - Other
 Testifying:

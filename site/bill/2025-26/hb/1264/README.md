@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32518&aId=161695&caId=24890&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32518&aId=161695&caId=24890&tId=4)
 
-#### 235 👍 - Pro
+#### 237 👍 - Pro
 Testifying:
 * 💵John Traynor - washington state labor council, afl-cio
 * Chris Schneider
@@ -27,6 +27,6 @@ Testifying:
 * Felix Tapley
 * Dan Twohig - Masters, Mates & Pilots
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 2 ❓ - Other

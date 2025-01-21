@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32518&aId=161694&caId=24889&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32518&aId=161694&caId=24889&tId=4)
 
-#### 325 👍 - Pro
+#### 380 👍 - Pro
 Testifying:
 * 💵Maggie Humphreys - MomsRising
 * Margarita Mota - MomsRising & MamásConPoder
@@ -30,7 +30,7 @@ Testifying:
 * 💵Gabriela Quintana - Economic Opportunity Institute & the WA Work & Family Coalition
 * Taylor Farley - Queer Power Alliance
 
-#### 238 👎 - Con
+#### 302 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Rose Gundersen - WA Retail Association

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/21/2025 [Washington State Standard](/org/washington_state_standard/) - [Legislature looks again at unemployment benefits for striking workers • Washington State Standard](https://washingtonstatestandard.com/2025/01/21/debate-revived-in-wa-legislature-over-unemployment-benefits-for-striking-workers/#:~:text=Senate%20Bill%205041)
+
 ## Meetings
 ### Tue 01/21 10:30 AM - Labor & Commerce (LC): SB 5041 Unemp ins/strikes & lockouts
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161575&caId=24779&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161575&caId=24779&tId=4)
 
-#### 1185 👍 - Pro
+#### 1255 👍 - Pro
 Testifying:
 * Anne Paxton - Unemployment Law Projexr
 * Amy Traub - National Employment Law Project
@@ -29,7 +32,7 @@ Testifying:
 * Joe Kendo - Washington State Labor Council, AFL-CIO
 * Pearl Johnson - UNITE HERE Local 8
 
-#### 1041 👎 - Con
+#### 1185 👎 - Con
 Testifying:
 * Elizabeth New - Washington Policy Center
 * Mike Ennis - BIAW
@@ -131,6 +134,7 @@ Testifying:
 * Bill Symmes
 * TRACEY MOREN
 * Craig Griffith
+* Brian Morrish - Morrish Design Group
 * Corey Rogers - Ward Rugh, Inc.
 * Kathy Scanlan - Northwest Abrasives, LLC
 * Josh Jorgensen - Mission Ridge Ski & Board Resort
@@ -146,7 +150,9 @@ Testifying:
 * Troy Lautenbach - 13084 Ball rd
 * Toby Sutton
 * Melissa Slaughter - Group Solutions Northwest LLC
+* John Levenda
+* Harry Thetford - Sound Earthworks, Inc.
 
-#### 13 ❓ - Other
+#### 15 ❓ - Other
 Testifying:
 * Meenakshi Rani - G4 Telecom

@@ -21,6 +21,6 @@ Testifying:
 * Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * John worthington
 
-#### 72 👎 - Con
+#### 110 👎 - Con
 
 #### 0 ❓ - Other

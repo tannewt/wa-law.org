@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

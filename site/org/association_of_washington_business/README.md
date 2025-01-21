@@ -66,6 +66,8 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎1 
 * 👎 Max Martin
 
+### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040. 👍1  
+
 ### [HB 1209](/bill/2025-26/hb/1209/) - Sodium nitrite   ❓1
 * ❓💵 Peter Godlewski
 
