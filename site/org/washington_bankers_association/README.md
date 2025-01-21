@@ -1,6 +1,9 @@
 # Washington Bankers Association
 ## 2025-26
 
+### [HB 1268](/bill/2025-26/hb/1268/) - Virtual currency kiosks 👍1  
+* 👍 Duncan Taylor
+
 ## [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎2 
 * 👎 Glen Simecek
 

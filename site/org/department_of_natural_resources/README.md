@@ -4,13 +4,14 @@
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
 * 👍 Duane Emmons
 
-## [SB 5170](/bill/2025-26/sb/5170/) - Concerning boundary line adjustments on public lands owned or managed by the department of natural resources.   ❓1
+### [SB 5170](/bill/2025-26/sb/5170/) - Concerning boundary line adjustments on public lands owned or managed by the department of natural resources.   ❓1
 * ❓ Duane Emmons
+
+## [SB 5234](/bill/2025-26/sb/5234/) - Snowmobile registration fees 👍1  
 
 ## 2023-24
 
-### [SB 5170](/bill/2023-24/sb/5170/) - Concerning boundary line adjustments on public lands owned or managed by the department of natural resources.   ❓1
-* ❓ Duane Emmons
+### [SB 5234](/bill/2023-24/sb/5234/) - Snowmobile registration fees 👍1  
 
 ### [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management 👍1  
 

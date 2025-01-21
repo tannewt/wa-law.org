@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/20 01:30 PM - Human Services (HS): SB 5032 Juvenile rehab. ombuds
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32436&aId=161398&caId=24763&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32436&aId=161398&caId=24763&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32436&aId=161398&caId=24763&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32436&aId=161398&caId=24763&tId=4)
-
-#### 5 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Patrick Dowd - WA St. Office of the Family and Children's Ombuds
 

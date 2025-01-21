@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5062/</link>
 		<description>Updates about SB 5062</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 19 Jan 2025 08:24:32 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 20 Jan 2025 08:09:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -132,6 +132,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jenna/Borkoski/2025-01-19 08:24:32</guid>
+		</item>
+		<item>
+			<title>👎Loni Simone - Washington Federation of Independent Schools</title>
+			<description>Loni Simone signed up to testify Con.</description>
+			<pubDate>Sun, 19 Jan 2025 09:43:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Loni/Simone/2025-01-19 09:43:56</guid>
+		</item>
+		<item>
+			<title>👎Anthony Stockman - Washington Federation of Independent Schools</title>
+			<description>Anthony Stockman signed up to testify Con.</description>
+			<pubDate>Mon, 20 Jan 2025 07:41:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Anthony/Stockman/2025-01-20 07:41:41</guid>
+		</item>
+		<item>
+			<title>👎💵Amy Anderson - WA Childcare Centers Association</title>
+			<description>Amy Anderson signed up to testify Con. They are signed up to represent WA Childcare Centers Association. They are a registered lobbyist.</description>
+			<pubDate>Mon, 20 Jan 2025 08:09:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Amy/Anderson/2025-01-20 08:09:23</guid>
 		</item>
 	</channel>
 </rss>

@@ -22,18 +22,38 @@
 
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍2  
 
+### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program.  👎1 
+* 👎💵 Julia Gorton
+
+### [HB 1245](/bill/2025-26/hb/1245/) - Electrical transmission cap. 👍1  
+* 👍 Sean DeWitz
+
+### [HB 1315](/bill/2025-26/hb/1315/) - Impaired driving  👎1 
+* 👎💵 Julia Gorton
+
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+* 👎💵 Julia Gorton
+
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enf. hiring grants 👍1  
+
+### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 
 
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎2 
 * 👎💵 Julia Gorton
 
-## [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍2  
+### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍2  
 * 👍💵 Julia Gorton
+
+### [SB 5101](/bill/2025-26/sb/5101/) - Expanding access to leave and safety accommodations to include workers who are victims of hate crimes or bias incidents.   ❓1
+* ❓💵 Julia Gorton
+
+## [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
+* 👎💵 Julia Gorton
 
 ## 2023-24
 
-### [SB 5070](/bill/2023-24/sb/5070/) - Interchange fees on tips 👍2  
-* 👍💵 Julia Gorton
+### [SB 5292](/bill/2023-24/sb/5292/) - Family & medical leave rates  👎1 
+* 👎💵 Julia Gorton
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  
 

@@ -17,18 +17,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161537&caId=24732&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161537&caId=24732&tId=4)
 
-#### 361 👍 - Pro
+#### 634 👍 - Pro
 Testifying:
 * LINDEN JORDAN - PFLAG Skagit
 * Samantha Fogg - Seattle Council PTSA Co-President
 * Felicia Walker
+* Jaanvi Ganapathy - Legislative Youth Advisory Council (LYAC)
+* Emily Carmichael
+* NCSP, Carrie Suchy - Washington State Association of School Psychologists
+* Amy Cannava - Washington State Association of School Psychologists
 
-#### 947 👎 - Con
+#### 1166 👎 - Con
 Testifying:
 * Khushdip Brar - School board director
 * Jennifer Heine-Withee
 * Agata Bergstrom
 * Tonya Hickman - Lynden School Board
 * Trish Huddleston - School Board Director
+* Sarah Garriott
+* Dawn Land - Reject 5599
 
 #### 0 ❓ - Other

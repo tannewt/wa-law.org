@@ -18,6 +18,9 @@ Sign up to testify:
 Testifying:
 * Todd Myers - Washington Policy Center
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* john worthington
+* john worthington

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/20 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5027 Law school loan repayment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32463&aId=161494&caId=24756&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32463&aId=161494&caId=24756&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32463&aId=161494&caId=24756&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32463&aId=161494&caId=24756&tId=4)
-
-#### 43 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
 * Natalie Wilkins
@@ -23,7 +17,8 @@ Testifying:
 * Yewobdar Tiezazu
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * LaDon Linde - Yakima County Commissioner
+* Loni Simone
 
-#### 256 👎 - Con
+#### 293 👎 - Con
 
 #### 1 ❓ - Other

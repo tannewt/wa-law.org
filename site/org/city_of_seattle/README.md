@@ -5,17 +5,32 @@
 
 ### [HB 1018](/bill/2025-26/hb/1018/) - Fusion energy facilities 👍1  
 
+### [HB 1132](/bill/2025-26/hb/1132/) - Enhancing public safety by limiting bulk purchases and transfers of firearms and ammunition. 👍1  
+
+### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+
+### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 👍1  
+
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
+
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
 
-## [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
+### [SB 5060](/bill/2025-26/sb/5060/) - Law enf. hiring grants 👍1  
+
+### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍1  
+
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 * 👍 AP Diaz
+
+## [SB 5099](/bill/2025-26/sb/5099/) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers. 👍1  
 
 ## 2023-24
 
-### [SB 5098](/bill/2023-24/sb/5098/) - Weapons in certain areas 👍1  
-* 👍 AP Diaz
+### [SB 5099](/bill/2023-24/sb/5099/) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers. 👍1  
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

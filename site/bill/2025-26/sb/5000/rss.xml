@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5000/</link>
 		<description>Updates about SB 5000</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 17 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,13 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to State Government, Tribal Affairs &amp; Elections.</guid>
+		</item>
+		<item>
+			<title>SGTE - Majority; do pass.</title>
+			<description>SGTE - Majority; do pass.</description>
+			<pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-17/SGTE - Majority; do pass.</guid>
 		</item>
 	</channel>
 </rss>

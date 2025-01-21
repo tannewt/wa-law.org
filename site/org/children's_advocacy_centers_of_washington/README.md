@@ -11,6 +11,8 @@
 
 ### [SB 5105](/bill/2025-26/sb/5105/) - Concerning offenses involving fabricated depictions of minors. 👍1  
 
+### [SB 5163](/bill/2025-26/sb/5163/) - Child fatalities 👍1  
+
 ## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ PAULA REED
 

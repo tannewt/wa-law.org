@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1206/</link>
 		<description>Updates about HB 1206</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 19 Jan 2025 05:27:39 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 20 Jan 2025 10:49:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/BRIAN/ENSLOW/2025-01-19 05:27:39</guid>
+		</item>
+		<item>
+			<title>👍Tom McBride - Kitsap County</title>
+			<description>Tom McBride signed up to testify Pro. They are signed up to represent Kitsap County.</description>
+			<pubDate>Mon, 20 Jan 2025 08:21:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tom/McBride/2025-01-20 08:21:58</guid>
+		</item>
+		<item>
+			<title>👍Carolina Mejia-Barahona - Commissioner, Thurston County</title>
+			<description>Carolina Mejia-Barahona signed up to testify Pro. They are signed up to represent Commissioner, Thurston County.</description>
+			<pubDate>Mon, 20 Jan 2025 10:49:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carolina/Mejia-Barahona/2025-01-20 10:49:23</guid>
 		</item>
 	</channel>
 </rss>

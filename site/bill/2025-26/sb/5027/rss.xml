@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5027/</link>
 		<description>Updates about SB 5027</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 19 Jan 2025 09:27:23 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 19 Jan 2025 09:42:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -84,6 +84,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/LaDon/Linde/2025-01-19 09:27:23</guid>
+		</item>
+		<item>
+			<title>👍Loni Simone - Yakima County Commissioner</title>
+			<description>Loni Simone signed up to testify Pro.</description>
+			<pubDate>Sun, 19 Jan 2025 09:42:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Loni/Simone/2025-01-19 09:42:49</guid>
 		</item>
 	</channel>
 </rss>

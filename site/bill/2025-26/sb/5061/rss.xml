@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5061/</link>
 		<description>Updates about SB 5061</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 20 Jan 2025 07:24:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,30 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👍Chris Ellis - Bricklayers and Allied Craftworkers, Local 1</title>
+			<description>Chris Ellis signed up to testify Pro. They are signed up to represent Bricklayers and Allied Craftworkers, Local 1.</description>
+			<pubDate>Mon, 20 Jan 2025 07:24:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chris/Ellis/2025-01-20 07:24:23</guid>
+		</item>
+		<item>
+			<title>👍💵John Traynor - Washington State Labor Council, AFL-CIO</title>
+			<description>John Traynor signed up to testify Pro. They are signed up to represent Washington State Labor Council, AFL-CIO. They are a registered lobbyist.</description>
+			<pubDate>Mon, 20 Jan 2025 07:24:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Traynor/2025-01-20 07:24:23</guid>
+		</item>
+		<item>
+			<title>👍💵Minna Long - Washington State Building &amp; Construction Trades Council</title>
+			<description>Minna Long signed up to testify Pro. They are signed up to represent Washington State Building &amp; Construction Trades Council. They are a registered lobbyist.</description>
+			<pubDate>Mon, 20 Jan 2025 07:24:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Minna/Long/2025-01-20 07:24:23</guid>
 		</item>
 	</channel>
 </rss>

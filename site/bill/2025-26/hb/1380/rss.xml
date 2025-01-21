@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1380/</link>
 		<description>Updates about HB 1380</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 19 Jan 2025 06:37:30 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 20 Jan 2025 12:23:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,6 +46,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jeff/Wagner/2025-01-19 06:37:30</guid>
+		</item>
+		<item>
+			<title>👎💵Curtis Steinhauer - Washington State Association of Counties</title>
+			<description>Curtis Steinhauer signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_association_of_counties/"&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 20 Jan 2025 11:45:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Curtis/Steinhauer/2025-01-20 11:45:52</guid>
+		</item>
+		<item>
+			<title>👎Armondo Pavone - Mayor, City of Renton</title>
+			<description>Armondo Pavone signed up to testify Con. They are signed up to represent Mayor, City of Renton.</description>
+			<pubDate>Mon, 20 Jan 2025 12:23:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Armondo/Pavone/2025-01-20 12:23:17</guid>
 		</item>
 	</channel>
 </rss>

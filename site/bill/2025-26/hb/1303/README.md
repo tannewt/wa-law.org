@@ -18,10 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32499&aId=161627&caId=24867&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32499&aId=161627&caId=24867&tId=4)
 
-#### 324 👍 - Pro
+#### 395 👍 - Pro
+Testifying:
+* JC Harris - Sea-Tac Noise.Info
 
-#### 10 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* John worthington
 
 #### 1 ❓ - Other

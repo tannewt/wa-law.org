@@ -1,16 +1,31 @@
 # The Nature Conservancy
 ## 2025-26
 
+### [HB 1048](/bill/2025-26/hb/1048/) - Rangeland fire pilot 👍1  
+
+### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍 Scott Richards
 
-## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
+### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council.   ❓1
+* ❓💵 Justin Allegro
+
+### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
+
+### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍 Scott Richards
+
+### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
+
+### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
+* ❓💵 Justin Allegro
+
+## [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
 
 ## 2023-24
 
-### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp. 👍1  
-* 👍 Scott Richards
+### [SB 5303](/bill/2023-24/sb/5303/) - Yakima basin water plan 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍5  
 

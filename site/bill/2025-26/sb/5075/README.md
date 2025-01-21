@@ -17,11 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32486&aId=161668&caId=24746&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32486&aId=161668&caId=24746&tId=4)
 
-#### 311 👍 - Pro
+#### 443 👍 - Pro
 Testifying:
 * Ellie Mulpeter - Academy of Lactation Policy and Practice
 * Jane Beyer - Office of the Insurance Commissioner
+* Dr Annie Iriye - American College of Obstetricians and Gynecologists (ACOG)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans

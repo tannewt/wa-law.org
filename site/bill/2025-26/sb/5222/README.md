@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=4)
 
-#### 2284 👍 - Pro
+#### 3098 👍 - Pro
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner, AMHO
 * Kyle Lucas - Urban Indians NW & Tenants United at Western Plaza Mobile Home Park
@@ -35,8 +35,17 @@ Testifying:
 * Max Newland
 * Elizabeth Rung
 * Terri Anderson - Tenants Union of Washington State
+* Talauna Reed - Tenants Union of WA State
+* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
+* Kyrian MacMichael
+* Desirée Toliver
+* Caroline Hardy - Leisure Manor Tenants Association
+* Angela Griffin - Byrd Barr Place
+* Jorge Hernandez
+* Kathleen Poague - Alonda Villa Park (55 or older Park)
+* Erica Subramaniam
 
-#### 1838 👎 - Con
+#### 2244 👎 - Con
 Testifying:
 * Constance Nelson
 * Russ Millard
@@ -64,7 +73,21 @@ Testifying:
 * Russ Millard - [Manufactured Housing Communities of Washington](/org/manufactured_housing_communities_of_washington/)
 * Yoel Kelman - Three Pillar Communities
 * Sam Spiegelman
+* peter goldstein - Owner of several Washington State Mobile Home Parks
+* Devin Whittier
+* OSHO BERMAN
+* Casey Bishop
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Mischa Guenther Heide - Rain Commercial Real Estate Advisors
+* Catherine Yutuc
+* Troy Swallow
+* Kevin Wallace - Wallace Properties, Inc.
+* Mike Simonitch - Shelter Management
+* Christina Mays - Detente Management, Inc.
+* Christa Connelly - West Prairie Village MHP
+* Bri O’Hare
+* peter goldstein - Multiple park owner
 
-#### 24 ❓ - Other
+#### 31 ❓ - Other
 Testifying:
 * Tonya Hardwick

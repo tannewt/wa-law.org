@@ -4,11 +4,15 @@
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates   ❓1
 * ❓ Michael Connors
 
-## [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers  👎1 
+### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers  👎1 
+
+## [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes.  👎1 
+* 👎 Michael Connors
 
 ## 2023-24
 
-### [HB 1141](/bill/2023-24/hb/1141/) - Ag. cannabis workers  👎1 
+### [HB 1150](/bill/2023-24/hb/1150/) - Improving Washington's solid waste management outcomes.  👎1 
+* 👎 Michael Connors
 
 ### [HB 1019](/bill/2023-24/hb/1019/) - Pesticide advisory board 👍1  
 

@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32482&aId=161816&caId=24812&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32482&aId=161816&caId=24812&tId=4)
 
-#### 14 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Kylee Zabel - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Kevin McMahan - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

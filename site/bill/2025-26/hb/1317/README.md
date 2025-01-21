@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Mon 01/20 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1317 Sentences/offenses before 21
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161690&caId=24838&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161690&caId=24838&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161690&caId=24838&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161690&caId=24838&tId=4)
-
-#### 384 👍 - Pro
+#### 470 👍 - Pro
 Testifying:
 * Matthew Leon
 * Jeffrey Ellis
@@ -37,11 +31,13 @@ Testifying:
 * Arthur Longworth - TeamChild
 * Eugene Youngblood - Look2Justice
 * Gail Brashear
+* Christina Sorenson - Team Child
+* DWAYNE SATTERFIELD
 
-#### 11 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Jenny Fisher

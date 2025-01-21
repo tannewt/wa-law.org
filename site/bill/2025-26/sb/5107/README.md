@@ -8,18 +8,12 @@
 
 ## Meetings
 ### Mon 01/20 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5107 Local gov. vehicle insurance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32447&aId=161436&caId=24802&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32447&aId=161436&caId=24802&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32447&aId=161436&caId=24802&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32447&aId=161436&caId=24802&tId=4)
-
-#### 45 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Kristi McKennon - Washington State Association for Justice
 * Michael Montgomery - Washington State Association for Justice
 
-#### 8 👎 - Con
+#### 50 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Ian Payne - [Association of Washington Cities](/org/association_of_washington_cities/)

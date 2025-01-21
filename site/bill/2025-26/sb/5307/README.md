@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161812&caId=24737&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161812&caId=24737&tId=4)
 
-#### 262 👍 - Pro
+#### 370 👍 - Pro
 Testifying:
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer - Superintendent, Federal Way School District
@@ -36,7 +36,9 @@ Testifying:
 * Jeff Chamberlin - Superintendent, University Place School District
 * Krestin Bahr - Superintendent, Peninsula School District
 * Lance Goodpaster - Superintendent, Franklin Pierce School District
+* Sarah Milici - Parent advocate
+* Misha Cherniske - Office of Superintendent of Public Instruction
 
-#### 0 👎 - Con
+#### 70 👎 - Con
 
 #### 0 ❓ - Other

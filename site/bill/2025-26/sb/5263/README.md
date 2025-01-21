@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161709&caId=24736&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161709&caId=24736&tId=4)
 
-#### 893 👍 - Pro
+#### 1189 👍 - Pro
 Testifying:
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer - Superintendent, Federal Way School District
@@ -39,7 +39,13 @@ Testifying:
 * Jeff Chamberlin - Superintendent, University Place School District
 * Krestin Bahr - Superintendent, Peninsula School District
 * Lance Goodpaster - Superintendent, Franklin Pierce School District
+* Sarah Milici - Parent advocate
+* Mary Templeton - Lake Stevens School District
+* Heather Tow-Yick - [Issaquah School District](/org/issaquah_school_district/)
+* Lori Helmy Helmy - Volenteer advocate
 
-#### 2 👎 - Con
+#### 77 👎 - Con
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Mylea Holloway - 1725 Diamond Loop SE

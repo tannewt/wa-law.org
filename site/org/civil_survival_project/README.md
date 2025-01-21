@@ -1,6 +1,8 @@
 # Civil Survival Project
 ## 2025-26
 
+### [HB 1110](/bill/2025-26/hb/1110/) - DUI conviction vacation 👍1  
+
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
 ### [HB 1137](/bill/2025-26/hb/1137/) - Establishing uniform policies and procedures within department of corrections facilities relating to disciplinary proceedings and administrative segregation. 👍1  
@@ -12,12 +14,16 @@
 
 ### [HB 1178](/bill/2025-26/hb/1178/) - Concerning sentencing enhancements. 👍1  
 
+### [HB 1233](/bill/2025-26/hb/1233/) - Concerning work programs for incarcerated persons. 👍1  
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 👍1  
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
 * 👍💵 Anthony Blankenship
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
+
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
 ## [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
 

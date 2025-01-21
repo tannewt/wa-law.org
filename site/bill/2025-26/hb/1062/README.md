@@ -14,14 +14,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161423&caId=24875&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161423&caId=24875&tId=4)
 
-#### 41 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Ashlan Chang - Lake Washington High School
 * Risa Wada - Lake Washington High School
 * Katherine Davis - Lake Washington High School
 * Yael Alpert - Lake Washington High School
 * Daniel Lin - Washington State Urology Society
+* Katie Kolan - Washington State Medical Oncology Society (WSMOS)
+* 💵Curtis Knapp - [Life Science Washington](/org/life_science_washington/)
+* Audrey Miller Garcia - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
+* Carrie Nyssen - American Lung Association in Washington
+* 💵Brad Forbes - Alzheimer's Association
+* Stephen King - Washington State Urology Society
 
-#### 5 👎 - Con
+#### 22 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Anna Kelsey - Department of Health (DOH)
+* Dr. Charissa Fotinos - Health Care Authority (HCA)
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans

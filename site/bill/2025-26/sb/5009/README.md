@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161543&caId=24739&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161543&caId=24739&tId=4)
 
-#### 13 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
+* Brian Freeman - Inchelium School District #70
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

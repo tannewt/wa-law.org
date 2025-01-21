@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201152)
+
 ## Meetings
 ### Tue 01/21 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1152 Firearm storage
 Sign up to testify:
@@ -14,11 +17,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161612&caId=24830&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161612&caId=24830&tId=4)
 
-#### 501 👍 - Pro
+#### 741 👍 - Pro
 Testifying:
 * Breck Lebegue
+* Juliet Scarpa - Be SMART
+* Karyn Brownson - King County Public Health
+* Liz Hjelmseth
+* Craig Reynolds - Mercer Island City Councilmember
+* Nancy Lee - Moms Demand Action
+* Sandra Ramirez
+* Thatcher Felt - WCAAP
+* Jennifer Dolan Waldman - Grandmothers Demand Action
+* Robert Scentrup - BRADY
+* 💵Jean Hill - WA State Catholic Conference (WSCC)
 
-#### 1279 👎 - Con
+#### 1663 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Jane Milhans
@@ -26,5 +39,21 @@ Testifying:
 * kyle ivarra
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Michael McKinley
+* Teodorin Morca
+* Christian Allen
+* Christian Allen
+* Bea Christophersen
+* Christa (Teagan) Levine
+* Sara Conrad
+* Teo Morca
+* Aaron Thompson
+* 💵Aoibheann Cline - NRA
+* Hiedi Mitchell - Sporting Systems
+* Teddy Chow
+* Matthew Causey
+* Anthony Mixer - Washington State Young Republicans
+* Andrew de Sena
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Eric Pratt - America

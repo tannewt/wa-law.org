@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32494&aId=161821&caId=24921&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32494&aId=161821&caId=24921&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Dave Parker - The Entrepreneurs’ Organization (EO)
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* John worthington
 
-#### 0 👎 - Con
+#### 72 👎 - Con
 
 #### 0 ❓ - Other

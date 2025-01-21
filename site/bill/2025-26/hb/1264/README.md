@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201264)
+
 ## Meetings
 ### Tue 01/21 10:30 AM - Labor & Workplace Standards (LAWS): HB 1264 Ferry system salaries
 Sign up to testify:
@@ -14,7 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32518&aId=161695&caId=24890&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32518&aId=161695&caId=24890&tId=4)
 
-#### 178 👍 - Pro
+#### 235 👍 - Pro
+Testifying:
+* 💵John Traynor - washington state labor council, afl-cio
+* Chris Schneider
+* Eric Winge - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
+* Greg Poor
+* Nick Twietmeyer
+* Felix Tapley
+* Dan Twohig - Masters, Mates & Pilots
 
 #### 0 👎 - Con
 

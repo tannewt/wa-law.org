@@ -18,15 +18,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161773&caId=24848&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161773&caId=24848&tId=4)
 
-#### 34 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Gilbert Arcos
 * Dennise Drury
 * Angel Galvan
+* 💵Molly Jones - Vice President, Head of Public Policy, Payactiv
+* Nancy Coleman-Chavez - Public Policy and Government Relations Manager, DailyPay
+* Zach Drucker - Public Affairs Specialist, Earnin
+* Phil Goldfeder - CEO at American Fintech Council
+* Robert Singleton - Senior Director of Policy & Public Affairs for California and the Western US at Chamber of Progress
 
-#### 1 👎 - Con
+#### 79 👎 - Con
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Amanda Martin - NW Consumer Law Center
 * 💵Andrew Kushner - [Center for Responsible Lending](/org/center_for_responsible_lending/)

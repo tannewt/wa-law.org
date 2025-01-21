@@ -14,9 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161825&caId=24923&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161825&caId=24923&tId=4)
 
-#### 2 👍 - Pro
+#### 80 👍 - Pro
 Testifying:
 * Lisa Woodard
+* Theresa Iler
+* Lisa Thomas - 14920 e 21st ave
+* Morgan Fletcher
+* Marcia Patten
+* Susan Hundeby
+* Karen Nelson
 
 #### 0 👎 - Con
 

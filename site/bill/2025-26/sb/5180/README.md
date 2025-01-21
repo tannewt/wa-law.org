@@ -19,14 +19,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161536&caId=24731&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161536&caId=24731&tId=4)
 
-#### 452 👍 - Pro
+#### 880 👍 - Pro
 Testifying:
 * LINDEN JORDAN - PFLAG Skagit
 * Samantha Fogg - Seattle Council PTSA Co-President
 * Sara Betnel - Shoreline School Board
 * Felicia Walker
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Alex [withheld for privacy] - High school student
+* Bebeth Steudel
+* Cade Schmidt
+* Danni Askini - Gender Justice League
+* Rebekah Gardea - QLaw Foundation of Washington
+* Emily Carmichael
+* NCSP, Carrie Suchy - Washington State Association of School Psychologists
+* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* Asher Robertsonmeyer - Middle School student
+* Amy Cannava - Washington State Association of School Psychologists
+* Taylor Farley - Queer Power Alliance
 
-#### 903 👎 - Con
+#### 1134 👎 - Con
 Testifying:
 * Gabriel Jacobs
 * Sharon Damoff
@@ -38,5 +50,13 @@ Testifying:
 * Trish Huddleston - School Board Director
 * Drees Cushman - Middle school student
 * Joy Cushman - High school student
+* Sarah Garriott
+* Abigail Hornshuh
+* Gabriel Jacobs
+* Dawn Land
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Oliver Miska - Lavender Rights Project
+* Bryanna Jenkins - Lavender Rights Project
+* Lisa Keating - WA State LGBTQ Commission

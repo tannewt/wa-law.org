@@ -14,9 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32460&aId=161862&caId=24945&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32460&aId=161862&caId=24945&tId=4)
 
-#### 4 👍 - Pro
+#### 41 👍 - Pro
+Testifying:
+* 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
+* 💵Giovanni Severino
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 1 👎 - Con
+#### 11 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

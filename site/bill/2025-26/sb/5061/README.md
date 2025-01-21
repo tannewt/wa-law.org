@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161809&caId=24787&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161809&caId=24787&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Chris Ellis - Bricklayers and Allied Craftworkers, Local 1
+* 💵John Traynor - Washington State Labor Council, AFL-CIO
+* 💵Minna Long - Washington State Building & Construction Trades Council
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

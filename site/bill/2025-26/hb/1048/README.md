@@ -18,10 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32510&aId=161660&caId=24826&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32510&aId=161660&caId=24826&tId=4)
 
-#### 3 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Jay Kehne - [Conservation Northwest](/org/conservation_northwest/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)

@@ -14,14 +14,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32460&aId=161860&caId=24943&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32460&aId=161860&caId=24943&tId=4)
 
-#### 99 👍 - Pro
+#### 169 👍 - Pro
 Testifying:
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
+* John Ketcham - Manhattan Institute
+* Zoltan Hajnal
+* Avi Green
 
-#### 28 👎 - Con
+#### 282 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * 💵Conner Edwards - Professional Campaign Treasurer / CG Edwards PLLC
 * Anthony Mixer - Conservative Advocate
+* Laurie Layne
+* john worthington
+* Tad Sommerville
+* Sam Reed - Retired Secretary of State
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 #### 0 ❓ - Other

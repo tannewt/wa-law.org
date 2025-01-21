@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161544&caId=24740&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161544&caId=24740&tId=4)
 
-#### 176 👍 - Pro
+#### 205 👍 - Pro
 Testifying:
 * 💵Oliver Miska
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Dave Larson - Tukwila School District
+* Misha Cherniske - Office of Superintendent of Public Instruction
+* Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 
 #### 2 👎 - Con
 

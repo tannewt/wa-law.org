@@ -1,13 +1,14 @@
 # Associated Students of the University of Washington Bothell
 ## 2025-26
 
-## [HB 1136](/bill/2025-26/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment. 👍1  
+### [HB 1136](/bill/2025-26/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment. 👍1  
 * 👍 Sienna Jarrard
+
+## [HB 1278](/bill/2025-26/hb/1278/) - Higher ed. gov./students 👍1  
 
 ## 2023-24
 
-### [HB 1136](/bill/2023-24/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment. 👍1  
-* 👍 Sienna Jarrard
+### [HB 1278](/bill/2023-24/hb/1278/) - Higher ed. gov./students 👍1  
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 

@@ -14,8 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161854&caId=24938&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161854&caId=24938&tId=4)
 
-#### 1 👍 - Pro
+#### 683 👍 - Pro
+Testifying:
+* Chad Magendanz - ABATE
+* Corey Rowden
+* LARRY WALKER - ABATE of WA  (Motorcyclists)
+* Brandon Hollibaugh
+* Jeff Schoenwald
+* Taylor Yount
+* Arun Chauhan
 
-#### 2 👎 - Con
+#### 10 👎 - Con
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other

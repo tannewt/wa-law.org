@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/20/2025 [Senate Democrats](/org/senate_democrats/) - [Frame Introduces Clergy Mandatory Reporting of Child Abuse Bill - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/01/20/frame-introduces-clergy-mandatory-reporting-of-child-abuse-bill/#:~:text=SB%206298)
 * 02/23/2024 [NW News Network](/org/nw_news_network/) - [Budgets, initiative hearings top agenda in week 7 of Washington's legislative session | Northwest News Network](https://www.nwnewsnetwork.org/government-and-politics/2024-02-23/budgets-initiative-hearings-top-agenda-in-week-7-of-washingtons-legislative-session#:~:text=Senate%20Bill%206298)
 * 02/22/2024 [Washington State Standard](/org/washington_state_standard/) - [Legislation requiring clergy to report child abuse stalls again in Olympia • Washington State Standard](https://washingtonstatestandard.com/2024/02/21/legislation-requiring-clergy-to-report-child-abuse-stalls-again-in-olympia/#:~:text=Senate%20Bill%206298)
 * 02/09/2024 [NW News Network](/org/nw_news_network/) - [Passing bills, bills, bills: Highlights from week 5 in the WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2024-02-09/passing-bills-bills-bills-highlights-from-week-5-in-the-wa-legislature#:~:text=Senate%20Bill%206298)

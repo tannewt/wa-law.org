@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32524&aId=161768&caId=24847&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32524&aId=161768&caId=24847&tId=4)
 
-#### 4 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * 💵Karen Strickland - Pawn 1 Inc.
 * Carli Karlson - Washington State Pawnbrokers Association
+* 💵Tamara Rancore - WA St Pawnbrokers Association
+* 💵Karen Strickland - Pawn 1 Inc.
+* Andre Jorden - pawn 1
+* Nika Mihailov - Kittitas County Trading Co.
 
 #### 0 👎 - Con
 

@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Ken Fuller - [Board of Registration for Professional Engineers and Land Surveyors](/org/board_of_registration_for_professional_engineers_and_land_surveyors/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

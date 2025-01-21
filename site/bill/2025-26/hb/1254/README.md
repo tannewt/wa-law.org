@@ -18,13 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161723&caId=24897&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161723&caId=24897&tId=4)
 
-#### 62 👍 - Pro
+#### 80 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * David Forte - Office of the Insurance Commissioner
 * Rory Paine-Donovan - Office of the Insurance Commissioner
+* Dustin Curb - State Building Code Council
 
-#### 12 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * Lynn Fitz-Hugh - Restoring Earth Connection
 * Charlotte Persons

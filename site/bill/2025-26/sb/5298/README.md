@@ -14,15 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161791&caId=24759&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161791&caId=24759&tId=4)
 
-#### 96 👍 - Pro
+#### 123 👍 - Pro
 Testifying:
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
+* Kathleen Poague - Alonda Villa Park (55 or older Park)
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner/ AMHO member
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Christina Mays - Detente Management, Inc.
 * Monica Grant
+* Stephan Millard
+* Beau Harer - Detente Management, Inc.

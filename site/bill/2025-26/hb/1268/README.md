@@ -18,9 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161774&caId=24849&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161774&caId=24849&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Duncan Taylor - [Washington Bankers Association](/org/washington_bankers_association/)
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

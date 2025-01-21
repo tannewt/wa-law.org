@@ -1,12 +1,18 @@
 # Commonwealth Real Estate Services
 ## 2025-26
 
-## [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
+* 👎💵 Brad Tower
+
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants  👎1 
+* 👎💵 Brad Tower
+
+## [SB 5298](/bill/2025-26/sb/5298/) - Mobile home community sale  👎1 
 * 👎💵 Brad Tower
 
 ## 2023-24
 
-### [HB 1217](/bill/2023-24/hb/1217/) - Residential tenants  👎1 
+### [SB 5298](/bill/2023-24/sb/5298/) - Mobile home community sale  👎1 
 * 👎💵 Brad Tower
 
 ### [HB 1124](/bill/2023-24/hb/1124/) - Residential rent and fees  👎2 

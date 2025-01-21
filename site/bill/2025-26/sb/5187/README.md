@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161539&caId=24734&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161539&caId=24734&tId=4)
 
-#### 744 👍 - Pro
+#### 1002 👍 - Pro
 Testifying:
 * Advaita Mattam
 * Moritz Maszhold
@@ -39,7 +39,10 @@ Testifying:
 * Jeff Chamberlin - Superintendent, University Place School District
 * Krestin Bahr - Superintendent, Peninsula School District
 * Lance Goodpaster - Superintendent, Franklin Pierce School District
+* Sarah Milici - Parent advocate
+* Mary Templeton - Lake Stevens School District
+* Heather Tow-Yick - [Issaquah School District](/org/issaquah_school_district/)
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 2 ❓ - Other

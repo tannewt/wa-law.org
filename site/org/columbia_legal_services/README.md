@@ -11,6 +11,8 @@
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
 
+### [HB 1178](/bill/2025-26/hb/1178/) - Concerning sentencing enhancements. 👍1  
+
 ### [HB 1192](/bill/2025-26/hb/1192/) - Concerning disciplinary hearings held by the department of corrections. 👍1  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
@@ -22,6 +24,8 @@
 * 👍💵 Ethan Frenchman
 
 ### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍1  
+
+### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 
 ### [SB 5103](/bill/2025-26/sb/5103/) - Expediting review of sentences when there exists a pending deportation proceeding. 👍1  
 

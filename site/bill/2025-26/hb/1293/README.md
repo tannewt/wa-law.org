@@ -18,8 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32490&aId=161626&caId=24865&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32490&aId=161626&caId=24865&tId=4)
 
-#### 0 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* Susan Vossler - Eastside Litter Busters
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Peter Lyon - WA State Department of Ecology

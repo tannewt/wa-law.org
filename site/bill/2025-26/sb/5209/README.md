@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161503&caId=24796&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161503&caId=24796&tId=4)
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Lawerence Grant - Department of Labor & Industries
 * Tammy Fellin - Department of Labor & Industries
 
-#### 6 👎 - Con
+#### 10 👎 - Con
 
 #### 0 ❓ - Other

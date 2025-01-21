@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201142)
+
 ## Meetings
 ### Wed 01/22 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1142 In-home care training
 Sign up to testify:
@@ -16,6 +19,6 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 75 👎 - Con
 
 #### 0 ❓ - Other

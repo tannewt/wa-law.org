@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=4)
 
-#### 828 👍 - Pro
+#### 1124 👍 - Pro
 Testifying:
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer
@@ -41,9 +41,14 @@ Testifying:
 * Jeff Chamberlin - Superintendent, University Place School District
 * Krestin Bahr - Superintendent, Peninsula School District
 * Lance Goodpaster - Superintendent, Franklin Pierce School District
+* Sarah Milici - Parent advocate
+* Mary Templeton - Lake Stevens School District
+* Heather Tow-Yick - [Issaquah School District](/org/issaquah_school_district/)
+* DARCY HUFFMAN - Olympia School District Board of Directors
+* Doug Vanderleest - WA Association of Maintenance and Operation Administrators
 
-#### 312 👎 - Con
+#### 517 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Alexa Allman

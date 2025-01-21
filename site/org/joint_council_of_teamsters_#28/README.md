@@ -1,0 +1,12 @@
+# Joint Council of Teamsters #28
+## 2025-26
+
+## [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+* 👍 Michael Gonzales
+
+## 2023-24
+
+### [HB 1150](/bill/2023-24/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+* 👍 Michael Gonzales
+
+## [HB 1893](/bill/2023-24/hb/1893/) - Unemp ins/strikes & lockouts 👍1  

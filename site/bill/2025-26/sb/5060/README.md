@@ -20,13 +20,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161501&caId=24794&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161501&caId=24794&tId=4)
 
-#### 14 👍 - Pro
+#### 78 👍 - Pro
 Testifying:
 * Rod Higgins - Councilmember, City of Spokane Valley
 * Salim Nice
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 190 👎 - Con
+#### 271 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

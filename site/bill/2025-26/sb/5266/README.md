@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Mon 01/20 01:30 PM - Human Services (HS): SB 5266 Early release petitions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32436&aId=161674&caId=24765&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32436&aId=161674&caId=24765&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32436&aId=161674&caId=24765&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32436&aId=161674&caId=24765&tId=4)
-
-#### 103 👍 - Pro
+#### 137 👍 - Pro
 Testifying:
 * Randy Roberson III - TVW's Capitol Classroom
 * Katie Hurley - King County Department of Public Defense
@@ -34,8 +28,9 @@ Testifying:
 * Jacob Schmitt - Just Us Solutions
 * Raymond Williams - Just Us Solutions
 * Marriam Oliver - Black Prisoners Caucus Community Group
+* Judge Sharonda Amamilo - Sentencing Guidelines Commission
 
-#### 9 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Tiffany Attrill

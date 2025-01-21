@@ -1,11 +1,19 @@
 # Sexual Violence Law Center
 ## 2025-26
 
+### [HB 1118](/bill/2025-26/hb/1118/) - Concerning restoration of the right to possess a firearm.  👎1 
+* 👎💵 Elizabeth Hendren
+
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  
 
 ### [SB 5105](/bill/2025-26/sb/5105/) - Concerning offenses involving fabricated depictions of minors. 👍1  
+
+### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
+
+### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
+* 👍💵 Elizabeth Hendren
 
 ## [SB 5202](/bill/2025-26/sb/5202/) - Ensuring the efficacy of judicial orders as harm reduction tools that increase the safety of survivors of abuse and support law enforcement in their efforts to enforce the law. 👍1  
 * 👍 Alexander Bejaran Estevez

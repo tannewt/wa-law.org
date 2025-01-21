@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32518&aId=161692&caId=24887&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32518&aId=161692&caId=24887&tId=4)
 
-#### 1 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 0 ❓ - Other

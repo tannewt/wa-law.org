@@ -6,6 +6,8 @@
 ### [HB 1015](/bill/2025-26/hb/1015/) - Concerning energy labeling of residential buildings.  👎1 
 * 👎💵 Brent Ludeman
 
+### [HB 1044](/bill/2025-26/hb/1044/) - County REET admin. fees  👎1 
+
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 * 👍💵 Andrea Smiley
 
@@ -17,22 +19,49 @@
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review 👍1  
 * 👍💵 Brent Ludeman
 
+### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential 👍2  
+
+### [HB 1183](/bill/2025-26/hb/1183/) - Concerning building code and development regulation reform. 👍1  
+
+### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040. 👍1  
+
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
+
+### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
+* 👍💵 Brent Ludeman
+
 ### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface  👎1 
 * 👎💵 Andrea Smiley
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎1 
 * 👎💵 Andrea Smiley
 
+### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
+
+### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 
+
+### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
+
+### [SB 5109](/bill/2025-26/sb/5109/) - Concerning the mortgage lending fraud prosecution account.  👎1 
+
 ### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act. 👍1  
 * 👍💵 Andrea Smiley
 
 ### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍1  
 
-## [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules  👎1 
+### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices  👎1 
+
+### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules  👎1 
+
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+
+### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍1  
+
+## [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 
 ## 2023-24
 
-### [SB 5175](/bill/2023-24/sb/5175/) - Photovoltaic modules  👎1 
+### [SB 5360](/bill/2023-24/sb/5360/) - Environmental crimes  👎1 
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

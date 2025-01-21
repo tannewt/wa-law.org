@@ -1,6 +1,9 @@
 # Washington State Association of Counties
 ## 2025-26
 
+### [HB 1045](/bill/2025-26/hb/1045/) - Uniformed personnel  👎1 
+* 👎💵 Paul Jewell
+
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates   ❓1
 * ❓💵 Travis Dutton
 
@@ -10,23 +13,60 @@
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals   ❓1
 * ❓💵 Paul Jewell
 
+### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes.   ❓1
+* ❓💵 Travis Dutton
+
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review   ❓1
+
+### [HB 1183](/bill/2025-26/hb/1183/) - Concerning building code and development regulation reform.   ❓1
+* ❓💵 Curtis Steinhauer
+
+### [HB 1188](/bill/2025-26/hb/1188/) - Requiring local government and tribal approval of wind and solar siting recommendations by the energy facility site evaluation council. 👍1  
+* 👍💵 Kelsey Hulse
+
+### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters.   ❓1
+* ❓💵 Curtis Steinhauer
 
 ### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040. 👍1  
 * 👍 BRIAN ENSLOW
 
+### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program.  👎1 
+* 👎💵 Paul Jewell
+
+### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
+* 👍💵 Kelsey Hulse
+
+### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  
+
+### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records   ❓1
+* ❓💵 Paul Jewell
+
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
+* 👎💵 Curtis Steinhauer
+
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
+
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 
 ### [SB 5089](/bill/2025-26/sb/5089/) - Concerning funding rural county coroners and medical examiners. 👍1  
 * 👍💵 Paul Jewell
 
-## [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas   ❓1
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas   ❓1
 * ❓💵 Paul Jewell
+
+### [SB 5154](/bill/2025-26/sb/5154/) - County auditor duties   ❓1
+* ❓💵 Paul Jewell
+
+### [SB 5197](/bill/2025-26/sb/5197/) - Local government planning   ❓1
+* ❓💵 Kelsey Hulse
+
+### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
+
+## [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍1  
 
 ## 2023-24
 
-### [SB 5098](/bill/2023-24/sb/5098/) - Weapons in certain areas   ❓1
-* ❓💵 Paul Jewell
+### [SB 5249](/bill/2023-24/sb/5249/) - Kit home siting 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

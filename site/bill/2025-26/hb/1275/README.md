@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32518&aId=161696&caId=24891&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32518&aId=161696&caId=24891&tId=4)
 
-#### 3 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Tammy Fellin - Department of Labor & Industries
 

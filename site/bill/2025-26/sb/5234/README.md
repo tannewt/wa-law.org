@@ -8,17 +8,14 @@
 
 ## Meetings
 ### Mon 01/20 04:00 PM - Transportation (TRAN): SB 5234 Snowmobile registration fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32500&aId=161758&caId=24817&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32500&aId=161758&caId=24817&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32500&aId=161758&caId=24817&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32500&aId=161758&caId=24817&tId=4)
-
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Peter Herzog - Washington State Parks and Recreation Commission
 
-#### 8 👎 - Con
+#### 20 👎 - Con
+Testifying:
+* Loni Simone
+* Greg Figg - Spokane Winter Knights Snowmobile club
 
 #### 1 ❓ - Other
 Testifying:

@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161746&caId=24760&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161746&caId=24760&tId=4)
 
-#### 67 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
@@ -27,4 +27,4 @@ Testifying:
 Testifying:
 * Salim Nice - [City of Mercer Island](/org/city_of_mercer_island/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -1,6 +1,8 @@
 # Washington State Public Health Association
 ## 2025-26
 
+### [HB 1034](/bill/2025-26/hb/1034/) - Nonopioid drugs for pain 👍1  
+
 ### [HB 1062](/bill/2025-26/hb/1062/) - Biomarker testing coverage 👍1  
 
 ### [HB 1066](/bill/2025-26/hb/1066/) - Regulated substance use data 👍2  
@@ -13,6 +15,8 @@
 ### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 👍1  
 
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
+
+### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax 👍1  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
 

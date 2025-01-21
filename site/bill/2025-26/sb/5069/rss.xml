@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5069/</link>
 		<description>Updates about SB 5069</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 16:34:15 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 17 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -91,6 +91,13 @@
 			<pubDate>Mon, 13 Jan 2025 16:34:15 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2025/01/13/the-2025-legislative-session-has-officially-begun/#:~:text=SB%205069</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-17/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

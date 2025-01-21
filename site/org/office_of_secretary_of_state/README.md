@@ -19,12 +19,19 @@
 * 👍 Heather Hirotaka
 * 👍 Steve Hobbs
 
+### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections  👎1 
+* 👎 Steve Hobbs
+
+### [HB 1381](/bill/2025-26/hb/1381/) - Elections/language assist. 👍1  
+* 👍 Brian Hatfield
+
 ### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍1  
 * 👍 Brian Hatfield
 
-### [SB 5014](/bill/2025-26/sb/5014/) - Concerning election security. 👍2  
+### [SB 5014](/bill/2025-26/sb/5014/) - Concerning election security. 👍3  
 * 👍 Kylee Zabel
 * 👍 Steve Hobbs
+* 👍 Kevin McMahan
 
 ### [SB 5017](/bill/2025-26/sb/5017/) - Uniformed & overseas voting 👍2  
 * 👍 Steve Hobbs

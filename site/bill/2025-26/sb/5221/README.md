@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161441&caId=24807&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161441&caId=24807&tId=4)
 
-#### 5 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Jeff Gadman - President, WA Association of County Treasurers
+* 💵Jennifer Wallace - WA Association of County Officials
 
 #### 0 👎 - Con
 

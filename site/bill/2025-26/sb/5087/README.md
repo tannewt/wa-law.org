@@ -8,16 +8,12 @@
 
 ## Meetings
 ### Mon 01/20 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5087 CTC legal education programs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32463&aId=161493&caId=24755&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32463&aId=161493&caId=24755&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32463&aId=161493&caId=24755&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32463&aId=161493&caId=24755&tId=4)
-
-#### 24 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * LaDon Linde - Yakima County Commissioner
+* Loni Simone
+* Anthony Stockman
 
 #### 2 👎 - Con
 

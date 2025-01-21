@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/14/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to increase voting access for uniform, overseas citizens heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/14/nobles-bill-to-increase-voting-access-for-uniform-overseas-citizens-heard-in-committee/#:~:text=Senate%20Bill%205017)

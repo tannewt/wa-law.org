@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Mon 01/20 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1178 Sentencing enhancements
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161443&caId=24837&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161443&caId=24837&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161443&caId=24837&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161443&caId=24837&tId=4)
-
-#### 147 👍 - Pro
+#### 176 👍 - Pro
 Testifying:
 * Jim Chambers
 * Percy Levy - [Washington Defender Association](/org/washington_defender_association/)
@@ -30,10 +24,13 @@ Testifying:
 * Heather Kelly - League of Women Voters of Washington
 * Karl Jones
 * Jenice Crews
+* Anthony Powers - American Equity & Justice Group
 
-#### 243 👎 - Con
+#### 295 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Loni Simone
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 1 ❓ - Other
 Testifying:

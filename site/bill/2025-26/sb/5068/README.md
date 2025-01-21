@@ -17,10 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161502&caId=24795&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161502&caId=24795&tId=4)
 
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Christina Miyamasu - King County Prosecuting Attorney's Office
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 495 👎 - Con
+#### 790 👎 - Con
 
 #### 0 ❓ - Other

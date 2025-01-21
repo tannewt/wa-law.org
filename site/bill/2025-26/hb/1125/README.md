@@ -14,19 +14,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32451&aId=161454&caId=24843&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32451&aId=161454&caId=24843&tId=4)
 
-#### 286 👍 - Pro
+#### 463 👍 - Pro
 Testifying:
 * Kimberly Gordon
 * Kimberly Gordon - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 * Larry Jefferson - Director, Washington State Office of Public Defense
 * Annie Nichol - Crime Survivors for Safety and Justice
+* Jacob Schmitt - Just Us Solutions
 
-#### 95 👎 - Con
+#### 163 👎 - Con
 Testifying:
 * Leslie Paine
 * Tina Reynolds
 * Tina Reynolds
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Anthony Mixer - Washington State Young Republicans
+* Charleen Kriens
+* Krista Stogner
+* Gregor Doerr - Washington State Young Republicans
 
 #### 3 ❓ - Other

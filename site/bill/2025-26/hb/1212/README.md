@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32521&aId=161718&caId=24892&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32521&aId=161718&caId=24892&tId=4)
 
-#### 31 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
 * Scott Bonjukian
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)

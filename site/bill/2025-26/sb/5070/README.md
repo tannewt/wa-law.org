@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/20/2025 [Senate Democrats](/org/senate_democrats/) - [Saldaña bill to protect workers’ tips heard in committee  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/01/20/saldana-bill-to-protect-workers-tips-heard-in-committee/#:~:text=Senate%20Bill%205070)
 * 01/13/2025 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2025 legislative session - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/01/13/kicking-off-the-2025-legislative-session/#:~:text=SB%205070)
 * 01/12/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: Welcome to the 2025 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/12/this-week-in-the-senate-week-1-welcome-to-the-2025-session/#:~:text=Senate%20Bill%205070)
 

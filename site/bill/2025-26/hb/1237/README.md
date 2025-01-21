@@ -12,23 +12,26 @@
 
 ## Meetings
 ### Mon 01/20 01:30 PM - Environment & Energy (ENVI): HB 1237 Energy facility site eval.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161593&caId=24863&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161593&caId=24863&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161593&caId=24863&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161593&caId=24863&tId=4)
-
-#### 13 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Sonia Bumpus - Energy Facility Site Evaluation Council
 * 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Matthew Hepner - IBEW/ceww
 * 💵Cassie Bordelon - Climate Jobs WA
 * Casey MacLean - Renewable NW
+* 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Dave Arbaugh - [Energy Northwest](/org/energy_northwest/)
+* 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 221 👎 - Con
+#### 273 👎 - Con
+Testifying:
+* Loni Simone
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Sonia Bumpus - Energy Facility Site Evaluation Council
 * 💵Josie Cummings - Avista
+* Philip Rigdon - Yakama Nation
+* 💵Altinay Karasapan - [Climate Solutions](/org/climate_solutions/)
+* 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Eric Gonzalez Alfaro - [Earthjustice](/org/earthjustice/)

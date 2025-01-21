@@ -18,7 +18,11 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Nicole Kern
 
+### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program. 👍1  
+
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+
+### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax 👍1  
 
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍1  
 
@@ -32,11 +36,15 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Nicole Kern
 
-## [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
+### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
+
+## [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
+* 👍💵 Nicole Kern
 
 ## 2023-24
 
-### [SB 5180](/bill/2023-24/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
+### [SB 5181](/bill/2023-24/sb/5181/) - Parents rights in education 👍1  
+* 👍💵 Nicole Kern
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

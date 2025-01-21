@@ -7,10 +7,18 @@
 ### [HB 1107](/bill/2025-26/hb/1107/) - Concerning environmental impacts of fashion. 👍1  
 * 👍💵 Heather Trim
 
+### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍2  
+
 ### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍1  
 * 👍💵 Heather Trim
 
+### [HB 1293](/bill/2025-26/hb/1293/) - Litter 👍1  
+* 👍💵 Heather Trim
+
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
+
+### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs   ❓1
+* ❓💵 Heather Trim
 
 ## [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules   ❓1
 * ❓💵 Heather Trim

@@ -1,6 +1,8 @@
 # Washington State Community Action Partnership
 ## 2025-26
 
+### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters. 👍1  
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Jeff DeLuca
 
@@ -9,16 +11,19 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Jeff DeLuca
 
-## [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 * 👍 Jeff DeLuca
+
+## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
 ## 2023-24
 
-### [SB 5195](/bill/2023-24/sb/5195/) - Capital budget 👍1  
-* 👍 Jeff DeLuca
+### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 

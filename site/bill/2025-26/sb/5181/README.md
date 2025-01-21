@@ -19,14 +19,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161535&caId=24730&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161535&caId=24730&tId=4)
 
-#### 366 👍 - Pro
+#### 773 👍 - Pro
 Testifying:
 * LINDEN JORDAN - PFLAG Skagit
 * Danni Askini - Gender Justice League
 * Devin Owens
 * Felicia Walker
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* Jocelyn Richey
+* Katelyn Abston
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
+* Rebekah Gardea - QLaw Foundation of Washington
+* Emily Carmichael
+* NCSP, Carrie Suchy - Washington State Association of School Psychologists
+* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Amy Cannava - Washington State Association of School Psychologists
+* Taylor Farley - Queer Power Alliance
 
-#### 1328 👎 - Con
+#### 1790 👎 - Con
 Testifying:
 * Gabriel Jacobs
 * Jennifer Heine-Withee
@@ -40,5 +53,17 @@ Testifying:
 * Tonya Hickman - Lynden School Board
 * Autumn Meadows
 * Eyman Tim - initiative Activist
+* Dawn Land - Reject 5599 PAC
+* Theresa Schrempp
+* Sarah Garriott
+* Alan Nolan - Mead School District
+* Dakota Manley - Washington State Young Republicans
+* Bob Runnells - Informed Choice Washington
+* 💵Jean Hill - Washington State Catholic Conference
+* Eric Lundberg
+* Ronda Litzenberger - Eatonville School Board
+* Brian Anderson
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Natalya Yudkovsky - Washington State PTA

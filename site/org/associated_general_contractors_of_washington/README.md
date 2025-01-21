@@ -1,13 +1,14 @@
 # Associated General Contractors of Washington
 ## 2025-26
 
-## [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages  👎1 
+### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages  👎1 
 * 👎💵 Christine Brewer
+
+## [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
 
 ## 2023-24
 
-### [HB 1173](/bill/2023-24/hb/1173/) - High-hazard facility wages  👎1 
-* 👎💵 Christine Brewer
+### [SB 5107](/bill/2023-24/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
 
 ### [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎2 
 

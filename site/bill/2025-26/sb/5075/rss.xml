@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5075/</link>
 		<description>Updates about SB 5075</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 19 Jan 2025 08:45:08 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 20 Jan 2025 06:29:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -51,6 +51,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jane/Beyer/2025-01-19 08:45:08</guid>
+		</item>
+		<item>
+			<title>❓💵Jennifer Ziegler - Association of Washington Health Care Plans</title>
+			<description>Jennifer Ziegler signed up to testify Other. They are signed up to represent Association of Washington Health Care Plans. They are a registered lobbyist.</description>
+			<pubDate>Mon, 20 Jan 2025 05:05:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jennifer/Ziegler/2025-01-20 05:05:18</guid>
+		</item>
+		<item>
+			<title>👍Dr Annie Iriye - American College of Obstetricians and Gynecologists (ACOG)</title>
+			<description>Dr Annie Iriye signed up to testify Pro. They are signed up to represent American College of Obstetricians and Gynecologists (ACOG).</description>
+			<pubDate>Mon, 20 Jan 2025 06:29:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dr Annie/Iriye/2025-01-20 06:29:47</guid>
 		</item>
 	</channel>
 </rss>

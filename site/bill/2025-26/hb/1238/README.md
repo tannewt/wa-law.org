@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161429&caId=24881&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161429&caId=24881&tId=4)
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Fuki Marie Hisama MD - University of Washington School of Medicine
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

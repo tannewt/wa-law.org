@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201129)
+
 ## Meetings
 ### Tue 01/21 01:30 PM - Health Care & Wellness (HCW): HB 1129 Fertility-related services
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161424&caId=24876&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161424&caId=24876&tId=4)
 
-#### 143 👍 - Pro
+#### 278 👍 - Pro
 Testifying:
 * Camille Walton
 * Erica Sahota
@@ -24,10 +27,21 @@ Testifying:
 * Cari Morales - Resolve
 * Tessa Shouldice
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* Dana Savage - AWAAG
+* Dr. Lori Marshall
+* Dr. Tyler Ketterl
+* Emily Stenson
+* Amy Landram
+* Nicole Post
+* Anahita Arya - Pacific NW Fertility
 
-#### 305 👎 - Con
+#### 453 👎 - Con
+Testifying:
+* Mary Long - Conservative Ladies of Washington
+* Theresa Schrempp
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans

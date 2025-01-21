@@ -7,18 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201111)
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201111)
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201111)
 
 ## Meetings
 ### Mon 01/20 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1111 Early release petitions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161442&caId=24836&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161442&caId=24836&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161442&caId=24836&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32449&aId=161442&caId=24836&tId=4)
-
-#### 125 👍 - Pro
+#### 167 👍 - Pro
 Testifying:
 * Katie Hurley - King County Department of Public Defense
 * Elisa Cozad - TeamChild
@@ -36,11 +31,13 @@ Testifying:
 * Marriam Oliver
 * Marriam Oliver
 * Raymond Williams - Just Us Solutions
+* Esther Matthews
 
-#### 12 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * La Johnson
 * La Jonna Johnson
+* Tiffany Attrill
 
 #### 0 ❓ - Other

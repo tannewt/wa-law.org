@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/20 10:30 AM - Law & Justice (LAW): SB 5147 Criminal insanity
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161500&caId=24793&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161500&caId=24793&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161500&caId=24793&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161500&caId=24793&tId=4)
-
-#### 9 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Kari Reardon - WDA/WACDL
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
@@ -23,6 +17,8 @@ Testifying:
 * 💵Melissa Johnson - District & Municipal Court Judges' Association
 * 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
 * 💵Brad Banks - Washington State Association of Counties (WSAC) & BHASOs
+* 💵Michael Transue - National Alliance on Mental Illness (NAMI)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 1 👎 - Con
 

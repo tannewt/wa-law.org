@@ -3,6 +3,8 @@
 
 ### [HB 1002](/bill/2025-26/hb/1002/) - Recognizing posttraumatic stress disorder as an occupational disease for county coroners, examiners, and investigative personnel. 👍1  
 
+### [HB 1018](/bill/2025-26/hb/1018/) - Fusion energy facilities 👍1  
+
 ### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍1  
 * 👍💵 Simone Boe
 
@@ -13,6 +15,8 @@
 
 ### [HB 1036](/bill/2025-26/hb/1036/) - Labor trustees/colleges 👍2  
 * 👍💵 Simone Boe
+
+### [HB 1045](/bill/2025-26/hb/1045/) - Uniformed personnel 👍1  
 
 ### [HB 1068](/bill/2025-26/hb/1068/) - DOC WMS employee arbitration 👍1  
 
@@ -28,29 +32,61 @@
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board. 👍1  
 
+### [HB 1129](/bill/2025-26/hb/1129/) - Concerning health plan coverage of fertility-related services. 👍1  
+
 ### [HB 1136](/bill/2025-26/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment. 👍2  
 * 👍💵 Simone Boe
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
 
+### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+
 ### [HB 1161](/bill/2025-26/hb/1161/) - Veteran employability 👍1  
+
+### [HB 1182](/bill/2025-26/hb/1182/) - Granting interest arbitration to certain parks and recreation commission employees. 👍1  
+
+### [HB 1183](/bill/2025-26/hb/1183/) - Concerning building code and development regulation reform. 👍1  
+
+### [HB 1188](/bill/2025-26/hb/1188/) - Requiring local government and tribal approval of wind and solar siting recommendations by the energy facility site evaluation council.  👎1 
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎1 
 * 👎💵 Larry Delaney
 
 ### [HB 1202](/bill/2025-26/hb/1202/) - State gen. obligation bonds 👍1  
 
-### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
+### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
+
+### [HB 1264](/bill/2025-26/hb/1264/) - Ferry system salaries 👍1  
+
+### [HB 1270](/bill/2025-26/hb/1270/) - Deferred comp. by local gov. 👍1  
+
+### [HB 1275](/bill/2025-26/hb/1275/) - Self-insurer withdrawal 👍1  
+
+### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍1  
+
+### [HB 1349](/bill/2025-26/hb/1349/) - Pension credit for leave 👍1  
+
+### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  
+
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
+
+### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 👍1  
+
+### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
+
+### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
-### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
+### [SB 5059](/bill/2025-26/sb/5059/) - Ferry captains 👍1  
+
+### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍2  
 
 ### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍1  
 
@@ -62,6 +98,12 @@
 
 ### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍1  
 
+### [SB 5101](/bill/2025-26/sb/5101/) - Expanding access to leave and safety accommodations to include workers who are victims of hate crimes or bias incidents. 👍1  
+
+### [SB 5104](/bill/2025-26/sb/5104/) - Protecting employees from coercion in the workplace based on immigration status. 👍1  
+
+### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees. 👍1  
+
 ### [SB 5110](/bill/2025-26/sb/5110/) - Providing tuition waivers for tribal elders at Washington’s community and technical colleges. 👍1  
 
 ### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍5  
@@ -72,6 +114,10 @@
 ### [SB 5120](/bill/2025-26/sb/5120/) - Learning assistance program 👍1  
 * 👍💵 Julie Salvi
 
+### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍1  
+
+### [SB 5128](/bill/2025-26/sb/5128/) - Concerning the provision of medical assistance to individuals in juvenile detention facilities. 👍1  
+
 ### [SB 5134](/bill/2025-26/sb/5134/) - Chinese Americans/schools   ❓1
 * ❓💵 Nasue Nishida
 
@@ -80,6 +126,14 @@
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎💵 Janie White
+
+### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍1  
+
+### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
+* 👍💵 Nasue Nishida
+
+### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
+* 👍💵 Nasue Nishida
 
 ### [SB 5186](/bill/2025-26/sb/5186/) - School district elections   ❓2
 * ❓💵 Simone Boe
@@ -101,10 +155,22 @@
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 
+### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
+
+### [SB 5241](/bill/2025-26/sb/5241/) - Fusion energy facilities 👍1  
+
+### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
+
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍3  
 * 👍💵 Larry Delaney
 
-### [SB 5291](/bill/2025-26/sb/5291/) - Implementing the recommendations of the long-term services and supports trust commission. 👍1  
+### [SB 5275](/bill/2025-26/sb/5275/) - Modifying funding and award levels for the passport to careers program and eligibility for the Washington college grant. 👍1  
+
+### [SB 5291](/bill/2025-26/sb/5291/) - Implementing the recommendations of the long-term services and supports trust commission. 👍2  
+
+### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
+
+### [SB 5306](/bill/2025-26/sb/5306/) - Pension credit for leave 👍1  
 
 ## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍2  
 * 👍💵 Larry Delaney

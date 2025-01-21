@@ -1,6 +1,8 @@
 # Washington Community Action Network
 ## 2025-26
 
+### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
+
 ### [HB 1131](/bill/2025-26/hb/1131/) - Concerning clemency and pardons. 👍1  
 * 👍 Waldo Waldron-Ramsey
 

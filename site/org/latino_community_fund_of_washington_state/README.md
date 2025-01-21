@@ -6,10 +6,13 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍💵 Jake García
 
+### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program. 👍1  
+
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 * 👍💵 Jake García
 
-### [HB 1381](/bill/2025-26/hb/1381/) - Elections/language assist. 👍1  
+### [HB 1381](/bill/2025-26/hb/1381/) - Elections/language assist. 👍2  
+* 👍💵 Jake García
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 

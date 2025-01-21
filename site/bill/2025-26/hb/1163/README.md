@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201163)
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201163)
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201163)
 * 01/16/2025 [House Democrats](/org/house_democrats/) - [Rep. Liz Berry Announces Legislative Priorities for 2025 Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/16/rep-liz-berry-announces-legislative-priorities-for-2025-session/#:~:text=HB%201163)
@@ -20,16 +21,43 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161610&caId=24828&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161610&caId=24828&tId=4)
 
-#### 463 👍 - Pro
+#### 554 👍 - Pro
+Testifying:
+* Isaiah Lenard
+* Julia Berus
+* 💵Margaret Heldring - Grandmothers Agains Gun Violence
+* Alex McCourt - Johns Hopkins Bloomberg School of Public Health
+* Gwen Loosmore - Washington PTA
+* 💵Jean Hill - Washington State Catholic Conference (WSCC)
+* Neal Black - Kirkland City Council Member
+* Paula Barnes
+* Rebecca Elbaum - Moms Demand Action
+* Robert Schentrup - BRADY
 
-#### 1348 👎 - Con
+#### 1769 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Jane Milhans
 * Laurie Layne
 * kyle ivarra
 * Michael McKinley
+* George Nervik
+* Teodorin Morca
+* Allen Ernst
+* Dave Workman - Citizens Committee for the Right to Keep and Bear Arms
+* Katleen Gregoroff
+* 💵Aoibheann Cline - NRA
+* Danna Baxter - Safefire
+* Kirk Struble - [Ducks Unlimited](/org/ducks_unlimited/)
+* Marty Lough - Hunter Education Instructor - Tacoma Rifle and Pistol Association
+* Carolyn Crain
+* Matthew Causey
+* Ian McGregor
+* Anthony Mixer - Washington State Young Republicans
+* Elizabeth VanSteertegem
+* Andrew de Sena
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Vitaliy Kertchen - Washington Association of Criminal Defense Lawyers and Washington Defender Association
+* Eric Pratt - America

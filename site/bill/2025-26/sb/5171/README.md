@@ -8,22 +8,18 @@
 
 ## Meetings
 ### Mon 01/20 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5171 Wolf predation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32470&aId=161530&caId=24724&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32470&aId=161530&caId=24724&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32470&aId=161530&caId=24724&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32470&aId=161530&caId=24724&tId=4)
-
-#### 431 👍 - Pro
+#### 519 👍 - Pro
 Testifying:
 * Samee Charriere
+* Loni Simone
 * Donna Alber - Donna Alber
+* 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
 
-#### 40 👎 - Con
+#### 49 👎 - Con
 Testifying:
 * Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
 * David Linn
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Mick Cope - WDFW

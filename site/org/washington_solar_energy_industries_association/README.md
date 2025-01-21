@@ -1,6 +1,8 @@
 # Washington Solar Energy Industries Association
 ## 2025-26
 
+### [HB 1183](/bill/2025-26/hb/1183/) - Concerning building code and development regulation reform. 👍1  
+
 ## [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules 👍1  
 * 👍 Bill Will
 

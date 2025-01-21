@@ -8,16 +8,11 @@
 
 ## Meetings
 ### Mon 01/20 04:00 PM - Transportation (TRAN): SB 5059 Ferry captains
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32500&aId=161756&caId=24815&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32500&aId=161756&caId=24815&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32500&aId=161756&caId=24815&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32500&aId=161756&caId=24815&tId=4)
-
-#### 94 👍 - Pro
+#### 120 👍 - Pro
 Testifying:
 * Captain Dan Twohig - International Organization of Masters, Mates & Pilots
+* Dan Twohig - International Organization of Masters, Mates & Pilots
 
-#### 6 👎 - Con
+#### 8 👎 - Con
 
 #### 0 ❓ - Other

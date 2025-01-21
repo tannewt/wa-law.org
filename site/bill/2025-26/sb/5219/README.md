@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161473&caId=24770&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161473&caId=24770&tId=4)
 
-#### 9 👍 - Pro
+#### 37 👍 - Pro
+Testifying:
+* Danielle Armbruster - Department of Corrections
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 

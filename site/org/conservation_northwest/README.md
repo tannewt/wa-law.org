@@ -1,13 +1,21 @@
 # Conservation Northwest
 ## 2025-26
 
-## [HB 1048](/bill/2025-26/hb/1048/) - Rangeland fire pilot 👍1  
+### [HB 1048](/bill/2025-26/hb/1048/) - Rangeland fire pilot 👍1  
 * 👍 Jay Kehne
+
+### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+
+### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council.   ❓1
+
+### [SB 5171](/bill/2025-26/sb/5171/) - Wolf predation 👍1  
+* 👍💵 Paula Swedeen
+
+## [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
 
 ## 2023-24
 
-### [HB 1048](/bill/2023-24/hb/1048/) - Rangeland fire pilot 👍1  
-* 👍 Jay Kehne
+### [SB 5246](/bill/2023-24/sb/5246/) - Energy facility site eval.   ❓1
 
 ### [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting   ❓1
 * ❓ Jay Kehne

@@ -1,6 +1,14 @@
 # Tacoma Public Schools
 ## 2025-26
 
+### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍1  
+
+### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍1  
+
+### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
+
+### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
+
 ## [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍2  
 * 👍 Doug Hostetter
 

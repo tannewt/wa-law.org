@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1022/</link>
 		<description>Updates about HB 1022</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 16 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 20 Jan 2025 17:05:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -88,6 +88,20 @@
 			<pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-16/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Capital Budget.</title>
+			<description>Referred to Capital Budget.</description>
+			<pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-20/Referred to Capital Budget.</guid>
+		</item>
+		<item>
+			<title>Homes for Heroes bill advancing in Olympia | Washington | thecentersquare.com</title>
+			<description>News article "Homes for Heroes bill advancing in Olympia | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 20 Jan 2025 17:05:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_0f39046c-d783-11ef-bd79-ef6157cd1187.html#:~:text=House%20Bill%201022</guid>
 		</item>
 	</channel>
 </rss>

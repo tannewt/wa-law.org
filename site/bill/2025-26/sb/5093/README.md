@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/20 10:30 AM - Law & Justice (LAW): SB 5093 Pregnancy loss
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161497&caId=24790&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161497&caId=24790&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161497&caId=24790&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161497&caId=24790&tId=4)
-
-#### 256 👍 - Pro
+#### 283 👍 - Pro
 Testifying:
 * Dr. Elizabeth Loft
 * Dr. Luis Manriquez
@@ -26,12 +20,13 @@ Testifying:
 * Sara Ainsworth - If/When/How: Lawyering for Reproductive Justice
 * 💵Yvette Maganya - [Legal Voice](/org/legal_voice/)
 
-#### 315 👎 - Con
+#### 371 👎 - Con
 Testifying:
 * Theresa Schrempp
 * Theresa Schrempp
 * Barbara Gulley
 * Barbara Gulley
 * Rachel Lamkin
+* Anthony Stockman
 
 #### 0 ❓ - Other

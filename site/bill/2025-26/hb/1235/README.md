@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32456&aId=161466&caId=24885&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32456&aId=161466&caId=24885&tId=4)
 
-#### 231 👍 - Pro
+#### 551 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

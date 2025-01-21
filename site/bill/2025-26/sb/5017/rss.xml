@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5017/</link>
 		<description>Updates about SB 5017</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 14 Jan 2025 22:34:38 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 17 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -114,6 +114,13 @@
 			<pubDate>Tue, 14 Jan 2025 22:34:38 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/01/14/nobles-bill-to-increase-voting-access-for-uniform-overseas-citizens-heard-in-committee/#:~:text=Senate%20Bill%205017</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-17/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

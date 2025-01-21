@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5234/</link>
 		<description>Updates about SB 5234</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 19 Jan 2025 04:37:42 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 20 Jan 2025 09:31:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,22 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Rick/Ingham/2025-01-19 04:37:42</guid>
+		</item>
+		<item>
+			<title>👎Loni Simone - Washington State Parks and Recreation Commission</title>
+			<description>Loni Simone signed up to testify Con.</description>
+			<pubDate>Sun, 19 Jan 2025 09:54:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Loni/Simone/2025-01-19 09:54:17</guid>
+		</item>
+		<item>
+			<title>👎Greg Figg - Spokane Winter Knights Snowmobile club</title>
+			<description>Greg Figg signed up to testify Con. They are signed up to represent Spokane Winter Knights Snowmobile club.</description>
+			<pubDate>Mon, 20 Jan 2025 09:31:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Greg/Figg/2025-01-20 09:31:25</guid>
 		</item>
 	</channel>
 </rss>

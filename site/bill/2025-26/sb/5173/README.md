@@ -8,18 +8,15 @@
 
 ## Meetings
 ### Mon 01/20 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5173 County comprehensive plans
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32447&aId=161438&caId=24804&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32447&aId=161438&caId=24804&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32447&aId=161438&caId=24804&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32447&aId=161438&caId=24804&tId=4)
-
-#### 11 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Maria Guadalupe Ramirez - Duwamish Valley Affordable Housing Coalition
+* Loni Simone
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* john worthington

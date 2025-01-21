@@ -21,14 +21,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161469&caId=24766&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161469&caId=24766&tId=4)
 
-#### 110 👍 - Pro
+#### 162 👍 - Pro
 Testifying:
 * Celyna Ly
 * David Lara
 * 💵Ethan Frenchman - [Columbia Legal Services](/org/columbia_legal_services/)
 * Jeanelle Reanier-Briggs
+* Hailey Ockinga - Beyond These Walls
+* YVETTE ESPARZA - North End Medical Professional Group
+* Jordan Landry
 
-#### 3 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* 💵Brad Banks - Washington State Association of Counties (WSAC)
 
 #### 1 ❓ - Other
 Testifying:

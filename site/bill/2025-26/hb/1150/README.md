@@ -20,18 +20,39 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32490&aId=161596&caId=24864&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32490&aId=161596&caId=24864&tId=4)
 
-#### 798 👍 - Pro
+#### 1139 👍 - Pro
 Testifying:
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * Reed Hampton
 * Alex Truelove - Biodegradable Products Institute
 * Brian Pontious - Ingevity
+* Anne McEnerny-Ogle - [City of Vancouver](/org/city_of_vancouver/)
+* 💵Carl Schroeder - Association of WA Cities
+* Marlene Feist - [City of Spokane](/org/city_of_spokane/)
+* 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
+* Dr. Mark Vossler - Washington Physicians for Social Responsibility
+* Michael Gonzales - [Joint Council of Teamsters #28](/org/joint_council_of_teamsters_#28/)
+* Peter Steelquist - Surfrider Foundation Washington
+* Scott DeFife - Glass Packaging Institute
+* caitlin kogler
+* Allison Kustic - Association of Plastic Recyclers (APR)
+* 💵Andrew Hackman - AMERIPEN
+* Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
 
-#### 22 👎 - Con
+#### 43 👎 - Con
 Testifying:
 * Rick Vahl - Waste Connections
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
+* Michael Connors - [Washington Potato & Onion Association](/org/washington_potato_&_onion_association/)
+* 💵Scott Hazlegrove - WA Beer & Wine Distributors' Association
+* 💵Lyset Cadena - WM (Waste Management)
+* 💵Jay Balasbas - Basin Disposal
+* Brian Coddington - Sunshine Disposal and Recycling
+* Ted Carlson - Sanitary Service Company
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Brandon Houskeeper - NW Grocery Retail Assoc.

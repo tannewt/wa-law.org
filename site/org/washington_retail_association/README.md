@@ -17,8 +17,12 @@
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎1 
 
+### [HB 1132](/bill/2025-26/hb/1132/) - Enhancing public safety by limiting bulk purchases and transfers of firearms and ammunition.  👎1 
+
 ### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes.   ❓1
 * ❓💵 Mark Johnson
+
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase  👎1 
 
 ### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info  👎1 
 * 👎💵 Crystal Leatherman
@@ -34,16 +38,33 @@
 ### [HB 1209](/bill/2025-26/hb/1209/) - Sodium nitrite   ❓1
 * ❓💵 Crystal Leatherman
 
+### [HB 1245](/bill/2025-26/hb/1245/) - Electrical transmission cap. 👍1  
+* 👍💵 Crystal Leatherman
+
+### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎1 
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
+
+### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs  👎1 
+
+### [SB 5060](/bill/2025-26/sb/5060/) - Law enf. hiring grants 👍1  
+* 👍💵 Crystal Leatherman
+
+### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍1  
+* 👍💵 Mark Johnson
 
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍1  
 * 👍💵 Crystal Leatherman
 
-## [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
+### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
+
+## [SB 5099](/bill/2025-26/sb/5099/) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers.   ❓1
+* ❓💵 Mark Johnson
 
 ## 2023-24
 
-### [SB 5092](/bill/2023-24/sb/5092/) - Farm machinery sales tax 👍1  
+### [SB 5099](/bill/2023-24/sb/5099/) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers.   ❓1
+* ❓💵 Mark Johnson
 
 ### [HB 1005](/bill/2023-24/hb/1005/) - Military/employer tax incen. 👍1  
 * 👍💵 Mark Johnson

@@ -8,17 +8,14 @@
 
 ## Meetings
 ### Mon 01/20 10:30 AM - Law & Justice (LAW): SB 5071 Controlled sub. endangerment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161495&caId=24788&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161495&caId=24788&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161495&caId=24788&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32464&aId=161495&caId=24788&tId=4)
-
-#### 24 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Dakota Manley - Washington State Young Republicans
 * 💵Anne Anderson - Washington State Narcotics Investigators Association
 * Bryce Nelson - Pierce County Prosecutor’s Office
+* Loni Simone
+* Anthony Stockman
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 8 👎 - Con
 Testifying:

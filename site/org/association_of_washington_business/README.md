@@ -6,7 +6,11 @@
 ### [HB 1004](/bill/2025-26/hb/1004/) - Increasing the personal property tax exemption. 👍1  
 * 👍 Max Martin
 
+### [HB 1018](/bill/2025-26/hb/1018/) - Fusion energy facilities 👍1  
+
 ### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍2  
+
+### [HB 1044](/bill/2025-26/hb/1044/) - County REET admin. fees  👎1 
 
 ### [HB 1063](/bill/2025-26/hb/1063/) - Earned wage access services 👍1  
 
@@ -22,6 +26,8 @@
 
 ### [HB 1082](/bill/2025-26/hb/1082/) - Child care provider qualif. 👍1  
 
+### [HB 1094](/bill/2025-26/hb/1094/) - Providing a property tax exemption for property owned by a qualifying nonprofit organization and loaned, leased, or rented to and used by any government entity to provide character-building, benevolent, protective, or rehabilitative social services. 👍1  
+
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 * 👍💵 Morgan Irwin
 
@@ -31,10 +37,14 @@
 ### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍2  
 * 👍💵 Morgan Irwin
 
+### [HB 1126](/bill/2025-26/hb/1126/) - Standardizing notification provisions relating to local tax rate changes and shared taxes administered by the department. 👍1  
+
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎1 
 * 👎💵 Lindsey Hueer
 
 ### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers  👎1 
+
+### [HB 1143](/bill/2025-26/hb/1143/) - College grant award amounts 👍1  
 
 ### [HB 1155](/bill/2025-26/hb/1155/) - Noncompetition agreements  👎1 
 * 👎💵 Lindsey Hueer
@@ -48,6 +58,9 @@
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages  👎1 
 * 👎💵 Lindsey Hueer
 
+### [HB 1188](/bill/2025-26/hb/1188/) - Requiring local government and tribal approval of wind and solar siting recommendations by the energy facility site evaluation council.  👎1 
+* 👎💵 Peter Godlewski
+
 ### [HB 1197](/bill/2025-26/hb/1197/) - Operating budget, supp.  👎1 
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎1 
@@ -56,10 +69,20 @@
 ### [HB 1209](/bill/2025-26/hb/1209/) - Sodium nitrite   ❓1
 * ❓💵 Peter Godlewski
 
+### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program.  👎1 
+* 👎💵 Lindsey Hueer
+
+### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
+
 ### [HB 1297](/bill/2025-26/hb/1297/) - Child support/self-employed  👎1 
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 * 👎💵 Lindsey Hueer
+
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+* 👎💵 Lindsey Hueer
+
+### [SB 5054](/bill/2025-26/sb/5054/) - Winery tax exemption 👍1  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 
 * 👎💵 Lindsey Hueer
@@ -75,6 +98,8 @@
 ### [SB 5105](/bill/2025-26/sb/5105/) - Concerning offenses involving fabricated depictions of minors. 👍1  
 * 👍💵 Morgan Irwin
 
+### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎 Max Martin
 
@@ -82,13 +107,18 @@
 
 ### [SB 5205](/bill/2025-26/sb/5205/) - College grant award amounts 👍1  
 
-## [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations   ❓1
+### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations   ❓1
 * ❓💵 Lindsey Hueer
+
+### [SB 5241](/bill/2025-26/sb/5241/) - Fusion energy facilities 👍1  
+
+## [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
+* 👎💵 Lindsey Hueer
 
 ## 2023-24
 
-### [SB 5217](/bill/2023-24/sb/5217/) - Pregnancy accommodations   ❓1
-* ❓💵 Lindsey Hueer
+### [SB 5292](/bill/2023-24/sb/5292/) - Family & medical leave rates  👎1 
+* 👎💵 Lindsey Hueer
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

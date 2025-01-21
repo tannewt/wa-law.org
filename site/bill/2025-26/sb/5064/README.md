@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32487&aId=161670&caId=24749&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32487&aId=161670&caId=24749&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Gail Jarvik - University of Washington Medical Center
 
 #### 0 👎 - Con
 

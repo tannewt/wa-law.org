@@ -19,15 +19,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161538&caId=24733&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32476&aId=161538&caId=24733&tId=4)
 
-#### 137 👍 - Pro
+#### 334 👍 - Pro
 Testifying:
 * Felicia Walker
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* 💵Jenny Morgan - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 
-#### 941 👎 - Con
+#### 1191 👎 - Con
 Testifying:
 * Khushdip Brar - School board director
 * Jennifer Heine-Withee
 * Trish Huddleston - School Board Director
+* Terry Tate - School Board Director
+* Sarah Garriott
+* Tonya Hickman - Lynden School Board
 
 #### 1 ❓ - Other
 Testifying:

@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161752&caId=24781&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161752&caId=24781&tId=4)
 
-#### 4 👍 - Pro
+#### 13 👍 - Pro
 
-#### 64 👎 - Con
+#### 98 👎 - Con
+Testifying:
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Rose Gundersen - WA Retail Association
+* Elizabeth New - Washington Policy Center

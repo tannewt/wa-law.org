@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161545&caId=24741&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161545&caId=24741&tId=4)
 
-#### 23 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf
 * Samantha Fogg - Seattle Council PTSA Co-President
+* Jaanvi Ganapathy - Legislative Youth Advisory Council (LYAC)
 
-#### 759 👎 - Con
+#### 910 👎 - Con
 
 #### 2 ❓ - Other

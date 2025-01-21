@@ -36,6 +36,9 @@
 ### [HB 1218](/bill/2025-26/hb/1218/) - Concerning persons referred for competency evaluation and restoration services.  👎1 
 * 👎💵 Candice Bock
 
+### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records   ❓1
+* ❓💵 Candice Bock
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state.   ❓1
 * ❓💵 Candice Bock
 
@@ -59,13 +62,16 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Candice Bock
 
-## [SB 5176](/bill/2025-26/sb/5176/) - Implementing prompt pay recommendations from the capital projects advisory review board.   ❓1
+### [SB 5176](/bill/2025-26/sb/5176/) - Implementing prompt pay recommendations from the capital projects advisory review board.   ❓1
 * ❓💵 Kelsey Hulse
+
+## [SB 5197](/bill/2025-26/sb/5197/) - Local government planning   ❓1
+* ❓💵 Carl Schroeder
 
 ## 2023-24
 
-### [SB 5176](/bill/2023-24/sb/5176/) - Implementing prompt pay recommendations from the capital projects advisory review board.   ❓1
-* ❓💵 Kelsey Hulse
+### [SB 5197](/bill/2023-24/sb/5197/) - Local government planning   ❓1
+* ❓💵 Carl Schroeder
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

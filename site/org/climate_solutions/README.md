@@ -5,22 +5,32 @@
 
 ### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act. 👍1  
 
+### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 * 👍💵 Leah Missik
 
 ### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget 👍1  
 * 👍💵 Leah Missik
 
+### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council.   ❓1
+* ❓💵 Altinay Karasapan
+
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 * 👍💵 Leah Missik
 
-## [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 * 👍💵 Leah Missik
+
+## [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
+* ❓💵 Altinay Karasapan
 
 ## 2023-24
 
-### [SB 5195](/bill/2023-24/sb/5195/) - Capital budget 👍1  
-* 👍💵 Leah Missik
+### [SB 5246](/bill/2023-24/sb/5246/) - Energy facility site eval.   ❓1
+* ❓💵 Altinay Karasapan
 
 ### [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍2  
 * 👍💵 Leah Missik

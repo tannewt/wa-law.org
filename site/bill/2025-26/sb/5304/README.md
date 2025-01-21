@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32475&aId=161838&caId=24928&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32475&aId=161838&caId=24928&tId=4)
 
-#### 6 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Alexandria Nickerson
+* 💵Joel Anderson - Washington Student Achievement Council
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

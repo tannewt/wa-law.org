@@ -17,16 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32482&aId=161559&caId=24810&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32482&aId=161559&caId=24810&tId=4)
 
-#### 140 👍 - Pro
+#### 205 👍 - Pro
 Testifying:
 * 💵Anthony Blankenship - [Civil Survival Project](/org/civil_survival_project/)
 * Jacob Schmitt - Just Us Solutions
 * Raymond Williams - Just Us Solutions
 * Hailey Wu - Asian Counseling and Referral Services
 * Abigail Leong
+* 💵Giovanni Severino
+* Lai King
 
-#### 207 👎 - Con
+#### 448 👎 - Con
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Ingrid Ulrey - Washington Health Benefit Exchange
+* 💵Shirley Prasad - Washington Health Benefit Exchange

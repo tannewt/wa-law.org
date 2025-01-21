@@ -3,10 +3,19 @@
 
 ### [HB 1036](/bill/2025-26/hb/1036/) - Labor trustees/colleges 👍1  
 
+### [HB 1048](/bill/2025-26/hb/1048/) - Rangeland fire pilot   ❓1
+* ❓💵 Seamus Petrie
+
 ### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Seamus Petrie
+
+### [HB 1349](/bill/2025-26/hb/1349/) - Pension credit for leave 👍1  
+
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
+
+### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  
 
 ## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Seamus Petrie

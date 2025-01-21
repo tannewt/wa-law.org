@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32503&aId=161643&caId=24852&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32503&aId=161643&caId=24852&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Brice Montgomery - Department of Social and Health Services, Economic Services Administration
 
 #### 0 👎 - Con
 

@@ -14,14 +14,29 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161505&caId=24798&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32465&aId=161505&caId=24798&tId=4)
 
-#### 585 👍 - Pro
+#### 748 👍 - Pro
 Testifying:
 * Stephen Lindley
+* Isaiah Lenard
+* Niko Battle
+* Robert Schentrup - BRADY
+* Kate Stockert - Moms Demand Action
+* Stephen Lindley - Brady United
+* Ann Madsen
+* Ian Taylor
 
-#### 1411 👎 - Con
+#### 1871 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * kyle ivarra
 * Mark Crider - Walla Walla Sheriff's Office
+* Hiedi Mitchell - Sporting Systems
+* Sheriff Mark Crider - Walla Walla County Sheriff
+* 💵Troy Nichols - NSSF - National Shooting Sports Foundation
+* Dan Mitchell - WA Civil Rights Association
+* Jeremy Ball - Sharp Shooting Indoor Range and Gun Shop
+* Teddy Chow
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)

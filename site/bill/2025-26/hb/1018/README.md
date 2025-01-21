@@ -8,17 +8,14 @@
 
 ## Meetings
 ### Mon 01/20 01:30 PM - Environment & Energy (ENVI): HB 1018 Fusion energy facilities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161591&caId=24861&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161591&caId=24861&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161591&caId=24861&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161591&caId=24861&tId=4)
-
-#### 12 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Sonia Bumpus - Energy Facility Site Evaluation Council
 * 💵Isaac Kastama - Clean & Prosperous Washington
+* 💵Tom Bugert - [Helion Energy](/org/helion_energy/)
 
 #### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jill Wood - Washington State Department of Health

@@ -17,13 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32521&aId=161720&caId=24894&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32521&aId=161720&caId=24894&tId=4)
 
-#### 94 👍 - Pro
+#### 214 👍 - Pro
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Scott Bonjukian
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Mark Schuller - [City of Cheney](/org/city_of_cheney/)
 
-#### 7 👎 - Con
+#### 36 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

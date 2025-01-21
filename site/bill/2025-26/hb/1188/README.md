@@ -12,21 +12,21 @@
 
 ## Meetings
 ### Mon 01/20 01:30 PM - Environment & Energy (ENVI): HB 1188 Wind & solar siting approval
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161592&caId=24862&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161592&caId=24862&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161592&caId=24862&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32488&aId=161592&caId=24862&tId=4)
-
-#### 53 👍 - Pro
+#### 86 👍 - Pro
 Testifying:
 * Kevin Akesson
 * Kevin Akesson
 * Tresa Bannister
 * Paul Krupin - Tri-Cities CARES
 * Sue Lani Madsen - Washington Rural Environmental Network
+* Loni Simone
+* Michele Kiesz - VOICES for Rural Action
+* Andrew Juris
 * Karen Brutzman
+* 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 9 👎 - Con
+#### 27 👎 - Con
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other

@@ -18,17 +18,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161613&caId=24831&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161613&caId=24831&tId=4)
 
-#### 309 👍 - Pro
+#### 577 👍 - Pro
 Testifying:
 * Vitaliy Kertchen - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 * kyle ivarra
 * Charles Scroggins
 * Zekiel Castillo
+* Robert Floyd
+* 💵Aoibheann Cline - NRA
+* Teddy Chow
+* Teo Morca
+* dan Mitchell - WA Civil Rights Association
 
-#### 78 👎 - Con
+#### 119 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Devin Owens
 * 💵Anne Anderson - Washington State Narcotics Investigators Association
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* Andrew de Sena
+* Andrew de Sena
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Eric Pratt - America

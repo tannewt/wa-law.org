@@ -7,17 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/20/2025 [Senate Democrats](/org/senate_democrats/) - [Propuesta de ley de Saldaña sobre derechos laborales de personas trabajadoras del hogar es presentada en comité  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/01/20/propuesta-de-ley-de-saldana-sobre-derechos-laborales-de-personas-trabajadoras-del-hogar-es-presentada-en-comite/#:~:text=Proyecto%20de%20Ley%20del%20Senado%205023)
+* 01/20/2025 [Senate Democrats](/org/senate_democrats/) - [Saldaña’s domestic workers’ bill of rights heard in committee  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/01/20/saldanas-domestic-workers-bill-of-rights-heard-in-committee/#:~:text=Senate%20Bill%205023)
 * 01/13/2025 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2025 legislative session - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/01/13/kicking-off-the-2025-legislative-session/#:~:text=SB%205023)
 
 ## Meetings
 ### Mon 01/20 10:30 AM - Labor & Commerce (LC): SB 5023 Domestic workers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161573&caId=24777&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161573&caId=24777&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161573&caId=24777&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32438&aId=161573&caId=24777&tId=4)
-
-#### 402 👍 - Pro
+#### 460 👍 - Pro
 Testifying:
 * Danielle Alvarado - [Fair Work Center](/org/fair_work_center/)
 * Ingrid Chapman
@@ -43,17 +39,20 @@ Testifying:
 * Veronica Sanchez
 * Guadalupe Parades
 * Veronica Sanchez
+* Guadalupe Paredes
 * Emily Dills
 * Emily Dills
 * Emily Dills
 * Jordan Goldwarg
 
-#### 260 👎 - Con
+#### 305 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * Barbara Carmel Howard Gulley
 * Barbara CARMEL Howard Gulley
 * Barbara Carmel Howard Gulley
+* Loni Simone
+* Anthony Stockman
 
 #### 3 ❓ - Other
 Testifying:

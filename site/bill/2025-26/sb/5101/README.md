@@ -17,13 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161808&caId=24782&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161808&caId=24782&tId=4)
 
-#### 15 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * 💵Christoph Mair - [Washington State Labor Council](/org/washington_state_labor_council/)
 * 💵Kendall Kosai - ADL Pacific Northwest
+* 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 
-#### 124 👎 - Con
+#### 262 👎 - Con
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Rose Gundersen - WA Retail Association
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Imraan Siddiqi - Council of American Islamic Relations (CAIR) Washington
+* Sabrene Odeh - Council of American Islamic Relations (CAIR) Washington

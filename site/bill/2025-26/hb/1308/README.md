@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32519&aId=161859&caId=24941&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32519&aId=161859&caId=24941&tId=4)
 
-#### 17 👍 - Pro
+#### 97 👍 - Pro
 Testifying:
 * Patrick McGah
 
-#### 67 👎 - Con
+#### 110 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
+* 💵Amber Carter - WA Retail Association
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
