@@ -28,6 +28,9 @@
 ### [HB 1245](/bill/2025-26/hb/1245/) - Electrical transmission cap. 👍1  
 * 👍 Sean DeWitz
 
+### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records  👎1 
+* 👎💵 Julia Gorton
+
 ### [HB 1315](/bill/2025-26/hb/1315/) - Impaired driving  👎1 
 * 👎💵 Julia Gorton
 

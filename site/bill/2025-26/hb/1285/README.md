@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161783&caId=24859&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161783&caId=24859&tId=4)
 
-#### 59 👍 - Pro
+#### 81 👍 - Pro
 Testifying:
 * Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
 * Benjamin Blackerby - Ashwin Teen Financial Academy (ATFA) 501 (c)(3) Organization
@@ -28,8 +28,9 @@ Testifying:
 * Ashwin Joshi - Ashwin Teen Financial Academy (ATFA) 501 (c)(3) Organization
 * Ronan Maher
 * Amanda Sanborn
+* Jennifer Heine-Withee
 
-#### 415 👎 - Con
+#### 419 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

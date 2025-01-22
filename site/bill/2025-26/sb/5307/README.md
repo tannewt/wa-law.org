@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161812&caId=24737&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161812&caId=24737&tId=4)
 
-#### 793 👍 - Pro
+#### 1094 👍 - Pro
 Testifying:
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer - Superintendent, Federal Way School District
@@ -42,7 +42,9 @@ Testifying:
 * Lydia Sellie
 * Ben Ferney - Cheney Public Schools
 * Holly Wehner
+* Megan Livingston
+* Madison Fein
 
-#### 206 👎 - Con
+#### 225 👎 - Con
 
 #### 0 ❓ - Other

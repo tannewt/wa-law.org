@@ -18,11 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161784&caId=24860&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161784&caId=24860&tId=4)
 
-#### 7 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Dana Anderson - Washington School Information Processing Cooperative
+* Dr. Austina De Bonte - WA Coalition for Gifted Education
 
-#### 460 👎 - Con
+#### 464 👎 - Con
 Testifying:
 * Fortune Pestarino - Retired
 

@@ -14,7 +14,7 @@
 
 ### [HB 1243](/bill/2025-26/hb/1243/) - DSHS overpayments 👍1  
 
-### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  
+### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍2  
 
 ### [HB 1268](/bill/2025-26/hb/1268/) - Virtual currency kiosks  👎1 
 
@@ -28,7 +28,7 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
+### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍2  
 
 ## [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks 👍1  
 

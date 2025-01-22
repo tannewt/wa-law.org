@@ -12,18 +12,12 @@
 
 ## Meetings
 ### Wed 01/22 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1297 Child support/self-employed
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32497&aId=161656&caId=24835&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32497&aId=161656&caId=24835&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32497&aId=161656&caId=24835&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32497&aId=161656&caId=24835&tId=4)
-
 #### 6 👍 - Pro
 Testifying:
 * Alice Jacobsohn - PayrollOrg
 * Sharon Redmond - Department of Social and Health Services
 
-#### 98 👎 - Con
+#### 106 👎 - Con
 Testifying:
 * mike ennis - BIAW
 * Loni Simone

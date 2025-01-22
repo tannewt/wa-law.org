@@ -12,20 +12,14 @@
 
 ## Meetings
 ### Wed 01/22 08:00 AM - Local Government (LG): HB 1254 Wildland urban interface
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161723&caId=24897&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161723&caId=24897&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161723&caId=24897&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161723&caId=24897&tId=4)
-
-#### 91 👍 - Pro
+#### 94 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * David Forte - Office of the Insurance Commissioner
 * Rory Paine-Donovan - Office of the Insurance Commissioner
 * Dustin Curb - State Building Code Council
 
-#### 28 👎 - Con
+#### 30 👎 - Con
 Testifying:
 * Lynn Fitz-Hugh - Restoring Earth Connection
 * Charlotte Persons
@@ -33,5 +27,9 @@ Testifying:
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Michael Feerer - Whatcom Million Trees Project
 * ron perkerewicz - BIAW
+* 💵Morgan Irwin
 
-#### 3 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Samantha Weinstein - Department of Ecology

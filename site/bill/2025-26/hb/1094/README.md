@@ -20,6 +20,6 @@ Testifying:
 * Troy Christensen - PorchLight
 * Kim Sarnecki - Together Center
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

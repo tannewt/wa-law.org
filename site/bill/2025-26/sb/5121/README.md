@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161673&caId=24753&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161673&caId=24753&tId=4)
 
-#### 332 👍 - Pro
+#### 356 👍 - Pro
 Testifying:
 * Erica Tomas
 * Eliana Horn
@@ -26,7 +26,7 @@ Testifying:
 * Maranatha Hay
 * Michael Truong
 
-#### 458 👎 - Con
+#### 464 👎 - Con
 Testifying:
 * Theresa Schrempp
 * Mary Long - Conservative Ladies of Washington

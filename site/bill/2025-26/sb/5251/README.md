@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32437&aId=161866&caId=24947&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32437&aId=161866&caId=24947&tId=4)
 
-#### 5 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Briahna Murray - [City of Spokane Valley](/org/city_of_spokane_valley/)
 * Phil Champlin - HUB Sports Center

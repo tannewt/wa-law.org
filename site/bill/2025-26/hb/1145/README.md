@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Wed 01/22 08:00 AM - Local Government (LG): HB 1145 Public works reporting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161722&caId=24896&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161722&caId=24896&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161722&caId=24896&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161722&caId=24896&tId=4)
-
 #### 1 👍 - Pro
 Testifying:
 * James (Jim) Goche' - Friendly Grove Farm
 
-#### 36 👎 - Con
+#### 45 👎 - Con
 Testifying:
 * 💵Axel Swanson - Washington State Association of County Engineers
 * Loni Simone

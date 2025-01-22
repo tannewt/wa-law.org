@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=4)
 
-#### 4437 👍 - Pro
+#### 4732 👍 - Pro
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner, AMHO
 * Kyle Lucas - Urban Indians NW & Tenants United at Western Plaza Mobile Home Park
@@ -82,9 +82,13 @@ Testifying:
 * Riley Irish
 * Barbara Thompson - Country Estates
 * Dustin Baker - Country Estates
+* 💵Paul Benz - Quaker Voice
+* Alexandria Nickerson - TOA Tenant Org and Advocates
 * Rebekah Gardea - QLaw Foundation of Washington
+* 💵Melanie Smith - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
+* Melissa Stuart - [City of Redmond](/org/city_of_redmond/)
 
-#### 3123 👎 - Con
+#### 3373 👎 - Con
 Testifying:
 * Constance Nelson
 * Russ Millard
@@ -168,12 +172,21 @@ Testifying:
 * Sylvia Renteria
 * David Mandley - Principal of for profit housing provider
 * Denise Booth
+* Jeff Krueger - Hidden Haven Associates, LLC
+* Lifang Huang
+* xiangyu cao
+* Cindy Sy
 * Mike Morris
 * Mackinley Robinson - Berkadia
 * Katherine Carter
+* Vick Guo
+* Chris Zhang
+* Erik Brand
+* Tonya Hardwick
 
-#### 45 ❓ - Other
+#### 48 ❓ - Other
 Testifying:
 * Tonya Hardwick
 * Michelle Bart
+* Linda Seltzer
 * Reza Bouzarjomehri

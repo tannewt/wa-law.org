@@ -3,13 +3,16 @@
 
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages  👎1 
 
-## [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎1 
+
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Cory Shaw
+
+## [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 
 ## 2023-24
 
-### [SB 5041](/bill/2023-24/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
-* 👎💵 Cory Shaw
+### [SB 5360](/bill/2023-24/sb/5360/) - Environmental crimes  👎1 
 
 ### [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations.  👎1 
 

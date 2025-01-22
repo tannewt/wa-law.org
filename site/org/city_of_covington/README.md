@@ -8,6 +8,8 @@
 * ❓ Jeff Wagner
 * ❓ Jeff Wagner
 
+### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface   ❓2
+
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
 * 👎 Jeff Wagner
 

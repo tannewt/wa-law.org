@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32475&aId=161837&caId=24927&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32475&aId=161837&caId=24927&tId=4)
 
-#### 49 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * cierra Draper-West - UW Seattle
 * Maria Belen Sepulveda - n/a
 * Mykhail Lembke - University of Washington Graduate & Professional Student Senate
 * 💵Isela Bonilla - Legislative Liaison ASWSU Vancouver
+* Trevor Spane - Passport to Change
 
-#### 138 👎 - Con
+#### 230 👎 - Con
 
 #### 0 ❓ - Other

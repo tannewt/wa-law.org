@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161709&caId=24736&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161709&caId=24736&tId=4)
 
-#### 1912 👍 - Pro
+#### 2323 👍 - Pro
 Testifying:
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer - Superintendent, Federal Way School District
@@ -48,10 +48,13 @@ Testifying:
 * B Trosper
 * Ben Ferney - Cheney Public Schools
 * Holly Wehner
+* Brianna Rose - Parent of a SpEd student
 * Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
 
-#### 232 👎 - Con
+#### 253 👎 - Con
 
-#### 8 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * Mylea Holloway - 1725 Diamond Loop SE
+* Mike Stewart - Boyer Children’s Clinic
+* Sunny Luke - Client parent

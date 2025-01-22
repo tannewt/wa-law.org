@@ -1,6 +1,8 @@
 # Community Bankers of Washington
 ## 2025-26
 
+### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍1  
+
 ## [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎1 
 * 👎💵 Brad Tower
 

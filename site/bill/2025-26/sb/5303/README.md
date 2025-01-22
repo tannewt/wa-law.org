@@ -16,8 +16,9 @@ Sign up to testify:
 
 #### 4 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
+* Rick McGuire - Alpine Lakes Protection Society
 * Rick McGuire - Alpine Lakes Protection Society
 
 #### 0 ❓ - Other

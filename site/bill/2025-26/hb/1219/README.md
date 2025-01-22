@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 3 👍 - Pro
 
-#### 16 👎 - Con
+#### 27 👎 - Con
 Testifying:
 * Rozana Knutson
 * Loni Simone

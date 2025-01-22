@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161834&caId=24918&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161834&caId=24918&tId=4)
 
-#### 49 👍 - Pro
+#### 55 👍 - Pro
 
-#### 21 👎 - Con
+#### 34 👎 - Con
 Testifying:
 * Rozana Knutson
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* 💵Zackary Turner - [Professional Educator Standards Board](/org/professional_educator_standards_board/)

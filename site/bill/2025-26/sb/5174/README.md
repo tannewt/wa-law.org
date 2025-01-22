@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161846&caId=24935&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161846&caId=24935&tId=4)
 
-#### 116 👍 - Pro
+#### 125 👍 - Pro
 
-#### 81 👎 - Con
+#### 87 👎 - Con
 Testifying:
 * 💵Carolyn Logue - NW Hearth, Patio & Barbecue Association
 * Chris Neufeld - Blaze King Industries, Inc.

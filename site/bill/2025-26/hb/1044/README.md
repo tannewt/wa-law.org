@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 01/22 08:00 AM - Local Government (LG): HB 1044 County REET admin. fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161721&caId=24895&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161721&caId=24895&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161721&caId=24895&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161721&caId=24895&tId=4)
-
 #### 35 👍 - Pro
 Testifying:
 * Steven Drew - WA Assoc of Assessors legislative co-chair
@@ -21,6 +15,8 @@ Testifying:
 * Jeff Gadman - President, WA Association of County Treasurers
 * Amy Cziske - Kittitas County
 
-#### 7 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Jeff Pack - Me
 
 #### 0 ❓ - Other

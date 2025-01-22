@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161854&caId=24938&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161854&caId=24938&tId=4)
 
-#### 1366 👍 - Pro
+#### 1485 👍 - Pro
 Testifying:
 * Chad Magendanz - ABATE
 * Corey Rowden
@@ -35,9 +35,11 @@ Testifying:
 * Loni Simone
 * Elvis Brandenburg
 * trevor cook
+* Gregory Jordan
+* Frank Brinkmann
 * Cody Hiatt
 
-#### 17 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 

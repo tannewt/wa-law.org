@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=4)
 
-#### 1822 👍 - Pro
+#### 2241 👍 - Pro
 Testifying:
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer
@@ -49,8 +49,27 @@ Testifying:
 * Doug Vanderleest - WA Association of Maintenance and Operation Administrators
 * Ben Ferney - Cheney Public Schools
 * Holly Wehner
+* Charlie Brown - WA Skills Centers Directors
+* Megan Fisher
+* Corinne Wolffe
+* Christine Remedios
+* Megan Livingston
+* Lauren Melvin
+* Teresa Yette
+* Jessica Woersching
+* Jilliana Anderson
+* Natalie Stanley Westmeyer - 10241 NE Beach Crest Dr
+* Christina Ulloa Purrelli
+* Nicole Minoza
+* Laurie Kline
+* Sydney Bond
+* Eliza Henderson
+* Erin MacDougall
+* Michael Henderson
+* Magda Pratt
+* Shannon Speicher
 
-#### 728 👎 - Con
+#### 973 👎 - Con
 Testifying:
 * Rozana Knutson
 * Loni Simone

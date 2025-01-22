@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161653&caId=24858&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161653&caId=24858&tId=4)
 
-#### 532 👍 - Pro
+#### 716 👍 - Pro
 Testifying:
 * Danni Askini - Gender Justice League
 * Samantha Fogg - Seattle Council PTSA Co-President
@@ -32,8 +32,9 @@ Testifying:
 * 💵Oliver Miska - Lavender Rights Project
 * 💵Jenny Morgan - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 * Lucy Lauser
+* Paul Bonamy
 
-#### 836 👎 - Con
+#### 973 👎 - Con
 Testifying:
 * Robert Bleu - Former Elected School Board Member
 * Jeffrey Bastow
@@ -47,6 +48,7 @@ Testifying:
 * Christa Levine
 * Eric Lundberg
 * Joseph Romero - [Puyallup School District](/org/puyallup_school_district/)
+* Danielle Black
 
 #### 2 ❓ - Other
 Testifying:

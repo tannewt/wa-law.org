@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32457&aId=161833&caId=24926&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32457&aId=161833&caId=24926&tId=4)
 
-#### 343 👍 - Pro
+#### 360 👍 - Pro
 Testifying:
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 * Christine Walker - Parkwood Neighborhood Alliance
@@ -22,7 +22,9 @@ Testifying:
 
 #### 3 👎 - Con
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 
 ### Tue 01/21 04:00 PM - Housing (HOUS): HB 1204 Senior shared housing
 #### 3 👍 - Pro

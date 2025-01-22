@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/22/2025 [The Urbanist](/org/the_urbanist/) - [Washington Legislature Sets it Sights on Transit-Oriented Development…Again - The Urbanist](https://www.theurbanist.org/2025/01/22/washington-legislature-sets-it-sights-on-transit-oriented-development-again/#:~:text=House%20Bill%201491)
+
 ## Meetings

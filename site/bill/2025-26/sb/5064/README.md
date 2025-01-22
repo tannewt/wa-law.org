@@ -14,13 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32487&aId=161670&caId=24749&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32487&aId=161670&caId=24749&tId=4)
 
-#### 12 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Gail Jarvik - University of Washington Medical Center
 * Lindsey Viscarra - National Organization for Rare Disorders
 * Sarah Tompkins - NW Rare Disease Coalition
 * Whitney Stohr - Kids Rise Fund
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

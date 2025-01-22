@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1044/</link>
 		<description>Updates about HB 1044</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 21 Jan 2025 02:15:55 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jan 2025 10:10:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -60,6 +60,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Amy/Cziske/2025-01-21 02:15:55</guid>
+		</item>
+		<item>
+			<title>👎Jeff Pack - Me</title>
+			<description>Jeff Pack signed up to testify Con. They are signed up to represent Me.</description>
+			<pubDate>Tue, 21 Jan 2025 10:10:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeff/Pack/2025-01-21 10:10:11</guid>
 		</item>
 	</channel>
 </rss>

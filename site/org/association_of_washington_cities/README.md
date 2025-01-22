@@ -53,6 +53,9 @@
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element   ❓1
 * ❓💵 Carl Schroeder
 
+### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface   ❓1
+* ❓💵 Carl Schroeder
+
 ### [HB 1275](/bill/2025-26/hb/1275/) - Self-insurer withdrawal 👍1  
 
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records   ❓1

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161799&caId=24908&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161799&caId=24908&tId=4)
 
-#### 41 👍 - Pro
+#### 78 👍 - Pro
 Testifying:
 * 💵Jane Wall - County Road Administration Board
 * Rob Coffman - Lincoln County Commissioner; CRAB Board Chair
@@ -23,7 +23,7 @@ Testifying:
 * 💵Michael Moran - 1. Chehalis Tribe 2. Coville Tribes
 * Loni Simone
 
-#### 218 👎 - Con
+#### 242 👎 - Con
 
 #### 4 ❓ - Other
 Testifying:

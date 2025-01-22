@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161773&caId=24848&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161773&caId=24848&tId=4)
 
-#### 61 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * Gilbert Arcos
 * Dennise Drury
@@ -29,8 +29,9 @@ Testifying:
 * Phil Goldfeder - CEO at American Fintech Council
 * Robert Singleton - Senior Director of Policy & Public Affairs for California and the Western US at Chamber of Progress
 * Dayana Melgar
+* Brittany Davis - EWA User
 
-#### 228 👎 - Con
+#### 250 👎 - Con
 
 #### 8 ❓ - Other
 Testifying:

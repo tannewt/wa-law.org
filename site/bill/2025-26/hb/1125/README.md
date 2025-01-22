@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32451&aId=161454&caId=24843&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32451&aId=161454&caId=24843&tId=4)
 
-#### 608 👍 - Pro
+#### 625 👍 - Pro
 Testifying:
 * Kimberly Gordon
 * Kimberly Gordon - Washington Association of Criminal Defense Lawyers/Washington Defender Association
@@ -24,7 +24,7 @@ Testifying:
 * Aswad Thomas - Crime Survivors for Safety and Justice
 * Veronica Galvan - Minority and Justice Commission
 
-#### 231 👎 - Con
+#### 233 👎 - Con
 Testifying:
 * Leslie Paine
 * Tina Reynolds

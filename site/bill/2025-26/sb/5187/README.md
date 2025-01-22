@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161539&caId=24734&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161539&caId=24734&tId=4)
 
-#### 1678 👍 - Pro
+#### 2095 👍 - Pro
 Testifying:
 * Advaita Mattam
 * Moritz Maszhold
@@ -44,8 +44,10 @@ Testifying:
 * Mary Templeton - Lake Stevens School District
 * Heather Tow-Yick - [Issaquah School District](/org/issaquah_school_district/)
 * Holly Wehner
+* Charlie Brown - WA Skills Centers Directors
+* Stephanie Chase
 
-#### 27 👎 - Con
+#### 43 👎 - Con
 Testifying:
 * Loni Simone
 * Cynthia Doussard

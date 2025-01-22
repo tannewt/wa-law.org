@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Wed 01/22 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1048 Rangeland fire pilot
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32510&aId=161660&caId=24826&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32510&aId=161660&caId=24826&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32510&aId=161660&caId=24826&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32510&aId=161660&caId=24826&tId=4)
-
-#### 36 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * Jay Kehne - [Conservation Northwest](/org/conservation_northwest/)
 * Loni Simone
@@ -26,7 +20,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
 * Leonard Johnson - Washington Fire Chiefs Association

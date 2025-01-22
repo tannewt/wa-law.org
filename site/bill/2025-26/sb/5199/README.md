@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 01/22 08:00 AM - Human Services (HS): SB 5199 DCYF oversight board comp.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32459&aId=161476&caId=24773&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32459&aId=161476&caId=24773&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32459&aId=161476&caId=24773&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32459&aId=161476&caId=24773&tId=4)
-
 #### 1 👍 - Pro
 
 #### 0 👎 - Con

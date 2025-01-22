@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/22 08:00 AM - Labor & Workplace Standards (LAWS): HB 1308 Access to personnel records
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32519&aId=161859&caId=24941&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32519&aId=161859&caId=24941&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32519&aId=161859&caId=24941&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32519&aId=161859&caId=24941&tId=4)
-
-#### 238 👍 - Pro
+#### 266 👍 - Pro
 Testifying:
 * Patrick McGah
 * 💵John Traynor - washington state labor council, afl-cio
@@ -22,12 +16,13 @@ Testifying:
 * Jane Dale - Washington State Association for Justice
 * Jesse Wing - Washington Employment Lawyers Association (WELA)
 
-#### 124 👎 - Con
+#### 129 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Amber Carter - WA Retail Association
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

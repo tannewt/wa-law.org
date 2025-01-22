@@ -1,6 +1,9 @@
 # Commonwealth Real Estate Services
 ## 2025-26
 
+### [HB 1204](/bill/2025-26/hb/1204/) - Senior shared housing   ❓1
+* ❓💵 Brad Tower
+
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
 * 👎💵 Brad Tower
 
