@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161812&caId=24737&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161812&caId=24737&tId=4)
 
-#### 474 👍 - Pro
+#### 793 👍 - Pro
 Testifying:
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer - Superintendent, Federal Way School District
@@ -27,6 +27,7 @@ Testifying:
 * 💵Clifford Traisman - Northshore School District (and Seattle, Highline, Bellevue Public Schools)
 * Angela Steck - President, Washington State PTA
 * 💵Joel Aune - Executive Director, Washington Association of School Administrators
+* Melissa Stone - Secretary, Washington State PTA
 * Tricia Lubach - Executive Director, Washington State School Directors' Association
 * Samantha Fogg - Seattle Council PTSA Co-President
 * Lindsey Yocum - Lake Washington School District
@@ -38,8 +39,10 @@ Testifying:
 * Lance Goodpaster - Superintendent, Franklin Pierce School District
 * Sarah Milici - Parent advocate
 * Misha Cherniske - Office of Superintendent of Public Instruction
+* Lydia Sellie
 * Ben Ferney - Cheney Public Schools
+* Holly Wehner
 
-#### 106 👎 - Con
+#### 206 👎 - Con
 
 #### 0 ❓ - Other

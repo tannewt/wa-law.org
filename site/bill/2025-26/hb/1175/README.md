@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/21 10:30 AM - Local Government (LG): HB 1175 Small businesses/residential
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32521&aId=161720&caId=24894&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32521&aId=161720&caId=24894&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32521&aId=161720&caId=24894&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32521&aId=161720&caId=24894&tId=4)
-
-#### 257 👍 - Pro
+#### 268 👍 - Pro
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Scott Bonjukian
@@ -27,7 +21,7 @@ Testifying:
 * Rachel Mazur - Hillis, Clark, Martin & Peterson
 * Paul Woods
 
-#### 54 👎 - Con
+#### 55 👎 - Con
 
 #### 4 ❓ - Other
 Testifying:

@@ -8,16 +8,11 @@
 
 ## Meetings
 ### Tue 01/21 04:00 PM - Environment & Energy (ENVI): HB 1290 Water quality trading prog.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32490&aId=161754&caId=24866&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32490&aId=161754&caId=24866&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32490&aId=161754&caId=24866&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32490&aId=161754&caId=24866&tId=4)
+#### 27 👍 - Pro
 
-#### 13 👍 - Pro
+#### 5 👎 - Con
 
-#### 4 👎 - Con
-
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Vincent McGowan - Department of Ecology
+* 💵Robb Krehbiel - Puget Sound Partnership

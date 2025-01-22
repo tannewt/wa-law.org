@@ -8,19 +8,15 @@
 
 ## Meetings
 ### Tue 01/21 01:30 PM - State Government & Tribal Relations (SGOV): HB 1381 Elections/language assist.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32460&aId=161862&caId=24945&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32460&aId=161862&caId=24945&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32460&aId=161862&caId=24945&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32460&aId=161862&caId=24945&tId=4)
-
-#### 107 👍 - Pro
+#### 180 👍 - Pro
 Testifying:
 * 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 * 💵Giovanni Severino
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Brenda Morgan - OneAmerica
+* Soumyo Lahiri-Gupta - OneAmerica
 
-#### 25 👎 - Con
+#### 30 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

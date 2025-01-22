@@ -1,25 +1,34 @@
 # Tacoma Public Utilities
+## 2025-26
 
-## [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍1  
-
-## [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍1  
-
-## [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
+## [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍1  
 * 👍💵 Logan Bahr
 
-## [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
+## 2023-24
+
+### [HB 1329](/bill/2023-24/hb/1329/) - Wholesale power purchases 👍1  
 * 👍💵 Logan Bahr
 
-## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
+### [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍1  
+
+### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍1  
+
+### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
 * 👍💵 Logan Bahr
 
-## [HB 1621](/bill/2023-24/hb/1621/) - Local government procurement 👍1  
+### [HB 1192](/bill/2023-24/hb/1192/) - Electric transm. planning 👍1  
+* 👍💵 Logan Bahr
 
-## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
+### [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍1  
+* 👍💵 Logan Bahr
 
-## [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
+### [HB 1621](/bill/2023-24/hb/1621/) - Local government procurement 👍1  
 
-## [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍1  
+### [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍2  
+
+### [SB 5039](/bill/2023-24/sb/5039/) - Wildfires/electric utilities 👍1  
+
+### [SB 5091](/bill/2023-24/sb/5091/) - Hydrogen fuel products 👍1  
 
 ## [SB 5165](/bill/2023-24/sb/5165/) - Electric transm. planning 👍1  
 * 👍💵 Logan Bahr

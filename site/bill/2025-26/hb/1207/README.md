@@ -19,6 +19,6 @@ Testifying:
 * Heather Hirotaka - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

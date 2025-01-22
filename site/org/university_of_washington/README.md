@@ -13,6 +13,8 @@
 ### [HB 1298](/bill/2025-26/hb/1298/) - Student athlete insurance 👍1  
 * 👍 Joe Dacca
 
+### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍1  
+
 ### [SB 5158](/bill/2025-26/sb/5158/) - Student athlete insurance 👍1  
 * 👍 Joe Dacca
 

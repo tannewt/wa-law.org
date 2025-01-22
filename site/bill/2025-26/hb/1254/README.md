@@ -18,19 +18,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161723&caId=24897&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161723&caId=24897&tId=4)
 
-#### 83 👍 - Pro
+#### 91 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * David Forte - Office of the Insurance Commissioner
 * Rory Paine-Donovan - Office of the Insurance Commissioner
 * Dustin Curb - State Building Code Council
 
-#### 23 👎 - Con
+#### 28 👎 - Con
 Testifying:
 * Lynn Fitz-Hugh - Restoring Earth Connection
 * Charlotte Persons
 * Marianne Tompkins
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Michael Feerer - Whatcom Million Trees Project
+* ron perkerewicz - BIAW
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other

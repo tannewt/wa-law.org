@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32445&aId=161421&caId=24873&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32445&aId=161421&caId=24873&tId=4)
 
-#### 3 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
+* Debbie Lacy - Eastside For All
 * Troy Christensen - PorchLight
+* Kim Sarnecki - Together Center
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

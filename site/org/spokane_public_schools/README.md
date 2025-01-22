@@ -1,15 +1,21 @@
 # Spokane Public Schools
 ## 2025-26
 
-## [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓2
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓2
 * ❓ Nikki Lockwood
 * ❓ Nikki Lockwood
+
+### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
+
+### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍1  
+
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
+
+## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
 
 ## 2023-24
 
-### [HB 1198](/bill/2023-24/hb/1198/) - Operating budget   ❓2
-* ❓ Nikki Lockwood
-* ❓ Nikki Lockwood
+### [SB 5307](/bill/2023-24/sb/5307/) - Special education funding 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍1  
 

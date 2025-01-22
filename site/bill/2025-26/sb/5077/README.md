@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/21 01:30 PM - State Government & Elections (SGE): SB 5077 Agency voter registration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32482&aId=161559&caId=24810&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32482&aId=161559&caId=24810&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32482&aId=161559&caId=24810&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32482&aId=161559&caId=24810&tId=4)
-
-#### 238 👍 - Pro
+#### 274 👍 - Pro
 Testifying:
 * 💵Anthony Blankenship - [Civil Survival Project](/org/civil_survival_project/)
 * Jacob Schmitt - Just Us Solutions
@@ -27,11 +21,15 @@ Testifying:
 * 💵Giovanni Severino
 * Lai King
 * 💵Alex Tischenko - Institute for Responsive Government
+* 💵Alex Alston - WA Voting Justice Coalition
 
-#### 849 👎 - Con
+#### 1078 👎 - Con
+Testifying:
+* Sharon Damoff
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Ingrid Ulrey - Washington Health Benefit Exchange
 * 💵Shirley Prasad - Washington Health Benefit Exchange
+* Shawn Merchant - Office of the Secretary of State

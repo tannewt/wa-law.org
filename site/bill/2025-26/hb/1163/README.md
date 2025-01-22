@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/21/2025 [KING5](/org/king5/) - [Public hearings heat up in Washington over controversial gun control measures | king5.com](https://www.king5.com/article/news/local/gun-violence-survivors-gun-rights-advocates-washington-bill-proposals/281-4930edfc-010e-48d2-99fe-e86406a50714#:~:text=House%20Bill%201163)
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201163)
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201163)
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201163)
@@ -15,13 +16,7 @@
 
 ## Meetings
 ### Tue 01/21 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1163 Firearm purchase
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161610&caId=24828&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161610&caId=24828&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161610&caId=24828&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161610&caId=24828&tId=4)
-
-#### 790 👍 - Pro
+#### 792 👍 - Pro
 Testifying:
 * Isaiah Lenard
 * Julia Berus
@@ -34,7 +29,7 @@ Testifying:
 * Rebecca Elbaum - Moms Demand Action
 * Robert Schentrup - BRADY
 
-#### 1970 👎 - Con
+#### 1975 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Jane Milhans

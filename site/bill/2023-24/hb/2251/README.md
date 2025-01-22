@@ -14,7 +14,7 @@ Testifying:
 * Liz Trautman - Stand for Children Washington/Debt Free Youth Justice Coalition
 * Katie Hurley - King County Department of Public Defense
 * Travis Comeslast
-* Arthur Longworth - [Treehouse](/org/treehouse/)
+* 💵Arthur Longworth - [Treehouse](/org/treehouse/)
 
 #### 0 👎 - Con
 

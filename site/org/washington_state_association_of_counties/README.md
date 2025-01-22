@@ -62,6 +62,9 @@
 
 ### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
 
+### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
+* 👍💵 Kelsey Hulse
+
 ## [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍1  
 
 ## 2023-24

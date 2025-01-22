@@ -15,6 +15,10 @@
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
 
+### [HB 1245](/bill/2025-26/hb/1245/) - Electrical transmission cap. 👍1  
+
+### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
@@ -26,11 +30,13 @@
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 * 👍 AP Diaz
 
-## [SB 5099](/bill/2025-26/sb/5099/) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers. 👍1  
+### [SB 5099](/bill/2025-26/sb/5099/) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers. 👍1  
+
+## [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
 
 ## 2023-24
 
-### [SB 5099](/bill/2023-24/sb/5099/) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers. 👍1  
+### [SB 5232](/bill/2023-24/sb/5232/) - Essential needs program uses 👍1  
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

@@ -1,6 +1,9 @@
 # Allied Daily Newspapers of Washington
 ## 2025-26
 
+### [HB 1222](/bill/2025-26/hb/1222/) - Gambling commission/PRA   ❓1
+* ❓💵 Rowland Thompson
+
 ## [SB 5102](/bill/2025-26/sb/5102/) - Establishing a public records exemption for the proprietary information of public risk pools.   ❓1
 * ❓💵 Rowland Thompson
 

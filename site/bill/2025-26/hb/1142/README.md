@@ -17,8 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161683&caId=24900&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161683&caId=24900&tId=4)
 
-#### 0 👍 - Pro
+#### 27 👍 - Pro
 
-#### 119 👎 - Con
+#### 239 👎 - Con
+Testifying:
+* Rozana Knutson
+* Loni Simone
 
 #### 0 ❓ - Other

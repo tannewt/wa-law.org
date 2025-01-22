@@ -30,14 +30,14 @@ Testifying:
 * Jaimie Cavanaugh - [Institute for Justice](/org/institute_for_justice/)
 * Nick Jeffreys - Urban League of Metropolitan Seattle
 * Elizabeth Mustin - Washington State Office of Public Defense
-* Arthur Longworth - Treehouse.org
+* 💵Arthur Longworth - Treehouse.org
 * 💵Kia Franklin - Stand for Children
 * 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
 * Meghan Grace
 * Agnes Cho - UC Berkeley Law, Policy Advocacy Clinic
-* Arthur Longworth - Treehouse.org
+* 💵Arthur Longworth - Treehouse.org
 * Isadora Eads - Choose 180
-* Arthur Longworth
+* 💵Arthur Longworth
 
 #### 4 👎 - Con
 Testifying:

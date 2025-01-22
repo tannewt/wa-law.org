@@ -32,6 +32,7 @@ Testifying:
 * Jeremy Ball - Sharp Shooting Indoor Range and Gun Shop
 * Teddy Chow
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Anderson Kim

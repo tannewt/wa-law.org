@@ -1,6 +1,10 @@
 # Department of Natural Resources
 ## 2025-26
 
+### [HB 1048](/bill/2025-26/hb/1048/) - Rangeland fire pilot   ❓1
+
+### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface   ❓1
+
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
 * 👍 Duane Emmons
 

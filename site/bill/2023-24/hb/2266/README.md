@@ -28,7 +28,7 @@ Testifying:
 * 💵Heather Kurtenbach - Ironworkers Local 86
 * Tawny Sayers - Retired LIUNA Apprenticeship Coordinator
 * Aubrey Russell - Journeyworker Ironworkers Local 86
-* Mallorie Davies - Washington & N. Idaho District Council of Laborers
+* 💵Mallorie Davies - Washington & N. Idaho District Council of Laborers
 * Tirhas Gebru - Journeyworker Bricklayers and Allied Craftworkers Local 1
 * Andrea Ornelas
 * Jeffery Whaley

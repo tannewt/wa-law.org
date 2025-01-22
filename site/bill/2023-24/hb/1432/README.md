@@ -23,8 +23,8 @@ Testifying:
 * Alexes Harris
 * 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
 * Nick Jeffreys - Urban League of Metropolitan Seattle
-* Arthur Longworth
-* Arthur Longworth - [Treehouse](/org/treehouse/)
+* 💵Arthur Longworth
+* 💵Arthur Longworth - [Treehouse](/org/treehouse/)
 
 #### 4 👎 - Con
 Testifying:

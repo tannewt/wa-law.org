@@ -24,7 +24,7 @@ Testifying:
 * Kurtis Robinson - Revive Center for Returning Citizens/I Did the Time
 * Jacob Schmitt - Just Us Solutions
 * Abigail Leong - Washington Voting Justice Coalition
-* Arthur Longworth - [Teamchild](/org/teamchild/)
+* 💵Arthur Longworth - [Teamchild](/org/teamchild/)
 * Sophia Keller
 * Larry Jefferson - Washington State Reentry Council and Washington State Office of Public Defense
 * Joshua Woods - I did the time

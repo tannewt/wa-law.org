@@ -19,6 +19,7 @@
 * 01/18/2024 [MyNorthwest](/org/mynorthwest/) - [Hearing on Inslee plan to compel oil firm transparency prompts accusations - MyNorthwest.com](https://mynorthwest.com/3946966/hearing-inslee-plan-compel-oil-company-price-transparency-gets-heated/#:~:text=Senate%20Bill%206052)
 * 01/14/2024 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 2: MLK, education, gas price transparency - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/01/14/this-week-in-the-senate-week-2-mlk-education-gas-price-transparency/#:~:text=Senate%20Bill%206052)
 * 10/19/2014 [Senate Democrats](/org/senate_democrats/) - [x - Blog Style1 with Right Sidebar - Sen. Joe Nguyen](https://senatedemocrats.wa.gov/nguyen/?page_id=31#:~:text=SB%206052)
+* 10/19/2014 [Senate Democrats](/org/senate_democrats/) - [x - Blog Style1 with Right Sidebar - Joe Nguyen Archive](https://senatedemocrats.wa.gov/nguyenarchive/?page_id=31#:~:text=SB%206052)
 
 ## Meetings
 ### Sat 02/03 09:00 AM - Ways & Means (WM): SSB 6052 Petroleum product supply

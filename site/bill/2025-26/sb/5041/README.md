@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/21 10:30 AM - Labor & Commerce (LC): SB 5041 Unemp ins/strikes & lockouts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161575&caId=24779&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161575&caId=24779&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161575&caId=24779&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32439&aId=161575&caId=24779&tId=4)
-
-#### 1255 👍 - Pro
+#### 1283 👍 - Pro
 Testifying:
 * Anne Paxton - Unemployment Law Projexr
 * Amy Traub - National Employment Law Project
@@ -32,7 +26,7 @@ Testifying:
 * Joe Kendo - Washington State Labor Council, AFL-CIO
 * Pearl Johnson - UNITE HERE Local 8
 
-#### 1185 👎 - Con
+#### 1197 👎 - Con
 Testifying:
 * Elizabeth New - Washington Policy Center
 * Mike Ennis - BIAW
@@ -152,6 +146,7 @@ Testifying:
 * Melissa Slaughter - Group Solutions Northwest LLC
 * John Levenda
 * Harry Thetford - Sound Earthworks, Inc.
+* MIRIAM DAVIS
 
 #### 15 ❓ - Other
 Testifying:

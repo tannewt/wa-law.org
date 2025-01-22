@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161845&caId=24934&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161845&caId=24934&tId=4)
 
-#### 3 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Matt Curtis - WDFW
+* Morgan Morris - Lower Columbia Fish Enhancement Group
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Jenna Friebel - Skagit Drainage and Irrigation Districts Consortium LLC
 

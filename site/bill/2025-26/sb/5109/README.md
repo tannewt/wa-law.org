@@ -19,6 +19,6 @@ Testifying:
 * Hugo Torres - King County Prosecuting Attorney's Office
 * Patrick Hinds - King County Prosecuting Attorney's Office
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

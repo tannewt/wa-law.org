@@ -46,6 +46,9 @@
 
 ### [HB 1143](/bill/2025-26/hb/1143/) - College grant award amounts 👍1  
 
+### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes.  👎1 
+* 👎💵 Peter Godlewski
+
 ### [HB 1155](/bill/2025-26/hb/1155/) - Noncompetition agreements  👎1 
 * 👎💵 Lindsey Hueer
 
@@ -74,12 +77,24 @@
 ### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program.  👎1 
 * 👎💵 Lindsey Hueer
 
+### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
+
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
+
+### [HB 1245](/bill/2025-26/hb/1245/) - Electrical transmission cap. 👍1  
+* 👍💵 Emily Wittman
 
 ### [HB 1297](/bill/2025-26/hb/1297/) - Child support/self-employed  👎1 
 
+### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records  👎1 
+
+### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍1  
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 * 👎💵 Lindsey Hueer
+
+### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍1  
+* 👍💵 Peter Godlewski
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Lindsey Hueer
@@ -105,6 +120,8 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎 Max Martin
 
+### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices  👎1 
+
 ### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  
 
 ### [SB 5205](/bill/2025-26/sb/5205/) - College grant award amounts 👍1  
@@ -114,13 +131,16 @@
 
 ### [SB 5241](/bill/2025-26/sb/5241/) - Fusion energy facilities 👍1  
 
-## [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
 * 👎💵 Lindsey Hueer
+
+## [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+* 👎💵 Peter Godlewski
 
 ## 2023-24
 
-### [SB 5292](/bill/2023-24/sb/5292/) - Family & medical leave rates  👎1 
-* 👎💵 Lindsey Hueer
+### [SB 5360](/bill/2023-24/sb/5360/) - Environmental crimes  👎1 
+* 👎💵 Peter Godlewski
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

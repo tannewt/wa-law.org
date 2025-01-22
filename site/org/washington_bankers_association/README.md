@@ -4,6 +4,9 @@
 ### [HB 1268](/bill/2025-26/hb/1268/) - Virtual currency kiosks 👍1  
 * 👍 Duncan Taylor
 
+### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍2  
+* 👍 Megan Managan
+
 ## [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎2 
 * 👎 Glen Simecek
 

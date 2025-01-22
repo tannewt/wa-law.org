@@ -11,15 +11,15 @@
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
 * 👎 Jeff Wagner
 
-## [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓2
+### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓2
 * ❓ Jeff Wagner
 * ❓ Jeff Wagner
+
+## [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
 
 ## 2023-24
 
-### [SB 5161](/bill/2023-24/sb/5161/) - Transportation budget   ❓2
-* ❓ Jeff Wagner
-* ❓ Jeff Wagner
+### [SB 5184](/bill/2023-24/sb/5184/) - Minimum parking requirements  👎1 
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
 

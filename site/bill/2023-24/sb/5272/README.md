@@ -28,7 +28,7 @@ Testifying:
 * 💵Davor Gjurasic - WSP Troopers Association
 * Deken Letinich
 * 💵Jennifer Ziegler - National Construction Alliance
-* Mallorie Davies - Washington and Northern Idaho District Council of Laborers
+* 💵Mallorie Davies - Washington and Northern Idaho District Council of Laborers
 * Captain Neal Weaver - Washington State Patrol
 * Mark McKechnie - Washington Traffic Safety Commission
 * Travis Snell - Washington State Department of Transportation
@@ -52,7 +52,7 @@ Testifying:
 * 💵Davor Gjurasic - WSP Troopers Association
 * Arti O'Brien - Advanced Government Services
 * 💵Jennifer Ziegler - National Construction Alliance
-* Mallorie Davies - Washington and Northern Idaho District Council of Laborers
+* 💵Mallorie Davies - Washington and Northern Idaho District Council of Laborers
 * Mark Ottele - Granite Construction Inc
 * 💵John Traynor - Washington State Labor Council, AFL-CIO
 * Tony Leingang - WSDOT Statewide IRT Program

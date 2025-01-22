@@ -1,24 +1,40 @@
 # Statewide Poverty Action Network
 ## 2025-26
 
-### [HB 1063](/bill/2025-26/hb/1063/) - Earned wage access services   ❓1
+### [HB 1063](/bill/2025-26/hb/1063/) - Earned wage access services  👎1 ❓1
 * ❓ Molly Gallagher
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  
+
+### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters. 👍1  
 
 ### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍1  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
+### [HB 1243](/bill/2025-26/hb/1243/) - DSHS overpayments 👍1  
+
+### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  
+
+### [HB 1268](/bill/2025-26/hb/1268/) - Virtual currency kiosks  👎1 
+
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
+
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
 
-## [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
+### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
+
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
+
+### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
+
+## [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks 👍1  
 
 ## 2023-24
 
-### [SB 5115](/bill/2023-24/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
+### [SB 5280](/bill/2023-24/sb/5280/) - Virtual currency kiosks 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 

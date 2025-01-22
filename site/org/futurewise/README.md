@@ -28,6 +28,8 @@
 ### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface 👍2  
 * 👍💵 Bryce Yadon
 
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
+
 ### [SB 5055](/bill/2025-26/sb/5055/) - Agritourism  👎1 
 * 👎💵 Bryce Yadon
 
@@ -40,7 +42,8 @@
 ### [SB 5197](/bill/2025-26/sb/5197/) - Local government planning 👍1  
 * 👍💵 Bryce Yadon
 
-### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍3  
+* 👍💵 Bryce Yadon
 
 ## [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting   ❓1
 * ❓💵 Bryce Yadon

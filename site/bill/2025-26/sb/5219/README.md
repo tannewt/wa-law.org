@@ -8,19 +8,16 @@
 
 ## Meetings
 ### Tue 01/21 01:30 PM - Human Services (HS): SB 5219 Partial confinement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161473&caId=24770&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161473&caId=24770&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161473&caId=24770&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161473&caId=24770&tId=4)
-
-#### 37 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Danielle Armbruster - Department of Corrections
+* Cindy Arends - Washington Defender Assn, WA Assn Criminal Defense Attorneys
 
 #### 5 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kehaulani Walker

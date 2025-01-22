@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161721&caId=24895&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161721&caId=24895&tId=4)
 
-#### 17 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Steven Drew - WA Assoc of Assessors legislative co-chair
 * 💵Jennifer Wallace - WA Association of County Officials
 * Jeff Gadman - President, WA Association of County Treasurers
+* Amy Cziske - Kittitas County
 
-#### 5 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other

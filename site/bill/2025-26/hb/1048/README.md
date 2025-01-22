@@ -18,12 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32510&aId=161660&caId=24826&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32510&aId=161660&caId=24826&tId=4)
 
-#### 8 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Jay Kehne - [Conservation Northwest](/org/conservation_northwest/)
+* Loni Simone
+* Jennifer Husting
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
+* Leonard Johnson - Washington Fire Chiefs Association

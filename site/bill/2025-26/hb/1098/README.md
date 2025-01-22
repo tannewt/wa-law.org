@@ -14,16 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161799&caId=24908&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161799&caId=24908&tId=4)
 
-#### 13 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * 💵Jane Wall - County Road Administration Board
 * Rob Coffman - Lincoln County Commissioner; CRAB Board Chair
 * 💵Axel Swanson - Washington State Association of County Engineers
 * Doug McCormick - Snohomish County Public Works, County Road Administration Board, WA. St. Assoc. County Engineers
 * 💵Michael Moran - 1. Chehalis Tribe 2. Coville Tribes
+* Loni Simone
 
-#### 114 👎 - Con
+#### 218 👎 - Con
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * john worthington

@@ -8,25 +8,23 @@
 
 ## Meetings
 ### Tue 01/21 01:30 PM - Environment, Energy & Technology (ENET): SB 5246 Energy facility site eval.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32452&aId=161724&caId=24743&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32452&aId=161724&caId=24743&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32452&aId=161724&caId=24743&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32452&aId=161724&caId=24743&tId=4)
-
-#### 28 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * Casey MacLean - Renewable NW
 * 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Philip Rigdon - Yakama Nation
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Sonia Bumpus - Energy Facility Site Evaluation Council
 * 💵Altinay Karasapan - [Climate Solutions](/org/climate_solutions/)
 * 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Eric Gonzalez Alfaro - [Earthjustice](/org/earthjustice/)
 * 💵Josie Cummings - Avista
+* 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)

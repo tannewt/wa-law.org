@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161426&caId=24878&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161426&caId=24878&tId=4)
 
-#### 2 👍 - Pro
+#### 89 👍 - Pro
+Testifying:
+* Chloe Stanage
+* Patricia Devine - HEALWA
+* CMHS, NCC, Shannon Thompson LMHC - Washington Mental Health Counselor Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

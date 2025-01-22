@@ -17,8 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32504&aId=161739&caId=24857&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32504&aId=161739&caId=24857&tId=4)
 
-#### 68 👍 - Pro
+#### 89 👍 - Pro
+Testifying:
+* Erin Maguire - Catholic Community Services - HEN King County Program
+* 💵Nick Federici - Washington Low Income Housing Alliance
+* Matthew Perry - Jewish Prisoner Services International
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

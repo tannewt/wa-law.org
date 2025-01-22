@@ -33,7 +33,7 @@
 ### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface  👎1 
 * 👎💵 Andrea Smiley
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎1 
+### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎2 
 * 👎💵 Andrea Smiley
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 

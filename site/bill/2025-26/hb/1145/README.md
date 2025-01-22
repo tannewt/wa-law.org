@@ -14,8 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161722&caId=24896&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32522&aId=161722&caId=24896&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* James (Jim) Goche' - Friendly Grove Farm
 
-#### 5 👎 - Con
+#### 36 👎 - Con
+Testifying:
+* 💵Axel Swanson - Washington State Association of County Engineers
+* Loni Simone
+* Rozana Knutson
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Art Swannack - Whitman County

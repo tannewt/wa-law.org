@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1094/</link>
 		<description>Updates about HB 1094</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 21 Jan 2025 08:46:03 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jan 2025 09:39:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,12 +30,28 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Finance.</guid>
 		</item>
 		<item>
+			<title>👍Debbie Lacy - Eastside For All</title>
+			<description>Debbie Lacy signed up to testify Pro. They are signed up to represent Eastside For All.</description>
+			<pubDate>Tue, 21 Jan 2025 03:47:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Debbie/Lacy/2025-01-21 03:47:01</guid>
+		</item>
+		<item>
 			<title>👍Troy Christensen - PorchLight</title>
 			<description>Troy Christensen signed up to testify Pro. They are signed up to represent PorchLight.</description>
 			<pubDate>Tue, 21 Jan 2025 08:46:03 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Troy/Christensen/2025-01-21 08:46:03</guid>
+		</item>
+		<item>
+			<title>👍Kim Sarnecki - Together Center</title>
+			<description>Kim Sarnecki signed up to testify Pro. They are signed up to represent Together Center.</description>
+			<pubDate>Tue, 21 Jan 2025 09:39:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kim/Sarnecki/2025-01-21 09:39:27</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,7 +7,12 @@
 
 ### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍1  
 
+### [HB 1248](/bill/2025-26/hb/1248/) - Improving the effectiveness of juvenile justice programs by providing ongoing evaluations and clarifying juvenile diversion practices. 👍1  
+* 👍💵 Roxana Gomez
+
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
+
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
@@ -32,6 +37,8 @@
 * 👍💵 Roxana Gomez
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
+
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
 ## [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
 

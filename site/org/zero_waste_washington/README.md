@@ -4,6 +4,8 @@
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates  👎2 
 * 👎💵 Heather Trim
 
+### [HB 1094](/bill/2025-26/hb/1094/) - Providing a property tax exemption for property owned by a qualifying nonprofit organization and loaned, leased, or rented to and used by any government entity to provide character-building, benevolent, protective, or rehabilitative social services. 👍1  
+
 ### [HB 1107](/bill/2025-26/hb/1107/) - Concerning environmental impacts of fashion. 👍1  
 * 👍💵 Heather Trim
 

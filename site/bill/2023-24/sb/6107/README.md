@@ -17,7 +17,7 @@ Testifying:
 * 💵Mark Riker - Washington State Building and Construction Trades Council
 * Aubrey Russell - Journeyworker Ironworkers Local 86
 * 💵Heather Kurtenbach - Ironworkers Local 86
-* Mallorie Davies - Washington & Northern Idaho District Council of Laborers
+* 💵Mallorie Davies - Washington & Northern Idaho District Council of Laborers
 
 #### 497 👎 - Con
 Testifying:

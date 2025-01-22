@@ -18,13 +18,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32497&aId=161656&caId=24835&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32497&aId=161656&caId=24835&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Alice Jacobsohn - PayrollOrg
 * Sharon Redmond - Department of Social and Health Services
 
-#### 73 👎 - Con
+#### 98 👎 - Con
 Testifying:
 * mike ennis - BIAW
+* Loni Simone
+* Jennifer Husting
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Brooke Davies - [Cosmetologists of Washington United](/org/cosmetologists_of_washington_united/)
+* 💵Rose Feliciano - TechNet

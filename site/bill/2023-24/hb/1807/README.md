@@ -22,7 +22,7 @@ Testifying:
 * Brandon Dully - Guy F. Atkinson Construction
 * 💵Jennifer Ziegler - National Construction Alliance
 * Mark Ottele - Granite Construction
-* Mallorie Davies - Washington and Northern Idaho District Council of Laborers
+* 💵Mallorie Davies - Washington and Northern Idaho District Council of Laborers
 * 💵Davor Gjurasic - Washington State Patrol Troopers Association
 
 #### 30 👎 - Con

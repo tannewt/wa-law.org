@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=4)
 
-#### 1277 👍 - Pro
+#### 1822 👍 - Pro
 Testifying:
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer
@@ -30,6 +30,7 @@ Testifying:
 * Traci Pierce - Kennewick School District
 * Angela Steck - President, Washington State PTA
 * 💵Joel Aune - Executive Director, Washington Association of School Administrators
+* Melissa Stone - Secretary, Washington State PTA
 * Tricia Lubach - Executive Director, Washington State School Directors' Association
 * Bradley Wilson - Lake Chelan School District Superintendent
 * Samantha Fogg - Seattle Council PTSA Co-President
@@ -47,9 +48,14 @@ Testifying:
 * DARCY HUFFMAN - Olympia School District Board of Directors
 * Doug Vanderleest - WA Association of Maintenance and Operation Administrators
 * Ben Ferney - Cheney Public Schools
+* Holly Wehner
 
-#### 590 👎 - Con
+#### 728 👎 - Con
+Testifying:
+* Rozana Knutson
+* Loni Simone
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Alexa Allman
+* 💵Kelsi Hamilton - Chehalis School Board

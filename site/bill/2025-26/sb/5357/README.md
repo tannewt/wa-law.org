@@ -14,10 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161841&caId=24932&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161841&caId=24932&tId=4)
 
-#### 5 👍 - Pro
+#### 12 👍 - Pro
 
-#### 270 👎 - Con
+#### 504 👎 - Con
 Testifying:
 * 💵Emmett Mills - Washington State School Retirees' Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

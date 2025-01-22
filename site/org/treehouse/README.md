@@ -34,7 +34,7 @@
 * 👍💵 Daniel Lugo
 
 ### [HB 1432](/bill/2023-24/hb/1432/) - Juvenile justice 👍2  
-* 👍 Arthur Longworth
+* 👍💵 Arthur Longworth
 
 ### [HB 1436](/bill/2023-24/hb/1436/) - Special education funding 👍1  
 
@@ -72,7 +72,7 @@
 * 👍 Fred Kingston
 
 ### [HB 2251](/bill/2023-24/hb/2251/) - Unenforceable LFOs 👍3  
-* 👍 Arthur Longworth
+* 👍💵 Arthur Longworth
 
 ### [HB 2342](/bill/2023-24/hb/2342/) - Dependent youth financial ed 👍1  
 

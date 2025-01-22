@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1057/</link>
 		<description>Updates about HB 1057</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 16 Jan 2025 12:36:53 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -105,6 +105,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Harpreet/Kaur/2025-01-16 12:36:53</guid>
+		</item>
+		<item>
+			<title>TEDV - Executive action taken by committee.</title>
+			<description>TEDV - Executive action taken by committee.</description>
+			<pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-21/TEDV - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/21 01:30 PM - Health Care & Wellness (HCW): HB 1034 Nonopioid drugs for pain
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161422&caId=24874&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161422&caId=24874&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161422&caId=24874&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161422&caId=24874&tId=4)
-
-#### 21 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Allison Fine - Center for Chronic Illness
 * Chris Fox - Voices for Non-Opioid Choices

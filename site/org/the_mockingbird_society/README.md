@@ -3,10 +3,16 @@
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍2  
 
+### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters. 👍1  
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Charles Smith
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+
+### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
+
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Controlled sub. endangerment  👎1 
 
@@ -27,6 +33,8 @@
 * ❓💵 Charles Smith
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
+
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
 ## [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
 

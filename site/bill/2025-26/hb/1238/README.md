@@ -14,10 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161429&caId=24881&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161429&caId=24881&tId=4)
 
-#### 9 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Fuki Marie Hisama MD - University of Washington School of Medicine
+* Lindsey Viscarra - National Organization for Rare Disorders (NORD)
+* Mary McDirmid - NW Rare Disease Coalition
+* Sarah Tompkins
+* Mary McDirmid - NW Rare Disease Coalition
+* Lindsey Topping-Schuetz - NW Rare Disease Coalition
+* Lindsay Viscarra - NW Rare Disease Coalition
+* Mary McDirmid - NW Rare Disease Coalition
+* Whitney Stohr - NW Rare Disease Coalition
 
-#### 3 👎 - Con
+#### 18 👎 - Con
+Testifying:
+* Rozana Knutson
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Stephanie Simpson - [Bleeding Disorder Foundation of Washington](/org/bleeding_disorder_foundation_of_washington/)

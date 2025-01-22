@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 01/21 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1118 Firearm rights restoration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161613&caId=24831&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161613&caId=24831&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161613&caId=24831&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32496&aId=161613&caId=24831&tId=4)
-
-#### 649 👍 - Pro
+#### 657 👍 - Pro
 Testifying:
 * Vitaliy Kertchen - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 * kyle ivarra
@@ -30,7 +24,7 @@ Testifying:
 * Teo Morca
 * dan Mitchell - WA Civil Rights Association
 
-#### 148 👎 - Con
+#### 149 👎 - Con
 Testifying:
 * 💵Aoibheann Cline - NRA
 * Devin Owens

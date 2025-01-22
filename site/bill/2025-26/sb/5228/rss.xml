@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5228/</link>
 		<description>Updates about SB 5228</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jan 2025 07:06:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,14 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Health &amp; Long-Term Care.</guid>
+		</item>
+		<item>
+			<title>❓Blair Daly - Washington Initiative for Boys and Men</title>
+			<description>Blair Daly signed up to testify Other. They are signed up to represent Washington Initiative for Boys and Men.</description>
+			<pubDate>Tue, 21 Jan 2025 07:06:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Blair/Daly/2025-01-21 07:06:19</guid>
 		</item>
 	</channel>
 </rss>

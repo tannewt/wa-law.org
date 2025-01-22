@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161714&caId=24906&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161714&caId=24906&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Alejandro Sanchez - Department of Licensing
 
-#### 11 👎 - Con
+#### 17 👎 - Con
+Testifying:
+* Jakob Perry - Washington Off-Highway Vehicle Alliance
 
 #### 0 ❓ - Other

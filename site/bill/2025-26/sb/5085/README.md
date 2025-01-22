@@ -14,16 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161794&caId=24821&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161794&caId=24821&tId=4)
 
-#### 505 👍 - Pro
+#### 917 👍 - Pro
 Testifying:
 * 💵Peter Diedrick - Washington State School Retirees' Association
 * Clair Olivers - Retired Public Employees Council of WA
 * Paul Joseph Wolcott
+* Deborah Dumont
+* Judith Fosmo - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
 
-#### 405 👎 - Con
+#### 437 👎 - Con
 Testifying:
 * 💵Michael Duchemin - [Retired Firefighters of Washington](/org/retired_firefighters_of_washington/)
+* 💵Dennis Lawson - Washington State Council of Fire Fighters
+* 💵Joyce Willms - LEOFF1 Coalition
+* 💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs
 
-#### 7 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)

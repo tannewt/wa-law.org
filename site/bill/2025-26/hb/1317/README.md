@@ -21,14 +21,14 @@ Testifying:
 * 💵Daniel Landsman - FAMM
 * Dr. Catherine Insel - Northwestern University
 * Jeff Ellis
-* Arthur Longworth - TeamChild
+* 💵Arthur Longworth - TeamChild
 * Matthew Leon
 * Crystal Waterbury
 * Taylor Rein
 * Kurt Myers
 * Sean Reilly
 * Tom Sahlberg
-* Arthur Longworth - TeamChild
+* 💵Arthur Longworth - TeamChild
 * Eugene Youngblood - Look2Justice
 * Gail Brashear
 * Christina Sorenson - Team Child

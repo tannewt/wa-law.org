@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1298/</link>
 		<description>Updates about HB 1298</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 19 Jan 2025 07:27:21 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jan 2025 08:34:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,6 +45,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Michael/Dillon/2025-01-19 07:27:21</guid>
+		</item>
+		<item>
+			<title>👍Chris Mulick - Washington State University</title>
+			<description>Chris Mulick signed up to testify Pro. They are signed up to represent Washington State University.</description>
+			<pubDate>Tue, 21 Jan 2025 08:34:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chris/Mulick/2025-01-21 08:34:02</guid>
+		</item>
+		<item>
+			<title>👍Jonell Peterson - Washington State University</title>
+			<description>Jonell Peterson signed up to testify Pro. They are signed up to represent Washington State University.</description>
+			<pubDate>Tue, 21 Jan 2025 08:34:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jonell/Peterson/2025-01-21 08:34:02</guid>
 		</item>
 	</channel>
 </rss>

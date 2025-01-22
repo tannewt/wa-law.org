@@ -6,21 +6,25 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/22/2025 [MyNorthwest](/org/mynorthwest/) - [Washington Democrats push bill legalizing homeless encampments](https://mynorthwest.com/ktth/ktth-opinion/rantz-washington-democrats-bill-legalizes-homeless-encampments-stops-cities-from-restrictions/4031418#:~:text=House%20Bill%201360)
+
 ## Meetings
 ### Tue 01/21 04:00 PM - Housing (HOUS): HB 1380 Public property regulations
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32456&aId=161832&caId=24922&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32456&aId=161832&caId=24922&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32456&aId=161832&caId=24922&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32456&aId=161832&caId=24922&tId=4)
-
-#### 468 👍 - Pro
+#### 606 👍 - Pro
 Testifying:
 * Po Leapai - Washington Low Income Housing Alliance
 * 💵James Lovell - choose title
+* Colleen Hinton
+* 💵Jazmyn Clark - ACLU of Washington
+* Scott Crain - Northwest Justice Project
+* Sharyl Brown - Jewels Helping Hands
+* Po Leapai - Housing Alliance
+* 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
+* Chloe Gale - REACH
 * Charles Schaefer - Burien Community Support Coalition
 
-#### 286 👎 - Con
+#### 367 👎 - Con
 Testifying:
 * Eric Zimmerman - Mayor, City of Normandy Park
 * Nancy Backus - City of Auburn Mayor
@@ -28,6 +32,9 @@ Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Armondo Pavone - Mayor, City of Renton
+* Salim Nice - [City of Mercer Island](/org/city_of_mercer_island/)
 * Dana Ralph - [City of Kent](/org/city_of_kent/)
+* Brenda Supasatit
+* Lisa Beaton - City of Kennewick Deputy City Manager
 
 #### 0 ❓ - Other

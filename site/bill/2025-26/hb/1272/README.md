@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/21 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1272 Children in crisis program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32503&aId=161738&caId=24854&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32503&aId=161738&caId=24854&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32503&aId=161738&caId=24854&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32503&aId=161738&caId=24854&tId=4)
-
-#### 24 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Taku Mineshita - The Office of the Governor Bob Ferguson
 * Alysha Thompson - Seattle Children's

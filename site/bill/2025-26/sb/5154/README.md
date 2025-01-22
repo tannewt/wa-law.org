@@ -14,9 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161440&caId=24806&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161440&caId=24806&tId=4)
 
-#### 3 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
+* Heidi Hunt - Adams County Auditor/WSACA
+* Skip Moore - Chelan County Auditor
+* Steve Duenkel - Mason County Auditor
 * Barry Halverson
+* Jon Pettit - citizen
 
 #### 0 👎 - Con
 

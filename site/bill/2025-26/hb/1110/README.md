@@ -12,12 +12,6 @@
 
 ## Meetings
 ### Tue 01/21 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1110 DUI conviction vacation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161447&caId=24841&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161447&caId=24841&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161447&caId=24841&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161447&caId=24841&tId=4)
-
 #### 18 👍 - Pro
 Testifying:
 * Oscar Aguirre - King County Bar Association Records Project
@@ -26,7 +20,7 @@ Testifying:
 * Tamara Light - Information For Change
 * Laura Del Villar - [Civil Survival](/org/civil_survival/)
 
-#### 12 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)

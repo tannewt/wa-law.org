@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5123/</link>
 		<description>Updates about SB 5123</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 21 Jan 2025 06:17:27 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jan 2025 17:34:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -163,6 +163,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Alexis/Janson/2025-01-21 06:17:27</guid>
+		</item>
+		<item>
+			<title>Bill would make ‘gender expression,’ illegal immigrants protected classes in K-12 | Washington | thecentersquare.com</title>
+			<description>News article "Bill would make ‘gender expression,’ illegal immigrants protected classes in K-12 | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Tue, 21 Jan 2025 17:09:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_be91ca66-d841-11ef-8745-f70e71c38afa.html#:~:text=Senate%20Bill%205123</guid>
+		</item>
+		<item>
+			<title>Nobles bill to update anti-discrimination laws in schools heard in committee - Sen. T’wina Nobles</title>
+			<description>News article "Nobles bill to update anti-discrimination laws in schools heard in committee - Sen. T’wina Nobles" from Senate Democrats.</description>
+			<pubDate>Tue, 21 Jan 2025 17:34:28 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/01/21/nobles-bill-to-update-anti-discrimination-laws-in-schools-heard-in-committee/#:~:text=Senate%20Bill%205123</guid>
 		</item>
 	</channel>
 </rss>

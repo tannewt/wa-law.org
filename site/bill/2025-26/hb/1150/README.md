@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Tue 01/21 04:00 PM - Environment & Energy (ENVI): HB 1150 Solid waste management
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32490&aId=161596&caId=24864&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32490&aId=161596&caId=24864&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32490&aId=161596&caId=24864&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32490&aId=161596&caId=24864&tId=4)
-
-#### 1206 👍 - Pro
+#### 1351 👍 - Pro
 Testifying:
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * Reed Hampton
@@ -41,8 +35,12 @@ Testifying:
 * Erin Gagnon - DTG Recycling
 * Michael Smaha - [Can Manufacturers Institute](/org/can_manufacturers_institute/)
 * Michael Smaha - [Can Manufacturers Institute](/org/can_manufacturers_institute/)
+* Fiona Bell - Coalition for High Performance Recycling (CHPR)
+* 💵Intisar Benge - SC Johnson
+* 💵Kelsey Hulse - EPR Leadership Forum
+* 💵Caleb Weaver - [Ridwell](/org/ridwell/)
 
-#### 52 👎 - Con
+#### 60 👎 - Con
 Testifying:
 * Rick Vahl - Waste Connections
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
@@ -52,11 +50,14 @@ Testifying:
 * 💵Jay Balasbas - Basin Disposal
 * Brian Coddington - Sunshine Disposal and Recycling
 * Ted Carlson - Sanitary Service Company
+* 💵Erin Raden - [Consumer Brands Association](/org/consumer_brands_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 7 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Brandon Houskeeper - NW Grocery Retail Assoc.
+* 💵Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)
 * John Richard - Flexible Packaging Association

@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161835&caId=24919&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161835&caId=24919&tId=4)
 
-#### 15 👍 - Pro
+#### 121 👍 - Pro
 Testifying:
 * Sean Behl - [Washington Student Association](/org/washington_student_association/)
 * Kellen Hoard - Youth on Boards
 * Heba Qatrani - Legislative liaison, South Seattle College
+* Tahmina Juraeva - 2013-2024 Bellevue College Student Trustee
+* Tasnim Tayiba - 2024-2025 Edmonds College Student Trustee
+* Yana Chubarov - 2023-2024 Bellevue College Student Trustee
+* Randy Phillips - Associated Students of Tacoma Community College
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

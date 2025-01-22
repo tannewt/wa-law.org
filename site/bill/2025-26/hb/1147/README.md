@@ -16,7 +16,7 @@ Testifying:
 * David Thometz - Self-advocate
 * Heather Kelly - League of Women Voters of Washington
 * Raymond Williams - Just Us Solutions
-* Arthur Longworth - TeamChild
+* 💵Arthur Longworth - TeamChild
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 * Derek Jones
 * 💵Kristin Ang - Faith Action Network (FAN)

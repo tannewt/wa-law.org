@@ -17,13 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161673&caId=24753&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161673&caId=24753&tId=4)
 
-#### 274 👍 - Pro
+#### 332 👍 - Pro
 Testifying:
 * Erica Tomas
 * Eliana Horn
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* Sonia Lamel
+* Maranatha Hay
+* Michael Truong
 
-#### 442 👎 - Con
+#### 458 👎 - Con
 Testifying:
 * Theresa Schrempp
 * Mary Long - Conservative Ladies of Washington

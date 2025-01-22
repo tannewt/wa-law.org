@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161826&caId=24924&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161826&caId=24924&tId=4)
 
-#### 3 👍 - Pro
+#### 9 👍 - Pro
 
-#### 1 👎 - Con
+#### 358 👎 - Con
+Testifying:
+* Lynsie Holt
+* Rozana Knutson
+* Loni Simone
+* Mary Long - Conservative Ladies of Washington
 
-#### 20 ❓ - Other
+#### 22 ❓ - Other
+Testifying:
+* Blair Daly

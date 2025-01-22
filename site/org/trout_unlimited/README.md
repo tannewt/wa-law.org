@@ -1,13 +1,14 @@
 # Trout Unlimited
 ## 2025-26
 
-## [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
+### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
 * 👍💵 Alexei Calambokidis
+
+## [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
 
 ## 2023-24
 
-### [SB 5157](/bill/2023-24/sb/5157/) - Habitat restoration material 👍1  
-* 👍💵 Alexei Calambokidis
+### [SB 5303](/bill/2023-24/sb/5303/) - Yakima basin water plan 👍1  
 
 ### [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍2  
 * 👍 Lisa Pelly

@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32504&aId=161844&caId=24937&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32504&aId=161844&caId=24937&tId=4)
 
-#### 2 👍 - Pro
+#### 51 👍 - Pro
+Testifying:
+* 💵Katy Warren - WA St. Assn of Head Start and ECEAP
+* Cheryl Cobb - Opportunity Council Early Learning and Family Services
+* Fabiola Macedonio - ESD 105 ECEAP
+* Stacie Marez - ESD 105 ECEAP
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

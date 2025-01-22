@@ -19,6 +19,9 @@
 
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages 👍1  
 
+### [HB 1182](/bill/2025-26/hb/1182/) - Granting interest arbitration to certain parks and recreation commission employees. 👍1  
+* 👍 Andrew Kallinen
+
 ### [HB 1192](/bill/2025-26/hb/1192/) - Concerning disciplinary hearings held by the department of corrections.  👎1 
 * 👎 Kati Durkin
 

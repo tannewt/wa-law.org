@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Tue 01/21 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1315 Impaired driving
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161691&caId=24842&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161691&caId=24842&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161691&caId=24842&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32450&aId=161691&caId=24842&tId=4)
-
-#### 30 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Tom Chapman - National Transportation Safety Board
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
@@ -30,7 +24,7 @@ Testifying:
 * Omar Masood - Advocates for Highway & Auto Safety
 * Dale Panattoni
 
-#### 151 👎 - Con
+#### 167 👎 - Con
 Testifying:
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)

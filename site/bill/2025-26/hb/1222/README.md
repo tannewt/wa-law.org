@@ -8,16 +8,12 @@
 
 ## Meetings
 ### Tue 01/21 01:30 PM - State Government & Tribal Relations (SGOV): HB 1222 Gambling commission/PRA
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32460&aId=161487&caId=24901&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32460&aId=161487&caId=24901&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32460&aId=161487&caId=24901&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32460&aId=161487&caId=24901&tId=4)
-
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Tricia Gullion - Washington State Gambling Commission
 
 #### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Rowland Thompson - [Allied Daily Newspapers of Washington](/org/allied_daily_newspapers_of_washington/)

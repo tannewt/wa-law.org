@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/21 10:30 AM - Local Government (LG): HB 1183 Building codes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32521&aId=161719&caId=24893&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32521&aId=161719&caId=24893&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32521&aId=161719&caId=24893&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32521&aId=161719&caId=24893&tId=4)
-
-#### 271 👍 - Pro
+#### 279 👍 - Pro
 Testifying:
 * Rob Harrison - Passive House Seattle
 * Julie Blazek - AIAWA (American Institute of Architects WA Council)
@@ -29,7 +23,7 @@ Testifying:
 * Reggie Bahr
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 25 👎 - Con
+#### 26 👎 - Con
 
 #### 4 ❓ - Other
 Testifying:

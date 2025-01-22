@@ -6,18 +6,18 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/21/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to support incarcerated families heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/21/nobles-bill-to-support-incarcerated-families-heard-in-committee/#:~:text=Senate%20Bill%205182)
+
 ## Meetings
 ### Tue 01/21 01:30 PM - Human Services (HS): SB 5182 Incarcerated parents
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161472&caId=24769&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161472&caId=24769&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161472&caId=24769&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32458&aId=161472&caId=24769&tId=4)
-
-#### 24 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Francia Monet Carter-Mixon
+* Cindy Arends - Washington Defender Assn, WA Assn Criminal Defense Attorneys
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Danielle Armbruster - Washington State Department of Corrections

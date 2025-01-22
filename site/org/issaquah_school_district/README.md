@@ -7,23 +7,23 @@
 ### [SB 5186](/bill/2025-26/sb/5186/) - School district elections   ❓1
 * ❓ Martin Turney
 
-### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍2  
+### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍3  
 * 👍 Heather Tow-Yick
 
 ### [SB 5190](/bill/2025-26/sb/5190/) - Allowing school districts to request extensions to state energy performance standard deadlines for K-12 school buildings. 👍1  
 * 👍 Martin Turney
 
-### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍2  
+### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍3  
 * 👍 Heather Tow-Yick
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍3  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍4  
 * 👍 Heather Tow-Yick
 
-## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
+## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍2  
 
 ## 2023-24
 
-### [SB 5307](/bill/2023-24/sb/5307/) - Special education funding 👍1  
+### [SB 5307](/bill/2023-24/sb/5307/) - Special education funding 👍2  
 
 ### [HB 1608](/bill/2023-24/hb/1608/) - Anaphylaxis meds./schools 👍2  
 

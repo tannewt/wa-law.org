@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161709&caId=24736&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161709&caId=24736&tId=4)
 
-#### 1353 👍 - Pro
+#### 1912 👍 - Pro
 Testifying:
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer - Superintendent, Federal Way School District
@@ -30,6 +30,7 @@ Testifying:
 * Traci Pierce - Kennewick School District
 * Angela Steck - President, Washington State PTA
 * 💵Joel Aune - Executive Director, Washington Association of School Administrators
+* Melissa Stone - Secretary, Washington State PTA
 * Tricia Lubach - Executive Director, Washington State School Directors' Association
 * Samantha Fogg - SCPTSA, Co-President
 * Lindsey Yocum - Lake Washington School District
@@ -44,10 +45,13 @@ Testifying:
 * Heather Tow-Yick - [Issaquah School District](/org/issaquah_school_district/)
 * Ed.S., NCSP, Kathryn Salveson - WSASP
 * Lori Helmy Helmy - Volenteer advocate
+* B Trosper
 * Ben Ferney - Cheney Public Schools
+* Holly Wehner
+* Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
 
-#### 115 👎 - Con
+#### 232 👎 - Con
 
-#### 7 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Mylea Holloway - 1725 Diamond Loop SE

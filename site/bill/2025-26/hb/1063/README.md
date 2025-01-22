@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161773&caId=24848&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161773&caId=24848&tId=4)
 
-#### 43 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Gilbert Arcos
 * Dennise Drury
@@ -28,12 +28,14 @@ Testifying:
 * Zach Drucker - Public Affairs Specialist, Earnin
 * Phil Goldfeder - CEO at American Fintech Council
 * Robert Singleton - Senior Director of Policy & Public Affairs for California and the Western US at Chamber of Progress
+* Dayana Melgar
 
-#### 122 👎 - Con
+#### 228 👎 - Con
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Amanda Martin - NW Consumer Law Center
 * 💵Andrew Kushner - [Center for Responsible Lending](/org/center_for_responsible_lending/)
 * Sam Leonard - WA State Association for Justice
 * Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Manuel Alvarez

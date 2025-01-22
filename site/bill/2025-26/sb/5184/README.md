@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161747&caId=24761&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161747&caId=24761&tId=4)
 
-#### 399 👍 - Pro
+#### 453 👍 - Pro
 Testifying:
 * Catie Gould - [Sightline Institute](/org/sightline_institute/)
 * L Harrison Jerome
@@ -33,8 +33,11 @@ Testifying:
 * 💵Bryce Yadon - Futurewise and Transportation Choices Coalition
 * Paul Rometsch
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
+* Sandy Wolf
+* Blake Lyon - City of Bellingham, WA
 
-#### 13 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Salim Nice - City Mercer Island
 

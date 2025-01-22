@@ -1,13 +1,16 @@
 # Consumer Brands Association
 ## 2025-26
 
-## [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍1  
+### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍1  
 * 👍💵 Erin Raden
+
+## [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes.  👎1 
+* 👎💵 Erin Raden
 
 ## 2023-24
 
-### [HB 1071](/bill/2023-24/hb/1071/) - Recycling rates 👍1  
-* 👍💵 Erin Raden
+### [HB 1150](/bill/2023-24/hb/1150/) - Improving Washington's solid waste management outcomes.  👎1 
+* 👎💵 Erin Raden
 
 ### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management   ❓2
 * ❓ Brendan Flanagan

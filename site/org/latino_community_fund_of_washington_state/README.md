@@ -18,13 +18,16 @@
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
-## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Jake García
+
+## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
+* 👍💵 Jake Garcia
 
 ## 2023-24
 
-### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp.   ❓1
-* ❓💵 Jake García
+### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants 👍2  
+* 👍💵 Jake Garcia
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161653&caId=24858&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161653&caId=24858&tId=4)
 
-#### 310 👍 - Pro
+#### 532 👍 - Pro
 Testifying:
 * Danni Askini - Gender Justice League
 * Samantha Fogg - Seattle Council PTSA Co-President
@@ -29,9 +29,11 @@ Testifying:
 * Tracy Dr. Castro-Gill - [Washington Ethnic Studies Now](/org/washington_ethnic_studies_now/)
 * Danni Askini - Gender Justice League
 * Amy Cannava - Washington State Association of School Psychologists
+* 💵Oliver Miska - Lavender Rights Project
 * 💵Jenny Morgan - [Washington School Counselor Association](/org/washington_school_counselor_association/)
+* Lucy Lauser
 
-#### 652 👎 - Con
+#### 836 👎 - Con
 Testifying:
 * Robert Bleu - Former Elected School Board Member
 * Jeffrey Bastow
@@ -41,7 +43,12 @@ Testifying:
 * Sarah Garriott
 * Heather Anderson
 * Dawn Land - Reject 5599
+* Trish Huddleston - School Board Director
+* Christa Levine
+* Eric Lundberg
+* Joseph Romero - [Puyallup School District](/org/puyallup_school_district/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Katherine George
+* Jill Oldson - Washington State School Directors' Association

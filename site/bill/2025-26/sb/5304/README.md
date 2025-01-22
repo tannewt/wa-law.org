@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32475&aId=161838&caId=24928&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32475&aId=161838&caId=24928&tId=4)
 
-#### 13 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Alexandria Nickerson
 * 💵Joel Anderson - Washington Student Achievement Council
+* Lexie Tom - Northwest Indian College
+* Natasha Brennan - Northwest Indian College
 
 #### 0 👎 - Con
 

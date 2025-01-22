@@ -47,6 +47,8 @@
 
 ### [HB 1183](/bill/2025-26/hb/1183/) - Concerning building code and development regulation reform. 👍1  
 
+### [HB 1186](/bill/2025-26/hb/1186/) - Expanding the situations in which medications can be dispensed or delivered from hospitals and health care entities. 👍1  
+
 ### [HB 1188](/bill/2025-26/hb/1188/) - Requiring local government and tribal approval of wind and solar siting recommendations by the energy facility site evaluation council.  👎1 
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎1 
@@ -82,11 +84,17 @@
 
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 
+### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
+
+### [SB 5044](/bill/2025-26/sb/5044/) - Supp. retirement bargaining 👍1  
 
 ### [SB 5051](/bill/2025-26/sb/5051/) - Nursing assistant regulation 👍1  
 
 ### [SB 5059](/bill/2025-26/sb/5059/) - Ferry captains 👍1  
+
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍2  
 
@@ -95,6 +103,9 @@
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍1  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
+
+### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans   ❓1
+* ❓ Jared Mason-Gere
 
 ### [SB 5087](/bill/2025-26/sb/5087/) - CTC legal education programs 👍1  
 
@@ -115,6 +126,8 @@
 
 ### [SB 5120](/bill/2025-26/sb/5120/) - Learning assistance program 👍1  
 * 👍💵 Julie Salvi
+
+### [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services 👍1  
 
 ### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍1  
 

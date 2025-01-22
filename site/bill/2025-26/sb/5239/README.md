@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 01/21 10:30 AM - Health & Long Term Care (HLTC): SB 5239 Hospital medical records
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32486&aId=161763&caId=24748&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32486&aId=161763&caId=24748&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32486&aId=161763&caId=24748&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32486&aId=161763&caId=24748&tId=4)
-
 #### 6 👍 - Pro
 Testifying:
 * Rashi Gupta - UW Medicine

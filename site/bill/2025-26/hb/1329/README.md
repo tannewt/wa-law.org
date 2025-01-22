@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32499&aId=161755&caId=24868&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32499&aId=161755&caId=24868&tId=4)
 
-#### 1 👍 - Pro
+#### 25 👍 - Pro
+Testifying:
+* 💵Bill Clarke - Grant County PUD
+* 💵Logan Bahr - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
+* Mary Wiencke - [Public Generating Pool](/org/public_generating_pool/)
 
 #### 1 👎 - Con
 

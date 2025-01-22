@@ -89,7 +89,7 @@
 * [SB 6191](sb/6191) - Housing/taxes 4📰 1726👍 262👎 4❓ - S Ways & Means
 * [SB 5990](sb/5990) - Env. justice/SEPA projects 1330👍 641👎 13❓ - S Environment, E
 * [SB 5963](sb/5963) - Deadly weapons insurance 6📰 786👍 1179👎 1❓ - S Law & Justice
-* [SB 6052](sb/6052) - Petroleum product supply 11📰 1016👍 945👎 5❓ - S Ways & Means
+* [SB 6052](sb/6052) - Petroleum product supply 12📰 1016👍 945👎 5❓ - S Ways & Means
 * [HB 1433](hb/1433) - Energy labeling/residential 8📰 1338👍 600👎 3❓ - H Rules 3C
 * [HB 1085](hb/1085) - Plastic pollution 5📰 1707👍 221👎 8❓ - C 135 L 23
 * [SB 5838](sb/5838) - AI task force 20📰 264👍 1592👎 28❓ - C 163 L 24
@@ -100,7 +100,7 @@
 * [HB 1460](hb/1460) - DNR land 1📰 1807👍 17👎 14❓ - C 383 L 23
 * [SB 5964](sb/5964) - Free school meals 4📰 1265👍 526👎 7❓ - S EL/K-12
 * [HB 1074](hb/1074) - Landlord damage claims 7📰 999👍 785👎 7❓ - C 331 L 23
-* [SB 6058](sb/6058) - Carbon market linkage 24📰 138👍 1485👎 138❓ - C 352 L 24
+* [SB 6058](sb/6058) - Carbon market linkage 25📰 138👍 1485👎 138❓ - C 352 L 24
 * [SB 5217](sb/5217) - Musculoskeletal injuries/L&I 3📰 1114👍 603👎 37❓ - C 112 L 23
 * [SB 6095](sb/6095) - Secretary of health orders 35👍 1716👎 1❓ - C 100 L 24
 * [SB 6264](sb/6264) - Competency-based education 3📰 41👍 1640👎 4❓ - S Rules 3

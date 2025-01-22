@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161854&caId=24938&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161854&caId=24938&tId=4)
 
-#### 977 👍 - Pro
+#### 1366 👍 - Pro
 Testifying:
 * Chad Magendanz - ABATE
 * Corey Rowden
@@ -28,8 +28,17 @@ Testifying:
 * Porcia Palo
 * Jorge Castaneda
 * Tycho Cabral
+* Alan Alder - ABATE
+* Michael Miller
 * Ricky O Saeteurn
+* Rozana Knutson
+* Loni Simone
+* Elvis Brandenburg
+* trevor cook
+* Cody Hiatt
 
-#### 12 👎 - Con
+#### 17 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other

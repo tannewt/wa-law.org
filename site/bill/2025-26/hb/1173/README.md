@@ -15,7 +15,7 @@
 #### 454 👍 - Pro
 Testifying:
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
-* Mallorie Davies - Washington and Northern Idaho District Council of Laborers
+* 💵Mallorie Davies - Washington and Northern Idaho District Council of Laborers
 * Todd Mitchell - Heat and Frost Local 7
 * Zach McCown - WSRCC
 * James Johnson

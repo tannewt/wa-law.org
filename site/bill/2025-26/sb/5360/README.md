@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 3 👍 - Pro
 
-#### 5 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other

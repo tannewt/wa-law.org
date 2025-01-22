@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * PAUL BEVERIDGE - Wilridge Vineyard, Winery & Distillery
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

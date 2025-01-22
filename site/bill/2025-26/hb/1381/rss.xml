@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1381/</link>
 		<description>Updates about HB 1381</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 12:19:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 21 Jan 2025 11:46:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,6 +46,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Brian/Hatfield/2025-01-20 12:19:00</guid>
+		</item>
+		<item>
+			<title>👍Brenda Morgan - OneAmerica</title>
+			<description>Brenda Morgan signed up to testify Pro. They are signed up to represent OneAmerica.</description>
+			<pubDate>Tue, 21 Jan 2025 11:46:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brenda/Morgan/2025-01-21 11:46:00</guid>
+		</item>
+		<item>
+			<title>👍Soumyo Lahiri-Gupta - OneAmerica</title>
+			<description>Soumyo Lahiri-Gupta signed up to testify Pro. They are signed up to represent OneAmerica.</description>
+			<pubDate>Tue, 21 Jan 2025 11:46:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Soumyo/Lahiri-Gupta/2025-01-21 11:46:00</guid>
 		</item>
 	</channel>
 </rss>

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161825&caId=24923&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161825&caId=24923&tId=4)
 
-#### 92 👍 - Pro
+#### 106 👍 - Pro
 Testifying:
 * Lisa Woodard
 * Theresa Iler
@@ -23,6 +23,7 @@ Testifying:
 * Marcia Patten
 * Susan Hundeby
 * Karen Nelson
+* Dellann Elliott Mydland - End Brain Cancer Initiative (EBCI), formerly the Chris Elliott Fund
 * Brenda Rhodes
 
 #### 0 👎 - Con

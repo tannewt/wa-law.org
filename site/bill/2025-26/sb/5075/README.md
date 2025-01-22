@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/21 10:30 AM - Health & Long Term Care (HLTC): SB 5075 Prenatal and postnatal care
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32486&aId=161668&caId=24746&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32486&aId=161668&caId=24746&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32486&aId=161668&caId=24746&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32486&aId=161668&caId=24746&tId=4)
-
-#### 473 👍 - Pro
+#### 477 👍 - Pro
 Testifying:
 * Ellie Mulpeter - Academy of Lactation Policy and Practice
 * Jane Beyer - Office of the Insurance Commissioner

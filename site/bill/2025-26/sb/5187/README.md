@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161539&caId=24734&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161539&caId=24734&tId=4)
 
-#### 1153 👍 - Pro
+#### 1678 👍 - Pro
 Testifying:
 * Advaita Mattam
 * Moritz Maszhold
@@ -31,6 +31,7 @@ Testifying:
 * Dr. Brent Jones - Superintendent, Seattle Public Schools
 * Angela Steck - President, Washington State PTA
 * 💵Joel Aune - Executive Director, Washington Association of School Administrators
+* Melissa Stone - Secretary, Washington State PTA
 * Tricia Lubach - Executive Director, Washington State School Directors' Association
 * 💵Ashley Sutton - HopSkipDrive
 * Lindsey Yocum - Lake Washington School District
@@ -42,7 +43,13 @@ Testifying:
 * Sarah Milici - Parent advocate
 * Mary Templeton - Lake Stevens School District
 * Heather Tow-Yick - [Issaquah School District](/org/issaquah_school_district/)
+* Holly Wehner
 
-#### 5 👎 - Con
+#### 27 👎 - Con
+Testifying:
+* Loni Simone
+* Cynthia Doussard
+* Rozana Knutson
+* Loni Simone
 
 #### 2 ❓ - Other

@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/21 01:30 PM - Health Care & Wellness (HCW): HB 1129 Fertility-related services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161424&caId=24876&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161424&caId=24876&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161424&caId=24876&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32441&aId=161424&caId=24876&tId=4)
-
-#### 355 👍 - Pro
+#### 405 👍 - Pro
 Testifying:
 * Camille Walton
 * Erica Sahota
@@ -36,7 +30,7 @@ Testifying:
 * Anahita Arya - Pacific NW Fertility
 * Kaitlin Lee
 
-#### 491 👎 - Con
+#### 503 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 * Theresa Schrempp

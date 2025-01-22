@@ -22,6 +22,9 @@
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
+* 👍💵 Sarah Nagy
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 👍1  
 * 👍💵 Ethan Frenchman
 

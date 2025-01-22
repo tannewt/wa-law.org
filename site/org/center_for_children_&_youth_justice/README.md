@@ -12,7 +12,8 @@
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
 
-### [SB 5149](/bill/2025-26/sb/5149/) - Early childhood court prg. 👍1  
+### [SB 5149](/bill/2025-26/sb/5149/) - Early childhood court prg. 👍2  
+* 👍 Morgan Silverman
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Nicholas Oakley

@@ -22,7 +22,8 @@
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
-### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
+### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓2
+* ❓💵 Justin Allegro
 * ❓💵 Justin Allegro
 
 ## [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  

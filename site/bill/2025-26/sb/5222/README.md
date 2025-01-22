@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=4)
 
-#### 3268 👍 - Pro
+#### 4437 👍 - Pro
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner, AMHO
 * Kyle Lucas - Urban Indians NW & Tenants United at Western Plaza Mobile Home Park
@@ -44,8 +44,47 @@ Testifying:
 * Jorge Hernandez
 * Kathleen Poague - Alonda Villa Park (55 or older Park)
 * Erica Subramaniam
+* Robert Brandenburg
+* Josie Tracy - Washington Physicians for Social Responsibility
+* Chelsie Miller
+* Monica Zazueta Tabor - Vancouver Metro LULAC Council #47026
+* Deborah Wilson
+* 💵Edgar Espino - [The Washington Bus](/org/the_washington_bus/)
+* Susan Cozzens
+* Mindy Woods
+* William Booth
+* David Wilson
+* 💵Nancy Sapiro - [Puget Sound Advocates for Retirement Action](/org/puget_sound_advocates_for_retirement_action/)
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Kraig Peck
+* Siobhana McEwen - Southwest Washington Equity Coalition and the Love & Justice Alliance
+* Chris Walker
+* Kathy Yasi
+* Stephanie Tidholm
+* Alouise Urness
+* Duana Ricks-Johnson - The Resident Action Project
+* Monica Zazueta - LULAC Council #47026
+* 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
+* Kelley Rinehart
+* Tina Hammond
+* George Hurst
+* Ann Sadler
+* Deborah Wilson
+* Sol Villarreal
+* Brianna Vazquez
+* Caroline Hardy
+* Rachael Snell
+* Linda Taylor - Urban League of Metropolitan Seattle
+* Kate Rubin - Be:Seattle
+* Kerri Burnside - Bellingham Tenants Union
+* Robin Zorich - Association of Manufactured Homeowners
+* 💵Jake Garcia - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
+* Riley Irish
+* Barbara Thompson - Country Estates
+* Dustin Baker - Country Estates
+* Rebekah Gardea - QLaw Foundation of Washington
 
-#### 2376 👎 - Con
+#### 3123 👎 - Con
 Testifying:
 * Constance Nelson
 * Russ Millard
@@ -87,10 +126,54 @@ Testifying:
 * Christa Connelly - West Prairie Village MHP
 * Bri O’Hare
 * peter goldstein - Multiple park owner
+* Bo Yang
+* A-P Hurd - SkipStone
+* Emily Thompson - GMD Development
+* Morgan Shook - Partnership for Affordable Housing
+* Robert Reichle
+* Autumn Ma
+* Ming Xu
+* bushara akbar
+* Bonan Zhong
+* Wenjuan Zhao
+* David Nakata
+* Ke-Qin Gong
+* Lisa Guo
+* Shu Yan Johnson
+* Jean Xu
+* James Wu
+* Frank Hou
+* Kelly Song
+* Daniel Weisfield
+* Mike Wang
+* VICKY NARDONE - OWNER
+* Feili Cu
+* Weiling Wu
+* Mingxia Wang
+* Jyhmin Chen
+* Rozana Knutson
+* Wing Wu
+* Robert Liu
+* michael Wang
+* Kitty Chen
 * SAM SPIEGELMAN - Citizen Action Defense Fund
+* Yijun He
+* Brett Duncan
+* Loni Simone
+* Grant Johnson - Grant Johnson
+* Yusheng Huang
 * Tonya Hardwick
+* Rebecca Yang
+* Michael Ewing
+* Sylvia Renteria
+* David Mandley - Principal of for profit housing provider
+* Denise Booth
+* Mike Morris
+* Mackinley Robinson - Berkadia
+* Katherine Carter
 
-#### 32 ❓ - Other
+#### 45 ❓ - Other
 Testifying:
 * Tonya Hardwick
 * Michelle Bart
+* Reza Bouzarjomehri
