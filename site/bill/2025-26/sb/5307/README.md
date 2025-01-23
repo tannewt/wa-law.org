@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Wed 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5307 Special education funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161812&caId=24737&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161812&caId=24737&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161812&caId=24737&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161812&caId=24737&tId=4)
-
-#### 1094 👍 - Pro
+#### 1399 👍 - Pro
 Testifying:
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer - Superintendent, Federal Way School District
@@ -42,9 +36,17 @@ Testifying:
 * Lydia Sellie
 * Ben Ferney - Cheney Public Schools
 * Holly Wehner
+* Mary Templeton - Lake Stevens School District
+* Heather Tow-Yick - [Issaquah School District](/org/issaquah_school_district/)
 * Megan Livingston
 * Madison Fein
+* Ryan Arnold
+* Rob Bryant - [Federal Way Public Schools](/org/federal_way_public_schools/)
+* Emily Carmichael
+* Rivkah Thomson
 
-#### 225 👎 - Con
+#### 233 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Mike Stewart - Boyer Children’s Clinic

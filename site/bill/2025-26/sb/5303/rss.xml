@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5303/</link>
 		<description>Updates about SB 5303</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 22 Jan 2025 09:02:04 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2025 08:03:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,12 +31,60 @@
 			<guid isPermaLink="false">testifier/Rick/McGuire/2025-01-16 09:52:17</guid>
 		</item>
 		<item>
+			<title>👍Brandon Parsons - American Rivers</title>
+			<description>Brandon Parsons signed up to testify Pro. They are signed up to represent American Rivers.</description>
+			<pubDate>Wed, 22 Jan 2025 01:47:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brandon/Parsons/2025-01-22 01:47:45</guid>
+		</item>
+		<item>
+			<title>👍Phil Rigdon - Yakama Nation</title>
+			<description>Phil Rigdon signed up to testify Pro. They are signed up to represent Yakama Nation.</description>
+			<pubDate>Wed, 22 Jan 2025 01:47:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Phil/Rigdon/2025-01-22 01:47:45</guid>
+		</item>
+		<item>
+			<title>👍Urban Eberhart - Kittitas Reclamation District</title>
+			<description>Urban Eberhart signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/kittitas_reclamation_district/"&gt;Kittitas Reclamation District&lt;/a&gt;.</description>
+			<pubDate>Wed, 22 Jan 2025 01:47:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Urban/Eberhart/2025-01-22 01:47:45</guid>
+		</item>
+		<item>
+			<title>👍Pat Sullivan - Department of Natural Resources</title>
+			<description>Pat Sullivan signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/department_of_natural_resources/"&gt;Department of Natural Resources&lt;/a&gt;.</description>
+			<pubDate>Wed, 22 Jan 2025 04:38:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Pat/Sullivan/2025-01-22 04:38:23</guid>
+		</item>
+		<item>
+			<title>❓Tom Tebb - Department of Ecology - Office of Columbia River</title>
+			<description>Tom Tebb signed up to testify Other. They are signed up to represent Department of Ecology - Office of Columbia River.</description>
+			<pubDate>Wed, 22 Jan 2025 05:46:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Tom/Tebb/2025-01-22 05:46:19</guid>
+		</item>
+		<item>
 			<title>👎Rick McGuire - Alpine Lakes Protection Society</title>
 			<description>Rick McGuire signed up to testify Con. They are signed up to represent Alpine Lakes Protection Society.</description>
 			<pubDate>Wed, 22 Jan 2025 09:02:04 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Rick/McGuire/2025-01-22 09:02:04</guid>
+		</item>
+		<item>
+			<title>👍Amanda McKinney - Yakima County</title>
+			<description>Amanda McKinney signed up to testify Pro. They are signed up to represent Yakima County.</description>
+			<pubDate>Thu, 23 Jan 2025 08:03:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amanda/McKinney/2025-01-23 08:03:31</guid>
 		</item>
 	</channel>
 </rss>

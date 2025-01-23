@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1504/</link>
 		<description>Updates about HB 1504</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 22 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Jan 2025 15:13:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,20 @@
 			<pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-22/First reading, referred to Civil Rights &amp; Judiciary (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Civil Rights &amp; Judiciary.</title>
+			<description>First reading, referred to Civil Rights &amp; Judiciary.</description>
+			<pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-22/First reading, referred to Civil Rights &amp; Judiciary.</guid>
+		</item>
+		<item>
+			<title>House Democrat pushes bill requiring liability policy to buy or possess firearms | Washington | thecentersquare.com</title>
+			<description>News article "House Democrat pushes bill requiring liability policy to buy or possess firearms | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 22 Jan 2025 15:13:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_5d3707ec-d8f8-11ef-887b-dbfe2e974c57.html#:~:text=House%20Bill%201504</guid>
 		</item>
 	</channel>
 </rss>

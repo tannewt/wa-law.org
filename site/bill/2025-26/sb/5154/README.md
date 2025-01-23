@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161440&caId=24806&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161440&caId=24806&tId=4)
 
-#### 21 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Heidi Hunt - Adams County Auditor/WSACA
 * Skip Moore - Chelan County Auditor
@@ -22,7 +22,9 @@ Testifying:
 * Barry Halverson
 * Jon Pettit - citizen
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Commissioner Wayne Fournier - Thurston County Board of Commissioners
 
 #### 1 ❓ - Other
 Testifying:

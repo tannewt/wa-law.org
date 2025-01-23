@@ -20,6 +20,9 @@
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 * 👍💵 Sarah Nagy
 
+### [HB 1233](/bill/2025-26/hb/1233/) - Concerning work programs for incarcerated persons. 👍1  
+* 👍💵 Hannah Woerner
+
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  

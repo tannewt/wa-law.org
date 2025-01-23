@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/23 10:30 AM - Early Learning & K-12 Education (EDU): SB 5120 Learning assistance program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161544&caId=24740&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161544&caId=24740&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161544&caId=24740&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161544&caId=24740&tId=4)
-
-#### 293 👍 - Pro
+#### 333 👍 - Pro
 Testifying:
 * 💵Oliver Miska
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
@@ -22,7 +16,8 @@ Testifying:
 * Misha Cherniske - Office of Superintendent of Public Instruction
 * Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 * Jacob Vela - The League of Education Voters
+* NCSP, Carrie Suchy - Washington State Association of School Psychologists
 
-#### 2 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other

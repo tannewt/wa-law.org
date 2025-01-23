@@ -10,3 +10,15 @@
 * 01/20/2025 [Senate Democrats](/org/senate_democrats/) - [Frame Introduces Clergy Mandatory Reporting of Child Abuse Bill - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/01/20/frame-introduces-clergy-mandatory-reporting-of-child-abuse-bill/#:~:text=SB%205375)
 
 ## Meetings
+### Tue 01/28 01:30 PM - Human Services (HS): SB 5375 Clergy, duty to report abuse
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32562&aId=161999&caId=25006&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32562&aId=161999&caId=25006&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32562&aId=161999&caId=25006&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32562&aId=161999&caId=25006&tId=4)
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

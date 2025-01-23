@@ -1,6 +1,9 @@
 # Washington State Board of Education
 ## 2025-26
 
+### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍1  
+* 👍 J. Lee Schultz
+
 ## [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍1  
 * 👍 J. Lee Schultz
 

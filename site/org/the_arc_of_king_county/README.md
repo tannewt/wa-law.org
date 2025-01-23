@@ -4,6 +4,8 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Ramona Hattendorf
 
+### [HB 1200](/bill/2025-26/hb/1200/) - DD parental caregivers 👍1  
+
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
@@ -31,6 +33,8 @@
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+
+### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍1  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 

@@ -4,6 +4,9 @@
 ### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
 * 👍 Marlene Feist
 
+### [HB 1260](/bill/2025-26/hb/1260/) - Document recording fee admin 👍1  
+* 👍💵 Nick Federici
+
 ## [SB 5060](/bill/2025-26/sb/5060/) - Law enf. hiring grants 👍1  
 
 ## 2023-24

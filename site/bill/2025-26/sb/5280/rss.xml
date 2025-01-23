@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5280/</link>
 		<description>Updates about SB 5280</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 18 Jan 2025 09:09:20 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Jan 2025 11:20:55 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,46 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Timothy/Schwering/2025-01-18 09:09:20</guid>
+		</item>
+		<item>
+			<title>👎Kevin Lolli - CoinFlip</title>
+			<description>Kevin Lolli signed up to testify Con. They are signed up to represent CoinFlip.</description>
+			<pubDate>Wed, 22 Jan 2025 05:21:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kevin/Lolli/2025-01-22 05:21:22</guid>
+		</item>
+		<item>
+			<title>👎Ethan McClelland - Bitcoin Depot</title>
+			<description>Ethan McClelland signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/bitcoin_depot/"&gt;Bitcoin Depot&lt;/a&gt;.</description>
+			<pubDate>Wed, 22 Jan 2025 09:02:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ethan/McClelland/2025-01-22 09:02:18</guid>
+		</item>
+		<item>
+			<title>👍Drew Bouton - Washington State Department of Financial Institutions</title>
+			<description>Drew Bouton signed up to testify Pro. They are signed up to represent Washington State Department of Financial Institutions.</description>
+			<pubDate>Wed, 22 Jan 2025 09:49:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Drew/Bouton/2025-01-22 09:49:49</guid>
+		</item>
+		<item>
+			<title>👍Cathleen MacCaul - AARP Washington State</title>
+			<description>Cathleen MacCaul signed up to testify Pro. They are signed up to represent AARP Washington State.</description>
+			<pubDate>Wed, 22 Jan 2025 10:39:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cathleen/MacCaul/2025-01-22 10:39:29</guid>
+		</item>
+		<item>
+			<title>👍Glen Simecek - Washington Bankers Association</title>
+			<description>Glen Simecek signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_bankers_association/"&gt;Washington Bankers Association&lt;/a&gt;.</description>
+			<pubDate>Wed, 22 Jan 2025 11:20:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Glen/Simecek/2025-01-22 11:20:55</guid>
 		</item>
 	</channel>
 </rss>

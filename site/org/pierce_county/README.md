@@ -4,6 +4,8 @@
 ### [HB 1054](/bill/2025-26/hb/1054/) - County ferry contracts 👍1  
 * 👍💵 Michael Shaw
 
+### [HB 1098](/bill/2025-26/hb/1098/) - County local roads 👍1  
+
 ## [HB 1218](/bill/2025-26/hb/1218/) - Concerning persons referred for competency evaluation and restoration services.  👎1 
 
 ## 2023-24

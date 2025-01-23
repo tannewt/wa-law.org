@@ -8,18 +8,18 @@
 
 ## Meetings
 ### Thu 01/23 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1233 Work programs/incarceration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32451&aId=161455&caId=24844&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32451&aId=161455&caId=24844&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32451&aId=161455&caId=24844&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32451&aId=161455&caId=24844&tId=4)
-
-#### 57 👍 - Pro
+#### 79 👍 - Pro
 Testifying:
 * Heather Marks
 * Raymond Williams - Just Us Solutions
 * Carlos Bernardez
+* 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
+* Jermaine Williams - The Black Rose Collective
+* Tuan Quach
 
-#### 2 👎 - Con
+#### 6 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Charles Anderson - Department of Corrections
+* Danielle Armbruster - Department of Corrections

@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32445&aId=161421&caId=24873&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32445&aId=161421&caId=24873&tId=4)
 
-#### 9 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Debbie Lacy - Eastside For All
 * Troy Christensen - PorchLight
 * Kim Sarnecki - Together Center
+* Melissa Stuart - Together Center
+* Sarah Perry - King County Council
 
-#### 3 👎 - Con
+#### 36 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Steve Ewing - Dept. of Revenue

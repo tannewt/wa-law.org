@@ -46,7 +46,7 @@ Testifying:
 * Victoria Woodards - Mayor of the City of Tacoma
 * Lily Cowen
 * 💵Jacob Squirrel - Quaker Voice on Washington Public Policy
-* Amari Leach - Lavender Rights Project
+* Amari Leach - [Lavender Rights Project](/org/lavender_rights_project/)
 * Mary Beth Bennett - Washington Chapter of the American Academy of Pediatrics
 * 💵Tracy Yeung - Washington State Budget and Policy Center
 

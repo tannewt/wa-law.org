@@ -8,15 +8,14 @@
 
 ## Meetings
 ### Wed 01/22 01:30 PM - Health Care & Wellness (HCW): HB 1262 Health disparities council
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161826&caId=24924&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161826&caId=24924&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161826&caId=24924&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161826&caId=24924&tId=4)
+#### 32 👍 - Pro
+Testifying:
+* My-Linh Thai
+* Linh Huynh - Governor's Interagency Council on Health Disparities
+* Lydia Faitalia - WA State Commission on Asian Pacific American Affairs (CAPAA)
+* Steve Kutz - [American Indian Health Commission for Washington State](/org/american_indian_health_commission_for_washington_state/)
 
-#### 20 👍 - Pro
-
-#### 498 👎 - Con
+#### 543 👎 - Con
 Testifying:
 * Lynsie Holt
 * Rozana Knutson
@@ -24,6 +23,6 @@ Testifying:
 * Mary Long - Conservative Ladies of Washington
 * Mary Pierce
 
-#### 24 ❓ - Other
+#### 25 ❓ - Other
 Testifying:
 * Blair Daly

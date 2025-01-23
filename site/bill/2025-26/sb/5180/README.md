@@ -54,6 +54,6 @@ Testifying:
 
 #### 4 ❓ - Other
 Testifying:
-* 💵Oliver Miska - Lavender Rights Project
-* Bryanna Jenkins - Lavender Rights Project
+* 💵Oliver Miska - [Lavender Rights Project](/org/lavender_rights_project/)
+* Bryanna Jenkins - [Lavender Rights Project](/org/lavender_rights_project/)
 * Lisa Keating - WA State LGBTQ Commission

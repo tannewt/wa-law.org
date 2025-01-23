@@ -13,7 +13,7 @@ Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Ruby Holland
-* Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
+* 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * 💵Bill Clarke - [WA Realtors](/org/washington_association_of_realtors/)
 * 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)

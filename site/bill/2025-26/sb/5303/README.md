@@ -14,11 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32471&aId=161823&caId=24912&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32471&aId=161823&caId=24912&tId=4)
 
-#### 4 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Brandon Parsons - American Rivers
+* Phil Rigdon - Yakama Nation
+* Urban Eberhart - [Kittitas Reclamation District](/org/kittitas_reclamation_district/)
+* Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Amanda McKinney - Yakima County
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Rick McGuire - Alpine Lakes Protection Society
 * Rick McGuire - Alpine Lakes Protection Society
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tom Tebb - Department of Ecology - Office of Columbia River

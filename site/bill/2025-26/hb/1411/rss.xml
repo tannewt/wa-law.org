@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1411/</link>
 		<description>Updates about HB 1411</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Jan 2025 17:16:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-20/First reading, referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>Bill seeks to end 'balance sheet manipulation' for budget revenue forecasts | Washington | thecentersquare.com</title>
+			<description>News article "Bill seeks to end 'balance sheet manipulation' for budget revenue forecasts | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 22 Jan 2025 17:16:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_bf54adda-d90c-11ef-8499-874dee81b204.html#:~:text=House%20Bill%201411</guid>
 		</item>
 	</channel>
 </rss>

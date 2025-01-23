@@ -14,19 +14,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161845&caId=24934&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161845&caId=24934&tId=4)
 
-#### 19 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Matt Curtis - WDFW
 * Morgan Morris - Lower Columbia Fish Enhancement Group
+* Kas Guillozet - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
 * Kevin Long - North Olympic Salmon Coalition
 * Jonathan Grudin
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Jenna Friebel - Skagit Drainage and Irrigation Districts Consortium LLC
+* Daryl Hamburg - Skagit Dike and Drainage Flood Control District Partnership
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
+* Scott Schuyler - Natural Resoruces Policy Representative Upper Skagit Indain Tribe
 * Will Honea - [Skagit County](/org/skagit_county/)
 * Peter Browning - [Skagit County](/org/skagit_county/)
 * David Hawkins - Upper Skagit Indian Tribe
+* Dave Hallock - Skagit Upriver Neighbors

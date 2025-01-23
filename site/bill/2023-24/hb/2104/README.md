@@ -49,7 +49,7 @@ Testifying:
 * Chris Mulick - Washington State University
 * Gordon McHenry Jr - United Way of King County
 * 💵Tathagata Pal - Legislative Liaison, WSU Graduate and Professional Student Association
-* Denise Rodriguez - WHRC
+* 💵Denise Rodriguez - WHRC
 * Bishop Gary Tyson - Nehemiah Initiative
 * Bryan Flint - Sound Outreach
 * Kathryn Smith
@@ -59,7 +59,7 @@ Testifying:
 * Rashi Gupta - UW Medicine
 * 💵Nora Selander - Western Washington University
 * Madelyn Carlson - People For People / Washington 211
-* Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
+* 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * Debbie Ham - Support for Early Learning and Families (SELF)
 
 #### 528 👎 - Con

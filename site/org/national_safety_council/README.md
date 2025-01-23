@@ -1,12 +1,15 @@
 # National Safety Council
 ## 2025-26
 
-## [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
+### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
+* 👍 Alaina Dahlquist
+
+## [SB 5198](/bill/2025-26/sb/5198/) - Driver training alternative 👍1  
 * 👍 Alaina Dahlquist
 
 ## 2023-24
 
-### [SB 5067](/bill/2023-24/sb/5067/) - Impaired driving 👍1  
+### [SB 5198](/bill/2023-24/sb/5198/) - Driver training alternative 👍1  
 * 👍 Alaina Dahlquist
 
 ### [HB 1319](/bill/2023-24/hb/1319/) - Collisions/driver reexam 👍1  

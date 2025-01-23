@@ -28,6 +28,8 @@
 ### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface 👍2  
 * 👍💵 Bryce Yadon
 
+### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
+
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
 ### [SB 5055](/bill/2025-26/sb/5055/) - Agritourism  👎1 

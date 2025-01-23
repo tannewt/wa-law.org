@@ -8,16 +8,16 @@
 
 ## Meetings
 ### Thu 01/23 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5280 Virtual currency kiosks
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32437&aId=161807&caId=24729&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32437&aId=161807&caId=24729&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32437&aId=161807&caId=24729&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32437&aId=161807&caId=24729&tId=4)
-
-#### 6 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Timothy Schwering - Spokane Police Department
+* Drew Bouton - Washington State Department of Financial Institutions
+* Cathleen MacCaul - AARP Washington State
+* Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Kevin Lolli - CoinFlip
+* Ethan McClelland - [Bitcoin Depot](/org/bitcoin_depot/)
 
 #### 0 ❓ - Other

@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161846&caId=24935&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161846&caId=24935&tId=4)
 
-#### 125 👍 - Pro
+#### 135 👍 - Pro
 
-#### 87 👎 - Con
+#### 335 👎 - Con
 Testifying:
 * 💵Carolyn Logue - NW Hearth, Patio & Barbecue Association
 * Chris Neufeld - Blaze King Industries, Inc.
 * Ryann Blake
+* Matthew Romanow - Director, Engineering
+* Daniel Hammer - SUTTER HOME & HEARTH, INC.
+* Kenneth Spaeth
+* Edward Hosack - Travis Industries, Inc
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

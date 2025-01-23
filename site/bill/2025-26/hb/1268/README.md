@@ -12,19 +12,17 @@
 
 ## Meetings
 ### Wed 01/22 01:30 PM - Consumer Protection & Business (CPB): HB 1268 Virtual currency kiosks
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161774&caId=24849&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161774&caId=24849&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161774&caId=24849&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161774&caId=24849&tId=4)
-
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Duncan Taylor - [Washington Bankers Association](/org/washington_bankers_association/)
 * Kevin Lolli - CoinFlip
+* Ethan McClelland - [Bitcoin Depot](/org/bitcoin_depot/)
 
-#### 5 👎 - Con
+#### 20 👎 - Con
+Testifying:
+* Cathleen MacCaul - AARP Washington State
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Timothy Schwering - Spokane Police Department
+* Drew Bouton - Washington State Department of Financial Institutions

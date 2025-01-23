@@ -17,15 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161737&caId=24745&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161737&caId=24745&tId=4)
 
-#### 87 👍 - Pro
+#### 204 👍 - Pro
 Testifying:
 * Mark Vossler - Washington Physicians for Social Responsibility
 * Elizabeth Hansen - Washington Physicians for Social Responsibility
 * 💵Amy Brackenbury - Washington State Society of Anesthesiologists; Washington State Medical Association
 * Annemarie Dooley
+* Kate White Tudor - Natural Resources Defense Council
+* Ivy Lin
 
-#### 7 👎 - Con
+#### 215 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Kelli Camp - Washington Association of Nurse Anesthesiology

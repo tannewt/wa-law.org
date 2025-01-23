@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5424/</link>
 		<description>Updates about SB 5424</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 22 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2025 10:04:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,20 @@
 			<pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-22/First reading, referred to Higher Education &amp; Workforce Development (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Higher Education &amp; Workforce Development.</title>
+			<description>First reading, referred to Higher Education &amp; Workforce Development.</description>
+			<pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-22/First reading, referred to Higher Education &amp; Workforce Development.</guid>
+		</item>
+		<item>
+			<title>Bill proposal would replace Evergreen State College with new UW campus | king5.com</title>
+			<description>News article "Bill proposal would replace Evergreen State College with new UW campus | king5.com" from KING5.</description>
+			<pubDate>Thu, 23 Jan 2025 10:04:09 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/politics/state-politics/bill-proposal-replacing-evergreen-state-college-new-uw-campus/281-0db83cd2-6147-431b-98f4-3d9a37552f61#:~:text=Senate%20Bill%205424</guid>
 		</item>
 	</channel>
 </rss>

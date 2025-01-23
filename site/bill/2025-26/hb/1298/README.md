@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/22 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1298 Student athlete insurance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161836&caId=24920&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161836&caId=24920&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161836&caId=24920&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161836&caId=24920&tId=4)
-
-#### 11 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Joe Dacca - [University of Washington](/org/university_of_washington/)
 * Erin O'Connell - Deputy Athletic Director & COO, UW Athletics

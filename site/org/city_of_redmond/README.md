@@ -3,14 +3,19 @@
 
 ### [HB 1075](/bill/2025-26/hb/1075/) - Affordable housing financing 👍1  
 
+### [HB 1094](/bill/2025-26/hb/1094/) - Providing a property tax exemption for property owned by a qualifying nonprofit organization and loaned, leased, or rented to and used by any government entity to provide character-building, benevolent, protective, or rehabilitative social services. 👍1  
+
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 
-## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
+* 👍 Melissa Stuart
+
+## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 * 👍 Melissa Stuart
 
 ## 2023-24
 
-### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants 👍2  
+### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management 👍1  
 * 👍 Melissa Stuart
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  

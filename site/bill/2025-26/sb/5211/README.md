@@ -7,3 +7,21 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 01/27 01:30 PM - Human Services (HS): SB 5211 DD parental caregivers
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161995&caId=25002&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161995&caId=25002&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161995&caId=25002&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161995&caId=25002&tId=4)
+
+#### 100 👍 - Pro
+Testifying:
+* hengshan liu - no
+* Jessica Morrow
+* Alexander Toole
+* Amanda Harpell-Franz
+* Teena Curry - My Mother, Pat Curry
+
+#### 0 👎 - Con
+
+#### 2 ❓ - Other

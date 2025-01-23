@@ -4,6 +4,9 @@
 ### [HB 1118](/bill/2025-26/hb/1118/) - Concerning restoration of the right to possess a firearm.  👎1 
 * 👎💵 Elizabeth Hendren
 
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+* 👍💵 Elizabeth Hendren
+
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  

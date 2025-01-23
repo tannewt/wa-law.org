@@ -77,6 +77,14 @@
 
 ### [HB 1278](/bill/2025-26/hb/1278/) - Higher ed. gov./students 👍1  
 
+### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍1  
+
+### [HB 1289](/bill/2025-26/hb/1289/) - Public school survey info.   ❓1
+* ❓💵 Nasue Nishida
+
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+* 👍💵 Nasue Nishida
+
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍1  
 
 ### [HB 1349](/bill/2025-26/hb/1349/) - Pension credit for leave 👍1  
@@ -149,6 +157,8 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎💵 Janie White
 
+### [SB 5177](/bill/2025-26/sb/5177/) - Considering the experiences of historically marginalized and underrepresented groups when identifying professional development resources on certain topics. 👍1  
+
 ### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍1  
 
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
@@ -196,13 +206,14 @@
 
 ### [SB 5306](/bill/2025-26/sb/5306/) - Pension credit for leave 👍1  
 
-## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍2  
+### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍2  
 * 👍💵 Larry Delaney
+
+## [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 
 ## 2023-24
 
-### [SB 5307](/bill/2023-24/sb/5307/) - Special education funding 👍2  
-* 👍💵 Larry Delaney
+### [SB 5308](/bill/2023-24/sb/5308/) - Guaranteed admissions prg. 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 

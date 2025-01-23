@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/22/2025 [KING5](/org/king5/) - [Washington bill to cap rent increases gets Senate hearing | king5.com](https://www.king5.com/article/news/politics/state-politics/bill-cap-rent-increases-washington-committee-hearing/281-cb005b9d-f8c7-4e8a-8e4c-d8d2edeacd90#:~:text=Senate%20Bill%205222)
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=Senate%20Bill%205222)
 * 01/16/2025 [Real Change](/org/real_change/) - [Washington lawmakers to debate rent stabilization, affordable housing in new session | Jan. 15–21, 2025 | Real Change](https://www.realchangenews.org/news/2025/01/16/washington-lawmakers-debate-rent-stabilization-affordable-housing-new-session#:~:text=SB%205222)
 * 01/13/2025 [The Urbanist](/org/the_urbanist/) - [Rent Stabilization Tops Washington Democrats’ Housing Agenda for 2025 Session - The Urbanist](https://www.theurbanist.org/2025/01/13/rent-stabilization-tops-washington-democrats-housing-agenda/#:~:text=SB%205222)
@@ -14,13 +15,7 @@
 
 ## Meetings
 ### Wed 01/22 01:30 PM - Housing (HSG): SB 5222 Residential tenants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32480&aId=161745&caId=24758&tId=4)
-
-#### 4732 👍 - Pro
+#### 5034 👍 - Pro
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner, AMHO
 * Kyle Lucas - Urban Indians NW & Tenants United at Western Plaza Mobile Home Park
@@ -87,8 +82,12 @@ Testifying:
 * Rebekah Gardea - QLaw Foundation of Washington
 * 💵Melanie Smith - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
 * Melissa Stuart - [City of Redmond](/org/city_of_redmond/)
+* Linus Lu
+* 💵Matthew Randazzo - Snoqualmie Indian Tribe
+* 💵Kristin Ang - Faith Action Network (FAN)
+* Lindsey Schromen-Wawrin - City of Port Angeles
 
-#### 3373 👎 - Con
+#### 3606 👎 - Con
 Testifying:
 * Constance Nelson
 * Russ Millard
@@ -183,10 +182,39 @@ Testifying:
 * Chris Zhang
 * Erik Brand
 * Tonya Hardwick
+* Ming Zhang
+* Tracy Zhang
+* Roger Schiess - 13031-31st Ave NE
+* Hong Jiang
+* David Melman
+* may li
+* Shiyang Wang
+* Jihua Wang
+* Gary Wu
+* Casey Bishop
+* Guan Zhang
+* Gabino Camacho
+* Philip Weitz
+* Dave Dearth
+* Qi Wang
+* June He
+* Mimi Lee
+* Gordon Haggerty
+* Tad Sommerville
+* Kent Hendricks - Select...
+* Allen Hirst
+* Mary Koutrelakos - Self
+* Thomas Oates
+* Kimberly Meredith - Moland Management Company, Inc.
+* Jim Yearby
+* Erik Brand
+* Alan Russell - Self
+* Sandra Ning
 
-#### 48 ❓ - Other
+#### 56 ❓ - Other
 Testifying:
 * Tonya Hardwick
 * Michelle Bart
 * Linda Seltzer
 * Reza Bouzarjomehri
+* Edward Corker

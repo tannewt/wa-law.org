@@ -7,18 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/22/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill advocating for stronger school funding heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/22/nobles-bill-advocating-for-stronger-school-funding-heard-in-committee/#:~:text=Senate%20Bill%205192)
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205192)
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205192)
 
 ## Meetings
 ### Wed 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5192 School district materials
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161540&caId=24735&tId=4)
-
-#### 2241 👍 - Pro
+#### 2611 👍 - Pro
 Testifying:
 * Dr. Concie Pedroza - Superintendent, Tukwila School District
 * Dr. Dani Pfeiffer
@@ -68,11 +63,36 @@ Testifying:
 * Michael Henderson
 * Magda Pratt
 * Shannon Speicher
+* Brian Hunt - Oak Harbor Public Schools
+* Nadine Frost
+* Aaron Blumenthal
+* Danielle Wallace
+* Ryan Arnold
+* Bryan Frost
+* Gillian Macdonald
+* Genevieve Caruncho-Simpson
+* Rob Bryant - [Federal Way Public Schools](/org/federal_way_public_schools/)
+* Natalie Phelps
+* Hannah Wilson
+* Rivkah Thomson
+* Sydney Swalberg
+* Rachel Ferm
+* Allison Borovsky
+* Shannon Elliott
+* Grace Feldman
+* Kristina Crawford
+* Wendy COLEBROOK
+* Kim Colebrook
+* Caitlin Kogan
+* Megan Halverson
+* Blythe Cozart
+* Anna Britt
 
-#### 973 👎 - Con
+#### 1096 👎 - Con
 Testifying:
 * Rozana Knutson
 * Loni Simone
+* Jeannie Magdua - Conservative Ladies of Washington
 
 #### 6 ❓ - Other
 Testifying:

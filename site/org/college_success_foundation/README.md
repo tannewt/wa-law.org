@@ -7,15 +7,17 @@
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
 
-## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓2
+### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓2
 * ❓ James Dorsey
 * ❓ Yokiko Hayashi-Saguil
+
+## [SB 5275](/bill/2025-26/sb/5275/) - Modifying funding and award levels for the passport to careers program and eligibility for the Washington college grant. 👍1  
+* 👍 Yokiko Hayashi-Saguil
 
 ## 2023-24
 
-### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp.   ❓2
-* ❓ James Dorsey
-* ❓ Yokiko Hayashi-Saguil
+### [SB 5275](/bill/2023-24/sb/5275/) - Modifying funding and award levels for the passport to careers program and eligibility for the Washington college grant. 👍1  
+* 👍 Yokiko Hayashi-Saguil
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

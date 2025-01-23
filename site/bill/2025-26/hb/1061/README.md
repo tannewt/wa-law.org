@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32474&aId=161716&caId=24909&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32474&aId=161716&caId=24909&tId=4)
 
-#### 75 👍 - Pro
+#### 105 👍 - Pro
 Testifying:
 * 💵Alex Hur
+* Brett Gailey - [City of Lake Stevens](/org/city_of_lake_stevens/)
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 
 #### 1 ❓ - Other

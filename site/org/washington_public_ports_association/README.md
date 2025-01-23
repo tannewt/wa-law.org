@@ -7,6 +7,10 @@
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
 * 👍💵 Carly Michiels
 
+### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎2 
+* 👎💵 Carly Michiels
+* 👎💵 Carly Michiels
+
 ### [SB 5034](/bill/2025-26/sb/5034/) - System improvement team 👍1  
 
 ### [SB 5176](/bill/2025-26/sb/5176/) - Implementing prompt pay recommendations from the capital projects advisory review board. 👍1  

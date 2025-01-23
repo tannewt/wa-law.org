@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161842&caId=24933&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161842&caId=24933&tId=4)
 
-#### 6 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Steve Nelsen - LEOFF 2 Board
 

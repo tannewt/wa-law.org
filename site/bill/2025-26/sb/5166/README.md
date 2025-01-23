@@ -99,7 +99,7 @@ Testifying:
 #### 140 👍 - Pro
 Testifying:
 * Jim Theofelis - NorthStar Advocates
-* Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
+* 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * Shari De Paulo - The Nest Family Support and Resource Center
 * Dan Watt - Unified Care Systems
 * Zack Wester - Noble Healthcare

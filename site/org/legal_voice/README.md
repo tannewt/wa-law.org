@@ -10,11 +10,13 @@
 
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
 
-## [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
+### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
+
+## [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍1  
 
 ## 2023-24
 
-### [SB 5217](/bill/2023-24/sb/5217/) - Pregnancy accommodations 👍1  
+### [SB 5321](/bill/2023-24/sb/5321/) - Postsecondary/med. abortion 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

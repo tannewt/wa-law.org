@@ -8,18 +8,17 @@
 
 ## Meetings
 ### Thu 01/23 08:00 AM - Environment & Energy (ENVI): HB 1329 Wholesale power purchases
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32499&aId=161755&caId=24868&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32499&aId=161755&caId=24868&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32499&aId=161755&caId=24868&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32499&aId=161755&caId=24868&tId=4)
-
-#### 28 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * 💵Bill Clarke - Grant County PUD
 * 💵Logan Bahr - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
 * Mary Wiencke - [Public Generating Pool](/org/public_generating_pool/)
+* Stefanie Johnson - Seattle City Light
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Charlee Thompson - NW Energy Coalition
+* Glenn Blackmon - Washington State Department of Commerce
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)

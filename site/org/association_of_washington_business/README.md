@@ -44,6 +44,9 @@
 
 ### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers  👎1 
 
+### [HB 1142](/bill/2025-26/hb/1142/) - In-home care training 👍2  
+* 👍💵 Emily Wittman
+
 ### [HB 1143](/bill/2025-26/hb/1143/) - College grant award amounts 👍1  
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes.  👎1 
@@ -86,9 +89,15 @@
 
 ### [HB 1297](/bill/2025-26/hb/1297/) - Child support/self-employed  👎1 
 
+### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎2 
+* 👎💵 Peter Godlewski
+* 👎💵 Peter Godlewski
+
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records  👎1 
 
 ### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍1  
+
+### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 * 👎💵 Lindsey Hueer
@@ -125,6 +134,9 @@
 ### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  
 
 ### [SB 5205](/bill/2025-26/sb/5205/) - College grant award amounts 👍1  
+
+### [SB 5207](/bill/2025-26/sb/5207/) - Requiring refunds to consumers for early cancellation of term-based subscriptions to electronic media services.  👎1 
+* 👎💵 Morgan Irwin
 
 ### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations   ❓1
 * ❓💵 Lindsey Hueer

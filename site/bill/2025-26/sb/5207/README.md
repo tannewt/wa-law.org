@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Thu 01/23 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5207 Media service subscriptions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32437&aId=161587&caId=24728&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32437&aId=161587&caId=24728&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32437&aId=161587&caId=24728&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32437&aId=161587&caId=24728&tId=4)
+#### 7 👍 - Pro
 
-#### 1 👍 - Pro
+#### 6 👎 - Con
+Testifying:
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 1 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers of Washington, Washington Newspaper Publishers Association

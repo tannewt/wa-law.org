@@ -8,18 +8,15 @@
 
 ## Meetings
 ### Thu 01/23 10:30 AM - Early Learning & K-12 Education (EDU): SB 5177 Professional dev. resources
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161545&caId=24741&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161545&caId=24741&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161545&caId=24741&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32478&aId=161545&caId=24741&tId=4)
-
-#### 177 👍 - Pro
+#### 246 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf
 * Samantha Fogg - Seattle Council PTSA Co-President
 * Jaanvi Ganapathy - Legislative Youth Advisory Council (LYAC)
 
-#### 986 👎 - Con
+#### 1042 👎 - Con
+Testifying:
+* Rhonda Looney - None
+* Jeannie Magdua - Conservative Ladies of Washington
 
 #### 2 ❓ - Other

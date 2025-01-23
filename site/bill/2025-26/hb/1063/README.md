@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Wed 01/22 01:30 PM - Consumer Protection & Business (CPB): HB 1063 Earned wage access services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161773&caId=24848&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161773&caId=24848&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161773&caId=24848&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32526&aId=161773&caId=24848&tId=4)
-
-#### 64 👍 - Pro
+#### 67 👍 - Pro
 Testifying:
 * Gilbert Arcos
 * Dennise Drury
@@ -31,12 +25,14 @@ Testifying:
 * Dayana Melgar
 * Brittany Davis - EWA User
 
-#### 250 👎 - Con
+#### 270 👎 - Con
 
-#### 8 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * Amanda Martin - NW Consumer Law Center
 * 💵Andrew Kushner - [Center for Responsible Lending](/org/center_for_responsible_lending/)
 * Sam Leonard - WA State Association for Justice
 * Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Manuel Alvarez
+* Drew Bouton - Washington State Department of Financial Institutions
+* Cathleen MacCaul - AARP Washington State

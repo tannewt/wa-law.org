@@ -27,7 +27,7 @@ Testifying:
 * Zack Wester - Noble Healthcare
 * 💵Laurie Weidner - Retired Public Employees Council of WA
 * 💵Aaron Dickson - [Community Employment Alliance](/org/community_employment_alliance/)
-* Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
+* 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * Jacqueline Kinley - Unified Care Systems
 * 💵Jill May - [Washington Association for Children & Families](/org/washington_association_for_children_&_families/)
 * Angela Youtsey - [Washington Association for Children & Families](/org/washington_association_for_children_&_families/)

@@ -8,19 +8,13 @@
 
 ## Meetings
 ### Wed 01/22 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1259 Behavioral health/schools
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161834&caId=24918&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161834&caId=24918&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161834&caId=24918&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161834&caId=24918&tId=4)
+#### 57 👍 - Pro
 
-#### 55 👍 - Pro
-
-#### 34 👎 - Con
+#### 37 👎 - Con
 Testifying:
 * Rozana Knutson
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 * 💵Zackary Turner - [Professional Educator Standards Board](/org/professional_educator_standards_board/)

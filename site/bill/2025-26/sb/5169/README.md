@@ -8,14 +8,14 @@
 
 ## Meetings
 ### Thu 01/23 10:30 AM - Law & Justice (LAW): SB 5169 Testimony of children
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32466&aId=161521&caId=24799&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32466&aId=161521&caId=24799&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32466&aId=161521&caId=24799&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32466&aId=161521&caId=24799&tId=4)
+#### 11 👍 - Pro
+Testifying:
+* Lindsay Chenelia - Pierce County Prosecuting Attorney's Office
+* Sarah Park - Pierce County Prosecuting Attorney's Office
+* Beth Warner
 
-#### 2 👍 - Pro
-
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Kate Benward - King County Department of Public Defense
 
 #### 0 ❓ - Other

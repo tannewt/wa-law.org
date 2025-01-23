@@ -15,7 +15,7 @@ Testifying:
 * Brendan Donckers - Northwest Consumer Law Center Board Member
 * Malena Pinkham - Northwest Justice Project
 * Ryan Davis - Financial Empowerment Network
-* Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
+* 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * Andrew Pizor - National Consumer Law Center
 * Mary Veneziani
 * Blythe Chandler

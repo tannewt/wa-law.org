@@ -12,7 +12,7 @@
 
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
@@ -29,6 +29,8 @@
 ### [SB 5128](/bill/2025-26/sb/5128/) - Concerning the provision of medical assistance to individuals in juvenile detention facilities. 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+
+### [SB 5169](/bill/2025-26/sb/5169/) - Testimony of children  👎1 
 
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
 * 👍💵 Roxana Gomez

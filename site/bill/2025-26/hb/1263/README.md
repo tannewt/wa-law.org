@@ -11,19 +11,13 @@
 
 ## Meetings
 ### Wed 01/22 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1263 Essential needs program uses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32504&aId=161739&caId=24857&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32504&aId=161739&caId=24857&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32504&aId=161739&caId=24857&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32504&aId=161739&caId=24857&tId=4)
-
-#### 101 👍 - Pro
+#### 102 👍 - Pro
 Testifying:
 * Erin Maguire - Catholic Community Services - HEN King County Program
 * 💵Nick Federici - Washington Low Income Housing Alliance
 * Matthew Perry - Jewish Prisoner Services International
 * Tedd Kelleher - WA Commerce, Acting Assistant Director, Housing Division
 
-#### 8 👎 - Con
+#### 9 👎 - Con
 
 #### 0 ❓ - Other

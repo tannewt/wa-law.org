@@ -8,16 +8,12 @@
 
 ## Meetings
 ### Wed 01/22 04:00 PM - Transportation (TR): HB 1244 Driver training alternative
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161715&caId=24907&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161715&caId=24907&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161715&caId=24907&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32473&aId=161715&caId=24907&tId=4)
-
 #### 5 👍 - Pro
 Testifying:
 * Alejandro Sanchez - Department of Licensing
 
-#### 10 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* Kimberly Huntress-Inskeep
 
 #### 0 ❓ - Other

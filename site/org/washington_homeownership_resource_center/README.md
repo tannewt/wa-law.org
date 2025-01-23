@@ -2,18 +2,18 @@
 ## 2025-26
 
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
-* 👍 Denise Rodriguez
+* 👍💵 Denise Rodriguez
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
-* 👍 Denise Rodriguez
+* 👍💵 Denise Rodriguez
 
 ## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
-* 👍 Denise Rodriguez
+* 👍💵 Denise Rodriguez
 
 ## 2023-24
 
 ### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp. 👍1  
-* 👍 Denise Rodriguez
+* 👍💵 Denise Rodriguez
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍5  
 
@@ -45,7 +45,7 @@
 ### [HB 1695](/bill/2023-24/hb/1695/) - Surplus property/housing 👍1  
 
 ### [HB 2104](/bill/2023-24/hb/2104/) - Operating budget, supp. 👍1  
-* 👍 Denise Rodriguez
+* 👍💵 Denise Rodriguez
 
 ### [SB 5059](/bill/2023-24/sb/5059/) - Prejudgment interest  👎1 
 
@@ -63,7 +63,7 @@
 * 👍 DENISE Rodriguez
 
 ### [SB 5968](/bill/2023-24/sb/5968/) - Home equity sharing 👍1  
-* 👍 Denise Rodriguez
+* 👍💵 Denise Rodriguez
 
 ### [SB 6173](/bill/2023-24/sb/6173/) - Housing sales tax/use 👍1  
 

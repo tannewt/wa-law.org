@@ -14,16 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161809&caId=24787&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161809&caId=24787&tId=4)
 
-#### 10 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Chris Ellis - Bricklayers and Allied Craftworkers, Local 1
 * 💵John Traynor - Washington State Labor Council, AFL-CIO
 * 💵Minna Long - Washington State Building & Construction Trades Council
 * Andrea Ornelas
 
-#### 8 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * 💵Carolyn Logue - Associated Builders & Contractors - Inland Pacific Chapter
 * 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
+* Jerry VanderWood - Associated General Contractors (AGC)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5155/</link>
 		<description>Updates about SB 5155</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 22 Jan 2025 12:06:57 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2025 08:38:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -54,6 +54,22 @@
 			<guid isPermaLink="false">testifier/Jenna/Friebel/2025-01-21 08:32:57</guid>
 		</item>
 		<item>
+			<title>❓Scott Schuyler - Natural Resoruces Policy Representative Upper Skagit Indain Tribe</title>
+			<description>Scott Schuyler signed up to testify Other. They are signed up to represent Natural Resoruces Policy Representative Upper Skagit Indain Tribe.</description>
+			<pubDate>Wed, 22 Jan 2025 02:18:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Scott/Schuyler/2025-01-22 02:18:13</guid>
+		</item>
+		<item>
+			<title>👍Kas Guillozet - Bonneville Environmental Foundation</title>
+			<description>Kas Guillozet signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/bonneville_environmental_foundation/"&gt;Bonneville Environmental Foundation&lt;/a&gt;.</description>
+			<pubDate>Wed, 22 Jan 2025 04:02:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kas/Guillozet/2025-01-22 04:02:48</guid>
+		</item>
+		<item>
 			<title>❓Will Honea - Skagit County</title>
 			<description>Will Honea signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/skagit_county/"&gt;Skagit County&lt;/a&gt;.</description>
 			<pubDate>Wed, 22 Jan 2025 07:56:49 GMT</pubDate>
@@ -86,12 +102,28 @@
 			<guid isPermaLink="false">testifier/Kevin/Long/2025-01-22 08:21:38</guid>
 		</item>
 		<item>
+			<title>👎Daryl Hamburg - Skagit Dike and Drainage Flood Control District Partnership</title>
+			<description>Daryl Hamburg signed up to testify Con. They are signed up to represent Skagit Dike and Drainage Flood Control District Partnership.</description>
+			<pubDate>Wed, 22 Jan 2025 09:36:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Daryl/Hamburg/2025-01-22 09:36:24</guid>
+		</item>
+		<item>
 			<title>👍Jonathan Grudin - North Olympic Salmon Coalition</title>
 			<description>Jonathan Grudin signed up to testify Pro.</description>
 			<pubDate>Wed, 22 Jan 2025 12:06:57 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jonathan/Grudin/2025-01-22 12:06:57</guid>
+		</item>
+		<item>
+			<title>❓Dave Hallock - Skagit Upriver Neighbors</title>
+			<description>Dave Hallock signed up to testify Other. They are signed up to represent Skagit Upriver Neighbors.</description>
+			<pubDate>Thu, 23 Jan 2025 08:38:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Dave/Hallock/2025-01-23 08:38:12</guid>
 		</item>
 	</channel>
 </rss>

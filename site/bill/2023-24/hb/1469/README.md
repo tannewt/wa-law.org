@@ -52,7 +52,7 @@ Testifying:
 * Dr. Crystal Beal - QueerDoc
 * 💵Emily Stone - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
 * Rebekah Gardea - QLaw Foundation
-* Jaelynn Scott - Lavender Rights Project
+* Jaelynn Scott - [Lavender Rights Project](/org/lavender_rights_project/)
 * Dana Karash - Planned Parenthood Greater Northwest
 * Hilary Northcraft
 * August Armstrong
@@ -129,7 +129,7 @@ Testifying:
 * David Cohen
 * Dr. Erin Berry - Planned Parenthood
 * Dr. Katina Rue - Washington State Medical Association
-* Jaelynn Scott - Lavender Rights Project
+* Jaelynn Scott - [Lavender Rights Project](/org/lavender_rights_project/)
 * Danni Askini - Gender Justice League
 * Dr. Sarah Prager - American College of Obstetricians and Gynecologists
 * Dr. Suzanne Poppema

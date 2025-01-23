@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/22/2025 [The Center Square](/org/the_center_square/) - [House Democrat pushes bill requiring liability policy to buy or possess firearms | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5d3707ec-d8f8-11ef-887b-dbfe2e974c57.html#:~:text=House%20Bill%201504)
+
 ## Meetings

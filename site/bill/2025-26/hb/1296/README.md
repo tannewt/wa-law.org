@@ -13,28 +13,41 @@
 
 ## Meetings
 ### Thu 01/23 08:30 AM - Education (ED): HB 1296 Public education system
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161653&caId=24858&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161653&caId=24858&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161653&caId=24858&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161653&caId=24858&tId=4)
-
-#### 716 👍 - Pro
+#### 1213 👍 - Pro
 Testifying:
 * Danni Askini - Gender Justice League
 * Samantha Fogg - Seattle Council PTSA Co-President
 * Ellen Duffer
-* Bryanna Jenkins - Lavender Rights Project
+* Bryanna Jenkins - [Lavender Rights Project](/org/lavender_rights_project/)
 * Everett Maroon
 * Tracy Dr. Castro-Gill - [Washington Ethnic Studies Now](/org/washington_ethnic_studies_now/)
 * Danni Askini - Gender Justice League
 * Amy Cannava - Washington State Association of School Psychologists
-* 💵Oliver Miska - Lavender Rights Project
+* 💵Oliver Miska - [Lavender Rights Project](/org/lavender_rights_project/)
 * 💵Jenny Morgan - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 * Lucy Lauser
 * Paul Bonamy
+* Emily Carmichael
+* Pamela Pursley
+* Stacy Harbour-Van Hoy
+* Emma Pedro
+* Howl Hall
+* Katherine Fromherz
+* Albert Johnson
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Tyler Crone
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
+* 💵Courtney Normand - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* Margaret Albaugh
+* 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* Brier Moreno
+* 💵Gabriel Neuman - GSBA - Washington State LGBTQ+ Chamber of Commerce
+* Ashley Ford - Seattle LGBTQ Commission
+* Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
+* Fortune johnson
+* NCSP, Carrie Suchy - Washington State Association of School Psychologists
 
-#### 973 👎 - Con
+#### 1479 👎 - Con
 Testifying:
 * Robert Bleu - Former Elected School Board Member
 * Jeffrey Bastow
@@ -49,8 +62,17 @@ Testifying:
 * Eric Lundberg
 * Joseph Romero - [Puyallup School District](/org/puyallup_school_district/)
 * Danielle Black
+* Arry Yu
+* George Nervik
+* Darryl Jones
+* KHUSHDIP BRAR - SCHOOL BOARD MEMBER
+* Frank Cooper
+* Tonya Hickman - Lynden School Board
+* Bob Runnells - Informed Choice Washington
+* Jaskaran Singh Sarao - AT&T
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Katherine George
 * Jill Oldson - Washington State School Directors' Association
+* Lisa Keating - Executive Director, WA State LGBTQ Commission

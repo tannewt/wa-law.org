@@ -22,6 +22,9 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+* 👍💵 Courtney Normand
+
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax 👍1  
 
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍1  

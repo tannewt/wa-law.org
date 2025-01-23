@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161841&caId=24932&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161841&caId=24932&tId=4)
 
-#### 14 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* Marcus Ehrlander - Office of Financial Management
+* Sheri Sawyer - Office of Financial Management
 
-#### 526 👎 - Con
+#### 620 👎 - Con
 Testifying:
 * 💵Emmett Mills - Washington State School Retirees' Association
+* Michael McKinley
 
 #### 1 ❓ - Other

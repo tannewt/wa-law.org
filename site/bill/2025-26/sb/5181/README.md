@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/23/2025 [MyNorthwest](/org/mynorthwest/) - [Democrats pull a fast one on voters, gut parental rights initiative](https://mynorthwest.com/ktth/ktth-opinion/rantz-wa-democrats-pulled-a-fast-one-on-voters-as-they-undo-parental-rights-initiative/4029200#:~:text=Senate%20Bill%205181)
+* 01/22/2025 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Preventing and Reducing Gun Violence and Suicide - WSPTA](https://www.wastatepta.org/wspta-testifies-preventing-and-reducing-gun-violence-and-suicide/#:~:text=SB%205181)
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205181)
 * 01/10/2025 [Senate Democrats](/org/senate_democrats/) - [Wilson files comprehensive LGBTQIA+, vulnerable student protections bill package - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/10/wilson-files-comprehensive-lgbtqia-vulnerable-student-protections-bill-package/#:~:text=SB%205181)
 * 01/10/2025 [Senate Democrats](/org/senate_democrats/) - [Wilson files comprehensive LGBTQIA+, vulnerable student protections bill package - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/10/wilson-files-comprehensive-lgbtqia-vulnerable-student-protections-bill-package/#:~:text=SB%205181)

@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Thu 01/23 08:30 AM - Education (ED): HB 1285 Financial education
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161783&caId=24859&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161783&caId=24859&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161783&caId=24859&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161783&caId=24859&tId=4)
-
-#### 81 👍 - Pro
+#### 134 👍 - Pro
 Testifying:
 * Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
 * Benjamin Blackerby - Ashwin Teen Financial Academy (ATFA) 501 (c)(3) Organization
@@ -28,9 +22,17 @@ Testifying:
 * Ashwin Joshi - Ashwin Teen Financial Academy (ATFA) 501 (c)(3) Organization
 * Ronan Maher
 * Amanda Sanborn
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
+* 💵Matt Zuvich - Office of the State Treasurer
+* Conrad Krol - Westbank Financials
 * Jennifer Heine-Withee
+* Chris Bandoli - National Association of Insurance and Financial Advisors Washington
+* Hailey Allen - National Association of Insurance and Financial Advisors Washington
+* J. Lee Schultz - [Washington State Board of Education](/org/washington_state_board_of_education/)
 
-#### 419 👎 - Con
+#### 461 👎 - Con
+Testifying:
+* David sedelmeier
 
 #### 1 ❓ - Other
 Testifying:

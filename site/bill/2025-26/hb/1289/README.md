@@ -12,19 +12,15 @@
 
 ## Meetings
 ### Thu 01/23 08:30 AM - Education (ED): HB 1289 Public school survey info.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161784&caId=24860&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161784&caId=24860&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161784&caId=24860&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32508&aId=161784&caId=24860&tId=4)
-
-#### 9 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Dana Anderson - Washington School Information Processing Cooperative
 * Dr. Austina De Bonte - WA Coalition for Gifted Education
 
-#### 464 👎 - Con
+#### 505 👎 - Con
 Testifying:
 * Fortune Pestarino - Retired
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)

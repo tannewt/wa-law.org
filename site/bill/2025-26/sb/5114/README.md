@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161796&caId=24823&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161796&caId=24823&tId=4)
 
-#### 909 👍 - Pro
+#### 1088 👍 - Pro
 Testifying:
 * Eileen Perfrement - Washington State School Retirees' Association
 * Nancy Heley - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
 * 💵Michael Duchemin - [Retired Firefighters of Washington](/org/retired_firefighters_of_washington/)
+* John Poulson
 
 #### 4 👎 - Con
 

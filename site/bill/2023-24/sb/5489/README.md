@@ -23,7 +23,7 @@ Testifying:
 * Jill Kong
 * Dr. Anuj Khattar - [Cedar River Clinics](/org/cedar_river_clinics/)
 * Dr. Erin Berry - Planned Parenthood
-* Jaelynn Scott - Lavender Rights Project
+* Jaelynn Scott - [Lavender Rights Project](/org/lavender_rights_project/)
 * Danni Askini - Gender Justice League
 * Dr. Sarah Prager - American College of Obstetricians and Gynecologists
 * Dr. Suzanne Poppema

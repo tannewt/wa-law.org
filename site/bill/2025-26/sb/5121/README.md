@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161673&caId=24753&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161673&caId=24753&tId=4)
 
-#### 356 👍 - Pro
+#### 463 👍 - Pro
 Testifying:
 * Erica Tomas
 * Eliana Horn
@@ -25,8 +25,12 @@ Testifying:
 * Sonia Lamel
 * Maranatha Hay
 * Michael Truong
+* Chalia Stallings-Ala'ilima - WFSE/AWAAG
+* Dr. Lori Marshall
+* Amy Landram
+* Jenna Comstock - QLaw
 
-#### 464 👎 - Con
+#### 676 👎 - Con
 Testifying:
 * Theresa Schrempp
 * Mary Long - Conservative Ladies of Washington

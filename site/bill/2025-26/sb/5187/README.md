@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Wed 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5187 Student transportation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161539&caId=24734&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161539&caId=24734&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161539&caId=24734&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32477&aId=161539&caId=24734&tId=4)
-
-#### 2095 👍 - Pro
+#### 2453 👍 - Pro
 Testifying:
 * Advaita Mattam
 * Moritz Maszhold
@@ -46,12 +40,19 @@ Testifying:
 * Holly Wehner
 * Charlie Brown - WA Skills Centers Directors
 * Stephanie Chase
+* Ryan Arnold
+* Rob Bryant - [Federal Way Public Schools](/org/federal_way_public_schools/)
+* Rivkah Thomson
+* Sydney Swalberg
+* Hannah Peek
+* Stephanie Jerdon - Central Valley School District board president
+* Bob Maxwell - Pullman Public Schools
 
-#### 43 👎 - Con
+#### 47 👎 - Con
 Testifying:
 * Loni Simone
 * Cynthia Doussard
 * Rozana Knutson
 * Loni Simone
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other

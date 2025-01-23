@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1188/</link>
 		<description>Updates about HB 1188</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 11:48:29 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 22 Jan 2025 18:19:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -130,6 +130,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kelsey/Hulse/2025-01-20 11:48:29</guid>
+		</item>
+		<item>
+			<title>Bill requiring more local say for large wind, solar projects faces gloomy future | Washington | thecentersquare.com</title>
+			<description>News article "Bill requiring more local say for large wind, solar projects faces gloomy future | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 22 Jan 2025 18:19:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_ba33bea8-d90d-11ef-bd66-47b3d9a492bc.html#:~:text=House%20Bill%201188</guid>
 		</item>
 	</channel>
 </rss>

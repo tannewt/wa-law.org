@@ -14,11 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32475&aId=161839&caId=24929&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32475&aId=161839&caId=24929&tId=4)
 
-#### 16 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 * Jacob Vigdor - University of Washington Faculty
+* Dana Anderson - Washington School Information Processing Cooperative
+* Bill Lyne Lyne - United Faculty of Washington State and Council of Faculty
+* Daniel Glowitz
 
-#### 237 👎 - Con
+#### 380 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Misha Cherniske - Office of Superintendent of Public Instruction

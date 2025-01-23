@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/22 01:30 PM - Health Care & Wellness (HCW): HB 1238 Rare diseases adv. council
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161429&caId=24881&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161429&caId=24881&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161429&caId=24881&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32442&aId=161429&caId=24881&tId=4)
-
-#### 44 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Fuki Marie Hisama MD - University of Washington School of Medicine
 * Lindsey Viscarra - National Organization for Rare Disorders (NORD)
@@ -26,7 +20,7 @@ Testifying:
 * Mary McDirmid - NW Rare Disease Coalition
 * Whitney Stohr - NW Rare Disease Coalition
 
-#### 28 👎 - Con
+#### 30 👎 - Con
 Testifying:
 * Rozana Knutson
 

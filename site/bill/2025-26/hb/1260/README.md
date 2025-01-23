@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32469&aId=161828&caId=24914&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32469&aId=161828&caId=24914&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Ben Wick - Councilmember, City of Spokane Valley
+* Kelly Konkright - City Attorney, Spokane Valley
+* 💵Nick Federici - [City of Spokane](/org/city_of_spokane/)
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Vicky Dalton - Washington State Assoc of County Auditors

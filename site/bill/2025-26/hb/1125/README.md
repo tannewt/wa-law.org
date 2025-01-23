@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/23 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1125 Sentence modification
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32451&aId=161454&caId=24843&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32451&aId=161454&caId=24843&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32451&aId=161454&caId=24843&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32451&aId=161454&caId=24843&tId=4)
-
-#### 625 👍 - Pro
+#### 812 👍 - Pro
 Testifying:
 * Kimberly Gordon
 * Kimberly Gordon - Washington Association of Criminal Defense Lawyers/Washington Defender Association
@@ -23,8 +17,15 @@ Testifying:
 * Jacob Schmitt - Just Us Solutions
 * Aswad Thomas - Crime Survivors for Safety and Justice
 * Veronica Galvan - Minority and Justice Commission
+* Amanda Knight - Department of Corrections - WCCW
+* 💵Kristin Ang - Faith Action Network (FAN)
+* Azias Ross
+* 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
+* PERCY LEVY
+* Esther Matthews
+* Anthony Powers
 
-#### 233 👎 - Con
+#### 627 👎 - Con
 Testifying:
 * Leslie Paine
 * Tina Reynolds
@@ -36,5 +37,8 @@ Testifying:
 * Tiffany Attrill
 * Gregor Doerr - Washington State Young Republicans
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Cait Lang-Perez - WA State Board of Health

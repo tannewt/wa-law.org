@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/22/2025 [Senate Democrats](/org/senate_democrats/) - [Saldaña bill to reform Washington jail system heard in committee  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/01/22/saldana-bill-to-reform-washington-jail-system-heard-in-committee/#:~:text=Senate%20Bill%205005)
 * 01/21/2025 [KING5](/org/king5/) - [Former inmates urge state oversight of Washington jails amid abuse claims, safety concerns | king5.com](https://www.king5.com/article/news/investigations/investigators/jail-oversight-hearings-washington-state/281-b73e1b56-3e8a-4e02-906c-83ecd5ee57e6#:~:text=Senate%20Bill%205005)
 * 01/14/2025 [KUOW](/org/kuow/) - [KUOW - Local jails in WA could finally get state oversight](https://www.kuow.org/stories/local-jails-in-wa-could-finally-get-state-oversigh#:~:text=new%20proposal)
 * 01/13/2025 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2025 legislative session - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/01/13/kicking-off-the-2025-legislative-session/#:~:text=SB%205005)

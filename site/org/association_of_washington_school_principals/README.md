@@ -6,7 +6,16 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Casey Brown
 
+### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍1  
+* 👍💵 Roz Thompson
+
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
+
+### [SB 5009](/bill/2025-26/sb/5009/) - Modifying the student transportation allocation to accommodate multiple vehicle types for transporting students. 👍1  
+
+### [SB 5120](/bill/2025-26/sb/5120/) - Learning assistance program 👍1  
 
 ### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍1  
 

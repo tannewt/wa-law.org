@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161795&caId=24822&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161795&caId=24822&tId=4)
 
-#### 984 👍 - Pro
+#### 1168 👍 - Pro
 Testifying:
 * Mary Lindsey - President, Washington Education Association-Retired
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
@@ -22,8 +22,11 @@ Testifying:
 * 💵Laurie Weidner - Retired Public Employees Council of WA
 * Paul Joseph Wolcott
 * Jeremy Une - ATU 587
+* James Kresge - RPEC
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Michael McKinley
 
 #### 3 ❓ - Other
 Testifying:

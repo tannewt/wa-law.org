@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/22 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1278 Higher ed. gov./students
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161835&caId=24919&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161835&caId=24919&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161835&caId=24919&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32513&aId=161835&caId=24919&tId=4)
-
-#### 148 👍 - Pro
+#### 157 👍 - Pro
 Testifying:
 * Sean Behl - [Washington Student Association](/org/washington_student_association/)
 * Kellen Hoard - Youth on Boards
@@ -24,7 +18,8 @@ Testifying:
 * Yana Chubarov - 2023-2024 Bellevue College Student Trustee
 * Randy Phillips - Associated Students of Tacoma Community College
 * Daniel Ngoy - Associated Student Government of Bellevue College
+* Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 1 ❓ - Other

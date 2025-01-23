@@ -1,6 +1,9 @@
 # The Washington Bus
 ## 2025-26
 
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+* 👍 Bailey Medilo
+
 ### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
@@ -9,13 +12,16 @@
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
-## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍3  
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍3  
 * 👍💵 Edgar Espino
+
+## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍2  
+* 👍 Bailey Medilo
 
 ## 2023-24
 
-### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants 👍3  
-* 👍💵 Edgar Espino
+### [SB 5402](/bill/2023-24/sb/5402/) - Financial aid eligibility 👍2  
+* 👍 Bailey Medilo
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 * 👍💵 Jazmine Smith

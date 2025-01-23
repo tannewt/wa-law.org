@@ -7,13 +7,16 @@
 ### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍2  
 * 👍 Megan Managan
 
-## [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎2 
+### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎2 
 * 👎 Glen Simecek
+
+## [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks 👍1  
+* 👍 Glen Simecek
 
 ## 2023-24
 
-### [SB 5070](/bill/2023-24/sb/5070/) - Interchange fees on tips  👎2 
-* 👎 Glen Simecek
+### [SB 5280](/bill/2023-24/sb/5280/) - Virtual currency kiosks 👍1  
+* 👍 Glen Simecek
 
 ### [HB 1420](/bill/2023-24/hb/1420/) - Lien priority/mortgages 👍2  
 * 👍💵 Trent House

@@ -7,6 +7,9 @@
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates   ❓1
 * ❓💵 Travis Dutton
 
+### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice.  👎1 
+* 👎💵 Brad Banks
+
 ### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act.   ❓1
 * ❓💵 Kelsey Hulse
 
@@ -16,7 +19,7 @@
 ### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes.   ❓1
 * ❓💵 Travis Dutton
 
-### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review   ❓1
+### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review   ❓2
 
 ### [HB 1183](/bill/2025-26/hb/1183/) - Concerning building code and development regulation reform.   ❓1
 * ❓💵 Curtis Steinhauer
@@ -37,6 +40,10 @@
 * 👍💵 Kelsey Hulse
 
 ### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  
+
+### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎2 
+* 👎💵 Kelsey Hulse
+* 👎💵 Kelsey Hulse
 
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records   ❓1
 * ❓💵 Paul Jewell
@@ -65,11 +72,11 @@
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
 * 👍💵 Kelsey Hulse
 
-## [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍1  
+## [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍2  
 
 ## 2023-24
 
-### [SB 5249](/bill/2023-24/sb/5249/) - Kit home siting 👍1  
+### [SB 5249](/bill/2023-24/sb/5249/) - Kit home siting 👍2  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 
