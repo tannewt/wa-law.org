@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Fri 01/24 10:30 AM - Housing (HSG): SB 5184 Minimum parking requirements
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161747&caId=24761&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161747&caId=24761&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161747&caId=24761&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161747&caId=24761&tId=4)
-
-#### 816 👍 - Pro
+#### 891 👍 - Pro
 Testifying:
 * Catie Gould - [Sightline Institute](/org/sightline_institute/)
 * L Harrison Jerome
@@ -52,11 +46,20 @@ Testifying:
 * Jace Cotton
 * Carston Curd - Councilmember, City of Bothell
 * Kelli Refer - Move Redmond
+* Ty Stober - [City of Vancouver](/org/city_of_vancouver/)
 * Zack Zappone - [City of Spokane](/org/city_of_spokane/)
+* 💵Amy Anderson - [Washington Childcare Centers Association](/org/washington_childcare_centers_association/)
+* Kevin Troutt
+* Sarah Dickmeyer - [Plymouth Housing Group](/org/plymouth_housing_group/)
 
-#### 360 👎 - Con
+#### 409 👎 - Con
 Testifying:
 * Salim Nice - City Mercer Island
+* Michael A Moore - A & M striping
 * Mariya Frost - Kemper Development Company
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Karl Almgren - [City of Lynnwood](/org/city_of_lynnwood/)
+* 💵Amina Abdalla - City of SeaTac
+* 💵Kelsey Hulse - Association of Washington Cities and the Washington State Association of Counties

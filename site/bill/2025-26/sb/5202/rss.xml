@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5202 - Ensuring the efficacy of judicial orders as harm reduction tools that increase the safety of survivors of abuse and support law enforcement in their efforts to enforce the law.</title>
+		<title>SB 5202 - Judicial orders</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5202/</link>
 		<description>Updates about SB 5202</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 08:06:52 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -68,6 +68,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/James/McMahan/2025-01-20 08:06:52</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-23/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

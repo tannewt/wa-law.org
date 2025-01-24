@@ -8,13 +8,9 @@
 
 ## Meetings
 ### Fri 01/24 08:00 AM - Labor & Commerce (LC): SB 5039 DOC WMS employee arbitration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161579&caId=24783&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161579&caId=24783&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161579&caId=24783&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161579&caId=24783&tId=4)
-
-#### 10 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* 💵Brenda Wiest - Teamsters 117
 
 #### 0 👎 - Con
 

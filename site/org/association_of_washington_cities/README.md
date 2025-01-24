@@ -73,7 +73,7 @@
 
 ### [SB 5053](/bill/2025-26/sb/5053/) - PFD formation 👍1  
 
-### [SB 5060](/bill/2025-26/sb/5060/) - Law enf. hiring grants 👍1  
+### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 * 👍💵 Candice Bock
 
 ### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans   ❓2

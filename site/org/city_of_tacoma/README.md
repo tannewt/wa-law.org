@@ -5,8 +5,10 @@
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters.   ❓1
 
-### [SB 5060](/bill/2025-26/sb/5060/) - Law enf. hiring grants 👍1  
+### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 * 👍 Alex MacBain
+
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓1
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 

@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161979&caId=24973&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161979&caId=24973&tId=4)
 
-#### 7 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Richard Pope - Parent of Special Education Student "Aging Out" This Week
 
 #### 0 👎 - Con
 

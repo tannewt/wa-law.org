@@ -8,13 +8,12 @@
 
 ## Meetings
 ### Fri 01/24 08:00 AM - Labor & Commerce (LC): SB 5044 Supp. retirement bargaining
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161581&caId=24785&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161581&caId=24785&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161581&caId=24785&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161581&caId=24785&tId=4)
-
-#### 33 👍 - Pro
+#### 42 👍 - Pro
+Testifying:
+* Chris Malone
+* Scott Williams
+* 💵Brenda Wiest - Teamsters Local 117
+* Daniel Hahn - Danielarthurhahn@hotmail.com
 
 #### 0 👎 - Con
 

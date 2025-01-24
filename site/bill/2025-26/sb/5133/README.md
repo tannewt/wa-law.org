@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/16 10:30 AM - Law & Justice (LAW): SB 5133 Sentencing guide/caregivers

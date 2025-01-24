@@ -37,7 +37,7 @@
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Julia Gorton
 
-### [SB 5060](/bill/2025-26/sb/5060/) - Law enf. hiring grants 👍1  
+### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 
 

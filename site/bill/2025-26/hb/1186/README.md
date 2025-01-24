@@ -8,19 +8,14 @@
 
 ## Meetings
 ### Fri 01/24 08:00 AM - Health Care & Wellness (HCW): HB 1186 Medication dispensing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32443&aId=161431&caId=24883&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32443&aId=161431&caId=24883&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32443&aId=161431&caId=24883&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32443&aId=161431&caId=24883&tId=4)
-
-#### 24 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Cindy Wilson - MultiCare Health System
+* Jenny Arnold - Washington State Pharmacy Association
 * 💵Andrea Howell - Pullman Regional Hospital
 * Katie Kolan - Washington State Hospital Association
 * Kelly Thompson - Forks Community Hospital
 
-#### 1 👎 - Con
+#### 16 👎 - Con
 
 #### 0 ❓ - Other

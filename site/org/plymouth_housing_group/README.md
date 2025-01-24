@@ -12,7 +12,8 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
-### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍2  
+* 👍 Sarah Dickmeyer
 
 ## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/23/2025 [MyNorthwest](/org/mynorthwest/) - [Democrats pull a fast one on voters, gut parental rights initiative](https://mynorthwest.com/ktth/ktth-opinion/rantz-wa-democrats-pulled-a-fast-one-on-voters-as-they-undo-parental-rights-initiative/4029200#:~:text=Senate%20Bill%205181)

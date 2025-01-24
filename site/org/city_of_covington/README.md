@@ -20,11 +20,11 @@
 * ❓ Jeff Wagner
 * ❓ Jeff Wagner
 
-## [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
+## [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎2 
 
 ## 2023-24
 
-### [SB 5184](/bill/2023-24/sb/5184/) - Minimum parking requirements  👎1 
+### [SB 5184](/bill/2023-24/sb/5184/) - Minimum parking requirements  👎2 
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
 

@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Fri 01/24 08:00 AM - Health & Long Term Care (HLTC): SB 5121 Fertility-related services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161673&caId=24753&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161673&caId=24753&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161673&caId=24753&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161673&caId=24753&tId=4)
-
-#### 584 👍 - Pro
+#### 623 👍 - Pro
 Testifying:
 * Erica Tomas
 * Eliana Horn
@@ -31,7 +25,7 @@ Testifying:
 * Jenna Comstock - QLaw
 * Dr. Kimberley Riehle
 
-#### 804 👎 - Con
+#### 875 👎 - Con
 Testifying:
 * Theresa Schrempp
 * Mary Long - Conservative Ladies of Washington
@@ -39,6 +33,7 @@ Testifying:
 * Theresaa Schrempp
 * Theresaa Schrempp
 * Theresa Schrempp
+* Michael A Moore - A & M striping
 
 #### 5 ❓ - Other
 Testifying:

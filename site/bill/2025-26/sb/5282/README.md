@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32528&aId=161848&caId=25017&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32528&aId=161848&caId=25017&tId=4)
 
-#### 30 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Franklin Wilson - Triple F's Investigation
 * Colin Wood - CAGE
+* Mick Woynarowski
+* Bryan Glant
 
 #### 0 👎 - Con
 

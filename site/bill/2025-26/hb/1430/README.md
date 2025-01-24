@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161912&caId=25136&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161912&caId=25136&tId=4)
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Justin Gill - President, Washington State Nurses Association
 
 #### 1 👎 - Con
 Testifying:

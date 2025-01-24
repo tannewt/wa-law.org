@@ -13,7 +13,8 @@
 ### [HB 1298](/bill/2025-26/hb/1298/) - Student athlete insurance 👍1  
 * 👍 Joe Dacca
 
-### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍2  
+### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍3  
+* 👍 Charles Marcus
 * 👍 Charles Marcus
 
 ### [SB 5158](/bill/2025-26/sb/5158/) - Student athlete insurance 👍1  
@@ -22,13 +23,14 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Morgan Hickel
 
-## [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 * 👍 Joe Dacca
+
+## [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍1  
 
 ## 2023-24
 
-### [SB 5195](/bill/2023-24/sb/5195/) - Capital budget 👍1  
-* 👍 Joe Dacca
+### [SB 5321](/bill/2023-24/sb/5321/) - Postsecondary/med. abortion 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

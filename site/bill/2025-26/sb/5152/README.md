@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/24 10:30 AM - State Government & Elections (SGE): SB 5152 Journal access/state empl.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32483&aId=161568&caId=24813&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32483&aId=161568&caId=24813&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32483&aId=161568&caId=24813&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32483&aId=161568&caId=24813&tId=4)
-
-#### 37 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Natalie Marshall - Washington AgForestry Leadership Program
@@ -23,6 +17,8 @@ Testifying:
 * Stacey Rasmussen - AgForestry Leadership
 * Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
 
-#### 310 👎 - Con
+#### 374 👎 - Con
+Testifying:
+* Michael A Moore - A & M striping
 
 #### 1 ❓ - Other

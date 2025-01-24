@@ -56,6 +56,9 @@
 
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 
+### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel  👎1 
+* 👎💵 Paul Jewell
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 
 ### [SB 5089](/bill/2025-26/sb/5089/) - Concerning funding rural county coroners and medical examiners. 👍1  

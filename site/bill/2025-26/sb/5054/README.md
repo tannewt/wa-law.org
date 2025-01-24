@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Fri 01/24 08:00 AM - Labor & Commerce (LC): SB 5054 Winery tax exemption
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161583&caId=24786&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161583&caId=24786&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161583&caId=24786&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161583&caId=24786&tId=4)
-
-#### 7 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * PAUL BEVERIDGE - Wilridge Vineyard, Winery & Distillery
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

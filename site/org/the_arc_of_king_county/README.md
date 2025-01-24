@@ -1,6 +1,8 @@
 # The Arc of King County
 ## 2025-26
 
+### [HB 1130](/bill/2025-26/hb/1130/) - Concerning utilization of developmental disabilities waivers. 👍1  
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Ramona Hattendorf
 
@@ -15,6 +17,15 @@
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+
+### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍1  
+* 👍💵 Ramona Hattendorf
+
+### [HB 1344](/bill/2025-26/hb/1344/) - Respite care 👍1  
+
+### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
+
+### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍1  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
 
@@ -34,7 +45,7 @@
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 
-### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍1  
+### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍2  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 

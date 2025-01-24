@@ -4,7 +4,7 @@
 ### [HB 1119](/bill/2025-26/hb/1119/) - Concerning supervision compliance credit.  👍1  
 * 👍 Cindy Elsberry
 
-### [HB 1137](/bill/2025-26/hb/1137/) - Establishing uniform policies and procedures within department of corrections facilities relating to disciplinary proceedings and administrative segregation. 👍1  
+### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍1  
 * 👍 Cindy Elsberry
 
 ### [HB 1178](/bill/2025-26/hb/1178/) - Concerning sentencing enhancements. 👍1  

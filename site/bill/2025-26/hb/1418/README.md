@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32535&aId=161940&caId=25068&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32535&aId=161940&caId=25068&tId=4)
 
-#### 18 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Sarah Howe - Washington Council of the Blind
 * Joe Kunzler
+* Jamin Mason
+* Jamin Mason
 
 #### 0 👎 - Con
 

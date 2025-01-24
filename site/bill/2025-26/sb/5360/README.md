@@ -8,20 +8,20 @@
 
 ## Meetings
 ### Fri 01/24 10:30 AM - Environment, Energy & Technology (ENET): SB 5360 Environmental crimes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161847&caId=24936&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161847&caId=24936&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161847&caId=24936&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161847&caId=24936&tId=4)
-
-#### 10 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Bradley Roberts - Washington State Attorney Generals Office
 * Melissa Malott - Communities for a Healthy Bay
 * Stefanie Stockwell - Communities for a Healthy Bay
+* Sean Dixon - Puget Soundkeeper Alliance
 
-#### 35 👎 - Con
+#### 80 👎 - Con
 Testifying:
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Mark Anderson - 215 Christensen rd
+* DUNCAN GREENE - N/A (self)
+* Pete Benedict
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* john worthington

@@ -10,7 +10,7 @@
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍4  
 * 👍 Heather Tow-Yick
 
-### [SB 5190](/bill/2025-26/sb/5190/) - Allowing school districts to request extensions to state energy performance standard deadlines for K-12 school buildings. 👍1  
+### [SB 5190](/bill/2025-26/sb/5190/) - School building energy perf. 👍1  
 * 👍 Martin Turney
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍3  

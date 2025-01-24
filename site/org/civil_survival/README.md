@@ -4,7 +4,7 @@
 ### [HB 1110](/bill/2025-26/hb/1110/) - DUI conviction vacation 👍1  
 * 👍 Laura Del Villar
 
-### [HB 1137](/bill/2025-26/hb/1137/) - Establishing uniform policies and procedures within department of corrections facilities relating to disciplinary proceedings and administrative segregation. 👍1  
+### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍1  
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
 

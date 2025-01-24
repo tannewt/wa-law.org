@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32589&aId=162155&caId=24983&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32589&aId=162155&caId=24983&tId=4)
 
-#### 30 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Andrew Loomis - Avamere
 * Ken Gardner - SEIU 775 Benefits Group

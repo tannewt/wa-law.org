@@ -14,14 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162116&caId=25102&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162116&caId=25102&tId=4)
 
-#### 155 👍 - Pro
+#### 368 👍 - Pro
 Testifying:
 * Tracy Turner - Sail
 
-#### 35 👎 - Con
+#### 45 👎 - Con
 Testifying:
 * Mary Mead
 * Erica Engelhart
+* Elona Kearney
 * Cemal Richards
 
 #### 0 ❓ - Other

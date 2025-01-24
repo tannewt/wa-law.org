@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5209/</link>
 		<description>Updates about SB 5209</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 19 Jan 2025 03:20:25 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Tammy/Fellin/2025-01-19 03:20:25</guid>
+		</item>
+		<item>
+			<title>LAW - Majority; do pass.</title>
+			<description>LAW - Majority; do pass.</description>
+			<pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-23/LAW - Majority; do pass.</guid>
 		</item>
 	</channel>
 </rss>

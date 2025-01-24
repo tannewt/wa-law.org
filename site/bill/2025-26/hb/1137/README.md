@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1137](/bill/2025-26/hb/1137/)
 
-# HB 1137 - Establishing uniform policies and procedures within department of corrections facilities relating to disciplinary proceedings and administrative segregation.
+# HB 1137 - DOC discipline
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1137&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201137)

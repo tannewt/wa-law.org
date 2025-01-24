@@ -19,8 +19,9 @@ Testifying:
 * 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * 💵Jessica Spiegel - WSPA
+* Ben Buchholz - NW Agricultural Cooperative Council, WA Friends of Farms and Forests, Far West Agribusiness Assoc.
 
 #### 0 ❓ - Other

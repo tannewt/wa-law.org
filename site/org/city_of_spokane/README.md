@@ -7,7 +7,7 @@
 ### [HB 1260](/bill/2025-26/hb/1260/) - Document recording fee admin 👍1  
 * 👍💵 Nick Federici
 
-### [SB 5060](/bill/2025-26/sb/5060/) - Law enf. hiring grants 👍1  
+### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 
 ## [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 * 👍 Zack Zappone

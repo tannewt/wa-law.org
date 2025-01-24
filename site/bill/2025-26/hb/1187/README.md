@@ -29,6 +29,8 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Shaun Ford - Washington Fire Chief's Association
 
 #### 0 ❓ - Other

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161954&caId=25052&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161954&caId=25052&tId=4)
 
-#### 67 👍 - Pro
+#### 76 👍 - Pro
 Testifying:
 * Susan Kane-Ronning - Washington Sierra Club Wildlife Committee
 * Juan Peralez - Unidos of Snohomish County
@@ -25,7 +25,8 @@ Testifying:
 * Rachel Haymon
 * Lynn Mason - Coexisting with Cougars in Klickitat County
 * Josh Rosenau - [Mountain Lion Foundation](/org/mountain_lion_foundation/)
+* 💵Courtney Normand - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

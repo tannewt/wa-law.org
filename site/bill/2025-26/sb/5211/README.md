@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161995&caId=25002&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161995&caId=25002&tId=4)
 
-#### 125 👍 - Pro
+#### 185 👍 - Pro
 Testifying:
 * hengshan liu - no
 * Jessica Morrow
@@ -22,7 +22,16 @@ Testifying:
 * laura blankenship
 * Alexander Toole
 * Amanda Harpell-Franz
+* Angela Jovel - Open Doors
+* Jessica Morrow - Impacted parent
+* Kimie Nova - Impacted parent
 * Teena Curry - My Mother, Pat Curry
+* Carolyn Ringo - Sacred Heart Children’s Hospital
+* Demas Nesterenko - SEIU 775
+* 💵Mike Pugsley - Ashley House NW
+* Alexander Toole - Self advocate
+* Bevan Martin - Impacted parent
+* Melissa Kansan - Impacted parent
 
 #### 0 👎 - Con
 

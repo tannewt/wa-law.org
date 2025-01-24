@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/24 08:00 AM - Consumer Protection & Business (CPB): HB 1230 Disability insurer filings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32527&aId=161787&caId=24851&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32527&aId=161787&caId=24851&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32527&aId=161787&caId=24851&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32527&aId=161787&caId=24851&tId=4)
-
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Rory Paine-Donovan - Office of the Insurance Commissioner
 * Tyler Langford - Office of the Insurance Commissioner

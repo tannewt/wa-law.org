@@ -27,7 +27,7 @@
 
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
 
-### [SB 5071](/bill/2025-26/sb/5071/) - Controlled sub. endangerment 👍1  
+### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger. 👍1  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act.  👎1 
 

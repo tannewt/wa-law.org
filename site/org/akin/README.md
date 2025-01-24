@@ -1,6 +1,8 @@
 # Akin
 ## 2025-26
 
+### [HB 1177](/bill/2025-26/hb/1177/) - Concerning the child welfare housing assistance program. 👍1  
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Samantha Masters
 

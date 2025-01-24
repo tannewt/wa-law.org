@@ -31,11 +31,14 @@
 
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax 👍1  
 
+### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
+* 👍💵 Courtney Normand
+
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍1  
 
-### [SB 5093](/bill/2025-26/sb/5093/) - Concerning dignity in pregnancy loss. 👍1  
+### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍1  
 
 ### [SB 5099](/bill/2025-26/sb/5099/) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers. 👍1  
 

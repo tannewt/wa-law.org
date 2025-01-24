@@ -48,6 +48,9 @@
 
 ### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍1  
 
+### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor 👍1  
+* 👍💵 Mark Johnson
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
 
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs  👎1 
@@ -55,7 +58,7 @@
 ### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates   ❓1
 * ❓💵 Mark Johnson
 
-### [SB 5060](/bill/2025-26/sb/5060/) - Law enf. hiring grants 👍1  
+### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 * 👍💵 Crystal Leatherman
 
 ### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍1  

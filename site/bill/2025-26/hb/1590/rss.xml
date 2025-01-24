@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1590 - Supporting student success through instruction in self-resiliency skills.</title>
+		<link>https://wa-law.org/bill/2025-26/hb/1590/</link>
+		<description>Updates about HB 1590</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 24 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Education.</title>
+			<description>First reading, referred to Education.</description>
+			<pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-24/First reading, referred to Education.</guid>
+		</item>
+	</channel>
+</rss>

@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Fri 01/24 10:30 AM - Housing (HSG): SB 5148 GMA housing element
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161746&caId=24760&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161746&caId=24760&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161746&caId=24760&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161746&caId=24760&tId=4)
-
-#### 376 👍 - Pro
+#### 423 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
@@ -28,8 +22,11 @@ Testifying:
 * MARY HULL-DRURY - Washington Realtors
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 346 👎 - Con
+#### 392 👎 - Con
 Testifying:
 * Salim Nice - [City of Mercer Island](/org/city_of_mercer_island/)
+* 💵Kelsey Hulse - Association of Washington Cities and Washington State Association of Counties
 
-#### 5 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* Karl Almgren - [City of Lynnwood](/org/city_of_lynnwood/)

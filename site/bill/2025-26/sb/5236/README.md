@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Fri 01/24 10:30 AM - Environment, Energy & Technology (ENET): SB 5236 Anesthetics/greenhouse gases
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161737&caId=24745&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161737&caId=24745&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161737&caId=24745&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161737&caId=24745&tId=4)
-
-#### 280 👍 - Pro
+#### 315 👍 - Pro
 Testifying:
 * Mark Vossler - Washington Physicians for Social Responsibility
 * Elizabeth Hansen - Washington Physicians for Social Responsibility
@@ -26,8 +20,11 @@ Testifying:
 * Kate White Tudor - Natural Resources Defense Council
 * Ivy Lin
 
-#### 342 👎 - Con
+#### 417 👎 - Con
+Testifying:
+* Michael A Moore - A & M striping
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Kelli Camp - Washington Association of Nurse Anesthesiology
+* Joel Creswell - Washington State Department of Ecology

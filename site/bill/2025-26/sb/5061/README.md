@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/24 08:00 AM - Labor & Commerce (LC): SB 5061 Public works wages
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161809&caId=24787&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161809&caId=24787&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161809&caId=24787&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161809&caId=24787&tId=4)
-
-#### 41 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * Chris Ellis - Bricklayers and Allied Craftworkers, Local 1
 * 💵John Traynor - Washington State Labor Council, AFL-CIO
@@ -23,12 +17,15 @@ Testifying:
 * Jesse Cervantes - Western States Regional Council of Carpenters (WSRCC)
 * Pete Butler - south sound NECA chapter
 * Timothy O'Donnell - IBEW 76
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
-#### 15 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * 💵Carolyn Logue - Associated Builders & Contractors - Inland Pacific Chapter
 * 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
 * Jerry VanderWood - Associated General Contractors (AGC)
 * 💵Brandon Houskeeper - Associated Builders & Contractors - Western WA
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* 💵Paula Sardinas - WBBA

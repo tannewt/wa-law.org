@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5190](/bill/2025-26/sb/5190/)
 
-# SB 5190 - Allowing school districts to request extensions to state energy performance standard deadlines for K-12 school buildings.
+# SB 5190 - School building energy perf.
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5190&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/16 10:30 AM - Early Learning & K-12 Education (EDU): SB 5190 Allowing school districts to request extensions to state energy performance standard deadlines for K-12 school buildings. (Remote Testimony Available). (If measure is referred to committee.)

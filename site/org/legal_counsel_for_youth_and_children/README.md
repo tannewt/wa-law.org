@@ -16,13 +16,13 @@
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
-### [SB 5071](/bill/2025-26/sb/5071/) - Controlled sub. endangerment  👎1 
+### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.    ❓1
 
-### [SB 5105](/bill/2025-26/sb/5105/) - Concerning offenses involving fabricated depictions of minors.   ❓1
+### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions   ❓1
 
 ### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍1  
 

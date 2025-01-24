@@ -8,16 +8,11 @@
 
 ## Meetings
 ### Fri 01/24 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1360 Quantum economic development
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32495&aId=161865&caId=24942&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32495&aId=161865&caId=24942&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32495&aId=161865&caId=24942&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32495&aId=161865&caId=24942&tId=4)
-
-#### 11 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Nancy Allbritton - Dean, College of Engineering, University of Washington
 * Michael Forbes - Washington State University
+* Charles Marcus - [University of Washington](/org/university_of_washington/)
 * Charles Marcus - [University of Washington](/org/university_of_washington/)
 
 #### 1 👎 - Con

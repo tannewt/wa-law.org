@@ -11,19 +11,19 @@
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  
 
-### [SB 5105](/bill/2025-26/sb/5105/) - Concerning offenses involving fabricated depictions of minors. 👍1  
+### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍1  
 
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
 
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
 * 👍💵 Elizabeth Hendren
 
-## [SB 5202](/bill/2025-26/sb/5202/) - Ensuring the efficacy of judicial orders as harm reduction tools that increase the safety of survivors of abuse and support law enforcement in their efforts to enforce the law. 👍1  
+## [SB 5202](/bill/2025-26/sb/5202/) - Judicial orders 👍1  
 * 👍 Alexander Bejaran Estevez
 
 ## 2023-24
 
-### [SB 5202](/bill/2023-24/sb/5202/) - Ensuring the efficacy of judicial orders as harm reduction tools that increase the safety of survivors of abuse and support law enforcement in their efforts to enforce the law. 👍1  
+### [SB 5202](/bill/2023-24/sb/5202/) - Judicial orders 👍1  
 * 👍 Alexander Bejaran Estevez
 
 ### [HB 1028](/bill/2023-24/hb/1028/) - Crime victims & witnesses 👍1  

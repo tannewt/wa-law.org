@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/24 08:00 AM - Consumer Protection & Business (CPB): HB 1199 Insurance code violations
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32527&aId=161786&caId=24850&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32527&aId=161786&caId=24850&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32527&aId=161786&caId=24850&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32527&aId=161786&caId=24850&tId=4)
-
-#### 270 👍 - Pro
+#### 282 👍 - Pro
 Testifying:
 * Kevin Wren - Washington #insulin4all
 * Bryon Welch - Office of the Insurance Commissioner
@@ -24,4 +18,8 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Brandon Vick - National Association of Mutual Insurance Companies (NAMIC)
+* 💵Kenton Brine - NW Insurance Council
+* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)

@@ -8,15 +8,10 @@
 
 ## Meetings
 ### Fri 01/24 10:30 AM - State Government & Elections (SGE): SB 5049 Sunshine committee
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32483&aId=161569&caId=24814&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32483&aId=161569&caId=24814&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32483&aId=161569&caId=24814&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32483&aId=161569&caId=24814&tId=4)
-
-#### 4 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * 💵Rowland Thompson - Sunshine Committee
+* 💵Donna Christensen - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
 
 #### 0 👎 - Con
 

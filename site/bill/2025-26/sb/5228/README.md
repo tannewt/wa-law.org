@@ -8,16 +8,16 @@
 
 ## Meetings
 ### Fri 01/24 08:00 AM - Health & Long Term Care (HLTC): SB 5228 Health disparities council
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161672&caId=24752&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161672&caId=24752&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161672&caId=24752&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161672&caId=24752&tId=4)
-
-#### 36 👍 - Pro
-
-#### 1350 👎 - Con
+#### 47 👍 - Pro
 Testifying:
+* Linh Huynh - Governor's Interagency Council on Health Disparities
+* Lydia Faitalia - WA State Commission on Asian Pacific American Affairs
+* Sili Savusa - Pacific Islander Community Association of WA
+* Victor Rodriguez - Governor's Interagency Council on Health Disparities
+
+#### 1506 👎 - Con
+Testifying:
+* Michael A Moore - A & M striping
 * Mary Long - Conservative Ladies of Washington
 
 #### 28 ❓ - Other

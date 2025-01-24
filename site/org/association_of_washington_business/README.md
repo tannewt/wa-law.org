@@ -131,10 +131,12 @@
 ### [SB 5104](/bill/2025-26/sb/5104/) - Protecting employees from coercion in the workplace based on immigration status.   ❓1
 * ❓💵 Lindsey Hueer
 
-### [SB 5105](/bill/2025-26/sb/5105/) - Concerning offenses involving fabricated depictions of minors. 👍1  
+### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍1  
 * 👍💵 Morgan Irwin
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
+
+### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act. 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎 Max Martin
@@ -154,6 +156,8 @@
 ### [SB 5236](/bill/2025-26/sb/5236/) - Anesthetics/greenhouse gases 👍1  
 
 ### [SB 5241](/bill/2025-26/sb/5241/) - Fusion energy facilities 👍1  
+
+### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍1  
 
 ### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
 * 👎💵 Lindsey Hueer

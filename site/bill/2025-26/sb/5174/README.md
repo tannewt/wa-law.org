@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Fri 01/24 10:30 AM - Environment, Energy & Technology (ENET): SB 5174 Wood burning devices
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161846&caId=24935&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161846&caId=24935&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161846&caId=24935&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161846&caId=24935&tId=4)
-
-#### 143 👍 - Pro
+#### 149 👍 - Pro
 Testifying:
 * Kathy Taylor - Washington State Department of Ecology
 * Mark Vossler - Washington Physicians for Social Responsibility
+* Rachel Chu
 
-#### 546 👎 - Con
+#### 817 👎 - Con
 Testifying:
 * 💵Carolyn Logue - NW Hearth, Patio & Barbecue Association
 * Chris Neufeld - Blaze King Industries, Inc.
@@ -28,6 +23,14 @@ Testifying:
 * Daniel Hammer - SUTTER HOME & HEARTH, INC.
 * Kenneth Spaeth
 * Edward Hosack - Travis Industries, Inc
+* Michael A Moore - A & M striping
+* Johnny Austin
 * Paul Scherling - Bell Services, LLC
+* Teagan Levine - Tonasket City Council Position #1
+* Todd Lee
+* Rian Corne
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Annie Doubleday - Washington State Department of Health
+* Rodney Tollefson

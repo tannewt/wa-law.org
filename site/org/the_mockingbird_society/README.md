@@ -18,7 +18,7 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
-### [SB 5071](/bill/2025-26/sb/5071/) - Controlled sub. endangerment  👎1 
+### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍16  
 * 👍💵 Charles Smith

@@ -1,0 +1,526 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1599](/bill/2025-26/hb/1599/) > [Original Bill](/bill/2025-26/hb/1599/1/)
+
+# HB 1599 - Concerning consumer debt adjusters and debt resolution services providers.
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1599.pdf)
+
+## Section 1
+Unless a different meaning is plainly required by the context, the following words and phrases as hereinafter used in this chapter shall have the following meanings:
+
+1. "Bank" means a financial institution, including a commercial bank, savings bank, savings and loan association, credit union, mortgage bank, or trust company, in each case engaged in the business of banking, that is chartered under federal or state law by a federal or state banking regulatory agency.
+
+2. "Business address" means the designation of the physical location of a business, including the name and number of a street.
+
+3. "Business day" means a calendar day, except for Saturdays, Sundays, and legal holidays.
+
+4. "Consumer" means an individual who has executed a contract with a licensee.
+
+5. "Contract" means a written agreement between a licensee and a consumer that meets the requirements of RCW 18.28.100.
+
+6. "Creditor" means a person that has extended credit to a consumer, including any agent or assignee of the person.
+
+7. "Debt adjuster," which includes any person known as a debt pooler, debt manager, debt consolidator, debt prorater, or credit counselor, is any person engaging in or holding himself or herself out as engaging in the business of debt adjusting for compensation and that holds a valid license issued pursuant to this chapter. A debt adjuster is not a debt resolution services provider.
+
+8. "Debt adjusting" means the managing, counseling,  adjusting, prorating, or liquidating of the indebtedness of a consumer, or receiving funds for the purpose of distributing said funds among creditors in payment or partial payment of obligations of a consumer.
+
+9. "Debt adjusting agency" is any partnership, corporation, or association engaging in or holding itself out as engaging in the business of debt adjusting.
+
+10. "Debt resolution services" means any program or service represented, directly or by implication, to renegotiate, settle, or in any way alter the terms of payment or other terms of the debt between a consumer and one or more unsecured creditors including, but not limited to, a reduction in the balance, interest rate, or fees owed by a consumer to an unsecured creditor.
+
+11. "Debt resolution services provider" means any person engaging in, or holding himself or herself out as engaging in, the business of providing debt adjusting services for compensation and that holds a valid license issued pursuant to this chapter. A debt resolution services provider is not a debt adjuster.
+
+12. "Dedicated account" means an account that meets the criteria set forth in section 20 of this act.
+
+13. "Dedicated account service provider" means an entity that facilitates transactions authorized by a consumer enrolled in a debt resolution services program, pursuant to the terms of 16 C.F.R. Sec. 310.4(a)(5)(ii).
+
+14. "Department" means the department of financial institutions.
+
+15. "Director" means the director of the department of financial institutions.
+
+16. "Fair share" means the creditor contributions paid to nonprofit debt adjusters by the creditors whose consumers receive debt adjusting services from the nonprofit debt adjusters and pay down their debt accordingly. "Fair share" does not include grants received by nonprofit debt adjusters for services unrelated to debt adjusting.
+
+17. "Financial institution" means any person doing business under the laws of any state or the United States relating to commercial banks, bank holding companies, savings banks, savings and loan associations, trust companies, or credit unions.
+
+18. "Licensee" means a provider of debt adjusting or debt resolution services that possesses a valid license issued pursuant to this chapter.
+
+19. "Person" means any individual, group, unincorporated association, limited or general partnership, corporation, or other business entity.
+
+20. "Third‑party account administrator" means an independent entity that holds or administers a dedicated bank account for fees and payments to creditors, debt collectors, debt adjusters, or debt adjusting agencies in connection with the renegotiation, settlement, reduction, or other alteration of the terms of payment or other terms of a debt.
+
+## Section 2
+1. By contract a licensee providing debt adjusting services may charge a reasonable fee . The total fee for debt adjusting services, including, but not limited to, any fee charged by a financial institution or a third-party account administrator, may not exceed 15 percent of the total debt listed by the consumer on the contract. The fee retained by the debt adjuster from any one payment made by or on behalf of the consumer may not exceed 15 percent of the payment not including fair share contributions to a nonprofit debt adjuster. The debt adjuster may make an initial charge of up to $25 which shall be considered part of the total fee. If an initial charge is made, no additional fee may be retained which will bring the total fee retained to date to more than 15 percent of the total payments made to date. No fee whatsoever shall be applied against rent and utility payments for housing.
+
+In the event of cancellation or default on performance of the contract by the consumer prior to its successful completion, the licensee may collect in addition to fees previously received, six percent of that portion of the remaining indebtedness listed on said contract which was due when the contract was entered into, but not to exceed $25.
+
+2. A licensee providing debt adjusting services shall not be entitled to retain any fee until notifying all creditors listed by the consumer that the consumer has engaged the debt adjuster in a program of debt adjusting.
+
+## Section 3
+If a licensee providing debt adjusting services contracts for, receives or makes any charge in excess of the maximums permitted by RCW 18.28.080, except as the result of an accidental and bona fide error, the debt adjuster's contract with the consumer shall be void and the debt adjuster shall return to the consumer the amount of all payments received from the consumer or on the consumer's behalf and not distributed to creditors.
+
+## Section 4
+1. Every contract between a licensee providing debt adjusting services and a consumer shall:
+
+    a. List every debt to be handled with the creditor's name and disclose the approximate total of all known debts;
+
+    b. Provide in precise terms payments reasonably within the ability of the consumer to pay;
+
+    c. Disclose in precise terms the rate and amount of all of the debt adjuster's charges and fees;
+
+    d. Disclose the approximate number and amount of installments required to pay the debts in full;
+
+    e. Disclose the name and address of the debt adjuster and of the consumer;
+
+    f. Provide that the debt adjuster shall notify the consumer, in writing, within five days of notification to the debt adjuster by a creditor that the creditor refuses to accept payment pursuant to the contract between the debt adjuster and the consumer;
+
+    g. Contain the following notice in 10 point boldface type or larger directly above the space reserved in the contract for the signature of the consumer: NOTICE TO CONSUMER:
+
+        i. Do not sign this contract before you read it or if any spaces intended for the agreed terms are left blank.
+
+        ii. You are entitled to a copy of this contract at the time you sign it.
+
+        iii. You may cancel this contract within three days of signing by sending notice of cancellation by certified mail return receipt requested to the debt adjuster at his or her address shown on the contract, which notice shall be posted not later than midnight of the third day (excluding Sundays and holidays) following your signing of the contract; and
+
+    h. Contain such other and further provisions or disclosures as are necessary for the protection of the consumer and the proper conduct of business by the debt adjuster.
+
+2. Every contract between a licensee providing debt resolution services and a consumer shall disclose:
+
+    a. The services the licensee will perform;
+
+    b. The methodology that the licensee will use to calculate fees to be charged for debt resolution services and, if reasonably available at the time the contract is executed, the fees that the licensee will charge;
+
+    c. The amount of time estimated on a good-faith basis to be necessary to achieve the resolution of all enrolled debts, and to the extent that the service may include a resolution offer to any of the consumer's creditors, the time estimated on a good-faith basis when the debt resolution services provider will make a bona fide resolution offer to each of them;
+
+    d. To the extent that the debt resolution services may include a resolution offer to any of the consumer's creditors, the amount of money or the percentage of each outstanding debt that the consumer must accumulate before the debt resolution services provider will make a bona fide resolution offer to each of them;
+
+    e. That debt resolution services may not be suitable for all individuals;
+
+    f. To the extent that any aspect of the debt resolution services relies upon or results in the consumer's failure to make timely payments to creditors, that the failure to pay one's debts will likely adversely affect the consumer's creditworthiness, may result in the consumer being subject to collections efforts, including lawsuits by creditors, and may increase the amount of money the consumer owes due to the accrual of fees and interest;
+
+    g. That, unless the consumer is insolvent, if a creditor resolves a debt for less than its full amount, the resolution may result in the creation of taxable income to the consumer, even though the consumer does not receive any money;
+
+    h. That specific results cannot be predicted or guaranteed, and the licensee cannot require a creditor to negotiate or resolve a debt;
+
+        i. That debt resolution services programs require that individuals meet regular savings goals in order to enable resolutions;
+
+    j. That the licensee does not provide tax, accounting, or legal advice to individuals, unless the licensee is licensed in this state to provide such advice;
+
+    k. That the licensee is the consumer's advocate and does not receive compensation of any sort from creditors for providing debt resolution services to the consumer;
+
+    l. That the licensee does not make monthly or other payments to the consumer's creditors;
+
+    m. The list of debts that the contract covers; and
+
+    n. That, if applicable, the consumer's rights are subject to mandatory arbitration of any and all disputes with the debt resolution services provider.
+
+3. A contract may not:
+
+    a. Provide for the application of the law of any jurisdiction other than the United States and this state;
+
+    b. Except as otherwise permitted by the laws of this state and the federal arbitration act, 9 U.S.C. Sec. 1 et seq., contain a provision that restricts an individual's remedies under this chapter or any other law of this state; or
+
+    c. Contain a provision that limits or releases the liability of any person for not performing the contract or for violating this chapter.
+
+## Section 5
+Every licensee providing debt adjusting services shall perform the following functions:
+
+1. Make a permanent record of all payments by consumers, or on the consumers' behalf, and of all disbursements to creditors of such consumers, and shall keep and maintain in this state all such records, and all payments not distributed to creditors. No person shall intentionally make any false entry in any such record, or intentionally mutilate, destroy, or otherwise dispose of any such record. Such records shall at all times be open for inspection by the attorney general or the department, and shall be preserved as original records or by microfilm or other methods of duplication for at least six years after making the final entry therein.
+
+2. Deliver a completed copy of the contract between the debt adjuster and a consumer to the consumer immediately after the consumer executes the contract, and sign the consumer's copy of such contract.
+
+3. Unless paid by check or money order, deliver a receipt to a consumer for each payment within five days after receipt of such payment.
+
+4. Distribute to the creditors of the consumer at least once each 40 days after receipt of payment during the term of the contract at least 85 percent of each payment received from the consumer.
+
+5. At least once every month render an accounting to the consumer which shall indicate the total amount received from or on behalf of the consumer, the total amount paid to each creditor, the total amount which any creditor has agreed to accept as payment in full on any debt owed the creditor by the consumer, the amount of charges deducted, and any amount held in trust. The debt adjuster shall in addition render such an account to a consumer within 10 days after written demand.
+
+6. Notify the consumer, in writing, within five days of notification to the debt adjuster by a creditor that the creditor refuses to accept payment pursuant to the contract between the debt adjuster and the consumer.
+
+## Section 6
+A licensee providing debt adjusting services shall not:
+
+1. Take any contract, or other instrument which has any blank spaces when signed by the consumer;
+
+2. Receive or charge any fee in the form of a promissory note or other promise to pay or receive or accept any mortgage or other security for any fee, whether as to real or personal property;
+
+3. Lend money or credit;
+
+4. Take any confession of judgment or power of attorney to confess judgment against the consumer or appear as the consumer in any judicial proceedings;
+
+5. Take, concurrent with the signing of the contract or as a part of the contract or as part of the application for the contract, a release of any obligation to be performed on the part of the debt adjuster;
+
+6.
+
+Offer, pay, or give any cash, fee, gift, bonus, premiums, reward, or other compensation to any person for referring any prospective customer to the debt adjuster;
+
+7. Receive any cash, fee, gift, bonus, premium, reward, or other compensation, other than fair share contributions to a nonprofit debt adjuster, from any person other than the consumer or a person in the consumer's behalf in connection with his or her activities as a debt adjuster; or
+
+8. Disclose to anyone the consumers who have contracted with the debt adjuster; nor shall the debt adjuster disclose the creditors of a consumer to anyone other than: (a) The consumer; or (b) another creditor of the consumer and then only to the extent necessary to secure the cooperation of such a creditor in a debt adjusting plan.
+
+## Section 7
+Without limiting the generality of the foregoing and other applicable laws, the licensee providing debt adjusting services, manager, or an employee of the debt adjuster shall not:
+
+1. Prepare, advise, or sign a release of attachment or garnishment, stipulation, affidavit for exemption, compromise agreement or other legal or court document, nor furnish legal advice or perform legal services of any kind;
+
+2. Represent that he or she is authorized or competent to furnish legal advice or perform legal services;
+
+3. Assume authority on behalf of creditors or a consumer or accept a power of attorney authorizing it to employ or terminate the services of any attorney or to arrange the terms of or compensate for such services; or
+
+4. Communicate with the consumer or creditor or any other person in the name of any attorney or upon the stationery of any attorney or prepare any form or instrument which only attorneys are authorized to prepare.
+
+## Section 8
+Nothing in this chapter shall be construed as prohibiting the assignment of wages by a consumer to a licensee providing debt adjusting services, if such assignment is otherwise in accordance with the law of this state.
+
+## Section 9
+1. Any payment received by a licensee providing debt adjusting services from or on behalf of a consumer shall be held in trust by the debt adjuster from the moment it is received. The debt adjuster shall not commingle such payment with the debt adjuster's own property or funds, but shall maintain a separate trust account and deposit in such account all such payments received. All disbursements whether to the consumer or to the creditors of the consumer, or to the debt adjuster, shall be made from such account.
+
+2. In the event that the consumer cancels or defaults on the contract between the consumer and the debt adjuster, the debt adjuster shall close out the consumer's trust account in the following manner:
+
+    a. The debt adjuster may take from the account that amount necessary to satisfy any fees, other than any cancellation or default fee, authorized by this chapter.
+
+    b. After deducting the fees provided in subsection (2)(a) of this section, the debt adjuster shall distribute the remaining amount in the account to the creditors of the consumer. The distribution shall be made within five days of the demand therefor by the consumer, but if the consumer fails to make the demand, then the debt adjuster shall make the distribution within 30 days of the date of cancellation or default.
+
+## Section 10
+Notwithstanding any other actions which may be brought under the laws of this state, the director, through the attorney general , may bring an action in the name of the state against any person to restrain and prevent any violation of this chapter.
+
+## Section 11
+The director, through the attorney general, may accept an assurance of discontinuance of any act or practice deemed in violation of this chapter in the enforcement thereof from any person engaging in or who has engaged in such act or practice. Any such assurance shall be in writing and be filed with and subject to the approval of the superior court of the county in which the alleged violator resides or has his or her principal place of business, or in the alternative, in Thurston county. Failure to perform the terms of any such assurance shall constitute prima facie proof of a violation of this chapter for the purpose of securing any injunction as provided for in RCW 18.28.200.
+
+## Section 12
+Any person who violates any injunction issued pursuant to this chapter shall forfeit and pay a civil penalty of not more than $1,000. For the purpose of this section the superior court issuing any injunction shall retain jurisdiction, and the cause shall be continued, and in such cases the director, through the attorney general acting in the name of the state, may petition for the recovery of civil penalties.
+
+## Section 13
+Beginning July 1, 2026, no person shall provide or offer to provide debt adjusting or debt resolution services in this state unless the person first obtains a license from the department as required by this chapter.
+
+## Section 14
+1. A licensee shall obtain a license for the licensee's primary business address.
+
+2. A license may not be transferred or assigned.
+
+3. A licensee shall file a surety bond in favor of this state in an amount and form that the department determines before the licensee may provide or offer to provide debt adjusting or debt resolution services in this state, but in no event shall the amount of the bond be greater than $50,000.
+
+4. A licensee may not provide debt adjusting or debt resolution services in this state under a business name other than the business name that is listed on the licensee's license. However, a licensee may do business under a fictitious business name, if the licensee registers the fictitious business name with either the secretary of state or department of revenue as required, and provides evidence of the registration to the department.
+
+5. The department may adopt rules to implement this section and may require a reasonable license and investigation fee in connection with the issuance or renewal of any license required by this section.
+
+## Section 15
+1. The following persons are exempt from the requirements of this chapter:
+
+    a. For debt adjusters:
+
+        i. Attorneys-at-law, escrow agents, accountants, broker-dealers in securities, or investment advisors in securities, while performing services solely incidental to the practice of their professions;
+
+        ii. Any person, partnership, association, or corporation doing business under and as permitted by any law of this state or of the United States relating to banks, consumer finance businesses, consumer loan companies, trust companies, mutual savings banks, savings and loan associations, building and loan associations, credit unions, crop credit associations, development credit corporations, industrial development corporations, title insurance companies, insurance companies, or third-party account administrators;
+
+        iii. Persons who, as employees on a regular salary or wage of an employer not engaged in the business of debt adjusting, perform credit services for their employer;
+
+        iv. Public officers while acting in their official capacities and persons acting under court order;
+
+    v. Any person while performing services incidental to the dissolution, winding up or liquidation of a partnership, corporation, or other business enterprise;
+
+    vi. Nonprofit organizations dealing exclusively with debts owing from commercial enterprises to business creditors;
+
+    vii. Nonprofit organizations engaged in debt adjusting and which do not assess against the debtor a service charge in excess of $15 per month.
+
+    b. For debt resolution services providers:
+
+        i. A person organized under section 501(c) or (q) of the United States internal revenue code;
+
+        ii. Public officers while acting in their official capacities and persons acting under court order;
+
+        iii. Banks and their agents and employees;
+
+        iv. Attorneys licensed to practice law in this state who provide debt resolution services within an attorney-client relationship;
+
+    v. Creditors or their employees who negotiate debt resolutions with their consumers or with licensees acting on behalf of consumers;
+
+    vi. Assignees for the benefit of creditors;
+
+    vii. Certified public accountants licensed in this state who provide debt resolution services within an accountant-client relationship;
+
+    viii. Dedicated account service providers that do not otherwise provide debt resolution services for consumers; and
+
+        ix. Persons, to the extent that the person provides or agrees to provide debt resolution services to an individual who the person has no reason to know resides in this state at the time the person agrees to provide the services.
+
+2. The following persons are exempt from the licensing requirement established in section 13 of this act:
+
+    a. A licensee's employees; and
+
+    b. Persons who market on behalf of licensees and do not otherwise provide debt adjusting or debt resolution services.
+
+## Section 16
+1. The director shall administer the application process for licensure and license renewal and determine the form and information that the application must reasonably contain.
+
+2. An applicant for licensure must submit the following information:
+
+    a. Proof of a valid unified business identifier number;
+
+    b. The applicant's name, principal business address, and telephone number; all business addresses in this state; the principal email address for the business; and the principal website address to be used for the business;
+
+    c. The name and business address of each executive officer and member of the board of directors or equivalent leadership structure;
+
+    d. A statement describing, to the extent it is known or should be known by the applicant, any material civil or criminal judgment in any jurisdiction or any enforcement action against the applicant or any of its executive officers or members of its board of directors or equivalent leadership structure by any local, state, or federal government agency, in each case relating to debt adjusting, debt pooling, prorating, activity as a credit services organization, unfair and deceptive trade practices, false advertising, consumer deception law or regulation, or any other similar law or regulation;
+
+    e. A copy of each form of contract and the schedule of fees and charges that the applicant will use with consumers who reside in this state; and
+
+    f. Income statements and balance sheets from the applicant for the two fiscal years preceding the date of the application. Notwithstanding any other requirement in this chapter or elsewhere, material submitted pursuant to this section shall be held confidential by the director.
+
+3. In connection with any application for renewal, the licensee shall provide access to the licensee's books and records with respect to consumers in this state that are being or have been serviced by the licensee.
+
+4. The department may require each applicant applying for initial licensure under this chapter to submit a full set of fingerprints of each of the applicant's executive officers in order for the department to obtain and receive national criminal history records from the federal bureau of investigation criminal justice information services division. Unless the department, as authorized by (a) of this subsection, contracts, or makes use of any existing contract, the department may submit each executive officer's fingerprints, and the fee required to perform the criminal history record checks, to the Washington state patrol and the federal bureau of investigation for state and national criminal history record checks. The department may require any fingerprints submitted pursuant to this subsection to be provided in an electronic format.
+
+    a. The department may contract, or make use of any existing contract with this state, for the collection and transmission of fingerprints authorized under this subsection. If the department contracts, or makes use of an existing contract, the department may order the applicant to pay the fee for collecting and transmitting fingerprints to the contractor. The department may agree to a reasonable fingerprinting fee to be charged by the contractor to the applicant.
+
+    b. The department shall treat and maintain any executive officer's fingerprints and any criminal history record information obtained under this subsection as confidential and limit the use of records solely for the purposes authorized in this subsection. The fingerprints and any criminal history record information are not subject to subpoena, other than a subpoena issued in a criminal action or investigation, and are confidential by law and privileged, and are not subject to discovery or admissible in evidence in any civil action.
+
+    c. The department shall refuse to issue an initial license to an applicant who does not provide fingerprints in compliance with this subsection.
+
+5. An applicant or licensee shall notify the department within 30 days after a material change in any of the information submitted in connection with any application or renewal application for a license under this chapter including, but not limited to:
+
+    a. A change in the licensee's principal place of business;
+
+    b. A merger or dissolution related to the license; and
+
+    c. A licensee pleading guilty to or being convicted of any felony in a court of competent jurisdiction.
+
+6. The department may participate in a multistate licensing system for the sharing of regulatory information and for the licensing and application, by electronic or other means, of persons engaged in the business of debt adjusting or debt resolution services. The department may establish requirements for participation by an applicant in a multistate licensing system, which may vary from the provisions of this chapter. The applicant shall pay directly to a multistate licensing system any additional fee relating to participation in a multistate licensing system.
+
+## Section 17
+1. A license to provide debt adjusting or debt resolution services is valid for a period of two years from the date of issuance.
+
+2. The department may deny a license if:
+
+    a. The applicant does not satisfy the criteria set forth in section 16 of this act;
+
+    b. The application contains information that is materially erroneous or materially incomplete;
+
+    c. The applicant fails to provide in a timely manner such information as the department reasonably expects;
+
+    d. An executive officer or member of the board of directors, or equivalent leadership structure, of the applicant has been convicted or pled nolo contendere to a felony or an act involving fraud, deceit, or dishonesty; or
+
+    e. An executive officer or member of the board of directors, or equivalent leadership structure, of the applicant has had a professional license revoked, suspended, or subjected to enforcement action in any state, and the license has not been reinstated.
+
+## Section 18
+1. The department may suspend, revoke, or deny renewal of a license if:
+
+    a. The department asserts that the licensee has materially violated this chapter or any rule adopted pursuant to this chapter or any other law applicable to the conduct of the licensee's business and the licensee has failed to cure the violation after notice and a reasonable opportunity to cure the violation;
+
+    b. A fact or condition exists that, if it had existed when the licensee applied for a license, would have warranted the department refusing to issue the license;
+
+    c. The licensee does not satisfy the criteria for licensure set forth in section 16 of this act;
+
+    d. The licensee has refused to permit the department to examine the licensee's books and records, failed to comply with section 28 of this act, or made a material misrepresentation or omission in complying with section 28 of this act; or
+
+    e. The licensee has not responded within a reasonable time and in an appropriate manner to the department's communications.
+
+2. If the department suspends, revokes, or denies renewal of a license, the department may require the licensee to make available the licensee's books and records with respect to any consumers in this state that are being or have been serviced by the licensee.
+
+3. A licensee may deliver a written notice to the department to surrender the licensee's license. However, if a licensee surrenders the licensee's license, the licensee's civil or criminal liability for acts committed before the surrender is not affected.
+
+4. Upon submission of a renewal application for a license and until such time as a renewal application is approved or denied, the licensee may continue to provide or offer to provide debt adjusting or debt resolution services, but a suspension or denial of a license terminates any right to provide or offer to provide debt adjusting or debt resolution services in this state unless continuation is approved by the department.
+
+## Section 19
+1. The director has the power and administrative discretion to administer and interpret this chapter to facilitate the delivery of debt resolution services and debt adjusting services to consumers of this state.
+
+2. The director may issue rules and regulations to govern the activities of licensed debt resolution services providers and debt adjusters.
+
+3. The department may investigate the books, accounts, records, and files of a licensee or any other person that the department has reason to believe is providing or offering to provide debt adjusting or debt resolution services in this state.
+
+## Section 20
+1. For a licensee providing debt resolution services, the following practices are permitted:
+
+    a. A licensee may request or require a consumer, as a condition to the provision of debt resolution services, to establish and place funds into a dedicated account administered by a dedicated account service provider, provided that:
+
+        i. The funds are held in a federal deposit insurance corporation-insured financial institution;
+
+        ii. The consumer owns the funds held in the account, including all accrued interest on the account, if any;
+
+        iii. The dedicated account service provider is not owned or controlled by, or affiliated with, the debt resolution services provider. For purposes of this subsection, "affiliated with" means a dedicated account service provider that controls, is controlled by, or is under common control with a licensee. For purposes of this subsection, "control" means the direct or indirect possession of the power to direct or cause the direction of the management of a licensee, whether by contract or through ownership of more than 20 percent of the voting securities of the license;
+
+        iv. The dedicated account service provider does not give or accept any money or other compensation in exchange for referrals of business involving the debt resolution services; and
+
+    v. The consumer may terminate the debt resolution services at any time without penalty by giving notice as required in section 21 of this act, and thereafter the licensee shall notify the dedicated account service provider of the consumer's termination within five business days of the consumer's notice.
+
+    b. A licensee may extend credit to a consumer in the form of a deferral of some or all of the licensee's fee for resolving the consumer's debts, at no additional expense to the consumer. A licensee may assist in arranging credit to the consumer if such credit is extended to the consumer by or through a person that is either separately licensed or authorized to perform lending in this state or exempt from such licensure.
+
+2. For a licensee providing debt resolution services, the following practices are required:
+
+    a. A licensee shall maintain a toll-free telecommunications system, staffed at a level that has adequate capacity to accept requests from the reasonably anticipated volume of consumers contacting the licensee during ordinary business hours.
+
+    b. A licensee shall, at the time a contract is executed by a consumer, or as shortly thereafter as practicable, distribute or otherwise make available to the consumer a copy of the executed contract. For purposes of this section, electronic distribution of an executed contract is permitted if the consumer agrees.
+
+## Section 21
+For debt resolution services contracts:
+
+1. A consumer may terminate a contract at any time without penalty by notifying the licensee electronically, in writing, or telephonically on a recorded line.
+
+2. Upon receipt of a consumer's notice of termination, a licensee shall, as soon as possible but in all instances within two business days, advise the consumer of the effect, if any, a termination of the consumer's debt resolution services program would have on previously negotiated installment resolution contracts and pending resolution negotiations. Not later than five business days following the delivery of such advice, and absent further instruction from the consumer, a licensee shall notify the dedicated account service provider of the consumer's termination and request that the dedicated account service provider communicate with the consumer regarding disposition of all funds held in the dedicated account.
+
+3. Notwithstanding the consumer's right to terminate as set forth in subsection (1) of this section, the licensee is entitled to recover all fees earned prior to the receipt of any termination notice, provided that the fee is requested or received in compliance with section 23 of this act.
+
+## Section 22
+For debt resolution services contracts, if a consumer fails to honor the consumer's contractual obligations on or before the 60th day after the consumer was required to perform them, then the licensee may terminate its contract with the consumer electronically or in writing. If the licensee terminates the contract as permitted in this section, the consumer will not owe any further payment to the licensee as of the date the licensee terminates the contract, other than for fees previously earned by the licensee. Notwithstanding this section, if a consumer refuses to pay any fee to a licensee after the payment has been earned by the licensee, then the licensee may, upon proper notice to the consumer either electronically or in writing, terminate the licensee's contract with the consumer immediately.
+
+## Section 23
+For debt resolution services:
+
+1. A licensee may not impose, directly or indirectly, a fee or other charge on a consumer or receive payment from or on behalf of a consumer for performing debt resolution services except as provided in this section.
+
+2. A licensee may not request or receive payment of any fee or consideration for any debt resolution services until and unless:
+
+    a. The licensee has renegotiated, resolved, reduced, or otherwise altered the terms of at least one debt pursuant to a resolution contract or other such valid contractual agreement executed by the consumer and the creditor;
+
+    b. The consumer has made at least one payment pursuant to the resolution contract or other valid contractual agreement between the consumer and the creditor; and
+
+    c. To the extent that debts enrolled in a service are renegotiated, resolved, reduced, or otherwise altered individually, the fee or consideration either:
+
+        i. Bears the same proportional relationship to the total fee for renegotiating, resolving, reducing, or altering the terms of the entire debt balance as the individual debt amount bears to the entire debt amount. The individual debt amount and the entire debt amount are those owed at the time the debt was enrolled in the service; or
+
+        ii. Is a percentage of the amount saved as a result of the renegotiation, resolution, reduction, or alteration. The percentage charged cannot change from one individual debt to another. The amount saved is the difference between the amount owed at the time the debt was enrolled in the service and the amount actually paid to satisfy the debt.
+
+3. A licensee may not impose charges or receive payment for debt resolution services until the licensee and the consumer have signed a contract that complies with RCW 18.28.100.
+
+4. Any fee or other charge imposed by or on behalf of a dedicated account service provider in connection with the administration of a dedicated account may not be considered a fee or other charge imposed for performing debt resolution services for purposes of this chapter.
+
+5. Any fee or other charge imposed by or on behalf of a third-party legal service provider may not be considered a fee or other charge imposed by a licensee for performing debt resolution services for purposes of this chapter.
+
+## Section 24
+A licensee providing debt resolution services, a person who markets debt resolution services on behalf of a licensee, or a person described in section 15(2)(b) of this act may not:
+
+1. Take or exercise a power of attorney that authorizes the licensee to resolve a debt. For purposes of this subsection, "resolve" means entering into a binding agreement to discharge in full a debt in exchange for a payment of a certain sum of money;
+
+2. Send to creditors cease and desist notices, or require consumers to notify creditors of changes of address or phone number, meant to divert communication from the creditor to the debt resolution services provider rather than the consumer;
+
+3. Exercise or attempt to exercise any authority of the consumer after a licensee has received notice under section 21 of this act that the consumer has terminated the consumer's contract with the licensee;
+
+4. Initiate, or request that a dedicated account service provider initiate, a transfer from a consumer's bank account unless the transfer is:
+
+    a. A return of money to the consumer;
+
+    b. Before any termination of a contract and properly authorized by the contract and this chapter for payment of a fee; or
+
+    c. At the express direction of the consumer, to a consumer's creditor to fund a negotiated resolution with that creditor;
+
+5. Receive consumer funds or control consumer funds, other than to receive funds in payment of fees earned by the debt resolution services provider;
+
+6. Resolve a debt or lead a consumer to believe that a payment to a creditor is in resolution of a debt to the creditor unless, at the time of resolution, the creditor confirms that the payment is in full resolution of the debt or is part of a payment plan that, upon completion, will be in full resolution of the debt;
+
+7. Make any representation that:
+
+    a. The licensee will furnish money to pay bills or prevent attachments; or
+
+    b. Participation in a program will prevent litigation, garnishment, attachment, repossession, foreclosure, eviction, or loss of employment;
+
+8. Misrepresent that the licensee is able to furnish legal advice or perform legal services;
+
+9. Misrepresent, directly or by implication, any material aspect of any debt resolution services program including, but not limited to:
+
+    a. The amount of money or the percentage of the debt amount that a consumer may save by using such services;
+
+    b. The amount of time necessary to achieve the represented results;
+
+    c. The amount of money or the percentage of each outstanding debt that the consumer must accumulate before the provider of the debt resolution services will initiate attempts with the consumer's creditors or make a bona fide offer to negotiate, resolve, or modify the terms of the consumer's debt;
+
+    d. The effect of the service on a consumer's creditworthiness;
+
+    e. The effect of the service on collection efforts of the consumer's creditors;
+
+    f. The percentage or number of consumers who attain the represented results; and
+
+    g. Whether debt resolution services are offered or provided by a nonprofit entity;
+
+10. Take a confession of judgment or power of attorney to confess judgment against a consumer;
+
+11. Purchase a debt or obligation of the consumer, or obtain a mortgage or other security interest from any person in connection with the services provided to the consumer;
+
+12. Receive from or on behalf of a consumer a promissory note or other negotiable instrument other than a check or a demand draft or a postdated check or demand draft; or
+
+13. Except as permitted by federal law or by order of a court of competent jurisdiction, disclose the identity or identifying information of a consumer or the identity of the consumer's creditors, except to the department, upon proper demand, or to the extent necessary or appropriate to administer the program including, but not limited to, a dedicated account service provider or to a creditor of the consumer.
+
+## Section 25
+1. A licensee who provides debt resolution services shall distribute or arrange to be distributed a statement of accounting to a consumer:
+
+    a. While a debt resolution services contract is in effect:
+
+        i. At least once per month; and
+
+        ii. On or before the fifth business day after a consumer requests a statement of accounting from a licensee. However, this section does not require a licensee to provide more than one statement of accounting per month per consumer in response to the consumer's request; and
+
+    b. Within five business days from the date on which a consumer or a licensee terminates a contract.
+
+2. A statement of accounting shall contain the following information to the extent applicable:
+
+    a. The amount of money that the consumer has deposited into the consumer's dedicated account, and all withdrawals therefrom, from initiation of the consumer's debt resolution services program;
+
+    b. The amounts, dates, and creditors associated with each resolution obtained by the licensee on behalf of the consumer;
+
+    c. The fees that the licensee has charged to and collected from the consumer in connection with each of the consumer's resolutions;
+
+    d. The amount of money that the consumer holds in the consumer's dedicated account; and
+
+    e. With respect to each resolution obtained by the licensee for the consumer:
+
+        i. The total amount of money that the consumer paid to the creditor in full discharge or satisfaction of the consumer's debt;
+
+        ii. The amount of the debt at the time the licensee and the consumer entered into their contract;
+
+        iii. The amount of the debt at the time the creditor agreed to resolve the debt; and
+
+        iv. The amount of compensation that the licensee received or will receive to resolve the debt.
+
+3. Notwithstanding the requirements set forth in subsection (1) of this section, a licensee that enables, or arranges to enable, 24 hours per day, seven days a week, electronic access by a consumer to all of the consumer's deposit account transaction information, including all deposit and withdrawal activity, and electronic access by a consumer to account activity including, but not limited to, resolution information, account status, resolution dates, resolution amounts, and fees paid, is deemed to have satisfied the content requirements in subsection (1)(b) of this section and the distribution requirements in subsection (1)(a) of this section.
+
+## Section 26
+1. A licensee may not, directly or through a person who markets debt resolution services or debt adjusting services on behalf of a licensee, advertise, announce, broadcast, display, distribute, print, publish, televise, or permit any other person to advertise, announce, broadcast, display, distribute, print, publish, or televise on the licensee's behalf a statement or representation related to debt resolution services or debt adjusting services that is deceptive, false, or misleading.
+
+2. A licensee may not directly or indirectly provide anything of value in exchange for favorable treatment in reviews or favorable placement on rankings.
+
+3. Neither a licensee nor any affiliate of a licensee shall directly or indirectly own or operate a website or other public-facing resource presenting rankings or consumer reviews of the licensee.
+
+4. A licensee may not make any statement or take any action that is likely to mislead consumers regarding whether reviews the licensee uses to advertise its business accurately reflect all reviews consumers have submitted to the licensee.
+
+5. A licensee shall comply with 16 C.F.R. Part 255 and with the Consumer Financial Protection Bureau Bulletin 2022-05: Unfair and Deceptive Acts or Practices That Impede Consumer Reviews.
+
+## Section 27
+1. At the time of providing to a consumer any materials or contracts required by this chapter, a licensee shall inform the consumer that upon electronic, telephonic, or written request, the licensee shall send the consumer a copy of the materials and shall comply with a request as provided in subsection (2) of this section.
+
+2. If a consumer submits a request to a licensee, before the expiration of 90 days after a debt adjuster or debt resolution services program is completed or terminated, to send a copy of the materials required by this chapter, the licensee shall send them to the consumer at no charge within five business days after the request, but the licensee is not required to comply with a request more than once per calendar month or if it reasonably believes the request is made for purposes of harassment. If a request is made more than 90 days and less than two years after a program is completed or terminated, the licensee must send within a reasonable time a copy of the materials requested. The licensee is not required to comply with any request from a consumer made more than the later of:
+
+    a. Two years after a debt adjuster or debt resolution services program is completed or terminated; or
+
+    b. The expiration of the statute of limitations governing contracts in this state.
+
+3. A licensee that maintains a website shall disclose on the home page or on a page that is clearly and conspicuously connected to the home page by a link that clearly reveals its contents:
+
+    a. The licensee's name and all names under which the licensee does business in this state; and
+
+    b. The licensee's principal business address, telephone number, and email address, if any.
+
+4. Any licensee shall keep, for a period of two years from the date the record is produced, the following records:
+
+    a. All substantially different advertising, brochures, telemarketing scripts, promotional materials, and supportive data;
+
+    b. The name and last known address of each consumer, the goods or services purchased, the date such goods or services were first provided or the consumer signed a contract for the provision of goods or services, and the amount paid by the consumer for the goods or services; and
+
+    c. The name, any fictitious name used, the last known home address and telephone number, and the job titles for all current and former employees directly involved in sales or solicitations. However, if the licensee permits fictitious names to be used by employees, each fictitious name must be traceable to only one specific employee.
+
+5. In addition to the records required by subsection (4) of this section, the licensee must keep a copy of each signed contract with any consumer for not less than five years from the date that the consumer either graduates or terminates a debt resolution services program or a contract for debt adjusting services.
+
+6. A licensee may keep the records required by subsections (4) and (5) of this section in any form, and in the same manner, format, or place as they keep such records in the ordinary course of business. Failure to keep all records required by subsections (4) and (5) of this section shall be a violation of this chapter.
+
+7. In the event of any dissolution or termination of the licensee's business, the principal of that licensee shall maintain all records as required under subsections (4) and (5) of this section. In the event of any sale, assignment, or other change in ownership of the licensee's business, the successor business shall maintain all records required under subsections (4) and (5) of this section.
+
+## Section 28
+1. A licensee shall file with the department an annual report in writing, under oath, that includes the following information for the calendar year reporting period:
+
+    a. Total number of active consumers in this state;
+
+    b. Total number of enrolled consumers in this state; and
+
+    c. Total fees collected in this state.
+
+2. If a licensee neglects to file an annual report or fails to amend the same on or before the 30th day after the department provides notice to the licensee, then the department may assess civil penalties and suspend, revoke, or refuse to renew any license under this chapter.
+
+## Section 29
+Transactions entered into before the effective date of this section, and the rights, duties, and interests resulting from them, may be completed, terminated, or enforced as required or permitted by a law amended, repealed, modified, or preempted by this act as though the amendment, repeal, modification, or preemption had not occurred.
+
+## Section 30

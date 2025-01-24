@@ -4,11 +4,15 @@
 ### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
 * 👍 Anne McEnerny-Ogle
 
-## [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
+
+## [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+* 👍 Ty Stober
 
 ## 2023-24
 
-### [HB 1212](/bill/2023-24/hb/1212/) - Child care center siting 👍1  
+### [SB 5184](/bill/2023-24/sb/5184/) - Minimum parking requirements 👍1  
+* 👍 Ty Stober
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 

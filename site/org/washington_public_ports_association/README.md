@@ -17,6 +17,9 @@
 
 ### [SB 5034](/bill/2025-26/sb/5034/) - System improvement team 👍1  
 
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  
+* 👍 Chris Herman
+
 ### [SB 5176](/bill/2025-26/sb/5176/) - Implementing prompt pay recommendations from the capital projects advisory review board. 👍1  
 * 👍 Chris Herman
 
@@ -26,11 +29,13 @@
 ### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍1  
 * 👍💵 James Cockburn
 
-## [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  
+### [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  
+
+## [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 
 ## 2023-24
 
-### [SB 5305](/bill/2023-24/sb/5305/) - Salmon recovery accelerator 👍1  
+### [SB 5360](/bill/2023-24/sb/5360/) - Environmental crimes  👎1 
 
 ### [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
 

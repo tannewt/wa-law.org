@@ -4,12 +4,15 @@
 ### [HB 1082](/bill/2025-26/hb/1082/) - Child care provider qualif. 👍1  
 * 👍💵 Amy Anderson
 
-## [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
+### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
+* 👍💵 Amy Anderson
+
+## [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 * 👍💵 Amy Anderson
 
 ## 2023-24
 
-### [SB 5130](/bill/2023-24/sb/5130/) - Eliminating child care licensing fees. 👍1  
+### [SB 5184](/bill/2023-24/sb/5184/) - Minimum parking requirements 👍1  
 * 👍💵 Amy Anderson
 
 ### [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍2  

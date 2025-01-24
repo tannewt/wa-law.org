@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162250&caId=25009&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162250&caId=25009&tId=4)
 
-#### 35 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * Micah Sherman - Raven
 * Tamara Weinmann - 13300 SE 30th st unit 101
+* Benjamin Ogren - The People of this great state
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

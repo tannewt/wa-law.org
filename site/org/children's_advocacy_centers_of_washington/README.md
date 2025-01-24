@@ -9,7 +9,7 @@
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  
 
-### [SB 5105](/bill/2025-26/sb/5105/) - Concerning offenses involving fabricated depictions of minors. 👍1  
+### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍1  
 
 ### [SB 5163](/bill/2025-26/sb/5163/) - Child fatalities 👍1  
 
