@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1334/</link>
 		<description>Updates about HB 1334</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 16 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2025 11:21:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,13 @@
 			<pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-16/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>AUDIO: 9th District Legislative update with Republican state Senator Mark Schoesler - Senate Republican Caucus</title>
+			<description>News article "AUDIO: 9th District Legislative update with Republican state Senator Mark Schoesler - Senate Republican Caucus" from Senate Republicans.</description>
+			<pubDate>Thu, 23 Jan 2025 11:21:52 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://src.wastateleg.org/blog/audio-9th-district-legislative-update-republican-state-senator-mark-schoesler-2/#:~:text=SB%201334</guid>
 		</item>
 	</channel>
 </rss>

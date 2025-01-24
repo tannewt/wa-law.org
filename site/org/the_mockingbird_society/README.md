@@ -3,6 +3,8 @@
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍2  
 
+### [HB 1177](/bill/2025-26/hb/1177/) - Concerning the child welfare housing assistance program. 👍1  
+
 ### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters. 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
@@ -13,6 +15,8 @@
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
+
+### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Controlled sub. endangerment  👎1 
 

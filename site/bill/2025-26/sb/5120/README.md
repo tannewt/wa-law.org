@@ -6,9 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/23/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to expand support for high-poverty schools heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/23/nobles-bill-to-expand-support-for-high-poverty-schools-heard-in-committee/#:~:text=Senate%20Bill%205120)
+
 ## Meetings
 ### Thu 01/23 10:30 AM - Early Learning & K-12 Education (EDU): SB 5120 Learning assistance program
-#### 333 👍 - Pro
+#### 335 👍 - Pro
 Testifying:
 * 💵Oliver Miska
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)

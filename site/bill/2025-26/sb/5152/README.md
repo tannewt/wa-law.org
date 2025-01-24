@@ -14,14 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32483&aId=161568&caId=24813&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32483&aId=161568&caId=24813&tId=4)
 
-#### 27 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Natalie Marshall - Washington AgForestry Leadership Program
 * Cody LaRiviere - Washington AgForestry Leadership Program
 * Paul D'Agnolo - Washington AgForestry Leadership Program
 * Stacey Rasmussen - AgForestry Leadership
+* Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
 
-#### 195 👎 - Con
+#### 310 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

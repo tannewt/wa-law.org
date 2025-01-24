@@ -11,6 +11,9 @@
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley
 
+### [HB 1460](/bill/2025-26/hb/1460/) - Protection order hope cards 👍1  
+* 👍 Scott Ahlf
+
 ### [SB 5133](/bill/2025-26/sb/5133/) - Sentencing guide/caregivers 👍1  
 * 👍 Brittany Gregory
 

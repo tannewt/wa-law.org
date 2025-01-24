@@ -69,19 +69,23 @@
 ### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state.   ❓1
 * ❓💵 Candice Bock
 
+### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel  👎1 
+
 ### [SB 5053](/bill/2025-26/sb/5053/) - PFD formation 👍1  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enf. hiring grants 👍1  
 * 👍💵 Candice Bock
 
-### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans   ❓1
+### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans   ❓2
+* ❓💵 Candice Bock
 * ❓💵 Candice Bock
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎2 
 * 👎💵 Candice Bock
 * 👎 Ian Payne
 
-### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system.   ❓1
+### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system.   ❓2
+* ❓💵 Candice Bock
 * ❓💵 Candice Bock
 
 ### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  

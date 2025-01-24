@@ -6,7 +6,29 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/23/2025 [The Center Square](/org/the_center_square/) - [Washington bill would give judges discretion to reduce sentences of convicted felons | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_76e2516e-d9d5-11ef-bde8-9b56aaa674b3.html#:~:text=House%20Bill%201125)
+
 ## Meetings
+### Thu 01/30 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1125 Sentence modification
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32555&aId=162313&caId=25173&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32555&aId=162313&caId=25173&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32555&aId=162313&caId=25173&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32555&aId=162313&caId=25173&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Jacob Schmitt - Just Us Solutions, LLC
+
+#### 3 👎 - Con
+Testifying:
+* Leslie Paine
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Charleen Kriens
+
+#### 0 ❓ - Other
+
 ### Thu 01/23 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1125 Sentence modification
 #### 812 👍 - Pro
 Testifying:

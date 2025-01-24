@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/23/2025 [The Center Square](/org/the_center_square/) - [Democrats propose raising tobacco taxes, creating new ones in search of revenue | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6f1ff232-d9d6-11ef-b05d-8bbc2efa5d73.html#:~:text=House%20Bill%201416)
+
 ## Meetings

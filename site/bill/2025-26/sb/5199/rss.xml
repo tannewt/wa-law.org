@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5199/</link>
 		<description>Updates about SB 5199</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 22 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -35,6 +35,13 @@
 			<pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-22/HS - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-23/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

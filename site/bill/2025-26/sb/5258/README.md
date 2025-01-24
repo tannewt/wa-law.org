@@ -16,6 +16,11 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Vanessa Saavedra - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans

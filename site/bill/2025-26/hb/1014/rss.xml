@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1014/</link>
 		<description>Updates about HB 1014</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 22 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -73,6 +73,13 @@
 			<pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-22/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-23/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

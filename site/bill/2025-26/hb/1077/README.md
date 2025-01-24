@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 8 👍 - Pro
 
-#### 189 👎 - Con
+#### 308 👎 - Con
+Testifying:
+* Dr. Jennifer Chin - American College of Obstericians and Gynecologists
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other

@@ -9,6 +9,8 @@
 
 ### [HB 1137](/bill/2025-26/hb/1137/) - Establishing uniform policies and procedures within department of corrections facilities relating to disciplinary proceedings and administrative segregation. 👍1  
 
+### [HB 1138](/bill/2025-26/hb/1138/) - Improving public safety by implementing evidence-based interview practices that increase the reliability of statements collected during criminal investigations. 👍1  
+
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍3  
 * 👍💵 Anthony Blankenship
 
@@ -17,6 +19,8 @@
 ### [HB 1178](/bill/2025-26/hb/1178/) - Concerning sentencing enhancements. 👍1  
 
 ### [HB 1233](/bill/2025-26/hb/1233/) - Concerning work programs for incarcerated persons. 👍1  
+
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 👍1  
 

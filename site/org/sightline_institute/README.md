@@ -7,21 +7,36 @@
 ### [HB 1183](/bill/2025-26/hb/1183/) - Concerning building code and development regulation reform. 👍1  
 * 👍💵 Dan Bertolet
 
+### [HB 1223](/bill/2025-26/hb/1223/) - Voter challenges 👍1  
+
 ### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections 👍1  
 * 👍💵 Shannon Grimes
 
+### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
+
+### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings 👍1  
+* 👍💵 Dan Bertolet
+
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
+
+### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act. 👍1  
+* 👍💵 Dan Bertolet
 
 ### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍1  
 * 👍💵 Dan Bertolet
 
-## [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 * 👍 Catie Gould
+
+### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍1  
+
+## [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings 👍1  
+* 👍💵 Dan Bertolet
 
 ## 2023-24
 
-### [SB 5184](/bill/2023-24/sb/5184/) - Minimum parking requirements 👍1  
-* 👍 Catie Gould
+### [SB 5332](/bill/2023-24/sb/5332/) - Mobile dwellings 👍1  
+* 👍💵 Dan Bertolet
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review 👍2  
 * 👍💵 Dan Bertolet

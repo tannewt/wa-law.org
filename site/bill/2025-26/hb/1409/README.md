@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162203&caId=25109&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162203&caId=25109&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Jessica Spiegel - WSPA
 
 #### 0 ❓ - Other

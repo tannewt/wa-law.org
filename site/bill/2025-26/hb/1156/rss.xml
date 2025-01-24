@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1156/</link>
 		<description>Updates about HB 1156</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 18 Jan 2025 01:32:25 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2025 01:51:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -50,6 +50,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Andrew/Schaffran/2025-01-18 01:32:25</guid>
+		</item>
+		<item>
+			<title>👍Arnold Baker - Chelan County Fire District 5</title>
+			<description>Arnold Baker signed up to testify Pro. They are signed up to represent Chelan County Fire District 5.</description>
+			<pubDate>Thu, 23 Jan 2025 01:51:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Arnold/Baker/2025-01-23 01:51:51</guid>
 		</item>
 	</channel>
 </rss>

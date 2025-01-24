@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32527&aId=161786&caId=24850&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32527&aId=161786&caId=24850&tId=4)
 
-#### 254 👍 - Pro
+#### 270 👍 - Pro
 Testifying:
 * Kevin Wren - Washington #insulin4all
 * Bryon Welch - Office of the Insurance Commissioner
 * Patty Kuderer - Office of the Insurance Commissioner
 * Rory Paine-Donovan - Office of the Insurance Commissioner
+* 💵Bill Stauffacher - Independent Insurance Agents & Brokers of Washington
 
 #### 0 👎 - Con
 

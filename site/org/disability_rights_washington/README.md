@@ -21,7 +21,11 @@
 
 ### [HB 1192](/bill/2025-26/hb/1192/) - Concerning disciplinary hearings held by the department of corrections. 👍1  
 
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
+
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
+
+### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 👍1  
 

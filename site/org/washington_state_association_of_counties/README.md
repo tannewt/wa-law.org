@@ -19,6 +19,9 @@
 ### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes.   ❓1
 * ❓💵 Travis Dutton
 
+### [HB 1158](/bill/2025-26/hb/1158/) - Community inclusion services  👎1 
+* 👎💵 Brad Banks
+
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review   ❓2
 
 ### [HB 1183](/bill/2025-26/hb/1183/) - Concerning building code and development regulation reform.   ❓1
@@ -72,11 +75,15 @@
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
 * 👍💵 Kelsey Hulse
 
-## [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍2  
+### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍2  
+
+## [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  
+* 👍💵 Kelsey Hulse
 
 ## 2023-24
 
-### [SB 5249](/bill/2023-24/sb/5249/) - Kit home siting 👍2  
+### [SB 5305](/bill/2023-24/sb/5305/) - Salmon recovery accelerator 👍1  
+* 👍💵 Kelsey Hulse
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

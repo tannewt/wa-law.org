@@ -8,29 +8,30 @@
 
 ## Meetings
 ### Thu 01/23 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5155 Salmon recovery projects
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161845&caId=24934&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161845&caId=24934&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161845&caId=24934&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161845&caId=24934&tId=4)
-
-#### 39 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * Matt Curtis - WDFW
 * Morgan Morris - Lower Columbia Fish Enhancement Group
 * Kas Guillozet - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
 * Kevin Long - North Olympic Salmon Coalition
 * Jonathan Grudin
+* Devin Smith - Swinomish Indian Tribal Community and Sauk-Suiattle Indian Tribe
+* Aaron Rosenblum - Cascade Fisheries
+* Sean Eagan - The Port of Tacoma
 
-#### 5 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Jenna Friebel - Skagit Drainage and Irrigation Districts Consortium LLC
 * Daryl Hamburg - Skagit Dike and Drainage Flood Control District Partnership
+* Ellen Bynum - Friends of Skagit County
 
-#### 5 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Scott Schuyler - Natural Resoruces Policy Representative Upper Skagit Indain Tribe
 * Will Honea - [Skagit County](/org/skagit_county/)
 * Peter Browning - [Skagit County](/org/skagit_county/)
 * David Hawkins - Upper Skagit Indian Tribe
 * Dave Hallock - Skagit Upriver Neighbors
+* Lora Claus - Skagitonians to Preserve Farmland
+* Samantha Weinstein - Department of Ecology
+* Don Gourlie - Puget Sound Partnership

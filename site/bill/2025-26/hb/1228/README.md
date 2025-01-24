@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/23/2025 [The Center Square](/org/the_center_square/) - [Seattle city attorney pushes for approval of state bill to speed up DUI cases | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3436aa4c-d9dd-11ef-b4d9-d3bb9aaa7565.html#:~:text=House%20Bill%201228)
+
 ## Meetings
 ### Mon 01/27 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1228 Toxicology testing
 Sign up to testify:

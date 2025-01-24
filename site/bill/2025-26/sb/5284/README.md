@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162244&caId=24975&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162244&caId=24975&tId=4)
 
-#### 2 👍 - Pro
+#### 174 👍 - Pro
 Testifying:
 * Melissa Stuart - [City of Redmond](/org/city_of_redmond/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)

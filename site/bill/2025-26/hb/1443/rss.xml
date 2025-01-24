@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1443/</link>
 		<description>Updates about HB 1443</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 21 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2025 11:30:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,30 @@
 			<pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-21/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>👍Kol Peterson - Tiny Hookups LLC</title>
+			<description>Kol Peterson signed up to testify Pro. They are signed up to represent Tiny Hookups LLC.</description>
+			<pubDate>Thu, 23 Jan 2025 09:51:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kol/Peterson/2025-01-23 09:51:03</guid>
+		</item>
+		<item>
+			<title>👍💵Dan Bertolet - Sightline Institute</title>
+			<description>Dan Bertolet signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/sightline_institute/"&gt;Sightline Institute&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 23 Jan 2025 10:24:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dan/Bertolet/2025-01-23 10:24:37</guid>
+		</item>
+		<item>
+			<title>👍Tim McCormick - Sightline Institute</title>
+			<description>Tim McCormick signed up to testify Pro.</description>
+			<pubDate>Thu, 23 Jan 2025 11:30:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tim/McCormick/2025-01-23 11:30:44</guid>
 		</item>
 	</channel>
 </rss>

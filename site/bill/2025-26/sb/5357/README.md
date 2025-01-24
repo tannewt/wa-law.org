@@ -8,20 +8,14 @@
 
 ## Meetings
 ### Thu 01/23 04:00 PM - Ways & Means (WM): SB 5357 Actuarial pension funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161841&caId=24932&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161841&caId=24932&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161841&caId=24932&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32517&aId=161841&caId=24932&tId=4)
-
 #### 20 👍 - Pro
 Testifying:
 * Marcus Ehrlander - Office of Financial Management
 * Sheri Sawyer - Office of Financial Management
 
-#### 620 👎 - Con
+#### 640 👎 - Con
 Testifying:
 * 💵Emmett Mills - Washington State School Retirees' Association
 * Michael McKinley
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

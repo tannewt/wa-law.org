@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5120/</link>
 		<description>Updates about SB 5120</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 22 Jan 2025 12:58:15 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2025 19:36:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -84,6 +84,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/NCSP, Carrie/Suchy/2025-01-22 12:58:15</guid>
+		</item>
+		<item>
+			<title>Nobles bill to expand support for high-poverty schools heard in committee - Sen. T’wina Nobles</title>
+			<description>News article "Nobles bill to expand support for high-poverty schools heard in committee - Sen. T’wina Nobles" from Senate Democrats.</description>
+			<pubDate>Thu, 23 Jan 2025 19:36:45 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/01/23/nobles-bill-to-expand-support-for-high-poverty-schools-heard-in-committee/#:~:text=Senate%20Bill%205120</guid>
 		</item>
 	</channel>
 </rss>

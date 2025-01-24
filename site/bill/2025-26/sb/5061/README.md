@@ -14,17 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161809&caId=24787&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161809&caId=24787&tId=4)
 
-#### 13 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Chris Ellis - Bricklayers and Allied Craftworkers, Local 1
 * 💵John Traynor - Washington State Labor Council, AFL-CIO
 * 💵Minna Long - Washington State Building & Construction Trades Council
 * Andrea Ornelas
+* Jesse Cervantes - Western States Regional Council of Carpenters (WSRCC)
+* Pete Butler - south sound NECA chapter
+* Timothy O'Donnell - IBEW 76
 
-#### 12 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * 💵Carolyn Logue - Associated Builders & Contractors - Inland Pacific Chapter
 * 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
 * Jerry VanderWood - Associated General Contractors (AGC)
+* 💵Brandon Houskeeper - Associated Builders & Contractors - Western WA
 
 #### 2 ❓ - Other

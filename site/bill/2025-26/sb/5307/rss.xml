@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5307/</link>
 		<description>Updates about SB 5307</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 22 Jan 2025 10:11:40 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 24 Jan 2025 00:19:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -284,6 +284,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Rivkah/Thomson/2025-01-22 10:11:40</guid>
+		</item>
+		<item>
+			<title>WSPTA Testifies: Close the Funding Gaps - WSPTA</title>
+			<description>News article "WSPTA Testifies: Close the Funding Gaps - WSPTA" from Washington St Pta.</description>
+			<pubDate>Thu, 23 Jan 2025 19:58:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/wspta-testifies-4/#:~:text=SB%205307</guid>
+		</item>
+		<item>
+			<title>In tight budget year, pressure builds to boost WA school funding • Washington State Standard</title>
+			<description>News article "In tight budget year, pressure builds to boost WA school funding • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Fri, 24 Jan 2025 00:19:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/01/23/in-tight-budget-year-pressure-builds-to-boost-wa-school-funding/#:~:text=Senate%20Bill%205307</guid>
 		</item>
 	</channel>
 </rss>

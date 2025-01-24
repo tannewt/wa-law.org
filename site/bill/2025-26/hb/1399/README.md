@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161954&caId=25052&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161954&caId=25052&tId=4)
 
-#### 36 👍 - Pro
+#### 67 👍 - Pro
 Testifying:
 * Susan Kane-Ronning - Washington Sierra Club Wildlife Committee
 * Juan Peralez - Unidos of Snohomish County
@@ -24,6 +24,7 @@ Testifying:
 * Gabrielle Gilbert
 * Rachel Haymon
 * Lynn Mason - Coexisting with Cougars in Klickitat County
+* Josh Rosenau - [Mountain Lion Foundation](/org/mountain_lion_foundation/)
 
 #### 0 👎 - Con
 

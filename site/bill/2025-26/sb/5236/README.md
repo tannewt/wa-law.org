@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161737&caId=24745&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161737&caId=24745&tId=4)
 
-#### 204 👍 - Pro
+#### 280 👍 - Pro
 Testifying:
 * Mark Vossler - Washington Physicians for Social Responsibility
 * Elizabeth Hansen - Washington Physicians for Social Responsibility
@@ -26,7 +26,7 @@ Testifying:
 * Kate White Tudor - Natural Resources Defense Council
 * Ivy Lin
 
-#### 215 👎 - Con
+#### 342 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

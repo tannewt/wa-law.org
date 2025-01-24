@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161846&caId=24935&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32454&aId=161846&caId=24935&tId=4)
 
-#### 135 👍 - Pro
+#### 143 👍 - Pro
+Testifying:
+* Kathy Taylor - Washington State Department of Ecology
+* Mark Vossler - Washington Physicians for Social Responsibility
 
-#### 335 👎 - Con
+#### 546 👎 - Con
 Testifying:
 * 💵Carolyn Logue - NW Hearth, Patio & Barbecue Association
 * Chris Neufeld - Blaze King Industries, Inc.
@@ -25,5 +28,6 @@ Testifying:
 * Daniel Hammer - SUTTER HOME & HEARTH, INC.
 * Kenneth Spaeth
 * Edward Hosack - Travis Industries, Inc
+* Paul Scherling - Bell Services, LLC
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other

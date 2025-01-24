@@ -35,6 +35,9 @@
 
 ### [HB 1186](/bill/2025-26/hb/1186/) - Expanding the situations in which medications can be dispensed or delivered from hospitals and health care entities. 👍1  
 
+### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products  👎1 
+* 👎💵 Mark Johnson
+
 ### [HB 1209](/bill/2025-26/hb/1209/) - Sodium nitrite   ❓1
 * ❓💵 Crystal Leatherman
 
@@ -43,9 +46,14 @@
 
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎1 
 
+### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍1  
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
 
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs  👎1 
+
+### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates   ❓1
+* ❓💵 Mark Johnson
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enf. hiring grants 👍1  
 * 👍💵 Crystal Leatherman
@@ -58,13 +66,21 @@
 
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 
-## [SB 5099](/bill/2025-26/sb/5099/) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers.   ❓1
+### [SB 5099](/bill/2025-26/sb/5099/) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers.   ❓1
 * ❓💵 Mark Johnson
+
+### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍1  
+
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓1
+* ❓💵 Mark Johnson
+
+## [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
+* 👍💵 Mark Johnson
 
 ## 2023-24
 
-### [SB 5099](/bill/2023-24/sb/5099/) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers.   ❓1
-* ❓💵 Mark Johnson
+### [SB 5285](/bill/2023-24/sb/5285/) - Law enf. officers/increase 👍1  
+* 👍💵 Mark Johnson
 
 ### [HB 1005](/bill/2023-24/hb/1005/) - Military/employer tax incen. 👍1  
 * 👍💵 Mark Johnson

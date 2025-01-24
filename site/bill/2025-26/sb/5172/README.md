@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32612&aId=162216&caId=25028&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32612&aId=162216&caId=25028&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Joe Mann - Spokane Valley Fire Department Civil Service Commissioner
+* Frank Soto Jr - Spokane Valley Fire Department
+* Patrick Burch - Spokane Valley Fire
 
 #### 0 👎 - Con
 

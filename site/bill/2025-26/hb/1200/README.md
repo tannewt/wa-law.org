@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162297&caId=25132&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162297&caId=25132&tId=4)
 
-#### 68 👍 - Pro
+#### 97 👍 - Pro
 Testifying:
 * Catherine Young - Tacoma Special education PTA
 * jessica morrow
+* Jessica Morrow
+* laura blankenship
 * Amanda Harpell-Franz
 * Teena Curry - On behalf of my Mother, Pat Curry
 

@@ -41,7 +41,7 @@
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
-### [SB 5131](/bill/2025-26/sb/5131/) - Religious foods/correctional 👍1  
+### [SB 5131](/bill/2025-26/sb/5131/) - Religious celebrations/DOC 👍1  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 

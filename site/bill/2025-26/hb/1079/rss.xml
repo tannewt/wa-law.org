@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1079/</link>
 		<description>Updates about HB 1079</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2025 10:19:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,38 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Education.</guid>
+		</item>
+		<item>
+			<title>👍Matthew Kesler - Battle Ground PS</title>
+			<description>Matthew Kesler signed up to testify Pro. They are signed up to represent Battle Ground PS.</description>
+			<pubDate>Thu, 23 Jan 2025 03:25:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matthew/Kesler/2025-01-23 03:25:56</guid>
+		</item>
+		<item>
+			<title>👍Wenting Zou - Lake Washington High School</title>
+			<description>Wenting Zou signed up to testify Pro. They are signed up to represent Lake Washington High School.</description>
+			<pubDate>Thu, 23 Jan 2025 07:10:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Wenting/Zou/2025-01-23 07:10:17</guid>
+		</item>
+		<item>
+			<title>👍Wenting Zou - Lake Washington High School</title>
+			<description>Wenting Zou signed up to testify Pro. They are signed up to represent Lake Washington High School.</description>
+			<pubDate>Thu, 23 Jan 2025 07:12:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Wenting/Zou/2025-01-23 07:12:04</guid>
+		</item>
+		<item>
+			<title>👍Felicia Kern - Lake Washington High School</title>
+			<description>Felicia Kern signed up to testify Pro.</description>
+			<pubDate>Thu, 23 Jan 2025 10:19:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Felicia/Kern/2025-01-23 10:19:38</guid>
 		</item>
 	</channel>
 </rss>

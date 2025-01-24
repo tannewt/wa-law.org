@@ -14,10 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161580&caId=24784&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32440&aId=161580&caId=24784&tId=4)
 
-#### 3 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

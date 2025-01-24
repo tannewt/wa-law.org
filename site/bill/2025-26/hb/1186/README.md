@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32443&aId=161431&caId=24883&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32443&aId=161431&caId=24883&tId=4)
 
-#### 11 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* Cindy Wilson - MultiCare Health System
+* 💵Andrea Howell - Pullman Regional Hospital
+* Katie Kolan - Washington State Hospital Association
+* Kelly Thompson - Forks Community Hospital
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

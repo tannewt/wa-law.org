@@ -3,12 +3,12 @@
 
 ### [HB 1204](/bill/2025-26/hb/1204/) - Senior shared housing 👍1  
 
-### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans 👍59  
+### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans 👍64  
 * 👍 Judith Fosmo
 
-### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍49  
+### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍55  
 
-### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍51  
+### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍56  
 * 👍 Nancy Heley
 
 ## [SB 5357](/bill/2025-26/sb/5357/) - Actuarial pension funding  👎1 

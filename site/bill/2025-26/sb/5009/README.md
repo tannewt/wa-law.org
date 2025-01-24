@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Thu 01/23 10:30 AM - Early Learning & K-12 Education (EDU): SB 5009 Student transp. allocation
-#### 119 👍 - Pro
+#### 121 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Brian Freeman - Inchelium School District #70

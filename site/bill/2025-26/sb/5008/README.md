@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Thu 01/23 10:30 AM - Early Learning & K-12 Education (EDU): SB 5008 Public school tools
-#### 79 👍 - Pro
+#### 82 👍 - Pro
 
 #### 401 👎 - Con
 

@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 01/23 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5154 County auditor duties
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161440&caId=24806&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161440&caId=24806&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161440&caId=24806&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32448&aId=161440&caId=24806&tId=4)
-
 #### 25 👍 - Pro
 Testifying:
 * Heidi Hunt - Adams County Auditor/WSACA
@@ -22,7 +16,7 @@ Testifying:
 * Barry Halverson
 * Jon Pettit - citizen
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Commissioner Wayne Fournier - Thurston County Board of Commissioners
 

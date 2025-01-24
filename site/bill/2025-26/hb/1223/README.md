@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162115&caId=25101&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162115&caId=25101&tId=4)
 
-#### 15 👍 - Pro
+#### 47 👍 - Pro
 
-#### 11 👎 - Con
+#### 37 👎 - Con
 Testifying:
 * Erica Engelhart
 

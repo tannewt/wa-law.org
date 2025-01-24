@@ -8,19 +8,14 @@
 
 ## Meetings
 ### Thu 01/23 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5303 Yakima basin water plan
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32471&aId=161823&caId=24912&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32471&aId=161823&caId=24912&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32471&aId=161823&caId=24912&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32471&aId=161823&caId=24912&tId=4)
-
-#### 16 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Brandon Parsons - American Rivers
 * Phil Rigdon - Yakama Nation
 * Urban Eberhart - [Kittitas Reclamation District](/org/kittitas_reclamation_district/)
 * Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
 * Amanda McKinney - Yakima County
+* 💵Matt Zuvich - Office of the State Treasurer
 
 #### 4 👎 - Con
 Testifying:

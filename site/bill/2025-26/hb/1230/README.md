@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32527&aId=161787&caId=24851&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32527&aId=161787&caId=24851&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Rory Paine-Donovan - Office of the Insurance Commissioner
 * Tyler Langford - Office of the Insurance Commissioner
+* John Mangan - [American Council of Life Insurers](/org/american_council_of_life_insurers/)
 
 #### 0 👎 - Con
 

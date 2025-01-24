@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1417/</link>
 		<description>Updates about HB 1417</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2025 16:59:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-20/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>Democrats propose raising tobacco taxes, creating new ones in search of revenue | Washington | thecentersquare.com</title>
+			<description>News article "Democrats propose raising tobacco taxes, creating new ones in search of revenue | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 23 Jan 2025 16:59:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_6f1ff232-d9d6-11ef-b05d-8bbc2efa5d73.html#:~:text=House%20Bill%201417</guid>
 		</item>
 	</channel>
 </rss>

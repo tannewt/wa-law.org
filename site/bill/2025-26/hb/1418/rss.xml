@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1418/</link>
 		<description>Updates about HB 1418</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2025 05:15:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,22 @@
 			<pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-20/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍Sarah Howe - Washington Council of the Blind</title>
+			<description>Sarah Howe signed up to testify Pro. They are signed up to represent Washington Council of the Blind.</description>
+			<pubDate>Thu, 23 Jan 2025 04:33:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sarah/Howe/2025-01-23 04:33:05</guid>
+		</item>
+		<item>
+			<title>👍Joe Kunzler - Washington Council of the Blind</title>
+			<description>Joe Kunzler signed up to testify Pro.</description>
+			<pubDate>Thu, 23 Jan 2025 05:15:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joe/Kunzler/2025-01-23 05:15:23</guid>
 		</item>
 	</channel>
 </rss>

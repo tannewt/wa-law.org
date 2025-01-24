@@ -6,15 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/23/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to expand access to education, career training heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/23/nobles-bill-to-expand-access-to-education-career-training-heard-in-committee/#:~:text=Senate%20Bill%205275)
+
 ## Meetings
 ### Thu 01/23 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5275 Passport to careers program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32475&aId=161837&caId=24927&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32475&aId=161837&caId=24927&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32475&aId=161837&caId=24927&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32475&aId=161837&caId=24927&tId=4)
-
-#### 120 👍 - Pro
+#### 129 👍 - Pro
 Testifying:
 * cierra Draper-West - UW Seattle
 * Maria Belen Sepulveda - n/a
@@ -27,6 +24,6 @@ Testifying:
 * miranda grogger
 * Yokiko Hayashi-Saguil - [College Success Foundation](/org/college_success_foundation/)
 
-#### 366 👎 - Con
+#### 372 👎 - Con
 
 #### 0 ❓ - Other

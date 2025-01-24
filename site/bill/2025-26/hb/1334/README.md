@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/23/2025 [Senate Republicans](/org/senate_republicans/) - [AUDIO: 9th District Legislative update with Republican state Senator Mark Schoesler - Senate Republican Caucus](https://src.wastateleg.org/blog/audio-9th-district-legislative-update-republican-state-senator-mark-schoesler-2/#:~:text=SB%201334)
+
 ## Meetings

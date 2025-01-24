@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1172/</link>
 		<description>Updates about HB 1172</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2025 06:29:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,22 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👍Frank Soto Jr - Spokane Valley Fire Department</title>
+			<description>Frank Soto Jr signed up to testify Pro. They are signed up to represent Spokane Valley Fire Department.</description>
+			<pubDate>Thu, 23 Jan 2025 05:56:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Frank/Soto Jr/2025-01-23 05:56:24</guid>
+		</item>
+		<item>
+			<title>👍Patrick Burch - Spokane Valley Fire</title>
+			<description>Patrick Burch signed up to testify Pro. They are signed up to represent Spokane Valley Fire.</description>
+			<pubDate>Thu, 23 Jan 2025 06:29:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Patrick/Burch/2025-01-23 06:29:06</guid>
 		</item>
 	</channel>
 </rss>

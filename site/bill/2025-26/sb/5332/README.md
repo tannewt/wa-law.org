@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162131&caId=24999&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162131&caId=24999&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Kol Peterson - Tiny Hookups LLC
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
 #### 0 👎 - Con
 

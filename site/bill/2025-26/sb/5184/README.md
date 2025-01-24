@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161747&caId=24761&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32481&aId=161747&caId=24761&tId=4)
 
-#### 691 👍 - Pro
+#### 816 👍 - Pro
 Testifying:
 * Catie Gould - [Sightline Institute](/org/sightline_institute/)
 * L Harrison Jerome
@@ -46,9 +46,17 @@ Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Ron Davis - Sightline
 * Riley Benge - Washington REALTORS
+* Wes Stewart - Sierra Club Washington
+* Susan Davenport - Thurston Housing Land Trust
+* Nicholas Carr - Office of the Governor
+* Jace Cotton
+* Carston Curd - Councilmember, City of Bothell
+* Kelli Refer - Move Redmond
+* Zack Zappone - [City of Spokane](/org/city_of_spokane/)
 
-#### 239 👎 - Con
+#### 360 👎 - Con
 Testifying:
 * Salim Nice - City Mercer Island
+* Mariya Frost - Kemper Development Company
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

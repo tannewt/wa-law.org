@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32571&aId=162041&caId=25122&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32571&aId=162041&caId=25122&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Frank Soto Jr - Spokane Valley Fire Department
+* Patrick Burch - Spokane Valley Fire
 
 #### 0 👎 - Con
 

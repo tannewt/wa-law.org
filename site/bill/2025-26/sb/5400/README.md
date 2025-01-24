@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162253&caId=25013&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162253&caId=25013&tId=4)
 
-#### 8 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Alan Fisco - [The Seattle Times](/org/the_seattle_times/)
 * Frank Blethen - [The Seattle Times](/org/the_seattle_times/)
 * Carl Zapora - Board Chair, My Neighborhood News Network
+* Dee Anne Finken - League of Women Voters of Washington
+* Ben Campbell - The Columbian
 
 #### 0 👎 - Con
 

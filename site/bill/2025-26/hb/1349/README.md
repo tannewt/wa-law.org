@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/23 04:00 PM - Appropriations (APP): HB 1349 Pension credit for leave
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32469&aId=161831&caId=24917&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32469&aId=161831&caId=24917&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32469&aId=161831&caId=24917&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32469&aId=161831&caId=24917&tId=4)
-
-#### 11 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Jacob White - LEOFF 2 Board
 

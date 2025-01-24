@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161995&caId=25002&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161995&caId=25002&tId=4)
 
-#### 100 👍 - Pro
+#### 125 👍 - Pro
 Testifying:
 * hengshan liu - no
 * Jessica Morrow
+* Jessica Morrow
+* laura blankenship
 * Alexander Toole
 * Amanda Harpell-Franz
 * Teena Curry - My Mother, Pat Curry

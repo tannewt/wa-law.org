@@ -1,6 +1,9 @@
 # Washington Wildlife First
 ## 2025-26
 
+### [SB 5152](/bill/2025-26/sb/5152/) - Concerning state employee access to peer-reviewed journals. 👍1  
+* 👍 Francisco Santiago-Ávila
+
 ## [SB 5171](/bill/2025-26/sb/5171/) - Wolf predation  👎1 
 * 👎 Francisco Santiago-Ávila
 

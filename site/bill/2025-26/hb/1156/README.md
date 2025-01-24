@@ -12,15 +12,10 @@
 
 ## Meetings
 ### Thu 01/23 04:00 PM - Appropriations (APP): HB 1156 Volunteer firefighters/DCP
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32469&aId=161527&caId=24827&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32469&aId=161527&caId=24827&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32469&aId=161527&caId=24827&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32469&aId=161527&caId=24827&tId=4)
-
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Andrew Schaffran - WA St Fire Fighters' Association (Volunteers)
+* Arnold Baker - Chelan County Fire District 5
 
 #### 0 👎 - Con
 

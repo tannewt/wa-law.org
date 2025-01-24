@@ -22,6 +22,8 @@
 
 ### [HB 1075](/bill/2025-26/hb/1075/) - Affordable housing financing 👍1  
 
+### [HB 1079](/bill/2025-26/hb/1079/) - Remote testing 👍1  
+
 ### [HB 1080](/bill/2025-26/hb/1080/) - Lodging fee disclosure  👎1 
 
 ### [HB 1082](/bill/2025-26/hb/1082/) - Child care provider qualif. 👍1  
@@ -64,6 +66,8 @@
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages  👎1 
 * 👎💵 Lindsey Hueer
 
+### [HB 1186](/bill/2025-26/hb/1186/) - Expanding the situations in which medications can be dispensed or delivered from hospitals and health care entities. 👍1  
+
 ### [HB 1188](/bill/2025-26/hb/1188/) - Requiring local government and tribal approval of wind and solar siting recommendations by the energy facility site evaluation council.  👎1 
 * 👎💵 Peter Godlewski
 
@@ -95,7 +99,11 @@
 
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records  👎1 
 
+### [HB 1314](/bill/2025-26/hb/1314/) - Early learning facilities 👍1  
+
 ### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍1  
+
+### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍2  
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
 
@@ -107,6 +115,8 @@
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Lindsey Hueer
+
+### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers  👎1 
 
 ### [SB 5054](/bill/2025-26/sb/5054/) - Winery tax exemption 👍1  
 
@@ -141,10 +151,14 @@
 ### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations   ❓1
 * ❓💵 Lindsey Hueer
 
+### [SB 5236](/bill/2025-26/sb/5236/) - Anesthetics/greenhouse gases 👍1  
+
 ### [SB 5241](/bill/2025-26/sb/5241/) - Fusion energy facilities 👍1  
 
 ### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
 * 👎💵 Lindsey Hueer
+
+### [SB 5328](/bill/2025-26/sb/5328/) - Earned wage access services 👍1  
 
 ## [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 * 👎💵 Peter Godlewski

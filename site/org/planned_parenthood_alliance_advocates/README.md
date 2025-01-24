@@ -3,6 +3,8 @@
 
 ### [HB 1062](/bill/2025-26/hb/1062/) - Biomarker testing coverage 👍1  
 
+### [HB 1077](/bill/2025-26/hb/1077/) - IUD pain control options   ❓1
+
 ### [HB 1090](/bill/2025-26/hb/1090/) - Contraceptive coverage 👍1  
 * 👍💵 Nicole Kern
 
@@ -25,7 +27,11 @@
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
 * 👍💵 Courtney Normand
 
+### [HB 1314](/bill/2025-26/hb/1314/) - Early learning facilities 👍1  
+
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax 👍1  
+
+### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍1  
 
@@ -36,6 +42,8 @@
 ### [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services 👍1  
 * 👍💵 Nicole Kern
 
+### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Nicole Kern
 
@@ -44,11 +52,13 @@
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
 * 👍💵 Nicole Kern
 
-## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
+
+## [SB 5270](/bill/2025-26/sb/5270/) - Providing mentors to novice nurses in the beginning educator support team program. 👍1  
 
 ## 2023-24
 
-### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants 👍1  
+### [SB 5270](/bill/2023-24/sb/5270/) - Providing mentors to novice nurses in the beginning educator support team program. 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

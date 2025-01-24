@@ -1,9 +1,18 @@
 # Mountain Lion Foundation
+## 2025-26
 
-## [HB 2434](/bill/2023-24/hb/2434/) - Fish and wildlife commission   ❓1
+## [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
+* 👍 Josh Rosenau
+
+## 2023-24
+
+### [HB 1399](/bill/2023-24/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
+* 👍 Josh Rosenau
+
+### [HB 2434](/bill/2023-24/hb/2434/) - Fish and wildlife commission   ❓1
 * ❓ Josh Rosenau
 
-## [HB 2456](/bill/2023-24/hb/2456/) - Wildlife safe passages 👍3  
+### [HB 2456](/bill/2023-24/hb/2456/) - Wildlife safe passages 👍3  
 * 👍 Josh Rosenau
 
 ## [SB 5699](/bill/2023-24/sb/5699/) - Increasing the compensation for members of the fish and wildlife commission. 👍1  

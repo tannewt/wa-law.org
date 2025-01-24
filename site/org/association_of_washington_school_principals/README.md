@@ -33,11 +33,13 @@
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍2  
 
-## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍2  
+### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍2  
+
+## [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 
 ## 2023-24
 
-### [SB 5307](/bill/2023-24/sb/5307/) - Special education funding 👍2  
+### [SB 5308](/bill/2023-24/sb/5308/) - Guaranteed admissions prg. 👍1  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
 

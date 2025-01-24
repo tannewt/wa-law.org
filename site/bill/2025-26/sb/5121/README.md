@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161673&caId=24753&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32489&aId=161673&caId=24753&tId=4)
 
-#### 463 👍 - Pro
+#### 584 👍 - Pro
 Testifying:
 * Erica Tomas
 * Eliana Horn
@@ -29,8 +29,9 @@ Testifying:
 * Dr. Lori Marshall
 * Amy Landram
 * Jenna Comstock - QLaw
+* Dr. Kimberley Riehle
 
-#### 676 👎 - Con
+#### 804 👎 - Con
 Testifying:
 * Theresa Schrempp
 * Mary Long - Conservative Ladies of Washington
@@ -39,7 +40,9 @@ Testifying:
 * Theresaa Schrempp
 * Theresa Schrempp
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Quiana Daniels - Washington State Board of Nursing

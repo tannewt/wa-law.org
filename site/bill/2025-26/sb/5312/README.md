@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32528&aId=161849&caId=25018&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32528&aId=161849&caId=25018&tId=4)
 
-#### 21 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Bruce Glant
+* Tanner Ness - Cage
+* Jr., Franklin Wilson - Triple F's Investigation
 
 #### 1 👎 - Con
 Testifying:

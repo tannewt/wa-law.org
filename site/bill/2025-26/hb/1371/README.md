@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Thu 01/23 04:00 PM - Transportation (TR): HB 1371 Veteran parking privileges
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32474&aId=161855&caId=24939&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32474&aId=161855&caId=24939&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32474&aId=161855&caId=24939&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32474&aId=161855&caId=24939&tId=4)
-
-#### 42 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * Dan Regester - K9 Kavalry
 * Xiomara Enriquez - K9Kalvary
 * Allen Acosta - Veterans Legislative Coalition
 * Tobey Bolinger
+* Holly Mehlenbeck
 
 #### 1 👎 - Con
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1228/</link>
 		<description>Updates about HB 1228</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 22 Jan 2025 05:24:13 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 23 Jan 2025 17:50:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -36,6 +36,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Bradley/Lane/2025-01-22 05:24:13</guid>
+		</item>
+		<item>
+			<title>Seattle city attorney pushes for approval of state bill to speed up DUI cases | Washington | thecentersquare.com</title>
+			<description>News article "Seattle city attorney pushes for approval of state bill to speed up DUI cases | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 23 Jan 2025 17:50:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_3436aa4c-d9dd-11ef-b4d9-d3bb9aaa7565.html#:~:text=House%20Bill%201228</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,19 +8,17 @@
 
 ## Meetings
 ### Thu 01/23 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5305 Salmon recovery accelerator
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32471&aId=161824&caId=24913&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32471&aId=161824&caId=24913&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32471&aId=161824&caId=24913&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32471&aId=161824&caId=24913&tId=4)
-
-#### 9 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Todd Myers - Washington Policy Center
+* 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 6 👎 - Con
-
-#### 2 ❓ - Other
+#### 7 👎 - Con
 Testifying:
+* Mindy Roberts - [Washington Conservation Action](/org/washington_conservation_action/)
+
+#### 3 ❓ - Other
+Testifying:
+* John Worthington
 * john worthington
 * john worthington

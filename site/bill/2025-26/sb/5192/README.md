@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/24/2025 [Washington State Standard](/org/washington_state_standard/) - [In tight budget year, pressure builds to boost WA school funding • Washington State Standard](https://washingtonstatestandard.com/2025/01/23/in-tight-budget-year-pressure-builds-to-boost-wa-school-funding/#:~:text=Senate%20Bill%205192)
 * 01/22/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill advocating for stronger school funding heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/22/nobles-bill-advocating-for-stronger-school-funding-heard-in-committee/#:~:text=Senate%20Bill%205192)
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205192)
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205192)
