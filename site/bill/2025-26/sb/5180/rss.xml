@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5180/</link>
 		<description>Updates about SB 5180</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 21 Jan 2025 06:45:47 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 25 Jan 2025 00:44:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -337,6 +337,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Diane/Dondero/2025-01-21 06:45:47</guid>
+		</item>
+		<item>
+			<title>2025 Legislative Session Update! - Sen. Claire Wilson</title>
+			<description>News article "2025 Legislative Session Update! - Sen. Claire Wilson" from Senate Democrats.</description>
+			<pubDate>Sat, 25 Jan 2025 00:44:22 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/wilson/2025/01/24/2025-legislative-session-update/#:~:text=SB%205180</guid>
 		</item>
 	</channel>
 </rss>

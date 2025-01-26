@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 Legislative Session Update! - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/24/2025-legislative-session-update/#:~:text=SB%205128)
+
 ## Meetings
 ### Mon 01/20 01:30 PM - Human Services (HS): SB 5128 Juvenile detention, medical
 #### 17 👍 - Pro

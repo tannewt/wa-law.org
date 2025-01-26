@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32566&aId=162014&caId=25066&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32566&aId=162014&caId=25066&tId=4)
 
-#### 22 👍 - Pro
+#### 114 👍 - Pro
+Testifying:
+* David Koenig - Retired Public Employees Council of WA
 
 #### 0 👎 - Con
 

@@ -1,7 +1,8 @@
 # Faith Action Network
 ## 2025-26
 
-### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍2  
+### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍3  
+* 👍💵 Kristin Ang
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
 
@@ -13,14 +14,26 @@
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
 
+### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍2  
+
+### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  
+
 ### [SB 5101](/bill/2025-26/sb/5101/) - Expanding access to leave and safety accommodations to include workers who are victims of hate crimes or bias incidents. 👍1  
 * 👍💵 Kristin Ang
 
-## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
+### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
+
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
+
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
+
+## [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
+* 👍 Katherine Long
 
 ## 2023-24
 
-### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants 👍2  
+### [SB 5369](/bill/2023-24/sb/5369/) - Youth mental health/schools 👍1  
+* 👍 Katherine Long
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Kristin Ang

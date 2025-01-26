@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32576&aId=162067&caId=24995&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32576&aId=162067&caId=24995&tId=4)
 
-#### 77 👍 - Pro
+#### 339 👍 - Pro
+Testifying:
+* Ahna Rader - Advocates for Youth
+* Sullivan Taylor - Advocates For Youth
+* Emily Cuarenta - Advocates for Youth
 
-#### 34 👎 - Con
+#### 682 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 * 💵Jean Hill - Washington State Catholic Conference
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

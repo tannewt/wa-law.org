@@ -30,7 +30,7 @@
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 * 👍 AP Diaz
 
-### [SB 5099](/bill/2025-26/sb/5099/) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers. 👍1  
+### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers 👍1  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act.   ❓1
 

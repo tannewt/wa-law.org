@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32562&aId=161999&caId=25006&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32562&aId=161999&caId=25006&tId=4)
 
-#### 12 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Ryan Dudley - FFRF Action Fund
 * Sara Young - Representative as a former Jehovah’s Witness
@@ -26,8 +26,9 @@ Testifying:
 * Mary Dispenza - Clergy Accountability Coalition
 * Sharon Valdés Huling - Clergy Accountability Coalition
 * Chris Dormaier
+* Mitch Melin
 
-#### 30 👎 - Con
+#### 92 👎 - Con
 Testifying:
 * Bishop Frank Schuster - Archdiocese of Seattle
 * 💵Jean Hill - Washington State Catholic Conference

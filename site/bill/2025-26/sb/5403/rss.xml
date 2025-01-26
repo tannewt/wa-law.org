@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5403/</link>
 		<description>Updates about SB 5403</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 24 Jan 2025 09:08:28 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 25 Jan 2025 12:21:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -39,12 +39,60 @@
 			<guid isPermaLink="false">testifier/Tamara/Weinmann/2025-01-23 03:03:53</guid>
 		</item>
 		<item>
+			<title>👍Rebeca Potasnik - 13300 SE 30th st unit 101</title>
+			<description>Rebeca Potasnik signed up to testify Pro.</description>
+			<pubDate>Fri, 24 Jan 2025 01:42:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rebeca/Potasnik/2025-01-24 01:42:24</guid>
+		</item>
+		<item>
+			<title>❓Beau Whitney - Whitney Economics</title>
+			<description>Beau Whitney signed up to testify Other. They are signed up to represent Whitney Economics.</description>
+			<pubDate>Fri, 24 Jan 2025 03:48:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Beau/Whitney/2025-01-24 03:48:43</guid>
+		</item>
+		<item>
 			<title>👍Benjamin Ogren - The People of this great state</title>
 			<description>Benjamin Ogren signed up to testify Pro. They are signed up to represent The People of this great state.</description>
 			<pubDate>Fri, 24 Jan 2025 09:08:28 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Benjamin/Ogren/2025-01-24 09:08:28</guid>
+		</item>
+		<item>
+			<title>👍Douglas Henderson - Painted Rooster</title>
+			<description>Douglas Henderson signed up to testify Pro. They are signed up to represent Painted Rooster.</description>
+			<pubDate>Fri, 24 Jan 2025 11:38:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Douglas/Henderson/2025-01-24 11:38:35</guid>
+		</item>
+		<item>
+			<title>👍Anthony Golden - 500</title>
+			<description>Anthony Golden signed up to testify Pro. They are signed up to represent 500.</description>
+			<pubDate>Sat, 25 Jan 2025 05:44:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Anthony/Golden/2025-01-25 05:44:45</guid>
+		</item>
+		<item>
+			<title>👍Scott Mckinley - The Cantanna Festival</title>
+			<description>Scott Mckinley signed up to testify Pro. They are signed up to represent The Cantanna Festival.</description>
+			<pubDate>Sat, 25 Jan 2025 06:51:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Mckinley/2025-01-25 06:51:34</guid>
+		</item>
+		<item>
+			<title>👎Megan Moore - WA State Public Health Association</title>
+			<description>Megan Moore signed up to testify Con. They are signed up to represent WA State Public Health Association.</description>
+			<pubDate>Sat, 25 Jan 2025 12:21:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Megan/Moore/2025-01-25 12:21:23</guid>
 		</item>
 	</channel>
 </rss>

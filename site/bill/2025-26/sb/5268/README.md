@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161871&caId=25025&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161871&caId=25025&tId=4)
 
-#### 109 👍 - Pro
+#### 927 👍 - Pro
 Testifying:
 * Laurie Layne
+* Ken Swenson - Modern Renovators, LLC
+* Valerie Schaler
 
-#### 3 👎 - Con
+#### 22 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

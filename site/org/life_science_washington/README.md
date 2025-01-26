@@ -6,6 +6,8 @@
 
 ### [HB 1238](/bill/2025-26/hb/1238/) - Rare diseases adv. council 👍1  
 
+### [HB 1444](/bill/2025-26/hb/1444/) - Whole genome sequencing 👍1  
+
 ## [SB 5064](/bill/2025-26/sb/5064/) - Rare diseases adv. council 👍1  
 
 ## 2023-24

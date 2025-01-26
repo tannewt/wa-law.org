@@ -17,6 +17,9 @@
 ### [HB 1293](/bill/2025-26/hb/1293/) - Litter 👍1  
 * 👍💵 Heather Trim
 
+### [HB 1302](/bill/2025-26/hb/1302/) - Utility connection charges 👍1  
+* 👍💵 Heather Trim
+
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍2  
 
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs   ❓1

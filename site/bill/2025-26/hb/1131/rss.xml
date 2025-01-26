@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1131 - Concerning clemency and pardons.</title>
+		<title>HB 1131 - Clemency and pardons</title>
 		<link>https://wa-law.org/bill/2025-26/hb/1131/</link>
 		<description>Updates about HB 1131</description>
 		<language>en-US</language>
@@ -50,13 +50,6 @@
 			<description>News article "The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Mon, 13 Jan 2025 15:52:31 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201131</guid>
-		</item>
-		<item>
-			<title>The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans</title>
-			<description>News article "The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Mon, 13 Jan 2025 15:52:31 GMT</pubDate>
-			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201131</guid>
 		</item>
 		<item>
@@ -97,6 +90,13 @@
 			<pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-23/CS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-23/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

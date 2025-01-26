@@ -1,15 +1,27 @@
 # The Arc of Washington State
 ## 2025-26
 
+### [HB 1130](/bill/2025-26/hb/1130/) - Concerning utilization of developmental disabilities waivers. 👍2  
+* 👍💵 Stacy Dym
+* 👍💵 Stacy Dym
+
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍1  
 
-## [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
+### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍💵 Stacy Dym
+
+### [HB 1200](/bill/2025-26/hb/1200/) - DD parental caregivers 👍1  
+
+### [HB 1344](/bill/2025-26/hb/1344/) - Respite care 👍1  
+* 👍💵 Stacy Dym
+
+### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍1  
+
+## [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍1  
 
 ## 2023-24
 
-### [HB 1198](/bill/2023-24/hb/1198/) - Operating budget 👍1  
-* 👍💵 Stacy Dym
+### [SB 5211](/bill/2023-24/sb/5211/) - DD parental caregivers 👍1  
 
 ### [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
 

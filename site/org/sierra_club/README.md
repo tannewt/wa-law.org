@@ -1,76 +1,85 @@
 # Sierra Club
+## 2025-26
 
-## [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
+## [HB 1249](/bill/2025-26/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission.  👎1 
+* 👎 Kathleen M. Saul
+
+## 2023-24
+
+### [HB 1249](/bill/2023-24/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission.  👎1 
+* 👎 Kathleen M. Saul
+
+### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 * 👍💵 Jesse Piedfort
 
-## [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍2  
+### [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍2  
 * 👍 Dylan Plummer
 
-## [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
+### [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍1  
 
-## [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
+### [HB 1181](/bill/2023-24/hb/1181/) - Climate change/planning 👍1  
 
-## [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
+### [HB 1185](/bill/2023-24/hb/1185/) - Lighting products 👍1  
 
-## [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas 👍1  
+### [HB 1215](/bill/2023-24/hb/1215/) - Riparian areas 👍1  
 
-## [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍2  
+### [HB 1282](/bill/2023-24/hb/1282/) - Public building materials 👍2  
 * 👍 Robin Everett
 
-## [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍5  
+### [HB 1329](/bill/2023-24/hb/1329/) - Utility shutoffs/heat 👍5  
 * 👍 Ruth Sawyer
 * 👍 Ruth Sawyer
 * 👍 Ruth Sawyer
 
-## [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍8  
+### [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍8  
 * 👍 MIKE O'BRIEN
 
-## [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
+### [HB 1433](/bill/2023-24/hb/1433/) - Energy labeling/residential 👍1  
 
-## [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍8  
+### [HB 1460](/bill/2023-24/hb/1460/) - DNR land 👍8  
 * 👍 Mike Town
 
-## [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology  👎1 
+### [HB 1584](/bill/2023-24/hb/1584/) - Nuclear reactor technology  👎1 
 
-## [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1  
+### [HB 1589](/bill/2023-24/hb/1589/) - Clean energy 👍1  
 * 👍 Dylan Plummer
 
-## [HB 1698](/bill/2023-24/hb/1698/) - Gray wolf management  👎1 
+### [HB 1698](/bill/2023-24/hb/1698/) - Gray wolf management  👎1 
 
-## [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1 👎2 
+### [HB 1789](/bill/2023-24/hb/1789/) - Ecosystem services 👍1 👎2 
 * 👍 Mariska Kecskes
 * 👎 Mariska Kecskes
 * 👎 Mariska Kecskes
 
-## [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  
+### [HB 2023](/bill/2023-24/hb/2023/) - Improving meaningful access to elections by increasing language assistance. 👍1  
 
-## [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍1  
+### [HB 2113](/bill/2023-24/hb/2113/) - GMA housing element 👍1  
 
-## [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp. 👍1  
+### [HB 2134](/bill/2023-24/hb/2134/) - Transportation budget, supp. 👍1  
 
-## [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology  👎1 
+### [SB 5129](/bill/2023-24/sb/5129/) - Nuclear reactor technology  👎1 
 
-## [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
+### [SB 5190](/bill/2023-24/sb/5190/) - Middle housing 👍1  
 * 👍 Wes Stewart
 
-## [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍2  
+### [SB 5269](/bill/2023-24/sb/5269/) - Manufacturing 👍2  
 * 👍 Robin Everett
 * 👍 Robin Everett
 
-## [SB 5320](/bill/2023-24/sb/5320/) - Journey level electricians 👍1  
+### [SB 5320](/bill/2023-24/sb/5320/) - Journey level electricians 👍1  
 
-## [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
+### [SB 5366](/bill/2023-24/sb/5366/) - Utility shutoffs/heat 👍1  
 * 👍 Jim Dennison
 
-## [SB 5372](/bill/2023-24/sb/5372/) - DNR land 👍1  
+### [SB 5372](/bill/2023-24/sb/5372/) - DNR land 👍1  
 
-## [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work 👍1  
+### [SB 5418](/bill/2023-24/sb/5418/) - Definition of public work 👍1  
 
-## [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
+### [SB 5466](/bill/2023-24/sb/5466/) - Transit-oriented development 👍1  
 
-## [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎3 
+### [SB 5517](/bill/2023-24/sb/5517/) - Water resource mitigation  👎3 
 * 👎💵 Bruce Wishart
 
-## [SB 5622](/bill/2023-24/sb/5622/) - Municipal water supply  👎1 
+### [SB 5622](/bill/2023-24/sb/5622/) - Municipal water supply  👎1 
 
 ## [SB 5688](/bill/2023-24/sb/5688/) - Providing carbon sequestration and ecosystem services in the management of public lands. 👍1  

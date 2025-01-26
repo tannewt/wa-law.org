@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161977&caId=24971&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161977&caId=24971&tId=4)
 
-#### 4 👍 - Pro
+#### 39 👍 - Pro
+Testifying:
+* Scott Kerwien - [Spokane Public Schools](/org/spokane_public_schools/)
+* Misha Cherniske - Office of Superintendent of Public Instruction
 
 #### 0 👎 - Con
 

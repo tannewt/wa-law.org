@@ -15,13 +15,19 @@
 
 ### [SB 5234](/bill/2025-26/sb/5234/) - Snowmobile registration fees 👍1  
 
-## [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
+### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
 * 👍 Pat Sullivan
+
+### [SB 5319](/bill/2025-26/sb/5319/) - Surface mine reclamation 👍1  
+* 👍 Pat Sullivan
+
+## [SB 5334](/bill/2025-26/sb/5334/) - DNR civil enforcement appeal 👍1  
+* 👍 Erika Odem
 
 ## 2023-24
 
-### [SB 5303](/bill/2023-24/sb/5303/) - Yakima basin water plan 👍1  
-* 👍 Pat Sullivan
+### [SB 5334](/bill/2023-24/sb/5334/) - DNR civil enforcement appeal 👍1  
+* 👍 Erika Odem
 
 ### [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management 👍1  
 

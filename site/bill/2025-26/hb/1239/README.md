@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201239)
+
 ## Meetings
 ### Tue 01/28 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1239 Reentry readiness/DOC
 Sign up to testify:
@@ -14,10 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161958&caId=25105&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161958&caId=25105&tId=4)
 
-#### 149 👍 - Pro
+#### 339 👍 - Pro
 Testifying:
 * Aaron Delaney
+* Jacob Schmitt - Just Us Solutions, LLC
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

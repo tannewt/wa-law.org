@@ -13,13 +13,16 @@
 
 ### [SB 5163](/bill/2025-26/sb/5163/) - Child fatalities 👍1  
 
-## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ PAULA REED
+
+### [SB 5227](/bill/2025-26/sb/5227/) - Concerning offenses involving child sex dolls. 👍1  
+
+## [SB 5375](/bill/2025-26/sb/5375/) - Clergy, duty to report abuse 👍1  
 
 ## 2023-24
 
-### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp.   ❓1
-* ❓ PAULA REED
+### [SB 5375](/bill/2023-24/sb/5375/) - Clergy, duty to report abuse 👍1  
 
 ### [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 

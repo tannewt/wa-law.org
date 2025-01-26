@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [Week Two Comes to a Close - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/01/24/week-two-comes-to-a-close/#:~:text=5307)
+* 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session is underway! - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/01/24/2025-session-is-underway/#:~:text=SB%205307)
 * 01/24/2025 [Washington State Standard](/org/washington_state_standard/) - [In tight budget year, pressure builds to boost WA school funding • Washington State Standard](https://washingtonstatestandard.com/2025/01/23/in-tight-budget-year-pressure-builds-to-boost-wa-school-funding/#:~:text=Senate%20Bill%205307)
 * 01/23/2025 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Close the Funding Gaps - WSPTA](https://www.wastatepta.org/wspta-testifies-4/#:~:text=SB%205307)
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205307)

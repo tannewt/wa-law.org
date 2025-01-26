@@ -17,6 +17,8 @@
 * 👍 Charles Marcus
 * 👍 Charles Marcus
 
+### [SB 5119](/bill/2025-26/sb/5119/) - Academic employee bargaining 👍1  
+
 ### [SB 5158](/bill/2025-26/sb/5158/) - Student athlete insurance 👍1  
 * 👍 Joe Dacca
 
@@ -26,11 +28,13 @@
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 * 👍 Joe Dacca
 
-## [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍1  
+### [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍2  
+
+## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍2  
 
 ## 2023-24
 
-### [SB 5321](/bill/2023-24/sb/5321/) - Postsecondary/med. abortion 👍1  
+### [SB 5402](/bill/2023-24/sb/5402/) - Financial aid eligibility 👍2  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

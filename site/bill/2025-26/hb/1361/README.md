@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162230&caId=25075&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162230&caId=25075&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Constance Parbon - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Scott Douglas - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 #### 0 👎 - Con
 

@@ -14,6 +14,24 @@
 * 12/19/2024 [The Center Square](/org/the_center_square/) - [Bipartisan effort reducing BAC limit to .05% could face opposition from both sides | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5743f656-be4f-11ef-8e62-f748d7706995.html#:~:text=Senate%20Bill%205067)
 
 ## Meetings
+### Thu 01/30 04:00 PM - Transportation (TRAN): SSB 5067 Impaired driving
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=4)
+
+#### 10 👍 - Pro
+Testifying:
+* Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
+* Annie Sawyer
+* Candace Reid - Mothers Against Drunk Driving
+* Beth Ebel - WCAAP
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/14 08:00 AM - Law & Justice (LAW): SB 5067 Impaired driving
 #### 57 👍 - Pro
 Testifying:

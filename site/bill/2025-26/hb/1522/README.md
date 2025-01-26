@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201522)
+
 ## Meetings
 ### Thu 01/30 08:00 AM - Environment & Energy (ENVI): HB 1522 Utility wildfire mitigation
 Sign up to testify:

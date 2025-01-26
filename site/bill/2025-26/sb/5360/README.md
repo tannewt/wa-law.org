@@ -8,12 +8,13 @@
 
 ## Meetings
 ### Fri 01/24 10:30 AM - Environment, Energy & Technology (ENET): SB 5360 Environmental crimes
-#### 16 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Bradley Roberts - Washington State Attorney Generals Office
 * Melissa Malott - Communities for a Healthy Bay
 * Stefanie Stockwell - Communities for a Healthy Bay
 * Sean Dixon - Puget Soundkeeper Alliance
+* Connar Mon
 
 #### 80 👎 - Con
 Testifying:

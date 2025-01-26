@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201449)
+
 ## Meetings
 ### Tue 01/28 01:30 PM - Consumer Protection & Business (CPB): HB 1449 Home cultivation of cannabis
 Sign up to testify:
@@ -14,12 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32573&aId=162049&caId=25090&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32573&aId=162049&caId=25090&tId=4)
 
-#### 7 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Don Skakie - Homegrow Washington
 * Micah Sherman
 * Erik Johansen
+* Anthony Martinelli - The Marijuana Herald
+* Cody Funderburk - Washington Cannabis Workers Club
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32604&aId=162167&caId=24950&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32604&aId=162167&caId=24950&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Diana Carlen - [Pacific Coast Shellfish Growers Association](/org/pacific_coast_shellfish_growers_association/)
+* Kathleen Nisbet Moncy - COO, Goose Point Oyster Company
+* Marilyn Sheldon - Northern Oyster Company
 
 #### 0 👎 - Con
 

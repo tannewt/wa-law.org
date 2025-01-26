@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32604&aId=162169&caId=24952&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32604&aId=162169&caId=24952&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Kory Hedrick - Versatile Industries Inc
 
 #### 0 ❓ - Other

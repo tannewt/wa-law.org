@@ -10,7 +10,7 @@
 ### [HB 1178](/bill/2025-26/hb/1178/) - Concerning sentencing enhancements. 👍1  
 * 👍 Percy Levy
 
-### [HB 1192](/bill/2025-26/hb/1192/) - Concerning disciplinary hearings held by the department of corrections. 👍1  
+### [HB 1192](/bill/2025-26/hb/1192/) - DOC disciplinary hearings 👍1  
 * 👍 Cindy Arends Elsberry
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  

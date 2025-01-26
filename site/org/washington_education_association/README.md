@@ -30,6 +30,8 @@
 
 ### [HB 1116](/bill/2025-26/hb/1116/) - Recognizing election day. 👍1  
 
+### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
+
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board. 👍1  
 
 ### [HB 1129](/bill/2025-26/hb/1129/) - Concerning health plan coverage of fertility-related services. 👍1  
@@ -87,9 +89,13 @@
 
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍1  
 
+### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍5  
+
 ### [HB 1349](/bill/2025-26/hb/1349/) - Pension credit for leave 👍1  
 
 ### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  
+
+### [HB 1450](/bill/2025-26/hb/1450/) - Transition to kindergarten  👎3 
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -121,6 +127,9 @@
 
 ### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans   ❓1
 * ❓ Jared Mason-Gere
+
+### [SB 5086](/bill/2025-26/sb/5086/) - PEBB & SEBB consolidation  👎6 
+* 👎 Jared Mason-Gere
 
 ### [SB 5087](/bill/2025-26/sb/5087/) - CTC legal education programs 👍1  
 

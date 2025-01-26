@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201058)
+
 ## Meetings
 ### Tue 01/28 08:00 AM - Finance (FIN): HB 1058 Freight railroad infra.
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32534&aId=161890&caId=25070&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32534&aId=161890&caId=25070&tId=4)
 
-#### 2 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 

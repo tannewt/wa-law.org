@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201283)
+
 ## Meetings
 ### Mon 01/27 04:00 PM - Transportation (TR): HB 1283 Certificates of title
 Sign up to testify:
@@ -18,4 +21,6 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Thad Duvall - Douglas County Auditor, Co-Chair of WSACA Licensing Committee

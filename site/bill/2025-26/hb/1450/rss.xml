@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1450/</link>
 		<description>Updates about HB 1450</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 21 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 24 Jan 2025 19:41:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,37 @@
 			<pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-21/First reading, referred to Education.</guid>
+		</item>
+		<item>
+			<title>❓Trina Hall - Ferndale School District</title>
+			<description>Trina Hall signed up to testify Other. They are signed up to represent Ferndale School District.</description>
+			<pubDate>Fri, 24 Jan 2025 02:23:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Trina/Hall/2025-01-24 02:23:15</guid>
+		</item>
+		<item>
+			<title>❓Wade Smith - Walla Walla Public Schools</title>
+			<description>Wade Smith signed up to testify Other. They are signed up to represent Walla Walla Public Schools.</description>
+			<pubDate>Fri, 24 Jan 2025 02:37:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Wade/Smith/2025-01-24 02:37:30</guid>
+		</item>
+		<item>
+			<title>👎Michelle Boatwright - Washington Cannabis Workers Club</title>
+			<description>Michelle Boatwright signed up to testify Con.</description>
+			<pubDate>Fri, 24 Jan 2025 05:32:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Michelle/Boatwright/2025-01-24 05:32:01</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 24 Jan 2025 19:41:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201450</guid>
 		</item>
 	</channel>
 </rss>

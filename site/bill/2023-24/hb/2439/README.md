@@ -8,7 +8,6 @@
 
 ## 📰 Articles
 * 01/30/2024 [House Republicans](/org/house_republicans/) - [Fix the affordability crisis | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-the-affordability-crisis/#:~:text=House%20Bill%202439)
-* 01/11/2024 [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/affordability/#:~:text=House%20Bill%202439)
 * [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/affordability/#:~:text=House%20Bill%202439)
 * [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/affordability/#:~:text=House%20Bill%202439)
 

@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32612&aId=162217&caId=25029&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32612&aId=162217&caId=25029&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Kevin Schilling - South Sound Chamber Legislative Coalition
 * Laurie Layne
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 7 👎 - Con
+#### 25 👎 - Con
 
 #### 0 ❓ - Other

@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161912&caId=25136&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161912&caId=25136&tId=4)
 
-#### 8 👍 - Pro
+#### 171 👍 - Pro
 Testifying:
+* Stacy Gray
+* Mallorie Mancuso
 * Justin Gill - President, Washington State Nurses Association
 
 #### 1 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

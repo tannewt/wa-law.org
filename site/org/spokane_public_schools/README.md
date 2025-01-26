@@ -5,17 +5,24 @@
 * ❓ Nikki Lockwood
 * ❓ Nikki Lockwood
 
+### [HB 1267](/bill/2025-26/hb/1267/) - Special education funding   ❓1
+* ❓ Hilary Kozel
+
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍1  
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 
-## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
+### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
+
+## [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
+* 👍 Scott Kerwien
 
 ## 2023-24
 
-### [SB 5307](/bill/2023-24/sb/5307/) - Special education funding 👍1  
+### [SB 5358](/bill/2023-24/sb/5358/) - Career & tech. ed./6th grade 👍1  
+* 👍 Scott Kerwien
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍1  
 

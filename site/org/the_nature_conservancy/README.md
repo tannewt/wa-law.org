@@ -8,6 +8,8 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍 Scott Richards
 
+### [HB 1208](/bill/2025-26/hb/1208/) - Salmon recovery projects 👍1  
+
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council.   ❓1
 * ❓💵 Justin Allegro
 

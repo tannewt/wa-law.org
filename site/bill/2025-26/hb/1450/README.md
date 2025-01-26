@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201450)
+
 ## Meetings
 ### Tue 01/28 04:00 PM - Education (ED): HB 1450 Transition to kindergarten
 Sign up to testify:
@@ -16,6 +19,11 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 71 👎 - Con
+Testifying:
+* Michelle Boatwright
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Trina Hall - Ferndale School District
+* Wade Smith - Walla Walla Public Schools

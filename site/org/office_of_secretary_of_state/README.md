@@ -19,11 +19,22 @@
 * 👍 Heather Hirotaka
 * 👍 Steve Hobbs
 
+### [HB 1223](/bill/2025-26/hb/1223/) - Voter challenges   ❓1
+* ❓ Brian Hatfield
+
 ### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections  👎1 
 * 👎 Steve Hobbs
 
+### [HB 1361](/bill/2025-26/hb/1361/) - Process service 👍2  
+* 👍 Constance Parbon
+* 👍 Scott Douglas
+
 ### [HB 1381](/bill/2025-26/hb/1381/) - Elections/language assist. 👍1  
 * 👍 Brian Hatfield
+
+### [HB 1448](/bill/2025-26/hb/1448/) - Local elections  👎2 
+* 👎 Steve Hobbs
+* 👎 Stuart Holmes
 
 ### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍1  
 * 👍 Brian Hatfield

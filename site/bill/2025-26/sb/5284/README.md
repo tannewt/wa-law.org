@@ -14,13 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162244&caId=24975&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162244&caId=24975&tId=4)
 
-#### 266 👍 - Pro
+#### 631 👍 - Pro
 Testifying:
 * Melissa Stuart - [City of Redmond](/org/city_of_redmond/)
 * 💵Brooke Davies - [Washington Beverage Association](/org/washington_beverage_association/)
 * Lynne Robinson - Mayor, City of Bellevue
 
-#### 4 👎 - Con
+#### 9 👎 - Con
+Testifying:
+* 💵Jay Balasbas - Basin Disposal and Consolidated Disposal Services Inc.
+* 💵Vicki Christophersen - Washington Refuse and Recycling Association
 
 #### 2 ❓ - Other
 Testifying:

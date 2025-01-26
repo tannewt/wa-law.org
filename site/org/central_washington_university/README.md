@@ -13,18 +13,21 @@
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 * 👍 Steve DuPont
 
+### [SB 5119](/bill/2025-26/sb/5119/) - Academic employee bargaining 👍1  
+
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Steve DuPont
 
-## [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 * 👍 Steve DuPont
+
+## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍3  
 
 ## 2023-24
 
-### [SB 5195](/bill/2023-24/sb/5195/) - Capital budget 👍1  
-* 👍 Steve DuPont
+### [SB 5402](/bill/2023-24/sb/5402/) - Financial aid eligibility 👍3  
 
 ### [HB 1003](/bill/2023-24/hb/1003/) - Dual credit program access   ❓1
 * ❓ Steve DuPont

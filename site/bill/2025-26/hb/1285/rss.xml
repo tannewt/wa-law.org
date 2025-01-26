@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1285/</link>
 		<description>Updates about HB 1285</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 22 Jan 2025 11:57:30 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 24 Jan 2025 19:12:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -36,13 +36,6 @@
 			<pubDate>Fri, 17 Jan 2025 12:51:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_1814b652-d504-11ef-8a97-57051ce4cf4c.html#:~:text=House%20Bill%201285</guid>
-		</item>
-		<item>
-			<title>The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans</title>
-			<description>News article "The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Sat, 18 Jan 2025 01:13:45 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201285</guid>
 		</item>
 		<item>
 			<title>The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans</title>
@@ -170,6 +163,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/J. Lee/Schultz/2025-01-22 11:57:30</guid>
+		</item>
+		<item>
+			<title>WSPTA Testifies: Graduation Requirements - WSPTA</title>
+			<description>News article "WSPTA Testifies: Graduation Requirements - WSPTA" from Washington St Pta.</description>
+			<pubDate>Fri, 24 Jan 2025 19:12:17 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/wspta-testifies-5/#:~:text=HB%201285</guid>
 		</item>
 	</channel>
 </rss>

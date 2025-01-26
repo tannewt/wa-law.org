@@ -18,4 +18,7 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kate Armstrong - Department of Revenue
+* Steve Ewing - Department of Revenue

@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32585&aId=162080&caId=24958&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32585&aId=162080&caId=24958&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Phil Goldfeder - American Fintech Council
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Andrew Kushner - [Center for Responsible Lending](/org/center_for_responsible_lending/)
+* Amanda Martin - NW Consumer Law Center
+* Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Sam Leonard - WA State Association for Justice

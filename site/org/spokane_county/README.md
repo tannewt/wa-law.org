@@ -8,11 +8,13 @@
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎2 
 * 👎 Christopher Savage
 
-## [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎1 
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎1 
+
+## [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
 ## 2023-24
 
-### [SB 5098](/bill/2023-24/sb/5098/) - Weapons in certain areas  👎1 
+### [SB 5285](/bill/2023-24/sb/5285/) - Law enf. officers/increase 👍1  
 
 ### [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1
 * ❓ Commissioner Amber Waldref

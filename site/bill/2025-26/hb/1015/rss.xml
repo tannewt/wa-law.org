@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1015/</link>
 		<description>Updates about HB 1015</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 18 Jan 2025 01:13:45 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 24 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -58,14 +58,14 @@
 			<description>News article "The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Sat, 18 Jan 2025 01:13:45 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201015</guid>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201015</guid>
 		</item>
 		<item>
-			<title>The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans</title>
-			<description>News article "The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Sat, 18 Jan 2025 01:13:45 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201015</guid>
+			<title>LG - Executive action taken by committee.</title>
+			<description>LG - Executive action taken by committee.</description>
+			<pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-24/LG - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

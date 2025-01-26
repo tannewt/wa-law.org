@@ -11,7 +11,6 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
-* 01/11/2024 [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities-hold/child-care/#:~:text=Senate%20Bill%206038)
 * [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities-hold/child-care/#:~:text=Senate%20Bill%206038)
 * [House Republicans](/org/house_republicans/) - [Fix the child care crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/child-care/#:~:text=Senate%20Bill%206038)
 

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/17 08:00 AM - Labor & Commerce (LC): SB 5191 Dockworkers/family leave

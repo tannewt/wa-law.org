@@ -8,7 +8,6 @@
 
 ## 📰 Articles
 * 01/22/2025 [The Center Square](/org/the_center_square/) - [Bill requiring more local say for large wind, solar projects faces gloomy future | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_ba33bea8-d90d-11ef-bd66-47b3d9a492bc.html#:~:text=House%20Bill%201188)
-* 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201188)
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201188)
 
 ## Meetings

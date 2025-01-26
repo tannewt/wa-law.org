@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201321)
 * 01/23/2025 [Axios](/org/axios/) - [Washington state bill targets National Guard role in deportation plans - Axios Seattle](https://www.axios.com/local/seattle/2025/01/23/national-guard-law-washington-trump-mass-deportations#:~:text=The%20proposal)
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201321)
 
@@ -18,9 +19,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162117&caId=25142&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162117&caId=25142&tId=4)
 
-#### 1 👍 - Pro
+#### 26 👍 - Pro
 
-#### 3 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other
 

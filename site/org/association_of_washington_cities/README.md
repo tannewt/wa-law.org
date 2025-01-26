@@ -73,6 +73,8 @@
 
 ### [SB 5053](/bill/2025-26/sb/5053/) - PFD formation 👍1  
 
+### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates  👎1 
+
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 * 👍💵 Candice Bock
 
@@ -96,13 +98,16 @@
 ### [SB 5176](/bill/2025-26/sb/5176/) - Implementing prompt pay recommendations from the capital projects advisory review board.   ❓1
 * ❓💵 Kelsey Hulse
 
-## [SB 5197](/bill/2025-26/sb/5197/) - Local government planning   ❓1
+### [SB 5197](/bill/2025-26/sb/5197/) - Local government planning   ❓1
 * ❓💵 Carl Schroeder
+
+### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍1  
+
+## [SB 5315](/bill/2025-26/sb/5315/) - Local tax rate changes 👍1  
 
 ## 2023-24
 
-### [SB 5197](/bill/2023-24/sb/5197/) - Local government planning   ❓1
-* ❓💵 Carl Schroeder
+### [SB 5315](/bill/2023-24/sb/5315/) - Local tax rate changes 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

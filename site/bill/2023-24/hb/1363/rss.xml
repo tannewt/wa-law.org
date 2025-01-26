@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1363/</link>
 		<description>Updates about HB 1363</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 15 Jan 2024 23:06:21 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1009,20 +1009,6 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/House Rules "X" file.</guid>
-		</item>
-		<item>
-			<title>Safer Streets | Washington State House Republicans</title>
-			<description>News article "Safer Streets | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Thu, 11 Jan 2024 01:01:14 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/our-priorities-hold/public-safety/#:~:text=House%20bill%201363</guid>
-		</item>
-		<item>
-			<title>Fix the public safety crisis | Washington State House Republicans</title>
-			<description>News article "Fix the public safety crisis | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Mon, 15 Jan 2024 23:06:21 GMT</pubDate>
-			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/our-priorities/public-safety/#:~:text=House%20bill%201363</guid>
 		</item>
 	</channel>
 </rss>

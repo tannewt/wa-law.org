@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/14 04:00 PM - Housing (HOUS): HB 1108 Housing cost task force

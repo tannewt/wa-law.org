@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201228)
 * 01/23/2025 [The Center Square](/org/the_center_square/) - [Seattle city attorney pushes for approval of state bill to speed up DUI cases | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3436aa4c-d9dd-11ef-b4d9-d3bb9aaa7565.html#:~:text=House%20Bill%201228)
 
 ## Meetings
@@ -17,10 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161953&caId=25051&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161953&caId=25051&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Bradley Lane - Seattle City Attorney's Office
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys

@@ -1,11 +1,11 @@
 # Retired Public Employees Council of Washington
 ## 2025-26
 
-### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
+### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍14  
 
 ### [HB 1204](/bill/2025-26/hb/1204/) - Senior shared housing 👍1  
 
-### [HB 1312](/bill/2025-26/hb/1312/) - Retirement benefits/death 👍1  
+### [HB 1312](/bill/2025-26/hb/1312/) - Retirement benefits/death 👍7  
 
 ### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans 👍64  
 * 👍 Judith Fosmo

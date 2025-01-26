@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5069/</link>
 		<description>Updates about SB 5069</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 21 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 25 Jan 2025 00:40:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -105,6 +105,13 @@
 			<pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-21/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>Pushing for progress - Sen. Javier Valdez</title>
+			<description>News article "Pushing for progress - Sen. Javier Valdez" from Senate Democrats.</description>
+			<pubDate>Sat, 25 Jan 2025 00:40:53 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2025/01/24/pushing-for-progress/#:~:text=SB%205069</guid>
 		</item>
 	</channel>
 </rss>

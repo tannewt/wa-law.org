@@ -4,7 +4,7 @@
 ### [HB 1004](/bill/2025-26/hb/1004/) - Increasing the personal property tax exemption. 👍1  
 * 👍💵 Mark Johnson
 
-### [HB 1023](/bill/2025-26/hb/1023/) - Cosmetology compact 👍1  
+### [HB 1023](/bill/2025-26/hb/1023/) - Cosmetology compact 👍2  
 
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍1  
 * 👍💵 Mark Johnson
@@ -69,7 +69,7 @@
 
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 
-### [SB 5099](/bill/2025-26/sb/5099/) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers.   ❓1
+### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers   ❓1
 * ❓💵 Mark Johnson
 
 ### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍1  

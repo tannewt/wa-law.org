@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1409/</link>
 		<description>Updates about HB 1409</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 23 Jan 2025 10:44:36 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 24 Jan 2025 19:41:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,6 +46,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Ben/Buchholz/2025-01-23 10:44:36</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 24 Jan 2025 19:41:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201409</guid>
 		</item>
 	</channel>
 </rss>

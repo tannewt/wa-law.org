@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 Legislative Session Update! - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/24/2025-legislative-session-update/#:~:text=SB%205199)
+
 ## Meetings
 ### Wed 01/22 08:00 AM - Human Services (HS): SB 5199 DCYF oversight board comp.
 #### 1 👍 - Pro

@@ -162,6 +162,8 @@
 ### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
 * 👎💵 Lindsey Hueer
 
+### [SB 5315](/bill/2025-26/sb/5315/) - Local tax rate changes 👍1  
+
 ### [SB 5328](/bill/2025-26/sb/5328/) - Earned wage access services 👍1  
 
 ## [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 

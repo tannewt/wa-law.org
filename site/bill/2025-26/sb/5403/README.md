@@ -14,12 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162250&caId=25009&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162250&caId=25009&tId=4)
 
-#### 45 👍 - Pro
+#### 94 👍 - Pro
 Testifying:
 * Micah Sherman - Raven
 * Tamara Weinmann - 13300 SE 30th st unit 101
+* Rebeca Potasnik
 * Benjamin Ogren - The People of this great state
+* Douglas Henderson - Painted Rooster
+* Anthony Golden - 500
+* Scott Mckinley - The Cantanna Festival
 
-#### 1 👎 - Con
+#### 204 👎 - Con
+Testifying:
+* Megan Moore - WA State Public Health Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Beau Whitney - Whitney Economics

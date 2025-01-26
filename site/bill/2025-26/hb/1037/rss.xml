@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1037/</link>
 		<description>Updates about HB 1037</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 15 Jan 2025 09:14:06 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 24 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -196,6 +196,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ann/Leichleiter/2025-01-15 09:14:06</guid>
+		</item>
+		<item>
+			<title>LG - Executive action taken by committee.</title>
+			<description>LG - Executive action taken by committee.</description>
+			<pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-24/LG - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201503)
+
 ## Meetings
 ### Fri 01/31 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1503 Digital equity
 Sign up to testify:
@@ -14,7 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32580&aId=162091&caId=25167&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32580&aId=162091&caId=25167&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Misha Cherniske - Office of Superintendent of Public Instruction
+* Erica Limon-Trefielo - Communities in Schools of Washington
 
 #### 0 👎 - Con
 

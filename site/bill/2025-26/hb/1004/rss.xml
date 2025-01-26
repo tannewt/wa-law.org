@@ -82,13 +82,6 @@
 			<description>News article "The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Mon, 13 Jan 2025 15:52:31 GMT</pubDate>
 			<category>news</category>
-			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201004</guid>
-		</item>
-		<item>
-			<title>The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans</title>
-			<description>News article "The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans" from House Republicans.</description>
-			<pubDate>Mon, 13 Jan 2025 15:52:31 GMT</pubDate>
-			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201004</guid>
 		</item>
 		<item>
@@ -105,6 +98,13 @@
 			<pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-23/FIN - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-23/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32530&aId=162283&caId=25038&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32530&aId=162283&caId=25038&tId=4)
 
-#### 28 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * 💵James Cockburn - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * monique webber - Pacific Yacht Management
 * Roman Daniels-Brown - [Northwest Marine Trade Association](/org/northwest_marine_trade_association/)
+* Martin Marchant - [Port of Port Angeles](/org/port_of_port_angeles/)
+* TRENT MATSON - THE MARINE EXCHANGE OF PUGET SOUND
 
 #### 0 👎 - Con
 

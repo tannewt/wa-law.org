@@ -4,12 +4,15 @@
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
 * 👍💵 Christopher Herman
 
+### [HB 1064](/bill/2025-26/hb/1064/) - System improvement team 👍1  
+
 ### [HB 1109](/bill/2025-26/hb/1109/) - Public facilities districts 👍1  
 
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
 * 👍💵 Carly Michiels
 
-### [HB 1302](/bill/2025-26/hb/1302/) - Utility connection charges 👍1  
+### [HB 1302](/bill/2025-26/hb/1302/) - Utility connection charges 👍2  
+* 👍 Eric ffitch
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎2 
 * 👎💵 Carly Michiels

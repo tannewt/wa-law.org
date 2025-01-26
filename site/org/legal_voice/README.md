@@ -12,11 +12,11 @@
 
 ### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
 
-## [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍7  
+## [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍11  
 
 ## 2023-24
 
-### [SB 5321](/bill/2023-24/sb/5321/) - Postsecondary/med. abortion 👍7  
+### [SB 5321](/bill/2023-24/sb/5321/) - Postsecondary/med. abortion 👍11  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

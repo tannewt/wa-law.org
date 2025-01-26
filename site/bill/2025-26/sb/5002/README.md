@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/24/2025 [Cascade PBS](/org/cascade_pbs/) - [Farmworkers rally in Olympia amid federal court battle over wages | Cascade PBS](https://crosscut.com/investigations/2025/01/farmworkers-rally-olympia-amid-federal-court-battle-over-wages#:~:text=to%20repeal)
 * 12/03/2024 [Washington State Standard](/org/washington_state_standard/) - [First bills drop ahead of WA’s 2025 legislative session • Washington State Standard](https://washingtonstatestandard.com/2024/12/02/first-bills-drop-ahead-of-was-2025-legislative-session/#:~:text=Senate%20Bill%205002)
 * 12/02/2024 [Gorge News Center](/org/gorge_news_center/) - [First bills drop ahead of WA’s 2025 legislative session](https://gorgenewscenter.com/2024/12/02/first-bills-drop-ahead-of-was-2025-legislative-session/#:~:text=Senate%20Bill%205002)
 

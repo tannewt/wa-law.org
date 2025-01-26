@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201448)
+
 ## Meetings
 ### Tue 01/28 01:30 PM - State Government & Tribal Relations (SGOV): HB 1448 Local elections
 Sign up to testify:
@@ -14,15 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162116&caId=25102&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162116&caId=25102&tId=4)
 
-#### 368 👍 - Pro
+#### 653 👍 - Pro
 Testifying:
 * Tracy Turner - Sail
 
-#### 45 👎 - Con
+#### 84 👎 - Con
 Testifying:
 * Mary Mead
 * Erica Engelhart
 * Elona Kearney
 * Cemal Richards
+* Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Stuart Holmes - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Brandie Bills
 
 #### 0 ❓ - Other

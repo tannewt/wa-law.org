@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 Legislative Session Update! - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/24/2025-legislative-session-update/#:~:text=SB%205130)
+
 ## Meetings
 ### Tue 01/14 08:00 AM - Early Learning & K-12 Education (EDU): SB 5130 Child care licensing fees
 #### 63 👍 - Pro

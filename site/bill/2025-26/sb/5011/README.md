@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2025 [Washington State Standard](/org/washington_state_standard/) - [After arson, WA lawmakers advance bill to warn of ballot box tampering penalties • Washington State Standard](https://washingtonstatestandard.com/2025/01/24/after-arson-wa-lawmakers-advance-bill-to-warn-of-ballot-box-tampering-penalties/#:~:text=Senate%20Bill%205011)
+
 ## Meetings
 ### Fri 01/17 10:30 AM - State Government & Elections (SGE): SB 5011 Ballot drop box labeling
 #### 496 👍 - Pro

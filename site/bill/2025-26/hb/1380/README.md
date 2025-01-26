@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/24/2025 [The Center Square](/org/the_center_square/) - [WA homelessness bill 'flies in the face' of SCOTUS overturning Martin v. Boise | National | thecentersquare.com](https://www.thecentersquare.com/national/article_23fb6c02-da8d-11ef-adb6-cb72701fc8ec.html#:~:text=House%20Bill%201380)
 * 01/22/2025 [MyNorthwest](/org/mynorthwest/) - [Washington Democrats push bill legalizing homeless encampments](https://mynorthwest.com/ktth/ktth-opinion/rantz-washington-democrats-bill-legalizes-homeless-encampments-stops-cities-from-restrictions/4031418#:~:text=House%20Bill%201360)
 
 ## Meetings

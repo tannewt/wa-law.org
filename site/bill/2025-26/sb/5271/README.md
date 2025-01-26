@@ -16,6 +16,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Elizabeth Pray - 1616 Pirate Ln NE
+* Danielle Harvey
 
 #### 0 ❓ - Other

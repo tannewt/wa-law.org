@@ -14,13 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162115&caId=25101&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162115&caId=25101&tId=4)
 
-#### 52 👍 - Pro
+#### 79 👍 - Pro
 
-#### 42 👎 - Con
+#### 72 👎 - Con
 Testifying:
 * Erica Engelhart
+* Brandie Bills
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 ### Tue 01/21 01:30 PM - State Government & Tribal Relations (SGOV): HB 1223 Voter challenges
 #### 5 👍 - Pro

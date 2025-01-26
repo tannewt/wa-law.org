@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162319&caId=25169&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162319&caId=25169&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Amber Carter - WA Retail Association
+* Kevin Wallis - HND Holdings Co.
 
-#### 43 👎 - Con
+#### 49 👎 - Con
+Testifying:
+* Destinee Moliga
 
 #### 0 ❓ - Other

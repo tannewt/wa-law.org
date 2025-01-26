@@ -18,12 +18,15 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Andrew Villeneuve
 
-## [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
+### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
+* 👍 Andrew Villeneuve
+
+## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍1  
 * 👍 Andrew Villeneuve
 
 ## 2023-24
 
-### [SB 5181](/bill/2023-24/sb/5181/) - Parents rights in education 👍1  
+### [SB 5400](/bill/2023-24/sb/5400/) - Local news journalism 👍1  
 * 👍 Andrew Villeneuve
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  

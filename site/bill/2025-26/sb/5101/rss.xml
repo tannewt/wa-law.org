@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5101/</link>
 		<description>Updates about SB 5101</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 08:35:11 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 25 Jan 2025 00:40:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -91,6 +91,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Sabrene/Odeh/2025-01-20 08:35:11</guid>
+		</item>
+		<item>
+			<title>Pushing for progress - Sen. Javier Valdez</title>
+			<description>News article "Pushing for progress - Sen. Javier Valdez" from Senate Democrats.</description>
+			<pubDate>Sat, 25 Jan 2025 00:40:53 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2025/01/24/pushing-for-progress/#:~:text=SB%205101</guid>
 		</item>
 	</channel>
 </rss>

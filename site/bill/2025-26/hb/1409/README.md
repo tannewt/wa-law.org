@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201409)
+
 ## Meetings
 ### Tue 01/28 04:00 PM - Environment & Energy (ENVI): HB 1409 Clean fuels program
 Sign up to testify:
@@ -19,7 +22,7 @@ Testifying:
 * 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 
-#### 2 👎 - Con
+#### 104 👎 - Con
 Testifying:
 * 💵Jessica Spiegel - WSPA
 * Ben Buchholz - NW Agricultural Cooperative Council, WA Friends of Farms and Forests, Far West Agribusiness Assoc.

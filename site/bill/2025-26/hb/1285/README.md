@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201285)
+* 01/24/2025 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Graduation Requirements - WSPTA](https://www.wastatepta.org/wspta-testifies-5/#:~:text=HB%201285)
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201285)
 * 01/17/2025 [The Center Square](/org/the_center_square/) - [Bipartisan bill would make financial literacy a graduation requirement in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1814b652-d504-11ef-8a97-57051ce4cf4c.html#:~:text=House%20Bill%201285)
 

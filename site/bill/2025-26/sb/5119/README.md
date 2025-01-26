@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162248&caId=25007&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162248&caId=25007&tId=4)
 
-#### 247 👍 - Pro
+#### 364 👍 - Pro
+Testifying:
+* Alec Acosta-Vega - Working Wildcats
+* 💵Emily Myers - UAW
+* Leo Curtis - Western Academic Workers United
 
-#### 0 👎 - Con
+#### 221 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

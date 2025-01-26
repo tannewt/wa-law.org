@@ -5,7 +5,8 @@
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
-### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍2  
+### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍4  
+* 👍💵 Rachael Seevers
 * 👍💵 Rachael Seevers
 
 ### [HB 1133](/bill/2025-26/hb/1133/) - Concerning sexually violent predators.  👎1 
@@ -19,7 +20,7 @@
 * 👍💵 Chloe Merino
 * 👍💵 Rachael Seevers
 
-### [HB 1192](/bill/2025-26/hb/1192/) - Concerning disciplinary hearings held by the department of corrections. 👍1  
+### [HB 1192](/bill/2025-26/hb/1192/) - DOC disciplinary hearings 👍1  
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
 

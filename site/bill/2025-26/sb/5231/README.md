@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161996&caId=25003&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161996&caId=25003&tId=4)
 
-#### 79 👍 - Pro
+#### 196 👍 - Pro
 Testifying:
+* Jonathan Ejonga
+* Jerry Thomas
 * Tamara Light - Information For Change Washington
+* Jacob Schmitt - Just Us Solutions, LLC
 
-#### 0 👎 - Con
+#### 218 👎 - Con
 
 #### 0 ❓ - Other

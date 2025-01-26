@@ -51,6 +51,9 @@
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records   ❓1
 * ❓💵 Paul Jewell
 
+### [HB 1345](/bill/2025-26/hb/1345/) - Detached ADU limits 👍1  
+* 👍💵 Paul Jewell
+
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
 * 👎💵 Curtis Steinhauer
 
@@ -79,6 +82,9 @@
 * 👍💵 Kelsey Hulse
 
 ### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍2  
+
+### [SB 5288](/bill/2025-26/sb/5288/) - Concerning vacancies on boards of county commissioners. 👍1  
+* 👍💵 Paul Jewell
 
 ## [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  
 * 👍💵 Kelsey Hulse

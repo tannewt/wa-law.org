@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2025 [Senate Democrats](/org/senate_democrats/) - [Supporting local journalism and student success - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/01/24/3559/#:~:text=Senate%20Bill%205400)
+
 ## Meetings
 ### Tue 01/28 10:30 AM - Labor & Commerce (LC): SB 5400 Local news journalism
 Sign up to testify:
@@ -14,14 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162253&caId=25013&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162253&caId=25013&tId=4)
 
-#### 15 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Alan Fisco - [The Seattle Times](/org/the_seattle_times/)
 * Frank Blethen - [The Seattle Times](/org/the_seattle_times/)
 * Carl Zapora - Board Chair, My Neighborhood News Network
 * Dee Anne Finken - League of Women Voters of Washington
 * Ben Campbell - The Columbian
+* Keith Shipman - Washington State Association of Broadcasters
+* Emmett O'Connell
+* Phyllis Gutierrez Kenney
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

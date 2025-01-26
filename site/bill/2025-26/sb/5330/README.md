@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162249&caId=25008&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162249&caId=25008&tId=4)
 
-#### 6 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Addison Hafermann - Lake Washington High School
 * Ava Brisimitzis - Lake Washington High School
@@ -23,6 +23,6 @@ Testifying:
 * Elise Summers - Lake Washington High School
 * Shira Avitan - Lake Washington High School
 
-#### 0 👎 - Con
+#### 205 👎 - Con
 
 #### 0 ❓ - Other

@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32578&aId=162083&caId=25087&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32578&aId=162083&caId=25087&tId=4)
 
-#### 0 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Matthew Ozuna - State of Washington Tourism
+* Cliff Myers - Visit Vancouver Washington
 
 #### 0 👎 - Con
 

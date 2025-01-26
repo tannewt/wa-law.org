@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162005&caId=25129&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162005&caId=25129&tId=4)
 
-#### 25 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Kim McLeod
 * Linda Hyatt
@@ -22,8 +22,11 @@ Testifying:
 * Ryan Nesbitt
 * Rose` Yu
 
-#### 1 👎 - Con
+#### 87 👎 - Con
 Testifying:
 * 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Stacy Dym
+* Stephanie Roadman
+* Cathy Murahashi - The Arc of Washington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -7,7 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
-* 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201289)
+* 01/24/2025 [The Center Square](/org/the_center_square/) - [Bill would allow for survey of families who have pulled out WA's school system | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3def59ca-da88-11ef-a5cf-ab6aac217411.html#:~:text=House%20Bill%201289)
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201289)
 
 ## Meetings

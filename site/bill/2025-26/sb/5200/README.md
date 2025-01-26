@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32589&aId=162153&caId=24981&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32589&aId=162153&caId=24981&tId=4)
 
-#### 2 👍 - Pro
+#### 38 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Jamie Pillers - Veteran Health Administration Medical Foster Home Coordinator
 * Kari-Mae Miles - Veteran Health Administration MedicaL Foster Home Coordinator

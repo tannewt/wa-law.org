@@ -1,7 +1,7 @@
 # Food Lifeline
 ## 2025-26
 
-### [HB 1131](/bill/2025-26/hb/1131/) - Concerning clemency and pardons. 👍1  
+### [HB 1131](/bill/2025-26/hb/1131/) - Clemency and pardons 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍💵 Aaron Czyzewski

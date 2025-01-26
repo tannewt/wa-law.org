@@ -40,7 +40,7 @@
 
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍1  
 
-### [SB 5099](/bill/2025-26/sb/5099/) - Protecting the public from gun violence by establishing additional requirements for the business operations of licensed firearms dealers. 👍1  
+### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers 👍1  
 
 ### [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services 👍1  
 * 👍💵 Nicole Kern

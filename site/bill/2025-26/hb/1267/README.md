@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201267)
+
 ## Meetings
 ### Thu 01/30 04:00 PM - Appropriations (APP): HB 1267 Special education funding
 Sign up to testify:
@@ -14,10 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162032&caId=25159&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162032&caId=25159&tId=4)
 
-#### 2 👍 - Pro
+#### 43 👍 - Pro
+Testifying:
+* Alexandra Kendall
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
+* Hilary Kozel - [Spokane Public Schools](/org/spokane_public_schools/)
 * Natalya Yudkovsky - Washington State PTA

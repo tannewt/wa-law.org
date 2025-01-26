@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161995&caId=25002&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161995&caId=25002&tId=4)
 
-#### 185 👍 - Pro
+#### 403 👍 - Pro
 Testifying:
 * hengshan liu - no
 * Jessica Morrow
@@ -26,13 +26,22 @@ Testifying:
 * Jessica Morrow - Impacted parent
 * Kimie Nova - Impacted parent
 * Teena Curry - My Mother, Pat Curry
+* Lindsey Topping-Schuetz - Impacted parent and Rare Disease Coalition
+* MD, Stephanie Raghubeer - Mary Bridge Children’s Palliative Care
+* Amanda Harpell-Franz - Impacted parent
+* Jennifer Heinlein - Impacted parent
+* Staci Marie - Impacted parent
 * Carolyn Ringo - Sacred Heart Children’s Hospital
 * Demas Nesterenko - SEIU 775
 * 💵Mike Pugsley - Ashley House NW
 * Alexander Toole - Self advocate
 * Bevan Martin - Impacted parent
 * Melissa Kansan - Impacted parent
+* Courtney Criss - Arc of Snohomish and Impacted Parent
+* Katie Scheid - Impacted parent and PEPWa
+* Savannah O’Malley - Impacted parent
+* Amber Nilles
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other

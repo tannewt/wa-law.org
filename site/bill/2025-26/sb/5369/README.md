@@ -14,7 +14,56 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=4)
 
-#### 3 👍 - Pro
+#### 57 👍 - Pro
+Testifying:
+* Erica Limon-Trefielo - Communities in Schools of Washington
+* Ray Thomas
+* Jim Young
+* Margaret Graham
+* Betty Brooking
+* Martha Cetina
+* Nancy Olson
+* Marla Murdock
+* Janet Hedgepath
+* Ginger Alonzo
+* Frances Blair
+* John Alder - FAN
+* Anne Hall
+* Faye Bartlett
+* Ross Coble
+* Bryan Gilderoy
+* Nancy Jacobs
+* Julie Kageler
+* Sarah Detweiler
+* 💵Donna Smith
+* Judith THIERRY
+* Mary Stephenson - NAMI Yakima
+* cheryl greene - Sravasti Abbey
+* Paula Clark
+* Bruce Radtke
+* Oolaa kaplan
+* Larry Fox
+* Katherine Long - [Faith Action Network](/org/faith_action_network/)
+* Melissa Anderson Trust
+* Paula Harper-christensen - --None--
+* Jeanette Lunceford
+* PHYLLIS SMITH
+* Kasey Shultz
+* Patsy Reynolds
+* Joanne and Jim Cortese
+* Ethan Bergman
+* JULIA COCHRANE
+* Suzanne Duncan
+* Frances Pavlas Bose
+* Judith Oerkvitz
+* Margaret Snell
+* eleanor van Noppen - United Churches
+* William Engels
+* Jaime Krishnamachari - Faith Action Network (FAN)
+* John Skans
+* Lorraine Hartmann - Please Select
+* Margaret Nelson-Low
+* Jameson Varpness
 
 #### 0 👎 - Con
 
