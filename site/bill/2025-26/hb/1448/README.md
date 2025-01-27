@@ -17,11 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162116&caId=25102&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162116&caId=25102&tId=4)
 
-#### 653 👍 - Pro
+#### 745 👍 - Pro
 Testifying:
 * Tracy Turner - Sail
 
-#### 84 👎 - Con
+#### 217 👎 - Con
 Testifying:
 * Mary Mead
 * Erica Engelhart
@@ -30,5 +30,6 @@ Testifying:
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Stuart Holmes - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Brandie Bills
+* Sharon Hanek
 
 #### 0 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1328/</link>
 		<description>Updates about HB 1328</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 25 Jan 2025 11:00:43 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Jan 2025 10:02:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -36,6 +36,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Brynn/Brady/2025-01-25 11:00:43</guid>
+		</item>
+		<item>
+			<title>👍Dan Siemann - Dept. of Commerce</title>
+			<description>Dan Siemann signed up to testify Pro. They are signed up to represent Dept. of Commerce.</description>
+			<pubDate>Sun, 26 Jan 2025 10:02:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dan/Siemann/2025-01-26 10:02:00</guid>
+		</item>
+		<item>
+			<title>👍Dave Pringle - Dept. of Commerce</title>
+			<description>Dave Pringle signed up to testify Pro. They are signed up to represent Dept. of Commerce.</description>
+			<pubDate>Sun, 26 Jan 2025 10:02:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dave/Pringle/2025-01-26 10:02:00</guid>
 		</item>
 	</channel>
 </rss>

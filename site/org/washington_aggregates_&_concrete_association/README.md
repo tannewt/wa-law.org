@@ -8,6 +8,9 @@
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Cory Shaw
 
+### [SB 5319](/bill/2025-26/sb/5319/) - Surface mine reclamation 👍1  
+* 👍💵 Cory Shaw
+
 ## [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 
 ## 2023-24

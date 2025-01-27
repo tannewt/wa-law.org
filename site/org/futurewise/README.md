@@ -30,6 +30,9 @@
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
 
+### [HB 1345](/bill/2025-26/hb/1345/) - Detached ADU limits   ❓1
+* ❓💵 Bryce Yadon
+
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
 ### [SB 5055](/bill/2025-26/sb/5055/) - Agritourism  👎1 

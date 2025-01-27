@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161995&caId=25002&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161995&caId=25002&tId=4)
 
-#### 403 👍 - Pro
+#### 514 👍 - Pro
 Testifying:
 * hengshan liu - no
 * Jessica Morrow
@@ -41,6 +41,7 @@ Testifying:
 * Katie Scheid - Impacted parent and PEPWa
 * Savannah O’Malley - Impacted parent
 * Amber Nilles
+* Amanda Gribbin
 
 #### 0 👎 - Con
 

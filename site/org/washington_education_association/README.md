@@ -95,6 +95,8 @@
 
 ### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  
 
+### [HB 1434](/bill/2025-26/hb/1434/) - Eid al-Fitr & Eid al-Adha 👍1  
+
 ### [HB 1450](/bill/2025-26/hb/1450/) - Transition to kindergarten  👎3 
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
@@ -138,6 +140,8 @@
 ### [SB 5101](/bill/2025-26/sb/5101/) - Expanding access to leave and safety accommodations to include workers who are victims of hate crimes or bias incidents. 👍1  
 
 ### [SB 5104](/bill/2025-26/sb/5104/) - Protecting employees from coercion in the workplace based on immigration status. 👍1  
+
+### [SB 5106](/bill/2025-26/sb/5106/) - Establishing Eid al-Fitr and Eid al-Adha as state holidays. 👍1  
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees. 👍1  
 

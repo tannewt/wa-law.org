@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5268/</link>
 		<description>Updates about SB 5268</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 25 Jan 2025 12:54:26 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Jan 2025 11:02:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,6 +45,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Valerie/Schaler/2025-01-25 12:54:26</guid>
+		</item>
+		<item>
+			<title>👎Kari Reardon - WACDL/WDA</title>
+			<description>Kari Reardon signed up to testify Con. They are signed up to represent WACDL/WDA.</description>
+			<pubDate>Sun, 26 Jan 2025 11:02:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kari/Reardon/2025-01-26 11:02:04</guid>
 		</item>
 	</channel>
 </rss>

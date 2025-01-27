@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32610&aId=162222&caId=24976&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32610&aId=162222&caId=24976&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Jay Balasbas - Basin Disposal and Consolidated Disposal Services Inc.
 * 💵Lyset Cadena - WM (Waste Management)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
-#### 5 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Sandra Brock
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association

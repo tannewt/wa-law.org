@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=4)
 
-#### 57 👍 - Pro
+#### 87 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Ray Thomas
@@ -61,10 +61,26 @@ Testifying:
 * William Engels
 * Jaime Krishnamachari - Faith Action Network (FAN)
 * John Skans
+* Evan Wipf
+* Evan Wipf
+* Catie Light
 * Lorraine Hartmann - Please Select
 * Margaret Nelson-Low
 * Jameson Varpness
+* Maria Christina Perez
+* Barbara Vining
+* Pam Beal
+* Martha Nichols - FAN
+* Frank Marre
+* Darla Austerman
+* Audrey Pitigliano
+* Rupert Ayton
+* Christine Zarker Primomo
+* Janet C Robertson
+* Pierrette Wing
+* Linda Moulder
+* Judith Byron
 
-#### 0 👎 - Con
+#### 570 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

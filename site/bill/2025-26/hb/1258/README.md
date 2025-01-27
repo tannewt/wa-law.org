@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161896&caId=25157&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161896&caId=25157&tId=4)
 
-#### 1 👍 - Pro
+#### 7 👍 - Pro
 
-#### 11 👎 - Con
+#### 14 👎 - Con
+Testifying:
+* Cody Rohrbach - Spokane County Fire District 3
 
 #### 0 ❓ - Other

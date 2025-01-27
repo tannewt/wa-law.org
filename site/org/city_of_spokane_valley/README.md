@@ -15,15 +15,21 @@
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element  👎1 
 
+### [HB 1258](/bill/2025-26/hb/1258/) - Providing funding for municipalities participating in the regional 911 emergency communications system.  👎1 
+
 ### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  
 
 ### [HB 1315](/bill/2025-26/hb/1315/) - Impaired driving 👍1  
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
 
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓1
+
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact   ❓1
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎1 
+
+### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
 
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
 
@@ -35,13 +41,20 @@
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
 
-## [SB 5251](/bill/2025-26/sb/5251/) - Lodging tax revenues 👍1  
+### [SB 5229](/bill/2025-26/sb/5229/) - Facilitating civil commitment for treatment for a person requiring revival by opioid overdose reversal medication. 👍1  
+
+### [SB 5238](/bill/2025-26/sb/5238/) - Reckless driving, speed 👍1  
+
+### [SB 5251](/bill/2025-26/sb/5251/) - Lodging tax revenues 👍1  
 * 👍💵 Briahna Murray
+
+### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍1  
+
+## [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
 ## 2023-24
 
-### [SB 5251](/bill/2023-24/sb/5251/) - Lodging tax revenues 👍1  
-* 👍💵 Briahna Murray
+### [SB 5285](/bill/2023-24/sb/5285/) - Law enf. officers/increase 👍1  
 
 ### [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice  👎1 
 

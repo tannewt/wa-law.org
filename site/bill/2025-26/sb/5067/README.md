@@ -21,14 +21,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=4)
 
-#### 10 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Annie Sawyer
 * Candace Reid - Mothers Against Drunk Driving
 * Beth Ebel - WCAAP
 
-#### 2 👎 - Con
+#### 65 👎 - Con
 
 #### 0 ❓ - Other
 

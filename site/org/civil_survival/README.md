@@ -10,11 +10,15 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
-## [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
+### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
+
+## [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍1  
+* 👍💵 Kelly Olson
 
 ## 2023-24
 
-### [HB 1317](/bill/2023-24/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
+### [SB 5231](/bill/2023-24/sb/5231/) - Confinement fees & expenses 👍1  
+* 👍💵 Kelly Olson
 
 ### [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍3  
 

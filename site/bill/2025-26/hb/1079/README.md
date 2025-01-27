@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32595&aId=162095&caId=25054&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32595&aId=162095&caId=25054&tId=4)
 
-#### 311 👍 - Pro
+#### 348 👍 - Pro
 Testifying:
 * Matthew Kesler - Battle Ground PS
 * Wenting Zou - Lake Washington High School
@@ -24,6 +24,6 @@ Testifying:
 * Kiera O'Brien - [Vancouver Education Association](/org/vancouver_education_association/)
 * James Perry - Digital Public Schools Alliance - Washington (DPSA)
 
-#### 198 👎 - Con
+#### 306 👎 - Con
 
 #### 2 ❓ - Other

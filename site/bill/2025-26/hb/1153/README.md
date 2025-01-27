@@ -16,10 +16,11 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Maria Rose
 * Michael Feerer - Whatcom Million Trees Project
 * Sandy Shettler - Tree Action Seattle
+* JOHN WORTHINGTON
 
 #### 0 ❓ - Other

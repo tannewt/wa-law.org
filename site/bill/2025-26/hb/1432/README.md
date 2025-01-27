@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161913&caId=25137&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161913&caId=25137&tId=4)
 
-#### 96 👍 - Pro
+#### 159 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
+* Rachael Snell
+* Judith Gordon
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161979&caId=24973&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161979&caId=24973&tId=4)
 
-#### 17 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Tania May - Office of Superintendent of Public Instruction
 * 💵Alex Hur - Communities in Schools of Washington
 * Richard Pope - Parent of Special Education Student "Aging Out" This Week
+* Chitra Iyer - Washington State Association of School Psychologists
 
 #### 0 👎 - Con
 

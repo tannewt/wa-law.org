@@ -17,10 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161959&caId=25106&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161959&caId=25106&tId=4)
 
-#### 1030 👍 - Pro
+#### 1181 👍 - Pro
 Testifying:
 * Emily Gause - WACDL/WDA
 
 #### 0 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other

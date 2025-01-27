@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162319&caId=25169&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162319&caId=25169&tId=4)
 
-#### 4 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * 💵Amber Carter - WA Retail Association
 * Kevin Wallis - HND Holdings Co.
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
 #### 49 👎 - Con
 Testifying:
 * Destinee Moliga
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

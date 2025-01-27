@@ -29,8 +29,9 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Shaun Ford - Washington Fire Chief's Association
+* Mike Battis - WA Ambulance Association
 
 #### 0 ❓ - Other

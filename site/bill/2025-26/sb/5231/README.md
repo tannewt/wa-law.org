@@ -14,13 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161996&caId=25003&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161996&caId=25003&tId=4)
 
-#### 196 👍 - Pro
+#### 303 👍 - Pro
 Testifying:
 * Jonathan Ejonga
 * Jerry Thomas
 * Tamara Light - Information For Change Washington
 * Jacob Schmitt - Just Us Solutions, LLC
+* Candice Baughman - Underground Ministries
+* Catherine Antee - LFC  Stafford Creek
+* 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
 
-#### 218 👎 - Con
+#### 356 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

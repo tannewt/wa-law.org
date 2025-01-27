@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32606&aId=162185&caId=25063&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32606&aId=162185&caId=25063&tId=4)
 
-#### 33 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * Kol Peterson - Tiny Hookups LLC
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Tim McCormick
 * Marilee Fuller
+* Zachariah Giffin - Operation Tiny Home
+* Joe Wykowski - Community Vision
 
-#### 1 👎 - Con
+#### 20 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Joren Clowers - Sno-King Water District Coalition

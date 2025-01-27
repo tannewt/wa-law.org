@@ -17,13 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161952&caId=25050&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161952&caId=25050&tId=4)
 
-#### 68 👍 - Pro
+#### 243 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
+* Amanda Knox
+* 💵Lara Zarowsky - [Washington Innocence Project](/org/washington_innocence_project/)
+* Ted Bradford
+* Mark Fallon - ClubFed, LLC
 
-#### 4 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

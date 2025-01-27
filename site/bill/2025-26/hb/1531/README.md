@@ -14,14 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162321&caId=25171&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162321&caId=25171&tId=4)
 
-#### 10 👍 - Pro
+#### 46 👍 - Pro
 
-#### 2148 👎 - Con
+#### 3507 👎 - Con
 Testifying:
 * Nicholas Parks
 * Dana Eagle - I am testifying on the behalf of humanity.
 * John Morgan
 * Becky Musson
 * Lesleyann Pedro
+* Leah Houser
+* Djaudee Cipres
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other

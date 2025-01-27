@@ -17,10 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32595&aId=162096&caId=25055&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32595&aId=162096&caId=25055&tId=4)
 
-#### 40 👍 - Pro
+#### 87 👍 - Pro
 Testifying:
 * Laurie Dolan
+* Anthony Powers - American Equity & Justice Group
+* Tracy Watson - Revive Counseling
+* Karen Peacey
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

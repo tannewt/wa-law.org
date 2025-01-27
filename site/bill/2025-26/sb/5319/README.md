@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32604&aId=162169&caId=24952&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32604&aId=162169&caId=24952&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
+* 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 
-#### 2 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Kory Hedrick - Versatile Industries Inc
 

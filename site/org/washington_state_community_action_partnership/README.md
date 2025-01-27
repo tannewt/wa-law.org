@@ -21,6 +21,8 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍2  
 
+### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings 👍1  
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Jeff DeLuca
 
@@ -29,11 +31,13 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-## [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
+### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
+
+## [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings 👍1  
 
 ## 2023-24
 
-### [SB 5232](/bill/2023-24/sb/5232/) - Essential needs program uses 👍1  
+### [SB 5332](/bill/2023-24/sb/5332/) - Mobile dwellings 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 

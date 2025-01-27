@@ -20,7 +20,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Andrew Kushner - [Center for Responsible Lending](/org/center_for_responsible_lending/)
 * Amanda Martin - NW Consumer Law Center

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162126&caId=25081&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162126&caId=25081&tId=4)
 
-#### 665 👍 - Pro
+#### 698 👍 - Pro
 Testifying:
 * 💵Courtney Williams - The Adult Family Home Council
 * Dan Puravet - Owner- Bellevue Elderly Care

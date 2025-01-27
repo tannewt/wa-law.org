@@ -10,6 +10,9 @@
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎2 
 * 👎 Glen Simecek
 
+### [SB 5080](/bill/2025-26/sb/5080/) - Financial education 👍1  
+* 👍 Megan Managan
+
 ## [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks 👍1  
 * 👍 Glen Simecek
 

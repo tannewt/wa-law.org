@@ -16,8 +16,12 @@
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
+### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
+
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍3  
 * 👍💵 Edgar Espino
+
+### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
 ## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍3  
 * 👍 Bailey Medilo

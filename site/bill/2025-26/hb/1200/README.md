@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162297&caId=25132&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162297&caId=25132&tId=4)
 
-#### 206 👍 - Pro
+#### 248 👍 - Pro
 Testifying:
 * Catherine Young - Tacoma Special education PTA
 * jessica morrow
@@ -25,7 +25,11 @@ Testifying:
 * Teena Curry - On behalf of my Mother, Pat Curry
 * Amber Nilles
 * Julia Frank
+* Demas Nesterenko - SEIU 775
+* Katie Scheid - Impacted Parent and PEPWa
+* Kimie Nova - Impacted parent & PEPWa
+* Deb Ritter
 
 #### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other

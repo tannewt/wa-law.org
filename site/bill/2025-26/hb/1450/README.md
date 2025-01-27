@@ -17,13 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32596&aId=162098&caId=25108&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32596&aId=162098&caId=25108&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Carmen Barajas
 
-#### 71 👎 - Con
+#### 98 👎 - Con
 Testifying:
 * Michelle Boatwright
+* Jenifer Largent
+* Courtney Arapis
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Trina Hall - Ferndale School District
 * Wade Smith - Walla Walla Public Schools
+* James Everett - Meridian School District

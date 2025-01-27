@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162224&caId=25110&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162224&caId=25110&tId=4)
 
-#### 5 👍 - Pro
+#### 223 👍 - Pro
+Testifying:
+* Robbette Schmit - WintonMFG Compost Works
 
-#### 38 👎 - Con
+#### 45 👎 - Con
 
 #### 0 ❓ - Other

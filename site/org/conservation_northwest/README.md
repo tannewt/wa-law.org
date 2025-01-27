@@ -13,11 +13,16 @@
 ### [SB 5171](/bill/2025-26/sb/5171/) - Wolf predation 👍1  
 * 👍💵 Paula Swedeen
 
-## [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
+* 👍💵 Paula Swedeen
+
+### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
+
+## [SB 5343](/bill/2025-26/sb/5343/) - NE WA wolf-livestock account 👍1  
 
 ## 2023-24
 
-### [SB 5246](/bill/2023-24/sb/5246/) - Energy facility site eval.   ❓1
+### [SB 5343](/bill/2023-24/sb/5343/) - NE WA wolf-livestock account 👍1  
 
 ### [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting   ❓1
 * ❓ Jay Kehne

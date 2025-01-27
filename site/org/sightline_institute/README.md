@@ -17,6 +17,9 @@
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings 👍1  
 * 👍💵 Dan Bertolet
 
+### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
+* 👍💵 Laura Feinstein
+
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act. 👍1  

@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32543&aId=161919&caId=25074&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32543&aId=161919&caId=25074&tId=4)
 
-#### 12 👍 - Pro
+#### 16 👍 - Pro
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Sandra Brock
+* Commissioner Peter Browning - [Skagit County](/org/skagit_county/)
+* JOHN WORTHINGTON
 
 #### 0 ❓ - Other

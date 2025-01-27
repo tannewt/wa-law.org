@@ -1,15 +1,22 @@
 # Washington Wildlife First
 ## 2025-26
 
+### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
+
 ### [SB 5152](/bill/2025-26/sb/5152/) - Concerning state employee access to peer-reviewed journals. 👍1  
 * 👍 Francisco Santiago-Ávila
 
-## [SB 5171](/bill/2025-26/sb/5171/) - Wolf predation  👎1 
+### [SB 5171](/bill/2025-26/sb/5171/) - Wolf predation  👎1 
+* 👎 Francisco Santiago-Ávila
+
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
+
+## [SB 5343](/bill/2025-26/sb/5343/) - NE WA wolf-livestock account  👎1 
 * 👎 Francisco Santiago-Ávila
 
 ## 2023-24
 
-### [SB 5171](/bill/2023-24/sb/5171/) - Wolf predation  👎1 
+### [SB 5343](/bill/2023-24/sb/5343/) - NE WA wolf-livestock account  👎1 
 * 👎 Francisco Santiago-Ávila
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1

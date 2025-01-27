@@ -14,6 +14,9 @@
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
 
+### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
+* 👍💵 Kristin Ang
+
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍2  
 
 ### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  

@@ -3,6 +3,10 @@
 
 ### [HB 1199](/bill/2025-26/hb/1199/) - Strengthening consumer protection through increased insurer accountability for violations of the insurance code. 👍1  
 
+### [HB 1379](/bill/2025-26/hb/1379/) - Health carrier reporting 👍1  
+
+### [HB 1382](/bill/2025-26/hb/1382/) - All payers claim database 👍1  
+
 ### [SB 5084](/bill/2025-26/sb/5084/) - Health carrier reporting 👍1  
 
 ## [SB 5258](/bill/2025-26/sb/5258/) - Medicaid concurrent enroll.  👎1 

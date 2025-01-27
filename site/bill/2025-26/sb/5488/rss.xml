@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5488/</link>
 		<description>Updates about SB 5488</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 24 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Jan 2025 12:13:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,22 @@
 			<pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-24/First reading, referred to Human Services (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>👍Kim Justice - Partners for Our Children</title>
+			<description>Kim Justice signed up to testify Pro. They are signed up to represent Partners for Our Children.</description>
+			<pubDate>Sun, 26 Jan 2025 11:59:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kim/Justice/2025-01-26 11:59:45</guid>
+		</item>
+		<item>
+			<title>👍Jim Theofelis - NorthStar Advocates</title>
+			<description>Jim Theofelis signed up to testify Pro. They are signed up to represent NorthStar Advocates.</description>
+			<pubDate>Sun, 26 Jan 2025 12:13:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jim/Theofelis/2025-01-26 12:13:47</guid>
 		</item>
 	</channel>
 </rss>

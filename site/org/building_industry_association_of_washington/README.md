@@ -36,7 +36,12 @@
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎2 
 * 👎💵 Andrea Smiley
 
+### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license   ❓1
+* ❓ Mike Ennis
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
+
+### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers  👎1 
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 
 

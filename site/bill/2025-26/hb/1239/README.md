@@ -17,10 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161958&caId=25105&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161958&caId=25105&tId=4)
 
-#### 339 👍 - Pro
+#### 472 👍 - Pro
 Testifying:
 * Aaron Delaney
 * Jacob Schmitt - Just Us Solutions, LLC
+* Karen Peacey - Community Member
+* Micaela Romero - Neural Systems & Behavior Researcher, Wang Lab - UW
+* Christopher Poulos - Center for Justice and Human Dignity
+* Esther Matthews - Community Member
+* Kurt Myers - Community Member
+* Hilary Young - Washington Statewide Reentry Council
+* Kimonti Carter - Participatory Justice
+* Larry Jefferson - Washington Statewide Reentry Council
+* David Trieweiler
+* Callie Wilson - Quaker Voice on Washington Public Policy
 
 #### 0 👎 - Con
 

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32604&aId=162168&caId=24951&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32604&aId=162168&caId=24951&tId=4)
 
-#### 5 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Erika Odem - [Department of Natural Resources](/org/department_of_natural_resources/)
 

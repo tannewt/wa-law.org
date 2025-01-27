@@ -17,10 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161984&caId=25057&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161984&caId=25057&tId=4)
 
-#### 17 👍 - Pro
+#### 76 👍 - Pro
 Testifying:
 * 💵Brynn Brady - Audubon WA
+* Dan Siemann - Dept. of Commerce
+* Dave Pringle - Dept. of Commerce
 
-#### 257 👎 - Con
+#### 399 👎 - Con
 
 #### 0 ❓ - Other

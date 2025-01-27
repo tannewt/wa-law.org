@@ -14,9 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161930&caId=25033&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161930&caId=25033&tId=4)
 
-#### 4 👍 - Pro
+#### 49 👍 - Pro
+Testifying:
+* Wahaj uddin Mohammed
+* Alias F - Op
+* Aamena Ellithy
 
-#### 0 👎 - Con
+#### 118 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

@@ -14,8 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32566&aId=162013&caId=25065&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32566&aId=162013&caId=25065&tId=4)
 
-#### 219 👍 - Pro
+#### 274 👍 - Pro
+Testifying:
+* 💵Laurie Weidner - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
+* Evan Klein - Health Care Authority
 
-#### 45 👎 - Con
+#### 83 👎 - Con
+Testifying:
+* 💵Chelene Whiteaker - Washington State Hospital Association
+* 💵Lisa Thatcher - Washington State Hospital Association
+* Ashley Thurow - Providence Health and Services
+* Chris Bredesen - EvergreenHealth
+* Matt Forge - Pullman Regional Hospital
 
 #### 1 ❓ - Other

@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/25/2025 [House Republicans](/org/house_republicans/) - [Catalog of crises | Washington State House Republicans](https://houserepublicans.wa.gov/current/catalog-of-crises/#:~:text=House%20Resolution%204607)
+
 ## Meetings

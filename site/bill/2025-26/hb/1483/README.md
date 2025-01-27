@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32580&aId=162166&caId=25168&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32580&aId=162166&caId=25168&tId=4)
 
-#### 7 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Steven Rhine
 

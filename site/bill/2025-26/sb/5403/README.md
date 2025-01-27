@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162250&caId=25009&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162250&caId=25009&tId=4)
 
-#### 94 👍 - Pro
+#### 179 👍 - Pro
 Testifying:
 * Micah Sherman - Raven
 * Tamara Weinmann - 13300 SE 30th st unit 101
@@ -23,10 +23,17 @@ Testifying:
 * Douglas Henderson - Painted Rooster
 * Anthony Golden - 500
 * Scott Mckinley - The Cantanna Festival
+* Joshua Sheets
+* Joshua Sheets
+* Nichole Graf
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Rian Takahashi
+* Ann'ette Pedigo - Cedar Creek Cannabis
 
-#### 204 👎 - Con
+#### 285 👎 - Con
 Testifying:
 * Megan Moore - WA State Public Health Association
+* TRENT MATSON - Washington Cannabis Licensees Association
 
 #### 1 ❓ - Other
 Testifying:

@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162231&caId=25076&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162231&caId=25076&tId=4)
 
-#### 6 👍 - Pro
+#### 37 👍 - Pro
 
-#### 7 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * Sandra Brock
 

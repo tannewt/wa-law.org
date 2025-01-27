@@ -8,6 +8,10 @@
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system  👎1 
 * 👎 Joseph Romero
 
+### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍1  
+
+### [SB 5086](/bill/2025-26/sb/5086/) - PEBB & SEBB consolidation  👎1 
+
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍5  
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍5  

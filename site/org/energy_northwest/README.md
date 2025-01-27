@@ -3,13 +3,16 @@
 
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
 
-## [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
+### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
 * 👍 Dave Arbaugh
+
+## [HB 1461](/bill/2025-26/hb/1461/) - Joint operating agencies 👍1  
+* 👍 Richard Shaff
 
 ## 2023-24
 
-### [HB 1237](/bill/2023-24/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
-* 👍 Dave Arbaugh
+### [HB 1461](/bill/2023-24/hb/1461/) - Joint operating agencies 👍1  
+* 👍 Richard Shaff
 
 ### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  
 

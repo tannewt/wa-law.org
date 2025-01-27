@@ -1,12 +1,22 @@
 # Port of Port Angeles
 ## 2025-26
 
-## [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍1  
+### [HB 1058](/bill/2025-26/hb/1058/) - Freight railroad infra. 👍1  
+
+### [HB 1109](/bill/2025-26/hb/1109/) - Public facilities districts 👍1  
+
+### [HB 1302](/bill/2025-26/hb/1302/) - Utility connection charges 👍1  
+
+### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
+
+### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
+
+## [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍2  
 * 👍 Martin Marchant
 
 ## 2023-24
 
-### [SB 5281](/bill/2023-24/sb/5281/) - Vessel length/nonresident 👍1  
+### [SB 5281](/bill/2023-24/sb/5281/) - Vessel length/nonresident 👍2  
 * 👍 Martin Marchant
 
 ### [HB 1257](/bill/2023-24/hb/1257/) - Cargo and passenger ports 👍1  

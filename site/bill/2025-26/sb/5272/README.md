@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Peyton Coffin - Northwest Baseball Umpires Association -- 150 members
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

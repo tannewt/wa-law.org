@@ -14,8 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32533&aId=161889&caId=25027&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32533&aId=161889&caId=25027&tId=4)
 
-#### 149 👍 - Pro
+#### 192 👍 - Pro
+Testifying:
+* Jacob Ivan Schmitt - Just Us Solutions, LLC
+* Jacob Ivan Schmitt - Just Us Solutions, LLC
+* Juan Peralez - Unidos of Snohomish County
+* Juan Peralez - Unidos of Snohomish County
 
-#### 1 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Ryan Lufkin - Washington Council of Police & Sheriffs (WACOPS)
 
 #### 0 ❓ - Other

@@ -17,11 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161960&caId=25107&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161960&caId=25107&tId=4)
 
-#### 148 👍 - Pro
+#### 223 👍 - Pro
 Testifying:
 * Tamara Light - Information For Change Washington
 * Jacob Schmitt - Just Us Solutions, LLC
+* Candice Baughman - Underground Ministries
+* Catherine Antee - LFC  Stafford Creek
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

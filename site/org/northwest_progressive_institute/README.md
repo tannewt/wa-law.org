@@ -8,6 +8,8 @@
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍2  
 
+### [HB 1189](/bill/2025-26/hb/1189/) - Addressing parental involvement through volunteering in schools after a criminal conviction. 👍1  
+
 ### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍1  
 
 ### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections 👍1  

@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162232&caId=25077&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162232&caId=25077&tId=4)
 
-#### 7 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Dr. Scott Phillips - [Washington Poison Center](/org/washington_poison_center/)
@@ -26,6 +26,8 @@ Testifying:
 * Ashley Bonus
 * Chase Glasser - SAFE: Safety and Advocacy for Empowerment
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 
 #### 0 ❓ - Other

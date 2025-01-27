@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32573&aId=162049&caId=25090&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32573&aId=162049&caId=25090&tId=4)
 
-#### 39 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Don Skakie - Homegrow Washington
 * Micah Sherman
@@ -25,6 +25,9 @@ Testifying:
 * Anthony Martinelli - The Marijuana Herald
 * Cody Funderburk - Washington Cannabis Workers Club
 
-#### 2 👎 - Con
+#### 105 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Levi Lyon
+* Michale Robinson

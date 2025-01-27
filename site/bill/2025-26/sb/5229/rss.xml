@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5229/</link>
 		<description>Updates about SB 5229</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 24 Jan 2025 10:37:13 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 25 Jan 2025 08:21:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/James/McMahan/2025-01-24 10:37:13</guid>
+		</item>
+		<item>
+			<title>❓Deborah Nelson - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>Deborah Nelson signed up to testify Other.</description>
+			<pubDate>Sat, 25 Jan 2025 08:21:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Deborah/Nelson/2025-01-25 08:21:42</guid>
 		</item>
 	</channel>
 </rss>

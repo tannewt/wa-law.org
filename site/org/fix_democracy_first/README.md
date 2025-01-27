@@ -1,7 +1,7 @@
 # Fix Democracy First
 ## 2025-26
 
-### [HB 1116](/bill/2025-26/hb/1116/) - Recognizing election day. 👍1  
+### [HB 1116](/bill/2025-26/hb/1116/) - Recognizing election day. 👍2  
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  
 
@@ -26,11 +26,13 @@
 
 ### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍1  
 
-## [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
+
+## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍1  
 
 ## 2023-24
 
-### [SB 5077](/bill/2023-24/sb/5077/) - Agency voter registration 👍2  
+### [SB 5400](/bill/2023-24/sb/5400/) - Local news journalism 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

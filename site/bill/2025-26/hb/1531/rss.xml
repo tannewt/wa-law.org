@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1531/</link>
 		<description>Updates about HB 1531</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 25 Jan 2025 10:50:42 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Jan 2025 06:04:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -61,6 +61,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Lesleyann/Pedro/2025-01-25 10:50:42</guid>
+		</item>
+		<item>
+			<title>👎Leah Houser - I am testifying on the behalf of humanity.</title>
+			<description>Leah Houser signed up to testify Con.</description>
+			<pubDate>Sun, 26 Jan 2025 02:50:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Leah/Houser/2025-01-26 02:50:32</guid>
+		</item>
+		<item>
+			<title>👎Djaudee Cipres - I am testifying on the behalf of humanity.</title>
+			<description>Djaudee Cipres signed up to testify Con.</description>
+			<pubDate>Sun, 26 Jan 2025 06:04:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Djaudee/Cipres/2025-01-26 06:04:13</guid>
 		</item>
 	</channel>
 </rss>

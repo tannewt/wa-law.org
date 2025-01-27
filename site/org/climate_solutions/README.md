@@ -32,13 +32,14 @@
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 * 👍💵 Leah Missik
 
-## [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
+### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
 * ❓💵 Altinay Karasapan
+
+## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
 ## 2023-24
 
-### [SB 5246](/bill/2023-24/sb/5246/) - Energy facility site eval.   ❓1
-* ❓💵 Altinay Karasapan
+### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management 👍1  
 
 ### [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍2  
 * 👍💵 Leah Missik

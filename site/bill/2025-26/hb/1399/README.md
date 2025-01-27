@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161954&caId=25052&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161954&caId=25052&tId=4)
 
-#### 173 👍 - Pro
+#### 340 👍 - Pro
 Testifying:
 * Susan Kane-Ronning - Washington Sierra Club Wildlife Committee
 * Juan Peralez - Unidos of Snohomish County
@@ -29,10 +29,24 @@ Testifying:
 * Lynn Mason - Coexisting with Cougars in Klickitat County
 * Josh Rosenau - [Mountain Lion Foundation](/org/mountain_lion_foundation/)
 * 💵Courtney Normand - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* Barbara Geiger
 * Melissa Brinks
+* Heather Kelly - League of Women Voters
+* 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
+* Ryan Disch-Guzman - Washington Alliance for Gun Responsibility
+* 💵Elizabeth Hendren
+* Leslie Cushman - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Lyle Quasim - Tacoma Pierce County Black Collective
+* Eliana Machefsky - National Lawyers Guild Police Accountability Project
+* 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
+* Michelle Nijhuis
 
-#### 62 👎 - Con
+#### 440 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Melanie Brown
+* Donald Brockett
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

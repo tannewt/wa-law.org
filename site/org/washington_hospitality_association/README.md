@@ -50,12 +50,15 @@
 ### [SB 5101](/bill/2025-26/sb/5101/) - Expanding access to leave and safety accommodations to include workers who are victims of hate crimes or bias incidents.   ❓1
 * ❓💵 Julia Gorton
 
-## [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
+* 👎💵 Julia Gorton
+
+## [SB 5330](/bill/2025-26/sb/5330/) - Spiked drink testing  👎1 
 * 👎💵 Julia Gorton
 
 ## 2023-24
 
-### [SB 5292](/bill/2023-24/sb/5292/) - Family & medical leave rates  👎1 
+### [SB 5330](/bill/2023-24/sb/5330/) - Spiked drink testing  👎1 
 * 👎💵 Julia Gorton
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  

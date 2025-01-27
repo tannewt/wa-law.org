@@ -18,10 +18,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32607&aId=162186&caId=25112&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32607&aId=162186&caId=25112&tId=4)
 
-#### 21 👍 - Pro
+#### 200 👍 - Pro
 
-#### 1 👎 - Con
+#### 96 👎 - Con
 Testifying:
 * Aidan Thornsberry
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

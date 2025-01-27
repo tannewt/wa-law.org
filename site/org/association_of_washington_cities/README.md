@@ -63,8 +63,15 @@
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records   ❓1
 * ❓💵 Candice Bock
 
+### [HB 1312](/bill/2025-26/hb/1312/) - Retirement benefits/death 👍1  
+
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
 * 👎💵 Carl Schroeder
+
+### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc.   ❓1
+* ❓💵 Candice Bock
+
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state.   ❓1
 * ❓💵 Candice Bock
@@ -77,6 +84,9 @@
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 * 👍💵 Candice Bock
+
+### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
+* 👎💵 Candice Bock
 
 ### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans   ❓2
 * ❓💵 Candice Bock
@@ -101,13 +111,20 @@
 ### [SB 5197](/bill/2025-26/sb/5197/) - Local government planning   ❓1
 * ❓💵 Carl Schroeder
 
+### [SB 5238](/bill/2025-26/sb/5238/) - Reckless driving, speed 👍1  
+
 ### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍1  
 
-## [SB 5315](/bill/2025-26/sb/5315/) - Local tax rate changes 👍1  
+### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
+* 👍💵 Candice Bock
+
+### [SB 5315](/bill/2025-26/sb/5315/) - Local tax rate changes 👍1  
+
+## [SB 5381](/bill/2025-26/sb/5381/) - Self-insurer withdrawal 👍1  
 
 ## 2023-24
 
-### [SB 5315](/bill/2023-24/sb/5315/) - Local tax rate changes 👍1  
+### [SB 5381](/bill/2023-24/sb/5381/) - Self-insurer withdrawal 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

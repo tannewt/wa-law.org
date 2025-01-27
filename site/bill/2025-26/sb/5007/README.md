@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32552&aId=161948&caId=24963&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32552&aId=161948&caId=24963&tId=4)
 
-#### 9 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Shane Backland - Association of Educational Service Districts -  AESD
 * Pete Peterson - Kiona-Benton City SD
 
-#### 10 👎 - Con
+#### 698 👎 - Con
 
 #### 0 ❓ - Other

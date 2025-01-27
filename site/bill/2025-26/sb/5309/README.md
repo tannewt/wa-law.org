@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32530&aId=162282&caId=25037&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32530&aId=162282&caId=25037&tId=4)
 
-#### 29 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Chad Magendanz - ABATE of WA  (Motorcyclists)
 * LARRY WALKER - ABATE of WA  (Motorcyclists)

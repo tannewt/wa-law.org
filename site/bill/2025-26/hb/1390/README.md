@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162007&caId=25131&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162007&caId=25131&tId=4)
 
-#### 8 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Kyle Matheson - Self advocate
 * Kyle Matheson - Self advocate
 * Courtney Thom
 * Courtney Thom
+* 💵Shawn Latham - Serlf Advocates In Leadership
 
 #### 0 👎 - Con
 
