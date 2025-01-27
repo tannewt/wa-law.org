@@ -14,14 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32604&aId=162170&caId=24953&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32604&aId=162170&caId=24953&tId=4)
 
-#### 147 👍 - Pro
+#### 191 👍 - Pro
 Testifying:
 * Dave Hedrick - Ferry Conservation District
 * Katherine MITCHELL
 * 💵Jesse Taylor - Cattle Producers of WA
 * Scott Nielsen - Stevens County Cattlemen’s Association
+* Jeff Dawson - NE Washington Rancher
 
-#### 17 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
 

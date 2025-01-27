@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1208/</link>
 		<description>Updates about HB 1208</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 26 Jan 2025 06:39:15 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 08:21:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,7 +30,7 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Agriculture &amp; Natural Resources.</guid>
 		</item>
 		<item>
-			<title>👎Sandra Brock - Office of Secretary of State</title>
+			<title>👎Sandra Brock - WDFW</title>
 			<description>Sandra Brock signed up to testify Con.</description>
 			<pubDate>Thu, 23 Jan 2025 05:14:11 GMT</pubDate>
 			<category>testifier</category>
@@ -52,6 +52,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/JOHN/WORTHINGTON/2025-01-26 06:39:15</guid>
+		</item>
+		<item>
+			<title>👍Kas Guillozet - Bonneville Environmental Foundation</title>
+			<description>Kas Guillozet signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/bonneville_environmental_foundation/"&gt;Bonneville Environmental Foundation&lt;/a&gt;.</description>
+			<pubDate>Mon, 27 Jan 2025 06:18:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kas/Guillozet/2025-01-27 06:18:26</guid>
+		</item>
+		<item>
+			<title>👍Matt Curtis - WDFW</title>
+			<description>Matt Curtis signed up to testify Pro. They are signed up to represent WDFW.</description>
+			<pubDate>Mon, 27 Jan 2025 08:19:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matt/Curtis/2025-01-27 08:19:46</guid>
+		</item>
+		<item>
+			<title>❓Jenna Friebel - Skagit Drainage and Irrigation Districts Consortium LLC</title>
+			<description>Jenna Friebel signed up to testify Other. They are signed up to represent Skagit Drainage and Irrigation Districts Consortium LLC.</description>
+			<pubDate>Mon, 27 Jan 2025 08:21:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jenna/Friebel/2025-01-27 08:21:25</guid>
 		</item>
 	</channel>
 </rss>

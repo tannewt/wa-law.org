@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32566&aId=162013&caId=25065&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32566&aId=162013&caId=25065&tId=4)
 
-#### 274 👍 - Pro
+#### 316 👍 - Pro
 Testifying:
 * 💵Laurie Weidner - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
 * Evan Klein - Health Care Authority
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
+* Jim Freeburg - Patient Coalition of Washington
+* 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Pam MacEwan - Purchasers Business Group on Health
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
-#### 83 👎 - Con
+#### 109 👎 - Con
 Testifying:
 * 💵Chelene Whiteaker - Washington State Hospital Association
 * 💵Lisa Thatcher - Washington State Hospital Association
@@ -27,4 +32,6 @@ Testifying:
 * Chris Bredesen - EvergreenHealth
 * Matt Forge - Pullman Regional Hospital
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans

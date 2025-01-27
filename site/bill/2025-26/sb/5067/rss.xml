@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5067/</link>
 		<description>Updates about SB 5067</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 24 Jan 2025 07:09:11 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 09:33:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -254,6 +254,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Beth/Ebel/2025-01-24 07:09:11</guid>
+		</item>
+		<item>
+			<title>👍Dakota Manley - Washington State Young Republicans</title>
+			<description>Dakota Manley signed up to testify Pro. They are signed up to represent Washington State Young Republicans.</description>
+			<pubDate>Sun, 26 Jan 2025 09:56:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dakota/Manley/2025-01-26 09:56:27</guid>
+		</item>
+		<item>
+			<title>👍Cammryn Gadd - Washington State Young Republicans</title>
+			<description>Cammryn Gadd signed up to testify Pro.</description>
+			<pubDate>Mon, 27 Jan 2025 09:33:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cammryn/Gadd/2025-01-27 09:33:06</guid>
 		</item>
 	</channel>
 </rss>

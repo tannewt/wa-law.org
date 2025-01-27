@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162157&caId=24986&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162157&caId=24986&tId=4)
 
-#### 468 👍 - Pro
+#### 515 👍 - Pro
 Testifying:
 * Robert Chaddock
 
-#### 75 👎 - Con
+#### 114 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Linda Seltzer

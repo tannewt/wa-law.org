@@ -53,7 +53,7 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍1  
+### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍2  
 
 ## [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
 

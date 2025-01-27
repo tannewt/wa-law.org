@@ -34,8 +34,14 @@
 ### [HB 1315](/bill/2025-26/hb/1315/) - Impaired driving  👎1 
 * 👎💵 Julia Gorton
 
+### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓1
+* ❓💵 Samantha Louderback
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Julia Gorton
+
+### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates 👍1  
+* 👍💵 Samantha Louderback
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 
@@ -53,13 +59,16 @@
 ### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
 * 👎💵 Julia Gorton
 
-## [SB 5330](/bill/2025-26/sb/5330/) - Spiked drink testing  👎1 
+### [SB 5330](/bill/2025-26/sb/5330/) - Spiked drink testing  👎1 
 * 👎💵 Julia Gorton
+
+## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
+* 👎💵 Samantha Louderback
 
 ## 2023-24
 
-### [SB 5330](/bill/2023-24/sb/5330/) - Spiked drink testing  👎1 
-* 👎💵 Julia Gorton
+### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction  👎1 
+* 👎💵 Samantha Louderback
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  
 

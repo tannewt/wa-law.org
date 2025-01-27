@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32555&aId=162313&caId=25173&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32555&aId=162313&caId=25173&tId=4)
 
-#### 182 👍 - Pro
+#### 203 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)

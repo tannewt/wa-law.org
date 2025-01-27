@@ -4,6 +4,9 @@
 ### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍1  
 * 👍 Martin Turney
 
+### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
+* 👍 Martin Turney
+
 ### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍1  
 * 👍 Martin Turney
 

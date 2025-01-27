@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205253)
+
 ## Meetings
 ### Thu 01/30 10:30 AM - Early Learning & K-12 Education (EDU): SB 5253 Special education services
 Sign up to testify:
@@ -14,12 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161979&caId=24973&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161979&caId=24973&tId=4)
 
-#### 20 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Tania May - Office of Superintendent of Public Instruction
 * 💵Alex Hur - Communities in Schools of Washington
 * Richard Pope - Parent of Special Education Student "Aging Out" This Week
 * Chitra Iyer - Washington State Association of School Psychologists
+* Tara Wilson
+* Amy Cannava - Washington State Association of School Psychologists
 
 #### 0 👎 - Con
 

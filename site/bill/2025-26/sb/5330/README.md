@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162249&caId=25008&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162249&caId=25008&tId=4)
 
-#### 17 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Addison Hafermann - Lake Washington High School
 * Ava Brisimitzis - Lake Washington High School
@@ -22,9 +22,11 @@ Testifying:
 * Claire Pike - Lake Washington High School
 * Elise Summers - Lake Washington High School
 * Shira Avitan - Lake Washington High School
+* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
+* 💵Collin Bannister - The Associated Students of Washington State University
 
-#### 369 👎 - Con
+#### 440 👎 - Con
 Testifying:
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

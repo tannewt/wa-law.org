@@ -14,14 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32528&aId=161852&caId=25021&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32528&aId=161852&caId=25021&tId=4)
 
-#### 42 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* LaDon Linde - Yakima County
+* 💵Anne Anderson - Washington State Narcotics Investigators Association
 
-#### 6 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Cece Wettemann
+* Tim Lewis - Thurston-Mason BHASO (DCR Supervisor)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Deborah Nelson

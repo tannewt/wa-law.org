@@ -1,6 +1,8 @@
 # Association of Washington School Principals
 ## 2025-26
 
+### [HB 1079](/bill/2025-26/hb/1079/) - Remote testing 👍1  
+
 ### [HB 1136](/bill/2025-26/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment. 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1

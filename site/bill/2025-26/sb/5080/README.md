@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205080)
 * 01/13/2025 [Senate Democrats](/org/senate_democrats/) - [The 2025 legislative session has officially begun - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/01/13/the-2025-legislative-session-has-officially-begun/#:~:text=SB%205080)
 
 ## Meetings
@@ -17,15 +18,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32552&aId=161946&caId=24961&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32552&aId=161946&caId=24961&tId=4)
 
-#### 30 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * Lori Hairston - Washington DECA
 * Mike Pelliciotti - State Treasurer
 * Tracy Godat
 * Conrad Krol - Westbank Financials
 * LORI HAIRSTON
+* Dakota Manley - Washington State Young Republicans
 * Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
+* 💵Brenda Wiest - Teamsters Local 117
 
-#### 538 👎 - Con
+#### 698 👎 - Con
 
 #### 1 ❓ - Other

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205268)
+
 ## Meetings
 ### Tue 01/28 08:00 AM - Law & Justice (LAW): SB 5268 Unlawful firearm possession
 Sign up to testify:
@@ -14,13 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161871&caId=25025&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161871&caId=25025&tId=4)
 
-#### 1054 👍 - Pro
+#### 1108 👍 - Pro
 Testifying:
 * Laurie Layne
 * Ken Swenson - Modern Renovators, LLC
 * Valerie Schaler
+* 💵Anne Anderson - Washington State Narcotics Investigators Association
 
-#### 39 👎 - Con
+#### 45 👎 - Con
 Testifying:
 * Kari Reardon - WACDL/WDA
 

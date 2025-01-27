@@ -7,6 +7,9 @@
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
 * 👍💵 Elizabeth Hendren
 
+### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations 👍1  
+* 👍💵 Elizabeth Hendren
+
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  

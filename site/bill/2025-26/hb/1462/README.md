@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32560&aId=162228&caId=25146&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32560&aId=162228&caId=25146&tId=4)
 
-#### 63 👍 - Pro
+#### 98 👍 - Pro
+Testifying:
+* Beth Porter - Environmental Investigation Agency
 
-#### 40 👎 - Con
+#### 51 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)

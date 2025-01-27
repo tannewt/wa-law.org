@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162248&caId=25007&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162248&caId=25007&tId=4)
 
-#### 419 👍 - Pro
+#### 451 👍 - Pro
 Testifying:
 * Alec Acosta-Vega - Working Wildcats
 * 💵Emily Myers - UAW
 * Leo Curtis - Western Academic Workers United
+* 💵Nathan Tippmann - TESC Student Lobbyist
 
-#### 331 👎 - Con
+#### 384 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* David Buri - Eastern Washington University

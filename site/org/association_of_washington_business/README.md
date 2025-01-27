@@ -39,6 +39,8 @@
 ### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍2  
 * 👍💵 Morgan Irwin
 
+### [HB 1115](/bill/2025-26/hb/1115/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
+
 ### [HB 1126](/bill/2025-26/hb/1126/) - Standardizing notification provisions relating to local tax rate changes and shared taxes administered by the department. 👍1  
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎1 
@@ -105,6 +107,8 @@
 
 ### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍2  
 
+### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
@@ -136,6 +140,8 @@
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
 
+### [SB 5111](/bill/2025-26/sb/5111/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
+
 ### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act. 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
@@ -158,6 +164,8 @@
 ### [SB 5241](/bill/2025-26/sb/5241/) - Fusion energy facilities 👍1  
 
 ### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍1  
+
+### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
 ### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
 * 👎💵 Lindsey Hueer

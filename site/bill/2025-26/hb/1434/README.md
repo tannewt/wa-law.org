@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162119&caId=25144&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162119&caId=25144&tId=4)
 
-#### 21 👍 - Pro
+#### 90 👍 - Pro
+Testifying:
+* Sandra Youssef
+* Ahmad Tirhi
+* Anees Khan
+* Muhannad Alzeir
 
-#### 5 👎 - Con
+#### 29 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other

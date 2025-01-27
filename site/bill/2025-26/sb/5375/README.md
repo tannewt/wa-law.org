@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32562&aId=161999&caId=25006&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32562&aId=161999&caId=25006&tId=4)
 
-#### 86 👍 - Pro
+#### 116 👍 - Pro
 Testifying:
 * Ryan Dudley - FFRF Action Fund
 * Sara Young - Representative as a former Jehovah’s Witness
@@ -31,7 +31,7 @@ Testifying:
 * Kristiana de Leon - Association of Secular Elected Officials
 * Rachel Fisher
 
-#### 98 👎 - Con
+#### 102 👎 - Con
 Testifying:
 * Bishop Frank Schuster - Archdiocese of Seattle
 * 💵Jean Hill - Washington State Catholic Conference

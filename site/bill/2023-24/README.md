@@ -1045,7 +1045,7 @@
 * [SB 6152](sb/6152) - Housing needs gap 47👍 17👎 1❓ - S Ways & Means
 * [SB 6221](sb/6221) - UW primate research center 62👍 0👎 3❓ - S Ways & Means
 * [HB 1040](hb/1040) - Aviation & aerospace cmte. 1📰 19👍 45👎 0❓ - H Innov, Comm &
-* [HB 1285](hb/1285) - Family farm permit transfers 19👍 45👎 0❓ - H Rules X
+* [HB 1285](hb/1285) - Family farm permit transfers 1📰 19👍 45👎 0❓ - H Rules X
 * [HB 1431](hb/1431) - Senior living meals/tax 3📰 62👍 1👎 1❓ - C 416 L 23
 * [SB 5066](sb/5066) - Health care benefit managers 59👍 3👎 2❓ - C 107 L 23
 * [SB 5216](sb/5216) - Collisions/driver reexam 63👍 1👎 0❓ - S Rules X

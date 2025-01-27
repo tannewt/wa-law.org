@@ -26,6 +26,8 @@
 ### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act.   ❓1
 * ❓💵 Carl Schroeder
 
+### [HB 1138](/bill/2025-26/hb/1138/) - Improving public safety by implementing evidence-based interview practices that increase the reliability of statements collected during criminal investigations.  👎1 
+
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential   ❓1
 * ❓💵 Carl Schroeder
 
@@ -70,6 +72,8 @@
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc.   ❓1
 * ❓💵 Candice Bock
+
+### [HB 1400](/bill/2025-26/hb/1400/) - Officer certification 👍1  
 
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
 

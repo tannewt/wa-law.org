@@ -35,6 +35,8 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+
 ### [SB 5055](/bill/2025-26/sb/5055/) - Agritourism  👎1 
 * 👎💵 Bryce Yadon
 
@@ -50,13 +52,14 @@
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍3  
 * 👍💵 Bryce Yadon
 
-## [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting   ❓1
+### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting   ❓1
 * ❓💵 Bryce Yadon
+
+## [SB 5374](/bill/2025-26/sb/5374/) - Transportation/tribal rep. 👍1  
 
 ## 2023-24
 
-### [SB 5249](/bill/2023-24/sb/5249/) - Kit home siting   ❓1
-* ❓💵 Bryce Yadon
+### [SB 5374](/bill/2023-24/sb/5374/) - Transportation/tribal rep. 👍1  
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1
 

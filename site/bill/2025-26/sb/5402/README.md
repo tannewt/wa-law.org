@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205402)
+
 ## Meetings
 ### Thu 01/30 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5402 Financial aid eligibility
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32577&aId=162112&caId=24997&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32577&aId=162112&caId=24997&tId=4)
 
-#### 357 👍 - Pro
+#### 361 👍 - Pro
 Testifying:
 * Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
 * Miguel Garduno Munoz - Western Washington University
@@ -22,4 +25,4 @@ Testifying:
 
 #### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

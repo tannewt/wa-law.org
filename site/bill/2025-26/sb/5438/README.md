@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162243&caId=24974&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162243&caId=24974&tId=4)
 
-#### 122 👍 - Pro
+#### 210 👍 - Pro
+Testifying:
+* Beth Porter - Environmental Investigation Agency
 
-#### 167 👎 - Con
+#### 295 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

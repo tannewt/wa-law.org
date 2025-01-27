@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161952&caId=25050&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161952&caId=25050&tId=4)
 
-#### 243 👍 - Pro
+#### 325 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
 * Amanda Knox
@@ -25,9 +25,10 @@ Testifying:
 * Ted Bradford
 * Mark Fallon - ClubFed, LLC
 
-#### 10 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* 💵Anne Anderson - Washington State Narcotics Investigators Association
 
 #### 1 ❓ - Other

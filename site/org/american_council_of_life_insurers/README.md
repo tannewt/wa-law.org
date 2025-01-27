@@ -4,13 +4,14 @@
 ### [HB 1230](/bill/2025-26/hb/1230/) - Disability insurer filings 👍1  
 * 👍 John Mangan
 
-## [SB 5141](/bill/2025-26/sb/5141/) - Requiring that experience-rated group disability income insurers include all applicable rating factors and credibility formulas in rate manual filings with the insurance commissioner. 👍1  
+### [SB 5141](/bill/2025-26/sb/5141/) - Requiring that experience-rated group disability income insurers include all applicable rating factors and credibility formulas in rate manual filings with the insurance commissioner. 👍1  
 * 👍 John Mangan
+
+## [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 
 
 ## 2023-24
 
-### [SB 5141](/bill/2023-24/sb/5141/) - Requiring that experience-rated group disability income insurers include all applicable rating factors and credibility formulas in rate manual filings with the insurance commissioner. 👍1  
-* 👍 John Mangan
+### [SB 5351](/bill/2023-24/sb/5351/) - Dental insurance practices  👎1 
 
 ### [HB 1061](/bill/2023-24/hb/1061/) - Insurance producer education 👍1  
 * 👍 John Mangan

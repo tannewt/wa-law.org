@@ -12,6 +12,8 @@
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.   ❓1
 * ❓ John Flanagan
 
+### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
+
 ## [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
 
 ## 2023-24

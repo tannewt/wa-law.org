@@ -22,6 +22,12 @@
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍2  
 
+### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍1  
+* 👍💵 Heather Trim
+
+### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍1  
+* 👍💵 Heather Trim
+
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs   ❓1
 * ❓💵 Heather Trim
 

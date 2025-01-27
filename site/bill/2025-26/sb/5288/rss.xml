@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5288/</link>
 		<description>Updates about SB 5288</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 25 Jan 2025 04:53:50 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Jan 2025 10:35:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Paul/Jewell/2025-01-25 04:53:50</guid>
+		</item>
+		<item>
+			<title>👍Art Swannack - Whitman County</title>
+			<description>Art Swannack signed up to testify Pro. They are signed up to represent Whitman County.</description>
+			<pubDate>Sun, 26 Jan 2025 10:35:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Art/Swannack/2025-01-26 10:35:23</guid>
 		</item>
 	</channel>
 </rss>

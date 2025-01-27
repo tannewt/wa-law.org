@@ -14,16 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32606&aId=162185&caId=25063&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32606&aId=162185&caId=25063&tId=4)
 
-#### 51 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
 * Kol Peterson - Tiny Hookups LLC
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Tim McCormick
 * Marilee Fuller
 * Zachariah Giffin - Operation Tiny Home
+* Todd McKellips - Washington Tiny House Association
+* Todd McKellips - Washington Tiny House Association
 * Joe Wykowski - Community Vision
+* Frank O'Neill
+* Gwyn Howat - Mt. Baker Ski Area
+* Jessica Graf
 
-#### 20 👎 - Con
+#### 38 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

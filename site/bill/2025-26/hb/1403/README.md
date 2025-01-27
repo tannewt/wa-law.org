@@ -17,8 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162234&caId=25115&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162234&caId=25115&tId=4)
 
-#### 57 👍 - Pro
+#### 68 👍 - Pro
+Testifying:
+* Dave Hamilton - Councilmember, City of Bellevue
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

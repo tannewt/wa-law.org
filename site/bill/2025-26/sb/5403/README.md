@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162250&caId=25009&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162250&caId=25009&tId=4)
 
-#### 179 👍 - Pro
+#### 231 👍 - Pro
 Testifying:
 * Micah Sherman - Raven
 * Tamara Weinmann - 13300 SE 30th st unit 101
@@ -29,12 +29,23 @@ Testifying:
 * Caitlein Ryan - THE CANNABIS ALLIANCE
 * Rian Takahashi
 * Ann'ette Pedigo - Cedar Creek Cannabis
+* Anders Taylor
+* RYAN SEVIGNY
+* Brendon Weinmann - 30th Street Productions
+* Jeremy Careaga
+* Anthony Covos-Golden
+* Atina Holan
 
-#### 285 👎 - Con
+#### 322 👎 - Con
 Testifying:
 * Megan Moore - WA State Public Health Association
 * TRENT MATSON - Washington Cannabis Licensees Association
+* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
+* 💵Brooke Davies - Washington CannaBusiness Association
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Beau Whitney - Whitney Economics
+* Kelsey Taylor - Walden
+* Mike Asai - Black Excellence In Cannabis
+* Peter Manning - Black Excellence in Cannabis

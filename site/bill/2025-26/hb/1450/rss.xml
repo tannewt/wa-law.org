@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1450/</link>
 		<description>Updates about HB 1450</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 26 Jan 2025 08:42:47 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 26 Jan 2025 09:15:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -39,7 +39,7 @@
 			<guid isPermaLink="false">testifier/Wade/Smith/2025-01-24 02:37:30</guid>
 		</item>
 		<item>
-			<title>👎Michelle Boatwright - Washington Cannabis Workers Club</title>
+			<title>👎Michelle Boatwright - Washington State Public Health Association</title>
 			<description>Michelle Boatwright signed up to testify Con.</description>
 			<pubDate>Fri, 24 Jan 2025 05:32:01 GMT</pubDate>
 			<category>testifier</category>
@@ -54,7 +54,7 @@
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201450</guid>
 		</item>
 		<item>
-			<title>👎Jenifer Largent - Washington Cannabis Workers Club</title>
+			<title>👎Jenifer Largent - Washington State Public Health Association</title>
 			<description>Jenifer Largent signed up to testify Con.</description>
 			<pubDate>Sun, 26 Jan 2025 04:32:14 GMT</pubDate>
 			<category>testifier</category>
@@ -62,7 +62,7 @@
 			<guid isPermaLink="false">testifier/Jenifer/Largent/2025-01-26 04:32:14</guid>
 		</item>
 		<item>
-			<title>👎Courtney Arapis - Washington Cannabis Workers Club</title>
+			<title>👎Courtney Arapis - Washington State Public Health Association</title>
 			<description>Courtney Arapis signed up to testify Con.</description>
 			<pubDate>Sun, 26 Jan 2025 07:23:39 GMT</pubDate>
 			<category>testifier</category>
@@ -70,7 +70,7 @@
 			<guid isPermaLink="false">testifier/Courtney/Arapis/2025-01-26 07:23:39</guid>
 		</item>
 		<item>
-			<title>👍Carmen Barajas - Washington Cannabis Workers Club</title>
+			<title>👍Carmen Barajas - Washington State Public Health Association</title>
 			<description>Carmen Barajas signed up to testify Pro.</description>
 			<pubDate>Sun, 26 Jan 2025 08:32:55 GMT</pubDate>
 			<category>testifier</category>
@@ -84,6 +84,14 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/James/Everett/2025-01-26 08:42:47</guid>
+		</item>
+		<item>
+			<title>❓Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)</title>
+			<description>Jenny Plaja signed up to testify Other. They are signed up to represent Office of Superintendent of Public Instruction (OSPI).</description>
+			<pubDate>Sun, 26 Jan 2025 09:15:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jenny/Plaja/2025-01-26 09:15:17</guid>
 		</item>
 	</channel>
 </rss>

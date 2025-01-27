@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205120)
 * 01/23/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to expand support for high-poverty schools heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/23/nobles-bill-to-expand-support-for-high-poverty-schools-heard-in-committee/#:~:text=Senate%20Bill%205120)
 
 ## Meetings

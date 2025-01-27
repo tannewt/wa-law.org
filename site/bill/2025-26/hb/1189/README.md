@@ -17,12 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32595&aId=162096&caId=25055&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32595&aId=162096&caId=25055&tId=4)
 
-#### 87 👍 - Pro
+#### 116 👍 - Pro
 Testifying:
 * Laurie Dolan
 * Anthony Powers - American Equity & Justice Group
 * Tracy Watson - Revive Counseling
 * Karen Peacey
+* Amanda Gardner
+* Jovan Jackson - Nevada State Assembly member
+* La’Keisha Roselle - The Black Rose Collective
 
 #### 5 👎 - Con
 

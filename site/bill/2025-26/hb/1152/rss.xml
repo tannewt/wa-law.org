@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1152/</link>
 		<description>Updates about HB 1152</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 21 Jan 2025 08:08:27 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 16:49:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -331,6 +331,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Benjamin/Reed/2025-01-21 08:08:27</guid>
+		</item>
+		<item>
+			<title>Top gun bills in Washington Legislature in 2025: Permits, taxing ammo and more - Axios Seattle</title>
+			<description>News article "Top gun bills in Washington Legislature in 2025: Permits, taxing ammo and more - Axios Seattle" from Axios.</description>
+			<pubDate>Mon, 27 Jan 2025 14:20:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.axios.com/local/seattle/2025/01/27/gun-permit-license-ammo-tax-washington-law-2025#:~:text=safe%20storage%20requirements</guid>
+		</item>
+		<item>
+			<title>Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA</title>
+			<description>News article "Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 27 Jan 2025 16:49:21 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/2025session-week3/#:~:text=HB%201152</guid>
 		</item>
 	</channel>
 </rss>

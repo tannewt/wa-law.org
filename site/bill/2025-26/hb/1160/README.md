@@ -30,14 +30,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162307&caId=25174&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162307&caId=25174&tId=4)
 
-#### 59 👍 - Pro
+#### 74 👍 - Pro
 Testifying:
 * Tammie Sueirro - AIAWA (American Institute of Architects WA Council)
 * Joseph Tovar - [American Planning Association Washington Chapter](/org/american_planning_association_washington_chapter/)
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/16 08:00 AM - Housing (HOUS): HB 1160 Local gov. design review
 #### 88 👍 - Pro

@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162352&caId=25203&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162352&caId=25203&tId=4)
 
-#### 18 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * 💵Alex Hur - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Aaron Delaney
+* Gus Patel-Tupper
 
 #### 1 👎 - Con
 

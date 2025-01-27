@@ -5,13 +5,14 @@
 * 👍💵 Kirk Hovenkotter
 * 👍💵 Matthew Sutherland
 
-## [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
+### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 * 👍💵 Kirk Hovenkotter
+
+## [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
 
 ## 2023-24
 
-### [SB 5161](/bill/2023-24/sb/5161/) - Transportation budget 👍1  
-* 👍💵 Kirk Hovenkotter
+### [SB 5203](/bill/2023-24/sb/5203/) - Wildlife safe passages 👍1  
 
 ### [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
 

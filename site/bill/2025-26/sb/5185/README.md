@@ -17,7 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162163&caId=24992&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162163&caId=24992&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Dr. Jamal Mustafa - Puget Sound Psychiatric Clinic
+* Dr. Kamal Mustafa - Puget Sound Psychiatric Clinic
+* Dr. Khalid Ahmed - Puget Sound Psychiatric Clinic
+* Dr. Nadeem Mian - Medical Resident PGYII
 
 #### 0 👎 - Con
 

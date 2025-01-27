@@ -1,6 +1,8 @@
 # Disability Rights Washington
 ## 2025-26
 
+### [HB 1085](/bill/2025-26/hb/1085/) - School safety/penalties  👎1 
+
 ### [HB 1091](/bill/2025-26/hb/1091/) - SVP supervision credit  👎1 
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
@@ -27,6 +29,12 @@
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
+
+### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license 👍1  
+* 👍💵 Anna Zivarts
+
+### [HB 1418](/bill/2025-26/hb/1418/) - PTBA governing body members 👍1  
+* 👍💵 Anna Zivarts
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 👍1  
 

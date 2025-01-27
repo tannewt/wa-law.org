@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=162196&caId=25059&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=162196&caId=25059&tId=4)
 
-#### 40 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * 💵Laura Feinstein - [Sightline Institute](/org/sightline_institute/)
+* Michael Hogan - [Port of Bellingham](/org/port_of_bellingham/)
 
-#### 24 👎 - Con
+#### 42 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205062)
+
 ## Meetings
 ### Mon 01/20 10:30 AM - Labor & Commerce (LC): SB 5062 Child care workforce board
 #### 63 👍 - Pro

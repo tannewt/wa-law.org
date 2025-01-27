@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32595&aId=162095&caId=25054&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32595&aId=162095&caId=25054&tId=4)
 
-#### 348 👍 - Pro
+#### 377 👍 - Pro
 Testifying:
 * Matthew Kesler - Battle Ground PS
 * Wenting Zou - Lake Washington High School
@@ -23,7 +23,10 @@ Testifying:
 * Felicia Kern
 * Kiera O'Brien - [Vancouver Education Association](/org/vancouver_education_association/)
 * James Perry - Digital Public Schools Alliance - Washington (DPSA)
+* Myron Hammond - K12 - Insight School of Washington
 
-#### 306 👎 - Con
+#### 339 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Becky Wallace - Office of Superintendent of Public Instruction

@@ -10,6 +10,9 @@
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
 
+### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
+* 👍💵 Nadine Nadow
+
 ### [SB 5171](/bill/2025-26/sb/5171/) - Wolf predation 👍1  
 * 👍💵 Paula Swedeen
 

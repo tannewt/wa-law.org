@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205181)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 Legislative Session Update! - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/24/2025-legislative-session-update/#:~:text=SB%205181)
 * 01/23/2025 [MyNorthwest](/org/mynorthwest/) - [Democrats pull a fast one on voters, gut parental rights initiative](https://mynorthwest.com/ktth/ktth-opinion/rantz-wa-democrats-pulled-a-fast-one-on-voters-as-they-undo-parental-rights-initiative/4029200#:~:text=Senate%20Bill%205181)
 * 01/23/2025 [Senate Republicans](/org/senate_republicans/) - [AUDIO: State Senate Republican leadership update with Senator John Braun - Senate Republican Caucus](https://src.wastateleg.org/blog/audio-state-senate-republican-leadership-update-senator-john-braun/#:~:text=5181)

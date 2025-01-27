@@ -21,6 +21,6 @@ Sign up to testify:
 Testifying:
 * Briuan Lombardozzi - [Alliance for American Manufacturing](/org/alliance_for_american_manufacturing/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

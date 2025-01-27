@@ -17,11 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162116&caId=25102&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162116&caId=25102&tId=4)
 
-#### 745 👍 - Pro
+#### 791 👍 - Pro
 Testifying:
 * Tracy Turner - Sail
+* Carin Christy - Carin Christy, MA, LMHC
 
-#### 217 👎 - Con
+#### 375 👎 - Con
 Testifying:
 * Mary Mead
 * Erica Engelhart
@@ -31,5 +32,8 @@ Testifying:
 * Stuart Holmes - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Brandie Bills
 * Sharon Hanek
+* Rico Hernandez
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Chris Hughes - Ranked Choice Voting Resource Center

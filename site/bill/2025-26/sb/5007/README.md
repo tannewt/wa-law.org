@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205007)
+
 ## Meetings
 ### Tue 01/28 08:00 AM - Early Learning & K-12 Education (EDU): SB 5007 Chronically absent students
 Sign up to testify:
@@ -14,12 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32552&aId=161948&caId=24963&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32552&aId=161948&caId=24963&tId=4)
 
-#### 30 👍 - Pro
+#### 87 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Shane Backland - Association of Educational Service Districts -  AESD
 * Pete Peterson - Kiona-Benton City SD
+* Dixie Grunenfelder - Office of Superintendent of Public Instruction
 
-#### 698 👎 - Con
+#### 970 👎 - Con
 
 #### 0 ❓ - Other

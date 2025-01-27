@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162224&caId=25110&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162224&caId=25110&tId=4)
 
-#### 223 👍 - Pro
+#### 353 👍 - Pro
 Testifying:
 * Robbette Schmit - WintonMFG Compost Works
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 45 👎 - Con
+#### 57 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)

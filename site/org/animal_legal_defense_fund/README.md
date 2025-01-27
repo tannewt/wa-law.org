@@ -6,13 +6,14 @@
 
 ### [HB 1149](/bill/2025-26/hb/1149/) - Cruelty to animals 👍1  
 
-## [HB 1201](/bill/2025-26/hb/1201/) - Identifying accommodations allowing pets in an emergency or extreme weather event. 👍1  
+### [HB 1201](/bill/2025-26/hb/1201/) - Identifying accommodations allowing pets in an emergency or extreme weather event. 👍1  
 * 👍 Cat Kelly
+
+## [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
 
 ## 2023-24
 
-### [HB 1201](/bill/2023-24/hb/1201/) - Identifying accommodations allowing pets in an emergency or extreme weather event. 👍1  
-* 👍 Cat Kelly
+### [SB 5203](/bill/2023-24/sb/5203/) - Wildlife safe passages 👍1  
 
 ### [HB 1153](/bill/2023-24/hb/1153/) - Octopus farming 👍2  
 

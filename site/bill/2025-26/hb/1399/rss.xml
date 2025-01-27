@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1399/</link>
 		<description>Updates about HB 1399</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 26 Jan 2025 12:15:26 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 09:08:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -221,6 +221,38 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Donald/Brockett/2025-01-26 12:15:26</guid>
+		</item>
+		<item>
+			<title>👎Kevin Lammerding - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>Kevin Lammerding signed up to testify Con.</description>
+			<pubDate>Mon, 27 Jan 2025 07:10:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kevin/Lammerding/2025-01-27 07:10:24</guid>
+		</item>
+		<item>
+			<title>👎April Langford - Purgatory Apotheca</title>
+			<description>April Langford signed up to testify Con. They are signed up to represent Purgatory Apotheca.</description>
+			<pubDate>Mon, 27 Jan 2025 07:39:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/April/Langford/2025-01-27 07:39:57</guid>
+		</item>
+		<item>
+			<title>👎Atina Holan - Purgatory Apotheca</title>
+			<description>Atina Holan signed up to testify Con.</description>
+			<pubDate>Mon, 27 Jan 2025 08:52:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Atina/Holan/2025-01-27 08:52:34</guid>
+		</item>
+		<item>
+			<title>❓Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs</title>
+			<description>Jeff DeVere signed up to testify Other. They are signed up to represent WACOPS - Washington Council of Police and Sheriffs.</description>
+			<pubDate>Mon, 27 Jan 2025 09:08:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jeff/DeVere/2025-01-27 09:08:50</guid>
 		</item>
 	</channel>
 </rss>

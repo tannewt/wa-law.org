@@ -77,12 +77,15 @@
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓1
 * ❓💵 Mark Johnson
 
-## [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
+### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
+* 👍💵 Mark Johnson
+
+## [SB 5315](/bill/2025-26/sb/5315/) - Local tax rate changes 👍1  
 * 👍💵 Mark Johnson
 
 ## 2023-24
 
-### [SB 5285](/bill/2023-24/sb/5285/) - Law enf. officers/increase 👍1  
+### [SB 5315](/bill/2023-24/sb/5315/) - Local tax rate changes 👍1  
 * 👍💵 Mark Johnson
 
 ### [HB 1005](/bill/2023-24/hb/1005/) - Military/employer tax incen. 👍1  

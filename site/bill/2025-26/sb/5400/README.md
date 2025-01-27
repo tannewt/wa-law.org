@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162253&caId=25013&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162253&caId=25013&tId=4)
 
-#### 181 👍 - Pro
+#### 269 👍 - Pro
 Testifying:
 * Alan Fisco - [The Seattle Times](/org/the_seattle_times/)
 * Frank Blethen - [The Seattle Times](/org/the_seattle_times/)
@@ -30,8 +30,9 @@ Testifying:
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * Pat Lantz - Gig Harbor Now
 * Stace Gordon - Gig Harbor Now
+* Roberta Rutherford
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Kelly Wright - citizen
 * Bill Lyne - United Faculty of Washington State

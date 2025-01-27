@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32576&aId=162067&caId=24995&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32576&aId=162067&caId=24995&tId=4)
 
-#### 666 👍 - Pro
+#### 804 👍 - Pro
 Testifying:
 * Ahna Rader - Advocates for Youth
 * Sullivan Taylor - Advocates For Youth
@@ -23,7 +23,7 @@ Testifying:
 * Hailey Gray - Advocates For Youth
 * Sullivan Taylor - Advocates For Youth
 
-#### 1902 👎 - Con
+#### 2293 👎 - Con
 Testifying:
 * Mary Long - Conservative Ladies of Washington
 * 💵Jean Hill - Washington State Catholic Conference
@@ -31,5 +31,7 @@ Testifying:
 * Christina Walden
 * JENNIFER PANTANO
 * Chloe Paparazzo - Students for Life (whitworth chapter)
+* Sharon Damoff
+* Kamili Angel
 
 #### 2 ❓ - Other

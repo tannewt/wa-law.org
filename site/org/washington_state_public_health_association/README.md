@@ -16,7 +16,14 @@
 
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
 
+### [HB 1177](/bill/2025-26/hb/1177/) - Concerning the child welfare housing assistance program. 👍1  
+
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax 👍1  
+
+### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
+
+### [HB 1449](/bill/2025-26/hb/1449/) - Home cultivation of cannabis  👎1 
+* 👎💵 Amy Brackenbury
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
 

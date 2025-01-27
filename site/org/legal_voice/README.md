@@ -5,6 +5,8 @@
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program. 👍1  
 
+### [HB 1215](/bill/2025-26/hb/1215/) - Natural death act/pregnancy 👍1  
+
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍2  
 * 👍💵 Yvette Maganya
 
@@ -12,11 +14,11 @@
 
 ### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
 
-## [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍11  
+## [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍12  
 
 ## 2023-24
 
-### [SB 5321](/bill/2023-24/sb/5321/) - Postsecondary/med. abortion 👍11  
+### [SB 5321](/bill/2023-24/sb/5321/) - Postsecondary/med. abortion 👍12  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1249/</link>
 		<description>Updates about HB 1249</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 25 Jan 2025 08:51:04 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 09:36:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,7 +30,7 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Environment &amp; Energy.</guid>
 		</item>
 		<item>
-			<title>👎Laura Feldman - WA Association of Prosecuting Attorneys</title>
+			<title>👎Laura Feldman - Port of Benton</title>
 			<description>Laura Feldman signed up to testify Con.</description>
 			<pubDate>Thu, 23 Jan 2025 09:08:30 GMT</pubDate>
 			<category>testifier</category>
@@ -67,6 +67,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Cathryn/Chudy/2025-01-25 08:51:04</guid>
+		</item>
+		<item>
+			<title>👍Diahann Howard - Port of Benton -VERTical Cluster</title>
+			<description>Diahann Howard signed up to testify Pro. They are signed up to represent Port of Benton -VERTical Cluster.</description>
+			<pubDate>Mon, 27 Jan 2025 07:24:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Diahann/Howard/2025-01-27 07:24:40</guid>
+		</item>
+		<item>
+			<title>👍Cassie Hammond - Port of Benton</title>
+			<description>Cassie Hammond signed up to testify Pro. They are signed up to represent Port of Benton.</description>
+			<pubDate>Mon, 27 Jan 2025 09:36:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cassie/Hammond/2025-01-27 09:36:06</guid>
 		</item>
 	</channel>
 </rss>

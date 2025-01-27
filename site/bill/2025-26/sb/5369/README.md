@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205369)
+
 ## Meetings
 ### Wed 01/29 10:30 AM - Early Learning & K-12 Education (EDU): SB 5369 Youth mental health/schools
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=4)
 
-#### 87 👍 - Pro
+#### 160 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Ray Thomas
@@ -78,9 +81,25 @@ Testifying:
 * Christine Zarker Primomo
 * Janet C Robertson
 * Pierrette Wing
+* Alice Woldt
+* John Birnel
+* Terry Eaton
 * Linda Moulder
+* Anne Hundley
+* Jennifer Stuber - UW SMART Center
 * Judith Byron
+* Drew Goodrich - --None--
+* Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
+* Ashley Christenson
+* B Prevo
+* Calvin Malone - Buddhist - Olympia Zen Center
+* Terry Avila
+* Maureen Reid
+* Vivian Morrison
+* Patricia Wittmann-Todd
 
-#### 570 👎 - Con
+#### 752 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Amy Cannava - Washington State Association of School Psychologists

@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32528&aId=161850&caId=25019&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32528&aId=161850&caId=25019&tId=4)
 
-#### 52 👍 - Pro
+#### 81 👍 - Pro
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
+* Emily Gause - WACDL/WDA

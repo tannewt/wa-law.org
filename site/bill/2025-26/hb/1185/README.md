@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161956&caId=25103&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161956&caId=25103&tId=4)
 
-#### 227 👍 - Pro
+#### 248 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
 * Jacob Schmitt - Just Us Solutions
@@ -22,7 +22,8 @@ Testifying:
 * Tuan Quach - Equity In Education Center
 * Karen Peacey - League of Woman Voters of Washington
 * Kurtis Robinson - I Did The Time
+* Amanda Knight - Department of Corrections - WCCW
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

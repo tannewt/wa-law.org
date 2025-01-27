@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 01/27/2025 [Axios](/org/axios/) - [Top gun bills in Washington Legislature in 2025: Permits, taxing ammo and more - Axios Seattle](https://www.axios.com/local/seattle/2025/01/27/gun-permit-license-ammo-tax-washington-law-2025#:~:text=for%20gun%20dealers)
+
 ## Meetings
 ### Tue 01/21 08:00 AM - Law & Justice (LAW): SB 5099 Firearms dealers
 #### 781 👍 - Pro

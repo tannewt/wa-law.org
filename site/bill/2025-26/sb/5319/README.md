@@ -19,7 +19,7 @@ Testifying:
 * Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 
-#### 8 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Kory Hedrick - Versatile Industries Inc
 

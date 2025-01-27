@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205358)
+
 ## Meetings
 ### Thu 01/30 10:30 AM - Early Learning & K-12 Education (EDU): SB 5358 Career & tech. ed./6th grade
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161977&caId=24971&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161977&caId=24971&tId=4)
 
-#### 43 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Scott Kerwien - [Spokane Public Schools](/org/spokane_public_schools/)
 * Misha Cherniske - Office of Superintendent of Public Instruction

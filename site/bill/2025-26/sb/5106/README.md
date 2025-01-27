@@ -14,15 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161930&caId=25033&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161930&caId=25033&tId=4)
 
-#### 49 👍 - Pro
+#### 130 👍 - Pro
 Testifying:
 * Wahaj uddin Mohammed
 * Alias F - Op
 * Aamena Ellithy
+* Shehzad Qureshi
+* Ruslan Baltabayev
 
-#### 118 👎 - Con
+#### 276 👎 - Con
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Arwa Abdulrahman
 * Lama Darawsha

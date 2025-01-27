@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32534&aId=161893&caId=25073&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32534&aId=161893&caId=25073&tId=4)
 
-#### 69 👍 - Pro
+#### 89 👍 - Pro
 Testifying:
 * 💵Brad Tower - [Washington Christmas Tree Growers](/org/washington_christmas_tree_growers/)
 * Tara Luckie
 
-#### 85 👎 - Con
+#### 172 👎 - Con
+Testifying:
+* George Henson
 
 #### 3 ❓ - Other
 Testifying:

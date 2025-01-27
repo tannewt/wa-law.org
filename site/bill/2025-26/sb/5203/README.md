@@ -14,14 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32530&aId=162281&caId=25036&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32530&aId=162281&caId=25036&tId=4)
 
-#### 147 👍 - Pro
+#### 188 👍 - Pro
 Testifying:
 * Claudine Reynolds - [Port Blakely](/org/port_blakely/)
 * brian smith
 * JOHN WORTHINGTON
 * 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
+* Julia Michalak - WDFW
 * Sam Merrill - WA State Audubon Conservation Committees
+* John Rosapepe - Endangered Species Coalition
 
-#### 347 👎 - Con
+#### 398 👎 - Con
 
 #### 0 ❓ - Other

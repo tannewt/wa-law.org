@@ -21,6 +21,6 @@ Sign up to testify:
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 262 👎 - Con
+#### 264 👎 - Con
 
 #### 2 ❓ - Other

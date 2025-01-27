@@ -17,12 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161984&caId=25057&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161984&caId=25057&tId=4)
 
-#### 76 👍 - Pro
+#### 114 👍 - Pro
 Testifying:
 * 💵Brynn Brady - Audubon WA
+* Ben Blank - WDFW
 * Dan Siemann - Dept. of Commerce
 * Dave Pringle - Dept. of Commerce
+* 💵Nadine Nadow - [Conservation Northwest](/org/conservation_northwest/)
 
-#### 399 👎 - Con
+#### 470 👎 - Con
+Testifying:
+* Amanda McKinney - Yakima County
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Nicolas B Garcia - Washington Public Utility Districts Association

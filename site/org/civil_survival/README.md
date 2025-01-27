@@ -8,16 +8,25 @@
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
 
+### [HB 1166](/bill/2025-26/hb/1166/) - DOC reentry education 👍1  
+
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+
+### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
+
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
+
+### [HB 1301](/bill/2025-26/hb/1301/) - Confinement fees & expenses 👍1  
+* 👍💵 Kelly Olson
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
-## [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍1  
+## [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍2  
 * 👍💵 Kelly Olson
 
 ## 2023-24
 
-### [SB 5231](/bill/2023-24/sb/5231/) - Confinement fees & expenses 👍1  
+### [SB 5231](/bill/2023-24/sb/5231/) - Confinement fees & expenses 👍2  
 * 👍💵 Kelly Olson
 
 ### [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍3  

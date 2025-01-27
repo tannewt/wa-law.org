@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162037&caId=25085&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162037&caId=25085&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Tom Strobehn - [City of La Center](/org/city_of_la_center/)
 
-#### 96 👎 - Con
+#### 196 👎 - Con
 
 #### 0 ❓ - Other

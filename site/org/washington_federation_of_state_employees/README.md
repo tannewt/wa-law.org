@@ -11,6 +11,9 @@
 ### [HB 1105](/bill/2025-26/hb/1105/) - Exempting exclusive bargaining representatives for department of corrections employees from certain provisions related to coalition bargaining. 👍1  
 * 👍 Kati Durkin
 
+### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
+* 👍💵 Nicole Gomez
+
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board. 👍1  
 
 ### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info 👍1  

@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161929&caId=25032&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161929&caId=25032&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Miguel Padilla - Veterans Legislative Coalition
 * Miguel Padilla - Veterans Legislative Coalition
 * David Puente - WA State Department of Veterans Affairs
+* Vincent McDonald - [Colville Confederated Tribes](/org/colville_confederated_tribes/)
 
 #### 0 👎 - Con
 

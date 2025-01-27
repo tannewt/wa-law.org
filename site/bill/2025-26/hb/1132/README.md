@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=HB%201132)
+* 01/27/2025 [Axios](/org/axios/) - [Top gun bills in Washington Legislature in 2025: Permits, taxing ammo and more - Axios Seattle](https://www.axios.com/local/seattle/2025/01/27/gun-permit-license-ammo-tax-washington-law-2025#:~:text=limit%20the%20amount)
 * 01/21/2025 [KING5](/org/king5/) - [Public hearings heat up in Washington over controversial gun control measures | king5.com](https://www.king5.com/article/news/local/gun-violence-survivors-gun-rights-advocates-washington-bill-proposals/281-4930edfc-010e-48d2-99fe-e86406a50714#:~:text=House%20Bill%201132)
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201132)
 

@@ -24,13 +24,16 @@
 
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers 👍1  
 
+### [HB 1079](/bill/2025-26/hb/1079/) - Remote testing 👍1  
+
 ### [HB 1082](/bill/2025-26/hb/1082/) - Child care provider qualif. 👍1  
 
 ### [HB 1105](/bill/2025-26/hb/1105/) - Exempting exclusive bargaining representatives for department of corrections employees from certain provisions related to coalition bargaining. 👍1  
 
 ### [HB 1116](/bill/2025-26/hb/1116/) - Recognizing election day. 👍1  
 
-### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
+### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍2  
+* 👍 Jared Mason-Gere
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board. 👍1  
 
@@ -52,6 +55,8 @@
 ### [HB 1186](/bill/2025-26/hb/1186/) - Expanding the situations in which medications can be dispensed or delivered from hospitals and health care entities. 👍1  
 
 ### [HB 1188](/bill/2025-26/hb/1188/) - Requiring local government and tribal approval of wind and solar siting recommendations by the energy facility site evaluation council.  👎1 
+
+### [HB 1189](/bill/2025-26/hb/1189/) - Addressing parental involvement through volunteering in schools after a criminal conviction. 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎1 
 * 👎💵 Larry Delaney
@@ -91,6 +96,10 @@
 
 ### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍5  
 
+### [HB 1312](/bill/2025-26/hb/1312/) - Retirement benefits/death 👍1  
+
+### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
+
 ### [HB 1349](/bill/2025-26/hb/1349/) - Pension credit for leave 👍1  
 
 ### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  
@@ -98,6 +107,8 @@
 ### [HB 1434](/bill/2025-26/hb/1434/) - Eid al-Fitr & Eid al-Adha 👍1  
 
 ### [HB 1450](/bill/2025-26/hb/1450/) - Transition to kindergarten  👎3 
+
+### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -152,6 +163,8 @@
 
 ### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍3  
 
+### [SB 5119](/bill/2025-26/sb/5119/) - Academic employee bargaining 👍1  
+
 ### [SB 5120](/bill/2025-26/sb/5120/) - Learning assistance program 👍1  
 * 👍💵 Julie Salvi
 
@@ -200,6 +213,8 @@
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 
+### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍1  
+
 ### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
@@ -222,11 +237,15 @@
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍2  
 * 👍💵 Larry Delaney
 
-## [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
+### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
+
+### [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍1  
+
+## [SB 5381](/bill/2025-26/sb/5381/) - Self-insurer withdrawal 👍1  
 
 ## 2023-24
 
-### [SB 5308](/bill/2023-24/sb/5308/) - Guaranteed admissions prg. 👍1  
+### [SB 5381](/bill/2023-24/sb/5381/) - Self-insurer withdrawal 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 

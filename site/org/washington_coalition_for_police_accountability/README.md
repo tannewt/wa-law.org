@@ -1,13 +1,14 @@
 # Washington Coalition for Police Accountability
 ## 2025-26
 
-## [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
+### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
 * 👍 Leslie Cushman
+
+## [HB 1400](/bill/2025-26/hb/1400/) - Officer certification 👍1  
 
 ## 2023-24
 
-### [HB 1399](/bill/2023-24/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
-* 👍 Leslie Cushman
+### [HB 1400](/bill/2023-24/hb/1400/) - Officer certification 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍4  
 * 👍 Sonia Joseph

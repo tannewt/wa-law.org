@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161954&caId=25052&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161954&caId=25052&tId=4)
 
-#### 340 👍 - Pro
+#### 413 👍 - Pro
 Testifying:
 * Susan Kane-Ronning - Washington Sierra Club Wildlife Committee
 * Juan Peralez - Unidos of Snohomish County
@@ -41,12 +41,16 @@ Testifying:
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 * Michelle Nijhuis
 
-#### 440 👎 - Con
+#### 592 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Melanie Brown
 * Donald Brockett
+* Kevin Lammerding
+* April Langford - Purgatory Apotheca
+* Atina Holan
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs

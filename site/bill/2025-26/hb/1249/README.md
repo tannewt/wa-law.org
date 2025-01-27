@@ -17,9 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161983&caId=25056&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161983&caId=25056&tId=4)
 
-#### 47 👍 - Pro
+#### 82 👍 - Pro
+Testifying:
+* Diahann Howard - Port of Benton -VERTical Cluster
+* Cassie Hammond - Port of Benton
 
-#### 165 👎 - Con
+#### 241 👎 - Con
 Testifying:
 * Laura Feldman
 * 💵Suellen Mele - 350 Washington Civic Action Team

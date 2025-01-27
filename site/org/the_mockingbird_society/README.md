@@ -42,11 +42,13 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-## [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
+### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
+
+## [SB 5488](/bill/2025-26/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍1  
 
 ## 2023-24
 
-### [SB 5304](/bill/2023-24/sb/5304/) - Homelessness/tribal colleges 👍1  
+### [SB 5488](/bill/2023-24/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 

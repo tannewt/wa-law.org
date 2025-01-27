@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/27/2025 [Axios](/org/axios/) - [Top gun bills in Washington Legislature in 2025: Permits, taxing ammo and more - Axios Seattle](https://www.axios.com/local/seattle/2025/01/27/gun-permit-license-ammo-tax-washington-law-2025#:~:text=new%20tax)
 * 01/22/2025 [The Center Square](/org/the_center_square/) - [House Democrats push 11% firearm, ammo excise tax as $10B to $16B shortfall looms | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fb243d82-d914-11ef-9e0d-07292cae466c.html#:~:text=House%20Bill%201386)
 * 01/21/2025 [KING5](/org/king5/) - [Public hearings heat up in Washington over controversial gun control measures | king5.com](https://www.king5.com/article/news/local/gun-violence-survivors-gun-rights-advocates-washington-bill-proposals/281-4930edfc-010e-48d2-99fe-e86406a50714#:~:text=House%20Bill%201386)
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201386)

@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Thad Duvall - Douglas County Auditor, Co-Chair of WSACA Licensing Committee
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

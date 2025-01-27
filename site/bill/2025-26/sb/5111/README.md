@@ -14,13 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32547&aId=162066&caId=25044&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32547&aId=162066&caId=25044&tId=4)
 
-#### 8 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Dwight Bickel
 * 💵Carrie Tellefson - [Washington Land Title Association](/org/washington_land_title_association/)
 * JP Kissling - Fidelity Title Company
 * Maureen Pfaff - Olympic Peninsula Title Company
+* Paul Hofmann - As the Owner of the AEGIS Land Title Group
+* Luke Currier - CEO of Land Title and Escrow
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kate Armstrong - Department of Revenue
+* Steve Ewing - Department of Revenue

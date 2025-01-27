@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * Phil Goldfeder - American Fintech Council
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 5 ❓ - Other
 Testifying:

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=HB%201163)
 * 01/22/2025 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Preventing and Reducing Gun Violence and Suicide - WSPTA](https://www.wastatepta.org/wspta-testifies-preventing-and-reducing-gun-violence-and-suicide/#:~:text=HB%201163)
 * 01/21/2025 [KING5](/org/king5/) - [Public hearings heat up in Washington over controversial gun control measures | king5.com](https://www.king5.com/article/news/local/gun-violence-survivors-gun-rights-advocates-washington-bill-proposals/281-4930edfc-010e-48d2-99fe-e86406a50714#:~:text=House%20Bill%201163)
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201163)

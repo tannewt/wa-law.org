@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161870&caId=25024&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161870&caId=25024&tId=4)
 
-#### 5 👍 - Pro
+#### 7 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* 💵Anne Anderson - Washington State Narcotics Investigators Association
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

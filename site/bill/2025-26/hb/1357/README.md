@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=HB%201357)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201357)
 
 ## Meetings
@@ -17,10 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162034&caId=25161&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162034&caId=25161&tId=4)
 
-#### 48 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Monique Dugaw - ESD 112 Region
 * Jeff Snell - Vancouver Public Schools - Vancouver, WA
+* Trevor Greene - Yakima School District
+* Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 
 #### 0 👎 - Con
 

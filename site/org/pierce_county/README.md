@@ -6,11 +6,15 @@
 
 ### [HB 1098](/bill/2025-26/hb/1098/) - County local roads 👍1  
 
-## [HB 1218](/bill/2025-26/hb/1218/) - Concerning persons referred for competency evaluation and restoration services.  👎1 
+### [HB 1218](/bill/2025-26/hb/1218/) - Concerning persons referred for competency evaluation and restoration services.  👎1 
+
+## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
+* 👍 Chris Brown
 
 ## 2023-24
 
-### [HB 1218](/bill/2023-24/hb/1218/) - Concerning persons referred for competency evaluation and restoration services.  👎1 
+### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction 👍1  
+* 👍 Chris Brown
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍4  
 

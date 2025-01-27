@@ -11,19 +11,34 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Seamus Petrie
 
+### [HB 1258](/bill/2025-26/hb/1258/) - Providing funding for municipalities participating in the regional 911 emergency communications system. 👍1  
+
+### [HB 1312](/bill/2025-26/hb/1312/) - Retirement benefits/death 👍1  
+
+### [HB 1313](/bill/2025-26/hb/1313/) - Mass layoffs 👍1  
+
+### [HB 1332](/bill/2025-26/hb/1332/) - Transp. network companies 👍1  
+
 ### [HB 1349](/bill/2025-26/hb/1349/) - Pension credit for leave 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
 ### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  
 
-## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+### [SB 5119](/bill/2025-26/sb/5119/) - Academic employee bargaining 👍1  
+
+### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Seamus Petrie
+
+### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍1  
+
+### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply 👍1  
+
+## [SB 5435](/bill/2025-26/sb/5435/) - Reorganizing and adding subchapter headings to public employees' collective bargaining statutes. 👍1  
 
 ## 2023-24
 
-### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp.   ❓1
-* ❓💵 Seamus Petrie
+### [SB 5435](/bill/2023-24/sb/5435/) - Reorganizing and adding subchapter headings to public employees' collective bargaining statutes. 👍1  
 
 ### [HB 1007](/bill/2023-24/hb/1007/) - Military service credit 👍1  
 

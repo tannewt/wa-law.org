@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162131&caId=24999&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162131&caId=24999&tId=4)
 
-#### 29 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Kol Peterson - Tiny Hookups LLC
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Zachariah Giffin - Operation Tiny Home -  Non Profit
+* Gwyn Howat - Mt Baker Ski Area
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

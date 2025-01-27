@@ -1,6 +1,9 @@
 # Northwest Health Law Advocates
 ## 2025-26
 
+### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
+* 👍💵 Emily Brice
+
 ### [HB 1199](/bill/2025-26/hb/1199/) - Strengthening consumer protection through increased insurer accountability for violations of the insurance code. 👍1  
 
 ### [HB 1379](/bill/2025-26/hb/1379/) - Health carrier reporting 👍1  

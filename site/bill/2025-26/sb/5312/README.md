@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32528&aId=161849&caId=25018&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32528&aId=161849&caId=25018&tId=4)
 
-#### 275 👍 - Pro
+#### 309 👍 - Pro
 Testifying:
 * Bruce Glant
 * Tanner Ness - Cage
@@ -26,8 +26,9 @@ Testifying:
 * Brenda Chapman
 * Emily Gause - WACDL/WDA
 * Jacob Schmitt - Just Us Solutions, LLC
+* Joanne Glant - msn outlook
 
-#### 44 👎 - Con
+#### 63 👎 - Con
 Testifying:
 * Laura Harmon
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

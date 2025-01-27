@@ -17,11 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161955&caId=25053&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161955&caId=25053&tId=4)
 
-#### 30 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * Kimberly Bliss - Washington State Criminal Justice Training Commission
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 10 👎 - Con
+#### 14 👎 - Con
 
 #### 0 ❓ - Other

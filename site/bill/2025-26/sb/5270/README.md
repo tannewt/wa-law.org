@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161972&caId=24968&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161972&caId=24968&tId=4)
 
-#### 47 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * Cathy Meuret - School Nurse Organization of Washington
 * Katie Johnson - School Nurse Organization of Washington
@@ -22,4 +22,6 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
