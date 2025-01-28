@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162118&caId=25143&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162118&caId=25143&tId=4)
 
-#### 4 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * Heidi Sadri
 * Yashar Shayan
 * Manal Alsharif
+* Laila Saliba - Washington for Peace and Justice
+* Laila Saliba - Washington for Peace and Justice
+* 💵Aya Samman
+* Zaid Haque - WA Dems Muslim Caucus
 
-#### 18 👎 - Con
+#### 30 👎 - Con
 
 #### 0 ❓ - Other

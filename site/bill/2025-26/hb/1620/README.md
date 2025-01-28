@@ -14,11 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162353&caId=25204&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162353&caId=25204&tId=4)
 
-#### 12 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* Chandra Ifie - Survivor Parent
+* Madison Zack-Wu - Strippers Are Workers
+* Commissioner Barbara McInvaille - Superior Court Judges' Association
+* Judge Alicia Burton - Superior Court Judges' Association
+* Mary Welch - Northwest Justice Project
+* Gaston Shelton
 
-#### 18 👎 - Con
+#### 28 👎 - Con
 Testifying:
 * 💵Evangeline Stratton
 * Tamara Emerson - 3221 s 17th st
@@ -27,6 +33,8 @@ Testifying:
 * Tina Swithin - One Mom’s Battle
 * Kimberly Kerr
 * Christine Cocchiola
+* Shira Cole - One of the many survivors in the HB 2237/1620 workgroup all of which who were ignored - PAYES
+* Emily Farris
 * Melanie Kraintz
 * Sarah Hulteen
 

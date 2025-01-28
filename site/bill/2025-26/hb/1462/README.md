@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32560&aId=162228&caId=25146&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32560&aId=162228&caId=25146&tId=4)
 
-#### 98 👍 - Pro
+#### 152 👍 - Pro
 Testifying:
 * Beth Porter - Environmental Investigation Agency
 
-#### 51 👎 - Con
+#### 72 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
+* Mike Connors - Washington Potato and Onion Association
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Carolyn Logue - Washington Air Conditioning Contractors Association

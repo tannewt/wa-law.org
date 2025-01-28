@@ -12,13 +12,18 @@
 * 👍💵 Guillermo Rogel
 * 👍 Nico Wedekind
 
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+* 👍💵 Guillermo Rogel
+
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
-## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
+
+## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
 ## 2023-24
 
-### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants 👍1  
+### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162354&caId=25205&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162354&caId=25205&tId=4)
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Judge Ketu Shah - King County Superior Court
+* Judge Sean O'Donnell - Superior Court Judges' Association
+* Judge Shelley Szambelan - Spokane County Superior Court/ Superior Court Judges' Association
+* Susan Adams - Pierce County Superior Court
 
 #### 0 👎 - Con
 

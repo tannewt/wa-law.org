@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/27 01:30 PM - Human Services (HS): SB 5231 Confinement fees & expenses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161996&caId=25003&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161996&caId=25003&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161996&caId=25003&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32561&aId=161996&caId=25003&tId=4)
-
-#### 358 👍 - Pro
+#### 499 👍 - Pro
 Testifying:
 * Jonathan Ejonga
 * Jerry Thomas
@@ -25,6 +19,6 @@ Testifying:
 * 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
 * Raymond Williams - Just Us Solutions
 
-#### 414 👎 - Con
+#### 444 👎 - Con
 
 #### 1 ❓ - Other

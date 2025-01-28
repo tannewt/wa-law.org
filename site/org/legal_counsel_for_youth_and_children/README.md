@@ -5,20 +5,30 @@
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
+### [HB 1138](/bill/2025-26/hb/1138/) - Improving public safety by implementing evidence-based interview practices that increase the reliability of statements collected during criminal investigations. 👍1  
+
 ### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
 
 ### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍1  
+
+### [HB 1177](/bill/2025-26/hb/1177/) - Concerning the child welfare housing assistance program. 👍1  
 
 ### [HB 1248](/bill/2025-26/hb/1248/) - Improving the effectiveness of juvenile justice programs by providing ongoing evaluations and clarifying juvenile diversion practices. 👍1  
 * 👍💵 Roxana Gomez
 
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
 
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
+
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
+
+### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
+
+### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
 
@@ -46,11 +56,17 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-## [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
+### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
+
+### [SB 5272](/bill/2025-26/sb/5272/) - School safety/penalties  👎1 
+
+## [SB 5488](/bill/2025-26/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍1  
+* 👍 Annie Chung
 
 ## 2023-24
 
-### [SB 5266](/bill/2023-24/sb/5266/) - Early release petitions 👍1  
+### [SB 5488](/bill/2023-24/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍1  
+* 👍 Annie Chung
 
 ### [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
 * 👍 Erin Shea McCann

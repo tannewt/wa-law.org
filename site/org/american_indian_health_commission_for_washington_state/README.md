@@ -5,10 +5,14 @@
 
 ### [HB 1077](/bill/2025-26/hb/1077/) - IUD pain control options 👍1  
 
+### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products 👍1  
+
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
 ### [HB 1262](/bill/2025-26/hb/1262/) - Health disparities council 👍2  
 * 👍 Steve Kutz
+
+### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
 
 ### [SB 5110](/bill/2025-26/sb/5110/) - Providing tuition waivers for tribal elders at Washington’s community and technical colleges. 👍1  
 

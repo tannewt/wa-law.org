@@ -1,7 +1,7 @@
 # Washington Conservation Action
 ## 2025-26
 
-### [HB 1015](/bill/2025-26/hb/1015/) - Concerning energy labeling of residential buildings. 👍1  
+### [HB 1015](/bill/2025-26/hb/1015/) - Energy labeling/residential 👍1  
 
 ### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act. 👍1  
 

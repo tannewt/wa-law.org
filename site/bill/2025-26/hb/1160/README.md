@@ -30,14 +30,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162307&caId=25174&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162307&caId=25174&tId=4)
 
-#### 74 👍 - Pro
+#### 105 👍 - Pro
 Testifying:
 * Tammie Sueirro - AIAWA (American Institute of Architects WA Council)
 * Joseph Tovar - [American Planning Association Washington Chapter](/org/american_planning_association_washington_chapter/)
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 1 👎 - Con
+#### 25 👎 - Con
+Testifying:
+* McKenzie Darr - NAIOP Washington State
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
 ### Thu 01/16 08:00 AM - Housing (HOUS): HB 1160 Local gov. design review
 #### 88 👍 - Pro

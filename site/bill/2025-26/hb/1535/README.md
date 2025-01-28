@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=162333&caId=25175&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=162333&caId=25175&tId=4)
 
-#### 482 👍 - Pro
+#### 895 👍 - Pro
+Testifying:
+* Lexi Benner
+* Arezoo Holdaway
+* Brent Robinson - Robinson Dental
+* Garrett Gentling
 
-#### 104 👎 - Con
+#### 148 👎 - Con
+Testifying:
+* Gary Renville - Project Access Northwest
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

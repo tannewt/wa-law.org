@@ -6,16 +6,22 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
+### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
+
+### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Aaron Yared
 
-## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
+
+## [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
 
 ## 2023-24
 
-### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants 👍1  
+### [SB 5253](/bill/2023-24/sb/5253/) - Special education services 👍1  
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

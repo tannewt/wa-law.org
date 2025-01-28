@@ -6,14 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [FOX13](/org/fox13/) - [WA proposal would require bars to sell drug tests | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-drug-tests-spiked-drinks#:~:text=Senate%20Bill%205330)
+
 ## Meetings
 ### Mon 01/27 10:30 AM - Labor & Commerce (LC): SB 5330 Spiked drink testing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162249&caId=25008&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162249&caId=25008&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162249&caId=25008&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162249&caId=25008&tId=4)
-
 #### 40 👍 - Pro
 Testifying:
 * Addison Hafermann - Lake Washington High School

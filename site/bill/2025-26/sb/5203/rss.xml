@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5203/</link>
 		<description>Updates about SB 5203</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 01:08:11 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 11:30:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -84,6 +84,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/John/Rosapepe/2025-01-27 01:08:11</guid>
+		</item>
+		<item>
+			<title>👍Janice Wilfing - Endangered Species Coalition</title>
+			<description>Janice Wilfing signed up to testify Pro.</description>
+			<pubDate>Mon, 27 Jan 2025 02:17:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Janice/Wilfing/2025-01-27 02:17:17</guid>
+		</item>
+		<item>
+			<title>👍Cat Kelly - Animal Legal Defense Fund</title>
+			<description>Cat Kelly signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/animal_legal_defense_fund/"&gt;Animal Legal Defense Fund&lt;/a&gt;.</description>
+			<pubDate>Mon, 27 Jan 2025 11:30:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cat/Kelly/2025-01-27 11:30:03</guid>
 		</item>
 	</channel>
 </rss>

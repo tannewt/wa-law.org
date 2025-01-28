@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162231&caId=25076&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162231&caId=25076&tId=4)
 
-#### 46 👍 - Pro
+#### 56 👍 - Pro
+Testifying:
+* Sara Ainsworth - If/When/How: Lawyering for Reproductive Justice
+* 💵Yvette Maganya - [Legal Voice](/org/legal_voice/)
 
-#### 10 👎 - Con
+#### 53 👎 - Con
 Testifying:
 * Sandra Brock
+* Theresa Schrempp
 
 #### 0 ❓ - Other
 

@@ -5,9 +5,16 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5375/</link>
 		<description>Updates about SB 5375</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 26 Jan 2025 03:26:42 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 12:02:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Home - Sen. Noel Frame</title>
+			<description>News article "Home - Sen. Noel Frame" from Senate Democrats.</description>
+			<pubDate>Thu, 18 May 2000 12:58:02 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/frame/#:~:text=SB%205375</guid>
+		</item>
 		<item>
 			<title>First reading, referred to Human Services.</title>
 			<description>First reading, referred to Human Services.</description>
@@ -125,6 +132,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Rachel/Fisher/2025-01-26 03:26:42</guid>
+		</item>
+		<item>
+			<title>👍Piper Bollander - Former Jehovah's Witness</title>
+			<description>Piper Bollander signed up to testify Pro. They are signed up to represent Former Jehovah's Witness.</description>
+			<pubDate>Mon, 27 Jan 2025 04:21:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Piper/Bollander/2025-01-27 04:21:45</guid>
+		</item>
+		<item>
+			<title>👎Theresa Schrempp - Washington State Catholic Conference</title>
+			<description>Theresa Schrempp signed up to testify Con.</description>
+			<pubDate>Mon, 27 Jan 2025 12:02:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Theresa/Schrempp/2025-01-27 12:02:18</guid>
 		</item>
 	</channel>
 </rss>

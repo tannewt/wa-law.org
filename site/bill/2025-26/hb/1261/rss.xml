@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1261/</link>
 		<description>Updates about HB 1261</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 26 Jan 2025 08:47:57 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 12:41:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -63,12 +63,68 @@
 			<guid isPermaLink="false">testifier/Tara/Luckie/2025-01-26 08:33:16</guid>
 		</item>
 		<item>
-			<title>👎George Henson - Washington Christmas Tree Growers</title>
+			<title>👎George Henson - Swans Trail Farms, Inc.</title>
 			<description>George Henson signed up to testify Con.</description>
 			<pubDate>Sun, 26 Jan 2025 08:47:57 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/George/Henson/2025-01-26 08:47:57</guid>
+		</item>
+		<item>
+			<title>👍Bob Ricci - Washington Christmas Tree Growers</title>
+			<description>Bob Ricci signed up to testify Pro.</description>
+			<pubDate>Mon, 27 Jan 2025 05:32:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bob/Ricci/2025-01-27 05:32:03</guid>
+		</item>
+		<item>
+			<title>👍Keith Stocker - Stocker Farms, Inc</title>
+			<description>Keith Stocker signed up to testify Pro. They are signed up to represent Stocker Farms, Inc.</description>
+			<pubDate>Mon, 27 Jan 2025 09:54:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Keith/Stocker/2025-01-27 09:54:03</guid>
+		</item>
+		<item>
+			<title>❓Linda Hjelle - WA Association of County Assessors / Snohomish County Assessor</title>
+			<description>Linda Hjelle signed up to testify Other. They are signed up to represent WA Association of County Assessors / Snohomish County Assessor.</description>
+			<pubDate>Mon, 27 Jan 2025 10:52:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Linda/Hjelle/2025-01-27 10:52:28</guid>
+		</item>
+		<item>
+			<title>👍Councilmember, Megan Dunn - Snohomish County</title>
+			<description>Councilmember, Megan Dunn signed up to testify Pro. They are signed up to represent Snohomish County.</description>
+			<pubDate>Mon, 27 Jan 2025 11:37:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Councilmember, Megan/Dunn/2025-01-27 11:37:57</guid>
+		</item>
+		<item>
+			<title>👍County Executive, Dave Somers - Snohomish County</title>
+			<description>County Executive, Dave Somers signed up to testify Pro. They are signed up to represent Snohomish County.</description>
+			<pubDate>Mon, 27 Jan 2025 11:37:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/County Executive, Dave/Somers/2025-01-27 11:37:57</guid>
+		</item>
+		<item>
+			<title>👍Linda Neunzig - Snohomish County</title>
+			<description>Linda Neunzig signed up to testify Pro. They are signed up to represent Snohomish County.</description>
+			<pubDate>Mon, 27 Jan 2025 11:37:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Linda/Neunzig/2025-01-27 11:37:57</guid>
+		</item>
+		<item>
+			<title>👍Ben Krause - Swans Trail Farms, Inc.</title>
+			<description>Ben Krause signed up to testify Pro. They are signed up to represent Swans Trail Farms, Inc..</description>
+			<pubDate>Mon, 27 Jan 2025 12:41:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ben/Krause/2025-01-27 12:41:16</guid>
 		</item>
 	</channel>
 </rss>

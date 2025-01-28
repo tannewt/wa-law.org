@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32573&aId=162047&caId=25088&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32573&aId=162047&caId=25088&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Marc Webster - Washington State Liquor and Cannabis Board
+* Caitlein Ryan - THE CANNABIS ALLIANCE
 
 #### 0 👎 - Con
 

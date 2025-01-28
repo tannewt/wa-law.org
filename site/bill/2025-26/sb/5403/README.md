@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Mon 01/27 10:30 AM - Labor & Commerce (LC): SB 5403 Direct cannabis sales
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162250&caId=25009&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162250&caId=25009&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162250&caId=25009&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162250&caId=25009&tId=4)
-
 #### 231 👍 - Pro
 Testifying:
 * Micah Sherman - Raven

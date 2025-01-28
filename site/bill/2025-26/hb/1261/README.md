@@ -14,17 +14,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32534&aId=161893&caId=25073&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32534&aId=161893&caId=25073&tId=4)
 
-#### 89 👍 - Pro
+#### 123 👍 - Pro
 Testifying:
 * 💵Brad Tower - [Washington Christmas Tree Growers](/org/washington_christmas_tree_growers/)
 * Tara Luckie
+* Bob Ricci
+* Keith Stocker - Stocker Farms, Inc
+* Councilmember, Megan Dunn - Snohomish County
+* County Executive, Dave Somers - Snohomish County
+* Linda Neunzig - Snohomish County
+* Ben Krause - Swans Trail Farms, Inc.
 
-#### 172 👎 - Con
+#### 362 👎 - Con
 Testifying:
 * George Henson
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Kate Armstrong - Department of Revenue
 * Steve Ewing - Department of Revenue
 * Sue Lani Madsen - Washington Rural Environmental Network
+* Linda Hjelle - WA Association of County Assessors / Snohomish County Assessor

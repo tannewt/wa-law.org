@@ -13,6 +13,8 @@
 
 ### [HB 1178](/bill/2025-26/hb/1178/) - Concerning sentencing enhancements. 👍1  
 
+### [HB 1185](/bill/2025-26/hb/1185/) - Concerning membership on the correctional industries advisory committee. 👍1  
+
 ### [HB 1189](/bill/2025-26/hb/1189/) - Addressing parental involvement through volunteering in schools after a criminal conviction. 👍1  
 
 ### [HB 1192](/bill/2025-26/hb/1192/) - DOC disciplinary hearings 👍1  
@@ -22,10 +24,16 @@
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 * 👍💵 Sarah Nagy
 
+### [HB 1229](/bill/2025-26/hb/1229/) - Persistent offenders 👍1  
+
 ### [HB 1233](/bill/2025-26/hb/1233/) - Concerning work programs for incarcerated persons. 👍1  
 * 👍💵 Hannah Woerner
 
-### [HB 1301](/bill/2025-26/hb/1301/) - Confinement fees & expenses 👍1  
+### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
+
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
+
+### [HB 1301](/bill/2025-26/hb/1301/) - Confinement fees & expenses 👍2  
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
@@ -35,6 +43,8 @@
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍2  
 
 ### [HB 1400](/bill/2025-26/hb/1400/) - Officer certification 👍1  
+
+### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 👍1  
 * 👍💵 Ethan Frenchman
@@ -53,7 +63,7 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍2  
+### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍3  
 
 ## [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
 

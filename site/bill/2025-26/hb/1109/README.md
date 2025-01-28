@@ -14,7 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32534&aId=161891&caId=25071&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32534&aId=161891&caId=25071&tId=4)
 
-#### 3 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Betty Erickson - Cowlitz County Public Facility District
+* Jim Hedrick - Association of Washington State Public Facilitity Distrits
+* Janet Pope - Lynnwood Public Facility District
+* Adam Cook - Tacoma Public Facilty Distirct
+* David Brewster - Edmonds Center for the Arts
+* Natasha Ramras - Vancouver Public Facilities District
+* Patty Belmonte - Hands On Children's Museum
+* Russ Shiplet - Kitsap Public Facilities District
 
 #### 3 👎 - Con
 

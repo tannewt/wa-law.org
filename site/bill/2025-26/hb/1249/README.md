@@ -11,22 +11,21 @@
 
 ## Meetings
 ### Mon 01/27 01:30 PM - Environment & Energy (ENVI): HB 1249 Advanced nuclear commission
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161983&caId=25056&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161983&caId=25056&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161983&caId=25056&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161983&caId=25056&tId=4)
-
-#### 82 👍 - Pro
+#### 109 👍 - Pro
 Testifying:
 * Diahann Howard - Port of Benton -VERTical Cluster
 * Cassie Hammond - Port of Benton
+* Dave McCormack - Clean Energy Supplier Alliance
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Brian Johnson - Public Utility District No 1 of Franklin County, WA
+* Paula King - Friends of Fission Northwest
 
-#### 241 👎 - Con
+#### 298 👎 - Con
 Testifying:
 * Laura Feldman
 * 💵Suellen Mele - 350 Washington Civic Action Team
 * Kathleen M. Saul - [Sierra Club](/org/sierra_club/)
 * Cathryn Chudy
+* 💵Kelly Campbell - [Columbia Riverkeeper](/org/columbia_riverkeeper/)
 
 #### 0 ❓ - Other

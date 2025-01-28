@@ -6,15 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201418)
+
 ## Meetings
 ### Mon 01/27 04:00 PM - Transportation (TR): HB 1418 PTBA governing body members
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32535&aId=161940&caId=25068&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32535&aId=161940&caId=25068&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32535&aId=161940&caId=25068&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32535&aId=161940&caId=25068&tId=4)
-
-#### 214 👍 - Pro
+#### 286 👍 - Pro
 Testifying:
 * Sarah Howe - Washington Council of the Blind
 * Joe Kunzler
@@ -25,4 +22,6 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Charles Prestrud - Washington Policy Center

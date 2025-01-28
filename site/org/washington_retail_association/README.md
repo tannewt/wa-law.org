@@ -80,13 +80,16 @@
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 * 👍💵 Mark Johnson
 
-## [SB 5315](/bill/2025-26/sb/5315/) - Local tax rate changes 👍1  
+### [SB 5315](/bill/2025-26/sb/5315/) - Local tax rate changes 👍1  
 * 👍💵 Mark Johnson
+
+## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction   ❓1
+* ❓💵 Mark Johnson
 
 ## 2023-24
 
-### [SB 5315](/bill/2023-24/sb/5315/) - Local tax rate changes 👍1  
-* 👍💵 Mark Johnson
+### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction   ❓1
+* ❓💵 Mark Johnson
 
 ### [HB 1005](/bill/2023-24/hb/1005/) - Military/employer tax incen. 👍1  
 * 👍💵 Mark Johnson

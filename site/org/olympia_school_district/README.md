@@ -1,18 +1,29 @@
 # Olympia School District
 ## 2025-26
 
+### [HB 1267](/bill/2025-26/hb/1267/) - Special education funding 👍1  
+
+### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍1  
+* 👍 Kate Davis
+
+### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
+
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍1  
 
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
+
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 * 👍 Patrick Murphy
 
-## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
+### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
+
+## [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
 
 ## 2023-24
 
-### [SB 5307](/bill/2023-24/sb/5307/) - Special education funding 👍1  
+### [SB 5358](/bill/2023-24/sb/5358/) - Career & tech. ed./6th grade 👍1  
 
 ### [HB 1436](/bill/2023-24/hb/1436/) - Special education funding  👎1 
 * 👎 Superintendent, Patrick Murphy

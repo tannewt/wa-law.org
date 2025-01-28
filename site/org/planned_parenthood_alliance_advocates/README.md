@@ -8,7 +8,7 @@
 ### [HB 1090](/bill/2025-26/hb/1090/) - Contraceptive coverage 👍1  
 * 👍💵 Nicole Kern
 
-### [HB 1129](/bill/2025-26/hb/1129/) - Concerning health plan coverage of fertility-related services. 👍1  
+### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services 👍1  
 * 👍💵 Nicole Kern
 
 ### [HB 1132](/bill/2025-26/hb/1132/) - Enhancing public safety by limiting bulk purchases and transfers of firearms and ammunition. 👍1  
@@ -20,7 +20,11 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Nicole Kern
 
+### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products 👍1  
+
 ### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program. 👍1  
+
+### [HB 1215](/bill/2025-26/hb/1215/) - Natural death act/pregnancy 👍1  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 

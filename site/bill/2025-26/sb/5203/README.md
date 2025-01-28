@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/27 04:00 PM - Transportation (TRAN): SB 5203 Wildlife safe passages
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32530&aId=162281&caId=25036&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32530&aId=162281&caId=25036&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32530&aId=162281&caId=25036&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32530&aId=162281&caId=25036&tId=4)
-
-#### 188 👍 - Pro
+#### 271 👍 - Pro
 Testifying:
 * Claudine Reynolds - [Port Blakely](/org/port_blakely/)
 * brian smith
@@ -23,7 +17,9 @@ Testifying:
 * Julia Michalak - WDFW
 * Sam Merrill - WA State Audubon Conservation Committees
 * John Rosapepe - Endangered Species Coalition
+* Janice Wilfing
+* Cat Kelly - [Animal Legal Defense Fund](/org/animal_legal_defense_fund/)
 
-#### 398 👎 - Con
+#### 451 👎 - Con
 
 #### 0 ❓ - Other

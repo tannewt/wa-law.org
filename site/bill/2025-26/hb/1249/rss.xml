@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1249/</link>
 		<description>Updates about HB 1249</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 09:36:06 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 12:19:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,7 +30,7 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Environment &amp; Energy.</guid>
 		</item>
 		<item>
-			<title>👎Laura Feldman - Port of Benton</title>
+			<title>👎Laura Feldman - Friends of Fission Northwest</title>
 			<description>Laura Feldman signed up to testify Con.</description>
 			<pubDate>Thu, 23 Jan 2025 09:08:30 GMT</pubDate>
 			<category>testifier</category>
@@ -83,6 +83,46 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Cassie/Hammond/2025-01-27 09:36:06</guid>
+		</item>
+		<item>
+			<title>👍Dave McCormack - Clean Energy Supplier Alliance</title>
+			<description>Dave McCormack signed up to testify Pro. They are signed up to represent Clean Energy Supplier Alliance.</description>
+			<pubDate>Mon, 27 Jan 2025 11:15:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dave/McCormack/2025-01-27 11:15:14</guid>
+		</item>
+		<item>
+			<title>👎💵Kelly Campbell - Columbia Riverkeeper</title>
+			<description>Kelly Campbell signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/columbia_riverkeeper/"&gt;Columbia Riverkeeper&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 27 Jan 2025 11:30:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kelly/Campbell/2025-01-27 11:30:02</guid>
+		</item>
+		<item>
+			<title>👍💵Peter Godlewski - Association of Washington Business</title>
+			<description>Peter Godlewski signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_business/"&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 27 Jan 2025 11:31:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Peter/Godlewski/2025-01-27 11:31:44</guid>
+		</item>
+		<item>
+			<title>👍Brian Johnson - Public Utility District No 1 of Franklin County, WA</title>
+			<description>Brian Johnson signed up to testify Pro. They are signed up to represent Public Utility District No 1 of Franklin County, WA.</description>
+			<pubDate>Mon, 27 Jan 2025 12:10:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brian/Johnson/2025-01-27 12:10:14</guid>
+		</item>
+		<item>
+			<title>👍Paula King - Friends of Fission Northwest</title>
+			<description>Paula King signed up to testify Pro. They are signed up to represent Friends of Fission Northwest.</description>
+			<pubDate>Mon, 27 Jan 2025 12:19:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paula/King/2025-01-27 12:19:45</guid>
 		</item>
 	</channel>
 </rss>

@@ -11,13 +11,14 @@
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act.  👎1 
 
-## [SB 5286](/bill/2025-26/sb/5286/) - State hospitals/police costs 👍1  
+### [SB 5286](/bill/2025-26/sb/5286/) - State hospitals/police costs 👍1  
 * 👍 Captain Chris Westby
+
+## [SB 5290](/bill/2025-26/sb/5290/) - Allowing persons who complete substance abuse programs to seek dismissal of certain controlled substance related charges.  👎1 
 
 ## 2023-24
 
-### [SB 5286](/bill/2023-24/sb/5286/) - State hospitals/police costs 👍1  
-* 👍 Captain Chris Westby
+### [SB 5290](/bill/2023-24/sb/5290/) - Allowing persons who complete substance abuse programs to seek dismissal of certain controlled substance related charges.  👎1 
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 

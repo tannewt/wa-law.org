@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1345/</link>
 		<description>Updates about HB 1345</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 26 Jan 2025 06:08:14 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 11:40:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,6 +45,22 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Bryce/Yadon/2025-01-26 06:08:14</guid>
+		</item>
+		<item>
+			<title>❓💵Alex Hur - Master Builders Association of King and Snohomish Counties</title>
+			<description>Alex Hur signed up to testify Other. They are signed up to represent Master Builders Association of King and Snohomish Counties. They are a registered lobbyist.</description>
+			<pubDate>Mon, 27 Jan 2025 10:46:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Alex/Hur/2025-01-27 10:46:00</guid>
+		</item>
+		<item>
+			<title>👍💵Bill Clarke - WA REALTORS</title>
+			<description>Bill Clarke signed up to testify Pro. They are signed up to represent WA REALTORS. They are a registered lobbyist.</description>
+			<pubDate>Mon, 27 Jan 2025 11:40:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bill/Clarke/2025-01-27 11:40:46</guid>
 		</item>
 	</channel>
 </rss>

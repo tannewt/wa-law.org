@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32568&aId=162343&caId=25195&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32568&aId=162343&caId=25195&tId=4)
 
-#### 4 👍 - Pro
+#### 28 👍 - Pro
+Testifying:
+* Gisella Gonzalez - TeamChild Youth Advisory Board
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

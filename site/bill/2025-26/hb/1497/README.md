@@ -14,13 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162224&caId=25110&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162224&caId=25110&tId=4)
 
-#### 353 👍 - Pro
+#### 507 👍 - Pro
 Testifying:
 * Robbette Schmit - WintonMFG Compost Works
+* 💵Brian Bonlender - DTG Recycle
+* 💵Nick Streuli - [Washington Refuse & Recycling Association](/org/washington_refuse_&_recycling_association/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Kate White Tudor - Natural Resources Defense Council
+* 💵Chris Thomas - Divert Inc.
+* Anthony Myint - Zero Foodprint
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 
-#### 57 👎 - Con
+#### 82 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
+* 💵Katie Beeson - Washington Food Industry Association
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)

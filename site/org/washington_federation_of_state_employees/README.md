@@ -35,7 +35,20 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
+### [HB 1228](/bill/2025-26/hb/1228/) - Toxicology testing 👍1  
+
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍1  
+
+### [HB 1332](/bill/2025-26/hb/1332/) - Transp. network companies 👍1  
+
+### [HB 1395](/bill/2025-26/hb/1395/) - Home care worker background 👍1  
+
+### [HB 1419](/bill/2025-26/hb/1419/) - Interpreter background check 👍1  
+* 👍 Kati Durkin
+
+### [HB 1459](/bill/2025-26/hb/1459/) - Child fatalities 👍1  
+
+### [HB 1511](/bill/2025-26/hb/1511/) - Ferry captains 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
@@ -50,15 +63,21 @@
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1
 * ❓ Kati Durkin
 
-## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  ❓1
+### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Nicole Gomez
 * 👍💵 Nicole Gomez
+
+### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply 👍1  
+
+### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
+
+## [SB 5433](/bill/2025-26/sb/5433/) - DOC employee bargaining 👍1  
+* 👍 Kati Durkin
 
 ## 2023-24
 
-### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp. 👍1  ❓1
-* ❓💵 Nicole Gomez
-* 👍💵 Nicole Gomez
+### [SB 5433](/bill/2023-24/sb/5433/) - DOC employee bargaining 👍1  
+* 👍 Kati Durkin
 
 ### [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
 

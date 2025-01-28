@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162130&caId=24998&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162130&caId=24998&tId=4)
 
-#### 2 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
+* Kirsten Kane
+* Deanna Crogg
 
-#### 1 👎 - Con
+#### 33 👎 - Con
+Testifying:
+* Dave Haldi - Credit Gnomes Inc.
+* Brian Lucas
+* Rich Stein - Valet Living
 
 #### 0 ❓ - Other

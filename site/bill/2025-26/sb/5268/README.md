@@ -17,14 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161871&caId=25025&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161871&caId=25025&tId=4)
 
-#### 1108 👍 - Pro
+#### 1175 👍 - Pro
 Testifying:
 * Laurie Layne
 * Ken Swenson - Modern Renovators, LLC
 * Valerie Schaler
 * 💵Anne Anderson - Washington State Narcotics Investigators Association
 
-#### 45 👎 - Con
+#### 50 👎 - Con
 Testifying:
 * Kari Reardon - WACDL/WDA
 

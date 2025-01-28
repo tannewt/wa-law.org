@@ -42,6 +42,8 @@
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
 * 👍💵 Kelsey Hulse
 
+### [HB 1261](/bill/2025-26/hb/1261/) - Open space incidental use 👍1  
+
 ### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎2 
@@ -56,6 +58,9 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
 * 👎💵 Curtis Steinhauer
+
+### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings   ❓1
+* ❓💵 Kelsey Hulse
 
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 

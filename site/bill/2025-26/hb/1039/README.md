@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162037&caId=25085&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162037&caId=25085&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
+* Bill Iyall - Chairman, Cowlitz Indian Tribe
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Tom Strobehn - [City of La Center](/org/city_of_la_center/)
 
-#### 196 👎 - Con
+#### 430 👎 - Con
 
 #### 0 ❓ - Other

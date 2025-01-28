@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32562&aId=161998&caId=25005&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32562&aId=161998&caId=25005&tId=4)
 
-#### 258 👍 - Pro
+#### 323 👍 - Pro
 Testifying:
 * Raymond Williams - Just Us Solutions
 * Jacob Schmitt - Just Us Solutions
@@ -23,4 +23,6 @@ Testifying:
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jason Bennett - Department of Corrections

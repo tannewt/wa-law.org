@@ -21,15 +21,22 @@ Sign up to testify:
 Testifying:
 * Carmen Barajas
 
-#### 106 👎 - Con
+#### 119 👎 - Con
 Testifying:
 * Michelle Boatwright
 * Jenifer Largent
 * Courtney Arapis
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Eric Askeland - Self
 
-#### 5 ❓ - Other
+#### 12 ❓ - Other
 Testifying:
 * Trina Hall - Ferndale School District
 * Wade Smith - Walla Walla Public Schools
 * James Everett - Meridian School District
 * Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
+* Jim Kowalkowski - Rural Education Center
+* Larry Bassett - Parent
+* Valisa Smith - Start Early Washington
+* 💵Chris Korsmo - Washington State Charter Schools Association

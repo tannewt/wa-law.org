@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32589&aId=162152&caId=24980&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32589&aId=162152&caId=24980&tId=4)
 
-#### 11 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* Deena Hannen - [Multicare Health System](/org/multicare_health_system/)
+* Greg Carter - Providence St. Luke's Rehabilitation Medical Center
+* Isaac Ballou - [Olympic Medical Center](/org/olympic_medical_center/)
+* Katie Kolan - Washington State Hospital Association
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans

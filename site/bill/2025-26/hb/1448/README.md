@@ -17,12 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162116&caId=25102&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162116&caId=25102&tId=4)
 
-#### 791 👍 - Pro
+#### 1629 👍 - Pro
 Testifying:
 * Tracy Turner - Sail
+* 💵Nilu Jenks - FairVote Washington
+* 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
+* Abigail Leong - Washington Voting Justice Coalition
+* 💵Colin Cole - More Equitable Democracy
+* Tai Yang-Abreu - [The Washington Bus](/org/the_washington_bus/)
 * Carin Christy - Carin Christy, MA, LMHC
 
-#### 375 👎 - Con
+#### 678 👎 - Con
 Testifying:
 * Mary Mead
 * Erica Engelhart
@@ -32,8 +37,12 @@ Testifying:
 * Stuart Holmes - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Brandie Bills
 * Sharon Hanek
+* Dale Whitaker
+* Seneca Scott
 * Rico Hernandez
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Chris Hughes - Ranked Choice Voting Resource Center
+* Robert Bristow-Johnson

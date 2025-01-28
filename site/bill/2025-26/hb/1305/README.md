@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Devin Gombosky - Washington Association of Sewer and Water Districts
 
 #### 0 ❓ - Other

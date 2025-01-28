@@ -4,7 +4,7 @@
 ### [HB 1062](/bill/2025-26/hb/1062/) - Biomarker testing coverage 👍3  
 * 👍 Audrey Miller Garcia
 
-### [HB 1129](/bill/2025-26/hb/1129/) - Concerning health plan coverage of fertility-related services. 👍1  
+### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Audrey Miller Garcia

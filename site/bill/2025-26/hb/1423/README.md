@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Mon 01/27 04:00 PM - Transportation (TR): HB 1423 Vehicle noise cameras
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32535&aId=161941&caId=25069&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32535&aId=161941&caId=25069&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32535&aId=161941&caId=25069&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32535&aId=161941&caId=25069&tId=4)
+#### 19 👍 - Pro
+Testifying:
+* Ben Zarlingo - Everett, Everett City Council
 
-#### 17 👍 - Pro
-
-#### 364 👎 - Con
+#### 404 👎 - Con
+Testifying:
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
 #### 0 ❓ - Other

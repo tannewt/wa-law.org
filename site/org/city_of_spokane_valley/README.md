@@ -39,7 +39,7 @@
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act.  👎1 
 
-### [SB 5176](/bill/2025-26/sb/5176/) - Implementing prompt pay recommendations from the capital projects advisory review board.  👎1 
+### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects  👎1 
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
 

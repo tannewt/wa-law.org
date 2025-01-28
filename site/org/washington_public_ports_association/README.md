@@ -11,6 +11,8 @@
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
 * 👍💵 Carly Michiels
 
+### [HB 1249](/bill/2025-26/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission. 👍1  
+
 ### [HB 1302](/bill/2025-26/hb/1302/) - Utility connection charges 👍2  
 * 👍 Eric ffitch
 
@@ -18,12 +20,18 @@
 * 👎💵 Carly Michiels
 * 👎💵 Carly Michiels
 
+### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
+
+### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
+
+### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
+
 ### [SB 5034](/bill/2025-26/sb/5034/) - System improvement team 👍1  
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  
 * 👍 Chris Herman
 
-### [SB 5176](/bill/2025-26/sb/5176/) - Implementing prompt pay recommendations from the capital projects advisory review board. 👍1  
+### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects 👍1  
 * 👍 Chris Herman
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
@@ -34,11 +42,13 @@
 
 ### [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  
 
-## [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+
+## [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
 
 ## 2023-24
 
-### [SB 5360](/bill/2023-24/sb/5360/) - Environmental crimes  👎1 
+### [SB 5492](/bill/2023-24/sb/5492/) - Tourism promotion 👍1  
 
 ### [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
 

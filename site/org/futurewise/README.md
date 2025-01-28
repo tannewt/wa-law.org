@@ -1,8 +1,17 @@
 # Futurewise
 ## 2025-26
 
+### [HB 1039](/bill/2025-26/hb/1039/) - Gov. services/tribal lands 👍1  
+* 👍💵 Bryce Yadon
+
+### [HB 1097](/bill/2025-26/hb/1097/) - Extending governmental services beyond the urban growth area in specific circumstances.  👎1 
+* 👎💵 Bryce Yadon
+
 ### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act. 👍1  
 * 👍💵 Bryce Yadon
+
+### [HB 1164](/bill/2025-26/hb/1164/) - Urban growth area boundaries  👎1 
+* 👎💵 Bryce Yadon
 
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential 👍1  
 * 👍💵 Bryce Yadon
@@ -35,7 +44,8 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍3  
+* 👍💵 Bryce Yadon
 
 ### [SB 5055](/bill/2025-26/sb/5055/) - Agritourism  👎1 
 * 👎💵 Bryce Yadon

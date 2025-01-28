@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Mon 01/27 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1399 Sheriffs, chiefs, etc.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161954&caId=25052&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161954&caId=25052&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161954&caId=25052&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161954&caId=25052&tId=4)
-
-#### 413 👍 - Pro
+#### 502 👍 - Pro
 Testifying:
 * Susan Kane-Ronning - Washington Sierra Club Wildlife Committee
 * Juan Peralez - Unidos of Snohomish County
@@ -41,7 +35,7 @@ Testifying:
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
 * Michelle Nijhuis
 
-#### 592 👎 - Con
+#### 651 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Melanie Brown
@@ -49,6 +43,9 @@ Testifying:
 * Kevin Lammerding
 * April Langford - Purgatory Apotheca
 * Atina Holan
+* Myrna Molinar - Clalla,
+* Myrna Molinar - Clalla,
+* Myrna Molinar - Clalla,
 
 #### 2 ❓ - Other
 Testifying:

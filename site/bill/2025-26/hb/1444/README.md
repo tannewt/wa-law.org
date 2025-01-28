@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32540&aId=161908&caId=25100&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32540&aId=161908&caId=25100&tId=4)
 
-#### 29 👍 - Pro
+#### 41 👍 - Pro
+Testifying:
+* Carolina Sommer - NW Rare Disease Coalition
+* Michele Hagerstrom - NW Rare Disease Coalition
+* Sarah Tompkins - NW Rare Disease Coalition
 
 #### 0 👎 - Con
 

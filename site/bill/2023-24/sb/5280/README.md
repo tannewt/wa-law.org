@@ -18,6 +18,7 @@
 * 02/21/2023 [The Seattle Times](/org/the_seattle_times/) - [To know abuse without taking action is to condone abuse | The Seattle Times](https://www.seattletimes.com/opinion/to-know-abuse-without-taking-action-is-to-condone-abuse/#:~:text=Senate%20Bill%205280)
 * 02/11/2023 [The Seattle Times](/org/the_seattle_times/) - [Catholic officials seek loophole in WA bills on child abuse reporting | The Seattle Times](https://www.seattletimes.com/seattle-news/politics/catholic-officials-seek-loophole-in-wa-bills-on-child-abuse-reporting/#:~:text=Senate%20Bill%205280)
 * 01/22/2023 [Senate Democrats](/org/senate_democrats/) - [This Week in the Senate - Week 3: Housing, public safety and reproductive freedom take center stage - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2023/01/22/this-week-in-the-senate-week-3-housing-public-safety-and-reproductive-freedom-take-center-stage/#:~:text=Senate%20Bill%205280)
+* 05/18/2000 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/#:~:text=SB%205280)
 
 ## Meetings
 ### Tue 03/21 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SB 5280 Clergy/child abuse reporting

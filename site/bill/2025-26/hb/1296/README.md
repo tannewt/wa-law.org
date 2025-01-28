@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/27/2025 [The Center Square](/org/the_center_square/) - [Court win for parents' bill of rights initiative muted by bill to reverse protections | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f899ace8-dcf5-11ef-a9fe-f3c1b0cc19f2.html#:~:text=House%20Bill%201296)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=HB%201296)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201296)
 * 01/23/2025 [The Center Square](/org/the_center_square/) - [Bill critics say undermines parents' bill of rights initiative gets a public hearing | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_76e798d8-d9dd-11ef-90a5-0bbc67903303.html#:~:text=HB%201296)

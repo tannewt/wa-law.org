@@ -1,7 +1,7 @@
 # The Arc of King County
 ## 2025-26
 
-### [HB 1130](/bill/2025-26/hb/1130/) - Concerning utilization of developmental disabilities waivers. 👍1  
+### [HB 1130](/bill/2025-26/hb/1130/) - Concerning utilization of developmental disabilities waivers. 👍1 👎1 
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Ramona Hattendorf
@@ -14,6 +14,8 @@
 
 ### [HB 1243](/bill/2025-26/hb/1243/) - DSHS overpayments 👍1  
 
+### [HB 1267](/bill/2025-26/hb/1267/) - Special education funding 👍1  
+
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
@@ -21,7 +23,7 @@
 ### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍1  
 * 👍💵 Ramona Hattendorf
 
-### [HB 1344](/bill/2025-26/hb/1344/) - Respite care 👍1  
+### [HB 1344](/bill/2025-26/hb/1344/) - Respite care 👍2  
 
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
 
@@ -32,6 +34,8 @@
 ### [SB 5064](/bill/2025-26/sb/5064/) - Rare diseases adv. council 👍1  
 
 ### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍2  
+
+### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓3
 * ❓💵 Ramona Hattendorf
@@ -49,15 +53,18 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
+
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 
-## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍3  
+### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍3  
 * 👍💵 Ramona Hattendorf
+
+## [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
 ## 2023-24
 
-### [SB 5307](/bill/2023-24/sb/5307/) - Special education funding 👍3  
-* 👍💵 Ramona Hattendorf
+### [SB 5369](/bill/2023-24/sb/5369/) - Youth mental health/schools 👍1  
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

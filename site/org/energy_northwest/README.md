@@ -6,6 +6,8 @@
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
 * 👍 Dave Arbaugh
 
+### [HB 1249](/bill/2025-26/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission. 👍1  
+
 ## [HB 1461](/bill/2025-26/hb/1461/) - Joint operating agencies 👍1  
 * 👍 Richard Shaff
 

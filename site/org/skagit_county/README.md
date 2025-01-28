@@ -1,8 +1,11 @@
 # Skagit County
 ## 2025-26
 
-### [HB 1208](/bill/2025-26/hb/1208/) - Salmon recovery projects  👎1 
+### [HB 1208](/bill/2025-26/hb/1208/) - Salmon recovery projects  👎1 ❓3
 * 👎 Commissioner Peter Browning
+* ❓ Ron Wesen
+* ❓ Peter Browning
+* ❓ Will Honea
 
 ## [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects   ❓2
 * ❓ Will Honea

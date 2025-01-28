@@ -1,7 +1,7 @@
 # Premera Blue Cross
 ## 2025-26
 
-### [HB 1129](/bill/2025-26/hb/1129/) - Concerning health plan coverage of fertility-related services.   ❓1
+### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services   ❓1
 * ❓💵 Christine Brewer
 
 ### [HB 1199](/bill/2025-26/hb/1199/) - Strengthening consumer protection through increased insurer accountability for violations of the insurance code.   ❓1

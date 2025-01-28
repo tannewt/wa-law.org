@@ -1,7 +1,7 @@
 # City of Seattle
 ## 2025-26
 
-### [HB 1015](/bill/2025-26/hb/1015/) - Concerning energy labeling of residential buildings. 👍1  
+### [HB 1015](/bill/2025-26/hb/1015/) - Energy labeling/residential 👍1  
 
 ### [HB 1018](/bill/2025-26/hb/1018/) - Fusion energy facilities 👍1  
 
@@ -13,13 +13,22 @@
 
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
 
+### [HB 1208](/bill/2025-26/hb/1208/) - Salmon recovery projects 👍1  
+
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
 
 ### [HB 1245](/bill/2025-26/hb/1245/) - Electrical transmission cap. 👍1  
 
 ### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  
 
+### [HB 1388](/bill/2025-26/hb/1388/) - Mobile market programs 👍1  
+
+### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
+* 👍 Rico Quirindongo
+
 ### [HB 1423](/bill/2025-26/hb/1423/) - Vehicle noise cameras 👍1  
+
+### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 

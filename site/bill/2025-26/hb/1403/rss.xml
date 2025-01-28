@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1403/</link>
 		<description>Updates about HB 1403</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 09:08:21 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 11:30:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,12 +23,28 @@
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201403</guid>
 		</item>
 		<item>
+			<title>👍Todd Sullivan - Sullivan Homes</title>
+			<description>Todd Sullivan signed up to testify Pro. They are signed up to represent Sullivan Homes.</description>
+			<pubDate>Mon, 27 Jan 2025 02:38:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Todd/Sullivan/2025-01-27 02:38:15</guid>
+		</item>
+		<item>
 			<title>👍Dave Hamilton - Councilmember, City of Bellevue</title>
 			<description>Dave Hamilton signed up to testify Pro. They are signed up to represent Councilmember, City of Bellevue.</description>
 			<pubDate>Mon, 27 Jan 2025 09:08:21 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Dave/Hamilton/2025-01-27 09:08:21</guid>
+		</item>
+		<item>
+			<title>👍Rico Quirindongo - City of Seattle</title>
+			<description>Rico Quirindongo signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_seattle/"&gt;City of Seattle&lt;/a&gt;.</description>
+			<pubDate>Mon, 27 Jan 2025 11:30:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rico/Quirindongo/2025-01-27 11:30:09</guid>
 		</item>
 	</channel>
 </rss>

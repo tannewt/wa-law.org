@@ -10,6 +10,8 @@
 
 ### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍2  
 
+### [HB 1023](/bill/2025-26/hb/1023/) - Cosmetology compact 👍1  
+
 ### [HB 1044](/bill/2025-26/hb/1044/) - County REET admin. fees  👎1 
 
 ### [HB 1063](/bill/2025-26/hb/1063/) - Earned wage access services 👍1  
@@ -40,6 +42,9 @@
 * 👍💵 Morgan Irwin
 
 ### [HB 1115](/bill/2025-26/hb/1115/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
+
+### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services.  👎1 
+* 👎💵 Emily Wittman
 
 ### [HB 1126](/bill/2025-26/hb/1126/) - Standardizing notification provisions relating to local tax rate changes and shared taxes administered by the department. 👍1  
 
@@ -93,6 +98,9 @@
 ### [HB 1245](/bill/2025-26/hb/1245/) - Electrical transmission cap. 👍1  
 * 👍💵 Emily Wittman
 
+### [HB 1249](/bill/2025-26/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission. 👍1  
+* 👍💵 Peter Godlewski
+
 ### [HB 1297](/bill/2025-26/hb/1297/) - Child support/self-employed  👎1 
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎2 
@@ -101,11 +109,20 @@
 
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records  👎1 
 
+### [HB 1313](/bill/2025-26/hb/1313/) - Mass layoffs  👎1 
+
 ### [HB 1314](/bill/2025-26/hb/1314/) - Early learning facilities 👍1  
+
+### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development  👎1 
+* 👎💵 Peter Godlewski
 
 ### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍1  
 
 ### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍2  
+
+### [HB 1389](/bill/2025-26/hb/1389/) - Timber purchase reporting 👍1  
+
+### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license  👎1 
 
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
 
@@ -174,13 +191,22 @@
 
 ### [SB 5328](/bill/2025-26/sb/5328/) - Earned wage access services 👍1  
 
-## [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 * 👎💵 Peter Godlewski
+
+### [SB 5396](/bill/2025-26/sb/5396/) - FAA medical certificates   ❓1
+
+### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 
+* 👎💵 Emily Wittman
+
+### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
+* 👍💵 Lindsey Hueer
+
+## [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
 
 ## 2023-24
 
-### [SB 5360](/bill/2023-24/sb/5360/) - Environmental crimes  👎1 
-* 👎💵 Peter Godlewski
+### [SB 5492](/bill/2023-24/sb/5492/) - Tourism promotion 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

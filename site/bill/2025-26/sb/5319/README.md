@@ -8,18 +8,12 @@
 
 ## Meetings
 ### Mon 01/27 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5319 Surface mine reclamation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32604&aId=162169&caId=24952&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32604&aId=162169&caId=24952&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32604&aId=162169&caId=24952&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32604&aId=162169&caId=24952&tId=4)
-
 #### 2 👍 - Pro
 Testifying:
 * Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 
-#### 14 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Kory Hedrick - Versatile Industries Inc
 

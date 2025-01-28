@@ -27,11 +27,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32540&aId=162332&caId=25176&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32540&aId=162332&caId=25176&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Rory Paine-Donovan - Office of the Insurance Commissioner
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Shaun Ford - Washington Fire Chief's Association
 * Mike Battis - WA Ambulance Association

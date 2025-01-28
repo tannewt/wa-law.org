@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/ehr/4607/</link>
 		<description>Updates about EHR 4607</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 25 Jan 2025 20:30:23 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 17:37:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -20,7 +20,28 @@
 			<description>News article "Catalog of crises | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Sat, 25 Jan 2025 20:30:23 GMT</pubDate>
 			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/current/catalog-of-crises/#:~:text=House%20Resolution%204607</guid>
+		</item>
+		<item>
+			<title>Catalog of crises | Washington State House Republicans</title>
+			<description>News article "Catalog of crises | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sat, 25 Jan 2025 20:30:23 GMT</pubDate>
+			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/catalog-of-crises/#:~:text=House%20Resolution%204607</guid>
+		</item>
+		<item>
+			<title>WA House Dems change 132-year-old rule requiring supermajority to end debates | Washington | thecentersquare.com</title>
+			<description>News article "WA House Dems change 132-year-old rule requiring supermajority to end debates | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 27 Jan 2025 13:20:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_74c285ee-dcdb-11ef-9e23-0797c7e99f40.html#:~:text=resolution</guid>
+		</item>
+		<item>
+			<title>Court win for parents' bill of rights initiative muted by bill to reverse protections | Washington | thecentersquare.com</title>
+			<description>News article "Court win for parents' bill of rights initiative muted by bill to reverse protections | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 27 Jan 2025 17:37:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_f899ace8-dcf5-11ef-a9fe-f3c1b0cc19f2.html#:~:text=House%20Resolution%204607</guid>
 		</item>
 	</channel>
 </rss>

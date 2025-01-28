@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162297&caId=25132&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162297&caId=25132&tId=4)
 
-#### 266 👍 - Pro
+#### 308 👍 - Pro
 Testifying:
 * Catherine Young - Tacoma Special education PTA
 * jessica morrow
@@ -29,8 +29,13 @@ Testifying:
 * Katie Scheid - Impacted Parent and PEPWa
 * Kimie Nova - Impacted parent & PEPWa
 * Deb Ritter
+* Ayan Elmi - Washington Multicultural Services Link
+* Dominique Nkamicaniye - Seattle
 * Sai Samineni
+* Lori Helmy
 
 #### 1 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Fardosa Farah - 15300 33rd ave s N003

@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Mon 01/27 10:30 AM - Law & Justice (LAW): SB 5238 Reckless driving, speed
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32528&aId=161851&caId=25020&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32528&aId=161851&caId=25020&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32528&aId=161851&caId=25020&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32528&aId=161851&caId=25020&tId=4)
-
 #### 18 👍 - Pro
 
 #### 4 👎 - Con

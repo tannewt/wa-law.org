@@ -14,17 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32543&aId=161919&caId=25074&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32543&aId=161919&caId=25074&tId=4)
 
-#### 19 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Kas Guillozet - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
+* Sean Eagan - The Port of Tacoma
 * Matt Curtis - WDFW
 
-#### 5 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Sandra Brock
 * Commissioner Peter Browning - [Skagit County](/org/skagit_county/)
 * JOHN WORTHINGTON
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
+* Ron Wesen - [Skagit County](/org/skagit_county/)
+* Samantha Weinstein - Department of Ecology
 * Jenna Friebel - Skagit Drainage and Irrigation Districts Consortium LLC
+* Peter Browning - [Skagit County](/org/skagit_county/)
+* Will Honea - [Skagit County](/org/skagit_county/)

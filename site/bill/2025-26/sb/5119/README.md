@@ -6,14 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to expand student workers’ collective bargaining rights heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/27/nobles-bill-to-expand-student-workers-collective-bargaining-rights-heard-in-committee/#:~:text=Senate%20Bill%205119)
+
 ## Meetings
 ### Mon 01/27 10:30 AM - Labor & Commerce (LC): SB 5119 Academic employee bargaining
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162248&caId=25007&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162248&caId=25007&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162248&caId=25007&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32586&aId=162248&caId=25007&tId=4)
-
 #### 451 👍 - Pro
 Testifying:
 * Alec Acosta-Vega - Working Wildcats

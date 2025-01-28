@@ -18,13 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32567&aId=162315&caId=25189&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32567&aId=162315&caId=25189&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Ed Bowen
+* Commissioner Randy Johnson - Clallam County
 
 ### Wed 01/15 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1102 Veteran support and services
 #### 13 👍 - Pro

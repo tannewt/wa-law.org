@@ -34,6 +34,9 @@
 ### [HB 1315](/bill/2025-26/hb/1315/) - Impaired driving  👎1 
 * 👎💵 Julia Gorton
 
+### [HB 1426](/bill/2025-26/hb/1426/) - Impaired driving civil order 👍1  
+* 👍 Sean DeWitz
+
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓1
 * ❓💵 Samantha Louderback
 
@@ -47,7 +50,7 @@
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 
 
-### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎2 
+### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎3 
 * 👎💵 Julia Gorton
 
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍2  
@@ -56,11 +59,19 @@
 ### [SB 5101](/bill/2025-26/sb/5101/) - Expanding access to leave and safety accommodations to include workers who are victims of hate crimes or bias incidents.   ❓1
 * ❓💵 Julia Gorton
 
+### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
+
 ### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
 * 👎💵 Julia Gorton
 
 ### [SB 5330](/bill/2025-26/sb/5330/) - Spiked drink testing  👎1 
 * 👎💵 Julia Gorton
+
+### [SB 5336](/bill/2025-26/sb/5336/) - Isolated employees   ❓1
+* ❓💵 Julia Gorton
+
+### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
+* 👍💵 Julia Gorton
 
 ## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
 * 👎💵 Samantha Louderback

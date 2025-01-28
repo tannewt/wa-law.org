@@ -6,14 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to expand reproductive health care access for college students heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/27/nobles-bill-to-expand-reproductive-health-care-access-for-college-students-heard-in-committee/#:~:text=Senate%20Bill%205321)
+
 ## Meetings
 ### Mon 01/27 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5321 Postsecondary/med. abortion
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32576&aId=162067&caId=24995&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32576&aId=162067&caId=24995&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32576&aId=162067&caId=24995&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32576&aId=162067&caId=24995&tId=4)
-
 #### 804 👍 - Pro
 Testifying:
 * Ahna Rader - Advocates for Youth

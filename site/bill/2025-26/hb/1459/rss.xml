@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1459/</link>
 		<description>Updates about HB 1459</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 21 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 04:26:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-21/First reading, referred to Early Learning &amp; Human Services.</guid>
+		</item>
+		<item>
+			<title>👍💵Jaime Bodden - WSALPHO</title>
+			<description>Jaime Bodden signed up to testify Pro. They are signed up to represent WSALPHO. They are a registered lobbyist.</description>
+			<pubDate>Mon, 27 Jan 2025 04:26:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jaime/Bodden/2025-01-27 04:26:14</guid>
 		</item>
 	</channel>
 </rss>

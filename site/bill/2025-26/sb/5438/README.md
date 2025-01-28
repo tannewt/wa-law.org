@@ -14,12 +14,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162243&caId=24974&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162243&caId=24974&tId=4)
 
-#### 210 👍 - Pro
+#### 346 👍 - Pro
 Testifying:
+* 💵Mike Armstrong - A-Gas
+* Richie Kaur - Natural Resources Defense Council
+* Ruth Ivory-Moore - Hudson Technologies
+* Beth Porter - Environmental Investigation Agency
+* Bobby Farris - Total Reclaim, Inc.
+* Cory Eckert - Alpine Ductless, LLC
+* Mike Wenrick - PCC Markets
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Beth Porter - Environmental Investigation Agency
 
-#### 295 👎 - Con
+#### 574 👎 - Con
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Alex Ayers - HARDI
+* Mike Connors - Washington Potato and Onion Association
+* 💵Carolyn Logue - WA Air Conditioning Contractors Association

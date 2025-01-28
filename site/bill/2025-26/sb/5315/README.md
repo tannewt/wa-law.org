@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Mon 01/27 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5315 Local tax rate changes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32612&aId=162219&caId=25031&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32612&aId=162219&caId=25031&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32612&aId=162219&caId=25031&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32612&aId=162219&caId=25031&tId=4)
-
 #### 5 👍 - Pro
 Testifying:
 * Steve Ewing - Dept. of Revenue
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other

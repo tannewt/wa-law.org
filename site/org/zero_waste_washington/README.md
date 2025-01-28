@@ -31,13 +31,21 @@
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs   ❓1
 * ❓💵 Heather Trim
 
-## [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules   ❓1
+### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates  👎1 
+* 👎💵 Heather Trim
+
+### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules   ❓1
 * ❓💵 Heather Trim
+
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+
+## [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
+* 👍💵 Heather Trim
 
 ## 2023-24
 
-### [SB 5175](/bill/2023-24/sb/5175/) - Photovoltaic modules   ❓1
-* ❓💵 Heather Trim
+### [SB 5438](/bill/2023-24/sb/5438/) - Hydrofluorocarbons 👍1  
+* 👍💵 Heather Trim
 
 ### [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍2  
 * 👍💵 Heather Trim

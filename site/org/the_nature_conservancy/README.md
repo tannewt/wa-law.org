@@ -17,6 +17,9 @@
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
 
+### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
+* 👍💵 Justin Allegro
+
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
@@ -24,9 +27,13 @@
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
+
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓2
 * ❓💵 Justin Allegro
 * ❓💵 Justin Allegro
+
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
 ## [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
 

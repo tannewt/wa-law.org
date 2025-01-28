@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

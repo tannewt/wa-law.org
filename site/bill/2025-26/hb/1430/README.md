@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161912&caId=25136&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161912&caId=25136&tId=4)
 
-#### 298 👍 - Pro
+#### 370 👍 - Pro
 Testifying:
 * Stacy Gray
 * Mallorie Mancuso
@@ -24,6 +24,7 @@ Testifying:
 * Angela Sankaran
 * Lianabell Soto Silva
 * Danielle Waldron
+* Tami Silva
 
 #### 2 👎 - Con
 Testifying:

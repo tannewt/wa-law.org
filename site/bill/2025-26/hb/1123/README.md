@@ -6,15 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201123)
+
 ## Meetings
 ### Mon 01/27 04:00 PM - Appropriations (APP): HB 1123 Health carrier reimbursement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32566&aId=162013&caId=25065&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32566&aId=162013&caId=25065&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32566&aId=162013&caId=25065&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32566&aId=162013&caId=25065&tId=4)
-
-#### 316 👍 - Pro
+#### 400 👍 - Pro
 Testifying:
 * 💵Laurie Weidner - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
 * Evan Klein - Health Care Authority
@@ -23,14 +20,17 @@ Testifying:
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Pam MacEwan - Purchasers Business Group on Health
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* David Groves - Retired Public Employees Council
 
-#### 109 👎 - Con
+#### 136 👎 - Con
 Testifying:
 * 💵Chelene Whiteaker - Washington State Hospital Association
 * 💵Lisa Thatcher - Washington State Hospital Association
 * Ashley Thurow - Providence Health and Services
 * Chris Bredesen - EvergreenHealth
 * Matt Forge - Pullman Regional Hospital
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Malorie Toman - Washington State Medical Association (WSMA)
 
 #### 2 ❓ - Other
 Testifying:

@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32578&aId=162083&caId=25087&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32578&aId=162083&caId=25087&tId=4)
 
-#### 69 👍 - Pro
+#### 152 👍 - Pro
 Testifying:
 * Matthew Ozuna - State of Washington Tourism
 * Cliff Myers - Visit Vancouver Washington
+* Rose Noble - State of Washington Tourism and Visit Spokane
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* Annie McGrath - State of Washington Tourism
+* David Blandford - State of Washington Tourism
+* Judy Feldman - Organic Farm School
 
 #### 2 👎 - Con
 

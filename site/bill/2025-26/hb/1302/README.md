@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/27 01:30 PM - Environment & Energy (ENVI): HB 1302 Utility connection charges
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161985&caId=25058&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161985&caId=25058&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161985&caId=25058&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161985&caId=25058&tId=4)
-
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * 💵Isaac Kastama - [Center for Sustainable Infrastructure](/org/center_for_sustainable_infrastructure/)

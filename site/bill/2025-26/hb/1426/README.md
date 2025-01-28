@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162232&caId=25077&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162232&caId=25077&tId=4)
 
-#### 49 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Dr. Scott Phillips - [Washington Poison Center](/org/washington_poison_center/)
@@ -25,9 +25,15 @@ Testifying:
 * Frank Harris - Mothers Against Drunk Driving
 * Ashley Bonus
 * Chase Glasser - SAFE: Safety and Advocacy for Empowerment
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Shellie Coury
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
+* Selena Coppa
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Judge Rebecca Robertson - District & Municipal Court Judges' Association

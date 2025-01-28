@@ -8,19 +8,15 @@
 
 ## Meetings
 ### Mon 01/27 01:30 PM - Housing (HOUS): HB 1345 Detached ADU limits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32606&aId=162184&caId=25062&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32606&aId=162184&caId=25062&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32606&aId=162184&caId=25062&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32606&aId=162184&caId=25062&tId=4)
-
-#### 12 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Laura Osiadacz - Commissioner, Kittitas County
+* 💵Bill Clarke - WA REALTORS
 
-#### 47 👎 - Con
+#### 49 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties

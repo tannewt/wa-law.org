@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1200/</link>
 		<description>Updates about HB 1200</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 08:59:15 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 12:19:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -134,12 +134,44 @@
 			<guid isPermaLink="false">testifier/Deb/Ritter/2025-01-26 07:21:32</guid>
 		</item>
 		<item>
-			<title>👍Sai Samineni - Impacted parent &amp; PEPWa</title>
+			<title>❓Fardosa Farah - 15300 33rd ave s N003</title>
+			<description>Fardosa Farah signed up to testify Other. They are signed up to represent 15300 33rd ave s N003.</description>
+			<pubDate>Mon, 27 Jan 2025 02:23:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Fardosa/Farah/2025-01-27 02:23:44</guid>
+		</item>
+		<item>
+			<title>👍Ayan Elmi - Washington Multicultural Services Link</title>
+			<description>Ayan Elmi signed up to testify Pro. They are signed up to represent Washington Multicultural Services Link.</description>
+			<pubDate>Mon, 27 Jan 2025 07:35:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ayan/Elmi/2025-01-27 07:35:21</guid>
+		</item>
+		<item>
+			<title>👍Dominique Nkamicaniye - Seattle</title>
+			<description>Dominique Nkamicaniye signed up to testify Pro. They are signed up to represent Seattle.</description>
+			<pubDate>Mon, 27 Jan 2025 07:58:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dominique/Nkamicaniye/2025-01-27 07:58:02</guid>
+		</item>
+		<item>
+			<title>👍Sai Samineni - Seattle</title>
 			<description>Sai Samineni signed up to testify Pro.</description>
 			<pubDate>Mon, 27 Jan 2025 08:59:15 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sai/Samineni/2025-01-27 08:59:15</guid>
+		</item>
+		<item>
+			<title>👍Lori Helmy - Seattle</title>
+			<description>Lori Helmy signed up to testify Pro.</description>
+			<pubDate>Mon, 27 Jan 2025 12:19:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lori/Helmy/2025-01-27 12:19:52</guid>
 		</item>
 	</channel>
 </rss>

@@ -3,6 +3,9 @@
 
 ### [HB 1079](/bill/2025-26/hb/1079/) - Remote testing 👍1  
 
+### [HB 1085](/bill/2025-26/hb/1085/) - School safety/penalties   ❓1
+* ❓💵 Roz Thompson
+
 ### [HB 1136](/bill/2025-26/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment. 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
@@ -15,11 +18,17 @@
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
+### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+
 ### [SB 5009](/bill/2025-26/sb/5009/) - Modifying the student transportation allocation to accommodate multiple vehicle types for transporting students. 👍1  
+
+### [SB 5080](/bill/2025-26/sb/5080/) - Financial education 👍1  
 
 ### [SB 5120](/bill/2025-26/sb/5120/) - Learning assistance program 👍1  
 
 ### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍1  
+
+### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 
 ### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍1  
 
@@ -35,13 +44,20 @@
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍2  
 
+### [SB 5270](/bill/2025-26/sb/5270/) - Providing mentors to novice nurses in the beginning educator support team program.   ❓1
+* ❓💵 Roz Thompson
+
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍2  
 
-## [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
+### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
+
+### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards   ❓1
+
+## [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
 ## 2023-24
 
-### [SB 5308](/bill/2023-24/sb/5308/) - Guaranteed admissions prg. 👍1  
+### [SB 5369](/bill/2023-24/sb/5369/) - Youth mental health/schools 👍1  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
 

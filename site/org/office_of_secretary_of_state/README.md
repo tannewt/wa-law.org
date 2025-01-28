@@ -4,7 +4,7 @@
 ### [HB 1030](/bill/2025-26/hb/1030/) - Counted ballot audits 👍1  
 * 👍 Steve Hobbs
 
-### [HB 1116](/bill/2025-26/hb/1116/) - Recognizing election day. 👍1  
+### [HB 1116](/bill/2025-26/hb/1116/) - Recognizing election day. 👍2  
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  
 * 👍 Steve Hobbs
@@ -32,9 +32,10 @@
 ### [HB 1381](/bill/2025-26/hb/1381/) - Elections/language assist. 👍1  
 * 👍 Brian Hatfield
 
-### [HB 1448](/bill/2025-26/hb/1448/) - Local elections  👎2 
+### [HB 1448](/bill/2025-26/hb/1448/) - Local elections  👎3 
 * 👎 Steve Hobbs
 * 👎 Stuart Holmes
+* 👎 Brian Hatfield
 
 ### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍1  
 * 👍 Brian Hatfield

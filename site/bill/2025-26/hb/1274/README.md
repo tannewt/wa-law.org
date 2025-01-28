@@ -17,12 +17,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161959&caId=25106&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161959&caId=25106&tId=4)
 
-#### 1254 👍 - Pro
+#### 1463 👍 - Pro
 Testifying:
 * Emily Gause - WACDL/WDA
+* Avery Doutre
+* Bryin Thomas
+* Cassandra Butler - Collective Justice
+* Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
+* Michael McNeil - PVCA Law
+* Kathryn Loring - Washington State Minority and Justice Commission
+* Judge Breean Beggs - Washington State Minority & Justice Commission
+* Larry Jefferson - Director, Washington State Office of Public Defense
+* Dinah Coble
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Tiffany Attrill
 
-#### 4 ❓ - Other
+#### 10 ❓ - Other

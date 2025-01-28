@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161869&caId=25023&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161869&caId=25023&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Terri Cooper - Mayor of City of Medical Lake
 * Captain Chris Westby - [City of Lakewood](/org/city_of_lakewood/)

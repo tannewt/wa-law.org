@@ -1049,7 +1049,7 @@
 * [HB 1431](hb/1431) - Senior living meals/tax 3📰 62👍 1👎 1❓ - C 416 L 23
 * [SB 5066](sb/5066) - Health care benefit managers 59👍 3👎 2❓ - C 107 L 23
 * [SB 5216](sb/5216) - Collisions/driver reexam 63👍 1👎 0❓ - S Rules X
-* [SB 5280](sb/5280) - Clergy/child abuse reporting 11📰 58👍 2👎 4❓ - S Human Services
+* [SB 5280](sb/5280) - Clergy/child abuse reporting 12📰 58👍 2👎 4❓ - S Human Services
 * [SB 5826](sb/5826) - Utility bills/CCA charges 5📰 61👍 2👎 1❓ - S Environment, E
 * [HB 1640](hb/1640) - Pardons and commutations 36👍 27👎 0❓ - H Rules X
 * [HB 1874](hb/1874) - Protecting consumers from predatory loans. 1📰 48👍 4👎 11❓ - H ConsPro&Bus
@@ -1151,7 +1151,7 @@
 * [SB 5674](sb/5674) - Surplus property/housing 2📰 51👍 0👎 0❓ - S Rules X
 * [SB 6045](sb/6045) - School district efficiencies 1👍 50👎 0❓ - S EL/K-12
 * [SB 6056](sb/6056) - Human trafficking/hotels 37👍 11👎 3❓ - S Rules 3
-* [SB 6298](sb/6298) - Concerning the duty of the clergy to report child abuse or neglect. 10📰 29👍 16👎 6❓ - S Rules 3
+* [SB 6298](sb/6298) - Concerning the duty of the clergy to report child abuse or neglect. 11📰 29👍 16👎 6❓ - S Rules 3
 * [SB 6300](sb/6300) - College grant/public assist. 1📰 50👍 1👎 0❓ - S Ways & Means
 * [HB 1349](hb/1349) - Foreclosure protections 1📰 49👍 0👎 1❓ - C 206 L 23
 * [HB 2319](hb/2319) - Substance use treatment 2📰 36👍 11👎 3❓ - H Rules X

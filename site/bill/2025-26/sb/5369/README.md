@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=4)
 
-#### 160 👍 - Pro
+#### 271 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Ray Thomas
@@ -88,8 +88,15 @@ Testifying:
 * Anne Hundley
 * Jennifer Stuber - UW SMART Center
 * Judith Byron
+* Katharine Strange
+* Carey Wallace
 * Drew Goodrich - --None--
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
+* Evian Adams
+* Nikki York
+* Paree Raval
+* Evian Adams
+* Nikki York
 * Ashley Christenson
 * B Prevo
 * Calvin Malone - Buddhist - Olympia Zen Center
@@ -97,8 +104,17 @@ Testifying:
 * Maureen Reid
 * Vivian Morrison
 * Patricia Wittmann-Todd
+* Lora Rathbone
+* Lora Rathbone
+* Carolyn Stevens
+* Lauren Schubring
+* Frances Goodrow
+* Judy LeBlanc - university gathering UMC
+* Marijke Fakasiieiki
+* Jess Ingman - [Faith Action Network](/org/faith_action_network/)
+* Oneida Arnold
 
-#### 752 👎 - Con
+#### 866 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

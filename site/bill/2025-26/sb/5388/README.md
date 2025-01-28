@@ -16,8 +16,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * Marc Stern
+* 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* David Flynn - Department of Corrections

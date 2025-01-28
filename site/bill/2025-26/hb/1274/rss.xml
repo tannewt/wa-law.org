@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1274/</link>
 		<description>Updates about HB 1274</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 26 Jan 2025 10:18:11 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 11:49:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,12 +38,84 @@
 			<guid isPermaLink="false">testifier/Emily/Gause/2025-01-25 05:34:17</guid>
 		</item>
 		<item>
-			<title>👎Tiffany Attrill - WACDL/WDA</title>
+			<title>👎Tiffany Attrill - Director, Washington State Office of Public Defense</title>
 			<description>Tiffany Attrill signed up to testify Con.</description>
 			<pubDate>Sun, 26 Jan 2025 10:18:11 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Tiffany/Attrill/2025-01-26 10:18:11</guid>
+		</item>
+		<item>
+			<title>👍Avery Doutre - WACDL/WDA</title>
+			<description>Avery Doutre signed up to testify Pro.</description>
+			<pubDate>Mon, 27 Jan 2025 03:28:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Avery/Doutre/2025-01-27 03:28:11</guid>
+		</item>
+		<item>
+			<title>👍Bryin Thomas - WACDL/WDA</title>
+			<description>Bryin Thomas signed up to testify Pro.</description>
+			<pubDate>Mon, 27 Jan 2025 03:28:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bryin/Thomas/2025-01-27 03:28:11</guid>
+		</item>
+		<item>
+			<title>👍Cassandra Butler - Collective Justice</title>
+			<description>Cassandra Butler signed up to testify Pro. They are signed up to represent Collective Justice.</description>
+			<pubDate>Mon, 27 Jan 2025 03:28:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cassandra/Butler/2025-01-27 03:28:11</guid>
+		</item>
+		<item>
+			<title>👍Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation</title>
+			<description>Jarred-Michael Erickson signed up to testify Pro. They are signed up to represent Confederated Tribes of the Colville Reservation.</description>
+			<pubDate>Mon, 27 Jan 2025 03:33:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jarred-Michael/Erickson/2025-01-27 03:33:27</guid>
+		</item>
+		<item>
+			<title>👍Michael McNeil - PVCA Law</title>
+			<description>Michael McNeil signed up to testify Pro. They are signed up to represent PVCA Law.</description>
+			<pubDate>Mon, 27 Jan 2025 03:53:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/McNeil/2025-01-27 03:53:31</guid>
+		</item>
+		<item>
+			<title>👍Kathryn Loring - Washington State Minority and Justice Commission</title>
+			<description>Kathryn Loring signed up to testify Pro. They are signed up to represent Washington State Minority and Justice Commission.</description>
+			<pubDate>Mon, 27 Jan 2025 04:24:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kathryn/Loring/2025-01-27 04:24:07</guid>
+		</item>
+		<item>
+			<title>👍Judge Breean Beggs - Washington State Minority &amp; Justice Commission</title>
+			<description>Judge Breean Beggs signed up to testify Pro. They are signed up to represent Washington State Minority &amp; Justice Commission.</description>
+			<pubDate>Mon, 27 Jan 2025 04:34:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Judge Breean/Beggs/2025-01-27 04:34:24</guid>
+		</item>
+		<item>
+			<title>👍Larry Jefferson - Director, Washington State Office of Public Defense</title>
+			<description>Larry Jefferson signed up to testify Pro. They are signed up to represent Director, Washington State Office of Public Defense.</description>
+			<pubDate>Mon, 27 Jan 2025 07:21:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Larry/Jefferson/2025-01-27 07:21:29</guid>
+		</item>
+		<item>
+			<title>👍Dinah Coble - Director, Washington State Office of Public Defense</title>
+			<description>Dinah Coble signed up to testify Pro.</description>
+			<pubDate>Mon, 27 Jan 2025 11:49:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dinah/Coble/2025-01-27 11:49:50</guid>
 		</item>
 	</channel>
 </rss>

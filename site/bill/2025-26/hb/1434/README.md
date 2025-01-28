@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201434)
+
 ## Meetings
 ### Wed 01/29 01:30 PM - State Government & Tribal Relations (SGOV): HB 1434 Eid al-Fitr & Eid al-Adha
 Sign up to testify:
@@ -14,13 +17,58 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162119&caId=25144&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162119&caId=25144&tId=4)
 
-#### 90 👍 - Pro
+#### 491 👍 - Pro
 Testifying:
+* Momodou Conta
+* 💵Aya Samman
+* Aziz ahmed Mohammed
+* Syeda Asad
+* Anik Vahora
+* Sunera Memon
+* Amna Qazi
+* Aadil Sheriff
+* Rehana Ayub - Osman Salahuddin
+* Rameen Syed
+* Sabuhi Zaifuddin
+* Salmin Mussa Khamis - 14733 Ne 1st Pl apt E-1
+* Zuhair Khan
+* Sadia Shamim
+* Afshan Khan
+* Afshan Khan
+* Bessam Mahmoud Mohammad
+* muhammad faaz
+* Zyad Althy - 604 South 82nd Ave. unit 2
+* Tayyab Munir
+* Zaid Haque - WA Dems Muslim Caucus
+* Umme Mahbuba
 * Sandra Youssef
+* Anas Mahdi
 * Ahmad Tirhi
 * Anees Khan
 * Muhannad Alzeir
+* Sarah Karim
+* Sayed Sadat
+* Abdulla Abdulla
+* Sidrah Rizvi
+* Ajmal Yasin
+* Navreen Malik
+* Faiza Zeeshan
+* Afnan Dallasheh - Muslim Association of Puget Sound
+* Qudsia Khan
+* Reem Ghabboun
+* Hossein Naseri
+* Tooryalai Shirzai
+* Attiqullah Kazimi
+* Ahmad Ahmadzai
+* Zoha Khan
 
-#### 29 👎 - Con
+#### 54 👎 - Con
+Testifying:
+* Zainab Turkmen
 
-#### 4 ❓ - Other
+#### 22 ❓ - Other
+Testifying:
+* Irum asghar
+* Nasib Karimi
+* Ahmed Salman
+* Sadaf Aftab

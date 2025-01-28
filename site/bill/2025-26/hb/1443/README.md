@@ -6,15 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201443)
+
 ## Meetings
 ### Mon 01/27 01:30 PM - Housing (HOUS): HB 1443 Mobile dwellings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32606&aId=162185&caId=25063&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32606&aId=162185&caId=25063&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32606&aId=162185&caId=25063&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32606&aId=162185&caId=25063&tId=4)
-
-#### 69 👍 - Pro
+#### 80 👍 - Pro
 Testifying:
 * Kol Peterson - Tiny Hookups LLC
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
@@ -27,9 +24,15 @@ Testifying:
 * Frank O'Neill
 * Gwyn Howat - Mt. Baker Ski Area
 * Jessica Graf
+* AAMS, AAC, Steve Algiere
+* Michelle Elsom
+* Lisa Tenney
+* M. Natalie S.
 
-#### 38 👎 - Con
+#### 40 👎 - Con
 
-#### 2 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * 💵Joren Clowers - Sno-King Water District Coalition
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

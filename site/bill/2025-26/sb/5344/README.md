@@ -14,11 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32589&aId=162155&caId=24983&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32589&aId=162155&caId=24983&tId=4)
 
-#### 60 👍 - Pro
+#### 122 👍 - Pro
 Testifying:
 * Andrew Loomis - Avamere
 * Ken Gardner - SEIU 775 Benefits Group
+* Alicia Harris - Nursing Home worker
+* Fern Barton
+* Jamila Bowen - Nursing Home worker
+* Chaim Wolmark - Caldera Care
+* JoLynn Munro - Avamere Rehab
+* Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
+* 💵Sterling Harders - SEIU 775 the long-term caregiver's union
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 1 ❓ - Other
+#### 13 ❓ - Other

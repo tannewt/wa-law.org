@@ -17,19 +17,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32573&aId=162049&caId=25090&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32573&aId=162049&caId=25090&tId=4)
 
-#### 60 👍 - Pro
+#### 134 👍 - Pro
 Testifying:
 * Don Skakie - Homegrow Washington
 * Micah Sherman
 * Erik Johansen
 * Anthony Martinelli - The Marijuana Herald
 * Cody Funderburk - Washington Cannabis Workers Club
+* John Kingsbury - [Cannabis Alliance](/org/cannabis_alliance/)
+* Tyler Markwart
+* Vivian McPeak - Seattle Event/ Hempfest
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Tamara Weinmann - Bellevue Cannabis
+* M. Bailey Hirschburg - National Org. for the Reform of Marijuana Laws (NORML)
 
-#### 204 👎 - Con
+#### 429 👎 - Con
 Testifying:
+* Steven Freng - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
 * 💵Amy Brackenbury - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Levi Lyon
 * Michale Robinson

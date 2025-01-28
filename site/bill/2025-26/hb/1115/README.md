@@ -14,15 +14,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32534&aId=161892&caId=25072&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32534&aId=161892&caId=25072&tId=4)
 
-#### 23 👍 - Pro
+#### 77 👍 - Pro
 Testifying:
 * MARY HULL-DRURY - Washington Realtors
 * Dwight Bickel
 * 💵Carrie Tellefson - [Washington Land Title Association](/org/washington_land_title_association/)
 * JP Kissling - Fidelity Title Company
 * Maureen Pfaff - Olympic Peninsula Title Company
+* Marianne Nichols - Pend Oreille County Auditor
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Michele Silagy
+* Michelle Taylor - WLTA
+* Kelsi Jochim
+* Sean Holland
 * Paul Hofmann - As the Owner of the AEGIS Land Title Group
 * Luke Currier - CEO of Land Title and Escrow
+* Anthony Carollo - Vista Title & Escrow
+* Angela Balconi
+* Sherri Fought - Kittitas Title and Escrow
 
 #### 0 👎 - Con
 

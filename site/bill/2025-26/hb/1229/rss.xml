@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1229/</link>
 		<description>Updates about HB 1229</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 25 Jan 2025 02:10:38 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 07:16:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -43,6 +43,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jacob/Schmitt/2025-01-25 02:10:38</guid>
+		</item>
+		<item>
+			<title>👍Larry Jefferson - Director, Washington State Office of Public Defense</title>
+			<description>Larry Jefferson signed up to testify Pro. They are signed up to represent Director, Washington State Office of Public Defense.</description>
+			<pubDate>Mon, 27 Jan 2025 07:16:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Larry/Jefferson/2025-01-27 07:16:16</guid>
 		</item>
 	</channel>
 </rss>

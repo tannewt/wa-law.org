@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5200/</link>
 		<description>Updates about SB 5200</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 23 Jan 2025 08:44:21 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 08:41:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -60,6 +60,22 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Kari-Mae/Miles/2025-01-23 08:44:21</guid>
+		</item>
+		<item>
+			<title>👍Charles Wharton - Veterans Legislative Coalition</title>
+			<description>Charles Wharton signed up to testify Pro. They are signed up to represent Veterans Legislative Coalition.</description>
+			<pubDate>Mon, 27 Jan 2025 07:00:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Charles/Wharton/2025-01-27 07:00:54</guid>
+		</item>
+		<item>
+			<title>👍Trisha Quigley - Veterans Legislative Coalition</title>
+			<description>Trisha Quigley signed up to testify Pro.</description>
+			<pubDate>Mon, 27 Jan 2025 08:41:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Trisha/Quigley/2025-01-27 08:41:07</guid>
 		</item>
 	</channel>
 </rss>

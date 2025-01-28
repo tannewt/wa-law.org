@@ -3,7 +3,7 @@
 
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
 
-### [HB 1129](/bill/2025-26/hb/1129/) - Concerning health plan coverage of fertility-related services. 👍1  
+### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services 👍1  
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
 

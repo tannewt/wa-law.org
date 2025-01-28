@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1462/</link>
 		<description>Updates about HB 1462</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 08:58:40 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 11:53:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,6 +23,14 @@
 			<guid isPermaLink="false">2025-01-21/First reading, referred to Environment &amp; Energy.</guid>
 		</item>
 		<item>
+			<title>❓Mike Connors - Washington Potato and Onion Association</title>
+			<description>Mike Connors signed up to testify Other. They are signed up to represent Washington Potato and Onion Association.</description>
+			<pubDate>Mon, 27 Jan 2025 06:54:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Mike/Connors/2025-01-27 06:54:24</guid>
+		</item>
+		<item>
 			<title>👍Beth Porter - Environmental Investigation Agency</title>
 			<description>Beth Porter signed up to testify Pro. They are signed up to represent Environmental Investigation Agency.</description>
 			<pubDate>Mon, 27 Jan 2025 08:56:14 GMT</pubDate>
@@ -37,6 +45,14 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Katie/Beeson/2025-01-27 08:58:40</guid>
+		</item>
+		<item>
+			<title>❓💵Carolyn Logue - Washington Air Conditioning Contractors Association</title>
+			<description>Carolyn Logue signed up to testify Other. They are signed up to represent Washington Air Conditioning Contractors Association. They are a registered lobbyist.</description>
+			<pubDate>Mon, 27 Jan 2025 11:53:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Carolyn/Logue/2025-01-27 11:53:34</guid>
 		</item>
 	</channel>
 </rss>

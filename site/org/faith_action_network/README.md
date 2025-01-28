@@ -17,7 +17,7 @@
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
 * 👍💵 Kristin Ang
 
-### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍2  
+### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍3  
 
 ### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  
 
@@ -30,13 +30,15 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 
-## [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
+## [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍2  
 * 👍 Katherine Long
+* 👍 Jess Ingman
 
 ## 2023-24
 
-### [SB 5369](/bill/2023-24/sb/5369/) - Youth mental health/schools 👍1  
+### [SB 5369](/bill/2023-24/sb/5369/) - Youth mental health/schools 👍2  
 * 👍 Katherine Long
+* 👍 Jess Ingman
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Kristin Ang

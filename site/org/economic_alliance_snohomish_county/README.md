@@ -3,6 +3,8 @@
 
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
 
+### [HB 1109](/bill/2025-26/hb/1109/) - Public facilities districts 👍1  
+
 ## [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
 * 👍 Ray Stephanson
 

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201158)
+
 ## Meetings
 ### Wed 01/29 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1158 Community inclusion services
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162005&caId=25129&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162005&caId=25129&tId=4)
 
-#### 38 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Kim McLeod
 * Linda Hyatt
@@ -22,11 +25,15 @@ Testifying:
 * Ryan Nesbitt
 * Rose` Yu
 
-#### 93 👎 - Con
+#### 109 👎 - Con
 Testifying:
 * 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Stacy Dym
 * Stephanie Roadman
 * Cathy Murahashi - The Arc of Washington
+* Tammy Bowen
+* Blake Duarte
+* Lacey Davis
+* Larry Garman
 
 #### 1 ❓ - Other

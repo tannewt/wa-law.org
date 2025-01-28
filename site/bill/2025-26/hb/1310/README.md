@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=HB%201310)
+* 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201310)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201310)
 
 ## Meetings
@@ -18,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162320&caId=25184&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162320&caId=25184&tId=4)
 
-#### 629 👍 - Pro
+#### 765 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Katie Young - Tacoma special education PTA
@@ -29,8 +30,19 @@ Testifying:
 * Justin McKaughan
 * Samantha Fogg - Seattle Council PTSA Co-President
 * Veronica  (Roni) Cook - Special Education Teacher-Mukilteo
+* Casey McCallister
+* Levon Williams - Washington State School Directors' Association
+* Kate Davis - [Olympia School District](/org/olympia_school_district/)
+* Ayan Elmi - Washington Multicultural Services Link
 * Trevor Greene - Yakima School District
+* Dr. Brent Jones - Superintendent, Seattle Public Schools
+* 💵Clifford Traisman - Highline and Northshore Public School Districts (Bellevue and Seattle as well)
+* Dr. Concie Pedroza - Superintendent, Tukwila School District
+* Dr. Kelly Aramaki - Superintendent, Bellevue School District
+* Rob Bryant - CFO, Federal Way School District
+* Supt. Israel Vela - Superintendent, Kent School District
+* Jen Chong Jewell - Parent of a student receiving special education services
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

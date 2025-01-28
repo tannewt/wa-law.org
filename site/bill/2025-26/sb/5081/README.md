@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 01/27 04:00 PM - Transportation (TRAN): SB 5081 Unattended motor vehicles
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32530&aId=162285&caId=25040&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32530&aId=162285&caId=25040&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32530&aId=162285&caId=25040&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32530&aId=162285&caId=25040&tId=4)
-
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
 #### 2 👎 - Con
 

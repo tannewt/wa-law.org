@@ -17,13 +17,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32552&aId=161948&caId=24963&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32552&aId=161948&caId=24963&tId=4)
 
-#### 87 👍 - Pro
+#### 233 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Shane Backland - Association of Educational Service Districts -  AESD
 * Pete Peterson - Kiona-Benton City SD
+* 💵Paula Sardinas - WBBA
+* Keith-Ann Campbell - [Big Brothers Big Sisters](/org/big_brothers_big_sisters/)
+* Will Durden - State Board for Community and Technical Colleges
+* Esperanza Ocegueda - Seneca Family of Agencies
+* Isabella Flores - State Board for Community and Technical Colleges (SBCTC)
 * Dixie Grunenfelder - Office of Superintendent of Public Instruction
+* Mason Bryant
 
-#### 970 👎 - Con
+#### 1589 👎 - Con
 
 #### 0 ❓ - Other

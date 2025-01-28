@@ -21,11 +21,15 @@
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
 
-## [SB 5343](/bill/2025-26/sb/5343/) - NE WA wolf-livestock account 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+
+## [SB 5343](/bill/2025-26/sb/5343/) - NE WA wolf-livestock account 👍2  
+* 👍💵 Paula Swedeen
 
 ## 2023-24
 
-### [SB 5343](/bill/2023-24/sb/5343/) - NE WA wolf-livestock account 👍1  
+### [SB 5343](/bill/2023-24/sb/5343/) - NE WA wolf-livestock account 👍2  
+* 👍💵 Paula Swedeen
 
 ### [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting   ❓1
 * ❓ Jay Kehne

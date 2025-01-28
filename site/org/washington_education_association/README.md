@@ -37,7 +37,7 @@
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board. 👍1  
 
-### [HB 1129](/bill/2025-26/hb/1129/) - Concerning health plan coverage of fertility-related services. 👍1  
+### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services 👍1  
 
 ### [HB 1136](/bill/2025-26/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment. 👍2  
 * 👍💵 Simone Boe
@@ -94,9 +94,11 @@
 
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍1  
 
-### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍5  
+### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍8  
 
 ### [HB 1312](/bill/2025-26/hb/1312/) - Retirement benefits/death 👍1  
+
+### [HB 1313](/bill/2025-26/hb/1313/) - Mass layoffs 👍1  
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 
@@ -104,9 +106,21 @@
 
 ### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  
 
+### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding   ❓1
+* ❓💵 Julie Salvi
+
+### [HB 1398](/bill/2025-26/hb/1398/) - Adult family home arb. 👍1  
+
+### [HB 1412](/bill/2025-26/hb/1412/) - Comm'n, M. East & N. Africa 👍1  
+
+### [HB 1418](/bill/2025-26/hb/1418/) - PTBA governing body members 👍1  
+
 ### [HB 1434](/bill/2025-26/hb/1434/) - Eid al-Fitr & Eid al-Adha 👍1  
 
-### [HB 1450](/bill/2025-26/hb/1450/) - Transition to kindergarten  👎3 
+### [HB 1450](/bill/2025-26/hb/1450/) - Transition to kindergarten  👎5 
+* 👎💵 Julie Salvi
+
+### [HB 1511](/bill/2025-26/hb/1511/) - Ferry captains 👍1  
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 
@@ -114,7 +128,11 @@
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 👍1  
 
+### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
+
+### [SB 5025](/bill/2025-26/sb/5025/) - Educational interpreters 👍1  
 
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 
@@ -136,12 +154,14 @@
 
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍1  
 
+### [SB 5080](/bill/2025-26/sb/5080/) - Financial education 👍1  
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
 
 ### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans   ❓1
 * ❓ Jared Mason-Gere
 
-### [SB 5086](/bill/2025-26/sb/5086/) - PEBB & SEBB consolidation  👎6 
+### [SB 5086](/bill/2025-26/sb/5086/) - PEBB & SEBB consolidation  👎7 
 * 👎 Jared Mason-Gere
 
 ### [SB 5087](/bill/2025-26/sb/5087/) - CTC legal education programs 👍1  
@@ -219,6 +239,8 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
+### [SB 5235](/bill/2025-26/sb/5235/) - Public school statutes 👍1  
+
 ### [SB 5241](/bill/2025-26/sb/5241/) - Fusion energy facilities 👍1  
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
@@ -240,6 +262,8 @@
 ### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 
 ### [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍1  
+
+### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍1  
 
 ## [SB 5381](/bill/2025-26/sb/5381/) - Self-insurer withdrawal 👍1  
 

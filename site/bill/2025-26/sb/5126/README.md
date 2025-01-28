@@ -17,14 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161971&caId=24967&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161971&caId=24967&tId=4)
 
-#### 305 👍 - Pro
+#### 373 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Dr. Gwen Loosmore - Washington State PTA
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
 * Michelle Price - Association of Educational Service Districts
 * Amy Cannava - Washington State Association of School Psychologists
+* LICSW, MHA, Roger Dowdy - Providence's Well Being Trust
 
-#### 785 👎 - Con
+#### 906 👎 - Con
 
 #### 0 ❓ - Other

@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32585&aId=162080&caId=24958&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32585&aId=162080&caId=24958&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Phil Goldfeder - American Fintech Council
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 5 ❓ - Other
 Testifying:

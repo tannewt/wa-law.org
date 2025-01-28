@@ -38,13 +38,16 @@
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 👍1  
 
-## [SB 5147](/bill/2025-26/sb/5147/) - Criminal insanity 👍1  
+### [SB 5147](/bill/2025-26/sb/5147/) - Criminal insanity 👍1  
 * 👍💵 Chloe Merino
+
+## [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎1 
+* 👎💵 Rachael Seevers
 
 ## 2023-24
 
-### [SB 5147](/bill/2023-24/sb/5147/) - Criminal insanity 👍1  
-* 👍💵 Chloe Merino
+### [SB 5388](/bill/2023-24/sb/5388/) - DOC behavioral health cert.  👎1 
+* 👎💵 Rachael Seevers
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

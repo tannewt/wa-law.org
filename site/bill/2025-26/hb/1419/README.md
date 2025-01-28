@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162372&caId=25206&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162372&caId=25206&tId=4)
 
-#### 4 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * James Martin
+* Quan Tran - WFSE Member- Interpreter
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

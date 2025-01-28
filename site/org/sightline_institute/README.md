@@ -17,6 +17,9 @@
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings 👍1  
 * 👍💵 Dan Bertolet
 
+### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍1  
+* 👍💵 Shannon Grimes
+
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 * 👍💵 Laura Feinstein
 

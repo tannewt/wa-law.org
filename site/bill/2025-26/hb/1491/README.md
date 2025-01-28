@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201491)
 * 01/24/2025 [The Urbanist](/org/the_urbanist/) - [Ferguson Transition Team: Transit-Oriented Development Should Be ‘Top Priority’ - The Urbanist](https://www.theurbanist.org/2025/01/24/ferguson-team-transit-oriented-development-should-be-top-priority/#:~:text=House%20Bill%201491)
 * 01/22/2025 [The Urbanist](/org/the_urbanist/) - [Washington Legislature Sets it Sights on Transit-Oriented Development…Again - The Urbanist](https://www.theurbanist.org/2025/01/22/washington-legislature-sets-it-sights-on-transit-oriented-development-again/#:~:text=House%20Bill%201491)
 
@@ -18,10 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32607&aId=162186&caId=25112&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32607&aId=162186&caId=25112&tId=4)
 
-#### 310 👍 - Pro
+#### 530 👍 - Pro
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵John Traynor - washington state labor council, afl-cio
+* Kristiana de Leon
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 
-#### 206 👎 - Con
+#### 452 👎 - Con
 Testifying:
 * Aidan Thornsberry
+* Claire Eberle
 
-#### 4 ❓ - Other
+#### 7 ❓ - Other

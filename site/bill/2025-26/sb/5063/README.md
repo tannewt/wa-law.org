@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32547&aId=162063&caId=25041&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32547&aId=162063&caId=25041&tId=4)
 
-#### 20 👍 - Pro
+#### 39 👍 - Pro
+Testifying:
+* 💵Logan Bahr - Tacoma Public Utilities/Tacoma Rail
+* Ross Lane - [Puget Sound & Pacific Railroad](/org/puget_sound_&_pacific_railroad/)
+* Cassie Hammond - Port of Benton
 
 #### 0 👎 - Con
 

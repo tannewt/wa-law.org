@@ -6,6 +6,8 @@
 
 ### [HB 1143](/bill/2025-26/hb/1143/) - College grant award amounts 👍1  
 
+### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+
 ### [SB 5120](/bill/2025-26/sb/5120/) - Learning assistance program 👍1  
 * 👍 Ben Mitchell
 

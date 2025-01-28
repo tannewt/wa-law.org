@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162299&caId=25163&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162299&caId=25163&tId=4)
 
-#### 1 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Thad Duvall - Douglas County Auditor, Co-Chair of WSACA Licensing Committee
 

@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32579&aId=162086&caId=25123&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32579&aId=162086&caId=25123&tId=4)
 
-#### 16 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Ray Stephanson - [Economic Alliance Snohomish County](/org/economic_alliance_snohomish_county/)
 

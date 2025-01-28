@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32580&aId=162091&caId=25167&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32580&aId=162091&caId=25167&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Misha Cherniske - Office of Superintendent of Public Instruction
 * Erica Limon-Trefielo - Communities in Schools of Washington

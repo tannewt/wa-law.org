@@ -17,14 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161960&caId=25107&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161960&caId=25107&tId=4)
 
-#### 254 👍 - Pro
+#### 322 👍 - Pro
 Testifying:
 * Tamara Light - Information For Change Washington
 * Jacob Schmitt - Just Us Solutions, LLC
 * Candice Baughman - Underground Ministries
 * Catherine Antee - LFC  Stafford Creek
+* Jerry Thomas
+* Larry Jefferson - Director, Washington State Office of Public Defense
 * 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
 
-#### 0 👎 - Con
+#### 14 👎 - Con
 
 #### 1 ❓ - Other

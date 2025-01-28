@@ -9,13 +9,16 @@
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 
-## [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 * 👍 Zack Zappone
+
+## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+* 👍 Marlene Feist
 
 ## 2023-24
 
-### [SB 5184](/bill/2023-24/sb/5184/) - Minimum parking requirements 👍1  
-* 👍 Zack Zappone
+### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management 👍1  
+* 👍 Marlene Feist
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

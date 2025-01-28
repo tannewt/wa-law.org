@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162003&caId=25093&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162003&caId=25093&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Caitlin Sieh - Twin Sisters Mobile Market (Director of Special Projects)
+* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 * Alison Jensen
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Colleen Donovan - WA State Farmers Market Association

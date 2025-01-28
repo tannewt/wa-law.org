@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32547&aId=162069&caId=25045&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32547&aId=162069&caId=25045&tId=4)
 
-#### 1 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Steve Ewing - Dept. of Revenue
+* 💵Jennifer Wallace - WA Association of County Officials
+* Jackie Brunson - Washington State Association of County Treasurers
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

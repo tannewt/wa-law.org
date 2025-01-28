@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201177)
+
 ## Meetings
 ### Tue 01/28 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1177 Child welfare housing assist
 Sign up to testify:
@@ -14,10 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162001&caId=25091&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162001&caId=25091&tId=4)
 
-#### 36 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Michael Mirra - Association of Washington Housing Authorities; Admin. Office of the Courts Comm. on Housing & CW
 * Kim Justice - Partners for Our Children
+* Tara Urs - King County Department of Public Defense
 
 #### 0 👎 - Con
 

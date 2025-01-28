@@ -22,7 +22,7 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
-### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
+### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍2  
 * 👍💵 Alex Hur
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
@@ -37,12 +37,12 @@
 
 ### [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks 👍1  
 
-## [SB 5328](/bill/2025-26/sb/5328/) - Earned wage access services   ❓1
+## [SB 5328](/bill/2025-26/sb/5328/) - Earned wage access services  👎1 ❓1
 * ❓ Molly Gallagher
 
 ## 2023-24
 
-### [SB 5328](/bill/2023-24/sb/5328/) - Earned wage access services   ❓1
+### [SB 5328](/bill/2023-24/sb/5328/) - Earned wage access services  👎1 ❓1
 * ❓ Molly Gallagher
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  

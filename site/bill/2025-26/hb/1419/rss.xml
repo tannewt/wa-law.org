@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1419/</link>
 		<description>Updates about HB 1419</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 24 Jan 2025 06:28:40 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 27 Jan 2025 12:20:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,12 +16,28 @@
 			<guid isPermaLink="false">2025-01-20/First reading, referred to State Government &amp; Tribal Relations.</guid>
 		</item>
 		<item>
-			<title>👍James Martin - Disability Rights Washington</title>
+			<title>👍James Martin - Washington Policy Center</title>
 			<description>James Martin signed up to testify Pro.</description>
 			<pubDate>Fri, 24 Jan 2025 06:28:40 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/James/Martin/2025-01-24 06:28:40</guid>
+		</item>
+		<item>
+			<title>👍Quan Tran - WFSE Member- Interpreter</title>
+			<description>Quan Tran signed up to testify Pro. They are signed up to represent WFSE Member- Interpreter.</description>
+			<pubDate>Mon, 27 Jan 2025 10:13:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Quan/Tran/2025-01-27 10:13:39</guid>
+		</item>
+		<item>
+			<title>👍Kati Durkin - Washington Federation of State Employees</title>
+			<description>Kati Durkin signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_federation_of_state_employees/"&gt;Washington Federation of State Employees&lt;/a&gt;.</description>
+			<pubDate>Mon, 27 Jan 2025 12:20:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kati/Durkin/2025-01-27 12:20:12</guid>
 		</item>
 	</channel>
 </rss>

@@ -16,11 +16,13 @@
 
 ### [SB 5104](/bill/2025-26/sb/5104/) - Protecting employees from coercion in the workplace based on immigration status. 👍1  
 
-## [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍2  
+### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍2  
+
+## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
 ## 2023-24
 
-### [SB 5164](/bill/2023-24/sb/5164/) - Student navigational support 👍2  
+### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management 👍1  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 

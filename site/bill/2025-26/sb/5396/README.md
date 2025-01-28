@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162252&caId=25012&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162252&caId=25012&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Adam Walker - Pilot Mental Health Campaign
+* Brad Maas - PIlot Mental Health Campaign
+* Brian Bomhoff - Pilot Mental Health Campaign
+* Dr. Keith Lemmon - Pilot Mental Health Campaign
+* Stephanie Day - Pilot Mental Health Campaign
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

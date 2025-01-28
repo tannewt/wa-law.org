@@ -12,6 +12,7 @@
 * 01/14/2025 [Senate Democrats](/org/senate_democrats/) - [Lovick bill to reduce BAC limit to .05% heard in committee - Sen. John Lovick](https://senatedemocrats.wa.gov/lovick/2025/01/14/lovick-bill-to-reduce-bac-limit-to-05-heard-in-committee/#:~:text=Senate%20Bill%205067)
 * 01/12/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: Welcome to the 2025 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/12/this-week-in-the-senate-week-1-welcome-to-the-2025-session/#:~:text=Senate%20Bill%205067)
 * 12/19/2024 [The Center Square](/org/the_center_square/) - [Bipartisan effort reducing BAC limit to .05% could face opposition from both sides | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5743f656-be4f-11ef-8e62-f748d7706995.html#:~:text=Senate%20Bill%205067)
+* 05/18/2000 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. John Lovick](https://senatedemocrats.wa.gov/lovick/#:~:text=Senate%20Bill%205067)
 
 ## Meetings
 ### Thu 01/30 04:00 PM - Transportation (TRAN): SSB 5067 Impaired driving
@@ -21,7 +22,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=4)
 
-#### 14 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Annie Sawyer
@@ -30,7 +31,7 @@ Testifying:
 * Dakota Manley - Washington State Young Republicans
 * Cammryn Gadd
 
-#### 85 👎 - Con
+#### 115 👎 - Con
 
 #### 0 ❓ - Other
 

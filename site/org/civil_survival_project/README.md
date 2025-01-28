@@ -16,11 +16,19 @@
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
 
+### [HB 1166](/bill/2025-26/hb/1166/) - DOC reentry education 👍1  
+
 ### [HB 1178](/bill/2025-26/hb/1178/) - Concerning sentencing enhancements. 👍1  
 
 ### [HB 1233](/bill/2025-26/hb/1233/) - Concerning work programs for incarcerated persons. 👍1  
 
-### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
+### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
+
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
+
+### [HB 1301](/bill/2025-26/hb/1301/) - Confinement fees & expenses 👍1  
+
+### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 👍1  
 

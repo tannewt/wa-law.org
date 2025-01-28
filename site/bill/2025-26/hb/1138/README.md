@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Mon 01/27 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1138 Criminal interview practices
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161952&caId=25050&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161952&caId=25050&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161952&caId=25050&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161952&caId=25050&tId=4)
-
-#### 325 👍 - Pro
+#### 384 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
 * Amanda Knox
@@ -25,7 +19,7 @@ Testifying:
 * Ted Bradford
 * Mark Fallon - ClubFed, LLC
 
-#### 14 👎 - Con
+#### 18 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys

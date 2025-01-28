@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161896&caId=25157&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161896&caId=25157&tId=4)
 
-#### 14 👍 - Pro
+#### 17 👍 - Pro
 
-#### 14 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * Cody Rohrbach - Spokane County Fire District 3
+* Matthew Vinci - Fire Chief, Spokane County Fire District 9
 
 #### 0 ❓ - Other

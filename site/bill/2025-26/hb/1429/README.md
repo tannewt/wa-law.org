@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201429)
+
 ## Meetings
 ### Tue 01/28 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1429 Extended foster care/housing
 Sign up to testify:
@@ -14,10 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162296&caId=25094&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162296&caId=25094&tId=4)
 
-#### 256 👍 - Pro
+#### 358 👍 - Pro
 Testifying:
 * Michael Mirra - Association of Washington Housing Authorities; Admin. Office of the Courts Comm. on Housing & CW
+* Corrina Chatterton
+* Ender Moss
+* Jonas Rios
+* 💵Roxana Gomez - Legal Council for Youth and Children
+* Esmina James-Secret
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

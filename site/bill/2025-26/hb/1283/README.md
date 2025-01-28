@@ -11,16 +11,16 @@
 
 ## Meetings
 ### Mon 01/27 04:00 PM - Transportation (TR): HB 1283 Certificates of title
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32535&aId=161939&caId=25067&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32535&aId=161939&caId=25067&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32535&aId=161939&caId=25067&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32535&aId=161939&caId=25067&tId=4)
-
-#### 0 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* 💵Tony Sermonti - WA State Independent Auto Dealers Assoc.
+* Cherie Adams - Vehicle Subagents of Tomorrow Association
+* Chet Baldwin - Vehicle Subagents of Tomorrow Association
+* Jena Beauchene - Vehicle Subagents of Tomorrow Association
 
 #### 2 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Thad Duvall - Douglas County Auditor, Co-Chair of WSACA Licensing Committee
+* Jill Johnson - Department of Licensing

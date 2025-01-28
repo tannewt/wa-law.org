@@ -3,7 +3,7 @@
 
 ### [HB 1003](/bill/2025-26/hb/1003/) - Addressing service of notice by mail in cases involving forcible entry and forcible and unlawful detainer. 👍1  
 
-### [HB 1015](/bill/2025-26/hb/1015/) - Concerning energy labeling of residential buildings.  👎1 
+### [HB 1015](/bill/2025-26/hb/1015/) - Energy labeling/residential  👎1 
 * 👎💵 Brent Ludeman
 
 ### [HB 1044](/bill/2025-26/hb/1044/) - County REET admin. fees  👎1 
@@ -14,10 +14,17 @@
 ### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍1  
 * 👍💵 Bill Stauffacher
 
+### [HB 1115](/bill/2025-26/hb/1115/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
+* 👍💵 Andrea Smiley
+
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎1 
 
-### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review 👍1  
+### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review 👍2  
 * 👍💵 Brent Ludeman
+* 👍💵 Andrea Smiley
+
+### [HB 1164](/bill/2025-26/hb/1164/) - Urban growth area boundaries 👍1  
+* 👍💵 Andrea Smiley
 
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential 👍2  
 
@@ -39,6 +46,11 @@
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license   ❓1
 * ❓ Mike Ennis
 
+### [HB 1438](/bill/2025-26/hb/1438/) - Housing permit approval 👍1  
+* 👍💵 Andrea Smiley
+
+### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons  👎1 
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers  👎1 
@@ -48,6 +60,9 @@
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
 
 ### [SB 5109](/bill/2025-26/sb/5109/) - Concerning the mortgage lending fraud prosecution account.  👎1 
+
+### [SB 5111](/bill/2025-26/sb/5111/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
+* 👍💵 Andrea Smiley
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act. 👍1  
 * 👍💵 Andrea Smiley
@@ -62,11 +77,15 @@
 
 ### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍1  
 
-## [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
+
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+
+## [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons  👎1 
 
 ## 2023-24
 
-### [SB 5360](/bill/2023-24/sb/5360/) - Environmental crimes  👎1 
+### [SB 5438](/bill/2023-24/sb/5438/) - Hydrofluorocarbons  👎1 
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

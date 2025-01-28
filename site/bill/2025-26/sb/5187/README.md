@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [The year of education funding - Sen. Lisa Wellman](https://senatedemocrats.wa.gov/wellman/2025/01/27/3072/#:~:text=a%20bill%20to%20address%20student%20transportation)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205187)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [Week Two Comes to a Close - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/01/24/week-two-comes-to-a-close/#:~:text=5187)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session is underway! - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/01/24/2025-session-is-underway/#:~:text=SB%205187)

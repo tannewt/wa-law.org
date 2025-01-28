@@ -75,7 +75,12 @@
 
 ### [HB 1400](/bill/2025-26/hb/1400/) - Officer certification 👍1  
 
+### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings   ❓1
+* ❓💵 Carl Schroeder
+
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+
+### [HB 1535](/bill/2025-26/hb/1535/) - Dental insurance practices  👎1 
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state.   ❓1
 * ❓💵 Candice Bock
@@ -84,7 +89,8 @@
 
 ### [SB 5053](/bill/2025-26/sb/5053/) - PFD formation 👍1  
 
-### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates  👎1 
+### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates  👎2 
+* 👎💵 Carl Schroeder
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 * 👍💵 Candice Bock
@@ -109,7 +115,7 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Candice Bock
 
-### [SB 5176](/bill/2025-26/sb/5176/) - Implementing prompt pay recommendations from the capital projects advisory review board.   ❓1
+### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects   ❓1
 * ❓💵 Kelsey Hulse
 
 ### [SB 5197](/bill/2025-26/sb/5197/) - Local government planning   ❓1
@@ -123,6 +129,8 @@
 * 👍💵 Candice Bock
 
 ### [SB 5315](/bill/2025-26/sb/5315/) - Local tax rate changes 👍1  
+
+### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 
 
 ## [SB 5381](/bill/2025-26/sb/5381/) - Self-insurer withdrawal 👍1  
 

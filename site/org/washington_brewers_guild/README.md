@@ -4,6 +4,12 @@
 ### [HB 1315](/bill/2025-26/hb/1315/) - Impaired driving  👎1 
 * 👎💵 Daniel Olson
 
+### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
+* 👍💵 Daniel Olson
+
+### [HB 1602](/bill/2025-26/hb/1602/) - Liquor food service options 👍1  
+* 👍💵 Daniel Olson
+
 ## [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎1 
 * 👎💵 Daniel Olson
 

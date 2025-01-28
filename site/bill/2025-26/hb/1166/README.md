@@ -17,14 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162108&caId=25138&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162108&caId=25138&tId=4)
 
-#### 431 👍 - Pro
+#### 544 👍 - Pro
 Testifying:
 * Laurel Durrett
 * Darrell Johnson
+* Laura Elizabeth Shatswell
+* Dinah Coble
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Jason Bennett - Department of Corrections
+* Kellett Sayre - Department of Corrections
+* Kristen Morgan - Department of Corrections
 
 ### Tue 01/21 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1166 DOC reentry education
 #### 7 👍 - Pro

@@ -14,17 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32610&aId=162222&caId=24976&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32610&aId=162222&caId=24976&tId=4)
 
-#### 6 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Jay Balasbas - Basin Disposal and Consolidated Disposal Services Inc.
 * 💵Lyset Cadena - WM (Waste Management)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Brian Coddington - Sunshine Disposal & Recycling
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Ted Carlson - Sanitary Service Company
 
-#### 16 👎 - Con
+#### 34 👎 - Con
 Testifying:
 * Sandra Brock
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Maggie Yuse - Seattle Public Utilities
 * Edwin Borbon - AMERIPEN
 
 #### 1 ❓ - Other

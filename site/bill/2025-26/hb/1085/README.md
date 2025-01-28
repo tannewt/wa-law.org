@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Mon 01/27 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1085 School safety/penalties
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161951&caId=25049&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161951&caId=25049&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161951&caId=25049&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32553&aId=161951&caId=25049&tId=4)
-
-#### 93 👍 - Pro
+#### 103 👍 - Pro
 Testifying:
 * Cindy McMullen - Washington State School Directors' Association
 * ROBERT WEST
@@ -28,9 +22,13 @@ Testifying:
 * Pamela Birgenheier
 * Hugh Birgenheier - Western Washington Wrestling Officials Assoy
 * Brandi Peetz
+* Tyler Trimble
+* Albert Merkel
 
 #### 7 👎 - Con
 Testifying:
 * Max Kauffman - TeamChild
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)

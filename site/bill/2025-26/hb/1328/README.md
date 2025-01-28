@@ -11,24 +11,20 @@
 
 ## Meetings
 ### Mon 01/27 01:30 PM - Environment & Energy (ENVI): HB 1328 Clean energy development
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161984&caId=25057&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161984&caId=25057&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161984&caId=25057&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32558&aId=161984&caId=25057&tId=4)
-
-#### 114 👍 - Pro
+#### 127 👍 - Pro
 Testifying:
 * 💵Brynn Brady - Audubon WA
 * Ben Blank - WDFW
 * Dan Siemann - Dept. of Commerce
 * Dave Pringle - Dept. of Commerce
 * 💵Nadine Nadow - [Conservation Northwest](/org/conservation_northwest/)
+* 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
 
-#### 470 👎 - Con
+#### 501 👎 - Con
 Testifying:
 * Amanda McKinney - Yakima County
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Nicolas B Garcia - Washington Public Utility Districts Association

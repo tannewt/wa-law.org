@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161958&caId=25105&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161958&caId=25105&tId=4)
 
-#### 515 👍 - Pro
+#### 613 👍 - Pro
 Testifying:
 * Aaron Delaney
 * Jacob Schmitt - Just Us Solutions, LLC
@@ -31,8 +31,15 @@ Testifying:
 * Larry Jefferson - Washington Statewide Reentry Council
 * David Trieweiler
 * Callie Wilson - Quaker Voice on Washington Public Policy
+* Larry Jefferson - Director, Washington State Office of Public Defense
 * Lorena Llamas - Department of Corrections - WCCW
+* Tyra Edwards - as an organization and a survivor, Collective Justice
+* Na'Quel Walker - Collective Justice
+* Tyra Edwards - Collecitve Justice
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Mac Pevey - Department of Corrections
+* Yen Huynh - Department of Corrections

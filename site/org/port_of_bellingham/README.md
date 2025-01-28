@@ -1,6 +1,8 @@
 # Port of Bellingham
 ## 2025-26
 
+### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
+
 ## [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 * 👍 Michael Hogan
 

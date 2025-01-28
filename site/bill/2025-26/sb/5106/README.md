@@ -14,17 +14,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161930&caId=25033&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161930&caId=25033&tId=4)
 
-#### 130 👍 - Pro
+#### 408 👍 - Pro
 Testifying:
 * Wahaj uddin Mohammed
 * Alias F - Op
 * Aamena Ellithy
 * Shehzad Qureshi
 * Ruslan Baltabayev
+* Laila Saliba - Washington for Peace and Justice
+* 💵Aya Samman
+* 💵Aya Samman
+* Amna Qazi - 1806 , 15th ave south west
+* Aysha Siddiqui
+* Afshan Khan
+* Zyad Altheeb - 604 South 82nd Ave. unit 3
+* Michelle Ryder
+* Anik Vahora
+* Sarah Karim
+* Samia El-Moslimany
 
-#### 276 👎 - Con
+#### 598 👎 - Con
 
-#### 7 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Arwa Abdulrahman
 * Lama Darawsha

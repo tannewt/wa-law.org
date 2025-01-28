@@ -1,7 +1,7 @@
 # Climate Solutions
 ## 2025-26
 
-### [HB 1015](/bill/2025-26/hb/1015/) - Concerning energy labeling of residential buildings. 👍1  
+### [HB 1015](/bill/2025-26/hb/1015/) - Energy labeling/residential 👍1  
 
 ### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act. 👍1  
 
@@ -26,6 +26,10 @@
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
 * 👍💵 Leah Missik
 
+### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
+
+### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
+
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 * 👍💵 Leah Missik
 
@@ -37,11 +41,13 @@
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
 * ❓💵 Altinay Karasapan
 
-## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+
+## [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
 
 ## 2023-24
 
-### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management 👍1  
+### [SB 5438](/bill/2023-24/sb/5438/) - Hydrofluorocarbons 👍1  
 
 ### [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍2  
 * 👍💵 Leah Missik
