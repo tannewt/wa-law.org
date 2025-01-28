@@ -14,10 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162233&caId=25078&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162233&caId=25078&tId=4)
 
-#### 2 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Scott Ahlf - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
-#### 3 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other

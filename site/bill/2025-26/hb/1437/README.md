@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32578&aId=162083&caId=25087&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32578&aId=162083&caId=25087&tId=4)
 
-#### 152 👍 - Pro
+#### 164 👍 - Pro
 Testifying:
 * Matthew Ozuna - State of Washington Tourism
 * Cliff Myers - Visit Vancouver Washington
@@ -24,6 +24,8 @@ Testifying:
 * Annie McGrath - State of Washington Tourism
 * David Blandford - State of Washington Tourism
 * Judy Feldman - Organic Farm School
+* Anthony Anton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Nathan Caferro - Snohomish County Sports Commission
 
 #### 2 👎 - Con
 

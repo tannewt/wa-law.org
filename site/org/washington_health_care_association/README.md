@@ -1,12 +1,14 @@
 # Washington Health Care Association
 ## 2025-26
 
-## [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
+## [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍2  
+* 👍 Carma Matti-Jackson
 * 👍 Carma Matti-Jackson
 
 ## 2023-24
 
-### [SB 5344](/bill/2023-24/sb/5344/) - Essential worker health care 👍1  
+### [SB 5344](/bill/2023-24/sb/5344/) - Essential worker health care 👍2  
+* 👍 Carma Matti-Jackson
 * 👍 Carma Matti-Jackson
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  ❓1

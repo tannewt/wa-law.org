@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162203&caId=25109&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162203&caId=25109&tId=4)
 
-#### 230 👍 - Pro
+#### 250 👍 - Pro
 Testifying:
 * 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
@@ -25,12 +25,20 @@ Testifying:
 * Robin Vercruse - [Low Carbon Fuels Coalition](/org/low_carbon_fuels_coalition/)
 * Aimee Higby - Tacoma Public Utilities/Tacoma Power
 * Michael Breish - Seattle City Light/City of Seattle
+* Cory-Ann Wind - [Clean Fuels Alliance America](/org/clean_fuels_alliance_america/)
+* Scott Richards - [Clean Fuels Alliance America](/org/clean_fuels_alliance_america/)
+* Sam Wade - Coalition for Renewable Natural Gas
+* Dean Taylor - Dean Taylor Consulting
 
-#### 696 👎 - Con
+#### 790 👎 - Con
 Testifying:
 * 💵Jessica Spiegel - WSPA
 * Ben Buchholz - NW Agricultural Cooperative Council, WA Friends of Farms and Forests, Far West Agribusiness Assoc.
+* Jeff Pack - Me
 
-#### 5 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * 💵Tom Wolf - bp America
+* Joel Creswell - Washington State Department of Ecology
+* 💵Isaac Kastama - Clean & Prosperous Washington
+* Todd Myers

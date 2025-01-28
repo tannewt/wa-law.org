@@ -96,7 +96,7 @@ Testifying:
 Testifying:
 * Rozana Knutson
 * Loni Simone
-* Jeannie Magdua - Conservative Ladies of Washington
+* Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 6 ❓ - Other
 Testifying:

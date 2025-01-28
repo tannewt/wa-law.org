@@ -13,7 +13,7 @@
 ### Thu 02/09 01:30 PM - Early Learning & K-12 Education (EDU): SB 5442 Charter schools/enrichment
 #### 595 👍 - Pro
 Testifying:
-* Leslie Williams - Conservative Ladies of Washington
+* Leslie Williams - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Liv Finne - Washington Policy Center
 * Anessa Rodriguez - Lumen High School
 * Karen Lobos - Rainier Prep

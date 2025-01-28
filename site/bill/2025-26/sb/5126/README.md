@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161971&caId=24967&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161971&caId=24967&tId=4)
 
-#### 373 👍 - Pro
+#### 390 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Dr. Gwen Loosmore - Washington State PTA
@@ -26,6 +26,8 @@ Testifying:
 * Amy Cannava - Washington State Association of School Psychologists
 * LICSW, MHA, Roger Dowdy - Providence's Well Being Trust
 
-#### 906 👎 - Con
+#### 1065 👎 - Con
+Testifying:
+* Gabriel Jacobs
 
 #### 0 ❓ - Other

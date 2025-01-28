@@ -8,9 +8,10 @@
 
 ## Meetings
 ### Mon 01/27 01:30 PM - Human Services (HS): SB 5318 Background checks
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Upkar Mangat - DSHS Developmental Disabilities Administration
+* Megan Desmet - DDA/DSHS
 
 #### 0 👎 - Con
 

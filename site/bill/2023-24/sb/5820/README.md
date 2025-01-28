@@ -19,7 +19,7 @@
 Testifying:
 * Tim Eyman - Initiative Activist
 * Laurie Layne
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Anthony Mixer - Washington State Young Republicans
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Dawn Land - Mom who filed Referendum 101

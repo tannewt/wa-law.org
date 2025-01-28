@@ -112,4 +112,4 @@ Testifying:
 #### 5 ❓ - Other
 Testifying:
 * Lindsay Herendeen - State Board of Health
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)

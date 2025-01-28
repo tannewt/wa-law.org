@@ -48,9 +48,11 @@
 
 ### [HB 1161](/bill/2025-26/hb/1161/) - Veteran employability 👍1  
 
+### [HB 1172](/bill/2025-26/hb/1172/) - Fire district civil service 👍1  
+
 ### [HB 1182](/bill/2025-26/hb/1182/) - Granting interest arbitration to certain parks and recreation commission employees. 👍1  
 
-### [HB 1183](/bill/2025-26/hb/1183/) - Concerning building code and development regulation reform. 👍1  
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍1  
 
 ### [HB 1186](/bill/2025-26/hb/1186/) - Expanding the situations in which medications can be dispensed or delivered from hospitals and health care entities. 👍1  
 
@@ -61,6 +63,8 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget  👎1 
 * 👎💵 Larry Delaney
 
+### [HB 1200](/bill/2025-26/hb/1200/) - DD parental caregivers 👍1  
+
 ### [HB 1202](/bill/2025-26/hb/1202/) - State gen. obligation bonds 👍1  
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
@@ -70,6 +74,8 @@
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
+
+### [HB 1256](/bill/2025-26/hb/1256/) - Public works/made in US 👍1  
 
 ### [HB 1259](/bill/2025-26/hb/1259/) - Concerning supervision requirements for behavioral health professionals in elementary and secondary public schools.   ❓1
 * ❓💵 Nasue Nishida
@@ -100,7 +106,11 @@
 
 ### [HB 1313](/bill/2025-26/hb/1313/) - Mass layoffs 👍1  
 
+### [HB 1314](/bill/2025-26/hb/1314/) - Early learning facilities 👍1  
+
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
+
+### [HB 1332](/bill/2025-26/hb/1332/) - Transp. network companies 👍1  
 
 ### [HB 1349](/bill/2025-26/hb/1349/) - Pension credit for leave 👍1  
 
@@ -115,6 +125,10 @@
 
 ### [HB 1418](/bill/2025-26/hb/1418/) - PTBA governing body members 👍1  
 
+### [HB 1419](/bill/2025-26/hb/1419/) - Interpreter background check 👍1  
+
+### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
+
 ### [HB 1434](/bill/2025-26/hb/1434/) - Eid al-Fitr & Eid al-Adha 👍1  
 
 ### [HB 1450](/bill/2025-26/hb/1450/) - Transition to kindergarten  👎5 
@@ -123,6 +137,8 @@
 ### [HB 1511](/bill/2025-26/hb/1511/) - Ferry captains 👍1  
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
+
+### [HB 1524](/bill/2025-26/hb/1524/) - Concerning workplace standards and requirements applicable to employers of isolated employees. 👍1  
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -140,6 +156,8 @@
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
+### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers 👍1  
+
 ### [SB 5044](/bill/2025-26/sb/5044/) - Supp. retirement bargaining 👍1  
 
 ### [SB 5051](/bill/2025-26/sb/5051/) - Nursing assistant regulation 👍1  
@@ -149,6 +167,8 @@
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍2  
+
+### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
 
 ### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍1  
 
@@ -263,13 +283,27 @@
 
 ### [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍1  
 
+### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply 👍1  
+
 ### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍1  
 
-## [SB 5381](/bill/2025-26/sb/5381/) - Self-insurer withdrawal 👍1  
+### [SB 5336](/bill/2025-26/sb/5336/) - Isolated employees 👍1  
+
+### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
+
+### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
+
+### [SB 5381](/bill/2025-26/sb/5381/) - Self-insurer withdrawal 👍1  
+
+### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 
+
+### [SB 5433](/bill/2025-26/sb/5433/) - DOC employee bargaining 👍1  
+
+## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 
 ## 2023-24
 
-### [SB 5381](/bill/2023-24/sb/5381/) - Self-insurer withdrawal 👍1  
+### [SB 5466](/bill/2023-24/sb/5466/) - Electric transmission system 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 

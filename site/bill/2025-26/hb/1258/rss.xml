@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1258/</link>
 		<description>Updates about HB 1258</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 02:05:09 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 08:31:56 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,38 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Matthew/Vinci/2025-01-27 02:05:09</guid>
+		</item>
+		<item>
+			<title>👎Frank Soto Jr - Spokane Valley Fire Department</title>
+			<description>Frank Soto Jr signed up to testify Con. They are signed up to represent Spokane Valley Fire Department.</description>
+			<pubDate>Tue, 28 Jan 2025 07:57:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Frank/Soto Jr/2025-01-28 07:57:28</guid>
+		</item>
+		<item>
+			<title>👎John Guarisco - SVFD</title>
+			<description>John Guarisco signed up to testify Con. They are signed up to represent SVFD.</description>
+			<pubDate>Tue, 28 Jan 2025 08:12:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/John/Guarisco/2025-01-28 08:12:46</guid>
+		</item>
+		<item>
+			<title>👎Patrick Burch - Spokane Valley Fire Department</title>
+			<description>Patrick Burch signed up to testify Con. They are signed up to represent Spokane Valley Fire Department.</description>
+			<pubDate>Tue, 28 Jan 2025 08:14:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Patrick/Burch/2025-01-28 08:14:45</guid>
+		</item>
+		<item>
+			<title>👎John Guarisco - Remax</title>
+			<description>John Guarisco signed up to testify Con. They are signed up to represent Remax.</description>
+			<pubDate>Tue, 28 Jan 2025 08:31:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/John/Guarisco/2025-01-28 08:31:56</guid>
 		</item>
 	</channel>
 </rss>

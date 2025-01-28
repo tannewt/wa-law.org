@@ -20,6 +20,6 @@ Testifying:
 #### 1042 👎 - Con
 Testifying:
 * Rhonda Looney - None
-* Jeannie Magdua - Conservative Ladies of Washington
+* Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 2 ❓ - Other

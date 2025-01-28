@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32589&aId=162155&caId=24983&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32589&aId=162155&caId=24983&tId=4)
 
-#### 122 👍 - Pro
+#### 129 👍 - Pro
 Testifying:
 * Andrew Loomis - Avamere
 * Ken Gardner - SEIU 775 Benefits Group
@@ -25,7 +25,10 @@ Testifying:
 * JoLynn Munro - Avamere Rehab
 * Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
 * 💵Sterling Harders - SEIU 775 the long-term caregiver's union
+* Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 
-#### 13 ❓ - Other
+#### 15 ❓ - Other
+Testifying:
+* Peter Graham - Department of Social and Health Services Aging and Long-Term Support Administration

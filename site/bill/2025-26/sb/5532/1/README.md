@@ -1,0 +1,331 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5532](/bill/2025-26/sb/5532/) > [Original Bill](/bill/2025-26/sb/5532/1/)
+
+# SB 5532 - Child abuse & DV/standards
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5532.pdf)
+
+## Section 1
+1. The administrative office of the courts may develop and implement an ongoing education and training program for judges, magistrates, and other relevant court personnel, including guardians ad litem, counsel for children, and mediators regarding child abuse. The education and training program must include all aspects of the maltreatment of children, including:
+
+    a. Sexual abuse;
+
+    b. Physical abuse;
+
+    c. Psychological and emotional abuse;
+
+    d. Implicit and explicit bias;
+
+    e. Trauma and neglect; and
+
+    f. The impact of child abuse and domestic violence on children.
+
+2. The education and training program under subsection (1) of this section must include the latest best practices from evidence-based, peer-reviewed research by recognized experts, including statewide family violence experts, in the types of child abuse specified under subsection (1) of this section. The education and training program under subsection (1) of this section must be designed to educate and train relevant court personnel on all of the factors listed under RCW 26.09.187 and improve the ability of courts to make appropriate custody decisions that are in the best interest of the child, including education and training regarding the impact of child abuse, domestic abuse, and trauma on a victim.
+
+3. Child and family court investigators, guardians ad litem, evaluators, judicial officers, and commissioners, must complete:
+
+    a. No less than 20 hours of initial training; and
+
+    b. No less than 15 hours of ongoing training every five years.
+
+4. The education and training program under subsection (1) of this section must conform with the requirements for increased federal grant funding under 34 U.S.C. Sec. 10446(k).
+
+## Section 2
+1. All guardians ad litem must comply with the following training requirements  prior to their appointment in cases under Title 13 RCW, except that volunteer guardians ad litem or court-appointed special advocates may comply with alternative training requirements approved by the administrative office of the courts that meet or exceed the statewide requirements:
+
+    a. Training requirements established under RCW 2.56.030(15); and
+
+    b. Training requirements established under section 1 of this act.
+
+2. [Empty]
+
+    a. Each guardian ad litem program for compensated guardians ad litem shall establish a rotational registry system for the appointment of guardians ad litem. If a judicial district does not have a program the court shall establish the rotational registry system. Guardians ad litem shall be selected from the registry except in exceptional circumstances as determined and documented by the court. The parties may make a joint recommendation for the appointment of a guardian ad litem from the registry.
+
+    b. In judicial districts with a population over one hundred thousand, a list of three names shall be selected from the registry and given to the parties along with the background information as specified in RCW 13.34.100(3), including their hourly rate for services. Each party may, within three judicial days, strike one name from the list. If more than one name remains on the list, the court shall make the appointment from the names on the list. In the event all three names are stricken the person whose name appears next on the registry shall be appointed.
+
+    c. If a party reasonably believes that the appointed guardian ad litem lacks the necessary expertise for the proceeding, charges an hourly rate higher than what is reasonable for the particular proceeding, or has a conflict of interest, the party may, within three judicial days from the appointment, move for substitution of the appointed guardian ad litem by filing a motion with the court.
+
+    d. The superior court shall remove any person from the guardian ad litem registry who misrepresents his or her qualifications pursuant to a grievance procedure established by the court.
+
+3. The rotational registry system shall not apply to court-appointed special advocate programs.
+
+## Section 3
+Except as provided in RCW 18.130.450, the following conduct, acts, or conditions constitute unprofessional conduct for any license holder under the jurisdiction of this chapter:
+
+1. The commission of any act involving moral turpitude, dishonesty, or corruption relating to the practice of the person's profession, whether the act constitutes a crime or not. If the act constitutes a crime, conviction in a criminal proceeding is not a condition precedent to disciplinary action. Upon such a conviction, however, the judgment and sentence is conclusive evidence at the ensuing disciplinary hearing of the guilt of the license holder of the crime described in the indictment or information, and of the person's violation of the statute on which it is based. For the purposes of this section, conviction includes all instances in which a plea of guilty or nolo contendere is the basis for the conviction and all proceedings in which the sentence has been deferred or suspended. Nothing in this section abrogates rights guaranteed under chapter 9.96A RCW;
+
+2. Misrepresentation or concealment of a material fact in obtaining a license or in reinstatement thereof;
+
+3. All advertising which is false, fraudulent, or misleading;
+
+4. Incompetence, negligence, or malpractice which results in injury to a patient or which creates an unreasonable risk that a patient may be harmed. The use of a nontraditional treatment by itself shall not constitute unprofessional conduct, provided that it does not result in injury to a patient or create an unreasonable risk that a patient may be harmed;
+
+5. Suspension, revocation, or restriction of the individual's license to practice any health care profession by competent authority in any state, federal, or foreign jurisdiction, a certified copy of the order, stipulation, or agreement being conclusive evidence of the revocation, suspension, or restriction;
+
+6. The possession, use, prescription for use, or distribution of controlled substances or legend drugs in any way other than for legitimate or therapeutic purposes, diversion of controlled substances or legend drugs, the violation of any drug law, or prescribing controlled substances for oneself;
+
+7. Violation of any state or federal statute or administrative rule regulating the profession in question, including any statute or rule defining or establishing standards of patient care or professional conduct or practice;
+
+8. Failure to cooperate with the disciplining authority by:
+
+    a. Not furnishing any papers, documents, records, or other items;
+
+    b. Not furnishing in writing a full and complete explanation covering the matter contained in the complaint filed with the disciplining authority;
+
+    c. Not responding to subpoenas issued by the disciplining authority, whether or not the recipient of the subpoena is the accused in the proceeding; or
+
+    d. Not providing reasonable and timely access for authorized representatives of the disciplining authority seeking to perform practice reviews at facilities utilized by the license holder;
+
+9. Failure to comply with an order issued by the disciplining authority or a stipulation for informal disposition entered into with the disciplining authority;
+
+10. Aiding or abetting an unlicensed person to practice when a license is required;
+
+11. Violations of rules established by any health agency;
+
+12. Practice beyond the scope of practice as defined by law or rule;
+
+13. Misrepresentation or fraud in any aspect of the conduct of the business or profession;
+
+14. Failure to adequately supervise auxiliary staff to the extent that the consumer's health or safety is at risk;
+
+15. Engaging in a profession involving contact with the public while suffering from a contagious or infectious disease involving serious risk to public health;
+
+16. Promotion for personal gain of any unnecessary or inefficacious drug, device, treatment, procedure, or service;
+
+17. Conviction of any gross misdemeanor or felony relating to the practice of the person's profession. For the purposes of this subsection, conviction includes all instances in which a plea of guilty or nolo contendere is the basis for conviction and all proceedings in which the sentence has been deferred or suspended. Nothing in this section abrogates rights guaranteed under chapter 9.96A RCW;
+
+18. The offering, undertaking, or agreeing to cure or treat disease by a secret method, procedure, treatment, or medicine, or the treating, operating, or prescribing for any health condition by a method, means, or procedure which the licensee refuses to divulge upon demand of the disciplining authority;
+
+19. The willful betrayal of a practitioner-patient privilege as recognized by law;
+
+20. Violation of chapter 19.68 RCW or a pattern of violations of RCW 41.05.700(8), 48.43.735(8), 48.49.020, 48.49.030, 71.24.335(8), or 74.09.325(8);
+
+21. Interference with an investigation or disciplinary proceeding by willful misrepresentation of facts before the disciplining authority or its authorized representative, or by the use of threats or harassment against any patient or witness to prevent them from providing evidence in a disciplinary proceeding or any other legal action, or by the use of financial inducements to any patient or witness to prevent or attempt to prevent him or her from providing evidence in a disciplinary proceeding;
+
+22. Current misuse of:
+
+    a. Alcohol;
+
+    b. Controlled substances; or
+
+    c. Legend drugs;
+
+23. Abuse of a client or patient or sexual contact with a client or patient;
+
+24. Acceptance of more than a nominal gratuity, hospitality, or subsidy offered by a representative or vendor of medical or health-related products or services intended for patients, in contemplation of a sale or for use in research publishable in professional journals, where a conflict of interest is presented, as defined by rules of the disciplining authority, in consultation with the department, based on recognized professional ethical standards;
+
+25. Violation of RCW 18.130.420;
+
+26. Performing conversion therapy on a patient under age eighteen;
+
+27. Violation of RCW 18.130.430;
+
+28. Violation of RCW 18.130.460;
+
+29. Implanting the license holder's own gametes or reproductive material into a patient; or
+
+30. Performing reunification therapy with a parent and child, whereby the parent has physically or sexually abused that child, or has committed acts of domestic violence and has not yet satisfied requirements under RCW 7.105.405(4)(a).
+
+## Section 4
+The definitions in this section apply throughout this chapter.
+
+## Section 5
+1. The permanent parenting plan shall not require mutual decision-making or designation of a dispute resolution process other than court action if it is found that a parent has engaged in any of the following conduct: (a) Willful abandonment that continues for an extended period of time or substantial refusal to perform parenting functions; (b) physical, sexual, or a pattern of emotional abuse of a child; or (c) a history of acts of domestic violence as defined in RCW 7.105.010 or an assault or sexual assault that causes grievous bodily harm or the fear of such harm or that results in a pregnancy.
+
+2. [Empty]
+
+    a. The parent's residential time with the child shall be limited if it is found that the parent has engaged in any of the following conduct: (i) Willful abandonment that continues for an extended period of time or substantial refusal to perform parenting functions; (ii) physical, sexual, or a pattern of emotional abuse of a child; (iii) a history of acts of domestic violence as defined in RCW 7.105.010 or an assault or sexual assault that causes grievous bodily harm or the fear of such harm or that results in a pregnancy; or (iv) the parent has been convicted as an adult of a sex offense under:
+
+(A) RCW 9A.44.076 if, because of the difference in age between the offender and the victim, no rebuttable presumption exists under (d) of this subsection;
+
+(B) RCW 9A.44.079 if, because of the difference in age between the offender and the victim, no rebuttable presumption exists under (d) of this subsection;
+
+(C) RCW 9A.44.086 if, because of the difference in age between the offender and the victim, no rebuttable presumption exists under (d) of this subsection;
+
+(D) RCW 9A.44.089;
+
+(E) RCW 9A.44.093;
+
+(F) RCW 9A.44.096;
+
+(G) RCW 9A.64.020 (1) or (2) if, because of the difference in age between the offender and the victim, no rebuttable presumption exists under (d) of this subsection;
+
+(H) Chapter 9.68A RCW;
+
+(I) Any predecessor or antecedent statute for the offenses listed in (a)(iv)(A) through (H) of this subsection;
+
+(J) Any statute from any other jurisdiction that describes an offense analogous to the offenses listed in (a)(iv)(A) through (H) of this subsection.
+
+This subsection (2)(a) shall not apply when (c) or (d) of this subsection applies.
+
+    b. The parent's residential time with the child shall be limited if it is found that the parent resides with a person who has engaged in any of the following conduct: (i) Physical, sexual, or a pattern of emotional abuse of a child; (ii) a history of acts of domestic violence as defined in RCW 7.105.010 or an assault or sexual assault that causes grievous bodily harm or the fear of such harm or that results in a pregnancy; or (iii) the person has been convicted as an adult or as a juvenile has been adjudicated of a sex offense under:
+
+(A) RCW 9A.44.076 if, because of the difference in age between the offender and the victim, no rebuttable presumption exists under (e) of this subsection;
+
+(B) RCW 9A.44.079 if, because of the difference in age between the offender and the victim, no rebuttable presumption exists under (e) of this subsection;
+
+(C) RCW 9A.44.086 if, because of the difference in age between the offender and the victim, no rebuttable presumption exists under (e) of this subsection;
+
+(D) RCW 9A.44.089;
+
+(E) RCW 9A.44.093;
+
+(F) RCW 9A.44.096;
+
+(G) RCW 9A.64.020 (1) or (2) if, because of the difference in age between the offender and the victim, no rebuttable presumption exists under (e) of this subsection;
+
+(H) Chapter 9.68A RCW;
+
+(I) Any predecessor or antecedent statute for the offenses listed in (b)(iii)(A) through (H) of this subsection;
+
+(J) Any statute from any other jurisdiction that describes an offense analogous to the offenses listed in (b)(iii)(A) through (H) of this subsection.
+
+This subsection (2)(b) shall not apply when (c) or (e) of this subsection applies.
+
+    c. If a parent has been found to be a sexual predator under chapter 71.09 RCW or under an analogous statute of any other jurisdiction, the court shall restrain the parent from contact with a child that would otherwise be allowed under this chapter. If a parent resides with an adult or a juvenile who has been found to be a sexual predator under chapter 71.09 RCW or under an analogous statute of any other jurisdiction, the court shall restrain the parent from contact with the parent's child except contact that occurs outside that person's presence.
+
+    d. There is a rebuttable presumption that a parent who has been convicted as an adult of a sex offense listed in (d)(i) through (ix) of this subsection poses a present danger to a child. Unless the parent rebuts this presumption, the court shall restrain the parent from contact with a child that would otherwise be allowed under this chapter:
+
+        i. RCW 9A.64.020 (1) or (2), provided that the person convicted was at least five years older than the other person;
+
+        ii. RCW 9A.44.073;
+
+        iii. RCW 9A.44.076, provided that the person convicted was at least eight years older than the victim;
+
+        iv. RCW 9A.44.079, provided that the person convicted was at least eight years older than the victim;
+
+    v. RCW 9A.44.083;
+
+    vi. RCW 9A.44.086, provided that the person convicted was at least eight years older than the victim;
+
+    vii. RCW 9A.44.100;
+
+    viii. Any predecessor or antecedent statute for the offenses listed in (d)(i) through (vii) of this subsection;
+
+        ix. Any statute from any other jurisdiction that describes an offense analogous to the offenses listed in (d)(i) through (vii) of this subsection.
+
+    e. There is a rebuttable presumption that a parent who resides with a person who, as an adult, has been convicted, or as a juvenile has been adjudicated, of the sex offenses listed in (e)(i) through (ix) of this subsection places a child at risk of abuse or harm when that parent exercises residential time in the presence of the convicted or adjudicated person. Unless the parent rebuts the presumption, the court shall restrain the parent from contact with the parent's child except for contact that occurs outside of the convicted or adjudicated person's presence:
+
+        i. RCW 9A.64.020 (1) or (2), provided that the person convicted was at least five years older than the other person;
+
+        ii. RCW 9A.44.073;
+
+        iii. RCW 9A.44.076, provided that the person convicted was at least eight years older than the victim;
+
+        iv. RCW 9A.44.079, provided that the person convicted was at least eight years older than the victim;
+
+    v. RCW 9A.44.083;
+
+    vi. RCW 9A.44.086, provided that the person convicted was at least eight years older than the victim;
+
+    vii. RCW 9A.44.100;
+
+    viii. Any predecessor or antecedent statute for the offenses listed in (e)(i) through (vii) of this subsection;
+
+        ix. Any statute from any other jurisdiction that describes an offense analogous to the offenses listed in (e)(i) through (vii) of this subsection.
+
+    f. The presumption established in (d) of this subsection may be rebutted only after a written finding that the child was not conceived and subsequently born as a result of a sexual assault committed by the parent requesting residential time and that:
+
+        i. If the child was not the victim of the sex offense committed by the parent requesting residential time, (A) contact between the child and the offending parent is appropriate and poses minimal risk to the child, and (B) the offending parent has successfully engaged in treatment for sex offenders or is engaged in and making progress in such treatment, if any was ordered by a court, and the treatment provider believes such contact is appropriate and poses minimal risk to the child; or
+
+        ii. If the child was the victim of the sex offense committed by the parent requesting residential time, (A) contact between the child and the offending parent is appropriate and poses minimal risk to the child, (B) if the child is in or has been in therapy for victims of sexual abuse, the child's counselor believes such contact between the child and the offending parent is in the child's best interest, and (C) the offending parent has successfully engaged in treatment for sex offenders or is engaged in and making progress in such treatment, if any was ordered by a court, and the treatment provider believes such contact is appropriate and poses minimal risk to the child.
+
+    g. The presumption established in (e) of this subsection may be rebutted only after a written finding that the child was not conceived and subsequently born as a result of a sexual assault committed by the parent requesting residential time and that:
+
+        i. If the child was not the victim of the sex offense committed by the person who is residing with the parent requesting residential time, (A) contact between the child and the parent residing with the convicted or adjudicated person is appropriate and that parent is able to protect the child in the presence of the convicted or adjudicated person, and (B) the convicted or adjudicated person has successfully engaged in treatment for sex offenders or is engaged in and making progress in such treatment, if any was ordered by a court, and the treatment provider believes such contact is appropriate and poses minimal risk to the child; or
+
+        ii. If the child was the victim of the sex offense committed by the person who is residing with the parent requesting residential time, (A) contact between the child and the parent in the presence of the convicted or adjudicated person is appropriate and poses minimal risk to the child, (B) if the child is in or has been in therapy for victims of sexual abuse, the child's counselor believes such contact between the child and the parent residing with the convicted or adjudicated person in the presence of the convicted or adjudicated person is in the child's best interest, and (C) the convicted or adjudicated person has successfully engaged in treatment for sex offenders or is engaged in and making progress in such treatment, if any was ordered by a court, and the treatment provider believes contact between the parent and child in the presence of the convicted or adjudicated person is appropriate and poses minimal risk to the child.
+
+    h. If the court finds that the parent has met the burden of rebutting the presumption under (f) of this subsection, the court may allow a parent who has been convicted as an adult of a sex offense listed in (d)(i) through (ix) of this subsection to have residential time with the child supervised by a neutral and independent adult and pursuant to an adequate plan for supervision of such residential time. The court shall not approve of a supervisor for contact between the child and the parent unless the court finds, based on the evidence, that the supervisor is willing and capable of protecting the child from harm. The court shall revoke court approval of the supervisor upon finding, based on the evidence, that the supervisor has failed to protect the child or is no longer willing or capable of protecting the child.
+
+        i. If the court finds that the parent has met the burden of rebutting the presumption under (g) of this subsection, the court may allow a parent residing with a person who has been adjudicated as a juvenile of a sex offense listed in (e)(i) through (ix) of this subsection to have residential time with the child in the presence of the person adjudicated as a juvenile, supervised by a neutral and independent adult and pursuant to an adequate plan for supervision of such residential time. The court shall not approve of a supervisor for contact between the child and the parent unless the court finds, based on the evidence, that the supervisor is willing and capable of protecting the child from harm. The court shall revoke court approval of the supervisor upon finding, based on the evidence, that the supervisor has failed to protect the child or is no longer willing or capable of protecting the child.
+
+    j. If the court finds that the parent has met the burden of rebutting the presumption under (g) of this subsection, the court may allow a parent residing with a person who, as an adult, has been convicted of a sex offense listed in (e)(i) through (ix) of this subsection to have residential time with the child in the presence of the convicted person supervised by a neutral and independent adult and pursuant to an adequate plan for supervision of such residential time. The court shall not approve of a supervisor for contact between the child and the parent unless the court finds, based on the evidence, that the supervisor is willing and capable of protecting the child from harm. The court shall revoke court approval of the supervisor upon finding, based on the evidence, that the supervisor has failed to protect the child or is no longer willing or capable of protecting the child.
+
+    k. A court shall not order unsupervised contact between the offending parent and a child of the offending parent who was sexually abused by that parent. A court may order unsupervised contact between the offending parent and a child who was not sexually abused by the parent after the presumption under (d) of this subsection has been rebutted and supervised residential time has occurred for at least two years with no further arrests or convictions of sex offenses involving children under chapter 9A.44 RCW, RCW 9A.64.020, or chapter 9.68A RCW and (i) the sex offense of the offending parent was not committed against a child of the offending parent, and (ii) the court finds that unsupervised contact between the child and the offending parent is appropriate and poses minimal risk to the child, after consideration of the testimony of a state-certified therapist, mental health counselor, or social worker with expertise in treating child sexual abuse victims who has supervised at least one period of residential time between the parent and the child, and after consideration of evidence of the offending parent's compliance with community supervision requirements, if any. If the offending parent was not ordered by a court to participate in treatment for sex offenders, then the parent shall obtain a psychosexual evaluation conducted by a certified sex offender treatment provider or a certified affiliate sex offender treatment provider indicating that the offender has the lowest likelihood of risk to reoffend before the court grants unsupervised contact between the parent and a child.
+
+    l. A court may order unsupervised contact between the parent and a child which may occur in the presence of a juvenile adjudicated of a sex offense listed in (e)(i) through (ix) of this subsection who resides with the parent after the presumption under (e) of this subsection has been rebutted and supervised residential time has occurred for at least two years during which time the adjudicated juvenile has had no further arrests, adjudications, or convictions of sex offenses involving children under chapter 9A.44 RCW, RCW 9A.64.020, or chapter 9.68A RCW, and (i) the court finds that unsupervised contact between the child and the parent that may occur in the presence of the adjudicated juvenile is appropriate and poses minimal risk to the child, after consideration of the testimony of a state-certified therapist, mental health counselor, or social worker with expertise in treatment of child sexual abuse victims who has supervised at least one period of residential time between the parent and the child in the presence of the adjudicated juvenile, and after consideration of evidence of the adjudicated juvenile's compliance with community supervision or parole requirements, if any. If the adjudicated juvenile was not ordered by a court to participate in treatment for sex offenders, then the adjudicated juvenile shall obtain a psychosexual evaluation conducted by a certified sex offender treatment provider or a certified affiliate sex offender treatment provider indicating that the adjudicated juvenile has the lowest likelihood of risk to reoffend before the court grants unsupervised contact between the parent and a child which may occur in the presence of the adjudicated juvenile who is residing with the parent.
+
+    m. [Empty]
+
+        i. The limitations imposed by the court under (a) or (b) of this subsection shall be reasonably calculated to protect the child from the physical, sexual, or emotional abuse or harm that could result if the child has contact with the parent requesting residential time. The limitations shall also be reasonably calculated to provide for the safety of the parent who may be at risk of physical, sexual, or emotional abuse or harm that could result if the parent has contact with the parent requesting residential time. The limitations the court may impose include, but are not limited to: Supervised contact between the child and the parent or completion of relevant counseling or treatment. If the court expressly finds based on the evidence that limitations on the residential time with the child will not adequately protect the child from the harm or abuse that could result if the child has contact with the parent requesting residential time, the court shall restrain the parent requesting residential time from all contact with the child.
+
+        ii. The court shall not enter an order under (a) of this subsection allowing a parent to have contact with a child if the parent has been found by clear and convincing evidence in a civil action or by a preponderance of the evidence in a dependency action to have sexually abused the child, except upon recommendation by an evaluator or therapist for the child that the child is ready for contact with the parent and will not be harmed by the contact. The court shall not enter an order allowing a parent to have contact with the child in the offender's presence if the parent resides with a person who has been found by clear and convincing evidence in a civil action or by a preponderance of the evidence in a dependency action to have sexually abused a child, unless the court finds that the parent accepts that the person engaged in the harmful conduct and the parent is willing to and capable of protecting the child from harm from the person.
+
+        iii. The court shall not enter an order under (a) of this subsection allowing a parent to have contact with a child if the parent has been found by clear and convincing evidence pursuant to RCW 26.26A.465 to have committed sexual assault, as defined in RCW 26.26A.465, against the child's parent, and that the child was born within three hundred twenty days of the sexual assault.
+
+        iv. If the court limits residential time under (a) or (b) of this subsection to require supervised contact between the child and the parent, the court shall not approve of a supervisor for contact between a child and a parent who has engaged in physical, sexual, or a pattern of emotional abuse of the child unless the court finds based upon the evidence that the supervisor accepts that the harmful conduct occurred and is willing to and capable of protecting the child from harm. The court shall revoke court approval of the supervisor upon finding, based on the evidence, that the supervisor has failed to protect the child or is no longer willing to or capable of protecting the child.
+
+    n. If the court expressly finds based on the evidence that contact between the parent and the child will not cause physical, sexual, or emotional abuse or harm to the child and that the probability that the parent's or other person's harmful or abusive conduct will recur is so remote that it would not be in the child's best interests to apply the limitations of (a), (b), and (m)(i) and (iv) of this subsection, or if the court expressly finds that the parent's conduct did not have an impact on the child, then the court need not apply the limitations of (a), (b), and (m)(i) and (iv) of this subsection. The weight given to the existence of a protection order issued under chapter 7.105 RCW or former chapter 26.50 RCW as to domestic violence is within the discretion of the court. This subsection shall not apply when (c), (d), (e), (f), (g), (h), (i), (j), (k), (l), and (m)(ii) of this subsection apply.
+
+3. A parent's involvement or conduct may have an adverse effect on the child's best interests, and the court may preclude or limit any provisions of the parenting plan, if any of the following factors exist:
+
+    a. A parent's neglect or substantial nonperformance of parenting functions;
+
+    b. A long-term emotional or physical impairment which interferes with the parent's performance of parenting functions as defined in RCW 26.09.004;
+
+    c. A long-term impairment resulting from drug, alcohol, or other substance abuse that interferes with the performance of parenting functions;
+
+    d. The absence or substantial impairment of emotional ties between the parent and the child;
+
+    e. The abusive use of conflict by the parent which creates the danger of serious damage to the child's psychological development. Abusive use of conflict includes, but is not limited to, abusive litigation as defined in RCW 26.51.020. If the court finds a parent has engaged in abusive litigation, the court may impose any restrictions or remedies set forth in chapter 26.51 RCW in addition to including a finding in the parenting plan. Litigation that is aggressive or improper but that does not meet the definition of abusive litigation shall not constitute a basis for a finding under this section. A report made in good faith to law enforcement, a medical professional, or child protective services of sexual, physical, or mental abuse of a child shall not constitute a basis for a finding of abusive use of conflict;
+
+    f. A parent has withheld from the other parent access to the child for a protracted period without good cause; or
+
+    g. Such other factors or conduct as the court expressly finds adverse to the best interests of the child.
+
+4. In cases involving allegations of limiting factors under subsection (2)(a)(ii) and (iii) of this section:
+
+    a. Both parties shall be screened to determine the appropriateness of a comprehensive assessment regarding the impact of the limiting factor on the child and the parties; and
+
+    b. The court shall consider the evidence outlined in section 7 of this act.
+
+5. In entering a permanent parenting plan, the court shall not draw any presumptions from the provisions of the temporary parenting plan.
+
+6. In determining whether any of the conduct described in this section has occurred, the court shall apply the civil rules of evidence, proof, and procedure.
+
+7. The court may not use the parenting plan for purposes prohibited in section 8(1) of this act and any reunification plan must comply with section 8(2) of this act.
+
+8. For the purposes of this section:
+
+    a. "A parent's child" means that parent's natural child, adopted child, or stepchild; and
+
+    b. "Social worker" means a person with a master's or further advanced degree from a social work educational program accredited and approved as provided in RCW 18.320.010.
+
+## Section 6
+After considering the affidavit required by RCW 26.09.194(1) , other relevant evidence presented, and any evident mandatory limitations under RCW 26.09.191, the court shall make a temporary parenting plan that is in the best interest of the child. In making this determination, the court shall give particular consideration to:
+
+1. The relative strength, nature, and stability of the child's relationship with each parent; and
+
+2. Which parenting arrangements will cause the least disruption to the child's emotional stability while the action is pending.
+
+The court shall also consider the factors used to determine residential provisions in the permanent parenting plan.
+
+## Section 7
+1. In all proceedings brought pursuant to this title concerning the allocation of parental responsibilities with respect to a child in which a claim of domestic violence or child abuse, including child sexual abuse, has been made to the court, or the court has reason to believe that a party has committed domestic violence or child abuse, including child sexual abuse, the court shall:
+
+    a. Consider the admission of expert testimony and evidence if the expert demonstrates expertise and experience working with victims of domestic violence or child abuse, including child sexual abuse, that is not solely forensic in nature; and
+
+    b. Consider evidence of past sexual or physical abuse committed by the accused party, including:
+
+        i. Any past or current protection or restraining orders against the accused party, including protection or restraining orders that raise sexual violence or abuse;
+
+        ii. Arrests of the accused party for domestic violence, sexual violence, or child abuse;
+
+        iii. Convictions of the accused party for domestic violence, sexual violence, or child abuse; or
+
+        iv. Other documentation, including letters from a victim advocate or victim service provider, if the victim consents to such disclosure; medical records; or a letter to a landlord to break a lease.
+
+2. In compliance with the federal keeping children safe from family violence act, Title 34 U.S.C. Sec. 10446, as amended, any neutral professional appointed by a court to express an opinion relating to abuse, trauma, or the behaviors of victims and perpetrators of abuse and trauma during a proceeding to allocate parental responsibilities shall possess demonstrated expertise and experience in working with victims of domestic violence or child abuse, including child sexual abuse, that is not solely of a forensic nature.
+
+## Section 8
+1. In determining allocation of parental responsibilities in proceedings brought pursuant to this chapter in which a claim of domestic violence or child abuse, including child sexual abuse, has been made to the court, or the court has reason to believe that a party has committed domestic violence or child abuse, including child sexual abuse, a court shall not:
+
+    a. Remove a child from a protective party solely to improve a deficient relationship with an accused party;
+
+    b. Restrict contact between a child and a protective party solely to improve a deficient relationship with an accused party;
+
+    c. Order reunification treatment, unless there is generally accepted and scientifically valid proof of the safety, effectiveness, and therapeutic value of the reunification treatment; or
+
+    d. Order reunification treatment that is predicated on cutting off the relationship between a child and the protective party.
+
+2. If a court issues an order to remediate the resistance of a child to have contact with an accused party, the order must primarily address the behavior of the accused party, who shall accept responsibility for the accused party's actions that negatively affected the accused party's relationship with the child, and the offender shall satisfy the requirements of RCW 7.105.405(4)(a) before the court orders a protective party to take steps to improve the relationship with the accused party. The court may not issue an order to remediate the resistance of a child to have contact with an accused party, who was found to have sexually abused the child.

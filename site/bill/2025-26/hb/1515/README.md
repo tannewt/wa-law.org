@@ -22,6 +22,6 @@ Testifying:
 * Marshall Foster - Seattle Center
 * Gloria Connors - Bumbershoot and FIFA Fan Festival
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

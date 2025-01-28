@@ -55,7 +55,7 @@ Testifying:
 * Nizama Djuderija
 * Muhammed Ibrahim
 * Hira Niaz
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Haneen Ali
 * Anne Anne Paxton - None
 

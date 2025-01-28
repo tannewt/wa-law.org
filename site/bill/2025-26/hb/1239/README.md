@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161958&caId=25105&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161958&caId=25105&tId=4)
 
-#### 613 👍 - Pro
+#### 642 👍 - Pro
 Testifying:
 * Aaron Delaney
 * Jacob Schmitt - Just Us Solutions, LLC
@@ -37,7 +37,10 @@ Testifying:
 * Na'Quel Walker - Collective Justice
 * Tyra Edwards - Collecitve Justice
 
-#### 3 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 4 ❓ - Other
 Testifying:

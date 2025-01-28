@@ -60,7 +60,7 @@ Testifying:
 
 #### 868 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Laurie Layne
 * Teo Morca
 
@@ -86,9 +86,9 @@ Testifying:
 
 #### 7 ❓ - Other
 Testifying:
-* Joy Gjersvold - Conservative Ladies of Washington
+* Joy Gjersvold - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Robert (Bob) Battles - Association of Washington Business (AWB)
-* Joy Gjersvold - Conservative Ladies of Washington
+* Joy Gjersvold - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Ashley Sutton - TechNet
 * Montana Miranda - [Washington Hospitality Association](/org/washington_hospitality_association/)
@@ -104,7 +104,7 @@ Testifying:
 
 #### 197 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Jeremy Perkins
 * Eric pratt - America
 

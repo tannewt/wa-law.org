@@ -92,7 +92,7 @@ Testifying:
 #### 485 👎 - Con
 Testifying:
 * Rachel Buck
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Laurie Layne
 * Gary Clancey
 * PAT STOWE - personal & business

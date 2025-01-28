@@ -5,7 +5,7 @@
 
 ### [HB 1133](/bill/2025-26/hb/1133/) - Concerning sexually violent predators. 👍1  
 
-### [HB 1183](/bill/2025-26/hb/1183/) - Concerning building code and development regulation reform.  👎1 
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes  👎1 
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
 

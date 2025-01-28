@@ -58,7 +58,7 @@ Testifying:
 Testifying:
 * Devony Audet - Parent of a student in special education
 * Jeremiah Audet - Student in special education
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Leslie Hamada - KSD Legislative Representative for 2023 and former President of the Board 2020 & 2022
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Leslie Hamada - Kent School District

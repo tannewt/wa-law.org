@@ -20,7 +20,7 @@ Testifying:
 
 #### 1092 👎 - Con
 Testifying:
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Sharon Damoff
 * Jennifer Heine-Withee
 
@@ -35,7 +35,7 @@ Testifying:
 
 #### 675 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Karilyn Holden
 * Virginia Griffiths
 

@@ -31,7 +31,7 @@ Testifying:
 * Mike Ennis - Association of Washington Business (AWB)
 * 💵Sheri Call - Washington Trucking Associations
 * Eric pratt - America
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * john Worthington
 * Charles Prestrud - Washington Policy Center
 * John Peeples - United States of America
@@ -75,7 +75,7 @@ Testifying:
 * 💵Jerry Vanderwood - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
 * Mike Ennis - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Sheri Call - Washington Trucking Associations
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Tim Eyman
 * Mark Crothers
 * Angelyn Gates

@@ -22,7 +22,7 @@ Testifying:
 
 #### 2293 👎 - Con
 Testifying:
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * 💵Jean Hill - Washington State Catholic Conference
 * Tiffany Blanco - Students for Life SPU
 * Christina Walden

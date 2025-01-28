@@ -27,7 +27,7 @@ Testifying:
 #### 950 👎 - Con
 Testifying:
 * Theresa Schrempp
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * 💵Jean Hill - Washington State Catholic Conference
 * 💵Brad Payne - Family Policy Institute of Washington
 

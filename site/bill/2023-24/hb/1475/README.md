@@ -23,7 +23,7 @@ Testifying:
 
 #### 164 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Susannah Goodman - Director, Election Security Program, Common Cause
 * Tim Eyman
 * Kevin McMahan - Secretary of State

@@ -11,20 +11,14 @@
 
 ## Meetings
 ### Tue 01/28 08:00 AM - Law & Justice (LAW): SB 5268 Unlawful firearm possession
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161871&caId=25025&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161871&caId=25025&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161871&caId=25025&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161871&caId=25025&tId=4)
-
-#### 1175 👍 - Pro
+#### 1207 👍 - Pro
 Testifying:
 * Laurie Layne
 * Ken Swenson - Modern Renovators, LLC
 * Valerie Schaler
 * 💵Anne Anderson - Washington State Narcotics Investigators Association
 
-#### 50 👎 - Con
+#### 54 👎 - Con
 Testifying:
 * Kari Reardon - WACDL/WDA
 

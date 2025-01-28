@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161896&caId=25157&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161896&caId=25157&tId=4)
 
-#### 17 👍 - Pro
+#### 19 👍 - Pro
 
-#### 17 👎 - Con
+#### 34 👎 - Con
 Testifying:
 * Cody Rohrbach - Spokane County Fire District 3
 * Matthew Vinci - Fire Chief, Spokane County Fire District 9
+* Frank Soto Jr - Spokane Valley Fire Department
+* John Guarisco - SVFD
+* Patrick Burch - Spokane Valley Fire Department
+* John Guarisco - Remax
 
 #### 0 ❓ - Other

@@ -4,6 +4,8 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍💵 Aaron Dickson
 
+### [HB 1344](/bill/2025-26/hb/1344/) - Respite care 👍1  
+
 ## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍💵 Aaron Dickson
 

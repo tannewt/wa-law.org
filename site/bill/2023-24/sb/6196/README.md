@@ -31,7 +31,7 @@ Testifying:
 
 #### 1689 👎 - Con
 Testifying:
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Sharon Damoff
 * Jeannette Mcchesney
 * bobbi moody

@@ -60,9 +60,9 @@ Testifying:
 Testifying:
 * Liv Finne - Washington Policy Center
 * John Coleman - Foundation for Individual Rights and Expression
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Sharon Damoff
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Marvin Treadwell
 * Jeannette Mcchesney
 * Teo Morca
@@ -91,7 +91,7 @@ Testifying:
 Testifying:
 * John Coleman - Foundation for Individual Rights and Expression
 * Jeannette Mcchesney
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Amanda McKinney - Yakima County
 * Liv Finne - Washington Policy Center
 * Teo Morca
@@ -115,7 +115,7 @@ Testifying:
 Testifying:
 * John Coleman - Foundation for Individual Rights and Expression (FIRE)
 * eric Pratt
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Rebecca Faust
 * C Davis - Washingtonians to Recall Inslee
 * suzanne rohner

@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162125&caId=25080&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162125&caId=25080&tId=4)
 
-#### 10 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Tammie Perreault - Department of Defense
 * Valerie Vasconez
+* Sheena Hathorn
 * Matthew Shillingburg - Veterans Legislative Coalition VFW Representative
+* Deirdre Farrell
 
 #### 0 👎 - Con
 

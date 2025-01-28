@@ -92,7 +92,7 @@ Testifying:
 Testifying:
 * Eric pratt - I, America
 * C Davis - Washingtonians to Recall Inslee
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Laurie Layne
 * Teo Morca
 * Sean Erickson
@@ -150,7 +150,7 @@ Testifying:
 * Tom Gaines
 * Ryan Lester
 * Shawn Ellis
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Jon Conley
 * Whitney Kestell
 * Bradley McClinton
@@ -218,7 +218,7 @@ Testifying:
 
 #### 2322 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Eric Pratt - America
 * Andrew Mesojednik - myself
 * JoAnn Tolentino

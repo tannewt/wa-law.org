@@ -30,7 +30,7 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 ### Mon 01/22 04:00 PM - Ways & Means (WM): SB 5837 State election database
 #### 121 👍 - Pro
@@ -55,7 +55,7 @@ Testifying:
 
 #### 194 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 1 ❓ - Other
 Testifying:

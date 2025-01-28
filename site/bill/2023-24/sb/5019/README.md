@@ -22,7 +22,7 @@ Testifying:
 
 #### 767 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Eric pratt - America
 
 #### 4 ❓ - Other

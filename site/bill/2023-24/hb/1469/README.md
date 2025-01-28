@@ -62,7 +62,7 @@ Testifying:
 Testifying:
 * Gabriel Jacobs
 * Julie Barrett - Parent
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Eric pratt - America
 * Bruce Monell
 
@@ -90,7 +90,7 @@ Testifying:
 * Team Freedom
 * Theresa Shirley - Team Freedom
 * Debra Parnham
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Alex Chrostowski - Gays Against Groomers
 * Dawn Land
 * Theresa Schrempp

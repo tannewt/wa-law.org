@@ -53,7 +53,7 @@ Testifying:
 #### 1549 👎 - Con
 Testifying:
 * Mike Smyth
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Sharon Damoff
 * Kim Slinger
 * jeremy a randall - moms for liberty
@@ -107,8 +107,8 @@ Testifying:
 * Leah Anaya - Washington Moms For America
 * Cindy Tucker
 * Laurie Layne
-* Mary Long - Conservative Ladies of Washington
-* Jeneen Breshears - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
+* Jeneen Breshears - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Eric Pratt - America
 
 #### 5 ❓ - Other

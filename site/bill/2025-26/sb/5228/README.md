@@ -18,7 +18,7 @@ Testifying:
 #### 1506 👎 - Con
 Testifying:
 * Michael A Moore - A & M striping
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 28 ❓ - Other
 Testifying:

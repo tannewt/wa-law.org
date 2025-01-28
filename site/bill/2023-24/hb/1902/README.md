@@ -54,7 +54,7 @@ Testifying:
 * Dave Workman - Citizens Committee for the Right to Keep and Bear Arms
 * John Nowels - [Spokane County](/org/spokane_county/)
 * Jon Nelson
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Carlos Herrera
 * Jane Milhans
 * Lisa Olson

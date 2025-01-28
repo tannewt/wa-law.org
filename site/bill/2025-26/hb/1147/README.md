@@ -31,7 +31,7 @@ Testifying:
 #### 500 👎 - Con
 Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * 💵Anne Anderson
 * Steve Hobbs - Office of the Secretary of State
 

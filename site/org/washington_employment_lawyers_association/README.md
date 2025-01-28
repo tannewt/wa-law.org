@@ -13,13 +13,16 @@
 ### [HB 1524](/bill/2025-26/hb/1524/) - Concerning workplace standards and requirements applicable to employers of isolated employees. 👍1  
 * 👍💵 Ellicott Dandy
 
-## [SB 5336](/bill/2025-26/sb/5336/) - Isolated employees 👍1  
+### [SB 5336](/bill/2025-26/sb/5336/) - Isolated employees 👍1  
 * 👍💵 Ellicott Dandy
+
+## [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures   ❓1
+* ❓💵 Ellicott Dandy
 
 ## 2023-24
 
-### [SB 5336](/bill/2023-24/sb/5336/) - Isolated employees 👍1  
-* 👍💵 Ellicott Dandy
+### [SB 5408](/bill/2023-24/sb/5408/) - Wage and salary disclosures   ❓1
+* ❓💵 Ellicott Dandy
 
 ### [HB 1136](/bill/2023-24/hb/1136/) - Employee expenditures 👍1  
 * 👍 Hardeep S. Rekhi

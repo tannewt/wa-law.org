@@ -45,7 +45,7 @@ Testifying:
 
 #### 633 👎 - Con
 Testifying:
-* Christina Callahan - Conservative Ladies of Washington
+* Christina Callahan - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 1 ❓ - Other
 

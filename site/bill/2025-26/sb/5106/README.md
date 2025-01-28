@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161930&caId=25033&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161930&caId=25033&tId=4)
 
-#### 408 👍 - Pro
+#### 641 👍 - Pro
 Testifying:
 * Wahaj uddin Mohammed
 * Alias F - Op
@@ -30,12 +30,20 @@ Testifying:
 * Zyad Altheeb - 604 South 82nd Ave. unit 3
 * Michelle Ryder
 * Anik Vahora
+* Saima Samad
 * Sarah Karim
 * Samia El-Moslimany
+* Mubashir Koul
+* Shaheen Hameed
+* Maryam sajid
+* Fathia Hassan
+* Nashad Safa
 
-#### 598 👎 - Con
+#### 689 👎 - Con
 
-#### 8 ❓ - Other
+#### 16 ❓ - Other
 Testifying:
 * Arwa Abdulrahman
 * Lama Darawsha
+* Mazen Aladwan
+* Zebiba Nur - Open hand childcare

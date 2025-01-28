@@ -21,11 +21,11 @@
 ### Thu 02/02 08:00 AM - Education (ED): HB 1615 Education savings accounts
 #### 172 👍 - Pro
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Lonny Ray Williams
 * Leslie Williams
 * Liv Finne - Washington Policy Center
-* Jeannie Magdua - Conservative Ladies of Washington
+* Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Quentin Orem
 * 💵Suzanne Hanson - Washington Federation of Independent Schools
 

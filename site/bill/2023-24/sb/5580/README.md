@@ -65,7 +65,7 @@ Testifying:
 ### Tue 02/07 08:00 AM - Health & Long Term Care (HLTC): SB 5580 Maternal health outcomes
 #### 37 👍 - Pro
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * 💵Megan Veith - [Building Changes](/org/building_changes/)
 * 💵Katherine Mahoney - [Virginia Mason Franciscan Health](/org/virginia_mason_franciscan_health/)
 * Cheryl Drumheller

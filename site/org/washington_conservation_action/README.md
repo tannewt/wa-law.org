@@ -22,6 +22,8 @@
 
 ### [SB 5236](/bill/2025-26/sb/5236/) - Anesthetics/greenhouse gases 👍1  
 
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+
 ### [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator  👎1 
 * 👎 Mindy Roberts
 

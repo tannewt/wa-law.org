@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162243&caId=24974&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162243&caId=24974&tId=4)
 
-#### 346 👍 - Pro
+#### 386 👍 - Pro
 Testifying:
 * 💵Mike Armstrong - A-Gas
 * Richie Kaur - Natural Resources Defense Council
@@ -26,11 +26,13 @@ Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Beth Porter - Environmental Investigation Agency
 
-#### 574 👎 - Con
+#### 662 👎 - Con
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Alex Ayers - HARDI
 * Mike Connors - Washington Potato and Onion Association
+* Joel Creswell - Washington State Department of Ecology
 * 💵Carolyn Logue - WA Air Conditioning Contractors Association
+* 💵Michael Transue - Mechanical Contractors Association of Western Washington

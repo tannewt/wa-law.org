@@ -11,15 +11,15 @@
 
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍1  
 
-## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎2 
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎2 
 * 👎 Wendy Weiker
 * 👎 Wendy Weiker
+
+## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
 
 ## 2023-24
 
-### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management  👎2 
-* 👎 Wendy Weiker
-* 👎 Wendy Weiker
+### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction  👎1 
 
 ### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management  👎5 
 * 👎 Jay O'Neal

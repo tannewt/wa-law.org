@@ -29,7 +29,7 @@ Testifying:
 * Suzanne Rohner
 * Tracy Grigsby
 * Lorilee Gates
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Henry Osgood
 * Joshua Hardwick
 * Gauri Sanghvi

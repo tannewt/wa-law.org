@@ -27,7 +27,7 @@ Testifying:
 Testifying:
 * Laurie Layne
 * 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Eric pratt - I, America
 * Teo Morca
 
@@ -43,7 +43,7 @@ Testifying:
 #### 37 👎 - Con
 Testifying:
 * Eric Pratt - America
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Tom Kwieciak - [National Rifle Association](/org/national_rifle_association_of_america/)
 
 #### 1 ❓ - Other

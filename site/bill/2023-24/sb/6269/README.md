@@ -30,7 +30,7 @@ Testifying:
 #### 561 👎 - Con
 Testifying:
 * Theresa Schrempp
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Sharon Damoff
 * Leslie Williams - Conservative Ladies of WA
 * Kim Slinger

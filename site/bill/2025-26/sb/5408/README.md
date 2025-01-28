@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162319&caId=25169&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162319&caId=25169&tId=4)
 
-#### 96 👍 - Pro
+#### 105 👍 - Pro
 Testifying:
 * 💵Amber Carter - WA Retail Association
 * Kevin Wallis - HND Holdings Co.
@@ -24,12 +24,14 @@ Testifying:
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 69 👎 - Con
+#### 71 👎 - Con
 Testifying:
 * Destinee Moliga
 * Vanessa Herold
 * Kyle Mitchell
+* Danielle Jefferis
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Kelli Carson - Washington State Association for Justice
+* 💵Ellicott Dandy - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)

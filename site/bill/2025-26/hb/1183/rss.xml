@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1183 - Concerning building code and development regulation reform.</title>
+		<title>HB 1183 - Building codes</title>
 		<link>https://wa-law.org/bill/2025-26/hb/1183/</link>
 		<description>Updates about HB 1183</description>
 		<language>en-US</language>
@@ -146,6 +146,13 @@
 			<pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-24/LG - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-24/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=4)
 
-#### 271 👍 - Pro
+#### 287 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Ray Thomas
@@ -107,14 +107,18 @@ Testifying:
 * Lora Rathbone
 * Lora Rathbone
 * Carolyn Stevens
+* Barbara Anderson - Retired
 * Lauren Schubring
 * Frances Goodrow
 * Judy LeBlanc - university gathering UMC
 * Marijke Fakasiieiki
 * Jess Ingman - [Faith Action Network](/org/faith_action_network/)
 * Oneida Arnold
+* Omar Mohamed - Elevate With Purpose Initiative
 
-#### 866 👎 - Con
+#### 1020 👎 - Con
+Testifying:
+* Gabriel Jacobs
 
 #### 2 ❓ - Other
 Testifying:

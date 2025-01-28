@@ -29,7 +29,7 @@ Testifying:
 #### 631 👎 - Con
 Testifying:
 * Natalie Chavez
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Jennifer Child
 * Bob Runnells - Informed Choice Washington
 * Bob Rogers

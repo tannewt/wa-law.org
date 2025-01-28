@@ -18,12 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162124&caId=25079&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162124&caId=25079&tId=4)
 
-#### 43 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * 💵John Traynor - washington state labor council, afl-cio
+* 💵Brandon Anderson - SPEEA (Aerospace Engineers)
 
-#### 6 👎 - Con
+#### 10 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Michael Transue - Mechanical Contractors Association of Western Washington
+* Josh Dye - Employment Security Department

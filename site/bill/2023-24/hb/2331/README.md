@@ -43,7 +43,7 @@ Testifying:
 #### 788 👎 - Con
 Testifying:
 * Andy Cilley
-* Joy Gjersvold - Conservative Ladies of Washington
+* Joy Gjersvold - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Sharon Damoff
 * Liv Finne - Washington Policy Center
 * Jennifer Heine-Withee

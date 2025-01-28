@@ -27,7 +27,7 @@ Testifying:
 #### 349 👎 - Con
 Testifying:
 * Eric pratt - America
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 6 ❓ - Other
 Testifying:
@@ -54,7 +54,7 @@ Testifying:
 #### 8 ❓ - Other
 Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
-* Joy Gjersvold - Conservative Ladies of Washington
+* Joy Gjersvold - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * 💵Ashley Sutton - TechNet
 * Robert (Bob) Battles - Association of Washington Business (AWB)
 * 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)

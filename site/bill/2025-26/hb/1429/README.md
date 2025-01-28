@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162296&caId=25094&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162296&caId=25094&tId=4)
 
-#### 358 👍 - Pro
+#### 379 👍 - Pro
 Testifying:
 * Michael Mirra - Association of Washington Housing Authorities; Admin. Office of the Courts Comm. on Housing & CW
 * Corrina Chatterton
@@ -26,6 +26,6 @@ Testifying:
 * 💵Roxana Gomez - Legal Council for Youth and Children
 * Esmina James-Secret
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other

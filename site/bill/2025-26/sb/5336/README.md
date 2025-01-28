@@ -14,14 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162254&caId=25014&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162254&caId=25014&tId=4)
 
-#### 14 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵Ellicott Dandy - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
 * Matt Haney - SEIU6 Property Services NW
 * Milixa Portillo - SEIU6
 * Sofia Pineda - SEIU6
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

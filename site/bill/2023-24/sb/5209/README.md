@@ -21,7 +21,7 @@ Testifying:
 Testifying:
 * Tim Eyman - INITIATIVE ACTIVIST
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Sharon Damoff
 * Laurie Layne
 * David Sedelmeier
@@ -42,7 +42,7 @@ Testifying:
 * Jeannette Mcchesney
 * Theresa Schrempp
 * Sharon Damoff
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * James Ware
 * LORILEE GATES
 * Kim Slinger
@@ -64,7 +64,7 @@ Testifying:
 * Andy Craig - Dir. of Election Policy, Rainey Center; Adj. Scholar, Cato Institute
 * Rozana Knutson
 * 💵Jude Ahmed
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Eric prattr - I, America
 * Lisa Olson
 * Suzanne Rohner

@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32607&aId=162186&caId=25112&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32607&aId=162186&caId=25112&tId=4)
 
-#### 530 👍 - Pro
+#### 575 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵John Traynor - washington state labor council, afl-cio
@@ -27,9 +27,12 @@ Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 
-#### 452 👎 - Con
+#### 529 👎 - Con
 Testifying:
 * Aidan Thornsberry
 * Claire Eberle
+* McKenzie Darr - NAIOP Washington State
 
-#### 7 ❓ - Other
+#### 8 ❓ - Other
+Testifying:
+* 💵Michael Transue - [City of Fife](/org/city_of_fife/)

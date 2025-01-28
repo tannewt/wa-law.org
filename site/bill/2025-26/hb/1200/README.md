@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162297&caId=25132&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162297&caId=25132&tId=4)
 
-#### 308 👍 - Pro
+#### 323 👍 - Pro
 Testifying:
 * Catherine Young - Tacoma Special education PTA
 * jessica morrow
@@ -33,6 +33,10 @@ Testifying:
 * Dominique Nkamicaniye - Seattle
 * Sai Samineni
 * Lori Helmy
+* Melissa Kerson
+* Michele Hagerstrom - Mary Bridge Children's Hospital
+* Bevan Martin
+* Whitney Stohr
 
 #### 1 👎 - Con
 

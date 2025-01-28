@@ -17,11 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162001&caId=25091&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162001&caId=25091&tId=4)
 
-#### 61 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Michael Mirra - Association of Washington Housing Authorities; Admin. Office of the Courts Comm. on Housing & CW
 * Kim Justice - Partners for Our Children
 * Tara Urs - King County Department of Public Defense
+* Gina Wassemiller - FIRST Clinic
+* 💵Shrounda Selivanoff - Washington State Office of Public Defense
 
 #### 0 👎 - Con
 

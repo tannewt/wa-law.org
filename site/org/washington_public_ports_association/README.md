@@ -4,6 +4,9 @@
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
 * 👍💵 Christopher Herman
 
+### [HB 1058](/bill/2025-26/hb/1058/) - Freight railroad infra. 👍1  
+* 👍 Chris Herman
+
 ### [HB 1064](/bill/2025-26/hb/1064/) - System improvement team 👍1  
 
 ### [HB 1109](/bill/2025-26/hb/1109/) - Public facilities districts 👍1  

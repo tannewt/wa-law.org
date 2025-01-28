@@ -40,7 +40,7 @@ Testifying:
 
 #### 1660 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Eric Pratt - America
 * Eric Pratt - America
 * Andrew Mesojednik - myself

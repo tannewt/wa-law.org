@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/28 08:00 AM - Early Learning & K-12 Education (EDU): SB 5007 Chronically absent students
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32552&aId=161948&caId=24963&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32552&aId=161948&caId=24963&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32552&aId=161948&caId=24963&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32552&aId=161948&caId=24963&tId=4)
-
-#### 233 👍 - Pro
+#### 273 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Shane Backland - Association of Educational Service Districts -  AESD
@@ -30,6 +24,8 @@ Testifying:
 * Dixie Grunenfelder - Office of Superintendent of Public Instruction
 * Mason Bryant
 
-#### 1589 👎 - Con
+#### 1726 👎 - Con
+Testifying:
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 0 ❓ - Other

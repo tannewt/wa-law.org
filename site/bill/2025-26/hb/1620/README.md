@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162353&caId=25204&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162353&caId=25204&tId=4)
 
-#### 45 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Chandra Ifie - Survivor Parent
@@ -24,7 +24,7 @@ Testifying:
 * Mary Welch - Northwest Justice Project
 * Gaston Shelton
 
-#### 28 👎 - Con
+#### 38 👎 - Con
 Testifying:
 * 💵Evangeline Stratton
 * Tamara Emerson - 3221 s 17th st
@@ -37,5 +37,9 @@ Testifying:
 * Emily Farris
 * Melanie Kraintz
 * Sarah Hulteen
+* Heidi Padilla - For Ashley, & Nicolaas- my 17 yr old son who was killed escaping Domestic Violence in August 2024
+* LaRae Lobdell - LaRae Lobdell
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Patrick Rawnsley - WSBA Family Law Executive Committee

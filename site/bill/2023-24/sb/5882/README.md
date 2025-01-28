@@ -81,13 +81,13 @@ Testifying:
 #### 7 👎 - Con
 Testifying:
 * Andy Cilley
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 7 ❓ - Other
 Testifying:
 * 💵Oliver Miska - WAESN
 * Liv Finne - Washington Policy Center
-* Joy Gjersvold - Conservative Ladies of Washington
+* Joy Gjersvold - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Katherine George - Johnston George LLP
 * Dave Larson - Tukwila School District
 * Marisa Coleman

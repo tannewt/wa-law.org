@@ -17,9 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162321&caId=25171&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162321&caId=25171&tId=4)
 
-#### 72 👍 - Pro
+#### 82 👍 - Pro
 
-#### 5796 👎 - Con
+#### 6521 👎 - Con
 Testifying:
 * Nicholas Parks
 * Dana Eagle - I am testifying on the behalf of humanity.
@@ -42,9 +42,15 @@ Testifying:
 * Erin Rice
 * Angela Mae Anecito
 * Lisa Templeton - Informed Choice Washington
+* Molly Winters
 * Jimmy Ranson
 * Arry Yu
 * Naomi Benton - 13363 202nd Ave SE
 * Stephanie Barile
+* Teresa Valentine
+* Zana Carver
+* Teresa Laher
+* Tonya Hickman
+* Cori Henry
 
-#### 13 ❓ - Other
+#### 14 ❓ - Other

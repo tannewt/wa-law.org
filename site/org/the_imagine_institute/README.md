@@ -9,7 +9,7 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍 Pauli Owen
 
-### [HB 1314](/bill/2025-26/hb/1314/) - Early learning facilities 👍1  
+### [HB 1314](/bill/2025-26/hb/1314/) - Early learning facilities 👍3  
 
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
 

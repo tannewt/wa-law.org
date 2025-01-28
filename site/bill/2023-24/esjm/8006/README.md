@@ -25,7 +25,7 @@ Testifying:
 * Jeannette Mcchesney
 * Julia Craven Reynolds
 * Sharon Damoff
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Laurie Layne
 * Richard Williams
 

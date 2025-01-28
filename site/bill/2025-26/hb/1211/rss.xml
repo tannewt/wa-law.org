@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1211/</link>
 		<description>Updates about HB 1211</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 12:00:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,13 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Early Learning &amp; Human Services.</guid>
+		</item>
+		<item>
+			<title>WA lawmakers renew push to make clergy report child abuse • Washington State Standard</title>
+			<description>News article "WA lawmakers renew push to make clergy report child abuse • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Tue, 28 Jan 2025 12:00:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/01/28/washington-lawmakers-renew-push-to-make-clergy-report-child-abuse/#:~:text=House%20Bill%201211</guid>
 		</item>
 	</channel>
 </rss>

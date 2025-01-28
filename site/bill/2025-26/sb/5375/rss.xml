@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5375/</link>
 		<description>Updates about SB 5375</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 12:02:18 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 12:00:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -148,6 +148,21 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Theresa/Schrempp/2025-01-27 12:02:18</guid>
+		</item>
+		<item>
+			<title>👍Nanaekow Stiles - Former Jehovah's Witness</title>
+			<description>Nanaekow Stiles signed up to testify Pro.</description>
+			<pubDate>Tue, 28 Jan 2025 07:56:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nanaekow/Stiles/2025-01-28 07:56:14</guid>
+		</item>
+		<item>
+			<title>WA lawmakers renew push to make clergy report child abuse • Washington State Standard</title>
+			<description>News article "WA lawmakers renew push to make clergy report child abuse • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Tue, 28 Jan 2025 12:00:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/01/28/washington-lawmakers-renew-push-to-make-clergy-report-child-abuse/#:~:text=Senate%20Bill%205375</guid>
 		</item>
 	</channel>
 </rss>

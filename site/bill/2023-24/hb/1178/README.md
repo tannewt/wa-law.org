@@ -51,7 +51,7 @@ Testifying:
 * Andrew Mesojednik - myself
 * Eric Pratt - America
 * Brian Kupfer - None
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Laurel Khan
 * Fernando Orozco
 * Ronald Lorimer

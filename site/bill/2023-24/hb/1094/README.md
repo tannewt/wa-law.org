@@ -52,6 +52,6 @@ Testifying:
 * Debra Dassler
 * Mary Harju
 * Al King
-* Jeannie Magdua - Conservative Ladies of Washington
+* Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 0 ❓ - Other

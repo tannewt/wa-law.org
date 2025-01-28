@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1662 - Education agencies/OSPI</title>
+		<link>https://wa-law.org/bill/2025-26/hb/1662/</link>
+		<description>Updates about HB 1662</description>
+		<language>en-US</language>
+		<lastBuildDate>Tue, 28 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Education (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Education (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-28/First reading, referred to Education (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+	</channel>
+</rss>

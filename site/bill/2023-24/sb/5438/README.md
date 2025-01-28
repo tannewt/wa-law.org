@@ -17,7 +17,7 @@
 
 #### 1 ❓ - Other
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 ### Tue 01/23 10:30 AM - Human Services (HS): 2SSB 5438 Supportive relationships
 #### 2 👍 - Pro
@@ -46,7 +46,7 @@ Testifying:
 
 #### 37 ❓ - Other
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Eric pratt - America
 
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5438 Supportive relationships
@@ -60,7 +60,7 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 ### Mon 02/06 10:30 AM - Human Services (HS): SB 5438 Supportive relationships
 #### 37 👍 - Pro

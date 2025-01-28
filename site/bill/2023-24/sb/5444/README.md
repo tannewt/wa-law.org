@@ -55,7 +55,7 @@ Testifying:
 * Todd Rathner - Knife Rights
 * 💵Aoibheann Cline - NRA
 * Jeannette Mcchesney
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Jeff Lewis
 * Teo Morca
 * Marcus Carter - Kitsap Rifle & Revolver Club; National Firearms Institute; Puget Sound Patriots
@@ -100,7 +100,7 @@ Testifying:
 * Rebecca Faust
 * Eric pratt - America
 * Justin Whitaker
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Jeannette Mcchesney
 * Justin Michaud
 * Teddy Anderson

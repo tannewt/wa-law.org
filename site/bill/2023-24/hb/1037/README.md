@@ -30,7 +30,7 @@ Testifying:
 ### Tue 01/10 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1037 Family burial grounds
 #### 4 👍 - Pro
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 0 👎 - Con
 

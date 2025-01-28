@@ -23,10 +23,10 @@ Testifying:
 
 #### 1227 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Laurie Layne
 * Shelly Burt
-* Jeannie Magdua - Conservative Ladies of Washington
+* Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Val Mullen
 * Andy Cilley - Parent
 * Aaron Lang

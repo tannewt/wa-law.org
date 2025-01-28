@@ -113,7 +113,7 @@ Testifying:
 * Eric pratt - I, America
 * C Davis - Washingtonians to Recall Inslee
 * Laurie Layne
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Matt Page
 * Teo Morca
 * Matthew Sharp
@@ -260,7 +260,7 @@ Testifying:
 
 #### 3439 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Eric Pratt - America
 * Aaron Lyons
 * Andrew Mesojednik - myself

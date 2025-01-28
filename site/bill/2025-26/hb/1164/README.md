@@ -17,12 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162038&caId=25086&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162038&caId=25086&tId=4)
 
-#### 87 👍 - Pro
+#### 117 👍 - Pro
 Testifying:
 * Mary Hull-Drury - Washington Realtors
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 16 👎 - Con
+#### 46 👎 - Con
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵Devin Gombosky - Washington Association of Sewer and Water Districts

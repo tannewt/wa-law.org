@@ -21,7 +21,7 @@
 
 #### 1 ❓ - Other
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 ### Mon 01/30 01:30 PM - Education (ED): HB 1478 Student rights
 #### 42 👍 - Pro
@@ -31,6 +31,6 @@ Testifying:
 
 #### 1 👎 - Con
 Testifying:
-* Christina Callahan - Conservative Ladies of Washington
+* Christina Callahan - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 0 ❓ - Other

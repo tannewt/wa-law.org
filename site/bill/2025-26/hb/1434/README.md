@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162119&caId=25144&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162119&caId=25144&tId=4)
 
-#### 491 👍 - Pro
+#### 727 👍 - Pro
 Testifying:
 * Momodou Conta
 * 💵Aya Samman
@@ -44,31 +44,59 @@ Testifying:
 * Sandra Youssef
 * Anas Mahdi
 * Ahmad Tirhi
+* Hager Youssef
+* Muhammad Irshad
 * Anees Khan
 * Muhannad Alzeir
+* Shamso Yussuf
+* Shahnaz Begum
+* Saima Samad
+* Muhammad Nasim
 * Sarah Karim
+* Ziyad Ali
 * Sayed Sadat
+* Dhudi Dahir
 * Abdulla Abdulla
 * Sidrah Rizvi
+* Heba Qatrani - President of South Seattle College Muslim Student Association
+* Rachida Hill - Uplift Dawah
+* Waseem Munir - Dawah Coordinator, Bellevue College Muslim Student Association
 * Ajmal Yasin
+* Muhammad Atif Nazir
+* Basma Faraj
 * Navreen Malik
 * Faiza Zeeshan
 * Afnan Dallasheh - Muslim Association of Puget Sound
+* Hodo Hassan
 * Qudsia Khan
+* Majeda Ayeshalmoutey
+* Shamaila Riaz
 * Reem Ghabboun
+* Fatima Rida Syeda
+* Michelle Ryder
 * Hossein Naseri
 * Tooryalai Shirzai
 * Attiqullah Kazimi
 * Ahmad Ahmadzai
 * Zoha Khan
+* Hayat Hussen
+* Suci Rahmadini
+* Sana Jawad
+* Ida Firri
+* Hina Adnan
+* Sinet Mohammed
+* Adel Tirhi
 
-#### 54 👎 - Con
+#### 201 👎 - Con
 Testifying:
 * Zainab Turkmen
+* Nadeen Alkhalifah
+* Maro Al-Nidawi
 
-#### 22 ❓ - Other
+#### 36 ❓ - Other
 Testifying:
 * Irum asghar
 * Nasib Karimi
 * Ahmed Salman
 * Sadaf Aftab
+* Maan Al Khalidi

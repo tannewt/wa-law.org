@@ -24,7 +24,7 @@
 
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review   ❓2
 
-### [HB 1183](/bill/2025-26/hb/1183/) - Concerning building code and development regulation reform.   ❓1
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes   ❓1
 * ❓💵 Curtis Steinhauer
 
 ### [HB 1188](/bill/2025-26/hb/1188/) - Requiring local government and tribal approval of wind and solar siting recommendations by the energy facility site evaluation council. 👍1  
@@ -59,8 +59,20 @@
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
 * 👎💵 Curtis Steinhauer
 
+### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍1  
+* 👍💵 Travis Dutton
+
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings   ❓1
 * ❓💵 Kelsey Hulse
+
+### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
+
+### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
+
+### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓1
+* ❓💵 Travis Dutton
+
+### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 
@@ -68,6 +80,9 @@
 * 👎💵 Paul Jewell
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+
+### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates   ❓1
+* ❓💵 Travis Dutton
 
 ### [SB 5089](/bill/2025-26/sb/5089/) - Concerning funding rural county coroners and medical examiners. 👍1  
 * 👍💵 Paul Jewell
@@ -88,16 +103,24 @@
 
 ### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍2  
 
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓1
+* ❓💵 Travis Dutton
+
 ### [SB 5288](/bill/2025-26/sb/5288/) - Concerning vacancies on boards of county commissioners. 👍1  
 * 👍💵 Paul Jewell
 
-## [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  
+### [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  
 * 👍💵 Kelsey Hulse
+
+### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
+
+## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction   ❓1
+* ❓💵 Travis Dutton
 
 ## 2023-24
 
-### [SB 5305](/bill/2023-24/sb/5305/) - Salmon recovery accelerator 👍1  
-* 👍💵 Kelsey Hulse
+### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction   ❓1
+* ❓💵 Travis Dutton
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

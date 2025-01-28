@@ -25,6 +25,11 @@
 ### [HB 1449](/bill/2025-26/hb/1449/) - Home cultivation of cannabis  👎1 
 * 👎💵 Amy Brackenbury
 
+### [HB 1459](/bill/2025-26/hb/1459/) - Child fatalities 👍2  
+
+### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor  👎1 
+* 👎 Megan Moore
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  

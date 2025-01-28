@@ -17,11 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161957&caId=25104&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161957&caId=25104&tId=4)
 
-#### 42 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
 * Larry Jefferson - Director, Washington State Office of Public Defense
 
-#### 7 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 0 ❓ - Other

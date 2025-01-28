@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/28 08:00 AM - Law & Justice (LAW): SB 5323 Theft from first responders
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161868&caId=25022&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161868&caId=25022&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161868&caId=25022&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161868&caId=25022&tId=4)
-
-#### 14 👍 - Pro
+#### 16 👍 - Pro
 
 #### 1 👎 - Con
 Testifying:

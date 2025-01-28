@@ -31,7 +31,7 @@ Testifying:
 
 #### 739 👎 - Con
 Testifying:
-* Joy Gjersvold - Conservative Ladies of Washington
+* Joy Gjersvold - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Kathleen Wedemeyer - Citizens Commission on Human Rights
 * Susanna Jones
 

@@ -45,8 +45,8 @@ Testifying:
 Testifying:
 * Theresa Schrempp
 * Eric pratt - America
-* Julie Barrett - Conservative Ladies of Washington
-* Jeannie Magdua - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
+* Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Sharon Damoff
 * James Au
 * Sarah Davenport-Smith - Human Life of WA

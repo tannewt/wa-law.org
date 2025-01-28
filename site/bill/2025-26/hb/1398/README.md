@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162126&caId=25081&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162126&caId=25081&tId=4)
 
-#### 851 👍 - Pro
+#### 1304 👍 - Pro
 Testifying:
 * 💵Courtney Williams - The Adult Family Home Council
 * Dan Puravet - Owner- Bellevue Elderly Care
+* Alyssa Arley - A2z Elite Services
+* Joyce Mwakipesile - The Dadas Adult Family Home IV
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 12 ❓ - Other
+#### 29 ❓ - Other

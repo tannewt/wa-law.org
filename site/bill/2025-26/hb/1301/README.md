@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161960&caId=25107&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161960&caId=25107&tId=4)
 
-#### 322 👍 - Pro
+#### 344 👍 - Pro
 Testifying:
 * Tamara Light - Information For Change Washington
 * Jacob Schmitt - Just Us Solutions, LLC
@@ -27,6 +27,6 @@ Testifying:
 * Larry Jefferson - Director, Washington State Office of Public Defense
 * 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
 
-#### 14 👎 - Con
+#### 30 👎 - Con
 
 #### 1 ❓ - Other

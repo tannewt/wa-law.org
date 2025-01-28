@@ -11,18 +11,13 @@
 
 ## Meetings
 ### Tue 01/28 08:00 AM - Finance (FIN): HB 1058 Freight railroad infra.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32534&aId=161890&caId=25070&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32534&aId=161890&caId=25070&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32534&aId=161890&caId=25070&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32534&aId=161890&caId=25070&tId=4)
-
-#### 51 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * 💵Logan Bahr - Tacoma Public Utilities/Tacoma Rail
 * Ross Lane - [Puget Sound & Pacific Railroad](/org/puget_sound_&_pacific_railroad/)
 * Cassie Hammond - Port of Benton
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 0 👎 - Con
 

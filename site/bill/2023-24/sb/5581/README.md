@@ -17,7 +17,7 @@
 ### Fri 03/17 08:00 AM - Health Care & Wellness (HCW): SSB 5581 Maternal support services
 #### 21 👍 - Pro
 Testifying:
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Jane Beyer - Office of the Insurance Commissioner
 
 #### 0 👎 - Con

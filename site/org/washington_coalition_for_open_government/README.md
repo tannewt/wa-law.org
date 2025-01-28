@@ -8,11 +8,13 @@
 ### [SB 5049](/bill/2025-26/sb/5049/) - Sunshine committee 👍2  
 * 👍💵 Donna Christensen
 
-## [SB 5102](/bill/2025-26/sb/5102/) - Establishing a public records exemption for the proprietary information of public risk pools.  👎1 
+### [SB 5102](/bill/2025-26/sb/5102/) - Establishing a public records exemption for the proprietary information of public risk pools.  👎1 
+
+## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍1  
 
 ## 2023-24
 
-### [SB 5102](/bill/2023-24/sb/5102/) - Establishing a public records exemption for the proprietary information of public risk pools.  👎1 
+### [SB 5400](/bill/2023-24/sb/5400/) - Local news journalism 👍1  
 
 ### [HB 1533](/bill/2023-24/hb/1533/) - PRA/employee information  👎2 
 * 👎 Michael Fancher

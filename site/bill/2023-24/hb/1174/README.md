@@ -29,7 +29,7 @@ Testifying:
 
 #### 132 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Richard Dahl
 * Ronald Higginbotham
 * Jeneen Breshears - CONSERVATIVE LADIES OF WASHINGTON

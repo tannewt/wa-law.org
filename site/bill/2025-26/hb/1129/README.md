@@ -33,7 +33,7 @@ Testifying:
 
 #### 503 👎 - Con
 Testifying:
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Theresa Schrempp
 
 #### 6 ❓ - Other

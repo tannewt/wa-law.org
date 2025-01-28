@@ -32,7 +32,7 @@ Testifying:
 * Sharon Damoff
 * Gabriel Jacobs
 * Mary Sphuler
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Andy Cilley
 
 #### 1 ❓ - Other
@@ -48,7 +48,7 @@ Testifying:
 Testifying:
 * Andy Cilley
 * Sarah Garriott
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Jennifer Heine-Withee - Resolution Fitness
 
 #### 1 ❓ - Other
@@ -65,7 +65,7 @@ Testifying:
 
 #### 48 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 2 ❓ - Other
 Testifying:

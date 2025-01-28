@@ -4,6 +4,8 @@
 ### [HB 1315](/bill/2025-26/hb/1315/) - Impaired driving  👎1 
 * 👎💵 Daniel Olson
 
+### [HB 1426](/bill/2025-26/hb/1426/) - Impaired driving civil order 👍1  
+
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
 * 👍💵 Daniel Olson
 

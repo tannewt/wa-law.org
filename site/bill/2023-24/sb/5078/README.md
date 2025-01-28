@@ -49,7 +49,7 @@ Testifying:
 * 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
 * Eric Pratt
 * Eric pratt - America
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Teo Morca
 * Bette Bell
 
@@ -76,7 +76,7 @@ Testifying:
 Testifying:
 * Eric pratt - America
 * Daniel Sklyarov
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Laurie Layne - 11605 243rd. Ave. Ct. E.
 * Bryan Lynn - Sportsmens Alliance
 * Hiedi Lee - Minuteman Ammunition
@@ -113,7 +113,7 @@ Testifying:
 * 💵Michael Findlay - National Shooting Sports Foundation
 * Rozana Knutson
 * Teo Morca
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Kathleen Cooper
 
 #### 0 ❓ - Other
@@ -138,9 +138,9 @@ Testifying:
 #### 1895 👎 - Con
 Testifying:
 * Eric Pratt - America
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Deborah Stelfox
-* Jeannie Magdua - Conservative Ladies of Washington
+* Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Brent DeWalt
 * Heidi Lee - Minute Man Ammunition
 * Lawrence Keane - National Shooting Sports Foundation
@@ -156,7 +156,7 @@ Testifying:
 * Mary Grode
 * Travis Miller
 * Hannah Ordos
-* Jeannie Magdua - Conservative Ladies of Washington
+* Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Phil Bach
 * Thomas Duffy
 * Fred Baerbalck

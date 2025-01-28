@@ -28,7 +28,7 @@
 
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential 👍2  
 
-### [HB 1183](/bill/2025-26/hb/1183/) - Concerning building code and development regulation reform. 👍1  
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍1  
 
 ### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040. 👍1  
 
@@ -46,10 +46,17 @@
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license   ❓1
 * ❓ Mike Ennis
 
+### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
+* 👍💵 Brent Ludeman
+
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program  👎1 
+
 ### [HB 1438](/bill/2025-26/hb/1438/) - Housing permit approval 👍1  
 * 👍💵 Andrea Smiley
 
 ### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons  👎1 
+
+### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management  👎1 
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 
@@ -80,6 +87,8 @@
 ### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+
+### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
 
 ## [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons  👎1 
 

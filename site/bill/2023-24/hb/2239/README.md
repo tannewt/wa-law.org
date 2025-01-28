@@ -34,7 +34,7 @@ Testifying:
 Testifying:
 * Kim Slinger
 * Susanna Jones
-* Patti Julagay - Conservative Ladies of Washington
+* Patti Julagay - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 3 ❓ - Other
 Testifying:

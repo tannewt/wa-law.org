@@ -25,13 +25,13 @@ Testifying:
 
 #### 438 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Sherri Tibbles
 * Mark Tibbles
 * Karen McIntosh
 * Maxine Herbert-Hill
-* Jessica Hargin - Conservative Ladies of Washington
+* Jessica Hargin - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Edward Buck
 * Jennifer Deacy
 * Richard Grunewald

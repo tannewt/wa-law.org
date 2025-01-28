@@ -30,7 +30,7 @@ Testifying:
 
 #### 305 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Jeannette Mcchesney - Anacortes School District
 * Mary Jo Warren
 * Eric pratt - America

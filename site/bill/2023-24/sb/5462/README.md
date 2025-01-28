@@ -97,7 +97,7 @@ Testifying:
 * Elicia Wright
 * Nicole Wells
 * Louisa O'Brien
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Andy Cilley
 * Carolyn Templin
 
@@ -120,7 +120,7 @@ Testifying:
 
 #### 914 👎 - Con
 Testifying:
-* Jeannie Magdua - Conservative Ladies of Washington
+* Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Trish Huddleston
 * Andy Cilley
 

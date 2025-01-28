@@ -19,9 +19,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162057&caId=25164&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162057&caId=25164&tId=4)
 
-#### 94 👍 - Pro
+#### 102 👍 - Pro
+Testifying:
+* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 
-#### 309 👎 - Con
+#### 312 👎 - Con
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Neill Franklin - Law Enforcement Action Partnership

@@ -12,19 +12,15 @@
 
 ## Meetings
 ### Tue 01/28 08:00 AM - Early Learning & K-12 Education (EDU): SB 5080 Financial education
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32552&aId=161946&caId=24961&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32552&aId=161946&caId=24961&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32552&aId=161946&caId=24961&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32552&aId=161946&caId=24961&tId=4)
-
-#### 91 👍 - Pro
+#### 101 👍 - Pro
 Testifying:
 * Lori Hairston - Washington DECA
+* Mike Pellicciotti - State Treasurer
 * Mike Pelliciotti - State Treasurer
 * Tracy Godat
 * Conrad Krol - Westbank Financials
 * LORI HAIRSTON
+* Lori Hairston
 * Dakota Manley - Washington State Young Republicans
 * Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
 * 💵Paula Sardinas - WBBA (WA Build Back Black Alliance
@@ -35,6 +31,9 @@ Testifying:
 * Charlotte Nemec - Canopy Credit Union
 * Yazmin Carretero - State Board of Education
 
-#### 1102 👎 - Con
+#### 1203 👎 - Con
+Testifying:
+* Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
+* Hannah Whitehouse
 
 #### 1 ❓ - Other

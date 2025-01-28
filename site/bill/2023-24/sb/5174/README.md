@@ -58,7 +58,7 @@ Testifying:
 
 #### 1 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 4 ❓ - Other
 Testifying:
@@ -80,7 +80,7 @@ Testifying:
 
 #### 33 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 2 ❓ - Other
 Testifying:

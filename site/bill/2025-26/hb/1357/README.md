@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162034&caId=25161&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162034&caId=25161&tId=4)
 
-#### 66 👍 - Pro
+#### 70 👍 - Pro
 Testifying:
 * Monique Dugaw - ESD 112 Region
 * Jeff Snell - Vancouver Public Schools - Vancouver, WA
@@ -28,6 +28,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Luckisha Phillips - Washington State School Directors' Association

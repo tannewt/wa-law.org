@@ -22,6 +22,8 @@
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍2  
 
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
+
 ### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍1  
 * 👍💵 Heather Trim
 

@@ -42,5 +42,5 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * 💵Conner Edwards - Campaign Treasurer

@@ -74,7 +74,7 @@ Testifying:
 
 #### 5315 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Gabriel Jacobs
 * Linnea Comstock
 * Joshua Hardwick
@@ -127,7 +127,7 @@ Testifying:
 #### 4539 👎 - Con
 Testifying:
 * Eric Pratt - America
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Marjie Austen
 * Oli London
 * Dawn Land
@@ -137,7 +137,7 @@ Testifying:
 * Chris Spahn
 * Dorothy Frenzel
 * Carrie BeSerra
-* Paige Norman - Conservative Ladies of Washington
+* Paige Norman - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Angela Frye
 * Joshua Hardwick
 * Linda Ader

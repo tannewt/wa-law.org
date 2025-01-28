@@ -15,10 +15,10 @@
 ### Wed 02/01 01:30 PM - Early Learning & K-12 Education (EDU): SB 5024 K-12 education/parent rights
 #### 983 👍 - Pro
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Nancy Button
 * Laurie Layne
-* Jeannie Magdua - Conservative Ladies of Washington
+* Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Dave Olwell
 * Bonnie Ruiz - Moms for America
 * JoAnn Tolentino

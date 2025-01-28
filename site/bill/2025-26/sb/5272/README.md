@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161978&caId=24972&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161978&caId=24972&tId=4)
 
-#### 9 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Peyton Coffin - Northwest Baseball Umpires Association -- 150 members
 * Robert West

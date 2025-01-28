@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162320&caId=25184&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162320&caId=25184&tId=4)
 
-#### 765 👍 - Pro
+#### 807 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Katie Young - Tacoma special education PTA
@@ -35,6 +35,7 @@ Testifying:
 * Kate Davis - [Olympia School District](/org/olympia_school_district/)
 * Ayan Elmi - Washington Multicultural Services Link
 * Trevor Greene - Yakima School District
+* Dominique Nkamicaniye - Seattle
 * Dr. Brent Jones - Superintendent, Seattle Public Schools
 * 💵Clifford Traisman - Highline and Northshore Public School Districts (Bellevue and Seattle as well)
 * Dr. Concie Pedroza - Superintendent, Tukwila School District

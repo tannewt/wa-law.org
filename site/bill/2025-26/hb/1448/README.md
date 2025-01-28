@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162116&caId=25102&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162116&caId=25102&tId=4)
 
-#### 1629 👍 - Pro
+#### 1847 👍 - Pro
 Testifying:
 * Tracy Turner - Sail
 * 💵Nilu Jenks - FairVote Washington
@@ -26,8 +26,11 @@ Testifying:
 * 💵Colin Cole - More Equitable Democracy
 * Tai Yang-Abreu - [The Washington Bus](/org/the_washington_bus/)
 * Carin Christy - Carin Christy, MA, LMHC
+* Jessica Forsythe
+* Vivian Olson
+* Treveon Parish - [The Washington Bus](/org/the_washington_bus/)
 
-#### 678 👎 - Con
+#### 1570 👎 - Con
 Testifying:
 * Mary Mead
 * Erica Engelhart
@@ -41,8 +44,11 @@ Testifying:
 * Seneca Scott
 * Rico Hernandez
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Rebecca Faust - n/a
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Chris Hughes - Ranked Choice Voting Resource Center
 * Robert Bristow-Johnson
+* 💵David Lord
+* Esther Warwick - [The Arc of King County](/org/the_arc_of_king_county/)

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32547&aId=162066&caId=25044&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32547&aId=162066&caId=25044&tId=4)
 
-#### 70 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * Dwight Bickel
 * 💵Carrie Tellefson - [Washington Land Title Association](/org/washington_land_title_association/)
@@ -30,6 +30,7 @@ Testifying:
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Angela Balconi
 * Sherri Fought - Kittitas Title and Escrow
+* Chris Gorton - Pioneer Title Company
 
 #### 0 👎 - Con
 

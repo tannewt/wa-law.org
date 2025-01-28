@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Tue 01/28 08:00 AM - Law & Justice (LAW): SB 5290 Controlled subs. dismissal
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161870&caId=25024&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161870&caId=25024&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161870&caId=25024&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32529&aId=161870&caId=25024&tId=4)
-
-#### 16 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * 💵Anne Anderson - Washington State Narcotics Investigators Association

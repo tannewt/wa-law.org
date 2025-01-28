@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Steve Ewing - Dept. of Revenue
 
-#### 4 👎 - Con
+#### 28 👎 - Con
 
 #### 0 ❓ - Other

@@ -14,7 +14,7 @@
 ### Thu 01/25 01:30 PM - Early Learning & K-12 Education (EDU): SB 6205 Pledge of allegiance instr.
 #### 903 👍 - Pro
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Susanna Jones
 * Alex Hansen - Eatonville Middle School
 * Blake Pool

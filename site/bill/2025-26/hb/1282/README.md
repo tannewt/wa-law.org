@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Stuart Jacobson - WA Parents for Safe Childcare
 
-#### 429 👎 - Con
+#### 501 👎 - Con
 
 #### 2 ❓ - Other

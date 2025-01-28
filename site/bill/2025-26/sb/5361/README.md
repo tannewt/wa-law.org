@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32589&aId=162156&caId=24984&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32589&aId=162156&caId=24984&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Joe Barrett - Key Recovery and Life Skills Center
+* Sheri Sawyer - Office of Financial Management
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

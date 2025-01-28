@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1497/</link>
 		<description>Updates about HB 1497</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 11:08:17 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 09:15:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -87,6 +87,14 @@
 			<guid isPermaLink="false">testifier/Chris/Thomas/2025-01-27 08:46:43</guid>
 		</item>
 		<item>
+			<title>👍Scott Smithline - Mill Industries</title>
+			<description>Scott Smithline signed up to testify Pro. They are signed up to represent Mill Industries.</description>
+			<pubDate>Mon, 27 Jan 2025 10:16:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Smithline/2025-01-27 10:16:10</guid>
+		</item>
+		<item>
 			<title>👍Anthony Myint - Zero Foodprint</title>
 			<description>Anthony Myint signed up to testify Pro. They are signed up to represent Zero Foodprint.</description>
 			<pubDate>Mon, 27 Jan 2025 10:57:21 GMT</pubDate>
@@ -101,6 +109,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Aaron/Czyzewski/2025-01-27 11:08:17</guid>
+		</item>
+		<item>
+			<title>❓Rick Vahl - Waste Connections</title>
+			<description>Rick Vahl signed up to testify Other. They are signed up to represent Waste Connections.</description>
+			<pubDate>Tue, 28 Jan 2025 08:16:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Rick/Vahl/2025-01-28 08:16:10</guid>
+		</item>
+		<item>
+			<title>❓💵Travis Dutton - Washington State Association of Counties</title>
+			<description>Travis Dutton signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_association_of_counties/"&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 28 Jan 2025 09:15:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Travis/Dutton/2025-01-28 09:15:14</guid>
 		</item>
 	</channel>
 </rss>

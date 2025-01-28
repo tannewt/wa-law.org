@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32589&aId=162179&caId=24985&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32589&aId=162179&caId=24985&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Kay Funk - No
 * Thomas (Levi) Johnson
+* Thomas Levi Johnson
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* 💵Lori Grassi - WA State Chiropractic Association
+* 💵Trevor Sandison - National Association of Social Workers Washington Chapter

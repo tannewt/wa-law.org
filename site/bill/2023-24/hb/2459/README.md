@@ -17,7 +17,7 @@ Testifying:
 
 #### 1171 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Eric pratt - America
 * Laurie Layne - Layne Software
 * Pete Serrano

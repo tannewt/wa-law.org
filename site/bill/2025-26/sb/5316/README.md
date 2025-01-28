@@ -20,6 +20,6 @@ Testifying:
 * 💵Jennifer Wallace - WA Association of County Officials
 * Jackie Brunson - Washington State Association of County Treasurers
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

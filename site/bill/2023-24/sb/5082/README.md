@@ -60,7 +60,7 @@ Testifying:
 * Tim Eyman
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Laurie Layne
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Neil DeBoer
 * Anthony Mixer
 * Eric Cooper

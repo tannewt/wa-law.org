@@ -17,7 +17,7 @@ Testifying:
 Testifying:
 * Gabriel Jacobs
 * Sharon Damoff
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Jeannette Mcchesney
 * Celia Gardner - home use
 
@@ -34,7 +34,7 @@ Testifying:
 
 #### 1176 👎 - Con
 Testifying:
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Jonathan Clemens - ErgoCare Clinic
 * Susanna Jones
 * Jeannette Mcchesney

@@ -23,7 +23,7 @@ Testifying:
 #### 788 👎 - Con
 Testifying:
 * Sarah Garriott
-* Joy Gjersvold - Conservative Ladies of Washington
+* Joy Gjersvold - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Rhonda Looney - None
 * Maxine Herbert Hill - SR162 Community Group
 * Jennifer Heine-Withee

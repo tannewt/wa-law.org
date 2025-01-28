@@ -17,15 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162127&caId=25082&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162127&caId=25082&tId=4)
 
-#### 315 👍 - Pro
+#### 342 👍 - Pro
 Testifying:
 * Judy Jones
 * 💵Anna Zivarts - [Disability Rights Washington](/org/disability_rights_washington/)
 * Hayley Edick
 * Kyrstal Monteros
+* Marci Carpenter - National Federation of the Blind of Washington
 
-#### 7 👎 - Con
+#### 10 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Mike Ennis - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Rose Gundersen - WA Retail Association

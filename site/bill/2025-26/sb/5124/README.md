@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32589&aId=162152&caId=24980&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32589&aId=162152&caId=24980&tId=4)
 
-#### 21 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Deena Hannen - [Multicare Health System](/org/multicare_health_system/)
 * Greg Carter - Providence St. Luke's Rehabilitation Medical Center

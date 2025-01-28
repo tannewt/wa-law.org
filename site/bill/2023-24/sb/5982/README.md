@@ -13,7 +13,7 @@
 #### 360 👎 - Con
 Testifying:
 * Laurie Layne
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 1 ❓ - Other
 
@@ -26,7 +26,7 @@ Testifying:
 #### 1281 👎 - Con
 Testifying:
 * Laurie Layne
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Jeannette Mcchesney
 * James Ware
 * Vernon Den Bleyker
@@ -53,7 +53,7 @@ Testifying:
 
 #### 1595 👎 - Con
 Testifying:
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Kim Slinger
 * Natalie Chavez
 * Laurie Layne

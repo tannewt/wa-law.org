@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162252&caId=25012&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162252&caId=25012&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Adam Walker - Pilot Mental Health Campaign
 * Brad Maas - PIlot Mental Health Campaign
@@ -24,4 +24,9 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Dana Debel - [Delta Air Lines](/org/delta_air_lines/)
+* Jeremy Horn - Horizon Air
+* Scott Kennedy - [Alaska Airlines](/org/alaska_airlines/)
+* Alison Eldridge - Employment Security Department

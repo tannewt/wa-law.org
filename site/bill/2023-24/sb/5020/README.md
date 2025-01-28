@@ -21,7 +21,7 @@
 #### 409 👎 - Con
 Testifying:
 * Danielle Lankester - Parent / Educator
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Leah Anaya - Washington Moms For America
 * Jen Garrison Stuber - Advocacy Chair, Washington Homeschool Organization
 * Mike Kruse

@@ -17,12 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162234&caId=25115&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162234&caId=25115&tId=4)
 
-#### 87 👍 - Pro
+#### 105 👍 - Pro
 Testifying:
 * Todd Sullivan - Sullivan Homes
 * Dave Hamilton - Councilmember, City of Bellevue
+* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Rico Quirindongo - [City of Seattle](/org/city_of_seattle/)
 
-#### 3 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Dean Martin - Community Assoc. Institute
 
 #### 0 ❓ - Other

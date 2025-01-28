@@ -17,11 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32596&aId=162098&caId=25108&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32596&aId=162098&caId=25108&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Carmen Barajas
 
-#### 119 👎 - Con
+#### 125 👎 - Con
 Testifying:
 * Michelle Boatwright
 * Jenifer Largent
@@ -29,7 +29,7 @@ Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Eric Askeland - Self
 
-#### 12 ❓ - Other
+#### 14 ❓ - Other
 Testifying:
 * Trina Hall - Ferndale School District
 * Wade Smith - Walla Walla Public Schools

@@ -30,6 +30,6 @@ Testifying:
 * 💵Aoibheann Cline - [National Rifle Association](/org/national_rifle_association_of_america/)
 * Cory Malon - WA Civil Rights Association
 * Anthony Santoyo
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 0 ❓ - Other

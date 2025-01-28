@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162253&caId=25013&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162253&caId=25013&tId=4)
 
-#### 399 👍 - Pro
+#### 422 👍 - Pro
 Testifying:
 * Alan Fisco - [The Seattle Times](/org/the_seattle_times/)
 * Frank Blethen - [The Seattle Times](/org/the_seattle_times/)
@@ -40,8 +40,9 @@ Testifying:
 * Orson Bevins - Hispanavision Television
 * Melissa Luck - KXLY-TV
 * Heidi Persson - Pacific Northwest Media Group
+* Keith Shipman - Washington State Association of Broadcasters
 
-#### 54 👎 - Con
+#### 81 👎 - Con
 Testifying:
 * Kelly Wright - citizen
 * Bill Lyne - United Faculty of Washington State
@@ -49,4 +50,4 @@ Testifying:
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Kelly Fukai - [Washington Technology Industry Association](/org/washington_technology_industry_association/)
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other

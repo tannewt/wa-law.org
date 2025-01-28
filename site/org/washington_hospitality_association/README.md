@@ -37,6 +37,9 @@
 ### [HB 1426](/bill/2025-26/hb/1426/) - Impaired driving civil order 👍1  
 * 👍 Sean DeWitz
 
+### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
+* 👍 Anthony Anton
+
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓1
 * ❓💵 Samantha Louderback
 

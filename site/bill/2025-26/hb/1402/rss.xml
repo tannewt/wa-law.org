@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1402/</link>
 		<description>Updates about HB 1402</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 06:36:28 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 08:50:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -61,6 +61,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kyrstal/Monteros/2025-01-27 06:36:28</guid>
+		</item>
+		<item>
+			<title>❓💵Rose Gundersen - WA Retail Association</title>
+			<description>Rose Gundersen signed up to testify Other. They are signed up to represent WA Retail Association. They are a registered lobbyist.</description>
+			<pubDate>Tue, 28 Jan 2025 08:19:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Rose/Gundersen/2025-01-28 08:19:10</guid>
+		</item>
+		<item>
+			<title>👍Marci Carpenter - National Federation of the Blind of Washington</title>
+			<description>Marci Carpenter signed up to testify Pro. They are signed up to represent National Federation of the Blind of Washington.</description>
+			<pubDate>Tue, 28 Jan 2025 08:50:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Marci/Carpenter/2025-01-28 08:50:48</guid>
 		</item>
 	</channel>
 </rss>

@@ -78,7 +78,7 @@ Testifying:
 * Melodee Loshbaugh - Brocks Academy
 * Rachel Kier - Brocks Academy
 * 💵Suzanne Hanson - Washington Federation of Independent Schools
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Judy Colson
 * Debbie Teter
 

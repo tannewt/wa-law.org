@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32610&aId=162339&caId=25186&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32610&aId=162339&caId=25186&tId=4)
 
-#### 29 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Chris Brown - [Pierce County](/org/pierce_county/)
 * Sam Tracy - CLYNK
 
-#### 15 👎 - Con
+#### 146 👎 - Con
 Testifying:
 * 💵Jay Balasbas - Basin Disposal and Consolidated Disposal Services Inc.
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
@@ -28,6 +28,7 @@ Testifying:
 * 💵Lyset Cadena - WM (Waste Management)
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

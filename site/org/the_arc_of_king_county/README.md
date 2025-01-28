@@ -29,6 +29,9 @@
 
 ### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍1  
 
+### [HB 1448](/bill/2025-26/hb/1448/) - Local elections   ❓1
+* ❓ Esther Warwick
+
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
 
 ### [SB 5064](/bill/2025-26/sb/5064/) - Rare diseases adv. council 👍1  

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32584&aId=162378&caId=25202&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32584&aId=162378&caId=25202&tId=4)
 
-#### 37 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Rose Noble - Visit Spokane
 

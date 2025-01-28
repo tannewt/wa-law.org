@@ -40,7 +40,7 @@ Testifying:
 #### 429 👎 - Con
 Testifying:
 * Teo Morca
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 0 ❓ - Other
 

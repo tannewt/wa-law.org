@@ -17,7 +17,7 @@
 #### 13 👍 - Pro
 Testifying:
 * 💵Anne Anderson - Washington State Narcotics Investigators Association
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 0 👎 - Con
 
@@ -26,7 +26,7 @@ Testifying:
 ### Fri 01/19 08:00 AM - Health & Long Term Care (HLTC): SB 6134 Opioid use
 #### 104 👍 - Pro
 Testifying:
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Christian Crowell
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 

@@ -28,7 +28,7 @@ Testifying:
 * Breck Lebegue
 * Amy Burns
 * Julia Lin
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * M.D., April Hunziker
 * Kika Kaui - WSPA
 * Ramsha Rao

@@ -35,7 +35,7 @@ Testifying:
 
 #### 4 👎 - Con
 Testifying:
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 1 ❓ - Other
 

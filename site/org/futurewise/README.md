@@ -16,7 +16,7 @@
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential 👍1  
 * 👍💵 Bryce Yadon
 
-### [HB 1183](/bill/2025-26/hb/1183/) - Concerning building code and development regulation reform. 👍1  
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍1  
 * 👍💵 Bryce Yadon
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters. 👍1  

@@ -15,7 +15,7 @@ Testifying:
 #### 733 👎 - Con
 Testifying:
 * Bob Battles - Association of Washington Business (AWB)
-* Christina Callahan - Conservative Ladies of Washington
+* Christina Callahan - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Scherry Cherrick
 * Nicole Tedrow - Washington Self-Insurers Association
 * Bruce Timm

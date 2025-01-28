@@ -20,7 +20,7 @@
 #### 1262 👎 - Con
 Testifying:
 * Liv Finne - Washington Policy Center
-* Jeannie Magdua - Conservative Ladies of Washington
+* Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Albert Kegley
 * Daniel and Lisa Hall
 * Marilyn Wick
@@ -54,7 +54,7 @@ Testifying:
 
 #### 1 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 2 ❓ - Other
 Testifying:

@@ -43,7 +43,7 @@ Testifying:
 * Tim Eyman - Initiative Activist
 * Laurie Layne
 * Eryn Jordan - Washington Election Integrity Coalition United
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Sharon Hanek
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 

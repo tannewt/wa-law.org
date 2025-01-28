@@ -22,7 +22,7 @@ Testifying:
 
 #### 434 👎 - Con
 Testifying:
-* Christina Callahan - Conservative Ladies of Washington
+* Christina Callahan - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * John Kuder
 
 #### 0 ❓ - Other

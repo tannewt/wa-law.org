@@ -4,6 +4,9 @@
 ### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
 * 👍 Dylan de Thomas
 
+### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates  👎1 
+* 👎 Dylan de Thomas
+
 ## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 * 👍 Dylan de Thomas
 

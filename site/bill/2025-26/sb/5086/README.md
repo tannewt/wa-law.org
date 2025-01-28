@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32548&aId=162247&caId=25048&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32548&aId=162247&caId=25048&tId=4)
 
-#### 144 👍 - Pro
+#### 158 👍 - Pro
 Testifying:
 * Consuelo Echeverria - Health Care for All WA
 
-#### 830 👎 - Con
+#### 875 👎 - Con
 Testifying:
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 

@@ -18,7 +18,7 @@ Testifying:
 Testifying:
 * 💵Zosia Stanley - Washington State Hospital Association
 * 💵Esther Ripplinger - Human Life of WA
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * pam bennetsen - ConservativeLadiesofWashington
 * Mark Tibbles
 * Sherri Tibbles

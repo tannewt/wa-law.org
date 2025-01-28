@@ -17,14 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162108&caId=25138&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162108&caId=25138&tId=4)
 
-#### 544 👍 - Pro
+#### 578 👍 - Pro
 Testifying:
 * Laurel Durrett
 * Darrell Johnson
 * Laura Elizabeth Shatswell
 * Dinah Coble
 
-#### 1 👎 - Con
+#### 118 👎 - Con
 
 #### 3 ❓ - Other
 Testifying:

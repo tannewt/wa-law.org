@@ -54,7 +54,7 @@ Testifying:
 * Pam Doddridge
 * Kim Butler
 * Karen McIntosh
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * John Roskelley
 * Donald Ladely
 * Debra Helvey

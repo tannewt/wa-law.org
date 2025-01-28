@@ -34,7 +34,7 @@ Testifying:
 * Frances Songer
 * Barbara Hawley
 * Sharon Bierach
-* Jeannie M Magdua - Conservative Ladies of Washington
+* Jeannie M Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 2 ❓ - Other
 Testifying:

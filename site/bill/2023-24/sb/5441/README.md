@@ -39,11 +39,11 @@ Testifying:
 
 #### 1127 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * JoAnn Tolentino
 * Andy Cilley - Parent
 * Adrienne Ross
-* Jeannie Magdua - Conservative Ladies of Washington
+* Jeannie Magdua - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Jennifer Heine-Withee
 * Vince Navarre
 * Karen Winter

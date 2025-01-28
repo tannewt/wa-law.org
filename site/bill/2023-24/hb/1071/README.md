@@ -13,7 +13,7 @@
 ### Mon 01/23 01:30 PM - Education (ED): HB 1071 School resource officers
 #### 873 👍 - Pro
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Jason Perrins - Chewelah SD
 * Rachel Buck
 * Laurie Layne

@@ -82,7 +82,7 @@ Testifying:
 * Stuart Jenner
 * Sharon Damoff
 * Marian LaFountaine
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Gabriel Jacobs
 * Laurie Layne
 * Nicole Wellls

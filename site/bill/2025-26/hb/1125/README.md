@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32555&aId=162313&caId=25173&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32555&aId=162313&caId=25173&tId=4)
 
-#### 245 👍 - Pro
+#### 261 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
@@ -27,13 +27,14 @@ Testifying:
 * Aswad Thomas - Crime Survivors for Safety and Justice
 * Jacob Schmitt - Just Us Solutions, LLC
 
-#### 11 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Leslie Paine
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Charleen Kriens
 * Charleen Kriens
 * Tiffany Attrill
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 ❓ - Other
 

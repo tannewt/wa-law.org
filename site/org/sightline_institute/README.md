@@ -4,7 +4,9 @@
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 * 👍💵 Dan Bertolet
 
-### [HB 1183](/bill/2025-26/hb/1183/) - Concerning building code and development regulation reform. 👍1  
+### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review 👍1  
+
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍1  
 * 👍💵 Dan Bertolet
 
 ### [HB 1223](/bill/2025-26/hb/1223/) - Voter challenges 👍1  

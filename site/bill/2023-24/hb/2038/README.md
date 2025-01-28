@@ -19,7 +19,7 @@
 #### 462 👎 - Con
 Testifying:
 * Carol Rich
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Eric Lundberg
 * Rachel Thornley
 * Michael Frazee

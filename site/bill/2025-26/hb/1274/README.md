@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161959&caId=25106&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161959&caId=25106&tId=4)
 
-#### 1463 👍 - Pro
+#### 1526 👍 - Pro
 Testifying:
 * Emily Gause - WACDL/WDA
 * Avery Doutre
@@ -30,8 +30,10 @@ Testifying:
 * Larry Jefferson - Director, Washington State Office of Public Defense
 * Dinah Coble
 
-#### 4 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Tiffany Attrill
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 10 ❓ - Other
+#### 14 ❓ - Other

@@ -20,6 +20,6 @@ Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Tom Strobehn - [City of La Center](/org/city_of_la_center/)
 
-#### 430 👎 - Con
+#### 484 👎 - Con
 
 #### 0 ❓ - Other

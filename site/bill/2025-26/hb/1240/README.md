@@ -14,13 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162364&caId=25211&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162364&caId=25211&tId=4)
 
-#### 13 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * The Rev. Bill Kirlin-Hackett - Interfaith Task Force on Homelessness
 * The Rev. Bill Kirlin-Hackett - Interfaith Task Force on Homelessness
 * Zachary Jaffe
 * Karina O'Malley
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Kris Zachary - Burns Towing
+* Paul Bressi - Nisqually Towing
+* 💵Peter Lukevich - Towing & Recovery Association of WA (TRAW)
 
 #### 0 ❓ - Other

@@ -28,7 +28,7 @@ Testifying:
 #### 457 👎 - Con
 Testifying:
 * Conrad Reynoldson - Washington Civil & Disability Advocate
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Richard Doerflinger
 * Rebecca Faust
 * Sharon Quick - President, Physicians for Compassionate Care Educational Foundation

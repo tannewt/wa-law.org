@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1357/</link>
 		<description>Updates about HB 1357</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 16:49:21 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 06:10:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -75,6 +75,14 @@
 			<pubDate>Mon, 27 Jan 2025 16:49:21 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/2025session-week3/#:~:text=HB%201357</guid>
+		</item>
+		<item>
+			<title>❓Luckisha Phillips - Washington State School Directors' Association</title>
+			<description>Luckisha Phillips signed up to testify Other. They are signed up to represent Washington State School Directors' Association.</description>
+			<pubDate>Tue, 28 Jan 2025 06:10:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Luckisha/Phillips/2025-01-28 06:10:43</guid>
 		</item>
 	</channel>
 </rss>

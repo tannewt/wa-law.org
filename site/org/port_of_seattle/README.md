@@ -3,6 +3,8 @@
 
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
 
+### [HB 1058](/bill/2025-26/hb/1058/) - Freight railroad infra. 👍1  
+
 ### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services 👍1  
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
@@ -14,11 +16,21 @@
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 
-## [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
+### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
+
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+
+### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
+
+### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
+
+### [SB 5259](/bill/2025-26/sb/5259/) - Commercial fishing bait tax 👍1  
+
+## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
 ## 2023-24
 
-### [SB 5246](/bill/2023-24/sb/5246/) - Energy facility site eval. 👍1  
+### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management 👍1  
 
 ### [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 

@@ -43,6 +43,6 @@ Testifying:
 Testifying:
 * Tom Kwieciak - [National Rifle Association](/org/national_rifle_association_of_america/)
 * Eric pratt - America
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 1 ❓ - Other

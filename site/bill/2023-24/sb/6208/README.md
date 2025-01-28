@@ -26,7 +26,7 @@ Testifying:
 Testifying:
 * Leslie Maxwell
 * Andy Cilley
-* Joy Gjersvold - Conservative Ladies of Washington
+* Joy Gjersvold - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Jennifer Heine-Withee - Self
 * Julie Martin
 * Nicole Carpenter

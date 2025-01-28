@@ -19,7 +19,7 @@ Testifying:
 Testifying:
 * Bob Runnells - Informed Choice Washington
 * Natalie Chavez
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Kari Matadobra
 
 #### 1 ❓ - Other

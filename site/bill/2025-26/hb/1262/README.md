@@ -20,7 +20,7 @@ Testifying:
 * Lynsie Holt
 * Rozana Knutson
 * Loni Simone
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Mary Pierce
 
 #### 25 ❓ - Other

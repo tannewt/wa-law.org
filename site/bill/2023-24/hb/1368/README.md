@@ -70,7 +70,7 @@ Testifying:
 Testifying:
 * Teresa Ekdahl-Johnson
 * Tommy Gallegos - [Washington Association for Pupil Transportation](/org/washington_association_for_pupil_transportation/)
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 3 ❓ - Other
 Testifying:
@@ -100,7 +100,7 @@ Testifying:
 
 #### 318 👎 - Con
 Testifying:
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Nicole Daltoso - Evergreen Public School
 * Sharon Damoff
 * Trish Huddleston

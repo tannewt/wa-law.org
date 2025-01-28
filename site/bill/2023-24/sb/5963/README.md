@@ -30,7 +30,7 @@ Testifying:
 
 #### 1179 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * eric pratt
 * Jeffrey Garretson
 * Michael McKinley

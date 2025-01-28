@@ -31,7 +31,7 @@
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential   ❓1
 * ❓💵 Carl Schroeder
 
-### [HB 1183](/bill/2025-26/hb/1183/) - Concerning building code and development regulation reform.   ❓1
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes   ❓1
 * ❓💵 Carl Schroeder
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters.   ❓1
@@ -81,6 +81,8 @@
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
 
 ### [HB 1535](/bill/2025-26/hb/1535/) - Dental insurance practices  👎1 
+
+### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state.   ❓1
 * ❓💵 Candice Bock

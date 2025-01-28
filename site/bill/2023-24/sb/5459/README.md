@@ -155,7 +155,7 @@ Testifying:
 * Candis Marrett
 * Erik Isaksen
 * Jodi Dotson
-* Ella Mae Kurashige - Conservative Ladies of Washington
+* Ella Mae Kurashige - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Lisa Welch
 * Bonnie Simmons
 * Wendy Drexler

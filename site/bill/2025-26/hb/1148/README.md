@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161897&caId=25158&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161897&caId=25158&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Avik Choudhury
 * Fiona Nelson
+* Phil Champlin - HUB Sports Center
 
 #### 0 👎 - Con
 

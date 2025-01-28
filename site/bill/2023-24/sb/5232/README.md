@@ -31,7 +31,7 @@ Testifying:
 * Eric Pratt - America
 * Eric pratt - America
 * Laurie A Layne
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Scott Freiboth
 * Ronald Lorimer
 * Colleen Wise
@@ -65,7 +65,7 @@ Testifying:
 
 #### 2676 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Emily Smith
 * Steve Clunas
 * eric Pratt - America

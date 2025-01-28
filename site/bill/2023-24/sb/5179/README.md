@@ -30,7 +30,7 @@ Testifying:
 
 #### 634 👎 - Con
 Testifying:
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Conrad Reynoldson - Washington Civil & Disability Advocate
 * MD, MA, Sharon Quick - President, Physicians for Compassionate Care Education Foundation
 * Jonathan Clemens - ErgoCare Clinic
@@ -66,7 +66,7 @@ Testifying:
 
 #### 657 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Conrad Reynoldson - Washington Civil & Disability Advocate
 * David Lucas - Veteran
 * Dr. Sharon Quick
@@ -76,7 +76,7 @@ Testifying:
 * MD, Alfonso Oliva - Alliance for Hippocratic Medicine
 * Bishop Joseph Tyson - Washington State Catholic Conference
 * Dave Olwell
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Jonathan Clemens - ErgoCare Clinic
 * David K DeWolf
 * Joseph Havens

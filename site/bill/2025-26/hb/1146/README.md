@@ -31,7 +31,7 @@ Testifying:
 #### 901 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
-* Mary Long - Conservative Ladies of Washington
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Barbara Gulley
 * Loni Simone
 * Steve Chilson

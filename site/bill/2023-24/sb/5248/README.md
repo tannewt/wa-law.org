@@ -19,7 +19,7 @@
 ### Tue 02/21 09:00 AM - Ways & Means (WM): SSB 5248 Tutoring & extended learning
 #### 22 👍 - Pro
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 0 👎 - Con
 
@@ -31,7 +31,7 @@ Testifying:
 ### Thu 01/26 01:30 PM - Early Learning & K-12 Education (EDU): SB 5248 Tutoring & extended learning
 #### 23 👍 - Pro
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Ben Mitchell - Foundation for Tacoma Students / High School Success Coalition
 * Gray Sterling - The Education Trust in WA / High School Success Coalition
 * Liz Trautman - Stand for Children Washington / High School Success Coalition

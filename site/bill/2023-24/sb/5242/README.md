@@ -41,7 +41,7 @@ Testifying:
 
 #### 980 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * SammieJo Thirtyacre
 * Bruce Monell
 * Theresa Schrempp
@@ -64,7 +64,7 @@ Testifying:
 Testifying:
 * Theresa Schrempp
 * Laurie Layne
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Anthony Mixer - Conservative Advocate
 
 #### 0 ❓ - Other
@@ -78,7 +78,7 @@ Testifying:
 
 #### 491 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 0 ❓ - Other
 
@@ -96,7 +96,7 @@ Testifying:
 
 #### 384 👎 - Con
 Testifying:
-* Julie Barrett - Conservative Ladies of Washington
+* Julie Barrett - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Kathryn Amdahl - EWU Students for Life
 * Dr. Al Oliva - Alliance for Hippocratic Medicine
 * Lauren O'Bannan

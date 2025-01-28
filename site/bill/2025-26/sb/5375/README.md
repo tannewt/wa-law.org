@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/28/2025 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers renew push to make clergy report child abuse • Washington State Standard](https://washingtonstatestandard.com/2025/01/28/washington-lawmakers-renew-push-to-make-clergy-report-child-abuse/#:~:text=Senate%20Bill%205375)
 * 01/20/2025 [Senate Democrats](/org/senate_democrats/) - [Frame Introduces Clergy Mandatory Reporting of Child Abuse Bill - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/01/20/frame-introduces-clergy-mandatory-reporting-of-child-abuse-bill/#:~:text=SB%205375)
 * 05/18/2000 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/#:~:text=SB%205375)
 
@@ -18,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32562&aId=161999&caId=25006&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32562&aId=161999&caId=25006&tId=4)
 
-#### 156 👍 - Pro
+#### 172 👍 - Pro
 Testifying:
 * Ryan Dudley - FFRF Action Fund
 * Sara Young - Representative as a former Jehovah’s Witness
@@ -32,6 +33,7 @@ Testifying:
 * Kristiana de Leon - Association of Secular Elected Officials
 * Rachel Fisher
 * Piper Bollander - Former Jehovah's Witness
+* Nanaekow Stiles
 
 #### 106 👎 - Con
 Testifying:

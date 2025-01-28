@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162232&caId=25077&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162232&caId=25077&tId=4)
 
-#### 95 👍 - Pro
+#### 115 👍 - Pro
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Dr. Scott Phillips - [Washington Poison Center](/org/washington_poison_center/)
@@ -28,12 +28,14 @@ Testifying:
 * Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Shellie Coury
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 
-#### 6 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 * Selena Coppa
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Judge Rebecca Robertson - District & Municipal Court Judges' Association
+* Shelly Baldwin - Washington Traffic Safety Commission
