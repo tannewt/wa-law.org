@@ -1,6 +1,8 @@
 # National Safety Council
 ## 2025-26
 
+### [HB 1596](/bill/2025-26/hb/1596/) - Concerning accountability for persons for speeding. 👍1  
+
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
 * 👍 Alaina Dahlquist
 

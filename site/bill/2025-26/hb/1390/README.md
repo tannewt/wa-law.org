@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162007&caId=25131&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162007&caId=25131&tId=4)
 
-#### 28 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Kyle Matheson - Self advocate
 * Kyle Matheson - Self advocate
@@ -28,7 +28,7 @@ Testifying:
 * Brad Meryhew - Sex Offender Policy Board
 * Kris Pederson - DSHS Developmental Disabilities Administration
 
-#### 14 👎 - Con
+#### 37 👎 - Con
 Testifying:
 * Sonja Hardenbrook - WDA/WACDL
 

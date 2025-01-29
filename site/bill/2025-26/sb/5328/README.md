@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32585&aId=162080&caId=24958&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32585&aId=162080&caId=24958&tId=4)
 
-#### 8 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Phil Goldfeder - American Fintech Council
 * 💵Molly Jones - Vice President, Head of Public Policy at Payactiv
@@ -23,7 +23,7 @@ Testifying:
 * Alice Jacobsohn - PayrollOrg
 * Tahra Jirari - Chamber of Progress
 
-#### 16 👎 - Con
+#### 20 👎 - Con
 
 #### 7 ❓ - Other
 Testifying:

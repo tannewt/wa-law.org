@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162348&caId=25210&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162348&caId=25210&tId=4)
 
-#### 112 👍 - Pro
+#### 161 👍 - Pro
 Testifying:
 * Edith Dale - University of Washington Seattle, Graduate Student
 * Jessica Goff - University of Washington, Tacoma
 * Randy Phillips
+* Melissa Beard - Council of Presidents
 
 #### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Christine McMullin - SBCTC

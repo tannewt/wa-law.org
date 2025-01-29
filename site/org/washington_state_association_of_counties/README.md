@@ -112,6 +112,9 @@
 ### [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  
 * 👍💵 Kelsey Hulse
 
+### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
+* 👎💵 Kelsey Hulse
+
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
 
 ## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction   ❓1

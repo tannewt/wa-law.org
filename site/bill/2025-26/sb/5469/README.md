@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * 💵Michele Thomas - WA Low Income Housing Alliance
 
-#### 14 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 

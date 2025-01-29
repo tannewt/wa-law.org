@@ -23,4 +23,8 @@ Testifying:
 
 #### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Jerry Vanderwood - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
+* 💵Michael Transue - WA Aggregate and Concrete Association / Mechanical Contractor Association of Western WA
+* Mike Ennis - Washington Asphalt Pavement Association (WAPA)

@@ -149,6 +149,9 @@
 
 ### [SB 5054](/bill/2025-26/sb/5054/) - Winery tax exemption 👍1  
 
+### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates   ❓1
+* ❓💵 Peter Godlewski
+
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 
 * 👎💵 Lindsey Hueer
 
@@ -216,11 +219,13 @@
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons   ❓1
 * ❓💵 Peter Godlewski
 
-## [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
+### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
+
+## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
 
 ## 2023-24
 
-### [SB 5492](/bill/2023-24/sb/5492/) - Tourism promotion 👍1  
+### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction  👎1 
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

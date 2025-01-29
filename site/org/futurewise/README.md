@@ -44,6 +44,8 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
+### [HB 1438](/bill/2025-26/hb/1438/) - Housing permit approval  👎1 
+
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍4  
 * 👍💵 Bryce Yadon
 

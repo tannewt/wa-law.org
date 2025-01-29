@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161971&caId=24967&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161971&caId=24967&tId=4)
 
-#### 433 👍 - Pro
+#### 455 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Dr. Gwen Loosmore - Washington State PTA
@@ -32,10 +32,12 @@ Testifying:
 * Nandika Devarajan - Redmond High School and NAMI WA Youth
 * Taanvi Arekapudi - Inglemoore High School and NAMI WA Youth
 * Kenia Soriano Hernandez - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
+* Michael Van Dyke - Washington Chapter of American Academy of Pediatrics
 
-#### 1695 👎 - Con
+#### 1927 👎 - Con
 Testifying:
 * Khushdip Brar - Concerned Citizen
 * Gabriel Jacobs
+* STEVEN PEARCE - Citizens Commission on Human Rights
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other

@@ -17,9 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162110&caId=25140&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162110&caId=25140&tId=4)
 
-#### 109 👍 - Pro
+#### 121 👍 - Pro
 Testifying:
 * Remy Haring
+* 💵Collin Bannister - The Washington Student Association
 
 #### 1 👎 - Con
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1256/</link>
 		<description>Updates about HB 1256</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 24 Jan 2025 19:41:42 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 09:05:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -43,6 +43,30 @@
 			<pubDate>Fri, 24 Jan 2025 19:41:42 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201256</guid>
+		</item>
+		<item>
+			<title>❓💵Jerry Vanderwood - Associated General Contractors of Washington</title>
+			<description>Jerry Vanderwood signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/associated_general_contractors_of_washington/"&gt;Associated General Contractors of Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 29 Jan 2025 09:05:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jerry/Vanderwood/2025-01-29 09:05:17</guid>
+		</item>
+		<item>
+			<title>❓💵Michael Transue - WA Aggregate and Concrete Association / Mechanical Contractor Association of Western WA</title>
+			<description>Michael Transue signed up to testify Other. They are signed up to represent WA Aggregate and Concrete Association / Mechanical Contractor Association of Western WA. They are a registered lobbyist.</description>
+			<pubDate>Wed, 29 Jan 2025 09:05:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Michael/Transue/2025-01-29 09:05:17</guid>
+		</item>
+		<item>
+			<title>❓Mike Ennis - Washington Asphalt Pavement Association (WAPA)</title>
+			<description>Mike Ennis signed up to testify Other. They are signed up to represent Washington Asphalt Pavement Association (WAPA).</description>
+			<pubDate>Wed, 29 Jan 2025 09:05:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Mike/Ennis/2025-01-29 09:05:17</guid>
 		</item>
 	</channel>
 </rss>

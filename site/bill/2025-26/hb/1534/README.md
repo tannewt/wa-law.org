@@ -18,11 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162331&caId=25183&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162331&caId=25183&tId=4)
 
-#### 33 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 357 👎 - Con
+#### 362 👎 - Con
 Testifying:
 * Kelsie Reynolds
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention

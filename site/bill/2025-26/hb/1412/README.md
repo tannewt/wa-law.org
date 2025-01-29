@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162118&caId=25143&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162118&caId=25143&tId=4)
 
-#### 82 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * Heidi Sadri
 * Yashar Shayan
@@ -27,7 +27,9 @@ Testifying:
 * Leyla Salmassi
 * Desirée Toliver
 * Angelique Rodriguez - CAIR-Washington
+* Sameera Ibrahim
+* Randa Tawil
 
-#### 447 👎 - Con
+#### 585 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

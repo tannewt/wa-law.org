@@ -31,11 +31,15 @@
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 
-## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
+### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
+
+## [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools   ❓1
+* ❓💵 Jenny Morgan
 
 ## 2023-24
 
-### [SB 5307](/bill/2023-24/sb/5307/) - Special education funding 👍1  
+### [SB 5369](/bill/2023-24/sb/5369/) - Youth mental health/schools   ❓1
+* ❓💵 Jenny Morgan
 
 ### [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍1  
 

@@ -41,12 +41,15 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
-## [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
+### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
+* 👍💵 Heather Trim
+
+## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 * 👍💵 Heather Trim
 
 ## 2023-24
 
-### [SB 5438](/bill/2023-24/sb/5438/) - Hydrofluorocarbons 👍1  
+### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction 👍1  
 * 👍💵 Heather Trim
 
 ### [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍2  

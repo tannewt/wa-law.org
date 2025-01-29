@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Wed 01/29 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1426 Impaired driving civil order
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162888&caId=25216&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162888&caId=25216&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162888&caId=25216&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162888&caId=25216&tId=4)
-
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Frank Harris - Mothers Against Drunk Driving
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
@@ -25,11 +19,13 @@ Testifying:
 * Shellie Coury
 * Ashley Bonus
 * Derek Sanders - Thurston County Sheriff's Office
+* Chase Glasser - SAFE: Safety and Advocacy for Empowerment
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Arthur West
 * Selena Coppa
+* Arthur West
 
 #### 2 ❓ - Other
 Testifying:

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162365&caId=25212&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162365&caId=25212&tId=4)
 
-#### 13 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Theodore Smith
 

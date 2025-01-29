@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162165&caId=24994&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162165&caId=24994&tId=4)
 
-#### 253 👍 - Pro
+#### 265 👍 - Pro
 Testifying:
 * Dinah Coble
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 
 #### 5 👎 - Con
 

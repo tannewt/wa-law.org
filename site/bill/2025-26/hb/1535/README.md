@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=162333&caId=25175&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=162333&caId=25175&tId=4)
 
-#### 1144 👍 - Pro
+#### 1202 👍 - Pro
 Testifying:
 * Lexi Benner
 * Arezoo Holdaway
@@ -33,7 +33,7 @@ Testifying:
 * 💵Kevin Schilling - WSDA
 * Kjersten Otterholt - WSDA
 
-#### 211 👎 - Con
+#### 230 👎 - Con
 Testifying:
 * Gary Renville - Project Access Northwest
 * Carol Nelson - Delta Dental of WA
@@ -45,7 +45,9 @@ Testifying:
 * Chris Bandoli - America's Health Insurance Plans
 * DDS, Cyrus Lee - Kaiser Permanente - Executive Dental Director
 * Jim Freeburg - Patient Coalition of Washington
+* Eric Lo - Delta Dental of WA
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
+* 💵Carolyn Logue - [Washington Denturist Association](/org/washington_denturist_association/)

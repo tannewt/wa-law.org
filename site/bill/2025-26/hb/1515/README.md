@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162327&caId=25180&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162327&caId=25180&tId=4)
 
-#### 15 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Marshall Foster - Seattle Center
 * Gloria Connors - Bumbershoot and FIFA Fan Festival
@@ -29,4 +29,4 @@ Testifying:
 Testifying:
 * Megan Moore - WA State Public Health Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

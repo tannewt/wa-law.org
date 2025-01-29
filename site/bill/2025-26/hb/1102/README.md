@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32567&aId=162315&caId=25189&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32567&aId=162315&caId=25189&tId=4)
 
-#### 36 👍 - Pro
+#### 86 👍 - Pro
 Testifying:
 * Levi Douglas - Clallam County
 * Mark Hodgson

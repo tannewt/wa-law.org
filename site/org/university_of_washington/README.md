@@ -38,7 +38,7 @@
 
 ### [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍2  
 
-### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍6  
+### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍7  
 
 ## [SB 5451](/bill/2025-26/sb/5451/) - Quantum economic development 👍1  
 

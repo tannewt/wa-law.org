@@ -1,10 +1,22 @@
 # Washington Denturist Association
+## 2025-26
 
-## [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎1 
+### [HB 1535](/bill/2025-26/hb/1535/) - Dental insurance practices   ❓1
+* ❓💵 Carolyn Logue
 
-## [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board  👎1 
+## [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices   ❓1
+* ❓💵 Carolyn Logue
 
-## [HB 1683](/bill/2023-24/hb/1683/) - Dental only coverage 👍2  
+## 2023-24
+
+### [SB 5351](/bill/2023-24/sb/5351/) - Dental insurance practices   ❓1
+* ❓💵 Carolyn Logue
+
+### [HB 1320](/bill/2023-24/hb/1320/) - Personnel records  👎1 
+
+### [HB 1508](/bill/2023-24/hb/1508/) - Health care cost board  👎1 
+
+### [HB 1683](/bill/2023-24/hb/1683/) - Dental only coverage 👍2  
 * 👍💵 Carolyn Logue
 * 👍💵 Carolyn Logue
 

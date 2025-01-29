@@ -10,13 +10,15 @@
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants  👎1 
 * 👎💵 Brad Tower
 
-## [SB 5298](/bill/2025-26/sb/5298/) - Mobile home community sale  👎1 
+## [SB 5298](/bill/2025-26/sb/5298/) - Mobile home community sale 👍1 👎1 
 * 👎💵 Brad Tower
+* 👍💵 Brad Tower
 
 ## 2023-24
 
-### [SB 5298](/bill/2023-24/sb/5298/) - Mobile home community sale  👎1 
+### [SB 5298](/bill/2023-24/sb/5298/) - Mobile home community sale 👍1 👎1 
 * 👎💵 Brad Tower
+* 👍💵 Brad Tower
 
 ### [HB 1124](/bill/2023-24/hb/1124/) - Residential rent and fees  👎2 
 * 👎💵 Brad Tower

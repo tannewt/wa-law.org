@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162329&caId=25182&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162329&caId=25182&tId=4)
 
-#### 26 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Justin Leigh - Dwinell Country Ales

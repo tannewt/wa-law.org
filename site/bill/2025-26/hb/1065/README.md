@@ -13,15 +13,11 @@
 
 ## Meetings
 ### Wed 01/29 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1065 Family burial grounds
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162236&caId=25117&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162236&caId=25117&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162236&caId=25117&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162236&caId=25117&tId=4)
+#### 123 👍 - Pro
+Testifying:
+* Natalie Whitten
 
-#### 84 👍 - Pro
-
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

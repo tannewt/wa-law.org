@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/29/2025 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers want to limit parking requirements for new development • Washington State Standard](https://washingtonstatestandard.com/2025/01/29/wa-lawmakers-want-to-limit-parking-requirements-for-new-development/#:~:text=Senate%20Bill%205184)
 * 01/22/2025 [Senate Democrats](/org/senate_democrats/) - [Expanding housing supply hearing in Senate Friday - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/01/22/expanding-housing-supply-hearing-in-senate-friday/#:~:text=SB%205184)
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=Senate%20Bill%205184)
 * 01/16/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Bill Would Cap Excessive Parking Mandates Around the State  | Sightline Institute](https://www.sightline.org/2025/01/16/washington-bill-would-cap-excessive-parking-mandates-around-the-state/#:~:text=SB%205184)

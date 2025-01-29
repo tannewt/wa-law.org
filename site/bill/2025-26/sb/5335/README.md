@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162159&caId=24988&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162159&caId=24988&tId=4)
 
-#### 70 👍 - Pro
+#### 80 👍 - Pro
 Testifying:
 * Brenda Senger - Rural Nursing Education Program (RNEP)
 * Ramona Hicks

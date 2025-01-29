@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161913&caId=25137&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161913&caId=25137&tId=4)
 
-#### 289 👍 - Pro
+#### 374 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * Rachael Snell
@@ -23,9 +23,15 @@ Testifying:
 * 💵Anna Nepomuceno - NAMI Washington and Patients Coalition of WA
 * Dr. London Breedlove - WA State Psychological Association
 * Jake Swanton - Inseparable
+* Jurgen Unutzer - UW Medicine
+* jean Brautigam Mills
+* Julia Larsen
+* Cody McCall
 
 #### 1 👎 - Con
 Testifying:
 * Kathleen Wedemeyer - Citizens Commission on Human Rights
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans

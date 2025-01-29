@@ -11,18 +11,12 @@
 
 ## Meetings
 ### Wed 01/29 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1408 Community authority funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32579&aId=162087&caId=25124&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32579&aId=162087&caId=25124&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32579&aId=162087&caId=25124&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32579&aId=162087&caId=25124&tId=4)
-
-#### 75 👍 - Pro
+#### 78 👍 - Pro
 Testifying:
 * Kathleen Barry Johnson - [Historic South Downtown](/org/historic_south_downtown/)
 * Armando Garzon - Kolors Studios
 * 💵Christopher Ellis - Bricklayers & Allied Craftworkers Local 1
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 
 #### 1 ❓ - Other

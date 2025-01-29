@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162005&caId=25129&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162005&caId=25129&tId=4)
 
-#### 63 👍 - Pro
+#### 74 👍 - Pro
 Testifying:
 * Kim McLeod
 * Linda Hyatt
@@ -26,7 +26,7 @@ Testifying:
 * Rose` Yu
 * Frances Peltier - Families for Better Lives
 
-#### 134 👎 - Con
+#### 136 👎 - Con
 Testifying:
 * 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Stacy Dym

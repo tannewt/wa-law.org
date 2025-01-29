@@ -15,6 +15,8 @@
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element  👎1 
 
+### [HB 1256](/bill/2025-26/hb/1256/) - Public works/made in US   ❓1
+
 ### [HB 1258](/bill/2025-26/hb/1258/) - Providing funding for municipalities participating in the regional 911 emergency communications system.  👎1 
 
 ### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  

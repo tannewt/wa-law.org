@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162322&caId=25172&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162322&caId=25172&tId=4)
 
-#### 19 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * James Nania - Washington Chapter of the American College of Emergency Physicians
 * Karen Dionne
 
-#### 59 👎 - Con
+#### 68 👎 - Con
 Testifying:
 * Nathan Smith
 * Michael Olejniczak

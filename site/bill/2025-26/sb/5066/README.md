@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32533&aId=161889&caId=25027&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32533&aId=161889&caId=25027&tId=4)
 
-#### 442 👍 - Pro
+#### 515 👍 - Pro
 Testifying:
 * Jacob Ivan Schmitt - Just Us Solutions, LLC
 * Jacob Ivan Schmitt - Just Us Solutions, LLC
@@ -23,7 +23,7 @@ Testifying:
 * Jacob Ivan Schmitt - Just Us Solutions, LLC
 * Robin Emmans - Washington Association of Criminal Defense Lawyers/ Washington Defender Association
 
-#### 10 👎 - Con
+#### 151 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Ryan Lufkin - Washington Council of Police & Sheriffs (WACOPS)

@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162364&caId=25211&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162364&caId=25211&tId=4)
 
-#### 50 👍 - Pro
+#### 100 👍 - Pro
 Testifying:
 * The Rev. Bill Kirlin-Hackett - Interfaith Task Force on Homelessness
 * The Rev. Bill Kirlin-Hackett - Interfaith Task Force on Homelessness
 * Zachary Jaffe
 * Karina O'Malley
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
+* Allison Hill
 * Graham Pruss - Executive Director; National Vehicle Residency Collective
 
 #### 8 👎 - Con

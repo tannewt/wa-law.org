@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32585&aId=162082&caId=24960&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32585&aId=162082&caId=24960&tId=4)
 
-#### 44 👍 - Pro
+#### 46 👍 - Pro
+Testifying:
+* Becky Roe - Washington State Association for Justice
+* Michelle Vasquez-Stickley
 
 #### 3 👎 - Con
 

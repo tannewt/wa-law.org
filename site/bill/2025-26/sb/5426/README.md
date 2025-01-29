@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/29 08:00 AM - Human Services (HS): SB 5426 Court alternatives/youth
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32568&aId=162343&caId=25195&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32568&aId=162343&caId=25195&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32568&aId=162343&caId=25195&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32568&aId=162343&caId=25195&tId=4)
-
-#### 54 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * Gisella Gonzalez - TeamChild Youth Advisory Board
 * Liz Trautman - Stand for Children Washington
@@ -27,6 +21,6 @@ Testifying:
 * Julissa Sanchez - CHOOSE 180
 * Haily Perkins - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
-#### 22 👎 - Con
+#### 38 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

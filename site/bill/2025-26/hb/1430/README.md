@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161912&caId=25136&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161912&caId=25136&tId=4)
 
-#### 491 👍 - Pro
+#### 531 👍 - Pro
 Testifying:
 * Stacy Gray
 * Mallorie Mancuso
@@ -34,9 +34,11 @@ Testifying:
 * DNP, EdD, PHMNP, MaryAnne Murray - Balance Beams Wellness, PLLC
 * MSN, ARNP, FAANP, Maddy Wiley - ARNPs United of Washington State (AUWS)
 
-#### 8 👎 - Con
+#### 19 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Alex Wehinger - Washington State Medical Association (WSMA)
+* Andy Shang
 
 #### 3 ❓ - Other

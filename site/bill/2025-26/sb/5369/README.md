@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=4)
 
-#### 313 👍 - Pro
+#### 333 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Ray Thomas
@@ -120,12 +120,16 @@ Testifying:
 * Rosanna Yates-Bailey
 * Omar Mohamed - Elevate With Purpose Initiative
 
-#### 1571 👎 - Con
+#### 1779 👎 - Con
 Testifying:
 * Khushdip Brar - Concerned Citizen
 * Gabriel Jacobs
 
-#### 4 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Amy Cannava - Washington State Association of School Psychologists
 * 💵Zackary Turner - PESB
+* Kristina Miller - Washington Association of School Social Workers
+* Shannon Harris - Washington Association of School Social Worker
+* Amy Cannava - Washington State Association of School Psychologists
+* 💵Jenny Morgan - [Washington School Counselor Association](/org/washington_school_counselor_association/)

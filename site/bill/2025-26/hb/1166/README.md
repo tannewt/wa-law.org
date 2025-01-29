@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162108&caId=25138&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162108&caId=25138&tId=4)
 
-#### 638 👍 - Pro
+#### 666 👍 - Pro
 Testifying:
 * Laurel Durrett
 * Darrell Johnson
@@ -31,8 +31,9 @@ Testifying:
 * Heather Kelly - League of Women Voters of Washington
 * Jeremiah Bourgeois
 * Joel Strom
+* Alexis Hale - Justice for Girls
 
-#### 391 👎 - Con
+#### 514 👎 - Con
 
 #### 4 ❓ - Other
 Testifying:

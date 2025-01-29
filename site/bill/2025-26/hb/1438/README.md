@@ -8,18 +8,12 @@
 
 ## Meetings
 ### Wed 01/29 08:00 AM - Local Government (LG): HB 1438 Housing permit approval
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32571&aId=162308&caId=25179&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32571&aId=162308&caId=25179&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32571&aId=162308&caId=25179&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32571&aId=162308&caId=25179&tId=4)
-
-#### 141 👍 - Pro
+#### 167 👍 - Pro
 Testifying:
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Judge Glock
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Tim Woodard - [Washington Association of Building Officials](/org/washington_association_of_building_officials/)
 

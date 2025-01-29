@@ -1,13 +1,14 @@
 # City of Kent
 ## 2025-26
 
-## [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
 * 👎 Dana Ralph
+
+## [HB 1438](/bill/2025-26/hb/1438/) - Housing permit approval  👎1 
 
 ## 2023-24
 
-### [HB 1380](/bill/2023-24/hb/1380/) - Public property regulations  👎1 
-* 👎 Dana Ralph
+### [HB 1438](/bill/2023-24/hb/1438/) - Housing permit approval  👎1 
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  
 

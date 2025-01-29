@@ -14,15 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162157&caId=24986&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162157&caId=24986&tId=4)
 
-#### 1147 👍 - Pro
+#### 1207 👍 - Pro
 Testifying:
 * Robert Chaddock
 * Arezoo Holdaway
 * David Chi
 * Andrew Kim
 
-#### 205 👎 - Con
+#### 218 👎 - Con
 
-#### 5 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Linda Seltzer
+* 💵Carolyn Logue - [Washington Denturist Association](/org/washington_denturist_association/)

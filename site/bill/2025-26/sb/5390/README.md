@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32613&aId=162335&caId=25198&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32613&aId=162335&caId=25198&tId=4)
 
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
 * 💵Mark Brown - Former State Parks Commissioner
 
-#### 9 👎 - Con
+#### 141 👎 - Con
 
 #### 0 ❓ - Other

@@ -8,24 +8,18 @@
 
 ## Meetings
 ### Wed 01/29 08:00 AM - Labor & Workplace Standards (LAWS): HB 1332 Transp. network companies
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32601&aId=162136&caId=25118&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32601&aId=162136&caId=25118&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32601&aId=162136&caId=25118&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32601&aId=162136&caId=25118&tId=4)
-
-#### 107 👍 - Pro
+#### 110 👍 - Pro
 Testifying:
 * Adan Abdullahi
 * Peter Kuel - Drivers Union
 * Shiferahu Taye
 * Geoffrey Pounds
 
-#### 11 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * 💵Rose Feliciano - TechNet
 * Zahid Arab - Uber Technologies, Inc
 
-#### 18 ❓ - Other
+#### 19 ❓ - Other
 Testifying:
 * Alexander Samuel - Uber Black and SUV driver issues

@@ -7,6 +7,8 @@
 ### [HB 1199](/bill/2025-26/hb/1199/) - Strengthening consumer protection through increased insurer accountability for violations of the insurance code.   ❓1
 * ❓💵 Christine Brewer
 
+### [HB 1535](/bill/2025-26/hb/1535/) - Dental insurance practices  👎1 
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
@@ -14,7 +16,7 @@
 ### [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services   ❓1
 * ❓💵 Christine Brewer
 
-### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 
+### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎2 
 
 ## [SB 5361](/bill/2025-26/sb/5361/) - ASAM 4 treatment criteria 👍1  
 

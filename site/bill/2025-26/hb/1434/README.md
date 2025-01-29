@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162119&caId=25144&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162119&caId=25144&tId=4)
 
-#### 917 👍 - Pro
+#### 1298 👍 - Pro
 Testifying:
 * Momodou Conta
 * 💵Aya Samman
@@ -103,26 +103,78 @@ Testifying:
 * Wisam Ali
 * Ramsha Batool
 * Rafia Kamal
+* Farah alvi
+* Samreen Rasheed
 * Raya AlQaysi
 * Neferban Thayyil Abdurasheed
+* Neha Khan
+* Hamza Manzoor
+* Asad Faizi
+* Rafat Dhar
+* Ahmad Geelle
+* Sarah Hussain
 * Adil Hafeez
 * Belal Elkhouly
+* Wisam Aldulaimi
+* Feriya Hassan - 6302 s 249th st
 * Mubashir Koul
 * Adel Tirhi
 * Desirée Toliver
 * Sobia Sheikh
 * Angelique Rodriguez - CAIR-Washington
+* Yasir Mukhtar - 3624, 198th PL SE
+* Naila Ali
+* Mohammad Mousa - 940 N. Heatherwood West
+* Munir Khan
+* Abdullah Ly
+* Sherief Elbassuoni
+* Anwar Al-Aqrabawi
+* Safia Omar - 12164 SE 307 place
+* Fasiulla Mohammed
+* Awad Elhassan
+* Zahir Ali - Islamic of Kitsap county
+* Mohammad Vakil
+* Kashif Salim
+* Sarah Hamad
+* Vasaf Ma
+* Rasool Fathima Vasaf vajjif sulthan
+* Safwan Hasan
+* Shadi Majali
+* Funmi Shittu
+* Zanjbeel Rana - No
+* Maria W - 8995 bramblewood way
+* Jawid Dastagirzada
+* Jason Farmer
+* Lilly Torrez
+* Madiha Shah
+* Razma Yousufi
+* Rizwan Awan
+* Mohammed Ebsa
+* Ihab Mahdi
+* Yashar Shayan
+* Moath Sadaqa
+* Malika Keval
+* Farah alvi
+* Raihan Abdulmalik
+* Fadil Gucci
+* Asma Ilyas
+* Muhammad Waqas
 
-#### 536 👎 - Con
+#### 667 👎 - Con
 Testifying:
 * Zainab Turkmen
 * Nadeen Alkhalifah
 * Maro Al-Nidawi
 
-#### 63 ❓ - Other
+#### 78 ❓ - Other
 Testifying:
 * Irum asghar
 * Nasib Karimi
 * Ahmed Salman
 * Sadaf Aftab
 * Maan Al Khalidi
+* Johra Naveed - No
+* Dania Alchaar
+* salah ahmed
+* Buba Manneh - 14615 Madison Way Apt D202
+* Asmaa Rouissi

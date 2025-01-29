@@ -96,7 +96,7 @@
 
 ### [SB 5053](/bill/2025-26/sb/5053/) - PFD formation 👍1  
 
-### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates  👎2 
+### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates  👎3 
 * 👎💵 Carl Schroeder
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
@@ -139,11 +139,13 @@
 
 ### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 
 
-## [SB 5381](/bill/2025-26/sb/5381/) - Self-insurer withdrawal 👍1  
+### [SB 5381](/bill/2025-26/sb/5381/) - Self-insurer withdrawal 👍1  
+
+## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 
 ## 2023-24
 
-### [SB 5381](/bill/2023-24/sb/5381/) - Self-insurer withdrawal 👍1  
+### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

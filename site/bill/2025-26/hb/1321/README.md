@@ -20,11 +20,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162117&caId=25142&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162117&caId=25142&tId=4)
 
-#### 367 👍 - Pro
+#### 393 👍 - Pro
 Testifying:
 * Ahmad Ali - 20326 24th ave w
 
-#### 1559 👎 - Con
+#### 2430 👎 - Con
+Testifying:
+* Jeff Pack - Me
 
 #### 0 ❓ - Other
 

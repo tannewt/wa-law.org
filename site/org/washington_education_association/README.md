@@ -178,6 +178,9 @@
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
 
+### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
+* 👍 Jared Mason-Gere
+
 ### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans   ❓1
 * ❓ Jared Mason-Gere
 

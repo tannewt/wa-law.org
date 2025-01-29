@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1065/</link>
 		<description>Updates about HB 1065</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 24 Jan 2025 19:41:42 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 06:23:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -49,6 +49,14 @@
 			<pubDate>Fri, 24 Jan 2025 19:41:42 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201065</guid>
+		</item>
+		<item>
+			<title>👍Natalie Whitten - Member, Public Works Board</title>
+			<description>Natalie Whitten signed up to testify Pro.</description>
+			<pubDate>Wed, 29 Jan 2025 06:23:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Natalie/Whitten/2025-01-29 06:23:47</guid>
 		</item>
 	</channel>
 </rss>

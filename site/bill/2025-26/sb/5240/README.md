@@ -23,6 +23,6 @@ Testifying:
 Testifying:
 * Elizabeth Pray
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)

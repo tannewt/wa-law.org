@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5184/</link>
 		<description>Updates about SB 5184</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 24 Jan 2025 09:14:56 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 12:00:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -384,6 +384,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sarah/Dickmeyer/2025-01-24 09:14:56</guid>
+		</item>
+		<item>
+			<title>WA lawmakers want to limit parking requirements for new development • Washington State Standard</title>
+			<description>News article "WA lawmakers want to limit parking requirements for new development • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Wed, 29 Jan 2025 12:00:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/01/29/wa-lawmakers-want-to-limit-parking-requirements-for-new-development/#:~:text=Senate%20Bill%205184</guid>
 		</item>
 	</channel>
 </rss>

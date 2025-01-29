@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/29 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5451 Quantum economic development
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32584&aId=162377&caId=25201&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32584&aId=162377&caId=25201&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32584&aId=162377&caId=25201&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32584&aId=162377&caId=25201&tId=4)
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 
 #### 1 👎 - Con
 

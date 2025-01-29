@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32567&aId=162317&caId=25191&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32567&aId=162317&caId=25191&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Alice Butler - Project Be Free, NPC
 * Katya Wojcik - Project Be Free, NPC

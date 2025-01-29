@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1403/</link>
 		<description>Updates about HB 1403</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 12:55:34 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 05:42:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -95,6 +95,14 @@
 			<guid isPermaLink="false">testifier/Angela/Birney/2025-01-28 08:22:07</guid>
 		</item>
 		<item>
+			<title>👍John Butler - City of Redmond</title>
+			<description>John Butler signed up to testify Pro.</description>
+			<pubDate>Tue, 28 Jan 2025 10:02:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Butler/2025-01-28 10:02:54</guid>
+		</item>
+		<item>
 			<title>👍Brady Nordstrom - Housing Development Consortium</title>
 			<description>Brady Nordstrom signed up to testify Pro. They are signed up to represent Housing Development Consortium.</description>
 			<pubDate>Tue, 28 Jan 2025 11:52:49 GMT</pubDate>
@@ -109,6 +117,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Brian/Holtzclaw/2025-01-28 12:55:34</guid>
+		</item>
+		<item>
+			<title>👍Uche Okezie - HomeSight</title>
+			<description>Uche Okezie signed up to testify Pro. They are signed up to represent HomeSight.</description>
+			<pubDate>Wed, 29 Jan 2025 05:42:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Uche/Okezie/2025-01-29 05:42:03</guid>
 		</item>
 	</channel>
 </rss>

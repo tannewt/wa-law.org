@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162297&caId=25132&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162297&caId=25132&tId=4)
 
-#### 394 👍 - Pro
+#### 496 👍 - Pro
 Testifying:
 * Catherine Young - Tacoma Special education PTA
 * jessica morrow
@@ -49,11 +49,16 @@ Testifying:
 * Bevan Martin
 * Whitney Stohr
 * Sonora Standafer
+* Erin krempasky
 * Anna Miller
 * Courtney Criss - The Arc of Snohomish County
+* Lindsey Topping-schuetz
+* Brittany Huerta
+* Melissa Wren - Parent, Caregiver, Homeschooling Parent of a Disabled, Additional Needs Child
+* Rebecca Sumner
 
 #### 1 👎 - Con
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Fardosa Farah - 15300 33rd ave s N003
