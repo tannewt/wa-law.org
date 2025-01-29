@@ -16,6 +16,8 @@
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
 * 👍💵 Clifford Traisman
 
+### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
+
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  

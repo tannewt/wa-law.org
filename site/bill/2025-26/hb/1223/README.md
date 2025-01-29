@@ -8,18 +8,12 @@
 
 ## Meetings
 ### Tue 01/28 01:30 PM - State Government & Tribal Relations (SGOV): HB 1223 Voter challenges
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162115&caId=25101&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162115&caId=25101&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162115&caId=25101&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162115&caId=25101&tId=4)
-
-#### 361 👍 - Pro
+#### 409 👍 - Pro
 Testifying:
 * 💵Caron Cargill - Washington Voting Justice Coalition
 * Alice Clapman - I am testifying on behalf of the Brennan Center for Justice
 
-#### 702 👎 - Con
+#### 728 👎 - Con
 Testifying:
 * Erica Engelhart
 * Brandie Bills
@@ -27,6 +21,7 @@ Testifying:
 * Lorilee Gates
 * Marilyn Roggenkamp
 * Rebecca Faust - n/a
+* Sharon Damoff
 
 #### 1 ❓ - Other
 Testifying:

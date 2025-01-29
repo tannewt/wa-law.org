@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Tue 01/28 10:30 AM - Labor & Commerce (LC): SB 5400 Local news journalism
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162253&caId=25013&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162253&caId=25013&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162253&caId=25013&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162253&caId=25013&tId=4)
-
-#### 422 👍 - Pro
+#### 424 👍 - Pro
 Testifying:
 * Alan Fisco - [The Seattle Times](/org/the_seattle_times/)
 * Frank Blethen - [The Seattle Times](/org/the_seattle_times/)
@@ -40,6 +34,7 @@ Testifying:
 * Orson Bevins - Hispanavision Television
 * Melissa Luck - KXLY-TV
 * Heidi Persson - Pacific Northwest Media Group
+* Kathy Cummings - Gig Harbor Now
 * Keith Shipman - Washington State Association of Broadcasters
 
 #### 81 👎 - Con

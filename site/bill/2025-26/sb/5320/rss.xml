@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5320/</link>
 		<description>Updates about SB 5320</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 17 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 20:30:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,13 @@
 			<pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-17/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>January Session Recap - Sen. T’wina Nobles</title>
+			<description>News article "January Session Recap - Sen. T’wina Nobles" from Senate Democrats.</description>
+			<pubDate>Tue, 28 Jan 2025 20:30:27 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205320</guid>
 		</item>
 	</channel>
 </rss>

@@ -11,19 +11,14 @@
 
 ## Meetings
 ### Tue 01/28 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1177 Child welfare housing assist
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162001&caId=25091&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162001&caId=25091&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162001&caId=25091&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162001&caId=25091&tId=4)
-
-#### 70 👍 - Pro
+#### 79 👍 - Pro
 Testifying:
 * Michael Mirra - Association of Washington Housing Authorities; Admin. Office of the Courts Comm. on Housing & CW
 * Kim Justice - Partners for Our Children
 * Tara Urs - King County Department of Public Defense
 * Gina Wassemiller - FIRST Clinic
 * 💵Shrounda Selivanoff - Washington State Office of Public Defense
+* Jason Bragg
 
 #### 0 👎 - Con
 

@@ -14,14 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32544&aId=161921&caId=25113&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32544&aId=161921&caId=25113&tId=4)
 
-#### 8 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Dylan Sluder - Master Builders Association of King and Snohomish Counties
 
-#### 148 👎 - Con
+#### 504 👎 - Con
 Testifying:
 * Maria Rose
 * Michael Feerer - Whatcom Million Trees Project
 * Sandy Shettler - Tree Action Seattle
 * JOHN WORTHINGTON
 * Natasha Hays - Friends of Trees
+* Martha Baskin
+* June BlueSpruce
+* Mariska Kecskes - Sierra Club Washington
+* Steve Zemke - Friends of Seattle's Urban Forest
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)

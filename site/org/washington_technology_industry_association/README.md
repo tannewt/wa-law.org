@@ -5,6 +5,8 @@
 
 ### [HB 1268](/bill/2025-26/hb/1268/) - Virtual currency kiosks 👍1  
 
+### [HB 1332](/bill/2025-26/hb/1332/) - Transp. network companies  👎1 
+
 ### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍1  
 
 ## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 

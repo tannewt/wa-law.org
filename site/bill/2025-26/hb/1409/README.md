@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/28 04:00 PM - Environment & Energy (ENVI): HB 1409 Clean fuels program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162203&caId=25109&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162203&caId=25109&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162203&caId=25109&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162203&caId=25109&tId=4)
-
-#### 250 👍 - Pro
+#### 289 👍 - Pro
 Testifying:
 * 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
@@ -25,16 +19,21 @@ Testifying:
 * Robin Vercruse - [Low Carbon Fuels Coalition](/org/low_carbon_fuels_coalition/)
 * Aimee Higby - Tacoma Public Utilities/Tacoma Power
 * Michael Breish - Seattle City Light/City of Seattle
+* 💵Kent Hartwig - I am an official representative of Gevo
+* Jonathan Harding - American Biogas Council
 * Cory-Ann Wind - [Clean Fuels Alliance America](/org/clean_fuels_alliance_america/)
 * Scott Richards - [Clean Fuels Alliance America](/org/clean_fuels_alliance_america/)
 * Sam Wade - Coalition for Renewable Natural Gas
 * Dean Taylor - Dean Taylor Consulting
 
-#### 790 👎 - Con
+#### 827 👎 - Con
 Testifying:
 * 💵Jessica Spiegel - WSPA
+* Jodie Muller - WSPA
 * Ben Buchholz - NW Agricultural Cooperative Council, WA Friends of Farms and Forests, Far West Agribusiness Assoc.
 * Jeff Pack - Me
+* Arthur West
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 8 ❓ - Other
 Testifying:

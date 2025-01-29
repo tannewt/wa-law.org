@@ -1,13 +1,16 @@
 # Washington Student Association
 ## 2025-26
 
-## [HB 1278](/bill/2025-26/hb/1278/) - Higher ed. gov./students 👍2  
+### [HB 1278](/bill/2025-26/hb/1278/) - Higher ed. gov./students 👍2  
 * 👍 Sean Behl
+
+## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
+* 👍💵 Isela Bonilla
 
 ## 2023-24
 
-### [HB 1278](/bill/2023-24/hb/1278/) - Higher ed. gov./students 👍2  
-* 👍 Sean Behl
+### [SB 5402](/bill/2023-24/sb/5402/) - Financial aid eligibility 👍1  
+* 👍💵 Isela Bonilla
 
 ### [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 * 👍 Joseph Gabriel Burke

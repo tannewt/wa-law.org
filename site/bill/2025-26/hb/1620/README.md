@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162353&caId=25204&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162353&caId=25204&tId=4)
 
-#### 53 👍 - Pro
+#### 96 👍 - Pro
 Testifying:
 * 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Chandra Ifie - Survivor Parent
@@ -23,8 +23,13 @@ Testifying:
 * Judge Alicia Burton - Superior Court Judges' Association
 * Mary Welch - Northwest Justice Project
 * Gaston Shelton
+* 💵Paula Sardinas - WBBA (WA Build Black Alliance)
+* Karin White - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
+* Amarinthia Torres - Coalition Ending Gender-Based Violence
+* Kristina Peterson
+* Grace Amos - DV Survivor
 
-#### 38 👎 - Con
+#### 105 👎 - Con
 Testifying:
 * 💵Evangeline Stratton
 * Tamara Emerson - 3221 s 17th st
@@ -38,8 +43,12 @@ Testifying:
 * Melanie Kraintz
 * Sarah Hulteen
 * Heidi Padilla - For Ashley, & Nicolaas- my 17 yr old son who was killed escaping Domestic Violence in August 2024
+* Shannon Draughon - Carnation Legal, LLC
+* Chelsi Eastwood
+* Tanya Goodman
 * LaRae Lobdell - LaRae Lobdell
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
+* Em Stone - Department of Commerce
 * Patrick Rawnsley - WSBA Family Law Executive Committee

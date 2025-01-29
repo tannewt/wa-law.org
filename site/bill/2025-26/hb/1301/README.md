@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/28 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1301 Confinement fees & expenses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161960&caId=25107&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161960&caId=25107&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161960&caId=25107&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161960&caId=25107&tId=4)
-
-#### 344 👍 - Pro
+#### 377 👍 - Pro
 Testifying:
 * Tamara Light - Information For Change Washington
 * Jacob Schmitt - Just Us Solutions, LLC
@@ -27,6 +21,6 @@ Testifying:
 * Larry Jefferson - Director, Washington State Office of Public Defense
 * 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
 
-#### 30 👎 - Con
+#### 34 👎 - Con
 
 #### 1 ❓ - Other

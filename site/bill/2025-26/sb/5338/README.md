@@ -6,15 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles introduces bill to update WA veterans committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/nobles-introduces-bill-to-update-wa-veterans-committee/#:~:text=Senate%20Bill%205338)
+* 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205183)
+
 ## Meetings
 ### Tue 01/28 01:30 PM - State Government & Elections (SGE): SB 5338 Veterans affairs adv. comm.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161929&caId=25032&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161929&caId=25032&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161929&caId=25032&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161929&caId=25032&tId=4)
-
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Miguel Padilla - Veterans Legislative Coalition
 * Miguel Padilla - Veterans Legislative Coalition

@@ -16,10 +16,12 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Marc Stern
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
+* 💵Vanessa Saavedra - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* 💵Ethan Frenchman - [Columbia Legal Services](/org/columbia_legal_services/)
 
 #### 1 ❓ - Other
 Testifying:

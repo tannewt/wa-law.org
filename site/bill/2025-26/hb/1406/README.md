@@ -17,9 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32579&aId=162086&caId=25123&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32579&aId=162086&caId=25123&tId=4)
 
-#### 35 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * Ray Stephanson - [Economic Alliance Snohomish County](/org/economic_alliance_snohomish_county/)
+* Jennie Dickinson - Port of Columbia
+* 💵Jennifer Baker - [Columbia River Economic Development Council](/org/columbia_river_economic_development_council/)
+* Jonathan Smith - Yakima County Development Association
+* Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
+* Vaughn Taylor - Seattle Metropolitan Chamber of Commerce (ADO for King County)
 
 #### 0 👎 - Con
 

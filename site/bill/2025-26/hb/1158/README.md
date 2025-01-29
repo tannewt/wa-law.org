@@ -17,15 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162005&caId=25129&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162005&caId=25129&tId=4)
 
-#### 45 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * Kim McLeod
 * Linda Hyatt
 * Kelley Nesbitt
 * Ryan Nesbitt
 * Rose` Yu
+* Frances Peltier - Families for Better Lives
 
-#### 111 👎 - Con
+#### 134 👎 - Con
 Testifying:
 * 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Stacy Dym
@@ -35,5 +36,8 @@ Testifying:
 * Blake Duarte
 * Lacey Davis
 * Larry Garman
+* 💵Darla Helt - PEACE NW
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kodi Doty

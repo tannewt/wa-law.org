@@ -3,6 +3,12 @@
 
 ### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍1  
 
+### [HB 1498](/bill/2025-26/hb/1498/) - Domestic viol. co-responders   ❓1
+* ❓💵 Sherrie Tinoco
+
+### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations 👍1  
+* 👍 Karin White
+
 ## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 * 👍💵 Melanie Smith
 

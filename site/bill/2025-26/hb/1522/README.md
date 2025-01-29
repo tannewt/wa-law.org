@@ -17,12 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32560&aId=162229&caId=25147&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32560&aId=162229&caId=25147&tId=4)
 
-#### 3 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Jay Balasbas - PacifiCorp
 * Jillian Caires - Avista Corporation
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Alessandra De la Torre - NW Energy Coalition
 
 #### 0 ❓ - Other

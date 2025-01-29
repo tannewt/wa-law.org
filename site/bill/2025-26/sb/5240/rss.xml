@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5240/</link>
 		<description>Updates about SB 5240</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 07:52:08 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 07:07:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2025-01-14/First reading, referred to Early Learning &amp; K-12 Education.</guid>
 		</item>
 		<item>
-			<title>👎Elizabeth Pray - Providence Health</title>
+			<title>👎Elizabeth Pray - Washington Federation of Independent Schools</title>
 			<description>Elizabeth Pray signed up to testify Con.</description>
 			<pubDate>Mon, 27 Jan 2025 06:09:03 GMT</pubDate>
 			<category>testifier</category>
@@ -37,6 +37,22 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Misha/Cherniske/2025-01-27 07:52:08</guid>
+		</item>
+		<item>
+			<title>👍Rick Hughes - Ray's Pharmacy, Orcas Island</title>
+			<description>Rick Hughes signed up to testify Pro. They are signed up to represent Ray's Pharmacy, Orcas Island.</description>
+			<pubDate>Tue, 28 Jan 2025 06:57:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rick/Hughes/2025-01-28 06:57:56</guid>
+		</item>
+		<item>
+			<title>👍💵Suzanne Hanson - Washington Federation of Independent Schools</title>
+			<description>Suzanne Hanson signed up to testify Pro. They are signed up to represent Washington Federation of Independent Schools. They are a registered lobbyist.</description>
+			<pubDate>Tue, 28 Jan 2025 07:07:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Suzanne/Hanson/2025-01-28 07:07:21</guid>
 		</item>
 	</channel>
 </rss>

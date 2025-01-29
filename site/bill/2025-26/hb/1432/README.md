@@ -14,12 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161913&caId=25137&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161913&caId=25137&tId=4)
 
-#### 246 👍 - Pro
+#### 289 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * Rachael Snell
 * Judith Gordon
+* ELEANOR HAMBURGER - Sirianni Youtz Spoonemore Hamburger
+* 💵Anna Nepomuceno - NAMI Washington and Patients Coalition of WA
+* Dr. London Breedlove - WA State Psychological Association
+* Jake Swanton - Inseparable
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Kathleen Wedemeyer - Citizens Commission on Human Rights
 
 #### 1 ❓ - Other

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162007&caId=25131&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162007&caId=25131&tId=4)
 
-#### 20 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Kyle Matheson - Self advocate
 * Kyle Matheson - Self advocate
@@ -23,7 +23,15 @@ Testifying:
 * 💵Shawn Latham - Serlf Advocates In Leadership
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds
 * Krishan Hansen - Kahn and Hansen & Associates
+* Victoria Walton Chirieleison
+* Andrew Morrison - Sex Offender Policy Board
+* Brad Meryhew - Sex Offender Policy Board
+* Kris Pederson - DSHS Developmental Disabilities Administration
 
-#### 0 👎 - Con
+#### 14 👎 - Con
+Testifying:
+* Sonja Hardenbrook - WDA/WACDL
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Sonja Hardenbrook - WDA/WACDL

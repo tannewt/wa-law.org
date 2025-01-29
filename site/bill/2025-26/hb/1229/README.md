@@ -11,18 +11,13 @@
 
 ## Meetings
 ### Tue 01/28 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1229 Persistent offenders
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161957&caId=25104&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161957&caId=25104&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161957&caId=25104&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161957&caId=25104&tId=4)
-
-#### 47 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
 * Larry Jefferson - Director, Washington State Office of Public Defense
+* Cindy Arends - Washington Defender Assn, WA Assn Criminal Defense Attorneys
 
-#### 12 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 

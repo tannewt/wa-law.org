@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205164)
 * 01/16/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to expand postsecondary access heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/16/nobles-bill-to-expand-postsecondary-access-heard-in-committee/#:~:text=Senate%20Bill%205164)
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205164)
 

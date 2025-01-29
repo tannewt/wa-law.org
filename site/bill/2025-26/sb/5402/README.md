@@ -17,14 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32577&aId=162112&caId=24997&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32577&aId=162112&caId=24997&tId=4)
 
-#### 499 👍 - Pro
+#### 966 👍 - Pro
 Testifying:
 * Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
 * Miguel Garduno Munoz - Western Washington University
 * victoria Arneson-Saunders - student at university of washington
 * Jacob Vigdor - University of Washington Faculty/COF
 * Sam Ligon - Eastern Washington University Faculty/COF
+* 💵Isela Bonilla - [Washington Student Association](/org/washington_student_association/)
+* Jessica Perez - State Board for Community and Technical Colleges
+* Grace Lugo-Sanchez
+* Bill Lyne - United Faculty of Washington State
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 
-#### 1 ❓ - Other
+#### 7 ❓ - Other

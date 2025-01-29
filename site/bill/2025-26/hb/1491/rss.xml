@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1491/</link>
 		<description>Updates about HB 1491</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 08:45:28 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 11:05:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,7 +30,7 @@
 			<guid isPermaLink="true">https://www.theurbanist.org/2025/01/22/washington-legislature-sets-it-sights-on-transit-oriented-development-again/#:~:text=House%20Bill%201491</guid>
 		</item>
 		<item>
-			<title>👎Aidan Thornsberry - Front and Centered</title>
+			<title>👎Aidan Thornsberry - Office of the Governor</title>
 			<description>Aidan Thornsberry signed up to testify Con.</description>
 			<pubDate>Thu, 23 Jan 2025 10:35:13 GMT</pubDate>
 			<category>testifier</category>
@@ -84,7 +84,7 @@
 			<guid isPermaLink="false">testifier/Ryan/Donohue/2025-01-27 11:22:55</guid>
 		</item>
 		<item>
-			<title>👎Claire Eberle - Front and Centered</title>
+			<title>👎Claire Eberle - Office of the Governor</title>
 			<description>Claire Eberle signed up to testify Con.</description>
 			<pubDate>Mon, 27 Jan 2025 11:26:00 GMT</pubDate>
 			<category>testifier</category>
@@ -98,6 +98,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Guillermo/Rogel/2025-01-27 11:48:10</guid>
+		</item>
+		<item>
+			<title>❓💵Joren Clowers - Sno-King Water District Coalition</title>
+			<description>Joren Clowers signed up to testify Other. They are signed up to represent Sno-King Water District Coalition. They are a registered lobbyist.</description>
+			<pubDate>Tue, 28 Jan 2025 01:02:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Joren/Clowers/2025-01-28 01:02:58</guid>
+		</item>
+		<item>
+			<title>👎💵Morgan Irwin - AWB</title>
+			<description>Morgan Irwin signed up to testify Con. They are signed up to represent AWB. They are a registered lobbyist.</description>
+			<pubDate>Tue, 28 Jan 2025 01:07:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Morgan/Irwin/2025-01-28 01:07:44</guid>
 		</item>
 		<item>
 			<title>❓💵Michael Transue - City of Fife</title>
@@ -114,6 +130,54 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/McKenzie/Darr/2025-01-28 08:45:28</guid>
+		</item>
+		<item>
+			<title>👍💵Michele Thomas - Washington Low Income Housing Alliance</title>
+			<description>Michele Thomas signed up to testify Pro. They are signed up to represent Washington Low Income Housing Alliance. They are a registered lobbyist.</description>
+			<pubDate>Tue, 28 Jan 2025 09:33:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michele/Thomas/2025-01-28 09:33:54</guid>
+		</item>
+		<item>
+			<title>❓💵Bill Clarke - WA REALTORS</title>
+			<description>Bill Clarke signed up to testify Other. They are signed up to represent WA REALTORS. They are a registered lobbyist.</description>
+			<pubDate>Tue, 28 Jan 2025 09:50:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Bill/Clarke/2025-01-28 09:50:58</guid>
+		</item>
+		<item>
+			<title>👍Nicholas Carr - Office of the Governor</title>
+			<description>Nicholas Carr signed up to testify Pro. They are signed up to represent Office of the Governor.</description>
+			<pubDate>Tue, 28 Jan 2025 09:55:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nicholas/Carr/2025-01-28 09:55:12</guid>
+		</item>
+		<item>
+			<title>👎Ryan Windish - City of Sumner</title>
+			<description>Ryan Windish signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_sumner/"&gt;City of Sumner&lt;/a&gt;.</description>
+			<pubDate>Tue, 28 Jan 2025 10:32:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ryan/Windish/2025-01-28 10:32:12</guid>
+		</item>
+		<item>
+			<title>❓Mayor Mary Lou Pauly - City of Issaquah</title>
+			<description>Mayor Mary Lou Pauly signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_issaquah/"&gt;City of Issaquah&lt;/a&gt;.</description>
+			<pubDate>Tue, 28 Jan 2025 10:56:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Mayor Mary Lou/Pauly/2025-01-28 10:56:32</guid>
+		</item>
+		<item>
+			<title>❓💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 28 Jan 2025 11:05:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2025-01-28 11:05:29</guid>
 		</item>
 	</channel>
 </rss>

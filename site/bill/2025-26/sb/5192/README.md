@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205192)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205192)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [Week Two Comes to a Close - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/01/24/week-two-comes-to-a-close/#:~:text=5192)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 session is underway! - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/01/24/2025-session-is-underway/#:~:text=SB%205192)

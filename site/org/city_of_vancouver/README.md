@@ -6,6 +6,8 @@
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
 
+### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
+
 ## [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 * 👍 Ty Stober
 

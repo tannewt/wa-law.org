@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161912&caId=25136&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161912&caId=25136&tId=4)
 
-#### 418 👍 - Pro
+#### 491 👍 - Pro
 Testifying:
 * Stacy Gray
 * Mallorie Mancuso
@@ -25,9 +25,18 @@ Testifying:
 * Lianabell Soto Silva
 * Danielle Waldron
 * Tami Silva
+* Jamie Danell
+* Hannah Goettle
+* CRNA, LCDR, Ashley Fedan - ARNPs United of Washington State (AUWS)
+* DNP, APRN, RN, Justin Gill - Washington State Nurses Association (WSNA)
+* PAC, Eileen Ravella - Washington Academy of Physician Assistants (WAPA)
+* PhD, ARNP, FNP-BC, Louise Kaplan - ARNPs United of Washington State (AUWS)
+* DNP, EdD, PHMNP, MaryAnne Murray - Balance Beams Wellness, PLLC
+* MSN, ARNP, FAANP, Maddy Wiley - ARNPs United of Washington State (AUWS)
 
-#### 2 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other

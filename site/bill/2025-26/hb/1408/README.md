@@ -17,8 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32579&aId=162087&caId=25124&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32579&aId=162087&caId=25124&tId=4)
 
-#### 53 👍 - Pro
+#### 75 👍 - Pro
+Testifying:
+* Kathleen Barry Johnson - [Historic South Downtown](/org/historic_south_downtown/)
+* Armando Garzon - Kolors Studios
+* 💵Christopher Ellis - Bricklayers & Allied Craftworkers Local 1
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/28 01:30 PM - State Government & Elections (SGE): SB 5106 Eid al-Fitr & Eid al-Adha
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161930&caId=25033&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161930&caId=25033&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161930&caId=25033&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32549&aId=161930&caId=25033&tId=4)
-
-#### 641 👍 - Pro
+#### 733 👍 - Pro
 Testifying:
 * Wahaj uddin Mohammed
 * Alias F - Op
@@ -36,14 +30,22 @@ Testifying:
 * Mubashir Koul
 * Shaheen Hameed
 * Maryam sajid
+* Katharine Walker - CAIR Washington
+* Rafia Kamal
+* Fatuma M Adem
+* Zainab Ateeque
+* Sabrene Odeh - CAIR
+* Desirée Toliver
+* Amina Khan
 * Fathia Hassan
 * Nashad Safa
 
-#### 689 👎 - Con
+#### 718 👎 - Con
 
-#### 16 ❓ - Other
+#### 18 ❓ - Other
 Testifying:
 * Arwa Abdulrahman
 * Lama Darawsha
 * Mazen Aladwan
 * Zebiba Nur - Open hand childcare
+* Khursheed Mir

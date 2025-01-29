@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162131&caId=24999&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162131&caId=24999&tId=4)
 
-#### 42 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * Kol Peterson - Tiny Hookups LLC
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
@@ -24,9 +24,10 @@ Testifying:
 * Tim McCormick
 * Lisa Tenney - HomeMindBody.con
 * Gwyn Howat - Mt Baker Ski Area
+* Mckellips Todd - Wa tiny house association
 * Michelle Boyle - Self
 
-#### 2 👎 - Con
+#### 12 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

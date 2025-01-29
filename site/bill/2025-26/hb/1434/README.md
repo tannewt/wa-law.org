@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162119&caId=25144&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162119&caId=25144&tId=4)
 
-#### 727 👍 - Pro
+#### 917 👍 - Pro
 Testifying:
 * Momodou Conta
 * 💵Aya Samman
@@ -79,21 +79,47 @@ Testifying:
 * Attiqullah Kazimi
 * Ahmad Ahmadzai
 * Zoha Khan
+* Tasneem B Janif
+* Abdul Abbasi
+* Jason Farmer
+* Husna Eshraqi
+* Sajad Ahmad Sofi - Iraq community Center
+* Fatema Abeed
+* Abdul Q Khan
+* Esraa Aakool
 * Hayat Hussen
 * Suci Rahmadini
+* Faris Khilfeh
+* Hira Niaz
+* Samia El-Moslimany
+* Hussam Mikkawi - No
 * Sana Jawad
+* Sameera afzal
 * Ida Firri
 * Hina Adnan
 * Sinet Mohammed
+* Ahmad Nazem
+* Ola Alhilfi
+* Wisam Ali
+* Ramsha Batool
+* Rafia Kamal
+* Raya AlQaysi
+* Neferban Thayyil Abdurasheed
+* Adil Hafeez
+* Belal Elkhouly
+* Mubashir Koul
 * Adel Tirhi
+* Desirée Toliver
+* Sobia Sheikh
+* Angelique Rodriguez - CAIR-Washington
 
-#### 201 👎 - Con
+#### 536 👎 - Con
 Testifying:
 * Zainab Turkmen
 * Nadeen Alkhalifah
 * Maro Al-Nidawi
 
-#### 36 ❓ - Other
+#### 63 ❓ - Other
 Testifying:
 * Irum asghar
 * Nasib Karimi

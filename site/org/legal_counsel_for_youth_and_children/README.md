@@ -60,6 +60,10 @@
 
 ### [SB 5272](/bill/2025-26/sb/5272/) - School safety/penalties  👎1 
 
+### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍2  
+* 👍 Alex Narvaez
+* 👍💵 Roxana Gomez
+
 ## [SB 5488](/bill/2025-26/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍1  
 * 👍 Annie Chung
 

@@ -3,7 +3,7 @@
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
-### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍1  
+### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍2  
 
 ### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍1  
 
@@ -30,6 +30,9 @@
 * 👍💵 Hannah Woerner
 
 ### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
+
+### [HB 1240](/bill/2025-26/hb/1240/) - Vehicle impounds 👍1  
+* 👍💵 Sarah Nagy
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
 
@@ -65,11 +68,17 @@
 
 ### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍3  
 
-## [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
+### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
+
+### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍1  
+
+## [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎1 
+* 👎💵 Ethan Frenchman
 
 ## 2023-24
 
-### [SB 5266](/bill/2023-24/sb/5266/) - Early release petitions 👍1  
+### [SB 5388](/bill/2023-24/sb/5388/) - DOC behavioral health cert.  👎1 
+* 👎💵 Ethan Frenchman
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty   ❓2
 * ❓💵 Antonio Ginatta

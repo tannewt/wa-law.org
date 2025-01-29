@@ -14,12 +14,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32610&aId=162339&caId=25186&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32610&aId=162339&caId=25186&tId=4)
 
-#### 35 👍 - Pro
+#### 74 👍 - Pro
 Testifying:
 * Chris Brown - [Pierce County](/org/pierce_county/)
 * Sam Tracy - CLYNK
+* Allison Kustic - Association for Plastic Recyclers
+* Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
+* 💵Megan Lane - Coalition for High Performance Recycling
+* Dr. Anja Brandon - Ocean Conservancy
+* Scott DeFife - Glass Packaging Institute
+* Sydney Harris - [Upstream](/org/upstream/)
+* James Toner - International Bottled Water Association (IBWA)
+* Liz Donohue - Primo Brands
+* Fiona Bell - Novelis
+* Francisco Castillo - [Diageo](/org/diageo/)
+* Liz Donohue - Primo Brands
+* Chris Brown - Pierce County Sustainable Resources
+* John McDonald - Washington Wine Association
+* Maggie Yuse - Seattle Public Utilities
+* Hannah Martinez - Indorama Ventures
+* 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
 
-#### 146 👎 - Con
+#### 411 👎 - Con
 Testifying:
 * 💵Jay Balasbas - Basin Disposal and Consolidated Disposal Services Inc.
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
@@ -27,8 +43,12 @@ Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Lyset Cadena - WM (Waste Management)
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
+* 💵Brandon Houskeeper - NW Grocery Retail Association
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)

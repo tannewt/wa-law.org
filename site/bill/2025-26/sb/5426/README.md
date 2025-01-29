@@ -14,10 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32568&aId=162343&caId=25195&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32568&aId=162343&caId=25195&tId=4)
 
-#### 32 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Gisella Gonzalez - TeamChild Youth Advisory Board
+* Liz Trautman - Stand for Children Washington
+* Katie Hurley - King County Department of Public Defense
+* Alex Narvaez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* Morning Large
+* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* LaDessa Croucher - [Resolution Washington](/org/resolution_washington/)
+* Linnea Anderson - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
+* Julissa Sanchez - CHOOSE 180
+* Haily Perkins - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
-#### 3 👎 - Con
+#### 22 👎 - Con
 
 #### 0 ❓ - Other

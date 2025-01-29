@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1310/</link>
 		<description>Updates about HB 1310</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 16:49:21 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 12:18:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -218,6 +218,14 @@
 			<pubDate>Mon, 27 Jan 2025 16:49:21 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/2025session-week3/#:~:text=HB%201310</guid>
+		</item>
+		<item>
+			<title>👍Patrick Murphy - Olympia School District</title>
+			<description>Patrick Murphy signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/olympia_school_district/"&gt;Olympia School District&lt;/a&gt;.</description>
+			<pubDate>Tue, 28 Jan 2025 12:18:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Patrick/Murphy/2025-01-28 12:18:45</guid>
 		</item>
 	</channel>
 </rss>

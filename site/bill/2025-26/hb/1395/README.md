@@ -17,8 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162111&caId=25141&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162111&caId=25141&tId=4)
 
-#### 146 👍 - Pro
+#### 185 👍 - Pro
+Testifying:
+* Maria Osegueda
+* Melissah Watts - Parent Provider
+* Nelly Prieto
+* Shaine Truscott - SEIU 775
+* 💵Brad Banks - Home Care Coalition
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
-#### 23 ❓ - Other
+#### 25 ❓ - Other
+Testifying:
+* 💵Noah Seidel - Office of Developmental Disabilities Ombuds

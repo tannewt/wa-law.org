@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5080/</link>
 		<description>Updates about SB 5080</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 06:55:31 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 21:04:55 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -186,6 +186,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Hannah/Whitehouse/2025-01-28 06:55:31</guid>
+		</item>
+		<item>
+			<title>Senate proposal would require financial education for WA high school students | king5.com</title>
+			<description>News article "Senate proposal would require financial education for WA high school students | king5.com" from KING5.</description>
+			<pubDate>Tue, 28 Jan 2025 13:04:50 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/politics/state-politics/financial-education-required-senate-proposal/281-23211950-0b22-4707-9810-474bf329b5ae#:~:text=Senate%20Bill%205080</guid>
+		</item>
+		<item>
+			<title>Valdez bill to make financial education a high school graduation requirement heard in committee  - Sen. Javier Valdez</title>
+			<description>News article "Valdez bill to make financial education a high school graduation requirement heard in committee  - Sen. Javier Valdez" from Senate Democrats.</description>
+			<pubDate>Tue, 28 Jan 2025 21:04:55 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2025/01/28/valdez-bill-to-make-financial-education-a-high-school-graduation-requirement-heard-in-committee/#:~:text=Senate%20Bill%205080</guid>
 		</item>
 	</channel>
 </rss>

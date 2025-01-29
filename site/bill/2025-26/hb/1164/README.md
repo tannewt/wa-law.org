@@ -11,15 +11,10 @@
 
 ## Meetings
 ### Tue 01/28 10:30 AM - Local Government (LG): HB 1164 Urban growth area boundaries
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162038&caId=25086&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162038&caId=25086&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162038&caId=25086&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162038&caId=25086&tId=4)
-
-#### 117 👍 - Pro
+#### 118 👍 - Pro
 Testifying:
 * Mary Hull-Drury - Washington Realtors
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 46 👎 - Con

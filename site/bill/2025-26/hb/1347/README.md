@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/28 01:30 PM - Consumer Protection & Business (CPB): HB 1347 Cannabis testing labs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32573&aId=162048&caId=25089&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32573&aId=162048&caId=25089&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32573&aId=162048&caId=25089&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32573&aId=162048&caId=25089&tId=4)
-
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Brooke Davies - Washington CannaBusiness Association
 * Thomas Hubbell - Treeline Analytics

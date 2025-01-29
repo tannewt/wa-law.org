@@ -18,14 +18,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162331&caId=25183&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162331&caId=25183&tId=4)
 
-#### 19 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 320 👎 - Con
+#### 357 👎 - Con
 Testifying:
 * Kelsie Reynolds
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
+* Cheryl Stowers
+* Cheryl Stowers
 * Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* Doug Ball - Jacksons Food Stores
 
 #### 3 ❓ - Other

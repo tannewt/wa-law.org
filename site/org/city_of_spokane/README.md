@@ -4,6 +4,8 @@
 ### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
 * 👍 Marlene Feist
 
+### [HB 1258](/bill/2025-26/hb/1258/) - Providing funding for municipalities participating in the regional 911 emergency communications system. 👍1  
+
 ### [HB 1260](/bill/2025-26/hb/1260/) - Document recording fee admin 👍1  
 * 👍💵 Nick Federici
 

@@ -9,6 +9,8 @@
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
 
+### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
+
 ### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act.  👎1 
 
 ### [SB 5286](/bill/2025-26/sb/5286/) - State hospitals/police costs 👍1  

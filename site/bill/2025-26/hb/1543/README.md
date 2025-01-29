@@ -8,16 +8,11 @@
 
 ## Meetings
 ### Tue 01/28 04:00 PM - Environment & Energy (ENVI): HB 1543 Clean buildings standard
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162264&caId=25111&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162264&caId=25111&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162264&caId=25111&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162264&caId=25111&tId=4)
-
-#### 13 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Emily Salzberg - Washington State Department of Commerce
 
-#### 31 👎 - Con
+#### 32 👎 - Con
 
 #### 1 ❓ - Other

@@ -14,16 +14,38 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=162333&caId=25175&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=162333&caId=25175&tId=4)
 
-#### 996 👍 - Pro
+#### 1144 👍 - Pro
 Testifying:
 * Lexi Benner
 * Arezoo Holdaway
 * David Chi
 * Brent Robinson - Robinson Dental
 * Garrett Gentling
+* Betsey Thompson - WSDA
+* Mamiko Kuriya - WSDA
+* Brittany Dean
+* Chris Dorow
+* Lisa Egbert - WSDA
+* John Gibbons - WSDA
+* Puneet Aulakh - WSDA
+* Andrew Kim
+* Cynthia Pauley - WSDA
+* 💵Kevin Schilling - WSDA
+* Kjersten Otterholt - WSDA
 
-#### 161 👎 - Con
+#### 211 👎 - Con
 Testifying:
 * Gary Renville - Project Access Northwest
+* Carol Nelson - Delta Dental of WA
+* 💵Paula Sardinas - WA Build Back Black Alliance/FM Global Strategies
+* DDS, Katie Hakes - Delta Dental of WA
+* Gary Renville - Project Access Northwest
+* Steve DiPietro - Alliant Employee Benefits
+* Andrew Lofton - Arcora Foundation
+* Chris Bandoli - America's Health Insurance Plans
+* DDS, Cyrus Lee - Kaiser Permanente - Executive Dental Director
+* Jim Freeburg - Patient Coalition of Washington
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Jane Beyer - Office of the Insurance Commissioner

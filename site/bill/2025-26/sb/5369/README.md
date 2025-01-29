@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=4)
 
-#### 287 👍 - Pro
+#### 313 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Ray Thomas
@@ -114,12 +114,18 @@ Testifying:
 * Marijke Fakasiieiki
 * Jess Ingman - [Faith Action Network](/org/faith_action_network/)
 * Oneida Arnold
+* Kenia Soriano Hernandez
+* 💵Anna Nepomuceno - NAMI Washington
+* Nandika Devarajan - Redmond High School and NAMI WA Youth
+* Rosanna Yates-Bailey
 * Omar Mohamed - Elevate With Purpose Initiative
 
-#### 1020 👎 - Con
+#### 1571 👎 - Con
 Testifying:
+* Khushdip Brar - Concerned Citizen
 * Gabriel Jacobs
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Amy Cannava - Washington State Association of School Psychologists
+* 💵Zackary Turner - PESB

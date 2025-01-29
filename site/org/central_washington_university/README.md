@@ -23,11 +23,11 @@
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 * 👍 Steve DuPont
 
-## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍3  
+## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍4  
 
 ## 2023-24
 
-### [SB 5402](/bill/2023-24/sb/5402/) - Financial aid eligibility 👍3  
+### [SB 5402](/bill/2023-24/sb/5402/) - Financial aid eligibility 👍4  
 
 ### [HB 1003](/bill/2023-24/hb/1003/) - Dual credit program access   ❓1
 * ❓ Steve DuPont

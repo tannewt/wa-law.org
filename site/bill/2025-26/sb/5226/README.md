@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205226)
+
 ## Meetings
 ### Fri 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5226 Physician res./international
 Sign up to testify:

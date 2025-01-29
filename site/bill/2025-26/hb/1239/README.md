@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/28 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1239 Reentry readiness/DOC
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161958&caId=25105&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161958&caId=25105&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161958&caId=25105&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32554&aId=161958&caId=25105&tId=4)
-
-#### 642 👍 - Pro
+#### 683 👍 - Pro
 Testifying:
 * Aaron Delaney
 * Jacob Schmitt - Just Us Solutions, LLC
@@ -36,13 +30,18 @@ Testifying:
 * Tyra Edwards - as an organization and a survivor, Collective Justice
 * Na'Quel Walker - Collective Justice
 * Tyra Edwards - Collecitve Justice
+* Bryan Rodriguez - Capitol Classroom
+* Caya Lenay - Capitol Classroom
+* Ronald Ackerson - Capitol Classroom
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 8 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Mac Pevey - Department of Corrections
 * Yen Huynh - Department of Corrections
+* 💵Brenda Wiest - Teamsters117

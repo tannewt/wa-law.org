@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Tom Davis
 
-#### 0 👎 - Con
+#### 20 👎 - Con
 
 #### 0 ❓ - Other

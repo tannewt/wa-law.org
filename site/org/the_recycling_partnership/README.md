@@ -7,12 +7,15 @@
 ### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates  👎1 
 * 👎 Dylan de Thomas
 
-## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+* 👍 Dylan de Thomas
+
+## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 * 👍 Dylan de Thomas
 
 ## 2023-24
 
-### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management 👍1  
+### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction 👍1  
 * 👍 Dylan de Thomas
 
 ### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management 👍1  ❓1

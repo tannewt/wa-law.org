@@ -5,10 +5,14 @@
 
 ### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040.  👎1 
 
+### [HB 1321](/bill/2025-26/hb/1321/) - Outside militia activities  👎1 
+
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎2 
 * 👎 Christopher Savage
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎1 
+
+### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net.  👎1 
 
 ## [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 

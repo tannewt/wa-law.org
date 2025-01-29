@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162157&caId=24986&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162157&caId=24986&tId=4)
 
-#### 999 👍 - Pro
+#### 1147 👍 - Pro
 Testifying:
 * Robert Chaddock
 * Arezoo Holdaway
 * David Chi
+* Andrew Kim
 
-#### 171 👎 - Con
+#### 205 👎 - Con
 
 #### 5 ❓ - Other
 Testifying:

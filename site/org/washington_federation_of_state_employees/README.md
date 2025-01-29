@@ -37,6 +37,9 @@
 
 ### [HB 1228](/bill/2025-26/hb/1228/) - Toxicology testing 👍1  
 
+### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
+* 👍 Kati Durkin
+
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍1  
 
 ### [HB 1332](/bill/2025-26/hb/1332/) - Transp. network companies 👍1  

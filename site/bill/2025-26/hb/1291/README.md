@@ -12,13 +12,9 @@
 
 ## Meetings
 ### Tue 01/28 01:30 PM - Health Care & Wellness (HCW): HB 1291 Maternity services costs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32540&aId=161904&caId=25096&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32540&aId=161904&caId=25096&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32540&aId=161904&caId=25096&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32540&aId=161904&caId=25096&tId=4)
-
-#### 25 👍 - Pro
+#### 26 👍 - Pro
+Testifying:
+* Kathryn Lewandowsky - Whole Washington
 
 #### 0 👎 - Con
 

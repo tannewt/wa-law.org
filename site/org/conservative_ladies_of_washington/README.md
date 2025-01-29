@@ -37,6 +37,8 @@
 
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎1 
 
+### [HB 1448](/bill/2025-26/hb/1448/) - Local elections  👎1 
+
 ### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease  👎1 
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  

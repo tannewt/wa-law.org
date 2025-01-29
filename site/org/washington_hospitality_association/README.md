@@ -43,6 +43,9 @@
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓1
 * ❓💵 Samantha Louderback
 
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+* 👍 Sean DeWitz
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Julia Gorton
 
@@ -74,6 +77,9 @@
 * ❓💵 Julia Gorton
 
 ### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
+* 👍💵 Julia Gorton
+
+### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
 * 👍💵 Julia Gorton
 
 ## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 

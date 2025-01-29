@@ -8,18 +8,12 @@
 
 ## Meetings
 ### Tue 01/28 10:30 AM - Local Government (LG): HB 1039 Gov. services/tribal lands
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162037&caId=25085&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162037&caId=25085&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162037&caId=25085&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32570&aId=162037&caId=25085&tId=4)
-
 #### 4 👍 - Pro
 Testifying:
 * Bill Iyall - Chairman, Cowlitz Indian Tribe
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Tom Strobehn - [City of La Center](/org/city_of_la_center/)
 
-#### 484 👎 - Con
+#### 485 👎 - Con
 
 #### 0 ❓ - Other

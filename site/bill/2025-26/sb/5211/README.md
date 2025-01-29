@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/28/2025 [The Center Square](/org/the_center_square/) - [WA considers paying parents for caring for disabled kids amid in-home shortages | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8c6bfd46-ddae-11ef-acfa-671326e94d47.html#:~:text=Senate%20Bill%205211)
+
 ## Meetings
 ### Mon 01/27 01:30 PM - Human Services (HS): SB 5211 DD parental caregivers
 #### 594 👍 - Pro

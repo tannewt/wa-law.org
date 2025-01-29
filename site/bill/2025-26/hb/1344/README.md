@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162006&caId=25130&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162006&caId=25130&tId=4)
 
-#### 50 👍 - Pro
+#### 74 👍 - Pro
 Testifying:
 * Kayla Lindley
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 * Jim Wellman - parent advocate
 * Amy Foster
 * Linda Hyatt
+* Judy Barrere - Tavon
 
 #### 0 👎 - Con
 

@@ -18,7 +18,8 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
-### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍2  
+### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍3  
+* 👍 Jalayna Ruland
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
 

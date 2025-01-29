@@ -14,8 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32601&aId=162136&caId=25118&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32601&aId=162136&caId=25118&tId=4)
 
-#### 88 👍 - Pro
+#### 107 👍 - Pro
+Testifying:
+* Adan Abdullahi
+* Peter Kuel - Drivers Union
+* Shiferahu Taye
+* Geoffrey Pounds
 
-#### 7 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* 💵Rose Feliciano - TechNet
+* Zahid Arab - Uber Technologies, Inc
 
-#### 14 ❓ - Other
+#### 18 ❓ - Other
+Testifying:
+* Alexander Samuel - Uber Black and SUV driver issues

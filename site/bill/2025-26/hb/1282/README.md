@@ -8,16 +8,16 @@
 
 ## Meetings
 ### Tue 01/28 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1282 Child care
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162002&caId=25092&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162002&caId=25092&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162002&caId=25092&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162002&caId=25092&tId=4)
-
 #### 6 👍 - Pro
 Testifying:
 * Stuart Jacobson - WA Parents for Safe Childcare
 
-#### 501 👎 - Con
+#### 522 👎 - Con
+Testifying:
+* 💵Amy Anderson - [Washington Childcare Centers Association](/org/washington_childcare_centers_association/)
+* Angie Hicks - Tiny Tots Development Center
+* Dana Christiansen - Tree Hill Learning Center
+* Laura Murphey - Taylors Tots Childcare Center
+* Susan Brown - Kids CO
 
 #### 2 ❓ - Other

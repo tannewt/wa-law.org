@@ -11,25 +11,21 @@
 
 ## Meetings
 ### Tue 01/28 04:00 PM - Education (ED): HB 1450 Transition to kindergarten
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32596&aId=162098&caId=25108&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32596&aId=162098&caId=25108&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32596&aId=162098&caId=25108&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32596&aId=162098&caId=25108&tId=4)
-
-#### 4 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Carmen Barajas
+* Colleen Condon - Washington Childcare Centers Assoc
 
-#### 125 👎 - Con
+#### 132 👎 - Con
 Testifying:
 * Michelle Boatwright
 * Jenifer Largent
 * Courtney Arapis
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * Eric Askeland - Self
+* Megan Shea-Bates - Longview Public Schools
 
-#### 14 ❓ - Other
+#### 18 ❓ - Other
 Testifying:
 * Trina Hall - Ferndale School District
 * Wade Smith - Walla Walla Public Schools
@@ -40,3 +36,7 @@ Testifying:
 * Larry Bassett - Parent
 * Valisa Smith - Start Early Washington
 * 💵Chris Korsmo - Washington State Charter Schools Association
+* 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
+* Sara Hausken - Quincy School District
+* Jenna Borkoski - Learning Care Group
+* Jenna Borkoski - Learning Care Group

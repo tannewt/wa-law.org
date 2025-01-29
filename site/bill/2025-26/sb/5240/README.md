@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161974&caId=24970&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161974&caId=24970&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Rick Hughes - Ray's Pharmacy, Orcas Island
+* 💵Suzanne Hanson - Washington Federation of Independent Schools
 
 #### 1 👎 - Con
 Testifying:
 * Elizabeth Pray
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)

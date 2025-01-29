@@ -19,11 +19,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162057&caId=25164&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162057&caId=25164&tId=4)
 
-#### 102 👍 - Pro
+#### 122 👍 - Pro
 Testifying:
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 
-#### 312 👎 - Con
+#### 342 👎 - Con
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Neill Franklin - Law Enforcement Action Partnership
@@ -33,4 +33,4 @@ Testifying:
 * Jeff Small - Small and Sons Oil
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
-#### 7 ❓ - Other
+#### 8 ❓ - Other

@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/28 01:30 PM - Consumer Protection & Business (CPB): HB 1449 Home cultivation of cannabis
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32573&aId=162049&caId=25090&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32573&aId=162049&caId=25090&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32573&aId=162049&caId=25090&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32573&aId=162049&caId=25090&tId=4)
-
-#### 165 👍 - Pro
+#### 180 👍 - Pro
 Testifying:
 * Don Skakie - Homegrow Washington
 * Micah Sherman
@@ -30,8 +24,9 @@ Testifying:
 * Caitlein Ryan - THE CANNABIS ALLIANCE
 * Tamara Weinmann - Bellevue Cannabis
 * M. Bailey Hirschburg - National Org. for the Reform of Marijuana Laws (NORML)
+* Lisa Olson
 
-#### 494 👎 - Con
+#### 512 👎 - Con
 Testifying:
 * Steven Freng - Washington Association for Substance Misuse and Violence Prevention (WASAVP)
 * 💵Amy Brackenbury - [Washington State Public Health Association](/org/washington_state_public_health_association/)

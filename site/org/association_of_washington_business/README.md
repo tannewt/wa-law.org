@@ -118,13 +118,21 @@
 
 ### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍1  
 
+### [HB 1332](/bill/2025-26/hb/1332/) - Transp. network companies  👎1 
+
 ### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍2  
 
 ### [HB 1389](/bill/2025-26/hb/1389/) - Timber purchase reporting 👍1  
 
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license  👎1 
 
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program  👎1 
+* 👎💵 Peter Godlewski
+
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
+
+### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
+* 👍💵 Peter Godlewski
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
 
@@ -182,6 +190,9 @@
 
 ### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍1  
 
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 
+* 👎💵 Peter Godlewski
+
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
 ### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
@@ -201,6 +212,9 @@
 
 ### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
 * 👍💵 Lindsey Hueer
+
+### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons   ❓1
+* ❓💵 Peter Godlewski
 
 ## [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
 

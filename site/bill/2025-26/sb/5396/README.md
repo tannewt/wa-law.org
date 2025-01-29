@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 01/28 10:30 AM - Labor & Commerce (LC): SB 5396 FAA medical certificates
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162252&caId=25012&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162252&caId=25012&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162252&caId=25012&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32587&aId=162252&caId=25012&tId=4)
-
 #### 6 👍 - Pro
 Testifying:
 * Adam Walker - Pilot Mental Health Campaign
@@ -24,9 +18,10 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Dana Debel - [Delta Air Lines](/org/delta_air_lines/)
 * Jeremy Horn - Horizon Air
 * Scott Kennedy - [Alaska Airlines](/org/alaska_airlines/)
+* Josh Dye - Employment Security
 * Alison Eldridge - Employment Security Department

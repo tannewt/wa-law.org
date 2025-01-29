@@ -18,6 +18,8 @@
 
 ### [HB 1177](/bill/2025-26/hb/1177/) - Concerning the child welfare housing assistance program. 👍1  
 
+### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products 👍1  
+
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax 👍1  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
@@ -27,7 +29,9 @@
 
 ### [HB 1459](/bill/2025-26/hb/1459/) - Child fatalities 👍2  
 
-### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor  👎1 
+### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍1  
+
+### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor  👎2 
 * 👎 Megan Moore
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  

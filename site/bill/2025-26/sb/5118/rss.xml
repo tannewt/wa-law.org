@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5118/</link>
 		<description>Updates about SB 5118</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 16:34:15 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 06:41:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -35,6 +35,14 @@
 			<pubDate>Mon, 13 Jan 2025 16:34:15 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2025/01/13/the-2025-legislative-session-has-officially-begun/#:~:text=SB%205118</guid>
+		</item>
+		<item>
+			<title>👍ZANAB WASEEM - PAN PACIFIC HEALTH, PLLC</title>
+			<description>ZANAB WASEEM signed up to testify Pro. They are signed up to represent PAN PACIFIC HEALTH, PLLC.</description>
+			<pubDate>Tue, 28 Jan 2025 06:41:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/ZANAB/WASEEM/2025-01-28 06:41:17</guid>
 		</item>
 	</channel>
 </rss>

@@ -9,15 +9,21 @@
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
 * 👍💵 Daniel Olson
 
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+* 👍💵 Daniel Olson
+
 ### [HB 1602](/bill/2025-26/hb/1602/) - Liquor food service options 👍1  
 * 👍💵 Daniel Olson
 
-## [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎1 
+### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎1 
+* 👎💵 Daniel Olson
+
+## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
 * 👎💵 Daniel Olson
 
 ## 2023-24
 
-### [SB 5067](/bill/2023-24/sb/5067/) - Impaired driving  👎1 
+### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction  👎1 
 * 👎💵 Daniel Olson
 
 ### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management  👎1 

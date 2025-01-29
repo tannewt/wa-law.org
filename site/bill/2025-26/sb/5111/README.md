@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/28 04:00 PM - Ways & Means (WM): SB 5111 Recording fees/escrow tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32547&aId=162066&caId=25044&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32547&aId=162066&caId=25044&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32547&aId=162066&caId=25044&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32547&aId=162066&caId=25044&tId=4)
-
-#### 84 👍 - Pro
+#### 117 👍 - Pro
 Testifying:
 * Dwight Bickel
 * 💵Carrie Tellefson - [Washington Land Title Association](/org/washington_land_title_association/)
@@ -30,9 +24,11 @@ Testifying:
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Angela Balconi
 * Sherri Fought - Kittitas Title and Escrow
+* Dee McComb - Escrow Association of Washington, Inc
 * Chris Gorton - Pioneer Title Company
+* Sean Holland
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

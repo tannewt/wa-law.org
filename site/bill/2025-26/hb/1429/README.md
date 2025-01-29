@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/28 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1429 Extended foster care/housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162296&caId=25094&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162296&caId=25094&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162296&caId=25094&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32563&aId=162296&caId=25094&tId=4)
-
-#### 379 👍 - Pro
+#### 397 👍 - Pro
 Testifying:
 * Michael Mirra - Association of Washington Housing Authorities; Admin. Office of the Courts Comm. on Housing & CW
 * Corrina Chatterton
@@ -25,6 +19,8 @@ Testifying:
 * Jonas Rios
 * 💵Roxana Gomez - Legal Council for Youth and Children
 * Esmina James-Secret
+* Jalayna Ruland - [The Mockingbird Society](/org/the_mockingbird_society/)
+* Rocket Garcia
 
 #### 1 👎 - Con
 

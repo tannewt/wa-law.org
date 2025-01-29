@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/28 01:30 PM - Environment, Energy & Technology (ENET): SB 5438 Hydrofluorocarbons
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162243&caId=24974&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162243&caId=24974&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162243&caId=24974&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162243&caId=24974&tId=4)
-
-#### 386 👍 - Pro
+#### 420 👍 - Pro
 Testifying:
 * 💵Mike Armstrong - A-Gas
 * Richie Kaur - Natural Resources Defense Council
@@ -25,10 +19,11 @@ Testifying:
 * Mike Wenrick - PCC Markets
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Beth Porter - Environmental Investigation Agency
+* Kate White Tudor
 
-#### 662 👎 - Con
+#### 684 👎 - Con
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Alex Ayers - HARDI
@@ -36,3 +31,5 @@ Testifying:
 * Joel Creswell - Washington State Department of Ecology
 * 💵Carolyn Logue - WA Air Conditioning Contractors Association
 * 💵Michael Transue - Mechanical Contractors Association of Western Washington
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Bill Clarke - SMACNA (Sheet Metal Air Conditioning Nat'l Association)

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/28 10:30 AM - Labor & Workplace Standards (LAWS): HB 1398 Adult family home arb.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162126&caId=25081&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162126&caId=25081&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162126&caId=25081&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162126&caId=25081&tId=4)
-
-#### 1304 👍 - Pro
+#### 1353 👍 - Pro
 Testifying:
 * 💵Courtney Williams - The Adult Family Home Council
 * Dan Puravet - Owner- Bellevue Elderly Care

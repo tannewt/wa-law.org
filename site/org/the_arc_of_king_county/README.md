@@ -63,6 +63,8 @@
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍3  
 * 👍💵 Ramona Hattendorf
 
+### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍1  
+
 ## [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
 ## 2023-24

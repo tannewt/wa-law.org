@@ -17,12 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162234&caId=25115&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162234&caId=25115&tId=4)
 
-#### 105 👍 - Pro
+#### 185 👍 - Pro
 Testifying:
 * Todd Sullivan - Sullivan Homes
 * Dave Hamilton - Councilmember, City of Bellevue
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Rico Quirindongo - [City of Seattle](/org/city_of_seattle/)
+* 💵Bill Clarke - WA REALTORS
+* 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
+* Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA
+* Angela Birney - [City of Redmond](/org/city_of_redmond/)
+* Brady Nordstrom - Housing Development Consortium
+* Brian Holtzclaw - Master Builders Association of King & Snohomish Counties
 
 #### 4 👎 - Con
 Testifying:

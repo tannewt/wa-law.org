@@ -212,6 +212,8 @@
 
 ### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍1  
 
+### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
+
 ### [SB 5128](/bill/2025-26/sb/5128/) - Concerning the provision of medical assistance to individuals in juvenile detention facilities. 👍1  
 
 ### [SB 5134](/bill/2025-26/sb/5134/) - Chinese Americans/schools   ❓1
@@ -261,12 +263,17 @@
 
 ### [SB 5235](/bill/2025-26/sb/5235/) - Public school statutes 👍1  
 
+### [SB 5240](/bill/2025-26/sb/5240/) - Anaphylaxis med. in schools   ❓1
+
 ### [SB 5241](/bill/2025-26/sb/5241/) - Fusion energy facilities 👍1  
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍3  
 * 👍💵 Larry Delaney
+
+### [SB 5270](/bill/2025-26/sb/5270/) - Providing mentors to novice nurses in the beginning educator support team program.   ❓1
+* ❓💵 Nasue Nishida
 
 ### [SB 5275](/bill/2025-26/sb/5275/) - Modifying funding and award levels for the passport to careers program and eligibility for the Washington college grant. 👍1  
 
@@ -292,6 +299,8 @@
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
 
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
+
+### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools   ❓1
 
 ### [SB 5381](/bill/2025-26/sb/5381/) - Self-insurer withdrawal 👍1  
 

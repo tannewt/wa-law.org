@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32555&aId=162313&caId=25173&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32555&aId=162313&caId=25173&tId=4)
 
-#### 261 👍 - Pro
+#### 325 👍 - Pro
 Testifying:
 * Jacob Schmitt - Just Us Solutions, LLC
 * 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
@@ -26,8 +26,9 @@ Testifying:
 * Annie Nichol - Crime Survivors for Safety and Justice
 * Aswad Thomas - Crime Survivors for Safety and Justice
 * Jacob Schmitt - Just Us Solutions, LLC
+* Katrin Johnson - Washington State Office of Public Defense
 
-#### 15 👎 - Con
+#### 64 👎 - Con
 Testifying:
 * Leslie Paine
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
@@ -35,8 +36,11 @@ Testifying:
 * Charleen Kriens
 * Tiffany Attrill
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Matthew Jackmond
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Cait Lang-Perez - Washington State Board of Health
 
 ### Thu 01/23 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1125 Sentence modification
 #### 812 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5313/</link>
 		<description>Updates about SB 5313</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 09:12:24 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 10:17:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -71,12 +71,28 @@
 			<guid isPermaLink="false">testifier/Rich/Stein/2025-01-27 10:05:06</guid>
 		</item>
 		<item>
+			<title>👎Alexander Akins - InSite Property Solutions</title>
+			<description>Alexander Akins signed up to testify Con. They are signed up to represent InSite Property Solutions.</description>
+			<pubDate>Tue, 28 Jan 2025 03:39:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Alexander/Akins/2025-01-28 03:39:19</guid>
+		</item>
+		<item>
 			<title>👎Carter Nelson - Washington Multi-Family Housing Association</title>
 			<description>Carter Nelson signed up to testify Con. They are signed up to represent Washington Multi-Family Housing Association.</description>
 			<pubDate>Tue, 28 Jan 2025 09:12:24 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Carter/Nelson/2025-01-28 09:12:24</guid>
+		</item>
+		<item>
+			<title>👍Emily Rosenzweig - No Valet Garbage</title>
+			<description>Emily Rosenzweig signed up to testify Pro. They are signed up to represent No Valet Garbage.</description>
+			<pubDate>Tue, 28 Jan 2025 10:17:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emily/Rosenzweig/2025-01-28 10:17:26</guid>
 		</item>
 	</channel>
 </rss>

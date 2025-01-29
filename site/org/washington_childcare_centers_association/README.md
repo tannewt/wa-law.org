@@ -4,6 +4,9 @@
 ### [HB 1082](/bill/2025-26/hb/1082/) - Child care provider qualif. 👍1  
 * 👍💵 Amy Anderson
 
+### [HB 1282](/bill/2025-26/hb/1282/) - Child care  👎1 
+* 👎💵 Amy Anderson
+
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
 * 👍💵 Amy Anderson
 

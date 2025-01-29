@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1429/</link>
 		<description>Updates about HB 1429</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 12:04:59 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 10:40:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -69,6 +69,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Esmina/James-Secret/2025-01-27 12:04:59</guid>
+		</item>
+		<item>
+			<title>👍Jalayna Ruland - The Mockingbird Society</title>
+			<description>Jalayna Ruland signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/the_mockingbird_society/"&gt;The Mockingbird Society&lt;/a&gt;.</description>
+			<pubDate>Tue, 28 Jan 2025 03:23:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jalayna/Ruland/2025-01-28 03:23:07</guid>
+		</item>
+		<item>
+			<title>👍Rocket Garcia - The Mockingbird Society</title>
+			<description>Rocket Garcia signed up to testify Pro.</description>
+			<pubDate>Tue, 28 Jan 2025 10:40:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rocket/Garcia/2025-01-28 10:40:24</guid>
 		</item>
 	</channel>
 </rss>

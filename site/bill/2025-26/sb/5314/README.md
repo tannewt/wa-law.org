@@ -8,16 +8,10 @@
 
 ## Meetings
 ### Tue 01/28 04:00 PM - Ways & Means (WM): SB 5314 Capital gains tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32547&aId=162070&caId=25046&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32547&aId=162070&caId=25046&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32547&aId=162070&caId=25046&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32547&aId=162070&caId=25046&tId=4)
-
 #### 19 👍 - Pro
 Testifying:
 * Steve Ewing - Dept. of Revenue
 
-#### 28 👎 - Con
+#### 31 👎 - Con
 
 #### 0 ❓ - Other

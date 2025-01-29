@@ -13,7 +13,7 @@
 ### [HB 1298](/bill/2025-26/hb/1298/) - Student athlete insurance 👍1  
 * 👍 Joe Dacca
 
-### [HB 1343](/bill/2025-26/hb/1343/) - Higher ed./loss of aid 👍3  
+### [HB 1343](/bill/2025-26/hb/1343/) - Higher ed./loss of aid 👍4  
 
 ### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍3  
 * 👍 Charles Marcus
@@ -21,7 +21,7 @@
 
 ### [HB 1434](/bill/2025-26/hb/1434/) - Eid al-Fitr & Eid al-Adha 👍2  
 
-### [HB 1492](/bill/2025-26/hb/1492/) - Students with dependents 👍1  
+### [HB 1492](/bill/2025-26/hb/1492/) - Students with dependents 👍3  
 
 ### [SB 5106](/bill/2025-26/sb/5106/) - Establishing Eid al-Fitr and Eid al-Adha as state holidays. 👍1  
 
@@ -38,11 +38,13 @@
 
 ### [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍2  
 
-## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍5  
+### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍6  
+
+## [SB 5451](/bill/2025-26/sb/5451/) - Quantum economic development 👍1  
 
 ## 2023-24
 
-### [SB 5402](/bill/2023-24/sb/5402/) - Financial aid eligibility 👍5  
+### [SB 5451](/bill/2023-24/sb/5451/) - Quantum economic development 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

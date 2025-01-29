@@ -22,7 +22,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=4)
 
-#### 22 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Annie Sawyer
@@ -31,9 +31,11 @@ Testifying:
 * Dakota Manley - Washington State Young Republicans
 * Cammryn Gadd
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Shellie Coury
 * Omar Masood - Advocates for Highway & Auto Safety
+* Eleanor Nguyen - Not official representative, but coming from Lake Washington High School AP Government class
 
-#### 118 👎 - Con
+#### 122 👎 - Con
 
 #### 0 ❓ - Other
 

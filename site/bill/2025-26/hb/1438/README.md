@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32571&aId=162308&caId=25179&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32571&aId=162308&caId=25179&tId=4)
 
-#### 87 👍 - Pro
+#### 141 👍 - Pro
 Testifying:
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Judge Glock
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Tim Woodard - [Washington Association of Building Officials](/org/washington_association_of_building_officials/)
 
 #### 0 ❓ - Other

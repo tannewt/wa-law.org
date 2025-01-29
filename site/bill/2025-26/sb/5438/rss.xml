@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5438/</link>
 		<description>Updates about SB 5438</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 07:00:53 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 09:54:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -135,12 +135,36 @@
 			<guid isPermaLink="false">testifier/Carolyn/Logue/2025-01-27 11:52:37</guid>
 		</item>
 		<item>
+			<title>👍Kate White Tudor - Environmental Investigation Agency</title>
+			<description>Kate White Tudor signed up to testify Pro.</description>
+			<pubDate>Tue, 28 Jan 2025 01:53:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kate White/Tudor/2025-01-28 01:53:27</guid>
+		</item>
+		<item>
 			<title>❓💵Michael Transue - Mechanical Contractors Association of Western Washington</title>
 			<description>Michael Transue signed up to testify Other. They are signed up to represent Mechanical Contractors Association of Western Washington. They are a registered lobbyist.</description>
 			<pubDate>Tue, 28 Jan 2025 07:00:53 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Michael/Transue/2025-01-28 07:00:53</guid>
+		</item>
+		<item>
+			<title>❓💵Peter Godlewski - Association of Washington Business</title>
+			<description>Peter Godlewski signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_business/"&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 28 Jan 2025 09:49:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Peter/Godlewski/2025-01-28 09:49:37</guid>
+		</item>
+		<item>
+			<title>❓💵Bill Clarke - SMACNA (Sheet Metal Air Conditioning Nat'l Association)</title>
+			<description>Bill Clarke signed up to testify Other. They are signed up to represent SMACNA (Sheet Metal Air Conditioning Nat'l Association). They are a registered lobbyist.</description>
+			<pubDate>Tue, 28 Jan 2025 09:54:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Bill/Clarke/2025-01-28 09:54:26</guid>
 		</item>
 	</channel>
 </rss>

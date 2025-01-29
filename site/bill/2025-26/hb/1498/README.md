@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32567&aId=162317&caId=25191&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32567&aId=162317&caId=25191&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Alice Butler - Project Be Free, NPC
+* Katya Wojcik - Project Be Free, NPC
+* Landon Meyer - Kent Police Department
 
 #### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Sherrie Tinoco - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)

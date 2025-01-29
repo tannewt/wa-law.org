@@ -17,9 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162321&caId=25171&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162321&caId=25171&tId=4)
 
-#### 82 👍 - Pro
+#### 105 👍 - Pro
+Testifying:
+* Rex Johnson - Washington Advocates for Patient Safety
 
-#### 6521 👎 - Con
+#### 7382 👎 - Con
 Testifying:
 * Nicholas Parks
 * Dana Eagle - I am testifying on the behalf of humanity.
@@ -47,10 +49,20 @@ Testifying:
 * Arry Yu
 * Naomi Benton - 13363 202nd Ave SE
 * Stephanie Barile
+* Gabrielle Taormina - N/a
+* Michael Jolly
+* Seth Mattox
+* Mary H Bethune
+* Mary Gibson
 * Teresa Valentine
+* Melanie Pichler
 * Zana Carver
 * Teresa Laher
+* Heidi Johnson-Sandall
 * Tonya Hickman
+* Marissa Miller
 * Cori Henry
+* Margaret Smith
+* Amber Sturchio
 
-#### 14 ❓ - Other
+#### 15 ❓ - Other

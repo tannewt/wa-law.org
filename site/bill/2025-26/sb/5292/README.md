@@ -12,13 +12,15 @@
 Testifying:
 * 💵Christoph Mair - Washington State Labor Council, AFL-CIO
 
-#### 120 👎 - Con
+#### 121 👎 - Con
 Testifying:
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Tammie Hetrick - Washington Food Industry Association
+* 💵Katie Beeson - WFIA
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Rose Gundersen - WA Retail Association
 * Elizabeth New - Washington Policy Center
+* Zack Freeman - JLARC

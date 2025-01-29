@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/28 01:30 PM - Environment, Energy & Technology (ENET): SB 5284 Solid waste management
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162244&caId=24975&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162244&caId=24975&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162244&caId=24975&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32609&aId=162244&caId=24975&tId=4)
-
-#### 1492 👍 - Pro
+#### 1553 👍 - Pro
 Testifying:
 * Melissa Stuart - [City of Redmond](/org/city_of_redmond/)
 * 💵Brooke Davies - [Washington Beverage Association](/org/washington_beverage_association/)
@@ -32,8 +26,14 @@ Testifying:
 * 💵Megan Lane - Coalition of High Performance Recycling
 * Sydney Harris - [Upstream](/org/upstream/)
 * McKenna Morrigan - Seattle Public Utilities
+* 💵Christoph Mair - Washington State Labor Council, AFL-CIO
+* Rebecca Thomas - Glass Packaging Institute
+* 💵Ezra Eickmeyer - EDHC
+* Brenda Fincher - Councilmember, City of Kent
+* Dr. Mark Vossler - Washington Physicians for Social Responsibility
+* Peter Steelquist - Surfrider Foundation Washington
 
-#### 58 👎 - Con
+#### 68 👎 - Con
 Testifying:
 * 💵Jay Balasbas - Basin Disposal and Consolidated Disposal Services Inc.
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
@@ -43,11 +43,16 @@ Testifying:
 * Wendy Weiker - [Republic Services](/org/republic_services/)
 * Wendy Weiker - [Republic Services](/org/republic_services/)
 * 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Erin Raden - Consumer Brands Assn
+* 💵Diana Carlen - [Washington Potato & Onion Association](/org/washington_potato_&_onion_association/)
+* Rick Vahl - Waste Connections
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Brandon Houskeeper - NW Grocery Retail Assoc.
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)

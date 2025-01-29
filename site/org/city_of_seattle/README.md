@@ -26,9 +26,13 @@
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 * 👍 Rico Quirindongo
 
+### [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍1  
+
 ### [HB 1423](/bill/2025-26/hb/1423/) - Vehicle noise cameras 👍1  
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
+
+### [HB 1621](/bill/2025-26/hb/1621/) - Housing court commissioners 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
@@ -43,13 +47,17 @@
 
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers 👍1  
 
+### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
+
 ### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act.   ❓1
 
-## [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
+### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
+
+## [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
 ## 2023-24
 
-### [SB 5232](/bill/2023-24/sb/5232/) - Essential needs program uses 👍1  
+### [SB 5369](/bill/2023-24/sb/5369/) - Youth mental health/schools 👍1  
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

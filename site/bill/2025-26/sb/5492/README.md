@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32584&aId=162378&caId=25202&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32584&aId=162378&caId=25202&tId=4)
 
-#### 38 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Rose Noble - Visit Spokane
+* Annie McGrath - State of Washington Tourism
+* David Blandford - State of Washington Tourism
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 
-#### 1 👎 - Con
+#### 21 👎 - Con
 
 #### 0 ❓ - Other

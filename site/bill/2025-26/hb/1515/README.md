@@ -17,11 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162327&caId=25180&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162327&caId=25180&tId=4)
 
-#### 10 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Marshall Foster - Seattle Center
 * Gloria Connors - Bumbershoot and FIFA Fan Festival
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Megan Moore - WA State Public Health Association
 
 #### 0 ❓ - Other

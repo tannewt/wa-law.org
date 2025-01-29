@@ -3,11 +3,16 @@
 
 ### [HB 1048](/bill/2025-26/hb/1048/) - Rangeland fire pilot   ❓1
 
+### [HB 1153](/bill/2025-26/hb/1153/) - Urban forest management 👍1  
+
 ### [HB 1164](/bill/2025-26/hb/1164/) - Urban growth area boundaries   ❓1
 
 ### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface   ❓1
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.   ❓1
+
+### [HB 1537](/bill/2025-26/hb/1537/) - Roadway safety account use 👍1  
+* 👍 Brody Coval
 
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
 * 👍 Duane Emmons

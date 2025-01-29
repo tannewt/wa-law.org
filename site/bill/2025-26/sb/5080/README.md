@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [Valdez bill to make financial education a high school graduation requirement heard in committee  - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/01/28/valdez-bill-to-make-financial-education-a-high-school-graduation-requirement-heard-in-committee/#:~:text=Senate%20Bill%205080)
+* 01/28/2025 [KING5](/org/king5/) - [Senate proposal would require financial education for WA high school students | king5.com](https://www.king5.com/article/news/politics/state-politics/financial-education-required-senate-proposal/281-23211950-0b22-4707-9810-474bf329b5ae#:~:text=Senate%20Bill%205080)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205080)
 * 01/13/2025 [Senate Democrats](/org/senate_democrats/) - [The 2025 legislative session has officially begun - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/01/13/the-2025-legislative-session-has-officially-begun/#:~:text=SB%205080)
 

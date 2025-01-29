@@ -10,14 +10,34 @@
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201426)
 
 ## Meetings
-### Tue 01/28 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1426 Impaired driving civil order
+### Wed 01/29 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1426 Impaired driving civil order
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162232&caId=25077&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162232&caId=25077&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162232&caId=25077&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32614&aId=162232&caId=25077&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162888&caId=25216&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162888&caId=25216&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162888&caId=25216&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32615&aId=162888&caId=25216&tId=4)
 
-#### 115 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Frank Harris - Mothers Against Drunk Driving
+* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
+* Amy Freedheim - King County Prosecuting Attorneys Office
+* Shellie Coury
+* Ashley Bonus
+* Derek Sanders - Thurston County Sheriff's Office
+
+#### 2 👎 - Con
+Testifying:
+* Arthur West
+* Selena Coppa
+
+#### 2 ❓ - Other
+Testifying:
+* Judge Rebecca Robertson - On behalf of District and Municipal Court Judges' Association
+* Shelly Baldwin - Washington Traffic Safety Commission
+
+### Tue 01/28 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1426 Impaired driving civil order
+#### 117 👍 - Pro
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Dr. Scott Phillips - [Washington Poison Center](/org/washington_poison_center/)
@@ -35,7 +55,7 @@ Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 * Selena Coppa
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Judge Rebecca Robertson - District & Municipal Court Judges' Association
 * Shelly Baldwin - Washington Traffic Safety Commission

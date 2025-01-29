@@ -8,11 +8,13 @@
 
 ### [HB 1178](/bill/2025-26/hb/1178/) - Concerning sentencing enhancements. 👍2  
 
-## [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍2  
+### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍2  
+
+## [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  
 
 ## 2023-24
 
-### [HB 1317](/bill/2023-24/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍2  
+### [HB 1432](/bill/2023-24/hb/1432/) - Mental health services 👍1  
 
 ### [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 * 👍 Joelle Craft

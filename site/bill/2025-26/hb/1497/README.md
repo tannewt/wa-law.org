@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 01/28 04:00 PM - Environment & Energy (ENVI): HB 1497 Waste material management
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162224&caId=25110&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162224&caId=25110&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162224&caId=25110&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32559&aId=162224&caId=25110&tId=4)
-
-#### 567 👍 - Pro
+#### 641 👍 - Pro
 Testifying:
 * Robbette Schmit - WintonMFG Compost Works
 * 💵Brian Bonlender - DTG Recycle
@@ -25,8 +19,9 @@ Testifying:
 * Scott Smithline - Mill Industries
 * Anthony Myint - Zero Foodprint
 * 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* McKenna Morrigan - Seattle Public Utilities
 
-#### 107 👎 - Con
+#### 116 👎 - Con
 
 #### 5 ❓ - Other
 Testifying:

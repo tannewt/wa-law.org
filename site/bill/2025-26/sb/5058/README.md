@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32610&aId=162222&caId=24976&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32610&aId=162222&caId=24976&tId=4)
 
-#### 11 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * 💵Jay Balasbas - Basin Disposal and Consolidated Disposal Services Inc.
 * 💵Lyset Cadena - WM (Waste Management)
@@ -22,8 +22,9 @@ Testifying:
 * Brian Coddington - Sunshine Disposal & Recycling
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Ted Carlson - Sanitary Service Company
+* 💵Erin Raden - Consumer Brands Assn
 
-#### 190 👎 - Con
+#### 488 👎 - Con
 Testifying:
 * Sandra Brock
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
@@ -31,9 +32,15 @@ Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Maggie Yuse - Seattle Public Utilities
 * Edwin Borbon - AMERIPEN
+* Allison Kustic - Association of Plastic Recyclers (APR)
+* Scott DeFife - Glass Packaging Institute
 * Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
+* Diane Luecke
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Brandon Houskeeper - NW Grocery Retail Association
+* Charlie Brown - Consumer Technology Association
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program

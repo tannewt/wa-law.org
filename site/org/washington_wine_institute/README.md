@@ -9,16 +9,22 @@
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
 * 👍 Josh McDonald
 
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+* 👍 Josh McDonald
+
 ### [SB 5054](/bill/2025-26/sb/5054/) - Winery tax exemption   ❓1
 * ❓ Josh McDonald
 
-## [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎1 
+### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎1 
 * 👎 Josh McDonald
+
+## [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
+* 👍 Josh McDonald
 
 ## 2023-24
 
-### [SB 5067](/bill/2023-24/sb/5067/) - Impaired driving  👎1 
-* 👎 Josh McDonald
+### [SB 5492](/bill/2023-24/sb/5492/) - Tourism promotion 👍1  
+* 👍 Josh McDonald
 
 ### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management   ❓2
 * ❓ Josh McDonald

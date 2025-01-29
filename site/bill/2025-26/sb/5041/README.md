@@ -149,6 +149,8 @@ Testifying:
 * Harry Thetford - Sound Earthworks, Inc.
 * MIRIAM DAVIS
 
-#### 15 ❓ - Other
+#### 17 ❓ - Other
 Testifying:
 * Meenakshi Rani - G4 Telecom
+* Dan Zeitlin - Employment Security
+* Josh Dye - ESD

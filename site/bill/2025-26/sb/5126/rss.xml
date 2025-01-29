@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5126/</link>
 		<description>Updates about SB 5126</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 07:55:10 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 20:30:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -85,12 +85,75 @@
 			<guid isPermaLink="true">https://www.wastatepta.org/2025session-week3/#:~:text=SB%205126</guid>
 		</item>
 		<item>
-			<title>👎Gabriel Jacobs - Providence's Well Being Trust</title>
+			<title>👎Khushdip Brar - Concerned Citizen</title>
+			<description>Khushdip Brar signed up to testify Con. They are signed up to represent Concerned Citizen.</description>
+			<pubDate>Tue, 28 Jan 2025 05:13:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Khushdip/Brar/2025-01-28 05:13:04</guid>
+		</item>
+		<item>
+			<title>👍Eric Bruns - University of Washington SMART Center, Assoc. Director</title>
+			<description>Eric Bruns signed up to testify Pro. They are signed up to represent University of Washington SMART Center, Assoc. Director.</description>
+			<pubDate>Tue, 28 Jan 2025 05:44:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Eric/Bruns/2025-01-28 05:44:28</guid>
+		</item>
+		<item>
+			<title>👍Marty Brewer - Superintendent, Port Angeles School District</title>
+			<description>Marty Brewer signed up to testify Pro. They are signed up to represent Superintendent, Port Angeles School District.</description>
+			<pubDate>Tue, 28 Jan 2025 05:44:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Marty/Brewer/2025-01-28 05:44:28</guid>
+		</item>
+		<item>
+			<title>👍💵Anna Nepomuceno - NAMI Washington</title>
+			<description>Anna Nepomuceno signed up to testify Pro. They are signed up to represent NAMI Washington. They are a registered lobbyist.</description>
+			<pubDate>Tue, 28 Jan 2025 06:54:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Anna/Nepomuceno/2025-01-28 06:54:32</guid>
+		</item>
+		<item>
+			<title>👍Nandika Devarajan - Redmond High School and NAMI WA Youth</title>
+			<description>Nandika Devarajan signed up to testify Pro. They are signed up to represent Redmond High School and NAMI WA Youth.</description>
+			<pubDate>Tue, 28 Jan 2025 06:54:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nandika/Devarajan/2025-01-28 06:54:32</guid>
+		</item>
+		<item>
+			<title>👍Taanvi Arekapudi - Inglemoore High School and NAMI WA Youth</title>
+			<description>Taanvi Arekapudi signed up to testify Pro. They are signed up to represent Inglemoore High School and NAMI WA Youth.</description>
+			<pubDate>Tue, 28 Jan 2025 06:54:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Taanvi/Arekapudi/2025-01-28 06:54:32</guid>
+		</item>
+		<item>
+			<title>👍Kenia Soriano Hernandez - Washington Youth Alliance Action Fund</title>
+			<description>Kenia Soriano Hernandez signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_youth_alliance_action_fund/"&gt;Washington Youth Alliance Action Fund&lt;/a&gt;.</description>
+			<pubDate>Tue, 28 Jan 2025 07:14:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kenia/Soriano Hernandez/2025-01-28 07:14:57</guid>
+		</item>
+		<item>
+			<title>👎Gabriel Jacobs - Concerned Citizen</title>
 			<description>Gabriel Jacobs signed up to testify Con.</description>
 			<pubDate>Tue, 28 Jan 2025 07:55:10 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Gabriel/Jacobs/2025-01-28 07:55:10</guid>
+		</item>
+		<item>
+			<title>January Session Recap - Sen. T’wina Nobles</title>
+			<description>News article "January Session Recap - Sen. T’wina Nobles" from Senate Democrats.</description>
+			<pubDate>Tue, 28 Jan 2025 20:30:27 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205126</guid>
 		</item>
 	</channel>
 </rss>

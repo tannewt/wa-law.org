@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1158/</link>
 		<description>Updates about HB 1158</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 04:59:02 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 07:45:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -139,6 +139,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Larry/Garman/2025-01-27 04:59:02</guid>
+		</item>
+		<item>
+			<title>👎💵Darla Helt - PEACE NW</title>
+			<description>Darla Helt signed up to testify Con. They are signed up to represent PEACE NW. They are a registered lobbyist.</description>
+			<pubDate>Tue, 28 Jan 2025 01:55:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Darla/Helt/2025-01-28 01:55:19</guid>
+		</item>
+		<item>
+			<title>❓Kodi Doty - PEACE NW</title>
+			<description>Kodi Doty signed up to testify Other.</description>
+			<pubDate>Tue, 28 Jan 2025 04:17:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kodi/Doty/2025-01-28 04:17:22</guid>
+		</item>
+		<item>
+			<title>👍Frances Peltier - Families for Better Lives</title>
+			<description>Frances Peltier signed up to testify Pro. They are signed up to represent Families for Better Lives.</description>
+			<pubDate>Tue, 28 Jan 2025 07:45:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Frances/Peltier/2025-01-28 07:45:09</guid>
 		</item>
 	</channel>
 </rss>

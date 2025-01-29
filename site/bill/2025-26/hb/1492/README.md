@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162348&caId=25210&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162348&caId=25210&tId=4)
 
-#### 77 👍 - Pro
+#### 112 👍 - Pro
+Testifying:
+* Edith Dale - University of Washington Seattle, Graduate Student
+* Jessica Goff - University of Washington, Tacoma
+* Randy Phillips
 
 #### 4 👎 - Con
 

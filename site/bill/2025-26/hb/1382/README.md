@@ -8,16 +8,11 @@
 
 ## Meetings
 ### Tue 01/28 01:30 PM - Health Care & Wellness (HCW): HB 1382 All payers claim database
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32540&aId=161906&caId=25098&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32540&aId=161906&caId=25098&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32540&aId=161906&caId=25098&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32540&aId=161906&caId=25098&tId=4)
-
-#### 12 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
 #### 0 👎 - Con
 

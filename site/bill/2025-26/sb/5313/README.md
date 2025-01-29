@@ -14,17 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162130&caId=24998&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162130&caId=24998&tId=4)
 
-#### 174 👍 - Pro
+#### 284 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Kirsten Kane
 * Deanna Crogg
+* Emily Rosenzweig - No Valet Garbage
 
-#### 39 👎 - Con
+#### 64 👎 - Con
 Testifying:
 * Dave Haldi - Credit Gnomes Inc.
 * Brian Lucas
 * Rich Stein - Valet Living
+* Alexander Akins - InSite Property Solutions
 * Carter Nelson - Washington Multi-Family Housing Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

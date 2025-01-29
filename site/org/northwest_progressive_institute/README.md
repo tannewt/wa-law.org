@@ -12,8 +12,14 @@
 
 ### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍1  
 
+### [HB 1321](/bill/2025-26/hb/1321/) - Outside militia activities 👍1  
+
 ### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections 👍1  
 * 👍 Andrew Villeneuve
+
+### [HB 1412](/bill/2025-26/hb/1412/) - Comm'n, M. East & N. Africa 👍1  
+
+### [HB 1434](/bill/2025-26/hb/1434/) - Eid al-Fitr & Eid al-Adha 👍1  
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
 

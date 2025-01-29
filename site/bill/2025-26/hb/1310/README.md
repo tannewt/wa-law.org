@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162320&caId=25184&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162320&caId=25184&tId=4)
 
-#### 807 👍 - Pro
+#### 855 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Katie Young - Tacoma special education PTA
@@ -43,6 +43,7 @@ Testifying:
 * Rob Bryant - CFO, Federal Way School District
 * Supt. Israel Vela - Superintendent, Kent School District
 * Jen Chong Jewell - Parent of a student receiving special education services
+* Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
 
 #### 4 👎 - Con
 

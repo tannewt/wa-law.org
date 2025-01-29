@@ -9,6 +9,8 @@
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters.   ❓1
 
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 * 👍 Alex MacBain
 

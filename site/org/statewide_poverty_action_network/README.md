@@ -20,7 +20,7 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
-### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
+### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍2  
 
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍2  
 * 👍💵 Alex Hur
@@ -37,13 +37,14 @@
 
 ### [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks 👍1  
 
-## [SB 5328](/bill/2025-26/sb/5328/) - Earned wage access services  👎1 ❓1
+### [SB 5328](/bill/2025-26/sb/5328/) - Earned wage access services  👎1 ❓1
 * ❓ Molly Gallagher
+
+## [SB 5488](/bill/2025-26/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍1  
 
 ## 2023-24
 
-### [SB 5328](/bill/2023-24/sb/5328/) - Earned wage access services  👎1 ❓1
-* ❓ Molly Gallagher
+### [SB 5488](/bill/2023-24/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205126)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205126)
 
 ## Meetings
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161971&caId=24967&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161971&caId=24967&tId=4)
 
-#### 390 👍 - Pro
+#### 433 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Dr. Gwen Loosmore - Washington State PTA
@@ -25,9 +26,16 @@ Testifying:
 * Michelle Price - Association of Educational Service Districts
 * Amy Cannava - Washington State Association of School Psychologists
 * LICSW, MHA, Roger Dowdy - Providence's Well Being Trust
+* Eric Bruns - University of Washington SMART Center, Assoc. Director
+* Marty Brewer - Superintendent, Port Angeles School District
+* 💵Anna Nepomuceno - NAMI Washington
+* Nandika Devarajan - Redmond High School and NAMI WA Youth
+* Taanvi Arekapudi - Inglemoore High School and NAMI WA Youth
+* Kenia Soriano Hernandez - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
 
-#### 1065 👎 - Con
+#### 1695 👎 - Con
 Testifying:
+* Khushdip Brar - Concerned Citizen
 * Gabriel Jacobs
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

@@ -13,26 +13,28 @@
 
 ## Meetings
 ### Tue 01/28 04:00 PM - Housing (HOUS): HB 1491 Transit-oriented housing dev
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32607&aId=162186&caId=25112&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32607&aId=162186&caId=25112&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32607&aId=162186&caId=25112&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32607&aId=162186&caId=25112&tId=4)
-
-#### 575 👍 - Pro
+#### 825 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * 💵John Traynor - washington state labor council, afl-cio
 * Kristiana de Leon
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Nicholas Carr - Office of the Governor
 
-#### 529 👎 - Con
+#### 561 👎 - Con
 Testifying:
 * Aidan Thornsberry
 * Claire Eberle
+* 💵Morgan Irwin - AWB
 * McKenzie Darr - NAIOP Washington State
+* Ryan Windish - [City of Sumner](/org/city_of_sumner/)
 
-#### 8 ❓ - Other
+#### 15 ❓ - Other
 Testifying:
+* 💵Joren Clowers - Sno-King Water District Coalition
 * 💵Michael Transue - [City of Fife](/org/city_of_fife/)
+* 💵Bill Clarke - WA REALTORS
+* Mayor Mary Lou Pauly - [City of Issaquah](/org/city_of_issaquah/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

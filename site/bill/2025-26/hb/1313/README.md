@@ -12,12 +12,6 @@
 
 ## Meetings
 ### Tue 01/28 10:30 AM - Labor & Workplace Standards (LAWS): HB 1313 Mass layoffs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162124&caId=25079&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162124&caId=25079&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162124&caId=25079&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32599&aId=162124&caId=25079&tId=4)
-
 #### 45 👍 - Pro
 Testifying:
 * 💵John Traynor - washington state labor council, afl-cio

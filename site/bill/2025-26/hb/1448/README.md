@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 01/28 01:30 PM - State Government & Tribal Relations (SGOV): HB 1448 Local elections
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162116&caId=25102&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162116&caId=25102&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162116&caId=25102&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32592&aId=162116&caId=25102&tId=4)
-
-#### 1847 👍 - Pro
+#### 1920 👍 - Pro
 Testifying:
 * Tracy Turner - Sail
 * 💵Nilu Jenks - FairVote Washington
@@ -29,8 +23,10 @@ Testifying:
 * Jessica Forsythe
 * Vivian Olson
 * Treveon Parish - [The Washington Bus](/org/the_washington_bus/)
+* 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
+* Eric Gonzalez Alfaro - Washington For Equitable Representation
 
-#### 1570 👎 - Con
+#### 1960 👎 - Con
 Testifying:
 * Mary Mead
 * Erica Engelhart
@@ -45,6 +41,9 @@ Testifying:
 * Rico Hernandez
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Rebecca Faust - n/a
+* LaWanda Hatch
+* Phil Izon
+* Tim Eyman - Initiative Activist
 
 #### 6 ❓ - Other
 Testifying:
