@@ -14,13 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162159&caId=24988&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162159&caId=24988&tId=4)
 
-#### 80 👍 - Pro
+#### 139 👍 - Pro
 Testifying:
 * Brenda Senger - Rural Nursing Education Program (RNEP)
 * Ramona Hicks
 * Ashley Anderson
 * Theresa Bowden - self
+* Brenda Senger - Rural Nurse Education Program (RNEP)
+* Jacqueline Barton True - Washington State Hospital Association
+* Mike Martinoli
+* Raelyn Dennis - Coulee Medical Center
+* PATRICK HUSTING
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Alison Bradywood - Washington State Board of Nursing
+* Renee Fullerton - Health Workforce Council
+* Kelly Shaw - Washington State Department of Health

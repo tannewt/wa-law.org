@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/29/2025 [The Center Square](/org/the_center_square/) - [WA lawmakers consider overhaul of local elections with ranked choice voting option | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_167954f4-de84-11ef-8c2e-2f0d90650d98.html#:~:text=House%20Bill%201448)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201448)
 
 ## Meetings

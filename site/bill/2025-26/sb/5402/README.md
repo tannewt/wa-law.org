@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32577&aId=162112&caId=24997&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32577&aId=162112&caId=24997&tId=4)
 
-#### 1054 👍 - Pro
+#### 1226 👍 - Pro
 Testifying:
 * Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
 * Miguel Garduno Munoz - Western Washington University
@@ -28,7 +28,11 @@ Testifying:
 * Jessica Perez - State Board for Community and Technical Colleges
 * Grace Lugo-Sanchez
 * Bill Lyne - United Faculty of Washington State
+* Bernadette Jungblut - Faculty Legislative Representative for Central Washington University
+* Cheryl (Cher) Aguilar Henriquez
+* Khanh Pham - Washington State Board of Community and Technical Colleges
+* Keagan Nakazawa
 
-#### 122 👎 - Con
+#### 343 👎 - Con
 
-#### 8 ❓ - Other
+#### 11 ❓ - Other

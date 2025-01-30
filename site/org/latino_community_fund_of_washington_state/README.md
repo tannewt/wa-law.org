@@ -21,13 +21,14 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Jake García
 
-## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
 * 👍💵 Jake Garcia
+
+## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 
 ## 2023-24
 
-### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants 👍2  
-* 👍💵 Jake Garcia
+### [SB 5402](/bill/2023-24/sb/5402/) - Financial aid eligibility 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

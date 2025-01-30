@@ -18,10 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32580&aId=162166&caId=25168&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32580&aId=162166&caId=25168&tId=4)
 
-#### 229 👍 - Pro
+#### 389 👍 - Pro
 Testifying:
 * Steven Rhine
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Juan Londono - Taxpayers Protection Alliance
 
 #### 0 ❓ - Other

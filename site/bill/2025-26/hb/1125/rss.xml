@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1125/</link>
 		<description>Updates about HB 1125</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 12:32:24 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 08:38:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,7 +38,7 @@
 			<guid isPermaLink="false">testifier/Leslie/Paine/2025-01-16 07:03:59</guid>
 		</item>
 		<item>
-			<title>👍Kimberly Gordon - Washington State Board of Health</title>
+			<title>👍Kimberly Gordon - L,b,g,q,t,</title>
 			<description>Kimberly Gordon signed up to testify Pro.</description>
 			<pubDate>Fri, 17 Jan 2025 04:14:48 GMT</pubDate>
 			<category>testifier</category>
@@ -238,7 +238,7 @@
 			<guid isPermaLink="false">testifier/Anthony/Powers/2025-01-22 11:55:00</guid>
 		</item>
 		<item>
-			<title>👎Leslie Paine - Washington State Office of Public Defense</title>
+			<title>👎Leslie Paine - Individual</title>
 			<description>Leslie Paine signed up to testify Con.</description>
 			<pubDate>Thu, 23 Jan 2025 05:31:10 GMT</pubDate>
 			<category>testifier</category>
@@ -371,6 +371,38 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Katrin/Johnson/2025-01-28 12:32:24</guid>
+		</item>
+		<item>
+			<title>❓Mark Millenaar - L,b,g,q,t,</title>
+			<description>Mark Millenaar signed up to testify Other. They are signed up to represent L,b,g,q,t,.</description>
+			<pubDate>Wed, 29 Jan 2025 02:13:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Mark/Millenaar/2025-01-29 02:13:53</guid>
+		</item>
+		<item>
+			<title>👎PATRICK HUSTING - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>PATRICK HUSTING signed up to testify Con.</description>
+			<pubDate>Wed, 29 Jan 2025 07:43:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/PATRICK/HUSTING/2025-01-29 07:43:53</guid>
+		</item>
+		<item>
+			<title>👍Anthony Powers - Individual</title>
+			<description>Anthony Powers signed up to testify Pro. They are signed up to represent Individual.</description>
+			<pubDate>Wed, 29 Jan 2025 07:46:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Anthony/Powers/2025-01-29 07:46:27</guid>
+		</item>
+		<item>
+			<title>👎💵Brad Banks - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>Brad Banks signed up to testify Con. They are a registered lobbyist.</description>
+			<pubDate>Wed, 29 Jan 2025 08:38:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brad/Banks/2025-01-29 08:38:51</guid>
 		</item>
 	</channel>
 </rss>

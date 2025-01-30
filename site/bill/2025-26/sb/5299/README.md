@@ -14,8 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162161&caId=24990&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162161&caId=24990&tId=4)
 
-#### 4 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Jim Hedrick - Washington State Radilogical Society
+* Shannon Tripp - Inland Imaging
+* Sarah Russell - Inland Imaging
+* Sarah Russell - Inland Imaging
+* Douglas Seiler - Washington State Radiological Society
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kelli Camp - Washington Association of Nurse Anesthesiology

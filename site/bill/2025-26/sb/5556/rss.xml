@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5556/</link>
 		<description>Updates about SB 5556</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 20:23:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,13 @@
 			<pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-28/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>Ramos introduces bill to keep Washington roadways clean of litter  - Sen. Bill Ramos</title>
+			<description>News article "Ramos introduces bill to keep Washington roadways clean of litter  - Sen. Bill Ramos" from Senate Democrats.</description>
+			<pubDate>Wed, 29 Jan 2025 20:23:17 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/ramos/2025/01/29/ramos-introduces-bill-to-keep-washington-roadways-clean-of-litter/#:~:text=Senate%20Bill%205556</guid>
 		</item>
 	</channel>
 </rss>

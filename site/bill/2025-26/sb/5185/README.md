@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162163&caId=24992&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162163&caId=24992&tId=4)
 
-#### 8 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Dr. Jamal Mustafa - Puget Sound Psychiatric Clinic
 * Dr. Kamal Mustafa - Puget Sound Psychiatric Clinic
@@ -26,9 +26,15 @@ Testifying:
 * Lawson Mansell
 * Aleksandr Vlasov
 * Win Mar Lar Kyin
+* ZANAB WASEEM - PAN PACIFIC HEALTH, PLLC
+* Dr Stan Flemming - Pacific Medical Specialty Group
+* Dr. Fikir Kibret - Cura Healthcare
+* Dr. Lisa Stolarczyk - Cura Healthcare
+* Chris Lafrenz - Cura Healthcare
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Bridget Hoggard
+* Micah Matthews - Washington Medical Commission/Deputy Executive and Legislative Director

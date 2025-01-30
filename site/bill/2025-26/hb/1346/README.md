@@ -7,13 +7,20 @@
 * [Original Bill](1/)
 
 ## Meetings
-### Wed 01/29 01:30 PM - Consumer Protection & Business (CPB): HB 1346 Cannabis industry
+### Tue 02/04 01:30 PM - Consumer Protection & Business (CPB): HB 1346 Cannabis industry
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162052&caId=25125&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162052&caId=25125&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162052&caId=25125&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162052&caId=25125&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162409&caId=25381&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162409&caId=25381&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162409&caId=25381&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162409&caId=25381&tId=4)
 
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
+### Wed 01/29 01:30 PM - Consumer Protection & Business (CPB): HB 1346 Cannabis industry
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

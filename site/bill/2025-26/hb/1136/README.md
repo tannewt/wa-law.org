@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1136](/bill/2025-26/hb/1136/)
 
-# HB 1136 - Providing student navigational supports to increase postsecondary enrollment.
+# HB 1136 - Student navigational support
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1136&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=HB%201136)

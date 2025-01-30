@@ -6,11 +6,13 @@
 
 ### [HB 1400](/bill/2025-26/hb/1400/) - Officer certification 👍1  
 
-## [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍1  
+## [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍2  
+* 👍 Shelly Washington
 
 ## 2023-24
 
-### [SB 5066](/bill/2023-24/sb/5066/) - Law enf. misconduct 👍1  
+### [SB 5066](/bill/2023-24/sb/5066/) - Law enf. misconduct 👍2  
+* 👍 Shelly Washington
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍4  
 * 👍 Sonia Joseph

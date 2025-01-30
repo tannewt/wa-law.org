@@ -8,16 +8,12 @@
 
 ## Meetings
 ### Wed 01/29 04:00 PM - Transportation (TR): HB 1537 Roadway safety account use
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32536&aId=162362&caId=25208&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32536&aId=162362&caId=25208&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32536&aId=162362&caId=25208&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32536&aId=162362&caId=25208&tId=4)
-
-#### 8 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Brody Coval - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Ted Jackson - WA ATV
 * 💵Bill Clarke - Kittitas County Board of Commissioners
+* Cynthia Wilkerson - WDFW
 
 #### 0 👎 - Con
 

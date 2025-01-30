@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161979&caId=24973&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161979&caId=24973&tId=4)
 
-#### 53 👍 - Pro
+#### 135 👍 - Pro
 Testifying:
 * Tania May - Office of Superintendent of Public Instruction
 * 💵Alex Hur - Communities in Schools of Washington
@@ -26,7 +26,12 @@ Testifying:
 * Tara Wilson
 * Amy Cannava - Washington State Association of School Psychologists
 * DeeAnna Maughan
+* 💵Lance Morehouse - [Sherwood Community Services](/org/sherwood_community_services/)
+* PATRICK HUSTING
+* Kathy McDonald - none
 
-#### 128 👎 - Con
+#### 331 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Preston Dwoskin

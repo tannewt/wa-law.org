@@ -8,21 +8,16 @@
 
 ## Meetings
 ### Wed 01/29 10:30 AM - Housing (HSG): SB 5313 Rental agreement provisions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162130&caId=24998&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162130&caId=24998&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162130&caId=24998&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162130&caId=24998&tId=4)
-
-#### 323 👍 - Pro
+#### 334 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Kirsten Kane
 * Deanna Crogg
 * Emily Rosenzweig - No Valet Garbage
 * Monica Bolden - N/A
+* 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 
-#### 98 👎 - Con
+#### 100 👎 - Con
 Testifying:
 * Dave Haldi - Credit Gnomes Inc.
 * Brian Lucas

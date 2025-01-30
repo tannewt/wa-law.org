@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5358/</link>
 		<description>Updates about SB 5358</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 16:49:21 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 05:39:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,14 @@
 			<pubDate>Mon, 27 Jan 2025 16:49:21 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/2025session-week3/#:~:text=SB%205358</guid>
+		</item>
+		<item>
+			<title>👍Tim Knue - Washington Association for Career and Technical Education</title>
+			<description>Tim Knue signed up to testify Pro. They are signed up to represent Washington Association for Career and Technical Education.</description>
+			<pubDate>Wed, 29 Jan 2025 05:39:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tim/Knue/2025-01-29 05:39:43</guid>
 		</item>
 	</channel>
 </rss>

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32585&aId=162080&caId=24958&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32585&aId=162080&caId=24958&tId=4)
 
-#### 9 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Phil Goldfeder - American Fintech Council
 * 💵Molly Jones - Vice President, Head of Public Policy at Payactiv
@@ -22,8 +22,11 @@ Testifying:
 * Nicole Miller - Deputy General Counsel at EarnIn
 * Alice Jacobsohn - PayrollOrg
 * Tahra Jirari - Chamber of Progress
+* Garth McAdam - ZayZoon
+* Phil Goldfeder - American Fintech Council
+* Sarah Mamula - Financial Technology Association
 
-#### 20 👎 - Con
+#### 29 👎 - Con
 
 #### 7 ❓ - Other
 Testifying:

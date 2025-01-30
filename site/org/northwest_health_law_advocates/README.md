@@ -4,6 +4,8 @@
 ### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
 * 👍💵 Emily Brice
 
+### [HB 1130](/bill/2025-26/hb/1130/) - Concerning utilization of developmental disabilities waivers. 👍1  
+
 ### [HB 1199](/bill/2025-26/hb/1199/) - Strengthening consumer protection through increased insurer accountability for violations of the insurance code. 👍1  
 
 ### [HB 1379](/bill/2025-26/hb/1379/) - Health carrier reporting 👍1  
@@ -17,6 +19,8 @@
 
 ### [SB 5258](/bill/2025-26/sb/5258/) - Medicaid concurrent enroll.  👎1 
 * 👎💵 Vanessa Saavedra
+
+### [SB 5331](/bill/2025-26/sb/5331/) - Insurance code violations 👍1  
 
 ## [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎1 
 * 👎💵 Vanessa Saavedra

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/29 10:30 AM - Housing (HSG): SB 5332 Mobile dwellings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162131&caId=24999&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162131&caId=24999&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162131&caId=24999&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32600&aId=162131&caId=24999&tId=4)
-
-#### 53 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Kol Peterson - Tiny Hookups LLC
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
@@ -28,8 +22,9 @@ Testifying:
 * Michelle Boyle - Self
 * Alaska Wagoner
 * Lauren Grey
+* Robin Sahnow
 
-#### 21 👎 - Con
+#### 23 👎 - Con
 Testifying:
 * 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 

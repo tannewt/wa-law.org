@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1104/</link>
 		<description>Updates about HB 1104</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 21 Jan 2025 04:26:02 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kevin/Van De Wege/2025-01-21 04:26:02</guid>
+		</item>
+		<item>
+			<title>CPB - Executive action taken by committee.</title>
+			<description>CPB - Executive action taken by committee.</description>
+			<pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-29/CPB - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

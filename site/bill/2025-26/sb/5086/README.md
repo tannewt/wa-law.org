@@ -14,14 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32548&aId=162247&caId=25048&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32548&aId=162247&caId=25048&tId=4)
 
-#### 201 👍 - Pro
+#### 228 👍 - Pro
 Testifying:
 * Consuelo Echeverria - Health Care for All WA
 * Lonnie Johns-Brown - Health Care For All Washington
 
-#### 944 👎 - Con
+#### 1041 👎 - Con
 Testifying:
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist
+* 💵Emmett Mills - Washington State School Retirees' Association
+* Rick Chisa - Public School Employees of Washington (PSE)
 
 #### 3 ❓ - Other

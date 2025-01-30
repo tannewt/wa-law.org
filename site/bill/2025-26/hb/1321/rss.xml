@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1321/</link>
 		<description>Updates about HB 1321</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 11:26:37 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 19:00:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -81,6 +81,21 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jeff/Pack/2025-01-28 11:26:37</guid>
+		</item>
+		<item>
+			<title>👍Nathan Bays - The Governor's Office</title>
+			<description>Nathan Bays signed up to testify Pro. They are signed up to represent The Governor's Office.</description>
+			<pubDate>Wed, 29 Jan 2025 11:33:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nathan/Bays/2025-01-29 11:33:49</guid>
+		</item>
+		<item>
+			<title>WA lawmakers consider bill to restrict outside militias | FOX 13 Seattle</title>
+			<description>News article "WA lawmakers consider bill to restrict outside militias | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Wed, 29 Jan 2025 19:00:51 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/lawmakers-consider-bill-outside-militias#:~:text=House%20Bill%201321</guid>
 		</item>
 	</channel>
 </rss>

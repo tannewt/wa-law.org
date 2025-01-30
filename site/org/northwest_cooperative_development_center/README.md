@@ -1,7 +1,7 @@
 # Northwest Cooperative Development Center
 ## 2025-26
 
-### [HB 1191](/bill/2025-26/hb/1191/) - Concerning removing vehicle titles from manufactured homes. 👍1  
+### [HB 1191](/bill/2025-26/hb/1191/) - Concerning removing vehicle titles from manufactured homes. 👍3  
 * 👍 Victoria OBanion
 
 ### [HB 1358](/bill/2025-26/hb/1358/) - Mobile home community sale 👍1  

@@ -7,17 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/29/2025 [Senate Democrats](/org/senate_democrats/) - [Bill to Improve Students’ Mental Health Heard in Senate - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/01/29/bill-to-improve-students-mental-health-heard-in-senate/#:~:text=Senate%20Bill%205369)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205369)
 
 ## Meetings
 ### Wed 01/29 10:30 AM - Early Learning & K-12 Education (EDU): SB 5369 Youth mental health/schools
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161970&caId=24966&tId=4)
-
-#### 333 👍 - Pro
+#### 336 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Ray Thomas
@@ -120,7 +115,7 @@ Testifying:
 * Rosanna Yates-Bailey
 * Omar Mohamed - Elevate With Purpose Initiative
 
-#### 1779 👎 - Con
+#### 1795 👎 - Con
 Testifying:
 * Khushdip Brar - Concerned Citizen
 * Gabriel Jacobs

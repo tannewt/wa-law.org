@@ -12,23 +12,18 @@
 
 ## Meetings
 ### Wed 01/29 04:00 PM - Appropriations (APP): SHB 1102 Veteran support and services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32567&aId=162315&caId=25189&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32567&aId=162315&caId=25189&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32567&aId=162315&caId=25189&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32567&aId=162315&caId=25189&tId=4)
-
-#### 86 👍 - Pro
+#### 100 👍 - Pro
 Testifying:
 * Levi Douglas - Clallam County
 * Mark Hodgson
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Ed Bowen
 * Commissioner Randy Johnson - Clallam County
+* Jim Stoffer - Sequim Community Public School Advocate
 
 ### Wed 01/15 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1102 Veteran support and services
 #### 13 👍 - Pro

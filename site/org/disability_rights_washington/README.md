@@ -30,6 +30,8 @@
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
+### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program   ❓1
+
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
 
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license 👍1  

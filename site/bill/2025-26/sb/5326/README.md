@@ -14,11 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162160&caId=24989&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162160&caId=24989&tId=4)
 
-#### 39 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * Jennifer Perkins - T1International, Washington chapter
 * Kevin Wren - Washington #insulin4all
+* Skyler McCormick
+* Everest Perkins
+* 💵Matthew Hepner - East Wenatchee city council
+* Haven Hepner
+* Matthew Prokop - [American Diabetes Association](/org/american_diabetes_association/)
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Dharia McGrew - PhRMA
+* 💵Michael Transue - [Oregon Biosciences Association](/org/oregon_biosciences_association/)
 
 #### 0 ❓ - Other

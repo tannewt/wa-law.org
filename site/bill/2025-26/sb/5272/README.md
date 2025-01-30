@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161978&caId=24972&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161978&caId=24972&tId=4)
 
-#### 11 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Peyton Coffin - Northwest Baseball Umpires Association -- 150 members
 * Robert West
 * Ricardo Pineda-Lomeli - Latino community fund Washington
+* Daryl Eygabroad - Westerrn Washington Wrestling Officials Assocation
 
-#### 2 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Porsche Phelps - TeamChild
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)

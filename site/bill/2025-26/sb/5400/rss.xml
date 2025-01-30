@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5400/</link>
 		<description>Updates about SB 5400</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 09:01:59 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 16:23:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -250,6 +250,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Keith/Shipman/2025-01-28 09:01:59</guid>
+		</item>
+		<item>
+			<title>News at what cost? WA bill pits journalists against higher education funding | Washington | thecentersquare.com</title>
+			<description>News article "News at what cost? WA bill pits journalists against higher education funding | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 29 Jan 2025 16:23:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_1cba676e-de8d-11ef-a8ea-f33addf8deba.html#:~:text=Senate%20Bill%205400</guid>
 		</item>
 	</channel>
 </rss>

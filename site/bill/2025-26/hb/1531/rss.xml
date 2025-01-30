@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1531/</link>
 		<description>Updates about HB 1531</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 08:57:22 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 12:47:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -374,12 +374,28 @@
 			<guid isPermaLink="false">testifier/Joyce/Choe/2025-01-28 10:54:18</guid>
 		</item>
 		<item>
+			<title>👎Jennifer Wright - N/a</title>
+			<description>Jennifer Wright signed up to testify Con.</description>
+			<pubDate>Wed, 29 Jan 2025 04:21:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jennifer/Wright/2025-01-29 04:21:44</guid>
+		</item>
+		<item>
 			<title>👎Deja Parrent - N/a</title>
 			<description>Deja Parrent signed up to testify Con.</description>
 			<pubDate>Wed, 29 Jan 2025 05:42:30 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Deja/Parrent/2025-01-29 05:42:30</guid>
+		</item>
+		<item>
+			<title>👎Emily Jensen - N/a</title>
+			<description>Emily Jensen signed up to testify Con.</description>
+			<pubDate>Wed, 29 Jan 2025 06:13:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Emily/Jensen/2025-01-29 06:13:56</guid>
 		</item>
 		<item>
 			<title>👎Alexa Street - N/a</title>
@@ -390,12 +406,28 @@
 			<guid isPermaLink="false">testifier/Alexa/Street/2025-01-29 06:54:22</guid>
 		</item>
 		<item>
+			<title>👎David Hall - N/a</title>
+			<description>David Hall signed up to testify Con.</description>
+			<pubDate>Wed, 29 Jan 2025 07:09:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/David/Hall/2025-01-29 07:09:34</guid>
+		</item>
+		<item>
 			<title>👎Janell Hulst - N/a</title>
 			<description>Janell Hulst signed up to testify Con.</description>
 			<pubDate>Wed, 29 Jan 2025 08:30:46 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Janell/Hulst/2025-01-29 08:30:46</guid>
+		</item>
+		<item>
+			<title>👎Steve Leombruno - N/a</title>
+			<description>Steve Leombruno signed up to testify Con.</description>
+			<pubDate>Wed, 29 Jan 2025 08:36:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Steve/Leombruno/2025-01-29 08:36:10</guid>
 		</item>
 		<item>
 			<title>👎Scott Halfacre - N/a</title>
@@ -412,6 +444,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Brandie/Bills/2025-01-29 08:57:22</guid>
+		</item>
+		<item>
+			<title>👎Kali Sanford - N/a</title>
+			<description>Kali Sanford signed up to testify Con.</description>
+			<pubDate>Wed, 29 Jan 2025 12:47:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kali/Sanford/2025-01-29 12:47:26</guid>
 		</item>
 	</channel>
 </rss>

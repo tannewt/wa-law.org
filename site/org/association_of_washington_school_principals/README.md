@@ -6,7 +6,7 @@
 ### [HB 1085](/bill/2025-26/hb/1085/) - School safety/penalties   ❓1
 * ❓💵 Roz Thompson
 
-### [HB 1136](/bill/2025-26/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment. 👍1  
+### [HB 1136](/bill/2025-26/hb/1136/) - Student navigational support 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Casey Brown
@@ -42,9 +42,14 @@
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
+
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍2  
 
 ### [SB 5270](/bill/2025-26/sb/5270/) - Providing mentors to novice nurses in the beginning educator support team program.   ❓1
+* ❓💵 Roz Thompson
+
+### [SB 5272](/bill/2025-26/sb/5272/) - School safety/penalties   ❓1
 * ❓💵 Roz Thompson
 
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍2  
@@ -52,6 +57,8 @@
 ### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 
 ### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards   ❓1
+
+### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
 
 ## [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 

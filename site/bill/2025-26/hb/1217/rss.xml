@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1217/</link>
 		<description>Updates about HB 1217</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 25 Jan 2025 20:30:23 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 09:41:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1657,6 +1657,30 @@
 			<pubDate>Sat, 25 Jan 2025 20:30:23 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/catalog-of-crises/#:~:text=House%20Bill%201217</guid>
+		</item>
+		<item>
+			<title>👍Bailey Medilo - The Washington Bus</title>
+			<description>Bailey Medilo signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/the_washington_bus/"&gt;The Washington Bus&lt;/a&gt;.</description>
+			<pubDate>Wed, 29 Jan 2025 06:08:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bailey/Medilo/2025-01-29 06:08:33</guid>
+		</item>
+		<item>
+			<title>👍Vanessa Kritzer - Redmond City Council President</title>
+			<description>Vanessa Kritzer signed up to testify Pro. They are signed up to represent Redmond City Council President.</description>
+			<pubDate>Wed, 29 Jan 2025 06:25:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Vanessa/Kritzer/2025-01-29 06:25:28</guid>
+		</item>
+		<item>
+			<title>👎💵Brad Tower - Commonwealth Real Estate Services</title>
+			<description>Brad Tower signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/commonwealth_real_estate_services/"&gt;Commonwealth Real Estate Services&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 29 Jan 2025 09:41:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brad/Tower/2025-01-29 09:41:48</guid>
 		</item>
 	</channel>
 </rss>

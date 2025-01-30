@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Wed 01/29 01:30 PM - State Government & Tribal Relations (SGOV): HB 1434 Eid al-Fitr & Eid al-Adha
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162119&caId=25144&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162119&caId=25144&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162119&caId=25144&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32593&aId=162119&caId=25144&tId=4)
-
-#### 1298 👍 - Pro
+#### 2253 👍 - Pro
 Testifying:
 * Momodou Conta
 * 💵Aya Samman
@@ -158,15 +152,118 @@ Testifying:
 * Raihan Abdulmalik
 * Fadil Gucci
 * Asma Ilyas
+* Saira Djuned
+* Abdul Khalifullah
+* Sana Iqbal
+* Rubina Hasan
+* Noor Arwani
+* Asfer Alam
+* Mochamad Mustofa
+* Bilal musazay
+* Lustiana Mustofa
+* Mohiden Umar
+* Naseem Tirhi
+* Aysha Bhuiyan
+* Ahmed Abdi - 1331 Terry Ave
+* John Miller
+* Salima Banu Iezzi
+* Doug Nufer
+* Waleed Alghzali
+* Fatimah Miller
+* Esraa Hamza
+* Dinara Matnazarova
+* Zainab Kinteh
+* Abdulmajid Albira
+* Naser Dakhil - Evergreen Institute
+* Anik Vahora
+* Misha Sohail - UW MSA
+* Lina Ahmed
+* Asna Ali - Pacific Northwest University of Health Science American Medical Muslim Student Association President
+* Rumaisa Nazeeruddin
+* Hussam Marouf
+* Sara Chohan
+* Aisha Ayoub
+* Stephanie Lewis
+* Najma Mohamed
+* Mohamed Ash Malleck
+* Kashaf Jamshed
+* Shafeen Rahman
+* Zainab Abbas
+* Maria Baig
+* Shadab Karim
+* Ibrahim Al Tameemi
+* Ala Hassan
+* Ahmed Metwally
+* Affaf Mazhar
+* Alaa Alshaibani
+* Ahsan Khan
+* Norhan ElAssy
+* Abu Abdullah Muhammad Jobe
+* Ammar Khan
+* Huzaifa Mughal - No
+* Lena Njie - 16321 White Mountain Rd SE
+* shemce bisht
+* Muhammad Awais Bin Altaf
+* Kareem Maklad
+* Adriana Mohamed - MAPZ Snohomish County
+* Alaeddin Mohammad
+* Tanveer Fatima
+* Said Hayani
+* Miracle Izuegbunam
+* Aurko Khandakar
+* Syeda Shakil
+* Shaista Zaman
+* Syeda Shakil
+* Adel Albishari
+* Arie Shd
+* Maha Alam
+* Tolentina Abuthuraya Abuthuraya - Muslim association of puget sound
+* Muhammad Zaheer
+* Rehab Mohamed
+* Qalid Awale
+* Hazim Sharafeldin
+* Rozaly Muhamad
+* Amna Khalid
+* Yusuf Rasyid
+* Anas Fathul
+* Sania Salahuddin
+* Sajjaad Mirza
+* Muneer M
+* Manhsour Cosem
+* Mehrukh Mufti
+* Tracy Bourahmah
+* Mehreen Nadeem
+* Tamer Elazhary
+* Natasha Priscilla
+* Rabiya Wasiq
+* Daniel-Akhbar Djermani
+* Shahina Nasar
+* Tanveer Gani
+* Tyler Berry
+* Hasan Salahuddin
+* Yazen Almasri
+* Elmisbah Mohamed
+* Tamana Nuri
+* Noor Shaikh - Sammamish Muslim Association
+* Farhana Zabidi
+* Mohamed Elkasstawi
+* Hoda Moustafa
+* Omniah Elmorshedy
+* Ahmed Kamel
+* Maqdoom Syed
+* Ahmed Kamel
+* Aisha Iqbal
+* Bassel Baioumy
 * Muhammad Waqas
 
-#### 667 👎 - Con
+#### 694 👎 - Con
 Testifying:
 * Zainab Turkmen
 * Nadeen Alkhalifah
 * Maro Al-Nidawi
+* Arham Arham
 
-#### 78 ❓ - Other
+#### 100 ❓ - Other
 Testifying:
 * Irum asghar
 * Nasib Karimi
@@ -178,3 +275,5 @@ Testifying:
 * salah ahmed
 * Buba Manneh - 14615 Madison Way Apt D202
 * Asmaa Rouissi
+* Dina Moustafa - : HB 1434 Eid al-Fitr & Eid al-Adha
+* Muhammad Hariz

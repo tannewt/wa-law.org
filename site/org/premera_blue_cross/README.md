@@ -16,6 +16,9 @@
 ### [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services   ❓1
 * ❓💵 Christine Brewer
 
+### [SB 5331](/bill/2025-26/sb/5331/) - Insurance code violations   ❓1
+* ❓💵 Christine Brewer
+
 ### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎2 
 
 ## [SB 5361](/bill/2025-26/sb/5361/) - ASAM 4 treatment criteria 👍1  

@@ -28,13 +28,16 @@
 ### [SB 5319](/bill/2025-26/sb/5319/) - Surface mine reclamation 👍1  
 * 👍 Pat Sullivan
 
-## [SB 5334](/bill/2025-26/sb/5334/) - DNR civil enforcement appeal 👍1  
+### [SB 5334](/bill/2025-26/sb/5334/) - DNR civil enforcement appeal 👍1  
 * 👍 Erika Odem
+
+## [SB 5390](/bill/2025-26/sb/5390/) - Discover pass, day-use cost 👍1  
+* 👍 Sam Hensold
 
 ## 2023-24
 
-### [SB 5334](/bill/2023-24/sb/5334/) - DNR civil enforcement appeal 👍1  
-* 👍 Erika Odem
+### [SB 5390](/bill/2023-24/sb/5390/) - Discover pass, day-use cost 👍1  
+* 👍 Sam Hensold
 
 ### [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management 👍1  
 

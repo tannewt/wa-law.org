@@ -12,6 +12,8 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
+### [HB 1240](/bill/2025-26/hb/1240/) - Vehicle impounds 👍1  
+
 ### [HB 1243](/bill/2025-26/hb/1243/) - DSHS overpayments 👍1  
 
 ### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍2  
@@ -22,8 +24,12 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍2  
 
+### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
+
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍2  
 * 👍💵 Alex Hur
+
+### [HB 1535](/bill/2025-26/hb/1535/) - Dental insurance practices  👎1 
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 
@@ -39,6 +45,8 @@
 
 ### [SB 5328](/bill/2025-26/sb/5328/) - Earned wage access services  👎1 ❓1
 * ❓ Molly Gallagher
+
+### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 
 
 ## [SB 5488](/bill/2025-26/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍1  
 

@@ -11,21 +11,16 @@
 
 ## Meetings
 ### Wed 01/29 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1395 Home care worker background
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162111&caId=25141&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162111&caId=25141&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162111&caId=25141&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162111&caId=25141&tId=4)
-
-#### 192 👍 - Pro
+#### 196 👍 - Pro
 Testifying:
 * Maria Osegueda
 * Melissah Watts - Parent Provider
 * Nelly Prieto
 * Shaine Truscott - SEIU 775
 * 💵Brad Banks - Home Care Coalition
+* Moses Perez - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 
-#### 10 👎 - Con
+#### 12 👎 - Con
 
 #### 25 ❓ - Other
 Testifying:

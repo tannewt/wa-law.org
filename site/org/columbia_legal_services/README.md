@@ -58,6 +58,9 @@
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
+### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍1  
+* 👍💵 Antonio Ginatta
+
 ### [SB 5103](/bill/2025-26/sb/5103/) - Expediting review of sentences when there exists a pending deportation proceeding. 👍1  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  

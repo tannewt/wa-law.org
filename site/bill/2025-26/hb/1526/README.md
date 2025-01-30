@@ -11,12 +11,6 @@
 
 ## Meetings
 ### Wed 01/29 01:30 PM - Consumer Protection & Business (CPB): HB 1526 Snack bar liquor licenses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162328&caId=25181&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162328&caId=25181&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162328&caId=25181&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162328&caId=25181&tId=4)
-
 #### 0 👍 - Pro
 
 #### 2 👎 - Con

@@ -2601,7 +2601,7 @@
 * [SB 5639](sb/5639) - LTSS trust exemptions/recert 1📰 - S Labor & Comm
 * [SB 5638](sb/5638) - Lake and beach districts - S Loc Gov, Land U
 * [HB 1649](hb/1649) - Prejudgment interest - H Civil R & Judi
-* [HB 1631](hb/1631) - Illegal racing - H Civil R & Judi
+* [HB 1631](hb/1631) - Illegal racing 1📰 - H Civil R & Judi
 * [SB 5628](sb/5628) - Water right transfers - S Ag/Water/Natura
 * [SB 5587](sb/5587) - Sports wagering 1📰 - S Business, Fin
 * [SB 5585](sb/5585) - Mental health professionals - S Health & Long

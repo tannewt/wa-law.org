@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162364&caId=25211&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162364&caId=25211&tId=4)
 
-#### 100 👍 - Pro
+#### 153 👍 - Pro
 Testifying:
 * The Rev. Bill Kirlin-Hackett - Interfaith Task Force on Homelessness
 * The Rev. Bill Kirlin-Hackett - Interfaith Task Force on Homelessness
@@ -23,12 +23,15 @@ Testifying:
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 * Allison Hill
 * Graham Pruss - Executive Director; National Vehicle Residency Collective
+* Derek Boiko-Weyrauch
+* Will Aronin - [Institute for Justice](/org/institute_for_justice/)
+* Jessica Puckett
 
-#### 8 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Kris Zachary - Burns Towing
 * Paul Bressi - Nisqually Towing
 * 💵Peter Lukevich - Towing & Recovery Association of WA (TRAW)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

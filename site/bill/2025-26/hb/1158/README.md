@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Wed 01/29 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1158 Community inclusion services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162005&caId=25129&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162005&caId=25129&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162005&caId=25129&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162005&caId=25129&tId=4)
-
-#### 74 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * Kim McLeod
 * Linda Hyatt
@@ -25,8 +19,10 @@ Testifying:
 * Ryan Nesbitt
 * Rose` Yu
 * Frances Peltier - Families for Better Lives
+* Emani Donaldson - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
+* Khalid Sirad
 
-#### 136 👎 - Con
+#### 144 👎 - Con
 Testifying:
 * 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Stacy Dym
@@ -37,7 +33,8 @@ Testifying:
 * Lacey Davis
 * Larry Garman
 * 💵Darla Helt - PEACE NW
+* Monica Meyer
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Kodi Doty

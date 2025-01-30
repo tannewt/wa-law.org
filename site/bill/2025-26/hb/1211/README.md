@@ -10,3 +10,21 @@
 * 01/28/2025 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers renew push to make clergy report child abuse • Washington State Standard](https://washingtonstatestandard.com/2025/01/28/washington-lawmakers-renew-push-to-make-clergy-report-child-abuse/#:~:text=House%20Bill%201211)
 
 ## Meetings
+### Tue 02/04 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1211 Clergy, duty to report abuse
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162529&caId=25391&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162529&caId=25391&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162529&caId=25391&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162529&caId=25391&tId=4)
+
+#### 6 👍 - Pro
+Testifying:
+* Robert Fontana
+* Lori Fontana
+* Chris Dormaier - Clergy Accountability Coalition
+* Mary Dispenza - Clergy Accountability Coalition
+* Sharon Huling - Clergy Accountability Coalition
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

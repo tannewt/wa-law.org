@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/29 04:00 PM - Appropriations (APP): HB 1498 Domestic viol. co-responders
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32567&aId=162317&caId=25191&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32567&aId=162317&caId=25191&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32567&aId=162317&caId=25191&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32567&aId=162317&caId=25191&tId=4)
-
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Alice Butler - Project Be Free, NPC
 * Katya Wojcik - Project Be Free, NPC

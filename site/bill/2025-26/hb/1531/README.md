@@ -17,11 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162321&caId=25171&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162321&caId=25171&tId=4)
 
-#### 112 👍 - Pro
+#### 127 👍 - Pro
 Testifying:
 * Rex Johnson - Washington Advocates for Patient Safety
 
-#### 7852 👎 - Con
+#### 8603 👎 - Con
 Testifying:
 * Nicholas Parks
 * Dana Eagle - I am testifying on the behalf of humanity.
@@ -65,10 +65,15 @@ Testifying:
 * Margaret Smith
 * Amber Sturchio
 * Joyce Choe
+* Jennifer Wright
 * Deja Parrent
+* Emily Jensen
 * Alexa Street
+* David Hall
 * Janell Hulst
+* Steve Leombruno
 * Scott Halfacre
 * Brandie Bills
+* Kali Sanford
 
-#### 18 ❓ - Other
+#### 22 ❓ - Other

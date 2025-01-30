@@ -22,7 +22,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=4)
 
-#### 26 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Annie Sawyer
@@ -34,10 +34,21 @@ Testifying:
 * Shellie Coury
 * Omar Masood - Advocates for Highway & Auto Safety
 * Eleanor Nguyen - Not official representative, but coming from Lake Washington High School AP Government class
+* Dale Panattoni
+* Mark McKechnie - Washington Traffic Safety Commission
+* Tom Chapman - National Transportation Safety Board
+* James Fell
 
-#### 122 👎 - Con
+#### 150 👎 - Con
+Testifying:
+* Daniel Olsen - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Emily Bourne - Server
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Deion Glover - Washington State Patrol
 
 ### Tue 01/14 08:00 AM - Law & Justice (LAW): SB 5067 Impaired driving
 #### 57 👍 - Pro

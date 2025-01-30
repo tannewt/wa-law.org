@@ -17,12 +17,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32560&aId=162227&caId=25145&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32560&aId=162227&caId=25145&tId=4)
 
-#### 174 👍 - Pro
+#### 327 👍 - Pro
 Testifying:
 * Joanne Brasch - California Product Stewardship Council
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Zakiya Cita - The Chayah Movement
+* Ruth True - Ravel
+* Ming-Ming Tung-Edelman - Refugee Artisan Initiative
+* Amanda Miller - South King Tool Library
+* McKenna Morrigan - Seattle Public Utilities
 
-#### 136 👎 - Con
+#### 375 👎 - Con
+Testifying:
+* Andrew Pappas - The American Apparel and Footwear Association
+* 💵Brandon Houskeeper - Northwest Grocery Retail Association
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Peter Godlewski - AWB
+* PATRICK HUSTING
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Peter Lyon - WA State Department of Ecology

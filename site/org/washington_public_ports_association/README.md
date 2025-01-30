@@ -31,6 +31,9 @@
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+* 👍 Eric ffitch
+
 ### [SB 5034](/bill/2025-26/sb/5034/) - System improvement team 👍1  
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  

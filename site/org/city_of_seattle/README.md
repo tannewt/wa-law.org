@@ -17,6 +17,8 @@
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
 
+### [HB 1240](/bill/2025-26/hb/1240/) - Vehicle impounds   ❓1
+
 ### [HB 1245](/bill/2025-26/hb/1245/) - Electrical transmission cap. 👍1  
 
 ### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  

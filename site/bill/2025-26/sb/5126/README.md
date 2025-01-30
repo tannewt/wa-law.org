@@ -7,18 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/29/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to address student mental, behavioral health heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/29/nobles-bill-to-address-student-mental-behavioral-health-heard-in-committee/#:~:text=Senate%20Bill%205126)
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205126)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205126)
 
 ## Meetings
 ### Wed 01/29 10:30 AM - Early Learning & K-12 Education (EDU): SB 5126 Student mental health net.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161971&caId=24967&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161971&caId=24967&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161971&caId=24967&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32556&aId=161971&caId=24967&tId=4)
-
-#### 455 👍 - Pro
+#### 458 👍 - Pro
 Testifying:
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Dr. Gwen Loosmore - Washington State PTA
@@ -34,7 +29,7 @@ Testifying:
 * Kenia Soriano Hernandez - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
 * Michael Van Dyke - Washington Chapter of American Academy of Pediatrics
 
-#### 1927 👎 - Con
+#### 1940 👎 - Con
 Testifying:
 * Khushdip Brar - Concerned Citizen
 * Gabriel Jacobs

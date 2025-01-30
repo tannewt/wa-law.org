@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32533&aId=161889&caId=25027&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32533&aId=161889&caId=25027&tId=4)
 
-#### 515 👍 - Pro
+#### 674 👍 - Pro
 Testifying:
 * Jacob Ivan Schmitt - Just Us Solutions, LLC
 * Jacob Ivan Schmitt - Just Us Solutions, LLC
@@ -22,11 +22,19 @@ Testifying:
 * Juan Peralez - Unidos of Snohomish County
 * Jacob Ivan Schmitt - Just Us Solutions, LLC
 * Robin Emmans - Washington Association of Criminal Defense Lawyers/ Washington Defender Association
+* Eliana Machefsky - National Police Accountability Project
+* Chalia Stallings-Ala'ilima - Attorney General's Office
+* Chalia Stallings-Ala'ilima - Attorney General's Office
+* Heather Kelly - League of Women Voters
+* 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
+* Kelly McConney Moore - NYU Policing Project
+* Shelly Washington - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 
-#### 151 👎 - Con
+#### 395 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Ryan Lufkin - Washington Council of Police & Sheriffs (WACOPS)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* PATRICK HUSTING
 
 #### 0 ❓ - Other

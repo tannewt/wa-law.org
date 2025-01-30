@@ -14,10 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162365&caId=25212&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162365&caId=25212&tId=4)
 
-#### 14 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * Theodore Smith
+* David Sale - Families for Safe Streets
+* Lori Markowitz - Families for Safe Streets
+* Amber Weilert - Families for Safe Streets
+* May Wang - Families for Safe Streets
+* Peter Bengston - Families for Safe Streets
+* Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 
-#### 3 👎 - Con
+#### 24 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Shelly Baldwin - Washington Traffic Safety Commission

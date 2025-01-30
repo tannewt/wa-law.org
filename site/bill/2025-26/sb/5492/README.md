@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Wed 01/29 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5492 Tourism promotion
-#### 56 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * Rose Noble - Visit Spokane
 * Annie McGrath - State of Washington Tourism
@@ -16,6 +16,7 @@ Testifying:
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 * 💵Gabriel Neuman - GSBA - Washington State LGBTQ+ Chamber of Commerce
+* Katie Kolan - State of WA Tourism
 
 #### 40 👎 - Con
 

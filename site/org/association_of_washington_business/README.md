@@ -129,7 +129,15 @@
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program  👎1 
 * 👎💵 Peter Godlewski
 
+### [HB 1430](/bill/2025-26/hb/1430/) - APRN & PA reimbursement  👎1 
+
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
+
+### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons   ❓1
+* ❓💵 Peter Godlewski
+
+### [HB 1522](/bill/2025-26/hb/1522/) - Utility wildfire mitigation 👍1  
+* 👍💵 Peter Godlewski
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 * 👍💵 Peter Godlewski
@@ -204,6 +212,8 @@
 ### [SB 5315](/bill/2025-26/sb/5315/) - Local tax rate changes 👍1  
 
 ### [SB 5328](/bill/2025-26/sb/5328/) - Earned wage access services 👍1  
+
+### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 * 👎💵 Peter Godlewski

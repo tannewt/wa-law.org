@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5369/</link>
 		<description>Updates about SB 5369</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 07:11:56 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 19:56:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -885,6 +885,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jenny/Morgan/2025-01-29 07:11:56</guid>
+		</item>
+		<item>
+			<title>Bill to Improve Students’ Mental Health Heard in Senate - Sen. Tina Orwall</title>
+			<description>News article "Bill to Improve Students’ Mental Health Heard in Senate - Sen. Tina Orwall" from Senate Democrats.</description>
+			<pubDate>Wed, 29 Jan 2025 19:56:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/orwall/2025/01/29/bill-to-improve-students-mental-health-heard-in-senate/#:~:text=Senate%20Bill%205369</guid>
 		</item>
 	</channel>
 </rss>

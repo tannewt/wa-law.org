@@ -1,7 +1,7 @@
 # Washington School Counselor Association
 ## 2025-26
 
-### [HB 1136](/bill/2025-26/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment.   ❓1
+### [HB 1136](/bill/2025-26/hb/1136/) - Student navigational support   ❓1
 * ❓💵 Jenny Morgan
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  

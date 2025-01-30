@@ -1,12 +1,15 @@
 # Washington Christmas Tree Growers
 ## 2025-26
 
-## [HB 1261](/bill/2025-26/hb/1261/) - Open space incidental use 👍1  
+### [HB 1261](/bill/2025-26/hb/1261/) - Open space incidental use 👍1  
+* 👍💵 Brad Tower
+
+## [SB 5479](/bill/2025-26/sb/5479/) - Open space incidental use 👍1  
 * 👍💵 Brad Tower
 
 ## 2023-24
 
-### [HB 1261](/bill/2023-24/hb/1261/) - Open space incidental use 👍1  
+### [SB 5479](/bill/2023-24/sb/5479/) - Open space incidental use 👍1  
 * 👍💵 Brad Tower
 
 ### [SB 5156](/bill/2023-24/sb/5156/) - Farm internship program 👍1  

@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Wed 01/29 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1166 DOC reentry education
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162108&caId=25138&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162108&caId=25138&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162108&caId=25138&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32582&aId=162108&caId=25138&tId=4)
-
-#### 666 👍 - Pro
+#### 684 👍 - Pro
 Testifying:
 * Laurel Durrett
 * Darrell Johnson
@@ -32,8 +26,9 @@ Testifying:
 * Jeremiah Bourgeois
 * Joel Strom
 * Alexis Hale - Justice for Girls
+* Nicholas Hacheney - Department of Corrections
 
-#### 514 👎 - Con
+#### 557 👎 - Con
 
 #### 4 ❓ - Other
 Testifying:

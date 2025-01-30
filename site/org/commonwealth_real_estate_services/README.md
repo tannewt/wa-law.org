@@ -4,7 +4,11 @@
 ### [HB 1204](/bill/2025-26/hb/1204/) - Senior shared housing   ❓1
 * ❓💵 Brad Tower
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎2 
+* 👎💵 Brad Tower
+* 👎💵 Brad Tower
+
+### [HB 1542](/bill/2025-26/hb/1542/) - Senior independent housing  👎1 
 * 👎💵 Brad Tower
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants  👎1 

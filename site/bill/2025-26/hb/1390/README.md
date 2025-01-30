@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/29 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1390 Community protection program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162007&caId=25131&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162007&caId=25131&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162007&caId=25131&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162007&caId=25131&tId=4)
-
-#### 34 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Kyle Matheson - Self advocate
 * Kyle Matheson - Self advocate
@@ -27,11 +21,12 @@ Testifying:
 * Andrew Morrison - Sex Offender Policy Board
 * Brad Meryhew - Sex Offender Policy Board
 * Kris Pederson - DSHS Developmental Disabilities Administration
+* Courtney Thom - People first of Washington
 
-#### 37 👎 - Con
+#### 39 👎 - Con
 Testifying:
 * Sonja Hardenbrook - WDA/WACDL
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Sonja Hardenbrook - WDA/WACDL

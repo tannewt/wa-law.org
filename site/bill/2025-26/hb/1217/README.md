@@ -18,6 +18,24 @@
 * 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201217)
 
 ## Meetings
+### Mon 02/03 04:00 PM - Appropriations (APP): SHB 1217 Residential tenants
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162720&caId=25346&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162720&caId=25346&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162720&caId=25346&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162720&caId=25346&tId=4)
+
+#### 6 👍 - Pro
+Testifying:
+* Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
+* Vanessa Kritzer - Redmond City Council President
+
+#### 4 👎 - Con
+Testifying:
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+
+#### 0 ❓ - Other
+
 ### Mon 01/13 01:30 PM - Housing (HOUS): HB 1217 Residential tenants
 #### 4032 👍 - Pro
 Testifying:

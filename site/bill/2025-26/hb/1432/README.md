@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/29 01:30 PM - Health Care & Wellness (HCW): HB 1432 Mental health services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161913&caId=25137&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161913&caId=25137&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161913&caId=25137&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32541&aId=161913&caId=25137&tId=4)
-
-#### 374 👍 - Pro
+#### 478 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * Rachael Snell
@@ -27,8 +21,11 @@ Testifying:
 * jean Brautigam Mills
 * Julia Larsen
 * Cody McCall
+* Ravi Ramasamy - Washington State Council on Child and Adolescent Psychiatry
+* Shannon Thompson - Washington Mental Health Counselor Association
+* Sharon Shadwell - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Kathleen Wedemeyer - Citizens Commission on Human Rights
 

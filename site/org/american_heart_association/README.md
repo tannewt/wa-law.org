@@ -4,6 +4,12 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Alex Hamasaki
 
+### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products 👍1  
+
+### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor  👎1 
+
+### [HB 1545](/bill/2025-26/hb/1545/) - Cardiac and stroke outcomes 👍1  
+
 ## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Alex Hamasaki
 

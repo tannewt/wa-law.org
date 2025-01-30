@@ -15,7 +15,8 @@
 ### [SB 5054](/bill/2025-26/sb/5054/) - Winery tax exemption   ❓1
 * ❓ Josh McDonald
 
-### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎1 
+### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎2 
+* 👎 Josh McDonald
 * 👎 Josh McDonald
 
 ## [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  

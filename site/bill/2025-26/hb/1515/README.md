@@ -11,19 +11,15 @@
 
 ## Meetings
 ### Wed 01/29 01:30 PM - Consumer Protection & Business (CPB): HB 1515 Alcohol service in public
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162327&caId=25180&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162327&caId=25180&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162327&caId=25180&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32574&aId=162327&caId=25180&tId=4)
-
-#### 17 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Marshall Foster - Seattle Center
 * Gloria Connors - Bumbershoot and FIFA Fan Festival
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 * Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Mike Stewart - Ballard Alliance
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 3 👎 - Con
 Testifying:

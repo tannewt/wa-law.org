@@ -1,6 +1,11 @@
 # The Washington Bus
 ## 2025-26
 
+### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
+
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+* 👍 Bailey Medilo
+
 ### [HB 1223](/bill/2025-26/hb/1223/) - Voter challenges 👍1  
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
@@ -8,11 +13,16 @@
 
 ### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections 👍1  
 
+### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
+
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍3  
 * 👍 Tai Yang-Abreu
 * 👍 Treveon Parish
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+
+### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
+* 👍💵 Edgar Espino
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 

@@ -1,7 +1,7 @@
 # Foundation for Tacoma Students
 ## 2025-26
 
-### [HB 1136](/bill/2025-26/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment. 👍1  
+### [HB 1136](/bill/2025-26/hb/1136/) - Student navigational support 👍1  
 * 👍 Ben Mitchell
 
 ### [HB 1143](/bill/2025-26/hb/1143/) - College grant award amounts 👍1  
@@ -24,11 +24,13 @@
 
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
 
-## [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
+### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
+
+## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 
 ## 2023-24
 
-### [SB 5308](/bill/2023-24/sb/5308/) - Guaranteed admissions prg. 👍1  
+### [SB 5402](/bill/2023-24/sb/5402/) - Financial aid eligibility 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

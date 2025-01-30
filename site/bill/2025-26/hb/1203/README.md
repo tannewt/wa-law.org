@@ -19,12 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162057&caId=25164&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162057&caId=25164&tId=4)
 
-#### 125 👍 - Pro
+#### 138 👍 - Pro
 Testifying:
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 * Chris Reykdal - [Superintendent of Public Instruction](/org/superintendent_of_public_instruction/)
+* Julian Jansen - Student Representative for Eatonville School District
+* McKenah Perdue - Student Representative for Eatonville School District
+* Robert Poulter - Student Representative for Eatonville School District
 
-#### 349 👎 - Con
+#### 383 👎 - Con
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Neill Franklin - Law Enforcement Action Partnership
@@ -33,8 +36,14 @@ Testifying:
 * Doug Ball - Jackson's Food Stores, Inc.
 * Jeff Small - Small and Sons Oil
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* William robinson - URBAN COALITION AGAINST SUBSTANCE ABUSE
 * Elliot Boyce - None
 * Corey Pegues - COREY PEGUES ENTERPRISE
+* Robert Lambeth
+* Joe Hunt - United Pacific
+* Lamont Robinson
+* Yvonne Pack
+* Gregory Smith
 
 #### 9 ❓ - Other
 Testifying:

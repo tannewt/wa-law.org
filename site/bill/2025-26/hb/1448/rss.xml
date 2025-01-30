@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1448/</link>
 		<description>Updates about HB 1448</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 12:09:01 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 15:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -284,6 +284,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Eric/Gonzalez Alfaro/2025-01-28 12:09:01</guid>
+		</item>
+		<item>
+			<title>WA lawmakers consider overhaul of local elections with ranked choice voting option | Washington | thecentersquare.com</title>
+			<description>News article "WA lawmakers consider overhaul of local elections with ranked choice voting option | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 29 Jan 2025 15:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_167954f4-de84-11ef-8c2e-2f0d90650d98.html#:~:text=House%20Bill%201448</guid>
 		</item>
 	</channel>
 </rss>

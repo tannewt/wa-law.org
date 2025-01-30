@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32602&aId=162388&caId=25215&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32602&aId=162388&caId=25215&tId=4)
 
-#### 8 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Joe Kunzler
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Mindy Brooks - [Lewis County](/org/lewis_county/)
 
 #### 0 👎 - Con
 

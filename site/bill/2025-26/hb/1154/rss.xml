@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1154/</link>
 		<description>Updates about HB 1154</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -114,6 +114,13 @@
 			<pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-27/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-29/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

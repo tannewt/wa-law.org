@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1256/</link>
 		<description>Updates about HB 1256</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 09:05:17 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 12:31:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,6 +45,30 @@
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201256</guid>
 		</item>
 		<item>
+			<title>👍💵Mark Streuli - District Council of Ironworkers of the Pacific Northwest</title>
+			<description>Mark Streuli signed up to testify Pro. They are signed up to represent District Council of Ironworkers of the Pacific Northwest. They are a registered lobbyist.</description>
+			<pubDate>Wed, 29 Jan 2025 05:36:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mark/Streuli/2025-01-29 05:36:03</guid>
+		</item>
+		<item>
+			<title>👎💵Scott Hazlegrove - WA Association of Sewer &amp; Water Districts</title>
+			<description>Scott Hazlegrove signed up to testify Con. They are signed up to represent WA Association of Sewer &amp; Water Districts. They are a registered lobbyist.</description>
+			<pubDate>Wed, 29 Jan 2025 06:55:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Scott/Hazlegrove/2025-01-29 06:55:59</guid>
+		</item>
+		<item>
+			<title>👍Dan Wilson - United Steelworkers, Local 338</title>
+			<description>Dan Wilson signed up to testify Pro. They are signed up to represent United Steelworkers, Local 338.</description>
+			<pubDate>Wed, 29 Jan 2025 06:56:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dan/Wilson/2025-01-29 06:56:09</guid>
+		</item>
+		<item>
 			<title>❓💵Jerry Vanderwood - Associated General Contractors of Washington</title>
 			<description>Jerry Vanderwood signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/associated_general_contractors_of_washington/"&gt;Associated General Contractors of Washington&lt;/a&gt;. They are a registered lobbyist.</description>
 			<pubDate>Wed, 29 Jan 2025 09:05:17 GMT</pubDate>
@@ -67,6 +91,22 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Mike/Ennis/2025-01-29 09:05:17</guid>
+		</item>
+		<item>
+			<title>👍💵Christoph Mair - Washington State Labor Council, AFL-CIO</title>
+			<description>Christoph Mair signed up to testify Pro. They are signed up to represent Washington State Labor Council, AFL-CIO. They are a registered lobbyist.</description>
+			<pubDate>Wed, 29 Jan 2025 09:48:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Christoph/Mair/2025-01-29 09:48:45</guid>
+		</item>
+		<item>
+			<title>👍💵Maya Gillett - WA BlueGreen Alliance</title>
+			<description>Maya Gillett signed up to testify Pro. They are signed up to represent WA BlueGreen Alliance. They are a registered lobbyist.</description>
+			<pubDate>Wed, 29 Jan 2025 12:31:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Maya/Gillett/2025-01-29 12:31:35</guid>
 		</item>
 	</channel>
 </rss>

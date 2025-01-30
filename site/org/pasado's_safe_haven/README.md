@@ -8,11 +8,15 @@
 ### [HB 1149](/bill/2025-26/hb/1149/) - Cruelty to animals 👍2  
 * 👍💵 Kirsten Gregory
 
-## [SB 5065](/bill/2025-26/sb/5065/) - Traveling animal acts 👍1  
+### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
+
+### [SB 5065](/bill/2025-26/sb/5065/) - Traveling animal acts 👍1  
+
+## [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
 ## 2023-24
 
-### [SB 5065](/bill/2023-24/sb/5065/) - Traveling animal acts 👍1  
+### [SB 5352](/bill/2023-24/sb/5352/) - Free school meals 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍4  
 

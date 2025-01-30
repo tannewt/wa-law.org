@@ -17,10 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32551&aId=161934&caId=25150&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32551&aId=161934&caId=25150&tId=4)
 
-#### 11 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * ryan spiller - WA Fire Commissioners
 
-#### 133 👎 - Con
+#### 325 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

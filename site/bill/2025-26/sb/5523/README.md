@@ -7,3 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 02/03 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5523 Higher ed. gov./students
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32691&aId=162761&caId=25257&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32691&aId=162761&caId=25257&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32691&aId=162761&caId=25257&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32691&aId=162761&caId=25257&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

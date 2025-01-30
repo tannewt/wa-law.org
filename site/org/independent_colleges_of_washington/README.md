@@ -1,7 +1,7 @@
 # Independent Colleges of Washington
 ## 2025-26
 
-### [HB 1136](/bill/2025-26/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment. 👍1  
+### [HB 1136](/bill/2025-26/hb/1136/) - Student navigational support 👍1  
 
 ### [HB 1143](/bill/2025-26/hb/1143/) - College grant award amounts 👍1  
 * 👍 Ph.D., Terri Standish-Kuon
@@ -12,13 +12,14 @@
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
 
-## [SB 5205](/bill/2025-26/sb/5205/) - College grant award amounts 👍1  
+### [SB 5205](/bill/2025-26/sb/5205/) - College grant award amounts 👍1  
 * 👍 Ph.D., Terri Standish-Kuon
+
+## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 
 ## 2023-24
 
-### [SB 5205](/bill/2023-24/sb/5205/) - College grant award amounts 👍1  
-* 👍 Ph.D., Terri Standish-Kuon
+### [SB 5402](/bill/2023-24/sb/5402/) - Financial aid eligibility 👍1  
 
 ### [HB 1051](/bill/2023-24/hb/1051/) - Robocalls & telephone scams   ❓1
 * ❓ Terri Standish-Kuon

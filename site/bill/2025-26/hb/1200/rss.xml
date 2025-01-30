@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1200/</link>
 		<description>Updates about HB 1200</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 08:53:31 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 12:14:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -326,7 +326,23 @@
 			<guid isPermaLink="false">testifier/Courtney/Criss/2025-01-28 12:47:38</guid>
 		</item>
 		<item>
-			<title>👍Lindsey Topping-schuetz - The Arc of Snohomish County</title>
+			<title>👍Leonardo Salas Ramos - Open Doors</title>
+			<description>Leonardo Salas Ramos signed up to testify Pro. They are signed up to represent Open Doors.</description>
+			<pubDate>Wed, 29 Jan 2025 03:44:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Leonardo Salas/Ramos/2025-01-29 03:44:13</guid>
+		</item>
+		<item>
+			<title>👍Sonia Ramos Marentos - Open Doors</title>
+			<description>Sonia Ramos Marentos signed up to testify Pro. They are signed up to represent Open Doors.</description>
+			<pubDate>Wed, 29 Jan 2025 03:45:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sonia Ramos/Marentos/2025-01-29 03:45:01</guid>
+		</item>
+		<item>
+			<title>👍Lindsey Topping-schuetz - Open Doors</title>
 			<description>Lindsey Topping-schuetz signed up to testify Pro.</description>
 			<pubDate>Wed, 29 Jan 2025 07:09:35 GMT</pubDate>
 			<category>testifier</category>
@@ -334,7 +350,7 @@
 			<guid isPermaLink="false">testifier/Lindsey/Topping-schuetz/2025-01-29 07:09:35</guid>
 		</item>
 		<item>
-			<title>👍Brittany Huerta - The Arc of Snohomish County</title>
+			<title>👍Brittany Huerta - Open Doors</title>
 			<description>Brittany Huerta signed up to testify Pro.</description>
 			<pubDate>Wed, 29 Jan 2025 07:20:13 GMT</pubDate>
 			<category>testifier</category>
@@ -356,6 +372,54 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Rebecca/Sumner/2025-01-29 08:53:31</guid>
+		</item>
+		<item>
+			<title>👍SAVANNAH O'MALLEY - Parent, Caregiver, Homeschooling Parent of a Disabled, Additional Needs Child</title>
+			<description>SAVANNAH O'MALLEY signed up to testify Pro.</description>
+			<pubDate>Wed, 29 Jan 2025 09:15:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/SAVANNAH/O'MALLEY/2025-01-29 09:15:12</guid>
+		</item>
+		<item>
+			<title>👍Stuart Reed - Parent, Caregiver, Homeschooling Parent of a Disabled, Additional Needs Child</title>
+			<description>Stuart Reed signed up to testify Pro.</description>
+			<pubDate>Wed, 29 Jan 2025 10:07:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Stuart/Reed/2025-01-29 10:07:34</guid>
+		</item>
+		<item>
+			<title>👍Emani Donaldson - Parent, Caregiver, Homeschooling Parent of a Disabled, Additional Needs Child</title>
+			<description>Emani Donaldson signed up to testify Pro.</description>
+			<pubDate>Wed, 29 Jan 2025 11:11:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emani/Donaldson/2025-01-29 11:11:56</guid>
+		</item>
+		<item>
+			<title>👍Leonardo Salas - Parent, Caregiver, Homeschooling Parent of a Disabled, Additional Needs Child</title>
+			<description>Leonardo Salas signed up to testify Pro.</description>
+			<pubDate>Wed, 29 Jan 2025 11:24:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Leonardo/Salas/2025-01-29 11:24:19</guid>
+		</item>
+		<item>
+			<title>👍Jessica Morrow - Parent, Caregiver, Homeschooling Parent of a Disabled, Additional Needs Child</title>
+			<description>Jessica Morrow signed up to testify Pro.</description>
+			<pubDate>Wed, 29 Jan 2025 11:51:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jessica/Morrow/2025-01-29 11:51:32</guid>
+		</item>
+		<item>
+			<title>👍Andrea Graham - Parent, Caregiver, Homeschooling Parent of a Disabled, Additional Needs Child</title>
+			<description>Andrea Graham signed up to testify Pro.</description>
+			<pubDate>Wed, 29 Jan 2025 12:14:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andrea/Graham/2025-01-29 12:14:21</guid>
 		</item>
 	</channel>
 </rss>

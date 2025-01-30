@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 01/29 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1200 DD parental caregivers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162297&caId=25132&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162297&caId=25132&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162297&caId=25132&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32564&aId=162297&caId=25132&tId=4)
-
-#### 496 👍 - Pro
+#### 541 👍 - Pro
 Testifying:
 * Catherine Young - Tacoma Special education PTA
 * jessica morrow
@@ -52,10 +46,18 @@ Testifying:
 * Erin krempasky
 * Anna Miller
 * Courtney Criss - The Arc of Snohomish County
+* Leonardo Salas Ramos - Open Doors
+* Sonia Ramos Marentos - Open Doors
 * Lindsey Topping-schuetz
 * Brittany Huerta
 * Melissa Wren - Parent, Caregiver, Homeschooling Parent of a Disabled, Additional Needs Child
 * Rebecca Sumner
+* SAVANNAH O'MALLEY
+* Stuart Reed
+* Emani Donaldson
+* Leonardo Salas
+* Jessica Morrow
+* Andrea Graham
 
 #### 1 👎 - Con
 

@@ -39,7 +39,7 @@
 
 ### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services 👍1  
 
-### [HB 1136](/bill/2025-26/hb/1136/) - Providing student navigational supports to increase postsecondary enrollment. 👍2  
+### [HB 1136](/bill/2025-26/hb/1136/) - Student navigational support 👍2  
 * 👍💵 Simone Boe
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
@@ -83,6 +83,8 @@
 ### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  
 
 ### [HB 1264](/bill/2025-26/hb/1264/) - Ferry system salaries 👍1  
+
+### [HB 1267](/bill/2025-26/hb/1267/) - Special education funding   ❓1
 
 ### [HB 1270](/bill/2025-26/hb/1270/) - Deferred comp. by local gov. 👍1  
 

@@ -14,12 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161895&caId=25156&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161895&caId=25156&tId=4)
 
-#### 12 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Joe Schiessl - [City of Richland](/org/city_of_richland/)
 * Rael Candelaria - Framatome
 * Diahann Howard - Port of Benton
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
+* 💵Neil Hartman - Washington State Association of UA Plumbers, Pipefitters and HVAC/R Mechanics
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Jerry VanderWood - Associated General Contractors (AGC)
+* 💵Brandon Houskeeper - Associated Builders & Contractors - Western WA / SW WA Contractors Assoc.
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Suellen Mele - 350 Washington Civic Action Team

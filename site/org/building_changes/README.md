@@ -8,7 +8,7 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
-### [HB 1540](/bill/2025-26/hb/1540/) - Homelessness/tribal colleges 👍1  
+### [HB 1540](/bill/2025-26/hb/1540/) - Homelessness/tribal colleges 👍2  
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍2  
 
@@ -19,13 +19,15 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍2  
 
-## [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍1  
+### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍1  
+
+## [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market 👍1  
 
 ## 2023-24
 
-### [SB 5313](/bill/2023-24/sb/5313/) - Rental agreement provisions 👍1  
+### [SB 5469](/bill/2023-24/sb/5469/) - Rental housing market 👍1  
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1253/</link>
 		<description>Updates about HB 1253</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 15 Jan 2025 08:41:22 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 28 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -60,6 +60,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Nicolas/Garcia/2025-01-15 08:41:22</guid>
+		</item>
+		<item>
+			<title>ENVI - Executive action taken by committee.</title>
+			<description>ENVI - Executive action taken by committee.</description>
+			<pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-28/ENVI - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

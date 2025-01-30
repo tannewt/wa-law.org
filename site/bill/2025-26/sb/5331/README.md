@@ -14,8 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32585&aId=162079&caId=24957&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32585&aId=162079&caId=24957&tId=4)
 
-#### 20 👍 - Pro
+#### 33 👍 - Pro
+Testifying:
+* 💵Bill Stauffacher - Independent Insurers and Brokers of Washington
+* Bryon Welch - Office of the Insurance Commissioner
+* Patty Kuderer - Office of the Insurance Commissioner
+* Rory Paine-Donovan - Office of the Insurance Commissioner
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
+* 💵Kenton Brine - NW Insurance Council
+* Kris Tefft - [American Property Casualty Insurance Association](/org/american_property_casualty_insurance_association/)

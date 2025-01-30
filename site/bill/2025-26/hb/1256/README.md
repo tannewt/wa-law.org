@@ -17,11 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32551&aId=161937&caId=25153&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32551&aId=161937&caId=25153&tId=4)
 
-#### 4 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Briuan Lombardozzi - [Alliance for American Manufacturing](/org/alliance_for_american_manufacturing/)
+* 💵Mark Streuli - District Council of Ironworkers of the Pacific Northwest
+* Dan Wilson - United Steelworkers, Local 338
+* 💵Christoph Mair - Washington State Labor Council, AFL-CIO
+* 💵Maya Gillett - WA BlueGreen Alliance
 
-#### 2 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
 
 #### 4 ❓ - Other
 Testifying:

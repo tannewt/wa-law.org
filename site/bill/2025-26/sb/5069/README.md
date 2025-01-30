@@ -11,6 +11,19 @@
 * 01/13/2025 [Senate Democrats](/org/senate_democrats/) - [The 2025 legislative session has officially begun - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/01/13/the-2025-legislative-session-has-officially-begun/#:~:text=SB%205069)
 
 ## Meetings
+### Mon 02/03 04:00 PM - Ways & Means (WM): SB 5069 Voters' pamphlets
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162896&caId=25327&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162896&caId=25327&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162896&caId=25327&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162896&caId=25327&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/14 01:30 PM - State Government & Elections (SGE): SB 5069 Voters' pamphlets
 #### 146 👍 - Pro
 Testifying:

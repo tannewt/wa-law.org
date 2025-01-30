@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1069/</link>
 		<description>Updates about HB 1069</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 16 Jan 2025 09:39:55 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -68,6 +68,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Daniel/Hahn/2025-01-16 09:39:55</guid>
+		</item>
+		<item>
+			<title>LAWS - Executive action taken by committee.</title>
+			<description>LAWS - Executive action taken by committee.</description>
+			<pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-29/LAWS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

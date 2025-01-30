@@ -17,10 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162162&caId=24991&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162162&caId=24991&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * ZANAB WASEEM - PAN PACIFIC HEALTH, PLLC
+* Angeles Ize
 
-#### 0 👎 - Con
+#### 16 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Micah Matthews - Washington Medical Commission/Deputy Executive and Legislative Director
