@@ -4,13 +4,16 @@
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs  👎1 
 * 👎 Jeff Gombosky
 
-## [SB 5377](/bill/2025-26/sb/5377/) - Motor vehicle dealers  👎1 
+### [SB 5377](/bill/2025-26/sb/5377/) - Motor vehicle dealers  👎1 
 * 👎💵 Noelani Derrickson
+
+## [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale   ❓1
+* ❓💵 Noelani Derrickson
 
 ## 2023-24
 
-### [SB 5377](/bill/2023-24/sb/5377/) - Motor vehicle dealers  👎1 
-* 👎💵 Noelani Derrickson
+### [SB 5592](/bill/2023-24/sb/5592/) - Zero emissions vehicles/sale   ❓1
+* ❓💵 Noelani Derrickson
 
 ### [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  
 * 👍💵 Noelani Derrickson

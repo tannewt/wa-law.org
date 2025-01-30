@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1630/</link>
 		<description>Updates about HB 1630</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 14:45:58 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,13 @@
 			<pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-27/First reading, referred to Environment &amp; Energy.</guid>
+		</item>
+		<item>
+			<title>Could cow burps and farts be taxed in Washington?</title>
+			<description>News article "Could cow burps and farts be taxed in Washington?" from MyNorthwest.</description>
+			<pubDate>Wed, 29 Jan 2025 14:45:58 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/mynorthwest-politics/wa-cow-burps-and-farts/4036217#:~:text=House%20Bill%201630</guid>
 		</item>
 	</channel>
 </rss>

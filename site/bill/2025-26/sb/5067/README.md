@@ -22,7 +22,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=4)
 
-#### 61 👍 - Pro
+#### 74 👍 - Pro
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Annie Sawyer
@@ -38,13 +38,15 @@ Testifying:
 * Mark McKechnie - Washington Traffic Safety Commission
 * Tom Chapman - National Transportation Safety Board
 * James Fell
+* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 
-#### 150 👎 - Con
+#### 169 👎 - Con
 Testifying:
 * Daniel Olsen - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Emily Bourne - Server
+* David Bryant - Self
 
 #### 1 ❓ - Other
 Testifying:

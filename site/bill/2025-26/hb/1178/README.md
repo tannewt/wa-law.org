@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/26/2025 [MyNorthwest](/org/mynorthwest/) - [Dems wants lighter sentences, cites too many Black offenders](https://mynorthwest.com/ktth/ktth-opinion/lighter-sentences-black-jail/4034441#:~:text=House%20Bill%201178)
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201178)
 
 ## Meetings

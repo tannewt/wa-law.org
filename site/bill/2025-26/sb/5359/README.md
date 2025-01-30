@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32611&aId=162198&caId=24977&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32611&aId=162198&caId=24977&tId=4)
 
-#### 307 👍 - Pro
+#### 348 👍 - Pro
 Testifying:
 * 💵Brynn Brady - Audubon WA
 * Ben Blank
 
-#### 35 👎 - Con
+#### 163 👎 - Con
 
 #### 0 ❓ - Other

@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32551&aId=161937&caId=25153&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32551&aId=161937&caId=25153&tId=4)
 
-#### 16 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Briuan Lombardozzi - [Alliance for American Manufacturing](/org/alliance_for_american_manufacturing/)
 * 💵Mark Streuli - District Council of Ironworkers of the Pacific Northwest
@@ -29,8 +29,9 @@ Testifying:
 Testifying:
 * 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Jerry Vanderwood - [Associated General Contractors of Washington](/org/associated_general_contractors_of_washington/)
 * 💵Michael Transue - WA Aggregate and Concrete Association / Mechanical Contractor Association of Western WA
 * Mike Ennis - Washington Asphalt Pavement Association (WAPA)
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)

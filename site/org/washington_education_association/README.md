@@ -274,6 +274,8 @@
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
 
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
+
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍3  
 * 👍💵 Larry Delaney
 
@@ -310,6 +312,8 @@
 ### [SB 5381](/bill/2025-26/sb/5381/) - Self-insurer withdrawal 👍1  
 
 ### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 
+
+### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 
 ### [SB 5433](/bill/2025-26/sb/5433/) - DOC employee bargaining 👍1  
 

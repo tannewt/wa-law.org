@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1201 - Identifying accommodations allowing pets in an emergency or extreme weather event.</title>
+		<title>HB 1201 - Emergency shelters/pets</title>
 		<link>https://wa-law.org/bill/2025-26/hb/1201/</link>
 		<description>Updates about HB 1201</description>
 		<language>en-US</language>
@@ -60,6 +60,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Rachele/Raj/2025-01-21 08:48:48</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-29/Minority; without recommendation.</guid>
 		</item>
 		<item>
 			<title>TEDV - Executive action taken by committee.</title>

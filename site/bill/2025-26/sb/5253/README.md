@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Thu 01/30 10:30 AM - Early Learning & K-12 Education (EDU): SB 5253 Special education services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161979&caId=24973&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161979&caId=24973&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161979&caId=24973&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32557&aId=161979&caId=24973&tId=4)
-
-#### 135 👍 - Pro
+#### 182 👍 - Pro
 Testifying:
 * Tania May - Office of Superintendent of Public Instruction
 * 💵Alex Hur - Communities in Schools of Washington
@@ -29,8 +23,9 @@ Testifying:
 * 💵Lance Morehouse - [Sherwood Community Services](/org/sherwood_community_services/)
 * PATRICK HUSTING
 * Kathy McDonald - none
+* Leonard Salas - Open doors for Multicultural Families
 
-#### 331 👎 - Con
+#### 375 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

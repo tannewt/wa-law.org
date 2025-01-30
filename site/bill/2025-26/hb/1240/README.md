@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162364&caId=25211&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162364&caId=25211&tId=4)
 
-#### 153 👍 - Pro
+#### 166 👍 - Pro
 Testifying:
 * The Rev. Bill Kirlin-Hackett - Interfaith Task Force on Homelessness
 * The Rev. Bill Kirlin-Hackett - Interfaith Task Force on Homelessness
@@ -27,7 +27,7 @@ Testifying:
 * Will Aronin - [Institute for Justice](/org/institute_for_justice/)
 * Jessica Puckett
 
-#### 21 👎 - Con
+#### 23 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Kris Zachary - Burns Towing

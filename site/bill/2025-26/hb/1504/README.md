@@ -17,11 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162744&caId=25366&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162744&caId=25366&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
 
-#### 31 👎 - Con
+#### 1037 👎 - Con
 Testifying:
 * Teodorin Morca
 * Casey Schaufler
+* Jane Milhans
+* Michael Riggs
+* Derek Higgins
+* Austin Strunk
+* Michael McKinley
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

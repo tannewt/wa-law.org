@@ -19,15 +19,30 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162057&caId=25164&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162057&caId=25164&tId=4)
 
-#### 138 👍 - Pro
+#### 160 👍 - Pro
 Testifying:
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 * Chris Reykdal - [Superintendent of Public Instruction](/org/superintendent_of_public_instruction/)
 * Julian Jansen - Student Representative for Eatonville School District
 * McKenah Perdue - Student Representative for Eatonville School District
 * Robert Poulter - Student Representative for Eatonville School District
+* 💵Roz Thompson - Association of Washington School Principals (ASWP)
+* Krystal Forslin - Student
+* Nancy Carroll - Assistant Principal, West Seattle High School
+* Brent Campbell - Peninsula School District
+* Marley Franich - Middle School Student
+* Megan Moore - WA State Public Health Association
+* Josie Shapiro - Student
+* Mohammad Shidane - Somali Health Board
+* Onya Robertson - Parent
+* Amelia Escobedo - LULAC
+* April Keim - PAVE
+* Maud De Bel - PAVE
+* Audrey Miller Garcia - ACSCAN
+* Carol Coram - ACSCAN
+* 💵Kelsey Beck - Kaiser
 
-#### 383 👎 - Con
+#### 394 👎 - Con
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Neill Franklin - Law Enforcement Action Partnership

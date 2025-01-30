@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1125/</link>
 		<description>Updates about HB 1125</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 08:38:51 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 16:55:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -403,6 +403,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Brad/Banks/2025-01-29 08:38:51</guid>
+		</item>
+		<item>
+			<title>Activist judges could release violent felons with new bill</title>
+			<description>News article "Activist judges could release violent felons with new bill" from MyNorthwest.</description>
+			<pubDate>Wed, 29 Jan 2025 16:55:41 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/kiro-opinion/activist-judges-early-release/4033290#:~:text=House%20Bill%201125</guid>
+		</item>
+		<item>
+			<title>Activist judges could release violent felons with new bill</title>
+			<description>News article "Activist judges could release violent felons with new bill" from MyNorthwest.</description>
+			<pubDate>Wed, 29 Jan 2025 16:55:41 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/ktth/ktth-opinion/activist-judges-early-release/4033290#:~:text=House%20Bill%201125</guid>
 		</item>
 	</channel>
 </rss>

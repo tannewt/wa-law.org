@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1253](/bill/2025-26/hb/1253/)
 
-# HB 1253 - Expanding the ability of consumer-owned utilities to enter into joint use agreements.
+# HB 1253 - Utility joint use agreements
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1253&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/16 08:00 AM - Environment & Energy (ENVI): HB 1253 Expanding the ability of consumer-owned utilities to enter into joint use agreements. (Remote Testimony Available). (If measure is referred to committee.)

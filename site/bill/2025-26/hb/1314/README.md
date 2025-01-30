@@ -17,15 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32551&aId=161938&caId=25154&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32551&aId=161938&caId=25154&tId=4)
 
-#### 533 👍 - Pro
+#### 583 👍 - Pro
 Testifying:
 * 💵Paula Sardinas - Washington Build Back Black Alliance (WBBA)
 * 💵Erica Hallock - Start Early Washington
 * Julie German-Murrey - Rosalie Murrey Memorial Foundation
 * Nancy Trevena - Educational Opportunities for Children and Families
+* 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
 
-#### 340 👎 - Con
+#### 405 👎 - Con
 
-#### 34 ❓ - Other
+#### 36 ❓ - Other
 Testifying:
 * Dave Pringle - Dept. of Commerce

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1605/</link>
 		<description>Updates about HB 1605</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2025 08:54:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-27/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍Spike Unruh - Washington State Patrol Troopers Association</title>
+			<description>Spike Unruh signed up to testify Pro. They are signed up to represent Washington State Patrol Troopers Association.</description>
+			<pubDate>Thu, 30 Jan 2025 08:54:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Spike/Unruh/2025-01-30 08:54:39</guid>
 		</item>
 	</channel>
 </rss>

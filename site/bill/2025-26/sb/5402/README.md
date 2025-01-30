@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32577&aId=162112&caId=24997&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32577&aId=162112&caId=24997&tId=4)
 
-#### 1226 👍 - Pro
+#### 1240 👍 - Pro
 Testifying:
 * Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
 * Miguel Garduno Munoz - Western Washington University
@@ -32,7 +32,9 @@ Testifying:
 * Cheryl (Cher) Aguilar Henriquez
 * Khanh Pham - Washington State Board of Community and Technical Colleges
 * Keagan Nakazawa
+* Fernanda Cornelio
+* Diego Gonzalez
 
-#### 343 👎 - Con
+#### 404 👎 - Con
 
 #### 11 ❓ - Other

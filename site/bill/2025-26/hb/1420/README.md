@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Thu 01/30 08:00 AM - Environment & Energy (ENVI): HB 1420 Textile producers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32560&aId=162227&caId=25145&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32560&aId=162227&caId=25145&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32560&aId=162227&caId=25145&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32560&aId=162227&caId=25145&tId=4)
-
-#### 327 👍 - Pro
+#### 342 👍 - Pro
 Testifying:
 * Joanne Brasch - California Product Stewardship Council
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
@@ -28,7 +22,7 @@ Testifying:
 * Amanda Miller - South King Tool Library
 * McKenna Morrigan - Seattle Public Utilities
 
-#### 375 👎 - Con
+#### 415 👎 - Con
 Testifying:
 * Andrew Pappas - The American Apparel and Footwear Association
 * 💵Brandon Houskeeper - Northwest Grocery Retail Association

@@ -17,9 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162721&caId=25347&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162721&caId=25347&tId=4)
 
-#### 3 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
+* Kyle Rydell - West valley School District
 
 #### 1 👎 - Con
 

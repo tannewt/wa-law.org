@@ -12,6 +12,8 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
+### [HB 1240](/bill/2025-26/hb/1240/) - Vehicle impounds 👍1  
+
 ### [HB 1243](/bill/2025-26/hb/1243/) - DSHS overpayments 👍1  
 
 ### [HB 1267](/bill/2025-26/hb/1267/) - Special education funding 👍1  

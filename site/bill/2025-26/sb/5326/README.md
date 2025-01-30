@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/30 08:00 AM - Health & Long Term Care (HLTC): SB 5326 Insulin emergency supply
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162160&caId=24989&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162160&caId=24989&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162160&caId=24989&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162160&caId=24989&tId=4)
-
-#### 64 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * Jennifer Perkins - T1International, Washington chapter
 * Kevin Wren - Washington #insulin4all
@@ -24,9 +18,10 @@ Testifying:
 * Haven Hepner
 * Matthew Prokop - [American Diabetes Association](/org/american_diabetes_association/)
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Dharia McGrew - PhRMA
 * 💵Michael Transue - [Oregon Biosciences Association](/org/oregon_biosciences_association/)
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other

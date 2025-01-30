@@ -18,13 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162032&caId=25159&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162032&caId=25159&tId=4)
 
-#### 121 👍 - Pro
+#### 159 👍 - Pro
 Testifying:
 * Alexandra Kendall
 
-#### 317 👎 - Con
+#### 359 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Hilary Kozel - [Spokane Public Schools](/org/spokane_public_schools/)
 * Natalya Yudkovsky - Washington State PTA

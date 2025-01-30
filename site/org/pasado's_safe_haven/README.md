@@ -12,11 +12,13 @@
 
 ### [SB 5065](/bill/2025-26/sb/5065/) - Traveling animal acts 👍1  
 
-## [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
+### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
+
+## [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
 
 ## 2023-24
 
-### [SB 5352](/bill/2023-24/sb/5352/) - Free school meals 👍1  
+### [SB 5474](/bill/2023-24/sb/5474/) - Organic, etc. agriculture 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍4  
 

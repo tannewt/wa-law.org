@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162322&caId=25172&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162322&caId=25172&tId=4)
 
-#### 28 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * James Nania - Washington Chapter of the American College of Emergency Physicians
 * Karen Dionne
@@ -22,8 +22,12 @@ Testifying:
 * Dr. Cameron Buck
 * Dr. James Nania
 * Dr. Paul Craven
+* Bob Runnells - Informed Choice Washington
+* Brian Burns - Washington State Emegency Nurses Association
+* Cody Staub - Washington State Emergency Nurses Association
+* Michelle Percopo - Washington State Emergency Nurses Association
 
-#### 78 👎 - Con
+#### 85 👎 - Con
 Testifying:
 * Nathan Smith
 * Michael Olejniczak

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1343/</link>
 		<description>Updates about HB 1343</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 09:59:21 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 15:38:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sienna/Jarrard/2025-01-29 09:59:21</guid>
+		</item>
+		<item>
+			<title>Washington weighs new rules on student aid, campus demos</title>
+			<description>News article "Washington weighs new rules on student aid, campus demos" from MyNorthwest.</description>
+			<pubDate>Wed, 29 Jan 2025 15:38:09 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/mynorthwest-politics/washington-demos/4036272#:~:text=House%20Bill%20(HB)%201343</guid>
 		</item>
 	</channel>
 </rss>

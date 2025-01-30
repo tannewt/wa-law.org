@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161895&caId=25156&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161895&caId=25156&tId=4)
 
-#### 30 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Joe Schiessl - [City of Richland](/org/city_of_richland/)
 * Rael Candelaria - Framatome
@@ -28,6 +28,7 @@ Testifying:
 * 💵Brandon Houskeeper - Associated Builders & Contractors - Western WA / SW WA Contractors Assoc.
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Suellen Mele - 350 Washington Civic Action Team
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)

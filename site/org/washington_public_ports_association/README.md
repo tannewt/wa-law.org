@@ -16,6 +16,9 @@
 
 ### [HB 1249](/bill/2025-26/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission. 👍1  
 
+### [HB 1256](/bill/2025-26/hb/1256/) - Public works/made in US   ❓1
+* ❓ Chris Herman
+
 ### [HB 1302](/bill/2025-26/hb/1302/) - Utility connection charges 👍2  
 * 👍 Eric ffitch
 

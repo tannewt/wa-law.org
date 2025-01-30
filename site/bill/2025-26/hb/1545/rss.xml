@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1545/</link>
 		<description>Updates about HB 1545</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 08:46:02 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2025 08:34:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2025-01-23/First reading, referred to Health Care &amp; Wellness.</guid>
 		</item>
 		<item>
-			<title>👎Nathan Smith - Washington Chapter of the American College of Emergency Physicians</title>
+			<title>👎Nathan Smith - Washington State Emergency Nurses Association</title>
 			<description>Nathan Smith signed up to testify Con.</description>
 			<pubDate>Mon, 27 Jan 2025 07:10:15 GMT</pubDate>
 			<category>testifier</category>
@@ -31,7 +31,7 @@
 			<guid isPermaLink="false">testifier/Nathan/Smith/2025-01-27 07:10:15</guid>
 		</item>
 		<item>
-			<title>👎Michael Olejniczak - Washington Chapter of the American College of Emergency Physicians</title>
+			<title>👎Michael Olejniczak - Washington State Emergency Nurses Association</title>
 			<description>Michael Olejniczak signed up to testify Con.</description>
 			<pubDate>Mon, 27 Jan 2025 08:48:39 GMT</pubDate>
 			<category>testifier</category>
@@ -85,6 +85,38 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Dr. Paul/Craven/2025-01-29 08:46:02</guid>
+		</item>
+		<item>
+			<title>👍Bob Runnells - Informed Choice Washington</title>
+			<description>Bob Runnells signed up to testify Pro. They are signed up to represent Informed Choice Washington.</description>
+			<pubDate>Thu, 30 Jan 2025 08:09:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bob/Runnells/2025-01-30 08:09:14</guid>
+		</item>
+		<item>
+			<title>👍Brian Burns - Washington State Emegency Nurses Association</title>
+			<description>Brian Burns signed up to testify Pro. They are signed up to represent Washington State Emegency Nurses Association.</description>
+			<pubDate>Thu, 30 Jan 2025 08:34:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brian/Burns/2025-01-30 08:34:27</guid>
+		</item>
+		<item>
+			<title>👍Cody Staub - Washington State Emergency Nurses Association</title>
+			<description>Cody Staub signed up to testify Pro. They are signed up to represent Washington State Emergency Nurses Association.</description>
+			<pubDate>Thu, 30 Jan 2025 08:34:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cody/Staub/2025-01-30 08:34:27</guid>
+		</item>
+		<item>
+			<title>👍Michelle Percopo - Washington State Emergency Nurses Association</title>
+			<description>Michelle Percopo signed up to testify Pro. They are signed up to represent Washington State Emergency Nurses Association.</description>
+			<pubDate>Thu, 30 Jan 2025 08:34:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michelle/Percopo/2025-01-30 08:34:27</guid>
 		</item>
 	</channel>
 </rss>

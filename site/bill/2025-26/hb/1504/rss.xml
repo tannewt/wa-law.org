@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1504/</link>
 		<description>Updates about HB 1504</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 09:36:53 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2025 12:28:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,46 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Casey/Schaufler/2025-01-29 09:36:53</guid>
+		</item>
+		<item>
+			<title>👎Jane Milhans - Washington Library Association</title>
+			<description>Jane Milhans signed up to testify Con.</description>
+			<pubDate>Wed, 29 Jan 2025 11:21:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jane/Milhans/2025-01-29 11:21:17</guid>
+		</item>
+		<item>
+			<title>👎Michael Riggs - Washington Library Association</title>
+			<description>Michael Riggs signed up to testify Con.</description>
+			<pubDate>Wed, 29 Jan 2025 11:40:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Michael/Riggs/2025-01-29 11:40:56</guid>
+		</item>
+		<item>
+			<title>👎Derek Higgins - Washington Library Association</title>
+			<description>Derek Higgins signed up to testify Con.</description>
+			<pubDate>Thu, 30 Jan 2025 07:03:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Derek/Higgins/2025-01-30 07:03:11</guid>
+		</item>
+		<item>
+			<title>👎Austin Strunk - Washington Library Association</title>
+			<description>Austin Strunk signed up to testify Con.</description>
+			<pubDate>Thu, 30 Jan 2025 08:10:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Austin/Strunk/2025-01-30 08:10:59</guid>
+		</item>
+		<item>
+			<title>👎Michael McKinley - Washington Library Association</title>
+			<description>Michael McKinley signed up to testify Con.</description>
+			<pubDate>Thu, 30 Jan 2025 12:28:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Michael/McKinley/2025-01-30 12:28:22</guid>
 		</item>
 	</channel>
 </rss>

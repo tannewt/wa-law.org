@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [MyNorthwest](/org/mynorthwest/) - [Child sex dolls may soon be banned in Washington](https://mynorthwest.com/mynorthwest-politics/child-sex-dolls-may-soon-be-banned-in-washington/4034846#:~:text=Senate%20Bill%205227)
+
 ## Meetings
 ### Mon 01/27 10:30 AM - Law & Justice (LAW): SB 5227 Child sex dolls
 #### 81 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5390/</link>
 		<description>Updates about SB 5390</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 12:14:59 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2025 07:27:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -55,12 +55,28 @@
 			<guid isPermaLink="false">testifier/Michael/DeCramer/2025-01-29 06:14:03</guid>
 		</item>
 		<item>
+			<title>👍Jeff Chapman - Back Country Horsemen of Washington</title>
+			<description>Jeff Chapman signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/back_country_horsemen_of_washington/"&gt;Back Country Horsemen of Washington&lt;/a&gt;.</description>
+			<pubDate>Wed, 29 Jan 2025 09:57:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeff/Chapman/2025-01-29 09:57:02</guid>
+		</item>
+		<item>
 			<title>👍Cynthia Wilkerson - WDFW</title>
 			<description>Cynthia Wilkerson signed up to testify Pro. They are signed up to represent WDFW.</description>
 			<pubDate>Wed, 29 Jan 2025 12:14:59 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Cynthia/Wilkerson/2025-01-29 12:14:59</guid>
+		</item>
+		<item>
+			<title>👍Brian Considine - State Parks, Policy &amp; Gov’t Affairs Director</title>
+			<description>Brian Considine signed up to testify Pro. They are signed up to represent State Parks, Policy &amp; Gov’t Affairs Director.</description>
+			<pubDate>Thu, 30 Jan 2025 07:27:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brian/Considine/2025-01-30 07:27:45</guid>
 		</item>
 	</channel>
 </rss>

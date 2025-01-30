@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/29/2025 [MyNorthwest](/org/mynorthwest/) - [Washington weighs new rules on student aid, campus demos](https://mynorthwest.com/mynorthwest-politics/washington-demos/4036272#:~:text=House%20Bill%20(HB)%201343)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201343)
 
 ## Meetings

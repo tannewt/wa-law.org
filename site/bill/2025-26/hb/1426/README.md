@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/28/2025 [MyNorthwest](/org/mynorthwest/) - [Washington aims to curb drunk driving with new bill](https://mynorthwest.com/mynorthwest-politics/washington/4035481#:~:text=House%20Bill%201426)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201426)
 
 ## Meetings

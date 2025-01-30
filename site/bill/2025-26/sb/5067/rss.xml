@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5067/</link>
 		<description>Updates about SB 5067</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 10:21:54 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2025 09:14:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -381,6 +381,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/James/Fell/2025-01-29 10:21:54</guid>
+		</item>
+		<item>
+			<title>👍Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention</title>
+			<description>Scott Waller signed up to testify Pro. They are signed up to represent WASAVP - Washington Association for Substance misuse and Violence Prevention.</description>
+			<pubDate>Thu, 30 Jan 2025 07:54:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Waller/2025-01-30 07:54:19</guid>
+		</item>
+		<item>
+			<title>👎David Bryant - Self</title>
+			<description>David Bryant signed up to testify Con. They are signed up to represent Self.</description>
+			<pubDate>Thu, 30 Jan 2025 09:14:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/David/Bryant/2025-01-30 09:14:23</guid>
 		</item>
 	</channel>
 </rss>

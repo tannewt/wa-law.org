@@ -14,14 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32613&aId=162335&caId=25198&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32613&aId=162335&caId=25198&tId=4)
 
-#### 22 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
 * 💵Mark Brown - Former State Parks Commissioner
 * Sam Hensold - [Department of Natural Resources](/org/department_of_natural_resources/)
 * Michael DeCramer - [Washington Trails Association](/org/washington_trails_association/)
+* Jeff Chapman - [Back Country Horsemen of Washington](/org/back_country_horsemen_of_washington/)
 * Cynthia Wilkerson - WDFW
+* Brian Considine - State Parks, Policy & Gov’t Affairs Director
 
-#### 366 👎 - Con
+#### 432 👎 - Con
 
 #### 0 ❓ - Other

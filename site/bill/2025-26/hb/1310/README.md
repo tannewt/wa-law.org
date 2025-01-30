@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162320&caId=25184&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162320&caId=25184&tId=4)
 
-#### 1036 👍 - Pro
+#### 1096 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Katie Young - Tacoma special education PTA
@@ -44,7 +44,8 @@ Testifying:
 * Supt. Israel Vela - Superintendent, Kent School District
 * Jen Chong Jewell - Parent of a student receiving special education services
 * Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
+* Charlie Brown - Tacoma, Clover Park and other South Sound Schools
 
-#### 307 👎 - Con
+#### 349 👎 - Con
 
 #### 0 ❓ - Other

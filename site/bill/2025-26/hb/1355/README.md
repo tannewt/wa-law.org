@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161894&caId=25155&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161894&caId=25155&tId=4)
 
-#### 11 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Chair, Teri Gobin - Tulalip Tribes of WA
 * Bill Chairman Iyall - Cowlitz Indian Tribe, Chairman
@@ -22,6 +22,6 @@ Testifying:
 * Chairman Ron Allen - Jamestown S'Klallam Tribe
 * Devon Gustafson
 
-#### 7 👎 - Con
+#### 9 👎 - Con
 
 #### 0 ❓ - Other

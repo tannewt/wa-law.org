@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32613&aId=162336&caId=25199&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32613&aId=162336&caId=25199&tId=4)
 
-#### 15 👍 - Pro
+#### 34 👍 - Pro
+Testifying:
+* Denise Sorom
 
 #### 0 👎 - Con
 

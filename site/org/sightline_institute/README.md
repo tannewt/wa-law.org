@@ -38,13 +38,16 @@
 
 ### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍1  
 
-## [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings 👍1  
+### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings 👍1  
 * 👍💵 Dan Bertolet
+
+### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs 👍1  
+
+## [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍1  
 
 ## 2023-24
 
-### [SB 5332](/bill/2023-24/sb/5332/) - Mobile dwellings 👍1  
-* 👍💵 Dan Bertolet
+### [SB 5471](/bill/2023-24/sb/5471/) - Middle housing 👍1  
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review 👍2  
 * 👍💵 Dan Bertolet

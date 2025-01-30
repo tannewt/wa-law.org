@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/30 08:00 AM - Health & Long Term Care (HLTC): SB 5335 Rural nursing education
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162159&caId=24988&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162159&caId=24988&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162159&caId=24988&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32590&aId=162159&caId=24988&tId=4)
-
-#### 139 👍 - Pro
+#### 158 👍 - Pro
 Testifying:
 * Brenda Senger - Rural Nursing Education Program (RNEP)
 * Ramona Hicks

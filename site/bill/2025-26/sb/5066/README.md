@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/30 10:30 AM - Law & Justice (LAW): SB 5066 Law enf. misconduct
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32533&aId=161889&caId=25027&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32533&aId=161889&caId=25027&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32533&aId=161889&caId=25027&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32533&aId=161889&caId=25027&tId=4)
-
-#### 674 👍 - Pro
+#### 746 👍 - Pro
 Testifying:
 * Jacob Ivan Schmitt - Just Us Solutions, LLC
 * Jacob Ivan Schmitt - Just Us Solutions, LLC
@@ -29,8 +23,9 @@ Testifying:
 * 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
 * Kelly McConney Moore - NYU Policing Project
 * Shelly Washington - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* 💵Michael Transue - Washington Fraternal Order of Police
 
-#### 395 👎 - Con
+#### 452 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Ryan Lufkin - Washington Council of Police & Sheriffs (WACOPS)

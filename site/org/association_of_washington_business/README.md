@@ -43,6 +43,9 @@
 
 ### [HB 1115](/bill/2025-26/hb/1115/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
 
+### [HB 1121](/bill/2025-26/hb/1121/) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 👍1  
+* 👍💵 Lindsey Hueer
+
 ### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services.  👎1 
 * 👎💵 Emily Wittman
 
@@ -87,6 +90,9 @@
 
 ### [HB 1209](/bill/2025-26/hb/1209/) - Sodium nitrite   ❓1
 * ❓💵 Peter Godlewski
+
+### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences   ❓1
+* ❓ Max Martin
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program.  👎1 
 * 👎💵 Lindsey Hueer
@@ -139,8 +145,19 @@
 ### [HB 1522](/bill/2025-26/hb/1522/) - Utility wildfire mitigation 👍1  
 * 👍💵 Peter Godlewski
 
+### [HB 1533](/bill/2025-26/hb/1533/) - Specialty electricians 👍1  
+
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 * 👍💵 Peter Godlewski
+
+### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
+
+### [HB 1582](/bill/2025-26/hb/1582/) - Concerning child care centers operated in existing buildings. 👍1  
+
+### [HB 1644](/bill/2025-26/hb/1644/) - Working minors  👎1 
+* 👎💵 Lindsey Hueer
+
+### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍1  
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
 
@@ -201,6 +218,8 @@
 
 ### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍1  
 
+### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
+
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 
 * 👎💵 Peter Godlewski
 
@@ -209,7 +228,12 @@
 ### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
 * 👎💵 Lindsey Hueer
 
+### [SB 5297](/bill/2025-26/sb/5297/) - Early learning facilities 👍1  
+
 ### [SB 5315](/bill/2025-26/sb/5315/) - Local tax rate changes 👍1  
+
+### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply  👎1 
+* 👎💵 Emily Wittman
 
 ### [SB 5328](/bill/2025-26/sb/5328/) - Earned wage access services 👍1  
 
@@ -229,13 +253,25 @@
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons   ❓1
 * ❓💵 Peter Godlewski
 
+### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎1 
+* 👎💵 Lindsey Hueer
+
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
 
-## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
+### [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
+* 👍💵 Lindsey Hueer
+
+### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
+
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+## [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
+* 👎💵 Lindsey Hueer
 
 ## 2023-24
 
-### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction  👎1 
+### [SB 5548](/bill/2023-24/sb/5548/) - Workers' compensation  👎1 
+* 👎💵 Lindsey Hueer
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

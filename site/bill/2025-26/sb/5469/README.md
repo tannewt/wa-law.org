@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32602&aId=162386&caId=25213&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32602&aId=162386&caId=25213&tId=4)
 
-#### 14 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Michele Thomas - WA Low Income Housing Alliance
 * Joe Kunzler
 
-#### 58 👎 - Con
+#### 161 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 

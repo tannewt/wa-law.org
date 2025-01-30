@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/30 08:00 AM - Environment & Energy (ENVI): HB 1462 Hydrofluorocarbons
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32560&aId=162228&caId=25146&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32560&aId=162228&caId=25146&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32560&aId=162228&caId=25146&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32560&aId=162228&caId=25146&tId=4)
-
-#### 254 👍 - Pro
+#### 259 👍 - Pro
 Testifying:
 * Beth Porter - Environmental Investigation Agency
 * 💵Mike Armstrong - A-Gas
@@ -25,9 +19,9 @@ Testifying:
 * Mike Wenrick - PCC Markets
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 467 👎 - Con
+#### 518 👎 - Con
 
-#### 7 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Mike Connors - Washington Potato and Onion Association
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
@@ -35,3 +29,4 @@ Testifying:
 * Joel Creswell - Washington State Department of Ecology
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Michael Transue - Mechanical Contractors Association of Western Washington
+* Alex Ayers - HARDI

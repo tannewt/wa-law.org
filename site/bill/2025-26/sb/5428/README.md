@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 13 👎 - Con
+#### 31 👎 - Con
 Testifying:
 * Monica Meyer - Monica Meyer Consulting, Inc.
 * Blake Duarte

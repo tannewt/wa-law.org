@@ -25,14 +25,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162720&caId=25346&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162720&caId=25346&tId=4)
 
-#### 6 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
 * Vanessa Kritzer - Redmond City Council President
 
-#### 4 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Constance Nelson
 
 #### 0 ❓ - Other
 

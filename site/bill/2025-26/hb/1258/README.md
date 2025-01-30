@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161896&caId=25157&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161896&caId=25157&tId=4)
 
-#### 161 👍 - Pro
+#### 204 👍 - Pro
 Testifying:
 * Alex Scott - City Administrator, City of Spokane
 * Jim Tieken - AFSCME Spokane Local 270
@@ -26,7 +26,7 @@ Testifying:
 * Judi Koff
 * Nathan Mulkey
 
-#### 149 👎 - Con
+#### 166 👎 - Con
 Testifying:
 * Cody Rohrbach - Spokane County Fire District 3
 * Matthew Vinci - Fire Chief, Spokane County Fire District 9

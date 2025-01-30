@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5499/</link>
 		<description>Updates about SB 5499</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2025 07:51:30 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,22 @@
 			<pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-27/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
+			<title>👍Laurie Dawson - 12062 Seabeck Hwy NW</title>
+			<description>Laurie Dawson signed up to testify Pro. They are signed up to represent 12062 Seabeck Hwy NW.</description>
+			<pubDate>Thu, 30 Jan 2025 04:44:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Laurie/Dawson/2025-01-30 04:44:48</guid>
+		</item>
+		<item>
+			<title>👍Karen Lofgren - 12062 Seabeck Hwy NW</title>
+			<description>Karen Lofgren signed up to testify Pro.</description>
+			<pubDate>Thu, 30 Jan 2025 07:51:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Karen/Lofgren/2025-01-30 07:51:30</guid>
 		</item>
 	</channel>
 </rss>

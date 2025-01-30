@@ -1,0 +1,266 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5601](/bill/2025-26/sb/5601/) > [Original Bill](/bill/2025-26/sb/5601/1/)
+
+# SB 5601 - Alternative jet fuels
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5601.pdf)
+
+## Section 1
+1. The office shall:
+
+    a. Coordinate with federally recognized tribes, local government, state agencies, federal agencies, private entities, the state's public four-year institutions of higher education, labor unions, and others to facilitate and promote multi-institution collaborations to drive research, development, and deployment efforts in the production, distribution, and use of alternative jet fuels and renewable fuels including, but not limited to, green electrolytic hydrogen;
+
+    b. Review existing renewable fuels, alternative jet fuels, and green electrolytic hydrogen initiatives, policies, and public and private investments, and tax and regulatory incentives, including assessment of adequacy of feedstock supply and in-state feedstock, renewable fuels, and alternative jet fuels production;
+
+    c. Consider funding opportunities that provide for the coordination of public and private funds for the purposes of developing and deploying renewable fuels, alternative jet fuels, and green electrolytic hydrogen;
+
+    d. Assess opportunities for and barriers to deployment of renewable fuels, alternative jet fuels, and green electrolytic hydrogen in hard to decarbonize sectors of the state economy;
+
+    e. Request recommendations from the Washington state association of fire marshals regarding fire and other safety standards adopted by the United States department of energy and recognized national and international fire and safety code development authorities regarding renewable fuels, alternative jet fuels, and green electrolytic hydrogen;
+
+    f. By December 1, 2023, develop a plan and recommendations for consideration by the legislature and governor on renewable fuels and green electrolytic hydrogen policy and public funding including, but not limited to, project permitting, state procurement, and pilot projects; and
+
+    g. Encourage new and support existing public-private partnerships to increase coordinated planning and deployment of renewable fuels, alternative jet fuels, and green electrolytic hydrogen.
+
+2. The office may take all appropriate steps to seek and apply for federal funds for which the office is eligible, and other grants, and accept donations, and must deposit these funds in the renewable fuels accelerator account created in RCW 43.330.575.
+
+3. In carrying out its duties, the office must collaborate with the department, the department of ecology, the department of transportation, the utilities and transportation commission, electric utilities in Washington state, the Washington State University extension energy program, the alternative jet fuel work group established in RCW 28B.30.646, and all other relevant state agencies. The office must also consult with and seek to involve federally recognized tribes, project developers, labor and industry trade groups, and other interested parties, in the development of policy analysis and recommended programs or projects.
+
+4. The office may cooperate with other state agencies in compiling data regarding the use of renewable fuels and green electrolytic hydrogen in state operations, including motor vehicle fleets, the state ferry system, and nonroad equipment.
+
+5. Subject to the availability of amounts appropriated for this specific purpose, the office must develop an alternative jet fuels infrastructure competitive grant program to support research, development, demonstration, engineering designs, production facilities, and blending and use of alternative jet fuels infrastructure.
+
+    a. Grant funds may be used for alternative jet fuel infrastructure planning, engineering, design, research, development, demonstration, and construction. Grant funds may be used to contribute to matching funds for federal, state, or local requests for alternative jet fuels infrastructure proposals.
+
+    b. Grant funds must not be used for land acquisition or permitting costs.
+
+    c. Qualifying projects may include, but are not limited to:
+
+        i. Rail spurs;
+
+        ii. Barging infrastructure;
+
+        iii. Fuel loading and offloading racks; and
+
+        iv. Installation of blending facilities, including tanks, pipes, pumps, and mixing equipment.
+
+    d. Infrastructure built with grant funding is intended to be for the public good. Grant recipients must not restrict access to infrastructure. Excessive fees for use may be considered a restricted access.
+
+    e. To the extent practicable, the department must support grant recipients with continued work on responsible streamlining of the permitting process.
+
+    f. Beginning December 1, 2026, and annually thereafter, the department must report to the governor and relevant committees of the legislature on projects selected for funding and project status.
+
+## Section 2
+1. The department of ecology shall prepare nonproject environmental impact statements, pursuant to RCW 43.21C.030, that assess and disclose the probable significant adverse environmental impacts, and that identify related mitigation measures, for each of the following categories of clean energy projects, and colocated battery energy storage projects that may be included in such projects:
+
+    a. Green electrolytic or renewable hydrogen projects;
+
+    b. Utility-scale solar energy projects, which will consider the findings of the Washington State University least-conflict solar siting process; and
+
+    c. Onshore utility-scale wind energy projects.
+
+2. The scope of a nonproject environmental review shall be limited to the probable, significant adverse environmental impacts in geographic areas that are suitable for the applicable clean energy type. The department of ecology may consider standard attributes for likely development, proximity to existing transmission or complementary facilities, and planned corridors for transmission capacity construction, reconstruction, or enlargement. The nonproject review is not required to evaluate geographic areas that lack the characteristics necessary for the applicable clean energy project type.
+
+3. [Empty]
+
+    a. The scope of nonproject environmental impact statements must consider, as appropriate, analysis of the following probable significant adverse environmental impacts, including direct, indirect, and cumulative impacts to:
+
+        i. Historic and cultural resources;
+
+        ii. Species designated for protection under RCW 77.12.020 or the federal endangered species act;
+
+        iii. Landscape scale habitat connectivity and wildlife migration corridors;
+
+        iv. Environmental justice and overburdened communities as defined in RCW 70A.02.010;
+
+    v. Cultural resources and elements of the environment relevant to tribal rights, interests, and resources including tribal cultural resources, and fish, wildlife, and their habitat;
+
+    vi. Land uses, including agricultural and ranching uses; and
+
+    vii. Military installations and operations.
+
+    b. The nonproject environmental impact statements must identify measures to avoid, minimize, and mitigate probable significant adverse environmental impacts identified during the review. These include measures to mitigate probable significant adverse environmental impacts to elements of the environment as defined in WAC 197-11-444 as it existed as of January 1, 2023, tribal rights, interests, and resources, including tribal cultural resources, as identified in RCW 70A.65.305, and overburdened communities as defined in RCW 70A.02.010. The department of ecology shall consult with federally recognized Indian tribes and other agencies with expertise in identification and mitigation of probable, significant adverse environmental impacts including, but not limited to, the department of fish and wildlife. The department of ecology shall further specify when probable, significant adverse environmental impacts cannot be mitigated.
+
+4. In defining the scope of nonproject review of clean energy projects, the department of ecology shall request input from agencies, federally recognized Indian tribes, industry, stakeholders, local governments, and the public to identify the geographic areas suitable for the applicable clean energy project type, based on the climatic and geophysical attributes conducive to or required for project development. The department of ecology will provide opportunities for the engagement of tribes, overburdened communities, and stakeholders that self-identify an interest in participating in the processes.
+
+5. The department of ecology will offer early and meaningful consultation with any affected federally recognized Indian tribe on the nonproject review under this section for the purpose of understanding potential impacts to tribal rights and resources, including tribal cultural resources, archaeological sites, sacred sites, fisheries, or other rights and interests in tribal lands and lands within which an Indian tribe or tribes possess rights reserved or protected by federal treaty, statute, or executive order. Certain information obtained by the department of ecology under this section is exempt from disclosure consistent with RCW 42.56.300.
+
+6. Final nonproject environmental review documents for the clean energy projects identified in subsection (1) of this section, where applicable, shall include maps identifying probable, significant adverse environmental impacts for the resources evaluated. Maps must be prepared with the intention to illustrate probable, significant impacts, creating a tool that may be used by project proponents, tribes, and government to inform decision making. The maps may not be used in the place of surveys on specific parcels of land or input of a potentially affected federally recognized Indian tribe regarding specific parcels.
+
+7. Following the completion of a nonproject review subject to this section, the interagency clean energy siting coordinating council created in RCW 43.394.010 must consider the findings and make recommendations to the legislature and governor on potential areas to designate as clean energy preferred zones for the clean energy project technology analyzed, and any taxation, regulatory, environmental review, or other benefits that should accrue to projects in such designated preferred zones.
+
+8. Nothing in this section prohibits or precludes projects from being located outside areas designated as clean energy preferred zones.
+
+9. Subject to the availability of amounts appropriated for this specific purpose, the department of ecology must explore the development of one or more nonproject environmental impact statements for alternative jet fuel production pathways in accordance with those developed for other clean energy projects in this section. For the purposes of this subsection, "alternative jet fuel" has the same meaning as provided in RCW 70A.535.010.
+
+## Section 3
+1. By January 1, 2026, and in compliance with RCW 43.01.036, the department must submit a report to the governor and appropriate committees of the legislature on the availability of biomethane. The report must identify, at a minimum:
+
+    a. The availability of biomethane as a feedstock for alternative jet fuel within Washington state, including whether biomethane availability is sufficient to support the alternative jet fuel production volume identified in RCW 70A.535.150;
+
+    b. The effect on biomethane availability if biomethane eligibility is limited to transport on pipelines that flow toward fuel production facilities in Washington state at least 50 percent of the time;
+
+    c. Alternative approaches to incentivize biomethane production in Washington state and ensure the state benefits from such production; and
+
+    d. The credit prices and crediting periods required, under this chapter and rules adopted by the department, to incentivize the capture of fugitive methane to produce biomethane.
+
+2. In developing the report required in subsection (1) of this section, the department must consult with the alternative jet fuels work group established in RCW 28B.30.646.
+
+3. The department must not adopt, by rule, restrictions relating to pipeline flow or geographic origin of biomethane claimed as a feedstock to produce alternative jet fuel prior to the completion of the report in subsection (1) of this section.
+
+4. The department must not limit the crediting periods, under this chapter and rules adopted by the department, to less than 20 years for the voluntary capture of methane associated with biomethane claimed as a feedstock to produce alternative jet fuel prior to the completion of the report in subsection (1) of this section.
+
+## Section 4
+The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
+
+1. "Alternative jet fuel" has the same meaning as provided in RCW 70A.535.010.
+
+2. "Applicant" means a person applying for a tax deferral under this chapter.
+
+3. "Eligible investment project" means an investment project of at least $2,000,000 in either qualified buildings or qualified machinery and equipment, or both, for any of the following new, renovated, or expanded:
+
+    a. Manufacturing operations;
+
+    b. Facilities to produce clean fuels, subject to the limitations in subsection (9)(d) of this section, renewable hydrogen, green electrolytic hydrogen,  green hydrogen carriers, or alternative jet fuels; or
+
+    c. Storage facilities.
+
+4.Green electrolytic hydrogen means hydrogen produced through electrolysis and does not include hydrogen manufactured using steam reforming or any other conversion technology that produces hydrogen from a fossil fuel feedstock.
+
+5. "Green hydrogen carrier" means a chemical compound, created using electricity or renewable resources as energy input and without use of fossil fuel as a feedstock, from renewable hydrogen or green electrolytic hydrogen for the purposes of transportation, storage, and dispensing of hydrogen.
+
+6. [Empty]
+
+    a. "Initiation of construction" means the date that a building permit is issued under the building code adopted under RCW 19.27.031 for:
+
+        i. Construction of the qualified building, if the underlying ownership of the building vests exclusively with the person receiving the economic benefit of the deferral;
+
+        ii. Construction of the qualified building, if the economic benefits of the deferral are passed to a lessee as provided in RCW 82.89.020; or
+
+        iii. Tenant improvements for a qualified building, if the economic benefits of the deferral are passed to a lessee as provided in RCW 82.89.020.
+
+    b. "Initiation of construction" does not include soil testing, site clearing and grading, site preparation, or any other related activities that are initiated before the issuance of a building permit for the construction of the foundation of the building.
+
+    c. If the eligible investment project is a phased project, "initiation of construction" applies separately to each phase.
+
+7. "Investment project" means an investment in either qualified buildings or qualified machinery and equipment, or both, including labor and services rendered in the planning, installation, and construction of the project.
+
+8. "Manufacturing" has the same meaning as "to manufacture" in RCW 82.04.120.
+
+9. "Manufacturing operation" means manufacturing tangible personal property exclusively incorporated as an ingredient or component of or used in the generation of:
+
+    a. Passenger cars, light duty trucks, medium duty passenger vehicles, buses, commercial vehicles as defined in RCW 46.04.140, or motorcycles that emit no exhaust gas from the onboard source of power, other than water vapor;
+
+    b. Charging and fueling infrastructure for electric, hydrogen, or other vehicle types that emits no exhaust gas from the onboard source of power, other than water vapor;
+
+    c. Renewable and green electrolytic hydrogen, including preparing renewable and green electrolytic hydrogen for distribution or converting it to a green hydrogen carrier;
+
+    d. Clean fuel with associated greenhouse gas emissions not exceeding 80 percent of the 2017 levels established under RCW 70A.535.020 or its successor statute under chapter 70A.535 RCW;
+
+    e. Electricity from renewable resources; or
+
+    f. [Empty]
+
+        i. Alternative jet fuel, including fueling infrastructure;
+
+        ii. For the purposes of this subsection (9), "fueling infrastructure" means facilities or equipment used to store, handle, blend, load, unload, transport, deliver, or distribute neat or blended alternative jet fuel to facilitate end-use in an aircraft. "Fueling infrastructure" includes, but is not limited to, storage or blending tanks, pumping systems, pipe or pipelines, mixing equipment, fuel testing equipment, fuel monitoring or control equipment, fuel safety equipment, and fuel loading or unloading connections to at least one transportation modality used to provide the alternative jet fuel to an airport for use in an aircraft; or
+
+    g. Storage facilities.
+
+10. "Meaningful construction" means an active construction site, where excavation of a building site, laying of a building foundation, or other tangible signs of construction are taking place and that clearly show a progression in the construction process at the location designated by the taxpayer in the application for deferral. Planning, permitting, or land clearing before excavation of the building site, without more, does not constitute "meaningful construction."
+
+11. "Operationally complete" means the eligible investment project is capable of being used for its intended purpose as described in the application.
+
+12. "Person" has the same meaning as in RCW 82.04.030.
+
+13. "Qualified buildings" means construction of new structures, and expansion or renovation of existing structures for the purpose of increasing floor space or production capacity, used for manufacturing, including plant offices and warehouses or other buildings for the storage of raw materials or finished goods if the facilities are an essential or an integral part of a factory, mill, plant, or laboratory used for manufacturing. If a qualified building is used partly for manufacturing and partly for other purposes, the applicable tax deferral must be determined by apportionment of the costs of construction under rules adopted by the department.
+
+14. "Qualified machinery and equipment" means all new industrial fixtures, equipment, and support facilities that are an integral and necessary part of a manufacturing operation. "Qualified machinery and equipment" includes: Computers; software; data processing equipment; laboratory equipment; manufacturing components such as belts, pulleys, shafts, and moving parts; molds, tools, and dies; operating structures; and all equipment used to control, monitor, or operate the machinery.
+
+15. "Recipient" means a person receiving a tax deferral under this chapter.
+
+16. "Renewable resource" has the same meaning as in RCW 82.08.816.
+
+17. "Storage facility" means a facility that:
+
+    a. Accepts electricity as an energy source and uses a chemical, thermal, mechanical, or other process to store energy for subsequent delivery or consumption in the form of electricity; or
+
+    b. Stores renewable hydrogen, green electrolytic hydrogen, or green hydrogen carrier for subsequent delivery or consumption.
+
+## Section 5
+1. [Empty]
+
+    a. All leasehold interests in buildings, machinery, equipment, and other personal property used primarily for the manufacturing or blending of alternative jet fuel, the land upon which the property is located, and land that is reasonably necessary in the manufacturing or blending of alternative jet fuel, but not the land necessary for producing feedstocks, which together comprise a new manufacturing or blending facility or an addition to an existing manufacturing or blending facility, are exempt from state property taxation.
+
+    b. For manufacturing facilities that produce products in addition to alternative jet fuel, the amount of the property tax exemption is based on the annual percentage of the total value of all products manufactured that is the value of the alternative jet fuel manufactured.
+
+2. [Empty]
+
+    a. The exemption under this section applies to facilities manufacturing or blending alternative jet fuel that has at least 50 percent less carbon dioxide equivalent emissions than conventional petroleum jet fuel.
+
+    b. A claimant may be required to provide documentation to the county assessor or the department that the facility has obtained a carbon intensity score from the department of ecology sufficient to verify the requirement under (a) of this subsection.
+
+3. Claims for exemptions authorized by this section must be filed with the county assessor on forms prescribed by the department and furnished by the assessor. Once filed, the exemption is valid for 10 assessment years following the date on which the facility or the addition to the existing facility becomes operationally complete and may not be renewed. The assessor must verify and approve claims as the assessor determines to be justified and in accordance with this section. No claims may be filed after December 31, 2030.
+
+4. The department may adopt rules, pursuant to chapter 34.05 RCW, as necessary to properly administer this section.
+
+5. The exemption under this section applies only to property taxes levied for the state. A local taxing district may authorize the exemption under this section for any facility located within its taxing jurisdiction so long as the facility meets the requirements and conditions of this section.
+
+6. For the purposes of this section, the following definitions apply:
+
+    a. "Alternative jet fuel" has the same meaning as in RCW 70A.535.010.
+
+    b. "Carbon dioxide equivalent" has the same meaning as in RCW 70A.45.010.
+
+    c. "Operationally complete" means the alternative jet fuel manufacturing or blending facility is capable of being used for its intended purpose.
+
+7. This section expires December 31, 2043.
+
+## Section 6
+1. [Empty]
+
+    a. All leasehold interests in buildings, machinery, equipment, and other personal property used primarily for the manufacturing or blending of alternative jet fuel, the land upon which the property is located, and land that is reasonably necessary in the manufacturing or blending of alternative jet fuel, but not the land necessary for producing feedstocks, which together comprise a new manufacturing or blending facility or an addition to an existing manufacturing or blending facility, are exempt from state leasehold taxes.
+
+    b. For manufacturing facilities that produce products in addition to alternative jet fuel, the amount of the leasehold tax exemption is based on the annual percentage of the total value of all products manufactured that is the value of the alternative jet fuel manufactured.
+
+2. [Empty]
+
+    a. The exemption under this section applies to facilities manufacturing or blending alternative jet fuel that has at least 50 percent less carbon dioxide equivalent emissions than conventional petroleum jet fuel.
+
+    b. A claimant may be required to provide documentation to the county assessor or the department that the facility has obtained a carbon intensity score from the department of ecology sufficient to verify the requirement under (a) of this subsection.
+
+3. Claims for exemptions authorized by this section must be filed with the department on forms prescribed and furnished by the department. Once filed, the exemption is valid for 10 assessment years following the date on which the facility or the addition to the existing facility becomes operationally complete and may not be renewed. The department must verify and approve claims as the department determines to be justified and in accordance with this section. No claims may be filed after December 31, 2030.
+
+4. The department may adopt rules, pursuant to chapter 34.05 RCW, as necessary to properly administer this section.
+
+5. The exemption under this section applies only to the portion of leasehold excise taxes that would otherwise be retained by the state. A local taxing district may authorize the exemption under this section for any facility located within its taxing jurisdiction so long as the facility meets the requirements and conditions of this section.
+
+6. For the purposes of this section, the following definitions apply:
+
+    a. "Alternative jet fuel" has the same meaning as in RCW 70A.535.010.
+
+    b. "Carbon dioxide equivalent" has the same meaning as in RCW 70A.45.010.
+
+    c. "Operationally complete" means the alternative jet fuel manufacturing or blending facility is capable of being used for its intended purpose.
+
+7. This section expires December 31, 2043.
+
+## Section 7
+1. This section is the tax preference performance statement for the tax preferences contained in sections 3 through 5, chapter . . ., Laws of 2025 (sections 4 through 6 of this act). This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or to be used to determine eligibility for preferential tax treatment.
+
+2. The legislature categorizes these tax preferences as ones intended to improve industry competitiveness as indicated in RCW 82.32.808(2)(b).
+
+3. It is the legislature's specific public policy objective to encourage the production and use of alternative jet fuels. It is also the legislature's intent to support the development of the alternative jet fuels industry in Washington by providing targeted tax relief for such businesses.
+
+4. The legislature intends to extend the expiration date of the tax preferences contained in this act if a review finds:
+
+    a. An increase in the production and use of alternative jet fuels in Washington by persons claiming the tax preferences in this act;
+
+    b. That the production and use of alternative jet fuels in this state does not result in additional pollution including, but not limited to, pollution from per- and polyfluoroalkyl substances, noxious gases, ultrafine particles, lead, or other metals; and
+
+    c. That the alternative jet fuel industry has created measurable economic growth in Washington.
+
+5. The review conducted by the joint legislative audit and review committee must include a racial equity analysis on air travel-related pollution in communities near an international airport owned by a port district in a county with a population greater than 1,500,000.
+
+6. In order to obtain the data necessary to perform the review in subsection (4) of this section, the joint legislative audit and review committee may access and use data from an international airport owned by a port district in a county with a population greater than 1,500,000, the University of Washington, reports compiled by the Washington State University pursuant to RCW 28B.20.545, and any other data collected by the state as it deems necessary.
+
+7. The joint legislative audit and review committee must complete a preliminary report by December 1, 2032.

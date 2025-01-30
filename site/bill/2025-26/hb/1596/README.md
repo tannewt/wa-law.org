@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162365&caId=25212&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162365&caId=25212&tId=4)
 
-#### 46 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Theodore Smith
 * David Sale - Families for Safe Streets
@@ -24,7 +24,7 @@ Testifying:
 * Peter Bengston - Families for Safe Streets
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 
-#### 24 👎 - Con
+#### 51 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

@@ -1,7 +1,7 @@
 # Inland Power & Light
 ## 2025-26
 
-### [HB 1253](/bill/2025-26/hb/1253/) - Expanding the ability of consumer-owned utilities to enter into joint use agreements. 👍1  
+### [HB 1253](/bill/2025-26/hb/1253/) - Utility joint use agreements 👍1  
 
 ### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍1  
 
