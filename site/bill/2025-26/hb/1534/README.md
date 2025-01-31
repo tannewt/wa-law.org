@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Fri 01/31 08:00 AM - Consumer Protection & Business (CPB): HB 1534 Tobacco, nicotine, and vapor
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162331&caId=25183&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162331&caId=25183&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162331&caId=25183&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162331&caId=25183&tId=4)
-
-#### 106 👍 - Pro
+#### 123 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Tom Eshleman - Doyles Sheehan
@@ -26,8 +20,12 @@ Testifying:
 * Charlie Choi - Mickey Deli
 * Jonny Ghim - KAGRO Washington
 * Paul Namkung - Lucky Seven Food
+* Chong Sullivan - KAGRO
+* 💵Crystal Leatherman - WA Retail Association
+* Kerry Schultz - Creekside Market
+* Alex Wardi - OMG Food Mart
 
-#### 434 👎 - Con
+#### 441 👎 - Con
 Testifying:
 * Kelsie Reynolds
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention

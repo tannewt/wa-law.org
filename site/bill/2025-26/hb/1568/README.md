@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162623&caId=25470&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162623&caId=25470&tId=4)
 
-#### 30 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * 💵Edgar Espino - [The Washington Bus](/org/the_washington_bus/)
 

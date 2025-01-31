@@ -34,7 +34,7 @@
 ### [HB 1183](/bill/2025-26/hb/1183/) - Building codes   ❓1
 * ❓💵 Carl Schroeder
 
-### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters.   ❓1
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓1
 * ❓💵 Carl Schroeder
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1

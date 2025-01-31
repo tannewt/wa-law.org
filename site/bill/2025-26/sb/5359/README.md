@@ -8,23 +8,23 @@
 
 ## Meetings
 ### Fri 01/31 10:30 AM - Environment, Energy & Technology (ENET): SB 5359 Clean energy development
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32611&aId=162198&caId=24977&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32611&aId=162198&caId=24977&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32611&aId=162198&caId=24977&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32611&aId=162198&caId=24977&tId=4)
-
-#### 394 👍 - Pro
+#### 426 👍 - Pro
 Testifying:
 * 💵Brynn Brady - Audubon WA
 * Ben Blank
 * Dan Siemann - Washington State Department of Commerce
 * Rebecca Ponzio - Washington State Department of Commerce
+* 💵Justin Allegro - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Altinay Karasapan
+* Caitlin Krenn - [Washington Conservation Action](/org/washington_conservation_action/)
 
-#### 420 👎 - Con
+#### 521 👎 - Con
 Testifying:
 * Donna Alber
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Mary Williams
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Jerry VanderWood - Associated General Contractors (AGC) of WA
+* 💵Nicolas Garcia - WPUDA

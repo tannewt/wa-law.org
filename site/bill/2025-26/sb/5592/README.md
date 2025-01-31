@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 4 👍 - Pro
 
-#### 45 👎 - Con
+#### 70 👎 - Con
 Testifying:
 * Brad Brotherton - Brotherton Cadillac GMC Buick, Washington State Auto Dealers Association
 * Jaclyn Midkiff - Harvest Auto, Washington State Auto Dealers Association

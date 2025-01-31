@@ -30,7 +30,7 @@
 ### [HB 1188](/bill/2025-26/hb/1188/) - Requiring local government and tribal approval of wind and solar siting recommendations by the energy facility site evaluation council. 👍1  
 * 👍💵 Kelsey Hulse
 
-### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters.   ❓1
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓1
 * ❓💵 Curtis Steinhauer
 
 ### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040. 👍1  
@@ -111,6 +111,9 @@
 
 ### [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  
 * 👍💵 Kelsey Hulse
+
+### [SB 5317](/bill/2025-26/sb/5317/) - Exempting local governments providing certain services for projects under the jurisdiction of the energy facility siting evaluation council from certain appeals. 👍1  
+* 👍💵 Paul Jewell
 
 ### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
 * 👎💵 Kelsey Hulse

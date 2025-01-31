@@ -14,13 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32703&aId=162833&caId=25217&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32703&aId=162833&caId=25217&tId=4)
 
-#### 22 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Dani Madrone - State Conservation Commission
 * fred johnson - small commercial farmer - Fred's Homegrown Produce
 * Michael Maki - Peninsula Mushroom LLC
 * Stephanie Swane
 
-#### 0 👎 - Con
+#### 67 👎 - Con
 
 #### 0 ❓ - Other

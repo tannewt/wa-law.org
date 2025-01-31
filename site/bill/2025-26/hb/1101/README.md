@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/21 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1101 Vehicular homicide offenses

@@ -245,6 +245,9 @@
 
 ### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 
 
+### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development  👎1 
+* 👎💵 Peter Godlewski
+
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 * 👎💵 Peter Godlewski
 
@@ -263,6 +266,9 @@
 
 ### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎1 
 * 👎💵 Lindsey Hueer
+
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎1 
+* 👎💵 Peter Godlewski
 
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
 

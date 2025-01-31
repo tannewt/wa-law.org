@@ -3,7 +3,10 @@
 
 ### [HB 1098](/bill/2025-26/hb/1098/) - County local roads 👍1  
 
-### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters.  👎1 
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters  👎1 
+
+### [SB 5461](/bill/2025-26/sb/5461/) - Intensive rural dev. areas 👍1  
+* 👍 Mindy Brooks
 
 ### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs 👍1  
 * 👍 Mindy Brooks

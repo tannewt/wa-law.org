@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 01/31 08:00 AM - Labor & Commerce (LC): SB 5043 PTSD/correctional workers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32588&aId=162255&caId=25016&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32588&aId=162255&caId=25016&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32588&aId=162255&caId=25016&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32588&aId=162255&caId=25016&tId=4)
-
-#### 303 👍 - Pro
+#### 387 👍 - Pro
 Testifying:
 * Doug Palmer - Washington State Association for Justice
 * 💵Brenda Wiest - Teamsters 117
@@ -22,8 +16,10 @@ Testifying:
 * Sheena Bates
 * Vicente Amaro
 
-#### 310 👎 - Con
+#### 351 👎 - Con
 Testifying:
 * Donna Alber
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Rose Gundersen - WA Retail Association

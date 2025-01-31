@@ -34,6 +34,9 @@
 
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
 
+### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity   ❓1
+* ❓ Chris Herman
+
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  

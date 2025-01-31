@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32628&aId=162975&caId=25317&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32628&aId=162975&caId=25317&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Matt Hannuksela - [Puget Sound Pilots](/org/puget_sound_pilots/)
+* Scott Brewen - [Puget Sound Pilots](/org/puget_sound_pilots/)
 
 #### 0 👎 - Con
 

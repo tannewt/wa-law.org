@@ -8,19 +8,13 @@
 
 ## Meetings
 ### Fri 01/31 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1309 Burrowing shrimp
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32545&aId=161927&caId=25166&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32545&aId=161927&caId=25166&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32545&aId=161927&caId=25166&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32545&aId=161927&caId=25166&tId=4)
-
-#### 8 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Kathleen Nisbet-Moncy - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)
 * Marilyn Sheldon - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)
 * Miranda Reis - Pacific Coast Shellfish Growers Association (PCSGA)
 
-#### 329 👎 - Con
+#### 396 👎 - Con
 Testifying:
 * Donna Alber
 

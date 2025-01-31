@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 10 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * Christine Walker - Parkwood Neighborhood Alliance
 * Deborah Wilson
@@ -27,5 +27,6 @@ Testifying:
 * Robin Piper-Zorich - AMHO
 * Robin Piper-Zorich - AMHO
 * Eldean Montgomery - 2
+* Sheila Mulligan
 
 #### 0 ❓ - Other

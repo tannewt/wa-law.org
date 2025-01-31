@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Fri 01/31 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1503 Digital equity
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32580&aId=162091&caId=25167&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32580&aId=162091&caId=25167&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32580&aId=162091&caId=25167&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32580&aId=162091&caId=25167&tId=4)
-
-#### 14 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Misha Cherniske - Office of Superintendent of Public Instruction
 * Erica Limon-Trefielo - Communities in Schools of Washington
@@ -26,13 +20,16 @@ Testifying:
 * 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
 * Steven Bock
 * William Booth - Creating Pathways
+* Khalid Sirad
+* Florence Bien-Aime - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
 
-#### 25 👎 - Con
+#### 48 👎 - Con
 Testifying:
 * Jodi Dotson
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Scott Richards - WA Public Utility Districts Association
 * Patrick Stickney - WA State Office of Equity
 * Dave Pringle - Dept. of Commerce
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)

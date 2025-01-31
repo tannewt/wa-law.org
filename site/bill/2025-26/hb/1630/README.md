@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/30/2025 [KUOW](/org/kuow/) - [KUOW - The latest issue dividing Washington's lawmakers: Cow farts](https://www.kuow.org/stories/the-latest-issue-dividing-washington-s-lawmakers-cow-farts#:~:text=House%20Bill%201630)
 * 01/29/2025 [MyNorthwest](/org/mynorthwest/) - [Could cow burps and farts be taxed in Washington?](https://mynorthwest.com/mynorthwest-politics/wa-cow-burps-and-farts/4036217#:~:text=House%20Bill%201630)
 
 ## Meetings
@@ -19,6 +20,6 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 13 👎 - Con
+#### 15 👎 - Con
 
 #### 0 ❓ - Other

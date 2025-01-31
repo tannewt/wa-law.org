@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32691&aId=162761&caId=25257&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32691&aId=162761&caId=25257&tId=4)
 
-#### 9 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Sean Behl - [Washington Student Association](/org/washington_student_association/)
 * Heba Qatrani - [Washington Student Association](/org/washington_student_association/)

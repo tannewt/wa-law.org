@@ -17,10 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32623&aId=162392&caId=25289&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32623&aId=162392&caId=25289&tId=4)
 
-#### 68 👍 - Pro
+#### 86 👍 - Pro
 Testifying:
 * Colleen McIngalls - King County Prosecuting Attorney's Office
 
-#### 0 👎 - Con
+#### 58 👎 - Con
 
 #### 0 ❓ - Other

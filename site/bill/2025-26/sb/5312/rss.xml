@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5312/</link>
 		<description>Updates about SB 5312</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 26 Jan 2025 09:30:20 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2025 17:09:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -125,6 +125,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Joanne/Glant/2025-01-26 09:30:20</guid>
+		</item>
+		<item>
+			<title>WA bill would reduce penalties for online sting operations</title>
+			<description>News article "WA bill would reduce penalties for online sting operations" from MyNorthwest.</description>
+			<pubDate>Thu, 30 Jan 2025 17:09:46 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/mynorthwest-politics/online-sting-operation/4036955#:~:text=Senate%20Bill%205312</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [Sightline Institute](/org/sightline_institute/) - [The 4 Big Reasons Why States Should Ditch Parking Mandates | Sightline Institute](https://www.sightline.org/2025/01/31/the-4-big-reasons-why-states-should-ditch-parking-mandates/#:~:text=HB%201299)
 * 01/16/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Bill Would Cap Excessive Parking Mandates Around the State  | Sightline Institute](https://www.sightline.org/2025/01/16/washington-bill-would-cap-excessive-parking-mandates-around-the-state/#:~:text=HB%201299)
 
 ## Meetings
@@ -17,7 +18,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32635&aId=162648&caId=25459&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32635&aId=162648&caId=25459&tId=4)
 
-#### 0 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* Scott Bonjukian
 
 #### 4 👎 - Con
 

@@ -8,19 +8,15 @@
 
 ## Meetings
 ### Fri 01/31 10:30 AM - Housing (HSG): SB 5471 Middle housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32602&aId=162388&caId=25215&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32602&aId=162388&caId=25215&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32602&aId=162388&caId=25215&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32602&aId=162388&caId=25215&tId=4)
-
-#### 14 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Joe Kunzler
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * Mindy Brooks - [Lewis County](/org/lewis_county/)
 * BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)

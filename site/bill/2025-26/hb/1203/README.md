@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Fri 01/31 08:00 AM - Consumer Protection & Business (CPB): HB 1203 Tobacco & nicotine products
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162057&caId=25164&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162057&caId=25164&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162057&caId=25164&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162057&caId=25164&tId=4)
-
-#### 229 👍 - Pro
+#### 252 👍 - Pro
 Testifying:
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 * Chris Reykdal - [Superintendent of Public Instruction](/org/superintendent_of_public_instruction/)
@@ -46,8 +40,9 @@ Testifying:
 * 💵Kelsey Beck - Kaiser
 * 💵Lyset Cadena - Andy Hill Cancer Research Endowment Fund
 * Malcolm Clay - Tacoma NAACP
+* Mikayla Tanis - Educator
 
-#### 440 👎 - Con
+#### 448 👎 - Con
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Neill Franklin - Law Enforcement Action Partnership
@@ -66,6 +61,12 @@ Testifying:
 * Gregory Smith
 * 💵Aaron Holmes - Vapor Technology Association
 * Jonny Ghim - KAGRO Washington
+* 💵Sara Stewart - Washington Smoke-Free Association
+* Jiles Ship - (NOBLE) National Prganization of Black aw Enforcement Executitves
+* Chong Sullivan - KAGRO
+* 💵Crystal Leatherman - WA Retail Association
+* Kerry Schultz - Creekside Market
+* Alex Wardi - OMG Food Mart
 
 #### 10 ❓ - Other
 Testifying:

@@ -17,7 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162670&caId=25373&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162670&caId=25373&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Derek Sanders - Thurston County Sheriff's Office
 
 #### 1 👎 - Con
 

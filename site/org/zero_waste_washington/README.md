@@ -52,6 +52,8 @@
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
 * 👍💵 Heather Trim
 
+### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
+
 ## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 * 👍💵 Heather Trim
 

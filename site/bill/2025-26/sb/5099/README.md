@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/31/2025 [Washington State Standard](/org/washington_state_standard/) - [Plans for new gun regulations progress in Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/01/31/plans-for-new-gun-regulations-progress-in-washington-legislature/#:~:text=Senate%20Bill%205099)
 * 01/27/2025 [Axios](/org/axios/) - [Top gun bills in Washington Legislature in 2025: Permits, taxing ammo and more - Axios Seattle](https://www.axios.com/local/seattle/2025/01/27/gun-permit-license-ammo-tax-washington-law-2025#:~:text=for%20gun%20dealers)
 
 ## Meetings

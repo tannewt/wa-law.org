@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162810&caId=25282&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162810&caId=25282&tId=4)
 
-#### 23 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Habtamu Asfaw
 
-#### 187 👎 - Con
+#### 236 👎 - Con
 Testifying:
 * 💵Noelani Derrickson - [Tesla](/org/tesla/)
 * Angela Tsang
@@ -73,11 +73,30 @@ Testifying:
 * Lani F
 * Marie Moore
 * Cuong (Michael) Le
+* surya singh
+* Bradford Snow
+* Siu-Tung Tony Yuen
 * Dwight Bickel
+* Sarah Alattal
 * Cameron Hino
 * 💵Mark Brown
 * Eric Jones
+* Wentao Yang
+* Shalini Joshi
+* Yang Chen
+* Sriram Bhaiya
+* Alberto Arias Maestro
+* Chu Xu
+* Prayank Mathur
+* Joe Galusha
+* Bob Chung
+* Pavan Bolisetty
+* Marc Shemesh - N/A
+* HOSSIEN GHAIBI - Alpine Electronics INC
+* Gerald Umayam
+* Sai Naveen Muppa
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Habtie Desta
+* Majidreza Goudarzy

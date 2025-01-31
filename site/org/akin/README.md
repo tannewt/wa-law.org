@@ -10,6 +10,8 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
+### [HB 1600](/bill/2025-26/hb/1600/) - Family services support fee 👍1  
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
 
 ## [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  

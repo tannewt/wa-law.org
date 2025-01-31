@@ -17,9 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162744&caId=25366&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162744&caId=25366&tId=4)
 
-#### 10 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Brent Mattila - Official representative
 
-#### 2429 👎 - Con
+#### 3138 👎 - Con
 Testifying:
 * Teodorin Morca
 * Casey Schaufler
@@ -40,11 +42,28 @@ Testifying:
 * Chris Salp
 * Cody May
 * Bethany May
+* Ryan Mabin
+* John Morgan
 * Connie Widener
 * Rob DesRoches - Belle Gardens
 * Thomas Kosloske
 * Cody Wyand
 * Michael McKinley
 * Bailey Bressler
+* Toby Starcher
+* Breanna Hulett
+* Jon Bergstrom - Kirtley Cole Construction
+* Paul Rivard
+* Jesse Dinius
+* Ryland Kinnan
+* Cooper Boyer
+* Donald Parker
+* Josue Rico
+* Nyle Khouja
+* Adam McDonald
+* Thorin Ostling
+* Josue Rico
+* Jennifer Crandall
+* Michael Beardslee
 
 #### 6 ❓ - Other

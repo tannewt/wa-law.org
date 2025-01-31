@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/30/2025 [KIRO7](/org/kiro7/) - [Washington lawmakers push to keep ‘vehicular homes’ safe from tow yard – KIRO 7 News Seattle](https://www.kiro7.com/news/local/washington-lawmakers-push-keep-vehicular-homes-safe-tow-yard/BARE2AN4BNFS5DZMO4ZTLNXXNM/#:~:text=House%20Bill%201240)
+* 01/30/2025 [MyNorthwest](/org/mynorthwest/) - [Washington bill aims to help people who live in their cars](https://mynorthwest.com/mynorthwest-politics/washington-bill-2/4036850#:~:text=House%20Bill%201240)
 
 ## Meetings
 ### Thu 01/30 04:00 PM - Transportation (TR): HB 1240 Vehicle impounds

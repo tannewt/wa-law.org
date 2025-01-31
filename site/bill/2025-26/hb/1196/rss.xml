@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1196/</link>
 		<description>Updates about HB 1196</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jan 2025 08:37:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,30 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>👍Charles Longshore - Department of Corrections</title>
+			<description>Charles Longshore signed up to testify Pro. They are signed up to represent Department of Corrections.</description>
+			<pubDate>Fri, 31 Jan 2025 08:33:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Charles/Longshore/2025-01-31 08:33:06</guid>
+		</item>
+		<item>
+			<title>👍Carlos Bernardez - Department of Corrections</title>
+			<description>Carlos Bernardez signed up to testify Pro. They are signed up to represent Department of Corrections.</description>
+			<pubDate>Fri, 31 Jan 2025 08:34:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carlos/Bernardez/2025-01-31 08:34:22</guid>
+		</item>
+		<item>
+			<title>👍Ralph Dunuan - Department of Corrections</title>
+			<description>Ralph Dunuan signed up to testify Pro. They are signed up to represent Department of Corrections.</description>
+			<pubDate>Fri, 31 Jan 2025 08:37:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ralph/Dunuan/2025-01-31 08:37:13</guid>
 		</item>
 	</channel>
 </rss>

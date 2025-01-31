@@ -59,6 +59,8 @@
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
 
+### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers  👎1 
+
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs  👎1 
 
 ### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates   ❓1

@@ -3,7 +3,7 @@
 
 ### [HB 1094](/bill/2025-26/hb/1094/) - Providing a property tax exemption for property owned by a qualifying nonprofit organization and loaned, leased, or rented to and used by any government entity to provide character-building, benevolent, protective, or rehabilitative social services. 👍1  
 
-### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters. 👍2  
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍2  
 * 👍 Sarah Dickmeyer
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  

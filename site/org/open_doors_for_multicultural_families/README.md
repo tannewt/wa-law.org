@@ -4,13 +4,16 @@
 ### [HB 1158](/bill/2025-26/hb/1158/) - Community inclusion services 👍1  
 * 👍 Emani Donaldson
 
-## [HB 1395](/bill/2025-26/hb/1395/) - Home care worker background 👍1  
+### [HB 1395](/bill/2025-26/hb/1395/) - Home care worker background 👍1  
 * 👍 Moses Perez
+
+## [HB 1503](/bill/2025-26/hb/1503/) - Digital equity 👍2  
+* 👍 Florence Bien-Aime
 
 ## 2023-24
 
-### [HB 1395](/bill/2023-24/hb/1395/) - Home care worker background 👍1  
-* 👍 Moses Perez
+### [HB 1503](/bill/2023-24/hb/1503/) - Digital equity 👍2  
+* 👍 Florence Bien-Aime
 
 ### [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 

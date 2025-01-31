@@ -1,7 +1,7 @@
 # Washington State Community Action Partnership
 ## 2025-26
 
-### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters. 👍2  
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍2  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Jeff DeLuca

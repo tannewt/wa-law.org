@@ -19,7 +19,7 @@
 ### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍1  
 * 👍💵 Bryce Yadon
 
-### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters. 👍1  
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍1  
 * 👍💵 Bryce Yadon
 
 ### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040.  👎1 
@@ -67,11 +67,18 @@
 ### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting   ❓1
 * ❓💵 Bryce Yadon
 
-## [SB 5374](/bill/2025-26/sb/5374/) - Transportation/tribal rep. 👍1  
+### [SB 5374](/bill/2025-26/sb/5374/) - Transportation/tribal rep. 👍1  
+
+### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs   ❓1
+* ❓💵 Bryce Yadon
+
+## [SB 5471](/bill/2025-26/sb/5471/) - Middle housing   ❓1
+* ❓💵 Bryce Yadon
 
 ## 2023-24
 
-### [SB 5374](/bill/2023-24/sb/5374/) - Transportation/tribal rep. 👍1  
+### [SB 5471](/bill/2023-24/sb/5471/) - Middle housing   ❓1
+* ❓💵 Bryce Yadon
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1
 

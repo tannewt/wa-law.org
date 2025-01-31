@@ -26,11 +26,15 @@
 
 ### [SB 5259](/bill/2025-26/sb/5259/) - Commercial fishing bait tax 👍1  
 
-## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+
+### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
+
+## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 
 ## 2023-24
 
-### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management 👍1  
+### [SB 5466](/bill/2023-24/sb/5466/) - Electric transmission system 👍1  
 
 ### [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 

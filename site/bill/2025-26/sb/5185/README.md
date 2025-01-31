@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Fri 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5185 International med. pathways
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162163&caId=24992&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162163&caId=24992&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162163&caId=24992&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162163&caId=24992&tId=4)
-
-#### 20 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Dr. Jamal Mustafa - Puget Sound Psychiatric Clinic
 * Dr. Kamal Mustafa - Puget Sound Psychiatric Clinic
@@ -35,6 +29,7 @@ Testifying:
 * Dr. Neriza Mercado - Pacific Medical Specialty Group
 * Levoy Cooks - Prest Media
 * 💵Michael Zimmer - World Education Services
+* Abdirizak Mukhtar - Somali Bridge
 * Dr Carla Amadei - Pacific Medical Specialty Group
 * Dr Oksana Nesterenko - Pacific Medical Specialty Group
 * Mohamed Khalif - The International Medical Graduates Academy (TIMGA)

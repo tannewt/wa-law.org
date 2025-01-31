@@ -11,21 +11,16 @@
 
 ## Meetings
 ### Fri 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5118 International medical grads
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162162&caId=24991&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162162&caId=24991&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162162&caId=24991&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162162&caId=24991&tId=4)
-
-#### 7 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * ZANAB WASEEM - PAN PACIFIC HEALTH, PLLC
 * Angeles Ize
 * Mohamed Khalif - The International Medical Graduates Academy
 * 💵Michael Zimmer - World Education Services
 
-#### 346 👎 - Con
+#### 392 👎 - Con
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Micah Matthews - Washington Medical Commission/Deputy Executive and Legislative Director
+* 💵Alex Wehinger - WA State Medical Association (WSMA)

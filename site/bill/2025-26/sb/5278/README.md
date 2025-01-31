@@ -19,8 +19,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Nicole Robison
+* Grete Schultz - TeamChild
 
 #### 0 ❓ - Other

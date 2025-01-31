@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162491&caId=25345&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162491&caId=25345&tId=4)
 
-#### 9 👍 - Pro
+#### 10 👍 - Pro
 
-#### 12 👎 - Con
+#### 16 👎 - Con
+Testifying:
+* David Linn
 
 #### 0 ❓ - Other

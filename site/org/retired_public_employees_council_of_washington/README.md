@@ -10,7 +10,7 @@
 
 ### [HB 1312](/bill/2025-26/hb/1312/) - Retirement benefits/death 👍13  
 
-### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍29  
+### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍36  
 
 ### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans 👍64  
 * 👍 Judith Fosmo

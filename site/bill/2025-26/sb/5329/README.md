@@ -8,19 +8,13 @@
 
 ## Meetings
 ### Fri 01/31 10:30 AM - Housing (HSG): SB 5329 Smoke detector installation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32602&aId=162142&caId=25001&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32602&aId=162142&caId=25001&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32602&aId=162142&caId=25001&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32602&aId=162142&caId=25001&tId=4)
-
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Gerry Gibson - Gibby Home Fire Prevenyion
 * Bonnie Gibson - Gibby Home Gire Prevention
 * Gerry Gibson - Gibby Home Fire Prevention
 
-#### 363 👎 - Con
+#### 456 👎 - Con
 Testifying:
 * Donna Alber
 * Jodi Dotson

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2025 [MyNorthwest](/org/mynorthwest/) - [WA bill would reduce penalties for online sting operations](https://mynorthwest.com/mynorthwest-politics/online-sting-operation/4036955#:~:text=Senate%20Bill%205312)
+
 ## Meetings
 ### Mon 01/27 10:30 AM - Law & Justice (LAW): SB 5312 Net nanny operations
 #### 309 👍 - Pro

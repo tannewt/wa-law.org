@@ -23,13 +23,16 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
-## [SB 5343](/bill/2025-26/sb/5343/) - NE WA wolf-livestock account 👍2  
+### [SB 5343](/bill/2025-26/sb/5343/) - NE WA wolf-livestock account 👍2  
 * 👍💵 Paula Swedeen
+
+### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
+
+## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 
 ## 2023-24
 
-### [SB 5343](/bill/2023-24/sb/5343/) - NE WA wolf-livestock account 👍2  
-* 👍💵 Paula Swedeen
+### [SB 5466](/bill/2023-24/sb/5466/) - Electric transmission system 👍1  
 
 ### [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting   ❓1
 * ❓ Jay Kehne

@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Fri 01/31 08:00 AM - Health Care & Wellness (HCW): HB 1531 Communicable disease
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162321&caId=25171&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162321&caId=25171&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162321&caId=25171&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162321&caId=25171&tId=4)
-
-#### 160 👍 - Pro
+#### 169 👍 - Pro
 Testifying:
 * Rex Johnson - Washington Advocates for Patient Safety
 * Dr. Allison Berry - WSALPHO
@@ -27,7 +21,7 @@ Testifying:
 * Dr. Maria Huang - WCAAP
 * Caitlin Safford
 
-#### 9846 👎 - Con
+#### 10105 👎 - Con
 Testifying:
 * Nicholas Parks
 * Dana Eagle - I am testifying on the behalf of humanity.
@@ -89,8 +83,13 @@ Testifying:
 * Megan Carlson
 * Jodi Dotson
 * Kat Espinda
+* Edward McCorkle
 * Terry Hodges
+* Janell Hulst
+* Donna Helmich
+* Dolores Patrick
+* Cleo Voreades
 
-#### 26 ❓ - Other
+#### 28 ❓ - Other
 Testifying:
 * Jason Utt

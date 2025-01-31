@@ -7,20 +7,16 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to address physician shortages heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/31/nobles-bill-to-address-physician-shortages-heard-in-committee/#:~:text=Senate%20Bill%205226)
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205226)
 
 ## Meetings
 ### Fri 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5226 Physician res./international
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162164&caId=24993&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162164&caId=24993&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162164&caId=24993&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162164&caId=24993&tId=4)
-
-#### 6 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Dr. Abdifitah Mohamed - Medical Resident
 * Mohamed Khalif - The International Medical Graduates Academy
+* 💵Alex Wehinger - WA State Medical Association (WSMA)
 
 #### 16 👎 - Con
 

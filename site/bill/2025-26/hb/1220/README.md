@@ -14,15 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162669&caId=25372&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162669&caId=25372&tId=4)
 
-#### 7 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Kate Benward
 * Kathy McDonald - Parent
 * Amy Ohta
+* 💵Todd Carlisle - [Disability Rights Washington](/org/disability_rights_washington/)
 * Maialisa Vanyo - Washington Association of Criminal Defense Lawyers and Washington Defender Association
 * 💵Kimberly Mosolf
 * 💵Anna Nepomuceno - NAMI Washington
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Brittany Nave
 
 #### 0 ❓ - Other

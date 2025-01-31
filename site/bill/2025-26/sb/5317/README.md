@@ -8,16 +8,11 @@
 
 ## Meetings
 ### Fri 01/31 10:30 AM - Environment, Energy & Technology (ENET): SB 5317 EFSEC/services by local gov.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32611&aId=162340&caId=25187&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32611&aId=162340&caId=25187&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32611&aId=162340&caId=25187&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32611&aId=162340&caId=25187&tId=4)
-
-#### 32 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * Jodi Dotson
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 371 👎 - Con
+#### 458 👎 - Con
 
 #### 1 ❓ - Other

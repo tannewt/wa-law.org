@@ -9,7 +9,7 @@
 
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential   ❓1
 
-### [HB 1195](/bill/2025-26/hb/1195/) - Concerning compliance with siting, development permit processes and standards, and requirements for permanent supportive housing, transitional housing, indoor emergency housing, or indoor emergency shelters.   ❓1
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓1
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program.  👎1 
 

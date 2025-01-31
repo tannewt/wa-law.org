@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/31/2025 [Washington State Standard](/org/washington_state_standard/) - [Plans for new gun regulations progress in Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/01/31/plans-for-new-gun-regulations-progress-in-washington-legislature/#:~:text=Senate%20Bill%205098)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [Pushing for progress - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/01/24/pushing-for-progress/#:~:text=SB%205098)
 * 01/21/2025 [KING5](/org/king5/) - [Public hearings heat up in Washington over controversial gun control measures | king5.com](https://www.king5.com/article/news/local/gun-violence-survivors-gun-rights-advocates-washington-bill-proposals/281-4930edfc-010e-48d2-99fe-e86406a50714#:~:text=Senate%20Bill%205098)
 * 01/17/2025 [The Center Square](/org/the_center_square/) - [Senate adds CPL exemption to bill banning firearms at 5,300+ locations | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_30b5dbb8-d505-11ef-9af0-4f5c28ad12cf.html#:~:text=Senate%20Bill%205098)

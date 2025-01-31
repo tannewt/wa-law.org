@@ -1,0 +1,9 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5606](/bill/2025-26/sb/5606/)
+
+# SB 5606 - Long-term care ombud funding
+[leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5606&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
+
+## Revisions
+* [Original Bill](1/)
+
+## Meetings

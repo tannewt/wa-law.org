@@ -35,11 +35,16 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
-## [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
+### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
+
+### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
+* 👍💵 Justin Allegro
+
+## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 
 ## 2023-24
 
-### [SB 5303](/bill/2023-24/sb/5303/) - Yakima basin water plan 👍1  
+### [SB 5466](/bill/2023-24/sb/5466/) - Electric transmission system 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍5  
 

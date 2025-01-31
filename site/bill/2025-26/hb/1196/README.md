@@ -14,9 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162562&caId=25476&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162562&caId=25476&tId=4)
 
-#### 87 👍 - Pro
+#### 104 👍 - Pro
+Testifying:
+* Charles Longshore - Department of Corrections
+* Carlos Bernardez - Department of Corrections
+* Ralph Dunuan - Department of Corrections
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

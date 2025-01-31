@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162987&caId=25283&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162987&caId=25283&tId=4)
 
-#### 61 👍 - Pro
+#### 71 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Nicholas Johnson - Lyft, Inc.
 
 #### 7 ❓ - Other

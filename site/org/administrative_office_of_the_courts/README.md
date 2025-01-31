@@ -1,8 +1,9 @@
 # Administrative Office of the Courts
 ## 2025-26
 
-### [HB 1144](/bill/2025-26/hb/1144/) - Superior court judge/Skagit 👍1  
+### [HB 1144](/bill/2025-26/hb/1144/) - Superior court judge/Skagit 👍2  
 * 👍 Haily Perkins
+* 👍 Brittany Gregory
 
 ### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍1  
 * 👍 Brittany Gregory
