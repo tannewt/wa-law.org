@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32602&aId=162386&caId=25213&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32602&aId=162386&caId=25213&tId=4)
 
-#### 15 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * 💵Michele Thomas - WA Low Income Housing Alliance
 * Joe Kunzler
+* Joe Kunzler - Senator Jessica Bateman Fan Club
 
-#### 161 👎 - Con
+#### 424 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
+* Jodi Dotson
 
 #### 1 ❓ - Other

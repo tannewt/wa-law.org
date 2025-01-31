@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Thu 01/30 10:30 AM - Early Learning & K-12 Education (EDU): SB 5272 School safety/penalties
-#### 59 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Peyton Coffin - Northwest Baseball Umpires Association -- 150 members
 * Robert West

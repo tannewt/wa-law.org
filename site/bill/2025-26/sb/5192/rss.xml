@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5192/</link>
 		<description>Updates about SB 5192</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 20:30:27 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -700,6 +700,13 @@
 			<pubDate>Tue, 28 Jan 2025 20:30:27 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205192</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-30/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

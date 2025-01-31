@@ -26,7 +26,7 @@ Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Maggie Yuse - Seattle Public Utilities
-* Edwin Borbon - AMERIPEN
+* 💵Edwin Borbon - AMERIPEN
 * Allison Kustic - Association of Plastic Recyclers (APR)
 * Scott DeFife - Glass Packaging Institute
 * Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)

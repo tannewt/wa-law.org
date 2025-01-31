@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/30 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5390 Discover pass, day-use cost
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32613&aId=162335&caId=25198&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32613&aId=162335&caId=25198&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32613&aId=162335&caId=25198&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32613&aId=162335&caId=25198&tId=4)
-
-#### 27 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
 * 💵Mark Brown - Former State Parks Commissioner
@@ -23,7 +17,10 @@ Testifying:
 * Jeff Chapman - [Back Country Horsemen of Washington](/org/back_country_horsemen_of_washington/)
 * Cynthia Wilkerson - WDFW
 * Brian Considine - State Parks, Policy & Gov’t Affairs Director
+* Conor Marshall - The Mountaineers
 
-#### 432 👎 - Con
+#### 449 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other

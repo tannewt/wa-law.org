@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162509&caId=25404&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162509&caId=25404&tId=4)
 
-#### 0 👍 - Pro
+#### 21 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Justin Mckaughan - Dad and Educator from
 
 #### 0 ❓ - Other

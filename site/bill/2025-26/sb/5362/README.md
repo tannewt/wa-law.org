@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [Advocates Across Washington Call on Legislators to Stabilize Crime Victim Services Amid Funding Crisis  – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/news/advocates-across-washington-call-on-legislators-to-stabilize-crime-victim-services-amid-funding-crisis/#:~:text=SB%205362)
+
 ## Meetings
 ### Mon 02/03 10:30 AM - Law & Justice (LAW): SB 5362 Crime victim services
 Sign up to testify:
@@ -14,7 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32623&aId=162392&caId=25289&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32623&aId=162392&caId=25289&tId=4)
 
-#### 0 👍 - Pro
+#### 68 👍 - Pro
+Testifying:
+* Colleen McIngalls - King County Prosecuting Attorney's Office
 
 #### 0 👎 - Con
 

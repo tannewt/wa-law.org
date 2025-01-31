@@ -49,7 +49,7 @@
 
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
 
-### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 👍1  
+### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 * 👍💵 Ethan Frenchman
 
 ### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍1  

@@ -4,13 +4,18 @@
 ### [HB 1278](/bill/2025-26/hb/1278/) - Higher ed. gov./students 👍2  
 * 👍 Sean Behl
 
-## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
+### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 * 👍💵 Isela Bonilla
+
+## [SB 5523](/bill/2025-26/sb/5523/) - Higher ed. gov./students 👍3  
+* 👍 Sean Behl
+* 👍 Heba Qatrani
 
 ## 2023-24
 
-### [SB 5402](/bill/2023-24/sb/5402/) - Financial aid eligibility 👍1  
-* 👍💵 Isela Bonilla
+### [SB 5523](/bill/2023-24/sb/5523/) - Higher ed. gov./students 👍3  
+* 👍 Sean Behl
+* 👍 Heba Qatrani
 
 ### [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  
 * 👍 Joseph Gabriel Burke

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5163/</link>
 		<description>Updates about SB 5163</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 21 Jan 2025 09:37:18 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jaime/Bodden/2025-01-21 09:37:18</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-30/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

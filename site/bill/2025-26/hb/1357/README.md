@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Thu 01/30 04:00 PM - Appropriations (APP): HB 1357 Special education funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162034&caId=25161&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162034&caId=25161&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162034&caId=25161&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162034&caId=25161&tId=4)
-
-#### 113 👍 - Pro
+#### 123 👍 - Pro
 Testifying:
 * Monique Dugaw - ESD 112 Region
 * Jeff Snell - Vancouver Public Schools - Vancouver, WA
@@ -28,7 +22,7 @@ Testifying:
 * Mike Stewart - [Boyer Children's Clinic](/org/boyer_children's_clinic/)
 * Erin McKee - Issaquah School District & AWSP
 
-#### 393 👎 - Con
+#### 412 👎 - Con
 
 #### 3 ❓ - Other
 Testifying:

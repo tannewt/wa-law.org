@@ -1,13 +1,16 @@
 # Alliance of Western Energy Consumers
 ## 2025-26
 
-## [HB 1522](/bill/2025-26/hb/1522/) - Utility wildfire mitigation 👍1  
+### [HB 1522](/bill/2025-26/hb/1522/) - Utility wildfire mitigation 👍1  
 * 👍💵 Brandon Houskeeper
+
+## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎1 
+* 👎💵 Brandon Houskeeper
 
 ## 2023-24
 
-### [HB 1522](/bill/2023-24/hb/1522/) - Utility wildfire mitigation 👍1  
-* 👍💵 Brandon Houskeeper
+### [SB 5466](/bill/2023-24/sb/5466/) - Electric transmission system  👎1 
+* 👎💵 Brandon Houskeeper
 
 ### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  
 

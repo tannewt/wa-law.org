@@ -57,6 +57,8 @@
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element   ❓1
 * ❓💵 Carl Schroeder
 
+### [HB 1240](/bill/2025-26/hb/1240/) - Vehicle impounds   ❓1
+
 ### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface   ❓1
 * ❓💵 Carl Schroeder
 
@@ -89,7 +91,7 @@
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
-### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state.   ❓1
+### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
 
 ### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel  👎1 

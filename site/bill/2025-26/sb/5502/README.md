@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2025 [KING5](/org/king5/) - [Bottle bill backers hope 10-cent fee refund will boost recycling in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bottle-bill-backers-hope-10-cent-refund-will-boost-recycling-washington-state/281-42b0811b-bc66-4682-aee3-afef0df99e7e#:~:text=Senate%20Bill%205502)
+
 ## Meetings
 ### Wed 01/29 08:00 AM - Environment, Energy & Technology (ENET): SB 5502 Recycling & waste reduction
 #### 85 👍 - Pro

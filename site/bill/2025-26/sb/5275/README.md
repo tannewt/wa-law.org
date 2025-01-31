@@ -16,7 +16,7 @@
 Testifying:
 * cierra Draper-West - UW Seattle
 * Maria Belen Sepulveda - n/a
-* Mykhail Lembke - University of Washington Graduate & Professional Student Senate
+* 💵Mykhail Lembke - University of Washington Graduate & Professional Student Senate
 * 💵Isela Bonilla - Legislative Liaison ASWSU Vancouver
 * Trevor Spane - Passport to Change
 * Jacob Vigdor - UW Faculty/Council of Faculty

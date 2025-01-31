@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5005](/bill/2025-26/sb/5005/)
 
-# SB 5005 - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state.
+# SB 5005 - Jail system
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5005&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/22/2025 [Senate Democrats](/org/senate_democrats/) - [Saldaña bill to reform Washington jail system heard in committee  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/01/22/saldana-bill-to-reform-washington-jail-system-heard-in-committee/#:~:text=Senate%20Bill%205005)

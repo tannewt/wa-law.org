@@ -177,7 +177,7 @@ Testifying:
 * Gabby Fitz - Communities for Our Colleges
 * Bill Daley - Communities for Our Colleges
 * 💵Alex Hur - NW Education Access
-* Evan Woods - We Train Washington
+* 💵Evan Woods - We Train Washington
 * 💵Puneet Birk - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 
 ### Fri 03/24 02:00 PM - Ways & Means (WM): PSSB 5187: Human services.  (Remote Testimony Available).

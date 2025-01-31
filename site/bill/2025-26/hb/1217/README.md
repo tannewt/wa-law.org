@@ -25,17 +25,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162720&caId=25346&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162720&caId=25346&tId=4)
 
-#### 11 👍 - Pro
+#### 527 👍 - Pro
 Testifying:
 * Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
 * Vanessa Kritzer - Redmond City Council President
 
-#### 6 👎 - Con
+#### 84 👎 - Con
 Testifying:
 * 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Winnie Fung
 * Constance Nelson
+* Tim Eyman - INITIATIVE ACTIVIST
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
 
 ### Mon 01/13 01:30 PM - Housing (HOUS): HB 1217 Residential tenants
 #### 4032 👍 - Pro

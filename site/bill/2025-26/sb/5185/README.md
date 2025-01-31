@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162163&caId=24992&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162163&caId=24992&tId=4)
 
-#### 19 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Dr. Jamal Mustafa - Puget Sound Psychiatric Clinic
 * Dr. Kamal Mustafa - Puget Sound Psychiatric Clinic
@@ -34,11 +34,16 @@ Testifying:
 * Dr. Caleb Chu - Pacific Medical Specialty Group
 * Dr. Neriza Mercado - Pacific Medical Specialty Group
 * Levoy Cooks - Prest Media
+* 💵Michael Zimmer - World Education Services
 * Dr Carla Amadei - Pacific Medical Specialty Group
 * Dr Oksana Nesterenko - Pacific Medical Specialty Group
 * Mohamed Khalif - The International Medical Graduates Academy (TIMGA)
 
-#### 1 👎 - Con
+#### 17 👎 - Con
+Testifying:
+* 💵Alex Wehinger - WA State Medical Association (WSMA)
+* MD, Anukrati Shukla - WSMA
+* MD, Ingrid Gerbino - WSMA
 
 #### 2 ❓ - Other
 Testifying:

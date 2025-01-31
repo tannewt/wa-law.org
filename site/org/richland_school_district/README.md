@@ -1,6 +1,8 @@
 # Richland School District
 ## 2025-26
 
+### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease  👎1 
+
 ### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍1  
 * 👍 Dr. Shelley Redinger
 

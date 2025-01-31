@@ -136,7 +136,7 @@ Testifying:
 * 💵Shaun Cross - [Maddie's Place](/org/maddie's_place/)
 * Jim CastroLang - [Thrive International](/org/thrive_international/)
 * 💵Michele Thomas - WA Low Income Housing Alliance
-* Evan Woods - WeTrain WA Grocery Apprenticeship
+* 💵Evan Woods - WeTrain WA Grocery Apprenticeship
 * Hali Willis - Seattle/King County Coalition on Homelessness
 * Stephen Bollens - Washington State University
 * Jeff DeLuca - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)

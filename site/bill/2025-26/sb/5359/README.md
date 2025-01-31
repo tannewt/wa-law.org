@@ -14,11 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32611&aId=162198&caId=24977&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32611&aId=162198&caId=24977&tId=4)
 
-#### 348 👍 - Pro
+#### 394 👍 - Pro
 Testifying:
 * 💵Brynn Brady - Audubon WA
 * Ben Blank
+* Dan Siemann - Washington State Department of Commerce
+* Rebecca Ponzio - Washington State Department of Commerce
 
-#### 163 👎 - Con
+#### 420 👎 - Con
+Testifying:
+* Donna Alber
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jerry VanderWood - Associated General Contractors (AGC) of WA

@@ -32,7 +32,8 @@
 ### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
 * 👍💵 Heather Trim
 
-### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
+### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍2  
+* 👍 Moji Igun
 
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍1  
 * 👍💵 Heather Trim

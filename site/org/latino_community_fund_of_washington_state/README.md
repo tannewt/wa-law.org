@@ -8,7 +8,9 @@
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program. 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
+
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 * 👍💵 Jake García
 
 ### [HB 1381](/bill/2025-26/hb/1381/) - Elections/language assist. 👍2  

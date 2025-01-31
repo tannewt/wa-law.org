@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162747&caId=25369&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162747&caId=25369&tId=4)
 
-#### 8 👍 - Pro
+#### 85 👍 - Pro
 Testifying:
 * Bob Anderton - Washington Bike Law- not a paid lobbyist
 
-#### 2 👎 - Con
+#### 16 👎 - Con
+Testifying:
+* Scott Mcknight
 
 #### 0 ❓ - Other

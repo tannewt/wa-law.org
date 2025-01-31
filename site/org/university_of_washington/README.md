@@ -23,6 +23,8 @@
 
 ### [HB 1492](/bill/2025-26/hb/1492/) - Students with dependents 👍3  
 
+### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
+
 ### [SB 5106](/bill/2025-26/sb/5106/) - Establishing Eid al-Fitr and Eid al-Adha as state holidays. 👍1  
 
 ### [SB 5119](/bill/2025-26/sb/5119/) - Academic employee bargaining 👍1  
@@ -38,7 +40,7 @@
 
 ### [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍2  
 
-### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍10  
+### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍11  
 
 ## [SB 5451](/bill/2025-26/sb/5451/) - Quantum economic development 👍1  
 

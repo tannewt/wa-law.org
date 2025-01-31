@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Thu 01/30 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5402 Financial aid eligibility
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32577&aId=162112&caId=24997&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32577&aId=162112&caId=24997&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32577&aId=162112&caId=24997&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32577&aId=162112&caId=24997&tId=4)
-
-#### 1240 👍 - Pro
+#### 1278 👍 - Pro
 Testifying:
 * Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
 * Miguel Garduno Munoz - Western Washington University
@@ -33,8 +27,16 @@ Testifying:
 * Khanh Pham - Washington State Board of Community and Technical Colleges
 * Keagan Nakazawa
 * Fernanda Cornelio
+* Evelyn Aguiar
+* Jaimee Mosey - Olympic College
+* Eon Hu - Olympic College
+* Aniya Clark - Olympic College
+* Taylee Owensby - Olympic college
+* Sean Behl - Associated Students of the University of Washington and the Washington Student Association
+* Alec Acosta-Vega - CWU-Student
+* Mahmood Alkhazraji - cwu student LD13
 * Diego Gonzalez
 
-#### 404 👎 - Con
+#### 419 👎 - Con
 
 #### 11 ❓ - Other

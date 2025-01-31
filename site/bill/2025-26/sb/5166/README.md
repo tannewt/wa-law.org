@@ -38,7 +38,7 @@ Testifying:
 * Audrey Miller Garcia - [American Cancer Society Cancer Action Network](/org/american_cancer_society_cancer_action_network/)
 * Mohamed Khalif - The International Medical Graduates Academy (TIMGA)
 * 💵Melissa Gombosky - Big Smiles Pediatric Dentistry
-* Evan Woods - WeTrain WA Grocery Apprenticeship
+* 💵Evan Woods - WeTrain WA Grocery Apprenticeship
 * Emma Scalzo - [Balance Our Tax Code](/org/balance_our_tax_code/)
 * 💵Nancy Sapiro - Jewish Community Relations Council of the Jewish Federation of Greater Seattle
 * JOANNA Grist - AARP

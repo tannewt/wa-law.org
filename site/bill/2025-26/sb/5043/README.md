@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32588&aId=162255&caId=25016&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32588&aId=162255&caId=25016&tId=4)
 
-#### 32 👍 - Pro
+#### 303 👍 - Pro
 Testifying:
 * Doug Palmer - Washington State Association for Justice
+* 💵Brenda Wiest - Teamsters 117
+* Christopher Malone
+* Sheena Bates
+* Vicente Amaro
 
-#### 111 👎 - Con
+#### 310 👎 - Con
+Testifying:
+* Donna Alber
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

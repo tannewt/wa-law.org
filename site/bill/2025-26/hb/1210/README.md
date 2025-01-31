@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/30 01:30 PM - Finance (FIN): HB 1210 Urban area tax preferences
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161895&caId=25156&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161895&caId=25156&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161895&caId=25156&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161895&caId=25156&tId=4)
-
-#### 48 👍 - Pro
+#### 78 👍 - Pro
 Testifying:
 * Joe Schiessl - [City of Richland](/org/city_of_richland/)
 * Rael Candelaria - Framatome
@@ -28,7 +22,8 @@ Testifying:
 * 💵Brandon Houskeeper - Associated Builders & Contractors - Western WA / SW WA Contractors Assoc.
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Suellen Mele - 350 Washington Civic Action Team
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Cathryn Chudy

@@ -14,12 +14,70 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162810&caId=25282&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162810&caId=25282&tId=4)
 
-#### 0 👍 - Pro
+#### 23 👍 - Pro
+Testifying:
+* Habtamu Asfaw
 
-#### 8 👎 - Con
+#### 187 👎 - Con
 Testifying:
 * 💵Noelani Derrickson - [Tesla](/org/tesla/)
 * Angela Tsang
 * Jonathan Schaefer
+* Hareesh Gottipati
+* Rory Cooley
+* Harsh Shrivastava
+* Sergey Ozeruga
+* Alexis Sanchez - N/A
+* Curtis Jones
+* Igor Babichev
+* Jeremy McClanathan
+* Song Jiang
+* Danielle Tomlinson
+* Dave Anderson
+* Rafi Mamalian
+* Travis Rice
+* Robert Croucher
+* Miranda stark
+* Kay Ditzenberger
+* Ty Witt
+* Keith Moon
+* Amos Dunn
+* Karthik Subramanian
+* Eugene Lin
+* Hiren Naik
+* Riley Maltos
+* Oleksandr Fedorov
+* Meryl Dumlao
+* Mahendrakumar Patel
+* Dan McDonough
+* Zhicong Liang
+* Gordon Cohen
+* Vadim Aleksanyan
+* Ashok Chandrasekaran
+* Rachael Collier
+* Allison Hickey
+* Patricia Cohen
+* ilich vahimi
+* Ashwin Philip Abraham
+* Amit Unadkat
+* Daniel Nuon
+* Zhongkai Sun
+* Anthony Mirhaydari
+* Kalki Nozomi
+* Gina Glee
+* Philip Florence
+* Seth Quinn
+* Jacob Mathew
+* Layne Bouche
+* Michael Murray
+* Lani F
+* Marie Moore
+* Cuong (Michael) Le
+* Dwight Bickel
+* Cameron Hino
+* 💵Mark Brown
+* Eric Jones
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Habtie Desta

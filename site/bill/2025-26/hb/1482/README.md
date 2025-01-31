@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/31/2025 [Washington State Standard](/org/washington_state_standard/) - [Hundreds of immigrants rally at Washington state Capitol • Washington State Standard](https://washingtonstatestandard.com/2025/01/30/hundreds-of-immigrants-rally-at-washington-state-capitol/#:~:text=House%20Bill%201482)
+
 ## Meetings

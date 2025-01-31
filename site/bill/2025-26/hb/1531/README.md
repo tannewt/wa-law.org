@@ -17,11 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162321&caId=25171&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162321&caId=25171&tId=4)
 
-#### 129 👍 - Pro
+#### 160 👍 - Pro
 Testifying:
 * Rex Johnson - Washington Advocates for Patient Safety
+* Dr. Allison Berry - WSALPHO
+* Dr. Lelach Rave - WCAAP
+* Dr. Tao Kwan-Gett - Washington State Department of Health
+* Janice Flood-Nichols - Parent
+* Dr. Maria Huang - WCAAP
+* Caitlin Safford
 
-#### 8983 👎 - Con
+#### 9846 👎 - Con
 Testifying:
 * Nicholas Parks
 * Dana Eagle - I am testifying on the behalf of humanity.
@@ -75,6 +81,16 @@ Testifying:
 * Scott Halfacre
 * Brandie Bills
 * Kali Sanford
+* Natalie Chavez
 * Carol Keister
+* Marnie Ng
+* Courtney Gipson
+* Geneva Frazier
+* Megan Carlson
+* Jodi Dotson
+* Kat Espinda
+* Terry Hodges
 
-#### 24 ❓ - Other
+#### 26 ❓ - Other
+Testifying:
+* Jason Utt

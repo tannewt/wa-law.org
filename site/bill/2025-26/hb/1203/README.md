@@ -19,13 +19,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162057&caId=25164&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162057&caId=25164&tId=4)
 
-#### 160 👍 - Pro
+#### 229 👍 - Pro
 Testifying:
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 * Chris Reykdal - [Superintendent of Public Instruction](/org/superintendent_of_public_instruction/)
 * Julian Jansen - Student Representative for Eatonville School District
 * McKenah Perdue - Student Representative for Eatonville School District
 * Robert Poulter - Student Representative for Eatonville School District
+* Jonathan Bricker - Fred Hutch Cancer Center
+* Pam Johnson - Hazardous Waste Management Program
+* Jay Miller - Tacoma Pierce County Health Department
 * 💵Roz Thompson - Association of Washington School Principals (ASWP)
 * Krystal Forslin - Student
 * Nancy Carroll - Assistant Principal, West Seattle High School
@@ -41,8 +44,10 @@ Testifying:
 * Audrey Miller Garcia - ACSCAN
 * Carol Coram - ACSCAN
 * 💵Kelsey Beck - Kaiser
+* 💵Lyset Cadena - Andy Hill Cancer Research Endowment Fund
+* Malcolm Clay - Tacoma NAACP
 
-#### 394 👎 - Con
+#### 440 👎 - Con
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Neill Franklin - Law Enforcement Action Partnership
@@ -59,7 +64,10 @@ Testifying:
 * Lamont Robinson
 * Yvonne Pack
 * Gregory Smith
+* 💵Aaron Holmes - Vapor Technology Association
+* Jonny Ghim - KAGRO Washington
 
-#### 9 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * Guy Bentley - Reason Foundation
+* Michele Roberts - Washington State Department of Health

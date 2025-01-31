@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5109/</link>
 		<description>Updates about SB 5109</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 17 Jan 2025 02:14:13 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 29 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Patrick/Hinds/2025-01-17 02:14:13</guid>
+		</item>
+		<item>
+			<title>On motion, referred to Ways &amp; Means.</title>
+			<description>On motion, referred to Ways &amp; Means.</description>
+			<pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-29/On motion, referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

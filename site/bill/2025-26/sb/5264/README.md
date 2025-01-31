@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Thu 01/30 04:00 PM - Ways & Means (WM): SB 5264 Tax compacts/capital invest.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32548&aId=162072&caId=25047&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32548&aId=162072&caId=25047&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32548&aId=162072&caId=25047&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32548&aId=162072&caId=25047&tId=4)
-
-#### 14 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Chair Teri Gobin - Tulalip Tribes of WA
 * Bill Chairman Iyall - Cowlitz Indian Tribe
 * Steve Ewing - Dept. of Revenue
+* Rosalee Revey-Jacobs - Lummi Nation
 
-#### 8 👎 - Con
+#### 15 👎 - Con
 
 #### 0 ❓ - Other

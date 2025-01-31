@@ -18,13 +18,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162331&caId=25183&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32575&aId=162331&caId=25183&tId=4)
 
-#### 71 👍 - Pro
+#### 106 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Tom Eshleman - Doyles Sheehan
 * Tom Eshleman - Doyles Sheehan
+* Charlie Choi - Mickey Deli
+* Jonny Ghim - KAGRO Washington
+* Paul Namkung - Lucky Seven Food
 
-#### 393 👎 - Con
+#### 434 👎 - Con
 Testifying:
 * Kelsie Reynolds
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
@@ -32,5 +35,8 @@ Testifying:
 * Cheryl Stowers
 * Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 * Doug Ball - Jacksons Food Stores
+* 💵Aaron Holmes - Vapor Technology Association
+* 💵Sara Stewart - Washington Smoke-Free Association
+* Audrey Miller garcia - ACSCAN
 
 #### 3 ❓ - Other

@@ -21,7 +21,7 @@
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 
-### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
+### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍3  
 * 👍💵 Edgar Espino
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  

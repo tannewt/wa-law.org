@@ -10,6 +10,8 @@
 ### [HB 1343](/bill/2025-26/hb/1343/) - Higher ed./loss of aid 👍1  
 * 👍 Sienna Jarrard
 
+### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
+
 ### [SB 5275](/bill/2025-26/sb/5275/) - Modifying funding and award levels for the passport to careers program and eligibility for the Washington college grant. 👍1  
 
 ### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  

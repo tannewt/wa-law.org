@@ -117,6 +117,12 @@
 
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
 
+### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs 👍1  
+* 👍 BRIAN ENSLOW
+
+### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍1  
+* 👍 BRIAN ENSLOW
+
 ## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction   ❓1
 * ❓💵 Travis Dutton
 

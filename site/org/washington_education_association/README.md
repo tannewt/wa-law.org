@@ -144,7 +144,7 @@
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
-### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 👍1  
+### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
@@ -219,7 +219,7 @@
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 
-### [SB 5128](/bill/2025-26/sb/5128/) - Concerning the provision of medical assistance to individuals in juvenile detention facilities. 👍1  
+### [SB 5128](/bill/2025-26/sb/5128/) - Juvenile detention, medical 👍1  
 
 ### [SB 5134](/bill/2025-26/sb/5134/) - Chinese Americans/schools   ❓1
 * ❓💵 Nasue Nishida

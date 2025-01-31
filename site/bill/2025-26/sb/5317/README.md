@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32611&aId=162340&caId=25187&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32611&aId=162340&caId=25187&tId=4)
 
-#### 4 👍 - Pro
+#### 32 👍 - Pro
+Testifying:
+* Jodi Dotson
 
-#### 142 👎 - Con
+#### 371 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

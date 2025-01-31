@@ -18,13 +18,29 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32580&aId=162166&caId=25168&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32580&aId=162166&caId=25168&tId=4)
 
-#### 436 👍 - Pro
+#### 501 👍 - Pro
 Testifying:
 * Steven Rhine
+* Aiden Prather
+* 💵Charlie Fisher - Public Interest Research Group (PIRG)
+* Moji Igun - [Zero Waste Washington](/org/zero_waste_washington/)
+* Kyle Wiens - iFixIt
+* Steven Rhine - Rhine Labs
+* Tarah Wheeler - Red Queen Dynamics
+* Morgan Costello-Hostettler - InterConnection
+* 💵Patrick Connor - National Federation of Independent Business (NFIB)
+* Steven Nickel - Google
 * Steven Bock
 
-#### 2 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Juan Londono - Taxpayers Protection Alliance
+* Jeff Gombosky - CTIA - The Wireless Association
+* Amy Bos - NetChoice
+* Turner Loesel - James Madison Institute
+* Dustin Brighton - Repair Done Right Coalition
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Rose Feliciano - TechNet
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)

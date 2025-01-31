@@ -107,6 +107,8 @@
 ### [HB 1249](/bill/2025-26/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission. 👍1  
 * 👍💵 Peter Godlewski
 
+### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
+
 ### [HB 1297](/bill/2025-26/hb/1297/) - Child support/self-employed  👎1 
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎2 
@@ -195,6 +197,8 @@
 
 ### [SB 5111](/bill/2025-26/sb/5111/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
 
+### [SB 5118](/bill/2025-26/sb/5118/) - Updating the requirements for the clinical experience license for international medical graduates. 👍1  
+
 ### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act. 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
@@ -211,6 +215,8 @@
 
 ### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations   ❓1
 * ❓💵 Lindsey Hueer
+
+### [SB 5226](/bill/2025-26/sb/5226/) - Establishing funding for physician residency positions dedicated to international medical graduates. 👍1  
 
 ### [SB 5236](/bill/2025-26/sb/5236/) - Anesthetics/greenhouse gases 👍1  
 
@@ -252,6 +258,8 @@
 
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons   ❓1
 * ❓💵 Peter Godlewski
+
+### [SB 5442](/bill/2025-26/sb/5442/) - College promise pilot 👍1  
 
 ### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎1 
 * 👎💵 Lindsey Hueer

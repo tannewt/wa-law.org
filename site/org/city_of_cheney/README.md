@@ -4,7 +4,7 @@
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential 👍1  
 * 👍 Mark Schuller
 
-### [HB 1258](/bill/2025-26/hb/1258/) - Providing funding for municipalities participating in the regional 911 emergency communications system.  👎1 
+### [HB 1258](/bill/2025-26/hb/1258/) - Providing funding for municipalities participating in the regional 911 emergency communications system.  👎2 
 
 ## [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
 

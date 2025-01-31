@@ -14,7 +14,7 @@ Testifying:
 * Jessica Goff - University of Washington, Tacoma
 * Randy Phillips
 * Melissa Beard - Council of Presidents
-* Mykhail Lembke - University of Washington Graduate and Professional Student Senate
+* 💵Mykhail Lembke - University of Washington Graduate and Professional Student Senate
 
 #### 4 👎 - Con
 

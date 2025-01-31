@@ -61,6 +61,9 @@
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
 
+### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
+* 👍💵 Nicole Gomez
+
 ### [SB 5104](/bill/2025-26/sb/5104/) - Protecting employees from coercion in the workplace based on immigration status. 👍1  
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1

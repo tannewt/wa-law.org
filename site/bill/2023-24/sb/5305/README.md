@@ -29,7 +29,7 @@ Testifying:
 * Heather Hudson - Washington Student Achievement Council
 * Kevin Wang - Mentors in Tech
 * Brian Moreno
-* Evan Woods - Executive Director - WeTrain Washington
+* 💵Evan Woods - Executive Director - WeTrain Washington
 * Mandira Virmani - Computing For All
 * 💵Maud Daudon - Career Connect Washington
 * John B. Bonner

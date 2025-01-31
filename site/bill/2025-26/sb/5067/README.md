@@ -16,13 +16,7 @@
 
 ## Meetings
 ### Thu 01/30 04:00 PM - Transportation (TRAN): SSB 5067 Impaired driving
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32532&aId=162361&caId=25196&tId=4)
-
-#### 74 👍 - Pro
+#### 91 👍 - Pro
 Testifying:
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
 * Annie Sawyer
@@ -38,15 +32,19 @@ Testifying:
 * Mark McKechnie - Washington Traffic Safety Commission
 * Tom Chapman - National Transportation Safety Board
 * James Fell
+* Leah Walton - National Transportation Safety Board
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
+* Ashley Bonus - 94-2707273
+* 💵Mallorie Davies - District Council Of Washington and N. Idaho Laborers
 
-#### 169 👎 - Con
+#### 177 👎 - Con
 Testifying:
 * Daniel Olsen - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Emily Bourne - Server
 * David Bryant - Self
+* Sarah Barlow - Restaurant Bartender
 
 #### 1 ❓ - Other
 Testifying:

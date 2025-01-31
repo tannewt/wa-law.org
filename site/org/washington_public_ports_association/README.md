@@ -11,6 +11,8 @@
 
 ### [HB 1109](/bill/2025-26/hb/1109/) - Public facilities districts 👍1  
 
+### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences 👍1  
+
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
 * 👍💵 Carly Michiels
 

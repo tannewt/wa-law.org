@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Thu 01/30 08:00 AM - Health & Long Term Care (HLTC): SB 5351 Dental insurance practices
-#### 1472 👍 - Pro
+#### 1473 👍 - Pro
 Testifying:
 * Robert Chaddock
 * Arezoo Holdaway
@@ -24,6 +24,7 @@ Testifying:
 * John Gibbons - WSDA
 * 💵Kevin Schilling - WSDA
 * Arne Gundersen
+* 💵Rose Gundersen
 * Ellen McBride Lowe - N/A
 
 #### 258 👎 - Con

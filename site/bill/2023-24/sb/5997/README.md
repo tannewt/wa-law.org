@@ -20,7 +20,7 @@ Testifying:
 
 #### 2 ❓ - Other
 Testifying:
-* Jordan Kari - Water Quality Association
+* Jordan Kari - [Water Quality Association](/org/water_quality_association/)
 * Matthew Mahany
 
 ### Thu 01/25 08:00 AM - Labor & Commerce (LC): SB 5997 Plumbing hours reporting

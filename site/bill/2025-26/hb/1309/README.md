@@ -14,8 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32545&aId=161927&caId=25166&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32545&aId=161927&caId=25166&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Kathleen Nisbet-Moncy - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)
+* Marilyn Sheldon - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)
+* Miranda Reis - Pacific Coast Shellfish Growers Association (PCSGA)
 
-#### 118 👎 - Con
+#### 329 👎 - Con
+Testifying:
+* Donna Alber
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Laura Butler

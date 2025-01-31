@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Thu 01/30 01:30 PM - Finance (FIN): HB 1258 Regional 911 funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161896&caId=25157&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161896&caId=25157&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161896&caId=25157&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32538&aId=161896&caId=25157&tId=4)
-
-#### 204 👍 - Pro
+#### 218 👍 - Pro
 Testifying:
 * Alex Scott - City Administrator, City of Spokane
 * Jim Tieken - AFSCME Spokane Local 270
@@ -25,8 +19,9 @@ Testifying:
 * Brian Brown
 * Judi Koff
 * Nathan Mulkey
+* 💵Paul Dillon - Spokane City Councilmember
 
-#### 166 👎 - Con
+#### 228 👎 - Con
 Testifying:
 * Cody Rohrbach - Spokane County Fire District 3
 * Matthew Vinci - Fire Chief, Spokane County Fire District 9
@@ -41,5 +36,6 @@ Testifying:
 * Gregory Anderson - Spokane County Fire District 9
 * Breann Kostelecky
 * Raegan Hays - Spokane Regional Emergency Communications
+* Scott Tschirgi
 
 #### 0 ❓ - Other

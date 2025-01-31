@@ -26,7 +26,7 @@
 
 ### [HB 1215](/bill/2025-26/hb/1215/) - Natural death act/pregnancy 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
 * 👍💵 Courtney Normand
@@ -39,6 +39,12 @@
 * 👍💵 Courtney Normand
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
+
+### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍1  
+
+### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor  👎1 
+
+### [HB 1604](/bill/2025-26/hb/1604/) - Jail searches/gender 👍1  
 
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍1  
 
@@ -63,11 +69,15 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-## [SB 5270](/bill/2025-26/sb/5270/) - Providing mentors to novice nurses in the beginning educator support team program. 👍1  
+### [SB 5270](/bill/2025-26/sb/5270/) - Providing mentors to novice nurses in the beginning educator support team program. 👍1  
+
+### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
+
+## [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
 
 ## 2023-24
 
-### [SB 5270](/bill/2023-24/sb/5270/) - Providing mentors to novice nurses in the beginning educator support team program. 👍1  
+### [SB 5362](/bill/2023-24/sb/5362/) - Crime victim services 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

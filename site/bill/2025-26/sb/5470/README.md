@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32602&aId=162387&caId=25214&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32602&aId=162387&caId=25214&tId=4)
 
-#### 17 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Mindy Brooks - [Lewis County](/org/lewis_county/)
+* BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 112 👎 - Con
+#### 319 👎 - Con
+Testifying:
+* Donna Alber
+* Jodi Dotson
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties

@@ -14,8 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32645&aId=162480&caId=25448&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32645&aId=162480&caId=25448&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
-#### 0 👎 - Con
+#### 10 👎 - Con
+Testifying:
+* Christine Walker - Parkwood Neighborhood Alliance
+* Deborah Wilson
+* Susan Andrews-Salmond
+* Mary Johnson
+* William Booth
+* Caroline Hardy - Leisure Manor Tenants Association
+* Robin Piper-Zorich - AMHO
+* Robin Piper-Zorich - AMHO
+* Eldean Montgomery - 2
 
 #### 0 ❓ - Other

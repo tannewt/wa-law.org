@@ -17,10 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162721&caId=25347&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162721&caId=25347&tId=4)
 
-#### 9 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
+* Jason Perrins - Chewelah School District
 * Kyle Rydell - West valley School District
+* Hilary Kozel - Spokane Public Schools (School Board Member)
+* Maile Esperas - Spokane Public Schools (student)
 
 #### 1 👎 - Con
 

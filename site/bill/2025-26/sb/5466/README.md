@@ -14,8 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32611&aId=162279&caId=24979&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32611&aId=162279&caId=24979&tId=4)
 
-#### 243 👍 - Pro
+#### 299 👍 - Pro
+Testifying:
+* 💵Maya Gillett - WA BlueGreen Alliance
+* Casey MacLean - [Renewable Northwest](/org/renewable_northwest/)
 
-#### 166 👎 - Con
+#### 422 👎 - Con
+Testifying:
+* Jodi Dotson
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 
-#### 1 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* George Lynch - Washington State Department of Commerce
+* 💵Vicki Christophersen - Northwest and Intermountain Power Producers Coalition
+* 💵Dawn Vyvyan - Yakama Nation
+* Ryan Roy - Western Power Pool

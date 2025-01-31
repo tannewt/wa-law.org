@@ -17,6 +17,6 @@ Testifying:
 * Misha Cherniske - Office of Superintendent of Public Instruction
 * Tim Knue - Washington Association for Career and Technical Education
 
-#### 386 👎 - Con
+#### 388 👎 - Con
 
 #### 0 ❓ - Other

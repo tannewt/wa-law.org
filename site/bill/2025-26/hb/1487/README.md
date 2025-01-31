@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/27/2025 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [Advocates Across Washington Call on Legislators to Stabilize Crime Victim Services Amid Funding Crisis  – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/news/advocates-across-washington-call-on-legislators-to-stabilize-crime-victim-services-amid-funding-crisis/#:~:text=HB%201487)
+
 ## Meetings

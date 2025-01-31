@@ -17,16 +17,34 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162744&caId=25366&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162744&caId=25366&tId=4)
 
-#### 2 👍 - Pro
+#### 10 👍 - Pro
 
-#### 1037 👎 - Con
+#### 2429 👎 - Con
 Testifying:
 * Teodorin Morca
 * Casey Schaufler
 * Jane Milhans
 * Michael Riggs
+* Joseph Miyazato
+* Ben Vandriessche
+* Kevin Propes
+* Kevin Propes
+* Jordan Cowart
+* Tara Broad
+* Sean Edgerly
 * Derek Higgins
+* Adam Belisle
+* Colton Lucas
 * Austin Strunk
+* Jordan Prestholt
+* Chris Salp
+* Cody May
+* Bethany May
+* Connie Widener
+* Rob DesRoches - Belle Gardens
+* Thomas Kosloske
+* Cody Wyand
 * Michael McKinley
+* Bailey Bressler
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other

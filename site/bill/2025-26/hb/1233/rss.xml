@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1233/</link>
 		<description>Updates about HB 1233</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 22 Jan 2025 11:31:39 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -92,6 +92,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Tuan/Quach/2025-01-22 11:31:39</guid>
+		</item>
+		<item>
+			<title>CS - Executive action taken by committee.</title>
+			<description>CS - Executive action taken by committee.</description>
+			<pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-30/CS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

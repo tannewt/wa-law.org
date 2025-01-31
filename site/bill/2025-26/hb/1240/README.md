@@ -6,15 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2025 [KIRO7](/org/kiro7/) - [Washington lawmakers push to keep ‘vehicular homes’ safe from tow yard – KIRO 7 News Seattle](https://www.kiro7.com/news/local/washington-lawmakers-push-keep-vehicular-homes-safe-tow-yard/BARE2AN4BNFS5DZMO4ZTLNXXNM/#:~:text=House%20Bill%201240)
+
 ## Meetings
 ### Thu 01/30 04:00 PM - Transportation (TR): HB 1240 Vehicle impounds
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162364&caId=25211&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162364&caId=25211&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162364&caId=25211&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162364&caId=25211&tId=4)
-
-#### 166 👍 - Pro
+#### 191 👍 - Pro
 Testifying:
 * The Rev. Bill Kirlin-Hackett - Interfaith Task Force on Homelessness
 * The Rev. Bill Kirlin-Hackett - Interfaith Task Force on Homelessness
@@ -26,12 +23,15 @@ Testifying:
 * Derek Boiko-Weyrauch
 * Will Aronin - [Institute for Justice](/org/institute_for_justice/)
 * Jessica Puckett
+* 💵Daniel Lugo
+* Karen Phillips - Northwest Justice Project
 
-#### 23 👎 - Con
+#### 62 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Kris Zachary - Burns Towing
 * Paul Bressi - Nisqually Towing
 * 💵Peter Lukevich - Towing & Recovery Association of WA (TRAW)
+* Jeff Spurgeon - Tow Truck Operators of WA. (TTOW)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

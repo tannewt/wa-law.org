@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32657&aId=162645&caId=25482&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32657&aId=162645&caId=25482&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Caitriona Fitzgerald - Electronic Privacy Information Center (EPIC)
+* Matt Schwartz - [Consumer Reports](/org/consumer_reports/)
+* Ben Winters - Consumer Federation of America
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Andrew Kingman - [State Privacy & Security Coalition](/org/state_privacy_&_security_coalition/)
 
 #### 0 ❓ - Other

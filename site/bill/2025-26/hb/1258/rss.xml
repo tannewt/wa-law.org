@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1258/</link>
 		<description>Updates about HB 1258</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 17:44:51 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2025 11:53:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -187,6 +187,22 @@
 			<pubDate>Wed, 29 Jan 2025 17:44:51 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.krem.com/article/news/local/spokane-county-potential-tax-concerns/293-a870f2bf-7a12-4ce3-a484-ace05fb51482#:~:text=House%20Bill%201258,%20which%20was%20introduced%20by%20District%203%20Representatives%20Tim%20Ormsby%20and%20Natasha%20Hill%20to%20the%20state%20legislature%20for%20the%202025-2026%20session.</guid>
+		</item>
+		<item>
+			<title>👍💵Paul Dillon - Spokane City Councilmember</title>
+			<description>Paul Dillon signed up to testify Pro. They are signed up to represent Spokane City Councilmember. They are a registered lobbyist.</description>
+			<pubDate>Thu, 30 Jan 2025 09:36:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paul/Dillon/2025-01-30 09:36:38</guid>
+		</item>
+		<item>
+			<title>👎Scott Tschirgi - Spokane Regional Emergency Communications</title>
+			<description>Scott Tschirgi signed up to testify Con.</description>
+			<pubDate>Thu, 30 Jan 2025 11:53:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Scott/Tschirgi/2025-01-30 11:53:26</guid>
 		</item>
 	</channel>
 </rss>

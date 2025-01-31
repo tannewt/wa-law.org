@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162393&caId=25290&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162393&caId=25290&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Arthur West
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Kelsi Hamilton - Washington Collectors Assoc.
+* Kris Quigley - CDIA
 
 #### 0 ❓ - Other

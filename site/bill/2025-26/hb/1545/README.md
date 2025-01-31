@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162322&caId=25172&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32542&aId=162322&caId=25172&tId=4)
 
-#### 34 👍 - Pro
+#### 46 👍 - Pro
 Testifying:
 * James Nania - Washington Chapter of the American College of Emergency Physicians
 * Karen Dionne
@@ -26,10 +26,14 @@ Testifying:
 * Brian Burns - Washington State Emegency Nurses Association
 * Cody Staub - Washington State Emergency Nurses Association
 * Michelle Percopo - Washington State Emergency Nurses Association
+* Kim Kelley
 
-#### 85 👎 - Con
+#### 111 👎 - Con
 Testifying:
 * Nathan Smith
 * Michael Olejniczak
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Katie Kolan - Washington State Hospital Association (WSHA)
+* Catie Holstein - Washington State Department of Health

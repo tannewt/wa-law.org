@@ -12,14 +12,8 @@
 
 ## Meetings
 ### Thu 01/30 01:30 PM - Capital Budget (CB): HB 1011 School safety capital grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32551&aId=161935&caId=25151&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32551&aId=161935&caId=25151&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32551&aId=161935&caId=25151&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32551&aId=161935&caId=25151&tId=4)
+#### 48 👍 - Pro
 
-#### 42 👍 - Pro
-
-#### 354 👎 - Con
+#### 361 👎 - Con
 
 #### 0 ❓ - Other

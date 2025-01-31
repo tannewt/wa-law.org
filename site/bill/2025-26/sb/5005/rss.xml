@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5005 - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state.</title>
+		<title>SB 5005 - Jail system</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5005/</link>
 		<description>Updates about SB 5005</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 22 Jan 2025 21:53:25 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -165,6 +165,13 @@
 			<pubDate>Wed, 22 Jan 2025 21:53:25 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/saldana/2025/01/22/saldana-bill-to-reform-washington-jail-system-heard-in-committee/#:~:text=Senate%20Bill%205005</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-30/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

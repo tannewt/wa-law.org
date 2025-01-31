@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5329/</link>
 		<description>Updates about SB 5329</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 17 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2025 06:52:58 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,46 @@
 			<pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-17/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>👍Gerry Gibson - Gibby Home Fire Prevenyion</title>
+			<description>Gerry Gibson signed up to testify Pro. They are signed up to represent Gibby Home Fire Prevenyion.</description>
+			<pubDate>Thu, 30 Jan 2025 01:07:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Gerry/Gibson/2025-01-30 01:07:34</guid>
+		</item>
+		<item>
+			<title>👍Bonnie Gibson - Gibby Home Gire Prevention</title>
+			<description>Bonnie Gibson signed up to testify Pro. They are signed up to represent Gibby Home Gire Prevention.</description>
+			<pubDate>Thu, 30 Jan 2025 01:12:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bonnie/Gibson/2025-01-30 01:12:50</guid>
+		</item>
+		<item>
+			<title>👍Gerry Gibson - Gibby Home Fire Prevention</title>
+			<description>Gerry Gibson signed up to testify Pro. They are signed up to represent Gibby Home Fire Prevention.</description>
+			<pubDate>Thu, 30 Jan 2025 01:19:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Gerry/Gibson/2025-01-30 01:19:51</guid>
+		</item>
+		<item>
+			<title>👎Donna Alber - Gibby Home Fire Prevention</title>
+			<description>Donna Alber signed up to testify Con.</description>
+			<pubDate>Thu, 30 Jan 2025 03:05:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Donna/Alber/2025-01-30 03:05:01</guid>
+		</item>
+		<item>
+			<title>👎Jodi Dotson - Gibby Home Fire Prevention</title>
+			<description>Jodi Dotson signed up to testify Con.</description>
+			<pubDate>Thu, 30 Jan 2025 06:52:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jodi/Dotson/2025-01-30 06:52:58</guid>
 		</item>
 	</channel>
 </rss>

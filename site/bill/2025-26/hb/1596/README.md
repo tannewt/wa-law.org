@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 01/30 04:00 PM - Transportation (TR): HB 1596 Speeding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162365&caId=25212&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162365&caId=25212&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162365&caId=25212&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32537&aId=162365&caId=25212&tId=4)
-
-#### 61 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * Theodore Smith
 * David Sale - Families for Safe Streets
@@ -23,9 +17,11 @@ Testifying:
 * May Wang - Families for Safe Streets
 * Peter Bengston - Families for Safe Streets
 * Amy Freedheim - Senior Deputy Prosecutor King County - Felony Traffic
+* Ken Denton - Life Scofer
 
-#### 51 👎 - Con
+#### 60 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Shelly Baldwin - Washington Traffic Safety Commission
+* Alejandro Sanchez

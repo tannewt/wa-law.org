@@ -16,7 +16,7 @@ Testifying:
 * 💵Maud Daudon - Career Connect Washington
 * Laura Hopkins - SEIU 1199NW Multi-Employer Training Fund
 * Kevin Wang - Mentors in Tech
-* Evan Woods - WeTrain Washington
+* 💵Evan Woods - WeTrain Washington
 * 💵Carolyn Busch - OEDC - Department of Commerce
 * John Bonner - Washington Alliance for Better Schools
 * Shereen Henry - Washington Alliance for Better Schools

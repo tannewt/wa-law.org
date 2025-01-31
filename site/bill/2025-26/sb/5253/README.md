@@ -11,7 +11,7 @@
 
 ## Meetings
 ### Thu 01/30 10:30 AM - Early Learning & K-12 Education (EDU): SB 5253 Special education services
-#### 182 👍 - Pro
+#### 183 👍 - Pro
 Testifying:
 * Tania May - Office of Superintendent of Public Instruction
 * 💵Alex Hur - Communities in Schools of Washington
@@ -25,7 +25,7 @@ Testifying:
 * Kathy McDonald - none
 * Leonard Salas - Open doors for Multicultural Families
 
-#### 375 👎 - Con
+#### 377 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

@@ -51,6 +51,9 @@
 
 ### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍1  
 
+### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair   ❓1
+* ❓💵 Crystal Leatherman
+
 ### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor 👍1  
 * 👍💵 Mark Johnson
 

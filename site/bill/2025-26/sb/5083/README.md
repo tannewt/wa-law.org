@@ -14,11 +14,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162165&caId=24994&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32591&aId=162165&caId=24994&tId=4)
 
-#### 353 👍 - Pro
+#### 608 👍 - Pro
 Testifying:
 * Dinah Coble
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
+* Susan Leschinski - Retired Public Employess Council of WA
+* 💵London Breedlove - Washington State Psychological Association
+* 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Evan Klein - Washington State Health Care Authority
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Pam MacEwan - Purchasers Business Group on Health
 
-#### 39 👎 - Con
+#### 50 👎 - Con
+Testifying:
+* 💵Chelene Whiteaker - Washington State Hospital Association
+* 💵Lisa Thatcher - Washington State Hospital Association
+* Ashley Thurow - Providence Health and Services
+* Brian Gibbons - [Astria Health](/org/astria_health/)
+* Elise Cutter - Island Health
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans

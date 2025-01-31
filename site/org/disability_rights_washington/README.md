@@ -40,7 +40,9 @@
 ### [HB 1418](/bill/2025-26/hb/1418/) - PTBA governing body members 👍1  
 * 👍💵 Anna Zivarts
 
-### [SB 5005](/bill/2025-26/sb/5005/) - Concerning transparency, public safety, and independent oversight of the city, county, and regional jail system in Washington state. 👍1  
+### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
+
+### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers 👍1  
 
 ### [SB 5147](/bill/2025-26/sb/5147/) - Criminal insanity 👍1  
 * 👍💵 Chloe Merino

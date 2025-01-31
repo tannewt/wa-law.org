@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Thu 01/30 04:00 PM - Ways & Means (WM): SB 5086 PEBB & SEBB consolidation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32548&aId=162247&caId=25048&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32548&aId=162247&caId=25048&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32548&aId=162247&caId=25048&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32548&aId=162247&caId=25048&tId=4)
-
-#### 246 👍 - Pro
+#### 267 👍 - Pro
 Testifying:
 * Consuelo Echeverria - Health Care for All WA
 * Lonnie Johns-Brown - Health Care For All Washington
+* Ronnie Shure - [Health Care for All - Washington](/org/health_care_for_all_-_washington/)
 
-#### 1058 👎 - Con
+#### 1076 👎 - Con
 Testifying:
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist

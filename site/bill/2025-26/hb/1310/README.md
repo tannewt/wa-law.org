@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Thu 01/30 04:00 PM - Appropriations (APP): HB 1310 Special education funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162320&caId=25184&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162320&caId=25184&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162320&caId=25184&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32569&aId=162320&caId=25184&tId=4)
-
-#### 1096 👍 - Pro
+#### 1128 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Katie Young - Tacoma special education PTA
@@ -46,6 +40,6 @@ Testifying:
 * Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
 * Charlie Brown - Tacoma, Clover Park and other South Sound Schools
 
-#### 349 👎 - Con
+#### 365 👎 - Con
 
 #### 0 ❓ - Other

@@ -1,6 +1,8 @@
 # The Arc of King County
 ## 2025-26
 
+### [HB 1051](/bill/2025-26/hb/1051/) - IEP team meetings/recording 👍1  
+
 ### [HB 1130](/bill/2025-26/hb/1130/) - Concerning utilization of developmental disabilities waivers. 👍1 👎1 
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
@@ -10,11 +12,13 @@
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
 ### [HB 1240](/bill/2025-26/hb/1240/) - Vehicle impounds 👍1  
 
 ### [HB 1243](/bill/2025-26/hb/1243/) - DSHS overpayments 👍1  
+
+### [HB 1257](/bill/2025-26/hb/1257/) - Extending special education services to students with disabilities until the end of the school year in which the student turns 22. 👍1  
 
 ### [HB 1267](/bill/2025-26/hb/1267/) - Special education funding 👍1  
 

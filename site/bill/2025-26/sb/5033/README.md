@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162452&caId=25240&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162452&caId=25240&tId=4)
 
-#### 0 👍 - Pro
+#### 7 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Darlene Schanfald - Protect the Peninsula's Future & Olympic Environmental Council
 
 ### Wed 01/15 08:00 AM - Environment, Energy & Technology (ENET): SB 5033 Biosolids/PFAS chemicals
 #### 3 👍 - Pro

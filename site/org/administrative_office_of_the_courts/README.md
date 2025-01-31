@@ -20,13 +20,16 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍 Christopher Stanley
 
-## [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
+### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
 * 👍 Haily Perkins
+
+## [SB 5522](/bill/2025-26/sb/5522/) - State capitol campus 👍1  
+* 👍 Christopher Stanley
 
 ## 2023-24
 
-### [SB 5426](/bill/2023-24/sb/5426/) - Court alternatives/youth 👍1  
-* 👍 Haily Perkins
+### [SB 5522](/bill/2023-24/sb/5522/) - State capitol campus 👍1  
+* 👍 Christopher Stanley
 
 ### [HB 1023](/bill/2023-24/hb/1023/) - Wire tap reports/courts 👍2  
 * 👍 Brittany Gregory

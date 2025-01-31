@@ -6,6 +6,8 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍💵 Aaron Czyzewski
 
+### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
+
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
 * ❓💵 Aaron Czyzewski
 

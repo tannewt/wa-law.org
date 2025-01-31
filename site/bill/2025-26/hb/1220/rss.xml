@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1220/</link>
 		<description>Updates about HB 1220</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2025 11:51:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,54 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Community Safety.</guid>
+		</item>
+		<item>
+			<title>👍Kate Benward - District &amp; Municipal Court Judges' Association</title>
+			<description>Kate Benward signed up to testify Pro.</description>
+			<pubDate>Thu, 30 Jan 2025 03:53:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kate/Benward/2025-01-30 03:53:32</guid>
+		</item>
+		<item>
+			<title>👍Kathy McDonald - Parent</title>
+			<description>Kathy McDonald signed up to testify Pro. They are signed up to represent Parent.</description>
+			<pubDate>Thu, 30 Jan 2025 04:13:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kathy/McDonald/2025-01-30 04:13:13</guid>
+		</item>
+		<item>
+			<title>👍Amy Ohta - Parent</title>
+			<description>Amy Ohta signed up to testify Pro.</description>
+			<pubDate>Thu, 30 Jan 2025 06:10:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amy/Ohta/2025-01-30 06:10:03</guid>
+		</item>
+		<item>
+			<title>👍Maialisa Vanyo - Washington Association of Criminal Defense Lawyers and Washington Defender Association</title>
+			<description>Maialisa Vanyo signed up to testify Pro. They are signed up to represent Washington Association of Criminal Defense Lawyers and Washington Defender Association.</description>
+			<pubDate>Thu, 30 Jan 2025 09:31:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Maialisa/Vanyo/2025-01-30 09:31:14</guid>
+		</item>
+		<item>
+			<title>👍💵Kimberly Mosolf - Washington Association of Criminal Defense Lawyers and Washington Defender Association</title>
+			<description>Kimberly Mosolf signed up to testify Pro. They are a registered lobbyist.</description>
+			<pubDate>Thu, 30 Jan 2025 10:33:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kimberly/Mosolf/2025-01-30 10:33:17</guid>
+		</item>
+		<item>
+			<title>👍💵Anna Nepomuceno - NAMI Washington</title>
+			<description>Anna Nepomuceno signed up to testify Pro. They are signed up to represent NAMI Washington. They are a registered lobbyist.</description>
+			<pubDate>Thu, 30 Jan 2025 11:51:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Anna/Nepomuceno/2025-01-30 11:51:09</guid>
 		</item>
 	</channel>
 </rss>

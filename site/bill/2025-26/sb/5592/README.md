@@ -14,9 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162988&caId=25284&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162988&caId=25284&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
 
-#### 0 👎 - Con
+#### 45 👎 - Con
+Testifying:
+* Brad Brotherton - Brotherton Cadillac GMC Buick, Washington State Auto Dealers Association
+* Jaclyn Midkiff - Harvest Auto, Washington State Auto Dealers Association
+* Jen Moran - Carter Motors, Washington State Auto Dealers Association
+* Susan Daaga - Washington State Auto Dealers Association
+* Xavier Cortes - Cortes Auto Group, Washington State Auto Dealers Association
+* Gregg DuPont
+* Dustin Ray
 
 #### 1 ❓ - Other
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5130/</link>
 		<description>Updates about SB 5130</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 25 Jan 2025 00:44:22 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -43,6 +43,13 @@
 			<pubDate>Sat, 25 Jan 2025 00:44:22 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/wilson/2025/01/24/2025-legislative-session-update/#:~:text=SB%205130</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-30/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

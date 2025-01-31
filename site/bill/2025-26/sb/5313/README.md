@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/30/2025 [The Center Square](/org/the_center_square/) - [Proposed bill could put WA's 'valet trash' collection companies out of business | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3e5a4eea-df4e-11ef-94bc-970c9d1a60f2.html#:~:text=Senate%20Bill%205313)
+
 ## Meetings
 ### Wed 01/29 10:30 AM - Housing (HSG): SB 5313 Rental agreement provisions
 #### 334 👍 - Pro

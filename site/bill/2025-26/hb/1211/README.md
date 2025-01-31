@@ -17,15 +17,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162529&caId=25391&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162529&caId=25391&tId=4)
 
-#### 10 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Robert Fontana
 * Lori Fontana
 * Chris Dormaier - Clergy Accountability Coalition
 * Mary Dispenza - Clergy Accountability Coalition
 * Sharon Huling - Clergy Accountability Coalition
+* Mitch Melin - Clergy Accountability Coalition - Former Jehovah's Witness
 * Rev. James Connell
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Bishop Frank Schuster - Archdiocese of Seattle
+* 💵Jean Hill - Washington State Catholic Conference
 
 #### 0 ❓ - Other

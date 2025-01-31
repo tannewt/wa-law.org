@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1461/</link>
 		<description>Updates about HB 1461</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 26 Jan 2025 04:18:21 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Richard/Shaff/2025-01-26 04:18:21</guid>
+		</item>
+		<item>
+			<title>ENVI - Executive action taken by committee.</title>
+			<description>ENVI - Executive action taken by committee.</description>
+			<pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-30/ENVI - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

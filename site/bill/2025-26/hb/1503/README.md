@@ -18,14 +18,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32580&aId=162091&caId=25167&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32580&aId=162091&caId=25167&tId=4)
 
-#### 10 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Misha Cherniske - Office of Superintendent of Public Instruction
 * Erica Limon-Trefielo - Communities in Schools of Washington
 * Sai Samineni
 * 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
 * Steven Bock
+* William Booth - Creating Pathways
 
-#### 0 👎 - Con
+#### 25 👎 - Con
+Testifying:
+* Jodi Dotson
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Scott Richards - WA Public Utility Districts Association
+* Patrick Stickney - WA State Office of Equity
+* Dave Pringle - Dept. of Commerce

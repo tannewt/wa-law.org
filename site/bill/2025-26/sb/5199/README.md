@@ -18,7 +18,7 @@
 #### 0 ❓ - Other
 
 ### Mon 01/20 01:30 PM - Human Services (HS): SB 5199 DCYF oversight board comp.
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 
 #### 1 👎 - Con
 

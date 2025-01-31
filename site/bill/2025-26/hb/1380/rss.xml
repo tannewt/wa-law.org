@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1380/</link>
 		<description>Updates about HB 1380</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 24 Jan 2025 15:10:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 30 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -188,6 +188,13 @@
 			<pubDate>Fri, 24 Jan 2025 15:10:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/national/article_23fb6c02-da8d-11ef-adb6-cb72701fc8ec.html#:~:text=House%20Bill%201380</guid>
+		</item>
+		<item>
+			<title>HOUS - Executive action taken by committee.</title>
+			<description>HOUS - Executive action taken by committee.</description>
+			<pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-30/HOUS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

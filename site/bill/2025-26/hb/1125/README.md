@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/30/2025 [FOX13](/org/fox13/) - [WA bill prompts debate about rehabilitation, accountability | FOX 13 Seattle](https://www.fox13seattle.com/news/proposal-let-people-out-prison#:~:text=House%20Bill%201125)
 * 01/29/2025 [MyNorthwest](/org/mynorthwest/) - [Activist judges could release violent felons with new bill](https://mynorthwest.com/kiro-opinion/activist-judges-early-release/4033290#:~:text=House%20Bill%201125)
 * 01/29/2025 [MyNorthwest](/org/mynorthwest/) - [Activist judges could release violent felons with new bill](https://mynorthwest.com/ktth/ktth-opinion/activist-judges-early-release/4033290#:~:text=House%20Bill%201125)
 * 01/23/2025 [The Center Square](/org/the_center_square/) - [Washington bill would give judges discretion to reduce sentences of convicted felons | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_76e2516e-d9d5-11ef-bde8-9b56aaa674b3.html#:~:text=House%20Bill%201125)

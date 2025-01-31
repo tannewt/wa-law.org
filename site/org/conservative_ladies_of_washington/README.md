@@ -39,11 +39,13 @@
 
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections  👎1 
 
+### [HB 1504](/bill/2025-26/hb/1504/) - Firearm financial resp.  👎1 
+
 ### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease  👎1 
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
-### [SB 5004](/bill/2025-26/sb/5004/) - Updating emergency response systems in public schools including panic or alert buttons. 👍1  
+### [SB 5004](/bill/2025-26/sb/5004/) - School emergency response 👍1  
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school.  👎3 
 * 👎 Julie Barrett

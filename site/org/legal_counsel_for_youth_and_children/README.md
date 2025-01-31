@@ -9,6 +9,9 @@
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
 
+### [HB 1171](/bill/2025-26/hb/1171/) - Mandated reporting/higher ed 👍1  
+* 👍 Rhea Yo
+
 ### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍1  
 
 ### [HB 1177](/bill/2025-26/hb/1177/) - Concerning the child welfare housing assistance program. 👍1  
@@ -23,6 +26,9 @@
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
+
+### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍1  
+* 👍💵 Roxana Gomez
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
@@ -40,7 +46,7 @@
 
 ### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍1  
 
-### [SB 5128](/bill/2025-26/sb/5128/) - Concerning the provision of medical assistance to individuals in juvenile detention facilities. 👍1  
+### [SB 5128](/bill/2025-26/sb/5128/) - Juvenile detention, medical 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 

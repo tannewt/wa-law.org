@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Hans Frederickson - Frederickson Electric
 
 #### 0 ❓ - Other
