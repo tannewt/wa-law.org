@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/01/2025 [Senate Democrats](/org/senate_democrats/) - [My first newsletter as your senator! - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/01/31/my-first-newsletter-as-your-senator/#:~:text=SB%205193)
+
 ## Meetings
 ### Wed 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5193 Remote testing
 #### 514 👍 - Pro

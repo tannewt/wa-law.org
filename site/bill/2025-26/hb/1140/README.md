@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201140)
+
 ## Meetings
 ### Thu 02/06 08:00 AM - Education (ED): HB 1140 K-12 scholarship program
 Sign up to testify:
@@ -14,10 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32656&aId=162515&caId=25407&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32656&aId=162515&caId=25407&tId=4)
 
-#### 2 👍 - Pro
+#### 44 👍 - Pro
+Testifying:
+* 💵Heather Andrews - Americans for Prosperity Washington
 
-#### 1 👎 - Con
+#### 250 👎 - Con
 Testifying:
 * Justin McKaughan - Molly and Jack’s dad
+* Kailey Mutter
 
 #### 0 ❓ - Other

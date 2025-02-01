@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/31/2025 [FOX13](/org/fox13/) - [WA bill to lower alcohol limit to 0.05% BAC advances | FOX 13 Seattle](https://www.fox13seattle.com/news/bill-alcohol-limit-05-bac#:~:text=Senate%20Bill%205067)
 * 01/15/2025 [The Center Square](/org/the_center_square/) - [Washington pushes to join Utah as second state to lower legal BAC limit to .05 | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_89c3ddcc-d37a-11ef-bd43-1be55febbc3b.html#:~:text=Senate%20Bill%205067)
 * 01/14/2025 [Senate Democrats](/org/senate_democrats/) - [Lovick bill to reduce BAC limit to .05% heard in committee - Sen. John Lovick](https://senatedemocrats.wa.gov/lovick/2025/01/14/lovick-bill-to-reduce-bac-limit-to-05-heard-in-committee/#:~:text=Senate%20Bill%205067)
 * 01/12/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: Welcome to the 2025 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/12/this-week-in-the-senate-week-1-welcome-to-the-2025-session/#:~:text=Senate%20Bill%205067)

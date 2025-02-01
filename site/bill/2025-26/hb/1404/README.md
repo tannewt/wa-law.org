@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201404)
+
 ## Meetings
 ### Mon 02/03 04:00 PM - Appropriations (APP): HB 1404 Free school meals
 Sign up to testify:
@@ -14,8 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162722&caId=25348&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162722&caId=25348&tId=4)
 
-#### 44 👍 - Pro
+#### 236 👍 - Pro
+Testifying:
+* Harper Haroldson-Margel
+* Jenny Choi - Office of Governor Bob Ferguson
+* Karen Brown - WA School Nutrition Association
+* Leeda Beha - WA School Nutrition Association
+* 💵Mitch Denning - Alliance of Educational Associations
 
-#### 58 👎 - Con
+#### 185 👎 - Con
+Testifying:
+* John Axtell
 
 #### 0 ❓ - Other

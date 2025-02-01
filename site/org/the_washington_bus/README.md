@@ -24,6 +24,10 @@
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍3  
 * 👍💵 Edgar Espino
 
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance 👍1  
+
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims 👍1  
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  

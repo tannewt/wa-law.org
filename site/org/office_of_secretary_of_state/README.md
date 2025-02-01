@@ -37,7 +37,8 @@
 * 👎 Stuart Holmes
 * 👎 Brian Hatfield
 
-### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍1  
+### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍2  
+* 👍 Brian Hatfield
 * 👍 Brian Hatfield
 
 ### [SB 5014](/bill/2025-26/sb/5014/) - Concerning election security. 👍3  
@@ -49,8 +50,10 @@
 * 👍 Steve Hobbs
 * 👍 Stuart Holmes
 
-### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍1  
+### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍3  
 * 👍 Steve Hobbs
+* 👍 Brian Hatfield
+* 👍 Stuart Holmes
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration   ❓1
 * ❓ Brian Hatfield

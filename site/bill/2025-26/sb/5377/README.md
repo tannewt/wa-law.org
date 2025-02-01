@@ -14,11 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162810&caId=25282&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162810&caId=25282&tId=4)
 
-#### 36 👍 - Pro
+#### 256 👍 - Pro
 Testifying:
 * Habtamu Asfaw
+* Brad Brotherton - Brotherton Cadillac GMC, Washington State Auto Dealers Association
+* Jaclyn Midkiff - Harvest Auto, Washington State Auto Dealers Association
+* Jen Moran - Carter Motors, Washington State Auto Dealers Association
+* Susan Daaga - Washington State Auto Dealers Association
+* Xavier Cortes - Cortes Auto Group, Washington State Auto Dealers Association
 
-#### 236 👎 - Con
+#### 272 👎 - Con
 Testifying:
 * 💵Noelani Derrickson - [Tesla](/org/tesla/)
 * Angela Tsang
@@ -81,10 +86,18 @@ Testifying:
 * Cameron Hino
 * 💵Mark Brown
 * Eric Jones
+* Charles Michel
 * Wentao Yang
+* Nathan Wilcox
 * Shalini Joshi
+* Eric Zimmerman - Mayor, City of Normandy Park
+* Sergey Stefoglo
 * Yang Chen
 * Sriram Bhaiya
+* Morgan Dacy
+* benjamin wacker
+* Fredrick Saupe
+* suri reddy
 * Alberto Arias Maestro
 * Chu Xu
 * Prayank Mathur
@@ -95,6 +108,7 @@ Testifying:
 * HOSSIEN GHAIBI - Alpine Electronics INC
 * Gerald Umayam
 * Sai Naveen Muppa
+* Nancy Blackketter
 
 #### 3 ❓ - Other
 Testifying:

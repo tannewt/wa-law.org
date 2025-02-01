@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1203/</link>
 		<description>Updates about HB 1203</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 12:10:17 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jan 2025 16:39:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -457,6 +457,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Alex/Wardi/2025-01-31 12:10:17</guid>
+		</item>
+		<item>
+			<title>Washington bill looks to ban flavored vapes, tobacco products | king5.com</title>
+			<description>News article "Washington bill looks to ban flavored vapes, tobacco products | king5.com" from KING5.</description>
+			<pubDate>Fri, 31 Jan 2025 16:33:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/local/washington-bill-ban-flavored-vapes-tobacco-products/281-8cfed3f5-757a-48c0-bd38-01e2fdf40a39#:~:text=House%20Bill%201203</guid>
+		</item>
+		<item>
+			<title>Proposed ban on flavored vapes sparks debate in Washington | king5.com</title>
+			<description>News article "Proposed ban on flavored vapes sparks debate in Washington | king5.com" from KING5.</description>
+			<pubDate>Fri, 31 Jan 2025 16:39:54 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/politics/state-politics/in-session-proposed-ban-on-flavored-vapes-tobacco-wraps-up-week-at-legislature/281-970cb4c7-cbdf-46a8-8a76-baaa42cc3b53#:~:text=Under%20House%20Bill%201203</guid>
 		</item>
 	</channel>
 </rss>

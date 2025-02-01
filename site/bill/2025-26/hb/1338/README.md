@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201338)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=HB%201338)
 
 ## Meetings
@@ -17,16 +18,31 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162721&caId=25347&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162721&caId=25347&tId=4)
 
-#### 71 👍 - Pro
+#### 380 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Jason Perrins - Chewelah School District
 * Kyle Rydell - West valley School District
 * Hilary Kozel - Spokane Public Schools (School Board Member)
 * Maile Esperas - Spokane Public Schools (student)
+* Fred Rundle - Mercer Island School District
+* 💵Kelsi Hamilton - Washington State School Directors' Association
+* 💵Clifford Traisman - Seattle Public Schools (and Bellevue, Highline, Northshore Public School Districts)
+* Dr. Ivan Duran - Superintendent, Highline School District
+* Jacqueline McGourty - School Board Director, Northshore School District
+* William Jackson - Director of Teaching and Learning, Bellevue School District
 * Doug Vanderleestr - WA Association of Maintenance and Operation Administrators
 * 💵Mitch Denning - Alliance of Educational Associations
+* Chris Woods - Superintendent, Yelm Community Schools
+* Jennifer Bethman - Superintendent, Rochester School District
+* Mary Templeton - Lake Stevens School District
+* Michelle Harris
+* 💵Melissa Gombosky - Evergreen and Vancouver Public Schools
+* Tim Merlino - ESD 112 Superintendent
 
-#### 1 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* John Axtell
+* John Axtell
 
 #### 0 ❓ - Other

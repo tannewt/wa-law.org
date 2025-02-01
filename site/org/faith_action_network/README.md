@@ -10,12 +10,16 @@
 
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
+### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
+
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍5  
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
 * 👍💵 Kristin Ang
+
+### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍3  
 
@@ -32,15 +36,19 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 
-## [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍2  
+### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
+
+### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍2  
 * 👍 Katherine Long
 * 👍 Jess Ingman
+
+### [SB 5436](/bill/2025-26/sb/5436/) - Interfering with access to a place of religious worship. 👍1  
+
+## [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
 
 ## 2023-24
 
-### [SB 5369](/bill/2023-24/sb/5369/) - Youth mental health/schools 👍2  
-* 👍 Katherine Long
-* 👍 Jess Ingman
+### [SB 5626](/bill/2023-24/sb/5626/) - Wage replacement 👍1  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Kristin Ang

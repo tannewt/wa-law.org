@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1557/</link>
 		<description>Updates about HB 1557</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 30 Jan 2025 10:06:51 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jan 2025 22:00:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,21 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ruben/Flores/2025-01-30 10:06:51</guid>
+		</item>
+		<item>
+			<title>👍Bill Lyne - United Faculty of Washington State</title>
+			<description>Bill Lyne signed up to testify Pro. They are signed up to represent United Faculty of Washington State.</description>
+			<pubDate>Fri, 31 Jan 2025 10:46:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bill/Lyne/2025-01-31 10:46:24</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201557</guid>
 		</item>
 	</channel>
 </rss>

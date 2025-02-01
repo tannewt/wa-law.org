@@ -47,13 +47,14 @@
 
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
 
-## [SB 5488](/bill/2025-26/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍2  
+### [SB 5488](/bill/2025-26/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍2  
 * 👍💵 Samuel Martin
+
+## [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
 
 ## 2023-24
 
-### [SB 5488](/bill/2023-24/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍2  
-* 👍💵 Samuel Martin
+### [SB 5508](/bill/2023-24/sb/5508/) - Child welfare housing assist 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 

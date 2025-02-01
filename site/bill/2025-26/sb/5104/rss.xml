@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5104 - Protecting employees from coercion in the workplace based on immigration status.</title>
+		<title>SB 5104 - Immigration status coercion</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5104/</link>
 		<description>Updates about SB 5104</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 07:42:06 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -92,6 +92,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Anthony/Stockman/2025-01-20 07:42:06</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-31/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

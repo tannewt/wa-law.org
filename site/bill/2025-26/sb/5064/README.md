@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/23 08:00 AM - Health & Long Term Care (HLTC): SB 5064 Rare diseases adv. council

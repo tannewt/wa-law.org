@@ -17,11 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32693&aId=162793&caId=25265&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32693&aId=162793&caId=25265&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 3 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Nicole Robison
+* 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Grete Schultz - TeamChild
 
 #### 0 ❓ - Other

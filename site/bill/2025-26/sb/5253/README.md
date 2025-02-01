@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/01/2025 [Senate Democrats](/org/senate_democrats/) - [My first newsletter as your senator! - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/01/31/my-first-newsletter-as-your-senator/#:~:text=SB%205253)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205253)
 
 ## Meetings

@@ -18,9 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162896&caId=25327&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162896&caId=25327&tId=4)
 
-#### 137 👍 - Pro
+#### 191 👍 - Pro
+Testifying:
+* Heidi Hunt - Adams County Auditor / WA Assoc of County Auditors
+* Mike Shaw - WA Association of County Officials
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* Stuart Holmes - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 60 👎 - Con
+#### 171 👎 - Con
 Testifying:
 * JENNIFER PANTANO
 

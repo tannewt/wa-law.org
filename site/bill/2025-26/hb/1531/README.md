@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [The Center Square](/org/the_center_square/) - [Washington state public health bill receives lopsided critical testimony | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9f90cb56-e004-11ef-81d1-4b3c6961bacc.html#:~:text=House%20Bill%201531)
 * 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201531)
 
 ## Meetings

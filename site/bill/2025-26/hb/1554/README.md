@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201554)
+
 ## Meetings
 ### Tue 02/04 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1554 College bound scholarship
 Sign up to testify:

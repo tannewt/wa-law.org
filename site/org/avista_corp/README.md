@@ -6,6 +6,8 @@
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy   ❓1
 * ❓💵 John Rothlin
 
+### [HB 1643](/bill/2025-26/hb/1643/) - Utility facility removal  👎1 
+
 ## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system   ❓1
 * ❓💵 John Rothlin
 

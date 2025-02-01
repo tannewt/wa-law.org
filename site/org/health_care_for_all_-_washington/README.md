@@ -9,13 +9,14 @@
 
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍1  
 
-## [SB 5086](/bill/2025-26/sb/5086/) - PEBB & SEBB consolidation 👍1  
+### [SB 5086](/bill/2025-26/sb/5086/) - PEBB & SEBB consolidation 👍1  
 * 👍 Ronnie Shure
+
+## [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 
 ## 2023-24
 
-### [SB 5086](/bill/2023-24/sb/5086/) - PEBB & SEBB consolidation 👍1  
-* 👍 Ronnie Shure
+### [SB 5480](/bill/2023-24/sb/5480/) - Medical debt 👍1  
 
 ### [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 * 👍 Ronnie Shure

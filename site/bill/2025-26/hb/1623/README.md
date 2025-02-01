@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/05 08:00 AM - Labor & Workplace Standards (LAWS): HB 1623 Tips/credit card fees
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=163047&caId=25512&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=163047&caId=25512&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=163047&caId=25512&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=163047&caId=25512&tId=4)
+
+#### 0 👍 - Pro
+
+#### 3 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/04 10:30 AM - Labor & Workplace Standards (LAWS): HB 1623 Tips/credit card fees
 Sign up to testify:
 * [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162705&caId=25452&tId=1)
@@ -14,8 +27,8 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162705&caId=25452&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162705&caId=25452&tId=4)
 
-#### 0 👍 - Pro
+#### 10 👍 - Pro
 
-#### 16 👎 - Con
+#### 20 👎 - Con
 
 #### 0 ❓ - Other

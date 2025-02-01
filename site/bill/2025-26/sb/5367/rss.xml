@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5367/</link>
 		<description>Updates about SB 5367</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jan 2025 03:02:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,22 @@
 			<pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-20/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>❓💵Teresa Taylor - (WACOPS) Washington Council of Police &amp; Sheriffs</title>
+			<description>Teresa Taylor signed up to testify Other. They are signed up to represent (WACOPS) Washington Council of Police &amp; Sheriffs. They are a registered lobbyist.</description>
+			<pubDate>Fri, 31 Jan 2025 01:59:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Teresa/Taylor/2025-01-31 01:59:32</guid>
+		</item>
+		<item>
+			<title>❓Priscilla Lisicich - self</title>
+			<description>Priscilla Lisicich signed up to testify Other. They are signed up to represent self.</description>
+			<pubDate>Fri, 31 Jan 2025 03:02:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Priscilla/Lisicich/2025-01-31 03:02:28</guid>
 		</item>
 	</channel>
 </rss>

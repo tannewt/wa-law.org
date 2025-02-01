@@ -31,11 +31,13 @@
 
 ### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties 👍1  
 
-## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+
+## [SB 5525](/bill/2025-26/sb/5525/) - Layoffs 👍1  
 
 ## 2023-24
 
-### [SB 5466](/bill/2023-24/sb/5466/) - Electric transmission system 👍1  
+### [SB 5525](/bill/2023-24/sb/5525/) - Layoffs 👍1  
 
 ### [HB 1746](/bill/2023-24/hb/1746/) - State broadband map 👍2  
 * 👍 Fernando Roman

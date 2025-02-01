@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162393&caId=25290&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162393&caId=25290&tId=4)
 
-#### 3 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Arthur West
+* 💵Adam Zarrin - [Leukemia & Lymphoma Society](/org/leukemia_&_lymphoma_society/)
+* Amanda Martin - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
+* Julia Kellison - Northwest Justice Project
 
 #### 2 👎 - Con
 Testifying:

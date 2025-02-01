@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5062/</link>
 		<description>Updates about SB 5062</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 16:49:21 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jan 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -163,6 +163,13 @@
 			<pubDate>Mon, 27 Jan 2025 16:49:21 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/2025session-week3/#:~:text=SB%205062</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-31/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

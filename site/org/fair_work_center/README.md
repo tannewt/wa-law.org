@@ -17,7 +17,7 @@
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍2  
 * 👍 Danielle Alvarado
 
-### [SB 5104](/bill/2025-26/sb/5104/) - Protecting employees from coercion in the workplace based on immigration status. 👍2  
+### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍2  
 * 👍 Jeremiah Miller
 
 ## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  

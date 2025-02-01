@@ -14,9 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32673&aId=162598&caId=25225&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32673&aId=162598&caId=25225&tId=4)
 
-#### 27 👍 - Pro
+#### 183 👍 - Pro
 Testifying:
 * Pyper Hayden
+* Meghin Margel
+* Harper Haroldson-Margel
+* Jenny Choi - Governor Ferguson's Office
+* Karen Brown - WA School Nutrition Association
+* Leeda Beha - WA School Nutrition Association
+* 💵Mitch Denning - Alliance of Educational Associations
 
 #### 0 👎 - Con
 

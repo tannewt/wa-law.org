@@ -187,7 +187,7 @@
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  
 * 👍💵 Morgan Irwin
 
-### [SB 5104](/bill/2025-26/sb/5104/) - Protecting employees from coercion in the workplace based on immigration status.   ❓1
+### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion   ❓1
 * ❓💵 Lindsey Hueer
 
 ### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍1  

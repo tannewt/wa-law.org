@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201099)
+
 ## Meetings
 ### Tue 02/04 04:00 PM - Housing (HOUS): HB 1099 Tenant assistance program
 Sign up to testify:
@@ -14,11 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32645&aId=162479&caId=25447&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32645&aId=162479&caId=25447&tId=4)
 
-#### 25 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Constance Nelson
 * 💵Chester Baldwin - Rental Housing Assn Coalition (RHAC)
 
-#### 4 👎 - Con
+#### 16 👎 - Con
 
 #### 0 ❓ - Other

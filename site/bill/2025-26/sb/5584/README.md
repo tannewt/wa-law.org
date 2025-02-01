@@ -14,11 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162921&caId=25293&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162921&caId=25293&tId=4)
 
-#### 5 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Arthur West
 * Kurtis Robinson - I Did The Time/ Revive Center For Returning Citizens
 
-#### 0 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Pauly Giuglianotti - Partnership for a Truly Independent Prosecutor
+* Ryan Lufkin - (WACOPS) Washington Council of Police & Sheriffs
+* 💵Teresa Taylor - (WACOPS) Washington Council of Police & Sheriffs
+* TERI ROGERS KEMP - The Black Community Lobby
 
 #### 0 ❓ - Other

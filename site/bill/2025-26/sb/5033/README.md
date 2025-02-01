@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162452&caId=25240&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162452&caId=25240&tId=4)
 
-#### 39 👍 - Pro
+#### 128 👍 - Pro
+Testifying:
+* Richard Honour
 
 #### 0 👎 - Con
 

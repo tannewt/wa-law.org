@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162465&caId=25435&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162465&caId=25435&tId=4)
 
-#### 7 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Esther Lucero - Seattle Indian Health Board
 

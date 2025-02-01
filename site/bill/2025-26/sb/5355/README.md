@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32691&aId=162759&caId=25255&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32691&aId=162759&caId=25255&tId=4)
 
-#### 20 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * 💵Collin Bannister - The Washington Student Association
 * Alice Zborovskiy - University of Washington Seattle ASUW Sexual Assault and Relationship Violence Activists
+* Emma Pedro - WWU Generation Action
+* Zoie Mastin
+* Naira Gonzales Aranda
+* Kiana Swearingen - University of Washington Office of the Title IX Coordinator
+* 💵Nora Selander - Western Washington University / Council of Presidents
 
-#### 62 👎 - Con
+#### 178 👎 - Con
 
 #### 0 ❓ - Other
 

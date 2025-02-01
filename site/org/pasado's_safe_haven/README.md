@@ -5,10 +5,15 @@
 
 ### [HB 1078](/bill/2025-26/hb/1078/) - Pet insurance 👍1  
 
+### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor.   ❓2
+* ❓💵 Kirsten Gregory
+
 ### [HB 1149](/bill/2025-26/hb/1149/) - Cruelty to animals 👍2  
 * 👍💵 Kirsten Gregory
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
+
+### [HB 1735](/bill/2025-26/hb/1735/) - Force-feeding of birds 👍1  
 
 ### [SB 5065](/bill/2025-26/sb/5065/) - Traveling animal acts 👍1  
 

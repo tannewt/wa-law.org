@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201433)
 * 01/30/2025 [The Center Square](/org/the_center_square/) - [From ‘Just Say No’ to ‘Maybe So’? Olympia reconsiders legalizing psychedelics | National | thecentersquare.com](https://www.thecentersquare.com/national/article_1e0683ca-df53-11ef-a4a4-77a2f4145668.html#:~:text=House%20Bill%201433)
 
 ## Meetings
@@ -17,13 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162467&caId=25437&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162467&caId=25437&tId=4)
 
-#### 3 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * David Platt
 * Allison King
 * Sunil Aggarwal
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

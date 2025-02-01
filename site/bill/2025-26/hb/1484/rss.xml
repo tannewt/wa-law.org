@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1484/</link>
 		<description>Updates about HB 1484</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 21 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jan 2025 02:24:55 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-21/First reading, referred to Community Safety.</guid>
+		</item>
+		<item>
+			<title>👍Laurel Smith - Clark County Prosecuting Attorney's Office</title>
+			<description>Laurel Smith signed up to testify Pro. They are signed up to represent Clark County Prosecuting Attorney's Office.</description>
+			<pubDate>Fri, 31 Jan 2025 02:24:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Laurel/Smith/2025-01-31 02:24:55</guid>
 		</item>
 	</channel>
 </rss>

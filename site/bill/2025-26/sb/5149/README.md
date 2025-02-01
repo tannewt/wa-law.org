@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/01/2025 [Senate Democrats](/org/senate_democrats/) - [My first newsletter as your senator! - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/01/31/my-first-newsletter-as-your-senator/#:~:text=SB%205149)
+
 ## Meetings
 ### Wed 01/22 08:00 AM - Human Services (HS): SB 5149 Early childhood court prg.
 #### 21 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1217/</link>
 		<description>Updates about HB 1217</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 09:43:19 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jan 2025 22:59:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1707,12 +1707,42 @@
 			<guid isPermaLink="false">testifier/Tim/Eyman/2025-01-30 10:22:05</guid>
 		</item>
 		<item>
+			<title>👎Laurie Layne - INITIATIVE ACTIVIST</title>
+			<description>Laurie Layne signed up to testify Con.</description>
+			<pubDate>Fri, 31 Jan 2025 04:54:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Laurie/Layne/2025-01-31 04:54:33</guid>
+		</item>
+		<item>
+			<title>👎Bruce Becker - Bruce Becker</title>
+			<description>Bruce Becker signed up to testify Con. They are signed up to represent Bruce Becker.</description>
+			<pubDate>Fri, 31 Jan 2025 05:48:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bruce/Becker/2025-01-31 05:48:12</guid>
+		</item>
+		<item>
 			<title>👎Kari Koszdin - Self employed</title>
 			<description>Kari Koszdin signed up to testify Con. They are signed up to represent Self employed.</description>
 			<pubDate>Fri, 31 Jan 2025 09:43:19 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Kari/Koszdin/2025-01-31 09:43:19</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201217</guid>
+		</item>
+		<item>
+			<title>Rolling Out The Urbanist 2025’s Advocacy Agenda and Early Events - The Urbanist</title>
+			<description>News article "Rolling Out The Urbanist 2025’s Advocacy Agenda and Early Events - The Urbanist" from The Urbanist.</description>
+			<pubDate>Fri, 31 Jan 2025 22:59:44 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2025/01/31/the-urbanist-2025s-advocacy-agenda/#:~:text=House%20Bill%201217</guid>
 		</item>
 	</channel>
 </rss>

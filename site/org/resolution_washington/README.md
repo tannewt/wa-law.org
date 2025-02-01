@@ -1,6 +1,9 @@
 # Resolution Washington
 ## 2025-26
 
+### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍1  
+* 👍 LaDessa Croucher
+
 ## [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
 * 👍 LaDessa Croucher
 

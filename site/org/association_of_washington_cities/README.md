@@ -79,6 +79,9 @@
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 
+### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
+* 👍💵 Candice Bock
+
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings   ❓1
 * ❓💵 Carl Schroeder
 
@@ -91,6 +94,9 @@
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+* 👍💵 Candice Bock
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
 
@@ -101,7 +107,8 @@
 ### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates  👎3 
 * 👎💵 Carl Schroeder
 
-### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
+### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
@@ -143,11 +150,15 @@
 
 ### [SB 5381](/bill/2025-26/sb/5381/) - Self-insurer withdrawal 👍1  
 
-## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
+### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
+
+## [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
+* 👍💵 Candice Bock
 
 ## 2023-24
 
-### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction 👍1  
+### [SB 5547](/bill/2023-24/sb/5547/) - Cannabis revenue/local gov. 👍1  
+* 👍💵 Candice Bock
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

@@ -7,6 +7,8 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ PAULA REED
 
+### [HB 1211](/bill/2025-26/hb/1211/) - Clergy, duty to report abuse 👍1  
+
 ### [HB 1459](/bill/2025-26/hb/1459/) - Child fatalities 👍1  
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  
@@ -19,6 +21,8 @@
 * ❓ PAULA REED
 
 ### [SB 5227](/bill/2025-26/sb/5227/) - Concerning offenses involving child sex dolls. 👍1  
+
+### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
 
 ## [SB 5375](/bill/2025-26/sb/5375/) - Clergy, duty to report abuse 👍1  
 

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201676)
+
 ## Meetings
 ### Mon 02/03 01:30 PM - Education (ED): HB 1676 Charter school contracts
 Sign up to testify:
@@ -14,9 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162509&caId=25404&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162509&caId=25404&tId=4)
 
-#### 26 👍 - Pro
+#### 90 👍 - Pro
+Testifying:
+* Julie Kennedy
+* John Axtell
+* Tom Sweeney
 
-#### 1 👎 - Con
+#### 267 👎 - Con
 Testifying:
 * Justin Mckaughan - Dad and Educator from
 

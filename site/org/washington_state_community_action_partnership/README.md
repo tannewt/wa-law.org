@@ -11,7 +11,7 @@
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 * 👍 Jeff DeLuca
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
 
@@ -33,11 +33,13 @@
 
 ### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
 
-## [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings 👍1  
+### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings 👍1  
+
+## [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 
 ## 2023-24
 
-### [SB 5332](/bill/2023-24/sb/5332/) - Mobile dwellings 👍1  
+### [SB 5541](/bill/2023-24/sb/5541/) - Future fund pilot project 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 

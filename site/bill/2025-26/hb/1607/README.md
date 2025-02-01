@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201607)
+
 ## Meetings
 ### Mon 02/03 01:30 PM - Environment & Energy (ENVI): HB 1607 Recycling & waste reduction
 Sign up to testify:
@@ -14,8 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32650&aId=162496&caId=25408&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32650&aId=162496&caId=25408&tId=4)
 
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Hannah Martinez - Indorama Ventures
 
-#### 0 👎 - Con
+#### 10 👎 - Con
+Testifying:
+* Brian Coddington - Sunshine Disposal & Recycling
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Jay Balasbas - Basin Disposal and Consolidated Disposal Services Inc.
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201568)
+
 ## Meetings
 ### Wed 02/05 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1568 Financial aid eligibility
 Sign up to testify:
@@ -14,10 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162623&caId=25470&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162623&caId=25470&tId=4)
 
-#### 34 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * 💵Edgar Espino - [The Washington Bus](/org/the_washington_bus/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

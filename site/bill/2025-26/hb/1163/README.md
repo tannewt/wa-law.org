@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [FOX13](/org/fox13/) - [3 controversial WA gun bills move out of committee | FOX 13 Seattle](https://www.fox13seattle.com/news/controversial-gun-bills-move-committee#:~:text=HB%201163)
 * 01/31/2025 [Washington State Standard](/org/washington_state_standard/) - [Plans for new gun regulations progress in Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/01/31/plans-for-new-gun-regulations-progress-in-washington-legislature/#:~:text=House%20Bill%201163)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=HB%201163)
 * 01/22/2025 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Preventing and Reducing Gun Violence and Suicide - WSPTA](https://www.wastatepta.org/wspta-testifies-preventing-and-reducing-gun-violence-and-suicide/#:~:text=HB%201163)

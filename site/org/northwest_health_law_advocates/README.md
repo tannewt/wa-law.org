@@ -15,6 +15,8 @@
 
 ### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  
 
+### [HB 1583](/bill/2025-26/hb/1583/) - Concerning medicaid coverage for traditional health care practices. 👍1  
+
 ### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
 * 👍💵 Emily Brice
 

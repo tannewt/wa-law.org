@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1299/</link>
 		<description>Updates about HB 1299</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 15:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jan 2025 22:00:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,7 +30,31 @@
 			<guid isPermaLink="true">https://www.sightline.org/2025/01/16/washington-bill-would-cap-excessive-parking-mandates-around-the-state/#:~:text=HB%201299</guid>
 		</item>
 		<item>
-			<title>👍Scott Bonjukian - Washington State University</title>
+			<title>👍Daniel Herriges - Parking Reform Network</title>
+			<description>Daniel Herriges signed up to testify Pro. They are signed up to represent Parking Reform Network.</description>
+			<pubDate>Fri, 31 Jan 2025 01:00:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Daniel/Herriges/2025-01-31 01:00:45</guid>
+		</item>
+		<item>
+			<title>👍Ron Davis - Sightline, on behalf of the coalition we have gathered</title>
+			<description>Ron Davis signed up to testify Pro. They are signed up to represent Sightline, on behalf of the coalition we have gathered.</description>
+			<pubDate>Fri, 31 Jan 2025 02:19:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ron/Davis/2025-01-31 02:19:31</guid>
+		</item>
+		<item>
+			<title>👍Sonja Max - Sightline, on behalf of the coalition we have gathered</title>
+			<description>Sonja Max signed up to testify Pro.</description>
+			<pubDate>Fri, 31 Jan 2025 06:16:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sonja/Max/2025-01-31 06:16:14</guid>
+		</item>
+		<item>
+			<title>👍Scott Bonjukian - Sightline, on behalf of the coalition we have gathered</title>
 			<description>Scott Bonjukian signed up to testify Pro.</description>
 			<pubDate>Fri, 31 Jan 2025 07:26:20 GMT</pubDate>
 			<category>testifier</category>
@@ -38,11 +62,50 @@
 			<guid isPermaLink="false">testifier/Scott/Bonjukian/2025-01-31 07:26:20</guid>
 		</item>
 		<item>
+			<title>👍Catie Gould - Sightline Institute</title>
+			<description>Catie Gould signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/sightline_institute/"&gt;Sightline Institute&lt;/a&gt;.</description>
+			<pubDate>Fri, 31 Jan 2025 11:34:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Catie/Gould/2025-01-31 11:34:07</guid>
+		</item>
+		<item>
+			<title>👍Kevin Maas - Sightline Institute</title>
+			<description>Kevin Maas signed up to testify Pro.</description>
+			<pubDate>Fri, 31 Jan 2025 12:09:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kevin/Maas/2025-01-31 12:09:04</guid>
+		</item>
+		<item>
+			<title>👍Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA</title>
+			<description>Blake Lyon signed up to testify Pro. They are signed up to represent Director of Planning and Community Development for the City of Bellingham, WA.</description>
+			<pubDate>Fri, 31 Jan 2025 12:33:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Blake/Lyon/2025-01-31 12:33:13</guid>
+		</item>
+		<item>
+			<title>👍Nicholas Carr - Office of the Governor</title>
+			<description>Nicholas Carr signed up to testify Pro. They are signed up to represent Office of the Governor.</description>
+			<pubDate>Fri, 31 Jan 2025 12:57:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nicholas/Carr/2025-01-31 12:57:56</guid>
+		</item>
+		<item>
 			<title>The 4 Big Reasons Why States Should Ditch Parking Mandates | Sightline Institute</title>
 			<description>News article "The 4 Big Reasons Why States Should Ditch Parking Mandates | Sightline Institute" from Sightline Institute.</description>
 			<pubDate>Fri, 31 Jan 2025 15:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.sightline.org/2025/01/31/the-4-big-reasons-why-states-should-ditch-parking-mandates/#:~:text=HB%201299</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201299</guid>
 		</item>
 	</channel>
 </rss>

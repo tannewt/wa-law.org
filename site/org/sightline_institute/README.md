@@ -11,6 +11,9 @@
 
 ### [HB 1223](/bill/2025-26/hb/1223/) - Voter challenges 👍1  
 
+### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements 👍1  
+* 👍 Catie Gould
+
 ### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections 👍1  
 * 👍💵 Shannon Grimes
 
@@ -24,6 +27,9 @@
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 * 👍💵 Laura Feinstein
+
+### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
+* 👍💵 Emily Moore
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
 

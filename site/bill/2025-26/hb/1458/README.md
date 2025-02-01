@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201458)
+
 ## Meetings
 ### Wed 02/05 08:00 AM - Local Government (LG): HB 1458 Embodied carbon/buildings
 Sign up to testify:
@@ -14,8 +17,8 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162653&caId=25464&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162653&caId=25464&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 
-#### 1 👎 - Con
+#### 37 👎 - Con
 
 #### 0 ❓ - Other

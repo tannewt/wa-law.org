@@ -4,10 +4,15 @@
 ### [HB 1004](/bill/2025-26/hb/1004/) - Increasing the personal property tax exemption. 👍1  
 * 👍💵 Mark Johnson
 
+### [HB 1016](/bill/2025-26/hb/1016/) - Providing employer tax incentives for the support of veterans and military families. 👍1  
+* 👍💵 Mark Johnson
+
 ### [HB 1023](/bill/2025-26/hb/1023/) - Cosmetology compact 👍2  
 
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍1  
 * 👍💵 Mark Johnson
+
+### [HB 1095](/bill/2025-26/hb/1095/) - Law enforcement funding 👍1  
 
 ### [HB 1107](/bill/2025-26/hb/1107/) - Concerning environmental impacts of fashion.  👎1 
 * 👎💵 Crystal Leatherman
@@ -51,11 +56,30 @@
 
 ### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍1  
 
+### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
+* 👍💵 Mark Johnson
+
+### [HB 1433](/bill/2025-26/hb/1433/) - Psychedelic substances 👍1  
+* 👍💵 Mark Johnson
+
+### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
+* 👍💵 Mark Johnson
+
+### [HB 1436](/bill/2025-26/hb/1436/) - Law enf. officers/increase 👍1  
+
 ### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair   ❓1
 * ❓💵 Crystal Leatherman
 
+### [HB 1504](/bill/2025-26/hb/1504/) - Firearm financial resp.   ❓1
+* ❓💵 Mark Johnson
+
 ### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor 👍1  
 * 👍💵 Mark Johnson
+
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction   ❓1
+* ❓💵 Mark Johnson
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
 
@@ -66,8 +90,9 @@
 ### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates   ❓1
 * ❓💵 Mark Johnson
 
-### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
+### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 * 👍💵 Crystal Leatherman
+* 👍💵 Mark Johnson
 
 ### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍1  
 * 👍💵 Mark Johnson
@@ -80,6 +105,9 @@
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers   ❓1
 * ❓💵 Mark Johnson
 
+### [SB 5201](/bill/2025-26/sb/5201/) - Psychedelic substances 👍1  
+* 👍💵 Mark Johnson
+
 ### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍1  
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓1
@@ -90,6 +118,17 @@
 
 ### [SB 5315](/bill/2025-26/sb/5315/) - Local tax rate changes 👍1  
 * 👍💵 Mark Johnson
+
+### [SB 5367](/bill/2025-26/sb/5367/) - Law enf. community grants 👍1  
+
+### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions 👍1  
+
+### [SB 5405](/bill/2025-26/sb/5405/) - Estate tax exclusion amount 👍1  
+
+### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential 👍1  
+* 👍💵 Mark Johnson
+
+### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
 ## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction   ❓1
 * ❓💵 Mark Johnson

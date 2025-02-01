@@ -18,6 +18,9 @@
 
 ### [HB 1045](/bill/2025-26/hb/1045/) - Uniformed personnel 👍1  
 
+### [HB 1051](/bill/2025-26/hb/1051/) - IEP team meetings/recording  👎1 
+* 👎 Jared Mason-Gere
+
 ### [HB 1068](/bill/2025-26/hb/1068/) - DOC WMS employee arbitration 👍1  
 
 ### [HB 1069](/bill/2025-26/hb/1069/) - Supp. retirement bargaining 👍1  
@@ -41,6 +44,8 @@
 
 ### [HB 1136](/bill/2025-26/hb/1136/) - Student navigational support 👍2  
 * 👍💵 Simone Boe
+
+### [HB 1140](/bill/2025-26/hb/1140/) - Establishing empowerED scholarships using educational savings accounts.  👎1 
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
 
@@ -136,6 +141,10 @@
 ### [HB 1450](/bill/2025-26/hb/1450/) - Transition to kindergarten  👎5 
 * 👎💵 Julie Salvi
 
+### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase   ❓2
+* ❓ Jared Mason-Gere
+* ❓ Jared Mason-Gere
+
 ### [HB 1511](/bill/2025-26/hb/1511/) - Ferry captains 👍1  
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
@@ -195,7 +204,7 @@
 
 ### [SB 5101](/bill/2025-26/sb/5101/) - Expanding access to leave and safety accommodations to include workers who are victims of hate crimes or bias incidents. 👍1  
 
-### [SB 5104](/bill/2025-26/sb/5104/) - Protecting employees from coercion in the workplace based on immigration status. 👍1  
+### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
 
 ### [SB 5106](/bill/2025-26/sb/5106/) - Establishing Eid al-Fitr and Eid al-Adha as state holidays. 👍1  
 
@@ -284,7 +293,7 @@
 
 ### [SB 5275](/bill/2025-26/sb/5275/) - Modifying funding and award levels for the passport to careers program and eligibility for the Washington college grant. 👍1  
 
-### [SB 5291](/bill/2025-26/sb/5291/) - Implementing the recommendations of the long-term services and supports trust commission. 👍2  
+### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍2  
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
 

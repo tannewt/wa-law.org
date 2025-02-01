@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201442)
+
 ## Meetings
 ### Wed 02/05 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1442 Gray wolf management
 Sign up to testify:
@@ -14,9 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162491&caId=25345&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162491&caId=25345&tId=4)
 
-#### 10 👍 - Pro
+#### 41 👍 - Pro
+Testifying:
+* Zack Trudell - Ferry County Board of County Commissioners
 
-#### 16 👎 - Con
+#### 220 👎 - Con
 Testifying:
 * David Linn
 

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201180)
+
 ## Meetings
 ### Mon 02/03 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1180 Sex offender failure to reg.
 Sign up to testify:
@@ -14,9 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162668&caId=25371&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162668&caId=25371&tId=4)
 
-#### 10 👍 - Pro
+#### 157 👍 - Pro
 Testifying:
 * Kate Benward
+* Brad Meryhew - Sex Offender Policy Board
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
+* Jill Anderson - Snohomish County Public Defender Association
+* Joanne Smieja - WA Voices
+* Priscilla Hannon
 
 #### 1 👎 - Con
 Testifying:

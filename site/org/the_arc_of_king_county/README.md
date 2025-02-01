@@ -66,10 +66,16 @@
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 
+### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
+
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍3  
 * 👍💵 Ramona Hattendorf
 
+### [SB 5310](/bill/2025-26/sb/5310/) - Child care subsidy rates  👎1 
+
 ### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍1  
+
+### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
 
 ## [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 

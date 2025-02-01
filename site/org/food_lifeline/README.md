@@ -6,14 +6,16 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍💵 Aaron Czyzewski
 
-### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
+### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍3  
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
 * ❓💵 Aaron Czyzewski
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍4  
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
+
+### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍3  
 
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍4  
 * 👍💵 Aaron Czyzewski
@@ -25,11 +27,13 @@
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 
-## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
+
+## [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍3  
 
 ## 2023-24
 
-### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants 👍2  
+### [SB 5352](/bill/2023-24/sb/5352/) - Free school meals 👍3  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍4  
 * 👍💵 Aaron Czyzewski

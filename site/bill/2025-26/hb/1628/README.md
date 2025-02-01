@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32668&aId=162559&caId=25474&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32668&aId=162559&caId=25474&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Dave Kokot - WA State Association of Fire Marshals
+* Leonard Johnson - 125 Delphi Road NW
 
 #### 0 👎 - Con
 

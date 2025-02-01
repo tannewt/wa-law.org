@@ -71,7 +71,15 @@
 
 ### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍3  
 
+### [SB 5260](/bill/2025-26/sb/5260/) - Juvenile correctional pop.   ❓1
+* ❓💵 Sarah Nagy
+
 ### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
+
+### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile correctional pop.  👎1 
+* 👎💵 Sarah Nagy
+
+### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍1  
 
 ### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍1  
 

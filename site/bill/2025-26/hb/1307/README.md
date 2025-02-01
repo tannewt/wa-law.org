@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201307)
+
 ## Meetings
 ### Fri 02/07 01:30 PM - Finance (FIN): HB 1307 Child care product sales tax
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162441&caId=25429&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162441&caId=25429&tId=4)
 
-#### 1 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Aleah Patulot - [Catholic Community Services of Western Washington](/org/catholic_community_services_of_western_washington/)
 

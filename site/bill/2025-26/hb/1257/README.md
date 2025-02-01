@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201257)
+
 ## Meetings
 ### Mon 02/03 01:30 PM - Education (ED): HB 1257 Special education services
 Sign up to testify:
@@ -14,9 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162506&caId=25401&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162506&caId=25401&tId=4)
 
-#### 6 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Kathy McDonald
+* 💵Alex Hur - Communities in Schools of Washington
+* John Axtell
+* Emilie Robertson - Arch of wa myself
+* Emilie Robertson - Arch of wa
+* Richard Pope - Parent of Special Education Student who "Aged Out" Last Week
 
 #### 0 👎 - Con
 

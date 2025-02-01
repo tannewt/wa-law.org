@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201504)
 * 01/22/2025 [The Center Square](/org/the_center_square/) - [House Democrat pushes bill requiring liability policy to buy or possess firearms | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5d3707ec-d8f8-11ef-887b-dbfe2e974c57.html#:~:text=House%20Bill%201504)
 
 ## Meetings
@@ -17,11 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162744&caId=25366&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162744&caId=25366&tId=4)
 
-#### 14 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Brent Mattila - Official representative
 
-#### 3138 👎 - Con
+#### 4924 👎 - Con
 Testifying:
 * Teodorin Morca
 * Casey Schaufler
@@ -50,12 +51,43 @@ Testifying:
 * Cody Wyand
 * Michael McKinley
 * Bailey Bressler
+* Jesse Ladd
+* Morgan Kemper - 925 cemetery rd
+* Roland Turturean
+* John Caverly
+* Anthony Kurosu
+* Beni Ieremie
 * Toby Starcher
+* Adam Fossa
+* John McMurtry
+* Devin Boyd
+* Nathaniel Gumm
+* Jordan Douglas
+* Nathan Hawn
+* Cory Silves
+* Nick Spring
+* Marissa Klumpp
+* Reece Sanderson
+* Reed Robinson
+* Charles Hansen
+* Theresa Funkhouser
+* Erik Bucio
+* Laurent Lavigne
 * Breanna Hulett
+* Scott Tinney - self
+* Ryan Zazeski
 * Jon Bergstrom - Kirtley Cole Construction
+* Jason cox
+* Michael Ethridge
+* Owen Krueger
+* Leslie Hodel
 * Paul Rivard
+* Jodie Ethridge
 * Jesse Dinius
+* Friland Aliaj
 * Ryland Kinnan
+* Garrett O’Sullivan
+* Ginger Benedict
 * Cooper Boyer
 * Donald Parker
 * Josue Rico
@@ -64,6 +96,15 @@ Testifying:
 * Thorin Ostling
 * Josue Rico
 * Jennifer Crandall
+* Jaymar Imperial
+* Nic Polzin
+* Trevor Hare
+* Vongvichith Chan
+* Dakota Hernandez
 * Michael Beardslee
+* nevada pimentel
 
-#### 6 ❓ - Other
+#### 12 ❓ - Other
+Testifying:
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Penny Rector

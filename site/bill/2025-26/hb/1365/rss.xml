@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1365/</link>
 		<description>Updates about HB 1365</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 05:39:35 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jan 2025 11:03:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -88,12 +88,36 @@
 			<guid isPermaLink="false">testifier/Eldean/Montgomery/2025-01-30 07:50:14</guid>
 		</item>
 		<item>
+			<title>👎Kyle Fleck - 2</title>
+			<description>Kyle Fleck signed up to testify Con.</description>
+			<pubDate>Fri, 31 Jan 2025 02:08:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kyle/Fleck/2025-01-31 02:08:55</guid>
+		</item>
+		<item>
+			<title>👎Lonnie Stoddard - 2</title>
+			<description>Lonnie Stoddard signed up to testify Con.</description>
+			<pubDate>Fri, 31 Jan 2025 03:17:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Lonnie/Stoddard/2025-01-31 03:17:38</guid>
+		</item>
+		<item>
 			<title>👎Sheila Mulligan - 2</title>
 			<description>Sheila Mulligan signed up to testify Con.</description>
 			<pubDate>Fri, 31 Jan 2025 05:39:35 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Sheila/Mulligan/2025-01-31 05:39:35</guid>
+		</item>
+		<item>
+			<title>👎Theresa Skrentny - AMHO</title>
+			<description>Theresa Skrentny signed up to testify Con. They are signed up to represent AMHO.</description>
+			<pubDate>Fri, 31 Jan 2025 11:03:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Theresa/Skrentny/2025-01-31 11:03:27</guid>
 		</item>
 	</channel>
 </rss>

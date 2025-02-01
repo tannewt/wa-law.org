@@ -17,8 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32671&aId=162574&caId=25306&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32671&aId=162574&caId=25306&tId=4)
 
-#### 1 👍 - Pro
+#### 113 👍 - Pro
 
-#### 8 👎 - Con
+#### 27 👎 - Con
+Testifying:
+* John Morgan
 
 #### 0 ❓ - Other

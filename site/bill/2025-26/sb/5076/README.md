@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/16 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5076 Nonspot shrimp pot license

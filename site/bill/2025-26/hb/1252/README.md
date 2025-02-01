@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201252)
 * 01/29/2025 [KING5](/org/king5/) - [Drivers eluding police could face stricter bail under proposed bill | king5.com](https://www.king5.com/article/news/politics/state-politics/washington-law-would-change-how-judges-treat-drivers-run-from-police/281-29792d75-9aac-4d30-9c69-5e46f8ecdb45#:~:text=House%20Bill%201532)
 
 ## Meetings
@@ -21,6 +22,6 @@ Sign up to testify:
 Testifying:
 * Derek Sanders - Thurston County Sheriff's Office
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

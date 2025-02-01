@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [Cascade PBS](/org/cascade_pbs/) - [Lawmakers mull limit on out-of-state National Guard access in WA | Cascade PBS](https://crosscut.com/briefs/2025/01/lawmakers-mull-limit-out-state-national-guard-access-wa#:~:text=House%20Bill%201321)
 * 01/30/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington bill would restrict when outside National Guard troops can enter the state • Washington State Standard](https://washingtonstatestandard.com/2025/01/30/washington-bill-would-restrict-when-outside-national-guard-troops-can-enter-the-state/#:~:text=House%20Bill%201321)
 * 01/29/2025 [FOX13](/org/fox13/) - [WA lawmakers consider bill to restrict outside militias | FOX 13 Seattle](https://www.fox13seattle.com/news/lawmakers-consider-bill-outside-militias#:~:text=House%20Bill%201321)
 * 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201321)

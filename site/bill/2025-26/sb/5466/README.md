@@ -25,7 +25,7 @@ Testifying:
 * 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 9 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * George Lynch - Washington State Department of Commerce
 * 💵Vicki Christophersen - Northwest and Intermountain Power Producers Coalition
@@ -34,3 +34,4 @@ Testifying:
 * Ryan Roy - Western Power Pool
 * 💵Nicolas Garcia - WPUDA
 * 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+* 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)

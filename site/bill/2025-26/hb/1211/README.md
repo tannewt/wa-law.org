@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201211)
 * 01/28/2025 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers renew push to make clergy report child abuse • Washington State Standard](https://washingtonstatestandard.com/2025/01/28/washington-lawmakers-renew-push-to-make-clergy-report-child-abuse/#:~:text=House%20Bill%201211)
 
 ## Meetings
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162529&caId=25391&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162529&caId=25391&tId=4)
 
-#### 26 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * Robert Fontana
 * Lori Fontana
@@ -26,8 +27,17 @@ Testifying:
 * Sharon Huling - Clergy Accountability Coalition
 * Mitch Melin - Clergy Accountability Coalition - Former Jehovah's Witness
 * Rev. James Connell
+* Ryan Dudley - FFRF Action Fund
+* Melissa Nevarez
+* Madeline Hoxsey
+* Annelise Orozco
+* Carson Suyetsugu
+* Lily Cheung
+* Gavin Callahan
+* Michelle Sung
+* Ryu Hoshino
 
-#### 5 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Bishop Frank Schuster - Archdiocese of Seattle
 * 💵Jean Hill - Washington State Catholic Conference

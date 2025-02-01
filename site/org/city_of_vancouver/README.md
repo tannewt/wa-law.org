@@ -8,13 +8,18 @@
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 
-## [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
+
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 * 👍 Ty Stober
+
+## [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
+* 👍 Shree Thirunagari
 
 ## 2023-24
 
-### [SB 5184](/bill/2023-24/sb/5184/) - Minimum parking requirements 👍1  
-* 👍 Ty Stober
+### [SB 5265](/bill/2023-24/sb/5265/) - Electrical inspector exp. 👍1  
+* 👍 Shree Thirunagari
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 

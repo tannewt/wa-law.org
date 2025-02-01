@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1676/</link>
 		<description>Updates about HB 1676</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 30 Jan 2025 05:01:53 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jan 2025 22:00:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,37 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Justin/Mckaughan/2025-01-30 05:01:53</guid>
+		</item>
+		<item>
+			<title>👍Julie Kennedy - PacifiCorp</title>
+			<description>Julie Kennedy signed up to testify Pro.</description>
+			<pubDate>Fri, 31 Jan 2025 02:51:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Julie/Kennedy/2025-01-31 02:51:35</guid>
+		</item>
+		<item>
+			<title>👍John Axtell - PacifiCorp</title>
+			<description>John Axtell signed up to testify Pro.</description>
+			<pubDate>Fri, 31 Jan 2025 02:52:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Axtell/2025-01-31 02:52:18</guid>
+		</item>
+		<item>
+			<title>👍Tom Sweeney - PacifiCorp</title>
+			<description>Tom Sweeney signed up to testify Pro.</description>
+			<pubDate>Fri, 31 Jan 2025 06:46:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tom/Sweeney/2025-01-31 06:46:01</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201676</guid>
 		</item>
 	</channel>
 </rss>

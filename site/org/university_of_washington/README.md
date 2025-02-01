@@ -13,6 +13,8 @@
 ### [HB 1298](/bill/2025-26/hb/1298/) - Student athlete insurance 👍1  
 * 👍 Joe Dacca
 
+### [HB 1311](/bill/2025-26/hb/1311/) - Gray wolves  👎1 
+
 ### [HB 1343](/bill/2025-26/hb/1343/) - Higher ed./loss of aid 👍4  
 
 ### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍3  
@@ -20,6 +22,8 @@
 * 👍 Charles Marcus
 
 ### [HB 1434](/bill/2025-26/hb/1434/) - Eid al-Fitr & Eid al-Adha 👍2  
+
+### [HB 1442](/bill/2025-26/hb/1442/) - Gray wolf management  👎1 
 
 ### [HB 1492](/bill/2025-26/hb/1492/) - Students with dependents 👍3  
 

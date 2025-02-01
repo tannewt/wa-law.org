@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 4 👍 - Pro
 
-#### 70 👎 - Con
+#### 263 👎 - Con
 Testifying:
 * Brad Brotherton - Brotherton Cadillac GMC Buick, Washington State Auto Dealers Association
 * Jaclyn Midkiff - Harvest Auto, Washington State Auto Dealers Association
@@ -25,6 +25,7 @@ Testifying:
 * Xavier Cortes - Cortes Auto Group, Washington State Auto Dealers Association
 * Gregg DuPont
 * Dustin Ray
+* Seth Stobaugh
 
 #### 1 ❓ - Other
 Testifying:

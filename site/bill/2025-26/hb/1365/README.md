@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32645&aId=162480&caId=25448&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32645&aId=162480&caId=25448&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 
-#### 13 👎 - Con
+#### 31 👎 - Con
 Testifying:
 * Christine Walker - Parkwood Neighborhood Alliance
 * Deborah Wilson
@@ -27,6 +27,9 @@ Testifying:
 * Robin Piper-Zorich - AMHO
 * Robin Piper-Zorich - AMHO
 * Eldean Montgomery - 2
+* Kyle Fleck
+* Lonnie Stoddard
 * Sheila Mulligan
+* Theresa Skrentny - AMHO
 
 #### 0 ❓ - Other

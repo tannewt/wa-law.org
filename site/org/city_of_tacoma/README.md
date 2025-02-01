@@ -20,7 +20,7 @@
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 
-### [SB 5104](/bill/2025-26/sb/5104/) - Protecting employees from coercion in the workplace based on immigration status. 👍1  
+### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍2  
 

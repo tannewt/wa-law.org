@@ -1,6 +1,8 @@
 # Northwest Immigrant Rights Project
 ## 2025-26
 
+### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor. 👍1  
+
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍2  
 * 👍💵 Malou Chavez
 
@@ -8,11 +10,13 @@
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
-## [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
+### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
+
+## [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
 
 ## 2023-24
 
-### [SB 5115](/bill/2023-24/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
+### [SB 5362](/bill/2023-24/sb/5362/) - Crime victim services 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

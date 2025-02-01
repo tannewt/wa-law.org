@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 01/31/2025 [The Urbanist](/org/the_urbanist/) - [Rolling Out The Urbanist 2025’s Advocacy Agenda and Early Events - The Urbanist](https://www.theurbanist.org/2025/01/31/the-urbanist-2025s-advocacy-agenda/#:~:text=House%20Bill%201217)
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201217)
 * 01/25/2025 [House Republicans](/org/house_republicans/) - [Catalog of crises | Washington State House Republicans](https://houserepublicans.wa.gov/current/catalog-of-crises/#:~:text=House%20Bill%201217)
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201217)
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201217)
@@ -25,20 +27,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162720&caId=25346&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162720&caId=25346&tId=4)
 
-#### 797 👍 - Pro
+#### 1408 👍 - Pro
 Testifying:
 * Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
 * Vanessa Kritzer - Redmond City Council President
 
-#### 100 👎 - Con
+#### 166 👎 - Con
 Testifying:
 * 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Winnie Fung
 * Constance Nelson
 * Tim Eyman - INITIATIVE ACTIVIST
+* Laurie Layne
+* Bruce Becker - Bruce Becker
 * Kari Koszdin - Self employed
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 
 ### Mon 01/13 01:30 PM - Housing (HOUS): HB 1217 Residential tenants
 #### 4032 👍 - Pro

@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5104](/bill/2025-26/sb/5104/)
 
-# SB 5104 - Protecting employees from coercion in the workplace based on immigration status.
+# SB 5104 - Immigration status coercion
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5104&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/20 10:30 AM - Labor & Commerce (LC): SB 5104 Immigration status coercion

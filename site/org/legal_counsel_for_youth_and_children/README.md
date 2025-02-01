@@ -16,6 +16,8 @@
 
 ### [HB 1177](/bill/2025-26/hb/1177/) - Concerning the child welfare housing assistance program. 👍1  
 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+
 ### [HB 1248](/bill/2025-26/hb/1248/) - Improving the effectiveness of juvenile justice programs by providing ongoing evaluations and clarifying juvenile diversion practices. 👍1  
 * 👍💵 Roxana Gomez
 

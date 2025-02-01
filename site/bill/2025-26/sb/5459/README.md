@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162619&caId=25276&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162619&caId=25276&tId=4)
 
-#### 5 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * 💵Christine Reid - International Brotherhood of Electrical Workers
 * Eileen Nix - [Communications Workers of America](/org/communications_workers_of_america/)

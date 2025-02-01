@@ -93,11 +93,15 @@
 
 ### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
 
-## [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons  👎1 
+### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons  👎1 
+
+## [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities  👎1 
+* 👎💵 Brent Ludeman
 
 ## 2023-24
 
-### [SB 5438](/bill/2023-24/sb/5438/) - Hydrofluorocarbons  👎1 
+### [SB 5496](/bill/2023-24/sb/5496/) - Home buying by entities  👎1 
+* 👎💵 Brent Ludeman
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

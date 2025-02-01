@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32693&aId=162794&caId=25266&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32693&aId=162794&caId=25266&tId=4)
 
-#### 4 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Katie Hurley - King County Department of Public Defense
+* Emily Justin
+* Dominique Davis - Community Passageways
 
-#### 55 👎 - Con
+#### 156 👎 - Con
 
 #### 0 ❓ - Other

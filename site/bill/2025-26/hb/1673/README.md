@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201673)
+
 ## Meetings
 ### Mon 02/03 01:30 PM - Environment & Energy (ENVI): HB 1673 Electric transmission system
 Sign up to testify:
@@ -14,10 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32650&aId=162691&caId=25409&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32650&aId=162691&caId=25409&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Emily Moore - [Sightline Institute](/org/sightline_institute/)
 
-#### 74 👎 - Con
+#### 205 👎 - Con
 Testifying:
 * JENNIFER PANTANO
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Glenn Blackmon - Washington State Department of Commerce
+* 💵Jay Balasbas - PacifiCorp

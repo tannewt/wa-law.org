@@ -14,9 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32671&aId=162573&caId=25305&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32671&aId=162573&caId=25305&tId=4)
 
-#### 1 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Adam Fyall - Benton County
+* Ceyla Petrina
+* Evelyn Williams - Discovery Lab
+* Nellie Parker
+* Vienna Borquez - Discovery Lab of Ellensburg
+* Amy McGuffin - Kittitas County Chamber of Commerce
 
 #### 0 👎 - Con
 

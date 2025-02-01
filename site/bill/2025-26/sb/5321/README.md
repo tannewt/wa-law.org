@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/27/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to expand reproductive health care access for college students heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/27/nobles-bill-to-expand-reproductive-health-care-access-for-college-students-heard-in-committee/#:~:text=Senate%20Bill%205321)

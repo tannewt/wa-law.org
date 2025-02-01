@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/01/2025 [Senate Democrats](/org/senate_democrats/) - [My first newsletter as your senator! - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/01/31/my-first-newsletter-as-your-senator/#:~:text=SB%205141)
+
 ## Meetings
 ### Thu 01/23 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5141 Disability insurer filings
 #### 9 👍 - Pro

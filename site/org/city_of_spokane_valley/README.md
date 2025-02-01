@@ -45,7 +45,7 @@
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
 
-### [SB 5229](/bill/2025-26/sb/5229/) - Facilitating civil commitment for treatment for a person requiring revival by opioid overdose reversal medication. 👍1  
+### [SB 5229](/bill/2025-26/sb/5229/) - Opioid overdose/civil commit 👍1  
 
 ### [SB 5238](/bill/2025-26/sb/5238/) - Reckless driving, speed 👍1  
 

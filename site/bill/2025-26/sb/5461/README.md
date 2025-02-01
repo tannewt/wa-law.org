@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Mindy Brooks - [Lewis County](/org/lewis_county/)
 
-#### 50 👎 - Con
+#### 144 👎 - Con
 
 #### 0 ❓ - Other

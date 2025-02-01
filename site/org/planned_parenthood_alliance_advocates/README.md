@@ -73,11 +73,13 @@
 
 ### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
 
-## [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+
+## [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 
 ## 2023-24
 
-### [SB 5362](/bill/2023-24/sb/5362/) - Crime victim services 👍1  
+### [SB 5541](/bill/2023-24/sb/5541/) - Future fund pilot project 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

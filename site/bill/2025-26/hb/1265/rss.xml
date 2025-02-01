@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1265/</link>
 		<description>Updates about HB 1265</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 14 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jan 2025 09:53:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Tue, 14 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-14/First reading, referred to Community Safety.</guid>
+		</item>
+		<item>
+			<title>👍Jeri Moomaw - Innovations Human Trafficking Collaborative</title>
+			<description>Jeri Moomaw signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/innovations_human_trafficking_collaborative/"&gt;Innovations Human Trafficking Collaborative&lt;/a&gt;.</description>
+			<pubDate>Fri, 31 Jan 2025 09:53:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeri/Moomaw/2025-01-31 09:53:36</guid>
 		</item>
 	</channel>
 </rss>

@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32703&aId=162834&caId=25218&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32703&aId=162834&caId=25218&tId=4)
 
-#### 467 👍 - Pro
+#### 585 👍 - Pro
 Testifying:
 * Sandra Shipley
 * Charles Benbrook - Benbrook Consulting Services
 * Kristen Pirillo
+* Ruby Valla
 * Maynard Mallonee - Mallonee Family Farm Llc
 
 #### 0 👎 - Con

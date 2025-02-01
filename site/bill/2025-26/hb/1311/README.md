@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201311)
+
 ## Meetings
 ### Wed 02/05 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1311 Gray wolves
 Sign up to testify:
@@ -14,14 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162490&caId=25344&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162490&caId=25344&tId=4)
 
-#### 16 👍 - Pro
+#### 53 👍 - Pro
 Testifying:
 * Dave Hedrick
 * Brad Manke - Stevens County Sheriff's Office
 
-#### 21 👎 - Con
+#### 292 👎 - Con
 Testifying:
 * john rosapepe - Endangered Species Coalition
 * David Linn
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

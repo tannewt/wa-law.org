@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201564)
+
 ## Meetings
 ### Thu 02/06 01:30 PM - Finance (FIN): HB 1564 Child care assist./B&O tax
 Sign up to testify:

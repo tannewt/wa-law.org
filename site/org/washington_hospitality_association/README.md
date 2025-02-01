@@ -46,6 +46,14 @@
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
 * 👍 Sean DeWitz
 
+### [HB 1562](/bill/2025-26/hb/1562/) - Diaper changing stations 👍1  
+* 👍 Samatha Louderback
+
+### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
+
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎1 
+* 👎💵 Samantha Louderback
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Julia Gorton
 
@@ -83,13 +91,14 @@
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
 * 👍💵 Julia Gorton
 
-## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
+### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
 * 👎💵 Samantha Louderback
+
+## [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
 
 ## 2023-24
 
-### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction  👎1 
-* 👎💵 Samantha Louderback
+### [SB 5548](/bill/2023-24/sb/5548/) - Workers' compensation  👎1 
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  
 

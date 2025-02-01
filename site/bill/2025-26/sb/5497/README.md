@@ -14,8 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32699&aId=162849&caId=25262&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32699&aId=162849&caId=25262&tId=4)
 
-#### 4 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
+* Dan Wise - Catholic Community Services
 * Joseph Tovar - [American Planning Association Washington Chapter](/org/american_planning_association_washington_chapter/)
 
 #### 0 👎 - Con

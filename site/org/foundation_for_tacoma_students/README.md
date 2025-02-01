@@ -6,6 +6,8 @@
 
 ### [HB 1143](/bill/2025-26/hb/1143/) - College grant award amounts 👍1  
 
+### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
+
 ### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍1  
 
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  

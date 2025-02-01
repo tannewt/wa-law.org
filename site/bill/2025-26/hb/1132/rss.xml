@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1132/</link>
 		<description>Updates about HB 1132</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 12:02:50 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 31 Jan 2025 16:12:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -330,11 +330,25 @@
 			<guid isPermaLink="true">https://www.wastatepta.org/2025session-week3/#:~:text=HB%201132</guid>
 		</item>
 		<item>
+			<title>CRJ - Executive action taken by committee.</title>
+			<description>CRJ - Executive action taken by committee.</description>
+			<pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-31/CRJ - Executive action taken by committee.</guid>
+		</item>
+		<item>
 			<title>Plans for new gun regulations progress in Washington Legislature • Washington State Standard</title>
 			<description>News article "Plans for new gun regulations progress in Washington Legislature • Washington State Standard" from Washington State Standard.</description>
 			<pubDate>Fri, 31 Jan 2025 12:02:50 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/01/31/plans-for-new-gun-regulations-progress-in-washington-legislature/#:~:text=House%20Bill%201132</guid>
+		</item>
+		<item>
+			<title>3 controversial WA gun bills move out of committee | FOX 13 Seattle</title>
+			<description>News article "3 controversial WA gun bills move out of committee | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Fri, 31 Jan 2025 16:12:49 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/controversial-gun-bills-move-committee#:~:text=HB%201132</guid>
 		</item>
 	</channel>
 </rss>
