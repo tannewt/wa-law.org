@@ -79,6 +79,13 @@
 			<guid isPermaLink="false">2023-02-03/HCW - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>HCW - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HCW - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-03/HCW - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Mon, 06 Feb 2023 00:00:00 GMT</pubDate>
@@ -91,6 +98,13 @@
 			<pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-07/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>Committee relieved of further consideration.</title>
+			<description>Committee relieved of further consideration.</description>
+			<pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-10/Committee relieved of further consideration.</guid>
 		</item>
 		<item>
 			<title>Referred to Rules 2 Consideration.</title>
@@ -119,6 +133,13 @@
 			<pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-06/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-06/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 60; nays, 35; absent, 0; excused, 3.</title>
@@ -183,6 +204,13 @@
 			<guid isPermaLink="false">testifier/Justin/Vail/2023-03-22 10:34:23</guid>
 		</item>
 		<item>
+			<title>HLTC - Majority; do pass.</title>
+			<description>HLTC - Majority; do pass.</description>
+			<pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-28/HLTC - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
@@ -202,6 +230,13 @@
 			<pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-30/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-06/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 40; nays, 7; absent, 0; excused, 2.</title>
@@ -232,11 +267,25 @@
 			<guid isPermaLink="false">2023-04-14/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 141, 2023 Laws.</title>
+			<description>Chapter 141, 2023 Laws.</description>
+			<pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-20/Chapter 141, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-20/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-20/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

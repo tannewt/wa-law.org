@@ -95,6 +95,13 @@
 			<guid isPermaLink="false">2023-02-10/LG - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>LG - Majority; do pass.</title>
+			<description>LG - Majority; do pass.</description>
+			<pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-10/LG - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
@@ -242,6 +249,20 @@
 			<guid isPermaLink="false">2023-02-22/FIN - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>FIN - Majority; do pass.</title>
+			<description>FIN - Majority; do pass.</description>
+			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-22/FIN - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-22/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
@@ -261,6 +282,13 @@
 			<pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-02/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-03/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 51; nays, 47; absent, 0; excused, 0.</title>
@@ -338,6 +366,20 @@
 			<guid isPermaLink="false">2023-03-23/And refer to Ways &amp; Means.</guid>
 		</item>
 		<item>
+			<title>LGLT - Majority; do pass.</title>
+			<description>LGLT - Majority; do pass.</description>
+			<pubDate>Thu, 23 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-23/LGLT - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 23 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-23/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Ways &amp; Means.</title>
 			<description>Referred to Ways &amp; Means.</description>
 			<pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
@@ -393,11 +435,46 @@
 			<guid isPermaLink="false">testifier/Tim/Eyman/2023-03-31 09:56:29</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-04/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-04/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; do pass.</title>
+			<description>WM - Majority; do pass.</description>
+			<pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-04/WM - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-11/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 27; nays, 22; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 27; nays, 22; absent, 0; excused, 0.</description>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-11/Third reading, passed; yeas, 27; nays, 22; absent, 0; excused, 0.</guid>
 		</item>
 		<item>
 			<title>Speaker signed.</title>
@@ -421,11 +498,25 @@
 			<guid isPermaLink="false">2023-04-19/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 179, 2023 Laws.</title>
+			<description>Chapter 179, 2023 Laws.</description>
+			<pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-25/Chapter 179, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-25/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-25/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

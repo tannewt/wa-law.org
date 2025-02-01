@@ -9,6 +9,20 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-05/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
 			<title>👍Penny Sweet - Mayor of Kirkland</title>
 			<description>Penny Sweet signed up to testify Pro. They are signed up to represent Mayor of Kirkland.</description>
 			<pubDate>Fri, 13 Jan 2023 05:30:13 GMT</pubDate>
@@ -120,6 +134,20 @@
 			<guid isPermaLink="false">testifier/Tyler/Nathan/2023-01-15 12:08:21</guid>
 		</item>
 		<item>
+			<title>LAW - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LAW - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-19/LAW - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-19/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>On motion, referred to Ways &amp; Means.</title>
 			<description>On motion, referred to Ways &amp; Means.</description>
 			<pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
@@ -172,6 +200,13 @@
 			<guid isPermaLink="false">2023-02-24/Passed to Rules Committee for second reading.</guid>
 		</item>
 		<item>
+			<title>WM - Majority; do pass 1st substitute bill proposed by Law &amp; Justice.</title>
+			<description>WM - Majority; do pass 1st substitute bill proposed by Law &amp; Justice.</description>
+			<pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-24/WM - Majority; do pass 1st substitute bill proposed by Law &amp; Justice.</guid>
+		</item>
+		<item>
 			<title>Placed on second reading by Rules Committee.</title>
 			<description>Placed on second reading by Rules Committee.</description>
 			<pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
@@ -184,6 +219,13 @@
 			<pubDate>Tue, 07 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-07/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 07 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-07/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 27; nays, 21; absent, 0; excused, 1.</title>

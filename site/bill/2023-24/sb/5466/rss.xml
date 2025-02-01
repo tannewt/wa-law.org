@@ -234,6 +234,20 @@
 			<guid isPermaLink="false">testifier/Wes/Stewart/2023-01-30 12:59:18</guid>
 		</item>
 		<item>
+			<title>And refer to Transportation.</title>
+			<description>And refer to Transportation.</description>
+			<pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-07/And refer to Transportation.</guid>
+		</item>
+		<item>
+			<title>LGLT - Majority; do pass.</title>
+			<description>LGLT - Majority; do pass.</description>
+			<pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-07/LGLT - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
@@ -451,6 +465,20 @@
 			<guid isPermaLink="true">https://www.theurbanist.org/2023/02/22/waleg-week-7-priorities/#:~:text=SB%205466</guid>
 		</item>
 		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-23/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>TRAN - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>TRAN - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-23/TRAN - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
@@ -484,6 +512,20 @@
 			<pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-01/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-01/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-01/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 40; nays, 8; absent, 0; excused, 1.</title>
@@ -834,6 +876,20 @@
 			<guid isPermaLink="false">2023-03-28/HOUS - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>HOUS - Majority; do pass with amendment(s) by Housing.</title>
+			<description>HOUS - Majority; do pass with amendment(s) by Housing.</description>
+			<pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-28/HOUS - Majority; do pass with amendment(s) by Housing.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-28/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
@@ -940,6 +996,13 @@
 			<pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-31/CB - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>CB - Majority; do pass with amendment(s) by Housing.</title>
+			<description>CB - Majority; do pass with amendment(s) by Housing.</description>
+			<pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-31/CB - Majority; do pass with amendment(s) by Housing.</guid>
 		</item>
 		<item>
 			<title>Minority; do not pass.</title>
@@ -1059,6 +1122,13 @@
 			<pubDate>Tue, 02 Jan 2024 15:00:27 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theurbanist.org/2024/01/02/get-ready-for-the-year-of-housing-2-0/#:~:text=Senate%20Bill%205466</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 		<item>
 			<title>Senate Rules "X" file.</title>

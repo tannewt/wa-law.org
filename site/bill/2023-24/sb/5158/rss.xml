@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-05/Prefiled for introduction.</guid>
+		</item>
+		<item>
 			<title>First reading, referred to Ways &amp; Means.</title>
 			<description>First reading, referred to Ways &amp; Means.</description>
 			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
@@ -46,6 +53,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Matt/Zuvich/2023-01-17 11:55:43</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-07/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>WM - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-07/WM - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 		<item>
 			<title>Passed to Rules Committee for second reading.</title>

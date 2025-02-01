@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>First reading, referred to Postsecondary Education &amp; Workforce.</title>
+			<description>First reading, referred to Postsecondary Education &amp; Workforce.</description>
+			<pubDate>Wed, 11 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-11/First reading, referred to Postsecondary Education &amp; Workforce.</guid>
+		</item>
+		<item>
 			<title>👍Yokiko Hayashi-Saguil - SBCTC</title>
 			<description>Yokiko Hayashi-Saguil signed up to testify Pro. They are signed up to represent SBCTC.</description>
 			<pubDate>Mon, 23 Jan 2023 02:09:37 GMT</pubDate>
@@ -54,6 +61,13 @@
 			<guid isPermaLink="false">2023-01-27/PEW - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>PEW - Majority; do pass.</title>
+			<description>PEW - Majority; do pass.</description>
+			<pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-27/PEW - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Appropriations.</title>
 			<description>Referred to Appropriations.</description>
 			<pubDate>Tue, 31 Jan 2023 00:00:00 GMT</pubDate>
@@ -83,6 +97,13 @@
 			<guid isPermaLink="false">2023-02-13/APP - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>APP - Majority; do pass.</title>
+			<description>APP - Majority; do pass.</description>
+			<pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-13/APP - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
@@ -102,6 +123,13 @@
 			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-22/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-27/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 92; nays, 3; absent, 0; excused, 3.</title>
@@ -148,6 +176,13 @@
 			<guid isPermaLink="false">2023-03-15/And refer to Ways &amp; Means.</guid>
 		</item>
 		<item>
+			<title>HEWD - Majority; do pass.</title>
+			<description>HEWD - Majority; do pass.</description>
+			<pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-15/HEWD - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Ways &amp; Means.</title>
 			<description>Referred to Ways &amp; Means.</description>
 			<pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
@@ -162,11 +197,53 @@
 			<guid isPermaLink="true">https://www.wastatepta.org/budget-releases-and-revenue-forecasts-will-dominate-next-two-weeks/#:~:text=HB%201232</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-04/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-04/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-04/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; do pass.</title>
+			<description>WM - Majority; do pass.</description>
+			<pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-04/WM - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-11/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 39; nays, 10; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 39; nays, 10; absent, 0; excused, 0.</description>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-11/Third reading, passed; yeas, 39; nays, 10; absent, 0; excused, 0.</guid>
 		</item>
 		<item>
 			<title>Speaker signed.</title>
@@ -176,6 +253,13 @@
 			<guid isPermaLink="false">2023-04-14/Speaker signed.</guid>
 		</item>
 		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-17/President signed.</guid>
+		</item>
+		<item>
 			<title>Delivered to Governor.</title>
 			<description>Delivered to Governor.</description>
 			<pubDate>Tue, 18 Apr 2023 00:00:00 GMT</pubDate>
@@ -183,11 +267,25 @@
 			<guid isPermaLink="false">2023-04-18/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 174, 2023 Laws.</title>
+			<description>Chapter 174, 2023 Laws.</description>
+			<pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-25/Chapter 174, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-25/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-25/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Congrats to our grads 🎓🏫🍾 – Washington State House Democrats</title>

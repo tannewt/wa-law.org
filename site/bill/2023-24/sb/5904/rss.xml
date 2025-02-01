@@ -157,6 +157,20 @@
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2024/01/12/nobles-bill-would-align-eligibility-time-frames-across-state-federal-financial-aid-programs/#:~:text=Senate%20Bill%205904</guid>
 		</item>
 		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-17/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>HEWD - Majority; do pass.</title>
+			<description>HEWD - Majority; do pass.</description>
+			<pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-17/HEWD - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Ways &amp; Means.</title>
 			<description>Referred to Ways &amp; Means.</description>
 			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
@@ -235,11 +249,32 @@
 			<guid isPermaLink="false">testifier/Collin/Bannister/2024-01-30 11:38:28</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-05/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; do pass.</title>
+			<description>WM - Majority; do pass.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/WM - Majority; do pass.</guid>
 		</item>
 		<item>
 			<title>Bills advance, falter as Legislature reaches committee cutoffs - WSPTA</title>
@@ -254,6 +289,13 @@
 			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-07/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-09/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 34; nays, 14; absent, 0; excused, 1.</title>
@@ -341,6 +383,27 @@
 			<guid isPermaLink="false">testifier/Paula/Sardinas/2024-02-16 06:54:55</guid>
 		</item>
 		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>PEW - Executive action taken by committee.</title>
+			<description>PEW - Executive action taken by committee.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/PEW - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>PEW - Majority; do pass.</title>
+			<description>PEW - Majority; do pass.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/PEW - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Appropriations.</title>
 			<description>Referred to Appropriations.</description>
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
@@ -372,11 +435,60 @@
 			<guid isPermaLink="false">testifier/Collin/Bannister/2024-02-23 11:44:02</guid>
 		</item>
 		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>APP - Majority; do pass with amendment(s).</title>
+			<description>APP - Majority; do pass with amendment(s).</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/APP - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
 			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
 			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
 			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-27/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Committee amendment(s) adopted as amended.</title>
+			<description>Committee amendment(s) adopted as amended.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Committee amendment(s) adopted as amended.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 61; nays, 35; absent, 0; excused, 2.</title>
@@ -393,6 +505,27 @@
 			<guid isPermaLink="false">2024-03-04/Passed final passage; yeas, 35; nays, 14; absent, 0; excused, 0.</guid>
 		</item>
 		<item>
+			<title>Senate concurred in House amendments.</title>
+			<description>Senate concurred in House amendments.</description>
+			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-04/Senate concurred in House amendments.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-06/President signed.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/Speaker signed.</guid>
+		</item>
+		<item>
 			<title>Delivered to Governor.</title>
 			<description>Delivered to Governor.</description>
 			<pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
@@ -400,11 +533,25 @@
 			<guid isPermaLink="false">2024-03-08/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 323, 2024 Laws.</title>
+			<description>Chapter 323, 2024 Laws.</description>
+			<pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-28/Chapter 323, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024.</title>
 			<description>Effective date 6/6/2024.</description>
 			<pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-28/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-28/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Cost-Free College Would Change Lives - So Why Don't We Do It? Economic Opportunity Institute</title>

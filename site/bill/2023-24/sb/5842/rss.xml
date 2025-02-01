@@ -51,6 +51,13 @@
 			<guid isPermaLink="false">2024-01-24/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</description>
 			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
@@ -79,6 +86,13 @@
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-12-16-2024/#:~:text=SB%205842</guid>
 		</item>
 		<item>
+			<title>CRJ - Executive action taken by committee.</title>
+			<description>CRJ - Executive action taken by committee.</description>
+			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-16/CRJ - Executive action taken by committee.</guid>
+		</item>
+		<item>
 			<title>CRJ - Majority; do pass.</title>
 			<description>CRJ - Majority; do pass.</description>
 			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
@@ -100,6 +114,13 @@
 			<guid isPermaLink="false">2024-02-28/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</title>
 			<description>Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</description>
 			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
@@ -114,6 +135,13 @@
 			<guid isPermaLink="false">2024-03-05/President signed.</guid>
 		</item>
 		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-06/Speaker signed.</guid>
+		</item>
+		<item>
 			<title>Delivered to Governor.</title>
 			<description>Delivered to Governor.</description>
 			<pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
@@ -121,11 +149,25 @@
 			<guid isPermaLink="false">2024-03-08/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 126, 2024 Laws.</title>
+			<description>Chapter 126, 2024 Laws.</description>
+			<pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-15/Chapter 126, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024.</title>
 			<description>Effective date 6/6/2024.</description>
 			<pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-15/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-15/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

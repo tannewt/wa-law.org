@@ -40,6 +40,13 @@
 			<guid isPermaLink="false">testifier/Juliana/Roe/2023-02-05 12:33:35</guid>
 		</item>
 		<item>
+			<title>LGLT - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LGLT - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-14/LGLT - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
@@ -66,6 +73,13 @@
 			<pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-01/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-01/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.</title>
@@ -106,6 +120,13 @@
 			<guid isPermaLink="false">testifier/LaDon/Linde/2023-03-13 10:05:33</guid>
 		</item>
 		<item>
+			<title>LG - Executive action taken by committee.</title>
+			<description>LG - Executive action taken by committee.</description>
+			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-22/LG - Executive action taken by committee.</guid>
+		</item>
+		<item>
 			<title>LG - Majority; do pass.</title>
 			<description>LG - Majority; do pass.</description>
 			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
@@ -118,6 +139,13 @@
 			<pubDate>Thu, 23 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-23/Referred to Finance.</guid>
+		</item>
+		<item>
+			<title>FIN - Executive action taken by committee.</title>
+			<description>FIN - Executive action taken by committee.</description>
+			<pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-31/FIN - Executive action taken by committee.</guid>
 		</item>
 		<item>
 			<title>FIN - Majority; do pass.</title>
@@ -139,6 +167,13 @@
 			<pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-03/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-05/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.</title>
@@ -169,11 +204,25 @@
 			<guid isPermaLink="false">2023-04-11/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 101, 2023 Laws.</title>
+			<description>Chapter 101, 2023 Laws.</description>
+			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-14/Chapter 101, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-14/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-14/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

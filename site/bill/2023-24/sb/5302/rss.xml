@@ -9,6 +9,27 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>First reading, referred to Health &amp; Long Term Care.</title>
+			<description>First reading, referred to Health &amp; Long Term Care.</description>
+			<pubDate>Thu, 12 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-12/First reading, referred to Health &amp; Long Term Care.</guid>
+		</item>
+		<item>
+			<title>And refer to Human Services.</title>
+			<description>And refer to Human Services.</description>
+			<pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-17/And refer to Human Services.</guid>
+		</item>
+		<item>
+			<title>HLTC - Majority; without recommendation.</title>
+			<description>HLTC - Majority; without recommendation.</description>
+			<pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-17/HLTC - Majority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>Referred to Human Services.</title>
 			<description>Referred to Human Services.</description>
 			<pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate>
@@ -55,6 +76,13 @@
 			<guid isPermaLink="false">2023-02-07/And refer to Ways &amp; Means.</guid>
 		</item>
 		<item>
+			<title>HS - Majority; do pass.</title>
+			<description>HS - Majority; do pass.</description>
+			<pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-07/HS - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Ways &amp; Means.</title>
 			<description>Referred to Ways &amp; Means.</description>
 			<pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate>
@@ -90,6 +118,13 @@
 			<pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-24/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; do pass.</title>
+			<description>WM - Majority; do pass.</description>
+			<pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-24/WM - Majority; do pass.</guid>
 		</item>
 		<item>
 			<title>Senate Rules "X" file.</title>

@@ -113,6 +113,13 @@
 			<guid isPermaLink="false">2024-02-08/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-08/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</description>
 			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
@@ -158,6 +165,13 @@
 			<guid isPermaLink="false">testifier/Carrie/Glover/2024-02-15 03:58:28</guid>
 		</item>
 		<item>
+			<title>HLTC - Majority; do pass.</title>
+			<description>HLTC - Majority; do pass.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/HLTC - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
@@ -172,11 +186,32 @@
 			<guid isPermaLink="false">2024-02-28/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-01/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
 			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
 			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-01/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-04/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-05/President signed.</guid>
 		</item>
 		<item>
 			<title>Delivered to Governor.</title>
@@ -193,11 +228,25 @@
 			<guid isPermaLink="true">https://www.opportunityinstitute.org/blog/post/waleg-recap-2024/#:~:text=timely%20medical%20certification</guid>
 		</item>
 		<item>
+			<title>Chapter 150, 2024 Laws.</title>
+			<description>Chapter 150, 2024 Laws.</description>
+			<pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-18/Chapter 150, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024.</title>
 			<description>Effective date 6/6/2024.</description>
 			<pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-18/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-18/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
 			<title>👍Professor Thomas Mitchell - The Uniform Law Commission</title>
 			<description>Professor Thomas Mitchell signed up to testify Pro. They are signed up to represent The Uniform Law Commission.</description>
 			<pubDate>Tue, 17 Jan 2023 05:24:57 GMT</pubDate>
@@ -33,6 +40,13 @@
 			<guid isPermaLink="false">testifier/John/Lovett/2023-01-18 10:02:12</guid>
 		</item>
 		<item>
+			<title>LAW - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LAW - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/LAW - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
@@ -54,6 +68,13 @@
 			<guid isPermaLink="false">2023-02-08/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-08/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
 			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
 			<pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate>
@@ -66,6 +87,13 @@
 			<pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-09/First reading, referred to Civil Rights &amp; Judiciary (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Civil Rights &amp; Judiciary.</title>
+			<description>First reading, referred to Civil Rights &amp; Judiciary.</description>
+			<pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-09/First reading, referred to Civil Rights &amp; Judiciary.</guid>
 		</item>
 		<item>
 			<title>👍Thomas Mitchell - Uniform Law Commission</title>
@@ -128,6 +156,13 @@
 			<guid isPermaLink="false">2023-03-17/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-20/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</description>
 			<pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
@@ -156,11 +191,25 @@
 			<guid isPermaLink="false">2023-03-24/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 6, 2023 Laws.</title>
+			<description>Chapter 6, 2023 Laws.</description>
+			<pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-30/Chapter 6, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-30/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-30/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

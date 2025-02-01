@@ -89,6 +89,13 @@
 			<guid isPermaLink="false">2024-02-06/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-06/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 79; nays, 18; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 79; nays, 18; absent, 0; excused, 1.</description>
 			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
@@ -126,6 +133,20 @@
 			<guid isPermaLink="false">testifier/Rachel/Cortez/2024-02-12 11:54:11</guid>
 		</item>
 		<item>
+			<title>LAW - Majority; do pass.</title>
+			<description>LAW - Majority; do pass.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/LAW - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
@@ -138,6 +159,13 @@
 			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-27/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
@@ -154,6 +182,13 @@
 			<guid isPermaLink="false">2024-03-01/Speaker signed.</guid>
 		</item>
 		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-04/President signed.</guid>
+		</item>
+		<item>
 			<title>Delivered to Governor.</title>
 			<description>Delivered to Governor.</description>
 			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
@@ -161,11 +196,25 @@
 			<guid isPermaLink="false">2024-03-05/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 294, 2024 Laws.</title>
+			<description>Chapter 294, 2024 Laws.</description>
+			<pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-26/Chapter 294, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024.</title>
 			<description>Effective date 6/6/2024.</description>
 			<pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-26/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-26/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

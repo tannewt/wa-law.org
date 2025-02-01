@@ -9,6 +9,20 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Fri, 06 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-06/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government &amp; Elections.</title>
+			<description>First reading, referred to State Government &amp; Elections.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to State Government &amp; Elections.</guid>
+		</item>
+		<item>
 			<title>👍Abigail Leong - WA Voting Justice Coalition/Fuse Washington</title>
 			<description>Abigail Leong signed up to testify Pro. They are signed up to represent WA Voting Justice Coalition/Fuse Washington.</description>
 			<pubDate>Thu, 12 Jan 2023 04:57:36 GMT</pubDate>
@@ -81,6 +95,27 @@
 			<guid isPermaLink="false">testifier/Cindy/Black/2023-01-15 10:37:21</guid>
 		</item>
 		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-20/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>SGE - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>SGE - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-20/SGE - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-23/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
 			<title>Announcing our 2023 Legislative Priorities! – The Washington Bus</title>
 			<description>News article "Announcing our 2023 Legislative Priorities! – The Washington Bus" from The Washington Bus.</description>
 			<pubDate>Tue, 24 Jan 2023 06:45:53 GMT</pubDate>
@@ -100,6 +135,13 @@
 			<pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-01/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-01/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 29; nays, 18; absent, 0; excused, 2.</title>
@@ -180,6 +222,13 @@
 			<guid isPermaLink="false">testifier/suzanne/rohner/2023-03-10 01:43:49</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-22/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
@@ -192,6 +241,13 @@
 			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-22/SGOV - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>SGOV - Majority; do pass with amendment(s) by State Government &amp; Tribal Relations.</title>
+			<description>SGOV - Majority; do pass with amendment(s) by State Government &amp; Tribal Relations.</description>
+			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-22/SGOV - Majority; do pass with amendment(s) by State Government &amp; Tribal Relations.</guid>
 		</item>
 		<item>
 			<title>Referred to Appropriations.</title>
@@ -232,6 +288,20 @@
 			<guid isPermaLink="false">2023-03-31/APP - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>APP - Majority; do pass with amendment(s) by State Government &amp; Tribal Relations.</title>
+			<description>APP - Majority; do pass with amendment(s) by State Government &amp; Tribal Relations.</description>
+			<pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-31/APP - Majority; do pass with amendment(s) by State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-31/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
@@ -246,11 +316,46 @@
 			<guid isPermaLink="false">2023-04-04/Referred to Rules 2 Review.</guid>
 		</item>
 		<item>
+			<title>Committee amendment(s) adopted with no other amendments.</title>
+			<description>Committee amendment(s) adopted with no other amendments.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Committee amendment(s) adopted with no other amendments.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 58; nays, 40; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 58; nays, 40; absent, 0; excused, 0.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Third reading, passed; yeas, 58; nays, 40; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
 			<title>Passed final passage; yeas, 27; nays, 18; absent, 1; excused, 3.</title>
 			<description>Passed final passage; yeas, 27; nays, 18; absent, 1; excused, 3.</description>
 			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-14/Passed final passage; yeas, 27; nays, 18; absent, 1; excused, 3.</guid>
+		</item>
+		<item>
+			<title>Senate concurred in House amendments.</title>
+			<description>Senate concurred in House amendments.</description>
+			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-14/Senate concurred in House amendments.</guid>
 		</item>
 		<item>
 			<title>President signed.</title>
@@ -274,11 +379,25 @@
 			<guid isPermaLink="false">2023-04-20/Speaker signed.</guid>
 		</item>
 		<item>
+			<title>Chapter 363, 2023 Laws.</title>
+			<description>Chapter 363, 2023 Laws.</description>
+			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-09/Chapter 363, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/15/2024.</title>
 			<description>Effective date 7/15/2024.</description>
 			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-09/Effective date 7/15/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-09/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Secretary of State Steve Hobbs applauds new elections laws</title>

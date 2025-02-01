@@ -141,6 +141,20 @@
 			<guid isPermaLink="false">2023-02-13/ED - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>ED - Majority; do pass.</title>
+			<description>ED - Majority; do pass.</description>
+			<pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-13/ED - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-13/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
@@ -174,6 +188,13 @@
 			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-22/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-02/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 63; nays, 34; absent, 0; excused, 1.</title>
@@ -421,6 +442,20 @@
 			<guid isPermaLink="false">2023-03-30/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Committee amendment(s) adopted as amended.</title>
+			<description>Committee amendment(s) adopted as amended.</description>
+			<pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-05/Committee amendment(s) adopted as amended.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-05/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 47; nays, 1; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 47; nays, 1; absent, 0; excused, 1.</description>
 			<pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
@@ -433,6 +468,20 @@
 			<pubDate>Mon, 10 Apr 2023 15:13:19 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=HB%201308</guid>
+		</item>
+		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Wed, 19 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-19/House concurred in Senate amendments.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 77; nays, 21; absent, 0; excused, 0.</title>
+			<description>Passed final passage; yeas, 77; nays, 21; absent, 0; excused, 0.</description>
+			<pubDate>Wed, 19 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-19/Passed final passage; yeas, 77; nays, 21; absent, 0; excused, 0.</guid>
 		</item>
 		<item>
 			<title>Speaker signed.</title>
@@ -456,11 +505,25 @@
 			<guid isPermaLink="false">2023-04-22/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 349, 2023 Laws.</title>
+			<description>Chapter 349, 2023 Laws.</description>
+			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-09/Chapter 349, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-09/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-09/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Congrats to our grads 🎓🏫🍾 – Washington State House Democrats</title>

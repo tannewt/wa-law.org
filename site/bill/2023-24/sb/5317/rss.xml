@@ -24,6 +24,13 @@
 			<guid isPermaLink="false">testifier/Alex/Alston/2023-01-23 05:25:12</guid>
 		</item>
 		<item>
+			<title>TRAN - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>TRAN - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/TRAN - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Mon, 30 Jan 2023 00:00:00 GMT</pubDate>
@@ -43,6 +50,13 @@
 			<pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-15/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-15/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
@@ -95,6 +109,20 @@
 			<guid isPermaLink="false">2023-03-23/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 		<item>
+			<title>Committee amendment(s) adopted with no other amendments.</title>
+			<description>Committee amendment(s) adopted with no other amendments.</description>
+			<pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-24/Committee amendment(s) adopted with no other amendments.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-24/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 95; nays, 1; absent, 0; excused, 2.</title>
 			<description>Third reading, passed; yeas, 95; nays, 1; absent, 0; excused, 2.</description>
 			<pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
@@ -107,6 +135,20 @@
 			<pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-17/Passed final passage; yeas, 47; nays, 1; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Senate concurred in House amendments.</title>
+			<description>Senate concurred in House amendments.</description>
+			<pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-17/Senate concurred in House amendments.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Wed, 19 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-19/President signed.</guid>
 		</item>
 		<item>
 			<title>Delivered to Governor.</title>
@@ -123,11 +165,25 @@
 			<guid isPermaLink="false">2023-04-20/Speaker signed.</guid>
 		</item>
 		<item>
+			<title>Chapter 326, 2023 Laws.</title>
+			<description>Chapter 326, 2023 Laws.</description>
+			<pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-04/Chapter 326, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-04/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-04/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

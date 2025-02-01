@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>First reading, referred to State Government &amp; Tribal Relations.</title>
+			<description>First reading, referred to State Government &amp; Tribal Relations.</description>
+			<pubDate>Tue, 10 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-10/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
 			<title>👍Kristi Weeks - Washington's Lottery</title>
 			<description>Kristi Weeks signed up to testify Pro. They are signed up to represent Washington's Lottery.</description>
 			<pubDate>Tue, 17 Jan 2023 12:12:44 GMT</pubDate>
@@ -45,6 +52,20 @@
 			<guid isPermaLink="false">2023-02-14/Placed on second reading suspension calendar.</guid>
 		</item>
 		<item>
+			<title>Rules Committee relieved of further consideration.</title>
+			<description>Rules Committee relieved of further consideration.</description>
+			<pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-14/Rules Committee relieved of further consideration.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-28/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</description>
 			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
@@ -75,11 +96,39 @@
 			<guid isPermaLink="false">testifier/Rowland/Thompson/2023-03-10 04:44:17</guid>
 		</item>
 		<item>
+			<title>SGE - Majority; do pass.</title>
+			<description>SGE - Majority; do pass.</description>
+			<pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-17/SGE - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-20/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-11/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-12/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</description>
+			<pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-12/Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</guid>
 		</item>
 		<item>
 			<title>Protecting Privacy and Security: Senate Passes Stearns Bill to Keep Lottery Player Information Private – Washington State House Democrats</title>
@@ -96,6 +145,13 @@
 			<guid isPermaLink="false">2023-04-14/Speaker signed.</guid>
 		</item>
 		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-17/President signed.</guid>
+		</item>
+		<item>
 			<title>Delivered to Governor.</title>
 			<description>Delivered to Governor.</description>
 			<pubDate>Tue, 18 Apr 2023 00:00:00 GMT</pubDate>
@@ -103,11 +159,25 @@
 			<guid isPermaLink="false">2023-04-18/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 346, 2023 Laws.</title>
+			<description>Chapter 346, 2023 Laws.</description>
+			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-09/Chapter 346, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-09/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-09/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

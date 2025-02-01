@@ -23,6 +23,13 @@
 			<guid isPermaLink="false">2023-02-13/ED - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>ED - Majority; do pass.</title>
+			<description>ED - Majority; do pass.</description>
+			<pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-13/ED - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
@@ -42,6 +49,13 @@
 			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-22/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-27/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 74; nays, 21; absent, 0; excused, 3.</title>
@@ -72,6 +86,20 @@
 			<guid isPermaLink="true">https://www.cascadiadaily.com/2023/mar/09/rent-cap-bill-dies-housing-density-lives-on-in-legislature/#:~:text=HB%201536</guid>
 		</item>
 		<item>
+			<title>EDU - Majority; do pass.</title>
+			<description>EDU - Majority; do pass.</description>
+			<pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-27/EDU - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-27/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
@@ -91,6 +119,20 @@
 			<pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-05/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-11/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.</description>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-11/Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.</guid>
 		</item>
 		<item>
 			<title>Speaker signed.</title>
@@ -121,11 +163,25 @@
 			<guid isPermaLink="false">2023-04-19/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 384, 2023 Laws.</title>
+			<description>Chapter 384, 2023 Laws.</description>
+			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-09/Chapter 384, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-09/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-09/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

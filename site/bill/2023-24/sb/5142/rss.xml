@@ -9,6 +9,20 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-04/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Health &amp; Long Term Care.</title>
+			<description>First reading, referred to Health &amp; Long Term Care.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to Health &amp; Long Term Care.</guid>
+		</item>
+		<item>
 			<title>👍Elizabeth Crutsinger-Perry - Washington State Department of Health</title>
 			<description>Elizabeth Crutsinger-Perry signed up to testify Pro. They are signed up to represent Washington State Department of Health.</description>
 			<pubDate>Mon, 16 Jan 2023 03:29:20 GMT</pubDate>
@@ -25,6 +39,20 @@
 			<guid isPermaLink="false">testifier/Katherine/Mahoney/2023-01-16 08:21:32</guid>
 		</item>
 		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-19/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>HLTC - Majority; do pass.</title>
+			<description>HLTC - Majority; do pass.</description>
+			<pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-19/HLTC - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Ways &amp; Means.</title>
 			<description>Referred to Ways &amp; Means.</description>
 			<pubDate>Mon, 23 Jan 2023 00:00:00 GMT</pubDate>
@@ -38,6 +66,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Elizabeth/Crutsinger-Perry/2023-01-29 09:51:39</guid>
+		</item>
+		<item>
+			<title>WM - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>WM - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-07/WM - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 		<item>
 			<title>Passed to Rules Committee for second reading.</title>
@@ -66,6 +101,20 @@
 			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-22/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-22/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-22/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
@@ -97,6 +146,13 @@
 			<guid isPermaLink="false">testifier/Summer/Wurst/2023-03-09 05:31:49</guid>
 		</item>
 		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-15/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
 			<title>APP - Majority; do pass.</title>
 			<description>APP - Majority; do pass.</description>
 			<pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
@@ -116,6 +172,13 @@
 			<pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-21/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-22/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
@@ -153,11 +216,25 @@
 			<guid isPermaLink="false">2023-03-27/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 12, 2023 Laws.</title>
+			<description>Chapter 12, 2023 Laws.</description>
+			<pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-30/Chapter 12, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/1/2023.</title>
 			<description>Effective date 7/1/2023.</description>
 			<pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-30/Effective date 7/1/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-30/Governor signed.</guid>
 		</item>
 		<item>
 			<title>2023 LGBTQ Priorities - Washington Senate Democrats</title>

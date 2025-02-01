@@ -62,6 +62,13 @@
 			<guid isPermaLink="false">2023-02-09/TR - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>TR - Majority; do pass.</title>
+			<description>TR - Majority; do pass.</description>
+			<pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-09/TR - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Rules 2 Review.</title>
 			<description>Referred to Rules 2 Review.</description>
 			<pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
@@ -97,11 +104,25 @@
 			<guid isPermaLink="true">https://www.wenatcheeworld.com/news/northwest/only-you-almost-can-put-smokey-bear-on-washington-license-plates/article_f15577be-88cd-11ee-971a-2f1251c12104.html#:~:text=small%20forest%20landowners</guid>
 		</item>
 		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
 			<title>Referred to Transportation.</title>
 			<description>Referred to Transportation.</description>
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/Referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.</title>
+			<description>Rules Committee relieved of further consideration.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/Rules Committee relieved of further consideration.</guid>
 		</item>
 	</channel>
 </rss>

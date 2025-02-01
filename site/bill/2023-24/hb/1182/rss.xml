@@ -9,6 +9,20 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Fri, 06 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-06/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Regulated Substances &amp; Gaming.</title>
+			<description>First reading, referred to Regulated Substances &amp; Gaming.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to Regulated Substances &amp; Gaming.</guid>
+		</item>
+		<item>
 			<title>👍Paul Beveridge - Family Wineries of Washington State</title>
 			<description>Paul Beveridge signed up to testify Pro. They are signed up to represent Family Wineries of Washington State.</description>
 			<pubDate>Mon, 09 Jan 2023 08:00:44 GMT</pubDate>
@@ -49,6 +63,20 @@
 			<guid isPermaLink="false">testifier/Josh/McDonald/2023-01-10 09:47:47</guid>
 		</item>
 		<item>
+			<title>RSG - Executive action taken by committee.</title>
+			<description>RSG - Executive action taken by committee.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/RSG - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>RSG - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>RSG - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/RSG - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Finance.</title>
 			<description>Referred to Finance.</description>
 			<pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
@@ -72,6 +100,13 @@
 			<guid isPermaLink="false">testifier/Josh/McDonald/2023-02-19 12:46:29</guid>
 		</item>
 		<item>
+			<title>FIN - Executive action taken by committee.</title>
+			<description>FIN - Executive action taken by committee.</description>
+			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-22/FIN - Executive action taken by committee.</guid>
+		</item>
+		<item>
 			<title>FIN - Majority; do pass 1st substitute bill proposed by Regulated Substances &amp; Gaming.</title>
 			<description>FIN - Majority; do pass 1st substitute bill proposed by Regulated Substances &amp; Gaming.</description>
 			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
@@ -86,11 +121,25 @@
 			<guid isPermaLink="false">2023-02-24/Referred to Rules 2 Review.</guid>
 		</item>
 		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
 			<title>Referred to Finance.</title>
 			<description>Referred to Finance.</description>
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/Referred to Finance.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.</title>
+			<description>Rules Committee relieved of further consideration.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/Rules Committee relieved of further consideration.</guid>
 		</item>
 	</channel>
 </rss>

@@ -120,6 +120,20 @@
 			<guid isPermaLink="false">testifier/Dawn/Darington/2023-01-24 12:35:15</guid>
 		</item>
 		<item>
+			<title>RSG - Executive action taken by committee.</title>
+			<description>RSG - Executive action taken by committee.</description>
+			<pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-02/RSG - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>RSG - Majority; do pass.</title>
+			<description>RSG - Majority; do pass.</description>
+			<pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-02/RSG - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Finance.</title>
 			<description>Referred to Finance.</description>
 			<pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
@@ -224,6 +238,13 @@
 			<guid isPermaLink="false">2024-02-09/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-09/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 85; nays, 12; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 85; nays, 12; absent, 0; excused, 1.</description>
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
@@ -310,6 +331,20 @@
 			<guid isPermaLink="false">testifier/Ezra/Eickmeyer/2024-02-18 04:05:38</guid>
 		</item>
 		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-19/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>LC - Majority; do pass.</title>
+			<description>LC - Majority; do pass.</description>
+			<pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-19/LC - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
@@ -356,11 +391,25 @@
 			<guid isPermaLink="false">testifier/Lukas/Hunter/2024-02-21 11:42:31</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-26/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; do pass with amendment(s).</title>
+			<description>WM - Majority; do pass with amendment(s).</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/WM - Majority; do pass with amendment(s).</guid>
 		</item>
 		<item>
 			<title>Placed on second reading by Rules Committee.</title>
@@ -370,11 +419,39 @@
 			<guid isPermaLink="false">2024-02-28/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Committee amendment(s) adopted as amended.</title>
+			<description>Committee amendment(s) adopted as amended.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-01/Committee amendment(s) adopted as amended.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-01/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 36; nays, 13; absent, 0; excused, 0.</title>
 			<description>Third reading, passed; yeas, 36; nays, 13; absent, 0; excused, 0.</description>
 			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-01/Third reading, passed; yeas, 36; nays, 13; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-06/House concurred in Senate amendments.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 82; nays, 14; absent, 0; excused, 1.</title>
+			<description>Passed final passage; yeas, 82; nays, 14; absent, 0; excused, 1.</description>
+			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-06/Passed final passage; yeas, 82; nays, 14; absent, 0; excused, 1.</guid>
 		</item>
 		<item>
 			<title>Delivered to Governor.</title>
@@ -384,11 +461,39 @@
 			<guid isPermaLink="false">2024-03-07/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/President signed.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>Chapter 79, 2024 Laws.</title>
+			<description>Chapter 79, 2024 Laws.</description>
+			<pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-14/Chapter 79, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024.</title>
 			<description>Effective date 6/6/2024.</description>
 			<pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-14/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-14/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Cannabis industry concerned over new tax break for WA medical marijuana patients | Washington | thecentersquare.com</title>

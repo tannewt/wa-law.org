@@ -73,11 +73,32 @@
 			<guid isPermaLink="false">testifier/Michael/Moran/2023-01-08 01:47:46</guid>
 		</item>
 		<item>
+			<title>First reading, referred to Community Safety, Justice, &amp; Reentry.</title>
+			<description>First reading, referred to Community Safety, Justice, &amp; Reentry.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to Community Safety, Justice, &amp; Reentry.</guid>
+		</item>
+		<item>
 			<title>The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats</title>
 			<description>News article "The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats" from House Democrats.</description>
 			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2023/01/09/the-house-hot-sheet-for-week-1-of-the-2023-legislative-session/#:~:text=HB%201028</guid>
+		</item>
+		<item>
+			<title>CSJR - Executive action taken by committee.</title>
+			<description>CSJR - Executive action taken by committee.</description>
+			<pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-19/CSJR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>CSJR - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>CSJR - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-19/CSJR - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 		<item>
 			<title>Referred to Appropriations.</title>
@@ -117,6 +138,13 @@
 			<guid isPermaLink="false">2023-02-22/APP - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>APP - Majority; 2nd substitute bill be substituted, do pass.</title>
+			<description>APP - Majority; 2nd substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-22/APP - Majority; 2nd substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
@@ -143,6 +171,13 @@
 			<pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-06/2nd substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-06/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</title>
@@ -183,6 +218,20 @@
 			<guid isPermaLink="false">testifier/Russell/Brown/2023-03-15 09:43:45</guid>
 		</item>
 		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-22/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>LAW - Majority; do pass with amendment(s).</title>
+			<description>LAW - Majority; do pass with amendment(s).</description>
+			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-22/LAW - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
 			<title>Referred to Ways &amp; Means.</title>
 			<description>Referred to Ways &amp; Means.</description>
 			<pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
@@ -213,11 +262,60 @@
 			<guid isPermaLink="true">https://crosscut.com/politics/2023/03/wa-bill-would-bring-trauma-informed-practices-sexual-assault-cases#:~:text=House%20Bill%201028</guid>
 		</item>
 		<item>
+			<title>WM - Majority; do pass with amendment(s) by Law &amp; Justice.</title>
+			<description>WM - Majority; do pass with amendment(s) by Law &amp; Justice.</description>
+			<pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-03/WM - Majority; do pass with amendment(s) by Law &amp; Justice.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-04/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Committee amendment(s) adopted with no other amendments.</title>
+			<description>Committee amendment(s) adopted with no other amendments.</description>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-11/Committee amendment(s) adopted with no other amendments.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-11/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-11/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-13/House concurred in Senate amendments.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
+			<description>Passed final passage; yeas, 97; nays, 0; absent, 0; excused, 1.</description>
+			<pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-13/Passed final passage; yeas, 97; nays, 0; absent, 0; excused, 1.</guid>
 		</item>
 		<item>
 			<title>Speaker signed.</title>
@@ -227,6 +325,13 @@
 			<guid isPermaLink="false">2023-04-14/Speaker signed.</guid>
 		</item>
 		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-17/President signed.</guid>
+		</item>
+		<item>
 			<title>Delivered to Governor.</title>
 			<description>Delivered to Governor.</description>
 			<pubDate>Tue, 18 Apr 2023 00:00:00 GMT</pubDate>
@@ -234,11 +339,25 @@
 			<guid isPermaLink="false">2023-04-18/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 197, 2023 Laws.</title>
+			<description>Chapter 197, 2023 Laws.</description>
+			<pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-01/Chapter 197, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023*.</title>
 			<description>Effective date 7/23/2023*.</description>
 			<pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-01/Effective date 7/23/2023*.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-01/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Governor signs Orwall bill to expand victim-centered, trauma-informed training for sexual assault investigations, adding requirement for prosecutors – Washington State House Democrats</title>

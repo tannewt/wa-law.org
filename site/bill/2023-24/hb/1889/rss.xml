@@ -211,6 +211,13 @@
 			<guid isPermaLink="false">2024-01-26/CPB - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>CPB - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>CPB - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-26/CPB - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
@@ -251,6 +258,13 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-09/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 66; nays, 31; absent, 0; excused, 1.</title>
@@ -464,6 +478,20 @@
 			<guid isPermaLink="false">testifier/Jesus/Mariscal/2024-02-19 08:52:36</guid>
 		</item>
 		<item>
+			<title>LC - Majority; do pass.</title>
+			<description>LC - Majority; do pass.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/LC - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
@@ -478,6 +506,13 @@
 			<guid isPermaLink="false">2024-02-23/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-27/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 41; nays, 8; absent, 0; excused, 0.</title>
 			<description>Third reading, passed; yeas, 41; nays, 8; absent, 0; excused, 0.</description>
 			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
@@ -490,6 +525,13 @@
 			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/02/27/walens-bill-enhances-professional-license-eligibility/#:~:text=House%20Bill%201889</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/President signed.</guid>
 		</item>
 		<item>
 			<title>Speaker signed.</title>
@@ -527,11 +569,25 @@
 			<guid isPermaLink="true">https://www.cascadepbs.org/politics/2024/03/2024-wa-legislature-passes-bills-guns-environment-education#:~:text=House%20Bill%201889</guid>
 		</item>
 		<item>
+			<title>Chapter 50, 2024 Laws.</title>
+			<description>Chapter 50, 2024 Laws.</description>
+			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-13/Chapter 50, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/1/2024.</title>
 			<description>Effective date 7/1/2024.</description>
 			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-13/Effective date 7/1/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-13/Governor signed.</guid>
 		</item>
 		<item>
 			<title>WA removes legal immigration status requirements for professional licenses • Washington State Standard</title>

@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>First reading, referred to Agriculture and Natural Resources.</title>
+			<description>First reading, referred to Agriculture and Natural Resources.</description>
+			<pubDate>Wed, 11 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-11/First reading, referred to Agriculture and Natural Resources.</guid>
+		</item>
+		<item>
 			<title>👍Rachel Blomker - WDFW</title>
 			<description>Rachel Blomker signed up to testify Pro. They are signed up to represent WDFW.</description>
 			<pubDate>Tue, 17 Jan 2023 01:49:10 GMT</pubDate>
@@ -40,6 +47,13 @@
 			<guid isPermaLink="false">2023-01-27/AGNR - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>AGNR - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>AGNR - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-27/AGNR - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
@@ -59,6 +73,27 @@
 			<pubDate>Wed, 08 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-08/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Wed, 08 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-08/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Wed, 08 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-08/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 08 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-08/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>

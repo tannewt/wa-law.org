@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Fri, 06 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-06/Prefiled for introduction.</guid>
+		</item>
+		<item>
 			<title>First reading, referred to Housing.</title>
 			<description>First reading, referred to Housing.</description>
 			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
@@ -165,6 +172,34 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Amanda/DeShazo/2023-01-18 12:16:40</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-01/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>HSG - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HSG - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-01/HSG - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-01/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-01/Minority; without recommendation.</guid>
 		</item>
 		<item>
 			<title>Referred to Ways &amp; Means.</title>

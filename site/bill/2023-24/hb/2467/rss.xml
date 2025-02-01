@@ -69,6 +69,13 @@
 			<guid isPermaLink="false">2024-01-30/HCW - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>HCW - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HCW - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-30/HCW - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
@@ -95,6 +102,13 @@
 			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-12/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-12/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 58; nays, 39; absent, 0; excused, 1.</title>
@@ -142,6 +156,27 @@
 			<guid isPermaLink="false">testifier/Cathy/Knight/2024-02-16 04:19:11</guid>
 		</item>
 		<item>
+			<title>LC - Majority; do pass.</title>
+			<description>LC - Majority; do pass.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/LC - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
@@ -163,11 +198,25 @@
 			<guid isPermaLink="false">2024-02-27/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-28/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 27; nays, 21; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 27; nays, 21; absent, 0; excused, 1.</description>
 			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-28/Third reading, passed; yeas, 27; nays, 21; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Speaker signed.</guid>
 		</item>
 		<item>
 			<title>President signed.</title>
@@ -184,6 +233,13 @@
 			<guid isPermaLink="false">2024-03-04/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 120, 2024 Laws.</title>
+			<description>Chapter 120, 2024 Laws.</description>
+			<pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-15/Chapter 120, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024.</title>
 			<description>Effective date 6/6/2024.</description>
 			<pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
@@ -196,6 +252,13 @@
 			<pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-15/Effective date 7/1/2025.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-15/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

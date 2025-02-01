@@ -165,6 +165,20 @@
 			<guid isPermaLink="false">2024-01-29/ED - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>ED - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ED - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-29/ED - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-29/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
@@ -184,6 +198,34 @@
 			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-31/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>APP - Majority; 2nd substitute bill be substituted, do pass.</title>
+			<description>APP - Majority; 2nd substitute bill be substituted, do pass.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/APP - Majority; 2nd substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/Minority; without recommendation.</guid>
 		</item>
 		<item>
 			<title>Referred to Rules 2 Review.</title>
@@ -212,6 +254,13 @@
 			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-12/2nd substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-12/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 60; nays, 35; absent, 0; excused, 3.</title>

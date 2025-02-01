@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>First reading, referred to Human Services, Youth, &amp; Early Learning (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Human Services, Youth, &amp; Early Learning (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-19/First reading, referred to Human Services, Youth, &amp; Early Learning (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
 			<title>First reading, referred to Human Services, Youth, &amp; Early Learning.</title>
 			<description>First reading, referred to Human Services, Youth, &amp; Early Learning.</description>
 			<pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
@@ -111,6 +118,20 @@
 			<guid isPermaLink="false">2023-02-15/HSEL - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>HSEL - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HSEL - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-15/HSEL - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-15/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>Referred to Appropriations.</title>
 			<description>Referred to Appropriations.</description>
 			<pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
@@ -126,11 +147,32 @@
 			<guid isPermaLink="false">testifier/Paula/Reed/2023-02-20 11:38:11</guid>
 		</item>
 		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-24/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>APP - Majority; do pass 1st substitute bill proposed by Human Services, Youth, &amp; Early Learning.</title>
+			<description>APP - Majority; do pass 1st substitute bill proposed by Human Services, Youth, &amp; Early Learning.</description>
+			<pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-24/APP - Majority; do pass 1st substitute bill proposed by Human Services, Youth, &amp; Early Learning.</guid>
+		</item>
+		<item>
 			<title>Referred to Rules 2 Review.</title>
 			<description>Referred to Rules 2 Review.</description>
 			<pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-24/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 		<item>
 			<title>Referred to Human Services, Youth, &amp; Early Learning.</title>
@@ -140,11 +182,25 @@
 			<guid isPermaLink="false">2024-01-08/Referred to Human Services, Youth, &amp; Early Learning.</guid>
 		</item>
 		<item>
+			<title>Rules Committee relieved of further consideration.</title>
+			<description>Rules Committee relieved of further consideration.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/Rules Committee relieved of further consideration.</guid>
+		</item>
+		<item>
 			<title>HSEL - Executive action taken by committee.</title>
 			<description>HSEL - Executive action taken by committee.</description>
 			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-19/HSEL - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>HSEL - Majority; 2nd substitute bill be substituted, do pass.</title>
+			<description>HSEL - Majority; 2nd substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-19/HSEL - Majority; 2nd substitute bill be substituted, do pass.</guid>
 		</item>
 		<item>
 			<title>Minority; without recommendation.</title>
@@ -173,6 +229,13 @@
 			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-20/House Rules "X" file.</guid>
+		</item>
+		<item>
+			<title>Returned to Rules Committee for second reading.</title>
+			<description>Returned to Rules Committee for second reading.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Returned to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

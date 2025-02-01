@@ -316,6 +316,20 @@
 			<guid isPermaLink="false">2023-02-14/CPB - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>CPB - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>CPB - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-14/CPB - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-14/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
@@ -344,6 +358,20 @@
 			<guid isPermaLink="false">2023-03-02/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-02/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-02/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 92; nays, 5; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 92; nays, 5; absent, 0; excused, 1.</description>
 			<pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
@@ -363,6 +391,27 @@
 			<pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-06/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>And refer to Business, Financial Services, Gaming &amp; Trade.</title>
+			<description>And refer to Business, Financial Services, Gaming &amp; Trade.</description>
+			<pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-09/And refer to Business, Financial Services, Gaming &amp; Trade.</guid>
+		</item>
+		<item>
+			<title>LAW - Majority; without recommendation.</title>
+			<description>LAW - Majority; without recommendation.</description>
+			<pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-09/LAW - Majority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-09/Minority; do not pass.</guid>
 		</item>
 		<item>
 			<title>Referred to Business, Financial Services, Gaming &amp; Trade.</title>
@@ -468,6 +517,13 @@
 			<guid isPermaLink="false">testifier/Kayla/Kerr/2023-03-20 10:01:42</guid>
 		</item>
 		<item>
+			<title>BFGT - Majority; do pass with amendment(s).</title>
+			<description>BFGT - Majority; do pass with amendment(s).</description>
+			<pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-28/BFGT - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
@@ -487,6 +543,20 @@
 			<pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-30/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Committee amendment(s) adopted as amended.</title>
+			<description>Committee amendment(s) adopted as amended.</description>
+			<pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-05/Committee amendment(s) adopted as amended.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-05/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 39; nays, 9; absent, 0; excused, 1.</title>
@@ -510,11 +580,32 @@
 			<guid isPermaLink="true">https://www.fox13seattle.com/news/bill-could-crack-down-on-wa-pet-stores-who-source-dogs-from-out-of-state-puppy-mills#:~:text=Amended%20bill%201424</guid>
 		</item>
 		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-14/House concurred in Senate amendments.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 92; nays, 4; absent, 0; excused, 2.</title>
+			<description>Passed final passage; yeas, 92; nays, 4; absent, 0; excused, 2.</description>
+			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-14/Passed final passage; yeas, 92; nays, 4; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
 			<title>Speaker signed.</title>
 			<description>Speaker signed.</description>
 			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-14/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-17/President signed.</guid>
 		</item>
 		<item>
 			<title>Delivered to Governor.</title>
@@ -524,11 +615,25 @@
 			<guid isPermaLink="false">2023-04-18/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 208, 2023 Laws.</title>
+			<description>Chapter 208, 2023 Laws.</description>
+			<pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-01/Chapter 208, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-01/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-01/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Newly passed pet protection bills will help abused &amp; neglected animals rehabilitate, find homes faster</title>

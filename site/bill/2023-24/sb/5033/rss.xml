@@ -84,6 +84,13 @@
 			<guid isPermaLink="false">2023-02-27/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-27/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</description>
 			<pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
@@ -129,6 +136,13 @@
 			<guid isPermaLink="false">testifier/Gabriel/Galanda/2023-03-08 06:06:55</guid>
 		</item>
 		<item>
+			<title>CSJR - Executive action taken by committee.</title>
+			<description>CSJR - Executive action taken by committee.</description>
+			<pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-16/CSJR - Executive action taken by committee.</guid>
+		</item>
+		<item>
 			<title>CSJR - Majority; do pass.</title>
 			<description>CSJR - Majority; do pass.</description>
 			<pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
@@ -148,6 +162,13 @@
 			<pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-21/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-22/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
@@ -178,11 +199,25 @@
 			<guid isPermaLink="false">2023-03-27/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 7, 2023 Laws.</title>
+			<description>Chapter 7, 2023 Laws.</description>
+			<pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-30/Chapter 7, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-30/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-30/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

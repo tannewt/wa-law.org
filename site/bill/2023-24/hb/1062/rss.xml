@@ -177,6 +177,13 @@
 			<guid isPermaLink="false">2024-01-23/CSJR - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>CSJR - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>CSJR - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-23/CSJR - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
@@ -291,6 +298,27 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Lara/Zarowsky/2024-02-01 10:57:07</guid>
+		</item>
+		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>APP - Majority; 2nd substitute bill be substituted, do pass.</title>
+			<description>APP - Majority; 2nd substitute bill be substituted, do pass.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/APP - Majority; 2nd substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/Minority; without recommendation.</guid>
 		</item>
 		<item>
 			<title>Referred to Rules 2 Review.</title>

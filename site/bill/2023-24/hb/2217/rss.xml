@@ -95,6 +95,20 @@
 			<guid isPermaLink="false">2024-01-30/HSEL - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>HSEL - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HSEL - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-30/HSEL - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-30/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
@@ -107,6 +121,13 @@
 			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-31/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>Committee relieved of further consideration.</title>
+			<description>Committee relieved of further consideration.</description>
+			<pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-02/Committee relieved of further consideration.</guid>
 		</item>
 		<item>
 			<title>Referred to Rules 2 Review.</title>
@@ -128,6 +149,13 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-09/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 54; nays, 43; absent, 0; excused, 1.</title>
@@ -198,6 +226,20 @@
 			<guid isPermaLink="true">https://www.kiro7.com/news/local/issues-teen-crimes-getting-addressed-or-not-this-legislative-session/6DSXFLS3DFCYRMICO2YK47VS4I/#:~:text=House%20Bill%202217</guid>
 		</item>
 		<item>
+			<title>HS - Majority; do pass.</title>
+			<description>HS - Majority; do pass.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/HS - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
@@ -210,6 +252,13 @@
 			<pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-23/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-28/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.</title>
@@ -226,6 +275,13 @@
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/02/28/senate-passes-cortes-bill-championing-juvenile-justice-reform/#:~:text=House%20Bill%202217</guid>
 		</item>
 		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Speaker signed.</guid>
+		</item>
+		<item>
 			<title>President signed.</title>
 			<description>President signed.</description>
 			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
@@ -240,11 +296,25 @@
 			<guid isPermaLink="false">2024-03-04/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 117, 2024 Laws.</title>
+			<description>Chapter 117, 2024 Laws.</description>
+			<pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-15/Chapter 117, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024.</title>
 			<description>Effective date 6/6/2024.</description>
 			<pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-15/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-15/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Gov. Signs Cortes Bill Providing Juvenile Justice – Washington State House Democrats</title>

@@ -189,6 +189,13 @@
 			<guid isPermaLink="false">testifier/Anna/Hernandez-French/2024-01-17 11:50:01</guid>
 		</item>
 		<item>
+			<title>EDU - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>EDU - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-25/EDU - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>On motion, referred to Ways &amp; Means.</title>
 			<description>On motion, referred to Ways &amp; Means.</description>
 			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
@@ -212,11 +219,25 @@
 			<guid isPermaLink="false">testifier/Anna/Hernandez-French/2024-02-02 12:46:06</guid>
 		</item>
 		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-05/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; 2nd substitute bill be substituted, do pass.</title>
+			<description>WM - Majority; 2nd substitute bill be substituted, do pass.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/WM - Majority; 2nd substitute bill be substituted, do pass.</guid>
 		</item>
 		<item>
 			<title>Bills advance, falter as Legislature reaches committee cutoffs - WSPTA</title>
@@ -238,6 +259,20 @@
 			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-08/2nd substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-08/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-08/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 46; nays, 3; absent, 0; excused, 0.</title>
@@ -458,6 +493,34 @@
 			<pubDate>Thu, 15 Feb 2024 19:12:50 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/wspta-testifies-2/#:~:text=E2SSB%205849</guid>
+		</item>
+		<item>
+			<title>ED - Executive action taken by committee.</title>
+			<description>ED - Executive action taken by committee.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/ED - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>ED - Majority; do pass with amendment(s).</title>
+			<description>ED - Majority; do pass with amendment(s).</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/ED - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Minority; without recommendation.</guid>
 		</item>
 		<item>
 			<title>Referred to Appropriations.</title>

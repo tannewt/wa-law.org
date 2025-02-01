@@ -133,6 +133,20 @@
 			<guid isPermaLink="false">2024-01-23/ENVI - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>ENVI - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ENVI - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-23/ENVI - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-23/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>Referred to Rules 2 Review.</title>
 			<description>Referred to Rules 2 Review.</description>
 			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
@@ -152,6 +166,20 @@
 			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-12/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-12/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-12/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 64; nays, 33; absent, 0; excused, 1.</title>
@@ -231,6 +259,20 @@
 			<guid isPermaLink="false">testifier/Dominga/Soliz/2024-02-15 08:12:03</guid>
 		</item>
 		<item>
+			<title>ENET - Majority; do pass with amendment(s).</title>
+			<description>ENET - Majority; do pass with amendment(s).</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/ENET - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
@@ -245,11 +287,32 @@
 			<guid isPermaLink="false">2024-02-23/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Committee amendment(s) adopted as amended.</title>
+			<description>Committee amendment(s) adopted as amended.</description>
+			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-27/Committee amendment(s) adopted as amended.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-27/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 44; nays, 5; absent, 0; excused, 0.</title>
 			<description>Third reading, passed; yeas, 44; nays, 5; absent, 0; excused, 0.</description>
 			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-27/Third reading, passed; yeas, 44; nays, 5; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-05/House concurred in Senate amendments.</guid>
 		</item>
 		<item>
 			<title>Passed final passage; yeas, 72; nays, 24; absent, 0; excused, 1.</title>
@@ -259,6 +322,13 @@
 			<guid isPermaLink="false">2024-03-05/Passed final passage; yeas, 72; nays, 24; absent, 0; excused, 1.</guid>
 		</item>
 		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-06/Speaker signed.</guid>
+		</item>
+		<item>
 			<title>Delivered to Governor.</title>
 			<description>Delivered to Governor.</description>
 			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
@@ -266,11 +336,32 @@
 			<guid isPermaLink="false">2024-03-07/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/President signed.</guid>
+		</item>
+		<item>
+			<title>Chapter 347, 2024 Laws.</title>
+			<description>Chapter 347, 2024 Laws.</description>
+			<pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-28/Chapter 347, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024*.</title>
 			<description>Effective date 6/6/2024*.</description>
 			<pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-28/Effective date 6/6/2024*.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-28/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

@@ -9,6 +9,20 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Fri, 06 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-06/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Environment &amp; Energy.</title>
+			<description>First reading, referred to Environment &amp; Energy.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to Environment &amp; Energy.</guid>
+		</item>
+		<item>
 			<title>👍Russell Olsen - Executive Director of the Washington State Pollution Liability Insurance Agency</title>
 			<description>Russell Olsen signed up to testify Pro. They are signed up to represent Executive Director of the Washington State Pollution Liability Insurance Agency.</description>
 			<pubDate>Sun, 15 Jan 2023 08:02:38 GMT</pubDate>
@@ -31,6 +45,27 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Diana/Carlen/2023-01-16 07:58:31</guid>
+		</item>
+		<item>
+			<title>ENVI - Executive action taken by committee.</title>
+			<description>ENVI - Executive action taken by committee.</description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-23/ENVI - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>ENVI - Majority; do pass.</title>
+			<description>ENVI - Majority; do pass.</description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-23/ENVI - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 23 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-23/Minority; without recommendation.</guid>
 		</item>
 		<item>
 			<title>Referred to Appropriations.</title>
@@ -147,6 +182,20 @@
 			<guid isPermaLink="false">2023-03-16/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-16/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-16/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 63; nays, 31; absent, 0; excused, 4.</title>
 			<description>Third reading, passed; yeas, 63; nays, 31; absent, 0; excused, 4.</description>
 			<pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
@@ -224,6 +273,13 @@
 			<guid isPermaLink="false">2023-03-28/And refer to Ways &amp; Means.</guid>
 		</item>
 		<item>
+			<title>ENET - Majority; do pass.</title>
+			<description>ENET - Majority; do pass.</description>
+			<pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-28/ENET - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Ways &amp; Means.</title>
 			<description>Referred to Ways &amp; Means.</description>
 			<pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
@@ -247,6 +303,20 @@
 			<guid isPermaLink="false">testifier/Cassandra/Garcia/2023-03-30 06:57:47</guid>
 		</item>
 		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-03/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; do pass.</title>
+			<description>WM - Majority; do pass.</description>
+			<pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-03/WM - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
@@ -261,11 +331,32 @@
 			<guid isPermaLink="false">2023-04-07/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-11/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 35; nays, 14; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 35; nays, 14; absent, 0; excused, 0.</description>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-11/Third reading, passed; yeas, 35; nays, 14; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
 			<title>Speaker signed.</title>
 			<description>Speaker signed.</description>
 			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-14/Speaker signed.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-17/President signed.</guid>
 		</item>
 		<item>
 			<title>Delivered to Governor.</title>
@@ -275,11 +366,25 @@
 			<guid isPermaLink="false">2023-04-18/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 170, 2023 Laws.</title>
+			<description>Chapter 170, 2023 Laws.</description>
+			<pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-25/Chapter 170, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023*.</title>
 			<description>Effective date 7/23/2023*.</description>
 			<pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-25/Effective date 7/23/2023*.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-25/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Washington gas stations are leaking toxins into nearby groundwater | Crosscut</title>

@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>First reading, referred to Human Services.</title>
+			<description>First reading, referred to Human Services.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
 			<title>👍Kyra Abrahamson - Washington Trafficking Prevention</title>
 			<description>Kyra Abrahamson signed up to testify Pro. They are signed up to represent Washington Trafficking Prevention.</description>
 			<pubDate>Mon, 16 Jan 2023 01:44:41 GMT</pubDate>
@@ -81,6 +88,20 @@
 			<guid isPermaLink="false">testifier/Emi/Koyama/2023-01-16 10:56:20</guid>
 		</item>
 		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>HS - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HS - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/HS - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Ways &amp; Means.</title>
 			<description>Referred to Ways &amp; Means.</description>
 			<pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
@@ -111,6 +132,13 @@
 			<guid isPermaLink="true">https://www.seattletimes.com/opinion/wa-cannot-neglect-sex-trafficking-victims/#:~:text=Senate%20Bill%205114</guid>
 		</item>
 		<item>
+			<title>WM - Majority; do pass 1st substitute bill proposed by Human Services.</title>
+			<description>WM - Majority; do pass 1st substitute bill proposed by Human Services.</description>
+			<pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-20/WM - Majority; do pass 1st substitute bill proposed by Human Services.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
@@ -130,6 +158,13 @@
 			<pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-01/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-01/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
@@ -243,6 +278,13 @@
 			<guid isPermaLink="false">2023-04-03/APP - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>APP - Majority; do pass.</title>
+			<description>APP - Majority; do pass.</description>
+			<pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-03/APP - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Rules 2 Review.</title>
 			<description>Referred to Rules 2 Review.</description>
 			<pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
@@ -264,11 +306,39 @@
 			<guid isPermaLink="false">2023-04-06/Placed on second reading suspension calendar.</guid>
 		</item>
 		<item>
+			<title>Rules Committee relieved of further consideration.</title>
+			<description>Rules Committee relieved of further consideration.</description>
+			<pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-06/Rules Committee relieved of further consideration.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-12/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 94; nays, 1; absent, 0; excused, 3.</title>
+			<description>Third reading, passed; yeas, 94; nays, 1; absent, 0; excused, 3.</description>
+			<pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-12/Third reading, passed; yeas, 94; nays, 1; absent, 0; excused, 3.</guid>
+		</item>
+		<item>
 			<title>President signed.</title>
 			<description>President signed.</description>
 			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-14/President signed.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-17/Speaker signed.</guid>
 		</item>
 		<item>
 			<title>Delivered to Governor.</title>
@@ -278,11 +348,25 @@
 			<guid isPermaLink="false">2023-04-18/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 268, 2023 Laws.</title>
+			<description>Chapter 268, 2023 Laws.</description>
+			<pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-04/Chapter 268, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-04/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-04/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Gov. Inslee signs bill to help survivors of sex trafficking in WA | Crosscut</title>

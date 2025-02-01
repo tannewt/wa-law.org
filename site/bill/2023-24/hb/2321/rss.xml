@@ -88,6 +88,20 @@
 			<guid isPermaLink="false">testifier/Iskra/Johnson/2024-01-22 12:21:47</guid>
 		</item>
 		<item>
+			<title>HOUS - Executive action taken by committee.</title>
+			<description>HOUS - Executive action taken by committee.</description>
+			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-25/HOUS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>HOUS - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HOUS - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-25/HOUS - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Rules 2 Review.</title>
 			<description>Referred to Rules 2 Review.</description>
 			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
@@ -107,6 +121,20 @@
 			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-08/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-08/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-08/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 94; nays, 3; absent, 0; excused, 1.</title>
@@ -223,11 +251,39 @@
 			<guid isPermaLink="false">2024-02-23/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-27/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-27/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 30; nays, 18; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 30; nays, 18; absent, 0; excused, 1.</description>
 			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-27/Third reading, passed; yeas, 30; nays, 18; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-04/House concurred in Senate amendments.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 93; nays, 4; absent, 0; excused, 1.</title>
+			<description>Passed final passage; yeas, 93; nays, 4; absent, 0; excused, 1.</description>
+			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-04/Passed final passage; yeas, 93; nays, 4; absent, 0; excused, 1.</guid>
 		</item>
 		<item>
 			<title>Speaker signed.</title>
@@ -244,11 +300,32 @@
 			<guid isPermaLink="false">2024-03-06/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-06/President signed.</guid>
+		</item>
+		<item>
+			<title>Chapter 152, 2024 Laws.</title>
+			<description>Chapter 152, 2024 Laws.</description>
+			<pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-18/Chapter 152, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024.</title>
 			<description>Effective date 6/6/2024.</description>
 			<pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-18/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-18/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

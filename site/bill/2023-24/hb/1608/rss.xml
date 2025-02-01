@@ -62,6 +62,13 @@
 			<guid isPermaLink="false">testifier/Sebrena/Burr/2024-01-10 12:13:49</guid>
 		</item>
 		<item>
+			<title>ED - Executive action taken by committee.</title>
+			<description>ED - Executive action taken by committee.</description>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-18/ED - Executive action taken by committee.</guid>
+		</item>
+		<item>
 			<title>ED - Majority; 1st substitute bill be substituted, do pass.</title>
 			<description>ED - Majority; 1st substitute bill be substituted, do pass.</description>
 			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
@@ -97,6 +104,20 @@
 			<guid isPermaLink="false">2024-01-25/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-25/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-25/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 93; nays, 0; absent, 0; excused, 5.</title>
 			<description>Third reading, passed; yeas, 93; nays, 0; absent, 0; excused, 5.</description>
 			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
@@ -127,6 +148,13 @@
 			<guid isPermaLink="false">testifier/Taylor/Mason/2024-02-08 03:44:15</guid>
 		</item>
 		<item>
+			<title>EDU - Majority; do pass.</title>
+			<description>EDU - Majority; do pass.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/EDU - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
@@ -139,6 +167,20 @@
 			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-27/Placed on second reading consent calendar.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Speaker signed.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 46; nays, 0; absent, 0; excused, 3.</title>
@@ -162,11 +204,25 @@
 			<guid isPermaLink="false">2024-03-04/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 81, 2024 Laws.</title>
+			<description>Chapter 81, 2024 Laws.</description>
+			<pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-14/Chapter 81, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024.</title>
 			<description>Effective date 6/6/2024.</description>
 			<pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-14/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-14/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Governor signs Bronoske expanding access to anaphylaxis medication in schools.  – Washington State House Democrats</title>

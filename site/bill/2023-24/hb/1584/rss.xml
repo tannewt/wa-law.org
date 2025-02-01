@@ -118,6 +118,13 @@
 			<guid isPermaLink="false">2023-02-16/ENVI - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>ENVI - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ENVI - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-16/ENVI - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Rules 2 Review.</title>
 			<description>Referred to Rules 2 Review.</description>
 			<pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
@@ -137,6 +144,20 @@
 			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-28/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-28/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-28/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 91; nays, 6; absent, 0; excused, 1.</title>
@@ -321,6 +342,20 @@
 			<guid isPermaLink="false">testifier/Laura/Feldman/2023-03-09 12:55:37</guid>
 		</item>
 		<item>
+			<title>ENET - Majority; do pass with amendment(s).</title>
+			<description>ENET - Majority; do pass with amendment(s).</description>
+			<pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-24/ENET - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-24/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
@@ -342,11 +377,25 @@
 			<guid isPermaLink="false">2023-04-23/By resolution, returned to House Rules Committee for third reading.</guid>
 		</item>
 		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
 			<title>Referred to Environment &amp; Energy.</title>
 			<description>Referred to Environment &amp; Energy.</description>
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/Referred to Environment &amp; Energy.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.</title>
+			<description>Rules Committee relieved of further consideration.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/Rules Committee relieved of further consideration.</guid>
 		</item>
 	</channel>
 </rss>

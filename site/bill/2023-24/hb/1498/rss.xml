@@ -79,6 +79,13 @@
 			<guid isPermaLink="false">testifier/Jim/Pope/2023-02-03 09:23:04</guid>
 		</item>
 		<item>
+			<title>AGNR - Executive action taken by committee.</title>
+			<description>AGNR - Executive action taken by committee.</description>
+			<pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-15/AGNR - Executive action taken by committee.</guid>
+		</item>
+		<item>
 			<title>AGNR - Majority; 1st substitute bill be substituted, do pass.</title>
 			<description>AGNR - Majority; 1st substitute bill be substituted, do pass.</description>
 			<pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
@@ -125,6 +132,20 @@
 			<guid isPermaLink="false">testifier/Robert/Bell/2023-02-23 07:42:13</guid>
 		</item>
 		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-24/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>APP - Majority; do pass 1st substitute bill proposed by Agriculture and Natural Resources.</title>
+			<description>APP - Majority; do pass 1st substitute bill proposed by Agriculture and Natural Resources.</description>
+			<pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-24/APP - Majority; do pass 1st substitute bill proposed by Agriculture and Natural Resources.</guid>
+		</item>
+		<item>
 			<title>Referred to Rules 2 Review.</title>
 			<description>Referred to Rules 2 Review.</description>
 			<pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
@@ -144,6 +165,20 @@
 			<pubDate>Wed, 08 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-08/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Wed, 08 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-08/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 08 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-08/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
@@ -207,6 +242,13 @@
 			<guid isPermaLink="false">testifier/Dylan/Doty/2023-03-20 11:53:56</guid>
 		</item>
 		<item>
+			<title>AWNP - Majority; do pass with amendment(s).</title>
+			<description>AWNP - Majority; do pass with amendment(s).</description>
+			<pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-27/AWNP - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
 			<title>And refer to Ways &amp; Means.</title>
 			<description>And refer to Ways &amp; Means.</description>
 			<pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
@@ -229,6 +271,13 @@
 			<guid isPermaLink="false">testifier/Brian/Considine/2023-03-29 03:51:43</guid>
 		</item>
 		<item>
+			<title>WM - Majority; do pass with amendment(s) by Agriculture, Water, Natural Resources &amp; Parks.</title>
+			<description>WM - Majority; do pass with amendment(s) by Agriculture, Water, Natural Resources &amp; Parks.</description>
+			<pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-03/WM - Majority; do pass with amendment(s) by Agriculture, Water, Natural Resources &amp; Parks.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
@@ -243,11 +292,46 @@
 			<guid isPermaLink="false">2023-04-07/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Committee amendment(s) adopted with no other amendments.</title>
+			<description>Committee amendment(s) adopted with no other amendments.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Committee amendment(s) adopted with no other amendments.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-14/House concurred in Senate amendments.</guid>
+		</item>
+		<item>
 			<title>Passed final passage; yeas, 96; nays, 0; absent, 0; excused, 2.</title>
 			<description>Passed final passage; yeas, 96; nays, 0; absent, 0; excused, 2.</description>
 			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-14/Passed final passage; yeas, 96; nays, 0; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-17/Speaker signed.</guid>
 		</item>
 		<item>
 			<title>President signed.</title>
@@ -264,11 +348,25 @@
 			<guid isPermaLink="false">2023-04-19/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 457, 2023 Laws.</title>
+			<description>Chapter 457, 2023 Laws.</description>
+			<pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-15/Chapter 457, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-15/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-15/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

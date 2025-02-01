@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>First reading, referred to Human Services.</title>
+			<description>First reading, referred to Human Services.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
 			<title>News - Washington Senate Democrats</title>
 			<description>News article "News - Washington Senate Democrats" from Senate Democrats.</description>
 			<pubDate>Wed, 11 Jan 2023 00:04:59 GMT</pubDate>
@@ -56,6 +63,20 @@
 			<guid isPermaLink="false">testifier/Tonya/Braun/2023-01-18 12:21:59</guid>
 		</item>
 		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>HS - Majority; do pass.</title>
+			<description>HS - Majority; do pass.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/HS - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Ways &amp; Means.</title>
 			<description>Referred to Ways &amp; Means.</description>
 			<pubDate>Fri, 27 Jan 2023 00:00:00 GMT</pubDate>
@@ -71,6 +92,13 @@
 			<guid isPermaLink="false">testifier/David/Martin/2023-02-05 08:33:19</guid>
 		</item>
 		<item>
+			<title>WM - Majority; do pass.</title>
+			<description>WM - Majority; do pass.</description>
+			<pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-14/WM - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Made eligible to be placed on second reading.</title>
 			<description>Made eligible to be placed on second reading.</description>
 			<pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
@@ -78,11 +106,25 @@
 			<guid isPermaLink="false">2023-02-15/Made eligible to be placed on second reading.</guid>
 		</item>
 		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-15/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
 			<title>Placed on second reading consent calendar.</title>
 			<description>Placed on second reading consent calendar.</description>
 			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-22/Placed on second reading consent calendar.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-27/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
@@ -105,6 +147,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Russell/Brown/2023-03-08 08:29:15</guid>
+		</item>
+		<item>
+			<title>CSJR - Executive action taken by committee.</title>
+			<description>CSJR - Executive action taken by committee.</description>
+			<pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-16/CSJR - Executive action taken by committee.</guid>
 		</item>
 		<item>
 			<title>CSJR - Majority; do pass.</title>
@@ -142,6 +191,20 @@
 			<guid isPermaLink="false">2023-04-04/Referred to Rules 2 Review.</guid>
 		</item>
 		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-06/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-06/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</title>
 			<description>Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</description>
 			<pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
@@ -170,11 +233,25 @@
 			<guid isPermaLink="false">2023-04-14/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 108, 2023 Laws.</title>
+			<description>Chapter 108, 2023 Laws.</description>
+			<pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-20/Chapter 108, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/30/2023.</title>
 			<description>Effective date 6/30/2023.</description>
 			<pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-20/Effective date 6/30/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-20/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Nobles bill makes reimbursement Crime Victims Compensation Program permanent for survivors of strangulation - Washington Senate Democrats</title>

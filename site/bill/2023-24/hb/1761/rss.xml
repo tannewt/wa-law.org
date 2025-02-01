@@ -48,6 +48,20 @@
 			<guid isPermaLink="false">testifier/Tom/Konis/2023-02-13 02:30:08</guid>
 		</item>
 		<item>
+			<title>FIN - Executive action taken by committee.</title>
+			<description>FIN - Executive action taken by committee.</description>
+			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-22/FIN - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>FIN - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>FIN - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-22/FIN - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
@@ -88,6 +102,13 @@
 			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-20/House Rules "X" file.</guid>
+		</item>
+		<item>
+			<title>Returned to Rules Committee for second reading.</title>
+			<description>Returned to Rules Committee for second reading.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Returned to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

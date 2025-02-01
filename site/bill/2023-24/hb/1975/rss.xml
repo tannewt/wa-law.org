@@ -74,6 +74,13 @@
 			<guid isPermaLink="false">2024-02-07/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-08/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</description>
 			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
@@ -102,6 +109,20 @@
 			<guid isPermaLink="false">2024-02-12/First reading, referred to Labor &amp; Commerce.</guid>
 		</item>
 		<item>
+			<title>LC - Majority; do pass.</title>
+			<description>LC - Majority; do pass.</description>
+			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-15/LC - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-15/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
@@ -121,6 +142,13 @@
 			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-20/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-22/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
@@ -151,11 +179,25 @@
 			<guid isPermaLink="false">2024-03-01/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 8, 2024 Laws.</title>
+			<description>Chapter 8, 2024 Laws.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/Chapter 8, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024.</title>
 			<description>Effective date 6/6/2024.</description>
 			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-07/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Gov. Signs Ortiz-Self Bill Regarding Pandemic Unemployment Overpayment Interest – Washington State House Democrats</title>

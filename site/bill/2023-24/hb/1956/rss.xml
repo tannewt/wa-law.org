@@ -172,6 +172,13 @@
 			<guid isPermaLink="false">testifier/Simone/Boe/2024-01-17 07:39:17</guid>
 		</item>
 		<item>
+			<title>ED - Executive action taken by committee.</title>
+			<description>ED - Executive action taken by committee.</description>
+			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-25/ED - Executive action taken by committee.</guid>
+		</item>
+		<item>
 			<title>ED - Majority; 1st substitute bill be substituted, do pass.</title>
 			<description>ED - Majority; 1st substitute bill be substituted, do pass.</description>
 			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
@@ -191,6 +198,20 @@
 			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-29/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>APP - Majority; 2nd substitute bill be substituted, do pass.</title>
+			<description>APP - Majority; 2nd substitute bill be substituted, do pass.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/APP - Majority; 2nd substitute bill be substituted, do pass.</guid>
 		</item>
 		<item>
 			<title>Referred to Rules 2 Review.</title>
@@ -219,6 +240,20 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/2nd substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-09/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-09/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
@@ -417,6 +452,20 @@
 			<guid isPermaLink="false">testifier/Scott/Waller/2024-02-15 12:32:33</guid>
 		</item>
 		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>EDU - Majority; do pass.</title>
+			<description>EDU - Majority; do pass.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/EDU - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Ways &amp; Means.</title>
 			<description>Referred to Ways &amp; Means.</description>
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
@@ -503,11 +552,39 @@
 			<guid isPermaLink="false">testifier/Melissa/Gombosky/2024-02-23 12:27:36</guid>
 		</item>
 		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; do pass with amendment(s).</title>
+			<description>WM - Majority; do pass with amendment(s).</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/WM - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
 			<title>Placed on second reading consent calendar.</title>
 			<description>Placed on second reading consent calendar.</description>
 			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-27/Placed on second reading consent calendar.</guid>
+		</item>
+		<item>
+			<title>Committee amendment(s) adopted with no other amendments.</title>
+			<description>Committee amendment(s) adopted with no other amendments.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Committee amendment(s) adopted with no other amendments.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 46; nays, 0; absent, 0; excused, 3.</title>
@@ -524,11 +601,25 @@
 			<guid isPermaLink="true">https://www.king5.com/article/news/local/lucas-petty-act-would-add-opioid-fentanyl-awareness-to-health-education-courses/281-c68372f0-1597-462e-8c80-fd30130e9b12#:~:text=House%20Bill%201956</guid>
 		</item>
 		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-05/House concurred in Senate amendments.</guid>
+		</item>
+		<item>
 			<title>Passed final passage; yeas, 96; nays, 0; absent, 0; excused, 1.</title>
 			<description>Passed final passage; yeas, 96; nays, 0; absent, 0; excused, 1.</description>
 			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-05/Passed final passage; yeas, 96; nays, 0; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-06/Speaker signed.</guid>
 		</item>
 		<item>
 			<title>Delivered to Governor.</title>
@@ -538,11 +629,32 @@
 			<guid isPermaLink="false">2024-03-07/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/President signed.</guid>
+		</item>
+		<item>
+			<title>Chapter 201, 2024 Laws.</title>
+			<description>Chapter 201, 2024 Laws.</description>
+			<pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-19/Chapter 201, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 3/19/2024.</title>
 			<description>Effective date 3/19/2024.</description>
 			<pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-19/Effective date 3/19/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-19/Governor signed.</guid>
 		</item>
 		<item>
 			<title>New laws aim to prevent youth opioid overdoses - Axios Seattle</title>

@@ -91,6 +91,13 @@
 			<guid isPermaLink="false">2023-03-01/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-01/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</title>
 			<description>Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</description>
 			<pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
@@ -103,6 +110,13 @@
 			<pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-03/First reading, referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; do pass.</title>
+			<description>WM - Majority; do pass.</description>
+			<pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-13/WM - Majority; do pass.</guid>
 		</item>
 		<item>
 			<title>Passed to Rules Committee for second reading.</title>
@@ -119,6 +133,13 @@
 			<guid isPermaLink="false">2023-03-30/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-05/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</description>
 			<pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
@@ -133,6 +154,13 @@
 			<guid isPermaLink="false">2023-04-06/President signed.</guid>
 		</item>
 		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-06/Speaker signed.</guid>
+		</item>
+		<item>
 			<title>Delivered to Governor.</title>
 			<description>Delivered to Governor.</description>
 			<pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
@@ -140,11 +168,25 @@
 			<guid isPermaLink="false">2023-04-07/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 68, 2023 Laws.</title>
+			<description>Chapter 68, 2023 Laws.</description>
+			<pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-13/Chapter 68, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-13/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-13/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

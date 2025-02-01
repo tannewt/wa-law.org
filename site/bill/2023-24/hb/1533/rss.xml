@@ -144,6 +144,20 @@
 			<guid isPermaLink="false">2023-03-06/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-06/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-06/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 80; nays, 15; absent, 0; excused, 3.</title>
 			<description>Third reading, passed; yeas, 80; nays, 15; absent, 0; excused, 3.</description>
 			<pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
@@ -349,6 +363,13 @@
 			<guid isPermaLink="false">testifier/Rowland/Thompson/2023-03-21 12:07:04</guid>
 		</item>
 		<item>
+			<title>SGE - Majority; do pass with amendment(s).</title>
+			<description>SGE - Majority; do pass with amendment(s).</description>
+			<pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-28/SGE - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
@@ -370,11 +391,39 @@
 			<guid isPermaLink="false">2023-04-04/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Committee amendment(s) adopted as amended.</title>
+			<description>Committee amendment(s) adopted as amended.</description>
+			<pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-07/Committee amendment(s) adopted as amended.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-07/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</description>
 			<pubDate>Fri, 07 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-07/Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Wed, 19 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-19/House concurred in Senate amendments.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 57; nays, 41; absent, 0; excused, 0.</title>
+			<description>Passed final passage; yeas, 57; nays, 41; absent, 0; excused, 0.</description>
+			<pubDate>Wed, 19 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-19/Passed final passage; yeas, 57; nays, 41; absent, 0; excused, 0.</guid>
 		</item>
 		<item>
 			<title>Speaker signed.</title>
@@ -398,11 +447,25 @@
 			<guid isPermaLink="false">2023-04-22/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 458, 2023 Laws.</title>
+			<description>Chapter 458, 2023 Laws.</description>
+			<pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-15/Chapter 458, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 5/15/2023.</title>
 			<description>Effective date 5/15/2023.</description>
 			<pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-15/Effective date 5/15/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Mon, 15 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-15/Governor signed.</guid>
 		</item>
 		<item>
 			<title>WA Supreme Court rules on disclosure of public employees’ work information | Washington | thecentersquare.com</title>

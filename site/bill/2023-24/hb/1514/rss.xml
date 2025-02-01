@@ -67,6 +67,13 @@
 			<guid isPermaLink="false">2023-02-22/Placed on second reading suspension calendar by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Sat, 04 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-04/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</title>
 			<description>Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</description>
 			<pubDate>Sat, 04 Mar 2023 00:00:00 GMT</pubDate>
@@ -110,6 +117,13 @@
 			<guid isPermaLink="false">2023-03-28/Placed on second reading consent calendar.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-31/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</description>
 			<pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
@@ -138,11 +152,25 @@
 			<guid isPermaLink="false">2023-04-07/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 78, 2023 Laws.</title>
+			<description>Chapter 78, 2023 Laws.</description>
+			<pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-13/Chapter 78, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-13/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-13/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

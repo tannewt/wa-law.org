@@ -157,6 +157,13 @@
 			<guid isPermaLink="false">2024-01-23/ENVI - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>ENVI - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ENVI - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-23/ENVI - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
@@ -250,6 +257,27 @@
 			<guid isPermaLink="false">2024-02-03/APP - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>APP - Majority; 2nd substitute bill be substituted, do pass.</title>
+			<description>APP - Majority; 2nd substitute bill be substituted, do pass.</description>
+			<pubDate>Sat, 03 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-03/APP - Majority; 2nd substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Sat, 03 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-03/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Sat, 03 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-03/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>Referred to Rules 2 Review.</title>
 			<description>Referred to Rules 2 Review.</description>
 			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
@@ -269,6 +297,13 @@
 			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-20/House Rules "X" file.</guid>
+		</item>
+		<item>
+			<title>Returned to Rules Committee for second reading.</title>
+			<description>Returned to Rules Committee for second reading.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Returned to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

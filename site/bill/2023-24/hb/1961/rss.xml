@@ -98,6 +98,13 @@
 			<guid isPermaLink="false">2024-01-23/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-29/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 95; nays, 1; absent, 0; excused, 2.</title>
 			<description>Third reading, passed; yeas, 95; nays, 1; absent, 0; excused, 2.</description>
 			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
@@ -173,6 +180,13 @@
 			<guid isPermaLink="false">testifier/Sam/Low/2024-02-14 06:17:25</guid>
 		</item>
 		<item>
+			<title>LAW - Majority; do pass.</title>
+			<description>LAW - Majority; do pass.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/LAW - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
@@ -187,11 +201,25 @@
 			<guid isPermaLink="false">2024-02-23/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-28/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
 			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
 			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-28/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Speaker signed.</guid>
 		</item>
 		<item>
 			<title>President signed.</title>
@@ -222,11 +250,25 @@
 			<guid isPermaLink="false">2024-03-04/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 55, 2024 Laws.</title>
+			<description>Chapter 55, 2024 Laws.</description>
+			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-13/Chapter 55, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024.</title>
 			<description>Effective date 6/6/2024.</description>
 			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-13/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-13/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Low bill signed into law by governor creates stricter penalties for animal cruelty in Washington</title>

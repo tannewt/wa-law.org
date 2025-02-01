@@ -38,6 +38,20 @@
 			<guid isPermaLink="false">testifier/Susanna/Jones/2024-01-22 09:39:11</guid>
 		</item>
 		<item>
+			<title>FIN - Executive action taken by committee.</title>
+			<description>FIN - Executive action taken by committee.</description>
+			<pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-01/FIN - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>FIN - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>FIN - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-01/FIN - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
@@ -50,6 +64,13 @@
 			<pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-02/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-02/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

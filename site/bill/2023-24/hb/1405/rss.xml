@@ -71,6 +71,13 @@
 			<guid isPermaLink="false">2023-02-03/HSEL - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>HSEL - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HSEL - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-03/HSEL - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
@@ -109,6 +116,20 @@
 			<guid isPermaLink="false">testifier/Sam/Martin/2023-02-11 06:57:39</guid>
 		</item>
 		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-21/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>APP - Majority; 2nd substitute bill be substituted, do pass.</title>
+			<description>APP - Majority; 2nd substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-21/APP - Majority; 2nd substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
@@ -135,6 +156,13 @@
 			<pubDate>Sat, 04 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-04/2nd substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Sat, 04 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-04/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 78; nays, 17; absent, 0; excused, 3.</title>
@@ -213,6 +241,20 @@
 			<guid isPermaLink="false">2023-03-21/And refer to Ways &amp; Means.</guid>
 		</item>
 		<item>
+			<title>HS - Majority; do pass with amendment(s).</title>
+			<description>HS - Majority; do pass with amendment(s).</description>
+			<pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-21/HS - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-21/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>Referred to Ways &amp; Means.</title>
 			<description>Referred to Ways &amp; Means.</description>
 			<pubDate>Thu, 23 Mar 2023 00:00:00 GMT</pubDate>
@@ -251,11 +293,25 @@
 			<guid isPermaLink="false">2023-04-23/By resolution, returned to House Rules Committee for third reading.</guid>
 		</item>
 		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
 			<title>Referred to Human Services, Youth, &amp; Early Learning.</title>
 			<description>Referred to Human Services, Youth, &amp; Early Learning.</description>
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/Referred to Human Services, Youth, &amp; Early Learning.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.</title>
+			<description>Rules Committee relieved of further consideration.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/Rules Committee relieved of further consideration.</guid>
 		</item>
 	</channel>
 </rss>

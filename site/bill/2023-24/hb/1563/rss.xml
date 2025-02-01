@@ -103,6 +103,20 @@
 			<guid isPermaLink="false">2023-02-02/Minority; without recommendation.</guid>
 		</item>
 		<item>
+			<title>RSG - Executive action taken by committee.</title>
+			<description>RSG - Executive action taken by committee.</description>
+			<pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-02/RSG - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>RSG - Majority; do pass.</title>
+			<description>RSG - Majority; do pass.</description>
+			<pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-02/RSG - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Rules 2 Review.</title>
 			<description>Referred to Rules 2 Review.</description>
 			<pubDate>Mon, 06 Feb 2023 00:00:00 GMT</pubDate>
@@ -115,6 +129,13 @@
 			<pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-02/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-03/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 63; nays, 32; absent, 0; excused, 3.</title>
@@ -202,6 +223,13 @@
 			<guid isPermaLink="false">testifier/john/Worthington/2023-03-17 01:08:15</guid>
 		</item>
 		<item>
+			<title>LC - Majority; do pass.</title>
+			<description>LC - Majority; do pass.</description>
+			<pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-27/LC - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Mon, 27 Mar 2023 00:00:00 GMT</pubDate>
@@ -214,6 +242,27 @@
 			<pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-28/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-12/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 37; nays, 12; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 37; nays, 12; absent, 0; excused, 0.</description>
+			<pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-12/Third reading, passed; yeas, 37; nays, 12; absent, 0; excused, 0.</guid>
 		</item>
 		<item>
 			<title>Speaker signed.</title>
@@ -237,11 +286,25 @@
 			<guid isPermaLink="false">2023-04-19/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 254, 2023 Laws.</title>
+			<description>Chapter 254, 2023 Laws.</description>
+			<pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-04/Chapter 254, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-04/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-04/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

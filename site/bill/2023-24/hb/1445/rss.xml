@@ -94,6 +94,20 @@
 			<guid isPermaLink="false">2023-02-03/CRJ - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>CRJ - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>CRJ - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-03/CRJ - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-03/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
@@ -145,6 +159,20 @@
 			<pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2023/02/20/the-house-hot-sheet-for-week-7-of-the-2023-legislative-session/#:~:text=HB%201445</guid>
+		</item>
+		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-22/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>APP - Majority; 2nd substitute bill be substituted, do pass.</title>
+			<description>APP - Majority; 2nd substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-22/APP - Majority; 2nd substitute bill be substituted, do pass.</guid>
 		</item>
 		<item>
 			<title>Minority; do not pass.</title>
@@ -250,6 +278,13 @@
 			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-20/House Rules "X" file.</guid>
+		</item>
+		<item>
+			<title>Returned to Rules Committee for second reading.</title>
+			<description>Returned to Rules Committee for second reading.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Returned to Rules Committee for second reading.</guid>
 		</item>
 		<item>
 			<title>Police reform advocates see a top priority lapse in Washington Legislature • Washington State Standard</title>

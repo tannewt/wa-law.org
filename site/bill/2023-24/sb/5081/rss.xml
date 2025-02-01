@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>First reading, referred to Human Services.</title>
+			<description>First reading, referred to Human Services.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
 			<title>👍Autumn Witten - Washington State Department of Corrections</title>
 			<description>Autumn Witten signed up to testify Pro. They are signed up to represent Washington State Department of Corrections.</description>
 			<pubDate>Tue, 10 Jan 2023 02:58:17 GMT</pubDate>
@@ -25,6 +32,20 @@
 			<guid isPermaLink="false">testifier/Mac/Pevey/2023-01-10 02:58:17</guid>
 		</item>
 		<item>
+			<title>HS - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HS - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-17/HS - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Wed, 18 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-18/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
 			<title>Placed on second reading consent calendar.</title>
 			<description>Placed on second reading consent calendar.</description>
 			<pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
@@ -37,6 +58,13 @@
 			<pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-01/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-01/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
@@ -97,6 +125,20 @@
 			<guid isPermaLink="false">2023-04-03/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Committee amendment(s) adopted with no other amendments.</title>
+			<description>Committee amendment(s) adopted with no other amendments.</description>
+			<pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-05/Committee amendment(s) adopted with no other amendments.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-05/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.</title>
 			<description>Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.</description>
 			<pubDate>Wed, 05 Apr 2023 00:00:00 GMT</pubDate>
@@ -109,6 +151,13 @@
 			<pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-13/Passed final passage; yeas, 47; nays, 0; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>Senate concurred in House amendments.</title>
+			<description>Senate concurred in House amendments.</description>
+			<pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-13/Senate concurred in House amendments.</guid>
 		</item>
 		<item>
 			<title>President signed.</title>
@@ -132,11 +181,25 @@
 			<guid isPermaLink="false">2023-04-20/Speaker signed.</guid>
 		</item>
 		<item>
+			<title>Chapter 391, 2023 Laws.</title>
+			<description>Chapter 391, 2023 Laws.</description>
+			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-09/Chapter 391, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-09/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-09/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

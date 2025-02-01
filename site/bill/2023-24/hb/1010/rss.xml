@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>First reading, referred to Agriculture and Natural Resources.</title>
+			<description>First reading, referred to Agriculture and Natural Resources.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to Agriculture and Natural Resources.</guid>
+		</item>
+		<item>
 			<title>👍Heather Hall - WDFW</title>
 			<description>Heather Hall signed up to testify Pro. They are signed up to represent WDFW.</description>
 			<pubDate>Mon, 09 Jan 2023 09:11:46 GMT</pubDate>
@@ -73,6 +80,20 @@
 			<guid isPermaLink="false">testifier/Dale/Beasley/2023-01-13 07:09:25</guid>
 		</item>
 		<item>
+			<title>AGNR - Executive action taken by committee.</title>
+			<description>AGNR - Executive action taken by committee.</description>
+			<pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-17/AGNR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>AGNR - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>AGNR - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 17 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-17/AGNR - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Appropriations.</title>
 			<description>Referred to Appropriations.</description>
 			<pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
@@ -121,6 +142,13 @@
 			<pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-03/2nd substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-03/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.</title>
@@ -202,6 +230,13 @@
 			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-20/House Rules "X" file.</guid>
+		</item>
+		<item>
+			<title>Returned to Rules Committee for third reading.</title>
+			<description>Returned to Rules Committee for third reading.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Returned to Rules Committee for third reading.</guid>
 		</item>
 	</channel>
 </rss>

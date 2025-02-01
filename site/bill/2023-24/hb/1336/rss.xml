@@ -39,6 +39,13 @@
 			<guid isPermaLink="false">testifier/Hailey/Blankenship/2023-01-25 06:39:54</guid>
 		</item>
 		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-01/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
 			<title>APP - Majority; do pass.</title>
 			<description>APP - Majority; do pass.</description>
 			<pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
@@ -60,11 +67,39 @@
 			<guid isPermaLink="false">2023-02-14/Placed on second reading suspension calendar.</guid>
 		</item>
 		<item>
+			<title>Rules Committee relieved of further consideration.</title>
+			<description>Rules Committee relieved of further consideration.</description>
+			<pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-14/Rules Committee relieved of further consideration.</guid>
+		</item>
+		<item>
 			<title>Placed on second reading.</title>
 			<description>Placed on second reading.</description>
 			<pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-21/Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Removed from Suspension Calendar.</title>
+			<description>Removed from Suspension Calendar.</description>
+			<pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-21/Removed from Suspension Calendar.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-02/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-02/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</title>
@@ -89,6 +124,13 @@
 			<guid isPermaLink="false">testifier/ryan/spiller/2023-03-13 09:46:21</guid>
 		</item>
 		<item>
+			<title>WM - Majority; do pass.</title>
+			<description>WM - Majority; do pass.</description>
+			<pubDate>Thu, 16 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-16/WM - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
@@ -101,6 +143,13 @@
 			<pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-24/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-31/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
@@ -131,11 +180,25 @@
 			<guid isPermaLink="false">2023-04-07/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 73, 2023 Laws.</title>
+			<description>Chapter 73, 2023 Laws.</description>
+			<pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-13/Chapter 73, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023**.</title>
 			<description>Effective date 7/23/2023**.</description>
 			<pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-13/Effective date 7/23/2023**.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-13/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

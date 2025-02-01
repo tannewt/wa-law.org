@@ -91,6 +91,20 @@
 			<guid isPermaLink="false">2024-02-13/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-13/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 96; nays, 1; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 96; nays, 1; absent, 0; excused, 1.</description>
+			<pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-13/Third reading, passed; yeas, 96; nays, 1; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
 			<title>First reading, referred to Local Government, Land Use &amp; Tribal Affairs (Not Officially read and referred until adoption of Introduction report).</title>
 			<description>First reading, referred to Local Government, Land Use &amp; Tribal Affairs (Not Officially read and referred until adoption of Introduction report).</description>
 			<pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
@@ -126,6 +140,13 @@
 			<guid isPermaLink="false">2024-02-20/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-22/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
 			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
 			<pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
@@ -154,11 +175,25 @@
 			<guid isPermaLink="false">2024-03-01/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 17, 2024 Laws.</title>
+			<description>Chapter 17, 2024 Laws.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/Chapter 17, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024.</title>
 			<description>Effective date 6/6/2024.</description>
 			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-07/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

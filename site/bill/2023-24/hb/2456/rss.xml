@@ -95,6 +95,13 @@
 			<guid isPermaLink="false">testifier/John/Rosapepe/2024-01-29 12:25:47</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
@@ -109,11 +116,25 @@
 			<guid isPermaLink="false">2024-01-31/TR - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>TR - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>TR - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/TR - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Appropriations.</title>
 			<description>Referred to Appropriations.</description>
 			<pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-02/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-02/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

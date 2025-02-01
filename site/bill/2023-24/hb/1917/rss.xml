@@ -46,6 +46,13 @@
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Postsecondary Education &amp; Workforce (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
+			<title>First reading, referred to Postsecondary Education &amp; Workforce.</title>
+			<description>First reading, referred to Postsecondary Education &amp; Workforce.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Postsecondary Education &amp; Workforce.</guid>
+		</item>
+		<item>
 			<title>👍Suzan Dula - Washington Academy of Physician Assistants</title>
 			<description>Suzan Dula signed up to testify Pro.</description>
 			<pubDate>Mon, 08 Jan 2024 02:54:14 GMT</pubDate>
@@ -94,6 +101,13 @@
 			<guid isPermaLink="false">testifier/Carl/Sims/2024-01-10 05:25:04</guid>
 		</item>
 		<item>
+			<title>PEW - Executive action taken by committee.</title>
+			<description>PEW - Executive action taken by committee.</description>
+			<pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-12/PEW - Executive action taken by committee.</guid>
+		</item>
+		<item>
 			<title>PEW - Majority; do pass.</title>
 			<description>PEW - Majority; do pass.</description>
 			<pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
@@ -113,6 +127,13 @@
 			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-23/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-29/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</title>
@@ -214,11 +235,25 @@
 			<guid isPermaLink="false">2024-02-23/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-28/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
 			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
 			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-28/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Speaker signed.</guid>
 		</item>
 		<item>
 			<title>President signed.</title>
@@ -242,11 +277,25 @@
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/03/05/leavitt-bills-to-support-military-families-and-veterans-headed-to-the-governors-desk/#:~:text=House%20Bill%201917</guid>
 		</item>
 		<item>
+			<title>Chapter 53, 2024 Laws.</title>
+			<description>Chapter 53, 2024 Laws.</description>
+			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-13/Chapter 53, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024.</title>
 			<description>Effective date 6/6/2024.</description>
 			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-13/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-13/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

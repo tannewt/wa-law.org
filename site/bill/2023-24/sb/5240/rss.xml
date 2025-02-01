@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>First reading, referred to Labor &amp; Commerce.</title>
+			<description>First reading, referred to Labor &amp; Commerce.</description>
+			<pubDate>Tue, 10 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-10/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
 			<title>👍Caitlyn Jekel - Employment Security Department</title>
 			<description>Caitlyn Jekel signed up to testify Pro. They are signed up to represent Employment Security Department.</description>
 			<pubDate>Fri, 13 Jan 2023 03:48:14 GMT</pubDate>
@@ -25,6 +32,13 @@
 			<guid isPermaLink="false">testifier/Joshua/Sundt/2023-01-13 03:48:14</guid>
 		</item>
 		<item>
+			<title>LC - Majority; do pass.</title>
+			<description>LC - Majority; do pass.</description>
+			<pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-24/LC - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
@@ -37,6 +51,13 @@
 			<pubDate>Wed, 08 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-08/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-28/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.</title>

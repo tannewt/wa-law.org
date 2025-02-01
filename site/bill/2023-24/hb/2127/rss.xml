@@ -97,6 +97,13 @@
 			<guid isPermaLink="false">2024-02-06/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-06/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</description>
 			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
@@ -171,6 +178,20 @@
 			<guid isPermaLink="false">2024-02-27/Placed on second reading consent calendar.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Speaker signed.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 46; nays, 0; absent, 0; excused, 3.</title>
 			<description>Third reading, passed; yeas, 46; nays, 0; absent, 0; excused, 3.</description>
 			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
@@ -192,11 +213,25 @@
 			<guid isPermaLink="false">2024-03-04/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 90, 2024 Laws.</title>
+			<description>Chapter 90, 2024 Laws.</description>
+			<pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-14/Chapter 90, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 1/1/2025.</title>
 			<description>Effective date 1/1/2025.</description>
 			<pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-14/Effective date 1/1/2025.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-14/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

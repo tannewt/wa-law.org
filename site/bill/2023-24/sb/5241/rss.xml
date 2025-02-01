@@ -382,6 +382,20 @@
 			<guid isPermaLink="true">https://www.seattletimes.com/seattle-news/health/religious-health-care-restrictions-prompt-call-for-wa-merger-oversight/#:~:text=Senate%20Bill%205241</guid>
 		</item>
 		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-16/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>LAW - Majority; do pass.</title>
+			<description>LAW - Majority; do pass.</description>
+			<pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-16/LAW - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
@@ -548,11 +562,25 @@
 			<guid isPermaLink="false">testifier/Brooke/Davies/2023-02-21 05:52:46</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-23/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-23/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; without recommendation.</title>
+			<description>WM - Majority; without recommendation.</description>
+			<pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-23/WM - Majority; without recommendation.</guid>
 		</item>
 		<item>
 			<title>Passed to Rules Committee for second reading.</title>
@@ -611,6 +639,13 @@
 			<guid isPermaLink="true">http://www.aclu-wa.org/pages/legislative-agenda-2024#:~:text=SB%205241</guid>
 		</item>
 		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
 			<title>On motion, referred to Rules.</title>
 			<description>On motion, referred to Rules.</description>
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
@@ -630,6 +665,20 @@
 			<pubDate>Tue, 30 Jan 2024 22:13:16 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/lgbtq2024priorities/#:~:text=Senate%20Bill%205241</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-08/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-08/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.</title>
@@ -930,6 +979,34 @@
 			<guid isPermaLink="false">testifier/Cynthia/Radtke/2024-02-14 06:43:18</guid>
 		</item>
 		<item>
+			<title>CRJ - Executive action taken by committee.</title>
+			<description>CRJ - Executive action taken by committee.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/CRJ - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>CRJ - Majority; do pass with amendment(s).</title>
+			<description>CRJ - Majority; do pass with amendment(s).</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/CRJ - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Minority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>Referred to Appropriations.</title>
 			<description>Referred to Appropriations.</description>
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
@@ -1070,6 +1147,41 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Lannette/Sargent/2024-02-23 11:55:21</guid>
+		</item>
+		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>APP - Majority; do pass with amendment(s) but without amendment(s) by Civil Rights &amp; Judiciary.</title>
+			<description>APP - Majority; do pass with amendment(s) but without amendment(s) by Civil Rights &amp; Judiciary.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/APP - Majority; do pass with amendment(s) but without amendment(s) by Civil Rights &amp; Judiciary.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-26/Referred to Rules 2 Review.</guid>
 		</item>
 		<item>
 			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>

@@ -23,6 +23,13 @@
 			<guid isPermaLink="false">2024-01-08/First reading, referred to Consumer Protection &amp; Business (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
+			<title>First reading, referred to Consumer Protection &amp; Business.</title>
+			<description>First reading, referred to Consumer Protection &amp; Business.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/First reading, referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
 			<title>👍Thomas Neill - Washington Society of CPAs</title>
 			<description>Thomas Neill signed up to testify Pro. They are signed up to represent Washington Society of CPAs.</description>
 			<pubDate>Mon, 08 Jan 2024 02:05:04 GMT</pubDate>
@@ -47,6 +54,13 @@
 			<guid isPermaLink="false">testifier/Michael/Paquette/2024-01-08 12:46:42</guid>
 		</item>
 		<item>
+			<title>CPB - Executive action taken by committee.</title>
+			<description>CPB - Executive action taken by committee.</description>
+			<pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-12/CPB - Executive action taken by committee.</guid>
+		</item>
+		<item>
 			<title>CPB - Majority; do pass.</title>
 			<description>CPB - Majority; do pass.</description>
 			<pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
@@ -66,6 +80,13 @@
 			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-23/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-29/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</title>
@@ -103,6 +124,13 @@
 			<guid isPermaLink="false">2024-02-20/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-22/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</description>
 			<pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
@@ -131,11 +159,25 @@
 			<guid isPermaLink="false">2024-03-01/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 13, 2024 Laws.</title>
+			<description>Chapter 13, 2024 Laws.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/Chapter 13, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024.</title>
 			<description>Effective date 6/6/2024.</description>
 			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-07/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

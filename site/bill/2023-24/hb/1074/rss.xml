@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>First reading, referred to Housing.</title>
+			<description>First reading, referred to Housing.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to Housing.</guid>
+		</item>
+		<item>
 			<title>👍Devin Glaser - Tenant Law Center</title>
 			<description>Devin Glaser signed up to testify Pro. They are signed up to represent Tenant Law Center.</description>
 			<pubDate>Tue, 10 Jan 2023 03:17:47 GMT</pubDate>
@@ -200,6 +207,27 @@
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/good-bills-bad-bills/#:~:text=House%20Bill%201074</guid>
 		</item>
 		<item>
+			<title>HOUS - Executive action taken by committee.</title>
+			<description>HOUS - Executive action taken by committee.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/HOUS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>HOUS - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HOUS - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/HOUS - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
@@ -240,6 +268,13 @@
 			<pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-02/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-02/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 57; nays, 40; absent, 0; excused, 1.</title>
@@ -438,6 +473,20 @@
 			<guid isPermaLink="false">testifier/Kent/Hendricks/2023-03-15 12:28:03</guid>
 		</item>
 		<item>
+			<title>HSG - Majority; do pass.</title>
+			<description>HSG - Majority; do pass.</description>
+			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-22/HSG - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-22/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
@@ -459,11 +508,60 @@
 			<guid isPermaLink="false">2023-04-05/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 29; nays, 19; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 29; nays, 19; absent, 0; excused, 1.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Third reading, passed; yeas, 29; nays, 19; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-14/House concurred in Senate amendments.</guid>
+		</item>
+		<item>
 			<title>Passed final passage; yeas, 57; nays, 39; absent, 0; excused, 2.</title>
 			<description>Passed final passage; yeas, 57; nays, 39; absent, 0; excused, 2.</description>
 			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-14/Passed final passage; yeas, 57; nays, 39; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 58; nays, 38; absent, 0; excused, 2.</title>
+			<description>Passed final passage; yeas, 58; nays, 38; absent, 0; excused, 2.</description>
+			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-14/Passed final passage; yeas, 58; nays, 38; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>Vote on final passage will be reconsidered.</title>
+			<description>Vote on final passage will be reconsidered.</description>
+			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-14/Vote on final passage will be reconsidered.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-17/Speaker signed.</guid>
 		</item>
 		<item>
 			<title>President signed.</title>
@@ -487,11 +585,25 @@
 			<guid isPermaLink="true">https://www.cascadiadaily.com/2023/apr/29/new-state-laws-pave-way-for-more-housing-density/#:~:text=bill%20that%20makes%20it%20more%20difficult</guid>
 		</item>
 		<item>
+			<title>Chapter 331, 2023 Laws.</title>
+			<description>Chapter 331, 2023 Laws.</description>
+			<pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-08/Chapter 331, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-08/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-08/Governor signed.</guid>
 		</item>
 		<item>
 			<title>'A million new Washingtonians': Gov. Inslee signs package of housing bills | Washington | thecentersquare.com</title>

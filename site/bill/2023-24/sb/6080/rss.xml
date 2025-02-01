@@ -39,6 +39,13 @@
 			<guid isPermaLink="false">2024-01-18/And refer to Ways &amp; Means.</guid>
 		</item>
 		<item>
+			<title>BFGT - Majority; do pass.</title>
+			<description>BFGT - Majority; do pass.</description>
+			<pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-18/BFGT - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Ways &amp; Means.</title>
 			<description>Referred to Ways &amp; Means.</description>
 			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
@@ -77,11 +84,25 @@
 			<guid isPermaLink="false">2024-02-05/Passed to Rules Committee for second reading.</guid>
 		</item>
 		<item>
+			<title>WM - Majority; do pass.</title>
+			<description>WM - Majority; do pass.</description>
+			<pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-05/WM - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Placed on second reading consent calendar.</title>
 			<description>Placed on second reading consent calendar.</description>
 			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-07/Placed on second reading consent calendar.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-08/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
@@ -128,6 +149,13 @@
 			<guid isPermaLink="false">2024-02-22/APP - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>APP - Majority; do pass.</title>
+			<description>APP - Majority; do pass.</description>
+			<pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-23/APP - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Rules 2 Review.</title>
 			<description>Referred to Rules 2 Review.</description>
 			<pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
@@ -135,11 +163,32 @@
 			<guid isPermaLink="false">2024-02-26/Referred to Rules 2 Review.</guid>
 		</item>
 		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-01/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</title>
 			<description>Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</description>
 			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-01/Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-04/President signed.</guid>
 		</item>
 		<item>
 			<title>Speaker signed.</title>
@@ -156,11 +205,25 @@
 			<guid isPermaLink="false">2024-03-07/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 130, 2024 Laws.</title>
+			<description>Chapter 130, 2024 Laws.</description>
+			<pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-15/Chapter 130, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/1/2025.</title>
 			<description>Effective date 7/1/2025.</description>
 			<pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-15/Effective date 7/1/2025.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-15/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

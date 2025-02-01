@@ -48,6 +48,13 @@
 			<guid isPermaLink="false">testifier/Jane/Howard/2023-01-08 09:36:45</guid>
 		</item>
 		<item>
+			<title>First reading, referred to Environment &amp; Energy.</title>
+			<description>First reading, referred to Environment &amp; Energy.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to Environment &amp; Energy.</guid>
+		</item>
+		<item>
 			<title>The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats</title>
 			<description>News article "The House Hot Sheet for Week 1 of the 2023 Legislative Session – Washington State House Democrats" from House Democrats.</description>
 			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
@@ -183,6 +190,20 @@
 			<guid isPermaLink="false">testifier/Dean/Jackson/2023-01-10 09:40:34</guid>
 		</item>
 		<item>
+			<title>ENVI - Executive action taken by committee.</title>
+			<description>ENVI - Executive action taken by committee.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/ENVI - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>ENVI - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ENVI - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/ENVI - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
@@ -271,6 +292,13 @@
 			<guid isPermaLink="false">2023-02-28/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-28/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</description>
 			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
@@ -347,6 +375,13 @@
 			<guid isPermaLink="false">2023-03-21/And refer to Ways &amp; Means.</guid>
 		</item>
 		<item>
+			<title>ENET - Majority; do pass.</title>
+			<description>ENET - Majority; do pass.</description>
+			<pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-21/ENET - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Ways &amp; Means.</title>
 			<description>Referred to Ways &amp; Means.</description>
 			<pubDate>Thu, 23 Mar 2023 00:00:00 GMT</pubDate>
@@ -370,6 +405,27 @@
 			<guid isPermaLink="false">testifier/Blair/Englebrecht/2023-03-30 09:46:03</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-03/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-03/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; do pass.</title>
+			<description>WM - Majority; do pass.</description>
+			<pubDate>Mon, 03 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-03/WM - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Tue, 04 Apr 2023 00:00:00 GMT</pubDate>
@@ -384,11 +440,25 @@
 			<guid isPermaLink="false">2023-04-05/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Sat, 08 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-08/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 37; nays, 11; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 37; nays, 11; absent, 0; excused, 1.</description>
 			<pubDate>Sat, 08 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-08/Third reading, passed; yeas, 37; nays, 11; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Speaker signed.</guid>
 		</item>
 		<item>
 			<title>Mena bill to reduce plastic pollution passes Senate with strong bipartisan support – Washington State House Democrats</title>
@@ -398,6 +468,13 @@
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2023/04/10/mena-bill-to-reduce-plastic-pollution-passes-senate-with-strong-bipartisan-support/#:~:text=House%20Bill%201085</guid>
 		</item>
 		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-11/President signed.</guid>
+		</item>
+		<item>
 			<title>Delivered to Governor.</title>
 			<description>Delivered to Governor.</description>
 			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
@@ -405,11 +482,25 @@
 			<guid isPermaLink="false">2023-04-14/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 135, 2023 Laws.</title>
+			<description>Chapter 135, 2023 Laws.</description>
+			<pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-20/Chapter 135, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-20/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-20/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

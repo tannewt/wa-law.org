@@ -103,6 +103,13 @@
 			<guid isPermaLink="false">testifier/alasha/v/2023-02-06 08:37:31</guid>
 		</item>
 		<item>
+			<title>LC - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LC - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-14/LC - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
@@ -136,6 +143,20 @@
 			<pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-01/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-01/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-01/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 40; nays, 8; absent, 0; excused, 1.</title>
@@ -302,6 +323,13 @@
 			<guid isPermaLink="false">2023-03-17/LAWS - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>LAWS - Majority; do pass with amendment(s).</title>
+			<description>LAWS - Majority; do pass with amendment(s).</description>
+			<pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-17/LAWS - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
@@ -328,6 +356,13 @@
 			<pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-23/By resolution, returned to Senate Rules Committee for third reading.</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 		<item>
 			<title>Senate Rules "X" file.</title>

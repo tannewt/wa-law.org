@@ -55,6 +55,13 @@
 			<guid isPermaLink="false">2023-02-01/CPB - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>CPB - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>CPB - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-02/CPB - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Rules 2 Review.</title>
 			<description>Referred to Rules 2 Review.</description>
 			<pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
@@ -69,11 +76,25 @@
 			<guid isPermaLink="false">2023-02-14/Placed on second reading suspension calendar.</guid>
 		</item>
 		<item>
+			<title>Rules Committee relieved of further consideration.</title>
+			<description>Rules Committee relieved of further consideration.</description>
+			<pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-14/Rules Committee relieved of further consideration.</guid>
+		</item>
+		<item>
 			<title>1st substitute bill substituted.</title>
 			<description>1st substitute bill substituted.</description>
 			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-28/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-28/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
@@ -121,11 +142,25 @@
 			<guid isPermaLink="false">2023-03-14/BFGT - Majority; do pass.</guid>
 		</item>
 		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-15/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
 			<title>Placed on second reading by Rules Committee.</title>
 			<description>Placed on second reading by Rules Committee.</description>
 			<pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-15/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-22/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
@@ -156,11 +191,25 @@
 			<guid isPermaLink="false">2023-03-31/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 27, 2023 Laws.</title>
+			<description>Chapter 27, 2023 Laws.</description>
+			<pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-06/Chapter 27, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/1/2023.</title>
 			<description>Effective date 7/1/2023.</description>
 			<pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-06/Effective date 7/1/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-06/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

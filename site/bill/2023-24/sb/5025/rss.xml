@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>First reading, referred to Human Services.</title>
+			<description>First reading, referred to Human Services.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
 			<title>👍Hanan Al-Zubaidy - SBCTC</title>
 			<description>Hanan Al-Zubaidy signed up to testify Pro. They are signed up to represent SBCTC.</description>
 			<pubDate>Wed, 18 Jan 2023 04:21:31 GMT</pubDate>
@@ -23,6 +30,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Pat/Seibert-Love/2023-01-18 04:21:31</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>HS - Majority; do pass.</title>
+			<description>HS - Majority; do pass.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/HS - Majority; do pass.</guid>
 		</item>
 		<item>
 			<title>Referred to Ways &amp; Means.</title>
@@ -46,6 +67,13 @@
 			<guid isPermaLink="false">2023-02-24/Passed to Rules Committee for second reading.</guid>
 		</item>
 		<item>
+			<title>WM - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>WM - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-24/WM - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Placed on second reading by Rules Committee.</title>
 			<description>Placed on second reading by Rules Committee.</description>
 			<pubDate>Mon, 27 Feb 2023 00:00:00 GMT</pubDate>
@@ -58,6 +86,13 @@
 			<pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-03/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-03/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>

@@ -17,6 +17,13 @@
 			<guid isPermaLink="false">testifier/Carrie/Tellefson/2023-01-06 05:08:00</guid>
 		</item>
 		<item>
+			<title>First reading, referred to Health &amp; Long Term Care.</title>
+			<description>First reading, referred to Health &amp; Long Term Care.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to Health &amp; Long Term Care.</guid>
+		</item>
+		<item>
 			<title>👍Marissa Ingalls - Coordinated Care</title>
 			<description>Marissa Ingalls signed up to testify Pro. They are signed up to represent Coordinated Care.</description>
 			<pubDate>Mon, 09 Jan 2023 11:02:23 GMT</pubDate>
@@ -41,11 +48,32 @@
 			<guid isPermaLink="false">testifier/Lucy/Laube/2023-01-12 08:23:20</guid>
 		</item>
 		<item>
+			<title>HLTC - Majority; do pass.</title>
+			<description>HLTC - Majority; do pass.</description>
+			<pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-13/HLTC - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 16 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-16/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
 			<title>Placed on second reading consent calendar.</title>
 			<description>Placed on second reading consent calendar.</description>
 			<pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-01-25/Placed on second reading consent calendar.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 01 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-01/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
@@ -100,6 +128,13 @@
 			<guid isPermaLink="true">https://www.wastatepta.org/legislature-hits-half-way-point-march-8th-next-deadline/#:~:text=SB%205036</guid>
 		</item>
 		<item>
+			<title>HCW - Executive action taken by committee.</title>
+			<description>HCW - Executive action taken by committee.</description>
+			<pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-10/HCW - Executive action taken by committee.</guid>
+		</item>
+		<item>
 			<title>HCW - Majority; do pass.</title>
 			<description>HCW - Majority; do pass.</description>
 			<pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
@@ -119,6 +154,13 @@
 			<pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-17/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 20 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-20/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</title>
@@ -149,11 +191,25 @@
 			<guid isPermaLink="false">2023-03-24/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 8, 2023 Laws.</title>
+			<description>Chapter 8, 2023 Laws.</description>
+			<pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-30/Chapter 8, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-30/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 30 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-30/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

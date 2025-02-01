@@ -24,6 +24,13 @@
 			<guid isPermaLink="false">testifier/Jackie/Brunson/2023-02-13 07:52:50</guid>
 		</item>
 		<item>
+			<title>LGLT - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LGLT - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-16/LGLT - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
@@ -50,6 +57,13 @@
 			<pubDate>Tue, 07 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-07/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 07 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-07/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
@@ -102,6 +116,13 @@
 			<guid isPermaLink="false">2023-03-28/Referred to Finance.</guid>
 		</item>
 		<item>
+			<title>FIN - Executive action taken by committee.</title>
+			<description>FIN - Executive action taken by committee.</description>
+			<pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-31/FIN - Executive action taken by committee.</guid>
+		</item>
+		<item>
 			<title>FIN - Majority; do pass with amendment(s) by Local Government.</title>
 			<description>FIN - Majority; do pass with amendment(s) by Local Government.</description>
 			<pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
@@ -123,11 +144,39 @@
 			<guid isPermaLink="false">2023-04-03/Referred to Rules 2 Review.</guid>
 		</item>
 		<item>
+			<title>Committee amendment(s) adopted with no other amendments.</title>
+			<description>Committee amendment(s) adopted with no other amendments.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Committee amendment(s) adopted with no other amendments.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.</title>
 			<description>Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.</description>
 			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-10/Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
+			<description>Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
+			<pubDate>Wed, 19 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-19/Passed final passage; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Senate concurred in House amendments.</title>
+			<description>Senate concurred in House amendments.</description>
+			<pubDate>Wed, 19 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-19/Senate concurred in House amendments.</guid>
 		</item>
 		<item>
 			<title>President signed.</title>
@@ -151,11 +200,25 @@
 			<guid isPermaLink="false">2023-04-21/Speaker signed.</guid>
 		</item>
 		<item>
+			<title>Chapter 376, 2023 Laws.</title>
+			<description>Chapter 376, 2023 Laws.</description>
+			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-09/Chapter 376, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-09/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-09/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

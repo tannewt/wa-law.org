@@ -190,6 +190,13 @@
 			<guid isPermaLink="false">2023-02-20/CB - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>CB - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>CB - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-20/CB - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
@@ -223,6 +230,20 @@
 			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-28/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-28/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-28/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 58; nays, 39; absent, 0; excused, 1.</title>
@@ -351,6 +372,20 @@
 			<guid isPermaLink="false">testifier/Chris/Herman/2023-03-13 08:41:50</guid>
 		</item>
 		<item>
+			<title>LC - Majority; do pass.</title>
+			<description>LC - Majority; do pass.</description>
+			<pubDate>Thu, 23 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-23/LC - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 23 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-23/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Thu, 23 Mar 2023 00:00:00 GMT</pubDate>
@@ -358,11 +393,32 @@
 			<guid isPermaLink="false">2023-03-23/Minority; without recommendation.</guid>
 		</item>
 		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-24/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
 			<title>Placed on second reading by Rules Committee.</title>
 			<description>Placed on second reading by Rules Committee.</description>
 			<pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-24/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-31/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-31/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 30; nays, 18; absent, 0; excused, 1.</title>
@@ -379,6 +435,55 @@
 			<guid isPermaLink="false">2023-04-17/House refuses to concur in Senate amendments.  Asks Senate to recede from amendments.</guid>
 		</item>
 		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-20/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-20/House concurred in Senate amendments.</guid>
+		</item>
+		<item>
+			<title>Passed final passage; yeas, 57; nays, 38; absent, 0; excused, 3.</title>
+			<description>Passed final passage; yeas, 57; nays, 38; absent, 0; excused, 3.</description>
+			<pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-20/Passed final passage; yeas, 57; nays, 38; absent, 0; excused, 3.</guid>
+		</item>
+		<item>
+			<title>Returned to second reading for amendment.</title>
+			<description>Returned to second reading for amendment.</description>
+			<pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-20/Returned to second reading for amendment.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.</title>
+			<description>Rules suspended.</description>
+			<pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-20/Rules suspended.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-20/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Senate receded from amendments.</title>
+			<description>Senate receded from amendments.</description>
+			<pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-20/Senate receded from amendments.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 29; nays, 18; absent, 0; excused, 2.</title>
 			<description>Third reading, passed; yeas, 29; nays, 18; absent, 0; excused, 2.</description>
 			<pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
@@ -391,6 +496,13 @@
 			<pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-21/President signed.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-21/Speaker signed.</guid>
 		</item>
 		<item>
 			<title>Construction Workforce Expanding Under Riccelli Apprenticeship Bill – Washington State House Democrats</title>
@@ -407,11 +519,25 @@
 			<guid isPermaLink="false">2023-04-22/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 342, 2023 Laws.</title>
+			<description>Chapter 342, 2023 Laws.</description>
+			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-09/Chapter 342, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023*.</title>
 			<description>Effective date 7/23/2023*.</description>
 			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-09/Effective date 7/23/2023*.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-09/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

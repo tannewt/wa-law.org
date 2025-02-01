@@ -47,6 +47,13 @@
 			<guid isPermaLink="false">testifier/BILL/CLARKE/2023-01-30 09:15:58</guid>
 		</item>
 		<item>
+			<title>HOUS - Executive action taken by committee.</title>
+			<description>HOUS - Executive action taken by committee.</description>
+			<pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-07/HOUS - Executive action taken by committee.</guid>
+		</item>
+		<item>
 			<title>HOUS - Majority; 1st substitute bill be substituted, do pass.</title>
 			<description>HOUS - Majority; 1st substitute bill be substituted, do pass.</description>
 			<pubDate>Tue, 07 Feb 2023 00:00:00 GMT</pubDate>
@@ -87,6 +94,20 @@
 			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-28/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-28/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-28/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 94; nays, 3; absent, 0; excused, 1.</title>
@@ -157,6 +178,13 @@
 			<guid isPermaLink="false">testifier/Josie/Cummings/2023-03-20 10:47:55</guid>
 		</item>
 		<item>
+			<title>LGLT - Majority; do pass with amendment(s).</title>
+			<description>LGLT - Majority; do pass with amendment(s).</description>
+			<pubDate>Thu, 23 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-23/LGLT - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Thu, 23 Mar 2023 00:00:00 GMT</pubDate>
@@ -178,6 +206,27 @@
 			<guid isPermaLink="false">2023-04-05/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Committee amendment(s) adopted with no other amendments.</title>
+			<description>Committee amendment(s) adopted with no other amendments.</description>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-11/Committee amendment(s) adopted with no other amendments.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-11/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
+			<pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-11/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
 			<title>Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist</title>
 			<description>News article "Missing Middle Housing, ADU, and Design Review Reforms Pass Second Chamber | The Urbanist" from The Urbanist.</description>
 			<pubDate>Wed, 12 Apr 2023 20:30:46 GMT</pubDate>
@@ -185,11 +234,25 @@
 			<guid isPermaLink="true">https://www.theurbanist.org/2023/04/12/missing-middle-housing-adu-and-design-review-reforms-pass-second-chamber/#:~:text=HB%201293</guid>
 		</item>
 		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-14/House concurred in Senate amendments.</guid>
+		</item>
+		<item>
 			<title>Passed final passage; yeas, 95; nays, 1; absent, 0; excused, 2.</title>
 			<description>Passed final passage; yeas, 95; nays, 1; absent, 0; excused, 2.</description>
 			<pubDate>Fri, 14 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-14/Passed final passage; yeas, 95; nays, 1; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-17/Speaker signed.</guid>
 		</item>
 		<item>
 			<title>President signed.</title>
@@ -220,11 +283,25 @@
 			<guid isPermaLink="true">https://www.theurbanist.org/2023/05/01/heroes-and-zeroes-of-2023-legislature/#:~:text=HB%201293</guid>
 		</item>
 		<item>
+			<title>Chapter 333, 2023 Laws.</title>
+			<description>Chapter 333, 2023 Laws.</description>
+			<pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-08/Chapter 333, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-08/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Mon, 08 May 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-05-08/Governor signed.</guid>
 		</item>
 		<item>
 			<title>How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute</title>

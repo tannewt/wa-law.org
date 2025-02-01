@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-05/Prefiled for introduction.</guid>
+		</item>
+		<item>
 			<title>👍Tyler Muench - Office of Superintendent of Public Instruction</title>
 			<description>Tyler Muench signed up to testify Pro. They are signed up to represent Office of Superintendent of Public Instruction.</description>
 			<pubDate>Fri, 06 Jan 2023 11:33:37 GMT</pubDate>
@@ -30,6 +37,13 @@
 			<pubDate>Sun, 08 Jan 2023 19:10:07 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2023/01/08/this-week-in-the-senate-week-1-were-back/#:~:text=Senate%20Bill%205174</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Early Learning &amp; K-12 Education.</title>
+			<description>First reading, referred to Early Learning &amp; K-12 Education.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to Early Learning &amp; K-12 Education.</guid>
 		</item>
 		<item>
 			<title>👍Rick Chisa - Public School Employees of Washington (PSE)</title>
@@ -108,6 +122,27 @@
 			<pubDate>Mon, 23 Jan 2023 17:10:54 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=SB%205174</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-25/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>EDU - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>EDU - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-25/EDU - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-25/Minority; do not pass.</guid>
 		</item>
 		<item>
 			<title>Referred to Ways &amp; Means.</title>
@@ -242,6 +277,20 @@
 			<guid isPermaLink="true">https://www.wastatepta.org/bills-die-at-policy-cutoff-in-week-6/#:~:text=SSB%205174</guid>
 		</item>
 		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-22/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>WM - Majority; 2nd substitute bill be substituted, do pass.</title>
+			<description>WM - Majority; 2nd substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-22/WM - Majority; 2nd substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
@@ -268,6 +317,20 @@
 			<pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-03/2nd substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-03/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 03 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-03/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
@@ -390,6 +453,20 @@
 			<guid isPermaLink="false">2023-03-22/APP - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>APP - Majority; do pass with amendment(s).</title>
+			<description>APP - Majority; do pass with amendment(s).</description>
+			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-22/APP - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-24/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Fri, 24 Mar 2023 00:00:00 GMT</pubDate>
@@ -409,6 +486,34 @@
 			<pubDate>Mon, 27 Mar 2023 16:17:05 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=E2SSB%205174</guid>
+		</item>
+		<item>
+			<title>Committee amendment(s) adopted with no other amendments.</title>
+			<description>Committee amendment(s) adopted with no other amendments.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Committee amendment(s) adopted with no other amendments.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 60; nays, 38; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 60; nays, 38; absent, 0; excused, 0.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Third reading, passed; yeas, 60; nays, 38; absent, 0; excused, 0.</guid>
 		</item>
 		<item>
 			<title>Senate refuses to concur in House amendments.  Asks House to recede from amendments.</title>
@@ -444,6 +549,13 @@
 			<pubDate>Mon, 24 Apr 2023 15:53:56 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/sine-die-edition/#:~:text=E2SSB%205174</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 		<item>
 			<title>Senate Rules "X" file.</title>

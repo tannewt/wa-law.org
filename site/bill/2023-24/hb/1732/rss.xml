@@ -40,6 +40,20 @@
 			<guid isPermaLink="false">testifier/Sara/Betnel/2023-02-09 02:50:06</guid>
 		</item>
 		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-20/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>APP - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>APP - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-20/APP - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
@@ -61,11 +75,25 @@
 			<guid isPermaLink="false">2023-02-28/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-28/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
 			<title>1st substitute bill substituted.</title>
 			<description>1st substitute bill substituted.</description>
 			<pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-01/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-01/Floor amendment(s) adopted.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 66; nays, 30; absent, 0; excused, 2.</title>
@@ -103,6 +131,13 @@
 			<pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-23/By resolution, returned to House Rules Committee for third reading.</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 		<item>
 			<title>House Rules "X" file.</title>

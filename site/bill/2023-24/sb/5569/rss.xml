@@ -68,6 +68,13 @@
 			<guid isPermaLink="false">2023-03-02/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-02/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
 			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
 			<pubDate>Thu, 02 Mar 2023 00:00:00 GMT</pubDate>
@@ -80,6 +87,13 @@
 			<pubDate>Sat, 04 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-04/First reading, referred to Health Care &amp; Wellness.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Human Services, Youth, &amp; Early Learning (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Human Services, Youth, &amp; Early Learning (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Sat, 04 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-04/First reading, referred to Human Services, Youth, &amp; Early Learning (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
 			<title>👍💵Nathaniel Brown - Northwest Kidney Council</title>
@@ -114,6 +128,13 @@
 			<guid isPermaLink="false">testifier/Jessica/Hostetler/2023-03-13 01:28:54</guid>
 		</item>
 		<item>
+			<title>HCW - Executive action taken by committee.</title>
+			<description>HCW - Executive action taken by committee.</description>
+			<pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-17/HCW - Executive action taken by committee.</guid>
+		</item>
+		<item>
 			<title>HCW - Majority; do pass.</title>
 			<description>HCW - Majority; do pass.</description>
 			<pubDate>Fri, 17 Mar 2023 00:00:00 GMT</pubDate>
@@ -133,6 +154,13 @@
 			<pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-21/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 23 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-23/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 98; nays, 0; absent, 0; excused, 0.</title>
@@ -163,11 +191,25 @@
 			<guid isPermaLink="false">2023-03-31/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 48, 2023 Laws.</title>
+			<description>Chapter 48, 2023 Laws.</description>
+			<pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-06/Chapter 48, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-06/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-06/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

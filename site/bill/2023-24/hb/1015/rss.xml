@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>First reading, referred to Education.</title>
+			<description>First reading, referred to Education.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to Education.</guid>
+		</item>
+		<item>
 			<title>👍Jim Kowalkowski - Rural Education Center</title>
 			<description>Jim Kowalkowski signed up to testify Pro. They are signed up to represent Rural Education Center.</description>
 			<pubDate>Thu, 12 Jan 2023 09:05:06 GMT</pubDate>
@@ -87,6 +94,13 @@
 			<guid isPermaLink="true">https://www.wastatepta.org/committees-dig-into-policy-work-in-week-2/#:~:text=HB%201015</guid>
 		</item>
 		<item>
+			<title>ED - Executive action taken by committee.</title>
+			<description>ED - Executive action taken by committee.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/ED - Executive action taken by committee.</guid>
+		</item>
+		<item>
 			<title>ED - Majority; 1st substitute bill be substituted, do pass.</title>
 			<description>ED - Majority; 1st substitute bill be substituted, do pass.</description>
 			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
@@ -113,6 +127,13 @@
 			<pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-02/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-02/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</title>
@@ -191,11 +212,25 @@
 			<guid isPermaLink="false">2023-03-13/EDU - Majority; do pass.</guid>
 		</item>
 		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-15/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
 			<title>Placed on second reading by Rules Committee.</title>
 			<description>Placed on second reading by Rules Committee.</description>
 			<pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-15/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-22/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
@@ -224,6 +259,20 @@
 			<pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-31/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>Chapter 19, 2023 Laws.</title>
+			<description>Chapter 19, 2023 Laws.</description>
+			<pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-06/Chapter 19, 2023 Laws.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-06/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Effective date 7/23/2023.</title>

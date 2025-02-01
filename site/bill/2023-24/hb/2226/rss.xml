@@ -101,6 +101,13 @@
 			<guid isPermaLink="false">2024-01-26/LAWS - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>LAWS - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LAWS - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-26/LAWS - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
@@ -136,6 +143,13 @@
 			<guid isPermaLink="false">2024-02-07/1st substitute bill substituted.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-07/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 54; nays, 42; absent, 0; excused, 2.</title>
 			<description>Third reading, passed; yeas, 54; nays, 42; absent, 0; excused, 2.</description>
 			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
@@ -155,6 +169,13 @@
 			<pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-09/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>LC - Majority; do pass with amendment(s).</title>
+			<description>LC - Majority; do pass with amendment(s).</description>
+			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-15/LC - Majority; do pass with amendment(s).</guid>
 		</item>
 		<item>
 			<title>Minority; do not pass.</title>
@@ -178,11 +199,32 @@
 			<guid isPermaLink="false">2024-02-27/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Committee amendment(s) adopted as amended.</title>
+			<description>Committee amendment(s) adopted as amended.</description>
+			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-28/Committee amendment(s) adopted as amended.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-28/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 27; nays, 22; absent, 0; excused, 0.</title>
 			<description>Third reading, passed; yeas, 27; nays, 22; absent, 0; excused, 0.</description>
 			<pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-28/Third reading, passed; yeas, 27; nays, 22; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-05/House concurred in Senate amendments.</guid>
 		</item>
 		<item>
 			<title>Passed final passage; yeas, 56; nays, 39; absent, 0; excused, 2.</title>
@@ -192,6 +234,13 @@
 			<guid isPermaLink="false">2024-03-05/Passed final passage; yeas, 56; nays, 39; absent, 0; excused, 2.</guid>
 		</item>
 		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-06/Speaker signed.</guid>
+		</item>
+		<item>
 			<title>Delivered to Governor.</title>
 			<description>Delivered to Governor.</description>
 			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
@@ -199,11 +248,32 @@
 			<guid isPermaLink="false">2024-03-07/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/President signed.</guid>
+		</item>
+		<item>
+			<title>Chapter 233, 2024 Laws.</title>
+			<description>Chapter 233, 2024 Laws.</description>
+			<pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-25/Chapter 233, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024.</title>
 			<description>Effective date 6/6/2024.</description>
 			<pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-25/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-25/Governor signed.</guid>
 		</item>
 		<item>
 			<title>LEGISLATIVE NEWS: Gov. Signs Bill Providing Transparency in Wage Data for Farmworkers</title>

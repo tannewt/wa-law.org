@@ -119,6 +119,13 @@
 			<guid isPermaLink="false">testifier/Cindy/Madigan/2024-01-30 12:23:02</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
@@ -133,6 +140,20 @@
 			<guid isPermaLink="false">2024-01-31/Referred to Rules 2 Review.</guid>
 		</item>
 		<item>
+			<title>SGOV - Executive action taken by committee.</title>
+			<description>SGOV - Executive action taken by committee.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/SGOV - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>SGOV - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>SGOV - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-31/SGOV - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
 			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
 			<pubDate>Sat, 10 Feb 2024 00:00:00 GMT</pubDate>
@@ -145,6 +166,13 @@
 			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-20/House Rules "X" file.</guid>
+		</item>
+		<item>
+			<title>Returned to Rules Committee for second reading.</title>
+			<description>Returned to Rules Committee for second reading.</description>
+			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-20/Returned to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

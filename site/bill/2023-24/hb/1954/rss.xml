@@ -85,6 +85,13 @@
 			<guid isPermaLink="false">2024-01-19/HCW - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>HCW - Majority; do pass.</title>
+			<description>HCW - Majority; do pass.</description>
+			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-19/HCW - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
@@ -104,6 +111,20 @@
 			<pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-23/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-25/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 56; nays, 37; absent, 0; excused, 5.</title>
+			<description>Third reading, passed; yeas, 56; nays, 37; absent, 0; excused, 5.</description>
+			<pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-25/Third reading, passed; yeas, 56; nays, 37; absent, 0; excused, 5.</guid>
 		</item>
 		<item>
 			<title>First reading, referred to Health &amp; Long Term Care.</title>
@@ -168,6 +189,13 @@
 			<guid isPermaLink="false">testifier/Lorena/Gonzalez/2024-02-15 09:06:00</guid>
 		</item>
 		<item>
+			<title>HLTC - Majority; do pass.</title>
+			<description>HLTC - Majority; do pass.</description>
+			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-16/HLTC - Majority; do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
@@ -187,6 +215,13 @@
 			<pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-20/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-22/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</title>
@@ -217,11 +252,25 @@
 			<guid isPermaLink="false">2024-03-01/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 14, 2024 Laws.</title>
+			<description>Chapter 14, 2024 Laws.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/Chapter 14, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024.</title>
 			<description>Effective date 6/6/2024.</description>
 			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-07/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Key health takeaways from WA’s 2024 legislative session | The Seattle Times</title>

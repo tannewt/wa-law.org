@@ -197,6 +197,13 @@
 			<guid isPermaLink="false">2023-02-13/ENVI - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>ENVI - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ENVI - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-13/ENVI - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
@@ -230,6 +237,20 @@
 			<pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-06/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-06/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 06 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-06/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 52; nays, 44; absent, 0; excused, 2.</title>
@@ -588,6 +609,20 @@
 			<guid isPermaLink="true">https://www.wastatepta.org/its-all-about-the-budget-now-in-week-11-report/#:~:text=ESHB%201589</guid>
 		</item>
 		<item>
+			<title>ENET - Majority; do pass with amendment(s).</title>
+			<description>ENET - Majority; do pass with amendment(s).</description>
+			<pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-28/ENET - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-28/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
@@ -630,6 +665,13 @@
 			<guid isPermaLink="true">https://www.sightline.org/2023/06/07/its-time-for-cascadia-to-start-pruning-the-gas-system-and-electrifying-whole-neighborhoods/#:~:text=Washington%20House%20Bill%201589</guid>
 		</item>
 		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
 			<title>Rules Committee relieved of further consideration.  Placed on third reading.</title>
 			<description>Rules Committee relieved of further consideration.  Placed on third reading.</description>
 			<pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
@@ -642,6 +684,13 @@
 			<pubDate>Tue, 16 Jan 2024 17:49:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_c927188e-b4af-11ee-9d08-6ba89fcb41d3.html#:~:text=House%20Bill%201589</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-22/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 52; nays, 45; absent, 0; excused, 1.</title>
@@ -1390,6 +1439,13 @@
 			<guid isPermaLink="true">https://www.cascadepbs.org/politics/2024/02/wa-legislature-keeps-most-its-priority-bills-alive-so-far#:~:text=House%20Bill%201589</guid>
 		</item>
 		<item>
+			<title>ENET - Majority; do pass with amendment(s).</title>
+			<description>ENET - Majority; do pass with amendment(s).</description>
+			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-16/ENET - Majority; do pass with amendment(s).</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
@@ -1446,11 +1502,60 @@
 			<guid isPermaLink="false">2024-02-23/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Committee amendment(s) adopted as amended.</title>
+			<description>Committee amendment(s) adopted as amended.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Committee amendment(s) adopted as amended.</guid>
+		</item>
+		<item>
 			<title>Held on calendar.</title>
 			<description>Held on calendar.</description>
 			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-29/Held on calendar.</guid>
+		</item>
+		<item>
+			<title>Returned to second reading for amendment.</title>
+			<description>Returned to second reading for amendment.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Returned to second reading for amendment.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.</title>
+			<description>Rules suspended.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Rules suspended.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Committee amendment not adopted.</title>
+			<description>Committee amendment not adopted.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-01/Committee amendment not adopted.</guid>
+		</item>
+		<item>
+			<title>Floor amendment(s) adopted.</title>
+			<description>Floor amendment(s) adopted.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-01/Floor amendment(s) adopted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-01/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 27; nays, 22; absent, 0; excused, 0.</title>
@@ -1481,11 +1586,25 @@
 			<guid isPermaLink="true">http://houserepublicans.wa.gov/current/the-last-four-days-of-the-2024-legislative-session/#:~:text=House%20Bill%201589</guid>
 		</item>
 		<item>
+			<title>House concurred in Senate amendments.</title>
+			<description>House concurred in Senate amendments.</description>
+			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-05/House concurred in Senate amendments.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 50; nays, 45; absent, 2; excused, 0.</title>
 			<description>Third reading, passed; yeas, 50; nays, 45; absent, 2; excused, 0.</description>
 			<pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-05/Third reading, passed; yeas, 50; nays, 45; absent, 2; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Speaker signed.</title>
+			<description>Speaker signed.</description>
+			<pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-06/Speaker signed.</guid>
 		</item>
 		<item>
 			<title>'Environmental radicalism': WA Republicans decry passage of natural gas ban bill | Washington | thecentersquare.com</title>
@@ -1500,6 +1619,13 @@
 			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-07/Delivered to Governor.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-07/President signed.</guid>
 		</item>
 		<item>
 			<title>Controversial 'Clean Energy Bill' could face constitutional challenge - MyNorthwest.com</title>
@@ -1572,11 +1698,25 @@
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_65d109a0-ec74-11ee-9363-b705160b1697.html#:~:text=Engrossed%20Substitute%20House%20Bill%201589</guid>
 		</item>
 		<item>
+			<title>Chapter 351, 2024 Laws.</title>
+			<description>Chapter 351, 2024 Laws.</description>
+			<pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-28/Chapter 351, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 3/28/2024.</title>
 			<description>Effective date 3/28/2024.</description>
 			<pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-28/Effective date 3/28/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-28/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Consumers will pay billions under law to phase out natural gas, Gildon says</title>

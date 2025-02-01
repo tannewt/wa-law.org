@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-05/Prefiled for introduction.</guid>
+		</item>
+		<item>
 			<title>First reading, referred to Agriculture and Natural Resources.</title>
 			<description>First reading, referred to Agriculture and Natural Resources.</description>
 			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
@@ -215,6 +222,27 @@
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201153</guid>
 		</item>
 		<item>
+			<title>AGNR - Executive action taken by committee.</title>
+			<description>AGNR - Executive action taken by committee.</description>
+			<pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-17/AGNR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>AGNR - Majority; do pass.</title>
+			<description>AGNR - Majority; do pass.</description>
+			<pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-17/AGNR - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-17/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Rules 2 Review.</title>
 			<description>Referred to Rules 2 Review.</description>
 			<pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
@@ -243,6 +271,13 @@
 			<guid isPermaLink="false">2024-02-02/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-06/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 70; nays, 27; absent, 0; excused, 1.</title>
 			<description>Third reading, passed; yeas, 70; nays, 27; absent, 0; excused, 1.</description>
 			<pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
@@ -255,6 +290,13 @@
 			<pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2024/02/07/house-passes-peterson-bill-to-ban-octopus-farming-in-washington/#:~:text=House%20Bill%201153</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-08/First reading, referred to Agriculture, Water, Natural Resources &amp; Parks (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
 			<title>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</title>
@@ -352,6 +394,20 @@
 			<guid isPermaLink="false">testifier/Allie/Molinaro/2024-02-13 11:48:18</guid>
 		</item>
 		<item>
+			<title>AWNP - Majority; do pass.</title>
+			<description>AWNP - Majority; do pass.</description>
+			<pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-19/AWNP - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-19/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
@@ -366,11 +422,25 @@
 			<guid isPermaLink="false">2024-02-23/Placed on second reading by Rules Committee.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-27/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
 			<title>Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.</title>
 			<description>Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.</description>
 			<pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-27/Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-29/President signed.</guid>
 		</item>
 		<item>
 			<title>Speaker signed.</title>
@@ -387,11 +457,25 @@
 			<guid isPermaLink="false">2024-03-01/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 45, 2024 Laws.</title>
+			<description>Chapter 45, 2024 Laws.</description>
+			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-13/Chapter 45, 2024 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 6/6/2024.</title>
 			<description>Effective date 6/6/2024.</description>
 			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-13/Effective date 6/6/2024.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-03-13/Governor signed.</guid>
 		</item>
 		<item>
 			<title>Octopuses in Washington to remain in their little hideaways beneath the waves, safe from farming.  – Washington State House Democrats</title>

@@ -9,11 +9,25 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>AWNP - Majority; without recommendation.</title>
+			<description>AWNP - Majority; without recommendation.</description>
+			<pubDate>Mon, 06 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-06/AWNP - Majority; without recommendation.</guid>
+		</item>
+		<item>
 			<title>And refer to Local Government, Land Use &amp; Tribal Affairs.</title>
 			<description>And refer to Local Government, Land Use &amp; Tribal Affairs.</description>
 			<pubDate>Mon, 06 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-06/And refer to Local Government, Land Use &amp; Tribal Affairs.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</title>
+			<description>First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</description>
+			<pubDate>Mon, 06 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-06/First reading, referred to Agriculture, Water, Natural Resources &amp; Parks.</guid>
 		</item>
 		<item>
 			<title>Referred to Local Government, Land Use &amp; Tribal Affairs.</title>
@@ -57,6 +71,13 @@
 			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-28/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 28 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-28/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 47; nays, 0; absent, 0; excused, 2.</title>
@@ -148,11 +169,32 @@
 			<guid isPermaLink="false">testifier/Michele/Kiesz/2024-02-20 09:25:07</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Rules 2 Review.</title>
 			<description>Referred to Rules 2 Review.</description>
 			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-21/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>SGOV - Executive action taken by committee.</title>
+			<description>SGOV - Executive action taken by committee.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/SGOV - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>SGOV - Majority; do pass.</title>
+			<description>SGOV - Majority; do pass.</description>
+			<pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-02-21/SGOV - Majority; do pass.</guid>
 		</item>
 		<item>
 			<title>By resolution, returned to Senate Rules Committee for third reading.</title>

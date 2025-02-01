@@ -102,6 +102,13 @@
 			<guid isPermaLink="false">2023-02-09/And refer to Ways &amp; Means.</guid>
 		</item>
 		<item>
+			<title>LAW - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LAW - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-09/LAW - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Ways &amp; Means.</title>
 			<description>Referred to Ways &amp; Means.</description>
 			<pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
@@ -131,6 +138,13 @@
 			<guid isPermaLink="false">2023-02-23/Minority; without recommendation.</guid>
 		</item>
 		<item>
+			<title>WM - Majority; do pass 1st substitute bill proposed by Law &amp; Justice.</title>
+			<description>WM - Majority; do pass 1st substitute bill proposed by Law &amp; Justice.</description>
+			<pubDate>Thu, 23 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-23/WM - Majority; do pass 1st substitute bill proposed by Law &amp; Justice.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
@@ -150,6 +164,13 @@
 			<pubDate>Tue, 07 Mar 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-03-07/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Tue, 07 Mar 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-03-07/Rules suspended.  Placed on Third Reading.</guid>
 		</item>
 		<item>
 			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
@@ -233,11 +254,32 @@
 			<guid isPermaLink="false">2023-04-07/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 		<item>
+			<title>Rules suspended.  Placed on Third Reading.</title>
+			<description>Rules suspended.  Placed on Third Reading.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Rules suspended.  Placed on Third Reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</title>
+			<description>Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</description>
+			<pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-10/Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
 			<title>Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA</title>
 			<description>News article "Senate Passes Preventing Gun Violence Legislation in Week 13 Report - WSPTA" from Washington St Pta.</description>
 			<pubDate>Mon, 10 Apr 2023 15:13:19 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/senate-passes-preventing-gun-violence-legislation-in-week-13-report/#:~:text=SSB%205561</guid>
+		</item>
+		<item>
+			<title>President signed.</title>
+			<description>President signed.</description>
+			<pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-12/President signed.</guid>
 		</item>
 		<item>
 			<title>Speaker signed.</title>
@@ -254,11 +296,25 @@
 			<guid isPermaLink="false">2023-04-18/Delivered to Governor.</guid>
 		</item>
 		<item>
+			<title>Chapter 189, 2023 Laws.</title>
+			<description>Chapter 189, 2023 Laws.</description>
+			<pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-25/Chapter 189, 2023 Laws.</guid>
+		</item>
+		<item>
 			<title>Effective date 7/23/2023.</title>
 			<description>Effective date 7/23/2023.</description>
 			<pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-04-25/Effective date 7/23/2023.</guid>
+		</item>
+		<item>
+			<title>Governor signed.</title>
+			<description>Governor signed.</description>
+			<pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-04-25/Governor signed.</guid>
 		</item>
 	</channel>
 </rss>

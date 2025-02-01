@@ -66,12 +66,13 @@ def parse_date(content):
         return arrow.get(content).datetime
     except arrow.parser.ParserError:
         pass
-    for other_format in ("H:mm A ZZZ MMMM D, YYYY","M/DD/YYYY H:mm:ss A", "M/D/YYYY H:mm:ss A"):
+        # 2024-08-06 10:02:56 -0400
+    for other_format in ("H:mm A ZZZ MMMM D, YYYY","M/DD/YYYY H:mm:ss A", "M/D/YYYY H:mm:ss A", "YYYY-MM-DD H:mm:ss Z"):
         try:
             return arrow.get(content, other_format).datetime
         except arrow.parser.ParserError:
             pass
-    # print("other parse failed:", content)
+    print("other parse failed:", content)
     return None
 
 FETCH_NEW = True
@@ -212,15 +213,14 @@ async def scrape(progress, session, org_rowid, domain):
                 lastmod = url.lastmod.text
                 if lastmod.startswith("-0001"):
                     continue
-                lastmod = arrow.get(url.lastmod.text)
+                lastmod = parse_date(url.lastmod.text)
                 # Don't bother with old stuff yet.
                 if lastmod < after_date:
                     continue
-                print(url_text, lastmod)
+                # print(url_text, lastmod)
             else:
                 match = re.search(DATE_PATTERN, url_text)
                 if match:
-                    print(url_text, match)
                     year = int(match.group(1))
                     month = match.group(2)
                     if len(month) == 3:
@@ -231,7 +231,6 @@ async def scrape(progress, session, org_rowid, domain):
                     else:
                         month = int(month)
                     day = int(match.group(3))
-                    print(url_text, year, month, day)
                     if month:
                         lastmod = datetime.datetime(year=year, month=month, day=day, tzinfo=arrow.now().tzinfo)
                         if lastmod < after_date:
@@ -280,7 +279,6 @@ async def scrape(progress, session, org_rowid, domain):
                 for item in feed.find_all("item"):
                     link = item.find("link")
                     if link:
-                        print(link.text)
                         pages.add(link.text)
         
 
@@ -301,7 +299,7 @@ async def scrape(progress, session, org_rowid, domain):
             continue
         try:
             page = await session.get(page_url, fetch_again=False, crawl_delay=crawl_delay)
-            print(f"Fetch {page_url} delay {crawl_delay}")
+            # print(f"Fetch {page_url} delay {crawl_delay}")
         except (httpx.HTTPStatusError, httpx.ReadTimeout, httpx.ConnectError, httpcore.ReadTimeout, asyncio.TimeoutError) as e:
             print(f"{e} {page_url}")
             continue

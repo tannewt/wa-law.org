@@ -132,11 +132,25 @@
 			<guid isPermaLink="false">testifier/Joseph/Lachman/2023-02-10 12:14:42</guid>
 		</item>
 		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-17/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Passed to Rules Committee for second reading.</title>
 			<description>Passed to Rules Committee for second reading.</description>
 			<pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-17/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>SGE - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>SGE - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 17 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-17/SGE - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 		<item>
 			<title>Senate Rules "X" file.</title>
@@ -172,6 +186,13 @@
 			<pubDate>Thu, 30 Nov 2023 00:46:39 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://southseattleemerald.com/2023/11/29/news-gleams-record-low-turnout-in-recent-washington-state-elections-vacant-building-fire-in-columbia-city/#:~:text=Senate%20Bill%205723</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 		<item>
 			<title>On motion, referred to Rules.</title>

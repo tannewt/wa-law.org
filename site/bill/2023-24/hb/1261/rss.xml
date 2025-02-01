@@ -9,6 +9,13 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>First reading, referred to Health Care &amp; Wellness.</title>
+			<description>First reading, referred to Health Care &amp; Wellness.</description>
+			<pubDate>Thu, 12 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-12/First reading, referred to Health Care &amp; Wellness.</guid>
+		</item>
+		<item>
 			<title>👍💵Kirsten Smith - Susan G. Komen</title>
 			<description>Kirsten Smith signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/susan_g._komen/"&gt;Susan G. Komen&lt;/a&gt;. They are a registered lobbyist.</description>
 			<pubDate>Tue, 17 Jan 2023 06:28:06 GMT</pubDate>
@@ -57,6 +64,27 @@
 			<guid isPermaLink="false">testifier/Dr. Peter/Eby/2023-01-18 11:28:21</guid>
 		</item>
 		<item>
+			<title>HCW - Executive action taken by committee.</title>
+			<description>HCW - Executive action taken by committee.</description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-20/HCW - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>HCW - Majority; do pass.</title>
+			<description>HCW - Majority; do pass.</description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-20/HCW - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 20 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-20/Minority; do not pass.</guid>
+		</item>
+		<item>
 			<title>Referred to Appropriations.</title>
 			<description>Referred to Appropriations.</description>
 			<pubDate>Mon, 23 Jan 2023 00:00:00 GMT</pubDate>
@@ -95,6 +123,13 @@
 			<guid isPermaLink="false">2023-02-08/APP - Executive action taken by committee.</guid>
 		</item>
 		<item>
+			<title>APP - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>APP - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-10/APP - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; do not pass.</title>
 			<description>Minority; do not pass.</description>
 			<pubDate>Fri, 10 Feb 2023 00:00:00 GMT</pubDate>
@@ -107,6 +142,13 @@
 			<pubDate>Tue, 14 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-14/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
 		</item>
 		<item>
 			<title>House Rules "X" file.</title>

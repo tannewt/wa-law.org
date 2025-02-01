@@ -54,6 +54,20 @@
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2023/02/13/the-house-hot-sheet-for-week-6-of-the-2023-legislative-session/#:~:text=HB%201596</guid>
 		</item>
 		<item>
+			<title>LG - Executive action taken by committee.</title>
+			<description>LG - Executive action taken by committee.</description>
+			<pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-15/LG - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>LG - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>LG - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-15/LG - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
 			<title>Minority; without recommendation.</title>
 			<description>Minority; without recommendation.</description>
 			<pubDate>Wed, 15 Feb 2023 00:00:00 GMT</pubDate>
@@ -88,6 +102,20 @@
 			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-02-22/FIN - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>FIN - Majority; do pass 1st substitute bill proposed by Local Government.</title>
+			<description>FIN - Majority; do pass 1st substitute bill proposed by Local Government.</description>
+			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-22/FIN - Majority; do pass 1st substitute bill proposed by Local Government.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 22 Feb 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-02-22/Minority; do not pass.</guid>
 		</item>
 		<item>
 			<title>Minority; without recommendation.</title>
@@ -125,11 +153,25 @@
 			<guid isPermaLink="false">2023-03-13/Returned to Rules Committee for second reading.</guid>
 		</item>
 		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
 			<title>Referred to Finance.</title>
 			<description>Referred to Finance.</description>
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/Referred to Finance.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.</title>
+			<description>Rules Committee relieved of further consideration.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/Rules Committee relieved of further consideration.</guid>
 		</item>
 	</channel>
 </rss>

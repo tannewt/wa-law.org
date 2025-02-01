@@ -9,12 +9,40 @@
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Fri, 06 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-06/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Community Safety, Justice, &amp; Reentry.</title>
+			<description>First reading, referred to Community Safety, Justice, &amp; Reentry.</description>
+			<pubDate>Mon, 09 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-09/First reading, referred to Community Safety, Justice, &amp; Reentry.</guid>
+		</item>
+		<item>
 			<title>👎Jason Schwarz - Washington Defender Association</title>
 			<description>Jason Schwarz signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_defender_association/"&gt;Washington Defender Association&lt;/a&gt;.</description>
 			<pubDate>Sun, 15 Jan 2023 12:40:14 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jason/Schwarz/2023-01-15 12:40:14</guid>
+		</item>
+		<item>
+			<title>CSJR - Executive action taken by committee.</title>
+			<description>CSJR - Executive action taken by committee.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/CSJR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>CSJR - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>CSJR - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Thu, 26 Jan 2023 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2023-01-26/CSJR - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 		<item>
 			<title>Referred to Rules 2 Review.</title>
@@ -24,11 +52,25 @@
 			<guid isPermaLink="false">2023-01-27/Referred to Rules 2 Review.</guid>
 		</item>
 		<item>
+			<title>By resolution, reintroduced and retained in present status.</title>
+			<description>By resolution, reintroduced and retained in present status.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/By resolution, reintroduced and retained in present status.</guid>
+		</item>
+		<item>
 			<title>Referred to Community Safety, Justice, &amp; Reentry.</title>
 			<description>Referred to Community Safety, Justice, &amp; Reentry.</description>
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/Referred to Community Safety, Justice, &amp; Reentry.</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.</title>
+			<description>Rules Committee relieved of further consideration.</description>
+			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2024-01-08/Rules Committee relieved of further consideration.</guid>
 		</item>
 	</channel>
 </rss>
