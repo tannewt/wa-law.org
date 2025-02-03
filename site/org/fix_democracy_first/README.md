@@ -7,7 +7,7 @@
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
 
-### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍1  
+### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍2  
 
 ### [HB 1223](/bill/2025-26/hb/1223/) - Voter challenges 👍1  
 
@@ -19,15 +19,21 @@
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍2  
 * 👍💵 Cindy Black
 
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance 👍1  
+
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims 👍1  
+
 ### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍1  
 
 ### [SB 5014](/bill/2025-26/sb/5014/) - Concerning election security. 👍1  
 
 ### [SB 5017](/bill/2025-26/sb/5017/) - Uniformed & overseas voting 👍1  
 
-### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍1  
+### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍2  
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
+
+### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions 👍1  
 
 ## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍1  
 

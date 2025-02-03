@@ -156,10 +156,15 @@
 
 ### [HB 1582](/bill/2025-26/hb/1582/) - Concerning child care centers operated in existing buildings. 👍1  
 
+### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees  👎1 
+
 ### [HB 1644](/bill/2025-26/hb/1644/) - Working minors  👎1 
 * 👎💵 Lindsey Hueer
 
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍1  
+
+### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement  👎1 
+* 👎💵 Lindsey Hueer
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
 
@@ -275,16 +280,22 @@
 ### [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
 * 👍💵 Lindsey Hueer
 
+### [SB 5501](/bill/2025-26/sb/5501/) - Employee driving requirement  👎1 
+* 👎💵 Lindsey Hueer
+
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
-## [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
+### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
+* 👎💵 Lindsey Hueer
+
+## [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎1 
 * 👎💵 Lindsey Hueer
 
 ## 2023-24
 
-### [SB 5548](/bill/2023-24/sb/5548/) - Workers' compensation  👎1 
+### [SB 5626](/bill/2023-24/sb/5626/) - Wage replacement  👎1 
 * 👎💵 Lindsey Hueer
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  

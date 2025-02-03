@@ -17,14 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162490&caId=25344&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162490&caId=25344&tId=4)
 
-#### 53 👍 - Pro
+#### 141 👍 - Pro
 Testifying:
 * Dave Hedrick
 * Brad Manke - Stevens County Sheriff's Office
+* John Axtell
 
-#### 292 👎 - Con
+#### 713 👎 - Con
 Testifying:
 * john rosapepe - Endangered Species Coalition
 * David Linn
+* John Roskelley
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other

@@ -18,9 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32674&aId=162605&caId=25229&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32674&aId=162605&caId=25229&tId=4)
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Sarah Albertson - OSPI
+* Ryn Wylie
+* Sofia Jalso
+* Georgia Terrell
+* Megan Nilsen
+* Oliver Farivar
 
 #### 0 👎 - Con
 

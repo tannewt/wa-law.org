@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32645&aId=162480&caId=25448&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32645&aId=162480&caId=25448&tId=4)
 
-#### 4 👍 - Pro
+#### 23 👍 - Pro
 
-#### 31 👎 - Con
+#### 331 👎 - Con
 Testifying:
 * Christine Walker - Parkwood Neighborhood Alliance
 * Deborah Wilson
@@ -30,6 +30,11 @@ Testifying:
 * Kyle Fleck
 * Lonnie Stoddard
 * Sheila Mulligan
+* Christina Kitchen
 * Theresa Skrentny - AMHO
+* MARTI TATE
+* Judith Ames
+* FRED Sheppard
+* Sharon Pevey - AMHO
 
 #### 0 ❓ - Other

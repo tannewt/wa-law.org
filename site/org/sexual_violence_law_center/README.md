@@ -21,13 +21,16 @@
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
 * 👍💵 Elizabeth Hendren
 
-## [SB 5202](/bill/2025-26/sb/5202/) - Judicial orders 👍1  
+### [SB 5202](/bill/2025-26/sb/5202/) - Judicial orders 👍1  
 * 👍 Alexander Bejaran Estevez
+
+## [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
+* 👍 Riddhi Mukhopadhyay
 
 ## 2023-24
 
-### [SB 5202](/bill/2023-24/sb/5202/) - Judicial orders 👍1  
-* 👍 Alexander Bejaran Estevez
+### [SB 5355](/bill/2023-24/sb/5355/) - Higher education safety 👍1  
+* 👍 Riddhi Mukhopadhyay
 
 ### [HB 1028](/bill/2023-24/hb/1028/) - Crime victims & witnesses 👍1  
 

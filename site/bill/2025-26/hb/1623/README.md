@@ -16,9 +16,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 3 👎 - Con
+#### 133 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/04 10:30 AM - Labor & Workplace Standards (LAWS): HB 1623 Tips/credit card fees
 Sign up to testify:

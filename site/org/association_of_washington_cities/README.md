@@ -21,6 +21,8 @@
 
 ### [HB 1112](/bill/2025-26/hb/1112/) - Removing the city residency requirement for judges pro tempore in municipalities with a population of more than 400,000 inhabitants. 👍1  
 
+### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor.  👎1 
+
 ### [HB 1126](/bill/2025-26/hb/1126/) - Standardizing notification provisions relating to local tax rate changes and shared taxes administered by the department. 👍1  
 
 ### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act.   ❓1
@@ -85,14 +87,24 @@
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings   ❓1
 * ❓💵 Carl Schroeder
 
+### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase   ❓1
+* ❓💵 Candice Bock
+
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓1
 * ❓💵 Carl Schroeder
 
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
 
+### [HB 1518](/bill/2025-26/hb/1518/) - Vehicle collision liability  👎1 
+
+### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  
+
 ### [HB 1535](/bill/2025-26/hb/1535/) - Dental insurance practices  👎1 
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
+
+### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
+* 👎💵 Candice Bock
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 * 👍💵 Candice Bock
@@ -149,6 +161,8 @@
 ### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 
 
 ### [SB 5381](/bill/2025-26/sb/5381/) - Self-insurer withdrawal 👍1  
+
+### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 

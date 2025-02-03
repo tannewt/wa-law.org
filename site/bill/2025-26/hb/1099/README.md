@@ -17,11 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32645&aId=162479&caId=25447&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32645&aId=162479&caId=25447&tId=4)
 
-#### 35 👍 - Pro
+#### 54 👍 - Pro
 Testifying:
 * Constance Nelson
 * 💵Chester Baldwin - Rental Housing Assn Coalition (RHAC)
 
-#### 16 👎 - Con
+#### 314 👎 - Con
+Testifying:
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Deborah Wilson
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

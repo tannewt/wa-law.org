@@ -21,6 +21,8 @@ Sign up to testify:
 Testifying:
 * Armondo Pavone - Mayor, City of Renton
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* John axtell
 
 #### 0 ❓ - Other

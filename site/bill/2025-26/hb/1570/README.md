@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162707&caId=25454&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162707&caId=25454&tId=4)
 
-#### 80 👍 - Pro
+#### 120 👍 - Pro
+Testifying:
+* Alexander Matheson - CWU Working Wildcats
 
 #### 0 👎 - Con
 

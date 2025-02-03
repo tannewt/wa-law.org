@@ -6,11 +6,15 @@
 
 ### [HB 1258](/bill/2025-26/hb/1258/) - Providing funding for municipalities participating in the regional 911 emergency communications system.  👎2 
 
-## [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
+### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals   ❓1
+
+### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
+
+## [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍1  
 
 ## 2023-24
 
-### [SB 5107](/bill/2023-24/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
+### [SB 5558](/bill/2023-24/sb/5558/) - Growth management comp plans 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions  👎2 
 

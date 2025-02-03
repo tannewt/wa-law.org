@@ -18,4 +18,8 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* G Todd Williams
+* Michele Walker - Prosecuting Attorney, City of Kent

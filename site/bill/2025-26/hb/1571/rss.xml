@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1571/</link>
 		<description>Updates about HB 1571</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 02:08:22 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 02 Feb 2025 03:56:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Teresa/Taylor/2025-01-31 02:08:22</guid>
+		</item>
+		<item>
+			<title>👎💵Candice Bock - Association of Washington Cities</title>
+			<description>Candice Bock signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 02 Feb 2025 03:56:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Candice/Bock/2025-02-02 03:56:49</guid>
 		</item>
 	</channel>
 </rss>

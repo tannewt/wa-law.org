@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162986&caId=25279&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162986&caId=25279&tId=4)
 
-#### 64 👍 - Pro
+#### 89 👍 - Pro
 Testifying:
 * Anthony Geren
 * 💵Christine Reid - IBEW Local 77

@@ -10,7 +10,9 @@
 
 ### [HB 1312](/bill/2025-26/hb/1312/) - Retirement benefits/death 👍13  
 
-### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase 👍22  
+### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase 👍36  
+
+### [HB 1504](/bill/2025-26/hb/1504/) - Firearm financial resp.  👎1 
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍36  
 

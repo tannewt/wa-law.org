@@ -18,15 +18,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32655&aId=162510&caId=25405&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32655&aId=162510&caId=25405&tId=4)
 
-#### 406 👍 - Pro
+#### 863 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Barbara Posthumus - Lake Washington School District
 * 💵Mitch Denning - Alliance of Educational Associations
+* Derona Uzzle - Washington Education Association/Issaquah Education Association
+* Tori Emerson - Washington State PTA
+* Meredith Lemelin - Cheney Education Association/Washington Education Association
+* Perla Hauge - Ridgefield Classified Paraprofessionals/WEA
+* Brady Vallala - Fife Education Association
+* Marissa Rathbone - Washington State School Directors' Association
+* Kevin Collins - Orting School District
 
-#### 7 👎 - Con
+#### 300 👎 - Con
 Testifying:
 * John Axtell
+* 💵Patrick Connor - NFIB
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

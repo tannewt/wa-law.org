@@ -18,16 +18,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162505&caId=25400&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162505&caId=25400&tId=4)
 
-#### 51 👍 - Pro
+#### 124 👍 - Pro
 Testifying:
 * Stephanie Spencer
 * Melissa Spiker - Seattle Special Education PTSA, Vice President
 * Jana Parker - Parent, education advocate and president of Seattle Special Education PTSA
 * John Axtell
 * JD Sumsky
+* Shelly Burt
+* ARZU FOROUGH - Washington Autism Alliance
+* June Nho Ivers - Seattle Council PTSA
+* Holly Muenchow - Washington State PTA
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
+* Gina McGlocklin
+* Derona Uzzle
 
 #### 0 ❓ - Other

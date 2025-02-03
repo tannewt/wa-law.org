@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162506&caId=25401&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162506&caId=25401&tId=4)
 
-#### 41 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * Kathy McDonald
 * 💵Alex Hur - Communities in Schools of Washington
@@ -26,6 +26,6 @@ Testifying:
 * Emilie Robertson - Arch of wa
 * Richard Pope - Parent of Special Education Student who "Aged Out" Last Week
 
-#### 0 👎 - Con
+#### 13 👎 - Con
 
 #### 0 ❓ - Other

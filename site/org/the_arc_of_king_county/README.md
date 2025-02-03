@@ -14,6 +14,8 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
+### [HB 1220](/bill/2025-26/hb/1220/) - Concerning appropriate response to assaults by individuals in behavioral health crisis. 👍1  
+
 ### [HB 1240](/bill/2025-26/hb/1240/) - Vehicle impounds 👍1  
 
 ### [HB 1243](/bill/2025-26/hb/1243/) - DSHS overpayments 👍1  
@@ -41,6 +43,8 @@
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
 
 ### [SB 5064](/bill/2025-26/sb/5064/) - Rare diseases adv. council 👍1  
+
+### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 
 ### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍2  
 
@@ -75,13 +79,16 @@
 
 ### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍1  
 
-### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍2  
+* 👍 Esther Warwick
 
-## [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
+### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
+
+## [SB 5427](/bill/2025-26/sb/5427/) - Children in crisis program 👍1  
 
 ## 2023-24
 
-### [SB 5369](/bill/2023-24/sb/5369/) - Youth mental health/schools 👍1  
+### [SB 5427](/bill/2023-24/sb/5427/) - Children in crisis program 👍1  
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

@@ -17,8 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162508&caId=25403&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162508&caId=25403&tId=4)
 
-#### 3 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* John Axtell
+* Dr. Erica Hernandez-Scott - PESB
 
-#### 167 👎 - Con
+#### 235 👎 - Con
 
 #### 0 ❓ - Other

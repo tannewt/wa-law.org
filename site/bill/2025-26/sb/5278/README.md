@@ -17,9 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32693&aId=162793&caId=25265&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32693&aId=162793&caId=25265&tId=4)
 
-#### 1 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 8 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Nicole Robison
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)

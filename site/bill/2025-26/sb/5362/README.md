@@ -17,10 +17,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32623&aId=162392&caId=25289&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32623&aId=162392&caId=25289&tId=4)
 
-#### 444 👍 - Pro
+#### 675 👍 - Pro
 Testifying:
 * Colleen McIngalls - King County Prosecuting Attorney's Office
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Esther Warwick - [The Arc of King County](/org/the_arc_of_king_county/)
+* Paula Reed - CAC-WA
+* Annalise Martucci - Office of Civil Legal Aid
+* 💵Sherrie Tinoco - [WSCADV](/org/washington_state_coalition_against_domestic_violence/)
+* Anne-Marie Schwerin - YWCA Walla Walla
+* Carlyn Sampson - Rebuilding HOPE
+* Jade Carela - Tulalip Tribes Family Advocacy
+* Lindsay Finney - Mary Bridge Pediatric Care Continuum Children's Advocacy Center of Pierce County
+* Katie Whittier - YWCA Clark County
+* Leesa Manion - King County Prosecuting Attorney's Office
 
-#### 161 👎 - Con
+#### 245 👎 - Con
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other

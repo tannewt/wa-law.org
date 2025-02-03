@@ -16,6 +16,11 @@
 ### [HB 1381](/bill/2025-26/hb/1381/) - Elections/language assist. 👍2  
 * 👍💵 Jake García
 
+### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
+* 👍💵 Jake García
+
+### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍2  
+
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
@@ -26,11 +31,13 @@
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
 * 👍💵 Jake Garcia
 
-## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
+### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
+
+## [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
 
 ## 2023-24
 
-### [SB 5402](/bill/2023-24/sb/5402/) - Financial aid eligibility 👍1  
+### [SB 5474](/bill/2023-24/sb/5474/) - Organic, etc. agriculture 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

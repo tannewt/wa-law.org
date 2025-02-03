@@ -17,10 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32651&aId=162692&caId=25414&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32651&aId=162692&caId=25414&tId=4)
 
-#### 34 👍 - Pro
+#### 190 👍 - Pro
 Testifying:
 * Mia Ayala-Marshall - Duwamish River Community Coalition
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

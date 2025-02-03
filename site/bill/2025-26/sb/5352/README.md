@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 4: Housing, job security, consumer protection and floor action - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/02/this-week-in-the-senate-week-4-housing-job-security-consumer-protection-and-floor-action/#:~:text=Senate%20Bill%205352)
+
 ## Meetings
 ### Tue 02/04 08:00 AM - Early Learning & K-12 Education (EDU): SB 5352 Free school meals
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32673&aId=162598&caId=25225&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32673&aId=162598&caId=25225&tId=4)
 
-#### 183 👍 - Pro
+#### 470 👍 - Pro
 Testifying:
 * Pyper Hayden
 * Meghin Margel
@@ -23,7 +26,12 @@ Testifying:
 * Karen Brown - WA School Nutrition Association
 * Leeda Beha - WA School Nutrition Association
 * 💵Mitch Denning - Alliance of Educational Associations
+* 💵Alex Hur - Communities in Schools of Washington
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Cecilia Chavez - Toppenish Community Chest
+* 💵Giovanni Severino - Latino Community Fund of WA State
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 
-#### 0 👎 - Con
+#### 40 👎 - Con
 
 #### 0 ❓ - Other

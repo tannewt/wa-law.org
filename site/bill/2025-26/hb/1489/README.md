@@ -19,6 +19,8 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 4 👎 - Con
+#### 13 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Emily Murphy - Child Care Aware of Washington; Child Care for WA Campaign

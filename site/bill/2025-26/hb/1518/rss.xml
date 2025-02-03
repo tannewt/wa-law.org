@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1518/</link>
 		<description>Updates about HB 1518</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 08:21:49 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 02 Feb 2025 10:18:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,7 +31,7 @@
 			<guid isPermaLink="false">testifier/Bob/Anderton/2025-01-29 06:16:06</guid>
 		</item>
 		<item>
-			<title>👎Scott Mcknight - Washington Bike Law- not a paid lobbyist</title>
+			<title>👎Scott Mcknight - Washington Physicians for Social Responsibility</title>
 			<description>Scott Mcknight signed up to testify Con.</description>
 			<pubDate>Thu, 30 Jan 2025 01:23:26 GMT</pubDate>
 			<category>testifier</category>
@@ -39,7 +39,7 @@
 			<guid isPermaLink="false">testifier/Scott/Mcknight/2025-01-30 01:23:26</guid>
 		</item>
 		<item>
-			<title>👎Andrew Williams - Washington Bike Law- not a paid lobbyist</title>
+			<title>👎Andrew Williams - Washington Physicians for Social Responsibility</title>
 			<description>Andrew Williams signed up to testify Con.</description>
 			<pubDate>Fri, 31 Jan 2025 02:14:44 GMT</pubDate>
 			<category>testifier</category>
@@ -47,12 +47,28 @@
 			<guid isPermaLink="false">testifier/Andrew/Williams/2025-01-31 02:14:44</guid>
 		</item>
 		<item>
-			<title>👎Garrett O’Sullivan - Washington Bike Law- not a paid lobbyist</title>
+			<title>👎Garrett O’Sullivan - Washington Physicians for Social Responsibility</title>
 			<description>Garrett O’Sullivan signed up to testify Con.</description>
 			<pubDate>Fri, 31 Jan 2025 08:21:49 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Garrett/O’Sullivan/2025-01-31 08:21:49</guid>
+		</item>
+		<item>
+			<title>👎Gabriel Ball - Washington Physicians for Social Responsibility</title>
+			<description>Gabriel Ball signed up to testify Con.</description>
+			<pubDate>Fri, 31 Jan 2025 09:11:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Gabriel/Ball/2025-01-31 09:11:13</guid>
+		</item>
+		<item>
+			<title>👍Annemarie Dooley - Washington Physicians for Social Responsibility</title>
+			<description>Annemarie Dooley signed up to testify Pro. They are signed up to represent Washington Physicians for Social Responsibility.</description>
+			<pubDate>Sun, 02 Feb 2025 10:18:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Annemarie/Dooley/2025-02-02 10:18:32</guid>
 		</item>
 	</channel>
 </rss>

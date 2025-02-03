@@ -18,10 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162670&caId=25373&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162670&caId=25373&tId=4)
 
-#### 4 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * Derek Sanders - Thurston County Sheriff's Office
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Jon Schuldt - Chief of Police, City of Renton
+* Andy McCurdy - Sumner Police Department
+* Teddy Chow - Okanogan County Prosecuting Attorney's Office
+* Beth McIntyre
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

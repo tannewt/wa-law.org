@@ -14,7 +14,7 @@
 
 ### [SB 5275](/bill/2025-26/sb/5275/) - Modifying funding and award levels for the passport to careers program and eligibility for the Washington college grant. 👍1  
 
-### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
+### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍2  
 
 ## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍2  
 

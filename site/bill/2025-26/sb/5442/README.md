@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32691&aId=162760&caId=25256&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32691&aId=162760&caId=25256&tId=4)
 
-#### 78 👍 - Pro
+#### 96 👍 - Pro
 Testifying:
 * Jessica Garcia - Communities for Our College
 * Stephen Martinez - Communities for Our Colleges
@@ -25,7 +25,11 @@ Testifying:
 * Jeffry Philipps - Spokane Business Leader
 * Kevin Brockbank - Chancellor of Spokane Colleges
 * Rob McCann - Catholic Charities
+* Bailey Dexter - Student
+* Elisa Correa - Student
+* Sulaf Alsaffar - Student
+* Tajari Jones - Student
 
-#### 0 👎 - Con
+#### 17 👎 - Con
 
 #### 1 ❓ - Other

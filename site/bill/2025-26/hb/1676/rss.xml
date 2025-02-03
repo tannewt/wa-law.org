@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1676/</link>
 		<description>Updates about HB 1676</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 22:00:37 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 02 Feb 2025 02:04:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,7 +31,7 @@
 			<guid isPermaLink="false">testifier/Justin/Mckaughan/2025-01-30 05:01:53</guid>
 		</item>
 		<item>
-			<title>👍Julie Kennedy - PacifiCorp</title>
+			<title>👍Julie Kennedy - Klickitat PUD and Okanogan PUD</title>
 			<description>Julie Kennedy signed up to testify Pro.</description>
 			<pubDate>Fri, 31 Jan 2025 02:51:35 GMT</pubDate>
 			<category>testifier</category>
@@ -39,7 +39,7 @@
 			<guid isPermaLink="false">testifier/Julie/Kennedy/2025-01-31 02:51:35</guid>
 		</item>
 		<item>
-			<title>👍John Axtell - PacifiCorp</title>
+			<title>👍John Axtell - Klickitat PUD and Okanogan PUD</title>
 			<description>John Axtell signed up to testify Pro.</description>
 			<pubDate>Fri, 31 Jan 2025 02:52:18 GMT</pubDate>
 			<category>testifier</category>
@@ -47,7 +47,7 @@
 			<guid isPermaLink="false">testifier/John/Axtell/2025-01-31 02:52:18</guid>
 		</item>
 		<item>
-			<title>👍Tom Sweeney - PacifiCorp</title>
+			<title>👍Tom Sweeney - Klickitat PUD and Okanogan PUD</title>
 			<description>Tom Sweeney signed up to testify Pro.</description>
 			<pubDate>Fri, 31 Jan 2025 06:46:01 GMT</pubDate>
 			<category>testifier</category>
@@ -60,6 +60,30 @@
 			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201676</guid>
+		</item>
+		<item>
+			<title>👎💵Janie White - Dad and Educator from</title>
+			<description>Janie White signed up to testify Con. They are a registered lobbyist.</description>
+			<pubDate>Sat, 01 Feb 2025 11:13:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Janie/White/2025-02-01 11:13:03</guid>
+		</item>
+		<item>
+			<title>👎Shawna Moore - Dad and Educator from</title>
+			<description>Shawna Moore signed up to testify Con.</description>
+			<pubDate>Sat, 01 Feb 2025 11:19:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Shawna/Moore/2025-02-01 11:19:13</guid>
+		</item>
+		<item>
+			<title>👎Kyrian MacMichael - Olympia Education Association</title>
+			<description>Kyrian MacMichael signed up to testify Con. They are signed up to represent Olympia Education Association.</description>
+			<pubDate>Sun, 02 Feb 2025 02:04:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kyrian/MacMichael/2025-02-02 02:04:48</guid>
 		</item>
 	</channel>
 </rss>

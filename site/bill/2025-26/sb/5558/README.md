@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162878&caId=25297&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162878&caId=25297&tId=4)
 
-#### 4 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Jacob Gonzalez - City of Pasco, Planning
 * Scott Chesney - Planning Director, Spokane County
 * Al French - Spokane County Commissioner
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)

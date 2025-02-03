@@ -1,12 +1,15 @@
 # Tacoma Public Utilities
 ## 2025-26
 
-## [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍1  
+### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍1  
+* 👍💵 Logan Bahr
+
+## [SB 5401](/bill/2025-26/sb/5401/) - Wholesale power purchases 👍1  
 * 👍💵 Logan Bahr
 
 ## 2023-24
 
-### [HB 1329](/bill/2023-24/hb/1329/) - Wholesale power purchases 👍1  
+### [SB 5401](/bill/2023-24/sb/5401/) - Wholesale power purchases 👍1  
 * 👍💵 Logan Bahr
 
 ### [HB 1032](/bill/2023-24/hb/1032/) - Wildfires/electric utilities 👍1  

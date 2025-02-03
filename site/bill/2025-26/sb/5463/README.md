@@ -14,9 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162629&caId=25280&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162629&caId=25280&tId=4)
 
-#### 76 👍 - Pro
+#### 103 👍 - Pro
+Testifying:
+* Lannie Grillo
+* April Frazier - SEIU Healthcare 1199NW
+* Brian Wright - Washington State Association for Justice
 
-#### 11 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 

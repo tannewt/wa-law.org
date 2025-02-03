@@ -22,6 +22,8 @@
 
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
 
+### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
+
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
@@ -41,6 +43,8 @@
 
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
 * 👍💵 Justin Allegro
+
+### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
 
 ## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 

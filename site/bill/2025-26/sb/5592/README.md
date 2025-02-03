@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162988&caId=25284&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162988&caId=25284&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 
-#### 263 👎 - Con
+#### 729 👎 - Con
 Testifying:
 * Brad Brotherton - Brotherton Cadillac GMC Buick, Washington State Auto Dealers Association
 * Jaclyn Midkiff - Harvest Auto, Washington State Auto Dealers Association
@@ -26,6 +26,8 @@ Testifying:
 * Gregg DuPont
 * Dustin Ray
 * Seth Stobaugh
+* William Lindhardt
+* brian reder - brotherton cadillac
 
 #### 1 ❓ - Other
 Testifying:

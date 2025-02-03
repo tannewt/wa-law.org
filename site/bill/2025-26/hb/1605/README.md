@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32617&aId=162516&caId=25483&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32617&aId=162516&caId=25483&tId=4)
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Spike Unruh - Washington State Patrol Troopers Association
+* Will Stellmacher - Washington State Patrol Lieutenants and Captains Association (WSPLCA)
 
 #### 0 👎 - Con
 

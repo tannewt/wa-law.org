@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32688&aId=162743&caId=25365&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32688&aId=162743&caId=25365&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Cara Helmer - Washington State Hospital Association
 
-#### 83 👎 - Con
+#### 112 👎 - Con
 
 #### 0 ❓ - Other

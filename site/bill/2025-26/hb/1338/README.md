@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162721&caId=25347&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162721&caId=25347&tId=4)
 
-#### 380 👍 - Pro
+#### 1198 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Jason Perrins - Chewelah School District
@@ -39,10 +39,16 @@ Testifying:
 * Michelle Harris
 * 💵Melissa Gombosky - Evergreen and Vancouver Public Schools
 * Tim Merlino - ESD 112 Superintendent
+* Angela Steck - Washington State PTA
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Jeff Chamberlin - [University Place School District](/org/university_place_school_district/)
+* Jr, John Polm - [Puyallup School District](/org/puyallup_school_district/)
+* Krestin Bahr - Peninsula School District
+* Charlie Brown - South Sound Superintendents and Skills Center Directors
 
-#### 4 👎 - Con
+#### 955 👎 - Con
 Testifying:
 * John Axtell
 * John Axtell
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

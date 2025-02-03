@@ -22,6 +22,8 @@
 
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase  👎1 
 
+### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions  👎2 
+
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎2 
 
 ### [HB 1262](/bill/2025-26/hb/1262/) - Health disparities council  👎1 
@@ -35,13 +37,19 @@
 
 ### [HB 1321](/bill/2025-26/hb/1321/) - Outside militia activities  👎2 
 
+### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs  👎2 
+
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎1 
 
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections  👎1 
 
-### [HB 1504](/bill/2025-26/hb/1504/) - Firearm financial resp.  👎1 
+### [HB 1504](/bill/2025-26/hb/1504/) - Firearm financial resp.  👎2 
 
 ### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease  👎1 
+
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎2 
+
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎2 
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -50,7 +58,7 @@
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school.  👎3 
 * 👎 Julie Barrett
 
-### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍1  
+### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍3  
 
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
 
@@ -98,11 +106,15 @@
 ### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards  👎2 
 * 👎 Joy Gjersvold
 
-## [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools  👎1 
+### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools  👎1 
+
+### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt  👎2 
+
+## [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project  👎2 
 
 ## 2023-24
 
-### [SB 5369](/bill/2023-24/sb/5369/) - Youth mental health/schools  👎1 
+### [SB 5541](/bill/2023-24/sb/5541/) - Future fund pilot project  👎2 
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs  👎2 
 * 👎 Jeannie Magdua

@@ -22,14 +22,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162948&caId=25332&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162948&caId=25332&tId=4)
 
-#### 12 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Rod Higgins - Councilmember, City of Spokane Valley
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 
-#### 199 👎 - Con
+#### 374 👎 - Con
 
 #### 0 ❓ - Other
 

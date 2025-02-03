@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162711&caId=25458&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162711&caId=25458&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Devin Gombosky - ESD 105 Schools Coalition
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Joe Kendo
+* 💵Lindsey Hueer - AWB
 
 #### 0 ❓ - Other

@@ -14,15 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32617&aId=162858&caId=25485&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32617&aId=162858&caId=25485&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Kurt Wilson - Soundbuilt Homes
 
-#### 10 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Devin Gombosky - Washington Association of Sewer and Water Districts
 * 💵Rhonda Weaver - Comcast
 * Terry Davis - Comcast
+* Jeff Gombosky - CTIA
 
 #### 0 ❓ - Other

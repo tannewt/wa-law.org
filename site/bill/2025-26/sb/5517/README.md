@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=162608&caId=25231&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=162608&caId=25231&tId=4)
 
-#### 697 👍 - Pro
+#### 1364 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Larisss Mccray
 * Naomi McCleary
+* Elizabeth Ward Robertson - [Seattle Education Association](/org/seattle_education_association/)
+* 💵Janie White - [Washington Education Association](/org/washington_education_association/)
+* 💵Larry Delaney
+* Shara Yackel
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 
-#### 8 ❓ - Other
+#### 12 ❓ - Other

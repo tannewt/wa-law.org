@@ -38,6 +38,15 @@
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍1  
 * 👍💵 Heather Trim
 
+### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍1  
+* 👍💵 Heather Trim
+
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
+* 👍💵 Heather Trim
+
+### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍1  
+* 👍💵 Heather Trim
+
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs   ❓1
 * ❓💵 Heather Trim
 

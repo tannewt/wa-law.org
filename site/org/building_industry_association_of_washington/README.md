@@ -87,9 +87,13 @@
 
 ### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍1  
 
+### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
+
 ### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+
+### [SB 5378](/bill/2025-26/sb/5378/) - PFML grants/school districts  👎1 
 
 ### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
 

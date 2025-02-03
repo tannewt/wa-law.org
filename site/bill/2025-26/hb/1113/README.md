@@ -17,11 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162667&caId=25370&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162667&caId=25370&tId=4)
 
-#### 8 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Kate Benward
+* Courtney Hesla - [Comprehensive Healthcare](/org/comprehensive_healthcare/)
+* Katie Hurley - King County Department of Public Defense
 
-#### 0 👎 - Con
+#### 19 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 2 ❓ - Other
 Testifying:

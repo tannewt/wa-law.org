@@ -17,14 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162509&caId=25404&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162509&caId=25404&tId=4)
 
-#### 90 👍 - Pro
+#### 207 👍 - Pro
 Testifying:
 * Julie Kennedy
 * John Axtell
 * Tom Sweeney
 
-#### 267 👎 - Con
+#### 739 👎 - Con
 Testifying:
 * Justin Mckaughan - Dad and Educator from
+* 💵Janie White
+* Shawna Moore
+* Kyrian MacMichael - Olympia Education Association
 
 #### 1 ❓ - Other

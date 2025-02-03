@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163040&caId=25501&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163040&caId=25501&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Tim Eyman - Initiative Activist
 
 #### 0 ❓ - Other

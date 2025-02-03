@@ -74,9 +74,11 @@
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
+### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
+
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
 
@@ -92,6 +94,8 @@
 ### [HB 1267](/bill/2025-26/hb/1267/) - Special education funding   ❓1
 
 ### [HB 1270](/bill/2025-26/hb/1270/) - Deferred comp. by local gov. 👍1  
+
+### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
 
 ### [HB 1275](/bill/2025-26/hb/1275/) - Self-insurer withdrawal 👍1  
 
@@ -119,6 +123,9 @@
 
 ### [HB 1332](/bill/2025-26/hb/1332/) - Transp. network companies 👍1  
 
+### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍1  
+* 👍💵 Julie Salvi
+
 ### [HB 1349](/bill/2025-26/hb/1349/) - Pension credit for leave 👍1  
 
 ### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  
@@ -127,6 +134,9 @@
 * ❓💵 Julie Salvi
 
 ### [HB 1398](/bill/2025-26/hb/1398/) - Adult family home arb. 👍1  
+
+### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
+* 👍💵 Simone Boe
 
 ### [HB 1412](/bill/2025-26/hb/1412/) - Comm'n, M. East & N. Africa 👍1  
 
@@ -151,6 +161,18 @@
 
 ### [HB 1524](/bill/2025-26/hb/1524/) - Concerning workplace standards and requirements applicable to employers of isolated employees. 👍1  
 
+### [HB 1554](/bill/2025-26/hb/1554/) - College bound scholarship 👍1  
+
+### [HB 1557](/bill/2025-26/hb/1557/) - Guaranteed admissions prg. 👍1  
+
+### [HB 1565](/bill/2025-26/hb/1565/) - Dual enrollment scholarship 👍1  
+
+### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
+
+### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍1  
+
+### [HB 1676](/bill/2025-26/hb/1676/) - Charter school contracts  👎1 
+
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
@@ -161,7 +183,7 @@
 
 ### [SB 5025](/bill/2025-26/sb/5025/) - Educational interpreters 👍1  
 
-### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
+### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍2  
 
 ### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel 👍1  
 
@@ -181,7 +203,7 @@
 
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
 
-### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍1  
+### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍2  
 
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍1  
 
@@ -210,7 +232,7 @@
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees. 👍1  
 
-### [SB 5110](/bill/2025-26/sb/5110/) - Providing tuition waivers for tribal elders at Washington’s community and technical colleges. 👍1  
+### [SB 5110](/bill/2025-26/sb/5110/) - Providing tuition waivers for tribal elders at Washington’s community and technical colleges. 👍2  
 
 ### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍5  
 * 👍 Jared Mason-Gere
@@ -254,6 +276,8 @@
 * ❓💵 Julie Salvi
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
+
+### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍1  
 
 ### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍2  
 * 👍💵 Nasue Nishida
@@ -314,6 +338,12 @@
 
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
 
+### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍2  
+* 👍💵 Simone Boe
+* 👍💵 Simone Boe
+
+### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
+
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools   ❓1
@@ -326,11 +356,22 @@
 
 ### [SB 5433](/bill/2025-26/sb/5433/) - DOC employee bargaining 👍1  
 
-## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+
+### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍1  
+* 👍💵 Janie White
+
+### [SB 5523](/bill/2025-26/sb/5523/) - Higher ed. gov./students 👍1  
+
+### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
+
+## [SB 5593](/bill/2025-26/sb/5593/) - School levies & local effort 👍1  
+* 👍💵 Julie Salvi
 
 ## 2023-24
 
-### [SB 5466](/bill/2023-24/sb/5466/) - Electric transmission system 👍1  
+### [SB 5593](/bill/2023-24/sb/5593/) - School levies & local effort 👍1  
+* 👍💵 Julie Salvi
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 

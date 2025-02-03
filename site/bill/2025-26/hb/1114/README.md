@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162733&caId=25349&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162733&caId=25349&tId=4)
 
-#### 102 👍 - Pro
+#### 150 👍 - Pro
+Testifying:
+* Gary Wickman - [Respiratory Care Society of Washington](/org/respiratory_care_society_of_washington/)
 
 #### 0 👎 - Con
 

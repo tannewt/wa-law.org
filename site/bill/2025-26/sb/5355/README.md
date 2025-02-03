@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 4: Housing, job security, consumer protection and floor action - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/02/this-week-in-the-senate-week-4-housing-job-security-consumer-protection-and-floor-action/#:~:text=Senate%20Bill%205355)
+
 ## Meetings
 ### Mon 02/03 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5355 Higher education safety
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32691&aId=162759&caId=25255&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32691&aId=162759&caId=25255&tId=4)
 
-#### 57 👍 - Pro
+#### 173 👍 - Pro
 Testifying:
 * 💵Collin Bannister - The Washington Student Association
 * Alice Zborovskiy - University of Washington Seattle ASUW Sexual Assault and Relationship Violence Activists
@@ -23,8 +26,13 @@ Testifying:
 * Naira Gonzales Aranda
 * Kiana Swearingen - University of Washington Office of the Title IX Coordinator
 * 💵Nora Selander - Western Washington University / Council of Presidents
+* 💵Christopher Rosenquist - Associated Students of Western Washington University
+* Jory Hamilton - Student at Bellevue College
+* Meredith Massey
+* Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* Isabella Stratton
 
-#### 178 👎 - Con
+#### 275 👎 - Con
 
 #### 0 ❓ - Other
 

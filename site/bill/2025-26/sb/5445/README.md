@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32641&aId=162448&caId=25236&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32641&aId=162448&caId=25236&tId=4)
 
-#### 1 👍 - Pro
+#### 131 👍 - Pro
+Testifying:
+* 💵Dave Warren - WA Green Hydrogen Alliance
 
 #### 0 👎 - Con
 

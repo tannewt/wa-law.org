@@ -27,7 +27,9 @@
 
 ### [HB 1492](/bill/2025-26/hb/1492/) - Students with dependents 👍3  
 
-### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
+### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍2  
+
+### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
 
 ### [SB 5106](/bill/2025-26/sb/5106/) - Establishing Eid al-Fitr and Eid al-Adha as state holidays. 👍1  
 
@@ -43,6 +45,8 @@
 * 👍 Joe Dacca
 
 ### [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍2  
+
+### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
 
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍11  
 

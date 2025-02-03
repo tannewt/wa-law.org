@@ -18,15 +18,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162895&caId=25326&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162895&caId=25326&tId=4)
 
-#### 35 👍 - Pro
+#### 85 👍 - Pro
 Testifying:
 * Alexis Hale - Justice for Girls
 * Lola Luna - Justice for Girls
 * Judge David Keenan - Washington State Minority and Justice Commission
 * Chris Ativalu-Ford - TVW's Capitol Classroom
 * Moses Mutel - TVW's Capitol Classroom
+* Grete Schultz - TeamChild
 
-#### 1 👎 - Con
+#### 14 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 0 ❓ - Other
 

@@ -17,12 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162737&caId=25353&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162737&caId=25353&tId=4)
 
-#### 4 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 * Rod Higgins - Councilmember, City of Spokane Valley
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 2 👎 - Con
+#### 111 👎 - Con
 
 #### 0 ❓ - Other

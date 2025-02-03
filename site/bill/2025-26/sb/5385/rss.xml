@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5385/</link>
 		<description>Updates about SB 5385</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 21 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 01 Feb 2025 10:10:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-21/First reading, referred to Agriculture &amp; Natural Resources.</guid>
+		</item>
+		<item>
+			<title>👍Tom Davis - WA Forest Protection Association</title>
+			<description>Tom Davis signed up to testify Pro. They are signed up to represent WA Forest Protection Association.</description>
+			<pubDate>Sat, 01 Feb 2025 10:10:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tom/Davis/2025-02-01 10:10:21</guid>
 		</item>
 	</channel>
 </rss>

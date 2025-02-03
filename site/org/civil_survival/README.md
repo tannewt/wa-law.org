@@ -27,11 +27,13 @@
 ### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍3  
 * 👍💵 Kelly Olson
 
-## [SB 5342](/bill/2025-26/sb/5342/) - Legislators/state facilities 👍1  
+### [SB 5342](/bill/2025-26/sb/5342/) - Legislators/state facilities 👍1  
+
+## [SB 5584](/bill/2025-26/sb/5584/) - OII expansion/prosecutions 👍1  
 
 ## 2023-24
 
-### [SB 5342](/bill/2023-24/sb/5342/) - Legislators/state facilities 👍1  
+### [SB 5584](/bill/2023-24/sb/5584/) - OII expansion/prosecutions 👍1  
 
 ### [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍3  
 

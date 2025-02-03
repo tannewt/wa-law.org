@@ -74,6 +74,12 @@
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
+### [HB 1604](/bill/2025-26/hb/1604/) - Jail searches/gender   ❓1
+* ❓💵 Brad Banks
+
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction   ❓1
+* ❓💵 Travis Dutton
+
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 
 ### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel  👎1 
@@ -103,6 +109,10 @@
 
 ### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍2  
 
+### [SB 5260](/bill/2025-26/sb/5260/) - Juvenile correctional pop. 👍1  
+
+### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile correctional pop. 👍1  
+
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓1
 * ❓💵 Travis Dutton
 
@@ -118,7 +128,15 @@
 ### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
 * 👎💵 Kelsey Hulse
 
+### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+
+### [SB 5367](/bill/2025-26/sb/5367/) - Law enf. community grants 👍1  
+
+### [SB 5423](/bill/2025-26/sb/5423/) - Digital electronics/repair 👍1  
+
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
+
+### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
 ### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs 👍1  
 * 👍 BRIAN ENSLOW
@@ -126,13 +144,16 @@
 ### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍1  
 * 👍 BRIAN ENSLOW
 
-## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction   ❓1
+### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction   ❓1
 * ❓💵 Travis Dutton
+
+## [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
+* 👍 BRIAN ENSLOW
 
 ## 2023-24
 
-### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction   ❓1
-* ❓💵 Travis Dutton
+### [SB 5547](/bill/2023-24/sb/5547/) - Cannabis revenue/local gov. 👍1  
+* 👍 BRIAN ENSLOW
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

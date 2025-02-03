@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162877&caId=25296&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162877&caId=25296&tId=4)
 
-#### 24 👍 - Pro
+#### 33 👍 - Pro
 
-#### 21 👎 - Con
+#### 76 👎 - Con
+Testifying:
+* Ginger Voorhees
+* Sarah Wall
+* Colleen Mcaleer - Laurelhurst Community Club Council
 
 #### 0 ❓ - Other

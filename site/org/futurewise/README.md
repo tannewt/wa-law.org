@@ -28,7 +28,8 @@
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
 * 👍💵 Bryce Yadon
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
@@ -69,15 +70,24 @@
 
 ### [SB 5374](/bill/2025-26/sb/5374/) - Transportation/tribal rep. 👍1  
 
+### [SB 5461](/bill/2025-26/sb/5461/) - Intensive rural dev. areas   ❓1
+* ❓💵 Bryce Yadon
+
 ### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs   ❓1
 * ❓💵 Bryce Yadon
 
-## [SB 5471](/bill/2025-26/sb/5471/) - Middle housing   ❓1
+### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing   ❓1
+* ❓💵 Bryce Yadon
+
+### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans   ❓1
+* ❓💵 Bryce Yadon
+
+## [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process   ❓1
 * ❓💵 Bryce Yadon
 
 ## 2023-24
 
-### [SB 5471](/bill/2023-24/sb/5471/) - Middle housing   ❓1
+### [SB 5559](/bill/2023-24/sb/5559/) - UGA subdivision process   ❓1
 * ❓💵 Bryce Yadon
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1

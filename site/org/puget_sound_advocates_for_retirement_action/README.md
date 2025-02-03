@@ -3,17 +3,26 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
 
+### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
+
+### [HB 1603](/bill/2025-26/hb/1603/) - Medicare supp. coverage 👍1  
+
+### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
+
+### [HB 1754](/bill/2025-26/hb/1754/) - Medicare suppl./guaranteed 👍1  
+
 ### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍1  
 
 ### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  
 
-## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
 * 👍💵 Nancy Sapiro
+
+## [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 
 ## 2023-24
 
-### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants 👍2  
-* 👍💵 Nancy Sapiro
+### [SB 5541](/bill/2023-24/sb/5541/) - Future fund pilot project 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

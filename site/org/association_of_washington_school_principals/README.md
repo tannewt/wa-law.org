@@ -11,7 +11,11 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Casey Brown
 
+### [HB 1257](/bill/2025-26/hb/1257/) - Extending special education services to students with disabilities until the end of the school year in which the student turns 22. 👍1  
+
 ### [HB 1267](/bill/2025-26/hb/1267/) - Special education funding 👍1  
+
+### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
 
 ### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍1  
 * 👍💵 Roz Thompson
@@ -20,7 +24,11 @@
 
 ### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍1  
 
+### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍1  
+
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
+
+### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 

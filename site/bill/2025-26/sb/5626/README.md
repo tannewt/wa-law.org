@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=163005&caId=25494&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=163005&caId=25494&tId=4)
 
-#### 59 👍 - Pro
+#### 159 👍 - Pro
 
-#### 35 👎 - Con
+#### 357 👎 - Con
+Testifying:
+* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other

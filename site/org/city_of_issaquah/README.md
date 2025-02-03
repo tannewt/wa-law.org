@@ -4,6 +4,8 @@
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓1
 * ❓ Mayor Mary Lou Pauly
 
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
+
 ## [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects  👎1 
 
 ## 2023-24

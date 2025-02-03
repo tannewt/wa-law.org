@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32626&aId=162971&caId=25314&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32626&aId=162971&caId=25314&tId=4)
 
-#### 1 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Dan Regester - K9 Kavalry (501c3)
+* Tobey Bolinger
+* Allen Acosta - Veterans Legislative Coalition
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

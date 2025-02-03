@@ -25,6 +25,8 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
 
+### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
+
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓1
@@ -52,15 +54,21 @@
 ### [SB 5251](/bill/2025-26/sb/5251/) - Lodging tax revenues 👍1  
 * 👍💵 Briahna Murray
 
+### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
+
 ### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍1  
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
-## [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
+### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
+
+### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
+
+## [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍1  
 
 ## 2023-24
 
-### [SB 5332](/bill/2023-24/sb/5332/) - Mobile dwellings  👎1 
+### [SB 5558](/bill/2023-24/sb/5558/) - Growth management comp plans 👍1  
 
 ### [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice  👎1 
 

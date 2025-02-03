@@ -27,12 +27,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162720&caId=25346&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162720&caId=25346&tId=4)
 
-#### 1408 👍 - Pro
+#### 2639 👍 - Pro
 Testifying:
 * Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
 * Vanessa Kritzer - Redmond City Council President
+* Sunshine MARIE Lopez - Sunshine Lopez
+* Samantha Luna-Patterson
+* Terri Anderson - Tenants Union of Washington State
+* Holly Wetzel - Associated Students of UW Tacoma (ASUWT) President
+* Rae Watkins - UW Tacoma Student
+* Regen Langholz - UW Tacoma Student
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Duana Ricks-Johnson - Resident Action Program
+* Chris Walker
+* Kelley Rinehart
+* Kerri Burnside - Bellingham Tenants Union
 
-#### 166 👎 - Con
+#### 277 👎 - Con
 Testifying:
 * 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Winnie Fung
@@ -41,8 +52,14 @@ Testifying:
 * Laurie Layne
 * Bruce Becker - Bruce Becker
 * Kari Koszdin - Self employed
+* Dan Piantanida - GP Realty Finance
+* Mischa Heide - Rain Commercial Real Estate Advisors
+* Troy Peterson
+* Christina Mays
 
-#### 8 ❓ - Other
+#### 15 ❓ - Other
+Testifying:
+* Kyle Lucas - Urban Indians NW & Tenants United at Western Plaza 55+ Mobile Home Park
 
 ### Mon 01/13 01:30 PM - Housing (HOUS): HB 1217 Residential tenants
 #### 4032 👍 - Pro

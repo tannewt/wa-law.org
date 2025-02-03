@@ -5,10 +5,19 @@
 
 ### [HB 1036](/bill/2025-26/hb/1036/) - Labor trustees/colleges 👍1  
 
+### [HB 1140](/bill/2025-26/hb/1140/) - Establishing empowerED scholarships using educational savings accounts.  👎1 
+
+### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
+
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system  👎1 
 * 👎 Joseph Romero
 
 ### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍1  
+
+### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍2  
+* 👍 Jr, John Polm
+
+### [HB 1676](/bill/2025-26/hb/1676/) - Charter school contracts  👎1 
 
 ### [SB 5086](/bill/2025-26/sb/5086/) - PEBB & SEBB consolidation  👎1 
 
@@ -18,11 +27,15 @@
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍5  
 
-## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍5  
+### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍5  
+
+### [SB 5397](/bill/2025-26/sb/5397/) - CTC faculty w/o tenure limit 👍1  
+
+## [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍2  
 
 ## 2023-24
 
-### [SB 5307](/bill/2023-24/sb/5307/) - Special education funding 👍5  
+### [SB 5517](/bill/2023-24/sb/5517/) - School staff salary alloc. 👍2  
 
 ### [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 

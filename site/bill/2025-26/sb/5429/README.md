@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162870&caId=25300&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162870&caId=25300&tId=4)
 
-#### 30 👍 - Pro
+#### 58 👍 - Pro
+Testifying:
+* 💵Alex Hur
 
 #### 0 👎 - Con
 

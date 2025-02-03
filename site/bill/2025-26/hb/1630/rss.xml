@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1630/</link>
 		<description>Updates about HB 1630</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 22:00:37 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 02 Feb 2025 10:44:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -42,6 +42,38 @@
 			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201630</guid>
+		</item>
+		<item>
+			<title>👎Kylie Klein - 125 Delphi Road NW</title>
+			<description>Kylie Klein signed up to testify Con.</description>
+			<pubDate>Sat, 01 Feb 2025 03:23:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kylie/Klein/2025-02-01 03:23:27</guid>
+		</item>
+		<item>
+			<title>👎Sue Lani Madsen - Washington Rural Environmental Network</title>
+			<description>Sue Lani Madsen signed up to testify Con. They are signed up to represent Washington Rural Environmental Network.</description>
+			<pubDate>Sat, 01 Feb 2025 04:55:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sue Lani/Madsen/2025-02-01 04:55:23</guid>
+		</item>
+		<item>
+			<title>👍Selden Prentice - 125 Delphi Road NW</title>
+			<description>Selden Prentice signed up to testify Pro.</description>
+			<pubDate>Sat, 01 Feb 2025 05:07:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Selden/Prentice/2025-02-01 05:07:29</guid>
+		</item>
+		<item>
+			<title>👎Ava Budde - 3/8's Cattle Co</title>
+			<description>Ava Budde signed up to testify Con. They are signed up to represent 3/8's Cattle Co.</description>
+			<pubDate>Sun, 02 Feb 2025 10:44:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ava/Budde/2025-02-02 10:44:36</guid>
 		</item>
 	</channel>
 </rss>

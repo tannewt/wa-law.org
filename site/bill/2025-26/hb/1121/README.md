@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162702&caId=25449&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162702&caId=25449&tId=4)
 
-#### 46 👍 - Pro
+#### 86 👍 - Pro
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Brandon Houskeeper - SW WA Contractors Assoc.
 
 #### 0 👎 - Con
 

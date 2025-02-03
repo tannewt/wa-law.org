@@ -20,11 +20,15 @@
 * ❓ Jeff Wagner
 * ❓ Jeff Wagner
 
-## [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎2 
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎2 
+
+## [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential  👎1 
+* 👎 Salina Lyons
 
 ## 2023-24
 
-### [SB 5184](/bill/2023-24/sb/5184/) - Minimum parking requirements  👎2 
+### [SB 5421](/bill/2023-24/sb/5421/) - Small businesses/residential  👎1 
+* 👎 Salina Lyons
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
 

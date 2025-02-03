@@ -17,12 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162491&caId=25345&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162491&caId=25345&tId=4)
 
-#### 41 👍 - Pro
+#### 99 👍 - Pro
 Testifying:
 * Zack Trudell - Ferry County Board of County Commissioners
+* John Axtell
 
-#### 220 👎 - Con
+#### 633 👎 - Con
 Testifying:
 * David Linn
+* John Roskelley
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

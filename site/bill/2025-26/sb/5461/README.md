@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162876&caId=25295&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162876&caId=25295&tId=4)
 
-#### 3 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Mindy Brooks - [Lewis County](/org/lewis_county/)
 
-#### 144 👎 - Con
+#### 238 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)

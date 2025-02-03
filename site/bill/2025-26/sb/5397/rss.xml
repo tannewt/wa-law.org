@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5397/</link>
 		<description>Updates about SB 5397</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 21 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 01 Feb 2025 03:16:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,22 @@
 			<pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-21/First reading, referred to Higher Education &amp; Workforce Development.</guid>
+		</item>
+		<item>
+			<title>👍Karl Bailey - Clark College Association of Higher Education/WEA</title>
+			<description>Karl Bailey signed up to testify Pro. They are signed up to represent Clark College Association of Higher Education/WEA.</description>
+			<pubDate>Sat, 01 Feb 2025 03:16:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Karl/Bailey/2025-02-01 03:16:06</guid>
+		</item>
+		<item>
+			<title>👍Kirstyn Joy - Highline College Association of Higher Education/WEA</title>
+			<description>Kirstyn Joy signed up to testify Pro. They are signed up to represent Highline College Association of Higher Education/WEA.</description>
+			<pubDate>Sat, 01 Feb 2025 03:16:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kirstyn/Joy/2025-02-01 03:16:06</guid>
 		</item>
 	</channel>
 </rss>

@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32692&aId=162763&caId=25258&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32692&aId=162763&caId=25258&tId=4)
 
-#### 40 👍 - Pro
+#### 115 👍 - Pro
+Testifying:
+* Karl Bailey - Clark College Association of Higher Education/WEA
+* Kirstyn Joy - Highline College Association of Higher Education/WEA
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

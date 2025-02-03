@@ -17,15 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162722&caId=25348&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162722&caId=25348&tId=4)
 
-#### 236 👍 - Pro
+#### 598 👍 - Pro
 Testifying:
 * Harper Haroldson-Margel
 * Jenny Choi - Office of Governor Bob Ferguson
 * Karen Brown - WA School Nutrition Association
 * Leeda Beha - WA School Nutrition Association
 * 💵Mitch Denning - Alliance of Educational Associations
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Angel Swanson - Feeding Feasible Feasts
+* Cecilia Chavez - Toppenish Community Chest
+* 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
+* Hannah LaMont
 
-#### 185 👎 - Con
+#### 329 👎 - Con
 Testifying:
 * John Axtell
 

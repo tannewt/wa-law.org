@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162996&caId=25493&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162996&caId=25493&tId=4)
 
-#### 3 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Bradley Richardson - Washington Museum Association
 
 #### 0 👎 - Con
 

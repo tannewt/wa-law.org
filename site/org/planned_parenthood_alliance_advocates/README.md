@@ -44,6 +44,8 @@
 
 ### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor  👎1 
 
+### [HB 1589](/bill/2025-26/hb/1589/) - Concerning the relationships between health carriers and contracting providers. 👍1  
+
 ### [HB 1604](/bill/2025-26/hb/1604/) - Jail searches/gender 👍1  
 
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍1  
@@ -71,9 +73,17 @@
 
 ### [SB 5270](/bill/2025-26/sb/5270/) - Providing mentors to novice nurses in the beginning educator support team program. 👍1  
 
+### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
+
+### [SB 5297](/bill/2025-26/sb/5297/) - Early learning facilities 👍1  
+
 ### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
 
 ### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+
+### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍1  
+
+### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
 
 ## [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 

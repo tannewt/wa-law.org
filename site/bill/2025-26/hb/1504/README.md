@@ -18,11 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162744&caId=25366&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162744&caId=25366&tId=4)
 
-#### 15 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Brent Mattila - Official representative
 
-#### 4924 👎 - Con
+#### 7535 👎 - Con
 Testifying:
 * Teodorin Morca
 * Casey Schaufler
@@ -96,15 +96,50 @@ Testifying:
 * Thorin Ostling
 * Josue Rico
 * Jennifer Crandall
+* Jay Wishart - 906
+* Ashlynn Nelson
+* Dalton Beattie
+* LeslieAnn Rodriguez
 * Jaymar Imperial
 * Nic Polzin
 * Trevor Hare
+* Sherry Dierwechter
 * Vongvichith Chan
 * Dakota Hernandez
 * Michael Beardslee
 * nevada pimentel
+* Kelsey Nicaise - 28702 se 436th pl
+* Teala Johnson
+* Scott Johnson
+* Wyatt Johnson
+* Andrew Austreng
+* Ron Jackson
+* Kenneth Jameson
+* Matthew Trelles
+* Perry Herritz
+* Nick Vasicek
+* Chad Kresek
+* Jennifer Whims
+* ken aman
+* Zach Baier
+* Steven Cumbee
+* Andrew Kaaland
+* Alexander Kovacs
+* Paul Mckee - 38109 307 th ave se
+* John Gotschall
+* David Ferguson
+* Tim Eyman - INITIATIVE ACTIVIST
+* Natasha Heeringa
+* Philip Yun
+* Kevin Morris - xxx-xx-xxxx
+* Hollie Billeci
+* Elsa Griffith
+* Kyle Coulter
+* 💵George Allen
+* Nicholas Hughes
 
-#### 12 ❓ - Other
+#### 15 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Penny Rector
+* John Kingsbury

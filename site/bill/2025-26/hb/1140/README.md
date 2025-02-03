@@ -17,13 +17,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32656&aId=162515&caId=25407&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32656&aId=162515&caId=25407&tId=4)
 
-#### 44 👍 - Pro
+#### 143 👍 - Pro
 Testifying:
 * 💵Heather Andrews - Americans for Prosperity Washington
+* Vicki Murray - Washington Policy Center
+* John Axtell
+* Lauren Griffin
+* Meghan Lucas
 
-#### 250 👎 - Con
+#### 586 👎 - Con
 Testifying:
 * Justin McKaughan - Molly and Jack’s dad
 * Kailey Mutter
+* Kyle Kielty
+* Kyrian MacMichael - Olympia Education Association
 
 #### 0 ❓ - Other

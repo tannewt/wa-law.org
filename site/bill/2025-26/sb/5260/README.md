@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32693&aId=162792&caId=25264&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32693&aId=162792&caId=25264&tId=4)
 
-#### 0 👍 - Pro
+#### 12 👍 - Pro
 
-#### 5 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Sara Zier - TeamChild
 

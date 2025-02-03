@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162452&caId=25240&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162452&caId=25240&tId=4)
 
-#### 128 👍 - Pro
+#### 228 👍 - Pro
 Testifying:
 * Richard Honour
+* John Hancock - Spokane's West Plains Water Coalition
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Darlene Schanfald - Protect the Peninsula's Future & Olympic Environmental Council
 

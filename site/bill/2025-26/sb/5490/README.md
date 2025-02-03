@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32694&aId=162796&caId=25268&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32694&aId=162796&caId=25268&tId=4)
 
-#### 1 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* Penny Sweet - Council Member,  City of Kirkland
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs

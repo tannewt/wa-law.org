@@ -14,13 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162394&caId=25291&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162394&caId=25291&tId=4)
 
-#### 36 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * Karen Atwood - Washington State Association of the Deaf
 * Jim House - Washington Association of the Deaf
 * Karen Philo-House
 * Cheryl Perazzoli - Hering Loss Association of America-Washington state
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162879&caId=25298&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162879&caId=25298&tId=4)
 
-#### 38 👍 - Pro
+#### 65 👍 - Pro
+Testifying:
+* Josh Friedmann
+* Riley Benge - Washington REALTORS
+* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)

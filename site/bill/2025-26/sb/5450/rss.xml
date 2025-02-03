@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5450/</link>
 		<description>Updates about SB 5450</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 23 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 02:36:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,13 @@
 			<pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-23/First reading, referred to Environment, Energy &amp; Technology.</guid>
+		</item>
+		<item>
+			<title>This Week In The Senate - Week 4: Housing, job security, consumer protection and floor action - Washington Senate Democrats</title>
+			<description>News article "This Week In The Senate - Week 4: Housing, job security, consumer protection and floor action - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Mon, 03 Feb 2025 02:36:48 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2025/02/02/this-week-in-the-senate-week-4-housing-job-security-consumer-protection-and-floor-action/#:~:text=Senate%20Bill%205450</guid>
 		</item>
 	</channel>
 </rss>

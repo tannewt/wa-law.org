@@ -15,13 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162913&caId=25331&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162913&caId=25331&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Melissa Johnson - District & Municipal Court Judges' Association
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kari Reardon - WACDL/WDA
 
 ### Mon 01/20 10:30 AM - Law & Justice (LAW): SB 5147 Criminal insanity
 #### 12 👍 - Pro

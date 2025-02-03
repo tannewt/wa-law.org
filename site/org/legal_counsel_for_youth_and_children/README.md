@@ -29,12 +29,16 @@
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
+### [HB 1322](/bill/2025-26/hb/1322/) - Juvenile offenses 👍1  
+
 ### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍1  
 * 👍💵 Roxana Gomez
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
+
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
@@ -64,9 +68,15 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
+### [SB 5260](/bill/2025-26/sb/5260/) - Juvenile correctional pop.  👎1 
+
 ### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
 
 ### [SB 5272](/bill/2025-26/sb/5272/) - School safety/penalties  👎1 
+
+### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile correctional pop.  👎1 
+
+### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍1  
 
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍2  
 * 👍 Alex Narvaez

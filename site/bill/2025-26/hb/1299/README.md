@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32635&aId=162648&caId=25459&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32635&aId=162648&caId=25459&tId=4)
 
-#### 97 👍 - Pro
+#### 272 👍 - Pro
 Testifying:
 * Daniel Herriges - Parking Reform Network
 * Ron Davis - Sightline, on behalf of the coalition we have gathered
@@ -29,7 +29,12 @@ Testifying:
 * Kevin Maas
 * Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA
 * Nicholas Carr - Office of the Governor
+* 💵Alex Hur - Master Builders Association of King and Snhomish Counties
+* alexander brassel
 
-#### 5 👎 - Con
+#### 274 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Mary Lou Pauly - Mayor, City of Issaquah
+* Kristen Holdsworth - Long Range Planning Manager, City of Kent

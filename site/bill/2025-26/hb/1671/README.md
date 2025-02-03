@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32657&aId=162645&caId=25482&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32657&aId=162645&caId=25482&tId=4)
 
-#### 5 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Caitriona Fitzgerald - Electronic Privacy Information Center (EPIC)
 * Matt Schwartz - [Consumer Reports](/org/consumer_reports/)
@@ -25,7 +25,7 @@ Testifying:
 * Jai Jaisimha - Transparency Coalition.ai
 * Ellen Hengesbach - U.S. Public Interest Research Group (PIRG)
 
-#### 1 👎 - Con
+#### 78 👎 - Con
 Testifying:
 * 💵Andrew Kingman - [State Privacy & Security Coalition](/org/state_privacy_&_security_coalition/)
 

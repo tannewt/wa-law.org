@@ -12,7 +12,7 @@
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍5  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍6  
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
 

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162810&caId=25282&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162810&caId=25282&tId=4)
 
-#### 256 👍 - Pro
+#### 453 👍 - Pro
 Testifying:
 * Habtamu Asfaw
 * Brad Brotherton - Brotherton Cadillac GMC, Washington State Auto Dealers Association
@@ -22,8 +22,10 @@ Testifying:
 * Jen Moran - Carter Motors, Washington State Auto Dealers Association
 * Susan Daaga - Washington State Auto Dealers Association
 * Xavier Cortes - Cortes Auto Group, Washington State Auto Dealers Association
+* brian reder - brotherton cadillac
+* Austin Embody - Cadillac Brotherton
 
-#### 272 👎 - Con
+#### 299 👎 - Con
 Testifying:
 * 💵Noelani Derrickson - [Tesla](/org/tesla/)
 * Angela Tsang
@@ -106,9 +108,17 @@ Testifying:
 * Pavan Bolisetty
 * Marc Shemesh - N/A
 * HOSSIEN GHAIBI - Alpine Electronics INC
+* William Lindhardt
 * Gerald Umayam
 * Sai Naveen Muppa
 * Nancy Blackketter
+* Mikhail Fedorov
+* Elise Foley
+* Bryce Matthews
+* BERT ATWATER
+* BERT ATWATER
+* Nancy Blackketter
+* Kailie Armstrong
 
 #### 3 ❓ - Other
 Testifying:

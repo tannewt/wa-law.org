@@ -18,15 +18,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162467&caId=25437&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162467&caId=25437&tId=4)
 
-#### 8 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * David Platt
 * Allison King
 * Sunil Aggarwal
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Mark Gaskill - Adventure Psychotherapy
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Bailey Quigley - on behalf of REACH Washington. Responsible Entheogen Access and Community Healing Coalition
+* Lauren Feringa
+* Erin Reading - Port Townsend Psychedelic Society
+* Angela Ward

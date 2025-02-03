@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1299/</link>
 		<description>Updates about HB 1299</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 22:00:37 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 02 Feb 2025 08:18:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -106,6 +106,38 @@
 			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201299</guid>
+		</item>
+		<item>
+			<title>👍💵Alex Hur - Master Builders Association of King and Snhomish Counties</title>
+			<description>Alex Hur signed up to testify Pro. They are signed up to represent Master Builders Association of King and Snhomish Counties. They are a registered lobbyist.</description>
+			<pubDate>Sat, 01 Feb 2025 03:30:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alex/Hur/2025-02-01 03:30:52</guid>
+		</item>
+		<item>
+			<title>👍alexander brassel - Master Builders Association of King and Snhomish Counties</title>
+			<description>alexander brassel signed up to testify Pro.</description>
+			<pubDate>Sat, 01 Feb 2025 12:20:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/alexander/brassel/2025-02-01 12:20:39</guid>
+		</item>
+		<item>
+			<title>❓Mary Lou Pauly - Mayor, City of Issaquah</title>
+			<description>Mary Lou Pauly signed up to testify Other. They are signed up to represent Mayor, City of Issaquah.</description>
+			<pubDate>Sun, 02 Feb 2025 04:08:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Mary Lou/Pauly/2025-02-02 04:08:09</guid>
+		</item>
+		<item>
+			<title>❓Kristen Holdsworth - Long Range Planning Manager, City of Kent</title>
+			<description>Kristen Holdsworth signed up to testify Other. They are signed up to represent Long Range Planning Manager, City of Kent.</description>
+			<pubDate>Sun, 02 Feb 2025 08:18:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kristen/Holdsworth/2025-02-02 08:18:23</guid>
 		</item>
 	</channel>
 </rss>

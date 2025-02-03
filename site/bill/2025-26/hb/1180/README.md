@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162668&caId=25371&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162668&caId=25371&tId=4)
 
-#### 157 👍 - Pro
+#### 317 👍 - Pro
 Testifying:
 * Kate Benward
 * Brad Meryhew - Sex Offender Policy Board
@@ -25,9 +25,12 @@ Testifying:
 * Jill Anderson - Snohomish County Public Defender Association
 * Joanne Smieja - WA Voices
 * Priscilla Hannon
+* Katie Hurley - King County Department of Public Defense
 
-#### 1 👎 - Con
+#### 65 👎 - Con
 Testifying:
 * Halley Hupp
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

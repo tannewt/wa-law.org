@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1296/</link>
 		<description>Updates about HB 1296</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 17:54:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 01 Feb 2025 19:28:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -531,6 +531,13 @@
 			<pubDate>Fri, 31 Jan 2025 17:54:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_d11a0f64-e01f-11ef-a97f-879fca5d7722.html#:~:text=House%20Bill%201296</guid>
+		</item>
+		<item>
+			<title>Fix Washington | Washington State House Republicans</title>
+			<description>News article "Fix Washington | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sat, 01 Feb 2025 19:28:45 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/fix-washington/#:~:text=House%20Bill%201296</guid>
 		</item>
 	</channel>
 </rss>

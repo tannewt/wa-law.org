@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162529&caId=25391&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162529&caId=25391&tId=4)
 
-#### 47 👍 - Pro
+#### 94 👍 - Pro
 Testifying:
 * Robert Fontana
 * Lori Fontana
@@ -36,10 +36,19 @@ Testifying:
 * Gavin Callahan
 * Michelle Sung
 * Ryu Hoshino
+* Kiersten Larson - Clergy Accountability Coalition
+* Rachel Fisher - Clergy Accountability Coalition
+* Andrew Fox - JW (Former Elder)
+* Sara Young - JW
+* Kristiana de Leon - Association of Secular Elected Officials
+* Toni Napoli Roy
+* Piper Bollander - Former Jehovah's Witness
 
-#### 8 👎 - Con
+#### 27 👎 - Con
 Testifying:
 * Bishop Frank Schuster - Archdiocese of Seattle
 * 💵Jean Hill - Washington State Catholic Conference
+* David DeWolf
+* John Axtell
 
 #### 0 ❓ - Other

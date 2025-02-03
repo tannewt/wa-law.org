@@ -17,9 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32706&aId=162855&caId=25360&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32706&aId=162855&caId=25360&tId=4)
 
-#### 2 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
+* John Axtell
 
 #### 0 👎 - Con
 

@@ -14,11 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32623&aId=162390&caId=25287&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32623&aId=162390&caId=25287&tId=4)
 
-#### 2 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Bervin Smith - Police Community Engagement Senior Manager, City of Tacoma Police Department
+* Dana Ralph - Mayor, City of Kent
+* Rafael Padilla - Police Chief, City of Kent
+* Andy Grove - Assistant Police Chief, City of Kent
+* Janelle Hawes - UW Tacoma
+* Medard Ngueita - World Relief
 
-#### 0 👎 - Con
+#### 14 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Teresa Taylor - (WACOPS) Washington Council of Police & Sheriffs
 * Priscilla Lisicich - self
+* Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)

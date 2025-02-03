@@ -1,13 +1,20 @@
 # American Diabetes Association
 ## 2025-26
 
-## [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply 👍1  
+### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
+
+### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply 👍1  
 * 👍 Matthew Prokop
+
+### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
+
+## [SB 5353](/bill/2025-26/sb/5353/) - Diabetes and obesity 👍1  
+* 👍💵 Erin Dziedzic
 
 ## 2023-24
 
-### [SB 5326](/bill/2023-24/sb/5326/) - Insulin emergency supply 👍1  
-* 👍 Matthew Prokop
+### [SB 5353](/bill/2023-24/sb/5353/) - Diabetes and obesity 👍1  
+* 👍💵 Erin Dziedzic
 
 ### [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 

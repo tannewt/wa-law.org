@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Joshua Wallace - Peer Washington
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

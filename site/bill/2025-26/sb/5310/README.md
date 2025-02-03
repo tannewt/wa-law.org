@@ -14,8 +14,8 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162892&caId=25323&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162892&caId=25323&tId=4)
 
-#### 14 👍 - Pro
+#### 76 👍 - Pro
 
-#### 291 👎 - Con
+#### 1078 👎 - Con
 
-#### 3 ❓ - Other
+#### 18 ❓ - Other

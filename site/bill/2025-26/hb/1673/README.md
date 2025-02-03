@@ -17,15 +17,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32650&aId=162691&caId=25409&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32650&aId=162691&caId=25409&tId=4)
 
-#### 2 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Emily Moore - [Sightline Institute](/org/sightline_institute/)
+* 💵Cassie Bordelon - Climate Jobs WA
+* 💵Matthew Hepner - Certified Electrical Workers of WA
+* Casey MacLean - Renewable NW
 
-#### 205 👎 - Con
+#### 356 👎 - Con
 Testifying:
 * JENNIFER PANTANO
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Glenn Blackmon - Washington State Department of Commerce
 * 💵Jay Balasbas - PacifiCorp
+* 💵Dave Warren - Klickitat PUD and Okanogan PUD
+* 💵Vicki Christophersen - Northwest and Intermountain Power Producers Coalition
+* 💵Dave Warren - Klickitat PUD and Okanogan PUD
+* 💵Maggie Douglas

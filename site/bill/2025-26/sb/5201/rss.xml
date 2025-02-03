@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5201/</link>
 		<description>Updates about SB 5201</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 03:08:47 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 02 Feb 2025 12:11:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -67,6 +67,46 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Mark/Johnson/2025-01-31 03:08:47</guid>
+		</item>
+		<item>
+			<title>❓Lauren Feringa - Hippie and a Veteran Foundation</title>
+			<description>Lauren Feringa signed up to testify Other. They are signed up to represent Hippie and a Veteran Foundation.</description>
+			<pubDate>Sat, 01 Feb 2025 03:05:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Lauren/Feringa/2025-02-01 03:05:04</guid>
+		</item>
+		<item>
+			<title>👍Mark Gaskill - Adventure Psychotherapy</title>
+			<description>Mark Gaskill signed up to testify Pro. They are signed up to represent Adventure Psychotherapy.</description>
+			<pubDate>Sat, 01 Feb 2025 09:03:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mark/Gaskill/2025-02-01 09:03:09</guid>
+		</item>
+		<item>
+			<title>👍Mark Gaskill - Adventure Psychotherapy / Mark Gaskill</title>
+			<description>Mark Gaskill signed up to testify Pro. They are signed up to represent Adventure Psychotherapy / Mark Gaskill.</description>
+			<pubDate>Sat, 01 Feb 2025 09:06:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mark/Gaskill/2025-02-01 09:06:45</guid>
+		</item>
+		<item>
+			<title>❓Erin Reading - Port Townsend Psychedelic Society</title>
+			<description>Erin Reading signed up to testify Other. They are signed up to represent Port Townsend Psychedelic Society.</description>
+			<pubDate>Sun, 02 Feb 2025 04:25:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Erin/Reading/2025-02-02 04:25:53</guid>
+		</item>
+		<item>
+			<title>👎Alba Sari - Adventure Psychotherapy / Mark Gaskill</title>
+			<description>Alba Sari signed up to testify Con.</description>
+			<pubDate>Sun, 02 Feb 2025 12:11:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Alba/Sari/2025-02-02 12:11:53</guid>
 		</item>
 	</channel>
 </rss>

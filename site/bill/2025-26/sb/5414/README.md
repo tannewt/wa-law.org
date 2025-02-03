@@ -19,6 +19,6 @@ Testifying:
 * Scott Frank - Washington State Auditor
 * 💵Scott Nelson - Washington State Auditor
 
-#### 0 👎 - Con
+#### 269 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

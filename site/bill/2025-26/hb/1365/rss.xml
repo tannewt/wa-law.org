@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1365/</link>
 		<description>Updates about HB 1365</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 11:03:27 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 01 Feb 2025 11:12:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -112,12 +112,52 @@
 			<guid isPermaLink="false">testifier/Sheila/Mulligan/2025-01-31 05:39:35</guid>
 		</item>
 		<item>
+			<title>👎Christina Kitchen - 2</title>
+			<description>Christina Kitchen signed up to testify Con.</description>
+			<pubDate>Fri, 31 Jan 2025 10:39:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Christina/Kitchen/2025-01-31 10:39:38</guid>
+		</item>
+		<item>
 			<title>👎Theresa Skrentny - AMHO</title>
 			<description>Theresa Skrentny signed up to testify Con. They are signed up to represent AMHO.</description>
 			<pubDate>Fri, 31 Jan 2025 11:03:27 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Theresa/Skrentny/2025-01-31 11:03:27</guid>
+		</item>
+		<item>
+			<title>👎MARTI TATE - AMHO</title>
+			<description>MARTI TATE signed up to testify Con.</description>
+			<pubDate>Sat, 01 Feb 2025 05:00:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/MARTI/TATE/2025-02-01 05:00:32</guid>
+		</item>
+		<item>
+			<title>👎Judith Ames - AMHO</title>
+			<description>Judith Ames signed up to testify Con.</description>
+			<pubDate>Sat, 01 Feb 2025 09:28:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Judith/Ames/2025-02-01 09:28:06</guid>
+		</item>
+		<item>
+			<title>👎FRED Sheppard - AMHO</title>
+			<description>FRED Sheppard signed up to testify Con.</description>
+			<pubDate>Sat, 01 Feb 2025 11:07:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/FRED/Sheppard/2025-02-01 11:07:59</guid>
+		</item>
+		<item>
+			<title>👎Sharon Pevey - AMHO</title>
+			<description>Sharon Pevey signed up to testify Con. They are signed up to represent AMHO.</description>
+			<pubDate>Sat, 01 Feb 2025 11:12:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sharon/Pevey/2025-02-01 11:12:27</guid>
 		</item>
 	</channel>
 </rss>

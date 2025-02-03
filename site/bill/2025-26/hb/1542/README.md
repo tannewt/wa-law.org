@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32644&aId=162478&caId=25446&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32644&aId=162478&caId=25446&tId=4)
 
-#### 1 👍 - Pro
+#### 18 👍 - Pro
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Beau Harer
 
 #### 0 ❓ - Other

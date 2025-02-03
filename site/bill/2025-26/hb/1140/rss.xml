@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1140/</link>
 		<description>Updates about HB 1140</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 22:00:37 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 02 Feb 2025 08:44:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -54,11 +54,59 @@
 			<guid isPermaLink="false">testifier/Kailey/Mutter/2025-01-31 08:32:56</guid>
 		</item>
 		<item>
+			<title>👍Vicki Murray - Washington Policy Center</title>
+			<description>Vicki Murray signed up to testify Pro. They are signed up to represent Washington Policy Center.</description>
+			<pubDate>Fri, 31 Jan 2025 09:13:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Vicki/Murray/2025-01-31 09:13:59</guid>
+		</item>
+		<item>
 			<title>The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans</title>
 			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201140</guid>
+		</item>
+		<item>
+			<title>👍John Axtell - Washington Policy Center</title>
+			<description>John Axtell signed up to testify Pro.</description>
+			<pubDate>Sat, 01 Feb 2025 05:21:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Axtell/2025-02-01 05:21:28</guid>
+		</item>
+		<item>
+			<title>👍Lauren Griffin - Washington Policy Center</title>
+			<description>Lauren Griffin signed up to testify Pro.</description>
+			<pubDate>Sat, 01 Feb 2025 10:50:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lauren/Griffin/2025-02-01 10:50:45</guid>
+		</item>
+		<item>
+			<title>👎Kyle Kielty - Molly and Jack’s dad</title>
+			<description>Kyle Kielty signed up to testify Con.</description>
+			<pubDate>Sat, 01 Feb 2025 11:18:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kyle/Kielty/2025-02-01 11:18:53</guid>
+		</item>
+		<item>
+			<title>👎Kyrian MacMichael - Olympia Education Association</title>
+			<description>Kyrian MacMichael signed up to testify Con. They are signed up to represent Olympia Education Association.</description>
+			<pubDate>Sun, 02 Feb 2025 02:06:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kyrian/MacMichael/2025-02-02 02:06:48</guid>
+		</item>
+		<item>
+			<title>👍Meghan Lucas - Washington Policy Center</title>
+			<description>Meghan Lucas signed up to testify Pro.</description>
+			<pubDate>Sun, 02 Feb 2025 08:44:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Meghan/Lucas/2025-02-02 08:44:16</guid>
 		</item>
 	</channel>
 </rss>

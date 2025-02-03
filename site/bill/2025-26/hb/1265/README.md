@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32680&aId=162675&caId=25378&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32680&aId=162675&caId=25378&tId=4)
 
-#### 1 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Jeri Moomaw - [Innovations Human Trafficking Collaborative](/org/innovations_human_trafficking_collaborative/)
+* Maurice Washington
 
 #### 0 👎 - Con
 

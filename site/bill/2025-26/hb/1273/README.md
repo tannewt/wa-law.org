@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162507&caId=25402&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162507&caId=25402&tId=4)
 
-#### 32 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * Kevin Smith
 * 💵Jayme Shoun - Washington STEM
+* John Axtell
+* Jenny Veltri - Career Connect NW/NWESD 189
+* Vickei Hrdina
 
 #### 0 👎 - Con
 
