@@ -7,18 +7,15 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201338)
+* 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201338)
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201338)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201338)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=HB%201338)
 
 ## Meetings
 ### Mon 02/03 04:00 PM - Appropriations (APP): HB 1338 School operating costs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162721&caId=25347&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162721&caId=25347&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162721&caId=25347&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162721&caId=25347&tId=4)
-
-#### 1198 👍 - Pro
+#### 2515 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Jason Perrins - Chewelah School District
@@ -45,10 +42,15 @@ Testifying:
 * Jr, John Polm - [Puyallup School District](/org/puyallup_school_district/)
 * Krestin Bahr - Peninsula School District
 * Charlie Brown - South Sound Superintendents and Skills Center Directors
+* Paul Randall - Washington State Skills Center Association/Tri-Tech Skills Center
+* Patrick Murphy - [Olympia School District](/org/olympia_school_district/)
+* Sarah Milici
+* JC Mayberry-Abe
+* Tim Knue - Washington Association for Career and Technical Education
 
-#### 955 👎 - Con
+#### 1223 👎 - Con
 Testifying:
 * John Axtell
 * John Axtell
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other

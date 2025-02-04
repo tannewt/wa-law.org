@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162702&caId=25449&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162702&caId=25449&tId=4)
 
-#### 86 👍 - Pro
+#### 175 👍 - Pro
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Brandon Houskeeper - SW WA Contractors Assoc.
+* Mike Ennis - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Katelyn Kean - Northwest Maritime
+* 💵Carolyn Logue - AJAC
+* Tim Knue - Washington Association for Career and Technical Education
+* 💵Michele Willms - Associated General Contractors (AGC)
 
 #### 0 👎 - Con
 

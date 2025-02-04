@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1742/</link>
 		<description>Updates about HB 1742</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 02 Feb 2025 04:18:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 11:42:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,12 +23,52 @@
 			<guid isPermaLink="false">2025-01-30/First reading, referred to Environment &amp; Energy.</guid>
 		</item>
 		<item>
-			<title>👎Leanne Shipley - Duwamish River Community Coalition</title>
+			<title>👎Leanne Shipley - Friends of Seattle's Urban Forest, TreePAC</title>
 			<description>Leanne Shipley signed up to testify Con.</description>
 			<pubDate>Sun, 02 Feb 2025 04:18:00 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Leanne/Shipley/2025-02-02 04:18:00</guid>
+		</item>
+		<item>
+			<title>👍💵Kelsey Hulse - Washington State Association of Counties</title>
+			<description>Kelsey Hulse signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_association_of_counties/"&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 02 Feb 2025 09:44:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kelsey/Hulse/2025-02-02 09:44:31</guid>
+		</item>
+		<item>
+			<title>❓Samantha Weinstein - Department of Ecology</title>
+			<description>Samantha Weinstein signed up to testify Other. They are signed up to represent Department of Ecology.</description>
+			<pubDate>Mon, 03 Feb 2025 07:23:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Samantha/Weinstein/2025-02-03 07:23:00</guid>
+		</item>
+		<item>
+			<title>👍Sue Lani Madsen - Washington State Association of Counties</title>
+			<description>Sue Lani Madsen signed up to testify Pro.</description>
+			<pubDate>Mon, 03 Feb 2025 09:00:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sue Lani/Madsen/2025-02-03 09:00:29</guid>
+		</item>
+		<item>
+			<title>👍Steve Zemke - Friends of Seattle's Urban Forest, TreePAC</title>
+			<description>Steve Zemke signed up to testify Pro. They are signed up to represent Friends of Seattle's Urban Forest, TreePAC.</description>
+			<pubDate>Mon, 03 Feb 2025 11:39:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Steve/Zemke/2025-02-03 11:39:44</guid>
+		</item>
+		<item>
+			<title>❓Don Gourlie - Puget Sound Partnership</title>
+			<description>Don Gourlie signed up to testify Other. They are signed up to represent Puget Sound Partnership.</description>
+			<pubDate>Mon, 03 Feb 2025 11:42:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Don/Gourlie/2025-02-03 11:42:46</guid>
 		</item>
 	</channel>
 </rss>

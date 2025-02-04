@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201644)
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201644)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201644)
 
 ## Meetings
@@ -17,10 +19,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162706&caId=25453&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162706&caId=25453&tId=4)
 
-#### 11 👍 - Pro
+#### 69 👍 - Pro
+Testifying:
+* April Sims - Washington State Labor Council, AFL-CIO
+* 💵Minna Long - Washington State Building & Construction Trades Council
+* 💵Ray Dumas - OPCMIA Local 528
+* Diana Winther - IBEW Local 48
+* Justin Bourgault - SMART Local 66
+* Mike Bridges - Longview/Kelso Building and Construction Trades Council
 
-#### 1 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Brandon Houskeeper - Southwest WA Contractors Assoc. / Associated Builders & Contractors - Western WA
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

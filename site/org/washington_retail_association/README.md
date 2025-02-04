@@ -22,7 +22,7 @@
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎1 
 
-### [HB 1132](/bill/2025-26/hb/1132/) - Enhancing public safety by limiting bulk purchases and transfers of firearms and ammunition.  👎1 
+### [HB 1132](/bill/2025-26/hb/1132/) - Bulk firearm purchases  👎1 
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes.   ❓1
 * ❓💵 Mark Johnson
@@ -38,7 +38,7 @@
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍1  
 * 👍💵 Rose Gundersen
 
-### [HB 1186](/bill/2025-26/hb/1186/) - Expanding the situations in which medications can be dispensed or delivered from hospitals and health care entities. 👍1  
+### [HB 1186](/bill/2025-26/hb/1186/) - Medication dispensing 👍1  
 
 ### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products  👎1 
 * 👎💵 Mark Johnson
@@ -78,8 +78,15 @@
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
+### [HB 1595](/bill/2025-26/hb/1595/) - Economic development plan 👍2  
+* 👍💵 Crystal Leatherman
+* 👍💵 Crystal Leatherman
+
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction   ❓1
 * ❓💵 Mark Johnson
+
+### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy  👎1 
+* 👎💵 Crystal Leatherman
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
 

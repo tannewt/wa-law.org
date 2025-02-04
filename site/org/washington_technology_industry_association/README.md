@@ -9,6 +9,8 @@
 
 ### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍1  
 
+### [HB 1595](/bill/2025-26/hb/1595/) - Economic development plan 👍1  
+
 ## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 
 * 👎💵 Kelly Fukai
 

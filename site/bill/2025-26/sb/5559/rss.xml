@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5559/</link>
 		<description>Updates about SB 5559</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 02 Feb 2025 11:40:25 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 12:02:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2025-01-28/First reading, referred to Local Government.</guid>
 		</item>
 		<item>
-			<title>👍Josh Friedmann - Futurewise</title>
+			<title>👍Josh Friedmann - Association of Washington Business</title>
 			<description>Josh Friedmann signed up to testify Pro.</description>
 			<pubDate>Sat, 01 Feb 2025 02:05:40 GMT</pubDate>
 			<category>testifier</category>
@@ -53,6 +53,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Bryce/Yadon/2025-02-02 11:40:25</guid>
+		</item>
+		<item>
+			<title>👍Salim Nice - Master Builders Association of King &amp; Snohomish</title>
+			<description>Salim Nice signed up to testify Pro.</description>
+			<pubDate>Mon, 03 Feb 2025 09:18:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Salim/Nice/2025-02-03 09:18:15</guid>
+		</item>
+		<item>
+			<title>👍💵Andrea Smiley - Building Industry Association of Washington</title>
+			<description>Andrea Smiley signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/building_industry_association_of_washington/"&gt;Building Industry Association of Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 03 Feb 2025 10:49:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andrea/Smiley/2025-02-03 10:49:39</guid>
+		</item>
+		<item>
+			<title>❓💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 03 Feb 2025 12:02:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2025-02-03 12:02:59</guid>
 		</item>
 	</channel>
 </rss>

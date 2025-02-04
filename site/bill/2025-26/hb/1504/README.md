@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201504)
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201504)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201504)
 * 01/22/2025 [The Center Square](/org/the_center_square/) - [House Democrat pushes bill requiring liability policy to buy or possess firearms | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5d3707ec-d8f8-11ef-887b-dbfe2e974c57.html#:~:text=House%20Bill%201504)
 
@@ -18,11 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162744&caId=25366&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162744&caId=25366&tId=4)
 
-#### 29 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Brent Mattila - Official representative
 
-#### 7535 👎 - Con
+#### 8158 👎 - Con
 Testifying:
 * Teodorin Morca
 * Casey Schaufler
@@ -134,12 +136,24 @@ Testifying:
 * Kevin Morris - xxx-xx-xxxx
 * Hollie Billeci
 * Elsa Griffith
+* Elizabeth VanSteertegem
+* Aldo Deliyiannis
 * Kyle Coulter
 * 💵George Allen
 * Nicholas Hughes
+* Richard Rosenthal - Bainbridge Island Sportsman's Club
+* ROBERT STIER
+* ROBERT STIER
+* Karli Hoyt
+* Amanda McKinney - Yakima County Commissioner
+* Donald Allen
+* Abigail Urseth
+* Michael Schwalbach
+* William Jackson
 
-#### 15 ❓ - Other
+#### 18 ❓ - Other
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Penny Rector
 * John Kingsbury
+* Kalvin Probst - Liquid Metal Fab

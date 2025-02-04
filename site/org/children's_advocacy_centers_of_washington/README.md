@@ -9,6 +9,8 @@
 
 ### [HB 1211](/bill/2025-26/hb/1211/) - Clergy, duty to report abuse 👍1  
 
+### [HB 1265](/bill/2025-26/hb/1265/) - Commercial sexual exploit. 👍1  
+
 ### [HB 1459](/bill/2025-26/hb/1459/) - Child fatalities 👍1  
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  

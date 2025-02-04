@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201032)
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201032)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201032)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=HB%201032)
 
@@ -18,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32655&aId=162510&caId=25405&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32655&aId=162510&caId=25405&tId=4)
 
-#### 863 👍 - Pro
+#### 1318 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Tyler Muench - Office of Superintendent of Public Instruction
@@ -31,10 +33,17 @@ Testifying:
 * Brady Vallala - Fife Education Association
 * Marissa Rathbone - Washington State School Directors' Association
 * Kevin Collins - Orting School District
+* Brady Vallala - Fife Education Association
+* Kevin Alfano
+* Rebeca Cattin - Eastmont Paraeducators
+* Perla Hauge
+* Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 
-#### 300 👎 - Con
+#### 701 👎 - Con
 Testifying:
 * John Axtell
 * 💵Patrick Connor - NFIB
+* Atina Holan
+* Anthony Holan
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

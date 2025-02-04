@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Mon 02/03 04:00 PM - Ways & Means (WM): SB 5310 Child care subsidy rates
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162892&caId=25323&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162892&caId=25323&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162892&caId=25323&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162892&caId=25323&tId=4)
+#### 133 👍 - Pro
 
-#### 76 👍 - Pro
+#### 1240 👎 - Con
+Testifying:
+* 💵Christoph Mair - Washington State Labor Council, AFL-CIO
 
-#### 1078 👎 - Con
-
-#### 18 ❓ - Other
+#### 23 ❓ - Other
+Testifying:
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families

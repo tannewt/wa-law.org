@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162708&caId=25455&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162708&caId=25455&tId=4)
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Teresa Taylor - (WACOPS) Washington Council of Police & Sheriffs
 
-#### 4 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* MD, MPH, Dave Bonauto - Department of Labor & Industries

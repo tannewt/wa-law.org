@@ -8,16 +8,11 @@
 
 ## Meetings
 ### Mon 02/03 04:00 PM - Transportation (TRAN): SB 5527 State patrol longevity bonus
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32626&aId=162970&caId=25313&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32626&aId=162970&caId=25313&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32626&aId=162970&caId=25313&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32626&aId=162970&caId=25313&tId=4)
-
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Spike Unruh - Washington State Patrol Troopers Association
 * Jeff DeVere - Washington State Patrol Lieutenants and Captains Association (WSPLCA)
+* Will Stellmacher - Washington State Patrol Lieutenants and Captains Association
 
 #### 0 👎 - Con
 

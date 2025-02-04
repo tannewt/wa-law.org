@@ -10,6 +10,8 @@
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎2 
 * 👎 Christopher Savage
 
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎1 
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net.  👎1 

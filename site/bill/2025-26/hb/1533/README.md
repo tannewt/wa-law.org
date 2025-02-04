@@ -14,10 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162703&caId=25450&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162703&caId=25450&tId=4)
 
-#### 54 👍 - Pro
+#### 125 👍 - Pro
+Testifying:
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* 💵Matthew Hepner - IBEW/ceww
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Hans Frederickson - Frederickson Electric
+* Nathan Turner - Washington State Electrical Contractors Association
+* Paul Briganti - ABC of Western Washington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Christopher Scherer - North Wave Electric LLC

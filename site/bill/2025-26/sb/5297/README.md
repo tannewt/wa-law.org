@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32640&aId=162918&caId=25342&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32640&aId=162918&caId=25342&tId=4)
 
-#### 34 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * 💵Erica Hallock - Start Early WA
 * Julie German-Murrey - Rosalie Murrey Memorial Foundation
 
-#### 0 👎 - Con
+#### 31 👎 - Con
 
 #### 0 ❓ - Other

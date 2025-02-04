@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201652)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201652)
 
 ## Meetings
@@ -17,8 +18,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32651&aId=162501&caId=25412&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32651&aId=162501&caId=25412&tId=4)
 
-#### 273 👍 - Pro
+#### 493 👍 - Pro
+Testifying:
+* Annemarie Dooley - Washington Physicians for Social Responsibility
 
-#### 6 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* Jacqueline Moore - [Pacific Merchant Shipping Association](/org/pacific_merchant_shipping_association/)
+* Tad Sommerville
+* DONALD BROWN - Cruise Lines International Association (CLIA)
+* 💵Amber Carter - Columbia River Steamship Operators Assn.
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* JOHN WORTHINGTON

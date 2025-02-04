@@ -11,7 +11,7 @@
 ### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services 👍1  
 * 👍💵 Nicole Kern
 
-### [HB 1132](/bill/2025-26/hb/1132/) - Enhancing public safety by limiting bulk purchases and transfers of firearms and ammunition. 👍1  
+### [HB 1132](/bill/2025-26/hb/1132/) - Bulk firearm purchases 👍1  
 
 ### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 👍1  
 
@@ -73,7 +73,7 @@
 
 ### [SB 5270](/bill/2025-26/sb/5270/) - Providing mentors to novice nurses in the beginning educator support team program. 👍1  
 
-### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
+### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍2  
 
 ### [SB 5297](/bill/2025-26/sb/5297/) - Early learning facilities 👍1  
 
@@ -85,11 +85,11 @@
 
 ### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
 
-## [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
+## [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍2  
 
 ## 2023-24
 
-### [SB 5541](/bill/2023-24/sb/5541/) - Future fund pilot project 👍1  
+### [SB 5541](/bill/2023-24/sb/5541/) - Future fund pilot project 👍2  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

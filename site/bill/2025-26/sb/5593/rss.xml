@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5593/</link>
 		<description>Updates about SB 5593</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 01 Feb 2025 11:04:51 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 18:10:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,6 +38,21 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Julie/Salvi/2025-02-01 11:04:51</guid>
+		</item>
+		<item>
+			<title>❓💵Oliver Miska - Initiative Activist</title>
+			<description>Oliver Miska signed up to testify Other. They are a registered lobbyist.</description>
+			<pubDate>Mon, 03 Feb 2025 09:50:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Oliver/Miska/2025-02-03 09:50:21</guid>
+		</item>
+		<item>
+			<title>Week Four: Big 3 Bills Continue to Advance - WSPTA</title>
+			<description>News article "Week Four: Big 3 Bills Continue to Advance - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 03 Feb 2025 18:10:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205593</guid>
 		</item>
 	</channel>
 </rss>

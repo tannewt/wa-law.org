@@ -5,6 +5,8 @@
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters  👎1 
 
+### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements  👎1 
+
 ### [SB 5461](/bill/2025-26/sb/5461/) - Intensive rural dev. areas 👍1  
 * 👍 Mindy Brooks
 

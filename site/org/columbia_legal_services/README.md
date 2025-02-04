@@ -3,13 +3,15 @@
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
+### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor. 👍1  
+
 ### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍2  
 
 ### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍1  
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  
 
-### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
+### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
 ### [HB 1178](/bill/2025-26/hb/1178/) - Concerning sentencing enhancements. 👍1  
 
@@ -21,10 +23,13 @@
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program. 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 * 👍💵 Sarah Nagy
 
 ### [HB 1229](/bill/2025-26/hb/1229/) - Persistent offenders 👍1  
+
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
+* 👍💵 Antonio Ginatta
 
 ### [HB 1233](/bill/2025-26/hb/1233/) - Concerning work programs for incarcerated persons. 👍1  
 * 👍💵 Hannah Woerner
@@ -48,6 +53,11 @@
 ### [HB 1400](/bill/2025-26/hb/1400/) - Officer certification 👍1  
 
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
+
+### [HB 1604](/bill/2025-26/hb/1604/) - Jail searches/gender 👍1  
+* 👍💵 Ethan Frenchman
+
+### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 * 👍💵 Ethan Frenchman
@@ -74,7 +84,7 @@
 ### [SB 5260](/bill/2025-26/sb/5260/) - Juvenile correctional pop.   ❓1
 * ❓💵 Sarah Nagy
 
-### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
+### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍2  
 
 ### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile correctional pop.  👎1 
 * 👎💵 Sarah Nagy
@@ -83,13 +93,20 @@
 
 ### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍1  
 
-## [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎1 
+### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎1 
 * 👎💵 Ethan Frenchman
+
+### [SB 5490](/bill/2025-26/sb/5490/) - Providing parameters for conducting searches of transgender and intersex individuals confined in a local jail in compliance with federal law. 👍1  
+* 👍💵 Ethan Frenchman
+
+### [SB 5499](/bill/2025-26/sb/5499/) - DOC body scanner program  👎1 
+* 👎 Malena Pinkham
+
+## [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
 
 ## 2023-24
 
-### [SB 5388](/bill/2023-24/sb/5388/) - DOC behavioral health cert.  👎1 
-* 👎💵 Ethan Frenchman
+### [SB 5626](/bill/2023-24/sb/5626/) - Wage replacement 👍1  
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty   ❓2
 * ❓💵 Antonio Ginatta

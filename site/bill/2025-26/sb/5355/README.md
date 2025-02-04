@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Mon 02/03 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5355 Higher education safety
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32691&aId=162759&caId=25255&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32691&aId=162759&caId=25255&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32691&aId=162759&caId=25255&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32691&aId=162759&caId=25255&tId=4)
-
-#### 173 👍 - Pro
+#### 262 👍 - Pro
 Testifying:
 * 💵Collin Bannister - The Washington Student Association
 * Alice Zborovskiy - University of Washington Seattle ASUW Sexual Assault and Relationship Violence Activists
@@ -31,8 +25,14 @@ Testifying:
 * Meredith Massey
 * Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Isabella Stratton
+* Husneha Ghafoori
+* Christine McMullin - State Board for Community and Technical Colleges
+* Sophie Kirov
+* Sophie Kirov
 
-#### 275 👎 - Con
+#### 334 👎 - Con
+Testifying:
+* Kirk Wells
 
 #### 0 ❓ - Other
 

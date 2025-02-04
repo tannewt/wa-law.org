@@ -7,14 +7,14 @@
 
 ### [HB 1138](/bill/2025-26/hb/1138/) - Improving public safety by implementing evidence-based interview practices that increase the reliability of statements collected during criminal investigations. 👍1  
 
-### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
+### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
 ### [HB 1171](/bill/2025-26/hb/1171/) - Mandated reporting/higher ed 👍1  
 * 👍 Rhea Yo
 
 ### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍1  
 
-### [HB 1177](/bill/2025-26/hb/1177/) - Concerning the child welfare housing assistance program. 👍1  
+### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍1  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 

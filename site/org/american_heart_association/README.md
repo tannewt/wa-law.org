@@ -6,6 +6,9 @@
 
 ### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products 👍1  
 
+### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
+* 👍 Mary Ann Bauman
+
 ### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor  👎1 
 
 ### [HB 1545](/bill/2025-26/hb/1545/) - Cardiac and stroke outcomes 👍1  

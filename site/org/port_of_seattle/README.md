@@ -18,7 +18,13 @@
 
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
 
+### [HB 1440](/bill/2025-26/hb/1440/) - Civil forfeiture proceedings 👍1  
+
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+
+### [HB 1595](/bill/2025-26/hb/1595/) - Economic development plan 👍1  
+
+### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
 
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 
@@ -30,11 +36,15 @@
 
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
 
-## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+
+## [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
+* 👍 John Flanagan
 
 ## 2023-24
 
-### [SB 5466](/bill/2023-24/sb/5466/) - Electric transmission system 👍1  
+### [SB 5592](/bill/2023-24/sb/5592/) - Zero emissions vehicles/sale 👍1  
+* 👍 John Flanagan
 
 ### [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 

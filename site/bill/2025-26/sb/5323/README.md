@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/28 08:00 AM - Law & Justice (LAW): SB 5323 Theft from first responders

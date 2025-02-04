@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162872&caId=25302&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162872&caId=25302&tId=4)
 
-#### 5 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
@@ -22,4 +22,6 @@ Testifying:
 Testifying:
 * Salina Lyons - [City of Covington](/org/city_of_covington/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)

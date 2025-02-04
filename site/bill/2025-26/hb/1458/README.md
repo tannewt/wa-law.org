@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201458)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201458)
 
 ## Meetings
@@ -17,8 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162653&caId=25464&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162653&caId=25464&tId=4)
 
-#### 32 👍 - Pro
+#### 129 👍 - Pro
 
-#### 58 👎 - Con
+#### 315 👎 - Con
+Testifying:
+* Donna Alber
+* 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
+* 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

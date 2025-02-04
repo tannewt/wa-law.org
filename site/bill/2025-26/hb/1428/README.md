@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162736&caId=25352&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162736&caId=25352&tId=4)
 
-#### 10 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Mayor Nancy Backus - City of Auburn
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
@@ -23,7 +23,12 @@ Testifying:
 * Jason McShane - Councilmember, City of Kennewick
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Rod Higgins - Councilmember, City of Spokane Valley
+* Rebecca Mertzig - Chief of the Bellingham Police Department
+* Adam Vaughn - Budget and Finance Director at the City of Toppenish
+* Michael Harmon - City of Blaine City Manager
 
-#### 0 👎 - Con
+#### 207 👎 - Con
+Testifying:
+* Donna Alber
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

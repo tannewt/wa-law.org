@@ -8,7 +8,9 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=SHB%201217)
 * 01/31/2025 [The Urbanist](/org/the_urbanist/) - [Rolling Out The Urbanist 2025’s Advocacy Agenda and Early Events - The Urbanist](https://www.theurbanist.org/2025/01/31/the-urbanist-2025s-advocacy-agenda/#:~:text=House%20Bill%201217)
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201217)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201217)
 * 01/25/2025 [House Republicans](/org/house_republicans/) - [Catalog of crises | Washington State House Republicans](https://houserepublicans.wa.gov/current/catalog-of-crises/#:~:text=House%20Bill%201217)
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201217)
@@ -21,13 +23,7 @@
 
 ## Meetings
 ### Mon 02/03 04:00 PM - Appropriations (APP): SHB 1217 Residential tenants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162720&caId=25346&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162720&caId=25346&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162720&caId=25346&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162720&caId=25346&tId=4)
-
-#### 2639 👍 - Pro
+#### 3607 👍 - Pro
 Testifying:
 * Bailey Medilo - [The Washington Bus](/org/the_washington_bus/)
 * Vanessa Kritzer - Redmond City Council President
@@ -42,8 +38,10 @@ Testifying:
 * Chris Walker
 * Kelley Rinehart
 * Kerri Burnside - Bellingham Tenants Union
+* Talauna Reed - Tenants Union of WA State
+* Micaela Romero
 
-#### 277 👎 - Con
+#### 440 👎 - Con
 Testifying:
 * 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Winnie Fung
@@ -56,10 +54,23 @@ Testifying:
 * Mischa Heide - Rain Commercial Real Estate Advisors
 * Troy Peterson
 * Christina Mays
+* Patricia Hoendermis
+* Tad Sommerville
+* 💵Kevin Schilling - Mayor of Burien
+* Sam Spiegelman - Citizen Action Defense Fund
+* 💵Andrea Smiley - Building Industry Association of Washington (BIAW)
+* 💵Morgan Irwin - Association of Washington Business (AWB)
+* Riley Benge - Washington REALTORS
+* Carter Nelson - Washington Multi-Family Housing Association
+* GORDON HAGGERTY - 2310 Yale Apts., LLC
+* Troy Peterson
+* Troy Peterson
+* DOUG STEINBERG
 
-#### 15 ❓ - Other
+#### 16 ❓ - Other
 Testifying:
 * Kyle Lucas - Urban Indians NW & Tenants United at Western Plaza 55+ Mobile Home Park
+* Linda Seltzer
 
 ### Mon 01/13 01:30 PM - Housing (HOUS): HB 1217 Residential tenants
 #### 4032 👍 - Pro

@@ -6,24 +6,24 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201273)
+
 ## Meetings
 ### Mon 02/03 01:30 PM - Education (ED): HB 1273 Dual credit program access
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162507&caId=25402&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162507&caId=25402&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162507&caId=25402&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162507&caId=25402&tId=4)
-
-#### 47 👍 - Pro
+#### 68 👍 - Pro
 Testifying:
 * Kevin Smith
 * 💵Jayme Shoun - Washington STEM
 * John Axtell
 * Jenny Veltri - Career Connect NW/NWESD 189
 * Vickei Hrdina
+* Heba Qatrani - [Washington Student Association](/org/washington_student_association/)
+* Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * William Belden - Washington SBCTC
+* Tim Knue - Washington Association for Career and Technical Education

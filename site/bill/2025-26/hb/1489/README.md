@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201489)
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201489)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201489)
 
 ## Meetings
@@ -19,8 +21,9 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 13 👎 - Con
+#### 70 👎 - Con
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Emily Murphy - Child Care Aware of Washington; Child Care for WA Campaign
+* 💵Melissa Johnson - Washington State Association of Head Start & ECEAP

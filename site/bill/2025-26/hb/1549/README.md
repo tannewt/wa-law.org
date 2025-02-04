@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201549)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201549)
 
 ## Meetings
@@ -17,8 +18,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162704&caId=25451&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162704&caId=25451&tId=4)
 
-#### 1 👍 - Pro
+#### 71 👍 - Pro
+Testifying:
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* Jared Ross - South Sound Building & Construction Trades Council
+* Chris Ellis - Bricklayers and Allied Craftworkers L 1 WA/AK
+* 💵Erin Frasier - Washington State Building & Construction Trades Council
+* 💵Neil Hartman - Washington State Association of UA Plumbers, Pipefitters and HVAC/R Mechanics
 
-#### 1 👎 - Con
+#### 17 👎 - Con
+Testifying:
+* Nathan Turner - Washington State Electrical Contractors Association
+* Jerry VanderWood - Associated General Contractors (AGC)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Axel Swanson - Washington State Association of County Engineers

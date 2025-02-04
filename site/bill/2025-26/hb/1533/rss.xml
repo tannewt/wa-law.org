@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1533/</link>
 		<description>Updates about HB 1533</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 30 Jan 2025 11:28:14 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 10:56:56 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,46 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Hans/Frederickson/2025-01-30 11:28:14</guid>
+		</item>
+		<item>
+			<title>❓Christopher Scherer - North Wave Electric LLC</title>
+			<description>Christopher Scherer signed up to testify Other. They are signed up to represent North Wave Electric LLC.</description>
+			<pubDate>Mon, 03 Feb 2025 01:40:08 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Christopher/Scherer/2025-02-03 01:40:08</guid>
+		</item>
+		<item>
+			<title>👍💵Carolyn Logue - Associated Builders &amp; Contractors Inland Pacific Chapter</title>
+			<description>Carolyn Logue signed up to testify Pro. They are signed up to represent Associated Builders &amp; Contractors Inland Pacific Chapter. They are a registered lobbyist.</description>
+			<pubDate>Mon, 03 Feb 2025 07:32:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carolyn/Logue/2025-02-03 07:32:46</guid>
+		</item>
+		<item>
+			<title>👍💵Matthew Hepner - IBEW/ceww</title>
+			<description>Matthew Hepner signed up to testify Pro. They are signed up to represent IBEW/ceww. They are a registered lobbyist.</description>
+			<pubDate>Mon, 03 Feb 2025 07:43:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matthew/Hepner/2025-02-03 07:43:12</guid>
+		</item>
+		<item>
+			<title>👎Nathan Turner - Washington State Electrical Contractors Association</title>
+			<description>Nathan Turner signed up to testify Con. They are signed up to represent Washington State Electrical Contractors Association.</description>
+			<pubDate>Mon, 03 Feb 2025 08:15:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Nathan/Turner/2025-02-03 08:15:33</guid>
+		</item>
+		<item>
+			<title>👎Paul Briganti - ABC of Western Washington</title>
+			<description>Paul Briganti signed up to testify Con. They are signed up to represent ABC of Western Washington.</description>
+			<pubDate>Mon, 03 Feb 2025 10:56:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Paul/Briganti/2025-02-03 10:56:56</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,26 +7,32 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201113)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201113)
 
 ## Meetings
 ### Mon 02/03 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1113 Misdemeanor dismissal
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162667&caId=25370&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162667&caId=25370&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162667&caId=25370&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162667&caId=25370&tId=4)
-
-#### 13 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Kate Benward
 * Courtney Hesla - [Comprehensive Healthcare](/org/comprehensive_healthcare/)
 * Katie Hurley - King County Department of Public Defense
+* Joshua Wallace - Peer Washington
+* Victoria Rivera - Catholic Charities
+* Kaili Lutes - Catholic Charities
+* Holly Duffy - Pederson Law
+* Judge Damon Shadid
 
-#### 19 👎 - Con
+#### 30 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* James Kenny - Seattle City Attorney's Office
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Kirsten Gregory - [Pasado's Safe Haven](/org/pasado's_safe_haven/)
+* 💵Melissa Johnson - District & Municipal Court Judges' Association
+* 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Judge Carolyn Jewitt - District & Municipal Court Judges' Association

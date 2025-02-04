@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1397/</link>
 		<description>Updates about HB 1397</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 22:00:37 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 10:53:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -20,7 +20,30 @@
 			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
 			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201397</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
+			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201397</guid>
+		</item>
+		<item>
+			<title>👍💵Paul Jewell - Washington State Association of Counties</title>
+			<description>Paul Jewell signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_association_of_counties/"&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 03 Feb 2025 06:45:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paul/Jewell/2025-02-03 06:45:23</guid>
+		</item>
+		<item>
+			<title>👍Randy Johnson - Clallam County Commissioner</title>
+			<description>Randy Johnson signed up to testify Pro. They are signed up to represent Clallam County Commissioner.</description>
+			<pubDate>Mon, 03 Feb 2025 10:53:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Randy/Johnson/2025-02-03 10:53:45</guid>
 		</item>
 	</channel>
 </rss>

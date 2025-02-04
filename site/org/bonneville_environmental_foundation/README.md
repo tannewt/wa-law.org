@@ -10,13 +10,16 @@
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍1  
 * 👍 Kas Guillozet
 
-## [SB 5195](/bill/2025-26/sb/5195/) - Capital budget  👎1 
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget  👎1 
 * 👎 Allan Warren
+
+## [SB 5510](/bill/2025-26/sb/5510/) - Conservation district limits 👍1  
+* 👍 Allan Warren
 
 ## 2023-24
 
-### [SB 5195](/bill/2023-24/sb/5195/) - Capital budget  👎1 
-* 👎 Allan Warren
+### [SB 5510](/bill/2023-24/sb/5510/) - Conservation district limits 👍1  
+* 👍 Allan Warren
 
 ## [SB 5551](/bill/2023-24/sb/5551/) - Methane capture 👍1  
 * 👍 Allan Warren

@@ -29,11 +29,13 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
 
-## [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍3  
+## [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍4  
+* 👍💵 Aaron Czyzewski
 
 ## 2023-24
 
-### [SB 5352](/bill/2023-24/sb/5352/) - Free school meals 👍3  
+### [SB 5352](/bill/2023-24/sb/5352/) - Free school meals 👍4  
+* 👍💵 Aaron Czyzewski
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍4  
 * 👍💵 Aaron Czyzewski

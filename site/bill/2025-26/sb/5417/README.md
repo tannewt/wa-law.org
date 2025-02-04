@@ -8,18 +8,15 @@
 
 ## Meetings
 ### Mon 02/03 04:00 PM - Transportation (TRAN): SB 5417 Vehicle noise cameras
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32626&aId=162972&caId=25315&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32626&aId=162972&caId=25315&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32626&aId=162972&caId=25315&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32626&aId=162972&caId=25315&tId=4)
-
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Ben Zarlingo - Everett, Everett City Council
+* Rob Saka - Seattle City Councilmember
+* Sol Keiter - [Cithaeron](/org/cithaeron/)
 
-#### 13 👎 - Con
+#### 31 👎 - Con
 Testifying:
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Emily Minakata
 
 #### 0 ❓ - Other

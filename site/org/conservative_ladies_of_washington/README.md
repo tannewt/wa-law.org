@@ -8,14 +8,14 @@
 ### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services  👎2 
 * 👎 Mary Long
 
-### [HB 1132](/bill/2025-26/hb/1132/) - Enhancing public safety by limiting bulk purchases and transfers of firearms and ammunition.  👎1 
+### [HB 1132](/bill/2025-26/hb/1132/) - Bulk firearm purchases  👎1 
 
 ### [HB 1133](/bill/2025-26/hb/1133/) - Concerning sexually violent predators. 👍1  
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals  👎3 
 * 👎 Mary Long
 
-### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation.  👎3 
+### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody  👎3 
 * 👎 Mary Long
 
 ### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences.  👎1 

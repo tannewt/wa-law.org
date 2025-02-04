@@ -1,6 +1,8 @@
 # City of Sumner
 ## 2025-26
 
+### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements  👎1 
+
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev  👎1 
 * 👎 Ryan Windish
 
@@ -8,11 +10,13 @@
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act.  👎1 
 
-## [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
+
+## [SB 5529](/bill/2025-26/sb/5529/) - ADU tax exemptions 👍2  
 
 ## 2023-24
 
-### [SB 5184](/bill/2023-24/sb/5184/) - Minimum parking requirements  👎1 
+### [SB 5529](/bill/2023-24/sb/5529/) - ADU tax exemptions 👍2  
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing  👎1 
 

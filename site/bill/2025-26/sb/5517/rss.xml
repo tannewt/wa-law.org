@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5517/</link>
 		<description>Updates about SB 5517</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 02 Feb 2025 03:00:07 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 12:56:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -77,6 +77,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Shara/Yackel/2025-02-02 03:00:07</guid>
+		</item>
+		<item>
+			<title>👍Leslie Maxwell - Washington Education Association</title>
+			<description>Leslie Maxwell signed up to testify Pro.</description>
+			<pubDate>Mon, 03 Feb 2025 05:27:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Leslie/Maxwell/2025-02-03 05:27:23</guid>
+		</item>
+		<item>
+			<title>👍Bay Knight - Washington Education Association</title>
+			<description>Bay Knight signed up to testify Pro.</description>
+			<pubDate>Mon, 03 Feb 2025 12:56:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bay/Knight/2025-02-03 12:56:18</guid>
 		</item>
 	</channel>
 </rss>

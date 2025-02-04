@@ -9,11 +9,11 @@
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 * 👍 Dr. Shelley Redinger
 
-## [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍4  
+## [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍7  
 
 ## 2023-24
 
-### [SB 5517](/bill/2023-24/sb/5517/) - School staff salary alloc. 👍4  
+### [SB 5517](/bill/2023-24/sb/5517/) - School staff salary alloc. 👍7  
 
 ### [HB 2494](/bill/2023-24/hb/2494/) - School operating costs 👍1  
 * 👍 Clinton Sherman

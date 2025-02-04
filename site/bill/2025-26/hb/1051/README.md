@@ -7,18 +7,14 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201051)
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201051)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201051)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=HB%201051)
 
 ## Meetings
 ### Mon 02/03 01:30 PM - Education (ED): HB 1051 IEP team meetings/recording
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162505&caId=25400&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162505&caId=25400&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162505&caId=25400&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162505&caId=25400&tId=4)
-
-#### 124 👍 - Pro
+#### 237 👍 - Pro
 Testifying:
 * Stephanie Spencer
 * Melissa Spiker - Seattle Special Education PTSA, Vice President
@@ -29,11 +25,15 @@ Testifying:
 * ARZU FOROUGH - Washington Autism Alliance
 * June Nho Ivers - Seattle Council PTSA
 * Holly Muenchow - Washington State PTA
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 
-#### 4 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * Gina McGlocklin
 * Derona Uzzle
+* Jill Rock
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tania May - Office of Superintendent of Public Instruction (OSPI)

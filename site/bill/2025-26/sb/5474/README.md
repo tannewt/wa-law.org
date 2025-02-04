@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 02/03 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5474 Organic, etc. agriculture
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32703&aId=162834&caId=25218&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32703&aId=162834&caId=25218&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32703&aId=162834&caId=25218&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32703&aId=162834&caId=25218&tId=4)
-
-#### 893 👍 - Pro
+#### 1123 👍 - Pro
 Testifying:
 * Sandra Shipley
 * Charles Benbrook - Benbrook Consulting Services
@@ -22,7 +16,12 @@ Testifying:
 * Ruby Valla
 * Maynard Mallonee - Mallonee Family Farm Llc
 * Charles Benbrook - Self; Benbrook Consulting Services
+* Mike Dill - Coalition for Organic and Regenerative Agriculture (CORA)
+* Melissa Spear - [Tilth Alliance](/org/tilth_alliance/)
+* Matt Steinman - Foothills Farm
+* Councilman Jeremy Takala - Yakama Nation Tribal Council
+* Bonny Jo Peterson
 
-#### 11 👎 - Con
+#### 18 👎 - Con
 
 #### 1 ❓ - Other

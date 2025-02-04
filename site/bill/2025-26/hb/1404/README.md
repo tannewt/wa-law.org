@@ -7,17 +7,14 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201404)
+* 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201404)
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201404)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201404)
 
 ## Meetings
 ### Mon 02/03 04:00 PM - Appropriations (APP): HB 1404 Free school meals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162722&caId=25348&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162722&caId=25348&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162722&caId=25348&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32685&aId=162722&caId=25348&tId=4)
-
-#### 598 👍 - Pro
+#### 804 👍 - Pro
 Testifying:
 * Harper Haroldson-Margel
 * Jenny Choi - Office of Governor Bob Ferguson
@@ -29,8 +26,16 @@ Testifying:
 * Cecilia Chavez - Toppenish Community Chest
 * 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 * Hannah LaMont
+* Nicole Harreld
+* 💵Paula Sardinas - WBBA
+* Sebrena Burr - Seattle Council PTSA
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Mary Ann Bauman - [American Heart Association](/org/american_heart_association/)
+* Preston Dwoskin
+* Mayah Stewart
+* Sylvia Falwer
 
-#### 329 👎 - Con
+#### 408 👎 - Con
 Testifying:
 * John Axtell
 

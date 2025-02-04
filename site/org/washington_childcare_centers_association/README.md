@@ -7,15 +7,26 @@
 ### [HB 1282](/bill/2025-26/hb/1282/) - Child care  👎1 
 * 👎💵 Amy Anderson
 
+### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements 👍1  
+
+### [HB 1582](/bill/2025-26/hb/1582/) - Concerning child care centers operated in existing buildings. 👍1  
+
+### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍1  
+
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
 * 👍💵 Amy Anderson
 
-## [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+* 👍💵 Amy Anderson
+
+### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
+
+## [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
 * 👍💵 Amy Anderson
 
 ## 2023-24
 
-### [SB 5184](/bill/2023-24/sb/5184/) - Minimum parking requirements 👍1  
+### [SB 5500](/bill/2023-24/sb/5500/) - Child care reimburse. rates 👍1  
 * 👍💵 Amy Anderson
 
 ### [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍2  

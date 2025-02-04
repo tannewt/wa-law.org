@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1106/</link>
 		<description>Updates about HB 1106</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 02 Feb 2025 08:28:20 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 08:52:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -36,6 +36,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Allen/Acosta/2025-02-02 08:28:20</guid>
+		</item>
+		<item>
+			<title>👍Felix Vargas - Veteran Legislative Coalition</title>
+			<description>Felix Vargas signed up to testify Pro.</description>
+			<pubDate>Mon, 03 Feb 2025 06:11:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Felix/Vargas/2025-02-03 06:11:02</guid>
+		</item>
+		<item>
+			<title>👍Raymond Ransier - Veteran Legislative Coalition</title>
+			<description>Raymond Ransier signed up to testify Pro.</description>
+			<pubDate>Mon, 03 Feb 2025 08:52:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Raymond/Ransier/2025-02-03 08:52:32</guid>
 		</item>
 	</channel>
 </rss>

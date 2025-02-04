@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162709&caId=25456&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162709&caId=25456&tId=4)
 
-#### 2 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Brock Graber - Intrnational Longshore & Warehouse Union Local 23
+* Douglas Dietz - International Longshore & Warehouse Union Local 21
+* Kristin Oliveira - Pacific Maritime Association
 
 #### 0 👎 - Con
 

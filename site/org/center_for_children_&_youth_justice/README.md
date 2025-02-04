@@ -5,7 +5,7 @@
 
 ### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍2  
 
-### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
+### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Giannina Ferrara
@@ -29,6 +29,9 @@
 ### [SB 5199](/bill/2025-26/sb/5199/) - Providing compensation to members of the department of children, youth, and families oversight board with direct lived experience. 👍2  
 
 ### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍2  
+
+### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile correctional pop.  👎1 
+* 👎 William Hairston
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
 

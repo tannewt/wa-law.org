@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201340)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201340)
 
 ## Meetings
@@ -17,8 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162443&caId=25431&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162443&caId=25431&tId=4)
 
-#### 113 👍 - Pro
+#### 208 👍 - Pro
+Testifying:
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
-#### 6 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Cindy Corpe
 
 #### 0 ❓ - Other

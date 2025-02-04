@@ -8,14 +8,8 @@
 
 ## Meetings
 ### Tue 02/04 08:00 AM - Finance (FIN): HB 1165 Property tax exemptions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32632&aId=162432&caId=25421&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32632&aId=162432&caId=25421&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32632&aId=162432&caId=25421&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32632&aId=162432&caId=25421&tId=4)
+#### 18 👍 - Pro
 
-#### 7 👍 - Pro
-
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32635&aId=162651&caId=25462&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32635&aId=162651&caId=25462&tId=4)
 
-#### 1 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Loretta Swanson - Mason County
+* 💵Debora Munguia - Mason County
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

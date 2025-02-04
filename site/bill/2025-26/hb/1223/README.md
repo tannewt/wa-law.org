@@ -8,10 +8,11 @@
 
 ## Meetings
 ### Tue 01/28 01:30 PM - State Government & Tribal Relations (SGOV): HB 1223 Voter challenges
-#### 410 👍 - Pro
+#### 411 👍 - Pro
 Testifying:
 * 💵Caron Cargill - Washington Voting Justice Coalition
 * Alice Clapman - I am testifying on behalf of the Brennan Center for Justice
+* 💵Alex Alston - Washington Voting Justice Coalition
 * Alex Need to fill i n
 
 #### 728 👎 - Con

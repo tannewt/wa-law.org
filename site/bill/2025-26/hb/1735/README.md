@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201735)
+
 ## Meetings
 ### Fri 02/07 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1735 Force-feeding of birds
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32649&aId=163045&caId=25510&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32649&aId=163045&caId=25510&tId=4)
 
-#### 78 👍 - Pro
+#### 101 👍 - Pro
 
 #### 5 👎 - Con
 

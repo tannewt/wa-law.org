@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5104/</link>
 		<description>Updates about SB 5104</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 21:30:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -113,6 +113,20 @@
 			<pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-31/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>On motion, referred to Rules Committee for second reading.</title>
+			<description>On motion, referred to Rules Committee for second reading.</description>
+			<pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-03/On motion, referred to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Hasegawa bill to protect employees from immigration-status-based coercion - Sen. Bob Hasegawa</title>
+			<description>News article "Hasegawa bill to protect employees from immigration-status-based coercion - Sen. Bob Hasegawa" from Senate Democrats.</description>
+			<pubDate>Mon, 03 Feb 2025 21:30:35 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hasegawa/2025/02/03/hasegawa-bill-to-protect-employees-from-immigration-status-based-coercion/#:~:text=5104</guid>
 		</item>
 	</channel>
 </rss>

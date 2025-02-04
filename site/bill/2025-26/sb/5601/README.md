@@ -14,10 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=163001&caId=25488&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=163001&caId=25488&tId=4)
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * John Plaza - SkyNRG Americas
+* 💵Isaac Kastama - Clean & Prosperous Washington
+* Mike Fong - Snohomish County
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Anne Kroeker - 350 Seattle member
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Joel Jones - Washington State Department of Ecology
+* Joel Creswell - Washington State Department of Ecology

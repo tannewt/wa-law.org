@@ -14,10 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32698&aId=162806&caId=25244&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32698&aId=162806&caId=25244&tId=4)
 
-#### 101 👍 - Pro
+#### 151 👍 - Pro
+Testifying:
+* Daniel Hinkle - National Expert invited by the Washington State Association for Justice
+* Holly Brauchli - Washington State Association for Justice
+* Marta O'Brien - Washington State Association for Justice
+* Scott Edwards - Washington State Association for Justice
+* Elizabeth Hanley
+* Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 
-#### 3 👎 - Con
+#### 32 👎 - Con
 Testifying:
 * Kyle Probst - Datavant & AHIOS
+* 💵Lisa Thatcher - Washington State Hospital Association
+* Terri McDaniel - MultiCare Health System
+* Tad Sommerville
 
 #### 0 ❓ - Other

@@ -11,19 +11,15 @@
 
 ## Meetings
 ### Mon 02/03 04:00 PM - Ways & Means (WM): SB 5011 Ballot drop box labeling
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162910&caId=25328&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162910&caId=25328&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162910&caId=25328&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162910&caId=25328&tId=4)
-
-#### 1101 👍 - Pro
+#### 1368 👍 - Pro
 Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 9 👎 - Con
+#### 14 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Michael Shaw - Washington State Association of County Auditors
 
 ### Fri 01/17 10:30 AM - State Government & Elections (SGE): SB 5011 Ballot drop box labeling
 #### 496 👍 - Pro

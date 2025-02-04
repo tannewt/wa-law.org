@@ -16,13 +16,7 @@
 
 ## Meetings
 ### Mon 02/03 04:00 PM - Ways & Means (WM): SSB 5060 Law enforcement personnel
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162948&caId=25332&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162948&caId=25332&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162948&caId=25332&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162948&caId=25332&tId=4)
-
-#### 44 👍 - Pro
+#### 105 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
@@ -30,8 +24,13 @@ Testifying:
 * Rod Higgins - Councilmember, City of Spokane Valley
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
+* Mayor Christine Frizzell - Mayor, City of Lynnwood
+* Nathan Olson - Office of the Governor
+* Dan Templeman - [City of Everett](/org/city_of_everett/)
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Alex MacBain - [City of Tacoma](/org/city_of_tacoma/)
 
-#### 374 👎 - Con
+#### 518 👎 - Con
 
 #### 0 ❓ - Other
 

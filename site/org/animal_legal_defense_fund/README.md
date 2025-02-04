@@ -9,6 +9,10 @@
 ### [HB 1201](/bill/2025-26/hb/1201/) - Emergency shelters/pets 👍1  
 * 👍 Cat Kelly
 
+### [HB 1311](/bill/2025-26/hb/1311/) - Gray wolves  👎1 
+
+### [HB 1442](/bill/2025-26/hb/1442/) - Gray wolf management  👎1 
+
 ## [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍2  
 * 👍 Cat Kelly
 

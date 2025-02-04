@@ -1,12 +1,14 @@
 # Akin
 ## 2025-26
 
-### [HB 1177](/bill/2025-26/hb/1177/) - Concerning the child welfare housing assistance program. 👍1  
+### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Samantha Masters
 
 ### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  
+
+### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
@@ -14,11 +16,13 @@
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
 
-## [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
+### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
+
+## [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
 ## 2023-24
 
-### [SB 5130](/bill/2023-24/sb/5130/) - Eliminating child care licensing fees. 👍1  
+### [SB 5352](/bill/2023-24/sb/5352/) - Free school meals 👍1  
 
 ### [HB 1873](/bill/2023-24/hb/1873/) - Concerning office of public defense social service workers for parents in child welfare cases. 👍1  
 * 👍 Heather Cantamessa

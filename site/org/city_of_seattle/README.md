@@ -5,7 +5,7 @@
 
 ### [HB 1018](/bill/2025-26/hb/1018/) - Fusion energy facilities 👍1  
 
-### [HB 1132](/bill/2025-26/hb/1132/) - Enhancing public safety by limiting bulk purchases and transfers of firearms and ammunition. 👍1  
+### [HB 1132](/bill/2025-26/hb/1132/) - Bulk firearm purchases 👍1  
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
 
@@ -17,16 +17,22 @@
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
 
+### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
+
 ### [HB 1240](/bill/2025-26/hb/1240/) - Vehicle impounds   ❓1
 
 ### [HB 1245](/bill/2025-26/hb/1245/) - Electrical transmission cap. 👍1  
 
 ### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  
 
+### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍1  
+
 ### [HB 1388](/bill/2025-26/hb/1388/) - Mobile market programs 👍1  
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 * 👍 Rico Quirindongo
+
+### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
 ### [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍1  
 
@@ -34,13 +40,19 @@
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
+### [HB 1556](/bill/2025-26/hb/1556/) - HS completers/CTC tuition 👍1  
+
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+
 ### [HB 1621](/bill/2025-26/hb/1621/) - Housing court commissioners 👍1  
+
+### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
 
-### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
+### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
 ### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍1  
 
@@ -55,11 +67,31 @@
 
 ### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
 
-## [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
+### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
+
+### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
+
+### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+
+### [SB 5367](/bill/2025-26/sb/5367/) - Law enf. community grants 👍1  
+
+### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
+
+### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
+
+### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
+
+### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
+
+### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
+
+### [SB 5584](/bill/2025-26/sb/5584/) - OII expansion/prosecutions 👍1  
+
+## [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
 
 ## 2023-24
 
-### [SB 5369](/bill/2023-24/sb/5369/) - Youth mental health/schools 👍1  
+### [SB 5600](/bill/2023-24/sb/5600/) - TNCs/large-scale events 👍1  
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

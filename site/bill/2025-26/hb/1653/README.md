@@ -8,19 +8,14 @@
 
 ## Meetings
 ### Mon 02/03 04:00 PM - Transportation (TR): HB 1653 Tow truck payments/indigent
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32617&aId=162859&caId=25486&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32617&aId=162859&caId=25486&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32617&aId=162859&caId=25486&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32617&aId=162859&caId=25486&tId=4)
-
-#### 7 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Emily Wade - Towing & Recovery Association of WA (TRAW)
 * Kris Zachary - Burns Towing
 * Paul Bressi - Nisqually Towing
 * 💵Peter Lukevich - Towing & Recovery Association of WA (TRAW)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 8 👎 - Con
+#### 14 👎 - Con
 
 #### 0 ❓ - Other

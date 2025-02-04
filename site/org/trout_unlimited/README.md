@@ -1,6 +1,9 @@
 # Trout Unlimited
 ## 2025-26
 
+### [HB 1325](/bill/2025-26/hb/1325/) - Fish & wildlife enforcement 👍2  
+* 👍💵 Alexei Calambokidis
+
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
 * 👍💵 Alexei Calambokidis
 

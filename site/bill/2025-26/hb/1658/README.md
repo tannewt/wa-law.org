@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162996&caId=25493&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162996&caId=25493&tId=4)
 
-#### 8 👍 - Pro
+#### 109 👍 - Pro
 Testifying:
 * Bradley Richardson - Washington Museum Association
+* Alexis Gamber
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

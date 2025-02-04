@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=162450&caId=25238&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=162450&caId=25238&tId=4)
 
-#### 5 👍 - Pro
+#### 15 👍 - Pro
 
-#### 0 👎 - Con
+#### 217 👎 - Con
+Testifying:
+* Donna Alber
 
 #### 0 ❓ - Other

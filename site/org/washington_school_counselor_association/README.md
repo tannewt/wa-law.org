@@ -4,6 +4,10 @@
 ### [HB 1136](/bill/2025-26/hb/1136/) - Student navigational support   ❓1
 * ❓💵 Jenny Morgan
 
+### [HB 1257](/bill/2025-26/hb/1257/) - Extending special education services to students with disabilities until the end of the school year in which the student turns 22. 👍1  
+
+### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
+
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
 * 👍💵 Jenny Morgan
 

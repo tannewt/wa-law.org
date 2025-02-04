@@ -8,16 +8,17 @@
 
 ## Meetings
 ### Mon 02/03 01:30 PM - Environment & Energy (ENVI): HB 1742 Urban design/environment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32650&aId=163008&caId=25496&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32650&aId=163008&caId=25496&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32650&aId=163008&caId=25496&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32650&aId=163008&caId=25496&tId=4)
+#### 21 👍 - Pro
+Testifying:
+* 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Sue Lani Madsen
+* Steve Zemke - Friends of Seattle's Urban Forest, TreePAC
 
-#### 3 👍 - Pro
-
-#### 40 👎 - Con
+#### 48 👎 - Con
 Testifying:
 * Leanne Shipley
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Samantha Weinstein - Department of Ecology
+* Don Gourlie - Puget Sound Partnership

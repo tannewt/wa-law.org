@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1622/</link>
 		<description>Updates about HB 1622</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 22:00:37 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 09:07:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -35,7 +35,46 @@
 			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
 			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201622</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
+			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201622</guid>
+		</item>
+		<item>
+			<title>👎💵Candice Bock - Association of Washington Cities</title>
+			<description>Candice Bock signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 03 Feb 2025 06:10:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Candice/Bock/2025-02-03 06:10:35</guid>
+		</item>
+		<item>
+			<title>👎Donna Alber - Association of Washington Cities</title>
+			<description>Donna Alber signed up to testify Con.</description>
+			<pubDate>Mon, 03 Feb 2025 06:25:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Donna/Alber/2025-02-03 06:25:04</guid>
+		</item>
+		<item>
+			<title>👍Cherika Carter - Washington State Labor Council</title>
+			<description>Cherika Carter signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_labor_council/"&gt;Washington State Labor Council&lt;/a&gt;.</description>
+			<pubDate>Tue, 04 Feb 2025 09:07:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cherika/Carter/2025-02-04 09:07:22</guid>
+		</item>
+		<item>
+			<title>👍💵Samantha Grad - Teamsters 117</title>
+			<description>Samantha Grad signed up to testify Pro. They are signed up to represent Teamsters 117. They are a registered lobbyist.</description>
+			<pubDate>Tue, 04 Feb 2025 09:07:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Samantha/Grad/2025-02-04 09:07:22</guid>
 		</item>
 	</channel>
 </rss>

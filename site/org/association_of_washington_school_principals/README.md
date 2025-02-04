@@ -1,6 +1,8 @@
 # Association of Washington School Principals
 ## 2025-26
 
+### [HB 1032](/bill/2025-26/hb/1032/) - School district elections 👍1  
+
 ### [HB 1079](/bill/2025-26/hb/1079/) - Remote testing 👍1  
 
 ### [HB 1085](/bill/2025-26/hb/1085/) - School safety/penalties   ❓1
@@ -24,7 +26,7 @@
 
 ### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍1  
 
-### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍1  
+### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍2  
 
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
 
@@ -71,6 +73,8 @@
 ### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 
 ### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards   ❓1
+
+### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
 ### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
 

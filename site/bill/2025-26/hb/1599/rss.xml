@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1599/</link>
 		<description>Updates about HB 1599</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 24 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 08:53:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,22 @@
 			<pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-24/First reading, referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
+			<title>👍Steve Boms - American Association for Debt Resolution</title>
+			<description>Steve Boms signed up to testify Pro. They are signed up to represent American Association for Debt Resolution.</description>
+			<pubDate>Tue, 04 Feb 2025 08:53:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Steve/Boms/2025-02-04 08:53:45</guid>
+		</item>
+		<item>
+			<title>👍Tom McBride - American Association for Debt Resolution</title>
+			<description>Tom McBride signed up to testify Pro. They are signed up to represent American Association for Debt Resolution.</description>
+			<pubDate>Tue, 04 Feb 2025 08:53:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tom/McBride/2025-02-04 08:53:45</guid>
 		</item>
 	</channel>
 </rss>

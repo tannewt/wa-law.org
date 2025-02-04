@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5278/</link>
 		<description>Updates about SB 5278</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 11:49:46 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 12:01:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -68,6 +68,45 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/James/McMahan/2025-01-31 11:49:46</guid>
+		</item>
+		<item>
+			<title>❓💵Allison Krutsinger - Dept of Children, Youth, and Families</title>
+			<description>Allison Krutsinger signed up to testify Other. They are signed up to represent Dept of Children, Youth, and Families. They are a registered lobbyist.</description>
+			<pubDate>Mon, 03 Feb 2025 08:22:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Allison/Krutsinger/2025-02-03 08:22:00</guid>
+		</item>
+		<item>
+			<title>👎Elizabeth Mustin - WA State Office of Public Defense</title>
+			<description>Elizabeth Mustin signed up to testify Con. They are signed up to represent WA State Office of Public Defense.</description>
+			<pubDate>Mon, 03 Feb 2025 08:33:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Elizabeth/Mustin/2025-02-03 08:33:03</guid>
+		</item>
+		<item>
+			<title>👎Esther Matthews - WA State Office of Public Defense</title>
+			<description>Esther Matthews signed up to testify Con.</description>
+			<pubDate>Mon, 03 Feb 2025 11:21:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Esther/Matthews/2025-02-03 11:21:46</guid>
+		</item>
+		<item>
+			<title>👎William Hairston - Center for Children &amp; Youth Justice</title>
+			<description>William Hairston signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/center_for_children_&amp;_youth_justice/"&gt;Center for Children &amp; Youth Justice&lt;/a&gt;.</description>
+			<pubDate>Mon, 03 Feb 2025 11:32:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/William/Hairston/2025-02-03 11:32:17</guid>
+		</item>
+		<item>
+			<title>Washington lawmakers confront juvenile detention overcrowding crisis • Washington State Standard</title>
+			<description>News article "Washington lawmakers confront juvenile detention overcrowding crisis • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Mon, 03 Feb 2025 12:01:34 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/02/03/washington-lawmakers-confront-juvenile-detention-overcrowding-crisis/#:~:text=Senate%20Bill%205278</guid>
 		</item>
 	</channel>
 </rss>

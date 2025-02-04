@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201474)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201474)
 
 ## Meetings
@@ -17,14 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162727&caId=25358&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162727&caId=25358&tId=4)
 
-#### 250 👍 - Pro
+#### 264 👍 - Pro
 Testifying:
 * Fred Trujillo - Retired Public Employees
 
 #### 2 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Lee Ann Prielipp - WEA-Retired

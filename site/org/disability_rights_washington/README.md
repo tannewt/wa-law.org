@@ -7,6 +7,8 @@
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
+### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor. 👍1  
+
 ### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍4  
 * 👍💵 Rachael Seevers
 * 👍💵 Rachael Seevers
@@ -18,7 +20,7 @@
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  
 
-### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍4  
+### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍4  
 * 👍💵 Chloe Merino
 * 👍💵 Rachael Seevers
 
@@ -50,13 +52,16 @@
 ### [SB 5147](/bill/2025-26/sb/5147/) - Criminal insanity 👍1  
 * 👍💵 Chloe Merino
 
-## [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎1 
+### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎1 
 * 👎💵 Rachael Seevers
+
+## [SB 5501](/bill/2025-26/sb/5501/) - Employee driving requirement 👍1  
+* 👍💵 Anna Zivarts
 
 ## 2023-24
 
-### [SB 5388](/bill/2023-24/sb/5388/) - DOC behavioral health cert.  👎1 
-* 👎💵 Rachael Seevers
+### [SB 5501](/bill/2023-24/sb/5501/) - Employee driving requirement 👍1  
+* 👍💵 Anna Zivarts
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

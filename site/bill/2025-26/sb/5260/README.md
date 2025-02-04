@@ -6,20 +6,19 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers confront juvenile detention overcrowding crisis • Washington State Standard](https://washingtonstatestandard.com/2025/02/03/washington-lawmakers-confront-juvenile-detention-overcrowding-crisis/#:~:text=Senate%20Bill%205260)
+
 ## Meetings
 ### Mon 02/03 01:30 PM - Human Services (HS): SB 5260 Juvenile correctional pop.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32693&aId=162792&caId=25264&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32693&aId=162792&caId=25264&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32693&aId=162792&caId=25264&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32693&aId=162792&caId=25264&tId=4)
+#### 16 👍 - Pro
 
-#### 12 👍 - Pro
-
-#### 8 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Sara Zier - TeamChild
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
+* Liz Trautman - Stand for Children Washington

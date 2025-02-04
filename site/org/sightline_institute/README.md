@@ -28,6 +28,9 @@
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 * 👍💵 Laura Feinstein
 
+### [HB 1576](/bill/2025-26/hb/1576/) - Concerning the designation of historic landmarks by cities. 👍1  
+* 👍💵 Dan Bertolet
+
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
 * 👍💵 Emily Moore
 
@@ -49,11 +52,15 @@
 
 ### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs 👍1  
 
-## [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍1  
+### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍1  
+
+## [SB 5554](/bill/2025-26/sb/5554/) - Historic landmark desig. 👍1  
+* 👍💵 Dan Bertolet
 
 ## 2023-24
 
-### [SB 5471](/bill/2023-24/sb/5471/) - Middle housing 👍1  
+### [SB 5554](/bill/2023-24/sb/5554/) - Historic landmark desig. 👍1  
+* 👍💵 Dan Bertolet
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review 👍2  
 * 👍💵 Dan Bertolet

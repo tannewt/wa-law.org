@@ -7,25 +7,25 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers confront juvenile detention overcrowding crisis • Washington State Standard](https://washingtonstatestandard.com/2025/02/03/washington-lawmakers-confront-juvenile-detention-overcrowding-crisis/#:~:text=Senate%20Bill%205278)
 * 01/16/2025 [The Center Square](/org/the_center_square/) - [Green Hill whistleblower warns the inmates could ‘take over the facility’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b3d83aee-d42f-11ef-b5ee-bf1241616a4e.html#:~:text=Senate%20Bill%205278)
 
 ## Meetings
 ### Mon 02/03 01:30 PM - Human Services (HS): SB 5278 Juvenile correctional pop.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32693&aId=162793&caId=25265&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32693&aId=162793&caId=25265&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32693&aId=162793&caId=25265&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32693&aId=162793&caId=25265&tId=4)
-
-#### 11 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 10 👎 - Con
+#### 19 👎 - Con
 Testifying:
 * Nicole Robison
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Grete Schultz - TeamChild
+* Elizabeth Mustin - WA State Office of Public Defense
+* Esther Matthews
+* William Hairston - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families

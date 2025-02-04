@@ -15,6 +15,8 @@
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 * 👍💵 Guillermo Rogel
 
+### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth 👍1  
+
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  

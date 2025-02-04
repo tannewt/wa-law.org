@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201293)
+* [House Republicans](/org/house_republicans/) - [Cleaner Washington | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/cleaner-washington/#:~:text=House%20Bill%201293)
 
 ## Meetings
 ### Tue 01/21 04:00 PM - Environment & Energy (ENVI): HB 1293 Litter

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201622)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201622)
 
 ## Meetings
@@ -17,10 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162710&caId=25457&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162710&caId=25457&tId=4)
 
-#### 15 👍 - Pro
+#### 132 👍 - Pro
 Testifying:
 * 💵Teresa Taylor - (WACOPS) Washington Council of Police & Sheriffs
+* Cherika Carter - [Washington State Labor Council](/org/washington_state_labor_council/)
+* 💵Samantha Grad - Teamsters 117
 
-#### 1 👎 - Con
+#### 207 👎 - Con
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Donna Alber
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

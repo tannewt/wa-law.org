@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1348/</link>
 		<description>Updates about HB 1348</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 02 Feb 2025 05:42:16 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 07:47:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -27,15 +27,174 @@
 			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
 			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201348</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
+			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201348</guid>
 		</item>
 		<item>
-			<title>👎Brandon Park - Confidence Analytics</title>
+			<title>👎Brandon Park - Zips Cannabis</title>
 			<description>Brandon Park signed up to testify Con.</description>
 			<pubDate>Sun, 02 Feb 2025 05:42:16 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Brandon/Park/2025-02-02 05:42:16</guid>
+		</item>
+		<item>
+			<title>👎Shawn DeNae Wagenseller - Washington Bud Company</title>
+			<description>Shawn DeNae Wagenseller signed up to testify Con. They are signed up to represent Washington Bud Company.</description>
+			<pubDate>Mon, 03 Feb 2025 06:01:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Shawn DeNae/Wagenseller/2025-02-03 06:01:13</guid>
+		</item>
+		<item>
+			<title>👎Eric Gaston - The Evergreen Market</title>
+			<description>Eric Gaston signed up to testify Con. They are signed up to represent The Evergreen Market.</description>
+			<pubDate>Mon, 03 Feb 2025 06:05:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Eric/Gaston/2025-02-03 06:05:19</guid>
+		</item>
+		<item>
+			<title>👎💵Trent Matson - Washington Cannabis Licensee Association</title>
+			<description>Trent Matson signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_cannabis_licensee_association/"&gt;Washington Cannabis Licensee Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 03 Feb 2025 06:05:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Trent/Matson/2025-02-03 06:05:19</guid>
+		</item>
+		<item>
+			<title>👍Brian Smith - PTM Management Corp</title>
+			<description>Brian Smith signed up to testify Pro. They are signed up to represent PTM Management Corp.</description>
+			<pubDate>Mon, 03 Feb 2025 06:16:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brian/Smith/2025-02-03 06:16:54</guid>
+		</item>
+		<item>
+			<title>👍Daniel Torczyner - S Rothschild &amp; Co, Inc.</title>
+			<description>Daniel Torczyner signed up to testify Pro. They are signed up to represent S Rothschild &amp; Co, Inc..</description>
+			<pubDate>Mon, 03 Feb 2025 06:16:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Daniel/Torczyner/2025-02-03 06:16:54</guid>
+		</item>
+		<item>
+			<title>👍Hank de Zwart - Flobin Inc</title>
+			<description>Hank de Zwart signed up to testify Pro. They are signed up to represent Flobin Inc.</description>
+			<pubDate>Mon, 03 Feb 2025 06:16:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Hank/de Zwart/2025-02-03 06:16:54</guid>
+		</item>
+		<item>
+			<title>👍Lance Kaufman - Hub Truck, Inc</title>
+			<description>Lance Kaufman signed up to testify Pro. They are signed up to represent Hub Truck, Inc.</description>
+			<pubDate>Mon, 03 Feb 2025 06:16:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lance/Kaufman/2025-02-03 06:16:54</guid>
+		</item>
+		<item>
+			<title>👎Rolando Rodriguez - Green Roads Cannabis</title>
+			<description>Rolando Rodriguez signed up to testify Con. They are signed up to represent Green Roads Cannabis.</description>
+			<pubDate>Mon, 03 Feb 2025 08:03:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rolando/Rodriguez/2025-02-03 08:03:30</guid>
+		</item>
+		<item>
+			<title>❓Caitlein Ryan - CAITLEIN RYAN</title>
+			<description>Caitlein Ryan signed up to testify Other. They are signed up to represent CAITLEIN RYAN.</description>
+			<pubDate>Mon, 03 Feb 2025 09:20:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Caitlein/Ryan/2025-02-03 09:20:54</guid>
+		</item>
+		<item>
+			<title>❓Micah Sherman - CAITLEIN RYAN</title>
+			<description>Micah Sherman signed up to testify Other.</description>
+			<pubDate>Mon, 03 Feb 2025 09:48:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Micah/Sherman/2025-02-03 09:48:56</guid>
+		</item>
+		<item>
+			<title>👍Andy Brassington - Evergreen Herbal</title>
+			<description>Andy Brassington signed up to testify Pro. They are signed up to represent Evergreen Herbal.</description>
+			<pubDate>Mon, 03 Feb 2025 11:10:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andy/Brassington/2025-02-03 11:10:27</guid>
+		</item>
+		<item>
+			<title>👍Jesse Huminski - Fairwinds Manufacturing</title>
+			<description>Jesse Huminski signed up to testify Pro. They are signed up to represent Fairwinds Manufacturing.</description>
+			<pubDate>Mon, 03 Feb 2025 11:10:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jesse/Huminski/2025-02-03 11:10:27</guid>
+		</item>
+		<item>
+			<title>👍💵Vicki Christophersen - Washington CannaBusiness Association</title>
+			<description>Vicki Christophersen signed up to testify Pro. They are signed up to represent Washington CannaBusiness Association. They are a registered lobbyist.</description>
+			<pubDate>Mon, 03 Feb 2025 11:10:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Vicki/Christophersen/2025-02-03 11:10:27</guid>
+		</item>
+		<item>
+			<title>👍Scott Atkison - Zips Cannabis</title>
+			<description>Scott Atkison signed up to testify Pro. They are signed up to represent Zips Cannabis.</description>
+			<pubDate>Mon, 03 Feb 2025 11:12:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Atkison/2025-02-03 11:12:10</guid>
+		</item>
+		<item>
+			<title>👍Jamie Hoffman - Craft Elixirs</title>
+			<description>Jamie Hoffman signed up to testify Pro. They are signed up to represent Craft Elixirs.</description>
+			<pubDate>Mon, 03 Feb 2025 11:14:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jamie/Hoffman/2025-02-03 11:14:52</guid>
+		</item>
+		<item>
+			<title>👍Darren Gleeman - MBO Ventures</title>
+			<description>Darren Gleeman signed up to testify Pro. They are signed up to represent MBO Ventures.</description>
+			<pubDate>Mon, 03 Feb 2025 11:20:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Darren/Gleeman/2025-02-03 11:20:12</guid>
+		</item>
+		<item>
+			<title>👎Mike Asai - Black Excellence In Cannabis</title>
+			<description>Mike Asai signed up to testify Con. They are signed up to represent Black Excellence In Cannabis.</description>
+			<pubDate>Mon, 03 Feb 2025 12:39:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mike/Asai/2025-02-03 12:39:42</guid>
+		</item>
+		<item>
+			<title>👎Peter Manning - Black Excellence In Cannabis</title>
+			<description>Peter Manning signed up to testify Con. They are signed up to represent Black Excellence In Cannabis.</description>
+			<pubDate>Mon, 03 Feb 2025 12:39:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Peter/Manning/2025-02-03 12:39:42</guid>
+		</item>
+		<item>
+			<title>👍Zak Richardson - Zips Cannabis</title>
+			<description>Zak Richardson signed up to testify Pro. They are signed up to represent Zips Cannabis.</description>
+			<pubDate>Tue, 04 Feb 2025 07:47:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Zak/Richardson/2025-02-04 07:47:12</guid>
 		</item>
 	</channel>
 </rss>

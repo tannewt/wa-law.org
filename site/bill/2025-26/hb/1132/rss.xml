@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1132 - Enhancing public safety by limiting bulk purchases and transfers of firearms and ammunition.</title>
+		<title>HB 1132 - Bulk firearm purchases</title>
 		<link>https://wa-law.org/bill/2025-26/hb/1132/</link>
 		<description>Updates about HB 1132</description>
 		<language>en-US</language>
@@ -330,11 +330,25 @@
 			<guid isPermaLink="true">https://www.wastatepta.org/2025session-week3/#:~:text=HB%201132</guid>
 		</item>
 		<item>
+			<title>The 2025 legislative session is underway - Sen. Jamie Pedersen</title>
+			<description>News article "The 2025 legislative session is underway - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Wed, 29 Jan 2025 16:12:52 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/01/29/3034/#:~:text=HB%201132</guid>
+		</item>
+		<item>
 			<title>CRJ - Executive action taken by committee.</title>
 			<description>CRJ - Executive action taken by committee.</description>
 			<pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-31/CRJ - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-31/Minority; do not pass.</guid>
 		</item>
 		<item>
 			<title>Plans for new gun regulations progress in Washington Legislature • Washington State Standard</title>

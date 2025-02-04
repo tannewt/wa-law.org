@@ -24,13 +24,21 @@
 ### [SB 5202](/bill/2025-26/sb/5202/) - Judicial orders 👍1  
 * 👍 Alexander Bejaran Estevez
 
-## [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
+### [SB 5254](/bill/2025-26/sb/5254/) - Health care information 👍1  
 * 👍 Riddhi Mukhopadhyay
+
+### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
+* 👍 Riddhi Mukhopadhyay
+
+### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+
+## [SB 5499](/bill/2025-26/sb/5499/) - DOC body scanner program 👍1  
+* 👍💵 Elizabeth Hendren
 
 ## 2023-24
 
-### [SB 5355](/bill/2023-24/sb/5355/) - Higher education safety 👍1  
-* 👍 Riddhi Mukhopadhyay
+### [SB 5499](/bill/2023-24/sb/5499/) - DOC body scanner program 👍1  
+* 👍💵 Elizabeth Hendren
 
 ### [HB 1028](/bill/2023-24/hb/1028/) - Crime victims & witnesses 👍1  
 

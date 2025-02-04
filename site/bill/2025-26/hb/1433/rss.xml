@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1433/</link>
 		<description>Updates about HB 1433</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 02 Feb 2025 07:25:34 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 12:47:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -67,6 +67,13 @@
 			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
 			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201433</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
+			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201433</guid>
 		</item>
 		<item>
@@ -100,6 +107,61 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Angela/Ward/2025-02-02 07:25:34</guid>
+		</item>
+		<item>
+			<title>The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats</title>
+			<description>News article "The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201433</guid>
+		</item>
+		<item>
+			<title>👎Cole Schrim LMHC - Tacoma Psychedelic Society</title>
+			<description>Cole Schrim LMHC signed up to testify Con. They are signed up to represent Tacoma Psychedelic Society.</description>
+			<pubDate>Mon, 03 Feb 2025 01:21:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Cole/Schrim LMHC/2025-02-03 01:21:16</guid>
+		</item>
+		<item>
+			<title>❓jerry spieckerman - PTPS</title>
+			<description>jerry spieckerman signed up to testify Other. They are signed up to represent PTPS.</description>
+			<pubDate>Mon, 03 Feb 2025 05:20:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/jerry/spieckerman/2025-02-03 05:20:18</guid>
+		</item>
+		<item>
+			<title>👍Heath Hollensbe - Adventure Psychotherapy</title>
+			<description>Heath Hollensbe signed up to testify Pro.</description>
+			<pubDate>Mon, 03 Feb 2025 06:20:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Heath/Hollensbe/2025-02-03 06:20:50</guid>
+		</item>
+		<item>
+			<title>❓Kody Zalewski - Psychedelic Medicine Alliance of Washington</title>
+			<description>Kody Zalewski signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/psychedelic_medicine_alliance_of_washington/"&gt;Psychedelic Medicine Alliance of Washington&lt;/a&gt;.</description>
+			<pubDate>Mon, 03 Feb 2025 07:59:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kody/Zalewski/2025-02-03 07:59:46</guid>
+		</item>
+		<item>
+			<title>👎Andy Fischer-Price - Tacoma Psychedelic Society</title>
+			<description>Andy Fischer-Price signed up to testify Con.</description>
+			<pubDate>Mon, 03 Feb 2025 08:11:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Andy/Fischer-Price/2025-02-03 08:11:10</guid>
+		</item>
+		<item>
+			<title>👎Angela Ross - Tacoma Psychedelic Society</title>
+			<description>Angela Ross signed up to testify Con.</description>
+			<pubDate>Mon, 03 Feb 2025 12:47:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Angela/Ross/2025-02-03 12:47:11</guid>
 		</item>
 	</channel>
 </rss>

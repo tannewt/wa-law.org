@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32639&aId=162900&caId=25336&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32639&aId=162900&caId=25336&tId=4)
 
-#### 5 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers and Washington Newspaper Publishers Assn
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Steve Ewing - Dept. of Revenue

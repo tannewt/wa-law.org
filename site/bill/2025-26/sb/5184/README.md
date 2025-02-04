@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [KUOW](/org/kuow/) - [KUOW - Should WA cities cut down on parking spots required at new developments?](https://www.kuow.org/stories/should-wa-cities-cut-down-on-parking-required-at-new-developments#:~:text=Senate%20Bill%205184)
 * 01/31/2025 [The Urbanist](/org/the_urbanist/) - [Rolling Out The Urbanist 2025’s Advocacy Agenda and Early Events - The Urbanist](https://www.theurbanist.org/2025/01/31/the-urbanist-2025s-advocacy-agenda/#:~:text=Senate%20Bill%205184)
 * 01/29/2025 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers want to limit parking requirements for new development • Washington State Standard](https://washingtonstatestandard.com/2025/01/29/wa-lawmakers-want-to-limit-parking-requirements-for-new-development/#:~:text=Senate%20Bill%205184)
 * 01/22/2025 [Senate Democrats](/org/senate_democrats/) - [Expanding housing supply hearing in Senate Friday - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/01/22/expanding-housing-supply-hearing-in-senate-friday/#:~:text=SB%205184)

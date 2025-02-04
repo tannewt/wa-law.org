@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1630/</link>
 		<description>Updates about HB 1630</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 02 Feb 2025 10:44:36 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 08:45:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -41,10 +41,17 @@
 			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
 			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201630</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
+			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201630</guid>
 		</item>
 		<item>
-			<title>👎Kylie Klein - 125 Delphi Road NW</title>
+			<title>👎Kylie Klein - City of Seattle Fire Department</title>
 			<description>Kylie Klein signed up to testify Con.</description>
 			<pubDate>Sat, 01 Feb 2025 03:23:27 GMT</pubDate>
 			<category>testifier</category>
@@ -60,7 +67,7 @@
 			<guid isPermaLink="false">testifier/Sue Lani/Madsen/2025-02-01 04:55:23</guid>
 		</item>
 		<item>
-			<title>👍Selden Prentice - 125 Delphi Road NW</title>
+			<title>👍Selden Prentice - City of Seattle Fire Department</title>
 			<description>Selden Prentice signed up to testify Pro.</description>
 			<pubDate>Sat, 01 Feb 2025 05:07:29 GMT</pubDate>
 			<category>testifier</category>
@@ -74,6 +81,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Ava/Budde/2025-02-02 10:44:36</guid>
+		</item>
+		<item>
+			<title>👎john worthington - 3/8's Cattle Co</title>
+			<description>john worthington signed up to testify Con.</description>
+			<pubDate>Mon, 03 Feb 2025 05:20:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/john/worthington/2025-02-03 05:20:01</guid>
+		</item>
+		<item>
+			<title>👎Amanda McKinney - Yakima County Commissioner</title>
+			<description>Amanda McKinney signed up to testify Con. They are signed up to represent Yakima County Commissioner.</description>
+			<pubDate>Mon, 03 Feb 2025 08:30:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Amanda/McKinney/2025-02-03 08:30:05</guid>
+		</item>
+		<item>
+			<title>👎Cindy Corpe - Yakima County Commissioner</title>
+			<description>Cindy Corpe signed up to testify Con.</description>
+			<pubDate>Mon, 03 Feb 2025 08:45:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Cindy/Corpe/2025-02-03 08:45:34</guid>
 		</item>
 	</channel>
 </rss>

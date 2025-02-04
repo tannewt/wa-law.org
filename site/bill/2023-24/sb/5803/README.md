@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [Veterans group selects Conway as Legislator of the Year - Sen. Steve Conway](https://senatedemocrats.wa.gov/conway/2025/02/03/veterans-group-selects-conway-as-legislator-of-the-year/#:~:text=a%20bill)
 * 03/05/2024 [House Democrats](/org/house_democrats/) - [Leavitt bills to support military families and veterans headed to the Governor’s desk.  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2024/03/05/leavitt-bills-to-support-military-families-and-veterans-headed-to-the-governors-desk/#:~:text=Senate%20Bill%205803)
 
 ## Meetings

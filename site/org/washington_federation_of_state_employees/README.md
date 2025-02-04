@@ -22,7 +22,7 @@
 
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages 👍1  
 
-### [HB 1182](/bill/2025-26/hb/1182/) - Granting interest arbitration to certain parks and recreation commission employees. 👍1  
+### [HB 1182](/bill/2025-26/hb/1182/) - Parks & rec./interest arb. 👍1  
 * 👍 Andrew Kallinen
 
 ### [HB 1192](/bill/2025-26/hb/1192/) - DOC disciplinary hearings  👎1 
@@ -53,6 +53,8 @@
 
 ### [HB 1511](/bill/2025-26/hb/1511/) - Ferry captains 👍1  
 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
 ### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍1  
@@ -77,13 +79,18 @@
 
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
 
-## [SB 5433](/bill/2025-26/sb/5433/) - DOC employee bargaining 👍1  
+### [SB 5433](/bill/2025-26/sb/5433/) - DOC employee bargaining 👍1  
 * 👍 Kati Durkin
+
+### [SB 5459](/bill/2025-26/sb/5459/) - Call center retention 👍1  
+
+### [SB 5525](/bill/2025-26/sb/5525/) - Layoffs 👍1  
+
+## [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
 
 ## 2023-24
 
-### [SB 5433](/bill/2023-24/sb/5433/) - DOC employee bargaining 👍1  
-* 👍 Kati Durkin
+### [SB 5600](/bill/2023-24/sb/5600/) - TNCs/large-scale events 👍1  
 
 ### [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
 

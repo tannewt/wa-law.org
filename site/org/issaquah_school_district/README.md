@@ -1,8 +1,13 @@
 # Issaquah School District
 ## 2025-26
 
+### [HB 1032](/bill/2025-26/hb/1032/) - School district elections 👍1  
+* 👍 Martin Turney
+
 ### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍1  
 * 👍 Martin Turney
+
+### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍1  
 
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
 * 👍 Martin Turney

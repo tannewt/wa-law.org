@@ -1,6 +1,9 @@
 # Washington Roundtable
 ## 2025-26
 
+### [HB 1557](/bill/2025-26/hb/1557/) - Guaranteed admissions prg. 👍1  
+* 👍💵 Neil Strege
+
 ## [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 * 👍💵 Neil Strege
 

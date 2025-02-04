@@ -5,7 +5,13 @@
 
 ### [HB 1522](/bill/2025-26/hb/1522/) - Utility wildfire mitigation 👍1  
 
+### [HB 1712](/bill/2025-26/hb/1712/) - Qualified biomass facilities  👎1 
+
 ### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules 👍1  
+
+### [SB 5425](/bill/2025-26/sb/5425/) - Energy independence act  👎1 
+
+### [SB 5445](/bill/2025-26/sb/5445/) - Local energy resilience  👎1 
 
 ## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 * 👍 Casey MacLean

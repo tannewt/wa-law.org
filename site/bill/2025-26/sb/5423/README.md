@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [The legislative session is heating up - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/02/03/the-legislative-session-is-heating-up-2/#:~:text=SB%205423)
+* 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205423)
 * 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 4: Housing, job security, consumer protection and floor action - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/02/this-week-in-the-senate-week-4-housing-job-security-consumer-protection-and-floor-action/#:~:text=Senate%20Bill%205423)
 
 ## Meetings
@@ -17,9 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=162451&caId=25239&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=162451&caId=25239&tId=4)
 
-#### 401 👍 - Pro
+#### 712 👍 - Pro
+Testifying:
+* Steven Rhine - Rhine Labs
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Amy Bos - NetChoice
 
 #### 2 ❓ - Other
 Testifying:

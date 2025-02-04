@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205593)
+
 ## Meetings
 ### Thu 02/06 10:30 AM - Early Learning & K-12 Education (EDU): SB 5593 School levies & local effort
 Sign up to testify:
@@ -14,13 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163040&caId=25501&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163040&caId=25501&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 
-#### 3 👎 - Con
+#### 45 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Initiative Activist
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Oliver Miska

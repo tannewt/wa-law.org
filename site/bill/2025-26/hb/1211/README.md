@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201211)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201211)
 * 01/28/2025 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers renew push to make clergy report child abuse • Washington State Standard](https://washingtonstatestandard.com/2025/01/28/washington-lawmakers-renew-push-to-make-clergy-report-child-abuse/#:~:text=House%20Bill%201211)
 
@@ -18,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162529&caId=25391&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162529&caId=25391&tId=4)
 
-#### 94 👍 - Pro
+#### 141 👍 - Pro
 Testifying:
 * Robert Fontana
 * Lori Fontana
@@ -43,12 +44,19 @@ Testifying:
 * Kristiana de Leon - Association of Secular Elected Officials
 * Toni Napoli Roy
 * Piper Bollander - Former Jehovah's Witness
+* Clark Kimerer - healourchurch.org
+* Terrence Carroll - healourchurch.org
+* colleen kinerk - healourchurch.org
+* Alex Ashley
+* Melanie Sakoda - SNAP, the Survivors Network of those Abused by Priests
+* Toni Roy - Heal Our Church
 
-#### 27 👎 - Con
+#### 95 👎 - Con
 Testifying:
 * Bishop Frank Schuster - Archdiocese of Seattle
 * 💵Jean Hill - Washington State Catholic Conference
 * David DeWolf
 * John Axtell
+* Theresa Schrempp
 
 #### 0 ❓ - Other

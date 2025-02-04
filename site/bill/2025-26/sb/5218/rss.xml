@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5218/</link>
 		<description>Updates about SB 5218</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 02:13:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,21 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍Alejandro Sanchez - Department of Licensing</title>
+			<description>Alejandro Sanchez signed up to testify Pro. They are signed up to represent Department of Licensing.</description>
+			<pubDate>Sun, 02 Feb 2025 10:37:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alejandro/Sanchez/2025-02-02 10:37:37</guid>
+		</item>
+		<item>
+			<title>Nobles bill to update driver, vehicle laws heard in committee - Sen. T’wina Nobles</title>
+			<description>News article "Nobles bill to update driver, vehicle laws heard in committee - Sen. T’wina Nobles" from Senate Democrats.</description>
+			<pubDate>Tue, 04 Feb 2025 02:13:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/02/03/nobles-bill-to-update-driver-vehicle-laws-heard-in-committee/#:~:text=Senate%20Bill%205218</guid>
 		</item>
 	</channel>
 </rss>

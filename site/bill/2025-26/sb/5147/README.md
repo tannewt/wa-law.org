@@ -9,15 +9,10 @@
 
 ## Meetings
 ### Mon 02/03 04:00 PM - Ways & Means (WM): SSB 5147 Criminal insanity
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162913&caId=25331&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162913&caId=25331&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162913&caId=25331&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162913&caId=25331&tId=4)
-
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Melissa Johnson - District & Municipal Court Judges' Association
+* 💵Michael Transue - National Alliance on Mental Illness (NAMI)
 
 #### 0 👎 - Con
 

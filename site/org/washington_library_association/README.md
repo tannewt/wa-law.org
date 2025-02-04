@@ -1,6 +1,8 @@
 # Washington Library Association
 ## 2025-26
 
+### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍1  
+
 ### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity 👍1  
 * 👍💵 Carolyn Logue
 

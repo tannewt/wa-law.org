@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 02/03 10:30 AM - Labor & Commerce (LC): SB 5528 Transp. electrification
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162986&caId=25279&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162986&caId=25279&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162986&caId=25279&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162986&caId=25279&tId=4)
-
-#### 89 👍 - Pro
+#### 112 👍 - Pro
 Testifying:
 * Anthony Geren
 * 💵Christine Reid - IBEW Local 77
@@ -24,6 +18,10 @@ Testifying:
 * Vernon Counsellor - Ozz Electric
 * Vernon Counsellor - Ozz Electric
 
-#### 0 👎 - Con
+#### 26 👎 - Con
+Testifying:
+* Nathan Turner - Alpha and Omega Electric
+* 💵Brandon Houskeeper - Associated Builders & Contractors - Western WA
+* Timothy Rockwell
 
 #### 0 ❓ - Other

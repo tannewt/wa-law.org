@@ -53,6 +53,9 @@
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects 👍1  
 * 👍 Chris Herman
 
+### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍1  
+* 👍 Chris Herman
+
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
 * 👍💵 Carly Michiels
 
@@ -62,6 +65,11 @@
 ### [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+
+### [SB 5370](/bill/2025-26/sb/5370/) - Port commissioner terms 👍1  
+* 👍 Eric ffitch
+
+### [SB 5464](/bill/2025-26/sb/5464/) - CDL federal standards 👍1  
 
 ## [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
 

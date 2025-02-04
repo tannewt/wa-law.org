@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 02/03 04:00 PM - Transportation (TR): HB 1616 Transit conduct/ferries
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32617&aId=162517&caId=25484&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32617&aId=162517&caId=25484&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32617&aId=162517&caId=25484&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32617&aId=162517&caId=25484&tId=4)
-
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 
 #### 1 👎 - Con
 

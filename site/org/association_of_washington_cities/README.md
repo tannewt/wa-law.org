@@ -21,7 +21,8 @@
 
 ### [HB 1112](/bill/2025-26/hb/1112/) - Removing the city residency requirement for judges pro tempore in municipalities with a population of more than 400,000 inhabitants. 👍1  
 
-### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor.  👎1 
+### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor.  👎2 
+* 👎💵 Candice Bock
 
 ### [HB 1126](/bill/2025-26/hb/1126/) - Standardizing notification provisions relating to local tax rate changes and shared taxes administered by the department. 👍1  
 
@@ -66,10 +67,17 @@
 
 ### [HB 1275](/bill/2025-26/hb/1275/) - Self-insurer withdrawal 👍1  
 
+### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements  👎1 
+* 👎💵 Carl Schroeder
+
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records   ❓1
 * ❓💵 Candice Bock
 
 ### [HB 1312](/bill/2025-26/hb/1312/) - Retirement benefits/death 👍1  
+
+### [HB 1353](/bill/2025-26/hb/1353/) - ADU self-certification 👍2  
+* 👍💵 Carl Schroeder
+* 👍💵 Carl Schroeder
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
 * 👎💵 Carl Schroeder
@@ -84,6 +92,9 @@
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
 * 👍💵 Candice Bock
 
+### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
+* 👍💵 Candice Bock
+
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings   ❓1
 * ❓💵 Carl Schroeder
 
@@ -95,7 +106,11 @@
 
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
 
+### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍1  
+
 ### [HB 1518](/bill/2025-26/hb/1518/) - Vehicle collision liability  👎1 
+
+### [HB 1529](/bill/2025-26/hb/1529/) - Cities/county road resources 👍1  
 
 ### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  
 
@@ -108,6 +123,23 @@
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 * 👍💵 Candice Bock
+
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+* 👎💵 Candice Bock
+
+### [HB 1643](/bill/2025-26/hb/1643/) - Utility facility removal   ❓1
+* ❓💵 Carl Schroeder
+
+### [HB 1653](/bill/2025-26/hb/1653/) - Tow truck payments/indigent 👍1  
+* 👍💵 Carl Schroeder
+
+### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
+
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎1 
+* 👎💵 Candice Bock
+
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎1 
+* 👎💵 Candice Bock
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
@@ -151,6 +183,8 @@
 
 ### [SB 5238](/bill/2025-26/sb/5238/) - Reckless driving, speed 👍1  
 
+### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
+
 ### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍1  
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
@@ -166,13 +200,19 @@
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 
-## [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
+### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 * 👍💵 Candice Bock
+
+### [SB 5554](/bill/2025-26/sb/5554/) - Historic landmark desig.   ❓1
+* ❓💵 Carl Schroeder
+
+## [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process   ❓1
+* ❓💵 Carl Schroeder
 
 ## 2023-24
 
-### [SB 5547](/bill/2023-24/sb/5547/) - Cannabis revenue/local gov. 👍1  
-* 👍💵 Candice Bock
+### [SB 5559](/bill/2023-24/sb/5559/) - UGA subdivision process   ❓1
+* ❓💵 Carl Schroeder
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32630&aId=162421&caId=25387&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32630&aId=162421&caId=25387&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Steve Boms - American Association for Debt Resolution
+* Tom McBride - American Association for Debt Resolution
 
-#### 1 👎 - Con
+#### 9 👎 - Con
 
 #### 0 ❓ - Other

@@ -7,17 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205352)
 * 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 4: Housing, job security, consumer protection and floor action - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/02/this-week-in-the-senate-week-4-housing-job-security-consumer-protection-and-floor-action/#:~:text=Senate%20Bill%205352)
 
 ## Meetings
 ### Tue 02/04 08:00 AM - Early Learning & K-12 Education (EDU): SB 5352 Free school meals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32673&aId=162598&caId=25225&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32673&aId=162598&caId=25225&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32673&aId=162598&caId=25225&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32673&aId=162598&caId=25225&tId=4)
-
-#### 470 👍 - Pro
+#### 679 👍 - Pro
 Testifying:
 * Pyper Hayden
 * Meghin Margel
@@ -31,7 +26,15 @@ Testifying:
 * Cecilia Chavez - Toppenish Community Chest
 * 💵Giovanni Severino - Latino Community Fund of WA State
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* Ben Atkinson - Washington State Academy of Nutrition and Dietetics
+* Eleanor Lenihan
+* 💵Giovanni Severino
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
+* Mike Boland
+* Paul Marquardt - Bethel Schools
 
-#### 40 👎 - Con
+#### 114 👎 - Con
+Testifying:
+* Atina Holan
 
 #### 0 ❓ - Other

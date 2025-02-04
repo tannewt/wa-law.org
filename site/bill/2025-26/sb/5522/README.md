@@ -17,9 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32671&aId=162576&caId=25308&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32671&aId=162576&caId=25308&tId=4)
 
-#### 2 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Denny Heck - Lt. Governor
+* Steve Hobbs - Secretary of State
+* Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
 #### 0 👎 - Con
 

@@ -17,11 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162809&caId=25281&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162809&caId=25281&tId=4)
 
-#### 48 👍 - Pro
+#### 177 👍 - Pro
+Testifying:
+* 💵Anna Zivarts - [Disability Rights Washington](/org/disability_rights_washington/)
+* Hayley Edick
+* Judy Jones
+* Krystal Monteros
 
-#### 4 👎 - Con
+#### 36 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Rose Gundersen - WA Retail Association
+* Janel Black - Unlimited Service
+* christy hutchinson - West Richland Auto repair
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Mike Ennis - Building Industry Association of Washington and Washington Trucking Associations

@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Mon 02/03 04:00 PM - Ways & Means (WM): SB 5110 Tribal elder tuition waivers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162912&caId=25330&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162912&caId=25330&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162912&caId=25330&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162912&caId=25330&tId=4)
-
-#### 13 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Suzy Ames - Peninsula College
+* Maya Esquivido - SBCTC
+* Council Jeremy Takala - Yakama Nation Tribal Council
 
-#### 235 👎 - Con
+#### 268 👎 - Con
 
 #### 0 ❓ - Other
 

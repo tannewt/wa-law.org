@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1140/</link>
 		<description>Updates about HB 1140</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 02 Feb 2025 08:44:16 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 18:10:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -66,6 +66,13 @@
 			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
 			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201140</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
+			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201140</guid>
 		</item>
 		<item>
@@ -107,6 +114,29 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Meghan/Lucas/2025-02-02 08:44:16</guid>
+		</item>
+		<item>
+			<title>👍Eric Pratt - America</title>
+			<description>Eric Pratt signed up to testify Pro. They are signed up to represent America.</description>
+			<pubDate>Mon, 03 Feb 2025 06:05:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Eric/Pratt/2025-02-03 06:05:13</guid>
+		</item>
+		<item>
+			<title>👍Wes Martin - America</title>
+			<description>Wes Martin signed up to testify Pro.</description>
+			<pubDate>Mon, 03 Feb 2025 08:12:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Wes/Martin/2025-02-03 08:12:29</guid>
+		</item>
+		<item>
+			<title>Week Four: Big 3 Bills Continue to Advance - WSPTA</title>
+			<description>News article "Week Four: Big 3 Bills Continue to Advance - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 03 Feb 2025 18:10:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201140</guid>
 		</item>
 	</channel>
 </rss>

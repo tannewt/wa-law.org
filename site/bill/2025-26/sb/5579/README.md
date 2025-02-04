@@ -14,8 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32698&aId=162909&caId=25247&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32698&aId=162909&caId=25247&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Denise Corcoran - Regence BlueShield
+* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
 
-#### 4 👎 - Con
+#### 26 👎 - Con
+Testifying:
+* 💵Sean Graham - Washington State Medical Assocation (WSMA)
+* 💵Lisa Thatcher - Washington State Hospital Association
+* Alex Town - Samaritan Health Care
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jane Beyer - WA Office of the Insurance Commissioner

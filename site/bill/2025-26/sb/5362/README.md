@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Mon 02/03 10:30 AM - Law & Justice (LAW): SB 5362 Crime victim services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32623&aId=162392&caId=25289&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32623&aId=162392&caId=25289&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32623&aId=162392&caId=25289&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32623&aId=162392&caId=25289&tId=4)
-
-#### 675 👍 - Pro
+#### 763 👍 - Pro
 Testifying:
 * Colleen McIngalls - King County Prosecuting Attorney's Office
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
@@ -32,7 +26,11 @@ Testifying:
 * Lindsay Finney - Mary Bridge Pediatric Care Continuum Children's Advocacy Center of Pierce County
 * Katie Whittier - YWCA Clark County
 * Leesa Manion - King County Prosecuting Attorney's Office
+* Suzi Fode - New Hope & Kids Hope
+* Jane Smith
 
-#### 245 👎 - Con
+#### 304 👎 - Con
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Trisha Smith - Department of Commerce

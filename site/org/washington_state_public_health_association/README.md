@@ -10,13 +10,13 @@
 
 ### [HB 1090](/bill/2025-26/hb/1090/) - Contraceptive coverage 👍1  
 
-### [HB 1132](/bill/2025-26/hb/1132/) - Enhancing public safety by limiting bulk purchases and transfers of firearms and ammunition. 👍1  
+### [HB 1132](/bill/2025-26/hb/1132/) - Bulk firearm purchases 👍1  
 
 ### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 👍1  
 
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
 
-### [HB 1177](/bill/2025-26/hb/1177/) - Concerning the child welfare housing assistance program. 👍1  
+### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍1  
 
 ### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products 👍1  
 
@@ -38,11 +38,15 @@
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 
-## [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers 👍1  
+### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers 👍1  
+
+## [SB 5353](/bill/2025-26/sb/5353/) - Diabetes and obesity 👍1  
+* 👍 Megan Moore
 
 ## 2023-24
 
-### [SB 5099](/bill/2023-24/sb/5099/) - Firearms dealers 👍1  
+### [SB 5353](/bill/2023-24/sb/5353/) - Diabetes and obesity 👍1  
+* 👍 Megan Moore
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1313/</link>
 		<description>Updates about HB 1313</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 08:24:12 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 15:07:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -67,6 +67,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Josh/Dye/2025-01-28 08:24:12</guid>
+		</item>
+		<item>
+			<title>Shaun Scott’s Radical Agenda Arrives in Olympia - The Stranger</title>
+			<description>News article "Shaun Scott’s Radical Agenda Arrives in Olympia - The Stranger" from The Stranger.</description>
+			<pubDate>Mon, 03 Feb 2025 15:07:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thestranger.com/news/2025/02/03/79904473/shaun-scotts-radical-agenda-arrives-in-olympia#:~:text=HB%201313</guid>
 		</item>
 	</channel>
 </rss>

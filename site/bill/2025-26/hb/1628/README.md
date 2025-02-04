@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32668&aId=162559&caId=25474&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32668&aId=162559&caId=25474&tId=4)
 
-#### 2 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Dave Kokot - WA State Association of Fire Marshals
 * Leonard Johnson - 125 Delphi Road NW
+* 💵Steve Brooks - Washington Fire Chiefs
+* ryan spiller - WA Fire Commissioners
+* Fire Chief Harold Scoggins - City of Seattle Fire Department
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

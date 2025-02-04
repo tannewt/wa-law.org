@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201410)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201410)
 
 ## Meetings
@@ -17,11 +18,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162411&caId=25383&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162411&caId=25383&tId=4)
 
-#### 1 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Brandon Park
+* Shea Hynes - Lux Pot Shop
+* Shawn DeNae Wagenseller - Washington Bud Company
+* Bethany Rondeaux - Falcanna
+* Eric Gaston - The Evergreen Market
+* 💵Trent Matson - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
+* Jason Hutto
+* Rolando Rodriguez - Green Roads Cannabis
+* 💵Brooke Davies - Washington CannaBusiness Association
+* 💵Ezra Eickmeyer - Producers NW
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Caitlein Ryan - CAITLEIN RYAN
+* Micah Sherman
 
 #### 0 ❓ - Other
 

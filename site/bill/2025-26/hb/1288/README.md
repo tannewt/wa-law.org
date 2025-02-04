@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* [House Republicans](/org/house_republicans/) - [Cleaner Washington | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/cleaner-washington/#:~:text=House%20Bill%201288)
+
 ## Meetings

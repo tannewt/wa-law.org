@@ -13,11 +13,18 @@
 
 ### [SB 5084](/bill/2025-26/sb/5084/) - Health carrier reporting 👍1  
 
-## [SB 5228](/bill/2025-26/sb/5228/) - Updating the governor's interagency coordinating council on health disparities. 👍1  
+### [SB 5228](/bill/2025-26/sb/5228/) - Updating the governor's interagency coordinating council on health disparities. 👍1  
+
+### [SB 5353](/bill/2025-26/sb/5353/) - Diabetes and obesity 👍1  
+* 👍💵 Stephanie Simpson
+
+### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
+
+## [SB 5561](/bill/2025-26/sb/5561/) - Health care entity registry 👍1  
 
 ## 2023-24
 
-### [SB 5228](/bill/2023-24/sb/5228/) - Updating the governor's interagency coordinating council on health disparities. 👍1  
+### [SB 5561](/bill/2023-24/sb/5561/) - Health care entity registry 👍1  
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

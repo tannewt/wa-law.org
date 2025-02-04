@@ -8,18 +8,29 @@
 
 ## Meetings
 ### Mon 02/03 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5554 Historic landmark desig.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162877&caId=25296&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162877&caId=25296&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162877&caId=25296&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162877&caId=25296&tId=4)
+#### 59 👍 - Pro
+Testifying:
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* Nicholas Sattele
+* Will Gagne-maynard
+* Cale Schupman
+* Daniel Bloemker
+* PATRICK Taylor
+* Tom Ostrom
+* Vivian Song
+* Benjamin Maritz - Great Expectations LLC
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 33 👍 - Pro
-
-#### 76 👎 - Con
+#### 157 👎 - Con
 Testifying:
 * Ginger Voorhees
 * Sarah Wall
 * Colleen Mcaleer - Laurelhurst Community Club Council
+* Alexis Gamber
+* Chris Moore - Washington Trust for Historic Preservaton
+* Eugenia Woo - Historic Seattle
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

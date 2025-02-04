@@ -1463,7 +1463,7 @@
 * [SB 5603](sb/5603) - Driver training/large veh. 25👍 1👎 0❓ - SRules X
 * [SB 5607](sb/5607) - Fashion/env. policies 1📰 7👍 18👎 1❓ - SEnvironment, E
 * [SB 5795](sb/5795) - Year-round Pacific std. time 5📰 22👍 4👎 0❓ - SState Govt & E
-* [SB 5803](sb/5803) - National guard recruitment 1📰 22👍 1👎 3❓ - C 24 L 24
+* [SB 5803](sb/5803) - National guard recruitment 2📰 22👍 1👎 3❓ - C 24 L 24
 * [SB 5810](sb/5810) - Interpreter bargaining units 22👍 2👎 2❓ - SWays & Means
 * [SB 6028](sb/6028) - Unemployment overpayments 26👍 0👎 0❓ - SRules 3
 * [ESJM 8005](esjm/8005) - De-risking/financial inst. 5👍 20👎 1❓ - SFiled Sec/St

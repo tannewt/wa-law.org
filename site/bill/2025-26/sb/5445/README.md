@@ -14,10 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32641&aId=162448&caId=25236&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32641&aId=162448&caId=25236&tId=4)
 
-#### 131 👍 - Pro
+#### 304 👍 - Pro
 Testifying:
 * 💵Dave Warren - WA Green Hydrogen Alliance
+* 💵Liz Anderson - Washington Public Utility Districts Association
+* 💵Samantha Louderback - Washington Rural Electric Cooperative Association
+* Sheila Corson - Mason PUD #3
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
+* 💵Charlee Thompson - NW Energy Coalition
+* Heather Nicholson
 
 #### 0 ❓ - Other

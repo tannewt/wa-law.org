@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5803/</link>
 		<description>Updates about SB 5803</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 13 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 20:57:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -250,6 +250,13 @@
 			<pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-13/Governor signed.</guid>
+		</item>
+		<item>
+			<title>Veterans group selects Conway as Legislator of the Year - Sen. Steve Conway</title>
+			<description>News article "Veterans group selects Conway as Legislator of the Year - Sen. Steve Conway" from Senate Democrats.</description>
+			<pubDate>Mon, 03 Feb 2025 20:57:34 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/conway/2025/02/03/veterans-group-selects-conway-as-legislator-of-the-year/#:~:text=a%20bill</guid>
 		</item>
 	</channel>
 </rss>

@@ -17,12 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32698&aId=162808&caId=25246&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32698&aId=162808&caId=25246&tId=4)
 
-#### 2 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Pam MacEwan - Purchasers Business Group on Health
+* 💵David Keepnews - Washington State Nurses Association
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Lisa Thatcher - Washington State Hospital Association
+* 💵Sean Graham - Washington State Medical Assocation (WSMA)
+* 💵Megan Veith - Washington State Department of Health

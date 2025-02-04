@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5486/</link>
 		<description>Updates about SB 5486</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 30 Jan 2025 09:06:20 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 12:09:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -53,6 +53,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Cheryl/Perazzoli/2025-01-30 09:06:20</guid>
+		</item>
+		<item>
+			<title>❓💵Vicki Christophersen - Pacific Northwest Theatre Owners Association</title>
+			<description>Vicki Christophersen signed up to testify Other. They are signed up to represent Pacific Northwest Theatre Owners Association. They are a registered lobbyist.</description>
+			<pubDate>Mon, 03 Feb 2025 09:10:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Vicki/Christophersen/2025-02-03 09:10:55</guid>
+		</item>
+		<item>
+			<title>👎Kevin Fairchild - Hering Loss Association of America-Washington state</title>
+			<description>Kevin Fairchild signed up to testify Con.</description>
+			<pubDate>Mon, 03 Feb 2025 12:09:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kevin/Fairchild/2025-02-03 12:09:10</guid>
 		</item>
 	</channel>
 </rss>

@@ -17,6 +17,9 @@
 ### [HB 1115](/bill/2025-26/hb/1115/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
 * 👍💵 Andrea Smiley
 
+### [HB 1121](/bill/2025-26/hb/1121/) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 👍1  
+* 👍 Mike Ennis
+
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎1 
 
 ### [HB 1153](/bill/2025-26/hb/1153/) - Urban forest management   ❓1
@@ -43,8 +46,14 @@
 ### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface  👎1 
 * 👎💵 Andrea Smiley
 
+### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements 👍1  
+* 👍💵 Andrea Smiley
+
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎2 
 * 👎💵 Andrea Smiley
+
+### [HB 1353](/bill/2025-26/hb/1353/) - ADU self-certification 👍1  
+* 👍💵 Andrea Smiley
 
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license   ❓1
 * ❓ Mike Ennis
@@ -57,9 +66,25 @@
 ### [HB 1438](/bill/2025-26/hb/1438/) - Housing permit approval 👍1  
 * 👍💵 Andrea Smiley
 
+### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings  👎1 
+* 👎💵 Bill Stauffacher
+
 ### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons  👎1 
 
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management  👎1 
+
+### [HB 1533](/bill/2025-26/hb/1533/) - Specialty electricians 👍1  
+
+### [HB 1576](/bill/2025-26/hb/1576/) - Concerning the designation of historic landmarks by cities.   ❓1
+* ❓💵 Bill Stauffacher
+
+### [HB 1644](/bill/2025-26/hb/1644/) - Working minors  👎1 
+
+### [HB 1688](/bill/2025-26/hb/1688/) - Electric security alarms 👍1  
+
+### [HB 1757](/bill/2025-26/hb/1757/) - Residential use/existing 👍1  
+
+### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement  👎1 
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 
@@ -97,15 +122,34 @@
 
 ### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
 
+### [SB 5429](/bill/2025-26/sb/5429/) - State building code council 👍1  
+* 👍💵 Andrea Smiley
+
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons  👎1 
 
-## [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities  👎1 
+### [SB 5461](/bill/2025-26/sb/5461/) - Intensive rural dev. areas   ❓1
+* ❓💵 Andrea Smiley
+
+### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎1 
+
+### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities  👎1 
 * 👎💵 Brent Ludeman
+
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+### [SB 5552](/bill/2025-26/sb/5552/) - Kit homes/building codes 👍1  
+
+### [SB 5554](/bill/2025-26/sb/5554/) - Historic landmark desig.   ❓1
+* ❓💵 Andrea Smiley
+
+### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process 👍1  
+* 👍💵 Andrea Smiley
+
+## [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎1 
 
 ## 2023-24
 
-### [SB 5496](/bill/2023-24/sb/5496/) - Home buying by entities  👎1 
-* 👎💵 Brent Ludeman
+### [SB 5626](/bill/2023-24/sb/5626/) - Wage replacement  👎1 
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

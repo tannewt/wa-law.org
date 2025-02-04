@@ -7,7 +7,7 @@
 
 ### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
 ### [HB 1262](/bill/2025-26/hb/1262/) - Health disparities council 👍2  
 * 👍 Steve Kutz
@@ -18,7 +18,8 @@
 
 ### [HB 1540](/bill/2025-26/hb/1540/) - Homelessness/tribal colleges 👍1  
 
-### [HB 1583](/bill/2025-26/hb/1583/) - Concerning medicaid coverage for traditional health care practices. 👍1  
+### [HB 1583](/bill/2025-26/hb/1583/) - Concerning medicaid coverage for traditional health care practices. 👍4  
+* 👍 Steve Kutz
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
 

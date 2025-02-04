@@ -9,6 +9,9 @@
 
 ### [HB 1535](/bill/2025-26/hb/1535/) - Dental insurance practices  👎1 
 
+### [HB 1566](/bill/2025-26/hb/1566/) - Prior authorization/health  👎1 
+* 👎 Dr. Romilla Batra
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
@@ -21,11 +24,18 @@
 
 ### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎2 
 
-## [SB 5361](/bill/2025-26/sb/5361/) - ASAM 4 treatment criteria 👍1  
+### [SB 5361](/bill/2025-26/sb/5361/) - ASAM 4 treatment criteria 👍1  
+
+### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health  👎1 
+* 👎 Dr. Romilla Batra
+
+## [SB 5579](/bill/2025-26/sb/5579/) - Health/contract terminations 👍1  
+* 👍💵 Christine Brewer
 
 ## 2023-24
 
-### [SB 5361](/bill/2023-24/sb/5361/) - ASAM 4 treatment criteria 👍1  
+### [SB 5579](/bill/2023-24/sb/5579/) - Health/contract terminations 👍1  
+* 👍💵 Christine Brewer
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

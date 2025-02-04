@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32639&aId=162914&caId=25338&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32639&aId=162914&caId=25338&tId=4)
 
-#### 3 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Dana COGGON - Pierce Conservation District
 * 💵Brynn Brady - WA Association of Conservation Districts
+* Allan Warren - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
+* Linda Lyshall - Snohomish Conservation District
+* Mark Craven - Snohomish Conservation District
+* Sarah Moorehead - Thurston Conservation District
+* Vicki Carter - Spokane Conservation District
 
-#### 1 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * Jackie Brunson - Washington State Association of County Treasurers
 

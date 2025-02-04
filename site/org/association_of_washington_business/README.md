@@ -35,11 +35,15 @@
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 * 👍💵 Morgan Irwin
 
+### [HB 1099](/bill/2025-26/hb/1099/) - Tenant assistance program 👍1  
+
 ### [HB 1103](/bill/2025-26/hb/1103/) - Expanding protections against unwanted telephone calls and text messages for cellular users.   ❓1
 * ❓💵 Morgan Irwin
 
 ### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍2  
 * 👍💵 Morgan Irwin
+
+### [HB 1114](/bill/2025-26/hb/1114/) - Concerning the respiratory care interstate compact. 👍1  
 
 ### [HB 1115](/bill/2025-26/hb/1115/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
 
@@ -76,7 +80,7 @@
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages  👎1 
 * 👎💵 Lindsey Hueer
 
-### [HB 1186](/bill/2025-26/hb/1186/) - Expanding the situations in which medications can be dispensed or delivered from hospitals and health care entities. 👍1  
+### [HB 1186](/bill/2025-26/hb/1186/) - Medication dispensing 👍1  
 
 ### [HB 1188](/bill/2025-26/hb/1188/) - Requiring local government and tribal approval of wind and solar siting recommendations by the energy facility site evaluation council.  👎1 
 * 👎💵 Peter Godlewski
@@ -96,6 +100,8 @@
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program.  👎1 
 * 👎💵 Lindsey Hueer
+
+### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
 
@@ -144,8 +150,13 @@
 ### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons   ❓1
 * ❓💵 Peter Godlewski
 
+### [HB 1507](/bill/2025-26/hb/1507/) - Health care nondisclosure  👎1 
+* 👎💵 Emily Wittman
+
 ### [HB 1522](/bill/2025-26/hb/1522/) - Utility wildfire mitigation 👍1  
 * 👍💵 Peter Godlewski
+
+### [HB 1527](/bill/2025-26/hb/1527/) - Health care claims mediation 👍1  
 
 ### [HB 1533](/bill/2025-26/hb/1533/) - Specialty electricians 👍1  
 
@@ -156,12 +167,20 @@
 
 ### [HB 1582](/bill/2025-26/hb/1582/) - Concerning child care centers operated in existing buildings. 👍1  
 
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎1 
+
 ### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees  👎1 
+
+### [HB 1643](/bill/2025-26/hb/1643/) - Utility facility removal   ❓1
+* ❓💵 Morgan Irwin
 
 ### [HB 1644](/bill/2025-26/hb/1644/) - Working minors  👎1 
 * 👎💵 Lindsey Hueer
 
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍1  
+
+### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy  👎1 
+* 👎💵 Morgan Irwin
 
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement  👎1 
 * 👎💵 Lindsey Hueer
@@ -221,6 +240,8 @@
 ### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations   ❓1
 * ❓💵 Lindsey Hueer
 
+### [SB 5218](/bill/2025-26/sb/5218/) - Modifying motor vehicle and driver licensing laws to align with federal definitions, making technical corrections, and streamlining requirements. 👍1  
+
 ### [SB 5226](/bill/2025-26/sb/5226/) - Establishing funding for physician residency positions dedicated to international medical graduates. 👍1  
 
 ### [SB 5236](/bill/2025-26/sb/5236/) - Anesthetics/greenhouse gases 👍1  
@@ -228,6 +249,8 @@
 ### [SB 5241](/bill/2025-26/sb/5241/) - Fusion energy facilities 👍1  
 
 ### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍1  
+
+### [SB 5254](/bill/2025-26/sb/5254/) - Health care information  👎1 
 
 ### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
 
@@ -256,10 +279,16 @@
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 * 👎💵 Peter Godlewski
 
+### [SB 5385](/bill/2025-26/sb/5385/) - Definition of timberland 👍1  
+
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp. practice of medicine  👎1 
+
 ### [SB 5396](/bill/2025-26/sb/5396/) - FAA medical certificates   ❓1
 
 ### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 
 * 👎💵 Emily Wittman
+
+### [SB 5405](/bill/2025-26/sb/5405/) - Estate tax exclusion amount 👍1  
 
 ### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
 * 👍💵 Lindsey Hueer
@@ -268,6 +297,9 @@
 * ❓💵 Peter Godlewski
 
 ### [SB 5442](/bill/2025-26/sb/5442/) - College promise pilot 👍1  
+
+### [SB 5461](/bill/2025-26/sb/5461/) - Intensive rural dev. areas   ❓1
+* ❓💵 Morgan Irwin
 
 ### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎1 
 * 👎💵 Lindsey Hueer
@@ -287,8 +319,20 @@
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
+### [SB 5528](/bill/2025-26/sb/5528/) - Transp. electrification  👎1 
+
 ### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
 * 👎💵 Lindsey Hueer
+
+### [SB 5554](/bill/2025-26/sb/5554/) - Historic landmark desig. 👍1  
+* 👍💵 Morgan Irwin
+
+### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans   ❓1
+* ❓💵 Morgan Irwin
+
+### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process 👍1  
+
+### [SB 5561](/bill/2025-26/sb/5561/) - Health care entity registry  👎1 
 
 ## [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎1 
 * 👎💵 Lindsey Hueer

@@ -1,25 +1,38 @@
 # Northwest Progressive Institute
 ## 2025-26
 
+### [HB 1032](/bill/2025-26/hb/1032/) - School district elections 👍1  
+
 ### [HB 1116](/bill/2025-26/hb/1116/) - Recognizing election day. 👍1  
 * 👍 Andrew Villeneuve
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  
 
-### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍2  
+### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍2  
 
 ### [HB 1189](/bill/2025-26/hb/1189/) - Addressing parental involvement through volunteering in schools after a criminal conviction. 👍1  
 
-### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍1  
+### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍2  
 
 ### [HB 1321](/bill/2025-26/hb/1321/) - Outside militia activities 👍1  
 
 ### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections 👍1  
 * 👍 Andrew Villeneuve
 
+### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
+* 👍 Andrew Villeneuve
+
 ### [HB 1412](/bill/2025-26/hb/1412/) - Comm'n, M. East & N. Africa 👍1  
 
+### [HB 1425](/bill/2025-26/hb/1425/) - Pharmacogenomic testing 👍1  
+
+### [HB 1433](/bill/2025-26/hb/1433/) - Psychedelic substances 👍1  
+
 ### [HB 1434](/bill/2025-26/hb/1434/) - Eid al-Fitr & Eid al-Adha 👍1  
+
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance 👍1  
+
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims 👍1  
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
 

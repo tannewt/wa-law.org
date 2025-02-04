@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205126)
 * 01/30/2025 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Establishing a Statewide Network for Student Mental and Behavioral Health - WSPTA](https://www.wastatepta.org/wspta-testifies-establishing-a-statewide-network-for-student-mental-and-behavioral-health/#:~:text=SB%205126)
 * 01/29/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to address student mental, behavioral health heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/29/nobles-bill-to-address-student-mental-behavioral-health-heard-in-committee/#:~:text=Senate%20Bill%205126)
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205126)

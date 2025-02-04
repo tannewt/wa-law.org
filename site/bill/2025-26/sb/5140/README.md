@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 01/29/2025 [Senate Democrats](/org/senate_democrats/) - [The 2025 legislative session is underway - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/01/29/3034/#:~:text=SB%205140)
+
 ## Meetings

@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32667&aId=162630&caId=25285&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32667&aId=162630&caId=25285&tId=4)
 
-#### 3 👍 - Pro
+#### 38 👍 - Pro
 
-#### 56 👎 - Con
+#### 101 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * Luis horta
 * 💵Patrick Connor - NFIB
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other

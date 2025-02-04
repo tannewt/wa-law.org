@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1114/</link>
 		<description>Updates about HB 1114</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 01 Feb 2025 03:54:05 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 01:18:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -137,6 +137,37 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Gary/Wickman/2025-02-01 03:54:05</guid>
+		</item>
+		<item>
+			<title>The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats</title>
+			<description>News article "The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201114</guid>
+		</item>
+		<item>
+			<title>👍Tammie Perreault - Department of Defense</title>
+			<description>Tammie Perreault signed up to testify Pro. They are signed up to represent Department of Defense.</description>
+			<pubDate>Mon, 03 Feb 2025 01:04:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tammie/Perreault/2025-02-03 01:04:45</guid>
+		</item>
+		<item>
+			<title>❓Grant Minix - The Council of State Governments</title>
+			<description>Grant Minix signed up to testify Other. They are signed up to represent The Council of State Governments.</description>
+			<pubDate>Mon, 03 Feb 2025 07:12:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Grant/Minix/2025-02-03 07:12:24</guid>
+		</item>
+		<item>
+			<title>👍Miriam O'Day - American Association for Respiratory Care</title>
+			<description>Miriam O'Day signed up to testify Pro. They are signed up to represent American Association for Respiratory Care.</description>
+			<pubDate>Tue, 04 Feb 2025 01:18:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Miriam/O'Day/2025-02-04 01:18:11</guid>
 		</item>
 	</channel>
 </rss>

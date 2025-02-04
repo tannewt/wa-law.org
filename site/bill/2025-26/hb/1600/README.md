@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32635&aId=162652&caId=25463&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32635&aId=162652&caId=25463&tId=4)
 
-#### 7 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * 💵Nathan Koch - Washington Family Support Network
+* Kim Justice - Partners for Our Children
 
-#### 6 👎 - Con
+#### 9 👎 - Con
 
 #### 0 ❓ - Other

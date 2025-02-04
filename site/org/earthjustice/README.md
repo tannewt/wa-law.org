@@ -9,6 +9,12 @@
 
 ### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
 
+### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment 👍1  
+
+### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
+
+### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth 👍1  
+
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
 * ❓ Eric Gonzalez Alfaro
 

@@ -6,15 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201605)
+
 ## Meetings
 ### Mon 02/03 04:00 PM - Transportation (TR): HB 1605 State patrol longevity bonus
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32617&aId=162516&caId=25483&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32617&aId=162516&caId=25483&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32617&aId=162516&caId=25483&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32617&aId=162516&caId=25483&tId=4)
-
-#### 8 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Spike Unruh - Washington State Patrol Troopers Association
 * Will Stellmacher - Washington State Patrol Lieutenants and Captains Association (WSPLCA)

@@ -9,18 +9,21 @@
 ### [HB 1260](/bill/2025-26/hb/1260/) - Document recording fee admin 👍1  
 * 👍💵 Nick Federici
 
-### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
+### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 * 👍 Zack Zappone
 
-## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 * 👍 Marlene Feist
+
+## [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍1  
+* 👍💵 Paul Dillon
 
 ## 2023-24
 
-### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management 👍1  
-* 👍 Marlene Feist
+### [SB 5558](/bill/2023-24/sb/5558/) - Growth management comp plans 👍1  
+* 👍💵 Paul Dillon
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

@@ -7,28 +7,30 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201673)
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201673)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201673)
 
 ## Meetings
 ### Mon 02/03 01:30 PM - Environment & Energy (ENVI): HB 1673 Electric transmission system
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32650&aId=162691&caId=25409&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32650&aId=162691&caId=25409&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32650&aId=162691&caId=25409&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32650&aId=162691&caId=25409&tId=4)
-
-#### 12 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * 💵Emily Moore - [Sightline Institute](/org/sightline_institute/)
 * 💵Cassie Bordelon - Climate Jobs WA
 * 💵Matthew Hepner - Certified Electrical Workers of WA
 * Casey MacLean - Renewable NW
+* 💵Jason Hudson - IBEW Local 77
+* 💵Maya Gillett
+* 💵Altinay Karasapan - [Climate Solutions](/org/climate_solutions/)
+* Caitlin Krenn - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵Nadine Nadow - [Conservation Northwest](/org/conservation_northwest/)
 
-#### 356 👎 - Con
+#### 421 👎 - Con
 Testifying:
 * JENNIFER PANTANO
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 
-#### 6 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Glenn Blackmon - Washington State Department of Commerce
 * 💵Jay Balasbas - PacifiCorp
@@ -36,3 +38,5 @@ Testifying:
 * 💵Vicki Christophersen - Northwest and Intermountain Power Producers Coalition
 * 💵Dave Warren - Klickitat PUD and Okanogan PUD
 * 💵Maggie Douglas
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+* 💵Nicolas Garcia - WPUDA

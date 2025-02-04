@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1310/</link>
 		<description>Updates about HB 1310</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 10:26:12 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 18:10:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -234,6 +234,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Charlie/Brown/2025-01-29 10:26:12</guid>
+		</item>
+		<item>
+			<title>Week Four: Big 3 Bills Continue to Advance - WSPTA</title>
+			<description>News article "Week Four: Big 3 Bills Continue to Advance - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 03 Feb 2025 18:10:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201310</guid>
 		</item>
 	</channel>
 </rss>

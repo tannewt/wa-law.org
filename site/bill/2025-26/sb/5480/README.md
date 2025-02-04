@@ -11,22 +11,26 @@
 
 ## Meetings
 ### Tue 02/04 08:00 AM - Law & Justice (LAW): SB 5480 Medical debt
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162393&caId=25290&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162393&caId=25290&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162393&caId=25290&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162393&caId=25290&tId=4)
-
-#### 165 👍 - Pro
+#### 233 👍 - Pro
 Testifying:
 * Arthur West
 * 💵Adam Zarrin - [Leukemia & Lymphoma Society](/org/leukemia_&_lymphoma_society/)
 * Amanda Martin - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
 * Julia Kellison - Northwest Justice Project
+* Kristopher Shook
+* Teddi McGuire - Providence
+* Kris Shook
 
-#### 731 👎 - Con
+#### 970 👎 - Con
 Testifying:
 * 💵Kelsi Hamilton - Washington Collectors Assoc.
 * Kris Quigley - CDIA
+* Andrew Roskam - [Receivables Management Association International](/org/receivables_management_association_international/)
+* 💵Diana Carlen - PRA Group, Inc.
+* Joshua Hurwitz - Emergency Medicine Associates
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
+* 💵Malorie Toman - Washington State Medical Association (WSMA)
+* Katie Kolan - Washington State Hospital Association (WSHA)

@@ -1,16 +1,19 @@
 # Retired Public Employees Council of Washington
 ## 2025-26
 
+### [HB 1040](/bill/2025-26/hb/1040/) - Rental income/property tax 👍1  
+* 👍💵 Laurie Weidner
+
 ### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍23  
 * 👍💵 Laurie Weidner
 
-### [HB 1165](/bill/2025-26/hb/1165/) - Property tax exemptions 👍1  
+### [HB 1165](/bill/2025-26/hb/1165/) - Property tax exemptions 👍2  
 
 ### [HB 1204](/bill/2025-26/hb/1204/) - Senior shared housing 👍1  
 
 ### [HB 1312](/bill/2025-26/hb/1312/) - Retirement benefits/death 👍13  
 
-### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase 👍36  
+### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase 👍37  
 
 ### [HB 1504](/bill/2025-26/hb/1504/) - Firearm financial resp.  👎1 
 

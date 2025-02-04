@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32641&aId=162446&caId=25234&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32641&aId=162446&caId=25234&tId=4)
 
-#### 3 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * 💵Jay Balasbas - PacifiCorp
 * Jillian Caires - Avista Corporation
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Scott Hazlegrove - Weyerhaeuser

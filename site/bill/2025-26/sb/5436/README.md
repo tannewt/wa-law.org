@@ -8,14 +8,14 @@
 
 ## Meetings
 ### Tue 02/04 08:00 AM - Law & Justice (LAW): SB 5436 Worship/access interference
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162395&caId=25292&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162395&caId=25292&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162395&caId=25292&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162395&caId=25292&tId=4)
+#### 272 👍 - Pro
+Testifying:
+* Arthur West
+* Puneet Kaur
+* Kelsi Adams - Temple Beth Shalom, Spokane
+* 💵Kristin Ang - [Faith Action Network](/org/faith_action_network/)
+* Miri Cypers - ADL Pacific Northwest
 
-#### 173 👍 - Pro
-
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2025 [The Center Square](/org/the_center_square/) - [Op-Ed: Massive tax increase proposed for single-payer health care in Washington state | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_87bc2c9e-e24a-11ef-bf94-c3c3a0c72592.html#:~:text=Senate%20Bill%205233)
+
 ## Meetings

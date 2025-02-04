@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5210/</link>
 		<description>Updates about SB 5210</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 15 Jan 2025 10:26:30 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 18:10:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -115,6 +115,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Liz/Trautman/2025-01-15 10:26:30</guid>
+		</item>
+		<item>
+			<title>Week Four: Big 3 Bills Continue to Advance - WSPTA</title>
+			<description>News article "Week Four: Big 3 Bills Continue to Advance - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 03 Feb 2025 18:10:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205210</guid>
 		</item>
 	</channel>
 </rss>

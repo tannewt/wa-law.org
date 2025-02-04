@@ -1,7 +1,7 @@
 # Catholic Community Services of Western Washington
 ## 2025-26
 
-### [HB 1177](/bill/2025-26/hb/1177/) - Concerning the child welfare housing assistance program. 👍1  
+### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍1  
 
 ### [HB 1307](/bill/2025-26/hb/1307/) - Child care product sales tax 👍1  
 * 👍 Aleah Patulot

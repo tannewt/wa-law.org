@@ -1,8 +1,14 @@
 # Washington Student Association
 ## 2025-26
 
+### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
+* 👍 Heba Qatrani
+
 ### [HB 1278](/bill/2025-26/hb/1278/) - Higher ed. gov./students 👍2  
 * 👍 Sean Behl
+
+### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
+* 👍💵 Isela Bonilla
 
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 * 👍💵 Isela Bonilla

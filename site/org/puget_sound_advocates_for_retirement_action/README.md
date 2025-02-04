@@ -5,7 +5,8 @@
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
-### [HB 1603](/bill/2025-26/hb/1603/) - Medicare supp. coverage 👍1  
+### [HB 1603](/bill/2025-26/hb/1603/) - Medicare supp. coverage 👍2  
+* 👍 Robby Stern
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 

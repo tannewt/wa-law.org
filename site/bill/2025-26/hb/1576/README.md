@@ -14,10 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162654&caId=25465&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162654&caId=25465&tId=4)
 
-#### 38 👍 - Pro
+#### 62 👍 - Pro
+Testifying:
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 46 👎 - Con
+#### 155 👎 - Con
 Testifying:
 * Sarah Wall
+* Alexis Gamber
+* Chris Moore - Washington Trust for Historic Preservaton
+* Eugenia Woo - Historic Seattle
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)

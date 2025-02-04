@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1099/</link>
 		<description>Updates about HB 1099</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 01 Feb 2025 04:39:15 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 09:19:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -50,6 +50,13 @@
 			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
 			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201099</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
+			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201099</guid>
 		</item>
 		<item>
@@ -67,6 +74,78 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Deborah/Wilson/2025-02-01 04:39:15</guid>
+		</item>
+		<item>
+			<title>👎💵Curtis Steinhauer - Washington State Association of Counties</title>
+			<description>Curtis Steinhauer signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_association_of_counties/"&gt;Washington State Association of Counties&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 03 Feb 2025 05:32:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Curtis/Steinhauer/2025-02-03 05:32:50</guid>
+		</item>
+		<item>
+			<title>👎Donna Alber - Washington State Association of Counties</title>
+			<description>Donna Alber signed up to testify Con.</description>
+			<pubDate>Mon, 03 Feb 2025 06:07:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Donna/Alber/2025-02-03 06:07:56</guid>
+		</item>
+		<item>
+			<title>👍Anne Knapp - Rental Housing Assn Coalition (RHAC)</title>
+			<description>Anne Knapp signed up to testify Pro.</description>
+			<pubDate>Mon, 03 Feb 2025 06:28:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Anne/Knapp/2025-02-03 06:28:45</guid>
+		</item>
+		<item>
+			<title>👎Caroline Hardy - Leisure Manor Tenants Association</title>
+			<description>Caroline Hardy signed up to testify Con. They are signed up to represent Leisure Manor Tenants Association.</description>
+			<pubDate>Mon, 03 Feb 2025 06:34:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Caroline/Hardy/2025-02-03 06:34:35</guid>
+		</item>
+		<item>
+			<title>👍GORDON HAGGERTY - 2310 Yale Apts., LLC</title>
+			<description>GORDON HAGGERTY signed up to testify Pro. They are signed up to represent 2310 Yale Apts., LLC.</description>
+			<pubDate>Mon, 03 Feb 2025 10:13:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/GORDON/HAGGERTY/2025-02-03 10:13:09</guid>
+		</item>
+		<item>
+			<title>👍Tracey Judah - Dove Property Management</title>
+			<description>Tracey Judah signed up to testify Pro. They are signed up to represent Dove Property Management.</description>
+			<pubDate>Mon, 03 Feb 2025 10:29:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tracey/Judah/2025-02-03 10:29:03</guid>
+		</item>
+		<item>
+			<title>👎Anthony Holan - Leisure Manor Tenants Association</title>
+			<description>Anthony Holan signed up to testify Con.</description>
+			<pubDate>Tue, 04 Feb 2025 06:35:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Anthony/Holan/2025-02-04 06:35:10</guid>
+		</item>
+		<item>
+			<title>👎Atina Holan - Leisure Manor Tenants Association</title>
+			<description>Atina Holan signed up to testify Con.</description>
+			<pubDate>Tue, 04 Feb 2025 06:54:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Atina/Holan/2025-02-04 06:54:16</guid>
+		</item>
+		<item>
+			<title>❓Tedd Kelleher - Department of Commerce</title>
+			<description>Tedd Kelleher signed up to testify Other. They are signed up to represent Department of Commerce.</description>
+			<pubDate>Tue, 04 Feb 2025 09:19:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Tedd/Kelleher/2025-02-04 09:19:02</guid>
 		</item>
 	</channel>
 </rss>

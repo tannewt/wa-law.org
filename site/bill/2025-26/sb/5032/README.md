@@ -7,17 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers confront juvenile detention overcrowding crisis • Washington State Standard](https://washingtonstatestandard.com/2025/02/03/washington-lawmakers-confront-juvenile-detention-overcrowding-crisis/#:~:text=Senate%20Bill%205032)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 Legislative Session Update! - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/24/2025-legislative-session-update/#:~:text=SB%205032)
 
 ## Meetings
 ### Mon 02/03 04:00 PM - Ways & Means (WM): SB 5032 Juvenile rehab. ombuds
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162894&caId=25325&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162894&caId=25325&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162894&caId=25325&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162894&caId=25325&tId=4)
-
-#### 7 👍 - Pro
+#### 16 👍 - Pro
 
 #### 0 👎 - Con
 

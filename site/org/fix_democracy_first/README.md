@@ -5,9 +5,10 @@
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  
 
-### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
+### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
-### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍2  
+### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍3  
+* 👍💵 Cindy Black
 
 ### [HB 1223](/bill/2025-26/hb/1223/) - Voter challenges 👍1  
 

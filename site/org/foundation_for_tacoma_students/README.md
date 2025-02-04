@@ -32,6 +32,8 @@
 
 ### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 
+### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
+
 ## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 
 ## 2023-24

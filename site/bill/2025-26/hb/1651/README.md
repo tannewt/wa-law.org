@@ -7,21 +7,19 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201651)
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201651)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201651)
 
 ## Meetings
 ### Mon 02/03 01:30 PM - Education (ED): HB 1651 Teacher residency & apprent.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162508&caId=25403&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162508&caId=25403&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162508&caId=25403&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162508&caId=25403&tId=4)
-
-#### 18 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * John Axtell
 * Dr. Erica Hernandez-Scott - PESB
 
-#### 235 👎 - Con
+#### 266 👎 - Con
+Testifying:
+* 💵Lorrell Noahr - [Washington Education Association](/org/washington_education_association/)
 
 #### 0 ❓ - Other

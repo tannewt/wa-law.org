@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201639)
+
 ## Meetings
 ### Fri 02/07 08:00 AM - Health Care & Wellness (HCW): HB 1639 Medicare advantage discl.
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32622&aId=162473&caId=25443&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32622&aId=162473&caId=25443&tId=4)
 
-#### 16 👍 - Pro
+#### 100 👍 - Pro
 
 #### 1 👎 - Con
 

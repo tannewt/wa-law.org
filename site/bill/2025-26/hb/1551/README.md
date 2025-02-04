@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201551)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201551)
 
 ## Meetings
@@ -17,8 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162412&caId=25384&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162412&caId=25384&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
 
-#### 2 👎 - Con
+#### 61 👎 - Con
+Testifying:
+* Jferrich Oba - Black Excellence In Cannabis
+* Mike Asai - Black Excellence In Cannabis
+* Peter Manning - Black Excellence In Cannabis
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Rolando Rodriguez - Green Roads Cannabis
+* Caitlein Ryan - CAITLEIN RYAN

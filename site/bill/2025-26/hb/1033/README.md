@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* [House Republicans](/org/house_republicans/) - [Stronger Economy | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/stronger-economy/#:~:text=House%20Bill%201033)
+
 ## Meetings

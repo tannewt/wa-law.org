@@ -4,22 +4,22 @@
 ### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍4  
 * 👍💵 Kristin Ang
 
-### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
+### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
 
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
 
-### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
+### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍2  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍6  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍7  
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
 * 👍💵 Kristin Ang
 
-### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
+### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍2  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍3  
 
@@ -27,7 +27,7 @@
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍2  
 
-### [SB 5101](/bill/2025-26/sb/5101/) - Expanding access to leave and safety accommodations to include workers who are victims of hate crimes or bias incidents. 👍1  
+### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
 * 👍💵 Kristin Ang
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍2  
@@ -36,19 +36,20 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 
-### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
+### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍2  
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍2  
 * 👍 Katherine Long
 * 👍 Jess Ingman
 
-### [SB 5436](/bill/2025-26/sb/5436/) - Interfering with access to a place of religious worship. 👍1  
+### [SB 5436](/bill/2025-26/sb/5436/) - Interfering with access to a place of religious worship. 👍2  
+* 👍💵 Kristin Ang
 
-## [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
+## [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍2  
 
 ## 2023-24
 
-### [SB 5626](/bill/2023-24/sb/5626/) - Wage replacement 👍1  
+### [SB 5626](/bill/2023-24/sb/5626/) - Wage replacement 👍2  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Kristin Ang

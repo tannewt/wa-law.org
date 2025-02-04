@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201140)
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201140)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201140)
 
 ## Meetings
@@ -17,19 +19,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32656&aId=162515&caId=25407&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32656&aId=162515&caId=25407&tId=4)
 
-#### 143 👍 - Pro
+#### 167 👍 - Pro
 Testifying:
 * 💵Heather Andrews - Americans for Prosperity Washington
 * Vicki Murray - Washington Policy Center
 * John Axtell
 * Lauren Griffin
 * Meghan Lucas
+* Eric Pratt - America
+* Wes Martin
 
-#### 586 👎 - Con
+#### 699 👎 - Con
 Testifying:
 * Justin McKaughan - Molly and Jack’s dad
 * Kailey Mutter
 * Kyle Kielty
 * Kyrian MacMichael - Olympia Education Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

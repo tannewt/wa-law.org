@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162469&caId=25439&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162469&caId=25439&tId=4)
 
-#### 18 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Barbara Sardarov
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Dr. Romilla Batra - [Premera Blue Cross](/org/premera_blue_cross/)
 
 #### 0 ❓ - Other

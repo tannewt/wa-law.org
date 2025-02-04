@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201442)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201442)
 
 ## Meetings
@@ -17,14 +18,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162491&caId=25345&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162491&caId=25345&tId=4)
 
-#### 99 👍 - Pro
+#### 215 👍 - Pro
 Testifying:
 * Zack Trudell - Ferry County Board of County Commissioners
 * John Axtell
+* Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
 
-#### 633 👎 - Con
+#### 752 👎 - Con
 Testifying:
 * David Linn
 * John Roskelley
+* Ronald Reed - Retired
 
 #### 1 ❓ - Other

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201491)
 * 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201491)
 * 01/24/2025 [The Urbanist](/org/the_urbanist/) - [Ferguson Transition Team: Transit-Oriented Development Should Be ‘Top Priority’ - The Urbanist](https://www.theurbanist.org/2025/01/24/ferguson-team-transit-oriented-development-should-be-top-priority/#:~:text=House%20Bill%201491)
 * 01/22/2025 [The Urbanist](/org/the_urbanist/) - [Washington Legislature Sets it Sights on Transit-Oriented Development…Again - The Urbanist](https://www.theurbanist.org/2025/01/22/washington-legislature-sets-it-sights-on-transit-oriented-development-again/#:~:text=House%20Bill%201491)

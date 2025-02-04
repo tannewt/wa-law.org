@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1491/</link>
 		<description>Updates about HB 1491</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 11:05:29 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -178,6 +178,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Carl/Schroeder/2025-01-28 11:05:29</guid>
+		</item>
+		<item>
+			<title>The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats</title>
+			<description>News article "The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201491</guid>
 		</item>
 	</channel>
 </rss>

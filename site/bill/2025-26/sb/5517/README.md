@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=162608&caId=25231&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=162608&caId=25231&tId=4)
 
-#### 1364 👍 - Pro
+#### 1560 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Larisss Mccray
@@ -23,7 +23,9 @@ Testifying:
 * 💵Janie White - [Washington Education Association](/org/washington_education_association/)
 * 💵Larry Delaney
 * Shara Yackel
+* Leslie Maxwell
+* Bay Knight
 
-#### 7 👎 - Con
+#### 46 👎 - Con
 
-#### 12 ❓ - Other
+#### 13 ❓ - Other

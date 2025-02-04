@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Mon 02/03 04:00 PM - Ways & Means (WM): SB 5541 Future fund pilot project
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162911&caId=25329&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162911&caId=25329&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162911&caId=25329&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162911&caId=25329&tId=4)
+#### 245 👍 - Pro
+Testifying:
+* 💵Gabriela Quintana - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Karim Lessard - 7 simple solutions/ self
+* Mike Pellicciotti - State Treasurer
 
-#### 182 👍 - Pro
-
-#### 878 👎 - Con
+#### 1089 👎 - Con
 
 #### 0 ❓ - Other

@@ -8,17 +8,12 @@
 
 ## Meetings
 ### Mon 02/03 10:30 AM - Labor & Commerce (LC): SB 5265 Electrical inspector exp.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162617&caId=25274&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162617&caId=25274&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162617&caId=25274&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162617&caId=25274&tId=4)
-
-#### 62 👍 - Pro
+#### 74 👍 - Pro
 Testifying:
 * Shree Thirunagari - [City of Vancouver](/org/city_of_vancouver/)
+* John Kendall - [City of Vancouver](/org/city_of_vancouver/)
 
-#### 9 👎 - Con
+#### 31 👎 - Con
 Testifying:
 * Clint Byson - ibew 76
 * Lisa fosberg - ibew 76

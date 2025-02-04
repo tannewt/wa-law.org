@@ -7,6 +7,8 @@
 ### [HB 1080](/bill/2025-26/hb/1080/) - Lodging fee disclosure  👎1 
 * 👎💵 Julia Gorton
 
+### [HB 1121](/bill/2025-26/hb/1121/) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 👍1  
+
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎2 
 
 ### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers  👎1 
@@ -54,13 +56,19 @@
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎1 
 * 👎💵 Samantha Louderback
 
+### [HB 1644](/bill/2025-26/hb/1644/) - Working minors  👎1 
+
+### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy  👎1 
+* 👎 Sean DeWitz
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Julia Gorton
 
 ### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates 👍1  
 * 👍💵 Samantha Louderback
 
-### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
+### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
+* 👍 Sean DeWitz
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 
 
@@ -71,7 +79,7 @@
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍2  
 * 👍💵 Julia Gorton
 
-### [SB 5101](/bill/2025-26/sb/5101/) - Expanding access to leave and safety accommodations to include workers who are victims of hate crimes or bias incidents.   ❓1
+### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes   ❓1
 * ❓💵 Julia Gorton
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  

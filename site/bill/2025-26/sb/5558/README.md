@@ -8,20 +8,16 @@
 
 ## Meetings
 ### Mon 02/03 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5558 Growth management comp plans
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162878&caId=25297&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162878&caId=25297&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162878&caId=25297&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162878&caId=25297&tId=4)
-
-#### 17 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Jacob Gonzalez - City of Pasco, Planning
 * Scott Chesney - Planning Director, Spokane County
 * Al French - Spokane County Commissioner
+* 💵Paul Dillon - [City of Spokane](/org/city_of_spokane/)
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)

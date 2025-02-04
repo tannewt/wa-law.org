@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32688&aId=162743&caId=25365&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32688&aId=162743&caId=25365&tId=4)
 
-#### 3 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Cara Helmer - Washington State Hospital Association
+* Kris Tefft - Washington Liability Reform Coalition
+* Jennifer Hanscom - Washington State Medical Association
 
-#### 112 👎 - Con
+#### 137 👎 - Con
+Testifying:
+* Colleen Durkin Peterson - Washington State Association for Justice
+* Nate Roberts - Washington State Association for Justice
 
 #### 0 ❓ - Other

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201671)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201671)
 
 ## Meetings
@@ -17,16 +18,33 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32657&aId=162645&caId=25482&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32657&aId=162645&caId=25482&tId=4)
 
-#### 7 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Caitriona Fitzgerald - Electronic Privacy Information Center (EPIC)
 * Matt Schwartz - [Consumer Reports](/org/consumer_reports/)
 * Ben Winters - Consumer Federation of America
 * Jai Jaisimha - Transparency Coalition.ai
 * Ellen Hengesbach - U.S. Public Interest Research Group (PIRG)
+* Felix Goodman - Lake Washington High School, Capitol Classroom
+* Kimiko Low - Lake Washington High School, Capitol Classroom
+* Maya Morales - Founder, WA People's Privacy
+* Anish Sharma
+* Jonathan Pincus
+* 💵Sandra Toussaint - ACLU of Washington
 
-#### 78 👎 - Con
+#### 191 👎 - Con
 Testifying:
 * 💵Andrew Kingman - [State Privacy & Security Coalition](/org/state_privacy_&_security_coalition/)
+* Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Katie Beeson - Washington Food Industry Association
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Kelly Fukai - WTIA
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Rose Feliciano - TECHNET
+* Robert Singleton - Chamber of Progress
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters
+* Richard Varn - Coalition for Sensible Public Records Access

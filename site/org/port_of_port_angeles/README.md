@@ -11,13 +11,14 @@
 
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 
-## [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍2  
+### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍2  
 * 👍 Martin Marchant
+
+## [SB 5370](/bill/2025-26/sb/5370/) - Port commissioner terms 👍1  
 
 ## 2023-24
 
-### [SB 5281](/bill/2023-24/sb/5281/) - Vessel length/nonresident 👍2  
-* 👍 Martin Marchant
+### [SB 5370](/bill/2023-24/sb/5370/) - Port commissioner terms 👍1  
 
 ### [HB 1257](/bill/2023-24/hb/1257/) - Cargo and passenger ports 👍1  
 

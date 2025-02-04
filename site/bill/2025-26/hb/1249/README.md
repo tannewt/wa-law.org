@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201249)
+* [House Republicans](/org/house_republicans/) - [Cleaner Washington | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/cleaner-washington/#:~:text=House%20Bill%201249)
 
 ## Meetings
 ### Mon 01/27 01:30 PM - Environment & Energy (ENVI): HB 1249 Advanced nuclear commission

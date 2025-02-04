@@ -6,16 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201214)
+
 ## Meetings
 ### Tue 02/04 08:00 AM - Finance (FIN): HB 1214 Working families' tax credit
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32632&aId=162461&caId=25423&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32632&aId=162461&caId=25423&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32632&aId=162461&caId=25423&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32632&aId=162461&caId=25423&tId=4)
+#### 654 👍 - Pro
+Testifying:
+* 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
+* Virginia Parham
+* Mayauna Renae - Mockingbird Youth Advocacy Team
 
-#### 348 👍 - Pro
+#### 4 👎 - Con
 
-#### 1 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other

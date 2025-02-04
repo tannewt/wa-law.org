@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32695&aId=162803&caId=25273&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32695&aId=162803&caId=25273&tId=4)
 
-#### 28 👍 - Pro
+#### 50 👍 - Pro
+Testifying:
+* Michael Mirra - Assoc. of Wash. Housing Authorities; Admin. Office of the Courts Comm. on Housing & Child Welfare
+* Kim Justice - Partners for Our Children
 
 #### 0 👎 - Con
 

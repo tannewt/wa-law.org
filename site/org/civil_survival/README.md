@@ -6,9 +6,13 @@
 
 ### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍1  
 
-### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
+### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
 ### [HB 1166](/bill/2025-26/hb/1166/) - DOC reentry education 👍2  
+
+### [HB 1180](/bill/2025-26/hb/1180/) - Implementing certain recommendations from the sex offender policy board concerning the criminal offense of failure to register. 👍1  
+
+### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍2  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
@@ -27,13 +31,15 @@
 ### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍3  
 * 👍💵 Kelly Olson
 
+### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
+
 ### [SB 5342](/bill/2025-26/sb/5342/) - Legislators/state facilities 👍1  
 
-## [SB 5584](/bill/2025-26/sb/5584/) - OII expansion/prosecutions 👍1  
+## [SB 5584](/bill/2025-26/sb/5584/) - OII expansion/prosecutions 👍2  
 
 ## 2023-24
 
-### [SB 5584](/bill/2023-24/sb/5584/) - OII expansion/prosecutions 👍1  
+### [SB 5584](/bill/2023-24/sb/5584/) - OII expansion/prosecutions 👍2  
 
 ### [HB 1169](/bill/2023-24/hb/1169/) - Legal financial obligations 👍3  
 

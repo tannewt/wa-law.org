@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163041&caId=25502&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163041&caId=25502&tId=4)
 
-#### 5 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Henry Strom - Office of Superintendent of Public Instruction
+* Lisa Ganuelas - [Confederated Tribes of the Umatilla Indian Reservation](/org/confederated_tribes_of_the_umatilla_indian_reservation/)
 
-#### 0 👎 - Con
+#### 32 👎 - Con
 
 #### 0 ❓ - Other

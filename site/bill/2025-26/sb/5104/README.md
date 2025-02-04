@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [Hasegawa bill to protect employees from immigration-status-based coercion - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/02/03/hasegawa-bill-to-protect-employees-from-immigration-status-based-coercion/#:~:text=5104)
+
 ## Meetings
 ### Mon 01/20 10:30 AM - Labor & Commerce (LC): SB 5104 Immigration status coercion
 #### 137 👍 - Pro

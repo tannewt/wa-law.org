@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162810&caId=25282&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162810&caId=25282&tId=4)
 
-#### 453 👍 - Pro
+#### 883 👍 - Pro
 Testifying:
 * Habtamu Asfaw
 * Brad Brotherton - Brotherton Cadillac GMC, Washington State Auto Dealers Association
@@ -24,8 +24,9 @@ Testifying:
 * Xavier Cortes - Cortes Auto Group, Washington State Auto Dealers Association
 * brian reder - brotherton cadillac
 * Austin Embody - Cadillac Brotherton
+* Rondi Thorp - Washington State Association for Justice
 
-#### 299 👎 - Con
+#### 328 👎 - Con
 Testifying:
 * 💵Noelani Derrickson - [Tesla](/org/tesla/)
 * Angela Tsang
@@ -119,8 +120,20 @@ Testifying:
 * BERT ATWATER
 * Nancy Blackketter
 * Kailie Armstrong
+* Jonah Lewis
+* Ava Ames - [Tesla](/org/tesla/)
+* Hannah Steinweg - Rivian
+* Mike Cruz - Lucid Motors
+* Adele Poenisch - no
+* Michael Le
+* Kelly Cao
+* Skye Golann - Electrification Coalition
+* Gregg DuPont
+* Ava Ames - [Tesla](/org/tesla/)
+* Eric Jones
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Habtie Desta
 * Majidreza Goudarzy
+* Curt Augustine - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)

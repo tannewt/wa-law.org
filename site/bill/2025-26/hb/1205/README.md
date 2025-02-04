@@ -16,6 +16,9 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Robert Singleton - Chamber of Progress
+* 💵Rose Feliciano - TechNet

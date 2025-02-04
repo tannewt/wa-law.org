@@ -16,6 +16,8 @@
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council.   ❓1
 * ❓💵 Altinay Karasapan
 
+### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements 👍1  
+
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
@@ -30,6 +32,12 @@
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 
+### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
+* 👍💵 Altinay Karasapan
+
+### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth 👍1  
+* 👍 Kurt Ellison
+
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 * 👍💵 Leah Missik
 
@@ -43,11 +51,20 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
-## [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
+### [SB 5377](/bill/2025-26/sb/5377/) - Motor vehicle dealers  👎1 
+
+### [SB 5401](/bill/2025-26/sb/5401/) - Wholesale power purchases   ❓1
+* ❓💵 Leah Missik
+
+### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
+
+## [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
+* 👍💵 Leah Missik
 
 ## 2023-24
 
-### [SB 5438](/bill/2023-24/sb/5438/) - Hydrofluorocarbons 👍1  
+### [SB 5592](/bill/2023-24/sb/5592/) - Zero emissions vehicles/sale 👍1  
+* 👍💵 Leah Missik
 
 ### [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍2  
 * 👍💵 Leah Missik

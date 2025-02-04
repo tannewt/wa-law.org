@@ -14,10 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162987&caId=25283&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162987&caId=25283&tId=4)
 
-#### 97 👍 - Pro
+#### 137 👍 - Pro
+Testifying:
+* Mark Bandy - Seattle FIFA World Cup Local Organizing Committee
+* Abdullahi Shakul
+* Afewerki Melaki - Eritrean Association in Greater Seattle
+* Kyle Graham
+* Peter Kuel - Drivers Union
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * 💵Nicholas Johnson - Lyft, Inc.
+* 💵Vicki Christophersen - Technet
+* Zahid Arab - Uber Technologies, Inc
 
 #### 10 ❓ - Other

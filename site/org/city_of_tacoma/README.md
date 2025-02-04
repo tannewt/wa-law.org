@@ -1,6 +1,8 @@
 # City of Tacoma
 ## 2025-26
 
+### [HB 1016](/bill/2025-26/hb/1016/) - Providing employer tax incentives for the support of veterans and military families. 👍1  
+
 ### [HB 1116](/bill/2025-26/hb/1116/) - Recognizing election day. 👍1  
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
@@ -13,7 +15,8 @@
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 
-### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
+### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
+* 👍 Alex MacBain
 * 👍 Alex MacBain
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓1
@@ -24,11 +27,13 @@
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍2  
 
-## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+
+## [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 
 ## 2023-24
 
-### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management 👍1  
+### [SB 5541](/bill/2023-24/sb/5541/) - Future fund pilot project 👍1  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 

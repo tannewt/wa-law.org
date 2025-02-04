@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2025 [KING5](/org/king5/) - [Lawmakers consider tougher penalties to protect youth sport referees | king5.com](https://www.king5.com/article/news/politics/state-politics/law-penalties-youth-sports-referees-harassment/281-11c1d613-5173-4526-9eb7-1805f4c76f6c#:~:text=Senate%20Bill%205272)
+
 ## Meetings
 ### Thu 01/30 10:30 AM - Early Learning & K-12 Education (EDU): SB 5272 School safety/penalties
 #### 61 👍 - Pro

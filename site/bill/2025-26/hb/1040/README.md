@@ -8,13 +8,10 @@
 
 ## Meetings
 ### Tue 02/04 08:00 AM - Finance (FIN): HB 1040 Rental income/property tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32632&aId=162431&caId=25420&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32632&aId=162431&caId=25420&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32632&aId=162431&caId=25420&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32632&aId=162431&caId=25420&tId=4)
-
-#### 0 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Brian Windrope - Senior Services for South Sound
+* 💵Laurie Weidner - [Retired Public Employees Council of Washington](/org/retired_public_employees_council_of_washington/)
 
 #### 0 👎 - Con
 

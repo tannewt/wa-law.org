@@ -8,13 +8,11 @@
 
 ## Meetings
 ### Mon 02/03 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5370 Port commissioner terms
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162875&caId=25294&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162875&caId=25294&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162875&caId=25294&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162875&caId=25294&tId=4)
-
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* John Spencer - Port of Camas-Washougal
+* Rick Hoffman - Port of Lopez
 
 #### 3 👎 - Con
 

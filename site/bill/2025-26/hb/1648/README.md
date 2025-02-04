@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162532&caId=25394&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162532&caId=25394&tId=4)
 
-#### 6 👍 - Pro
+#### 67 👍 - Pro
+Testifying:
+* Dana Christiansen - Childcare provider - Tree Hill
+* Lauren Adams
+* Sarah Clark - Seattle Metropolitan Chamber of Commerce
+* JIHYE LEE
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 1 ❓ - Other

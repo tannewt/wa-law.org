@@ -1,7 +1,8 @@
 # The Arc of King County
 ## 2025-26
 
-### [HB 1051](/bill/2025-26/hb/1051/) - IEP team meetings/recording 👍1  
+### [HB 1051](/bill/2025-26/hb/1051/) - IEP team meetings/recording 👍2  
+* 👍💵 Ramona Hattendorf
 
 ### [HB 1130](/bill/2025-26/hb/1130/) - Concerning utilization of developmental disabilities waivers. 👍1 👎1 
 

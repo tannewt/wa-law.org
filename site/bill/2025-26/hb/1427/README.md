@@ -14,10 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162463&caId=25433&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162463&caId=25433&tId=4)
 
-#### 4 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Joshua Wallace - Peer Washington
+* Jason Clark - Northwest Credible Messenger
+* Hanimcan Ocak - Northwest credible messengers
+* Genaro Sanchez - OUR Journey Youth Empowerment Group
+* Johnny Cheng - Northwest Credible Messenger
+* Turner Yarbrough - Northwest Credible Messenger
+* Stephaine Courtney - The Shades of Motherhood Network
 
-#### 256 👎 - Con
+#### 520 👎 - Con
+Testifying:
+* Atina Holan
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Kim Zacher - Comprehensive Life Resources & WA Council for Behavioral Health

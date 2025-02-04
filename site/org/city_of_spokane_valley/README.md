@@ -21,6 +21,8 @@
 
 ### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  
 
+### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements  👎1 
+
 ### [HB 1315](/bill/2025-26/hb/1315/) - Impaired driving 👍1  
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
@@ -29,7 +31,15 @@
 
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 
 
+### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings  👎1 
+
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓1
+
+### [HB 1529](/bill/2025-26/hb/1529/) - Cities/county road resources 👍1  
+
+### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍1  
+
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact   ❓1
 
@@ -62,7 +72,11 @@
 
 ### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
 
+### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential   ❓1
+
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
+
+### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
 
 ## [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍1  
 

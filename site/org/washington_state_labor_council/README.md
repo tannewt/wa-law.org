@@ -1,12 +1,15 @@
 # Washington State Labor Council
 ## 2025-26
 
-## [SB 5101](/bill/2025-26/sb/5101/) - Expanding access to leave and safety accommodations to include workers who are victims of hate crimes or bias incidents. 👍1  
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
+* 👍 Cherika Carter
+
+## [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
 * 👍💵 Christoph Mair
 
 ## 2023-24
 
-### [SB 5101](/bill/2023-24/sb/5101/) - Expanding access to leave and safety accommodations to include workers who are victims of hate crimes or bias incidents. 👍1  
+### [SB 5101](/bill/2023-24/sb/5101/) - Worker leave/hate crimes 👍1  
 * 👍💵 Christoph Mair
 
 ### [HB 1050](/bill/2023-24/hb/1050/) - Apprenticeship utilization 👍1  

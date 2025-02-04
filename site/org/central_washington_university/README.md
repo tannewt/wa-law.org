@@ -13,6 +13,8 @@
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 * 👍 Steve DuPont
 
+### [HB 1565](/bill/2025-26/hb/1565/) - Dual enrollment scholarship 👍1  
+
 ### [SB 5119](/bill/2025-26/sb/5119/) - Academic employee bargaining 👍1  
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  

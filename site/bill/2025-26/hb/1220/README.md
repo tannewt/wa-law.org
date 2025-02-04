@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 02/03 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1220 Behavioral health/assaults
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162669&caId=25372&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162669&caId=25372&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162669&caId=25372&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32679&aId=162669&caId=25372&tId=4)
-
-#### 13 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Kate Benward
 * Kathy McDonald - Parent
@@ -24,12 +18,15 @@ Testifying:
 * 💵Kimberly Mosolf
 * 💵Anna Nepomuceno - NAMI Washington
 * Katie Hurley - King County Department of Public Defense
+* 💵Lindsey Grad - SEIU Healthcare 1199NW
 
-#### 14 👎 - Con
+#### 23 👎 - Con
 Testifying:
 * Brittany Nave
 * Dr. Ryan Keay - Washington Chapter - American College of Emergency Physicians
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Tyler Chavers - City of Vancouver Homeless Response Coordinator
+* Justin Gill - Washington State Nurses Association

@@ -8,6 +8,8 @@
 ### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍1  
 * 👍💵 Simone Boe
 
+### [HB 1032](/bill/2025-26/hb/1032/) - School district elections 👍1  
+
 ### [HB 1035](/bill/2025-26/hb/1035/) - Higher ed. traumatic stress 👍4  
 * 👍💵 Simone Boe
 * 👍💵 Sue Nightingale
@@ -45,9 +47,9 @@
 ### [HB 1136](/bill/2025-26/hb/1136/) - Student navigational support 👍2  
 * 👍💵 Simone Boe
 
-### [HB 1140](/bill/2025-26/hb/1140/) - Establishing empowerED scholarships using educational savings accounts.  👎1 
+### [HB 1140](/bill/2025-26/hb/1140/) - Establishing empowerED scholarships using educational savings accounts.  👎2 
 
-### [HB 1147](/bill/2025-26/hb/1147/) - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation. 👍1  
+### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
 
@@ -55,11 +57,11 @@
 
 ### [HB 1172](/bill/2025-26/hb/1172/) - Fire district civil service 👍1  
 
-### [HB 1182](/bill/2025-26/hb/1182/) - Granting interest arbitration to certain parks and recreation commission employees. 👍1  
+### [HB 1182](/bill/2025-26/hb/1182/) - Parks & rec./interest arb. 👍1  
 
 ### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍1  
 
-### [HB 1186](/bill/2025-26/hb/1186/) - Expanding the situations in which medications can be dispensed or delivered from hospitals and health care entities. 👍1  
+### [HB 1186](/bill/2025-26/hb/1186/) - Medication dispensing 👍1  
 
 ### [HB 1188](/bill/2025-26/hb/1188/) - Requiring local government and tribal approval of wind and solar siting recommendations by the energy facility site evaluation council.  👎1 
 
@@ -78,7 +80,7 @@
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
 
@@ -155,6 +157,8 @@
 * ❓ Jared Mason-Gere
 * ❓ Jared Mason-Gere
 
+### [HB 1489](/bill/2025-26/hb/1489/) - Childhood ed./impl. dates  👎1 
+
 ### [HB 1511](/bill/2025-26/hb/1511/) - Ferry captains 👍1  
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
@@ -162,6 +166,8 @@
 ### [HB 1524](/bill/2025-26/hb/1524/) - Concerning workplace standards and requirements applicable to employers of isolated employees. 👍1  
 
 ### [HB 1554](/bill/2025-26/hb/1554/) - College bound scholarship 👍1  
+
+### [HB 1556](/bill/2025-26/hb/1556/) - HS completers/CTC tuition 👍1  
 
 ### [HB 1557](/bill/2025-26/hb/1557/) - Guaranteed admissions prg. 👍1  
 
@@ -171,7 +177,12 @@
 
 ### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍1  
 
-### [HB 1676](/bill/2025-26/hb/1676/) - Charter school contracts  👎1 
+### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent.  👎1 
+* 👎💵 Lorrell Noahr
+
+### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
+
+### [HB 1676](/bill/2025-26/hb/1676/) - Charter school contracts  👎2 
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -224,7 +235,7 @@
 
 ### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍1  
 
-### [SB 5101](/bill/2025-26/sb/5101/) - Expanding access to leave and safety accommodations to include workers who are victims of hate crimes or bias incidents. 👍1  
+### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
 
 ### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
 
@@ -312,6 +323,8 @@
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍3  
 * 👍💵 Larry Delaney
 
+### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp.  👎1 
+
 ### [SB 5270](/bill/2025-26/sb/5270/) - Providing mentors to novice nurses in the beginning educator support team program.   ❓1
 * ❓💵 Nasue Nishida
 
@@ -327,6 +340,8 @@
 * 👍💵 Larry Delaney
 
 ### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
+
+### [SB 5310](/bill/2025-26/sb/5310/) - Child care subsidy rates  👎1 
 
 ### [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍1  
 
@@ -348,30 +363,45 @@
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools   ❓1
 
+### [SB 5378](/bill/2025-26/sb/5378/) - PFML grants/school districts  👎1 
+
 ### [SB 5381](/bill/2025-26/sb/5381/) - Self-insurer withdrawal 👍1  
 
 ### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 
 
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 
+### [SB 5414](/bill/2025-26/sb/5414/) - Social equity impact/audits 👍1  
+
 ### [SB 5433](/bill/2025-26/sb/5433/) - DOC employee bargaining 👍1  
+
+### [SB 5459](/bill/2025-26/sb/5459/) - Call center retention 👍1  
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 
-### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍1  
+### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍2  
 * 👍💵 Janie White
 
 ### [SB 5523](/bill/2025-26/sb/5523/) - Higher ed. gov./students 👍1  
 
+### [SB 5525](/bill/2025-26/sb/5525/) - Layoffs 👍1  
+
+### [SB 5528](/bill/2025-26/sb/5528/) - Transp. electrification 👍1  
+
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 
-## [SB 5593](/bill/2025-26/sb/5593/) - School levies & local effort 👍1  
+### [SB 5542](/bill/2025-26/sb/5542/) - HS completers/CTC tuition 👍1  
+
+### [SB 5543](/bill/2025-26/sb/5543/) - College bound scholarship 👍1  
+
+### [SB 5593](/bill/2025-26/sb/5593/) - School levies & local effort 👍1  
 * 👍💵 Julie Salvi
+
+## [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
 
 ## 2023-24
 
-### [SB 5593](/bill/2023-24/sb/5593/) - School levies & local effort 👍1  
-* 👍💵 Julie Salvi
+### [SB 5600](/bill/2023-24/sb/5600/) - TNCs/large-scale events 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 

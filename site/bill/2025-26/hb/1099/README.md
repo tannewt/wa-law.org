@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201099)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201099)
 
 ## Meetings
@@ -17,14 +18,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32645&aId=162479&caId=25447&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32645&aId=162479&caId=25447&tId=4)
 
-#### 54 👍 - Pro
+#### 151 👍 - Pro
 Testifying:
 * Constance Nelson
 * 💵Chester Baldwin - Rental Housing Assn Coalition (RHAC)
+* Anne Knapp
+* GORDON HAGGERTY - 2310 Yale Apts., LLC
+* Tracey Judah - Dove Property Management
 
-#### 314 👎 - Con
+#### 700 👎 - Con
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Deborah Wilson
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Donna Alber
+* Caroline Hardy - Leisure Manor Tenants Association
+* Anthony Holan
+* Atina Holan
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Tedd Kelleher - Department of Commerce

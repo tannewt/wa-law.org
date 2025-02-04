@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1147 - Supporting civic engagement for incarcerated and institutionalized individuals in state custody to promote inclusion and rehabilitation.</title>
+		<title>HB 1147 - Civic engage./state custody</title>
 		<link>https://wa-law.org/bill/2025-26/hb/1147/</link>
 		<description>Updates about HB 1147</description>
 		<language>en-US</language>
@@ -252,6 +252,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Alexis/Hale/2025-01-16 10:14:41</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-31/Minority; without recommendation.</guid>
 		</item>
 		<item>
 			<title>SGOV - Executive action taken by committee.</title>

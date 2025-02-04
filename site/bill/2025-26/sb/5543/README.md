@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32692&aId=162765&caId=25260&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32692&aId=162765&caId=25260&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Lujain Abushhiwa
+* Troy Goracke - Washington State Board for Community and Technical Colleges
 
 #### 0 👎 - Con
 

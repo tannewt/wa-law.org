@@ -41,10 +41,13 @@
 ### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍1  
 * 👍💵 Heather Trim
 
-### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍3  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
-### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍1  
+### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
+
+### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
 * 👍💵 Heather Trim
 
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs   ❓1
@@ -58,8 +61,12 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
+### [SB 5423](/bill/2025-26/sb/5423/) - Digital electronics/repair 👍1  
+
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
 * 👍💵 Heather Trim
+
+### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
 

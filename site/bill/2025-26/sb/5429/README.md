@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162870&caId=25300&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162870&caId=25300&tId=4)
 
-#### 58 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * 💵Alex Hur
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Patrick Hanks - Code User
 
 #### 0 👎 - Con
 

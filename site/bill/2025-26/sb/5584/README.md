@@ -8,18 +8,18 @@
 
 ## Meetings
 ### Tue 02/04 08:00 AM - Law & Justice (LAW): SB 5584 OII expansion/prosecutions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162921&caId=25293&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162921&caId=25293&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162921&caId=25293&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32624&aId=162921&caId=25293&tId=4)
-
-#### 367 👍 - Pro
+#### 564 👍 - Pro
 Testifying:
 * Arthur West
 * Kurtis Robinson - I Did The Time/ Revive Center For Returning Citizens
+* Debbie Novak - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Eliana Machefsky - National Police Accountability Project
+* Jay Hollingsworth - Task Force on Use of Force/John T Williams Org Comm
+* Kelly McConney Moore - NYU Policing Project
+* Sonia Joseph - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Trishandra Pickup - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 
-#### 18 👎 - Con
+#### 32 👎 - Con
 Testifying:
 * Pauly Giuglianotti - Partnership for a Truly Independent Prosecutor
 * Ryan Lufkin - (WACOPS) Washington Council of Police & Sheriffs
@@ -27,5 +27,7 @@ Testifying:
 * TERI ROGERS KEMP - The Black Community Lobby
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* 💵Anne Anderson - Washington State Narcotics Investigators Association
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

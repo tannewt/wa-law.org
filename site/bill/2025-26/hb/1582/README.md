@@ -14,8 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162531&caId=25393&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162531&caId=25393&tId=4)
 
-#### 3 👍 - Pro
+#### 61 👍 - Pro
+Testifying:
+* Maria Tobin - South Sound Military & Communities Partnership
+* Lisa Reaugh - Peninsula School District
+* Ken Rice - Pierce County Fire Prevention Bureau
+* Robyn Denson - Pierce County Council
+* Kimberly Shaw - Key Peninsula Preschool
+* Tricia Bennon - [Pierce County](/org/pierce_county/)
+* Samantha Henderson
+* Christine Luna - Key Peninsula Preschool
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

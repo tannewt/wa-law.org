@@ -11,16 +11,10 @@
 
 ## Meetings
 ### Mon 02/03 10:30 AM - Labor & Commerce (LC): SB 5525 Layoffs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162799&caId=25277&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162799&caId=25277&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162799&caId=25277&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162799&caId=25277&tId=4)
-
-#### 10 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * 💵Brandon Anderson - SPEEA (Aerospace engineers’ union)
 
-#### 17 👎 - Con
+#### 49 👎 - Con
 
 #### 0 ❓ - Other

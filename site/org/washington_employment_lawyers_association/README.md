@@ -13,6 +13,8 @@
 ### [HB 1524](/bill/2025-26/hb/1524/) - Concerning workplace standards and requirements applicable to employers of isolated employees. 👍1  
 * 👍💵 Ellicott Dandy
 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
+
 ### [SB 5336](/bill/2025-26/sb/5336/) - Isolated employees 👍1  
 * 👍💵 Ellicott Dandy
 

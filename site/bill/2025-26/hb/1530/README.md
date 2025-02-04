@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32631&aId=162426&caId=25389&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32631&aId=162426&caId=25389&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Emily Wade - Towing & Recovery Association of WA (TRAW)
+* Kris Zachary - Burns Towing
+* Paul Bressi - Nisqually Towing
+* 💵Peter Lukevich - Towing & Recovery Association of WA (TRAW)
 
-#### 1 👎 - Con
+#### 8 👎 - Con
 
 #### 0 ❓ - Other

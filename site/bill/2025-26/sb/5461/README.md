@@ -8,18 +8,15 @@
 
 ## Meetings
 ### Mon 02/03 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5461 Intensive rural dev. areas
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162876&caId=25295&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162876&caId=25295&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162876&caId=25295&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162876&caId=25295&tId=4)
-
-#### 15 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Mindy Brooks - [Lewis County](/org/lewis_county/)
+* 💵Curtis Steinhauer - Washington State Association of Counties'
 
-#### 238 👎 - Con
+#### 275 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)

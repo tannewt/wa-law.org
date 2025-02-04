@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162746&caId=25368&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162746&caId=25368&tId=4)
 
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 31 👎 - Con
+#### 39 👎 - Con
+Testifying:
+* Rudy Van Ry - 6595 Northwest Dr
 
 #### 1 ❓ - Other
 Testifying:

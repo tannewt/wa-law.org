@@ -17,20 +17,29 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162822&caId=25248&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162822&caId=25248&tId=4)
 
-#### 10 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Ralph Baard
 * Sunil Aggarwal
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Mark Gaskill - Adventure Psychotherapy
 * Mark Gaskill - Adventure Psychotherapy / Mark Gaskill
+* Heath Hollensbe
+* Matthew Thierfelder
+* Wendy Lynn
 
-#### 3 👎 - Con
+#### 36 👎 - Con
 Testifying:
 * Alba Sari
+* Angela Ross
 
-#### 3 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Bailey Quigley - on behalf of REACH WA. Responsible Entheogen Access and Community Healing Coalition
 * Lauren Feringa - Hippie and a Veteran Foundation
 * Erin Reading - Port Townsend Psychedelic Society
+* Jakob Smitherman - Tacoma Psychedelic society
+* Cole Schrim LMHC - Tacoma Psychedelic Society
+* jerry spieckerman - PTPS
+* Kody Zalewski - [Psychedelic Medicine Alliance of Washington](/org/psychedelic_medicine_alliance_of_washington/)
+* Caitlein Ryan - CAITLEIN RYAN

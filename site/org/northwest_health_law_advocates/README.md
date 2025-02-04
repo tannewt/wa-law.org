@@ -27,13 +27,21 @@
 
 ### [SB 5331](/bill/2025-26/sb/5331/) - Insurance code violations 👍1  
 
-## [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎1 
+### [SB 5353](/bill/2025-26/sb/5353/) - Diabetes and obesity 👍1  
+* 👍💵 Vanessa Saavedra
+
+### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎1 
 * 👎💵 Vanessa Saavedra
+
+### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
+
+## [SB 5561](/bill/2025-26/sb/5561/) - Health care entity registry 👍1  
+* 👍💵 Emily Brice
 
 ## 2023-24
 
-### [SB 5388](/bill/2023-24/sb/5388/) - DOC behavioral health cert.  👎1 
-* 👎💵 Vanessa Saavedra
+### [SB 5561](/bill/2023-24/sb/5561/) - Health care entity registry 👍1  
+* 👍💵 Emily Brice
 
 ### [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  
 

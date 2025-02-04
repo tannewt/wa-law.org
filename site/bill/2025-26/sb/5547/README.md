@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32639&aId=162916&caId=25340&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32639&aId=162916&caId=25340&tId=4)
 
-#### 5 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Mary Lou Pauly - Mayor, City of Issaquah
 * BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Jessica Yaeger - Councilmember, City of Spokane Valley
 
 #### 0 👎 - Con
 

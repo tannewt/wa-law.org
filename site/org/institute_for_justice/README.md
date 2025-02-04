@@ -4,6 +4,9 @@
 ### [HB 1240](/bill/2025-26/hb/1240/) - Vehicle impounds 👍1  
 * 👍 Will Aronin
 
+### [HB 1440](/bill/2025-26/hb/1440/) - Civil forfeiture proceedings 👍1  
+* 👍 Alasdair Whitney
+
 ## [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
 
 ## 2023-24

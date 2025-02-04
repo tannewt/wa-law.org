@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201557)
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201557)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201557)
 
 ## Meetings
@@ -17,14 +19,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162621&caId=25468&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162621&caId=25468&tId=4)
 
-#### 11 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Jacob Vigdor - University of Washington Faculty/COF
 * Ruben Flores - Council Of Presidents
 * Bill Lyne - United Faculty of Washington State
+* Student, Maya Amos - West Valley High School
+* Superintendent, Dr. Peter Finch - West Valley School District #208
+* Patricia Loera - The Office of the Governor
+* 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
+* Dan Glowitz
+* Patricia Loera - Office of Governor Bob Ferguson/Senior Policy Advisor for Higher Education & Workforce Develoopment
 
-#### 1 👎 - Con
+#### 200 👎 - Con
 Testifying:
 * John Axtell
+* Donna Alber
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
+* 💵Troy Nichols - Washington School Information Processing Cooperative (WSIPC)

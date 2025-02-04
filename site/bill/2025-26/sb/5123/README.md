@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205123)
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205123)
 * 01/21/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to update anti-discrimination laws in schools heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/21/nobles-bill-to-update-anti-discrimination-laws-in-schools-heard-in-committee/#:~:text=Senate%20Bill%205123)
 * 01/21/2025 [The Center Square](/org/the_center_square/) - [Bill would make ‘gender expression,’ illegal immigrants protected classes in K-12 | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_be91ca66-d841-11ef-8745-f70e71c38afa.html#:~:text=Senate%20Bill%205123)

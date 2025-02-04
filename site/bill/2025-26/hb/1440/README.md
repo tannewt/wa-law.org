@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32688&aId=162740&caId=25362&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32688&aId=162740&caId=25362&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Alasdair Whitney - [Institute for Justice](/org/institute_for_justice/)
 
 #### 0 👎 - Con
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * G Todd Williams
 * Michele Walker - Prosecuting Attorney, City of Kent
+* 💵Anne Anderson - Washington State Narcotics Investigators Association

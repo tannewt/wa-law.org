@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162465&caId=25435&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162465&caId=25435&tId=4)
 
-#### 12 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Esther Lucero - Seattle Indian Health Board
+* Steve Kutz - [American Indian Health Commission for Washington State](/org/american_indian_health_commission_for_washington_state/)
+* Loni Greninger - Jamestown S'Klallam Tribe
+* Alison Boyd-Ball - Confederated Tribes of the Colville Reservation
 
-#### 243 👎 - Con
+#### 466 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Aren Sparck - Health Care Authority (HCA)

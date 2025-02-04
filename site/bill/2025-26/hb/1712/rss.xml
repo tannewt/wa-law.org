@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1712/</link>
 		<description>Updates about HB 1712</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 10:55:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,30 @@
 			<pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-29/First reading, referred to Environment &amp; Energy.</guid>
+		</item>
+		<item>
+			<title>👍Greg Blair - Biomass One</title>
+			<description>Greg Blair signed up to testify Pro. They are signed up to represent Biomass One.</description>
+			<pubDate>Mon, 03 Feb 2025 10:55:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Greg/Blair/2025-02-03 10:55:17</guid>
+		</item>
+		<item>
+			<title>👍Irion Sanger - Sanger Law</title>
+			<description>Irion Sanger signed up to testify Pro. They are signed up to represent Sanger Law.</description>
+			<pubDate>Mon, 03 Feb 2025 10:55:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Irion/Sanger/2025-02-03 10:55:17</guid>
+		</item>
+		<item>
+			<title>👍Kurt Lumpkin - Biomass One</title>
+			<description>Kurt Lumpkin signed up to testify Pro. They are signed up to represent Biomass One.</description>
+			<pubDate>Mon, 03 Feb 2025 10:55:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kurt/Lumpkin/2025-02-03 10:55:17</guid>
 		</item>
 	</channel>
 </rss>

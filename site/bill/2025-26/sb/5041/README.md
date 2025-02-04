@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/03/2025 [The Stranger](/org/the_stranger/) - [Shaun Scott’s Radical Agenda Arrives in Olympia - The Stranger](https://www.thestranger.com/news/2025/02/03/79904473/shaun-scotts-radical-agenda-arrives-in-olympia#:~:text=SB%205041)
 * 01/22/2025 [KING5](/org/king5/) - [WA lawmakers to consider bill that grants unemployment to workers on strike | king5.com](https://www.king5.com/article/news/politics/state-politics/unemployment-benefits-striking-workers-olympia/281-0d4b107e-3a0e-4555-ab83-44b29793ee77#:~:text=SB%205041)
 * 01/21/2025 [Washington State Standard](/org/washington_state_standard/) - [Legislature looks again at unemployment benefits for striking workers • Washington State Standard](https://washingtonstatestandard.com/2025/01/21/debate-revived-in-wa-legislature-over-unemployment-benefits-for-striking-workers/#:~:text=Senate%20Bill%205041)
 

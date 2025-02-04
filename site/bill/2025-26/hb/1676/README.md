@@ -7,27 +7,30 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201676)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201676)
 
 ## Meetings
 ### Mon 02/03 01:30 PM - Education (ED): HB 1676 Charter school contracts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162509&caId=25404&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162509&caId=25404&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162509&caId=25404&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32654&aId=162509&caId=25404&tId=4)
-
-#### 207 👍 - Pro
+#### 321 👍 - Pro
 Testifying:
 * Julie Kennedy
 * John Axtell
 * Tom Sweeney
+* Marcus Harden - WA State Charter School Commission
+* Arik Korman - [League of Education Voters](/org/league_of_education_voters/)
+* 💵Chris Korsmo - WA State Charter Schools Association
+* Derick Harris - Black Education Strategy Roundtable
+* Amanda Gardner - Catalyst Public Schools
+* Yolanda Fontenot - Public school parent
+* C.J. Dancer - ACE Academy
 
-#### 739 👎 - Con
+#### 826 👎 - Con
 Testifying:
 * Justin Mckaughan - Dad and Educator from
 * 💵Janie White
 * Shawna Moore
 * Kyrian MacMichael - Olympia Education Association
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 
-#### 1 ❓ - Other
+#### 6 ❓ - Other

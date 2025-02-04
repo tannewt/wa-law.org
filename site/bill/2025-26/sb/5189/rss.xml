@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5189/</link>
 		<description>Updates about SB 5189</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 15 Jan 2025 11:57:38 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 18:10:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -155,6 +155,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Gabe/Jacobs/2025-01-15 11:57:38</guid>
+		</item>
+		<item>
+			<title>Week Four: Big 3 Bills Continue to Advance - WSPTA</title>
+			<description>News article "Week Four: Big 3 Bills Continue to Advance - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 03 Feb 2025 18:10:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205189</guid>
 		</item>
 	</channel>
 </rss>

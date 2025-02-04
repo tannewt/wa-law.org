@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 02/03 10:30 AM - Labor & Commerce (LC): SB 5459 Call center retention
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162619&caId=25276&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162619&caId=25276&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162619&caId=25276&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162619&caId=25276&tId=4)
-
-#### 57 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * 💵Christine Reid - International Brotherhood of Electrical Workers
 * Eileen Nix - [Communications Workers of America](/org/communications_workers_of_america/)

@@ -12,24 +12,19 @@
 
 ## Meetings
 ### Mon 02/03 04:00 PM - Ways & Means (WM): SB 5069 Voters' pamphlets
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162896&caId=25327&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162896&caId=25327&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162896&caId=25327&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32638&aId=162896&caId=25327&tId=4)
-
-#### 280 👍 - Pro
+#### 396 👍 - Pro
 Testifying:
 * Heidi Hunt - Adams County Auditor / WA Assoc of County Auditors
 * Mike Shaw - WA Association of County Officials
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Stuart Holmes - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 255 👎 - Con
+#### 290 👎 - Con
 Testifying:
 * JENNIFER PANTANO
+* Tim EYMAN - Initiative activist
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/14 01:30 PM - State Government & Elections (SGE): SB 5069 Voters' pamphlets
 #### 146 👍 - Pro

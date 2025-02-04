@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1214/</link>
 		<description>Updates about HB 1214</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 12:21:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,37 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats</title>
+			<description>News article "The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201214</guid>
+		</item>
+		<item>
+			<title>👍💵Jake García - Latino Community Fund of Washington State</title>
+			<description>Jake García signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/latino_community_fund_of_washington_state/"&gt;Latino Community Fund of Washington State&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 03 Feb 2025 10:41:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jake/García/2025-02-03 10:41:48</guid>
+		</item>
+		<item>
+			<title>👍Virginia Parham - Latino Community Fund of Washington State</title>
+			<description>Virginia Parham signed up to testify Pro.</description>
+			<pubDate>Mon, 03 Feb 2025 10:41:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Virginia/Parham/2025-02-03 10:41:48</guid>
+		</item>
+		<item>
+			<title>👍Mayauna Renae - Mockingbird Youth Advocacy Team</title>
+			<description>Mayauna Renae signed up to testify Pro. They are signed up to represent Mockingbird Youth Advocacy Team.</description>
+			<pubDate>Mon, 03 Feb 2025 12:21:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mayauna/Renae/2025-02-03 12:21:41</guid>
 		</item>
 	</channel>
 </rss>

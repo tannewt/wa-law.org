@@ -14,14 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162629&caId=25280&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162629&caId=25280&tId=4)
 
-#### 103 👍 - Pro
+#### 158 👍 - Pro
 Testifying:
 * Lannie Grillo
 * April Frazier - SEIU Healthcare 1199NW
 * Brian Wright - Washington State Association for Justice
+* Christina Bayaniyan - [Sheet Metal Workers Local 66](/org/sheet_metal_workers_local_66/)
+* Rondi Thorp - Washington State Association for Justice
+* Steven Compton - UA Local 598
+* 💵Samantha Grad - Teamsters 117
 
-#### 13 👎 - Con
+#### 35 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Christine Brewer - Washington Self Insurers Association
 
 #### 0 ❓ - Other

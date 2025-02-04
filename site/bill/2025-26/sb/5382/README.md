@@ -17,15 +17,32 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32671&aId=162574&caId=25306&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32671&aId=162574&caId=25306&tId=4)
 
-#### 188 👍 - Pro
+#### 1136 👍 - Pro
 Testifying:
 * Margaret Dreyfus
 * Mariana Morante - SEIU 775
 * Ralph Carpenter
+* Arthur West
+* La Donna Kirtpatrick
+* Hanna Floss
+* 💵Diane Bedwell
+* Marrene Franich
+* Marley Arborico
 
-#### 324 👎 - Con
+#### 1392 👎 - Con
 Testifying:
 * John Morgan
 * Elizabeth Banger
+* Tim eyman - Initiative activist
+* Brian Heywood - Let's GO Washington
+* Donna Alber
+* Eric Pratt - America
+* Barbara Kuehne
+* Tara Erben
+* Christa (Teagan) Levine
+* Collin Hathaway
+* Anthony Holan
+* Atina Holan
+* Sharon Damoff
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

@@ -14,6 +14,10 @@
 ### [HB 1537](/bill/2025-26/hb/1537/) - Roadway safety account use 👍1  
 * 👍 Brody Coval
 
+### [HB 1628](/bill/2025-26/hb/1628/) - Fire service policy board   ❓1
+
+### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
+
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
 * 👍 Duane Emmons
 

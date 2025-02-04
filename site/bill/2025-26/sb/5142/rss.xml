@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5142 - Providing owners of real estate taken through eminent domain by school districts, or sold under threat of eminent domain, the opportunity to purchase the real estate back when it is not put to intended public use.</title>
+		<title>SB 5142 - Eminent domain purchase back</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5142/</link>
 		<description>Updates about SB 5142</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 22 Jan 2025 02:38:37 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -84,6 +84,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/John/Houston/2025-01-22 02:38:37</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-03/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

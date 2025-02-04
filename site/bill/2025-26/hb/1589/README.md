@@ -14,11 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162466&caId=25436&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162466&caId=25436&tId=4)
 
-#### 646 👍 - Pro
+#### 1212 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * Rachel Atkins
+* Meg Curtin Rey-Bear - Washington Mental Health Counselor Association
+* Sharon Shadwell - Washington Mental Health Counselor Association
+* Ben Boyle - APTA Washington
+* Kendra Holloway - WA Speech - Language - Hearing Association
+* 💵London Breedlove - WA State Psychological Association
+* 💵Lori Grassi - WA State Chiropractic Association
+* 💵Melissa Johnson - APTA-WA /WA Speech, Language, Hearing
+* Ben Packard - Washington State Society for Clinical Social Work
 
 #### 1 👎 - Con
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans

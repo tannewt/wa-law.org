@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1643/</link>
 		<description>Updates about HB 1643</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 02 Feb 2025 09:54:21 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 12:03:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -69,6 +69,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jeff/Gombosky/2025-02-02 09:54:21</guid>
+		</item>
+		<item>
+			<title>👎Jeff Clarke - Washington Association of Sewer and Water Districts</title>
+			<description>Jeff Clarke signed up to testify Con. They are signed up to represent Washington Association of Sewer and Water Districts.</description>
+			<pubDate>Mon, 03 Feb 2025 08:38:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeff/Clarke/2025-02-03 08:38:48</guid>
+		</item>
+		<item>
+			<title>❓💵Morgan Irwin - Association of Washington Business</title>
+			<description>Morgan Irwin signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_business/"&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 03 Feb 2025 10:24:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Morgan/Irwin/2025-02-03 10:24:28</guid>
+		</item>
+		<item>
+			<title>❓💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 03 Feb 2025 12:03:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2025-02-03 12:03:24</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,6 +6,9 @@
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
 
+### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements 👍1  
+* 👍 Ty Stober
+
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
@@ -13,13 +16,15 @@
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 * 👍 Ty Stober
 
-## [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
+## [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍2  
 * 👍 Shree Thirunagari
+* 👍 John Kendall
 
 ## 2023-24
 
-### [SB 5265](/bill/2023-24/sb/5265/) - Electrical inspector exp. 👍1  
+### [SB 5265](/bill/2023-24/sb/5265/) - Electrical inspector exp. 👍2  
 * 👍 Shree Thirunagari
+* 👍 John Kendall
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 

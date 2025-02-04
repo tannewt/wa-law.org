@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1177 - Concerning the child welfare housing assistance program.</title>
+		<title>HB 1177 - Child welfare housing assist</title>
 		<link>https://wa-law.org/bill/2025-26/hb/1177/</link>
 		<description>Updates about HB 1177</description>
 		<language>en-US</language>
@@ -90,6 +90,13 @@
 			<pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-31/ELHS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-31/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

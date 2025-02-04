@@ -14,11 +14,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32680&aId=162675&caId=25378&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32680&aId=162675&caId=25378&tId=4)
 
-#### 6 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Jeri Moomaw - [Innovations Human Trafficking Collaborative](/org/innovations_human_trafficking_collaborative/)
 * Maurice Washington
+* Coreen Schnepf - Chief Criminal Deputy with the Pierce County Prosecutor's Office
+* Cathy Moore - Seattle City Councilmember
+* Jacob Wallack - n/a
+* Jeri Moomaw - Washington Against Sexual Exploitation (WASE Forward)
+* Rebekah Fonden - Washington Against Sexual Exploitation (WASE Forward)
 
-#### 0 👎 - Con
+#### 64 👎 - Con
+Testifying:
+* Madison Zack-Wu - The Cupcake Girls
+* emi koyama - Coalition for Rights & Safety for People in the Sex Trade
+* Shira Cole
+* Tanya Crocker
+* Melodie Garcia
+* Arianna Riley
 
 #### 0 ❓ - Other

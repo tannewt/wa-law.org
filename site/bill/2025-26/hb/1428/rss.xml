@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1428/</link>
 		<description>Updates about HB 1428</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 02 Feb 2025 08:05:06 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 07:46:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -70,6 +70,38 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Rod/Higgins/2025-02-02 08:05:06</guid>
+		</item>
+		<item>
+			<title>👎Donna Alber - City of Blaine City Manager</title>
+			<description>Donna Alber signed up to testify Con.</description>
+			<pubDate>Mon, 03 Feb 2025 05:40:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Donna/Alber/2025-02-03 05:40:40</guid>
+		</item>
+		<item>
+			<title>👍Rebecca Mertzig - Chief of the Bellingham Police Department</title>
+			<description>Rebecca Mertzig signed up to testify Pro. They are signed up to represent Chief of the Bellingham Police Department.</description>
+			<pubDate>Mon, 03 Feb 2025 09:34:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rebecca/Mertzig/2025-02-03 09:34:54</guid>
+		</item>
+		<item>
+			<title>👍Adam Vaughn - Budget and Finance Director at the City of Toppenish</title>
+			<description>Adam Vaughn signed up to testify Pro. They are signed up to represent Budget and Finance Director at the City of Toppenish.</description>
+			<pubDate>Mon, 03 Feb 2025 10:48:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Adam/Vaughn/2025-02-03 10:48:28</guid>
+		</item>
+		<item>
+			<title>👍Michael Harmon - City of Blaine City Manager</title>
+			<description>Michael Harmon signed up to testify Pro. They are signed up to represent City of Blaine City Manager.</description>
+			<pubDate>Tue, 04 Feb 2025 07:46:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/Harmon/2025-02-04 07:46:53</guid>
 		</item>
 	</channel>
 </rss>

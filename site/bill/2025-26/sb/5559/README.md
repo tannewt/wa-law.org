@@ -8,20 +8,17 @@
 
 ## Meetings
 ### Mon 02/03 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5559 UGA subdivision process
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162879&caId=25298&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162879&caId=25298&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162879&caId=25298&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32696&aId=162879&caId=25298&tId=4)
-
-#### 65 👍 - Pro
+#### 98 👍 - Pro
 Testifying:
 * Josh Friedmann
 * Riley Benge - Washington REALTORS
 * 💵Scott Hazlegrove - Master Builders Association of King & Snohomish
+* Salim Nice
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 3 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

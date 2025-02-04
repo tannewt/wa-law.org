@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32639&aId=162915&caId=25339&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32639&aId=162915&caId=25339&tId=4)
 
-#### 3 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* 💵Briahna Murray - Lobbyist, City of Tacoma
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Steven Drew - Thurston County Assessor & co chair of the legislative committee for The Wa Association of Assessors
 
 #### 0 ❓ - Other

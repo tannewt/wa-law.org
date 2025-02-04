@@ -1,0 +1,200 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1132](/bill/2025-26/hb/1132/) > [Substitute Bill](/bill/2025-26/hb/1132/S/)
+
+# HB 1132 - Bulk firearm purchases
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1132-S.pdf)
+
+## Section 1
+1. No dealer may sell or otherwise transfer, or expose for sale or transfer, or have in his or her possession with intent to sell, or otherwise transfer, any pistol without being licensed as provided in this section.
+
+2. No dealer may sell or otherwise transfer, or expose for sale or transfer, or have in his or her possession with intent to sell, or otherwise transfer, any firearm other than a pistol without being licensed as provided in this section.
+
+3. No dealer may sell or otherwise transfer, or expose for sale or transfer, or have in his or her possession with intent to sell, or otherwise transfer, any ammunition without being licensed as provided in this section.
+
+4. The duly constituted licensing authorities of any city, town, or political subdivision of this state shall grant licenses in forms prescribed by the director of licensing effective for not more than one year from the date of issue permitting the licensee to sell firearms within this state subject to the following conditions, for breach of any of which the license shall be forfeited and the licensee subject to punishment as provided in this chapter. A licensing authority shall forward a copy of each license granted to the department of licensing. The department of licensing shall notify the department of revenue of the name and address of each dealer licensed under this section. Any law enforcement agency acting within the scope of its jurisdiction may investigate a breach of the licensing conditions established in this chapter.
+
+5. [Empty]
+
+    a. A licensing authority shall, within 30 days after the filing of an application of any person for a dealer's license, determine whether to grant the license. However, if the applicant does not have a valid permanent Washington driver's license or Washington state identification card, or has not been a resident of the state for the previous consecutive 90 days, the licensing authority shall have up to 60 days to determine whether to issue a license. No person shall qualify for a license under this section without first receiving a federal firearms license and undergoing fingerprinting and a background check. In addition, no person ineligible to possess a firearm under RCW 9.41.040 or ineligible for a concealed pistol license under RCW 9.41.070 shall qualify for a dealer's license.
+
+    b. A dealer shall require every employee who may sell a firearm in the course of his or her employment to undergo fingerprinting and a background check in advance of engaging in the sale or transfer of firearms and to undergo a background check annually thereafter. An employee must be at least 21 years of age, eligible to possess a firearm, and must not have been convicted of a crime that would make the person ineligible for a concealed pistol license, before being permitted to sell a firearm. Every employee shall comply with requirements concerning purchase applications and restrictions on delivery of firearms that are applicable to dealers.
+
+6. As a condition of licensure, a dealer shall annually certify to the licensing authority, in writing and under penalty of perjury, that the dealer is in compliance with each licensure requirement established in this section.
+
+7. [Empty]
+
+    a. Except as otherwise provided in (b) of this subsection, the business shall be carried on only in the building designated in the license. For the purpose of this section, advertising firearms for sale shall not be considered the carrying on of business.
+
+    b. A dealer may conduct business temporarily at a location other than the building designated in the license, if the temporary location is within Washington state and is the location of a gun show sponsored by a national, state, or local organization, or an affiliate of any such organization, devoted to the collection, competitive use, or other sporting use of firearms in the community. Nothing in this subsection (7)(b) authorizes a dealer to conduct business in or from a motorized or towed vehicle.
+
+In conducting business temporarily at a location other than the building designated in the license, the dealer shall comply with all other requirements imposed on dealers by RCW 9.41.090, 9.41.100, and this section. The license of a dealer who fails to comply with the requirements of RCW 9.41.080 and 9.41.090 and subsection (17) of this section while conducting business at a temporary location shall be revoked, and the dealer shall be permanently ineligible for a dealer's license.
+
+8. The license or a copy thereof, certified by the issuing authority, shall be displayed on the premises in the area where firearms are sold, or at the temporary location, where it can easily be read.
+
+9. [Empty]
+
+    a. The business building location designated in the license shall be secured:
+
+        i. With at least one of the following features designed to prevent unauthorized entry, which must be installed on each exterior door and window of the place of business:
+
+(A) Bars or grates;
+
+(B) Security screens; or
+
+(C) Commercial grade metal doors; and
+
+        ii. With a security alarm system that is:
+
+(A) Properly installed and maintained in good condition;
+
+(B) Monitored by a remote central station that can contact law enforcement in the event of an alarm;
+
+(C) Capable of real-time monitoring of all exterior doors and windows, and all areas where firearms are stored; and
+
+(D) Equipped with, at minimum, detectors that can perceive entry, motion, and sound.
+
+    b. It is not a violation of this subsection if any security feature or system becomes temporarily inoperable through no fault of the dealer.
+
+10. [Empty]
+
+    a. Dealers shall secure each firearm during business hours, except when the firearm is being shown to a customer, repaired, or otherwise worked on, in a manner that prevents a customer or other member of the public from accessing or using the firearm, which may include keeping the firearm in a locked container or in a locked display case.
+
+    b. Other than during business hours, all firearms shall be secured (i) on the dealer's business premises in a locked fireproof safe or vault, (ii) in a room or building that meets all requirements of subsection (9)(a) of this section, or (iii) in a secured and locked area under the dealer's control while the dealer is conducting business at a temporary location.
+
+11. [Empty]
+
+    a. A dealer shall ensure that its business location designated in the license is monitored by a digital video surveillance system that meets all of the following requirements:
+
+        i. The system shall clearly record images and, for systems located inside the premises, audio, of the area under surveillance;
+
+        ii. Each camera shall be permanently mounted in a fixed location. Cameras shall be placed in locations that allow the camera to clearly record activity occurring in all areas described in (a)(iii) of this subsection and reasonably produce recordings that allow for the clear identification of any person;
+
+        iii. The areas recorded shall include, but are not limited to, all of the following:
+
+(A) Interior views of all exterior doors, windows, and any other entries or exits to the premises;
+
+(B) All areas where firearms are displayed; and
+
+(C) All points of sale, sufficient to identify the parties involved in the transaction;
+
+        iv. The system shall be capable of recording 24 hours per day at a frame rate no less than 15 frames per second, and must either (A) record continuously or (B) be activated by motion and remain active for at least 15 seconds after motion ceases to be detected;
+
+    v. The media or device on which recordings are stored shall be secured in a manner to protect the recording from tampering, unauthorized access or use, or theft;
+
+    vi. Recordings shall be maintained for a minimum of 90 days for all recordings of areas where firearms are displayed and points of sale, and for a minimum of 45 days for all recordings of interior views of exterior doors, windows, and any other entries or exits;
+
+    vii. Recorded images shall clearly and accurately display the date and time;
+
+    viii. The system shall be equipped with a failure notification system that provides notification to the licensee of any interruption or failure of the system or storage device.
+
+    b. A licensed dealer shall not use, share, allow access to, or otherwise release surveillance recordings, to any person except as follows:
+
+        i. A dealer shall allow access to the system or release recordings to any person pursuant to search warrant or other court order.
+
+        ii. A dealer may allow access to the system or release recordings to any person in response to an insurance claim or as part of the civil discovery process including, but not limited to, in response to subpoenas, request for production or inspection, or other court order.
+
+    c. The dealer shall post a sign in a conspicuous place at each entrance to the premises that states in block letters not less than one inch in height: "THESE PREMISES ARE UNDER VIDEO AND AUDIO SURVEILLANCE. YOUR IMAGE AND CONVERSATIONS MAY BE RECORDED."
+
+    d. This section does not preclude any local authority or local governing body from adopting or enforcing local laws or policies regarding video surveillance that do not contradict or conflict with the requirements of this section.
+
+    e. It is not a violation of this subsection if the surveillance system becomes temporarily inoperable through no fault of the dealer.
+
+12. A dealer shall:
+
+    a. Promptly review and respond to all requests from law enforcement agencies and officers, including trace requests and requests for documents and records, as soon as practicably possible and no later than 24 hours after learning of the request;
+
+    b. Promptly notify local law enforcement agencies and the bureau of alcohol, tobacco, firearms and explosives of any loss, theft, or unlawful transfer of any firearm or ammunition as soon as practicably possible and no later than 24 hours after the dealer knows or should know of the reportable event.
+
+13. A dealer shall:
+
+    a. Establish and maintain a book, or if the dealer should choose, an electronic-based record of purchase, sale, inventory, and other records at the dealer's place of business and shall make all such records available to law enforcement upon request. Such records shall at a minimum include the make, model, caliber or gauge, manufacturer's name, and serial number of all firearms that are acquired or disposed of not later than one business day after their acquisition or disposition;
+
+    b. Maintain monthly backups of the records required by (a) of this subsection in a secure container designed to prevent loss by fire, theft, or flood. If the dealer chooses to maintain an electronic-based record system, those records shall be backed up on an external server or over the internet at the close of each business day;
+
+    c. Account for all firearms acquired but not yet disposed of through an inventory check prepared each month and maintained in a secure location;
+
+    d. Maintain and make available at any time to government law enforcement agencies and to the manufacturer of the weapon or its designee, firearm disposition information, including the serial numbers of firearms sold, dates of sale, and identity of purchasers;
+
+    e. Retain all bureau of alcohol, tobacco, firearms and explosives form 4473 transaction records on the dealer's business premises in a secure container designed to prevent loss by fire, theft, or flood;
+
+    f. Maintain for six years copies of trace requests received, including notations for trace requests received by phone for six years;
+
+    g. Provide annual reporting to the Washington state attorney general concerning trace requests, including at a minimum the following:
+
+        i. The total number of trace requests received;
+
+        ii. For each trace, the make and model of the gun and date of sale; and
+
+        iii. Whether the dealer was inspected by the bureau of alcohol, tobacco, firearms and explosives, and copies of any reports of violations or letters received from the bureau of alcohol, tobacco, firearms and explosives.
+
+14. The attorney general may create, publish, and require firearm dealers to file a uniform form for all annual dealer reports required by subsection (13)(g) of this section.
+
+15. A dealer shall carry a general liability insurance policy providing at least $1,000,000 of coverage per incident.
+
+16. No dealer may deliver firearms or ammunition in excess of the limits established in section 2 of this act.
+
+17. (a) No firearm may be sold: (i) In violation of any provisions of this chapter; nor (ii) under any circumstances unless the purchaser is personally known to the dealer or shall present clear evidence of his or her identity.
+
+    b. A dealer who sells or delivers any firearm in violation of RCW 9.41.080 is guilty of a class C felony. In addition to any other penalty provided for by law, the dealer is subject to mandatory permanent revocation of his or her dealer's license and permanent ineligibility for a dealer's license.
+
+    c. The license fee for pistols shall be one hundred twenty-five dollars. The license fee for firearms other than pistols shall be one hundred twenty-five dollars. The license fee for ammunition shall be one hundred twenty-five dollars. Any dealer who obtains any license under subsection (1), (2), or (3) of this section may also obtain the remaining licenses without payment of any fee. The fees received under this section shall be deposited in the state general fund.
+
+18. [Empty]
+
+    a. A true record shall be made of every pistol or semiautomatic assault rifle sold, in a book kept for the purpose, the form of which may be prescribed by the director of licensing and shall be personally signed by the purchaser and by the person effecting the sale, each in the presence of the other, and shall contain the date of sale, the caliber, make, model and manufacturer's number of the weapon, the name, address, occupation, and place of birth of the purchaser, and a statement signed by the purchaser that he or she is not ineligible under state or federal law to possess a firearm. The dealer shall retain the transfer record for six years.
+
+    b. The dealer shall transmit the information from the firearm transfer application through secure automated firearms e-check (SAFE) to the Washington state patrol firearms background check program. The Washington state patrol firearms background check program shall transmit the application information for pistol and semiautomatic assault rifle transfer applications to the director of licensing daily. The original application shall be retained by the dealer for six years.
+
+19. Subsections (2) through (18) of this section shall not apply to sales at wholesale.
+
+20. Subsections (6) and (9) through (15) of this section shall not apply to dealers with a sales volume of $1,000 or less per month on average over the preceding 12 months. A dealer that previously operated under this threshold and subsequently exceeds it must comply with the requirements of subsections (6) and (9) through (15) of this section within one year of exceeding the threshold.
+
+21. The dealer's licenses authorized to be issued by this section are general licenses covering all sales by the licensee within the effective period of the licenses. The department shall provide a single application form for dealer's licenses and a single license form which shall indicate the type or types of licenses granted.
+
+22. Except as otherwise provided in this chapter, every city, town, and political subdivision of this state is prohibited from requiring the purchaser to secure a permit to purchase or from requiring the dealer to secure an individual permit for each sale.
+
+## Section 2
+1. [Empty]
+
+    a. A dealer may not deliver more than one firearm to a purchaser or transferee within any 30-day period.
+
+    b. A dealer may not deliver more than 100 rounds of .50 caliber ammunition or more than 1,000 rounds of any other caliber of ammunition to a purchaser or transferee within any 30-day period.
+
+2. Subsection (1) of this section does not apply to delivery of firearms or ammunition to any of the following entities or individuals:
+
+    a. Any general authority Washington law enforcement agency or limited authority Washington law enforcement agency as those terms are defined in RCW 10.93.020;
+
+    b. Any correctional facility as defined in RCW 72.09.015;
+
+    c. Any private security company as defined in RCW 18.170.010;
+
+    d. Any federal peace officer, general authority Washington peace officer, or limited authority Washington peace officer who, as a normal part of the officer's duties, has arrest powers and carries a firearm, as those terms are defined in RCW 10.93.020, and is obtaining firearms or ammunition for law enforcement purposes;
+
+    e. The criminal justice training commission;
+
+    f. Any federal firearms dealer, federal firearms importer, or dealer, as those terms are defined in RCW 9.41.010, who is obtaining firearms or ammunition for resale;
+
+    g. Any person who may, pursuant to RCW 9.41.113(4), claim an exemption from the background check requirements of RCW 9.41.113;
+
+    h. The exchange of a firearm or ammunition where the dealer sold that firearm or ammunition to the person seeking the exchange within the 30-day period immediately preceding the date of exchange or replacement;
+
+        i. The return of any firearm or ammunition to its owner;
+
+    j. The receipt of firearms or ammunition by a person who acquires possession of the firearms or ammunition by operation of law upon the death of the former owner who was in legal possession of the firearms or ammunition, provided the person in possession of the firearms or ammunition can establish such provenance. Receipt under this subsection is not "distribution" under this chapter;
+
+    k. Any private party transaction where the seller is, at the time of the transaction, required under state law or by court order to relinquish all firearms or ammunition;
+
+    l. Any private party transaction where the seller is any of the following:
+
+        i. The personal representative of a decedent's estate who is transferring the firearm or ammunition to one or more heirs or beneficiaries of the decedent's estate pursuant to the decedent's will or the laws of intestate succession;
+
+        ii. The holder of the decedent's property who is transferring the firearms or ammunition pursuant to RCW 11.62.010 to the successor of the decedent, as defined in RCW 11.62.005, or the surviving spouse of the decedent pursuant to RCW 11.04.015; or
+
+        iii. The trustee of a trust who is transferring the firearms or ammunition to one or more trust beneficiaries upon the death of a settlor of the trust; or
+
+    m. Any person who is a licensed collector as defined in 18 U.S.C. Sec. 921 and the regulations issued pursuant thereto, and who has a current certificate of eligibility issued by the United States department of justice.
+
+3. Compliance with this section is a condition of dealer licensure under RCW 9.41.110. A violation of this section is punishable by forfeiture of the dealer's license.
+
+## Section 3
+If any provision of this act or its application to any person or circumstance is held invalid, the remainder of the act or the application of the provision to other persons or circumstances is not affected.

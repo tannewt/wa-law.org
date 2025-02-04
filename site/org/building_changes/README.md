@@ -6,9 +6,15 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
+### [HB 1257](/bill/2025-26/hb/1257/) - Extending special education services to students with disabilities until the end of the school year in which the student turns 22. 👍1  
+
+### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
+
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
 ### [HB 1540](/bill/2025-26/hb/1540/) - Homelessness/tribal colleges 👍2  
+
+### [HB 1556](/bill/2025-26/hb/1556/) - HS completers/CTC tuition 👍1  
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍2  
 
@@ -22,6 +28,8 @@
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍2  
 
 ### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍1  
+
+### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
 ## [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market 👍1  
 

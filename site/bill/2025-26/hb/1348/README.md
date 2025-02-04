@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201348)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201348)
 
 ## Meetings
@@ -17,13 +18,34 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162410&caId=25382&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162410&caId=25382&tId=4)
 
-#### 0 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Brian Smith - PTM Management Corp
+* Daniel Torczyner - S Rothschild & Co, Inc.
+* Hank de Zwart - Flobin Inc
+* Lance Kaufman - Hub Truck, Inc
+* Andy Brassington - Evergreen Herbal
+* Jesse Huminski - Fairwinds Manufacturing
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* Scott Atkison - Zips Cannabis
+* Jamie Hoffman - Craft Elixirs
+* Darren Gleeman - MBO Ventures
+* Zak Richardson - Zips Cannabis
 
-#### 3 👎 - Con
+#### 56 👎 - Con
 Testifying:
 * Brandon Park
+* Shawn DeNae Wagenseller - Washington Bud Company
+* Eric Gaston - The Evergreen Market
+* 💵Trent Matson - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
+* Rolando Rodriguez - Green Roads Cannabis
+* Mike Asai - Black Excellence In Cannabis
+* Peter Manning - Black Excellence In Cannabis
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Caitlein Ryan - CAITLEIN RYAN
+* Micah Sherman
 
 ### Wed 01/29 01:30 PM - Consumer Protection & Business (CPB): HB 1348 Cannabis/employee ownership
 #### 0 👍 - Pro

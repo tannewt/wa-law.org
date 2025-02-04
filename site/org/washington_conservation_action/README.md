@@ -18,6 +18,14 @@
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
+### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment 👍1  
+
+### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
+* 👍 Mindy Roberts
+
+### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
+* 👍 Caitlin Krenn
+
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  

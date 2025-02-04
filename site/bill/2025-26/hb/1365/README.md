@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32645&aId=162480&caId=25448&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32645&aId=162480&caId=25448&tId=4)
 
-#### 23 👍 - Pro
+#### 38 👍 - Pro
 
-#### 331 👎 - Con
+#### 668 👎 - Con
 Testifying:
 * Christine Walker - Parkwood Neighborhood Alliance
 * Deborah Wilson
@@ -36,5 +36,11 @@ Testifying:
 * Judith Ames
 * FRED Sheppard
 * Sharon Pevey - AMHO
+* Glen Parker
+* Cindy Vick - xxx-xx-xxxx
+* Anthony Holan
+* Diane Eaton - N/A
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tedd Kelleher - Department of Commerce

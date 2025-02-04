@@ -14,12 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32641&aId=162444&caId=25232&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32641&aId=162444&caId=25232&tId=4)
 
-#### 6 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * 💵Bill Clarke - Grant County PUD
 * 💵Logan Bahr - [Tacoma Public Utilities](/org/tacoma_public_utilities/)
 * Mary Wiencke - [Public Generating Pool](/org/public_generating_pool/)
+* Stefanie Johnson - Seattle City Light
+* 💵Steve Taylor - Cowlitz PUD
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Charlee Thompson - NW Energy Coalition
+* Glenn Blackmon - Washington State Department of Commerce
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)

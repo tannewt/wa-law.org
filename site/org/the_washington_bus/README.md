@@ -1,7 +1,7 @@
 # The Washington Bus
 ## 2025-26
 
-### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
+### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍2  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 * 👍 Bailey Medilo

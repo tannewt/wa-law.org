@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205542)
+
 ## Meetings
 ### Thu 02/06 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5542 HS completers/CTC tuition
 Sign up to testify:
@@ -14,7 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32692&aId=162764&caId=25259&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32692&aId=162764&caId=25259&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Troy Goracke - Washington State Board for Community and Technical Colleges
 
 #### 0 👎 - Con
 

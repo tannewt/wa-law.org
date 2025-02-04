@@ -1,0 +1,30 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5661](/bill/2025-26/sb/5661/) > [Original Bill](/bill/2025-26/sb/5661/1/)
+
+# SB 5661 - Landlord-tenant/preemption
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5661.pdf)
+
+## Section 1
+The legislature finds that the residential landlord-tenant act was enacted in 1973 and occupies the field. The act has undergone substantial modification since that time and many cities and at least one county have enacted local modifications affecting the relationship between the landlord and the tenant. These local regulations directly conflict with the act.
+
+In Seattle and Kent, landlords must provide an uncurable notice to vacate because of criminal activity resulting in an arrest in the city prior to serving the notice, despite the act not requiring such an extra step. Seattle, King County, Federal Way, Auburn, and Tacoma maintain distinct provisions to terminate a residential tenancy. These provisions directly conflict with the act.
+
+In King County, all notices must be sent at least 30 days, directly conflicting with the act and substantially endangering tenants forced to withstand behavior often criminal in nature, which may be ameliorated in a much shorter time if the tenant rented just three miles away.
+
+Local regulations also act to discourage investment in and decrease the supply of rental housing. In 2022, the Seattle department of construction and inspection reported a decrease in rental housing units after numerous regulations were enacted that severely restricted the reasonable business practices of landlords to the detriment of tenants. According to a lawsuit filed by a landlord in Seattle, Seattle's landlord-tenant restrictions have caused a low-income multifamily residential property to default on its mortgage, remain largely vacant and unrentable.
+
+The state has a strong interest in maintaining a strong residential rental housing market across all jurisdictions because Washington needs to build at least 1,100,000 new homes, affordable to all income levels, over the next 20 years to meet the market demand. Rental housing is a critical part of meeting this need and an important part in the housing ladder.
+
+Overlapping regulations confuse landlords and tenants, and courts struggle to apply laws consistently when there are multiple layers of laws, some conflicting with the act, and cause landlords to disinvest and leave the rental housing market. The Washington court of appeals determined the act and an ordinance on the same subject when the state occupies the field leaves no room for concurrent jurisdiction. The legislature finds there is no room for concurrent jurisdiction.
+
+A coordinated regulatory scheme regulated only by the act is in the best interest of landlords and tenants. However, attempting to manage rental properties over multiple jurisdictions becomes challenging when there are many different regulations. The legislature intends to create consistency across the state.
+
+## Section 2
+1. The imposition of controls on rent is of statewide significance and is preempted by the state. No city or town of any class may enact, maintain, or enforce ordinances or other provisions which regulate the amount of rent to be charged for single-family or multiple-unit residential rental structures or sites other than properties in public ownership, under public management, or properties providing low-income rental housing under joint public-private agreements for the financing or provision of such low-income rental housing. This section shall not be construed as prohibiting any city or town from entering into agreements with private persons which regulate or control the amount of rent to be charged for rental properties.
+
+2. The imposition of regulations on the landlord-tenant relationship is of statewide significance and is preempted by the state. No city or town of any class may enact, maintain, or enforce ordinances or other provisions which regulate any agreement between a landlord and tenant and entered into under chapters 59.18 and 59.20 RCW for single-family or multiple-unit residential rental structures or sites other than in public ownership, under public management, or property providing low-income rental housing under joint public-private agreements for financing or provision of such low-income rental housing. This section shall not be construed as prohibiting any city or town from entering into agreements with private persons that regulate or control the amount of rent to be charged for rental properties.
+
+## Section 3
+1. The imposition of controls on rent is of statewide significance and is preempted by the state. No county may enact, maintain or enforce ordinances or other provisions which regulate the amount of rent to be charged for single-family or multiple-unit residential rental structures or sites other than properties in public ownership, under public management, or properties providing low-income rental housing under joint public-private agreements for the financing or provision of such low-income rental housing. This section shall not be construed as prohibiting any county from entering into agreements with private persons which regulate or control the amount of rent to be charged for rental properties.
+
+2. The imposition of regulations on the landlord-tenant relationship is of statewide significance and is preempted by the state. No county may enact, maintain, or enforce ordinances or other provisions which regulate any agreement between a landlord and tenant and entered into under chapters 59.18 and 59.20 RCW for single-family or multiple-unit residential rental structures or sites other than in public ownership, under public management, or property providing low-income rental housing under joint public-private agreements for financing or provision of such low-income rental housing. This section shall not be construed as prohibiting any county from entering into agreements with private persons that regulate or control the amount of rent to be charged for rental properties.

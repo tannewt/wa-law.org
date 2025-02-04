@@ -6,7 +6,16 @@
 
 ### [HB 1098](/bill/2025-26/hb/1098/) - County local roads 👍1  
 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+
 ### [HB 1218](/bill/2025-26/hb/1218/) - Concerning persons referred for competency evaluation and restoration services.  👎1 
+
+### [HB 1582](/bill/2025-26/hb/1582/) - Concerning child care centers operated in existing buildings. 👍1  
+* 👍 Tricia Bennon
+
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+
+### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
 ## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 * 👍 Chris Brown

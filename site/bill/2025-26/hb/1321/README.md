@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/31/2025 [Cascade PBS](/org/cascade_pbs/) - [Lawmakers mull limit on out-of-state National Guard access in WA | Cascade PBS](https://crosscut.com/briefs/2025/01/lawmakers-mull-limit-out-state-national-guard-access-wa#:~:text=House%20Bill%201321)

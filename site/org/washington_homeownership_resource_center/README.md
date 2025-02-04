@@ -7,8 +7,12 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍💵 Denise Rodriguez
 
+### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍1  
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍💵 Denise Rodriguez
+
+### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍2  
 
 ## [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 

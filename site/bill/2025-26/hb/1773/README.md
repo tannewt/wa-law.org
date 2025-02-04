@@ -14,10 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=163046&caId=25511&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=163046&caId=25511&tId=4)
 
-#### 32 👍 - Pro
+#### 562 👍 - Pro
+Testifying:
+* Angela F
+* Grace S - INTERPRETER
+* Irvin E
+* Marcelo B
+* April Sims - Washington State Labor Council, AFL-CIO
+* Sasha Wasserstrom - [Washington Immigrant Solidarity Network](/org/washington_immigrant_solidarity_network/)
+* Matteah Davis
 
-#### 8 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Carolyn Logue
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other

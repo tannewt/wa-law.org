@@ -16,13 +16,14 @@
 
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
 
-## [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
+### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
 * 👍 Scott Kerwien
+
+## [SB 5442](/bill/2025-26/sb/5442/) - College promise pilot 👍1  
 
 ## 2023-24
 
-### [SB 5358](/bill/2023-24/sb/5358/) - Career & tech. ed./6th grade 👍1  
-* 👍 Scott Kerwien
+### [SB 5442](/bill/2023-24/sb/5442/) - College promise pilot 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍1  
 

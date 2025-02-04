@@ -7,6 +7,12 @@
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates   ❓1
 * ❓💵 Travis Dutton
 
+### [HB 1099](/bill/2025-26/hb/1099/) - Tenant assistance program  👎1 
+* 👎💵 Curtis Steinhauer
+
+### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor.   ❓1
+* ❓💵 Brad Banks
+
 ### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice.  👎1 
 * 👎💵 Brad Banks
 
@@ -59,6 +65,9 @@
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
 * 👎💵 Curtis Steinhauer
 
+### [HB 1397](/bill/2025-26/hb/1397/) - Local property tax levies 👍1  
+* 👍💵 Paul Jewell
+
 ### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍1  
 * 👍💵 Travis Dutton
 
@@ -74,11 +83,21 @@
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
+### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍3  
+* 👍💵 Derek Young
+* 👍💵 Jorge Baron
+
 ### [HB 1604](/bill/2025-26/hb/1604/) - Jail searches/gender   ❓1
 * ❓💵 Brad Banks
 
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction   ❓1
 * ❓💵 Travis Dutton
+
+### [HB 1625](/bill/2025-26/hb/1625/) - Back country search & rescue  👎1 
+* 👎💵 Brad Banks
+
+### [HB 1742](/bill/2025-26/hb/1742/) - Urban design/environment 👍1  
+* 👍💵 Kelsey Hulse
 
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 
@@ -89,6 +108,8 @@
 
 ### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates   ❓1
 * ❓💵 Travis Dutton
+
+### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 
 ### [SB 5089](/bill/2025-26/sb/5089/) - Concerning funding rural county coroners and medical examiners. 👍1  
 * 👍💵 Paul Jewell
@@ -119,6 +140,8 @@
 ### [SB 5288](/bill/2025-26/sb/5288/) - Concerning vacancies on boards of county commissioners. 👍1  
 * 👍💵 Paul Jewell
 
+### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses  👎1 
+
 ### [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  
 * 👍💵 Kelsey Hulse
 
@@ -144,16 +167,24 @@
 ### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍1  
 * 👍 BRIAN ENSLOW
 
+### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
+
+### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
+* ❓💵 Curtis Steinhauer
+
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction   ❓1
 * ❓💵 Travis Dutton
 
-## [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
+### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 * 👍 BRIAN ENSLOW
+
+## [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
+* 👍💵 Curtis Steinhauer
 
 ## 2023-24
 
-### [SB 5547](/bill/2023-24/sb/5547/) - Cannabis revenue/local gov. 👍1  
-* 👍 BRIAN ENSLOW
+### [SB 5591](/bill/2023-24/sb/5591/) - Affordable housing/sales tax 👍1  
+* 👍💵 Curtis Steinhauer
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

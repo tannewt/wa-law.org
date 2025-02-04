@@ -14,15 +14,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162562&caId=25476&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162562&caId=25476&tId=4)
 
-#### 286 👍 - Pro
+#### 544 👍 - Pro
 Testifying:
 * Charles Longshore - Department of Corrections
 * Carlos Bernardez - Department of Corrections
 * Ralph Dunuan - Department of Corrections
+* Abigail Leong - Washington Voting Justice Coalition
+* 💵Cindy Black - [Fix Democracy First](/org/fix_democracy_first/)
+* Clinton Charles Branch - I Did the Time
+* Heather Kelly - League of Women Voters of WA
+* Jacob Ivan Schmitt - Just Us Solutions
+* Kurtis Robinson - I Did the Time
+* Kyle Lucas - Chair, Urban Indians Northwest
 
-#### 788 👎 - Con
+#### 1205 👎 - Con
+Testifying:
+* Donna Alber
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 01/15 01:30 PM - State Government & Tribal Relations (SGOV): HB 1196 Voting rights/convictions
 #### 95 👍 - Pro

@@ -3,20 +3,27 @@
 
 ### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor. 👍1  
 
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
+* 👍 Tim Warden-Hertz
+
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍2  
 * 👍💵 Malou Chavez
 
 ### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations 👍1  
 
+### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
-## [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+
+## [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
 
 ## 2023-24
 
-### [SB 5362](/bill/2023-24/sb/5362/) - Crime victim services 👍1  
+### [SB 5626](/bill/2023-24/sb/5626/) - Wage replacement 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

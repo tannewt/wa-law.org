@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Mon 02/03 10:30 AM - Labor & Commerce (LC): SB 5378 PFML grants/school districts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162800&caId=25278&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162800&caId=25278&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162800&caId=25278&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32665&aId=162800&caId=25278&tId=4)
-
-#### 6 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * 💵Devin Gombosky - ESD 105 Schools Coalition
 
-#### 6 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Joe Kendo - WSLC
 * 💵Lindsey Hueer - AWB

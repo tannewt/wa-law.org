@@ -10,7 +10,9 @@
 
 ### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
+
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 
 ### [HB 1240](/bill/2025-26/hb/1240/) - Vehicle impounds 👍1  
 
@@ -21,6 +23,8 @@
 ### [HB 1268](/bill/2025-26/hb/1268/) - Virtual currency kiosks  👎1 
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
+
+### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍2  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍2  
 
@@ -41,12 +45,20 @@
 
 ### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍2  
 
+### [SB 5254](/bill/2025-26/sb/5254/) - Health care information 👍1  
+
 ### [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks 👍1  
 
 ### [SB 5328](/bill/2025-26/sb/5328/) - Earned wage access services  👎1 ❓1
 * ❓ Molly Gallagher
 
 ### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 
+
+### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
+
+### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+
+### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 
 ### [SB 5488](/bill/2025-26/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍1  
 

@@ -46,11 +46,13 @@
 
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
 
-## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+
+## [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
 
 ## 2023-24
 
-### [SB 5466](/bill/2023-24/sb/5466/) - Electric transmission system 👍1  
+### [SB 5592](/bill/2023-24/sb/5592/) - Zero emissions vehicles/sale 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍5  
 
