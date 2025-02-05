@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/04/2025 [FOX13](/org/fox13/) - [WA bill aims to enhance judicial accountability, bail requirements | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-bill-enhance-judicial-accountability#:~:text=House%20Bill%201252)
+
 ## Meetings
 ### Mon 01/30 01:30 PM - Housing (HOUS): HB 1252 Impact fee deferrals
 #### 44 👍 - Pro

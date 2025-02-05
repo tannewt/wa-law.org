@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Wed 02/05 08:00 AM - Local Government (LG): HB 1458 Embodied carbon/buildings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162653&caId=25464&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162653&caId=25464&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162653&caId=25464&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162653&caId=25464&tId=4)
-
-#### 190 👍 - Pro
+#### 202 👍 - Pro
 Testifying:
 * Chris Hellstern - American Institute of Architects, Washington Council
 * Mikhail Haramati - Natural Resources Defense Council
@@ -27,12 +21,14 @@ Testifying:
 * Amie Lewis - New Buildings Institute
 * Dani Lopez
 * Jessie Templeton
+* Jesse Walton
 
-#### 444 👎 - Con
+#### 517 👎 - Con
 Testifying:
 * Donna Alber
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Tad Sommerville
 
 #### 3 ❓ - Other
 Testifying:

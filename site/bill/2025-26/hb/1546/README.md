@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162468&caId=25438&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162468&caId=25438&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Jim Hedrick - Washington State Radiological Society (WSRS)
+* Lloyd Stambaugh
+* Dr. Seth Urban - Radia
 
 #### 0 👎 - Con
 

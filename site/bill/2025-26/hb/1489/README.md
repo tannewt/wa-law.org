@@ -19,18 +19,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162728&caId=25359&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162728&caId=25359&tId=4)
 
-#### 29 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 
-#### 582 👎 - Con
+#### 649 👎 - Con
 Testifying:
 * Donna Alber
 * Patricia Cooper
 * William Cooper
 * William Cooper
 
-#### 18 ❓ - Other
+#### 20 ❓ - Other
 Testifying:
 * 💵Emily Murphy - Child Care Aware of Washington; Child Care for WA Campaign
 * 💵Melissa Johnson - Washington State Association of Head Start & ECEAP

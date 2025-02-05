@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Wed 02/05 08:00 AM - Labor & Workplace Standards (LAWS): HB 1622 Collective bargaining/AI use
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162710&caId=25457&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162710&caId=25457&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162710&caId=25457&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162710&caId=25457&tId=4)
-
-#### 300 👍 - Pro
+#### 318 👍 - Pro
 Testifying:
 * 💵Teresa Taylor - (WACOPS) Washington Council of Police & Sheriffs
 * Carl Bond
@@ -31,12 +25,12 @@ Testifying:
 * 💵Samantha Grad - Teamsters 117
 * Andrew Vander Stoep
 
-#### 296 👎 - Con
+#### 331 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Donna Alber
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵James Cockburn - [Washington Public Ports Association](/org/washington_public_ports_association/)

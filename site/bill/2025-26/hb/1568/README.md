@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162623&caId=25470&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162623&caId=25470&tId=4)
 
-#### 187 👍 - Pro
+#### 201 👍 - Pro
 Testifying:
 * 💵Edgar Espino - [The Washington Bus](/org/the_washington_bus/)
 * John Axtell
@@ -32,7 +32,8 @@ Testifying:
 * Ashley Ramirez - UW Tacoma Students Legislative Liaison
 * 💵Isela Bonilla - [Washington Student Association](/org/washington_student_association/)
 * 💵Michelle Carrillo - ASCWU Legislative Liaison
+* Alyssa Duncan - Saint Martin’s University
 
-#### 4 👎 - Con
+#### 12 👎 - Con
 
 #### 1 ❓ - Other

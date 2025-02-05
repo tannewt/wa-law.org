@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1038/</link>
 		<description>Updates about HB 1038</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 18:25:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,13 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Health Care &amp; Wellness.</guid>
+		</item>
+		<item>
+			<title>Democratic lawmakers vow to 'Trump-proof' protections in WA</title>
+			<description>News article "Democratic lawmakers vow to 'Trump-proof' protections in WA" from MyNorthwest.</description>
+			<pubDate>Tue, 04 Feb 2025 18:25:27 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/uncategorized/democratic/4039959#:~:text=House%20Bill%201038</guid>
 		</item>
 	</channel>
 </rss>

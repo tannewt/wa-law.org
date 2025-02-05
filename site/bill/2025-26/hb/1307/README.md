@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162441&caId=25429&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162441&caId=25429&tId=4)
 
-#### 203 👍 - Pro
+#### 210 👍 - Pro
 Testifying:
 * Aleah Patulot - [Catholic Community Services of Western Washington](/org/catholic_community_services_of_western_washington/)
 * Anthony Mixer - Washington State Young Republicans

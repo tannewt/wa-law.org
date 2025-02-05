@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/05/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Legislature weighs paying parents who care for children with disabilities • Washington State Standard](https://washingtonstatestandard.com/2025/02/05/wa-legislature-weighs-paying-parents-who-care-for-children-with-disabilities/#:~:text=House%20Bill%201200)
+
 ## Meetings
 ### Wed 01/29 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1200 DD parental caregivers
 #### 541 👍 - Pro

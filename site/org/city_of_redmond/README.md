@@ -15,13 +15,14 @@
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
 * 👍 Melissa Stuart
 
-## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 * 👍 Melissa Stuart
+
+## [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations   ❓1
 
 ## 2023-24
 
-### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management 👍1  
-* 👍 Melissa Stuart
+### [SB 5555](/bill/2023-24/sb/5555/) - Zoning regulations   ❓1
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 

@@ -21,7 +21,7 @@ Testifying:
 * Genevieve Sanchez - WA Teacher’s Union
 * Genevieve Sanchez - ATF
 
-#### 230 👎 - Con
+#### 290 👎 - Con
 Testifying:
 * Donna Alber
 * William Cooper

@@ -8,22 +8,20 @@
 
 ## Meetings
 ### Wed 02/05 10:30 AM - Housing (HSG): SB 5496 Home buying by entities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32699&aId=162848&caId=25261&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32699&aId=162848&caId=25261&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32699&aId=162848&caId=25261&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32699&aId=162848&caId=25261&tId=4)
-
-#### 145 👍 - Pro
+#### 149 👍 - Pro
 Testifying:
 * 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Denise Rodriguez - WA Homeownership Resource Center
 * Kevin Hunter
+* 💵Nick Federici - [Northwest Community Land Trust Coalition](/org/northwest_community_land_trust_coalition/)
 
-#### 88 👎 - Con
+#### 99 👎 - Con
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Aidan Thornsberry
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* Tim Eyman - Initiative Activist
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Riley Benge - Washington REALTORS

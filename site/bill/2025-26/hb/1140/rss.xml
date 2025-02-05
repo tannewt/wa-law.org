@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1140/</link>
 		<description>Updates about HB 1140</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 12:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 05 Feb 2025 07:34:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -209,6 +209,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jean/Hill/2025-02-04 12:00:00</guid>
+		</item>
+		<item>
+			<title>👎Nicole Newsum-Chrisman - Edmonds School District</title>
+			<description>Nicole Newsum-Chrisman signed up to testify Con. They are signed up to represent Edmonds School District.</description>
+			<pubDate>Wed, 05 Feb 2025 06:59:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Nicole/Newsum-Chrisman/2025-02-05 06:59:59</guid>
+		</item>
+		<item>
+			<title>👍Patricia Cooper - Washington State Catholic Conference</title>
+			<description>Patricia Cooper signed up to testify Pro.</description>
+			<pubDate>Wed, 05 Feb 2025 07:34:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Patricia/Cooper/2025-02-05 07:34:26</guid>
 		</item>
 	</channel>
 </rss>

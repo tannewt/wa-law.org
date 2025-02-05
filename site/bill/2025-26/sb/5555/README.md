@@ -8,19 +8,13 @@
 
 ## Meetings
 ### Wed 02/05 10:30 AM - Housing (HSG): SB 5555 Zoning regulations
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32699&aId=162850&caId=25263&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32699&aId=162850&caId=25263&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32699&aId=162850&caId=25263&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32699&aId=162850&caId=25263&tId=4)
-
 #### 4 👍 - Pro
 Testifying:
 * Robert Singleton - Chamber of Progress
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 12 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * Tad Sommerville
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

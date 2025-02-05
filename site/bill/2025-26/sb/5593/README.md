@@ -22,7 +22,7 @@ Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * 💵Clifford Traisman - Bellevue, Seattle, Northshore and Highline Public School Districts
 
-#### 259 👎 - Con
+#### 321 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Initiative Activist

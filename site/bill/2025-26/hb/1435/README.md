@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162737&caId=25353&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162737&caId=25353&tId=4)
 
-#### 87 👍 - Pro
+#### 137 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
@@ -28,7 +28,8 @@ Testifying:
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 * 💵Michael Transue - Washington Fraternal Order of Police
 * Nathan Olson - Office of the Governor
+* Lars Erickson - Seattle Metropolitan Chamber of Commerce
 
-#### 205 👎 - Con
+#### 217 👎 - Con
 
 #### 0 ❓ - Other

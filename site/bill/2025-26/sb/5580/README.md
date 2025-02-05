@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * Steve Horvath - HOA United
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 

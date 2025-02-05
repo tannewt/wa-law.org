@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162467&caId=25437&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162467&caId=25437&tId=4)
 
-#### 41 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * David Platt
 * Allison King
@@ -33,7 +33,7 @@ Testifying:
 * Leonora Russell - ADAPT-WA
 * Wendy Lynn
 
-#### 27 👎 - Con
+#### 34 👎 - Con
 Testifying:
 * Cole Schrim LMHC - Tacoma Psychedelic Society
 * Andy Fischer-Price
@@ -45,10 +45,11 @@ Testifying:
 * Justin Stamschror - Washington State Psychiatric Association (WSPA)
 * Rachel Cervenak - Responsible Entheogen Access & Community Healing (REACH) Coalition
 * Mason Marks
+* Kathleen Wedemeyer - Citizens Commission on Human Rights
 * Suzanne Moreillon
 * Jerred Locke
 
-#### 15 ❓ - Other
+#### 16 ❓ - Other
 Testifying:
 * Bailey Quigley - on behalf of REACH Washington. Responsible Entheogen Access and Community Healing Coalition
 * Lauren Feringa
@@ -63,3 +64,4 @@ Testifying:
 * Heidi Venture
 * Jessa Lewis
 * Kelsey Taylor
+* Jakob Smitherman - Tacoma psychedelic society

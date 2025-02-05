@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162727&caId=25358&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162727&caId=25358&tId=4)
 
-#### 312 👍 - Pro
+#### 316 👍 - Pro
 Testifying:
 * Fred Trujillo - Retired Public Employees
 * Sheri Sawyer - Office of Financial Management

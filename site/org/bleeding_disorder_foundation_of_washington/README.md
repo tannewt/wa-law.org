@@ -8,6 +8,8 @@
 
 ### [HB 1262](/bill/2025-26/hb/1262/) - Health disparities council 👍1  
 
+### [HB 1566](/bill/2025-26/hb/1566/) - Prior authorization/health 👍1  
+
 ### [SB 5064](/bill/2025-26/sb/5064/) - Rare diseases adv. council   ❓1
 * ❓💵 Stephanie Simpson
 

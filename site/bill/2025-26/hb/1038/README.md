@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/04/2025 [MyNorthwest](/org/mynorthwest/) - [Democratic lawmakers vow to 'Trump-proof' protections in WA](https://mynorthwest.com/uncategorized/democratic/4039959#:~:text=House%20Bill%201038)
+
 ## Meetings

@@ -17,13 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163065&caId=25516&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163065&caId=25516&tId=4)
 
-#### 57 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * Jose Zunino - Emerald Downs
 * Maria "Rocio" Reyes - Emerald Downs
 * Philip Ziegler - Emerald Downs
 * Ron Crockett - Emerald Downs
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

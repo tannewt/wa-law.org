@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1428/</link>
 		<description>Updates about HB 1428</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 11:06:08 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 05 Feb 2025 07:04:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -72,7 +72,7 @@
 			<guid isPermaLink="false">testifier/Rod/Higgins/2025-02-02 08:05:06</guid>
 		</item>
 		<item>
-			<title>👎Donna Alber - Mayor, City of Issaquah</title>
+			<title>👎Donna Alber - City of Everett (city councilmember)</title>
 			<description>Donna Alber signed up to testify Con.</description>
 			<pubDate>Mon, 03 Feb 2025 05:40:40 GMT</pubDate>
 			<category>testifier</category>
@@ -110,6 +110,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Mary Lou/Pauly/2025-02-04 11:06:08</guid>
+		</item>
+		<item>
+			<title>👍Pete Serrano - Mayor, City of Pasco</title>
+			<description>Pete Serrano signed up to testify Pro. They are signed up to represent Mayor, City of Pasco.</description>
+			<pubDate>Wed, 05 Feb 2025 06:07:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Pete/Serrano/2025-02-05 06:07:33</guid>
+		</item>
+		<item>
+			<title>👍Scott Bader - City of Everett (city councilmember)</title>
+			<description>Scott Bader signed up to testify Pro. They are signed up to represent City of Everett (city councilmember).</description>
+			<pubDate>Wed, 05 Feb 2025 07:04:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Bader/2025-02-05 07:04:15</guid>
 		</item>
 	</channel>
 </rss>

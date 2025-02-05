@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162736&caId=25352&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162736&caId=25352&tId=4)
 
-#### 29 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Mayor Nancy Backus - City of Auburn
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
@@ -27,8 +27,10 @@ Testifying:
 * Adam Vaughn - Budget and Finance Director at the City of Toppenish
 * Michael Harmon - City of Blaine City Manager
 * Mary Lou Pauly - Mayor, City of Issaquah
+* Pete Serrano - Mayor, City of Pasco
+* Scott Bader - City of Everett (city councilmember)
 
-#### 315 👎 - Con
+#### 371 👎 - Con
 Testifying:
 * Donna Alber
 

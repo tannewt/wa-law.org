@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32656&aId=162515&caId=25407&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32656&aId=162515&caId=25407&tId=4)
 
-#### 1023 👍 - Pro
+#### 1515 👍 - Pro
 Testifying:
 * 💵Heather Andrews - Americans for Prosperity Washington
 * Vicki Murray - Washington Policy Center
@@ -33,8 +33,9 @@ Testifying:
 * Marc Stegmaier
 * Tiffany Hoben
 * 💵Jean Hill - Washington State Catholic Conference
+* Patricia Cooper
 
-#### 879 👎 - Con
+#### 964 👎 - Con
 Testifying:
 * Justin McKaughan - Molly and Jack’s dad
 * Kailey Mutter
@@ -44,5 +45,6 @@ Testifying:
 * Donna Alber - Donna Alber
 * Jessica Justice
 * Ann Shay
+* Nicole Newsum-Chrisman - Edmonds School District
 
-#### 4 ❓ - Other
+#### 7 ❓ - Other

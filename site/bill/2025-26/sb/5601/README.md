@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/05 08:00 AM - Environment, Energy & Technology (ENET): SB 5601 Alternative jet fuels
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=163001&caId=25488&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=163001&caId=25488&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=163001&caId=25488&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=163001&caId=25488&tId=4)
-
-#### 34 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * John Plaza - SkyNRG Americas
 * 💵Isaac Kastama - Clean & Prosperous Washington
@@ -23,8 +17,13 @@ Testifying:
 * Sean Newsum - Airlines for America
 * Derek Phelps - [Twelve](/org/twelve/)
 * Lilly Hayward - Seattle Metropolitan Chamber of Commerce
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Ender Reed - Neste US, Inc.
+* Yanni Psareas - The Coalition for Renewable Natural Gas
+* Darrin Morgan - SkyNRG
 
-#### 6 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Anne Kroeker - 350 Seattle member
 

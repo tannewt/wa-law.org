@@ -26,9 +26,10 @@ Testifying:
 * Brittany Ota-Malloy - [City of Seattle](/org/city_of_seattle/)
 * Jennifer Dellinger - SBCTC
 
-#### 302 👎 - Con
+#### 390 👎 - Con
 Testifying:
 * John axtell
 * Donna Alber
+* Tami Domico
 
 #### 0 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5382/</link>
 		<description>Updates about SB 5382</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 12:20:53 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 05 Feb 2025 14:39:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -316,6 +316,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Zack/Zinter/2025-02-04 12:20:53</guid>
+		</item>
+		<item>
+			<title>WA Senate Democrats seek stricter rules for initiatives</title>
+			<description>News article "WA Senate Democrats seek stricter rules for initiatives" from MyNorthwest.</description>
+			<pubDate>Wed, 05 Feb 2025 06:08:08 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/mynorthwest-politics/wa-democrats-initiatives/4040423#:~:text=Senate%20Bill%205382</guid>
+		</item>
+		<item>
+			<title>WA Senate Democrats propose stricter regulations for ballot measure initiatives – KIRO 7 News Seattle</title>
+			<description>News article "WA Senate Democrats propose stricter regulations for ballot measure initiatives – KIRO 7 News Seattle" from KIRO7.</description>
+			<pubDate>Wed, 05 Feb 2025 14:39:22 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kiro7.com/news/local/wa-senate-democrats-propose-stricter-regulations-ballot-measure-initiatives/GBAGXOLRPJFBPHH2GTQL3A26BQ/#:~:text=Senate%20Bill%205382</guid>
 		</item>
 	</channel>
 </rss>

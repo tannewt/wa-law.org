@@ -8,18 +8,12 @@
 
 ## Meetings
 ### Wed 02/05 08:00 AM - Labor & Workplace Standards (LAWS): HB 1626 PFML grants/school districts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162711&caId=25458&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162711&caId=25458&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162711&caId=25458&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162711&caId=25458&tId=4)
-
-#### 23 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * 💵Devin Gombosky - ESD 105 Schools Coalition
 * Eric Sobotta - Reardan-Edwall School District
 
-#### 10 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * Joe Kendo
 * 💵Lindsey Hueer - AWB

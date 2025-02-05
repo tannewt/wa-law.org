@@ -1,0 +1,72 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1853](/bill/2025-26/hb/1853/) > [Original Bill](/bill/2025-26/hb/1853/1/)
+
+# HB 1853 - Green community schoolyards
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1853.pdf)
+
+## Section 1
+The legislature acknowledges that in 2021, the legislature established the physical activities task force within the recreation and conservation office. The task force produced recommendations to improve youth health through increased outdoor recreation and physical activities. One of the primary recommendations of the task report was to improve school, youth, and community use of school properties by designating them as community hubs and increasing their use through shared-use agreements.
+
+The legislature finds that access to green spaces has dramatic positive consequences for children and communities, including improvements in academic achievement, increased social connections, more opportunities for physical activity, and better overall health. The legislature also finds that: Public health research shows that the average school-age child spends less than 10 minutes in unstructured play outside each day; statewide only 25 percent of children get the recommended 60 minutes of daily physical activity; and physical inactivity is even more prevalent for girls, youth of color, youth from low-income families, youth with disabilities, and those who have immigrated to the United States.
+
+The legislature also acknowledges that in many areas of Washington, no undeveloped land is available for new parks. The fact that school districts already own property means that outdoor recreational opportunities can be greatly enhanced without costly land acquisition. School properties, if renovated based on school, neighborhood, and community input, have enormous potential to become daily and year-round community assets that support outdoor learning and community gathering and benefit the mental, emotional, and physical health of the youth and adults who live near them, especially those with the least access to play and physical activity opportunities.
+
+The legislature also finds that improving schoolyards by adding green and natural features is a climate resiliency strategy with significant environmental and economic benefits. Schoolyards with more trees and vegetation and fewer concrete surfaces lower average ambient temperatures on warm days and improve air pollution year-round and schoolyards with rainwater capture reduce runoff. Green schoolyards can also increase residential property values and improve health outcomes, reducing health care costs.
+
+The legislature recognizes that community access to school properties is an essential component of a community's cohesion and active public spaces can make communities safer. Therefore, the legislature intends to strengthen community-shared or joint-use agreements between school districts, local governments, and nonprofit organizations in order for youth and communities to reap the benefits of green community schoolyards.
+
+## Section 2
+1. It is the goal of the state of Washington to increase the use of outdoor recreational property owned by school districts for school, neighborhood, and community recreational purposes. Community schoolyards are valuable assets that have the potential to benefit students, families, and their surrounding communities including local residents and businesses.
+
+2. All public school outdoor recreational spaces shall be designated as green community schoolyards and shall be available for general recreational purposes outside of school hours for public and community use, as authorized by school districts.
+
+3. School districts are encouraged to open their schoolyard, playground, and other recreational areas to community use outside of school hours for both structured and official use by community nonprofits or other entities, such as recreational sports leagues or after-school programs, and for unstructured free community play. Local school boards are urged to adopt policies allowing for robust community shared-use agreements with local government entities, community groups, and nonprofit organizations that promote recreational activity.
+
+4. The office of the superintendent of public instruction shall, in consultation with the recreation and conservation office, school districts, educational associations, and youth and outdoor recreational organizations, adopt a model community shared-use policy to enable improved community use of playgrounds and playfields. The model policy must address:
+
+    a. Maximizing the use of school district recreational spaces for community use;
+
+    b. Costs associated with shared use;
+
+    c. Logistics of scheduling;
+
+    d. Liability protection;
+
+    e. Fee collection; and
+
+    f. Sliding scale options and other strategies to address equity and other aspects of shared-use agreements.
+
+5. A school district that receives funding for green community schoolyards capital improvements must allow use of the improved school property through a community shared-use agreement consistent with the purposes of this section. School districts that adopt the model community shared-use policy shall be eligible for adjustments in the calculated rate of state funding assistance through the school construction assistance program. Additional points in the calculated rate shall be given to school districts that adopt the model policy.
+
+## Section 3
+1. Funds appropriated to the superintendent of public instruction from the common school construction fund shall be allotted by the superintendent of public instruction in accordance with this chapter.
+
+2. No allotment shall be made to a school district until such district has provided local funds equal to or greater than the difference between the total approved project cost and the amount of state funding assistance to the district for financing the project computed pursuant to RCW 28A.525.166, with the following exceptions:
+
+    a. The superintendent of public instruction may waive the local requirement for state funding assistance for districts which have provided funds for school building construction purposes through the authorization of bonds or through the authorization of excess tax levies or both in an amount equivalent to two and one-half percent of the value of its taxable property, as defined in RCW 39.36.015.
+
+    b. No such local funds shall be required as a condition to the allotment of funds from the state for the purpose of making major or minor structural changes to existing school facilities in order to bring such facilities into compliance with the barrier free access requirements of section 504 of the federal rehabilitation act of 1973 (29 U.S.C. Sec. 706) and rules implementing the act.
+
+3. For the purpose of computing the state funding assistance percentage under RCW 28A.525.166 when a school district is granted authority to enter into contracts, adjusted valuation per pupil shall be calculated using head count student enrollments from the most recent October enrollment reports submitted by districts to the superintendent of public instruction, adjusted as follows:
+
+    a. In the case of projects for which local bonds were approved after May 11, 1989:
+
+        i. For districts which have been designated as serving high school districts under RCW 28A.540.110, students residing in the nonhigh district so designating shall be excluded from the enrollment count if the student is enrolled in any grade level not offered by the nonhigh district;
+
+        ii. The enrollment of nonhigh school districts shall be increased by the number of students residing within the district who are enrolled in a serving high school district so designated by the nonhigh school district under RCW 28A.540.110, including only students who are enrolled in grade levels not offered by the nonhigh school district; and
+
+        iii. The number of preschool students with disabilities included in the enrollment count shall be multiplied by one-half;
+
+    b. In the case of construction or modernization of high school facilities in districts serving students from nonhigh school districts, the adjusted valuation per pupil shall be computed using the combined adjusted valuations and enrollments of each district, each weighted by the percentage of the district's resident high school students served by the high school district;
+
+    c. The number of kindergarten students included in the enrollment count shall be counted as one head count student; and
+
+    d. The number of students residing outside the school district who are enrolled in alternative learning experience courses under RCW 28A.232.010 shall be excluded from the total.
+
+4. In lieu of the exclusion in subsection (3)(d) of this section, a district may submit an alternative calculation for excluding students enrolled in alternative learning experience courses. The alternative calculation must show the student head count use of district classroom facilities on a regular basis for a regular duration by out-of-district alternative learning experience students subtracted by the head count of in-district alternative learning experience students not using district classroom facilities on a regular basis for a reasonable duration. The alternative calculation must be submitted in a form approved by the office of the superintendent of public instruction. The office of the superintendent of public instruction must develop rules to define "regular basis" and "reasonable duration."
+
+5. School districts that adopt the model community shared-use policy for school playgrounds and playfields under section 2 of this act shall be eligible for adjustments in the calculated rate of state funding assistance through the school construction assistance program. Additional points in the calculated rate will be given to districts that adopt the model community shared-use policy outlined in section 2 of this act.
+
+6. The superintendent of public instruction, considering policy recommendations from the school facilities citizen advisory panel, shall prescribe such rules as are necessary to equate insofar as possible the efforts made by school districts to provide capital funds by the means aforesaid.
+
+7. For the purposes of this section, "preschool students with disabilities" means children of preschool age who have developmental disabilities who are entitled to services under RCW 28A.155.010 through 28A.155.100 and are not included in the kindergarten enrollment count of the district.

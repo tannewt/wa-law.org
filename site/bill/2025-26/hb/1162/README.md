@@ -20,12 +20,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162735&caId=25351&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162735&caId=25351&tId=4)
 
-#### 147 👍 - Pro
+#### 154 👍 - Pro
 Testifying:
 * 💵Remy Kerr - Washington State Hospital Association
 * 💵Melissa Johnson - Washington State Nurses Association
 
-#### 51 👎 - Con
+#### 71 👎 - Con
 
 #### 0 ❓ - Other
 

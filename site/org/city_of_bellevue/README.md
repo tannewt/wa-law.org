@@ -50,15 +50,19 @@
 
 ### [SB 5367](/bill/2025-26/sb/5367/) - Law enf. community grants 👍1  
 
+### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential   ❓1
+
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
 
-## [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
+### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
+
+## [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations   ❓1
 
 ## 2023-24
 
-### [SB 5547](/bill/2023-24/sb/5547/) - Cannabis revenue/local gov. 👍1  
+### [SB 5555](/bill/2023-24/sb/5555/) - Zoning regulations   ❓1
 
 ### [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
 

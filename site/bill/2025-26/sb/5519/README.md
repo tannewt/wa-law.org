@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162454&caId=25242&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162454&caId=25242&tId=4)
 
-#### 158 👍 - Pro
+#### 173 👍 - Pro
+Testifying:
+* Annemarie Dooley - Washington Physicians for Social Responsibility
 
 #### 4 👎 - Con
 Testifying:

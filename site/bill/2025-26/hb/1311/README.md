@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Wed 02/05 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1311 Gray wolves
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162490&caId=25344&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162490&caId=25344&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162490&caId=25344&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162490&caId=25344&tId=4)
-
-#### 503 👍 - Pro
+#### 550 👍 - Pro
 Testifying:
 * Dave Hedrick
 * Brad Manke - Stevens County Sheriff's Office
@@ -34,8 +28,10 @@ Testifying:
 * Ray Maycumber - Ferry County Sheriff's Office
 * Sandra Brock
 * Margie LaShaw
+* Asa Timm
+* Zack Trudell - Ferry County Board of County Commissioners
 
-#### 902 👎 - Con
+#### 920 👎 - Con
 Testifying:
 * john rosapepe - Endangered Species Coalition
 * David Linn

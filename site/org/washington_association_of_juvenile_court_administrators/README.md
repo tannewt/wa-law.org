@@ -1,6 +1,12 @@
 # Washington Association of Juvenile Court Administrators
 ## 2025-26
 
+### [HB 1322](/bill/2025-26/hb/1322/) - Juvenile offenses   ❓1
+* ❓ Jack Murphy
+
+### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍1  
+* 👍 Jack Murphy
+
 ## [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
 * 👍 Linnea Anderson
 

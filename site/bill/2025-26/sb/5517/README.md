@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=162608&caId=25231&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=162608&caId=25231&tId=4)
 
-#### 2269 👍 - Pro
+#### 2407 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Larisss Mccray
@@ -26,12 +26,12 @@ Testifying:
 * Leslie Maxwell
 * Bay Knight
 
-#### 257 👎 - Con
+#### 319 👎 - Con
 Testifying:
 * Donna Alber
 * William Cooper
 
-#### 23 ❓ - Other
+#### 24 ❓ - Other
 Testifying:
 * Dan Steele - WA Assn of School Admin & WA Assn of School Business Officials
 * Alexa Allman - Deer Park School District

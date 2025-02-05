@@ -20,11 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32652&aId=162693&caId=25415&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32652&aId=162693&caId=25415&tId=4)
 
-#### 90 👍 - Pro
+#### 124 👍 - Pro
 Testifying:
 * Selden Prentice
 
-#### 815 👎 - Con
+#### 894 👎 - Con
 Testifying:
 * Kylie Klein
 * Sue Lani Madsen - Washington Rural Environmental Network

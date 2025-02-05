@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/05/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: SB 5181 coming to the Senate floor for a vote today - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-sb-5181-coming-senate/#:~:text=Read%20the%20full%20text%20of%20the%20bill.)
+* 02/04/2025 [MyNorthwest](/org/mynorthwest/) - [WA lawmakers accuse one another of parental rights lies](https://mynorthwest.com/mynorthwest-politics/wa-parental-rights/4039888#:~:text=Senate%20Bill%205181)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205181)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 Legislative Session Update! - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/24/2025-legislative-session-update/#:~:text=SB%205181)
 * 01/23/2025 [MyNorthwest](/org/mynorthwest/) - [Democrats pull a fast one on voters, gut parental rights initiative](https://mynorthwest.com/ktth/ktth-opinion/rantz-wa-democrats-pulled-a-fast-one-on-voters-as-they-undo-parental-rights-initiative/4029200#:~:text=Senate%20Bill%205181)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/04/2025 [KUOW](/org/kuow/) - [KUOW - Clergy would be required to report child abuse, under new bill](https://www.kuow.org/stories/clergy-would-be-required-to-report-child-abuse-und#:~:text=proposed%20bill)
 * 01/30/2025 [KING5](/org/king5/) - [WA legislature to consider bill requiring clergy members be mandatory reporters of child abuse | king5.com](https://www.king5.com/article/news/politics/state-politics/wa-legislature-consider-bill-requiring-clergy-members-be-mandatory-reporters-child-abuse/281-e773bfe3-780f-4162-91a1-64e12c4feab4#:~:text=Senate%20Bill%205375)
 * 01/29/2025 [FOX13](/org/fox13/) - [WA lawmaker wants priests to report abuse | FOX 13 Seattle](https://www.fox13seattle.com/news/lawmaker-wants-priests-report-abuse-wa#:~:text=Senate%20Bill%205375)
 * 01/29/2025 [MyNorthwest](/org/mynorthwest/) - [Washington lawmakers push to make clergy mandatory reporters](https://mynorthwest.com/mynorthwest-politics/lawmakers-push-to-make-clergy-mandatory-reporters-will-this-attempt-finally-succeed/4036329#:~:text=Senate%20Bill%20(SB)%205375)

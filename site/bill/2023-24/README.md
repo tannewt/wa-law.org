@@ -1197,7 +1197,7 @@
 * [SB 5835](sb/5835) - Rule making websites 42👍 1👎 2❓ - SRules 3
 * [SB 6110](sb/6110) - Child fatalities 40👍 1👎 4❓ - SRules 3
 * [SB 6174](sb/6174) - Highways/mowing & litter 43👍 2👎 0❓ - STransportation
-* [HB 1252](hb/1252) - Impact fee deferrals 44👍 0👎 0❓ - HHousing
+* [HB 1252](hb/1252) - Impact fee deferrals 1📰 44👍 0👎 0❓ - HHousing
 * [HB 1306](hb/1306) - Public works procurement 42👍 1👎 1❓ - HRules X
 * [HB 1403](hb/1403) - Water & sewage system access 34👍 10👎 0❓ - HLocal Govt
 * [HB 1626](hb/1626) - Colorectal screening tests 1📰 44👍 0👎 0❓ - C 299 L 23

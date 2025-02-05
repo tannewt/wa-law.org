@@ -14,9 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32633&aId=162436&caId=25425&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32633&aId=162436&caId=25425&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Nick Streuli - [Port of Seattle](/org/port_of_seattle/)
+* Bill Boyce - Councilmember, City of Kent
+* Dana Ralph - Mayor, City of Kent
+* Satwinder Kaur - Council President, City of Kent
+* Tahmina Martelly
 
 #### 0 👎 - Con
 

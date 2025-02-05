@@ -49,12 +49,15 @@
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 
-## [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
+### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
+* 👍 John Flanagan
+
+## [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
 * 👍 John Flanagan
 
 ## 2023-24
 
-### [SB 5592](/bill/2023-24/sb/5592/) - Zero emissions vehicles/sale 👍1  
+### [SB 5601](/bill/2023-24/sb/5601/) - Alternative jet fuels 👍1  
 * 👍 John Flanagan
 
 ### [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  

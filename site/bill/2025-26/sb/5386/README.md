@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Wed 02/05 10:30 AM - Early Learning & K-12 Education (EDU): SB 5386 Schools/sexual assault
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32674&aId=162605&caId=25229&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32674&aId=162605&caId=25229&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32674&aId=162605&caId=25229&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32674&aId=162605&caId=25229&tId=4)
-
-#### 65 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * Sarah Albertson - OSPI
 * Ryn Wylie
@@ -33,8 +27,9 @@ Testifying:
 * Sebrena Burr - Seattle Council PTSA
 * Grace Paulsell
 * Ibrahim Karabay
+* Mark Adrian Dulfo
 
-#### 536 👎 - Con
+#### 669 👎 - Con
 Testifying:
 * John Morgan
 

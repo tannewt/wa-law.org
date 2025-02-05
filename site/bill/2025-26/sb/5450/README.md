@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162453&caId=25241&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162453&caId=25241&tId=4)
 
-#### 192 👍 - Pro
+#### 211 👍 - Pro
 Testifying:
 * Kelsey Payne - Snoqualmie Indian Tribe
 

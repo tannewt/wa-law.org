@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/04/2025 [MyNorthwest](/org/mynorthwest/) - [WA lawmakers accuse one another of parental rights lies](https://mynorthwest.com/mynorthwest-politics/wa-parental-rights/4039888#:~:text=House%20Bill%201296)
 * 02/01/2025 [House Republicans](/org/house_republicans/) - [Fix Washington | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-washington/#:~:text=House%20Bill%201296)
 * 02/01/2025 [House Republicans](/org/house_republicans/) - [Fix Washington | Washington State House Republicans](https://houserepublicans.wa.gov/current/fix-washington/#:~:text=House%20Bill%201296)
 * 01/31/2025 [The Center Square](/org/the_center_square/) - [Bill Republicans say would undo 'parents' bill of rights' initiative moves forward | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d11a0f64-e01f-11ef-a97f-879fca5d7722.html#:~:text=House%20Bill%201296)

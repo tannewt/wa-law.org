@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32661&aId=162534&caId=25396&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32661&aId=162534&caId=25396&tId=4)
 
-#### 28 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Katie Hurley - King County Department of Public Defense
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
@@ -26,11 +26,12 @@ Testifying:
 * Dr. Eric Trupin
 * Julissa Sanchez - CHOOSE 180
 
-#### 9 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Judge Kristin Ferrera - Superior Court Judges' Association
 * 💵Allison Krutsinger - Dept of Children, Youth, and Families
+* Jack Murphy - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)

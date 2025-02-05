@@ -403,7 +403,7 @@
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
-### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍5  
+### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍6  
 * 👍💵 Janie White
 
 ### [SB 5523](/bill/2025-26/sb/5523/) - Higher ed. gov./students 👍1  

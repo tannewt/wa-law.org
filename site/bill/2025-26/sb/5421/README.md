@@ -22,6 +22,6 @@ Testifying:
 Testifying:
 * Salina Lyons - [City of Covington](/org/city_of_covington/)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)

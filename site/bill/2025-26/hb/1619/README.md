@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/05 08:00 AM - Labor & Workplace Standards (LAWS): HB 1619 Dockworkers/family leave
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162709&caId=25456&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162709&caId=25456&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162709&caId=25456&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162709&caId=25456&tId=4)
-
-#### 20 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Brock Graber - Intrnational Longshore & Warehouse Union Local 23
 * Douglas Dietz - International Longshore & Warehouse Union Local 21

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/05 08:00 AM - Environment, Energy & Technology (ENET): SB 5188 Broadband repair loans
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=162449&caId=25237&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=162449&caId=25237&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=162449&caId=25237&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=162449&caId=25237&tId=4)
-
-#### 8 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * 💵Mara Machulsky - Northwest Open Access Network

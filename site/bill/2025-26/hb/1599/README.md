@@ -19,7 +19,7 @@ Testifying:
 * Steve Boms - American Association for Debt Resolution
 * Tom McBride - American Association for Debt Resolution
 
-#### 17 👎 - Con
+#### 18 👎 - Con
 Testifying:
 * Bruce McClary - National Foundation for Credit Counseling
 * Julia Kellison - Northwest Justice Project
@@ -27,5 +27,6 @@ Testifying:
 * Amanda Martin - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
 * Barbara Maxwell
 * Molly Gallagher - Washington Statewide Poverty Action Network
+* 💵Ellen Harnick
 
 #### 0 ❓ - Other

@@ -3,13 +3,14 @@
 
 ### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍1  
 
-## [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules 👍1  
+### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules 👍1  
 * 👍 Bill Will
+
+## [SB 5429](/bill/2025-26/sb/5429/) - State building code council  👎1 
 
 ## 2023-24
 
-### [SB 5175](/bill/2023-24/sb/5175/) - Photovoltaic modules 👍1  
-* 👍 Bill Will
+### [SB 5429](/bill/2023-24/sb/5429/) - State building code council  👎1 
 
 ### [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
 

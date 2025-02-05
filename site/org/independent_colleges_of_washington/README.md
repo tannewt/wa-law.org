@@ -6,6 +6,8 @@
 ### [HB 1143](/bill/2025-26/hb/1143/) - College grant award amounts 👍1  
 * 👍 Ph.D., Terri Standish-Kuon
 
+### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
+
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  

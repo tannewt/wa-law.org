@@ -32,6 +32,10 @@
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 
+### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍1  
+
+### [HB 1630](/bill/2025-26/hb/1630/) - Livestock methane emissions 👍1  
+
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
 * 👍💵 Altinay Karasapan
 

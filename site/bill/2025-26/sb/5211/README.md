@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/05/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Legislature weighs paying parents who care for children with disabilities • Washington State Standard](https://washingtonstatestandard.com/2025/02/05/wa-legislature-weighs-paying-parents-who-care-for-children-with-disabilities/#:~:text=Senate%20Bill%205211)
 * 01/28/2025 [The Center Square](/org/the_center_square/) - [WA considers paying parents for caring for disabled kids amid in-home shortages | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8c6bfd46-ddae-11ef-acfa-671326e94d47.html#:~:text=Senate%20Bill%205211)
 
 ## Meetings

@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162822&caId=25248&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162822&caId=25248&tId=4)
 
-#### 37 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Ralph Baard
 * Sunil Aggarwal
@@ -32,7 +32,7 @@ Testifying:
 * Wendy Lynn
 * Wendy Lynn
 
-#### 237 👎 - Con
+#### 293 👎 - Con
 Testifying:
 * Alba Sari
 * Angela Ross
@@ -45,7 +45,7 @@ Testifying:
 * William Cooper
 * Suzanne Moreillon
 
-#### 15 ❓ - Other
+#### 17 ❓ - Other
 Testifying:
 * Bailey Quigley - on behalf of REACH WA. Responsible Entheogen Access and Community Healing Coalition
 * Lauren Feringa - Hippie and a Veteran Foundation
@@ -61,3 +61,4 @@ Testifying:
 * Heidi Venture - Vital Reset Psilocybin Service Center
 * Jessa Lewis
 * Kelsey Taylor
+* Todd Youngs

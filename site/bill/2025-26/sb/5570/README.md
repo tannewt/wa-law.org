@@ -17,14 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163041&caId=25502&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163041&caId=25502&tId=4)
 
-#### 84 👍 - Pro
+#### 112 👍 - Pro
 Testifying:
 * Henry Strom - Office of Superintendent of Public Instruction
 * Lisa Ganuelas - [Confederated Tribes of the Umatilla Indian Reservation](/org/confederated_tribes_of_the_umatilla_indian_reservation/)
 * Monica Tonasket - [Spokane Tribe of Indians](/org/spokane_tribe_of_indians/)
 * Matt Remle - Lakota, Marysville School District Native Education Department Program Supervisor
+* Shana Brown
+* Dolores Calderon
 
-#### 233 👎 - Con
+#### 287 👎 - Con
 Testifying:
 * Donna Alber
 

@@ -80,11 +80,15 @@
 
 ### [SB 5464](/bill/2025-26/sb/5464/) - CDL federal standards 👍1  
 
-## [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
+### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
+
+## [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+* 👍 Chris Herman
 
 ## 2023-24
 
-### [SB 5492](/bill/2023-24/sb/5492/) - Tourism promotion 👍1  
+### [SB 5601](/bill/2023-24/sb/5601/) - Alternative jet fuels 👍1  
+* 👍 Chris Herman
 
 ### [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
 
