@@ -5,6 +5,12 @@
 
 ### [HB 1048](/bill/2025-26/hb/1048/) - Rangeland fire pilot 👍1  
 
+### [HB 1311](/bill/2025-26/hb/1311/) - Gray wolves 👍1  
+* 👍💵 Mark Streuli
+
+### [HB 1442](/bill/2025-26/hb/1442/) - Gray wolf management 👍1  
+* 👍💵 Mark Streuli
+
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 
 ### [SB 5117](/bill/2025-26/sb/5117/) - Protecting agriculture. 👍1  

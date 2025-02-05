@@ -6,15 +6,12 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/04/2025 [The Center Square](/org/the_center_square/) - [Proposed legislation would pull the plug on Tesla’s EV sales advantage in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d5b3ce26-e343-11ef-a095-c38b117fec61.html#:~:text=Senate%20Bill%205377)
+
 ## Meetings
 ### Tue 02/04 10:30 AM - Labor & Commerce (LC): SB 5377 Motor vehicle dealers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162810&caId=25282&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162810&caId=25282&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162810&caId=25282&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162810&caId=25282&tId=4)
-
-#### 883 👍 - Pro
+#### 886 👍 - Pro
 Testifying:
 * Habtamu Asfaw
 * Brad Brotherton - Brotherton Cadillac GMC, Washington State Auto Dealers Association

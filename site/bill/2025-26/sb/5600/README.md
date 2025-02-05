@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/04 10:30 AM - Labor & Commerce (LC): SB 5600 TNCs/large-scale events
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162987&caId=25283&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162987&caId=25283&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162987&caId=25283&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162987&caId=25283&tId=4)
-
-#### 137 👍 - Pro
+#### 138 👍 - Pro
 Testifying:
 * Mark Bandy - Seattle FIFA World Cup Local Organizing Committee
 * Abdullahi Shakul

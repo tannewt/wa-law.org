@@ -18,9 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162727&caId=25358&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162727&caId=25358&tId=4)
 
-#### 264 👍 - Pro
+#### 312 👍 - Pro
 Testifying:
 * Fred Trujillo - Retired Public Employees
+* Sheri Sawyer - Office of Financial Management
+* Bonita Jacques - Retired Public Employees Council of WA
+* Connie Greenidge - Retired Public Employees Council of WA
+* Linda Nelsen - Retired Public Employees Council of WA
+* Clair Olivers - Retired Public Employees Council of WA
 
 #### 2 👎 - Con
 

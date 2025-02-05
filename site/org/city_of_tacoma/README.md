@@ -11,7 +11,11 @@
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓1
 
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
+
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
+
+### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 
@@ -29,11 +33,17 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
-## [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
+### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
+
+### [SB 5529](/bill/2025-26/sb/5529/) - ADU tax exemptions 👍1  
+
+### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
+
+## [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 
 ## 2023-24
 
-### [SB 5541](/bill/2023-24/sb/5541/) - Future fund pilot project 👍1  
+### [SB 5547](/bill/2023-24/sb/5547/) - Cannabis revenue/local gov. 👍1  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 

@@ -8,18 +8,16 @@
 
 ## Meetings
 ### Tue 02/04 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1648 Child care qualifications
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162532&caId=25394&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162532&caId=25394&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162532&caId=25394&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162532&caId=25394&tId=4)
-
-#### 67 👍 - Pro
+#### 93 👍 - Pro
 Testifying:
 * Dana Christiansen - Childcare provider - Tree Hill
 * Lauren Adams
 * Sarah Clark - Seattle Metropolitan Chamber of Commerce
 * JIHYE LEE
+* Angelia Hicks-Maxie - TTDC
+* Amaal Mohamed - Tiny Treasure Childcare
+* Susan Brown - Kids Co., Greater Seattle Child Care Business Coalition, and Washington Childcare Centers Assn
+* Laura Murphey - Taylor Tots Childcare Center Inc
 
 #### 3 👎 - Con
 

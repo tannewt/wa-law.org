@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1625/</link>
 		<description>Updates about HB 1625</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 07:09:09 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 10:43:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Brad/Banks/2025-02-04 07:09:09</guid>
+		</item>
+		<item>
+			<title>👍Summer Scheyer - Skamania County SO</title>
+			<description>Summer Scheyer signed up to testify Pro. They are signed up to represent Skamania County SO.</description>
+			<pubDate>Tue, 04 Feb 2025 10:43:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Summer/Scheyer/2025-02-04 10:43:16</guid>
 		</item>
 	</channel>
 </rss>

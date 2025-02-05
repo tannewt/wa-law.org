@@ -14,11 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32630&aId=162421&caId=25387&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32630&aId=162421&caId=25387&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Steve Boms - American Association for Debt Resolution
 * Tom McBride - American Association for Debt Resolution
 
-#### 9 👎 - Con
+#### 17 👎 - Con
+Testifying:
+* Bruce McClary - National Foundation for Credit Counseling
+* Julia Kellison - Northwest Justice Project
+* Rebecca House
+* Amanda Martin - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
+* Barbara Maxwell
+* Molly Gallagher - Washington Statewide Poverty Action Network
 
 #### 0 ❓ - Other

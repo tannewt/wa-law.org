@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32652&aId=162866&caId=25417&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32652&aId=162866&caId=25417&tId=4)
 
-#### 79 👍 - Pro
+#### 109 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * 💵James King - IAutomotive Recyclers of Washington
 
-#### 8 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* 💵Holly Chisa - Recycled Materials Assn
 
 #### 1 ❓ - Other

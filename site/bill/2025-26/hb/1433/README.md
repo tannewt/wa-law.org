@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162467&caId=25437&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162467&caId=25437&tId=4)
 
-#### 22 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * David Platt
 * Allison King
@@ -28,14 +28,27 @@ Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Mark Gaskill - Adventure Psychotherapy
 * Heath Hollensbe
+* 💵Paula Sardinas - WBBA (WA Build Black Alliance)
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
+* Leonora Russell - ADAPT-WA
+* Wendy Lynn
 
-#### 6 👎 - Con
+#### 27 👎 - Con
 Testifying:
 * Cole Schrim LMHC - Tacoma Psychedelic Society
 * Andy Fischer-Price
 * Angela Ross
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* 💵Amy Brackenbury - Washington State Medical Association & Washington State Public Health Association
+* Annie McGrath - Washington State Psychiatric Association (WSPA)
+* Rebecca Allen MD MPH - Seattle Neuropsychiatric Treatment Center
+* Justin Stamschror - Washington State Psychiatric Association (WSPA)
+* Rachel Cervenak - Responsible Entheogen Access & Community Healing (REACH) Coalition
+* Mason Marks
+* Suzanne Moreillon
+* Jerred Locke
 
-#### 6 ❓ - Other
+#### 15 ❓ - Other
 Testifying:
 * Bailey Quigley - on behalf of REACH Washington. Responsible Entheogen Access and Community Healing Coalition
 * Lauren Feringa
@@ -43,3 +56,10 @@ Testifying:
 * Angela Ward
 * jerry spieckerman - PTPS
 * Kody Zalewski - [Psychedelic Medicine Alliance of Washington](/org/psychedelic_medicine_alliance_of_washington/)
+* Micah Sherman
+* Jessica Nielson - Minnesota Psychedelic Medicine Task Force
+* Jon Dennis - REACH Washington
+* 💵Megan Veith - Washington State Department of Health
+* Heidi Venture
+* Jessa Lewis
+* Kelsey Taylor

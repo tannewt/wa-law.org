@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32700&aId=163025&caId=25505&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32700&aId=163025&caId=25505&tId=4)
 
-#### 10 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Elizabeth Walker - South Puget Sound Habitat for Humanity
 
 #### 0 👎 - Con
 

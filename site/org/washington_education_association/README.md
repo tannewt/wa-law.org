@@ -55,6 +55,8 @@
 
 ### [HB 1161](/bill/2025-26/hb/1161/) - Veteran employability 👍1  
 
+### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍1  
+
 ### [HB 1172](/bill/2025-26/hb/1172/) - Fire district civil service 👍1  
 
 ### [HB 1182](/bill/2025-26/hb/1182/) - Parks & rec./interest arb. 👍1  
@@ -153,6 +155,8 @@
 ### [HB 1450](/bill/2025-26/hb/1450/) - Transition to kindergarten  👎5 
 * 👎💵 Julie Salvi
 
+### [HB 1453](/bill/2025-26/hb/1453/) - Scrap metal/stolen copper 👍1  
+
 ### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase   ❓2
 * ❓ Jared Mason-Gere
 * ❓ Jared Mason-Gere
@@ -165,6 +169,8 @@
 
 ### [HB 1524](/bill/2025-26/hb/1524/) - Concerning workplace standards and requirements applicable to employers of isolated employees. 👍1  
 
+### [HB 1544](/bill/2025-26/hb/1544/) - Child abuse risk assessment 👍1  
+
 ### [HB 1554](/bill/2025-26/hb/1554/) - College bound scholarship 👍1  
 
 ### [HB 1556](/bill/2025-26/hb/1556/) - HS completers/CTC tuition 👍1  
@@ -173,9 +179,23 @@
 
 ### [HB 1565](/bill/2025-26/hb/1565/) - Dual enrollment scholarship 👍1  
 
+### [HB 1567](/bill/2025-26/hb/1567/) - Health care administrators 👍1  
+
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 
 ### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍1  
+
+### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart 👍1  
+
+### [HB 1603](/bill/2025-26/hb/1603/) - Medicare supp. coverage 👍1  
+
+### [HB 1619](/bill/2025-26/hb/1619/) - Dockworkers/family leave 👍1  
+
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
+
+### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees 👍1  
+
+### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 
 ### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent.  👎1 
 * 👎💵 Lorrell Noahr
@@ -367,6 +387,8 @@
 
 ### [SB 5381](/bill/2025-26/sb/5381/) - Self-insurer withdrawal 👍1  
 
+### [SB 5386](/bill/2025-26/sb/5386/) - Schools/sexual assault 👍1  
+
 ### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 
 
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
@@ -379,7 +401,9 @@
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 
-### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍2  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍5  
 * 👍💵 Janie White
 
 ### [SB 5523](/bill/2025-26/sb/5523/) - Higher ed. gov./students 👍1  
@@ -393,6 +417,10 @@
 ### [SB 5542](/bill/2025-26/sb/5542/) - HS completers/CTC tuition 👍1  
 
 ### [SB 5543](/bill/2025-26/sb/5543/) - College bound scholarship 👍1  
+
+### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation 👍1  
+
+### [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍1  
 
 ### [SB 5593](/bill/2025-26/sb/5593/) - School levies & local effort 👍1  
 * 👍💵 Julie Salvi

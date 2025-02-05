@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32704&aId=162838&caId=25221&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32704&aId=162838&caId=25221&tId=4)
 
-#### 15 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Tom Davis - WA Forest Protection Association
 

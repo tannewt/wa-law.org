@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 02/04 10:30 AM - Labor & Commerce (LC): SB 5592 Zero emissions vehicles/sale
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162988&caId=25284&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162988&caId=25284&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162988&caId=25284&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162988&caId=25284&tId=4)
-
-#### 173 👍 - Pro
+#### 175 👍 - Pro
 Testifying:
 * Skye Golann - Electrification Coalition
 * Christine Cooley - [Puget Sound Clean Air Agency](/org/puget_sound_clean_air_agency/)
@@ -30,7 +24,7 @@ Testifying:
 * 💵Paula Sardinas - WA Build Back Black Alliance (WBBA)
 * Christine Cooley - [Puget Sound Clean Air Agency](/org/puget_sound_clean_air_agency/)
 
-#### 1429 👎 - Con
+#### 1431 👎 - Con
 Testifying:
 * Brad Brotherton - Brotherton Cadillac GMC Buick, Washington State Auto Dealers Association
 * Jaclyn Midkiff - Harvest Auto, Washington State Auto Dealers Association

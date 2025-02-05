@@ -12,23 +12,27 @@
 
 ## Meetings
 ### Tue 02/04 04:00 PM - Environment & Energy (ENVI): HB 1652 Ocean vessels/environment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32651&aId=162501&caId=25412&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32651&aId=162501&caId=25412&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32651&aId=162501&caId=25412&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32651&aId=162501&caId=25412&tId=4)
-
-#### 493 👍 - Pro
+#### 525 👍 - Pro
 Testifying:
 * Annemarie Dooley - Washington Physicians for Social Responsibility
+* Jay Julius - Lummi Fisherman
+* Deborah Giles - WildOrca
+* Brendan Flynn - FulmarFish
+* Marcie Keever - Friends of the Earth
+* Mona Howe - Climate Action Families
 
-#### 12 👎 - Con
+#### 19 👎 - Con
 Testifying:
 * Jacqueline Moore - [Pacific Merchant Shipping Association](/org/pacific_merchant_shipping_association/)
+* 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Sean Eagan - Northwest Seaport Alliance
 * Tad Sommerville
 * DONALD BROWN - Cruise Lines International Association (CLIA)
 * 💵Amber Carter - Columbia River Steamship Operators Assn.
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * JOHN WORTHINGTON
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
+* Joanna Ekrem - WA Dept. of Ecology
+* Don Gourlie - Puget Sound Partnership

@@ -19,10 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162854&caId=25477&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162854&caId=25477&tId=4)
 
-#### 302 👍 - Pro
+#### 368 👍 - Pro
+Testifying:
+* Aseem Mulji - Campaign Legal Center
+* 💵Giovanni Severino - [Latino Community Fund](/org/latino_community_fund/)
+* Michael Pernick - Legal Defense Fund
+* Roxana Norouzi - OneAmerica
 
-#### 1194 👎 - Con
+#### 1395 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* LORILEE GATES
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 1 ❓ - Other

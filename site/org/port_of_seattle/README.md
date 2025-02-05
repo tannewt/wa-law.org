@@ -22,9 +22,20 @@
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 
+### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  
+* 👍💵 Nick Streuli
+
 ### [HB 1595](/bill/2025-26/hb/1595/) - Economic development plan 👍1  
 
+### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
+
+### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment   ❓1
+* ❓ John Flanagan
+
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
+
+### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth  👎1 
+* 👎 John Flanagan
 
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 

@@ -58,13 +58,16 @@
 
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
 
-## [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
+### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
 * 👍💵 Leah Missik
+
+## [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels   ❓1
+* ❓💵 Leah Missik
 
 ## 2023-24
 
-### [SB 5592](/bill/2023-24/sb/5592/) - Zero emissions vehicles/sale 👍1  
-* 👍💵 Leah Missik
+### [SB 5601](/bill/2023-24/sb/5601/) - Alternative jet fuels   ❓1
+* ❓💵 Leah Missik
 
 ### [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍2  
 * 👍💵 Leah Missik

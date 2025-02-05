@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 02/04 01:30 PM - Consumer Protection & Business (CPB): HB 1346 Cannabis industry
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162409&caId=25381&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162409&caId=25381&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162409&caId=25381&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162409&caId=25381&tId=4)
-
-#### 8 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Brooke Davies - Washington CannaBusiness Association
 * Becca Burghardi - Northwest Cannabis Solutions
@@ -27,8 +21,9 @@ Testifying:
 * Andy Brassington - Evergreen Herbal
 * 💵Brooke Davies - Washington CannaBusiness Association
 * 💵Ezra Eickmeyer - Producers NW
+* 💵Vicki Christophersen - Washington CannaBusiness Association
 
-#### 66 👎 - Con
+#### 82 👎 - Con
 Testifying:
 * Brandon Park - 4235 Springdale Hunters Rd
 * Shea Hynes - 4612 17th Ave NW
@@ -45,8 +40,9 @@ Testifying:
 * Jferrich Oba - Black Excellence In Cannabis
 * Mike Asai - Black Excellence In Cannabis
 * Peter Manning - Black Excellence In Cannabis
+* Justin Rondeaux - BC Labs
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Caitlein Ryan - THE CANNABIS ALLIANCE
 * Micah Sherman

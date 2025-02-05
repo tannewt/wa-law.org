@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1348/</link>
 		<description>Updates about HB 1348</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 07:47:12 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 12:19:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,7 +37,7 @@
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201348</guid>
 		</item>
 		<item>
-			<title>👎Brandon Park - Zips Cannabis</title>
+			<title>👎Brandon Park - Washington CannaBusiness Association</title>
 			<description>Brandon Park signed up to testify Con.</description>
 			<pubDate>Sun, 02 Feb 2025 05:42:16 GMT</pubDate>
 			<category>testifier</category>
@@ -195,6 +195,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Zak/Richardson/2025-02-04 07:47:12</guid>
+		</item>
+		<item>
+			<title>👍💵Brooke Davies - Washington CannaBusiness Association</title>
+			<description>Brooke Davies signed up to testify Pro. They are signed up to represent Washington CannaBusiness Association. They are a registered lobbyist.</description>
+			<pubDate>Tue, 04 Feb 2025 12:19:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brooke/Davies/2025-02-04 12:19:01</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [What’s happening in Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/04/whats-happening-in-olympia/#:~:text=Senate%20Bill%205083)
+
 ## Meetings
 ### Fri 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5083 Health carrier reimbursement
 #### 643 👍 - Pro

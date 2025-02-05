@@ -16,11 +16,15 @@
 ### [SB 5286](/bill/2025-26/sb/5286/) - State hospitals/police costs 👍1  
 * 👍 Captain Chris Westby
 
-## [SB 5290](/bill/2025-26/sb/5290/) - Allowing persons who complete substance abuse programs to seek dismissal of certain controlled substance related charges.  👎1 
+### [SB 5290](/bill/2025-26/sb/5290/) - Allowing persons who complete substance abuse programs to seek dismissal of certain controlled substance related charges.  👎1 
+
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+## [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev.  👎1 
 
 ## 2023-24
 
-### [SB 5290](/bill/2023-24/sb/5290/) - Allowing persons who complete substance abuse programs to seek dismissal of certain controlled substance related charges.  👎1 
+### [SB 5587](/bill/2023-24/sb/5587/) - Affordable housing dev.  👎1 
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 

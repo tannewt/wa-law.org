@@ -14,17 +14,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=163001&caId=25488&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=163001&caId=25488&tId=4)
 
-#### 8 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * John Plaza - SkyNRG Americas
 * 💵Isaac Kastama - Clean & Prosperous Washington
 * Mike Fong - Snohomish County
+* Scott Kennedy - [Alaska Airlines](/org/alaska_airlines/)
+* Sean Newsum - Airlines for America
+* Derek Phelps - [Twelve](/org/twelve/)
+* Lilly Hayward - Seattle Metropolitan Chamber of Commerce
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Anne Kroeker - 350 Seattle member
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Joel Jones - Washington State Department of Ecology
 * Joel Creswell - Washington State Department of Ecology
+* Caitlin Krenn - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)

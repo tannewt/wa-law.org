@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1573/</link>
 		<description>Updates about HB 1573</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 08:19:53 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Mary/Hall/2025-01-27 08:19:53</guid>
+		</item>
+		<item>
+			<title>SGOV - Executive action taken by committee.</title>
+			<description>SGOV - Executive action taken by committee.</description>
+			<pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-04/SGOV - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

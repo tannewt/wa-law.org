@@ -27,6 +27,8 @@
 
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓1
 
+### [HB 1518](/bill/2025-26/hb/1518/) - Vehicle collision liability  👎1 
+
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 * 👍 Bianca Siegl
 
@@ -48,11 +50,15 @@
 
 ### [SB 5367](/bill/2025-26/sb/5367/) - Law enf. community grants 👍1  
 
-## [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
+### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
+
+### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
+
+## [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 
 ## 2023-24
 
-### [SB 5453](/bill/2023-24/sb/5453/) - Public defense recruitment 👍1  
+### [SB 5547](/bill/2023-24/sb/5547/) - Cannabis revenue/local gov. 👍1  
 
 ### [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
 

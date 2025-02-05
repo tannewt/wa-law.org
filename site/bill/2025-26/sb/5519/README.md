@@ -14,13 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162454&caId=25242&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162454&caId=25242&tId=4)
 
-#### 141 👍 - Pro
+#### 158 👍 - Pro
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Jacqueline Moore - [Pacific Merchant Shipping Association](/org/pacific_merchant_shipping_association/)
 * 💵Amber Carter - Columbia River Steamship Operators Assn.
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * john worthington

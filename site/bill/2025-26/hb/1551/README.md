@@ -12,21 +12,21 @@
 
 ## Meetings
 ### Tue 02/04 01:30 PM - Consumer Protection & Business (CPB): HB 1551 Cannabis social equity prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162412&caId=25384&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162412&caId=25384&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162412&caId=25384&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162412&caId=25384&tId=4)
+#### 6 👍 - Pro
+Testifying:
+* 💵Paula Sardinas - FMS Global Strategies
 
-#### 4 👍 - Pro
-
-#### 61 👎 - Con
+#### 76 👎 - Con
 Testifying:
 * Jferrich Oba - Black Excellence In Cannabis
 * Mike Asai - Black Excellence In Cannabis
 * Peter Manning - Black Excellence In Cannabis
+* Suzanne Brown
+* Jeremy Larson - Dondo Enterprises, LLC
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Rolando Rodriguez - Green Roads Cannabis
 * Caitlein Ryan - CAITLEIN RYAN
+* Micah Sherman
+* Jessica Pichardo - Canna Luz

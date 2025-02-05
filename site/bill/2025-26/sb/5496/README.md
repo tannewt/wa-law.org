@@ -14,11 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32699&aId=162848&caId=25261&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32699&aId=162848&caId=25261&tId=4)
 
-#### 70 👍 - Pro
+#### 145 👍 - Pro
+Testifying:
+* 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
+* 💵Denise Rodriguez - WA Homeownership Resource Center
+* Kevin Hunter
 
-#### 79 👎 - Con
+#### 88 👎 - Con
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * Aidan Thornsberry
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other

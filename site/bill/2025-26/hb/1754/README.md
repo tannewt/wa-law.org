@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32622&aId=163068&caId=25507&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32622&aId=163068&caId=25507&tId=4)
 
-#### 15 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* 💵Laurie Weidner - ED, Retired Public Employee Council of WA
+* Robby Stern - [Puget Sound Advocates for Retirement Action](/org/puget_sound_advocates_for_retirement_action/)
 
 #### 0 👎 - Con
 

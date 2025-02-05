@@ -10,8 +10,13 @@
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
 
+### [HB 1311](/bill/2025-26/hb/1311/) - Gray wolves 👍1  
+* 👍💵 Paula Swedeen
+
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 * 👍💵 Nadine Nadow
+
+### [HB 1442](/bill/2025-26/hb/1442/) - Gray wolf management  👎1 
 
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
 * 👍💵 Nadine Nadow

@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Tue 02/04 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1211 Clergy, duty to report abuse
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162529&caId=25391&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162529&caId=25391&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162529&caId=25391&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32660&aId=162529&caId=25391&tId=4)
-
-#### 141 👍 - Pro
+#### 157 👍 - Pro
 Testifying:
 * Robert Fontana
 * Lori Fontana
@@ -51,12 +45,13 @@ Testifying:
 * Melanie Sakoda - SNAP, the Survivors Network of those Abused by Priests
 * Toni Roy - Heal Our Church
 
-#### 95 👎 - Con
+#### 99 👎 - Con
 Testifying:
 * Bishop Frank Schuster - Archdiocese of Seattle
 * 💵Jean Hill - Washington State Catholic Conference
 * David DeWolf
 * John Axtell
 * Theresa Schrempp
+* Eric Kniffin - Ethics and Public Policy Center
 
 #### 0 ❓ - Other

@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32631&aId=162426&caId=25389&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32631&aId=162426&caId=25389&tId=4)
 
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Emily Wade - Towing & Recovery Association of WA (TRAW)
 * Kris Zachary - Burns Towing
 * Paul Bressi - Nisqually Towing
 * 💵Peter Lukevich - Towing & Recovery Association of WA (TRAW)
 
-#### 8 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* Christina Henry - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
+* Julia Kellison - Northwest Justice Project
+* Molly Gallagher - Washington Statewide Poverty Action Network
 
 #### 0 ❓ - Other

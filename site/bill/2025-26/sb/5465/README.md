@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Tue 02/04 01:30 PM - Environment, Energy & Technology (ENET): SB 5465 Wildfire costs/securitizing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32641&aId=162447&caId=25235&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32641&aId=162447&caId=25235&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32641&aId=162447&caId=25235&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32641&aId=162447&caId=25235&tId=4)
-
-#### 5 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Jay Balasbas - PacifiCorp
 * Jillian Caires - Avista Corporation
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 👎 - Con
 

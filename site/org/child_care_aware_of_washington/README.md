@@ -3,6 +3,8 @@
 
 ### [HB 1082](/bill/2025-26/hb/1082/) - Child care provider qualif. 👍1  
 
+### [HB 1099](/bill/2025-26/hb/1099/) - Tenant assistance program  👎1 
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Emily Murphy
 

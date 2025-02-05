@@ -19,10 +19,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162622&caId=25469&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162622&caId=25469&tId=4)
 
-#### 9 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * John Axtell
+* Stephanie Rock - Washington State Board for Community & Technical Colleges
 
-#### 203 👎 - Con
+#### 297 👎 - Con
 
 #### 1 ❓ - Other

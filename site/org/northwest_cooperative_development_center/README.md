@@ -9,6 +9,8 @@
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 
+### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍1  
+
 ## [SB 5298](/bill/2025-26/sb/5298/) - Mobile home community sale 👍1  
 * 👍 Victoria OBanion
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1570/</link>
 		<description>Updates about HB 1570</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 02 Feb 2025 02:02:22 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 04:42:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,38 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Alexander/Matheson/2025-02-02 02:02:22</guid>
+		</item>
+		<item>
+			<title>👍💵Emily Myers - UAW</title>
+			<description>Emily Myers signed up to testify Pro. They are signed up to represent UAW. They are a registered lobbyist.</description>
+			<pubDate>Tue, 04 Feb 2025 03:43:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emily/Myers/2025-02-04 03:43:18</guid>
+		</item>
+		<item>
+			<title>👍Gabriel Kelly - Western Academic Workers United</title>
+			<description>Gabriel Kelly signed up to testify Pro. They are signed up to represent Western Academic Workers United.</description>
+			<pubDate>Tue, 04 Feb 2025 03:43:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Gabriel/Kelly/2025-02-04 03:43:18</guid>
+		</item>
+		<item>
+			<title>❓David Buri - Eastern Washington University</title>
+			<description>David Buri signed up to testify Other. They are signed up to represent Eastern Washington University.</description>
+			<pubDate>Tue, 04 Feb 2025 04:31:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/David/Buri/2025-02-04 04:31:58</guid>
+		</item>
+		<item>
+			<title>👍💵Nathan Tippmann - TESC Student Lobbyist</title>
+			<description>Nathan Tippmann signed up to testify Pro. They are signed up to represent TESC Student Lobbyist. They are a registered lobbyist.</description>
+			<pubDate>Tue, 04 Feb 2025 04:42:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nathan/Tippmann/2025-02-04 04:42:12</guid>
 		</item>
 	</channel>
 </rss>

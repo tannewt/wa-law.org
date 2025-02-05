@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5396/</link>
 		<description>Updates about SB 5396</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 08:24:53 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 21:25:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -101,6 +101,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Alison/Eldridge/2025-01-28 08:24:53</guid>
+		</item>
+		<item>
+			<title>Protecting local news and pilots - Sen. Marko Liias</title>
+			<description>News article "Protecting local news and pilots - Sen. Marko Liias" from Senate Democrats.</description>
+			<pubDate>Tue, 04 Feb 2025 21:25:50 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2025/02/04/protecting-local-news-and-pilots/#:~:text=Senate%20Bill%205396</guid>
 		</item>
 	</channel>
 </rss>

@@ -42,13 +42,21 @@
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
 * 👍 Andrew Villeneuve
 
-## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍1  
+### [SB 5201](/bill/2025-26/sb/5201/) - Psychedelic substances 👍1  
+
+### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍1  
 * 👍 Andrew Villeneuve
+
+### [SB 5414](/bill/2025-26/sb/5414/) - Social equity impact/audits 👍1  
+
+### [SB 5423](/bill/2025-26/sb/5423/) - Digital electronics/repair 👍2  
+* 👍 Andrew Villeneuve
+
+## [SB 5490](/bill/2025-26/sb/5490/) - Providing parameters for conducting searches of transgender and intersex individuals confined in a local jail in compliance with federal law. 👍1  
 
 ## 2023-24
 
-### [SB 5400](/bill/2023-24/sb/5400/) - Local news journalism 👍1  
-* 👍 Andrew Villeneuve
+### [SB 5490](/bill/2023-24/sb/5490/) - Providing parameters for conducting searches of transgender and intersex individuals confined in a local jail in compliance with federal law. 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

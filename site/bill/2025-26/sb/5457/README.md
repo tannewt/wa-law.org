@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/04 04:00 PM - Ways & Means (WM): SB 5457 Broadcasters
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32639&aId=162898&caId=25334&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32639&aId=162898&caId=25334&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32639&aId=162898&caId=25334&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32639&aId=162898&caId=25334&tId=4)
-
-#### 16 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * 💵Rowland Thompson - Washington State Association of Broadcasters
 * Keith Shipman - Washington State Association of Broadcasters

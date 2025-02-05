@@ -21,6 +21,11 @@
 
 ### [HB 1349](/bill/2025-26/hb/1349/) - Pension credit for leave 👍1  
 
+### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍1  
+
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
+* 👍 Joey Hicklin
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
 ### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  

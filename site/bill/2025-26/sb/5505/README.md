@@ -14,9 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=162450&caId=25238&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=162450&caId=25238&tId=4)
 
-#### 15 👍 - Pro
+#### 49 👍 - Pro
+Testifying:
+* Christopher Carleton - Whatcom County Fire District 5
+* Clint Volk - Union Fire Department
+* Michael Oblizalo - Hood Canal Communications
+* Rick Vitzthum - Tenino Telephone Company & Kalama Telephone Company
 
-#### 217 👎 - Con
+#### 319 👎 - Con
 Testifying:
 * Donna Alber
 

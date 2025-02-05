@@ -1,6 +1,12 @@
 # Northwest Consumer Law Center
 ## 2025-26
 
+### [HB 1530](/bill/2025-26/hb/1530/) - Reg. businesses/card fees  👎1 
+* 👎 Christina Henry
+
+### [HB 1599](/bill/2025-26/hb/1599/) - Concerning consumer debt adjusters and debt resolution services providers.  👎1 
+* 👎 Amanda Martin
+
 ## [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 * 👍 Amanda Martin
 

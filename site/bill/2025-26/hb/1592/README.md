@@ -21,12 +21,6 @@ Sign up to testify:
 #### 0 ❓ - Other
 
 ### Tue 02/04 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1592 Public defense services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32688&aId=163016&caId=25500&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32688&aId=163016&caId=25500&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32688&aId=163016&caId=25500&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32688&aId=163016&caId=25500&tId=4)
-
 #### 92 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

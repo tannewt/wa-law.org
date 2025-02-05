@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205570)
+
 ## Meetings
 ### Thu 02/06 10:30 AM - Early Learning & K-12 Education (EDU): SB 5570 Tribes/K-12 instruction
 Sign up to testify:
@@ -14,11 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163041&caId=25502&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163041&caId=25502&tId=4)
 
-#### 10 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * Henry Strom - Office of Superintendent of Public Instruction
 * Lisa Ganuelas - [Confederated Tribes of the Umatilla Indian Reservation](/org/confederated_tribes_of_the_umatilla_indian_reservation/)
+* Monica Tonasket - [Spokane Tribe of Indians](/org/spokane_tribe_of_indians/)
+* Matt Remle - Lakota, Marysville School District Native Education Department Program Supervisor
 
-#### 32 👎 - Con
+#### 233 👎 - Con
+Testifying:
+* Donna Alber
 
 #### 0 ❓ - Other

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/04 01:30 PM - Health Care & Wellness (HCW): HB 1589 Health carriers & providers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162466&caId=25436&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162466&caId=25436&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162466&caId=25436&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162466&caId=25436&tId=4)
-
-#### 1212 👍 - Pro
+#### 1367 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * Rachel Atkins
@@ -26,9 +20,10 @@ Testifying:
 * 💵Lori Grassi - WA State Chiropractic Association
 * 💵Melissa Johnson - APTA-WA /WA Speech, Language, Hearing
 * Ben Packard - Washington State Society for Clinical Social Work
+* Jim Freeburg - Patient Coalition of Washington
 
 #### 1 👎 - Con
 
-#### 8 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans

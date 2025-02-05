@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1410/</link>
 		<description>Updates about HB 1410</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 07:31:52 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 09:41:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -124,6 +124,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ezra/Eickmeyer/2025-02-04 07:31:52</guid>
+		</item>
+		<item>
+			<title>👎Mike Asai - Black Excellence In Cannabis</title>
+			<description>Mike Asai signed up to testify Con. They are signed up to represent Black Excellence In Cannabis.</description>
+			<pubDate>Tue, 04 Feb 2025 09:41:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mike/Asai/2025-02-04 09:41:39</guid>
+		</item>
+		<item>
+			<title>👎Peter Manning - Black Excellence In Cannabis</title>
+			<description>Peter Manning signed up to testify Con. They are signed up to represent Black Excellence In Cannabis.</description>
+			<pubDate>Tue, 04 Feb 2025 09:41:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Peter/Manning/2025-02-04 09:41:39</guid>
 		</item>
 	</channel>
 </rss>

@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32700&aId=163023&caId=25503&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32700&aId=163023&caId=25503&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Steve Horvath - HOA United
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 0 ❓ - Other

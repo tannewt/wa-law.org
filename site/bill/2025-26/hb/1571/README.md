@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162708&caId=25455&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162708&caId=25455&tId=4)
 
-#### 8 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * 💵Teresa Taylor - (WACOPS) Washington Council of Police & Sheriffs
+* Kalina Shouse
+* Matt Lowery
+* Ray Sayah
 
-#### 6 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 1 ❓ - Other
 Testifying:

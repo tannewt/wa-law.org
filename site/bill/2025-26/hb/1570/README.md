@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162707&caId=25454&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162707&caId=25454&tId=4)
 
-#### 144 👍 - Pro
+#### 170 👍 - Pro
 Testifying:
 * Alexander Matheson - CWU Working Wildcats
+* 💵Emily Myers - UAW
+* Gabriel Kelly - Western Academic Workers United
+* 💵Nathan Tippmann - TESC Student Lobbyist
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* David Buri - Eastern Washington University

@@ -20,11 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32652&aId=162693&caId=25415&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32652&aId=162693&caId=25415&tId=4)
 
-#### 69 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * Selden Prentice
 
-#### 521 👎 - Con
+#### 815 👎 - Con
 Testifying:
 * Kylie Klein
 * Sue Lani Madsen - Washington Rural Environmental Network
@@ -32,5 +32,9 @@ Testifying:
 * john worthington
 * Amanda McKinney - Yakima County Commissioner
 * Cindy Corpe
+* Donna Alber
+* Patricia Cooper
+* William Cooper
+* 💵Jack Field - [Washington Cattle Feeders Association](/org/washington_cattle_feeders_association/)
 
 #### 0 ❓ - Other

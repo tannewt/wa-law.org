@@ -8,19 +8,13 @@
 
 ## Meetings
 ### Tue 02/04 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1325 Fish & wildlife enforcement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32647&aId=162486&caId=25343&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32647&aId=162486&caId=25343&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32647&aId=162486&caId=25343&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32647&aId=162486&caId=25343&tId=4)
-
-#### 21 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Dan Wilson - Backcountry Hunters & Anglers- Washington Chapter
 * 💵Alexei Calambokidis - [Trout Unlimited](/org/trout_unlimited/)
 * Jeff Wickersham - WDFW
 
-#### 551 👎 - Con
+#### 552 👎 - Con
 Testifying:
 * Anthony Holan
 * Anthony Holan

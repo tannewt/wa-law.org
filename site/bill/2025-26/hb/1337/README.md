@@ -8,5 +8,6 @@
 
 ## 📰 Articles
 * [House Republicans](/org/house_republicans/) - [Smarter Government | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/smarter-government/#:~:text=Getting%20ferries%20online%20faster)
+* [House Republicans](/org/house_republicans/) - [Smarter Government | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/smarter-government/#:~:text=Getting%20ferries%20online%20faster)
 
 ## Meetings

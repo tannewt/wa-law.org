@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/04 01:30 PM - Environment, Energy & Technology (ENET): SB 5445 Local energy resilience
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32641&aId=162448&caId=25236&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32641&aId=162448&caId=25236&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32641&aId=162448&caId=25236&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32641&aId=162448&caId=25236&tId=4)
-
-#### 304 👍 - Pro
+#### 323 👍 - Pro
 Testifying:
 * 💵Dave Warren - WA Green Hydrogen Alliance
 * 💵Liz Anderson - Washington Public Utility Districts Association
@@ -27,4 +21,6 @@ Testifying:
 * 💵Charlee Thompson - NW Energy Coalition
 * Heather Nicholson
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Glenn Blackmon - Washington State Department of Commerce

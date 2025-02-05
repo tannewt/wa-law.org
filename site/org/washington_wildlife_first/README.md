@@ -1,7 +1,13 @@
 # Washington Wildlife First
 ## 2025-26
 
+### [HB 1311](/bill/2025-26/hb/1311/) - Gray wolves  👎1 
+* 👎 Dr. Francisco Santiago-Ávila
+
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
+
+### [HB 1442](/bill/2025-26/hb/1442/) - Gray wolf management  👎1 
+* 👎 Dr. Francisco Santiago-Ávila
 
 ### [SB 5152](/bill/2025-26/sb/5152/) - Concerning state employee access to peer-reviewed journals. 👍1  
 * 👍 Francisco Santiago-Ávila

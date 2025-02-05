@@ -11,21 +11,19 @@
 
 ## Meetings
 ### Tue 02/04 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1232 Private detention facilities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32680&aId=162674&caId=25377&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32680&aId=162674&caId=25377&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32680&aId=162674&caId=25377&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32680&aId=162674&caId=25377&tId=4)
-
-#### 620 👍 - Pro
+#### 1130 👍 - Pro
 Testifying:
 * Leslie Cushman - Latino Civic Alliance
 * Liliana Chumpitasi - La Resistencia
 * Tim Warden-Hertz - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 * 💵Antonio Ginatta - [Columbia Legal Services](/org/columbia_legal_services/)
+* Breck Lebegue MD MPH
+* Ashley Ramirez - UW Tacoma Student
+* 💵Isela Bonilla - Student
+* 💵Michelle Carrillo - Student
 
 #### 4 👎 - Con
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * SCOTT HUTSELL - Lincoln County Commissioner / Chairman Martin Hall Consortium Board

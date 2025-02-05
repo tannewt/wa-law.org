@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/28 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1437 Tourism promotion

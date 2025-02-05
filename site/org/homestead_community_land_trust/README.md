@@ -1,13 +1,14 @@
 # Homestead Community Land Trust
 ## 2025-26
 
-## [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
+### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 * 👍 Kathleen Hosfeld
+
+## [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
 
 ## 2023-24
 
-### [HB 1216](/bill/2023-24/hb/1216/) - Capital budget 👍1  
-* 👍 Kathleen Hosfeld
+### [SB 5496](/bill/2023-24/sb/5496/) - Home buying by entities 👍1  
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 

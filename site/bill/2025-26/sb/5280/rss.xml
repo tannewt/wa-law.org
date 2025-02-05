@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5280/</link>
 		<description>Updates about SB 5280</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 30 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 21:23:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -90,6 +90,13 @@
 			<pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-30/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Back to Olympia - Sen. Claudia Kauffman</title>
+			<description>News article "Back to Olympia - Sen. Claudia Kauffman" from Senate Democrats.</description>
+			<pubDate>Tue, 04 Feb 2025 21:23:02 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205280</guid>
 		</item>
 	</channel>
 </rss>

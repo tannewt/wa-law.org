@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [What’s happening in Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/04/whats-happening-in-olympia/#:~:text=Senate%20Bill%205387)
 * 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 4: Housing, job security, consumer protection and floor action - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/02/this-week-in-the-senate-week-4-housing-job-security-consumer-protection-and-floor-action/#:~:text=Senate%20Bill%205387)
 
 ## Meetings
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32702&aId=162827&caId=25252&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32702&aId=162827&caId=25252&tId=4)
 
-#### 152 👍 - Pro
+#### 166 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * MD, Kay Funk

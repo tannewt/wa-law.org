@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=162449&caId=25237&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=162449&caId=25237&tId=4)
 
-#### 7 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * 💵Mara Machulsky - Northwest Open Access Network

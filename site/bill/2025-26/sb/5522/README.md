@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 02/04 01:30 PM - State Government & Elections (SGE): SB 5522 State capitol campus
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32671&aId=162576&caId=25308&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32671&aId=162576&caId=25308&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32671&aId=162576&caId=25308&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32671&aId=162576&caId=25308&tId=4)
-
-#### 9 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Christopher Stanley - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Denny Heck - Lt. Governor

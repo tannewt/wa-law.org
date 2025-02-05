@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting local news and pilots - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/04/protecting-local-news-and-pilots/#:~:text=Senate%20Bill%205400)
 * 01/29/2025 [The Center Square](/org/the_center_square/) - [News at what cost? WA bill pits journalists against higher education funding | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1cba676e-de8d-11ef-a8ea-f33addf8deba.html#:~:text=Senate%20Bill%205400)
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [Liias bill supporting local journalism to be heard in committee Tuesday - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/01/27/liias-bill-supporting-local-journalism-to-be-heard-in-committee-tuesday/#:~:text=Senate%20Bill%205400)
 * 01/24/2025 [Senate Democrats](/org/senate_democrats/) - [Supporting local journalism and student success - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/01/24/3559/#:~:text=Senate%20Bill%205400)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1582/</link>
 		<description>Updates about HB 1582</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 06:52:08 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 10:43:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -78,6 +78,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Christine/Luna/2025-02-04 06:52:08</guid>
+		</item>
+		<item>
+			<title>👍Ashley Trevino - Key Peninsula Preschool</title>
+			<description>Ashley Trevino signed up to testify Pro.</description>
+			<pubDate>Tue, 04 Feb 2025 10:43:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ashley/Trevino/2025-02-04 10:43:18</guid>
 		</item>
 	</channel>
 </rss>

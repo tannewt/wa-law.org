@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Tue 02/04 04:00 PM - Ways & Means (WM): SB 5529 ADU tax exemptions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32639&aId=162915&caId=25339&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32639&aId=162915&caId=25339&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32639&aId=162915&caId=25339&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32639&aId=162915&caId=25339&tId=4)
-
-#### 10 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Briahna Murray - Lobbyist, City of Tacoma
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Steven Drew - Thurston County Assessor & co chair of the legislative committee for The Wa Association of Assessors
 

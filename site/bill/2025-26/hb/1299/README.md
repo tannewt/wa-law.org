@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Tue 02/04 10:30 AM - Local Government (LG): HB 1299 Minimum parking requirements
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32635&aId=162648&caId=25459&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32635&aId=162648&caId=25459&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32635&aId=162648&caId=25459&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32635&aId=162648&caId=25459&tId=4)
-
-#### 606 👍 - Pro
+#### 608 👍 - Pro
 Testifying:
 * Daniel Herriges - Parking Reform Network
 * Ron Davis - Sightline, on behalf of the coalition we have gathered
@@ -43,6 +37,7 @@ Testifying:
 * Sara Morimoto
 * McKai Morgan - A1DesignBuild
 * Jenne Alderks - Councilmember, City of Bothell
+* Wes Stewart - Sierra Club Washington
 
 #### 603 👎 - Con
 Testifying:

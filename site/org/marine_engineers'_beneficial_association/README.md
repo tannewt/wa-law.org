@@ -1,6 +1,8 @@
 # Marine Engineers' Beneficial Association
 ## 2025-26
 
+### [HB 1140](/bill/2025-26/hb/1140/) - Establishing empowerED scholarships using educational savings accounts.  👎1 
+
 ### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍1  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
@@ -9,6 +11,10 @@
 * 👍 Eric Winge
 
 ### [HB 1453](/bill/2025-26/hb/1453/) - Scrap metal/stolen copper 👍1  
+
+### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase 👍1  
+
+### [HB 1489](/bill/2025-26/hb/1489/) - Childhood ed./impl. dates  👎1 
 
 ### [HB 1565](/bill/2025-26/hb/1565/) - Dual enrollment scholarship 👍1  
 
@@ -25,6 +31,16 @@
 ### [SB 5059](/bill/2025-26/sb/5059/) - Ferry captains 👍1  
 
 ### [SB 5386](/bill/2025-26/sb/5386/) - Schools/sexual assault 👍1  
+
+### [SB 5397](/bill/2025-26/sb/5397/) - CTC faculty w/o tenure limit 👍1  
+
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍1  
+
+### [SB 5542](/bill/2025-26/sb/5542/) - HS completers/CTC tuition 👍1  
+
+### [SB 5543](/bill/2025-26/sb/5543/) - College bound scholarship 👍1  
 
 ## [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
 

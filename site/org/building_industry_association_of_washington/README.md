@@ -73,10 +73,16 @@
 
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management  👎1 
 
+### [HB 1518](/bill/2025-26/hb/1518/) - Vehicle collision liability  👎1 
+
 ### [HB 1533](/bill/2025-26/hb/1533/) - Specialty electricians 👍1  
+
+### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
 
 ### [HB 1576](/bill/2025-26/hb/1576/) - Concerning the designation of historic landmarks by cities.   ❓1
 * ❓💵 Bill Stauffacher
+
+### [HB 1626](/bill/2025-26/hb/1626/) - PFML grants/school districts  👎1 
 
 ### [HB 1644](/bill/2025-26/hb/1644/) - Working minors  👎1 
 
@@ -144,6 +150,14 @@
 
 ### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process 👍1  
 * 👍💵 Andrea Smiley
+
+### [SB 5580](/bill/2025-26/sb/5580/) - Corp. homeowner registration  👎1 
+* 👎💵 Bill Stauffacher
+
+### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍1  
+
+### [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍1  
+* 👍💵 Bill Stauffacher
 
 ## [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎1 
 

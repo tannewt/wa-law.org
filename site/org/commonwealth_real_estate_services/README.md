@@ -8,6 +8,9 @@
 * 👎💵 Brad Tower
 * 👎💵 Brad Tower
 
+### [HB 1365](/bill/2025-26/hb/1365/) - Mobile home rental assist. 👍1  
+* 👍💵 Brad Tower
+
 ### [HB 1542](/bill/2025-26/hb/1542/) - Senior independent housing  👎1 
 * 👎💵 Brad Tower
 

@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162490&caId=25344&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162490&caId=25344&tId=4)
 
-#### 350 👍 - Pro
+#### 503 👍 - Pro
 Testifying:
 * Dave Hedrick
 * Brad Manke - Stevens County Sheriff's Office
@@ -26,13 +26,24 @@ Testifying:
 * Brian Smiley
 * Nicole Wells
 * Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
+* Wes McCart
+* 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
+* 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
+* 💵Caleb Gwerder - Washington Farm Bureau
+* Jay Holzmiller - Washington Farm Bureau
+* Ray Maycumber - Ferry County Sheriff's Office
+* Sandra Brock
 * Margie LaShaw
 
-#### 833 👎 - Con
+#### 902 👎 - Con
 Testifying:
 * john rosapepe - Endangered Species Coalition
 * David Linn
 * John Roskelley
 * Ronald Reed - Retired
+* Dr. Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
+* John Rosapepe - Endangered Species Coalition
+* Rachel Bjork - Speak For Wolves
+* David Linn
 
-#### 7 ❓ - Other
+#### 8 ❓ - Other

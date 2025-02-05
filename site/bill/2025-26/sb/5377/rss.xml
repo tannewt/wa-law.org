@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5377/</link>
 		<description>Updates about SB 5377</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 09:02:30 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 16:03:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -934,6 +934,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Eric/Jones/2025-02-04 09:02:30</guid>
+		</item>
+		<item>
+			<title>Proposed legislation would pull the plug on Tesla’s EV sales advantage in WA | Washington | thecentersquare.com</title>
+			<description>News article "Proposed legislation would pull the plug on Tesla’s EV sales advantage in WA | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Tue, 04 Feb 2025 16:03:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_d5b3ce26-e343-11ef-a095-c38b117fec61.html#:~:text=Senate%20Bill%205377</guid>
 		</item>
 	</channel>
 </rss>

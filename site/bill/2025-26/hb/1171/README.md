@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32661&aId=162533&caId=25395&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32661&aId=162533&caId=25395&tId=4)
 
-#### 13 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Rhea Yo - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Paul Holland - Ronald A. Peterson Law Clinic
 * Maialisa Vanyo - WSBA Council on Public Defense
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
-#### 0 👎 - Con
+#### 9 👎 - Con
 
 #### 0 ❓ - Other

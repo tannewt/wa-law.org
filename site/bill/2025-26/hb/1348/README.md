@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 02/04 01:30 PM - Consumer Protection & Business (CPB): HB 1348 Cannabis/employee ownership
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162410&caId=25382&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162410&caId=25382&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162410&caId=25382&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162410&caId=25382&tId=4)
-
-#### 19 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Brian Smith - PTM Management Corp
 * Daniel Torczyner - S Rothschild & Co, Inc.
@@ -31,8 +25,9 @@ Testifying:
 * Jamie Hoffman - Craft Elixirs
 * Darren Gleeman - MBO Ventures
 * Zak Richardson - Zips Cannabis
+* 💵Brooke Davies - Washington CannaBusiness Association
 
-#### 56 👎 - Con
+#### 77 👎 - Con
 Testifying:
 * Brandon Park
 * Shawn DeNae Wagenseller - Washington Bud Company

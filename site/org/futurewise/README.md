@@ -68,6 +68,9 @@
 ### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting   ❓1
 * ❓💵 Bryce Yadon
 
+### [SB 5301](/bill/2025-26/sb/5301/) - Gov. services/tribal lands 👍1  
+* 👍💵 Bryce Yadon
+
 ### [SB 5374](/bill/2025-26/sb/5374/) - Transportation/tribal rep. 👍1  
 
 ### [SB 5461](/bill/2025-26/sb/5461/) - Intensive rural dev. areas   ❓1
@@ -78,6 +81,12 @@
 
 ### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing   ❓1
 * ❓💵 Bryce Yadon
+
+### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters 👍1  
+* 👍💵 Bryce Yadon
+
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+* 👍💵 Bryce Yadon
 
 ### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans   ❓1
 * ❓💵 Bryce Yadon

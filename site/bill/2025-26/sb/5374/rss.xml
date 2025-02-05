@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5374/</link>
 		<description>Updates about SB 5374</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 12:58:46 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 21:23:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -38,6 +38,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Mark/McKechnie/2025-01-27 12:58:46</guid>
+		</item>
+		<item>
+			<title>Back to Olympia - Sen. Claudia Kauffman</title>
+			<description>News article "Back to Olympia - Sen. Claudia Kauffman" from Senate Democrats.</description>
+			<pubDate>Tue, 04 Feb 2025 21:23:02 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205374</guid>
 		</item>
 	</channel>
 </rss>

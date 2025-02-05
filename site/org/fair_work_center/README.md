@@ -5,7 +5,7 @@
 * 👍 Jeremiah Miller
 * 👍 Jeremiah Miller
 
-### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍1  
+### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍2  
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program. 👍1  
 

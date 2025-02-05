@@ -13,6 +13,8 @@
 
 ### [HB 1511](/bill/2025-26/hb/1511/) - Ferry captains 👍1  
 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers 👍1  

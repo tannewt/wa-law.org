@@ -14,14 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162746&caId=25368&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162746&caId=25368&tId=4)
 
-#### 7 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Judge Michael Finkle - District & Municipal Court Judges' Association
+* 💵Melissa Johnson - District & Municipal Court Judges' Association
+* Judge Jessica Giner - District & Municipal Court Judges' Association
 
-#### 39 👎 - Con
+#### 40 👎 - Con
 Testifying:
 * Rudy Van Ry - 6595 Northwest Dr
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Kari Reardon - WACDL/WDA
+* 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162736&caId=25352&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162736&caId=25352&tId=4)
 
-#### 19 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Mayor Nancy Backus - City of Auburn
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
@@ -26,8 +26,9 @@ Testifying:
 * Rebecca Mertzig - Chief of the Bellingham Police Department
 * Adam Vaughn - Budget and Finance Director at the City of Toppenish
 * Michael Harmon - City of Blaine City Manager
+* Mary Lou Pauly - Mayor, City of Issaquah
 
-#### 207 👎 - Con
+#### 315 👎 - Con
 Testifying:
 * Donna Alber
 

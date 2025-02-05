@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205374)
+
 ## Meetings
 ### Mon 01/27 04:00 PM - Transportation (TRAN): SB 5374 Transportation/tribal rep.
 #### 16 👍 - Pro

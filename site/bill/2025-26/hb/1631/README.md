@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 02/04 01:30 PM - State Government & Tribal Relations (SGOV): HB 1631 State marine forest
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32668&aId=162558&caId=25473&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32668&aId=162558&caId=25473&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32668&aId=162558&caId=25473&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32668&aId=162558&caId=25473&tId=4)
-
-#### 502 👍 - Pro
+#### 569 👍 - Pro
 Testifying:
 * Eric Von Brandenfels - [Puget Sound Pilots](/org/puget_sound_pilots/)
 * Amy Grondin - Duna Fisheries, LLC
@@ -27,6 +21,7 @@ Testifying:
 * Jodie Toft - Puget Sound Restoration Fund
 * Miguela Marzolf - Seattle Aquarium
 * Sebastian Ford
+* Amy Wilson
 
 #### 2 👎 - Con
 

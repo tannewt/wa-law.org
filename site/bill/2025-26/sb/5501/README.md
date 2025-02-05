@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 02/04 10:30 AM - Labor & Commerce (LC): SB 5501 Employee driving requirement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162809&caId=25281&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162809&caId=25281&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162809&caId=25281&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162809&caId=25281&tId=4)
-
-#### 177 👍 - Pro
+#### 182 👍 - Pro
 Testifying:
 * 💵Anna Zivarts - [Disability Rights Washington](/org/disability_rights_washington/)
 * Hayley Edick

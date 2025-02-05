@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SJM%208000)
+
 ## Meetings
 ### Mon 01/20 04:00 PM - Transportation (TRAN): SJM 8000 Martin Luther King, Jr. Way
 #### 2 👍 - Pro

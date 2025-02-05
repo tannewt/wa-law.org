@@ -53,7 +53,10 @@
 
 ### [HB 1511](/bill/2025-26/hb/1511/) - Ferry captains 👍1  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍5  
+* 👍 Rhonda Buchanan
+* 👍 Kati Durkin
+* 👍 Kati Durkin
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 

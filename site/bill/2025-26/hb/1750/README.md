@@ -19,11 +19,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162985&caId=25478&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162985&caId=25478&tId=4)
 
-#### 257 👍 - Pro
+#### 331 👍 - Pro
+Testifying:
+* Gabriel Portugal - Washington State League of United Latin American Citizens (LULAC)
+* Roxana Norouzi - OneAmerica
+* Lorena Gonzalez - ACLU of Washington
+* Marisa Wright - Campaign Legal Center
+* Michael Pernick - Legal Defense Fund
 
-#### 1173 👎 - Con
+#### 1322 👎 - Con
 Testifying:
 * Donna Alber
+* LORILEE GATES
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 ❓ - Other

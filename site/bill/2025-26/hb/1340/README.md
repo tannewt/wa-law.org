@@ -18,11 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162443&caId=25431&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162443&caId=25431&tId=4)
 
-#### 208 👍 - Pro
+#### 220 👍 - Pro
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Anthony Mixer - Washington State Young Republicans
 
-#### 7 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Cindy Corpe
 

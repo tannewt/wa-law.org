@@ -153,6 +153,8 @@
 ### [HB 1507](/bill/2025-26/hb/1507/) - Health care nondisclosure  👎1 
 * 👎💵 Emily Wittman
 
+### [HB 1518](/bill/2025-26/hb/1518/) - Vehicle collision liability  👎1 
+
 ### [HB 1522](/bill/2025-26/hb/1522/) - Utility wildfire mitigation 👍1  
 * 👍💵 Peter Godlewski
 
@@ -164,6 +166,8 @@
 * 👍💵 Peter Godlewski
 
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
+
+### [HB 1576](/bill/2025-26/hb/1576/) - Concerning the designation of historic landmarks by cities. 👍1  
 
 ### [HB 1582](/bill/2025-26/hb/1582/) - Concerning child care centers operated in existing buildings. 👍1  
 
@@ -179,8 +183,16 @@
 
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍1  
 
+### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment  👎1 
+
 ### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy  👎1 
 * 👎💵 Morgan Irwin
+
+### [HB 1684](/bill/2025-26/hb/1684/) - Water recreation facilities  👎1 
+* 👎💵 Morgan Irwin
+
+### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth  👎1 
+* 👎💵 Peter Godlewski
 
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement  👎1 
 * 👎💵 Lindsey Hueer
@@ -293,6 +305,9 @@
 ### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
 * 👍💵 Lindsey Hueer
 
+### [SB 5430](/bill/2025-26/sb/5430/) - Utility wildfire mitigation 👍1  
+* 👍💵 Peter Godlewski
+
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons   ❓1
 * ❓💵 Peter Godlewski
 
@@ -304,10 +319,18 @@
 ### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎1 
 * 👎💵 Lindsey Hueer
 
+### [SB 5465](/bill/2025-26/sb/5465/) - Wildfire costs/securitizing 👍1  
+* 👍💵 Peter Godlewski
+
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎1 
 * 👎💵 Peter Godlewski
 
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
+
+### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities  👎1 
+* 👎💵 Morgan Irwin
+
+### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters 👍1  
 
 ### [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
 * 👍💵 Lindsey Hueer
@@ -325,6 +348,9 @@
 * 👎💵 Lindsey Hueer
 
 ### [SB 5554](/bill/2025-26/sb/5554/) - Historic landmark desig. 👍1  
+* 👍💵 Morgan Irwin
+
+### [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations 👍1  
 * 👍💵 Morgan Irwin
 
 ### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans   ❓1

@@ -18,12 +18,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162653&caId=25464&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162653&caId=25464&tId=4)
 
-#### 129 👍 - Pro
+#### 190 👍 - Pro
+Testifying:
+* Chris Hellstern - American Institute of Architects, Washington Council
+* Mikhail Haramati - Natural Resources Defense Council
+* Roger Heeringa
+* 💵Brandon Houskeeper - [American Wood Council](/org/american_wood_council/)
+* Amie Lewis - New Buildings Institute
+* Dani Lopez
+* Jessie Templeton
 
-#### 315 👎 - Con
+#### 444 👎 - Con
 Testifying:
 * Donna Alber
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Kjell Anderson - Washington State Building Code Council
+* Jordan Palmeri - [University of Washington](/org/university_of_washington/)

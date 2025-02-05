@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1365/</link>
 		<description>Updates about HB 1365</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 09:19:59 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 11:26:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -176,7 +176,23 @@
 			<guid isPermaLink="false">testifier/Cindy/Vick/2025-02-03 11:01:38</guid>
 		</item>
 		<item>
-			<title>👎Anthony Holan - xxx-xx-xxxx</title>
+			<title>👎Sharon Pevey - AMHO</title>
+			<description>Sharon Pevey signed up to testify Con. They are signed up to represent AMHO.</description>
+			<pubDate>Tue, 04 Feb 2025 01:53:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sharon/Pevey/2025-02-04 01:53:40</guid>
+		</item>
+		<item>
+			<title>👍Melinda OHara - Washington State Gambling Commission</title>
+			<description>Melinda OHara signed up to testify Pro.</description>
+			<pubDate>Tue, 04 Feb 2025 01:58:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Melinda/OHara/2025-02-04 01:58:56</guid>
+		</item>
+		<item>
+			<title>👎Anthony Holan - AMHO</title>
 			<description>Anthony Holan signed up to testify Con.</description>
 			<pubDate>Tue, 04 Feb 2025 06:36:25 GMT</pubDate>
 			<category>testifier</category>
@@ -198,6 +214,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Tedd/Kelleher/2025-02-04 09:19:59</guid>
+		</item>
+		<item>
+			<title>👍💵Brad Tower - Commonwealth Real Estate Services</title>
+			<description>Brad Tower signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/commonwealth_real_estate_services/"&gt;Commonwealth Real Estate Services&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 04 Feb 2025 10:01:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brad/Tower/2025-02-04 10:01:00</guid>
+		</item>
+		<item>
+			<title>👎💵Ishbel Dickens - Assoc of Manufactured Home Owners</title>
+			<description>Ishbel Dickens signed up to testify Con. They are signed up to represent Assoc of Manufactured Home Owners. They are a registered lobbyist.</description>
+			<pubDate>Tue, 04 Feb 2025 10:42:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ishbel/Dickens/2025-02-04 10:42:46</guid>
+		</item>
+		<item>
+			<title>👍Kevin Van De Wege - Detente</title>
+			<description>Kevin Van De Wege signed up to testify Pro. They are signed up to represent Detente.</description>
+			<pubDate>Tue, 04 Feb 2025 11:26:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kevin/Van De Wege/2025-02-04 11:26:47</guid>
 		</item>
 	</channel>
 </rss>

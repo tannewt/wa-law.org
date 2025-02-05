@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Building a cleaner, stronger community - Sen. Bill Ramos](https://senatedemocrats.wa.gov/ramos/2025/02/04/building-a-cleaner-stronger-community/#:~:text=SB%205480)
 * 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 4: Housing, job security, consumer protection and floor action - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/02/this-week-in-the-senate-week-4-housing-job-security-consumer-protection-and-floor-action/#:~:text=Senate%20Bill%205480)
 
 ## Meetings

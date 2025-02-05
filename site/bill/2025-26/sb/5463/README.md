@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 02/04 10:30 AM - Labor & Commerce (LC): SB 5463 Industrial insurance/duties
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162629&caId=25280&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162629&caId=25280&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162629&caId=25280&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=162629&caId=25280&tId=4)
-
 #### 158 👍 - Pro
 Testifying:
 * Lannie Grillo
@@ -24,7 +18,7 @@ Testifying:
 * Steven Compton - UA Local 598
 * 💵Samantha Grad - Teamsters 117
 
-#### 35 👎 - Con
+#### 36 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Christine Brewer - Washington Self Insurers Association

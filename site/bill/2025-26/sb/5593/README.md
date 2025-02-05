@@ -17,15 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163040&caId=25501&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163040&caId=25501&tId=4)
 
-#### 6 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* 💵Clifford Traisman - Bellevue, Seattle, Northshore and Highline Public School Districts
 
-#### 45 👎 - Con
+#### 259 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Initiative Activist
+* Donna Alber
+* Patricia Cooper
+* Laurie Layne
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Oliver Miska
+* Dan Steele - WA Assn of School Admin & WA Assn of School Business Officials

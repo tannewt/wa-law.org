@@ -17,21 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=163047&caId=25512&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=163047&caId=25512&tId=4)
 
-#### 9 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * 💵Stefan Moritz - [Unite Here Local 8](/org/unite_here_local_8/)
 
-#### 172 👎 - Con
+#### 184 👎 - Con
+Testifying:
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 1 ❓ - Other
 
 ### Tue 02/04 10:30 AM - Labor & Workplace Standards (LAWS): HB 1623 Tips/credit card fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162705&caId=25452&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162705&caId=25452&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162705&caId=25452&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162705&caId=25452&tId=4)
-
 #### 10 👍 - Pro
 
 #### 20 👎 - Con

@@ -19,15 +19,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162623&caId=25470&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162623&caId=25470&tId=4)
 
-#### 147 👍 - Pro
+#### 187 👍 - Pro
 Testifying:
 * 💵Edgar Espino - [The Washington Bus](/org/the_washington_bus/)
 * John Axtell
+* Bill Lyne - United Faculty of Washington State
+* Fernando Cortes
+* Jhaydn Steplight
+* Emily Zhuravel - Saint Martins University
+* Josiah Tiblow - Saint Martins University
 * Jessica Perez - State Board for Community and Technical Colleges
 * Ashley Ramirez - UW Tacoma Students Legislative Liaison
 * 💵Isela Bonilla - [Washington Student Association](/org/washington_student_association/)
 * 💵Michelle Carrillo - ASCWU Legislative Liaison
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 1 ❓ - Other

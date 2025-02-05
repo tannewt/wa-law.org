@@ -8,13 +8,9 @@
 
 ## Meetings
 ### Tue 02/04 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1205 Forged digital likeness
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32680&aId=162673&caId=25376&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32680&aId=162673&caId=25376&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32680&aId=162673&caId=25376&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32680&aId=162673&caId=25376&tId=4)
-
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Morgan Irwin - AWB
 
 #### 2 👎 - Con
 

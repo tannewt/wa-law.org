@@ -8,18 +8,15 @@
 
 ## Meetings
 ### Tue 02/04 04:00 PM - Environment & Energy (ENVI): HB 1670 Sewage-containing spills
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32651&aId=162502&caId=25413&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32651&aId=162502&caId=25413&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32651&aId=162502&caId=25413&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32651&aId=162502&caId=25413&tId=4)
-
-#### 427 👍 - Pro
+#### 498 👍 - Pro
 Testifying:
 * Mindy Roberts - [Washington Conservation Action](/org/washington_conservation_action/)
 * Pete Steelquist - Surfrider Foundation
 * Stena Troyer - Harbor Wildwatch
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Leslie Connelly - Department of Ecology
+* Don Gourlie - Puget Sound Partnership

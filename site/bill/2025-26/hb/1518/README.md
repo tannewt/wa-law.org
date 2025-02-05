@@ -14,17 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162747&caId=25369&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32689&aId=162747&caId=25369&tId=4)
 
-#### 113 👍 - Pro
+#### 118 👍 - Pro
 Testifying:
 * Bob Anderton - Washington Bike Law- not a paid lobbyist
 * Annemarie Dooley - Washington Physicians for Social Responsibility
+* John Loyd
+* Holden Ringer
 
-#### 73 👎 - Con
+#### 83 👎 - Con
 Testifying:
 * Scott Mcknight
 * Andrew Williams
 * Garrett O’Sullivan
 * Gabriel Ball
 * Michael Rhodes - Washington Defense Trial Lawyers Association
+* Jeff DeVere - Washington Trucking Associations
 
 #### 2 ❓ - Other

@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32699&aId=162850&caId=25263&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32699&aId=162850&caId=25263&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Robert Singleton - Chamber of Progress
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 5 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* Tad Sommerville
 
 #### 0 ❓ - Other

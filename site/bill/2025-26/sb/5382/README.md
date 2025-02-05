@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 02/04 01:30 PM - State Government & Elections (SGE): SB 5382 Ballot measure petitions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32671&aId=162574&caId=25306&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32671&aId=162574&caId=25306&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32671&aId=162574&caId=25306&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32671&aId=162574&caId=25306&tId=4)
-
-#### 1136 👍 - Pro
+#### 1231 👍 - Pro
 Testifying:
 * Margaret Dreyfus
 * Mariana Morante - SEIU 775
@@ -28,8 +22,9 @@ Testifying:
 * 💵Diane Bedwell
 * Marrene Franich
 * Marley Arborico
+* Jeff DeBray - testifying on behalf of Spokane resident Ralph Carpenter
 
-#### 1392 👎 - Con
+#### 1859 👎 - Con
 Testifying:
 * John Morgan
 * Elizabeth Banger
@@ -43,6 +38,20 @@ Testifying:
 * Collin Hathaway
 * Anthony Holan
 * Atina Holan
+* Carrie Card
+* Ashley Butenschoen
+* xiangyu cao
+* Bill Wells
+* Chengliang Wang
+* Kan Qiu - Let People Vote
+* Sam Chen
+* Jie Xie - ACE
+* Rachel DeBoer
+* Sharon Hanek
 * Sharon Damoff
+* Lan Xing
+* Zack Zinter
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Shawn Merchant - Office of the Secretary of State

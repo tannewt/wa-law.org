@@ -19,15 +19,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=162451&caId=25239&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32642&aId=162451&caId=25239&tId=4)
 
-#### 712 👍 - Pro
+#### 809 👍 - Pro
 Testifying:
 * Steven Rhine - Rhine Labs
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Aidan Silber
+* 💵Kathryn Horvath - PIRG
+* Moji Igun - [Zero Waste Washington](/org/zero_waste_washington/)
+* Morgan Costello-Hostettler - PCs for People
+* Kyle Wiens - iFixIt
+* 💵Patrick Connor - National Federation of Independent Business (NFIB)
+* Steven Nickel - Google
+* Kami Bruner - Repair x Reuse Washington
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 Testifying:
+* Jeff Gombosky - CTIA - The Wireless Association
 * Amy Bos - NetChoice
+* Dustin Brighton - Repair Done Right Coalition
+* David McGarry - Taxpayers Protection Alliance
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Steven Bock
 * 💵Rose Feliciano - TechNet

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Building a cleaner, stronger community - Sen. Bill Ramos](https://senatedemocrats.wa.gov/ramos/2025/02/04/building-a-cleaner-stronger-community/#:~:text=Senate%20Bill%205556)
 * 01/29/2025 [Senate Democrats](/org/senate_democrats/) - [Ramos introduces bill to keep Washington roadways clean of litter  - Sen. Bill Ramos](https://senatedemocrats.wa.gov/ramos/2025/01/29/ramos-introduces-bill-to-keep-washington-roadways-clean-of-litter/#:~:text=Senate%20Bill%205556)
 
 ## Meetings

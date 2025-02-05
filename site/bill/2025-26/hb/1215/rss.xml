@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1215/</link>
 		<description>Updates about HB 1215</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 11:56:25 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -82,6 +82,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Theresa/Schrempp/2025-01-27 11:56:25</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-04/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

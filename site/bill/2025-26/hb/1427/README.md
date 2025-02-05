@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/04 01:30 PM - Health Care & Wellness (HCW): HB 1427 Peer support specialists
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162463&caId=25433&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162463&caId=25433&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162463&caId=25433&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162463&caId=25433&tId=4)
-
-#### 14 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Joshua Wallace - Peer Washington
 * Jason Clark - Northwest Credible Messenger
@@ -23,12 +17,15 @@ Testifying:
 * Johnny Cheng - Northwest Credible Messenger
 * Turner Yarbrough - Northwest Credible Messenger
 * Stephaine Courtney - The Shades of Motherhood Network
+* Khalia Williams-O’Neal - Northwest Credible Messenger
+* Young Cho
+* Natalia Cipriano
 
-#### 520 👎 - Con
+#### 542 👎 - Con
 Testifying:
 * Atina Holan
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Kim Zacher - Comprehensive Life Resources & WA Council for Behavioral Health

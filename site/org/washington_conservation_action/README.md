@@ -42,13 +42,16 @@
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes 👍1  
 
-## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 * 👍 Caitlin Krenn
+
+## [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels   ❓1
+* ❓ Caitlin Krenn
 
 ## 2023-24
 
-### [SB 5466](/bill/2023-24/sb/5466/) - Electric transmission system 👍1  
-* 👍 Caitlin Krenn
+### [SB 5601](/bill/2023-24/sb/5601/) - Alternative jet fuels   ❓1
+* ❓ Caitlin Krenn
 
 ### [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍2  
 

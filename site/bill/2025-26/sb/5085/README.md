@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [What’s happening in Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/04/whats-happening-in-olympia/#:~:text=Senate%20Bill%205085)
+
 ## Meetings
 ### Thu 01/23 04:00 PM - Ways & Means (WM): SB 5085 Closed retirement plans
 #### 1272 👍 - Pro

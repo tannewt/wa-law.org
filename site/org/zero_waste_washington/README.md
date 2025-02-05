@@ -61,7 +61,8 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
-### [SB 5423](/bill/2025-26/sb/5423/) - Digital electronics/repair 👍1  
+### [SB 5423](/bill/2025-26/sb/5423/) - Digital electronics/repair 👍2  
+* 👍 Moji Igun
 
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
 * 👍💵 Heather Trim

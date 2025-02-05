@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/04/2025 [The Center Square](/org/the_center_square/) - [Washington lawmakers wrestle with juvenile correctional facility crisis | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_68867852-e32b-11ef-ba40-4bb880ec3e35.html#:~:text=Senate%20Bill%205296)
 * 02/03/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers confront juvenile detention overcrowding crisis • Washington State Standard](https://washingtonstatestandard.com/2025/02/03/washington-lawmakers-confront-juvenile-detention-overcrowding-crisis/#:~:text=Senate%20Bill%205296)
 * 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 4: Housing, job security, consumer protection and floor action - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/02/this-week-in-the-senate-week-4-housing-job-security-consumer-protection-and-floor-action/#:~:text=Senate%20Bill%205296)
 

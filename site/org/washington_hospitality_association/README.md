@@ -56,10 +56,16 @@
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎1 
 * 👎💵 Samantha Louderback
 
+### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees  👎1 
+* 👎💵 Julia Gorton
+
 ### [HB 1644](/bill/2025-26/hb/1644/) - Working minors  👎1 
 
 ### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy  👎1 
 * 👎 Sean DeWitz
+
+### [HB 1684](/bill/2025-26/hb/1684/) - Water recreation facilities  👎1 
+* 👎💵 Samantha Louderback
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Julia Gorton

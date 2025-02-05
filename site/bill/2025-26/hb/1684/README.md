@@ -14,10 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162994&caId=25491&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162994&caId=25491&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Joe Laxson - Washington State Department of Health
+* Michelle Davis - Washington State Board of Health
 
-#### 0 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* Jordan Pitre - Executive Director, Evergreen Chapter CMAA
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Chester Baldwin - Manufactured Housing Communities of WA (MHCW)
+* 💵Vicki Christophersen - TechNet
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* Cameron Killberg - [Swimply](/org/swimply/)
+* 💵Nick Streuli - [WA Realtors](/org/washington_association_of_realtors/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Dave Arbaugh - Chelan PUD

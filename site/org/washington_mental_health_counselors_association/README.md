@@ -5,13 +5,14 @@
 
 ### [HB 1234](/bill/2025-26/hb/1234/) - Concerning the mental health counselors, marriage and family therapists, and social workers advisory committee. 👍1  
 
-## [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍3  
+### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍3  
 * 👍 Sharon Shadwell
+
+## [HB 1589](/bill/2025-26/hb/1589/) - Concerning the relationships between health carriers and contracting providers. 👍1  
 
 ## 2023-24
 
-### [HB 1432](/bill/2023-24/hb/1432/) - Mental health services 👍3  
-* 👍 Sharon Shadwell
+### [HB 1589](/bill/2023-24/hb/1589/) - Concerning the relationships between health carriers and contracting providers. 👍1  
 
 ### [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍4  
 * 👍 Dominique Avery

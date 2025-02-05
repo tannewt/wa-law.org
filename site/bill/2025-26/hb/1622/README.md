@@ -18,15 +18,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162710&caId=25457&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32683&aId=162710&caId=25457&tId=4)
 
-#### 132 👍 - Pro
+#### 300 👍 - Pro
 Testifying:
 * 💵Teresa Taylor - (WACOPS) Washington Council of Police & Sheriffs
+* Carl Bond
+* Joey Hicklin - [Washington Public Employees Association](/org/washington_public_employees_association/)
+* Rhonda Buchanan - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Riz Monghit - SEIU 925
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Cherika Carter - [Washington State Labor Council](/org/washington_state_labor_council/)
 * 💵Samantha Grad - Teamsters 117
+* Andrew Vander Stoep
 
-#### 207 👎 - Con
+#### 296 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Donna Alber
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵James Cockburn - [Washington Public Ports Association](/org/washington_public_ports_association/)

@@ -4,6 +4,8 @@
 ### [HB 1063](/bill/2025-26/hb/1063/) - Earned wage access services  👎1 ❓1
 * ❓ Molly Gallagher
 
+### [HB 1099](/bill/2025-26/hb/1099/) - Tenant assistance program  👎1 
+
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍1  
@@ -22,6 +24,8 @@
 
 ### [HB 1268](/bill/2025-26/hb/1268/) - Virtual currency kiosks  👎1 
 
+### [HB 1318](/bill/2025-26/hb/1318/) - Children's diapers sales tax 👍1  
+
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍2  
@@ -33,7 +37,11 @@
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍2  
 * 👍💵 Alex Hur
 
+### [HB 1530](/bill/2025-26/hb/1530/) - Reg. businesses/card fees  👎1 
+
 ### [HB 1535](/bill/2025-26/hb/1535/) - Dental insurance practices  👎1 
+
+### [HB 1599](/bill/2025-26/hb/1599/) - Concerning consumer debt adjusters and debt resolution services providers.  👎1 
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 
@@ -58,9 +66,13 @@
 
 ### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
 
+### [SB 5423](/bill/2025-26/sb/5423/) - Digital electronics/repair 👍1  
+
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 
 ### [SB 5488](/bill/2025-26/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍1  
+
+### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters 👍1  
 
 ## [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 

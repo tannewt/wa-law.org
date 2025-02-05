@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162654&caId=25465&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162654&caId=25465&tId=4)
 
-#### 62 👍 - Pro
+#### 87 👍 - Pro
 Testifying:
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* A-P Hurd
+* Matt Roewe
+* Benjamin Maritz - Great Expectations LLC
+* 💵Bill Clarke - [WA Realtors](/org/washington_association_of_realtors/)
 
-#### 155 👎 - Con
+#### 173 👎 - Con
 Testifying:
 * Sarah Wall
 * Alexis Gamber

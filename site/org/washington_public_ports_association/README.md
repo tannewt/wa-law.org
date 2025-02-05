@@ -42,6 +42,15 @@
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
 * 👍 Eric ffitch
 
+### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria   ❓1
+* ❓ Chris Herman
+
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use   ❓1
+* ❓💵 James Cockburn
+
+### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment  👎1 
+* 👎💵 Carly Michiels
+
 ### [SB 5034](/bill/2025-26/sb/5034/) - System improvement team 👍1  
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  

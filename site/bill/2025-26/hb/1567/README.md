@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162470&caId=25440&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162470&caId=25440&tId=4)
 
-#### 43 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * Mary Brazier
 * Annika Hoogestraat
 
-#### 3 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* 💵Chelene Whiteaker - Washington State Hospital Association
+* 💵Ashlen Strong - Washington State Hospital Association
 
 #### 0 ❓ - Other

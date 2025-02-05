@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/04 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1265 Commercial sexual exploit.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32680&aId=162675&caId=25378&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32680&aId=162675&caId=25378&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32680&aId=162675&caId=25378&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32680&aId=162675&caId=25378&tId=4)
-
-#### 20 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Jeri Moomaw - [Innovations Human Trafficking Collaborative](/org/innovations_human_trafficking_collaborative/)
 * Maurice Washington
@@ -23,14 +17,20 @@ Testifying:
 * Jacob Wallack - n/a
 * Jeri Moomaw - Washington Against Sexual Exploitation (WASE Forward)
 * Rebekah Fonden - Washington Against Sexual Exploitation (WASE Forward)
+* Braelah McGinnis - King County Prosecuting Attorney’s Office
 
-#### 64 👎 - Con
+#### 122 👎 - Con
 Testifying:
 * Madison Zack-Wu - The Cupcake Girls
 * emi koyama - Coalition for Rights & Safety for People in the Sex Trade
 * Shira Cole
 * Tanya Crocker
+* Tobi Hill-Meyer
+* Gabriel Jones
+* Sarah Dickmeyer
 * Melodie Garcia
 * Arianna Riley
+* Savannah Sly
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
 #### 0 ❓ - Other

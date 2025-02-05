@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 02/04 10:30 AM - Labor & Commerce (LC): SB 5626 Wage replacement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=163005&caId=25494&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=163005&caId=25494&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=163005&caId=25494&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32666&aId=163005&caId=25494&tId=4)
-
-#### 696 👍 - Pro
+#### 711 👍 - Pro
 Testifying:
 * Angela S
 * Leonidas Salazar
@@ -26,7 +20,7 @@ Testifying:
 * 💵John Traynor - washington state labor council, afl-cio
 * April Sims - Washington State Labor Council, AFL-CIO
 
-#### 805 👎 - Con
+#### 806 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Carolyn Logue - Washington Food Industry Association

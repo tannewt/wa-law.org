@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162562&caId=25476&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162562&caId=25476&tId=4)
 
-#### 544 👍 - Pro
+#### 649 👍 - Pro
 Testifying:
 * Charles Longshore - Department of Corrections
 * Carlos Bernardez - Department of Corrections
@@ -27,9 +27,10 @@ Testifying:
 * Kurtis Robinson - I Did the Time
 * Kyle Lucas - Chair, Urban Indians Northwest
 
-#### 1205 👎 - Con
+#### 1393 👎 - Con
 Testifying:
 * Donna Alber
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 #### 2 ❓ - Other
 

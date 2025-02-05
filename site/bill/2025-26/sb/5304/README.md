@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205304)
+
 ## Meetings
 ### Thu 01/23 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5304 Homelessness/tribal colleges
 #### 49 👍 - Pro

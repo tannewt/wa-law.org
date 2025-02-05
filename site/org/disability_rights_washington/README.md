@@ -26,6 +26,8 @@
 
 ### [HB 1192](/bill/2025-26/hb/1192/) - DOC disciplinary hearings 👍1  
 
+### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍1  
+
 ### [HB 1220](/bill/2025-26/hb/1220/) - Concerning appropriate response to assaults by individuals in behavioral health crisis. 👍1  
 * 👍💵 Todd Carlisle
 
@@ -35,7 +37,11 @@
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
+### [HB 1359](/bill/2025-26/hb/1359/) - Criminal insanity 👍1  
+
 ### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program   ❓1
+
+### [HB 1396](/bill/2025-26/hb/1396/) - Office of corrections ombuds   ❓1
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
 

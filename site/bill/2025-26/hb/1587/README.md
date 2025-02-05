@@ -19,13 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162624&caId=25471&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162624&caId=25471&tId=4)
 
-#### 5 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Armondo Pavone - Mayor, City of Renton
+* Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
+* Victoria Woodards - Mayor, City of Tacoma
 
-#### 205 👎 - Con
+#### 304 👎 - Con
 Testifying:
 * John axtell
 * Donna Alber
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jessica Monger - [Washington State Opportunity Scholarship](/org/washington_state_opportunity_scholarship/)

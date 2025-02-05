@@ -38,15 +38,24 @@
 
 ### [HB 1423](/bill/2025-26/hb/1423/) - Vehicle noise cameras 👍1  
 
+### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
+
+### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
+
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
 ### [HB 1556](/bill/2025-26/hb/1556/) - HS completers/CTC tuition 👍1  
+
+### [HB 1587](/bill/2025-26/hb/1587/) - Encouraging local government partner promise scholarship programs within the opportunity scholarship program. 👍1  
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
 ### [HB 1621](/bill/2025-26/hb/1621/) - Housing court commissioners 👍1  
 
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍1  
+
+### [HB 1657](/bill/2025-26/hb/1657/) - Washington 13 free guarantee 👍1  
+* 👍 Brittany Ota-Malloy
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 

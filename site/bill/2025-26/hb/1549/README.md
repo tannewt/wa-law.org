@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 02/04 10:30 AM - Labor & Workplace Standards (LAWS): HB 1549 Responsible bidder criteria
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162704&caId=25451&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162704&caId=25451&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162704&caId=25451&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32682&aId=162704&caId=25451&tId=4)
-
-#### 71 👍 - Pro
+#### 72 👍 - Pro
 Testifying:
 * Joe Kendo - Washington State Labor Council, AFL-CIO
 * Jared Ross - South Sound Building & Construction Trades Council
@@ -31,6 +25,7 @@ Testifying:
 * Nathan Turner - Washington State Electrical Contractors Association
 * Jerry VanderWood - Associated General Contractors (AGC)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Axel Swanson - Washington State Association of County Engineers
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)

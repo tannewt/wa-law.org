@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162995&caId=25492&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32636&aId=162995&caId=25492&tId=4)
 
-#### 79 👍 - Pro
+#### 82 👍 - Pro
+Testifying:
+* Keith Kaneko - AMAROK
 
 #### 0 👎 - Con
 

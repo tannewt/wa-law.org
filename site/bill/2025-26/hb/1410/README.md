@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 02/04 01:30 PM - Consumer Protection & Business (CPB): HB 1410 Inactive cannabis producers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162411&caId=25383&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162411&caId=25383&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162411&caId=25383&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32629&aId=162411&caId=25383&tId=4)
-
-#### 18 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Brandon Park
 * Shea Hynes - Lux Pot Shop
@@ -31,10 +25,12 @@ Testifying:
 * 💵Brooke Davies - Washington CannaBusiness Association
 * 💵Ezra Eickmeyer - Producers NW
 
-#### 3 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * Caitlein Ryan - CAITLEIN RYAN
 * Micah Sherman
+* Mike Asai - Black Excellence In Cannabis
+* Peter Manning - Black Excellence In Cannabis
 
 #### 0 ❓ - Other
 

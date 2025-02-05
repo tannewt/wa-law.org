@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162726&caId=25357&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162726&caId=25357&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Sheri Sawyer - Office of Financial Management
 
-#### 30 👎 - Con
+#### 218 👎 - Con
+Testifying:
+* Donna Alber
+* Patricia Cooper
 
 #### 0 ❓ - Other

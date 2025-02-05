@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5083/</link>
 		<description>Updates about SB 5083</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 30 Jan 2025 07:39:19 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 21:09:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -140,6 +140,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jennifer/Ziegler/2025-01-30 07:39:19</guid>
+		</item>
+		<item>
+			<title>What’s happening in Olympia - Sen. June Robinson</title>
+			<description>News article "What’s happening in Olympia - Sen. June Robinson" from Senate Democrats.</description>
+			<pubDate>Tue, 04 Feb 2025 21:09:21 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/robinson/2025/02/04/whats-happening-in-olympia/#:~:text=Senate%20Bill%205083</guid>
 		</item>
 	</channel>
 </rss>

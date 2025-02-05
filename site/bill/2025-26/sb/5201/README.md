@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162822&caId=25248&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162822&caId=25248&tId=4)
 
-#### 17 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Ralph Baard
 * Sunil Aggarwal
@@ -26,14 +26,26 @@ Testifying:
 * Mark Gaskill - Adventure Psychotherapy / Mark Gaskill
 * Heath Hollensbe
 * Matthew Thierfelder
+* Leonora Russell - ADAPT-WA
+* Darron Smith - NovelPath Behavioral Wellness
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
+* Wendy Lynn
 * Wendy Lynn
 
-#### 36 👎 - Con
+#### 237 👎 - Con
 Testifying:
 * Alba Sari
 * Angela Ross
+* Donna Alber
+* Rachel Cervenak - Responsible Entheogen Access & Community Healing (REACH) Coalition
+* Herb Daniels
+* Patricia Cooper
+* Jerome Spieckerman - PTPS
+* William Cooper
+* William Cooper
+* Suzanne Moreillon
 
-#### 8 ❓ - Other
+#### 15 ❓ - Other
 Testifying:
 * Bailey Quigley - on behalf of REACH WA. Responsible Entheogen Access and Community Healing Coalition
 * Lauren Feringa - Hippie and a Veteran Foundation
@@ -43,3 +55,9 @@ Testifying:
 * jerry spieckerman - PTPS
 * Kody Zalewski - [Psychedelic Medicine Alliance of Washington](/org/psychedelic_medicine_alliance_of_washington/)
 * Caitlein Ryan - CAITLEIN RYAN
+* Micah Sherman
+* Jessica Nielson - Minnesota Psychedelic Medicine Task Force
+* Jon Dennis - Responsible Entheogenic Access and Community Healing (REACH) Coalition
+* Heidi Venture - Vital Reset Psilocybin Service Center
+* Jessa Lewis
+* Kelsey Taylor

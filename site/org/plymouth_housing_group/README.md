@@ -3,6 +3,8 @@
 
 ### [HB 1094](/bill/2025-26/hb/1094/) - Providing a property tax exemption for property owned by a qualifying nonprofit organization and loaned, leased, or rented to and used by any government entity to provide character-building, benevolent, protective, or rehabilitative social services. 👍1  
 
+### [HB 1099](/bill/2025-26/hb/1099/) - Tenant assistance program  👎1 
+
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍2  
 * 👍 Sarah Dickmeyer
 
@@ -21,11 +23,14 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-## [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters 👍1  
+### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters 👍2  
+* 👍 Sarah Dickmeyer
+
+## [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
 
 ## 2023-24
 
-### [SB 5497](/bill/2023-24/sb/5497/) - Housing & shelters 👍1  
+### [SB 5591](/bill/2023-24/sb/5591/) - Affordable housing/sales tax 👍1  
 
 ### [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  
 

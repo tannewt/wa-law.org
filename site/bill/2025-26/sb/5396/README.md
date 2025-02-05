@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting local news and pilots - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/04/protecting-local-news-and-pilots/#:~:text=Senate%20Bill%205396)
+
 ## Meetings
 ### Tue 01/28 10:30 AM - Labor & Commerce (LC): SB 5396 FAA medical certificates
 #### 6 👍 - Pro

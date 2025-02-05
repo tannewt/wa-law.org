@@ -14,6 +14,8 @@
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 * 👍💵 Jake García
 
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
+
 ### [HB 1381](/bill/2025-26/hb/1381/) - Elections/language assist. 👍2  
 * 👍💵 Jake García
 

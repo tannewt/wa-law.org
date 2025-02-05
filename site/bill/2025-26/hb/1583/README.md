@@ -8,20 +8,14 @@
 
 ## Meetings
 ### Tue 02/04 01:30 PM - Health Care & Wellness (HCW): HB 1583 Traditional health/medicaid
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162465&caId=25435&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162465&caId=25435&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162465&caId=25435&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32620&aId=162465&caId=25435&tId=4)
-
-#### 38 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Esther Lucero - Seattle Indian Health Board
 * Steve Kutz - [American Indian Health Commission for Washington State](/org/american_indian_health_commission_for_washington_state/)
 * Loni Greninger - Jamestown S'Klallam Tribe
 * Alison Boyd-Ball - Confederated Tribes of the Colville Reservation
 
-#### 466 👎 - Con
+#### 483 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

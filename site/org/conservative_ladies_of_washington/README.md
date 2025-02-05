@@ -108,6 +108,8 @@
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools  👎1 
 
+### [SB 5386](/bill/2025-26/sb/5386/) - Schools/sexual assault  👎1 
+
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt  👎2 
 
 ## [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project  👎2 

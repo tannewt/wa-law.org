@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Tue 02/04 04:00 PM - Education (ED): HB 1032 School district elections
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32655&aId=162510&caId=25405&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32655&aId=162510&caId=25405&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32655&aId=162510&caId=25405&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32655&aId=162510&caId=25405&tId=4)
-
-#### 1318 👍 - Pro
+#### 1431 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Tyler Muench - Office of Superintendent of Public Instruction
@@ -39,11 +33,13 @@ Testifying:
 * Perla Hauge
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 
-#### 701 👎 - Con
+#### 733 👎 - Con
 Testifying:
 * John Axtell
 * 💵Patrick Connor - NFIB
+* Britt Espinosa
 * Atina Holan
 * Anthony Holan
+* Anthony Stockman
 
 #### 2 ❓ - Other

@@ -25,6 +25,9 @@
 
 ### [HB 1442](/bill/2025-26/hb/1442/) - Gray wolf management  👎1 
 
+### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings   ❓1
+* ❓ Jordan Palmeri
+
 ### [HB 1492](/bill/2025-26/hb/1492/) - Students with dependents 👍3  
 
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍3  

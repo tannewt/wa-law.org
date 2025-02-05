@@ -12,6 +12,9 @@
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody  👎1 
 * 👎 Brian Hatfield
 
+### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions  👎1 
+* 👎 Brian Hatfield
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Steve Hobbs
 

@@ -8,9 +8,11 @@
 ### [HB 1603](/bill/2025-26/hb/1603/) - Medicare supp. coverage 👍2  
 * 👍 Robby Stern
 
-### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
+### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍2  
+* 👍 Robby Stern
 
-### [HB 1754](/bill/2025-26/hb/1754/) - Medicare suppl./guaranteed 👍1  
+### [HB 1754](/bill/2025-26/hb/1754/) - Medicare suppl./guaranteed 👍2  
+* 👍 Robby Stern
 
 ### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍1  
 

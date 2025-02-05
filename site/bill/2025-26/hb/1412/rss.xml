@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1412/</link>
 		<description>Updates about HB 1412</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 11:10:08 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2025-01-20/First reading, referred to State Government &amp; Tribal Relations.</guid>
 		</item>
 		<item>
-			<title>👍Heidi Sadri - CAITLEIN RYAN</title>
+			<title>👍Heidi Sadri - Black Excellence In Cannabis</title>
 			<description>Heidi Sadri signed up to testify Pro.</description>
 			<pubDate>Sat, 25 Jan 2025 04:59:57 GMT</pubDate>
 			<category>testifier</category>
@@ -24,7 +24,7 @@
 			<guid isPermaLink="false">testifier/Heidi/Sadri/2025-01-25 04:59:57</guid>
 		</item>
 		<item>
-			<title>👍Yashar Shayan - CAITLEIN RYAN</title>
+			<title>👍Yashar Shayan - Black Excellence In Cannabis</title>
 			<description>Yashar Shayan signed up to testify Pro.</description>
 			<pubDate>Sat, 25 Jan 2025 05:17:49 GMT</pubDate>
 			<category>testifier</category>
@@ -32,7 +32,7 @@
 			<guid isPermaLink="false">testifier/Yashar/Shayan/2025-01-25 05:17:49</guid>
 		</item>
 		<item>
-			<title>👍Manal Alsharif - CAITLEIN RYAN</title>
+			<title>👍Manal Alsharif - Black Excellence In Cannabis</title>
 			<description>Manal Alsharif signed up to testify Pro.</description>
 			<pubDate>Sat, 25 Jan 2025 11:50:06 GMT</pubDate>
 			<category>testifier</category>
@@ -142,6 +142,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Hanif/Zarrabi-Kashani/2025-01-29 11:10:08</guid>
+		</item>
+		<item>
+			<title>SGOV - Executive action taken by committee.</title>
+			<description>SGOV - Executive action taken by committee.</description>
+			<pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-04/SGOV - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

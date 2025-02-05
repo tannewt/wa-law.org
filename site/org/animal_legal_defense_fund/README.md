@@ -11,7 +11,8 @@
 
 ### [HB 1311](/bill/2025-26/hb/1311/) - Gray wolves  👎1 
 
-### [HB 1442](/bill/2025-26/hb/1442/) - Gray wolf management  👎1 
+### [HB 1442](/bill/2025-26/hb/1442/) - Gray wolf management  👎2 
+* 👎 Cat Kelly
 
 ## [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍2  
 * 👍 Cat Kelly

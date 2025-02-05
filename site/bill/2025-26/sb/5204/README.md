@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162823&caId=25249&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162823&caId=25249&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Heath Hollensbe
+* Leonora Russell - ADAPT-WA
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 
 #### 1 👎 - Con
 Testifying:

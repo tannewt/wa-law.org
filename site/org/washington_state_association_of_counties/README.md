@@ -62,6 +62,9 @@
 ### [HB 1345](/bill/2025-26/hb/1345/) - Detached ADU limits 👍1  
 * 👍💵 Paul Jewell
 
+### [HB 1359](/bill/2025-26/hb/1359/) - Criminal insanity 👍1  
+* 👍💵 Brad Banks
+
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
 * 👎💵 Curtis Steinhauer
 
@@ -83,6 +86,9 @@
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
+### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
+* 👎💵 Paul Jewell
+
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍3  
 * 👍💵 Derek Young
 * 👍💵 Jorge Baron
@@ -93,8 +99,14 @@
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction   ❓1
 * ❓💵 Travis Dutton
 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+* 👎💵 Paul Jewell
+
 ### [HB 1625](/bill/2025-26/hb/1625/) - Back country search & rescue  👎1 
 * 👎💵 Brad Banks
+
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎1 
+* 👎💵 Paul Jewell
 
 ### [HB 1742](/bill/2025-26/hb/1742/) - Urban design/environment 👍1  
 * 👍💵 Kelsey Hulse
@@ -174,6 +186,9 @@
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction   ❓1
 * ❓💵 Travis Dutton
+
+### [SB 5510](/bill/2025-26/sb/5510/) - Conservation district limits   ❓1
+* ❓💵 Paul Jewell
 
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 * 👍 BRIAN ENSLOW

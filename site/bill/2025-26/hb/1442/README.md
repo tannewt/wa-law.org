@@ -18,16 +18,29 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162491&caId=25345&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32648&aId=162491&caId=25345&tId=4)
 
-#### 215 👍 - Pro
+#### 304 👍 - Pro
 Testifying:
 * Zack Trudell - Ferry County Board of County Commissioners
 * John Axtell
 * Jarred-Michael Erickson - Confederated Tribes of the Colville Reservation
+* Wes McCart
+* Brad Manke - Stevens County Sheriff's Office
+* 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
+* 💵Caleb Gwerder - Washington Farm Bureau
+* Ray Maycumber - Sheriff - Ferry County
 
-#### 752 👎 - Con
+#### 824 👎 - Con
 Testifying:
 * David Linn
 * John Roskelley
 * Ronald Reed - Retired
+* Dan Paul - The Human Society of the United States
+* Dr. Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
+* John Rosapepe - Endangered Species Coalition
+* Rachel Bjork - Speak For Wolves
+* Cat Kelly - [Animal Legal Defense Fund](/org/animal_legal_defense_fund/)
+* David Linn
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Mick Cope - WDFW
