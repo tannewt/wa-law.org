@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/06/2025 [Senate Democrats](/org/senate_democrats/) - [Week three update! - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/02/06/week-three-update/#:~:text=SB%205335,)
+
 ## Meetings
 ### Thu 01/30 08:00 AM - Health & Long Term Care (HLTC): SB 5335 Rural nursing education
 #### 158 👍 - Pro

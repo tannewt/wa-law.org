@@ -8,9 +8,10 @@
 
 ## Meetings
 ### Wed 02/05 08:00 AM - Local Government (LG): HB 1688 Electric security alarms
-#### 84 👍 - Pro
+#### 85 👍 - Pro
 Testifying:
 * Keith Kaneko - AMAROK
+* 💵Carl Schroeder - Association of WA Cities
 
 #### 0 👎 - Con
 

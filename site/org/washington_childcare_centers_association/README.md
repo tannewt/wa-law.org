@@ -9,6 +9,8 @@
 
 ### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements 👍1  
 
+### [HB 1564](/bill/2025-26/hb/1564/) - Child care assist./B&O tax 👍1  
+
 ### [HB 1582](/bill/2025-26/hb/1582/) - Concerning child care centers operated in existing buildings. 👍1  
 
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍1  
@@ -21,13 +23,18 @@
 
 ### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
 
-## [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
+### [SB 5297](/bill/2025-26/sb/5297/) - Early learning facilities 👍1  
+
+### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential 👍1  
+
+### [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
 * 👍💵 Amy Anderson
+
+## [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
 ## 2023-24
 
-### [SB 5500](/bill/2023-24/sb/5500/) - Child care reimburse. rates 👍1  
-* 👍💵 Amy Anderson
+### [SB 5509](/bill/2023-24/sb/5509/) - Child care center siting 👍1  
 
 ### [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍2  
 

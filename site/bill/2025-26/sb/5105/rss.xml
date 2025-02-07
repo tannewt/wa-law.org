@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5105/</link>
 		<description>Updates about SB 5105</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -136,6 +136,34 @@
 			<pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-29/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-05/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</description>
+			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-05/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Senate Passes Bill Banning AI-Generated Child Sexual Abuse Material - Sen. Tina Orwall</title>
+			<description>News article "Senate Passes Bill Banning AI-Generated Child Sexual Abuse Material - Sen. Tina Orwall" from Senate Democrats.</description>
+			<pubDate>Thu, 06 Feb 2025 00:15:49 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/orwall/2025/02/05/senate-passes-bill-banning-ai-generated-child-sexual-abuse-material/#:~:text=Senate%20Bill%205105</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Community Safety (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Community Safety (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-07/First reading, referred to Community Safety (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

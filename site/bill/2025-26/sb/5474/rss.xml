@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5474/</link>
 		<description>Updates about SB 5474</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Feb 2025 12:28:16 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 15:54:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -109,6 +109,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Bonny Jo/Peterson/2025-02-03 12:28:16</guid>
+		</item>
+		<item>
+			<title>The future of Washington farming - Sen. Mike Chapman</title>
+			<description>News article "The future of Washington farming - Sen. Mike Chapman" from Senate Democrats.</description>
+			<pubDate>Fri, 07 Feb 2025 15:54:07 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/chapman/2025/02/07/the-future-of-washington-farming/#:~:text=One%20bill%20is%20a%20bipartisan%20effort</guid>
 		</item>
 	</channel>
 </rss>

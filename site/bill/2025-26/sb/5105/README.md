@@ -6,8 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/06/2025 [Senate Democrats](/org/senate_democrats/) - [Senate Passes Bill Banning AI-Generated Child Sexual Abuse Material - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/02/05/senate-passes-bill-banning-ai-generated-child-sexual-abuse-material/#:~:text=Senate%20Bill%205105)
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205105)
 
 ## Meetings

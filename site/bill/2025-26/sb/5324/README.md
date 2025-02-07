@@ -8,14 +8,15 @@
 
 ## Meetings
 ### Fri 02/07 08:00 AM - Health & Long Term Care (HLTC): SB 5324 Prior auth. APIs/health
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32702&aId=162828&caId=25253&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32702&aId=162828&caId=25253&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32702&aId=162828&caId=25253&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32702&aId=162828&caId=25253&tId=4)
-
-#### 6 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
+* Heidi Kriz
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Lisa Thatcher - Washington State Hospital Association
+* 💵Sean Graham - Washington State Medical Association

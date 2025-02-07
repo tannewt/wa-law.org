@@ -10,6 +10,8 @@
 
 ### [HB 1136](/bill/2025-26/hb/1136/) - Student navigational support 👍1  
 
+### [HB 1140](/bill/2025-26/hb/1140/) - Establishing empowerED scholarships using educational savings accounts.  👎1 
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Casey Brown
 
@@ -32,17 +34,21 @@
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
+### [HB 1557](/bill/2025-26/hb/1557/) - Guaranteed admissions prg. 👍1  
+
+### [HB 1565](/bill/2025-26/hb/1565/) - Dual enrollment scholarship 👍1  
+
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
-### [SB 5009](/bill/2025-26/sb/5009/) - Modifying the student transportation allocation to accommodate multiple vehicle types for transporting students. 👍1  
+### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. allocation 👍1  
 
 ### [SB 5080](/bill/2025-26/sb/5080/) - Financial education 👍1  
 
 ### [SB 5120](/bill/2025-26/sb/5120/) - Learning assistance program 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍1  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 

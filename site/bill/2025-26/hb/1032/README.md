@@ -14,7 +14,7 @@
 
 ## Meetings
 ### Tue 02/04 04:00 PM - Education (ED): HB 1032 School district elections
-#### 1431 👍 - Pro
+#### 1435 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Tyler Muench - Office of Superintendent of Public Instruction
@@ -32,6 +32,10 @@ Testifying:
 * Rebeca Cattin - Eastmont Paraeducators
 * Perla Hauge
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
+* Rachel Kelley
+* Benjamin Fields
+* Cory Hitzemann
+* Jessica Justice
 
 #### 733 👎 - Con
 Testifying:

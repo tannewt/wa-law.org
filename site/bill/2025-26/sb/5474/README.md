@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [The future of Washington farming - Sen. Mike Chapman](https://senatedemocrats.wa.gov/chapman/2025/02/07/the-future-of-washington-farming/#:~:text=One%20bill%20is%20a%20bipartisan%20effort)
+
 ## Meetings
 ### Mon 02/03 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5474 Organic, etc. agriculture
 #### 1123 👍 - Pro

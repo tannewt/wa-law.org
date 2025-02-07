@@ -11,14 +11,22 @@
 
 ## Meetings
 ### Fri 02/07 08:00 AM - Health & Long Term Care (HLTC): SB 5557 Pregnancy/emerg. treatment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32702&aId=163015&caId=25489&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32702&aId=163015&caId=25489&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32702&aId=163015&caId=25489&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32702&aId=163015&caId=25489&tId=4)
+#### 406 👍 - Pro
+Testifying:
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* CATHY WYATT
+* 💵Zosia Stanley - Washington State Hospital Association
+* Sarah Goh
+* Molly Voris - Washington State Women's Commission
+* Dr. Stephanie Sola
+* Dr. Shannon Bailey - American College of Obstetricians and Gynecologists (ACOG)
+* Lacy Fehrenbach - Washington State Department of Health
+* 💵Nancy Sapiro - American College of Obstetricians and Gynecologists
 
-#### 25 👍 - Pro
-
-#### 0 👎 - Con
+#### 500 👎 - Con
+Testifying:
+* Richard Grunewald
+* Theresa Schrempp
+* Beth Daranciang
 
 #### 0 ❓ - Other

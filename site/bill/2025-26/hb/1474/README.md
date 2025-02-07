@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Thu 02/06 04:00 PM - Appropriations (APP): HB 1474 PERS/TRS 1 benefit increase
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162727&caId=25358&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162727&caId=25358&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162727&caId=25358&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162727&caId=25358&tId=4)
-
-#### 316 👍 - Pro
+#### 340 👍 - Pro
 Testifying:
 * Fred Trujillo - Retired Public Employees
 * Sheri Sawyer - Office of Financial Management
@@ -27,11 +21,13 @@ Testifying:
 * Linda Nelsen - Retired Public Employees Council of WA
 * Clair Olivers - Retired Public Employees Council of WA
 
-#### 2 👎 - Con
+#### 7 👎 - Con
 
-#### 4 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Lee Ann Prielipp - WEA-Retired
+* Eileen Perfrement - Washington State School Retirees' Association
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

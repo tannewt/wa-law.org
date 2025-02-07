@@ -9,16 +9,11 @@
 ## 📰 Articles
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201435)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201435)
+* [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/safer-streets/#:~:text=House%20Bill%201435)
 
 ## Meetings
 ### Wed 02/05 04:00 PM - Appropriations (APP): HB 1435 Law enf. hiring grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162737&caId=25353&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162737&caId=25353&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162737&caId=25353&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162737&caId=25353&tId=4)
-
-#### 137 👍 - Pro
+#### 160 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
@@ -30,6 +25,6 @@ Testifying:
 * Nathan Olson - Office of the Governor
 * Lars Erickson - Seattle Metropolitan Chamber of Commerce
 
-#### 217 👎 - Con
+#### 309 👎 - Con
 
 #### 0 ❓ - Other

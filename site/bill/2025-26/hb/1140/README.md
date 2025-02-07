@@ -10,16 +10,11 @@
 * 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201140)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201140)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201140)
+* [House Republicans](/org/house_republicans/) - [Better Schools | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/better-schools/#:~:text=House%20Bill%201140)
 
 ## Meetings
 ### Thu 02/06 08:00 AM - Education (ED): HB 1140 K-12 scholarship program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32656&aId=162515&caId=25407&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32656&aId=162515&caId=25407&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32656&aId=162515&caId=25407&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32656&aId=162515&caId=25407&tId=4)
-
-#### 1515 👍 - Pro
+#### 2653 👍 - Pro
 Testifying:
 * 💵Heather Andrews - Americans for Prosperity Washington
 * Vicki Murray - Washington Policy Center
@@ -30,12 +25,18 @@ Testifying:
 * Wes Martin
 * Martin Lueken - EdChoice
 * Cameron Sholty - Heartland Impact
+* Samantha Fillmore - Heartland Impact
 * Marc Stegmaier
 * Tiffany Hoben
 * 💵Jean Hill - Washington State Catholic Conference
+* Wilda Heard - Drwildasays
+* Kim Dean
+* Keri D. Ingraham - American Center for Transforming Education
 * Patricia Cooper
+* Barbara Kuehne
+* Tad Sommerville
 
-#### 964 👎 - Con
+#### 1734 👎 - Con
 Testifying:
 * Justin McKaughan - Molly and Jack’s dad
 * Kailey Mutter
@@ -45,6 +46,15 @@ Testifying:
 * Donna Alber - Donna Alber
 * Jessica Justice
 * Ann Shay
+* Tobi Vail
+* Paige Ronsen
+* Ann Chenhall - Thurston County School Retirees Association, Interfaith Works, Unity of Olympia, Stately Speakers To
+* Ann Chenhall - Thurston County School Retirees Association, Interfaith Works, Unity of Olympia, Stately Speakers To
+* Jaclyn Barron-Robles
+* Tyler Muench - Office of Superintendent of Public Instruction
 * Nicole Newsum-Chrisman - Edmonds School District
+* Tasha Raub
 
-#### 7 ❓ - Other
+#### 9 ❓ - Other
+Testifying:
+* Suzie Hanson - Washington Federation of Independent Schools

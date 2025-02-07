@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/06/2025 [Senate Democrats](/org/senate_democrats/) - [Senate Passes Bill Banning AI-Generated Child Sexual Abuse Material - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/02/05/senate-passes-bill-banning-ai-generated-child-sexual-abuse-material/#:~:text=House%20version%20of%20the%20bill.)
+
 ## Meetings

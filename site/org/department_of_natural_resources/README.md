@@ -35,6 +35,9 @@
 ### [SB 5334](/bill/2025-26/sb/5334/) - DNR civil enforcement appeal 👍1  
 * 👍 Erika Odem
 
+### [SB 5385](/bill/2025-26/sb/5385/) - Definition of timberland 👍1  
+* 👍 Duane Emmons
+
 ## [SB 5390](/bill/2025-26/sb/5390/) - Discover pass, day-use cost 👍1  
 * 👍 Sam Hensold
 

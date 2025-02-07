@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/06/2025 [KUOW](/org/kuow/) - [KUOW - Why Washington state lawmakers are fighting over 'parents rights' again](https://www.kuow.org/stories/the-fight-over-parents-rights-is-back-in-olympia-here-s-what-s-going-on#:~:text=House%20Bill%201296)
+* 02/06/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Senate Democrats approve changes to parents’ ‘bill of rights’ • Washington State Standard](https://washingtonstatestandard.com/2025/02/05/wa-senate-democrats-approve-changes-to-parents-bill-of-rights/#:~:text=House%20Bill%201296,)
+* 02/05/2025 [FOX13](/org/fox13/) - [WA Senate passes changes to parental rights in education | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-changes-parental-rights-education#:~:text=Similar%20legislation)
 * 02/04/2025 [MyNorthwest](/org/mynorthwest/) - [WA lawmakers accuse one another of parental rights lies](https://mynorthwest.com/mynorthwest-politics/wa-parental-rights/4039888#:~:text=House%20Bill%201296)
 * 02/01/2025 [House Republicans](/org/house_republicans/) - [Fix Washington | Washington State House Republicans](http://houserepublicans.wa.gov/current/fix-washington/#:~:text=House%20Bill%201296)
 * 02/01/2025 [House Republicans](/org/house_republicans/) - [Fix Washington | Washington State House Republicans](https://houserepublicans.wa.gov/current/fix-washington/#:~:text=House%20Bill%201296)

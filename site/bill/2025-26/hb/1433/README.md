@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Wed 02/05 01:30 PM - Health Care & Wellness (HCW): HB 1433 Psychedelic substances
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162467&caId=25437&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162467&caId=25437&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162467&caId=25437&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32621&aId=162467&caId=25437&tId=4)
-
-#### 50 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * David Platt
 * Allison King
@@ -32,8 +26,12 @@ Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 * Leonora Russell - ADAPT-WA
 * Wendy Lynn
+* Aaron Loehr - Coalition For Better Community Health
+* 💵Paula Sardinas - Build Back Black Alliance
+* Carl Franz - Veteran
+* Zach Skiles - Heroic Hearts
 
-#### 34 👎 - Con
+#### 39 👎 - Con
 Testifying:
 * Cole Schrim LMHC - Tacoma Psychedelic Society
 * Andy Fischer-Price
@@ -48,6 +46,8 @@ Testifying:
 * Kathleen Wedemeyer - Citizens Commission on Human Rights
 * Suzanne Moreillon
 * Jerred Locke
+* Tatiana Luz-Quintana - Psychedelic Medicine Alliance WA
+* Sheffield Edgerton
 
 #### 16 ❓ - Other
 Testifying:

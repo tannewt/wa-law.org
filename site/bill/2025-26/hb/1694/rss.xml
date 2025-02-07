@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1694/</link>
 		<description>Updates about HB 1694</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 05:14:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-29/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>👍💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 06 Feb 2025 05:14:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2025-02-06 05:14:36</guid>
 		</item>
 	</channel>
 </rss>

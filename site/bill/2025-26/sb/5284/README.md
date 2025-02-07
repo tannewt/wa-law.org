@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: Back at the capitol for the 2025 session - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/02/03/lizs-loveletter-back-at-the-capitol-for-the-2025-session/#:~:text=SB%205284):)
+
 ## Meetings
 ### Tue 01/28 01:30 PM - Environment, Energy & Technology (ENET): SB 5284 Solid waste management
 #### 1553 👍 - Pro

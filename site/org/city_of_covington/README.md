@@ -22,13 +22,17 @@
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎2 
 
-## [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential  👎1 
+### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential  👎1 ❓1
 * 👎 Salina Lyons
+* ❓ Salina Lyons
+
+### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev.   ❓1
+
+## [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax   ❓1
 
 ## 2023-24
 
-### [SB 5421](/bill/2023-24/sb/5421/) - Small businesses/residential  👎1 
-* 👎 Salina Lyons
+### [SB 5591](/bill/2023-24/sb/5591/) - Affordable housing/sales tax   ❓1
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
 

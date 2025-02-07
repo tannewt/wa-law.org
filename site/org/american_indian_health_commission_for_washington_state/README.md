@@ -27,11 +27,13 @@
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 
-## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
+
+## [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍1  
 
 ## 2023-24
 
-### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants 👍1  
+### [SB 5570](/bill/2023-24/sb/5570/) - Tribes/K-12 instruction 👍1  
 
 ### [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍2  
 * 👍💵 Vicki Lowe

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/05 04:00 PM - Appropriations (APP): HB 1428 Criminal justice assistance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162736&caId=25352&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162736&caId=25352&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162736&caId=25352&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162736&caId=25352&tId=4)
-
-#### 34 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Mayor Nancy Backus - City of Auburn
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
@@ -27,10 +21,12 @@ Testifying:
 * Adam Vaughn - Budget and Finance Director at the City of Toppenish
 * Michael Harmon - City of Blaine City Manager
 * Mary Lou Pauly - Mayor, City of Issaquah
+* Tiffany Attrill
 * Pete Serrano - Mayor, City of Pasco
 * Scott Bader - City of Everett (city councilmember)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 371 👎 - Con
+#### 402 👎 - Con
 Testifying:
 * Donna Alber
 

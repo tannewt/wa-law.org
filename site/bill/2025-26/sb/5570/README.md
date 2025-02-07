@@ -11,23 +11,27 @@
 
 ## Meetings
 ### Thu 02/06 10:30 AM - Early Learning & K-12 Education (EDU): SB 5570 Tribes/K-12 instruction
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163041&caId=25502&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163041&caId=25502&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163041&caId=25502&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163041&caId=25502&tId=4)
-
-#### 112 👍 - Pro
+#### 193 👍 - Pro
 Testifying:
 * Henry Strom - Office of Superintendent of Public Instruction
 * Lisa Ganuelas - [Confederated Tribes of the Umatilla Indian Reservation](/org/confederated_tribes_of_the_umatilla_indian_reservation/)
 * Monica Tonasket - [Spokane Tribe of Indians](/org/spokane_tribe_of_indians/)
 * Matt Remle - Lakota, Marysville School District Native Education Department Program Supervisor
+* Elese Washines - Washington State Native American Education Advisory Committee – Tribal East Representative
+* Councilwoman Charlene Tillequots - Yakama Nation Tribal Council
+* Bernard Koontz - [Highline Public Schools](/org/highline_public_schools/)
+* Karen Condon - Confederated Tribes of the Colville Reservation
+* Cyrus James - Children of the Setting Sun Productions
 * Shana Brown
+* Ed.D., Kristi Dominguez - Superintendent, Ferndale School District
+* Chairman Leonard Forsman - The Suquamish Tribe
 * Dolores Calderon
+* Natalia Jefferson - K12 Student
+* Chanelle Bill-Kinley - K12 Student
+* Santana Rabang - Children of the Setting Sun Productions
 
-#### 287 👎 - Con
+#### 454 👎 - Con
 Testifying:
 * Donna Alber
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

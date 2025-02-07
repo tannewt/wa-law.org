@@ -11,18 +11,14 @@
 
 ## Meetings
 ### Thu 02/06 10:30 AM - Early Learning & K-12 Education (EDU): SB 5593 School levies & local effort
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163040&caId=25501&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163040&caId=25501&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163040&caId=25501&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=163040&caId=25501&tId=4)
-
-#### 7 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * 💵Clifford Traisman - Bellevue, Seattle, Northshore and Highline Public School Districts
+* Tyler Muench - Office of Superintendent of Public Instruction
+* Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 
-#### 321 👎 - Con
+#### 522 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Tim Eyman - Initiative Activist
@@ -30,7 +26,16 @@ Testifying:
 * Patricia Cooper
 * Laurie Layne
 
-#### 3 ❓ - Other
+#### 44 ❓ - Other
 Testifying:
 * 💵Oliver Miska
 * Dan Steele - WA Assn of School Admin & WA Assn of School Business Officials
+* Marissa Rathbone - Washington State School Directors' Association
+* Nora Palattao Burnes - ESD 105 Coalition
+* David Knight
+* 💵Melissa Gombosky - Vancouver and Evergreen Public School Districts
+* Charlie Brown - Federal Way Schools, Tacoma Public Schools, and other South Sound School Districts
+* Tom Fleming - Educational Service District 105, CFO
+* 💵Barbara Gilchrist - Washington State Charter Schools Association
+* Dan Effland - Summit Atlas High School
+* Karen Lobos - Rainier Prep

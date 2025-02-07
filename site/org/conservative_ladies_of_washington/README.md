@@ -74,7 +74,7 @@
 ### [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services  👎2 
 * 👎 Mary Long
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools.  👎1 
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools  👎1 
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net.  👎2 
 

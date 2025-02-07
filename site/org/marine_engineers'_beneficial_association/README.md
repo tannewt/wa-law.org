@@ -10,6 +10,8 @@
 ### [HB 1264](/bill/2025-26/hb/1264/) - Ferry system salaries 👍1  
 * 👍 Eric Winge
 
+### [HB 1318](/bill/2025-26/hb/1318/) - Children's diapers sales tax 👍1  
+
 ### [HB 1453](/bill/2025-26/hb/1453/) - Scrap metal/stolen copper 👍1  
 
 ### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase 👍1  
@@ -24,9 +26,13 @@
 
 ### [HB 1587](/bill/2025-26/hb/1587/) - Encouraging local government partner promise scholarship programs within the opportunity scholarship program. 👍1  
 
+### [HB 1603](/bill/2025-26/hb/1603/) - Medicare supp. coverage 👍1  
+
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
 
 ### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees 👍1  
+
+### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 
 ### [SB 5059](/bill/2025-26/sb/5059/) - Ferry captains 👍1  
 
@@ -41,6 +47,10 @@
 ### [SB 5542](/bill/2025-26/sb/5542/) - HS completers/CTC tuition 👍1  
 
 ### [SB 5543](/bill/2025-26/sb/5543/) - College bound scholarship 👍1  
+
+### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation 👍1  
+
+### [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍1  
 
 ## [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
 

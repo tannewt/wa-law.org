@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32700&aId=163023&caId=25503&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32700&aId=163023&caId=25503&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Steve Horvath - HOA United
+* Raelene Schifano - HOA United
+* Jordan Ash - Private Equity Stakeholder Project
 
-#### 3 👎 - Con
+#### 19 👎 - Con
 Testifying:
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Shawn Merchant - Office of the Secretary of State
+* Mary Hull-Drury - Washington Realtors

@@ -14,6 +14,8 @@
 ### [HB 1442](/bill/2025-26/hb/1442/) - Gray wolf management  👎2 
 * 👎 Cat Kelly
 
+### [HB 1735](/bill/2025-26/hb/1735/) - Force-feeding of birds 👍1  
+
 ## [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍2  
 * 👍 Cat Kelly
 

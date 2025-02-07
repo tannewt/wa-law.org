@@ -3,6 +3,9 @@
 
 ### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍1  
 
+### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use  👎1 
+* 👎💵 Brad Tower
+
 ## [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎1 
 * 👎💵 Brad Tower
 

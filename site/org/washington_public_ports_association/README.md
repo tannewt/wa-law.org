@@ -82,6 +82,9 @@
 
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
 
+### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment  👎1 
+* 👎💵 Carly Michiels
+
 ## [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
 * 👍 Chris Herman
 

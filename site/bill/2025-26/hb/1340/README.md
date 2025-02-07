@@ -9,6 +9,7 @@
 ## 📰 Articles
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201340)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201340)
+* [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/lower-costs/#:~:text=House%20Bill%201340)
 
 ## Meetings
 ### Fri 02/07 01:30 PM - Finance (FIN): HB 1340 Prepared food sales tax
@@ -18,12 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162443&caId=25431&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162443&caId=25431&tId=4)
 
-#### 222 👍 - Pro
+#### 278 👍 - Pro
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Anthony Mixer - Washington State Young Republicans
+* 💵Julia Gorton - Washington hospitality association
 
-#### 8 👎 - Con
+#### 26 👎 - Con
 Testifying:
 * Cindy Corpe
 

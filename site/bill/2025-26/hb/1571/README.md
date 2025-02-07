@@ -20,6 +20,7 @@ Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * MD, MPH, Dave Bonauto - Department of Labor & Industries
+* Tammy Fellin - Labor & Industries

@@ -13,9 +13,11 @@
 
 ### [HB 1312](/bill/2025-26/hb/1312/) - Retirement benefits/death 👍13  
 
-### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase 👍45  
+### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase 👍46  
 
 ### [HB 1504](/bill/2025-26/hb/1504/) - Firearm financial resp.  👎1 
+
+### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍36  
 
@@ -27,11 +29,13 @@
 ### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍56  
 * 👍 Nancy Heley
 
-## [SB 5357](/bill/2025-26/sb/5357/) - Actuarial pension funding  👎1 
+### [SB 5357](/bill/2025-26/sb/5357/) - Actuarial pension funding  👎1 
+
+## [SB 5387](/bill/2025-26/sb/5387/) - Corp. practice of medicine 👍1  
 
 ## 2023-24
 
-### [SB 5357](/bill/2023-24/sb/5357/) - Actuarial pension funding  👎1 
+### [SB 5387](/bill/2023-24/sb/5387/) - Corp. practice of medicine 👍1  
 
 ### [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 

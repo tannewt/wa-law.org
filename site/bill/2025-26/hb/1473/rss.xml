@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1473/</link>
 		<description>Updates about HB 1473</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 07:49:40 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 09:12:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2025-01-21/First reading, referred to Appropriations.</guid>
 		</item>
 		<item>
-			<title>👎Donna Alber - Office of Financial Management</title>
+			<title>👎Donna Alber - Mayor, City of Sammamish</title>
 			<description>Donna Alber signed up to testify Con.</description>
 			<pubDate>Tue, 04 Feb 2025 01:55:22 GMT</pubDate>
 			<category>testifier</category>
@@ -31,7 +31,7 @@
 			<guid isPermaLink="false">testifier/Donna/Alber/2025-02-04 01:55:22</guid>
 		</item>
 		<item>
-			<title>👎Patricia Cooper - Office of Financial Management</title>
+			<title>👎Patricia Cooper - Mayor, City of Sammamish</title>
 			<description>Patricia Cooper signed up to testify Con.</description>
 			<pubDate>Tue, 04 Feb 2025 06:06:46 GMT</pubDate>
 			<category>testifier</category>
@@ -45,6 +45,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sheri/Sawyer/2025-02-04 07:49:40</guid>
+		</item>
+		<item>
+			<title>👍Mary Lou Pauly - Mayor, City of Issaquah</title>
+			<description>Mary Lou Pauly signed up to testify Pro. They are signed up to represent Mayor, City of Issaquah.</description>
+			<pubDate>Wed, 05 Feb 2025 03:40:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mary Lou/Pauly/2025-02-05 03:40:09</guid>
+		</item>
+		<item>
+			<title>👍Karen Howe - Mayor, City of Sammamish</title>
+			<description>Karen Howe signed up to testify Pro. They are signed up to represent Mayor, City of Sammamish.</description>
+			<pubDate>Wed, 05 Feb 2025 10:59:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Karen/Howe/2025-02-05 10:59:26</guid>
+		</item>
+		<item>
+			<title>❓Salim Nice - Mayor, City Mercer Island</title>
+			<description>Salim Nice signed up to testify Other. They are signed up to represent Mayor, City Mercer Island.</description>
+			<pubDate>Thu, 06 Feb 2025 09:12:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Salim/Nice/2025-02-06 09:12:05</guid>
 		</item>
 	</channel>
 </rss>

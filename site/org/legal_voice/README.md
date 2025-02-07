@@ -15,11 +15,15 @@
 
 ### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
 
-## [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍12  
+### [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍12  
+
+### [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍1  
+
+## [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate 👍1  
 
 ## 2023-24
 
-### [SB 5321](/bill/2023-24/sb/5321/) - Postsecondary/med. abortion 👍12  
+### [SB 5632](/bill/2023-24/sb/5632/) - Confidentiality/interstate 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

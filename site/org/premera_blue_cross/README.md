@@ -12,12 +12,15 @@
 ### [HB 1566](/bill/2025-26/hb/1566/) - Prior authorization/health  👎1 
 * 👎 Dr. Romilla Batra
 
-### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
+### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 
 ### [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services   ❓1
 * ❓💵 Christine Brewer
+
+### [SB 5324](/bill/2025-26/sb/5324/) - Prior auth. APIs/health 👍1  
+* 👍💵 Christine Brewer
 
 ### [SB 5331](/bill/2025-26/sb/5331/) - Insurance code violations   ❓1
 * ❓💵 Christine Brewer
@@ -25,6 +28,8 @@
 ### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎2 
 
 ### [SB 5361](/bill/2025-26/sb/5361/) - ASAM 4 treatment criteria 👍1  
+
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp. practice of medicine  👎1 
 
 ### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health  👎1 
 * 👎 Dr. Romilla Batra

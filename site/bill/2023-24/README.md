@@ -267,7 +267,7 @@
 * [HB 1569](hb/1569) - Common interest communities 9👍 711👎 5❓ - HApprops
 * [HB 2103](hb/2103) - Large port districts 7📰 332👍 374👎 1❓ - HLocal Govt
 * [SB 5459](sb/5459) - Election info. requests 4📰 58👍 646👎 3❓ - C 404 L 23
-* [SB 5950](sb/5950) - Operating budget, supp. 17📰 105👍 442👎 159❓ - C 376 L 24
+* [SB 5950](sb/5950) - Operating budget, supp. 18📰 105👍 442👎 159❓ - C 376 L 24
 * [SB 5562](sb/5562) - Clean energy 4📰 347👍 342👎 14❓ - SWays & Means
 * [HB 2309](hb/2309) - Washington 13 free guarantee 6📰 210👍 480👎 5❓ - HApprops
 * [SB 6118](sb/6118) - Vapor product directory 63👍 625👎 7❓ - SWays & Means
@@ -655,7 +655,7 @@
 * [HB 1899](hb/1899) - Wildfire reconstruction 3📰 180👍 7👎 3❓ - C 143 L 24
 * [SB 5933](sb/5933) - Infants and toddlers program 1📰 188👍 2👎 0❓ - SEL/K-12
 * [SB 6126](sb/6126) - Respite care 189👍 0👎 1❓ - SWays & Means
-* [SB 6109](sb/6109) - Children and families 13📰 53👍 65👎 71❓ - C 328 L 24
+* [SB 6109](sb/6109) - Children and families 14📰 53👍 65👎 71❓ - C 328 L 24
 * [HB 1001](hb/1001) - Audiology & speech compact 4📰 187👍 1👎 0❓ - C 53 L 23
 * [HB 1432](hb/1432) - Juvenile justice 179👍 4👎 5❓ - HHuman Svc, You
 * [HB 2244](hb/2244) - Retirement savings 2📰 53👍 131👎 4❓ - HConsPro&Bus
@@ -1294,7 +1294,7 @@
 * [SB 5662](sb/5662) - Cannabis employees 8👍 28👎 0❓ - SRules X
 * [SB 5718](sb/5718) - State broadband map 35👍 0👎 1❓ - SEnvironment, E
 * [SB 5941](sb/5941) - Subsidized child care 31👍 5👎 0❓ - SRules X
-* [SB 6114](sb/6114) - Sustainable aviation fuel 1📰 30👍 4👎 2❓ - SRules X
+* [SB 6114](sb/6114) - Sustainable aviation fuel 2📰 30👍 4👎 2❓ - SRules X
 * [HB 1010](hb/1010) - Shellfish sanitary control 1📰 34👍 1👎 0❓ - HRules X
 * [HB 1021](hb/1021) - Social worker licensing 1📰 34👍 0👎 1❓ - HRules X
 * [HB 1056](hb/1056) - Postretirement employment 35👍 0👎 0❓ - C 410 L 23

@@ -8,15 +8,10 @@
 
 ## Meetings
 ### Thu 02/06 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5385 Definition of timberland
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32704&aId=162839&caId=25222&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32704&aId=162839&caId=25222&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32704&aId=162839&caId=25222&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32704&aId=162839&caId=25222&tId=4)
-
-#### 74 👍 - Pro
+#### 96 👍 - Pro
 Testifying:
 * Tom Davis - WA Forest Protection Association
+* Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)
 * Michael Siptroth - na
 
 #### 0 👎 - Con

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/05 01:30 PM - State Government & Tribal Relations (SGOV): HB 1196 Voting rights/convictions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162562&caId=25476&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162562&caId=25476&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162562&caId=25476&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162562&caId=25476&tId=4)
-
-#### 674 👍 - Pro
+#### 717 👍 - Pro
 Testifying:
 * Charles Longshore - Department of Corrections
 * Carlos Bernardez - Department of Corrections
@@ -26,8 +20,9 @@ Testifying:
 * Jacob Ivan Schmitt - Just Us Solutions
 * Kurtis Robinson - I Did the Time
 * Kyle Lucas - Chair, Urban Indians Northwest
+* 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
 
-#### 1503 👎 - Con
+#### 1553 👎 - Con
 Testifying:
 * Donna Alber
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)

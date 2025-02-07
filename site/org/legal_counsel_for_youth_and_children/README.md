@@ -44,13 +44,13 @@
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
 
-### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
+### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.    ❓1
 
 ### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions   ❓1
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍1  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
 
 ### [SB 5128](/bill/2025-26/sb/5128/) - Juvenile detention, medical 👍1  
 
@@ -82,12 +82,12 @@
 * 👍 Alex Narvaez
 * 👍💵 Roxana Gomez
 
-## [SB 5488](/bill/2025-26/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍1  
+## [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 * 👍 Annie Chung
 
 ## 2023-24
 
-### [SB 5488](/bill/2023-24/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍1  
+### [SB 5488](/bill/2023-24/sb/5488/) - DCYF/financial stability 👍1  
 * 👍 Annie Chung
 
 ### [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  

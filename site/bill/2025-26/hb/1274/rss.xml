@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1274/</link>
 		<description>Updates about HB 1274</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 11:57:16 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -156,6 +156,27 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kimberly/Romeroi/2025-01-28 11:57:16</guid>
+		</item>
+		<item>
+			<title>CS - Executive action taken by committee.</title>
+			<description>CS - Executive action taken by committee.</description>
+			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-06/CS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-06/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Stearns bill to retroactively remove juvenile points from adult sentencing passes committee – Washington State House Democrats</title>
+			<description>News article "Stearns bill to retroactively remove juvenile points from adult sentencing passes committee – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/06/stearns-bill-to-retroactively-remove-juvenile-points-from-adult-sentencing-passes-committee/#:~:text=HB%201274</guid>
 		</item>
 	</channel>
 </rss>

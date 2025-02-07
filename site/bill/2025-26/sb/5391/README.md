@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [The future of Washington farming - Sen. Mike Chapman](https://senatedemocrats.wa.gov/chapman/2025/02/07/the-future-of-washington-farming/#:~:text=Another%20bill)
+
 ## Meetings
 ### Mon 02/03 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5391 Sustainable farms grants
 #### 38 👍 - Pro

@@ -13,6 +13,10 @@
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
+### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
+
+### [HB 1608](/bill/2025-26/hb/1608/) - Farmed octopus 👍1  
+
 ### [HB 1735](/bill/2025-26/hb/1735/) - Force-feeding of birds 👍1  
 
 ### [SB 5065](/bill/2025-26/sb/5065/) - Traveling animal acts 👍1  

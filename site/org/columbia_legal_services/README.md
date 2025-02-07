@@ -56,6 +56,10 @@
 
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
 
+### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
+
+### [HB 1530](/bill/2025-26/hb/1530/) - Reg. businesses/card fees  👎1 
+
 ### [HB 1604](/bill/2025-26/hb/1604/) - Jail searches/gender 👍1  
 * 👍💵 Ethan Frenchman
 

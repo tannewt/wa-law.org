@@ -8,21 +8,17 @@
 
 ## Meetings
 ### Thu 02/06 04:00 PM - Ways & Means (WM): SB 5297 Early learning facilities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32640&aId=162918&caId=25342&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32640&aId=162918&caId=25342&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32640&aId=162918&caId=25342&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32640&aId=162918&caId=25342&tId=4)
-
-#### 61 👍 - Pro
+#### 133 👍 - Pro
 Testifying:
 * 💵Erica Hallock - Start Early WA
 * Julie German-Murrey - Rosalie Murrey Memorial Foundation
 * Sarah Clark - Seattle Metropolitan Chamber of Commerce
 
-#### 290 👎 - Con
+#### 417 👎 - Con
 Testifying:
 * Donna Alber
 * Patricia Cooper
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dave Pringle - Dept. of Commerce

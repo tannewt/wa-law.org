@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Thu 02/06 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5552 Kit homes/building codes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162873&caId=25303&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162873&caId=25303&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162873&caId=25303&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162873&caId=25303&tId=4)
+#### 77 👍 - Pro
 
-#### 2 👍 - Pro
+#### 2 👎 - Con
+Testifying:
+* Tammie Sueirro - AIAWA (American Institute of Architects WA Council)
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tim Woodard - Washington Assn. of Building Officials (WABO)

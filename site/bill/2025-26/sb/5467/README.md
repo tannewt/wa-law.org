@@ -8,13 +8,10 @@
 
 ## Meetings
 ### Thu 02/06 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5467 Water-sewer district surplus
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162874&caId=25304&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162874&caId=25304&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162874&caId=25304&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162874&caId=25304&tId=4)
-
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* 💵Joren Clowers - Sno-King Water District Coalition
+* 💵Devin Gombosky - Washington Association of Sewer and Water Districts
 
 #### 0 👎 - Con
 

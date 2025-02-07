@@ -59,6 +59,8 @@
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records   ❓1
 * ❓💵 Paul Jewell
 
+### [HB 1322](/bill/2025-26/hb/1322/) - Juvenile offenses  👎1 
+
 ### [HB 1345](/bill/2025-26/hb/1345/) - Detached ADU limits 👍1  
 * 👍💵 Paul Jewell
 
@@ -74,6 +76,9 @@
 ### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍1  
 * 👍💵 Travis Dutton
 
+### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
+* 👍💵 Paul Jewell
+
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings   ❓1
 * ❓💵 Kelsey Hulse
 
@@ -81,10 +86,15 @@
 
 ### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
 
+### [HB 1488](/bill/2025-26/hb/1488/) - Conservation district limits   ❓1
+* ❓💵 Paul Jewell
+
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓1
 * ❓💵 Travis Dutton
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
+
+### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍1  
 
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
 * 👎💵 Paul Jewell

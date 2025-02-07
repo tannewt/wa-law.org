@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Wed 02/05 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1568 Financial aid eligibility
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162623&caId=25470&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162623&caId=25470&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162623&caId=25470&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162623&caId=25470&tId=4)
-
-#### 201 👍 - Pro
+#### 235 👍 - Pro
 Testifying:
 * 💵Edgar Espino - [The Washington Bus](/org/the_washington_bus/)
 * John Axtell
@@ -33,7 +27,10 @@ Testifying:
 * 💵Isela Bonilla - [Washington Student Association](/org/washington_student_association/)
 * 💵Michelle Carrillo - ASCWU Legislative Liaison
 * Alyssa Duncan - Saint Martin’s University
+* Ashley Ramirez - UW Tacoma Student Legislative Liason
+* Daniel Ngoy - Associated Student Government of Bellevue Collge
+* Islesa Bonilla - WA Student Assoc.
 
-#### 12 👎 - Con
+#### 14 👎 - Con
 
 #### 1 ❓ - Other

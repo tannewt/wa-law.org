@@ -1,13 +1,13 @@
 # King County Housing Authority
 ## 2025-26
 
-## [HB 1075](/bill/2025-26/hb/1075/) - Affordable housing financing 👍3  
+## [HB 1075](/bill/2025-26/hb/1075/) - Affordable housing financing 👍4  
 * 👍 Dan Watson
 * 👍 Tim Walter
 
 ## 2023-24
 
-### [HB 1075](/bill/2023-24/hb/1075/) - Affordable housing financing 👍3  
+### [HB 1075](/bill/2023-24/hb/1075/) - Affordable housing financing 👍4  
 * 👍 Dan Watson
 * 👍 Tim Walter
 

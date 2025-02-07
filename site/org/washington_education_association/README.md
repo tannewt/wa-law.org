@@ -47,7 +47,7 @@
 ### [HB 1136](/bill/2025-26/hb/1136/) - Student navigational support 👍2  
 * 👍💵 Simone Boe
 
-### [HB 1140](/bill/2025-26/hb/1140/) - Establishing empowerED scholarships using educational savings accounts.  👎2 
+### [HB 1140](/bill/2025-26/hb/1140/) - Establishing empowerED scholarships using educational savings accounts.  👎4 
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
@@ -169,6 +169,8 @@
 
 ### [HB 1524](/bill/2025-26/hb/1524/) - Concerning workplace standards and requirements applicable to employers of isolated employees. 👍1  
 
+### [HB 1538](/bill/2025-26/hb/1538/) - Capital assistance/schools   ❓1
+
 ### [HB 1544](/bill/2025-26/hb/1544/) - Child abuse risk assessment 👍1  
 
 ### [HB 1554](/bill/2025-26/hb/1554/) - College bound scholarship 👍1  
@@ -197,12 +199,17 @@
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 
+### [HB 1642](/bill/2025-26/hb/1642/) - Pension plan choice 👍1  
+* 👍 Jared Mason-Gere
+
 ### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent.  👎1 
 * 👎💵 Lorrell Noahr
 
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
 
 ### [HB 1676](/bill/2025-26/hb/1676/) - Charter school contracts  👎2 
+
+### [HB 1754](/bill/2025-26/hb/1754/) - Medicare suppl./guaranteed 👍1  
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -240,7 +247,7 @@
 
 ### [SB 5080](/bill/2025-26/sb/5080/) - Financial education 👍1  
 
-### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
+### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
 * 👍 Jared Mason-Gere
@@ -277,7 +284,7 @@
 
 ### [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍1  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 
@@ -403,7 +410,7 @@
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
-### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍6  
+### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍8  
 * 👍💵 Janie White
 
 ### [SB 5523](/bill/2025-26/sb/5523/) - Higher ed. gov./students 👍1  
@@ -421,6 +428,8 @@
 ### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation 👍1  
 
 ### [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍1  
+
+### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍1  
 
 ### [SB 5593](/bill/2025-26/sb/5593/) - School levies & local effort 👍1  
 * 👍💵 Julie Salvi

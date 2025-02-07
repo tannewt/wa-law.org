@@ -8,29 +8,17 @@
 
 ## Meetings
 ### Thu 02/06 04:00 PM - Appropriations (APP): HB 1606 Journal access/state empl.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=163072&caId=25517&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=163072&caId=25517&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=163072&caId=25517&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=163072&caId=25517&tId=4)
-
-#### 4 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 
-#### 287 👎 - Con
+#### 398 👎 - Con
 Testifying:
 * William Cooper
 
 #### 0 ❓ - Other
 
 ### Wed 02/05 04:00 PM - Appropriations (APP): HB 1606 Journal access/state empl.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162739&caId=25355&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162739&caId=25355&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162739&caId=25355&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162739&caId=25355&tId=4)
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

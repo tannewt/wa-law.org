@@ -78,6 +78,8 @@
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
 
+### [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations   ❓1
+
 ## [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍1  
 
 ## 2023-24

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/29 01:30 PM - State Government & Tribal Relations (SGOV): HB 1412 Comm'n, M. East & N. Africa

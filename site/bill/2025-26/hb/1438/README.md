@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/lower-costs/#:~:text=House%20Bill%201438)
+
 ## Meetings
 ### Wed 01/29 08:00 AM - Local Government (LG): HB 1438 Housing permit approval
 #### 167 👍 - Pro

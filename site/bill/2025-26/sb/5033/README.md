@@ -14,19 +14,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162452&caId=25240&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162452&caId=25240&tId=4)
 
-#### 385 👍 - Pro
+#### 711 👍 - Pro
 Testifying:
 * Richard Honour
 * John Hancock - Spokane's West Plains Water Coalition
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
+* Allen Acosta
+* .Bob .Guenther - Self
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 3 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * Darlene Schanfald - Protect the Peninsula's Future & Olympic Environmental Council
 * Darlene Schanfald - Olympic Environmental Council
+* John Peterson - Clark Regional Wastewater District, Discovery Clean Water Alliance
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
+* 💵Joren Clowers - Sno-King Water District Coalition
+* Kyle Dorsey - The Coalition for Clean Water
+* Phyllis Farrell
+* Atul Deshmane
 
 ### Wed 01/15 08:00 AM - Environment, Energy & Technology (ENET): SB 5033 Biosolids/PFAS chemicals
 #### 3 👍 - Pro

@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Wed 02/05 10:30 AM - Housing (HSG): SB 5497 Housing & shelters
-#### 456 👍 - Pro
+#### 476 👍 - Pro
 Testifying:
 * Dan Wise - Catholic Community Services
 * Joseph Tovar - [American Planning Association Washington Chapter](/org/american_planning_association_washington_chapter/)
@@ -18,8 +18,9 @@ Testifying:
 * Elizabeth Archambault
 * Charles Schaefer
 
-#### 62 👎 - Con
+#### 66 👎 - Con
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

@@ -8,14 +8,13 @@
 
 ## Meetings
 ### Thu 02/06 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5495 Life insurance/suicide limit
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163064&caId=25515&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163064&caId=25515&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163064&caId=25515&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163064&caId=25515&tId=4)
+#### 1 👍 - Pro
+Testifying:
+* Bre Elsey - WA Farm Bureau
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Christine Brewer - [American Council of Life Insurers](/org/american_council_of_life_insurers/)
+* Kris Tefft - [American Council of Life Insurers](/org/american_council_of_life_insurers/)
 
 #### 0 ❓ - Other

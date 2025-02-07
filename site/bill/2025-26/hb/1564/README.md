@@ -9,19 +9,16 @@
 ## 📰 Articles
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201564)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201564)
+* [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/lower-costs/#:~:text=House%20Bill%201564)
 
 ## Meetings
 ### Thu 02/06 01:30 PM - Finance (FIN): HB 1564 Child care assist./B&O tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32633&aId=162437&caId=25426&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32633&aId=162437&caId=25426&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32633&aId=162437&caId=25426&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32633&aId=162437&caId=25426&tId=4)
-
-#### 153 👍 - Pro
+#### 276 👍 - Pro
 Testifying:
 * Maria Tobin - South Sound Military & Communities Partnership
+* 💵Amber Carter - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Michael Transue - Tacoma Pierce County Chamber
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -6,15 +6,19 @@
 ### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity 👍1  
 * 👍💵 Carolyn Logue
 
+### [HB 1606](/bill/2025-26/hb/1606/) - Journal access/state empl. 👍1  
+
 ### [SB 5152](/bill/2025-26/sb/5152/) - Concerning state employee access to peer-reviewed journals. 👍1  
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍2  
 
-## [SB 5365](/bill/2025-26/sb/5365/) - Library funding alternate 👍1  
+### [SB 5365](/bill/2025-26/sb/5365/) - Library funding alternate 👍1  
+
+## [SB 5551](/bill/2025-26/sb/5551/) - School library info and tech 👍1  
 
 ## 2023-24
 
-### [SB 5365](/bill/2023-24/sb/5365/) - Library funding alternate 👍1  
+### [SB 5551](/bill/2023-24/sb/5551/) - School library info and tech 👍1  
 
 ### [HB 1609](/bill/2023-24/hb/1609/) - School library info and tech 👍5  
 * 👍 Sarah Logan

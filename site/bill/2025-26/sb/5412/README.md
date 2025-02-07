@@ -10,7 +10,7 @@
 ### Wed 02/05 10:30 AM - Early Learning & K-12 Education (EDU): SB 5412 Interfund loans/schools
 #### 7 👍 - Pro
 
-#### 369 👎 - Con
+#### 379 👎 - Con
 Testifying:
 * Donna Alber
 

@@ -1,6 +1,9 @@
 # Tesla
 ## 2025-26
 
+### [HB 1721](/bill/2025-26/hb/1721/) - Zero emissions vehicles/sale   ❓1
+* ❓💵 Noelani Derrickson
+
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs  👎1 
 * 👎 Jeff Gombosky
 

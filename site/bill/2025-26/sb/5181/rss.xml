@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5181/</link>
 		<description>Updates about SB 5181</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 05 Feb 2025 08:21:22 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -481,11 +481,46 @@
 			<guid isPermaLink="true">https://mynorthwest.com/mynorthwest-politics/wa-parental-rights/4039888#:~:text=Senate%20Bill%205181</guid>
 		</item>
 		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-05/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</description>
+			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-05/Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
 			<title>BILL ALERT: SB 5181 coming to the Senate floor for a vote today - Senate Republican Caucus</title>
 			<description>News article "BILL ALERT: SB 5181 coming to the Senate floor for a vote today - Senate Republican Caucus" from Senate Republicans.</description>
 			<pubDate>Wed, 05 Feb 2025 08:21:22 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://src.wastateleg.org/blog/bill-alert-sb-5181-coming-senate/#:~:text=Read%20the%20full%20text%20of%20the%20bill.</guid>
+		</item>
+		<item>
+			<title>WA Senate passes changes to parental rights in education | FOX 13 Seattle</title>
+			<description>News article "WA Senate passes changes to parental rights in education | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Wed, 05 Feb 2025 20:50:45 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/washington-changes-parental-rights-education#:~:text=Senate%20Bill%205181</guid>
+		</item>
+		<item>
+			<title>KUOW - Why Washington state lawmakers are fighting over 'parents rights' again</title>
+			<description>News article "KUOW - Why Washington state lawmakers are fighting over 'parents rights' again" from KUOW.</description>
+			<pubDate>Thu, 06 Feb 2025 14:27:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/the-fight-over-parents-rights-is-back-in-olympia-here-s-what-s-going-on#:~:text=Senate%20Bill%205181</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Education (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Education (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-07/First reading, referred to Education (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

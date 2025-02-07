@@ -7,3 +7,24 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/13 08:00 AM - Health & Long Term Care (HLTC): SB 5112 Prescribing psychologists
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163571&caId=25690&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163571&caId=25690&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163571&caId=25690&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163571&caId=25690&tId=4)
+
+#### 190 👍 - Pro
+Testifying:
+* Erick Clodfelter - 2211 South Star Lake rd
+* Erick Clodfelter - 2211 South Star Lake Road
+* Steven Brown
+* Sarah Mullin
+* Karen Atwood - Washington State Association of the Deaf
+* Brandon Henscheid
+
+#### 3 👎 - Con
+Testifying:
+* Victoria Harris MD
+
+#### 0 ❓ - Other

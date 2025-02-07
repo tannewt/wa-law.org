@@ -6,15 +6,15 @@
 
 ### [SB 5059](/bill/2025-26/sb/5059/) - Ferry captains 👍1  
 
-## [SB 5248](/bill/2025-26/sb/5248/) - Bridge collisions 👍2  
+### [SB 5248](/bill/2025-26/sb/5248/) - Bridge collisions 👍2  
 * 👍 Matt Hannuksela
 * 👍 Scott Brewen
+
+## [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment 👍1  
 
 ## 2023-24
 
-### [SB 5248](/bill/2023-24/sb/5248/) - Bridge collisions 👍2  
-* 👍 Matt Hannuksela
-* 👍 Scott Brewen
+### [SB 5519](/bill/2023-24/sb/5519/) - Ocean vessels/environment 👍1  
 
 ### [HB 2236](/bill/2023-24/hb/2236/) - Tech. ed. core plus programs 👍1  
 

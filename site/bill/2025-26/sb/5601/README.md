@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [Bipartisan bill promoting sustainable aviation fuel heard in committee - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/07/bipartisan-bill-promoting-sustainable-aviation-fuel-heard-in-committee/#:~:text=Senate%20Bill%205601)
+
 ## Meetings
 ### Wed 02/05 08:00 AM - Environment, Energy & Technology (ENET): SB 5601 Alternative jet fuels
 #### 50 👍 - Pro

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/28 08:00 AM - Early Learning & K-12 Education (EDU): SB 5025 Educational interpreters

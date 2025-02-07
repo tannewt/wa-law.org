@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1305/</link>
 		<description>Updates about HB 1305</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 07:34:58 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 05 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Devin/Gombosky/2025-01-27 07:34:58</guid>
+		</item>
+		<item>
+			<title>LG - Executive action taken by committee.</title>
+			<description>LG - Executive action taken by committee.</description>
+			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-05/LG - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-05/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

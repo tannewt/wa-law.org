@@ -5,9 +5,16 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1123/</link>
 		<description>Updates about HB 1123</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 10:59:56 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 05 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>2025 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute</title>
+			<description>News article "2025 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute" from Economic Opportunity Institute.</description>
+			<pubDate>Mon, 02 Dec 2024 19:00:41 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.opportunityinstitute.org/current-projects__trashed/2025-legislative-agenda/#:~:text=House%20Bill%201123</guid>
+		</item>
 		<item>
 			<title>Prefiled for introduction.</title>
 			<description>Prefiled for introduction.</description>
@@ -163,6 +170,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Malorie/Toman/2025-01-27 10:59:56</guid>
+		</item>
+		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-05/APP - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

@@ -56,6 +56,8 @@
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
 
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 
 ## [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations   ❓1

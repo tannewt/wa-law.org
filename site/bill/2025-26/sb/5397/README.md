@@ -8,22 +8,20 @@
 
 ## Meetings
 ### Thu 02/06 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5397 CTC faculty w/o tenure limit
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32692&aId=162763&caId=25258&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32692&aId=162763&caId=25258&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32692&aId=162763&caId=25258&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32692&aId=162763&caId=25258&tId=4)
-
-#### 144 👍 - Pro
+#### 154 👍 - Pro
 Testifying:
 * Karl Bailey - Clark College Association of Higher Education/WEA
 * Kirstyn Joy - Highline College Association of Higher Education/WEA
 * Genevieve Sanchez - WA Teacher’s Union
 * Genevieve Sanchez - ATF
+* Kathleen Brown - AFT (American Federation of Teachers )Washington
+* Shari Arnesen
 
-#### 290 👎 - Con
+#### 402 👎 - Con
 Testifying:
 * Donna Alber
 * William Cooper
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Julie Huss - State Board for Community and Technical Colleges

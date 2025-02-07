@@ -7,3 +7,18 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/12 01:30 PM - State Government & Tribal Relations (SGOV): HB 1782 Campaign reporting timeline
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32767&aId=163267&caId=25656&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32767&aId=163267&caId=25656&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32767&aId=163267&caId=25656&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32767&aId=163267&caId=25656&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* 💵Conner Edwards - Professional Campaign Treasurer/CG Edwards PLLAC
+* Jason Michaud - Professional Campaign Treasurer
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

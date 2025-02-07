@@ -7,11 +7,15 @@
 ### [HB 1256](/bill/2025-26/hb/1256/) - Public works/made in US   ❓1
 * ❓💵 Jerry Vanderwood
 
-## [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
+### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
+
+## [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
+* 👎 Lauren Gubbe
 
 ## 2023-24
 
-### [SB 5107](/bill/2023-24/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
+### [SB 5548](/bill/2023-24/sb/5548/) - Workers' compensation  👎1 
+* 👎 Lauren Gubbe
 
 ### [HB 1068](/bill/2023-24/hb/1068/) - Injured worker medical exams  👎2 
 

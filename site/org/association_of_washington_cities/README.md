@@ -98,7 +98,8 @@
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings   ❓1
 * ❓💵 Carl Schroeder
 
-### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase   ❓1
+### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase   ❓2
+* ❓💵 Candice Bock
 * ❓💵 Candice Bock
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓1
@@ -118,6 +119,8 @@
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
+### [HB 1552](/bill/2025-26/hb/1552/) - Real estate broker fee 👍1  
+
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
 * 👎💵 Candice Bock
 
@@ -135,11 +138,26 @@
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
 
+### [HB 1690](/bill/2025-26/hb/1690/) - Water and sewer systems 👍1  
+* 👍💵 Carl Schroeder
+
+### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
+* 👍💵 Carl Schroeder
+
 ### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎1 
 * 👎💵 Candice Bock
 
 ### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎1 
 * 👎💵 Candice Bock
+
+### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
+* 👍💵 Carl Schroeder
+
+### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
+* 👍💵 Carl Schroeder
+
+### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
+* 👍💵 Carl Schroeder
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
@@ -196,22 +214,53 @@
 
 ### [SB 5381](/bill/2025-26/sb/5381/) - Self-insurer withdrawal 👍1  
 
+### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential   ❓1
+* ❓💵 Carl Schroeder
+
+### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
+
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
+### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
+* ❓💵 Carl Schroeder
+
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
+
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+* 👍💵 Carl Schroeder
 
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 * 👍💵 Candice Bock
 
+### [SB 5552](/bill/2025-26/sb/5552/) - Kit homes/building codes 👍1  
+
 ### [SB 5554](/bill/2025-26/sb/5554/) - Historic landmark desig.   ❓1
 * ❓💵 Carl Schroeder
 
-## [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process   ❓1
+### [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations   ❓1
+* ❓💵 Carl Schroeder
+
+### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process   ❓1
+* ❓💵 Carl Schroeder
+
+### [SB 5573](/bill/2025-26/sb/5573/) - Electric security alarms 👍1  
+* 👍💵 Carl Schroeder
+
+### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
+* 👍💵 Carl Schroeder
+
+### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development   ❓1
+* ❓💵 Carl Schroeder
+
+### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use   ❓1
+* ❓💵 Carl Schroeder
+
+## [SB 5614](/bill/2025-26/sb/5614/) - Impact fees   ❓1
 * ❓💵 Carl Schroeder
 
 ## 2023-24
 
-### [SB 5559](/bill/2023-24/sb/5559/) - UGA subdivision process   ❓1
+### [SB 5614](/bill/2023-24/sb/5614/) - Impact fees   ❓1
 * ❓💵 Carl Schroeder
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  

@@ -13,8 +13,10 @@ Testifying:
 * Robert Singleton - Chamber of Progress
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 21 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * Tad Sommerville
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

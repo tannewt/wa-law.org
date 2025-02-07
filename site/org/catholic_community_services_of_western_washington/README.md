@@ -8,11 +8,11 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
-## [SB 5488](/bill/2025-26/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍1  
+## [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 
 ## 2023-24
 
-### [SB 5488](/bill/2023-24/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍1  
+### [SB 5488](/bill/2023-24/sb/5488/) - DCYF/financial stability 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 

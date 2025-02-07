@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Wed 02/05 04:00 PM - Appropriations (APP): HB 1114 Respiratory care compact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162733&caId=25349&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162733&caId=25349&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162733&caId=25349&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162733&caId=25349&tId=4)
-
-#### 200 👍 - Pro
+#### 221 👍 - Pro
 Testifying:
 * Gary Wickman - [Respiratory Care Society of Washington](/org/respiratory_care_society_of_washington/)
 * Tammie Perreault - Department of Defense

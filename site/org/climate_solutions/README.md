@@ -55,10 +55,13 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
-### [SB 5377](/bill/2025-26/sb/5377/) - Motor vehicle dealers  👎1 
+### [SB 5377](/bill/2025-26/sb/5377/) - Motor vehicle dealers  👎2 
+* 👎💵 Leah Missik
 
 ### [SB 5401](/bill/2025-26/sb/5401/) - Wholesale power purchases   ❓1
 * ❓💵 Leah Missik
+
+### [SB 5429](/bill/2025-26/sb/5429/) - State building code council  👎1 
 
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
 

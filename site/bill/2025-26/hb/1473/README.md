@@ -8,19 +8,17 @@
 
 ## Meetings
 ### Thu 02/06 04:00 PM - Appropriations (APP): HB 1473 Wildfire BSA appropriations
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162726&caId=25357&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162726&caId=25357&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162726&caId=25357&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32686&aId=162726&caId=25357&tId=4)
-
-#### 3 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
+* Mary Lou Pauly - Mayor, City of Issaquah
+* Karen Howe - Mayor, City of Sammamish
 
-#### 275 👎 - Con
+#### 378 👎 - Con
 Testifying:
 * Donna Alber
 * Patricia Cooper
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Salim Nice - Mayor, City Mercer Island

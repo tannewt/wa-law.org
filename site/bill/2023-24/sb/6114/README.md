@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [Bipartisan bill promoting sustainable aviation fuel heard in committee - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/07/bipartisan-bill-promoting-sustainable-aviation-fuel-heard-in-committee/#:~:text=SB%206114)
 * 02/06/2024 [Senate Democrats](/org/senate_democrats/) - [Liias’ sustainable aviation fuels bill clears committee - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/02/05/liias-sustainable-aviation-fuels-bill-clears-committee/#:~:text=Senate%20Bill%206114)
 
 ## Meetings

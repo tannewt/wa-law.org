@@ -10,6 +10,21 @@
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205304)
 
 ## Meetings
+### Mon 02/10 04:00 PM - Ways & Means (WM): SB 5304 Homelessness/tribal colleges
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163647&caId=25739&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163647&caId=25739&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163647&caId=25739&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163647&caId=25739&tId=4)
+
+#### 5 👍 - Pro
+Testifying:
+* 💵Joel Anderson - Washington Student Achievement Council
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/23 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5304 Homelessness/tribal colleges
 #### 49 👍 - Pro
 Testifying:

@@ -8,13 +8,14 @@
 
 ## Meetings
 ### Fri 02/07 08:00 AM - Consumer Protection & Business (CPB): HB 1516 Insurance/affordable units
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32631&aId=162427&caId=25390&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32631&aId=162427&caId=25390&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32631&aId=162427&caId=25390&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32631&aId=162427&caId=25390&tId=4)
-
-#### 35 👍 - Pro
+#### 51 👍 - Pro
+Testifying:
+* Rory Paine-Donovan - Office of the Insurance Commissioner
+* Brady Nordstrom - Housing Development Consortium
+* 💵Bill Clarke - Washington REALTORS
+* Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+* William Cornell - Preg O'Donnell & Gillett
+* 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
 
 #### 0 👎 - Con
 

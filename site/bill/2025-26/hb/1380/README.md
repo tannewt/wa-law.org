@@ -11,6 +11,25 @@
 * 01/22/2025 [MyNorthwest](/org/mynorthwest/) - [Washington Democrats push bill legalizing homeless encampments](https://mynorthwest.com/ktth/ktth-opinion/rantz-washington-democrats-bill-legalizes-homeless-encampments-stops-cities-from-restrictions/4031418#:~:text=House%20Bill%201360)
 
 ## Meetings
+### Wed 02/12 04:00 PM - Appropriations (APP): HB 1380 Public property regulations
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=4)
+
+#### 2 👍 - Pro
+
+#### 8 👎 - Con
+Testifying:
+* Amy Harris - Clark County Matters
+* Emilie Cameron - Downtown Spokane Partnership
+* Rae-Lynn Barden - Downtown Spokane Partnership
+* Chris Batten
+* Salim Nice - Mayor, City Mercer Island
+
+#### 0 ❓ - Other
+
 ### Tue 01/21 04:00 PM - Housing (HOUS): HB 1380 Public property regulations
 #### 606 👍 - Pro
 Testifying:

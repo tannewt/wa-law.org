@@ -39,6 +39,8 @@
 ### [HB 1426](/bill/2025-26/hb/1426/) - Impaired driving civil order 👍1  
 * 👍 Sean DeWitz
 
+### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
+
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
 * 👍 Anthony Anton
 
@@ -64,7 +66,8 @@
 ### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy  👎1 
 * 👎 Sean DeWitz
 
-### [HB 1684](/bill/2025-26/hb/1684/) - Water recreation facilities  👎1 
+### [HB 1684](/bill/2025-26/hb/1684/) - Water recreation facilities  👎2 
+* 👎💵 Samantha Louderback
 * 👎💵 Samantha Louderback
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
@@ -101,6 +104,9 @@
 
 ### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
 * 👍💵 Julia Gorton
+
+### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential   ❓1
+* ❓ Sean DeWitz
 
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
 * 👍💵 Julia Gorton

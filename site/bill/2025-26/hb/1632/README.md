@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/02/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2025 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects__trashed/2025-legislative-agenda/#:~:text=House%20Bill%201632)
+
 ## Meetings
 ### Tue 02/04 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1632 Medical debt
 #### 1 👍 - Pro

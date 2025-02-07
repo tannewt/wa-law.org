@@ -12,7 +12,8 @@
 
 ### [HB 1180](/bill/2025-26/hb/1180/) - Implementing certain recommendations from the sex offender policy board concerning the criminal offense of failure to register. 👍1  
 
-### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍2  
+### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍3  
+* 👍💵 Kelly Olson
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 

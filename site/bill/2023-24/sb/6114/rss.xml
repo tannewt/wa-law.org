@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6114/</link>
 		<description>Updates about SB 6114</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 15 Feb 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 17:11:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -80,6 +80,13 @@
 			<pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-02-15/Senate Rules "X" file.</guid>
+		</item>
+		<item>
+			<title>Bipartisan bill promoting sustainable aviation fuel heard in committee - Sen. Marko Liias</title>
+			<description>News article "Bipartisan bill promoting sustainable aviation fuel heard in committee - Sen. Marko Liias" from Senate Democrats.</description>
+			<pubDate>Fri, 07 Feb 2025 17:11:05 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2025/02/07/bipartisan-bill-promoting-sustainable-aviation-fuel-heard-in-committee/#:~:text=SB%206114</guid>
 		</item>
 	</channel>
 </rss>

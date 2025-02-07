@@ -20,11 +20,15 @@
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 * 👍 Chris Brown
 
-## [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
+
+## [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
 
 ## 2023-24
 
-### [SB 5547](/bill/2023-24/sb/5547/) - Cannabis revenue/local gov. 👍1  
+### [SB 5591](/bill/2023-24/sb/5591/) - Affordable housing/sales tax 👍1  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍4  
 

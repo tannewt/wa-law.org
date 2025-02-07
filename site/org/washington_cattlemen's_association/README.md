@@ -11,6 +11,8 @@
 ### [HB 1442](/bill/2025-26/hb/1442/) - Gray wolf management 👍1  
 * 👍💵 Mark Streuli
 
+### [HB 1630](/bill/2025-26/hb/1630/) - Livestock methane emissions  👎2 
+
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 
 ### [SB 5117](/bill/2025-26/sb/5117/) - Protecting agriculture. 👍1  
@@ -18,6 +20,8 @@
 ### [SB 5152](/bill/2025-26/sb/5152/) - Concerning state employee access to peer-reviewed journals. 👍1  
 
 ### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
+
+### [SB 5384](/bill/2025-26/sb/5384/) - Riparian programs review 👍1  
 
 ## [SB 5485](/bill/2025-26/sb/5485/) - Livestock identification 👍1  
 * 👍💵 Mark Streuli

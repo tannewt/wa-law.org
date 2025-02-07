@@ -12,6 +12,9 @@
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
 
+### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential  👎1 
+* 👎 Ryan Windish
+
 ## [SB 5529](/bill/2025-26/sb/5529/) - ADU tax exemptions 👍2  
 
 ## 2023-24

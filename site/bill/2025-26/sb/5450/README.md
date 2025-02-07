@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/06/2025 [Senate Democrats](/org/senate_democrats/) - [Week three update! - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/02/06/week-three-update/#:~:text=SB%205450,)
 * 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 4: Housing, job security, consumer protection and floor action - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/02/this-week-in-the-senate-week-4-housing-job-security-consumer-protection-and-floor-action/#:~:text=Senate%20Bill%205450)
 
 ## Meetings
@@ -17,10 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162453&caId=25241&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162453&caId=25241&tId=4)
 
-#### 211 👍 - Pro
+#### 547 👍 - Pro
 Testifying:
 * Kelsey Payne - Snoqualmie Indian Tribe
+* Peter Steelquist - Surfrider Foundation
+* Mindy Roberts
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Leslie Connelly - Department of Ecology

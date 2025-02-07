@@ -42,7 +42,11 @@
 
 ### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
 
+### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍1  
+
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
+
+### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍1  
 
 ### [HB 1556](/bill/2025-26/hb/1556/) - HS completers/CTC tuition 👍1  
 
@@ -78,6 +82,8 @@
 
 ### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
 
+### [SB 5297](/bill/2025-26/sb/5297/) - Early learning facilities 👍1  
+
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
 ### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
@@ -89,6 +95,8 @@
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
+
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 

@@ -16,6 +16,25 @@
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205263)
 
 ## Meetings
+### Tue 02/11 04:00 PM - Ways & Means (WM): SSB 5263 Special education funding
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163639&caId=25746&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163639&caId=25746&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163639&caId=25746&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163639&caId=25746&tId=4)
+
+#### 22 👍 - Pro
+Testifying:
+* 💵Melissa Gombosky - Spokane, Richland, Evergreen and Vancouver Public Schools
+* Tim Merlino - ESD 112, Superintendent
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Dr. Brent Jones - Superintendent, Seattle Public Schools
+* Lindsey Yocum - Board Director, Lake Washington School District
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5263 Special education funding
 #### 2704 👍 - Pro
 Testifying:

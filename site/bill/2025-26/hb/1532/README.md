@@ -8,20 +8,26 @@
 
 ## Meetings
 ### Thu 02/06 01:30 PM - Finance (FIN): HB 1532 Sales tax sourcing impact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32633&aId=162436&caId=25425&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32633&aId=162436&caId=25425&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32633&aId=162436&caId=25425&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32633&aId=162436&caId=25425&tId=4)
-
-#### 6 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * 💵Nick Streuli - [Port of Seattle](/org/port_of_seattle/)
+* Charlie Brown - Fred Meyer
+* Zenovia Harris - Kent Chamber of Commerce
 * Bill Boyce - Councilmember, City of Kent
 * Dana Ralph - Mayor, City of Kent
 * Satwinder Kaur - Council President, City of Kent
 * Tahmina Martelly
+* Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
+* 💵Michael Transue - [City of Fife](/org/city_of_fife/)
+* Dione Dittmar
+* Joy Cortado
+* Joseph Velling
+* Elizabeth Scharnhorst
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Scott Hazlegrove - WA State Auto Dealers Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Steve Ewing - Dept. of Revenue

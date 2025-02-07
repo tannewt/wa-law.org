@@ -7,6 +7,12 @@
 
 ### [HB 1382](/bill/2025-26/hb/1382/) - All payers claim database 👍1  
 
+### [HB 1603](/bill/2025-26/hb/1603/) - Medicare supp. coverage   ❓1
+* ❓💵 Adam Zarrin
+
+### [HB 1754](/bill/2025-26/hb/1754/) - Medicare suppl./guaranteed 👍1  
+* 👍💵 Adam Zarrin
+
 ### [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services 👍1  
 
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  

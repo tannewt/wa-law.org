@@ -85,11 +85,15 @@
 
 ### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
 
-## [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍2  
+### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍2  
+
+## [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍1  
+* 👍💵 Nicole Kern
 
 ## 2023-24
 
-### [SB 5541](/bill/2023-24/sb/5541/) - Future fund pilot project 👍2  
+### [SB 5557](/bill/2023-24/sb/5557/) - Pregnancy/emerg. treatment 👍1  
+* 👍💵 Nicole Kern
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1178/</link>
 		<description>Updates about HB 1178</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 26 Jan 2025 17:30:27 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -162,6 +162,20 @@
 			<pubDate>Sun, 26 Jan 2025 17:30:27 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://mynorthwest.com/ktth/ktth-opinion/lighter-sentences-black-jail/4034441#:~:text=House%20Bill%201178</guid>
+		</item>
+		<item>
+			<title>CS - Executive action taken by committee.</title>
+			<description>CS - Executive action taken by committee.</description>
+			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-06/CS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-06/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

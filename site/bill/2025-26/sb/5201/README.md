@@ -7,17 +7,12 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/06/2025 [Senate Democrats](/org/senate_democrats/) - [Salomon bill to legalize adult use of psilocybin heard in committee - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2025/02/06/salomon-bill-to-legalize-adult-use-of-psilocybin-heard-in-committee/#:~:text=Senate%20Bill%205201)
 * 01/30/2025 [The Center Square](/org/the_center_square/) - [From ‘Just Say No’ to ‘Maybe So’? Olympia reconsiders legalizing psychedelics | National | thecentersquare.com](https://www.thecentersquare.com/national/article_1e0683ca-df53-11ef-a4a4-77a2f4145668.html#:~:text=Senate%20Bill%205201)
 
 ## Meetings
 ### Thu 02/06 08:00 AM - Health & Long Term Care (HLTC): SB 5201 Psychedelic substances
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162822&caId=25248&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162822&caId=25248&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162822&caId=25248&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162822&caId=25248&tId=4)
-
-#### 39 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * Ralph Baard
 * Sunil Aggarwal
@@ -31,8 +26,15 @@ Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 * Wendy Lynn
 * Wendy Lynn
+* Carl Franz
+* Claudia Cuentas - Cora Center
+* Tom Eckert - InnerTrek
+* Zach Skiles - Heroic Hearts
+* Aaron Loehr - Coalition for Better Community Health
+* 💵Paula Sardinas - We Build Back Black Alliance
+* Bryan Hubbard
 
-#### 293 👎 - Con
+#### 457 👎 - Con
 Testifying:
 * Alba Sari
 * Angela Ross
@@ -44,8 +46,18 @@ Testifying:
 * William Cooper
 * William Cooper
 * Suzanne Moreillon
+* Andy Fischer-Price
+* MD MPH, Rebecca Allen - Seattle Neuropsychiatric Treatment Center
+* MD, Robin Berger - Washington State Psychiatric Association (WSPA)
+* 💵Amy Brackenbury - Washington State Medical Association & Washington State Public Health Association
+* Annie McGrath - Washington State Psychiatric Association (WSPA)
+* MD, JD, Mason Marks
+* Christopher Metzger
+* Steven Pearce - Citizens Commission on Human Rights
+* Sarah Rasor
+* Tatiana Luz Quintana - Responsible Entheogenic Access and Community Healing (REACH) Coalition
 
-#### 17 ❓ - Other
+#### 23 ❓ - Other
 Testifying:
 * Bailey Quigley - on behalf of REACH WA. Responsible Entheogen Access and Community Healing Coalition
 * Lauren Feringa - Hippie and a Veteran Foundation
@@ -61,4 +73,9 @@ Testifying:
 * Heidi Venture - Vital Reset Psilocybin Service Center
 * Jessa Lewis
 * Kelsey Taylor
+* Timothy Sedivy
+* BSN RN, HWNC-BC, Angela Ward
+* Larry Norris - Decriminalize Nature
 * Todd Youngs
+* 💵Megan Veith - Washington State Department of Health
+* Caitlein Ryan - THE CANNABIS ALLIANCE

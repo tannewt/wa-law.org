@@ -25,6 +25,8 @@
 ### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  
 * 👍💵 Nick Streuli
 
+### [HB 1564](/bill/2025-26/hb/1564/) - Child care assist./B&O tax 👍1  
+
 ### [HB 1595](/bill/2025-26/hb/1595/) - Economic development plan 👍1  
 
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
@@ -48,6 +50,11 @@
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment   ❓1
+* ❓ John Flanagan
 
 ### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
 * 👍 John Flanagan

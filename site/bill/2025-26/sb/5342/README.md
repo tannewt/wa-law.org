@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/28 01:30 PM - Human Services (HS): SB 5342 Legislators/state facilities

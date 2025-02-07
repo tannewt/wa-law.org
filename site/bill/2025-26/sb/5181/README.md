@@ -6,8 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/06/2025 [KUOW](/org/kuow/) - [KUOW - Why Washington state lawmakers are fighting over 'parents rights' again](https://www.kuow.org/stories/the-fight-over-parents-rights-is-back-in-olympia-here-s-what-s-going-on#:~:text=Senate%20Bill%205181)
+* 02/05/2025 [FOX13](/org/fox13/) - [WA Senate passes changes to parental rights in education | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-changes-parental-rights-education#:~:text=Senate%20Bill%205181)
 * 02/05/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: SB 5181 coming to the Senate floor for a vote today - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-sb-5181-coming-senate/#:~:text=Read%20the%20full%20text%20of%20the%20bill.)
 * 02/04/2025 [MyNorthwest](/org/mynorthwest/) - [WA lawmakers accuse one another of parental rights lies](https://mynorthwest.com/mynorthwest-politics/wa-parental-rights/4039888#:~:text=Senate%20Bill%205181)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205181)

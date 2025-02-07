@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [What’s happening in Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/04/whats-happening-in-olympia/#:~:text=Senate%20Bill%205083)
+* 12/02/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2025 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects__trashed/2025-legislative-agenda/#:~:text=Senate%20Bill%205083)
 
 ## Meetings
 ### Fri 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5083 Health carrier reimbursement

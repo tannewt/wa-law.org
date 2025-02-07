@@ -5,7 +5,7 @@
 * 👍💵 Jill May
 * 👍 Angela Youtsey
 
-### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
+### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍2  
 * 👍💵 Jill May

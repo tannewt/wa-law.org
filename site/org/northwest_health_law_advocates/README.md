@@ -20,6 +20,8 @@
 
 ### [HB 1583](/bill/2025-26/hb/1583/) - Concerning medicaid coverage for traditional health care practices. 👍1  
 
+### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
+
 ### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
 * 👍💵 Emily Brice
 
@@ -33,17 +35,26 @@
 ### [SB 5353](/bill/2025-26/sb/5353/) - Diabetes and obesity 👍1  
 * 👍💵 Vanessa Saavedra
 
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp. practice of medicine 👍1  
+* 👍💵 Emily Brice
+
 ### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎1 
 * 👎💵 Vanessa Saavedra
 
+### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍1  
+* 👍💵 Vanessa Saavedra
+
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 
-## [SB 5561](/bill/2025-26/sb/5561/) - Health care entity registry 👍1  
+### [SB 5561](/bill/2025-26/sb/5561/) - Health care entity registry 👍1  
+* 👍💵 Emily Brice
+
+## [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍1  
 * 👍💵 Emily Brice
 
 ## 2023-24
 
-### [SB 5561](/bill/2023-24/sb/5561/) - Health care entity registry 👍1  
+### [SB 5568](/bill/2023-24/sb/5568/) - State health plan 👍1  
 * 👍💵 Emily Brice
 
 ### [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  

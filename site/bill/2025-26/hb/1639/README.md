@@ -11,17 +11,18 @@
 
 ## Meetings
 ### Fri 02/07 08:00 AM - Health Care & Wellness (HCW): HB 1639 Medicare advantage discl.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32622&aId=162473&caId=25443&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32622&aId=162473&caId=25443&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32622&aId=162473&caId=25443&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32622&aId=162473&caId=25443&tId=4)
-
-#### 180 👍 - Pro
+#### 355 👍 - Pro
 Testifying:
 * 💵Laurie Weidner - ED, Retired Public Employee Council of WA
 * Robby Stern - [Puget Sound Advocates for Retirement Action](/org/puget_sound_advocates_for_retirement_action/)
+* Angela Gyurko
+* Cathleen MacCaul - AARP Washington State
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Chris Bandoli - [Americas Health Insurance Plans](/org/americas_health_insurance_plans/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Victoria Lindholm - Washington Chapter of the National Association of Benefit and Insurance Professionals
+* Nico Janssen - Office of the Insurance Commissioner

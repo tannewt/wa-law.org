@@ -49,6 +49,11 @@
 ### [HB 1245](/bill/2025-26/hb/1245/) - Electrical transmission cap. 👍1  
 * 👍💵 Crystal Leatherman
 
+### [HB 1276](/bill/2025-26/hb/1276/) - Organized retail theft 👍1  
+* 👍💵 Mark Johnson
+
+### [HB 1318](/bill/2025-26/hb/1318/) - Children's diapers sales tax 👍1  
+
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎1 
 
 ### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers  👎1 
@@ -76,6 +81,9 @@
 ### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor 👍1  
 * 👍💵 Mark Johnson
 
+### [HB 1564](/bill/2025-26/hb/1564/) - Child care assist./B&O tax 👍1  
+* 👍💵 Amber Carter
+
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
 ### [HB 1595](/bill/2025-26/hb/1595/) - Economic development plan 👍2  
@@ -88,7 +96,10 @@
 ### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy  👎1 
 * 👎💵 Crystal Leatherman
 
-### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
+### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
+* 👎💵 Rose Gundersen
+
+### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers  👎1 
 

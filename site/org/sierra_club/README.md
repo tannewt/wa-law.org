@@ -1,13 +1,16 @@
 # Sierra Club
 ## 2025-26
 
-## [HB 1249](/bill/2025-26/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission.  👎1 
+### [HB 1249](/bill/2025-26/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission.  👎1 
 * 👎 Kathleen M. Saul
+
+### [SB 5385](/bill/2025-26/sb/5385/) - Definition of timberland 👍1  
+
+## [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment 👍1  
 
 ## 2023-24
 
-### [HB 1249](/bill/2023-24/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission.  👎1 
-* 👎 Kathleen M. Saul
+### [SB 5519](/bill/2023-24/sb/5519/) - Ocean vessels/environment 👍1  
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍1  
 * 👍💵 Jesse Piedfort

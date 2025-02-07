@@ -23,7 +23,7 @@ Testifying:
 * Austin Embody - Cadillac Brotherton
 * Rondi Thorp - Washington State Association for Justice
 
-#### 328 👎 - Con
+#### 330 👎 - Con
 Testifying:
 * 💵Noelani Derrickson - [Tesla](/org/tesla/)
 * Angela Tsang
@@ -128,6 +128,8 @@ Testifying:
 * Gregg DuPont
 * Ava Ames - [Tesla](/org/tesla/)
 * Eric Jones
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Isaac Kastama - Clean & Prosperous WA
 
 #### 5 ❓ - Other
 Testifying:

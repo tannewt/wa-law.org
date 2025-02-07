@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5375/</link>
 		<description>Updates about SB 5375</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 05:45:01 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -191,6 +191,20 @@
 			<pubDate>Tue, 04 Feb 2025 05:45:01 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.kuow.org/stories/clergy-would-be-required-to-report-child-abuse-und#:~:text=proposed%20bill</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-05/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-06/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

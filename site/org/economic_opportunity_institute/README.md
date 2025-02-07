@@ -13,6 +13,8 @@
 
 ### [HB 1626](/bill/2025-26/hb/1626/) - PFML grants/school districts  👎1 
 
+### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
+
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
@@ -25,6 +27,9 @@
 
 ### [SB 5378](/bill/2025-26/sb/5378/) - PFML grants/school districts  👎1 
 
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp. practice of medicine 👍1  
+* 👍 Sam Hatzenbeler
+
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍3  
@@ -32,12 +37,15 @@
 
 ### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation 👍1  
 
-## [SB 5561](/bill/2025-26/sb/5561/) - Health care entity registry 👍1  
+### [SB 5561](/bill/2025-26/sb/5561/) - Health care entity registry 👍1  
+* 👍 Sam Hatzenbeler
+
+## [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍1  
 * 👍 Sam Hatzenbeler
 
 ## 2023-24
 
-### [SB 5561](/bill/2023-24/sb/5561/) - Health care entity registry 👍1  
+### [SB 5568](/bill/2023-24/sb/5568/) - State health plan 👍1  
 * 👍 Sam Hatzenbeler
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1

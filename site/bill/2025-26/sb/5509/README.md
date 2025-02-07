@@ -8,16 +8,13 @@
 
 ## Meetings
 ### Thu 02/06 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5509 Child care center siting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162871&caId=25301&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162871&caId=25301&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162871&caId=25301&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162871&caId=25301&tId=4)
-
-#### 89 👍 - Pro
+#### 164 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Alex Galeana - Children's Campaign Fund Action
+* Alexis Cortes - Parent
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 7 ❓ - Other

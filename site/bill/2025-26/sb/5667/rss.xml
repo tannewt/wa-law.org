@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5667/</link>
 		<description>Updates about SB 5667</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 05 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 05 Feb 2025 19:30:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,20 @@
 			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-05/First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Transportation.</title>
+			<description>First reading, referred to Transportation.</description>
+			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-05/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>State Lawmakers Chart Path to Double Amtrak Cascades Service - The Urbanist</title>
+			<description>News article "State Lawmakers Chart Path to Double Amtrak Cascades Service - The Urbanist" from The Urbanist.</description>
+			<pubDate>Wed, 05 Feb 2025 19:30:39 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2025/02/05/lawmakers-path-to-double-amtrak-cascades-service/#:~:text=companion%20version%20(SB%205667)</guid>
 		</item>
 	</channel>
 </rss>

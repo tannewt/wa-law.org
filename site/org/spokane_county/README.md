@@ -16,11 +16,15 @@
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net.  👎1 
 
-## [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
+### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
+
+## [SB 5635](/bill/2025-26/sb/5635/) - Alt. on-site sewage systems 👍1  
+* 👍 Commissioner Josh Kerns
 
 ## 2023-24
 
-### [SB 5285](/bill/2023-24/sb/5285/) - Law enf. officers/increase 👍1  
+### [SB 5635](/bill/2023-24/sb/5635/) - Alt. on-site sewage systems 👍1  
+* 👍 Commissioner Josh Kerns
 
 ### [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1
 * ❓ Commissioner Amber Waldref

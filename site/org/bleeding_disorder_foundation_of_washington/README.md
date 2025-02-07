@@ -20,6 +20,8 @@
 ### [SB 5353](/bill/2025-26/sb/5353/) - Diabetes and obesity 👍1  
 * 👍💵 Stephanie Simpson
 
+### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍1  
+
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 
 ## [SB 5561](/bill/2025-26/sb/5561/) - Health care entity registry 👍1  

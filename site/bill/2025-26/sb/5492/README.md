@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/29 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5492 Tourism promotion

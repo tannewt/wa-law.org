@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5093/</link>
 		<description>Updates about SB 5093</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -176,6 +176,27 @@
 			<pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-29/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-05/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</description>
+			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-05/Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Civil Rights &amp; Judiciary (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Civil Rights &amp; Judiciary (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-07/First reading, referred to Civil Rights &amp; Judiciary (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

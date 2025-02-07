@@ -30,13 +30,16 @@
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍4  
 * 👍 Heather Tow-Yick
 
-## [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍3  
+### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍3  
 * 👍 Heather Tow-Yick
+
+## [SB 5593](/bill/2025-26/sb/5593/) - School levies & local effort 👍1  
+* 👍 Martin Turney
 
 ## 2023-24
 
-### [SB 5307](/bill/2023-24/sb/5307/) - Special education funding 👍3  
-* 👍 Heather Tow-Yick
+### [SB 5593](/bill/2023-24/sb/5593/) - School levies & local effort 👍1  
+* 👍 Martin Turney
 
 ### [HB 1608](/bill/2023-24/hb/1608/) - Anaphylaxis meds./schools 👍2  
 

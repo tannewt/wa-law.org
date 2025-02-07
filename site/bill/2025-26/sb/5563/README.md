@@ -8,14 +8,11 @@
 
 ## Meetings
 ### Thu 02/06 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5563 Horse racing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163063&caId=25514&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163063&caId=25514&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163063&caId=25514&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163063&caId=25514&tId=4)
+#### 54 👍 - Pro
+Testifying:
+* Amanda Benton - Washington Horse Racing Commission
+* María Cristina Zunino
 
-#### 5 👍 - Pro
-
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

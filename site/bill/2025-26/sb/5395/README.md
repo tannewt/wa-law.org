@@ -8,16 +8,23 @@
 
 ## Meetings
 ### Fri 02/07 08:00 AM - Health & Long Term Care (HLTC): SB 5395 Prior authorization/health
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32702&aId=162829&caId=25254&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32702&aId=162829&caId=25254&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32702&aId=162829&caId=25254&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32702&aId=162829&caId=25254&tId=4)
+#### 200 👍 - Pro
+Testifying:
+* 💵Vanessa Saavedra - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Dr. Douglas Backous
+* Dr. Addison Stone - [Proliance Surgeons](/org/proliance_surgeons/)
+* 💵Lisa Thatcher - Washington State Hospital Association
+* Adam Dittemore - EvergreenHealth
+* Rena Cardenas - MultiCare Health System
+* DO, Katina Rue - WA State Medical Assn
+* 💵Malorie Toman - WA State Medical Assn
 
-#### 55 👍 - Pro
-
-#### 5 👎 - Con
+#### 18 👎 - Con
 Testifying:
 * Dr. Romilla Batra - [Premera Blue Cross](/org/premera_blue_cross/)
+* Dr. Chris Berlin - Kaiser Permanente
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Marissa Ingalls
+* Peggi Lewis Fu - Association of Washington Health Care Plans
 
 #### 0 ❓ - Other

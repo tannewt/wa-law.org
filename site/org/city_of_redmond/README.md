@@ -8,6 +8,8 @@
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 * 👍 Angela Birney
 
+### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  
+
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act.   ❓1

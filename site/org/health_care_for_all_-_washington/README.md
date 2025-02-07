@@ -5,7 +5,7 @@
 
 ### [HB 1379](/bill/2025-26/hb/1379/) - Health carrier reporting 👍1  
 
-### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
+### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍1  
 

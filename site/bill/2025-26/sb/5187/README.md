@@ -18,6 +18,24 @@
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205187)
 
 ## Meetings
+### Tue 02/11 04:00 PM - Ways & Means (WM): SB 5187 Student transportation
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163637&caId=25744&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163637&caId=25744&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163637&caId=25744&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163637&caId=25744&tId=4)
+
+#### 9 👍 - Pro
+Testifying:
+* Flip Herndon - Capital Region Educational Service District 113, Superintendent
+* Ismael Vivanco - Northwest Educational Service District 189, Superintendent
+* Rob Roettger - Northeast WA Educational Service District 101, Superintendent
+* Lindsey Yocum - Board Director, Lake Washington School District
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5187 Student transportation
 #### 2453 👍 - Pro
 Testifying:

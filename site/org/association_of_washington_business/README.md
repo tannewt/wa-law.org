@@ -71,6 +71,8 @@
 ### [HB 1155](/bill/2025-26/hb/1155/) - Noncompetition agreements  👎1 
 * 👎💵 Lindsey Hueer
 
+### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍1  
+
 ### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info  👎1 
 * 👎💵 Morgan Irwin
 
@@ -160,12 +162,20 @@
 
 ### [HB 1527](/bill/2025-26/hb/1527/) - Health care claims mediation 👍1  
 
+### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact  👎1 
+
 ### [HB 1533](/bill/2025-26/hb/1533/) - Specialty electricians 👍1  
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 * 👍💵 Peter Godlewski
 
+### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries  👎1 
+
+### [HB 1564](/bill/2025-26/hb/1564/) - Child care assist./B&O tax   ❓1
+
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
+
+### [HB 1572](/bill/2025-26/hb/1572/) - Higher ed. accreditation 👍1  
 
 ### [HB 1576](/bill/2025-26/hb/1576/) - Concerning the designation of historic landmarks by cities. 👍1  
 
@@ -185,8 +195,13 @@
 
 ### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment  👎1 
 
+### [HB 1656](/bill/2025-26/hb/1656/) - Wildfire costs/securitizing 👍1  
+* 👍💵 Peter Godlewski
+
 ### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy  👎1 
 * 👎💵 Morgan Irwin
+
+### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use  👎1 
 
 ### [HB 1684](/bill/2025-26/hb/1684/) - Water recreation facilities  👎1 
 * 👎💵 Morgan Irwin
@@ -194,10 +209,15 @@
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth  👎1 
 * 👎💵 Peter Godlewski
 
+### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
+* 👎💵 Lindsey Hueer
+
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement  👎1 
 * 👎💵 Lindsey Hueer
 
-### [SB 5019](/bill/2025-26/sb/5019/) - Prepacked medication distr. 👍1  
+### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation  👎1 
+
+### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 * 👎💵 Lindsey Hueer
@@ -215,7 +235,8 @@
 ### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates   ❓1
 * ❓💵 Peter Godlewski
 
-### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 
+### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎2 
+* 👎💵 Lindsey Hueer
 * 👎💵 Lindsey Hueer
 
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
@@ -344,7 +365,7 @@
 
 ### [SB 5528](/bill/2025-26/sb/5528/) - Transp. electrification  👎1 
 
-### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
+### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎2 
 * 👎💵 Lindsey Hueer
 
 ### [SB 5554](/bill/2025-26/sb/5554/) - Historic landmark desig. 👍1  
@@ -360,13 +381,23 @@
 
 ### [SB 5561](/bill/2025-26/sb/5561/) - Health care entity registry  👎1 
 
-## [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎1 
+### [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
+
+### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
 * 👎💵 Lindsey Hueer
+
+### [SB 5596](/bill/2025-26/sb/5596/) - Interstate teacher compact  👎1 
+
+### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎1 
+* 👎💵 Lindsey Hueer
+
+### [SB 5644](/bill/2025-26/sb/5644/) - Gift card criminal conduct 👍1  
+
+## [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍1  
 
 ## 2023-24
 
-### [SB 5626](/bill/2023-24/sb/5626/) - Wage replacement  👎1 
-* 👎💵 Lindsey Hueer
+### [SB 5655](/bill/2023-24/sb/5655/) - Child care centers/buildings 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

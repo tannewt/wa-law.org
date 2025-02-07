@@ -8,11 +8,13 @@
 
 ### [HB 1438](/bill/2025-26/hb/1438/) - Housing permit approval  👎1 
 
-## [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
+### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
+
+## [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting   ❓1
 
 ## 2023-24
 
-### [SB 5060](/bill/2023-24/sb/5060/) - Law enforcement personnel 👍1  
+### [SB 5509](/bill/2023-24/sb/5509/) - Child care center siting   ❓1
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  
 

@@ -1,6 +1,8 @@
 # Faith Action Network
 ## 2025-26
 
+### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct 👍1  
+
 ### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍4  
 * 👍💵 Kristin Ang
 

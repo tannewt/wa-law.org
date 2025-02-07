@@ -30,7 +30,7 @@
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
 
-### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍16  
+### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍16  
 * 👍💵 Charles Smith
 * 👍 Corrina Chatterton
 * 👍 Lexx Senner
@@ -62,7 +62,7 @@
 
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
 
-### [SB 5488](/bill/2025-26/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍2  
+### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍2  
 * 👍💵 Samuel Martin
 
 ## [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  

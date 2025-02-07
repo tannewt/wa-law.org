@@ -8,21 +8,16 @@
 
 ## Meetings
 ### Thu 02/06 04:00 PM - Transportation (TRAN): SB 5484 Tow truck payments/indigent
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32628&aId=162980&caId=25322&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32628&aId=162980&caId=25322&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32628&aId=162980&caId=25322&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32628&aId=162980&caId=25322&tId=4)
-
-#### 9 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Drew Zachary - Burns Towing
 * Emily Wade - Towing & Recovery Association of WA (TRAW)
 * Drew Zachar - Burns Towing
+* Drew Zachary - Burns Towing
 * Emily Wade - Towing & Recovery Association of WA (TRAW)
 * Holly Crowley - Gene Meyer Towing
 * 💵Peter Lukevich - Towing & Recovery Association of WA (TRAW)
 
-#### 0 👎 - Con
+#### 18 👎 - Con
 
 #### 0 ❓ - Other

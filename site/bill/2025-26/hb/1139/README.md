@@ -10,3 +10,17 @@
 * 01/14/2025 [The Center Square](/org/the_center_square/) - [Bill would toughen penalties for unlawful firearm possession | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_32ffc044-d2c8-11ef-8adc-4758397a78de.html#:~:text=House%20Bill%201139)
 
 ## Meetings
+### Tue 02/11 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1139 Unlawful firearm possession
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32736&aId=163128&caId=25555&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32736&aId=163128&caId=25555&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32736&aId=163128&caId=25555&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32736&aId=163128&caId=25555&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Teodorin Morca
+
+#### 6 👎 - Con
+
+#### 0 ❓ - Other

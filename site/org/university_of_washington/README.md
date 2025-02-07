@@ -30,6 +30,10 @@
 
 ### [HB 1492](/bill/2025-26/hb/1492/) - Students with dependents 👍3  
 
+### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
+
+### [HB 1552](/bill/2025-26/hb/1552/) - Real estate broker fee 👍1  
+
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍3  
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  

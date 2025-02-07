@@ -8,6 +8,21 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/12 04:00 PM - Appropriations (APP): SHB 1096 Lot splitting
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163623&caId=25540&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163623&caId=25540&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163623&caId=25540&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163623&caId=25540&tId=4)
+
+#### 7 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* Salim Nice - Mayor, City Mercer Island
+
+#### 0 ❓ - Other
+
 ### Mon 01/13 01:30 PM - Housing (HOUS): HB 1096 Lot splitting
 #### 239 👍 - Pro
 Testifying:

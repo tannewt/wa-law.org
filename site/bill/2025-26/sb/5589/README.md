@@ -8,16 +8,17 @@
 
 ## Meetings
 ### Thu 02/06 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5589 Insurance & credit study
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163062&caId=25513&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163062&caId=25513&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163062&caId=25513&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163062&caId=25513&tId=4)
-
-#### 1 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Michael DeLong - Consumer Federation of America
+* David Forte - Office of the Insurance Commissioner
+* Rory Paine-Donovan - Office of the Insurance Commissioner
+* Charles Bell - [Consumer Reports](/org/consumer_reports/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Brandon Vick - National Association of Mutual Insurance Companies
+* 💵Kenton Brine - NW Insurance Council
+* Kris Tefft - [American Property Casualty Insurance Association](/org/american_property_casualty_insurance_association/)

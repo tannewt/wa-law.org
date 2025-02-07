@@ -11,11 +11,11 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Dawn Rains
 
-## [SB 5488](/bill/2025-26/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍1  
+## [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 
 ## 2023-24
 
-### [SB 5488](/bill/2023-24/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍1  
+### [SB 5488](/bill/2023-24/sb/5488/) - DCYF/financial stability 👍1  
 
 ### [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 

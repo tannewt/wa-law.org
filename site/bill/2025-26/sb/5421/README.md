@@ -8,20 +8,19 @@
 
 ## Meetings
 ### Thu 02/06 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5421 Small businesses/residential
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162872&caId=25302&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162872&caId=25302&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162872&caId=25302&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32697&aId=162872&caId=25302&tId=4)
-
-#### 22 👍 - Pro
+#### 107 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* Wes Mills
 
-#### 1 👎 - Con
+#### 44 👎 - Con
 Testifying:
 * Salina Lyons - [City of Covington](/org/city_of_covington/)
+* Ryan Windish - [City of Sumner](/org/city_of_sumner/)
 
-#### 3 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Salina Lyons - [City of Covington](/org/city_of_covington/)

@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HB 1867 - Affordable housing REET</title>
+		<link>https://wa-law.org/bill/2025-26/hb/1867/</link>
+		<description>Updates about HB 1867</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 07 Feb 2025 07:10:52 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Finance.</title>
+			<description>First reading, referred to Finance.</description>
+			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-06/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>👍Nancy DeVaux - Avista Corp</title>
+			<description>Nancy DeVaux signed up to testify Pro.</description>
+			<pubDate>Thu, 06 Feb 2025 01:16:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nancy/DeVaux/2025-02-06 01:16:37</guid>
+		</item>
+		<item>
+			<title>👍Paul Schissler - Madrona Community Development spc</title>
+			<description>Paul Schissler signed up to testify Pro. They are signed up to represent Madrona Community Development spc.</description>
+			<pubDate>Thu, 06 Feb 2025 04:39:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paul/Schissler/2025-02-06 04:39:07</guid>
+		</item>
+		<item>
+			<title>👍💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 06 Feb 2025 05:13:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2025-02-06 05:13:53</guid>
+		</item>
+		<item>
+			<title>👍Amanda DeShazo - Tacoma-Pierce County Affordable Housing Consortium</title>
+			<description>Amanda DeShazo signed up to testify Pro. They are signed up to represent Tacoma-Pierce County Affordable Housing Consortium.</description>
+			<pubDate>Fri, 07 Feb 2025 07:10:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amanda/DeShazo/2025-02-07 07:10:52</guid>
+		</item>
+	</channel>
+</rss>

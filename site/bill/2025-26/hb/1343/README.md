@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/29/2025 [MyNorthwest](/org/mynorthwest/) - [Washington weighs new rules on student aid, campus demos](https://mynorthwest.com/mynorthwest-politics/washington-demos/4036272#:~:text=House%20Bill%20(HB)%201343)

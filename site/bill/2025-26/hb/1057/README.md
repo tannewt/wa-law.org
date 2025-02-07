@@ -12,6 +12,21 @@
 * 01/02/2025 [The Center Square](/org/the_center_square/) - [Republican rep pre-files legislation to help communities secure federal grants | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0f1e80c6-c93f-11ef-b0e3-c774d3b0af07.html#:~:text=House%20Bill%201057)
 
 ## Meetings
+### Mon 02/10 04:00 PM - Appropriations (APP): SHB 1057 Access to federal funds
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32772&aId=163308&caId=25533&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32772&aId=163308&caId=25533&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32772&aId=163308&caId=25533&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32772&aId=163308&caId=25533&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Stephanie Button - Historic Downtown Kennewick Partnership
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/17 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1057 Access to federal funds
 #### 54 👍 - Pro
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1334/</link>
 		<description>Updates about HB 1334</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 23 Jan 2025 11:21:52 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 11:54:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,30 @@
 			<pubDate>Thu, 23 Jan 2025 11:21:52 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://src.wastateleg.org/blog/audio-9th-district-legislative-update-republican-state-senator-mark-schoesler-2/#:~:text=SB%201334</guid>
+		</item>
+		<item>
+			<title>👍Angela Birney - Mayor, City of Redmond</title>
+			<description>Angela Birney signed up to testify Pro. They are signed up to represent Mayor, City of Redmond.</description>
+			<pubDate>Thu, 06 Feb 2025 01:41:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Angela/Birney/2025-02-06 01:41:05</guid>
+		</item>
+		<item>
+			<title>👍Drew Nazarian - PROTEC17</title>
+			<description>Drew Nazarian signed up to testify Pro. They are signed up to represent PROTEC17.</description>
+			<pubDate>Thu, 06 Feb 2025 08:01:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Drew/Nazarian/2025-02-06 08:01:39</guid>
+		</item>
+		<item>
+			<title>👍Joe Bushnell - Councilmember, City of Tacoma</title>
+			<description>Joe Bushnell signed up to testify Pro. They are signed up to represent Councilmember, City of Tacoma.</description>
+			<pubDate>Thu, 06 Feb 2025 11:54:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joe/Bushnell/2025-02-06 11:54:18</guid>
 		</item>
 	</channel>
 </rss>

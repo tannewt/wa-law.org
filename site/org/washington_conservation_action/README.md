@@ -45,6 +45,8 @@
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 * 👍 Caitlin Krenn
 
+### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment 👍1  
+
 ## [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels   ❓1
 * ❓ Caitlin Krenn
 

@@ -41,13 +41,15 @@
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections   ❓1
 * ❓ Esther Warwick
 
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
 
 ### [SB 5064](/bill/2025-26/sb/5064/) - Rare diseases adv. council 👍1  
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍2  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍2  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 
@@ -63,13 +65,15 @@
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 
-### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍2  
+### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍4  
+* 👍💵 Ramona Hattendorf
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍3  
+* 👍💵 Ramona Hattendorf
 
 ### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
 
@@ -85,11 +89,13 @@
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
-## [SB 5427](/bill/2025-26/sb/5427/) - Children in crisis program 👍1  
+### [SB 5427](/bill/2025-26/sb/5427/) - Children in crisis program 👍1  
+
+## [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
 
 ## 2023-24
 
-### [SB 5427](/bill/2023-24/sb/5427/) - Children in crisis program 👍1  
+### [SB 5654](/bill/2023-24/sb/5654/) - Student restraint, isolation 👍1  
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

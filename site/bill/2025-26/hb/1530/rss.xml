@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1530/</link>
 		<description>Updates about HB 1530</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 10:53:43 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 08:01:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -77,6 +77,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Molly/Gallagher/2025-02-04 10:53:43</guid>
+		</item>
+		<item>
+			<title>👍Emily Wade - Towing &amp; Recovery Association of WA (TRAW)</title>
+			<description>Emily Wade signed up to testify Pro. They are signed up to represent Towing &amp; Recovery Association of WA (TRAW).</description>
+			<pubDate>Thu, 06 Feb 2025 04:08:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emily/Wade/2025-02-06 04:08:11</guid>
+		</item>
+		<item>
+			<title>👍Kris Zachary - Burns Towing</title>
+			<description>Kris Zachary signed up to testify Pro. They are signed up to represent Burns Towing.</description>
+			<pubDate>Thu, 06 Feb 2025 04:08:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kris/Zachary/2025-02-06 04:08:11</guid>
+		</item>
+		<item>
+			<title>👍💵Chester Baldwin - Towing &amp; Recovery Association of WA (TRAW)</title>
+			<description>Chester Baldwin signed up to testify Pro. They are signed up to represent Towing &amp; Recovery Association of WA (TRAW). They are a registered lobbyist.</description>
+			<pubDate>Fri, 07 Feb 2025 08:01:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chester/Baldwin/2025-02-07 08:01:38</guid>
 		</item>
 	</channel>
 </rss>

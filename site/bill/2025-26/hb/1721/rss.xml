@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1721/</link>
 		<description>Updates about HB 1721</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 08:54:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,70 @@
 			<pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-29/First reading, referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
+			<title>👍Dwight Bickel - consumers</title>
+			<description>Dwight Bickel signed up to testify Pro. They are signed up to represent consumers.</description>
+			<pubDate>Wed, 05 Feb 2025 04:40:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dwight/Bickel/2025-02-05 04:40:38</guid>
+		</item>
+		<item>
+			<title>👎Curt Augustine - Alliance for Automotive Innovation</title>
+			<description>Curt Augustine signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/alliance_for_automotive_innovation/"&gt;Alliance for Automotive Innovation&lt;/a&gt;.</description>
+			<pubDate>Thu, 06 Feb 2025 08:36:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Curt/Augustine/2025-02-06 08:36:16</guid>
+		</item>
+		<item>
+			<title>👎💵Jeffrey Perry - General Motors</title>
+			<description>Jeffrey Perry signed up to testify Con. They are signed up to represent General Motors. They are a registered lobbyist.</description>
+			<pubDate>Thu, 06 Feb 2025 08:36:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeffrey/Perry/2025-02-06 08:36:16</guid>
+		</item>
+		<item>
+			<title>👎Nicolina Hernandez - Toyota Motor North America</title>
+			<description>Nicolina Hernandez signed up to testify Con. They are signed up to represent Toyota Motor North America.</description>
+			<pubDate>Thu, 06 Feb 2025 08:36:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Nicolina/Hernandez/2025-02-06 08:36:16</guid>
+		</item>
+		<item>
+			<title>❓💵Noelani Derrickson - Tesla</title>
+			<description>Noelani Derrickson signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/tesla/"&gt;Tesla&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 06 Feb 2025 10:35:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Noelani/Derrickson/2025-02-06 10:35:55</guid>
+		</item>
+		<item>
+			<title>👎Alyssa Silhi - Ford Motor Company</title>
+			<description>Alyssa Silhi signed up to testify Con. They are signed up to represent Ford Motor Company.</description>
+			<pubDate>Fri, 07 Feb 2025 08:54:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Alyssa/Silhi/2025-02-07 08:54:15</guid>
+		</item>
+		<item>
+			<title>👎Craig Orlan - Ford Motor Company</title>
+			<description>Craig Orlan signed up to testify Con.</description>
+			<pubDate>Fri, 07 Feb 2025 08:54:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Craig/Orlan/2025-02-07 08:54:15</guid>
+		</item>
+		<item>
+			<title>👎Matt Erwin - Mazda North American Operations</title>
+			<description>Matt Erwin signed up to testify Con. They are signed up to represent Mazda North American Operations.</description>
+			<pubDate>Fri, 07 Feb 2025 08:54:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Matt/Erwin/2025-02-07 08:54:15</guid>
 		</item>
 	</channel>
 </rss>

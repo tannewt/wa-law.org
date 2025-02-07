@@ -11,19 +11,16 @@
 
 ## Meetings
 ### Thu 02/06 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5610 Equine industry
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163065&caId=25516&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163065&caId=25516&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163065&caId=25516&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32664&aId=163065&caId=25516&tId=4)
-
-#### 64 👍 - Pro
+#### 123 👍 - Pro
 Testifying:
 * Jose Zunino - Emerald Downs
 * Maria "Rocio" Reyes - Emerald Downs
 * Philip Ziegler - Emerald Downs
 * Ron Crockett - Emerald Downs
+* MARYANN OCONNELL - WASHINGTON HORSEMEN'S BENEVOLENT & PROTECTIVE ASSN
 
-#### 1 👎 - Con
+#### 53 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Amanda Benton - Washington Horse Racing Commission

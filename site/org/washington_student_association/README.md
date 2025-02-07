@@ -7,8 +7,13 @@
 ### [HB 1278](/bill/2025-26/hb/1278/) - Higher ed. gov./students 👍2  
 * 👍 Sean Behl
 
+### [HB 1486](/bill/2025-26/hb/1486/) - Student member on SBCTC 👍1  
+
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 * 👍💵 Isela Bonilla
+
+### [HB 1751](/bill/2025-26/hb/1751/) - Course materials sales tax 👍1  
+* 👍 Fernanda Armas
 
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 * 👍💵 Isela Bonilla

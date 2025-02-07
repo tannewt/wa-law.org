@@ -7,3 +7,15 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/12 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1572 Higher ed. accreditation
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32776&aId=163335&caId=25649&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32776&aId=163335&caId=25649&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32776&aId=163335&caId=25649&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32776&aId=163335&caId=25649&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

@@ -3,6 +3,8 @@
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
+### [HB 1754](/bill/2025-26/hb/1754/) - Medicare suppl./guaranteed 👍1  
+
 ### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply 👍1  
 * 👍 Matthew Prokop
 

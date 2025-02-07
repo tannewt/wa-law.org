@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/06/2025 [Senate Democrats](/org/senate_democrats/) - [Week three update! - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/02/06/week-three-update/#:~:text=SB%205236,)
 * 01/16/2025 [MyNorthwest](/org/mynorthwest/) - [Climate change alarmists may ban gases for medical anesthesia](https://mynorthwest.com/ktth/ktth-opinion/rantz-climate-change-alarmists-could-ban-restrict-medical-anesthesia-under-new-bill/4028699#:~:text=Senate%20Bill%205236)
 
 ## Meetings

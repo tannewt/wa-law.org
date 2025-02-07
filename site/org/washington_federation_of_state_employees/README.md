@@ -82,6 +82,8 @@
 
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
 
+### [SB 5397](/bill/2025-26/sb/5397/) - CTC faculty w/o tenure limit 👍1  
+
 ### [SB 5433](/bill/2025-26/sb/5433/) - DOC employee bargaining 👍1  
 * 👍 Kati Durkin
 

@@ -18,6 +18,28 @@
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205192)
 
 ## Meetings
+### Tue 02/11 04:00 PM - Ways & Means (WM): SB 5192 School district materials
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163638&caId=25745&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163638&caId=25745&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163638&caId=25745&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163638&caId=25745&tId=4)
+
+#### 17 👍 - Pro
+Testifying:
+* 💵Melissa Gombosky - Spokane, Evergreen, Vancouver, and Richland School Districts
+* Tim Merlino - ESD 112
+* Michelle Harris - Shoreline PTA Council 6.12
+* Flip Herndon - Capital Region Educational Service District 113, Superintendent
+* Ismael Vivanco - Northwest Educational Service District 189, superintendent
+* Rob Roettger - Northeast WA Educational Service District 101, Superintendent
+* Kyle Rydell - West valley School District
+* Lindsey Yocum - Board Director, Lake Washington School Districty
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5192 School district materials
 #### 2611 👍 - Pro
 Testifying:

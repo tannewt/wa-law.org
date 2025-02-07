@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/06 10:30 AM - Early Learning & K-12 Education (EDU): SB 5517 School staff salary alloc.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=162608&caId=25231&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=162608&caId=25231&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=162608&caId=25231&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32675&aId=162608&caId=25231&tId=4)
-
-#### 2407 👍 - Pro
+#### 2683 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Larisss Mccray
@@ -25,13 +19,21 @@ Testifying:
 * Shara Yackel
 * Leslie Maxwell
 * Bay Knight
+* Jason Schutt
+* Christine Brosius
+* Christine Twiss - SEIU 925
+* Devi Narakulla - food service, Foster High School
+* Gabriel Iverson
+* Carol Crowell
+* Sean Palmore
+* Rick Chisa - Public School Employees of WA/SEIU 1948
 
-#### 319 👎 - Con
+#### 479 👎 - Con
 Testifying:
 * Donna Alber
 * William Cooper
 
-#### 24 ❓ - Other
+#### 31 ❓ - Other
 Testifying:
 * Dan Steele - WA Assn of School Admin & WA Assn of School Business Officials
 * Alexa Allman - Deer Park School District

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 12/02/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2025 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects__trashed/2025-legislative-agenda/#:~:text=House%20Bill%201382)
+
 ## Meetings
 ### Tue 01/28 01:30 PM - Health Care & Wellness (HCW): HB 1382 All payers claim database
 #### 13 👍 - Pro

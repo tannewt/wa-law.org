@@ -8,14 +8,13 @@
 
 ## Meetings
 ### Thu 02/06 08:00 AM - Housing (HOUS): HB 1757 Residential use/existing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32646&aId=163054&caId=25509&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32646&aId=163054&caId=25509&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32646&aId=163054&caId=25509&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32646&aId=163054&caId=25509&tId=4)
+#### 18 👍 - Pro
+Testifying:
+* Angela Rozmyn - Natural and Built Environments
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 9 👍 - Pro
-
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Tad Sommerville
 
 #### 0 ❓ - Other

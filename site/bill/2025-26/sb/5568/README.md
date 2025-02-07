@@ -8,14 +8,17 @@
 
 ## Meetings
 ### Thu 02/06 08:00 AM - Health & Long Term Care (HLTC): SB 5568 State health plan
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162825&caId=25251&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162825&caId=25251&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162825&caId=25251&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162825&caId=25251&tId=4)
+#### 12 👍 - Pro
+Testifying:
+* 💵Amy Brackenbury - Washington State Medical Assocation (WSMA)
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Jim Freeburg - Patient Coalition of Washington
+* 💵Zosia Stanley - Washington State Hospital Association
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
-#### 4 👍 - Pro
+#### 1 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Annie Pennucci - Office of Financial Management

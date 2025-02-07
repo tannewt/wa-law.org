@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5488 - Strengthening the financial stability of persons in the care of the department of children, youth, and families.</title>
+		<title>SB 5488 - DCYF/financial stability</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5488/</link>
 		<description>Updates about SB 5488</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 11:35:12 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -69,6 +69,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Domonique/Jackson-Russell/2025-01-28 11:35:12</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-05/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-06/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

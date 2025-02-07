@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Wed 02/05 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1557 Guaranteed admissions prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162621&caId=25468&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162621&caId=25468&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162621&caId=25468&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32677&aId=162621&caId=25468&tId=4)
-
-#### 22 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Jacob Vigdor - University of Washington Faculty/COF
 * Ruben Flores - Council Of Presidents
@@ -31,7 +25,7 @@ Testifying:
 * Dan Glowitz
 * Patricia Loera - Office of Governor Bob Ferguson/Senior Policy Advisor for Higher Education & Workforce Develoopment
 
-#### 401 👎 - Con
+#### 442 👎 - Con
 Testifying:
 * John Axtell
 * Donna Alber

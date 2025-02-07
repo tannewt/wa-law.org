@@ -1,0 +1,34 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1902](/bill/2025-26/hb/1902/) > [Original Bill](/bill/2025-26/hb/1902/1/)
+
+# HB 1902 - Transp. project permitting
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1902.pdf)
+
+## Section 1
+1. The department of transportation, in consultation with the department of ecology, shall convene a work group to develop recommendations to streamline the permitting of transportation projects.
+
+2. The work group shall consist of the following members:
+
+    a. One representative from the department of transportation to be appointed by the secretary of the department;
+
+    b. One representative from the department of ecology to be appointed by the director of the department;
+
+    c. One representative from the department of fish and wildlife to be appointed by the director of the department;
+
+    d. One representative from the association of Washington cities;
+
+    e. One representative from the Washington state association of counties;
+
+    f. One representative from an organization representing general contractors;
+
+    g. One representative of the construction trades; and
+
+    h. One representative of tribal governments, invited by the secretary of the department of transportation.
+
+3. The work group shall develop recommendations to reduce project costs and the time required from project conception to project completion. These recommendations must ensure that all appropriate environmental and regulatory protections are maintained.
+
+4. Staff support to the work group must be provided by the department of transportation.
+
+5. The work group shall convene its first meeting by July 30, 2025, and shall submit a report to the legislature detailing its work and any recommendations, including any recommendations for legislation, by November 1, 2026.
+
+6. This section expires December 31, 2026.

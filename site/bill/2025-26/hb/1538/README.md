@@ -13,17 +13,12 @@
 
 ## Meetings
 ### Thu 02/06 01:30 PM - Capital Budget (CB): HB 1538 Capital assistance/schools
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32706&aId=162855&caId=25360&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32706&aId=162855&caId=25360&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32706&aId=162855&caId=25360&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32706&aId=162855&caId=25360&tId=4)
-
-#### 96 👍 - Pro
+#### 183 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 * John Axtell
+* Matt Mallery - Mary M. Knight School District
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

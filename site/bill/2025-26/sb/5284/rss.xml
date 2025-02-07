@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5284/</link>
 		<description>Updates about SB 5284</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 12:13:05 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Feb 2025 17:15:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -341,6 +341,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Rick/Vahl/2025-01-28 12:13:05</guid>
+		</item>
+		<item>
+			<title>Liz’s Loveletter: Back at the capitol for the 2025 session - Sen. Liz Lovelett</title>
+			<description>News article "Liz’s Loveletter: Back at the capitol for the 2025 session - Sen. Liz Lovelett" from Senate Democrats.</description>
+			<pubDate>Mon, 03 Feb 2025 17:15:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/lovelett/2025/02/03/lizs-loveletter-back-at-the-capitol-for-the-2025-session/#:~:text=SB%205284):</guid>
 		</item>
 	</channel>
 </rss>

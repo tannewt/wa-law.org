@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1837/</link>
 		<description>Updates about HB 1837</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 08:10:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,21 @@
 			<pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-04/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>State Lawmakers Chart Path to Double Amtrak Cascades Service - The Urbanist</title>
+			<description>News article "State Lawmakers Chart Path to Double Amtrak Cascades Service - The Urbanist" from The Urbanist.</description>
+			<pubDate>Wed, 05 Feb 2025 19:30:39 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2025/02/05/lawmakers-path-to-double-amtrak-cascades-service/#:~:text=House%20Bill%201837</guid>
+		</item>
+		<item>
+			<title>👍Cynthia Stewart - League of Women Voters of WA</title>
+			<description>Cynthia Stewart signed up to testify Pro. They are signed up to represent League of Women Voters of WA.</description>
+			<pubDate>Thu, 06 Feb 2025 08:10:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cynthia/Stewart/2025-02-06 08:10:18</guid>
 		</item>
 	</channel>
 </rss>

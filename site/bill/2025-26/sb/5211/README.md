@@ -11,6 +11,21 @@
 * 01/28/2025 [The Center Square](/org/the_center_square/) - [WA considers paying parents for caring for disabled kids amid in-home shortages | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8c6bfd46-ddae-11ef-acfa-671326e94d47.html#:~:text=Senate%20Bill%205211)
 
 ## Meetings
+### Mon 02/10 04:00 PM - Ways & Means (WM): SB 5211 DD parental caregivers
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163618&caId=25735&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163618&caId=25735&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163618&caId=25735&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163618&caId=25735&tId=4)
+
+#### 153 👍 - Pro
+Testifying:
+* 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+
+#### 1 👎 - Con
+
+#### 1 ❓ - Other
+
 ### Mon 01/27 01:30 PM - Human Services (HS): SB 5211 DD parental caregivers
 #### 594 👍 - Pro
 Testifying:

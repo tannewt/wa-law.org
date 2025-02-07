@@ -128,7 +128,7 @@
 
 ### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
 
-### [SB 5429](/bill/2025-26/sb/5429/) - State building code council 👍1  
+### [SB 5429](/bill/2025-26/sb/5429/) - State building code council 👍2  
 * 👍💵 Andrea Smiley
 
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons  👎1 
@@ -143,6 +143,8 @@
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
+### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
+
 ### [SB 5552](/bill/2025-26/sb/5552/) - Kit homes/building codes 👍1  
 
 ### [SB 5554](/bill/2025-26/sb/5554/) - Historic landmark desig.   ❓1
@@ -154,7 +156,8 @@
 ### [SB 5580](/bill/2025-26/sb/5580/) - Corp. homeowner registration  👎1 
 * 👎💵 Bill Stauffacher
 
-### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍1  
+### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍1  ❓1
+* ❓💵 Bill Stauffacher
 
 ### [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍1  
 * 👍💵 Bill Stauffacher

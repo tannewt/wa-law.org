@@ -8,20 +8,15 @@
 
 ## Meetings
 ### Thu 02/06 08:00 AM - Health & Long Term Care (HLTC): SB 5204 Ibogaine-assisted therapy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162823&caId=25249&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162823&caId=25249&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162823&caId=25249&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32701&aId=162823&caId=25249&tId=4)
-
-#### 7 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Heath Hollensbe
 * Leonora Russell - ADAPT-WA
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
+* Bryan Hubbard
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Jennifer Gordon
 
-#### 1 ❓ - Other
+#### 6 ❓ - Other

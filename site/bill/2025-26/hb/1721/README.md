@@ -7,3 +7,26 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/14 08:00 AM - Consumer Protection & Business (CPB): HB 1721 Zero emissions vehicles/sale
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163515&caId=25570&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163515&caId=25570&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163515&caId=25570&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163515&caId=25570&tId=4)
+
+#### 10 👍 - Pro
+Testifying:
+* Dwight Bickel - consumers
+
+#### 319 👎 - Con
+Testifying:
+* Curt Augustine - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
+* 💵Jeffrey Perry - General Motors
+* Nicolina Hernandez - Toyota Motor North America
+* Alyssa Silhi - Ford Motor Company
+* Craig Orlan
+* Matt Erwin - Mazda North American Operations
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Noelani Derrickson - [Tesla](/org/tesla/)

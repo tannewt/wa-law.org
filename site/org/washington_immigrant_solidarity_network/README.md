@@ -40,7 +40,7 @@
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Expanding protections for certain students to promote inclusivity in public schools. 👍1  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 

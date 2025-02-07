@@ -8,18 +8,14 @@
 
 ## Meetings
 ### Thu 02/06 08:00 AM - Environment & Energy (ENVI): HB 1712 Qualified biomass facilities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32652&aId=162868&caId=25418&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32652&aId=162868&caId=25418&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32652&aId=162868&caId=25418&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32652&aId=162868&caId=25418&tId=4)
-
-#### 4 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * Greg Blair - Biomass One
 * Irion Sanger - Sanger Law
 * Kurt Lumpkin - Biomass One
 
-#### 1 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* 💵Charlee Thompson - NW Energy Coalition
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other

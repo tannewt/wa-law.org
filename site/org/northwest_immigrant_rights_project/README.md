@@ -1,6 +1,8 @@
 # Northwest Immigrant Rights Project
 ## 2025-26
 
+### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct 👍1  
+
 ### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor. 👍1  
 
 ### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
@@ -8,6 +10,8 @@
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍2  
 * 👍💵 Malou Chavez
+
+### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
 
 ### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations 👍1  
 

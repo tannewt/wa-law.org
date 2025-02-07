@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/05 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1490 Background checks
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32661&aId=162537&caId=25399&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32661&aId=162537&caId=25399&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32661&aId=162537&caId=25399&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32661&aId=162537&caId=25399&tId=4)
-
-#### 7 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Upkar Mangat - DSHS Developmental Disabilities Administration
 * Megan DeSmet - DSHS Developmental Disabilities Administration

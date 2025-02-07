@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5388/</link>
 		<description>Updates about SB 5388</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 09:24:35 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2025-01-21/First reading, referred to Human Services.</guid>
 		</item>
 		<item>
-			<title>👎Marc Stern - ATA Action</title>
+			<title>👎Marc Stern - Rayus Radiology</title>
 			<description>Marc Stern signed up to testify Con.</description>
 			<pubDate>Sun, 26 Jan 2025 10:27:20 GMT</pubDate>
 			<category>testifier</category>
@@ -61,6 +61,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Ethan/Frenchman/2025-01-28 09:24:35</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-05/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-06/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

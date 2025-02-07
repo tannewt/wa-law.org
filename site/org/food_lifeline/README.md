@@ -20,6 +20,8 @@
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍4  
 * 👍💵 Aaron Czyzewski
 
+### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
+
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍2  

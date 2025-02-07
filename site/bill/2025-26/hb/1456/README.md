@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/safer-streets/#:~:text=House%20Bill%201456)
+
 ## Meetings

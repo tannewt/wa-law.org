@@ -8,13 +8,10 @@
 
 ## Meetings
 ### Wed 02/05 04:00 PM - Appropriations (APP): HB 1552 Real estate broker fee
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162738&caId=25354&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162738&caId=25354&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162738&caId=25354&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162738&caId=25354&tId=4)
-
-#### 1 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Steven Bourassa - Director, Washington Center for Real Estate Research
+* Mary Hull-Drury - Washington Realtors
 
 #### 0 👎 - Con
 

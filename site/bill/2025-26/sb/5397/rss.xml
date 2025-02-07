@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5397/</link>
 		<description>Updates about SB 5397</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 06:25:55 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 07:29:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -39,7 +39,7 @@
 			<guid isPermaLink="false">testifier/Kirstyn/Joy/2025-02-01 03:16:06</guid>
 		</item>
 		<item>
-			<title>👎Donna Alber - ATF</title>
+			<title>👎Donna Alber - AFT (American Federation of Teachers )Washington</title>
 			<description>Donna Alber signed up to testify Con.</description>
 			<pubDate>Tue, 04 Feb 2025 01:50:03 GMT</pubDate>
 			<category>testifier</category>
@@ -63,12 +63,36 @@
 			<guid isPermaLink="false">testifier/Genevieve/Sanchez/2025-02-04 05:04:26</guid>
 		</item>
 		<item>
-			<title>👎William Cooper - ATF</title>
+			<title>👎William Cooper - AFT (American Federation of Teachers )Washington</title>
 			<description>William Cooper signed up to testify Con.</description>
 			<pubDate>Tue, 04 Feb 2025 06:25:55 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/William/Cooper/2025-02-04 06:25:55</guid>
+		</item>
+		<item>
+			<title>❓Julie Huss - State Board for Community and Technical Colleges</title>
+			<description>Julie Huss signed up to testify Other. They are signed up to represent State Board for Community and Technical Colleges.</description>
+			<pubDate>Wed, 05 Feb 2025 01:45:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Julie/Huss/2025-02-05 01:45:19</guid>
+		</item>
+		<item>
+			<title>👍Kathleen Brown - AFT (American Federation of Teachers )Washington</title>
+			<description>Kathleen Brown signed up to testify Pro. They are signed up to represent AFT (American Federation of Teachers )Washington.</description>
+			<pubDate>Wed, 05 Feb 2025 11:18:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kathleen/Brown/2025-02-05 11:18:07</guid>
+		</item>
+		<item>
+			<title>👍Shari Arnesen - AFT (American Federation of Teachers )Washington</title>
+			<description>Shari Arnesen signed up to testify Pro.</description>
+			<pubDate>Thu, 06 Feb 2025 07:29:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Shari/Arnesen/2025-02-06 07:29:47</guid>
 		</item>
 	</channel>
 </rss>

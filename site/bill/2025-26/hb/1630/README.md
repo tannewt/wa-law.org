@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [Washington State Standard](/org/washington_state_standard/) - [Why a WA lawmaker wants to collect data on cow farts and burps • Washington State Standard](https://washingtonstatestandard.com/2025/02/07/why-a-wa-lawmaker-wants-to-collect-data-on-cow-farts-and-burps/#:~:text=House%20Bill%201630)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201630)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201630)
 * 01/30/2025 [KUOW](/org/kuow/) - [KUOW - The latest issue dividing Washington's lawmakers: Cow farts](https://www.kuow.org/stories/the-latest-issue-dividing-washington-s-lawmakers-cow-farts#:~:text=House%20Bill%201630)
@@ -14,17 +15,13 @@
 
 ## Meetings
 ### Thu 02/06 08:00 AM - Environment & Energy (ENVI): HB 1630 Livestock methane emissions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32652&aId=162693&caId=25415&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32652&aId=162693&caId=25415&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32652&aId=162693&caId=25415&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32652&aId=162693&caId=25415&tId=4)
-
-#### 124 👍 - Pro
+#### 347 👍 - Pro
 Testifying:
 * Selden Prentice
+* Carin Christy - Carin Christy, MA, LMHC
+* Talauna Reed - Tenants Union of WA State
 
-#### 894 👎 - Con
+#### 1461 👎 - Con
 Testifying:
 * Kylie Klein
 * Sue Lani Madsen - Washington Rural Environmental Network
@@ -36,5 +33,21 @@ Testifying:
 * Patricia Cooper
 * William Cooper
 * 💵Jack Field - [Washington Cattle Feeders Association](/org/washington_cattle_feeders_association/)
+* James Miller - No, but as an experienced rural person in Okanogan County
+* Bruce Cirone - Voter
+* Ben Buchholz - NW Ag Cooperative Council, NW Dairy Association
+* Jodi Dotson
+* Rachael Swanson - Creative Edge Marketing
+* 💵Caleb Gwerder - Washington Farm Bureau
+* Leann Krainick - Washington Farm Bureau
+* Jay Gordon - Washington State Dairy Federation
+* Jeremy Wheatley
+* Donovan Allen
+* Tad Sommerville
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Joel Creswell - Dept of Ecology
+* Ben Weinheimer - Texas Cattle Feeders Association
+* PhD, Brent Auvermann - Texas A&M AgriLife Research
+* PhD, Galen Erickson - University of Nebraska - Lincoln Animal Science

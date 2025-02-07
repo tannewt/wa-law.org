@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 02/05 04:00 PM - Appropriations (APP): HB 1144 Superior court judge/Skagit
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162734&caId=25350&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162734&caId=25350&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162734&caId=25350&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32687&aId=162734&caId=25350&tId=4)
-
 #### 5 👍 - Pro
 Testifying:
 * Lisa Janicki - Skagit County Board of Commissioners

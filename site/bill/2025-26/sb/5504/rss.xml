@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5504/</link>
 		<description>Updates about SB 5504</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 05:27:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,38 @@
 			<pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-27/First reading, referred to Health &amp; Long-Term Care.</guid>
+		</item>
+		<item>
+			<title>👍Kristina Smith - Washington Beverage Association</title>
+			<description>Kristina Smith signed up to testify Pro.</description>
+			<pubDate>Wed, 05 Feb 2025 05:29:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kristina/Smith/2025-02-05 05:29:36</guid>
+		</item>
+		<item>
+			<title>👍Patricia Toole - Washington Beverage Association</title>
+			<description>Patricia Toole signed up to testify Pro.</description>
+			<pubDate>Thu, 06 Feb 2025 03:43:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Patricia/Toole/2025-02-06 03:43:36</guid>
+		</item>
+		<item>
+			<title>👍Jamie Thompson - Un-paid Parent Caregiver</title>
+			<description>Jamie Thompson signed up to testify Pro. They are signed up to represent Un-paid Parent Caregiver.</description>
+			<pubDate>Thu, 06 Feb 2025 03:56:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jamie/Thompson/2025-02-06 03:56:57</guid>
+		</item>
+		<item>
+			<title>👍💵Hanna Jones - MGA Home Care &amp; Team Select Home Care</title>
+			<description>Hanna Jones signed up to testify Pro. They are signed up to represent MGA Home Care &amp; Team Select Home Care. They are a registered lobbyist.</description>
+			<pubDate>Thu, 06 Feb 2025 05:27:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Hanna/Jones/2025-02-06 05:27:39</guid>
 		</item>
 	</channel>
 </rss>

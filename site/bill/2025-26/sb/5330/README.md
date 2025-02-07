@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington could require bars to carry spiked drink drug tests • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-could-require-bars-to-carry-spiked-drink-drug-tests/#:~:text=Senate%20Bill%205330)
 * 01/27/2025 [FOX13](/org/fox13/) - [WA proposal would require bars to sell drug tests | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-drug-tests-spiked-drinks#:~:text=Senate%20Bill%205330)
 
 ## Meetings

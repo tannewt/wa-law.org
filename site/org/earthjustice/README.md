@@ -15,14 +15,24 @@
 
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth 👍1  
 
+### [HB 1712](/bill/2025-26/hb/1712/) - Qualified biomass facilities  👎1 
+
+### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍1  
+
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
 * ❓ Eric Gonzalez Alfaro
 
-## [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions 👍1  
+### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions 👍1  
+
+### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
+
+## [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment 👍1  
+* 👍 Eric Gonzalez Alfaro
 
 ## 2023-24
 
-### [SB 5382](/bill/2023-24/sb/5382/) - Ballot measure petitions 👍1  
+### [SB 5519](/bill/2023-24/sb/5519/) - Ocean vessels/environment 👍1  
+* 👍 Eric Gonzalez Alfaro
 
 ### [HB 1084](/bill/2023-24/hb/1084/) - Freight mobility priority 👍1  
 

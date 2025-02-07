@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5552/</link>
 		<description>Updates about SB 5552</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 12:08:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,22 @@
 			<pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-28/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👎Tammie Sueirro - AIAWA (American Institute of Architects WA Council)</title>
+			<description>Tammie Sueirro signed up to testify Con. They are signed up to represent AIAWA (American Institute of Architects WA Council).</description>
+			<pubDate>Thu, 06 Feb 2025 12:03:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tammie/Sueirro/2025-02-06 12:03:33</guid>
+		</item>
+		<item>
+			<title>❓Tim Woodard - Washington Assn. of Building Officials (WABO)</title>
+			<description>Tim Woodard signed up to testify Other. They are signed up to represent Washington Assn. of Building Officials (WABO).</description>
+			<pubDate>Thu, 06 Feb 2025 12:08:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Tim/Woodard/2025-02-06 12:08:10</guid>
 		</item>
 	</channel>
 </rss>

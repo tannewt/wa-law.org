@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/05 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1322 Juvenile offenses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32661&aId=162534&caId=25396&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32661&aId=162534&caId=25396&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32661&aId=162534&caId=25396&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32661&aId=162534&caId=25396&tId=4)
-
-#### 34 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Katie Hurley - King County Department of Public Defense
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
@@ -26,7 +20,7 @@ Testifying:
 * Dr. Eric Trupin
 * Julissa Sanchez - CHOOSE 180
 
-#### 16 👎 - Con
+#### 19 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 

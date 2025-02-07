@@ -1,12 +1,16 @@
 # Washington Coalition for Police Accountability
 ## 2025-26
 
+### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct 👍1  
+
 ### [HB 1252](/bill/2025-26/hb/1252/) - Pretrial release  👎1 
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
 * 👍 Leslie Cushman
 
 ### [HB 1400](/bill/2025-26/hb/1400/) - Officer certification 👍1  
+
+### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍2  
 * 👍 Shelly Washington

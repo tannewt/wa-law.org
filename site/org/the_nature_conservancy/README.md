@@ -20,9 +20,13 @@
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 * 👍💵 Justin Allegro
 
+### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
+
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
+
+### [HB 1721](/bill/2025-26/hb/1721/) - Zero emissions vehicles/sale 👍1  
 
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍1  
 
@@ -47,6 +51,8 @@
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+
+### [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
 
 ## [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
 

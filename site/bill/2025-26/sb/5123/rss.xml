@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5123 - Expanding protections for certain students to promote inclusivity in public schools.</title>
+		<title>SB 5123 - Discrimination in schools</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5123/</link>
 		<description>Updates about SB 5123</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Feb 2025 18:10:14 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -191,6 +191,20 @@
 			<pubDate>Mon, 03 Feb 2025 18:10:14 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205123</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-05/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-06/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

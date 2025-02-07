@@ -7,3 +7,17 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/12 08:00 AM - Environment, Energy & Technology (ENET): SB 5514 Clean buildings standard
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32716&aId=163205&caId=25682&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32716&aId=163205&caId=25682&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32716&aId=163205&caId=25682&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32716&aId=163205&caId=25682&tId=4)
+
+#### 2 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* Tad Sommerville
+
+#### 0 ❓ - Other

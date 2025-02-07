@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5450/</link>
 		<description>Updates about SB 5450</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Feb 2025 12:50:56 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 23:55:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -36,6 +36,37 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kelsey/Payne/2025-02-03 12:50:56</guid>
+		</item>
+		<item>
+			<title>👍Peter Steelquist - Surfrider Foundation</title>
+			<description>Peter Steelquist signed up to testify Pro. They are signed up to represent Surfrider Foundation.</description>
+			<pubDate>Thu, 06 Feb 2025 03:25:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Peter/Steelquist/2025-02-06 03:25:52</guid>
+		</item>
+		<item>
+			<title>❓Leslie Connelly - Department of Ecology</title>
+			<description>Leslie Connelly signed up to testify Other. They are signed up to represent Department of Ecology.</description>
+			<pubDate>Thu, 06 Feb 2025 04:37:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Leslie/Connelly/2025-02-06 04:37:59</guid>
+		</item>
+		<item>
+			<title>👍Mindy Roberts - Surfrider Foundation</title>
+			<description>Mindy Roberts signed up to testify Pro.</description>
+			<pubDate>Thu, 06 Feb 2025 05:00:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mindy/Roberts/2025-02-06 05:00:47</guid>
+		</item>
+		<item>
+			<title>Week three update! - Sen. Vandana Slatter</title>
+			<description>News article "Week three update! - Sen. Vandana Slatter" from Senate Democrats.</description>
+			<pubDate>Thu, 06 Feb 2025 23:55:04 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/slatter/2025/02/06/week-three-update/#:~:text=SB%205450,</guid>
 		</item>
 	</channel>
 </rss>

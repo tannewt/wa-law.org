@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5082](/bill/2025-26/sb/5082/)
 
-# SB 5082 - Creating a housing assistance program for youth enrolled in extended foster care.
+# SB 5082 - Extended foster care/housing
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5082&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 Legislative Session Update! - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/24/2025-legislative-session-update/#:~:text=SB%205082)

@@ -9,11 +9,17 @@
 ### [SB 5141](/bill/2025-26/sb/5141/) - Requiring that experience-rated group disability income insurers include all applicable rating factors and credibility formulas in rate manual filings with the insurance commissioner. 👍1  
 * 👍 John Mangan
 
-## [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎3 
+### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎3 
+
+## [SB 5495](/bill/2025-26/sb/5495/) - Life insurance/suicide limit  👎2 
+* 👎💵 Christine Brewer
+* 👎 Kris Tefft
 
 ## 2023-24
 
-### [SB 5351](/bill/2023-24/sb/5351/) - Dental insurance practices  👎3 
+### [SB 5495](/bill/2023-24/sb/5495/) - Life insurance/suicide limit  👎2 
+* 👎💵 Christine Brewer
+* 👎 Kris Tefft
 
 ### [HB 1061](/bill/2023-24/hb/1061/) - Insurance producer education 👍1  
 * 👍 John Mangan

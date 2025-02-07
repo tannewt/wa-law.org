@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: Back at the capitol for the 2025 session - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/02/03/lizs-loveletter-back-at-the-capitol-for-the-2025-session/#:~:text=SB%205483)
+
 ## Meetings

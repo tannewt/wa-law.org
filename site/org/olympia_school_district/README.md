@@ -1,6 +1,8 @@
 # Olympia School District
 ## 2025-26
 
+### [HB 1140](/bill/2025-26/hb/1140/) - Establishing empowerED scholarships using educational savings accounts.  👎1 
+
 ### [HB 1257](/bill/2025-26/hb/1257/) - Extending special education services to students with disabilities until the end of the school year in which the student turns 22. 👍2  
 
 ### [HB 1267](/bill/2025-26/hb/1267/) - Special education funding 👍1  

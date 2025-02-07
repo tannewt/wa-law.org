@@ -14,12 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32700&aId=163025&caId=25505&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32700&aId=163025&caId=25505&tId=4)
 
-#### 16 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Elizabeth Walker - South Puget Sound Habitat for Humanity
+* Andrew Calkins - Bellingham & Whatcom County Housing Authorities
+* Nicholas Carr - Office of the Governor
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Amanda DeShazo - Tacoma-Pierce County Affordable Housing Consortium
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Zac Baker - Southport Financial Services

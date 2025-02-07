@@ -17,8 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32649&aId=163045&caId=25510&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32649&aId=163045&caId=25510&tId=4)
 
-#### 175 👍 - Pro
+#### 324 👍 - Pro
+Testifying:
+* Amanda Fox - Animal Rights Initiative
+* Jennifer Mathison - Rooster Haus Rescue
+* Wendy Linton
+* Colburn Clark
 
-#### 5 👎 - Con
+#### 62 👎 - Con
+Testifying:
+* 💵Julia Gorton - Washington hospitality association
 
 #### 1 ❓ - Other

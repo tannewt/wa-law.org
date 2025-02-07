@@ -8,20 +8,17 @@
 
 ## Meetings
 ### Fri 02/07 08:00 AM - Consumer Protection & Business (CPB): HB 1530 Reg. businesses/card fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32631&aId=162426&caId=25389&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32631&aId=162426&caId=25389&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32631&aId=162426&caId=25389&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32631&aId=162426&caId=25389&tId=4)
-
-#### 10 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Emily Wade - Towing & Recovery Association of WA (TRAW)
 * Kris Zachary - Burns Towing
 * Paul Bressi - Nisqually Towing
 * 💵Peter Lukevich - Towing & Recovery Association of WA (TRAW)
+* Emily Wade - Towing & Recovery Association of WA (TRAW)
+* Kris Zachary - Burns Towing
+* 💵Chester Baldwin - Towing & Recovery Association of WA (TRAW)
 
-#### 12 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Christina Henry - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
 * Julia Kellison - Northwest Justice Project

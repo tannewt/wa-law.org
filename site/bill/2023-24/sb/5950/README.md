@@ -28,6 +28,7 @@
 * [House Republicans](/org/house_republicans/) - [Better Schools | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/education/#:~:text=Senate%20Bill%205950)
 * [House Republicans](/org/house_republicans/) - [Fix the housing & homelessness crisis | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/housing/#:~:text=Senate%20Bill%205950)
 * [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/public-safety/#:~:text=Senate%20Bill%205950)
+* [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/safer-streets/#:~:text=Senate%20Bill%205950)
 
 ## Meetings
 ### Mon 02/19 04:00 PM - Ways & Means (WM): PSSB 5950: All other. (Remote Testimony Available).

@@ -1,13 +1,16 @@
 # Consumer Reports
 ## 2025-26
 
-## [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy 👍1  
+### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy 👍1  
 * 👍 Matt Schwartz
+
+## [SB 5589](/bill/2025-26/sb/5589/) - Insurance & credit study 👍1  
+* 👍 Charles Bell
 
 ## 2023-24
 
-### [HB 1671](/bill/2023-24/hb/1671/) - Personal data privacy 👍1  
-* 👍 Matt Schwartz
+### [SB 5589](/bill/2023-24/sb/5589/) - Insurance & credit study 👍1  
+* 👍 Charles Bell
 
 ### [HB 1392](/bill/2023-24/hb/1392/) - Electronics repair 👍1  
 * 👍 Laurel Lehman

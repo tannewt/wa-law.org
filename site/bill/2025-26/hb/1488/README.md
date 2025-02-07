@@ -8,14 +8,20 @@
 
 ## Meetings
 ### Thu 02/06 01:30 PM - Finance (FIN): HB 1488 Conservation district limits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32633&aId=162997&caId=25498&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32633&aId=162997&caId=25498&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32633&aId=162997&caId=25498&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32633&aId=162997&caId=25498&tId=4)
+#### 20 👍 - Pro
+Testifying:
+* 💵Brynn Brady - [Washington Association of Conservation Districts](/org/washington_association_of_conservation_districts/)
+* Dana Coggan - Pierce Conservation District
+* Linda Lyshall - Snohomish Conservation District
+* Sarah Morrehead - Thurston Conservation District
+* Vicki Carter - Spokane Conservation District
+* Rosa Mendez - King Conservation District
+* Giovanni Vendetti - Pierce Conservation District
 
-#### 5 👍 - Pro
+#### 38 👎 - Con
+Testifying:
+* Jackie Brunson - Skagit County Treasurer / WA State Association of County Treasurers
 
-#### 1 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

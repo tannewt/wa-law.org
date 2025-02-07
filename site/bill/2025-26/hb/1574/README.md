@@ -7,3 +7,20 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 02/13 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1574 Substance use/care, services
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163135&caId=25558&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163135&caId=25558&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163135&caId=25558&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163135&caId=25558&tId=4)
+
+#### 5 👍 - Pro
+Testifying:
+* Caleb Banta-Green - University of Washington, School of Medicine, Addictions, Drug & Alcohol Institute (Professor)
+* Cole Meckle - Gather Church (Pastor)
+* Everett Maroon - Blue Mountain Heart to Heart (Executive director)
+* 💵Malika Lamont - VOCAL-WA (Director)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

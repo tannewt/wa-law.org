@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Wed 02/05 01:30 PM - State Government & Tribal Relations (SGOV): HB 1750 Voting rights act claims
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162985&caId=25478&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162985&caId=25478&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162985&caId=25478&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32669&aId=162985&caId=25478&tId=4)
-
-#### 346 👍 - Pro
+#### 370 👍 - Pro
 Testifying:
 * Gabriel Portugal - Washington State League of United Latin American Citizens (LULAC)
 * Roxana Norouzi - OneAmerica
@@ -27,7 +21,7 @@ Testifying:
 * Marisa Wright - Campaign Legal Center
 * Michael Pernick - Legal Defense Fund
 
-#### 1410 👎 - Con
+#### 1468 👎 - Con
 Testifying:
 * Donna Alber
 * LORILEE GATES

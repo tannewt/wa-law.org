@@ -7,3 +7,20 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 02/14 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1825 Grizzly bear management
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=4)
+
+#### 6 👍 - Pro
+Testifying:
+* Matthew Rudolf - As individual, but I am on the Regional Council for NPCA
+* Susan Kane-Ronning - Washington Sierra Club Wildlife Committee
+* J Rosapepe - Endangered Species Coalition
+* 💵Graham Taylor - [National Parks Conservation Association](/org/national_parks_conservation_association/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

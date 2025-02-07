@@ -45,7 +45,7 @@
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 
-### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
+### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
@@ -70,15 +70,17 @@
 
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 
-### [SB 5488](/bill/2025-26/sb/5488/) - Strengthening the financial stability of persons in the care of the department of children, youth, and families. 👍1  
+### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters 👍1  
 
-## [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
+### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
+
+## [SB 5589](/bill/2025-26/sb/5589/) - Insurance & credit study 👍1  
 
 ## 2023-24
 
-### [SB 5541](/bill/2023-24/sb/5541/) - Future fund pilot project 👍1  
+### [SB 5589](/bill/2023-24/sb/5589/) - Insurance & credit study 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 

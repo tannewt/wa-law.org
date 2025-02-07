@@ -34,7 +34,7 @@
 ### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor  👎2 
 * 👎 Megan Moore
 
-### [SB 5082](/bill/2025-26/sb/5082/) - Creating a housing assistance program for youth enrolled in extended foster care. 👍1  
+### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 

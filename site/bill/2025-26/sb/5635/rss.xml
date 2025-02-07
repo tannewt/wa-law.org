@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5635/</link>
 		<description>Updates about SB 5635</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 02:28:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,22 @@
 			<pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-03/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>👍Commissioner Josh Kerns - Spokane County</title>
+			<description>Commissioner Josh Kerns signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/spokane_county/"&gt;Spokane County&lt;/a&gt;.</description>
+			<pubDate>Thu, 06 Feb 2025 01:07:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Commissioner Josh/Kerns/2025-02-06 01:07:11</guid>
+		</item>
+		<item>
+			<title>👍LeaAnn Gould - Chair, Newman Lake Flood Control District Advisory Board and as a Newman Lake Property Owner</title>
+			<description>LeaAnn Gould signed up to testify Pro. They are signed up to represent Chair, Newman Lake Flood Control District Advisory Board and as a Newman Lake Property Owner.</description>
+			<pubDate>Thu, 06 Feb 2025 02:28:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/LeaAnn/Gould/2025-02-06 02:28:48</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1588/</link>
 		<description>Updates about HB 1588</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 24 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 02:09:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,22 @@
 			<pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-24/First reading, referred to Agriculture &amp; Natural Resources.</guid>
+		</item>
+		<item>
+			<title>👍Matt Steinman - Foothills Farm</title>
+			<description>Matt Steinman signed up to testify Pro. They are signed up to represent Foothills Farm.</description>
+			<pubDate>Wed, 05 Feb 2025 08:35:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matt/Steinman/2025-02-05 08:35:23</guid>
+		</item>
+		<item>
+			<title>👍Mike Dill - Coalition for Organic and Regenerative Agriculture (CORA) &amp; Organically Grown Company</title>
+			<description>Mike Dill signed up to testify Pro. They are signed up to represent Coalition for Organic and Regenerative Agriculture (CORA) &amp; Organically Grown Company.</description>
+			<pubDate>Thu, 06 Feb 2025 02:09:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mike/Dill/2025-02-06 02:09:49</guid>
 		</item>
 	</channel>
 </rss>

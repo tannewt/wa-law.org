@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5184/</link>
 		<description>Updates about SB 5184</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Feb 2025 08:50:41 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Feb 2025 18:31:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -405,6 +405,27 @@
 			<pubDate>Mon, 03 Feb 2025 08:50:41 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.kuow.org/stories/should-wa-cities-cut-down-on-parking-required-at-new-developments#:~:text=Senate%20Bill%205184</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-05/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Washington lawmakers push to slash parking requirements</title>
+			<description>News article "Washington lawmakers push to slash parking requirements" from MyNorthwest.</description>
+			<pubDate>Wed, 05 Feb 2025 16:29:50 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/mynorthwest-politics/washington-2/4040678#:~:text=Senate%20Bill%205184</guid>
+		</item>
+		<item>
+			<title>Parking Reform Gains Momentum at Washington Legislature - The Urbanist</title>
+			<description>News article "Parking Reform Gains Momentum at Washington Legislature - The Urbanist" from The Urbanist.</description>
+			<pubDate>Thu, 06 Feb 2025 18:31:03 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2025/02/06/parking-reform-gains-momentum-at-washington-legislature/#:~:text=Senate%20Bill%205184</guid>
 		</item>
 	</channel>
 </rss>

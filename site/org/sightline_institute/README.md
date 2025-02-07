@@ -28,11 +28,16 @@
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 * 👍💵 Laura Feinstein
 
+### [HB 1552](/bill/2025-26/hb/1552/) - Real estate broker fee 👍1  
+
 ### [HB 1576](/bill/2025-26/hb/1576/) - Concerning the designation of historic landmarks by cities. 👍1  
 * 👍💵 Dan Bertolet
 
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
 * 👍💵 Emily Moore
+
+### [HB 1757](/bill/2025-26/hb/1757/) - Residential use/existing 👍1  
+* 👍💵 Dan Bertolet
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
 
@@ -50,16 +55,25 @@
 ### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings 👍1  
 * 👍💵 Dan Bertolet
 
+### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential 👍1  
+
 ### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs 👍1  
 
 ### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍1  
 
-## [SB 5554](/bill/2025-26/sb/5554/) - Historic landmark desig. 👍1  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+### [SB 5554](/bill/2025-26/sb/5554/) - Historic landmark desig. 👍1  
+* 👍💵 Dan Bertolet
+
+### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
+
+## [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍1  
 * 👍💵 Dan Bertolet
 
 ## 2023-24
 
-### [SB 5554](/bill/2023-24/sb/5554/) - Historic landmark desig. 👍1  
+### [SB 5613](/bill/2023-24/sb/5613/) - Residential development 👍1  
 * 👍💵 Dan Bertolet
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review 👍2  

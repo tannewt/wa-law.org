@@ -40,17 +40,21 @@
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 
+### [SB 5297](/bill/2025-26/sb/5297/) - Early learning facilities 👍1  
+
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
 ### [SB 5442](/bill/2025-26/sb/5442/) - College promise pilot 👍1  
 
-## [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
+### [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
+
+## [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
 ## 2023-24
 
-### [SB 5500](/bill/2023-24/sb/5500/) - Child care reimburse. rates 👍1  
+### [SB 5509](/bill/2023-24/sb/5509/) - Child care center siting 👍1  
 
 ### [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎2 
 

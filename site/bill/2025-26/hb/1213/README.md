@@ -11,6 +11,7 @@
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201213)
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201213)
 * 01/16/2025 [House Democrats](/org/house_democrats/) - [Rep. Liz Berry Announces Legislative Priorities for 2025 Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/16/rep-liz-berry-announces-legislative-priorities-for-2025-session/#:~:text=HB%201213)
+* 12/02/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2025 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects__trashed/2025-legislative-agenda/#:~:text=House%20Bill%201213)
 
 ## Meetings
 ### Tue 01/21 10:30 AM - Labor & Workplace Standards (LAWS): HB 1213 Paid family & medical leave
