@@ -1,7 +1,7 @@
 # The Mockingbird Society
 ## 2025-26
 
-### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍1  
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍1  
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍2  
 
@@ -27,6 +27,8 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍3  
 * 👍 Jalayna Ruland
+
+### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍1  
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
 
@@ -60,16 +62,18 @@
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
 
-### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
+### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍2  
 
-### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍2  
+### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍3  
 * 👍💵 Samuel Martin
 
-## [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
+### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
+
+## [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS 👍1  
 
 ## 2023-24
 
-### [SB 5508](/bill/2023-24/sb/5508/) - Child welfare housing assist 👍1  
+### [SB 5617](/bill/2023-24/sb/5617/) - Juvenile detention/CHINS 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 

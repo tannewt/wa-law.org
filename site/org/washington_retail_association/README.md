@@ -24,6 +24,8 @@
 
 ### [HB 1132](/bill/2025-26/hb/1132/) - Bulk firearm purchases  👎1 
 
+### [HB 1139](/bill/2025-26/hb/1139/) - Unlawful firearm possession 👍1  
+
 ### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes.   ❓1
 * ❓💵 Mark Johnson
 
@@ -59,7 +61,7 @@
 ### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers  👎1 
 * 👎💵 Crystal Leatherman
 
-### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍1  
+### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍2  
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
 * 👍💵 Mark Johnson
@@ -92,6 +94,8 @@
 
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction   ❓1
 * ❓💵 Mark Johnson
+
+### [HB 1636](/bill/2025-26/hb/1636/) - Wine & spirit sales limits 👍1  
 
 ### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy  👎1 
 * 👎💵 Crystal Leatherman
@@ -139,12 +143,16 @@
 
 ### [SB 5367](/bill/2025-26/sb/5367/) - Law enf. community grants 👍1  
 
+### [SB 5371](/bill/2025-26/sb/5371/) - Wine & spirit sales limits 👍1  
+
 ### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions 👍1  
 
 ### [SB 5405](/bill/2025-26/sb/5405/) - Estate tax exclusion amount 👍1  
 
 ### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential 👍1  
 * 👍💵 Mark Johnson
+
+### [SB 5434](/bill/2025-26/sb/5434/) - Gubernatorial emergencies 👍1  
 
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 

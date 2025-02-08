@@ -17,7 +17,7 @@ Testifying:
 * 💵Adam Zarrin - [Leukemia & Lymphoma Society](/org/leukemia_&_lymphoma_society/)
 * Jim Freeburg - Patient Coalition of Washington
 * Anita Belcher - Patient
-* Julia Kellison - Northwest Justice Project
+* Julia Kellison - [Northwest Justice Project](/org/northwest_justice_project/)
 
 #### 185 👎 - Con
 Testifying:

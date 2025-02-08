@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5592/</link>
 		<description>Updates about SB 5592</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 12:55:03 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 22:32:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -261,6 +261,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Christine/Cooley/2025-02-04 12:55:03</guid>
+		</item>
+		<item>
+			<title>Standing strong, moving forward - Sen. Rebecca Saldaña</title>
+			<description>News article "Standing strong, moving forward - Sen. Rebecca Saldaña" from Senate Democrats.</description>
+			<pubDate>Fri, 07 Feb 2025 22:32:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/saldana/2025/02/07/standing-strong-moving-forward/#:~:text=SB%205592</guid>
 		</item>
 	</channel>
 </rss>

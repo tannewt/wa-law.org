@@ -18,16 +18,17 @@
 ### [SB 5186](/bill/2025-26/sb/5186/) - School district elections   ❓1
 * ❓ Martin Turney
 
-### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍4  
+### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍5  
 * 👍 Heather Tow-Yick
 
-### [SB 5190](/bill/2025-26/sb/5190/) - School building energy perf. 👍1  
+### [SB 5190](/bill/2025-26/sb/5190/) - School building energy perf. 👍2  
 * 👍 Martin Turney
+* 👍 Jason Morse
 
-### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍3  
+### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍4  
 * 👍 Heather Tow-Yick
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍4  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍5  
 * 👍 Heather Tow-Yick
 
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍3  

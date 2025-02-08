@@ -268,7 +268,7 @@ Testifying:
 * 💵Brad Forbes - Alzheimer's Association
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Joan Miller - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)
-* Alicia Kingston - Northwest Justice Project
+* Alicia Kingston - [Northwest Justice Project](/org/northwest_justice_project/)
 * Austin Hsu - Snohomish County Legal Services
 * Quinn Rosborough Dalan - Yakima County Volunteer Legal Services
 * 💵Anna Nepomuceno - NAMI WA
@@ -318,7 +318,7 @@ Testifying:
 * Chris Mulick - Washington State University
 * John Floberg - Washington State Parks Foundation
 * Alexandra Deas - [Equal Justice Coalition](/org/equal_justice_coalition/)
-* César Torres - Northwest Justice Project
+* César Torres - [Northwest Justice Project](/org/northwest_justice_project/)
 * Preston Dwoskin
 * Harald Hyllseth - Chief Seattle Club/Communities of Concern Commission
 * Josephine Tamayo Murray - Communities of Concern Commission

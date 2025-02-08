@@ -31,7 +31,7 @@ Testifying:
 * (Judge) Michael Diaz - Interpreter Language and Access Commission
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Luisa Gracia
-* Kristi Cruz - Northwest Justice Project
+* Kristi Cruz - [Northwest Justice Project](/org/northwest_justice_project/)
 * Em Stone - WA State Coalition Against Domestic Violence
 
 #### 0 👎 - Con

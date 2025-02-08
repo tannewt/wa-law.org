@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32789&aId=163567&caId=25686&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32789&aId=163567&caId=25686&tId=4)
 
-#### 14 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * Kristina Smith
 * Patricia Toole
 * Jamie Thompson - Un-paid Parent Caregiver
 * 💵Hanna Jones - MGA Home Care & Team Select Home Care
+* Leslie Elder
 
 #### 0 👎 - Con
 

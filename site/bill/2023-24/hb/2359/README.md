@@ -22,4 +22,4 @@ Testifying:
 #### 4 ❓ - Other
 Testifying:
 * Peter Lukevicvh - [Towing and Recovery Association of Washington](/org/towing_and_recovery_association_of_washington/)
-* Fadi Assaf - Northwest Justice Project
+* Fadi Assaf - [Northwest Justice Project](/org/northwest_justice_project/)

@@ -6,10 +6,14 @@
 ### [HB 1758](/bill/2025-26/hb/1758/) - Aquatic land lease inflation 👍2  
 * 👍 Roman Daniels-Brown
 
+### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
+
 ### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍2  
 * 👍 Roman Daniels-Brown
 
 ### [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  
+
+### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
 
 ## [SB 5656](/bill/2025-26/sb/5656/) - Aquatic lease inflation rate 👍2  
 * 👍 Roman Daniels-Brown

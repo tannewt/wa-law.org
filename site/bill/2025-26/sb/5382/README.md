@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: K-12 learning loss leaving our kids behind - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-k-12-learning-loss-leaving-kids-behind/#:~:text=SB%205382)
 * 02/05/2025 [KIRO7](/org/kiro7/) - [WA Senate Democrats propose stricter regulations for ballot measure initiatives – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-senate-democrats-propose-stricter-regulations-ballot-measure-initiatives/GBAGXOLRPJFBPHH2GTQL3A26BQ/#:~:text=Senate%20Bill%205382)
 * 02/05/2025 [The Center Square](/org/the_center_square/) - [Controversial initiative bill gets mixed testimony | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8b506c58-e3e4-11ef-ad15-f35b88b3a556.html#:~:text=Senate%20Bill%205382)
 * 02/05/2025 [MyNorthwest](/org/mynorthwest/) - [WA Senate Democrats seek stricter rules for initiatives](https://mynorthwest.com/mynorthwest-politics/wa-democrats-initiatives/4040423#:~:text=Senate%20Bill%205382)

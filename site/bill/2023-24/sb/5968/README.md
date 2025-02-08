@@ -13,7 +13,7 @@
 #### 83 👍 - Pro
 Testifying:
 * Brendan Donckers - Northwest Consumer Law Center Board Member
-* Malena Pinkham - Northwest Justice Project
+* Malena Pinkham - [Northwest Justice Project](/org/northwest_justice_project/)
 * Ryan Davis - Financial Empowerment Network
 * 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * Andrew Pizor - National Consumer Law Center
@@ -41,7 +41,7 @@ Testifying:
 Testifying:
 * Andrew Pizor - National Consumer Law Center
 * 💵Emily Murphy - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
-* Malena Pinkham - Northwest Justice Project
+* Malena Pinkham - [Northwest Justice Project](/org/northwest_justice_project/)
 * 💵Shaun Scott
 * Riley Benge - Washington REALTORS
 * Blythe Chandler - Terrell Marshall Law Group

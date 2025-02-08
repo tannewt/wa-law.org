@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32713&aId=163079&caId=25715&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32713&aId=163079&caId=25715&tId=4)
 
-#### 19 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Jeff Pack - Me
+* Mike Vellekamp - V Nives
+* Todd Rathner - Knife Rights
 
 #### 0 👎 - Con
 

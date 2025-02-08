@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201464)
+
 ## Meetings
 ### Fri 02/14 08:00 AM - Consumer Protection & Business (CPB): HB 1464 Home equity sharing
 Sign up to testify:

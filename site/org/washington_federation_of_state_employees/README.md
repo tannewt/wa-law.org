@@ -8,10 +8,11 @@
 
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers 👍1  
 
-### [HB 1105](/bill/2025-26/hb/1105/) - Exempting exclusive bargaining representatives for department of corrections employees from certain provisions related to coalition bargaining. 👍1  
+### [HB 1105](/bill/2025-26/hb/1105/) - Exempting exclusive bargaining representatives for department of corrections employees from certain provisions related to coalition bargaining. 👍2  
+* 👍 Kati Durkin
 * 👍 Kati Durkin
 
-### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
+### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement 👍1  
 * 👍💵 Nicole Gomez
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board. 👍1  
@@ -51,11 +52,19 @@
 
 ### [HB 1459](/bill/2025-26/hb/1459/) - Child fatalities 👍1  
 
+### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation  👎1 
+* 👎 Kati Durkin
+
 ### [HB 1511](/bill/2025-26/hb/1511/) - Ferry captains 👍1  
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍5  
 * 👍 Rhonda Buchanan
 * 👍 Kati Durkin
+* 👍 Kati Durkin
+
+### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval  👎1 
+
+### [HB 1822](/bill/2025-26/hb/1822/) - Establishing a driver work zone and first responder safety course requirement. 👍1  
 * 👍 Kati Durkin
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
@@ -64,7 +73,7 @@
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
-### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
+### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍2  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
 * 👍💵 Nicole Gomez
@@ -90,6 +99,8 @@
 ### [SB 5459](/bill/2025-26/sb/5459/) - Call center retention 👍1  
 
 ### [SB 5525](/bill/2025-26/sb/5525/) - Layoffs 👍1  
+
+### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
 
 ## [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
 

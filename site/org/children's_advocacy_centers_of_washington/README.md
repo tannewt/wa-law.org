@@ -22,7 +22,7 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ PAULA REED
 
-### [SB 5227](/bill/2025-26/sb/5227/) - Concerning offenses involving child sex dolls. 👍1  
+### [SB 5227](/bill/2025-26/sb/5227/) - Child sex dolls 👍1  
 
 ### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
 

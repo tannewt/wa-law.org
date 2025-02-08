@@ -13,19 +13,14 @@
 
 ## Meetings
 ### Fri 02/07 01:30 PM - Finance (FIN): HB 1307 Child care product sales tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162441&caId=25429&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162441&caId=25429&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162441&caId=25429&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162441&caId=25429&tId=4)
-
-#### 281 👍 - Pro
+#### 286 👍 - Pro
 Testifying:
 * Aleah Patulot - [Catholic Community Services of Western Washington](/org/catholic_community_services_of_western_washington/)
 * Anthony Mixer - Washington State Young Republicans
 * Mindi Walker - Aeroflow Health
 * Mindi Walker - Aeroflow Health
 * Peggy Behnken - Catholic Community Service - PREPARES Program
+* Jeremy Ickes - Washington State Young Republicans
 
 #### 4 👎 - Con
 

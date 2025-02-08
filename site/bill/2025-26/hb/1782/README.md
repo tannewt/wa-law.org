@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201782)
+
 ## Meetings
 ### Wed 02/12 01:30 PM - State Government & Tribal Relations (SGOV): HB 1782 Campaign reporting timeline
 Sign up to testify:
@@ -19,6 +22,6 @@ Testifying:
 * 💵Conner Edwards - Professional Campaign Treasurer/CG Edwards PLLAC
 * Jason Michaud - Professional Campaign Treasurer
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

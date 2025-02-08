@@ -4,6 +4,9 @@
 ### [HB 1061](/bill/2025-26/hb/1061/) - Residential parking 👍1  
 * 👍 Brett Gailey
 
+### [HB 1139](/bill/2025-26/hb/1139/) - Unlawful firearm possession 👍1  
+* 👍 Brett Gailey
+
 ### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements  👎1 
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  

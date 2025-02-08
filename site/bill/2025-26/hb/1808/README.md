@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32749&aId=163189&caId=25626&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32749&aId=163189&caId=25626&tId=4)
 
-#### 8 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* Scott Slater - Habitat for Humanity Seattle-King & Kittitas Counties
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

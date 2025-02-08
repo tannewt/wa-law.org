@@ -36,6 +36,8 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
+### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍1  
+
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  

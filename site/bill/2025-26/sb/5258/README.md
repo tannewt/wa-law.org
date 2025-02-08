@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/24 08:00 AM - Health & Long Term Care (HLTC): SB 5258 Medicaid concurrent enroll.

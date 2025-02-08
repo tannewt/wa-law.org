@@ -10,7 +10,7 @@
 ### Tue 02/07 01:30 PM - Consumer Protection & Business (CPB): HB 1666 Fee and debt collection
 #### 7 👍 - Pro
 Testifying:
-* Scott Kinkley - Northwest Justice Project
+* Scott Kinkley - [Northwest Justice Project](/org/northwest_justice_project/)
 * 💵Shaun Scott
 * Julia Kellison
 

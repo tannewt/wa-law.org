@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/08/2025 [Senate Democrats](/org/senate_democrats/) - [Increasing special education funding - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/07/increasing-special-education-funding/#:~:text=Senate%20Bill%205263)
+* 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 5: Reproductive freedom, gender-based violence prevention and a ban on tobacco products - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/07/this-week-in-the-senate-week-5-reproductive-freedom-gender-based-violence-prevention-and-a-ban-on-tobacco-products/#:~:text=SB%205263)
+* 02/07/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: K-12 learning loss leaving our kids behind - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-k-12-learning-loss-leaving-kids-behind/#:~:text=SSB%205263)
 * 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205263)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205263)
 * 01/26/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [In tight budget year, pressure builds to boost WA school funding | Cascadia Daily News](https://www.cascadiadaily.com/2025/jan/26/in-tight-budget-year-pressure-builds-to-boost-wa-school-funding/#:~:text=the%20co-sponsors%20of%20one)
@@ -23,17 +26,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163639&caId=25746&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163639&caId=25746&tId=4)
 
-#### 22 👍 - Pro
+#### 513 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Spokane, Richland, Evergreen and Vancouver Public Schools
 * Tim Merlino - ESD 112, Superintendent
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Dr. Brent Jones - Superintendent, Seattle Public Schools
+* John Axtell
+* Angela Steck - Washington State PTA
 * Lindsey Yocum - Board Director, Lake Washington School District
+* Andi Tress - Everett Public Schools
+* Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5263 Special education funding
 #### 2704 👍 - Pro

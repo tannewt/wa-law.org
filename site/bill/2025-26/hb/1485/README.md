@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201485)
+
 ## Meetings
 ### Wed 02/12 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1485 Services and activities fees
 Sign up to testify:
@@ -16,6 +19,8 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* John Axtell
 
 #### 0 ❓ - Other

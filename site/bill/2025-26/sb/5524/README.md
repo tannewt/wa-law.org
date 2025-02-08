@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163666&caId=25730&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163666&caId=25730&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Sandy Hubbard
+* Geoff Arthur - Co-Chair - University of Washington Lung Transplant Support Program
+* David Joswick - Co-Chair - University of Washington Lung Transplant Support Program
 
 #### 0 👎 - Con
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1253/</link>
 		<description>Updates about HB 1253</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 10:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -109,6 +109,13 @@
 			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-07/First reading, referred to Environment, Energy &amp; Technology (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>Power Play: Washington House advances Ybarra energy bill to supercharge partnerships | News | wenatcheeworld.com</title>
+			<description>News article "Power Play: Washington House advances Ybarra energy bill to supercharge partnerships | News | wenatcheeworld.com" from Wenatchee World.</description>
+			<pubDate>Fri, 07 Feb 2025 10:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wenatcheeworld.com/news/power-play-washington-house-advances-ybarra-energy-bill-to-supercharge-partnerships/article_abce76f4-e589-11ef-9893-235bf19a19d7.html#:~:text=House%20Bill%201253</guid>
 		</item>
 	</channel>
 </rss>

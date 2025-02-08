@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163665&caId=25729&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163665&caId=25729&tId=4)
 
-#### 22 👍 - Pro
+#### 784 👍 - Pro
 Testifying:
 * Heather Monti - [Mount St. Helens Institute](/org/mount_st._helens_institute/)
 * John Rankin - Seattle Metro Pickleball Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

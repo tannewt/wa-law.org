@@ -1,0 +1,335 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5431](/bill/2025-26/sb/5431/) > [Substitute Bill](/bill/2025-26/sb/5431/S/)
+
+# SB 5431 - Tax and revenue laws
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5431-S.pdf)
+
+## Section 1
+(1) This section is the tax preference performance statement for the tax preference contained in section 2, chapter 172, Laws of 2022. This performance statement is only intended to be used for subsequent evaluation of the tax preference. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
+
+## Section 2
+(1) This section is the tax preference performance statement for the tax preferences contained in sections 402 and 403, chapter 37, Laws of 2017 3rd sp. sess. This performance statement is only intended to be used for subsequent evaluation of the tax preferences. It is not intended to create a private right of action by any party or be used to determine eligibility for preferential tax treatment.
+
+## Section 3
+1. The tax imposed in this chapter must be paid by the buyer to the seller. Each seller must collect from the buyer the full amount of the tax payable in respect to each taxable sale in accordance with the schedule of collections adopted by the department under the provisions of RCW 82.08.060.
+
+2. The tax required by this chapter, to be collected by the seller, is deemed to be held in trust by the seller until paid to the department. Any seller who appropriates or converts the tax collected to the seller's own use or to any use other than the payment of the tax to the extent that the money required to be collected is not available for payment on the due date as prescribed in this chapter is guilty of a gross misdemeanor.
+
+3. Except as otherwise provided in this section, if any seller fails to collect the tax imposed in this chapter or, having collected the tax, fails to pay it to the department in the manner prescribed by this chapter, whether such failure is the result of the seller's own acts or the result of acts or conditions beyond the seller's control, the seller is, nevertheless, personally liable to the state for the amount of the tax.
+
+4. Sellers are not relieved from personal liability for the amount of the tax unless they maintain proper records of exempt or nontaxable transactions and provide them to the department when requested.
+
+5. Sellers are not relieved from personal liability for the amount of tax if they fraudulently fail to collect the tax or if they solicit purchasers to participate in an unlawful claim of exemption.
+
+6. Sellers are not relieved from personal liability for the amount of tax if they accept an exemption certificate from a purchaser claiming an entity-based exemption if:
+
+    a. The subject of the transaction sought to be covered by the exemption certificate is actually received by the purchaser at a location operated by the seller in Washington; and
+
+    b. Washington provides an exemption certificate that clearly and affirmatively indicates that the claimed exemption is not available in Washington. Graying out exemption reason types on a uniform form and posting it on the department's website is a clear and affirmative indication that the grayed out exemptions are not available.
+
+7. [Empty]
+
+    a. Sellers are relieved from personal liability for the amount of tax if they obtain a fully completed exemption certificate or capture the relevant data elements required under the streamlined sales and use tax agreement within 90 days, or a longer period as may be provided by rule by the department, subsequent to the date of sale.
+
+    b. If the seller has not obtained an exemption certificate or all relevant data elements required under the streamlined sales and use tax agreement within the period allowed subsequent to the date of sale, the seller may, within 120 days, or a longer period as may be provided by rule by the department, subsequent to a request for substantiation by the department, either prove that the transaction was not subject to tax by other means or obtain a fully completed exemption certificate from the purchaser, taken in good faith.
+
+    c. Sellers are relieved from personal liability for the amount of tax if they obtain a blanket exemption certificate for a purchaser with which the seller has a recurring business relationship. The department may not request from a seller renewal of blanket exemption certificates or updates of exemption certificate information or data elements if there is a recurring business relationship between the buyer and seller. For purposes of this subsection (7)(c), a "recurring business relationship" means at least one sale transaction within a period of 12 consecutive months.
+
+    d. Sellers are relieved from personal liability for the amount of tax if they obtain a copy of a direct pay permit issued under RCW 82.32.087.
+
+8. The amount of tax, until paid by the buyer to the seller or to the department, constitutes a debt from the buyer to the seller. Any seller who fails or refuses to collect the tax as required with intent to violate the provisions of this chapter or to gain some advantage or benefit, either direct or indirect, and any buyer who refuses to pay any tax due under this chapter is guilty of a misdemeanor.
+
+9. [Empty]
+
+    a. Except as otherwise provided in this subsection (9), the tax required by this chapter to be collected by the seller must be stated separately from the selling price in any sales invoice or other instrument of sale.  Except as otherwise provided in this subsection, for purposes of determining the tax due from the buyer to the seller and from the seller to the department it must be conclusively presumed that the selling price quoted in any price list, sales document, contract or other agreement between the parties does not include the tax imposed by this chapter. But if the seller advertises the price as including the tax or that the seller is paying the tax, the advertised price may not be considered the selling price.
+
+    b. The tax required by this chapter to be collected by the seller need not be stated separately from the selling price or collected separately from the buyer on the following:
+
+        i. All retail sales through vending machines; or
+
+        ii. Retail sales of medical equipment paid by a health insurance provider, if the following conditions are met:
+
+(A) The payment for the medical equipment is a fixed amount set by contract between the medical supply vendor and the health insurance provider; and
+
+(B) The medical supply vendor is not entitled to collect the balance from the covered person, or other persons, after contractual amounts are paid by the health insurance provider.
+
+    c. The department shall adopt rules as may be necessary to administer the provisions of this section.
+
+10. Where a buyer has failed to pay to the seller the tax imposed by this chapter and the seller has not paid the amount of the tax to the department, the department may, in its discretion, proceed directly against the buyer for collection of the tax. If the department proceeds directly against the buyer for collection of the tax as authorized in this subsection, the department may add a penalty of 10 percent of the unpaid tax to the amount of the tax due for failure of the buyer to pay the tax to the seller, regardless of when the tax may be collected by the department. In addition to the penalty authorized in this subsection, all of the provisions of chapter 82.32 RCW, including those relative to interest and penalties, apply. For the sole purpose of applying the various provisions of chapter 82.32 RCW, the 25th day of the month following the tax period in which the purchase was made will be considered as the due date of the tax.
+
+11. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Exemption certificate" means documentation furnished by a buyer to a seller to claim an exemption from sales tax. An exemption certificate includes a reseller permit or other documentation authorized in RCW 82.04.470 furnished by a buyer to a seller to substantiate a wholesale sale.
+
+    b. "Health insurance provider" includes, but is not limited to, commercial insurers, the medicaid program, and the medicare program.
+
+    c. "Seller" includes a certified service provider, as defined in RCW 82.32.020, acting as agent for the seller.
+
+## Section 4
+1. [Empty]
+
+    a. An exemption from the tax imposed by RCW 82.08.020 is provided for sales to qualifying businesses and to qualifying tenants of eligible server equipment to be installed, without intervening use, in an eligible computer data center to which a valid exemption certificate applies, and to charges made for labor and services rendered in respect to installing eligible server equipment.
+
+    b. This exemption also applies to sales to qualifying businesses and to qualifying tenants of eligible power infrastructure, including labor and services rendered in respect to constructing, installing, repairing, altering, or improving eligible power infrastructure at an eligible computer data center for which an exemption certificate has been issued.
+
+    c. No new exemption certificates may be issued on or after July 1, 2036.
+
+    d. The exemptions provided in this section expire July 1, 2048.
+
+    e. Each calendar year, the department may issue no more than six certificates for data centers which qualify through refurbishment. Certificates are available for refurbished data centers on a first-in-time basis based on the date the application required under this section is received by the department. Each qualifying business may apply for only one certificate for a refurbished data center each calendar year.
+
+2. [Empty]
+
+    a. In order to obtain an exemption certificate under this section, a qualifying business or a qualifying tenant must submit an application to the department for an exemption certificate. The application must include the information necessary, as required by the department, to determine that a business or tenant qualifies for the exemption under this section. The department must issue exemption certificates to qualifying businesses and qualifying tenants. The department may assign a unique identification number to each exemption certificate issued under this section.
+
+    b. A qualifying business or a qualifying tenant claiming the exemption under this section must present the seller with an exemption certificate in a form and manner prescribed by the department. The seller must retain a copy of the certificate for the seller's files.
+
+    c. With respect to computer data centers for which the commencement of construction occurs after July 1, 2015, but before July 1, 2019, the exemption provided in this section is limited to no more than eight computer data centers, with total eligible data centers provided under this section limited to 12 from July 1, 2015, through June 9, 2022. Tenants of qualified data centers do not constitute additional data centers under the limit. The exemption is available on a first-in-time basis based on the date the application required under this section is received by the department.
+
+    d. The exemption certificate is effective on the date the application is received by the department, which is deemed to be the date of issuance. Only purchases on or after the date of issuance qualify for the exemption under this section. No tax refunds are authorized for purchases made before the effective date of the exemption certificate.
+
+    e. Exemption certificates expire two years after the date of issuance, unless construction has been commenced.
+
+3. [Empty]
+
+    a. [Empty]
+
+        i. Within six years of the date that the department issued an exemption certificate under this section to a qualifying business or a qualifying tenant with respect to an eligible computer data center, the qualifying business or qualifying tenant must establish that net employment assigned to an eligible computer data center has increased by a minimum of:
+
+(A) Thirty-five family wage employment positions; or, if lower
+
+(B) Three family wage employment positions for each 20,000 square feet of space or less that is newly dedicated to housing working servers at the eligible computer data center. For qualifying tenants, the number of family wage employment positions that must be increased under this subsection (3)(a)(i)(B) is based only on the space occupied by the qualifying tenant in the eligible computer data center.
+
+        ii. After the minimum number of family wage employment positions as required under (a)(i) of this subsection (3) is established, a qualifying business or a qualifying tenant must maintain the minimum family wage employment positions required under (a)(i) of this subsection (3) while the exemption certificate is valid.
+
+    b. In calculating the net increase in family wage employment positions:
+
+        i. The owner of an eligible computer data center, in addition to its own net increase in family wage employment positions, may include:
+
+(A) The net increase, since the date of issuance of the qualifying business's exemption certificate, in family wage employment positions employed by qualifying tenants; and
+
+(B) The net increase in family wage employment positions described in (c)(ii)(B) of this subsection (3).
+
+        ii.(A) Qualifying tenants, in addition to their own net increase in family wage employment positions, may include:
+
+(I) A portion of the net increase in family wage employment positions employed by the owner; and
+
+(II) A portion of the net increase in family wage employment positions described in (c)(ii)(B) of this subsection (3).
+
+(B) The portion of the net increase in family wage employment positions to be counted under this subsection (3)(b)(ii) by each qualifying tenant is equal to the net increase in family wage employment positions assigned to an eligible computer data center as described in (b)(ii)(A)(I) and (II) of this subsection (3), multiplied by the percentage of total space within the eligible computer data center occupied by the qualifying tenant. Any combination of qualifying business and qualifying tenant family wage employment positions may meet this requirement.
+
+(C)(I) In the instance of an existing data center facility that was ineligible, regardless of the date of commencement of construction, that later obtains an exemption certificate under this section, the data center may count the existing employment positions that are dedicated to the data center toward the new family wage employment position requirements if the employment positions meet the requirements of a family wage employment position, as described in (c)(i)(B) and (C) of this subsection (3), other than the requirement that the position did not exist or had not previously been filled as of the date that the department issued an exemption certificate.
+
+(II) In the instance of the refurbishment of an existing data center that previously qualified under the data center program, the data center may count the existing employment positions dedicated to the data center toward the new family wage employment position requirements if the employment positions meet the requirements of a family wage employment position, as described in (c)(i)(B) and (C) of this subsection (3), other than the requirement that the position did not exist or had not previously been filled as of the date that the department issued an exemption certificate.
+
+    c. [Empty]
+
+        i. For purposes of this subsection:
+
+(A) For exemption certificates issued before June 9, 2022, family wage employment positions are new permanent employment positions requiring 40 hours of weekly work, or their equivalent, on a full-time basis assigned to an eligible computer data center and receiving a wage equivalent to or greater than 150 percent of the per capita personal income of the county in which the qualified project is located as published by the employment security department. The per capita personal income to be used to determine qualification for any year is the amount that was established for the immediate prior year.
+
+(B) For exemption certificates issued on or after June 9, 2022, family wage employment positions are new permanent employment positions requiring 40 hours of weekly work, or their equivalent, on a full-time basis assigned to an eligible computer data center and receiving a wage equivalent to or greater than 125 percent of the per capita personal income of the county in which the qualified project is located as published by the employment security department. The per capita personal income to be used to determine qualification for any year is the amount that was established for the immediate prior year.
+
+(C) An employment position may not be counted as a family wage employment position unless the employment position is entitled to health insurance coverage provided by the employer of the employment position.
+
+(D) "New permanent employment position" means an employment position that did not exist or that had not previously been filled as of the date that the department issued an exemption certificate to the qualifying business or qualifying tenant of an eligible computer data center, as the case may be, except as provided in (b)(ii)(C) of this subsection (3).
+
+        ii.(A) Family wage employment positions include positions filled by employees of the qualifying business and by employees of qualifying tenants.
+
+(B) Family wage employment positions also include individuals performing work at an eligible computer data center as an independent contractor hired by the owner of the eligible computer data center or as an employee of an independent contractor hired by the owner of the eligible computer data center, if the work is necessary for the operation of the computer data center, such as security and building maintenance, and provided that all of the applicable requirements in (c)(i) of this subsection (3) are met.
+
+    d. [Empty]
+
+        i. For a qualifying business or qualifying tenant that does not meet the requirements of this subsection (3), previously exempted sales and use taxes are immediately due and payable and any exemption certificate issued to that qualifying business or qualifying tenant under this section is canceled, except as described in (d)(iii) of this subsection (3).
+
+        ii. The department of labor and industries must, at the request of the department, assist in determining whether the requirements of this subsection (3) have been met.
+
+        iii. If the department, with the assistance of the department of labor and industries, finds that a failure to meet the requirements of this subsection (3) is due to circumstances beyond the control of the qualifying business or qualifying tenant including, but not limited to, a declaration of an economic recession, pandemic, or natural disaster affecting data center operations, the department may provide exceptions or extensions to the requirements of this subsection (3).
+
+        iv. Any repayment of taxes triggered by the failure of a qualifying business or qualifying tenant to meet the requirements of this subsection (3) must be calculated in proportion to the duration of time for which any applicable requirement was not met.
+
+    v. If the department is notified that a qualifying business or qualifying tenant fails to meet the requirements of this subsection (3), the department may require a qualifying business or qualifying tenant to submit records necessary to determine whether the requirements have been met.
+
+4. For exemption certificates issued on or after June 9, 2022:
+
+    a. Within three years after being placed in service, the qualifying business operating a newly constructed data center must certify to the department that it has attained certification under one or more of the following sustainable design or green building standards:
+
+        i. BREEAM for new construction or BREEAM in-use;
+
+        ii. Energy star;
+
+        iii. Envision;
+
+        iv. ISO 50001-energy management;
+
+    v. LEED for building design and construction or LEED for operations and maintenance;
+
+    vi. Green globes for new construction or green globes for existing buildings;
+
+    vii. UL 3223; or
+
+    viii. Other reasonable standards approved by the department.
+
+    b. The department may require qualifying businesses and qualifying tenants to submit records necessary to verify the requirements under (a) of this subsection have been met.
+
+    c. [Empty]
+
+        i. For a qualifying business or qualifying tenant that does not meet the requirements of (a) of this subsection (4), all previously exempted sales and use taxes may be immediately due and payable, any exemption certificate issued to that qualifying business or qualifying tenant under this section is canceled, and an additional 10 percent penalty is assessed, except as described in (c)(ii) of this subsection (4).
+
+        ii. If the department finds that a failure to meet the requirements of this subsection (4) is due to circumstances beyond the control of the qualifying business or qualifying tenant including, but not limited to, a declaration of an economic recession, pandemic, or natural disaster affecting data center operations, the department may, at its discretion, provide exceptions or extensions to the requirements of this subsection (4). The department may, at its discretion, coordinate with agencies with relevant expertise to assist in determining whether the requirements have been met.
+
+5. A qualifying business or a qualifying tenant claiming the exemption under this section is encouraged to take direct steps to adopt practices to mitigate negative environmental impacts resulting from expanded use of data centers, including through:
+
+    a. Coordinating with the industrial waste coordination program established under RCW 43.31.625 to identify and provide technical assistance in implementing industrial symbiosis projects;
+
+    b. To the extent possible, procuring or contracting for power from renewable sources;
+
+    c. Adopting practices to improve the energy efficiency of existing data centers, including through upgrading and consolidating technology, managing data center airflow, and adjusting and improving heating, ventilation, and air conditioning systems; and
+
+    d. Taking actions to conserve, reuse, and replace water. This includes using water efficient fixtures and practices; treating, infiltrating, and harvesting rainwater; recycling water before discharging; partnering with local water utilities to use discharged water for irrigation and other water conservation purposes; using reclaimed water where possible for data center operations; and supporting water restoration in local watersheds.
+
+6. A qualifying business or a qualifying tenant claiming an exemption under this section or RCW 82.12.986 must complete an annual tax performance report with the department as required under RCW 82.32.534. The report must identify construction firm names and employment levels used for constructing, renovating, refurbishing, or remodeling the data centers.
+
+7. [Empty]
+
+    a. The certificate holder may not at any time assign or transfer a certificate without the prior written consent of the department. The department must allow certificate transfers if the certificate holder meets the following requirements:
+
+        i. The certificate assignee or transferee is qualified to do business in the state;
+
+        ii. The assignee or transferee acknowledges the transfer of the certificate in writing;
+
+        iii. The assignee or transferee agrees to keep and perform all the terms of the certificates; and
+
+        iv. An assignment or transfer of the certificate is to an entity that:
+
+(A) Controls, is controlled by, or under common control with, the certificate holder;
+
+(B) Acquires all or substantially all of the stock or assets of the certificate holder; or
+
+(C) Is the resulting entity of a merger or consolidation with the certificate holder.
+
+    b. In the event the assignee or transferee acquires eligible server equipment in a qualifying asset sale under (a)(iv)(B) of this subsection, the purchaser shall be deemed to purchase the eligible server equipment pursuant to the transferred certificate.
+
+8. The definitions in this subsection apply throughout this section unless the context clearly requires otherwise.
+
+    a. "Affiliated" means that one person has a direct or indirect ownership interest of at least 20 percent in another person.
+
+    b. "Building" means a fully enclosed structure with a weather resistant exterior wall envelope or concrete or masonry walls designed in accordance with the requirements for structures under chapter 19.27 RCW. This definition of "building" only applies to computer data centers for which commencement of construction occurs on or after July 1, 2015.
+
+    c. "Certificate of occupancy" means:
+
+        i. For a newly constructed eligible computer data center, the certificate of occupancy issued by a local governing authority for the structure or structures which comprise the eligible computer data center; or
+
+        ii. For renovations of an eligible computer data center, the certificate of occupancy issued by a local governing authority for the renovated structure or structures that comprise the eligible computer data center.
+
+    d. [Empty]
+
+        i. "Computer data center" means a facility comprised of one or more buildings, which may be comprised of multiple businesses, constructed or refurbished specifically, and used primarily, to house working servers, where the facility has the following characteristics: (A) Uninterruptible power supplies, generator backup power, or both; (B) sophisticated fire suppression and prevention systems; and (C) enhanced physical security, such as: Restricted access to the facility to selected personnel; permanent security guards; video camera surveillance; an electronic system requiring passcodes, keycards, or biometric scans, such as hand scans and retinal or fingerprint recognition; or similar security features.
+
+        ii. For a computer data center comprised of multiple buildings, each separate building constructed or refurbished specifically, and used primarily, to house working servers is considered a computer data center if it has all of the characteristics listed in (d)(i)(A) through (C) of this subsection (8).
+
+        iii. A facility comprised of one building or more than one building must have a combined square footage of at least 100,000 square feet.
+
+    e. "Electronic data storage and data management services" include, but are not limited to: Providing data storage and backup services, providing computer processing power, hosting enterprise software applications, and hosting websites. The term also includes providing services such as email, web browsing and searching, media applications, and other online services, regardless of whether a charge is made for such services.
+
+    f. [Empty]
+
+        i. "Eligible computer data center" means a computer data center:
+
+(A) Located in a rural county as defined in RCW 82.14.370 at the time an application for an exemption under this section is received;
+
+(B) Having at least 20,000 square feet dedicated to housing working servers; and
+
+(C) For which the commencement of construction occurs:
+
+(I) After March 31, 2010, and before July 1, 2011;
+
+(II) After March 31, 2012, and before July 1, 2015; or
+
+(III) After June 30, 2015, and before July 1, 2035.
+
+        ii. For purposes of this section, "commencement of construction" means the date that a building permit is issued under the building code adopted under RCW 19.27.031 for construction of the computer data center. The construction of a computer data center includes the expansion, renovation, or refurbishment of existing facilities regardless of whether the existing facility was previously ineligible and regardless of whether commencement of construction of the existing facility occurred outside of the dates listed in (f)(i)(C)(I) through (III) of this subsection, including leased or rented space. "Commencement of construction" does not include soil testing, site clearing and grading, site preparation, or any other related activities that are initiated before the issuance of a building permit for the construction of the foundation of a computer data center. If no building permit is required for renovation or refurbishment, then the date that renovation or refurbishment begins is the "commencement of construction."
+
+    g. "Eligible power infrastructure" means all fixtures and equipment owned by a qualifying business or qualifying tenant and necessary for the transformation, distribution, or management of electricity that is required to operate eligible server equipment within an eligible computer data center. The term includes generators; wiring; cogeneration equipment; and associated fixtures and equipment, such as electrical switches, batteries, and distribution, testing, and monitoring equipment. The term does not include substations.
+
+    h. "Eligible server equipment" means:
+
+        i. For a qualifying business whose computer data center qualifies as an eligible computer data center under (f)(i)(C)(I) of this subsection (8), the original server equipment installed in an eligible computer data center on or after April 1, 2010, and before January 1, 2026, and replacement server equipment. For purposes of this subsection (8)(h)(i), "replacement server equipment" means server equipment that:
+
+(A) Replaces existing server equipment, if the sale or use of the server equipment to be replaced qualified for an exemption under this section or RCW 82.12.986; and
+
+(B) Is installed and put into regular use before April 1, 2018.
+
+        ii. For a qualifying business whose computer data center qualifies as an eligible computer data center under (f)(i)(C)(II) of this subsection (8), "eligible server equipment" means the original server equipment installed in an eligible computer data center on or after April 1, 2012, and before January 1, 2026, and replacement server equipment. For purposes of this subsection (8)(h)(ii), "replacement server equipment" means server equipment that:
+
+(A) Replaces existing server equipment, if the sale or use of the server equipment to be replaced qualified for an exemption under this section or RCW 82.12.986; and
+
+(B) Is installed and put into regular use before April 1, 2024.
+
+        iii. For a qualifying business whose computer data center qualifies as an eligible computer data center under (f)(i)(C)(III) of this subsection (8), "eligible server equipment" means the original server equipment installed in a building within an eligible computer data center on or after July 1, 2015, and replacement server equipment. Server equipment installed in movable or fixed stand-alone, prefabricated, or modular units, including intermodal shipping containers, is not "directly installed in a building." For purposes of this subsection (8)(h)(iii), "replacement server equipment" means server equipment that:
+
+(A)(I) Replaces existing server equipment, if the sale or use of the server equipment to be replaced qualified for an exemption under this section or RCW 82.12.986; or
+
+(II) Replaces existing server equipment in a computer data center that meets the following requirements: Was ineligible before June 9, 2022, for the exemptions provided under this section and RCW 82.12.986; has been refurbished; and to which a valid exemption certificate applies; and
+
+(B) Is installed and put into regular use no later than 12 years after the date of the certificate of occupancy or completion of refurbishment of the computer data center.
+
+        iv. For a qualifying tenant who leases space within an eligible computer data center, "eligible server equipment" means the original server equipment installed within the space it leases from an eligible computer data center with an exemption certificate on or after April 1, 2010, and replacement server equipment. For purposes of this subsection (8)(h)(iv), "replacement server equipment" means server equipment that:
+
+(A)(I) Replaces existing server equipment, if the sale or use of the server equipment to be replaced qualified for an exemption under this section or RCW 82.12.986; or
+
+(II) Replaces existing server equipment in a computer data center that meets the following requirements: Was ineligible before June 9, 2022, for the exemptions provided under this section and RCW 82.12.986; has been refurbished; and to which a valid exemption certificate applies; and
+
+(B) Is installed and put into regular use no later than 12 years after the date of the certificate of occupancy or completion of refurbishment of the computer data center.
+
+        i. "Qualifying business" means a business entity that exists for the primary purpose of engaging in commercial activity for profit and that is the owner of an eligible computer data center. The term does not include the state or federal government or any of their departments, agencies, and institutions; tribal governments; political subdivisions of this state; or any municipal, quasi-municipal, public, or other corporation created by the state or federal government, tribal government, municipality, or political subdivision of the state.
+
+    j. "Qualifying tenant" means a business entity that exists for the primary purpose of engaging in commercial activity for profit and that leases space from a qualifying business within an eligible computer data center. The term does not include the state or federal government or any of their departments, agencies, and institutions; tribal governments; political subdivisions of this state; or any municipal, quasi-municipal, public, or other corporation created by the state or federal government, tribal government, municipality, or political subdivision of the state. The term also does not include a lessee of space in an eligible computer data center under (f)(i)(C)(I) of this subsection (8), if the lessee and lessor are affiliated and:
+
+        i. That space will be used by the lessee to house server equipment that replaces server equipment previously installed and operated in that eligible computer data center by the lessor or another person affiliated with the lessee; or
+
+        ii. Prior to May 2, 2012, the primary use of the server equipment installed in that eligible computer data center was to provide electronic data storage and data management services for the business purposes of either the lessor, persons affiliated with the lessor, or both.
+
+    k. [Empty]
+
+        i. "Refurbished" or "refurbishment" means a substantial improvement to an eligible computer data center to update or modernize servers, server space, ventilation, or power infrastructure in an eligible computer data center.
+
+        ii. For a qualifying computer data center to be considered refurbished, the qualifying business must certify, in a form and manner prescribed by the department, that the refurbishment of an eligible computer data center is complete. The refurbishment is considered complete on the date that the improved portion of the computer data center is operationally complete and able to be used for its intended purpose.
+
+    l. "Server equipment" means the computer hardware located in an eligible computer data center and used exclusively to provide electronic data storage and data management services, including cloud services, for internal use by the owner or lessee of the computer data center, for clients of the owner or lessee of the computer data center, or both. "Server equipment" also includes computer software necessary to operate the computer hardware. "Server equipment" does not include personal computers, the racks upon which the server equipment is installed, and computer peripherals such as keyboards, monitors, printers, and mice.
+
+9. This section expires July 1, 2048.
+
+## Section 5
+1. Beginning in January 2029, and in January of every fourth year thereafter, the department of revenue must submit to the legislature prior to the regular session a listing of the amount of reduction for the current and next biennium in the revenues of the state or the revenues of local government collected by the state as a result of tax exemptions. The listing must include an estimate of the revenue lost from the tax exemption, the purpose of the tax exemption, the persons, organizations, or parts of the population which benefit from the tax exemption, and whether or not the tax exemption conflicts with another state program. The listing must include but not be limited to the following revenue sources:
+
+    a. Real and personal property tax exemptions under Title 84 RCW;
+
+    b. Business and occupation tax exemptions, deductions, and credits under chapter 82.04 RCW;
+
+    c. Retail sales and use tax exemptions under chapters 82.08, 82.12, and 82.14 RCW;
+
+    d. Public utility tax exemptions and deductions under chapter 82.16 RCW;
+
+    e. Food fish and shellfish tax exemptions under chapter 82.27 RCW;
+
+    f. Leasehold excise tax exemptions under chapter 82.29A RCW;
+
+    g. Motor vehicle and special fuel tax exemptions and refunds under chapter 82.38 RCW;
+
+    h. Aircraft fuel tax exemptions under chapter 82.42 RCW;
+
+        i. Motor vehicle excise tax exclusions under chapter 82.44 RCW; and
+
+    j. Insurance premiums tax exemptions under chapter 48.14 RCW.
+
+2. The department of revenue must prepare the listing required by this section with the assistance of any other agencies or departments as may be required.
+
+3. The department of revenue must present the listing to the ways and means committees of each house in public hearings.
+
+4. Beginning in January 2029, and every four years thereafter the governor is requested to review the report from the department of revenue and may submit recommendations to the legislature with respect to the repeal or modification of any tax exemption. The ways and means committees of each house and the appropriate standing committee of each house must hold public hearings and take appropriate action on the recommendations submitted by the governor.
+
+5. As used in this section, "tax exemption" means an exemption, exclusion, or deduction from the base of a tax; a credit against a tax; a deferral of a tax; or a preferential tax rate.
+
+## Section 6
+RCW 82.32.805 and 82.32.808 do not apply to this act.

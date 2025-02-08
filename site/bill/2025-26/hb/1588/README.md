@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32738&aId=163138&caId=25524&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32738&aId=163138&caId=25524&tId=4)
 
-#### 32 👍 - Pro
+#### 391 👍 - Pro
 Testifying:
 * Matt Steinman - Foothills Farm
 * Mike Dill - Coalition for Organic and Regenerative Agriculture (CORA) & Organically Grown Company
+* maynard mallonee - Organic Valley
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

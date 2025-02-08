@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 5: Reproductive freedom, gender-based violence prevention and a ban on tobacco products - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/07/this-week-in-the-senate-week-5-reproductive-freedom-gender-based-violence-prevention-and-a-ban-on-tobacco-products/#:~:text=SB%205192)
 * 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205192)
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205192)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205192)
@@ -25,7 +26,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163638&caId=25745&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163638&caId=25745&tId=4)
 
-#### 17 👍 - Pro
+#### 413 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Spokane, Evergreen, Vancouver, and Richland School Districts
 * Tim Merlino - ESD 112
@@ -34,11 +35,15 @@ Testifying:
 * Ismael Vivanco - Northwest Educational Service District 189, superintendent
 * Rob Roettger - Northeast WA Educational Service District 101, Superintendent
 * Kyle Rydell - West valley School District
+* Holly Muenchow - WSPTA - Washington State PTA
 * Lindsey Yocum - Board Director, Lake Washington School Districty
+* Andi Tress - Everett Public Schools
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* John Axtell
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5192 School district materials
 #### 2611 👍 - Pro

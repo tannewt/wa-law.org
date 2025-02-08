@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1462/</link>
 		<description>Updates about HB 1462</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -148,6 +148,20 @@
 			<pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-04/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-07/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>Duerr bill cuts potent greenhouse gases   – Washington State House Democrats</title>
+			<description>News article "Duerr bill cuts potent greenhouse gases   – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/07/duerr-bill-cuts-potent-greenhouse-gases/#:~:text=House%20Bill%201462</guid>
 		</item>
 	</channel>
 </rss>

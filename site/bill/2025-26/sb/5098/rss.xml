@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5098/</link>
 		<description>Updates about SB 5098</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 12:02:50 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -596,6 +596,13 @@
 			<pubDate>Fri, 31 Jan 2025 12:02:50 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/01/31/plans-for-new-gun-regulations-progress-in-washington-legislature/#:~:text=Senate%20Bill%205098</guid>
+		</item>
+		<item>
+			<title>Referred to Transportation.</title>
+			<description>Referred to Transportation.</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-07/Referred to Transportation.</guid>
 		</item>
 	</channel>
 </rss>

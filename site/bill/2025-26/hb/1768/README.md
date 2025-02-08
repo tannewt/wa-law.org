@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201768)
+
 ## Meetings
 ### Mon 02/10 01:30 PM - Housing (HOUS): HB 1768 Manuf. housing purchases
 Sign up to testify:
@@ -14,8 +17,8 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163183&caId=25625&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163183&caId=25625&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 
-#### 0 👎 - Con
+#### 64 👎 - Con
 
 #### 0 ❓ - Other

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201334)
 * 01/23/2025 [Senate Republicans](/org/senate_republicans/) - [AUDIO: 9th District Legislative update with Republican state Senator Mark Schoesler - Senate Republican Caucus](https://src.wastateleg.org/blog/audio-9th-district-legislative-update-republican-state-senator-mark-schoesler-2/#:~:text=SB%201334)
 
 ## Meetings
@@ -17,12 +18,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163098&caId=25601&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163098&caId=25601&tId=4)
 
-#### 15 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Angela Birney - Mayor, City of Redmond
 * Drew Nazarian - PROTEC17
 * Joe Bushnell - Councilmember, City of Tacoma
 
-#### 12 👎 - Con
+#### 108 👎 - Con
+Testifying:
+* John Axtell
+* Tad Sommerville
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 0 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5402/</link>
 		<description>Updates about SB 5402</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 30 Jan 2025 12:59:03 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 08 Feb 2025 01:26:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -212,6 +212,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Diego/Gonzalez/2025-01-30 12:59:03</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-07/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>Improving access to college and career training - Sen. Drew Hansen</title>
+			<description>News article "Improving access to college and career training - Sen. Drew Hansen" from Senate Democrats.</description>
+			<pubDate>Sat, 08 Feb 2025 01:26:10 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hansen/2025/02/07/3270/#:~:text=SB%205402,</guid>
 		</item>
 	</channel>
 </rss>

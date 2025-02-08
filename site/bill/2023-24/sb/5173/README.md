@@ -36,7 +36,7 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Fadi Assaf - Northwest Justice Project
+* Fadi Assaf - [Northwest Justice Project](/org/northwest_justice_project/)
 
 ### Wed 03/08 08:00 AM - Civil Rights & Judiciary (CRJ): ESSB 5173 Property exempt from exec.
 #### 34 👍 - Pro
@@ -67,4 +67,4 @@ Testifying:
 
 #### 1 ❓ - Other
 Testifying:
-* Fadi Assaf - Northwest Justice Project
+* Fadi Assaf - [Northwest Justice Project](/org/northwest_justice_project/)

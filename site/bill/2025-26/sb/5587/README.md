@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 02/07 10:30 AM - Housing (HSG): SB 5587 Affordable housing dev.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32700&aId=163024&caId=25504&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32700&aId=163024&caId=25504&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32700&aId=163024&caId=25504&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32700&aId=163024&caId=25504&tId=4)
-
-#### 278 👍 - Pro
+#### 280 👍 - Pro
 Testifying:
 * Matt Dittrich
 * Patrick Quinton - [City of Vancouver](/org/city_of_vancouver/)
@@ -24,6 +18,7 @@ Testifying:
 
 #### 54 👎 - Con
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

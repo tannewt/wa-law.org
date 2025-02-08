@@ -12,6 +12,8 @@
 
 ### [HB 1023](/bill/2025-26/hb/1023/) - Cosmetology compact 👍1  
 
+### [HB 1043](/bill/2025-26/hb/1043/) - Commute trip reduction 👍1  
+
 ### [HB 1044](/bill/2025-26/hb/1044/) - County REET admin. fees  👎1 
 
 ### [HB 1063](/bill/2025-26/hb/1063/) - Earned wage access services 👍1  
@@ -50,7 +52,7 @@
 ### [HB 1121](/bill/2025-26/hb/1121/) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 👍1  
 * 👍💵 Lindsey Hueer
 
-### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services.  👎1 
+### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement  👎1 
 * 👎💵 Emily Wittman
 
 ### [HB 1126](/bill/2025-26/hb/1126/) - Standardizing notification provisions relating to local tax rate changes and shared taxes administered by the department. 👍1  
@@ -185,6 +187,8 @@
 
 ### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees  👎1 
 
+### [HB 1641](/bill/2025-26/hb/1641/) - Definition of timberland 👍1  
+
 ### [HB 1643](/bill/2025-26/hb/1643/) - Utility facility removal   ❓1
 * ❓💵 Morgan Irwin
 
@@ -209,6 +213,10 @@
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth  👎1 
 * 👎💵 Peter Godlewski
 
+### [HB 1714](/bill/2025-26/hb/1714/) - Small business risk pooling 👍1  
+
+### [HB 1739](/bill/2025-26/hb/1739/) - Self-service checkout  👎1 
+
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
 * 👎💵 Lindsey Hueer
 
@@ -216,6 +224,12 @@
 * 👎💵 Lindsey Hueer
 
 ### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation  👎1 
+
+### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
+
+### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET  👎1 
+
+### [HB 1879](/bill/2025-26/hb/1879/) - Hospital worker breaks 👍1  
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
@@ -230,7 +244,7 @@
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers  👎1 
 
-### [SB 5054](/bill/2025-26/sb/5054/) - Winery tax exemption 👍1  
+### [SB 5054](/bill/2025-26/sb/5054/) - Winery tax exemption 👍1  ❓1
 
 ### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates   ❓1
 * ❓💵 Peter Godlewski

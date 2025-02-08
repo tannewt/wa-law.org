@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32781&aId=163706&caId=25766&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32781&aId=163706&caId=25766&tId=4)
 
-#### 1 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Erin Goodman - SODO Business Improvement Area
 

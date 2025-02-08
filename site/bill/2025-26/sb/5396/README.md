@@ -13,11 +13,11 @@
 ### Tue 01/28 10:30 AM - Labor & Commerce (LC): SB 5396 FAA medical certificates
 #### 6 👍 - Pro
 Testifying:
-* Adam Walker - Pilot Mental Health Campaign
+* Adam Walker - [Pilot Mental Health Campaign](/org/pilot_mental_health_campaign/)
 * Brad Maas - PIlot Mental Health Campaign
-* Brian Bomhoff - Pilot Mental Health Campaign
-* Dr. Keith Lemmon - Pilot Mental Health Campaign
-* Stephanie Day - Pilot Mental Health Campaign
+* Brian Bomhoff - [Pilot Mental Health Campaign](/org/pilot_mental_health_campaign/)
+* Dr. Keith Lemmon - [Pilot Mental Health Campaign](/org/pilot_mental_health_campaign/)
+* Stephanie Day - [Pilot Mental Health Campaign](/org/pilot_mental_health_campaign/)
 
 #### 0 👎 - Con
 

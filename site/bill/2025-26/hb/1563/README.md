@@ -14,7 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32739&aId=163141&caId=25527&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32739&aId=163141&caId=25527&tId=4)
 
-#### 53 👍 - Pro
+#### 96 👍 - Pro
+Testifying:
+* Chris Martin - WA Prescribed Fire Council
+* 💵Darcy Nonemacher - WA Conservation Action
+* Dylan Kruse - Sustainable NW
+* Emily Hohman - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Jay McLaughlin - Mt. Adams Resource Stewards
+* Ray Entz - Kalispel Tribe of Indians
+* Sara Clark - Shute, Mihaly & Weinberger
 
 #### 0 👎 - Con
 

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/06/2025 [The Center Square](/org/the_center_square/) - [Bill to remove medical debt from credit scores in Washington moves forward | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6a9d3f64-e500-11ef-b5a3-174832015b5b.html#:~:text=Senate%20Bill%205480)
@@ -20,7 +21,7 @@ Testifying:
 * Arthur West
 * 💵Adam Zarrin - [Leukemia & Lymphoma Society](/org/leukemia_&_lymphoma_society/)
 * Amanda Martin - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
-* Julia Kellison - Northwest Justice Project
+* Julia Kellison - [Northwest Justice Project](/org/northwest_justice_project/)
 * Kristopher Shook
 * Teddi McGuire - Providence
 * Kris Shook

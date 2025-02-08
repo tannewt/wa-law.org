@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Fri 02/07 10:30 AM - Environment, Energy & Technology (ENET): SB 5519 Ocean vessels/environment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162454&caId=25242&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162454&caId=25242&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162454&caId=25242&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162454&caId=25242&tId=4)
-
-#### 415 👍 - Pro
+#### 416 👍 - Pro
 Testifying:
 * Annemarie Dooley - Washington Physicians for Social Responsibility
 * Shahein Moussavi - Global Underwater Explorers Seattle

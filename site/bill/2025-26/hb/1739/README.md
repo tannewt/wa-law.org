@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201739)
+
 ## Meetings
 ### Wed 02/12 08:00 AM - Labor & Workplace Standards (LAWS): HB 1739 Self-service checkout
 Sign up to testify:
@@ -14,8 +17,8 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163344&caId=25633&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163344&caId=25633&tId=4)
 
-#### 79 👍 - Pro
+#### 98 👍 - Pro
 
-#### 7 👎 - Con
+#### 8 👎 - Con
 
 #### 0 ❓ - Other

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 5: Reproductive freedom, gender-based violence prevention and a ban on tobacco products - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/07/this-week-in-the-senate-week-5-reproductive-freedom-gender-based-violence-prevention-and-a-ban-on-tobacco-products/#:~:text=SB%205187)
 * 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205187)
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [The year of education funding - Sen. Lisa Wellman](https://senatedemocrats.wa.gov/wellman/2025/01/27/3072/#:~:text=a%20bill%20to%20address%20student%20transportation)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205187)
@@ -25,16 +26,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163637&caId=25744&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163637&caId=25744&tId=4)
 
-#### 9 👍 - Pro
+#### 449 👍 - Pro
 Testifying:
 * Flip Herndon - Capital Region Educational Service District 113, Superintendent
 * Ismael Vivanco - Northwest Educational Service District 189, Superintendent
 * Rob Roettger - Northeast WA Educational Service District 101, Superintendent
+* Angela Steck - Washington State PTA
+* Jennifer Ross
+* James Mellon
 * Lindsey Yocum - Board Director, Lake Washington School District
+* Andi Tress - Everett Public Schools
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5187 Student transportation
 #### 2453 👍 - Pro

@@ -55,7 +55,7 @@ Testifying:
 * Dana Cuomo - Lafayette College
 * Jolaine Joseph
 * Kelly Sampson - Brady Center to Prevent Gun Violence
-* Margaret MacRae - Northwest Justice Project
+* Margaret MacRae - [Northwest Justice Project](/org/northwest_justice_project/)
 * Julia Weber - Battered Women’s Justice Project
 * Riddhi Mukhopadhyay - Sexual Violence Law Center; Washington State Women's Commission
 * 💵Stephen Paolini

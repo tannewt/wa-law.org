@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5663/</link>
 		<description>Updates about SB 5663</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 05 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 04:59:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-05/First reading, referred to Higher Education &amp; Workforce Development.</guid>
+		</item>
+		<item>
+			<title>👍Johnston Lai - UW Paul G. Allen School for Computer Science &amp; Engineering</title>
+			<description>Johnston Lai signed up to testify Pro.</description>
+			<pubDate>Fri, 07 Feb 2025 04:59:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Johnston/Lai/2025-02-07 04:59:19</guid>
 		</item>
 	</channel>
 </rss>

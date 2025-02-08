@@ -1,7 +1,7 @@
 # Northwest Health Law Advocates
 ## 2025-26
 
-### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
+### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement 👍1  
 * 👍💵 Emily Brice
 
 ### [HB 1130](/bill/2025-26/hb/1130/) - Concerning utilization of developmental disabilities waivers. 👍1  

@@ -12,8 +12,9 @@
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 * 👍💵 Isela Bonilla
 
-### [HB 1751](/bill/2025-26/hb/1751/) - Course materials sales tax 👍1  
+### [HB 1751](/bill/2025-26/hb/1751/) - Course materials sales tax 👍2  
 * 👍 Fernanda Armas
+* 👍 Heba Qatrani
 
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 * 👍💵 Isela Bonilla

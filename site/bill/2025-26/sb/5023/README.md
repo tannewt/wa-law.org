@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [Standing strong, moving forward - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/02/07/standing-strong-moving-forward/#:~:text=SB%205023)
 * 01/20/2025 [Senate Democrats](/org/senate_democrats/) - [Propuesta de ley de Saldaña sobre derechos laborales de personas trabajadoras del hogar es presentada en comité  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/01/20/propuesta-de-ley-de-saldana-sobre-derechos-laborales-de-personas-trabajadoras-del-hogar-es-presentada-en-comite/#:~:text=Proyecto%20de%20Ley%20del%20Senado%205023)
 * 01/20/2025 [Senate Democrats](/org/senate_democrats/) - [Saldaña’s domestic workers’ bill of rights heard in committee  - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/01/20/saldanas-domestic-workers-bill-of-rights-heard-in-committee/#:~:text=Senate%20Bill%205023)
 * 01/13/2025 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2025 legislative session - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/01/13/kicking-off-the-2025-legislative-session/#:~:text=SB%205023)

@@ -38,7 +38,7 @@ Testifying:
 ### Mon 03/20 10:30 AM - Law & Justice (LAW): ESHB 1169 Legal financial obligations
 #### 188 👍 - Pro
 Testifying:
-* Karla Carlisle - Northwest Justice Project
+* Karla Carlisle - [Northwest Justice Project](/org/northwest_justice_project/)
 * Janel McFeat - Washington Statewide Reentry Council
 * 💵Kia Franklin - Stand for Children Washington
 * Meghan Grace - Debt Free Youth Justice Coalition

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1876/</link>
 		<description>Updates about HB 1876</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 08:21:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,29 @@
 			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-07/First reading, referred to Early Learning &amp; Human Services (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Early Learning &amp; Human Services.</title>
+			<description>First reading, referred to Early Learning &amp; Human Services.</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-07/First reading, referred to Early Learning &amp; Human Services.</guid>
+		</item>
+		<item>
+			<title>👎Conrad Reynoldson - Washington Civil &amp; Disability Advocate</title>
+			<description>Conrad Reynoldson signed up to testify Con. They are signed up to represent Washington Civil &amp; Disability Advocate.</description>
+			<pubDate>Fri, 07 Feb 2025 07:02:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Conrad/Reynoldson/2025-02-07 07:02:12</guid>
+		</item>
+		<item>
+			<title>👎💵Jean Hill - Washington State Catholic Conference</title>
+			<description>Jean Hill signed up to testify Con. They are signed up to represent Washington State Catholic Conference. They are a registered lobbyist.</description>
+			<pubDate>Fri, 07 Feb 2025 08:21:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jean/Hill/2025-02-07 08:21:57</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201719)
+
 ## Meetings
 ### Tue 02/11 01:30 PM - Consumer Protection & Business (CPB): HB 1719 Liquor licensee events
 Sign up to testify:

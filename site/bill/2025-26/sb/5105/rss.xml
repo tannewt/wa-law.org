@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5105/</link>
 		<description>Updates about SB 5105</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 08 Feb 2025 00:14:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -164,6 +164,20 @@
 			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-07/First reading, referred to Community Safety (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Community Safety.</title>
+			<description>First reading, referred to Community Safety.</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-07/First reading, referred to Community Safety.</guid>
+		</item>
+		<item>
+			<title>Week four recap: Bill updates, State Route 509 construction forum, and resources for immigrants and refugees - Sen. Tina Orwall</title>
+			<description>News article "Week four recap: Bill updates, State Route 509 construction forum, and resources for immigrants and refugees - Sen. Tina Orwall" from Senate Democrats.</description>
+			<pubDate>Sat, 08 Feb 2025 00:14:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/orwall/2025/02/07/week-four-recap-bill-updates-state-route-509-construction-forum-and-resources-for-immigrants-and-refugees/#:~:text=Senate%20Bill%205105</guid>
 		</item>
 	</channel>
 </rss>

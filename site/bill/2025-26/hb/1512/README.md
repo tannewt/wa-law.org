@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201512)
+
 ## Meetings
 ### Mon 02/10 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1512 Traffic safety
 Sign up to testify:
@@ -14,11 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32735&aId=163123&caId=25553&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32735&aId=163123&caId=25553&tId=4)
 
-#### 911 👍 - Pro
+#### 1183 👍 - Pro
 Testifying:
 * Maya Meisenzahl
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* John Choi - Ramsey County Attorney's Office
+* Kelly Moore - NYU Policing Project
+* Stacy Taeuber - WA Defenders Association
 
-#### 5 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Brian Smith - Chief of Police
 * David Sedelmeier

@@ -18,11 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163317&caId=25537&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163317&caId=25537&tId=4)
 
-#### 2 👍 - Pro
+#### 59 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 01/21 04:00 PM - Housing (HOUS): HB 1195 Housing & shelters
 #### 693 👍 - Pro

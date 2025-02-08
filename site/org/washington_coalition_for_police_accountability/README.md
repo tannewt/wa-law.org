@@ -15,14 +15,14 @@
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍2  
 * 👍 Shelly Washington
 
-## [SB 5584](/bill/2025-26/sb/5584/) - OII expansion/prosecutions 👍3  
+## [SB 5584](/bill/2025-26/sb/5584/) - Independent prosecutor 👍3  
 * 👍 Debbie Novak
 * 👍 Sonia Joseph
 * 👍 Trishandra Pickup
 
 ## 2023-24
 
-### [SB 5584](/bill/2023-24/sb/5584/) - OII expansion/prosecutions 👍3  
+### [SB 5584](/bill/2023-24/sb/5584/) - Independent prosecutor 👍3  
 * 👍 Debbie Novak
 * 👍 Sonia Joseph
 * 👍 Trishandra Pickup

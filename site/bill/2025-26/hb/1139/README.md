@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201139)
 * 01/14/2025 [The Center Square](/org/the_center_square/) - [Bill would toughen penalties for unlawful firearm possession | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_32ffc044-d2c8-11ef-8adc-4758397a78de.html#:~:text=House%20Bill%201139)
 
 ## Meetings
@@ -17,9 +18,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32736&aId=163128&caId=25555&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32736&aId=163128&caId=25555&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Teodorin Morca
+* Brett Gailey - [City of Lake Stevens](/org/city_of_lake_stevens/)
 
 #### 6 👎 - Con
 

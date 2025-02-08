@@ -35,9 +35,9 @@
 
 ### [HB 1105](/bill/2025-26/hb/1105/) - Exempting exclusive bargaining representatives for department of corrections employees from certain provisions related to coalition bargaining. 👍1  
 
-### [HB 1116](/bill/2025-26/hb/1116/) - Recognizing election day. 👍1  
+### [HB 1116](/bill/2025-26/hb/1116/) - Election day 👍1  
 
-### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍2  
+### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement 👍2  
 * 👍 Jared Mason-Gere
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board. 👍1  
@@ -199,7 +199,7 @@
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 
-### [HB 1642](/bill/2025-26/hb/1642/) - Pension plan choice 👍1  
+### [HB 1642](/bill/2025-26/hb/1642/) - Pension plan choice 👍2  
 * 👍 Jared Mason-Gere
 
 ### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent.  👎1 
@@ -210,6 +210,8 @@
 ### [HB 1676](/bill/2025-26/hb/1676/) - Charter school contracts  👎2 
 
 ### [HB 1754](/bill/2025-26/hb/1754/) - Medicare suppl./guaranteed 👍1  
+
+### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎4 
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -313,7 +315,7 @@
 * ❓💵 Simone Boe
 * ❓💵 Julie Salvi
 
-### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
+### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍2  
 
 ### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍1  
 
@@ -322,7 +324,7 @@
 
 ### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍1  
 
-### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍2  
+### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍3  
 * 👍💵 Julie Salvi
 
 ### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  
@@ -347,7 +349,7 @@
 
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍3  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍4  
 * 👍💵 Larry Delaney
 
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp.  👎1 
@@ -433,6 +435,8 @@
 
 ### [SB 5593](/bill/2025-26/sb/5593/) - School levies & local effort 👍1  
 * 👍💵 Julie Salvi
+
+### [SB 5596](/bill/2025-26/sb/5596/) - Interstate teacher compact 👍1  
 
 ## [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
 

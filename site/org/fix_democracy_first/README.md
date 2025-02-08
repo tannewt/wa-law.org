@@ -1,7 +1,7 @@
 # Fix Democracy First
 ## 2025-26
 
-### [HB 1116](/bill/2025-26/hb/1116/) - Recognizing election day. 👍2  
+### [HB 1116](/bill/2025-26/hb/1116/) - Election day 👍2  
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  
 
@@ -23,6 +23,8 @@
 ### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance 👍1  
 
 ### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims 👍1  
+
+### [HB 1782](/bill/2025-26/hb/1782/) - Campaign reporting timeline  👎1 
 
 ### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍1  
 

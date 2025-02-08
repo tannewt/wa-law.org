@@ -7,13 +7,14 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [House Democrats](/org/house_democrats/) - [Committee passes Walen bill to make clergy mandatory reporters  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/07/committee-passes-walen-bill-to-make-clergy-mandatory-reporters/#:~:text=House%20Bill%201211)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201211)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201211)
 * 01/28/2025 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers renew push to make clergy report child abuse • Washington State Standard](https://washingtonstatestandard.com/2025/01/28/washington-lawmakers-renew-push-to-make-clergy-report-child-abuse/#:~:text=House%20Bill%201211)
 
 ## Meetings
 ### Tue 02/04 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1211 Clergy, duty to report abuse
-#### 157 👍 - Pro
+#### 158 👍 - Pro
 Testifying:
 * Robert Fontana
 * Lori Fontana
@@ -44,6 +45,7 @@ Testifying:
 * Alex Ashley
 * Melanie Sakoda - SNAP, the Survivors Network of those Abused by Priests
 * Toni Roy - Heal Our Church
+* Jamila Taylor - Washington State Legislature
 
 #### 99 👎 - Con
 Testifying:

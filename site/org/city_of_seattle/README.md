@@ -102,7 +102,7 @@
 
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 
-### [SB 5584](/bill/2025-26/sb/5584/) - OII expansion/prosecutions 👍1  
+### [SB 5584](/bill/2025-26/sb/5584/) - Independent prosecutor 👍1  
 
 ## [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
 

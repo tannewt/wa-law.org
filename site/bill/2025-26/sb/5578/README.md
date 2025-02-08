@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163292&caId=25714&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163292&caId=25714&tId=4)
 
-#### 8 👍 - Pro
+#### 77 👍 - Pro
 Testifying:
 * Craig Loring - Customer
 
-#### 15 👎 - Con
+#### 208 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Patrick Connor - NFIB
+* Dana Neuts - Covington Chamber of Commerce
+* Brandon Cook
 
 #### 0 ❓ - Other

@@ -21,7 +21,7 @@ Testifying:
 #### 15 👎 - Con
 Testifying:
 * Christina Henry - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
-* Julia Kellison - Northwest Justice Project
+* Julia Kellison - [Northwest Justice Project](/org/northwest_justice_project/)
 * Molly Gallagher - Washington Statewide Poverty Action Network
 
 #### 0 ❓ - Other

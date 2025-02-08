@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5377/</link>
 		<description>Updates about SB 5377</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 05 Feb 2025 10:02:12 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 22:32:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -957,6 +957,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Isaac/Kastama/2025-02-05 10:02:12</guid>
+		</item>
+		<item>
+			<title>Standing strong, moving forward - Sen. Rebecca Saldaña</title>
+			<description>News article "Standing strong, moving forward - Sen. Rebecca Saldaña" from Senate Democrats.</description>
+			<pubDate>Fri, 07 Feb 2025 22:32:14 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/saldana/2025/02/07/standing-strong-moving-forward/#:~:text=SB%205377</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201696)
+
 ## Meetings
 ### Mon 02/10 01:30 PM - Housing (HOUS): HB 1696 Covenant homeownership prg.
 Sign up to testify:
@@ -14,10 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163181&caId=25623&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163181&caId=25623&tId=4)
 
-#### 10 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * LaKeisha Davis - Habitat for Humanity Spokane
+* Lisa DeBrock - WA State Housing Finance Commission
+* Patience M Malaba - HDC
+* Darryl Smith - HomeSight
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

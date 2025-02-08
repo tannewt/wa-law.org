@@ -6,7 +6,7 @@
 ### [HB 1131](/bill/2025-26/hb/1131/) - Clemency and pardons 👍1  
 * 👍 Waldo Waldron-Ramsey
 
-### [HB 1178](/bill/2025-26/hb/1178/) - Concerning sentencing enhancements. 👍2  
+### [HB 1178](/bill/2025-26/hb/1178/) - Sentencing enhancements 👍2  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 

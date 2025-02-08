@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32750&aId=163693&caId=25708&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32750&aId=163693&caId=25708&tId=4)
 
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Mike Graham-Squire - Washington Asociation for Substance Misuse and Violence Prevention (WASAVP)
+* 💵Kylie Peterson - WASAVP
+* Megan Moore - WA State Public Health Association
 
 #### 0 ❓ - Other

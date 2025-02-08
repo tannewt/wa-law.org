@@ -59,7 +59,7 @@ Testifying:
 * Kasey Burton - Tenant Law Center
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Terri Anderson - Tenants Union of Washington State
-* Christopher Brunetti - Northwest Justice Project
+* Christopher Brunetti - [Northwest Justice Project](/org/northwest_justice_project/)
 * Fonci Richardson - Not as an organization, just as a tenant who has a story worth hearing.
 * Christopher Hale
 * Seth Lockheart

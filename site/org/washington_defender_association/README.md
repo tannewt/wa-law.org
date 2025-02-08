@@ -7,7 +7,7 @@
 ### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍1  
 * 👍 Cindy Elsberry
 
-### [HB 1178](/bill/2025-26/hb/1178/) - Concerning sentencing enhancements. 👍1  
+### [HB 1178](/bill/2025-26/hb/1178/) - Sentencing enhancements 👍1  
 * 👍 Percy Levy
 
 ### [HB 1192](/bill/2025-26/hb/1192/) - DOC disciplinary hearings 👍1  

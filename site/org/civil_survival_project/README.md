@@ -5,7 +5,7 @@
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
-### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍1  
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍1  
 
 ### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍1  
 
@@ -18,7 +18,7 @@
 
 ### [HB 1166](/bill/2025-26/hb/1166/) - DOC reentry education 👍1  
 
-### [HB 1178](/bill/2025-26/hb/1178/) - Concerning sentencing enhancements. 👍1  
+### [HB 1178](/bill/2025-26/hb/1178/) - Sentencing enhancements 👍1  
 
 ### [HB 1233](/bill/2025-26/hb/1233/) - Concerning work programs for incarcerated persons. 👍1  
 

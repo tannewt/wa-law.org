@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Fri 02/07 01:30 PM - Finance (FIN): HB 1751 Course materials sales tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162998&caId=25499&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162998&caId=25499&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162998&caId=25499&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32634&aId=162998&caId=25499&tId=4)
-
-#### 71 👍 - Pro
+#### 76 👍 - Pro
 Testifying:
 * Sean Behl - Associated Students of the University of Washington and the Washington Student Association
 * Aditya Kumar
@@ -28,7 +22,8 @@ Testifying:
 * Peter Shen
 * Rachel Friend
 * Riley Gee
+* Heba Qatrani - [Washington Student Association](/org/washington_student_association/)
 
-#### 14 👎 - Con
+#### 16 👎 - Con
 
 #### 0 ❓ - Other

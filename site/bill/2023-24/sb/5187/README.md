@@ -34,7 +34,7 @@ Testifying:
 * Tonia McClanahan
 * Shelly Willis - Executive Director
 * Alexandra Deas - [Equal Justice Coalition](/org/equal_justice_coalition/)
-* Cesar Torres - Northwest Justice Project
+* Cesar Torres - [Northwest Justice Project](/org/northwest_justice_project/)
 * Drayton Jackson - Foundation for Homeless & Poverty Management/Communities of Concern Commission
 * Harald Hyllseth - Chief Seattle Club/Communities of Concern Commission
 * Josephine Tamayo Murray - Communities of Concern Commission
@@ -475,7 +475,7 @@ Testifying:
 * 💵Scott Nelson - Office of the Washington State Auditor
 * Sarah Beth Huot - Huot Law PLLC
 * Alexandra Deas - [Equal Justice Coalition](/org/equal_justice_coalition/)
-* César Torres - Northwest Justice Project
+* César Torres - [Northwest Justice Project](/org/northwest_justice_project/)
 * Anthony Powers - WDA/WACDL
 * Greg Link - WDA/WACDL
 * Jason Schwarz - WDA/WACDL
@@ -553,7 +553,7 @@ Testifying:
 #### 23 👍 - Pro
 Testifying:
 * Michael Mirra - Co-Chair of Housing & Child Welfare Committee of the Administrative Office of the Court
-* Alicia Kingston - Northwest Justice Project
+* Alicia Kingston - [Northwest Justice Project](/org/northwest_justice_project/)
 * Jane Pak - Snohomish County Legal Services
 * 💵Bob Cooper - WA Association of Drug Courts
 * 💵Erica Hallock - [Family Impact Network](/org/family_impact_network/)

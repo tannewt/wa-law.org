@@ -3,7 +3,7 @@
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
-### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍2  
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍2  
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
@@ -36,6 +36,8 @@
 * 👎 William Hairston
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍2  
+
+### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
 
 ## [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
 

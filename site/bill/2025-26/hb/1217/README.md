@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201217)
 * 02/05/2025 [The Center Square](/org/the_center_square/) - [Backers, critics debate bill to stop major investors from buying up single-family homes | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3a790074-e407-11ef-b124-ebd66a88bbb6.html#:~:text=House%20Bill%201217)
 * 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=SHB%201217)
 * 01/31/2025 [The Urbanist](/org/the_urbanist/) - [Rolling Out The Urbanist 2025’s Advocacy Agenda and Early Events - The Urbanist](https://www.theurbanist.org/2025/01/31/the-urbanist-2025s-advocacy-agenda/#:~:text=House%20Bill%201217)

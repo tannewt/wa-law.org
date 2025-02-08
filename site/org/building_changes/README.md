@@ -33,11 +33,15 @@
 
 ### [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market 👍1  
 
-## [SB 5542](/bill/2025-26/sb/5542/) - HS completers/CTC tuition 👍1  
+### [SB 5542](/bill/2025-26/sb/5542/) - HS completers/CTC tuition 👍1  
+
+## [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS 👍1  
+* 👍💵 Aaron Yared
 
 ## 2023-24
 
-### [SB 5542](/bill/2023-24/sb/5542/) - HS completers/CTC tuition 👍1  
+### [SB 5617](/bill/2023-24/sb/5617/) - Juvenile detention/CHINS 👍1  
+* 👍💵 Aaron Yared
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

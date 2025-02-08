@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/03 10:30 AM - Law & Justice (LAW): SB 5367 Law enf. community grants

@@ -1,11 +1,13 @@
 # Columbia Legal Services
 ## 2025-26
 
+### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct 👍1  
+
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
 ### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor. 👍1  
 
-### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍2  
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍2  
 
 ### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍1  
 
@@ -13,7 +15,7 @@
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
-### [HB 1178](/bill/2025-26/hb/1178/) - Concerning sentencing enhancements. 👍1  
+### [HB 1178](/bill/2025-26/hb/1178/) - Sentencing enhancements 👍1  
 
 ### [HB 1185](/bill/2025-26/hb/1185/) - Concerning membership on the correctional industries advisory committee. 👍1  
 
@@ -53,6 +55,8 @@
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍2  
 
 ### [HB 1400](/bill/2025-26/hb/1400/) - Officer certification 👍1  
+
+### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍1  
 
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
 
@@ -101,6 +105,8 @@
 
 ### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎1 
 * 👎💵 Ethan Frenchman
+
+### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
 
 ### [SB 5490](/bill/2025-26/sb/5490/) - Providing parameters for conducting searches of transgender and intersex individuals confined in a local jail in compliance with federal law. 👍1  
 * 👍💵 Ethan Frenchman

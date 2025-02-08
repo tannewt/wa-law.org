@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32787&aId=163535&caId=25668&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32787&aId=163535&caId=25668&tId=4)
 
-#### 10 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Roman Daniels-Brown - [Northwest Marine Trade Association](/org/northwest_marine_trade_association/)
+* Ian Wilkinson - Foss Harbor Marina
 
 #### 0 👎 - Con
 

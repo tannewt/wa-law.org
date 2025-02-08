@@ -20,6 +20,9 @@
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 * 👍💵 Justin Allegro
 
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  
+* 👍 Emily Hohman
+
 ### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
 
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  

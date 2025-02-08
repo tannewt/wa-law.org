@@ -15,7 +15,7 @@
 Testifying:
 * Rex Johnson - Washington Advocates for Patient Safety
 * 💵Noah Seidel - Office of Developmental Disabilities Ombuds
-* Adam Chromy - Northwest Justice Project
+* Adam Chromy - [Northwest Justice Project](/org/northwest_justice_project/)
 * Cathy McCaul - AARP
 * 💵Noah Seidel - Office of Developmental Disability Ombuds
 * Neil Degerstedt - Southwest Washington LTC Ombuds
@@ -60,7 +60,7 @@ Testifying:
 Testifying:
 * 💵Joanna Grist - AARP
 * 💵Patricia Hunter - WA State Long Term Care Ombuds
-* Adam Chromy - Northwest Justice Project
+* Adam Chromy - [Northwest Justice Project](/org/northwest_justice_project/)
 * Connie Holland
 * Nola Sterling
 * Susan Harter

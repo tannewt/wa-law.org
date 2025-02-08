@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1668/</link>
 		<description>Updates about HB 1668</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 19:05:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,45 @@
 			<pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-28/First reading, referred to Community Safety.</guid>
+		</item>
+		<item>
+			<title>👍Doug Chaput - WFSE Member</title>
+			<description>Doug Chaput signed up to testify Pro. They are signed up to represent WFSE Member.</description>
+			<pubDate>Fri, 07 Feb 2025 04:11:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Doug/Chaput/2025-02-07 04:11:12</guid>
+		</item>
+		<item>
+			<title>👍Jim Furchert - WFSE Member</title>
+			<description>Jim Furchert signed up to testify Pro. They are signed up to represent WFSE Member.</description>
+			<pubDate>Fri, 07 Feb 2025 04:11:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jim/Furchert/2025-02-07 04:11:12</guid>
+		</item>
+		<item>
+			<title>👍Scott Lee - WFSE Member</title>
+			<description>Scott Lee signed up to testify Pro. They are signed up to represent WFSE Member.</description>
+			<pubDate>Fri, 07 Feb 2025 04:11:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Lee/2025-02-07 04:11:12</guid>
+		</item>
+		<item>
+			<title>👍Nicholas Day - WFSE Member</title>
+			<description>Nicholas Day signed up to testify Pro.</description>
+			<pubDate>Fri, 07 Feb 2025 09:30:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nicholas/Day/2025-02-07 09:30:37</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 07 Feb 2025 19:05:49 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201668</guid>
 		</item>
 	</channel>
 </rss>

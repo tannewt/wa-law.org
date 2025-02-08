@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 02/07 10:30 AM - Environment, Energy & Technology (ENET): SB 5033 Biosolids/PFAS chemicals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162452&caId=25240&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162452&caId=25240&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162452&caId=25240&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32643&aId=162452&caId=25240&tId=4)
-
-#### 711 👍 - Pro
+#### 714 👍 - Pro
 Testifying:
 * Richard Honour
 * John Hancock - Spokane's West Plains Water Coalition

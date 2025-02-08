@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1291/</link>
 		<description>Updates about HB 1291</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 11:24:41 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -51,6 +51,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kathryn/Lewandowsky/2025-01-28 11:24:41</guid>
+		</item>
+		<item>
+			<title>HCW - Executive action taken by committee.</title>
+			<description>HCW - Executive action taken by committee.</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-07/HCW - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

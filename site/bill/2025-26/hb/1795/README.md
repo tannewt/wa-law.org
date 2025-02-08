@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201795)
+
 ## Meetings
 ### Mon 02/10 01:30 PM - Education (ED): HB 1795 Student restraint, isolation
 Sign up to testify:
@@ -14,11 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163276&caId=25582&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163276&caId=25582&tId=4)
 
-#### 12 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Diego Gonzalez
+* Dominick Ventresco - Pullman School District 267
 * Molly Lyman
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other

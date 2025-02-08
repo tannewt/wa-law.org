@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1381/</link>
 		<description>Updates about HB 1381</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 21 Jan 2025 11:46:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -62,6 +62,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Soumyo/Lahiri-Gupta/2025-01-21 11:46:00</guid>
+		</item>
+		<item>
+			<title>SGOV - Executive action taken by committee.</title>
+			<description>SGOV - Executive action taken by committee.</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-07/SGOV - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

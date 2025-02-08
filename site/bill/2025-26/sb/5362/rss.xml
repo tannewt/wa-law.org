@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5362/</link>
 		<description>Updates about SB 5362</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Feb 2025 09:17:08 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -156,6 +156,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jane/Smith/2025-02-03 09:17:08</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-07/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

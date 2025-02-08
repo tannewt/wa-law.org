@@ -14,13 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163679&caId=25609&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163679&caId=25609&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Nancy DeVaux
 * Paul Schissler - Madrona Community Development spc
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Amanda DeShazo - Tacoma-Pierce County Affordable Housing Consortium
 
-#### 1 👎 - Con
+#### 43 👎 - Con
 
 #### 0 ❓ - Other

@@ -39,4 +39,4 @@ Testifying:
 #### 3 ❓ - Other
 Testifying:
 * Philippe Knab - WA State Office of Civil Legal Aid
-* Matt Taylor - Northwest Justice Project
+* Matt Taylor - [Northwest Justice Project](/org/northwest_justice_project/)

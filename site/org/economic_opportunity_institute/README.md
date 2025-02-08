@@ -1,7 +1,7 @@
 # Economic Opportunity Institute
 ## 2025-26
 
-### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
+### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement 👍1  
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board. 👍1  
 
@@ -14,6 +14,8 @@
 ### [HB 1626](/bill/2025-26/hb/1626/) - PFML grants/school districts  👎1 
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
+
+### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards 👍1  
 
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍1  
 
@@ -40,13 +42,14 @@
 ### [SB 5561](/bill/2025-26/sb/5561/) - Health care entity registry 👍1  
 * 👍 Sam Hatzenbeler
 
-## [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍1  
+### [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍1  
 * 👍 Sam Hatzenbeler
+
+## [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
 
 ## 2023-24
 
-### [SB 5568](/bill/2023-24/sb/5568/) - State health plan 👍1  
-* 👍 Sam Hatzenbeler
+### [SB 5578](/bill/2023-24/sb/5578/) - Labor standards 👍1  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Traci Underwood

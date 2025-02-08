@@ -18,17 +18,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=4)
 
-#### 2 👍 - Pro
+#### 95 👍 - Pro
 
-#### 8 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Amy Harris - Clark County Matters
 * Emilie Cameron - Downtown Spokane Partnership
 * Rae-Lynn Barden - Downtown Spokane Partnership
 * Chris Batten
 * Salim Nice - Mayor, City Mercer Island
+* 💵Curtis Steinhauer - Washington Association of Counties
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 01/21 04:00 PM - Housing (HOUS): HB 1380 Public property regulations
 #### 606 👍 - Pro
@@ -37,7 +38,7 @@ Testifying:
 * 💵James Lovell - choose title
 * Colleen Hinton
 * 💵Jazmyn Clark - ACLU of Washington
-* Scott Crain - Northwest Justice Project
+* Scott Crain - [Northwest Justice Project](/org/northwest_justice_project/)
 * Sharyl Brown - Jewels Helping Hands
 * Po Leapai - Housing Alliance
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)

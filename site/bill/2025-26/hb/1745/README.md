@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201745)
+
 ## Meetings
 ### Tue 02/11 01:30 PM - State Government & Tribal Relations (SGOV): HB 1745 Election audits
 Sign up to testify:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5181/</link>
 		<description>Updates about SB 5181</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 16:51:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -521,6 +521,27 @@
 			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-07/First reading, referred to Education (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Education.</title>
+			<description>First reading, referred to Education.</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-07/First reading, referred to Education.</guid>
+		</item>
+		<item>
+			<title>NEWSFLASH: K-12 learning loss leaving our kids behind - Senate Republican Caucus</title>
+			<description>News article "NEWSFLASH: K-12 learning loss leaving our kids behind - Senate Republican Caucus" from Senate Republicans.</description>
+			<pubDate>Fri, 07 Feb 2025 12:51:30 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://src.wastateleg.org/blog/newsflash-k-12-learning-loss-leaving-kids-behind/#:~:text=Senate%20Bill%205181,</guid>
+		</item>
+		<item>
+			<title>Lynden School Board pushes back on bills that 'threaten' parental rights | Cascadia Daily News</title>
+			<description>News article "Lynden School Board pushes back on bills that 'threaten' parental rights | Cascadia Daily News" from Cascadia Daily News.</description>
+			<pubDate>Fri, 07 Feb 2025 16:51:21 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadiadaily.com/2025/feb/07/lynden-school-board-pushes-back-on-bills-that-threaten-parental-rights/#:~:text=Senate%20Bill%205181,</guid>
 		</item>
 	</channel>
 </rss>

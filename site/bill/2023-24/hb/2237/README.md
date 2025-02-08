@@ -19,7 +19,7 @@ Testifying:
 * 💵Elizabeth Hendren - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 * Alison Price - Rural Resources Victim Services
 * Em Stone - WA State Coalition Against Domestic Violence
-* Mary Welch - Northwest Justice Project
+* Mary Welch - [Northwest Justice Project](/org/northwest_justice_project/)
 * Grace she/her
 * Chandra Ifie
 * Judge Janet Helson - Superior Court Judges' Association

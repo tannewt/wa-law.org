@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Fri 02/07 10:30 AM - Local Government (LG): HB 1684 Water recreation facilities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32637&aId=163675&caId=25522&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32637&aId=163675&caId=25522&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32637&aId=163675&caId=25522&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32637&aId=163675&caId=25522&tId=4)
-
 #### 3 👍 - Pro
 Testifying:
 * 💵Morgan Irwin - AWB

@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163691&caId=25696&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163691&caId=25696&tId=4)
 
-#### 31 👍 - Pro
+#### 107 👍 - Pro
 Testifying:
 * Christian Smith
 * John Caner
 * Kim Hickman - WaCCRA Washington Continuing Care Residents Association
 * Laura Saunders - WaCCRA Washington Continuing Care Residents Association
 * Mary Baroni - WaCCRA Washington Continuing Care Residents Association
+* Monica Clement - WACCRA (Washington Continuing Care Residents Association)
 
 #### 0 👎 - Con
 

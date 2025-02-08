@@ -25,7 +25,7 @@ Testifying:
 * Will Aronin - [Institute for Justice](/org/institute_for_justice/)
 * Jessica Puckett
 * 💵Daniel Lugo
-* Karen Phillips - Northwest Justice Project
+* Karen Phillips - [Northwest Justice Project](/org/northwest_justice_project/)
 
 #### 62 👎 - Con
 Testifying:

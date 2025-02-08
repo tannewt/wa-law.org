@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1211/</link>
 		<description>Updates about HB 1211</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 10:17:46 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 12:33:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -329,6 +329,28 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Eric/Kniffin/2025-02-04 10:17:46</guid>
+		</item>
+		<item>
+			<title>ELHS - Executive action taken by committee.</title>
+			<description>ELHS - Executive action taken by committee.</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-07/ELHS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Committee passes Walen bill to make clergy mandatory reporters  – Washington State House Democrats</title>
+			<description>News article "Committee passes Walen bill to make clergy mandatory reporters  – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/07/committee-passes-walen-bill-to-make-clergy-mandatory-reporters/#:~:text=House%20Bill%201211</guid>
+		</item>
+		<item>
+			<title>👍Jamila Taylor - Washington State Legislature</title>
+			<description>Jamila Taylor signed up to testify Pro. They are signed up to represent Washington State Legislature.</description>
+			<pubDate>Fri, 07 Feb 2025 12:33:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jamila/Taylor/2025-02-07 12:33:12</guid>
 		</item>
 	</channel>
 </rss>

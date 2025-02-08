@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [Robinson bill seeks to limit corporate influence in patient care - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/07/robinson-bill-seeks-to-limit-corporate-influence-in-patient-care/#:~:text=Senate%20Bill%205387)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [Robinson bill seeks to limit corporate influence in patient care - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/07/robinson-bill-seeks-to-limit-corporate-influence-in-patient-care/#:~:text=Senate%20Bill%205387)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [What’s happening in Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/04/whats-happening-in-olympia/#:~:text=Senate%20Bill%205387)
 * 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 4: Housing, job security, consumer protection and floor action - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/02/this-week-in-the-senate-week-4-housing-job-security-consumer-protection-and-floor-action/#:~:text=Senate%20Bill%205387)

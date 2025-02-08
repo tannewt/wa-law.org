@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32761&aId=163238&caId=25575&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32761&aId=163238&caId=25575&tId=4)
 
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Jim Theofelis - NorthStar Advocates
 * 💵Casey Trupin - Raikes Foundation
+* Angela Cruze - Lived Expert
+* Kim Justice - Partners for Our Children
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
 #### 0 ❓ - Other

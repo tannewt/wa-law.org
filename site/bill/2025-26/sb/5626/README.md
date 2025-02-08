@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [Standing strong, moving forward - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/02/07/standing-strong-moving-forward/#:~:text=SB%205626)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Saldaña legislation to provide wage replacement program for excluded workers to be heard in committee - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/02/04/saldana-legislation-to-provide-wage-replacement-program-for-excluded-workers-to-be-heard-in-committee/#:~:text=Senate%20Bill%205626)
 
 ## Meetings

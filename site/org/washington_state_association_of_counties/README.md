@@ -13,7 +13,7 @@
 ### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor.   ❓1
 * ❓💵 Brad Banks
 
-### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice.  👎1 
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification  👎1 
 * 👎💵 Brad Banks
 
 ### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act.   ❓1
@@ -36,7 +36,7 @@
 ### [HB 1188](/bill/2025-26/hb/1188/) - Requiring local government and tribal approval of wind and solar siting recommendations by the energy facility site evaluation council. 👍1  
 * 👍💵 Kelsey Hulse
 
-### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓1
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓2
 * ❓💵 Curtis Steinhauer
 
 ### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040. 👍1  
@@ -121,6 +121,9 @@
 ### [HB 1742](/bill/2025-26/hb/1742/) - Urban design/environment 👍1  
 * 👍💵 Kelsey Hulse
 
+### [HB 1818](/bill/2025-26/hb/1818/) - Administration of plats   ❓1
+* ❓💵 Curtis Steinhauer
+
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 
 ### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel  👎1 
@@ -203,13 +206,22 @@
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 * 👍 BRIAN ENSLOW
 
-## [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
+### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev.   ❓1
+* ❓💵 Curtis Steinhauer
+
+### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
 * 👍💵 Curtis Steinhauer
+
+### [SB 5613](/bill/2025-26/sb/5613/) - Residential development   ❓1
+* ❓💵 Curtis Steinhauer
+
+## [SB 5614](/bill/2025-26/sb/5614/) - Impact fees  👎1 
+* 👎💵 Curtis Steinhauer
 
 ## 2023-24
 
-### [SB 5591](/bill/2023-24/sb/5591/) - Affordable housing/sales tax 👍1  
-* 👍💵 Curtis Steinhauer
+### [SB 5614](/bill/2023-24/sb/5614/) - Impact fees  👎1 
+* 👎💵 Curtis Steinhauer
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

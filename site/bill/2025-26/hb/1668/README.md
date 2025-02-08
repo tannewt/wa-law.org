@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201668)
+
 ## Meetings
 ### Thu 02/13 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1668 Community custody
 Sign up to testify:
@@ -14,7 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163136&caId=25559&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163136&caId=25559&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Doug Chaput - WFSE Member
+* Jim Furchert - WFSE Member
+* Scott Lee - WFSE Member
+* Nicholas Day
 
 #### 2 👎 - Con
 

@@ -12,7 +12,7 @@
 * [HB 1143](hb/1143) - Firearms/purchase & transfer 43📰 3402👍 8858👎 16❓ - C 161 L 23
 * [HB 1469](hb/1469) - Health care services/access 32📰 6406👍 4534👎 9❓ - C 193 L 23
 * [HB 2114](hb/2114) - Residential tenants 58📰 7035👍 3700👎 50❓ - HRules 3C
-* [SB 5599](sb/5599) - Protected health care/youth 36📰 569👍 9854👎 28❓ - C 408 L 23
+* [SB 5599](sb/5599) - Protected health care/youth 37📰 569👍 9854👎 28❓ - C 408 L 23
 * [SB 5078](sb/5078) - Firearm industry duties 24📰 3527👍 6551👎 3❓ - C 163 L 23
 * [HB 1038](hb/1038) - Anesthesiologist assistants 1📰 2398👍 6105👎 38❓ - HHC/Wellness
 * [SB 5770](sb/5770) - Property tax 36📰 516👍 7579👎 203❓ - SRules X

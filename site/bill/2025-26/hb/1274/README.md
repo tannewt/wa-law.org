@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/06/2025 [House Democrats](/org/house_democrats/) - [Stearns bill to retroactively remove juvenile points from adult sentencing passes committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/06/stearns-bill-to-retroactively-remove-juvenile-points-from-adult-sentencing-passes-committee/#:~:text=HB%201274)

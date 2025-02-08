@@ -4,7 +4,7 @@
 ### [HB 1030](/bill/2025-26/hb/1030/) - Counted ballot audits 👍1  
 * 👍 Steve Hobbs
 
-### [HB 1116](/bill/2025-26/hb/1116/) - Recognizing election day. 👍2  
+### [HB 1116](/bill/2025-26/hb/1116/) - Election day 👍2  
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  
 * 👍 Steve Hobbs
@@ -64,13 +64,14 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Steve Hobbs
 
-## [SB 5225](/bill/2025-26/sb/5225/) - Candidate filing   ❓1
+### [SB 5225](/bill/2025-26/sb/5225/) - Candidate filing   ❓1
 * ❓ Brian Hatfield
+
+## [SB 5684](/bill/2025-26/sb/5684/) - Electioneering/auditors 👍1  
 
 ## 2023-24
 
-### [SB 5225](/bill/2023-24/sb/5225/) - Candidate filing   ❓1
-* ❓ Brian Hatfield
+### [SB 5684](/bill/2023-24/sb/5684/) - Electioneering/auditors 👍1  
 
 ### [HB 1031](/bill/2023-24/hb/1031/) - Medal of valor award 👍1  
 * 👍 Brian Hatfield

@@ -11,18 +11,13 @@
 
 ## Meetings
 ### Fri 02/07 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1735 Force-feeding of birds
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32649&aId=163045&caId=25510&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32649&aId=163045&caId=25510&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32649&aId=163045&caId=25510&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32649&aId=163045&caId=25510&tId=4)
-
-#### 324 👍 - Pro
+#### 347 👍 - Pro
 Testifying:
 * Amanda Fox - Animal Rights Initiative
 * Jennifer Mathison - Rooster Haus Rescue
 * Wendy Linton
 * Colburn Clark
+* 💵Kirsten Gregory - [Pasado's Safe Haven](/org/pasado's_safe_haven/)
 
 #### 62 👎 - Con
 Testifying:

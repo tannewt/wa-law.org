@@ -17,7 +17,7 @@ Testifying:
 * Patrick Johansen - RiseUpWA, Housing Justice Committee
 * Christina Henry
 * DENISE Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
-* Meredith Bruch - Northwest Justice Project
+* Meredith Bruch - [Northwest Justice Project](/org/northwest_justice_project/)
 * Robert McDonald - Quality Loan Service Corp.
 
 #### 0 👎 - Con
@@ -29,7 +29,7 @@ Testifying:
 Testifying:
 * RAELENE SCHIFANO - HOA FIGHTCLUB NONPROFIT
 * Christina Henry
-* Meredith Bruch - Northwest Justice Project
+* Meredith Bruch - [Northwest Justice Project](/org/northwest_justice_project/)
 * Lance Olsen
 * DENISE Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * DENISE Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)

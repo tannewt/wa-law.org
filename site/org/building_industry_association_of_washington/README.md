@@ -52,6 +52,9 @@
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎2 
 * 👎💵 Andrea Smiley
 
+### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth  👎1 
+* 👎💵 Jan Himebaugh
+
 ### [HB 1353](/bill/2025-26/hb/1353/) - ADU self-certification 👍1  
 * 👍💵 Andrea Smiley
 

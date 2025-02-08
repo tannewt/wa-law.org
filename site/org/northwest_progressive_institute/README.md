@@ -3,7 +3,7 @@
 
 ### [HB 1032](/bill/2025-26/hb/1032/) - School district elections 👍1  
 
-### [HB 1116](/bill/2025-26/hb/1116/) - Recognizing election day. 👍1  
+### [HB 1116](/bill/2025-26/hb/1116/) - Election day 👍1  
 * 👍 Andrew Villeneuve
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  

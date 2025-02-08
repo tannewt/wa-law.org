@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1722/</link>
 		<description>Updates about HB 1722</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 19:05:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,53 @@
 			<pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-29/First reading, referred to Labor &amp; Workplace Standards.</guid>
+		</item>
+		<item>
+			<title>👍Angela Nemeth - Tri-Tech Skills Center</title>
+			<description>Angela Nemeth signed up to testify Pro. They are signed up to represent Tri-Tech Skills Center.</description>
+			<pubDate>Fri, 07 Feb 2025 01:53:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Angela/Nemeth/2025-02-07 01:53:39</guid>
+		</item>
+		<item>
+			<title>👍Ethan Wodehouse - Tri-Tech Skills Center</title>
+			<description>Ethan Wodehouse signed up to testify Pro. They are signed up to represent Tri-Tech Skills Center.</description>
+			<pubDate>Fri, 07 Feb 2025 01:53:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ethan/Wodehouse/2025-02-07 01:53:39</guid>
+		</item>
+		<item>
+			<title>👍Nathen Allington - Tri-Tech Skills Center</title>
+			<description>Nathen Allington signed up to testify Pro. They are signed up to represent Tri-Tech Skills Center.</description>
+			<pubDate>Fri, 07 Feb 2025 01:53:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nathen/Allington/2025-02-07 01:53:39</guid>
+		</item>
+		<item>
+			<title>👍Paul Randall - Tri-Tech Skills Center</title>
+			<description>Paul Randall signed up to testify Pro. They are signed up to represent Tri-Tech Skills Center.</description>
+			<pubDate>Fri, 07 Feb 2025 01:53:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paul/Randall/2025-02-07 01:53:39</guid>
+		</item>
+		<item>
+			<title>👍John Axtell - Tri-Tech Skills Center</title>
+			<description>John Axtell signed up to testify Pro.</description>
+			<pubDate>Fri, 07 Feb 2025 03:57:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Axtell/2025-02-07 03:57:35</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 07 Feb 2025 19:05:49 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201722</guid>
 		</item>
 	</channel>
 </rss>

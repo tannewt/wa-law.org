@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201721)
+
 ## Meetings
 ### Fri 02/14 08:00 AM - Consumer Protection & Business (CPB): HB 1721 Zero emissions vehicles/sale
 Sign up to testify:
@@ -14,15 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163515&caId=25570&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163515&caId=25570&tId=4)
 
-#### 10 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Dwight Bickel - consumers
 
-#### 319 👎 - Con
+#### 570 👎 - Con
 Testifying:
 * Curt Augustine - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 * 💵Jeffrey Perry - General Motors
 * Nicolina Hernandez - Toyota Motor North America
+* Jen Moran - Carter Motors; Washington State Auto Dealers Association
+* Matthew Phillips - Car Pros Automotive Group; Washington State Auto Dealers Association
+* Susan Daaga - Washington State Auto Dealers Association
+* Jaclyn Midkiff - Harvest Auto Group; Washington State Auto Dealers Association
+* Joel Olsen - CDJR of Walla Walla; Washington State Auto Dealers Association
 * Alyssa Silhi - Ford Motor Company
 * Craig Orlan
 * Matt Erwin - Mazda North American Operations

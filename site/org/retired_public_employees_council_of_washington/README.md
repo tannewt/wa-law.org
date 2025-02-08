@@ -4,7 +4,7 @@
 ### [HB 1040](/bill/2025-26/hb/1040/) - Rental income/property tax 👍1  
 * 👍💵 Laurie Weidner
 
-### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍23  
+### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement 👍23  
 * 👍💵 Laurie Weidner
 
 ### [HB 1165](/bill/2025-26/hb/1165/) - Property tax exemptions 👍2  

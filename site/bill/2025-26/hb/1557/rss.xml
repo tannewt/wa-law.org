@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1557/</link>
 		<description>Updates about HB 1557</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 08:18:01 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 08 Feb 2025 01:26:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -146,6 +146,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Troy/Nichols/2025-02-04 08:18:01</guid>
+		</item>
+		<item>
+			<title>Improving access to college and career training - Sen. Drew Hansen</title>
+			<description>News article "Improving access to college and career training - Sen. Drew Hansen" from Senate Democrats.</description>
+			<pubDate>Sat, 08 Feb 2025 01:26:10 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hansen/2025/02/07/3270/#:~:text=HB%201557.</guid>
 		</item>
 	</channel>
 </rss>

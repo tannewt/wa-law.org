@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1276/</link>
 		<description>Updates about HB 1276</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 06 Feb 2025 09:51:44 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 19:05:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,29 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Anthony/Mixer/2025-02-06 09:51:44</guid>
+		</item>
+		<item>
+			<title>👍Mark McAvoy - City of Liberty Lake</title>
+			<description>Mark McAvoy signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_liberty_lake/"&gt;City of Liberty Lake&lt;/a&gt;.</description>
+			<pubDate>Fri, 07 Feb 2025 09:31:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mark/McAvoy/2025-02-07 09:31:43</guid>
+		</item>
+		<item>
+			<title>❓Patrick Hinds - King County Prosecuting Attorney's Office</title>
+			<description>Patrick Hinds signed up to testify Other. They are signed up to represent King County Prosecuting Attorney's Office.</description>
+			<pubDate>Fri, 07 Feb 2025 11:08:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Patrick/Hinds/2025-02-07 11:08:43</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 07 Feb 2025 19:05:49 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201276</guid>
 		</item>
 	</channel>
 </rss>

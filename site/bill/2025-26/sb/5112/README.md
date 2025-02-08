@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163571&caId=25690&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163571&caId=25690&tId=4)
 
-#### 190 👍 - Pro
+#### 437 👍 - Pro
 Testifying:
 * Erick Clodfelter - 2211 South Star Lake rd
 * Erick Clodfelter - 2211 South Star Lake Road
@@ -22,9 +22,12 @@ Testifying:
 * Sarah Mullin
 * Karen Atwood - Washington State Association of the Deaf
 * Brandon Henscheid
+* Amanda Wills
+* Liliana Baciuc
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Victoria Harris MD
+* Neeru Bakshi
 
 #### 0 ❓ - Other

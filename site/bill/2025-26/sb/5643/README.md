@@ -18,4 +18,6 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Patrick Dowd - Washington State Office of the Family and Children's Ombuds

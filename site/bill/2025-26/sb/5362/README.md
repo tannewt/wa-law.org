@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/31/2025 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [Emergency Temp Home Page – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/emergency-temp-home-page/#:~:text=SB%205362)

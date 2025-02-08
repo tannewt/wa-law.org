@@ -17,7 +17,7 @@ Testifying:
 #### 18 👎 - Con
 Testifying:
 * Bruce McClary - National Foundation for Credit Counseling
-* Julia Kellison - Northwest Justice Project
+* Julia Kellison - [Northwest Justice Project](/org/northwest_justice_project/)
 * Rebecca House
 * Amanda Martin - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
 * Barbara Maxwell

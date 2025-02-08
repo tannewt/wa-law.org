@@ -1,18 +1,18 @@
 # Washington Innocence Project
 ## 2025-26
 
-### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍1  
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍1  
 
 ### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍1  
 
 ### [HB 1138](/bill/2025-26/hb/1138/) - Improving public safety by implementing evidence-based interview practices that increase the reliability of statements collected during criminal investigations. 👍2  
 * 👍💵 Lara Zarowsky
 
-## [HB 1178](/bill/2025-26/hb/1178/) - Concerning sentencing enhancements. 👍1  
+## [HB 1178](/bill/2025-26/hb/1178/) - Sentencing enhancements 👍1  
 
 ## 2023-24
 
-### [HB 1178](/bill/2023-24/hb/1178/) - Concerning sentencing enhancements. 👍1  
+### [HB 1178](/bill/2023-24/hb/1178/) - Sentencing enhancements 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 * 👍💵 Lara Zarowsky

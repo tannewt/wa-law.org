@@ -9,7 +9,7 @@
 
 ### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor. 👍1  
 
-### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍4  
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍4  
 * 👍💵 Rachael Seevers
 * 👍💵 Rachael Seevers
 

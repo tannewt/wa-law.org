@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201414)
+
 ## Meetings
 ### Tue 02/11 04:00 PM - Education (ED): HB 1414 CTE careers work group
 Sign up to testify:
@@ -14,10 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163278&caId=25584&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163278&caId=25584&tId=4)
 
-#### 2 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * Ethan Kuruvilla - EquiFinancials
 * Yash Kothari - EquiFinancials
+* John Axtell
+* Angela Nemeth - Tri-Tech Skills Center
+* Ethan Wodehouse - Tri-Tech Skills Center
+* Nathen Allington - Tri-Tech Skills Center
+* Paul Randall - Tri-Tech Skills Center
 
 #### 0 👎 - Con
 

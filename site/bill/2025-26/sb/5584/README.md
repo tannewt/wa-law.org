@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5584](/bill/2025-26/sb/5584/)
 
-# SB 5584 - OII expansion/prosecutions
+# SB 5584 - Independent prosecutor
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5584&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/04 08:00 AM - Law & Justice (LAW): SB 5584 OII expansion/prosecutions

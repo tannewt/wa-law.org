@@ -3,7 +3,7 @@
 
 ### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct 👍1  
 
-### [HB 1125](/bill/2025-26/hb/1125/) - Providing judicial discretion to modify sentences in the interest of justice. 👍4  
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍4  
 * 👍💵 Kristin Ang
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
@@ -17,6 +17,8 @@
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍7  
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
+
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
 * 👍💵 Kristin Ang

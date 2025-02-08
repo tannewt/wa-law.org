@@ -150,11 +150,16 @@
 ### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎1 
 * 👎💵 Candice Bock
 
+### [HB 1765](/bill/2025-26/hb/1765/) - Subscriber emails/PRA 👍1  
+* 👍💵 Candice Bock
+
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 * 👍💵 Carl Schroeder
 
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
 * 👍💵 Carl Schroeder
+
+### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 * 👍💵 Carl Schroeder

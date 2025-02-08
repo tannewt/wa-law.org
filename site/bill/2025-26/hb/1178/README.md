@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1178](/bill/2025-26/hb/1178/)
 
-# HB 1178 - Concerning sentencing enhancements.
+# HB 1178 - Sentencing enhancements
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1178&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/26/2025 [MyNorthwest](/org/mynorthwest/) - [Dems wants lighter sentences, cites too many Black offenders](https://mynorthwest.com/ktth/ktth-opinion/lighter-sentences-black-jail/4034441#:~:text=House%20Bill%201178)

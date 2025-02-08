@@ -22,7 +22,7 @@
 #### 206 👍 - Pro
 Testifying:
 * 💵Edmund Witter - [King County Bar Association](/org/king_county_bar_association/)
-* Adam Paczkowski - Northwest Justice Project
+* Adam Paczkowski - [Northwest Justice Project](/org/northwest_justice_project/)
 
 #### 9 👎 - Con
 

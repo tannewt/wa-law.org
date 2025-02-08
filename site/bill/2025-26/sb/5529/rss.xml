@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5529/</link>
 		<description>Updates about SB 5529</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Feb 2025 10:04:43 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 12:51:30 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Steven/Drew/2025-02-03 10:04:43</guid>
+		</item>
+		<item>
+			<title>NEWSFLASH: K-12 learning loss leaving our kids behind - Senate Republican Caucus</title>
+			<description>News article "NEWSFLASH: K-12 learning loss leaving our kids behind - Senate Republican Caucus" from Senate Republicans.</description>
+			<pubDate>Fri, 07 Feb 2025 12:51:30 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://src.wastateleg.org/blog/newsflash-k-12-learning-loss-leaving-kids-behind/#:~:text=SB%205529</guid>
 		</item>
 	</channel>
 </rss>

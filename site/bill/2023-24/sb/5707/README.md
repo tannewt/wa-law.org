@@ -12,7 +12,7 @@
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Edmund Witter - [King County Bar Association](/org/king_county_bar_association/)
-* Scott Crain - Northwest Justice Project
+* Scott Crain - [Northwest Justice Project](/org/northwest_justice_project/)
 
 #### 242 👎 - Con
 Testifying:

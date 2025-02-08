@@ -16,9 +16,11 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/11 04:00 PM - Ways & Means (WM): SB 5054 Winery tax exemption
 Sign up to testify:

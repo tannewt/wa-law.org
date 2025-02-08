@@ -15,7 +15,7 @@ Testifying:
 * Madison Zack-Wu - Strippers Are Workers
 * Commissioner Barbara McInvaille - Superior Court Judges' Association
 * Judge Alicia Burton - Superior Court Judges' Association
-* Mary Welch - Northwest Justice Project
+* Mary Welch - [Northwest Justice Project](/org/northwest_justice_project/)
 * Gaston Shelton
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
 * Karin White - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)

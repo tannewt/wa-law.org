@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201777)
 * [House Republicans](/org/house_republicans/) - [Stronger Economy | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/stronger-economy/#:~:text=House%20Bill%201777)
 * [House Republicans](/org/house_republicans/) - [Stronger Economy | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/stronger-economy/#:~:text=House%20Bill%201777)
 
@@ -18,11 +19,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32775&aId=163331&caId=25645&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32775&aId=163331&caId=25645&tId=4)
 
-#### 35 👍 - Pro
+#### 158 👍 - Pro
 Testifying:
 * Nathan Turner - Alpha and Omega Electric
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* Timothy Rockwell - Rockwell Electric, Inc. Apprenticeship and Training
+* Kyle Johnson - 4J Electric Inc.
+* John Axtell
 
-#### 77 👎 - Con
+#### 456 👎 - Con
+Testifying:
+* Kaley Henneman
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

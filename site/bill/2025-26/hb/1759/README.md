@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/08/2025 [Washington State Standard](/org/washington_state_standard/) - [Seahawks fans may get a state-recognized day • Washington State Standard](https://washingtonstatestandard.com/2025/02/07/seahawks-fans-may-get-a-state-recognized-day/#:~:text=House%20Bill%201759)
 * 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201759)
 
 ## Meetings

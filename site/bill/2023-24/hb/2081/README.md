@@ -12,7 +12,7 @@
 #### 15 👍 - Pro
 Testifying:
 * Mary Veneziani
-* Malena Pinkham - Northwest Justice Project
+* Malena Pinkham - [Northwest Justice Project](/org/northwest_justice_project/)
 * Blythe Chandler - Terrell Marshall Law Group
 * Mary Veneziani
 * 💵Emily Murphy - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)

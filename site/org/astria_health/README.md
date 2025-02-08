@@ -1,7 +1,7 @@
 # Astria Health
 ## 2025-26
 
-### [HB 1123](/bill/2025-26/hb/1123/) - Ensuring access to primary care, behavioral health, and affordable hospital services.  👎1 
+### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement  👎1 
 
 ## [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services.  👎2 
 * 👎 Brian Gibbons

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1182/</link>
 		<description>Updates about HB 1182</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 05 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 07:55:55 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -81,6 +81,14 @@
 			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-05/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍Alicia Burki - WFSE-Local 1466</title>
+			<description>Alicia Burki signed up to testify Pro. They are signed up to represent WFSE-Local 1466.</description>
+			<pubDate>Fri, 07 Feb 2025 07:55:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alicia/Burki/2025-02-07 07:55:55</guid>
 		</item>
 	</channel>
 </rss>

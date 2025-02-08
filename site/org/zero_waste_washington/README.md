@@ -29,6 +29,9 @@
 ### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍2  
 * 👍💵 Heather Trim
 
+### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍1  
+* 👍💵 Heather Trim
+
 ### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
 * 👍💵 Heather Trim
 

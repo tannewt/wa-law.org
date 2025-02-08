@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32750&aId=163285&caId=25705&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32750&aId=163285&caId=25705&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * 💵Brad Tower - [Washington Liquor Store Association](/org/washington_liquor_store_association/)
 
-#### 4 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Andrea McNeely - Association of Washington Wine and Spirits Distributors
 
 #### 0 ❓ - Other

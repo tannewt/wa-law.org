@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5009/</link>
 		<description>Updates about SB 5009</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 06 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Feb 2025 12:51:30 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -66,6 +66,29 @@
 			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-06/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍John Axtell - Conservative Ladies of Washington</title>
+			<description>John Axtell signed up to testify Pro.</description>
+			<pubDate>Fri, 07 Feb 2025 04:46:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Axtell/2025-02-07 04:46:15</guid>
+		</item>
+		<item>
+			<title>👍Robert Maxwell - Superintendent  Bob Maxwell Pullman Public Schools</title>
+			<description>Robert Maxwell signed up to testify Pro. They are signed up to represent Superintendent  Bob Maxwell Pullman Public Schools.</description>
+			<pubDate>Fri, 07 Feb 2025 05:05:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Robert/Maxwell/2025-02-07 05:05:37</guid>
+		</item>
+		<item>
+			<title>NEWSFLASH: K-12 learning loss leaving our kids behind - Senate Republican Caucus</title>
+			<description>News article "NEWSFLASH: K-12 learning loss leaving our kids behind - Senate Republican Caucus" from Senate Republicans.</description>
+			<pubDate>Fri, 07 Feb 2025 12:51:30 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://src.wastateleg.org/blog/newsflash-k-12-learning-loss-leaving-kids-behind/#:~:text=SSB%205009</guid>
 		</item>
 	</channel>
 </rss>
