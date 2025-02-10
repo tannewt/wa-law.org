@@ -1,12 +1,14 @@
 # Independent Business Association
 ## 2025-26
 
-## [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries   ❓1
+## [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries   ❓2
+* ❓💵 Gary Smith
 * ❓💵 Gary Smith
 
 ## 2023-24
 
-### [HB 1550](/bill/2023-24/hb/1550/) - Electric vehicle batteries   ❓1
+### [HB 1550](/bill/2023-24/hb/1550/) - Electric vehicle batteries   ❓2
+* ❓💵 Gary Smith
 * ❓💵 Gary Smith
 
 ### [HB 1067](/bill/2023-24/hb/1067/) - High-hazard facility wages  👎1 

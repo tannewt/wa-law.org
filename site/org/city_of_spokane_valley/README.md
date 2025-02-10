@@ -1,15 +1,21 @@
 # City of Spokane Valley
 ## 2025-26
 
+### [HB 1042](/bill/2025-26/hb/1042/) - County treasurer costs  👎1 
+
+### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct  👎1 
+
 ### [HB 1061](/bill/2025-26/hb/1061/) - Residential parking   ❓1
 
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓1
 
 ### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍1  
 
+### [HB 1139](/bill/2025-26/hb/1139/) - Unlawful firearm possession 👍1  
+
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential   ❓1
 
-### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓1
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓2
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program.  👎1 
 
@@ -21,11 +27,13 @@
 
 ### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  
 
+### [HB 1276](/bill/2025-26/hb/1276/) - Organized retail theft 👍1  
+
 ### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements  👎1 
 
 ### [HB 1315](/bill/2025-26/hb/1315/) - Impaired driving 👍1  
 
-### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎2 
 
 ### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
 
@@ -35,11 +43,23 @@
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓1
 
+### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety  👎1 
+
 ### [HB 1529](/bill/2025-26/hb/1529/) - Cities/county road resources 👍1  
 
 ### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍1  
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+
+### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
+
+### [HB 1700](/bill/2025-26/hb/1700/) - Comprehensive plan updates 👍1  
+
+### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
+
+### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
+
+### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact   ❓1
 
@@ -80,11 +100,15 @@
 
 ### [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations   ❓1
 
-## [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍1  
+### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍1  
+
+### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat.   ❓1
+
+## [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development  👎1 
 
 ## 2023-24
 
-### [SB 5558](/bill/2023-24/sb/5558/) - Growth management comp plans 👍1  
+### [SB 5604](/bill/2023-24/sb/5604/) - Transit-oriented development  👎1 
 
 ### [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice  👎1 
 

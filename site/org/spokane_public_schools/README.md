@@ -8,6 +8,8 @@
 ### [HB 1267](/bill/2025-26/hb/1267/) - Special education funding   ❓1
 * ❓ Hilary Kozel
 
+### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success. 👍1  
+
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍1  

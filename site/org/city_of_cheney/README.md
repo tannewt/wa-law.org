@@ -8,6 +8,10 @@
 
 ### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements  👎1 
 
+### [HB 1700](/bill/2025-26/hb/1700/) - Comprehensive plan updates 👍1  
+
+### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
+
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals   ❓1
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 

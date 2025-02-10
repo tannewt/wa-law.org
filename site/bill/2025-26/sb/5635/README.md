@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32718&aId=163582&caId=25721&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32718&aId=163582&caId=25721&tId=4)
 
-#### 5 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Commissioner Josh Kerns - [Spokane County](/org/spokane_county/)
 * LeaAnn Gould - Chair, Newman Lake Flood Control District Advisory Board and as a Newman Lake Property Owner
 * Ben Brattebo - Spokane County Public Works
 * Dan Clark
+* Curtis Johnson - O&M Installer and Maintainer King & Snohomish Counties
+* Joe Rebori
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

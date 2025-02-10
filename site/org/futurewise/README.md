@@ -50,6 +50,8 @@
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍4  
 * 👍💵 Bryce Yadon
 
+### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍1  
+
 ### [SB 5055](/bill/2025-26/sb/5055/) - Agritourism  👎1 
 * 👎💵 Bryce Yadon
 
@@ -91,13 +93,16 @@
 ### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans   ❓1
 * ❓💵 Bryce Yadon
 
-## [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process   ❓1
+### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process   ❓1
 * ❓💵 Bryce Yadon
+
+## [SB 5660](/bill/2025-26/sb/5660/) - Water & sewage system access  👎1 
+* 👎💵 Bryce Yadon
 
 ## 2023-24
 
-### [SB 5559](/bill/2023-24/sb/5559/) - UGA subdivision process   ❓1
-* ❓💵 Bryce Yadon
+### [SB 5660](/bill/2023-24/sb/5660/) - Water & sewage system access  👎1 
+* 👎💵 Bryce Yadon
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1
 

@@ -23,6 +23,8 @@
 
 ### [HB 1192](/bill/2025-26/hb/1192/) - DOC disciplinary hearings 👍1  
 
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍1  
+
 ### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍1  
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program. 👍1  
@@ -49,7 +51,7 @@
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
-### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍2  
 * 👍💵 Sarah Nagy
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍2  
@@ -60,7 +62,7 @@
 
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
 
-### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
+### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍2  
 
 ### [HB 1530](/bill/2025-26/hb/1530/) - Reg. businesses/card fees  👎1 
 
@@ -114,11 +116,15 @@
 ### [SB 5499](/bill/2025-26/sb/5499/) - DOC body scanner program  👎1 
 * 👎 Malena Pinkham
 
-## [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
+### [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS 👍1  
+
+### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
+
+## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍1  
 
 ## 2023-24
 
-### [SB 5626](/bill/2023-24/sb/5626/) - Wage replacement 👍1  
+### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemption amount 👍1  
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty   ❓2
 * ❓💵 Antonio Ginatta

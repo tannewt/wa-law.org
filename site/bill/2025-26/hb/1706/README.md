@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32710&aId=163177&caId=25611&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32710&aId=163177&caId=25611&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
 
 #### 1 👎 - Con
 

@@ -18,7 +18,7 @@
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
 
-### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍2  
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
 * 👍💵 Kristin Ang
@@ -28,6 +28,10 @@
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍3  
 
 ### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  
+
+### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍1  
+
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍2  
 

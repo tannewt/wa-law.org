@@ -17,8 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163183&caId=25625&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163183&caId=25625&tId=4)
 
-#### 7 👍 - Pro
+#### 136 👍 - Pro
+Testifying:
+* Caroline Hardy - Leisure Manor Tenants Association Secretary
+* Deborah Wilson
+* Linda Huettl
+* 💵Ishbel Dickens - Assoc of Manufactured Home Owners
+* Gary Seeman
 
-#### 64 👎 - Con
+#### 152 👎 - Con
+Testifying:
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Deborah Wilson
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other

@@ -14,8 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163678&caId=25594&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163678&caId=25594&tId=4)
 
-#### 4 👍 - Pro
+#### 473 👍 - Pro
+Testifying:
+* Linda Mather
+* Bruce MacKenzie
+* Gavin Tenold - Northwest Renewables
+* Eric Blatz - Western Solar
+* Jeremy Smithson - Puget Sound Solar
+* Jon Lange - Sunergy Systems
 
-#### 0 👎 - Con
+#### 502 👎 - Con
+Testifying:
+* Paul Lackenbauer
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Josie Cummings - Avista
+* Mary Lou Pauly - Mayor, City of Issaquah

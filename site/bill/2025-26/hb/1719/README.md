@@ -17,10 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32723&aId=163497&caId=25564&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32723&aId=163497&caId=25564&tId=4)
 
-#### 1 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Forrest Chesvick - Good Buzz Brewing Co.
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

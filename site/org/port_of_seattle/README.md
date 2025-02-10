@@ -1,7 +1,7 @@
 # Port of Seattle
 ## 2025-26
 
-### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
+### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍2  
 
 ### [HB 1058](/bill/2025-26/hb/1058/) - Freight railroad infra. 👍1  
 
@@ -38,6 +38,10 @@
 
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth  👎1 
 * 👎 John Flanagan
+
+### [HB 1837](/bill/2025-26/hb/1837/) - Intercity passenger rail 👍1  
+
+### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
 
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 

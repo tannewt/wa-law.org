@@ -18,13 +18,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163618&caId=25735&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163618&caId=25735&tId=4)
 
-#### 294 👍 - Pro
+#### 449 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Fernanda Mazcot
+* Katie Scheid - Impacted parent and PEPWa
+* 💵Nick Federici - SEIU 775
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Mon 01/27 01:30 PM - Human Services (HS): SB 5211 DD parental caregivers
 #### 594 👍 - Pro

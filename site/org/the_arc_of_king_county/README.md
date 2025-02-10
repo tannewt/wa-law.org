@@ -41,11 +41,13 @@
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections   ❓1
 * ❓ Esther Warwick
 
+### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍1  
+
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
 
-### [SB 5064](/bill/2025-26/sb/5064/) - Rare diseases adv. council 👍1  
+### [SB 5064](/bill/2025-26/sb/5064/) - Rare diseases adv. council 👍2  
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 
@@ -90,6 +92,10 @@
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
 ### [SB 5427](/bill/2025-26/sb/5427/) - Children in crisis program 👍1  
+
+### [SB 5504](/bill/2025-26/sb/5504/) - Complex care serv./children 👍1  
+
+### [SB 5648](/bill/2025-26/sb/5648/) - ABLE accounts 👍1  
 
 ## [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
 

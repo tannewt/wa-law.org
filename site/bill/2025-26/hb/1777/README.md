@@ -19,15 +19,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32775&aId=163331&caId=25645&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32775&aId=163331&caId=25645&tId=4)
 
-#### 158 👍 - Pro
+#### 199 👍 - Pro
 Testifying:
 * Nathan Turner - Alpha and Omega Electric
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * Timothy Rockwell - Rockwell Electric, Inc. Apprenticeship and Training
 * Kyle Johnson - 4J Electric Inc.
 * John Axtell
+* Teresa Ray Bumatay - Lummi TERO
 
-#### 456 👎 - Con
+#### 664 👎 - Con
 Testifying:
 * Kaley Henneman
 

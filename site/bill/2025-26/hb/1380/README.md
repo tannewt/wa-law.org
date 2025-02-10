@@ -18,9 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=4)
 
-#### 95 👍 - Pro
+#### 302 👍 - Pro
+Testifying:
+* Councilmember Lindsey Schromen-Wawrin
 
-#### 10 👎 - Con
+#### 176 👎 - Con
 Testifying:
 * Amy Harris - Clark County Matters
 * Emilie Cameron - Downtown Spokane Partnership
@@ -28,6 +30,11 @@ Testifying:
 * Chris Batten
 * Salim Nice - Mayor, City Mercer Island
 * 💵Curtis Steinhauer - Washington Association of Counties
+* Kate Gregory
+* Christina Schuck - City of Kent, Deputy City Attorney
+* Melissa Chin - Assistant City Attorney, City of Bellevue
+* Timothy Bruya
+* Phil Altmeyer
 
 #### 2 ❓ - Other
 

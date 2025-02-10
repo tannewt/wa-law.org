@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163668&caId=25732&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163668&caId=25732&tId=4)
 
-#### 4 👍 - Pro
+#### 59 👍 - Pro
+Testifying:
+* Venu Nemani - [City of Seattle](/org/city_of_seattle/)
 
-#### 0 👎 - Con
+#### 115 👎 - Con
+Testifying:
+* Atina Holan
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* john worthington
 
 #### 0 ❓ - Other

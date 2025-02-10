@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163275&caId=25581&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163275&caId=25581&tId=4)
 
-#### 24 👍 - Pro
+#### 207 👍 - Pro
+Testifying:
+* Mark Harper
+* Kathryn Mueller
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Liz Pray - School Nurse Organization of Washington (SNOW)

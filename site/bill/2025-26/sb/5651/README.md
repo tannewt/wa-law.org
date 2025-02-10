@@ -8,14 +8,18 @@
 
 ## Meetings
 ### Mon 02/10 10:30 AM - Law & Justice (LAW): SB 5651 Garnishment exemption amount
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32713&aId=163822&caId=25775&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32713&aId=163822&caId=25775&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32713&aId=163822&caId=25775&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32713&aId=163822&caId=25775&tId=4)
+#### 48 👍 - Pro
+Testifying:
+* Amanda Martin - NW Consumer Law Center
+* Molly Molly - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
+* Sam Leonard - WA State Association for Justice
 
-#### 1 👍 - Pro
+#### 50 👎 - Con
+Testifying:
+* Gwen Turner - WA Collectors Association
+* Mindy Chumbley - WA Collectors Association
+* Franci Wayland - Receivables Management Association International (RMAI)
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Julia Kellison - NW Justice Project

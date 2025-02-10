@@ -4,10 +4,14 @@
 ### [HB 1522](/bill/2025-26/hb/1522/) - Utility wildfire mitigation 👍1  
 * 👍💵 Brandon Houskeeper
 
-### [HB 1656](/bill/2025-26/hb/1656/) - Wildfire costs/securitizing 👍1  
+### [HB 1656](/bill/2025-26/hb/1656/) - Wildfire costs/securitizing 👍2  
+* 👍💵 Brandon Houskeeper
 * 👍💵 Brandon Houskeeper
 
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system  👎1 
+* 👎💵 Brandon Houskeeper
+
+### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev.  👎1 
 * 👎💵 Brandon Houskeeper
 
 ### [SB 5377](/bill/2025-26/sb/5377/) - Motor vehicle dealers   ❓1

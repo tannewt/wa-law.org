@@ -17,13 +17,27 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=4)
 
-#### 7 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Matthew Rudolf - As individual, but I am on the Regional Council for NPCA
 * Susan Kane-Ronning - Washington Sierra Club Wildlife Committee
 * J Rosapepe - Endangered Species Coalition
 * 💵Graham Taylor - [National Parks Conservation Association](/org/national_parks_conservation_association/)
+* Gordon Congdon
+* Marguerita Jensen
+* Nancy Shimeall
+* Stephen Cotter
+* Clifford Wentworth
+* Paige Heron
+* Alexa Whipple
+* Marcia Ives - 24 Appaloosa Rd
+* Patti Nordby
+* Mary Yglesia
+* STEVEN Dale KRAUSE
+* Tracey Wiese
 
-#### 2 👎 - Con
+#### 46 👎 - Con
+Testifying:
+* Teagan Levine
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

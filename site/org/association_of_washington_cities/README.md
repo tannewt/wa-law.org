@@ -3,10 +3,16 @@
 
 ### [HB 1037](/bill/2025-26/hb/1037/) - PFD formation 👍2  
 
+### [HB 1042](/bill/2025-26/hb/1042/) - County treasurer costs  👎1 
+* 👎💵 Candice Bock
+
 ### [HB 1045](/bill/2025-26/hb/1045/) - Uniformed personnel  👎1 
 * 👎💵 Candice Bock
 
-### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
+### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct  👎1 
+* 👎💵 Candice Bock
+
+### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍2  
 
 ### [HB 1061](/bill/2025-26/hb/1061/) - Residential parking 👍1  
 
@@ -26,10 +32,14 @@
 
 ### [HB 1126](/bill/2025-26/hb/1126/) - Standardizing notification provisions relating to local tax rate changes and shared taxes administered by the department. 👍1  
 
+### [HB 1127](/bill/2025-26/hb/1127/) - Modifying provisions of the revised uniform unclaimed property act. 👍1  
+
 ### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act.   ❓1
 * ❓💵 Carl Schroeder
 
 ### [HB 1138](/bill/2025-26/hb/1138/) - Improving public safety by implementing evidence-based interview practices that increase the reliability of statements collected during criminal investigations.  👎1 
+
+### [HB 1139](/bill/2025-26/hb/1139/) - Unlawful firearm possession 👍1  
 
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential   ❓1
 * ❓💵 Carl Schroeder
@@ -67,6 +77,8 @@
 
 ### [HB 1275](/bill/2025-26/hb/1275/) - Self-insurer withdrawal 👍1  
 
+### [HB 1276](/bill/2025-26/hb/1276/) - Organized retail theft 👍1  
+
 ### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements  👎1 
 * 👎💵 Carl Schroeder
 
@@ -74,6 +86,9 @@
 * ❓💵 Candice Bock
 
 ### [HB 1312](/bill/2025-26/hb/1312/) - Retirement benefits/death 👍1  
+
+### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
+* 👍💵 Candice Bock
 
 ### [HB 1353](/bill/2025-26/hb/1353/) - ADU self-certification 👍2  
 * 👍💵 Carl Schroeder
@@ -104,6 +119,9 @@
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓1
 * ❓💵 Carl Schroeder
+
+### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety  👎1 
+* 👎💵 Candice Bock
 
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
 
@@ -158,6 +176,10 @@
 
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
 * 👍💵 Carl Schroeder
+
+### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
+
+### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
 
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
 
@@ -226,10 +248,16 @@
 
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
+### [SB 5473](/bill/2025-26/sb/5473/) - Law enforcement arbitration 👍1  
+* 👍💵 Candice Bock
+
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
 * ❓💵 Carl Schroeder
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
+
+### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining  👎1 
+* 👎💵 Candice Bock
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 * 👍💵 Carl Schroeder
@@ -250,6 +278,8 @@
 
 ### [SB 5573](/bill/2025-26/sb/5573/) - Electric security alarms 👍1  
 * 👍💵 Carl Schroeder
+
+### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
 
 ### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
 * 👍💵 Carl Schroeder

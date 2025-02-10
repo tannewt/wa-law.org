@@ -8,15 +8,13 @@
 
 ## Meetings
 ### Mon 02/10 10:30 AM - Law & Justice (LAW): SB 5536 Property distrib./divorce
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32713&aId=163080&caId=25716&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32713&aId=163080&caId=25716&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32713&aId=163080&caId=25716&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32713&aId=163080&caId=25716&tId=4)
-
-#### 1 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * Dana Tingey - High Ground Divorces
+* Melissa Strawn
+* Tamara Emerson
+* Kimberly Espe
+* Gina Bloom
 
 #### 0 👎 - Con
 

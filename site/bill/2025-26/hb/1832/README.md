@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=House%20Bill%201832)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201832)
 * [House Republicans](/org/house_republicans/) - [Better Schools | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/better-schools/#:~:text=House%20Bill%201832)
 
@@ -18,12 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163280&caId=25586&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163280&caId=25586&tId=4)
 
-#### 5 👍 - Pro
+#### 811 👍 - Pro
 Testifying:
 * Vicki Murray - Washington Policy Center
+* James Harrigan
 
-#### 509 👎 - Con
+#### 1420 👎 - Con
 Testifying:
 * John Axtell
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Amy Cannava - Washington State Association of School Psychologists

@@ -18,11 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32736&aId=163128&caId=25555&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32736&aId=163128&caId=25555&tId=4)
 
-#### 7 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Teodorin Morca
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Brett Gailey - [City of Lake Stevens](/org/city_of_lake_stevens/)
+* 💵Anne Anderson - Washington State Narcotics Investigators Association
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other

@@ -17,10 +17,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32707&aId=163524&caId=25662&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32707&aId=163524&caId=25662&tId=4)
 
-#### 51 👍 - Pro
+#### 610 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
+* Alan Borning - Climate Rail Alliance
+* Arvia Morris - Climate Rail Alliance
+* Thomas White - Climate Rail Alliance
+* Rick Shrum
+* Bill Moyer - Solutionary Rail
+* Brent McFarlane - Solutionary Rail
+* Mary Paterson - Solutionary Rail
+* Sasha Elenko - Solutionary Rail
+* Brandon Bowersox-Johnson - 350 Seattle
+* Breck Lebegue MD MPH - WA Physicians for Social Responsibility
+* Tim Gould - Sierra Club of Washington
+* Meghan Anderson - Kittitas Climate Action
+* Tawna Hubbard - Phone Banking
+* Trevor Reed - Transportation Reform
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

@@ -17,12 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32771&aId=163282&caId=25589&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32771&aId=163282&caId=25589&tId=4)
 
-#### 4 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Lilah Wakefield - LYAC
+* Apoorva Kancharla
+* Ashwika Mattam
+* Sarah Wen
 
-#### 1 👎 - Con
+#### 749 👎 - Con
 Testifying:
 * John Axtell
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Gabriel Jacobs

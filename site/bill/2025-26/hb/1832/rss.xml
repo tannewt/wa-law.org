@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1832/</link>
 		<description>Updates about HB 1832</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 19:05:49 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 09 Feb 2025 11:13:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,29 @@
 			<pubDate>Fri, 07 Feb 2025 19:05:49 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201832</guid>
+		</item>
+		<item>
+			<title>Better schools and parental rights | Washington State House Republicans</title>
+			<description>News article "Better schools and parental rights | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sun, 09 Feb 2025 05:13:40 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=House%20Bill%201832</guid>
+		</item>
+		<item>
+			<title>👍James Harrigan - Washington Policy Center</title>
+			<description>James Harrigan signed up to testify Pro.</description>
+			<pubDate>Sun, 09 Feb 2025 07:54:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/Harrigan/2025-02-09 07:54:58</guid>
+		</item>
+		<item>
+			<title>❓Amy Cannava - Washington State Association of School Psychologists</title>
+			<description>Amy Cannava signed up to testify Other. They are signed up to represent Washington State Association of School Psychologists.</description>
+			<pubDate>Sun, 09 Feb 2025 11:13:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Amy/Cannava/2025-02-09 11:13:06</guid>
 		</item>
 	</channel>
 </rss>

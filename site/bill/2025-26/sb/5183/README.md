@@ -17,16 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163576&caId=25695&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163576&caId=25695&tId=4)
 
-#### 5 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 
-#### 43 👎 - Con
+#### 66 👎 - Con
 Testifying:
 * 💵Sara Stewart - Washington Smoke Free Association
 * Tom Eshleman - Doyles Sheehan
 * Doug Ball - Jackson's Food Stores
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * corey pegues - President
+* Chris Hudgins - National Hookah Community Association
+* Arthur Way - Equitable Consulting
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

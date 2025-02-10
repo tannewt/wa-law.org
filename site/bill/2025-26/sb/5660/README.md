@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32718&aId=163583&caId=25722&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32718&aId=163583&caId=25722&tId=4)
 
-#### 43 👍 - Pro
+#### 72 👍 - Pro
+Testifying:
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* James Fletcher - City of Cashmere
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Chandler Felt - WA State Association of Boundary Review Boards
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
 #### 0 ❓ - Other

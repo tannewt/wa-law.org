@@ -14,9 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163844&caId=25802&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163844&caId=25802&tId=4)
 
-#### 2 👍 - Pro
+#### 180 👍 - Pro
+Testifying:
+* Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 0 👎 - Con
+#### 774 👎 - Con
+Testifying:
+* Laurie Layne
 
 #### 0 ❓ - Other
 

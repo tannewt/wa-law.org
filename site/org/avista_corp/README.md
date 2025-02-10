@@ -6,6 +6,8 @@
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy   ❓1
 * ❓💵 John Rothlin
 
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  
+
 ### [HB 1643](/bill/2025-26/hb/1643/) - Utility facility removal  👎1 
 
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system   ❓1

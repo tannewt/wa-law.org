@@ -26,7 +26,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163638&caId=25745&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163638&caId=25745&tId=4)
 
-#### 413 👍 - Pro
+#### 1146 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Spokane, Evergreen, Vancouver, and Richland School Districts
 * Tim Merlino - ESD 112
@@ -37,13 +37,19 @@ Testifying:
 * Kyle Rydell - West valley School District
 * Holly Muenchow - WSPTA - Washington State PTA
 * Lindsey Yocum - Board Director, Lake Washington School Districty
+* Mary Templeton - Lake Stevens School District
 * Andi Tress - Everett Public Schools
+* Samantha Fogg - Seattle Council PTSA Co-President
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* Doug Vanderleest - WA Association of Maintenance & Operation Administrators
+* Roman Honeycutt
+* Jim Kowalkowski - Rural Education Center
 
-#### 1 👎 - Con
+#### 1026 👎 - Con
 Testifying:
 * John Axtell
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 
 ### Wed 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5192 School district materials
 #### 2611 👍 - Pro

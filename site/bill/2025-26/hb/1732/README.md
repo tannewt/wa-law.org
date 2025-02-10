@@ -17,8 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163182&caId=25624&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163182&caId=25624&tId=4)
 
-#### 12 👍 - Pro
+#### 78 👍 - Pro
+Testifying:
+* 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
+* 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
+* Christie Ryan Christie Ryan
 
-#### 2 👎 - Con
+#### 444 👎 - Con
+Testifying:
+* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Riley Benge - Washington REALTORS

@@ -38,6 +38,9 @@
 
 ### [HB 1565](/bill/2025-26/hb/1565/) - Dual enrollment scholarship 👍1  
 
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation   ❓1
+* ❓💵 Roz Thompson
+
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  

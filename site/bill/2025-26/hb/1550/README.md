@@ -14,17 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163721&caId=25752&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163721&caId=25752&tId=4)
 
-#### 4 👍 - Pro
+#### 226 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * 💵James King - [Automotive Recyclers of Washington](/org/automotive_recyclers_of_washington/)
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * Daniel Zotos - Redwood Materials
+* 💵Brandon Houskeeper - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
+* 💵Gary Smith - [Independent Business Association](/org/independent_business_association/)
 
 ### Thu 02/06 08:00 AM - Environment & Energy (ENVI): HB 1550 Electric vehicle batteries
 #### 325 👍 - Pro

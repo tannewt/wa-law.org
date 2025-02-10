@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1804/</link>
 		<description>Updates about HB 1804</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 08:07:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,46 @@
 			<pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-03/First reading, referred to Environment &amp; Energy (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>👍Heather Mulligan - Puget Sound Energy</title>
+			<description>Heather Mulligan signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/puget_sound_energy_inc/"&gt;Puget Sound Energy&lt;/a&gt;.</description>
+			<pubDate>Sat, 08 Feb 2025 04:45:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Heather/Mulligan/2025-02-08 04:45:45</guid>
+		</item>
+		<item>
+			<title>❓Bill Will - Washington Solar Energy Industries Association</title>
+			<description>Bill Will signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_solar_energy_industries_association/"&gt;Washington Solar Energy Industries Association&lt;/a&gt;.</description>
+			<pubDate>Sun, 09 Feb 2025 10:31:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Bill/Will/2025-02-09 10:31:35</guid>
+		</item>
+		<item>
+			<title>❓Reeves Clippard - A&amp;R Solar</title>
+			<description>Reeves Clippard signed up to testify Other. They are signed up to represent A&amp;R Solar.</description>
+			<pubDate>Sun, 09 Feb 2025 10:37:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Reeves/Clippard/2025-02-09 10:37:43</guid>
+		</item>
+		<item>
+			<title>👍💵Josie Cummings - Avista</title>
+			<description>Josie Cummings signed up to testify Pro. They are signed up to represent Avista. They are a registered lobbyist.</description>
+			<pubDate>Sun, 09 Feb 2025 12:30:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Josie/Cummings/2025-02-09 12:30:27</guid>
+		</item>
+		<item>
+			<title>❓Alexander Farkes - 22c</title>
+			<description>Alexander Farkes signed up to testify Other. They are signed up to represent 22c.</description>
+			<pubDate>Mon, 10 Feb 2025 08:07:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Alexander/Farkes/2025-02-10 08:07:12</guid>
 		</item>
 	</channel>
 </rss>

@@ -3,6 +3,8 @@
 
 ### [HB 1052](/bill/2025-26/hb/1052/) - Hate crime offense  👎3 
 
+### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct  👎2 
+
 ### [HB 1091](/bill/2025-26/hb/1091/) - SVP supervision credit 👍1  
 
 ### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services  👎2 
@@ -39,6 +41,10 @@
 
 ### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs  👎2 
 
+### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections  👎2 
+
+### [HB 1356](/bill/2025-26/hb/1356/) - K-12 funding  👎2 
+
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎1 
 
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections  👎1 
@@ -47,9 +53,17 @@
 
 ### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease  👎1 
 
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools  👎2 
+
 ### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎2 
 
+### [HB 1745](/bill/2025-26/hb/1745/) - Election audits 👍2  
+
 ### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎2 
+
+### [HB 1817](/bill/2025-26/hb/1817/) - Schools/sexual assault  👎2 
+
+### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success. 👍2  
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -92,7 +106,7 @@
 ### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education  👎2 
 * 👎 Joy Gjersvold
 
-### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs.  👎2 
+### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs.  👎4 
 * 👎 Jeannie Magdua
 
 ### [SB 5228](/bill/2025-26/sb/5228/) - Updating the governor's interagency coordinating council on health disparities.  👎1 
@@ -110,13 +124,17 @@
 
 ### [SB 5386](/bill/2025-26/sb/5386/) - Schools/sexual assault  👎1 
 
+### [SB 5434](/bill/2025-26/sb/5434/) - Gubernatorial emergencies 👍2  
+
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt  👎2 
 
-## [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project  👎2 
+### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project  👎2 
+
+## [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate  👎1 
 
 ## 2023-24
 
-### [SB 5541](/bill/2023-24/sb/5541/) - Future fund pilot project  👎2 
+### [SB 5632](/bill/2023-24/sb/5632/) - Confidentiality/interstate  👎1 
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs  👎2 
 * 👎 Jeannie Magdua

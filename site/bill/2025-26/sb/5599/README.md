@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32787&aId=163533&caId=25666&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32787&aId=163533&caId=25666&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Steve Thatcher
+* Terry Steben - Hood Canal Beach Seine Fleet
+* Eric Osvaldik
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Shannon Moore - Puget Sound Gillnet Fishermen
+* Fred Marinkovich - President/Puget Sound Harvesters Association
 
 #### 0 ❓ - Other

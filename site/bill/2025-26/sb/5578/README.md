@@ -14,15 +14,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163292&caId=25714&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163292&caId=25714&tId=4)
 
-#### 77 👍 - Pro
+#### 190 👍 - Pro
 Testifying:
 * Craig Loring - Customer
 
-#### 208 👎 - Con
+#### 717 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Patrick Connor - NFIB
 * Dana Neuts - Covington Chamber of Commerce
 * Brandon Cook
+* robert burgess - Beverage Specialists Inc
+* KARL MOEGLING
+* Avis Anson - Brewster Marketplace
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Jason Davies - ITO Group LLC
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Kerry Lonergan-Dreke - Lombardi's Italian Restaurants
+* Thomas Reinhard - Cascadia Pizza Company
+* Jorge Escalera
 
 #### 0 ❓ - Other

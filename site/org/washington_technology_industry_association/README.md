@@ -11,13 +11,14 @@
 
 ### [HB 1595](/bill/2025-26/hb/1595/) - Economic development plan 👍1  
 
-## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 
+### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 
 * 👎💵 Kelly Fukai
+
+## [SB 5658](/bill/2025-26/sb/5658/) - Workforce education account 👍1  
 
 ## 2023-24
 
-### [SB 5400](/bill/2023-24/sb/5400/) - Local news journalism  👎1 
-* 👎💵 Kelly Fukai
+### [SB 5658](/bill/2023-24/sb/5658/) - Workforce education account 👍1  
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  
 

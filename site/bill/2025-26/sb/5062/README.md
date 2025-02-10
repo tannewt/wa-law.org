@@ -18,13 +18,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163645&caId=25737&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163645&caId=25737&tId=4)
 
-#### 10 👍 - Pro
+#### 37 👍 - Pro
+Testifying:
+* 💵Erin Haick - SEIU 925
 
-#### 2 👎 - Con
+#### 583 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* Makayla Boysen - Early learning center
+* Kassie Watters - Apple Tree
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/20 10:30 AM - Labor & Commerce (LC): SB 5062 Child care workforce board
 #### 63 👍 - Pro

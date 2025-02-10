@@ -69,11 +69,17 @@
 
 ### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
 
-## [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS 👍1  
+### [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS 👍1  
+
+## [SB 5620](/bill/2025-26/sb/5620/) - Foster care/rights of child 👍2  
+* 👍 Sharn Kaur
+* 👍💵 Charles Smith
 
 ## 2023-24
 
-### [SB 5617](/bill/2023-24/sb/5617/) - Juvenile detention/CHINS 👍1  
+### [SB 5620](/bill/2023-24/sb/5620/) - Foster care/rights of child 👍2  
+* 👍 Sharn Kaur
+* 👍💵 Charles Smith
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍3  
 

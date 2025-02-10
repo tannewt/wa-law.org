@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32715&aId=163202&caId=25680&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32715&aId=163202&caId=25680&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Charlie Brown - Association of Home Appliance Manufacturers
+* 💵Kevin Messner - Association of Home Appliance Manufacturers
 
 #### 0 👎 - Con
 

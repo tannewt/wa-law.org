@@ -45,11 +45,13 @@
 ### [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍1  
 * 👍 Sam Hatzenbeler
 
-## [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
+### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
+
+## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍1  
 
 ## 2023-24
 
-### [SB 5578](/bill/2023-24/sb/5578/) - Labor standards 👍1  
+### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemption amount 👍1  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Traci Underwood

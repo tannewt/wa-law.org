@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32787&aId=163531&caId=25664&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32787&aId=163531&caId=25664&tId=4)
 
-#### 14 👍 - Pro
+#### 36 👍 - Pro
+Testifying:
+* 💵Natalie Doelman - Washington State Dairy Federation
 
-#### 0 👎 - Con
+#### 42 👎 - Con
 
 #### 0 ❓ - Other
 

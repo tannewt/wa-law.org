@@ -26,6 +26,8 @@
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
 * 👍 Caitlin Krenn
 
+### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
+
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
@@ -44,6 +46,8 @@
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 * 👍 Caitlin Krenn
+
+### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
 
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment 👍1  
 

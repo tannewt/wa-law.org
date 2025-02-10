@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163277&caId=25583&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163277&caId=25583&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Lynette Brower - Washington State Skills Center Association
 
 #### 0 👎 - Con
 

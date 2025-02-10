@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32715&aId=163874&caId=25782&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32715&aId=163874&caId=25782&tId=4)
 
-#### 1 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Scott Hazlegrove - [Stubhub](/org/stubhub/)
 
 #### 0 👎 - Con
 

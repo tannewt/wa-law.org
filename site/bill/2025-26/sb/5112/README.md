@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163571&caId=25690&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163571&caId=25690&tId=4)
 
-#### 437 👍 - Pro
+#### 861 👍 - Pro
 Testifying:
 * Erick Clodfelter - 2211 South Star Lake rd
 * Erick Clodfelter - 2211 South Star Lake Road
@@ -24,10 +24,14 @@ Testifying:
 * Brandon Henscheid
 * Amanda Wills
 * Liliana Baciuc
+* Steven M Brown
 
-#### 5 👎 - Con
+#### 29 👎 - Con
 Testifying:
 * Victoria Harris MD
 * Neeru Bakshi
+* Chelsea Unruh
+* Atika Singh
+* Natalie Fuller
 
 #### 0 ❓ - Other

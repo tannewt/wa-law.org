@@ -19,6 +19,6 @@ Testifying:
 * Carl Hicks - Tacoma Narrows Airport Advisory Commision (Commision Chair)
 * Robyn Denson - Pierce County Council
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

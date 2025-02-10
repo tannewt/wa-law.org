@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1211/</link>
 		<description>Updates about HB 1211</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 12:33:12 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 12:00:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -351,6 +351,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jamila/Taylor/2025-02-07 12:33:12</guid>
+		</item>
+		<item>
+			<title>Bill to make clergy report child abuse advances in Washington • Washington State Standard</title>
+			<description>News article "Bill to make clergy report child abuse advances in Washington • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Mon, 10 Feb 2025 12:00:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/briefs/bill-to-make-clergy-report-child-abuse-advances-in-washington/#:~:text=House%20Bill%201211</guid>
 		</item>
 	</channel>
 </rss>

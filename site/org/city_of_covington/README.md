@@ -1,7 +1,8 @@
 # City of Covington
 ## 2025-26
 
-### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓1
+### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓2
+* ❓ Salina Lyons
 * ❓ Salina Lyons
 
 ### [HB 1227](/bill/2025-26/hb/1227/) - Transportation budget   ❓2

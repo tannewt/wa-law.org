@@ -194,6 +194,8 @@
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
 
+### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
+
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
 * ❓💵 Curtis Steinhauer
 
@@ -215,13 +217,14 @@
 ### [SB 5613](/bill/2025-26/sb/5613/) - Residential development   ❓1
 * ❓💵 Curtis Steinhauer
 
-## [SB 5614](/bill/2025-26/sb/5614/) - Impact fees  👎1 
+### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees  👎1 
 * 👎💵 Curtis Steinhauer
+
+## [SB 5684](/bill/2025-26/sb/5684/) - Electioneering/auditors 👍1  
 
 ## 2023-24
 
-### [SB 5614](/bill/2023-24/sb/5614/) - Impact fees  👎1 
-* 👎💵 Curtis Steinhauer
+### [SB 5684](/bill/2023-24/sb/5684/) - Electioneering/auditors 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

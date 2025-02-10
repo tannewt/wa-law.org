@@ -18,11 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163317&caId=25537&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163317&caId=25537&tId=4)
 
-#### 59 👍 - Pro
+#### 405 👍 - Pro
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Phil Altmeyer
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 
 ### Tue 01/21 04:00 PM - Housing (HOUS): HB 1195 Housing & shelters
 #### 693 👍 - Pro

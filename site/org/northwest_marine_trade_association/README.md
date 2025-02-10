@@ -8,6 +8,8 @@
 
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
 
+### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
+
 ### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍2  
 * 👍 Roman Daniels-Brown
 

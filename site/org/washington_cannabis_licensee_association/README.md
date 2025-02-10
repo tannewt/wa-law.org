@@ -9,10 +9,13 @@
 ### [HB 1348](/bill/2025-26/hb/1348/) - Cannabis/employee ownership  👎1 
 * 👎💵 Trent Matson
 
-## [HB 1410](/bill/2025-26/hb/1410/) - Inactive cannabis producers 👍1  
+### [HB 1410](/bill/2025-26/hb/1410/) - Inactive cannabis producers 👍1  
 * 👍💵 Trent Matson
+
+## [SB 5206](/bill/2025-26/sb/5206/) - Cannabis advertising 👍1  
+* 👍 Bethany Rondeaux
 
 ## 2023-24
 
-## [HB 1410](/bill/2023-24/hb/1410/) - Inactive cannabis producers 👍1  
-* 👍💵 Trent Matson
+## [SB 5206](/bill/2023-24/sb/5206/) - Cannabis advertising 👍1  
+* 👍 Bethany Rondeaux

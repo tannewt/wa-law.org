@@ -17,10 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32707&aId=163322&caId=25658&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32707&aId=163322&caId=25658&tId=4)
 
-#### 5 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Venu Nemani - [City of Seattle](/org/city_of_seattle/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 1 👎 - Con
+#### 153 👎 - Con
+Testifying:
+* Atina Holan
 
 #### 0 ❓ - Other

@@ -9,13 +9,18 @@
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍2  
 * 👍💵 Aaron Dickson
 
-## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+
+### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍💵 Aaron Dickson
+
+### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
+
+## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
 
 ## 2023-24
 
-### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp. 👍1  
-* 👍💵 Aaron Dickson
+### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍1  
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓ karen Williams

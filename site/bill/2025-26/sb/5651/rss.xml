@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5651/</link>
 		<description>Updates about SB 5651</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 09 Feb 2025 10:42:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,62 @@
 			<pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-04/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>👎Gwen Turner - WA Collectors Association</title>
+			<description>Gwen Turner signed up to testify Con. They are signed up to represent WA Collectors Association.</description>
+			<pubDate>Sun, 09 Feb 2025 01:15:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Gwen/Turner/2025-02-09 01:15:00</guid>
+		</item>
+		<item>
+			<title>👎Mindy Chumbley - WA Collectors Association</title>
+			<description>Mindy Chumbley signed up to testify Con. They are signed up to represent WA Collectors Association.</description>
+			<pubDate>Sun, 09 Feb 2025 01:15:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mindy/Chumbley/2025-02-09 01:15:00</guid>
+		</item>
+		<item>
+			<title>👎Franci Wayland - Receivables Management Association International (RMAI)</title>
+			<description>Franci Wayland signed up to testify Con. They are signed up to represent Receivables Management Association International (RMAI).</description>
+			<pubDate>Sun, 09 Feb 2025 06:48:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Franci/Wayland/2025-02-09 06:48:37</guid>
+		</item>
+		<item>
+			<title>👍Amanda Martin - NW Consumer Law Center</title>
+			<description>Amanda Martin signed up to testify Pro. They are signed up to represent NW Consumer Law Center.</description>
+			<pubDate>Sun, 09 Feb 2025 10:38:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amanda/Martin/2025-02-09 10:38:45</guid>
+		</item>
+		<item>
+			<title>👍Molly Molly - Statewide Poverty Action Network</title>
+			<description>Molly Molly signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/statewide_poverty_action_network/"&gt;Statewide Poverty Action Network&lt;/a&gt;.</description>
+			<pubDate>Sun, 09 Feb 2025 10:38:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Molly/Molly/2025-02-09 10:38:45</guid>
+		</item>
+		<item>
+			<title>👍Sam Leonard - WA State Association for Justice</title>
+			<description>Sam Leonard signed up to testify Pro. They are signed up to represent WA State Association for Justice.</description>
+			<pubDate>Sun, 09 Feb 2025 10:38:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sam/Leonard/2025-02-09 10:38:45</guid>
+		</item>
+		<item>
+			<title>❓Julia Kellison - NW Justice Project</title>
+			<description>Julia Kellison signed up to testify Other. They are signed up to represent NW Justice Project.</description>
+			<pubDate>Sun, 09 Feb 2025 10:42:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Julia/Kellison/2025-02-09 10:42:14</guid>
 		</item>
 	</channel>
 </rss>

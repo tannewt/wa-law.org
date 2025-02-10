@@ -452,7 +452,7 @@
 * [SB 5823](sb/5823) - School district elections 3📰 82👍 305👎 0❓ - SWays & Means
 * [HB 1717](hb/1717) - Associate development orgs. 2📰 384👍 2👎 0❓ - HRules 3C
 * [HB 1453](hb/1453) - Medical cannabis/tax 2📰 380👍 4👎 0❓ - C 79 L 24
-* [HB 2497](hb/2497) - Ferries 75 work group 360👍 15👎 6❓ - HTransportation
+* [HB 2497](hb/2497) - Ferries 75 work group 1📰 360👍 15👎 6❓ - HTransportation
 * [SB 5978](sb/5978) - Authorizing the office of the superintendent of public instruction to act as a guarantor for a county when the county provides a loan to a school district. 2📰 32👍 348👎 1❓ - SWays & Means
 * [SB 6021](sb/6021) - Correctional fees & expenses 1📰 306👍 70👎 3❓ - SWays & Means
 * [SB 5235](sb/5235) - Accessory dwelling units 13📰 153👍 215👎 9❓ - SRules X

@@ -17,12 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163136&caId=25559&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163136&caId=25559&tId=4)
 
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Doug Chaput - WFSE Member
 * Jim Furchert - WFSE Member
 * Scott Lee - WFSE Member
 * Nicholas Day
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 2 👎 - Con
 

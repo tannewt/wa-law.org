@@ -70,6 +70,11 @@
 * 👎💵 Samantha Louderback
 * 👎💵 Samantha Louderback
 
+### [HB 1756](/bill/2025-26/hb/1756/) - Lead in cookware 👍1  
+
+### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
+* 👎 Anthony Anton
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Julia Gorton
 
@@ -79,7 +84,7 @@
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 * 👍 Sean DeWitz
 
-### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 
+### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎2 
 
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎4 
 * 👎💵 Julia Gorton
@@ -102,6 +107,9 @@
 ### [SB 5336](/bill/2025-26/sb/5336/) - Isolated employees   ❓1
 * ❓💵 Julia Gorton
 
+### [SB 5371](/bill/2025-26/sb/5371/) - Wine & spirit sales limits 👍1  
+* 👍 Sean DeWitz
+
 ### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
 * 👍💵 Julia Gorton
 
@@ -114,11 +122,21 @@
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
 * 👎💵 Samantha Louderback
 
-## [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
+### [SB 5511](/bill/2025-26/sb/5511/) - Low-proof alcohol beverages   ❓1
+* ❓ Sean DeWitz
+
+### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
+
+### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
+* 👎💵 Julia Gorton
+
+## [SB 5605](/bill/2025-26/sb/5605/) - Microenterprise home kitchen  👎1 
+* 👎💵 Samantha Louderback
 
 ## 2023-24
 
-### [SB 5548](/bill/2023-24/sb/5548/) - Workers' compensation  👎1 
+### [SB 5605](/bill/2023-24/sb/5605/) - Microenterprise home kitchen  👎1 
+* 👎💵 Samantha Louderback
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  
 

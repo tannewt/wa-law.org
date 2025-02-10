@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32758&aId=163219&caId=25670&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32758&aId=163219&caId=25670&tId=4)
 
-#### 144 👍 - Pro
+#### 241 👍 - Pro
 Testifying:
 * Athena Luccio
 * Eryn Duffee
 * 💵Carolyn Logue - [Washington Library Association](/org/washington_library_association/)
+* Laura Sheppard
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Alexa Allman - Deer Park School District

@@ -12,6 +12,11 @@
 ### [HB 1566](/bill/2025-26/hb/1566/) - Prior authorization/health  👎1 
 * 👎 Dr. Romilla Batra
 
+### [HB 1706](/bill/2025-26/hb/1706/) - Prior auth. APIs/health 👍1  
+* 👍💵 Christine Brewer
+
+### [HB 1725](/bill/2025-26/hb/1725/) - Biosimilar medicines 👍1  
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
@@ -34,13 +39,14 @@
 ### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health  👎1 
 * 👎 Dr. Romilla Batra
 
-## [SB 5579](/bill/2025-26/sb/5579/) - Health/contract terminations 👍1  
+### [SB 5579](/bill/2025-26/sb/5579/) - Health/contract terminations 👍1  
 * 👍💵 Christine Brewer
+
+## [SB 5594](/bill/2025-26/sb/5594/) - Biosimilar medicines 👍1  
 
 ## 2023-24
 
-### [SB 5579](/bill/2023-24/sb/5579/) - Health/contract terminations 👍1  
-* 👍💵 Christine Brewer
+### [SB 5594](/bill/2023-24/sb/5594/) - Biosimilar medicines 👍1  
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

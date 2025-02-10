@@ -40,6 +40,8 @@
 
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
 
+### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍1  
+
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
@@ -84,13 +86,19 @@
 * 👍 Alex Narvaez
 * 👍💵 Roxana Gomez
 
-## [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
+### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 * 👍 Annie Chung
+
+### [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS 👍1  
+* 👍💵 Roxana Gomez
+
+## [SB 5620](/bill/2025-26/sb/5620/) - Foster care/rights of child 👍1  
+* 👍💵 Roxana Gomez
 
 ## 2023-24
 
-### [SB 5488](/bill/2023-24/sb/5488/) - DCYF/financial stability 👍1  
-* 👍 Annie Chung
+### [SB 5620](/bill/2023-24/sb/5620/) - Foster care/rights of child 👍1  
+* 👍💵 Roxana Gomez
 
 ### [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
 * 👍 Erin Shea McCann

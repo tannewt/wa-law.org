@@ -18,16 +18,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163098&caId=25601&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163098&caId=25601&tId=4)
 
-#### 22 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Angela Birney - Mayor, City of Redmond
 * Drew Nazarian - PROTEC17
 * Joe Bushnell - Councilmember, City of Tacoma
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Mary Lou Pauly - Mayor, City of Issaquah
+* Jen Burbidge - Washington Recreation & Park Association
 
-#### 108 👎 - Con
+#### 2691 👎 - Con
 Testifying:
 * John Axtell
 * Tad Sommerville
 * 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Laurie Layne
+* Amber Craven
+* Stephen McDuffie
+* Dakota Manley - Washington State Young Republicans
+* Anthony Mixer - Washington State Young Republicans
+* Dakota Manley - Washington State Young Republicans
+* Jeffrey Pack - Washington Citizens Against Unfair Taxes
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Sid Mellema
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other

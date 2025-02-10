@@ -20,6 +20,8 @@
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 * 👍💵 Justin Allegro
 
+### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍1  
+
 ### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  
 * 👍 Emily Hohman
 
@@ -54,6 +56,9 @@
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+
+### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
+* 👍 Skippy Shaw
 
 ### [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
 

@@ -17,14 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32735&aId=163122&caId=25552&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32735&aId=163122&caId=25552&tId=4)
 
-#### 7 👍 - Pro
+#### 159 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Anthony Mixer - Washington State Young Republicans
 * Mark McAvoy - [City of Liberty Lake](/org/city_of_liberty_lake/)
+* Mayor Jim Ferrell - [City of Federal Way](/org/city_of_federal_way/)
+* Mary Lou Pauly - Mayor, City of Issaquah
+* Les Baldik - Les's Local Honey
 
-#### 0 👎 - Con
-
-#### 1 ❓ - Other
+#### 1 👎 - Con
 Testifying:
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
+
+#### 2 ❓ - Other
+Testifying:
+* Patrick Hinds - King County Prosecuting Attorney's Office
 * Patrick Hinds - King County Prosecuting Attorney's Office

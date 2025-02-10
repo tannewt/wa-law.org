@@ -3,6 +3,8 @@
 
 ### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor.  👎1 
 
+### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
+
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
 * 👎 Dana Ralph
 

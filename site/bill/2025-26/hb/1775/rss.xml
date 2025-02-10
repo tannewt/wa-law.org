@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1775/</link>
 		<description>Updates about HB 1775</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 12:58:19 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 08 Feb 2025 09:11:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -56,12 +56,36 @@
 			<guid isPermaLink="false">testifier/Challis/Hobbs/2025-02-07 10:24:59</guid>
 		</item>
 		<item>
+			<title>👎FRANK HERBERT - Fur Commission USA</title>
+			<description>FRANK HERBERT signed up to testify Con.</description>
+			<pubDate>Fri, 07 Feb 2025 10:41:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/FRANK/HERBERT/2025-02-07 10:41:32</guid>
+		</item>
+		<item>
 			<title>👎Josh Phillips - Spawn Fly Fish</title>
 			<description>Josh Phillips signed up to testify Con. They are signed up to represent Spawn Fly Fish.</description>
 			<pubDate>Fri, 07 Feb 2025 12:58:19 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Josh/Phillips/2025-02-07 12:58:19</guid>
+		</item>
+		<item>
+			<title>👎Alejandro Boulware - Spawn Fly Fish</title>
+			<description>Alejandro Boulware signed up to testify Con.</description>
+			<pubDate>Sat, 08 Feb 2025 01:21:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Alejandro/Boulware/2025-02-08 01:21:33</guid>
+		</item>
+		<item>
+			<title>👎Mark Ross - Spawn Fly Fish</title>
+			<description>Mark Ross signed up to testify Con.</description>
+			<pubDate>Sat, 08 Feb 2025 09:11:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mark/Ross/2025-02-08 09:11:04</guid>
 		</item>
 	</channel>
 </rss>

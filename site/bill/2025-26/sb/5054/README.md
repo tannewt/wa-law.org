@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163741&caId=25758&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163741&caId=25758&tId=4)
 
-#### 0 👍 - Pro
+#### 74 👍 - Pro
+Testifying:
+* Paul Beveridge - Family Wineries of Washington State
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 

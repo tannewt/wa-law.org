@@ -9,6 +9,7 @@
 
 ## 📰 Articles
 * 02/06/2025 [FOX13](/org/fox13/) - [WA lawmakers advance proposal for inmate resentencing | FOX 13 Seattle](https://www.fox13seattle.com/news/lawmakers-advance-proposal-inmate-resentencing#:~:text=House%20Bill%201125)
+* 02/06/2025 [MyNorthwest](/org/mynorthwest/) - [Washington lawmakers clash over sentencing reform bill](https://mynorthwest.com/mynorthwest-politics/wa-sentencing-reform/4041331#:~:text=House%20Bill%201125)
 * 01/30/2025 [FOX13](/org/fox13/) - [WA bill prompts debate about rehabilitation, accountability | FOX 13 Seattle](https://www.fox13seattle.com/news/proposal-let-people-out-prison#:~:text=House%20Bill%201125)
 * 01/29/2025 [MyNorthwest](/org/mynorthwest/) - [Activist judges could release violent felons with new bill](https://mynorthwest.com/kiro-opinion/activist-judges-early-release/4033290#:~:text=House%20Bill%201125)
 * 01/29/2025 [MyNorthwest](/org/mynorthwest/) - [Activist judges could release violent felons with new bill](https://mynorthwest.com/ktth/ktth-opinion/activist-judges-early-release/4033290#:~:text=House%20Bill%201125)

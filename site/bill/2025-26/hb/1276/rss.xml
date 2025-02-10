@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1276/</link>
 		<description>Updates about HB 1276</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 19:05:49 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 08:16:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -60,6 +60,46 @@
 			<pubDate>Fri, 07 Feb 2025 19:05:49 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201276</guid>
+		</item>
+		<item>
+			<title>❓Patrick Hinds - King County Prosecuting Attorney's Office</title>
+			<description>Patrick Hinds signed up to testify Other. They are signed up to represent King County Prosecuting Attorney's Office.</description>
+			<pubDate>Sat, 08 Feb 2025 04:43:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Patrick/Hinds/2025-02-08 04:43:42</guid>
+		</item>
+		<item>
+			<title>👎David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association</title>
+			<description>David Trieweiler signed up to testify Con. They are signed up to represent Washington Association of Criminal Defense Lawyers/Washington Defender Association.</description>
+			<pubDate>Sat, 08 Feb 2025 12:47:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/David/Trieweiler/2025-02-08 12:47:14</guid>
+		</item>
+		<item>
+			<title>👍Mayor Jim Ferrell - City of Federal Way</title>
+			<description>Mayor Jim Ferrell signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_federal_way/"&gt;City of Federal Way&lt;/a&gt;.</description>
+			<pubDate>Sun, 09 Feb 2025 08:52:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mayor Jim/Ferrell/2025-02-09 08:52:55</guid>
+		</item>
+		<item>
+			<title>👍Mary Lou Pauly - Mayor, City of Issaquah</title>
+			<description>Mary Lou Pauly signed up to testify Pro. They are signed up to represent Mayor, City of Issaquah.</description>
+			<pubDate>Sun, 09 Feb 2025 12:56:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mary Lou/Pauly/2025-02-09 12:56:21</guid>
+		</item>
+		<item>
+			<title>👍Les Baldik - Les's Local Honey</title>
+			<description>Les Baldik signed up to testify Pro. They are signed up to represent Les's Local Honey.</description>
+			<pubDate>Mon, 10 Feb 2025 08:16:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Les/Baldik/2025-02-10 08:16:44</guid>
 		</item>
 	</channel>
 </rss>

@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32756&aId=163212&caId=25596&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32756&aId=163212&caId=25596&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Charles Souhrada - North American Association of Food Equipment Manufacturers (NAFEM)
+* Charlie Brown - Association of Home Appliance Manufacturers
+* 💵Kevin Messner - Association of Home Appliance Manufacturers
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

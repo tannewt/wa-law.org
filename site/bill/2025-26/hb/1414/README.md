@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163278&caId=25584&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163278&caId=25584&tId=4)
 
-#### 47 👍 - Pro
+#### 75 👍 - Pro
 Testifying:
 * Ethan Kuruvilla - EquiFinancials
 * Yash Kothari - EquiFinancials
@@ -26,6 +26,7 @@ Testifying:
 * Ethan Wodehouse - Tri-Tech Skills Center
 * Nathen Allington - Tri-Tech Skills Center
 * Paul Randall - Tri-Tech Skills Center
+* Lynette Brower - Washington State Skills Center Association
 
 #### 0 👎 - Con
 

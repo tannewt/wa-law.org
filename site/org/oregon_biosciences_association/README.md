@@ -7,6 +7,8 @@
 
 ### [HB 1444](/bill/2025-26/hb/1444/) - Whole genome sequencing 👍1  
 
+### [SB 5064](/bill/2025-26/sb/5064/) - Rare diseases adv. council 👍1  
+
 ## [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply  👎1 
 * 👎💵 Michael Transue
 

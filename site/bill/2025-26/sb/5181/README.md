@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=Senate%20Bill%205181)
 * 02/07/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Lynden School Board pushes back on bills that 'threaten' parental rights | Cascadia Daily News](https://www.cascadiadaily.com/2025/feb/07/lynden-school-board-pushes-back-on-bills-that-threaten-parental-rights/#:~:text=Senate%20Bill%205181,)
 * 02/07/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: K-12 learning loss leaving our kids behind - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-k-12-learning-loss-leaving-kids-behind/#:~:text=Senate%20Bill%205181,)
 * 02/06/2025 [KUOW](/org/kuow/) - [KUOW - Why Washington state lawmakers are fighting over 'parents rights' again](https://www.kuow.org/stories/the-fight-over-parents-rights-is-back-in-olympia-here-s-what-s-going-on#:~:text=Senate%20Bill%205181)

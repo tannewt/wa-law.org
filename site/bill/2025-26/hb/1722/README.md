@@ -17,13 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163343&caId=25632&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163343&caId=25632&tId=4)
 
-#### 7 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Angela Nemeth - Tri-Tech Skills Center
 * Ethan Wodehouse - Tri-Tech Skills Center
 * Nathen Allington - Tri-Tech Skills Center
 * Paul Randall - Tri-Tech Skills Center
 * John Axtell
+* Lynette Brower - Washington State Skills Center Association
 
 #### 0 👎 - Con
 

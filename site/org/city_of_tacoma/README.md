@@ -21,6 +21,8 @@
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 
+### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
+
 ### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
@@ -32,6 +34,8 @@
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 
 ### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
+
+### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍2  
 

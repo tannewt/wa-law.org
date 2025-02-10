@@ -17,16 +17,25 @@
 
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎1 
 
+### [HB 1719](/bill/2025-26/hb/1719/) - Liquor licensee events 👍1  
+* 👍💵 Daniel Olson
+
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎2 
 * 👎💵 Daniel Olson
 * 👎 Daniel Olsen
 
-## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
+### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study   ❓1
+* ❓💵 Daniel Olson
+
+### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
+* 👎💵 Daniel Olson
+
+## [SB 5511](/bill/2025-26/sb/5511/) - Low-proof alcohol beverages  👎1 
 * 👎💵 Daniel Olson
 
 ## 2023-24
 
-### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction  👎1 
+### [SB 5511](/bill/2023-24/sb/5511/) - Low-proof alcohol beverages  👎1 
 * 👎💵 Daniel Olson
 
 ### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management  👎1 

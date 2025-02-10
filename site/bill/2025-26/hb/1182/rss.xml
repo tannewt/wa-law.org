@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1182/</link>
 		<description>Updates about HB 1182</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 07:55:55 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 09 Feb 2025 10:33:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -89,6 +89,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Alicia/Burki/2025-02-07 07:55:55</guid>
+		</item>
+		<item>
+			<title>👍Kenton Gartrell - WFSE-Local 1466</title>
+			<description>Kenton Gartrell signed up to testify Pro.</description>
+			<pubDate>Fri, 07 Feb 2025 09:44:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kenton/Gartrell/2025-02-07 09:44:21</guid>
+		</item>
+		<item>
+			<title>👍Andy Kallinen - WFSE Local 1466</title>
+			<description>Andy Kallinen signed up to testify Pro. They are signed up to represent WFSE Local 1466.</description>
+			<pubDate>Sat, 08 Feb 2025 08:50:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andy/Kallinen/2025-02-08 08:50:10</guid>
+		</item>
+		<item>
+			<title>👍Mikolaj Miazio - WFSE Local 1466</title>
+			<description>Mikolaj Miazio signed up to testify Pro.</description>
+			<pubDate>Sun, 09 Feb 2025 10:33:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mikolaj/Miazio/2025-02-09 10:33:28</guid>
 		</item>
 	</channel>
 </rss>

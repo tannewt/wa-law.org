@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Jordan Crawley - Alki Beach Academy
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

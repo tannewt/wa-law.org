@@ -17,9 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163341&caId=25630&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163341&caId=25630&tId=4)
 
-#### 123 👍 - Pro
+#### 272 👍 - Pro
 
-#### 325 👎 - Con
+#### 910 👎 - Con
 Testifying:
 * 💵Rose Gundersen - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
@@ -27,5 +27,13 @@ Testifying:
 * 💵Rose Gundersen - WA Retail Association
 * THOMAS FALK
 * Cathy Buckley - Bellingham Athletic Club
+* Robert Burgess - Beverage Specialists Inc
+* KARL MOEGLING
+* Avis Anson - Brewster Marketplace
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Anthony Anton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Brad Haggen - Naples Best Restaurants
+* Clayton Krueger - Farrelli's Wood Fire Pizza
+* Debbie Brese - The Cloverleaf
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other

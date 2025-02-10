@@ -52,11 +52,13 @@
 
 ### [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍1  
 
-## [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
+### [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
+
+## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍1  
 
 ## 2023-24
 
-### [SB 5600](/bill/2023-24/sb/5600/) - TNCs/large-scale events 👍1  
+### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemption amount 👍1  
 
 ## [SB 5550](/bill/2023-24/sb/5550/) - Ferry workforce development 👍3  
 * 👍 Eric Winge

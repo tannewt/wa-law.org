@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163288&caId=25710&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163288&caId=25710&tId=4)
 
-#### 10 👍 - Pro
+#### 26 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 ❓ - Other

@@ -15,7 +15,7 @@
 
 ### [HB 1321](/bill/2025-26/hb/1321/) - Outside militia activities 👍1  
 
-### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍2  
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍3  
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
 
@@ -25,8 +25,14 @@
 
 ### [HB 1434](/bill/2025-26/hb/1434/) - Eid al-Fitr & Eid al-Adha 👍1  
 
+### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
+
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍5  
 * 👍 Sasha Wasserstrom
+
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+
+### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
@@ -50,11 +56,15 @@
 
 ### [SB 5442](/bill/2025-26/sb/5442/) - College promise pilot 👍1  
 
-## [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍3  
+### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍3  
+
+### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate 👍1  
+
+## [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
 
 ## 2023-24
 
-### [SB 5626](/bill/2023-24/sb/5626/) - Wage replacement 👍3  
+### [SB 5654](/bill/2023-24/sb/5654/) - Student restraint, isolation 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 

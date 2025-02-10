@@ -49,13 +49,14 @@
 ### [SB 5561](/bill/2025-26/sb/5561/) - Health care entity registry 👍1  
 * 👍💵 Emily Brice
 
-## [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍1  
+### [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍1  
 * 👍💵 Emily Brice
+
+## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍1  
 
 ## 2023-24
 
-### [SB 5568](/bill/2023-24/sb/5568/) - State health plan 👍1  
-* 👍💵 Emily Brice
+### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemption amount 👍1  
 
 ### [HB 1128](/bill/2023-24/hb/1128/) - Personal needs allowance 👍2  
 

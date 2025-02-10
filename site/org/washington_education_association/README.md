@@ -23,7 +23,7 @@
 ### [HB 1051](/bill/2025-26/hb/1051/) - IEP team meetings/recording  👎1 
 * 👎 Jared Mason-Gere
 
-### [HB 1068](/bill/2025-26/hb/1068/) - DOC WMS employee arbitration 👍1  
+### [HB 1068](/bill/2025-26/hb/1068/) - DOC WMS employee arbitration 👍2  
 
 ### [HB 1069](/bill/2025-26/hb/1069/) - Supp. retirement bargaining 👍1  
 
@@ -33,7 +33,7 @@
 
 ### [HB 1082](/bill/2025-26/hb/1082/) - Child care provider qualif. 👍1  
 
-### [HB 1105](/bill/2025-26/hb/1105/) - Exempting exclusive bargaining representatives for department of corrections employees from certain provisions related to coalition bargaining. 👍1  
+### [HB 1105](/bill/2025-26/hb/1105/) - Exempting exclusive bargaining representatives for department of corrections employees from certain provisions related to coalition bargaining. 👍2  
 
 ### [HB 1116](/bill/2025-26/hb/1116/) - Election day 👍1  
 
@@ -127,12 +127,17 @@
 
 ### [HB 1332](/bill/2025-26/hb/1332/) - Transp. network companies 👍1  
 
+### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
+
 ### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍1  
 * 👍💵 Julie Salvi
 
 ### [HB 1349](/bill/2025-26/hb/1349/) - Pension credit for leave 👍1  
 
 ### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  
+
+### [HB 1356](/bill/2025-26/hb/1356/) - K-12 funding   ❓1
+* ❓💵 Julie Salvi
 
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding   ❓1
 * ❓💵 Julie Salvi
@@ -161,7 +166,13 @@
 * ❓ Jared Mason-Gere
 * ❓ Jared Mason-Gere
 
+### [HB 1485](/bill/2025-26/hb/1485/) - Services and activities fees 👍1  
+
+### [HB 1486](/bill/2025-26/hb/1486/) - Student member on SBCTC 👍1  
+
 ### [HB 1489](/bill/2025-26/hb/1489/) - Childhood ed./impl. dates  👎1 
+
+### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation  👎1 
 
 ### [HB 1511](/bill/2025-26/hb/1511/) - Ferry captains 👍1  
 
@@ -199,19 +210,38 @@
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 
-### [HB 1642](/bill/2025-26/hb/1642/) - Pension plan choice 👍2  
+### [HB 1642](/bill/2025-26/hb/1642/) - Pension plan choice 👍3  
 * 👍 Jared Mason-Gere
 
 ### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent.  👎1 
 * 👎💵 Lorrell Noahr
 
+### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use 👍1  
+
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
 
 ### [HB 1676](/bill/2025-26/hb/1676/) - Charter school contracts  👎2 
 
+### [HB 1682](/bill/2025-26/hb/1682/) - Unemployment ins./part-time 👍1  
+
+### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍1  
+
+### [HB 1732](/bill/2025-26/hb/1732/) - Home buying by entities 👍1  
+
 ### [HB 1754](/bill/2025-26/hb/1754/) - Medicare suppl./guaranteed 👍1  
 
-### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎4 
+### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍1  
+
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation   ❓1
+* ❓ Jared Mason-Gere
+
+### [HB 1822](/bill/2025-26/hb/1822/) - Establishing a driver work zone and first responder safety course requirement. 👍1  
+
+### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎8 
+
+### [HB 1843](/bill/2025-26/hb/1843/) - Students/unemployment ins. 👍1  
+
+### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -239,7 +269,7 @@
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  
 
-### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍2  
+### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍4  
 
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
 
@@ -315,7 +345,7 @@
 * ❓💵 Simone Boe
 * ❓💵 Julie Salvi
 
-### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍2  
+### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍4  
 
 ### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍1  
 
@@ -324,7 +354,8 @@
 
 ### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍1  
 
-### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍3  
+### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍7  
+* 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
 
 ### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  
@@ -333,7 +364,7 @@
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 
-### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍1  
+### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍2  
 
 ### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
 
@@ -349,8 +380,9 @@
 
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍4  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍9  
 * 👍💵 Larry Delaney
+* 👍 Martha Patterson
 
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp.  👎1 
 
@@ -361,7 +393,7 @@
 
 ### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍2  
 
-### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
+### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍3  
 
 ### [SB 5306](/bill/2025-26/sb/5306/) - Pension credit for leave 👍1  
 
@@ -410,6 +442,8 @@
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 
+### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  
+
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
 ### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍8  
@@ -420,6 +454,8 @@
 ### [SB 5525](/bill/2025-26/sb/5525/) - Layoffs 👍1  
 
 ### [SB 5528](/bill/2025-26/sb/5528/) - Transp. electrification 👍1  
+
+### [SB 5540](/bill/2025-26/sb/5540/) - Students/unemployment ins. 👍1  
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 
@@ -438,11 +474,15 @@
 
 ### [SB 5596](/bill/2025-26/sb/5596/) - Interstate teacher compact 👍1  
 
-## [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
+### [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
+
+### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍1  
+
+## [SB 5658](/bill/2025-26/sb/5658/) - Workforce education account 👍1  
 
 ## 2023-24
 
-### [SB 5600](/bill/2023-24/sb/5600/) - TNCs/large-scale events 👍1  
+### [SB 5658](/bill/2023-24/sb/5658/) - Workforce education account 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 

@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Mon 02/10 10:30 AM - Labor & Commerce (LC): SB 5371 Wine & spirit sales limits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32750&aId=163285&caId=25705&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32750&aId=163285&caId=25705&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32750&aId=163285&caId=25705&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32750&aId=163285&caId=25705&tId=4)
-
-#### 3 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * 💵Brad Tower - [Washington Liquor Store Association](/org/washington_liquor_store_association/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 6 👎 - Con
+#### 124 👎 - Con
 Testifying:
 * Andrea McNeely - Association of Washington Wine and Spirits Distributors
 

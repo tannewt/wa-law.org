@@ -17,10 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163279&caId=25585&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163279&caId=25585&tId=4)
 
-#### 7 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * John Axtell
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Dr. Erica Hernandez-Scott - PESB
+* Marcus Harden - Charter School Commission
+* Randy Spaulding - State Board of Education
+* Tracy Godat - FEPPP

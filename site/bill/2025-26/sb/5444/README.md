@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163665&caId=25729&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163665&caId=25729&tId=4)
 
-#### 784 👍 - Pro
+#### 1806 👍 - Pro
 Testifying:
 * Heather Monti - [Mount St. Helens Institute](/org/mount_st._helens_institute/)
 * John Rankin - Seattle Metro Pickleball Association
+* 💵Michael Transue - LeMay - America's Car Museum
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 2 ❓ - Other
+#### 9 ❓ - Other

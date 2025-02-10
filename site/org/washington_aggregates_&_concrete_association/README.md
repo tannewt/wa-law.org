@@ -8,9 +8,14 @@
 ### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings  👎1 
 * 👎💵 Cory Shaw
 
+### [HB 1647](/bill/2025-26/hb/1647/) - Surface mine reclamation 👍1  
+* 👍💵 Cory Shaw
+
 ### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment  👎1 
 
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth  👎1 
+
+### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Cory Shaw
@@ -22,11 +27,13 @@
 
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment  👎1 
 
-## [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
+### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
+
+## [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
 
 ## 2023-24
 
-### [SB 5548](/bill/2023-24/sb/5548/) - Workers' compensation  👎1 
+### [SB 5578](/bill/2023-24/sb/5578/) - Labor standards  👎1 
 
 ### [HB 1885](/bill/2023-24/hb/1885/) - Strengthening campaign finance disclosure by prohibiting campaign contributions and expenditures by foreign-influenced corporations.  👎1 
 

@@ -15,13 +15,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32716&aId=163204&caId=25681&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32716&aId=163204&caId=25681&tId=4)
 
-#### 4 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Jason Morse - [Issaquah School District](/org/issaquah_school_district/)
+* Michael Knaack - WA Assn of Maintenance and Operation Administrators
+* 💵Mitch Denning - Alliance of Educational Associations
+* Travis Bown - WA Assn of Maintenance and Operation Administrators
+* Jim Kowalkowski - Rural Education Center
+* Jeff Baerwald - Nine Mile Falls School District
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/16 10:30 AM - Early Learning & K-12 Education (EDU): SB 5190 Allowing school districts to request extensions to state energy performance standard deadlines for K-12 school buildings. (Remote Testimony Available). (If measure is referred to committee.)
 #### 27 👍 - Pro

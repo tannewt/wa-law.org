@@ -22,6 +22,8 @@
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth 👍3  
 * 👍💵 Guillermo Rogel
 
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
+
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  

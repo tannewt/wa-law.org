@@ -48,6 +48,8 @@
 
 ### [HB 1604](/bill/2025-26/hb/1604/) - Jail searches/gender 👍1  
 
+### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
+
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍1  
 
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍1  
@@ -87,13 +89,16 @@
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍2  
 
-## [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍1  
+### [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍1  
 * 👍💵 Nicole Kern
+
+### [SB 5577](/bill/2025-26/sb/5577/) - HIV antiviral drugs/medicaid 👍1  
+
+## [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate 👍1  
 
 ## 2023-24
 
-### [SB 5557](/bill/2023-24/sb/5557/) - Pregnancy/emerg. treatment 👍1  
-* 👍💵 Nicole Kern
+### [SB 5632](/bill/2023-24/sb/5632/) - Confidentiality/interstate 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

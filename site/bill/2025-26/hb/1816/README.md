@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32781&aId=163706&caId=25766&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32781&aId=163706&caId=25766&tId=4)
 
-#### 25 👍 - Pro
+#### 534 👍 - Pro
 Testifying:
 * Erin Goodman - SODO Business Improvement Area
+* Amy Barden - Chief, Seattle CARE Department
+* Kimberly Hendrickson - BHCore Center at University of Washington
 
-#### 0 👎 - Con
+#### 322 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

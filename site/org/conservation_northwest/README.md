@@ -18,6 +18,10 @@
 
 ### [HB 1442](/bill/2025-26/hb/1442/) - Gray wolf management  👎1 
 
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  
+
+### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
+
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
 * 👍💵 Nadine Nadow
 
@@ -36,11 +40,13 @@
 
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
 
-## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+
+## [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
 
 ## 2023-24
 
-### [SB 5466](/bill/2023-24/sb/5466/) - Electric transmission system 👍1  
+### [SB 5491](/bill/2023-24/sb/5491/) - Prescribed fire claims 👍1  
 
 ### [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting   ❓1
 * ❓ Jay Kehne

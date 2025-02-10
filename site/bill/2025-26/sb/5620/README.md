@@ -17,9 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32760&aId=163234&caId=25702&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32760&aId=163234&caId=25702&tId=4)
 
-#### 118 👍 - Pro
+#### 129 👍 - Pro
 Testifying:
 * Charissa Keebaugh - Lived Expierence Consultant
+* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* Sharn Kaur - [The Mockingbird Society](/org/the_mockingbird_society/)
+* 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
 
 #### 1 👎 - Con
 

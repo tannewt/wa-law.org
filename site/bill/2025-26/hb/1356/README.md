@@ -20,16 +20,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163097&caId=25600&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163097&caId=25600&tId=4)
 
-#### 25 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * 💵Clifford Traisman - Bellevue, Highline, Northshore Public School Districts
 * 💵Clifford Traisman - Seattle, Bellevue, Highline, Northshore and Seattle Public School Districts
+* Roman Honeycutt
 
-#### 5 👎 - Con
+#### 913 👎 - Con
 Testifying:
 * John Axtell
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 12 ❓ - Other
+#### 41 ❓ - Other
+Testifying:
+* 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
+* 💵Oliver Miska
+* Barbara Posthumus - Lake Washington School District
 
 ### Thu 01/30 04:00 PM - Appropriations (APP): HB 1356 K-12 funding
 #### 2 👍 - Pro

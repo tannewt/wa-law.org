@@ -17,12 +17,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163276&caId=25582&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163276&caId=25582&tId=4)
 
-#### 27 👍 - Pro
+#### 87 👍 - Pro
 Testifying:
 * Diego Gonzalez
 * Dominick Ventresco - Pullman School District 267
 * Molly Lyman
+* Jen Chong Jewell - Special Education Advisory Council for OSPI
+* Samantha Fogg - Seattle Council PTSA Co-President
+* David Mendez - True Measure Collaborative (RREI project)
+* Dr. Dia Jackson - Project Director, American Institutes for Research (RREI)
+* Lissan Wipfli - Exec. Dir. Special Education, Lakewood School District
+* Esther Warwick
+* Giselle Gonzales - student
+* Misha Cherniske - Office of Superintendent of Public Instruction
 
-#### 3 👎 - Con
+#### 23 👎 - Con
 
-#### 6 ❓ - Other
+#### 32 ❓ - Other
+Testifying:
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
+* Bri Nelson - SEIU 925, paraprofessional
+* Christy Tautfest - SEIU 925, paraprofessional
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)
+* Rick Chisa - Public School Employees of Washington (PSE)

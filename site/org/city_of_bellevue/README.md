@@ -19,6 +19,8 @@
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element   ❓1
 
+### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
+
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
 
 ### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
@@ -31,6 +33,10 @@
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 * 👍 Bianca Siegl
+
+### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
+
+### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
@@ -60,11 +66,15 @@
 
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 
-## [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations   ❓1
+### [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations   ❓1
+
+### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍1  
+
+## [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 
 ## 2023-24
 
-### [SB 5555](/bill/2023-24/sb/5555/) - Zoning regulations   ❓1
+### [SB 5595](/bill/2023-24/sb/5595/) - Shared streets 👍1  
 
 ### [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
 

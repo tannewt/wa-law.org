@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 33 👎 - Con
+#### 51 👎 - Con
 Testifying:
 * 💵Curtis Steinhauer - Washington Association of Counties
 

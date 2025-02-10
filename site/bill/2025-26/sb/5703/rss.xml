@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5703/</link>
 		<description>Updates about SB 5703</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 08 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-07/First reading, referred to Environment, Energy &amp; Technology (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>Referred to Local Government.</title>
+			<description>Referred to Local Government.</description>
+			<pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-08/Referred to Local Government.</guid>
 		</item>
 	</channel>
 </rss>

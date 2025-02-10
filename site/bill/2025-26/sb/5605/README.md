@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32787&aId=163534&caId=25667&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32787&aId=163534&caId=25667&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
 
-#### 2 👎 - Con
+#### 46 👎 - Con
 Testifying:
 * Ash Noble - State Board of Health
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Jaime Bodden - WSALPHO
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 0 ❓ - Other

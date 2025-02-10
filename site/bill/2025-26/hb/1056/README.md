@@ -17,9 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32792&aId=163602&caId=25550&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32792&aId=163602&caId=25550&tId=4)
 
-#### 173 👍 - Pro
+#### 606 👍 - Pro
 
-#### 3 👎 - Con
+#### 807 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Ryan Lufkin - WACOPS - Washington Council of Police and Sheriffs
 
 #### 0 ❓ - Other
 

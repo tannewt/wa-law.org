@@ -138,6 +138,12 @@
 
 ### [HB 1332](/bill/2025-26/hb/1332/) - Transp. network companies  👎1 
 
+### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth  👎1 
+* 👎 Max Martin
+
+### [HB 1356](/bill/2025-26/hb/1356/) - K-12 funding  👎1 
+* 👎 Max Martin
+
 ### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍2  
 
 ### [HB 1389](/bill/2025-26/hb/1389/) - Timber purchase reporting 👍1  
@@ -215,10 +221,19 @@
 
 ### [HB 1714](/bill/2025-26/hb/1714/) - Small business risk pooling 👍1  
 
+### [HB 1732](/bill/2025-26/hb/1732/) - Home buying by entities  👎1 
+* 👎💵 Morgan Irwin
+
 ### [HB 1739](/bill/2025-26/hb/1739/) - Self-service checkout  👎1 
 
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
 * 👎💵 Lindsey Hueer
+
+### [HB 1768](/bill/2025-26/hb/1768/) - Manuf. housing purchases  👎1 
+* 👎💵 Morgan Irwin
+
+### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
+* 👍💵 Morgan Irwin
 
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement  👎1 
 * 👎💵 Lindsey Hueer
@@ -226,6 +241,8 @@
 ### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation  👎1 
 
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
+
+### [HB 1822](/bill/2025-26/hb/1822/) - Establishing a driver work zone and first responder safety course requirement. 👍1  
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET  👎1 
 
@@ -397,8 +414,16 @@
 
 ### [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
 
+### [SB 5571](/bill/2025-26/sb/5571/) - Exterior cladding materials 👍1  
+
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
 * 👎💵 Lindsey Hueer
+
+### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat.  👎1 
+* 👎💵 Morgan Irwin
+
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets  👎1 
+* 👎💵 Morgan Irwin
 
 ### [SB 5596](/bill/2025-26/sb/5596/) - Interstate teacher compact  👎1 
 
@@ -407,11 +432,13 @@
 
 ### [SB 5644](/bill/2025-26/sb/5644/) - Gift card criminal conduct 👍1  
 
-## [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍1  
+### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍1  
+
+## [SB 5660](/bill/2025-26/sb/5660/) - Water & sewage system access 👍1  
 
 ## 2023-24
 
-### [SB 5655](/bill/2023-24/sb/5655/) - Child care centers/buildings 👍1  
+### [SB 5660](/bill/2023-24/sb/5660/) - Water & sewage system access 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/10/2025 [The Urbanist](/org/the_urbanist/) - [Lawmaker Seeks to Jumpstart New Passenger Ferry Routes Across Puget Sound - The Urbanist](https://www.theurbanist.org/2025/02/10/lawmaker-seeks-new-passenger-ferry-routes-puget-sound/#:~:text=sponsoring%20a%20bill)
+
 ## Meetings
 ### Wed 02/14 04:00 PM - Transportation (TR): HB 2497 Ferries 75 work group
 #### 360 👍 - Pro

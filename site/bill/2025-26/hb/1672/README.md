@@ -17,10 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163338&caId=25627&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163338&caId=25627&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 0 ❓ - Other

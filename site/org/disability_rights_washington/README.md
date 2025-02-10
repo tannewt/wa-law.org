@@ -51,6 +51,8 @@
 ### [HB 1418](/bill/2025-26/hb/1418/) - PTBA governing body members 👍1  
 * 👍💵 Anna Zivarts
 
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers 👍1  

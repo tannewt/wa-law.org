@@ -8,15 +8,17 @@
 
 ## Meetings
 ### Mon 02/10 10:30 AM - Labor & Commerce (LC): SB 5206 Cannabis advertising
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32750&aId=163692&caId=25707&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32750&aId=163692&caId=25707&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32750&aId=163692&caId=25707&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32750&aId=163692&caId=25707&tId=4)
+#### 14 👍 - Pro
+Testifying:
+* 💵Brooke Davies - Washington CannaBusiness Association
+* Sara Eltinge - The Herbery
+* Bethany Rondeaux - [Washington Cannabis Licensee Association](/org/washington_cannabis_licensee_association/)
+* Eric Gaston - The Evergreen Market
+* Ian Eisenberg - Uncle Ikes
+* Scott Atkison - Zips Cannabis
+* Shea Hynes - Lux Pot Shop
 
-#### 0 👍 - Pro
-
-#### 4 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 * Gay-Lynn Beighton

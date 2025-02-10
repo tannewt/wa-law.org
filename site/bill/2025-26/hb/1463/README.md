@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32761&aId=163236&caId=25573&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32761&aId=163236&caId=25573&tId=4)
 
-#### 51 👍 - Pro
+#### 136 👍 - Pro
+Testifying:
+* Irene Muller - Essentials First
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other

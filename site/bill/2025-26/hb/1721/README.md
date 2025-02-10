@@ -17,11 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163515&caId=25570&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163515&caId=25570&tId=4)
 
-#### 12 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Dwight Bickel - consumers
 
-#### 570 👎 - Con
+#### 621 👎 - Con
 Testifying:
 * Curt Augustine - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 * 💵Jeffrey Perry - General Motors

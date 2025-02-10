@@ -41,7 +41,7 @@
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍1  
 * 👍💵 Heather Trim
 
-### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍2  
+### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍3  
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
@@ -75,13 +75,14 @@
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
 
-## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
+### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 * 👍💵 Heather Trim
+
+## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
 
 ## 2023-24
 
-### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction 👍1  
-* 👍💵 Heather Trim
+### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍1  
 
 ### [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍2  
 * 👍💵 Heather Trim

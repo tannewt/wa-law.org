@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32718&aId=163584&caId=25723&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32718&aId=163584&caId=25723&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Alex Fernandez - Polymeric Exterior Products Association
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 0 👎 - Con
 

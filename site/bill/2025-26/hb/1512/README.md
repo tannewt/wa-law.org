@@ -17,19 +17,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32735&aId=163123&caId=25553&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32735&aId=163123&caId=25553&tId=4)
 
-#### 1183 👍 - Pro
+#### 2044 👍 - Pro
 Testifying:
 * Maya Meisenzahl
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * John Choi - Ramsey County Attorney's Office
 * Kelly Moore - NYU Policing Project
 * Stacy Taeuber - WA Defenders Association
+* Kurtis Robinson - WCPA/I Did the Time
+* 💵Nickeia Hunter - WA Coalition for Police Accountability
+* Les Baldik - Les's Local Honey
 
-#### 7 👎 - Con
+#### 397 👎 - Con
 Testifying:
 * Brian Smith - Chief of Police
 * David Sedelmeier
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 
-#### 6 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * Deion Glover - Washington State Patrol

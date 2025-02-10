@@ -15,12 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163646&caId=25738&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163646&caId=25738&tId=4)
 
-#### 15 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Lindsey Viscarra - National Organization for Rare Disorders
 * Mary McDirmid - NW Rare Disease Coalition
 
-#### 2 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other
 

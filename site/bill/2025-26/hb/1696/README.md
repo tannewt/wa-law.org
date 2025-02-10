@@ -17,13 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163181&caId=25623&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163181&caId=25623&tId=4)
 
-#### 35 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * LaKeisha Davis - Habitat for Humanity Spokane
 * Lisa DeBrock - WA State Housing Finance Commission
 * Patience M Malaba - HDC
 * Darryl Smith - HomeSight
+* 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
+* 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
+* Adria Buchanan - Fair Housing Center of Washington
 
-#### 1 👎 - Con
+#### 479 👎 - Con
 
 #### 0 ❓ - Other

@@ -26,7 +26,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163637&caId=25744&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163637&caId=25744&tId=4)
 
-#### 449 👍 - Pro
+#### 1231 👍 - Pro
 Testifying:
 * Flip Herndon - Capital Region Educational Service District 113, Superintendent
 * Ismael Vivanco - Northwest Educational Service District 189, Superintendent
@@ -35,9 +35,10 @@ Testifying:
 * Jennifer Ross
 * James Mellon
 * Lindsey Yocum - Board Director, Lake Washington School District
+* Mary Templeton - Lake Stevens School District
 * Andi Tress - Everett Public Schools
 
-#### 1 👎 - Con
+#### 288 👎 - Con
 
 #### 1 ❓ - Other
 

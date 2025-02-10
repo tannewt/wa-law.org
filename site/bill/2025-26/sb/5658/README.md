@@ -8,16 +8,13 @@
 
 ## Meetings
 ### Mon 02/10 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5658 Workforce education account
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32784&aId=163760&caId=25760&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32784&aId=163760&caId=25760&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32784&aId=163760&caId=25760&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32784&aId=163760&caId=25760&tId=4)
-
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Ed Lazowska - UW Paul G. Allen School for Computer Science & Engineering
+* 💵Rose Feliciano - TechNet
 
-#### 0 👎 - Con
+#### 68 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Sam Ligon - Washington State Council of Faculty; Eastern Washington University Faculty Legislative Rep.

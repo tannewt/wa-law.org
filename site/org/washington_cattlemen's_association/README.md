@@ -13,6 +13,8 @@
 
 ### [HB 1630](/bill/2025-26/hb/1630/) - Livestock methane emissions  👎2 
 
+### [HB 1705](/bill/2025-26/hb/1705/) - Large animal veterinarians 👍1  
+
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 
 ### [SB 5117](/bill/2025-26/sb/5117/) - Protecting agriculture. 👍1  

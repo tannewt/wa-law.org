@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 ❓ - Other

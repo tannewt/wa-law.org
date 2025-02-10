@@ -91,6 +91,9 @@
 
 ### [HB 1688](/bill/2025-26/hb/1688/) - Electric security alarms 👍1  
 
+### [HB 1732](/bill/2025-26/hb/1732/) - Home buying by entities  👎1 
+* 👎💵 Brent Ludeman
+
 ### [HB 1757](/bill/2025-26/hb/1757/) - Residential use/existing 👍1  
 
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement  👎1 
@@ -103,7 +106,7 @@
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
 
-### [SB 5109](/bill/2025-26/sb/5109/) - Concerning the mortgage lending fraud prosecution account.  👎1 
+### [SB 5109](/bill/2025-26/sb/5109/) - Concerning the mortgage lending fraud prosecution account.  👎2 
 
 ### [SB 5111](/bill/2025-26/sb/5111/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
 * 👍💵 Andrea Smiley
@@ -156,6 +159,11 @@
 ### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process 👍1  
 * 👍💵 Andrea Smiley
 
+### [SB 5571](/bill/2025-26/sb/5571/) - Exterior cladding materials 👍1  
+* 👍💵 Andrea Smiley
+
+### [SB 5573](/bill/2025-26/sb/5573/) - Electric security alarms 👍1  
+
 ### [SB 5580](/bill/2025-26/sb/5580/) - Corp. homeowner registration  👎1 
 * 👎💵 Bill Stauffacher
 
@@ -165,11 +173,15 @@
 ### [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍1  
 * 👍💵 Bill Stauffacher
 
-## [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎1 
+### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎1 
+
+## [SB 5660](/bill/2025-26/sb/5660/) - Water & sewage system access 👍1  
+* 👍💵 Andrea Smiley
 
 ## 2023-24
 
-### [SB 5626](/bill/2023-24/sb/5626/) - Wage replacement  👎1 
+### [SB 5660](/bill/2023-24/sb/5660/) - Water & sewage system access 👍1  
+* 👍💵 Andrea Smiley
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

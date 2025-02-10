@@ -10,6 +10,9 @@
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
 
+### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍1  
+* 👍 Katy Ricchiuto
+
 ## [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
 
 ## 2023-24

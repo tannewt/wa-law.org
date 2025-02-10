@@ -17,9 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163617&caId=25734&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163617&caId=25734&tId=4)
 
-#### 5 👍 - Pro
+#### 46 👍 - Pro
+Testifying:
+* Kassie Watters - Apple Tree
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

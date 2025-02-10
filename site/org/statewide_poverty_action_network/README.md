@@ -78,11 +78,13 @@
 
 ### [SB 5589](/bill/2025-26/sb/5589/) - Insurance & credit study 👍1  
 
-## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍1  
+## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍2  
+* 👍 Molly Molly
 
 ## 2023-24
 
-### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemption amount 👍1  
+### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemption amount 👍2  
+* 👍 Molly Molly
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 

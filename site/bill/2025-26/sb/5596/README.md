@@ -14,9 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32758&aId=163221&caId=25672&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32758&aId=163221&caId=25672&tId=4)
 
-#### 137 👍 - Pro
+#### 301 👍 - Pro
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * John Axtell
 

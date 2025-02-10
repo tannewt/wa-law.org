@@ -5,6 +5,8 @@
 
 ### [HB 1018](/bill/2025-26/hb/1018/) - Fusion energy facilities 👍1  
 
+### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
+
 ### [HB 1132](/bill/2025-26/hb/1132/) - Bulk firearm purchases 👍1  
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
@@ -27,6 +29,8 @@
 
 ### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍1  
 
+### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections 👍1  
+
 ### [HB 1388](/bill/2025-26/hb/1388/) - Mobile market programs 👍1  
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
@@ -42,6 +46,8 @@
 
 ### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
 
+### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
+
 ### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍1  
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
@@ -56,10 +62,21 @@
 
 ### [HB 1621](/bill/2025-26/hb/1621/) - Housing court commissioners 👍1  
 
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍1  
+
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍1  
 
 ### [HB 1657](/bill/2025-26/hb/1657/) - Washington 13 free guarantee 👍1  
 * 👍 Brittany Ota-Malloy
+
+### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
+* 👍 Venu Nemani
+
+### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
+
+### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
+
+### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
@@ -75,6 +92,8 @@
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers 👍1  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
+
+### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act.   ❓1
 
@@ -103,6 +122,9 @@
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 
 ### [SB 5584](/bill/2025-26/sb/5584/) - Independent prosecutor 👍1  
+
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
+* 👍 Venu Nemani
 
 ## [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
 

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/10/2025 [Axios](/org/axios/) - [Washington Legislature may force cities to allow neighborhood corner stores and cafes - Axios Seattle](https://www.axios.com/local/seattle/2025/02/10/neighborhood-cafe-law-washington-state#:~:text=House%20Bill%201175)
 * 01/31/2025 [The Urbanist](/org/the_urbanist/) - [Rolling Out The Urbanist 2025’s Advocacy Agenda and Early Events - The Urbanist](https://www.theurbanist.org/2025/01/31/the-urbanist-2025s-advocacy-agenda/#:~:text=House%20Bill%201175)
 * 01/15/2025 [MyNorthwest](/org/mynorthwest/) - [Law mandates cafés be allowed in all Washington neighborhoods](https://mynorthwest.com/ktth/ktth-opinion/rantz-new-law-brings-small-cafes-to-every-washington-neighborhood-that-wants-one/4028664#:~:text=House%20Bill%201175)
 

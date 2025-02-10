@@ -5,6 +5,8 @@
 * 👍 Joseph Tovar
 * 👍 Joseph Tovar
 
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍1  
+
 ## [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters 👍1  
 * 👍 Joseph Tovar
 

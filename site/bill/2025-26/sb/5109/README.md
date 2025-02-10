@@ -17,9 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163619&caId=25736&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163619&caId=25736&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Hugo Torres - King County Prosecuting Attorney's Office
+* Patrick Hinds - King County Prosecuting Attorney's Office
 
-#### 40 👎 - Con
+#### 535 👎 - Con
 
 #### 0 ❓ - Other
 

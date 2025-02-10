@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1719/</link>
 		<description>Updates about HB 1719</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 19:05:49 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 09 Feb 2025 12:30:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -36,6 +36,14 @@
 			<pubDate>Fri, 07 Feb 2025 19:05:49 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201719</guid>
+		</item>
+		<item>
+			<title>👍💵Daniel Olson - Washington Brewers Guild</title>
+			<description>Daniel Olson signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_brewers_guild/"&gt;Washington Brewers Guild&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 09 Feb 2025 12:30:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Daniel/Olson/2025-02-09 12:30:21</guid>
 		</item>
 	</channel>
 </rss>

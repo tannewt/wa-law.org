@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/2497/</link>
 		<description>Updates about HB 2497</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 14 Feb 2024 09:48:04 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 15:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -117,6 +117,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Larry/Seaquist/2024-02-14 09:48:04</guid>
+		</item>
+		<item>
+			<title>Lawmaker Seeks to Jumpstart New Passenger Ferry Routes Across Puget Sound - The Urbanist</title>
+			<description>News article "Lawmaker Seeks to Jumpstart New Passenger Ferry Routes Across Puget Sound - The Urbanist" from The Urbanist.</description>
+			<pubDate>Mon, 10 Feb 2025 15:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2025/02/10/lawmaker-seeks-new-passenger-ferry-routes-puget-sound/#:~:text=sponsoring%20a%20bill</guid>
 		</item>
 	</channel>
 </rss>

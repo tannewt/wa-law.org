@@ -14,12 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163666&caId=25730&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163666&caId=25730&tId=4)
 
-#### 3 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Sandy Hubbard
 * Geoff Arthur - Co-Chair - University of Washington Lung Transplant Support Program
 * David Joswick - Co-Chair - University of Washington Lung Transplant Support Program
+* Karen Schiewetz
+* Joyce Baker - Committee Member - University of Washington Lung Transplant Support Program
+* Jenna Pringle Huerta - Life Center NW
+* Laura Givins - Mother
+* Carlene Young - Commitee Member - University of Washington Lung Transplant Support Program
+* Kimberly Tryhorn - Member, University of Washington Lung Transplant Support Program
+* Gavin Joswick - Caregiver Member - University of Washington Lung Transplant Support Program
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32718&aId=163580&caId=25719&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32718&aId=163580&caId=25719&tId=4)
 
-#### 4 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* john worthington - 303 s 5th ave g 53
 
 #### 0 👎 - Con
 

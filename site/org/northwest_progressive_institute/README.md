@@ -16,7 +16,8 @@
 
 ### [HB 1321](/bill/2025-26/hb/1321/) - Outside militia activities 👍1  
 
-### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections 👍1  
+### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections 👍2  
+* 👍 Andrew Villeneuve
 * 👍 Andrew Villeneuve
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  

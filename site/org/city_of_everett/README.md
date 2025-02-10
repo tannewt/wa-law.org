@@ -4,6 +4,8 @@
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
 * ❓ Paula Rhyne
 
+### [HB 1276](/bill/2025-26/hb/1276/) - Organized retail theft 👍1  
+
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
@@ -12,12 +14,16 @@
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
+### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
+
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 * 👍 Dan Templeman
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 
 ## [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1380/</link>
 		<description>Updates about HB 1380</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 02:04:48 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 08:43:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -271,6 +271,54 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Curtis/Steinhauer/2025-02-07 02:04:48</guid>
+		</item>
+		<item>
+			<title>👎Kate Gregory - Washington Association of Counties</title>
+			<description>Kate Gregory signed up to testify Con.</description>
+			<pubDate>Sat, 08 Feb 2025 01:08:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kate/Gregory/2025-02-08 01:08:35</guid>
+		</item>
+		<item>
+			<title>👎Christina Schuck - City of Kent, Deputy City Attorney</title>
+			<description>Christina Schuck signed up to testify Con. They are signed up to represent City of Kent, Deputy City Attorney.</description>
+			<pubDate>Sat, 08 Feb 2025 04:11:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Christina/Schuck/2025-02-08 04:11:00</guid>
+		</item>
+		<item>
+			<title>👎Melissa Chin - Assistant City Attorney, City of Bellevue</title>
+			<description>Melissa Chin signed up to testify Con. They are signed up to represent Assistant City Attorney, City of Bellevue.</description>
+			<pubDate>Sun, 09 Feb 2025 11:45:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Melissa/Chin/2025-02-09 11:45:52</guid>
+		</item>
+		<item>
+			<title>👎Timothy Bruya - Assistant City Attorney, City of Bellevue</title>
+			<description>Timothy Bruya signed up to testify Con.</description>
+			<pubDate>Sun, 09 Feb 2025 12:05:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Timothy/Bruya/2025-02-09 12:05:56</guid>
+		</item>
+		<item>
+			<title>👎Phil Altmeyer - Assistant City Attorney, City of Bellevue</title>
+			<description>Phil Altmeyer signed up to testify Con.</description>
+			<pubDate>Sun, 09 Feb 2025 12:49:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Phil/Altmeyer/2025-02-09 12:49:17</guid>
+		</item>
+		<item>
+			<title>👍Councilmember Lindsey Schromen-Wawrin - Office of the Insurance Commissioner</title>
+			<description>Councilmember Lindsey Schromen-Wawrin signed up to testify Pro.</description>
+			<pubDate>Mon, 10 Feb 2025 08:43:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Councilmember Lindsey/Schromen-Wawrin/2025-02-10 08:43:10</guid>
 		</item>
 	</channel>
 </rss>

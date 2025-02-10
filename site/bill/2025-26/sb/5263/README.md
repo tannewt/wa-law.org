@@ -26,7 +26,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163639&caId=25746&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163639&caId=25746&tId=4)
 
-#### 513 👍 - Pro
+#### 1415 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Spokane, Richland, Evergreen and Vancouver Public Schools
 * Tim Merlino - ESD 112, Superintendent
@@ -35,10 +35,17 @@ Testifying:
 * John Axtell
 * Angela Steck - Washington State PTA
 * Lindsey Yocum - Board Director, Lake Washington School District
+* Mary Templeton - Lake Stevens School District
 * Andi Tress - Everett Public Schools
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
+* 💵Clifford Traisman - Highline and Northshore Public School Districts and Seattle and Bellevue Public Schools
+* Dr. Kelly Aramaki - Superintendent, Bellevue School District
+* Samantha Fogg - Seattle Council PTSA Co-President
+* Martha Patterson - [Washington Education Association](/org/washington_education_association/)
+* Roman Honeycutt
+* Natalie Cui
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 
 #### 1 ❓ - Other
 

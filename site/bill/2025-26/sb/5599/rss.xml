@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5599/</link>
 		<description>Updates about SB 5599</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 30 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 09 Feb 2025 07:48:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,46 @@
 			<pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-30/First reading, referred to Agriculture &amp; Natural Resources (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>👎Shannon Moore - Puget Sound Gillnet Fishermen</title>
+			<description>Shannon Moore signed up to testify Con. They are signed up to represent Puget Sound Gillnet Fishermen.</description>
+			<pubDate>Sat, 08 Feb 2025 01:04:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Shannon/Moore/2025-02-08 01:04:57</guid>
+		</item>
+		<item>
+			<title>👎Fred Marinkovich - President/Puget Sound Harvesters Association</title>
+			<description>Fred Marinkovich signed up to testify Con. They are signed up to represent President/Puget Sound Harvesters Association.</description>
+			<pubDate>Sat, 08 Feb 2025 03:04:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Fred/Marinkovich/2025-02-08 03:04:17</guid>
+		</item>
+		<item>
+			<title>👍Steve Thatcher - Association of Washington Business</title>
+			<description>Steve Thatcher signed up to testify Pro.</description>
+			<pubDate>Sat, 08 Feb 2025 07:27:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Steve/Thatcher/2025-02-08 07:27:36</guid>
+		</item>
+		<item>
+			<title>👍Terry Steben - Hood Canal Beach Seine Fleet</title>
+			<description>Terry Steben signed up to testify Pro. They are signed up to represent Hood Canal Beach Seine Fleet.</description>
+			<pubDate>Sat, 08 Feb 2025 12:16:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Terry/Steben/2025-02-08 12:16:37</guid>
+		</item>
+		<item>
+			<title>👍Eric Osvaldik - Hood Canal Beach Seine Fleet</title>
+			<description>Eric Osvaldik signed up to testify Pro.</description>
+			<pubDate>Sun, 09 Feb 2025 07:48:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Eric/Osvaldik/2025-02-09 07:48:34</guid>
 		</item>
 	</channel>
 </rss>

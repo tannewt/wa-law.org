@@ -17,10 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32723&aId=163494&caId=25561&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32723&aId=163494&caId=25561&tId=4)
 
-#### 2 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Brad Tower - [Washington Liquor Store Association](/org/washington_liquor_store_association/)
 
-#### 5 👎 - Con
+#### 91 👎 - Con
+Testifying:
+* Jessica Davenport
 
 #### 0 ❓ - Other

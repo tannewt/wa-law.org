@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163667&caId=25731&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163667&caId=25731&tId=4)
 
-#### 1 👍 - Pro
+#### 144 👍 - Pro
+Testifying:
+* Katy Ricchiuto - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* David Jones - Cooper Jones Active Transportation Safety Council
 
-#### 0 👎 - Con
+#### 48 👎 - Con
+Testifying:
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

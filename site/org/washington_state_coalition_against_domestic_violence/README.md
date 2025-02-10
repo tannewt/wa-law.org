@@ -3,7 +3,11 @@
 
 ### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor. 👍1  
 
+### [HB 1139](/bill/2025-26/hb/1139/) - Unlawful firearm possession 👍1  
+
 ### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍1  
+
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍1  
 
 ### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍1  
 
@@ -26,11 +30,13 @@
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 * 👍💵 Melanie Smith
 
-## [SB 5356](/bill/2025-26/sb/5356/) - Criminal justice trainings 👍1  
+### [SB 5356](/bill/2025-26/sb/5356/) - Criminal justice trainings 👍1  
+
+## [SB 5536](/bill/2025-26/sb/5536/) - Property distrib./divorce 👍1  
 
 ## 2023-24
 
-### [SB 5356](/bill/2023-24/sb/5356/) - Criminal justice trainings 👍1  
+### [SB 5536](/bill/2023-24/sb/5536/) - Property distrib./divorce 👍1  
 
 ### [HB 1121](/bill/2023-24/hb/1121/) - Uniform child abduction act 👍1  
 

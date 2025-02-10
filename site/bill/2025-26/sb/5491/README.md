@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32787&aId=163532&caId=25665&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32787&aId=163532&caId=25665&tId=4)
 
-#### 51 👍 - Pro
+#### 145 👍 - Pro
+Testifying:
+* Chris Martin - WA Prescribed Fire Council
+* Ray Entz - Kalispel Tribe of Indians
+* Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

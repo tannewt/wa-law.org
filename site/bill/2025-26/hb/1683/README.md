@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163274&caId=25580&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163274&caId=25580&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
+* Nina Martinez - Latino Civic Alliance
 
-#### 0 👎 - Con
+#### 18 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Dr. Karen Bolton - Washington State School Directors' Association

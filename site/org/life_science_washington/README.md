@@ -8,7 +8,7 @@
 
 ### [HB 1444](/bill/2025-26/hb/1444/) - Whole genome sequencing 👍1  
 
-### [SB 5064](/bill/2025-26/sb/5064/) - Rare diseases adv. council 👍1  
+### [SB 5064](/bill/2025-26/sb/5064/) - Rare diseases adv. council 👍2  
 
 ## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 
 

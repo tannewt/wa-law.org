@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163565&caId=25593&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163565&caId=25593&tId=4)
 
-#### 1 👍 - Pro
+#### 44 👍 - Pro
+Testifying:
+* 💵Charlee Thompson - NW Energy Coalition
+* Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 
-#### 2 👎 - Con
+#### 533 👎 - Con
 Testifying:
 * 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
+* Joe Fernandi - Seattle City Light
 
 #### 0 ❓ - Other

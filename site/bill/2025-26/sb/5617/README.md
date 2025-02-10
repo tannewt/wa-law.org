@@ -17,11 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32760&aId=163233&caId=25701&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32760&aId=163233&caId=25701&tId=4)
 
-#### 8 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Karen Pillar - TeamChild
 * 💵Aaron Yared - [Building Changes](/org/building_changes/)
+* 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Julie Watts - Department of Children, Youth and Families

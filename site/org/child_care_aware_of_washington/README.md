@@ -14,13 +14,13 @@
 
 ### [HB 1314](/bill/2025-26/hb/1314/) - Early learning facilities 👍1  
 
-### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  
+### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍2  
 
 ### [HB 1582](/bill/2025-26/hb/1582/) - Concerning child care centers operated in existing buildings. 👍1  
 
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications   ❓1
 
-### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
+### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍2  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Emily Murphy
@@ -35,11 +35,13 @@
 
 ### [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
 
-## [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+## [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍1  
 
 ## 2023-24
 
-### [SB 5509](/bill/2023-24/sb/5509/) - Child care center siting 👍1  
+### [SB 5655](/bill/2023-24/sb/5655/) - Child care centers/buildings 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍2  
 
