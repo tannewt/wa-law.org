@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32726&aId=163552&caId=25638&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32726&aId=163552&caId=25638&tId=4)
 
-#### 8 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
 * Matthew Cohen - Stoel Rives
+* Lee Lambert - [Washington Bikes](/org/washington_bikes/)
 
-#### 7 👎 - Con
+#### 17 👎 - Con
 
 #### 0 ❓ - Other

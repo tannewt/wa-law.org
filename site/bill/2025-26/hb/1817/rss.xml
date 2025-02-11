@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1817/</link>
 		<description>Updates about HB 1817</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 07:27:18 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Feb 2025 08:30:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,7 +31,7 @@
 			<guid isPermaLink="false">testifier/Lilah/Wakefield/2025-02-05 09:43:57</guid>
 		</item>
 		<item>
-			<title>👎John Axtell - LYAC</title>
+			<title>👎John Axtell - Home</title>
 			<description>John Axtell signed up to testify Con.</description>
 			<pubDate>Fri, 07 Feb 2025 04:34:34 GMT</pubDate>
 			<category>testifier</category>
@@ -77,12 +77,28 @@
 			<guid isPermaLink="false">testifier/Sarah/Wen/2025-02-08 09:29:24</guid>
 		</item>
 		<item>
-			<title>❓Gabriel Jacobs - LYAC</title>
+			<title>❓Gabriel Jacobs - Home</title>
 			<description>Gabriel Jacobs signed up to testify Other.</description>
 			<pubDate>Mon, 10 Feb 2025 07:27:18 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Gabriel/Jacobs/2025-02-10 07:27:18</guid>
+		</item>
+		<item>
+			<title>👍Sarah Albertson - Office of Superintendent of Public Instruction (OSPI)</title>
+			<description>Sarah Albertson signed up to testify Pro. They are signed up to represent Office of Superintendent of Public Instruction (OSPI).</description>
+			<pubDate>Tue, 11 Feb 2025 08:01:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sarah/Albertson/2025-02-11 08:01:13</guid>
+		</item>
+		<item>
+			<title>👍Elizabeth Sadak - Home</title>
+			<description>Elizabeth Sadak signed up to testify Pro. They are signed up to represent Home.</description>
+			<pubDate>Tue, 11 Feb 2025 08:30:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Elizabeth/Sadak/2025-02-11 08:30:57</guid>
 		</item>
 	</channel>
 </rss>

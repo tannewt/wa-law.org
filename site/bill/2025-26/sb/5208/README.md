@@ -27,9 +27,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32715&aId=163902&caId=25810&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32715&aId=163902&caId=25810&tId=4)
 
-#### 29 👍 - Pro
+#### 41 👍 - Pro
 
-#### 25 👎 - Con
+#### 33 👎 - Con
 Testifying:
 * Arthur West
 * Kathleen Saul - [Sierra Club](/org/sierra_club/)

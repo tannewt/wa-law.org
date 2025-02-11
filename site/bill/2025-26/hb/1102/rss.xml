@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1102/</link>
 		<description>Updates about HB 1102</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 11:38:43 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -120,6 +120,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jim/Stoffer/2025-01-29 11:38:43</guid>
+		</item>
+		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-10/APP - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

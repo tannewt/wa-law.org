@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Kelly Kramer - Washington State Board of Health
 
 #### 0 ❓ - Other

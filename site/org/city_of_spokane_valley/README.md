@@ -17,7 +17,7 @@
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓2
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program.  👎1 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element  👎1 
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1777/</link>
 		<description>Updates about HB 1777</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 12:31:34 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Feb 2025 09:05:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -56,7 +56,7 @@
 			<guid isPermaLink="false">testifier/John/Axtell/2025-02-07 04:16:18</guid>
 		</item>
 		<item>
-			<title>👎Kaley Henneman - ABC of Western Washington</title>
+			<title>👎Kaley Henneman - Inland NW AGC Apprenticeship Program(s)</title>
 			<description>Kaley Henneman signed up to testify Con.</description>
 			<pubDate>Fri, 07 Feb 2025 11:48:49 GMT</pubDate>
 			<category>testifier</category>
@@ -220,6 +220,54 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Paul/Briganti/2025-02-10 12:31:34</guid>
+		</item>
+		<item>
+			<title>👎Dawa Sherpa - Certified Electrical Workers of Washington</title>
+			<description>Dawa Sherpa signed up to testify Con.</description>
+			<pubDate>Tue, 11 Feb 2025 07:42:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Dawa/Sherpa/2025-02-11 07:42:42</guid>
+		</item>
+		<item>
+			<title>👍David Peachey - ABC of Western Washington</title>
+			<description>David Peachey signed up to testify Pro.</description>
+			<pubDate>Tue, 11 Feb 2025 07:49:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/Peachey/2025-02-11 07:49:00</guid>
+		</item>
+		<item>
+			<title>👍Michael Ankney - Inland NW AGC Apprenticeship Program(s)</title>
+			<description>Michael Ankney signed up to testify Pro. They are signed up to represent Inland NW AGC Apprenticeship Program(s).</description>
+			<pubDate>Tue, 11 Feb 2025 07:49:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michael/Ankney/2025-02-11 07:49:10</guid>
+		</item>
+		<item>
+			<title>👎Renee Michener - Laborers' Health and Safety - LIUNA</title>
+			<description>Renee Michener signed up to testify Con. They are signed up to represent Laborers' Health and Safety - LIUNA.</description>
+			<pubDate>Tue, 11 Feb 2025 08:37:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Renee/Michener/2025-02-11 08:37:03</guid>
+		</item>
+		<item>
+			<title>👎Nadeem Ismail - N I Painting and Construction Co</title>
+			<description>Nadeem Ismail signed up to testify Con. They are signed up to represent N I Painting and Construction Co.</description>
+			<pubDate>Tue, 11 Feb 2025 08:43:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Nadeem/Ismail/2025-02-11 08:43:11</guid>
+		</item>
+		<item>
+			<title>👎💵Amanda Jahshan - Sheet Metal Workers Locals 66 &amp; 55</title>
+			<description>Amanda Jahshan signed up to testify Con. They are signed up to represent Sheet Metal Workers Locals 66 &amp; 55. They are a registered lobbyist.</description>
+			<pubDate>Tue, 11 Feb 2025 09:05:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Amanda/Jahshan/2025-02-11 09:05:53</guid>
 		</item>
 	</channel>
 </rss>

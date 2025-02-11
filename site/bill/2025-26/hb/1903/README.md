@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163737&caId=25795&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163737&caId=25795&tId=4)
 
-#### 117 👍 - Pro
+#### 130 👍 - Pro
 Testifying:
 * Daniel Fagerlie - Ferry PUD
 

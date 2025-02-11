@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HJM 4000 - Martin Luther King, Jr. Way</title>
+		<link>https://wa-law.org/bill/2025-26/hjm/4000/</link>
+		<description>Updates about HJM 4000</description>
+		<language>en-US</language>
+		<lastBuildDate>Wed, 29 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-09/Prefiled for introduction.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Transportation.</title>
+			<description>First reading, referred to Transportation.</description>
+			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-13/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍Gwen Allen-Carston - Mayor, City of Issaquah</title>
+			<description>Gwen Allen-Carston signed up to testify Pro.</description>
+			<pubDate>Fri, 17 Jan 2025 10:47:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Gwen/Allen-Carston/2025-01-17 10:47:07</guid>
+		</item>
+		<item>
+			<title>👍Gwen Allen-Carston - Mayor, City of Issaquah</title>
+			<description>Gwen Allen-Carston signed up to testify Pro.</description>
+			<pubDate>Mon, 20 Jan 2025 11:14:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Gwen/Allen-Carston/2025-01-20 11:14:54</guid>
+		</item>
+		<item>
+			<title>👍John Boyd - Mayor, City of Issaquah</title>
+			<description>John Boyd signed up to testify Pro.</description>
+			<pubDate>Thu, 23 Jan 2025 10:27:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Boyd/2025-01-23 10:27:02</guid>
+		</item>
+		<item>
+			<title>TR - Executive action taken by committee.</title>
+			<description>TR - Executive action taken by committee.</description>
+			<pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-29/TR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>TR - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>TR - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-29/TR - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+	</channel>
+</rss>

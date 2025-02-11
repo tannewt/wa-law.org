@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1213](/bill/2025-26/hb/1213/)
 
-# HB 1213 - Expanding protections for workers in the state paid family and medical leave program.
+# HB 1213 - Paid family & medical leave
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1213&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/29/2025 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Who is left out of the Paid Family and Medical Leave Act? - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/paid-family-and-medical-leave-job-protection/#:~:text=House%20Bill%201213)

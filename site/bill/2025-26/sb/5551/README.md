@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/11 08:00 AM - Early Learning & K-12 Education (EDU): SB 5551 School library info and tech
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32758&aId=163219&caId=25670&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32758&aId=163219&caId=25670&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32758&aId=163219&caId=25670&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32758&aId=163219&caId=25670&tId=4)
-
-#### 381 👍 - Pro
+#### 463 👍 - Pro
 Testifying:
 * Athena Luccio
 * Eryn Duffee
@@ -23,9 +17,10 @@ Testifying:
 * Gavin Downing
 * Kellie Hunt
 
-#### 27 👎 - Con
+#### 64 👎 - Con
 
-#### 5 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Alexa Allman - Deer Park School District
 * Sandy Hayes - Washington State School Directors' Association
+* Travis Hanson - Superintendent, Mead School District

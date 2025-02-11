@@ -22,14 +22,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163280&caId=25586&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163280&caId=25586&tId=4)
 
-#### 971 👍 - Pro
+#### 1032 👍 - Pro
 Testifying:
 * Vicki Murray - Washington Policy Center
 * James Harrigan
 
-#### 1898 👎 - Con
+#### 2043 👎 - Con
 Testifying:
 * John Axtell
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 
 #### 7 ❓ - Other
 Testifying:

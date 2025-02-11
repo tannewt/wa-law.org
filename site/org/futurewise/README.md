@@ -19,7 +19,8 @@
 ### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍1  
 * 👍💵 Bryce Yadon
 
-### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍1  
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍2  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
 ### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040.  👎1 

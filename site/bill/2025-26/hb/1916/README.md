@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32766&aId=163859&caId=25786&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32766&aId=163859&caId=25786&tId=4)
 
-#### 337 👍 - Pro
+#### 356 👍 - Pro
+Testifying:
+* 💵Alex Alston
+* Alice Clapman - Brennan Center
 
-#### 588 👎 - Con
+#### 693 👎 - Con
 Testifying:
 * Erica Engelhart
 * Bryan Elliott - Kittitas County Auditor

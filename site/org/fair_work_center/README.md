@@ -7,7 +7,7 @@
 
 ### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍2  
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program. 👍1  
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
@@ -21,6 +21,8 @@
 
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍2  
 * 👍 Danielle Alvarado
+
+### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
 
 ### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍2  
 * 👍 Jeremiah Miller

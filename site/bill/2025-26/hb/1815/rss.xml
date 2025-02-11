@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1815/</link>
 		<description>Updates about HB 1815</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 08:23:37 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 11:44:53 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,7 +31,7 @@
 			<guid isPermaLink="false">testifier/James/McMahan/2025-02-07 11:01:48</guid>
 		</item>
 		<item>
-			<title>👍Dr. Esther Matthews - Stoel Rives</title>
+			<title>👍Dr. Esther Matthews - Washington Bikes</title>
 			<description>Dr. Esther Matthews signed up to testify Pro.</description>
 			<pubDate>Sat, 08 Feb 2025 04:30:44 GMT</pubDate>
 			<category>testifier</category>
@@ -61,6 +61,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Anthony/Powers/2025-02-10 08:23:37</guid>
+		</item>
+		<item>
+			<title>👍Jeremiah Bourgeois - Center for Civil Rights and Critical Justice</title>
+			<description>Jeremiah Bourgeois signed up to testify Pro.</description>
+			<pubDate>Mon, 10 Feb 2025 11:44:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeremiah/Bourgeois/2025-02-10 11:44:53</guid>
 		</item>
 	</channel>
 </rss>

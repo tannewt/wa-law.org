@@ -65,7 +65,7 @@
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success. 👍2  
 
-### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace  👎1 
+### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace  👎2 
 * 👎 Mary Long
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  

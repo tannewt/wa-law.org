@@ -45,7 +45,7 @@
 ### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040. 👍1  
 * 👍 BRIAN ENSLOW
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program.  👎1 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
 * 👎💵 Paul Jewell
 
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
@@ -120,6 +120,8 @@
 
 ### [HB 1625](/bill/2025-26/hb/1625/) - Back country search & rescue  👎1 
 * 👎💵 Brad Banks
+
+### [HB 1700](/bill/2025-26/hb/1700/) - Comprehensive plan updates 👍1  
 
 ### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎1 
 * 👎💵 Paul Jewell

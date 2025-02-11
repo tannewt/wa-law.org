@@ -18,11 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32767&aId=163267&caId=25656&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32767&aId=163267&caId=25656&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Conner Edwards - Professional Campaign Treasurer/CG Edwards PLLAC
 * Jason Michaud - Professional Campaign Treasurer
 
-#### 177 👎 - Con
+#### 180 👎 - Con
 
 #### 0 ❓ - Other

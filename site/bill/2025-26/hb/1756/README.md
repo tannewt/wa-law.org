@@ -22,9 +22,10 @@ Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Monica Ayers - King County, Hazardous Waste Management Program
+* 💵Nick Federici - Toxic Free Future
 
 #### 2 ❓ - Other
 Testifying:

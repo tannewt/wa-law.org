@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32726&aId=163555&caId=25641&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32726&aId=163555&caId=25641&tId=4)
 
-#### 10 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Mary Lou Pauly - Mayor, City of Issaquah
 * Kim Gunderson - [City of Orting](/org/city_of_orting/)
+* Brian Holtzclaw - Master Builders Association of King and Snohomish Counties
 
 #### 0 👎 - Con
 

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163288&caId=25710&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163288&caId=25710&tId=4)
 
-#### 48 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * Marta Peetz - SEIU Healthcare 1199NW
 * 💵Samantha Grad - Teamsters 117

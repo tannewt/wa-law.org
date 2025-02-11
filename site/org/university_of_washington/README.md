@@ -50,6 +50,8 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Morgan Hickel
 
+### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
+
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 * 👍 Joe Dacca
 

@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32756&aId=163622&caId=25597&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32756&aId=163622&caId=25597&tId=4)
 
-#### 18 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * 💵Michael Transue - WA Aggregate and Concrete Association
 * 💵Ray Dumas - OPCMIA - Cement Masons & Plasterers Local Union 528
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
 #### 0 ❓ - Other

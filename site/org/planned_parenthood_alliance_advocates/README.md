@@ -22,7 +22,7 @@
 
 ### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products 👍1  
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program. 👍1  
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
 
 ### [HB 1215](/bill/2025-26/hb/1215/) - Natural death act/pregnancy 👍1  
 

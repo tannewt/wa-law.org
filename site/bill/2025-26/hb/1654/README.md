@@ -16,10 +16,11 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 80 👎 - Con
+#### 83 👎 - Con
 Testifying:
 * 💵Curtis Steinhauer - Washington Association of Counties
 * Randy Collins - Mason County Fire Marshal
 * Lori Burke - Snohomish County Asst Fire Marshal
+* 💵Scott Hazlegrove - Master builders association of king and snohomish counties
 
 #### 0 ❓ - Other

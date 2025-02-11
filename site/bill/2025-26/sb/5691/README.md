@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163691&caId=25696&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163691&caId=25696&tId=4)
 
-#### 289 👍 - Pro
+#### 323 👍 - Pro
 Testifying:
 * Christian Smith
 * John Caner

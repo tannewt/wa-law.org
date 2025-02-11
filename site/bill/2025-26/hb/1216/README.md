@@ -58,7 +58,7 @@ Testifying:
 * Bill Adamson - South Sound Military & Communities Partnership
 * Caroline Villanova - Mountains to Sound Greenway Trust
 * Jordan Rash - Backcountry Hunters and Anglers
-* Yvonne Kraus - Washington Wildlife and Recreation Coalition
+* 💵Yvonne Kraus - Washington Wildlife and Recreation Coalition
 * Jim CastroLang - [Thrive International](/org/thrive_international/)
 * Erin McCardle - [City of Chelan](/org/city_of_chelan/)
 * Mike Gonzalez - [City of Sunnyside](/org/city_of_sunnyside/)

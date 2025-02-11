@@ -26,7 +26,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163639&caId=25746&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163639&caId=25746&tId=4)
 
-#### 2257 👍 - Pro
+#### 2508 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Spokane, Richland, Evergreen and Vancouver Public Schools
 * Tim Merlino - ESD 112, Superintendent
@@ -49,9 +49,15 @@ Testifying:
 * Emma Robinson - Parent
 * Charlie Brown - [Federal Way Public Schools](/org/federal_way_public_schools/)
 * Meghan Jernigan - Shoreline School Board
+* Maisie Antoniello
 * Dominick Ventresco - Pullman School District 267
+* Sonja Mitchell
+* Kristina Mendieta - [Kindering](/org/kindering/)
+* Missy Bontrager
+* Mustapha Kebbeh - [Kindering](/org/kindering/)
+* Elizabeth Sadak - Home
 
-#### 7 👎 - Con
+#### 17 👎 - Con
 
 #### 1 ❓ - Other
 

@@ -18,14 +18,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163338&caId=25627&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163338&caId=25627&tId=4)
 
-#### 17 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Matthew Scherer - [Center for Democracy & Technology](/org/center_for_democracy_&_technology/)
 
-#### 14 👎 - Con
+#### 18 👎 - Con
 Testifying:
 * 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Morgan Irwin - AWB
+* 💵Rose Feliciano - TechNet
 
 #### 0 ❓ - Other

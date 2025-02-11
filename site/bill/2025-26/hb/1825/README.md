@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=4)
 
-#### 203 👍 - Pro
+#### 333 👍 - Pro
 Testifying:
 * Matthew Rudolf - As individual, but I am on the Regional Council for NPCA
 * Susan Kane-Ronning - Washington Sierra Club Wildlife Committee
@@ -45,9 +45,11 @@ Testifying:
 * Rhoda Walter
 * Clay Bobst
 * Jasmine Minbashian - [Methow Valley Citizens Council](/org/methow_valley_citizens_council/)
+* Caitlin Cordell
 * Chris Morgan
+* Nancy Kuta
 
-#### 106 👎 - Con
+#### 139 👎 - Con
 Testifying:
 * Teagan Levine
 

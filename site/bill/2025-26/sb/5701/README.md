@@ -14,9 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163886&caId=25787&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163886&caId=25787&tId=4)
 
-#### 4 👍 - Pro
+#### 61 👍 - Pro
+Testifying:
+* Boris Gresely - Carpenters and Contractors Cooperation Committee
+* Vincent VanBuskirk
+* NATHAN DAVIS-SELLARDS - flynn
+* Dawa Sherpa
+* Moises Marchan
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * 💵Brandon Houskeeper - Associated Builders & Contractors - Western WA / SW Washington Contractors Assoc.
 

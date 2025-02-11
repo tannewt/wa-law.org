@@ -24,7 +24,7 @@ Testifying:
 * Sabrina Johnson - [Cocoon House](/org/cocoon_house/)
 * 💵Samuel Martin - Washington Coalition for Homeless Youth Advocacy
 
-#### 6 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 * Josh Eaton - WFSE Member

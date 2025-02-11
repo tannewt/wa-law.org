@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Tue 02/11 08:00 AM - Finance (FIN): HB 1356 K-12 funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163097&caId=25600&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163097&caId=25600&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163097&caId=25600&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163097&caId=25600&tId=4)
-
-#### 71 👍 - Pro
+#### 78 👍 - Pro
 Testifying:
 * 💵Clifford Traisman - Bellevue, Highline, Northshore Public School Districts
 * 💵Clifford Traisman - Seattle, Bellevue, Highline, Northshore and Seattle Public School Districts
@@ -29,7 +23,7 @@ Testifying:
 * Dr. Curtis Guaglianone - Mt. Adams School District
 * Kate Davis - [Olympia School District](/org/olympia_school_district/)
 
-#### 1340 👎 - Con
+#### 1454 👎 - Con
 Testifying:
 * John Axtell
 * Mike DEACY
@@ -37,7 +31,7 @@ Testifying:
 * Tim Eyman - Initiative Activist
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 65 ❓ - Other
+#### 69 ❓ - Other
 Testifying:
 * 💵Julie Salvi - [Washington Education Association](/org/washington_education_association/)
 * 💵Oliver Miska
@@ -52,6 +46,7 @@ Testifying:
 * Sam Schweda - Spokane International Academy
 * Tom Fleming
 * Charlie Brown - South Sound Superintendents
+* David Knight
 
 ### Thu 01/30 04:00 PM - Appropriations (APP): HB 1356 K-12 funding
 #### 2 👍 - Pro

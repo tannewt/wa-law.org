@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32789&aId=163570&caId=25689&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32789&aId=163570&caId=25689&tId=4)
 
-#### 50 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * Hannah Cvancara
 * Glenn Barfie3ld
@@ -29,8 +29,12 @@ Testifying:
 * Ashley Carvalho
 * Nicole Ver Kuilen
 * Carolyn Hyslop
+* Addie Yake - Citizen
+* Logan Powell - Citizen
+* Vala Hallgrimson
+* Glen Barfield
 
-#### 0 👎 - Con
+#### 6 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

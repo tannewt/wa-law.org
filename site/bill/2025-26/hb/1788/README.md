@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163345&caId=25634&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163345&caId=25634&tId=4)
 
-#### 63 👍 - Pro
+#### 68 👍 - Pro
 Testifying:
 * Chris Ellis - Bricklayers and Allied Craftworkers Local 1
 * 💵Minna Long - Washington State Building & Construction Trades Council
@@ -22,7 +22,7 @@ Testifying:
 * 💵Brenda Wiest - Teamsters 117
 * Joe Kendo - Washington State Labor Council, AFL-CIO
 
-#### 80 👎 - Con
+#### 82 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter

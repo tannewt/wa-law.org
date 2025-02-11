@@ -20,7 +20,7 @@ Testifying:
 * 💵Joyce Willms - Backcountry Horsemen of WA
 * Vivian Eason - Backcountry Horsemen of WA
 * Brian Considine - Washington Department of Natural Resources
-* Yvonne Kraus - [Evergreen Mountain Bike Alliance](/org/evergreen_mountain_bike_alliance/)
+* 💵Yvonne Kraus - [Evergreen Mountain Bike Alliance](/org/evergreen_mountain_bike_alliance/)
 * Joel Sisolak - WDFW
 * 💵Andrea Imler - [Washington Trails Association](/org/washington_trails_association/)
 * Kurt Hellmann - [Conservation Northwest](/org/conservation_northwest/)

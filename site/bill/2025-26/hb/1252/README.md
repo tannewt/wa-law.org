@@ -21,7 +21,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163324&caId=25560&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163324&caId=25560&tId=4)
 
-#### 89 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Jon Schuldt - Chief, City of Renton Police Department
@@ -31,7 +31,9 @@ Testifying:
 * Ashli McVey
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Melissa Johnson - District & Municipal Court Judges' Association
 
 ### Mon 02/03 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1252 Pretrial release
 #### 72 👍 - Pro

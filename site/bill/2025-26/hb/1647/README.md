@@ -19,6 +19,8 @@ Testifying:
 * Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 
-#### 25 👎 - Con
+#### 75 👎 - Con
+Testifying:
+* Charity Whaley
 
 #### 0 ❓ - Other

@@ -17,9 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32743&aId=163168&caId=25700&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32743&aId=163168&caId=25700&tId=4)
 
-#### 82 👍 - Pro
+#### 85 👍 - Pro
+Testifying:
+* 💵Scott Hazlegrove - Master builders association of king and snohomish counties
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 

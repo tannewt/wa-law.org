@@ -6,7 +6,7 @@
 
 ### [HB 1344](/bill/2025-26/hb/1344/) - Respite care 👍1  
 
-### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍2  
+### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍3  
 * 👍💵 Aaron Dickson
 
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  

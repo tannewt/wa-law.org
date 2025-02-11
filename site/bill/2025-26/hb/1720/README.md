@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32710&aId=163178&caId=25612&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32710&aId=163178&caId=25612&tId=4)
 
-#### 210 👍 - Pro
+#### 232 👍 - Pro
 Testifying:
 * Vicki McNealley - [Washington Health Care Association](/org/washington_health_care_association/)
 
 #### 0 👎 - Con
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Alison Bradywood - Washington State Board of Nursing

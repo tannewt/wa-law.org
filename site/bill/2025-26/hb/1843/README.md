@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163342&caId=25631&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163342&caId=25631&tId=4)
 
-#### 16 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
 * Felix Goodman - Lake Washington High School, Capitol Classroom
@@ -22,7 +22,7 @@ Testifying:
 * Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
 * 💵Christoph Mair - [Washington State Labor Council](/org/washington_state_labor_council/)
 
-#### 466 👎 - Con
+#### 557 👎 - Con
 Testifying:
 * KARL MOEGLING
 

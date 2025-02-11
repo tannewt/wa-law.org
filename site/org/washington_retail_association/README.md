@@ -22,7 +22,7 @@
 ### [HB 1126](/bill/2025-26/hb/1126/) - Standardizing notification provisions relating to local tax rate changes and shared taxes administered by the department. 👍1  
 * 👍💵 Mark Johnson
 
-### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎1 
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board  👎1 
 
 ### [HB 1132](/bill/2025-26/hb/1132/) - Bulk firearm purchases  👎1 
 

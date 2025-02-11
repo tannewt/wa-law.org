@@ -57,7 +57,7 @@
 
 ### [HB 1126](/bill/2025-26/hb/1126/) - Standardizing notification provisions relating to local tax rate changes and shared taxes administered by the department. 👍1  
 
-### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎1 
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board  👎1 
 * 👎💵 Lindsey Hueer
 
 ### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers  👎1 
@@ -102,7 +102,7 @@
 ### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences   ❓1
 * ❓ Max Martin
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program.  👎1 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
 * 👎💵 Lindsey Hueer
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
@@ -152,6 +152,8 @@
 
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program  👎1 
 * 👎💵 Peter Godlewski
+
+### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program  👎1 
 
 ### [HB 1430](/bill/2025-26/hb/1430/) - APRN & PA reimbursement  👎1 
 
@@ -263,6 +265,9 @@
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET  👎1 
 
 ### [HB 1879](/bill/2025-26/hb/1879/) - Hospital worker breaks 👍1  
+
+### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace  👎1 
+* 👎💵 Emily Wittman
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 

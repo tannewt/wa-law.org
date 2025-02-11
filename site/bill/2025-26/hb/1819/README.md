@@ -18,10 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32756&aId=163211&caId=25595&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32756&aId=163211&caId=25595&tId=4)
 
-#### 68 👍 - Pro
+#### 86 👍 - Pro
 Testifying:
 * 💵Nicolas Garcia - WPUDA
+* 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
-#### 5 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Janet Luft
 
 #### 0 ❓ - Other

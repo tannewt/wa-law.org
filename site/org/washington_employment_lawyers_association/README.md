@@ -10,7 +10,7 @@
 
 ### [HB 1332](/bill/2025-26/hb/1332/) - Transp. network companies 👍1  
 
-### [HB 1524](/bill/2025-26/hb/1524/) - Concerning workplace standards and requirements applicable to employers of isolated employees. 👍1  
+### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees 👍1  
 * 👍💵 Ellicott Dandy
 
 ### [HB 1619](/bill/2025-26/hb/1619/) - Dockworkers/family leave 👍1  

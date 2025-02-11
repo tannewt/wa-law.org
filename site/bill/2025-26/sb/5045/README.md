@@ -18,7 +18,7 @@ Testifying:
 * 💵James King - [Automotive Recyclers of Washington](/org/automotive_recyclers_of_washington/)
 * 💵Brandon Houskeeper - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 * Jeff Gombosky - [Tesla](/org/tesla/)
-* Daniel Zotos - Redwood Materials
+* 💵Daniel Zotos - Redwood Materials
 
 #### 3 ❓ - Other
 Testifying:

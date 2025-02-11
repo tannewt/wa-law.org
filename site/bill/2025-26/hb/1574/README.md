@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163135&caId=25558&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163135&caId=25558&tId=4)
 
-#### 7 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Caleb Banta-Green - University of Washington, School of Medicine, Addictions, Drug & Alcohol Institute (Professor)
 * Cole Meckle - Gather Church (Pastor)

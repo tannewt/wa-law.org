@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HJM 4001 - Russ Blount memorial bridge</title>
+		<link>https://wa-law.org/bill/2025-26/hjm/4001/</link>
+		<description>Updates about HJM 4001</description>
+		<language>en-US</language>
+		<lastBuildDate>Wed, 29 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to Transportation.</title>
+			<description>First reading, referred to Transportation.</description>
+			<pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-16/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍Debra Blount - Mayor, City of Issaquah</title>
+			<description>Debra Blount signed up to testify Pro.</description>
+			<pubDate>Wed, 22 Jan 2025 05:51:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Debra/Blount/2025-01-22 05:51:58</guid>
+		</item>
+		<item>
+			<title>👍Kim Roscoe - Mayor, City of Issaquah</title>
+			<description>Kim Roscoe signed up to testify Pro.</description>
+			<pubDate>Thu, 23 Jan 2025 04:07:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kim/Roscoe/2025-01-23 04:07:27</guid>
+		</item>
+		<item>
+			<title>TR - Executive action taken by committee.</title>
+			<description>TR - Executive action taken by committee.</description>
+			<pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-29/TR - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>TR - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>TR - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-29/TR - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+	</channel>
+</rss>

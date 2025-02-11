@@ -180,7 +180,7 @@ Testifying:
 * 💵Christine Mahler - Washington Wildlife and Recreation Coalition
 * Daniel Lucio - Hunters of Color
 * Ruth Gifford - Dishman Hills Conservancy
-* Yvonne Kraus - [Evergreen Mountain Bike Alliance](/org/evergreen_mountain_bike_alliance/)
+* 💵Yvonne Kraus - [Evergreen Mountain Bike Alliance](/org/evergreen_mountain_bike_alliance/)
 * Roxanne Miles - Washington Recreation & Park Assoc.
 * Gary Medvigy - Clark County Council
 * Mara Zimmerman - Coast Salmon Partnership

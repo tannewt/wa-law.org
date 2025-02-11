@@ -26,7 +26,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163637&caId=25744&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163637&caId=25744&tId=4)
 
-#### 1920 👍 - Pro
+#### 2122 👍 - Pro
 Testifying:
 * Flip Herndon - Capital Region Educational Service District 113, Superintendent
 * Ismael Vivanco - Northwest Educational Service District 189, Superintendent
@@ -41,8 +41,11 @@ Testifying:
 * Jr, John Polm - [Puyallup School District](/org/puyallup_school_district/)
 * Krestin Bahr - Peninsula School District
 * Charlie Brown - [Federal Way Public Schools](/org/federal_way_public_schools/)
+* Tyler Muench - Office of Superintendent of Public Instruction
+* Elizabeth Sadak - Home
+* 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
 
-#### 472 👎 - Con
+#### 558 👎 - Con
 
 #### 2 ❓ - Other
 

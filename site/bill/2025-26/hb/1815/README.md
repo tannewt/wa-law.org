@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32763&aId=163807&caId=25806&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32763&aId=163807&caId=25806&tId=4)
 
-#### 17 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Dr. Esther Matthews
 * Jessica Levin - Center for Civil Rights and Critical Justice
 * Anthony Powers
+* Jeremiah Bourgeois
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 

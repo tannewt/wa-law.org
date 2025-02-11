@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163341&caId=25630&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163341&caId=25630&tId=4)
 
-#### 732 👍 - Pro
+#### 845 👍 - Pro
 Testifying:
 * Danielle Alvarado - [Fair Work Center](/org/fair_work_center/)
 * Daviyon Hinnant - Teamsters 117
@@ -32,7 +32,7 @@ Testifying:
 * Mathieu Chabaud - UAW 4121
 * Peter Nazzal - Catholic Community Services
 
-#### 1572 👎 - Con
+#### 1735 👎 - Con
 Testifying:
 * 💵Rose Gundersen - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
@@ -55,5 +55,7 @@ Testifying:
 * Jon Walker - Lyft, Inc.
 * MICHAEL MORRIS
 * Charlotte Trevino
+* 💵Michael Gempler - [Washington Growers League](/org/washington_growers_league/)
+* Lilly Hayward - Seattle Metropolitan Chamber of Commerce
 
-#### 16 ❓ - Other
+#### 17 ❓ - Other

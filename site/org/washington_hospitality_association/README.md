@@ -9,7 +9,7 @@
 
 ### [HB 1121](/bill/2025-26/hb/1121/) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 👍1  
 
-### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎2 
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board  👎2 
 
 ### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers  👎1 
 
@@ -24,7 +24,7 @@
 
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍2  
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program.  👎1 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
 * 👎💵 Julia Gorton
 
 ### [HB 1245](/bill/2025-26/hb/1245/) - Electrical transmission cap. 👍1  

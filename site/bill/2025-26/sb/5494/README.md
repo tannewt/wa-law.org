@@ -17,12 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32715&aId=163199&caId=25677&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32715&aId=163199&caId=25677&tId=4)
 
-#### 8 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Steven Hoff - Crosswall Training / LeadClasses.com
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Jamie Switras - Now Environmental
+* Jennifer Caraway - Department of Commerce
+* Katie Meehan - Department of Commerce
 
-#### 100 👎 - Con
+#### 140 👎 - Con
 Testifying:
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 

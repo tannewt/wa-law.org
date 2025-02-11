@@ -79,6 +79,8 @@
 ### [HB 1657](/bill/2025-26/hb/1657/) - Washington 13 free guarantee 👍1  
 * 👍 Brittany Ota-Malloy
 
+### [HB 1733](/bill/2025-26/hb/1733/) - Agency displacement expenses 👍1  
+
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 * 👍 Venu Nemani
 

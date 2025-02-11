@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1213 - Expanding protections for workers in the state paid family and medical leave program.</title>
+		<title>HB 1213 - Paid family &amp; medical leave</title>
 		<link>https://wa-law.org/bill/2025-26/hb/1213/</link>
 		<description>Updates about HB 1213</description>
 		<language>en-US</language>
@@ -198,6 +198,13 @@
 			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-07/LAWS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-07/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

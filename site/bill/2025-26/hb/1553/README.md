@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32738&aId=163137&caId=25523&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32738&aId=163137&caId=25523&tId=4)
 
-#### 44 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * 💵Natalie Doelman - Washington State Dairy Federation
 * Ben Buchholz - [Darigold](/org/darigold/)
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Evan Sheffels - Washington State Department of Agriculture

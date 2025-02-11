@@ -19,13 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=4)
 
-#### 794 👍 - Pro
+#### 853 👍 - Pro
 Testifying:
 * Councilmember Lindsey Schromen-Wawrin
 * Sharyl Brown - Jewels Helping Hands
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 
-#### 560 👎 - Con
+#### 710 👎 - Con
 Testifying:
 * Amy Harris - Clark County Matters
 * Emilie Cameron - Downtown Spokane Partnership
@@ -40,6 +40,7 @@ Testifying:
 * Phil Altmeyer
 * Gavin Cooley - 2800 E Main Ave
 * Caroline Manger - Concerned citizen opposed to this bill
+* Conrad Cipoletti
 
 #### 2 ❓ - Other
 

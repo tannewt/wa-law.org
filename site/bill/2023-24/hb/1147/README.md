@@ -120,7 +120,7 @@ Testifying:
 * Peter Shapiro
 * 💵Christine Mahler
 * Ruth Gifford - Dishman Hills Conservancy
-* Yvonne Kraus - [Evergreen Mountain Bike Alliance](/org/evergreen_mountain_bike_alliance/)
+* 💵Yvonne Kraus - [Evergreen Mountain Bike Alliance](/org/evergreen_mountain_bike_alliance/)
 * Rosalinda Guillen - Community to Community Development
 * Sean Hopps - Community to Community Development
 * Rob Huff

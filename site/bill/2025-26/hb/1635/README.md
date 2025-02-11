@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32793&aId=163780&caId=25792&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32793&aId=163780&caId=25792&tId=4)
 
-#### 1288 👍 - Pro
+#### 1627 👍 - Pro
 
-#### 12 👎 - Con
+#### 16 👎 - Con
+Testifying:
+* Michael Hutchings - WSBA Corporate Act Revision Committee
 
-#### 14 ❓ - Other
+#### 16 ❓ - Other

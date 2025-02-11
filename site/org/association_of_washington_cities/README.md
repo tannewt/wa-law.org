@@ -58,7 +58,7 @@
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
 * 👍💵 Carl Schroeder
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program.  👎1 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
 * 👎💵 Candice Bock
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1

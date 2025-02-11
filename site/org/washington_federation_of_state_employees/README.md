@@ -15,7 +15,7 @@
 ### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement 👍1  
 * 👍💵 Nicole Gomez
 
-### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board. 👍1  
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍1  
 
 ### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info 👍1  
 
@@ -32,7 +32,7 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Kati Durkin
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Expanding protections for workers in the state paid family and medical leave program. 👍1  
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 

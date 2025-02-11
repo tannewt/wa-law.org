@@ -21,6 +21,6 @@ Sign up to testify:
 Testifying:
 * Evan Pierce - Washington Department of Natural Resources
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 2 ❓ - Other

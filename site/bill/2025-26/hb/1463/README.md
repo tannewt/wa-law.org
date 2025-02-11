@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32761&aId=163236&caId=25573&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32761&aId=163236&caId=25573&tId=4)
 
-#### 358 👍 - Pro
+#### 377 👍 - Pro
 Testifying:
 * Jessica Silver
 * Irene Muller - Essentials First
@@ -22,7 +22,7 @@ Testifying:
 * Jessica Silver
 * 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
-#### 8 👎 - Con
+#### 18 👎 - Con
 
 #### 3 ❓ - Other
 Testifying:

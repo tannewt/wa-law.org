@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Tue 02/11 08:00 AM - Finance (FIN): HB 1334 Property tax revenue growth
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163098&caId=25601&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163098&caId=25601&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163098&caId=25601&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163098&caId=25601&tId=4)
-
-#### 129 👍 - Pro
+#### 138 👍 - Pro
 Testifying:
 * Angela Birney - Mayor, City of Redmond
 * Drew Nazarian - PROTEC17
@@ -32,7 +26,7 @@ Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Snohomish County Council Megan Dunn - Snohomish County Council
 
-#### 10132 👎 - Con
+#### 12173 👎 - Con
 Testifying:
 * John Axtell
 * Tad Sommerville
@@ -67,12 +61,26 @@ Testifying:
 * Juncao Li
 * Yibei Zhou
 * MICHAEL YOUNG
+* Mike Beet
 * Tim Eyman - Initiative Activist
+* Ida Chiu
 * Cheldon North.
+* Fangning He
 * Kristi Peterson
+* Kymberlee Schoonover
+* YingQiang Wang
+* Felicity Chong
+* Felicity Chong
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
+* Benine McDonnell
+* Teri Perkins
+* Koryee Law
+* Dominique Torgerson
+* Dane Scarimbolo
 
-#### 34 ❓ - Other
+#### 50 ❓ - Other
 Testifying:
 * Min Xiang
+* Shirley Liao
 * Brandon Haimes
+* Bruce Mayton

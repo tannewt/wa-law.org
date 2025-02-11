@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1881/</link>
 		<description>Updates about HB 1881</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 10:52:47 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Feb 2025 16:31:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -228,6 +228,29 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/John/Godfrey/2025-02-10 10:52:47</guid>
+		</item>
+		<item>
+			<title>👎💵Emily Wittman - Association of Washington Business</title>
+			<description>Emily Wittman signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_business/"&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 11 Feb 2025 08:21:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Emily/Wittman/2025-02-11 08:21:56</guid>
+		</item>
+		<item>
+			<title>👍Nico Janssen - Office of the Insurance Commissioner</title>
+			<description>Nico Janssen signed up to testify Pro. They are signed up to represent Office of the Insurance Commissioner.</description>
+			<pubDate>Tue, 11 Feb 2025 08:37:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nico/Janssen/2025-02-11 08:37:22</guid>
+		</item>
+		<item>
+			<title>The rising cost of health care is unsustainable and out of control - Economic Opportunity Institute Economic Opportunity Institute</title>
+			<description>News article "The rising cost of health care is unsustainable and out of control - Economic Opportunity Institute Economic Opportunity Institute" from Economic Opportunity Institute.</description>
+			<pubDate>Tue, 11 Feb 2025 16:31:23 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.opportunityinstitute.org/blog/post/health-care-costs-unsustainable-out-of-control/#:~:text=House%20Bill%201881</guid>
 		</item>
 	</channel>
 </rss>

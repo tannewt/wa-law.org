@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/11/2025 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [The rising cost of health care is unsustainable and out of control - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/health-care-costs-unsustainable-out-of-control/#:~:text=Senate%20Bill%205387)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [Robinson bill seeks to limit corporate influence in patient care - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/07/robinson-bill-seeks-to-limit-corporate-influence-in-patient-care/#:~:text=Senate%20Bill%205387)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [Robinson bill seeks to limit corporate influence in patient care - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/07/robinson-bill-seeks-to-limit-corporate-influence-in-patient-care/#:~:text=Senate%20Bill%205387)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [What’s happening in Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/04/whats-happening-in-olympia/#:~:text=Senate%20Bill%205387)

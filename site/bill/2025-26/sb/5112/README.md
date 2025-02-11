@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163571&caId=25690&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163571&caId=25690&tId=4)
 
-#### 1082 👍 - Pro
+#### 1101 👍 - Pro
 Testifying:
 * Erick Clodfelter - 2211 South Star Lake rd
 * Erick Clodfelter - 2211 South Star Lake Road
@@ -32,7 +32,7 @@ Testifying:
 * Sarah Mullin
 * Robin Templeton
 
-#### 74 👎 - Con
+#### 91 👎 - Con
 Testifying:
 * Victoria Harris MD
 * Neeru Bakshi
@@ -47,5 +47,6 @@ Testifying:
 * Rie Sharky - N/A
 * Kayla Tuggle - Psychiatry Residency Spokane
 * MD, Victoria Karschney
+* Dr. Marsha Haley - Physicians for Patient Protection
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

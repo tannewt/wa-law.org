@@ -14,17 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32781&aId=163706&caId=25766&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32781&aId=163706&caId=25766&tId=4)
 
-#### 757 👍 - Pro
+#### 814 👍 - Pro
 Testifying:
 * Erin Goodman - SODO Business Improvement Area
 * Amy Barden - Chief, Seattle CARE Department
 * Kimberly Hendrickson - BHCore Center at University of Washington
 * Dan Nelson - Seattle Police Department
 * Dan Nelson - Seattle Police Department
+* Kevin Hall - Spokane Police Department
+* Jennifer Clayton - Seattle Dispatchers' Guild
 
-#### 544 👎 - Con
+#### 708 👎 - Con
 Testifying:
 * 💵Brenda Wiest - Teamsters 117
+* Joe Kendo
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 
 #### 3 ❓ - Other

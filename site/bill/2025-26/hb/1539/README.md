@@ -18,7 +18,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32739&aId=163140&caId=25526&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32739&aId=163140&caId=25526&tId=4)
 
-#### 50 👍 - Pro
+#### 55 👍 - Pro
+Testifying:
+* Ingrid Sorensen - Lake Washington High School
+* Michael Newman - Insurance Institute for Business & Home Safety
 
 #### 2 👎 - Con
 

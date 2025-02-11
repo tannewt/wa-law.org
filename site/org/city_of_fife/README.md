@@ -6,13 +6,14 @@
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓1
 * ❓💵 Michael Transue
 
-## [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  
+### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  
 * 👍💵 Michael Transue
+
+## [HJM 4001](/bill/2025-26/hjm/4001/) - Russ Blount memorial bridge 👍1  
 
 ## 2023-24
 
-### [HB 1532](/bill/2023-24/hb/1532/) - Sales tax sourcing impact 👍1  
-* 👍💵 Michael Transue
+### [HJM 4001](/bill/2023-24/hjm/4001/) - Russ Blount memorial bridge 👍1  
 
 ### [HB 1080](/bill/2023-24/hb/1080/) - Body worn cameras 👍1  
 

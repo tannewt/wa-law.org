@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32792&aId=163600&caId=25548&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32792&aId=163600&caId=25548&tId=4)
 
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Jordan Crawley - Alki Beach Academy
 * Philip Gustavson - School of Rock West Seattle
 * Erin Rubin - Mode Music Studios
 * Mac Nicholson - [King County](/org/king_county/)
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Keith Edwards - Catahoula Health LLC dba The Joint Chiropractic West Seattle
 
 #### 0 ❓ - Other

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32741&aId=163152&caId=25724&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32741&aId=163152&caId=25724&tId=4)
 
-#### 36 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * Tammie Perreault - Department of Defense
 

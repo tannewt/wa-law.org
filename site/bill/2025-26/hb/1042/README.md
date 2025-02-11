@@ -18,10 +18,11 @@ Sign up to testify:
 Testifying:
 * 💵Jennifer Wallace - WA Association of County Officials
 
-#### 14 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Jeff Faucett - Washington Fire Chiefs
 * Charlie Brown - Schools Alliance
+* Kristan Maurer - Clark County Fire District 6, Fire Chief
 
 #### 0 ❓ - Other

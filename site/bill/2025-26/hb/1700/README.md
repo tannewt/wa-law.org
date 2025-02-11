@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32726&aId=163553&caId=25639&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32726&aId=163553&caId=25639&tId=4)
 
-#### 10 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Scott Chesney - Spokane County Planning
 * Richa Sigdel - City of Pasco, Deputy City Manager
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Paul Dillon - City of Spokane / Council President Pro-Tem
 
 #### 1 👎 - Con
 

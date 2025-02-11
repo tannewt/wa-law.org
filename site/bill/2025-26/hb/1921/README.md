@@ -22,13 +22,15 @@ Testifying:
 * 💵Jane Wall - County Road Administration Board
 * Reema Griffith - Wash. State Transportation Commission
 
-#### 82 👎 - Con
+#### 183 👎 - Con
 Testifying:
 * GORDON MATTHEWS
 * Jeff Pack - Me
 * Tim Eyman - Initiative Activist
 * SAM SPIEGELMAN - Citizen Action Defense Fund
+* John Peeples
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
+* Brock Milliern - Recreation and Conservation Office
 * Joe Kunzler - Citizens for Votes on Taxation

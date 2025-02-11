@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/11/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers consider bills to recognize two Muslim holidays • Washington State Standard](https://washingtonstatestandard.com/2025/02/11/washington-lawmakers-consider-bills-to-recognize-two-muslim-holidays/#:~:text=Senate%20Bill%205106)
+
 ## Meetings
 ### Tue 01/28 01:30 PM - State Government & Elections (SGE): SB 5106 Eid al-Fitr & Eid al-Adha
 #### 733 👍 - Pro

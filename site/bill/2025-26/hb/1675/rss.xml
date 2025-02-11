@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1675/</link>
 		<description>Updates about HB 1675</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Feb 2025 16:31:23 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,13 @@
 			<pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-28/First reading, referred to Health Care &amp; Wellness.</guid>
+		</item>
+		<item>
+			<title>The rising cost of health care is unsustainable and out of control - Economic Opportunity Institute Economic Opportunity Institute</title>
+			<description>News article "The rising cost of health care is unsustainable and out of control - Economic Opportunity Institute Economic Opportunity Institute" from Economic Opportunity Institute.</description>
+			<pubDate>Tue, 11 Feb 2025 16:31:23 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.opportunityinstitute.org/blog/post/health-care-costs-unsustainable-out-of-control/#:~:text=House%20Bill%201675</guid>
 		</item>
 	</channel>
 </rss>

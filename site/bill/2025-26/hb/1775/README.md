@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32738&aId=163596&caId=25525&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32738&aId=163596&caId=25525&tId=4)
 
-#### 294 👍 - Pro
+#### 329 👍 - Pro
 Testifying:
+* Colburn Clark
 * Robert McCormick - Animal Defenders International
 
-#### 374 👎 - Con
+#### 454 👎 - Con
 Testifying:
 * Mike Brown - Head of Sustainability and Public Affairs, Natural Fibers Alliance
 * Josh Mills
@@ -36,5 +37,6 @@ Testifying:
 * Bruce Vandervort - Washington State Trappers Association
 * Kim Salvo - ANAMODA, Inc.
 * Karen Parker
+* Elias Chambers
 
 #### 1 ❓ - Other

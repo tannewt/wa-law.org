@@ -26,7 +26,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163638&caId=25745&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163638&caId=25745&tId=4)
 
-#### 1853 👍 - Pro
+#### 2078 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Spokane, Evergreen, Vancouver, and Richland School Districts
 * Tim Merlino - ESD 112
@@ -49,8 +49,9 @@ Testifying:
 * Krestin Bahr - Peninsula School District
 * Charlie Brown - [Federal Way Public Schools](/org/federal_way_public_schools/)
 * Meghan Jernigan - Shoreline School Board
+* Elizabeth Sadak - Home
 
-#### 1537 👎 - Con
+#### 1760 👎 - Con
 Testifying:
 * John Axtell
 

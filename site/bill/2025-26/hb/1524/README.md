@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1524](/bill/2025-26/hb/1524/)
 
-# HB 1524 - Concerning workplace standards and requirements applicable to employers of isolated employees.
+# HB 1524 - Isolated employees
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1524&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/07/2025 [House Democrats](/org/house_democrats/) - [Committee approves Obras’ bill enforcing protections for housekeepers, security guards and janitors – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/07/committee-approves-obras-bill-enforcing-protections-for-housekeepers-security-guards-and-janitors/#:~:text=House%20Bill%201524)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1784/</link>
 		<description>Updates about HB 1784</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 12:12:49 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Feb 2025 07:21:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -54,6 +54,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Mackenzie/Brewer/2025-02-10 12:12:49</guid>
+		</item>
+		<item>
+			<title>❓💵Jessica Hauffe - Washington State Nurses Association</title>
+			<description>Jessica Hauffe signed up to testify Other. They are signed up to represent Washington State Nurses Association. They are a registered lobbyist.</description>
+			<pubDate>Tue, 11 Feb 2025 07:21:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jessica/Hauffe/2025-02-11 07:21:09</guid>
 		</item>
 	</channel>
 </rss>

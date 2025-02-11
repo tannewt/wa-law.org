@@ -14,14 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32736&aId=164202&caId=25814&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32736&aId=164202&caId=25814&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Cindy Arends Elsberry - [Washington Defender Association](/org/washington_defender_association/)
 * David Martin - KCPAO
+* Leigh Hofheimer - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 1 ❓ - Other
 Testifying:

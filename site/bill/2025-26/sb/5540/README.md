@@ -17,13 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163290&caId=25712&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163290&caId=25712&tId=4)
 
-#### 20 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Eric Gonzalez Alfaro - [Unemployment Law Project](/org/unemployment_law_project/)
 * 💵Kira Munson - Washington State Labor Council, AFL-CIO
 * Felix Goodman - Lake Washington High School, Capitol Classroom
 * Kimiko Low - Lake Washington High School, Capitol Classroom
+* Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
 
-#### 415 👎 - Con
+#### 506 👎 - Con
 
 #### 0 ❓ - Other

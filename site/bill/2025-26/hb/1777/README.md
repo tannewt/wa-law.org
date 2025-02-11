@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32775&aId=163331&caId=25645&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32775&aId=163331&caId=25645&tId=4)
 
-#### 335 👍 - Pro
+#### 419 👍 - Pro
 Testifying:
 * Nathan Turner - Alpha and Omega Electric
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
@@ -39,8 +39,10 @@ Testifying:
 * Hans Frederickson - Frederickson Electric
 * Jerry VanderWood - AGC and WA Construction Industry Council (WCIC)
 * Paul Briganti - ABC of Western Washington
+* David Peachey
+* Michael Ankney - Inland NW AGC Apprenticeship Program(s)
 
-#### 1522 👎 - Con
+#### 1774 👎 - Con
 Testifying:
 * Kaley Henneman
 * Peter Butler - [National Electrical Contractors Association](/org/national_electrical_contractors_association/)
@@ -49,5 +51,9 @@ Testifying:
 * 💵Heather Kurtenbach - Washington State Building & Construction Trades Council
 * Joe Kendo - Washington State Labor Council, AFL-CIO
 * 💵Matthew Hepner - [Certified Electrical Workers of Washington](/org/certified_electrical_workers_of_washington/)
+* Dawa Sherpa
+* Renee Michener - Laborers' Health and Safety - LIUNA
+* Nadeem Ismail - N I Painting and Construction Co
+* 💵Amanda Jahshan - Sheet Metal Workers Locals 66 & 55
 
-#### 7 ❓ - Other
+#### 9 ❓ - Other

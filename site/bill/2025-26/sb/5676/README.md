@@ -19,10 +19,12 @@ Testifying:
 * 💵Scott Hazlegrove - [Stubhub](/org/stubhub/)
 * Brian Hess - Sports Fans Coalition
 
-#### 6 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Manny Cawaling - Inspire Washington
 * Becky Bogard - Inspire Washington
 * Victoria von Szeliski - AXS Group LLC
+* Jeff Gombosky - Live Nation
+* Kevin Erickson - Future of Music Coalition
 
 #### 0 ❓ - Other

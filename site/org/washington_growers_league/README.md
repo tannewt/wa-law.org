@@ -1,12 +1,18 @@
 # Washington Growers League
 ## 2025-26
 
-## [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers  👎1 
+### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers  👎1 
+* 👎💵 Michael Gempler
+
+### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
+* 👎💵 Michael Gempler
+
+## [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
 * 👎💵 Michael Gempler
 
 ## 2023-24
 
-### [HB 1141](/bill/2023-24/hb/1141/) - Ag. cannabis workers  👎1 
+### [SB 5578](/bill/2023-24/sb/5578/) - Labor standards  👎1 
 * 👎💵 Michael Gempler
 
 ### [HB 2226](/bill/2023-24/hb/2226/) - H-2A worker program data  👎1 

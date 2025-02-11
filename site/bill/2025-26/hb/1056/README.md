@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32792&aId=163602&caId=25550&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32792&aId=163602&caId=25550&tId=4)
 
-#### 780 👍 - Pro
+#### 818 👍 - Pro
 Testifying:
 * Chalia Stallings-Ala'ilima - Attorney General's Office
 * Eliana Machefsky - National Police Accountability Project
@@ -29,8 +29,9 @@ Testifying:
 * 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 * Shelly Washington - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 * Robin Emmans - Washington Association of Criminal Defense Lawyers (WACDL) and Washington Defender Association (WDA)
+* 💵Michael Transue - Washington Fraternal Order of Police
 
-#### 1350 👎 - Con
+#### 1571 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

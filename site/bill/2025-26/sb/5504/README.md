@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32789&aId=163567&caId=25686&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32789&aId=163567&caId=25686&tId=4)
 
-#### 154 👍 - Pro
+#### 185 👍 - Pro
 Testifying:
 * Kristina Smith
 * Patricia Toole
@@ -27,7 +27,12 @@ Testifying:
 * Amanda Striegl
 * Brandi Coon
 * Leslie Hubbard - MGA Homecare
+* Ken Venisnik - MGA Homecare
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Catherine Morrison - Maxim Healthcare Services
+* Molly Austin - New Care Concepts, Inc
+* Allison Seumae - HR Director New Care

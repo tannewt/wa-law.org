@@ -8,21 +8,16 @@
 
 ## Meetings
 ### Tue 02/11 08:00 AM - Early Learning & K-12 Education (EDU): SB 5596 Interstate teacher compact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32758&aId=163221&caId=25672&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32758&aId=163221&caId=25672&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32758&aId=163221&caId=25672&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32758&aId=163221&caId=25672&tId=4)
-
-#### 335 👍 - Pro
+#### 338 👍 - Pro
 Testifying:
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 
-#### 20 👎 - Con
+#### 30 👎 - Con
 Testifying:
 * John Axtell
 * Tammie Perreault - Department of Defense
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Adam Diersing - The Council of State Governments
+* 💵Zackary Turner - PESB

@@ -14,7 +14,7 @@ Testifying:
 * Eric Brown - Whatcom Mountain Bike Coalition
 * philip wolff
 * philip wolff
-* Yvonne Kraus - [Evergreen Mountain Bike Alliance](/org/evergreen_mountain_bike_alliance/)
+* 💵Yvonne Kraus - [Evergreen Mountain Bike Alliance](/org/evergreen_mountain_bike_alliance/)
 * Andrea Martin - [Department of Natural Resources](/org/department_of_natural_resources/)
 
 #### 1 👎 - Con

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/11/2025 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [The rising cost of health care is unsustainable and out of control - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/health-care-costs-unsustainable-out-of-control/#:~:text=House%20Bill%201881)
 * 02/06/2025 [House Democrats](/org/house_democrats/) - [Taylor introduces Keep our Care Act to protect access to quality, affordable health care in WA – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/06/rep-taylor-introduces-keep-our-care-act-to-protect-access-to-quality-affordable-health-care-in-wa/#:~:text=House%20Bill%201881)
 
 ## Meetings
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32792&aId=163708&caId=25763&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32792&aId=163708&caId=25763&tId=4)
 
-#### 727 👍 - Pro
+#### 832 👍 - Pro
 Testifying:
 * Cynthia Benion - SEIU Healthcare 1199NW
 * Heather Rosewarne - Washington State Nurses Association
@@ -31,8 +32,9 @@ Testifying:
 * 💵Matthew Lang - National Organization for Women - WA
 * Brynn Freal - [Washington Community Action Network](/org/washington_community_action_network/)
 * John Godfrey - [Washington Community Action Network](/org/washington_community_action_network/)
+* Nico Janssen - Office of the Insurance Commissioner
 
-#### 738 👎 - Con
+#### 1475 👎 - Con
 Testifying:
 * Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Theresa Schrempp
@@ -47,5 +49,6 @@ Testifying:
 * 💵Vicki Christophersen - Washington Independent Physician Practice Association
 * 💵Kevin Schilling - Washington State Dental Association
 * Kate White Tudor - Rayus Radiology
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 1 ❓ - Other

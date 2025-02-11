@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1756/</link>
 		<description>Updates about HB 1756</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 10:41:57 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Feb 2025 12:40:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -85,6 +85,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Monica/Ayers/2025-02-10 10:41:57</guid>
+		</item>
+		<item>
+			<title>👎💵Nick Federici - Toxic Free Future</title>
+			<description>Nick Federici signed up to testify Con. They are signed up to represent Toxic Free Future. They are a registered lobbyist.</description>
+			<pubDate>Tue, 11 Feb 2025 12:40:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Nick/Federici/2025-02-11 12:40:16</guid>
 		</item>
 	</channel>
 </rss>

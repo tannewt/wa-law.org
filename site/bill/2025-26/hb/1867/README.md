@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163679&caId=25609&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163679&caId=25609&tId=4)
 
-#### 84 👍 - Pro
+#### 89 👍 - Pro
 Testifying:
 * Nancy DeVaux
 * Paul Schissler - Madrona Community Development spc
@@ -24,6 +24,6 @@ Testifying:
 * Lisa Byers - OPAL Community Land Trust
 * Amanda Lynn
 
-#### 99 👎 - Con
+#### 103 👎 - Con
 
 #### 0 ❓ - Other

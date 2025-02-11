@@ -118,7 +118,7 @@ Testifying:
 Testifying:
 * Caroline Villanova - Mountains to Sound Greenway Trust
 * Jordan Rash - Backcountry Hunters and Anglers
-* Yvonne Kraus - Washington Wildlife and Recreation Coalition
+* 💵Yvonne Kraus - Washington Wildlife and Recreation Coalition
 * Jon Erickson - [Columbia Basin Development League](/org/columbia_basin_development_league/)
 * Jen Burbidge - Washington Recreation & Park Association
 * Lily Wilson-Codega - International Longshore and Warehouse Union WA Area District Council (ILWU WADC)

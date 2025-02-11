@@ -1,0 +1,49 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1941](/bill/2025-26/hb/1941/) > [Original Bill](/bill/2025-26/hb/1941/1/)
+
+# HB 1941 - Agricultural coops/cannabis
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1941.pdf)
+
+## Section 1
+1. There shall be a cannabis producer's license regulated by the board and subject to annual renewal. The licensee is authorized to produce: (a) Cannabis for sale at wholesale to cannabis processors and other cannabis producers; (b) immature plants or clones and seeds for sale to cooperatives as described under RCW 69.51A.250; and (c) immature plants or clones and seeds for sale to qualifying patients and designated providers as provided under RCW 69.51A.310. The production, possession, delivery, distribution, and sale of cannabis in accordance with the provisions of this chapter and the rules adopted to implement and enforce it, by a validly licensed cannabis producer, shall not be a criminal or civil offense under Washington state law. Every cannabis producer's license shall be issued in the name of the applicant, shall specify the location at which the cannabis producer intends to operate, which must be within the state of Washington, and the holder thereof shall not allow any other person to use the license. The application fee for a cannabis producer's license shall be $250. The annual fee for issuance and renewal of a cannabis producer's license shall be $1,381. A separate license shall be required for each location at which a cannabis producer intends to produce cannabis. Licensed cannabis producers may form associations or cooperatives and engage in activities as provided in RCW 24.34.010.
+
+2. There shall be a cannabis processor's license to process, package, and label cannabis concentrates, useable cannabis, and cannabis-infused products for sale at wholesale to cannabis processors and cannabis retailers, regulated by the board and subject to annual renewal. The processing, packaging, possession, delivery, distribution, and sale of cannabis, useable cannabis, cannabis-infused products, and cannabis concentrates in accordance with the provisions of this chapter and chapter 69.51A RCW and the rules adopted to implement and enforce these chapters, by a validly licensed cannabis processor, shall not be a criminal or civil offense under Washington state law. Every cannabis processor's license shall be issued in the name of the applicant, shall specify the location at which the licensee intends to operate, which must be within the state of Washington, and the holder thereof shall not allow any other person to use the license. The application fee for a cannabis processor's license shall be $250. The annual fee for issuance and renewal of a cannabis processor's license shall be $1,381. A separate license shall be required for each location at which a cannabis processor intends to process cannabis.
+
+3. [Empty]
+
+    a. There shall be a cannabis retailer's license to sell cannabis concentrates, useable cannabis, and cannabis-infused products at retail in retail outlets, regulated by the board and subject to annual renewal. The possession, delivery, distribution, and sale of cannabis concentrates, useable cannabis, and cannabis-infused products in accordance with the provisions of this chapter and the rules adopted to implement and enforce it, by a validly licensed cannabis retailer, shall not be a criminal or civil offense under Washington state law. Every cannabis retailer's license shall be issued in the name of the applicant, shall specify the location of the retail outlet the licensee intends to operate, which must be within the state of Washington, and the holder thereof shall not allow any other person to use the license. The application fee for a cannabis retailer's license shall be $250. The annual fee for issuance and renewal of a cannabis retailer's license shall be $1,381. A separate license shall be required for each location at which a cannabis retailer intends to sell cannabis concentrates, useable cannabis, and cannabis-infused products.
+
+    b. An individual retail licensee and all other persons or entities with a financial or other ownership interest in the business operating under the license are limited, in the aggregate, to holding a collective total of not more than five retail cannabis licenses.
+
+    c. [Empty]
+
+        i. A cannabis retailer's license is subject to forfeiture in accordance with rules adopted by the board pursuant to this section.
+
+        ii. The board shall adopt rules to establish a license forfeiture process for a licensed cannabis retailer that is not fully operational and open to the public within a specified period from the date of license issuance, as established by the board, subject to the following restrictions:
+
+(A) No cannabis retailer's license may be subject to forfeiture within the first nine months of license issuance; and
+
+(B) The board must require license forfeiture on or before 24 calendar months of license issuance if a cannabis retailer is not fully operational and open to the public, unless the board determines that circumstances out of the licensee's control are preventing the licensee from becoming fully operational and that, in the board's discretion, the circumstances warrant extending the forfeiture period beyond 24 calendar months.
+
+        iii. The board has discretion in adopting rules under this subsection (3)(c).
+
+        iv. This subsection (3)(c) applies to cannabis retailer's licenses issued before and after July 23, 2017. However, no license of a cannabis retailer that otherwise meets the conditions for license forfeiture established pursuant to this subsection (3)(c) may be subject to forfeiture within the first nine calendar months of July 23, 2017.
+
+    v. The board may not require license forfeiture if the licensee has been incapable of opening a fully operational retail cannabis business due to actions by the city, town, or county with jurisdiction over the licensee that include any of the following:
+
+(A) The adoption of a ban or moratorium that prohibits the opening of a retail cannabis business; or
+
+(B) The adoption of an ordinance or regulation related to zoning, business licensing, land use, or other regulatory measure that has the effect of preventing a licensee from receiving an occupancy permit from the jurisdiction or which otherwise prevents a licensed cannabis retailer from becoming operational.
+
+    d. The board may issue cannabis retailer licenses pursuant to this chapter and RCW 69.50.335.
+
+## Section 2
+Persons engaged in the production of agricultural products as farmers, licensed cannabis producers, planters, ranchers, dairy farmers, nut growers, or fruit growers may act together in associations, corporate or otherwise, with or without capital stock, in collectively processing, preparing for market, handling, and marketing in intrastate commerce, such products of persons so engaged. Such associations may have marketing agencies in common; and such associations and their members may make the necessary contracts and agreements to effect such purposes. For purposes of this section only and only with respect to licensed cannabis producers, cannabis is considered an agricultural product like other covered agricultural products. Such associations must be operated for the mutual benefit of the members thereof, as such producers, and conform to one or both of the following requirements:
+
+First. That no member of the association is allowed more than one vote because of the amount of stock or membership capital he or she may own therein, or,
+
+Second. That the association does not pay dividends on stock or membership capital in excess of eight percent per annum.
+
+And in any case to the following:
+
+Third. That the association shall not deal in the products of nonmembers to an amount greater in value than such as are handled by it for members.

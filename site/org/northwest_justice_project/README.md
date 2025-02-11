@@ -16,13 +16,14 @@
 ### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations 👍1  
 * 👍 Mary Welch
 
-## [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
+### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 * 👍 Julia Kellison
+
+## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
 
 ## 2023-24
 
-### [SB 5480](/bill/2023-24/sb/5480/) - Medical debt 👍1  
-* 👍 Julia Kellison
+### [SB 5686](/bill/2023-24/sb/5686/) - Foreclosure mediation prg. 👍1  
 
 ### [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
 * 👍 Christopher Brunetti

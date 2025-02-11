@@ -21,6 +21,6 @@ Testifying:
 * Clarence Moriwaki - Councilmember, Bainbridge Island
 * Brian Anderson - Resident
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

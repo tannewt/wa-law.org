@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163292&caId=25714&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163292&caId=25714&tId=4)
 
-#### 646 👍 - Pro
+#### 761 👍 - Pro
 Testifying:
 * Craig Loring - Customer
 * Danielle Alvarado - [Fair Work Center](/org/fair_work_center/)
@@ -29,7 +29,7 @@ Testifying:
 * Mathieu Chaubad - UAW 4121
 * Peter Nazzal - Catholic Community Services
 
-#### 1258 👎 - Con
+#### 1399 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Patrick Connor - NFIB
@@ -50,7 +50,11 @@ Testifying:
 * Jorge Escalera
 * Dakota Manley - Washington State Young Republicans
 * Cindy Trondsen - MC Interiors LLC
+* Jana Weiss - WEOG LLC
 * MICHAEL MORRIS
 * MICHAEL MORRIS
+* Brian Maiden - Maiden Enterprises LLC
+* 💵Michael Gempler - [Washington Growers League](/org/washington_growers_league/)
+* Sarah Clark - Seattle Metropolitan Chamber of Commerce
 
-#### 19 ❓ - Other
+#### 26 ❓ - Other

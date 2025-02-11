@@ -10,8 +10,9 @@
 * 👍 Anne Paxton
 * 👍 Anne Paxton
 
-### [SB 5540](/bill/2025-26/sb/5540/) - Students/unemployment ins. 👍1  
+### [SB 5540](/bill/2025-26/sb/5540/) - Students/unemployment ins. 👍2  
 * 👍 Eric Gonzalez Alfaro
+* 👍 Anne Paxton
 
 ## [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
 

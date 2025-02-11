@@ -15,6 +15,8 @@
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
 
+### [HB 1356](/bill/2025-26/hb/1356/) - K-12 funding   ❓1
+
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
 ### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍1  
@@ -40,11 +42,11 @@
 
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
 
-### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
+### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍2  
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍2  
 
 ### [SB 5297](/bill/2025-26/sb/5297/) - Early learning facilities 👍1  
 

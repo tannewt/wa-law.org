@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32710&aId=163180&caId=25614&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32710&aId=163180&caId=25614&tId=4)
 
-#### 150 👍 - Pro
+#### 158 👍 - Pro
 Testifying:
 * JanRose Ottaway Martin - North Sound BHASO, Executive Director
 * Kelli Miller - Frontier Behavioral Health, CEO
@@ -22,11 +22,13 @@ Testifying:
 * Mark Ozias - WSAC / Clallam County Commissioner
 * Steve O'Ban - Fmr State Senator & Fmr Sr. Counsel for Behavioral Health (Pierce County Executive's Office)
 * Mary Kuney - Spokane County Commissioner
+* Commissioner Rachel Grant - [Thurston County](/org/thurston_county/)
 
 #### 0 👎 - Con
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Connie Mom-Chhing - Community Health Plan of Washington
 * 💵Jennifer Ziegler - Association of Washington Health Care Plans
 * Tory Gildred - Molina Healthcare
+* Evan Klein - Health Care Authority (HCA) - Special Assistant, Legislative & Policy Affairs

@@ -19,9 +19,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163344&caId=25633&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163344&caId=25633&tId=4)
 
-#### 139 👍 - Pro
+#### 144 👍 - Pro
 
-#### 417 👎 - Con
+#### 532 👎 - Con
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * ROSE GUNDERSEN

@@ -20,7 +20,7 @@
 ### [HB 1121](/bill/2025-26/hb/1121/) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 👍1  
 * 👍 Mike Ennis
 
-### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board.  👎1 
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board  👎1 
 
 ### [HB 1153](/bill/2025-26/hb/1153/) - Urban forest management   ❓1
 * ❓💵 Jan Himebaugh
@@ -116,9 +116,13 @@
 
 ### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation  👎1 
 
+### [HB 1818](/bill/2025-26/hb/1818/) - Administration of plats 👍1  
+
 ### [HB 1843](/bill/2025-26/hb/1843/) - Students/unemployment ins.  👎1 
 
 ### [HB 1857](/bill/2025-26/hb/1857/) - Asbestos building materials 👍1  
+
+### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee  👎1 
 
 ### [HB 1906](/bill/2025-26/hb/1906/) - Water system rates 👍1  
 

@@ -24,8 +24,9 @@
 
 ### [HB 1504](/bill/2025-26/hb/1504/) - Firearm financial resp. 👍1  
 
-### [HB 1591](/bill/2025-26/hb/1591/) - Providing remedies for defendant survivors of domestic violence, sexual assault, or human trafficking. 👍1  
+### [HB 1591](/bill/2025-26/hb/1591/) - Providing remedies for defendant survivors of domestic violence, sexual assault, or human trafficking. 👍2  
 * 👍 Leigh Hoffheimer
+* 👍 Leigh Hofheimer
 
 ### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations 👍1  
 * 👍 Karin White

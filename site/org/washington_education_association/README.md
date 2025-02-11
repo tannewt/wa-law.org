@@ -40,7 +40,7 @@
 ### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement 👍2  
 * 👍 Jared Mason-Gere
 
-### [HB 1128](/bill/2025-26/hb/1128/) - Establishing a child care workforce standards board. 👍1  
+### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍1  
 
 ### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services 👍1  
 
@@ -178,7 +178,7 @@
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 
-### [HB 1524](/bill/2025-26/hb/1524/) - Concerning workplace standards and requirements applicable to employers of isolated employees. 👍1  
+### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees 👍1  
 
 ### [HB 1538](/bill/2025-26/hb/1538/) - Capital assistance/schools   ❓1
 
@@ -236,6 +236,8 @@
 
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards 👍1  
 
+### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval  👎1 
+
 ### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍1  
 
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation   ❓1
@@ -243,7 +245,8 @@
 
 ### [HB 1822](/bill/2025-26/hb/1822/) - Establishing a driver work zone and first responder safety course requirement. 👍1  
 
-### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎9 
+### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎10 
+* 👎💵 Nasue Nishida
 
 ### [HB 1843](/bill/2025-26/hb/1843/) - Students/unemployment ins. 👍2  
 

@@ -25,4 +25,6 @@ Testifying:
 Testifying:
 * 💵Lisa Thatcher - Washington State Hospital Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Jessica Hauffe - Washington State Nurses Association

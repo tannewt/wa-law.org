@@ -18,11 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32776&aId=163333&caId=25647&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32776&aId=163333&caId=25647&tId=4)
 
-#### 35 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * SUMIRAN POUDEL - UW Seattle Graduate Student
 
-#### 266 👎 - Con
+#### 367 👎 - Con
 Testifying:
 * John Axtell
 

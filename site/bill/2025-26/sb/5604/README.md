@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32743&aId=163166&caId=25698&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32743&aId=163166&caId=25698&tId=4)
 
-#### 241 👍 - Pro
+#### 257 👍 - Pro
 Testifying:
 * Joe Kunzler
 * Jode Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
@@ -27,7 +27,7 @@ Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Sarah Clark - Seattle Metro Chamber
 
-#### 300 👎 - Con
+#### 413 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

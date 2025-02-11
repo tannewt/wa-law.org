@@ -53,6 +53,9 @@
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
 
+### [HB 1857](/bill/2025-26/hb/1857/) - Asbestos building materials  👎1 
+* 👎💵 Heather Trim
+
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
 * 👍💵 Heather Trim
 
@@ -76,6 +79,9 @@
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
+
+### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint 👍1  
+* 👍💵 Heather Trim
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 * 👍💵 Heather Trim
