@@ -9,6 +9,8 @@
 
 ### [HB 1023](/bill/2025-26/hb/1023/) - Cosmetology compact 👍2  
 
+### [HB 1043](/bill/2025-26/hb/1043/) - Commute trip reduction 👍1  
+
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍1  
 * 👍💵 Mark Johnson
 
@@ -56,6 +58,8 @@
 
 ### [HB 1318](/bill/2025-26/hb/1318/) - Children's diapers sales tax 👍1  
 
+### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth  👎1 
+
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎1 
 
 ### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers  👎1 
@@ -100,8 +104,16 @@
 ### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy  👎1 
 * 👎💵 Crystal Leatherman
 
+### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use  👎1 
+* 👎💵 Crystal Leatherman
+
+### [HB 1756](/bill/2025-26/hb/1756/) - Lead in cookware 👍1  
+* 👍💵 Crystal Leatherman
+
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
 * 👎💵 Rose Gundersen
+
+### [HB 1775](/bill/2025-26/hb/1775/) - Fur products  👎1 
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
@@ -156,13 +168,19 @@
 
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
-## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction   ❓1
+### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction   ❓1
 * ❓💵 Mark Johnson
+
+### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
+* 👎💵 Amber Carter
+
+## [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
+* 👍💵 Crystal Leatherman
 
 ## 2023-24
 
-### [SB 5502](/bill/2023-24/sb/5502/) - Recycling & waste reduction   ❓1
-* ❓💵 Mark Johnson
+### [SB 5628](/bill/2023-24/sb/5628/) - Lead in cookware 👍1  
+* 👍💵 Crystal Leatherman
 
 ### [HB 1005](/bill/2023-24/hb/1005/) - Military/employer tax incen. 👍1  
 * 👍💵 Mark Johnson

@@ -1,10 +1,16 @@
 # City of Everett
 ## 2025-26
 
+### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct  👎1 
+
+### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
+
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
 * ❓ Paula Rhyne
 
 ### [HB 1276](/bill/2025-26/hb/1276/) - Organized retail theft 👍1  
+
+### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
 
@@ -16,6 +22,8 @@
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 
+### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
+
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
@@ -25,11 +33,13 @@
 
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 
-## [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+
+## [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
 
 ## 2023-24
 
-### [SB 5601](/bill/2023-24/sb/5601/) - Alternative jet fuels 👍1  
+### [SB 5604](/bill/2023-24/sb/5604/) - Transit-oriented development 👍1  
 
 ### [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍3  
 * 👍 Jennifer Gregerson

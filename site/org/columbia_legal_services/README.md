@@ -1,7 +1,7 @@
 # Columbia Legal Services
 ## 2025-26
 
-### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct 👍1  
+### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct 👍2  
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
@@ -51,7 +51,8 @@
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
-### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍2  
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍3  
+* 👍💵 Sarah Nagy
 * 👍💵 Sarah Nagy
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍2  
@@ -70,6 +71,8 @@
 * 👍💵 Ethan Frenchman
 
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍1  
+
+### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 * 👍💵 Ethan Frenchman

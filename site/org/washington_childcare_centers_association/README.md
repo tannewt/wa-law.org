@@ -9,13 +9,19 @@
 
 ### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements 👍1  
 
+### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  
+
+### [HB 1414](/bill/2025-26/hb/1414/) - CTE careers work group 👍1  
+
 ### [HB 1564](/bill/2025-26/hb/1564/) - Child care assist./B&O tax 👍1  
 
 ### [HB 1582](/bill/2025-26/hb/1582/) - Concerning child care centers operated in existing buildings. 👍1  
 
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍1  
 
-### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
+### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 
+
+### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍2  
 * 👍💵 Amy Anderson
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
@@ -30,11 +36,13 @@
 ### [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
 * 👍💵 Amy Anderson
 
-## [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+## [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍1  
 
 ## 2023-24
 
-### [SB 5509](/bill/2023-24/sb/5509/) - Child care center siting 👍1  
+### [SB 5655](/bill/2023-24/sb/5655/) - Child care centers/buildings 👍1  
 
 ### [HB 1199](/bill/2023-24/hb/1199/) - Child care/communities 👍2  
 

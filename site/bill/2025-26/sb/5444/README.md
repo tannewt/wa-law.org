@@ -8,18 +8,17 @@
 
 ## Meetings
 ### Mon 02/10 04:00 PM - Transportation (TRAN): SB 5444 New special license plates
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163665&caId=25729&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163665&caId=25729&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163665&caId=25729&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163665&caId=25729&tId=4)
-
-#### 1806 👍 - Pro
+#### 1940 👍 - Pro
 Testifying:
 * Heather Monti - [Mount St. Helens Institute](/org/mount_st._helens_institute/)
 * John Rankin - Seattle Metro Pickleball Association
 * 💵Michael Transue - LeMay - America's Car Museum
+* Keith Townsend - Working Forest License Plate
+* Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Karissa Lowe - Mt. St. Helens Institute
 
 #### 3 👎 - Con
 
-#### 9 ❓ - Other
+#### 11 ❓ - Other
+Testifying:
+* 💵Drew Johnston - Seattle Seahawks

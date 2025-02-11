@@ -11,11 +11,15 @@
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
 
-## [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
+### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
+
+### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
+
+## [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 
 ## 2023-24
 
-### [SB 5052](/bill/2023-24/sb/5052/) - Law enf. juvenile contact 👍1  
+### [SB 5595](/bill/2023-24/sb/5595/) - Shared streets 👍1  
 
 ### [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1
 * ❓ Anji Jorstad

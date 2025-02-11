@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32776&aId=163335&caId=25649&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32776&aId=163335&caId=25649&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* David Thurman - Northeastern University, Seattle Campus
+* David Thurman - Northeastern University, Seattle Campus
 
 #### 0 👎 - Con
 

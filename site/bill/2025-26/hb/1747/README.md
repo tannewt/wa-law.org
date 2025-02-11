@@ -14,11 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163340&caId=25629&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163340&caId=25629&tId=4)
 
-#### 131 👍 - Pro
+#### 162 👍 - Pro
 Testifying:
 * Hilary Young - Pioneer Human Services and the Statewide Reentry Council
 * Beth Avery - National Employment Law Project
+* 💵Prachi Dave - [Civil Survival](/org/civil_survival/)
+* Ryan Davis - Executive Director,  Seattle Jobs Initiative
+* Ph.D., Christopher Beasley
+* Sophia Thomas
+* Greg Lotakis
+* 💵Christoph Mair - Washington State Labor Council, AFL-CIO
+* James Campbell - The Rainier Club
 
-#### 2 👎 - Con
+#### 21 👎 - Con
+Testifying:
+* 💵Rose Gundersen - WA Retail Association
+* 💵Katie Beeson - Washington Food Industry Association
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 
 #### 1 ❓ - Other

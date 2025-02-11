@@ -8,20 +8,18 @@
 
 ## Meetings
 ### Mon 02/10 04:00 PM - Transportation (TRAN): SB 5595 Shared streets
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163668&caId=25732&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163668&caId=25732&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163668&caId=25732&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32729&aId=163668&caId=25732&tId=4)
-
-#### 59 👍 - Pro
+#### 189 👍 - Pro
 Testifying:
 * Venu Nemani - [City of Seattle](/org/city_of_seattle/)
+* Mark Ostrow
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 115 👎 - Con
+#### 129 👎 - Con
 Testifying:
 * Atina Holan
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 * john worthington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jeff DeVere - Washington Trucking Associations

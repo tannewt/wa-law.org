@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32756&aId=163622&caId=25597&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32756&aId=163622&caId=25597&tId=4)
 
-#### 0 👍 - Pro
+#### 18 👍 - Pro
+Testifying:
+* 💵Michael Transue - WA Aggregate and Concrete Association
+* 💵Ray Dumas - OPCMIA - Cement Masons & Plasterers Local Union 528
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

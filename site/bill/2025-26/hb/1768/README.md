@@ -7,17 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201768)
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201768)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201768)
 
 ## Meetings
 ### Mon 02/10 01:30 PM - Housing (HOUS): HB 1768 Manuf. housing purchases
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163183&caId=25625&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163183&caId=25625&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163183&caId=25625&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163183&caId=25625&tId=4)
-
-#### 136 👍 - Pro
+#### 152 👍 - Pro
 Testifying:
 * Caroline Hardy - Leisure Manor Tenants Association Secretary
 * Deborah Wilson
@@ -25,10 +21,13 @@ Testifying:
 * 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 * Gary Seeman
 
-#### 152 👎 - Con
+#### 214 👎 - Con
 Testifying:
 * 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Deborah Wilson
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* Beau Harer - Manufactured Housing Communities of WA (MHCW)
+* Jake Bond - GSC Invenstments
+* Russell Millard - MHCW
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

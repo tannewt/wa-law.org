@@ -14,12 +14,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32789&aId=163570&caId=25689&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32789&aId=163570&caId=25689&tId=4)
 
-#### 8 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * Hannah Cvancara
 * Glenn Barfie3ld
 * Glenn Andrews
+* Sierra Landholm
+* Ashley Carvalho - So Every Body Can Move
+* Cody McDonald - citizen
+* Megan Gleason - Citizen
+* Shane Solomon - Citizen
+* Dillen Maurer
+* Jenn Maurer
+* Ashley Carvalho
+* Nicole Ver Kuilen
+* Carolyn Hyslop
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Delika Steele - Office of the Insurance Commissioner

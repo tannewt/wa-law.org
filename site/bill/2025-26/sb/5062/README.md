@@ -12,21 +12,18 @@
 
 ## Meetings
 ### Mon 02/10 04:00 PM - Ways & Means (WM): SSB 5062 Child care workforce board
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163645&caId=25737&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163645&caId=25737&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163645&caId=25737&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163645&caId=25737&tId=4)
-
-#### 37 👍 - Pro
+#### 91 👍 - Pro
 Testifying:
 * 💵Erin Haick - SEIU 925
 
-#### 583 👎 - Con
+#### 679 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * Makayla Boysen - Early learning center
 * Kassie Watters - Apple Tree
+* Susan Brown - Kids Co., Washington Child Care Centers Assn, and the Greater Seattle Child Care Business Coalition
+* 💵David Foster - KinderCare and Early Care & Education Consortium
+* Jenna Borkoski - Learning Care Group
 
 #### 1 ❓ - Other
 

@@ -7,13 +7,16 @@
 ### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍1  
 * 👍 Jack Murphy
 
-## [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
+### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
 * 👍 Linnea Anderson
+
+## [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS   ❓1
+* ❓ George Moya
 
 ## 2023-24
 
-### [SB 5426](/bill/2023-24/sb/5426/) - Court alternatives/youth 👍1  
-* 👍 Linnea Anderson
+### [SB 5617](/bill/2023-24/sb/5617/) - Juvenile detention/CHINS   ❓1
+* ❓ George Moya
 
 ### [HB 1102](/bill/2023-24/hb/1102/) - Judge pro tempore compen. 👍1  
 

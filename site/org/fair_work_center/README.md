@@ -13,6 +13,9 @@
 
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍1  
 
+### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards 👍1  
+* 👍 Danielle Alvarado
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍3  
 * 👍 Danielle Alvarado
 
@@ -22,11 +25,15 @@
 ### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍2  
 * 👍 Jeremiah Miller
 
-## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
+
+## [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
+* 👍 Danielle Alvarado
 
 ## 2023-24
 
-### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants 👍1  
+### [SB 5578](/bill/2023-24/sb/5578/) - Labor standards 👍1  
+* 👍 Danielle Alvarado
 
 ### [HB 1217](/bill/2023-24/hb/1217/) - Wage complaints 👍1  
 

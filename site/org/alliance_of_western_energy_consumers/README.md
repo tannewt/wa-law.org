@@ -4,6 +4,8 @@
 ### [HB 1522](/bill/2025-26/hb/1522/) - Utility wildfire mitigation 👍1  
 * 👍💵 Brandon Houskeeper
 
+### [HB 1598](/bill/2025-26/hb/1598/) - Community solar  👎1 
+
 ### [HB 1656](/bill/2025-26/hb/1656/) - Wildfire costs/securitizing 👍2  
 * 👍💵 Brandon Houskeeper
 * 👍💵 Brandon Houskeeper

@@ -4,6 +4,9 @@
 ### [HB 1045](/bill/2025-26/hb/1045/) - Uniformed personnel  👎1 
 * 👎💵 Paul Jewell
 
+### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
+* 👍💵 Kelsey Hulse
+
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates   ❓1
 * ❓💵 Travis Dutton
 
@@ -61,6 +64,9 @@
 
 ### [HB 1322](/bill/2025-26/hb/1322/) - Juvenile offenses  👎1 
 
+### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
+* 👍💵 Paul Jewell
+
 ### [HB 1345](/bill/2025-26/hb/1345/) - Detached ADU limits 👍1  
 * 👍💵 Paul Jewell
 
@@ -94,7 +100,7 @@
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
-### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍1  
+### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍2  
 
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
 * 👎💵 Paul Jewell
@@ -123,6 +129,9 @@
 
 ### [HB 1818](/bill/2025-26/hb/1818/) - Administration of plats   ❓1
 * ❓💵 Curtis Steinhauer
+
+### [HB 1899](/bill/2025-26/hb/1899/) - Homelessness point-in-time 👍1  
+* 👍💵 Curtis Steinhauer
 
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 
@@ -219,6 +228,9 @@
 
 ### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees  👎1 
 * 👎💵 Curtis Steinhauer
+
+### [SB 5660](/bill/2025-26/sb/5660/) - Water & sewage system access 👍2  
+* 👍💵 Kelsey Hulse
 
 ## [SB 5684](/bill/2025-26/sb/5684/) - Electioneering/auditors 👍1  
 

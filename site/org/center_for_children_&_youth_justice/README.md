@@ -16,9 +16,15 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
+### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍1  
+
 ### [HB 1540](/bill/2025-26/hb/1540/) - Homelessness/tribal colleges 👍1  
 
 ### [HB 1752](/bill/2025-26/hb/1752/) - Juvenile misdemeanor jdx  👎1 
+
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+
+### [HB 1817](/bill/2025-26/hb/1817/) - Schools/sexual assault 👍1  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
@@ -38,6 +44,8 @@
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍2  
 
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
+
+### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 
 ## [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
 

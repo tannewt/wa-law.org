@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1550/</link>
 		<description>Updates about HB 1550</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 06:07:12 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 11:42:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -141,6 +141,38 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Gary/Smith/2025-02-10 06:07:12</guid>
+		</item>
+		<item>
+			<title>👎Catalina Jelkh Pareja - LKQ Corporation</title>
+			<description>Catalina Jelkh Pareja signed up to testify Con. They are signed up to represent LKQ Corporation.</description>
+			<pubDate>Mon, 10 Feb 2025 09:01:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Catalina Jelkh/Pareja/2025-02-10 09:01:31</guid>
+		</item>
+		<item>
+			<title>👎Emil Nusbaum - Automotive Recyclers Association</title>
+			<description>Emil Nusbaum signed up to testify Con. They are signed up to represent Automotive Recyclers Association.</description>
+			<pubDate>Mon, 10 Feb 2025 09:06:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Emil/Nusbaum/2025-02-10 09:06:02</guid>
+		</item>
+		<item>
+			<title>👎💵Peter Godlewski - Association of Washington Business</title>
+			<description>Peter Godlewski signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_business/"&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 10 Feb 2025 10:38:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Peter/Godlewski/2025-02-10 10:38:16</guid>
+		</item>
+		<item>
+			<title>👎💵Holly Chisa - Recycled Materials Assn</title>
+			<description>Holly Chisa signed up to testify Con. They are signed up to represent Recycled Materials Assn. They are a registered lobbyist.</description>
+			<pubDate>Mon, 10 Feb 2025 11:42:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Holly/Chisa/2025-02-10 11:42:44</guid>
 		</item>
 	</channel>
 </rss>

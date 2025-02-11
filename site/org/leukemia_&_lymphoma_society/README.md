@@ -13,6 +13,8 @@
 ### [HB 1754](/bill/2025-26/hb/1754/) - Medicare suppl./guaranteed 👍1  
 * 👍💵 Adam Zarrin
 
+### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
+
 ### [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services 👍1  
 
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  

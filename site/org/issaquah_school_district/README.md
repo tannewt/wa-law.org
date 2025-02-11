@@ -12,6 +12,12 @@
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
 * 👍 Martin Turney
 
+### [HB 1709](/bill/2025-26/hb/1709/) - Adrenal insufficiency care 👍1  
+* 👍 Laura Carmichael
+
+### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍1  
+* 👍 Martin Turney
+
 ### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍1  
 * 👍 Martin Turney
 

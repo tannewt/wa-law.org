@@ -17,16 +17,22 @@
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍1  
+
 ### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent. 👍1  
 
 ### [HB 1676](/bill/2025-26/hb/1676/) - Charter school contracts 👍1  
 * 👍 Arik Korman
+
+### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
+
+### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
 

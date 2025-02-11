@@ -1,6 +1,9 @@
 # Washington Health Care Association
 ## 2025-26
 
+### [HB 1720](/bill/2025-26/hb/1720/) - Community care/Rx assistance 👍1  
+* 👍 Vicki McNealley
+
 ## [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍2  
 * 👍 Carma Matti-Jackson
 * 👍 Carma Matti-Jackson

@@ -19,6 +19,8 @@
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 
+### [HB 1642](/bill/2025-26/hb/1642/) - Pension plan choice 👍1  
+
 ### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍36  
 
 ### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans 👍64  

@@ -65,6 +65,9 @@
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success. 👍2  
 
+### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace  👎1 
+* 👎 Mary Long
+
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
 ### [SB 5004](/bill/2025-26/sb/5004/) - School emergency response 👍1  
@@ -106,7 +109,7 @@
 ### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education  👎2 
 * 👎 Joy Gjersvold
 
-### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs.  👎4 
+### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs.  👎5 
 * 👎 Jeannie Magdua
 
 ### [SB 5228](/bill/2025-26/sb/5228/) - Updating the governor's interagency coordinating council on health disparities.  👎1 

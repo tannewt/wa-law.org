@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32758&aId=163218&caId=25669&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32758&aId=163218&caId=25669&tId=4)
 
-#### 20 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Anoushka Oka
 * Manasa Kancharla
@@ -23,8 +23,10 @@ Testifying:
 * Adi Hurvitz
 * Kate Fluegel
 * Noah Hanculak
+* Colton Hong - Legislative Youth Advisory Council
+* Sabina Kolovyansky - Washington Legislative Youth Advisory Council
 * Sylvia Falwer - Washington State Youth Advisory Council
 
-#### 21 👎 - Con
+#### 32 👎 - Con
 
 #### 1 ❓ - Other

@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163288&caId=25710&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163288&caId=25710&tId=4)
 
-#### 26 👍 - Pro
+#### 48 👍 - Pro
+Testifying:
+* Marta Peetz - SEIU Healthcare 1199NW
+* 💵Samantha Grad - Teamsters 117
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Peter Altman - Summit Law Group, PLLC
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Mike Sellars - Public Employment Relations Commission

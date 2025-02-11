@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32715&aId=163874&caId=25782&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32715&aId=163874&caId=25782&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Scott Hazlegrove - [Stubhub](/org/stubhub/)
+* Brian Hess - Sports Fans Coalition
 
-#### 0 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Manny Cawaling - Inspire Washington
+* Becky Bogard - Inspire Washington
+* Victoria von Szeliski - AXS Group LLC
 
 #### 0 ❓ - Other

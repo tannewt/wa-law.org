@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32786&aId=163492&caId=25676&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32786&aId=163492&caId=25676&tId=4)
 
-#### 61 👍 - Pro
+#### 88 👍 - Pro
 
-#### 1 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Jeffrey Kalles - Lilac Learning Center
 
-#### 26 ❓ - Other
+#### 37 ❓ - Other
+Testifying:
+* Tawni Barlow - Medical Lake School District

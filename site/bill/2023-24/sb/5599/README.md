@@ -11,6 +11,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 02/10/2025 [The Center Square](/org/the_center_square/) - [Bill would bolster 'Shield Law' for abortions, gender procedures for out-of-state residents | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_56479a40-e7ea-11ef-95ed-5b388298696e.html#:~:text=Senate%20Bill%205599)
 * 02/07/2025 [The Center Square](/org/the_center_square/) - [Washington AG files lawsuit against Trump’s EO on youth gender reassignment procedures | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_70c95c7a-e586-11ef-9374-1b1101837669.html#:~:text=SB%205599)
 * 08/01/2024 [Washington State Standard](/org/washington_state_standard/) - [A GOP state senator faces two foes, and his own party leaders • Washington State Standard](https://washingtonstatestandard.com/2024/08/01/a-gop-state-senator-faces-two-foes-and-his-own-party-leaders/#:~:text=Senate%20Bill%205599)
 * 08/01/2024 [Gorge News Center](/org/gorge_news_center/) - [A GOP state senator faces two foes, and his own party leaders](https://gorgenewscenter.com/2024/08/01/a-gop-state-senator-faces-two-foes-and-his-own-party-leaders/#:~:text=Senate%20Bill%205599)

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/10/2025 [Senate Democrats](/org/senate_democrats/) - [Building momentum: Over a third of the way through session - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/10/building-momentum-over-a-third-of-the-way-through-session/#:~:text=SB%205321)
 * 02/06/2025 [Senate Democrats](/org/senate_democrats/) - [Week three update! - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/02/06/week-three-update/#:~:text=SB%205321,)
 * 01/27/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to expand reproductive health care access for college students heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/27/nobles-bill-to-expand-reproductive-health-care-access-for-college-students-heard-in-committee/#:~:text=Senate%20Bill%205321)
 * 01/27/2025 [MyNorthwest](/org/mynorthwest/) - [Some state lawmakers push for campus abortion access](https://mynorthwest.com/mynorthwest-politics/campus-abortion-access/4034899#:~:text=Senate%20Bill%205321)

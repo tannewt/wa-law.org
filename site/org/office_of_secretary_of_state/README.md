@@ -40,11 +40,14 @@
 * 👎 Stuart Holmes
 * 👎 Brian Hatfield
 
+### [HB 1745](/bill/2025-26/hb/1745/) - Election audits  👎1 
+* 👎 Stuart Holmes
+
 ### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍2  
 * 👍 Brian Hatfield
 * 👍 Brian Hatfield
 
-### [SB 5014](/bill/2025-26/sb/5014/) - Concerning election security. 👍3  
+### [SB 5014](/bill/2025-26/sb/5014/) - Election security 👍3  
 * 👍 Kylee Zabel
 * 👍 Steve Hobbs
 * 👍 Kevin McMahan

@@ -6,11 +6,11 @@
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth  👎1 
 
-## [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval 👍1  
+## [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval 👍2  
 
 ## 2023-24
 
-### [HB 1777](/bill/2023-24/hb/1777/) - Apprenticeship approval 👍1  
+### [HB 1777](/bill/2023-24/hb/1777/) - Apprenticeship approval 👍2  
 
 ### [HB 1067](/bill/2023-24/hb/1067/) - High-hazard facility wages  👎2 
 * 👎 Ryan Likkel

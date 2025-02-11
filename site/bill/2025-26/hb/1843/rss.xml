@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1843/</link>
 		<description>Updates about HB 1843</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 09 Feb 2025 02:52:59 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 10:22:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,12 +31,44 @@
 			<guid isPermaLink="false">testifier/Anne/Paxton/2025-02-06 03:38:30</guid>
 		</item>
 		<item>
-			<title>👎KARL MOEGLING - Unemployment Law Project</title>
+			<title>👎KARL MOEGLING - Washington State Labor Council</title>
 			<description>KARL MOEGLING signed up to testify Con.</description>
 			<pubDate>Sun, 09 Feb 2025 02:52:59 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/KARL/MOEGLING/2025-02-09 02:52:59</guid>
+		</item>
+		<item>
+			<title>👍Felix Goodman - Lake Washington High School, Capitol Classroom</title>
+			<description>Felix Goodman signed up to testify Pro. They are signed up to represent Lake Washington High School, Capitol Classroom.</description>
+			<pubDate>Mon, 10 Feb 2025 09:22:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Felix/Goodman/2025-02-10 09:22:31</guid>
+		</item>
+		<item>
+			<title>👍Kimiko Low - Lake Washington High School, Capitol Classroom</title>
+			<description>Kimiko Low signed up to testify Pro. They are signed up to represent Lake Washington High School, Capitol Classroom.</description>
+			<pubDate>Mon, 10 Feb 2025 09:22:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kimiko/Low/2025-02-10 09:22:31</guid>
+		</item>
+		<item>
+			<title>👍Anne Paxton - Unemployment Law Project</title>
+			<description>Anne Paxton signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/unemployment_law_project/"&gt;Unemployment Law Project&lt;/a&gt;.</description>
+			<pubDate>Mon, 10 Feb 2025 10:22:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Anne/Paxton/2025-02-10 10:22:38</guid>
+		</item>
+		<item>
+			<title>👍💵Christoph Mair - Washington State Labor Council</title>
+			<description>Christoph Mair signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_labor_council/"&gt;Washington State Labor Council&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 10 Feb 2025 10:22:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Christoph/Mair/2025-02-10 10:22:38</guid>
 		</item>
 	</channel>
 </rss>

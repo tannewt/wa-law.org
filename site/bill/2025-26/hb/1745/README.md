@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201745)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201745)
 
 ## Meetings
@@ -17,8 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32766&aId=163260&caId=25652&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32766&aId=163260&caId=25652&tId=4)
 
-#### 908 👍 - Pro
+#### 1297 👍 - Pro
 
-#### 191 👎 - Con
+#### 256 👎 - Con
+Testifying:
+* Stuart Holmes - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Lori Larsen - Washington State Association of County Auditors
+* 💵Michael Shaw - Washington State Association of County Auditors

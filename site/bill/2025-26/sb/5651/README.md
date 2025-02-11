@@ -8,11 +8,13 @@
 
 ## Meetings
 ### Mon 02/10 10:30 AM - Law & Justice (LAW): SB 5651 Garnishment exemption amount
-#### 48 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Amanda Martin - NW Consumer Law Center
+* Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Molly Molly - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 * Sam Leonard - WA State Association for Justice
+* Adam Eitmann - Washington State Office of the Attorney General
 
 #### 50 👎 - Con
 Testifying:
@@ -20,6 +22,6 @@ Testifying:
 * Mindy Chumbley - WA Collectors Association
 * Franci Wayland - Receivables Management Association International (RMAI)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Julia Kellison - NW Justice Project

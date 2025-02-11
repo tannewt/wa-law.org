@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163679&caId=25609&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163679&caId=25609&tId=4)
 
-#### 9 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * Nancy DeVaux
 * Paul Schissler - Madrona Community Development spc
@@ -22,7 +22,8 @@ Testifying:
 * Amanda DeShazo - Tacoma-Pierce County Affordable Housing Consortium
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Lisa Byers - OPAL Community Land Trust
+* Amanda Lynn
 
-#### 68 👎 - Con
+#### 99 👎 - Con
 
 #### 0 ❓ - Other

@@ -14,12 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32781&aId=163706&caId=25766&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32781&aId=163706&caId=25766&tId=4)
 
-#### 534 👍 - Pro
+#### 757 👍 - Pro
 Testifying:
 * Erin Goodman - SODO Business Improvement Area
 * Amy Barden - Chief, Seattle CARE Department
 * Kimberly Hendrickson - BHCore Center at University of Washington
+* Dan Nelson - Seattle Police Department
+* Dan Nelson - Seattle Police Department
 
-#### 322 👎 - Con
+#### 544 👎 - Con
+Testifying:
+* 💵Brenda Wiest - Teamsters 117
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Olivia Shangrow - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)

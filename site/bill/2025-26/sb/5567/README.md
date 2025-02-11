@@ -17,7 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32759&aId=163226&caId=25674&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32759&aId=163226&caId=25674&tId=4)
 
-#### 72 👍 - Pro
+#### 92 👍 - Pro
+Testifying:
+* Evan Pierce - Washington Department of Natural Resources
 
 #### 0 👎 - Con
 

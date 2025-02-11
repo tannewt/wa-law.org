@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/29 04:00 PM - Appropriations (APP): HB 1498 Domestic viol. co-responders

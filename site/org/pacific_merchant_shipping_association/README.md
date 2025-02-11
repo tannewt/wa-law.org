@@ -1,6 +1,8 @@
 # Pacific Merchant Shipping Association
 ## 2025-26
 
+### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍1  
+
 ### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment  👎1 
 * 👎 Jacqueline Moore
 

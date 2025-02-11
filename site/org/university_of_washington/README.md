@@ -28,6 +28,8 @@
 ### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings   ❓1
 * ❓ Jordan Palmeri
 
+### [HB 1485](/bill/2025-26/hb/1485/) - Services and activities fees  👎1 
+
 ### [HB 1492](/bill/2025-26/hb/1492/) - Students with dependents 👍3  
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
@@ -38,7 +40,7 @@
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
 
-### [SB 5106](/bill/2025-26/sb/5106/) - Establishing Eid al-Fitr and Eid al-Adha as state holidays. 👍1  
+### [SB 5106](/bill/2025-26/sb/5106/) - Eid al-Fitr & Eid al-Adha 👍1  
 
 ### [SB 5119](/bill/2025-26/sb/5119/) - Academic employee bargaining 👍1  
 
@@ -57,11 +59,13 @@
 
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍11  
 
-## [SB 5451](/bill/2025-26/sb/5451/) - Quantum economic development 👍1  
+### [SB 5451](/bill/2025-26/sb/5451/) - Quantum economic development 👍1  
+
+## [SB 5551](/bill/2025-26/sb/5551/) - School library info and tech 👍1  
 
 ## 2023-24
 
-### [SB 5451](/bill/2023-24/sb/5451/) - Quantum economic development 👍1  
+### [SB 5551](/bill/2023-24/sb/5551/) - School library info and tech 👍1  
 
 ### [HB 1025](/bill/2023-24/hb/1025/) - Police/private actions 👍1  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1274/</link>
 		<description>Updates about HB 1274</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 06 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 19:28:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -177,6 +177,20 @@
 			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/06/stearns-bill-to-retroactively-remove-juvenile-points-from-adult-sentencing-passes-committee/#:~:text=HB%201274</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-10/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>2025 Quaker Voice Priority Bill Tracker — Quaker Voice</title>
+			<description>News article "2025 Quaker Voice Priority Bill Tracker — Quaker Voice" from Quaker Voice On Washington Public Policy.</description>
+			<pubDate>Mon, 10 Feb 2025 19:28:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.quakervoicewa.org/2025-quaker-voice-priority-bills/#:~:text=HB%201274</guid>
 		</item>
 	</channel>
 </rss>

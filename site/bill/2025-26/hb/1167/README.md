@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163277&caId=25583&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163277&caId=25583&tId=4)
 
-#### 6 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Lynette Brower - Washington State Skills Center Association
+* Captain Ryan Davis - legato maritime
+* Tim Knue - Washington Association for Career and Technical Education
+* Tony Adams - Suquamish Higher Education Board
+* Tory Gering - Core Plus Maritime
+* 💵Brad Tower - Arrow Marine Group
+* Dennis Halpin - Elliott Bay Marina
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

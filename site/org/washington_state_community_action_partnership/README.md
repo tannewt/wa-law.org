@@ -1,7 +1,7 @@
 # Washington State Community Action Partnership
 ## 2025-26
 
-### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍2  
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍3  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Jeff DeLuca
@@ -19,9 +19,11 @@
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
 
-### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍2  
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍3  
 
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings 👍1  
+
+### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Jeff DeLuca

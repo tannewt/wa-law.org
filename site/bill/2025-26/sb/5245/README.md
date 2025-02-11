@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [Week Two Comes to a Close - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/01/24/week-two-comes-to-a-close/#:~:text=5245)

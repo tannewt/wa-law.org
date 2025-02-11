@@ -12,18 +12,13 @@
 
 ## Meetings
 ### Mon 02/10 04:00 PM - Ways & Means (WM): SB 5211 DD parental caregivers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163618&caId=25735&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163618&caId=25735&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163618&caId=25735&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163618&caId=25735&tId=4)
-
-#### 449 👍 - Pro
+#### 481 👍 - Pro
 Testifying:
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * Fernanda Mazcot
 * Katie Scheid - Impacted parent and PEPWa
 * 💵Nick Federici - SEIU 775
+* Mary McDirmid
 
 #### 3 👎 - Con
 

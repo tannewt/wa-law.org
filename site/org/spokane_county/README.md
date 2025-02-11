@@ -7,16 +7,22 @@
 
 ### [HB 1321](/bill/2025-26/hb/1321/) - Outside militia activities  👎1 
 
+### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections  👎1 
+
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎2 
 * 👎 Christopher Savage
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+
+### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets  👎1 
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎1 
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net.  👎1 
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
+
+### [SB 5434](/bill/2025-26/sb/5434/) - Gubernatorial emergencies 👍1  
 
 ## [SB 5635](/bill/2025-26/sb/5635/) - Alt. on-site sewage systems 👍1  
 * 👍 Commissioner Josh Kerns

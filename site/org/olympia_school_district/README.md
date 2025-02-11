@@ -14,6 +14,9 @@
 ### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍2  
 * 👍 Patrick Murphy
 
+### [HB 1356](/bill/2025-26/hb/1356/) - K-12 funding 👍1  
+* 👍 Kate Davis
+
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  

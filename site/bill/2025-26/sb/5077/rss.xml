@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5077/</link>
 		<description>Updates about SB 5077</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 05 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 20:05:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -189,6 +189,13 @@
 			<pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-05/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Building momentum: Over a third of the way through session - Sen. Javier Valdez</title>
+			<description>News article "Building momentum: Over a third of the way through session - Sen. Javier Valdez" from Senate Democrats.</description>
+			<pubDate>Mon, 10 Feb 2025 20:05:26 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2025/02/10/building-momentum-over-a-third-of-the-way-through-session/#:~:text=SB%205077</guid>
 		</item>
 	</channel>
 </rss>

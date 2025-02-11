@@ -13,7 +13,7 @@
 ### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements   ❓1
 * ❓ Karl Almgren
 
-### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act.   ❓1
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓1
 * ❓ Karl Almgren
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓1

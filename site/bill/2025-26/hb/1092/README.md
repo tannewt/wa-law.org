@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/07/2025 [The Center Square](/org/the_center_square/) - [Budget deficit may mean protecting, not expanding, substance abuse treatment programs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fd0854be-cc79-11ef-9302-2b3d8c646cc8.html#:~:text=House%20Bill%201092)
+* [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/safer-streets/#:~:text=House%20Bill%201092)
 * [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/safer-streets/#:~:text=House%20Bill%201092)
 
 ## Meetings

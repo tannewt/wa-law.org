@@ -14,11 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32715&aId=163202&caId=25680&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32715&aId=163202&caId=25680&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Charlie Brown - Association of Home Appliance Manufacturers
 * 💵Kevin Messner - Association of Home Appliance Manufacturers
+* Charles Souhrada - North American Association of Food Equipment Manufacturers (NAFEM)
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* Monica Ayers - King County, Hazardous Waste Management Program
+* Reza Pedram
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Cosan Unuvar - Cookware Sustainability Alliance
+* Kimberly Goetz - Department of Ecology

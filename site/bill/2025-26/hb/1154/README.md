@@ -15,11 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163320&caId=25541&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163320&caId=25541&tId=4)
 
-#### 52 👍 - Pro
+#### 56 👍 - Pro
+Testifying:
+* Wendy Wickersham
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Jaime Bodden - WSALPHO
+* 💵Travis Dutton - WACSWM
 
 ### Mon 01/13 01:30 PM - Environment & Energy (ENVI): HB 1154 Solid waste handling
 #### 194 👍 - Pro

@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5106](/bill/2025-26/sb/5106/)
 
-# SB 5106 - Establishing Eid al-Fitr and Eid al-Adha as state holidays.
+# SB 5106 - Eid al-Fitr & Eid al-Adha
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5106&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/28 01:30 PM - State Government & Elections (SGE): SB 5106 Eid al-Fitr & Eid al-Adha

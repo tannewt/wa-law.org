@@ -8,19 +8,15 @@
 
 ## Meetings
 ### Mon 02/10 01:30 PM - Education (ED): HB 1683 School director districts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163274&caId=25580&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163274&caId=25580&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163274&caId=25580&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163274&caId=25580&tId=4)
-
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Nina Martinez - Latino Civic Alliance
 
-#### 18 👎 - Con
+#### 19 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Dr. Karen Bolton - Washington State School Directors' Association
+* 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
+* 💵Nilu Jenks - FairVote Washington

@@ -58,6 +58,10 @@
 ### [HB 1353](/bill/2025-26/hb/1353/) - ADU self-certification 👍1  
 * 👍💵 Andrea Smiley
 
+### [HB 1356](/bill/2025-26/hb/1356/) - K-12 funding  👎1 
+
+### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program  👎1 
+
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license   ❓1
 * ❓ Mike Ennis
 
@@ -65,6 +69,8 @@
 * 👍💵 Brent Ludeman
 
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program  👎1 
+
+### [HB 1414](/bill/2025-26/hb/1414/) - CTE careers work group 👍1  
 
 ### [HB 1438](/bill/2025-26/hb/1438/) - Housing permit approval 👍1  
 * 👍💵 Andrea Smiley
@@ -89,20 +95,38 @@
 
 ### [HB 1644](/bill/2025-26/hb/1644/) - Working minors  👎1 
 
+### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use  👎1 
+
+### [HB 1682](/bill/2025-26/hb/1682/) - Unemployment ins./part-time  👎1 
+
 ### [HB 1688](/bill/2025-26/hb/1688/) - Electric security alarms 👍1  
 
 ### [HB 1732](/bill/2025-26/hb/1732/) - Home buying by entities  👎1 
 * 👎💵 Brent Ludeman
 
+### [HB 1747](/bill/2025-26/hb/1747/) - Job applicants and employees  👎1 
+
 ### [HB 1757](/bill/2025-26/hb/1757/) - Residential use/existing 👍1  
 
+### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
+
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement  👎1 
+
+### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval 👍1  
+
+### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation  👎1 
+
+### [HB 1843](/bill/2025-26/hb/1843/) - Students/unemployment ins.  👎1 
+
+### [HB 1857](/bill/2025-26/hb/1857/) - Asbestos building materials 👍1  
+
+### [HB 1906](/bill/2025-26/hb/1906/) - Water system rates 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers  👎1 
 
-### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 
+### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎2 
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
 
@@ -111,7 +135,7 @@
 ### [SB 5111](/bill/2025-26/sb/5111/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
 * 👍💵 Andrea Smiley
 
-### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act. 👍1  
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
 * 👍💵 Andrea Smiley
 
 ### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍1  
@@ -144,10 +168,15 @@
 
 ### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎1 
 
+### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint  👎1 
+* 👎💵 Andrea Smiley
+
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities  👎1 
 * 👎💵 Brent Ludeman
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+### [SB 5540](/bill/2025-26/sb/5540/) - Students/unemployment ins.  👎1 
 
 ### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
 
@@ -163,6 +192,8 @@
 * 👍💵 Andrea Smiley
 
 ### [SB 5573](/bill/2025-26/sb/5573/) - Electric security alarms 👍1  
+
+### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
 
 ### [SB 5580](/bill/2025-26/sb/5580/) - Corp. homeowner registration  👎1 
 * 👎💵 Bill Stauffacher

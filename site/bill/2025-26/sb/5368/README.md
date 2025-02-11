@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Mon 02/10 10:30 AM - Labor & Commerce (LC): SB 5368 Alcohol taxes and fees study
-#### 167 👍 - Pro
+#### 179 👍 - Pro
 Testifying:
 * Charlie Brown - [Diageo](/org/diageo/)
 * John Gainza - Southern Glazers Wine and Spirits

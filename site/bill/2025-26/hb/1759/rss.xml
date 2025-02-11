@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1759/</link>
 		<description>Updates about HB 1759</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 08 Feb 2025 00:30:39 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -59,6 +59,13 @@
 			<pubDate>Sat, 08 Feb 2025 00:30:39 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/02/07/seahawks-fans-may-get-a-state-recognized-day/#:~:text=House%20Bill%201759</guid>
+		</item>
+		<item>
+			<title>The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats</title>
+			<description>News article "The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201759</guid>
 		</item>
 	</channel>
 </rss>

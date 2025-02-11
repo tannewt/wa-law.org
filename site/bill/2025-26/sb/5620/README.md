@@ -11,18 +11,14 @@
 
 ## Meetings
 ### Mon 02/10 01:30 PM - Human Services (HS): SB 5620 Foster care/rights of child
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32760&aId=163234&caId=25702&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32760&aId=163234&caId=25702&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32760&aId=163234&caId=25702&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32760&aId=163234&caId=25702&tId=4)
-
-#### 129 👍 - Pro
+#### 133 👍 - Pro
 Testifying:
 * Charissa Keebaugh - Lived Expierence Consultant
 * 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Sharn Kaur - [The Mockingbird Society](/org/the_mockingbird_society/)
 * 💵Charles Smith - [The Mockingbird Society](/org/the_mockingbird_society/)
+* LaDonna Kirkpatrick
+* David Terry
 
 #### 1 👎 - Con
 

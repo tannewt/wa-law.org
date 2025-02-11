@@ -7,17 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/10/2025 [FOX13](/org/fox13/) - [WA legislators hear bill on organized retail theft | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-legislators-bill-organized-retail-theft#:~:text=House%20Bill%201276)
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201276)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201276)
 
 ## Meetings
 ### Mon 02/10 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1276 Organized retail theft
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32735&aId=163122&caId=25552&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32735&aId=163122&caId=25552&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32735&aId=163122&caId=25552&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32735&aId=163122&caId=25552&tId=4)
-
-#### 159 👍 - Pro
+#### 174 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Anthony Mixer - Washington State Young Republicans
@@ -26,9 +22,10 @@ Testifying:
 * Mary Lou Pauly - Mayor, City of Issaquah
 * Les Baldik - Les's Local Honey
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 
 #### 2 ❓ - Other
 Testifying:

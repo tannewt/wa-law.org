@@ -3,6 +3,9 @@
 
 ### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement  👎1 
 
+### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace  👎1 
+* 👎 Cathy Bambrick
+
 ## [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services.  👎2 
 * 👎 Brian Gibbons
 

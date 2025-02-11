@@ -29,9 +29,15 @@
 
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
 
+### [HB 1641](/bill/2025-26/hb/1641/) - Definition of timberland 👍1  
+
+### [HB 1646](/bill/2025-26/hb/1646/) - DNR civil enforcement appeal 👍1  
+
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
 
 ### [HB 1721](/bill/2025-26/hb/1721/) - Zero emissions vehicles/sale 👍1  
+
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
 
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍1  
 

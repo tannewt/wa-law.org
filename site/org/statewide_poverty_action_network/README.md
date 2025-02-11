@@ -32,6 +32,9 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍2  
 
+### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍2  
+* 👍💵 Lianna Kressin
+
 ### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
 
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍2  
@@ -70,7 +73,7 @@
 
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 
-### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
+### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍2  
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters 👍1  
 
@@ -78,12 +81,14 @@
 
 ### [SB 5589](/bill/2025-26/sb/5589/) - Insurance & credit study 👍1  
 
-## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍2  
+## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍3  
+* 👍 Molly Gallagher
 * 👍 Molly Molly
 
 ## 2023-24
 
-### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemption amount 👍2  
+### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemption amount 👍3  
+* 👍 Molly Gallagher
 * 👍 Molly Molly
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  

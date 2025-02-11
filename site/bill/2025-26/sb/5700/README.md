@@ -8,9 +8,10 @@
 
 ## Meetings
 ### Mon 02/10 10:30 AM - Labor & Commerce (LC): SB 5700 Medical cannabis database
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Marc Webster - Washington State Liquor and Cannabis Board
+* Caitlein Ryan
 
 #### 0 👎 - Con
 

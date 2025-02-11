@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32726&aId=163555&caId=25641&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32726&aId=163555&caId=25641&tId=4)
 
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Mary Lou Pauly - Mayor, City of Issaquah
+* Kim Gunderson - [City of Orting](/org/city_of_orting/)
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Brooke Eidem - American Planning Association, WA Chapter
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)

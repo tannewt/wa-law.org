@@ -33,12 +33,16 @@
 
 ### [HB 1314](/bill/2025-26/hb/1314/) - Early learning facilities 👍1  
 
+### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
+
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax 👍1  
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍2  
 * 👍💵 Courtney Normand
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
+
+### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍1  
 
 ### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍1  
 
@@ -47,6 +51,8 @@
 ### [HB 1589](/bill/2025-26/hb/1589/) - Concerning the relationships between health carriers and contracting providers. 👍1  
 
 ### [HB 1604](/bill/2025-26/hb/1604/) - Jail searches/gender 👍1  
+
+### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 
@@ -61,6 +67,8 @@
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 
+### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Nicole Kern
 
@@ -69,7 +77,9 @@
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
 * 👍💵 Nicole Kern
 
-### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍1  
+### [SB 5183](/bill/2025-26/sb/5183/) - Tobacco & nicotine products 👍1  
+
+### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍2  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
@@ -84,6 +94,8 @@
 ### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
 
 ### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍1  
+
+### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 
 ### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
 

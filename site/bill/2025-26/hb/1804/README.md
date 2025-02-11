@@ -6,20 +6,18 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201804)
+
 ## Meetings
 ### Mon 02/10 01:30 PM - Environment & Energy (ENVI): HB 1804 Community solar projects
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163209&caId=25591&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163209&caId=25591&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163209&caId=25591&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163209&caId=25591&tId=4)
-
-#### 49 👍 - Pro
+#### 79 👍 - Pro
 Testifying:
 * Heather Mulligan - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Josie Cummings - Avista
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 14 👎 - Con
+#### 16 👎 - Con
 
 #### 3 ❓ - Other
 Testifying:

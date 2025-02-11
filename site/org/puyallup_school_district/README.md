@@ -19,13 +19,18 @@
 
 ### [HB 1676](/bill/2025-26/hb/1676/) - Charter school contracts  👎1 
 
+### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. allocation 👍1  
+
 ### [SB 5086](/bill/2025-26/sb/5086/) - PEBB & SEBB consolidation  👎1 
 
-### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍5  
+### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍7  
+* 👍 Jr, John Polm
 
-### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍5  
+### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍7  
+* 👍 Jr, John Polm
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍5  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍7  
+* 👍 Jr, John Polm
 
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍5  
 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/10/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2025 Quaker Voice Priority Bill Tracker — Quaker Voice](https://www.quakervoicewa.org/2025-quaker-voice-priority-bills/#:~:text=SB%205233)
 * 02/03/2025 [The Center Square](/org/the_center_square/) - [Op-Ed: Massive tax increase proposed for single-payer health care in Washington state | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_87bc2c9e-e24a-11ef-bf94-c3c3a0c72592.html#:~:text=Senate%20Bill%205233)
 
 ## Meetings

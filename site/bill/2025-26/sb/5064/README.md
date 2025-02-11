@@ -9,16 +9,11 @@
 
 ## Meetings
 ### Mon 02/10 04:00 PM - Ways & Means (WM): SSB 5064 Rare diseases adv. council
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163646&caId=25738&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163646&caId=25738&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163646&caId=25738&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163646&caId=25738&tId=4)
-
-#### 61 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * Lindsey Viscarra - National Organization for Rare Disorders
 * Mary McDirmid - NW Rare Disease Coalition
+* Michelle O'Dell
 
 #### 6 👎 - Con
 

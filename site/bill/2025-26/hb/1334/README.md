@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201334)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201334)
 * 01/23/2025 [Senate Republicans](/org/senate_republicans/) - [AUDIO: 9th District Legislative update with Republican state Senator Mark Schoesler - Senate Republican Caucus](https://src.wastateleg.org/blog/audio-9th-district-legislative-update-republican-state-senator-mark-schoesler-2/#:~:text=SB%201334)
 
@@ -18,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163098&caId=25601&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163098&caId=25601&tId=4)
 
-#### 38 👍 - Pro
+#### 129 👍 - Pro
 Testifying:
 * Angela Birney - Mayor, City of Redmond
 * Drew Nazarian - PROTEC17
@@ -26,8 +27,12 @@ Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Mary Lou Pauly - Mayor, City of Issaquah
 * Jen Burbidge - Washington Recreation & Park Association
+* Cathleen Koch - City of Connell
+* King County Councilmember Jorge Baron - [King County](/org/king_county/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Snohomish County Council Megan Dunn - Snohomish County Council
 
-#### 2691 👎 - Con
+#### 10132 👎 - Con
 Testifying:
 * John Axtell
 * Tad Sommerville
@@ -39,7 +44,35 @@ Testifying:
 * Anthony Mixer - Washington State Young Republicans
 * Dakota Manley - Washington State Young Republicans
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
+* Kevin Stich
+* Linda Wojciechowski
+* Barbara Horsfall
+* John Gossett
+* Kaylee Parrish
+* Laney McIntyre
+* Paul Ewart
+* Al Jenkins
+* Hailey Irvine
+* Greg Harris - The people
+* Jodi Betz
+* Mina Rezaei
+* Ying Wang
+* Marie Chrastina
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Shanshan Peng
 * Sid Mellema
+* rui ye
+* Christopher LaValley
+* Nolan Navlet
+* Juncao Li
+* Yibei Zhou
+* MICHAEL YOUNG
+* Tim Eyman - Initiative Activist
+* Cheldon North.
+* Kristi Peterson
+* Jeffrey Pack - Washington Citizens Against Unfair Taxes
 
-#### 3 ❓ - Other
+#### 34 ❓ - Other
+Testifying:
+* Min Xiang
+* Brandon Haimes

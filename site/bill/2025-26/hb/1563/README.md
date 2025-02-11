@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32739&aId=163141&caId=25527&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32739&aId=163141&caId=25527&tId=4)
 
-#### 146 👍 - Pro
+#### 212 👍 - Pro
 Testifying:
 * Chris Martin - WA Prescribed Fire Council
 * 💵Darcy Nonemacher - WA Conservation Action
@@ -24,6 +24,8 @@ Testifying:
 * Ray Entz - Kalispel Tribe of Indians
 * Sara Clark - Shute, Mihaly & Weinberger
 
-#### 0 👎 - Con
+#### 264 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Vice Chairwoman Loni Greninger - Jamestown S'Klallam Tribe

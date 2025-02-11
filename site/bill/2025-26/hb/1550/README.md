@@ -8,18 +8,17 @@
 
 ## Meetings
 ### Mon 02/10 01:30 PM - Environment & Energy (ENVI): HB 1550 Electric vehicle batteries
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163721&caId=25752&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163721&caId=25752&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163721&caId=25752&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163721&caId=25752&tId=4)
-
-#### 226 👍 - Pro
+#### 294 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * 💵James King - [Automotive Recyclers of Washington](/org/automotive_recyclers_of_washington/)
 
-#### 3 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Catalina Jelkh Pareja - LKQ Corporation
+* Emil Nusbaum - Automotive Recyclers Association
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Holly Chisa - Recycled Materials Assn
 
 #### 5 ❓ - Other
 Testifying:

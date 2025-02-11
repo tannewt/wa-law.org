@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1732/</link>
 		<description>Updates about HB 1732</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 06:33:57 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 09:48:56 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,13 @@
 			<pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-30/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 07 Feb 2025 19:05:49 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201732</guid>
 		</item>
 		<item>
 			<title>The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans</title>
@@ -70,12 +77,50 @@
 			<guid isPermaLink="false">testifier/Brent/Ludeman/2025-02-09 10:53:25</guid>
 		</item>
 		<item>
+			<title>The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats</title>
+			<description>News article "The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201732</guid>
+		</item>
+		<item>
+			<title>Thomas bill to protect home ownership is heard committee – Washington State House Democrats</title>
+			<description>News article "Thomas bill to protect home ownership is heard committee – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/10/thomas-bill-to-protect-home-ownership-is-heard-committee/#:~:text=House%20Bill%201732</guid>
+		</item>
+		<item>
 			<title>👎💵Morgan Irwin - Association of Washington Business</title>
 			<description>Morgan Irwin signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_business/"&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
 			<pubDate>Mon, 10 Feb 2025 06:33:57 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Morgan/Irwin/2025-02-10 06:33:57</guid>
+		</item>
+		<item>
+			<title>❓Glen Simecek - Washington Bankers Association</title>
+			<description>Glen Simecek signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_bankers_association/"&gt;Washington Bankers Association&lt;/a&gt;.</description>
+			<pubDate>Mon, 10 Feb 2025 09:02:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Glen/Simecek/2025-02-10 09:02:17</guid>
+		</item>
+		<item>
+			<title>👎Tim Eyman - Initiative Activist</title>
+			<description>Tim Eyman signed up to testify Con. They are signed up to represent Initiative Activist.</description>
+			<pubDate>Mon, 10 Feb 2025 09:40:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tim/Eyman/2025-02-10 09:40:32</guid>
+		</item>
+		<item>
+			<title>👎Aidan Thornsberry - Initiative Activist</title>
+			<description>Aidan Thornsberry signed up to testify Con.</description>
+			<pubDate>Mon, 10 Feb 2025 09:48:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Aidan/Thornsberry/2025-02-10 09:48:56</guid>
 		</item>
 	</channel>
 </rss>

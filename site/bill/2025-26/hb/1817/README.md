@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201817)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201817)
 
 ## Meetings
@@ -17,14 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32771&aId=163282&caId=25589&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32771&aId=163282&caId=25589&tId=4)
 
-#### 15 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Lilah Wakefield - LYAC
 * Apoorva Kancharla
 * Ashwika Mattam
 * Sarah Wen
 
-#### 749 👎 - Con
+#### 846 👎 - Con
 Testifying:
 * John Axtell
 

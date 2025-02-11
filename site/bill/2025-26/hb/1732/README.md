@@ -7,27 +7,27 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201732)
+* 02/10/2025 [House Democrats](/org/house_democrats/) - [Thomas bill to protect home ownership is heard committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/thomas-bill-to-protect-home-ownership-is-heard-committee/#:~:text=House%20Bill%201732)
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201732)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201732)
 
 ## Meetings
 ### Mon 02/10 01:30 PM - Housing (HOUS): HB 1732 Home buying by entities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163182&caId=25624&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163182&caId=25624&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163182&caId=25624&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32747&aId=163182&caId=25624&tId=4)
-
-#### 78 👍 - Pro
+#### 109 👍 - Pro
 Testifying:
 * 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
 * Christie Ryan Christie Ryan
 
-#### 444 👎 - Con
+#### 484 👎 - Con
 Testifying:
 * 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* Tim Eyman - Initiative Activist
+* Aidan Thornsberry
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Riley Benge - Washington REALTORS
+* Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)

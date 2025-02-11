@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1522/</link>
 		<description>Updates about HB 1522</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 09 Feb 2025 05:13:40 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -104,7 +104,21 @@
 			<description>News article "Better schools and parental rights | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Sun, 09 Feb 2025 05:13:40 GMT</pubDate>
 			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=prepare%20for%20wildfires</guid>
+		</item>
+		<item>
+			<title>Better schools and parental rights | Washington State House Republicans</title>
+			<description>News article "Better schools and parental rights | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sun, 09 Feb 2025 05:13:40 GMT</pubDate>
+			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=prepare%20for%20wildfires</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-10/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

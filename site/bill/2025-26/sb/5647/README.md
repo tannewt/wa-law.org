@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163742&caId=25759&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163742&caId=25759&tId=4)
 
-#### 13 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Kathleen M Hosfeld - Homestead Community Land Trust | NWCLTC
 * Kathleen M Hosfeld - [Homestead Community Land Trust](/org/homestead_community_land_trust/)
+* Amanda Lynn
 
 #### 0 👎 - Con
 

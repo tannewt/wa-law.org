@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles introduces bill to update WA veterans committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/nobles-introduces-bill-to-update-wa-veterans-committee/#:~:text=Senate%20Bill%205338)

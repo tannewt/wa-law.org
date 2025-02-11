@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201339)
+
 ## Meetings
 ### Thu 02/13 04:00 PM - Appropriations (APP): HB 1339 Even-numbered year elections
 Sign up to testify:
@@ -14,13 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163844&caId=25802&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163844&caId=25802&tId=4)
 
-#### 180 👍 - Pro
+#### 248 👍 - Pro
 Testifying:
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 
-#### 774 👎 - Con
+#### 873 👎 - Con
 Testifying:
 * Laurie Layne
+* Tim Eyman - Initiative Activist
 
 #### 0 ❓ - Other
 

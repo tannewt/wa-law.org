@@ -71,7 +71,7 @@
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger. 👍1  
 
-### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act.  👎1 
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎1 
 
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects  👎1 
 

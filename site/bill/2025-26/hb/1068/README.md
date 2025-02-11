@@ -8,13 +8,9 @@
 
 ## Meetings
 ### Mon 02/10 04:00 PM - Appropriations (APP): HB 1068 DOC WMS employee arbitration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32772&aId=163309&caId=25534&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32772&aId=163309&caId=25534&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32772&aId=163309&caId=25534&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32772&aId=163309&caId=25534&tId=4)
-
-#### 5 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* 💵Brenda Wiest - Teamsters117
 
 #### 0 👎 - Con
 

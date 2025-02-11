@@ -6,12 +6,12 @@
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
 
-## [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act.  👎1 
+## [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎1 
 * 👎 Salim Nice
 
 ## 2023-24
 
-### [SB 5148](/bill/2023-24/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act.  👎1 
+### [SB 5148](/bill/2023-24/sb/5148/) - GMA housing element  👎1 
 * 👎 Salim Nice
 
 ### [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍2  

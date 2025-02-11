@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32763&aId=163807&caId=25806&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32763&aId=163807&caId=25806&tId=4)
 
-#### 3 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Dr. Esther Matthews
+* Jessica Levin - Center for Civil Rights and Critical Justice
+* Anthony Powers
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jonathan Meyer - Lewis County Prosecutor

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1380/</link>
 		<description>Updates about HB 1380</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 08:43:10 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 19:28:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -313,12 +313,51 @@
 			<guid isPermaLink="false">testifier/Phil/Altmeyer/2025-02-09 12:49:17</guid>
 		</item>
 		<item>
+			<title>👎Gavin Cooley - 2800 E Main Ave</title>
+			<description>Gavin Cooley signed up to testify Con. They are signed up to represent 2800 E Main Ave.</description>
+			<pubDate>Mon, 10 Feb 2025 02:09:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Gavin/Cooley/2025-02-10 02:09:15</guid>
+		</item>
+		<item>
+			<title>👎Caroline Manger - Concerned citizen opposed to this bill</title>
+			<description>Caroline Manger signed up to testify Con. They are signed up to represent Concerned citizen opposed to this bill.</description>
+			<pubDate>Mon, 10 Feb 2025 05:02:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Caroline/Manger/2025-02-10 05:02:40</guid>
+		</item>
+		<item>
 			<title>👍Councilmember Lindsey Schromen-Wawrin - Office of the Insurance Commissioner</title>
 			<description>Councilmember Lindsey Schromen-Wawrin signed up to testify Pro.</description>
 			<pubDate>Mon, 10 Feb 2025 08:43:10 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Councilmember Lindsey/Schromen-Wawrin/2025-02-10 08:43:10</guid>
+		</item>
+		<item>
+			<title>👍Sharyl Brown - Jewels Helping Hands</title>
+			<description>Sharyl Brown signed up to testify Pro. They are signed up to represent Jewels Helping Hands.</description>
+			<pubDate>Mon, 10 Feb 2025 11:41:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sharyl/Brown/2025-02-10 11:41:54</guid>
+		</item>
+		<item>
+			<title>👍💵Sarah Nagy - Columbia Legal Services</title>
+			<description>Sarah Nagy signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/columbia_legal_services/"&gt;Columbia Legal Services&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 10 Feb 2025 11:58:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sarah/Nagy/2025-02-10 11:58:05</guid>
+		</item>
+		<item>
+			<title>2025 Quaker Voice Priority Bill Tracker — Quaker Voice</title>
+			<description>News article "2025 Quaker Voice Priority Bill Tracker — Quaker Voice" from Quaker Voice On Washington Public Policy.</description>
+			<pubDate>Mon, 10 Feb 2025 19:28:43 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.quakervoicewa.org/2025-quaker-voice-priority-bills/#:~:text=HB%201380</guid>
 		</item>
 	</channel>
 </rss>

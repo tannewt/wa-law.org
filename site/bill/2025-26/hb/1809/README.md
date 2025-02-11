@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163197&caId=25621&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163197&caId=25621&tId=4)
 
-#### 16 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Kimberly Hendrickson - University of Washington, BHCore Center
 * Shaun Ford - Washington Fire Chief's Association
@@ -22,4 +22,6 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Mike Battis - WA Ambulance Association

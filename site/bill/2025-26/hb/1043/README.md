@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163099&caId=25602&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32720&aId=163099&caId=25602&tId=4)
 
-#### 20 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * Michael Leach - Move Redmond
 * Veronica Jarvis - TDM Technical Committee
 
-#### 1 👎 - Con
+#### 15 👎 - Con
 
 #### 0 ❓ - Other

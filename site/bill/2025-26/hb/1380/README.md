@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/10/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2025 Quaker Voice Priority Bill Tracker — Quaker Voice](https://www.quakervoicewa.org/2025-quaker-voice-priority-bills/#:~:text=HB%201380)
 * 01/24/2025 [The Center Square](/org/the_center_square/) - [WA homelessness bill 'flies in the face' of SCOTUS overturning Martin v. Boise | National | thecentersquare.com](https://www.thecentersquare.com/national/article_23fb6c02-da8d-11ef-adb6-cb72701fc8ec.html#:~:text=House%20Bill%201380)
 * 01/22/2025 [MyNorthwest](/org/mynorthwest/) - [Washington Democrats push bill legalizing homeless encampments](https://mynorthwest.com/ktth/ktth-opinion/rantz-washington-democrats-bill-legalizes-homeless-encampments-stops-cities-from-restrictions/4031418#:~:text=House%20Bill%201360)
 
@@ -18,11 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=4)
 
-#### 302 👍 - Pro
+#### 794 👍 - Pro
 Testifying:
 * Councilmember Lindsey Schromen-Wawrin
+* Sharyl Brown - Jewels Helping Hands
+* 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 
-#### 176 👎 - Con
+#### 560 👎 - Con
 Testifying:
 * Amy Harris - Clark County Matters
 * Emilie Cameron - Downtown Spokane Partnership
@@ -35,6 +38,8 @@ Testifying:
 * Melissa Chin - Assistant City Attorney, City of Bellevue
 * Timothy Bruya
 * Phil Altmeyer
+* Gavin Cooley - 2800 E Main Ave
+* Caroline Manger - Concerned citizen opposed to this bill
 
 #### 2 ❓ - Other
 

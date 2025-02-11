@@ -1,7 +1,8 @@
 # Washington Coalition for Police Accountability
 ## 2025-26
 
-### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct 👍1  
+### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct 👍2  
+* 👍 Shelly Washington
 
 ### [HB 1252](/bill/2025-26/hb/1252/) - Pretrial release  👎1 
 

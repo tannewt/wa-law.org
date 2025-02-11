@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163886&caId=25787&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32751&aId=163886&caId=25787&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Brandon Houskeeper - Associated Builders & Contractors - Western WA / SW Washington Contractors Assoc.
 
 #### 0 ❓ - Other

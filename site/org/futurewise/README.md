@@ -50,12 +50,29 @@
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍4  
 * 👍💵 Bryce Yadon
 
+### [HB 1695](/bill/2025-26/hb/1695/) - Unincorporated villages/GMA  👎1 
+* 👎💵 Bryce Yadon
+
 ### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍1  
+
+### [HB 1700](/bill/2025-26/hb/1700/) - Comprehensive plan updates 👍1  
+* 👍💵 Bryce Yadon
+
+### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
+
+### [HB 1818](/bill/2025-26/hb/1818/) - Administration of plats   ❓1
+* ❓💵 Bryce Yadon
+
+### [HB 1840](/bill/2025-26/hb/1840/) - Middle housing   ❓1
+* ❓💵 Bryce Yadon
+
+### [HB 1854](/bill/2025-26/hb/1854/) - Rural areas/subdivision 👍1  
+* 👍💵 Bryce Yadon
 
 ### [SB 5055](/bill/2025-26/sb/5055/) - Agritourism  👎1 
 * 👎💵 Bryce Yadon
 
-### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act. 👍1  
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
 * 👍💵 Bryce Yadon
 
 ### [SB 5173](/bill/2025-26/sb/5173/) - Concerning county comprehensive plans and development regulations.  👎1 
@@ -95,6 +112,12 @@
 
 ### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process   ❓1
 * ❓💵 Bryce Yadon
+
+### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
+* 👍💵 Bryce Yadon
+
+### [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits  👎1 
+* 👎💵 Bryce Yadon
 
 ## [SB 5660](/bill/2025-26/sb/5660/) - Water & sewage system access  👎1 
 * 👎💵 Bryce Yadon

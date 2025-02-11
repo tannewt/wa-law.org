@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/30 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5300 St. Edward state park

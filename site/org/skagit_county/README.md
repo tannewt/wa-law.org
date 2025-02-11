@@ -15,11 +15,13 @@
 * ❓ Will Honea
 * ❓ Peter Browning
 
-## [SB 5384](/bill/2025-26/sb/5384/) - Riparian programs review 👍1  
+### [SB 5384](/bill/2025-26/sb/5384/) - Riparian programs review 👍1  
+
+## [SB 5475](/bill/2025-26/sb/5475/) - Salmon recovery maintenance 👍1  
 
 ## 2023-24
 
-### [SB 5384](/bill/2023-24/sb/5384/) - Riparian programs review 👍1  
+### [SB 5475](/bill/2023-24/sb/5475/) - Salmon recovery maintenance 👍1  
 
 ### [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍1  
 

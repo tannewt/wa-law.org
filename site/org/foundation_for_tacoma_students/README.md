@@ -25,13 +25,13 @@
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
 * 👍 Ben Mitchell
 
-### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
+### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍2  
 
-### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍1  
+### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍2  
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍2  
 
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
 

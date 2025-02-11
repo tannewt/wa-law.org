@@ -36,12 +36,15 @@
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
 * 👍💵 Emily Moore
 
+### [HB 1683](/bill/2025-26/hb/1683/) - School director districts   ❓1
+* ❓💵 Shannon Grimes
+
 ### [HB 1757](/bill/2025-26/hb/1757/) - Residential use/existing 👍1  
 * 👍💵 Dan Bertolet
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
 
-### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act. 👍1  
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
 * 👍💵 Dan Bertolet
 
 ### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍1  

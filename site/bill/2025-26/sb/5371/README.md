@@ -8,14 +8,15 @@
 
 ## Meetings
 ### Mon 02/10 10:30 AM - Labor & Commerce (LC): SB 5371 Wine & spirit sales limits
-#### 17 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * 💵Brad Tower - [Washington Liquor Store Association](/org/washington_liquor_store_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 124 👎 - Con
+#### 137 👎 - Con
 Testifying:
 * Andrea McNeely - Association of Washington Wine and Spirits Distributors
+* BASHEER ELAHEE - SGWS
 
 #### 0 ❓ - Other

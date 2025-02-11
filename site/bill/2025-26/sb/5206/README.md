@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Mon 02/10 10:30 AM - Labor & Commerce (LC): SB 5206 Cannabis advertising
-#### 14 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵Brooke Davies - Washington CannaBusiness Association
 * Sara Eltinge - The Herbery
@@ -17,10 +17,12 @@ Testifying:
 * Ian Eisenberg - Uncle Ikes
 * Scott Atkison - Zips Cannabis
 * Shea Hynes - Lux Pot Shop
+* Caitlein Ryan - The Cannabis Alliance
 
-#### 12 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 * Gay-Lynn Beighton
+* Sarah Ross-Viles - Public Health - Seattle & King County
 
 #### 0 ❓ - Other

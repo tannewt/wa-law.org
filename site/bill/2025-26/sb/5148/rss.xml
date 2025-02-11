@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5148 - Ensuring compliance with the housing element requirements of the growth management act.</title>
+		<title>SB 5148 - GMA housing element</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5148/</link>
 		<description>Updates about SB 5148</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 24 Jan 2025 07:55:53 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -122,6 +122,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Kelsey/Hulse/2025-01-24 07:55:53</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-10/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

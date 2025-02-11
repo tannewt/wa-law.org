@@ -20,6 +20,8 @@
 ### [HB 1735](/bill/2025-26/hb/1735/) - Force-feeding of birds 👍2  
 * 👍💵 Kirsten Gregory
 
+### [HB 1775](/bill/2025-26/hb/1775/) - Fur products 👍1  
+
 ### [SB 5065](/bill/2025-26/sb/5065/) - Traveling animal acts 👍1  
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  

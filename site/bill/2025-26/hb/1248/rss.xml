@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1248 - Improving the effectiveness of juvenile justice programs by providing ongoing evaluations and clarifying juvenile diversion practices.</title>
+		<title>HB 1248 - Juvenile justice programs</title>
 		<link>https://wa-law.org/bill/2025-26/hb/1248/</link>
 		<description>Updates about HB 1248</description>
 		<language>en-US</language>
@@ -59,6 +59,13 @@
 			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-07/ELHS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>ELHS - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>ELHS - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-07/ELHS - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

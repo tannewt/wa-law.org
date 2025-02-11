@@ -8,15 +8,11 @@
 
 ## Meetings
 ### Mon 02/10 04:00 PM - Ways & Means (WM): SB 5361 ASAM 4 treatment criteria
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163649&caId=25740&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163649&caId=25740&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163649&caId=25740&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32732&aId=163649&caId=25740&tId=4)
+#### 3 👍 - Pro
+Testifying:
+* Sheri Sawyer - Office of Financial Managment
 
-#### 2 👍 - Pro
-
-#### 12 👎 - Con
+#### 13 👎 - Con
 
 #### 0 ❓ - Other
 

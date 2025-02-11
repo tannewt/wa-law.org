@@ -1,7 +1,7 @@
 # Washington Public Ports Association
 ## 2025-26
 
-### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
+### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍2  
 * 👍💵 Christopher Herman
 
 ### [HB 1058](/bill/2025-26/hb/1058/) - Freight railroad infra. 👍1  
@@ -29,6 +29,8 @@
 * 👎💵 Carly Michiels
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
+
+### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
 

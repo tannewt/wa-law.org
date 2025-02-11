@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201719)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201719)
 
 ## Meetings
@@ -17,11 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32723&aId=163497&caId=25564&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32723&aId=163497&caId=25564&tId=4)
 
-#### 26 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Forrest Chesvick - Good Buzz Brewing Co.
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* Jesse Lloyd - Veterans Journey Forward
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Nora Palattao Burnes - WA Beer & Wine Distributors Association
 
 #### 0 ❓ - Other

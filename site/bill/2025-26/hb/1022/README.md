@@ -10,6 +10,7 @@
 ## 📰 Articles
 * 01/20/2025 [The Center Square](/org/the_center_square/) - [Homes for Heroes bill advancing in Olympia | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0f39046c-d783-11ef-bd79-ef6157cd1187.html#:~:text=House%20Bill%201022)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201022)
+* [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/lower-costs/#:~:text=House%20Bill%201022)
 * [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/lower-costs/#:~:text=House%20Bill%201022)
 
 ## Meetings

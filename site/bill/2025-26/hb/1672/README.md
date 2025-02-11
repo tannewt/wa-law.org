@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201672)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201672)
 
 ## Meetings
@@ -17,11 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163338&caId=25627&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163338&caId=25627&tId=4)
 
-#### 4 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Matthew Scherer - [Center for Democracy & Technology](/org/center_for_democracy_&_technology/)
 
-#### 6 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 0 ❓ - Other

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](http://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=House%20Bill%201296)
 * 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=House%20Bill%201296)
 * 02/06/2025 [KUOW](/org/kuow/) - [KUOW - Why Washington state lawmakers are fighting over 'parents rights' again](https://www.kuow.org/stories/the-fight-over-parents-rights-is-back-in-olympia-here-s-what-s-going-on#:~:text=House%20Bill%201296)
 * 02/06/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Senate Democrats approve changes to parents’ ‘bill of rights’ • Washington State Standard](https://washingtonstatestandard.com/2025/02/05/wa-senate-democrats-approve-changes-to-parents-bill-of-rights/#:~:text=House%20Bill%201296,)

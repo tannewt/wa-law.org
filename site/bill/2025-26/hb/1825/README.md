@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201825)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201825)
 
 ## Meetings
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=4)
 
-#### 22 👍 - Pro
+#### 203 👍 - Pro
 Testifying:
 * Matthew Rudolf - As individual, but I am on the Regional Council for NPCA
 * Susan Kane-Ronning - Washington Sierra Club Wildlife Committee
@@ -32,11 +33,21 @@ Testifying:
 * Alexa Whipple
 * Marcia Ives - 24 Appaloosa Rd
 * Patti Nordby
+* DeeAnn Kirkpatrick
+* Kathleen Fisher
+* Scott Schuyler - Upper Skagit Tribe
+* Kevan Coffey
 * Mary Yglesia
 * STEVEN Dale KRAUSE
 * Tracey Wiese
+* Marcia Navajas
+* jessica mcnamara
+* Rhoda Walter
+* Clay Bobst
+* Jasmine Minbashian - [Methow Valley Citizens Council](/org/methow_valley_citizens_council/)
+* Chris Morgan
 
-#### 46 👎 - Con
+#### 106 👎 - Con
 Testifying:
 * Teagan Levine
 

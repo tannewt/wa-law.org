@@ -18,13 +18,22 @@
 
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
 
+### [HB 1646](/bill/2025-26/hb/1646/) - DNR civil enforcement appeal 👍1  
+* 👍 Erika Odem
+
+### [HB 1647](/bill/2025-26/hb/1647/) - Surface mine reclamation 👍1  
+* 👍 Pat Sullivan
+
+### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev.   ❓1
+* ❓ Erika Odem
+
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
 * 👍 Duane Emmons
 
 ### [SB 5170](/bill/2025-26/sb/5170/) - DNR boundary line surveys   ❓1
 * ❓ Duane Emmons
 
-### [SB 5234](/bill/2025-26/sb/5234/) - Snowmobile registration fees 👍1  
+### [SB 5234](/bill/2025-26/sb/5234/) - Snowmobile registration fees 👍2  
 
 ### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
 * 👍 Pat Sullivan
@@ -32,19 +41,29 @@
 ### [SB 5319](/bill/2025-26/sb/5319/) - Surface mine reclamation 👍1  
 * 👍 Pat Sullivan
 
-### [SB 5334](/bill/2025-26/sb/5334/) - DNR civil enforcement appeal 👍1  
+### [SB 5334](/bill/2025-26/sb/5334/) - DNR civil enforcement appeal 👍2  
+* 👍 Erika Odem
 * 👍 Erika Odem
 
 ### [SB 5385](/bill/2025-26/sb/5385/) - Definition of timberland 👍1  
 * 👍 Duane Emmons
 
-## [SB 5390](/bill/2025-26/sb/5390/) - Discover pass, day-use cost 👍1  
+### [SB 5390](/bill/2025-26/sb/5390/) - Discover pass, day-use cost 👍1  
 * 👍 Sam Hensold
+
+### [SB 5444](/bill/2025-26/sb/5444/) - New special license plates 👍1  
+* 👍 Pat Sullivan
+
+### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
+* 👍 Pat Sullivan
+
+## [SB 5656](/bill/2025-26/sb/5656/) - Aquatic lease inflation rate 👍1  
+* 👍 Tom Gorman
 
 ## 2023-24
 
-### [SB 5390](/bill/2023-24/sb/5390/) - Discover pass, day-use cost 👍1  
-* 👍 Sam Hensold
+### [SB 5656](/bill/2023-24/sb/5656/) - Aquatic lease inflation rate 👍1  
+* 👍 Tom Gorman
 
 ### [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management 👍1  
 

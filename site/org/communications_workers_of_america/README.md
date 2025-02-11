@@ -15,6 +15,10 @@
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
 
+### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use 👍1  
+
+### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval  👎1 
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers 👍1  

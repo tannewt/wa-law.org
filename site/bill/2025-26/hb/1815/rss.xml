@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1815/</link>
 		<description>Updates about HB 1815</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 08 Feb 2025 04:30:44 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 08:23:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Dr. Esther/Matthews/2025-02-08 04:30:44</guid>
+		</item>
+		<item>
+			<title>❓Jonathan Meyer - Lewis County Prosecutor</title>
+			<description>Jonathan Meyer signed up to testify Other. They are signed up to represent Lewis County Prosecutor.</description>
+			<pubDate>Mon, 10 Feb 2025 03:10:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jonathan/Meyer/2025-02-10 03:10:06</guid>
+		</item>
+		<item>
+			<title>👍Jessica Levin - Center for Civil Rights and Critical Justice</title>
+			<description>Jessica Levin signed up to testify Pro. They are signed up to represent Center for Civil Rights and Critical Justice.</description>
+			<pubDate>Mon, 10 Feb 2025 06:04:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jessica/Levin/2025-02-10 06:04:37</guid>
+		</item>
+		<item>
+			<title>👍Anthony Powers - Center for Civil Rights and Critical Justice</title>
+			<description>Anthony Powers signed up to testify Pro.</description>
+			<pubDate>Mon, 10 Feb 2025 08:23:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Anthony/Powers/2025-02-10 08:23:37</guid>
 		</item>
 	</channel>
 </rss>

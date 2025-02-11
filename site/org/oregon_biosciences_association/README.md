@@ -9,13 +9,14 @@
 
 ### [SB 5064](/bill/2025-26/sb/5064/) - Rare diseases adv. council 👍1  
 
-## [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply  👎1 
+### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply  👎1 
 * 👎💵 Michael Transue
+
+## [SB 5594](/bill/2025-26/sb/5594/) - Biosimilar medicines  👎1 
 
 ## 2023-24
 
-### [SB 5326](/bill/2023-24/sb/5326/) - Insulin emergency supply  👎1 
-* 👎💵 Michael Transue
+### [SB 5594](/bill/2023-24/sb/5594/) - Biosimilar medicines  👎1 
 
 ### [HB 1079](/bill/2023-24/hb/1079/) - Whole genome sequencing 👍1  
 

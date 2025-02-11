@@ -1,6 +1,8 @@
 # City of Lakewood
 ## 2025-26
 
+### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct  👎1 
+
 ### [HB 1091](/bill/2025-26/hb/1091/) - SVP supervision credit 👍1  
 
 ### [HB 1133](/bill/2025-26/hb/1133/) - Concerning sexually violent predators. 👍1  
@@ -9,9 +11,11 @@
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
 
+### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
+
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
 
-### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act.  👎1 
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎1 
 
 ### [SB 5286](/bill/2025-26/sb/5286/) - State hospitals/police costs 👍1  
 * 👍 Captain Chris Westby

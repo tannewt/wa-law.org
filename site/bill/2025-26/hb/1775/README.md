@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32738&aId=163596&caId=25525&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32738&aId=163596&caId=25525&tId=4)
 
-#### 178 👍 - Pro
+#### 294 👍 - Pro
+Testifying:
+* Robert McCormick - Animal Defenders International
 
-#### 286 👎 - Con
+#### 374 👎 - Con
 Testifying:
 * Mike Brown - Head of Sustainability and Public Affairs, Natural Fibers Alliance
 * Josh Mills
@@ -27,5 +29,12 @@ Testifying:
 * Josh Phillips - Spawn Fly Fish
 * Alejandro Boulware
 * Mark Ross
+* Joe Ruef
+* Ryan Holt - Fur Farmer
+* 💵Marie Neumiller - [Congressional Sportsmen's Foundation](/org/congressional_sportsmen's_foundation/)
+* Jack Thompson - Jack russell home services inc
+* Bruce Vandervort - Washington State Trappers Association
+* Kim Salvo - ANAMODA, Inc.
+* Karen Parker
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

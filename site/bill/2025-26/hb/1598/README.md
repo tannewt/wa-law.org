@@ -6,22 +6,26 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201598)
+
 ## Meetings
 ### Mon 02/10 01:30 PM - Environment & Energy (ENVI): HB 1598 Community solar
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163210&caId=25592&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163210&caId=25592&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163210&caId=25592&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32755&aId=163210&caId=25592&tId=4)
-
-#### 836 👍 - Pro
+#### 1020 👍 - Pro
 Testifying:
 * William Garry
 * James Feinstein - Arcadia Power
+* Derek Chernow - [Coalition for Community Solar Access](/org/coalition_for_community_solar_access/)
+* James Feinstein - Arcadia Power
+* Evette Temple - Homes First
+* 💵Mason Rolph - [Olympia Community Solar](/org/olympia_community_solar/)
+* Ph.D., Kathleen M. Saul
+* Carlos Benally
 
-#### 513 👎 - Con
+#### 570 👎 - Con
 Testifying:
 * 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 * 💵Josie Cummings - Avista
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

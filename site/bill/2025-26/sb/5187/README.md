@@ -26,7 +26,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163637&caId=25744&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163637&caId=25744&tId=4)
 
-#### 1231 👍 - Pro
+#### 1920 👍 - Pro
 Testifying:
 * Flip Herndon - Capital Region Educational Service District 113, Superintendent
 * Ismael Vivanco - Northwest Educational Service District 189, Superintendent
@@ -37,10 +37,14 @@ Testifying:
 * Lindsey Yocum - Board Director, Lake Washington School District
 * Mary Templeton - Lake Stevens School District
 * Andi Tress - Everett Public Schools
+* Meghan Jernigan - Shoreline School Board
+* Jr, John Polm - [Puyallup School District](/org/puyallup_school_district/)
+* Krestin Bahr - Peninsula School District
+* Charlie Brown - [Federal Way Public Schools](/org/federal_way_public_schools/)
 
-#### 288 👎 - Con
+#### 472 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5187 Student transportation
 #### 2453 👍 - Pro

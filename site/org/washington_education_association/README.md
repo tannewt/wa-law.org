@@ -208,6 +208,8 @@
 
 ### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees 👍1  
 
+### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍1  
+
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 
 ### [HB 1642](/bill/2025-26/hb/1642/) - Pension plan choice 👍3  
@@ -222,13 +224,17 @@
 
 ### [HB 1676](/bill/2025-26/hb/1676/) - Charter school contracts  👎2 
 
-### [HB 1682](/bill/2025-26/hb/1682/) - Unemployment ins./part-time 👍1  
+### [HB 1682](/bill/2025-26/hb/1682/) - Unemployment ins./part-time 👍2  
 
 ### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍1  
 
 ### [HB 1732](/bill/2025-26/hb/1732/) - Home buying by entities 👍1  
 
+### [HB 1747](/bill/2025-26/hb/1747/) - Job applicants and employees 👍1  
+
 ### [HB 1754](/bill/2025-26/hb/1754/) - Medicare suppl./guaranteed 👍1  
+
+### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards 👍1  
 
 ### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍1  
 
@@ -237,9 +243,9 @@
 
 ### [HB 1822](/bill/2025-26/hb/1822/) - Establishing a driver work zone and first responder safety course requirement. 👍1  
 
-### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎8 
+### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎9 
 
-### [HB 1843](/bill/2025-26/hb/1843/) - Students/unemployment ins. 👍1  
+### [HB 1843](/bill/2025-26/hb/1843/) - Students/unemployment ins. 👍2  
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 
@@ -298,7 +304,7 @@
 
 ### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
 
-### [SB 5106](/bill/2025-26/sb/5106/) - Establishing Eid al-Fitr and Eid al-Adha as state holidays. 👍1  
+### [SB 5106](/bill/2025-26/sb/5106/) - Eid al-Fitr & Eid al-Adha 👍1  
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees. 👍1  
 
@@ -442,7 +448,11 @@
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 
+### [SB 5473](/bill/2025-26/sb/5473/) - Law enforcement arbitration 👍1  
+
 ### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  
+
+### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining 👍1  
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
@@ -455,7 +465,7 @@
 
 ### [SB 5528](/bill/2025-26/sb/5528/) - Transp. electrification 👍1  
 
-### [SB 5540](/bill/2025-26/sb/5540/) - Students/unemployment ins. 👍1  
+### [SB 5540](/bill/2025-26/sb/5540/) - Students/unemployment ins. 👍2  
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 
@@ -465,14 +475,19 @@
 
 ### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation 👍1  
 
+### [SB 5551](/bill/2025-26/sb/5551/) - School library info and tech 👍1  
+
 ### [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍1  
 
 ### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍1  
 
+### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
+
 ### [SB 5593](/bill/2025-26/sb/5593/) - School levies & local effort 👍1  
 * 👍💵 Julie Salvi
 
-### [SB 5596](/bill/2025-26/sb/5596/) - Interstate teacher compact 👍1  
+### [SB 5596](/bill/2025-26/sb/5596/) - Interstate teacher compact 👍2  
+* 👍💵 Nasue Nishida
 
 ### [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
 

@@ -8,12 +8,12 @@
 
 ## Meetings
 ### Mon 02/10 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5658 Workforce education account
-#### 6 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Ed Lazowska - UW Paul G. Allen School for Computer Science & Engineering
 * 💵Rose Feliciano - TechNet
 
-#### 68 👎 - Con
+#### 70 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

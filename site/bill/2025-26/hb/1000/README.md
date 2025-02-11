@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 12/05/2024 [Gorge News Center](/org/gorge_news_center/) - [Rep. Jim Walsh pre-files bill to stiffen penalties against fentanyl distributors](https://gorgenewscenter.com/2024/12/05/rep-jim-walsh-pre-files-bill-to-stiffen-penalties-against-fentanyl-distributors/#:~:text=House%20Bill%201000)
+* [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/safer-streets/#:~:text=House%20Bill%201000)
 * [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/safer-streets/#:~:text=House%20Bill%201000)
 
 ## Meetings

@@ -8,19 +8,17 @@
 
 ## Meetings
 ### Mon 02/10 04:00 PM - Transportation (TR): HB 1774 Lease of unused highway land
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32707&aId=163323&caId=25659&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32707&aId=163323&caId=25659&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32707&aId=163323&caId=25659&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32707&aId=163323&caId=25659&tId=4)
-
-#### 27 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Betsy Wilkerson - Spokane City Council President
 * Jerry Pugnetti
 * Charlie Brown - [Tacoma Public Schools](/org/tacoma_public_schools/)
 * Hunter George - Parks Tacoma
+* Jon Grant - Low Income Housing Institute
+* Jennifer Saunders - Washington State Historical Society
 
-#### 513 👎 - Con
+#### 569 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Charles Prestrud - Washington Policy Center

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163741&caId=25758&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163741&caId=25758&tId=4)
 
-#### 74 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * Paul Beveridge - Family Wineries of Washington State
 

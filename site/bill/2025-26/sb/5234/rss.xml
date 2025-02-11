@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5234/</link>
 		<description>Updates about SB 5234</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 05:47:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 12:25:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -70,7 +70,7 @@
 			<guid isPermaLink="false">testifier/Fred/Wemer/2025-02-06 04:10:31</guid>
 		</item>
 		<item>
-			<title>👎Bill Bruch - WA Department of Commerce</title>
+			<title>👎Bill Bruch - State Parks, Policy &amp; Gov't Affairs Director</title>
 			<description>Bill Bruch signed up to testify Con.</description>
 			<pubDate>Sat, 08 Feb 2025 07:56:30 GMT</pubDate>
 			<category>testifier</category>
@@ -78,7 +78,7 @@
 			<guid isPermaLink="false">testifier/Bill/Bruch/2025-02-08 07:56:30</guid>
 		</item>
 		<item>
-			<title>👎James Newbaker - WA Department of Commerce</title>
+			<title>👎James Newbaker - State Parks, Policy &amp; Gov't Affairs Director</title>
 			<description>James Newbaker signed up to testify Con.</description>
 			<pubDate>Sat, 08 Feb 2025 10:37:36 GMT</pubDate>
 			<category>testifier</category>
@@ -86,12 +86,44 @@
 			<guid isPermaLink="false">testifier/James/Newbaker/2025-02-08 10:37:36</guid>
 		</item>
 		<item>
-			<title>👎Eric Fehrmann - WA Department of Commerce</title>
+			<title>👍Cory Wright - Kittitas County Commissioner</title>
+			<description>Cory Wright signed up to testify Pro. They are signed up to represent Kittitas County Commissioner.</description>
+			<pubDate>Mon, 10 Feb 2025 01:21:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cory/Wright/2025-02-10 01:21:51</guid>
+		</item>
+		<item>
+			<title>👍Dean Meakin - Washington State Snowmobile Association</title>
+			<description>Dean Meakin signed up to testify Pro. They are signed up to represent Washington State Snowmobile Association.</description>
+			<pubDate>Mon, 10 Feb 2025 02:48:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dean/Meakin/2025-02-10 02:48:00</guid>
+		</item>
+		<item>
+			<title>👎Eric Fehrmann - State Parks, Policy &amp; Gov't Affairs Director</title>
 			<description>Eric Fehrmann signed up to testify Con.</description>
 			<pubDate>Mon, 10 Feb 2025 05:47:00 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Eric/Fehrmann/2025-02-10 05:47:00</guid>
+		</item>
+		<item>
+			<title>👍Brian Considine - State Parks, Policy &amp; Gov't Affairs Director</title>
+			<description>Brian Considine signed up to testify Pro. They are signed up to represent State Parks, Policy &amp; Gov't Affairs Director.</description>
+			<pubDate>Mon, 10 Feb 2025 11:11:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brian/Considine/2025-02-10 11:11:37</guid>
+		</item>
+		<item>
+			<title>👍Justin Davis - State Parks, Policy &amp; Gov't Affairs Director</title>
+			<description>Justin Davis signed up to testify Pro.</description>
+			<pubDate>Mon, 10 Feb 2025 12:25:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Justin/Davis/2025-02-10 12:25:42</guid>
 		</item>
 	</channel>
 </rss>

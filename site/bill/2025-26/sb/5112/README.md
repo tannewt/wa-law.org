@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163571&caId=25690&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163571&caId=25690&tId=4)
 
-#### 861 👍 - Pro
+#### 1082 👍 - Pro
 Testifying:
 * Erick Clodfelter - 2211 South Star Lake rd
 * Erick Clodfelter - 2211 South Star Lake Road
@@ -25,13 +25,27 @@ Testifying:
 * Amanda Wills
 * Liliana Baciuc
 * Steven M Brown
+* Jocelynn McLaughlin - NAMI Walla Walla
+* 💵Michael Transue - NAMI Washington
+* Zachary Shileika - NAMI Tri-Cities
+* Gerald Purkey - Gerald Purkey
+* Sarah Mullin
+* Robin Templeton
 
-#### 29 👎 - Con
+#### 74 👎 - Con
 Testifying:
 * Victoria Harris MD
 * Neeru Bakshi
 * Chelsea Unruh
 * Atika Singh
 * Natalie Fuller
+* Lida Turner
+* Kevin McLean
+* Breck Lebegue
+* Tanya Keeble
+* Alissa Hemke - Washington state psychiatric association
+* Rie Sharky - N/A
+* Kayla Tuggle - Psychiatry Residency Spokane
+* MD, Victoria Karschney
 
 #### 0 ❓ - Other

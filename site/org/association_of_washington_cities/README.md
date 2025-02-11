@@ -168,6 +168,8 @@
 ### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎1 
 * 👎💵 Candice Bock
 
+### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
+
 ### [HB 1765](/bill/2025-26/hb/1765/) - Subscriber emails/PRA 👍1  
 * 👍💵 Candice Bock
 
@@ -182,6 +184,8 @@
 ### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
 
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
+
+### [HB 1823](/bill/2025-26/hb/1823/) - Transp. improvement board 👍1  
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 * 👍💵 Carl Schroeder
@@ -279,9 +283,12 @@
 ### [SB 5573](/bill/2025-26/sb/5573/) - Electric security alarms 👍1  
 * 👍💵 Carl Schroeder
 
-### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
+### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎2 
 
 ### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
+* 👍💵 Carl Schroeder
+
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍2  
 * 👍💵 Carl Schroeder
 
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development   ❓1

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5503/</link>
 		<description>Updates about SB 5503</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 08 Feb 2025 02:27:52 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 06:16:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,38 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Candice/Bock/2025-02-08 02:27:52</guid>
+		</item>
+		<item>
+			<title>👎Peter Altman - Summit Law Group, PLLC</title>
+			<description>Peter Altman signed up to testify Con. They are signed up to represent Summit Law Group, PLLC.</description>
+			<pubDate>Mon, 10 Feb 2025 02:57:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Peter/Altman/2025-02-10 02:57:14</guid>
+		</item>
+		<item>
+			<title>❓Mike Sellars - Public Employment Relations Commission</title>
+			<description>Mike Sellars signed up to testify Other. They are signed up to represent Public Employment Relations Commission.</description>
+			<pubDate>Mon, 10 Feb 2025 03:23:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Mike/Sellars/2025-02-10 03:23:05</guid>
+		</item>
+		<item>
+			<title>👍Marta Peetz - SEIU Healthcare 1199NW</title>
+			<description>Marta Peetz signed up to testify Pro. They are signed up to represent SEIU Healthcare 1199NW.</description>
+			<pubDate>Mon, 10 Feb 2025 06:16:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Marta/Peetz/2025-02-10 06:16:29</guid>
+		</item>
+		<item>
+			<title>👍💵Samantha Grad - Teamsters 117</title>
+			<description>Samantha Grad signed up to testify Pro. They are signed up to represent Teamsters 117. They are a registered lobbyist.</description>
+			<pubDate>Mon, 10 Feb 2025 06:16:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Samantha/Grad/2025-02-10 06:16:29</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,17 +7,14 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/11/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington bill would set new limits on when police can stop drivers • Washington State Standard](https://washingtonstatestandard.com/2025/02/10/wa-bill-would-set-new-limits-on-when-police-can-stop-drivers/#:~:text=House%20Bill%201512)
+* 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201512)
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201512)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201512)
 
 ## Meetings
 ### Mon 02/10 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1512 Traffic safety
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32735&aId=163123&caId=25553&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32735&aId=163123&caId=25553&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32735&aId=163123&caId=25553&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32735&aId=163123&caId=25553&tId=4)
-
-#### 2044 👍 - Pro
+#### 2218 👍 - Pro
 Testifying:
 * Maya Meisenzahl
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
@@ -28,7 +25,7 @@ Testifying:
 * 💵Nickeia Hunter - WA Coalition for Police Accountability
 * Les Baldik - Les's Local Honey
 
-#### 397 👎 - Con
+#### 430 👎 - Con
 Testifying:
 * Brian Smith - Chief of Police
 * David Sedelmeier
@@ -36,6 +33,7 @@ Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 
-#### 10 ❓ - Other
+#### 11 ❓ - Other
 Testifying:
 * Deion Glover - Washington State Patrol
+* Arthur West

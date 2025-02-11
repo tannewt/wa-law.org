@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32785&aId=163764&caId=25762&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32785&aId=163764&caId=25762&tId=4)
 
-#### 6 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Alice Aliré
 * Vasyl Tarapov - Lake Washington High School
@@ -22,7 +22,9 @@ Testifying:
 * Anna Tiberi
 * Sakshi Verma
 * Vojin Predovic
+* Cody Runner
+* Heimir Magnusson
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

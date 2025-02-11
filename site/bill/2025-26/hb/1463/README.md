@@ -14,10 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32761&aId=163236&caId=25573&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32761&aId=163236&caId=25573&tId=4)
 
-#### 136 👍 - Pro
+#### 358 👍 - Pro
 Testifying:
+* Jessica Silver
 * Irene Muller - Essentials First
+* Diane Evans
+* Jessica Silver
+* 💵Lianna Kressin - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
-#### 1 👎 - Con
+#### 8 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Brice Montgomery - Director - Community Services Division - DSHS - ESA
+* Lisa Nicoli - Sr Research Project Mgr - Management Analytics and Performance Statistics Unit - DSHS - ESA

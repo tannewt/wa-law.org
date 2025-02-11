@@ -8,15 +8,16 @@
 
 ## Meetings
 ### Mon 02/10 10:30 AM - Labor & Commerce (LC): SB 5511 Low-proof alcohol beverages
-#### 117 👍 - Pro
+#### 128 👍 - Pro
 Testifying:
 * 💵Brooke Davies - Association of Washington Spirits and Wine Distributors
 * Kristi Weber - Southern Glazers Wine and Spirits
 * Scott Stocum - Southern Glazers Wine and Spirits
 * Charlie Brown - [Diageo](/org/diageo/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Shanan O'Driscoll Hedges
 
-#### 13 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Mike Graham-Squire - Washington Asociation for Substance Misuse and Violence Prevention (WASAVP)
 * 💵Kylie Peterson - WASAVP

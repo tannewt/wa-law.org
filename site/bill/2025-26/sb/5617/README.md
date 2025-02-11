@@ -11,20 +11,17 @@
 
 ## Meetings
 ### Mon 02/10 01:30 PM - Human Services (HS): SB 5617 Juvenile detention/CHINS
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32760&aId=163233&caId=25701&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32760&aId=163233&caId=25701&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32760&aId=163233&caId=25701&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32760&aId=163233&caId=25701&tId=4)
-
-#### 15 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * 💵Karen Pillar - TeamChild
 * 💵Aaron Yared - [Building Changes](/org/building_changes/)
 * 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* Sara Zier - TeamChild
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Julie Watts - Department of Children, Youth and Families
+* Judge Kristin Ferrera - Superior Court Judges' Association
+* George Moya - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)

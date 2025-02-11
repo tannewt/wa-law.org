@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32738&aId=163766&caId=25790&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32738&aId=163766&caId=25790&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
+* Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 
-#### 1 👎 - Con
+#### 25 👎 - Con
 
 #### 0 ❓ - Other

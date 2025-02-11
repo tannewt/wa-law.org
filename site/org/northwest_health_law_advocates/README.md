@@ -22,6 +22,9 @@
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 
+### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
+* 👍💵 Emily Brice
+
 ### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
 * 👍💵 Emily Brice
 

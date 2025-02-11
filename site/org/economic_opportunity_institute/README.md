@@ -19,6 +19,9 @@
 
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍1  
 
+### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
+* 👍 Sam Hatzenbeler
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  

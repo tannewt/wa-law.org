@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201722)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201722)
 
 ## Meetings
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163343&caId=25632&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163343&caId=25632&tId=4)
 
-#### 10 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Angela Nemeth - Tri-Tech Skills Center
 * Ethan Wodehouse - Tri-Tech Skills Center
@@ -25,6 +26,7 @@ Testifying:
 * Paul Randall - Tri-Tech Skills Center
 * John Axtell
 * Lynette Brower - Washington State Skills Center Association
+* Katelyn Kean - Northwest Maritime
 
 #### 0 👎 - Con
 

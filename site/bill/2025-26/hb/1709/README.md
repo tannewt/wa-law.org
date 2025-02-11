@@ -8,16 +8,11 @@
 
 ## Meetings
 ### Mon 02/10 01:30 PM - Education (ED): HB 1709 Adrenal insufficiency care
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163275&caId=25581&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163275&caId=25581&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163275&caId=25581&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163275&caId=25581&tId=4)
-
-#### 207 👍 - Pro
+#### 216 👍 - Pro
 Testifying:
 * Mark Harper
 * Kathryn Mueller
+* Laura Carmichael - [Issaquah School District](/org/issaquah_school_district/)
 
 #### 0 👎 - Con
 

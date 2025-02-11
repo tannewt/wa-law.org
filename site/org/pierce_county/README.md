@@ -4,16 +4,24 @@
 ### [HB 1054](/bill/2025-26/hb/1054/) - County ferry contracts 👍1  
 * 👍💵 Michael Shaw
 
+### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
+
 ### [HB 1098](/bill/2025-26/hb/1098/) - County local roads 👍1  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
 ### [HB 1218](/bill/2025-26/hb/1218/) - Concerning persons referred for competency evaluation and restoration services.  👎1 
 
+### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
+
 ### [HB 1582](/bill/2025-26/hb/1582/) - Concerning child care centers operated in existing buildings. 👍2  
 * 👍 Tricia Bennon
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
+
+### [HB 1650](/bill/2025-26/hb/1650/) - Airport projects/local REET 👍1  
+
+### [HB 1654](/bill/2025-26/hb/1654/) - International fire code  👎1 
 
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
@@ -24,11 +32,13 @@
 
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 
-## [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
+### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
+
+## [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍1  
 
 ## 2023-24
 
-### [SB 5591](/bill/2023-24/sb/5591/) - Affordable housing/sales tax 👍1  
+### [SB 5655](/bill/2023-24/sb/5655/) - Child care centers/buildings 👍1  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍4  
 

@@ -8,7 +8,9 @@
 
 ## Meetings
 ### Mon 02/10 10:30 AM - Labor & Commerce (LC): SB 5399 Liquor licenses
-#### 2 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Sean DeWitz
 
 #### 4 👎 - Con
 

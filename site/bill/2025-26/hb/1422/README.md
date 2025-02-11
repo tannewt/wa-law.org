@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32710&aId=163176&caId=25610&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32710&aId=163176&caId=25610&tId=4)
 
-#### 20 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 5 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Michael VanWinkle - Executive Director, MED-Project Washington
+* Michael VanWinkle - MED-Project WA LLC
+* Ann Bailey - Inmar Rx Solutions, Inc.
 
 #### 0 ❓ - Other
 

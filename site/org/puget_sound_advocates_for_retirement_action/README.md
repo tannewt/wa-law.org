@@ -14,6 +14,8 @@
 ### [HB 1754](/bill/2025-26/hb/1754/) - Medicare suppl./guaranteed 👍2  
 * 👍 Robby Stern
 
+### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards 👍1  
+
 ### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍1  
 
 ### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  

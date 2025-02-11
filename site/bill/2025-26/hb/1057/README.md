@@ -13,16 +13,13 @@
 
 ## Meetings
 ### Mon 02/10 04:00 PM - Appropriations (APP): SHB 1057 Access to federal funds
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32772&aId=163308&caId=25533&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32772&aId=163308&caId=25533&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32772&aId=163308&caId=25533&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32772&aId=163308&caId=25533&tId=4)
-
-#### 14 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Stephanie Button - Historic Downtown Kennewick Partnership
 * Darrin Raines - Greater Grays Harbor Inc.
+* 💵Jake Mayson - Greater Spokane Incorporated
+* 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Cassie Hammond - Port of Benton
 
 #### 2 👎 - Con
 

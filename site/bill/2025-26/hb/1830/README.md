@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163662&caId=25587&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163662&caId=25587&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Ash Carlsen
+* 💵Ashley Sutton - HopSkipDrive
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Tyler Muench - Office of Superintendent of Public Instruction
 
 #### 0 ❓ - Other

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/29 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1621 Housing court commissioners

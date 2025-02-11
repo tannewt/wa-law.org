@@ -7,24 +7,21 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201772)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201772)
 
 ## Meetings
 ### Mon 02/10 04:00 PM - Transportation (TR): HB 1772 Shared streets
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32707&aId=163322&caId=25658&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32707&aId=163322&caId=25658&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32707&aId=163322&caId=25658&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32707&aId=163322&caId=25658&tId=4)
-
-#### 65 👍 - Pro
+#### 124 👍 - Pro
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Venu Nemani - [City of Seattle](/org/city_of_seattle/)
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 153 👎 - Con
+#### 180 👎 - Con
 Testifying:
 * Atina Holan
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jeff DeVere - Washington Trucking Associations

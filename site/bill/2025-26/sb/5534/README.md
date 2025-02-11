@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Mon 02/10 10:30 AM - Law & Justice (LAW): SB 5534 Spring blade knives
-#### 86 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * Jeff Pack - Me
 * Mike Vellekamp - V Nives

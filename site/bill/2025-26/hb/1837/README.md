@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Mon 02/10 04:00 PM - Transportation (TR): HB 1837 Intercity passenger rail
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32707&aId=163524&caId=25662&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32707&aId=163524&caId=25662&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32707&aId=163524&caId=25662&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32707&aId=163524&caId=25662&tId=4)
-
-#### 610 👍 - Pro
+#### 1032 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * Alan Borning - Climate Rail Alliance
@@ -33,8 +27,11 @@ Testifying:
 * Tim Gould - Sierra Club of Washington
 * Meghan Anderson - Kittitas Climate Action
 * Tawna Hubbard - Phone Banking
+* 💵Mike Elliott - No
 * Trevor Reed - Transportation Reform
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Johan Hellman - BNSF Railway

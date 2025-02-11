@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32758&aId=163221&caId=25672&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32758&aId=163221&caId=25672&tId=4)
 
-#### 301 👍 - Pro
+#### 335 👍 - Pro
+Testifying:
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 
-#### 7 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * John Axtell
+* Tammie Perreault - Department of Defense
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Adam Diersing - The Council of State Governments

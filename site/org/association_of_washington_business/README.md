@@ -177,7 +177,8 @@
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 * 👍💵 Peter Godlewski
 
-### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries  👎1 
+### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries  👎2 
+* 👎💵 Peter Godlewski
 
 ### [HB 1564](/bill/2025-26/hb/1564/) - Child care assist./B&O tax   ❓1
 
@@ -188,6 +189,9 @@
 ### [HB 1576](/bill/2025-26/hb/1576/) - Concerning the designation of historic landmarks by cities. 👍1  
 
 ### [HB 1582](/bill/2025-26/hb/1582/) - Concerning child care centers operated in existing buildings. 👍1  
+
+### [HB 1598](/bill/2025-26/hb/1598/) - Community solar  👎1 
+* 👎💵 Peter Godlewski
 
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎1 
 
@@ -205,7 +209,8 @@
 
 ### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment  👎1 
 
-### [HB 1656](/bill/2025-26/hb/1656/) - Wildfire costs/securitizing 👍1  
+### [HB 1656](/bill/2025-26/hb/1656/) - Wildfire costs/securitizing 👍2  
+* 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
 ### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy  👎1 
@@ -226,6 +231,9 @@
 
 ### [HB 1739](/bill/2025-26/hb/1739/) - Self-service checkout  👎1 
 
+### [HB 1756](/bill/2025-26/hb/1756/) - Lead in cookware 👍1  
+* 👍💵 Peter Godlewski
+
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
 * 👎💵 Lindsey Hueer
 
@@ -238,11 +246,19 @@
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement  👎1 
 * 👎💵 Lindsey Hueer
 
+### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval 👍1  
+* 👍💵 Emily Wittman
+
 ### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation  👎1 
 
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
 
+### [HB 1804](/bill/2025-26/hb/1804/) - Community solar projects 👍1  
+* 👍💵 Peter Godlewski
+
 ### [HB 1822](/bill/2025-26/hb/1822/) - Establishing a driver work zone and first responder safety course requirement. 👍1  
+
+### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev.  👎1 
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET  👎1 
 
@@ -287,7 +303,7 @@
 
 ### [SB 5118](/bill/2025-26/sb/5118/) - Updating the requirements for the clinical experience license for international medical graduates. 👍1  
 
-### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act. 👍1  
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎 Max Martin
@@ -379,6 +395,8 @@
 
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
 
+### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint  👎1 
+
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities  👎1 
 * 👎💵 Morgan Irwin
 
@@ -429,6 +447,9 @@
 
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎1 
 * 👎💵 Lindsey Hueer
+
+### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
+* 👍💵 Peter Godlewski
 
 ### [SB 5644](/bill/2025-26/sb/5644/) - Gift card criminal conduct 👍1  
 

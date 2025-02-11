@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201777)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201777)
 * [House Republicans](/org/house_republicans/) - [Stronger Economy | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/stronger-economy/#:~:text=House%20Bill%201777)
 * [House Republicans](/org/house_republicans/) - [Stronger Economy | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/stronger-economy/#:~:text=House%20Bill%201777)
@@ -19,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32775&aId=163331&caId=25645&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32775&aId=163331&caId=25645&tId=4)
 
-#### 199 👍 - Pro
+#### 335 👍 - Pro
 Testifying:
 * Nathan Turner - Alpha and Omega Electric
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
@@ -27,9 +28,26 @@ Testifying:
 * Kyle Johnson - 4J Electric Inc.
 * John Axtell
 * Teresa Ray Bumatay - Lummi TERO
+* Michael Ankney - Inland NW AGC Apprenticeship Program(s)
+* Tom Bajema - Andgar Corporation
+* Nick Massie - Rotschy Inc.  SWCA
+* Anthony Hernandez - BRANDSAFWAY, LLC
+* Keely Friesen
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* Joel Bouchey - Inland Northwest AGC
+* Cary Clemenson - Cary Clemenson
+* Hans Frederickson - Frederickson Electric
+* Jerry VanderWood - AGC and WA Construction Industry Council (WCIC)
+* Paul Briganti - ABC of Western Washington
 
-#### 664 👎 - Con
+#### 1522 👎 - Con
 Testifying:
 * Kaley Henneman
+* Peter Butler - [National Electrical Contractors Association](/org/national_electrical_contractors_association/)
+* 💵Michael Transue - Mechanical Contractors Association of Western Washington
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* 💵Heather Kurtenbach - Washington State Building & Construction Trades Council
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* 💵Matthew Hepner - [Certified Electrical Workers of Washington](/org/certified_electrical_workers_of_washington/)
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other

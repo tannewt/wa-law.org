@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/10/2025 [The Center Square](/org/the_center_square/) - [Bill seeks to clarify WA law regarding women's sports in schools | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_e626a3dc-e7df-11ef-be8f-4f4b4d0773b6.html#:~:text=House%20Bill%201699)
+
 ## Meetings

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1819/</link>
 		<description>Updates about HB 1819</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 19:05:49 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Feb 2025 04:04:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -27,7 +27,22 @@
 			<description>News article "The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 07 Feb 2025 19:05:49 GMT</pubDate>
 			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201819</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 07 Feb 2025 19:05:49 GMT</pubDate>
+			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201819</guid>
+		</item>
+		<item>
+			<title>👍💵Nicolas Garcia - WPUDA</title>
+			<description>Nicolas Garcia signed up to testify Pro. They are signed up to represent WPUDA. They are a registered lobbyist.</description>
+			<pubDate>Mon, 10 Feb 2025 04:04:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nicolas/Garcia/2025-02-10 04:04:48</guid>
 		</item>
 	</channel>
 </rss>

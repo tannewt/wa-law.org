@@ -1,7 +1,9 @@
 # City of Bellevue
 ## 2025-26
 
-### [HB 1075](/bill/2025-26/hb/1075/) - Affordable housing financing 👍1  
+### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct  👎1 
+
+### [HB 1075](/bill/2025-26/hb/1075/) - Affordable housing financing 👍2  
 
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓1
 
@@ -15,7 +17,7 @@
 
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential   ❓1
 
-### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓1
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓2
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element   ❓1
 
@@ -44,7 +46,7 @@
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
 
-### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act.   ❓1
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓1
 
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects   ❓1
 
@@ -63,6 +65,8 @@
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍1  
 
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 

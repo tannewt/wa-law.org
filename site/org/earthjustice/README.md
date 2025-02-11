@@ -9,6 +9,8 @@
 
 ### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
 
+### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍1  
+
 ### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment 👍1  
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  

@@ -18,14 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163738&caId=25755&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163738&caId=25755&tId=4)
 
-#### 117 👍 - Pro
+#### 201 👍 - Pro
 Testifying:
 * John Axtell
 * Robert Maxwell - Superintendent  Bob Maxwell Pullman Public Schools
 * Juston Pollestad - Pullman Public Schools
 * Jim Kowalkowski - Rural Education Center
 
-#### 271 👎 - Con
+#### 432 👎 - Con
 
 #### 0 ❓ - Other
 

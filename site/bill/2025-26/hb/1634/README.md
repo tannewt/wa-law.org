@@ -7,17 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201634)
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201634)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201634)
 
 ## Meetings
 ### Mon 02/10 01:30 PM - Education (ED): HB 1634 Behavioral health/schools
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163273&caId=25579&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163273&caId=25579&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163273&caId=25579&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32769&aId=163273&caId=25579&tId=4)
-
-#### 118 👍 - Pro
+#### 218 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - AESD Network
 * John Axtell
@@ -28,8 +24,9 @@ Testifying:
 * Erica Limon-Trefielo - Communities in Schools Washington
 * Eric Bruns
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
+* Adam Davis - Health Commons Project
 
-#### 1276 👎 - Con
+#### 1369 👎 - Con
 Testifying:
 * Kathleen Wedemeyer - Citizens Commission on Human Rights
 * Les Baldik - Les's Local Honey

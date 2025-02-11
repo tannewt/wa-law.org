@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/11/2025 [Washington State Standard](/org/washington_state_standard/) - [WA senator sparks fury with description of 40-year-old law limiting parental rights • Washington State Standard](https://washingtonstatestandard.com/2025/02/10/wa-senator-sparks-fury-with-description-of-40-year-old-law-limiting-parental-rights/#:~:text=Senate%20Bill%205181)
+* 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](http://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=Senate%20Bill%205181)
 * 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=Senate%20Bill%205181)
 * 02/07/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Lynden School Board pushes back on bills that 'threaten' parental rights | Cascadia Daily News](https://www.cascadiadaily.com/2025/feb/07/lynden-school-board-pushes-back-on-bills-that-threaten-parental-rights/#:~:text=Senate%20Bill%205181,)
 * 02/07/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: K-12 learning loss leaving our kids behind - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-k-12-learning-loss-leaving-kids-behind/#:~:text=Senate%20Bill%205181,)

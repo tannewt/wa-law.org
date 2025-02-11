@@ -18,7 +18,7 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
-### [HB 1248](/bill/2025-26/hb/1248/) - Improving the effectiveness of juvenile justice programs by providing ongoing evaluations and clarifying juvenile diversion practices. 👍1  
+### [HB 1248](/bill/2025-26/hb/1248/) - Juvenile justice programs 👍1  
 * 👍💵 Roxana Gomez
 
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
@@ -44,6 +44,8 @@
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
+### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
+
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
@@ -68,7 +70,7 @@
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
 * 👍💵 Roxana Gomez
 
-### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
+### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍2  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
@@ -82,11 +84,11 @@
 
 ### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍1  
 
-### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍2  
+### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍3  
 * 👍 Alex Narvaez
 * 👍💵 Roxana Gomez
 
-### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
+### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍2  
 * 👍 Annie Chung
 
 ### [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS 👍1  

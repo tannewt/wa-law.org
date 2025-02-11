@@ -17,10 +17,35 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32792&aId=163708&caId=25763&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32792&aId=163708&caId=25763&tId=4)
 
-#### 413 👍 - Pro
+#### 727 👍 - Pro
 Testifying:
+* Cynthia Benion - SEIU Healthcare 1199NW
+* Heather Rosewarne - Washington State Nurses Association
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Brynn Freal - Washington CAN
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Jordan Middleton - SEIU Healthcare 1199NW
+* 💵Dustin Lambro - UFCW 3000
+* 💵John Traynor - [Washington State Labor Council](/org/washington_state_labor_council/)
 * Jane Beyer - Office of the Insurance Commissioner
+* 💵Matthew Lang - National Organization for Women - WA
+* Brynn Freal - [Washington Community Action Network](/org/washington_community_action_network/)
+* John Godfrey - [Washington Community Action Network](/org/washington_community_action_network/)
 
-#### 299 👎 - Con
+#### 738 👎 - Con
+Testifying:
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
+* Theresa Schrempp
+* 💵Katherine Mahoney - LeadingAge WA
+* 💵Sean Graham - Washington State Medical Association
+* Cathy Bambrick - [Astria Health](/org/astria_health/)
+* 💵Lisa Thatcher - Washington State Hospital Association
+* Mike Glenn - Jefferson Health Care
+* 💵Zosia Stanley - Washington State Hospital Association
+* Andrew Jones - [Confluence Health](/org/confluence_health/)
+* David Hargreaves - MultiCare Yakima Memorial Hospital
+* 💵Vicki Christophersen - Washington Independent Physician Practice Association
+* 💵Kevin Schilling - Washington State Dental Association
+* Kate White Tudor - Rayus Radiology
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

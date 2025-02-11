@@ -6,13 +6,16 @@
 ### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use  👎1 
 * 👎💵 Brad Tower
 
-## [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎1 
+### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎1 
 * 👎💵 Brad Tower
+
+## [SB 5109](/bill/2025-26/sb/5109/) - Concerning the mortgage lending fraud prosecution account.   ❓1
+* ❓💵 Brad Tower
 
 ## 2023-24
 
-### [SB 5070](/bill/2023-24/sb/5070/) - Interchange fees on tips  👎1 
-* 👎💵 Brad Tower
+### [SB 5109](/bill/2023-24/sb/5109/) - Concerning the mortgage lending fraud prosecution account.   ❓1
+* ❓💵 Brad Tower
 
 ### [HB 1388](/bill/2023-24/hb/1388/) - Residential rent practices  👎2 
 * 👎💵 Brad Tower

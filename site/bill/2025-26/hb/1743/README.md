@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32793&aId=163687&caId=25551&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32793&aId=163687&caId=25551&tId=4)
 
-#### 9 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Brad Banks - Washington State Association of Counties (WSAC)
+* Gaelon Spradley - Valley View Health Center
 
-#### 0 👎 - Con
+#### 288 👎 - Con
 
 #### 0 ❓ - Other

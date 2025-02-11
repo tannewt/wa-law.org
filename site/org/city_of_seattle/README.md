@@ -15,6 +15,8 @@
 
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
 
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍1  
+
 ### [HB 1208](/bill/2025-26/hb/1208/) - Salmon recovery projects 👍1  
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
@@ -31,6 +33,10 @@
 
 ### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections 👍1  
 
+### [HB 1356](/bill/2025-26/hb/1356/) - K-12 funding 👍1  
+
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
+
 ### [HB 1388](/bill/2025-26/hb/1388/) - Mobile market programs 👍1  
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
@@ -46,6 +52,8 @@
 
 ### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
 
+### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍1  
+
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
 
 ### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍1  
@@ -57,6 +65,8 @@
 ### [HB 1556](/bill/2025-26/hb/1556/) - HS completers/CTC tuition 👍1  
 
 ### [HB 1587](/bill/2025-26/hb/1587/) - Encouraging local government partner promise scholarship programs within the opportunity scholarship program. 👍1  
+
+### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
@@ -95,9 +105,15 @@
 
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍1  
 
-### [SB 5148](/bill/2025-26/sb/5148/) - Ensuring compliance with the housing element requirements of the growth management act.   ❓1
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓1
+
+### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
+
+### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍1  
 
 ### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
+
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 
 ### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
 

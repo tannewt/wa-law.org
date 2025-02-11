@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201414)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201414)
 
 ## Meetings
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163278&caId=25584&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163278&caId=25584&tId=4)
 
-#### 75 👍 - Pro
+#### 119 👍 - Pro
 Testifying:
 * Ethan Kuruvilla - EquiFinancials
 * Yash Kothari - EquiFinancials
@@ -27,6 +28,7 @@ Testifying:
 * Nathen Allington - Tri-Tech Skills Center
 * Paul Randall - Tri-Tech Skills Center
 * Lynette Brower - Washington State Skills Center Association
+* Katelyn Kean - Northwest Maritime
 
 #### 0 👎 - Con
 

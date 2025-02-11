@@ -42,6 +42,8 @@
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth 👍1  
 * 👍 Kurt Ellison
 
+### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
+
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 * 👍💵 Leah Missik
 

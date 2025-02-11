@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32761&aId=163237&caId=25574&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32761&aId=163237&caId=25574&tId=4)
 
-#### 126 👍 - Pro
+#### 137 👍 - Pro
 Testifying:
 * Becky Bisbee
 * Malik flint - Atworkwa
@@ -23,7 +23,8 @@ Testifying:
 * 💵Aaron Dickson - [Community Employment Alliance](/org/community_employment_alliance/)
 * John Lemus
 * Cathy Murahashi - The Arc of Washington
+* Nancy Slotnick - Parent
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 
 #### 1 ❓ - Other

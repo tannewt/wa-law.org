@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32710&aId=163179&caId=25613&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32710&aId=163179&caId=25613&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* MD, Darrin Trask
+* Benjamin Shah - Olympia Orthopaedic Associates
+* Gregory Byrd - Olympia Orthopaedic Associates
+* Mackenzie Brewer - Olympia Orthopaedic Associates
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Lisa Thatcher - Washington State Hospital Association
 
 #### 0 ❓ - Other

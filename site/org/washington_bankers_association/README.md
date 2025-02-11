@@ -10,6 +10,9 @@
 ### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy  👎1 
 * 👎 Glen Simecek
 
+### [HB 1732](/bill/2025-26/hb/1732/) - Home buying by entities   ❓1
+* ❓ Glen Simecek
+
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎2 
 * 👎 Glen Simecek
 

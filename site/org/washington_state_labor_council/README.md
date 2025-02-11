@@ -4,6 +4,12 @@
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
 * 👍 Cherika Carter
 
+### [HB 1843](/bill/2025-26/hb/1843/) - Students/unemployment ins. 👍1  
+* 👍💵 Christoph Mair
+
+### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
+* 👍💵 John Traynor
+
 ## [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
 * 👍💵 Christoph Mair
 

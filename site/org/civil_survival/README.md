@@ -29,7 +29,10 @@
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍3  
 * 👍 Cassia Hershenow
 
-### [HB 1747](/bill/2025-26/hb/1747/) - Job applicants and employees 👍2  
+### [HB 1747](/bill/2025-26/hb/1747/) - Job applicants and employees 👍3  
+* 👍💵 Prachi Dave
+
+### [HB 1815](/bill/2025-26/hb/1815/) - Prison riot offenses 👍1  
 
 ### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍3  
 * 👍💵 Kelly Olson

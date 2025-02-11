@@ -1,11 +1,15 @@
 # Port of Seattle
 ## 2025-26
 
+### [HB 1043](/bill/2025-26/hb/1043/) - Commute trip reduction 👍1  
+
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍2  
 
 ### [HB 1058](/bill/2025-26/hb/1058/) - Freight railroad infra. 👍1  
 
 ### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services 👍1  
+
+### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍1  
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
 
@@ -15,6 +19,8 @@
 * ❓ John Flanagan
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
+
+### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
 
@@ -38,6 +44,8 @@
 
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth  👎1 
 * 👎 John Flanagan
+
+### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
 
 ### [HB 1837](/bill/2025-26/hb/1837/) - Intercity passenger rail 👍1  
 

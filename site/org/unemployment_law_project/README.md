@@ -6,8 +6,12 @@
 ### [HB 1682](/bill/2025-26/hb/1682/) - Unemployment ins./part-time 👍1  
 * 👍 Anne Paxton
 
-### [HB 1843](/bill/2025-26/hb/1843/) - Students/unemployment ins. 👍1  
+### [HB 1843](/bill/2025-26/hb/1843/) - Students/unemployment ins. 👍2  
 * 👍 Anne Paxton
+* 👍 Anne Paxton
+
+### [SB 5540](/bill/2025-26/sb/5540/) - Students/unemployment ins. 👍1  
+* 👍 Eric Gonzalez Alfaro
 
 ## [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
 

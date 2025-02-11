@@ -14,17 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32761&aId=163238&caId=25575&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32761&aId=163238&caId=25575&tId=4)
 
-#### 14 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Jim Theofelis - NorthStar Advocates
 * 💵Casey Trupin - Raikes Foundation
 * Angela Cruze - Lived Expert
 * Kim Justice - Partners for Our Children
 * 💵Karen Pillar - TeamChild
+* Sabrina Johnson - [Cocoon House](/org/cocoon_house/)
 * 💵Samuel Martin - Washington Coalition for Homeless Youth Advocacy
 
-#### 2 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Josh Eaton - WFSE Member
 
 #### 0 ❓ - Other

@@ -14,6 +14,11 @@
 
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
 
+### [HB 1698](/bill/2025-26/hb/1698/) - Liquor permits & licensing 👍1  
+
+### [HB 1719](/bill/2025-26/hb/1719/) - Liquor licensee events 👍1  
+* 👍 Josh McDonald
+
 ### [SB 5054](/bill/2025-26/sb/5054/) - Winery tax exemption   ❓1
 * ❓ Josh McDonald
 

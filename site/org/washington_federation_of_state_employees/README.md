@@ -62,10 +62,25 @@
 * 👍 Kati Durkin
 * 👍 Kati Durkin
 
+### [HB 1668](/bill/2025-26/hb/1668/) - Community custody 👍1  
+
+### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use 👍1  
+
+### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards 👍1  
+* 👍 David Carney
+
 ### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval  👎1 
+
+### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍1  
+
+### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
+
+### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
 
 ### [HB 1822](/bill/2025-26/hb/1822/) - Establishing a driver work zone and first responder safety course requirement. 👍1  
 * 👍 Kati Durkin
+
+### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎1 
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
@@ -73,7 +88,7 @@
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
-### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍2  
+### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍3  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
 * 👍💵 Nicole Gomez
@@ -98,15 +113,22 @@
 
 ### [SB 5459](/bill/2025-26/sb/5459/) - Call center retention 👍1  
 
+### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
+
 ### [SB 5525](/bill/2025-26/sb/5525/) - Layoffs 👍1  
 
-### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
+### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍2  
+* 👍 David Carney
 
-## [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
+### [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
+
+### [SB 5620](/bill/2025-26/sb/5620/) - Foster care/rights of child 👍1  
+
+## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍1  
 
 ## 2023-24
 
-### [SB 5600](/bill/2023-24/sb/5600/) - TNCs/large-scale events 👍1  
+### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemption amount 👍1  
 
 ### [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
 
