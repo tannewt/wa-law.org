@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163679&caId=25609&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163679&caId=25609&tId=4)
 
-#### 89 👍 - Pro
+#### 195 👍 - Pro
 Testifying:
 * Nancy DeVaux
 * Paul Schissler - Madrona Community Development spc
@@ -23,7 +23,18 @@ Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Lisa Byers - OPAL Community Land Trust
 * Amanda Lynn
+* Arjan Singh
+* Joseph Joshy
+* Yusuf Bodiat - Crossfire
+* Arjan Singh
+* Joseph Joshy
+* Yusuf Bodiat
+* Sarah Dickmeyer - Plymouth Housing
 
-#### 103 👎 - Con
+#### 128 👎 - Con
+Testifying:
+* Matthew Huang
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Penny Sweet - Council Member,  City of Kirkland

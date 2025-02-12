@@ -14,16 +14,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32724&aId=163504&caId=25566&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32724&aId=163504&caId=25566&tId=4)
 
-#### 11 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Jeff Butler - Collision Consulting of Washington
 * Justin Lewis - Washington Independent Collision Repair Association
 * Vladislav Yerin
 * Pat LePley - Washington State Association for Justice
 * LoraJo Hatch-Thorp
+* hiyder lateef
+* David Forte - Office of the Insurance Commissioner
+* Bradley Vagt
+* Justin Morgan - JBM LAW
+* Kevin House
+* Roger Thomason
+* Jeremiah Gitchel - Bratch Autobody & Repair Inc.
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Vladislav Yerin
+* KENTON BRINE - NW Insurance Council
+* Kris Tefft - [American Property Casualty Insurance Association](/org/american_property_casualty_insurance_association/)
+* 💵Brandon Vick - National Association of Mutual Insurance Companies (NAMIC)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Roger Thomason

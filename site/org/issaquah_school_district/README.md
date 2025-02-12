@@ -42,6 +42,9 @@
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍3  
 * 👍 Heather Tow-Yick
 
+### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍1  
+* 👍 Jason Morse
+
 ## [SB 5593](/bill/2025-26/sb/5593/) - School levies & local effort 👍1  
 * 👍 Martin Turney
 

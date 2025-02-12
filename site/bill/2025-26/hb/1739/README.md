@@ -13,18 +13,16 @@
 
 ## Meetings
 ### Wed 02/12 08:00 AM - Labor & Workplace Standards (LAWS): HB 1739 Self-service checkout
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163344&caId=25633&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163344&caId=25633&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163344&caId=25633&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163344&caId=25633&tId=4)
+#### 172 👍 - Pro
+Testifying:
+* Amy Daley Angell
+* James Reed
+* Joe Mizrahi - UFCW 3000
 
-#### 144 👍 - Pro
-
-#### 532 👎 - Con
+#### 732 👎 - Con
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * ROSE GUNDERSEN
 * 💵Brandon Houskeeper - NW Grocery Retail Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

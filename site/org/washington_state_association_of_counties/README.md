@@ -13,7 +13,7 @@
 ### [HB 1099](/bill/2025-26/hb/1099/) - Tenant assistance program  👎1 
 * 👎💵 Curtis Steinhauer
 
-### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor.   ❓1
+### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal   ❓1
 * ❓💵 Brad Banks
 
 ### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification  👎1 
@@ -102,6 +102,8 @@
 
 ### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍2  
 
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  
+
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
 * 👎💵 Paul Jewell
 
@@ -121,6 +123,9 @@
 ### [HB 1625](/bill/2025-26/hb/1625/) - Back country search & rescue  👎1 
 * 👎💵 Brad Banks
 
+### [HB 1695](/bill/2025-26/hb/1695/) - Unincorporated villages/GMA 👍1  
+* 👍💵 Curtis Steinhauer
+
 ### [HB 1700](/bill/2025-26/hb/1700/) - Comprehensive plan updates 👍1  
 
 ### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎1 
@@ -131,6 +136,13 @@
 
 ### [HB 1818](/bill/2025-26/hb/1818/) - Administration of plats   ❓1
 * ❓💵 Curtis Steinhauer
+
+### [HB 1840](/bill/2025-26/hb/1840/) - Middle housing 👍1  
+* 👍 BRIAN ENSLOW
+
+### [HB 1854](/bill/2025-26/hb/1854/) - Rural areas/subdivision 👍1  
+
+### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 
 ### [HB 1899](/bill/2025-26/hb/1899/) - Homelessness point-in-time 👍1  
 * 👍💵 Curtis Steinhauer
@@ -233,6 +245,9 @@
 
 ### [SB 5660](/bill/2025-26/sb/5660/) - Water & sewage system access 👍2  
 * 👍💵 Kelsey Hulse
+
+### [SB 5679](/bill/2025-26/sb/5679/) - Multifamily tax exemption 👍1  
+* 👍 BRIAN ENSLOW
 
 ## [SB 5684](/bill/2025-26/sb/5684/) - Electioneering/auditors 👍1  
 

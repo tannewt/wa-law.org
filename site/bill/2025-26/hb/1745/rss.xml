@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1745/</link>
 		<description>Updates about HB 1745</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 07:22:40 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Feb 2025 12:12:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -59,6 +59,22 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Michael/Shaw/2025-02-10 07:22:40</guid>
+		</item>
+		<item>
+			<title>👍Sharon Hanek - Dept. of Enterprise Services</title>
+			<description>Sharon Hanek signed up to testify Pro.</description>
+			<pubDate>Tue, 11 Feb 2025 11:45:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sharon/Hanek/2025-02-11 11:45:31</guid>
+		</item>
+		<item>
+			<title>👍Sharon Damoff - Dept. of Enterprise Services</title>
+			<description>Sharon Damoff signed up to testify Pro.</description>
+			<pubDate>Tue, 11 Feb 2025 12:12:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sharon/Damoff/2025-02-11 12:12:09</guid>
 		</item>
 	</channel>
 </rss>

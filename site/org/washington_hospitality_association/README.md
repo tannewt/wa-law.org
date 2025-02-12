@@ -61,6 +61,9 @@
 ### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees  👎1 
 * 👎💵 Julia Gorton
 
+### [HB 1636](/bill/2025-26/hb/1636/) - Wine & spirit sales limits 👍1  
+* 👍 Sean DeWitz
+
 ### [HB 1644](/bill/2025-26/hb/1644/) - Working minors  👎1 
 
 ### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy  👎1 
@@ -69,6 +72,9 @@
 ### [HB 1684](/bill/2025-26/hb/1684/) - Water recreation facilities  👎2 
 * 👎💵 Samantha Louderback
 * 👎💵 Samantha Louderback
+
+### [HB 1714](/bill/2025-26/hb/1714/) - Small business risk pooling 👍1  
+* 👍💵 Julia Gorton
 
 ### [HB 1756](/bill/2025-26/hb/1756/) - Lead in cookware 👍1  
 

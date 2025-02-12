@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163105&caId=25605&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163105&caId=25605&tId=4)
 
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Carl Hicks - Tacoma Narrows Airport Advisory Commision (Commision Chair)
 * Robyn Denson - Pierce County Council
 * Kelsey Parke - Peninsula School District 401
+* Alexander Denny - Testifying on behalf for first responders use of the airport.
 
 #### 1 👎 - Con
 

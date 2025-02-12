@@ -5,10 +5,14 @@
 
 ### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍1  
 
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  
+
 ### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
 
 ### [HB 1825](/bill/2025-26/hb/1825/) - Grizzly bear management 👍2  
 * 👍 Jasmine Minbashian
+
+### [HB 1854](/bill/2025-26/hb/1854/) - Rural areas/subdivision 👍1  
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 

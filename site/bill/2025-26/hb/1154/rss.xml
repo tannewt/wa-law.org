@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1154/</link>
 		<description>Updates about HB 1154</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 12:46:33 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 10:59:56 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -152,6 +152,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Travis/Dutton/2025-02-10 12:46:33</guid>
+		</item>
+		<item>
+			<title>👍Nancy Lust - Friends of Rocky Top</title>
+			<description>Nancy Lust signed up to testify Pro. They are signed up to represent Friends of Rocky Top.</description>
+			<pubDate>Wed, 12 Feb 2025 08:48:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nancy/Lust/2025-02-12 08:48:46</guid>
+		</item>
+		<item>
+			<title>👍💵Scott Cave - Friends of Rocky Top</title>
+			<description>Scott Cave signed up to testify Pro. They are signed up to represent Friends of Rocky Top. They are a registered lobbyist.</description>
+			<pubDate>Wed, 12 Feb 2025 08:48:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Cave/2025-02-12 08:48:46</guid>
+		</item>
+		<item>
+			<title>👎Carolyn Moulton - Lautenbach Recycling</title>
+			<description>Carolyn Moulton signed up to testify Con. They are signed up to represent Lautenbach Recycling.</description>
+			<pubDate>Wed, 12 Feb 2025 10:59:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Carolyn/Moulton/2025-02-12 10:59:56</guid>
 		</item>
 	</channel>
 </rss>

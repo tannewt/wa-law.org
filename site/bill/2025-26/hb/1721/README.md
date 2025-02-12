@@ -19,12 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163515&caId=25570&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163515&caId=25570&tId=4)
 
-#### 153 👍 - Pro
+#### 395 👍 - Pro
 Testifying:
 * Dwight Bickel - consumers
 * 💵Paula Sardinas - WBBA
 
-#### 923 👎 - Con
+#### 1502 👎 - Con
 Testifying:
 * Curt Augustine - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 * 💵Jeffrey Perry - General Motors
@@ -37,7 +37,11 @@ Testifying:
 * Alyssa Silhi - Ford Motor Company
 * Craig Orlan
 * Matt Erwin - Mazda North American Operations
+* Stephen Kosowski - Kia America
+* TaraLyn Fray
+* TaraLyn Fray
 
-#### 4 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Noelani Derrickson - [Tesla](/org/tesla/)
+* Cody Thacker - Scout Motors

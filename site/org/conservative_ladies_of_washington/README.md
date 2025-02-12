@@ -61,7 +61,7 @@
 
 ### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎2 
 
-### [HB 1817](/bill/2025-26/hb/1817/) - Schools/sexual assault  👎2 
+### [HB 1817](/bill/2025-26/hb/1817/) - Schools/sexual assault  👎3 
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success. 👍2  
 

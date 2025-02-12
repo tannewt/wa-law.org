@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1334/</link>
 		<description>Updates about HB 1334</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 06:41:40 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 01:28:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -546,6 +546,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Dane/Scarimbolo/2025-02-11 06:41:40</guid>
+		</item>
+		<item>
+			<title>House Democrats begin push to repeal Washington’s cap on property tax hikes • Washington State Standard</title>
+			<description>News article "House Democrats begin push to repeal Washington’s cap on property tax hikes • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Wed, 12 Feb 2025 01:28:09 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/02/11/house-democrats-begin-push-to-repeal-washingtons-cap-on-property-tax-hikes/#:~:text=House%20Bill%201334</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 02/11 04:00 PM - Environment & Energy (ENVI): HB 1756 Lead in cookware
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32756&aId=163212&caId=25596&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32756&aId=163212&caId=25596&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32756&aId=163212&caId=25596&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32756&aId=163212&caId=25596&tId=4)
-
 #### 10 👍 - Pro
 Testifying:
 * Charles Souhrada - North American Association of Food Equipment Manufacturers (NAFEM)
@@ -22,7 +16,7 @@ Testifying:
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Monica Ayers - King County, Hazardous Waste Management Program
 * 💵Nick Federici - Toxic Free Future

@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/11/2025 [Senate Democrats](/org/senate_democrats/) - [Working together to support students and their families - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/11/working-together-to-support-students-and-their-families/#:~:text=Senate%20Bill%205181)
+* 02/11/2025 [Senate Democrats](/org/senate_democrats/) - [Working together to support students and their families - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/02/11/working-together-to-support-students-and-their-families/#:~:text=Senate%20Bill%205181)
+* 02/11/2025 [The Center Square](/org/the_center_square/) - [WA senator insists controversial remarks on parents' rights taken out of context | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_086c03d6-e8c8-11ef-a124-93ba3339c796.html#:~:text=Senate%20Bill%205181)
 * 02/11/2025 [Washington State Standard](/org/washington_state_standard/) - [WA senator sparks fury with description of 40-year-old law limiting parental rights • Washington State Standard](https://washingtonstatestandard.com/2025/02/10/wa-senator-sparks-fury-with-description-of-40-year-old-law-limiting-parental-rights/#:~:text=Senate%20Bill%205181)
 * 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](http://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=Senate%20Bill%205181)
 * 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=Senate%20Bill%205181)

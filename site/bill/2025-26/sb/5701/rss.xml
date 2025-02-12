@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5701/</link>
 		<description>Updates about SB 5701</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 07:44:46 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Feb 2025 09:14:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -62,6 +62,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Moises/Marchan/2025-02-11 07:44:46</guid>
+		</item>
+		<item>
+			<title>👍Sergio Hernandez - flynn</title>
+			<description>Sergio Hernandez signed up to testify Pro.</description>
+			<pubDate>Tue, 11 Feb 2025 09:14:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sergio/Hernandez/2025-02-11 09:14:18</guid>
 		</item>
 	</channel>
 </rss>

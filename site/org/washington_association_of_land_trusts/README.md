@@ -8,14 +8,18 @@
 
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
 
+### [HB 1641](/bill/2025-26/hb/1641/) - Definition of timberland 👍1  
+
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
 * ❓ Vanessa Kritzer
 
-## [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
+### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
+
+## [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
 
 ## 2023-24
 
-### [SB 5491](/bill/2023-24/sb/5491/) - Prescribed fire claims 👍1  
+### [SB 5567](/bill/2023-24/sb/5567/) - Natural resources careers 👍1  
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  
 * 👍 Vanessa Kritzer

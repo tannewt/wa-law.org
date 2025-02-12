@@ -14,8 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32754&aId=163821&caId=25773&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32754&aId=163821&caId=25773&tId=4)
 
-#### 69 👍 - Pro
+#### 90 👍 - Pro
+Testifying:
+* Nichol braboy
+* Matthew Huang
+* Jiadong Gu
+* Jai Jaisimha - Transparency Coalition.ai
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Rose Feliciano - TechNet
+* Robert Singleton - Chamber of Progress
 
 #### 0 ❓ - Other

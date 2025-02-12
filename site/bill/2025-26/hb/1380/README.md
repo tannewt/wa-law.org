@@ -19,13 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=4)
 
-#### 853 👍 - Pro
+#### 1231 👍 - Pro
 Testifying:
 * Councilmember Lindsey Schromen-Wawrin
 * Sharyl Brown - Jewels Helping Hands
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
+* Cat Munsen - Real Change Homeless Empowerment Project
+* Jennifer Cortez
+* John Boyd
+* 💵Michele Thomas - Washington Low Income Housing Alliance
 
-#### 710 👎 - Con
+#### 1116 👎 - Con
 Testifying:
 * Amy Harris - Clark County Matters
 * Emilie Cameron - Downtown Spokane Partnership
@@ -41,8 +45,17 @@ Testifying:
 * Gavin Cooley - 2800 E Main Ave
 * Caroline Manger - Concerned citizen opposed to this bill
 * Conrad Cipoletti
+* Ruth Clemens - [City of Aberdeen](/org/city_of_aberdeen/)
+* Angela / Grady
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Valita Speranzi
+* Jonathan Bingle
+* Edwin "Larry" Andrews II - Andrews Mechanical, Inc.
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Fadi Assaf - [Northwest Justice Project](/org/northwest_justice_project/)
 
 ### Tue 01/21 04:00 PM - Housing (HOUS): HB 1380 Public property regulations
 #### 606 👍 - Pro

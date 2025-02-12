@@ -8,17 +8,15 @@
 
 ## Meetings
 ### Wed 02/12 10:30 AM - Early Learning & K-12 Education (EDU): SB 5655 Child care centers/buildings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32759&aId=163491&caId=25675&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32759&aId=163491&caId=25675&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32759&aId=163491&caId=25675&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32759&aId=163491&caId=25675&tId=4)
-
-#### 9 👍 - Pro
+#### 119 👍 - Pro
 Testifying:
 * Ken Rice - Pierce County Fire Prevention Bureau
 * KIMBERLY SHAW - Key Peninsula Preschool
+* Maria Tobin - South Sound Military and Communities Partnership
+* Kate Landon
+* Tricia Bennon - [Pierce County](/org/pierce_county/)
+* Christine Luna - Key peninsula preschool
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

@@ -7,7 +7,7 @@
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
-### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor. 👍1  
+### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal 👍1  
 
 ### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍4  
 * 👍💵 Rachael Seevers

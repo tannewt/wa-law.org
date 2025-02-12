@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1721/</link>
 		<description>Updates about HB 1721</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 04:30:21 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 12:10:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -154,6 +154,38 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Paula/Sardinas/2025-02-11 04:30:21</guid>
+		</item>
+		<item>
+			<title>👎Stephen Kosowski - Kia America</title>
+			<description>Stephen Kosowski signed up to testify Con. They are signed up to represent Kia America.</description>
+			<pubDate>Wed, 12 Feb 2025 08:31:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Stephen/Kosowski/2025-02-12 08:31:20</guid>
+		</item>
+		<item>
+			<title>❓Cody Thacker - Scout Motors</title>
+			<description>Cody Thacker signed up to testify Other. They are signed up to represent Scout Motors.</description>
+			<pubDate>Wed, 12 Feb 2025 10:33:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Cody/Thacker/2025-02-12 10:33:09</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - Kia America</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Wed, 12 Feb 2025 12:07:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-02-12 12:07:55</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - Kia America</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Wed, 12 Feb 2025 12:10:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-02-12 12:10:39</guid>
 		</item>
 	</channel>
 </rss>

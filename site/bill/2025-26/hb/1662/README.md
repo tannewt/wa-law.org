@@ -12,12 +12,6 @@
 
 ## Meetings
 ### Tue 02/11 04:00 PM - Education (ED): HB 1662 Education agencies/OSPI
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163279&caId=25585&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163279&caId=25585&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163279&caId=25585&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163279&caId=25585&tId=4)
-
 #### 17 👍 - Pro
 Testifying:
 * John Axtell

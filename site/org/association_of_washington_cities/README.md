@@ -22,12 +22,14 @@
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates  👎1 
 * 👎💵 Carl Schroeder
 
-### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓1
+### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓3
+* ❓💵 Carl Schroeder
+* ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 
 ### [HB 1112](/bill/2025-26/hb/1112/) - Removing the city residency requirement for judges pro tempore in municipalities with a population of more than 400,000 inhabitants. 👍1  
 
-### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor.  👎2 
+### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal  👎2 
 * 👎💵 Candice Bock
 
 ### [HB 1126](/bill/2025-26/hb/1126/) - Standardizing notification provisions relating to local tax rate changes and shared taxes administered by the department. 👍1  
@@ -47,8 +49,9 @@
 ### [HB 1183](/bill/2025-26/hb/1183/) - Building codes   ❓1
 * ❓💵 Carl Schroeder
 
-### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓1
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters  👎1 ❓1
 * ❓💵 Carl Schroeder
+* 👎💵 Carl Schroeder
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Candice Bock
@@ -94,7 +97,9 @@
 * 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
-### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎3 
+* 👎💵 Carl Schroeder
+* 👎💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc.   ❓1
@@ -188,6 +193,9 @@
 ### [HB 1823](/bill/2025-26/hb/1823/) - Transp. improvement board 👍1  
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
+* 👍💵 Carl Schroeder
+
+### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍💵 Carl Schroeder
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
@@ -297,13 +305,16 @@
 ### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use   ❓1
 * ❓💵 Carl Schroeder
 
-## [SB 5614](/bill/2025-26/sb/5614/) - Impact fees   ❓1
+### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees   ❓1
 * ❓💵 Carl Schroeder
+
+## [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits  👎1 
+* 👎💵 Carl Schroeder
 
 ## 2023-24
 
-### [SB 5614](/bill/2023-24/sb/5614/) - Impact fees   ❓1
-* ❓💵 Carl Schroeder
+### [SB 5615](/bill/2023-24/sb/5615/) - Residential housing permits  👎1 
+* 👎💵 Carl Schroeder
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 02/11 10:30 AM - Local Government (LG): HB 1818 Administration of plats
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32726&aId=163555&caId=25641&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32726&aId=163555&caId=25641&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32726&aId=163555&caId=25641&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32726&aId=163555&caId=25641&tId=4)
-
 #### 12 👍 - Pro
 Testifying:
 * Mary Lou Pauly - Mayor, City of Issaquah
@@ -22,8 +16,9 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Brooke Eidem - American Planning Association, WA Chapter
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Carl Schroeder - Association of WA Cities

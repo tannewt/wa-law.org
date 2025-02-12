@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163896&caId=25796&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163896&caId=25796&tId=4)
 
-#### 6 👍 - Pro
+#### 20 👍 - Pro
+Testifying:
+* 💵Mark Streuli - WA Potato and Onion Assoc -WA Assoc of Wheat Growers - WA Cattlemen Assoc
+* Ben Buchholz - NW Agricultural Cooperative Council
+* 💵David Ducharme - Washington State Tree Fruit Association
+* Jay Gordon - Washington State Dairy Federation
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Breanne Elsey - WA Farm Bureau

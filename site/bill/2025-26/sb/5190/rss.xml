@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5190/</link>
 		<description>Updates about SB 5190</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 08:07:18 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Feb 2025 09:48:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -153,6 +153,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jeff/Baerwald/2025-02-10 08:07:18</guid>
+		</item>
+		<item>
+			<title>👍Suzie Hanson - Washington Federation of Independent Schools</title>
+			<description>Suzie Hanson signed up to testify Pro. They are signed up to represent Washington Federation of Independent Schools.</description>
+			<pubDate>Tue, 11 Feb 2025 06:30:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Suzie/Hanson/2025-02-11 06:30:09</guid>
+		</item>
+		<item>
+			<title>❓Megan Larkin - Climate Solutions</title>
+			<description>Megan Larkin signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/climate_solutions/"&gt;Climate Solutions&lt;/a&gt;.</description>
+			<pubDate>Tue, 11 Feb 2025 09:35:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Megan/Larkin/2025-02-11 09:35:43</guid>
+		</item>
+		<item>
+			<title>👎💵Peter Godlewski - Association of Washington Business</title>
+			<description>Peter Godlewski signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_business/"&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 11 Feb 2025 09:48:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Peter/Godlewski/2025-02-11 09:48:14</guid>
 		</item>
 	</channel>
 </rss>

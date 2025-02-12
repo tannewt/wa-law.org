@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/29 10:30 AM - Early Learning & K-12 Education (EDU): SB 5240 Anaphylaxis med. in schools

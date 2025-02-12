@@ -18,13 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32746&aId=163175&caId=25547&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32746&aId=163175&caId=25547&tId=4)
 
-#### 11 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Leah Choi - Board Director, Lake Washington School District
 * Jon Holmen - Superintendent, Lake Washington School District
 * Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * John Axtell
 

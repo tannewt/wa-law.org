@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163872&caId=25800&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163872&caId=25800&tId=4)
 
-#### 1 👍 - Pro
+#### 6 👍 - Pro
 
 #### 1 👎 - Con
 Testifying:
 * Kelly Kramer - Washington State Board of Health
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Kelly Kramer - Washington State Board of Health

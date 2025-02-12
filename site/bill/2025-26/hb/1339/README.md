@@ -17,14 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163844&caId=25802&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163844&caId=25802&tId=4)
 
-#### 259 👍 - Pro
+#### 363 👍 - Pro
 Testifying:
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* Ron Davis
 
-#### 887 👎 - Con
+#### 1248 👎 - Con
 Testifying:
 * Laurie Layne
 * Tim Eyman - Initiative Activist
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

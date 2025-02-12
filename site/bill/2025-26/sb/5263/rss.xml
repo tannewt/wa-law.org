@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5263/</link>
 		<description>Updates about SB 5263</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 08:30:35 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Feb 2025 18:03:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -422,6 +422,14 @@
 			<guid isPermaLink="false">testifier/Ramona/Hattendorf/2025-02-06 09:55:42</guid>
 		</item>
 		<item>
+			<title>👍Brent Jones - Superintendent, Seattle Public Schools</title>
+			<description>Brent Jones signed up to testify Pro. They are signed up to represent Superintendent, Seattle Public Schools.</description>
+			<pubDate>Thu, 06 Feb 2025 10:57:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brent/Jones/2025-02-06 10:57:45</guid>
+		</item>
+		<item>
 			<title>👍Dr. Brent Jones - Superintendent, Seattle Public Schools</title>
 			<description>Dr. Brent Jones signed up to testify Pro. They are signed up to represent Superintendent, Seattle Public Schools.</description>
 			<pubDate>Thu, 06 Feb 2025 10:57:45 GMT</pubDate>
@@ -513,6 +521,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Dr. Kelly/Aramaki/2025-02-08 01:43:44</guid>
+		</item>
+		<item>
+			<title>👍Kelly Aramaki - Superintendent, Bellevue School District</title>
+			<description>Kelly Aramaki signed up to testify Pro. They are signed up to represent Superintendent, Bellevue School District.</description>
+			<pubDate>Sat, 08 Feb 2025 01:43:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kelly/Aramaki/2025-02-08 01:43:44</guid>
 		</item>
 		<item>
 			<title>👍Samantha Fogg - Seattle Council PTSA Co-President</title>
@@ -641,6 +657,45 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Elizabeth/Sadak/2025-02-11 08:30:35</guid>
+		</item>
+		<item>
+			<title>👍Catherine Young - Tacoma special education Pta</title>
+			<description>Catherine Young signed up to testify Pro. They are signed up to represent Tacoma special education Pta.</description>
+			<pubDate>Tue, 11 Feb 2025 10:07:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Catherine/Young/2025-02-11 10:07:13</guid>
+		</item>
+		<item>
+			<title>👍Sadaf Bhutta - Tacoma special education Pta</title>
+			<description>Sadaf Bhutta signed up to testify Pro.</description>
+			<pubDate>Tue, 11 Feb 2025 10:38:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sadaf/Bhutta/2025-02-11 10:38:30</guid>
+		</item>
+		<item>
+			<title>👍John Milici - Tacoma special education Pta</title>
+			<description>John Milici signed up to testify Pro.</description>
+			<pubDate>Tue, 11 Feb 2025 11:02:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/John/Milici/2025-02-11 11:02:20</guid>
+		</item>
+		<item>
+			<title>👎Eric Fisk - Tacoma special education Pta</title>
+			<description>Eric Fisk signed up to testify Con.</description>
+			<pubDate>Tue, 11 Feb 2025 11:58:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Eric/Fisk/2025-02-11 11:58:11</guid>
+		</item>
+		<item>
+			<title>Progress and priorities this session - Sen. Deborah Krishnadasan</title>
+			<description>News article "Progress and priorities this session - Sen. Deborah Krishnadasan" from Senate Democrats.</description>
+			<pubDate>Tue, 11 Feb 2025 18:03:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/Krishnadasan/2025/02/11/progress-and-priorities-this-session/#:~:text=5263</guid>
 		</item>
 	</channel>
 </rss>

@@ -22,6 +22,8 @@
 
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax 👍1  
 
+### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍1  
+
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
 ### [HB 1449](/bill/2025-26/hb/1449/) - Home cultivation of cannabis  👎1 

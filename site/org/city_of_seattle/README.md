@@ -79,6 +79,8 @@
 ### [HB 1657](/bill/2025-26/hb/1657/) - Washington 13 free guarantee 👍1  
 * 👍 Brittany Ota-Malloy
 
+### [HB 1714](/bill/2025-26/hb/1714/) - Small business risk pooling 👍1  
+
 ### [HB 1733](/bill/2025-26/hb/1733/) - Agency displacement expenses 👍1  
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
@@ -135,6 +137,8 @@
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
+### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍1  
+
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
@@ -144,11 +148,15 @@
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 * 👍 Venu Nemani
 
-## [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
+### [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
+
+### [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits   ❓1
+
+## [SB 5634](/bill/2025-26/sb/5634/) - Community solar projects 👍1  
 
 ## 2023-24
 
-### [SB 5600](/bill/2023-24/sb/5600/) - TNCs/large-scale events 👍1  
+### [SB 5634](/bill/2023-24/sb/5634/) - Community solar projects 👍1  
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

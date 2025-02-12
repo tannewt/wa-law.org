@@ -1,13 +1,15 @@
 # City of Bellevue
 ## 2025-26
 
+### [HB 1042](/bill/2025-26/hb/1042/) - County treasurer costs  👎1 
+
 ### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct  👎1 
 
 ### [HB 1075](/bill/2025-26/hb/1075/) - Affordable housing financing 👍2  
 
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓1
 
-### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor.  👎1 
+### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal  👎1 
 
 ### [HB 1138](/bill/2025-26/hb/1138/) - Improving public safety by implementing evidence-based interview practices that increase the reliability of statements collected during criminal investigations.   ❓1
 
@@ -39,6 +41,10 @@
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 
 ### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
+
+### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
+
+### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
@@ -74,11 +80,15 @@
 
 ### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍1  
 
-## [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
+
+### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
+
+## [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits   ❓1
 
 ## 2023-24
 
-### [SB 5595](/bill/2023-24/sb/5595/) - Shared streets 👍1  
+### [SB 5615](/bill/2023-24/sb/5615/) - Residential housing permits   ❓1
 
 ### [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
 

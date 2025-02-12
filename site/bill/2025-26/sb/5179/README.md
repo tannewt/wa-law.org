@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/11/2025 [Senate Democrats](/org/senate_democrats/) - [Working together to support students and their families - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/11/working-together-to-support-students-and-their-families/#:~:text=Senate%20Bill%205179)
+* 02/11/2025 [Senate Democrats](/org/senate_democrats/) - [Working together to support students and their families - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/02/11/working-together-to-support-students-and-their-families/#:~:text=Senate%20Bill%205179)
 * 02/07/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Lynden School Board pushes back on bills that 'threaten' parental rights | Cascadia Daily News](https://www.cascadiadaily.com/2025/feb/07/lynden-school-board-pushes-back-on-bills-that-threaten-parental-rights/#:~:text=A%20bill)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 Legislative Session Update! - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/24/2025-legislative-session-update/#:~:text=SB%205179)
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205179)

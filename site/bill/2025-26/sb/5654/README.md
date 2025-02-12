@@ -14,15 +14,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32786&aId=163492&caId=25676&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32786&aId=163492&caId=25676&tId=4)
 
-#### 95 👍 - Pro
+#### 213 👍 - Pro
 Testifying:
+* Cindy Taylor - Crisis Prevention Institute - RREI
+* David Mendez - True Measure Collaborative - RREI
+* Patrick Mulick - Special Ed Director - RREI
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
 * Elizabeth Sadak - Home
+* Max Kauffman - TeamChild
+* Dominick Ventresco - Pullman School District 267
+* Gisella Gonzalez - student
 
-#### 4 👎 - Con
+#### 8 👎 - Con
 Testifying:
 * Jeffrey Kalles - Lilac Learning Center
 
-#### 41 ❓ - Other
+#### 43 ❓ - Other
 Testifying:
 * Tawni Barlow - Medical Lake School District
+* 💵Roz Thompson - [Association of Washington School Principals](/org/association_of_washington_school_principals/)

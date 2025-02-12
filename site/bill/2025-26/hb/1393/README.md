@@ -14,16 +14,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32771&aId=163281&caId=25588&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32771&aId=163281&caId=25588&tId=4)
 
-#### 8 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Vasyl Tarapov - Lake Washington High School
 * Yuval Yedidsion - Lake Washington High School
 * Anna Tiberi
 * Sakshi Verma
 * Vojin Predovic
+* Lauren Mendez - [Washington School Counselor Association](/org/washington_school_counselor_association/)
 
-#### 1 👎 - Con
+#### 625 👎 - Con
 Testifying:
 * John Axtell
+* TaraLyn Fray
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

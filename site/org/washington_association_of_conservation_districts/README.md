@@ -3,13 +3,14 @@
 
 ### [HB 1309](/bill/2025-26/hb/1309/) - Burrowing shrimp 👍1  
 
-## [HB 1488](/bill/2025-26/hb/1488/) - Conservation district limits 👍1  
+### [HB 1488](/bill/2025-26/hb/1488/) - Conservation district limits 👍1  
 * 👍💵 Brynn Brady
+
+## [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
 
 ## 2023-24
 
-### [HB 1488](/bill/2023-24/hb/1488/) - Conservation district limits 👍1  
-* 👍💵 Brynn Brady
+### [SB 5567](/bill/2023-24/sb/5567/) - Natural resources careers 👍1  
 
 ### [HB 1138](/bill/2023-24/hb/1138/) - Drought preparedness 👍1  
 

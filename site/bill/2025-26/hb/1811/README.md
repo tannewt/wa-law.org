@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163198&caId=25622&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163198&caId=25622&tId=4)
 
-#### 19 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Brook Buettner - Regional Crisis Response Agency
 * Kimberly Hendrickson - BHCore Center at UW

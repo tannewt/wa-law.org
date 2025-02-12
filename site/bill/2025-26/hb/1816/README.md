@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Tue 02/11 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1816 Civilian crisis resp. teams
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32781&aId=163706&caId=25766&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32781&aId=163706&caId=25766&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32781&aId=163706&caId=25766&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32781&aId=163706&caId=25766&tId=4)
-
-#### 814 👍 - Pro
+#### 817 👍 - Pro
 Testifying:
 * Erin Goodman - SODO Business Improvement Area
 * Amy Barden - Chief, Seattle CARE Department
@@ -24,7 +18,7 @@ Testifying:
 * Kevin Hall - Spokane Police Department
 * Jennifer Clayton - Seattle Dispatchers' Guild
 
-#### 708 👎 - Con
+#### 711 👎 - Con
 Testifying:
 * 💵Brenda Wiest - Teamsters 117
 * Joe Kendo

@@ -18,13 +18,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163317&caId=25537&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163317&caId=25537&tId=4)
 
-#### 1051 👍 - Pro
+#### 1507 👍 - Pro
 Testifying:
+* Sarah Dickmeyer - Plymouth Housing
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Joe McDermott - State Relations Director | King County
 
-#### 406 👎 - Con
+#### 677 👎 - Con
 Testifying:
 * Phil Altmeyer
+* Monica Spence
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Robert & Brenda Seemuth
 
 #### 6 ❓ - Other
 

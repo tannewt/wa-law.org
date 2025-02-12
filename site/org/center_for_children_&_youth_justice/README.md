@@ -12,6 +12,8 @@
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
 
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
+
 ### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍1  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
@@ -25,6 +27,9 @@
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
 
 ### [HB 1817](/bill/2025-26/hb/1817/) - Schools/sexual assault 👍1  
+
+### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation   ❓1
+* ❓ Nicholas Oakley
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 

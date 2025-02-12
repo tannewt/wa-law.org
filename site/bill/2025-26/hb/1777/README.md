@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Tue 02/11 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1777 Apprenticeship approval
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32775&aId=163331&caId=25645&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32775&aId=163331&caId=25645&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32775&aId=163331&caId=25645&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32775&aId=163331&caId=25645&tId=4)
-
-#### 419 👍 - Pro
+#### 450 👍 - Pro
 Testifying:
 * Nathan Turner - Alpha and Omega Electric
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
@@ -41,8 +35,11 @@ Testifying:
 * Paul Briganti - ABC of Western Washington
 * David Peachey
 * Michael Ankney - Inland NW AGC Apprenticeship Program(s)
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Moises Marchan
+* Terrence Adams - Vice Chairman-Lummi Indian Business Council (Lummi Nation)
 
-#### 1774 👎 - Con
+#### 1889 👎 - Con
 Testifying:
 * Kaley Henneman
 * Peter Butler - [National Electrical Contractors Association](/org/national_electrical_contractors_association/)
@@ -55,5 +52,15 @@ Testifying:
 * Renee Michener - Laborers' Health and Safety - LIUNA
 * Nadeem Ismail - N I Painting and Construction Co
 * 💵Amanda Jahshan - Sheet Metal Workers Locals 66 & 55
+* Jason Rodriguez
+* Sergio Hernandez
+* 💵Neil Hartman - Washington State Association Of UA Plumbers & Pipefitters
+* 💵Ray Dumas - OPCMIA Local 528
+* Marianna Hyke - [Western States Regional Council of Carpenters](/org/western_states_regional_council_of_carpenters/)
+* Brandon Jordan - Northwest Laborers Employers Training Trust Fund
+* 💵Mallorie Davies - Washington and Northern Idaho District Council of Laborers
+* Levi Loomer
+* Justin Bourgault - [Sheet Metal Workers Local 66](/org/sheet_metal_workers_local_66/)
+* Andrew Vander Stoep - IBEW 191
 
-#### 9 ❓ - Other
+#### 10 ❓ - Other

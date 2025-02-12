@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 02/11 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1647 Surface mine reclamation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32738&aId=163766&caId=25790&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32738&aId=163766&caId=25790&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32738&aId=163766&caId=25790&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32738&aId=163766&caId=25790&tId=4)
-
 #### 2 👍 - Pro
 Testifying:
 * Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)

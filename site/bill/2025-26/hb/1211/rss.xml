@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1211/</link>
 		<description>Updates about HB 1211</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 12:00:11 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -365,6 +365,13 @@
 			<pubDate>Mon, 10 Feb 2025 12:00:11 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/briefs/bill-to-make-clergy-report-child-abuse-advances-in-washington/#:~:text=House%20Bill%201211</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-11/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

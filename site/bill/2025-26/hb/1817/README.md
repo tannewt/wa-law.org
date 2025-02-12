@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32771&aId=163282&caId=25589&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32771&aId=163282&caId=25589&tId=4)
 
-#### 32 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Lilah Wakefield - LYAC
 * Apoorva Kancharla
@@ -27,10 +27,11 @@ Testifying:
 * Sarah Albertson - Office of Superintendent of Public Instruction (OSPI)
 * Elizabeth Sadak - Home
 
-#### 859 👎 - Con
+#### 1439 👎 - Con
 Testifying:
 * John Axtell
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Gabriel Jacobs
+* Amy Cannava - Washington State Association of School Psychologists

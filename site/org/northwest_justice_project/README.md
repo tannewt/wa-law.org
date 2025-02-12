@@ -4,8 +4,9 @@
 ### [HB 1240](/bill/2025-26/hb/1240/) - Vehicle impounds 👍1  
 * 👍 Karen Phillips
 
-### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  ❓1
 * 👍 Scott Crain
+* ❓ Fadi Assaf
 
 ### [HB 1530](/bill/2025-26/hb/1530/) - Reg. businesses/card fees  👎1 
 * 👎 Julia Kellison

@@ -26,6 +26,8 @@
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
 * 👍 Joey Hicklin
 
+### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval  👎1 
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
 ### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  
@@ -39,11 +41,17 @@
 
 ### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply 👍1  
 
-## [SB 5435](/bill/2025-26/sb/5435/) - Reorganizing and adding subchapter headings to public employees' collective bargaining statutes. 👍1  
+### [SB 5435](/bill/2025-26/sb/5435/) - Reorganizing and adding subchapter headings to public employees' collective bargaining statutes. 👍1  
+
+### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining 👍1  
+
+### [SB 5540](/bill/2025-26/sb/5540/) - Students/unemployment ins. 👍1  
+
+## [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
 
 ## 2023-24
 
-### [SB 5435](/bill/2023-24/sb/5435/) - Reorganizing and adding subchapter headings to public employees' collective bargaining statutes. 👍1  
+### [SB 5578](/bill/2023-24/sb/5578/) - Labor standards 👍1  
 
 ### [HB 1007](/bill/2023-24/hb/1007/) - Military service credit 👍1  
 

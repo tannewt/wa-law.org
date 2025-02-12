@@ -19,17 +19,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163623&caId=25540&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163623&caId=25540&tId=4)
 
-#### 232 👍 - Pro
+#### 344 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Justin Wood
+* Alex Harrington - NAIOP Washington State
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Bill Clarke - WA REALTORS
+* 💵Blake Baldwin - [Hayden Homes](/org/hayden_homes/)
 
-#### 12 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Salim Nice - Mayor, City Mercer Island
 
-#### 1 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Salina Lyons - [City of Covington](/org/city_of_covington/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Joren Clowers - Sno-King Water District Coalition
 
 ### Mon 01/13 01:30 PM - Housing (HOUS): HB 1096 Lot splitting
 #### 239 👍 - Pro

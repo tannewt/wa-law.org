@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 02/11 10:30 AM - Labor & Workplace Standards (LAWS): HB 1764 Labor standards
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163341&caId=25630&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163341&caId=25630&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163341&caId=25630&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163341&caId=25630&tId=4)
-
-#### 845 👍 - Pro
+#### 855 👍 - Pro
 Testifying:
 * Danielle Alvarado - [Fair Work Center](/org/fair_work_center/)
 * Daviyon Hinnant - Teamsters 117
@@ -32,7 +26,7 @@ Testifying:
 * Mathieu Chabaud - UAW 4121
 * Peter Nazzal - Catholic Community Services
 
-#### 1735 👎 - Con
+#### 1749 👎 - Con
 Testifying:
 * 💵Rose Gundersen - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
@@ -57,5 +51,6 @@ Testifying:
 * Charlotte Trevino
 * 💵Michael Gempler - [Washington Growers League](/org/washington_growers_league/)
 * Lilly Hayward - Seattle Metropolitan Chamber of Commerce
+* Michael Azzano - Azzano Farms, Inc.
 
 #### 17 ❓ - Other

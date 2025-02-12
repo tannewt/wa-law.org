@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1042/</link>
 		<description>Updates about HB 1042</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 05:41:13 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 09:31:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -62,12 +62,60 @@
 			<guid isPermaLink="false">testifier/Jennifer/Wallace/2025-02-10 10:54:49</guid>
 		</item>
 		<item>
+			<title>👍Alishia Topper - Clark County Treasurer</title>
+			<description>Alishia Topper signed up to testify Pro. They are signed up to represent Clark County Treasurer.</description>
+			<pubDate>Tue, 11 Feb 2025 01:11:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alishia/Topper/2025-02-11 01:11:17</guid>
+		</item>
+		<item>
+			<title>👍Jeff Gadman - Thurston County Treasurer &amp; President, WA Association of County Treasurers</title>
+			<description>Jeff Gadman signed up to testify Pro. They are signed up to represent Thurston County Treasurer &amp; President, WA Association of County Treasurers.</description>
+			<pubDate>Tue, 11 Feb 2025 01:11:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeff/Gadman/2025-02-11 01:11:17</guid>
+		</item>
+		<item>
+			<title>👍💵Jennifer Wallace - WA Association of County Officials</title>
+			<description>Jennifer Wallace signed up to testify Pro. They are signed up to represent WA Association of County Officials. They are a registered lobbyist.</description>
+			<pubDate>Tue, 11 Feb 2025 01:11:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jennifer/Wallace/2025-02-11 01:11:17</guid>
+		</item>
+		<item>
 			<title>👎Kristan Maurer - Clark County Fire District 6, Fire Chief</title>
 			<description>Kristan Maurer signed up to testify Con. They are signed up to represent Clark County Fire District 6, Fire Chief.</description>
 			<pubDate>Tue, 11 Feb 2025 05:41:13 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Kristan/Maurer/2025-02-11 05:41:13</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - Clark County Fire District 6, Fire Chief</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Tue, 11 Feb 2025 07:07:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-02-11 07:07:50</guid>
+		</item>
+		<item>
+			<title>👎David Ellingson - Washington Fire Commissioners Association, Kitsap County Fire Commissioners Associaton</title>
+			<description>David Ellingson signed up to testify Con. They are signed up to represent Washington Fire Commissioners Association, Kitsap County Fire Commissioners Associaton.</description>
+			<pubDate>Wed, 12 Feb 2025 06:41:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/David/Ellingson/2025-02-12 06:41:51</guid>
+		</item>
+		<item>
+			<title>👎💵Matthew Ellsworth - Association of Washington Public Hospital Districts</title>
+			<description>Matthew Ellsworth signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_public_hospital_districts/"&gt;Association of Washington Public Hospital Districts&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 12 Feb 2025 09:31:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Matthew/Ellsworth/2025-02-12 09:31:32</guid>
 		</item>
 	</channel>
 </rss>

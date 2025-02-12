@@ -14,13 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32745&aId=163853&caId=25781&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32745&aId=163853&caId=25781&tId=4)
 
-#### 20 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * Raelene Schifano - HOA United
 * Steve Horvath - HOA United
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Mitchell Drimmer - Axela Technologies
 

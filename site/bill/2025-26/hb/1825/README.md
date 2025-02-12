@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=4)
 
-#### 333 👍 - Pro
+#### 591 👍 - Pro
 Testifying:
 * Matthew Rudolf - As individual, but I am on the Regional Council for NPCA
 * Susan Kane-Ronning - Washington Sierra Club Wildlife Committee
@@ -49,8 +49,10 @@ Testifying:
 * Chris Morgan
 * Nancy Kuta
 
-#### 139 👎 - Con
+#### 307 👎 - Con
 Testifying:
 * Teagan Levine
+* Joe Kondelis - American Bear Foundation
+* TaraLyn Fray
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other

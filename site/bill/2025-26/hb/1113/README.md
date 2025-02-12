@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1113](/bill/2025-26/hb/1113/)
 
-# HB 1113 - Concerning accountability and access to services for individuals charged with a misdemeanor.
+# HB 1113 - Misdemeanor dismissal
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1113&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201113)

@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32711&aId=163194&caId=25618&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32711&aId=163194&caId=25618&tId=4)
 
-#### 4 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Kevin Wren - Washington #insulin4all
+* Dr. Gurpreet Rawat - Kaiser Permanente
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Bill Clarke - BIO (Biotechnology Innovation Organization)
 
 #### 0 ❓ - Other

@@ -10,13 +10,16 @@
 
 ### [HB 1249](/bill/2025-26/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission. 👍1  
 
-## [HB 1461](/bill/2025-26/hb/1461/) - Joint operating agencies 👍1  
+### [HB 1461](/bill/2025-26/hb/1461/) - Joint operating agencies 👍3  
 * 👍 Richard Shaff
+* 👍 Chris La Plante
+* 👍 David Jordan
+
+## [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
 ## 2023-24
 
-### [HB 1461](/bill/2023-24/hb/1461/) - Joint operating agencies 👍1  
-* 👍 Richard Shaff
+### [HB 1860](/bill/2023-24/hb/1860/) - Supply chain competitiveness 👍1  
 
 ### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  
 

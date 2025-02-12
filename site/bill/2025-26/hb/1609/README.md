@@ -18,6 +18,6 @@ Sign up to testify:
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

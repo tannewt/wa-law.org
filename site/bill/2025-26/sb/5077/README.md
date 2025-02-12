@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/12/2025 [Senate Democrats](/org/senate_democrats/) - [Valdez bill to expand voter registration services passes Senate - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/12/valdez-bill-to-expand-voter-registration-services-passes-senate/#:~:text=Senate%20Bill%205077)
 * 02/10/2025 [Senate Democrats](/org/senate_democrats/) - [Building momentum: Over a third of the way through session - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/10/building-momentum-over-a-third-of-the-way-through-session/#:~:text=SB%205077)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [Pushing for progress - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/01/24/pushing-for-progress/#:~:text=SB%205077)
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=Senate%20Bill%205077)

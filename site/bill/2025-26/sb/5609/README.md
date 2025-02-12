@@ -11,12 +11,6 @@
 
 ## Meetings
 ### Tue 02/11 01:30 PM - Environment, Energy & Technology (ENET): SB 5609 Cultural resources/land use
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32715&aId=163200&caId=25678&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32715&aId=163200&caId=25678&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32715&aId=163200&caId=25678&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32715&aId=163200&caId=25678&tId=4)
-
 #### 1 👍 - Pro
 Testifying:
 * Councilman Jeremy Takala - Yakama Nation

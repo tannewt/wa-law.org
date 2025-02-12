@@ -14,6 +14,11 @@
 ### [HB 1537](/bill/2025-26/hb/1537/) - Roadway safety account use 👍1  
 * 👍 Brody Coval
 
+### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍1  
+
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  
+* 👍 Pat Sullivan
+
 ### [HB 1628](/bill/2025-26/hb/1628/) - Fire service policy board   ❓1
 
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
@@ -24,7 +29,13 @@
 ### [HB 1647](/bill/2025-26/hb/1647/) - Surface mine reclamation 👍1  
 * 👍 Pat Sullivan
 
+### [HB 1758](/bill/2025-26/hb/1758/) - Aquatic land lease inflation 👍1  
+* 👍 Tom Gorman
+
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev.   ❓1
+* ❓ Erika Odem
+
+### [HB 1854](/bill/2025-26/hb/1854/) - Rural areas/subdivision   ❓1
 * ❓ Erika Odem
 
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  

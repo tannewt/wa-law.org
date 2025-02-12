@@ -21,6 +21,8 @@
 ### [HB 1248](/bill/2025-26/hb/1248/) - Juvenile justice programs 👍1  
 * 👍💵 Roxana Gomez
 
+### [HB 1252](/bill/2025-26/hb/1252/) - Pretrial release  👎1 
+
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
@@ -44,7 +46,14 @@
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
+### [HB 1815](/bill/2025-26/hb/1815/) - Prison riot offenses 👍1  
+* 👍 Alexandra Narvaez
+
+### [HB 1817](/bill/2025-26/hb/1817/) - Schools/sexual assault 👍1  
+
 ### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
+
+### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation  👎1 
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
@@ -88,19 +97,21 @@
 * 👍 Alex Narvaez
 * 👍💵 Roxana Gomez
 
-### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍2  
+### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍3  
 * 👍 Annie Chung
+* 👍💵 Roxana Gomez
 
 ### [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS 👍1  
 * 👍💵 Roxana Gomez
 
-## [SB 5620](/bill/2025-26/sb/5620/) - Foster care/rights of child 👍1  
+### [SB 5620](/bill/2025-26/sb/5620/) - Foster care/rights of child 👍1  
 * 👍💵 Roxana Gomez
+
+## [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
 
 ## 2023-24
 
-### [SB 5620](/bill/2023-24/sb/5620/) - Foster care/rights of child 👍1  
-* 👍💵 Roxana Gomez
+### [SB 5654](/bill/2023-24/sb/5654/) - Student restraint, isolation 👍1  
 
 ### [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
 * 👍 Erin Shea McCann

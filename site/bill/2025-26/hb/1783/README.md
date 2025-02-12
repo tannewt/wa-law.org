@@ -8,14 +8,10 @@
 
 ## Meetings
 ### Tue 02/11 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1783 Law enf. officers/colleges
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32775&aId=163332&caId=25646&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32775&aId=163332&caId=25646&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32775&aId=163332&caId=25646&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32775&aId=163332&caId=25646&tId=4)
+#### 64 👍 - Pro
+Testifying:
+* Kal Fuller
 
-#### 61 👍 - Pro
-
-#### 9 👎 - Con
+#### 10 👎 - Con
 
 #### 0 ❓ - Other

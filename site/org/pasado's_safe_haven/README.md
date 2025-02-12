@@ -5,7 +5,7 @@
 
 ### [HB 1078](/bill/2025-26/hb/1078/) - Pet insurance 👍1  
 
-### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor.   ❓2
+### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal   ❓2
 * ❓💵 Kirsten Gregory
 
 ### [HB 1149](/bill/2025-26/hb/1149/) - Cruelty to animals 👍2  

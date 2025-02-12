@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163321&caId=25542&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163321&caId=25542&tId=4)
 
-#### 164 👍 - Pro
+#### 198 👍 - Pro
 Testifying:
 * Reilly Dever
 
-#### 6 👎 - Con
+#### 13 👎 - Con
+Testifying:
+* Mike Ennis - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 0 ❓ - Other

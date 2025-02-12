@@ -1,13 +1,16 @@
 # Public Works Board
 ## 2025-26
 
-## [SB 5034](/bill/2025-26/sb/5034/) - System improvement team 👍1  
+### [SB 5034](/bill/2025-26/sb/5034/) - System improvement team 👍1  
 * 👍 Justin Clary
+
+## [SB 5671](/bill/2025-26/sb/5671/) - Broadband grant & loan prg.   ❓1
+* ❓💵 Marie Sullivan
 
 ## 2023-24
 
-### [SB 5034](/bill/2023-24/sb/5034/) - System improvement team 👍1  
-* 👍 Justin Clary
+### [SB 5671](/bill/2023-24/sb/5671/) - Broadband grant & loan prg.   ❓1
+* ❓💵 Marie Sullivan
 
 ### [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
 * 👍 Kathryn Gardow

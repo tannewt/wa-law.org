@@ -8,16 +8,25 @@
 
 ## Meetings
 ### Wed 02/12 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1897 Community safety/liability
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32793&aId=163733&caId=25764&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32793&aId=163733&caId=25764&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32793&aId=163733&caId=25764&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32793&aId=163733&caId=25764&tId=4)
-
-#### 4 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Everett Maroon - Blue Mountain Heart to Heart
+* Joseph Lachman - PDA
+* Fe LopezGaetke - Purpose Dignity Action (formerly Public Defender Association)
+* Chloe Gale - [Evergreen Treatment Services](/org/evergreen_treatment_services/)
+* Chloe Gale - [Evergreen Treatment Services](/org/evergreen_treatment_services/)
+* Fe LopezGaetke - Purpose. Dignity. Action.
+* 💵Kelly Olson - [Civil Survival](/org/civil_survival/)
+* Everett Maroon
+* Joseph Lachman - Purpose Dignity Action (PDA) Board of Directors
+* 💵Lisa Daugaard - Purpose Dignity Action (PDA)
+* SarahAnn Hamilton - The More We Love
+* 💵Mauricio Ayon - Pacific County Voices Uniting
+* Sarah Ann Harris Hamilton - The More We love
+* 💵Donna Christensen - Catholic Community Services
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Alexander Dietz - Washington State Association for Justice
 
 #### 0 ❓ - Other

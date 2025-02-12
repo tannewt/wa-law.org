@@ -26,6 +26,8 @@
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
+
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍3  
 * 👍 Cassia Hershenow
 
@@ -34,6 +36,12 @@
 * 👍💵 Kelly Olson
 
 ### [HB 1815](/bill/2025-26/hb/1815/) - Prison riot offenses 👍1  
+
+### [HB 1897](/bill/2025-26/hb/1897/) - Community safety/liability 👍2  
+* 👍💵 Kelly Olson
+
+### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
+* 👍 Laura Del Villar
 
 ### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍3  
 * 👍💵 Kelly Olson

@@ -7,11 +7,14 @@
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
 * 👍💵 Elizabeth Hendren
 
-### [HB 1591](/bill/2025-26/hb/1591/) - Providing remedies for defendant survivors of domestic violence, sexual assault, or human trafficking. 👍1  
+### [HB 1591](/bill/2025-26/hb/1591/) - Providing remedies for defendant survivors of domestic violence, sexual assault, or human trafficking. 👍2  
+* 👍💵 Elizabeth Hendren
 * 👍💵 Elizabeth Hendren
 
 ### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations 👍2  
 * 👍💵 Elizabeth Hendren
+
+### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
 

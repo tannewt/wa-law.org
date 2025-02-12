@@ -153,6 +153,8 @@
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program  👎1 
 * 👎💵 Peter Godlewski
 
+### [HB 1414](/bill/2025-26/hb/1414/) - CTE careers work group 👍1  
+
 ### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program  👎1 
 
 ### [HB 1430](/bill/2025-26/hb/1430/) - APRN & PA reimbursement  👎1 
@@ -223,10 +225,14 @@
 ### [HB 1684](/bill/2025-26/hb/1684/) - Water recreation facilities  👎1 
 * 👎💵 Morgan Irwin
 
+### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry  👎1 
+
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth  👎1 
 * 👎💵 Peter Godlewski
 
 ### [HB 1714](/bill/2025-26/hb/1714/) - Small business risk pooling 👍1  
+
+### [HB 1722](/bill/2025-26/hb/1722/) - Secondary career education 👍1  
 
 ### [HB 1732](/bill/2025-26/hb/1732/) - Home buying by entities  👎1 
 * 👎💵 Morgan Irwin
@@ -257,6 +263,9 @@
 
 ### [HB 1804](/bill/2025-26/hb/1804/) - Community solar projects 👍1  
 * 👍💵 Peter Godlewski
+
+### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity  👎1 
+* 👎💵 Peter Godlewski
 
 ### [HB 1822](/bill/2025-26/hb/1822/) - Establishing a driver work zone and first responder safety course requirement. 👍1  
 
@@ -315,6 +324,9 @@
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices  👎1 
 
+### [SB 5190](/bill/2025-26/sb/5190/) - School building energy perf.  👎1 
+* 👎💵 Peter Godlewski
+
 ### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  
 
 ### [SB 5205](/bill/2025-26/sb/5205/) - College grant award amounts 👍1  
@@ -327,7 +339,7 @@
 
 ### [SB 5218](/bill/2025-26/sb/5218/) - Modifying motor vehicle and driver licensing laws to align with federal definitions, making technical corrections, and streamlining requirements. 👍1  
 
-### [SB 5226](/bill/2025-26/sb/5226/) - Establishing funding for physician residency positions dedicated to international medical graduates. 👍1  
+### [SB 5226](/bill/2025-26/sb/5226/) - Physician res./international 👍1  
 
 ### [SB 5236](/bill/2025-26/sb/5236/) - Anesthetics/greenhouse gases 👍1  
 
@@ -400,6 +412,8 @@
 
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
 
+### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency  👎1 
+
 ### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint  👎1 
 
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities  👎1 
@@ -416,6 +430,9 @@
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍1  
+* 👍💵 Peter Godlewski
 
 ### [SB 5528](/bill/2025-26/sb/5528/) - Transp. electrification  👎1 
 
@@ -450,6 +467,10 @@
 
 ### [SB 5596](/bill/2025-26/sb/5596/) - Interstate teacher compact  👎1 
 
+### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees 👍1  
+
+### [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits 👍1  
+
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎1 
 * 👎💵 Lindsey Hueer
 
@@ -460,11 +481,15 @@
 
 ### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍1  
 
-## [SB 5660](/bill/2025-26/sb/5660/) - Water & sewage system access 👍1  
+### [SB 5660](/bill/2025-26/sb/5660/) - Water & sewage system access 👍1  
+
+## [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption 👍1  
+* 👍💵 Morgan Irwin
 
 ## 2023-24
 
-### [SB 5660](/bill/2023-24/sb/5660/) - Water & sewage system access 👍1  
+### [SB 5661](/bill/2023-24/sb/5661/) - Landlord-tenant/preemption 👍1  
+* 👍💵 Morgan Irwin
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

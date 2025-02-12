@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1725/</link>
 		<description>Updates about HB 1725</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 09 Feb 2025 08:26:47 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 08:47:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Kevin/Wren/2025-02-09 08:26:47</guid>
+		</item>
+		<item>
+			<title>👍Dr. Gurpreet Rawat - Kaiser Permanente</title>
+			<description>Dr. Gurpreet Rawat signed up to testify Pro. They are signed up to represent Kaiser Permanente.</description>
+			<pubDate>Tue, 11 Feb 2025 09:04:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dr. Gurpreet/Rawat/2025-02-11 09:04:18</guid>
+		</item>
+		<item>
+			<title>👍💵Jennifer Ziegler - Association of Washington Health Care Plans</title>
+			<description>Jennifer Ziegler signed up to testify Pro. They are signed up to represent Association of Washington Health Care Plans. They are a registered lobbyist.</description>
+			<pubDate>Tue, 11 Feb 2025 09:04:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jennifer/Ziegler/2025-02-11 09:04:18</guid>
+		</item>
+		<item>
+			<title>👎💵Bill Clarke - BIO (Biotechnology Innovation Organization)</title>
+			<description>Bill Clarke signed up to testify Con. They are signed up to represent BIO (Biotechnology Innovation Organization). They are a registered lobbyist.</description>
+			<pubDate>Wed, 12 Feb 2025 08:47:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bill/Clarke/2025-02-12 08:47:42</guid>
 		</item>
 	</channel>
 </rss>

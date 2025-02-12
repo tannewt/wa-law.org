@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32749&aId=163189&caId=25626&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32749&aId=163189&caId=25626&tId=4)
 
-#### 54 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * Scott Slater - Habitat for Humanity Seattle-King & Kittitas Counties
 * Lilly Hayward - Seattle Metropolitan Chamber of Commerce
 * Amanda Lynn
+* Kimberly Toskey - Homes and Hope Community Land Trust
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 1 ❓ - Other

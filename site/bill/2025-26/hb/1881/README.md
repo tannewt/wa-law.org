@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 02/11 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1881 Health care marketplace
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32792&aId=163708&caId=25763&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32792&aId=163708&caId=25763&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32792&aId=163708&caId=25763&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32792&aId=163708&caId=25763&tId=4)
-
-#### 832 👍 - Pro
+#### 841 👍 - Pro
 Testifying:
 * Cynthia Benion - SEIU Healthcare 1199NW
 * Heather Rosewarne - Washington State Nurses Association
@@ -33,8 +27,9 @@ Testifying:
 * Brynn Freal - [Washington Community Action Network](/org/washington_community_action_network/)
 * John Godfrey - [Washington Community Action Network](/org/washington_community_action_network/)
 * Nico Janssen - Office of the Insurance Commissioner
+* Cynthia Benion - SEIU Healthcare 1199NW
 
-#### 1475 👎 - Con
+#### 1492 👎 - Con
 Testifying:
 * Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * Theresa Schrempp
@@ -50,5 +45,6 @@ Testifying:
 * 💵Kevin Schilling - Washington State Dental Association
 * Kate White Tudor - Rayus Radiology
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
+* Roman Daniels-Brown - DaVita
 
 #### 1 ❓ - Other

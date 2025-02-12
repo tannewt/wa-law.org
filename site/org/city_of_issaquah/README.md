@@ -8,11 +8,11 @@
 
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects  👎1 
 
-## [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍1  
+## [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍2  
 
 ## 2023-24
 
-### [SB 5514](/bill/2023-24/sb/5514/) - Clean buildings standard 👍1  
+### [SB 5514](/bill/2023-24/sb/5514/) - Clean buildings standard 👍2  
 
 ### [HB 1042](/bill/2023-24/hb/1042/) - Use of existing buildings   ❓1
 

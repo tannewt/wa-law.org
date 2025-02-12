@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/12 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1563 Prescribed fire claims
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32739&aId=163141&caId=25527&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32739&aId=163141&caId=25527&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32739&aId=163141&caId=25527&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32739&aId=163141&caId=25527&tId=4)
-
-#### 225 👍 - Pro
+#### 281 👍 - Pro
 Testifying:
 * Chris Martin - WA Prescribed Fire Council
 * 💵Darcy Nonemacher - WA Conservation Action
@@ -23,8 +17,9 @@ Testifying:
 * Jay McLaughlin - Mt. Adams Resource Stewards
 * Ray Entz - Kalispel Tribe of Indians
 * Sara Clark - Shute, Mihaly & Weinberger
+* Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
 
-#### 363 👎 - Con
+#### 485 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

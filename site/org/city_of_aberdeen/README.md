@@ -4,6 +4,9 @@
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget  👎1 
 * 👎 Ruth Clemens
 
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
+* 👎 Ruth Clemens
+
 ## [SB 5195](/bill/2025-26/sb/5195/) - Capital budget  👎1 
 * 👎 Ruth Clemens
 

@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32764&aId=163813&caId=25808&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32764&aId=163813&caId=25808&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Serry Bauer
 * Laura Dahmer-White
+* Desiree Douglass - HeadStrong
+* Janet Novinger - Imaginal Network
 
 #### 0 👎 - Con
 

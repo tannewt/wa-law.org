@@ -15,11 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163320&caId=25541&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163320&caId=25541&tId=4)
 
-#### 57 👍 - Pro
+#### 197 👍 - Pro
 Testifying:
 * Wendy Wickersham
+* Nancy Lust - Friends of Rocky Top
+* 💵Scott Cave - Friends of Rocky Top
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Carolyn Moulton - Lautenbach Recycling
 
 #### 2 ❓ - Other
 Testifying:

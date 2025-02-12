@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/11/2025 [Senate Democrats](/org/senate_democrats/) - [Progress and priorities this session - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/02/11/progress-and-priorities-this-session/#:~:text=5186)
 * 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205186)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205186)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [Week Two Comes to a Close - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/01/24/week-two-comes-to-a-close/#:~:text=5186)

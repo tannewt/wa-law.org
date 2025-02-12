@@ -8,16 +8,16 @@
 
 ## Meetings
 ### Wed 02/12 08:00 AM - Labor & Workplace Standards (LAWS): HB 1821 Interested party/prev. wage
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163346&caId=25635&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163346&caId=25635&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163346&caId=25635&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163346&caId=25635&tId=4)
-
-#### 42 👍 - Pro
+#### 67 👍 - Pro
 Testifying:
+* Patrick Burns
+* Patricia McCarron - Carpenters/Contractors Cooperation Committee
 * Dawa Sherpa
+* Boris Gresely
 
-#### 2 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Jerry VanderWood - AGC of Washington
+* 💵Brandon Houskeeper - Southwest WA Contractors Assoc. / Associated Builders & Contractors - Western WA
 
 #### 0 ❓ - Other

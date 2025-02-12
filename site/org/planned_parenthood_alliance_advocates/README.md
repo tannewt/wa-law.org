@@ -54,6 +54,8 @@
 
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
 
+### [HB 1876](/bill/2025-26/hb/1876/) - Death with dignity act 👍1  
+
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍1  

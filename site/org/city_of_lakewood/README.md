@@ -9,9 +9,13 @@
 
 ### [HB 1183](/bill/2025-26/hb/1183/) - Building codes  👎1 
 
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters  👎1 
+
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
+
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
 

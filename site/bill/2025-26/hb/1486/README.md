@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32776&aId=163334&caId=25648&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32776&aId=163334&caId=25648&tId=4)
 
-#### 14 👍 - Pro
+#### 57 👍 - Pro
+Testifying:
+* Sean Behl - [Washington Student Association](/org/washington_student_association/)
+* Heba Qatrani - Washington Student Association, South Seattle College Student
+* Love Adu - Student Representative, California Community College Board of Governors
+* Sam Baneth - Student Chair of Legislative Affairs, North Seattle College
+* Daniel Ngoy - Associated Student Government of Bellevue College
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Arlen Harris - State Board for Community & Technical Colleges

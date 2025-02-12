@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 02/12/2025 [The Center Square](/org/the_center_square/) - [Bill would adjust eligibility, add loan forgiveness to housing discrimination remedy | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9e074162-e8eb-11ef-8315-531e743c69af.html#:~:text=House%20Bill%201474)
 * 07/03/2024 [The Center Square](/org/the_center_square/) - [New WA program aims to help first-time homebuyers who faced discrimination | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_776b679a-3978-11ef-b48b-576c01ca2b2b.html#:~:text=House%20Bill%201474)
 * 10/31/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [‘The Color of Law’: Housing Experts Talk New Book About Segregation Solution and Celebrate Fair Housing Law | South Seattle Emerald](https://southseattleemerald.com/2023/10/31/the-color-of-law-housing-experts-talk-new-book-about-segregation-solution-and-celebrate-fair-housing-law/#:~:text=House%20Bill%201474)
 * 08/01/2023 [The Center Square](/org/the_center_square/) - [Washington state looks to spend more than $1 billion to address homelessness | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5d63bec0-3095-11ee-b28a-cfc88910924b.html#:~:text=House%20Bill%201474)

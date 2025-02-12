@@ -17,11 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163576&caId=25695&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163576&caId=25695&tId=4)
 
-#### 32 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
+* Kadince Matteson - Cle Elum High School Prevention Club
+* Phillip Gardiner - African American Tobacco Control Leadership Council
 
-#### 73 👎 - Con
+#### 99 👎 - Con
 Testifying:
 * 💵Sara Stewart - Washington Smoke Free Association
 * Tom Eshleman - Doyles Sheehan
@@ -31,5 +33,13 @@ Testifying:
 * Chris Hudgins - National Hookah Community Association
 * Arthur Way - Equitable Consulting
 * Ben Buchholz - Vapor Technology Association
+* Sr., Elliot T. Boyce - Law Enforcement (Ret.)
+* Corey Pegues
+* 💵Crystal Leatherman
+* Shaun D’Sylva - WA Smoke Free
+* Robin Cheema - Canyon Market
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Lindsay Herendeen - Washington State Board of Health
+* Lindsey Stroud - Taxpayers Protection Alliance

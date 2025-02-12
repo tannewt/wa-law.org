@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/11/2025 [Senate Democrats](/org/senate_democrats/) - [Progress and priorities this session - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/02/11/progress-and-priorities-this-session/#:~:text=5187)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 5: Reproductive freedom, gender-based violence prevention and a ban on tobacco products - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/07/this-week-in-the-senate-week-5-reproductive-freedom-gender-based-violence-prevention-and-a-ban-on-tobacco-products/#:~:text=SB%205187)
 * 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205187)
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [The year of education funding - Sen. Lisa Wellman](https://senatedemocrats.wa.gov/wellman/2025/01/27/3072/#:~:text=a%20bill%20to%20address%20student%20transportation)
@@ -20,13 +21,7 @@
 
 ## Meetings
 ### Tue 02/11 04:00 PM - Ways & Means (WM): SB 5187 Student transportation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163637&caId=25744&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163637&caId=25744&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163637&caId=25744&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163637&caId=25744&tId=4)
-
-#### 2122 👍 - Pro
+#### 2696 👍 - Pro
 Testifying:
 * Flip Herndon - Capital Region Educational Service District 113, Superintendent
 * Ismael Vivanco - Northwest Educational Service District 189, Superintendent
@@ -44,10 +39,12 @@ Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Elizabeth Sadak - Home
 * 💵Melissa Johnson - Washington State Association of Head Start & ECEAP
+* John Milici
+* Catherine Young - Tacoma special education Pta
 
-#### 558 👎 - Con
+#### 593 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 
 ### Wed 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5187 Student transportation
 #### 2453 👍 - Pro

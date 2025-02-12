@@ -14,17 +14,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32763&aId=163807&caId=25806&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32763&aId=163807&caId=25806&tId=4)
 
-#### 18 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * Dr. Esther Matthews
 * Jessica Levin - Center for Civil Rights and Critical Justice
 * Anthony Powers
 * Jeremiah Bourgeois
+* AMANDA VAZQUEZ
+* Ruth Rivas
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Grete Schultz - TeamChild
+* 💵Arthur Longworth - TeamChild
+* Elisa Cozad - TeamChild
+* Liz Mustin - WA State Office of Public Defense
+* Alexandra Narvaez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 
-#### 3 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Jonathan Meyer - Lewis County Prosecutor
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission

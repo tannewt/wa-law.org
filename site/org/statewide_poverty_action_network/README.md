@@ -8,7 +8,7 @@
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  
 
-### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍1  
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍2  
 
 ### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍1  
 
@@ -26,7 +26,7 @@
 
 ### [HB 1318](/bill/2025-26/hb/1318/) - Children's diapers sales tax 👍1  
 
-### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍2  
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍2  
 
@@ -34,6 +34,8 @@
 
 ### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍2  
 * 👍💵 Lianna Kressin
+
+### [HB 1464](/bill/2025-26/hb/1464/) - Home equity sharing  👎1 
 
 ### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
 
@@ -45,6 +47,8 @@
 ### [HB 1535](/bill/2025-26/hb/1535/) - Dental insurance practices  👎1 
 
 ### [HB 1599](/bill/2025-26/hb/1599/) - Concerning consumer debt adjusters and debt resolution services providers.  👎1 
+
+### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 
@@ -73,7 +77,7 @@
 
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 
-### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍2  
+### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍3  
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters 👍1  
 
@@ -81,15 +85,15 @@
 
 ### [SB 5589](/bill/2025-26/sb/5589/) - Insurance & credit study 👍1  
 
-## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍3  
+### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍3  
 * 👍 Molly Gallagher
 * 👍 Molly Molly
+
+## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
 
 ## 2023-24
 
-### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemption amount 👍3  
-* 👍 Molly Gallagher
-* 👍 Molly Molly
+### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 

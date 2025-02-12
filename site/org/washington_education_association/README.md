@@ -142,6 +142,8 @@
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding   ❓1
 * ❓💵 Julie Salvi
 
+### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program 👍1  
+
 ### [HB 1398](/bill/2025-26/hb/1398/) - Adult family home arb. 👍1  
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
@@ -243,7 +245,14 @@
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation   ❓1
 * ❓ Jared Mason-Gere
 
+### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍1  
+
+### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
+
 ### [HB 1822](/bill/2025-26/hb/1822/) - Establishing a driver work zone and first responder safety course requirement. 👍1  
+
+### [HB 1827](/bill/2025-26/hb/1827/) - Concerning the effective delivery and administration of basic education services to justice-involved students. 👍1  
+* 👍💵 Simone Boe
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎10 
 * 👎💵 Nasue Nishida
@@ -290,7 +299,7 @@
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
-### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍1  
 * 👍 Jared Mason-Gere
 
 ### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans   ❓1
@@ -303,7 +312,7 @@
 
 ### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍1  
 
-### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
+### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍2  
 
 ### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
 
@@ -398,7 +407,7 @@
 ### [SB 5270](/bill/2025-26/sb/5270/) - Providing mentors to novice nurses in the beginning educator support team program.   ❓1
 * ❓💵 Nasue Nishida
 
-### [SB 5275](/bill/2025-26/sb/5275/) - Modifying funding and award levels for the passport to careers program and eligibility for the Washington college grant. 👍1  
+### [SB 5275](/bill/2025-26/sb/5275/) - Passport to careers program 👍1  
 
 ### [SB 5291](/bill/2025-26/sb/5291/) - Long-term services trust 👍2  
 
@@ -453,7 +462,7 @@
 
 ### [SB 5473](/bill/2025-26/sb/5473/) - Law enforcement arbitration 👍1  
 
-### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  
+### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍2  
 
 ### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining 👍1  
 
@@ -493,6 +502,8 @@
 * 👍💵 Nasue Nishida
 
 ### [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
+
+### [SB 5616](/bill/2025-26/sb/5616/) - WA saves trust account 👍1  
 
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍1  
 

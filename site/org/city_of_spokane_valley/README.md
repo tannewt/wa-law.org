@@ -7,7 +7,7 @@
 
 ### [HB 1061](/bill/2025-26/hb/1061/) - Residential parking   ❓1
 
-### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓1
+### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓2
 
 ### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍1  
 
@@ -98,17 +98,21 @@
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
 
+### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍1  
+
 ### [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations   ❓1
 
 ### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍1  
 
 ### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat.   ❓1
 
-## [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development  👎1 
+### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development  👎1 
+
+## [SB 5705](/bill/2025-26/sb/5705/) - Traffic infraction penalties 👍1  
 
 ## 2023-24
 
-### [SB 5604](/bill/2023-24/sb/5604/) - Transit-oriented development  👎1 
+### [SB 5705](/bill/2023-24/sb/5705/) - Traffic infraction penalties 👍1  
 
 ### [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice  👎1 
 

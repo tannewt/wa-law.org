@@ -12,17 +12,19 @@
 
 ## Meetings
 ### Wed 02/12 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1539 Wildfire protection
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32739&aId=163140&caId=25526&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32739&aId=163140&caId=25526&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32739&aId=163140&caId=25526&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32739&aId=163140&caId=25526&tId=4)
-
-#### 55 👍 - Pro
+#### 121 👍 - Pro
 Testifying:
+* Mike Bucy - Stevens Fire District 1
+* KENTON BRINE - NW Insurance Council
 * Ingrid Sorensen - Lake Washington High School
 * Michael Newman - Insurance Institute for Business & Home Safety
 
-#### 2 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* Les Baldik
 
-#### 0 ❓ - Other
+#### 22 ❓ - Other
+Testifying:
+* Sue Lani Madsen - Washington Rural Environmental Network
+* ELAINE ONEIL - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
+* Tony Craven - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)

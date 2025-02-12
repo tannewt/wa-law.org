@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 02/11 04:00 PM - Ways & Means (WM): SSB 5009 Student transp. vehicles
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163738&caId=25755&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163738&caId=25755&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163738&caId=25755&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163738&caId=25755&tId=4)
-
-#### 283 👍 - Pro
+#### 344 👍 - Pro
 Testifying:
 * John Axtell
 * Robert Maxwell - Superintendent  Bob Maxwell Pullman Public Schools
@@ -26,7 +20,7 @@ Testifying:
 * Jim Kowalkowski - Rural Education Center
 * Brian Freeman - Inchelium School District #70
 
-#### 486 👎 - Con
+#### 515 👎 - Con
 
 #### 0 ❓ - Other
 

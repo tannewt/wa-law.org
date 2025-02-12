@@ -6,12 +6,12 @@
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace  👎1 
 * 👎 Cathy Bambrick
 
-## [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services.  👎2 
+## [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎2 
 * 👎 Brian Gibbons
 
 ## 2023-24
 
-### [SB 5083](/bill/2023-24/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services.  👎2 
+### [SB 5083](/bill/2023-24/sb/5083/) - Health carrier reimbursement  👎2 
 * 👎 Brian Gibbons
 
 ### [HB 1850](/bill/2023-24/hb/1850/) - Hospital safety net program 👍1  

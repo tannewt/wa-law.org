@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1572/</link>
 		<description>Updates about HB 1572</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 12:18:03 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 09:26:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,6 +30,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/David/Thurman/2025-02-10 12:18:03</guid>
+		</item>
+		<item>
+			<title>❓Joyce Hammer - State Board for Community and Technical Colleges</title>
+			<description>Joyce Hammer signed up to testify Other. They are signed up to represent State Board for Community and Technical Colleges.</description>
+			<pubDate>Wed, 12 Feb 2025 09:26:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Joyce/Hammer/2025-02-12 09:26:50</guid>
+		</item>
+		<item>
+			<title>❓Melissa Beard - Council of Presidents</title>
+			<description>Melissa Beard signed up to testify Other. They are signed up to represent Council of Presidents.</description>
+			<pubDate>Wed, 12 Feb 2025 09:26:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Melissa/Beard/2025-02-12 09:26:50</guid>
 		</item>
 	</channel>
 </rss>

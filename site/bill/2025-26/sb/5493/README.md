@@ -19,8 +19,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163722&caId=25753&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163722&caId=25753&tId=4)
 
-#### 8 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* Steve Fenberg - Patient Rights Advocate
+* David Koenig - Retired Public Employees Council of WA
 
-#### 22 👎 - Con
+#### 30 👎 - Con
 
 #### 0 ❓ - Other

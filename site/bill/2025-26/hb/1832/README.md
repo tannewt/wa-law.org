@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/12/2025 [The Center Square](/org/the_center_square/) - [Bill seeks to reverse poor student academic performance in Washington state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_c1c3690e-e978-11ef-9420-5fcbd69a6f4c.html#:~:text=House%20Bill%201832)
 * 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](http://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=House%20Bill%201832)
 * 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=House%20Bill%201832)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201832)
@@ -16,18 +17,14 @@
 
 ## Meetings
 ### Tue 02/11 04:00 PM - Education (ED): HB 1832 Student performance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163280&caId=25586&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163280&caId=25586&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163280&caId=25586&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32770&aId=163280&caId=25586&tId=4)
-
-#### 1032 👍 - Pro
+#### 1064 👍 - Pro
 Testifying:
 * Vicki Murray - Washington Policy Center
 * James Harrigan
+* Sharon Hanek
+* Ronda Litzenberger
 
-#### 2043 👎 - Con
+#### 2100 👎 - Con
 Testifying:
 * John Axtell
 * 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)

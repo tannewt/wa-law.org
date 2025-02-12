@@ -8,19 +8,18 @@
 
 ## Meetings
 ### Wed 02/12 08:00 AM - Local Government (LG): HB 1654 International fire code
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32727&aId=163557&caId=25643&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32727&aId=163557&caId=25643&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32727&aId=163557&caId=25643&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32727&aId=163557&caId=25643&tId=4)
+#### 10 👍 - Pro
+Testifying:
+* Oscar Espinosa - Central Pierce, South Pierce, Orting, and Graham Fire & Rescue
+* Todd Anderson - South Snohomish County Regional Fire Authority
+* David Sherman - SCF RFA
 
-#### 2 👍 - Pro
-
-#### 83 👎 - Con
+#### 141 👎 - Con
 Testifying:
 * 💵Curtis Steinhauer - Washington Association of Counties
 * Randy Collins - Mason County Fire Marshal
 * Lori Burke - Snohomish County Asst Fire Marshal
 * 💵Scott Hazlegrove - Master builders association of king and snohomish counties
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
 #### 0 ❓ - Other

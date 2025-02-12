@@ -53,6 +53,8 @@
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
 
+### [HB 1756](/bill/2025-26/hb/1756/) - Lead in cookware  👎1 
+
 ### [HB 1857](/bill/2025-26/hb/1857/) - Asbestos building materials  👎1 
 * 👎💵 Heather Trim
 
@@ -85,6 +87,9 @@
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 * 👍💵 Heather Trim
+
+### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware  👎1 
+* 👎💵 Heather Trim
 
 ## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
 

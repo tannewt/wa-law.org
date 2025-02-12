@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32763&aId=163242&caId=25578&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32763&aId=163242&caId=25578&tId=4)
 
-#### 2 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Kim Justice - Partners for Our Children
+* Brett Ballew - Washington State Office of Public Defense
+* 💵Shrounda Selivanoff - Washington State Office of Public Defense
+* Brett Ballew - Washington State Office of Public Defense
+* 💵Shrounda Selivanoff - Washington State Office of Public Defense
 
-#### 0 👎 - Con
+#### 31 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

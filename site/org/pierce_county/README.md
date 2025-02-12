@@ -34,11 +34,13 @@
 
 ### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
 
-## [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍1  
+## [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍2  
+* 👍 Tricia Bennon
 
 ## 2023-24
 
-### [SB 5655](/bill/2023-24/sb/5655/) - Child care centers/buildings 👍1  
+### [SB 5655](/bill/2023-24/sb/5655/) - Child care centers/buildings 👍2  
+* 👍 Tricia Bennon
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍4  
 

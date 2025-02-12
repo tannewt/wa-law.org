@@ -10,7 +10,7 @@
 
 ### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍1  
 
-### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍1  
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍2  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Charles Smith
@@ -21,7 +21,7 @@
 
 ### [HB 1322](/bill/2025-26/hb/1322/) - Juvenile offenses 👍1  
 
-### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍2  
 
 ### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍1  
 
@@ -29,6 +29,12 @@
 * 👍 Jalayna Ruland
 
 ### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍1  
+
+### [HB 1830](/bill/2025-26/hb/1830/) - Concerning record checks for certain volunteers and contractors who will have access to children or persons with developmental disabilities. 👍1  
+
+### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
+
+### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation  👎1 
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
 

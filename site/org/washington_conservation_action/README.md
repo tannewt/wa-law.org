@@ -26,6 +26,9 @@
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
 * 👍 Caitlin Krenn
 
+### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
+* 👍 Darcy Nonemacer
+
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  

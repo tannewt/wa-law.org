@@ -13,13 +13,14 @@
 
 ### [HB 1545](/bill/2025-26/hb/1545/) - Cardiac and stroke outcomes 👍1  
 
-## [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
+### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Alex Hamasaki
+
+## [SB 5183](/bill/2025-26/sb/5183/) - Tobacco & nicotine products 👍1  
 
 ## 2023-24
 
-### [SB 5166](/bill/2023-24/sb/5166/) - Operating budget, supp.   ❓1
-* ❓💵 Alex Hamasaki
+### [SB 5183](/bill/2023-24/sb/5183/) - Tobacco & nicotine products 👍1  
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

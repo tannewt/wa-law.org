@@ -11,18 +11,17 @@
 
 ## Meetings
 ### Wed 02/12 10:30 AM - Housing (HSG): SB 5614 Impact fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32743&aId=163167&caId=25699&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32743&aId=163167&caId=25699&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32743&aId=163167&caId=25699&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32743&aId=163167&caId=25699&tId=4)
+#### 4 👍 - Pro
+Testifying:
+* Alex Harrington - NAIOP Washington State
 
-#### 1 👍 - Pro
-
-#### 5 👎 - Con
+#### 18 👎 - Con
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Joe Kunzler
+* 💵Grace Yuan - Puget Sound School Coalition
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)

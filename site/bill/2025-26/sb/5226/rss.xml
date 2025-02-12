@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5226 - Establishing funding for physician residency positions dedicated to international medical graduates.</title>
+		<title>SB 5226 - Physician res./international</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5226/</link>
 		<description>Updates about SB 5226</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 17:29:14 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -74,6 +74,13 @@
 			<pubDate>Fri, 31 Jan 2025 17:29:14 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/01/31/nobles-bill-to-address-physician-shortages-heard-in-committee/#:~:text=Senate%20Bill%205226</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-11/And refer to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

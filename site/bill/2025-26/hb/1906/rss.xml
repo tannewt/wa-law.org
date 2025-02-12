@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1906/</link>
 		<description>Updates about HB 1906</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 07:45:50 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Feb 2025 11:04:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,12 +16,28 @@
 			<guid isPermaLink="false">2025-02-10/First reading, referred to Environment &amp; Energy.</guid>
 		</item>
 		<item>
-			<title>👍Terri DiMartino - Ferry PUD</title>
+			<title>👍Susan Gilman - Tacoma Public Utilities/Tacoma Power</title>
+			<description>Susan Gilman signed up to testify Pro.</description>
+			<pubDate>Tue, 11 Feb 2025 02:41:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Susan/Gilman/2025-02-11 02:41:58</guid>
+		</item>
+		<item>
+			<title>👍Terri DiMartino - Tacoma Public Utilities/Tacoma Power</title>
 			<description>Terri DiMartino signed up to testify Pro.</description>
 			<pubDate>Tue, 11 Feb 2025 07:45:50 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Terri/DiMartino/2025-02-11 07:45:50</guid>
+		</item>
+		<item>
+			<title>👍Lily Todd - Lily Todd</title>
+			<description>Lily Todd signed up to testify Pro. They are signed up to represent Lily Todd.</description>
+			<pubDate>Tue, 11 Feb 2025 11:04:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lily/Todd/2025-02-11 11:04:12</guid>
 		</item>
 	</channel>
 </rss>

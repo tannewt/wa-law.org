@@ -7,6 +7,9 @@
 
 ### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
 
+### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
+* 👍💵 Kirk Hovenkotter
+
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 * 👍💵 Kirk Hovenkotter
 

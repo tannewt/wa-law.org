@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32776&aId=163337&caId=25651&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32776&aId=163337&caId=25651&tId=4)
 
-#### 6 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * John Axtell
+* 💵Collin Bannister - The Associated Students of Washington State University
+* Madelyn de Vera
+* Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Chris Mulick - Washington State University
+* Romando Nash - Washington State University
 
 #### 0 ❓ - Other

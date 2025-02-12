@@ -18,14 +18,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163136&caId=25559&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163136&caId=25559&tId=4)
 
-#### 6 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Doug Chaput - WFSE Member
 * Jim Furchert - WFSE Member
 * Scott Lee - WFSE Member
 * Nicholas Day
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Mac Pevey - Department of Corrections
 
-#### 4 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 
 #### 0 ❓ - Other

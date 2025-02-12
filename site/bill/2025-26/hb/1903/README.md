@@ -17,10 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163737&caId=25795&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163737&caId=25795&tId=4)
 
-#### 130 👍 - Pro
+#### 269 👍 - Pro
 Testifying:
 * Daniel Fagerlie - Ferry PUD
+* Adán Espino Jr - Franklin Public Utility District
+* Victor Fuentes - Franklin Public Utility District
+* 💵Logan Bahr - Tacoma Public Utilities/Tacoma Power
 
-#### 0 👎 - Con
+#### 323 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other

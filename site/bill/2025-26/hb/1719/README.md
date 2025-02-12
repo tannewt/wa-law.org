@@ -12,18 +12,14 @@
 
 ## Meetings
 ### Tue 02/11 01:30 PM - Consumer Protection & Business (CPB): HB 1719 Liquor licensee events
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32723&aId=163497&caId=25564&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32723&aId=163497&caId=25564&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32723&aId=163497&caId=25564&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32723&aId=163497&caId=25564&tId=4)
-
-#### 66 👍 - Pro
+#### 97 👍 - Pro
 Testifying:
 * Forrest Chesvick - Good Buzz Brewing Co.
 * 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
 * Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
 * Jesse Lloyd - Veterans Journey Forward
+* Brian Ballton
+* Joshua Hail
 
 #### 2 👎 - Con
 Testifying:

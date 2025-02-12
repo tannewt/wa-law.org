@@ -8,17 +8,12 @@
 
 ## Meetings
 ### Wed 02/12 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1909 Court unification task force
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32793&aId=163734&caId=25765&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32793&aId=163734&caId=25765&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32793&aId=163734&caId=25765&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32793&aId=163734&caId=25765&tId=4)
-
-#### 12 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Esperanza Borboa
+* Laura Del Villar - [Civil Survival](/org/civil_survival/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

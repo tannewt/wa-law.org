@@ -5,6 +5,12 @@
 * 👎 Robert McClure
 * 👎 Hannah Marcley
 
+### [HB 1692](/bill/2025-26/hb/1692/) - Tribes/PRA exemption   ❓2
+* ❓ ROBERT McCLURE
+
+### [HB 1765](/bill/2025-26/hb/1765/) - Subscriber emails/PRA  👎3 
+* 👎 ROBERT McCLURE
+
 ### [SB 5049](/bill/2025-26/sb/5049/) - Sunshine committee 👍2  
 * 👍💵 Donna Christensen
 

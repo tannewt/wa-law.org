@@ -11,18 +11,17 @@
 
 ## Meetings
 ### Wed 02/12 10:30 AM - Housing (HSG): SB 5615 Residential housing permits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32743&aId=163168&caId=25700&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32743&aId=163168&caId=25700&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32743&aId=163168&caId=25700&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32743&aId=163168&caId=25700&tId=4)
-
-#### 85 👍 - Pro
+#### 105 👍 - Pro
 Testifying:
 * 💵Scott Hazlegrove - Master builders association of king and snohomish counties
+* Alex Harrington - NAIOP Washington State
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Josh Friedmann
+* Riley Benge - Washington REALTORS
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

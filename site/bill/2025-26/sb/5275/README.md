@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5275](/bill/2025-26/sb/5275/)
 
-# SB 5275 - Modifying funding and award levels for the passport to careers program and eligibility for the Washington college grant.
+# SB 5275 - Passport to careers program
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5275&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205275)

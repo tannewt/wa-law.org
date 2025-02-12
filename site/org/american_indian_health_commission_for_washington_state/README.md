@@ -23,7 +23,8 @@
 ### [HB 1583](/bill/2025-26/hb/1583/) - Concerning medicaid coverage for traditional health care practices. 👍4  
 * 👍 Steve Kutz
 
-### [HB 1692](/bill/2025-26/hb/1692/) - Tribes/PRA exemption 👍1  
+### [HB 1692](/bill/2025-26/hb/1692/) - Tribes/PRA exemption 👍2  
+* 👍💵 Vicki Lowe
 
 ### [HB 1736](/bill/2025-26/hb/1736/) - Missing persons 👍2  
 
@@ -31,7 +32,7 @@
 
 ### [HB 1829](/bill/2025-26/hb/1829/) - Tribal warrants 👍2  
 
-### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services. 👍1  
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍1  
 
 ### [SB 5110](/bill/2025-26/sb/5110/) - Providing tuition waivers for tribal elders at Washington’s community and technical colleges. 👍3  
 

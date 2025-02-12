@@ -13,7 +13,11 @@
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 * 👍 Steve DuPont
 
+### [HB 1485](/bill/2025-26/hb/1485/) - Services and activities fees 👍1  
+
 ### [HB 1565](/bill/2025-26/hb/1565/) - Dual enrollment scholarship 👍1  
+
+### [HB 1762](/bill/2025-26/hb/1762/) - Higher ed./residence req.  👎1 
 
 ### [SB 5119](/bill/2025-26/sb/5119/) - Academic employee bargaining 👍1  
 
@@ -25,11 +29,13 @@
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 * 👍 Steve DuPont
 
-## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍4  
+### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍4  
+
+## [SB 5666](/bill/2025-26/sb/5666/) - Mental health internships 👍1  
 
 ## 2023-24
 
-### [SB 5402](/bill/2023-24/sb/5402/) - Financial aid eligibility 👍4  
+### [SB 5666](/bill/2023-24/sb/5666/) - Mental health internships 👍1  
 
 ### [HB 1003](/bill/2023-24/hb/1003/) - Dual credit program access   ❓1
 * ❓ Steve DuPont

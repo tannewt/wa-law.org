@@ -8,17 +8,15 @@
 
 ## Meetings
 ### Wed 02/12 08:00 AM - Environment, Energy & Technology (ENET): SB 5514 Clean buildings standard
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32716&aId=163205&caId=25682&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32716&aId=163205&caId=25682&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32716&aId=163205&caId=25682&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32716&aId=163205&caId=25682&tId=4)
-
-#### 9 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Jason Morse - [Issaquah School District](/org/issaquah_school_district/)
+* Kerry Meade - Building Potential
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Emily Salzberg - Department of Commerce
 
-#### 3 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * Tad Sommerville
 

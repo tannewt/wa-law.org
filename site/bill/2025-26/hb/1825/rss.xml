@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1825/</link>
 		<description>Updates about HB 1825</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 07:34:15 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 12:13:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -261,12 +261,28 @@
 			<guid isPermaLink="false">testifier/Chris/Morgan/2025-02-10 12:09:10</guid>
 		</item>
 		<item>
+			<title>👎Joe Kondelis - American Bear Foundation</title>
+			<description>Joe Kondelis signed up to testify Con. They are signed up to represent American Bear Foundation.</description>
+			<pubDate>Tue, 11 Feb 2025 05:33:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Joe/Kondelis/2025-02-11 05:33:22</guid>
+		</item>
+		<item>
 			<title>👍Nancy Kuta - Methow Valley Citizens Council</title>
 			<description>Nancy Kuta signed up to testify Pro.</description>
 			<pubDate>Tue, 11 Feb 2025 07:34:15 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Nancy/Kuta/2025-02-11 07:34:15</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - American Bear Foundation</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Wed, 12 Feb 2025 12:13:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-02-12 12:13:14</guid>
 		</item>
 	</channel>
 </rss>

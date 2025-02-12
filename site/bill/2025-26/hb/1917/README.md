@@ -8,18 +8,21 @@
 
 ## Meetings
 ### Tue 02/11 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1917 Juvenile rehabilitation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32761&aId=163806&caId=25805&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32761&aId=163806&caId=25805&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32761&aId=163806&caId=25805&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32761&aId=163806&caId=25805&tId=4)
-
 #### 7 👍 - Pro
 Testifying:
 * 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist
 
-#### 0 👎 - Con
+#### 16 👎 - Con
+Testifying:
+* 💵Karen Pillar - TeamChild
+* Xaxira Velasco Ponce de Leon - [Columbia Legal Services](/org/columbia_legal_services/)
+* Sara Zier - TeamChild
+* Chris Ativalu-Ford - TVW's Capitol Classroom
+* Kahlev Elkhanon - TVW's Capitol Classroom
+* Ronald Ackerson Jr - TVW's Capitol Classroom
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Nicholas Oakley - [Center for Children & Youth Justice](/org/center_for_children_&_youth_justice/)
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families

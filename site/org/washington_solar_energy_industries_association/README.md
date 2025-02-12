@@ -14,11 +14,16 @@
 ### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules 👍1  
 * 👍 Bill Will
 
-## [SB 5429](/bill/2025-26/sb/5429/) - State building code council  👎1 
+### [SB 5429](/bill/2025-26/sb/5429/) - State building code council  👎1 
+
+### [SB 5634](/bill/2025-26/sb/5634/) - Community solar projects   ❓1
+* ❓ Bill Will
+
+## [SB 5727](/bill/2025-26/sb/5727/) - Residential energy storage 👍1  
 
 ## 2023-24
 
-### [SB 5429](/bill/2023-24/sb/5429/) - State building code council  👎1 
+### [SB 5727](/bill/2023-24/sb/5727/) - Residential energy storage 👍1  
 
 ### [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
 

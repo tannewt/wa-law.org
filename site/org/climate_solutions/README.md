@@ -42,12 +42,19 @@
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth 👍1  
 * 👍 Kurt Ellison
 
+### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍2  
+* 👍💵 Leah Missik
+* 👍💵 Altinay Karasapan
+
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 * 👍💵 Leah Missik
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+
+### [SB 5190](/bill/2025-26/sb/5190/) - School building energy perf.   ❓1
+* ❓ Megan Larkin
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 * 👍💵 Leah Missik

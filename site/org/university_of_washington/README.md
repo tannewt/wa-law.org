@@ -28,7 +28,7 @@
 ### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings   ❓1
 * ❓ Jordan Palmeri
 
-### [HB 1485](/bill/2025-26/hb/1485/) - Services and activities fees  👎1 
+### [HB 1485](/bill/2025-26/hb/1485/) - Services and activities fees 👍23 👎3 ❓1
 
 ### [HB 1492](/bill/2025-26/hb/1492/) - Students with dependents 👍3  
 

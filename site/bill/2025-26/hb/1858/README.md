@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163846&caId=25804&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163846&caId=25804&tId=4)
 
-#### 110 👍 - Pro
+#### 140 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
+* 💵Curtis Steinhauer - Washington Association of Counties
+* Sarah Dickmeyer - Plymouth Housing
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

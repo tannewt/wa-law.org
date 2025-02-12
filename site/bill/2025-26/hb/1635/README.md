@@ -8,16 +8,17 @@
 
 ## Meetings
 ### Wed 02/12 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1635 Consumer cooperative boards
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32793&aId=163780&caId=25792&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32793&aId=163780&caId=25792&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32793&aId=163780&caId=25792&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32793&aId=163780&caId=25792&tId=4)
+#### 2116 👍 - Pro
+Testifying:
+* Anders Soderquist - UFCW 3000
+* Shemona Moreno - UFCW 3000
+* Sierra Kaplan-Nelson - UFCW 3000
+* Alex Pollitt - UFCW 3000
+* Bailey Barkley - UFCW 3000
+* 💵Dustin Lambro - UFCW 3000
 
-#### 1627 👍 - Pro
-
-#### 16 👎 - Con
+#### 24 👎 - Con
 Testifying:
 * Michael Hutchings - WSBA Corporate Act Revision Committee
 
-#### 16 ❓ - Other
+#### 23 ❓ - Other

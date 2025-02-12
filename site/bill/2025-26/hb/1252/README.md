@@ -21,12 +21,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163324&caId=25560&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163324&caId=25560&tId=4)
 
-#### 90 👍 - Pro
+#### 111 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Jon Schuldt - Chief, City of Renton Police Department
 
-#### 5 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Ashli McVey
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers

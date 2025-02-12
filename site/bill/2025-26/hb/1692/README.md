@@ -14,10 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32767&aId=163265&caId=25654&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32767&aId=163265&caId=25654&tId=4)
 
-#### 5 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* 💵Vicki Lowe - American Indian Health Commission
+* 💵Vicki Lowe - [American Indian Health Commission for Washington State](/org/american_indian_health_commission_for_washington_state/)
 
-#### 379 👎 - Con
+#### 577 👎 - Con
 Testifying:
 * john worthington
+* Arthur West
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters
+* ROBERT McCLURE - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)

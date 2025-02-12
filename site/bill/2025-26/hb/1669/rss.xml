@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1669/</link>
 		<description>Updates about HB 1669</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 05:41:51 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Feb 2025 12:29:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2025-01-28/First reading, referred to Health Care &amp; Wellness.</guid>
 		</item>
 		<item>
-			<title>👍Glenn Andrews - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<title>👍Glenn Andrews - WA State Sentencing Guidelines Commission</title>
 			<description>Glenn Andrews signed up to testify Pro.</description>
 			<pubDate>Sat, 08 Feb 2025 01:27:20 GMT</pubDate>
 			<category>testifier</category>
@@ -31,12 +31,36 @@
 			<guid isPermaLink="false">testifier/Glenn/Andrews/2025-02-08 01:27:20</guid>
 		</item>
 		<item>
-			<title>👍Nicole Ver Kuilen - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<title>👍Nicole Ver Kuilen - WA State Sentencing Guidelines Commission</title>
 			<description>Nicole Ver Kuilen signed up to testify Pro.</description>
 			<pubDate>Tue, 11 Feb 2025 05:41:51 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Nicole/Ver Kuilen/2025-02-11 05:41:51</guid>
+		</item>
+		<item>
+			<title>👍Shane Solomon - citizen</title>
+			<description>Shane Solomon signed up to testify Pro. They are signed up to represent citizen.</description>
+			<pubDate>Tue, 11 Feb 2025 12:26:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Shane/Solomon/2025-02-11 12:26:37</guid>
+		</item>
+		<item>
+			<title>👍Addie Yake - citizen</title>
+			<description>Addie Yake signed up to testify Pro.</description>
+			<pubDate>Tue, 11 Feb 2025 12:28:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Addie/Yake/2025-02-11 12:28:20</guid>
+		</item>
+		<item>
+			<title>👍Dillen Maurer - citizen</title>
+			<description>Dillen Maurer signed up to testify Pro.</description>
+			<pubDate>Tue, 11 Feb 2025 12:29:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dillen/Maurer/2025-02-11 12:29:48</guid>
 		</item>
 	</channel>
 </rss>

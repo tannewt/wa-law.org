@@ -5,7 +5,7 @@
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
-### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor. 👍1  
+### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal 👍1  
 
 ### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍2  
 
@@ -74,6 +74,9 @@
 
 ### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
 
+### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation  👎1 
+* 👎 Xaxira Velasco Ponce de Leon
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 * 👍💵 Ethan Frenchman
 
@@ -123,11 +126,18 @@
 
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
 
-## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍1  
+### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍1  
+
+### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption  👎1 
+* 👎💵 Sarah Nagy
+
+## [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
+* 👎💵 Sarah Nagy
 
 ## 2023-24
 
-### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemption amount 👍1  
+### [SB 5678](/bill/2023-24/sb/5678/) - Residential landlord-tenant  👎1 
+* 👎💵 Sarah Nagy
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty   ❓2
 * ❓💵 Antonio Ginatta

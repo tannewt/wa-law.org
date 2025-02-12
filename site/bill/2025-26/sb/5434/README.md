@@ -14,14 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32742&aId=163164&caId=25726&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32742&aId=163164&caId=25726&tId=4)
 
-#### 1628 👍 - Pro
+#### 2226 👍 - Pro
 Testifying:
 * Laurie Layne
 * Mark Nelson - Retired Cowlitz County Sheriff-Not testifying for any organization.
+* TaraLyn Fray
 
-#### 25 👎 - Con
+#### 34 👎 - Con
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Joe Kunzler
 * Jeff Pack - Washington Citizens Against Unfair Taxes

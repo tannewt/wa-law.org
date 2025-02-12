@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 02/11 10:30 AM - Labor & Workplace Standards (LAWS): HB 1843 Students/unemployment ins.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163342&caId=25631&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163342&caId=25631&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163342&caId=25631&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32778&aId=163342&caId=25631&tId=4)
-
 #### 17 👍 - Pro
 Testifying:
 * Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
@@ -22,7 +16,7 @@ Testifying:
 * Anne Paxton - [Unemployment Law Project](/org/unemployment_law_project/)
 * 💵Christoph Mair - [Washington State Labor Council](/org/washington_state_labor_council/)
 
-#### 557 👎 - Con
+#### 560 👎 - Con
 Testifying:
 * KARL MOEGLING
 

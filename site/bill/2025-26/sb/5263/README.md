@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/11/2025 [Senate Democrats](/org/senate_democrats/) - [Progress and priorities this session - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/02/11/progress-and-priorities-this-session/#:~:text=5263)
 * 02/08/2025 [Senate Democrats](/org/senate_democrats/) - [Increasing special education funding - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/07/increasing-special-education-funding/#:~:text=Senate%20Bill%205263)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 5: Reproductive freedom, gender-based violence prevention and a ban on tobacco products - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/07/this-week-in-the-senate-week-5-reproductive-freedom-gender-based-violence-prevention-and-a-ban-on-tobacco-products/#:~:text=SB%205263)
 * 02/07/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: K-12 learning loss leaving our kids behind - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-k-12-learning-loss-leaving-kids-behind/#:~:text=SSB%205263)
@@ -20,17 +21,12 @@
 
 ## Meetings
 ### Tue 02/11 04:00 PM - Ways & Means (WM): SSB 5263 Special education funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163639&caId=25746&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163639&caId=25746&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163639&caId=25746&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163639&caId=25746&tId=4)
-
-#### 2508 👍 - Pro
+#### 3091 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Spokane, Richland, Evergreen and Vancouver Public Schools
 * Tim Merlino - ESD 112, Superintendent
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
+* Brent Jones - Superintendent, Seattle Public Schools
 * Dr. Brent Jones - Superintendent, Seattle Public Schools
 * John Axtell
 * Angela Steck - Washington State PTA
@@ -40,6 +36,7 @@ Testifying:
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
 * 💵Clifford Traisman - Highline and Northshore Public School Districts and Seattle and Bellevue Public Schools
 * Dr. Kelly Aramaki - Superintendent, Bellevue School District
+* Kelly Aramaki - Superintendent, Bellevue School District
 * Samantha Fogg - Seattle Council PTSA Co-President
 * Martha Patterson - [Washington Education Association](/org/washington_education_association/)
 * Roman Honeycutt
@@ -56,10 +53,15 @@ Testifying:
 * Missy Bontrager
 * Mustapha Kebbeh - [Kindering](/org/kindering/)
 * Elizabeth Sadak - Home
+* Catherine Young - Tacoma special education Pta
+* Sadaf Bhutta
+* John Milici
 
-#### 17 👎 - Con
+#### 21 👎 - Con
+Testifying:
+* Eric Fisk
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 01/22 01:30 PM - Early Learning & K-12 Education (EDU): SB 5263 Special education funding
 #### 2704 👍 - Pro

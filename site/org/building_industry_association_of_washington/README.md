@@ -8,7 +8,8 @@
 
 ### [HB 1044](/bill/2025-26/hb/1044/) - County REET admin. fees  👎1 
 
-### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
+### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍2  
+* 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley
 
 ### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍1  
@@ -60,7 +61,8 @@
 
 ### [HB 1356](/bill/2025-26/hb/1356/) - K-12 funding  👎1 
 
-### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program  👎1 
+### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program  👎2 
+* 👎 Mike Ennis
 
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license   ❓1
 * ❓ Mike Ennis
@@ -95,11 +97,16 @@
 
 ### [HB 1644](/bill/2025-26/hb/1644/) - Working minors  👎1 
 
+### [HB 1654](/bill/2025-26/hb/1654/) - International fire code  👎1 
+* 👎💵 Andrea Smiley
+
 ### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use  👎1 
 
 ### [HB 1682](/bill/2025-26/hb/1682/) - Unemployment ins./part-time  👎1 
 
 ### [HB 1688](/bill/2025-26/hb/1688/) - Electric security alarms 👍1  
+
+### [HB 1695](/bill/2025-26/hb/1695/) - Unincorporated villages/GMA 👍1  
 
 ### [HB 1732](/bill/2025-26/hb/1732/) - Home buying by entities  👎1 
 * 👎💵 Brent Ludeman
@@ -120,11 +127,16 @@
 
 ### [HB 1843](/bill/2025-26/hb/1843/) - Students/unemployment ins.  👎1 
 
-### [HB 1857](/bill/2025-26/hb/1857/) - Asbestos building materials 👍1  
+### [HB 1854](/bill/2025-26/hb/1854/) - Rural areas/subdivision 👍1  
+
+### [HB 1857](/bill/2025-26/hb/1857/) - Asbestos building materials 👍2  
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee  👎1 
 
-### [HB 1906](/bill/2025-26/hb/1906/) - Water system rates 👍1  
+### [HB 1906](/bill/2025-26/hb/1906/) - Water system rates 👍2  
+
+### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
+* 👍💵 Andrea Smiley
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 
@@ -207,6 +219,12 @@
 
 ### [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍1  
 * 👍💵 Bill Stauffacher
+
+### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees   ❓1
+* ❓💵 Andrea Smiley
+
+### [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits 👍1  
+* 👍💵 Andrea Smiley
 
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎1 
 

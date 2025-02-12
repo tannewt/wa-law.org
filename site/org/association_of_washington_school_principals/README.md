@@ -38,14 +38,18 @@
 
 ### [HB 1565](/bill/2025-26/hb/1565/) - Dual enrollment scholarship 👍1  
 
+### [HB 1734](/bill/2025-26/hb/1734/) - Outdoor learning grants 👍1  
+
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation   ❓1
 * ❓💵 Roz Thompson
+
+### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎1 
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
-### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. allocation 👍1  
+### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. allocation 👍2  
 
 ### [SB 5080](/bill/2025-26/sb/5080/) - Financial education 👍1  
 
@@ -61,15 +65,15 @@
 
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
 
-### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍2  
+### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍3  
 
-### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍2  
+### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍3  
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍2  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍3  
 
 ### [SB 5270](/bill/2025-26/sb/5270/) - Providing mentors to novice nurses in the beginning educator support team program.   ❓1
 * ❓💵 Roz Thompson
@@ -87,11 +91,17 @@
 
 ### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
 
-## [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
+### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
+
+### [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
+
+## [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation   ❓1
+* ❓💵 Roz Thompson
 
 ## 2023-24
 
-### [SB 5369](/bill/2023-24/sb/5369/) - Youth mental health/schools 👍1  
+### [SB 5654](/bill/2023-24/sb/5654/) - Student restraint, isolation   ❓1
+* ❓💵 Roz Thompson
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
 

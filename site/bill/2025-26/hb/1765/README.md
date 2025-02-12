@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32767&aId=163266&caId=25655&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32767&aId=163266&caId=25655&tId=4)
 
-#### 7 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Blair King - City Manager, Bainbridge Island
 * Clarence Moriwaki - Councilmember, Bainbridge Island
 * Brian Anderson - Resident
 
-#### 4 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* ROBERT McCLURE - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
 
 #### 0 ❓ - Other

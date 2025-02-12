@@ -18,7 +18,7 @@
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
-### [SB 5083](/bill/2025-26/sb/5083/) - Ensuring access to primary care, behavioral health, and affordable hospital services.  👎2 
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎2 
 
 ### [SB 5124](/bill/2025-26/sb/5124/) - SNF & rehab network adequacy 👍1  
 

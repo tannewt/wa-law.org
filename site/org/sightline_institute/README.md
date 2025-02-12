@@ -42,6 +42,8 @@
 ### [HB 1757](/bill/2025-26/hb/1757/) - Residential use/existing 👍1  
 * 👍💵 Dan Bertolet
 
+### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
+
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
@@ -70,6 +72,9 @@
 * 👍💵 Dan Bertolet
 
 ### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
+
+### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
+* 👍💵 Dan Bertolet
 
 ## [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍1  
 * 👍💵 Dan Bertolet

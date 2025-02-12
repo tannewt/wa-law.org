@@ -1,7 +1,7 @@
 # Washington State Coalition Against Domestic Violence
 ## 2025-26
 
-### [HB 1113](/bill/2025-26/hb/1113/) - Concerning accountability and access to services for individuals charged with a misdemeanor. 👍1  
+### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal 👍1  
 
 ### [HB 1139](/bill/2025-26/hb/1139/) - Unlawful firearm possession 👍1  
 

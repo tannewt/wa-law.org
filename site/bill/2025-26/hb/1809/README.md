@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163197&caId=25621&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163197&caId=25621&tId=4)
 
-#### 22 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Kimberly Hendrickson - University of Washington, BHCore Center
 * Shaun Ford - Washington Fire Chief's Association
 * Amy Barden - Chief, Seattle CARE Department
 * Stephanie Butler
+* James Gillard - Poulsbo Fire Department
+* James Aguirre
 
 #### 0 👎 - Con
 

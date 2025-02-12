@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1718/</link>
 		<description>Updates about HB 1718</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 12:01:26 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Feb 2025 09:11:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,12 +23,44 @@
 			<guid isPermaLink="false">2025-01-29/First reading, referred to Health Care &amp; Wellness.</guid>
 		</item>
 		<item>
-			<title>👍Hyolyn Yang - NW Energy Coalition</title>
+			<title>👍Hyolyn Yang - Washington Hospitality Association</title>
 			<description>Hyolyn Yang signed up to testify Pro.</description>
 			<pubDate>Mon, 10 Feb 2025 12:01:26 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Hyolyn/Yang/2025-02-10 12:01:26</guid>
+		</item>
+		<item>
+			<title>👍💵Alex Wehinger - WA State Medical Association (WSMA)</title>
+			<description>Alex Wehinger signed up to testify Pro. They are signed up to represent WA State Medical Association (WSMA). They are a registered lobbyist.</description>
+			<pubDate>Tue, 11 Feb 2025 05:37:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alex/Wehinger/2025-02-11 05:37:28</guid>
+		</item>
+		<item>
+			<title>👍MD, Andrea Kalus - WA State Medical Association (WSMA)</title>
+			<description>MD, Andrea Kalus signed up to testify Pro.</description>
+			<pubDate>Tue, 11 Feb 2025 05:44:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/MD, Andrea/Kalus/2025-02-11 05:44:57</guid>
+		</item>
+		<item>
+			<title>👍MD, Anne-Marie Amies Oelschlager - WA Chapter of the American College of Obstetricians and Gynecologists</title>
+			<description>MD, Anne-Marie Amies Oelschlager signed up to testify Pro. They are signed up to represent WA Chapter of the American College of Obstetricians and Gynecologists.</description>
+			<pubDate>Tue, 11 Feb 2025 05:44:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/MD, Anne-Marie/Amies Oelschlager/2025-02-11 05:44:57</guid>
+		</item>
+		<item>
+			<title>❓Colleen Durkin Peterson - Washington State Association for Justice</title>
+			<description>Colleen Durkin Peterson signed up to testify Other. They are signed up to represent Washington State Association for Justice.</description>
+			<pubDate>Tue, 11 Feb 2025 09:11:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Colleen/Durkin Peterson/2025-02-11 09:11:10</guid>
 		</item>
 	</channel>
 </rss>

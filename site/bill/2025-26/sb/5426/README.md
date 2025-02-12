@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/12/2025 [Real Change](/org/real_change/) - [Youth programs matter: The importance of advocating for youth justice | Feb. 12–18, 2025 | Real Change](https://www.realchangenews.org/news/2025/02/12/youth-programs-matter-importance-advocating-youth-justice#:~:text=Senate%20Bill%205426)
+
 ## Meetings
 ### Thu 02/13 04:00 PM - Ways & Means (WM): SSB 5426 Court alternatives/youth
 Sign up to testify:
@@ -15,9 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163739&caId=25756&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163739&caId=25756&tId=4)
 
-#### 36 👍 - Pro
+#### 51 👍 - Pro
 
-#### 0 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* Eric Pratt - America
 
 #### 0 ❓ - Other
 

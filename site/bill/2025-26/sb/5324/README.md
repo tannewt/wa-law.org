@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 02/07 08:00 AM - Health & Long Term Care (HLTC): SB 5324 Prior auth. APIs/health

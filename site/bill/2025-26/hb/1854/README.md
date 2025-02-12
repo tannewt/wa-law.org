@@ -8,19 +8,16 @@
 
 ## Meetings
 ### Wed 02/12 08:00 AM - Local Government (LG): HB 1854 Rural areas/subdivision
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32727&aId=163690&caId=25644&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32727&aId=163690&caId=25644&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32727&aId=163690&caId=25644&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32727&aId=163690&caId=25644&tId=4)
-
-#### 129 👍 - Pro
+#### 199 👍 - Pro
 Testifying:
 * John Gentle - Pend Oreille County Commissioner
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Wes McCart
+* Mark Burrows - Stevens County Commissioner
 
-#### 3 👎 - Con
+#### 5 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Pam Lewison - Washington Policy Center
+* Erika Odem - [Department of Natural Resources](/org/department_of_natural_resources/)

@@ -8,13 +8,10 @@
 
 ## Meetings
 ### Wed 02/12 10:30 AM - Early Learning & K-12 Education (EDU): SB 5545 Family home prov./military
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32759&aId=163225&caId=25673&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32759&aId=163225&caId=25673&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32759&aId=163225&caId=25673&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32759&aId=163225&caId=25673&tId=4)
-
-#### 1 👍 - Pro
+#### 27 👍 - Pro
+Testifying:
+* Tammie Perreault
+* 💵Jake Mayson - Forward Fairchild
 
 #### 0 👎 - Con
 

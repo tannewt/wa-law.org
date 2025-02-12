@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163145&caId=25529&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163145&caId=25529&tId=4)
 
-#### 66 👍 - Pro
+#### 88 👍 - Pro
 Testifying:
 * Joshua Diamond
 * Apoorva Kancharla

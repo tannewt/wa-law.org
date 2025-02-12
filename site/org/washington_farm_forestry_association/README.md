@@ -1,13 +1,30 @@
 # Washington Farm Forestry Association
+## 2025-26
 
-## [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption 👍1  
+### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection   ❓2
+* ❓ ELAINE ONEIL
+* ❓ Tony Craven
 
-## [HB 1342](/bill/2023-24/hb/1342/) - Embodied carbon reductions 👍1  
+### [HB 1707](/bill/2025-26/hb/1707/) - Noxious weeds list/crops 👍1  
 
-## [HB 1488](/bill/2023-24/hb/1488/) - Working forest license plate 👍4  
+### [HB 1742](/bill/2025-26/hb/1742/) - Urban design/environment 👍1  
+
+### [SB 5444](/bill/2025-26/sb/5444/) - New special license plates 👍2  ❓1
+
+## [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍2  
+
+## 2023-24
+
+### [SB 5567](/bill/2023-24/sb/5567/) - Natural resources careers 👍2  
+
+### [HB 1018](/bill/2023-24/hb/1018/) - Hog fuel/tax exemption 👍1  
+
+### [HB 1342](/bill/2023-24/hb/1342/) - Embodied carbon reductions 👍1  
+
+### [HB 1488](/bill/2023-24/hb/1488/) - Working forest license plate 👍4  
 * 👍 Elaine Oneil
 
-## [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements 👍6  
+### [HB 1740](/bill/2023-24/hb/1740/) - Forestry riparian easements 👍6  
 * 👍 Elaine Oneil
 * 👍 Ken Miller
 * 👍 Elaine Oneil
@@ -15,20 +32,20 @@
 * 👍 Elaine Oneil
 * 👍 Ken Miller
 
-## [HB 2045](/bill/2023-24/hb/2045/) - Adopt a fish barrier program 👍2  
+### [HB 2045](/bill/2023-24/hb/2045/) - Adopt a fish barrier program 👍2  
 
-## [SB 5254](/bill/2023-24/sb/5254/) - Leasing of state lands 👍1  
+### [SB 5254](/bill/2023-24/sb/5254/) - Leasing of state lands 👍1  
 
-## [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
+### [SB 5391](/bill/2023-24/sb/5391/) - Embodied carbon reductions 👍1  
 
-## [SB 5667](/bill/2023-24/sb/5667/) - Forestry riparian easements 👍8  
+### [SB 5667](/bill/2023-24/sb/5667/) - Forestry riparian easements 👍8  
 * 👍 Elaine Oneil
 * 👍 Ken Miller
 * 👍 Nora Palattao Burnes
 
-## [SB 5673](/bill/2023-24/sb/5673/) - Forest practices board 👍1  
+### [SB 5673](/bill/2023-24/sb/5673/) - Forest practices board 👍1  
 * 👍 Ken Miller
 
-## [SB 6121](/bill/2023-24/sb/6121/) - Ag. and forestry biomass 👍3  
+### [SB 6121](/bill/2023-24/sb/6121/) - Ag. and forestry biomass 👍3  
 
 ## [SB 6219](/bill/2023-24/sb/6219/) - Agritourism 👍1  

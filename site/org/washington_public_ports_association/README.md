@@ -53,6 +53,14 @@
 ### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment  👎1 
 * 👎💵 Carly Michiels
 
+### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval 👍1  
+* 👍 Chris Herman
+
+### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
+
+### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
+* 👍 Chris Herman
+
 ### [SB 5034](/bill/2025-26/sb/5034/) - System improvement team 👍1  
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  
@@ -66,6 +74,8 @@
 
 ### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍1  
 * 👍 Chris Herman
+
+### [SB 5208](/bill/2025-26/sb/5208/) - Clean energy fund program 👍1  
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
 * 👍💵 Carly Michiels

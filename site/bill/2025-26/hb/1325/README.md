@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/04 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1325 Fish & wildlife enforcement

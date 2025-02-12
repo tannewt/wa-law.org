@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1692/</link>
 		<description>Updates about HB 1692</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 07:10:20 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 12:17:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,12 +23,52 @@
 			<guid isPermaLink="false">2025-01-29/First reading, referred to State Government &amp; Tribal Relations.</guid>
 		</item>
 		<item>
-			<title>👎john worthington - Clark Regional Wastewater District</title>
+			<title>👎john worthington - American Indian Health Commission for Washington State</title>
 			<description>john worthington signed up to testify Con.</description>
 			<pubDate>Mon, 10 Feb 2025 07:10:20 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/john/worthington/2025-02-10 07:10:20</guid>
+		</item>
+		<item>
+			<title>❓💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters</title>
+			<description>Rowland Thompson signed up to testify Other. They are signed up to represent Allied Daily Newspapers and WSABroadcasters. They are a registered lobbyist.</description>
+			<pubDate>Tue, 11 Feb 2025 09:21:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Rowland/Thompson/2025-02-11 09:21:04</guid>
+		</item>
+		<item>
+			<title>❓ROBERT McCLURE - Washington Coalition for Open Government</title>
+			<description>ROBERT McCLURE signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_coalition_for_open_government/"&gt;Washington Coalition for Open Government&lt;/a&gt;.</description>
+			<pubDate>Tue, 11 Feb 2025 10:45:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/ROBERT/McCLURE/2025-02-11 10:45:57</guid>
+		</item>
+		<item>
+			<title>👍💵Vicki Lowe - American Indian Health Commission</title>
+			<description>Vicki Lowe signed up to testify Pro. They are signed up to represent American Indian Health Commission. They are a registered lobbyist.</description>
+			<pubDate>Wed, 12 Feb 2025 09:30:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Vicki/Lowe/2025-02-12 09:30:49</guid>
+		</item>
+		<item>
+			<title>👍💵Vicki Lowe - American Indian Health Commission for Washington State</title>
+			<description>Vicki Lowe signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/american_indian_health_commission_for_washington_state/"&gt;American Indian Health Commission for Washington State&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 12 Feb 2025 11:54:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Vicki/Lowe/2025-02-12 11:54:09</guid>
+		</item>
+		<item>
+			<title>👎Arthur West - American Indian Health Commission for Washington State</title>
+			<description>Arthur West signed up to testify Con.</description>
+			<pubDate>Wed, 12 Feb 2025 12:17:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Arthur/West/2025-02-12 12:17:39</guid>
 		</item>
 	</channel>
 </rss>

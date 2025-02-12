@@ -18,7 +18,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32746&aId=163173&caId=25545&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32746&aId=163173&caId=25545&tId=4)
 
-#### 6 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* 💵Heath Heikkila - American Forest Resource Council
 
 #### 2 👎 - Con
 

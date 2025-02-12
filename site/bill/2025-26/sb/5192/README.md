@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/11/2025 [Senate Democrats](/org/senate_democrats/) - [Progress and priorities this session - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/02/11/progress-and-priorities-this-session/#:~:text=5192)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 5: Reproductive freedom, gender-based violence prevention and a ban on tobacco products - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/07/this-week-in-the-senate-week-5-reproductive-freedom-gender-based-violence-prevention-and-a-ban-on-tobacco-products/#:~:text=SB%205192)
 * 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205192)
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205192)
@@ -20,13 +21,7 @@
 
 ## Meetings
 ### Tue 02/11 04:00 PM - Ways & Means (WM): SB 5192 School district materials
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163638&caId=25745&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163638&caId=25745&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163638&caId=25745&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32733&aId=163638&caId=25745&tId=4)
-
-#### 2078 👍 - Pro
+#### 2708 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - Spokane, Evergreen, Vancouver, and Richland School Districts
 * Tim Merlino - ESD 112
@@ -50,8 +45,9 @@ Testifying:
 * Charlie Brown - [Federal Way Public Schools](/org/federal_way_public_schools/)
 * Meghan Jernigan - Shoreline School Board
 * Elizabeth Sadak - Home
+* John Milici
 
-#### 1760 👎 - Con
+#### 1900 👎 - Con
 Testifying:
 * John Axtell
 

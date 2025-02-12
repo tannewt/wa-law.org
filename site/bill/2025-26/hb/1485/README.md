@@ -18,12 +18,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32776&aId=163333&caId=25647&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32776&aId=163333&caId=25647&tId=4)
 
-#### 42 👍 - Pro
+#### 628 👍 - Pro
 Testifying:
 * SUMIRAN POUDEL - UW Seattle Graduate Student
+* Haley Chee - University of Washington, Seattle Undergraduate
+* Nicholas Villa - CWU Graduate Student
+* Ryan Wicklund - Washington Student Association (WSA), and the Graduate and Professional Student Senate (GPSS) of UW
+* 💵Mykhail Lembke - University of Washington Graduate and Professional Student Senate
 
-#### 367 👎 - Con
+#### 637 👎 - Con
 Testifying:
 * John Axtell
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other

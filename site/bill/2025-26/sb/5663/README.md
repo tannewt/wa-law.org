@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32785&aId=163763&caId=25761&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32785&aId=163763&caId=25761&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Johnston Lai
 * Marina Aminy - California Virtual Campus
 * Kathryn Cox
+* Shreyansh Padhy
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Dr. Amy Morrison - President, Lake Washington Institute of Technology
+* Dr. Bob Morbacher - President, Centralia College
+* Dr. Joyce Hammer - State Board for Community & Technical Colleges

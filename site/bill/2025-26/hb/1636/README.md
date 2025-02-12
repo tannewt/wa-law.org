@@ -12,15 +12,10 @@
 
 ## Meetings
 ### Tue 02/11 01:30 PM - Consumer Protection & Business (CPB): HB 1636 Wine & spirit sales limits
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32723&aId=163494&caId=25561&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32723&aId=163494&caId=25561&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32723&aId=163494&caId=25561&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32723&aId=163494&caId=25561&tId=4)
-
-#### 8 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Brad Tower - [Washington Liquor Store Association](/org/washington_liquor_store_association/)
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 102 👎 - Con
 Testifying:

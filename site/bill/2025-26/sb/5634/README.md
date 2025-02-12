@@ -8,16 +8,16 @@
 
 ## Meetings
 ### Wed 02/12 08:00 AM - Environment, Energy & Technology (ENET): SB 5634 Community solar projects
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32716&aId=163206&caId=25683&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32716&aId=163206&caId=25683&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32716&aId=163206&caId=25683&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32716&aId=163206&caId=25683&tId=4)
-
-#### 19 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Josie Cummings - Avista
 
-#### 1 👎 - Con
+#### 52 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
+* Gavin Tenold - Northwest Renewables
+* Reeves Clippard - A&R Solar
+* Georgine Yorgey - Washington State Universiy

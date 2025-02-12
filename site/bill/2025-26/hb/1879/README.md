@@ -8,13 +8,10 @@
 
 ## Meetings
 ### Wed 02/12 08:00 AM - Labor & Workplace Standards (LAWS): HB 1879 Hospital worker breaks
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163698&caId=25636&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163698&caId=25636&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163698&caId=25636&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32779&aId=163698&caId=25636&tId=4)
-
-#### 27 👍 - Pro
+#### 51 👍 - Pro
+Testifying:
+* 💵Ashlen Strong
+* 💵Lindsey Grad - SEIU Healthcare 1199NW
 
 #### 1 👎 - Con
 

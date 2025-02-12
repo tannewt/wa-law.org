@@ -49,13 +49,13 @@
 * [SB 6196](sb/6196) - Basic income pilot program 5📰 1441👍 1689👎 3❓ - SHuman Services
 * [HB 1678](hb/1678) - Dental therapists 8📰 1471👍 1619👎 5❓ - C 460 L 23
 * [SB 5486](sb/5486) - Wealth/property tax 24📰 2642👍 433👎 5❓ - SWays & Means
-* [HB 1474](hb/1474) - Covenant homeownership prg. 26📰 2403👍 642👎 8❓ - C 340 L 23
+* [HB 1474](hb/1474) - Covenant homeownership prg. 27📰 2403👍 642👎 8❓ - C 340 L 23
 * [HB 1039](hb/1039) - Intramuscular needling 1845👍 1168👎 22❓ - C 198 L 23
 * [SB 5536](sb/5536) - Controlled substances 71📰 365👍 2530👎 81❓ - C 1 L 23 E1
 * [HB 1655](hb/1655) - Provider contract comp. 2939👍 10👎 12❓ - HApprops
 * [HB 1628](hb/1628) - Real estate excise tax 17📰 1357👍 1518👎 5❓ - HRules X
 * [HB 1985](hb/1985) - PERS/TRS 1 benefit increase 8📰 2527👍 293👎 16❓ - C 255 L 24
-* [HB 1589](hb/1589) - Clean energy 80📰 542👍 2183👎 42❓ - C 351 L 24
+* [HB 1589](hb/1589) - Clean energy 81📰 542👍 2183👎 42❓ - C 351 L 24
 * [SB 5466](sb/5466) - Transit-oriented development 37📰 2545👍 46👎 35❓ - SRules X
 * [HB 1391](hb/1391) - Energy in buildings 6📰 2075👍 529👎 20❓ - HRules 3C
 * [HB 1832](hb/1832) - Vehicle per mile charge 7📰 62👍 2527👎 34❓ - HTransportation

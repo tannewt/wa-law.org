@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5545/</link>
 		<description>Updates about SB 5545</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 08:34:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,22 @@
 			<pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-28/First reading, referred to Early Learning &amp; K-12 Education.</guid>
+		</item>
+		<item>
+			<title>👍Tammie Perreault - Adult Education Advisory Council</title>
+			<description>Tammie Perreault signed up to testify Pro.</description>
+			<pubDate>Tue, 11 Feb 2025 04:38:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tammie/Perreault/2025-02-11 04:38:10</guid>
+		</item>
+		<item>
+			<title>👍💵Jake Mayson - Forward Fairchild</title>
+			<description>Jake Mayson signed up to testify Pro. They are signed up to represent Forward Fairchild. They are a registered lobbyist.</description>
+			<pubDate>Wed, 12 Feb 2025 08:34:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jake/Mayson/2025-02-12 08:34:21</guid>
 		</item>
 	</channel>
 </rss>
