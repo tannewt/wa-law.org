@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32785&aId=163764&caId=25762&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32785&aId=163764&caId=25762&tId=4)
 
-#### 20 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * Alice Aliré
 * Vasyl Tarapov - Lake Washington High School
@@ -25,7 +25,12 @@ Testifying:
 * Gabrielle Roberts
 * Cody Runner
 * Heimir Magnusson
+* Sam Locke
+* Carrie Suchy - WA State Association of School Psychologists
+* David Fainstein - WA State Association of School Psychologists
+* Jessica Ball - WA State Association of School Psychologists
+* Tarrin Joslin
 
-#### 22 👎 - Con
+#### 78 👎 - Con
 
 #### 0 ❓ - Other

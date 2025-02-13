@@ -50,7 +50,7 @@
 ### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements 👍1  
 * 👍💵 Andrea Smiley
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎2 
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice  👎2 
 * 👎💵 Andrea Smiley
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth  👎1 

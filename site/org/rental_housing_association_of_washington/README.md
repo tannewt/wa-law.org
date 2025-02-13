@@ -6,11 +6,18 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
 
-## [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants  👎2 
+### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants  👎2 
+
+### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption 👍1  
+* 👍 Daniel Klemme
+
+## [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant 👍1  
+* 👍 Daniel Klemme
 
 ## 2023-24
 
-### [SB 5222](/bill/2023-24/sb/5222/) - Residential tenants  👎2 
+### [SB 5678](/bill/2023-24/sb/5678/) - Residential landlord-tenant 👍1  
+* 👍 Daniel Klemme
 
 ### [HB 1070](/bill/2023-24/hb/1070/) - Property sale and leaseback 👍1  
 

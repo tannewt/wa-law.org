@@ -19,7 +19,7 @@ Testifying:
 * Chris La Plante - [Energy Northwest](/org/energy_northwest/)
 * David Jordan - [Energy Northwest](/org/energy_northwest/)
 
-#### 7 👎 - Con
+#### 8 👎 - Con
 
 #### 0 ❓ - Other
 

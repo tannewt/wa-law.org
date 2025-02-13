@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1393/</link>
 		<description>Updates about HB 1393</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 06:59:04 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 09:43:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2025-01-20/First reading, referred to Education.</guid>
 		</item>
 		<item>
-			<title>👎John Axtell - Washington School Counselor Association</title>
+			<title>👎John Axtell - Association of Washington School Principals</title>
 			<description>John Axtell signed up to testify Con.</description>
 			<pubDate>Fri, 07 Feb 2025 12:34:55 GMT</pubDate>
 			<category>testifier</category>
@@ -72,7 +72,7 @@
 			<guid isPermaLink="false">testifier/Lauren/Mendez/2025-02-11 01:37:36</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - Washington School Counselor Association</title>
+			<title>👎TaraLyn Fray - Association of Washington School Principals</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Tue, 11 Feb 2025 06:56:54 GMT</pubDate>
 			<category>testifier</category>
@@ -80,12 +80,28 @@
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-02-11 06:56:54</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - Washington School Counselor Association</title>
+			<title>👎TaraLyn Fray - Association of Washington School Principals</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Tue, 11 Feb 2025 06:59:04 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-02-11 06:59:04</guid>
+		</item>
+		<item>
+			<title>👍💵Roz Thompson - Association of Washington School Principals</title>
+			<description>Roz Thompson signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_school_principals/"&gt;Association of Washington School Principals&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 12 Feb 2025 07:21:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Roz/Thompson/2025-02-12 07:21:13</guid>
+		</item>
+		<item>
+			<title>👎Deborah Bowen - Association of Washington School Principals</title>
+			<description>Deborah Bowen signed up to testify Con.</description>
+			<pubDate>Wed, 12 Feb 2025 09:43:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Deborah/Bowen/2025-02-12 09:43:32</guid>
 		</item>
 	</channel>
 </rss>

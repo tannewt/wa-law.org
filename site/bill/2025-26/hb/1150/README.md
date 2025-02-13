@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1150](/bill/2025-26/hb/1150/)
 
-# HB 1150 - Improving Washington's solid waste management outcomes.
+# HB 1150 - Solid waste management
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1150&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/10/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2025 Quaker Voice Priority Bill Tracker — Quaker Voice](https://www.quakervoicewa.org/2025-quaker-voice-priority-bills/#:~:text=HB%201150)

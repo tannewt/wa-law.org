@@ -32,6 +32,9 @@
 
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
 
+### [HB 1393](/bill/2025-26/hb/1393/) - Commencement/cultural exp. 👍1  
+* 👍💵 Roz Thompson
+
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
 ### [HB 1557](/bill/2025-26/hb/1557/) - Guaranteed admissions prg. 👍1  

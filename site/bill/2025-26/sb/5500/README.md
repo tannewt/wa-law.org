@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/03/2025 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [legupdate02032025 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02032025#:~:text=S.B.%205500)

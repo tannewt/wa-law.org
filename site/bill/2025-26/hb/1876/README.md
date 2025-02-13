@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32764&aId=163814&caId=25809&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32764&aId=163814&caId=25809&tId=4)
 
-#### 484 👍 - Pro
+#### 545 👍 - Pro
 
-#### 35 👎 - Con
+#### 469 👎 - Con
 Testifying:
 * Conrad Reynoldson - Washington Civil & Disability Advocate
 * 💵Jean Hill - Washington State Catholic Conference
 * Sharon Quick - Physicians for Compassionate Care Education Foundation
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 0 ❓ - Other

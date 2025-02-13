@@ -11,6 +11,19 @@
 * 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201177)
 
 ## Meetings
+### Mon 02/17 04:00 PM - Appropriations (APP): SHB 1177 Child welfare housing assist
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164194&caId=25909&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164194&caId=25909&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164194&caId=25909&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164194&caId=25909&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/28 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1177 Child welfare housing assist
 #### 79 👍 - Pro
 Testifying:

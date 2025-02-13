@@ -97,6 +97,8 @@
 
 ### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍1  
 
+### [SB 5455](/bill/2025-26/sb/5455/) - Cancer research endowment 👍1  
+
 ### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 
 ### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  

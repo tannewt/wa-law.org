@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163197&caId=25621&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163197&caId=25621&tId=4)
 
-#### 39 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * Kimberly Hendrickson - University of Washington, BHCore Center
 * Shaun Ford - Washington Fire Chief's Association
@@ -22,6 +22,8 @@ Testifying:
 * Stephanie Butler
 * James Gillard - Poulsbo Fire Department
 * James Aguirre
+* Keith Sharp - South Snohomish County Regional Fire Authority
+* Cody Maine - Walla Walla Fire Department
 
 #### 0 👎 - Con
 

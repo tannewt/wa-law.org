@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32749&aId=163713&caId=25768&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32749&aId=163713&caId=25768&tId=4)
 
-#### 138 👍 - Pro
+#### 151 👍 - Pro
 Testifying:
 * 💵Kristin Ang - Faith Action Network (FAN)
+* Brian Grow - Proclaim Liberty (faith-based affordable housing non-profit)
 
 #### 0 👎 - Con
 

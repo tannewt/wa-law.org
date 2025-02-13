@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Wed 02/12 04:00 PM - Appropriations (APP): HB 1380 Public property regulations
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163319&caId=25539&tId=4)
-
-#### 1231 👍 - Pro
+#### 1342 👍 - Pro
 Testifying:
 * Councilmember Lindsey Schromen-Wawrin
 * Sharyl Brown - Jewels Helping Hands
@@ -29,7 +23,7 @@ Testifying:
 * John Boyd
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 
-#### 1116 👎 - Con
+#### 1146 👎 - Con
 Testifying:
 * Amy Harris - Clark County Matters
 * Emilie Cameron - Downtown Spokane Partnership
@@ -50,8 +44,12 @@ Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Valita Speranzi
+* William Hulings
+* Justin Haller
 * Jonathan Bingle
 * Edwin "Larry" Andrews II - Andrews Mechanical, Inc.
+* Audry Agnew
+* Callista Behm
 
 #### 4 ❓ - Other
 Testifying:

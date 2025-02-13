@@ -18,6 +18,8 @@
 
 ### [HB 1556](/bill/2025-26/hb/1556/) - HS completers/CTC tuition 👍1  
 
+### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
+
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍2  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  

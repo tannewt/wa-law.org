@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Wed 01/15 01:30 PM - Housing (HSG): SB 5129 Common interest communities

@@ -3,7 +3,7 @@
 
 ### [HB 1048](/bill/2025-26/hb/1048/) - Rangeland fire pilot 👍1  
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍 Scott Richards
@@ -15,7 +15,7 @@
 
 ### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface 👍1  
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 * 👍💵 Justin Allegro
@@ -38,6 +38,9 @@
 ### [HB 1721](/bill/2025-26/hb/1721/) - Zero emissions vehicles/sale 👍1  
 
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
+
+### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex.   ❓1
+* ❓💵 David Mendoza
 
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍1  
 

@@ -9,7 +9,7 @@
 
 ### [HB 1132](/bill/2025-26/hb/1132/) - Bulk firearm purchases 👍1  
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
 ### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 👍1  
 
@@ -64,7 +64,7 @@
 
 ### [HB 1556](/bill/2025-26/hb/1556/) - HS completers/CTC tuition 👍1  
 
-### [HB 1587](/bill/2025-26/hb/1587/) - Encouraging local government partner promise scholarship programs within the opportunity scholarship program. 👍1  
+### [HB 1587](/bill/2025-26/hb/1587/) - Partner promise scholarships 👍1  
 
 ### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
 
@@ -79,6 +79,8 @@
 ### [HB 1657](/bill/2025-26/hb/1657/) - Washington 13 free guarantee 👍1  
 * 👍 Brittany Ota-Malloy
 
+### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
+
 ### [HB 1714](/bill/2025-26/hb/1714/) - Small business risk pooling 👍1  
 
 ### [HB 1733](/bill/2025-26/hb/1733/) - Agency displacement expenses 👍1  
@@ -87,6 +89,8 @@
 * 👍 Venu Nemani
 
 ### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
+
+### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
 
 ### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
 
@@ -104,6 +108,8 @@
 * 👍 AP Diaz
 
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers 👍1  
+
+### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 

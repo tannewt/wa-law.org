@@ -14,13 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32745&aId=163851&caId=25779&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32745&aId=163851&caId=25779&tId=4)
 
-#### 57 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * Carter Nelson - Washington Multifamily Housing Association
 * Alex Harrington - NAIOP Washington State
+* Daniel Klemme - [Rental Housing Association of Washington](/org/rental_housing_association_of_washington/)
 
-#### 37 👎 - Con
+#### 320 👎 - Con
 Testifying:
+* Sarah Moore
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
 

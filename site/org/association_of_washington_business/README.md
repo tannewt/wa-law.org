@@ -67,7 +67,7 @@
 
 ### [HB 1143](/bill/2025-26/hb/1143/) - College grant award amounts 👍1  
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes.  👎1 
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management  👎1 
 * 👎💵 Peter Godlewski
 
 ### [HB 1155](/bill/2025-26/hb/1155/) - Noncompetition agreements  👎1 
@@ -121,7 +121,7 @@
 
 ### [HB 1297](/bill/2025-26/hb/1297/) - Child support/self-employed  👎1 
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎2 
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice  👎2 
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 

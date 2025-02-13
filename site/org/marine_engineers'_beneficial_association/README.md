@@ -50,7 +50,7 @@
 
 ### [HB 1572](/bill/2025-26/hb/1572/) - Higher ed. accreditation 👍1  
 
-### [HB 1587](/bill/2025-26/hb/1587/) - Encouraging local government partner promise scholarship programs within the opportunity scholarship program. 👍1  
+### [HB 1587](/bill/2025-26/hb/1587/) - Partner promise scholarships 👍1  
 
 ### [HB 1603](/bill/2025-26/hb/1603/) - Medicare supp. coverage 👍1  
 
@@ -110,6 +110,8 @@
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
+### [HB 1864](/bill/2025-26/hb/1864/) - Ambulances/transport options 👍1  
+
 ### [HB 1879](/bill/2025-26/hb/1879/) - Hospital worker breaks 👍1  
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
@@ -121,6 +123,8 @@
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
 
 ### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
+
+### [SB 5112](/bill/2025-26/sb/5112/) - Establishing a prescribing psychologist certification in Washington state. 👍1  
 
 ### [SB 5208](/bill/2025-26/sb/5208/) - Clean energy fund program 👍1  
 
@@ -169,6 +173,8 @@
 ### [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  
 
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍1  
+
+### [SB 5693](/bill/2025-26/sb/5693/) - Teacher residency & apprent.  👎1 
 
 ## [SB 5701](/bill/2025-26/sb/5701/) - Joint labor manage. records 👍1  
 

@@ -11,6 +11,21 @@
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201137)
 
 ## Meetings
+### Mon 02/17 04:00 PM - Appropriations (APP): SHB 1137 DOC discipline
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164192&caId=25907&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164192&caId=25907&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164192&caId=25907&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164192&caId=25907&tId=4)
+
+#### 26 👍 - Pro
+Testifying:
+* Micaela Romero
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/14 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1137 DOC discipline
 #### 612 👍 - Pro
 Testifying:

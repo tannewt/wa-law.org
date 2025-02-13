@@ -13,7 +13,7 @@
 
 ### [HB 1141](/bill/2025-26/hb/1141/) - Ag. cannabis workers  👎1 
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes.  👎1 
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management  👎1 
 
 ### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info  👎1 
 

@@ -13,7 +13,7 @@
 
 ### [HB 1138](/bill/2025-26/hb/1138/) - Improving public safety by implementing evidence-based interview practices that increase the reliability of statements collected during criminal investigations.   ❓1
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review   ❓2
 
@@ -38,11 +38,19 @@
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 * 👍 Bianca Siegl
 
+### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
+
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 
 ### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
 
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
+
+### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
+
+### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
+
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 

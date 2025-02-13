@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163691&caId=25696&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163691&caId=25696&tId=4)
 
-#### 429 👍 - Pro
+#### 489 👍 - Pro
 Testifying:
 * Christian Smith
 * John Caner
@@ -22,7 +22,11 @@ Testifying:
 * Laura Saunders - WaCCRA Washington Continuing Care Residents Association
 * Mary Baroni - WaCCRA Washington Continuing Care Residents Association
 * Monica Clement - WACCRA (Washington Continuing Care Residents Association)
+* Donna Kristaponis - WACCRA
 
 #### 1 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Alyssa Odegaard - LeadingAge Washington
+* Kevin McFeely - Futura Age

@@ -17,16 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163844&caId=25802&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163844&caId=25802&tId=4)
 
-#### 363 👍 - Pro
+#### 415 👍 - Pro
 Testifying:
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
+* 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
 * Ron Davis
 
-#### 1248 👎 - Con
+#### 1429 👎 - Con
 Testifying:
 * Laurie Layne
 * Tim Eyman - Initiative Activist
 * TaraLyn Fray
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
 #### 0 ❓ - Other
 

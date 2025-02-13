@@ -19,13 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163641&caId=25749&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163641&caId=25749&tId=4)
 
-#### 28 👍 - Pro
+#### 40 👍 - Pro
 
-#### 334 👎 - Con
+#### 476 👎 - Con
 Testifying:
 * TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Rose Gundersen - WA Retail Association
 
 ### Tue 01/21 10:30 AM - Labor & Commerce (LC): SB 5101 Worker leave/hate crimes
 #### 42 👍 - Pro

@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32786&aId=163830&caId=25770&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32786&aId=163830&caId=25770&tId=4)
 
-#### 9 👍 - Pro
+#### 98 👍 - Pro
 Testifying:
 * Johnston Lai
 
-#### 285 👎 - Con
+#### 367 👎 - Con
 Testifying:
 * TaraLyn Fray
 

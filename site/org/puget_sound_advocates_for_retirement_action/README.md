@@ -1,7 +1,7 @@
 # Puget Sound Advocates for Retirement Action
 ## 2025-26
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
@@ -23,11 +23,15 @@
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
 * 👍💵 Nancy Sapiro
 
-## [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
+### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
+
+### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption  👎1 
+
+## [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
 
 ## 2023-24
 
-### [SB 5541](/bill/2023-24/sb/5541/) - Future fund pilot project 👍1  
+### [SB 5678](/bill/2023-24/sb/5678/) - Residential landlord-tenant  👎1 
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

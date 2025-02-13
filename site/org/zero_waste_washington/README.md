@@ -9,9 +9,9 @@
 ### [HB 1107](/bill/2025-26/hb/1107/) - Concerning environmental impacts of fashion. 👍1  
 * 👍💵 Heather Trim
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍2  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 
-### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍1  
+### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍2  
 * 👍💵 Heather Trim
 
 ### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products 👍1  
@@ -22,7 +22,7 @@
 ### [HB 1302](/bill/2025-26/hb/1302/) - Utility connection charges 👍1  
 * 👍💵 Heather Trim
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍2  
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍2  
 
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
 

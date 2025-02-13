@@ -13,6 +13,19 @@
 * 01/15/2025 [MyNorthwest](/org/mynorthwest/) - [Law mandates cafés be allowed in all Washington neighborhoods](https://mynorthwest.com/ktth/ktth-opinion/rantz-new-law-brings-small-cafes-to-every-washington-neighborhood-that-wants-one/4028664#:~:text=House%20Bill%201175)
 
 ## Meetings
+### Mon 02/17 04:00 PM - Appropriations (APP): SHB 1175 Small businesses/residential
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164193&caId=25908&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164193&caId=25908&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164193&caId=25908&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164193&caId=25908&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/21 10:30 AM - Local Government (LG): HB 1175 Small businesses/residential
 #### 268 👍 - Pro
 Testifying:

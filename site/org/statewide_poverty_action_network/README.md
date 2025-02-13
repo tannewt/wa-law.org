@@ -50,6 +50,8 @@
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  
+
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  

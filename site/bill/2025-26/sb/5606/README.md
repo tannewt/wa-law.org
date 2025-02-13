@@ -14,10 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163573&caId=25692&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163573&caId=25692&tId=4)
 
-#### 344 👍 - Pro
+#### 361 👍 - Pro
 Testifying:
 * Don Bastian
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

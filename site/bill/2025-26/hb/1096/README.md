@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Wed 02/12 04:00 PM - Appropriations (APP): SHB 1096 Lot splitting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163623&caId=25540&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163623&caId=25540&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163623&caId=25540&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163623&caId=25540&tId=4)
-
-#### 344 👍 - Pro
+#### 353 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * Justin Wood
@@ -32,7 +26,7 @@ Testifying:
 Testifying:
 * Salim Nice - Mayor, City Mercer Island
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Salina Lyons - [City of Covington](/org/city_of_covington/)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

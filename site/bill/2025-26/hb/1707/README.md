@@ -14,15 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163147&caId=25531&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163147&caId=25531&tId=4)
 
-#### 108 👍 - Pro
+#### 142 👍 - Pro
 Testifying:
 * Robert Bower - Four B's Farm
 * Brett Gollehon
 
-#### 30 👎 - Con
+#### 36 👎 - Con
 Testifying:
 * Dylan Mendenhall - chair of Kitsap County Noxious Weed Control Board, but testifying as private citizen
 * Cathy Lucero
+* Allen Evenson
+* Steve Erickson - Frosty Hollow Ecological
 
 #### 2 ❓ - Other
 Testifying:

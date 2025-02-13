@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32717&aId=163885&caId=25785&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32717&aId=163885&caId=25785&tId=4)
 
-#### 245 👍 - Pro
+#### 338 👍 - Pro
 Testifying:
 * Emily Rogers - Washington State Developmental Disabilities Council
 * Marsha Cutting

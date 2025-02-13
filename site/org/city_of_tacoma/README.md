@@ -5,7 +5,7 @@
 
 ### [HB 1116](/bill/2025-26/hb/1116/) - Election day 👍1  
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review   ❓1
 
@@ -24,6 +24,8 @@
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 
 ### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
+
+### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 * 👍 Alex MacBain

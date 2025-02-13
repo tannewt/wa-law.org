@@ -18,6 +18,21 @@
 * 05/18/2000 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/#:~:text=SB%205179)
 
 ## Meetings
+### Mon 02/17 04:00 PM - Ways & Means (WM): SSB 5179 Education complaint process
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=164372&caId=25880&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=164372&caId=25880&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=164372&caId=25880&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=164372&caId=25880&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Amasai Jeke - UTOPIA Washington
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/21 08:00 AM - Early Learning & K-12 Education (EDU): SB 5179 Education complaint process
 #### 365 👍 - Pro
 Testifying:

@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163106&caId=25606&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163106&caId=25606&tId=4)
 
-#### 14 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * David Goldman - City of Oak Harbor
+* Hannah Stone - [City of Bellingham](/org/city_of_bellingham/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 5 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other

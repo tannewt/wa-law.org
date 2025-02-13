@@ -3,7 +3,7 @@
 
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages  👎1 
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎1 
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice  👎1 
 
 ### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings  👎1 
 * 👎💵 Cory Shaw

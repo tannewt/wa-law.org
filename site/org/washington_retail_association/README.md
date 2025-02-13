@@ -28,7 +28,7 @@
 
 ### [HB 1139](/bill/2025-26/hb/1139/) - Unlawful firearm possession 👍1  
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes.   ❓1
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management   ❓1
 * ❓💵 Mark Johnson
 
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase  👎1 

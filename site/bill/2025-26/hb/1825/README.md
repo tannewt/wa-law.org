@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=4)
 
-#### 591 👍 - Pro
+#### 635 👍 - Pro
 Testifying:
 * Matthew Rudolf - As individual, but I am on the Regional Council for NPCA
 * Susan Kane-Ronning - Washington Sierra Club Wildlife Committee
@@ -48,8 +48,15 @@ Testifying:
 * Caitlin Cordell
 * Chris Morgan
 * Nancy Kuta
+* Gordon Congdon
+* Joe Scott - [Conservation Northwest](/org/conservation_northwest/)
+* Susan Kane-Ronning - [Sierra Club](/org/sierra_club/)
+* Chris Servheen
+* Madelyn Hamilton - Methow Valley Citizen's Council
+* Scott Schuyler - Upper Skagit Tribe
+* Jack Oelfke
 
-#### 307 👎 - Con
+#### 484 👎 - Con
 Testifying:
 * Teagan Levine
 * Joe Kondelis - American Bear Foundation

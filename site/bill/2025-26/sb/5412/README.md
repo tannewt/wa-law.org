@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/05 10:30 AM - Early Learning & K-12 Education (EDU): SB 5412 Interfund loans/schools

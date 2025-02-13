@@ -11,6 +11,25 @@
 * 01/30/2025 [The Center Square](/org/the_center_square/) - [From ‘Just Say No’ to ‘Maybe So’? Olympia reconsiders legalizing psychedelics | National | thecentersquare.com](https://www.thecentersquare.com/national/article_1e0683ca-df53-11ef-a4a4-77a2f4145668.html#:~:text=Senate%20Bill%205201)
 
 ## Meetings
+### Tue 02/18 10:30 AM - Labor & Commerce (LC): SB 5201 Psychedelic substances
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164495&caId=25852&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164495&caId=25852&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164495&caId=25852&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164495&caId=25852&tId=4)
+
+#### 0 👍 - Pro
+
+#### 3 👎 - Con
+Testifying:
+* MD, JD, Mason Marks
+* Erin Reading - Port Townsend Psychedelic Society and REACH WA
+* Dr. Heath HOLLENSBE
+
+#### 1 ❓ - Other
+Testifying:
+* Neil Gehani - Mind Lumen
+
 ### Thu 02/06 08:00 AM - Health & Long Term Care (HLTC): SB 5201 Psychedelic substances
 #### 66 👍 - Pro
 Testifying:

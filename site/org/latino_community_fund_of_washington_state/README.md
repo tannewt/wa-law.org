@@ -1,7 +1,7 @@
 # Latino Community Fund of Washington State
 ## 2025-26
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍💵 Jake García
@@ -36,11 +36,15 @@
 
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 
-## [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
+### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
+
+### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption  👎1 
+
+## [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
 
 ## 2023-24
 
-### [SB 5474](/bill/2023-24/sb/5474/) - Organic, etc. agriculture 👍1  
+### [SB 5678](/bill/2023-24/sb/5678/) - Residential landlord-tenant  👎1 
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

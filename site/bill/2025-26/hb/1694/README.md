@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163107&caId=25607&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163107&caId=25607&tId=4)
 
-#### 13 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Ariana Sherlock - Councilmember, City of Newcastle
 * Scott Pingel - City Manager, Newcastle
 
-#### 313 👎 - Con
+#### 448 👎 - Con
 Testifying:
 * TaraLyn Fray
 

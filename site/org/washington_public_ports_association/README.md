@@ -24,7 +24,7 @@
 ### [HB 1302](/bill/2025-26/hb/1302/) - Utility connection charges 👍2  
 * 👍 Eric ffitch
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎2 
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice  👎2 
 * 👎💵 Carly Michiels
 * 👎💵 Carly Michiels
 
@@ -57,6 +57,9 @@
 * 👍 Chris Herman
 
 ### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
+
+### [HB 1906](/bill/2025-26/hb/1906/) - Water system rates   ❓1
+* ❓💵 Carly Michiels
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍 Chris Herman

@@ -13,6 +13,19 @@
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205164)
 
 ## Meetings
+### Mon 02/17 04:00 PM - Ways & Means (WM): SSB 5164 Student navigational support
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163754&caId=25879&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163754&caId=25879&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163754&caId=25879&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163754&caId=25879&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/16 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5164 Student navigational support
 #### 93 👍 - Pro
 Testifying:

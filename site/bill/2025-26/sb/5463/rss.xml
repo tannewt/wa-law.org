@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5463/</link>
 		<description>Updates about SB 5463</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Feb 2025 08:39:41 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -93,6 +93,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Samantha/Grad/2025-02-03 08:39:41</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-11/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

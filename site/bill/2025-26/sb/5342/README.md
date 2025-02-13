@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/17 04:00 PM - Ways & Means (WM): SSB 5342 Legislators/state facilities
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163751&caId=25877&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163751&caId=25877&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163751&caId=25877&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163751&caId=25877&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/28 01:30 PM - Human Services (HS): SB 5342 Legislators/state facilities
 #### 344 👍 - Pro
 Testifying:

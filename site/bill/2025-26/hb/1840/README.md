@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32749&aId=163841&caId=25793&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32749&aId=163841&caId=25793&tId=4)
 
-#### 10 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
+* Satpal Sidhu - Whatcom County Executive
+* Carolina Mejia-Barahona - Commissioner, Thurston County
 * BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 6 👎 - Con
+#### 23 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)

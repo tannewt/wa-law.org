@@ -14,14 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32746&aId=163174&caId=25546&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32746&aId=163174&caId=25546&tId=4)
 
-#### 126 👍 - Pro
+#### 135 👍 - Pro
 Testifying:
 * Chase Buffington - Cispus Outdoor School
 * Manny Ramos - Chief Seattle Council, Scouting America
 * Patty Wood - Mount St Hellens InstItute
 * Roberta McFarland - Washington Schools Principal Association/ Outdoor Schools WA
 * Chase Buffington - Washington Outdoor School Coalition
+* Greg Barker - Washington School Principals' Education Foundation
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

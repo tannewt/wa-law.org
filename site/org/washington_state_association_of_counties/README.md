@@ -1,6 +1,8 @@
 # Washington State Association of Counties
 ## 2025-26
 
+### [HB 1042](/bill/2025-26/hb/1042/) - County treasurer costs 👍1  
+
 ### [HB 1045](/bill/2025-26/hb/1045/) - Uniformed personnel  👎1 
 * 👎💵 Paul Jewell
 
@@ -25,7 +27,7 @@
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals   ❓1
 * ❓💵 Paul Jewell
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes.   ❓1
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management   ❓1
 * ❓💵 Travis Dutton
 
 ### [HB 1158](/bill/2025-26/hb/1158/) - Community inclusion services  👎1 
@@ -55,7 +57,7 @@
 
 ### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.  👎2 
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice  👎2 
 * 👎💵 Kelsey Hulse
 * 👎💵 Kelsey Hulse
 
@@ -123,6 +125,13 @@
 ### [HB 1625](/bill/2025-26/hb/1625/) - Back country search & rescue  👎1 
 * 👎💵 Brad Banks
 
+### [HB 1641](/bill/2025-26/hb/1641/) - Definition of timberland 👍1  
+
+### [HB 1650](/bill/2025-26/hb/1650/) - Airport projects/local REET 👍1  
+
+### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
+* 👍💵 Paul Jewell
+
 ### [HB 1695](/bill/2025-26/hb/1695/) - Unincorporated villages/GMA 👍1  
 * 👍💵 Curtis Steinhauer
 
@@ -134,6 +143,9 @@
 ### [HB 1742](/bill/2025-26/hb/1742/) - Urban design/environment 👍1  
 * 👍💵 Kelsey Hulse
 
+### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
+* 👍💵 Paul Jewell
+
 ### [HB 1818](/bill/2025-26/hb/1818/) - Administration of plats   ❓1
 * ❓💵 Curtis Steinhauer
 
@@ -142,7 +154,8 @@
 
 ### [HB 1854](/bill/2025-26/hb/1854/) - Rural areas/subdivision 👍1  
 
-### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
+### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍2  
+* 👍💵 Paul Jewell
 
 ### [HB 1899](/bill/2025-26/hb/1899/) - Homelessness point-in-time 👍1  
 * 👍💵 Curtis Steinhauer

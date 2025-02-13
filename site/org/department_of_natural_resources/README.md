@@ -9,7 +9,7 @@
 
 ### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface   ❓1
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions.   ❓1
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice   ❓1
 
 ### [HB 1537](/bill/2025-26/hb/1537/) - Roadway safety account use 👍1  
 * 👍 Brody Coval
@@ -23,11 +23,16 @@
 
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
 
+### [HB 1641](/bill/2025-26/hb/1641/) - Definition of timberland 👍1  
+* 👍 Duane Emmons
+
 ### [HB 1646](/bill/2025-26/hb/1646/) - DNR civil enforcement appeal 👍1  
 * 👍 Erika Odem
 
 ### [HB 1647](/bill/2025-26/hb/1647/) - Surface mine reclamation 👍1  
 * 👍 Pat Sullivan
+
+### [HB 1734](/bill/2025-26/hb/1734/) - Outdoor learning grants 👍1  
 
 ### [HB 1758](/bill/2025-26/hb/1758/) - Aquatic land lease inflation 👍1  
 * 👍 Tom Gorman

@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 02/12 01:30 PM - Health Care & Wellness (HCW): HB 1718 Health care prof. well-being
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32711&aId=163193&caId=25617&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32711&aId=163193&caId=25617&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32711&aId=163193&caId=25617&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32711&aId=163193&caId=25617&tId=4)
-
 #### 13 👍 - Pro
 Testifying:
 * Hyolyn Yang

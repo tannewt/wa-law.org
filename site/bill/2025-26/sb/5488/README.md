@@ -15,12 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163740&caId=25757&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163740&caId=25757&tId=4)
 
-#### 59 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * 💵Roxana Gomez - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
 * Kim Justice - Partners for Our Children
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

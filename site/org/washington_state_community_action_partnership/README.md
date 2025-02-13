@@ -1,7 +1,9 @@
 # Washington State Community Action Partnership
 ## 2025-26
 
-### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍3  
+### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
+
+### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍4  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Jeff DeLuca
@@ -17,13 +19,16 @@
 
 ### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
 
-### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍3  
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍4  
 
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings 👍1  
 
 ### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍1  
+
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance   ❓1
+* ❓💵 Linda Garcia
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Jeff DeLuca

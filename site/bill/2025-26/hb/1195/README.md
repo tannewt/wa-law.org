@@ -12,19 +12,14 @@
 
 ## Meetings
 ### Wed 02/12 04:00 PM - Appropriations (APP): SHB 1195 Housing & shelters
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163317&caId=25537&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163317&caId=25537&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163317&caId=25537&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32773&aId=163317&caId=25537&tId=4)
-
-#### 1507 👍 - Pro
+#### 1600 👍 - Pro
 Testifying:
 * Sarah Dickmeyer - Plymouth Housing
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Joe McDermott - State Relations Director | King County
+* 💵Donna Christensen - Catholic Community Services
 
-#### 677 👎 - Con
+#### 687 👎 - Con
 Testifying:
 * Phil Altmeyer
 * Monica Spence

@@ -13,6 +13,19 @@
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205095)
 
 ## Meetings
+### Mon 02/17 04:00 PM - Ways & Means (WM): SSB 5095 School construction debt
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163748&caId=25874&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163748&caId=25874&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163748&caId=25874&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163748&caId=25874&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/16 10:30 AM - Early Learning & K-12 Education (EDU): SB 5095 School construction debt
 #### 37 👍 - Pro
 Testifying:

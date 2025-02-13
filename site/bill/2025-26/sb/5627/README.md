@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32717&aId=163884&caId=25784&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32717&aId=163884&caId=25784&tId=4)
 
-#### 38 👍 - Pro
+#### 54 👍 - Pro
+Testifying:
+* Don Evans - WA 811
+* Nick Massie - Clark County Utility Coordining Council, and Dig Safe Safety Committee Member, and Rotschy Inc,
 
 #### 3 👎 - Con
 

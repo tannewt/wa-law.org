@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sjm/8000/</link>
 		<description>Updates about SJM 8000</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 21:23:02 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -36,6 +36,13 @@
 			<pubDate>Tue, 04 Feb 2025 21:23:02 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SJM%208000</guid>
+		</item>
+		<item>
+			<title>Placed on second reading consent calendar.</title>
+			<description>Placed on second reading consent calendar.</description>
+			<pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-12/Placed on second reading consent calendar.</guid>
 		</item>
 	</channel>
 </rss>

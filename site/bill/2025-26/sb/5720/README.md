@@ -14,12 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32714&aId=163858&caId=25776&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32714&aId=163858&caId=25776&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Raymond Pepe - Uniform Law Commission
+* Donald Maurice
 
 #### 1 👎 - Con
 Testifying:
 * Sam Leonard - NW Consumer Law Center
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* kevin underwood - [Washington Collectors Association](/org/washington_collectors_association/)
+* Julia Kellison - NW Justice Project

@@ -5,7 +5,7 @@
 
 ### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act. 👍1  
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 * 👍💵 Leah Missik
@@ -18,7 +18,7 @@
 
 ### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements 👍1  
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 
@@ -47,6 +47,12 @@
 * 👍💵 Altinay Karasapan
 
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
+
+### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex.   ❓1
+* ❓💵 Leah Missik
+
+### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
+* 👍💵 Leah Missik
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 * 👍💵 Leah Missik

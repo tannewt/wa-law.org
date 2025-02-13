@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163135&caId=25558&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163135&caId=25558&tId=4)
 
-#### 21 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Caleb Banta-Green - University of Washington, School of Medicine, Addictions, Drug & Alcohol Institute (Professor)
 * Cole Meckle - Gather Church (Pastor)
@@ -24,8 +24,9 @@ Testifying:
 * Fabian Pekez - Lake Washington High School
 * Gil Perkins - Lake Washington High School
 * Logan Lee - Lake Washington High School
+* Thea Oliphant-Wells - Public Health - Seattle & King County
 
-#### 319 👎 - Con
+#### 470 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * TaraLyn Fray

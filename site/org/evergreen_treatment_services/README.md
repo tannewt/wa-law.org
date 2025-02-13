@@ -3,7 +3,7 @@
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍1  
 
-### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
+### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍2  
 
 ### [HB 1897](/bill/2025-26/hb/1897/) - Community safety/liability 👍2  
 * 👍 Chloe Gale

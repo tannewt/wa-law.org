@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32709&aId=163898&caId=25811&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32709&aId=163898&caId=25811&tId=4)
 
-#### 92 👍 - Pro
+#### 173 👍 - Pro
 Testifying:
 * 💵Jane Wall - County Road Administration Board
 * Reema Griffith - Wash. State Transportation Commission
@@ -31,9 +31,16 @@ Testifying:
 * 💵Neil Strege - [Washington Roundtable](/org/washington_roundtable/)
 * 💵Kirk Hovenkotter - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * Gary Wirt - [All Aboard Washington](/org/all_aboard_washington/)
+* 💵Jerry Vanderwood - Associated General Contractors (AGC)
+* Mike Ennis - CRH and Washington Asphalt Pavement Association (WAPA)
+* 💵Sheri Call - Washington Trucking Associations (WTA)
+* NICOLE GRANT - IBEW Local 46
+* Carolina Mejia
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Breck Lebegue
 * Ashley Probart - Transportation Improvement Board
 
-#### 7342 👎 - Con
+#### 14151 👎 - Con
 Testifying:
 * GORDON MATTHEWS
 * Jeff Pack - Me
@@ -46,17 +53,30 @@ Testifying:
 * John Peeples
 * Eric Pratt - America
 * Mariya Frost - Kemper Development
+* Gus Tombros - N/A
+* Julien Bouetard
+* Mel Tonasket - Confederated Tribes of the Colville Reservation
+* Jimmy Ranson
+* Tad Sommerville
+* Douglas Patton
+* Barbara Kuehne
 * Kenton Gartrell
+* Joshua Campbell
+* Noah Meehan - Washington State Young Republicans
 * Jerome Jin - None
 * Gabriel Jacobs
 * Jeff McGee
+* Michelle Schilter
 * Rebecca Faust - n/a
 * Charles Pluckhahn
 * Diego Garza
 * Tad Sommerville
+* brian backman - BILL KORUMS PUYALLUP NISSAN
 
-#### 18 ❓ - Other
+#### 36 ❓ - Other
 Testifying:
 * Brock Milliern - Recreation and Conservation Office
 * Joe Kunzler - Citizens for Votes on Taxation
+* Michael Wolfe - [Drive Forward](/org/drive_forward/)
+* 💵Morgan Irwin - AWB
 * 💵Scott Hazlegrove - WA State Auto Dealers Assn

@@ -19,6 +19,8 @@
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev.  👎1 
 * 👎💵 Brandon Houskeeper
 
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
+
 ### [SB 5377](/bill/2025-26/sb/5377/) - Motor vehicle dealers   ❓1
 * ❓ Curt Augustine
 

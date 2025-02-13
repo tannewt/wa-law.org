@@ -198,6 +198,9 @@
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍💵 Carl Schroeder
 
+### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
+* 👍💵 Carl Schroeder
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
 

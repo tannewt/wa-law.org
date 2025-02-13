@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 01/24 08:00 AM - Labor & Commerce (LC): SB 5040 Uniformed personnel

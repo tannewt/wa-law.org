@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163575&caId=25694&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163575&caId=25694&tId=4)
 
-#### 31 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * Myesha Mitchell - My Time For Massage
+* Julia LaBarge
 * 💵Leslie Emerick - American Massage Therapy Association WA Chapter (AMTA-WA)
 * Julie Onofrio - American Massage Therapy Association - WA
+* Christine Hoober - AMTA
 
 #### 0 👎 - Con
 

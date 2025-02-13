@@ -14,14 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32754&aId=163821&caId=25773&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32754&aId=163821&caId=25773&tId=4)
 
-#### 90 👍 - Pro
+#### 179 👍 - Pro
 Testifying:
 * Nichol braboy
 * Matthew Huang
 * Jiadong Gu
+* Adam Eitmann - [Office of the Attorney General](/org/office_of_the_attorney_general/)
+* Reid Saaris
+* Stephan Blanford - [Children's Alliance](/org/children's_alliance/)
+* Laura Marquez-Garrett - The Social Media Victims Law Center
+* Taj Jensen
+* Taku Mineshita - Office of Governor Bob Ferguson
 * Jai Jaisimha - Transparency Coalition.ai
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * 💵Rose Feliciano - TechNet
 * Robert Singleton - Chamber of Progress

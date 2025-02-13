@@ -1,7 +1,7 @@
 # The Recycling Partnership
 ## 2025-26
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 * 👍 Dylan de Thomas
 
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍3  

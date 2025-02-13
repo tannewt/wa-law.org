@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32771&aId=163282&caId=25589&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32771&aId=163282&caId=25589&tId=4)
 
-#### 42 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Lilah Wakefield - LYAC
 * Apoorva Kancharla
@@ -26,8 +26,14 @@ Testifying:
 * Sarah Wen
 * Sarah Albertson - Office of Superintendent of Public Instruction (OSPI)
 * Elizabeth Sadak - Home
+* Georgia Terrell
+* Megan Nilsen
+* Oliver Farivar
+* Yoori Youn
+* Grace Paulsell
+* Ibrahim Karabay
 
-#### 1439 👎 - Con
+#### 1621 👎 - Con
 Testifying:
 * John Axtell
 

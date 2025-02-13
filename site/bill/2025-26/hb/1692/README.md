@@ -8,16 +8,11 @@
 
 ## Meetings
 ### Wed 02/12 01:30 PM - State Government & Tribal Relations (SGOV): HB 1692 Tribes/PRA exemption
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32767&aId=163265&caId=25654&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32767&aId=163265&caId=25654&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32767&aId=163265&caId=25654&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32767&aId=163265&caId=25654&tId=4)
-
-#### 11 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Vicki Lowe - American Indian Health Commission
 * 💵Vicki Lowe - [American Indian Health Commission for Washington State](/org/american_indian_health_commission_for_washington_state/)
+* Vice Chairwoman Loni Greninger - Jamestown S’Klallam Tribe
 
 #### 577 👎 - Con
 Testifying:

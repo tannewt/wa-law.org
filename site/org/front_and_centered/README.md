@@ -1,14 +1,14 @@
 # Front and Centered
 ## 2025-26
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Guillermo Rogel
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍3  
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍3  
 * 👍💵 Guillermo Rogel
 * 👍 Nico Wedekind
 
@@ -22,7 +22,9 @@
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth 👍3  
 * 👍💵 Guillermo Rogel
 
-### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍3  
+* 👍 Cameron Steinback
+* 👍💵 Guillermo Rogel
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 

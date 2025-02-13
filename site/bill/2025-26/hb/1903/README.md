@@ -17,13 +17,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163737&caId=25795&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163737&caId=25795&tId=4)
 
-#### 269 👍 - Pro
+#### 458 👍 - Pro
 Testifying:
 * Daniel Fagerlie - Ferry PUD
 * Adán Espino Jr - Franklin Public Utility District
 * Victor Fuentes - Franklin Public Utility District
 * 💵Logan Bahr - Tacoma Public Utilities/Tacoma Power
+* Denise Wells - Metropolitan Development Council
+* 💵Nicolas Garcia - WPUDA
+* Jessica McCarthy - Okanogan PUD
+* Soumya Keefe - On behalf of NW Energy Coalition
+* Cameron Steinback - [Front and Centered](/org/front_and_centered/)
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* Sahar Al Alarasi - Mother Africa
 
-#### 323 👎 - Con
+#### 427 👎 - Con
 
-#### 3 ❓ - Other
+#### 12 ❓ - Other
+Testifying:
+* 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
+* Austin Scharff - Washington State Department of Commerce
+* Dave Pringle - Washington State Department of Commerce

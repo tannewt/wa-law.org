@@ -11,6 +11,9 @@
 
 ### [HB 1382](/bill/2025-26/hb/1382/) - All payers claim database 👍2  
 
+### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program   ❓1
+* ❓ Sam Hatzenbeler
+
 ### [HB 1626](/bill/2025-26/hb/1626/) - PFML grants/school districts  👎1 
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  

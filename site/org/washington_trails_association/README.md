@@ -1,7 +1,9 @@
 # Washington Trails Association
 ## 2025-26
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
+
+### [HB 1734](/bill/2025-26/hb/1734/) - Outdoor learning grants 👍1  
 
 ## [SB 5390](/bill/2025-26/sb/5390/) - Discover pass, day-use cost 👍1  
 * 👍 Michael DeCramer

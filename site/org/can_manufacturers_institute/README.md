@@ -1,7 +1,7 @@
 # Can Manufacturers Institute
 ## 2025-26
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍2  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 * 👍 Michael Smaha
 * 👍 Michael Smaha
 

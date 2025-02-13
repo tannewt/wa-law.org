@@ -10,3 +10,15 @@
 * 01/23/2025 [The Center Square](/org/the_center_square/) - [Democrats propose raising tobacco taxes, creating new ones in search of revenue | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6f1ff232-d9d6-11ef-b05d-8bbc2efa5d73.html#:~:text=House%20Bill%201416)
 
 ## Meetings
+### Thu 02/20 01:30 PM - Finance (FIN): HB 1416 Tobacco & vapor products tax
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163934&caId=25938&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163934&caId=25938&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163934&caId=25938&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163934&caId=25938&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other

@@ -4,6 +4,8 @@
 ### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
 * 👍 Charlie Brown
 
+### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍1  
+
 ### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
 
 ### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍1  

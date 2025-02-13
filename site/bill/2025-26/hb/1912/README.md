@@ -14,15 +14,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163896&caId=25796&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163896&caId=25796&tId=4)
 
-#### 20 👍 - Pro
+#### 200 👍 - Pro
 Testifying:
 * 💵Mark Streuli - WA Potato and Onion Assoc -WA Assoc of Wheat Growers - WA Cattlemen Assoc
 * Ben Buchholz - NW Agricultural Cooperative Council
 * 💵David Ducharme - Washington State Tree Fruit Association
+* 💵Kate Brouns - Governor Ferguson's Policy Office
 * Jay Gordon - Washington State Dairy Federation
 
-#### 1 👎 - Con
-
-#### 1 ❓ - Other
+#### 22 👎 - Con
 Testifying:
+* Carson Williquette - Wilcox & Flegel
+* 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
+* Laura Yellig - PetroCard
+* Marcus Mosley - Co-Energy
+
+#### 6 ❓ - Other
+Testifying:
+* 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵David Mendoza - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Isaac Kastama - Clean & Prosperous Washington
+* Joel Creswell - Washington State Department of Ecology
 * 💵Breanne Elsey - WA Farm Bureau

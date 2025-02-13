@@ -14,7 +14,7 @@
 
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 
-### [HB 1587](/bill/2025-26/hb/1587/) - Encouraging local government partner promise scholarship programs within the opportunity scholarship program. 👍1  
+### [HB 1587](/bill/2025-26/hb/1587/) - Partner promise scholarships 👍1  
 * 👍 Ben Mitchell
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  

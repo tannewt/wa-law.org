@@ -5,7 +5,7 @@
 * 👍💵 Natalie Hester
 * 👍 Wendy Weiker
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1 👎4 
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1 👎4 
 
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
 

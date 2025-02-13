@@ -21,7 +21,7 @@ Testifying:
 * Kathryn Cox
 * Shreyansh Padhy
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
 #### 3 ❓ - Other
 Testifying:

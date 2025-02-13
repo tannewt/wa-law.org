@@ -14,8 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32783&aId=163711&caId=25767&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32783&aId=163711&caId=25767&tId=4)
 
-#### 21 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
+* Paul Jarkiewicz - [Port of Port Angeles](/org/port_of_port_angeles/)
 * Sr., Timothy Greene - Makah Tribal Council
 * Cassie Hammond - Port of Benton
 

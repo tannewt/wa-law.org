@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/06/2025 [KIRO7](/org/kiro7/) - [Washington bill takes aim at corporate homebuyers, trys to level playing field for families – KIRO 7 News Seattle](https://www.kiro7.com/news/local/washington-bill-takes-aim-corporate-homebuyers-trys-level-playing-field-families/VQHVUSP4UVALHDYHBRVNHSHMGU/#:~:text=Senate%20Bill%205496)

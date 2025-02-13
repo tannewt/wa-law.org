@@ -3,7 +3,7 @@
 
 ### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal 👍1  
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 

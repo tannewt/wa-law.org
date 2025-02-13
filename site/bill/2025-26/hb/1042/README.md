@@ -14,21 +14,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163108&caId=25608&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163108&caId=25608&tId=4)
 
-#### 19 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * 💵Jennifer Wallace - WA Association of County Officials
 * Alishia Topper - Clark County Treasurer
 * Jeff Gadman - Thurston County Treasurer & President, WA Association of County Treasurers
 * 💵Jennifer Wallace - WA Association of County Officials
 
-#### 339 👎 - Con
+#### 466 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Jeff Faucett - Washington Fire Chiefs
 * Charlie Brown - Schools Alliance
 * Kristan Maurer - Clark County Fire District 6, Fire Chief
 * TaraLyn Fray
+* Kyle Cox - [Public Libraries of Washington](/org/public_libraries_of_washington/)
 * David Ellingson - Washington Fire Commissioners Association, Kitsap County Fire Commissioners Associaton
 * 💵Matthew Ellsworth - [Association of Washington Public Hospital Districts](/org/association_of_washington_public_hospital_districts/)
+* Michael McConnell - Snohomish Regional Fire & Rescue
 
 #### 0 ❓ - Other

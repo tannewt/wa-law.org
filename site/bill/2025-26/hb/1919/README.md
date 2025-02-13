@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Wed 02/12 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1919 Working conn. child care
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32763&aId=163808&caId=25807&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32763&aId=163808&caId=25807&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32763&aId=163808&caId=25807&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32763&aId=163808&caId=25807&tId=4)
-
 #### 2 👍 - Pro
 Testifying:
 * Mary Sprute Garlant - Governor's Office

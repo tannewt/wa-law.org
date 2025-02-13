@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32754&aId=163767&caId=25772&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32754&aId=163767&caId=25772&tId=4)
 
-#### 48 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Darrin Raines - Greater Grays Harbor, Inc. (ADO for Grays Harbor County)
 * Jennie Dickinson - Port of Columbia (ADO for Columbia County)
@@ -22,6 +22,7 @@ Testifying:
 * Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
 * Vaughn Taylor - Seattle Metropolitan Chamber of Commerce (ADO for King County)
 * Vaughn Taylor - Seattle Metropolitan Chamber of Commerce
+* 💵Lynnette Buffington - Seattle Metro Chamber
 
 #### 0 👎 - Con
 

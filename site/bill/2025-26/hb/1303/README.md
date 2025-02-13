@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1303](/bill/2025-26/hb/1303/)
 
-# HB 1303 - Increasing environmental justice by improving government decisions.
+# HB 1303 - Environmental justice
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1303&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201303)

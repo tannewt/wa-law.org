@@ -39,7 +39,7 @@
 ### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface 👍2  
 * 👍💵 Bryce Yadon
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
 
 ### [HB 1345](/bill/2025-26/hb/1345/) - Detached ADU limits   ❓1
 * ❓💵 Bryce Yadon

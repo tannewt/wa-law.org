@@ -14,12 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163321&caId=25542&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163321&caId=25542&tId=4)
 
-#### 198 👍 - Pro
+#### 212 👍 - Pro
 Testifying:
 * Reilly Dever
+* Douglas Seiler - TRA Medical Imaging
 
-#### 13 👎 - Con
+#### 72 👎 - Con
 Testifying:
+* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
 * Mike Ennis - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Jim Freeburg - Patient Coalition of Washington

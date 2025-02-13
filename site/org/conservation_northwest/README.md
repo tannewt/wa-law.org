@@ -4,11 +4,11 @@
 ### [HB 1048](/bill/2025-26/hb/1048/) - Rangeland fire pilot 👍1  
 * 👍 Jay Kehne
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council.   ❓1
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
 
 ### [HB 1311](/bill/2025-26/hb/1311/) - Gray wolves 👍1  
 * 👍💵 Paula Swedeen
@@ -26,6 +26,9 @@
 * 👍💵 Nadine Nadow
 
 ### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
+
+### [HB 1825](/bill/2025-26/hb/1825/) - Grizzly bear management 👍1  
+* 👍 Joe Scott
 
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
 

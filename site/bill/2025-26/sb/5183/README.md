@@ -17,13 +17,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163576&caId=25695&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163576&caId=25695&tId=4)
 
-#### 82 👍 - Pro
+#### 99 👍 - Pro
 Testifying:
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 * Kadince Matteson - Cle Elum High School Prevention Club
 * Phillip Gardiner - African American Tobacco Control Leadership Council
+* Mykah Robertson - Student
+* Onya Robertson - Parent
+* 💵Roz Thompson - Association of Washington School Principals (ASWP)
+* Mohammad Shidane - Somali Health Board
+* Ruchi Kapoor - American Heart Assoc
+* Jonathon Bricker - Fred Hutch Cancer Center
+* Carol Coram - ACSCAN
+* 💵Kelsey Beck - Kaiser
 
-#### 99 👎 - Con
+#### 114 👎 - Con
 Testifying:
 * 💵Sara Stewart - Washington Smoke Free Association
 * Tom Eshleman - Doyles Sheehan

@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32745&aId=163852&caId=25780&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32745&aId=163852&caId=25780&tId=4)
 
-#### 5 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Anthony Hemstad - Washington Housing Development, LLC
+* Heidi Dudley-Nollette - Commissioner, Jefferson County
 * BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 0 👎 - Con

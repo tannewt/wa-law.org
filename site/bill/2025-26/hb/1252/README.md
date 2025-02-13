@@ -21,15 +21,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163324&caId=25560&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163324&caId=25560&tId=4)
 
-#### 111 👍 - Pro
+#### 191 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Jon Schuldt - Chief, City of Renton Police Department
+* Derek Sanders - Thurston County Sheriff's Office
+* Andy McCurdy - Sumner Police Department
+* Teddy Chow - Okanogan County Prosecuting Attorney's Office
+* Beth McIntyre
 
-#### 10 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Ashli McVey
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+* 💵Jazmyn Clark - ACLU-WA
 
 #### 1 ❓ - Other
 Testifying:

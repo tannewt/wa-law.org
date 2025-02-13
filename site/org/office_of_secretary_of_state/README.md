@@ -25,8 +25,9 @@
 ### [HB 1223](/bill/2025-26/hb/1223/) - Voter challenges   ❓1
 * ❓ Brian Hatfield
 
-### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections  👎1 
+### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections  👎2 
 * 👎 Steve Hobbs
+* 👎 Brian Hatfield
 
 ### [HB 1361](/bill/2025-26/hb/1361/) - Process service 👍2  
 * 👍 Constance Parbon
@@ -67,7 +68,7 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Steve Hobbs
 
-### [SB 5225](/bill/2025-26/sb/5225/) - Candidate filing   ❓1
+### [SB 5225](/bill/2025-26/sb/5225/) - Candidates w/ similar names   ❓1
 * ❓ Brian Hatfield
 
 ## [SB 5684](/bill/2025-26/sb/5684/) - Electioneering/auditors 👍1  

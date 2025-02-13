@@ -18,9 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163739&caId=25756&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163739&caId=25756&tId=4)
 
-#### 51 👍 - Pro
+#### 59 👍 - Pro
+Testifying:
+* Liz Trautman - Stand for Children Washington
+* Kelli Robinson - Our Sister's House
+* Linnea Anderson - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
 
-#### 7 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * Eric Pratt - America
 

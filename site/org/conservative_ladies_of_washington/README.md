@@ -65,6 +65,9 @@
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success. 👍2  
 
+### [HB 1876](/bill/2025-26/hb/1876/) - Death with dignity act  👎1 
+* 👎 Mary Long
+
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace  👎2 
 * 👎 Mary Long
 

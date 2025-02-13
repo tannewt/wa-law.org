@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/12 01:30 PM - Consumer Protection & Business (CPB): HB 1645 Automobile insurance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32724&aId=163504&caId=25566&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32724&aId=163504&caId=25566&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32724&aId=163504&caId=25566&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32724&aId=163504&caId=25566&tId=4)
-
-#### 19 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * Jeff Butler - Collision Consulting of Washington
 * Justin Lewis - Washington Independent Collision Repair Association
@@ -36,6 +30,6 @@ Testifying:
 * Kris Tefft - [American Property Casualty Insurance Association](/org/american_property_casualty_insurance_association/)
 * 💵Brandon Vick - National Association of Mutual Insurance Companies (NAMIC)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Roger Thomason

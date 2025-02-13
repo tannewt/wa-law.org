@@ -14,12 +14,6 @@
 
 ## Meetings
 ### Wed 02/12 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1363 Child care licensing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32763&aId=163241&caId=25577&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32763&aId=163241&caId=25577&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32763&aId=163241&caId=25577&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32763&aId=163241&caId=25577&tId=4)
-
 #### 202 👍 - Pro
 
 #### 39 👎 - Con

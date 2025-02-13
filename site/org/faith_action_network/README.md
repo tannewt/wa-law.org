@@ -8,7 +8,7 @@
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
 
@@ -16,7 +16,7 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍7  
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Increasing environmental justice by improving government decisions. 👍1  
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍4  
 

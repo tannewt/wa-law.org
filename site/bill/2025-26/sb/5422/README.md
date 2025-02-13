@@ -10,6 +10,19 @@
 * 02/06/2025 [Senate Democrats](/org/senate_democrats/) - [Public employees could collectively bargain over AI use under new Bateman legislation - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/02/05/public-employees-could-collectively-bargain-over-ai-use-under-new-bateman-legislation/#:~:text=New%20legislation)
 
 ## Meetings
+### Mon 02/17 10:30 AM - Labor & Commerce (LC): SB 5422 Collective bargaining/AI use
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32830&aId=164003&caId=25846&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32830&aId=164003&caId=25846&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32830&aId=164003&caId=25846&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32830&aId=164003&caId=25846&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/11 10:30 AM - Labor & Commerce (LC): SB 5422 Collective bargaining/AI use
 #### 3 👍 - Pro
 

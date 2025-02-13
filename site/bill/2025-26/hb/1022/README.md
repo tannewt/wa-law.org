@@ -14,6 +14,19 @@
 * [House Republicans](/org/house_republicans/) - [Lower Costs | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/lower-costs/#:~:text=House%20Bill%201022)
 
 ## Meetings
+### Thu 02/20 01:30 PM - Capital Budget (CB): SHB 1022 Homes for heroes program
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164351&caId=25915&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164351&caId=25915&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164351&caId=25915&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164351&caId=25915&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/14 04:00 PM - Housing (HOUS): HB 1022 Homes for heroes program
 #### 62 👍 - Pro
 Testifying:

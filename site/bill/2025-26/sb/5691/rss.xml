@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5691/</link>
 		<description>Updates about SB 5691</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 12:57:59 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 09:11:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2025-02-06/First reading, referred to Health &amp; Long-Term Care (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
-			<title>👍Christian Smith - Axela Technologies</title>
+			<title>👍Christian Smith - Mediator, The Bean Law Firm PLLC</title>
 			<description>Christian Smith signed up to testify Pro.</description>
 			<pubDate>Thu, 06 Feb 2025 05:49:34 GMT</pubDate>
 			<category>testifier</category>
@@ -24,7 +24,7 @@
 			<guid isPermaLink="false">testifier/Christian/Smith/2025-02-06 05:49:34</guid>
 		</item>
 		<item>
-			<title>👍John Caner - Axela Technologies</title>
+			<title>👍John Caner - Mediator, The Bean Law Firm PLLC</title>
 			<description>John Caner signed up to testify Pro.</description>
 			<pubDate>Thu, 06 Feb 2025 06:46:04 GMT</pubDate>
 			<category>testifier</category>
@@ -62,6 +62,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Monica/Clement/2025-02-07 12:57:59</guid>
+		</item>
+		<item>
+			<title>❓💵Alyssa Odegaard - LeadingAge Washington</title>
+			<description>Alyssa Odegaard signed up to testify Other. They are signed up to represent LeadingAge Washington. They are a registered lobbyist.</description>
+			<pubDate>Wed, 12 Feb 2025 05:20:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Alyssa/Odegaard/2025-02-12 05:20:44</guid>
+		</item>
+		<item>
+			<title>❓Kevin McFeely - Futura Age</title>
+			<description>Kevin McFeely signed up to testify Other. They are signed up to represent Futura Age.</description>
+			<pubDate>Wed, 12 Feb 2025 05:20:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Kevin/McFeely/2025-02-12 05:20:44</guid>
+		</item>
+		<item>
+			<title>👍Donna Kristaponis - WACCRA</title>
+			<description>Donna Kristaponis signed up to testify Pro. They are signed up to represent WACCRA.</description>
+			<pubDate>Wed, 12 Feb 2025 09:11:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Donna/Kristaponis/2025-02-12 09:11:32</guid>
 		</item>
 	</channel>
 </rss>

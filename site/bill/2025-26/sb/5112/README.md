@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163571&caId=25690&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163571&caId=25690&tId=4)
 
-#### 1318 👍 - Pro
+#### 1386 👍 - Pro
 Testifying:
 * Erick Clodfelter - 2211 South Star Lake rd
 * Erick Clodfelter - 2211 South Star Lake Road
@@ -37,9 +37,11 @@ Testifying:
 * Dr. Phillip Hughes
 * Dr. Jaime Wilson
 * Dr. Keith Petersen
+* Braden Greer
+* Jim Freeburg - Patient Coalition of Washington
 * Shantaa Watkins
 
-#### 487 👎 - Con
+#### 656 👎 - Con
 Testifying:
 * Victoria Harris MD
 * Neeru Bakshi
@@ -66,5 +68,11 @@ Testifying:
 * Dr. Robin Berger - Washington State Psychiatric Association (WSPA)
 * Katie Kolan - Washington State Psychiatric Association (WSPA)
 * Rebecca Allen
+* Steven Pearce - Citizens Commission on Human Rights
+* Kelania Jimenez - WSPA
+* Dean McKay - Fordham University
+* Jane Phelps-Tschang
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Sherry Thomas - Washington State Department of Health

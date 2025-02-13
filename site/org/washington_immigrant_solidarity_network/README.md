@@ -62,11 +62,15 @@
 
 ### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate 👍1  
 
-## [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
+### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
+
+### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption  👎1 
+
+## [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
 
 ## 2023-24
 
-### [SB 5654](/bill/2023-24/sb/5654/) - Student restraint, isolation 👍1  
+### [SB 5678](/bill/2023-24/sb/5678/) - Residential landlord-tenant  👎1 
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 

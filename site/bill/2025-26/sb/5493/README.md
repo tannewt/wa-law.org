@@ -19,11 +19,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163722&caId=25753&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163722&caId=25753&tId=4)
 
-#### 21 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Steve Fenberg - Patient Rights Advocate
+* Kevin Morra - Power to the Patients
 * David Koenig - Retired Public Employees Council of WA
 
 #### 30 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Patricia Simmons
+* Patrick Neville
+* 💵Lisa Thatcher - Washington State Hospital Association

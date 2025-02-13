@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 01/15 08:00 AM - Human Services (HS): SB 5052 Law enf. juvenile contact

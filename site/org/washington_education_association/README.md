@@ -51,7 +51,7 @@
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Improving Washington's solid waste management outcomes. 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
 ### [HB 1161](/bill/2025-26/hb/1161/) - Veteran employability 👍1  
 
@@ -248,6 +248,8 @@
 ### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍1  
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
+
+### [HB 1817](/bill/2025-26/hb/1817/) - Schools/sexual assault 👍1  
 
 ### [HB 1822](/bill/2025-26/hb/1822/) - Establishing a driver work zone and first responder safety course requirement. 👍1  
 
@@ -507,11 +509,16 @@
 
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍1  
 
-## [SB 5658](/bill/2025-26/sb/5658/) - Workforce education account 👍1  
+### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation   ❓1
+* ❓ Jared Mason-Gere
+
+### [SB 5658](/bill/2025-26/sb/5658/) - Workforce education account 👍1  
+
+## [SB 5666](/bill/2025-26/sb/5666/) - Mental health internships 👍1  
 
 ## 2023-24
 
-### [SB 5658](/bill/2023-24/sb/5658/) - Workforce education account 👍1  
+### [SB 5666](/bill/2023-24/sb/5666/) - Mental health internships 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 

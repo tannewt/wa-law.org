@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163679&caId=25609&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163679&caId=25609&tId=4)
 
-#### 195 👍 - Pro
+#### 247 👍 - Pro
 Testifying:
 * Nancy DeVaux
 * Paul Schissler - Madrona Community Development spc
@@ -29,11 +29,17 @@ Testifying:
 * Arjan Singh
 * Joseph Joshy
 * Yusuf Bodiat
+* Hannah Stone - [City of Bellingham](/org/city_of_bellingham/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Jonathan Scanlon - Whatcom County
+* Lisa Janicki - Commissioner, Skagit County
+* Lisa Janicki - Commissioner, Skagit County
 * Sarah Dickmeyer - Plymouth Housing
 
-#### 128 👎 - Con
+#### 194 👎 - Con
 Testifying:
 * Matthew Huang
+* Tad Sommerville
 
 #### 1 ❓ - Other
 Testifying:

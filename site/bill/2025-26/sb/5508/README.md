@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/11/2025 [Senate Democrats](/org/senate_democrats/) - [Progress and priorities this session - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/02/11/progress-and-priorities-this-session/#:~:text=SB%205508)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5570/</link>
 		<description>Updates about SB 5570</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -171,6 +171,13 @@
 			<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-11/And refer to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-12/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>
