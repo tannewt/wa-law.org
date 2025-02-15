@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/13/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting the rights of every Washingtonian - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/02/12/protecting-the-rights-of-every-washingtonian/#:~:text=SB%205093)
+
 ## Meetings
 ### Mon 01/20 10:30 AM - Law & Justice (LAW): SB 5093 Pregnancy loss
 #### 283 👍 - Pro

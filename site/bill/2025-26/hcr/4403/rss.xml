@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>HCR 4403 - Joel Pritchard State Library</title>
+		<link>https://wa-law.org/bill/2025-26/hcr/4403/</link>
+		<description>Updates about HCR 4403</description>
+		<language>en-US</language>
+		<lastBuildDate>Fri, 14 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<generator>rfeed v1.1.1</generator>
+		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>First reading, referred to State Government &amp; Tribal Relations.</title>
+			<description>First reading, referred to State Government &amp; Tribal Relations.</description>
+			<pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-27/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>SGOV - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>SGOV - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-12/SGOV - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Capital Budget.</title>
+			<description>Referred to Capital Budget.</description>
+			<pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-14/Referred to Capital Budget.</guid>
+		</item>
+	</channel>
+</rss>

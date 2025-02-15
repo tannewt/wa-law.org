@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1490/</link>
 		<description>Updates about HB 1490</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 02:00:53 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Megan/DeSmet/2025-02-04 02:00:53</guid>
+		</item>
+		<item>
+			<title>ELHS - Executive action taken by committee.</title>
+			<description>ELHS - Executive action taken by committee.</description>
+			<pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-14/ELHS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

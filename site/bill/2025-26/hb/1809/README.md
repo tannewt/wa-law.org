@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 02/14 08:00 AM - Health Care & Wellness (HCW): HB 1809 Behavioral health response
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163197&caId=25621&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163197&caId=25621&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163197&caId=25621&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163197&caId=25621&tId=4)
-
-#### 45 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * Kimberly Hendrickson - University of Washington, BHCore Center
 * Shaun Ford - Washington Fire Chief's Association
@@ -24,9 +18,15 @@ Testifying:
 * James Aguirre
 * Keith Sharp - South Snohomish County Regional Fire Authority
 * Cody Maine - Walla Walla Fire Department
+* Tyler Gage - Port Angeles Fire Department
+* Alexis Orndorf
+* Michael Hilley - Whatcom Co. EMS
+* Michael Hilley - Whatcom Co. EMS
+* Nicole Picknell - South County Fire
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Mike Battis - WA Ambulance Association
+* Julia O'Connor - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)

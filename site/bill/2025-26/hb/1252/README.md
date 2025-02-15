@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Thu 02/13 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1252 Pretrial release
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163324&caId=25560&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163324&caId=25560&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163324&caId=25560&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163324&caId=25560&tId=4)
-
-#### 191 👍 - Pro
+#### 223 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Jon Schuldt - Chief, City of Renton Police Department
@@ -29,8 +23,9 @@ Testifying:
 * Andy McCurdy - Sumner Police Department
 * Teddy Chow - Okanogan County Prosecuting Attorney's Office
 * Beth McIntyre
+* Arthur West
 
-#### 15 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * Ashli McVey
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers

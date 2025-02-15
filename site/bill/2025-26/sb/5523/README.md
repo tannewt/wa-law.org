@@ -10,7 +10,7 @@
 ### Mon 02/03 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5523 Higher ed. gov./students
 #### 63 👍 - Pro
 Testifying:
-* Sean Behl - [Washington Student Association](/org/washington_student_association/)
+* 💵Sean Behl - [Washington Student Association](/org/washington_student_association/)
 * Heba Qatrani - [Washington Student Association](/org/washington_student_association/)
 * Daniel Ngoy - Bellevue College
 * Kellen Hoard - Youth on Boards

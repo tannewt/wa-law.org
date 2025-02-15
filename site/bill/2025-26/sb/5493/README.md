@@ -13,19 +13,13 @@
 
 ## Meetings
 ### Thu 02/13 08:00 AM - Health & Long Term Care (HLTC): SB 5493 Hospital price transparency
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163722&caId=25753&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163722&caId=25753&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163722&caId=25753&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32790&aId=163722&caId=25753&tId=4)
-
-#### 26 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * Steve Fenberg - Patient Rights Advocate
 * Kevin Morra - Power to the Patients
 * David Koenig - Retired Public Employees Council of WA
 
-#### 30 👎 - Con
+#### 31 👎 - Con
 
 #### 3 ❓ - Other
 Testifying:

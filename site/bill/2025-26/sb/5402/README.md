@@ -34,7 +34,7 @@ Testifying:
 * Eon Hu - Olympic College
 * Aniya Clark - Olympic College
 * Taylee Owensby - Olympic college
-* Sean Behl - Associated Students of the University of Washington and the Washington Student Association
+* 💵Sean Behl - Associated Students of the University of Washington and the Washington Student Association
 * Alec Acosta-Vega - CWU-Student
 * Mahmood Alkhazraji - cwu student LD13
 * Diego Gonzalez

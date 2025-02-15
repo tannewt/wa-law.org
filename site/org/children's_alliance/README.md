@@ -7,7 +7,10 @@
 
 ### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍1  
 
-### [HB 1834](/bill/2025-26/hb/1834/) - Protecting Washington children online. 👍1  
+### [HB 1834](/bill/2025-26/hb/1834/) - Protecting Washington children online. 👍2  
+* 👍 Stephan Blanford
+
+### [HB 1876](/bill/2025-26/hb/1876/) - Death with dignity act 👍1  
 
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  
 

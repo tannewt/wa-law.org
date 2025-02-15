@@ -57,6 +57,9 @@
 * 👍 Steve Hobbs
 * 👍 Stuart Holmes
 
+### [SB 5050](/bill/2025-26/sb/5050/) - Presidential primary privacy   ❓1
+* ❓ Brian Hatfield
+
 ### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍3  
 * 👍 Steve Hobbs
 * 👍 Brian Hatfield

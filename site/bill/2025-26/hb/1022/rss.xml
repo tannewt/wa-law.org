@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1022/</link>
 		<description>Updates about HB 1022</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 17:05:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Feb 2025 15:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -102,6 +102,21 @@
 			<pubDate>Mon, 20 Jan 2025 17:05:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_0f39046c-d783-11ef-bd79-ef6157cd1187.html#:~:text=House%20Bill%201022</guid>
+		</item>
+		<item>
+			<title>👍James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Pro. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Thu, 13 Feb 2025 09:09:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2025-02-13 09:09:44</guid>
+		</item>
+		<item>
+			<title>Washington Housing Bills to Watch in 2025  | Sightline Institute</title>
+			<description>News article "Washington Housing Bills to Watch in 2025  | Sightline Institute" from Sightline Institute.</description>
+			<pubDate>Thu, 13 Feb 2025 15:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201022</guid>
 		</item>
 	</channel>
 </rss>

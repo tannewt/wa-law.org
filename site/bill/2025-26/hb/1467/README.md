@@ -16,6 +16,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Emmett Mills - Washington State School Retirees' Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Luke Masselink - OSA - available for questions

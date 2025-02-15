@@ -20,9 +20,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163748&caId=25874&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163748&caId=25874&tId=4)
 
-#### 0 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Barbara Posthumus - Lake Washington School District
+* 💵Grace Yuan - [School Alliance](/org/school_alliance/)
+* Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* John Axtell
 
 #### 0 ❓ - Other
 

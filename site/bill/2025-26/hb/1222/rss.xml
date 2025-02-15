@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1222/</link>
 		<description>Updates about HB 1222</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -72,6 +72,27 @@
 			<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-11/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 73; nays, 21; absent, 0; excused, 4.</title>
+			<description>Third reading, passed; yeas, 73; nays, 21; absent, 0; excused, 4.</description>
+			<pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-13/Third reading, passed; yeas, 73; nays, 21; absent, 0; excused, 4.</guid>
+		</item>
+		<item>
+			<title>Stearns Bill Protects Against Disclosure of Sensitive Information at WA’s Gambling Commission  – Washington State House Democrats</title>
+			<description>News article "Stearns Bill Protects Against Disclosure of Sensitive Information at WA’s Gambling Commission  – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/13/stearns-bill-protects-against-disclosure-of-sensitive-information-at-was-gambling-commission/#:~:text=HB%201222</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government, Tribal Affairs &amp; Elections (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to State Government, Tribal Affairs &amp; Elections (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-14/First reading, referred to State Government, Tribal Affairs &amp; Elections (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

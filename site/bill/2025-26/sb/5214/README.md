@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/14/2025 [Senate Democrats](/org/senate_democrats/) - [Shewmake Bill To Expand Nutrition Access, Establish Mobile Farmers Market Program Passes Senate - Sen. Sharon Shewmake](https://senatedemocrats.wa.gov/shewmake/2025/02/13/shewmake-bill-to-expand-nutrition-access-establish-mobile-farmers-market-program-passes-senate/#:~:text=Senate%20Bill%205214)
+
 ## Meetings
 ### Wed 01/15 08:00 AM - Human Services (HS): SB 5214 Mobile market programs
 #### 6 👍 - Pro

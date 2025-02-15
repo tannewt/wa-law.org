@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1832/</link>
 		<description>Updates about HB 1832</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 23 Dec 2024 15:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Feb 2025 13:49:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -590,6 +590,13 @@
 			<pubDate>Mon, 23 Dec 2024 15:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.theurbanist.org/2024/12/23/state-transportation-budget-is-in-deep-trouble/#:~:text=bill%20implementing%20a%20voluntary%20RUC</guid>
+		</item>
+		<item>
+			<title>KUOW - Washington state drivers could be charged per mile under proposed bill</title>
+			<description>News article "KUOW - Washington state drivers could be charged per mile under proposed bill" from KUOW.</description>
+			<pubDate>Thu, 13 Feb 2025 13:49:12 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/washington-road-usage-charge-hb-1921#:~:text=similar%20proposal</guid>
 		</item>
 	</channel>
 </rss>

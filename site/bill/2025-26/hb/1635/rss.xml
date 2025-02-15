@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1635/</link>
 		<description>Updates about HB 1635</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 06:31:36 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Feb 2025 15:01:39 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -77,6 +77,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Dustin/Lambro/2025-02-11 06:31:36</guid>
+		</item>
+		<item>
+			<title>KUOW - 'Green vest’ workers fight for union representation on REI board</title>
+			<description>News article "KUOW - 'Green vest’ workers fight for union representation on REI board" from KUOW.</description>
+			<pubDate>Thu, 13 Feb 2025 15:01:39 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/green-vest-workers-fight-for-union-representation-on-rei-board#:~:text=House%20Bill%201635</guid>
 		</item>
 	</channel>
 </rss>

@@ -1,6 +1,9 @@
 # Northwest Consumer Law Center
 ## 2025-26
 
+### [HB 1464](/bill/2025-26/hb/1464/) - Home equity sharing  👎1 
+* 👎 Amanda Martin
+
 ### [HB 1530](/bill/2025-26/hb/1530/) - Reg. businesses/card fees  👎1 
 * 👎 Christina Henry
 

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201160)
+
 ## Meetings
 ### Wed 01/29 08:00 AM - Local Government (LG): HB 1160 Local gov. design review
 #### 2 👍 - Pro

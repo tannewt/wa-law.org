@@ -18,7 +18,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32870&aId=164248&caId=25960&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32870&aId=164248&caId=25960&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Jacob Vigdor - University of Washington Faculty/COF
+* Sam Ligon - Eastern Washington University Faculty/COF
 
 #### 0 👎 - Con
 

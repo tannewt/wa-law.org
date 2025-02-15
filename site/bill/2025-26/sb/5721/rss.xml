@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5721/</link>
 		<description>Updates about SB 5721</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Feb 2025 01:54:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,14 @@
 			<pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-10/First reading, referred to Business, Financial Services &amp; Trade (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>👍Roger Thomason - NW Justice Project</title>
+			<description>Roger Thomason signed up to testify Pro.</description>
+			<pubDate>Thu, 13 Feb 2025 01:54:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Roger/Thomason/2025-02-13 01:54:01</guid>
 		</item>
 	</channel>
 </rss>

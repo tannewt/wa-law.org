@@ -15,7 +15,7 @@ Testifying:
 * 💵Brooke Davies - Washington CannaBusiness Association
 * Andy BRASSINGTON - Evergreen Herbal,
 * 💵Ezra Eickmeyer - Producers NW
-* Andy Brassington - Evergreen Herbal
+* Andy Brassington - [Evergreen Herbal](/org/evergreen_herbal/)
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 
 #### 64 👎 - Con
@@ -37,7 +37,7 @@ Testifying:
 #### 13 👍 - Pro
 Testifying:
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
-* Andy Brassington - Evergreen Herbal
+* Andy Brassington - [Evergreen Herbal](/org/evergreen_herbal/)
 * Becca Burghardi - Northwest Cannabis Solutions
 * Douglas Henderson - Painted Rooster Cannabis Co.
 * 💵Brooke Davies - Washington CannaBusiness Association
@@ -69,7 +69,7 @@ Testifying:
 * Eric Gaston - Evergreen Market
 * Patrick Wlaznak - Soulshine Development
 * Joseph DuPuis - Doc and Yeti
-* Andy Brassington - Evergreen Herbal
+* Andy Brassington - [Evergreen Herbal](/org/evergreen_herbal/)
 * Becca Burghardi - Northwest Cannabis Solutions
 * Becca Burghardi - Northwest Cannabis Solutions
 * 💵Vicki Christophersen - Washington CannaBusiness Association

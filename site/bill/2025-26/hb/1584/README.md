@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/14/2025 [Senate Democrats](/org/senate_democrats/) - [72 days to go - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/14/72-days-to-go/#:~:text=House%20Bill%201584)
+
 ## Meetings

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5138/</link>
 		<description>Updates about SB 5138</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 21:57:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -110,6 +110,13 @@
 			<pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-12/Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Saldaña bill expanding use of short-term rental tax for community projects passes Senate    - Sen. Rebecca Saldaña</title>
+			<description>News article "Saldaña bill expanding use of short-term rental tax for community projects passes Senate    - Sen. Rebecca Saldaña" from Senate Democrats.</description>
+			<pubDate>Wed, 12 Feb 2025 21:57:26 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/saldana/2025/02/12/saldana-bill-expanding-use-of-short-term-rental-tax-for-community-projects-passes-senate/#:~:text=Senate%20Bill%205138</guid>
 		</item>
 	</channel>
 </rss>

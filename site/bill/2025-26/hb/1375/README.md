@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163936&caId=25940&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163936&caId=25940&tId=4)
 
-#### 7 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Frank Willmann - on my behalf
+* Roger Sundahl
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

@@ -35,7 +35,8 @@
 ### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍2  
 * 👍💵 Lianna Kressin
 
-### [HB 1464](/bill/2025-26/hb/1464/) - Home equity sharing  👎1 
+### [HB 1464](/bill/2025-26/hb/1464/) - Home equity sharing  👎2 
+* 👎 Molly Gallagher
 
 ### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍1  
 
@@ -87,7 +88,7 @@
 
 ### [SB 5589](/bill/2025-26/sb/5589/) - Insurance & credit study 👍1  
 
-### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍3  
+### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍3  
 * 👍 Molly Gallagher
 * 👍 Molly Molly
 

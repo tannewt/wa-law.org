@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5469/</link>
 		<description>Updates about SB 5469</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 08:00:25 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -69,6 +69,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Christina/Wenzek/2025-01-31 08:00:25</guid>
+		</item>
+		<item>
+			<title>Washington Housing Bills to Watch in 2025  | Sightline Institute</title>
+			<description>News article "Washington Housing Bills to Watch in 2025  | Sightline Institute" from Sightline Institute.</description>
+			<pubDate>Thu, 13 Feb 2025 15:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205469</guid>
+		</item>
+		<item>
+			<title>And refer to Ways &amp; Means.</title>
+			<description>And refer to Ways &amp; Means.</description>
+			<pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-14/And refer to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

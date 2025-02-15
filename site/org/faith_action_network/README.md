@@ -52,14 +52,18 @@
 * 👍 Katherine Long
 * 👍 Jess Ingman
 
-### [SB 5436](/bill/2025-26/sb/5436/) - Interfering with access to a place of religious worship. 👍2  
+### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
+
+### [SB 5436](/bill/2025-26/sb/5436/) - Worship/access interference 👍2  
 * 👍💵 Kristin Ang
 
-## [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍2  
+### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍2  
+
+## [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍1  
 
 ## 2023-24
 
-### [SB 5626](/bill/2023-24/sb/5626/) - Wage replacement 👍2  
+### [SB 5714](/bill/2023-24/sb/5714/) - Bail bond agents/immigration 👍1  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Kristin Ang

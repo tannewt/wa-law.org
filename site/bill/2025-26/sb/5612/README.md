@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/14/2025 [Senate Democrats](/org/senate_democrats/) - [Building an economy that works for all Washingtonians - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/14/building-an-economy-that-works-for-all-washingtonians/#:~:text=SB%205612)
+
 ## Meetings
 ### Wed 02/19 10:30 AM - Housing (HSG): SB 5612 Multiunit housing/SEPA
 Sign up to testify:
@@ -14,8 +17,8 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164265&caId=25833&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164265&caId=25833&tId=4)
 
-#### 0 👍 - Pro
+#### 30 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

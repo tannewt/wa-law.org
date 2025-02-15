@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/13/2025 [House Democrats](/org/house_democrats/) - [House Passes Bill to Support Sustainability & Economic Development – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/13/house-passes-bill-to-support-sustainability-economic-development/#:~:text=House%20Bill%201302)
+
 ## Meetings
 ### Mon 01/27 01:30 PM - Environment & Energy (ENVI): HB 1302 Utility connection charges
 #### 6 👍 - Pro

@@ -8,19 +8,28 @@
 
 ## Meetings
 ### Fri 02/14 10:30 AM - Environment, Energy & Technology (ENET): SB 5627 Safe excavation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32717&aId=163884&caId=25784&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32717&aId=163884&caId=25784&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32717&aId=163884&caId=25784&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32717&aId=163884&caId=25784&tId=4)
-
-#### 54 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * Don Evans - WA 811
 * Nick Massie - Clark County Utility Coordining Council, and Dig Safe Safety Committee Member, and Rotschy Inc,
+* Brent A Edd - Evergreen Concrete Cutting
+* Stephanie Hattenburg - M&L Construction Inc
+* Chris Bossard - [Cascade Natural Gas](/org/cascade_natural_gas/)
+* Kemp Garcia
+* jon Cornelius - Dig Law Advocates
+* Matthew Wagner - Evergreen Concrete Cutting
+* 💵Jason Hudson - IBEW LU 77
 
-#### 3 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* 💵Devin Gombosky - Washington Association of Sewer and Water Districts
+* 💵Kelsey Hulse - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Bill Clarke - WPUDA
+* 💵Josie Cummings - Avista
 
-#### 2 ❓ - Other
+#### 9 ❓ - Other
 Testifying:
 * Charlie Brown - Cascade Natural Gas Company
+* Kurt Cooper - University of Washington 811 Manager Seattle Campus - Member of WA 811
+* Jason Lewis - Utilities & Transportation Commission
+* 💵Natasha Jackson - [Northwest Gas Association](/org/northwest_gas_association/)

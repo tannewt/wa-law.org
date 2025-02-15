@@ -43,6 +43,8 @@
 ### [HB 1854](/bill/2025-26/hb/1854/) - Rural areas/subdivision   ❓1
 * ❓ Erika Odem
 
+### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue   ❓1
+
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
 * 👍 Duane Emmons
 

@@ -8,14 +8,11 @@
 
 ## Meetings
 ### Fri 02/14 08:00 AM - Health Care & Wellness (HCW): HB 1824 Accredited birthing centers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163818&caId=25798&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163818&caId=25798&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163818&caId=25798&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163818&caId=25798&tId=4)
+#### 77 👍 - Pro
+Testifying:
+* Cynthia Flynn - Washington Association of Birth Centers
+* Carolee Hall - The Birth House,LLC
 
-#### 1 👍 - Pro
-
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

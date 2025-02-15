@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/13/2025 [KUOW](/org/kuow/) - [KUOW - 'Green vest’ workers fight for union representation on REI board](https://www.kuow.org/stories/green-vest-workers-fight-for-union-representation-on-rei-board#:~:text=House%20Bill%201635)
+
 ## Meetings
 ### Wed 02/12 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1635 Consumer cooperative boards
 #### 2116 👍 - Pro

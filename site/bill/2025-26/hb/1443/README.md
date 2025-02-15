@@ -8,9 +8,23 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201443)
 * 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201443)
 
 ## Meetings
+### Thu 02/20 04:00 PM - Appropriations (APP): SHB 1443 Mobile dwellings
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32860&aId=164627&caId=26018&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32860&aId=164627&caId=26018&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32860&aId=164627&caId=26018&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32860&aId=164627&caId=26018&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/27 01:30 PM - Housing (HOUS): HB 1443 Mobile dwellings
 #### 80 👍 - Pro
 Testifying:

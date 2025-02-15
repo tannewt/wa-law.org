@@ -10,7 +10,7 @@
 ### Wed 01/22 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1278 Higher ed. gov./students
 #### 157 👍 - Pro
 Testifying:
-* Sean Behl - [Washington Student Association](/org/washington_student_association/)
+* 💵Sean Behl - [Washington Student Association](/org/washington_student_association/)
 * Kellen Hoard - Youth on Boards
 * Heba Qatrani - Legislative liaison, South Seattle College
 * Tahmina Juraeva - 2013-2024 Bellevue College Student Trustee
@@ -18,7 +18,7 @@ Testifying:
 * Yana Chubarov - 2023-2024 Bellevue College Student Trustee
 * Randy Phillips - Associated Students of Tacoma Community College
 * Daniel Ngoy - Associated Student Government of Bellevue College
-* Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
+* 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 
 #### 4 👎 - Con
 

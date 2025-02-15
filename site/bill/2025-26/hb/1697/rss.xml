@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1697/</link>
 		<description>Updates about HB 1697</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 11:55:01 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Feb 2025 12:15:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Kelly/Kramer/2025-02-11 11:55:01</guid>
+		</item>
+		<item>
+			<title>👍Max Brown - NW Rare Disease Coalition</title>
+			<description>Max Brown signed up to testify Pro. They are signed up to represent NW Rare Disease Coalition.</description>
+			<pubDate>Thu, 13 Feb 2025 03:17:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Max/Brown/2025-02-13 03:17:17</guid>
+		</item>
+		<item>
+			<title>❓Terry Kho - Washington State Board of Health</title>
+			<description>Terry Kho signed up to testify Other.</description>
+			<pubDate>Thu, 13 Feb 2025 09:42:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Terry/Kho/2025-02-13 09:42:50</guid>
+		</item>
+		<item>
+			<title>👍💵Katherine Mahoney - Ultragenyx</title>
+			<description>Katherine Mahoney signed up to testify Pro. They are signed up to represent Ultragenyx. They are a registered lobbyist.</description>
+			<pubDate>Thu, 13 Feb 2025 12:15:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Katherine/Mahoney/2025-02-13 12:15:17</guid>
 		</item>
 	</channel>
 </rss>

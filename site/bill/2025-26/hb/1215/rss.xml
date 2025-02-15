@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1215/</link>
 		<description>Updates about HB 1215</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -103,6 +103,27 @@
 			<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-11/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 57; nays, 36; absent, 0; excused, 5.</title>
+			<description>Third reading, passed; yeas, 57; nays, 36; absent, 0; excused, 5.</description>
+			<pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-13/Third reading, passed; yeas, 57; nays, 36; absent, 0; excused, 5.</guid>
+		</item>
+		<item>
+			<title>Taylor Bill Provides Equity in End-of-life Care Administration – Washington State House Democrats</title>
+			<description>News article "Taylor Bill Provides Equity in End-of-life Care Administration – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/13/taylor-bill-provides-equity-in-end-of-life-care-administration/#:~:text=1215</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Law &amp; Justice (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-14/First reading, referred to Law &amp; Justice (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

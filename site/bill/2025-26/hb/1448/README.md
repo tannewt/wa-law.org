@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/04/2025 [The Center Square](/org/the_center_square/) - [Op-Ed: Two different approaches to Ranked Choice Voting introduced | Opinion | thecentersquare.com](https://www.thecentersquare.com/opinion/article_c6f5ff86-e28e-11ef-9b01-a36d7e577bc3.html#:~:text=House%20Bill%201448)

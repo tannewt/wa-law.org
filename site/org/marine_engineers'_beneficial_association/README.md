@@ -172,7 +172,7 @@
 
 ### [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  
 
-### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍1  
+### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
 
 ### [SB 5693](/bill/2025-26/sb/5693/) - Teacher residency & apprent.  👎1 
 

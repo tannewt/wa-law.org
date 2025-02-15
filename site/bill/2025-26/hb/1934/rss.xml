@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1934/</link>
 		<description>Updates about HB 1934</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 10:32:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-11/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>👍James Trefry - WSCCCE, AFSCME Council 2</title>
+			<description>James Trefry signed up to testify Pro. They are signed up to represent WSCCCE, AFSCME Council 2.</description>
+			<pubDate>Fri, 14 Feb 2025 10:32:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/Trefry/2025-02-14 10:32:49</guid>
 		</item>
 	</channel>
 </rss>

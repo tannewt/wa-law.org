@@ -40,6 +40,8 @@
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
 
+### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue  👎1 
+
 ### [SB 5106](/bill/2025-26/sb/5106/) - Eid al-Fitr & Eid al-Adha 👍1  
 
 ### [SB 5119](/bill/2025-26/sb/5119/) - Academic employee bargaining 👍1  

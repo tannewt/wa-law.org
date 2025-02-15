@@ -15,7 +15,7 @@
 * [SB 5599](sb/5599) - Protected health care/youth 38📰 569👍 9854👎 28❓ - C 408 L 23
 * [SB 5078](sb/5078) - Firearm industry duties 24📰 3527👍 6551👎 3❓ - C 163 L 23
 * [HB 1038](hb/1038) - Anesthesiologist assistants 1📰 2398👍 6105👎 38❓ - HHC/Wellness
-* [SB 5770](sb/5770) - Property tax 36📰 516👍 7579👎 203❓ - SRules X
+* [SB 5770](sb/5770) - Property tax 37📰 516👍 7579👎 203❓ - SRules X
 * [HB 1110](hb/1110) - Middle housing 94📰 5098👍 1228👎 53❓ - C 332 L 23
 * [SB 5232](sb/5232) - Firearms/purchase & transfer 7📰 1782👍 4345👎 2❓ - SWays & Means
 * [HB 1333](hb/1333) - Domestic violent extremism 5📰 253👍 5451👎 12❓ - HRules X
@@ -58,7 +58,7 @@
 * [HB 1589](hb/1589) - Clean energy 81📰 542👍 2183👎 42❓ - C 351 L 24
 * [SB 5466](sb/5466) - Transit-oriented development 37📰 2545👍 46👎 35❓ - SRules X
 * [HB 1391](hb/1391) - Energy in buildings 6📰 2075👍 529👎 20❓ - HRules 3C
-* [HB 1832](hb/1832) - Vehicle per mile charge 7📰 62👍 2527👎 34❓ - HTransportation
+* [HB 1832](hb/1832) - Vehicle per mile charge 8📰 62👍 2527👎 34❓ - HTransportation
 * [HB 1829](hb/1829) - LeMay special license plate 1📰 2589👍 2👎 20❓ - HTransportation
 * [SB 6151](sb/6151) - Ultrasound 222👍 2375👎 2❓ - C 329 L 24
 * [SB 5209](sb/5209) - Universal civic duty voting 3📰 246👍 2347👎 2❓ - STransportation
@@ -243,7 +243,7 @@
 * [HB 2188](hb/2188) - Health subsidy/retirees 1📰 810👍 0👎 6❓ - HApprops
 * [SB 5356](sb/5356) - Procurement/automated system 802👍 11👎 3❓ - SEnvironment, E
 * [SB 5019](sb/5019) - School safety staff 2📰 37👍 767👎 7❓ - SRules X
-* [SB 5334](sb/5334) - Affordable housing funding 8📰 426👍 371👎 4❓ - SRules 3
+* [SB 5334](sb/5334) - Affordable housing funding 9📰 426👍 371👎 4❓ - SRules 3
 * [HB 1477](hb/1477) - Working families' tax credit 15📰 791👍 2👎 7❓ - C 456 L 23
 * [HB 2104](hb/2104) - Operating budget, supp. 5📰 109👍 540👎 151❓ - HRules R
 * [HB 1798](hb/1798) - Earned release time 4📰 601👍 180👎 6❓ - HRules X
@@ -1129,7 +1129,7 @@
 * [SB 6157](sb/6157) - Civil service 3📰 30👍 21👎 2❓ - C 330 L 24
 * [SB 6226](sb/6226) - DSHS fraud office reporting 53👍 0👎 0❓ - SWays & Means
 * [SB 6299](sb/6299) - Employees/digital technology 3📰 47👍 6👎 0❓ - SRules X
-* [HB 1326](hb/1326) - Utility connection charges 5📰 52👍 0👎 0❓ - C 249 L 23
+* [HB 1326](hb/1326) - Utility connection charges 6📰 52👍 0👎 0❓ - C 249 L 23
 * [HB 1421](hb/1421) - Voluntary stewardship prog. 50👍 0👎 2❓ - HRules X
 * [HB 1465](hb/1465) - Prescription cost-sharing 36👍 14👎 2❓ - HHC/Wellness
 * [HB 1761](hb/1761) - Property tax exemption 1📰 41👍 11👎 0❓ - HRules X

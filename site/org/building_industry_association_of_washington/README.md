@@ -97,6 +97,8 @@
 
 ### [HB 1644](/bill/2025-26/hb/1644/) - Working minors  👎1 
 
+### [HB 1650](/bill/2025-26/hb/1650/) - Airport projects/local REET  👎1 
+
 ### [HB 1654](/bill/2025-26/hb/1654/) - International fire code  👎1 
 * 👎💵 Andrea Smiley
 
@@ -105,6 +107,8 @@
 ### [HB 1682](/bill/2025-26/hb/1682/) - Unemployment ins./part-time  👎1 
 
 ### [HB 1688](/bill/2025-26/hb/1688/) - Electric security alarms 👍1  
+
+### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues  👎1 
 
 ### [HB 1695](/bill/2025-26/hb/1695/) - Unincorporated villages/GMA 👍1  
 
@@ -123,7 +127,11 @@
 
 ### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation  👎1 
 
+### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax  👎1 
+
 ### [HB 1818](/bill/2025-26/hb/1818/) - Administration of plats 👍1  
+
+### [HB 1840](/bill/2025-26/hb/1840/) - Middle housing 👍1  
 
 ### [HB 1843](/bill/2025-26/hb/1843/) - Students/unemployment ins.  👎1 
 
@@ -132,6 +140,9 @@
 ### [HB 1857](/bill/2025-26/hb/1857/) - Asbestos building materials 👍2  
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee  👎1 
+
+### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET  👎1 
+* 👎💵 Jan Himebaugh
 
 ### [HB 1906](/bill/2025-26/hb/1906/) - Water system rates 👍2  
 
@@ -228,13 +239,23 @@
 
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎1 
 
-## [SB 5660](/bill/2025-26/sb/5660/) - Water & sewage system access 👍1  
+### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage. 👍1  
+* 👍💵 Jan Himebaugh
+
+### [SB 5660](/bill/2025-26/sb/5660/) - Water & sewage system access 👍1  
 * 👍💵 Andrea Smiley
+
+### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption 👍1  
+
+### [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant 👍1  
+
+## [SB 5679](/bill/2025-26/sb/5679/) - Multifamily tax exemption 👍1  
+* 👍💵 Jan Himebaugh
 
 ## 2023-24
 
-### [SB 5660](/bill/2023-24/sb/5660/) - Water & sewage system access 👍1  
-* 👍💵 Andrea Smiley
+### [SB 5679](/bill/2023-24/sb/5679/) - Multifamily tax exemption 👍1  
+* 👍💵 Jan Himebaugh
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

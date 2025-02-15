@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32844&aId=164088&caId=25970&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32844&aId=164088&caId=25970&tId=4)
 
-#### 1 👍 - Pro
+#### 457 👍 - Pro
 Testifying:
 * Kate Van Gent - Seattle Metro Pickleball Association
+* Alyssa Hoyt - [Mount St. Helens Institute](/org/mount_st._helens_institute/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other

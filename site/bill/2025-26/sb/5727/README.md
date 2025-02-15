@@ -8,18 +8,17 @@
 
 ## Meetings
 ### Fri 02/14 10:30 AM - Environment, Energy & Technology (ENET): SB 5727 Residential energy storage
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32717&aId=164204&caId=25812&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32717&aId=164204&caId=25812&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32717&aId=164204&caId=25812&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32717&aId=164204&caId=25812&tId=4)
+#### 70 👍 - Pro
+Testifying:
+* Jeremy Smithson - Puget Sound Solar
+* Gavin Tenold - Northwest Renewables
+* Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 
-#### 2 👍 - Pro
-
-#### 266 👎 - Con
+#### 600 👎 - Con
 Testifying:
 * TaraLyn Fray
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* 💵Josie Cummings - Avista

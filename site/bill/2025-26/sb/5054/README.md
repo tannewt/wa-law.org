@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/13 04:00 PM - Ways & Means (WM): SB 5054 Winery tax exemption
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163741&caId=25758&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163741&caId=25758&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163741&caId=25758&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163741&caId=25758&tId=4)
-
-#### 119 👍 - Pro
+#### 128 👍 - Pro
 Testifying:
 * Paul Beveridge - Family Wineries of Washington State
 * Sandi Moreno - Family Wineries of Washington State
@@ -23,7 +17,10 @@ Testifying:
 Testifying:
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* 💵Rowland Thompson - [Wine Institute](/org/wine_institute/)
 
 ### Tue 02/11 04:00 PM - Ways & Means (WM): SB 5054 Winery tax exemption
 #### 0 👍 - Pro

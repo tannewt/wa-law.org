@@ -9,6 +9,10 @@
 
 ### [HB 1434](/bill/2025-26/hb/1434/) - Eid al-Fitr & Eid al-Adha 👍1  
 
+### [HB 1517](/bill/2025-26/hb/1517/) - Digital equity/revenue  👎1 
+
+### [HB 1876](/bill/2025-26/hb/1876/) - Death with dignity act 👍1  
+
 ### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 
 ### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍1  

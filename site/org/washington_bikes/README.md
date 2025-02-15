@@ -7,6 +7,8 @@
 * 👍 Vicky Clarke
 * 👍 Lee Lambert
 
+### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
+
 ### [SB 5374](/bill/2025-26/sb/5374/) - Transportation/tribal rep. 👍1  
 
 ### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍1  

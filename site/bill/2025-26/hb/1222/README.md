@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/13/2025 [House Democrats](/org/house_democrats/) - [Stearns Bill Protects Against Disclosure of Sensitive Information at WA’s Gambling Commission  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/13/stearns-bill-protects-against-disclosure-of-sensitive-information-at-was-gambling-commission/#:~:text=HB%201222)
+
 ## Meetings
 ### Tue 01/21 01:30 PM - State Government & Tribal Relations (SGOV): HB 1222 Gambling commission/PRA
 #### 5 👍 - Pro

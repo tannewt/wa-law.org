@@ -7,3 +7,23 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 02/17 01:30 PM - Housing (HOUS): HB 1915 Tenant protections
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32835&aId=164517&caId=25984&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32835&aId=164517&caId=25984&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32835&aId=164517&caId=25984&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32835&aId=164517&caId=25984&tId=4)
+
+#### 14 👍 - Pro
+
+#### 181 👎 - Con
+Testifying:
+* GORDON HAGGERTY
+* Mack Mayo
+* Jake Nellis
+* William Pierce
+* William Pierce
+* Jesse Long
+* JULIE BROWN - http://www.personalpropertymgmt.com
+
+#### 6 ❓ - Other

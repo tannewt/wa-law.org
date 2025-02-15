@@ -8,20 +8,14 @@
 
 ## Meetings
 ### Thu 02/13 01:30 PM - Finance (FIN): HB 1042 County treasurer costs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163108&caId=25608&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163108&caId=25608&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163108&caId=25608&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163108&caId=25608&tId=4)
-
-#### 32 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * 💵Jennifer Wallace - WA Association of County Officials
 * Alishia Topper - Clark County Treasurer
 * Jeff Gadman - Thurston County Treasurer & President, WA Association of County Treasurers
 * 💵Jennifer Wallace - WA Association of County Officials
 
-#### 466 👎 - Con
+#### 727 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Jeff Faucett - Washington Fire Chiefs
@@ -32,5 +26,6 @@ Testifying:
 * David Ellingson - Washington Fire Commissioners Association, Kitsap County Fire Commissioners Associaton
 * 💵Matthew Ellsworth - [Association of Washington Public Hospital Districts](/org/association_of_washington_public_hospital_districts/)
 * Michael McConnell - Snohomish Regional Fire & Rescue
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

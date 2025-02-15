@@ -8,17 +8,16 @@
 
 ## Meetings
 ### Fri 02/14 10:30 AM - Environment, Energy & Technology (ENET): SB 5680 Mobility equipment repair
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32717&aId=163885&caId=25785&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32717&aId=163885&caId=25785&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32717&aId=163885&caId=25785&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32717&aId=163885&caId=25785&tId=4)
-
-#### 338 👍 - Pro
+#### 416 👍 - Pro
 Testifying:
 * Emily Rogers - Washington State Developmental Disabilities Council
 * Marsha Cutting
 * Burke Stansbury
+* Nathan Proctor - WashPIRG
+* Leigh Spruce
+* cecelia black - [Disability Rights Washington](/org/disability_rights_washington/)
+* Krista Hanson
+* Matt Thompson - KC HELP
 
 #### 0 👎 - Con
 

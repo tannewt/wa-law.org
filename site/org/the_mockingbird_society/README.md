@@ -8,7 +8,7 @@
 ### [HB 1171](/bill/2025-26/hb/1171/) - Mandated reporting/higher ed 👍1  
 * 👍💵 Samuel Martin
 
-### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍1  
+### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍2  
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍2  
 

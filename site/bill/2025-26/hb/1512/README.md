@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 02/11/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington bill would set new limits on when police can stop drivers • Washington State Standard](https://washingtonstatestandard.com/2025/02/10/wa-bill-would-set-new-limits-on-when-police-can-stop-drivers/#:~:text=House%20Bill%201512)
+* 02/10/2025 [MyNorthwest](/org/mynorthwest/) - [Reducing traffic stops: Bill proposes warnings by mail](https://mynorthwest.com/mynorthwest-politics/traffic-stops/4043514#:~:text=House%20Bill%201512)
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201512)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201512)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201512)

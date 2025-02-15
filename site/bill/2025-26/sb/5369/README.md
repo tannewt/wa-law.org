@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/29/2025 [Senate Democrats](/org/senate_democrats/) - [Bill to Improve Students’ Mental Health Heard in Senate - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/01/29/bill-to-improve-students-mental-health-heard-in-senate/#:~:text=Senate%20Bill%205369)

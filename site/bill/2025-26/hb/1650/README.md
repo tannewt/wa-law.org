@@ -8,20 +8,15 @@
 
 ## Meetings
 ### Thu 02/13 01:30 PM - Finance (FIN): HB 1650 Airport projects/local REET
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163105&caId=25605&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163105&caId=25605&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163105&caId=25605&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163105&caId=25605&tId=4)
-
-#### 8 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Carl Hicks - Tacoma Narrows Airport Advisory Commision (Commision Chair)
 * Robyn Denson - Pierce County Council
 * Kelsey Parke - Peninsula School District 401
 * Alexander Denny - Testifying on behalf for first responders use of the airport.
 * Dave Morell - Pierce County Councilmember
+* 💵Colleen Meiners - [City of Moses Lake](/org/city_of_moses_lake/)
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -18,11 +18,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164189&caId=25904&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164189&caId=25904&tId=4)
 
-#### 0 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Joel Langsea - Kent City Jail
+* William Ruiz
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Patrick Connor - NFIB
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Mary Lou Pauly - Mayor, City of Issaquah
 
 ### Fri 01/17 10:30 AM - Labor & Workplace Standards (LAWS): HB 1070 PTSD/correctional workers
 #### 205 👍 - Pro

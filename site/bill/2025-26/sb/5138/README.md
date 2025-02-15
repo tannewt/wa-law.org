@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/12/2025 [Senate Democrats](/org/senate_democrats/) - [Saldaña bill expanding use of short-term rental tax for community projects passes Senate    - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/02/12/saldana-bill-expanding-use-of-short-term-rental-tax-for-community-projects-passes-senate/#:~:text=Senate%20Bill%205138)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [Standing strong, moving forward - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/02/07/standing-strong-moving-forward/#:~:text=SB%205138)
 * 01/13/2025 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2025 legislative session - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/01/13/kicking-off-the-2025-legislative-session/#:~:text=SB%205138)
 

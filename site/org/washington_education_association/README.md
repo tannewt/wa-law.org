@@ -507,18 +507,22 @@
 
 ### [SB 5616](/bill/2025-26/sb/5616/) - WA saves trust account 👍1  
 
-### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍1  
+### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
 
 ### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation   ❓1
 * ❓ Jared Mason-Gere
 
 ### [SB 5658](/bill/2025-26/sb/5658/) - Workforce education account 👍1  
 
-## [SB 5666](/bill/2025-26/sb/5666/) - Mental health internships 👍1  
+### [SB 5666](/bill/2025-26/sb/5666/) - Mental health internships 👍1  
+
+## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds   ❓1
+* ❓💵 Julie Salvi
 
 ## 2023-24
 
-### [SB 5666](/bill/2023-24/sb/5666/) - Mental health internships 👍1  
+### [SJR 8200](/bill/2023-24/sjr/8200/) - School district local funds   ❓1
+* ❓💵 Julie Salvi
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 

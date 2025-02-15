@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/04 04:00 PM - Environment & Energy (ENVI): HB 1670 Sewage-containing spills

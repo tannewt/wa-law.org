@@ -8,18 +8,18 @@
 
 ## Meetings
 ### Fri 02/14 10:30 AM - Housing (HSG): SB 5679 Multifamily tax exemption
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32745&aId=163852&caId=25780&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32745&aId=163852&caId=25780&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32745&aId=163852&caId=25780&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32745&aId=163852&caId=25780&tId=4)
-
-#### 8 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Anthony Hemstad - Washington Housing Development, LLC
+* Heather Dudley-Nollette - Commissioner, Jefferson County
 * Heidi Dudley-Nollette - Commissioner, Jefferson County
 * BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Tom McBride - Kitsap County
+* Ian Harkins - Kitsap Building Association
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
 #### 0 ❓ - Other

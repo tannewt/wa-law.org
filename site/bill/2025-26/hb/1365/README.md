@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201365)
+
 ## Meetings
 ### Tue 02/04 04:00 PM - Housing (HOUS): HB 1365 Mobile home rental assist.
 #### 109 👍 - Pro

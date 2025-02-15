@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/08/2025 [Senate Democrats](/org/senate_democrats/) - [Week four recap: Bill updates, State Route 509 construction forum, and resources for immigrants and refugees - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/02/07/week-four-recap-bill-updates-state-route-509-construction-forum-and-resources-for-immigrants-and-refugees/#:~:text=SB%205337)

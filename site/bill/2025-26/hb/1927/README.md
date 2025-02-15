@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32835&aId=164045&caId=25953&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32835&aId=164045&caId=25953&tId=4)
 
-#### 1 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* Alec Madson - Self Inc
+* Megan Pirie
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

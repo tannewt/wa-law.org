@@ -18,9 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164198&caId=25911&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164198&caId=25911&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Tianyi (Matthew) Tong - Lake Washington High School
 
-#### 0 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

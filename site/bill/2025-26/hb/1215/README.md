@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/13/2025 [House Democrats](/org/house_democrats/) - [Taylor Bill Provides Equity in End-of-life Care Administration – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/13/taylor-bill-provides-equity-in-end-of-life-care-administration/#:~:text=1215)
+
 ## Meetings
 ### Tue 01/28 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1215 Natural death act/pregnancy
 #### 60 👍 - Pro

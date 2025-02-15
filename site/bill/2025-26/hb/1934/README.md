@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164142&caId=25963&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164142&caId=25963&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* James Trefry - WSCCCE, AFSCME Council 2
 
-#### 0 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other

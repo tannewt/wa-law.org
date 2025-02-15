@@ -13,7 +13,7 @@ Testifying:
 * John Axtell
 * 💵Collin Bannister - The Associated Students of Washington State University
 * Madelyn de Vera
-* Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
+* 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 
 #### 5 👎 - Con
 Testifying:

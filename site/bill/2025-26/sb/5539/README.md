@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164007&caId=25850&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164007&caId=25850&tId=4)
 
-#### 1 👍 - Pro
+#### 26 👍 - Pro
 
-#### 0 👎 - Con
+#### 164 👎 - Con
+Testifying:
+* 💵Patrick Connor - NFIB
 
 #### 0 ❓ - Other

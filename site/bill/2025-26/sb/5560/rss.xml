@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5560/</link>
 		<description>Updates about SB 5560</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 11:40:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,38 @@
 			<pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-28/First reading, referred to State Government, Tribal Affairs &amp; Elections.</guid>
+		</item>
+		<item>
+			<title>👍Jamie Garner - Association of Washington Cities</title>
+			<description>Jamie Garner signed up to testify Pro.</description>
+			<pubDate>Fri, 14 Feb 2025 08:45:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jamie/Garner/2025-02-14 08:45:26</guid>
+		</item>
+		<item>
+			<title>👍David Berger - Association of Washington Cities</title>
+			<description>David Berger signed up to testify Pro.</description>
+			<pubDate>Fri, 14 Feb 2025 09:12:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/Berger/2025-02-14 09:12:11</guid>
+		</item>
+		<item>
+			<title>👍Rich OConnell - Association of Washington Cities</title>
+			<description>Rich OConnell signed up to testify Pro.</description>
+			<pubDate>Fri, 14 Feb 2025 09:22:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rich/OConnell/2025-02-14 09:22:09</guid>
+		</item>
+		<item>
+			<title>👍Jessica Vicente - Association of Washington Cities</title>
+			<description>Jessica Vicente signed up to testify Pro.</description>
+			<pubDate>Fri, 14 Feb 2025 11:40:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jessica/Vicente/2025-02-14 11:40:28</guid>
 		</item>
 	</channel>
 </rss>

@@ -26,8 +26,8 @@ Testifying:
 * 💵Jayme Shoun - Washington STEM
 * Myle Tang - Stand for Children Washington
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
-* Sean Behl - Associated Students of the University of the Washington
-* Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
+* 💵Sean Behl - Associated Students of the University of the Washington
+* 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 * 💵Mykhail Lembke
 * 💵Collin Bannister - ASWSU
 

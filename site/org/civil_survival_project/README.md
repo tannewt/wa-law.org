@@ -7,7 +7,8 @@
 
 ### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍1  
 
-### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍1  
+### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍2  
+* 👍💵 Anthony Blankenship
 
 ### [HB 1138](/bill/2025-26/hb/1138/) - Improving public safety by implementing evidence-based interview practices that increase the reliability of statements collected during criminal investigations. 👍1  
 

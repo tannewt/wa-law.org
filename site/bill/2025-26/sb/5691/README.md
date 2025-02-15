@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 02/14 08:00 AM - Health & Long Term Care (HLTC): SB 5691 Continuing care oversight
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163691&caId=25696&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163691&caId=25696&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163691&caId=25696&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163691&caId=25696&tId=4)
-
-#### 489 👍 - Pro
+#### 638 👍 - Pro
 Testifying:
 * Christian Smith
 * John Caner
@@ -23,10 +17,14 @@ Testifying:
 * Mary Baroni - WaCCRA Washington Continuing Care Residents Association
 * Monica Clement - WACCRA (Washington Continuing Care Residents Association)
 * Donna Kristaponis - WACCRA
+* Cathleen MacCaul - AARP Washington State
+* Agnes Chang
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵Alyssa Odegaard - LeadingAge Washington
 * Kevin McFeely - Futura Age
+* Bea Rector - Dept. of Social and Health Services
+* Amy Abbott - Dept. of Social and Health Services Aging and Long-Term Supports Administration (DSHS ALTSA)

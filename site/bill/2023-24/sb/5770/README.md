@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/12/2025 [MyNorthwest](/org/mynorthwest/) - [WA Democrats debating 'tax the rich' property plan as alternative to cap increase](https://mynorthwest.com/mynorthwest-politics/wa-democrat-tax/4044645#:~:text=Senate%20Bill%205770)
 * 01/10/2025 [Cascade PBS](/org/cascade_pbs/) - [WA cop shortage persists statewide as lawmakers gear up in Olympia | Cascade PBS](https://crosscut.com/politics/2025/01/wa-cop-shortage-persists-statewide-lawmakers-gear-olympia#:~:text=Senate%20Bill%205770)
 * 12/05/2024 [The Urbanist](/org/the_urbanist/) - [King County Seeks Help from State Legislature After Approving 2025 Budget - The Urbanist](https://www.theurbanist.org/2024/12/05/king-county-seeks-budget-help-from-state/#:~:text=2024%20bill)
 * 11/27/2024 [The Center Square](/org/the_center_square/) - [Dems, GOP gird for battle in addressing Washington's $10B-$12B budget shortfall | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1442be4a-ace9-11ef-a4cb-d3639337aea9.html#:~:text=Senate%20Bill%205770)

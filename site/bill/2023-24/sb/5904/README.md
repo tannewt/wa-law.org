@@ -32,7 +32,7 @@ Testifying:
 * Jacob Vigdor - University of Washington Faculty
 * 💵Juliet Schindler - College Success Foundation and High School Success Coalition
 * Ellis Andrews - University of Washington Student
-* Sean Behl - Associated Student Government of Bellevue College
+* 💵Sean Behl - Associated Student Government of Bellevue College
 * Stella Seth - Legislative Liaison, Associated Students, Western Washington University
 * 💵Collin Bannister - The Washington Student Association and ASWSU
 * 💵Paula Sardinas - WBBA (WA Build Back Black Alliance)

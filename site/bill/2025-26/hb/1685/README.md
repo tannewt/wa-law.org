@@ -14,8 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32817&aId=163945&caId=25901&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32817&aId=163945&caId=25901&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
 
-#### 3 👎 - Con
+#### 207 👎 - Con
+Testifying:
+* Kyle Perry
+* Scott Walker
+* Kelsey Ross - Conservation Coalition of Washington
+* Ryan Garrett
+* Wesley Johnson
+* Jack Burnham
+* Aaron Smith
+* Dane Czarnecki - --select an item--
+* Cody Coleman
+* Gary MCGREW
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
+Testifying:
+* Daniel Wilson - Washington Chapter- Backcountry Hunters & Anglers

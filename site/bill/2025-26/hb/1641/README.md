@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/13 01:30 PM - Finance (FIN): HB 1641 Definition of timberland
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163103&caId=25604&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163103&caId=25604&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163103&caId=25604&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163103&caId=25604&tId=4)
-
-#### 24 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)
 

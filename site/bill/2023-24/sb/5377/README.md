@@ -15,7 +15,7 @@ Testifying:
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * 💵Brooke Davies - Washington CannaBusiness Association
 * 💵Ezra Eickmeyer - Producers NW
-* Andy Brassington - Evergreen Herbal
+* Andy Brassington - [Evergreen Herbal](/org/evergreen_herbal/)
 * Brandon Park - Hygge Farms Tier 1 Producer/Processor
 
 #### 35 👎 - Con
@@ -33,7 +33,7 @@ Testifying:
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 * Eric Gaston - Evergreen Market
 * April Roth - Soulshine Cannabis
-* Andy Brassington - Evergreen Herbal
+* Andy Brassington - [Evergreen Herbal](/org/evergreen_herbal/)
 * George Jordan - Artizen Cannabis Co
 
 #### 25 👎 - Con

@@ -22,7 +22,8 @@
 ### [SB 5120](/bill/2025-26/sb/5120/) - Learning assistance program 👍1  
 * 👍 Ben Mitchell
 
-### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
+### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍3  
+* 👍 Ben Mitchell
 * 👍 Ben Mitchell
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍2  

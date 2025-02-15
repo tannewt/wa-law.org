@@ -65,11 +65,13 @@
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success. 👍2  
 
-### [HB 1876](/bill/2025-26/hb/1876/) - Death with dignity act  👎1 
+### [HB 1876](/bill/2025-26/hb/1876/) - Death with dignity act  👎2 
 * 👎 Mary Long
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace  👎2 
 * 👎 Mary Long
+
+### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue  👎2 
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -136,11 +138,13 @@
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project  👎2 
 
-## [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate  👎1 
+### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate  👎1 
+
+## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds  👎1 
 
 ## 2023-24
 
-### [SB 5632](/bill/2023-24/sb/5632/) - Confidentiality/interstate  👎1 
+### [SJR 8200](/bill/2023-24/sjr/8200/) - School district local funds  👎1 
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs  👎2 
 * 👎 Jeannie Magdua

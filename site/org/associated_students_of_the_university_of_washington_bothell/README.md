@@ -2,23 +2,23 @@
 ## 2025-26
 
 ### [HB 1136](/bill/2025-26/hb/1136/) - Student navigational support 👍1  
-* 👍 Sienna Jarrard
+* 👍💵 Sienna Jarrard
 
 ### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
-* 👍 Sienna Jarrard
+* 👍💵 Sienna Jarrard
 
 ### [HB 1278](/bill/2025-26/hb/1278/) - Higher ed. gov./students 👍2  
-* 👍 Sienna Jarrard
+* 👍💵 Sienna Jarrard
 
 ### [HB 1343](/bill/2025-26/hb/1343/) - Higher ed./loss of aid 👍1  
-* 👍 Sienna Jarrard
+* 👍💵 Sienna Jarrard
 
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 
 ### [HB 1751](/bill/2025-26/hb/1751/) - Course materials sales tax 👍1  
 
 ### [HB 1762](/bill/2025-26/hb/1762/) - Higher ed./residence req. 👍1  
-* 👍 Sienna Jarrard
+* 👍💵 Sienna Jarrard
 
 ### [SB 5275](/bill/2025-26/sb/5275/) - Passport to careers program 👍1  
 

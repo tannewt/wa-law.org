@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 02/07 08:00 AM - Human Services, Youth, & Early Learning (HSEL): HB 1724 POLST orders

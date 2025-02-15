@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205148)
 * 01/22/2025 [Senate Democrats](/org/senate_democrats/) - [Expanding housing supply hearing in Senate Friday - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/01/22/expanding-housing-supply-hearing-in-senate-friday/#:~:text=SB%205148)
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205148)
 
@@ -19,9 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164416&caId=25896&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164416&caId=25896&tId=4)
 
-#### 2 👍 - Pro
+#### 43 👍 - Pro
+Testifying:
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

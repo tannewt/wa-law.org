@@ -13,6 +13,9 @@
 ### [HB 1382](/bill/2025-26/hb/1382/) - All payers claim database 👍2  
 * 👍💵 Emily Brice
 
+### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program   ❓1
+* ❓💵 Emily Brice
+
 ### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  
 
 ### [HB 1566](/bill/2025-26/hb/1566/) - Prior authorization/health 👍1  
@@ -44,7 +47,7 @@
 ### [SB 5387](/bill/2025-26/sb/5387/) - Corp. practice of medicine 👍1  
 * 👍💵 Emily Brice
 
-### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎1 
+### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎2 
 * 👎💵 Vanessa Saavedra
 
 ### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍1  
@@ -52,13 +55,15 @@
 
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 
+### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  
+
 ### [SB 5561](/bill/2025-26/sb/5561/) - Health care entity registry 👍1  
 * 👍💵 Emily Brice
 
 ### [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍1  
 * 👍💵 Emily Brice
 
-### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍1  
+### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
 
 ## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
 

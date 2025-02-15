@@ -18,7 +18,7 @@ Testifying:
 * Daniel Torczyner - S Rothschild & Co, Inc.
 * Hank de Zwart - Flobin Inc
 * Lance Kaufman - Hub Truck, Inc
-* Andy Brassington - Evergreen Herbal
+* Andy Brassington - [Evergreen Herbal](/org/evergreen_herbal/)
 * Jesse Huminski - Fairwinds Manufacturing
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 * Scott Atkison - Zips Cannabis

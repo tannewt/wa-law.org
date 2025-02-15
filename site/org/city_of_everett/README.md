@@ -1,6 +1,8 @@
 # City of Everett
 ## 2025-26
 
+### [HB 1042](/bill/2025-26/hb/1042/) - County treasurer costs  👎1 
+
 ### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct  👎1 
 
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
@@ -22,7 +24,12 @@
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 
+### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
+
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
+
+### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
+* 👍 Jennifer Gregerson
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
 

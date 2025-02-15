@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201217)
 * 02/10/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2025 Quaker Voice Priority Bill Tracker — Quaker Voice](https://www.quakervoicewa.org/2025-quaker-voice-priority-bills/#:~:text=HB%201217)
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201217)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201217)

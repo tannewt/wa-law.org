@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205604)
 * 02/10/2025 [Senate Democrats](/org/senate_democrats/) - [Building momentum: Over a third of the way through session - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/10/building-momentum-over-a-third-of-the-way-through-session/#:~:text=SB%205604)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 5: Reproductive freedom, gender-based violence prevention and a ban on tobacco products - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/07/this-week-in-the-senate-week-5-reproductive-freedom-gender-based-violence-prevention-and-a-ban-on-tobacco-products/#:~:text=Senate%20Bill%205604)
 * 02/07/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: K-12 learning loss leaving our kids behind - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-k-12-learning-loss-leaving-kids-behind/#:~:text=SB%205604)

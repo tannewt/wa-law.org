@@ -13,6 +13,10 @@
 ### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements   ❓1
 * ❓ Karl Almgren
 
+### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
+
+### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
+
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓1
 * ❓ Karl Almgren
 

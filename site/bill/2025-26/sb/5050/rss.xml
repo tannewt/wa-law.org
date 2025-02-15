@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5050/</link>
 		<description>Updates about SB 5050</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 01:58:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -43,6 +43,14 @@
 			<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-11/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>❓Brian Hatfield - Office of Secretary of State</title>
+			<description>Brian Hatfield signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/office_of_secretary_of_state/"&gt;Office of Secretary of State&lt;/a&gt;.</description>
+			<pubDate>Fri, 14 Feb 2025 01:58:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Brian/Hatfield/2025-02-14 01:58:09</guid>
 		</item>
 	</channel>
 </rss>

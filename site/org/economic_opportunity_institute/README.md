@@ -25,6 +25,8 @@
 
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍1  
 
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
+
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 * 👍 Sam Hatzenbeler
 
@@ -45,6 +47,8 @@
 
 ### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  
 
+### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave 👍1  
+
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍3  
 * 👍💵 Gabriela Quintana
 
@@ -58,11 +62,11 @@
 
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
 
-## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemption amount 👍1  
+## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
 
 ## 2023-24
 
-### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemption amount 👍1  
+### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemptions 👍1  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Traci Underwood

@@ -1,0 +1,83 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5753](/bill/2025-26/sb/5753/) > [Original Bill](/bill/2025-26/sb/5753/1/)
+
+# SB 5753 - Public housing task force
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5753.pdf)
+
+## Section 1
+1. The legislature finds that every Washington resident deserves access to adequate housing, a fundamental human right recognized by the United Nations universal declaration of human rights. Despite the state's economic growth, thousands of individuals remain homeless, including working families who cannot afford housing near their jobs, people who have lost their homes due to foreclosure or medical debt, and individuals with disabilities who are unable to work.
+
+2. The legislature further finds that Washington is experiencing a severe housing shortage, with projections indicating that 1,100,000 new housing units will be needed by 2040 to meet demand. However, current development trends suggest the state will fall at least 500,000 units short, exacerbating affordability challenges and deepening the housing crisis. While nonprofit developers and public housing authorities play a role in addressing housing insecurity, their efforts alone are insufficient to meet the scale of need.
+
+3. The legislature finds that previous approaches, tax breaks, incentives, and financial subsidies, have failed to generate the necessary housing supply. The private market has neither the incentive nor the ability to produce affordable housing at the scale required. Developers benefit from constrained supply, as rising property values increase profits, reducing their motivation to build affordable housing. Furthermore, reliance on tax incentives depletes state resources without correcting the underlying imbalance between housing supply and demand.
+
+4. The legislature further finds that housing has increasingly become a commodity for financial speculation rather than a basic human need. The financialization of housing, driven by global capital markets and speculative investment, has accelerated displacement and eroded affordability, particularly for low-income communities, people with disabilities, and communities of color. The rising cost of housing, combined with spatial segregation and economic exclusion, has left many Washington residents without stable, secure housing.
+
+5. The legislature recognizes that Washington has both the means and responsibility to address this crisis, yet the gap between supply and demand continues to grow, leading to escalating housing costs across all income levels. The legislature intends to restore public housing as a core function of government. Public housing in the United States was historically undermined by deliberate government disinvestment and racially exclusionary policies, yet successful models from other jurisdictions demonstrate that well planned, publicly owned housing can provide long-term affordability and stability. The state and local governments collectively own vast amounts of public land, which must be strategically leveraged to reduce development costs and ensure housing remains permanently affordable.
+
+6. The legislature further finds that local governments lack the financial and administrative capacity to address the housing crisis at the necessary scale.
+
+7. Therefore, the legislature intends to look at establishing a statewide housing authority to oversee the development, maintenance, and operation of public housing. The authority should be tasked with ensuring that all public housing developments align with internationally recognized housing adequacy standards, including security of tenure, affordability, accessibility, and proximity to essential services. To support with financing for this effort, the legislature intends to look at creating a dedicated public housing account, which may be capitalized through legislative appropriations, dedicated revenue streams or other means and, if authorized, financing from a publicly owned depository bank.
+
+## Section 2
+1. The task force on public housing is established. The task force shall look at using a public housing paradigm as a means of meeting housing demand for the future and shall look at leveraging publicly constructed, owned, and operated mixed-income housing. The task force shall provide recommendations to the legislature regarding mixed-income housing in the state of Washington.
+
+2. The task force must review and consider, at minimum, the following:
+
+    a. Future funding mechanisms that could be used towards development of mixed-income housing and the extent to which this funding is already used for this purpose;
+
+    b. Alternative funding strategies that could be used to fund publicly owned mixed-use housing, which should include but is not limited to reviewing other state programs which publicly fund development and whether use of a state housing authority, or similar entity created to address the housing issue as a coordinated statewide issue, to borrow funds from a Washington state publicly owned depository bank could be beneficial;
+
+    c. Review of the land inventory conducted by state agencies and other available public lands to determine if those lands could be used for the purpose of publicly owned housing development and whether use of a state land bank or similar structure could facilitate development of affordable housing;
+
+    d. Review the United Nations human rights office of the high commissioner's definition of housing adequacy and develop a strategic plan to create livable communities for all Washingtonians to thrive, including sufficient publicly owned housing supply to offset demand; and
+
+    e. Structural governance changes and financing changes that may be necessary to the state's housing strategy to address the housing crisis on a statewide basis, such as a statewide housing authority.
+
+3. The task force shall provide a preliminary report on its findings under subsection (2) of this section to the legislature by July 1, 2026, and provide a final report by November 1, 2026, that includes recommendations to the legislature regarding:
+
+    a. How to restructure public housing development to address affordability at all income levels but especially for homeless persons and residents that are at or below 200 percent of the area median income;
+
+    b. Strategies to implement public housing to increase affordability of housing units including separating values of land from the improvements on the land in public housing projects for possible sale of individual units to help with overall construction and maintenance costs; and
+
+    c. Strategies to create whole livable communities using public housing as the anchor strategy with all necessary amenities required for healthy communities including but not limited to classroom and child care spaces, shopping stores for grocery and household needs, small business spaces, open spaces, walkability, primary health care facilities, and accessibility to high-speed transit and jobs.
+
+4. The task force shall consist of the following members:
+
+    a. One member from each of the two largest caucuses of the senate, appointed by the president of the senate;
+
+    b. One member from each of the two largest caucuses of the house of representatives, appointed by the speaker of the house;
+
+    c. The lieutenant governor or the lieutenant governor's designee;
+
+    d. The director of the department of commerce or the director's designee;
+
+    e. One representative from the Washington state housing finance commission;
+
+    f. One representative from each ethnic commission, as defined in RCW 44.28.005, appointed by the director of each respective commission;
+
+    g. The director of the governor's office of Indian affairs, or the director's designee; and
+
+    h. The following members appointed jointly by the president of the senate and the speaker of the house of representatives:
+
+        i. A representative of a builders association;
+
+        ii. A representative of architects;
+
+        iii. An organization representing the nonprofit housing development industry;
+
+        iv. Two representatives from public housing authorities created under chapter 35.82 RCW, with one representative from east of the crest of the Cascade mountains and one representative from west of the crest of the Cascade mountains;
+
+    v. Two representatives of the association of Washington cities, with one representative from a city that is located east of the crest of the Cascade mountains and one representative from a city that is located west of the crest of the Cascade mountains; and
+
+    vi. At least three individuals from underrepresented populations who have direct lived experience with housing instability.
+
+5. The department of commerce must administer and provide staff support for the task force. The department of commerce may work with the task force to determine appropriate subcommittees as needed.
+
+6. The task force must hold its first meeting within 45 days of final appointments to the task force and must meet at least twice each year thereafter. The task force must submit reports to the governor and the appropriate committees of the legislature detailing its findings and recommendations. Meeting summaries must be posted to the website of the department of commerce within 30 days of any meeting by the task force.
+
+7. Legislative members of the task force shall be reimbursed for travel expenses in accordance with RCW 44.04.120. Nonlegislative members are not entitled to be reimbursed for travel expenses if they are elected officials or are participating on behalf of an employer, governmental entity, or other organization. Any reimbursement for other nonlegislative members is subject to chapter 43.03 RCW.
+
+8. To ensure that the task force has diverse and inclusive representation of those affected by its work, task force members, including subcommittee members, whose participation in the task force may be hampered by financial hardship may be compensated as provided in RCW 43.03.220.
+
+9. This section expires June 30, 2027.

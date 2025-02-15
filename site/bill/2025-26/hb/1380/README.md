@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/13/2025 [The Center Square](/org/the_center_square/) - [WA bill would let courts decide if city camping bans are ‘objectively reasonable’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_60146aa8-ea4c-11ef-ab18-73d7f7d81f91.html#:~:text=HB%201380)
+* 02/13/2025 [MyNorthwest](/org/mynorthwest/) - [WA bill letting homeless sue cities for not allowing camping, lying in parks is still alive](https://mynorthwest.com/mynorthwest-politics/wa-bill-homeless/4044891#:~:text=House%20Bill%201380)
 * 02/10/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2025 Quaker Voice Priority Bill Tracker — Quaker Voice](https://www.quakervoicewa.org/2025-quaker-voice-priority-bills/#:~:text=HB%201380)
 * 01/24/2025 [The Center Square](/org/the_center_square/) - [WA homelessness bill 'flies in the face' of SCOTUS overturning Martin v. Boise | National | thecentersquare.com](https://www.thecentersquare.com/national/article_23fb6c02-da8d-11ef-adb6-cb72701fc8ec.html#:~:text=House%20Bill%201380)
 * 01/22/2025 [MyNorthwest](/org/mynorthwest/) - [Washington Democrats push bill legalizing homeless encampments](https://mynorthwest.com/ktth/ktth-opinion/rantz-washington-democrats-bill-legalizes-homeless-encampments-stops-cities-from-restrictions/4031418#:~:text=House%20Bill%201360)

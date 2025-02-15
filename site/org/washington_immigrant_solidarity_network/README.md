@@ -3,7 +3,9 @@
 
 ### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct 👍1  
 
-### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍1  
+### [HB 1131](/bill/2025-26/hb/1131/) - Clemency and pardons 👍1  
+
+### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍2  
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
@@ -29,10 +31,14 @@
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
 
+### [HB 1561](/bill/2025-26/hb/1561/) - Domestic workers 👍1  
+
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍5  
 * 👍 Sasha Wasserstrom
 
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
+
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 

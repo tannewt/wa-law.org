@@ -101,11 +101,11 @@
 
 ### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
 
-## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
+## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
 
 ## 2023-24
 
-### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍1  
+### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍2  
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

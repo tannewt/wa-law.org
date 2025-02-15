@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32830&aId=164001&caId=25844&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32830&aId=164001&caId=25844&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Larry Kratz - IUOE Local 302
+* Terry Chapin
 
 #### 0 👎 - Con
 

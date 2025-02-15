@@ -5,10 +5,10 @@
 * 👍 Heba Qatrani
 
 ### [HB 1278](/bill/2025-26/hb/1278/) - Higher ed. gov./students 👍2  
-* 👍 Sean Behl
+* 👍💵 Sean Behl
 
 ### [HB 1486](/bill/2025-26/hb/1486/) - Student member on SBCTC 👍2  
-* 👍 Sean Behl
+* 👍💵 Sean Behl
 
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 * 👍💵 Isela Bonilla
@@ -21,13 +21,13 @@
 * 👍💵 Isela Bonilla
 
 ## [SB 5523](/bill/2025-26/sb/5523/) - Higher ed. gov./students 👍3  
-* 👍 Sean Behl
+* 👍💵 Sean Behl
 * 👍 Heba Qatrani
 
 ## 2023-24
 
 ### [SB 5523](/bill/2023-24/sb/5523/) - Higher ed. gov./students 👍3  
-* 👍 Sean Behl
+* 👍💵 Sean Behl
 * 👍 Heba Qatrani
 
 ### [HB 1559](/bill/2023-24/hb/1559/) - Postsecondary student needs 👍2  

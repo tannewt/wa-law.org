@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205633)
+
 ## Meetings
 ### Thu 02/20 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5633 Subdivision of land
 Sign up to testify:
@@ -14,8 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32823&aId=164344&caId=25864&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32823&aId=164344&caId=25864&tId=4)
 
-#### 0 👍 - Pro
+#### 31 👍 - Pro
 
-#### 0 👎 - Con
+#### 7 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

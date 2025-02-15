@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/13/2025 [KUOW](/org/kuow/) - [KUOW - Washington state drivers could be charged per mile under proposed bill](https://www.kuow.org/stories/washington-road-usage-charge-hb-1921#:~:text=similar%20proposal)
 * 12/23/2024 [The Urbanist](/org/the_urbanist/) - [The Washington State Transportation Budget Is In Deep Trouble - The Urbanist](https://www.theurbanist.org/2024/12/23/state-transportation-budget-is-in-deep-trouble/#:~:text=bill%20implementing%20a%20voluntary%20RUC)
 * 02/28/2023 [The Seattle Times](/org/the_seattle_times/) - [What’s still on the table for traffic safety in WA Legislature? | The Seattle Times](https://www.seattletimes.com/seattle-news/transportation/whats-still-on-the-table-for-traffic-safety-in-wa-legislature/#:~:text=House%20Bill%201832)
 * 02/24/2023 [The Center Square](/org/the_center_square/) - [Opponents want to pump the brakes on WA bill to implement road usage charge | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8cb01382-b49d-11ed-92ff-93e7a60d05bd.html#:~:text=House%20Bill%201832)

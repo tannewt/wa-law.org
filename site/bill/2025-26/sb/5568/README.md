@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/06 08:00 AM - Health & Long Term Care (HLTC): SB 5568 State health plan

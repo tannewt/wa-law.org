@@ -9,17 +9,12 @@
 
 ## Meetings
 ### Thu 02/13 04:00 PM - Appropriations (APP): SHB 1154 Solid waste handling
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163320&caId=25541&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163320&caId=25541&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163320&caId=25541&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163320&caId=25541&tId=4)
-
-#### 276 👍 - Pro
+#### 321 👍 - Pro
 Testifying:
 * Wendy Wickersham
 * Nancy Lust - Friends of Rocky Top
 * 💵Scott Cave - Friends of Rocky Top
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
 #### 5 👎 - Con
 Testifying:

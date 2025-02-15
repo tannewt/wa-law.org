@@ -20,6 +20,8 @@
 ### [SB 5086](/bill/2025-26/sb/5086/) - PEBB & SEBB consolidation 👍1  
 * 👍 Ronnie Shure
 
+### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program 👍1  
+
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 
 ## [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  

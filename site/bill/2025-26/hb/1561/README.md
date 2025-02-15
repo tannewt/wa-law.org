@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32856&aId=164174&caId=25954&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32856&aId=164174&caId=25954&tId=4)
 
-#### 0 👍 - Pro
+#### 239 👍 - Pro
+Testifying:
+* 💵Jean Hill - Washington State Catholic Conference
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Rachel Block

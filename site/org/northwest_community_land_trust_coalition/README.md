@@ -1,6 +1,8 @@
 # Northwest Community Land Trust Coalition
 ## 2025-26
 
+### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
+
 ## [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
 * 👍💵 Nick Federici
 

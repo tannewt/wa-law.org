@@ -13,6 +13,11 @@
 ### [HB 1732](/bill/2025-26/hb/1732/) - Home buying by entities   ❓1
 * ❓ Glen Simecek
 
+### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee  👎1 
+
+### [HB 1900](/bill/2025-26/hb/1900/) - Financial fraud protections  👎1 
+* 👎 DeeDee Anderson
+
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎2 
 * 👎 Glen Simecek
 

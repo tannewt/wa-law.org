@@ -271,6 +271,8 @@
 
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev.  👎1 
 
+### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
+
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET  👎1 
 
 ### [HB 1879](/bill/2025-26/hb/1879/) - Hospital worker breaks 👍1  
@@ -331,7 +333,7 @@
 
 ### [SB 5205](/bill/2025-26/sb/5205/) - College grant award amounts 👍1  
 
-### [SB 5207](/bill/2025-26/sb/5207/) - Requiring refunds to consumers for early cancellation of term-based subscriptions to electronic media services.  👎1 
+### [SB 5207](/bill/2025-26/sb/5207/) - Media service subscriptions  👎1 
 * 👎💵 Morgan Irwin
 
 ### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations   ❓1
@@ -392,6 +394,9 @@
 
 ### [SB 5430](/bill/2025-26/sb/5430/) - Utility wildfire mitigation 👍1  
 * 👍💵 Peter Godlewski
+
+### [SB 5434](/bill/2025-26/sb/5434/) - Gubernatorial emergencies 👍1  
+* 👍💵 Dave Mastin
 
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons   ❓1
 * ❓💵 Peter Godlewski
@@ -481,15 +486,18 @@
 
 ### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍1  
 
+### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage. 👍1  
+
 ### [SB 5660](/bill/2025-26/sb/5660/) - Water & sewage system access 👍1  
 
-## [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption 👍1  
+### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption 👍1  
 * 👍💵 Morgan Irwin
+
+## [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant 👍1  
 
 ## 2023-24
 
-### [SB 5661](/bill/2023-24/sb/5661/) - Landlord-tenant/preemption 👍1  
-* 👍💵 Morgan Irwin
+### [SB 5678](/bill/2023-24/sb/5678/) - Residential landlord-tenant 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

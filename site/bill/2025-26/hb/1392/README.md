@@ -8,23 +8,26 @@
 
 ## Meetings
 ### Thu 02/13 04:00 PM - Appropriations (APP): HB 1392 Medicaid access program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163321&caId=25542&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163321&caId=25542&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163321&caId=25542&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163321&caId=25542&tId=4)
-
-#### 212 👍 - Pro
+#### 255 👍 - Pro
 Testifying:
 * Reilly Dever
 * Douglas Seiler - TRA Medical Imaging
+* 💵Amy Brackenbury - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* 💵Sean Graham - Washington State Medical Association
+* MD, Beth Ebel - Washington Chapter of the American Academy of Pediatrics
+* MD, Douglas Seiler - TRA Medical Imaging
+* Patty Seib - Molina Healthcare
+* Jay Fathi - Molina Healthcare
 
-#### 72 👎 - Con
+#### 98 👎 - Con
 Testifying:
 * 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
 * Mike Ennis - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Chris Bandoli - National Association of Benefits and Insurance Professionals Washington
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Jim Freeburg - Patient Coalition of Washington
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)

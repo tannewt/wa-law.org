@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/12/2025 [The Center Square](/org/the_center_square/) - [Bill would bar some private, for-profit companies from WA grants for broadband expansion | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8af288d6-e99d-11ef-8132-dbe4a2a31165.html#:~:text=SB%205671)
+
 ## Meetings
 ### Wed 02/12 08:00 AM - Environment, Energy & Technology (ENET): SB 5671 Broadband grant & loan prg.
 #### 7 👍 - Pro

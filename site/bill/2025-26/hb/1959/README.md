@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/13/2025 [House Democrats](/org/house_democrats/) - [Legislative Black Caucus Condemns House Bill 1959: A Threat to Racial Equity and Justice in Washington – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/13/washington-state-legislative-black-caucus-condemns-house-bill-1959-a-threat-to-racial-equity-and-justice-in-washington/#:~:text=House%20Bill%201959)
+
 ## Meetings

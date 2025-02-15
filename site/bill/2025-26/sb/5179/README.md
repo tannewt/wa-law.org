@@ -25,11 +25,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=164372&caId=25880&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=164372&caId=25880&tId=4)
 
-#### 1 👍 - Pro
+#### 85 👍 - Pro
 Testifying:
 * Amasai Jeke - UTOPIA Washington
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Paul Hill - Moses Lake School District
 
 #### 0 ❓ - Other
 

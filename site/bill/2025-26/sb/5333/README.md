@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32798&aId=163788&caId=25855&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32798&aId=163788&caId=25855&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 
 #### 0 ❓ - Other

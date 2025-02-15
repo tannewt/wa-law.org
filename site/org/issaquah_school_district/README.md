@@ -4,6 +4,8 @@
 ### [HB 1032](/bill/2025-26/hb/1032/) - School district elections 👍1  
 * 👍 Martin Turney
 
+### [HB 1042](/bill/2025-26/hb/1042/) - County treasurer costs  👎2 
+
 ### [HB 1310](/bill/2025-26/hb/1310/) - Special education funding 👍1  
 * 👍 Martin Turney
 
@@ -20,7 +22,8 @@
 ### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍1  
 * 👍 Martin Turney
 
-### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍1  
+### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍3  
+* 👍 Martin Turney
 * 👍 Martin Turney
 
 ### [SB 5186](/bill/2025-26/sb/5186/) - School district elections   ❓1
@@ -45,13 +48,16 @@
 ### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍1  
 * 👍 Jason Morse
 
-## [SB 5593](/bill/2025-26/sb/5593/) - School levies & local effort 👍1  
+### [SB 5593](/bill/2025-26/sb/5593/) - School levies & local effort 👍1  
 * 👍 Martin Turney
+
+## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds   ❓1
+* ❓ Harlan Gallinger
 
 ## 2023-24
 
-### [SB 5593](/bill/2023-24/sb/5593/) - School levies & local effort 👍1  
-* 👍 Martin Turney
+### [SJR 8200](/bill/2023-24/sjr/8200/) - School district local funds   ❓1
+* ❓ Harlan Gallinger
 
 ### [HB 1608](/bill/2023-24/hb/1608/) - Anaphylaxis meds./schools 👍2  
 

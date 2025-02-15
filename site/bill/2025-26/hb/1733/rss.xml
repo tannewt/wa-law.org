@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1733/</link>
 		<description>Updates about HB 1733</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 06:29:58 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -61,6 +61,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Keith/Edwards/2025-02-11 06:29:58</guid>
+		</item>
+		<item>
+			<title>CRJ - Executive action taken by committee.</title>
+			<description>CRJ - Executive action taken by committee.</description>
+			<pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-14/CRJ - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

@@ -1,6 +1,9 @@
 # Washington Public Ports Association
 ## 2025-26
 
+### [HB 1042](/bill/2025-26/hb/1042/) - County treasurer costs  👎1 
+* 👎 Chris Herman
+
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍2  
 * 👍💵 Christopher Herman
 
@@ -53,13 +56,23 @@
 ### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment  👎1 
 * 👎💵 Carly Michiels
 
+### [HB 1726](/bill/2025-26/hb/1726/) - WA lumber mills/public works   ❓1
+* ❓ Chris Herman
+
 ### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval 👍1  
 * 👍 Chris Herman
 
 ### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
 
-### [HB 1906](/bill/2025-26/hb/1906/) - Water system rates   ❓1
+### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
+* 👍 Chris Herman
+
+### [HB 1906](/bill/2025-26/hb/1906/) - Water system rates   ❓3
 * ❓💵 Carly Michiels
+* ❓ Eric ffitch
+* ❓💵 Carly Michiels
+
+### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex. 👍1  
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍 Chris Herman
@@ -93,6 +106,9 @@
 ### [SB 5370](/bill/2025-26/sb/5370/) - Port commissioner terms 👍1  
 * 👍 Eric ffitch
 
+### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use   ❓1
+* ❓💵 James Cockburn
+
 ### [SB 5464](/bill/2025-26/sb/5464/) - CDL federal standards 👍1  
 
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
@@ -100,12 +116,17 @@
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment  👎1 
 * 👎💵 Carly Michiels
 
-## [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+* 👍 Chris Herman
+
+### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  
+
+## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍 Chris Herman
 
 ## 2023-24
 
-### [SB 5601](/bill/2023-24/sb/5601/) - Alternative jet fuels 👍1  
+### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
 * 👍 Chris Herman
 
 ### [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  

@@ -27,7 +27,8 @@
 
 ### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
 
-### [HB 1825](/bill/2025-26/hb/1825/) - Grizzly bear management 👍1  
+### [HB 1825](/bill/2025-26/hb/1825/) - Grizzly bear management 👍2  
+* 👍 Joe Scott
 * 👍 Joe Scott
 
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
@@ -35,7 +36,8 @@
 ### [SB 5171](/bill/2025-26/sb/5171/) - Wolf predation 👍1  
 * 👍💵 Paula Swedeen
 
-### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍2  
+* 👍💵 Paula Swedeen
 * 👍💵 Paula Swedeen
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
@@ -45,15 +47,19 @@
 ### [SB 5343](/bill/2025-26/sb/5343/) - NE WA wolf-livestock account 👍2  
 * 👍💵 Paula Swedeen
 
+### [SB 5354](/bill/2025-26/sb/5354/) - Gray wolf management  👎1 
+
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 
-## [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
+### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
+
+## [SB 5590](/bill/2025-26/sb/5590/) - Livestock wolf predation  👎1 
 
 ## 2023-24
 
-### [SB 5491](/bill/2023-24/sb/5491/) - Prescribed fire claims 👍1  
+### [SB 5590](/bill/2023-24/sb/5590/) - Livestock wolf predation  👎1 
 
 ### [HB 1216](/bill/2023-24/hb/1216/) - Clean energy siting   ❓1
 * ❓ Jay Kehne

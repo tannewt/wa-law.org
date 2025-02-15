@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/11/2025 [MyNorthwest](/org/mynorthwest/) - [Curley: New Washington misdemeanors bill is 'simply going soft on criminals again'](https://mynorthwest.com/john-curley/curley-new-wa-bill-proposals/4043961#:~:text=House%20Bill%201113)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201113)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201113)
 

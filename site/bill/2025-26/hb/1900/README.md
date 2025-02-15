@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32800&aId=164306&caId=25919&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32800&aId=164306&caId=25919&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Barbara Putnam
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Dennis D'Ambrosio - Heritage Bank
+* DeeDee Anderson - [Washington Bankers Association](/org/washington_bankers_association/)
 
 #### 0 ❓ - Other

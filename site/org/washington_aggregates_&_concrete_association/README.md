@@ -17,6 +17,9 @@
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
+### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
+* 👍💵 Cory Shaw
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Cory Shaw
 

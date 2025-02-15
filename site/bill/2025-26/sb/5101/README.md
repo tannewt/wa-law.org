@@ -13,15 +13,9 @@
 
 ## Meetings
 ### Thu 02/13 04:00 PM - Ways & Means (WM): SSB 5101 Worker leave/hate crimes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163641&caId=25749&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163641&caId=25749&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163641&caId=25749&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163641&caId=25749&tId=4)
+#### 44 👍 - Pro
 
-#### 40 👍 - Pro
-
-#### 476 👎 - Con
+#### 539 👎 - Con
 Testifying:
 * TaraLyn Fray
 

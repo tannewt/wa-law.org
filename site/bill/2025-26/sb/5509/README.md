@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/06 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5509 Child care center siting

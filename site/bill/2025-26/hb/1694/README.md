@@ -8,21 +8,18 @@
 
 ## Meetings
 ### Thu 02/13 01:30 PM - Finance (FIN): HB 1694 City & county REET revenues
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163107&caId=25607&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163107&caId=25607&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163107&caId=25607&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163107&caId=25607&tId=4)
-
-#### 18 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Ariana Sherlock - Councilmember, City of Newcastle
 * Scott Pingel - City Manager, Newcastle
+* 💵Colleen Meiners - [City of Moses Lake](/org/city_of_moses_lake/)
 
-#### 448 👎 - Con
+#### 552 👎 - Con
 Testifying:
 * TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Bill Clarke

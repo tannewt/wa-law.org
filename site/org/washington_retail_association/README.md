@@ -14,7 +14,7 @@
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍1  
 * 👍💵 Mark Johnson
 
-### [HB 1095](/bill/2025-26/hb/1095/) - Law enforcement funding 👍1  
+### [HB 1095](/bill/2025-26/hb/1095/) - Law enforcement funding 👍2  
 
 ### [HB 1107](/bill/2025-26/hb/1107/) - Concerning environmental impacts of fashion.  👎1 
 * 👎💵 Crystal Leatherman
@@ -59,6 +59,10 @@
 ### [HB 1318](/bill/2025-26/hb/1318/) - Children's diapers sales tax 👍1  
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth  👎1 
+
+### [HB 1375](/bill/2025-26/hb/1375/) - Estate tax exclusion 👍1  
+
+### [HB 1376](/bill/2025-26/hb/1376/) - Capital gains tax prepayment 👍1  
 
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎1 
 
@@ -115,6 +119,10 @@
 
 ### [HB 1775](/bill/2025-26/hb/1775/) - Fur products  👎1 
 
+### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
+
+### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers  👎1 
@@ -139,7 +147,7 @@
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers   ❓1
 * ❓💵 Mark Johnson
 
-### [SB 5201](/bill/2025-26/sb/5201/) - Psychedelic substances 👍1  
+### [SB 5201](/bill/2025-26/sb/5201/) - Psychedelic substances 👍2  
 * 👍💵 Mark Johnson
 
 ### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍1  
@@ -152,6 +160,8 @@
 
 ### [SB 5315](/bill/2025-26/sb/5315/) - Local tax rate changes 👍1  
 * 👍💵 Mark Johnson
+
+### [SB 5333](/bill/2025-26/sb/5333/) - Eluding & resisting arrest 👍1  
 
 ### [SB 5367](/bill/2025-26/sb/5367/) - Law enf. community grants 👍1  
 

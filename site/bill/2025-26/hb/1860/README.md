@@ -8,18 +8,17 @@
 
 ## Meetings
 ### Fri 02/14 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1860 Supply chain competitiveness
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32783&aId=163711&caId=25767&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32783&aId=163711&caId=25767&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32783&aId=163711&caId=25767&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32783&aId=163711&caId=25767&tId=4)
-
-#### 23 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Paul Jarkiewicz - [Port of Port Angeles](/org/port_of_port_angeles/)
 * Sr., Timothy Greene - Makah Tribal Council
 * Cassie Hammond - Port of Benton
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
+* Sean Eagan - Northwest Seaport Alliance
+* Mike Hogan - [Port of Bellingham](/org/port_of_bellingham/)
+* Adam LeMieux - [Port of Everett](/org/port_of_everett/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

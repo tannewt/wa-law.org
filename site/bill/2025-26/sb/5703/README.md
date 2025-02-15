@@ -14,8 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164338&caId=25859&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164338&caId=25859&tId=4)
 
-#### 0 👍 - Pro
+#### 68 👍 - Pro
+Testifying:
+* Joshua Victor
+* Lisa Brown - Spokane City Council
+* Kara Odegard - Measure Meant
+* Mayor Lisa Brown - [City of Spokane](/org/city_of_spokane/)
+* James Tieken - AFSCME Local 270 Spokane City Employees
+* 💵Paul Dillon - Spokane City Council President Pro-Tem
+* Chris Jordan - Spokane County Commissioners
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Larry Luton - 350 Spokane
 
 #### 0 ❓ - Other

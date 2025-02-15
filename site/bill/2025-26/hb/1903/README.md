@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Thu 02/13 08:00 AM - Environment & Energy (ENVI): HB 1903 Low-income energy assistance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163737&caId=25795&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163737&caId=25795&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163737&caId=25795&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163737&caId=25795&tId=4)
-
-#### 458 👍 - Pro
+#### 494 👍 - Pro
 Testifying:
 * Daniel Fagerlie - Ferry PUD
 * Adán Espino Jr - Franklin Public Utility District
@@ -31,9 +25,9 @@ Testifying:
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * Sahar Al Alarasi - Mother Africa
 
-#### 427 👎 - Con
+#### 460 👎 - Con
 
-#### 12 ❓ - Other
+#### 14 ❓ - Other
 Testifying:
 * 💵Linda Garcia - [Washington State Community Action Partnership](/org/washington_state_community_action_partnership/)
 * Austin Scharff - Washington State Department of Commerce

@@ -1,13 +1,16 @@
 # Thurston County
 ## 2025-26
 
-## [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
+### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
 * 👍 Commissioner Rachel Grant
+
+## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+* 👍 Commissioner Carolina Mejia
 
 ## 2023-24
 
-### [HB 1813](/bill/2023-24/hb/1813/) - Medical assist reprocurement 👍1  
-* 👍 Commissioner Rachel Grant
+### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
+* 👍 Commissioner Carolina Mejia
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

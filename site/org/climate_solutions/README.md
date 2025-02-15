@@ -3,7 +3,7 @@
 
 ### [HB 1015](/bill/2025-26/hb/1015/) - Energy labeling/residential 👍1  
 
-### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act. 👍1  
+### [HB 1135](/bill/2025-26/hb/1135/) - Local government planning 👍1  
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
@@ -41,6 +41,9 @@
 
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth 👍1  
 * 👍 Kurt Ellison
+
+### [HB 1721](/bill/2025-26/hb/1721/) - Zero emissions vehicles/sale 👍1  
+* 👍💵 Leah Missik
 
 ### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍2  
 * 👍💵 Leah Missik

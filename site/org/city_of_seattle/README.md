@@ -96,6 +96,8 @@
 
 ### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
 
+### [HB 1864](/bill/2025-26/hb/1864/) - Ambulances/transport options 👍1  
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  

@@ -21,7 +21,7 @@
 ### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification  👎1 
 * 👎💵 Brad Banks
 
-### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act.   ❓1
+### [HB 1135](/bill/2025-26/hb/1135/) - Local government planning   ❓1
 * ❓💵 Kelsey Hulse
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals   ❓1
@@ -250,11 +250,17 @@
 ### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
 * 👍💵 Curtis Steinhauer
 
+### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload   ❓1
+* ❓💵 Curtis Steinhauer
+
 ### [SB 5613](/bill/2025-26/sb/5613/) - Residential development   ❓1
 * ❓💵 Curtis Steinhauer
 
 ### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees  👎1 
 * 👎💵 Curtis Steinhauer
+
+### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
+* ❓💵 Curtis Steinhauer
 
 ### [SB 5660](/bill/2025-26/sb/5660/) - Water & sewage system access 👍2  
 * 👍💵 Kelsey Hulse
@@ -262,11 +268,17 @@
 ### [SB 5679](/bill/2025-26/sb/5679/) - Multifamily tax exemption 👍1  
 * 👍 BRIAN ENSLOW
 
-## [SB 5684](/bill/2025-26/sb/5684/) - Electioneering/auditors 👍1  
+### [SB 5684](/bill/2025-26/sb/5684/) - Electioneering/auditors 👍1  
+
+### [SB 5699](/bill/2025-26/sb/5699/) - Intensive rural development 👍1  
+
+## [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners   ❓1
+* ❓💵 Curtis Steinhauer
 
 ## 2023-24
 
-### [SB 5684](/bill/2023-24/sb/5684/) - Electioneering/auditors 👍1  
+### [SB 5719](/bill/2023-24/sb/5719/) - Local gov. hearing examiners   ❓1
+* ❓💵 Curtis Steinhauer
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

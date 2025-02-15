@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164141&caId=25962&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164141&caId=25962&tId=4)
 
-#### 8 👍 - Pro
+#### 226 👍 - Pro
+Testifying:
+* Shawn Merchant - Office of the Secretary of State
 
-#### 0 👎 - Con
+#### 33 👎 - Con
 
 #### 0 ❓ - Other

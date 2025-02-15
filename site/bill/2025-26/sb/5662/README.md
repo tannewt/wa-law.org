@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164337&caId=25858&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164337&caId=25858&tId=4)
 
-#### 0 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Michelle Girardot - Habitat for Humanity-Spokane
+* 💵Ben Stuckart - [Spokane Low Income Housing Consortium](/org/spokane_low_income_housing_consortium/)
+* Michelle Girardot - Habitat for Humanity-Spokane
 
 #### 0 👎 - Con
 

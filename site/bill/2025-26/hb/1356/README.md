@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/12/2025 [The Center Square](/org/the_center_square/) - [Dems push to repeal WA’s cap on property tax hikes encounters stiff resistance | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d0a9526c-e987-11ef-9265-bb7192c4bf36.html#:~:text=House%20Bill%201356)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201356)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201356)
 * 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201356)

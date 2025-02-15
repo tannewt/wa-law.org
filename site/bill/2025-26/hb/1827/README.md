@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/13 08:00 AM - Education (ED): HB 1827 Basic education/juv. justice
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32771&aId=163283&caId=25590&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32771&aId=163283&caId=25590&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32771&aId=163283&caId=25590&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32771&aId=163283&caId=25590&tId=4)
-
-#### 25 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
 * Derona Uzzle
@@ -22,7 +16,7 @@ Testifying:
 * Dr. Heather Schilling - WEA/Green Hill School Staff
 * Steven Klein - WEA/Lewis County Juvenile Det. Center staff
 
-#### 394 👎 - Con
+#### 425 👎 - Con
 Testifying:
 * TaraLyn Fray
 

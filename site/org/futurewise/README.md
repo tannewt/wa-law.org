@@ -7,7 +7,7 @@
 ### [HB 1097](/bill/2025-26/hb/1097/) - Extending governmental services beyond the urban growth area in specific circumstances.  👎1 
 * 👎💵 Bryce Yadon
 
-### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act. 👍1  
+### [HB 1135](/bill/2025-26/hb/1135/) - Local government planning 👍1  
 * 👍💵 Bryce Yadon
 
 ### [HB 1164](/bill/2025-26/hb/1164/) - Urban growth area boundaries  👎1 
@@ -120,12 +120,21 @@
 ### [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits  👎1 
 * 👎💵 Bryce Yadon
 
-## [SB 5660](/bill/2025-26/sb/5660/) - Water & sewage system access  👎1 
+### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
+
+### [SB 5660](/bill/2025-26/sb/5660/) - Water & sewage system access  👎1 
+* 👎💵 Bryce Yadon
+
+### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption  👎1 
+
+### [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
+
+## [SB 5679](/bill/2025-26/sb/5679/) - Multifamily tax exemption  👎1 
 * 👎💵 Bryce Yadon
 
 ## 2023-24
 
-### [SB 5660](/bill/2023-24/sb/5660/) - Water & sewage system access  👎1 
+### [SB 5679](/bill/2023-24/sb/5679/) - Multifamily tax exemption  👎1 
 * 👎💵 Bryce Yadon
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/04 10:30 AM - Local Government (LG): HB 1529 Cities/county road resources

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/12/2025 [MyNorthwest](/org/mynorthwest/) - [Democratic proposal would raise state minimum wage to $25/hour by 2032](https://mynorthwest.com/mynorthwest-politics/minimum-wage/4044199#:~:text=Senate%20Bill%205578)
+
 ## Meetings
 ### Tue 02/11 10:30 AM - Labor & Commerce (LC): SB 5578 Labor standards
 #### 771 👍 - Pro

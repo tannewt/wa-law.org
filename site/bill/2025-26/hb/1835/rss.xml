@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1835/</link>
 		<description>Updates about HB 1835</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 12:55:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,30 @@
 			<pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-04/First reading, referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
+			<title>👎Bill Wagenseller - Washington Bud Company</title>
+			<description>Bill Wagenseller signed up to testify Con. They are signed up to represent Washington Bud Company.</description>
+			<pubDate>Fri, 14 Feb 2025 08:15:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bill/Wagenseller/2025-02-14 08:15:00</guid>
+		</item>
+		<item>
+			<title>👎Shawn DeNae Wagenseller - Washington Bud Company</title>
+			<description>Shawn DeNae Wagenseller signed up to testify Con. They are signed up to represent Washington Bud Company.</description>
+			<pubDate>Fri, 14 Feb 2025 08:15:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Shawn DeNae/Wagenseller/2025-02-14 08:15:00</guid>
+		</item>
+		<item>
+			<title>👎Caitlein Ryan - THE CANNABIS ALLIANCE</title>
+			<description>Caitlein Ryan signed up to testify Con. They are signed up to represent THE CANNABIS ALLIANCE.</description>
+			<pubDate>Fri, 14 Feb 2025 12:55:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Caitlein/Ryan/2025-02-14 12:55:01</guid>
 		</item>
 	</channel>
 </rss>

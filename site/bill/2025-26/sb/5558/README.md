@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/03 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5558 Growth management comp plans

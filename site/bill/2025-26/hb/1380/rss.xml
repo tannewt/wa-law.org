@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1380/</link>
 		<description>Updates about HB 1380</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Feb 2025 12:55:55 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Feb 2025 16:08:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -494,6 +494,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Callista/Behm/2025-02-12 12:55:55</guid>
+		</item>
+		<item>
+			<title>WA bill letting homeless sue cities for not allowing camping, lying in parks is still alive</title>
+			<description>News article "WA bill letting homeless sue cities for not allowing camping, lying in parks is still alive" from MyNorthwest.</description>
+			<pubDate>Thu, 13 Feb 2025 05:00:27 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/mynorthwest-politics/wa-bill-homeless/4044891#:~:text=House%20Bill%201380</guid>
+		</item>
+		<item>
+			<title>WA bill would let courts decide if city camping bans are ‘objectively reasonable’ | Washington | thecentersquare.com</title>
+			<description>News article "WA bill would let courts decide if city camping bans are ‘objectively reasonable’ | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 13 Feb 2025 16:08:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_60146aa8-ea4c-11ef-ab18-73d7f7d81f91.html#:~:text=HB%201380</guid>
 		</item>
 	</channel>
 </rss>

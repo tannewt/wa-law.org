@@ -14,17 +14,20 @@
 ### [HB 1442](/bill/2025-26/hb/1442/) - Gray wolf management  👎2 
 * 👎 Cat Kelly
 
+### [HB 1608](/bill/2025-26/hb/1608/) - Farmed octopus 👍1  
+* 👍 Cat Kelly
+
 ### [HB 1735](/bill/2025-26/hb/1735/) - Force-feeding of birds 👍1  
 
 ### [HB 1775](/bill/2025-26/hb/1775/) - Fur products 👍2  
 * 👍 Cat Kelly
 
-## [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍2  
+## [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍3  
 * 👍 Cat Kelly
 
 ## 2023-24
 
-### [SB 5203](/bill/2023-24/sb/5203/) - Wildlife safe passages 👍2  
+### [SB 5203](/bill/2023-24/sb/5203/) - Wildlife safe passages 👍3  
 * 👍 Cat Kelly
 
 ### [HB 1153](/bill/2023-24/hb/1153/) - Octopus farming 👍2  

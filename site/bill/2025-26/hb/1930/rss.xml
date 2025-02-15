@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1930/</link>
 		<description>Updates about HB 1930</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 07:46:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,54 @@
 			<pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-10/First reading, referred to Agriculture &amp; Natural Resources.</guid>
+		</item>
+		<item>
+			<title>❓Josh Rosenau - Mountain Lion Foundation</title>
+			<description>Josh Rosenau signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/mountain_lion_foundation/"&gt;Mountain Lion Foundation&lt;/a&gt;.</description>
+			<pubDate>Thu, 13 Feb 2025 03:22:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Josh/Rosenau/2025-02-13 03:22:25</guid>
+		</item>
+		<item>
+			<title>👍Kelsey Ross - Self Inc</title>
+			<description>Kelsey Ross signed up to testify Pro.</description>
+			<pubDate>Thu, 13 Feb 2025 04:58:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kelsey/Ross/2025-02-13 04:58:35</guid>
+		</item>
+		<item>
+			<title>👎Brandon Warner - --select an item--</title>
+			<description>Brandon Warner signed up to testify Con.</description>
+			<pubDate>Thu, 13 Feb 2025 06:26:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Brandon/Warner/2025-02-13 06:26:38</guid>
+		</item>
+		<item>
+			<title>👍Dane Czarnecki - --select an item--</title>
+			<description>Dane Czarnecki signed up to testify Pro. They are signed up to represent --select an item--.</description>
+			<pubDate>Thu, 13 Feb 2025 08:06:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dane/Czarnecki/2025-02-13 08:06:19</guid>
+		</item>
+		<item>
+			<title>👍Brennan Gray - --select an item--</title>
+			<description>Brennan Gray signed up to testify Pro.</description>
+			<pubDate>Thu, 13 Feb 2025 08:07:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brennan/Gray/2025-02-13 08:07:49</guid>
+		</item>
+		<item>
+			<title>👍Ryan Garrett - --select an item--</title>
+			<description>Ryan Garrett signed up to testify Pro.</description>
+			<pubDate>Fri, 14 Feb 2025 07:46:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ryan/Garrett/2025-02-14 07:46:49</guid>
 		</item>
 	</channel>
 </rss>

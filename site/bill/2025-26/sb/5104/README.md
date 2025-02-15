@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/15/2025 [Senate Democrats](/org/senate_democrats/) - [Public testimony, public banking - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/02/14/public-testimony-public-banking/#:~:text=5104)
+* 02/13/2025 [Washington State Standard](/org/washington_state_standard/) - [WA bill intends to protect immigrants from coercion in the workplace • Washington State Standard](https://washingtonstatestandard.com/2025/02/12/wa-bill-intends-to-protect-immigrants-from-coercion-in-the-workplace/#:~:text=Senate%20Bill%205104)
 * 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [Hasegawa bill to protect employees from immigration-status-based coercion - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/02/03/hasegawa-bill-to-protect-employees-from-immigration-status-based-coercion/#:~:text=5104)
 
 ## Meetings

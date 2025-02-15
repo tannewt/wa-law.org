@@ -14,10 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164225&caId=25815&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164225&caId=25815&tId=4)
 
-#### 1 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Brad Manke - Stevens County Sheriff's Office
 
-#### 0 👎 - Con
+#### 173 👎 - Con
+Testifying:
+* David Linn
+* MLou Christ
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Mick Cope - WDFW

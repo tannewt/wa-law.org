@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1052/</link>
 		<description>Updates about HB 1052</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -116,6 +116,13 @@
 			<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-11/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 61; nays, 31; absent, 0; excused, 6.</title>
+			<description>Third reading, passed; yeas, 61; nays, 31; absent, 0; excused, 6.</description>
+			<pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-13/Third reading, passed; yeas, 61; nays, 31; absent, 0; excused, 6.</guid>
 		</item>
 	</channel>
 </rss>

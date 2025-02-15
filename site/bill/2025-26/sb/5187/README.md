@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/14/2025 [Senate Democrats](/org/senate_democrats/) - [72 days to go - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/14/72-days-to-go/#:~:text=Senate%20Bill%205187)
+* 02/13/2025 [Washington St Pta](/org/washington_st_pta/) - [WSPTA Testifies: Fully Fund Special Education and Student Transportation - WSPTA](https://www.wastatepta.org/wspta-testifies-fully-fund-special-education-and-student-transportation/#:~:text=SB%205187)
 * 02/11/2025 [Senate Democrats](/org/senate_democrats/) - [Progress and priorities this session - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/02/11/progress-and-priorities-this-session/#:~:text=5187)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 5: Reproductive freedom, gender-based violence prevention and a ban on tobacco products - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/07/this-week-in-the-senate-week-5-reproductive-freedom-gender-based-violence-prevention-and-a-ban-on-tobacco-products/#:~:text=SB%205187)
 * 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205187)

@@ -8,16 +8,18 @@
 
 ## Meetings
 ### Fri 02/14 08:00 AM - Health & Long Term Care (HLTC): SB 5606 Long-term care ombud funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163573&caId=25692&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163573&caId=25692&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163573&caId=25692&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163573&caId=25692&tId=4)
-
-#### 361 👍 - Pro
+#### 494 👍 - Pro
 Testifying:
 * Don Bastian
+* Cathleen MacCaul - AARP Washington State
+* 💵Melanie Smith - WA State Long Term Care Ombuds Program
+* Dana Gargus - Kitsap County Regional LTC Ombuds
+* Kirsten York - Multi-Service Center
+* Mike Reardon - Area Agency on Aging & Disabilities of Southwest Washington
+* Alyssa Arley - A2z Elite Services
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Dave Pringle - Dept. of Commerce

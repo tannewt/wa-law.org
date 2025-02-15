@@ -15,11 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164382&caId=25890&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164382&caId=25890&tId=4)
 
-#### 0 👍 - Pro
+#### 340 👍 - Pro
+Testifying:
+* 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Steve Erickson - Whidbey Environmental Action Network
 
 ### Mon 01/27 04:00 PM - Transportation (TRAN): SB 5203 Wildlife safe passages
 #### 271 👍 - Pro

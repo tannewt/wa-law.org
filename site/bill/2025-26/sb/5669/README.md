@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164228&caId=25818&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164228&caId=25818&tId=4)
 
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* MICHELE KIESZ - Kagele/Kiesz Family Farms
+* 💵John Stuhlmiller - Washington State Water Resources Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

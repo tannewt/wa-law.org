@@ -33,7 +33,7 @@ Testifying:
 * Bethany Rondeaux
 * 💵Lukas Hunter - [Harmony Farms](/org/harmony_farms/)
 * Brandon Park - DLH Ranch Tier 1 Producer/Processor
-* Andy Brassington - Evergreen Herbal
+* Andy Brassington - [Evergreen Herbal](/org/evergreen_herbal/)
 * 💵Brooke Davies - Washington CannaBusiness Association
 * Jordan Zager
 * Andrew Darnell - Dewey Scientific.
@@ -100,7 +100,7 @@ Testifying:
 Testifying:
 * 💵Brooke Davies - Washington CannaBusiness Association
 * 💵Ezra Eickmeyer - Producers NW
-* Andy Brassington - Evergreen Herbal
+* Andy Brassington - [Evergreen Herbal](/org/evergreen_herbal/)
 * Brandon Park - Hygge Farms Tier 1 Producer/Processor
 
 #### 1 ❓ - Other

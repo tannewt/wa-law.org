@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/12/2025 [KING5](/org/king5/) - [Why a bill to allow Washington to 'ditch the switch' is stalled in Olympia | king5.com](https://www.king5.com/article/news/politics/state-politics/get-rid-daylight-savings-time-standard-time-washington/281-c7c3ecd4-5edd-4a33-9899-41bc01619fa3#:~:text=SB%205001)
+
 ## Meetings

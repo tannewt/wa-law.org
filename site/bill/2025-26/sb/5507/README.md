@@ -8,20 +8,18 @@
 
 ## Meetings
 ### Fri 02/14 08:00 AM - Health & Long Term Care (HLTC): SB 5507 Massage therapy coverage
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163575&caId=25694&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163575&caId=25694&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163575&caId=25694&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32791&aId=163575&caId=25694&tId=4)
-
-#### 43 👍 - Pro
+#### 97 👍 - Pro
 Testifying:
 * Myesha Mitchell - My Time For Massage
 * Julia LaBarge
 * 💵Leslie Emerick - American Massage Therapy Association WA Chapter (AMTA-WA)
 * Julie Onofrio - American Massage Therapy Association - WA
 * Christine Hoober - AMTA
+* Jennifer Santino
+* Maria Green
+* AIMEELEE BUSCH - I am a 20 year Washington State Licensed Massage Practitioner
+* Kathryn Lewandowsky - Whole Washington
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

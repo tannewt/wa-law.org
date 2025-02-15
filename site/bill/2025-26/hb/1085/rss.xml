@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1085/</link>
 		<description>Updates about HB 1085</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Feb 2025 18:40:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -153,6 +153,20 @@
 			<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-11/CS - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-13/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>Bills protecting WA youth refs makes way to Legislature | FOX 13 Seattle</title>
+			<description>News article "Bills protecting WA youth refs makes way to Legislature | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Thu, 13 Feb 2025 18:40:02 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/bills-youth-referees-wa-legislature-seattle-hockey#:~:text=HB%201085</guid>
 		</item>
 	</channel>
 </rss>

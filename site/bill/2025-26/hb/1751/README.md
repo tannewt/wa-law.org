@@ -13,7 +13,7 @@
 ### Fri 02/07 01:30 PM - Finance (FIN): HB 1751 Course materials sales tax
 #### 76 👍 - Pro
 Testifying:
-* Sean Behl - Associated Students of the University of Washington and the Washington Student Association
+* 💵Sean Behl - Associated Students of the University of Washington and the Washington Student Association
 * Aditya Kumar
 * Caiden Katz
 * Advaita Mattam

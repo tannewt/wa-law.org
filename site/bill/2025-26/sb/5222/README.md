@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/14/2025 [Senate Democrats](/org/senate_democrats/) - [Building an economy that works for all Washingtonians - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/14/building-an-economy-that-works-for-all-washingtonians/#:~:text=SB%205222)
+* 02/13/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: The week ahead in the Legislature Feb. 17-21 - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-week-ahead-legislature-feb-17-21/#:~:text=SB%205222)
+* 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205222)
 * 02/10/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2025 Quaker Voice Priority Bill Tracker — Quaker Voice](https://www.quakervoicewa.org/2025-quaker-voice-priority-bills/#:~:text=SB%205222)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [Pushing for progress - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/01/24/pushing-for-progress/#:~:text=SB%205222)
 * 01/22/2025 [KING5](/org/king5/) - [Washington bill to cap rent increases gets Senate hearing | king5.com](https://www.king5.com/article/news/politics/state-politics/bill-cap-rent-increases-washington-committee-hearing/281-cb005b9d-f8c7-4e8a-8e4c-d8d2edeacd90#:~:text=Senate%20Bill%205222)

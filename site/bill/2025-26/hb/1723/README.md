@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164352&caId=25916&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164352&caId=25916&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Tyler Muench - Office of Superintendent of Public Instruction
 
-#### 1 👎 - Con
+#### 101 👎 - Con
+Testifying:
+* Charlie Brown - Schools Coalition
 
 #### 0 ❓ - Other

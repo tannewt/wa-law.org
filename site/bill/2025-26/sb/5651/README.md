@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5651](/bill/2025-26/sb/5651/)
 
-# SB 5651 - Garnishment exemption amount
+# SB 5651 - Garnishment exemptions
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5651&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/11/2025 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [The rising cost of health care is unsustainable and out of control - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/health-care-costs-unsustainable-out-of-control/#:~:text=Senate%20Bill%205651)

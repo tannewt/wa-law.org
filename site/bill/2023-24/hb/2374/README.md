@@ -30,7 +30,7 @@ Testifying:
 * Lucero Mendez - Communities for Our Colleges
 * Jackson Feaster - Communities for Our Colleges
 * Nancy Cruz - Communities for Our Colleges
-* Sean Behl - Associated Students of Bellevue College and the Communities for our Colleges Coalition
+* 💵Sean Behl - Associated Students of Bellevue College and the Communities for our Colleges Coalition
 
 #### 443 👎 - Con
 Testifying:

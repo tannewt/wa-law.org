@@ -22,6 +22,8 @@
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍2  
 
+### [SB 5030](/bill/2025-26/sb/5030/) - Vital records access 👍1  
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1

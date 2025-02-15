@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1514 Low carbon thermal energy
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164621&caId=26024&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164621&caId=26024&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164621&caId=26024&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164621&caId=26024&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/27 01:30 PM - Environment & Energy (ENVI): HB 1514 Low carbon thermal energy
 #### 77 👍 - Pro
 Testifying:

@@ -17,10 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32807&aId=164402&caId=25868&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32807&aId=164402&caId=25868&tId=4)
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Reema Griffith - Wash. State Transportation Commission
+* Ashley Probart - Transportation Improvement Board
+* 💵Jane Wall - Washington State County Road Administration Board
+* 💵Axel Swanson - Washington State Association of County Engineers
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Commissioner Carolina Mejia - [Thurston County](/org/thurston_county/)
+* Mary Lou Pauly - Mayor, City of Issaquah
 
-#### 3 👎 - Con
+#### 53 👎 - Con
+Testifying:
+* Laurie Layne
+* Tim Eyman - Initiative Activist
 
 #### 0 ❓ - Other

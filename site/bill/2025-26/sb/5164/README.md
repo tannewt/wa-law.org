@@ -20,9 +20,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163754&caId=25879&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163754&caId=25879&tId=4)
 
-#### 1 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* Levon Williams - Washington State School Directors' Association
+* Arlen Harris
+* Bill Lyne - United Faculty of Washington State
+* Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

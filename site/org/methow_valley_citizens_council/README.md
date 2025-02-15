@@ -16,7 +16,9 @@
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
-### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍2  
+### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍1  
+
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍3  
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 

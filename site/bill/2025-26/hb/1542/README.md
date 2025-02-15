@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/03 01:30 PM - Housing (HOUS): HB 1542 Senior independent housing

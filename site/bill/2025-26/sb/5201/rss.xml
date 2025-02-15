@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5201/</link>
 		<description>Updates about SB 5201</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Feb 2025 06:49:59 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 12:53:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,7 +30,7 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Health &amp; Long-Term Care.</guid>
 		</item>
 		<item>
-			<title>👍Ralph Baard - Mind Lumen</title>
+			<title>👍Ralph Baard - THE CANNABIS ALLIANCE</title>
 			<description>Ralph Baard signed up to testify Pro.</description>
 			<pubDate>Wed, 29 Jan 2025 04:36:23 GMT</pubDate>
 			<category>testifier</category>
@@ -46,7 +46,7 @@
 			<guid isPermaLink="false">testifier/Bailey/Quigley/2025-01-30 09:45:12</guid>
 		</item>
 		<item>
-			<title>👍Sunil Aggarwal - Mind Lumen</title>
+			<title>👍Sunil Aggarwal - THE CANNABIS ALLIANCE</title>
 			<description>Sunil Aggarwal signed up to testify Pro.</description>
 			<pubDate>Thu, 30 Jan 2025 10:47:39 GMT</pubDate>
 			<category>testifier</category>
@@ -398,7 +398,7 @@
 		</item>
 		<item>
 			<title>👍Aaron Loehr - Coalition for Better Community Health</title>
-			<description>Aaron Loehr signed up to testify Pro. They are signed up to represent Coalition for Better Community Health.</description>
+			<description>Aaron Loehr signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/coalition_for_better_community_health/"&gt;Coalition for Better Community Health&lt;/a&gt;.</description>
 			<pubDate>Wed, 05 Feb 2025 04:18:04 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
@@ -523,7 +523,7 @@
 			<guid isPermaLink="false">2025-02-11/And refer to Labor &amp; Commerce.</guid>
 		</item>
 		<item>
-			<title>👎MD, JD, Mason Marks - Dept. of Social and Health Services</title>
+			<title>👎MD, JD, Mason Marks - ADAPT-WA</title>
 			<description>MD, JD, Mason Marks signed up to testify Con.</description>
 			<pubDate>Wed, 12 Feb 2025 04:26:22 GMT</pubDate>
 			<category>testifier</category>
@@ -553,6 +553,44 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Dr. Heath/HOLLENSBE/2025-02-12 06:49:59</guid>
+		</item>
+		<item>
+			<title>Referred to Labor &amp; Commerce.</title>
+			<description>Referred to Labor &amp; Commerce.</description>
+			<pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-13/Referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👍David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association</title>
+			<description>David Trieweiler signed up to testify Pro. They are signed up to represent Washington Association of Criminal Defense Lawyers/Washington Defender Association.</description>
+			<pubDate>Thu, 13 Feb 2025 01:40:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/Trieweiler/2025-02-13 01:40:07</guid>
+		</item>
+		<item>
+			<title>👍Leonora Russelll - ADAPT-WA</title>
+			<description>Leonora Russelll signed up to testify Pro. They are signed up to represent ADAPT-WA.</description>
+			<pubDate>Thu, 13 Feb 2025 06:55:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Leonora/Russelll/2025-02-13 06:55:16</guid>
+		</item>
+		<item>
+			<title>NEWSFLASH: The week ahead in the Legislature Feb. 17-21 - Senate Republican Caucus</title>
+			<description>News article "NEWSFLASH: The week ahead in the Legislature Feb. 17-21 - Senate Republican Caucus" from Senate Republicans.</description>
+			<pubDate>Thu, 13 Feb 2025 15:19:11 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://src.wastateleg.org/blog/newsflash-week-ahead-legislature-feb-17-21/#:~:text=SB%205201</guid>
+		</item>
+		<item>
+			<title>❓Caitlein Ryan - THE CANNABIS ALLIANCE</title>
+			<description>Caitlein Ryan signed up to testify Other. They are signed up to represent THE CANNABIS ALLIANCE.</description>
+			<pubDate>Fri, 14 Feb 2025 12:53:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Caitlein/Ryan/2025-02-14 12:53:17</guid>
 		</item>
 	</channel>
 </rss>

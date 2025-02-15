@@ -45,11 +45,17 @@
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth  👎1 
 * 👎 John Flanagan
 
+### [HB 1721](/bill/2025-26/hb/1721/) - Zero emissions vehicles/sale 👍1  
+* 👍💵 Brooke Davies
+
 ### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
 
 ### [HB 1837](/bill/2025-26/hb/1837/) - Intercity passenger rail 👍1  
 
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
+
+### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
+* 👍 John Flanagan
 
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 

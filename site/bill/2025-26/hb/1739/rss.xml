@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1739/</link>
 		<description>Updates about HB 1739</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 04:52:05 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 02:10:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -90,6 +90,27 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Joe/Mizrahi/2025-02-11 04:52:05</guid>
+		</item>
+		<item>
+			<title>Clerks pushing bill to end chaos at the self-checkout line</title>
+			<description>News article "Clerks pushing bill to end chaos at the self-checkout line" from MyNorthwest.</description>
+			<pubDate>Wed, 12 Feb 2025 18:24:22 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/mynorthwest-politics/bill-self-checkout/4044907#:~:text=House%20Bill%201739</guid>
+		</item>
+		<item>
+			<title>WA proposal for regulations on self-checkout machines | FOX 13 Seattle</title>
+			<description>News article "WA proposal for regulations on self-checkout machines | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Wed, 12 Feb 2025 18:34:20 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/washington-regulations-self-checkout-machines#:~:text=House%20Bill%201739</guid>
+		</item>
+		<item>
+			<title>WA bill would create rules for grocery store self-checkout – KIRO 7 News Seattle</title>
+			<description>News article "WA bill would create rules for grocery store self-checkout – KIRO 7 News Seattle" from KIRO7.</description>
+			<pubDate>Fri, 14 Feb 2025 02:10:26 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kiro7.com/news/local/wa-bill-would-create-rules-grocery-store-self-checkout/4I5O63E5JJHEVKG6NJ4UI4ED3Q/#:~:text=House%20Bill%201739</guid>
 		</item>
 	</channel>
 </rss>

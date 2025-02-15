@@ -19,11 +19,13 @@
 ### [SB 5634](/bill/2025-26/sb/5634/) - Community solar projects   ❓1
 * ❓ Bill Will
 
-## [SB 5727](/bill/2025-26/sb/5727/) - Residential energy storage 👍1  
+## [SB 5727](/bill/2025-26/sb/5727/) - Residential energy storage 👍4  
+* 👍 Bill Will
 
 ## 2023-24
 
-### [SB 5727](/bill/2023-24/sb/5727/) - Residential energy storage 👍1  
+### [SB 5727](/bill/2023-24/sb/5727/) - Residential energy storage 👍4  
+* 👍 Bill Will
 
 ### [HB 1391](/bill/2023-24/hb/1391/) - Energy in buildings 👍2  
 

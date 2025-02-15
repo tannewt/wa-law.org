@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1633/</link>
 		<description>Updates about HB 1633</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 22:00:37 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -35,6 +35,20 @@
 			<pubDate>Fri, 31 Jan 2025 22:00:37 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201633</guid>
+		</item>
+		<item>
+			<title>CB - Executive action taken by committee.</title>
+			<description>CB - Executive action taken by committee.</description>
+			<pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-13/CB - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>CB - Majority; do pass.</title>
+			<description>CB - Majority; do pass.</description>
+			<pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-13/CB - Majority; do pass.</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 02/13 08:00 AM - Environment & Energy (ENVI): HB 1906 Water system rates
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163897&caId=25797&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163897&caId=25797&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163897&caId=25797&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163897&caId=25797&tId=4)
-
 #### 43 👍 - Pro
 Testifying:
 * Susan Gilman
@@ -23,8 +17,11 @@ Testifying:
 * Vicki Colburn
 * 💵Bill Clarke - WA PUD Association + Pierce Water Cooperative
 
-#### 41 👎 - Con
+#### 52 👎 - Con
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
+* 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Kelsey Hulse - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)

@@ -4,6 +4,10 @@
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 * 👍 Kathleen Hosfeld
 
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
+
+### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍2  
+
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
 
 ## [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  

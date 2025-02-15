@@ -12,16 +12,14 @@
 
 ## Meetings
 ### Thu 02/13 01:30 PM - Capital Budget (CB): HB 1726 WA lumber mills/public works
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32746&aId=163173&caId=25545&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32746&aId=163173&caId=25545&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32746&aId=163173&caId=25545&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32746&aId=163173&caId=25545&tId=4)
-
-#### 65 👍 - Pro
+#### 97 👍 - Pro
 Testifying:
 * 💵Heath Heikkila - American Forest Resource Council
+* Tom Davis - WA Forest Protection Association
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Jerry VanderWood - AGC of Washington
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)

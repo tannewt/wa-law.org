@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/13 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5708 Online services/minors
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32754&aId=163821&caId=25773&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32754&aId=163821&caId=25773&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32754&aId=163821&caId=25773&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32754&aId=163821&caId=25773&tId=4)
-
-#### 179 👍 - Pro
+#### 187 👍 - Pro
 Testifying:
 * Nichol braboy
 * Matthew Huang
@@ -27,9 +21,10 @@ Testifying:
 * Taku Mineshita - Office of Governor Bob Ferguson
 * Jai Jaisimha - Transparency Coalition.ai
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * 💵Rose Feliciano - TechNet
 * Robert Singleton - Chamber of Progress
+* 💵Morgan Irwin - AWB
 
 #### 0 ❓ - Other

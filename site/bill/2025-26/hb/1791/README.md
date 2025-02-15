@@ -8,19 +8,17 @@
 
 ## Meetings
 ### Thu 02/13 01:30 PM - Finance (FIN): HB 1791 Local real estate excise tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163106&caId=25606&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163106&caId=25606&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163106&caId=25606&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163106&caId=25606&tId=4)
-
-#### 19 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * David Goldman - City of Oak Harbor
 * Hannah Stone - [City of Bellingham](/org/city_of_bellingham/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 7 👎 - Con
+#### 13 👎 - Con
+Testifying:
+* john Worthington
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Bill Clarke - Washington REALTORS

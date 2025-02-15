@@ -10,7 +10,7 @@
 ### Wed 02/12 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1486 Student member on SBCTC
 #### 57 👍 - Pro
 Testifying:
-* Sean Behl - [Washington Student Association](/org/washington_student_association/)
+* 💵Sean Behl - [Washington Student Association](/org/washington_student_association/)
 * Heba Qatrani - Washington Student Association, South Seattle College Student
 * Love Adu - Student Representative, California Community College Board of Governors
 * Sam Baneth - Student Chair of Legislative Affairs, North Seattle College

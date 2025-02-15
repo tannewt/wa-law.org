@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/13 01:30 PM - Finance (FIN): HB 1867 Affordable housing REET
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163679&caId=25609&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163679&caId=25609&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163679&caId=25609&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32721&aId=163679&caId=25609&tId=4)
-
-#### 247 👍 - Pro
+#### 270 👍 - Pro
 Testifying:
 * Nancy DeVaux
 * Paul Schissler - Madrona Community Development spc
@@ -36,10 +30,13 @@ Testifying:
 * Lisa Janicki - Commissioner, Skagit County
 * Sarah Dickmeyer - Plymouth Housing
 
-#### 194 👎 - Con
+#### 226 👎 - Con
 Testifying:
 * Matthew Huang
 * Tad Sommerville
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Bill Clarke - Washington REALTORS
+* john Worthington
 
 #### 1 ❓ - Other
 Testifying:

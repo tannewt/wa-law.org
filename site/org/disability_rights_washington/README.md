@@ -15,7 +15,8 @@
 
 ### [HB 1133](/bill/2025-26/hb/1133/) - Concerning sexually violent predators.  👎1 
 
-### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍2  
+### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍3  
+* 👍💵 Rachael Seevers
 * 👍💵 Rachael Seevers
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  
@@ -60,16 +61,23 @@
 ### [SB 5147](/bill/2025-26/sb/5147/) - Criminal insanity 👍1  
 * 👍💵 Chloe Merino
 
-### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎1 
+### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎2 
+* 👎💵 Rachael Seevers
 * 👎💵 Rachael Seevers
 
-## [SB 5501](/bill/2025-26/sb/5501/) - Employee driving requirement 👍1  
+### [SB 5501](/bill/2025-26/sb/5501/) - Employee driving requirement 👍1  
 * 👍💵 Anna Zivarts
+
+### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
+* 👍💵 Andrea Kadlec
+
+## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
+* 👍 cecelia black
 
 ## 2023-24
 
-### [SB 5501](/bill/2023-24/sb/5501/) - Employee driving requirement 👍1  
-* 👍💵 Anna Zivarts
+### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍1  
+* 👍 cecelia black
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

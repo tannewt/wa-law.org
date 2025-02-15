@@ -14,8 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32800&aId=164305&caId=25918&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32800&aId=164305&caId=25918&tId=4)
 
-#### 1 👍 - Pro
+#### 54 👍 - Pro
+Testifying:
+* Radu Smintina - School's Out Washington
+* Adam Eitmann - [Office of the Attorney General](/org/office_of_the_attorney_general/)
+* Stephan Blanford - [Children's Alliance](/org/children's_alliance/)
+* Taj Jensen
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Rose Feliciano - TechNet
 
 #### 0 ❓ - Other

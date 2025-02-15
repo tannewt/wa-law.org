@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/13/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: The week ahead in the Legislature Feb. 17-21 - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-week-ahead-legislature-feb-17-21/#:~:text=SB%205201)
 * 02/06/2025 [Senate Democrats](/org/senate_democrats/) - [Salomon bill to legalize adult use of psilocybin heard in committee - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2025/02/06/salomon-bill-to-legalize-adult-use-of-psilocybin-heard-in-committee/#:~:text=Senate%20Bill%205201)
 * 01/30/2025 [The Center Square](/org/the_center_square/) - [From ‘Just Say No’ to ‘Maybe So’? Olympia reconsiders legalizing psychedelics | National | thecentersquare.com](https://www.thecentersquare.com/national/article_1e0683ca-df53-11ef-a4a4-77a2f4145668.html#:~:text=Senate%20Bill%205201)
 
@@ -18,17 +19,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164495&caId=25852&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164495&caId=25852&tId=4)
 
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
+* Leonora Russelll - ADAPT-WA
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * MD, JD, Mason Marks
 * Erin Reading - Port Townsend Psychedelic Society and REACH WA
 * Dr. Heath HOLLENSBE
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Neil Gehani - Mind Lumen
+* Caitlein Ryan - THE CANNABIS ALLIANCE
 
 ### Thu 02/06 08:00 AM - Health & Long Term Care (HLTC): SB 5201 Psychedelic substances
 #### 66 👍 - Pro
@@ -49,7 +54,7 @@ Testifying:
 * Claudia Cuentas - Cora Center
 * Tom Eckert - InnerTrek
 * Zach Skiles - Heroic Hearts
-* Aaron Loehr - Coalition for Better Community Health
+* Aaron Loehr - [Coalition for Better Community Health](/org/coalition_for_better_community_health/)
 * 💵Paula Sardinas - We Build Back Black Alliance
 * Bryan Hubbard
 

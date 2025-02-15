@@ -13,6 +13,8 @@
 
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
 
+### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
+
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 * 👍 Ty Stober
 

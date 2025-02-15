@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164341&caId=25862&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164341&caId=25862&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Deb Flagan - [Hayden Homes](/org/hayden_homes/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

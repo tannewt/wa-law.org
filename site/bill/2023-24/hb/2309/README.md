@@ -24,12 +24,12 @@ Testifying:
 * Hugo Guel - Communities for Our Colleges
 * Nicholas Dumouchel - Communities for Our Colleges
 * LeeAnn Hall - Alliance for a Just Society
-* Sean Behl - Associated Students of Bellevue College and the Communities for our Colleges (C4C) Coalition
+* 💵Sean Behl - Associated Students of Bellevue College and the Communities for our Colleges (C4C) Coalition
 * Josie Saccio-Devine - State Board for Community and Technical Colleges
 * Brisa Torres
 * Jessica Rebolledo - Communities for Our Colleges
-* Sienna Jarrard - Associated Students of Bellevue College
-* Sienna Jarrard - Associated Students of Bellevue College
+* 💵Sienna Jarrard - Associated Students of Bellevue College
+* 💵Sienna Jarrard - Associated Students of Bellevue College
 * Mollie Kuwahara - State Board for Community and Technical Colleges
 * Paul Francis - State board for Community and Technical Colleges
 * Rosie Rimando-Chareunsap - Seattle Community Colleges

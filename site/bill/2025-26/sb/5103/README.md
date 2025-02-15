@@ -6,6 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/12/2025 [MyNorthwest](/org/mynorthwest/) - [ICE Seattle arrests Salvadoran fugitive murder suspect](https://mynorthwest.com/ktth/ice-seattle-salvadoran-murder/4044869#:~:text=Senate%20Bill%205103)
+* 02/12/2025 [MyNorthwest](/org/mynorthwest/) - [Curley blasts Senate bill: 'God forbid we deport a criminal'](https://mynorthwest.com/john-curley/curley-deport-criminal/4044052#:~:text=Senate%20Bill%205103)
+* 02/10/2025 [MyNorthwest](/org/mynorthwest/) - [WA lawmakers push back against Trump's deportation policies with new clemency bill](https://mynorthwest.com/mynorthwest-politics/wa-trump-policies/4043376#:~:text=Senate%20Bill%205103)
+
 ## Meetings
 ### Tue 01/14 01:30 PM - Human Services (HS): SB 5103 Sentence review/deportation
 #### 11 👍 - Pro

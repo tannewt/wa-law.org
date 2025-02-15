@@ -7,6 +7,8 @@
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
+### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍1  
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Giannina Ferrara
 

@@ -8,21 +8,16 @@
 
 ## Meetings
 ### Thu 02/13 08:00 AM - Environment & Energy (ENVI): HB 1912 Agricultural fuel/CCA ex.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163896&caId=25796&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163896&caId=25796&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163896&caId=25796&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32757&aId=163896&caId=25796&tId=4)
-
-#### 200 👍 - Pro
+#### 235 👍 - Pro
 Testifying:
 * 💵Mark Streuli - WA Potato and Onion Assoc -WA Assoc of Wheat Growers - WA Cattlemen Assoc
 * Ben Buchholz - NW Agricultural Cooperative Council
 * 💵David Ducharme - Washington State Tree Fruit Association
 * 💵Kate Brouns - Governor Ferguson's Policy Office
 * Jay Gordon - Washington State Dairy Federation
+* william taylor
 
-#### 22 👎 - Con
+#### 24 👎 - Con
 Testifying:
 * Carson Williquette - Wilcox & Flegel
 * 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)

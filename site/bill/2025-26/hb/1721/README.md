@@ -13,21 +13,22 @@
 
 ## Meetings
 ### Fri 02/14 08:00 AM - Consumer Protection & Business (CPB): HB 1721 Zero emissions vehicles/sale
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163515&caId=25570&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163515&caId=25570&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163515&caId=25570&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163515&caId=25570&tId=4)
-
-#### 497 👍 - Pro
+#### 830 👍 - Pro
 Testifying:
 * Dwight Bickel - consumers
 * 💵Paula Sardinas - WBBA
 * Alberto Laverde
 * Chris Kauffman - Rivian
 * Hannah Steinweg - Rivian
+* 💵Brooke Davies - [Port of Seattle](/org/port_of_seattle/)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* 💵Matthew Hepner - [Certified Electrical Workers of Washington](/org/certified_electrical_workers_of_washington/)
+* Charlie Tsai
+* Chase Drum
+* Karen Whitworth
+* Christine Cooley - [Puget Sound Clean Air Agency](/org/puget_sound_clean_air_agency/)
 
-#### 1778 👎 - Con
+#### 2456 👎 - Con
 Testifying:
 * Curt Augustine - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 * 💵Jeffrey Perry - General Motors
@@ -43,8 +44,9 @@ Testifying:
 * Stephen Kosowski - Kia America
 * TaraLyn Fray
 * TaraLyn Fray
+* James Stiles
 
-#### 6 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * 💵Noelani Derrickson - [Tesla](/org/tesla/)
 * Cody Thacker - Scout Motors

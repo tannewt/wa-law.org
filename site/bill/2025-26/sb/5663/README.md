@@ -8,20 +8,15 @@
 
 ## Meetings
 ### Thu 02/13 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5663 Virtual campus/colleges
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32785&aId=163763&caId=25761&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32785&aId=163763&caId=25761&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32785&aId=163763&caId=25761&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32785&aId=163763&caId=25761&tId=4)
-
-#### 5 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Johnston Lai
 * Marina Aminy - California Virtual Campus
 * Kathryn Cox
 * Shreyansh Padhy
+* Alif Laila Tisha
 
-#### 5 👎 - Con
+#### 19 👎 - Con
 
 #### 3 ❓ - Other
 Testifying:

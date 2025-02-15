@@ -1,6 +1,8 @@
 # City of Kent
 ## 2025-26
 
+### [HB 1042](/bill/2025-26/hb/1042/) - County treasurer costs  👎1 
+
 ### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal  👎1 
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
@@ -14,11 +16,13 @@
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 
-## [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting   ❓1
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting   ❓1
+
+## [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
 
 ## 2023-24
 
-### [SB 5509](/bill/2023-24/sb/5509/) - Child care center siting   ❓1
+### [SB 5659](/bill/2023-24/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  
 

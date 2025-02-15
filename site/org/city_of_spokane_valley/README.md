@@ -61,6 +61,8 @@
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
+### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
+
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact   ❓1
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎1 

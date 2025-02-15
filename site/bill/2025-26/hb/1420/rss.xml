@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1420/</link>
 		<description>Updates about HB 1420</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 29 Jan 2025 09:43:41 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -133,6 +133,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/McKenna/Morrigan/2025-01-29 09:43:41</guid>
+		</item>
+		<item>
+			<title>ENVI - Executive action taken by committee.</title>
+			<description>ENVI - Executive action taken by committee.</description>
+			<pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-13/ENVI - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-13/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

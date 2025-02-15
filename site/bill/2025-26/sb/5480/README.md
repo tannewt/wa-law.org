@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/14/2025 [Senate Democrats](/org/senate_democrats/) - [Building an economy that works for all Washingtonians - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/14/building-an-economy-that-works-for-all-washingtonians/#:~:text=bill%20this%20session)
 * 02/11/2025 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [The rising cost of health care is unsustainable and out of control - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/health-care-costs-unsustainable-out-of-control/#:~:text=Senate%20Bill%205480)
 * 02/06/2025 [The Center Square](/org/the_center_square/) - [Bill to remove medical debt from credit scores in Washington moves forward | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6a9d3f64-e500-11ef-b5a3-174832015b5b.html#:~:text=Senate%20Bill%205480)
 * 02/06/2025 [Senate Democrats](/org/senate_democrats/) - [Telephone town hall coming up next week - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/02/06/telephone-town-hall-coming-up-next-week/#:~:text=SB%205480)

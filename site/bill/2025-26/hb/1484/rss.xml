@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1484/</link>
 		<description>Updates about HB 1484</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Feb 2025 07:49:40 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Raquel/Rodriguez/2025-02-03 07:49:40</guid>
+		</item>
+		<item>
+			<title>CS - Majority; do pass.</title>
+			<description>CS - Majority; do pass.</description>
+			<pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-13/CS - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-14/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

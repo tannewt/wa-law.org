@@ -8,18 +8,16 @@
 
 ## Meetings
 ### Fri 02/14 08:00 AM - Health Care & Wellness (HCW): HB 1697 Newborn screening additions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163872&caId=25800&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163872&caId=25800&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163872&caId=25800&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32712&aId=163872&caId=25800&tId=4)
-
-#### 6 👍 - Pro
+#### 15 👍 - Pro
+Testifying:
+* Max Brown - NW Rare Disease Coalition
+* 💵Katherine Mahoney - Ultragenyx
 
 #### 1 👎 - Con
 Testifying:
 * Kelly Kramer - Washington State Board of Health
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Kelly Kramer - Washington State Board of Health
+* Terry Kho

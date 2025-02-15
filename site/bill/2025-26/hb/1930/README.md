@@ -14,8 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32817&aId=163946&caId=25902&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32817&aId=163946&caId=25902&tId=4)
 
-#### 2 👍 - Pro
+#### 83 👍 - Pro
+Testifying:
+* Kelsey Ross
+* Dane Czarnecki - --select an item--
+* Brennan Gray
+* Ryan Garrett
 
-#### 1 👎 - Con
+#### 45 👎 - Con
+Testifying:
+* Brandon Warner
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Josh Rosenau - [Mountain Lion Foundation](/org/mountain_lion_foundation/)

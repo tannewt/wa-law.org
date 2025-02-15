@@ -11,14 +11,27 @@
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201668)
 
 ## Meetings
-### Thu 02/13 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1668 Community custody
+### Mon 02/17 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1668 Community custody
 Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163136&caId=25559&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163136&caId=25559&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163136&caId=25559&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32737&aId=163136&caId=25559&tId=4)
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32849&aId=164511&caId=25983&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32849&aId=164511&caId=25983&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32849&aId=164511&caId=25983&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32849&aId=164511&caId=25983&tId=4)
 
-#### 64 👍 - Pro
+#### 34 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Mac Pevey - Department of Corrections
+
+#### 32 👎 - Con
+Testifying:
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
+
+#### 0 ❓ - Other
+
+### Thu 02/13 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1668 Community custody
+#### 82 👍 - Pro
 Testifying:
 * Doug Chaput - WFSE Member
 * Jim Furchert - WFSE Member
@@ -27,7 +40,7 @@ Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Mac Pevey - Department of Corrections
 
-#### 10 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission

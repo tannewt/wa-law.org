@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 02/13/2025 [House Democrats](/org/house_democrats/) - [House Passes Bill to Support Sustainability & Economic Development – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/13/house-passes-bill-to-support-sustainability-economic-development/#:~:text=HB%201326)
 * 04/19/2023 [House Democrats](/org/house_democrats/) - [Rep. Cortes Passes Bills to Governor on Homelessness, Police Benefits, Affordable Housing & Statewide Travel – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/04/19/rep-cortes-passes-bills-to-governor-on-homelessness-police-benefits-affordable-housing-statewide-travel/#:~:text=House%20Bill%201326)
 * 03/03/2023 [House Democrats](/org/house_democrats/) - [Freshman Legislator Julio Cortes Passes Three Bills to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2023/03/03/freshman-legislator-julio-cortes-passes-three-bills-to-the-senate/#:~:text=House%20Bill%201326)
 * 02/28/2023 [Cascadia Daily News](/org/cascadia_daily_news/) - [Shewmake: We can deliver on affordable housing | Cascadia Daily News](https://www.cascadiadaily.com/2023/feb/28/shewmake-we-can-deliver-on-affordable-housing/#:~:text=HB%201326)

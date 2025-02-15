@@ -14,10 +14,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164143&caId=25964&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164143&caId=25964&tId=4)
 
-#### 4 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Emmett O'Connell
+* David Sedelmeier
 
-#### 5 👎 - Con
+#### 1007 👎 - Con
+Testifying:
+* Eldon Leuning
+* Hailey Irvine
+* Laura Williams
+* Zack Fonseca
+* Patrick Campbell
+* Michael Van Citters
+* Linda Wojciechowski
+* Timothy Sieverkropp
+* TAMMY Rose Berry
+* Russell Franklin
+* Michael Gawthorp
+* C P
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

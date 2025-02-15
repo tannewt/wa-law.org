@@ -16,8 +16,9 @@
 
 ### [HB 1061](/bill/2025-26/hb/1061/) - Residential parking 👍1  
 
-### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers   ❓1
+### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers  👎1 ❓1
 * ❓💵 Candice Bock
+* 👎💵 Candice Bock
 
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates  👎1 
 * 👎💵 Carl Schroeder
@@ -36,7 +37,7 @@
 
 ### [HB 1127](/bill/2025-26/hb/1127/) - Modifying provisions of the revised uniform unclaimed property act. 👍1  
 
-### [HB 1135](/bill/2025-26/hb/1135/) - Ensuring that local government planning complies with the growth management act.   ❓1
+### [HB 1135](/bill/2025-26/hb/1135/) - Local government planning   ❓1
 * ❓💵 Carl Schroeder
 
 ### [HB 1138](/bill/2025-26/hb/1138/) - Improving public safety by implementing evidence-based interview practices that increase the reliability of statements collected during criminal investigations.  👎1 
@@ -192,8 +193,13 @@
 
 ### [HB 1823](/bill/2025-26/hb/1823/) - Transp. improvement board 👍1  
 
+### [HB 1835](/bill/2025-26/hb/1835/) - Aligning cannabis licensing decisions by the liquor and cannabis board with local zoning ordinances. 👍1  
+
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 * 👍💵 Carl Schroeder
+
+### [HB 1906](/bill/2025-26/hb/1906/) - Water system rates   ❓1
+* ❓💵 Kelsey Hulse
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍💵 Carl Schroeder
@@ -259,6 +265,9 @@
 ### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential   ❓1
 * ❓💵 Carl Schroeder
 
+### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use  👎1 
+* 👎💵 Candice Bock
+
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
 
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
@@ -311,13 +320,19 @@
 ### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees   ❓1
 * ❓💵 Carl Schroeder
 
-## [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits  👎1 
+### [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits  👎1 
 * 👎💵 Carl Schroeder
+
+### [SB 5627](/bill/2025-26/sb/5627/) - Safe excavation  👎1 
+* 👎💵 Kelsey Hulse
+
+## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+* 👍💵 Carl Schroeder
 
 ## 2023-24
 
-### [SB 5615](/bill/2023-24/sb/5615/) - Residential housing permits  👎1 
-* 👎💵 Carl Schroeder
+### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
+* 👍💵 Carl Schroeder
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1932/</link>
 		<description>Updates about HB 1932</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Feb 2025 09:11:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,22 @@
 			<pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-10/First reading, referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
+			<title>👍Scott mckinley - Mountain Lion Foundation</title>
+			<description>Scott mckinley signed up to testify Pro.</description>
+			<pubDate>Thu, 13 Feb 2025 01:30:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/mckinley/2025-02-13 01:30:06</guid>
+		</item>
+		<item>
+			<title>👎James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Con. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Thu, 13 Feb 2025 09:11:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2025-02-13 09:11:51</guid>
 		</item>
 	</channel>
 </rss>

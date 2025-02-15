@@ -11,7 +11,8 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 
-### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍2  
+### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍3  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products 👍1  
@@ -91,11 +92,11 @@
 ### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware  👎1 
 * 👎💵 Heather Trim
 
-## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
+## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
 
 ## 2023-24
 
-### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍1  
+### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍2  
 
 ### [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍2  
 * 👍💵 Heather Trim

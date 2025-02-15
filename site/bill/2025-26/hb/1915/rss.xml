@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1915/</link>
 		<description>Updates about HB 1915</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 12:38:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,62 @@
 			<pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-10/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>👎GORDON HAGGERTY - WA Farm Bureau</title>
+			<description>GORDON HAGGERTY signed up to testify Con.</description>
+			<pubDate>Fri, 14 Feb 2025 03:09:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/GORDON/HAGGERTY/2025-02-14 03:09:46</guid>
+		</item>
+		<item>
+			<title>👎Mack Mayo - WA Farm Bureau</title>
+			<description>Mack Mayo signed up to testify Con.</description>
+			<pubDate>Fri, 14 Feb 2025 04:12:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mack/Mayo/2025-02-14 04:12:27</guid>
+		</item>
+		<item>
+			<title>👎Jake Nellis - WA Farm Bureau</title>
+			<description>Jake Nellis signed up to testify Con.</description>
+			<pubDate>Fri, 14 Feb 2025 06:57:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jake/Nellis/2025-02-14 06:57:56</guid>
+		</item>
+		<item>
+			<title>👎William Pierce - WA Farm Bureau</title>
+			<description>William Pierce signed up to testify Con.</description>
+			<pubDate>Fri, 14 Feb 2025 12:13:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/William/Pierce/2025-02-14 12:13:44</guid>
+		</item>
+		<item>
+			<title>👎William Pierce - WA Farm Bureau</title>
+			<description>William Pierce signed up to testify Con.</description>
+			<pubDate>Fri, 14 Feb 2025 12:16:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/William/Pierce/2025-02-14 12:16:37</guid>
+		</item>
+		<item>
+			<title>👎Jesse Long - WA Farm Bureau</title>
+			<description>Jesse Long signed up to testify Con.</description>
+			<pubDate>Fri, 14 Feb 2025 12:32:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jesse/Long/2025-02-14 12:32:00</guid>
+		</item>
+		<item>
+			<title>👎JULIE BROWN - http://www.personalpropertymgmt.com</title>
+			<description>JULIE BROWN signed up to testify Con. They are signed up to represent http://www.personalpropertymgmt.com.</description>
+			<pubDate>Fri, 14 Feb 2025 12:38:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/JULIE/BROWN/2025-02-14 12:38:47</guid>
 		</item>
 	</channel>
 </rss>

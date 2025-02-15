@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/12/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Newcomers to Glacier say Airbnbs make finding housing 'borderline impossible' | Cascadia Daily News](https://www.cascadiadaily.com/2025/feb/12/newcomers-to-glacier-say-airbnbs-make-finding-housing-borderline-impossible/#:~:text=A%20state%20bill)
 * 02/26/2024 [MyNorthwest](/org/mynorthwest/) - [10% tax on short-term rentals closer to becoming Washington law - MyNorthwest.com](https://mynorthwest.com/3952150/proposed-tax-short-term-rentals-closer-becoming-state-law/#:~:text=Senate%20Bill%205334,)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024#:~:text=SB%205334)
 * 02/13/2024 [Sightline Institute](/org/sightline_institute/) - [Housing Bills to Watch in Washington in 2024 - Sightline Institute](https://www.sightline.org/2024/02/13/housing-bills-to-watch-in-washington-in-2024/#:~:text=SB%205334)

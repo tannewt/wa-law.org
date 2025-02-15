@@ -17,7 +17,7 @@
 Testifying:
 * Remy Haring
 * 💵Collin Bannister - The Washington Student Association
-* Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
+* 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 
 #### 1 👎 - Con
 

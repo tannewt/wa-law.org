@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/13 01:30 PM - Capital Budget (CB): HB 1734 Outdoor learning grants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32746&aId=163174&caId=25546&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32746&aId=163174&caId=25546&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32746&aId=163174&caId=25546&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32746&aId=163174&caId=25546&tId=4)
-
-#### 135 👍 - Pro
+#### 142 👍 - Pro
 Testifying:
 * Chase Buffington - Cispus Outdoor School
 * Manny Ramos - Chief Seattle Council, Scouting America
@@ -22,6 +16,7 @@ Testifying:
 * Roberta McFarland - Washington Schools Principal Association/ Outdoor Schools WA
 * Chase Buffington - Washington Outdoor School Coalition
 * Greg Barker - Washington School Principals' Education Foundation
+* Joshua Hsu
 
 #### 5 👎 - Con
 

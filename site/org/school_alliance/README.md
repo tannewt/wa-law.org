@@ -4,12 +4,14 @@
 ### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍1  
 * 👍💵 Lacey Stanage
 
-## [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍1  
+## [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍2  
+* 👍💵 Grace Yuan
 * 👍💵 Grace Yuan
 
 ## 2023-24
 
-### [SB 5095](/bill/2023-24/sb/5095/) - School construction debt 👍1  
+### [SB 5095](/bill/2023-24/sb/5095/) - School construction debt 👍2  
+* 👍💵 Grace Yuan
 * 👍💵 Grace Yuan
 
 ### [HB 1109](/bill/2023-24/hb/1109/) - Special education funding   ❓1

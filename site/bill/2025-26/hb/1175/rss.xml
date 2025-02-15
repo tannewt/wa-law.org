@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1175/</link>
 		<description>Updates about HB 1175</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 14:19:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Feb 2025 15:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -134,6 +134,20 @@
 			<pubDate>Mon, 10 Feb 2025 14:19:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.axios.com/local/seattle/2025/02/10/neighborhood-cafe-law-washington-state#:~:text=House%20Bill%201175</guid>
+		</item>
+		<item>
+			<title>KUOW - Seattle could return to the days of neighborhood cafes</title>
+			<description>News article "KUOW - Seattle could return to the days of neighborhood cafes" from KUOW.</description>
+			<pubDate>Wed, 12 Feb 2025 05:45:02 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/seattle-could-return-to-the-days-of-neighborhood-c#:~:text=and%20read%20the%20bill%20here.</guid>
+		</item>
+		<item>
+			<title>Washington Housing Bills to Watch in 2025  | Sightline Institute</title>
+			<description>News article "Washington Housing Bills to Watch in 2025  | Sightline Institute" from Sightline Institute.</description>
+			<pubDate>Thu, 13 Feb 2025 15:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201175</guid>
 		</item>
 	</channel>
 </rss>

@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Fri 02/14 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1825 Grizzly bear management
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32740&aId=163148&caId=25532&tId=4)
-
-#### 635 👍 - Pro
+#### 702 👍 - Pro
 Testifying:
 * Matthew Rudolf - As individual, but I am on the Regional Council for NPCA
 * Susan Kane-Ronning - Washington Sierra Club Wildlife Committee
@@ -55,11 +49,16 @@ Testifying:
 * Madelyn Hamilton - Methow Valley Citizen's Council
 * Scott Schuyler - Upper Skagit Tribe
 * Jack Oelfke
+* Gordon Congdon
+* Joe Scott - [Conservation Northwest](/org/conservation_northwest/)
+* Susan Kane-Ronning - [Sierra Club](/org/sierra_club/)
+* Dr. Subhadeep Bhattacharjee - WDFW
 
-#### 484 👎 - Con
+#### 887 👎 - Con
 Testifying:
 * Teagan Levine
 * Joe Kondelis - American Bear Foundation
 * TaraLyn Fray
+* 💵Caleb Gwerder - Washington Farm Bureau
 
 #### 4 ❓ - Other

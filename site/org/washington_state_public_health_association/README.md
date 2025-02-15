@@ -22,6 +22,9 @@
 
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax 👍1  
 
+### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program 👍1  
+* 👍💵 Amy Brackenbury
+
 ### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍1  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
@@ -36,19 +39,24 @@
 ### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor  👎2 
 * 👎 Megan Moore
 
+### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
+
+### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers 👍1  
 
-## [SB 5353](/bill/2025-26/sb/5353/) - Diabetes and obesity 👍1  
+### [SB 5353](/bill/2025-26/sb/5353/) - Diabetes and obesity 👍1  
 * 👍 Megan Moore
+
+## [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 
 ## 2023-24
 
-### [SB 5353](/bill/2023-24/sb/5353/) - Diabetes and obesity 👍1  
-* 👍 Megan Moore
+### [SB 5488](/bill/2023-24/sb/5488/) - DCYF/financial stability 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

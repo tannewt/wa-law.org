@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201345)
+
 ## Meetings
 ### Mon 01/27 01:30 PM - Housing (HOUS): HB 1345 Detached ADU limits
 #### 16 👍 - Pro

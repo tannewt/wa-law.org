@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/04 04:00 PM - Housing (HOUS): HB 1500 CIC resale certificates

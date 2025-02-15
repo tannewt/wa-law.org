@@ -15,13 +15,17 @@
 ### [HB 1760](/bill/2025-26/hb/1760/) - Manufactured homes/org. sale 👍1  
 * 👍 Victoria OBanion
 
-## [SB 5298](/bill/2025-26/sb/5298/) - Mobile home community sale 👍1  
+### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
+
+### [SB 5298](/bill/2025-26/sb/5298/) - Mobile home community sale 👍2  
 * 👍 Victoria OBanion
+* 👍 Victoria OBanion
+
+## [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  
 
 ## 2023-24
 
-### [SB 5298](/bill/2023-24/sb/5298/) - Mobile home community sale 👍1  
-* 👍 Victoria OBanion
+### [SB 5647](/bill/2023-24/sb/5647/) - Affordable housing/REET 👍1  
 
 ### [HB 1743](/bill/2023-24/hb/1743/) - Employee ownership 👍1  
 * 👍 John McNamara

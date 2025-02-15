@@ -8,18 +8,14 @@
 
 ## Meetings
 ### Thu 02/13 08:00 AM - Housing (HOUS): HB 1859 Housing dev./religious orgs.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32749&aId=163713&caId=25768&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32749&aId=163713&caId=25768&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32749&aId=163713&caId=25768&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32749&aId=163713&caId=25768&tId=4)
-
-#### 151 👍 - Pro
+#### 156 👍 - Pro
 Testifying:
 * 💵Kristin Ang - Faith Action Network (FAN)
 * Brian Grow - Proclaim Liberty (faith-based affordable housing non-profit)
+* 💵Aya Samman
+* 💵Aya Samman - Muslim Association of Pugey Sound
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

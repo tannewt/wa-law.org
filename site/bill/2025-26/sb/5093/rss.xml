@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5093/</link>
 		<description>Updates about SB 5093</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Feb 2025 01:20:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -204,6 +204,13 @@
 			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-07/First reading, referred to Civil Rights &amp; Judiciary.</guid>
+		</item>
+		<item>
+			<title>Protecting the rights of every Washingtonian - Sen. Manka Dhingra</title>
+			<description>News article "Protecting the rights of every Washingtonian - Sen. Manka Dhingra" from Senate Democrats.</description>
+			<pubDate>Thu, 13 Feb 2025 01:20:05 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/dhingra/2025/02/12/protecting-the-rights-of-every-washingtonian/#:~:text=SB%205093</guid>
 		</item>
 	</channel>
 </rss>

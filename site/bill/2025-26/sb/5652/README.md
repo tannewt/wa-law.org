@@ -19,6 +19,6 @@ Testifying:
 * Brian Davis
 * Sarah Moore
 
-#### 0 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other

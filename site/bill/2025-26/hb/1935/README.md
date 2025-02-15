@@ -8,18 +8,13 @@
 
 ## Meetings
 ### Fri 02/14 10:30 AM - Local Government (LG): HB 1935 Project permit definition
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32728&aId=164132&caId=25813&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32728&aId=164132&caId=25813&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32728&aId=164132&caId=25813&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32728&aId=164132&caId=25813&tId=4)
-
-#### 5 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 * 💵Curtis Steinhauer - Washington Association of Counties
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Tim Woodard - Washington Assn. of Building Officials
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

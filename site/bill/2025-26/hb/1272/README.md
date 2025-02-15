@@ -14,7 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164195&caId=25910&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164195&caId=25910&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Kashi Arora - Seattle Children's
+* Sheryl Landstrom - Family Voice and A Common Voice, 1580 Rapid Care Team Lead Parent Support Specialist
+* Kimberly Runge - A Common Voice | 1580 Program Manager
 
 #### 0 👎 - Con
 

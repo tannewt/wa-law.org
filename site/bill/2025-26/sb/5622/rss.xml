@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5622/</link>
 		<description>Updates about SB 5622</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 03:24:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,38 @@
 			<pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-31/First reading, referred to Business, Financial Services &amp; Trade.</guid>
+		</item>
+		<item>
+			<title>👍Aden George - The Mockingbird Society</title>
+			<description>Aden George signed up to testify Pro.</description>
+			<pubDate>Fri, 14 Feb 2025 03:21:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Aden/George/2025-02-14 03:21:20</guid>
+		</item>
+		<item>
+			<title>👍Vaishvi Vontela - The Mockingbird Society</title>
+			<description>Vaishvi Vontela signed up to testify Pro.</description>
+			<pubDate>Fri, 14 Feb 2025 03:23:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Vaishvi/Vontela/2025-02-14 03:23:06</guid>
+		</item>
+		<item>
+			<title>👍Namratha Mellimi - The Mockingbird Society</title>
+			<description>Namratha Mellimi signed up to testify Pro.</description>
+			<pubDate>Fri, 14 Feb 2025 03:23:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Namratha/Mellimi/2025-02-14 03:23:37</guid>
+		</item>
+		<item>
+			<title>👍Corlie Zhuang - Harvard STRIPED</title>
+			<description>Corlie Zhuang signed up to testify Pro. They are signed up to represent Harvard STRIPED.</description>
+			<pubDate>Fri, 14 Feb 2025 03:24:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Corlie/Zhuang/2025-02-14 03:24:02</guid>
 		</item>
 	</channel>
 </rss>

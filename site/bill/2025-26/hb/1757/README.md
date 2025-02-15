@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201757)
+
 ## Meetings
 ### Thu 02/06 08:00 AM - Housing (HOUS): HB 1757 Residential use/existing
 #### 18 👍 - Pro

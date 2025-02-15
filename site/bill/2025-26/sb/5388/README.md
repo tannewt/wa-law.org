@@ -14,9 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163752&caId=25878&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163752&caId=25878&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* David Flynn - Department of Corrections
+* Kellett Sayre - Department of Corrections
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 
 #### 0 ❓ - Other
 

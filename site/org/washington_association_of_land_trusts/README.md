@@ -13,6 +13,8 @@
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
 * ❓ Vanessa Kritzer
 
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
+
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
 
 ## [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  

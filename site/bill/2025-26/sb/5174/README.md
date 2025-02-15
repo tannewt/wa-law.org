@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/14/2025 [FOX13](/org/fox13/) - [WA Senate advances new standards on wood stoves | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-legislative-committee-wood-stoves#:~:text=Senate%20Bill%205174)
+* 02/14/2025 [Senate Republicans](/org/senate_republicans/) - [UPDATE: An even worse version of the wood stove bill passed out of committee today - Senate Republican Caucus](https://src.wastateleg.org/blog/update-even-worse-version-wood-stove-bill-passed-committee-today/#:~:text=Senate%20Bill%205174,)
+
 ## Meetings
 ### Fri 01/24 10:30 AM - Environment, Energy & Technology (ENET): SB 5174 Wood burning devices
 #### 149 👍 - Pro

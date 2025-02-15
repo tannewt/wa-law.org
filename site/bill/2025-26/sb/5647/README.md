@@ -8,18 +8,14 @@
 
 ## Meetings
 ### Thu 02/13 04:00 PM - Ways & Means (WM): SB 5647 Affordable housing/REET
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163742&caId=25759&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163742&caId=25759&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163742&caId=25759&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32734&aId=163742&caId=25759&tId=4)
-
-#### 28 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Kathleen M Hosfeld - Homestead Community Land Trust | NWCLTC
 * Kathleen M Hosfeld - [Homestead Community Land Trust](/org/homestead_community_land_trust/)
 * Amanda Lynn
+* Rebeca Potasnik - Thurston Housing Land Trust
+* JESSIE BAINES - Pierce County Community Land Trust
 
-#### 33 👎 - Con
+#### 51 👎 - Con
 
 #### 0 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5001/</link>
 		<description>Updates about SB 5001</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 13 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 13:10:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,13 @@
 			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-13/First reading, referred to State Government, Tribal Affairs &amp; Elections.</guid>
+		</item>
+		<item>
+			<title>Why a bill to allow Washington to 'ditch the switch' is stalled in Olympia | king5.com</title>
+			<description>News article "Why a bill to allow Washington to 'ditch the switch' is stalled in Olympia | king5.com" from KING5.</description>
+			<pubDate>Wed, 12 Feb 2025 13:10:44 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/politics/state-politics/get-rid-daylight-savings-time-standard-time-washington/281-c7c3ecd4-5edd-4a33-9899-41bc01619fa3#:~:text=SB%205001</guid>
 		</item>
 	</channel>
 </rss>

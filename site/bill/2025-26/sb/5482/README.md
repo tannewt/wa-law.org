@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164226&caId=25816&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164226&caId=25816&tId=4)
 
-#### 2 👍 - Pro
+#### 162 👍 - Pro
 Testifying:
 * Rachel Haymon
+* Patricia L Arnold - Friends of the White Salmon River
+* MLou Christ
+* Josh Rosenau - [Mountain Lion Foundation](/org/mountain_lion_foundation/)
 
-#### 1 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Brad Manke - Stevens County Sheriff's Office
 

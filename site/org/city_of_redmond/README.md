@@ -22,6 +22,8 @@
 
 ### [HB 1818](/bill/2025-26/hb/1818/) - Administration of plats   ❓1
 
+### [HB 1859](/bill/2025-26/hb/1859/) - Housing dev./religious orgs. 👍1  
+
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  

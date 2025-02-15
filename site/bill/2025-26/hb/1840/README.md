@@ -8,19 +8,13 @@
 
 ## Meetings
 ### Thu 02/13 08:00 AM - Housing (HOUS): HB 1840 Middle housing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32749&aId=163841&caId=25793&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32749&aId=163841&caId=25793&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32749&aId=163841&caId=25793&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32749&aId=163841&caId=25793&tId=4)
-
-#### 14 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Satpal Sidhu - Whatcom County Executive
 * Carolina Mejia-Barahona - Commissioner, Thurston County
 * BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 23 👎 - Con
+#### 26 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

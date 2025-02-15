@@ -11,26 +11,23 @@
 
 ## Meetings
 ### Thu 02/13 04:00 PM - Appropriations (APP): HB 1339 Even-numbered year elections
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163844&caId=25802&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163844&caId=25802&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163844&caId=25802&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32774&aId=163844&caId=25802&tId=4)
-
-#### 415 👍 - Pro
+#### 469 👍 - Pro
 Testifying:
 * Andrew Villeneuve - [Northwest Progressive Institute](/org/northwest_progressive_institute/)
 * 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
 * Ron Davis
+* Lisa Rivera
 
-#### 1429 👎 - Con
+#### 1592 👎 - Con
 Testifying:
 * Laurie Layne
 * Tim Eyman - Initiative Activist
 * TaraLyn Fray
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* john worthington - 303 s 5th ave g 53
+* Tad Sommerville
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/21 01:30 PM - State Government & Tribal Relations (SGOV): HB 1339 Even-numbered year elections
 #### 239 👍 - Pro

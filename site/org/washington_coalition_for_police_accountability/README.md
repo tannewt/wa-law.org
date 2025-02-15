@@ -6,7 +6,7 @@
 
 ### [HB 1252](/bill/2025-26/hb/1252/) - Pretrial release  👎1 
 
-### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
+### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍2  
 * 👍 Leslie Cushman
 
 ### [HB 1400](/bill/2025-26/hb/1400/) - Officer certification 👍1  

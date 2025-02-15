@@ -12,16 +12,27 @@
 
 ## Meetings
 ### Fri 02/14 08:00 AM - Consumer Protection & Business (CPB): HB 1464 Home equity sharing
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163516&caId=25571&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163516&caId=25571&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163516&caId=25571&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32725&aId=163516&caId=25571&tId=4)
-
-#### 2 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Daniel Fishman - Redwood Trust
+* Carl Smith
+* Lee Kaplan - [Unlock Technologies](/org/unlock_technologies/)
+* Joshua Gaffney - Hometap Equity Partners LLC
+* Matthew Windsor - Point Digital Finance
+* Deepak Kumar - Splitero
+* Rolando Villanueva
+* 💵Isaac Kastama - Unlock, Hometap, and Point Digital Finance
 
-#### 8 👎 - Con
+#### 20 👎 - Con
+Testifying:
+* Amanda Martin - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
+* Andrew Pizor - National Consumer Law Center
+* Brendan Donckers - Breskin Johnson Townsend
+* John Webber - Washington State Association for Justice
+* Krystal Lawrence
+* Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Tom McKay - [Northwest Justice Project](/org/northwest_justice_project/)
+* Sean Holland - [Washington Land Title Association](/org/washington_land_title_association/)

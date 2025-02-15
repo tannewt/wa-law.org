@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5708/</link>
 		<description>Updates about SB 5708</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Feb 2025 10:56:40 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Feb 2025 05:28:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2025-02-07/First reading, referred to Business, Financial Services &amp; Trade (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
-			<title>👍Nichol braboy - Associated Builders &amp; Contractors - Western WA / SW Washington Contractors Assoc.</title>
+			<title>👍Nichol braboy - 350 Spokane</title>
 			<description>Nichol braboy signed up to testify Pro.</description>
 			<pubDate>Tue, 11 Feb 2025 09:11:31 GMT</pubDate>
 			<category>testifier</category>
@@ -24,7 +24,7 @@
 			<guid isPermaLink="false">testifier/Nichol/braboy/2025-02-11 09:11:31</guid>
 		</item>
 		<item>
-			<title>👍Matthew Huang - Associated Builders &amp; Contractors - Western WA / SW Washington Contractors Assoc.</title>
+			<title>👍Matthew Huang - 350 Spokane</title>
 			<description>Matthew Huang signed up to testify Pro.</description>
 			<pubDate>Tue, 11 Feb 2025 09:30:31 GMT</pubDate>
 			<category>testifier</category>
@@ -32,7 +32,7 @@
 			<guid isPermaLink="false">testifier/Matthew/Huang/2025-02-11 09:30:31</guid>
 		</item>
 		<item>
-			<title>👍Jiadong Gu - Associated Builders &amp; Contractors - Western WA / SW Washington Contractors Assoc.</title>
+			<title>👍Jiadong Gu - 350 Spokane</title>
 			<description>Jiadong Gu signed up to testify Pro.</description>
 			<pubDate>Tue, 11 Feb 2025 10:25:21 GMT</pubDate>
 			<category>testifier</category>
@@ -110,6 +110,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Robert/Singleton/2025-02-12 10:56:40</guid>
+		</item>
+		<item>
+			<title>👎💵Morgan Irwin - AWB</title>
+			<description>Morgan Irwin signed up to testify Con. They are signed up to represent AWB. They are a registered lobbyist.</description>
+			<pubDate>Thu, 13 Feb 2025 05:28:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Morgan/Irwin/2025-02-13 05:28:59</guid>
 		</item>
 	</channel>
 </rss>

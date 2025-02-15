@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201195)
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201195)
 
 ## Meetings

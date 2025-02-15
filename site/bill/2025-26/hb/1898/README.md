@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32842&aId=164080&caId=25967&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32842&aId=164080&caId=25967&tId=4)
 
-#### 0 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Brian Maiden
 
 #### 0 👎 - Con
 

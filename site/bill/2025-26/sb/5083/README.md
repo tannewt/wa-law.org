@@ -13,6 +13,19 @@
 * 12/02/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2025 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects__trashed/2025-legislative-agenda/#:~:text=Senate%20Bill%205083)
 
 ## Meetings
+### Thu 02/20 04:00 PM - Ways & Means (WM): SSB 5083 Health carrier reimbursement
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164543&caId=25991&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164543&caId=25991&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164543&caId=25991&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164543&caId=25991&tId=4)
+
+#### 3 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5083 Health carrier reimbursement
 #### 643 👍 - Pro
 Testifying:

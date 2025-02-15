@@ -17,7 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32876&aId=164268&caId=25827&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32876&aId=164268&caId=25827&tId=4)
 
-#### 1 👍 - Pro
+#### 250 👍 - Pro
+Testifying:
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 
 #### 1 👎 - Con
 

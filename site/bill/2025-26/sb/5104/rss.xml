@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5104/</link>
 		<description>Updates about SB 5104</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 15 Feb 2025 01:24:47 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -148,6 +148,20 @@
 			<pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-12/Third reading, passed; yeas, 40; nays, 9; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>WA bill intends to protect immigrants from coercion in the workplace • Washington State Standard</title>
+			<description>News article "WA bill intends to protect immigrants from coercion in the workplace • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Thu, 13 Feb 2025 00:47:16 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/02/12/wa-bill-intends-to-protect-immigrants-from-coercion-in-the-workplace/#:~:text=Senate%20Bill%205104</guid>
+		</item>
+		<item>
+			<title>Public testimony, public banking - Sen. Bob Hasegawa</title>
+			<description>News article "Public testimony, public banking - Sen. Bob Hasegawa" from Senate Democrats.</description>
+			<pubDate>Sat, 15 Feb 2025 01:24:47 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hasegawa/2025/02/14/public-testimony-public-banking/#:~:text=5104</guid>
 		</item>
 	</channel>
 </rss>

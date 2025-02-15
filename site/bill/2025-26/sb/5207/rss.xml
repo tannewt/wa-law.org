@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5207 - Requiring refunds to consumers for early cancellation of term-based subscriptions to electronic media services.</title>
+		<title>SB 5207 - Media service subscriptions</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5207/</link>
 		<description>Updates about SB 5207</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 22 Jan 2025 06:33:50 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -44,6 +44,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Morgan/Irwin/2025-01-22 06:33:50</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-14/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

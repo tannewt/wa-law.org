@@ -8,22 +8,25 @@
 
 ## Meetings
 ### Fri 02/14 10:30 AM - Housing (HSG): SB 5678 Residential landlord-tenant
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32745&aId=163851&caId=25779&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32745&aId=163851&caId=25779&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32745&aId=163851&caId=25779&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32745&aId=163851&caId=25779&tId=4)
-
-#### 63 👍 - Pro
+#### 312 👍 - Pro
 Testifying:
 * Carter Nelson - Washington Multifamily Housing Association
 * Alex Harrington - NAIOP Washington State
 * Daniel Klemme - [Rental Housing Association of Washington](/org/rental_housing_association_of_washington/)
+* Bruce Becker
+* Tad Sommerville
+* GORDON HAGGERTY
 
-#### 320 👎 - Con
+#### 2276 👎 - Con
 Testifying:
 * Sarah Moore
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * 💵Sarah Nagy - [Columbia Legal Services](/org/columbia_legal_services/)
+* Kerri Burnside - Bellingham Tenants Union
+* Josie Tracy - Washington Physicians for Social Responsibility
+* 💵Melanie Smith - Seattle / King County Coalition on Homelessness
+* 💵Ishbel Dickens - Assoc of Manufactured Home Owners
+* Gloria Hazen - Private Citizen
+* 💵Matthew Lang - National Organization for Women - WA
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other

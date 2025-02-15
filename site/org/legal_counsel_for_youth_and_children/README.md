@@ -14,7 +14,7 @@
 
 ### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍1  
 
-### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍1  
+### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍2  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
@@ -56,6 +56,8 @@
 ### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation  👎1 
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+
+### [SB 5030](/bill/2025-26/sb/5030/) - Vital records access 👍1  
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger.  👎1 
 
@@ -107,11 +109,13 @@
 ### [SB 5620](/bill/2025-26/sb/5620/) - Foster care/rights of child 👍1  
 * 👍💵 Roxana Gomez
 
-## [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
+### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
+
+## [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍1  
 
 ## 2023-24
 
-### [SB 5654](/bill/2023-24/sb/5654/) - Student restraint, isolation 👍1  
+### [SB 5714](/bill/2023-24/sb/5714/) - Bail bond agents/immigration 👍1  
 
 ### [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
 * 👍 Erin Shea McCann

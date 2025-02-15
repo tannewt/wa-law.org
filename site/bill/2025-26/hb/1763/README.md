@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163929&caId=25934&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163929&caId=25934&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Carl Florea - [City of Leavenworth](/org/city_of_leavenworth/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Richard Moser - Washington Hosts Collaborative Alliance
 
 #### 0 ❓ - Other

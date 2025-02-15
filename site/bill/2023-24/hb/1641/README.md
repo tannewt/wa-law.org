@@ -38,7 +38,7 @@ Testifying:
 * Micah Sherman - Washington Sun and Craft Growers Association (WSCA)
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 * Bethany Rondeaux - Falcanna
-* Andy Brassington - Evergreen Herbal
+* Andy Brassington - [Evergreen Herbal](/org/evergreen_herbal/)
 * Burl Bryson - The Cannabis Alliance
 * Neil Juneja
 * Mitzi Vaughn - The Cannabis Alliance

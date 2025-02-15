@@ -17,11 +17,13 @@
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
-## [SB 5528](/bill/2025-26/sb/5528/) - Transp. electrification 👍1  
+### [SB 5528](/bill/2025-26/sb/5528/) - Transp. electrification 👍1  
+
+## [SB 5574](/bill/2025-26/sb/5574/) - History instruction 👍1  
 
 ## 2023-24
 
-### [SB 5528](/bill/2023-24/sb/5528/) - Transp. electrification 👍1  
+### [SB 5574](/bill/2023-24/sb/5574/) - History instruction 👍1  
 
 ### [HB 1006](/bill/2023-24/hb/1006/) - Drug testing equipment 👍1  
 * 👍 Bradley Finegood

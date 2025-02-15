@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1272/</link>
 		<description>Updates about HB 1272</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 28 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 11:19:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -58,6 +58,30 @@
 			<pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-28/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍Kashi Arora - Seattle Children's</title>
+			<description>Kashi Arora signed up to testify Pro. They are signed up to represent Seattle Children's.</description>
+			<pubDate>Fri, 14 Feb 2025 02:39:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kashi/Arora/2025-02-14 02:39:24</guid>
+		</item>
+		<item>
+			<title>👍Sheryl Landstrom - Family Voice and A Common Voice, 1580 Rapid Care Team Lead Parent Support Specialist</title>
+			<description>Sheryl Landstrom signed up to testify Pro. They are signed up to represent Family Voice and A Common Voice, 1580 Rapid Care Team Lead Parent Support Specialist.</description>
+			<pubDate>Fri, 14 Feb 2025 11:19:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sheryl/Landstrom/2025-02-14 11:19:05</guid>
+		</item>
+		<item>
+			<title>👍Kimberly Runge - A Common Voice | 1580 Program Manager</title>
+			<description>Kimberly Runge signed up to testify Pro. They are signed up to represent A Common Voice | 1580 Program Manager.</description>
+			<pubDate>Fri, 14 Feb 2025 11:19:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kimberly/Runge/2025-02-14 11:19:22</guid>
 		</item>
 	</channel>
 </rss>

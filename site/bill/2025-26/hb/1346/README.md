@@ -18,7 +18,7 @@ Testifying:
 * Becca Burghardi - Northwest Cannabis Solutions
 * Jamie Hoffman - Craft Elixirs
 * Scott Atkison - Zips Cannabis
-* Andy Brassington - Evergreen Herbal
+* Andy Brassington - [Evergreen Herbal](/org/evergreen_herbal/)
 * 💵Brooke Davies - Washington CannaBusiness Association
 * 💵Ezra Eickmeyer - Producers NW
 * 💵Vicki Christophersen - Washington CannaBusiness Association

@@ -20,6 +20,8 @@
 
 ### [HB 1725](/bill/2025-26/hb/1725/) - Biosimilar medicines 👍1  
 
+### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
@@ -45,11 +47,13 @@
 ### [SB 5579](/bill/2025-26/sb/5579/) - Health/contract terminations 👍1  
 * 👍💵 Christine Brewer
 
-## [SB 5594](/bill/2025-26/sb/5594/) - Biosimilar medicines 👍1  
+### [SB 5594](/bill/2025-26/sb/5594/) - Biosimilar medicines 👍1  
+
+## [SB 5712](/bill/2025-26/sb/5712/) - Industrial stormwater permit  👎1 
 
 ## 2023-24
 
-### [SB 5594](/bill/2023-24/sb/5594/) - Biosimilar medicines 👍1  
+### [SB 5712](/bill/2023-24/sb/5712/) - Industrial stormwater permit  👎1 
 
 ### [HB 1027](/bill/2023-24/hb/1027/) - Audio-only telemedicine 👍1  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5578/</link>
 		<description>Updates about SB 5578</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 08:51:14 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Feb 2025 05:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -310,6 +310,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Sarah/Clark/2025-02-11 08:51:14</guid>
+		</item>
+		<item>
+			<title>Democratic proposal would raise state minimum wage to $25/hour by 2032</title>
+			<description>News article "Democratic proposal would raise state minimum wage to $25/hour by 2032" from MyNorthwest.</description>
+			<pubDate>Wed, 12 Feb 2025 05:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/mynorthwest-politics/minimum-wage/4044199#:~:text=Senate%20Bill%205578</guid>
 		</item>
 	</channel>
 </rss>

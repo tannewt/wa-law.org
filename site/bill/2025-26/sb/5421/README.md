@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205421)
+
 ## Meetings
 ### Thu 02/06 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5421 Small businesses/residential
 #### 107 👍 - Pro

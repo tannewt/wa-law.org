@@ -37,6 +37,9 @@
 
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax 👍1  
 
+### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program 👍1  
+* 👍💵 Nicole Kern
+
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍2  
 * 👍💵 Courtney Normand
 
@@ -100,6 +103,9 @@
 ### [SB 5455](/bill/2025-26/sb/5455/) - Cancer research endowment 👍1  
 
 ### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
+
+### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍1  
+* 👍💵 Nicole Kern
 
 ### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
 

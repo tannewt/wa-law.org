@@ -35,7 +35,7 @@ Testifying:
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 * Bethany Rondeaux
 * Calvin Christoph
-* Andy Brassington - Evergreen Herbal
+* Andy Brassington - [Evergreen Herbal](/org/evergreen_herbal/)
 * Matt Jones
 * Burl Bryson - The Cannabis Alliance
 * Bailey Hirschburg - WA National Org for the Reform of Marijuana Laws

@@ -54,6 +54,8 @@
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 
+### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
+
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓1
@@ -92,11 +94,15 @@
 
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
 
-## [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits   ❓1
+### [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits   ❓1
+
+### [SB 5627](/bill/2025-26/sb/5627/) - Safe excavation  👎1 
+
+## [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
 
 ## 2023-24
 
-### [SB 5615](/bill/2023-24/sb/5615/) - Residential housing permits   ❓1
+### [SB 5659](/bill/2023-24/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
 
 ### [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
 
