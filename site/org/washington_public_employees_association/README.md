@@ -41,11 +41,18 @@
 
 ### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply 👍1  
 
+### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use 👍1  
+* 👍💵 Seamus Petrie
+
 ### [SB 5435](/bill/2025-26/sb/5435/) - Reorganizing and adding subchapter headings to public employees' collective bargaining statutes. 👍1  
+
+### [SB 5437](/bill/2025-26/sb/5437/) - Noncompetition agreements 👍1  
 
 ### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining 👍1  
 
 ### [SB 5540](/bill/2025-26/sb/5540/) - Students/unemployment ins. 👍1  
+
+### [SB 5572](/bill/2025-26/sb/5572/) - School construction projects 👍1  
 
 ## [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
 

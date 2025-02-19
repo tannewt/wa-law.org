@@ -11,6 +11,8 @@
 ### [SB 5208](/bill/2025-26/sb/5208/) - Clean energy fund program  👎1 
 * 👎 Kathleen Saul
 
+### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
+
 ### [SB 5385](/bill/2025-26/sb/5385/) - Definition of timberland 👍1  
 
 ## [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment 👍1  

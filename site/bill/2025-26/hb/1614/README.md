@@ -8,14 +8,12 @@
 
 ## Meetings
 ### Tue 02/18 08:00 AM - Finance (FIN): HB 1614 Capital gains tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163928&caId=25933&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163928&caId=25933&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163928&caId=25933&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163928&caId=25933&tId=4)
+#### 11 👍 - Pro
+Testifying:
+* Steve Ewing - Dept. of Revenue
 
-#### 1 👍 - Pro
+#### 109 👎 - Con
 
-#### 1 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Rachel Roberson - Washington Society of CPAs

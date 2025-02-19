@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/11 01:30 PM - State Government & Tribal Relations (SGOV): HB 1916 Voter registrations

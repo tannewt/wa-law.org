@@ -20,11 +20,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164619&caId=26022&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164619&caId=26022&tId=4)
 
-#### 5 👍 - Pro
+#### 328 👍 - Pro
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Tiffany Attrill
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/28 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1274 Juvenile convictions/score
 #### 1586 👍 - Pro

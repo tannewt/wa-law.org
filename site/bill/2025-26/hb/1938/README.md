@@ -6,20 +6,26 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201938)
+
 ## Meetings
 ### Tue 02/18 01:30 PM - State Government & Tribal Relations (SGOV): HB 1938 State flag redesign
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164143&caId=25964&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164143&caId=25964&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164143&caId=25964&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164143&caId=25964&tId=4)
-
-#### 12 👍 - Pro
+#### 86 👍 - Pro
 Testifying:
 * Emmett O'Connell
 * David Sedelmeier
+* Bradley Lockhart
+* Jacob Lawty
+* Antoinette Hippe
+* Margot Stroop - Runaway Press
+* Adib Altallal
+* Deniz Iyigun
+* Nolan Bush
+* Natalie Gregov
+* Evelyn Smith
 
-#### 1007 👎 - Con
+#### 3061 👎 - Con
 Testifying:
 * Eldon Leuning
 * Hailey Irvine
@@ -32,7 +38,32 @@ Testifying:
 * TAMMY Rose Berry
 * Russell Franklin
 * Michael Gawthorp
+* Leia Schneider
 * C P
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Tasi Fepuleai
+* Julia Mirate
+* Greg Wilson - Wilson Ranch
+* Michael Cantrell
+* Amy Weber-Cantrell
+* Lisa Mischenko
+* Christina Janis
+* Quinton Jackson
+* Shaun DSylva
+* Kristine Hanson
+* Ethan Farrington
+* Andrea Makowski
+* Karen Whooley
+* Bryan Painter
+* Casey Turner
+* Casey Turner
+* Gary Mansford
+* Janet Johnson
+* Eric Pratt - America
+* Ryan Jewell
+* Anthony Holan
+* Aleksandra Avellino
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Lon Lehr - Nope

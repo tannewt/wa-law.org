@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Tue 02/18 08:00 AM - Early Learning & K-12 Education (EDU): SB 5730 Dev. disabilities/rec checks
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32867&aId=164455&caId=25821&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32867&aId=164455&caId=25821&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32867&aId=164455&caId=25821&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32867&aId=164455&caId=25821&tId=4)
-
 #### 0 👍 - Pro
 
 #### 0 👎 - Con

@@ -6,20 +6,22 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/16/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 6: Children's Day, affordable housing and a key date arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/16/this-week-in-the-senate-week-6-childrens-day-affordable-housing-and-a-key-date-arrives/#:~:text=Senate%20Bill%205662)
+
 ## Meetings
 ### Mon 02/17 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5662 Utility connection charges
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164337&caId=25858&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164337&caId=25858&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164337&caId=25858&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164337&caId=25858&tId=4)
-
-#### 12 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Michelle Girardot - Habitat for Humanity-Spokane
 * 💵Ben Stuckart - [Spokane Low Income Housing Consortium](/org/spokane_low_income_housing_consortium/)
 * Michelle Girardot - Habitat for Humanity-Spokane
+* Matt Kilbourne - Catholic Charities of Eastern Washington
 
-#### 0 👎 - Con
+#### 672 👎 - Con
+Testifying:
+* Theresa Plue
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Logan Bahr - Tacoma Public Utilities/Tacoma Power

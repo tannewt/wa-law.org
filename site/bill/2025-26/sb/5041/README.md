@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/03/2025 [The Stranger](/org/the_stranger/) - [Shaun Scott’s Radical Agenda Arrives in Olympia - The Stranger](https://www.thestranger.com/news/2025/02/03/79904473/shaun-scotts-radical-agenda-arrives-in-olympia#:~:text=SB%205041)

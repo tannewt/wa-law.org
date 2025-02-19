@@ -7,13 +7,19 @@
 
 ### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍2  
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍2  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍1  
 
+### [HB 1561](/bill/2025-26/hb/1561/) - Domestic workers 👍2  
+* 👍 Danielle Alvarado
+
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards 👍1  
+* 👍 Danielle Alvarado
+
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
 * 👍 Danielle Alvarado
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍3  
@@ -29,13 +35,14 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-## [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
+### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
 * 👍 Danielle Alvarado
+
+## [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍1  
 
 ## 2023-24
 
-### [SB 5578](/bill/2023-24/sb/5578/) - Labor standards 👍1  
-* 👍 Danielle Alvarado
+### [SB 5714](/bill/2023-24/sb/5714/) - Bail bond agents/immigration 👍1  
 
 ### [HB 1217](/bill/2023-24/hb/1217/) - Wage complaints 👍1  
 

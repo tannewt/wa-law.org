@@ -6,20 +6,47 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201763)
+
 ## Meetings
 ### Tue 02/18 08:00 AM - Finance (FIN): HB 1763 Affordable housing funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163929&caId=25934&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163929&caId=25934&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163929&caId=25934&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163929&caId=25934&tId=4)
-
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Carl Florea - [City of Leavenworth](/org/city_of_leavenworth/)
+* Zeke Reister - resident of Leavenworth
+* Kurt Peterson - Upper Valley Aquatics Boosters (formerly Friends of Pool)
 
-#### 2 👎 - Con
+#### 690 👎 - Con
 Testifying:
 * Richard Moser - Washington Hosts Collaborative Alliance
+* 💵Brent Ludeman - [Expedia Group](/org/expedia_group/)
+* Pam Corwin - - None -
+* Cassy Gilbertson
+* Richard Moser - Washington Hosts Collaborative Alliance
+* Allison Moser - Washington Hosts Collaborative Alliance
+* Victor Garcia
+* Michelle Larkin
+* Eben Ifech
+* Heather Lindquist
+* Carolyn Allen - Washington Hosts Collaborative Alliance
+* Sue Ellen White - 5223 Watauga Beach Drive East
+* Sue Ellen White
+* Stephanie Bender
+* Lance Eggers
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Ann Jolie
+* michelle boyle - self
+* Dani Robinett
+* 💵Vicki Christophersen - Technet
+* Dan Lang - AirBnB hosts
+* Fritz Feiten
+* Ken Ploeger - Seattle Airbnb Hosts Group
+* 💵Jake Mayson - Greater Spokane Incorporated
+* Melissa Storey
+* Warren Newton
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Nur Djuned
+* Kate Armstrong - Department of Revenue

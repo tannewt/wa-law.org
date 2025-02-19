@@ -20,11 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164543&caId=25991&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164543&caId=25991&tId=4)
 
-#### 3 👍 - Pro
+#### 18 👍 - Pro
 
-#### 0 👎 - Con
+#### 40 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5083 Health carrier reimbursement
 #### 643 👍 - Pro

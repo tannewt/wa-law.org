@@ -18,7 +18,7 @@
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
-### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎2 
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎3 
 
 ### [SB 5124](/bill/2025-26/sb/5124/) - SNF & rehab network adequacy 👍1  
 
@@ -26,11 +26,13 @@
 
 ### [SB 5335](/bill/2025-26/sb/5335/) - Rural nursing education 👍1  
 
-## [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency  👎1 
+### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency  👎1 
+
+## [SB 5683](/bill/2025-26/sb/5683/) - Health carrier payment times 👍1  
 
 ## 2023-24
 
-### [SB 5493](/bill/2023-24/sb/5493/) - Hospital price transparency  👎1 
+### [SB 5683](/bill/2023-24/sb/5683/) - Health carrier payment times 👍1  
 
 ### [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
 

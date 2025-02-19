@@ -12,7 +12,7 @@
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
-### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
+### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍2  
 
 ### [SB 5205](/bill/2025-26/sb/5205/) - College grant award amounts 👍1  
 * 👍 Ph.D., Terri Standish-Kuon

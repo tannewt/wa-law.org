@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/16/2025 [The Center Square](/org/the_center_square/) - [Hundreds rally at Capitol to protect parental rights: ‘Enough is enough’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3759a090-ecbf-11ef-88cc-2b90955ea0c2.html#:~:text=Senate%20Bill%205181)
 * 02/11/2025 [Senate Democrats](/org/senate_democrats/) - [Working together to support students and their families - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/11/working-together-to-support-students-and-their-families/#:~:text=Senate%20Bill%205181)
 * 02/11/2025 [Senate Democrats](/org/senate_democrats/) - [Working together to support students and their families - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/02/11/working-together-to-support-students-and-their-families/#:~:text=Senate%20Bill%205181)
 * 02/11/2025 [The Center Square](/org/the_center_square/) - [WA senator insists controversial remarks on parents' rights taken out of context | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_086c03d6-e8c8-11ef-a124-93ba3339c796.html#:~:text=Senate%20Bill%205181)
@@ -29,6 +30,7 @@
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205181)
 * 01/10/2025 [Senate Democrats](/org/senate_democrats/) - [Wilson files comprehensive LGBTQIA+, vulnerable student protections bill package - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/10/wilson-files-comprehensive-lgbtqia-vulnerable-student-protections-bill-package/#:~:text=SB%205181)
 * 01/10/2025 [Senate Democrats](/org/senate_democrats/) - [Wilson files comprehensive LGBTQIA+, vulnerable student protections bill package - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/10/wilson-files-comprehensive-lgbtqia-vulnerable-student-protections-bill-package/#:~:text=SB%205181)
+* 04/01/2021 [Senate Democrats](/org/senate_democrats/) - [2025 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2025priorities/#:~:text=Senate%20Bill%205181)
 
 ## Meetings
 ### Tue 01/21 08:00 AM - Early Learning & K-12 Education (EDU): SB 5181 Parents rights in education

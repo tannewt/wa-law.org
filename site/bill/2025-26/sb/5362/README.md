@@ -18,7 +18,7 @@ Testifying:
 * Colleen McIngalls - King County Prosecuting Attorney's Office
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
-* Esther Warwick - [The Arc of King County](/org/the_arc_of_king_county/)
+* 💵Esther Warwick - [The Arc of King County](/org/the_arc_of_king_county/)
 * Paula Reed - CAC-WA
 * Annalise Martucci - Office of Civil Legal Aid
 * 💵Sherrie Tinoco - [WSCADV](/org/washington_state_coalition_against_domestic_violence/)

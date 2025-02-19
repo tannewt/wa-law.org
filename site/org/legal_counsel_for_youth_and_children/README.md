@@ -55,6 +55,10 @@
 
 ### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation  👎1 
 
+### [HB 1968](/bill/2025-26/hb/1968/) - Controlled sub. endangerment  👎1 
+
+### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍1  
+
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
 
 ### [SB 5030](/bill/2025-26/sb/5030/) - Vital records access 👍1  

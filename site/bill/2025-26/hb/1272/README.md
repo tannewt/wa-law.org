@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Mon 02/17 04:00 PM - Appropriations (APP): HB 1272 Children in crisis program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164195&caId=25910&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164195&caId=25910&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164195&caId=25910&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164195&caId=25910&tId=4)
-
-#### 5 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Kashi Arora - Seattle Children's
 * Sheryl Landstrom - Family Voice and A Common Voice, 1580 Rapid Care Team Lead Parent Support Specialist
 * Kimberly Runge - A Common Voice | 1580 Program Manager
+* Lori Kowalski
+* Taku Mineshita - Office of Governor Bob Ferguson
 
 #### 0 👎 - Con
 

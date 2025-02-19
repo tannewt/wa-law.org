@@ -1,7 +1,9 @@
 # Puget Sound Advocates for Retirement Action
 ## 2025-26
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
+
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
@@ -16,6 +18,8 @@
 
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards 👍1  
 
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
+
 ### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍1  
 
 ### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  
@@ -23,15 +27,23 @@
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
 * 👍💵 Nancy Sapiro
 
+### [SB 5437](/bill/2025-26/sb/5437/) - Noncompetition agreements 👍1  
+
+### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave 👍1  
+
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 
 ### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption  👎1 
 
-## [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
+### [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
+
+### [SB 5731](/bill/2025-26/sb/5731/) - Tenant assistance program  👎1 
+
+## [SB 5740](/bill/2025-26/sb/5740/) - Eviction reform  👎1 
 
 ## 2023-24
 
-### [SB 5678](/bill/2023-24/sb/5678/) - Residential landlord-tenant  👎1 
+### [SB 5740](/bill/2023-24/sb/5740/) - Eviction reform  👎1 
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

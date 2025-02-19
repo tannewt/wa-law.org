@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1289/</link>
 		<description>Updates about HB 1289</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 24 Jan 2025 14:50:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -67,6 +67,13 @@
 			<pubDate>Fri, 24 Jan 2025 14:50:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_3def59ca-da88-11ef-a5cf-ab6aac217411.html#:~:text=House%20Bill%201289</guid>
+		</item>
+		<item>
+			<title>ED - Executive action taken by committee.</title>
+			<description>ED - Executive action taken by committee.</description>
+			<pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-17/ED - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

@@ -33,7 +33,11 @@
 
 ### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance 👍1  
 
+### [HB 1713](/bill/2025-26/hb/1713/) - Automatic voter reg./tribes 👍1  
+
 ### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims 👍1  
+
+### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
 
@@ -43,7 +47,7 @@
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
 * 👍 Andrew Villeneuve
 
-### [SB 5201](/bill/2025-26/sb/5201/) - Psychedelic substances 👍1  
+### [SB 5201](/bill/2025-26/sb/5201/) - Psychedelic substances 👍2  
 
 ### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍1  
 * 👍 Andrew Villeneuve

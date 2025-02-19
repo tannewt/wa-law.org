@@ -7,22 +7,22 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201337)
 * [House Republicans](/org/house_republicans/) - [Smarter Government | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/smarter-government/#:~:text=Getting%20ferries%20online%20faster)
 * [House Republicans](/org/house_republicans/) - [Smarter Government | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/smarter-government/#:~:text=Getting%20ferries%20online%20faster)
 
 ## Meetings
 ### Tue 02/18 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1337 Higher education presidents
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32870&aId=164248&caId=25960&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32870&aId=164248&caId=25960&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32870&aId=164248&caId=25960&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32870&aId=164248&caId=25960&tId=4)
-
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Jacob Vigdor - University of Washington Faculty/COF
 * Sam Ligon - Eastern Washington University Faculty/COF
+* Bidisha Biswas - Council of Faculty, Faculty Legislative Rep for WWU
+* Gautham Reddy
+* Amy Hagopian - UW Chapter, American Association of University Professors
+* 💵Collin Bannister - Associated Students of Washington State University
+* 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 
-#### 0 👎 - Con
+#### 8 👎 - Con
 
 #### 0 ❓ - Other

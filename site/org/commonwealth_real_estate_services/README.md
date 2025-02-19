@@ -20,8 +20,9 @@
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants  👎1 
 * 👎💵 Brad Tower
 
-### [SB 5298](/bill/2025-26/sb/5298/) - Mobile home community sale 👍1 👎1 
+### [SB 5298](/bill/2025-26/sb/5298/) - Mobile home community sale 👍2 👎1 
 * 👎💵 Brad Tower
+* 👍💵 Brad Tower
 * 👍💵 Brad Tower
 
 ## [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption 👍1  

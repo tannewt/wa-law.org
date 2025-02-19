@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1105 - Exempting exclusive bargaining representatives for department of corrections employees from certain provisions related to coalition bargaining.</title>
+		<title>HB 1105 - DOC employee bargaining</title>
 		<link>https://wa-law.org/bill/2025-26/hb/1105/</link>
 		<description>Updates about HB 1105</description>
 		<language>en-US</language>
@@ -87,6 +87,13 @@
 			<pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-13/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-13/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

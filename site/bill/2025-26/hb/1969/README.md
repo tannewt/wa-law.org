@@ -8,20 +8,18 @@
 
 ## Meetings
 ### Tue 02/18 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1969 Law enf. aviation support
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32862&aId=164507&caId=25988&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32862&aId=164507&caId=25988&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32862&aId=164507&caId=25988&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32862&aId=164507&caId=25988&tId=4)
-
-#### 30 👍 - Pro
+#### 98 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * David Ellis - Spokane Valley Police Chief
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Patti Cole-Tindall - King County Sheriff
 * Susanna Johnson - Snohomish County Sheriff
+* Carrie Lee Gagnon
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* George Geissler - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)

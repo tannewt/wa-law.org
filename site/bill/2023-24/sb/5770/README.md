@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/17/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [House Democrats begin push to repeal Washington’s cap on property tax hikes | Cascadia Daily News](https://www.cascadiadaily.com/2025/feb/17/house-democrats-begin-push-to-repeal-washingtons-cap-on-property-tax-hikes/#:~:text=pushed%20a%20bill%20last%20year)
 * 02/12/2025 [MyNorthwest](/org/mynorthwest/) - [WA Democrats debating 'tax the rich' property plan as alternative to cap increase](https://mynorthwest.com/mynorthwest-politics/wa-democrat-tax/4044645#:~:text=Senate%20Bill%205770)
 * 01/10/2025 [Cascade PBS](/org/cascade_pbs/) - [WA cop shortage persists statewide as lawmakers gear up in Olympia | Cascade PBS](https://crosscut.com/politics/2025/01/wa-cop-shortage-persists-statewide-lawmakers-gear-olympia#:~:text=Senate%20Bill%205770)
 * 12/05/2024 [The Urbanist](/org/the_urbanist/) - [King County Seeks Help from State Legislature After Approving 2025 Budget - The Urbanist](https://www.theurbanist.org/2024/12/05/king-county-seeks-budget-help-from-state/#:~:text=2024%20bill)

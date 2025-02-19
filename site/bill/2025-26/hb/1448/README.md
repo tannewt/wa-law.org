@@ -54,4 +54,4 @@ Testifying:
 * Chris Hughes - Ranked Choice Voting Resource Center
 * Robert Bristow-Johnson
 * 💵David Lord
-* Esther Warwick - [The Arc of King County](/org/the_arc_of_king_county/)
+* 💵Esther Warwick - [The Arc of King County](/org/the_arc_of_king_county/)

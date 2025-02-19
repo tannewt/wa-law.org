@@ -10,6 +10,7 @@
 ## 📰 Articles
 * 02/13/2025 [FOX13](/org/fox13/) - [Bills protecting WA youth refs makes way to Legislature | FOX 13 Seattle](https://www.fox13seattle.com/news/bills-youth-referees-wa-legislature-seattle-hockey#:~:text=HB%201085)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201085)
+* 04/01/2021 [Senate Democrats](/org/senate_democrats/) - [2025 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2025priorities/#:~:text=House%20Bill%201085)
 
 ## Meetings
 ### Thu 02/20 04:00 PM - Appropriations (APP): SHB 1085 School safety/penalties
@@ -19,9 +20,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32860&aId=164624&caId=26015&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32860&aId=164624&caId=26015&tId=4)
 
-#### 1 👍 - Pro
+#### 4 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

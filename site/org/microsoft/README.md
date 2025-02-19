@@ -13,6 +13,8 @@
 
 ### [HB 1876](/bill/2025-26/hb/1876/) - Death with dignity act 👍1  
 
+### [HB 1887](/bill/2025-26/hb/1887/) - Data broker registry & tax  👎1 
+
 ### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 
 ### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍1  
@@ -22,11 +24,15 @@
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
 * 👍 Barb Wilson
 
-## [SB 5658](/bill/2025-26/sb/5658/) - Workforce education account 👍1  
+### [SB 5658](/bill/2025-26/sb/5658/) - Workforce education account 👍1  
+
+## [SB 5755](/bill/2025-26/sb/5755/) - Residential dev./commercial 👍1  
+* 👍 Barb Wilson
 
 ## 2023-24
 
-### [SB 5658](/bill/2023-24/sb/5658/) - Workforce education account 👍1  
+### [SB 5755](/bill/2023-24/sb/5755/) - Residential dev./commercial 👍1  
+* 👍 Barb Wilson
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty 👍2  
 

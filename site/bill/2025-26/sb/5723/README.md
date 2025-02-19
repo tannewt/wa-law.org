@@ -8,14 +8,14 @@
 
 ## Meetings
 ### Mon 02/17 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5723 Airpark covenants
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164339&caId=25860&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164339&caId=25860&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164339&caId=25860&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164339&caId=25860&tId=4)
+#### 5 👍 - Pro
 
-#### 0 👍 - Pro
+#### 864 👎 - Con
+Testifying:
+* Helen Lehner - Parkside Airpark HOA
+* Thomas Young
+* Steve Reid
+* Kathryn Mcaleer
+* Brad Schuster - Aircraft Owners and Pilots Association - AOPA
 
-#### 63 👎 - Con
-
-#### 0 ❓ - Other
+#### 7 ❓ - Other

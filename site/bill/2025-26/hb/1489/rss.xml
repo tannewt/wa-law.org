@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1489/</link>
 		<description>Updates about HB 1489</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Feb 2025 15:48:07 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -112,6 +112,20 @@
 			<pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-12/APP - Majority; 1st substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-17/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Tough Budget Choices Ahead: Lawmakers Weigh Deep Cuts &amp; Delays - United Ways of the Pacific Northwest</title>
+			<description>News article "Tough Budget Choices Ahead: Lawmakers Weigh Deep Cuts &amp; Delays - United Ways of the Pacific Northwest" from United Ways of the Pacific Northwest.</description>
+			<pubDate>Tue, 18 Feb 2025 15:48:07 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.uwpnw.org/legupdate02182025#:~:text=H.B.%201489</guid>
 		</item>
 	</channel>
 </rss>

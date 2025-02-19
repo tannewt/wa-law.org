@@ -34,6 +34,9 @@
 ### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex.   ❓1
 * ❓💵 Clifford Traisman
 
+### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓1
+* ❓ Caitlin Krenn
+
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
@@ -57,13 +60,14 @@
 
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment 👍1  
 
-## [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels   ❓1
+### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels   ❓1
 * ❓ Caitlin Krenn
+
+## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎1 
 
 ## 2023-24
 
-### [SB 5601](/bill/2023-24/sb/5601/) - Alternative jet fuels   ❓1
-* ❓ Caitlin Krenn
+### [SB 5703](/bill/2023-24/sb/5703/) - Municipal solid waste  👎1 
 
 ### [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍2  
 

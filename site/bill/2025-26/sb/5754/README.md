@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32828&aId=164570&caId=25989&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32828&aId=164570&caId=25989&tId=4)
 
-#### 1 👍 - Pro
+#### 14 👍 - Pro
 
-#### 1 👎 - Con
+#### 567 👎 - Con
+Testifying:
+* Jeffrey Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other

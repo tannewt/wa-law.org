@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1416/</link>
 		<description>Updates about HB 1416</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Feb 2025 04:36:58 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Feb 2025 11:15:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,12 +23,27 @@
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_6f1ff232-d9d6-11ef-b05d-8bbc2efa5d73.html#:~:text=House%20Bill%201416</guid>
 		</item>
 		<item>
-			<title>❓Radu Smintina - School's Out Washington</title>
-			<description>Radu Smintina signed up to testify Other. They are signed up to represent School's Out Washington.</description>
+			<title>❓💵Radu Smintina - School's Out Washington</title>
+			<description>Radu Smintina signed up to testify Other. They are signed up to represent School's Out Washington. They are a registered lobbyist.</description>
 			<pubDate>Fri, 14 Feb 2025 04:36:58 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Radu/Smintina/2025-02-14 04:36:58</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 14 Feb 2025 23:02:16 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201416</guid>
+		</item>
+		<item>
+			<title>👍Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention</title>
+			<description>Scott Waller signed up to testify Pro. They are signed up to represent WASAVP - Washington Association for Substance misuse and Violence Prevention.</description>
+			<pubDate>Mon, 17 Feb 2025 11:15:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Waller/2025-02-17 11:15:04</guid>
 		</item>
 	</channel>
 </rss>

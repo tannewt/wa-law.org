@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201462)
 * 02/07/2025 [House Democrats](/org/house_democrats/) - [Duerr bill cuts potent greenhouse gases   – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/07/duerr-bill-cuts-potent-greenhouse-gases/#:~:text=House%20Bill%201462)
 
 ## Meetings
@@ -18,13 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164198&caId=25911&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164198&caId=25911&tId=4)
 
-#### 3 👍 - Pro
+#### 297 👍 - Pro
 Testifying:
 * Tianyi (Matthew) Tong - Lake Washington High School
 
-#### 4 👎 - Con
+#### 523 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Carolyn Logue - WA Air Conditioning Contractors Association
 
 ### Thu 01/30 08:00 AM - Environment & Energy (ENVI): HB 1462 Hydrofluorocarbons
 #### 259 👍 - Pro

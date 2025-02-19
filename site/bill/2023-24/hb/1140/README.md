@@ -53,7 +53,7 @@ Testifying:
 * Carlos Caguiat - [Washington Continuing Care Residents Association](/org/washington_continuing_care_residents_association/)
 * 💵Lynda Hall - [Treehouse](/org/treehouse/)
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
-* Radu Smintina - OneAmerica
+* 💵Radu Smintina - OneAmerica
 * Caroline Cress - Association of Washington Assistant Attorneys General (AWAAG), WFSE Local 5297
 * 💵Aya Samman - [Fourfront Contributor](/org/fourfront_contributor/)
 * 💵Joel Anderson - University of Washington Graduate and Professional Student Senate

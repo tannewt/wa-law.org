@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201878)
+
 ## Meetings
 ### Wed 02/19 04:00 PM - Transportation (TR): HB 1878 Young driver safety
 Sign up to testify:
@@ -14,10 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32843&aId=164082&caId=25969&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32843&aId=164082&caId=25969&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
 
-#### 2 👎 - Con
+#### 505 👎 - Con
 Testifying:
 * David Sedelmeier
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

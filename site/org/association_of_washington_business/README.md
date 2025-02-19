@@ -49,7 +49,7 @@
 
 ### [HB 1115](/bill/2025-26/hb/1115/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
 
-### [HB 1121](/bill/2025-26/hb/1121/) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 👍1  
+### [HB 1121](/bill/2025-26/hb/1121/) - Work restrictions/age 16, 17 👍1  
 * 👍💵 Lindsey Hueer
 
 ### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement  👎1 
@@ -102,7 +102,9 @@
 ### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences   ❓1
 * ❓ Max Martin
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
+
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎2 
 * 👎💵 Lindsey Hueer
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
@@ -146,6 +148,10 @@
 
 ### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍2  
 
+### [HB 1375](/bill/2025-26/hb/1375/) - Estate tax exclusion 👍1  
+
+### [HB 1384](/bill/2025-26/hb/1384/) - Winery tax exemption   ❓1
+
 ### [HB 1389](/bill/2025-26/hb/1389/) - Timber purchase reporting 👍1  
 
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license  👎1 
@@ -166,6 +172,9 @@
 
 ### [HB 1507](/bill/2025-26/hb/1507/) - Health care nondisclosure  👎1 
 * 👎💵 Emily Wittman
+
+### [HB 1517](/bill/2025-26/hb/1517/) - Digital equity/revenue  👎1 
+* 👎 Max Martin
 
 ### [HB 1518](/bill/2025-26/hb/1518/) - Vehicle collision liability  👎1 
 
@@ -230,9 +239,16 @@
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth  👎1 
 * 👎💵 Peter Godlewski
 
+### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties  👎1 
+
 ### [HB 1714](/bill/2025-26/hb/1714/) - Small business risk pooling 👍1  
 
+### [HB 1715](/bill/2025-26/hb/1715/) - Energy standard/comply cost 👍1  
+* 👍💵 Peter Godlewski
+
 ### [HB 1722](/bill/2025-26/hb/1722/) - Secondary career education 👍1  
+
+### [HB 1728](/bill/2025-26/hb/1728/) - Estate tax/nonfamilial heir 👍1  
 
 ### [HB 1732](/bill/2025-26/hb/1732/) - Home buying by entities  👎1 
 * 👎💵 Morgan Irwin
@@ -241,6 +257,9 @@
 
 ### [HB 1756](/bill/2025-26/hb/1756/) - Lead in cookware 👍1  
 * 👍💵 Peter Godlewski
+
+### [HB 1763](/bill/2025-26/hb/1763/) - Affordable housing funding  👎1 
+* 👎 Max Martin
 
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
 * 👎💵 Lindsey Hueer
@@ -269,6 +288,9 @@
 
 ### [HB 1822](/bill/2025-26/hb/1822/) - Establishing a driver work zone and first responder safety course requirement. 👍1  
 
+### [HB 1834](/bill/2025-26/hb/1834/) - Protecting Washington children online.  👎1 
+* 👎💵 Morgan Irwin
+
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev.  👎1 
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
@@ -279,6 +301,17 @@
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace  👎1 
 * 👎💵 Emily Wittman
+
+### [HB 1882](/bill/2025-26/hb/1882/) - State tax on lodging  👎1 
+* 👎 Max Martin
+
+### [HB 1887](/bill/2025-26/hb/1887/) - Data broker registry & tax  👎1 
+* 👎💵 Morgan Irwin
+
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
+
+### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍1  
+* 👍💵 Peter Godlewski
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
@@ -317,7 +350,7 @@
 
 ### [SB 5111](/bill/2025-26/sb/5111/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
 
-### [SB 5118](/bill/2025-26/sb/5118/) - Updating the requirements for the clinical experience license for international medical graduates. 👍1  
+### [SB 5118](/bill/2025-26/sb/5118/) - International medical grads 👍1  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
 
@@ -398,6 +431,9 @@
 ### [SB 5434](/bill/2025-26/sb/5434/) - Gubernatorial emergencies 👍1  
 * 👍💵 Dave Mastin
 
+### [SB 5437](/bill/2025-26/sb/5437/) - Noncompetition agreements  👎1 
+* 👎💵 Lindsey Hueer
+
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons   ❓1
 * ❓💵 Peter Godlewski
 
@@ -434,12 +470,15 @@
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
 
 ### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍1  
 * 👍💵 Peter Godlewski
 
 ### [SB 5528](/bill/2025-26/sb/5528/) - Transp. electrification  👎1 
+
+### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave  👎1 
+* 👎💵 Lindsey Hueer
 
 ### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎2 
 * 👎💵 Lindsey Hueer
@@ -484,6 +523,8 @@
 
 ### [SB 5644](/bill/2025-26/sb/5644/) - Gift card criminal conduct 👍1  
 
+### [SB 5653](/bill/2025-26/sb/5653/) - Fish and wildlife officers  👎1 
+
 ### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍1  
 
 ### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage. 👍1  
@@ -493,11 +534,16 @@
 ### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption 👍1  
 * 👍💵 Morgan Irwin
 
-## [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant 👍1  
+### [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant 👍1  
+
+### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue   ❓1
+* ❓💵 Morgan Irwin
+
+## [SB 5756](/bill/2025-26/sb/5756/) - Working minors  👎1 
 
 ## 2023-24
 
-### [SB 5678](/bill/2023-24/sb/5678/) - Residential landlord-tenant 👍1  
+### [SB 5756](/bill/2023-24/sb/5756/) - Working minors  👎1 
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

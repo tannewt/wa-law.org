@@ -8,14 +8,22 @@
 
 ## Meetings
 ### Tue 02/18 08:00 AM - Finance (FIN): HB 1506 Credit union-bank merger/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163926&caId=25931&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163926&caId=25931&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163926&caId=25931&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163926&caId=25931&tId=4)
+#### 125 👍 - Pro
+Testifying:
+* Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* Josh Deck - Olympia Federal Savings
+* Eric Sprink - Coastal Community Bank
+* Ed Speed - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 
-#### 105 👍 - Pro
-
-#### 474 👎 - Con
+#### 512 👎 - Con
+Testifying:
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* 💵Alison Phelan - BECU
+* Don Clark - Sound Credit Union
+* Drew Wolff - BECU
+* Barney Herrera - Verity Credit Union
+* Ezra Eckhardt - Spokane Teachers Credit Union
+* 💵Joe Adamack - Washington's Credit Unions - GoWest Credit Union Association
 
 #### 1 ❓ - Other

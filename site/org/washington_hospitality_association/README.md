@@ -1,13 +1,15 @@
 # Washington Hospitality Association
 ## 2025-26
 
+### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers  👎1 
+
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍1  
 * 👍💵 Samantha Louderback
 
 ### [HB 1080](/bill/2025-26/hb/1080/) - Lodging fee disclosure  👎1 
 * 👎💵 Julia Gorton
 
-### [HB 1121](/bill/2025-26/hb/1121/) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 👍1  
+### [HB 1121](/bill/2025-26/hb/1121/) - Work restrictions/age 16, 17 👍1  
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board  👎2 
 
@@ -19,7 +21,8 @@
 
 ### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎1 
 
-### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential 👍1  
+### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential 👍2  
+* 👍 Sean DeWitz
 * 👍 Sean DeWitz
 
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍2  
@@ -81,6 +84,11 @@
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
 * 👎 Anthony Anton
 
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration  👎1 
+
+### [HB 1882](/bill/2025-26/hb/1882/) - State tax on lodging  👎1 
+* 👎💵 Julia Gorton
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Julia Gorton
 
@@ -130,6 +138,8 @@
 
 ### [SB 5511](/bill/2025-26/sb/5511/) - Low-proof alcohol beverages   ❓1
 * ❓ Sean DeWitz
+
+### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave  👎1 
 
 ### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
 

@@ -23,6 +23,7 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Chyna Willman - Grit City Wellness
+* Steve Ewing - Dept. of Revenue

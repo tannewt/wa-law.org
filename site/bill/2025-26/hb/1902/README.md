@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Mon 02/17 04:00 PM - Transportation (TR): HB 1902 Transp. project permitting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32842&aId=164081&caId=25968&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32842&aId=164081&caId=25968&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32842&aId=164081&caId=25968&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32842&aId=164081&caId=25968&tId=4)
-
-#### 0 👍 - Pro
+#### 9 👍 - Pro
 
 #### 0 👎 - Con
 

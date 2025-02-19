@@ -15,7 +15,7 @@
 
 ### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface 👍1  
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍2  
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 * 👍💵 Justin Allegro
@@ -42,6 +42,9 @@
 ### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex.   ❓1
 * ❓💵 David Mendoza
 
+### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓1
+* ❓💵 David Mendoza
+
 ### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍1  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
@@ -49,7 +52,7 @@
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
-### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍2  
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓2
 * ❓💵 Justin Allegro

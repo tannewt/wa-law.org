@@ -55,6 +55,9 @@
 
 ### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools  👎2 
 
+### [HB 1677](/bill/2025-26/hb/1677/) - Postsecondary/med. abortion 👍1 👎4 
+* 👎 Mary Long
+
 ### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎2 
 
 ### [HB 1745](/bill/2025-26/hb/1745/) - Election audits 👍2  
@@ -71,7 +74,13 @@
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace  👎2 
 * 👎 Mary Long
 
+### [HB 1913](/bill/2025-26/hb/1913/) - Public utility tax credit  👎3 
+
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue  👎2 
+
+### [HB 1938](/bill/2025-26/hb/1938/) - State flag redesign  👎3 
+
+### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA  👎3 
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -81,6 +90,8 @@
 * 👎 Julie Barrett
 
 ### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍3  
+
+### [SB 5050](/bill/2025-26/sb/5050/) - Presidential primary privacy 👍2  
 
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
 
@@ -103,7 +114,7 @@
 ### [SB 5177](/bill/2025-26/sb/5177/) - Considering the experiences of historically marginalized and underrepresented groups when identifying professional development resources on certain topics.  👎3 
 * 👎 Jeannie Magdua
 
-### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process  👎1 
+### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process  👎4 
 
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community.  👎1 
 
@@ -111,7 +122,7 @@
 
 ### [SB 5186](/bill/2025-26/sb/5186/) - School district elections  👎1 
 
-### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education  👎2 
+### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education  👎4 
 * 👎 Joy Gjersvold
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs.  👎5 
@@ -138,7 +149,11 @@
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project  👎2 
 
+### [SB 5622](/bill/2025-26/sb/5622/) - Diet pills and supplements  👎3 
+
 ### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate  👎1 
+
+### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue  👎1 
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds  👎1 
 

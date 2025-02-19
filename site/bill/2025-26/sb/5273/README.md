@@ -14,7 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164271&caId=25830&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164271&caId=25830&tId=4)
 
-#### 0 👍 - Pro
+#### 180 👍 - Pro
+Testifying:
+* Addison Sabatini
+* Aliana Pineda
+* Emerson Weber
+* Keira Fernando
+* Ryn Wylie
+* Sofia Jalso
+* Kyle Fischer - The Health Alliance for Violence Intervention
 
 #### 0 👎 - Con
 

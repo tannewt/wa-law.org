@@ -14,8 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32837&aId=164590&caId=26005&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32837&aId=164590&caId=26005&tId=4)
 
-#### 0 👍 - Pro
+#### 84 👍 - Pro
+Testifying:
+* Kitty Klitzke - Spokane City Council Member
+* 💵Paul Dillon - Spokane City Council President Pro-Tem
 
-#### 0 👎 - Con
+#### 52 👎 - Con
 
 #### 0 ❓ - Other

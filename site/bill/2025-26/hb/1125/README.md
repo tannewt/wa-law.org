@@ -14,6 +14,7 @@
 * 01/29/2025 [MyNorthwest](/org/mynorthwest/) - [Activist judges could release violent felons with new bill](https://mynorthwest.com/kiro-opinion/activist-judges-early-release/4033290#:~:text=House%20Bill%201125)
 * 01/29/2025 [MyNorthwest](/org/mynorthwest/) - [Activist judges could release violent felons with new bill](https://mynorthwest.com/ktth/ktth-opinion/activist-judges-early-release/4033290#:~:text=House%20Bill%201125)
 * 01/23/2025 [The Center Square](/org/the_center_square/) - [Washington bill would give judges discretion to reduce sentences of convicted felons | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_76e2516e-d9d5-11ef-bde8-9b56aaa674b3.html#:~:text=House%20Bill%201125)
+* [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201125)
 
 ## Meetings
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1125 Sentence modification
@@ -23,11 +24,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164616&caId=26019&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164616&caId=26019&tId=4)
 
-#### 5 👍 - Pro
+#### 138 👍 - Pro
 
-#### 2 👎 - Con
+#### 68 👎 - Con
 Testifying:
 * Leslie Paine
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Tiffany Attrill
+* Justin Derricott
 
 #### 0 ❓ - Other
 

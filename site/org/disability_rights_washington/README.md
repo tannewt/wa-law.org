@@ -9,7 +9,7 @@
 
 ### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal 👍1  
 
-### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍4  
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍5  
 * 👍💵 Rachael Seevers
 * 👍💵 Rachael Seevers
 
@@ -34,7 +34,7 @@
 
 ### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
 
-### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
 
@@ -44,7 +44,7 @@
 
 ### [HB 1396](/bill/2025-26/hb/1396/) - Office of corrections ombuds   ❓1
 
-### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
+### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍2  
 
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license 👍1  
 * 👍💵 Anna Zivarts

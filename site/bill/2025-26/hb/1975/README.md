@@ -8,17 +8,18 @@
 
 ## Meetings
 ### Mon 02/17 01:30 PM - Environment & Energy (ENVI): HB 1975 Climate commitment act
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32839&aId=164509&caId=25982&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32839&aId=164509&caId=25982&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32839&aId=164509&caId=25982&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32839&aId=164509&caId=25982&tId=4)
-
-#### 2 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * 💵Jessica Spiegel - WSPA
 * 💵Isaac Kastama - Clean & Prosperous Washington
+* john worthington
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 1 👎 - Con
+#### 26 👎 - Con
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Caitlin Krenn - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵David Mendoza - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Joel Creswell - Washington State Department of Ecology

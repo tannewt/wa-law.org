@@ -39,7 +39,8 @@
 ### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍2  
 * 👍 Moji Igun
 
-### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍1  
+### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍2  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍3  
@@ -92,11 +93,13 @@
 ### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware  👎1 
 * 👎💵 Heather Trim
 
-## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
+### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
+
+## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎1 
 
 ## 2023-24
 
-### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍2  
+### [SB 5703](/bill/2023-24/sb/5703/) - Municipal solid waste  👎1 
 
 ### [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍2  
 * 👍💵 Heather Trim

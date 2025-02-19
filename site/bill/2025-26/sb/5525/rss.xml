@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5525/</link>
 		<description>Updates about SB 5525</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Feb 2025 02:36:48 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -36,6 +36,13 @@
 			<pubDate>Mon, 03 Feb 2025 02:36:48 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2025/02/02/this-week-in-the-senate-week-4-housing-job-security-consumer-protection-and-floor-action/#:~:text=Senate%20Bill%205525</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-14/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

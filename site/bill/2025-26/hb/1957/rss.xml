@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1957/</link>
 		<description>Updates about HB 1957</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Feb 2025 07:48:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,22 @@
 			<pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-12/First reading, referred to Health Care &amp; Wellness.</guid>
+		</item>
+		<item>
+			<title>👍💵Jennifer Ziegler - Association of Washington Health Care Plans</title>
+			<description>Jennifer Ziegler signed up to testify Pro. They are signed up to represent Association of Washington Health Care Plans. They are a registered lobbyist.</description>
+			<pubDate>Mon, 17 Feb 2025 07:48:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jennifer/Ziegler/2025-02-17 07:48:36</guid>
+		</item>
+		<item>
+			<title>❓Jane Beyer - Office of the Insurance Commissioner</title>
+			<description>Jane Beyer signed up to testify Other. They are signed up to represent Office of the Insurance Commissioner.</description>
+			<pubDate>Tue, 18 Feb 2025 07:48:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jane/Beyer/2025-02-18 07:48:54</guid>
 		</item>
 	</channel>
 </rss>

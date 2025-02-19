@@ -62,6 +62,8 @@
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 
+### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
+
 ### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍1  
 
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
@@ -97,6 +99,9 @@
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
 ### [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
+
+### [SB 5574](/bill/2025-26/sb/5574/) - History instruction   ❓1
+* ❓💵 Casey Brown
 
 ## [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation   ❓1
 * ❓💵 Roz Thompson

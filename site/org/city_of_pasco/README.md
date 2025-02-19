@@ -1,7 +1,7 @@
 # City of Pasco
 ## 2025-26
 
-### [HB 1121](/bill/2025-26/hb/1121/) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 👍1  
+### [HB 1121](/bill/2025-26/hb/1121/) - Work restrictions/age 16, 17 👍1  
 
 ### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎1 
 * 👎 Richa Sigdel

@@ -12,19 +12,16 @@
 
 ## Meetings
 ### Mon 02/17 04:00 PM - Appropriations (APP): SHB 1137 DOC discipline
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164192&caId=25907&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164192&caId=25907&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164192&caId=25907&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164192&caId=25907&tId=4)
-
-#### 314 👍 - Pro
+#### 1106 👍 - Pro
 Testifying:
 * Micaela Romero
 * 💵Rachael Seevers - [Disability Rights Washington](/org/disability_rights_washington/)
 * 💵Anthony Blankenship - [Civil Survival Project](/org/civil_survival_project/)
 
-#### 2 👎 - Con
+#### 649 👎 - Con
+Testifying:
+* Kehaulani Walker - FO
+* Michelle Mason - FO
 
 #### 0 ❓ - Other
 

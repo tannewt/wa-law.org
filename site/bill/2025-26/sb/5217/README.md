@@ -19,11 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164391&caId=25897&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164391&caId=25897&tId=4)
 
-#### 40 👍 - Pro
+#### 320 👍 - Pro
 
-#### 0 👎 - Con
+#### 41 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
 ### Mon 01/20 10:30 AM - Labor & Commerce (LC): SB 5217 Pregnancy accommodations
 #### 73 👍 - Pro

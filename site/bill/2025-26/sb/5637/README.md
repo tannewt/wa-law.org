@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=SB%205637)
+
 ## Meetings
 ### Tue 02/11 08:00 AM - Early Learning & K-12 Education (EDU): SB 5637 Media literacy & civic ed.
 #### 28 👍 - Pro

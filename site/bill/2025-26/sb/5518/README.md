@@ -17,8 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164381&caId=25889&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164381&caId=25889&tId=4)
 
-#### 12 👍 - Pro
+#### 22 👍 - Pro
+Testifying:
+* Tahmina Martelly
+* Dana Ralph - City of Kent, Mayor
+* Satwinder Kaur - City of Kent, City Councilmember
+* Charlie Brown - Fred Meyer
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Steve Ewing - Dept. of Revenue

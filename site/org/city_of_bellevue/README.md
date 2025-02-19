@@ -76,6 +76,8 @@
 
 ### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential   ❓1
 
+### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use  👎1 
+
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
@@ -93,6 +95,8 @@
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
+
+### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload   ❓1
 
 ### [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits   ❓1
 

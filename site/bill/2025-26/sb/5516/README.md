@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/04 04:00 PM - Ways & Means (WM): SB 5516 Community centers/prop. tax

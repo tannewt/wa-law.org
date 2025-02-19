@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201409)
+* [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201409)
 
 ## Meetings
 ### Tue 01/28 04:00 PM - Environment & Energy (ENVI): HB 1409 Clean fuels program

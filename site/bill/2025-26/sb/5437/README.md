@@ -8,14 +8,19 @@
 
 ## Meetings
 ### Tue 02/18 10:30 AM - Labor & Commerce (LC): SB 5437 Noncompetition agreements
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164006&caId=25849&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164006&caId=25849&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164006&caId=25849&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164006&caId=25849&tId=4)
+#### 59 👍 - Pro
+Testifying:
+* Davis Powell - SAG-AFTRA, Seattle Local
+* Steven Bock - Computer Programmer/Digital Rights Advocate
+* 💵Christoph Mair - Washington State Labor Council, AFL-CIO
+* Jesse Wing - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
+* Sung Shin
+* Taifa Harris
+* Tanya Donovan
 
-#### 2 👍 - Pro
+#### 99 👎 - Con
+Testifying:
+* 💵Mike Burgess - WA State Fairs Association
+* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 34 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other

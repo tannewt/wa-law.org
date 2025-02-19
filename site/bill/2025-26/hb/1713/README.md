@@ -8,16 +8,10 @@
 
 ## Meetings
 ### Tue 02/18 01:30 PM - State Government & Tribal Relations (SGOV): HB 1713 Automatic voter reg./tribes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164141&caId=25962&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164141&caId=25962&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164141&caId=25962&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164141&caId=25962&tId=4)
-
-#### 226 👍 - Pro
+#### 421 👍 - Pro
 Testifying:
 * Shawn Merchant - Office of the Secretary of State
 
-#### 33 👎 - Con
+#### 158 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

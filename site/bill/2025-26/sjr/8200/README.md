@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=SJR%208200)
 * 02/14/2025 [The Center Square](/org/the_center_square/) - [Legislation could make school bond approval easier in Washington state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_00347752-eb07-11ef-bdcc-c33cecbc677d.html#:~:text=Senate%20Joint%20Resolution%208200)
 
 ## Meetings

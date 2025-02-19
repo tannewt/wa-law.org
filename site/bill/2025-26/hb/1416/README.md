@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201416)
 * 01/23/2025 [The Center Square](/org/the_center_square/) - [Democrats propose raising tobacco taxes, creating new ones in search of revenue | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6f1ff232-d9d6-11ef-b05d-8bbc2efa5d73.html#:~:text=House%20Bill%201416)
 
 ## Meetings
@@ -17,10 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163934&caId=25938&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163934&caId=25938&tId=4)
 
-#### 1 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 
-#### 0 👎 - Con
+#### 37 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:
-* Radu Smintina - School's Out Washington
+* 💵Radu Smintina - School's Out Washington

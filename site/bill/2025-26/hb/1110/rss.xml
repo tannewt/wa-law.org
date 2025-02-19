@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1110/</link>
 		<description>Updates about HB 1110</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 11:51:56 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -99,6 +99,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/James/McMahan/2025-01-20 11:51:56</guid>
+		</item>
+		<item>
+			<title>CS - Executive action taken by committee.</title>
+			<description>CS - Executive action taken by committee.</description>
+			<pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-17/CS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

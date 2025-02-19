@@ -1,6 +1,8 @@
 # City of Cheney
 ## 2025-26
 
+### [HB 1095](/bill/2025-26/hb/1095/) - Law enforcement funding 👍1  
+
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential 👍1  
 * 👍 Mark Schuller
 
@@ -11,6 +13,8 @@
 ### [HB 1700](/bill/2025-26/hb/1700/) - Comprehensive plan updates 👍1  
 
 ### [HB 1774](/bill/2025-26/hb/1774/) - Lease of unused highway land 👍1  
+
+### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals   ❓1
 

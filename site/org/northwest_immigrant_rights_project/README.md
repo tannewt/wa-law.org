@@ -9,10 +9,13 @@
 ### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
 * 👍 Tim Warden-Hertz
 
-### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍2  
+### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍4  
 * 👍💵 Malou Chavez
+* 👍💵 Vanessa Gutierrez
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
+
+### [HB 1561](/bill/2025-26/hb/1561/) - Domestic workers 👍1  
 
 ### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations 👍1  
 
@@ -20,7 +23,8 @@
 
 ### [HB 1816](/bill/2025-26/hb/1816/) - Civilian crisis resp. teams 👍1  
 
-### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍3  
+* 👍💵 Malou Chavez
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 

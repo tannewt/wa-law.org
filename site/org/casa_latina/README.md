@@ -1,6 +1,8 @@
 # Casa Latina
 ## 2025-26
 
+### [HB 1561](/bill/2025-26/hb/1561/) - Domestic workers 👍1  
+
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  

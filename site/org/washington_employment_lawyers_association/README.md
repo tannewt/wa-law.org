@@ -6,6 +6,8 @@
 
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses.  👎1 
 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
+
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍2  
 
 ### [HB 1332](/bill/2025-26/hb/1332/) - Transp. network companies 👍1  
@@ -13,20 +15,30 @@
 ### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees 👍1  
 * 👍💵 Ellicott Dandy
 
+### [HB 1561](/bill/2025-26/hb/1561/) - Domestic workers 👍1  
+
 ### [HB 1619](/bill/2025-26/hb/1619/) - Dockworkers/family leave 👍1  
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
 
+### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
+
 ### [SB 5336](/bill/2025-26/sb/5336/) - Isolated employees 👍1  
 * 👍💵 Ellicott Dandy
 
-## [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures   ❓1
+### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures   ❓1
 * ❓💵 Ellicott Dandy
+
+### [SB 5437](/bill/2025-26/sb/5437/) - Noncompetition agreements 👍2  
+* 👍 Jesse Wing
+
+## [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave 👍2  
+* 👍 Katherine Chamberlain
 
 ## 2023-24
 
-### [SB 5408](/bill/2023-24/sb/5408/) - Wage and salary disclosures   ❓1
-* ❓💵 Ellicott Dandy
+### [SB 5539](/bill/2023-24/sb/5539/) - Paid family & medical leave 👍2  
+* 👍 Katherine Chamberlain
 
 ### [HB 1136](/bill/2023-24/hb/1136/) - Employee expenditures 👍1  
 * 👍 Hardeep S. Rekhi

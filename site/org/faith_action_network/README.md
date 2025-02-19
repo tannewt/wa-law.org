@@ -52,7 +52,7 @@
 * 👍 Katherine Long
 * 👍 Jess Ingman
 
-### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
+### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍2  
 
 ### [SB 5436](/bill/2025-26/sb/5436/) - Worship/access interference 👍2  
 * 👍💵 Kristin Ang

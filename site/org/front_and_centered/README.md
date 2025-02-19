@@ -1,7 +1,7 @@
 # Front and Centered
 ## 2025-26
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Guillermo Rogel
@@ -30,15 +30,21 @@
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍2  
 * 👍💵 Guillermo Rogel
 
+### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
+
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+
+## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+* 👍💵 Guillermo Rogel
 
 ## 2023-24
 
-### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management 👍1  
+### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
+* 👍💵 Guillermo Rogel
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

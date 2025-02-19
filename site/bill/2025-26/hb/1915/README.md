@@ -8,15 +8,11 @@
 
 ## Meetings
 ### Mon 02/17 01:30 PM - Housing (HOUS): HB 1915 Tenant protections
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32835&aId=164517&caId=25984&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32835&aId=164517&caId=25984&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32835&aId=164517&caId=25984&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32835&aId=164517&caId=25984&tId=4)
+#### 83 👍 - Pro
+Testifying:
+* Christopher Brunetti - [Northwest Justice Project](/org/northwest_justice_project/)
 
-#### 14 👍 - Pro
-
-#### 181 👎 - Con
+#### 513 👎 - Con
 Testifying:
 * GORDON HAGGERTY
 * Mack Mayo
@@ -25,5 +21,17 @@ Testifying:
 * William Pierce
 * Jesse Long
 * JULIE BROWN - http://www.personalpropertymgmt.com
+* Stan Markuson
+* Echo Lin
+* Gary Dukelow
+* Scott Lembke - RAIN PROPERTIES LLKC
+* Jianqiao Huang
+* Rick Baxter
+* Tad Sommerville
+* Catherine Yutuc
+* Christa Connolly
+* Terry Goodwin
 
-#### 6 ❓ - Other
+#### 12 ❓ - Other
+Testifying:
+* 💵Jean Hill - Washington State Catholic Conference

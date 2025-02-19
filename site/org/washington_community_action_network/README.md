@@ -3,7 +3,7 @@
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
-### [HB 1131](/bill/2025-26/hb/1131/) - Clemency and pardons 👍1  
+### [HB 1131](/bill/2025-26/hb/1131/) - Clemency and pardons 👍3  
 * 👍 Waldo Waldron-Ramsey
 
 ### [HB 1178](/bill/2025-26/hb/1178/) - Sentencing enhancements 👍2  
@@ -14,15 +14,15 @@
 
 ### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  
 
-## [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍5  
+### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍5  
 * 👍 Brynn Freal
 * 👍 John Godfrey
+
+## [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍1  
 
 ## 2023-24
 
-### [HB 1881](/bill/2023-24/hb/1881/) - Health care marketplace 👍5  
-* 👍 Brynn Freal
-* 👍 John Godfrey
+### [SB 5083](/bill/2023-24/sb/5083/) - Health carrier reimbursement 👍1  
 
 ### [HB 1134](/bill/2023-24/hb/1134/) - 988 system 👍1  
 * 👍 Joelle Craft

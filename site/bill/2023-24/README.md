@@ -15,7 +15,7 @@
 * [SB 5599](sb/5599) - Protected health care/youth 38📰 569👍 9854👎 28❓ - C 408 L 23
 * [SB 5078](sb/5078) - Firearm industry duties 24📰 3527👍 6551👎 3❓ - C 163 L 23
 * [HB 1038](hb/1038) - Anesthesiologist assistants 1📰 2398👍 6105👎 38❓ - HHC/Wellness
-* [SB 5770](sb/5770) - Property tax 37📰 516👍 7579👎 203❓ - SRules X
+* [SB 5770](sb/5770) - Property tax 38📰 516👍 7579👎 203❓ - SRules X
 * [HB 1110](hb/1110) - Middle housing 94📰 5098👍 1228👎 53❓ - C 332 L 23
 * [SB 5232](sb/5232) - Firearms/purchase & transfer 7📰 1782👍 4345👎 2❓ - SWays & Means
 * [HB 1333](hb/1333) - Domestic violent extremism 5📰 253👍 5451👎 12❓ - HRules X
@@ -364,7 +364,7 @@
 * [SB 5514](sb/5514) - Right turns 7📰 485👍 25👎 4❓ - STransportation
 * [SB 5260](sb/5260) - Reprod. health/employers 6📰 50👍 461👎 0❓ - SLabor & Comm
 * [HB 1308](hb/1308) - Graduation pathway options 12📰 489👍 4👎 16❓ - C 349 L 23
-* [HB 1470](hb/1470) - Private detention facilities 12📰 478👍 25👎 5❓ - C 419 L 23
+* [HB 1470](hb/1470) - Private detention facilities 13📰 478👍 25👎 5❓ - C 419 L 23
 * [HB 1533](hb/1533) - PRA/employee information 6📰 460👍 46👎 2❓ - C 458 L 23
 * [SB 5447](sb/5447) - Alternative jet fuel 6📰 204👍 297👎 5❓ - C 232 L 23
 * [SB 6115](sb/6115) - Speed safety cameras 43👍 460👎 3❓ - C 308 L 24
@@ -1237,7 +1237,7 @@
 * [HB 1994](hb/1994) - Misdemeanor dismissal 6📰 32👍 5👎 3❓ - HRules X
 * [SB 5074](sb/5074) - Biomarker testing coverage 37👍 3👎 0❓ - SHealth & Long
 * [SB 5382](sb/5382) - Fish and wildlife officers 6👍 34👎 0❓ - SRules X
-* [SB 5606](sb/5606) - Illegal racing 7📰 35👍 5👎 0❓ - C 283 L 23
+* [SB 5606](sb/5606) - Illegal racing 8📰 35👍 5👎 0❓ - C 283 L 23
 * [SB 5617](sb/5617) - Career & tech. ed. courses 40👍 0👎 0❓ - C 407 L 23
 * [SB 5813](sb/5813) - Mandating instruction on agricultural literacy for students in grades seven through 12. 30👍 5👎 5❓ - SEL/K-12
 * [SB 6063](sb/6063) - Persistent offenders 1📰 28👍 12👎 0❓ - SRules X

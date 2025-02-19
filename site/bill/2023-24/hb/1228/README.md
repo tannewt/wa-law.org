@@ -33,7 +33,7 @@
 Testifying:
 * Anna Hernandez-French - Office of Superintendent of Public Instruction
 * Brian Freeman - Inchelium School District #70
-* Radu Smintina - OneAmerica
+* 💵Radu Smintina - OneAmerica
 
 #### 7 👎 - Con
 
@@ -47,7 +47,7 @@ Testifying:
 * Danica Noble - Washington State PTA
 * May Ling Joa
 * Athena Jimenez-Manalo
-* Radu Smintina - OneAmerica
+* 💵Radu Smintina - OneAmerica
 * Brian Freeman - Inchelium School District #70
 * Karen Condon - Confederated Tribes of the Colville Reservation
 
@@ -73,7 +73,7 @@ Testifying:
 * Athena Jimenez-Manalo
 * Chitra Bhardwaj
 * Erica Marbet
-* Radu Smintina - OneAmerica
+* 💵Radu Smintina - OneAmerica
 * Anna Hernandez-French - Office of Superintendent of Public Instruction
 * Christine Marbet
 * 💵Zackary Turner - PESB

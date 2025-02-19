@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=HB%201805)
+
 ## Meetings
 ### Fri 02/21 01:30 PM - Finance (FIN): HB 1805 Children services/local tax
 Sign up to testify:
@@ -14,11 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163954&caId=25945&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163954&caId=25945&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Jefferson County Comm'r Heidi Eisenhour - [Jefferson County](/org/jefferson_county/)
 * 💵Alex Hur - Communities in Schools Washington
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
 
 #### 0 ❓ - Other

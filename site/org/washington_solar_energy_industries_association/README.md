@@ -11,7 +11,7 @@
 
 ### [HB 1871](/bill/2025-26/hb/1871/) - Residential energy storage 👍1  
 
-### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules 👍1  
+### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules 👍2  
 * 👍 Bill Will
 
 ### [SB 5429](/bill/2025-26/sb/5429/) - State building code council  👎1 

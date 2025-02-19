@@ -12,6 +12,7 @@
 * 02/10/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2025 Quaker Voice Priority Bill Tracker — Quaker Voice](https://www.quakervoicewa.org/2025-quaker-voice-priority-bills/#:~:text=HB%201380)
 * 01/24/2025 [The Center Square](/org/the_center_square/) - [WA homelessness bill 'flies in the face' of SCOTUS overturning Martin v. Boise | National | thecentersquare.com](https://www.thecentersquare.com/national/article_23fb6c02-da8d-11ef-adb6-cb72701fc8ec.html#:~:text=House%20Bill%201380)
 * 01/22/2025 [MyNorthwest](/org/mynorthwest/) - [Washington Democrats push bill legalizing homeless encampments](https://mynorthwest.com/ktth/ktth-opinion/rantz-washington-democrats-bill-legalizes-homeless-encampments-stops-cities-from-restrictions/4031418#:~:text=House%20Bill%201360)
+* [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201380)
 
 ## Meetings
 ### Wed 02/12 04:00 PM - Appropriations (APP): HB 1380 Public property regulations

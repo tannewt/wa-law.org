@@ -7,6 +7,8 @@
 ### [HB 1136](/bill/2025-26/hb/1136/) - Student navigational support 👍1  
 * 👍 Steve DuPont
 
+### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍1  
+
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Steve DuPont
 
@@ -19,7 +21,11 @@
 
 ### [HB 1762](/bill/2025-26/hb/1762/) - Higher ed./residence req.  👎1 
 
+### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
+
 ### [SB 5119](/bill/2025-26/sb/5119/) - Academic employee bargaining 👍1  
+
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
 
@@ -31,11 +37,13 @@
 
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍4  
 
-## [SB 5666](/bill/2025-26/sb/5666/) - Mental health internships 👍1  
+### [SB 5666](/bill/2025-26/sb/5666/) - Mental health internships 👍1  
+
+## [SB 5712](/bill/2025-26/sb/5712/) - Industrial stormwater permit  👎1 
 
 ## 2023-24
 
-### [SB 5666](/bill/2023-24/sb/5666/) - Mental health internships 👍1  
+### [SB 5712](/bill/2023-24/sb/5712/) - Industrial stormwater permit  👎1 
 
 ### [HB 1003](/bill/2023-24/hb/1003/) - Dual credit program access   ❓1
 * ❓ Steve DuPont

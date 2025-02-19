@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1826/</link>
 		<description>Updates about HB 1826</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Feb 2025 07:42:50 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Feb 2025 07:50:55 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Marsha/Cutting/2025-02-14 07:42:50</guid>
+		</item>
+		<item>
+			<title>❓Wayne Grau - NCART</title>
+			<description>Wayne Grau signed up to testify Other. They are signed up to represent NCART.</description>
+			<pubDate>Tue, 18 Feb 2025 05:26:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Wayne/Grau/2025-02-18 05:26:29</guid>
+		</item>
+		<item>
+			<title>👍Burke Stansbury - Washington Farm Bureau</title>
+			<description>Burke Stansbury signed up to testify Pro.</description>
+			<pubDate>Tue, 18 Feb 2025 07:50:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Burke/Stansbury/2025-02-18 07:50:55</guid>
 		</item>
 	</channel>
 </rss>

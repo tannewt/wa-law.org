@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164384&caId=25892&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164384&caId=25892&tId=4)
 
-#### 3 👍 - Pro
+#### 24 👍 - Pro
+Testifying:
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 
-#### 29 👎 - Con
+#### 130 👎 - Con
 
 #### 0 ❓ - Other
 

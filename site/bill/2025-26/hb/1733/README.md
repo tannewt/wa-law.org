@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/11 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1733 Agency displacement expenses

@@ -14,13 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32828&aId=164261&caId=25819&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32828&aId=164261&caId=25819&tId=4)
 
-#### 5 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Aden George
 * Vaishvi Vontela
 * Namratha Mellimi
 * Corlie Zhuang - Harvard STRIPED
+* Prithvi Dasan
+* Youlan wang
+* Komal Singh
 
-#### 0 👎 - Con
+#### 1049 👎 - Con
+Testifying:
+* Sue Lani Madsen
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Carlos Gutierrez - [Consumer Healthcare Products Association](/org/consumer_healthcare_products_association/)
+* Tyler Cannon - Natural Products Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

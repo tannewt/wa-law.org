@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/07/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington could require bars to carry spiked drink drug tests • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-could-require-bars-to-carry-spiked-drink-drug-tests/#:~:text=Senate%20Bill%205330)

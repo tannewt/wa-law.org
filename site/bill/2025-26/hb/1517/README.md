@@ -6,18 +6,32 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=HB%201517)
+
 ## Meetings
 ### Tue 02/18 08:00 AM - Finance (FIN): HB 1517 Digital equity/revenue
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163927&caId=25932&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163927&caId=25932&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163927&caId=25932&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163927&caId=25932&tId=4)
-
-#### 3 👍 - Pro
+#### 75 👍 - Pro
 Testifying:
 * William Booth - Creating Pathways
+* Cat Howell - Literacy Source
+* David Keyes - Former member State Digital Equity Forum and founder of City of Seattle Digital Equity Program
+* Will Booth - Creating Pathways
+* Erica Limon-Trefielo - Communities In Schools Washington
+* Lynda Wong
+* Sai Samineni
+* Sonee Wilson
+* Vicky Tamaru - BuildJustly
 
-#### 1 👎 - Con
+#### 745 👎 - Con
+Testifying:
+* Jeff Gombosky - CTIA - The Wireless Association
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Vicki Christophersen - TechNet
+* Andrew O’Connor - The Entertainment Software Association
+* Jeffrey Pack - Washington Citizens Against Unfair Taxes
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Kate Armstrong - Department of Revenue

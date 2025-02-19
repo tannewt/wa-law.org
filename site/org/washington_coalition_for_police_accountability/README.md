@@ -4,9 +4,15 @@
 ### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct 👍2  
 * 👍 Shelly Washington
 
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍1  
+
+### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍2  
+
 ### [HB 1252](/bill/2025-26/hb/1252/) - Pretrial release  👎1 
 
-### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍2  
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
+
+### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍3  
 * 👍 Leslie Cushman
 
 ### [HB 1400](/bill/2025-26/hb/1400/) - Officer certification 👍1  
@@ -15,6 +21,8 @@
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍2  
 * 👍 Shelly Washington
+
+### [SB 5342](/bill/2025-26/sb/5342/) - Legislators/state facilities 👍2  
 
 ## [SB 5584](/bill/2025-26/sb/5584/) - Independent prosecutor 👍3  
 * 👍 Debbie Novak

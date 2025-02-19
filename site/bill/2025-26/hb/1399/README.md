@@ -18,13 +18,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164631&caId=26009&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164631&caId=26009&tId=4)
 
-#### 3 👍 - Pro
+#### 415 👍 - Pro
+Testifying:
+* Heather Kelly - League of Women Voters
+* 💵Vanessa Gutierrez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 
-#### 1 👎 - Con
+#### 558 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Sharon Byrne - Women's Liberation Front
+* Dawn Land
+* Jennifer Heine-Withee - FPIW Action
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/27 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1399 Sheriffs, chiefs, etc.
 #### 502 👍 - Pro

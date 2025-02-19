@@ -6,16 +6,28 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201677)
+
 ## Meetings
 ### Tue 02/18 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1677 Postsecondary/med. abortion
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32870&aId=164249&caId=25961&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32870&aId=164249&caId=25961&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32870&aId=164249&caId=25961&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32870&aId=164249&caId=25961&tId=4)
+#### 850 👍 - Pro
+Testifying:
+* Rosie Ying
+* Emily Cuarenta - Advocates for Youth
+* Howl Hall - Advocates for Youth
+* Sullivan Taylor - Advocates for Youth
+* Ally Yang
+* Noga Gideoni-Abada
+* Hailey Gray - Advocates for Youth
+* Tamara Marzouk - Advocates for Youth
+* Charlie Brenner - Advocates for Youth
 
-#### 215 👍 - Pro
-
-#### 328 👎 - Con
+#### 2654 👎 - Con
+Testifying:
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
+* 💵Jean Hill - Washington State Catholic Conference
+* Theresa Schrempp
+* Anthony Holan
 
 #### 0 ❓ - Other

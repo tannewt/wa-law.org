@@ -14,8 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163955&caId=25946&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163955&caId=25946&tId=4)
 
-#### 0 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Cynthia Stewart - League of Women Voters of WA
 
-#### 42 👎 - Con
+#### 110 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)

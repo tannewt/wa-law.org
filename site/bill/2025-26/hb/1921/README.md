@@ -13,6 +13,7 @@
 * 02/11/2025 [FOX13](/org/fox13/) - [Lawmakers propose pay-by-mile charge for WA drivers | FOX 13 Seattle](https://www.fox13seattle.com/news/pay-by-mile-charge-washington#:~:text=House%20Bill%201921)
 * 02/11/2025 [The Center Square](/org/the_center_square/) - [WA lawmaker proposes honor system road usage charge program | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1e4a3bb0-e8c7-11ef-917f-7b4299c57898.html#:~:text=House%20Bill%201921)
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201921)
+* [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201921)
 
 ## Meetings
 ### Thu 02/13 04:00 PM - Transportation (TR): HB 1921 Transportation revenue

@@ -8,16 +8,10 @@
 
 ## Meetings
 ### Tue 02/18 01:30 PM - Environment, Energy & Technology (ENET): SB 5712 Industrial stormwater permit
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32816&aId=164214&caId=25823&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32816&aId=164214&caId=25823&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32816&aId=164214&caId=25823&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32816&aId=164214&caId=25823&tId=4)
+#### 19 👍 - Pro
 
-#### 1 👍 - Pro
-
-#### 489 👎 - Con
+#### 1381 👎 - Con
 Testifying:
 * Mia Ayala-Marshall - Duwamish River Community Coalition
 
-#### 1 ❓ - Other
+#### 7 ❓ - Other

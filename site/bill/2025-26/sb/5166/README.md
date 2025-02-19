@@ -30,7 +30,7 @@ Testifying:
 #### 13 ❓ - Other
 Testifying:
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
-* Radu Smintina - School's Out Washington
+* 💵Radu Smintina - School's Out Washington
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Nathan Koch - Washington Family Support Network
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)

@@ -6,4 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/18/2025 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [Tough Budget Choices Ahead: Lawmakers Weigh Deep Cuts & Delays - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02182025#:~:text=S.B.%205752)
+
 ## Meetings

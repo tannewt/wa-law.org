@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5017/</link>
 		<description>Updates about SB 5017</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Feb 2025 22:33:27 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -170,6 +170,13 @@
 			<pubDate>Wed, 12 Feb 2025 22:33:27 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/02/12/senate-passes-nobles-bill-to-increase-voting-access-for-uniform-overseas-citizens/#:~:text=Senate%20Bill%205017</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government &amp; Tribal Relations.</title>
+			<description>First reading, referred to State Government &amp; Tribal Relations.</description>
+			<pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-17/First reading, referred to State Government &amp; Tribal Relations.</guid>
 		</item>
 	</channel>
 </rss>

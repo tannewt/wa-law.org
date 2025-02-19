@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32821&aId=164220&caId=25826&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32821&aId=164220&caId=25826&tId=4)
 
-#### 83 👍 - Pro
+#### 241 👍 - Pro
+Testifying:
+* 💵Jean Hill - Washington State Catholic Conference
 
-#### 35 👎 - Con
+#### 99 👎 - Con
+Testifying:
+* john worthington
 
 #### 0 ❓ - Other

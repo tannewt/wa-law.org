@@ -8,20 +8,21 @@
 
 ## Meetings
 ### Mon 02/17 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5354 Gray wolf management
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164225&caId=25815&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164225&caId=25815&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164225&caId=25815&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164225&caId=25815&tId=4)
-
-#### 27 👍 - Pro
+#### 895 👍 - Pro
 Testifying:
 * Brad Manke - Stevens County Sheriff's Office
+* 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
+* Kathleen McKay - K-Diamond-K Guest Ranch
+* Clarence Rushing
 
-#### 173 👎 - Con
+#### 377 👎 - Con
 Testifying:
 * David Linn
 * MLou Christ
+* Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
+* J Rosapepe - Endangered Species Coalition
+* John Roskelley
+* Dan Paul - Humane World for Animals
 
 #### 3 ❓ - Other
 Testifying:

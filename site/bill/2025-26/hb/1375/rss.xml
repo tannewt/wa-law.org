@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1375/</link>
 		<description>Updates about HB 1375</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Feb 2025 04:11:21 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Feb 2025 08:12:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,6 +30,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Roger/Sundahl/2025-02-14 04:11:21</guid>
+		</item>
+		<item>
+			<title>👍Christopher Hesse - None</title>
+			<description>Christopher Hesse signed up to testify Pro. They are signed up to represent None.</description>
+			<pubDate>Mon, 17 Feb 2025 07:06:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Christopher/Hesse/2025-02-17 07:06:47</guid>
+		</item>
+		<item>
+			<title>👍Erin Thoeny - None</title>
+			<description>Erin Thoeny signed up to testify Pro.</description>
+			<pubDate>Mon, 17 Feb 2025 08:12:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Erin/Thoeny/2025-02-17 08:12:38</guid>
 		</item>
 	</channel>
 </rss>

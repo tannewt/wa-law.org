@@ -23,14 +23,23 @@
 
 ### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
 
+### [SB 5354](/bill/2025-26/sb/5354/) - Gray wolf management 👍1  
+* 👍💵 Mark Streuli
+
 ### [SB 5384](/bill/2025-26/sb/5384/) - Riparian programs review 👍1  
 
-## [SB 5485](/bill/2025-26/sb/5485/) - Livestock identification 👍1  
+### [SB 5482](/bill/2025-26/sb/5482/) - Use of dogs to hunt  👎2 
+* 👎💵 Mark Streuli
+
+### [SB 5485](/bill/2025-26/sb/5485/) - Livestock identification 👍1  
+* 👍💵 Mark Streuli
+
+## [SB 5590](/bill/2025-26/sb/5590/) - Livestock wolf predation 👍2  
 * 👍💵 Mark Streuli
 
 ## 2023-24
 
-### [SB 5485](/bill/2023-24/sb/5485/) - Livestock identification 👍1  
+### [SB 5590](/bill/2023-24/sb/5590/) - Livestock wolf predation 👍2  
 * 👍💵 Mark Streuli
 
 ### [HB 1019](/bill/2023-24/hb/1019/) - Pesticide advisory board 👍1  

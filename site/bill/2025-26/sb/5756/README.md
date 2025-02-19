@@ -6,16 +6,27 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/16/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 6: Children's Day, affordable housing and a key date arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/16/this-week-in-the-senate-week-6-childrens-day-affordable-housing-and-a-key-date-arrives/#:~:text=Senate%20Bill%205756)
+
 ## Meetings
 ### Tue 02/18 10:30 AM - Labor & Commerce (LC): SB 5756 Working minors
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164555&caId=25987&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164555&caId=25987&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164555&caId=25987&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164555&caId=25987&tId=4)
+#### 144 👍 - Pro
+Testifying:
+* April Sims - Washington State Labor Council, AFL-CIO
+* 💵Minna Long - Washington State Building & Construction Trades Council
+* 💵Ray Dumas - OPCMIA Local 528
+* Diana Winther - IBEW Local 48
+* Justin Bourgault - SMART Local 66
+* Mike Bridges - Longview/Kelso Building and Construction Trades Council
 
-#### 1 👍 - Pro
+#### 651 👎 - Con
+Testifying:
+* 💵Michele Willms - Associated General Contractors (AGC)
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* 💵Brandon Houskeeper - Southwest WA Contractors Assoc. / Associated Builders & Contractors
+* Anthony Holan
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Charlie Brown - Skills Centers Directors

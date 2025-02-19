@@ -9,6 +9,7 @@
 ## 📰 Articles
 * 02/13/2025 [FOX13](/org/fox13/) - [Bills protecting WA youth refs makes way to Legislature | FOX 13 Seattle](https://www.fox13seattle.com/news/bills-youth-referees-wa-legislature-seattle-hockey#:~:text=SB%205272)
 * 02/03/2025 [KING5](/org/king5/) - [Lawmakers consider tougher penalties to protect youth sport referees | king5.com](https://www.king5.com/article/news/politics/state-politics/law-penalties-youth-sports-referees-harassment/281-11c1d613-5173-4526-9eb7-1805f4c76f6c#:~:text=Senate%20Bill%205272)
+* 04/01/2021 [Senate Democrats](/org/senate_democrats/) - [2025 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2025priorities/#:~:text=Senate%20Bill%205272)
 
 ## Meetings
 ### Thu 01/30 10:30 AM - Early Learning & K-12 Education (EDU): SB 5272 School safety/penalties

@@ -6,16 +6,29 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201875)
+
 ## Meetings
 ### Tue 02/18 10:30 AM - Labor & Workplace Standards (LAWS): HB 1875 Sick leave/immigration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32856&aId=164175&caId=25955&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32856&aId=164175&caId=25955&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32856&aId=164175&caId=25955&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32856&aId=164175&caId=25955&tId=4)
+#### 107 👍 - Pro
+Testifying:
+* Danielle Alvarado - [Fair Work Center](/org/fair_work_center/)
+* 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
+* Guillermo Zazueta - OneAmerica
 
-#### 19 👍 - Pro
+#### 823 👎 - Con
+Testifying:
+* Lance Eggers
+* Georgia Brinkley - Citizen
+* Timothy Brinkley - Voter
+* Brenda Aasheim
+* Lance Eggers
+* Russ Roosma
+* Ellen Korthuis
+* Beverly Jackson Geer
+* Anthony Holan
 
-#### 3 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Rose Gundersen - WA Retail Association

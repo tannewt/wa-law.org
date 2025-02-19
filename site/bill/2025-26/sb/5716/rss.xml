@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5716/</link>
 		<description>Updates about SB 5716</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 18:03:13 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 15 Feb 2025 06:01:56 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,11 +16,26 @@
 			<guid isPermaLink="false">2025-02-10/First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
+			<title>First reading, referred to Transportation.</title>
+			<description>First reading, referred to Transportation.</description>
+			<pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-10/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
 			<title>Progress and priorities this session - Sen. Deborah Krishnadasan</title>
 			<description>News article "Progress and priorities this session - Sen. Deborah Krishnadasan" from Senate Democrats.</description>
 			<pubDate>Tue, 11 Feb 2025 18:03:13 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/Krishnadasan/2025/02/11/progress-and-priorities-this-session/#:~:text=5716</guid>
+		</item>
+		<item>
+			<title>👍Rebeca Daniels - Faith Action Network (FAN)</title>
+			<description>Rebeca Daniels signed up to testify Pro.</description>
+			<pubDate>Sat, 15 Feb 2025 06:01:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rebeca/Daniels/2025-02-15 06:01:56</guid>
 		</item>
 	</channel>
 </rss>

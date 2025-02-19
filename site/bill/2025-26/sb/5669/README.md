@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Mon 02/17 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5669 Irrigation dist. elections
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164228&caId=25818&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164228&caId=25818&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164228&caId=25818&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164228&caId=25818&tId=4)
-
-#### 8 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * MICHELE KIESZ - Kagele/Kiesz Family Farms
 * 💵John Stuhlmiller - Washington State Water Resources Association
 
-#### 1 👎 - Con
+#### 613 👎 - Con
+Testifying:
+* Theresa Plue
 
 #### 0 ❓ - Other

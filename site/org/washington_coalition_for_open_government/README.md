@@ -11,6 +11,9 @@
 ### [HB 1765](/bill/2025-26/hb/1765/) - Subscriber emails/PRA  👎3 
 * 👎 ROBERT McCLURE
 
+### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA  👎1 
+* 👎 Colette Weeks
+
 ### [SB 5049](/bill/2025-26/sb/5049/) - Sunshine committee 👍2  
 * 👍💵 Donna Christensen
 

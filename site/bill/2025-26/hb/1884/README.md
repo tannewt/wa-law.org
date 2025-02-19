@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32801&aId=164316&caId=25922&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32801&aId=164316&caId=25922&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Caitlein Ryan - THE CANNABIS ALLIANCE
+* Micah Sherman

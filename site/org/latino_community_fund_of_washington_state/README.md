@@ -22,6 +22,8 @@
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 * 👍💵 Jake García
 
+### [HB 1561](/bill/2025-26/hb/1561/) - Domestic workers 👍1  
+
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍2  
 
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  

@@ -6,15 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/18/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to require AANHPI history in schools heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/18/nobles-bill-to-require-aanhpi-history-in-schools-heard-in-committee/#:~:text=Senate%20Bill%205574)
+* 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=SB%205574)
+
 ## Meetings
 ### Tue 02/18 08:00 AM - Early Learning & K-12 Education (EDU): SB 5574 History instruction
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32867&aId=164514&caId=25974&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32867&aId=164514&caId=25974&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32867&aId=164514&caId=25974&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32867&aId=164514&caId=25974&tId=4)
-
-#### 115 👍 - Pro
+#### 999 👍 - Pro
 Testifying:
 * Angelie Chong - Make Us Visible Washington
 * Adrianna Suluai - UTOPIA Washington
@@ -23,7 +21,43 @@ Testifying:
 * Zedeeka Fulay
 * FAALUAINA PRITCHARD - ASIA PACIFIC CULTURAL CENTER
 * Devin Cabanilla - Filipino American National Historical Society
+* Judy Kusakabe - Make Us Visible
+* Maricres Castro - Filipino American Scholarship Fund
+* Devon Chong
+* Mary Hilton
+* Jinmo Nam
+* Sarah Karim
+* Sirichanh Sisavatdy - Lao Senior Outreach
+* Vita-Grace Cabanilla - The Filipino American National Historical Society (FANHS)
+* Josie Cho
+* Michael Cho
+* Noelle Cho
+* Julie Mayer
+* Jason Moon
+* The Anh Nguyen - Nguyens Foundation
+* Sompasong Keohavong
+* Jesse Robbins
+* Vivian Song
+* Lily Nop
+* Kimberly Chinomso
+* Jinmo Nam
+* Jaden Hong
+* 💵Alex Hur - Communities in Schools Washington
+* Rachtha Danh - International District
+* Mary Ann Vargas - [Northwest Kidney Centers](/org/northwest_kidney_centers/)
+* Christina Billingsley
+* douglas chin - OCA Asian Pacific American Advocates - Greater Seattle
+* Joseph Hwang
+* Brian Vangalder
+* Kristina Chu
+* Veteran The Anh Nguyen - Nguyen’s Foundation LLC
+* Grace Go
+* Rey Pascua - CAPAA
 
-#### 11 👎 - Con
+#### 862 👎 - Con
 
-#### 1 ❓ - Other
+#### 14 ❓ - Other
+Testifying:
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* 💵Casey Brown - Strategies 360
+* 💵Casey Brown - [Association of Washington School Principals](/org/association_of_washington_school_principals/)

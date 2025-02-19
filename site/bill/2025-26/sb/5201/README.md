@@ -13,27 +13,46 @@
 
 ## Meetings
 ### Tue 02/18 10:30 AM - Labor & Commerce (LC): SB 5201 Psychedelic substances
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164495&caId=25852&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164495&caId=25852&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164495&caId=25852&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164495&caId=25852&tId=4)
-
-#### 8 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 * Leonora Russelll - ADAPT-WA
+* Matt Thierfelder
+* Erik Bayona
+* Jenna McKenzie - Solange LLC
+* Leonora Russelll - ADAPT-WA
+* Adam Morse
+* 💵Paula Sardinas - FMSGS/WBBA
+* Matt Thierfelder - Former Firefighter
+* 💵Paula Sardinas - Build Back Black Alliance
+* Aaron Loehr - [Coalition for Better Community Health](/org/coalition_for_better_community_health/)
+* Carl Franz - Korean and Vietnam Veteran
+* Darron Smith - Veteran and UW Medicine MAPS Expert
 
-#### 6 👎 - Con
+#### 684 👎 - Con
 Testifying:
 * MD, JD, Mason Marks
 * Erin Reading - Port Townsend Psychedelic Society and REACH WA
 * Dr. Heath HOLLENSBE
+* Matt Metzger
+* Sarah Rasor
+* 💵Amy Brackenbury - Washington State Medical Association and Washington State Public Health
+* Katie Kolan - Washington State Psychiatric Association (WSPA)
+* Rob Tallon
+* Wendy Lynn
+* Rachel Cervenak - Responsible Entheogen Access & Community Healing (REACH) Coalition
+* Patrick Seifert
+* Anthony Holan
+* Steven Pearce - Citizens Commission on Human Rights
 
-#### 2 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Neil Gehani - Mind Lumen
 * Caitlein Ryan - THE CANNABIS ALLIANCE
+* LAUREN FERINGA
+* Tim Sedivy
+* Micah Sherman
+* Jon Dennis - Sagebrush Law LLC
 
 ### Thu 02/06 08:00 AM - Health & Long Term Care (HLTC): SB 5201 Psychedelic substances
 #### 66 👍 - Pro

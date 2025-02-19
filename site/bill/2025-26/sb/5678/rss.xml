@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5678/</link>
 		<description>Updates about SB 5678</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Feb 2025 09:04:06 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Feb 2025 12:48:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-06/First reading, referred to Housing (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Housing.</title>
+			<description>First reading, referred to Housing.</description>
+			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-06/First reading, referred to Housing.</guid>
 		</item>
 		<item>
 			<title>👍Carter Nelson - Washington Multifamily Housing Association</title>
@@ -134,6 +141,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Matthew/Lang/2025-02-14 09:04:06</guid>
+		</item>
+		<item>
+			<title>Senate Republicans introduce 18 bills to address housing crisis - Senate Republican Caucus</title>
+			<description>News article "Senate Republicans introduce 18 bills to address housing crisis - Senate Republican Caucus" from Senate Republicans.</description>
+			<pubDate>Mon, 17 Feb 2025 12:48:32 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://src.wastateleg.org/blog/senate-republicans-introduce-18-bills-address-housing-crisis/#:~:text=SB%205678</guid>
 		</item>
 	</channel>
 </rss>

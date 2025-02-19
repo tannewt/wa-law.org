@@ -23,6 +23,8 @@
 
 ### [HB 1654](/bill/2025-26/hb/1654/) - International fire code  👎1 
 
+### [HB 1968](/bill/2025-26/hb/1968/) - Controlled sub. endangerment 👍1  
+
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  

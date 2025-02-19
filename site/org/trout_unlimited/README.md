@@ -4,6 +4,10 @@
 ### [HB 1325](/bill/2025-26/hb/1325/) - Fish & wildlife enforcement 👍2  
 * 👍💵 Alexei Calambokidis
 
+### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
+
+### [HB 1976](/bill/2025-26/hb/1976/) - Release of pets & plants 👍1  
+
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
 * 👍💵 Alexei Calambokidis
 

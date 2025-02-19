@@ -20,6 +20,9 @@
 ### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations 👍1  
 * 👍 Mary Welch
 
+### [HB 1915](/bill/2025-26/hb/1915/) - Tenant protections 👍1  
+* 👍 Christopher Brunetti
+
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 * 👍 Julia Kellison
 

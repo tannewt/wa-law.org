@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32860&aId=164197&caId=25914&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32860&aId=164197&caId=25914&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* Sheri Sawyer - Office of Financial Management
 
-#### 0 👎 - Con
+#### 14 👎 - Con
 
 #### 0 ❓ - Other

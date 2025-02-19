@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/18/2025 [Washington State Standard](/org/washington_state_standard/) - [Push for inspections at Tacoma immigration detention center reemerges in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/02/17/push-for-inspections-at-tacoma-immigration-detention-center-reemerges-in-wa-legislature/#:~:text=House%20Bill%201232)
 * 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201232)
 
 ## Meetings
@@ -18,9 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164628&caId=26006&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164628&caId=26006&tId=4)
 
-#### 6 👍 - Pro
+#### 266 👍 - Pro
+Testifying:
+* 💵Kristin Ang - Faith Action Network (FAN)
+* 💵Jean Hill - Washington State Catholic Conference
+* Kristina Walker - Councilmember, City of Tacoma
 
-#### 0 👎 - Con
+#### 480 👎 - Con
 
 #### 0 ❓ - Other
 

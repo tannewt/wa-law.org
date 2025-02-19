@@ -6,20 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/17/2025 [FOX13](/org/fox13/) - [Lawmakers eye bill to deter police pursuits | FOX 13 Seattle](https://www.fox13seattle.com/news/lawmakers-bill-deter-police-pursuit#:~:text=Senate%20Bill%205333)
+
 ## Meetings
 ### Mon 02/17 10:30 AM - Law & Justice (LAW): SB 5333 Eluding & resisting arrest
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32798&aId=163788&caId=25855&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32798&aId=163788&caId=25855&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32798&aId=163788&caId=25855&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32798&aId=163788&caId=25855&tId=4)
-
-#### 5 👍 - Pro
+#### 69 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 
-#### 1 👎 - Con
+#### 9 👎 - Con
 Testifying:
 * David Trieweiler - Washington Association of Criminal Defense Lawyers/Washington Defender Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

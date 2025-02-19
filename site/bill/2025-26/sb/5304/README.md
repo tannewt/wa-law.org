@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/18/2025 [Senate Democrats](/org/senate_democrats/) - [Expanding education and equity - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/18/expanding-education-and-equity/#:~:text=Senate%20Bill%205304)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205304)
 
 ## Meetings

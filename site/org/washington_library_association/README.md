@@ -8,7 +8,11 @@
 ### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity 👍1  
 * 👍💵 Carolyn Logue
 
+### [HB 1517](/bill/2025-26/hb/1517/) - Digital equity/revenue   ❓1
+
 ### [HB 1606](/bill/2025-26/hb/1606/) - Journal access/state empl. 👍1  
+
+### [HB 1715](/bill/2025-26/hb/1715/) - Energy standard/comply cost 👍1  
 
 ### [SB 5152](/bill/2025-26/sb/5152/) - Concerning state employee access to peer-reviewed journals. 👍1  
 

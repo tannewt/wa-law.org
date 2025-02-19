@@ -7,6 +7,9 @@
 ### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍2  
 * 👍 Megan Managan
 
+### [HB 1506](/bill/2025-26/hb/1506/) - Credit union-bank merger/tax 👍1  
+* 👍 Megan Managan
+
 ### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy  👎1 
 * 👎 Glen Simecek
 

@@ -3,12 +3,16 @@
 
 ### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍1  
 
-### [HB 1506](/bill/2025-26/hb/1506/) - Credit union-bank merger/tax 👍1  
+### [HB 1506](/bill/2025-26/hb/1506/) - Credit union-bank merger/tax 👍3  
+* 👍💵 Brad Tower
+* 👍 Ed Speed
 
 ### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use  👎1 
 * 👎💵 Brad Tower
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee  👎1 
+
+### [HB 1900](/bill/2025-26/hb/1900/) - Financial fraud protections  👎1 
 
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎1 
 * 👎💵 Brad Tower

@@ -18,11 +18,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164629&caId=26007&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164629&caId=26007&tId=4)
 
-#### 2 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* JC Harris - Sea-Tac Noise.Info
+* 💵Jean Hill - Washington State Catholic Conference
 
-#### 0 👎 - Con
+#### 489 👎 - Con
+Testifying:
+* john worthington
+* 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 
 #### 0 ❓ - Other
 

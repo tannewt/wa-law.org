@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163951&caId=25942&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163951&caId=25942&tId=4)
 
-#### 5 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
+* Ben Wick - Councilmember, City of Spokane Valley
+* Neal Black - Councilmember, City of Kirkland
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

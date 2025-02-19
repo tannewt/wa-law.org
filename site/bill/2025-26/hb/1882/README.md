@@ -8,14 +8,32 @@
 
 ## Meetings
 ### Tue 02/18 08:00 AM - Finance (FIN): HB 1882 State tax on lodging
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163930&caId=25935&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163930&caId=25935&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163930&caId=25935&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32813&aId=163930&caId=25935&tId=4)
+#### 5 👍 - Pro
+Testifying:
+* Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jonathan Young - City of SeaTac
 
-#### 0 👍 - Pro
+#### 330 👎 - Con
+Testifying:
+* Jenn Tate - Okanogan County Tourism Council
+* Karen Palmer
+* Paige Stockley
+* Cliff Myers - Visit Vancouver WA
+* Kevin Lewis - Visit Tri-cities
+* Kristen Keltz - Skagit Tourism Bureau
+* Rose Noble - Visit Spokane
+* William Corbin
+* Heather Ferguson
+* Lisa Hurt
+* Daniel New - Asian American Hotel Owners Association
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Shawn Walker - 360 Hotel Group
+* Tiffany Turner - Adrift Hospitality
+* Anne McGrath - State of Washington Tourism
+* Michael Woody - Visit Seattle
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 146 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Steve Ewing - Dept. of Revenue

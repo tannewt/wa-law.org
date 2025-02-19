@@ -8,7 +8,7 @@
 
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers 👍1  
 
-### [HB 1105](/bill/2025-26/hb/1105/) - Exempting exclusive bargaining representatives for department of corrections employees from certain provisions related to coalition bargaining. 👍2  
+### [HB 1105](/bill/2025-26/hb/1105/) - DOC employee bargaining 👍2  
 * 👍 Kati Durkin
 * 👍 Kati Durkin
 
@@ -82,6 +82,8 @@
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎1 
 
+### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
 ### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍1  
@@ -98,9 +100,13 @@
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1
 * ❓ Kati Durkin
 
+### [SB 5163](/bill/2025-26/sb/5163/) - Child fatalities 👍1  
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  ❓1
 * ❓💵 Nicole Gomez
 * 👍💵 Nicole Gomez
+
+### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
 
 ### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply 👍1  
 
@@ -108,7 +114,8 @@
 
 ### [SB 5397](/bill/2025-26/sb/5397/) - CTC faculty w/o tenure limit 👍1  
 
-### [SB 5433](/bill/2025-26/sb/5433/) - DOC employee bargaining 👍1  
+### [SB 5433](/bill/2025-26/sb/5433/) - DOC employee bargaining 👍2  
+* 👍 Kati Durkin
 * 👍 Kati Durkin
 
 ### [SB 5459](/bill/2025-26/sb/5459/) - Call center retention 👍1  
@@ -117,6 +124,8 @@
 
 ### [SB 5525](/bill/2025-26/sb/5525/) - Layoffs 👍1  
 
+### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave 👍1  
+
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍2  
 * 👍 David Carney
 
@@ -124,11 +133,13 @@
 
 ### [SB 5620](/bill/2025-26/sb/5620/) - Foster care/rights of child 👍1  
 
-## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
+### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
+
+## [SB 5653](/bill/2025-26/sb/5653/) - Fish and wildlife officers 👍1  
 
 ## 2023-24
 
-### [SB 5651](/bill/2023-24/sb/5651/) - Garnishment exemptions 👍1  
+### [SB 5653](/bill/2023-24/sb/5653/) - Fish and wildlife officers 👍1  
 
 ### [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
 

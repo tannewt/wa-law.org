@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201723)
+
 ## Meetings
 ### Thu 02/20 01:30 PM - Capital Budget (CB): HB 1723 School construction projects
 Sign up to testify:
@@ -14,12 +17,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164352&caId=25916&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164352&caId=25916&tId=4)
 
-#### 1 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 
-#### 101 👎 - Con
+#### 178 👎 - Con
 Testifying:
 * Charlie Brown - Schools Coalition
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* Angelica Duncan - Hi Grade Asphalt & Seal Coat Inc
 
 #### 0 ❓ - Other

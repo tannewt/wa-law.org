@@ -16,7 +16,7 @@
 Testifying:
 * Doug Hostetter - [Tacoma Public Schools](/org/tacoma_public_schools/)
 * Doug Judge - Center for High School Success
-* Myle Tang - Stand for Children Washington
+* 💵Myle Tang - Stand for Children Washington
 * David Funk - Prosser High School
 * David Knight - Associate Professor
 * Matthew Yarkosky - Graham Kapowsin High School

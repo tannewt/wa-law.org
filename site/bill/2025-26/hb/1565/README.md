@@ -20,11 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164634&caId=26012&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164634&caId=26012&tId=4)
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
 
-#### 0 👎 - Con
+#### 466 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/05 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1565 Dual enrollment scholarship
 #### 23 👍 - Pro

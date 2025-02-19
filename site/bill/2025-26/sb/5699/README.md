@@ -8,14 +8,13 @@
 
 ## Meetings
 ### Mon 02/17 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5699 Intensive rural development
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164342&caId=25863&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164342&caId=25863&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164342&caId=25863&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164342&caId=25863&tId=4)
+#### 121 👍 - Pro
+Testifying:
+* Sue Lani Madsen - Washington Rural Environmental Network
+* Shon Smith - Chelan County Board of Commissioners
 
-#### 32 👍 - Pro
+#### 11 👎 - Con
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 4 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other

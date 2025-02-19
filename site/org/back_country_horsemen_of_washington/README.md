@@ -1,6 +1,8 @@
 # Back Country Horsemen of Washington
 ## 2025-26
 
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
+
 ## [SB 5390](/bill/2025-26/sb/5390/) - Discover pass, day-use cost 👍1  
 * 👍 Jeff Chapman
 

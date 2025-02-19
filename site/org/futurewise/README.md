@@ -70,10 +70,13 @@
 ### [HB 1854](/bill/2025-26/hb/1854/) - Rural areas/subdivision 👍1  
 * 👍💵 Bryce Yadon
 
+### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
+
 ### [SB 5055](/bill/2025-26/sb/5055/) - Agritourism  👎1 
 * 👎💵 Bryce Yadon
 
-### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍2  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
 ### [SB 5173](/bill/2025-26/sb/5173/) - Concerning county comprehensive plans and development regulations.  👎1 
@@ -127,15 +130,23 @@
 
 ### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption  👎1 
 
+### [SB 5662](/bill/2025-26/sb/5662/) - Utility connection charges 👍1  
+
 ### [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
 
-## [SB 5679](/bill/2025-26/sb/5679/) - Multifamily tax exemption  👎1 
+### [SB 5679](/bill/2025-26/sb/5679/) - Multifamily tax exemption  👎1 
 * 👎💵 Bryce Yadon
+
+### [SB 5699](/bill/2025-26/sb/5699/) - Intensive rural development  👎1 
+* 👎💵 Bryce Yadon
+
+### [SB 5731](/bill/2025-26/sb/5731/) - Tenant assistance program  👎1 
+
+## [SB 5740](/bill/2025-26/sb/5740/) - Eviction reform  👎1 
 
 ## 2023-24
 
-### [SB 5679](/bill/2023-24/sb/5679/) - Multifamily tax exemption  👎1 
-* 👎💵 Bryce Yadon
+### [SB 5740](/bill/2023-24/sb/5740/) - Eviction reform  👎1 
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1
 

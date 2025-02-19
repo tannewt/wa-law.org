@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/17/2025 [Senate Republicans](/org/senate_republicans/) - [Senate Republicans introduce 18 bills to address housing crisis - Senate Republican Caucus](https://src.wastateleg.org/blog/senate-republicans-introduce-18-bills-address-housing-crisis/#:~:text=SB%205747)
+
 ## Meetings
 ### Wed 02/19 10:30 AM - Housing (HSG): SB 5747 Affordable housing/exemption
 Sign up to testify:
@@ -14,8 +17,8 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164522&caId=25975&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164522&caId=25975&tId=4)
 
-#### 26 👍 - Pro
+#### 71 👍 - Pro
 
-#### 2 👎 - Con
+#### 7 👎 - Con
 
 #### 0 ❓ - Other

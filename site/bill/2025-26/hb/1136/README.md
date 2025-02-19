@@ -24,7 +24,7 @@ Testifying:
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Sam Herriot - WA State Board for Community and Technical Colleges
 * 💵Jayme Shoun - Washington STEM
-* Myle Tang - Stand for Children Washington
+* 💵Myle Tang - Stand for Children Washington
 * Steve DuPont - [Central Washington University](/org/central_washington_university/)
 * 💵Sean Behl - Associated Students of the University of the Washington
 * 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)

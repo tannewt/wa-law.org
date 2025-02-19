@@ -16,6 +16,10 @@
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets  👎1 
 
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration  👎1 
+
+### [HB 1938](/bill/2025-26/hb/1938/) - State flag redesign  👎1 
+
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎1 
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net.  👎1 
@@ -24,13 +28,16 @@
 
 ### [SB 5434](/bill/2025-26/sb/5434/) - Gubernatorial emergencies 👍1  
 
-## [SB 5635](/bill/2025-26/sb/5635/) - Alt. on-site sewage systems 👍1  
+### [SB 5635](/bill/2025-26/sb/5635/) - Alt. on-site sewage systems 👍1  
 * 👍 Commissioner Josh Kerns
+
+## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste 👍1  
+* 👍 KYLE TWOHIG
 
 ## 2023-24
 
-### [SB 5635](/bill/2023-24/sb/5635/) - Alt. on-site sewage systems 👍1  
-* 👍 Commissioner Josh Kerns
+### [SB 5703](/bill/2023-24/sb/5703/) - Municipal solid waste 👍1  
+* 👍 KYLE TWOHIG
 
 ### [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1
 * ❓ Commissioner Amber Waldref

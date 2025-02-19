@@ -8,19 +8,21 @@
 
 ## Meetings
 ### Mon 02/17 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5590 Livestock wolf predation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164227&caId=25817&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164227&caId=25817&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164227&caId=25817&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32865&aId=164227&caId=25817&tId=4)
-
-#### 20 👍 - Pro
+#### 865 👍 - Pro
 Testifying:
 * Brad Manke - Stevens County Sheriff's Office
+* Mary Lou M Long
+* 💵Mark Streuli - [Washington Cattlemen's Association](/org/washington_cattlemen's_association/)
+* Kenneth Spaeth
+* Kathleen McKay - K-Diamond-K Guest Ranch
 
-#### 162 👎 - Con
+#### 342 👎 - Con
 Testifying:
 * David Linn
 * MLou Christ
+* Tom Sill
+* Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
+* john rosapepe - Endangered Species Coalition
+* Dan Paul - Humane World for Animals
 
 #### 1 ❓ - Other

@@ -45,6 +45,10 @@
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue   ❓1
 
+### [HB 1969](/bill/2025-26/hb/1969/) - Law enf. aviation support   ❓2
+* ❓ George Geissler
+* ❓ Pat Sullivan
+
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
 * 👍 Duane Emmons
 
@@ -75,13 +79,14 @@
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
 * 👍 Pat Sullivan
 
-## [SB 5656](/bill/2025-26/sb/5656/) - Aquatic lease inflation rate 👍1  
+### [SB 5656](/bill/2025-26/sb/5656/) - Aquatic lease inflation rate 👍1  
 * 👍 Tom Gorman
+
+## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue   ❓1
 
 ## 2023-24
 
-### [SB 5656](/bill/2023-24/sb/5656/) - Aquatic lease inflation rate 👍1  
-* 👍 Tom Gorman
+### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue   ❓1
 
 ### [HB 1078](/bill/2023-24/hb/1078/) - Urban forest management 👍1  
 

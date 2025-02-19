@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/01/2021 [Senate Democrats](/org/senate_democrats/) - [2025 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2025priorities/#:~:text=Senate%20Bill%205577)
+
 ## Meetings
 ### Tue 02/11 10:30 AM - Health & Long Term Care (HLTC): SB 5577 HIV antiviral drugs/medicaid
 #### 17 👍 - Pro

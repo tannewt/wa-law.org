@@ -3,18 +3,28 @@
 
 ### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct 👍1  
 
+### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
+
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
 ### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍1  
 
-### [HB 1834](/bill/2025-26/hb/1834/) - Protecting Washington children online. 👍2  
+### [HB 1713](/bill/2025-26/hb/1713/) - Automatic voter reg./tribes 👍1  
+
+### [HB 1834](/bill/2025-26/hb/1834/) - Protecting Washington children online. 👍4  
 * 👍 Stephan Blanford
 
 ### [HB 1876](/bill/2025-26/hb/1876/) - Death with dignity act 👍1  
 
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  
 
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
+
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
+
+### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
+
+### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍1  
 
 ## [SB 5708](/bill/2025-26/sb/5708/) - Online services/minors 👍4  
 * 👍 Stephan Blanford

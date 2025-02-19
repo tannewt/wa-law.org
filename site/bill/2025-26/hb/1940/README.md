@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32801&aId=164317&caId=25923&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32801&aId=164317&caId=25923&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 3 👎 - Con
+#### 519 👎 - Con
+Testifying:
+* BRANDON PARK - DLH Ranch
+* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 
 #### 1 ❓ - Other
 Testifying:

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1175/</link>
 		<description>Updates about HB 1175</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 13 Feb 2025 15:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Feb 2025 09:08:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -148,6 +148,30 @@
 			<pubDate>Thu, 13 Feb 2025 15:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201175</guid>
+		</item>
+		<item>
+			<title>👍Raquel Guzman Retano - Up and Beyond Child Care</title>
+			<description>Raquel Guzman Retano signed up to testify Pro. They are signed up to represent Up and Beyond Child Care.</description>
+			<pubDate>Sat, 15 Feb 2025 12:36:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Raquel/Guzman Retano/2025-02-15 12:36:48</guid>
+		</item>
+		<item>
+			<title>👍Sean DeWitz - Washington Hospitality Association</title>
+			<description>Sean DeWitz signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_hospitality_association/"&gt;Washington Hospitality Association&lt;/a&gt;.</description>
+			<pubDate>Mon, 17 Feb 2025 01:13:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sean/DeWitz/2025-02-17 01:13:26</guid>
+		</item>
+		<item>
+			<title>👎Kathleen Hansen - An HOA on Bainbridge Island</title>
+			<description>Kathleen Hansen signed up to testify Con. They are signed up to represent An HOA on Bainbridge Island.</description>
+			<pubDate>Mon, 17 Feb 2025 09:08:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kathleen/Hansen/2025-02-17 09:08:15</guid>
 		</item>
 	</channel>
 </rss>

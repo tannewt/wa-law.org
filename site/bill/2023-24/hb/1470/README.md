@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 02/18/2025 [Washington State Standard](/org/washington_state_standard/) - [Push for inspections at Tacoma immigration detention center reemerges in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/02/17/push-for-inspections-at-tacoma-immigration-detention-center-reemerges-in-wa-legislature/#:~:text=House%20Bill%201470)
 * 02/05/2024 [Crosscut](/org/crosscut/) - [For-profit Tacoma ICE center blocks health and labor inspections | Crosscut](https://crosscut.com/news/2024/02/profit-tacoma-ice-center-blocks-health-and-labor-inspections#:~:text=House%20Bill%201470)
 * 02/05/2024 [Cascade PBS](/org/cascade_pbs/) - [For-profit Tacoma ICE center blocks health and labor inspections | Cascade PBS](https://www.cascadepbs.org/news/2024/02/profit-tacoma-ice-center-blocks-health-and-labor-inspections#:~:text=House%20Bill%201470)
 * 02/05/2024 [FOX13](/org/fox13/) - [Immigrants at controversial Tacoma detention center go on hunger strike](https://www.fox13seattle.com/news/immigrants-at-controversial-tacoma-detention-center-go-on-hunger-strike#:~:text=House%20Bill%201470)

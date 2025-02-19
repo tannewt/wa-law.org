@@ -20,7 +20,7 @@ Testifying:
 * Annie Cairo - Crisis Prevention Institute
 * Gisella Gonzalez - student
 * Dorian Taylor - former student
-* Esther Warwick - Arc of King County
+* 💵Esther Warwick - Arc of King County
 * Julianna Ali - former student
 * Joshua Shepherd - former student
 * Samantha Fogg - Special Education Advisory Council

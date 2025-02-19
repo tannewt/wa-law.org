@@ -8,18 +8,18 @@
 
 ## Meetings
 ### Mon 02/17 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5719 Local gov. hearing examiners
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164341&caId=25862&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164341&caId=25862&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164341&caId=25862&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164341&caId=25862&tId=4)
-
-#### 3 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Deb Flagan - [Hayden Homes](/org/hayden_homes/)
+* Mark Fancher
 
-#### 0 👎 - Con
+#### 47 👎 - Con
+Testifying:
+* Brad Schuster - Aircraft Owners and Pilots Association (AOPA) / Northwest Mountain Regional Manager
+* Helen Lehner
+* Tom Young
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)

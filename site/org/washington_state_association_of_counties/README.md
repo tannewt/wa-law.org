@@ -140,6 +140,9 @@
 ### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎1 
 * 👎💵 Paul Jewell
 
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
+* 👍💵 Curtis Steinhauer
+
 ### [HB 1742](/bill/2025-26/hb/1742/) - Urban design/environment 👍1  
 * 👍💵 Kelsey Hulse
 
@@ -159,6 +162,9 @@
 
 ### [HB 1899](/bill/2025-26/hb/1899/) - Homelessness point-in-time 👍1  
 * 👍💵 Curtis Steinhauer
+
+### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
+* 👍💵 Paul Jewell
 
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 
@@ -272,13 +278,14 @@
 
 ### [SB 5699](/bill/2025-26/sb/5699/) - Intensive rural development 👍1  
 
-## [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners   ❓1
+### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners   ❓1
 * ❓💵 Curtis Steinhauer
+
+## [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
 
 ## 2023-24
 
-### [SB 5719](/bill/2023-24/sb/5719/) - Local gov. hearing examiners   ❓1
-* ❓💵 Curtis Steinhauer
+### [SB 5729](/bill/2023-24/sb/5729/) - Housing permitting  👎1 
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

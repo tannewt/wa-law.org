@@ -1,10 +1,14 @@
 # The Arc of King County
 ## 2025-26
 
+### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍1  
+
 ### [HB 1051](/bill/2025-26/hb/1051/) - IEP team meetings/recording 👍2  
 * 👍💵 Ramona Hattendorf
 
 ### [HB 1130](/bill/2025-26/hb/1130/) - Concerning utilization of developmental disabilities waivers. 👍1 👎1 
+
+### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍1  
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Ramona Hattendorf
@@ -25,7 +29,7 @@
 
 ### [HB 1267](/bill/2025-26/hb/1267/) - Special education funding 👍1  
 
-### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
+### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍2  
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
 
@@ -39,7 +43,7 @@
 ### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍1  
 
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections   ❓1
-* ❓ Esther Warwick
+* ❓💵 Esther Warwick
 
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍1  
 
@@ -62,7 +66,8 @@
 * ❓💵 Ramona Hattendorf
 * ❓💵 Ramona Hattendorf
 
-### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍3  
+### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍5  
+* 👍💵 Ramona Hattendorf
 * 👍💵 Ramona Hattendorf
 
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
@@ -74,7 +79,7 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍2  
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍3  
 * 👍💵 Ramona Hattendorf
@@ -89,7 +94,7 @@
 ### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍1  
 
 ### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍2  
-* 👍 Esther Warwick
+* 👍💵 Esther Warwick
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
@@ -97,15 +102,19 @@
 
 ### [SB 5504](/bill/2025-26/sb/5504/) - Complex care serv./children 👍1  
 
+### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
+
 ### [SB 5648](/bill/2025-26/sb/5648/) - ABLE accounts 👍1  
 
 ### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
 
-## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
+### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
+
+## [SB 5731](/bill/2025-26/sb/5731/) - Tenant assistance program  👎1 
 
 ## 2023-24
 
-### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍2  
+### [SB 5731](/bill/2023-24/sb/5731/) - Tenant assistance program  👎1 
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

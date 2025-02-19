@@ -14,7 +14,7 @@ Testifying:
 * Matthew Huang
 * Jiadong Gu
 * Adam Eitmann - [Office of the Attorney General](/org/office_of_the_attorney_general/)
-* Reid Saaris
+* 💵Reid Saaris
 * Stephan Blanford - [Children's Alliance](/org/children's_alliance/)
 * Laura Marquez-Garrett - The Social Media Victims Law Center
 * Taj Jensen

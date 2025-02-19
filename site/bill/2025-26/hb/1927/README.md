@@ -8,17 +8,17 @@
 
 ## Meetings
 ### Mon 02/17 01:30 PM - Housing (HOUS): HB 1927 Rent payment reporting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32835&aId=164045&caId=25953&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32835&aId=164045&caId=25953&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32835&aId=164045&caId=25953&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32835&aId=164045&caId=25953&tId=4)
-
-#### 24 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * Alec Madson - Self Inc
 * Megan Pirie
+* Alice Aliré
+* 💵Kira Munson - WSLC
+* Les Bowen - WFSE Member
+* 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist
 
-#### 2 👎 - Con
+#### 582 👎 - Con
+Testifying:
+* Theresa Plue
 
 #### 1 ❓ - Other

@@ -13,7 +13,7 @@
 
 ### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
 
-### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
 
@@ -21,7 +21,7 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍3  
 
-### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
+### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍2  
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
@@ -38,7 +38,7 @@
 
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
 
-### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍2  
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 
@@ -72,11 +72,13 @@
 
 ### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption  👎1 
 
-## [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
+### [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
+
+## [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍1  
 
 ## 2023-24
 
-### [SB 5678](/bill/2023-24/sb/5678/) - Residential landlord-tenant  👎1 
+### [SB 5714](/bill/2023-24/sb/5714/) - Bail bond agents/immigration 👍1  
 
 ### [HB 1075](/bill/2023-24/hb/1075/) - Working families' tax credit 👍1  
 

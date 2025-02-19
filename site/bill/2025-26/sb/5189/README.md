@@ -7,22 +7,23 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=SB%205189)
 * 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205189)
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205189)
 
 ## Meetings
 ### Mon 02/17 04:00 PM - Ways & Means (WM): SB 5189 Competency-based education
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163749&caId=25875&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163749&caId=25875&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163749&caId=25875&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163749&caId=25875&tId=4)
-
-#### 5 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * John Axtell
+* Jeff Petty
+* Gerrit Kischner
 
-#### 1 👎 - Con
+#### 1776 👎 - Con
+Testifying:
+* Sarah Garriott
+* Theresa Plue
+* Ryan Jewell
 
 #### 0 ❓ - Other
 

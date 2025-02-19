@@ -1,13 +1,16 @@
 # Expedia Group
 ## 2025-26
 
-## [HB 1080](/bill/2025-26/hb/1080/) - Lodging fee disclosure   ❓1
+### [HB 1080](/bill/2025-26/hb/1080/) - Lodging fee disclosure   ❓1
 * ❓💵 Brent Ludeman
+
+## [HB 1763](/bill/2025-26/hb/1763/) - Affordable housing funding  👎1 
+* 👎💵 Brent Ludeman
 
 ## 2023-24
 
-### [HB 1080](/bill/2023-24/hb/1080/) - Lodging fee disclosure   ❓1
-* ❓💵 Brent Ludeman
+### [HB 1763](/bill/2023-24/hb/1763/) - Affordable housing funding  👎1 
+* 👎💵 Brent Ludeman
 
 ### [HB 1258](/bill/2023-24/hb/1258/) - Tourism marketing 👍2  
 * 👍 Krista Bentley

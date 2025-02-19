@@ -15,7 +15,7 @@ Testifying:
 * Carissa Abbott
 * Jacob Kuykendall - Tulalip Office of Civil Legal Aid
 * Zachary Jaffe
-* Myle Tang - Stand for Children Washington
+* 💵Myle Tang - Stand for Children Washington
 * Gus Patel-Tupper
 * Cassia Hershenow - [Civil Survival](/org/civil_survival/)
 * lisa giap

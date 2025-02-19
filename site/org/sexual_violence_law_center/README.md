@@ -7,6 +7,8 @@
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
 * 👍💵 Elizabeth Hendren
 
+### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
+
 ### [HB 1591](/bill/2025-26/hb/1591/) - Providing remedies for defendant survivors of domestic violence, sexual assault, or human trafficking. 👍2  
 * 👍💵 Elizabeth Hendren
 * 👍💵 Elizabeth Hendren
@@ -34,6 +36,9 @@
 * 👍 Riddhi Mukhopadhyay
 
 ### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
+* 👍 Riddhi Mukhopadhyay
+
+### [SB 5356](/bill/2025-26/sb/5356/) - Criminal justice trainings 👍1  
 * 👍 Riddhi Mukhopadhyay
 
 ### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  

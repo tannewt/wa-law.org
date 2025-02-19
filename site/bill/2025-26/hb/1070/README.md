@@ -12,26 +12,27 @@
 
 ## Meetings
 ### Mon 02/17 04:00 PM - Appropriations (APP): SHB 1070 PTSD/correctional workers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164189&caId=25904&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164189&caId=25904&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164189&caId=25904&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164189&caId=25904&tId=4)
-
-#### 24 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Joel Langsea - Kent City Jail
 * William Ruiz
+* PETER BURCHAM
+* Teresa Becker
+* Jenny Hovda - Hovdagang@yahoo.com
+* Michael Rainey - AFSCME Council 2
+* 💵Brenda Wiest - Teamsters117
 
-#### 3 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Rose Gundersen - WA Retail Association
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Mary Lou Pauly - Mayor, City of Issaquah
+* 💵Amber Carter - [Washington Retail Association](/org/washington_retail_association/)
 
 ### Fri 01/17 10:30 AM - Labor & Workplace Standards (LAWS): HB 1070 PTSD/correctional workers
 #### 205 👍 - Pro

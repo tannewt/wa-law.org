@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164273&caId=25832&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164273&caId=25832&tId=4)
 
-#### 0 👍 - Pro
+#### 35 👍 - Pro
+Testifying:
+* Jane Beyer - Office of the Insurance Commissioner
+* 💵Lisa Thatcher - Washington State Hospital Association
 
 #### 0 👎 - Con
 

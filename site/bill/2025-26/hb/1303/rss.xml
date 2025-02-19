@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1303/</link>
 		<description>Updates about HB 1303</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Feb 2025 06:23:01 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Feb 2025 11:17:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -273,6 +273,38 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Guillermo/Rogel/2025-02-14 06:23:01</guid>
+		</item>
+		<item>
+			<title>👎john worthington - Washington State Catholic Conference</title>
+			<description>john worthington signed up to testify Con.</description>
+			<pubDate>Sun, 16 Feb 2025 12:24:08 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/john/worthington/2025-02-16 12:24:08</guid>
+		</item>
+		<item>
+			<title>👍JC Harris - Sea-Tac Noise.Info</title>
+			<description>JC Harris signed up to testify Pro. They are signed up to represent Sea-Tac Noise.Info.</description>
+			<pubDate>Mon, 17 Feb 2025 07:39:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/JC/Harris/2025-02-17 07:39:10</guid>
+		</item>
+		<item>
+			<title>👎💵Cory Shaw - Washington Aggregates &amp; Concrete Association</title>
+			<description>Cory Shaw signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_aggregates_&amp;_concrete_association/"&gt;Washington Aggregates &amp; Concrete Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 17 Feb 2025 08:24:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Cory/Shaw/2025-02-17 08:24:29</guid>
+		</item>
+		<item>
+			<title>👍💵Jean Hill - Washington State Catholic Conference</title>
+			<description>Jean Hill signed up to testify Pro. They are signed up to represent Washington State Catholic Conference. They are a registered lobbyist.</description>
+			<pubDate>Mon, 17 Feb 2025 11:17:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jean/Hill/2025-02-17 11:17:52</guid>
 		</item>
 	</channel>
 </rss>

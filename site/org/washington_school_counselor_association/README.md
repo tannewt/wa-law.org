@@ -23,7 +23,7 @@
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support   ❓1
 * ❓💵 Catherine Holm
 
-### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍1  
+### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍2  
 * 👍💵 Jenny Morgan
 
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  

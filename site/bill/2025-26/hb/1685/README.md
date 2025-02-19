@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201685)
+
 ## Meetings
 ### Wed 02/19 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1685 Fish and wildlife governance
 Sign up to testify:
@@ -14,9 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32817&aId=163945&caId=25901&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32817&aId=163945&caId=25901&tId=4)
 
-#### 3 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* Chairman Ron Allen - Jamestown S'Klallam Tribe
 
-#### 207 👎 - Con
+#### 746 👎 - Con
 Testifying:
 * Kyle Perry
 * Scott Walker
@@ -29,6 +34,6 @@ Testifying:
 * Cody Coleman
 * Gary MCGREW
 
-#### 6 ❓ - Other
+#### 27 ❓ - Other
 Testifying:
 * Daniel Wilson - Washington Chapter- Backcountry Hunters & Anglers

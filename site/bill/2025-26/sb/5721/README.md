@@ -14,9 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32828&aId=164262&caId=25820&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32828&aId=164262&caId=25820&tId=4)
 
-#### 22 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * Roger Thomason
+* LoraJo Thorp
+* David Forte - Office of the Insurance Commissioner
+* Pat LePley - Washington State Association for Justice
 
 #### 0 👎 - Con
 

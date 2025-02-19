@@ -8,16 +8,27 @@
 
 ## Meetings
 ### Tue 02/18 10:30 AM - Labor & Commerce (LC): SB 5539 Paid family & medical leave
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164007&caId=25850&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164007&caId=25850&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164007&caId=25850&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32831&aId=164007&caId=25850&tId=4)
+#### 95 👍 - Pro
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Ashley Cox
+* Claudia Franson - MomsRising & Storyteller
+* 💵Gabriela Quintana - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Piedad Belinda Brito Guadalupe - MomsRising & Storyteller
+* Dan McKisson - ILWU Washington Area Council
+* Katherine Chamberlain - [Washington Employment Lawyers Association](/org/washington_employment_lawyers_association/)
+* 💵Maggie Humphreys - MomsRising
+* Margarita Mota - MomsRising & Storyteller
 
-#### 26 👍 - Pro
-
-#### 164 👎 - Con
+#### 312 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
+* 💵Tammie Hetrick - Washington Food Industry Associatio
+* Theresa Madden
+* Theresa Madden
+* Miriam Battson - Gig Harbor Chamber Of Commerce
+* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Rose Gundersen - WA Retail Association

@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164630&caId=26008&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164630&caId=26008&tId=4)
 
-#### 0 👍 - Pro
+#### 430 👍 - Pro
 
-#### 2 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * Darlene Schanfald
+* john worthington
 
 #### 0 ❓ - Other
 

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/17/2025 [The Urbanist](/org/the_urbanist/) - [State Bill Would Circumvent SPOG, Clear Path for Seattle Civilian Responder Expansion - The Urbanist](https://www.theurbanist.org/2025/02/17/state-bill-would-clear-path-for-seattle-civilian-responder-expansion/#:~:text=B%201816)
+
 ## Meetings
 ### Tue 02/11 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1816 Civilian crisis resp. teams
 #### 817 👍 - Pro

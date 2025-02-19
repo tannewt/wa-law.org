@@ -19,9 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32860&aId=164627&caId=26018&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32860&aId=164627&caId=26018&tId=4)
 
-#### 1 👍 - Pro
+#### 63 👍 - Pro
+Testifying:
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* Kol Peterson - Self
 
-#### 0 👎 - Con
+#### 36 👎 - Con
 
 #### 0 ❓ - Other
 

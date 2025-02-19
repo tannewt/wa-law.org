@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5164/</link>
 		<description>Updates about SB 5164</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Feb 2025 12:52:17 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Feb 2025 15:38:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -133,8 +133,8 @@
 			<guid isPermaLink="false">testifier/Jayme/Shoun/2025-01-15 03:25:22</guid>
 		</item>
 		<item>
-			<title>👍Myle Tang - Stand for Children Washington</title>
-			<description>Myle Tang signed up to testify Pro. They are signed up to represent Stand for Children Washington.</description>
+			<title>👍💵Myle Tang - Stand for Children Washington</title>
+			<description>Myle Tang signed up to testify Pro. They are signed up to represent Stand for Children Washington. They are a registered lobbyist.</description>
 			<pubDate>Wed, 15 Jan 2025 03:25:22 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
@@ -228,6 +228,37 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ben/Mitchell/2025-02-14 12:52:17</guid>
+		</item>
+		<item>
+			<title>👍💵Alex Hur - NW Education Access</title>
+			<description>Alex Hur signed up to testify Pro. They are signed up to represent NW Education Access. They are a registered lobbyist.</description>
+			<pubDate>Sat, 15 Feb 2025 07:07:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alex/Hur/2025-02-15 07:07:22</guid>
+		</item>
+		<item>
+			<title>👍Terrell Stalworth - Tacoma Community College Student</title>
+			<description>Terrell Stalworth signed up to testify Pro. They are signed up to represent Tacoma Community College Student.</description>
+			<pubDate>Mon, 17 Feb 2025 10:13:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Terrell/Stalworth/2025-02-17 10:13:26</guid>
+		</item>
+		<item>
+			<title>👎Theresa Plue - Tacoma Community College Student</title>
+			<description>Theresa Plue signed up to testify Con.</description>
+			<pubDate>Mon, 17 Feb 2025 12:08:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Theresa/Plue/2025-02-17 12:08:01</guid>
+		</item>
+		<item>
+			<title>Week Six: Make way for Focus Day! - WSPTA</title>
+			<description>News article "Week Six: Make way for Focus Day! - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 17 Feb 2025 15:38:15 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=SSB%205164</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,14 +8,16 @@
 
 ## Meetings
 ### Tue 02/18 01:30 PM - Consumer Protection & Business (CPB): HB 1887 Data broker registry & tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32800&aId=164307&caId=25920&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32800&aId=164307&caId=25920&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32800&aId=164307&caId=25920&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32800&aId=164307&caId=25920&tId=4)
+#### 1 👍 - Pro
 
-#### 0 👍 - Pro
+#### 71 👎 - Con
+Testifying:
+* 💵Rose Feliciano - TechNet
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Anthony Holan
+* Richard Varn - Coalition for Sensible Public Records Access
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Steve Ewing - Dept. of Revenue

@@ -16,7 +16,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Audrey Baker - WA State Leadership Board (WSLB)
 
 #### 0 ❓ - Other
 

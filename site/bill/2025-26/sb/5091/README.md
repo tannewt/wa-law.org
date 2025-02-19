@@ -14,14 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32821&aId=164553&caId=25979&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32821&aId=164553&caId=25979&tId=4)
 
-#### 74 👍 - Pro
+#### 324 👍 - Pro
 Testifying:
 * Eric Badger - [Lynden Incorporated](/org/lynden_incorporated/)
 * Steve Gordon - Gordon Truck Centers
 * Alex Schay - Northwest Alliance for Clean Transportation
+* Brett Ferullo - Northwest Construction, Inc.
+* Jeff Ten Pas - BAI Environmental Services
+* Jerry VanderWood - AGC of Washington
 
-#### 5 👎 - Con
+#### 64 👎 - Con
 Testifying:
 * Jeffrey Pack - Me
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

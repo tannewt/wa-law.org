@@ -7,6 +7,8 @@
 
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
+
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
 * ❓ Paula Rhyne
 
@@ -27,6 +29,9 @@
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
+
+### [HB 1882](/bill/2025-26/hb/1882/) - State tax on lodging 👍2  
+* 👍 Jennifer Gregerson
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍 Jennifer Gregerson

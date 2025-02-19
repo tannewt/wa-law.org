@@ -8,17 +8,22 @@
 
 ## Meetings
 ### Tue 02/18 01:30 PM - Environment, Energy & Technology (ENET): SB 5652 Environment/port districts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32816&aId=164213&caId=25822&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32816&aId=164213&caId=25822&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32816&aId=164213&caId=25822&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32816&aId=164213&caId=25822&tId=4)
-
-#### 2 👍 - Pro
+#### 285 👍 - Pro
 Testifying:
 * Brian Davis
 * Sarah Moore
+* Senayet Negusse - City of SeaTac
+* Steve Edmiston - Quiet Skies Puget Sound
+* Anne Kroeker - 350 Seattle Member
+* Brian Davis - Burien Airport Community
+* Maria Batayola - SeaTac Airport Community Coalition for Justice
+* JC Harris - Sea-Tac Noise.Info
+* Traci Buxton - Mayor, City of Des Moines WA
 
-#### 7 👎 - Con
+#### 685 👎 - Con
+Testifying:
+* Lance Eggers
+* john worthington
+* Anthony Holan
 
 #### 0 ❓ - Other

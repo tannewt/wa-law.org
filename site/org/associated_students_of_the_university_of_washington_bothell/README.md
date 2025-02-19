@@ -10,6 +10,9 @@
 ### [HB 1278](/bill/2025-26/hb/1278/) - Higher ed. gov./students 👍2  
 * 👍💵 Sienna Jarrard
 
+### [HB 1337](/bill/2025-26/hb/1337/) - Higher education presidents 👍1  
+* 👍💵 Sienna Jarrard
+
 ### [HB 1343](/bill/2025-26/hb/1343/) - Higher ed./loss of aid 👍1  
 * 👍💵 Sienna Jarrard
 

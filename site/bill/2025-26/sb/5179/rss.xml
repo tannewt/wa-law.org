@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5179/</link>
 		<description>Updates about SB 5179</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Feb 2025 01:14:33 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Feb 2025 12:21:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,13 @@
 			<pubDate>Thu, 18 May 2000 12:58:02 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/wilson/#:~:text=SB%205179</guid>
+		</item>
+		<item>
+			<title>2025 LGBTQ Priorities - Washington Senate Democrats</title>
+			<description>News article "2025 LGBTQ Priorities - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Thu, 01 Apr 2021 22:24:25 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/lgbtq2025priorities/#:~:text=Senate%20Bill%205179</guid>
 		</item>
 		<item>
 			<title>Prefiled for introduction.</title>
@@ -226,6 +233,46 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Paul/Hill/2025-02-14 01:14:33</guid>
+		</item>
+		<item>
+			<title>👍Aide Villalobos - UTOPIA Washington</title>
+			<description>Aide Villalobos signed up to testify Pro.</description>
+			<pubDate>Sat, 15 Feb 2025 02:56:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Aide/Villalobos/2025-02-15 02:56:19</guid>
+		</item>
+		<item>
+			<title>👍Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)</title>
+			<description>Jenny Plaja signed up to testify Pro. They are signed up to represent Office of Superintendent of Public Instruction (OSPI).</description>
+			<pubDate>Mon, 17 Feb 2025 01:26:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jenny/Plaja/2025-02-17 01:26:23</guid>
+		</item>
+		<item>
+			<title>👎Theresa Plue - Moses Lake School District</title>
+			<description>Theresa Plue signed up to testify Con.</description>
+			<pubDate>Mon, 17 Feb 2025 12:12:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Theresa/Plue/2025-02-17 12:12:00</guid>
+		</item>
+		<item>
+			<title>👎Sarah Garriott - Moses Lake School District</title>
+			<description>Sarah Garriott signed up to testify Con.</description>
+			<pubDate>Mon, 17 Feb 2025 12:16:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sarah/Garriott/2025-02-17 12:16:22</guid>
+		</item>
+		<item>
+			<title>👍💵Ramona Hattendorf - The Arc of King County</title>
+			<description>Ramona Hattendorf signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/the_arc_of_king_county/"&gt;The Arc of King County&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 17 Feb 2025 12:21:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ramona/Hattendorf/2025-02-17 12:21:50</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 
 ### [HB 1018](/bill/2025-26/hb/1018/) - Fusion energy facilities 👍1  
 
-### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍1  
+### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍2  
 * 👍💵 Simone Boe
 
 ### [HB 1032](/bill/2025-26/hb/1032/) - School district elections 👍1  
@@ -27,13 +27,13 @@
 
 ### [HB 1069](/bill/2025-26/hb/1069/) - Supp. retirement bargaining 👍1  
 
-### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers 👍1  
+### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers 👍2  
 
 ### [HB 1079](/bill/2025-26/hb/1079/) - Remote testing 👍1  
 
 ### [HB 1082](/bill/2025-26/hb/1082/) - Child care provider qualif. 👍1  
 
-### [HB 1105](/bill/2025-26/hb/1105/) - Exempting exclusive bargaining representatives for department of corrections employees from certain provisions related to coalition bargaining. 👍2  
+### [HB 1105](/bill/2025-26/hb/1105/) - DOC employee bargaining 👍2  
 
 ### [HB 1116](/bill/2025-26/hb/1116/) - Election day 👍1  
 
@@ -51,7 +51,7 @@
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 
 ### [HB 1161](/bill/2025-26/hb/1161/) - Veteran employability 👍1  
 
@@ -76,7 +76,7 @@
 
 ### [HB 1202](/bill/2025-26/hb/1202/) - State gen. obligation bonds 👍1  
 
-### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍3  
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
@@ -99,7 +99,11 @@
 
 ### [HB 1270](/bill/2025-26/hb/1270/) - Deferred comp. by local gov. 👍1  
 
+### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
+
 ### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
+
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
 
 ### [HB 1275](/bill/2025-26/hb/1275/) - Self-insurer withdrawal 👍1  
 
@@ -180,7 +184,7 @@
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 
-### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees 👍1  
+### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees 👍2  
 
 ### [HB 1538](/bill/2025-26/hb/1538/) - Capital assistance/schools   ❓1
 
@@ -226,6 +230,8 @@
 
 ### [HB 1676](/bill/2025-26/hb/1676/) - Charter school contracts  👎2 
 
+### [HB 1677](/bill/2025-26/hb/1677/) - Postsecondary/med. abortion 👍1  
+
 ### [HB 1682](/bill/2025-26/hb/1682/) - Unemployment ins./part-time 👍2  
 
 ### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍1  
@@ -261,7 +267,15 @@
 
 ### [HB 1843](/bill/2025-26/hb/1843/) - Students/unemployment ins. 👍2  
 
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
+
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
+
+### [HB 1934](/bill/2025-26/hb/1934/) - Employment investigation/PRA 👍1  
+
+### [HB 1936](/bill/2025-26/hb/1936/) - Schools/postretirement 👍1  
+
+### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍1  
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -312,7 +326,7 @@
 
 ### [SB 5087](/bill/2025-26/sb/5087/) - CTC legal education programs 👍1  
 
-### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍1  
+### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍2  
 
 ### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍2  
 
@@ -440,6 +454,8 @@
 
 ### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
 
+### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
+
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools   ❓1
@@ -457,6 +473,8 @@
 ### [SB 5414](/bill/2025-26/sb/5414/) - Social equity impact/audits 👍1  
 
 ### [SB 5433](/bill/2025-26/sb/5433/) - DOC employee bargaining 👍1  
+
+### [SB 5437](/bill/2025-26/sb/5437/) - Noncompetition agreements 👍1  
 
 ### [SB 5459](/bill/2025-26/sb/5459/) - Call center retention 👍1  
 
@@ -495,6 +513,11 @@
 
 ### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍1  
 
+### [SB 5572](/bill/2025-26/sb/5572/) - School construction projects 👍1  
+
+### [SB 5574](/bill/2025-26/sb/5574/) - History instruction   ❓1
+* ❓💵 Nasue Nishida
+
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
 
 ### [SB 5593](/bill/2025-26/sb/5593/) - School levies & local effort 👍1  
@@ -515,6 +538,12 @@
 ### [SB 5658](/bill/2025-26/sb/5658/) - Workforce education account 👍1  
 
 ### [SB 5666](/bill/2025-26/sb/5666/) - Mental health internships 👍1  
+
+### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
+
+### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank 👍1  
+
+### [SB 5756](/bill/2025-26/sb/5756/) - Working minors 👍1  
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds   ❓1
 * ❓💵 Julie Salvi

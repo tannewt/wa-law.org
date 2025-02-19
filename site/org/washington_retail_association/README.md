@@ -11,6 +11,9 @@
 
 ### [HB 1043](/bill/2025-26/hb/1043/) - Commute trip reduction 👍1  
 
+### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers   ❓1
+* ❓💵 Amber Carter
+
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍1  
 * 👍💵 Mark Johnson
 
@@ -88,6 +91,9 @@
 ### [HB 1504](/bill/2025-26/hb/1504/) - Firearm financial resp.   ❓1
 * ❓💵 Mark Johnson
 
+### [HB 1517](/bill/2025-26/hb/1517/) - Digital equity/revenue  👎1 
+* 👎💵 Crystal Leatherman
+
 ### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor 👍1  
 * 👍💵 Mark Johnson
 
@@ -121,7 +127,15 @@
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
+### [HB 1874](/bill/2025-26/hb/1874/) - Textured hair training 👍1  
+
+### [HB 1887](/bill/2025-26/hb/1887/) - Data broker registry & tax  👎1 
+* 👎💵 Crystal Leatherman
+
 ### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
+
+### [HB 1976](/bill/2025-26/hb/1976/) - Release of pets & plants 👍1  
+* 👍💵 Crystal Leatherman
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
@@ -184,13 +198,16 @@
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
 * 👎💵 Amber Carter
 
-## [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
+### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
 * 👍💵 Crystal Leatherman
+
+## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue  👎1 
+* 👎💵 Crystal Leatherman
 
 ## 2023-24
 
-### [SB 5628](/bill/2023-24/sb/5628/) - Lead in cookware 👍1  
-* 👍💵 Crystal Leatherman
+### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue  👎1 
+* 👎💵 Crystal Leatherman
 
 ### [HB 1005](/bill/2023-24/hb/1005/) - Military/employer tax incen. 👍1  
 * 👍💵 Mark Johnson

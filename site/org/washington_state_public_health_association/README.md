@@ -16,7 +16,7 @@
 
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
 
-### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍1  
+### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍2  
 
 ### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products 👍1  
 
@@ -24,6 +24,8 @@
 
 ### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program 👍1  
 * 👍💵 Amy Brackenbury
+
+### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax 👍1  
 
 ### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍1  
 
@@ -39,6 +41,8 @@
 ### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor  👎2 
 * 👎 Megan Moore
 
+### [HB 1805](/bill/2025-26/hb/1805/) - Children services/local tax 👍1  
+
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
 ### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
@@ -49,14 +53,24 @@
 
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers 👍1  
 
+### [SB 5163](/bill/2025-26/sb/5163/) - Child fatalities 👍1  
+
+### [SB 5273](/bill/2025-26/sb/5273/) - Concerning the availability of community violence prevention and intervention services. 👍1  
+
 ### [SB 5353](/bill/2025-26/sb/5353/) - Diabetes and obesity 👍1  
 * 👍 Megan Moore
 
-## [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
+### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program 👍1  
+
+### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
+
+### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍1  
+
+## [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
 
 ## 2023-24
 
-### [SB 5488](/bill/2023-24/sb/5488/) - DCYF/financial stability 👍1  
+### [SB 5508](/bill/2023-24/sb/5508/) - Child welfare housing assist 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5689/</link>
 		<description>Updates about SB 5689</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 06 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Feb 2025 11:40:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,21 @@
 			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-06/First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Transportation.</title>
+			<description>First reading, referred to Transportation.</description>
+			<pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-06/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍💵Juan Cotto - BloodworksNW</title>
+			<description>Juan Cotto signed up to testify Pro. They are signed up to represent BloodworksNW. They are a registered lobbyist.</description>
+			<pubDate>Mon, 17 Feb 2025 11:40:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Juan/Cotto/2025-02-17 11:40:24</guid>
 		</item>
 	</channel>
 </rss>

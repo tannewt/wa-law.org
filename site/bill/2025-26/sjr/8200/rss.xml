@@ -5,9 +5,16 @@
 		<link>https://wa-law.org/bill/2025-26/sjr/8200/</link>
 		<description>Updates about SJR 8200</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Feb 2025 15:19:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Feb 2025 15:38:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>Prefiled for introduction.</title>
+			<description>Prefiled for introduction.</description>
+			<pubDate>Wed, 08 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-08/Prefiled for introduction.</guid>
+		</item>
 		<item>
 			<title>👎Loretta Byrnes - Bethel Schools</title>
 			<description>Loretta Byrnes signed up to testify Con.</description>
@@ -39,6 +46,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Harlan/Gallinger/2025-01-12 09:34:06</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Early Learning &amp; K-12 Education.</title>
+			<description>First reading, referred to Early Learning &amp; K-12 Education.</description>
+			<pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-01-13/First reading, referred to Early Learning &amp; K-12 Education.</guid>
 		</item>
 		<item>
 			<title>👍Melissa Stone - Washington STate PTA</title>
@@ -93,6 +107,13 @@
 			<pubDate>Fri, 14 Feb 2025 15:19:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_00347752-eb07-11ef-bdcc-c33cecbc677d.html#:~:text=Senate%20Joint%20Resolution%208200</guid>
+		</item>
+		<item>
+			<title>Week Six: Make way for Focus Day! - WSPTA</title>
+			<description>News article "Week Six: Make way for Focus Day! - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 17 Feb 2025 15:38:15 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=SJR%208200</guid>
 		</item>
 	</channel>
 </rss>

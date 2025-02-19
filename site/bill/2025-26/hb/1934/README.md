@@ -8,16 +8,16 @@
 
 ## Meetings
 ### Tue 02/18 01:30 PM - State Government & Tribal Relations (SGOV): HB 1934 Employment investigation/PRA
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164142&caId=25963&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164142&caId=25963&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164142&caId=25963&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164142&caId=25963&tId=4)
-
-#### 2 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * James Trefry - WSCCCE, AFSCME Council 2
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Patricia Rhoades
+* Marci Patterson
 
-#### 6 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* Albert Merkel - Spokane Valley
+* Brady Horenstein - Attorney at Law
 
 #### 0 ❓ - Other

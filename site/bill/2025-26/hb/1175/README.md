@@ -16,17 +16,16 @@
 
 ## Meetings
 ### Mon 02/17 04:00 PM - Appropriations (APP): SHB 1175 Small businesses/residential
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164193&caId=25908&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164193&caId=25908&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164193&caId=25908&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32859&aId=164193&caId=25908&tId=4)
+#### 330 👍 - Pro
+Testifying:
+* Raquel Guzman Retano - Up and Beyond Child Care
+* Sean DeWitz - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
-#### 28 👍 - Pro
+#### 63 👎 - Con
+Testifying:
+* Kathleen Hansen - An HOA on Bainbridge Island
 
-#### 3 👎 - Con
-
-#### 0 ❓ - Other
+#### 3 ❓ - Other
 
 ### Tue 01/21 10:30 AM - Local Government (LG): HB 1175 Small businesses/residential
 #### 268 👍 - Pro

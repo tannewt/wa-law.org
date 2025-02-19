@@ -8,14 +8,13 @@
 
 ## Meetings
 ### Tue 02/18 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1926 Home care aides
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32870&aId=164247&caId=25959&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32870&aId=164247&caId=25959&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32870&aId=164247&caId=25959&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32870&aId=164247&caId=25959&tId=4)
+#### 40 👍 - Pro
+Testifying:
+* Allison Lally - Brookdale Senior Living
+* 💵Alyssa Odegaard - LeadingAge WA
+* Amy Thomas - [Adult Family Home Council](/org/adult_family_home_council/)
+* Demas Nesterenko - SEIU775
 
-#### 1 👍 - Pro
+#### 553 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -20,7 +20,8 @@
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 
-### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings 👍1  
+### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings 👍2  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍1  

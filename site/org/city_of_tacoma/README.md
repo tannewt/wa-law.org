@@ -9,17 +9,23 @@
 
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review   ❓1
 
+### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential   ❓1
+
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓1
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
+
+### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
 
 ### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+
+### [HB 1587](/bill/2025-26/hb/1587/) - Partner promise scholarships 👍1  
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 
@@ -41,6 +47,8 @@
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍2  
 
+### [SB 5201](/bill/2025-26/sb/5201/) - Psychedelic substances 👍1  
+
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
@@ -51,11 +59,15 @@
 
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 
-## [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
+
+### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
+
+## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 
 ## 2023-24
 
-### [SB 5595](/bill/2023-24/sb/5595/) - Shared streets 👍1  
+### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 

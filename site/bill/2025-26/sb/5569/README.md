@@ -8,16 +8,11 @@
 
 ## Meetings
 ### Mon 02/17 10:30 AM - Law & Justice (LAW): SB 5569 Direct transfer to treatment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32798&aId=163786&caId=25854&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32798&aId=163786&caId=25854&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32798&aId=163786&caId=25854&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32798&aId=163786&caId=25854&tId=4)
-
-#### 1 👍 - Pro
+#### 26 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Jon Tunheim - Thurston County Prosecutor/Wa Assoc of Prosecuting Attorneys

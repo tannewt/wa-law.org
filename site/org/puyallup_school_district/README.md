@@ -23,6 +23,8 @@
 
 ### [SB 5086](/bill/2025-26/sb/5086/) - PEBB & SEBB consolidation  👎1 
 
+### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍1  
+
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍7  
 * 👍 Jr, John Polm
 

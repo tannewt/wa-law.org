@@ -32,7 +32,7 @@
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
-### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍1  
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍2  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
@@ -47,7 +47,8 @@
 
 ### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  
 
-### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave 👍1  
+### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave 👍2  
+* 👍💵 Gabriela Quintana
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍3  
 * 👍💵 Gabriela Quintana

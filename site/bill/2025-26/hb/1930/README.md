@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201930)
+
 ## Meetings
 ### Wed 02/19 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1930 Fish and wildlife commission
 Sign up to testify:
@@ -14,17 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32817&aId=163946&caId=25902&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32817&aId=163946&caId=25902&tId=4)
 
-#### 83 👍 - Pro
+#### 729 👍 - Pro
 Testifying:
 * Kelsey Ross
 * Dane Czarnecki - --select an item--
 * Brennan Gray
 * Ryan Garrett
+* Edward May - [Ducks Unlimited](/org/ducks_unlimited/)
 
-#### 45 👎 - Con
+#### 100 👎 - Con
 Testifying:
 * Brandon Warner
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Josh Rosenau - [Mountain Lion Foundation](/org/mountain_lion_foundation/)

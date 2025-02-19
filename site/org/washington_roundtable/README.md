@@ -10,12 +10,15 @@
 ### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 * 👍💵 Neil Strege
 
-## [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
+### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
+* 👍💵 Neil Strege
+
+## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍💵 Neil Strege
 
 ## 2023-24
 
-### [SB 5604](/bill/2023-24/sb/5604/) - Transit-oriented development 👍1  
+### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
 * 👍💵 Neil Strege
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  

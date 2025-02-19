@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 02/07 08:00 AM - Consumer Protection & Business (CPB): HB 1530 Reg. businesses/card fees

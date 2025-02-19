@@ -6,15 +6,15 @@
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
-## [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍2  
+### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍2  
 * 👍 Christine Cooley
 * 👍 Christine Cooley
+
+## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 
 ## 2023-24
 
-### [SB 5592](/bill/2023-24/sb/5592/) - Zero emissions vehicles/sale 👍2  
-* 👍 Christine Cooley
-* 👍 Christine Cooley
+### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
 
 ### [HB 1176](/bill/2023-24/hb/1176/) - Climate-ready communities 👍2  
 

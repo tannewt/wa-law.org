@@ -8,7 +8,9 @@
 ### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍2  
 * 👍 Mahi Malladi
 
-### [HB 1834](/bill/2025-26/hb/1834/) - Protecting Washington children online. 👍1  
+### [HB 1834](/bill/2025-26/hb/1834/) - Protecting Washington children online. 👍3  
+* 👍 Fatra Hussein
+* 👍 Mahi Malladi
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 

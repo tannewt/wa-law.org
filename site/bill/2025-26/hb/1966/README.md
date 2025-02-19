@@ -8,14 +8,17 @@
 
 ## Meetings
 ### Tue 02/18 10:30 AM - Local Government (LG): HB 1966 Public works contracting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32803&aId=164526&caId=25981&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32803&aId=164526&caId=25981&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32803&aId=164526&caId=25981&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32803&aId=164526&caId=25981&tId=4)
+#### 53 👍 - Pro
+Testifying:
+* Keith Michel - CPARB
+* 💵Erin Frasier
+* 💵Michael Transue - Mechanical Contractors Association of Western Washington
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
+#### 10 👎 - Con
+Testifying:
+* 💵Ryan Spiller - WA fire commissioner's association
+* Jeff Clarke - Washington Association of Sewer and Water Districts
+* Katie Whittier - Clark Regional Wastewater District, Discovery Clean Water Alliance
+* 💵Joren Clowers - Sno-King Water District Coalition
 
 #### 0 ❓ - Other

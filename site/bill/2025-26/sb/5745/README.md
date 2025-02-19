@@ -8,14 +8,14 @@
 
 ## Meetings
 ### Mon 02/17 10:30 AM - Law & Justice (LAW): SB 5745 Invol. treatment counsel
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32798&aId=164427&caId=25857&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32798&aId=164427&caId=25857&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32798&aId=164427&caId=25857&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32798&aId=164427&caId=25857&tId=4)
-
-#### 1 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Kelly Canary - Washington State Office of Public Defense
+* Rashi Gupta - UW Medicine
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Brad Banks - WSAC & BHASOs
+* Joe McDermott - State Relations Director | King County

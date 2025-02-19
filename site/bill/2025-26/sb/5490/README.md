@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 04/01/2021 [Senate Democrats](/org/senate_democrats/) - [2025 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2025priorities/#:~:text=Senate%20Bill%205490)
+
 ## Meetings
 ### Tue 02/04 01:30 PM - Human Services (HS): SB 5490 Jail searches/gender
 #### 143 👍 - Pro

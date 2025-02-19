@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/14/2025 [FOX13](/org/fox13/) - [WA Senate advances new standards on wood stoves | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-legislative-committee-wood-stoves#:~:text=Senate%20Bill%205174)

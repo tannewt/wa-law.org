@@ -9,7 +9,9 @@
 
 ### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍2  
 
-### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍1  
+### [HB 1131](/bill/2025-26/hb/1131/) - Clemency and pardons 👍1  
+
+### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍2  
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals 👍1  
 
@@ -67,6 +69,8 @@
 
 ### [HB 1530](/bill/2025-26/hb/1530/) - Reg. businesses/card fees  👎1 
 
+### [HB 1561](/bill/2025-26/hb/1561/) - Domestic workers 👍1  
+
 ### [HB 1604](/bill/2025-26/hb/1604/) - Jail searches/gender 👍1  
 * 👍💵 Ethan Frenchman
 
@@ -74,8 +78,12 @@
 
 ### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
 
+### [HB 1915](/bill/2025-26/hb/1915/) - Tenant protections 👍1  
+
 ### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation  👎1 
 * 👎 Xaxira Velasco Ponce de Leon
+
+### [HB 1927](/bill/2025-26/hb/1927/) - Rent payment reporting 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 * 👍💵 Ethan Frenchman
@@ -111,7 +119,9 @@
 
 ### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍1  
 
-### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎1 
+### [SB 5342](/bill/2025-26/sb/5342/) - Legislators/state facilities 👍1  
+
+### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎2 
 * 👎💵 Ethan Frenchman
 
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
@@ -122,6 +132,8 @@
 ### [SB 5499](/bill/2025-26/sb/5499/) - DOC body scanner program  👎1 
 * 👎 Malena Pinkham
 
+### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave 👍1  
+
 ### [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS 👍1  
 
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
@@ -131,13 +143,14 @@
 ### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption  👎1 
 * 👎💵 Sarah Nagy
 
-## [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
+### [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
 * 👎💵 Sarah Nagy
+
+## [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍1  
 
 ## 2023-24
 
-### [SB 5678](/bill/2023-24/sb/5678/) - Residential landlord-tenant  👎1 
-* 👎💵 Sarah Nagy
+### [SB 5714](/bill/2023-24/sb/5714/) - Bail bond agents/immigration 👍1  
 
 ### [HB 1002](/bill/2023-24/hb/1002/) - Hazing penalty   ❓2
 * ❓💵 Antonio Ginatta

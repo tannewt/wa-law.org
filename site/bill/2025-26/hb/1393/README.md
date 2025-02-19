@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=HB%201393)
+
 ## Meetings
 ### Thu 02/13 08:00 AM - Education (ED): HB 1393 Commencement/cultural exp.
 #### 13 👍 - Pro

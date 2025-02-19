@@ -8,16 +8,20 @@
 
 ## Meetings
 ### Mon 02/17 10:30 AM - Labor & Commerce (LC): SB 5572 School construction projects
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32830&aId=164000&caId=25843&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32830&aId=164000&caId=25843&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32830&aId=164000&caId=25843&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32830&aId=164000&caId=25843&tId=4)
-
-#### 2 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
+* Bryan Johnson - Ironworkers Local 86
+* 💵Heather Kurtenbach - Washington State Building and Construction Trades
+* Sam Hem - [Sheet Metal Workers Local 66](/org/sheet_metal_workers_local_66/)
+* Monty Anderson - Seattle Building Trades
 
-#### 107 👎 - Con
+#### 778 👎 - Con
+Testifying:
+* Charlie Brown - Schools Coalition
+* Jerry VanderWood - AGC and WA Construction Industry Council (WCIC)
+* 💵Carolyn Logue - Associated Builders and Contractors Inland Pacific Chapter
+* 💵Paula Sardinas - WBBA/FMSGS
+* Theresa Plue
 
 #### 0 ❓ - Other

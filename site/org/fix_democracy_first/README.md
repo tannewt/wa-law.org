@@ -22,7 +22,9 @@
 
 ### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance 👍1  
 
-### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims 👍1  
+### [HB 1713](/bill/2025-26/hb/1713/) - Automatic voter reg./tribes 👍1  
+
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims 👍2  
 
 ### [HB 1782](/bill/2025-26/hb/1782/) - Campaign reporting timeline  👎1 
 

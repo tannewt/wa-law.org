@@ -3,6 +3,11 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
+* 👍💵 Ben Stuckart
+
+### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
+
 ## [SB 5662](/bill/2025-26/sb/5662/) - Utility connection charges 👍1  
 * 👍💵 Ben Stuckart
 

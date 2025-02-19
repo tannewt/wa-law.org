@@ -13,7 +13,7 @@
 
 ### [HB 1139](/bill/2025-26/hb/1139/) - Unlawful firearm possession 👍1  
 
-### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential   ❓1
+### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential   ❓2
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓2
 
@@ -55,13 +55,23 @@
 
 ### [HB 1700](/bill/2025-26/hb/1700/) - Comprehensive plan updates 👍1  
 
+### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties  👎1 
+
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
 
 ### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
+### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
+
 ### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
+
+### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
+
+### [HB 1968](/bill/2025-26/hb/1968/) - Controlled sub. endangerment 👍2  
+
+### [HB 1969](/bill/2025-26/hb/1969/) - Law enf. aviation support 👍1  
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact   ❓1
 
@@ -73,7 +83,7 @@
 
 ### [SB 5071](/bill/2025-26/sb/5071/) - Synthetic opioids/endanger. 👍1  
 
-### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎1 
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎2 
 
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects  👎1 
 
@@ -94,6 +104,10 @@
 
 ### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
 
+### [SB 5333](/bill/2025-26/sb/5333/) - Eluding & resisting arrest 👍1  
+
+### [SB 5356](/bill/2025-26/sb/5356/) - Criminal justice trainings  👎1 
+
 ### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential   ❓1
 
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
@@ -102,6 +116,8 @@
 
 ### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍1  
 
+### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave  👎1 
+
 ### [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations   ❓1
 
 ### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍1  
@@ -109,6 +125,10 @@
 ### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat.   ❓1
 
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development  👎1 
+
+### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload  👎1 
+
+### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
 
 ## [SB 5705](/bill/2025-26/sb/5705/) - Traffic infraction penalties 👍1  
 

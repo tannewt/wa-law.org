@@ -11,16 +11,20 @@
 
 ## Meetings
 ### Mon 02/17 10:30 AM - Labor & Commerce (LC): SB 5422 Collective bargaining/AI use
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32830&aId=164003&caId=25846&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32830&aId=164003&caId=25846&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32830&aId=164003&caId=25846&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32830&aId=164003&caId=25846&tId=4)
-
-#### 19 👍 - Pro
-
-#### 3 👎 - Con
+#### 270 👍 - Pro
 Testifying:
+* 💵Teresa Taylor - WACOPS - Washington Council of Police and Sheriffs
+* Cecilia Reyes
+* Raquel Guzman Retano - Up and Beyond Child Care
+* Riz Monghit - SEIU 925
+* Kati Durkin - WFSE
+* Cherika Carter - washington state labor council, afl-cio
+* 💵Samantha Grad - Teamsters 117
+* 💵Seamus Petrie - [Washington Public Employees Association](/org/washington_public_employees_association/)
+
+#### 9 👎 - Con
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 1 ❓ - Other

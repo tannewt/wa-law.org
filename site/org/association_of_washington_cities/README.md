@@ -174,6 +174,8 @@
 ### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎1 
 * 👎💵 Candice Bock
 
+### [HB 1763](/bill/2025-26/hb/1763/) - Affordable housing funding 👍1  
+
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
 
 ### [HB 1765](/bill/2025-26/hb/1765/) - Subscriber emails/PRA 👍1  
@@ -198,14 +200,23 @@
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 * 👍💵 Carl Schroeder
 
+### [HB 1882](/bill/2025-26/hb/1882/) - State tax on lodging 👍1  
+* 👍💵 Candice Bock
+
 ### [HB 1906](/bill/2025-26/hb/1906/) - Water system rates   ❓1
 * ❓💵 Kelsey Hulse
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍💵 Carl Schroeder
 
+### [HB 1934](/bill/2025-26/hb/1934/) - Employment investigation/PRA 👍1  
+* 👍💵 Candice Bock
+
 ### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
 * 👍💵 Carl Schroeder
+
+### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
+* 👍💵 Candice Bock
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
@@ -265,7 +276,8 @@
 ### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential   ❓1
 * ❓💵 Carl Schroeder
 
-### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use  👎1 
+### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use  👎2 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
@@ -285,6 +297,11 @@
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 * 👍💵 Carl Schroeder
+
+### [SB 5518](/bill/2025-26/sb/5518/) - Sales tax sourcing impact 👍1  
+
+### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave 👍1  
+* 👍💵 Candice Bock
 
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
 * 👍💵 Candice Bock
@@ -326,13 +343,17 @@
 ### [SB 5627](/bill/2025-26/sb/5627/) - Safe excavation  👎1 
 * 👎💵 Kelsey Hulse
 
-## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners   ❓1
+* ❓💵 Carl Schroeder
+
+### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍💵 Carl Schroeder
+
+## [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
 
 ## 2023-24
 
-### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
-* 👍💵 Carl Schroeder
+### [SB 5738](/bill/2023-24/sb/5738/) - Retired employees/work 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

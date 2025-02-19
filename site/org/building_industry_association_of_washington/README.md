@@ -8,6 +8,8 @@
 
 ### [HB 1044](/bill/2025-26/hb/1044/) - County REET admin. fees  👎1 
 
+### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers  👎1 
+
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍2  
 * 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley
@@ -18,7 +20,7 @@
 ### [HB 1115](/bill/2025-26/hb/1115/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
 * 👍💵 Andrea Smiley
 
-### [HB 1121](/bill/2025-26/hb/1121/) - Concerning restrictions on the working conditions and hours of sixteen- and seventeen-year olds. 👍1  
+### [HB 1121](/bill/2025-26/hb/1121/) - Work restrictions/age 16, 17 👍1  
 * 👍 Mike Ennis
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board  👎1 
@@ -88,6 +90,8 @@
 
 ### [HB 1533](/bill/2025-26/hb/1533/) - Specialty electricians 👍1  
 
+### [HB 1561](/bill/2025-26/hb/1561/) - Domestic workers  👎1 
+
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
 
 ### [HB 1576](/bill/2025-26/hb/1576/) - Concerning the designation of historic landmarks by cities.   ❓1
@@ -111,6 +115,8 @@
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues  👎1 
 
 ### [HB 1695](/bill/2025-26/hb/1695/) - Unincorporated villages/GMA 👍1  
+
+### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties  👎1 
 
 ### [HB 1732](/bill/2025-26/hb/1732/) - Home buying by entities  👎1 
 * 👎💵 Brent Ludeman
@@ -169,7 +175,7 @@
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices  👎1 
 
-### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules  👎1 
+### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules  👎2 
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 
@@ -188,6 +194,8 @@
 ### [SB 5429](/bill/2025-26/sb/5429/) - State building code council 👍2  
 * 👍💵 Andrea Smiley
 
+### [SB 5437](/bill/2025-26/sb/5437/) - Noncompetition agreements  👎1 
+
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons  👎1 
 
 ### [SB 5461](/bill/2025-26/sb/5461/) - Intensive rural dev. areas   ❓1
@@ -202,6 +210,8 @@
 * 👎💵 Brent Ludeman
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave  👎1 
 
 ### [SB 5540](/bill/2025-26/sb/5540/) - Students/unemployment ins.  👎1 
 
@@ -228,6 +238,11 @@
 ### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍1  ❓1
 * ❓💵 Bill Stauffacher
 
+### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload 👍1  
+* 👍💵 Bill Stauffacher
+
+### [SB 5612](/bill/2025-26/sb/5612/) - Multiunit housing/SEPA 👍1  
+
 ### [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍1  
 * 👍💵 Bill Stauffacher
 
@@ -249,13 +264,18 @@
 
 ### [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant 👍1  
 
-## [SB 5679](/bill/2025-26/sb/5679/) - Multifamily tax exemption 👍1  
+### [SB 5679](/bill/2025-26/sb/5679/) - Multifamily tax exemption 👍1  
 * 👍💵 Jan Himebaugh
+
+### [SB 5699](/bill/2025-26/sb/5699/) - Intensive rural development 👍1  
+
+### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners 👍1  
+
+## [SB 5756](/bill/2025-26/sb/5756/) - Working minors  👎1 
 
 ## 2023-24
 
-### [SB 5679](/bill/2023-24/sb/5679/) - Multifamily tax exemption 👍1  
-* 👍💵 Jan Himebaugh
+### [SB 5756](/bill/2023-24/sb/5756/) - Working minors  👎1 
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍2  
 

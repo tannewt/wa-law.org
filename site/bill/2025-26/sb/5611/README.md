@@ -8,16 +8,16 @@
 
 ## Meetings
 ### Mon 02/17 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5611 Land use permitting workload
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164340&caId=25861&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164340&caId=25861&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164340&caId=25861&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32822&aId=164340&caId=25861&tId=4)
+#### 91 👍 - Pro
+Testifying:
+* 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Riley Benge - Washington REALTORS
+* 💵Alex Hur - Master Builders King & Snohomish county
+* Alex Harrington - NAIOP Washington State
 
-#### 41 👍 - Pro
+#### 6 👎 - Con
 
-#### 4 👎 - Con
-
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Samantha Weinstein - Department of Ecology

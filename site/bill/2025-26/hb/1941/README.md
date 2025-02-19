@@ -6,16 +6,18 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201941)
+
 ## Meetings
 ### Tue 02/18 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1941 Agricultural coops/cannabis
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32815&aId=163939&caId=25900&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32815&aId=163939&caId=25900&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32815&aId=163939&caId=25900&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32815&aId=163939&caId=25900&tId=4)
+#### 10 👍 - Pro
+Testifying:
+* 💵Ezra Eickmeyer - Producers NW
 
-#### 1 👍 - Pro
+#### 37 👎 - Con
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Micah Sherman
+* RYAN SEVIGNY - The Cannabis Alliance

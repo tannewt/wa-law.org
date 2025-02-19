@@ -17,12 +17,21 @@
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
 
-## [SB 5343](/bill/2025-26/sb/5343/) - NE WA wolf-livestock account  👎1 
+### [SB 5343](/bill/2025-26/sb/5343/) - NE WA wolf-livestock account  👎1 
+* 👎 Francisco Santiago-Ávila
+
+### [SB 5354](/bill/2025-26/sb/5354/) - Gray wolf management  👎1 
+* 👎 Francisco Santiago-Ávila
+
+### [SB 5482](/bill/2025-26/sb/5482/) - Use of dogs to hunt 👍1  
+* 👍 Francisco Santiago-Ávila
+
+## [SB 5590](/bill/2025-26/sb/5590/) - Livestock wolf predation  👎1 
 * 👎 Francisco Santiago-Ávila
 
 ## 2023-24
 
-### [SB 5343](/bill/2023-24/sb/5343/) - NE WA wolf-livestock account  👎1 
+### [SB 5590](/bill/2023-24/sb/5590/) - Livestock wolf predation  👎1 
 * 👎 Francisco Santiago-Ávila
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1

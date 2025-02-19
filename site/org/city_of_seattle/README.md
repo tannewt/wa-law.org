@@ -19,7 +19,7 @@
 
 ### [HB 1208](/bill/2025-26/hb/1208/) - Salmon recovery projects 👍1  
 
-### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
@@ -63,6 +63,8 @@
 ### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍1  
 
 ### [HB 1556](/bill/2025-26/hb/1556/) - HS completers/CTC tuition 👍1  
+
+### [HB 1561](/bill/2025-26/hb/1561/) - Domestic workers 👍1  
 
 ### [HB 1587](/bill/2025-26/hb/1587/) - Partner promise scholarships 👍1  
 
@@ -126,6 +128,8 @@
 ### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
+
+### [SB 5273](/bill/2025-26/sb/5273/) - Concerning the availability of community violence prevention and intervention services. 👍1  
 
 ### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
 

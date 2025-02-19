@@ -71,19 +71,22 @@
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
+### [SB 5518](/bill/2025-26/sb/5518/) - Sales tax sourcing impact 👍1  
+
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment   ❓1
 * ❓ John Flanagan
 
 ### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
 * 👍 John Flanagan
 
-## [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
 * 👍 John Flanagan
+
+## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 
 ## 2023-24
 
-### [SB 5601](/bill/2023-24/sb/5601/) - Alternative jet fuels 👍1  
-* 👍 John Flanagan
+### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
 
 ### [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 

@@ -8,16 +8,17 @@
 
 ## Meetings
 ### Tue 02/18 01:30 PM - State Government & Tribal Relations (SGOV): HB 1964 Lists of individuals/PRA
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164370&caId=25965&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164370&caId=25965&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164370&caId=25965&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32850&aId=164370&caId=25965&tId=4)
-
-#### 2 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 7 👎 - Con
+#### 1166 👎 - Con
+Testifying:
+* Richard Varn - Coalition for Sensible Public Records Access
+* Katherine George
+* Colette Weeks - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
+* Anthony Holan
 
 #### 0 ❓ - Other

@@ -12,17 +12,11 @@
 
 ## Meetings
 ### Mon 02/17 04:00 PM - Ways & Means (WM): SSB 5030 Vital records access
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163750&caId=25876&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163750&caId=25876&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163750&caId=25876&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32795&aId=163750&caId=25876&tId=4)
+#### 25 👍 - Pro
 
-#### 5 👍 - Pro
+#### 3 👎 - Con
 
-#### 1 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/14 08:00 AM - Early Learning & K-12 Education (EDU): SB 5030 Vital records access
 #### 10 👍 - Pro

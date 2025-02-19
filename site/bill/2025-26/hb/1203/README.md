@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=HB%201203)
 * 01/31/2025 [KING5](/org/king5/) - [In Session: Proposed ban on flavored vapes sparks debate in Washington | king5.com](https://www.king5.com/article/news/politics/in-session/in-session-proposed-ban-on-flavored-vapes-tobacco-wraps-up-week-at-legislature/281-970cb4c7-cbdf-46a8-8a76-baaa42cc3b53#:~:text=Under%20House%20Bill%201203)
 * 01/31/2025 [KING5](/org/king5/) - [Proposed ban on flavored vapes sparks debate in Washington | king5.com](https://www.king5.com/article/news/politics/state-politics/in-session-proposed-ban-on-flavored-vapes-tobacco-wraps-up-week-at-legislature/281-970cb4c7-cbdf-46a8-8a76-baaa42cc3b53#:~:text=Under%20House%20Bill%201203)
 * 01/31/2025 [KING5](/org/king5/) - [Washington bill looks to ban flavored vapes, tobacco products | king5.com](https://www.king5.com/article/news/local/washington-bill-ban-flavored-vapes-tobacco-products/281-8cfed3f5-757a-48c0-bd38-01e2fdf40a39#:~:text=House%20Bill%201203)

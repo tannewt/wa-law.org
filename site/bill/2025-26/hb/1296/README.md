@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/17/2025 [MyNorthwest](/org/mynorthwest/) - [Washington Representative weighs in on one of the most controversial bills this session](https://mynorthwest.com/john-curley/washington-representative-weighs-in-on-one-of-most-controversial-bills-this-session/4047674#:~:text=House%20Bill%201296)
 * 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](http://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=House%20Bill%201296)
 * 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=House%20Bill%201296)
 * 02/06/2025 [KUOW](/org/kuow/) - [KUOW - Why Washington state lawmakers are fighting over 'parents rights' again](https://www.kuow.org/stories/the-fight-over-parents-rights-is-back-in-olympia-here-s-what-s-going-on#:~:text=House%20Bill%201296)
@@ -23,6 +24,8 @@
 * 01/23/2025 [The Center Square](/org/the_center_square/) - [Bill critics say undermines parents' bill of rights initiative gets a public hearing | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_76e798d8-d9dd-11ef-90a5-0bbc67903303.html#:~:text=HB%201296)
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201296)
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201296)
+* 04/01/2021 [Senate Democrats](/org/senate_democrats/) - [2025 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2025priorities/#:~:text=House%20Bill%201296)
+* [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201296)
 
 ## Meetings
 ### Thu 01/23 08:30 AM - Education (ED): HB 1296 Public education system

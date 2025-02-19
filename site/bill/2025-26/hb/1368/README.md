@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201368)
+
 ## Meetings
 ### Thu 02/20 04:00 PM - Transportation (TR): HB 1368 New special license plates
 Sign up to testify:
@@ -14,11 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32844&aId=164088&caId=25970&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32844&aId=164088&caId=25970&tId=4)
 
-#### 457 👍 - Pro
+#### 833 👍 - Pro
 Testifying:
 * Kate Van Gent - Seattle Metro Pickleball Association
 * Alyssa Hoyt - [Mount St. Helens Institute](/org/mount_st._helens_institute/)
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 4 ❓ - Other
+#### 8 ❓ - Other

@@ -7,19 +7,20 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201264)
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201264)
 
 ## Meetings
 ### Mon 02/17 04:00 PM - Transportation (TR): HB 1264 Ferry system salaries
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32842&aId=164079&caId=25966&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32842&aId=164079&caId=25966&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32842&aId=164079&caId=25966&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32842&aId=164079&caId=25966&tId=4)
-
-#### 2 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Amy Drayer - Islanders for Ferry Action
+* Chris Schneider - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
+* Eric Winge - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
+* Nick Twietmeyer - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
+* Greg Poor - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
+* Dan Twohig - International Association of Masters, Mates & Pilots
+* Felix Tapley - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
 
 #### 0 👎 - Con
 

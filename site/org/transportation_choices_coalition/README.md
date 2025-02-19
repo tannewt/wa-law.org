@@ -20,11 +20,15 @@
 
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 
-## [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
+### [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
+
+## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+* 👍💵 Kirk Hovenkotter
 
 ## 2023-24
 
-### [SB 5600](/bill/2023-24/sb/5600/) - TNCs/large-scale events 👍1  
+### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
+* 👍💵 Kirk Hovenkotter
 
 ### [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
 

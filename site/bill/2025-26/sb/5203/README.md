@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164382&caId=25890&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164382&caId=25890&tId=4)
 
-#### 340 👍 - Pro
+#### 580 👍 - Pro
 Testifying:
 * 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
 
-#### 5 👎 - Con
+#### 700 👎 - Con
+Testifying:
+* Anthony Holan
 
 #### 2 ❓ - Other
 Testifying:
