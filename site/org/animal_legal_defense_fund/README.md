@@ -22,12 +22,12 @@
 ### [HB 1775](/bill/2025-26/hb/1775/) - Fur products 👍2  
 * 👍 Cat Kelly
 
-## [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍3  
+## [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍4  
 * 👍 Cat Kelly
 
 ## 2023-24
 
-### [SB 5203](/bill/2023-24/sb/5203/) - Wildlife safe passages 👍3  
+### [SB 5203](/bill/2023-24/sb/5203/) - Wildlife safe passages 👍4  
 * 👍 Cat Kelly
 
 ### [HB 1153](/bill/2023-24/hb/1153/) - Octopus farming 👍2  

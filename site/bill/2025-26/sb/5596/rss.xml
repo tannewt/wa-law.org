@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5596/</link>
 		<description>Updates about SB 5596</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 06:48:03 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -61,6 +61,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Zackary/Turner/2025-02-11 06:48:03</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-18/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

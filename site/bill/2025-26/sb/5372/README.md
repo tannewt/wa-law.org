@@ -14,10 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164272&caId=25831&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164272&caId=25831&tId=4)
 
-#### 63 👍 - Pro
+#### 187 👍 - Pro
 Testifying:
 * CHELSEA UNRUH - None
 
-#### 1 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Mike Ennis - Building Industry Association of Washington (BIAW)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)

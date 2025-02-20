@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/18/2025 [The Center Square](/org/the_center_square/) - [WATCH: Bill dubbed by critics as the 'initiative killer' passed out of Senate committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d05294e4-ee51-11ef-85ec-37b7048af6da.html#:~:text=(SB%205181))
 * 02/16/2025 [The Center Square](/org/the_center_square/) - [Hundreds rally at Capitol to protect parental rights: ‘Enough is enough’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3759a090-ecbf-11ef-88cc-2b90955ea0c2.html#:~:text=Senate%20Bill%205181)
 * 02/11/2025 [Senate Democrats](/org/senate_democrats/) - [Working together to support students and their families - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/11/working-together-to-support-students-and-their-families/#:~:text=Senate%20Bill%205181)
 * 02/11/2025 [Senate Democrats](/org/senate_democrats/) - [Working together to support students and their families - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/02/11/working-together-to-support-students-and-their-families/#:~:text=Senate%20Bill%205181)

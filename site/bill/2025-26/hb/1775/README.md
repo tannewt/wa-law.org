@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/17/the-house-hot-sheet-for-week-6-of-the-2025-legislative-session/#:~:text=HB%201775)
+
 ## Meetings
 ### Tue 02/11 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1775 Fur products
 #### 333 👍 - Pro

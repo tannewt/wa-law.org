@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Tue 02/18 10:30 AM - Labor & Workplace Standards (LAWS): HB 1561 Domestic workers
-#### 495 👍 - Pro
+#### 500 👍 - Pro
 Testifying:
 * 💵Jean Hill - Washington State Catholic Conference
 * Ingrid Chapman
@@ -23,7 +23,7 @@ Testifying:
 * Elvia Cortes
 * Silvia Gonzalez
 
-#### 637 👎 - Con
+#### 638 👎 - Con
 Testifying:
 * Anthony Holan
 

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/17/2025 [The Urbanist](/org/the_urbanist/) - [State Bill Would Circumvent SPOG, Clear Path for Seattle Civilian Responder Expansion - The Urbanist](https://www.theurbanist.org/2025/02/17/state-bill-would-clear-path-for-seattle-civilian-responder-expansion/#:~:text=B%201816)

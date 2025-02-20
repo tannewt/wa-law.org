@@ -126,7 +126,7 @@
 
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
 
-### [SB 5490](/bill/2025-26/sb/5490/) - Providing parameters for conducting searches of transgender and intersex individuals confined in a local jail in compliance with federal law. 👍1  
+### [SB 5490](/bill/2025-26/sb/5490/) - Jail searches/gender 👍1  
 * 👍💵 Ethan Frenchman
 
 ### [SB 5499](/bill/2025-26/sb/5499/) - DOC body scanner program  👎1 

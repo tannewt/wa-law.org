@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/04/2025 [The Center Square](/org/the_center_square/) - [Washington lawmakers wrestle with juvenile correctional facility crisis | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_68867852-e32b-11ef-ba40-4bb880ec3e35.html#:~:text=Senate%20Bill%205278)

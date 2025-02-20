@@ -5,15 +5,17 @@
 * ❓💵 John Seng
 * ❓💵 John Seng
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍2  
 
 ### [HB 1804](/bill/2025-26/hb/1804/) - Community solar projects 👍1  
 
-## [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
+### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
+
+## [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
 
 ## 2023-24
 
-### [HB 1903](/bill/2023-24/hb/1903/) - Low-income energy assistance 👍1  
+### [SB 5380](/bill/2023-24/sb/5380/) - Environmental justice 👍1  
 
 ### [HB 1147](/bill/2023-24/hb/1147/) - Capital budget 👍1  
 * 👍💵 John Seng

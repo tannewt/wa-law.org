@@ -20,9 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164543&caId=25991&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164543&caId=25991&tId=4)
 
-#### 18 👍 - Pro
+#### 323 👍 - Pro
+Testifying:
+* Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 
-#### 40 👎 - Con
+#### 60 👎 - Con
 
 #### 1 ❓ - Other
 

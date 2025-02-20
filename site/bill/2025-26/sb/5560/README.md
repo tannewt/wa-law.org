@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Tue 02/18 01:30 PM - State Government & Elections (SGE): SB 5560 State clam
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Jamie Garner
 * David Berger
@@ -17,6 +17,8 @@ Testifying:
 * Dan Ayres
 * Karen DeWinter
 * Karen DeWinter
+* Chris Frank
+* Madeline Matson
 
 #### 1 👎 - Con
 

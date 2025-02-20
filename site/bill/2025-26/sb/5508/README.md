@@ -18,9 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164544&caId=25992&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164544&caId=25992&tId=4)
 
-#### 87 👍 - Pro
+#### 202 👍 - Pro
+Testifying:
+* Kim Justice - Partners for Our Children
+* Jennifer Justice
 
-#### 40 👎 - Con
+#### 420 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

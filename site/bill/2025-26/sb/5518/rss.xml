@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5518/</link>
 		<description>Updates about SB 5518</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Feb 2025 12:37:38 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Feb 2025 10:39:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -68,6 +68,14 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Steve/Ewing/2025-02-17 12:37:38</guid>
+		</item>
+		<item>
+			<title>👍Sean Eagan - The Northwest Seaport Alliance</title>
+			<description>Sean Eagan signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/the_northwest_seaport_alliance/"&gt;The Northwest Seaport Alliance&lt;/a&gt;.</description>
+			<pubDate>Tue, 18 Feb 2025 10:39:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sean/Eagan/2025-02-18 10:39:24</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,16 +8,21 @@
 
 ## Meetings
 ### Wed 02/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5754 Washington state public bank
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32828&aId=164570&caId=25989&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32828&aId=164570&caId=25989&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32828&aId=164570&caId=25989&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32828&aId=164570&caId=25989&tId=4)
+#### 135 👍 - Pro
+Testifying:
+* Kathryn Lewandowsky
+* 💵Marco Rossi - [Washingtonians for Public Banking](/org/washingtonians_for_public_banking/)
+* 💵Marco Rossi
+* KIM-KHANH VAN
 
-#### 14 👍 - Pro
-
-#### 567 👎 - Con
+#### 852 👎 - Con
 Testifying:
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
+* Sheila Christy
+* TaraLyn Fray
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
+* Anthony Holan
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Glen Simecek - [Washington Bankers Association](/org/washington_bankers_association/)

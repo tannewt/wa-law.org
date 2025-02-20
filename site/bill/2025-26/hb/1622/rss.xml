@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1622/</link>
 		<description>Updates about HB 1622</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 11:41:51 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -147,6 +147,34 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Andrew/Vander Stoep/2025-02-04 11:41:51</guid>
+		</item>
+		<item>
+			<title>The House Hot Sheet for Week 6 of the 2025 Legislative Session – Washington State House Democrats</title>
+			<description>News article "The House Hot Sheet for Week 6 of the 2025 Legislative Session – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/17/the-house-hot-sheet-for-week-6-of-the-2025-legislative-session/#:~:text=HB%201622</guid>
+		</item>
+		<item>
+			<title>LAWS - Executive action taken by committee.</title>
+			<description>LAWS - Executive action taken by committee.</description>
+			<pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-18/LAWS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-18/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Rep. Lisa Parshley: Give workers a voice on new technologies being introduced in their workspaces – Washington State House Democrats</title>
+			<description>News article "Rep. Lisa Parshley: Give workers a voice on new technologies being introduced in their workspaces – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/18/rep-lisa-parshley-give-workers-a-voice-on-new-technologies-being-introduced-in-their-workspaces/#:~:text=House%20Bill%201622</guid>
 		</item>
 	</channel>
 </rss>

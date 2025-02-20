@@ -65,6 +65,9 @@
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
 * 👍💵 Justin Allegro
 
+### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
+* 👍 Jamie Stroble
+
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
@@ -74,11 +77,15 @@
 
 ### [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
 
-## [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
+### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
+
+## [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users   ❓1
+* ❓💵 David Mendoza
 
 ## 2023-24
 
-### [SB 5592](/bill/2023-24/sb/5592/) - Zero emissions vehicles/sale 👍1  
+### [SB 5630](/bill/2023-24/sb/5630/) - Farm fuel users   ❓1
+* ❓💵 David Mendoza
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍5  
 

@@ -12,6 +12,23 @@
 * 01/20/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 2 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/20/the-house-hot-sheet-for-week-2-of-the-2025-legislative-session/#:~:text=HB%201183)
 
 ## Meetings
+### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1183 Building codes
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164748&caId=26038&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164748&caId=26038&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164748&caId=26038&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164748&caId=26038&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+
+#### 13 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+
 ### Thu 02/20 04:00 PM - Appropriations (APP): SHB 1183 Building codes
 Sign up to testify:
 * [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32860&aId=164625&caId=26016&tId=1)

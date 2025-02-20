@@ -54,6 +54,9 @@
 
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
 
+### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  
+* 👍💵 Cecelia Black
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers 👍1  

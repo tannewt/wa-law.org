@@ -11,7 +11,7 @@
 
 ## Meetings
 ### Tue 02/18 10:30 AM - Labor & Commerce (LC): SB 5756 Working minors
-#### 144 👍 - Pro
+#### 149 👍 - Pro
 Testifying:
 * April Sims - Washington State Labor Council, AFL-CIO
 * 💵Minna Long - Washington State Building & Construction Trades Council
@@ -20,7 +20,7 @@ Testifying:
 * Justin Bourgault - SMART Local 66
 * Mike Bridges - Longview/Kelso Building and Construction Trades Council
 
-#### 651 👎 - Con
+#### 652 👎 - Con
 Testifying:
 * 💵Michele Willms - Associated General Contractors (AGC)
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter

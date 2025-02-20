@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1964/</link>
 		<description>Updates about HB 1964</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Feb 2025 08:23:13 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Feb 2025 12:29:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -77,6 +77,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Anthony/Holan/2025-02-18 08:23:13</guid>
+		</item>
+		<item>
+			<title>❓Morgan Damerow - Washington State Office of the Attorney General</title>
+			<description>Morgan Damerow signed up to testify Other. They are signed up to represent Washington State Office of the Attorney General.</description>
+			<pubDate>Tue, 18 Feb 2025 10:00:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Morgan/Damerow/2025-02-18 10:00:58</guid>
+		</item>
+		<item>
+			<title>👎Anthony Stockman - Washington Coalition for Open Government</title>
+			<description>Anthony Stockman signed up to testify Con.</description>
+			<pubDate>Tue, 18 Feb 2025 12:29:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Anthony/Stockman/2025-02-18 12:29:06</guid>
 		</item>
 	</channel>
 </rss>

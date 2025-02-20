@@ -12,7 +12,7 @@
 
 ## Meetings
 ### Tue 02/18 01:30 PM - Consumer Protection & Business (CPB): HB 1834 Online services/minors
-#### 304 👍 - Pro
+#### 329 👍 - Pro
 Testifying:
 * 💵Radu Smintina - School's Out Washington
 * Adam Eitmann - [Office of the Attorney General](/org/office_of_the_attorney_general/)
@@ -27,10 +27,11 @@ Testifying:
 * MaryAnn Michaelis - MaryAnn Michaelis Counseling Services DBA Addo Recovery, and Coalition Protecting Childhood
 * Iain Corby - The Age Verification Providers Association
 
-#### 10 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * 💵Rose Feliciano - TechNet
 * Zach Lilly - NetChoice
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* Robert Singleton - Chamber of Progress
 
 #### 0 ❓ - Other

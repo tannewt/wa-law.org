@@ -1,12 +1,14 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1576](/bill/2025-26/hb/1576/)
 
-# HB 1576 - Concerning the designation of historic landmarks by cities.
+# HB 1576 - Historic landmarks/cities
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1576&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/19/2025 [The Urbanist](/org/the_urbanist/) - [Washington Legislature Wants to Rein In Historic Landmarking to Spur Housing - The Urbanist](https://www.theurbanist.org/2025/02/19/washington-legislature-wants-to-rein-in-historic-landmarking/#:~:text=House%20Bill%201576)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201576)
 
 ## Meetings

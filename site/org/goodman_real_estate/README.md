@@ -1,13 +1,16 @@
 # Goodman Real Estate
 ## 2025-26
 
-## [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
 * 👎 Audrey Riddle
+
+## [SB 5740](/bill/2025-26/sb/5740/) - Eviction reform 👍1  
+* 👍 Audrey Riddle
 
 ## 2023-24
 
-### [HB 1217](/bill/2023-24/hb/1217/) - Residential tenants  👎1 
-* 👎 Audrey Riddle
+### [SB 5740](/bill/2023-24/sb/5740/) - Eviction reform 👍1  
+* 👍 Audrey Riddle
 
 ### [HB 1124](/bill/2023-24/hb/1124/) - Residential rent and fees  👎1 
 * 👎 Audrey Riddle

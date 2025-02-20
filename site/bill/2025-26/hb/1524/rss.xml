@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1524/</link>
 		<description>Updates about HB 1524</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 06:22:36 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -88,6 +88,30 @@
 			<pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-12/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍💵Khalil Hamiduddin - SEIU6</title>
+			<description>Khalil Hamiduddin signed up to testify Pro. They are signed up to represent SEIU6. They are a registered lobbyist.</description>
+			<pubDate>Tue, 18 Feb 2025 11:02:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Khalil/Hamiduddin/2025-02-18 11:02:29</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - SEIU6</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Wed, 19 Feb 2025 05:57:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-02-19 05:57:02</guid>
+		</item>
+		<item>
+			<title>👎Anthony Holan - SEIU6</title>
+			<description>Anthony Holan signed up to testify Con.</description>
+			<pubDate>Wed, 19 Feb 2025 06:22:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Anthony/Holan/2025-02-19 06:22:36</guid>
 		</item>
 	</channel>
 </rss>

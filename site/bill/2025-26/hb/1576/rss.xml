@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1576 - Concerning the designation of historic landmarks by cities.</title>
+		<title>HB 1576 - Historic landmarks/cities</title>
 		<link>https://wa-law.org/bill/2025-26/hb/1576/</link>
 		<description>Updates about HB 1576</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 13 Feb 2025 15:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 16:57:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -109,6 +109,27 @@
 			<pubDate>Thu, 13 Feb 2025 15:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201576</guid>
+		</item>
+		<item>
+			<title>LG - Executive action taken by committee.</title>
+			<description>LG - Executive action taken by committee.</description>
+			<pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-18/LG - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-18/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Washington Legislature Wants to Rein In Historic Landmarking to Spur Housing - The Urbanist</title>
+			<description>News article "Washington Legislature Wants to Rein In Historic Landmarking to Spur Housing - The Urbanist" from The Urbanist.</description>
+			<pubDate>Wed, 19 Feb 2025 16:57:33 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2025/02/19/washington-legislature-wants-to-rein-in-historic-landmarking/#:~:text=House%20Bill%201576</guid>
 		</item>
 	</channel>
 </rss>

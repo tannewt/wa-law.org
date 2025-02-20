@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5175/</link>
 		<description>Updates about SB 5175</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Feb 2025 08:29:01 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Feb 2025 12:30:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -93,12 +93,28 @@
 			<guid isPermaLink="false">2025-02-10/Referred to Ways &amp; Means.</guid>
 		</item>
 		<item>
+			<title>👍Kaitlin Borstelmann - Washington Solar Energy Industries Association</title>
+			<description>Kaitlin Borstelmann signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_solar_energy_industries_association/"&gt;Washington Solar Energy Industries Association&lt;/a&gt;.</description>
+			<pubDate>Tue, 18 Feb 2025 02:19:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kaitlin/Borstelmann/2025-02-18 02:19:39</guid>
+		</item>
+		<item>
 			<title>👍Peter Lyon - Washington Department of Ecology, Solid Waste Management Program</title>
 			<description>Peter Lyon signed up to testify Pro. They are signed up to represent Washington Department of Ecology, Solid Waste Management Program.</description>
 			<pubDate>Tue, 18 Feb 2025 08:29:01 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Peter/Lyon/2025-02-18 08:29:01</guid>
+		</item>
+		<item>
+			<title>👎Anthony Stockman - Washington Department of Ecology, Solid Waste Management Program</title>
+			<description>Anthony Stockman signed up to testify Con.</description>
+			<pubDate>Tue, 18 Feb 2025 12:30:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Anthony/Stockman/2025-02-18 12:30:06</guid>
 		</item>
 	</channel>
 </rss>

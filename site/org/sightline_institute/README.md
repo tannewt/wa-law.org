@@ -6,7 +6,8 @@
 
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review 👍1  
 
-### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍1  
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍2  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ### [HB 1223](/bill/2025-26/hb/1223/) - Voter challenges 👍1  
@@ -20,7 +21,8 @@
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 
-### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings 👍2  
+### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings 👍3  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
@@ -32,7 +34,7 @@
 
 ### [HB 1552](/bill/2025-26/hb/1552/) - Real estate broker fee 👍1  
 
-### [HB 1576](/bill/2025-26/hb/1576/) - Concerning the designation of historic landmarks by cities. 👍1  
+### [HB 1576](/bill/2025-26/hb/1576/) - Historic landmarks/cities 👍1  
 * 👍💵 Dan Bertolet
 
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  

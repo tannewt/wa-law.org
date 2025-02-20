@@ -11,16 +11,14 @@
 
 ## Meetings
 ### Wed 02/19 10:30 AM - Housing (HSG): SB 5725 Housing on college lands
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164291&caId=25834&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164291&caId=25834&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164291&caId=25834&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164291&caId=25834&tId=4)
-
-#### 4 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Susan Boyd - [Bellwether Housing](/org/bellwether_housing/)
+* Lincoln Ferris - Seattle Central College
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Darrell Jennings - State Board for Community and Technical Colleges
+* Rosie Rimando-Chareunsap - Chancellor, Seattle Colleges

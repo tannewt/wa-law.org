@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164199&caId=25912&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164199&caId=25912&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 
-#### 2 👎 - Con
+#### 33 👎 - Con
 Testifying:
 * 💵Emmett Mills - Washington State School Retirees' Association
 

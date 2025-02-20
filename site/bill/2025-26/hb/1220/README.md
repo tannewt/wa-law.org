@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/18/2025 [KUOW](/org/kuow/) - [KUOW - Legislative carveout would change penalties for assaults on health care workers](https://www.kuow.org/stories/legislative-carveout-would-change-penalties-for-as#:~:text=HB%201220)
+
 ## Meetings
 ### Mon 02/03 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1220 Behavioral health/assaults
 #### 20 👍 - Pro

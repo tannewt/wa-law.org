@@ -24,12 +24,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164351&caId=25915&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164351&caId=25915&tId=4)
 
-#### 186 👍 - Pro
+#### 224 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Nicholas Carr - Office of the Governor
 
-#### 21 👎 - Con
+#### 22 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1127 - Modifying provisions of the revised uniform unclaimed property act.</title>
+		<title>HB 1127 - Unclaimed property</title>
 		<link>https://wa-law.org/bill/2025-26/hb/1127/</link>
 		<description>Updates about HB 1127</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Feb 2025 10:55:55 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -52,6 +52,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jennifer/Wallace/2025-02-10 10:55:55</guid>
+		</item>
+		<item>
+			<title>FIN - Executive action taken by committee.</title>
+			<description>FIN - Executive action taken by committee.</description>
+			<pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-18/FIN - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-18/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

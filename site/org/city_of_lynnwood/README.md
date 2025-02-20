@@ -17,7 +17,8 @@
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 
-### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓1
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓2
+* ❓ Karl Almgren
 * ❓ Karl Almgren
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓1

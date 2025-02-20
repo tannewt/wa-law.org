@@ -6,7 +6,7 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
-### [HB 1257](/bill/2025-26/hb/1257/) - Extending special education services to students with disabilities until the end of the school year in which the student turns 22. 👍1  
+### [HB 1257](/bill/2025-26/hb/1257/) - Special education services 👍1  
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 

@@ -35,7 +35,8 @@
 
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review   ❓2
 
-### [HB 1183](/bill/2025-26/hb/1183/) - Building codes   ❓1
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes   ❓2
+* ❓💵 Curtis Steinhauer
 * ❓💵 Curtis Steinhauer
 
 ### [HB 1188](/bill/2025-26/hb/1188/) - Requiring local government and tribal approval of wind and solar siting recommendations by the energy facility site evaluation council. 👍1  

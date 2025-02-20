@@ -66,6 +66,8 @@
 
 ### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use 👍1  
 
+### [HB 1723](/bill/2025-26/hb/1723/) - School construction projects 👍1  
+
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards 👍1  
 * 👍 David Carney
 

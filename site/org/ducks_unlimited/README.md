@@ -8,13 +8,15 @@
 * 👎💵 Matt Little
 * 👎 Edward May
 
-## [HB 1930](/bill/2025-26/hb/1930/) - Fish and wildlife commission 👍1  
+## [HB 1930](/bill/2025-26/hb/1930/) - Fish and wildlife commission 👍2  
 * 👍 Edward May
+* 👍 Kirk Struble
 
 ## 2023-24
 
-### [HB 1930](/bill/2023-24/hb/1930/) - Fish and wildlife commission 👍1  
+### [HB 1930](/bill/2023-24/hb/1930/) - Fish and wildlife commission 👍2  
 * 👍 Edward May
+* 👍 Kirk Struble
 
 ### [HB 2118](/bill/2023-24/hb/2118/) - Firearms dealers  👎1 
 

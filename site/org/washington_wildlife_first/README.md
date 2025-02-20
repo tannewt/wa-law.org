@@ -9,6 +9,12 @@
 ### [HB 1442](/bill/2025-26/hb/1442/) - Gray wolf management  👎1 
 * 👎 Dr. Francisco Santiago-Ávila
 
+### [HB 1685](/bill/2025-26/hb/1685/) - Fish and wildlife governance 👍1  
+* 👍 Claire Davis
+
+### [HB 1930](/bill/2025-26/hb/1930/) - Fish and wildlife commission  👎1 
+* 👎 Dr. Francisco Santiago-Ávila
+
 ### [SB 5152](/bill/2025-26/sb/5152/) - Concerning state employee access to peer-reviewed journals. 👍1  
 * 👍 Francisco Santiago-Ávila
 

@@ -11,14 +11,17 @@
 
 ## Meetings
 ### Wed 02/19 10:30 AM - Housing (HSG): SB 5747 Affordable housing/exemption
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164522&caId=25975&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164522&caId=25975&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164522&caId=25975&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164522&caId=25975&tId=4)
+#### 201 👍 - Pro
+Testifying:
+* Sheila Christy
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 71 👍 - Pro
+#### 12 👎 - Con
+Testifying:
+* Tim Woodard - Washington Assn. of Building Officials
 
-#### 7 👎 - Con
-
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Jay Arnold - Washington State Building Code Council
+* Dustin Curb - Washington State Building Code Council
+* Jay Arnold - State Building Code Council

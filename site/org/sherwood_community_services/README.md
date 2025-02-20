@@ -3,7 +3,7 @@
 
 ### [HB 1158](/bill/2025-26/hb/1158/) - Community inclusion services  👎4 
 
-### [HB 1257](/bill/2025-26/hb/1257/) - Extending special education services to students with disabilities until the end of the school year in which the student turns 22. 👍1  
+### [HB 1257](/bill/2025-26/hb/1257/) - Special education services 👍1  
 * 👍💵 Lance Morehouse
 
 ### [HB 1344](/bill/2025-26/hb/1344/) - Respite care 👍2  

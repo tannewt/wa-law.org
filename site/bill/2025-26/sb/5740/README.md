@@ -11,16 +11,24 @@
 
 ## Meetings
 ### Wed 02/19 10:30 AM - Housing (HSG): SB 5740 Eviction reform
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164467&caId=25837&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164467&caId=25837&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164467&caId=25837&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164467&caId=25837&tId=4)
+#### 290 👍 - Pro
+Testifying:
+* Audrey Riddle - [Goodman Real Estate](/org/goodman_real_estate/)
+* Cory Brewer - WPM NW Inc.
+* Sheila Christy
+* Tad Sommerville
 
-#### 61 👍 - Pro
-
-#### 413 👎 - Con
+#### 825 👎 - Con
 Testifying:
 * Kerri Burnside - Bellingham Tenants Union
+* Robert Hurn
+* Barry Harris
+* Talauna Reed - Tenants Union of Washington State
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Christopher Brunetti - [Northwest Justice Project](/org/northwest_justice_project/)
+* Terri Anderson - Tenants Union of Washington State
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Jonathan Mallahan - Catholic Charities of Eastern Washington
+* Philippe Knab - The Washington State Office of Civil Legal AId

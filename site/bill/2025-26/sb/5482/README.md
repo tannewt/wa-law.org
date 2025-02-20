@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/18/2025 [MyNorthwest](/org/mynorthwest/) - [Local law enforcement can't use dogs to find bad bears, wolves, cougars under new bill](https://mynorthwest.com/mynorthwest-politics/new-bill/4047684#:~:text=Senate%20Bill%205482)
+
 ## Meetings
 ### Mon 02/17 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5482 Use of dogs to hunt
 #### 329 👍 - Pro

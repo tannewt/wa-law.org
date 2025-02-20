@@ -16,7 +16,7 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍7  
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍2  
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍4  
 

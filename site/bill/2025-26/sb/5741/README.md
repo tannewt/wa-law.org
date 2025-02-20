@@ -8,16 +8,14 @@
 
 ## Meetings
 ### Wed 02/19 10:30 AM - Housing (HSG): SB 5741 Housing court commissioners
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164468&caId=25838&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164468&caId=25838&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164468&caId=25838&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164468&caId=25838&tId=4)
-
-#### 12 👍 - Pro
+#### 106 👍 - Pro
 Testifying:
 * Carter Nelson - Washington Multifamily Housing Association
+* Judge Sean O'Donnell - Superior Court Judges' Association
+* Audrey Riddle
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Tad Sommerville
 
 #### 0 ❓ - Other

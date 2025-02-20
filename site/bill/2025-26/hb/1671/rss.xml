@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1671/</link>
 		<description>Updates about HB 1671</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -225,6 +225,20 @@
 			<pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-14/TEDV - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Kloba’s People’s Privacy Act Clears Committee – Washington State House Democrats</title>
+			<description>News article "Kloba’s People’s Privacy Act Clears Committee – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/14/klobas-peoples-privacy-act-clears-committee/#:~:text=To%20learn%20more%20about%20the%20People’s%20Privacy%20Act,%20click%20here.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-18/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

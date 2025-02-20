@@ -11,13 +11,13 @@
 
 ## Meetings
 ### Tue 02/18 10:30 AM - Labor & Workplace Standards (LAWS): HB 1875 Sick leave/immigration
-#### 107 👍 - Pro
+#### 108 👍 - Pro
 Testifying:
 * Danielle Alvarado - [Fair Work Center](/org/fair_work_center/)
 * 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 * Guillermo Zazueta - OneAmerica
 
-#### 823 👎 - Con
+#### 826 👎 - Con
 Testifying:
 * Lance Eggers
 * Georgia Brinkley - Citizen

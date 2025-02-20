@@ -9,19 +9,15 @@
 
 ## Meetings
 ### Tue 02/18 04:00 PM - Ways & Means (WM): SSB 5203 Wildlife safe passages
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164382&caId=25890&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164382&caId=25890&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164382&caId=25890&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164382&caId=25890&tId=4)
-
-#### 580 👍 - Pro
+#### 597 👍 - Pro
 Testifying:
 * 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
+* Claudine Reynolds - Port Blakely Tree Farms
 
-#### 700 👎 - Con
+#### 734 👎 - Con
 Testifying:
 * Anthony Holan
+* Anthony Stockman
 
 #### 2 ❓ - Other
 Testifying:

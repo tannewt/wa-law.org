@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1696/</link>
 		<description>Updates about HB 1696</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Feb 2025 12:02:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -130,6 +130,13 @@
 			<pubDate>Wed, 12 Feb 2025 12:02:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_9e074162-e8eb-11ef-8315-531e743c69af.html#:~:text=House%20Bill%201696</guid>
+		</item>
+		<item>
+			<title>HOUS - Executive action taken by committee.</title>
+			<description>HOUS - Executive action taken by committee.</description>
+			<pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-18/HOUS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

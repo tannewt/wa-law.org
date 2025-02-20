@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164636&caId=26014&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164636&caId=26014&tId=4)
 
-#### 14 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * 💵Devin Gombosky - ESD 105 Schools Coalition
 * Jim Kowalkowski - Rural Education Center
 * Steve Jantz - Keller School District
 * Dr. Ann Varkados - yes, Lyle and Centerville school districts
 * Lynn Scharff - Great Northern School District
+* Dr. Ann Varkados - Lyle and Centerville school districts
 
 #### 0 👎 - Con
 

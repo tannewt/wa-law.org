@@ -19,9 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164633&caId=26011&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164633&caId=26011&tId=4)
 
-#### 11 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* 💵Khalil Hamiduddin - SEIU6
 
-#### 467 👎 - Con
+#### 677 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Anthony Holan
 
 #### 0 ❓ - Other
 

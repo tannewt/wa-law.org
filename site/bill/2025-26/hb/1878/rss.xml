@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1878/</link>
 		<description>Updates about HB 1878</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Feb 2025 23:02:16 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 12:13:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2025-02-07/First reading, referred to Transportation.</guid>
 		</item>
 		<item>
-			<title>👎David Sedelmeier - Not Dead Yet</title>
+			<title>👎David Sedelmeier - AAA Washington</title>
 			<description>David Sedelmeier signed up to testify Con.</description>
 			<pubDate>Thu, 13 Feb 2025 09:50:50 GMT</pubDate>
 			<category>testifier</category>
@@ -36,6 +36,54 @@
 			<pubDate>Fri, 14 Feb 2025 23:02:16 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201878</guid>
+		</item>
+		<item>
+			<title>👍Melissa Pace - Not Dead Yet</title>
+			<description>Melissa Pace signed up to testify Pro.</description>
+			<pubDate>Tue, 18 Feb 2025 04:58:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Melissa/Pace/2025-02-18 04:58:38</guid>
+		</item>
+		<item>
+			<title>❓Mark McKechnie - Washington Traffic Safety Commission</title>
+			<description>Mark McKechnie signed up to testify Other. They are signed up to represent Washington Traffic Safety Commission.</description>
+			<pubDate>Tue, 18 Feb 2025 05:10:53 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Mark/McKechnie/2025-02-18 05:10:53</guid>
+		</item>
+		<item>
+			<title>❓Alex Hansen - President, Washington Traffic Safety Education Association</title>
+			<description>Alex Hansen signed up to testify Other. They are signed up to represent President, Washington Traffic Safety Education Association.</description>
+			<pubDate>Tue, 18 Feb 2025 08:29:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Alex/Hansen/2025-02-18 08:29:13</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - AAA Washington</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Wed, 19 Feb 2025 06:00:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-02-19 06:00:41</guid>
+		</item>
+		<item>
+			<title>👎Anthony Holan - AAA Washington</title>
+			<description>Anthony Holan signed up to testify Con.</description>
+			<pubDate>Wed, 19 Feb 2025 06:23:36 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Anthony/Holan/2025-02-19 06:23:36</guid>
+		</item>
+		<item>
+			<title>👍💵Mellani Mcaleenan - AAA Washington</title>
+			<description>Mellani Mcaleenan signed up to testify Pro. They are signed up to represent AAA Washington. They are a registered lobbyist.</description>
+			<pubDate>Wed, 19 Feb 2025 12:13:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mellani/Mcaleenan/2025-02-19 12:13:20</guid>
 		</item>
 	</channel>
 </rss>

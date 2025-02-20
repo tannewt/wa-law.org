@@ -8,17 +8,20 @@
 
 ## Meetings
 ### Tue 02/18 01:30 PM - State Government & Tribal Relations (SGOV): HB 1964 Lists of individuals/PRA
-#### 36 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * Jennifer Gregerson - [City of Everett](/org/city_of_everett/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 1166 👎 - Con
+#### 1188 👎 - Con
 Testifying:
 * Richard Varn - Coalition for Sensible Public Records Access
 * Katherine George
 * Colette Weeks - [Washington Coalition for Open Government](/org/washington_coalition_for_open_government/)
 * Anthony Holan
+* Anthony Stockman
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Morgan Damerow - Washington State Office of the Attorney General

@@ -3,6 +3,8 @@
 
 ### [HB 1056](/bill/2025-26/hb/1056/) - Law enf. misconduct 👍1  
 
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
+
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
@@ -22,7 +24,7 @@
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
-### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
+### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍2  
 
 ### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍1  
 

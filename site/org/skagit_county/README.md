@@ -15,6 +15,9 @@
 * ❓ Will Honea
 * ❓ Peter Browning
 
+### [SB 5283](/bill/2025-26/sb/5283/) - Prohibiting the energy facility site evaluation council from preempting local laws that forbid the siting of certain storage facilities in critical areas. 👍1  
+* 👍 Commissioner Peter Browning
+
 ### [SB 5384](/bill/2025-26/sb/5384/) - Riparian programs review 👍1  
 
 ## [SB 5475](/bill/2025-26/sb/5475/) - Salmon recovery maintenance 👍1  

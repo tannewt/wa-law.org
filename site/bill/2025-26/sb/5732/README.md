@@ -17,19 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32875&aId=164523&caId=25976&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32875&aId=164523&caId=25976&tId=4)
 
-#### 81 👍 - Pro
+#### 92 👍 - Pro
 
-#### 5 👎 - Con
+#### 60 👎 - Con
 
 #### 0 ❓ - Other
 
 ### Wed 02/19 10:30 AM - Housing (HSG): SB 5732 Housing supply/GMA
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164466&caId=25836&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164466&caId=25836&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164466&caId=25836&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32874&aId=164466&caId=25836&tId=4)
-
 #### 1 👍 - Pro
 
 #### 0 👎 - Con

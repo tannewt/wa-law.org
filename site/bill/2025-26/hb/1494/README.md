@@ -17,8 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163935&caId=25939&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163935&caId=25939&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* 💵David Toyer - Washington Housing Development
 
-#### 52 👎 - Con
+#### 464 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Brian Gregory
 
 #### 0 ❓ - Other

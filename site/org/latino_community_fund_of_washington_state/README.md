@@ -16,6 +16,8 @@
 
 ### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
 
+### [HB 1368](/bill/2025-26/hb/1368/) - New special license plates 👍1  
+
 ### [HB 1381](/bill/2025-26/hb/1381/) - Elections/language assist. 👍2  
 * 👍💵 Jake García
 

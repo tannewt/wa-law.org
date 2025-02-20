@@ -69,6 +69,9 @@
 
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎1 
 
+### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax  👎1 
+* 👎💵 Crystal Leatherman
+
 ### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers  👎1 
 * 👎💵 Crystal Leatherman
 
@@ -129,7 +132,8 @@
 
 ### [HB 1874](/bill/2025-26/hb/1874/) - Textured hair training 👍1  
 
-### [HB 1887](/bill/2025-26/hb/1887/) - Data broker registry & tax  👎1 
+### [HB 1887](/bill/2025-26/hb/1887/) - Data broker registry & tax  👎2 
+* 👎💵 Crystal Leatherman
 * 👎💵 Crystal Leatherman
 
 ### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  

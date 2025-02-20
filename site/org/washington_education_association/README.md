@@ -259,7 +259,7 @@
 
 ### [HB 1822](/bill/2025-26/hb/1822/) - Establishing a driver work zone and first responder safety course requirement. 👍1  
 
-### [HB 1827](/bill/2025-26/hb/1827/) - Concerning the effective delivery and administration of basic education services to justice-involved students. 👍1  
+### [HB 1827](/bill/2025-26/hb/1827/) - Basic education/juv. justice 👍1  
 * 👍💵 Simone Boe
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎10 
@@ -315,7 +315,8 @@
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
-### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍1  
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍2  
+* 👍 Jared Mason-Gere
 * 👍 Jared Mason-Gere
 
 ### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans   ❓1

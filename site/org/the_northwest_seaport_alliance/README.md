@@ -24,13 +24,17 @@
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
 * ❓ John Wolfe
 
-## [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment  👎1 
+### [SB 5518](/bill/2025-26/sb/5518/) - Sales tax sourcing impact 👍1  
+* 👍 Sean Eagan
+
+### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment  👎1 
 * 👎 Sean Eagan
+
+## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 
 ## 2023-24
 
-### [SB 5519](/bill/2023-24/sb/5519/) - Ocean vessels/environment  👎1 
-* 👎 Sean Eagan
+### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
 
 ### [HB 1058](/bill/2023-24/hb/1058/) - Commercial driver's licenses 👍1  
 

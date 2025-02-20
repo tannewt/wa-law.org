@@ -14,16 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163951&caId=25942&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163951&caId=25942&tId=4)
 
-#### 15 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 * Ben Wick - Councilmember, City of Spokane Valley
 * Neal Black - Councilmember, City of Kirkland
 
-#### 2 👎 - Con
+#### 69 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 02/07 01:30 PM - Finance (FIN): HB 1095 Law enforcement funding
 #### 1 👍 - Pro

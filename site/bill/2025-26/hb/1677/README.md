@@ -11,7 +11,7 @@
 
 ## Meetings
 ### Tue 02/18 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1677 Postsecondary/med. abortion
-#### 850 👍 - Pro
+#### 887 👍 - Pro
 Testifying:
 * Rosie Ying
 * Emily Cuarenta - Advocates for Youth
@@ -23,11 +23,14 @@ Testifying:
 * Tamara Marzouk - Advocates for Youth
 * Charlie Brenner - Advocates for Youth
 
-#### 2654 👎 - Con
+#### 2793 👎 - Con
 Testifying:
 * Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 * 💵Jean Hill - Washington State Catholic Conference
 * Theresa Schrempp
 * Anthony Holan
+* Mary Connerotn
+* Sharon Damoff
+* Anthony Stockman
 
 #### 0 ❓ - Other

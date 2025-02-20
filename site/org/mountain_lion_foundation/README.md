@@ -4,6 +4,9 @@
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍2  
 * 👍 Josh Rosenau
 
+### [HB 1685](/bill/2025-26/hb/1685/) - Fish and wildlife governance   ❓1
+* ❓ Josh Rosenau
+
 ### [HB 1930](/bill/2025-26/hb/1930/) - Fish and wildlife commission   ❓1
 * ❓ Josh Rosenau
 

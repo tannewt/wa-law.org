@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32802&aId=164322&caId=25925&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32802&aId=164322&caId=25925&tId=4)
 
-#### 45 👍 - Pro
+#### 50 👍 - Pro
 Testifying:
 * Scott mckinley
 * JFerrich Oba - Black Excellence In Cannabis
@@ -26,8 +26,9 @@ Testifying:
 * Caitlein Ryan - THE CANNABIS ALLIANCE
 * Bryan Mathis
 * Mary White
+* Charlotte “Lotta” Brathwaite - The Bakersmen Collective
 
-#### 5 👎 - Con
+#### 58 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention

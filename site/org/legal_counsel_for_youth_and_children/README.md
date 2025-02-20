@@ -5,6 +5,8 @@
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍1  
+
 ### [HB 1138](/bill/2025-26/hb/1138/) - Improving public safety by implementing evidence-based interview practices that increase the reliability of statements collected during criminal investigations. 👍1  
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
@@ -25,7 +27,7 @@
 
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
 
-### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 

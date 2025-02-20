@@ -28,6 +28,8 @@
 ### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍1  
 * 👍💵 Emily Brice
 
+### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  
+
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 * 👍💵 Emily Brice
 

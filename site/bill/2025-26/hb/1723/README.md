@@ -17,14 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164352&caId=25916&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164352&caId=25916&tId=4)
 
-#### 19 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 
-#### 178 👎 - Con
+#### 596 👎 - Con
 Testifying:
 * Charlie Brown - Schools Coalition
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * Angelica Duncan - Hi Grade Asphalt & Seal Coat Inc
+* TaraLyn Fray
+* Jerry VanderWood - AGC and WA Construction Industry Council (WCIC)
+* Brian Gregory
 
 #### 0 ❓ - Other

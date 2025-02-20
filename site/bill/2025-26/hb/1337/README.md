@@ -13,7 +13,7 @@
 
 ## Meetings
 ### Tue 02/18 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1337 Higher education presidents
-#### 7 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Jacob Vigdor - University of Washington Faculty/COF
 * Sam Ligon - Eastern Washington University Faculty/COF
@@ -22,6 +22,8 @@ Testifying:
 * Amy Hagopian - UW Chapter, American Association of University Professors
 * 💵Collin Bannister - Associated Students of Washington State University
 * 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
+* Chris Mulick - Washington State University
+* Joe Dacca - [University of Washington](/org/university_of_washington/)
 
 #### 8 👎 - Con
 

@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32801&aId=164423&caId=25924&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32801&aId=164423&caId=25924&tId=4)
 
-#### 324 👍 - Pro
+#### 381 👍 - Pro
 Testifying:
 * Marsha Cutting
+* Matt Thompson
 * Burke Stansbury
+* 💵Cecelia Black - [Disability Rights Washington](/org/disability_rights_washington/)
 
 #### 0 👎 - Con
 

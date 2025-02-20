@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1497/</link>
 		<description>Updates about HB 1497</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Feb 2025 08:01:49 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 09:20:58 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -162,6 +162,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Heather/Trim/2025-02-17 08:01:49</guid>
+		</item>
+		<item>
+			<title>👍Kate White Tudor - Natural Resources Defense Council</title>
+			<description>Kate White Tudor signed up to testify Pro. They are signed up to represent Natural Resources Defense Council.</description>
+			<pubDate>Tue, 18 Feb 2025 05:23:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kate White/Tudor/2025-02-18 05:23:56</guid>
+		</item>
+		<item>
+			<title>👍Rick Vahl - Waste Connections</title>
+			<description>Rick Vahl signed up to testify Pro. They are signed up to represent Waste Connections.</description>
+			<pubDate>Wed, 19 Feb 2025 09:20:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rick/Vahl/2025-02-19 09:20:58</guid>
 		</item>
 	</channel>
 </rss>

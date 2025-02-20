@@ -18,7 +18,7 @@
 
 ### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements 👍1  
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍2  
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 
@@ -90,6 +90,9 @@
 * 👍💵 Leah Missik
 
 ### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels   ❓1
+* ❓💵 Leah Missik
+
+### [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users   ❓1
 * ❓💵 Leah Missik
 
 ### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎1 

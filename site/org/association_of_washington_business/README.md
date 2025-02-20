@@ -161,6 +161,9 @@
 
 ### [HB 1414](/bill/2025-26/hb/1414/) - CTE careers work group 👍1  
 
+### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax  👎1 
+* 👎 Max Martin
+
 ### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program  👎1 
 
 ### [HB 1430](/bill/2025-26/hb/1430/) - APRN & PA reimbursement  👎1 
@@ -199,7 +202,7 @@
 
 ### [HB 1572](/bill/2025-26/hb/1572/) - Higher ed. accreditation 👍1  
 
-### [HB 1576](/bill/2025-26/hb/1576/) - Concerning the designation of historic landmarks by cities. 👍1  
+### [HB 1576](/bill/2025-26/hb/1576/) - Historic landmarks/cities 👍1  
 
 ### [HB 1582](/bill/2025-26/hb/1582/) - Concerning child care centers operated in existing buildings. 👍1  
 
@@ -515,6 +518,9 @@
 
 ### [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits 👍1  
 
+### [SB 5622](/bill/2025-26/sb/5622/) - Diet pills and supplements  👎1 
+* 👎💵 Peter Godlewski
+
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎1 
 * 👎💵 Lindsey Hueer
 
@@ -538,6 +544,8 @@
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue   ❓1
 * ❓💵 Morgan Irwin
+
+### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank  👎1 
 
 ## [SB 5756](/bill/2025-26/sb/5756/) - Working minors  👎1 
 

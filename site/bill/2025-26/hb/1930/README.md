@@ -11,24 +11,39 @@
 
 ## Meetings
 ### Wed 02/19 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1930 Fish and wildlife commission
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32817&aId=163946&caId=25902&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32817&aId=163946&caId=25902&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32817&aId=163946&caId=25902&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32817&aId=163946&caId=25902&tId=4)
-
-#### 729 👍 - Pro
+#### 1162 👍 - Pro
 Testifying:
 * Kelsey Ross
 * Dane Czarnecki - --select an item--
 * Brennan Gray
 * Ryan Garrett
 * Edward May - [Ducks Unlimited](/org/ducks_unlimited/)
+* Bruce Vandervort - Washington State Trappers Association
+* Kirk Struble - [Ducks Unlimited](/org/ducks_unlimited/)
+* TaraLyn Fray
+* Sheila Christy
+* Mark Charlton
+* Andrew Meulman
+* RICHARD BRATCHER
 
-#### 100 👎 - Con
+#### 133 👎 - Con
 Testifying:
 * Brandon Warner
+* Ronald Reed - Retired
+* John Roskelley
+* Rachel Haymon
+* David Linn
+* Rachel Bjork - Speak for Wolves
+* David Moskowitz - The Conservation Angler
+* Bob McCoy
+* Dr. Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
+* Liz Carr - Kettle Range Conservation Group
+* J Rosapepe - Endangered Species Coalition
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Josh Rosenau - [Mountain Lion Foundation](/org/mountain_lion_foundation/)
+* Ann Prezyna - self
+* 💵Alexei Calambokidis - [Trout Unlimited](/org/trout_unlimited/)
+* Jen Syrowitz - [Conservation Northwest](/org/conservation_northwest/)
+* Nello Picinich - CCA Washington

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Clash in WA Legislature over proposal to add rules for initiative signers • Washington State Standard](https://washingtonstatestandard.com/2025/02/19/clash-in-wa-legislature-over-proposal-to-add-rules-for-initiative-signers/#:~:text=Senate%20Bill%205382)
+* 02/18/2025 [The Center Square](/org/the_center_square/) - [WATCH: Bill dubbed by critics as the 'initiative killer' passed out of Senate committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d05294e4-ee51-11ef-85ec-37b7048af6da.html#:~:text=SB%205382,)
+* 02/17/2025 [Senate Republicans](/org/senate_republicans/) - [Bill that would sabotage the initiative process voted out of committee today - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-sabotage-initiative-process-voted-committee-tomorrow/#:~:text=Senate%20Bill%205382)
 * 02/07/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: K-12 learning loss leaving our kids behind - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-k-12-learning-loss-leaving-kids-behind/#:~:text=SB%205382)
 * 02/05/2025 [KIRO7](/org/kiro7/) - [WA Senate Democrats propose stricter regulations for ballot measure initiatives – KIRO 7 News Seattle](https://www.kiro7.com/news/local/wa-senate-democrats-propose-stricter-regulations-ballot-measure-initiatives/GBAGXOLRPJFBPHH2GTQL3A26BQ/#:~:text=Senate%20Bill%205382)
 * 02/05/2025 [The Center Square](/org/the_center_square/) - [Controversial initiative bill gets mixed testimony | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8b506c58-e3e4-11ef-ad15-f35b88b3a556.html#:~:text=Senate%20Bill%205382)

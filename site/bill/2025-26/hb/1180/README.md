@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1180](/bill/2025-26/hb/1180/)
 
-# HB 1180 - Implementing certain recommendations from the sex offender policy board concerning the criminal offense of failure to register.
+# HB 1180 - Sex offender failure to reg.
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1180&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201180)

@@ -17,8 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32875&aId=164471&caId=25839&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32875&aId=164471&caId=25839&tId=4)
 
-#### 7 👍 - Pro
+#### 9 👍 - Pro
 
-#### 426 👎 - Con
+#### 842 👎 - Con
+Testifying:
+* Terri Anderson - Tenants Union of Washington State
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Terri Anderson - Tenants Union of Washington State
 
 #### 1 ❓ - Other

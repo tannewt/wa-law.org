@@ -17,6 +17,8 @@
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 
+### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
+
 ### [SB 5298](/bill/2025-26/sb/5298/) - Mobile home community sale 👍2  
 * 👍 Victoria OBanion
 * 👍 Victoria OBanion

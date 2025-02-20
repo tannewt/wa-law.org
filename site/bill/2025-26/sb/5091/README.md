@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32821&aId=164553&caId=25979&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32821&aId=164553&caId=25979&tId=4)
 
-#### 324 👍 - Pro
+#### 556 👍 - Pro
 Testifying:
 * Eric Badger - [Lynden Incorporated](/org/lynden_incorporated/)
 * Steve Gordon - Gordon Truck Centers
@@ -22,8 +22,19 @@ Testifying:
 * Brett Ferullo - Northwest Construction, Inc.
 * Jeff Ten Pas - BAI Environmental Services
 * Jerry VanderWood - AGC of Washington
+* Carl Hergart - PACCAR Inc.
+* Sean Waters - Daimler Truck North America
+* 💵Sheri Call - [Washington Trucking Association](/org/washington_trucking_association/)
+* John Barnes - TEC Equipment
+* Olen Hunter - Dobbs Truck Group
+* Steve Gordon - Freightliner Northwest/Gordon Truck Centers Inc.
+* Eric Badger - Lynden Transport / Milky Way
+* Jim Contreras - Ryder
+* Mike Chester - Peninsula Truck Lines
+* Corey Daniels - Papé Kenworth
+* Joel Bouchey
 
-#### 64 👎 - Con
+#### 155 👎 - Con
 Testifying:
 * Jeffrey Pack - Me
 

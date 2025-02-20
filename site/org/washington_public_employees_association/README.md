@@ -28,6 +28,10 @@
 
 ### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval  👎1 
 
+### [HB 1934](/bill/2025-26/hb/1934/) - Employment investigation/PRA 👍1  
+
+### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
 ### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  

@@ -63,6 +63,9 @@
 ### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels   ❓1
 * ❓ Caitlin Krenn
 
+### [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users   ❓1
+* ❓💵 Clifford Traisman
+
 ## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎1 
 
 ## 2023-24

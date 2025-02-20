@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5372/</link>
 		<description>Updates about SB 5372</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Feb 2025 10:24:57 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Feb 2025 07:16:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/CHELSEA/UNRUH/2025-02-14 10:24:57</guid>
+		</item>
+		<item>
+			<title>❓Sam Hatzenbeler - Economic Opportunity Institute</title>
+			<description>Sam Hatzenbeler signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/economic_opportunity_institute/"&gt;Economic Opportunity Institute&lt;/a&gt;.</description>
+			<pubDate>Tue, 18 Feb 2025 01:57:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Sam/Hatzenbeler/2025-02-18 01:57:35</guid>
+		</item>
+		<item>
+			<title>👎Mike Ennis - Building Industry Association of Washington (BIAW)</title>
+			<description>Mike Ennis signed up to testify Con. They are signed up to represent Building Industry Association of Washington (BIAW).</description>
+			<pubDate>Tue, 18 Feb 2025 07:16:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mike/Ennis/2025-02-18 07:16:04</guid>
 		</item>
 	</channel>
 </rss>

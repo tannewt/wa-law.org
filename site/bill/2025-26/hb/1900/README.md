@@ -18,4 +18,6 @@ Testifying:
 * DeeDee Anderson - [Washington Bankers Association](/org/washington_bankers_association/)
 * 💵Bill Stauffacher - [Securities Industry and Financial Markets Association](/org/securities_industry_and_financial_markets_association/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Joe Adamack - Washington's Credit Unions - GoWest Credit Union Association

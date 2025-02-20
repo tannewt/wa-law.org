@@ -9,7 +9,7 @@
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 
-### [HB 1257](/bill/2025-26/hb/1257/) - Extending special education services to students with disabilities until the end of the school year in which the student turns 22. 👍1  
+### [HB 1257](/bill/2025-26/hb/1257/) - Special education services 👍1  
 
 ### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
 

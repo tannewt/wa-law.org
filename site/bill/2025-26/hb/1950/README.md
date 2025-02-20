@@ -14,8 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164607&caId=26001&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164607&caId=26001&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* 💵Heather Kurtenbach - Washington State Building and Construction Trades
 
-#### 45 👎 - Con
+#### 444 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Brian Gregory
 
 #### 0 ❓ - Other

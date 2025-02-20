@@ -13,6 +13,19 @@
 * 04/01/2021 [Senate Democrats](/org/senate_democrats/) - [2025 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2025priorities/#:~:text=House%20Bill%201085)
 
 ## Meetings
+### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1085 School safety/penalties
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164747&caId=26037&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164747&caId=26037&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164747&caId=26037&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164747&caId=26037&tId=4)
+
+#### 3 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/20 04:00 PM - Appropriations (APP): SHB 1085 School safety/penalties
 Sign up to testify:
 * [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32860&aId=164624&caId=26015&tId=1)

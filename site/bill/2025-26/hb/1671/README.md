@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/14/2025 [House Democrats](/org/house_democrats/) - [Kloba’s People’s Privacy Act Clears Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/14/klobas-peoples-privacy-act-clears-committee/#:~:text=To%20learn%20more%20about%20the%20People’s%20Privacy%20Act,%20click%20here.)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201671)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201671)
 

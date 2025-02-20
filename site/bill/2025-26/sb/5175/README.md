@@ -9,17 +9,14 @@
 
 ## Meetings
 ### Tue 02/18 04:00 PM - Ways & Means (WM): SSB 5175 Photovoltaic modules
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164384&caId=25892&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164384&caId=25892&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164384&caId=25892&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164384&caId=25892&tId=4)
-
-#### 24 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
+* Kaitlin Borstelmann - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 
-#### 130 👎 - Con
+#### 147 👎 - Con
+Testifying:
+* Anthony Stockman
 
 #### 0 ❓ - Other
 

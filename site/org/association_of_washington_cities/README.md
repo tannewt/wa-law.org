@@ -35,7 +35,7 @@
 
 ### [HB 1126](/bill/2025-26/hb/1126/) - Standardizing notification provisions relating to local tax rate changes and shared taxes administered by the department. 👍1  
 
-### [HB 1127](/bill/2025-26/hb/1127/) - Modifying provisions of the revised uniform unclaimed property act. 👍1  
+### [HB 1127](/bill/2025-26/hb/1127/) - Unclaimed property 👍1  
 
 ### [HB 1135](/bill/2025-26/hb/1135/) - Local government planning   ❓1
 * ❓💵 Carl Schroeder
@@ -43,6 +43,9 @@
 ### [HB 1138](/bill/2025-26/hb/1138/) - Improving public safety by implementing evidence-based interview practices that increase the reliability of statements collected during criminal investigations.  👎1 
 
 ### [HB 1139](/bill/2025-26/hb/1139/) - Unlawful firearm possession 👍1  
+
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
+* 👍💵 Carl Schroeder
 
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential   ❓1
 * ❓💵 Carl Schroeder
@@ -68,7 +71,7 @@
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
 * ❓💵 Carl Schroeder
 
-### [HB 1218](/bill/2025-26/hb/1218/) - Concerning persons referred for competency evaluation and restoration services.  👎1 
+### [HB 1218](/bill/2025-26/hb/1218/) - Competency eval. & restor.  👎1 
 * 👎💵 Candice Bock
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element   ❓1
@@ -248,6 +251,9 @@
 * ❓💵 Candice Bock
 
 ### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  
+
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎1 
+* 👎💵 Carl Schroeder
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Candice Bock

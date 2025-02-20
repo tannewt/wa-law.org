@@ -8,14 +8,13 @@
 
 ## Meetings
 ### Wed 02/19 08:00 AM - Environment, Energy & Technology (ENET): SB 5283 Energy storage siting/EFSEC
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32818&aId=164218&caId=25824&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32818&aId=164218&caId=25824&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32818&aId=164218&caId=25824&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32818&aId=164218&caId=25824&tId=4)
+#### 846 👍 - Pro
+Testifying:
+* TaraLyn Fray
+* Sheila Christy - Sheila
+* Commissioner Peter Browning - [Skagit County](/org/skagit_county/)
+* Matt Steinman - Foothills Farm
 
-#### 534 👍 - Pro
-
-#### 16 👎 - Con
+#### 30 👎 - Con
 
 #### 0 ❓ - Other

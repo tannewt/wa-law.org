@@ -26,13 +26,16 @@
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 * 👍 Julia Kellison
 
-## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍2  
+### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍2  
 * 👍 Tareva Marshall
+
+## [SB 5740](/bill/2025-26/sb/5740/) - Eviction reform  👎1 
+* 👎 Christopher Brunetti
 
 ## 2023-24
 
-### [SB 5686](/bill/2023-24/sb/5686/) - Foreclosure mediation prg. 👍2  
-* 👍 Tareva Marshall
+### [SB 5740](/bill/2023-24/sb/5740/) - Eviction reform  👎1 
+* 👎 Christopher Brunetti
 
 ### [HB 1074](/bill/2023-24/hb/1074/) - Landlord damage claims 👍1  
 * 👍 Christopher Brunetti

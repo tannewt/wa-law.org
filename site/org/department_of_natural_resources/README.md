@@ -9,7 +9,7 @@
 
 ### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface   ❓1
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice   ❓1
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice   ❓2
 
 ### [HB 1537](/bill/2025-26/hb/1537/) - Roadway safety account use 👍1  
 * 👍 Brody Coval

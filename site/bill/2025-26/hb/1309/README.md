@@ -14,12 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164630&caId=26008&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164630&caId=26008&tId=4)
 
-#### 430 👍 - Pro
+#### 587 👍 - Pro
+Testifying:
+* TaraLyn Fray
 
-#### 11 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * Darlene Schanfald
 * john worthington
+* Marilyn Showalter - Retired
 
 #### 0 ❓ - Other
 

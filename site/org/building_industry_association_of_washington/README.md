@@ -52,8 +52,9 @@
 ### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements 👍1  
 * 👍💵 Andrea Smiley
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice  👎2 
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice  👎3 
 * 👎💵 Andrea Smiley
+* 👎💵 Jan Himebaugh
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth  👎1 
 * 👎💵 Jan Himebaugh
@@ -94,7 +95,7 @@
 
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
 
-### [HB 1576](/bill/2025-26/hb/1576/) - Concerning the designation of historic landmarks by cities.   ❓1
+### [HB 1576](/bill/2025-26/hb/1576/) - Historic landmarks/cities   ❓1
 * ❓💵 Bill Stauffacher
 
 ### [HB 1626](/bill/2025-26/hb/1626/) - PFML grants/school districts  👎1 
@@ -168,14 +169,15 @@
 ### [SB 5111](/bill/2025-26/sb/5111/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
 * 👍💵 Andrea Smiley
 
-### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍3  
+* 👍💵 Andrea Smiley
 * 👍💵 Andrea Smiley
 
 ### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments 👍1  
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices  👎1 
 
-### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules  👎2 
+### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules  👎3 
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 
@@ -241,7 +243,7 @@
 ### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload 👍1  
 * 👍💵 Bill Stauffacher
 
-### [SB 5612](/bill/2025-26/sb/5612/) - Multiunit housing/SEPA 👍1  
+### [SB 5612](/bill/2025-26/sb/5612/) - Multiunit housing/SEPA 👍2  
 
 ### [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍1  
 * 👍💵 Bill Stauffacher
@@ -270,6 +272,16 @@
 ### [SB 5699](/bill/2025-26/sb/5699/) - Intensive rural development 👍1  
 
 ### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners 👍1  
+
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting 👍2  
+* 👍💵 Andrea Smiley
+
+### [SB 5732](/bill/2025-26/sb/5732/) - Housing supply/GMA 👍1  
+
+### [SB 5733](/bill/2025-26/sb/5733/) - Updating comprehensive plans 👍1  
+
+### [SB 5747](/bill/2025-26/sb/5747/) - Affordable housing/exemption 👍2  
+* 👍💵 Andrea Smiley
 
 ## [SB 5756](/bill/2025-26/sb/5756/) - Working minors  👎1 
 

@@ -7,6 +7,8 @@
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
+
 ### [HB 1603](/bill/2025-26/hb/1603/) - Medicare supp. coverage 👍2  
 * 👍 Robby Stern
 
@@ -26,6 +28,8 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
 * 👍💵 Nancy Sapiro
+
+### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
 
 ### [SB 5437](/bill/2025-26/sb/5437/) - Noncompetition agreements 👍1  
 

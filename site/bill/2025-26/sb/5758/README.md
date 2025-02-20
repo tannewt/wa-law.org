@@ -19,7 +19,7 @@ Testifying:
 * Micah Sherman
 * Tone Harrell - Black Excellence in Cannabis
 
-#### 70 👎 - Con
+#### 72 👎 - Con
 Testifying:
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 * Rolando Rodriguez - Green Roads Cannabis

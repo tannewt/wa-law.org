@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32820&aId=164602&caId=25999&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32820&aId=164602&caId=25999&tId=4)
 
-#### 3 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* Michal Paul
+* Noa Romach
 
 #### 0 👎 - Con
 

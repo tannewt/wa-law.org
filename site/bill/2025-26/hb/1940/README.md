@@ -14,13 +14,36 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32801&aId=164317&caId=25923&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32801&aId=164317&caId=25923&tId=4)
 
-#### 1 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Tedd Wetherbee - The Gallery
+* 💵Paula Sardinas - FMS Global Strategies, LLC
+* 💵Ezra Eickmeyer - Producers NW
+* Andy Brassington - [Evergreen Herbal](/org/evergreen_herbal/)
+* 💵Vicki Christophersen - Washington CannaBusiness Association
+* 💵Brooke Davies - Washington CannaBusiness Association
+* Carlondo Dudley - 5th House Farms
+* Jordan Zager - Dewy Cannabis
 
-#### 519 👎 - Con
+#### 737 👎 - Con
 Testifying:
 * BRANDON PARK - DLH Ranch
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
+* Bethany Rondeaux - Falcanna
+* Justin Rondeaux
+* 💵Trent Matson
+* Haider Tareen - WCLA
+* TaraLyn Fray
+* Mike Asai - Black Excellence In Cannabis
+* Peter Manning - Black Excellence In Cannabis
+* Shea Hynes - Lux Pot Shop
+* Jason Hutto - Cultivar Farms
+* Bill Wagenseller - Washington Bud Company
+* Shawn DeNae Wagenseller - Washington Bud Company
+* James Mullen - The Herbery, a licensed cannabis retailer
+* Jeff Anderson - The Evergreen Market
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Caitlein Ryan - THE CANNABIS ALLIANCE
+* Paul Brice - Myself

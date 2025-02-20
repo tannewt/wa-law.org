@@ -8,12 +8,15 @@
 
 ## Meetings
 ### Tue 02/18 01:30 PM - State Government & Tribal Relations (SGOV): HB 1934 Employment investigation/PRA
-#### 21 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * James Trefry - WSCCCE, AFSCME Council 2
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Patricia Rhoades
 * Marci Patterson
+* Deanna Horton
+* John Whitehead - HR Director, City of Spokane Valley
+* Kelly Konkright - City Attorney, City of Spokane Valley
 
 #### 11 👎 - Con
 Testifying:

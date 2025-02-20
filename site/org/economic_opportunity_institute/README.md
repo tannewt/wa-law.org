@@ -32,11 +32,14 @@
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
-### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍2  
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍3  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
 ### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
+
+### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program   ❓1
+* ❓ Sam Hatzenbeler
 
 ### [SB 5378](/bill/2025-26/sb/5378/) - PFML grants/school districts  👎1 
 

@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Tue 02/18 01:30 PM - State Government & Elections (SGE): SB 5625 State clam/Pacific geoduck
-#### 4 👍 - Pro
+#### 5 👍 - Pro
 
 #### 3 👎 - Con
 

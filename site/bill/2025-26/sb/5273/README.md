@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164271&caId=25830&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164271&caId=25830&tId=4)
 
-#### 180 👍 - Pro
+#### 199 👍 - Pro
 Testifying:
 * Addison Sabatini
 * Aliana Pineda

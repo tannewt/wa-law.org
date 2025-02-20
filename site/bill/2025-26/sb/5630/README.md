@@ -8,16 +8,19 @@
 
 ## Meetings
 ### Wed 02/19 08:00 AM - Environment, Energy & Technology (ENET): SB 5630 Farm fuel users
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32818&aId=164219&caId=25825&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32818&aId=164219&caId=25825&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32818&aId=164219&caId=25825&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32818&aId=164219&caId=25825&tId=4)
-
-#### 542 👍 - Pro
+#### 824 👍 - Pro
 Testifying:
+* TaraLyn Fray
+* Sheila Christy
 * 💵Mark Streuli - Washington Potato and Onion Assoc, Washington Assoc of Wheat Growers, Washington Cattlemen's Assoc
+* 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
 
-#### 7 👎 - Con
+#### 12 👎 - Con
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* 💵Jessica Spiegel - WSPA
+* 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵David Mendoza - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Joel Creswell - Washington State Department of Ecology

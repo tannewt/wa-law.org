@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/13 01:30 PM - Higher Education & Workforce Development (HEWD): SB 5663 Virtual campus/colleges

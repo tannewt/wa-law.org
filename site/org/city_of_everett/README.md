@@ -33,6 +33,8 @@
 ### [HB 1882](/bill/2025-26/hb/1882/) - State tax on lodging 👍2  
 * 👍 Jennifer Gregerson
 
+### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
+
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍 Jennifer Gregerson
 

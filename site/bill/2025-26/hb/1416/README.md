@@ -18,12 +18,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163934&caId=25938&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163934&caId=25938&tId=4)
 
-#### 12 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 
-#### 37 👎 - Con
+#### 382 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Brian Gregory
+* 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Katie Beeson - [Washington Food Industry](/org/washington_food_industry/)
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Radu Smintina - School's Out Washington
+* Lindsey Stroud - Taxpayers Protection Alliance

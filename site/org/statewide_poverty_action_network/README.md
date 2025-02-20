@@ -47,11 +47,17 @@
 
 ### [HB 1535](/bill/2025-26/hb/1535/) - Dental insurance practices  👎1 
 
+### [HB 1561](/bill/2025-26/hb/1561/) - Domestic workers 👍1  
+
 ### [HB 1599](/bill/2025-26/hb/1599/) - Concerning consumer debt adjusters and debt resolution services providers.  👎1 
+
+### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  
 
 ### [HB 1858](/bill/2025-26/hb/1858/) - Deed of trust assignment/fee 👍1  
 
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍2  
+
+### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 

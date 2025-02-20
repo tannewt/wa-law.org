@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1180 - Implementing certain recommendations from the sex offender policy board concerning the criminal offense of failure to register.</title>
+		<title>HB 1180 - Sex offender failure to reg.</title>
 		<link>https://wa-law.org/bill/2025-26/hb/1180/</link>
 		<description>Updates about HB 1180</description>
 		<language>en-US</language>
@@ -137,6 +137,13 @@
 			<pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-17/CS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-17/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

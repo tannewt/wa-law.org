@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5749/</link>
 		<description>Updates about SB 5749</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Feb 2025 12:48:32 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Feb 2025 05:44:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,14 @@
 			<pubDate>Mon, 17 Feb 2025 12:48:32 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://src.wastateleg.org/blog/senate-republicans-introduce-18-bills-address-housing-crisis/#:~:text=SB%205749</guid>
+		</item>
+		<item>
+			<title>👍Sheila Christy - State Building Code Council</title>
+			<description>Sheila Christy signed up to testify Pro.</description>
+			<pubDate>Tue, 18 Feb 2025 05:44:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sheila/Christy/2025-02-18 05:44:52</guid>
 		</item>
 	</channel>
 </rss>

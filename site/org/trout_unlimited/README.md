@@ -4,6 +4,12 @@
 ### [HB 1325](/bill/2025-26/hb/1325/) - Fish & wildlife enforcement 👍2  
 * 👍💵 Alexei Calambokidis
 
+### [HB 1685](/bill/2025-26/hb/1685/) - Fish and wildlife governance   ❓1
+* ❓💵 Alexei Calambokidis
+
+### [HB 1930](/bill/2025-26/hb/1930/) - Fish and wildlife commission   ❓1
+* ❓💵 Alexei Calambokidis
+
 ### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
 
 ### [HB 1976](/bill/2025-26/hb/1976/) - Release of pets & plants 👍1  

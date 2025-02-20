@@ -7,11 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmaker waves plan for state flag redesign • Washington State Standard](https://washingtonstatestandard.com/2025/02/18/washington-lawmaker-waves-plan-for-state-flag-redesign/#:~:text=House%20Bill%201938)
+* 02/18/2025 [FOX13](/org/fox13/) - [WA state flag could change under proposed legislation | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-state-flag-change-legislation#:~:text=House%20Bill%201938)
 * 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201938)
 
 ## Meetings
 ### Tue 02/18 01:30 PM - State Government & Tribal Relations (SGOV): HB 1938 State flag redesign
-#### 86 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * Emmett O'Connell
 * David Sedelmeier
@@ -25,7 +27,7 @@ Testifying:
 * Natalie Gregov
 * Evelyn Smith
 
-#### 3061 👎 - Con
+#### 3137 👎 - Con
 Testifying:
 * Eldon Leuning
 * Hailey Irvine
@@ -63,6 +65,8 @@ Testifying:
 * Ryan Jewell
 * Anthony Holan
 * Aleksandra Avellino
+* Sue Lani Madsen
+* Anthony Stockman
 
 #### 4 ❓ - Other
 Testifying:

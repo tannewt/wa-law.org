@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Tue 02/18 01:30 PM - Environment, Energy & Technology (ENET): SB 5652 Environment/port districts
-#### 285 👍 - Pro
+#### 298 👍 - Pro
 Testifying:
 * Brian Davis
 * Sarah Moore
@@ -20,10 +20,17 @@ Testifying:
 * JC Harris - Sea-Tac Noise.Info
 * Traci Buxton - Mayor, City of Des Moines WA
 
-#### 685 👎 - Con
+#### 723 👎 - Con
 Testifying:
 * Lance Eggers
 * john worthington
 * Anthony Holan
+* Eric ffitch - WPPA
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)
+* Alethia Miller - [Alaska Airlines](/org/alaska_airlines/)
+* 💵Jennifer Ziegler - Aerospace Futures Alliance
+* 💵Morgan Irwin - AWB
+* Buck Taft - [Port of Pasco](/org/port_of_pasco/)
+* Anthony Stockman
 
 #### 0 ❓ - Other

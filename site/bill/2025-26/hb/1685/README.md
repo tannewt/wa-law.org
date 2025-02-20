@@ -11,17 +11,13 @@
 
 ## Meetings
 ### Wed 02/19 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1685 Fish and wildlife governance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32817&aId=163945&caId=25901&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32817&aId=163945&caId=25901&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32817&aId=163945&caId=25901&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32817&aId=163945&caId=25901&tId=4)
-
-#### 12 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Chairman Ron Allen - Jamestown S'Klallam Tribe
+* Claire Davis - [Washington Wildlife First](/org/washington_wildlife_first/)
+* Bonnie Blessing
 
-#### 746 👎 - Con
+#### 1011 👎 - Con
 Testifying:
 * Kyle Perry
 * Scott Walker
@@ -33,7 +29,23 @@ Testifying:
 * Dane Czarnecki - --select an item--
 * Cody Coleman
 * Gary MCGREW
+* Bruce Vandervort - Washington State Trappers Association
+* Rachel Haymon
+* Cory maxwell
+* Sheila Christy
+* RON GARNER - Puget Sound Anglers State Board
+* TaraLyn Fray
+* Nello Picinich - CCA Washington
+* Anthony Holan
 
-#### 27 ❓ - Other
+#### 46 ❓ - Other
 Testifying:
 * Daniel Wilson - Washington Chapter- Backcountry Hunters & Anglers
+* Ronald Reed - Retired
+* Josh Rosenau - [Mountain Lion Foundation](/org/mountain_lion_foundation/)
+* Ann Prezyna - self
+* Bob McCoy
+* 💵Alexei Calambokidis - [Trout Unlimited](/org/trout_unlimited/)
+* Lisa Wilson - Lummi Nation Councilmember
+* Heather Nicholson
+* Jen Syrowitz - [Conservation Northwest](/org/conservation_northwest/)

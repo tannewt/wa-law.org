@@ -8,19 +8,26 @@
 
 ## Meetings
 ### Wed 02/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5721 Automobile insurance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32828&aId=164262&caId=25820&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32828&aId=164262&caId=25820&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32828&aId=164262&caId=25820&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32828&aId=164262&caId=25820&tId=4)
-
-#### 63 👍 - Pro
+#### 83 👍 - Pro
 Testifying:
 * Roger Thomason
 * LoraJo Thorp
 * David Forte - Office of the Insurance Commissioner
 * Pat LePley - Washington State Association for Justice
+* Jeremiah Gitchel
+* Diane Borth
+* Justin Morgan - JBM Law PLLC
+* Jeff Butler - Collision Consulting
+* Justin Lewis - Accurate Auto Body
+* Justin Morgan - JBM Law PLLC
+* Micah Strom - Modern collision rebuild & service
+* Bradley Vagt
+* Dalton Majestic
+* Donnie Martin - INDUSTRIAL FINISHES
 
-#### 0 👎 - Con
+#### 9 👎 - Con
+Testifying:
+* 💵Kenton Brine - [Northwest Insurance Council](/org/northwest_insurance_council/)
+* Kris Tefft - [American Property Casualty Insurance Association](/org/american_property_casualty_insurance_association/)
 
 #### 0 ❓ - Other

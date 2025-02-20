@@ -21,7 +21,7 @@
 
 ### [HB 1642](/bill/2025-26/hb/1642/) - Pension plan choice 👍1  
 
-### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍36  
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍65  
 
 ### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans 👍64  
 * 👍 Judith Fosmo

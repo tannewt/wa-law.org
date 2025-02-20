@@ -15,6 +15,9 @@
 
 ### [HB 1311](/bill/2025-26/hb/1311/) - Gray wolves  👎1 
 
+### [HB 1337](/bill/2025-26/hb/1337/) - Higher education presidents 👍1  
+* 👍 Joe Dacca
+
 ### [HB 1343](/bill/2025-26/hb/1343/) - Higher ed./loss of aid 👍4  
 
 ### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍3  

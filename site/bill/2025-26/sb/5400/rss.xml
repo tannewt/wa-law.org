@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5400/</link>
 		<description>Updates about SB 5400</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 21:25:50 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 18 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -264,6 +264,13 @@
 			<pubDate>Tue, 04 Feb 2025 21:25:50 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2025/02/04/protecting-local-news-and-pilots/#:~:text=Senate%20Bill%205400</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-18/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

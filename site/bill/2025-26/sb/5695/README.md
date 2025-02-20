@@ -14,10 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32808&aId=164410&caId=25869&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32808&aId=164410&caId=25869&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Melissa Pace
+* Mellani McAleenan - AAA Washington
 
-#### 40 👎 - Con
+#### 449 👎 - Con
 Testifying:
 * David Sedelmeier
+* TaraLyn Fray
+* Brian Gregory
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Lynn Rogers - Professional Driving School Association of Washington

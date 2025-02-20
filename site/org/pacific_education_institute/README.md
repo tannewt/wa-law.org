@@ -9,6 +9,8 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎 Kathryn Kurtz
 
+### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
+
 ## [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
 * 👍 Kathryn Kurtz
 

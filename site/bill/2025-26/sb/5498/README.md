@@ -12,7 +12,7 @@
 
 ## Meetings
 ### Tue 02/18 10:30 AM - Health & Long Term Care (HLTC): SB 5498 Contraceptive coverage
-#### 539 👍 - Pro
+#### 540 👍 - Pro
 Testifying:
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 

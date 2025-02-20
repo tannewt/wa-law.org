@@ -12,14 +12,9 @@
 
 ## Meetings
 ### Tue 02/18 04:00 PM - Transportation (TRAN): SB 5726 Transportation revenue
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32807&aId=164402&caId=25868&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32807&aId=164402&caId=25868&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32807&aId=164402&caId=25868&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32807&aId=164402&caId=25868&tId=4)
-
-#### 135 👍 - Pro
+#### 249 👍 - Pro
 Testifying:
+* Debbie Young - Wash. State Transportation Commission (Chair)
 * Reema Griffith - Wash. State Transportation Commission
 * Ashley Probart - Transportation Improvement Board
 * 💵Jane Wall - Washington State County Road Administration Board
@@ -40,7 +35,7 @@ Testifying:
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 
-#### 4150 👎 - Con
+#### 5793 👎 - Con
 Testifying:
 * Laurie Layne
 * Tim Eyman - Initiative Activist
@@ -61,11 +56,21 @@ Testifying:
 * Linda Hadley
 * Linda Hadley
 * Linda Hadley
+* Sheri Li
+* Jesse Hatfield
 * Horace Gresham
 * Anthony Holan
+* Barbara Horsfall
+* Crystal Moldenhauer
+* Terrie Richmond
+* Lee Fowble
+* Troy Schwab
+* Rachel Boyes
+* Anthony Stockman
 
-#### 10 ❓ - Other
+#### 15 ❓ - Other
 Testifying:
 * Joe Kunzler - Citizens for Votes on Taxation
 * 💵Scott Hazlegrove - WA State Auto Dealers Association
 * 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* Fred Yockers

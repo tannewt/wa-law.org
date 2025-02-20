@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=164516&caId=25985&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=164516&caId=25985&tId=4)
 
-#### 2 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Kris Zachary - Burns Towing
 * Paul Bressi - Nisqually Towing

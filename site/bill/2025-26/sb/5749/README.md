@@ -22,3 +22,12 @@ Sign up to testify:
 #### 0 👎 - Con
 
 #### 0 ❓ - Other
+
+### Wed 02/19 10:30 AM - Housing (HSG): SB 5749 Housing opportunity zones
+#### 56 👍 - Pro
+Testifying:
+* Sheila Christy
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other

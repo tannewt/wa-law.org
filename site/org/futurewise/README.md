@@ -140,13 +140,17 @@
 ### [SB 5699](/bill/2025-26/sb/5699/) - Intensive rural development  👎1 
 * 👎💵 Bryce Yadon
 
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
+
 ### [SB 5731](/bill/2025-26/sb/5731/) - Tenant assistance program  👎1 
 
-## [SB 5740](/bill/2025-26/sb/5740/) - Eviction reform  👎1 
+### [SB 5740](/bill/2025-26/sb/5740/) - Eviction reform  👎1 
+
+## [SB 5747](/bill/2025-26/sb/5747/) - Affordable housing/exemption  👎1 
 
 ## 2023-24
 
-### [SB 5740](/bill/2023-24/sb/5740/) - Eviction reform  👎1 
+### [SB 5747](/bill/2023-24/sb/5747/) - Affordable housing/exemption  👎1 
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review   ❓1
 

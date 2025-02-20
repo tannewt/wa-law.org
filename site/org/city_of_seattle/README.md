@@ -100,6 +100,9 @@
 
 ### [HB 1864](/bill/2025-26/hb/1864/) - Ambulances/transport options 👍1  
 
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
+* 👍 Alexis Mercedes Rinck
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
@@ -161,6 +164,8 @@
 * 👍 Venu Nemani
 
 ### [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
+
+### [SB 5612](/bill/2025-26/sb/5612/) - Multiunit housing/SEPA 👍1  
 
 ### [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits   ❓1
 

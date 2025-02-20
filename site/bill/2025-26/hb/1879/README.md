@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/19/2025 [House Democrats](/org/house_democrats/) - [Bill for reasonable rest breaks for hospital workers clears committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/19/bill-for-reasonable-rest-breaks-for-hospital-workers-clears-committee/#:~:text=House%20Bill%201879)
+
 ## Meetings
 ### Wed 02/12 08:00 AM - Labor & Workplace Standards (LAWS): HB 1879 Hospital worker breaks
 #### 51 👍 - Pro

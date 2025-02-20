@@ -7,13 +7,16 @@
 ### [SB 5331](/bill/2025-26/sb/5331/) - Insurance code violations   ❓1
 * ❓ Kris Tefft
 
-## [SB 5589](/bill/2025-26/sb/5589/) - Insurance & credit study   ❓1
+### [SB 5589](/bill/2025-26/sb/5589/) - Insurance & credit study   ❓1
 * ❓ Kris Tefft
+
+## [SB 5721](/bill/2025-26/sb/5721/) - Automobile insurance  👎1 
+* 👎 Kris Tefft
 
 ## 2023-24
 
-### [SB 5589](/bill/2023-24/sb/5589/) - Insurance & credit study   ❓1
-* ❓ Kris Tefft
+### [SB 5721](/bill/2023-24/sb/5721/) - Automobile insurance  👎1 
+* 👎 Kris Tefft
 
 ### [HB 1722](/bill/2023-24/hb/1722/) - Tow truck operator comp.  👎1 
 * 👎 Kris Tefft

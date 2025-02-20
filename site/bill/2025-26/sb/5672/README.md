@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Tue 02/18 10:30 AM - Health & Long Term Care (HLTC): SB 5672 Home care aide certification
-#### 56 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * Allison Lally - Brookdale Senior Living
 * 💵Alyssa Odegaard

@@ -19,9 +19,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164547&caId=25995&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164547&caId=25995&tId=4)
 
-#### 15 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Beth Roberts - WA-FACSE
+* Dan Read - Onion Creek School District
 
 #### 0 👎 - Con
 

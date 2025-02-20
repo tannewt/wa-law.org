@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Tue 02/18 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1969 Law enf. aviation support
-#### 98 👍 - Pro
+#### 100 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * David Ellis - Spokane Valley Police Chief
@@ -16,10 +16,12 @@ Testifying:
 * Patti Cole-Tindall - King County Sheriff
 * Susanna Johnson - Snohomish County Sheriff
 * Carrie Lee Gagnon
+* Brian Brett - Wenatchee Valley Fire Department
 
 #### 1 👎 - Con
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * George Geissler - [Department of Natural Resources](/org/department_of_natural_resources/)
 * Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Ron Chow

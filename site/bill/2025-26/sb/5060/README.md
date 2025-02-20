@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/19/2025 [Senate Democrats](/org/senate_democrats/) - [Liias co-sponsors bills to reduce impaired driving, increase law enforcement - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/19/liias-co-sponsors-bills-to-reduce-impaired-driving-increase-law-enforcement/#:~:text=Senate%20Bill%205060)
 * 01/21/2025 [FOX13](/org/fox13/) - [Legislators consider police hiring grant program  | FOX 13 Seattle](https://www.fox13seattle.com/news/police-funding-bill-wa-constitution#:~:text=Senate%20Bill%205060)
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205060)
 * 01/13/2025 [Cascade PBS](/org/cascade_pbs/) - [Washington’s 2025 legislative priorities: Budget, housing, police | Cascade PBS](https://crosscut.com/politics/2025/01/washingtons-2025-legislative-priorities-budget-housing-police#:~:text=co-sponsor%20of%20the%20bill)

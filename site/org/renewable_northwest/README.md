@@ -9,6 +9,8 @@
 
 ### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules 👍1  
 
+### [SB 5283](/bill/2025-26/sb/5283/) - Prohibiting the energy facility site evaluation council from preempting local laws that forbid the siting of certain storage facilities in critical areas.  👎1 
+
 ### [SB 5425](/bill/2025-26/sb/5425/) - Energy independence act  👎1 
 
 ### [SB 5430](/bill/2025-26/sb/5430/) - Utility wildfire mitigation 👍1  

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/03 10:30 AM - Higher Education & Workforce Development (HEWD): SB 5523 Higher ed. gov./students

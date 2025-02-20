@@ -8,13 +8,17 @@
 
 ## Meetings
 ### Tue 02/18 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1926 Home care aides
-#### 40 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * Allison Lally - Brookdale Senior Living
 * 💵Alyssa Odegaard - LeadingAge WA
 * Amy Thomas - [Adult Family Home Council](/org/adult_family_home_council/)
 * Demas Nesterenko - SEIU775
+* Maddie Foutch - SEIU775
+* 💵Brad Banks - WA Home Care Coalition
 
-#### 553 👎 - Con
+#### 572 👎 - Con
+Testifying:
+* Trina Ternes
 
 #### 1 ❓ - Other

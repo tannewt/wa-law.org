@@ -11,6 +11,19 @@
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201420)
 
 ## Meetings
+### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1420 Textile producers
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164785&caId=26044&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164785&caId=26044&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164785&caId=26044&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164785&caId=26044&tId=4)
+
+#### 0 👍 - Pro
+
+#### 2 👎 - Con
+
+#### 1 ❓ - Other
+
 ### Thu 01/30 08:00 AM - Environment & Energy (ENVI): HB 1420 Textile producers
 #### 342 👍 - Pro
 Testifying:

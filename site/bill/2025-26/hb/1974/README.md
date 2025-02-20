@@ -8,17 +8,15 @@
 
 ## Meetings
 ### Tue 02/18 04:00 PM - Housing (HOUS): HB 1974 Land banking authorities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32837&aId=164590&caId=26005&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32837&aId=164590&caId=26005&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32837&aId=164590&caId=26005&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32837&aId=164590&caId=26005&tId=4)
-
-#### 84 👍 - Pro
+#### 179 👍 - Pro
 Testifying:
 * Kitty Klitzke - Spokane City Council Member
 * 💵Paul Dillon - Spokane City Council President Pro-Tem
+* 💵Joe Adamack - Washington's Credit Unions
+* Ami Manning - Spokane Regional Land Bank/Spokane Low Income Housing Consortium
 
-#### 52 👎 - Con
+#### 57 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Laquesha Turner-Beers

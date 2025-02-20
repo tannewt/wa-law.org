@@ -8,7 +8,7 @@
 
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council.   ❓1
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍2  
 
 ### [HB 1311](/bill/2025-26/hb/1311/) - Gray wolves 👍1  
 * 👍💵 Paula Swedeen
@@ -18,12 +18,17 @@
 
 ### [HB 1442](/bill/2025-26/hb/1442/) - Gray wolf management  👎1 
 
+### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
+
 ### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  
 
 ### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
 
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system 👍1  
 * 👍💵 Nadine Nadow
+
+### [HB 1685](/bill/2025-26/hb/1685/) - Fish and wildlife governance   ❓1
+* ❓ Jen Syrowitz
 
 ### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity 👍1  
 
@@ -33,10 +38,13 @@
 
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
 
+### [HB 1930](/bill/2025-26/hb/1930/) - Fish and wildlife commission   ❓1
+* ❓ Jen Syrowitz
+
 ### [SB 5171](/bill/2025-26/sb/5171/) - Wolf predation 👍1  
 * 👍💵 Paula Swedeen
 
-### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍2  
+### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍3  
 * 👍💵 Paula Swedeen
 * 👍💵 Paula Swedeen
 

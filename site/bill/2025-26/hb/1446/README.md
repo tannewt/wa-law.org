@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmaker waves plan for state flag redesign • Washington State Standard](https://washingtonstatestandard.com/2025/02/18/washington-lawmaker-waves-plan-for-state-flag-redesign/#:~:text=House%20Bill%201446)
+
 ## Meetings
 ### Tue 02/11 01:30 PM - State Government & Tribal Relations (SGOV): HB 1446 George Washington's birthday
 #### 45 👍 - Pro

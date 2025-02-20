@@ -7,6 +7,9 @@
 ### [HB 1348](/bill/2025-26/hb/1348/) - Cannabis/employee ownership 👍1  
 * 👍 Andy Brassington
 
+### [HB 1940](/bill/2025-26/hb/1940/) - Cannabis industry 👍1  
+* 👍 Andy Brassington
+
 ## [SB 5456](/bill/2025-26/sb/5456/) - Cannabis industry 👍1  
 * 👍 Andy Brassington
 

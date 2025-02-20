@@ -89,6 +89,8 @@
 ### [HB 1882](/bill/2025-26/hb/1882/) - State tax on lodging  👎1 
 * 👎💵 Julia Gorton
 
+### [HB 1887](/bill/2025-26/hb/1887/) - Data broker registry & tax  👎1 
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Julia Gorton
 

@@ -22,9 +22,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164618&caId=26021&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164618&caId=26021&tId=4)
 
-#### 30 👍 - Pro
+#### 51 👍 - Pro
+Testifying:
+* 💵Maggie Humphreys - MomsRising
 
-#### 11 👎 - Con
+#### 14 👎 - Con
 
 #### 0 ❓ - Other
 

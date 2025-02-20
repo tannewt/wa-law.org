@@ -15,6 +15,8 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
+### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍1  
+
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍3  
 
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍4  

@@ -14,6 +14,19 @@
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201710)
 
 ## Meetings
+### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1710 Voting rights act compliance
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164730&caId=26036&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164730&caId=26036&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164730&caId=26036&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164730&caId=26036&tId=4)
+
+#### 58 👍 - Pro
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/05 01:30 PM - State Government & Tribal Relations (SGOV): HB 1710 Voting rights act compliance
 #### 410 👍 - Pro
 Testifying:

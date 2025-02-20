@@ -17,10 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32843&aId=164082&caId=25969&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32843&aId=164082&caId=25969&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Melissa Pace
+* 💵Mellani Mcaleenan - AAA Washington
 
-#### 505 👎 - Con
+#### 705 👎 - Con
 Testifying:
 * David Sedelmeier
+* TaraLyn Fray
+* Anthony Holan
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Mark McKechnie - Washington Traffic Safety Commission
+* Alex Hansen - President, Washington Traffic Safety Education Association

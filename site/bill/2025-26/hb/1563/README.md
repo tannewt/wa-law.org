@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/12 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1563 Prescribed fire claims

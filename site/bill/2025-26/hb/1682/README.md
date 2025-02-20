@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/11 10:30 AM - Labor & Workplace Standards (LAWS): HB 1682 Unemployment ins./part-time

@@ -8,6 +8,8 @@
 * 👍 Susan Kane-Ronning
 * 👍 Susan Kane-Ronning
 
+### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎1 
+
 ### [SB 5208](/bill/2025-26/sb/5208/) - Clean energy fund program  👎1 
 * 👎 Kathleen Saul
 

@@ -15,6 +15,8 @@
 
 ### [HB 1887](/bill/2025-26/hb/1887/) - Data broker registry & tax  👎1 
 
+### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
+
 ### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 
 ### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍1  

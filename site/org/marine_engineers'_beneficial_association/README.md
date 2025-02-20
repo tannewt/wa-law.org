@@ -13,11 +13,15 @@
 
 ### [HB 1140](/bill/2025-26/hb/1140/) - Establishing empowerED scholarships using educational savings accounts.  👎1 
 
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
+
 ### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍1  
 
 ### [HB 1182](/bill/2025-26/hb/1182/) - Parks & rec./interest arb. 👍1  
 
-### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
+
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
@@ -32,6 +36,8 @@
 * 👍 Felix Tapley
 
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
+
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
 
 ### [HB 1275](/bill/2025-26/hb/1275/) - Self-insurer withdrawal 👍1  
 
@@ -51,13 +57,15 @@
 
 ### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase 👍1  
 
-### [HB 1476](/bill/2025-26/hb/1476/) - Nursing home rate rebase  👎1 
+### [HB 1476](/bill/2025-26/hb/1476/) - Nursing home rate rebase  👎2 
 
 ### [HB 1486](/bill/2025-26/hb/1486/) - Student member on SBCTC 👍1  
 
 ### [HB 1489](/bill/2025-26/hb/1489/) - Childhood ed./impl. dates  👎1 
 
 ### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation  👎1 
+
+### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 
 ### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees 👍1  
 

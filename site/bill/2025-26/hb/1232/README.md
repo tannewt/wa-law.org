@@ -19,13 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164628&caId=26006&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164628&caId=26006&tId=4)
 
-#### 266 👍 - Pro
+#### 315 👍 - Pro
 Testifying:
 * 💵Kristin Ang - Faith Action Network (FAN)
 * 💵Jean Hill - Washington State Catholic Conference
 * Kristina Walker - Councilmember, City of Tacoma
 
-#### 480 👎 - Con
+#### 614 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

@@ -10,7 +10,7 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
-### [HB 1218](/bill/2025-26/hb/1218/) - Concerning persons referred for competency evaluation and restoration services.  👎1 
+### [HB 1218](/bill/2025-26/hb/1218/) - Competency eval. & restor.  👎1 
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 

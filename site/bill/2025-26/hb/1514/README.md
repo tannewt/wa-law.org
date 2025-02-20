@@ -15,11 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164621&caId=26024&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164621&caId=26024&tId=4)
 
-#### 4 👍 - Pro
+#### 59 👍 - Pro
 
 #### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/27 01:30 PM - Environment & Energy (ENVI): HB 1514 Low carbon thermal energy
 #### 77 👍 - Pro

@@ -20,7 +20,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164546&caId=25994&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164546&caId=25994&tId=4)
 
-#### 8 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Cathy Murahashi - The Arc of Washington
+* Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
 
 #### 0 👎 - Con
 

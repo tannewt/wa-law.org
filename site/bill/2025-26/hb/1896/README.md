@@ -17,11 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163952&caId=25943&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163952&caId=25943&tId=4)
 
-#### 106 👍 - Pro
+#### 121 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 
-#### 6 👎 - Con
+#### 64 👎 - Con
 
 #### 0 ❓ - Other

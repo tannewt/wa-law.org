@@ -3,7 +3,7 @@
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
-### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍2  
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍3  
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
@@ -11,6 +11,8 @@
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Giannina Ferrara
+
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
 

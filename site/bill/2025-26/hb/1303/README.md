@@ -18,18 +18,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164629&caId=26007&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164629&caId=26007&tId=4)
 
-#### 73 👍 - Pro
+#### 385 👍 - Pro
 Testifying:
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * JC Harris - Sea-Tac Noise.Info
 * 💵Jean Hill - Washington State Catholic Conference
 
-#### 489 👎 - Con
+#### 720 👎 - Con
 Testifying:
 * john worthington
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
+* TaraLyn Fray
+* Anthony Holan
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Thu 01/23 08:00 AM - Environment & Energy (ENVI): HB 1303 Environmental justice
 #### 1034 👍 - Pro

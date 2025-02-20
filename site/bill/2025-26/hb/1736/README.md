@@ -5,6 +5,10 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
+
+## 📰 Articles
+* 02/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/17/the-house-hot-sheet-for-week-6-of-the-2025-legislative-session/#:~:text=HB%201736)
 
 ## Meetings
 ### Tue 02/11 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1736 Missing persons

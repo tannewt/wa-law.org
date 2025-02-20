@@ -29,7 +29,7 @@ Testifying:
 * Carl Franz - Korean and Vietnam Veteran
 * Darron Smith - Veteran and UW Medicine MAPS Expert
 
-#### 684 👎 - Con
+#### 686 👎 - Con
 Testifying:
 * MD, JD, Mason Marks
 * Erin Reading - Port Townsend Psychedelic Society and REACH WA

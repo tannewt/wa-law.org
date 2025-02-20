@@ -14,8 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=164578&caId=25997&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=164578&caId=25997&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Pablo Benavente - Turo
+* James Bangasser
+* Robert Singleton - Chamber of Progress
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Robert Muhs - Avis Budget Car Rental, LLC
+* Doris Cassan
+* Don Lefeve - American Car Rental Association
+* Brian Rothery - Enterprise Mobility
 
 #### 0 ❓ - Other

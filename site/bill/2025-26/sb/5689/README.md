@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32808&aId=164492&caId=25871&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32808&aId=164492&caId=25871&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * 💵Juan Cotto - BloodworksNW
+* 💵Dan Fazio - BloodworksNW
 
 #### 1 👎 - Con
 

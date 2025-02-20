@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/17/the-house-hot-sheet-for-week-6-of-the-2025-legislative-session/#:~:text=HB%201525)
+
 ## Meetings
 ### Fri 02/21 01:30 PM - Finance (FIN): HB 1525 Vehicle sales tax/tribes
 Sign up to testify:
@@ -14,8 +17,8 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163959&caId=25950&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163959&caId=25950&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 
-#### 1 👎 - Con
+#### 55 👎 - Con
 
 #### 0 ❓ - Other

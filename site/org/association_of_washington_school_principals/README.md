@@ -15,7 +15,7 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Casey Brown
 
-### [HB 1257](/bill/2025-26/hb/1257/) - Extending special education services to students with disabilities until the end of the school year in which the student turns 22. 👍1  
+### [HB 1257](/bill/2025-26/hb/1257/) - Special education services 👍1  
 
 ### [HB 1267](/bill/2025-26/hb/1267/) - Special education funding 👍1  
 
@@ -39,7 +39,7 @@
 
 ### [HB 1557](/bill/2025-26/hb/1557/) - Guaranteed admissions prg. 👍1  
 
-### [HB 1565](/bill/2025-26/hb/1565/) - Dual enrollment scholarship 👍1  
+### [HB 1565](/bill/2025-26/hb/1565/) - Dual enrollment scholarship 👍2  
 
 ### [HB 1734](/bill/2025-26/hb/1734/) - Outdoor learning grants 👍1  
 
@@ -47,6 +47,8 @@
 * ❓💵 Roz Thompson
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎1 
+
+### [HB 1936](/bill/2025-26/hb/1936/) - Schools/postretirement 👍1  
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -94,7 +96,7 @@
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
-### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
+### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍2  
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
@@ -103,13 +105,14 @@
 ### [SB 5574](/bill/2025-26/sb/5574/) - History instruction   ❓1
 * ❓💵 Casey Brown
 
-## [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation   ❓1
+### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation   ❓1
 * ❓💵 Roz Thompson
+
+## [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
 
 ## 2023-24
 
-### [SB 5654](/bill/2023-24/sb/5654/) - Student restraint, isolation   ❓1
-* ❓💵 Roz Thompson
+### [SB 5738](/bill/2023-24/sb/5738/) - Retired employees/work 👍1  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
 

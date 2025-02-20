@@ -11,18 +11,13 @@
 
 ## Meetings
 ### Tue 02/18 04:00 PM - Ways & Means (WM): SB 5518 Sales tax sourcing impact
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164381&caId=25889&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164381&caId=25889&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164381&caId=25889&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32796&aId=164381&caId=25889&tId=4)
-
-#### 22 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Tahmina Martelly
 * Dana Ralph - City of Kent, Mayor
 * Satwinder Kaur - City of Kent, City Councilmember
 * Charlie Brown - Fred Meyer
+* Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
 
 #### 0 👎 - Con
 

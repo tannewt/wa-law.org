@@ -22,9 +22,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164617&caId=26020&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164617&caId=26020&tId=4)
 
-#### 138 👍 - Pro
+#### 303 👍 - Pro
 Testifying:
 * Erin Gagnon - DTG Recycle
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 3 👎 - Con
 
