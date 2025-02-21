@@ -7,11 +7,13 @@
 
 ### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍2  
 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
+
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
 

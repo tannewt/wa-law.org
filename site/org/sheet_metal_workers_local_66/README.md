@@ -1,6 +1,9 @@
 # Sheet Metal Workers Local 66
 ## 2025-26
 
+### [HB 1723](/bill/2025-26/hb/1723/) - School construction projects 👍1  
+* 👍 Sam Hem
+
 ### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval  👎1 
 * 👎 Justin Bourgault
 

@@ -19,11 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164391&caId=25897&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164391&caId=25897&tId=4)
 
-#### 335 👍 - Pro
+#### 350 👍 - Pro
 Testifying:
 * 💵Maggie Humphreys - MomsRising
+* Tabitha Milian
 
-#### 459 👎 - Con
+#### 712 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Brian Gregory

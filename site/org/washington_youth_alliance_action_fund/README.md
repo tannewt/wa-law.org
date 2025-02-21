@@ -3,7 +3,7 @@
 
 ### [HB 1259](/bill/2025-26/hb/1259/) - Concerning supervision requirements for behavioral health professionals in elementary and secondary public schools. 👍1  
 
-### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍1  
+### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍2  
 
 ### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍2  
 * 👍 Mahi Malladi

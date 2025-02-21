@@ -6,8 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/20/2025 [The Urbanist](/org/the_urbanist/) - [Washington State Senate Approves Sweeping Parking Reform Bill - The Urbanist](https://www.theurbanist.org/2025/02/20/washington-state-senate-approves-sweeping-parking-reform/#:~:text=Senate%20Bill%205184)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205184)
 * 02/06/2025 [The Urbanist](/org/the_urbanist/) - [Parking Reform Gains Momentum at Washington Legislature - The Urbanist](https://www.theurbanist.org/2025/02/06/parking-reform-gains-momentum-at-washington-legislature/#:~:text=Senate%20Bill%205184)
 * 02/05/2025 [MyNorthwest](/org/mynorthwest/) - [Washington lawmakers push to slash parking requirements](https://mynorthwest.com/mynorthwest-politics/washington-2/4040678#:~:text=Senate%20Bill%205184)

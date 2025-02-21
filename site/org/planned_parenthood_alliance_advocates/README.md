@@ -43,6 +43,8 @@
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍3  
 * 👍💵 Courtney Normand
 
+### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax 👍1  
+
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
 ### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍1  
@@ -55,6 +57,8 @@
 
 ### [HB 1604](/bill/2025-26/hb/1604/) - Jail searches/gender 👍1  
 
+### [HB 1805](/bill/2025-26/hb/1805/) - Children services/local tax 👍1  
+
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
 
 ### [HB 1876](/bill/2025-26/hb/1876/) - Death with dignity act 👍1  
@@ -63,7 +67,7 @@
 
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍1  
 
-### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍1  
+### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍2  
 
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍1  
 
@@ -88,9 +92,13 @@
 
 ### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍2  
 
+### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
+
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
 ### [SB 5270](/bill/2025-26/sb/5270/) - Providing mentors to novice nurses in the beginning educator support team program. 👍1  
+
+### [SB 5273](/bill/2025-26/sb/5273/) - Concerning the availability of community violence prevention and intervention services. 👍2  
 
 ### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍2  
 
@@ -99,6 +107,9 @@
 ### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
 
 ### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+
+### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program 👍1  
+* 👍💵 Nicole Kern
 
 ### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍1  
 
@@ -109,7 +120,7 @@
 ### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍1  
 * 👍💵 Nicole Kern
 
-### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
+### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍2  
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍2  
 

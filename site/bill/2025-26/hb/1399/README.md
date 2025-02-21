@@ -12,18 +12,12 @@
 
 ## Meetings
 ### Wed 02/19 04:00 PM - Appropriations (APP): SHB 1399 Sheriffs, chiefs, etc.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164631&caId=26009&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164631&caId=26009&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164631&caId=26009&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164631&caId=26009&tId=4)
-
-#### 651 👍 - Pro
+#### 826 👍 - Pro
 Testifying:
 * Heather Kelly - League of Women Voters
 * 💵Vanessa Gutierrez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 
-#### 1026 👎 - Con
+#### 1172 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Sharon Byrne - Women's Liberation Front
@@ -35,8 +29,10 @@ Testifying:
 * TaraLyn Fray
 * TaraLyn Fray
 * Anthony Holan
+* Heather Bakko
+* Richard Erickson
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 
 ### Mon 01/27 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1399 Sheriffs, chiefs, etc.
 #### 502 👍 - Pro

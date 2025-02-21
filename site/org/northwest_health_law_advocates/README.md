@@ -16,6 +16,8 @@
 ### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program   ❓1
 * ❓💵 Emily Brice
 
+### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax 👍1  
+
 ### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  
 
 ### [HB 1566](/bill/2025-26/hb/1566/) - Prior authorization/health 👍1  
@@ -33,7 +35,8 @@
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 * 👍💵 Emily Brice
 
-### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍1  
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍2  
+* 👍💵 Emily Brice
 * 👍💵 Emily Brice
 
 ### [SB 5084](/bill/2025-26/sb/5084/) - Health carrier reporting 👍1  
@@ -45,6 +48,9 @@
 
 ### [SB 5353](/bill/2025-26/sb/5353/) - Diabetes and obesity 👍1  
 * 👍💵 Vanessa Saavedra
+
+### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program   ❓1
+* ❓💵 Emily Brice
 
 ### [SB 5387](/bill/2025-26/sb/5387/) - Corp. practice of medicine 👍1  
 * 👍💵 Emily Brice

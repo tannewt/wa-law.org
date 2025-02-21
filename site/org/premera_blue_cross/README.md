@@ -39,6 +39,9 @@
 
 ### [SB 5361](/bill/2025-26/sb/5361/) - ASAM 4 treatment criteria 👍1  
 
+### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program  👎1 
+* 👎💵 Christine Brewer
+
 ### [SB 5387](/bill/2025-26/sb/5387/) - Corp. practice of medicine  👎1 
 
 ### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health  👎1 

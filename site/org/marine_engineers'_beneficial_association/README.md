@@ -19,6 +19,8 @@
 
 ### [HB 1182](/bill/2025-26/hb/1182/) - Parks & rec./interest arb. 👍1  
 
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes  👎1 
+
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
@@ -77,6 +79,8 @@
 
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 
+### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍1  
+
 ### [HB 1572](/bill/2025-26/hb/1572/) - Higher ed. accreditation 👍1  
 
 ### [HB 1587](/bill/2025-26/hb/1587/) - Partner promise scholarships 👍3  
@@ -85,7 +89,7 @@
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
 
-### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees 👍1  
+### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees 👍2  
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 

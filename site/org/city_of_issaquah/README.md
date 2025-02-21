@@ -1,6 +1,8 @@
 # City of Issaquah
 ## 2025-26
 
+### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 
+
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓1
 * ❓ Mayor Mary Lou Pauly
 

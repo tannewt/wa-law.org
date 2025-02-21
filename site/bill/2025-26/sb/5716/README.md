@@ -17,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32808&aId=164411&caId=25870&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32808&aId=164411&caId=25870&tId=4)
 
-#### 5 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * Rebeca Daniels
 

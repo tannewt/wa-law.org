@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163932&caId=25936&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163932&caId=25936&tId=4)
 
-#### 120 👍 - Pro
+#### 144 👍 - Pro
 Testifying:
 * Sandi Moreno - Leony's Cellars and Family Wineries of Washington State
 * PAUL BEVERIDGE - Family Wineries of Washington State
 
-#### 8 👎 - Con
+#### 10 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Annie McGrath - [Washington Wine Institute](/org/washington_wine_institute/)
+* 💵Rowland Thompson - [Wine Institute](/org/wine_institute/)

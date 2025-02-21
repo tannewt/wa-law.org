@@ -18,13 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164718&caId=26030&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164718&caId=26030&tId=4)
 
-#### 45 👍 - Pro
+#### 144 👍 - Pro
 Testifying:
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 
-#### 0 👎 - Con
+#### 62 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Fri 01/31 10:30 AM - Housing (HSG): SB 5469 Rental housing market
 #### 25 👍 - Pro

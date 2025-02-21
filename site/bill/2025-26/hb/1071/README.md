@@ -18,11 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164728&caId=26034&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164728&caId=26034&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* 💵Lyset Cadena - WM (Waste Management)
 
-#### 0 👎 - Con
+#### 8 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Thu 01/16 08:00 AM - Environment & Energy (ENVI): HB 1071 Recycling rates
 #### 73 👍 - Pro

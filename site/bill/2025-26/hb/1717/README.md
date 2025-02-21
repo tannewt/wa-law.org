@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163956&caId=25947&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163956&caId=25947&tId=4)
 
-#### 29 👍 - Pro
+#### 40 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
@@ -27,7 +27,10 @@ Testifying:
 * 💵Ben Stuckart - [Spokane Low Income Housing Consortium](/org/spokane_low_income_housing_consortium/)
 * Kathleen Hosfeld - www.homesteadclt.org
 * Zac Baker - Southport Financial Services
+* Jiadong Gu
 
-#### 61 👎 - Con
+#### 471 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 0 ❓ - Other

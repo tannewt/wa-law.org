@@ -37,11 +37,11 @@
 
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential 👍2  
 
-### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍1  
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍3  
 
 ### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040. 👍1  
 
-### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
 * 👍💵 Brent Ludeman
@@ -117,7 +117,7 @@
 
 ### [HB 1695](/bill/2025-26/hb/1695/) - Unincorporated villages/GMA 👍1  
 
-### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties  👎1 
+### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties  👎2 
 
 ### [HB 1732](/bill/2025-26/hb/1732/) - Home buying by entities  👎1 
 * 👎💵 Brent Ludeman
@@ -255,6 +255,9 @@
 * 👍💵 Andrea Smiley
 
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎1 
+
+### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land 👍1  
+* 👍💵 Andrea Smiley
 
 ### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage. 👍1  
 * 👍💵 Jan Himebaugh

@@ -105,7 +105,7 @@
 * [SB 6095](sb/6095) - Secretary of health orders 35👍 1716👎 1❓ - C 100 L 24
 * [SB 6264](sb/6264) - Competency-based education 3📰 41👍 1640👎 4❓ - SRules 3
 * [HB 2276](hb/2276) - Housing/taxes 15📰 1372👍 291👎 6❓ - HRules R
-* [SB 5882](sb/5882) - Prototypical school staffing 7📰 773👍 871👎 16❓ - C 191 L 24
+* [SB 5882](sb/5882) - Prototypical school staffing 8📰 773👍 871👎 16❓ - C 191 L 24
 * [HB 1363](hb/1363) - Vehicular pursuits 44📰 706👍 938👎 14❓ - HRules X
 * [SB 6161](sb/6161) - Provider contract comp. 1644👍 6👎 5❓ - SHealth & Long
 * [SB 5738](sb/5738) - LeMay special license plate 1625👍 1👎 11❓ - STransportation
@@ -778,7 +778,7 @@
 * [SB 5740](sb/5740) - Catalytic converter theft 1📰 85👍 41👎 6❓ - STransportation
 * [SB 5839](sb/5839) - Modifying the working families' tax credit by clarifying the refundable nature of the credit, the application requirements, and the eligibility verification process. 2📰 132👍 0👎 0❓ - SWays & Means
 * [SB 5852](sb/5852) - Concerning special education safety net awards. 2📰 131👍 1👎 0❓ - C 127 L 24
-* [SB 6025](sb/6025) - Predatory loans 3📰 117👍 6👎 9❓ - C 249 L 24
+* [SB 6025](sb/6025) - Predatory loans 4📰 117👍 6👎 9❓ - C 249 L 24
 * [HB 1746](hb/1746) - State broadband map 1📰 127👍 1👎 3❓ - HRules X
 * [SB 5162](sb/5162) - Transportation budget 1📰 65👍 3👎 63❓ - SRules X
 * [SB 5583](sb/5583) - Young driver safety 7📰 112👍 12👎 6❓ - C 445 L 23

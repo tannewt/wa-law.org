@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164750&caId=26040&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164750&caId=26040&tId=4)
 
-#### 36 👍 - Pro
+#### 68 👍 - Pro
 Testifying:
 * Matthew McLennan - Kidder Mathews
 * Gary Ballew - Greater Spokane, Inc. (Spokane County ADO)

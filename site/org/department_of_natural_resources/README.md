@@ -11,6 +11,9 @@
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice   ❓2
 
+### [HB 1368](/bill/2025-26/hb/1368/) - New special license plates 👍1  
+* 👍 Pat Sullivan
+
 ### [HB 1537](/bill/2025-26/hb/1537/) - Roadway safety account use 👍1  
 * 👍 Brody Coval
 

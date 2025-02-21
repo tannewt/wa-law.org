@@ -18,13 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164717&caId=26029&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164717&caId=26029&tId=4)
 
-#### 172 👍 - Pro
+#### 293 👍 - Pro
 Testifying:
 * Sydney Rogalla - The Office of the Insurance Commissioner
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 ### Tue 01/21 10:30 AM - Health & Long Term Care (HLTC): SB 5075 Prenatal and postnatal care
 #### 477 👍 - Pro

@@ -9,19 +9,14 @@
 
 ## Meetings
 ### Wed 02/19 04:00 PM - Appropriations (APP): SHB 1497 Waste material management
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164632&caId=26010&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164632&caId=26010&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164632&caId=26010&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164632&caId=26010&tId=4)
-
-#### 219 👍 - Pro
+#### 234 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Kate White Tudor - Natural Resources Defense Council
+* Erin Gagnon - DTG Recycle
 * Rick Vahl - Waste Connections
 
-#### 23 👎 - Con
+#### 24 👎 - Con
 
 #### 0 ❓ - Other
 

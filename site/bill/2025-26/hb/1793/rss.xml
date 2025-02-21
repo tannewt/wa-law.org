@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1793/</link>
 		<description>Updates about HB 1793</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 05:21:30 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,6 +46,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jean/Leonard/2025-02-11 05:21:30</guid>
+		</item>
+		<item>
+			<title>CPB - Executive action taken by committee.</title>
+			<description>CPB - Executive action taken by committee.</description>
+			<pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-19/CPB - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

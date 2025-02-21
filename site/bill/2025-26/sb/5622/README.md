@@ -22,7 +22,7 @@ Testifying:
 Testifying:
 * Sue Lani Madsen
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
-* Carlos Gutierrez - [Consumer Healthcare Products Association](/org/consumer_healthcare_products_association/)
+* 💵Carlos Gutierrez - [Consumer Healthcare Products Association](/org/consumer_healthcare_products_association/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * Sheila Christy
 * Tyler Cannon - Natural Products Association

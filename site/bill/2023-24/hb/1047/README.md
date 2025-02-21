@@ -86,7 +86,7 @@ Testifying:
 Testifying:
 * Nora Palattao Burnes - [Personal Care Products Council](/org/personal_care_products_council/)
 * 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
-* Carlos Gutierrez - Consumer Healthcare Products Association (CHPA)
+* 💵Carlos Gutierrez - Consumer Healthcare Products Association (CHPA)
 
 #### 3 ❓ - Other
 Testifying:

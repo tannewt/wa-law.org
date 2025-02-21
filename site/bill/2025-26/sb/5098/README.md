@@ -24,6 +24,22 @@
 * 05/18/2000 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/#:~:text=Senate%20Bill%205098)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Transportation (TRAN): SSB 5098 Weapons in certain areas
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164796&caId=26052&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164796&caId=26052&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164796&caId=26052&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164796&caId=26052&tId=4)
+
+#### 1 👍 - Pro
+
+#### 15 👎 - Con
+Testifying:
+* Amanda McKinney - Yakima County Commissioner
+* Jane Milhans
+
+#### 0 ❓ - Other
+
 ### Tue 01/14 08:00 AM - Law & Justice (LAW): SB 5098 Weapons in certain areas
 #### 572 👍 - Pro
 Testifying:

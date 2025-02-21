@@ -17,6 +17,8 @@
 
 ### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
 
+### [HB 1980](/bill/2025-26/hb/1980/) - Employer transp. services 👍1  
+
 ### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 
 ### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍1  

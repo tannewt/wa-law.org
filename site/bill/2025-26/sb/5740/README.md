@@ -7,18 +7,20 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/19/2025 [The Center Square](/org/the_center_square/) - [Bill to cap rent increases passes out of WA Senate Housing Committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3e774676-eef8-11ef-8fae-e3d75bcfa845.html#:~:text=Senate%20Bill%205740)
 * 02/17/2025 [Senate Republicans](/org/senate_republicans/) - [Senate Republicans introduce 18 bills to address housing crisis - Senate Republican Caucus](https://src.wastateleg.org/blog/senate-republicans-introduce-18-bills-address-housing-crisis/#:~:text=SB%205740)
 
 ## Meetings
 ### Wed 02/19 10:30 AM - Housing (HSG): SB 5740 Eviction reform
-#### 290 👍 - Pro
+#### 291 👍 - Pro
 Testifying:
 * Audrey Riddle - [Goodman Real Estate](/org/goodman_real_estate/)
 * Cory Brewer - WPM NW Inc.
 * Sheila Christy
 * Tad Sommerville
+* Bruce Becker
 
-#### 825 👎 - Con
+#### 827 👎 - Con
 Testifying:
 * Kerri Burnside - Bellingham Tenants Union
 * Robert Hurn

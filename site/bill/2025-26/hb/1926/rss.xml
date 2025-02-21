@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1926/</link>
 		<description>Updates about HB 1926</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Feb 2025 11:55:27 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -70,6 +70,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Brad/Banks/2025-02-18 11:55:27</guid>
+		</item>
+		<item>
+			<title>PEW - Executive action taken by committee.</title>
+			<description>PEW - Executive action taken by committee.</description>
+			<pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-19/PEW - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>PEW - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>PEW - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-19/PEW - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

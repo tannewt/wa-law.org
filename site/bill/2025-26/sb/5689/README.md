@@ -14,11 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32808&aId=164492&caId=25871&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32808&aId=164492&caId=25871&tId=4)
 
-#### 3 👍 - Pro
+#### 100 👍 - Pro
 Testifying:
 * 💵Juan Cotto - BloodworksNW
 * 💵Dan Fazio - BloodworksNW
+* Addison Thornton
+* Ellen Hong
+* Sumi Rasiah
+* Liana Khachatouriansoradehi
+* Diane Calmus - America's Blood Centers
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

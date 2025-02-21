@@ -14,16 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32808&aId=164410&caId=25869&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32808&aId=164410&caId=25869&tId=4)
 
-#### 5 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Melissa Pace
+* Martha Foster Lucas - WA State Coalition of African Community Leaders
 * Mellani McAleenan - AAA Washington
 
-#### 449 👎 - Con
+#### 652 👎 - Con
 Testifying:
 * David Sedelmeier
 * TaraLyn Fray
+* Iman Janoo
 * Brian Gregory
+* Eyoab Tesfaye
+* ZHENHONG MENG
 
 #### 2 ❓ - Other
 Testifying:

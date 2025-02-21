@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/05 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1592 Public defense services

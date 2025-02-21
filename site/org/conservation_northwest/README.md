@@ -59,6 +59,8 @@
 
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
 
+### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
+
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  

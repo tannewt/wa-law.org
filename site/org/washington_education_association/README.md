@@ -5,7 +5,8 @@
 
 ### [HB 1018](/bill/2025-26/hb/1018/) - Fusion energy facilities 👍1  
 
-### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍2  
+### [HB 1022](/bill/2025-26/hb/1022/) - Homes for heroes program 👍3  
+* 👍💵 Simone Boe
 * 👍💵 Simone Boe
 
 ### [HB 1032](/bill/2025-26/hb/1032/) - School district elections 👍1  
@@ -202,7 +203,7 @@
 
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 
-### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍1  
+### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍2  
 
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart 👍1  
 
@@ -401,7 +402,7 @@
 
 ### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍2  
 
-### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
+### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍2  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
@@ -413,7 +414,7 @@
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
 
-### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍2  
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍9  
 * 👍💵 Larry Delaney
@@ -487,7 +488,7 @@
 
 ### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining 👍1  
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
 
 ### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍8  
 * 👍💵 Janie White

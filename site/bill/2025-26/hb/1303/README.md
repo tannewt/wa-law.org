@@ -12,27 +12,24 @@
 
 ## Meetings
 ### Wed 02/19 04:00 PM - Appropriations (APP): SHB 1303 Environmental justice
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164629&caId=26007&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164629&caId=26007&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164629&caId=26007&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164629&caId=26007&tId=4)
-
-#### 385 👍 - Pro
+#### 436 👍 - Pro
 Testifying:
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * JC Harris - Sea-Tac Noise.Info
 * 💵Jean Hill - Washington State Catholic Conference
 
-#### 720 👎 - Con
+#### 750 👎 - Con
 Testifying:
 * john worthington
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * TaraLyn Fray
 * Anthony Holan
 * 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Kelsey Hulse - Washington State Association of Counties and Association of Washington Cities
 
 ### Thu 01/23 08:00 AM - Environment & Energy (ENVI): HB 1303 Environmental justice
 #### 1034 👍 - Pro

@@ -7,3 +7,18 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 02/25 08:00 AM - Finance (FIN): HB 1839 Advanced computing surcharge
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164677&caId=26075&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164677&caId=26075&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164677&caId=26075&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164677&caId=26075&tId=4)
+
+#### 14 👍 - Pro
+Testifying:
+* Nicholas Dumouchel - Communities for Our College
+* Angelita Cervantes - Communities for Our College
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other

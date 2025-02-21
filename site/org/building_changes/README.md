@@ -12,6 +12,8 @@
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
+### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax 👍1  
+
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
 ### [HB 1540](/bill/2025-26/hb/1540/) - Homelessness/tribal colleges 👍2  
@@ -31,13 +33,13 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍2  
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍3  
 
 ### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍1  
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
-### [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market 👍1  
+### [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market 👍2  
 
 ### [SB 5542](/bill/2025-26/sb/5542/) - HS completers/CTC tuition 👍1  
 

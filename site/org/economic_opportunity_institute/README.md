@@ -9,6 +9,8 @@
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍1  
 
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
+
 ### [HB 1382](/bill/2025-26/hb/1382/) - All payers claim database 👍2  
 
 ### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program   ❓1

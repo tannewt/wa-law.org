@@ -9,7 +9,8 @@
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
 * 👍💵 Kelsey Hulse
 
-### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates   ❓1
+### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates   ❓2
+* ❓💵 Travis Dutton
 * ❓💵 Travis Dutton
 
 ### [HB 1099](/bill/2025-26/hb/1099/) - Tenant assistance program  👎1 
@@ -27,7 +28,8 @@
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals   ❓1
 * ❓💵 Paul Jewell
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management   ❓1
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management   ❓2
+* ❓💵 Travis Dutton
 * ❓💵 Travis Dutton
 
 ### [HB 1158](/bill/2025-26/hb/1158/) - Community inclusion services  👎1 
@@ -82,7 +84,7 @@
 ### [HB 1397](/bill/2025-26/hb/1397/) - Local property tax levies 👍1  
 * 👍💵 Paul Jewell
 
-### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍1  
+### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍2  
 * 👍💵 Travis Dutton
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  

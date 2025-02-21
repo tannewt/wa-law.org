@@ -4,6 +4,10 @@
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy   ❓1
 * ❓💵 Natasha Jackson
 
+### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties  👎1 
+
+### [HB 1913](/bill/2025-26/hb/1913/) - Public utility tax credit  👎1 
+
 ### [SB 5429](/bill/2025-26/sb/5429/) - State building code council 👍1  
 * 👍💵 Natasha Jackson
 

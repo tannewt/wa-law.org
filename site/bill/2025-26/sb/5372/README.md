@@ -8,20 +8,25 @@
 
 ## Meetings
 ### Thu 02/20 08:00 AM - Health & Long Term Care (HLTC): SB 5372 Medicaid access program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164272&caId=25831&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164272&caId=25831&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164272&caId=25831&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164272&caId=25831&tId=4)
-
-#### 187 👍 - Pro
+#### 334 👍 - Pro
 Testifying:
 * CHELSEA UNRUH - None
+* 💵Amy Brackenbury - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
+* 💵Sean Graham - Washington State Medical Association
+* MD, Anna McKeone - Washington Chapter - American College of Emergency Physicians
+* MD, Beth Ebel - Washington Chapter of the American Academy of Pediatrics
+* MD, Lloyd Stambaugh - Washington State Radiological Society
+* 💵Paula Sardinas - WBBA/YMCA
 
-#### 4 👎 - Con
+#### 102 👎 - Con
 Testifying:
 * Mike Ennis - Building Industry Association of Washington (BIAW)
+* 💵Christine Brewer - [Premera Blue Cross](/org/premera_blue_cross/)
+* Chris Bandoli - National Association of Benefits and Insurance Professionals Washington
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Jim Freeburg - Patient Coalition of Washington
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)

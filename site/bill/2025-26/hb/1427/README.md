@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/04 01:30 PM - Health Care & Wellness (HCW): HB 1427 Peer support specialists

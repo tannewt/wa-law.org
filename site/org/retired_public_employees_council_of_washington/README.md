@@ -21,7 +21,7 @@
 
 ### [HB 1642](/bill/2025-26/hb/1642/) - Pension plan choice 👍1  
 
-### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍65  
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍73  
 
 ### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans 👍64  
 * 👍 Judith Fosmo
@@ -33,11 +33,13 @@
 
 ### [SB 5357](/bill/2025-26/sb/5357/) - Actuarial pension funding  👎1 
 
-## [SB 5387](/bill/2025-26/sb/5387/) - Corp. practice of medicine 👍1  
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp. practice of medicine 👍1  
+
+## [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
 
 ## 2023-24
 
-### [SB 5387](/bill/2023-24/sb/5387/) - Corp. practice of medicine 👍1  
+### [SB 5738](/bill/2023-24/sb/5738/) - Retired employees/work 👍1  
 
 ### [HB 1035](/bill/2023-24/hb/1035/) - Health care restrictions 👍1  
 

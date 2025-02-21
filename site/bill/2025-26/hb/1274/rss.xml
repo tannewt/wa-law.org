@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1274/</link>
 		<description>Updates about HB 1274</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 15 Feb 2025 11:06:11 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 06:54:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -207,6 +207,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Tiffany/Attrill/2025-02-15 11:06:11</guid>
+		</item>
+		<item>
+			<title>👎Roshelle Cleland - LCS Northwest</title>
+			<description>Roshelle Cleland signed up to testify Con. They are signed up to represent LCS Northwest.</description>
+			<pubDate>Wed, 19 Feb 2025 02:46:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Roshelle/Cleland/2025-02-19 02:46:09</guid>
+		</item>
+		<item>
+			<title>👍Kathryn Loring - Washington State Minority and Justice Commission</title>
+			<description>Kathryn Loring signed up to testify Pro. They are signed up to represent Washington State Minority and Justice Commission.</description>
+			<pubDate>Wed, 19 Feb 2025 03:10:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kathryn/Loring/2025-02-19 03:10:17</guid>
+		</item>
+		<item>
+			<title>👍Denise Blacketer - Washington State Minority and Justice Commission</title>
+			<description>Denise Blacketer signed up to testify Pro.</description>
+			<pubDate>Wed, 19 Feb 2025 06:54:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Denise/Blacketer/2025-02-19 06:54:09</guid>
 		</item>
 	</channel>
 </rss>

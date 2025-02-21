@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Wed 02/19 01:30 PM - Consumer Protection & Business (CPB): HB 1884 Cannabis regulation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32801&aId=164316&caId=25922&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32801&aId=164316&caId=25922&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32801&aId=164316&caId=25922&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32801&aId=164316&caId=25922&tId=4)
-
 #### 8 👍 - Pro
 Testifying:
 * 💵Vicki Christophersen - Washington CannaBusiness Association
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)

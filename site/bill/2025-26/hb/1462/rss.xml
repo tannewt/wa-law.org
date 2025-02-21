@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1462/</link>
 		<description>Updates about HB 1462</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Feb 2025 06:21:29 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 10:11:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -187,7 +187,7 @@
 			<guid isPermaLink="false">testifier/Carolyn/Logue/2025-02-17 09:02:05</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - Lake Washington High School</title>
+			<title>👎TaraLyn Fray - PCC Markets</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Wed, 19 Feb 2025 05:56:11 GMT</pubDate>
 			<category>testifier</category>
@@ -195,12 +195,36 @@
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-02-19 05:56:11</guid>
 		</item>
 		<item>
-			<title>👎Anthony Holan - Lake Washington High School</title>
+			<title>👎Anthony Holan - PCC Markets</title>
 			<description>Anthony Holan signed up to testify Con.</description>
 			<pubDate>Wed, 19 Feb 2025 06:21:29 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Anthony/Holan/2025-02-19 06:21:29</guid>
+		</item>
+		<item>
+			<title>👍Christina Starr - Environmental Investigation Agency</title>
+			<description>Christina Starr signed up to testify Pro. They are signed up to represent Environmental Investigation Agency.</description>
+			<pubDate>Wed, 19 Feb 2025 10:11:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Christina/Starr/2025-02-19 10:11:13</guid>
+		</item>
+		<item>
+			<title>👍Kate White Tudor - Natural Resources Defense Council</title>
+			<description>Kate White Tudor signed up to testify Pro. They are signed up to represent Natural Resources Defense Council.</description>
+			<pubDate>Wed, 19 Feb 2025 10:11:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kate White/Tudor/2025-02-19 10:11:13</guid>
+		</item>
+		<item>
+			<title>👍Rebecca Robinson - PCC Markets</title>
+			<description>Rebecca Robinson signed up to testify Pro. They are signed up to represent PCC Markets.</description>
+			<pubDate>Wed, 19 Feb 2025 10:11:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rebecca/Robinson/2025-02-19 10:11:13</guid>
 		</item>
 	</channel>
 </rss>

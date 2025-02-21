@@ -1,6 +1,8 @@
 # Earthjustice
 ## 2025-26
 
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
+
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council.   ❓1
 * ❓ Eric Gonzalez Alfaro
 

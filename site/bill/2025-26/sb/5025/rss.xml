@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5025/</link>
 		<description>Updates about SB 5025</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -73,6 +73,20 @@
 			<pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-12/Placed on second reading consent calendar.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-19/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</description>
+			<pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-19/Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/21 10:30 AM - Labor & Commerce (LC): SB 5292 Family & medical leave rates

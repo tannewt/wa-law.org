@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1980/</link>
 		<description>Updates about HB 1980</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Feb 2025 09:29:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,14 @@
 			<pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-14/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍💵Jodie Alberts - Bellevue Chamber of Commerce</title>
+			<description>Jodie Alberts signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/bellevue_chamber_of_commerce/"&gt;Bellevue Chamber of Commerce&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 20 Feb 2025 09:29:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jodie/Alberts/2025-02-20 09:29:22</guid>
 		</item>
 	</channel>
 </rss>

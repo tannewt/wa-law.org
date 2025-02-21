@@ -5,7 +5,7 @@
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
-### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍1  
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍2  
 
 ### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍2  
 * 👍💵 Anthony Blankenship
@@ -25,7 +25,7 @@
 
 ### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
 
-### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍3  
 
 ### [HB 1301](/bill/2025-26/hb/1301/) - Confinement fees & expenses 👍1  
 

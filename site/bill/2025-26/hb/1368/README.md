@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers may tap brakes on specialty license plates • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-lawmakers-may-tap-brakes-on-specialty-license-plates/#:~:text=House%20Bill%201368)
 * 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201368)
 
 ## Meetings
@@ -17,12 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32844&aId=164088&caId=25970&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32844&aId=164088&caId=25970&tId=4)
 
-#### 908 👍 - Pro
+#### 1113 👍 - Pro
 Testifying:
 * Kate Van Gent - Seattle Metro Pickleball Association
 * Alyssa Hoyt - [Mount St. Helens Institute](/org/mount_st._helens_institute/)
 * Cristina Gonzalez
+* Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
+* 💵Michael Transue - LeMay - America's Car Museum
 
-#### 3 👎 - Con
+#### 11 👎 - Con
 
-#### 8 ❓ - Other
+#### 9 ❓ - Other

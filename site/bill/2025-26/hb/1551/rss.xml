@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1551/</link>
 		<description>Updates about HB 1551</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 12:18:54 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -115,6 +115,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Jessica/Pichardo/2025-02-04 12:18:54</guid>
+		</item>
+		<item>
+			<title>CPB - Executive action taken by committee.</title>
+			<description>CPB - Executive action taken by committee.</description>
+			<pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-19/CPB - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1703/</link>
 		<description>Updates about HB 1703</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Feb 2025 07:27:12 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 12:22:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -37,6 +37,30 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Doug/Moore/2025-02-19 07:27:12</guid>
+		</item>
+		<item>
+			<title>👍Philip Ziegler - Emerald Downs</title>
+			<description>Philip Ziegler signed up to testify Pro. They are signed up to represent Emerald Downs.</description>
+			<pubDate>Wed, 19 Feb 2025 12:22:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Philip/Ziegler/2025-02-19 12:22:09</guid>
+		</item>
+		<item>
+			<title>👍Rocio Reyes - Emerald Downs</title>
+			<description>Rocio Reyes signed up to testify Pro. They are signed up to represent Emerald Downs.</description>
+			<pubDate>Wed, 19 Feb 2025 12:22:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Rocio/Reyes/2025-02-19 12:22:09</guid>
+		</item>
+		<item>
+			<title>👍Ron Crockett - Emerald Downs</title>
+			<description>Ron Crockett signed up to testify Pro. They are signed up to represent Emerald Downs.</description>
+			<pubDate>Wed, 19 Feb 2025 12:22:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ron/Crockett/2025-02-19 12:22:09</guid>
 		</item>
 	</channel>
 </rss>

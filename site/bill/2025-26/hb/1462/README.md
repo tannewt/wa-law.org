@@ -13,22 +13,19 @@
 
 ## Meetings
 ### Wed 02/19 04:00 PM - Appropriations (APP): SHB 1462 Hydrofluorocarbons
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164198&caId=25911&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164198&caId=25911&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164198&caId=25911&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164198&caId=25911&tId=4)
-
-#### 410 👍 - Pro
+#### 435 👍 - Pro
 Testifying:
 * Tianyi (Matthew) Tong - Lake Washington High School
+* Christina Starr - Environmental Investigation Agency
+* Kate White Tudor - Natural Resources Defense Council
+* Rebecca Robinson - PCC Markets
 
-#### 780 👎 - Con
+#### 808 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Anthony Holan
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Carolyn Logue - WA Air Conditioning Contractors Association
 

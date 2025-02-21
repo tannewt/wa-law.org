@@ -17,12 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32875&aId=164471&caId=25839&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32875&aId=164471&caId=25839&tId=4)
 
-#### 9 👍 - Pro
+#### 15 👍 - Pro
 
-#### 842 👎 - Con
+#### 1335 👎 - Con
 Testifying:
 * Terri Anderson - Tenants Union of Washington State
 * 💵Michele Thomas - Washington Low Income Housing Alliance
 * Terri Anderson - Tenants Union of Washington State
+* Deborah Wilson - LMTA
+* Caroline Hardy - AMHO and Leisure Manor Tenants Association Secretary
+* TaraLyn Fray
 
 #### 1 ❓ - Other

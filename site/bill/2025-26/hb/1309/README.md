@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Wed 02/19 04:00 PM - Appropriations (APP): HB 1309 Burrowing shrimp
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164630&caId=26008&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164630&caId=26008&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164630&caId=26008&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164630&caId=26008&tId=4)
-
-#### 587 👍 - Pro
+#### 600 👍 - Pro
 Testifying:
 * TaraLyn Fray
+* Kathleen Nisbet-Moncy - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)
+* Marilyn Sheldon - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)
 
-#### 16 👎 - Con
+#### 17 👎 - Con
 Testifying:
 * Darlene Schanfald
 * john worthington

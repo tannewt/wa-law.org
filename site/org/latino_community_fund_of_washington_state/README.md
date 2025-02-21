@@ -6,7 +6,7 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍💵 Jake García
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍2  
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍2  
 * 👍💵 Jake García

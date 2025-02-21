@@ -17,9 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32875&aId=164523&caId=25976&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32875&aId=164523&caId=25976&tId=4)
 
-#### 92 👍 - Pro
+#### 95 👍 - Pro
+Testifying:
+* Elizabeth Kang
 
-#### 60 👎 - Con
+#### 438 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

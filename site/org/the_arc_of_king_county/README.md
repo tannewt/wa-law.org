@@ -49,6 +49,8 @@
 
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
 
+### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  
+
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍1  
 
 ### [SB 5064](/bill/2025-26/sb/5064/) - Rare diseases adv. council 👍2  

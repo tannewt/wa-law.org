@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1672/</link>
 		<description>Updates about HB 1672</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 08:26:54 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -83,6 +83,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Rose/Feliciano/2025-02-11 08:26:54</guid>
+		</item>
+		<item>
+			<title>LAWS - Executive action taken by committee.</title>
+			<description>LAWS - Executive action taken by committee.</description>
+			<pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-19/LAWS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Minority; do not pass.</title>
+			<description>Minority; do not pass.</description>
+			<pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-19/Minority; do not pass.</guid>
 		</item>
 	</channel>
 </rss>

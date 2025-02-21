@@ -13,6 +13,8 @@
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 
+### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
+
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  

@@ -7,6 +7,8 @@
 
 ### [HB 1091](/bill/2025-26/hb/1091/) - SVP supervision credit 👍1  
 
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification  👎1 
+
 ### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services  👎2 
 * 👎 Mary Long
 
@@ -47,7 +49,7 @@
 
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎1 
 
-### [HB 1448](/bill/2025-26/hb/1448/) - Local elections  👎1 
+### [HB 1448](/bill/2025-26/hb/1448/) - Local elections  👎3 
 
 ### [HB 1504](/bill/2025-26/hb/1504/) - Firearm financial resp.  👎2 
 
@@ -58,11 +60,11 @@
 ### [HB 1677](/bill/2025-26/hb/1677/) - Postsecondary/med. abortion 👍1 👎4 
 * 👎 Mary Long
 
-### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎2 
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎3 
 
 ### [HB 1745](/bill/2025-26/hb/1745/) - Election audits 👍2  
 
-### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎2 
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎3 
 
 ### [HB 1817](/bill/2025-26/hb/1817/) - Schools/sexual assault  👎3 
 

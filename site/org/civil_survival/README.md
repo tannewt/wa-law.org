@@ -19,7 +19,7 @@
 
 ### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍2  
 
-### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍3  
 
 ### [HB 1301](/bill/2025-26/hb/1301/) - Confinement fees & expenses 👍2  
 * 👍💵 Kelly Olson

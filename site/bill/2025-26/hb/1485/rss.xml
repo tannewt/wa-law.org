@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1485/</link>
 		<description>Updates about HB 1485</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Feb 2025 10:17:15 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -83,6 +83,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Mykhail/Lembke/2025-02-12 10:17:15</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-19/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>PEW - Executive action taken by committee.</title>
+			<description>PEW - Executive action taken by committee.</description>
+			<pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-19/PEW - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

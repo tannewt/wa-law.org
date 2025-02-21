@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1647/</link>
 		<description>Updates about HB 1647</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 08:13:23 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,6 +45,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Charity/Whaley/2025-02-11 08:13:23</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-19/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

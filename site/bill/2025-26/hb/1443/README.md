@@ -19,14 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164751&caId=26041&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164751&caId=26041&tId=4)
 
-#### 18 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Kol Peterson
 * TODD MCKELLIPS - Washington Tiny House Association, Seattle Tiny Homes and the roots collective farm buckley
 * Kol Peterson
+* Zachariah Giffin - Operation Tiny Home
 
-#### 10 👎 - Con
+#### 18 👎 - Con
 
 #### 0 ❓ - Other
 

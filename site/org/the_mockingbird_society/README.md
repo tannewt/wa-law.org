@@ -75,7 +75,7 @@
 ### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍3  
 * 👍💵 Samuel Martin
 
-### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
+### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍2  
 
 ### [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS 👍1  
 

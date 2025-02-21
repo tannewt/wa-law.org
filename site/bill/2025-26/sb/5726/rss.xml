@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5726/</link>
 		<description>Updates about SB 5726</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Feb 2025 12:37:53 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 19:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -467,6 +467,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Anthony/Stockman/2025-02-18 12:37:53</guid>
+		</item>
+		<item>
+			<title>Washington pay-per-mile proposal draws praise, skepticism | Washington | thecentersquare.com</title>
+			<description>News article "Washington pay-per-mile proposal draws praise, skepticism | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 19 Feb 2025 19:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_9f54c21e-ef22-11ef-8783-3b7e85caa576.html#:~:text=Senate%20Bill%205726</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1846/</link>
 		<description>Updates about HB 1846</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Feb 2025 08:08:18 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 11:11:41 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -36,6 +36,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Audrey/Baker/2025-02-18 08:08:18</guid>
+		</item>
+		<item>
+			<title>👍Chris Masse - Sounders FC</title>
+			<description>Chris Masse signed up to testify Pro. They are signed up to represent Sounders FC.</description>
+			<pubDate>Wed, 19 Feb 2025 11:11:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chris/Masse/2025-02-19 11:11:41</guid>
 		</item>
 	</channel>
 </rss>

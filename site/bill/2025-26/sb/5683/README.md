@@ -8,17 +8,14 @@
 
 ## Meetings
 ### Thu 02/20 08:00 AM - Health & Long Term Care (HLTC): SB 5683 Health carrier payment times
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164273&caId=25832&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164273&caId=25832&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164273&caId=25832&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164273&caId=25832&tId=4)
-
-#### 45 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Jane Beyer - Office of the Insurance Commissioner
 * 💵Lisa Thatcher - Washington State Hospital Association
+* Adam Dittemore - EvergreenHealth
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans

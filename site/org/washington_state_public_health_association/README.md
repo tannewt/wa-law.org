@@ -25,7 +25,8 @@
 ### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program 👍1  
 * 👍💵 Amy Brackenbury
 
-### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax 👍1  
+### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax 👍2  
+* 👍 Megan Moore
 
 ### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍1  
 
@@ -62,7 +63,8 @@
 ### [SB 5353](/bill/2025-26/sb/5353/) - Diabetes and obesity 👍1  
 * 👍 Megan Moore
 
-### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program 👍1  
+### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program 👍2  
+* 👍💵 Amy Brackenbury
 
 ### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 

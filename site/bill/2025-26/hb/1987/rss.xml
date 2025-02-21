@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1987/</link>
 		<description>Updates about HB 1987</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Feb 2025 05:07:50 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Feb 2025 09:45:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -16,7 +16,7 @@
 			<guid isPermaLink="false">2025-02-17/First reading, referred to Agriculture &amp; Natural Resources.</guid>
 		</item>
 		<item>
-			<title>👍Michal Paul - Enterprise Mobility</title>
+			<title>👍Michal Paul - Dept. of Revenue</title>
 			<description>Michal Paul signed up to testify Pro.</description>
 			<pubDate>Tue, 18 Feb 2025 05:07:50 GMT</pubDate>
 			<category>testifier</category>
@@ -24,12 +24,20 @@
 			<guid isPermaLink="false">testifier/Michal/Paul/2025-02-18 05:07:50</guid>
 		</item>
 		<item>
-			<title>👍Noa Romach - Enterprise Mobility</title>
+			<title>👍Noa Romach - Dept. of Revenue</title>
 			<description>Noa Romach signed up to testify Pro.</description>
 			<pubDate>Tue, 18 Feb 2025 05:07:50 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Noa/Romach/2025-02-18 05:07:50</guid>
+		</item>
+		<item>
+			<title>👍Eric Williams - Second Harvest Inland Northwest</title>
+			<description>Eric Williams signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/second_harvest_inland_northwest/"&gt;Second Harvest Inland Northwest&lt;/a&gt;.</description>
+			<pubDate>Thu, 20 Feb 2025 09:45:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Eric/Williams/2025-02-20 09:45:50</guid>
 		</item>
 	</channel>
 </rss>

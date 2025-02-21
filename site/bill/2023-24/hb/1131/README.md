@@ -38,7 +38,7 @@ Testifying:
 #### 44 👎 - Con
 Testifying:
 * Candace Joy - [Washington State Veterinary Medical Association](/org/washington_state_veterinary_medical_association/)
-* Carlos Gutierrez - Consumer Healthcare Products Association (CHPA)
+* 💵Carlos Gutierrez - Consumer Healthcare Products Association (CHPA)
 * Erin Hall - [American Forest & Paper Association](/org/american_forest_&_paper_association/)
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
@@ -99,7 +99,7 @@ Testifying:
 * 💵Andrew Hackman - AMERIPEN
 * Christopher Reigelsperger - Waste Management
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
-* Carlos Gutierrez - Consumer Healthcare Products Association (CHPA)
+* 💵Carlos Gutierrez - Consumer Healthcare Products Association (CHPA)
 * Sam Schlaich - Flexible Packaging Association
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association

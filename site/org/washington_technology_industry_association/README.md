@@ -18,6 +18,8 @@
 ### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 
 * 👎💵 Kelly Fukai
 
+### [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market   ❓1
+
 ## [SB 5658](/bill/2025-26/sb/5658/) - Workforce education account 👍1  
 
 ## 2023-24

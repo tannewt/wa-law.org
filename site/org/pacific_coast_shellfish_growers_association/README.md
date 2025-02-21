@@ -1,6 +1,8 @@
 # Pacific Coast Shellfish Growers Association
 ## 2025-26
 
+### [HB 1309](/bill/2025-26/hb/1309/) - Burrowing shrimp 👍1  
+
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
 
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  

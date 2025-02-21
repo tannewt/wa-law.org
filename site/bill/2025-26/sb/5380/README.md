@@ -14,12 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32821&aId=164220&caId=25826&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32821&aId=164220&caId=25826&tId=4)
 
-#### 537 👍 - Pro
+#### 695 👍 - Pro
 Testifying:
 * 💵Jean Hill - Washington State Catholic Conference
 * Jamie Stroble - [The Nature Conservancy](/org/the_nature_conservancy/)
 
-#### 125 👎 - Con
+#### 170 👎 - Con
 Testifying:
 * john worthington
 

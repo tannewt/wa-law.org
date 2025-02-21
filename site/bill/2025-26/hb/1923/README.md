@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Wed 02/19 04:00 PM - Transportation (TR): HB 1923 Passenger-only ferries
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32843&aId=164592&caId=25996&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32843&aId=164592&caId=25996&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32843&aId=164592&caId=25996&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32843&aId=164592&caId=25996&tId=4)
-
-#### 725 👍 - Pro
+#### 783 👍 - Pro
 Testifying:
 * Jeff Coughlin
 * Thomas Bridge
@@ -42,7 +36,22 @@ Testifying:
 * Ashley Mathews - [City of Bainbridge Island](/org/city_of_bainbridge_island/)
 * Vicky de Monterey Richou - VashonBePrepared
 * Evan Saint Clair
+* John Kydd
+* Bobbie Moore
+* Walt Elliott
+* Peter Philips
+* Tom McBride - Kitsap County
+* Rick Hughes - Ray’s Pharmacy - Orcas Island, WA
+* Waylon Robert - Sailors' Union of the Pacific
+* Jared Moravec - Bainbridge Island Fire Department
+* Jeremy Une
+* Curt Gordon - Port of South Whidbey, Commissioner
+* Eric ffitch - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
-#### 5 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Donna Sandstrom - The Whale Trail
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Brandon Rountree

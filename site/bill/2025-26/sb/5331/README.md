@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/30 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5331 Insurance code violations

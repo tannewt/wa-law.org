@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164542&caId=25990&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164542&caId=25990&tId=4)
 
-#### 81 👍 - Pro
+#### 109 👍 - Pro
 Testifying:
 * Lynn Scharff - Great Northern School District
 * 💵Devin Gombosky - ESD 105 Schools Coalition
@@ -24,6 +24,6 @@ Testifying:
 * Dr. Ann Varkados - Lyle and Centerville school districts
 * Tommy Gallegos - Tommy Gallegos
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

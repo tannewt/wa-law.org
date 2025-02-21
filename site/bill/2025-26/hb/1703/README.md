@@ -14,9 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163958&caId=25949&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163958&caId=25949&tId=4)
 
-#### 71 👍 - Pro
+#### 94 👍 - Pro
+Testifying:
+* Philip Ziegler - Emerald Downs
+* Rocio Reyes - Emerald Downs
+* Ron Crockett - Emerald Downs
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

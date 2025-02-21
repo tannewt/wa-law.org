@@ -3,16 +3,19 @@
 
 ### [HB 1596](/bill/2025-26/hb/1596/) - Concerning accountability for persons for speeding. 👍1  
 
+### [HB 1878](/bill/2025-26/hb/1878/) - Young driver safety 👍1  
+
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
 * 👍 Alaina Dahlquist
 
-## [SB 5198](/bill/2025-26/sb/5198/) - Driver training alternative 👍1  
+### [SB 5198](/bill/2025-26/sb/5198/) - Driver training alternative 👍1  
 * 👍 Alaina Dahlquist
+
+## [SB 5695](/bill/2025-26/sb/5695/) - Young driver safety 👍1  
 
 ## 2023-24
 
-### [SB 5198](/bill/2023-24/sb/5198/) - Driver training alternative 👍1  
-* 👍 Alaina Dahlquist
+### [SB 5695](/bill/2023-24/sb/5695/) - Young driver safety 👍1  
 
 ### [HB 1319](/bill/2023-24/hb/1319/) - Collisions/driver reexam 👍1  
 

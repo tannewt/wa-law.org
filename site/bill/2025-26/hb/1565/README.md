@@ -14,15 +14,11 @@
 
 ## Meetings
 ### Wed 02/19 04:00 PM - Appropriations (APP): SHB 1565 Dual enrollment scholarship
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164634&caId=26012&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164634&caId=26012&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164634&caId=26012&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32861&aId=164634&caId=26012&tId=4)
+#### 14 👍 - Pro
+Testifying:
+* John Axtell
 
-#### 12 👍 - Pro
-
-#### 602 👎 - Con
+#### 613 👎 - Con
 Testifying:
 * TaraLyn Fray
 

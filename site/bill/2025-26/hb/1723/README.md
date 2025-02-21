@@ -17,17 +17,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164352&caId=25916&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164352&caId=25916&tId=4)
 
-#### 27 👍 - Pro
+#### 64 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
+* Bryan Johnson - Ironworkers Local 86
+* 💵Heather Kurtenbach - Washington State Building and Construction Trades
+* Sam Hem - [Sheet Metal Workers Local 66](/org/sheet_metal_workers_local_66/)
+* Lisa Bogardus - Seattle Building Trades
+* Monty Anderson - Seattle Building Trades
 
-#### 596 👎 - Con
+#### 837 👎 - Con
 Testifying:
 * Charlie Brown - Schools Coalition
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * Angelica Duncan - Hi Grade Asphalt & Seal Coat Inc
 * TaraLyn Fray
 * Jerry VanderWood - AGC and WA Construction Industry Council (WCIC)
+* 💵Brandon Houskeeper - Southwest WA Contractors Assoc. / Associated Builders & Contractors - Western WA
 * Brian Gregory
 
 #### 0 ❓ - Other

@@ -18,17 +18,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163934&caId=25938&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163934&caId=25938&tId=4)
 
-#### 48 👍 - Pro
+#### 84 👍 - Pro
 Testifying:
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
+* Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* Alyssa Grant - Sea Mar
+* Cora Breuner - Washington Chapter of the American Academy of Pediatrics
+* Siri Rigsby - Neighborcare
+* Addison Thornton
+* Ellen Hong
+* Liana Khachatouriansoradehi
+* Sumi Rasiah
 
-#### 382 👎 - Con
+#### 603 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Brian Gregory
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Katie Beeson - [Washington Food Industry](/org/washington_food_industry/)
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Holly Chisa - Cigar Assn of America
 
 #### 2 ❓ - Other
 Testifying:

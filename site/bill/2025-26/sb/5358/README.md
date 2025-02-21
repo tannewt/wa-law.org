@@ -19,14 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164547&caId=25995&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164547&caId=25995&tId=4)
 
-#### 36 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * Beth Roberts - WA-FACSE
 * Dan Read - Onion Creek School District
+* Tim Knue - Washington Association for Career and Technical Education
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/30 10:30 AM - Early Learning & K-12 Education (EDU): SB 5358 Career & tech. ed./6th grade
 #### 120 👍 - Pro

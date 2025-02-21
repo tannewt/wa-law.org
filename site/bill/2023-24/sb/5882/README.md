@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 02/20/2025 [Senate Democrats](/org/senate_democrats/) - [Resources - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/home/resources/#:~:text=SB%205882)
 * 03/19/2024 [Senate Democrats](/org/senate_democrats/) - [It’s the law: Stanford bill puts $72 million toward more paras in schools - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2024/03/19/its-the-law-stanford-bill-puts-72-million-toward-more-paras-in-schools/#:~:text=SB%205882)
 * 03/08/2024 [FOX13](/org/fox13/) - [Washington's new laws in 2024: Everything you need to know](https://www.fox13seattle.com/news/washingtons-new-laws-in-2024-everything-you-need-to-know#:~:text=SB%205882)
 * 02/12/2024 [FOX13](/org/fox13/) - [Senate bill asking for $770M for paraeducators, some say it's focused on the wrong thing](https://www.fox13seattle.com/news/senate-bill-asking-for-770m-for-paraeducators-some-say-its-focused-on-the-wrong-thing#:~:text=SB%205882)

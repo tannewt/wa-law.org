@@ -22,14 +22,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164617&caId=26020&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164617&caId=26020&tId=4)
 
-#### 303 👍 - Pro
+#### 536 👍 - Pro
 Testifying:
 * Erin Gagnon - DTG Recycle
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 3 👎 - Con
+#### 10 👎 - Con
+Testifying:
+* 💵Lyset Cadena - WM (Waste Management)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Tue 01/21 04:00 PM - Environment & Energy (ENVI): HB 1150 Solid waste management
 #### 1351 👍 - Pro

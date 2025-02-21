@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/20 08:00 AM - Health & Long Term Care (HLTC): SB 5273 Violence prevention services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164271&caId=25830&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164271&caId=25830&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164271&caId=25830&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32877&aId=164271&caId=25830&tId=4)
-
-#### 199 👍 - Pro
+#### 251 👍 - Pro
 Testifying:
 * Addison Sabatini
 * Aliana Pineda
@@ -23,7 +17,12 @@ Testifying:
 * Ryn Wylie
 * Sofia Jalso
 * Kyle Fischer - The Health Alliance for Violence Intervention
+* William Hairston - Center for Children and Youth Justice
+* Dominique Davis - Community Passageways
+* Laura Johnson - Harborview Medical Center, Violence Intervention & Prevention Program
+* Karyn Brownson - King County Public Health
+* Lars Almquist - University of WA, HVIP Researcher
 
-#### 0 👎 - Con
+#### 94 👎 - Con
 
 #### 0 ❓ - Other

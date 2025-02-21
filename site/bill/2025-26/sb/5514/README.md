@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/12 08:00 AM - Environment, Energy & Technology (ENET): SB 5514 Clean buildings standard

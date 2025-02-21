@@ -19,6 +19,8 @@
 
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
 
+### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 
+
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎2 

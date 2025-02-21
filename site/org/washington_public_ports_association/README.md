@@ -27,7 +27,7 @@
 ### [HB 1302](/bill/2025-26/hb/1302/) - Utility connection charges 👍2  
 * 👍 Eric ffitch
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice  👎2 
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice  👎3 
 * 👎💵 Carly Michiels
 * 👎💵 Carly Michiels
 
@@ -76,6 +76,9 @@
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍 Chris Herman
+
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
+* 👍 Eric ffitch
 
 ### [SB 5034](/bill/2025-26/sb/5034/) - System improvement team 👍1  
 

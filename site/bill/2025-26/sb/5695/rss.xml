@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5695/</link>
 		<description>Updates about SB 5695</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Feb 2025 12:15:22 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Feb 2025 04:18:58 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -55,6 +55,14 @@
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-02-18 05:09:06</guid>
 		</item>
 		<item>
+			<title>👎Iman Janoo - AAA Washington</title>
+			<description>Iman Janoo signed up to testify Con.</description>
+			<pubDate>Wed, 19 Feb 2025 06:46:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Iman/Janoo/2025-02-19 06:46:18</guid>
+		</item>
+		<item>
 			<title>👎Brian Gregory - AAA Washington</title>
 			<description>Brian Gregory signed up to testify Con.</description>
 			<pubDate>Wed, 19 Feb 2025 08:06:49 GMT</pubDate>
@@ -63,12 +71,36 @@
 			<guid isPermaLink="false">testifier/Brian/Gregory/2025-02-19 08:06:49</guid>
 		</item>
 		<item>
+			<title>👎Eyoab Tesfaye - AAA Washington</title>
+			<description>Eyoab Tesfaye signed up to testify Con.</description>
+			<pubDate>Wed, 19 Feb 2025 08:41:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Eyoab/Tesfaye/2025-02-19 08:41:55</guid>
+		</item>
+		<item>
+			<title>👍Martha Foster Lucas - WA State Coalition of African Community Leaders</title>
+			<description>Martha Foster Lucas signed up to testify Pro. They are signed up to represent WA State Coalition of African Community Leaders.</description>
+			<pubDate>Wed, 19 Feb 2025 12:01:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Martha/Foster Lucas/2025-02-19 12:01:32</guid>
+		</item>
+		<item>
 			<title>👍Mellani McAleenan - AAA Washington</title>
 			<description>Mellani McAleenan signed up to testify Pro. They are signed up to represent AAA Washington.</description>
 			<pubDate>Wed, 19 Feb 2025 12:15:22 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Mellani/McAleenan/2025-02-19 12:15:22</guid>
+		</item>
+		<item>
+			<title>👎ZHENHONG MENG - AAA Washington</title>
+			<description>ZHENHONG MENG signed up to testify Con.</description>
+			<pubDate>Thu, 20 Feb 2025 04:18:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/ZHENHONG/MENG/2025-02-20 04:18:58</guid>
 		</item>
 	</channel>
 </rss>

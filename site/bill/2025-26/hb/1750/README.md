@@ -21,11 +21,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164623&caId=26026&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164623&caId=26026&tId=4)
 
-#### 239 👍 - Pro
+#### 262 👍 - Pro
 Testifying:
 * 💵Alex Hur - OneAmerica
+* Marisa Wright - Campaign Legal Center
 
-#### 63 👎 - Con
+#### 868 👎 - Con
 
 #### 0 ❓ - Other
 

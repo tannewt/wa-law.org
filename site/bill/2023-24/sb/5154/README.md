@@ -62,7 +62,7 @@ Testifying:
 * 💵Andrew Hackman - AMERIPEN
 * Christopher Reigelsperger - Waste Management
 * 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
-* Carlos Gutierrez - Consumer Healthcare Products Association (CHPA)
+* 💵Carlos Gutierrez - Consumer Healthcare Products Association (CHPA)
 * Sam Schlaich - Flexible Packaging Association - Annapolis, MD
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association

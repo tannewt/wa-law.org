@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1416/</link>
 		<description>Updates about HB 1416</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Feb 2025 09:07:28 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 12:36:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,7 +46,7 @@
 			<guid isPermaLink="false">testifier/Scott/Waller/2025-02-17 11:15:04</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - WASAVP - Washington Association for Substance misuse and Violence Prevention</title>
+			<title>👎TaraLyn Fray - Neighborcare</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Tue, 18 Feb 2025 05:10:12 GMT</pubDate>
 			<category>testifier</category>
@@ -62,7 +62,39 @@
 			<guid isPermaLink="false">testifier/Lindsey/Stroud/2025-02-18 09:59:10</guid>
 		</item>
 		<item>
-			<title>👎Brian Gregory - WASAVP - Washington Association for Substance misuse and Violence Prevention</title>
+			<title>👍Megan Moore - Washington State Public Health Association</title>
+			<description>Megan Moore signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_public_health_association/"&gt;Washington State Public Health Association&lt;/a&gt;.</description>
+			<pubDate>Wed, 19 Feb 2025 02:05:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Megan/Moore/2025-02-19 02:05:01</guid>
+		</item>
+		<item>
+			<title>👍Alyssa Grant - Sea Mar</title>
+			<description>Alyssa Grant signed up to testify Pro. They are signed up to represent Sea Mar.</description>
+			<pubDate>Wed, 19 Feb 2025 02:24:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alyssa/Grant/2025-02-19 02:24:57</guid>
+		</item>
+		<item>
+			<title>👍Cora Breuner - Washington Chapter of the American Academy of Pediatrics</title>
+			<description>Cora Breuner signed up to testify Pro. They are signed up to represent Washington Chapter of the American Academy of Pediatrics.</description>
+			<pubDate>Wed, 19 Feb 2025 03:28:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cora/Breuner/2025-02-19 03:28:22</guid>
+		</item>
+		<item>
+			<title>👍Siri Rigsby - Neighborcare</title>
+			<description>Siri Rigsby signed up to testify Pro. They are signed up to represent Neighborcare.</description>
+			<pubDate>Wed, 19 Feb 2025 04:41:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Siri/Rigsby/2025-02-19 04:41:12</guid>
+		</item>
+		<item>
+			<title>👎Brian Gregory - Neighborcare</title>
 			<description>Brian Gregory signed up to testify Con.</description>
 			<pubDate>Wed, 19 Feb 2025 08:08:30 GMT</pubDate>
 			<category>testifier</category>
@@ -92,6 +124,46 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Max/Martin/2025-02-19 09:07:28</guid>
+		</item>
+		<item>
+			<title>👍Addison Thornton - Neighborcare</title>
+			<description>Addison Thornton signed up to testify Pro.</description>
+			<pubDate>Wed, 19 Feb 2025 09:15:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Addison/Thornton/2025-02-19 09:15:57</guid>
+		</item>
+		<item>
+			<title>👍Ellen Hong - Neighborcare</title>
+			<description>Ellen Hong signed up to testify Pro.</description>
+			<pubDate>Wed, 19 Feb 2025 09:15:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ellen/Hong/2025-02-19 09:15:57</guid>
+		</item>
+		<item>
+			<title>👍Liana Khachatouriansoradehi - Neighborcare</title>
+			<description>Liana Khachatouriansoradehi signed up to testify Pro.</description>
+			<pubDate>Wed, 19 Feb 2025 09:15:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Liana/Khachatouriansoradehi/2025-02-19 09:15:57</guid>
+		</item>
+		<item>
+			<title>👍Sumi Rasiah - Neighborcare</title>
+			<description>Sumi Rasiah signed up to testify Pro.</description>
+			<pubDate>Wed, 19 Feb 2025 09:15:57 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sumi/Rasiah/2025-02-19 09:15:57</guid>
+		</item>
+		<item>
+			<title>👎💵Holly Chisa - Cigar Assn of America</title>
+			<description>Holly Chisa signed up to testify Con. They are signed up to represent Cigar Assn of America. They are a registered lobbyist.</description>
+			<pubDate>Wed, 19 Feb 2025 12:36:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Holly/Chisa/2025-02-19 12:36:59</guid>
 		</item>
 	</channel>
 </rss>

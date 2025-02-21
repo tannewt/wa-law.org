@@ -14,13 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164752&caId=26042&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164752&caId=26042&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 
-#### 5 👎 - Con
+#### 161 👎 - Con
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
 
 ### Thu 02/20 04:00 PM - Appropriations (APP): HB 1476 Nursing home rate rebase
 Sign up to testify:

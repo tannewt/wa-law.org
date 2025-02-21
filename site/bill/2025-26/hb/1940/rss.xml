@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1940/</link>
 		<description>Updates about HB 1940</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Feb 2025 09:26:46 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 19 Feb 2025 11:35:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -221,6 +221,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jeff/Anderson/2025-02-19 09:26:46</guid>
+		</item>
+		<item>
+			<title>👎Rolando RO-Lando - Green Roads Cannabis</title>
+			<description>Rolando RO-Lando signed up to testify Con. They are signed up to represent Green Roads Cannabis.</description>
+			<pubDate>Wed, 19 Feb 2025 09:59:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rolando/RO-Lando/2025-02-19 09:59:39</guid>
+		</item>
+		<item>
+			<title>👍Stanley Johnson - Dewy Cannabis</title>
+			<description>Stanley Johnson signed up to testify Pro.</description>
+			<pubDate>Wed, 19 Feb 2025 10:49:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Stanley/Johnson/2025-02-19 10:49:30</guid>
+		</item>
+		<item>
+			<title>👎Logan Bowers - Green Roads Cannabis</title>
+			<description>Logan Bowers signed up to testify Con.</description>
+			<pubDate>Wed, 19 Feb 2025 11:35:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Logan/Bowers/2025-02-19 11:35:24</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,8 +5,10 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/19/2025 [KING5](/org/king5/) - [Secretary of State opposes proposed changes to initiative process | king5.com](https://www.king5.com/article/news/local/washington-secretary-of-state-opposes-proposed-changes-to-initiative-process/281-97c30899-1759-4888-a540-c6356cfa73a2#:~:text=Senate%20Bill%205382)
 * 02/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Clash in WA Legislature over proposal to add rules for initiative signers • Washington State Standard](https://washingtonstatestandard.com/2025/02/19/clash-in-wa-legislature-over-proposal-to-add-rules-for-initiative-signers/#:~:text=Senate%20Bill%205382)
 * 02/18/2025 [The Center Square](/org/the_center_square/) - [WATCH: Bill dubbed by critics as the 'initiative killer' passed out of Senate committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d05294e4-ee51-11ef-85ec-37b7048af6da.html#:~:text=SB%205382,)
 * 02/17/2025 [Senate Republicans](/org/senate_republicans/) - [Bill that would sabotage the initiative process voted out of committee today - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-sabotage-initiative-process-voted-committee-tomorrow/#:~:text=Senate%20Bill%205382)

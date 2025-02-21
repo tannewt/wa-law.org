@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Wed 02/19 01:30 PM - State Government & Tribal Relations (SGOV): HB 1949 Scholarly communications/PRA
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32851&aId=164637&caId=26004&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32851&aId=164637&caId=26004&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32851&aId=164637&caId=26004&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32851&aId=164637&caId=26004&tId=4)
-
-#### 59 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * Jacob Vigdor - University Of Washington Faculty
 * ROBERT BERRIDGE
 
 #### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters

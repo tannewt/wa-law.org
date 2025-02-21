@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/12 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1909 Court unification task force

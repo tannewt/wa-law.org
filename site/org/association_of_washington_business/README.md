@@ -123,7 +123,8 @@
 
 ### [HB 1297](/bill/2025-26/hb/1297/) - Child support/self-employed  👎1 
 
-### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice  👎2 
+### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice  👎3 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 

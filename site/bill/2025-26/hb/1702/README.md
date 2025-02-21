@@ -14,13 +14,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163955&caId=25946&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163955&caId=25946&tId=4)
 
-#### 17 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 
-#### 189 👎 - Con
+#### 630 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
+* Kenneth Spaeth
+* Tim Eyman - Initiative Activist
+* TaraLyn Fray
+* Jeff Gombosky - CTIA - The Wireless Association
 
 #### 1 ❓ - Other
 Testifying:

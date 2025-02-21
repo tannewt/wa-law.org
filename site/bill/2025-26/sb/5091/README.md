@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32821&aId=164553&caId=25979&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32821&aId=164553&caId=25979&tId=4)
 
-#### 556 👍 - Pro
+#### 1386 👍 - Pro
 Testifying:
 * Eric Badger - [Lynden Incorporated](/org/lynden_incorporated/)
 * Steve Gordon - Gordon Truck Centers
@@ -33,9 +33,11 @@ Testifying:
 * Mike Chester - Peninsula Truck Lines
 * Corey Daniels - Papé Kenworth
 * Joel Bouchey
+* TaraLyn Fray
 
-#### 155 👎 - Con
+#### 351 👎 - Con
 Testifying:
 * Jeffrey Pack - Me
+* Christine Cooley - [Puget Sound Clean Air Agency](/org/puget_sound_clean_air_agency/)
 
 #### 2 ❓ - Other

@@ -20,13 +20,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164543&caId=25991&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164543&caId=25991&tId=4)
 
-#### 323 👍 - Pro
+#### 551 👍 - Pro
 Testifying:
+* Evan Klein - Washington State Health Care Authority
+* 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Pam MacEwan - Purchasers Business Group on Health
+* Jane Beyer - Washington State Office of the Insurance Commissioner
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 
-#### 60 👎 - Con
+#### 124 👎 - Con
+Testifying:
+* 💵Lisa Thatcher - Washington State Hospital Association
+* Ashley Thurow - Providence Health and Services
+* Brian Gibbons - [Astria Health](/org/astria_health/)
+* Chris Bredeson - EvergreenHealth
+* Elise Cutter - Island Health
+* Matt Forge - Pullman Regional Hospital
+* 💵Dorothy Miller - [Seattle Children's Hospital](/org/seattle_children's_hospital/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 ### Fri 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5083 Health carrier reimbursement
 #### 643 👍 - Pro

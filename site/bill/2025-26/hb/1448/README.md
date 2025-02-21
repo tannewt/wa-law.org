@@ -21,9 +21,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164729&caId=26035&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164729&caId=26035&tId=4)
 
-#### 101 👍 - Pro
+#### 334 👍 - Pro
 
-#### 1 👎 - Con
+#### 901 👎 - Con
+Testifying:
+* Arne Christensen
 
 #### 0 ❓ - Other
 

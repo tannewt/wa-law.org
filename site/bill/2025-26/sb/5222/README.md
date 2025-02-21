@@ -5,8 +5,11 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Rent cap bill moves ahead in WA Senate • Washington State Standard](https://washingtonstatestandard.com/briefs/rent-cap-bill-moves-ahead-in-wa-senate/#:~:text=Senate%20Bill%205222)
+* 02/19/2025 [The Center Square](/org/the_center_square/) - [Bill to cap rent increases passes out of WA Senate Housing Committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3e774676-eef8-11ef-8fae-e3d75bcfa845.html#:~:text=Senate%20Bill%205222)
 * 02/14/2025 [Senate Democrats](/org/senate_democrats/) - [Building an economy that works for all Washingtonians - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/14/building-an-economy-that-works-for-all-washingtonians/#:~:text=SB%205222)
 * 02/13/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: The week ahead in the Legislature Feb. 17-21 - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-week-ahead-legislature-feb-17-21/#:~:text=SB%205222)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205222)

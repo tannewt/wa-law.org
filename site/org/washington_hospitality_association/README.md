@@ -53,6 +53,9 @@
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
 * 👍 Sean DeWitz
 
+### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees  👎1 
+* 👎💵 Julia Gorton
+
 ### [HB 1562](/bill/2025-26/hb/1562/) - Diaper changing stations 👍1  
 * 👍 Samatha Louderback
 

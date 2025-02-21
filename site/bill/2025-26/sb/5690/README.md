@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32808&aId=164493&caId=25872&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32808&aId=164493&caId=25872&tId=4)
 
-#### 5 👍 - Pro
+#### 13 👍 - Pro
+Testifying:
+* 💵Bill Clarke - WA PUD Association
+* Kristin Masteller - Mason PUD No. 1
+* George Sidhu - Skagit PUD
+* 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
 
 #### 0 👎 - Con
 

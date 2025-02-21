@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Wed 02/19 01:30 PM - Consumer Protection & Business (CPB): HB 1826 Mobility equipment repair
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32801&aId=164423&caId=25924&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32801&aId=164423&caId=25924&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32801&aId=164423&caId=25924&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32801&aId=164423&caId=25924&tId=4)
-
-#### 381 👍 - Pro
+#### 394 👍 - Pro
 Testifying:
 * Marsha Cutting
 * Matt Thompson
