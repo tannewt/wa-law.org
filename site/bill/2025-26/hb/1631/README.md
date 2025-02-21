@@ -17,7 +17,7 @@
 Testifying:
 * Eric Von Brandenfels - [Puget Sound Pilots](/org/puget_sound_pilots/)
 * Amy Grondin - Duna Fisheries, LLC
-* Peter Steelquist - Surfrider Foundation
+* 💵Peter Steelquist - [Surfrider Foundation](/org/surfrider_foundation/)
 * Mandy Fuller
 * Jodie Toft - Puget Sound Restoration Fund
 * Miguela Marzolf - Seattle Aquarium

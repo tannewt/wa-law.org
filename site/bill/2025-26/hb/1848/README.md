@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/20/2025 [House Democrats](/org/house_democrats/) - [Doglio Bill Provides Support for Traumatic Brain Injury Survivors – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/20/doglio-bill-provides-support-for-traumatic-brain-injury-survivors/#:~:text=House%20Bill%201848)
+
 ## Meetings
 ### Fri 02/14 08:00 AM - Human Services, Youth, & Early Learning (HSEL): HB 1848 Traumatic brain injuries
 #### 17 👍 - Pro

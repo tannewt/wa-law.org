@@ -14,14 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163955&caId=25946&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163955&caId=25946&tId=4)
 
-#### 29 👍 - Pro
+#### 31 👍 - Pro
 Testifying:
 * Cynthia Stewart - League of Women Voters of WA
 * Clallam County Commission Mark Ozias - Clallam County
 * Island County Commissione Jill Johnson - [Island County](/org/island_county/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 903 👎 - Con
+#### 996 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Kenneth Spaeth
@@ -31,6 +31,7 @@ Testifying:
 * 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
 * Dever Haffner-Ratliffe - Cowlitz Public Utility District
 * 💵Bill Clarke - WA PUD Association + Pierce County Water Cooperative
+* 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
 
 #### 1 ❓ - Other
 Testifying:

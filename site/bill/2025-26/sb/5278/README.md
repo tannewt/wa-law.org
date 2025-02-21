@@ -24,7 +24,9 @@ Sign up to testify:
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 ### Mon 02/03 01:30 PM - Human Services (HS): SB 5278 Juvenile correctional pop.
 #### 21 👍 - Pro

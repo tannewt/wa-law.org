@@ -27,9 +27,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164859&caId=26103&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164859&caId=26103&tId=4)
 
-#### 20 👍 - Pro
+#### 74 👍 - Pro
+Testifying:
+* 💵Melissa Gombosky - ESD 105 Schools Coalition
+* Tyler Muench - Office of Superintendent of Public Instruction
 
-#### 3 👎 - Con
+#### 26 👎 - Con
+Testifying:
+* Lisa Pearson - We, The People of WA
 
 #### 0 ❓ - Other
 

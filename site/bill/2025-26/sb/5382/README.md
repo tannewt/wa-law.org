@@ -28,7 +28,7 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 10 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Laurie Layne

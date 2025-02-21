@@ -36,7 +36,7 @@ Testifying:
 * Allison Kustic - Association of Plastic Recyclers (APR)
 * Brenda Fincher - Councilmember, City of Kent
 * Dr. Mark Vossler - Washington Physicians for Social Responsibility
-* Peter Steelquist - Surfrider Foundation Washington
+* 💵Peter Steelquist - Surfrider Foundation Washington
 * Ann Murphy - League of Women Voters of Washington
 * 💵Edwin Borbon - AMERIPEN
 * 💵Kelsey Hulse - EPR Leadership Forum
@@ -49,7 +49,7 @@ Testifying:
 * 💵Ezra Eickmeyer - EDHC
 * Brenda Fincher - Councilmember, City of Kent
 * Dr. Mark Vossler - Washington Physicians for Social Responsibility
-* Peter Steelquist - Surfrider Foundation Washington
+* 💵Peter Steelquist - Surfrider Foundation Washington
 
 #### 68 👎 - Con
 Testifying:

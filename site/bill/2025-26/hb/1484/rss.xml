@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1484/</link>
 		<description>Updates about HB 1484</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 20 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -72,6 +72,20 @@
 			<pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-20/Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Salahuddin Passes First Bill from House Advancing Justice for Rape Survivors – Washington State House Democrats</title>
+			<description>News article "Salahuddin Passes First Bill from House Advancing Justice for Rape Survivors – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/20/salahuddin-passes-first-bill-from-house-advancing-justice-for-rape-survivors/#:~:text=House%20Bill%201484</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Law &amp; Justice (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-21/First reading, referred to Law &amp; Justice (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

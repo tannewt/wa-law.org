@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5186/</link>
 		<description>Updates about SB 5186</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Feb 2025 15:38:15 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Feb 2025 12:53:14 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -257,6 +257,30 @@
 			<pubDate>Mon, 17 Feb 2025 15:38:15 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=SSB%205186</guid>
+		</item>
+		<item>
+			<title>👍💵Melissa Gombosky - ESD 105 Schools Coalition</title>
+			<description>Melissa Gombosky signed up to testify Pro. They are signed up to represent ESD 105 Schools Coalition. They are a registered lobbyist.</description>
+			<pubDate>Thu, 20 Feb 2025 10:06:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Melissa/Gombosky/2025-02-20 10:06:25</guid>
+		</item>
+		<item>
+			<title>👍Tyler Muench - Office of Superintendent of Public Instruction</title>
+			<description>Tyler Muench signed up to testify Pro. They are signed up to represent Office of Superintendent of Public Instruction.</description>
+			<pubDate>Fri, 21 Feb 2025 09:02:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tyler/Muench/2025-02-21 09:02:24</guid>
+		</item>
+		<item>
+			<title>👎Lisa Pearson - We, The People of WA</title>
+			<description>Lisa Pearson signed up to testify Con. They are signed up to represent We, The People of WA.</description>
+			<pubDate>Fri, 21 Feb 2025 12:53:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Lisa/Pearson/2025-02-21 12:53:14</guid>
 		</item>
 	</channel>
 </rss>

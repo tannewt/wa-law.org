@@ -20,7 +20,7 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 2 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other
 
@@ -46,7 +46,7 @@ Testifying:
 * Hannah Martinez - Indorama Ventures
 * 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
-* Peter Steelquist - Surfrider Foundation
+* 💵Peter Steelquist - [Surfrider Foundation](/org/surfrider_foundation/)
 
 #### 485 👎 - Con
 Testifying:

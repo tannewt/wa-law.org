@@ -16,8 +16,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Patrick Gilroy - Washington Self Storage Association
+* stuart drebick - ADROIT cONTRACTORS INC
 
 #### 0 ❓ - Other

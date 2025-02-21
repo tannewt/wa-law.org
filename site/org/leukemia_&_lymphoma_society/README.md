@@ -1,7 +1,7 @@
 # Leukemia & Lymphoma Society
 ## 2025-26
 
-### [HB 1187](/bill/2025-26/hb/1187/) - Protecting patients involved in motor vehicle accidents from delayed ambulance bills. 👍2  
+### [HB 1187](/bill/2025-26/hb/1187/) - Delayed ambulance bills 👍2  
 
 ### [HB 1199](/bill/2025-26/hb/1199/) - Strengthening consumer protection through increased insurer accountability for violations of the insurance code. 👍1  
 

@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32821&aId=164553&caId=25979&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32821&aId=164553&caId=25979&tId=4)
 
-#### 1691 👍 - Pro
+#### 1846 👍 - Pro
 Testifying:
 * Eric Badger - [Lynden Incorporated](/org/lynden_incorporated/)
 * Steve Gordon - Gordon Truck Centers
@@ -34,8 +34,10 @@ Testifying:
 * Corey Daniels - Papé Kenworth
 * Joel Bouchey
 * TaraLyn Fray
+* Rebecca Faust - N/A
+* 💵Morgan Irwin - AWB
 
-#### 611 👎 - Con
+#### 664 👎 - Con
 Testifying:
 * Jeffrey Pack - Me
 * Christine Cooley - [Puget Sound Clean Air Agency](/org/puget_sound_clean_air_agency/)
@@ -46,5 +48,8 @@ Testifying:
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * Mia Ayala-Marshall - Duwamish River Community Coalition
 * Joel Creswell - Washington State Department of Ecology
+* Christina Shrable
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* 💵Travis Nelson - Washington Public Utility Districts Association

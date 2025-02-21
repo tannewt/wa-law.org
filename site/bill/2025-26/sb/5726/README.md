@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/20/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Emergency powers, the mileage tax and more - Senate Republican Caucus](https://src.wastateleg.org/blog/21267/#:~:text=Senate%20Bill%205726)
 * 02/19/2025 [The Center Square](/org/the_center_square/) - [Washington pay-per-mile proposal draws praise, skepticism | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9f54c21e-ef22-11ef-8783-3b7e85caa576.html#:~:text=Senate%20Bill%205726)
 * 02/17/2025 [Senate Democrats](/org/senate_democrats/) - [Ramos bill to replace gas tax with road usage charge set for committee hearing  - Sen. Bill Ramos](https://senatedemocrats.wa.gov/ramos/2025/02/17/ramos-bill-to-replace-gas-tax-with-road-usage-charge-set-for-committee-hearing/#:~:text=Senate%20Bill%205726)
 * 02/11/2025 [The Center Square](/org/the_center_square/) - [WA lawmaker proposes honor system road usage charge program | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1e4a3bb0-e8c7-11ef-917f-7b4299c57898.html#:~:text=Senate%20Bill%205726)

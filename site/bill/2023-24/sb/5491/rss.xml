@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/5491/</link>
 		<description>Updates about SB 5491</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 09 May 2023 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Feb 2025 18:30:58 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -296,6 +296,13 @@
 			<pubDate>Tue, 09 May 2023 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2023-05-09/Governor signed.</guid>
+		</item>
+		<item>
+			<title>Washington Senate Greenlights Elevator Reform Aimed at Boosting Midrise Homebuilding - The Urbanist</title>
+			<description>News article "Washington Senate Greenlights Elevator Reform Aimed at Boosting Midrise Homebuilding - The Urbanist" from The Urbanist.</description>
+			<pubDate>Thu, 20 Feb 2025 18:30:58 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.theurbanist.org/2025/02/20/washington-senate-greenlights-elevator-reform-aimed-at-boosting-midrise-homebuilding/#:~:text=another%20bill</guid>
 		</item>
 	</channel>
 </rss>

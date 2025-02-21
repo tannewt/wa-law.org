@@ -39,6 +39,8 @@
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓1
 * ❓ Caitlin Krenn
 
+### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎1 
+
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  

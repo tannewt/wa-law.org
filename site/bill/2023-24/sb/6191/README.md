@@ -17,7 +17,7 @@
 #### 1726 👍 - Pro
 Testifying:
 * Cathy Murahashi - The Arc of Washington
-* Marc Cote - Parkview Services
+* Marc Cote - [Parkview Services](/org/parkview_services/)
 * Scott Livengood - Alpha Supported Living
 * 💵Ramona Hattendorf - [The Arc of King County](/org/the_arc_of_king_county/)
 * 💵Shawn Latham - Self Advocates In Leadership

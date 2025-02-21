@@ -6,6 +6,8 @@
 
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
 
+### [HB 1095](/bill/2025-26/hb/1095/) - Law enforcement funding 👍1  
+
 ### [HB 1098](/bill/2025-26/hb/1098/) - County local roads 👍1  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
@@ -22,6 +24,8 @@
 ### [HB 1650](/bill/2025-26/hb/1650/) - Airport projects/local REET 👍1  
 
 ### [HB 1654](/bill/2025-26/hb/1654/) - International fire code  👎1 
+
+### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties 👍1  
 
 ### [HB 1968](/bill/2025-26/hb/1968/) - Controlled sub. endangerment 👍1  
 

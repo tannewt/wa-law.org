@@ -22,16 +22,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164617&caId=26020&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164617&caId=26020&tId=4)
 
-#### 890 👍 - Pro
+#### 992 👍 - Pro
 Testifying:
 * Erin Gagnon - DTG Recycle
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 244 👎 - Con
+#### 365 👎 - Con
 Testifying:
 * 💵Lyset Cadena - WM (Waste Management)
+* Brian Coddington - Sunshine Disposal & Recycling
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
@@ -49,7 +50,7 @@ Testifying:
 * 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
 * Dr. Mark Vossler - Washington Physicians for Social Responsibility
 * Michael Gonzales - [Joint Council of Teamsters #28](/org/joint_council_of_teamsters_#28/)
-* Peter Steelquist - Surfrider Foundation Washington
+* 💵Peter Steelquist - Surfrider Foundation Washington
 * Scott DeFife - Glass Packaging Institute
 * caitlin kogler
 * Allison Kustic - Association of Plastic Recyclers (APR)

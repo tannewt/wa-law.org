@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1252/</link>
 		<description>Updates about HB 1252</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 20 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Feb 2025 21:56:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -230,6 +230,20 @@
 			<pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-20/CS - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Washington committee passes revised bill adding transparency to pretrial release | Washington | thecentersquare.com</title>
+			<description>News article "Washington committee passes revised bill adding transparency to pretrial release | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 20 Feb 2025 16:21:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_0e62c276-efd4-11ef-a738-e372f4ccaaf4.html#:~:text=House%20Bill%201252</guid>
+		</item>
+		<item>
+			<title>Bills aimed at improving community safety in WA advance | FOX 13 Seattle</title>
+			<description>News article "Bills aimed at improving community safety in WA advance | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Thu, 20 Feb 2025 21:56:27 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/bills-improving-community-safety-wa#:~:text=HB%201252</guid>
 		</item>
 	</channel>
 </rss>

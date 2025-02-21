@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1203/</link>
 		<description>Updates about HB 1203</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Feb 2025 22:47:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -506,6 +506,13 @@
 			<pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-18/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>Washington Legislature could ban flavored vapes and menthol cigarettes - Axios Seattle</title>
+			<description>News article "Washington Legislature could ban flavored vapes and menthol cigarettes - Axios Seattle" from Axios.</description>
+			<pubDate>Thu, 20 Feb 2025 22:47:28 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.axios.com/local/seattle/2025/02/20/vaping-flavors-ban-washington-state-menthol#:~:text=House%20Bill%201203</guid>
 		</item>
 	</channel>
 </rss>

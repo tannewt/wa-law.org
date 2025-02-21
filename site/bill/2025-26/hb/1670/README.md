@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164789&caId=26048&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164789&caId=26048&tId=4)
 
-#### 163 👍 - Pro
+#### 207 👍 - Pro
 
 #### 0 👎 - Con
 
@@ -25,7 +25,7 @@ Sign up to testify:
 #### 498 👍 - Pro
 Testifying:
 * Mindy Roberts - [Washington Conservation Action](/org/washington_conservation_action/)
-* Pete Steelquist - Surfrider Foundation
+* Pete Steelquist - [Surfrider Foundation](/org/surfrider_foundation/)
 * Stena Troyer - Harbor Wildwatch
 
 #### 1 👎 - Con

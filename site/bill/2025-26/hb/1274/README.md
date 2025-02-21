@@ -20,13 +20,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164619&caId=26022&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164619&caId=26022&tId=4)
 
-#### 1738 👍 - Pro
+#### 1757 👍 - Pro
 Testifying:
 * Kathryn Loring - Washington State Minority and Justice Commission
 * Denise Blacketer
 * Larry Jefferson - Director, Washington State Office of Public Defense
+* Vice Chairwoman Loni Greninger - Jamestown S'Klallam Tribe
 
-#### 259 👎 - Con
+#### 397 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Tiffany Attrill

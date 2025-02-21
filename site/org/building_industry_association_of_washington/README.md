@@ -282,9 +282,11 @@
 ### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting 👍2  
 * 👍💵 Andrea Smiley
 
-### [SB 5732](/bill/2025-26/sb/5732/) - Housing supply/GMA 👍1  
+### [SB 5732](/bill/2025-26/sb/5732/) - Housing supply/GMA 👍2  
+* 👍💵 Jan Himebaugh
 
-### [SB 5733](/bill/2025-26/sb/5733/) - Updating comprehensive plans 👍1  
+### [SB 5733](/bill/2025-26/sb/5733/) - Updating comprehensive plans 👍2  
+* 👍💵 Jan Himebaugh
 
 ### [SB 5747](/bill/2025-26/sb/5747/) - Affordable housing/exemption 👍2  
 * 👍💵 Andrea Smiley

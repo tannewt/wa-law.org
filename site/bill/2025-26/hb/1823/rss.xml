@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1823/</link>
 		<description>Updates about HB 1823</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 06 Feb 2025 11:43:33 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -29,6 +29,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ashley/Probart/2025-02-06 11:43:33</guid>
+		</item>
+		<item>
+			<title>TR - Executive action taken by committee.</title>
+			<description>TR - Executive action taken by committee.</description>
+			<pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-20/TR - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

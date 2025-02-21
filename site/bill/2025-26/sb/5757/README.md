@@ -16,7 +16,7 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 12 👎 - Con
+#### 15 👎 - Con
 Testifying:
 * Andy Illyn - Mukilteo Police Department
 

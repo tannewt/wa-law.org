@@ -1269,7 +1269,7 @@
 * [HB 2382](hb/2382) - TNC driver death benefits 6📰 33👍 5👎 0❓ - C 184 L 24
 * [SB 5273](sb/5273) - Employee information/unions 32👍 4👎 2❓ - SLabor & Comm
 * [SB 5484](sb/5484) - Food/environmental steward. 18👍 20👎 0❓ - SAg/Water/Natur
-* [SB 5491](sb/5491) - Residential building exits 6📰 34👍 2👎 2❓ - C 372 L 23
+* [SB 5491](sb/5491) - Residential building exits 7📰 34👍 2👎 2❓ - C 372 L 23
 * [SB 5524](sb/5524) - Industrial insurance/duties 18👍 19👎 1❓ - SRules X
 * [SB 5625](sb/5625) - Public employee retirees 37👍 1👎 0❓ - SWays & Means
 * [SB 5627](sb/5627) - County commissioner salary 9👍 29👎 0❓ - C 49 L 23
@@ -1684,7 +1684,7 @@
 * [HB 1321](hb/1321) - Ambulance transport fund 16👍 0👎 0❓ - HRules X
 * [HB 1544](hb/1544) - Shoreline program review 14👍 2👎 0❓ - C 80 L 23
 * [HB 1627](hb/1627) - Family vlogs 15👍 1👎 0❓ - HCivil R & Judi
-* [HB 1668](hb/1668) - Vehicular homicide/survivors 8👍 4👎 4❓ - HRules X
+* [HB 1668](hb/1668) - Vehicular homicide/survivors 1📰 8👍 4👎 4❓ - HRules X
 * [HB 1681](hb/1681) - Problem gambling 1📰 13👍 0👎 3❓ - HRules X
 * [HB 1696](hb/1696) - Stalking-related offenses 2📰 14👍 2👎 0❓ - C 461 L 23
 * [HB 1921](hb/1921) - Prohibiting the use of certain substances in food. 1📰 8👍 5👎 3❓ - HAg&Nr

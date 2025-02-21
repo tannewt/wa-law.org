@@ -31,7 +31,7 @@ Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Cathy Murahashi - The Arc of Washington
-* Marc Cote - Parkview Services
+* Marc Cote - [Parkview Services](/org/parkview_services/)
 * Scott Livengood - Alpha Supported Living
 * 💵Oliver Miska
 * Patience Malaba - Sound Communities/Housing Development Consortium of Seattle-King County

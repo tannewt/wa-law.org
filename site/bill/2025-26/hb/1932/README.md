@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 02/21 08:00 AM - Consumer Protection & Business (CPB): HB 1932 Cannabis consumption
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32802&aId=164322&caId=25925&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32802&aId=164322&caId=25925&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32802&aId=164322&caId=25925&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32802&aId=164322&caId=25925&tId=4)
-
-#### 80 👍 - Pro
+#### 81 👍 - Pro
 Testifying:
 * Scott mckinley
 * JFerrich Oba - Black Excellence In Cannabis
@@ -30,9 +24,10 @@ Testifying:
 * Bethany Rondeaux - Falcanna
 * TaraLyn Fray
 * David DesRoches
+* 💵Ezra Eickmeyer - Producers NW
 * Angel Ahmad - Light Up Enterprise LLC
 
-#### 589 👎 - Con
+#### 614 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention

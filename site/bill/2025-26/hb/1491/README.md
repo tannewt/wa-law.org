@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/20/2025 [PubliCola](/org/publicola/) - [Seattle Should Follow State's Lead on Inclusionary Zoning—By Funding It - PubliCola](https://publicola.com/2025/02/20/seattle-should-follow-states-lead-on-inclusionary-zoning-by-funding-it/#:~:text=HB%201491)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201491)
 * 02/10/2025 [PubliCola](/org/publicola/) - [Council's Fight to Scale Back List of Neighborhood Centers is a NIMBY Canard - PubliCola](https://publicola.com/2025/02/10/councils-fight-to-scale-back-list-of-neighborhood-centers-is-a-nimby-canard/#:~:text=HB%201491)
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201491)

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/20/2025 [Axios](/org/axios/) - [Washington Legislature could ban flavored vapes and menthol cigarettes - Axios Seattle](https://www.axios.com/local/seattle/2025/02/20/vaping-flavors-ban-washington-state-menthol#:~:text=House%20Bill%201203)
 * 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=HB%201203)
 * 02/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/17/the-house-hot-sheet-for-week-6-of-the-2025-legislative-session/#:~:text=HB%201203)
 * 01/31/2025 [KING5](/org/king5/) - [In Session: Proposed ban on flavored vapes sparks debate in Washington | king5.com](https://www.king5.com/article/news/politics/in-session/in-session-proposed-ban-on-flavored-vapes-tobacco-wraps-up-week-at-legislature/281-970cb4c7-cbdf-46a8-8a76-baaa42cc3b53#:~:text=Under%20House%20Bill%201203)

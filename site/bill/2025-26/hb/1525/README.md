@@ -21,7 +21,7 @@ Sign up to testify:
 Testifying:
 * Sylvia Miller - Vice Chairwoman, Puyallup Tribe
 
-#### 660 👎 - Con
+#### 738 👎 - Con
 Testifying:
 * TaraLyn Fray
 

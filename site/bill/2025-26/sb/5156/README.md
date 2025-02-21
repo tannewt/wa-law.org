@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/20/2025 [The Urbanist](/org/the_urbanist/) - [Washington Senate Greenlights Elevator Reform Aimed at Boosting Midrise Homebuilding - The Urbanist](https://www.theurbanist.org/2025/02/20/washington-senate-greenlights-elevator-reform-aimed-at-boosting-midrise-homebuilding/#:~:text=Senate%20Bill%205156)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205156)
 
 ## Meetings

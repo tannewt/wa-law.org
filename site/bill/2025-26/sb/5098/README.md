@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/20/2025 [The Center Square](/org/the_center_square/) - [Several gun bills working their way through the Washington State Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8f47292a-efd1-11ef-99dd-03b65ea3534b.html#:~:text=Senate%20Bill%205098)
 * 02/10/2025 [Senate Democrats](/org/senate_democrats/) - [Building momentum: Over a third of the way through session - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/10/building-momentum-over-a-third-of-the-way-through-session/#:~:text=SB%205098)
 * 01/31/2025 [Washington State Standard](/org/washington_state_standard/) - [Plans for new gun regulations progress in Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/01/31/plans-for-new-gun-regulations-progress-in-washington-legislature/#:~:text=Senate%20Bill%205098)
 * 01/29/2025 [Senate Democrats](/org/senate_democrats/) - [The 2025 legislative session is underway - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/01/29/3034/#:~:text=SB%205098)
@@ -31,11 +32,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164796&caId=26052&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164796&caId=26052&tId=4)
 
-#### 8 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Hannah Fortman
 
-#### 1537 👎 - Con
+#### 1782 👎 - Con
 Testifying:
 * Daniel Donley - Donley
 * Shelby Hyde
@@ -44,6 +45,7 @@ Testifying:
 * Amanda McKinney - Yakima County Commissioner
 * Michael Smith - Smith Castle Properties LLC
 * Jane Milhans
+* Nathan Fryer
 * Teagan Levine
 * christopher young
 * Charles Heinlen
@@ -56,6 +58,7 @@ Testifying:
 * Allen Ernst
 * Julia Mirate
 * Russell Franklin
+* Brandie Bills
 
 #### 2 ❓ - Other
 

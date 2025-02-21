@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/20/2025 [FOX13](/org/fox13/) - [WA Senate panel advances age-based social media restrictions | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-age-restrictions-social-media#:~:text=Senate%20Bill%205708)
+
 ## Meetings
 ### Thu 02/13 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5708 Online services/minors
 #### 187 👍 - Pro

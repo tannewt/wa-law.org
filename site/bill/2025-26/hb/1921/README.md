@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/20/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Emergency powers, the mileage tax and more - Senate Republican Caucus](https://src.wastateleg.org/blog/21267/#:~:text=House%20Bill%201921)
 * 02/19/2025 [The Center Square](/org/the_center_square/) - [Washington pay-per-mile proposal draws praise, skepticism | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9f54c21e-ef22-11ef-8783-3b7e85caa576.html#:~:text=House%20Bill%201921)
 * 02/14/2025 [KING5](/org/king5/) - [Washington's pay-per-mile proposal gets committee hearing | king5.com](https://www.king5.com/article/news/politics/state-politics/washington-pay-per-mile-proposal-gets-committee-hearing/281-c6e6e585-cc2d-41ef-b800-7753cb689b61#:~:text=House%20Bill%201921)
 * 02/14/2025 [The Center Square](/org/the_center_square/) - [Washington RUC bill receives deluge of opposition | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7c37112e-eaef-11ef-8762-3f7bc0f83782.html#:~:text=House%20Bill%201921’s)

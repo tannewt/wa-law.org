@@ -35,7 +35,7 @@ Testifying:
 * 💵Andrew Hackman - AMERIPEN
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Matthew Hepner - [Certified Electrical Workers of Washington](/org/certified_electrical_workers_of_washington/)
-* Peter Steelquist - Surfrider Foundation
+* 💵Peter Steelquist - [Surfrider Foundation](/org/surfrider_foundation/)
 * Barbara0 Gohl
 * Jim Byrne - None
 * Celeste Maris
@@ -104,7 +104,7 @@ Testifying:
 * 💵Giovanni Severino - [Latino Community Fund](/org/latino_community_fund/)
 * Noa Figlin - Student
 * Pat McLaughlin - [King County](/org/king_county/)
-* Peter Steelquist - Surfrider Foundation
+* 💵Peter Steelquist - [Surfrider Foundation](/org/surfrider_foundation/)
 * Michael Gonzales - Teamsters Joint Council 28 (Staff Dir, Exec Assist to Secretary Treasurer Teamsters Local 174)
 * Carrie Sessions - Office of the Governor
 * Peter Lyon - WA State Department of Ecology

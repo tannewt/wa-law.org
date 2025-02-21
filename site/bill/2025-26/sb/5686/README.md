@@ -15,7 +15,7 @@ Testifying:
 * Steve Horvath - HOA United
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
 * 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
-* Marc Cote - Parkview Services
+* Marc Cote - [Parkview Services](/org/parkview_services/)
 * Tareva Marshall - [Northwest Justice Project](/org/northwest_justice_project/)
 * Amanda Martin - NW Consumer Law Center
 * 💵Paula Sardinas - WBBA

@@ -21,13 +21,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164623&caId=26026&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164623&caId=26026&tId=4)
 
-#### 332 👍 - Pro
+#### 338 👍 - Pro
 Testifying:
 * 💵Alex Hur - OneAmerica
 * Marisa Wright - Campaign Legal Center
 * 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 
-#### 1318 👎 - Con
+#### 1487 👎 - Con
 
 #### 0 ❓ - Other
 

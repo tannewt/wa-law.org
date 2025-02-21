@@ -21,9 +21,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164729&caId=26035&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164729&caId=26035&tId=4)
 
-#### 762 👍 - Pro
+#### 821 👍 - Pro
+Testifying:
+* 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
 
-#### 1375 👎 - Con
+#### 1548 👎 - Con
 Testifying:
 * Arne Christensen
 

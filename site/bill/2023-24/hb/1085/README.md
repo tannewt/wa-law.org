@@ -34,7 +34,7 @@ Testifying:
 * ximena magallon - alianza
 * 💵Giovanni Severino - Progreso: Latino Progress
 * Ann Murphy - League of Women Voters of Washington
-* Peter Steelquist - Surfrider Foundation
+* 💵Peter Steelquist - [Surfrider Foundation](/org/surfrider_foundation/)
 
 #### 3 👎 - Con
 Testifying:

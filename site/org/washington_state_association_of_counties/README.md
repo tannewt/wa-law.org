@@ -296,11 +296,15 @@
 ### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners   ❓1
 * ❓💵 Curtis Steinhauer
 
-## [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
+
+## [SB 5732](/bill/2025-26/sb/5732/) - Housing supply/GMA  👎1 
+* 👎💵 Kelsey Hulse
 
 ## 2023-24
 
-### [SB 5729](/bill/2023-24/sb/5729/) - Housing permitting  👎1 
+### [SB 5732](/bill/2023-24/sb/5732/) - Housing supply/GMA  👎1 
+* 👎💵 Kelsey Hulse
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍3  
 

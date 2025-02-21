@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164751&caId=26041&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164751&caId=26041&tId=4)
 
-#### 34 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Kol Peterson
@@ -27,7 +27,7 @@ Testifying:
 * Kol Peterson
 * Zachariah Giffin - Operation Tiny Home
 
-#### 253 👎 - Con
+#### 368 👎 - Con
 
 #### 0 ❓ - Other
 

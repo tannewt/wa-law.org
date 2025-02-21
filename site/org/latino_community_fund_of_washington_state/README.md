@@ -36,6 +36,8 @@
 
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
 
+### [HB 1987](/bill/2025-26/hb/1987/) - Food security strategy 👍1  
+
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  

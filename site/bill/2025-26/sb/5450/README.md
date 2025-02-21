@@ -16,7 +16,7 @@
 #### 553 👍 - Pro
 Testifying:
 * Kelsey Payne - Snoqualmie Indian Tribe
-* Peter Steelquist - Surfrider Foundation
+* 💵Peter Steelquist - [Surfrider Foundation](/org/surfrider_foundation/)
 * Mindy Roberts
 
 #### 0 👎 - Con

@@ -37,7 +37,7 @@ Testifying:
 * Jamie Stroble - [The Nature Conservancy](/org/the_nature_conservancy/)
 * Adam Maxwell - Audubon
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
-* Liz Schotman - Surfrider Foundation
+* Liz Schotman - [Surfrider Foundation](/org/surfrider_foundation/)
 * Tanisha Sepulveda
 * 💵Kaylee Galloway - Whatcom County Councilmember
 * Kristiana De Leon - Black Diamond Councilmember

@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1187 - Protecting patients involved in motor vehicle accidents from delayed ambulance bills.</title>
+		<title>HB 1187 - Delayed ambulance bills</title>
 		<link>https://wa-law.org/bill/2025-26/hb/1187/</link>
 		<description>Updates about HB 1187</description>
 		<language>en-US</language>
@@ -67,6 +67,13 @@
 			<pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-19/HCW - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>HCW - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>HCW - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-19/HCW - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

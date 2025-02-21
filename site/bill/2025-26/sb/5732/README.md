@@ -17,15 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32875&aId=164523&caId=25976&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32875&aId=164523&caId=25976&tId=4)
 
-#### 158 👍 - Pro
+#### 196 👍 - Pro
 Testifying:
 * Elizabeth Kang
 * Gordon Haggerty
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 569 👎 - Con
+#### 617 👎 - Con
 Testifying:
 * TaraLyn Fray
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* 💵Kelsey Hulse - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 0 ❓ - Other
 

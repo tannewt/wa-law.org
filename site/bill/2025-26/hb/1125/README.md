@@ -24,7 +24,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164616&caId=26019&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164616&caId=26019&tId=4)
 
-#### 420 👍 - Pro
+#### 443 👍 - Pro
 Testifying:
 * Andre Penalver - Minority & Justice commission
 * Larry Jefferson - Office of public defense
@@ -32,13 +32,14 @@ Testifying:
 * Larry Jefferson - Office of public defense
 * Roz Arch - Wa coalition against domestic violence
 
-#### 1322 👎 - Con
+#### 1510 👎 - Con
 Testifying:
 * Leslie Paine
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Tiffany Attrill
 * Justin Derricott
 * 💵Laurel Redden - King County Sexual Assault Resource Center
+* Margaret Robinson
 
 #### 0 ❓ - Other
 

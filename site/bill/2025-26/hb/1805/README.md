@@ -25,7 +25,7 @@ Testifying:
 * Dr. Mel Rose - Jumping Mouse Children's Center
 * Katya Miltimore - Alliance of Boys & Girls Clubs of Washington
 
-#### 736 👎 - Con
+#### 787 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * TaraLyn Fray

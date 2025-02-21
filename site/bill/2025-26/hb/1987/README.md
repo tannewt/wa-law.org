@@ -14,15 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32820&aId=164602&caId=25999&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32820&aId=164602&caId=25999&tId=4)
 
-#### 55 👍 - Pro
+#### 85 👍 - Pro
 Testifying:
 * Michal Paul
 * Noa Romach
 * Bre Elsey - WA Farm Bureau
 * Eric Williams - [Second Harvest Inland Northwest](/org/second_harvest_inland_northwest/)
 * Robert Ojeda - CEO, Food Lifeline
+* Brian Estes - LINC Foods
+* 💵Claire Lane - Anti-Hunger & Nutrition Coalition
+* w. Jay Gordon - Self /washington dairy federation
 
-#### 31 👎 - Con
+#### 47 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

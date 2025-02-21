@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/20/2025 [FOX13](/org/fox13/) - [Bills aimed at improving community safety in WA advance | FOX 13 Seattle](https://www.fox13seattle.com/news/bills-improving-community-safety-wa#:~:text=HB%201252)
+* 02/20/2025 [The Center Square](/org/the_center_square/) - [Washington committee passes revised bill adding transparency to pretrial release | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0e62c276-efd4-11ef-a738-e372f4ccaaf4.html#:~:text=House%20Bill%201252)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201252)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201252)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201252)

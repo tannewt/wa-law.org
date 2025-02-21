@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32820&aId=164529&caId=25980&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32820&aId=164529&caId=25980&tId=4)
 
-#### 11 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Anna Petregal
 * Christopher Chan
@@ -24,4 +24,4 @@ Testifying:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

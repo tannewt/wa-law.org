@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 
-#### 385 👎 - Con
+#### 463 👎 - Con
 Testifying:
 * 💵Alyssa Odegaard - LeadingAge Washington
 * Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)

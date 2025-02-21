@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163951&caId=25942&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163951&caId=25942&tId=4)
 
-#### 64 👍 - Pro
+#### 68 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
@@ -23,7 +23,7 @@ Testifying:
 * 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 603 👎 - Con
+#### 645 👎 - Con
 Testifying:
 * TaraLyn Fray
 

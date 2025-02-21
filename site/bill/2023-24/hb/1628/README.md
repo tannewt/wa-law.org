@@ -114,7 +114,7 @@ Testifying:
 * Nicholas Carr - Association of Washington Housing Authorities/Tacoma Housing Authority
 * Cathy Murahashi - Community Homes
 * Ginger Kwan - [Open Doors for Multicultural Families](/org/open_doors_for_multicultural_families/)
-* Marc Cote - Parkview Services
+* Marc Cote - [Parkview Services](/org/parkview_services/)
 * Scott Livengood - Alpha Supported Living Services
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 * Regan Bolli - [City of Covington](/org/city_of_covington/)

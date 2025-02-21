@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 02/21/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting Washington workers from DC chaos - Sen. Mike Chapman](https://senatedemocrats.wa.gov/chapman/2025/02/20/protecting-washington-workers-from-dc-chaos/#:~:text=My%20bill)
+
 ## Meetings
 ### Mon 01/27 04:00 PM - Transportation (TRAN): SB 5281 Vessel length/nonresident
 #### 33 👍 - Pro

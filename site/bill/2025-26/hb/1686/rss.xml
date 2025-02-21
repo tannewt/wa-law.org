@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1686/</link>
 		<description>Updates about HB 1686</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Feb 2025 11:13:38 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -99,6 +99,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sam/Hatzenbeler/2025-02-12 11:13:38</guid>
+		</item>
+		<item>
+			<title>Health Care chair: Boost transparency with provider directory – Washington State House Democrats</title>
+			<description>News article "Health Care chair: Boost transparency with provider directory – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/21/health-care-chair-boost-transparency-with-provider-directory/#:~:text=HB%201686</guid>
 		</item>
 	</channel>
 </rss>

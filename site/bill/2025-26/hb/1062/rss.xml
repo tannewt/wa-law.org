@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1062/</link>
 		<description>Updates about HB 1062</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 11:10:48 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Feb 2025 07:08:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -140,6 +140,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Stephen/King/2025-01-20 11:10:48</guid>
+		</item>
+		<item>
+			<title>Proposed bill aims to require private, public insurance companies to cover biomarker testing | king5.com</title>
+			<description>News article "Proposed bill aims to require private, public insurance companies to cover biomarker testing | king5.com" from KING5.</description>
+			<pubDate>Fri, 21 Feb 2025 07:08:38 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/tech/science/proposed-bill-aims-require-private-public-insurance-companies-cover-biomarker-testing/281-fb8388ac-cb4f-4363-a2cc-f8136e1a53af#:~:text=House%20Bill%201062</guid>
 		</item>
 	</channel>
 </rss>

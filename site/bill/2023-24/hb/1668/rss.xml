@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/hb/1668/</link>
 		<description>Updates about HB 1668</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 08 Jan 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Feb 2025 21:56:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -70,6 +70,13 @@
 			<pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-01-08/House Rules "X" file.</guid>
+		</item>
+		<item>
+			<title>Bills aimed at improving community safety in WA advance | FOX 13 Seattle</title>
+			<description>News article "Bills aimed at improving community safety in WA advance | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Thu, 20 Feb 2025 21:56:27 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/bills-improving-community-safety-wa#:~:text=House%20Bill%201668</guid>
 		</item>
 	</channel>
 </rss>

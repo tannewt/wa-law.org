@@ -13,7 +13,7 @@ Testifying:
 * Liliana Villanueva
 * Kim Mcleod
 * Cathy Murahashi - The Arc of Washington
-* Zachary St. John - Parkview Services
+* Zachary St. John - [Parkview Services](/org/parkview_services/)
 * Jodi Richey - Bridge of Promise
 * Jamie Kautz - MultiCare Health System
 * Kelley Nesbitt

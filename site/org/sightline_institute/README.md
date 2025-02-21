@@ -26,7 +26,8 @@
 * 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
-### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍1  
+### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍2  
+* 👍💵 Shannon Grimes
 * 👍💵 Shannon Grimes
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/21/2025 [KING5](/org/king5/) - [Proposed bill aims to require private, public insurance companies to cover biomarker testing | king5.com](https://www.king5.com/article/tech/science/proposed-bill-aims-require-private-public-insurance-companies-cover-biomarker-testing/281-fb8388ac-cb4f-4363-a2cc-f8136e1a53af#:~:text=House%20Bill%201062)
+
 ## Meetings
 ### Tue 01/21 01:30 PM - Health Care & Wellness (HCW): HB 1062 Biomarker testing coverage
 #### 77 👍 - Pro

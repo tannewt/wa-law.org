@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/20/2025 [The Center Square](/org/the_center_square/) - [Several gun bills working their way through the Washington State Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8f47292a-efd1-11ef-99dd-03b65ea3534b.html#:~:text=House%20Bill%201163)
 * 01/31/2025 [MyNorthwest](/org/mynorthwest/) - [Washington committee advances 3 controversial firearm bills](https://mynorthwest.com/mynorthwest-politics/firearm-bills/4037773#:~:text=House%20Bill%201163)
 * 01/31/2025 [FOX13](/org/fox13/) - [3 controversial WA gun bills move out of committee | FOX 13 Seattle](https://www.fox13seattle.com/news/controversial-gun-bills-move-committee#:~:text=HB%201163)
 * 01/31/2025 [Washington State Standard](/org/washington_state_standard/) - [Plans for new gun regulations progress in Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/01/31/plans-for-new-gun-regulations-progress-in-washington-legislature/#:~:text=House%20Bill%201163)

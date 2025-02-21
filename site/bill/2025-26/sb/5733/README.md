@@ -17,9 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32875&aId=164472&caId=25840&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32875&aId=164472&caId=25840&tId=4)
 
-#### 154 👍 - Pro
+#### 188 👍 - Pro
+Testifying:
+* 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

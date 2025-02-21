@@ -14,14 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163958&caId=25949&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163958&caId=25949&tId=4)
 
-#### 107 👍 - Pro
+#### 113 👍 - Pro
 Testifying:
 * Philip Ziegler - Emerald Downs
 * Rocio Reyes - Emerald Downs
 * Ron Crockett - Emerald Downs
 * 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist
 
-#### 6 👎 - Con
+#### 8 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

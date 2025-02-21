@@ -26,7 +26,7 @@ Testifying:
 * Dave Hamilton - [City of Bellevue](/org/city_of_bellevue/)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Kamiya Jacob
-* Peter Steelquist - Surfrider
+* 💵Peter Steelquist - Surfrider
 * Pat McLaughlin - [King County](/org/king_county/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 * Elian Bayas - Friday Harbor High School Eco club

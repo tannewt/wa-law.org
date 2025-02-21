@@ -11,7 +11,7 @@
 ### Mon 01/29 04:00 PM - Ways & Means (WM): SSB 6126 Respite care
 #### 82 👍 - Pro
 Testifying:
-* Zachary St. John - Parkview Services
+* Zachary St. John - [Parkview Services](/org/parkview_services/)
 * Linda Hyatt
 * Kelley Nesbitt
 * Kim McLeod

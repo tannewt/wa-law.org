@@ -20,9 +20,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164860&caId=26104&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164860&caId=26104&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* 💵Melissa Gombosky - ESD 105 Schools Coalition
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 
