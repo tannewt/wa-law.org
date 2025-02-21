@@ -37,7 +37,7 @@
 
 ### [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
 
 ## [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍1  
 

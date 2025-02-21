@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5714/</link>
 		<description>Updates about SB 5714</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Feb 2025 23:11:42 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -67,6 +67,13 @@
 			<pubDate>Mon, 17 Feb 2025 23:11:42 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.kiro7.com/news/local/washington-state-lawmakers-want-crack-down-bounty-hunters-acting-immigration-agents/DOFVYCZG4VEQPH7YINCE35KZGI/#:~:text=Senate%20Bill%205714</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-20/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

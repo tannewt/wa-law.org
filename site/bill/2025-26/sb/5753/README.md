@@ -19,8 +19,8 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 431 👎 - Con
+#### 624 👎 - Con
 Testifying:
 * TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -21,13 +21,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164729&caId=26035&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164729&caId=26035&tId=4)
 
-#### 334 👍 - Pro
+#### 762 👍 - Pro
 
-#### 901 👎 - Con
+#### 1375 👎 - Con
 Testifying:
 * Arne Christensen
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 01/28 01:30 PM - State Government & Tribal Relations (SGOV): HB 1448 Local elections
 #### 1920 👍 - Pro

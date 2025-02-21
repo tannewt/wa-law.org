@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1583](/bill/2025-26/hb/1583/)
 
-# HB 1583 - Concerning medicaid coverage for traditional health care practices.
+# HB 1583 - Traditional health/medicaid
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1583&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/04 01:30 PM - Health Care & Wellness (HCW): HB 1583 Traditional health/medicaid

@@ -13,6 +13,9 @@
 * ❓💵 Travis Dutton
 * ❓💵 Travis Dutton
 
+### [HB 1095](/bill/2025-26/hb/1095/) - Law enforcement funding 👍1  
+* 👍💵 Brad Banks
+
 ### [HB 1099](/bill/2025-26/hb/1099/) - Tenant assistance program  👎1 
 * 👎💵 Curtis Steinhauer
 
@@ -140,6 +143,9 @@
 
 ### [HB 1700](/bill/2025-26/hb/1700/) - Comprehensive plan updates 👍1  
 
+### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties 👍1  
+* 👍💵 Paul Jewell
+
 ### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎1 
 * 👎💵 Paul Jewell
 
@@ -151,6 +157,9 @@
 
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
 * 👍💵 Paul Jewell
+
+### [HB 1805](/bill/2025-26/hb/1805/) - Children services/local tax 👍1  
+* 👍💵 Brad Banks
 
 ### [HB 1818](/bill/2025-26/hb/1818/) - Administration of plats   ❓1
 * ❓💵 Curtis Steinhauer
@@ -168,6 +177,9 @@
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍💵 Paul Jewell
+
+### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
+* 👍💵 Derek Young
 
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 

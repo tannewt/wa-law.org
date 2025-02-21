@@ -23,7 +23,7 @@
 ### [HB 1566](/bill/2025-26/hb/1566/) - Prior authorization/health 👍1  
 * 👍💵 Vanessa Saavedra
 
-### [HB 1583](/bill/2025-26/hb/1583/) - Concerning medicaid coverage for traditional health care practices. 👍1  
+### [HB 1583](/bill/2025-26/hb/1583/) - Traditional health/medicaid 👍1  
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 

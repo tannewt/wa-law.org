@@ -31,14 +31,33 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164796&caId=26052&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164796&caId=26052&tId=4)
 
-#### 1 👍 - Pro
-
-#### 15 👎 - Con
+#### 8 👍 - Pro
 Testifying:
-* Amanda McKinney - Yakima County Commissioner
-* Jane Milhans
+* Hannah Fortman
 
-#### 0 ❓ - Other
+#### 1537 👎 - Con
+Testifying:
+* Daniel Donley - Donley
+* Shelby Hyde
+* TAMMY Rose Berry
+* Mildred Pierce
+* Amanda McKinney - Yakima County Commissioner
+* Michael Smith - Smith Castle Properties LLC
+* Jane Milhans
+* Teagan Levine
+* christopher young
+* Charles Heinlen
+* Michael Cantrell
+* Tasi Fepuleai
+* 💵George Allen
+* Terry Witchey
+* Josie Johnston
+* Eric Hulten
+* Allen Ernst
+* Julia Mirate
+* Russell Franklin
+
+#### 2 ❓ - Other
 
 ### Tue 01/14 08:00 AM - Law & Justice (LAW): SB 5098 Weapons in certain areas
 #### 572 👍 - Pro

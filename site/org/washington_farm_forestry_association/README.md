@@ -1,7 +1,7 @@
 # Washington Farm Forestry Association
 ## 2025-26
 
-### [HB 1368](/bill/2025-26/hb/1368/) - New special license plates 👍1  
+### [HB 1368](/bill/2025-26/hb/1368/) - New special license plates 👍2  
 
 ### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection   ❓2
 * ❓ ELAINE ONEIL

@@ -5,7 +5,7 @@
 
 ### [HB 1091](/bill/2025-26/hb/1091/) - SVP supervision credit 👍1  
 
-### [HB 1133](/bill/2025-26/hb/1133/) - Concerning sexually violent predators. 👍1  
+### [HB 1133](/bill/2025-26/hb/1133/) - Sexually violent predators 👍1  
 
 ### [HB 1183](/bill/2025-26/hb/1183/) - Building codes  👎1 
 
@@ -28,7 +28,7 @@
 ### [SB 5286](/bill/2025-26/sb/5286/) - State hospitals/police costs 👍1  
 * 👍 Captain Chris Westby
 
-### [SB 5290](/bill/2025-26/sb/5290/) - Allowing persons who complete substance abuse programs to seek dismissal of certain controlled substance related charges.  👎1 
+### [SB 5290](/bill/2025-26/sb/5290/) - Controlled subs. dismissal  👎1 
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 

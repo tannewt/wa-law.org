@@ -14,13 +14,28 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32821&aId=164220&caId=25826&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32821&aId=164220&caId=25826&tId=4)
 
-#### 695 👍 - Pro
+#### 873 👍 - Pro
 Testifying:
 * 💵Jean Hill - Washington State Catholic Conference
 * Jamie Stroble - [The Nature Conservancy](/org/the_nature_conservancy/)
+* JC Harris - Sea-Tac Noise.Info
+* 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
+* Ione Jones - KHIMSTONIK
+* Meriel Kaminsky - Vamos Seattle
+* Mia Ayala-Marshall - Duwamish River Community Coalition
+* Nico Wedekind - [Front and Centered](/org/front_and_centered/)
+* Paul Tabayoyon - Asian Pacific Islander Coalition-Yakima
+* 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
 
-#### 170 👎 - Con
+#### 204 👎 - Con
 Testifying:
 * john worthington
+* Drew Zaborowski - NAIOP Washington State
+* Jessica Roe - NAIOP Washington State
+* 💵Carly Michiels - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Pe Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* John Flanagan - [Port of Seattle](/org/port_of_seattle/)

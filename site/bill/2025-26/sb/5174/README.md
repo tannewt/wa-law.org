@@ -12,6 +12,21 @@
 * 02/14/2025 [Senate Republicans](/org/senate_republicans/) - [UPDATE: An even worse version of the wood stove bill passed out of committee today - Senate Republican Caucus](https://src.wastateleg.org/blog/update-even-worse-version-wood-stove-bill-passed-committee-today/#:~:text=Senate%20Bill%205174,)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5174 Wood burning devices
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164864&caId=26108&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164864&caId=26108&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164864&caId=26108&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164864&caId=26108&tId=4)
+
+#### 0 👍 - Pro
+
+#### 9 👎 - Con
+Testifying:
+* Nicholas Kleiner
+
+#### 0 ❓ - Other
+
 ### Fri 01/24 10:30 AM - Environment, Energy & Technology (ENET): SB 5174 Wood burning devices
 #### 149 👍 - Pro
 Testifying:

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 02/20 01:30 PM - Finance (FIN): HB 1558 Broadcasters
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163933&caId=25937&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163933&caId=25937&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163933&caId=25937&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163933&caId=25937&tId=4)
-
-#### 7 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * Keith Shipman - Washington State Association of Broadcasters
 * 💵Rowland Thompson - Washington State Association of Broadcasters

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1604/</link>
 		<description>Updates about HB 1604</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Feb 2025 09:02:57 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -60,6 +60,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ethan/Frenchman/2025-02-03 09:02:57</guid>
+		</item>
+		<item>
+			<title>CS - Executive action taken by committee.</title>
+			<description>CS - Executive action taken by committee.</description>
+			<pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-20/CS - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

@@ -11,24 +11,20 @@
 
 ## Meetings
 ### Thu 02/20 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5633 Subdivision of land
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32823&aId=164344&caId=25864&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32823&aId=164344&caId=25864&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32823&aId=164344&caId=25864&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32823&aId=164344&caId=25864&tId=4)
-
-#### 109 👍 - Pro
+#### 112 👍 - Pro
 Testifying:
 * Mike and Laurie Nykreim
 * kurt wilson - Soundbuilt Homes
 * 💵Scott Hazlegrove - Master Builders Association of King and Snohomish Counties
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Alex Hur - Master Builders Association of King & Snohomish Counties
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 648 👎 - Con
+#### 653 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Brian Gregory
 
-#### 26 ❓ - Other
+#### 29 ❓ - Other
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

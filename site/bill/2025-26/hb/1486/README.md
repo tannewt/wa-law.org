@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/12 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1486 Student member on SBCTC

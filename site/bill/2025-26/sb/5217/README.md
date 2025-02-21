@@ -13,25 +13,20 @@
 
 ## Meetings
 ### Thu 02/20 04:00 PM - Ways & Means (WM): SSB 5217 Pregnancy accommodations
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164391&caId=25897&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164391&caId=25897&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164391&caId=25897&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164391&caId=25897&tId=4)
-
-#### 350 👍 - Pro
+#### 358 👍 - Pro
 Testifying:
 * 💵Maggie Humphreys - MomsRising
 * Tabitha Milian
 
-#### 712 👎 - Con
+#### 727 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Brian Gregory
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Tammy Fellin - Department of Labor & Industries
 
 ### Mon 01/20 10:30 AM - Labor & Commerce (LC): SB 5217 Pregnancy accommodations
 #### 73 👍 - Pro

@@ -12,13 +12,14 @@
 * 👎 Ava Ames
 * 👎 Ava Ames
 
-## [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale   ❓1
+### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale   ❓1
 * ❓💵 Noelani Derrickson
+
+## [SB 5746](/bill/2025-26/sb/5746/) - EV charger property crime 👍1  
 
 ## 2023-24
 
-### [SB 5592](/bill/2023-24/sb/5592/) - Zero emissions vehicles/sale   ❓1
-* ❓💵 Noelani Derrickson
+### [SB 5746](/bill/2023-24/sb/5746/) - EV charger property crime 👍1  
 
 ### [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget 👍1  
 * 👍💵 Noelani Derrickson

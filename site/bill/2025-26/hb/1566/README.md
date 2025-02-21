@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/05 01:30 PM - Health Care & Wellness (HCW): HB 1566 Prior authorization/health

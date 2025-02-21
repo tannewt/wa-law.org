@@ -5,6 +5,8 @@
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
+### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties 👍1  
+
 ### [HB 1805](/bill/2025-26/hb/1805/) - Children services/local tax 👍1  
 * 👍 Jefferson County Comm'r Heidi Eisenhour
 

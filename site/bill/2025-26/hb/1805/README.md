@@ -17,14 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163954&caId=25945&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163954&caId=25945&tId=4)
 
-#### 10 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Jefferson County Comm'r Heidi Eisenhour - [Jefferson County](/org/jefferson_county/)
 * 💵Alex Hur - Communities in Schools Washington
+* 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Dr. Mel Rose - Jumping Mouse Children's Center
+* Katya Miltimore - Alliance of Boys & Girls Clubs of Washington
 
-#### 537 👎 - Con
+#### 736 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * TaraLyn Fray
+* Kathleen Wedemeyer - Citizens Commission on Human Rights
 
 #### 0 ❓ - Other

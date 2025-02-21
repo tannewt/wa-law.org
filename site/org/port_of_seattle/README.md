@@ -9,9 +9,11 @@
 
 ### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services 👍1  
 
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
+
 ### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍1  
 
-### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
 
@@ -21,6 +23,8 @@
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
+
+### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
 
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
 
@@ -65,7 +69,12 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
+### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
+
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
+
+### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice   ❓1
+* ❓ John Flanagan
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 

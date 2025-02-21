@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/17 10:30 AM - Law & Justice (LAW): SB 5745 Invol. treatment counsel

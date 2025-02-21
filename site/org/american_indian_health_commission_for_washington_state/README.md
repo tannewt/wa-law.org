@@ -20,7 +20,7 @@
 
 ### [HB 1574](/bill/2025-26/hb/1574/) - Protecting access to life-saving care and substance use services. 👍2  
 
-### [HB 1583](/bill/2025-26/hb/1583/) - Concerning medicaid coverage for traditional health care practices. 👍4  
+### [HB 1583](/bill/2025-26/hb/1583/) - Traditional health/medicaid 👍4  
 * 👍 Steve Kutz
 
 ### [HB 1692](/bill/2025-26/hb/1692/) - Tribes/PRA exemption 👍2  

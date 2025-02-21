@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Thu 02/20 04:00 PM - Ways & Means (WM): SSB 5083 Health carrier reimbursement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164543&caId=25991&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164543&caId=25991&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164543&caId=25991&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164543&caId=25991&tId=4)
-
-#### 551 👍 - Pro
+#### 591 👍 - Pro
 Testifying:
 * Evan Klein - Washington State Health Care Authority
 * 💵Nicole Gomez - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
@@ -29,7 +23,7 @@ Testifying:
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 * Jared Mason-Gere - [Washington Education Association](/org/washington_education_association/)
 
-#### 124 👎 - Con
+#### 133 👎 - Con
 Testifying:
 * 💵Lisa Thatcher - Washington State Hospital Association
 * Ashley Thurow - Providence Health and Services
@@ -38,6 +32,7 @@ Testifying:
 * Elise Cutter - Island Health
 * Matt Forge - Pullman Regional Hospital
 * 💵Dorothy Miller - [Seattle Children's Hospital](/org/seattle_children's_hospital/)
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 2 ❓ - Other
 Testifying:

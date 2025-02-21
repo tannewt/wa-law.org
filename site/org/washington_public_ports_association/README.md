@@ -42,7 +42,7 @@
 ### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity   ❓1
 * ❓ Chris Herman
 
-### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
+### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍2  
 
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
 * 👍 Eric ffitch
@@ -54,6 +54,9 @@
 * ❓💵 James Cockburn
 
 ### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment  👎1 
+* 👎💵 Carly Michiels
+
+### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties  👎1 
 * 👎💵 Carly Michiels
 
 ### [HB 1726](/bill/2025-26/hb/1726/) - WA lumber mills/public works   ❓1
@@ -108,6 +111,9 @@
 
 ### [SB 5370](/bill/2025-26/sb/5370/) - Port commissioner terms 👍1  
 * 👍 Eric ffitch
+
+### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice  👎1 
+* 👎💵 Carly Michiels
 
 ### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use   ❓1
 * ❓💵 James Cockburn

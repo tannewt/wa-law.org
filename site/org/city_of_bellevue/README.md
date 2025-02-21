@@ -71,7 +71,7 @@
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
-### [SB 5290](/bill/2025-26/sb/5290/) - Allowing persons who complete substance abuse programs to seek dismissal of certain controlled substance related charges.  👎1 
+### [SB 5290](/bill/2025-26/sb/5290/) - Controlled subs. dismissal  👎1 
 
 ### [SB 5367](/bill/2025-26/sb/5367/) - Law enf. community grants 👍1  
 
@@ -83,7 +83,7 @@
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
 
 ### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍1  
 

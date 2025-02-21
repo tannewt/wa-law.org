@@ -31,7 +31,7 @@
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 
-### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice  👎1 
+### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice  👎2 
 
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment  👎1 
 

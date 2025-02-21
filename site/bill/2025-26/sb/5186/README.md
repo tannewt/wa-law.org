@@ -20,6 +20,19 @@
 * 01/12/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 1: Welcome to the 2025 session! - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/12/this-week-in-the-senate-week-1-welcome-to-the-2025-session/#:~:text=Senate%20Bill%205186)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5186 School district fac. funding
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164859&caId=26103&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164859&caId=26103&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164859&caId=26103&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164859&caId=26103&tId=4)
+
+#### 20 👍 - Pro
+
+#### 3 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/16 10:30 AM - Early Learning & K-12 Education (EDU): SB 5186 School district elections
 #### 75 👍 - Pro
 Testifying:

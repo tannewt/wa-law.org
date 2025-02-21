@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1125/</link>
 		<description>Updates about HB 1125</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Feb 2025 02:48:03 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 20 Feb 2025 11:38:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -461,7 +461,7 @@
 			<guid isPermaLink="false">2025-02-10/Referred to Appropriations.</guid>
 		</item>
 		<item>
-			<title>👎Leslie Paine - Association of Washington Health Care Plans</title>
+			<title>👎Leslie Paine - Wa coalition against domestic violence</title>
 			<description>Leslie Paine signed up to testify Con.</description>
 			<pubDate>Fri, 14 Feb 2025 06:30:11 GMT</pubDate>
 			<category>testifier</category>
@@ -499,6 +499,46 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Laurel/Redden/2025-02-19 02:48:03</guid>
+		</item>
+		<item>
+			<title>👍Andre Penalver - Minority &amp; Justice commission</title>
+			<description>Andre Penalver signed up to testify Pro. They are signed up to represent Minority &amp; Justice commission.</description>
+			<pubDate>Thu, 20 Feb 2025 11:30:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andre/Penalver/2025-02-20 11:30:22</guid>
+		</item>
+		<item>
+			<title>👍Larry Jefferson - Office of public defense</title>
+			<description>Larry Jefferson signed up to testify Pro. They are signed up to represent Office of public defense.</description>
+			<pubDate>Thu, 20 Feb 2025 11:30:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Larry/Jefferson/2025-02-20 11:30:22</guid>
+		</item>
+		<item>
+			<title>👍Andre Penalver - Minority &amp; Justice commission</title>
+			<description>Andre Penalver signed up to testify Pro. They are signed up to represent Minority &amp; Justice commission.</description>
+			<pubDate>Thu, 20 Feb 2025 11:38:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andre/Penalver/2025-02-20 11:38:01</guid>
+		</item>
+		<item>
+			<title>👍Larry Jefferson - Office of public defense</title>
+			<description>Larry Jefferson signed up to testify Pro. They are signed up to represent Office of public defense.</description>
+			<pubDate>Thu, 20 Feb 2025 11:38:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Larry/Jefferson/2025-02-20 11:38:01</guid>
+		</item>
+		<item>
+			<title>👍Roz Arch - Wa coalition against domestic violence</title>
+			<description>Roz Arch signed up to testify Pro. They are signed up to represent Wa coalition against domestic violence.</description>
+			<pubDate>Thu, 20 Feb 2025 11:38:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Roz/Arch/2025-02-20 11:38:01</guid>
 		</item>
 	</channel>
 </rss>

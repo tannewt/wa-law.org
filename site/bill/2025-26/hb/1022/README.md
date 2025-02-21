@@ -18,19 +18,14 @@
 
 ## Meetings
 ### Thu 02/20 01:30 PM - Capital Budget (CB): SHB 1022 Homes for heroes program
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164351&caId=25915&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164351&caId=25915&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164351&caId=25915&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164351&caId=25915&tId=4)
-
-#### 302 👍 - Pro
+#### 309 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * David Frockt - Office of the Governor
 * Nicholas Carr - Office of the Governor
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Mary Hull-Drury - Washington Realtors
+* 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist
 
 #### 23 👎 - Con
 

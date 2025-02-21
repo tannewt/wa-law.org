@@ -13,6 +13,19 @@
 * 02/14/2025 [The Center Square](/org/the_center_square/) - [Legislation could make school bond approval easier in Washington state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_00347752-eb07-11ef-bdcc-c33cecbc677d.html#:~:text=Senate%20Joint%20Resolution%208200)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Ways & Means (WM): SSJR 8200 School district local funds
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164860&caId=26104&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164860&caId=26104&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164860&caId=26104&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164860&caId=26104&tId=4)
+
+#### 4 👍 - Pro
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/16 10:30 AM - Early Learning & K-12 Education (EDU): SJR 8200 School district bond voting
 #### 52 👍 - Pro
 Testifying:

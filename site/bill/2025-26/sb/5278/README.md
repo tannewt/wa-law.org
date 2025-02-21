@@ -13,6 +13,19 @@
 * 01/16/2025 [The Center Square](/org/the_center_square/) - [Green Hill whistleblower warns the inmates could ‘take over the facility’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b3d83aee-d42f-11ef-b5ee-bf1241616a4e.html#:~:text=Senate%20Bill%205278)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5278 Juvenile correctional pop.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164868&caId=26112&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164868&caId=26112&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164868&caId=26112&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164868&caId=26112&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/03 01:30 PM - Human Services (HS): SB 5278 Juvenile correctional pop.
 #### 21 👍 - Pro
 Testifying:

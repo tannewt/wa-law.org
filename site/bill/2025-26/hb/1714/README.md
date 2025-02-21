@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/12 01:30 PM - Consumer Protection & Business (CPB): HB 1714 Small business risk pooling

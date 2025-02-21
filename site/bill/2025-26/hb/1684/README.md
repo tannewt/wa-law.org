@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 02/07 10:30 AM - Local Government (LG): HB 1684 Water recreation facilities

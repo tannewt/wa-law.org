@@ -191,6 +191,9 @@
 
 ### [SB 5378](/bill/2025-26/sb/5378/) - PFML grants/school districts  👎1 
 
+### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice  👎1 
+* 👎💵 Andrea Smiley
+
 ### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
 
 ### [SB 5429](/bill/2025-26/sb/5429/) - State building code council 👍2  

@@ -15,11 +15,15 @@
 * 👍 Chris La Plante
 * 👍 David Jordan
 
-## [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
+### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
+
+## [HB 1967](/bill/2025-26/hb/1967/) - Design-build projects/bonds 👍1  
+* 👍 Richard Shaff
 
 ## 2023-24
 
-### [HB 1860](/bill/2023-24/hb/1860/) - Supply chain competitiveness 👍1  
+### [HB 1967](/bill/2023-24/hb/1967/) - Design-build projects/bonds 👍1  
+* 👍 Richard Shaff
 
 ### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  
 

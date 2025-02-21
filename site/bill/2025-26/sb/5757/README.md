@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164800&caId=26056&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164800&caId=26056&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
-#### 8 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* Andy Illyn - Mukilteo Police Department
 
 #### 0 ❓ - Other

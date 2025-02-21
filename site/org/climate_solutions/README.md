@@ -30,7 +30,7 @@
 
 ### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
 
-### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
+### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍2  
 
 ### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍1  
 
@@ -60,6 +60,9 @@
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓1
 * ❓💵 Leah Missik
 
+### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎2 
+* 👎💵 Leah Missik
+
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 * 👍💵 Leah Missik
 
@@ -78,6 +81,8 @@
 
 ### [SB 5377](/bill/2025-26/sb/5377/) - Motor vehicle dealers  👎2 
 * 👎💵 Leah Missik
+
+### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
 
 ### [SB 5401](/bill/2025-26/sb/5401/) - Wholesale power purchases   ❓1
 * ❓💵 Leah Missik

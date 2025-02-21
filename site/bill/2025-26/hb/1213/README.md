@@ -22,13 +22,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164618&caId=26021&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164618&caId=26021&tId=4)
 
-#### 67 👍 - Pro
+#### 93 👍 - Pro
 Testifying:
 * 💵Maggie Humphreys - MomsRising
 
-#### 15 👎 - Con
+#### 280 👎 - Con
 Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* 💵Amber Carter - [Washington Retail Association](/org/washington_retail_association/)
 
 #### 0 ❓ - Other
 

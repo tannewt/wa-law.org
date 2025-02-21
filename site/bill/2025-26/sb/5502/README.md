@@ -11,6 +11,19 @@
 * 01/30/2025 [KING5](/org/king5/) - [Bottle bill backers hope 10-cent fee refund will boost recycling in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bottle-bill-backers-hope-10-cent-refund-will-boost-recycling-washington-state/281-42b0811b-bc66-4682-aee3-afef0df99e7e#:~:text=Senate%20Bill%205502)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5502 Recycling & waste reduction
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164878&caId=26122&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164878&caId=26122&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164878&caId=26122&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164878&caId=26122&tId=4)
+
+#### 1 👍 - Pro
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/29 08:00 AM - Environment, Energy & Technology (ENET): SB 5502 Recycling & waste reduction
 #### 85 👍 - Pro
 Testifying:

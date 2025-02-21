@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/17/2025 [KIRO7](/org/kiro7/) - [Washington State Lawmakers want to crack down on bounty hunters acting as immigration agents – KIRO 7 News Seattle](https://www.kiro7.com/news/local/washington-state-lawmakers-want-crack-down-bounty-hunters-acting-immigration-agents/DOFVYCZG4VEQPH7YINCE35KZGI/#:~:text=Senate%20Bill%205714)

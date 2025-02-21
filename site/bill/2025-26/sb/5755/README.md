@@ -19,6 +19,6 @@ Testifying:
 * Barb Wilson - [Microsoft](/org/microsoft/)
 * Riley Benge - Washington REALTORS
 
-#### 1 👎 - Con
+#### 15 👎 - Con
 
 #### 0 ❓ - Other

@@ -20,18 +20,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164619&caId=26022&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164619&caId=26022&tId=4)
 
-#### 1613 👍 - Pro
+#### 1738 👍 - Pro
 Testifying:
 * Kathryn Loring - Washington State Minority and Justice Commission
 * Denise Blacketer
+* Larry Jefferson - Director, Washington State Office of Public Defense
 
-#### 6 👎 - Con
+#### 259 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Tiffany Attrill
 * Roshelle Cleland - LCS Northwest
 
-#### 8 ❓ - Other
+#### 9 ❓ - Other
 
 ### Tue 01/28 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1274 Juvenile convictions/score
 #### 1586 👍 - Pro

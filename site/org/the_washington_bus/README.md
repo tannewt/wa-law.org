@@ -15,7 +15,7 @@
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
-### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍3  
+### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍4  
 * 👍 Tai Yang-Abreu
 * 👍 Treveon Parish
 

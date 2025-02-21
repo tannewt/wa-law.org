@@ -20,13 +20,13 @@
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 * 👍💵 Isela Bonilla
 
-## [SB 5523](/bill/2025-26/sb/5523/) - Higher ed. gov./students 👍3  
+## [SB 5523](/bill/2025-26/sb/5523/) - Higher ed. gov./students 👍4  
 * 👍💵 Sean Behl
 * 👍 Heba Qatrani
 
 ## 2023-24
 
-### [SB 5523](/bill/2023-24/sb/5523/) - Higher ed. gov./students 👍3  
+### [SB 5523](/bill/2023-24/sb/5523/) - Higher ed. gov./students 👍4  
 * 👍💵 Sean Behl
 * 👍 Heba Qatrani
 

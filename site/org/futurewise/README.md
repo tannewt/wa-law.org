@@ -144,6 +144,12 @@
 
 ### [SB 5731](/bill/2025-26/sb/5731/) - Tenant assistance program  👎1 
 
+### [SB 5732](/bill/2025-26/sb/5732/) - Housing supply/GMA  👎1 
+* 👎💵 Bryce Yadon
+
+### [SB 5733](/bill/2025-26/sb/5733/) - Updating comprehensive plans   ❓1
+* ❓💵 Bryce Yadon
+
 ### [SB 5740](/bill/2025-26/sb/5740/) - Eviction reform  👎1 
 
 ## [SB 5747](/bill/2025-26/sb/5747/) - Affordable housing/exemption  👎1 

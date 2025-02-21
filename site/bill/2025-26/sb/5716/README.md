@@ -11,16 +11,10 @@
 
 ## Meetings
 ### Thu 02/20 04:00 PM - Transportation (TRAN): SB 5716 Transit conduct/ferries
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32808&aId=164411&caId=25870&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32808&aId=164411&caId=25870&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32808&aId=164411&caId=25870&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32808&aId=164411&caId=25870&tId=4)
-
-#### 64 👍 - Pro
+#### 73 👍 - Pro
 Testifying:
 * Rebeca Daniels
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other

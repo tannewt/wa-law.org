@@ -17,9 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163959&caId=25950&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163959&caId=25950&tId=4)
 
-#### 11 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Sylvia Miller - Vice Chairwoman, Puyallup Tribe
 
-#### 468 👎 - Con
+#### 660 👎 - Con
 Testifying:
 * TaraLyn Fray
 

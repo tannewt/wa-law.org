@@ -14,11 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164787&caId=26046&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164787&caId=26046&tId=4)
 
-#### 71 👍 - Pro
+#### 213 👍 - Pro
 Testifying:
 * 💵Nathan Tippmann - TESC Student Government
 
-#### 0 👎 - Con
+#### 234 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -14,7 +14,7 @@
 
 ### [HB 1132](/bill/2025-26/hb/1132/) - Bulk firearm purchases  👎1 
 
-### [HB 1133](/bill/2025-26/hb/1133/) - Concerning sexually violent predators. 👍1  
+### [HB 1133](/bill/2025-26/hb/1133/) - Sexually violent predators 👍1  
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals  👎3 
 * 👎 Mary Long

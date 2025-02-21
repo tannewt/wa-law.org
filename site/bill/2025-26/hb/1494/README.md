@@ -11,17 +11,12 @@
 
 ## Meetings
 ### Thu 02/20 01:30 PM - Finance (FIN): HB 1494 Multiple-unit dwellings/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163935&caId=25939&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163935&caId=25939&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163935&caId=25939&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163935&caId=25939&tId=4)
-
-#### 8 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵David Toyer - Washington Housing Development
+* Katherine Mitchell - Department of Commerce
 
-#### 722 👎 - Con
+#### 730 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Brian Gregory

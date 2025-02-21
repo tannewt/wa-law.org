@@ -45,7 +45,7 @@
 ### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
 * 👍 Laura Del Villar
 
-### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍3  
+### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍4  
 * 👍💵 Kelly Olson
 
 ### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  

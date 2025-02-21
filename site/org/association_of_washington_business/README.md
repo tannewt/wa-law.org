@@ -102,7 +102,7 @@
 ### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences   ❓1
 * ❓ Max Martin
 
-### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎2 
 * 👎💵 Lindsey Hueer
@@ -212,7 +212,7 @@
 
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎1 
 
-### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees  👎1 
+### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees  👎2 
 
 ### [HB 1641](/bill/2025-26/hb/1641/) - Definition of timberland 👍1  
 
@@ -339,6 +339,11 @@
 * 👎💵 Lindsey Hueer
 * 👎💵 Lindsey Hueer
 
+### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎1 
+* 👎💵 Emily Wittman
+
+### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions 👍1  
+
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  
@@ -414,6 +419,9 @@
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 * 👎💵 Peter Godlewski
+
+### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice  👎1 
+* 👎 Pe Godlewski
 
 ### [SB 5385](/bill/2025-26/sb/5385/) - Definition of timberland 👍1  
 
@@ -528,6 +536,9 @@
 ### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
 * 👍💵 Peter Godlewski
 
+### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land 👍1  
+* 👍💵 Morgan Irwin
+
 ### [SB 5644](/bill/2025-26/sb/5644/) - Gift card criminal conduct 👍1  
 
 ### [SB 5653](/bill/2025-26/sb/5653/) - Fish and wildlife officers  👎1 
@@ -542,6 +553,8 @@
 * 👍💵 Morgan Irwin
 
 ### [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant 👍1  
+
+### [SB 5695](/bill/2025-26/sb/5695/) - Young driver safety 👍1  
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue   ❓1
 * ❓💵 Morgan Irwin

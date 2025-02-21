@@ -8,19 +8,14 @@
 
 ## Meetings
 ### Thu 02/20 04:00 PM - Ways & Means (WM): SB 5050 Presidential primary privacy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164418&caId=25898&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164418&caId=25898&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164418&caId=25898&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32797&aId=164418&caId=25898&tId=4)
+#### 1440 👍 - Pro
 
-#### 1419 👍 - Pro
+#### 415 👎 - Con
 
-#### 406 👎 - Con
-
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* 💵Michael Shaw - Washington State Association of County Auditors
 
 ### Tue 01/28 01:30 PM - State Government & Elections (SGE): SB 5050 Presidential primary privacy
 #### 178 👍 - Pro

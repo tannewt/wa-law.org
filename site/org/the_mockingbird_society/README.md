@@ -1,7 +1,7 @@
 # The Mockingbird Society
 ## 2025-26
 
-### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍2  
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍3  
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍2  
 
@@ -19,7 +19,7 @@
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
 
-### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
 
 ### [HB 1322](/bill/2025-26/hb/1322/) - Juvenile offenses 👍1  
 

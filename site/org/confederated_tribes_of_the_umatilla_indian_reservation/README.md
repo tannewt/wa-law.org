@@ -1,12 +1,12 @@
 # Confederated Tribes of the Umatilla Indian Reservation
 ## 2025-26
 
-## [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍1  
+## [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍2  
 * 👍 Lisa Ganuelas
 
 ## 2023-24
 
-### [SB 5570](/bill/2023-24/sb/5570/) - Tribes/K-12 instruction 👍1  
+### [SB 5570](/bill/2023-24/sb/5570/) - Tribes/K-12 instruction 👍2  
 * 👍 Lisa Ganuelas
 
 ### [HB 1177](/bill/2023-24/hb/1177/) - Indigenous women 👍2  

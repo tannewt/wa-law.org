@@ -32,7 +32,7 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓ Kati Durkin
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍2  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 

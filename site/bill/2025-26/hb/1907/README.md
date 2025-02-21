@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 2 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Patrick Gilroy - Washington Self Storage Association
 
 #### 0 ❓ - Other

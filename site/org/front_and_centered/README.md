@@ -38,6 +38,10 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
+### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍2  
+* 👍💵 Guillermo Rogel
+* 👍 Nico Wedekind
+
 ### [SB 5652](/bill/2025-26/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts. 👍1  
 
 ## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  

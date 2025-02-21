@@ -50,6 +50,8 @@
 
 ### [HB 1884](/bill/2025-26/hb/1884/) - Cannabis regulation  👎1 
 
+### [HB 1932](/bill/2025-26/hb/1932/) - Cannabis consumption  👎1 
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  

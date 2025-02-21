@@ -23,6 +23,9 @@
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates  👎1 
 * 👎💵 Carl Schroeder
 
+### [HB 1095](/bill/2025-26/hb/1095/) - Law enforcement funding 👍1  
+* 👍💵 Candice Bock
+
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓3
 * ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
@@ -206,6 +209,9 @@
 ### [HB 1882](/bill/2025-26/hb/1882/) - State tax on lodging 👍1  
 * 👍💵 Candice Bock
 
+### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
+* 👍💵 Candice Bock
+
 ### [HB 1906](/bill/2025-26/hb/1906/) - Water system rates   ❓1
 * ❓💵 Kelsey Hulse
 
@@ -348,6 +354,8 @@
 
 ### [SB 5627](/bill/2025-26/sb/5627/) - Safe excavation  👎1 
 * 👎💵 Kelsey Hulse
+
+### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
 
 ### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners   ❓1
 * ❓💵 Carl Schroeder

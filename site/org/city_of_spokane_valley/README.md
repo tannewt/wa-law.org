@@ -69,6 +69,8 @@
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
+### [HB 1967](/bill/2025-26/hb/1967/) - Design-build projects/bonds 👍1  
+
 ### [HB 1968](/bill/2025-26/hb/1968/) - Controlled sub. endangerment 👍2  
 
 ### [HB 1969](/bill/2025-26/hb/1969/) - Law enf. aviation support 👍1  
@@ -107,6 +109,8 @@
 ### [SB 5333](/bill/2025-26/sb/5333/) - Eluding & resisting arrest 👍1  
 
 ### [SB 5356](/bill/2025-26/sb/5356/) - Criminal justice trainings  👎1 
+
+### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice  👎1 
 
 ### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential   ❓1
 

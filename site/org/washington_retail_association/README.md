@@ -53,6 +53,9 @@
 ### [HB 1209](/bill/2025-26/hb/1209/) - Sodium nitrite   ❓1
 * ❓💵 Crystal Leatherman
 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
+* 👎💵 Amber Carter
+
 ### [HB 1245](/bill/2025-26/hb/1245/) - Electrical transmission cap. 👍1  
 * 👍💵 Crystal Leatherman
 
@@ -63,7 +66,7 @@
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth  👎1 
 
-### [HB 1375](/bill/2025-26/hb/1375/) - Estate tax exclusion 👍1  
+### [HB 1375](/bill/2025-26/hb/1375/) - Estate tax exclusion 👍2  
 
 ### [HB 1376](/bill/2025-26/hb/1376/) - Capital gains tax prepayment 👍1  
 
@@ -143,6 +146,9 @@
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
+### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
+* 👍💵 Mark Johnson
+
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers  👎1 
 
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs  👎1 
@@ -204,6 +210,8 @@
 
 ### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
 * 👍💵 Crystal Leatherman
+
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
 
 ## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue  👎1 
 * 👎💵 Crystal Leatherman

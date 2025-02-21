@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Thu 02/20 01:30 PM - Capital Budget (CB): HB 1723 School construction projects
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164352&caId=25916&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164352&caId=25916&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164352&caId=25916&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32883&aId=164352&caId=25916&tId=4)
-
-#### 64 👍 - Pro
+#### 177 👍 - Pro
 Testifying:
 * Tyler Muench - Office of Superintendent of Public Instruction
 * Bryan Johnson - Ironworkers Local 86
@@ -26,7 +20,7 @@ Testifying:
 * Lisa Bogardus - Seattle Building Trades
 * Monty Anderson - Seattle Building Trades
 
-#### 837 👎 - Con
+#### 845 👎 - Con
 Testifying:
 * Charlie Brown - Schools Coalition
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter

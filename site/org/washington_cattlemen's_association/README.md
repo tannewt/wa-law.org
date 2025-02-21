@@ -15,6 +15,8 @@
 
 ### [HB 1705](/bill/2025-26/hb/1705/) - Large animal veterinarians 👍1  
 
+### [HB 1987](/bill/2025-26/hb/1987/) - Food security strategy 👍1  
+
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 
 ### [SB 5117](/bill/2025-26/sb/5117/) - Protecting agriculture. 👍1  

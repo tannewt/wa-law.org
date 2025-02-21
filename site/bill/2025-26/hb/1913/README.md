@@ -8,17 +8,13 @@
 
 ## Meetings
 ### Thu 02/20 01:30 PM - Finance (FIN): HB 1913 Public utility tax credit
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163937&caId=25941&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163937&caId=25941&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163937&caId=25941&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32814&aId=163937&caId=25941&tId=4)
-
 #### 2 👍 - Pro
 
-#### 1228 👎 - Con
+#### 1233 👎 - Con
 Testifying:
 * 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+* Dever Haffner-Ratliffe - Public Utility District No. 1, Cowlitz County
+* 💵Jasmine Vasavada - WPUDA
 
 #### 2 ❓ - Other
 Testifying:

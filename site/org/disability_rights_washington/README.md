@@ -13,7 +13,7 @@
 * 👍💵 Rachael Seevers
 * 👍💵 Rachael Seevers
 
-### [HB 1133](/bill/2025-26/hb/1133/) - Concerning sexually violent predators.  👎1 
+### [HB 1133](/bill/2025-26/hb/1133/) - Sexually violent predators  👎1 
 
 ### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍3  
 * 👍💵 Rachael Seevers

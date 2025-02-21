@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 02/14 10:30 AM - Housing (HSG): SB 5686 Foreclosure mediation prg.

@@ -3,7 +3,7 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
-### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 * 👍 Bryanna Jenkins

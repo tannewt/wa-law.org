@@ -14,12 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32820&aId=164529&caId=25980&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32820&aId=164529&caId=25980&tId=4)
 
-#### 5 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Anna Petregal
 * Christopher Chan
 * Jack Strathy
 * Jack Strathy
+* Larry Phillips - American Sportfishing Association
 
 #### 0 👎 - Con
 

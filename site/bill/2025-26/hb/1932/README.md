@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32802&aId=164322&caId=25925&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32802&aId=164322&caId=25925&tId=4)
 
-#### 58 👍 - Pro
+#### 80 👍 - Pro
 Testifying:
 * Scott mckinley
 * JFerrich Oba - Black Excellence In Cannabis
@@ -32,7 +32,7 @@ Testifying:
 * David DesRoches
 * Angel Ahmad - Light Up Enterprise LLC
 
-#### 454 👎 - Con
+#### 589 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention

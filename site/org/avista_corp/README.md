@@ -13,6 +13,8 @@
 ### [HB 1673](/bill/2025-26/hb/1673/) - Electric transmission system   ❓1
 * ❓💵 John Rothlin
 
+### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties  👎1 
+
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev.  👎1 
 * 👎💵 John Rothlin
 
