@@ -14,11 +14,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164678&caId=26076&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164678&caId=26076&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 6 👎 - Con
+#### 258 👎 - Con
 Testifying:
 * Patrick Gilroy - Washington Self Storage Association
 * stuart drebick - ADROIT cONTRACTORS INC
+* Lance Baker - President, Washington Self Storage Association
+* Patrick Gilroy - Legislative Chair, Washington Self Storage Association
+* Kristi Tripple
+* Patrick Reilly
+* John Eisenbarth
+* Joe Doherty - Chief Legal Counsel, Self Storage Association
+* george shipley
+* DONALD ARSENAULT - As an Individual and Past 20 Years as Legislative Chair WA Self Storage Assoc.
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

@@ -21,9 +21,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164869&caId=26113&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164869&caId=26113&tId=4)
 
-#### 1 👍 - Pro
+#### 17 👍 - Pro
+Testifying:
+* Judge André Peñalver - Minority and Justice Commission
+* Rashida Robbins
 
-#### 2 👎 - Con
+#### 184 👎 - Con
 
 #### 0 ❓ - Other
 

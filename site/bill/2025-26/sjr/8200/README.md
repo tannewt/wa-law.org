@@ -20,13 +20,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164860&caId=26104&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164860&caId=26104&tId=4)
 
-#### 7 👍 - Pro
+#### 242 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - ESD 105 Schools Coalition
+* Monique Dugaw - ESD 112
+* 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 
-#### 3 👎 - Con
+#### 504 👎 - Con
+Testifying:
+* Tim Eyman - Initiative Activist
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/16 10:30 AM - Early Learning & K-12 Education (EDU): SJR 8200 School district bond voting
 #### 52 👍 - Pro

@@ -19,7 +19,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164856&caId=26100&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164856&caId=26100&tId=4)
 
-#### 3 👍 - Pro
+#### 25 👍 - Pro
+Testifying:
+* Naira Gonzales
+* Morgan Whitt
 
 #### 0 👎 - Con
 

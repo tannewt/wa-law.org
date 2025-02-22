@@ -135,7 +135,7 @@
 
 ### [HB 1821](/bill/2025-26/hb/1821/) - Interested party/prev. wage 👍1  
 
-### [HB 1822](/bill/2025-26/hb/1822/) - Establishing a driver work zone and first responder safety course requirement. 👍1  
+### [HB 1822](/bill/2025-26/hb/1822/) - Driver course/work zones 👍1  
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎1 
 
@@ -179,7 +179,7 @@
 
 ### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
 
-### [SB 5112](/bill/2025-26/sb/5112/) - Establishing a prescribing psychologist certification in Washington state. 👍1  
+### [SB 5112](/bill/2025-26/sb/5112/) - Prescribing psychologists 👍1  
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
 
@@ -255,7 +255,7 @@
 
 ### [SB 5694](/bill/2025-26/sb/5694/) - Boiler operator cert. 👍1  
 
-### [SB 5701](/bill/2025-26/sb/5701/) - Joint labor manage. records 👍1  
+### [SB 5701](/bill/2025-26/sb/5701/) - Prevailing wage/records 👍1  
 
 ### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste 👍1  
 

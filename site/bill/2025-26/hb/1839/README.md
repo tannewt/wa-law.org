@@ -14,13 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164677&caId=26075&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164677&caId=26075&tId=4)
 
-#### 21 👍 - Pro
+#### 106 👍 - Pro
 Testifying:
 * Nicholas Dumouchel - Communities for Our College
 * Angelita Cervantes - Communities for Our College
 * 💵Carolyn Brotherton - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
 * Sephen Martinez - Communities for Our Colleges
 * Jesse Chavez - Communities for Our College
+* 💵Karen Strickland - American Federation of Teachers - WA
 
 #### 4 👎 - Con
 

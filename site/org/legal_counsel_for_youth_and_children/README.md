@@ -1,7 +1,7 @@
 # Legal Counsel for Youth and Children
 ## 2025-26
 
-### [HB 1085](/bill/2025-26/hb/1085/) - School safety/penalties  👎1 
+### [HB 1085](/bill/2025-26/hb/1085/) - School safety/penalties  👎2 
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
@@ -61,7 +61,7 @@
 
 ### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍1  
 
-### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍2  
 
 ### [SB 5030](/bill/2025-26/sb/5030/) - Vital records access 👍1  
 
@@ -73,7 +73,7 @@
 
 ### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions   ❓1
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍2  
 
 ### [SB 5128](/bill/2025-26/sb/5128/) - Juvenile detention, medical 👍1  
 
@@ -91,6 +91,8 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
+### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍1  
+
 ### [SB 5260](/bill/2025-26/sb/5260/) - Juvenile correctional pop.  👎1 
 
 ### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
@@ -99,7 +101,7 @@
 
 ### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile correctional pop.  👎1 
 
-### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍1  
+### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍2  
 
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍3  
 * 👍 Alex Narvaez

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5061/</link>
 		<description>Updates about SB 5061</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 24 Jan 2025 06:38:46 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Feb 2025 07:06:28 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -132,6 +132,29 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Paula/Sardinas/2025-01-24 06:38:46</guid>
+		</item>
+		<item>
+			<title>Referred to Transportation.</title>
+			<description>Referred to Transportation.</description>
+			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-21/Referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍Pete Butler - National Electrical Contractors Association</title>
+			<description>Pete Butler signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/national_electrical_contractors_association/"&gt;National Electrical Contractors Association&lt;/a&gt;.</description>
+			<pubDate>Fri, 21 Feb 2025 04:35:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Pete/Butler/2025-02-21 04:35:39</guid>
+		</item>
+		<item>
+			<title>👍Pete Butler - National Electrical Contractors Association</title>
+			<description>Pete Butler signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/national_electrical_contractors_association/"&gt;National Electrical Contractors Association&lt;/a&gt;.</description>
+			<pubDate>Fri, 21 Feb 2025 07:06:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Pete/Butler/2025-02-21 07:06:28</guid>
 		</item>
 	</channel>
 </rss>

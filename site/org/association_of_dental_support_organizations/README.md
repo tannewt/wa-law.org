@@ -5,12 +5,12 @@
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace  👎1 
 
-## [SB 5387](/bill/2025-26/sb/5387/) - Corp. practice of medicine   ❓1
+## [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care   ❓1
 * ❓ Roman Daniels-Brown
 
 ## 2023-24
 
-### [SB 5387](/bill/2023-24/sb/5387/) - Corp. practice of medicine   ❓1
+### [SB 5387](/bill/2023-24/sb/5387/) - Corp practice of health care   ❓1
 * ❓ Roman Daniels-Brown
 
 ### [SB 6097](/bill/2023-24/sb/6097/) - Dental services contracts 👍1  

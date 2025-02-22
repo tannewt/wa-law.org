@@ -1,7 +1,7 @@
 # Washington Defender Association
 ## 2025-26
 
-### [HB 1119](/bill/2025-26/hb/1119/) - Concerning supervision compliance credit.  👍1  
+### [HB 1119](/bill/2025-26/hb/1119/) - Supervision compliance 👍1  
 * 👍 Cindy Elsberry
 
 ### [HB 1137](/bill/2025-26/hb/1137/) - DOC discipline 👍1  

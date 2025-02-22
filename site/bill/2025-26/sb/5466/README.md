@@ -17,7 +17,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 190 👎 - Con
+Testifying:
+* Nicolas B Garcia - Washington Public Utility Districts Association
 
 #### 0 ❓ - Other
 

@@ -35,6 +35,8 @@
 ### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation   ❓1
 * ❓ Nicholas Oakley
 
+### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
 ### [SB 5149](/bill/2025-26/sb/5149/) - Early childhood court prg. 👍2  
@@ -49,6 +51,8 @@
 
 ### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile correctional pop.  👎1 
 * 👎 William Hairston
+
+### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍1  
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍2  
 

@@ -33,7 +33,7 @@
 
 ### [SB 5357](/bill/2025-26/sb/5357/) - Actuarial pension funding  👎1 
 
-### [SB 5387](/bill/2025-26/sb/5387/) - Corp. practice of medicine 👍1  
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍1  
 
 ## [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
 

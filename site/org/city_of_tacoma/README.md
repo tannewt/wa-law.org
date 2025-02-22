@@ -3,9 +3,11 @@
 
 ### [HB 1016](/bill/2025-26/hb/1016/) - Providing employer tax incentives for the support of veterans and military families. 👍1  
 
+### [HB 1095](/bill/2025-26/hb/1095/) - Law enforcement funding 👍2  
+
 ### [HB 1116](/bill/2025-26/hb/1116/) - Election day 👍1  
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review   ❓1
 
@@ -23,9 +25,13 @@
 
 ### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
 
+### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 
+
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 
 ### [HB 1587](/bill/2025-26/hb/1587/) - Partner promise scholarships 👍1  
+
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍2  
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 

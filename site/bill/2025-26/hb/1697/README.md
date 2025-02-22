@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 02/14 08:00 AM - Health Care & Wellness (HCW): HB 1697 Newborn screening additions

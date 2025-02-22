@@ -27,6 +27,8 @@
 
 ### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties 👍1  
 
+### [HB 1870](/bill/2025-26/hb/1870/) - Public health clinics/tax 👍1  
+
 ### [HB 1968](/bill/2025-26/hb/1968/) - Controlled sub. endangerment 👍1  
 
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  

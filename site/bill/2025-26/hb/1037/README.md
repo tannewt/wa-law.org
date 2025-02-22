@@ -15,7 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164668&caId=26068&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164668&caId=26068&tId=4)
 
-#### 0 👍 - Pro
+#### 33 👍 - Pro
+Testifying:
+* John Belcher - Cle Elum Roslyn School District
+* Ann Leichleiter - Boys & Girls Clubs of the Columbia Basin
+* Andrew Lyons
 
 #### 0 👎 - Con
 

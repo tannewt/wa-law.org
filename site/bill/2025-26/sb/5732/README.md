@@ -11,19 +11,13 @@
 
 ## Meetings
 ### Fri 02/21 10:30 AM - Housing (HSG): SB 5732 Housing supply/GMA
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32875&aId=164523&caId=25976&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32875&aId=164523&caId=25976&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32875&aId=164523&caId=25976&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32875&aId=164523&caId=25976&tId=4)
-
 #### 196 👍 - Pro
 Testifying:
 * Elizabeth Kang
 * Gordon Haggerty
 * 💵Jan Himebaugh - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 
-#### 617 👎 - Con
+#### 618 👎 - Con
 Testifying:
 * TaraLyn Fray
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)

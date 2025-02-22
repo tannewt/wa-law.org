@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/20/2025 [FOX13](/org/fox13/) - [Bills aimed at improving community safety in WA advance | FOX 13 Seattle](https://www.fox13seattle.com/news/bills-improving-community-safety-wa#:~:text=HB%201252)

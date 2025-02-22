@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [Standing strong, moving forward - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/02/07/standing-strong-moving-forward/#:~:text=SB%205626)

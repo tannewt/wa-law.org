@@ -1,7 +1,7 @@
 # Northwest Gas Association
 ## 2025-26
 
-### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy   ❓1
+### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy   ❓2
 * ❓💵 Natasha Jackson
 
 ### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties  👎1 

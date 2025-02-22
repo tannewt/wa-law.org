@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TRAN): SB 5061 Public works wages
@@ -14,9 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164797&caId=26053&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164797&caId=26053&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Pete Butler - [National Electrical Contractors Association](/org/national_electrical_contractors_association/)
+* Pete Butler - [National Electrical Contractors Association](/org/national_electrical_contractors_association/)
 
-#### 3 👎 - Con
+#### 51 👎 - Con
 
 #### 0 ❓ - Other
 

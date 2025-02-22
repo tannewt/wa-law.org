@@ -14,7 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164803&caId=26059&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164803&caId=26059&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Doug Vaughn - Principal Financial Officer, WSDOT
+* 💵Heather Kurtenbach - Washington State Building & Construction Trades Council
+* Anne McEnerny-Ogle - Mayor of Vancouver
+* Mike Bomar - Port of Vancouver USA
 
 #### 0 👎 - Con
 

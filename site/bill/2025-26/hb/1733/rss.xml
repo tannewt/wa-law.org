@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1733/</link>
 		<description>Updates about HB 1733</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Feb 2025 10:19:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -82,6 +82,30 @@
 			<pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-18/Referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍Keith Edwards - Catahoula Health LLC</title>
+			<description>Keith Edwards signed up to testify Pro. They are signed up to represent Catahoula Health LLC.</description>
+			<pubDate>Fri, 21 Feb 2025 06:12:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Keith/Edwards/2025-02-21 06:12:33</guid>
+		</item>
+		<item>
+			<title>👍Keith Edwards - Catahoula Health LLC dba The Joint Chiropractic West Seattle</title>
+			<description>Keith Edwards signed up to testify Pro. They are signed up to represent Catahoula Health LLC dba The Joint Chiropractic West Seattle.</description>
+			<pubDate>Fri, 21 Feb 2025 10:18:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Keith/Edwards/2025-02-21 10:18:27</guid>
+		</item>
+		<item>
+			<title>👍Philip Gustavson - Catahoula Health LLC dba The Joint Chiropractic West Seattle</title>
+			<description>Philip Gustavson signed up to testify Pro.</description>
+			<pubDate>Fri, 21 Feb 2025 10:19:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Philip/Gustavson/2025-02-21 10:19:04</guid>
 		</item>
 	</channel>
 </rss>

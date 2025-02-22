@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Fri 02/21 01:30 PM - Finance (FIN): HB 1717 Affordable housing/sales tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163956&caId=25947&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163956&caId=25947&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163956&caId=25947&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32819&aId=163956&caId=25947&tId=4)
-
-#### 86 👍 - Pro
+#### 107 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
@@ -30,8 +24,10 @@ Testifying:
 * Jiadong Gu
 * Amanda Deshazo - Tacoma-Pierce County Affordable Housing Consortium
 * Courtney Acoff - Tacoma Pierce County Habitat for Humanity
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Jason Gauthier - South Sound Housing Affordability Partners
 
-#### 695 👎 - Con
+#### 715 👎 - Con
 Testifying:
 * TaraLyn Fray
 

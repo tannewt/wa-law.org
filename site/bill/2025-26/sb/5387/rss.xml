@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>SB 5387 - Corp. practice of medicine</title>
+		<title>SB 5387 - Corp practice of health care</title>
 		<link>https://wa-law.org/bill/2025-26/sb/5387/</link>
 		<description>Updates about SB 5387</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 16:31:23 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -224,6 +224,13 @@
 			<pubDate>Tue, 11 Feb 2025 16:31:23 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.opportunityinstitute.org/blog/post/health-care-costs-unsustainable-out-of-control/#:~:text=Senate%20Bill%205387</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-21/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

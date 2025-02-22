@@ -15,12 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164858&caId=26102&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164858&caId=26102&tId=4)
 
-#### 7 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Derek Young - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Rachel Cortez - Washington State Office of Public Defense
 
-#### 2 👎 - Con
+#### 178 👎 - Con
 
 #### 0 ❓ - Other
 

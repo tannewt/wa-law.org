@@ -18,9 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164878&caId=26122&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164878&caId=26122&tId=4)
 
-#### 1 👍 - Pro
+#### 35 👍 - Pro
+Testifying:
+* Fiona Bell - Novelis
+* Francisco Castillo - Diageo North America
 
-#### 6 👎 - Con
+#### 175 👎 - Con
 
 #### 0 ❓ - Other
 

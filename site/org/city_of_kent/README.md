@@ -3,7 +3,11 @@
 
 ### [HB 1042](/bill/2025-26/hb/1042/) - County treasurer costs  👎1 
 
+### [HB 1095](/bill/2025-26/hb/1095/) - Law enforcement funding 👍1  
+
 ### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal  👎1 
+
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 

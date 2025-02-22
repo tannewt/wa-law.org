@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164667&caId=26067&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164667&caId=26067&tId=4)
 
-#### 4 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
+* Jeff Gadman - President, WA Association of County Treasurers
+* 💵Jennifer Wallace - WA Association of County Officials
 * Steve Drew - WA Assoc of Assessors / Thurston County Assessor
 
 #### 1 👎 - Con

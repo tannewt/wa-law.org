@@ -5,7 +5,7 @@
 
 ### [HB 1135](/bill/2025-26/hb/1135/) - Local government planning 👍1  
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 * 👍💵 Leah Missik

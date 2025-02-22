@@ -7,19 +7,27 @@
 
 ### [HB 1075](/bill/2025-26/hb/1075/) - Affordable housing financing 👍2  
 
+### [HB 1095](/bill/2025-26/hb/1095/) - Law enforcement funding 👍1  
+
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓1
 
 ### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal  👎1 
 
 ### [HB 1138](/bill/2025-26/hb/1138/) - Improving public safety by implementing evidence-based interview practices that increase the reliability of statements collected during criminal investigations.   ❓1
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review   ❓2
 
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential   ❓1
 
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes  👎1 
+
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓2
+
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting   ❓1
+
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element   ❓1
 
@@ -31,6 +39,10 @@
 
 ### [HB 1438](/bill/2025-26/hb/1438/) - Housing permit approval  👎1 
 
+### [HB 1440](/bill/2025-26/hb/1440/) - Civil forfeiture proceedings   ❓1
+
+### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 
+
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓1
 
 ### [HB 1518](/bill/2025-26/hb/1518/) - Vehicle collision liability  👎1 
@@ -39,6 +51,8 @@
 * 👍 Bianca Siegl
 
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
+
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 
@@ -54,7 +68,11 @@
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 
+### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
+
 ### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
+
+### [HB 1992](/bill/2025-26/hb/1992/) - Safe system approach strat. 👍1  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
@@ -65,9 +83,11 @@
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓2
 * ❓ Thara Johnson
 
-### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects   ❓1
+### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects   ❓2
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓1
+
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
@@ -103,11 +123,13 @@
 
 ### [SB 5627](/bill/2025-26/sb/5627/) - Safe excavation  👎1 
 
-## [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
+### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
+
+## [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 
 ## 2023-24
 
-### [SB 5659](/bill/2023-24/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
+### [SB 5757](/bill/2023-24/sb/5757/) - Auto. traffic safety revenue  👎1 
 
 ### [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
 

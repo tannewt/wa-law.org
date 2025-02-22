@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 02/21 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1987 Food security strategy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32820&aId=164602&caId=25999&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32820&aId=164602&caId=25999&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32820&aId=164602&caId=25999&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32820&aId=164602&caId=25999&tId=4)
-
-#### 85 👍 - Pro
+#### 87 👍 - Pro
 Testifying:
 * Michal Paul
 * Noa Romach
@@ -24,6 +18,7 @@ Testifying:
 * Brian Estes - LINC Foods
 * 💵Claire Lane - Anti-Hunger & Nutrition Coalition
 * w. Jay Gordon - Self /washington dairy federation
+* 💵Aaron Czyzewski - [Food Lifeline](/org/food_lifeline/)
 
 #### 47 👎 - Con
 

@@ -53,7 +53,7 @@
 
 ### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor  👎1 
 
-### [HB 1589](/bill/2025-26/hb/1589/) - Concerning the relationships between health carriers and contracting providers. 👍1  
+### [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers 👍1  
 
 ### [HB 1604](/bill/2025-26/hb/1604/) - Jail searches/gender 👍1  
 

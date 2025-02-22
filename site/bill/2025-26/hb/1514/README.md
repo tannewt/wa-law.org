@@ -15,11 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164621&caId=26024&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164621&caId=26024&tId=4)
 
-#### 219 👍 - Pro
+#### 236 👍 - Pro
 
 #### 6 👎 - Con
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+* Charlie Brown - Northwest Natural and Cascade Natural Gas Company
 
 ### Mon 01/27 01:30 PM - Environment & Energy (ENVI): HB 1514 Low carbon thermal energy
 #### 77 👍 - Pro

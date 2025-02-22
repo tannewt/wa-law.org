@@ -41,6 +41,8 @@
 
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍3  
 
+### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍1  
+
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue  👎1 

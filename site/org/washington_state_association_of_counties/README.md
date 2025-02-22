@@ -146,7 +146,8 @@
 ### [HB 1702](/bill/2025-26/hb/1702/) - Public utility tax, counties 👍1  
 * 👍💵 Paul Jewell
 
-### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎1 
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎2 
+* 👎💵 Paul Jewell
 * 👎💵 Paul Jewell
 
 ### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
@@ -174,6 +175,9 @@
 
 ### [HB 1899](/bill/2025-26/hb/1899/) - Homelessness point-in-time 👍1  
 * 👍💵 Curtis Steinhauer
+
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍1  
+* 👍💵 Travis Dutton
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍💵 Paul Jewell

@@ -6,6 +6,8 @@
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
 
+### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax  👎1 
+
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants  👎2 
 
 ### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption 👍1  

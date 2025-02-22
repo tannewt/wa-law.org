@@ -52,7 +52,7 @@
 ### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program   ❓1
 * ❓💵 Emily Brice
 
-### [SB 5387](/bill/2025-26/sb/5387/) - Corp. practice of medicine 👍1  
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍1  
 * 👍💵 Emily Brice
 
 ### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎2 

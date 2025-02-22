@@ -35,7 +35,7 @@
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 
-### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
+### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍2  
 
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
 

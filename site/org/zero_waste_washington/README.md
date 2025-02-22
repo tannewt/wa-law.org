@@ -1,7 +1,8 @@
 # Zero Waste Washington
 ## 2025-26
 
-### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates  👎2 
+### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates  👎3 
+* 👎💵 Heather Trim
 * 👎💵 Heather Trim
 
 ### [HB 1094](/bill/2025-26/hb/1094/) - Providing a property tax exemption for property owned by a qualifying nonprofit organization and loaned, leased, or rented to and used by any government entity to provide character-building, benevolent, protective, or rehabilitative social services. 👍1  

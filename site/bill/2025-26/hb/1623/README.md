@@ -17,9 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164788&caId=26047&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164788&caId=26047&tId=4)
 
-#### 7 👍 - Pro
+#### 58 👍 - Pro
+Testifying:
+* Eunice How - UNITE HERE Local 8
 
-#### 171 👎 - Con
+#### 217 👎 - Con
+Testifying:
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 #### 0 ❓ - Other
 

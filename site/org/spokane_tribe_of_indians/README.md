@@ -1,7 +1,7 @@
 # Spokane Tribe of Indians
 ## 2025-26
 
-### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
 
 ### [HB 1311](/bill/2025-26/hb/1311/) - Gray wolves 👍1  
 

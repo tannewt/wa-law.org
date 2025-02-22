@@ -15,7 +15,7 @@
 
 ### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
 
-### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍3  
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
 
@@ -30,6 +30,8 @@
 ### [HB 1412](/bill/2025-26/hb/1412/) - Comm'n, M. East & N. Africa 👍1  
 
 ### [HB 1434](/bill/2025-26/hb/1434/) - Eid al-Fitr & Eid al-Adha 👍1  
+
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
 
@@ -56,7 +58,7 @@
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍2  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 

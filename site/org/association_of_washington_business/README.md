@@ -290,9 +290,9 @@
 ### [HB 1819](/bill/2025-26/hb/1819/) - Transmission capacity  👎1 
 * 👎💵 Peter Godlewski
 
-### [HB 1822](/bill/2025-26/hb/1822/) - Establishing a driver work zone and first responder safety course requirement. 👍1  
+### [HB 1822](/bill/2025-26/hb/1822/) - Driver course/work zones 👍1  
 
-### [HB 1834](/bill/2025-26/hb/1834/) - Protecting Washington children online.  👎1 
+### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors  👎1 
 * 👎💵 Morgan Irwin
 
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev.  👎1 
@@ -420,12 +420,13 @@
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 * 👎💵 Peter Godlewski
 
-### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice  👎1 
+### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice  👎2 
 * 👎 Pe Godlewski
+* 👎💵 Peter Godlewski
 
-### [SB 5385](/bill/2025-26/sb/5385/) - Definition of timberland 👍1  
+### [SB 5385](/bill/2025-26/sb/5385/) - Timberland definition/REET 👍1  
 
-### [SB 5387](/bill/2025-26/sb/5387/) - Corp. practice of medicine  👎1 
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care  👎1 
 
 ### [SB 5396](/bill/2025-26/sb/5396/) - FAA medical certificates   ❓1
 

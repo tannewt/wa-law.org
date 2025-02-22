@@ -258,7 +258,7 @@
 
 ### [HB 1817](/bill/2025-26/hb/1817/) - Schools/sexual assault 👍1  
 
-### [HB 1822](/bill/2025-26/hb/1822/) - Establishing a driver work zone and first responder safety course requirement. 👍1  
+### [HB 1822](/bill/2025-26/hb/1822/) - Driver course/work zones 👍1  
 
 ### [HB 1827](/bill/2025-26/hb/1827/) - Basic education/juv. justice 👍1  
 * 👍💵 Simone Boe
@@ -377,9 +377,10 @@
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
 * 👍💵 Nasue Nishida
 
-### [SB 5186](/bill/2025-26/sb/5186/) - School district elections   ❓2
+### [SB 5186](/bill/2025-26/sb/5186/) - School district elections 👍2  ❓2
 * ❓💵 Simone Boe
 * ❓💵 Julie Salvi
+* 👍💵 Simone Boe
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍4  
 
@@ -454,7 +455,7 @@
 * 👍💵 Simone Boe
 * 👍💵 Simone Boe
 
-### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
+### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍2  
 
 ### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
 
@@ -547,13 +548,15 @@
 
 ### [SB 5756](/bill/2025-26/sb/5756/) - Working minors 👍1  
 
-## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds   ❓1
+## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  ❓1
 * ❓💵 Julie Salvi
+* 👍💵 Simone Boe
 
 ## 2023-24
 
-### [SJR 8200](/bill/2023-24/sjr/8200/) - School district local funds   ❓1
+### [SJR 8200](/bill/2023-24/sjr/8200/) - School district local funds 👍1  ❓1
 * ❓💵 Julie Salvi
+* 👍💵 Simone Boe
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 

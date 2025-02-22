@@ -15,7 +15,7 @@
 
 ### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment 👍1  
 
-### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
+### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍2  
 
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth 👍1  
 

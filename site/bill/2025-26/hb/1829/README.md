@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/11 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1829 Tribal warrants

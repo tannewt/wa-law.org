@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 01/28 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1499 Legal financial obligations

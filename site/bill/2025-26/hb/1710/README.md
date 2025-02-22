@@ -21,15 +21,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164730&caId=26036&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164730&caId=26036&tId=4)
 
-#### 255 👍 - Pro
+#### 387 👍 - Pro
 Testifying:
 * 💵Alex Hur - OneAmerica
 * Marisa Wright - Campaign Legal Center
 * 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 
-#### 1447 👎 - Con
+#### 1845 👎 - Con
+Testifying:
+* 💵Michael Shaw - Washington State Association of County Auditors
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 02/05 01:30 PM - State Government & Tribal Relations (SGOV): HB 1710 Voting rights act compliance
 #### 410 👍 - Pro

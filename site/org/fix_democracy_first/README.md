@@ -38,7 +38,7 @@
 
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
 
-### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions 👍1  
+### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions 👍2  
 
 ## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍1  
 

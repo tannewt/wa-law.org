@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164671&caId=26071&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164671&caId=26071&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
+Testifying:
+* 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 7 👎 - Con
+#### 8 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Greg Gallagher - Klickitat County Treasurer

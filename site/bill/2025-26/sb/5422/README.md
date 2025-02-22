@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/06/2025 [Senate Democrats](/org/senate_democrats/) - [Public employees could collectively bargain over AI use under new Bateman legislation - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/02/05/public-employees-could-collectively-bargain-over-ai-use-under-new-bateman-legislation/#:~:text=New%20legislation)

@@ -1,0 +1,124 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1793](/bill/2025-26/hb/1793/) > [Substitute Bill](/bill/2025-26/hb/1793/S/)
+
+# HB 1793 - Reports of fire losses
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1793-S.pdf)
+
+## Section 1
+The following information relating to insurance and financial institutions is exempt from disclosure under this chapter:
+
+1. Records maintained by the board of industrial insurance appeals that are related to appeals of crime victims' compensation claims filed with the board under RCW 7.68.110;
+
+2. Information obtained and exempted or withheld from public inspection by the health care authority under RCW 41.05.026, whether retained by the authority, transferred to another state purchased health care program by the authority, or transferred by the authority to a technical review committee created to facilitate the development, acquisition, or implementation of state purchased health care under chapter 41.05 RCW;
+
+3. The names and individual identification data of either all owners or all insureds, or both, received by the insurance commissioner under chapter 48.102 RCW;
+
+4. Information provided under RCW 48.30A.045 through 48.30A.060;
+
+5. Information provided under RCW 48.05.510 through 48.05.535, 48.43.200 through 48.43.225, 48.44.530 through 48.44.555, and 48.46.600 through 48.46.625;
+
+6. Examination reports and information obtained by the department of financial institutions from banks under RCW 30A.04.075, from savings banks under RCW 32.04.220, from savings and loan associations under RCW 33.04.110, from credit unions under RCW 31.12.565, from check cashers and sellers under RCW 31.45.030(3), and from securities brokers and investment advisers under RCW 21.20.100, information that could reasonably be expected to reveal the identity of a whistleblower under RCW 21.40.090, and information received under RCW 43.320.190, all of which are confidential and privileged information;
+
+7. Information provided to the insurance commissioner under RCW 48.110.040(3);
+
+8. Documents, materials, or information obtained by the insurance commissioner under RCW 48.02.065, all of which are confidential and privileged;
+
+9. Documents, materials, or information obtained or provided by the insurance commissioner under RCW 48.31B.015(2) (l) and (m), 48.31B.025, 48.31B.030, 48.31B.035, and 48.31B.036, all of which are confidential and privileged;
+
+10. Data filed under RCW 48.140.020, 48.140.030, 48.140.050, and 7.70.140 that, alone or in combination with any other data, may reveal the identity of a claimant, health care provider, health care facility, insuring entity, or self-insurer involved in a particular claim or a collection of claims. For the purposes of this subsection:
+
+    a. "Claimant" has the same meaning as in RCW 48.140.010(2).
+
+    b. "Health care facility" has the same meaning as in RCW 48.140.010(6).
+
+    c. "Health care provider" has the same meaning as in RCW 48.140.010(7).
+
+    d. "Insuring entity" has the same meaning as in RCW 48.140.010(8).
+
+    e. "Self-insurer" has the same meaning as in RCW 48.140.010(11);
+
+11. Documents, materials, or information obtained by the insurance commissioner under RCW 48.135.060;
+
+12. Documents, materials, or information obtained by the insurance commissioner under RCW 48.37.060;
+
+13. Confidential and privileged documents obtained or produced by the insurance commissioner and identified in RCW 48.37.080;
+
+14. Documents, materials, or information obtained by the insurance commissioner under RCW 48.37.140;
+
+15. Documents, materials, or information obtained by the insurance commissioner under RCW 48.17.595;
+
+16. Documents, materials, or information obtained by the insurance commissioner under RCW 48.102.051(1) and 48.102.140 (3) and (7)(a)(ii);
+
+17. Documents, materials, or information obtained by the insurance commissioner in the commissioner's capacity as receiver under RCW 48.31.025 and 48.99.017, which are records under the jurisdiction and control of the receivership court. The commissioner is not required to search for, log, produce, or otherwise comply with the public records act for any records that the commissioner obtains under chapters 48.31 and 48.99 RCW in the commissioner's capacity as a receiver, except as directed by the receivership court;
+
+18. Documents, materials, or information obtained by the insurance commissioner under RCW 48.13.151;
+
+19. Data, information, and documents provided by a carrier pursuant to section 1, chapter 172, Laws of 2010;
+
+20. Information in a filing of usage-based insurance about the usage-based component of the rate pursuant to RCW 48.19.040(5)(b);
+
+21. Data, information, and documents that are submitted to the office of the insurance commissioner by an entity providing health care coverage pursuant to RCW 28A.400.275;
+
+22. Data, information, and documents obtained by the insurance commissioner under RCW 48.29.017;
+
+23. Information not subject to public inspection or public disclosure under RCW 48.43.730(5);
+
+24. Documents, materials, or information obtained by the insurance commissioner under chapter 48.05A RCW;
+
+25. Documents, materials, or information obtained by the insurance commissioner under RCW 48.74.025, 48.74.028, 48.74.100(6), 48.74.110(2) (b) and (c), and 48.74.120 to the extent such documents, materials, or information independently qualify for exemption from disclosure as documents, materials, or information in possession of the commissioner pursuant to a financial conduct examination and exempt from disclosure under RCW 48.02.065;
+
+26. Nonpublic personal health information obtained by, disclosed to, or in the custody of the insurance commissioner, as provided in RCW 48.02.068;
+
+27. Data, information, and documents obtained by the insurance commissioner under RCW 48.02.230;
+
+28. Documents, materials, or other information, including the corporate annual disclosure obtained by the insurance commissioner under RCW 48.195.020;
+
+29. Findings and orders disapproving acquisition of a trust institution under RCW 30B.53.100(3);
+
+30. All claims data, including health care and financial related data received under RCW 41.05.890, received and held by the health care authority;
+
+31. Contracts not subject to public disclosure under RCW 48.200.040 and 48.43.731; and
+
+32. Data, information, and documents obtained from an insurer, or by or from the insurance commissioner, under RCW 48.05.320.
+
+## Section 2
+1. Within 90 days of closing a claim related to a fire loss or damage or any subsequent non-de minimis adjustment or further investigation related to a fire loss or damage, an authorized insurer shall  report to the insurance commissioner, in the manner prescribed by the insurance commissioner to include reporting via a third party vendor, each fire loss of property in this state reported to the insurer. At a minimum, the reported information must include:
+
+    a. The zip code of the property;
+
+    b. The date of loss;
+
+    c. The amount that the insurer paid on each coverage;
+
+    d. The known or suspected origin and cause of the loss or damage if determined, including whether the loss is due to criminal activity or to undetermined causes
+
+; and
+
+    e. The national association of insurance commissioners company number.
+
+2. [Empty]
+
+    a. In addition to the report of information required under subsection (1) of this section, whenever an insurer knows or suspects that a fire loss or damage may be due to criminal activity, the insurer shall immediately report to the local or tribal law enforcement agency of jurisdiction, and the insurance commissioner, the details of the loss or damage and the basis for the insurer's knowledge or suspicion that it may be due to criminal activity, and upon request, provide a complete copy of any full or partial investigation of the claim or loss conducted by the insurer.
+
+    b. Upon receipt of a report from an insurer made pursuant to (a) of this subsection, the local or tribal law enforcement agency shall timely share all information received from the insurer with the individual responsible for fire investigation under RCW 43.44.050(1), and shall coordinate with that individual consistent with RCW 43.44.050.
+
+    c. Unless actual malice is shown, an insurer is immune from liability in any civil action or suit arising from its (i) report of information to law enforcement and the insurance commissioner pursuant to this subsection (2), or (ii) cooperation with a duly issued subpoena for a criminal investigation or prosecution.
+
+3. Except as provided in this subsection (3), documents, materials, reports, data, investigations, and other information described in subsections (1) and (2) of this section are confidential by law and privileged, are not subject to public disclosure under chapter 42.56 RCW, and are not subject to a civil matter subpoena directed to the insurance commissioner or any person who processes information received pursuant to this section. Neither the insurance commissioner, staff of the office of the insurance commissioner, nor anyone receiving or processing information pursuant to this section is permitted or required to testify in any private civil action concerning any information that is confidential and privileged under this subsection (3). Nothing in this subsection prohibits cooperation with subpoenas for documents or testimony in criminal matters.
+
+    a. The commissioner may share documents, materials, reports, data, investigations, and other information, including the confidential and privileged information received pursuant to this section, with: (i) The national association of insurance commissioners and its affiliates and subsidiaries; (ii) regulatory, law enforcement, and prosecutorial officials of other states and nations, the federal government, tribal governments, and international authorities; (iii) agencies of this state; (iv) rating bureaus; (v) the state fire marshal's office; and (vi) local or tribal law enforcement officials, prosecutors, or fire chiefs and fire marshals in this state. Except as provided in (b) through (e) of this subsection, the commissioner must require a recipient of information shared pursuant to this subsection (3)(a) to maintain the confidentiality and privileged status of the information.
+
+    b. The state fire marshal's office may use information shared under (a) of this subsection for wildfire and resiliency planning purposes, so long as it does not publicly disclose information that contains personally identifiable information about properties, property owners, policyholders, losses, claimants, or claims.
+
+    c. Rating bureaus may use the information shared under (a) of this subsection to analyze and inform rating classifications, so long as they do not publicly disclose, other than to rating subscribers, information that contains personally identifiable information about property owners, policyholders, losses, claimants, claims, or properties, other than aggregated by zip code or fire district boundary.
+
+    d. Local or tribal law enforcement officials, prosecutors, and fire chiefs and fire marshals in this state may use information shared under (a) of this subsection for public safety planning purposes, so long as they do not publicly disclose information that contains personally identifiable information about properties, property owners, policyholders, losses, claimants, or claims, other than aggregated by zip code.
+
+    e. Local, tribal, state, or federal law enforcement officials, prosecutors, and fire chiefs and fire marshals in this state, and limited authority peace officers employed by the insurance commissioner may use information referenced under this section to investigate and prosecute crime, and in so doing, may release information received under this section as is necessary for investigative and prosecutorial purposes, to comply with all due process rights of criminally accused individuals, and to comply with public records obligations applicable to criminal investigations or prosecutions. Nothing in this section is intended to modify criminal investigative procedures or prosecutions or any authority, process, right, or obligation related to them.
+
+4. The insurance commissioner may adopt rules as necessary to implement this section. The reporting requirements in subsections (1) and (2) of this section may not be enforced against an insurer until one year after rules implementing this section are adopted by the insurance commissioner.
+
+## Section 3
+1. When an insurer has reason to believe that a fire loss reported to the insurer may be of other than accidental cause, the insurer shall notify the insurance commissioner, in the manner prescribed under RCW 48.05.320 concerning the circumstances of the fire loss, including any and all relevant material developed from the insurer's inquiry into the fire loss.
+
+2. Notification of the insurance commissioner under subsection (1) of this section does not relieve the insurer of the duty to respond to a request for information from any other authorized agency and does not bar an insurer from other reporting under RCW 48.50.030(2).

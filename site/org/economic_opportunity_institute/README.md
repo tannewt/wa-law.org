@@ -27,7 +27,7 @@
 
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍1  
 
-### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge 👍1  
+### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge 👍2  
 * 👍💵 Carolyn Brotherton
 
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
@@ -48,7 +48,7 @@
 
 ### [SB 5378](/bill/2025-26/sb/5378/) - PFML grants/school districts  👎1 
 
-### [SB 5387](/bill/2025-26/sb/5387/) - Corp. practice of medicine 👍1  
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍1  
 * 👍 Sam Hatzenbeler
 
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  

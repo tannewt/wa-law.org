@@ -9,14 +9,20 @@
 
 ### [HB 1094](/bill/2025-26/hb/1094/) - Providing a property tax exemption for property owned by a qualifying nonprofit organization and loaned, leased, or rented to and used by any government entity to provide character-building, benevolent, protective, or rehabilitative social services. 👍1  
 
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
+
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓1
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 * 👍 Angela Birney
 
+### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 
+
 ### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  
 
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
+
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
 
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
 

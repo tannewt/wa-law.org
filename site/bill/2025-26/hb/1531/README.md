@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/31/2025 [The Center Square](/org/the_center_square/) - [Washington state public health bill receives lopsided critical testimony | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9f90cb56-e004-11ef-81d1-4b3c6961bacc.html#:~:text=House%20Bill%201531)

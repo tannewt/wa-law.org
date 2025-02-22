@@ -4,6 +4,8 @@
 ### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services   ❓1
 * ❓💵 Christine Brewer
 
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
+
 ### [HB 1199](/bill/2025-26/hb/1199/) - Strengthening consumer protection through increased insurer accountability for violations of the insurance code.   ❓1
 * ❓💵 Christine Brewer
 
@@ -42,7 +44,7 @@
 ### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program  👎1 
 * 👎💵 Christine Brewer
 
-### [SB 5387](/bill/2025-26/sb/5387/) - Corp. practice of medicine  👎1 
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care  👎1 
 
 ### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health  👎1 
 * 👎 Dr. Romilla Batra

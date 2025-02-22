@@ -21,13 +21,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164623&caId=26026&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164623&caId=26026&tId=4)
 
-#### 338 👍 - Pro
+#### 457 👍 - Pro
 Testifying:
 * 💵Alex Hur - OneAmerica
 * Marisa Wright - Campaign Legal Center
 * 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 
-#### 1487 👎 - Con
+#### 1908 👎 - Con
+Testifying:
+* 💵Michael Shaw - Washington State Association of County Auditors
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 ❓ - Other
 

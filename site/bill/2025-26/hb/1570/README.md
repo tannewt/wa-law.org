@@ -14,13 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164787&caId=26046&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164787&caId=26046&tId=4)
 
-#### 259 👍 - Pro
+#### 825 👍 - Pro
 Testifying:
 * 💵Nathan Tippmann - TESC Student Government
+* 💵Emily Myers - UAW
+* Stephanie Lark - WWU Student Employee
+* Alexander Matheson - Working Wildcats at CWU
 
-#### 348 👎 - Con
+#### 607 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
 
 ### Wed 02/05 08:00 AM - Labor & Workplace Standards (LAWS): HB 1570 Academic employee bargaining
 #### 183 👍 - Pro

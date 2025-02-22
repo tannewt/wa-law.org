@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/20/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Emergency powers, the mileage tax and more - Senate Republican Caucus](https://src.wastateleg.org/blog/21267/#:~:text=Senate%20Bill%205434,)

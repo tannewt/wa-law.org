@@ -79,7 +79,7 @@
 
 ### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
 
-### [HB 1822](/bill/2025-26/hb/1822/) - Establishing a driver work zone and first responder safety course requirement. 👍1  
+### [HB 1822](/bill/2025-26/hb/1822/) - Driver course/work zones 👍1  
 * 👍 Kati Durkin
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎1 

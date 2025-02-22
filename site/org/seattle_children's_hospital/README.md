@@ -8,7 +8,7 @@
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎1 
 * 👎💵 Dorothy Miller
 
-### [SB 5112](/bill/2025-26/sb/5112/) - Establishing a prescribing psychologist certification in Washington state.  👎1 
+### [SB 5112](/bill/2025-26/sb/5112/) - Prescribing psychologists  👎1 
 
 ## [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services 👍1  
 

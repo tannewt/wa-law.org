@@ -1,6 +1,8 @@
 # American Wood Council
 ## 2025-26
 
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍1  
+
 ## [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings 👍1  
 * 👍💵 Brandon Houskeeper
 

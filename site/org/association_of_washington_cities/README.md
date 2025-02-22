@@ -1,7 +1,7 @@
 # Association of Washington Cities
 ## 2025-26
 
-### [HB 1037](/bill/2025-26/hb/1037/) - PFD formation 👍2  
+### [HB 1037](/bill/2025-26/hb/1037/) - PFD formation 👍3  
 
 ### [HB 1042](/bill/2025-26/hb/1042/) - County treasurer costs  👎1 
 * 👎💵 Candice Bock
@@ -65,7 +65,7 @@
 
 ### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040. 👍1  
 
-### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 * 👍💵 Carl Schroeder
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
@@ -122,8 +122,9 @@
 ### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
 * 👍💵 Candice Bock
 
-### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings   ❓1
+### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 ❓1
 * ❓💵 Carl Schroeder
+* 👎💵 Carl Schroeder
 
 ### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase   ❓2
 * ❓💵 Candice Bock
@@ -174,10 +175,15 @@
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
 * 👍💵 Carl Schroeder
 
-### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎1 
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎2 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
-### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎1 
+### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
+* 👍💵 Carl Schroeder
+
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎2 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
 ### [HB 1763](/bill/2025-26/hb/1763/) - Affordable housing funding 👍1  
@@ -215,6 +221,9 @@
 ### [HB 1906](/bill/2025-26/hb/1906/) - Water system rates   ❓1
 * ❓💵 Kelsey Hulse
 
+### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax 👍1  
+* 👍💵 Carl Schroeder
+
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍💵 Carl Schroeder
 
@@ -224,11 +233,15 @@
 ### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
 * 👍💵 Carl Schroeder
 
+### [HB 1953](/bill/2025-26/hb/1953/) - Unclaimed property/local gov 👍1  
+
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍💵 Candice Bock
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
+
+### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
 
 ### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel  👎1 
 
@@ -363,11 +376,15 @@
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍💵 Carl Schroeder
 
-## [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
+### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
+
+## [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
+* 👎💵 Candice Bock
 
 ## 2023-24
 
-### [SB 5738](/bill/2023-24/sb/5738/) - Retired employees/work 👍1  
+### [SB 5757](/bill/2023-24/sb/5757/) - Auto. traffic safety revenue  👎1 
+* 👎💵 Candice Bock
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

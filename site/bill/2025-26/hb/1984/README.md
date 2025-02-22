@@ -14,8 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164704&caId=26081&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164704&caId=26081&tId=4)
 
-#### 1 👍 - Pro
+#### 111 👍 - Pro
+Testifying:
+* Alex Dietz - Washington State Association for Justice
 
-#### 0 👎 - Con
+#### 15 👎 - Con
+Testifying:
+* Tahra Jirari - Chamber of Progress
 
-#### 0 ❓ - Other
+#### 28 ❓ - Other

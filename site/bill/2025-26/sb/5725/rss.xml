@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5725/</link>
 		<description>Updates about SB 5725</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Feb 2025 10:16:36 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -60,6 +60,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Rosie/Rimando-Chareunsap/2025-02-18 10:16:36</guid>
+		</item>
+		<item>
+			<title>Referred to Ways &amp; Means.</title>
+			<description>Referred to Ways &amp; Means.</description>
+			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-21/Referred to Ways &amp; Means.</guid>
 		</item>
 	</channel>
 </rss>

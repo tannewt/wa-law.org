@@ -18,11 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164749&caId=26039&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164749&caId=26039&tId=4)
 
-#### 26 👍 - Pro
+#### 79 👍 - Pro
+Testifying:
+* Alex Galeana - Children's Campaign Fund Action
+* Alexis Cortes
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 02/20 04:00 PM - Appropriations (APP): SHB 1212 Child care center siting
 #### 16 👍 - Pro

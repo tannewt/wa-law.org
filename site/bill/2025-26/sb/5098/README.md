@@ -32,11 +32,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164796&caId=26052&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164796&caId=26052&tId=4)
 
-#### 9 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Hannah Fortman
+* Neal Black - [City of Kirkland](/org/city_of_kirkland/)
 
-#### 1782 👎 - Con
+#### 2143 👎 - Con
 Testifying:
 * Daniel Donley - Donley
 * Shelby Hyde
@@ -59,6 +60,9 @@ Testifying:
 * Julia Mirate
 * Russell Franklin
 * Brandie Bills
+* Noelle Christ
+* 💵Aoibheann Cline - NRA
+* Michael McKinley
 
 #### 2 ❓ - Other
 

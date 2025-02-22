@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1499/</link>
 		<description>Updates about HB 1499</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 27 Jan 2025 12:30:58 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -117,6 +117,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Maureen/McKee/2025-01-27 12:30:58</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-21/Referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

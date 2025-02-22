@@ -7,7 +7,7 @@
 
 ### [HB 1091](/bill/2025-26/hb/1091/) - SVP supervision credit 👍1  
 
-### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification  👎1 
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification  👎2 
 
 ### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services  👎2 
 * 👎 Mary Long
@@ -49,7 +49,7 @@
 
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎1 
 
-### [HB 1448](/bill/2025-26/hb/1448/) - Local elections  👎3 
+### [HB 1448](/bill/2025-26/hb/1448/) - Local elections  👎4 
 
 ### [HB 1504](/bill/2025-26/hb/1504/) - Firearm financial resp.  👎2 
 
@@ -60,11 +60,11 @@
 ### [HB 1677](/bill/2025-26/hb/1677/) - Postsecondary/med. abortion 👍1 👎4 
 * 👎 Mary Long
 
-### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎3 
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎4 
 
 ### [HB 1745](/bill/2025-26/hb/1745/) - Election audits 👍2  
 
-### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎3 
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎4 
 
 ### [HB 1817](/bill/2025-26/hb/1817/) - Schools/sexual assault  👎3 
 
@@ -88,7 +88,7 @@
 
 ### [SB 5004](/bill/2025-26/sb/5004/) - School emergency response 👍1  
 
-### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school.  👎3 
+### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school.  👎5 
 * 👎 Julie Barrett
 
 ### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍3  
@@ -109,7 +109,7 @@
 ### [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services  👎2 
 * 👎 Mary Long
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools  👎1 
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools  👎3 
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net.  👎2 
 
@@ -122,7 +122,7 @@
 
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education  👎1 
 
-### [SB 5186](/bill/2025-26/sb/5186/) - School district elections  👎1 
+### [SB 5186](/bill/2025-26/sb/5186/) - School district elections  👎3 
 
 ### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education  👎4 
 * 👎 Joy Gjersvold
@@ -138,10 +138,12 @@
 ### [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion  👎1 
 * 👎 Mary Long
 
-### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards  👎2 
+### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards  👎3 
 * 👎 Joy Gjersvold
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools  👎1 
+
+### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions  👎2 
 
 ### [SB 5386](/bill/2025-26/sb/5386/) - Schools/sexual assault  👎1 
 
@@ -157,11 +159,11 @@
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue  👎1 
 
-## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds  👎1 
+## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds  👎3 
 
 ## 2023-24
 
-### [SJR 8200](/bill/2023-24/sjr/8200/) - School district local funds  👎1 
+### [SJR 8200](/bill/2023-24/sjr/8200/) - School district local funds  👎3 
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs  👎2 
 * 👎 Jeannie Magdua

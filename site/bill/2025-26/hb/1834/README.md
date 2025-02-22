@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1834](/bill/2025-26/hb/1834/)
 
-# HB 1834 - Protecting Washington children online.
+# HB 1834 - Online services/minors
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1834&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/20/2025 [FOX13](/org/fox13/) - [WA Senate panel advances age-based social media restrictions | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-age-restrictions-social-media#:~:text=companion%20bill)

@@ -13,7 +13,7 @@
 
 ### [HB 1713](/bill/2025-26/hb/1713/) - Automatic voter reg./tribes 👍1  
 
-### [HB 1834](/bill/2025-26/hb/1834/) - Protecting Washington children online. 👍4  
+### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍4  
 * 👍 Stephan Blanford
 
 ### [HB 1876](/bill/2025-26/hb/1876/) - Death with dignity act 👍1  

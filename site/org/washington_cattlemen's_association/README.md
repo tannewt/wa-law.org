@@ -11,6 +11,8 @@
 ### [HB 1442](/bill/2025-26/hb/1442/) - Gray wolf management 👍1  
 * 👍💵 Mark Streuli
 
+### [HB 1553](/bill/2025-26/hb/1553/) - Dairy inspection program 👍1  
+
 ### [HB 1630](/bill/2025-26/hb/1630/) - Livestock methane emissions  👎2 
 
 ### [HB 1705](/bill/2025-26/hb/1705/) - Large animal veterinarians 👍1  
@@ -19,7 +21,7 @@
 
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 
-### [SB 5117](/bill/2025-26/sb/5117/) - Protecting agriculture. 👍1  
+### [SB 5117](/bill/2025-26/sb/5117/) - Agriculture impacts 👍1  
 
 ### [SB 5152](/bill/2025-26/sb/5152/) - Concerning state employee access to peer-reviewed journals. 👍1  
 

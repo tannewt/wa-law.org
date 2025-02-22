@@ -20,14 +20,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164619&caId=26022&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164619&caId=26022&tId=4)
 
-#### 1757 👍 - Pro
+#### 1874 👍 - Pro
 Testifying:
 * Kathryn Loring - Washington State Minority and Justice Commission
 * Denise Blacketer
 * Larry Jefferson - Director, Washington State Office of Public Defense
+* Eric Flores - Freedom Project
+* Derrick Jones Jr - Freedom Project
 * Vice Chairwoman Loni Greninger - Jamestown S'Klallam Tribe
+* 💵Chelsea Moore - ACLU-WA
+* Cassandra Butler - Collective Justice
 
-#### 397 👎 - Con
+#### 661 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Tiffany Attrill

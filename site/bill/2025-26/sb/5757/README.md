@@ -14,10 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164800&caId=26056&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164800&caId=26056&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
 
-#### 15 👎 - Con
+#### 20 👎 - Con
 Testifying:
 * Andy Illyn - Mukilteo Police Department
+* 💵Axel Swanson - Washington State Association of County Engineers
+* Rafael Padilla - City of Kent, Chief of Police
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 #### 0 ❓ - Other

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Fri 02/14 08:00 AM - Health & Long Term Care (HLTC): SB 5606 Long-term care ombud funding

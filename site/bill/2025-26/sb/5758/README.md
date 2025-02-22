@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Tue 02/18 10:30 AM - Labor & Commerce (LC): SB 5758 Cannabis licensees/distance

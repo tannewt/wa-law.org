@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/27 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5322 Burrowing shrimp

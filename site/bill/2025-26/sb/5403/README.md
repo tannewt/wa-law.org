@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5403](/bill/2025-26/sb/5403/)
 
-# SB 5403 - Direct cannabis sales
+# SB 5403 - Cannabis industry
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5403&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 01/27 10:30 AM - Labor & Commerce (LC): SB 5403 Direct cannabis sales

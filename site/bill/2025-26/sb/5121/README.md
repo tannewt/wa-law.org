@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/24/2025 [FOX13](/org/fox13/) - [WA proposal would require fertility insurance coverage | FOX 13 Seattle](https://www.fox13seattle.com/news/fertility-treatment-insurance-coverage#:~:text=Senate%20Bill%205121)

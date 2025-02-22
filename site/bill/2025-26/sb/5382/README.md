@@ -26,12 +26,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164873&caId=26117&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164873&caId=26117&tId=4)
 
-#### 0 👍 - Pro
+#### 31 👍 - Pro
+Testifying:
+* 💵Diane Bedwell
+* Margaret Dreyfus
+* Marrene Franich
 
-#### 21 👎 - Con
+#### 1086 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Laurie Layne
+* Zijie He - Zijie He
+* terry bode - no
+* Sheryll Talbert
+* Teagan Levine
+* Sharon Hanek
+* Elizabeth Zimmermann
 
 #### 0 ❓ - Other
 

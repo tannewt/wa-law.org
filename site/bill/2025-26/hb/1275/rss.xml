@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1275/</link>
 		<description>Updates about HB 1275</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 20 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -65,6 +65,13 @@
 			<pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-20/APP - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-21/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

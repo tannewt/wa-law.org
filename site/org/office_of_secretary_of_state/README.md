@@ -36,13 +36,20 @@
 ### [HB 1381](/bill/2025-26/hb/1381/) - Elections/language assist. 👍1  
 * 👍 Brian Hatfield
 
-### [HB 1448](/bill/2025-26/hb/1448/) - Local elections  👎3 
+### [HB 1448](/bill/2025-26/hb/1448/) - Local elections  👎4 
 * 👎 Steve Hobbs
 * 👎 Stuart Holmes
+* 👎 Brian Hatfield
+* 👎 Brian Hatfield
+
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎1 
 * 👎 Brian Hatfield
 
 ### [HB 1745](/bill/2025-26/hb/1745/) - Election audits  👎1 
 * 👎 Stuart Holmes
+
+### [HB 1750](/bill/2025-26/hb/1750/) - Voting rights act claims  👎1 
+* 👎 Brian Hatfield
 
 ### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍2  
 * 👍 Brian Hatfield

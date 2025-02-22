@@ -1,7 +1,7 @@
 # City of Spokane
 ## 2025-26
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 * 👍 Marlene Feist
 
 ### [HB 1183](/bill/2025-26/hb/1183/) - Building codes  👎1 
@@ -20,7 +20,7 @@
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
 * 👍 Zack Zappone
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 * 👍 Marlene Feist
 
 ### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍1  

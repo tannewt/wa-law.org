@@ -1,6 +1,8 @@
 # Washington Wine Institute
 ## 2025-26
 
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management  👎1 
+
 ### [HB 1315](/bill/2025-26/hb/1315/) - Impaired driving  👎1 
 * 👎 Josh McDonald
 

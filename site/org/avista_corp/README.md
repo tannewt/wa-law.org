@@ -3,7 +3,8 @@
 
 ### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍1  
 
-### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy   ❓1
+### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy   ❓2
+* ❓💵 John Rothlin
 * ❓💵 John Rothlin
 
 ### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  

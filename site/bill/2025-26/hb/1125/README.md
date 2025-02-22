@@ -24,15 +24,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164616&caId=26019&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164616&caId=26019&tId=4)
 
-#### 443 👍 - Pro
+#### 516 👍 - Pro
 Testifying:
 * Andre Penalver - Minority & Justice commission
 * Larry Jefferson - Office of public defense
 * Andre Penalver - Minority & Justice commission
 * Larry Jefferson - Office of public defense
 * Roz Arch - Wa coalition against domestic violence
+* Derrick Jones Jr - Freedom Project
+* Eric Flores - Freedom Project
 
-#### 1510 👎 - Con
+#### 1898 👎 - Con
 Testifying:
 * Leslie Paine
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
@@ -40,8 +42,9 @@ Testifying:
 * Justin Derricott
 * 💵Laurel Redden - King County Sexual Assault Resource Center
 * Margaret Robinson
+* Tiffany Krusey
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/30 08:00 AM - Community Safety, Justice, & Reentry (CSJR): HB 1125 Sentence modification
 #### 535 👍 - Pro

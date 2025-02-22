@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/12 01:30 PM - Health Care & Wellness (HCW): HB 1718 Health care prof. well-being

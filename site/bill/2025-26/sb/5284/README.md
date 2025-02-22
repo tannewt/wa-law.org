@@ -19,11 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164877&caId=26121&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164877&caId=26121&tId=4)
 
-#### 6 👍 - Pro
+#### 64 👍 - Pro
 
-#### 0 👎 - Con
+#### 177 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
 ### Tue 01/28 01:30 PM - Environment, Energy & Technology (ENET): SB 5284 Solid waste management
 #### 1553 👍 - Pro

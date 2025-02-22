@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [The future of Washington farming - Sen. Mike Chapman](https://senatedemocrats.wa.gov/chapman/2025/02/07/the-future-of-washington-farming/#:~:text=One%20bill%20is%20a%20bipartisan%20effort)

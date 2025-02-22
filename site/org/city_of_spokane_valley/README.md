@@ -11,13 +11,15 @@
 
 ### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍1  
 
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification  👎1 
+
 ### [HB 1139](/bill/2025-26/hb/1139/) - Unlawful firearm possession 👍1  
 
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential   ❓2
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters   ❓2
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎2 
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element  👎1 
 
@@ -26,6 +28,8 @@
 ### [HB 1258](/bill/2025-26/hb/1258/) - Providing funding for municipalities participating in the regional 911 emergency communications system.  👎1 
 
 ### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  
+
+### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score  👎1 
 
 ### [HB 1276](/bill/2025-26/hb/1276/) - Organized retail theft 👍1  
 
@@ -37,17 +41,17 @@
 
 ### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
 
-### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 
+### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎2 
 
 ### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings  👎1 
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓1
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓2
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety  👎1 
 
 ### [HB 1529](/bill/2025-26/hb/1529/) - Cities/county road resources 👍1  
 
-### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍1  
+### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍2  
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
@@ -59,7 +63,7 @@
 
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
 
-### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
+### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍2  
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
@@ -75,9 +79,11 @@
 
 ### [HB 1969](/bill/2025-26/hb/1969/) - Law enf. aviation support 👍1  
 
+### [HB 1992](/bill/2025-26/hb/1992/) - Safe system approach strat.   ❓1
+
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact   ❓1
 
-### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎1 
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎2 
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
 
@@ -87,7 +93,7 @@
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎2 
 
-### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects  👎1 
+### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects  👎2 
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
 

@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/10 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5573 Electric security alarms

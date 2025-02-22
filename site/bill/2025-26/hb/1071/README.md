@@ -18,16 +18,26 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164728&caId=26034&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164728&caId=26034&tId=4)
 
-#### 5 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * 💵Lyset Cadena - WM (Waste Management)
+* Rick Vahl - Waste Connections
+* 💵Jennifer Ziegler - Sanitary Service Company
 * Brian Coddington - Sunshine Disposal & Recycling
+* 💵Vicki Christophersen - Washington Refuse and Recycling Association
 
-#### 633 👎 - Con
+#### 1101 👎 - Con
+Testifying:
+* 💵Edwin Borbon - AMERIPEN
+* Tad Sommerville
+* Allison Kustic - Association of Plastic Recyclers
+* Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
 ### Thu 01/16 08:00 AM - Environment & Energy (ENVI): HB 1071 Recycling rates
 #### 73 👍 - Pro

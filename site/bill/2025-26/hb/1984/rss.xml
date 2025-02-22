@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1984/</link>
 		<description>Updates about HB 1984</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Feb 2025 12:12:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -14,6 +14,22 @@
 			<pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-17/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>👍Alex Dietz - Washington State Association for Justice</title>
+			<description>Alex Dietz signed up to testify Pro. They are signed up to represent Washington State Association for Justice.</description>
+			<pubDate>Fri, 21 Feb 2025 10:37:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Alex/Dietz/2025-02-21 10:37:34</guid>
+		</item>
+		<item>
+			<title>👎Tahra Jirari - Chamber of Progress</title>
+			<description>Tahra Jirari signed up to testify Con. They are signed up to represent Chamber of Progress.</description>
+			<pubDate>Fri, 21 Feb 2025 12:12:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tahra/Jirari/2025-02-21 12:12:12</guid>
 		</item>
 	</channel>
 </rss>

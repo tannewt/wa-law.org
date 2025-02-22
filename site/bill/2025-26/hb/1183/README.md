@@ -19,11 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164748&caId=26038&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164748&caId=26038&tId=4)
 
-#### 17 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* Rob Harrison - Policy Lead, Passive House Cascadia
+* Julie Blazek - HKP Architects
 
-#### 376 👎 - Con
+#### 636 👎 - Con
 
 #### 3 ❓ - Other
 Testifying:

@@ -7,7 +7,7 @@
 
 ### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal 👍1  
 
-### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍2  
+### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification 👍3  
 
 ### [HB 1131](/bill/2025-26/hb/1131/) - Clemency and pardons 👍1  
 

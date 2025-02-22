@@ -14,8 +14,9 @@
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers   ❓1
 * ❓💵 Amber Carter
 
-### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍1  
+### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍1  ❓1
 * 👍💵 Mark Johnson
+* ❓💵 Mark Johnson
 
 ### [HB 1095](/bill/2025-26/hb/1095/) - Law enforcement funding 👍2  
 
@@ -31,7 +32,8 @@
 
 ### [HB 1139](/bill/2025-26/hb/1139/) - Unlawful firearm possession 👍1  
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management   ❓1
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management   ❓2
+* ❓💵 Mark Johnson
 * ❓💵 Mark Johnson
 
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase  👎1 
@@ -144,6 +146,8 @@
 ### [HB 1976](/bill/2025-26/hb/1976/) - Release of pets & plants 👍1  
 * 👍💵 Crystal Leatherman
 
+### [HB 1995](/bill/2025-26/hb/1995/) - Tax preferences  👎1 
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
@@ -176,7 +180,8 @@
 
 ### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓1
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓2
+* ❓💵 Mark Johnson
 * ❓💵 Mark Johnson
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  

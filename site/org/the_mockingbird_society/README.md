@@ -66,7 +66,7 @@
 
 ### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile correctional pop.  👎1 
 
-### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍1  
+### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍2  
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
 

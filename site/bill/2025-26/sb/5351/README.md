@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 01/30 08:00 AM - Health & Long Term Care (HLTC): SB 5351 Dental insurance practices

@@ -17,9 +17,9 @@ Sign up to testify:
 
 #### 2 👍 - Pro
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 01/17 10:30 AM - State Government & Elections (SGE): SB 5176 Implementing prompt pay recommendations from the capital projects advisory review board. (Remote Testimony Available). (If measure is referred to committee.)
 #### 66 👍 - Pro

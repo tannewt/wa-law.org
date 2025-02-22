@@ -1,9 +1,13 @@
 # City of Pasco
 ## 2025-26
 
+### [HB 1095](/bill/2025-26/hb/1095/) - Law enforcement funding 👍1  
+
 ### [HB 1121](/bill/2025-26/hb/1121/) - Work restrictions/age 16, 17 👍1  
 
-### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎1 
+### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 
+
+### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎2 
 * 👎 Richa Sigdel
 
 ## [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  

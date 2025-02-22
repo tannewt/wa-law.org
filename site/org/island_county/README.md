@@ -1,7 +1,9 @@
 # Island County
 ## 2025-26
 
-### [HB 1044](/bill/2025-26/hb/1044/) - County REET admin. fees 👍1  
+### [HB 1044](/bill/2025-26/hb/1044/) - County REET admin. fees 👍2  
+
+### [HB 1102](/bill/2025-26/hb/1102/) - Veteran support and services 👍1  
 
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
 

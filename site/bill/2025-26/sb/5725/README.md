@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/16/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 6: Children's Day, affordable housing and a key date arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/16/this-week-in-the-senate-week-6-childrens-day-affordable-housing-and-a-key-date-arrives/#:~:text=Senate%20Bill%205725)

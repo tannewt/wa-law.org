@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/20 08:00 AM - Health & Long Term Care (HLTC): SB 5683 Health carrier payment times

@@ -1,7 +1,7 @@
 # Can Manufacturers Institute
 ## 2025-26
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍3  
 * 👍 Michael Smaha
 * 👍 Michael Smaha
 

@@ -14,17 +14,42 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164752&caId=26042&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164752&caId=26042&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * Sheri Sawyer - Office of Financial Management
 
-#### 463 👎 - Con
+#### 650 👎 - Con
 Testifying:
 * 💵Alyssa Odegaard - LeadingAge Washington
 * Carma Matti-Jackson - [Washington Health Care Association](/org/washington_health_care_association/)
 * Demas Nesterenko - SEIU 775
+* Jordan Monson - Cascadia Care
+* Danielle St. Germain - Stafholdt Health & Rehabilitation
+* Carol Ann Andrews - Olympic View Care Center
+* Brandon Matrone - Edmonds Care
+* Amy Seils - Cascadia Healthcare
+* Russell Sells - Olympia Transitional Care and Rehabilitation
+* Manuel Serfaty - South Creek Post Acute
+* Jon-Michael Bradley - Pine Ridge Post Acute
+* Joe Rudd - Alderwood Park and Rehabilitation
+* Brittany Nwankwo - Regency Olympia
+* Rachel Erickson - Fir Lane Care
+* Loupel Antiquiera - Pacific Care Center
+* Terry Myers - Grays Harbor Health and Rehabilitation
+* Teresa Andree - Park Rose Care Center
+* Tonya Fisher - Caldera Care
+* Tiffany Birrell - Highland Health and Rehabilitation
+* Shelley Sandoval - Regency Omak
+* Nadine de Klerk - Regency Pacific Management
+* Monique Mason - Emerald Bay Care
+* Lisa Moore - Post Acute Care Solutions
+* Bret Heiner - Ensign Services
+* Ashley Hogue - Three Rivers Care
+* Tyson Luu - Buena Vista Healthcare
+* Lyle Lewin - Shelton Health and Rehabilitation Center
+* Lisa Anderson - Stafholdt Health & Rehabilitation
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 
 ### Thu 02/20 04:00 PM - Appropriations (APP): HB 1476 Nursing home rate rebase
 #### 1 👍 - Pro

@@ -10,6 +10,9 @@
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍💵 Kirk Hovenkotter
 
+### [HB 1992](/bill/2025-26/hb/1992/) - Safe system approach strat. 👍1  
+* 👍💵 Matthew Sutherland
+
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget 👍1  
 * 👍💵 Kirk Hovenkotter
 

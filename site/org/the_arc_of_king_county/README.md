@@ -57,7 +57,7 @@
 
 ### [SB 5079](/bill/2025-26/sb/5079/) - DSHS overpayments 👍1  
 
-### [SB 5112](/bill/2025-26/sb/5112/) - Establishing a prescribing psychologist certification in Washington state. 👍1  
+### [SB 5112](/bill/2025-26/sb/5112/) - Prescribing psychologists 👍1  
 
 ### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍2  
 

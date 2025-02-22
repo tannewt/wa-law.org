@@ -21,15 +21,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164729&caId=26035&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164729&caId=26035&tId=4)
 
-#### 821 👍 - Pro
+#### 1084 👍 - Pro
 Testifying:
+* 💵Nilu Jenks - FairVote Washington
+* Ned Witting - Councilmember, City of Puyallup
+* Jon Culver
 * 💵Shannon Grimes - [Sightline Institute](/org/sightline_institute/)
 
-#### 1548 👎 - Con
+#### 1980 👎 - Con
 Testifying:
 * Arne Christensen
+* 💵Michael Shaw - Washington State Association of County Auditors
+* Cemal Richards
+* Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 
 ### Tue 01/28 01:30 PM - State Government & Tribal Relations (SGOV): HB 1448 Local elections
 #### 1920 👍 - Pro

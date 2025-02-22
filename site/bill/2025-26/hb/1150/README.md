@@ -22,20 +22,29 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164617&caId=26020&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164617&caId=26020&tId=4)
 
-#### 992 👍 - Pro
+#### 1363 👍 - Pro
 Testifying:
 * Erin Gagnon - DTG Recycle
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Kelsey Hulse - EPR Leadership Forum
+* 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
 
-#### 365 👎 - Con
+#### 637 👎 - Con
 Testifying:
 * 💵Lyset Cadena - WM (Waste Management)
+* Holly Chisas - [Consumer Brands Association](/org/consumer_brands_association/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Rick Vahl - Waste Connections
+* 💵Samantha Louderback - The Washington Hospitality Association
+* 💵Jennifer Ziegler - Sanitary Service Company
 * Brian Coddington - Sunshine Disposal & Recycling
+* 💵Vicki Christophersen - Washington Refuse and Recycling Association
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 
 ### Tue 01/21 04:00 PM - Environment & Energy (ENVI): HB 1150 Solid waste management
 #### 1351 👍 - Pro

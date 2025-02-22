@@ -21,10 +21,12 @@
 
 ### [HB 1349](/bill/2025-26/hb/1349/) - Pension credit for leave 👍1  
 
-### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍1  
+### [HB 1570](/bill/2025-26/hb/1570/) - Academic employee bargaining 👍2  
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
 * 👍 Joey Hicklin
+
+### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees 👍1  
 
 ### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval  👎1 
 

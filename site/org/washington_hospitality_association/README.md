@@ -3,7 +3,7 @@
 
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers  👎1 
 
-### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍1  
+### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍2  
 * 👍💵 Samantha Louderback
 
 ### [HB 1080](/bill/2025-26/hb/1080/) - Lodging fee disclosure  👎1 
@@ -27,7 +27,8 @@
 
 ### [HB 1184](/bill/2025-26/hb/1184/) - Creating a narrow exemption from overtime provisions for certain nonprofits and small businesses. 👍2  
 
-### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
+### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎2 
+* 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
 
 ### [HB 1245](/bill/2025-26/hb/1245/) - Electrical transmission cap. 👍1  
@@ -64,7 +65,8 @@
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎1 
 * 👎💵 Samantha Louderback
 
-### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees  👎1 
+### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees  👎2 
+* 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
 
 ### [HB 1636](/bill/2025-26/hb/1636/) - Wine & spirit sales limits 👍1  
@@ -151,13 +153,14 @@
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
 * 👎💵 Julia Gorton
 
-## [SB 5605](/bill/2025-26/sb/5605/) - Microenterprise home kitchen  👎1 
+### [SB 5605](/bill/2025-26/sb/5605/) - Microenterprise home kitchen  👎1 
 * 👎💵 Samantha Louderback
+
+## [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
 
 ## 2023-24
 
-### [SB 5605](/bill/2023-24/sb/5605/) - Microenterprise home kitchen  👎1 
-* 👎💵 Samantha Louderback
+### [SB 5628](/bill/2023-24/sb/5628/) - Lead in cookware 👍1  
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍4  
 
