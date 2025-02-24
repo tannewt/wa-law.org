@@ -13,7 +13,8 @@
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 
-### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍2  
+* 👍💵 Clifford Traisman
 * 👍💵 Clifford Traisman
 
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍1  
@@ -68,8 +69,9 @@
 
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment 👍1  
 
-### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels   ❓1
+### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels   ❓2
 * ❓ Caitlin Krenn
+* ❓💵 Clifford Traisman
 
 ### [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users   ❓1
 * ❓💵 Clifford Traisman

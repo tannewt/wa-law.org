@@ -35,12 +35,14 @@
 ### [SB 5465](/bill/2025-26/sb/5465/) - Wildfire costs/securitizing 👍1  
 * 👍💵 Brandon Houskeeper
 
-## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎1 
+## [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎2 
+* 👎💵 Brandon Houskeeper
 * 👎💵 Brandon Houskeeper
 
 ## 2023-24
 
-### [SB 5466](/bill/2023-24/sb/5466/) - Electric transmission system  👎1 
+### [SB 5466](/bill/2023-24/sb/5466/) - Electric transmission system  👎2 
+* 👎💵 Brandon Houskeeper
 * 👎💵 Brandon Houskeeper
 
 ### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  

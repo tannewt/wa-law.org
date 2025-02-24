@@ -53,7 +53,8 @@
 
 ### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍2  
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
+* 👍 Neal Black
 * 👍 Neal Black
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  

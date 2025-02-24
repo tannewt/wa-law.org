@@ -6,4 +6,21 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/22/2025 [Senate Democrats](/org/senate_democrats/) - [Supporting our public schools - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/02/21/supporting-our-public-schools/#:~:text=SB%205771)
+
 ## Meetings
+### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5771 WFTC increase/tenants
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164955&caId=26163&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164955&caId=26163&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164955&caId=26163&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164955&caId=26163&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* John Wilson - Office of Assessments/King County Assessor John Wilson
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other

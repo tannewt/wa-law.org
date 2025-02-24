@@ -8,6 +8,22 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5322 Burrowing shrimp
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164980&caId=26188&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164980&caId=26188&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164980&caId=26188&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164980&caId=26188&tId=4)
+
+#### 0 👍 - Pro
+
+#### 2 👎 - Con
+Testifying:
+* Darlene Schanfald - Olympic Environmental Council
+* Marilyn Showalter - Jefferson Land Trust
+
+#### 0 ❓ - Other
+
 ### Mon 01/27 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5322 Burrowing shrimp
 #### 6 👍 - Pro
 Testifying:

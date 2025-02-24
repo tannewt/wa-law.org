@@ -14,8 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164801&caId=26057&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164801&caId=26057&tId=4)
 
-#### 3 👍 - Pro
+#### 52 👍 - Pro
+Testifying:
+* Paul Jarkiewicz - Port Of Port Angeles
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other

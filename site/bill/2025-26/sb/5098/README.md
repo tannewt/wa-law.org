@@ -26,18 +26,27 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TRAN): SSB 5098 Weapons in certain areas
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164796&caId=26052&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164796&caId=26052&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164796&caId=26052&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164796&caId=26052&tId=4)
-
-#### 17 👍 - Pro
+#### 781 👍 - Pro
 Testifying:
 * Hannah Fortman
 * Neal Black - [City of Kirkland](/org/city_of_kirkland/)
+* Lachlan Bowers
+* Nermin Galesic
+* Sa Rumbaugh - Council Member, City of Tacoma
+* Sarah Rumbaugh - Council Member, City of Tacoma
+* Ann Madsen - Moms Demand Action
+* Jason Magdalena - WA Youth Alliance
+* Jennifer Dolan-Waldman - [Grandmothers Against Gun Violence](/org/grandmothers_against_gun_violence/)
+* Jane Weiss
+* Robert Schentrup - Brady United
+* Cora Breuner - WACAAP
+* Gwen Loosmore - WA PTA
+* Neal Black - [City of Kirkland](/org/city_of_kirkland/)
+* Julia Berus - WA Youth Alliance
+* Paula Barnes
+* Enzo Mensah - Lake Washington High School
 
-#### 2143 👎 - Con
+#### 4401 👎 - Con
 Testifying:
 * Daniel Donley - Donley
 * Shelby Hyde
@@ -63,8 +72,14 @@ Testifying:
 * Noelle Christ
 * 💵Aoibheann Cline - NRA
 * Michael McKinley
+* RHONDA JABUSCH
+* brian keelean - Washington State Rifle and Pistol Association
+* TaraLyn Fray
+* Sandra Mochizuki
+* Melinda Kopa
+* Anthony Holan
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 
 ### Tue 01/14 08:00 AM - Law & Justice (LAW): SB 5098 Weapons in certain areas
 #### 572 👍 - Pro

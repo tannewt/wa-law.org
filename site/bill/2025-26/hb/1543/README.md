@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/21/2025 [The Center Square](/org/the_center_square/) - [Slew of bills pass out of the Washington House of Representatives | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_67329b24-eff2-11ef-8f14-c7be1b7a4b31.html#:~:text=Substitute%20House%20Bill%201543)
+
 ## Meetings
 ### Tue 01/28 04:00 PM - Environment & Energy (ENVI): HB 1543 Clean buildings standard
 #### 18 👍 - Pro

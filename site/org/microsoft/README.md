@@ -11,6 +11,8 @@
 
 ### [HB 1517](/bill/2025-26/hb/1517/) - Digital equity/revenue  👎1 
 
+### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge  👎1 
+
 ### [HB 1876](/bill/2025-26/hb/1876/) - Death with dignity act 👍1  
 
 ### [HB 1887](/bill/2025-26/hb/1887/) - Data broker registry & tax  👎1 
@@ -22,6 +24,8 @@
 ### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 
 ### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍1  
+
+### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions  👎2 
 
 ### [SB 5451](/bill/2025-26/sb/5451/) - Quantum economic development 👍1  
 

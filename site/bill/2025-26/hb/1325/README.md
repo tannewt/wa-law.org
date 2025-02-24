@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/21/2025 [The Center Square](/org/the_center_square/) - [Slew of bills pass out of the Washington House of Representatives | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_67329b24-eff2-11ef-8f14-c7be1b7a4b31.html#:~:text=Substitute%20House%20Bill%201325)
+
 ## Meetings
 ### Tue 02/04 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1325 Fish & wildlife enforcement
 #### 22 👍 - Pro

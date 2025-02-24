@@ -8,6 +8,13 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1715 Energy standard/comply cost
+#### 36 👍 - Pro
+
+#### 4 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/17 01:30 PM - Environment & Energy (ENVI): HB 1715 Energy standard/comply cost
 #### 37 👍 - Pro
 Testifying:

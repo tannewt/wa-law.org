@@ -17,7 +17,7 @@
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍1  
 
-### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info 👍1  
+### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info 👍2  
 
 ### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices 👍1  
 
@@ -52,13 +52,17 @@
 
 ### [HB 1459](/bill/2025-26/hb/1459/) - Child fatalities 👍1  
 
-### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation  👎1 
+### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation  👎2 ❓1
 * 👎 Kati Durkin
+* ❓ Kati Durkin
 
 ### [HB 1511](/bill/2025-26/hb/1511/) - Ferry captains 👍1  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍5  
+### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍1  
+
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍6  
 * 👍 Rhonda Buchanan
+* 👍 Kati Durkin
 * 👍 Kati Durkin
 * 👍 Kati Durkin
 
@@ -73,7 +77,7 @@
 
 ### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval  👎1 
 
-### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍1  
+### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍2  
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
@@ -90,7 +94,9 @@
 
 ### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍1  
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
+
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board 👍3  
 
@@ -111,11 +117,16 @@
 
 ### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
 
+### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍1  
+
 ### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply 👍1  
 
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
 
 ### [SB 5397](/bill/2025-26/sb/5397/) - CTC faculty w/o tenure limit 👍1  
+
+### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use 👍1  
+* 👍 Kati Durkin
 
 ### [SB 5433](/bill/2025-26/sb/5433/) - DOC employee bargaining 👍2  
 * 👍 Kati Durkin
@@ -138,11 +149,15 @@
 
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
 
-## [SB 5653](/bill/2025-26/sb/5653/) - Fish and wildlife officers 👍1  
+### [SB 5653](/bill/2025-26/sb/5653/) - Fish and wildlife officers 👍2  
+
+## [SB 5717](/bill/2025-26/sb/5717/) - Driver course/work zones 👍1  
+* 👍 Kati Durkin
 
 ## 2023-24
 
-### [SB 5653](/bill/2023-24/sb/5653/) - Fish and wildlife officers 👍1  
+### [SB 5717](/bill/2023-24/sb/5717/) - Driver course/work zones 👍1  
+* 👍 Kati Durkin
 
 ### [HB 1106](/bill/2023-24/hb/1106/) - Unemployment/voluntary 👍1  
 

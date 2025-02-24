@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/21/2025 [Senate Democrats](/org/senate_democrats/) - [From the desk of your new state senator - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/02/21/from-the-desk-of-your-new-state-senator-2/#:~:text=5488)
+
 ## Meetings
 ### Thu 02/13 04:00 PM - Ways & Means (WM): SSB 5488 DCYF/financial stability
 #### 76 👍 - Pro

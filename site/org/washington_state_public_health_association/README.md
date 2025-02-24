@@ -14,7 +14,7 @@
 
 ### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 👍1  
 
-### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍2  
 
 ### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍2  
 
@@ -28,7 +28,7 @@
 ### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax 👍2  
 * 👍 Megan Moore
 
-### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍1  
+### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍2  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
@@ -60,7 +60,11 @@
 
 ### [SB 5163](/bill/2025-26/sb/5163/) - Child fatalities 👍1  
 
+### [SB 5206](/bill/2025-26/sb/5206/) - Cannabis advertising  👎1 
+
 ### [SB 5273](/bill/2025-26/sb/5273/) - Concerning the availability of community violence prevention and intervention services. 👍1  
+
+### [SB 5335](/bill/2025-26/sb/5335/) - Rural nursing education 👍1  
 
 ### [SB 5353](/bill/2025-26/sb/5353/) - Diabetes and obesity 👍1  
 * 👍 Megan Moore

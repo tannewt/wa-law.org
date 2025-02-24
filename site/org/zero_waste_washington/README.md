@@ -31,7 +31,8 @@
 ### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers 👍2  
 * 👍💵 Heather Trim
 
-### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍1  
+### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍2  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
@@ -44,13 +45,14 @@
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
-### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍3  
+### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍4  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
 
-### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍3  
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍4  
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
@@ -61,7 +63,8 @@
 ### [HB 1857](/bill/2025-26/hb/1857/) - Asbestos building materials  👎1 
 * 👎💵 Heather Trim
 
-### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
+### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍3  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs   ❓1
@@ -73,7 +76,7 @@
 ### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules   ❓1
 * ❓💵 Heather Trim
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 
 ### [SB 5423](/bill/2025-26/sb/5423/) - Digital electronics/repair 👍2  
 * 👍 Moji Igun
@@ -88,7 +91,7 @@
 ### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint 👍1  
 * 👍💵 Heather Trim
 
-### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
+### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍2  
 * 👍💵 Heather Trim
 
 ### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware  👎1 

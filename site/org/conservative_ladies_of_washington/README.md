@@ -24,7 +24,7 @@
 
 ### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences.  👎1 
 
-### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase  👎1 
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase  👎2 
 
 ### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions  👎2 
 
@@ -50,6 +50,8 @@
 ### [HB 1386](/bill/2025-26/hb/1386/) - Firearms tax  👎1 
 
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections  👎4 
+
+### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity  👎1 
 
 ### [HB 1504](/bill/2025-26/hb/1504/) - Firearm financial resp.  👎2 
 
@@ -102,7 +104,7 @@
 ### [SB 5080](/bill/2025-26/sb/5080/) - Financial education  👎2 
 * 👎 Jeannie Magdua
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎2 
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎3 
 
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers  👎2 
 
@@ -158,6 +160,10 @@
 ### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate  👎1 
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue  👎1 
+
+### [SB 5762](/bill/2025-26/sb/5762/) - 988 line tax  👎1 
+
+### [SB 5769](/bill/2025-26/sb/5769/) - Transition to kindergarten  👎1 
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds  👎3 
 

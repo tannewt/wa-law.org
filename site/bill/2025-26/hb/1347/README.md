@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/21/2025 [The Center Square](/org/the_center_square/) - [Slew of bills pass out of the Washington House of Representatives | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_67329b24-eff2-11ef-8f14-c7be1b7a4b31.html#:~:text=House%20Bill%201347)
+
 ## Meetings
 ### Tue 01/28 01:30 PM - Consumer Protection & Business (CPB): HB 1347 Cannabis testing labs
 #### 7 👍 - Pro

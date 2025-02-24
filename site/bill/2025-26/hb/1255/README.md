@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/22/2025 [House Republicans](/org/house_republicans/) - [Safer streets | Washington State House Republicans](https://houserepublicans.wa.gov/current/safer-streets/#:~:text=House%20Bill%201255)
 * [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/safer-streets/#:~:text=House%20Bill%201255)
 * [House Republicans](/org/house_republicans/) - [Safer Streets | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/safer-streets/#:~:text=House%20Bill%201255)
 * [Real Change](/org/real_change/) - [Decriminalizing Homelessness | Real Change](https://www.realchangenews.org/decriminalizing-homelessness#:~:text=Encampment%20Removal%20Funding (HB%201255))

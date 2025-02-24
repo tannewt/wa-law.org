@@ -5,7 +5,7 @@
 
 ### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍1  
 
-### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity 👍1  
+### [HB 1503](/bill/2025-26/hb/1503/) - Digital equity 👍2  
 * 👍💵 Carolyn Logue
 
 ### [HB 1517](/bill/2025-26/hb/1517/) - Digital equity/revenue   ❓1
@@ -15,6 +15,8 @@
 ### [HB 1715](/bill/2025-26/hb/1715/) - Energy standard/comply cost 👍1  
 
 ### [SB 5152](/bill/2025-26/sb/5152/) - Concerning state employee access to peer-reviewed journals. 👍1  
+
+### [SB 5186](/bill/2025-26/sb/5186/) - School district elections 👍1  
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍3  
 

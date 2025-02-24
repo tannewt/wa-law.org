@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Appropriations (APP): HB 1509 Family reconciliation
+#### 13 👍 - Pro
+Testifying:
+* Jim Theofelis - NorthStar Advocates
+* Kim Justice - Partners for Our Children
+* Rachel Mathison - [Cocoon House](/org/cocoon_house/)
+
+#### 1068 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+
 ### Tue 02/11 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1509 Family reconciliation
 #### 22 👍 - Pro
 Testifying:

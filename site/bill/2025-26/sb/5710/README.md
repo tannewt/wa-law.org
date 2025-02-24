@@ -8,18 +8,15 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TRAN): SB 5710 Diesel vessels/state ferries
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164795&caId=26051&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164795&caId=26051&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164795&caId=26051&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164795&caId=26051&tId=4)
-
-#### 8 👍 - Pro
+#### 189 👍 - Pro
 Testifying:
 * Pete Brady
 * Daniel Hodun
 * Tad Sommerville
+* Charles Prestrud - Washington Policy Center
 
-#### 8 👎 - Con
+#### 12 👎 - Con
+Testifying:
+* Melinda Kopa
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

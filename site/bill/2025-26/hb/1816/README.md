@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/22/2025 [MyNorthwest](/org/mynorthwest/) - [Seattle police union president warns of labor rights erosion](https://mynorthwest.com/ktth/ktth-opinion/seattle-police-union-president-labor-rights-erosion/4049420#:~:text=House%20Bill%201816)
 * 02/17/2025 [The Urbanist](/org/the_urbanist/) - [State Bill Would Circumvent SPOG, Clear Path for Seattle Civilian Responder Expansion - The Urbanist](https://www.theurbanist.org/2025/02/17/state-bill-would-clear-path-for-seattle-civilian-responder-expansion/#:~:text=B%201816)
 
 ## Meetings

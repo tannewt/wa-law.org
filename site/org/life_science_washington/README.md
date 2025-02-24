@@ -14,6 +14,8 @@
 
 ### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 
 
+### [SB 5455](/bill/2025-26/sb/5455/) - Cancer research endowment 👍1  
+
 ## [SB 5594](/bill/2025-26/sb/5594/) - Biosimilar medicines  👎1 
 
 ## 2023-24

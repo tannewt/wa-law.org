@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5239/</link>
 		<description>Updates about SB 5239</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 17:32:40 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -86,6 +86,13 @@
 			<pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-17/First reading, referred to Health Care &amp; Wellness.</guid>
+		</item>
+		<item>
+			<title>Making health care more accessible for Washingtonians - Sen. Vandana Slatter</title>
+			<description>News article "Making health care more accessible for Washingtonians - Sen. Vandana Slatter" from Senate Democrats.</description>
+			<pubDate>Mon, 24 Feb 2025 17:32:40 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/slatter/2025/02/24/making-health-care-more-accessible-for-washingtonians/#:~:text=SB%205239</guid>
 		</item>
 	</channel>
 </rss>

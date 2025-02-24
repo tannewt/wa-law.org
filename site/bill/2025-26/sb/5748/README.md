@@ -10,6 +10,21 @@
 * 02/17/2025 [Senate Republicans](/org/senate_republicans/) - [Senate Republicans introduce 18 bills to address housing crisis - Senate Republican Caucus](https://src.wastateleg.org/blog/senate-republicans-introduce-18-bills-address-housing-crisis/#:~:text=SB%205748)
 
 ## Meetings
+### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5748 Impact fees
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164959&caId=26167&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164959&caId=26167&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164959&caId=26167&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164959&caId=26167&tId=4)
+
+#### 68 👍 - Pro
+Testifying:
+* 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+
+#### 3 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/21 10:30 AM - Housing (HSG): SB 5748 Impact fees
 #### 0 👍 - Pro
 

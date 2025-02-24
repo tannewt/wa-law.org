@@ -7,3 +7,11 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Appropriations (APP): HB 2003 Columbia river endorsement
+#### 3 👍 - Pro
+
+#### 669 👎 - Con
+Testifying:
+* TaraLyn Fray
+
+#### 0 ❓ - Other

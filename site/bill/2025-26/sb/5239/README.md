@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/24/2025 [Senate Democrats](/org/senate_democrats/) - [Making health care more accessible for Washingtonians - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/02/24/making-health-care-more-accessible-for-washingtonians/#:~:text=SB%205239)
 * 02/06/2025 [Senate Democrats](/org/senate_democrats/) - [Week three update! - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/02/06/week-three-update/#:~:text=SB%205239,)
 
 ## Meetings

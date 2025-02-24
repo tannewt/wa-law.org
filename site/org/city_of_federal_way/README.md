@@ -6,6 +6,9 @@
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+* 👍 Mayor Jim Ferrell
+
 ## [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 
 ## 2023-24

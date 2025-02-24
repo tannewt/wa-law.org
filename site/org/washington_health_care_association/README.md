@@ -4,6 +4,9 @@
 ### [HB 1476](/bill/2025-26/hb/1476/) - Nursing home rate rebase  👎4 
 * 👎 Carma Matti-Jackson
 
+### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry  👎1 
+* 👎 Jeff Gombosky
+
 ### [HB 1720](/bill/2025-26/hb/1720/) - Community care/Rx assistance 👍1  
 * 👍 Vicki McNealley
 

@@ -5,6 +5,8 @@
 
 ### [HB 1139](/bill/2025-26/hb/1139/) - Unlawful firearm possession 👍1  
 
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
+
 ### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍1  
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍1  
@@ -30,6 +32,8 @@
 
 ### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations 👍1  
 * 👍 Karin White
+
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 * 👍💵 Melanie Smith

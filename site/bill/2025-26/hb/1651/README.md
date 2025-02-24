@@ -15,6 +15,16 @@
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201651)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1651 Teacher residency & apprent.
+#### 90 👍 - Pro
+Testifying:
+* John Axtell
+* 💵Lorrell Noahr - [Washington Education Association](/org/washington_education_association/)
+
+#### 8 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/03 01:30 PM - Education (ED): HB 1651 Teacher residency & apprent.
 #### 52 👍 - Pro
 Testifying:

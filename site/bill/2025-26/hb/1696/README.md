@@ -13,6 +13,15 @@
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201696)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1696 Covenant homeownership prg.
+#### 13 👍 - Pro
+Testifying:
+* Dana Le Roy - Habitat for Humanity Spokane
+
+#### 46 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/10 01:30 PM - Housing (HOUS): HB 1696 Covenant homeownership prg.
 #### 173 👍 - Pro
 Testifying:

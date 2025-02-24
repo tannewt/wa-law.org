@@ -16,20 +16,14 @@
 
 ## Meetings
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1150 Solid waste management
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164617&caId=26020&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164617&caId=26020&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164617&caId=26020&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164617&caId=26020&tId=4)
-
-#### 1363 👍 - Pro
+#### 1461 👍 - Pro
 Testifying:
 * Erin Gagnon - DTG Recycle
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Kelsey Hulse - EPR Leadership Forum
 * 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
 
-#### 637 👎 - Con
+#### 686 👎 - Con
 Testifying:
 * 💵Lyset Cadena - WM (Waste Management)
 * Holly Chisas - [Consumer Brands Association](/org/consumer_brands_association/)
@@ -39,6 +33,7 @@ Testifying:
 * 💵Jennifer Ziegler - Sanitary Service Company
 * Brian Coddington - Sunshine Disposal & Recycling
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 4 ❓ - Other
 Testifying:

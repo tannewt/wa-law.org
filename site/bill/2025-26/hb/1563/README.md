@@ -8,6 +8,17 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1563 Prescribed fire claims
+#### 94 👍 - Pro
+Testifying:
+* Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Chris Martin - WA Prescribed Fire Council
+* Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
+
+#### 6 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/12 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1563 Prescribed fire claims
 #### 281 👍 - Pro
 Testifying:

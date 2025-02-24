@@ -5,7 +5,7 @@
 
 ### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍1  
 
-### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
 
 ### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
 
@@ -20,7 +20,7 @@
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍3  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 
 ### [SB 5391](/bill/2025-26/sb/5391/) - Sustainable farms grants 👍1  
 

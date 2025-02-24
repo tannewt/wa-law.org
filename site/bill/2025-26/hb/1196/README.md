@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/21/2025 [House Democrats](/org/house_democrats/) - [‘Free The Vote Act’ to protect incarcerated individuals’ right to vote clears committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/21/free-the-vote-act/#:~:text=House%20Bill%201196)
+
 ## Meetings
 ### Wed 02/05 01:30 PM - State Government & Tribal Relations (SGOV): HB 1196 Voting rights/convictions
 #### 717 👍 - Pro

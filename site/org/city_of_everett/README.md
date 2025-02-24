@@ -7,7 +7,7 @@
 
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
 
-### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
+### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
 * ❓ Paula Rhyne
@@ -37,6 +37,8 @@
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍 Jennifer Gregerson
+
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
 

@@ -13,6 +13,18 @@
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201622)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Appropriations (APP): HB 1622 Collective bargaining/AI use
+#### 117 👍 - Pro
+Testifying:
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+
+#### 8 👎 - Con
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+
+#### 1 ❓ - Other
+
 ### Wed 02/05 08:00 AM - Labor & Workplace Standards (LAWS): HB 1622 Collective bargaining/AI use
 #### 318 👍 - Pro
 Testifying:

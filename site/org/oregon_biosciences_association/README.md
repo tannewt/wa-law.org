@@ -5,6 +5,8 @@
 
 ### [HB 1238](/bill/2025-26/hb/1238/) - Rare diseases adv. council 👍1  
 
+### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program  👎1 
+
 ### [HB 1444](/bill/2025-26/hb/1444/) - Whole genome sequencing 👍1  
 
 ### [HB 1697](/bill/2025-26/hb/1697/) - Newborn screening additions 👍1  

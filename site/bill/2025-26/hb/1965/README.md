@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 3 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* Jp Cortez - Sound Money Defense League
 
 #### 0 ❓ - Other

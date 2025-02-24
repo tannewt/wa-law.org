@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Sat 02/22 09:00 AM - Appropriations (APP): HB 1406 Associate development orgs
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164750&caId=26040&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164750&caId=26040&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164750&caId=26040&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164750&caId=26040&tId=4)
-
-#### 79 👍 - Pro
+#### 80 👍 - Pro
 Testifying:
 * Matthew McLennan - Kidder Mathews
 * Gary Ballew - Greater Spokane, Inc. (Spokane County ADO)

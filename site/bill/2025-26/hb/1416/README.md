@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/21/2025 [Washington State Standard](/org/washington_state_standard/) - [WA lawmakers light up plan for cigarette tax hike • Washington State Standard](https://washingtonstatestandard.com/2025/02/21/wa-lawmakers-light-up-plan-for-cigarette-tax-hike/#:~:text=House%20Bill%201416)
 * 02/20/2025 [Axios](/org/axios/) - [Washington Legislature could ban flavored vapes and menthol cigarettes - Axios Seattle](https://www.axios.com/local/seattle/2025/02/20/vaping-flavors-ban-washington-state-menthol#:~:text=taxes)
 * 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201416)
 * 01/23/2025 [The Center Square](/org/the_center_square/) - [Democrats propose raising tobacco taxes, creating new ones in search of revenue | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6f1ff232-d9d6-11ef-b05d-8bbc2efa5d73.html#:~:text=House%20Bill%201416)

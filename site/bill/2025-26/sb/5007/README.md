@@ -11,17 +11,13 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SB 5007 Chronically absent students
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164850&caId=26094&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164850&caId=26094&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164850&caId=26094&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164850&caId=26094&tId=4)
+#### 171 👍 - Pro
+Testifying:
+* John Axtell
 
-#### 15 👍 - Pro
+#### 1933 👎 - Con
 
-#### 499 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/28 08:00 AM - Early Learning & K-12 Education (EDU): SB 5007 Chronically absent students
 #### 273 👍 - Pro

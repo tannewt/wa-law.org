@@ -9,19 +9,20 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5466 Electric transmission system
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164861&caId=26105&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164861&caId=26105&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164861&caId=26105&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164861&caId=26105&tId=4)
+#### 215 👍 - Pro
+Testifying:
+* 💵Vicki Christophersen - Northwest and Intermountain Power Producers Coalition
+* Casey MacLean - Renewable NW
+* 💵Matthew Hepner - IBEW/Certified Electrical Workers of WA
+* 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
 
-#### 0 👍 - Pro
-
-#### 190 👎 - Con
+#### 701 👎 - Con
 Testifying:
 * Nicolas B Garcia - Washington Public Utility Districts Association
+* 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Fri 01/31 10:30 AM - Environment, Energy & Technology (ENET): SB 5466 Electric transmission system
 #### 337 👍 - Pro

@@ -1,7 +1,8 @@
 # City of Ellensburg
 ## 2025-26
 
-### [HB 1037](/bill/2025-26/hb/1037/) - PFD formation 👍1  
+### [HB 1037](/bill/2025-26/hb/1037/) - PFD formation 👍2  
+* 👍💵 Josh Weiss
 * 👍💵 Josh Weiss
 
 ## [SB 5053](/bill/2025-26/sb/5053/) - PFD formation 👍1  

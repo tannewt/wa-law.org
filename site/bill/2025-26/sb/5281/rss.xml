@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5281/</link>
 		<description>Updates about SB 5281</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Feb 2025 00:44:55 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -103,6 +103,13 @@
 			<pubDate>Fri, 21 Feb 2025 00:44:55 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/chapman/2025/02/20/protecting-washington-workers-from-dc-chaos/#:~:text=My%20bill</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-24/First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

@@ -20,10 +20,13 @@
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 * 👍💵 Justin Allegro
 
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
+
 ### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍1  
 
-### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
 * 👍 Emily Hohman
+* 👍 Skippy Shaw
 
 ### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
 
@@ -42,6 +45,9 @@
 ### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex.   ❓1
 * ❓💵 David Mendoza
 
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍1  
+* 👍 Joshua Rubenstein
+
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓1
 * ❓💵 David Mendoza
 
@@ -58,7 +64,7 @@
 * ❓💵 Justin Allegro
 * ❓💵 Justin Allegro
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 
 ### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
 
@@ -68,11 +74,12 @@
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
 * 👍 Jamie Stroble
 
-### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
+### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍2  
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 
-### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
+### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍2  
+* 👍 Skippy Shaw
 * 👍 Skippy Shaw
 
 ### [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  

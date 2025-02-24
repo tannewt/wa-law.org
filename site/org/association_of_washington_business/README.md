@@ -14,14 +14,15 @@
 
 ### [HB 1043](/bill/2025-26/hb/1043/) - Commute trip reduction 👍1  
 
-### [HB 1044](/bill/2025-26/hb/1044/) - County REET admin. fees  👎1 
+### [HB 1044](/bill/2025-26/hb/1044/) - County REET admin. fees  👎2 
 
 ### [HB 1063](/bill/2025-26/hb/1063/) - Earned wage access services 👍1  
 
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers  👎2 
 * 👎💵 Lindsey Hueer
 
-### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates   ❓1
+### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates   ❓2
+* ❓💵 Peter Godlewski
 * ❓💵 Peter Godlewski
 
 ### [HB 1075](/bill/2025-26/hb/1075/) - Affordable housing financing 👍1  
@@ -67,7 +68,8 @@
 
 ### [HB 1143](/bill/2025-26/hb/1143/) - College grant award amounts 👍1  
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management  👎1 
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management  👎2 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
 ### [HB 1155](/bill/2025-26/hb/1155/) - Noncompetition agreements  👎1 
@@ -155,7 +157,7 @@
 
 ### [HB 1389](/bill/2025-26/hb/1389/) - Timber purchase reporting 👍1  
 
-### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license  👎1 
+### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license  👎2 
 
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program  👎1 
 * 👎💵 Peter Godlewski
@@ -176,6 +178,8 @@
 
 ### [HB 1507](/bill/2025-26/hb/1507/) - Health care nondisclosure  👎1 
 * 👎💵 Emily Wittman
+
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
 
 ### [HB 1517](/bill/2025-26/hb/1517/) - Digital equity/revenue  👎1 
 * 👎 Max Martin
@@ -212,6 +216,8 @@
 
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎1 
 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+
 ### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees  👎2 
 
 ### [HB 1641](/bill/2025-26/hb/1641/) - Definition of timberland 👍1  
@@ -222,7 +228,7 @@
 ### [HB 1644](/bill/2025-26/hb/1644/) - Working minors  👎1 
 * 👎💵 Lindsey Hueer
 
-### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍1  
+### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍2  
 
 ### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment  👎1 
 
@@ -280,7 +286,7 @@
 ### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval 👍1  
 * 👍💵 Emily Wittman
 
-### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation  👎1 
+### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation  👎2 
 
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
 
@@ -301,6 +307,8 @@
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET  👎1 
 
+### [HB 1870](/bill/2025-26/hb/1870/) - Public health clinics/tax  👎1 
+
 ### [HB 1879](/bill/2025-26/hb/1879/) - Hospital worker breaks 👍1  
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace  👎1 
@@ -312,10 +320,16 @@
 ### [HB 1887](/bill/2025-26/hb/1887/) - Data broker registry & tax  👎1 
 * 👎💵 Morgan Irwin
 
+### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax  👎1 
+
 ### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
+
+### [HB 1965](/bill/2025-26/hb/1965/) - Bullion tax preference  👎1 
 
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍1  
 * 👍💵 Peter Godlewski
+
+### [HB 1995](/bill/2025-26/hb/1995/) - Tax preferences   ❓1
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
@@ -325,7 +339,8 @@
 ### [SB 5036](/bill/2025-26/sb/5036/) - Statewide emissions data 👍1  
 * 👍💵 Peter Godlewski
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
+* 👎💵 Lindsey Hueer
 * 👎💵 Lindsey Hueer
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers  👎1 
@@ -334,6 +349,8 @@
 
 ### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates   ❓1
 * ❓💵 Peter Godlewski
+
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎1 
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎2 
 * 👎💵 Lindsey Hueer
@@ -493,7 +510,7 @@
 ### [SB 5539](/bill/2025-26/sb/5539/) - Paid family & medical leave  👎1 
 * 👎💵 Lindsey Hueer
 
-### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎2 
+### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎3 
 * 👎💵 Lindsey Hueer
 
 ### [SB 5554](/bill/2025-26/sb/5554/) - Historic landmark desig. 👍1  
@@ -531,7 +548,7 @@
 ### [SB 5622](/bill/2025-26/sb/5622/) - Diet pills and supplements  👎1 
 * 👎💵 Peter Godlewski
 
-### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎1 
+### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎2 
 * 👎💵 Lindsey Hueer
 
 ### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
@@ -556,6 +573,8 @@
 ### [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant 👍1  
 
 ### [SB 5695](/bill/2025-26/sb/5695/) - Young driver safety 👍1  
+
+### [SB 5717](/bill/2025-26/sb/5717/) - Driver course/work zones 👍1  
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue   ❓1
 * ❓💵 Morgan Irwin

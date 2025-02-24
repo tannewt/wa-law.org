@@ -10,6 +10,23 @@
 * 02/20/2025 [FOX13](/org/fox13/) - [WA Senate panel advances age-based social media restrictions | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-age-restrictions-social-media#:~:text=Senate%20Bill%205708)
 
 ## Meetings
+### Wed 02/26 01:30 PM - Ways & Means (WM): SB 5708 Online services/minors
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164992&caId=26200&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164992&caId=26200&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164992&caId=26200&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164992&caId=26200&tId=4)
+
+#### 7 👍 - Pro
+Testifying:
+* Keira Domer
+* Sadie Haag
+* Teah Bosworth
+
+#### 929 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/13 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5708 Online services/minors
 #### 187 👍 - Pro
 Testifying:

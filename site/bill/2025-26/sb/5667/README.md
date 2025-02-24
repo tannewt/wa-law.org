@@ -17,12 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164802&caId=26058&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164802&caId=26058&tId=4)
 
-#### 285 👍 - Pro
+#### 888 👍 - Pro
 Testifying:
 * Breck Lebegue - WA Physicians for Social Responsibility
 * Susan McCabe
 * Alan Borning - Climate Rail Alliance
+* Alan Borning - Climate Rail Alliance and Rail Can't Wait Campaign
+* Brandon Bowersox-Johnson - 350 Seattle
+* Thomas White - Climate Rail Alliance and Rail Can't Wait Campaign
+* Meghan Anderson - Kittitas Climate Action
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other

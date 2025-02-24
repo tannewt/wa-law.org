@@ -1,7 +1,9 @@
 # City of Bellingham
 ## 2025-26
 
-### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
+### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates  👎1 
+
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍2  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
@@ -12,13 +14,14 @@
 ### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
 * 👍 Hannah Stone
 
-## [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
+### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 * 👍 Hannah Stone
+
+## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
 ## 2023-24
 
-### [HB 1867](/bill/2023-24/hb/1867/) - Affordable housing REET 👍1  
-* 👍 Hannah Stone
+### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 * 👍 Clare Fogelsong

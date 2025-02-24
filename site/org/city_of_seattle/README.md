@@ -13,7 +13,7 @@
 
 ### [HB 1152](/bill/2025-26/hb/1152/) - Enhancing public safety by establishing secure storage requirements for firearms in vehicles and residences. 👍1  
 
-### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍2  
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍1  
 
@@ -76,7 +76,7 @@
 
 ### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍1  
 
-### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍1  
+### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍2  
 
 ### [HB 1657](/bill/2025-26/hb/1657/) - Washington 13 free guarantee 👍1  
 * 👍 Brittany Ota-Malloy
@@ -85,7 +85,7 @@
 
 ### [HB 1714](/bill/2025-26/hb/1714/) - Small business risk pooling 👍1  
 
-### [HB 1733](/bill/2025-26/hb/1733/) - Agency displacement expenses 👍1  
+### [HB 1733](/bill/2025-26/hb/1733/) - Agency displacement expenses 👍2  
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 * 👍 Venu Nemani
@@ -103,15 +103,17 @@
 ### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
 * 👍 Alexis Mercedes Rinck
 
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
-### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
+### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍2  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
 ### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍1  
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
 * 👍 AP Diaz
 
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers 👍1  

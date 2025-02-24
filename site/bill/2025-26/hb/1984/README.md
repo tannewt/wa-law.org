@@ -8,18 +8,16 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TR): HB 1984 Autonomous vehicles
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164704&caId=26081&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164704&caId=26081&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164704&caId=26081&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164704&caId=26081&tId=4)
-
-#### 111 👍 - Pro
+#### 162 👍 - Pro
 Testifying:
 * Alex Dietz - Washington State Association for Justice
+* Kris DeBuck - Teamsters 174
+* 💵Nicholas Gullickson - Washington State Council of Firefighters
 
-#### 15 👎 - Con
+#### 24 👎 - Con
 Testifying:
 * Tahra Jirari - Chamber of Progress
+* Jeff Gombosky - [Tesla](/org/tesla/)
+* 💵Brooke Davies - TechNet
 
-#### 28 ❓ - Other
+#### 40 ❓ - Other

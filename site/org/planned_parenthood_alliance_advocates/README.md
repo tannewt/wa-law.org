@@ -61,6 +61,8 @@
 
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
 
+### [HB 1870](/bill/2025-26/hb/1870/) - Public health clinics/tax 👍1  
+
 ### [HB 1876](/bill/2025-26/hb/1876/) - Death with dignity act 👍1  
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  

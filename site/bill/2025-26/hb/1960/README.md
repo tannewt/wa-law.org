@@ -8,18 +8,23 @@
 
 ## Meetings
 ### Mon 02/24 08:00 AM - Finance (FIN): HB 1960 Renewable energy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164671&caId=26071&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164671&caId=26071&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164671&caId=26071&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164671&caId=26071&tId=4)
-
-#### 1 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Joshua Rubenstein - [The Nature Conservancy](/org/the_nature_conservancy/)
+* 💵John Rothlin - [Avista Corp](/org/avista_corp/)
+* 💵Altinay Karasapan - [Climate Solutions](/org/climate_solutions/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 8 👎 - Con
+#### 102 👎 - Con
+Testifying:
+* 💵Vicki Christophersen - Northwest and Intermountain Power Producers Coalition
+* Zach Lea - NextEra Energy Resources
 
-#### 1 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Greg Gallagher - Klickitat County Treasurer
+* Steven Drew - WA Assoc of Assessors / Thurston County Assessor
+* 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* Casey MacLean - Renewable NW
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)

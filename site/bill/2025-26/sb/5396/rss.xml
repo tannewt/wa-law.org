@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5396/</link>
 		<description>Updates about SB 5396</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Feb 2025 18:13:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -115,6 +115,13 @@
 			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-21/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>WA Senate panel advances mental health benefits for pilots | FOX 13 Seattle</title>
+			<description>News article "WA Senate panel advances mental health benefits for pilots | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Fri, 21 Feb 2025 18:13:18 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/washington-mental-health-benefits-pilots#:~:text=Senate%20Bill%205396</guid>
 		</item>
 	</channel>
 </rss>

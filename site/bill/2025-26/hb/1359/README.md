@@ -8,6 +8,18 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1359 Criminal insanity
+#### 10 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Melissa Johnson - District & Municipal Court Judges' Association
+* 💵Brad Banks - Association of Counties & BHASOs
+* 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist
+
+#### 3 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/05 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1359 Criminal insanity
 #### 20 👍 - Pro
 Testifying:

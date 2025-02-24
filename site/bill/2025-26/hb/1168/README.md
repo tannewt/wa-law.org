@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201168)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201168)
 
 ## Meetings
@@ -18,11 +19,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164780&caId=26061&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164780&caId=26061&tId=4)
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
+Testifying:
+* Anish Sharma
+* Jai Jaisimha - Transparency Coalition.ai
+* Aidan Mehlberg
+* Andrea Won
+* Brady Ocain
+* Jinho (Jacob) Lee
+* Krishna Pratheek Madamala
 
-#### 1 👎 - Con
+#### 4 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tim Hua
 
 ### Fri 01/17 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1168 Artificial intelligence info
 #### 26 👍 - Pro

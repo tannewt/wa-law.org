@@ -8,15 +8,14 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SB 5188 Broadband repair loans
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164865&caId=26109&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164865&caId=26109&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164865&caId=26109&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164865&caId=26109&tId=4)
+#### 7 👍 - Pro
+Testifying:
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* 💵Mara Machulsky - Northwest Open Access Network
+* Scott Richards - Washington Public Utilities District Association
+* Janet St Clair - [Island County](/org/island_county/)
 
-#### 1 👍 - Pro
-
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

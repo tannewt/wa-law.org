@@ -19,7 +19,8 @@
 
 ### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍1  
 
-### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
+* 👍 Pat Sullivan
 * 👍 Pat Sullivan
 
 ### [HB 1628](/bill/2025-26/hb/1628/) - Fire service policy board   ❓1

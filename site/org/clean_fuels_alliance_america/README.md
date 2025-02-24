@@ -1,8 +1,9 @@
 # Clean Fuels Alliance America
 ## 2025-26
 
-### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍2  
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍3  
 * 👍 Cory-Ann Wind
+* 👍 Scott Richards
 * 👍 Scott Richards
 
 ## [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  

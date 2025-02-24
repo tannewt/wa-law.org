@@ -8,10 +8,34 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/22/2025 [House Republicans](/org/house_republicans/) - [Safer streets | Washington State House Republicans](https://houserepublicans.wa.gov/current/safer-streets/#:~:text=House%20Bill%201607)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201607)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201607)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1607 Recycling & waste reduction
+#### 167 👍 - Pro
+Testifying:
+* Fiona Bell - Novelis
+* Allison Kustic - Association for Plastic Recyclers
+* Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
+* Fiona Bell - Novelis
+* Liz Donohue - Primo Brands
+* Scott DeFife - Glass Packaging Institute
+
+#### 154 👎 - Con
+Testifying:
+* 💵Lyset Cadena - WM (Waste Management)
+* 💵Vicki Christophersen - Washington Refuse and Recycling Assoc.
+* 💵Jennifer Ziegler - Sanitary Service Company
+* 💵Brandon Houskeeper - NW Grocery Retail Association
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+
 ### Mon 02/03 01:30 PM - Environment & Energy (ENVI): HB 1607 Recycling & waste reduction
 #### 714 👍 - Pro
 Testifying:

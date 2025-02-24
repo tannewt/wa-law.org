@@ -13,6 +13,21 @@
 * 04/01/2021 [Senate Democrats](/org/senate_democrats/) - [2025 LGBTQ Priorities - Washington Senate Democrats](https://senatedemocrats.wa.gov/lgbtq2025priorities/#:~:text=House%20Bill%201971)
 
 ## Meetings
+### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1971 Prescription hormone therapy
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165025&caId=26223&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165025&caId=26223&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165025&caId=26223&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165025&caId=26223&tId=4)
+
+#### 18 👍 - Pro
+Testifying:
+* Jenna Comstock - QLAW Association
+
+#### 27 👎 - Con
+
+#### 1 ❓ - Other
+
 ### Tue 02/18 01:30 PM - Health Care & Wellness (HCW): HB 1971 Prescription hormone therapy
 #### 241 👍 - Pro
 Testifying:

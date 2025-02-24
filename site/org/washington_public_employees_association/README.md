@@ -34,7 +34,7 @@
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
 
 ### [SB 5114](/bill/2025-26/sb/5114/) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 👍1  
 
@@ -47,7 +47,9 @@
 
 ### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply 👍1  
 
-### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use 👍1  
+### [SB 5394](/bill/2025-26/sb/5394/) - DDA no-paid services  👎1 
+
+### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use 👍2  
 * 👍💵 Seamus Petrie
 
 ### [SB 5435](/bill/2025-26/sb/5435/) - Reorganizing and adding subchapter headings to public employees' collective bargaining statutes. 👍1  
@@ -57,6 +59,8 @@
 ### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining 👍1  
 
 ### [SB 5540](/bill/2025-26/sb/5540/) - Students/unemployment ins. 👍1  
+
+### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation 👍1  
 
 ### [SB 5572](/bill/2025-26/sb/5572/) - School construction projects 👍1  
 

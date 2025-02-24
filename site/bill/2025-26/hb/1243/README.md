@@ -9,12 +9,6 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1243 DSHS overpayments
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32906&aId=164844&caId=26123&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32906&aId=164844&caId=26123&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32906&aId=164844&caId=26123&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32906&aId=164844&caId=26123&tId=4)
-
 #### 8 👍 - Pro
 Testifying:
 * Brice Montgomery - Director of the Community Services Division - ESA - DSHS

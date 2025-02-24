@@ -9,17 +9,11 @@
 
 ## Meetings
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1514 Low carbon thermal energy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164621&caId=26024&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164621&caId=26024&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164621&caId=26024&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164621&caId=26024&tId=4)
-
-#### 236 👍 - Pro
+#### 242 👍 - Pro
 
 #### 6 👎 - Con
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * 💵John Rothlin - [Avista Corp](/org/avista_corp/)
 * Charlie Brown - Northwest Natural and Cascade Natural Gas Company

@@ -8,6 +8,22 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 02/25 01:30 PM - Ways & Means (WM): SSB 5491 Prescribed fire claims
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164965&caId=26173&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164965&caId=26173&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164965&caId=26173&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164965&caId=26173&tId=4)
+
+#### 13 👍 - Pro
+Testifying:
+* Lucas King - WA Prescribed Fire Council
+* Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/10 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5491 Prescribed fire claims
 #### 167 👍 - Pro
 Testifying:

@@ -16,6 +16,8 @@
 
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth  👎1 
 
+### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation  👎1 
+
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  

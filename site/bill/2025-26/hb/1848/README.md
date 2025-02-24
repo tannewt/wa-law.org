@@ -10,6 +10,22 @@
 * 02/20/2025 [House Democrats](/org/house_democrats/) - [Doglio Bill Provides Support for Traumatic Brain Injury Survivors – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/20/doglio-bill-provides-support-for-traumatic-brain-injury-survivors/#:~:text=House%20Bill%201848)
 
 ## Meetings
+### Tue 02/25 01:30 PM - Appropriations (APP): HB 1848 Traumatic brain injuries
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164946&caId=26153&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164946&caId=26153&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164946&caId=26153&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164946&caId=26153&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Laura Dahmer-White
+* Serry Bauer
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/14 08:00 AM - Human Services, Youth, & Early Learning (HSEL): HB 1848 Traumatic brain injuries
 #### 17 👍 - Pro
 Testifying:

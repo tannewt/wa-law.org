@@ -13,23 +13,20 @@
 
 ## Meetings
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1183 Building codes
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164748&caId=26038&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164748&caId=26038&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164748&caId=26038&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164748&caId=26038&tId=4)
-
-#### 32 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Rob Harrison - Policy Lead, Passive House Cascadia
 * Julie Blazek - HKP Architects
 
-#### 636 👎 - Con
+#### 682 👎 - Con
+Testifying:
+* Michelle Storlie
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Tammy Fellin - Department of Labor & Industries
 
 ### Thu 02/20 04:00 PM - Appropriations (APP): SHB 1183 Building codes
 #### 7 👍 - Pro

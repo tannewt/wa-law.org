@@ -9,20 +9,24 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TRAN): SB 5061 Public works wages
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164797&caId=26053&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164797&caId=26053&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164797&caId=26053&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164797&caId=26053&tId=4)
-
-#### 2 👍 - Pro
+#### 133 👍 - Pro
 Testifying:
 * Pete Butler - [National Electrical Contractors Association](/org/national_electrical_contractors_association/)
 * Pete Butler - [National Electrical Contractors Association](/org/national_electrical_contractors_association/)
+* 💵John Traynor - washington state labor council, afl-cio
+* Tim O'Donnell
 
-#### 51 👎 - Con
+#### 219 👎 - Con
+Testifying:
+* Lowel Krueger - Association of WA Housing Authorities
+* 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
+* Jerry VanderWood - AGC of Washington
+* Melinda Kopa
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Axel Swanson - Washington State Association of County Engineers
+* 💵Kelsey Hulse - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Fri 01/24 08:00 AM - Labor & Commerce (LC): SB 5061 Public works wages
 #### 50 👍 - Pro

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/21/2025 [Senate Democrats](/org/senate_democrats/) - [From the desk of your new state senator - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/02/21/from-the-desk-of-your-new-state-senator-2/#:~:text=5600)
+
 ## Meetings
 ### Tue 02/04 10:30 AM - Labor & Commerce (LC): SB 5600 TNCs/large-scale events
 #### 138 👍 - Pro

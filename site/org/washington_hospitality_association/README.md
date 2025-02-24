@@ -62,7 +62,8 @@
 
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
 
-### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎1 
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎2 
+* 👎💵 Samantha Louderback
 * 👎💵 Samantha Louderback
 
 ### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees  👎2 
@@ -117,6 +118,9 @@
 ### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes   ❓1
 * ❓💵 Julia Gorton
 
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 
+* 👎💵 Samantha Louderback
+
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
 ### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates  👎1 
@@ -140,7 +144,8 @@
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
 * 👍💵 Julia Gorton
 
-### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
+### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎2 
+* 👎💵 Samantha Louderback
 * 👎💵 Samantha Louderback
 
 ### [SB 5511](/bill/2025-26/sb/5511/) - Low-proof alcohol beverages   ❓1

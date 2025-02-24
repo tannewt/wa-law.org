@@ -9,19 +9,16 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5027 Law school loan repayment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164858&caId=26102&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164858&caId=26102&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164858&caId=26102&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164858&caId=26102&tId=4)
-
-#### 13 👍 - Pro
+#### 162 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * 💵Derek Young - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Rachel Cortez - Washington State Office of Public Defense
+* LaDon Linde - Yakima County
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
-#### 178 👎 - Con
+#### 659 👎 - Con
 
 #### 0 ❓ - Other
 

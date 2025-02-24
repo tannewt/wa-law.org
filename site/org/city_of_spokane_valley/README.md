@@ -9,7 +9,7 @@
 
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓2
 
-### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍1  
+### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍2  
 
 ### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification  👎1 
 
@@ -40,6 +40,8 @@
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎2 
 
 ### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
+
+### [HB 1440](/bill/2025-26/hb/1440/) - Civil forfeiture proceedings  👎1 
 
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎2 
 
@@ -77,13 +79,15 @@
 
 ### [HB 1968](/bill/2025-26/hb/1968/) - Controlled sub. endangerment 👍2  
 
-### [HB 1969](/bill/2025-26/hb/1969/) - Law enf. aviation support 👍1  
+### [HB 1969](/bill/2025-26/hb/1969/) - Law enf. aviation support 👍2  
 
 ### [HB 1992](/bill/2025-26/hb/1992/) - Safe system approach strat.   ❓1
 
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact   ❓1
 
-### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎2 
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎3 
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
 
@@ -140,11 +144,13 @@
 
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
 
-## [SB 5705](/bill/2025-26/sb/5705/) - Traffic infraction penalties 👍1  
+### [SB 5705](/bill/2025-26/sb/5705/) - Traffic infraction penalties 👍1  
+
+## [SB 5773](/bill/2025-26/sb/5773/) - Transportation procurement 👍1  
 
 ## 2023-24
 
-### [SB 5705](/bill/2023-24/sb/5705/) - Traffic infraction penalties 👍1  
+### [SB 5773](/bill/2023-24/sb/5773/) - Transportation procurement 👍1  
 
 ### [HB 1105](/bill/2023-24/hb/1105/) - Public comment notice  👎1 
 

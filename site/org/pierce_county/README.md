@@ -42,13 +42,14 @@
 
 ### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
 
-## [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍2  
+### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍2  
 * 👍 Tricia Bennon
+
+## [SB 5667](/bill/2025-26/sb/5667/) - Intercity passenger rail 👍1  
 
 ## 2023-24
 
-### [SB 5655](/bill/2023-24/sb/5655/) - Child care centers/buildings 👍2  
-* 👍 Tricia Bennon
+### [SB 5667](/bill/2023-24/sb/5667/) - Intercity passenger rail 👍1  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍4  
 

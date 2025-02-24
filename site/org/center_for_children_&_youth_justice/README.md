@@ -16,13 +16,15 @@
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
 
+### [HB 1322](/bill/2025-26/hb/1322/) - Juvenile offenses 👍1  
+
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
 ### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍1  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
-### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍1  
+### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍2  
 
 ### [HB 1540](/bill/2025-26/hb/1540/) - Homelessness/tribal colleges 👍1  
 

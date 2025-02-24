@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1409/</link>
 		<description>Updates about HB 1409</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 20 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 09:00:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -218,6 +218,53 @@
 			<pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-20/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>Safer streets | Washington State House Republicans</title>
+			<description>News article "Safer streets | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sat, 22 Feb 2025 18:21:21 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/safer-streets/#:~:text=House%20Bill%201409</guid>
+		</item>
+		<item>
+			<title>👍Dean Taylor - Seattle City Light</title>
+			<description>Dean Taylor signed up to testify Pro. They are signed up to represent Seattle City Light.</description>
+			<pubDate>Sun, 23 Feb 2025 07:12:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dean/Taylor/2025-02-23 07:12:05</guid>
+		</item>
+		<item>
+			<title>👎💵Jessica Spiegel - WSPA</title>
+			<description>Jessica Spiegel signed up to testify Con. They are signed up to represent WSPA. They are a registered lobbyist.</description>
+			<pubDate>Sun, 23 Feb 2025 07:26:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jessica/Spiegel/2025-02-23 07:26:09</guid>
+		</item>
+		<item>
+			<title>👍💵Clifford Traisman - Washington Conservation Action</title>
+			<description>Clifford Traisman signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_conservation_action/"&gt;Washington Conservation Action&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 23 Feb 2025 08:20:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Clifford/Traisman/2025-02-23 08:20:51</guid>
+		</item>
+		<item>
+			<title>👍💵Leah Missik - Climate Solutions</title>
+			<description>Leah Missik signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/climate_solutions/"&gt;Climate Solutions&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 23 Feb 2025 08:20:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Leah/Missik/2025-02-23 08:20:51</guid>
+		</item>
+		<item>
+			<title>👍Scott Richards - Clean Fuels Alliance America</title>
+			<description>Scott Richards signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/clean_fuels_alliance_america/"&gt;Clean Fuels Alliance America&lt;/a&gt;.</description>
+			<pubDate>Mon, 24 Feb 2025 09:00:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Richards/2025-02-24 09:00:33</guid>
 		</item>
 	</channel>
 </rss>

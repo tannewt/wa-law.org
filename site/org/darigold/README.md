@@ -1,7 +1,8 @@
 # Darigold
 ## 2025-26
 
-### [HB 1553](/bill/2025-26/hb/1553/) - Dairy inspection program 👍1  
+### [HB 1553](/bill/2025-26/hb/1553/) - Dairy inspection program 👍2  
+* 👍 Ben Buchholz
 * 👍 Ben Buchholz
 
 ## [SB 5454](/bill/2025-26/sb/5454/) - Dairy inspection program 👍1  

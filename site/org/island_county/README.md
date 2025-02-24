@@ -14,6 +14,9 @@
 
 ### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
 
+### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍1  
+* 👍 Janet St Clair
+
 ### [SB 5221](/bill/2025-26/sb/5221/) - Personal property distraint 👍1  
 
 ### [SB 5461](/bill/2025-26/sb/5461/) - Intensive rural dev. areas 👍1  

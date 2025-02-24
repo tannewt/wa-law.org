@@ -12,6 +12,24 @@
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Saldaña legislation to provide wage replacement program for excluded workers to be heard in committee - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/02/04/saldana-legislation-to-provide-wage-replacement-program-for-excluded-workers-to-be-heard-in-committee/#:~:text=Senate%20Bill%205626)
 
 ## Meetings
+### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5626 Wage replacement
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164984&caId=26192&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164984&caId=26192&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164984&caId=26192&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164984&caId=26192&tId=4)
+
+#### 198 👍 - Pro
+Testifying:
+* 💵Kaitie Dong - Washington State Budget and Policy Center
+* Sasha Wasserstrom - Washington Immigrant Solidarity Network (WAISN)
+
+#### 97 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+
+#### 0 ❓ - Other
+
 ### Tue 02/04 10:30 AM - Labor & Commerce (LC): SB 5626 Wage replacement
 #### 711 👍 - Pro
 Testifying:

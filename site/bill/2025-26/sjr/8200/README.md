@@ -14,23 +14,38 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSJR 8200 School district local funds
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164860&caId=26104&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164860&caId=26104&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164860&caId=26104&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164860&caId=26104&tId=4)
-
-#### 242 👍 - Pro
+#### 1848 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - ESD 105 Schools Coalition
 * Monique Dugaw - ESD 112
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
+* 💵Jan Himebaugh - Building Industry Association of WA (BIAW)
+* 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
+* Mary Templeton - Lake Stevens School District
+* James Fisher - Washington Realtors
+* Mary Hull-Drury - Washington Realtors
+* Angela Steck - Washington State PTA
+* Jim Kowalkowski - Rural Education Center
+* Lindsay Brown - Central Washington Home Builders Association
+* Rick Chisa - Public School Employees of Washington (PSE)
+* Joel White - Spokane Home Builders Association
+* Angela White - Olympia Master Builders
+* Jeff Losey - HBA of Tri Cities
 
-#### 504 👎 - Con
+#### 1851 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
+* Laurie Layne
+* John Axtell
+* TaraLyn Fray
+* Sandra Mochizuki
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+* Anthony Holan
+* Tim Noonan
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Grace Yuan - Puget sound school coalition
 
 ### Thu 01/16 10:30 AM - Early Learning & K-12 Education (EDU): SJR 8200 School district bond voting
 #### 52 👍 - Pro

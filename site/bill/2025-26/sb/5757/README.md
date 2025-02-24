@@ -8,19 +8,17 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TRAN): SB 5757 Auto. traffic safety revenue
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164800&caId=26056&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164800&caId=26056&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164800&caId=26056&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32896&aId=164800&caId=26056&tId=4)
+#### 179 👍 - Pro
 
-#### 5 👍 - Pro
-
-#### 20 👎 - Con
+#### 37 👎 - Con
 Testifying:
 * Andy Illyn - Mukilteo Police Department
 * 💵Axel Swanson - Washington State Association of County Engineers
 * Rafael Padilla - City of Kent, Chief of Police
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Carrie Wilhelme - [City of Tacoma](/org/city_of_tacoma/)
+* Nigel Herbig - Mayor, City of Kenmore
+* Chris Westby - Captain, City of Lakewood PD
+* Melinda Kopa
 
 #### 0 ❓ - Other

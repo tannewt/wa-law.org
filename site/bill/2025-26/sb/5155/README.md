@@ -8,6 +8,21 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5155 Salmon recovery projects
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164977&caId=26185&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164977&caId=26185&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164977&caId=26185&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164977&caId=26185&tId=4)
+
+#### 1 👍 - Pro
+
+#### 1 👎 - Con
+Testifying:
+* john worthington
+
+#### 0 ❓ - Other
+
 ### Thu 01/23 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5155 Salmon recovery projects
 #### 44 👍 - Pro
 Testifying:

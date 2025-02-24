@@ -8,6 +8,21 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1975 Climate commitment act
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164948&caId=26155&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164948&caId=26155&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164948&caId=26155&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164948&caId=26155&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* 💵Isaac Kastama - Clean & Prosperous Washington
+
+#### 11 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/17 01:30 PM - Environment & Energy (ENVI): HB 1975 Climate commitment act
 #### 26 👍 - Pro
 Testifying:

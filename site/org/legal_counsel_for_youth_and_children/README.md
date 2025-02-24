@@ -31,9 +31,9 @@
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 
-### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
+### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍2  
 
-### [HB 1322](/bill/2025-26/hb/1322/) - Juvenile offenses 👍1  
+### [HB 1322](/bill/2025-26/hb/1322/) - Juvenile offenses 👍2  
 
 ### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍1  
 * 👍💵 Roxana Gomez
@@ -44,7 +44,7 @@
 
 ### [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
 
-### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍1  
+### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍2  
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
@@ -55,7 +55,7 @@
 
 ### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
 
-### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation  👎1 
+### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation  👎2 
 
 ### [HB 1968](/bill/2025-26/hb/1968/) - Controlled sub. endangerment  👎1 
 
@@ -99,7 +99,7 @@
 
 ### [SB 5272](/bill/2025-26/sb/5272/) - School safety/penalties  👎1 
 
-### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile correctional pop.  👎1 
+### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile correctional pop.  👎1 ❓1
 
 ### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍2  
 

@@ -21,24 +21,42 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5186 School district fac. funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164859&caId=26103&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164859&caId=26103&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164859&caId=26103&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164859&caId=26103&tId=4)
-
-#### 603 👍 - Pro
+#### 2821 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - ESD 105 Schools Coalition
 * Monique Dugaw - ESD 112
 * 💵Simone Boe - [Washington Education Association](/org/washington_education_association/)
 * Tyler Muench - Office of Superintendent of Public Instruction
+* 💵Jan Himebaugh - BIAW (Building Industry Association of WA
+* 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
+* 💵Mitch Denning - Alliance of Educational Associations
+* Mary Templeton - Lake Stevens School District
+* Jessie Gamble - Master Builders Association of Pierce County
+* Tori Emerson - Washington State PTA
+* James Fisher - Washington Realtors
+* Mary Hull-Drury - Washington Realtors
+* Lance Goodpaster - [Franklin Pierce School District](/org/franklin_pierce_school_district/)
+* Jim Kowalkowski - Rural Education Center
+* Noelle Lovern - BIA of Clark County
+* Lindsay Brown - Central Washington Home Builders Association
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* Rick Chisa - Public School Employees of Washington (PSE)
+* Joel White - Spokane Home Builders Association
+* Jeff Losey - Home Builders Association of Tri Cities
+* Angela White - Olympia Master Builders
 
-#### 541 👎 - Con
+#### 1762 👎 - Con
 Testifying:
 * Lisa Pearson - We, The People of WA
+* John Axtell
+* TaraLyn Fray
+* Sandra Mochizuki
+* Anthony Holan
+* Tim Noonan
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Grace Yuan - Puget Sound School Coalition
 
 ### Thu 01/16 10:30 AM - Early Learning & K-12 Education (EDU): SB 5186 School district elections
 #### 75 👍 - Pro

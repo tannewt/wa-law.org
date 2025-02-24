@@ -28,12 +28,12 @@
 
 ### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍1  
 
-## [SB 5708](/bill/2025-26/sb/5708/) - Online services/minors 👍4  
+## [SB 5708](/bill/2025-26/sb/5708/) - Online services/minors 👍5  
 * 👍 Stephan Blanford
 
 ## 2023-24
 
-### [SB 5708](/bill/2023-24/sb/5708/) - Online services/minors 👍4  
+### [SB 5708](/bill/2023-24/sb/5708/) - Online services/minors 👍5  
 * 👍 Stephan Blanford
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  

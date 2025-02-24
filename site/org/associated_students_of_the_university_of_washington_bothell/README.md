@@ -16,6 +16,8 @@
 ### [HB 1343](/bill/2025-26/hb/1343/) - Higher ed./loss of aid 👍1  
 * 👍💵 Sienna Jarrard
 
+### [HB 1485](/bill/2025-26/hb/1485/) - Services and activities fees 👍1  
+
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 
 ### [HB 1751](/bill/2025-26/hb/1751/) - Course materials sales tax 👍1  
@@ -23,15 +25,19 @@
 ### [HB 1762](/bill/2025-26/hb/1762/) - Higher ed./residence req. 👍1  
 * 👍💵 Sienna Jarrard
 
+### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge 👍1  
+
 ### [SB 5275](/bill/2025-26/sb/5275/) - Passport to careers program 👍1  
 
-### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍2  
+### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍3  
 
-## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍2  
+### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍2  
+
+## [SB 5523](/bill/2025-26/sb/5523/) - Higher ed. gov./students 👍1  
 
 ## 2023-24
 
-### [SB 5402](/bill/2023-24/sb/5402/) - Financial aid eligibility 👍2  
+### [SB 5523](/bill/2023-24/sb/5523/) - Higher ed. gov./students 👍1  
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍3  
 

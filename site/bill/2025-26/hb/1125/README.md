@@ -18,13 +18,7 @@
 
 ## Meetings
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1125 Sentence modification
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164616&caId=26019&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164616&caId=26019&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164616&caId=26019&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164616&caId=26019&tId=4)
-
-#### 516 👍 - Pro
+#### 526 👍 - Pro
 Testifying:
 * Andre Penalver - Minority & Justice commission
 * Larry Jefferson - Office of public defense
@@ -34,7 +28,7 @@ Testifying:
 * Derrick Jones Jr - Freedom Project
 * Eric Flores - Freedom Project
 
-#### 1898 👎 - Con
+#### 1966 👎 - Con
 Testifying:
 * Leslie Paine
 * 💵Russell Brown - WA Association of Prosecuting Attorneys

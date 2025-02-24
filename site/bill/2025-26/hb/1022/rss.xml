@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1022/</link>
 		<description>Updates about HB 1022</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 20 Feb 2025 11:05:25 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Feb 2025 17:42:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -171,6 +171,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Nicole/Gomez/2025-02-20 11:05:25</guid>
+		</item>
+		<item>
+			<title>In Session: ‘Homes for Heroes Act’ would help public servants buy homes in Washington | king5.com</title>
+			<description>News article "In Session: ‘Homes for Heroes Act’ would help public servants buy homes in Washington | king5.com" from KING5.</description>
+			<pubDate>Fri, 21 Feb 2025 17:42:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/politics/in-session/homes-for-heroes-act-impacts-washington-state/281-780f95bd-9c62-44bb-b111-c581d5696d59#:~:text=House%20Bill%201022</guid>
 		</item>
 	</channel>
 </rss>

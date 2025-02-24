@@ -14,17 +14,11 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5278 Juvenile correctional pop.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164868&caId=26112&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164868&caId=26112&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164868&caId=26112&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164868&caId=26112&tId=4)
+#### 232 👍 - Pro
 
-#### 7 👍 - Pro
+#### 31 👎 - Con
 
-#### 21 👎 - Con
-
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 

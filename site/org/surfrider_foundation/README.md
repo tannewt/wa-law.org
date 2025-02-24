@@ -17,7 +17,8 @@
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
+* 👍💵 Peter Steelquist
 
 ### [SB 5390](/bill/2025-26/sb/5390/) - Discover pass, day-use cost 👍1  
 

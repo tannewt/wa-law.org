@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/21/2025 [Senate Democrats](/org/senate_democrats/) - [From the desk of your new state senator - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/02/21/from-the-desk-of-your-new-state-senator-2/#:~:text=5500)
 * 02/03/2025 [United Ways of the Pacific Northwest](/org/united_ways_of_the_pacific_northwest/) - [legupdate02032025 - United Ways of the Pacific Northwest](https://www.uwpnw.org/legupdate02032025#:~:text=S.B.%205500)
 * 01/30/2025 [Washington State Standard](/org/washington_state_standard/) - [WA child care advocates push for higher pay and more support for providers • Washington State Standard](https://washingtonstatestandard.com/2025/01/30/wa-child-care-advocates-push-for-higher-pay-and-more-support-for-providers/#:~:text=Senate%20Bill%205500)
 

@@ -9,6 +9,8 @@
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍1  
 
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+
 ### [HB 1603](/bill/2025-26/hb/1603/) - Medicare supp. coverage 👍2  
 * 👍 Robby Stern
 
@@ -20,6 +22,10 @@
 
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards 👍1  
 
+### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge 👍1  
+
+### [HB 1862](/bill/2025-26/hb/1862/) - Train length 👍1  
+
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
 
 ### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍1  
@@ -29,7 +35,11 @@
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
 * 👍💵 Nancy Sapiro
 
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
+
+### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions 👍1  
 
 ### [SB 5437](/bill/2025-26/sb/5437/) - Noncompetition agreements 👍1  
 
@@ -37,17 +47,21 @@
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 
+### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
+
 ### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption  👎1 
 
 ### [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
 
 ### [SB 5731](/bill/2025-26/sb/5731/) - Tenant assistance program  👎1 
 
-## [SB 5740](/bill/2025-26/sb/5740/) - Eviction reform  👎1 
+### [SB 5740](/bill/2025-26/sb/5740/) - Eviction reform  👎1 
+
+## [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍1  
 
 ## 2023-24
 
-### [SB 5740](/bill/2023-24/sb/5740/) - Eviction reform  👎1 
+### [SB 5768](/bill/2023-24/sb/5768/) - Working families' tax credit 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍1  
 

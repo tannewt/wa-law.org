@@ -8,10 +8,25 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/22/2025 [House Republicans](/org/house_republicans/) - [Safer streets | Washington State House Republicans](https://houserepublicans.wa.gov/current/safer-streets/#:~:text=House%20Bill%201409)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201409)
 * [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201409)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1409 Clean fuels program
+#### 21 👍 - Pro
+Testifying:
+* Dean Taylor - Seattle City Light
+* 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
+* Scott Richards - [Clean Fuels Alliance America](/org/clean_fuels_alliance_america/)
+
+#### 171 👎 - Con
+Testifying:
+* 💵Jessica Spiegel - WSPA
+
+#### 0 ❓ - Other
+
 ### Tue 01/28 04:00 PM - Environment & Energy (ENVI): HB 1409 Clean fuels program
 #### 289 👍 - Pro
 Testifying:

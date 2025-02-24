@@ -18,7 +18,7 @@
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
 
-### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
 
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth 👍3  
 * 👍💵 Guillermo Rogel
@@ -41,6 +41,8 @@
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍2  
 * 👍💵 Guillermo Rogel
 * 👍 Nico Wedekind
+
+### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
 
 ### [SB 5652](/bill/2025-26/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts. 👍1  
 

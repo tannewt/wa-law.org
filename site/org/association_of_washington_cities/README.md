@@ -122,6 +122,8 @@
 ### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
 * 👍💵 Candice Bock
 
+### [HB 1440](/bill/2025-26/hb/1440/) - Civil forfeiture proceedings  👎1 
+
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 ❓1
 * ❓💵 Carl Schroeder
 * 👎💵 Carl Schroeder
@@ -136,7 +138,7 @@
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety  👎1 
 * 👎💵 Candice Bock
 
-### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍3  
 
 ### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍1  
 
@@ -158,7 +160,8 @@
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 * 👍💵 Candice Bock
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
 ### [HB 1643](/bill/2025-26/hb/1643/) - Utility facility removal   ❓1
@@ -238,10 +241,13 @@
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍💵 Candice Bock
 
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+* 👍💵 Candice Bock
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
 
-### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
+### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍2  
 
 ### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel  👎1 
 
@@ -253,6 +259,9 @@
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
+
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓1
+* ❓💵 Kelsey Hulse
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
 * 👎💵 Candice Bock
@@ -277,8 +286,9 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Candice Bock
 
-### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects   ❓1
+### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects 👍1  ❓1
 * ❓💵 Kelsey Hulse
+* 👍💵 Kelsey Hulse
 
 ### [SB 5197](/bill/2025-26/sb/5197/) - Local government planning   ❓1
 * ❓💵 Carl Schroeder
@@ -288,6 +298,9 @@
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
 
 ### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍1  
+
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+* 👍 Amy Ockerlander
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 * 👍💵 Candice Bock
@@ -301,7 +314,8 @@
 ### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential   ❓1
 * ❓💵 Carl Schroeder
 
-### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use  👎2 
+### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use  👎3 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
@@ -378,13 +392,16 @@
 
 ### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
 
-## [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
+### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 * 👎💵 Candice Bock
+
+## [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
+* 👍💵 Candice Bock
 
 ## 2023-24
 
-### [SB 5757](/bill/2023-24/sb/5757/) - Auto. traffic safety revenue  👎1 
-* 👎💵 Candice Bock
+### [SB 5775](/bill/2023-24/sb/5775/) - Public safety/local tax 👍1  
+* 👍💵 Candice Bock
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍6  
 * 👍💵 Candice Bock

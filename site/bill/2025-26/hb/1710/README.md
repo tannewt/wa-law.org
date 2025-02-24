@@ -15,19 +15,13 @@
 
 ## Meetings
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1710 Voting rights act compliance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164730&caId=26036&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164730&caId=26036&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164730&caId=26036&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164730&caId=26036&tId=4)
-
-#### 387 👍 - Pro
+#### 415 👍 - Pro
 Testifying:
 * 💵Alex Hur - OneAmerica
 * Marisa Wright - Campaign Legal Center
 * 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 
-#### 1845 👎 - Con
+#### 1921 👎 - Con
 Testifying:
 * 💵Michael Shaw - Washington State Association of County Auditors
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

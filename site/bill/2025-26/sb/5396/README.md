@@ -8,9 +8,23 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/21/2025 [FOX13](/org/fox13/) - [WA Senate panel advances mental health benefits for pilots | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-mental-health-benefits-pilots#:~:text=Senate%20Bill%205396)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting local news and pilots - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/04/protecting-local-news-and-pilots/#:~:text=Senate%20Bill%205396)
 
 ## Meetings
+### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5396 FAA medical certificates
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164983&caId=26191&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164983&caId=26191&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164983&caId=26191&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164983&caId=26191&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/28 10:30 AM - Labor & Commerce (LC): SB 5396 FAA medical certificates
 #### 6 👍 - Pro
 Testifying:

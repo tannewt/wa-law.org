@@ -13,6 +13,23 @@
 * 01/21/2025 [Washington State Standard](/org/washington_state_standard/) - [Legislature looks again at unemployment benefits for striking workers • Washington State Standard](https://washingtonstatestandard.com/2025/01/21/debate-revived-in-wa-legislature-over-unemployment-benefits-for-striking-workers/#:~:text=Senate%20Bill%205041)
 
 ## Meetings
+### Tue 02/25 01:30 PM - Ways & Means (WM): SSB 5041 Unemp ins/strikes & lockouts
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164974&caId=26182&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164974&caId=26182&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164974&caId=26182&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164974&caId=26182&tId=4)
+
+#### 86 👍 - Pro
+
+#### 626 👎 - Con
+Testifying:
+* 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
+* 💵Patrick Connor - NFIB
+* TaraLyn Fray
+
+#### 1 ❓ - Other
+
 ### Tue 01/21 10:30 AM - Labor & Commerce (LC): SB 5041 Unemp ins/strikes & lockouts
 #### 1283 👍 - Pro
 Testifying:

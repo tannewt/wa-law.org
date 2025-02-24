@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/22/2025 [Washington State Standard](/org/washington_state_standard/) - [Bills that didn’t survive the WA Legislature’s first major deadline • Washington State Standard](https://washingtonstatestandard.com/2025/02/22/rip-bills-that-didnt-survive-the-wa-legislatures-first-major-deadline/#:~:text=House%20Bill%201630)
 * 02/07/2025 [Washington State Standard](/org/washington_state_standard/) - [Why a WA lawmaker wants to collect data on cow farts and burps • Washington State Standard](https://washingtonstatestandard.com/2025/02/07/why-a-wa-lawmaker-wants-to-collect-data-on-cow-farts-and-burps/#:~:text=House%20Bill%201630)
 * 02/06/2025 [MyNorthwest](/org/mynorthwest/) - [A fart tax? State lawmaker suggests sports fans pay up](https://mynorthwest.com/mynorthwest-politics/fart-tax/4041391#:~:text=House%20Bill%201630)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201630)

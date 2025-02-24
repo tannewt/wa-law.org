@@ -8,14 +8,18 @@
 
 ## Meetings
 ### Mon 02/24 08:00 AM - Finance (FIN): HB 1996 Behavioral health diversion
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164673&caId=26073&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164673&caId=26073&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164673&caId=26073&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164673&caId=26073&tId=4)
+#### 15 👍 - Pro
+Testifying:
+* 💵Kimberly Mosolf - Plaintiff Counsel, AB v DSHS (Trueblood)
 
-#### 1 👍 - Pro
+#### 1653 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Sandra Mochizuki
+* Anthony Holan
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 5 ❓ - Other
+Testifying:
+* Joe McDermott - State Relations Director | King County
+* Kevin Bovenkamp - DSHS Behavioral Health Administration
+* 💵Brad Banks - Association of Counties

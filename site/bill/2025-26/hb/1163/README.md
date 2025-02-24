@@ -22,6 +22,51 @@
 * 01/14/2025 [MyNorthwest](/org/mynorthwest/) - [Pimps take over Seattle, but Washington Dems take away our guns](https://mynorthwest.com/ktth/ktth-opinion/rantz-will-dangerous-pimps-taking-over-seattle-follow-washington-democrats-gun-laws/4028108#:~:text=House%20Bill%201163)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1163 Firearm purchase
+#### 568 👍 - Pro
+Testifying:
+* Moritz Maszhold
+* Jane Weiss
+* Robert Schentrup - Brady United
+* Cassandra Crifasi - Johns Hopkins Center for Gun Policy and Research
+
+#### 5341 👎 - Con
+Testifying:
+* Patrick Wade
+* 💵Aoibheann Cline - NRA
+* 💵Troy Nichols - National Shooting Sports Foundation
+* Mark Walker
+* Jason Koontz
+* Patrick Byrne
+* Joy Matsuura
+* luci lockhart - the raspberry berets
+* mayale rodriguez - the raspberry berets
+* Jeremy Bennett
+* Asadullha Ranavaya
+* Scott Cameron
+* Allen Clarke
+* Thomas Johnson
+* Lee Walter
+* TAMMY Rose Berry
+* Kris Baker - 6363 nw Paddington ct
+* Bryce Teigen
+* 💵George Allen
+* Brandon Edwards
+* Robert Bernier
+* Joe Heinlen
+* Jose Aceves
+* Anthony Holan
+* Jeremy Ball
+* Brandie Bills
+* marty lough - citizen of WA
+* Ashley Fulwider
+* Bettina Pickett
+* Gunner Pruett
+
+#### 6 ❓ - Other
+Testifying:
+* jack praetorius
+
 ### Tue 01/21 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1163 Firearm purchase
 #### 792 👍 - Pro
 Testifying:

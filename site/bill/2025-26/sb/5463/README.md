@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/21/2025 [Senate Democrats](/org/senate_democrats/) - [From the desk of your new state senator - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/02/21/from-the-desk-of-your-new-state-senator-2/#:~:text=5463)
+
 ## Meetings
 ### Tue 02/04 10:30 AM - Labor & Commerce (LC): SB 5463 Industrial insurance/duties
 #### 158 👍 - Pro

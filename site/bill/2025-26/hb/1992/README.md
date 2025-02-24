@@ -6,19 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201992)
+
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TR): HB 1992 Safe system approach strat.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164705&caId=26082&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164705&caId=26082&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164705&caId=26082&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164705&caId=26082&tId=4)
-
-#### 5 👍 - Pro
+#### 169 👍 - Pro
 Testifying:
 * Kristina Walker - Councilmember, City of Tacoma
 * 💵Matthew Sutherland - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
+* Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
 
-#### 1 👎 - Con
+#### 59 👎 - Con
 
 #### 1 ❓ - Other

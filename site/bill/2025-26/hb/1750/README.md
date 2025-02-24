@@ -15,23 +15,19 @@
 
 ## Meetings
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1750 Voting rights act claims
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164623&caId=26026&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164623&caId=26026&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164623&caId=26026&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164623&caId=26026&tId=4)
-
-#### 457 👍 - Pro
+#### 473 👍 - Pro
 Testifying:
 * 💵Alex Hur - OneAmerica
 * Marisa Wright - Campaign Legal Center
 * 💵Jake García - [Latino Community Fund of Washington State](/org/latino_community_fund_of_washington_state/)
 
-#### 1908 👎 - Con
+#### 1990 👎 - Con
 Testifying:
 * 💵Michael Shaw - Washington State Association of County Auditors
 * Brian Hatfield - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Kathleen Schweiger
+* Kathleen Schweiger
 
 #### 0 ❓ - Other
 

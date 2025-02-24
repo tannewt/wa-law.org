@@ -11,6 +11,17 @@
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201485)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Appropriations (APP): HB 1485 Services and activities fees
+#### 40 👍 - Pro
+Testifying:
+* Haley Chee - University of Washington Seattle
+
+#### 126 👎 - Con
+Testifying:
+* John Axtell
+
+#### 0 ❓ - Other
+
 ### Wed 02/12 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1485 Services and activities fees
 #### 628 👍 - Pro
 Testifying:

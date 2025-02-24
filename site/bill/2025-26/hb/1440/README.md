@@ -9,19 +9,16 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TR): SHB 1440 Civil forfeiture proceedings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164879&caId=26093&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164879&caId=26093&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164879&caId=26093&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164879&caId=26093&tId=4)
+#### 2 👍 - Pro
+Testifying:
+* Alasdair Whitney - [Institute for Justice](/org/institute_for_justice/)
 
-#### 0 👍 - Pro
+#### 3 👎 - Con
 
-#### 0 👎 - Con
-
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Anne Anderson - Washington State Narcotics Investigators Association
 
 ### Tue 02/04 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1440 Civil forfeiture proceedings
 #### 3 👍 - Pro

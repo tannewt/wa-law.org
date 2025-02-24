@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1644/</link>
 		<description>Updates about HB 1644</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 22 Feb 2025 01:10:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -127,6 +127,13 @@
 			<pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-18/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>Supporting our public schools - Sen. Derek Stanford</title>
+			<description>News article "Supporting our public schools - Sen. Derek Stanford" from Senate Democrats.</description>
+			<pubDate>Sat, 22 Feb 2025 01:10:27 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/stanford/2025/02/21/supporting-our-public-schools/#:~:text=House%20version%20of%20this%20bill.</guid>
 		</item>
 	</channel>
 </rss>

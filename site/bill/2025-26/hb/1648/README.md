@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1648 Child care qualifications
+#### 118 👍 - Pro
+Testifying:
+* Jordan Travis - Tree hill
+* Trisha Maygra - Sumner valley preschool
+* Wendy Bart - Washington State Alliance of YMCAs
+* Debra Rinell
+* Susan Brown - Kids Co., Greater Seattle Child Care Business Coalition, and Washington Childcare Centers Assn
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/04 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1648 Child care qualifications
 #### 93 👍 - Pro
 Testifying:

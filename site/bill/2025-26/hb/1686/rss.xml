@@ -5,9 +5,16 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1686/</link>
 		<description>Updates about HB 1686</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 07:24:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+		<item>
+			<title>2025 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute</title>
+			<description>News article "2025 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute" from Economic Opportunity Institute.</description>
+			<pubDate>Mon, 02 Dec 2024 19:00:41 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.opportunityinstitute.org/2025-legislative-agenda/#:~:text=House%20Bill%201686</guid>
+		</item>
 		<item>
 			<title>2025 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute</title>
 			<description>News article "2025 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute" from Economic Opportunity Institute.</description>
@@ -113,6 +120,14 @@
 			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/21/health-care-chair-boost-transparency-with-provider-directory/#:~:text=HB%201686</guid>
+		</item>
+		<item>
+			<title>👎Jeff Gombosky - Washington Health Care Association</title>
+			<description>Jeff Gombosky signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_health_care_association/"&gt;Washington Health Care Association&lt;/a&gt;.</description>
+			<pubDate>Mon, 24 Feb 2025 07:24:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jeff/Gombosky/2025-02-24 07:24:05</guid>
 		</item>
 	</channel>
 </rss>

@@ -22,6 +22,9 @@
 ### [HB 1913](/bill/2025-26/hb/1913/) - Public utility tax credit  👎1 
 * 👎💵 John Rothlin
 
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍1  
+* 👍💵 John Rothlin
+
 ### [SB 5401](/bill/2025-26/sb/5401/) - Wholesale power purchases 👍1  
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system   ❓1

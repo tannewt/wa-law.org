@@ -13,19 +13,16 @@
 
 ## Meetings
 ### Mon 02/24 08:00 AM - Finance (FIN): 2SHB 1102 Veteran support and services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164674&caId=26074&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164674&caId=26074&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164674&caId=26074&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164674&caId=26074&tId=4)
-
-#### 19 👍 - Pro
+#### 58 👍 - Pro
 Testifying:
 * Jerry Fugich - Veterans Legislative Coalition
 
-#### 0 👎 - Con
+#### 651 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 01/29 04:00 PM - Appropriations (APP): SHB 1102 Veteran support and services
 #### 100 👍 - Pro

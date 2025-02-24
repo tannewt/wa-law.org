@@ -8,6 +8,17 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1917 Juvenile rehabilitation
+#### 5 👍 - Pro
+Testifying:
+* 💵Brad Banks - Washington State Association of Counties (WSAC)
+
+#### 2 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
 ### Tue 02/11 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1917 Juvenile rehabilitation
 #### 7 👍 - Pro
 Testifying:

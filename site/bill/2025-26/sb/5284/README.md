@@ -13,20 +13,33 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5284 Solid waste management
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164877&caId=26121&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164877&caId=26121&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164877&caId=26121&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164877&caId=26121&tId=4)
+#### 757 👍 - Pro
+Testifying:
+* Amy Ockerlander - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
+* 💵Kelsey Hulse - EPR Leadership Forum
+* 💵Peter Steelquist - [Surfrider Foundation](/org/surfrider_foundation/)
+* 💵Edwin Borbon - AMERIPEN
+* Wyatt Golding - Nisqually Delta Association
 
-#### 64 👍 - Pro
+#### 674 👎 - Con
+Testifying:
+* 💵Lyset Cadena - WM (Waste Management)
+* 💵Vicki Christophersen - Washington Refuse and Recycling Assoc.
+* 💵Jennifer Ziegler - Sanitary Service Company
+* 💵Brandon Houskeeper - NW Grocery Retail Association
+* 💵Holly Chisa - [Consumer Brands Association](/org/consumer_brands_association/)
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Sandra Mochizuki
+* Anthony Holan
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Brian Coddington
 
-#### 177 👎 - Con
-
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Tue 01/28 01:30 PM - Environment, Energy & Technology (ENET): SB 5284 Solid waste management
 #### 1553 👍 - Pro

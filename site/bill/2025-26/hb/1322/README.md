@@ -8,6 +8,22 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1322 Juvenile offenses
+#### 12 👍 - Pro
+Testifying:
+* Katie Hurley - King County Department of Public Defense
+* Rashida Robbins
+* Judge André Peñalver - Minority and Justice Commission
+
+#### 27 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* 💵Brad Banks - Washington State Association of Counties (WSAC)
+
+#### 1 ❓ - Other
+Testifying:
+* Jack Murphy - [Washington Association of Juvenile Court Administrators](/org/washington_association_of_juvenile_court_administrators/)
+
 ### Wed 02/05 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1322 Juvenile offenses
 #### 35 👍 - Pro
 Testifying:

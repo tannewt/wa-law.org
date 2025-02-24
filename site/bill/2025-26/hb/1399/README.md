@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/21/2025 [The Center Square](/org/the_center_square/) - [Proposed law could allow state agencies to decertify elected sheriffs | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4ad84ab2-f085-11ef-acb4-8ff6d1416ea4.html#:~:text=House%20Bill%201399)
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201399)
 
 ## Meetings

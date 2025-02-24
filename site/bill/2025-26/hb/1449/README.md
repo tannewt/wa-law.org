@@ -10,6 +10,21 @@
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201449)
 
 ## Meetings
+### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1449 Home cultivation of cannabis
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165018&caId=26216&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165018&caId=26216&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165018&caId=26216&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165018&caId=26216&tId=4)
+
+#### 25 👍 - Pro
+Testifying:
+* John Kingsbury - with concerns
+
+#### 868 👎 - Con
+
+#### 1 ❓ - Other
+
 ### Tue 01/28 01:30 PM - Consumer Protection & Business (CPB): HB 1449 Home cultivation of cannabis
 #### 180 👍 - Pro
 Testifying:

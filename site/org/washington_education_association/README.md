@@ -211,7 +211,7 @@
 
 ### [HB 1619](/bill/2025-26/hb/1619/) - Dockworkers/family leave 👍1  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍2  
 
 ### [HB 1623](/bill/2025-26/hb/1623/) - Tips/credit card fees 👍1  
 
@@ -222,8 +222,9 @@
 ### [HB 1642](/bill/2025-26/hb/1642/) - Pension plan choice 👍3  
 * 👍 Jared Mason-Gere
 
-### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent.  👎1 
+### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent. 👍1 👎1 
 * 👎💵 Lorrell Noahr
+* 👍💵 Lorrell Noahr
 
 ### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use 👍1  
 
@@ -377,10 +378,11 @@
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
 * 👍💵 Nasue Nishida
 
-### [SB 5186](/bill/2025-26/sb/5186/) - School district elections 👍2  ❓2
+### [SB 5186](/bill/2025-26/sb/5186/) - School district elections 👍7  ❓2
 * ❓💵 Simone Boe
 * ❓💵 Julie Salvi
 * 👍💵 Simone Boe
+* 👍💵 Larry Delaney
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍4  
 
@@ -467,6 +469,9 @@
 
 ### [SB 5381](/bill/2025-26/sb/5381/) - Self-insurer withdrawal 👍1  
 
+### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions 👍1  
+* 👍 Janet Caldwell
+
 ### [SB 5386](/bill/2025-26/sb/5386/) - Schools/sexual assault 👍1  
 
 ### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism  👎1 
@@ -474,6 +479,8 @@
 ### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍1  
 
 ### [SB 5414](/bill/2025-26/sb/5414/) - Social equity impact/audits 👍1  
+
+### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use 👍1  
 
 ### [SB 5433](/bill/2025-26/sb/5433/) - DOC employee bargaining 👍1  
 
@@ -544,19 +551,23 @@
 
 ### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
 
+### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
+
 ### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank 👍1  
 
 ### [SB 5756](/bill/2025-26/sb/5756/) - Working minors 👍1  
 
-## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  ❓1
+## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍4  ❓1
 * ❓💵 Julie Salvi
 * 👍💵 Simone Boe
+* 👍💵 Larry Delaney
 
 ## 2023-24
 
-### [SJR 8200](/bill/2023-24/sjr/8200/) - School district local funds 👍1  ❓1
+### [SJR 8200](/bill/2023-24/sjr/8200/) - School district local funds 👍4  ❓1
 * ❓💵 Julie Salvi
 * 👍💵 Simone Boe
+* 👍💵 Larry Delaney
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍2  
 

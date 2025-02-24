@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1435/</link>
 		<description>Updates about HB 1435</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 05 Feb 2025 07:33:24 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 22 Feb 2025 18:21:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -107,6 +107,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Lars/Erickson/2025-02-05 07:33:24</guid>
+		</item>
+		<item>
+			<title>Safer streets | Washington State House Republicans</title>
+			<description>News article "Safer streets | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sat, 22 Feb 2025 18:21:21 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/safer-streets/#:~:text=House%20Bill%201435</guid>
 		</item>
 	</channel>
 </rss>

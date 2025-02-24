@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1995/</link>
 		<description>Updates about HB 1995</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 06:18:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -21,6 +21,22 @@
 			<pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-18/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>❓Steve Ewing - Dept. of Revenue</title>
+			<description>Steve Ewing signed up to testify Other. They are signed up to represent Dept. of Revenue.</description>
+			<pubDate>Sat, 22 Feb 2025 11:45:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Steve/Ewing/2025-02-22 11:45:01</guid>
+		</item>
+		<item>
+			<title>👎Anthony Holan - Washington Bikes</title>
+			<description>Anthony Holan signed up to testify Con.</description>
+			<pubDate>Mon, 24 Feb 2025 06:18:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Anthony/Holan/2025-02-24 06:18:42</guid>
 		</item>
 	</channel>
 </rss>

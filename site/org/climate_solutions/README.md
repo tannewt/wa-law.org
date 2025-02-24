@@ -25,14 +25,15 @@
 ### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases   ❓1
 * ❓💵 Leah Missik
 
-### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍2  
+* 👍💵 Leah Missik
 * 👍💵 Leah Missik
 
 ### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍2  
 
-### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍1  
+### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍2  
 
 ### [HB 1630](/bill/2025-26/hb/1630/) - Livestock methane emissions 👍1  
 
@@ -57,6 +58,9 @@
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍💵 Leah Missik
 
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍1  
+* 👍💵 Altinay Karasapan
+
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓1
 * ❓💵 Leah Missik
 
@@ -77,7 +81,7 @@
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval.   ❓1
 * ❓💵 Altinay Karasapan
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 
 ### [SB 5377](/bill/2025-26/sb/5377/) - Motor vehicle dealers  👎2 
 * 👎💵 Leah Missik
@@ -94,7 +98,8 @@
 ### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
 * 👍💵 Leah Missik
 
-### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels   ❓1
+### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels   ❓2
+* ❓💵 Leah Missik
 * ❓💵 Leah Missik
 
 ### [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users   ❓1

@@ -7,6 +7,8 @@
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍💵 Neil Strege
 
+### [HB 1958](/bill/2025-26/hb/1958/) - Interstate bridge toll bonds 👍1  
+
 ### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 * 👍💵 Neil Strege
 

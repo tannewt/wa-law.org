@@ -13,17 +13,24 @@
 ### [HB 1733](/bill/2025-26/hb/1733/) - Agency displacement expenses 👍1  
 * 👍 Mac Nicholson
 
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+* 👍 Mac Nicholson
+
 ### [SB 5147](/bill/2025-26/sb/5147/) - Criminal insanity 👍1  
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 
 ### [SB 5528](/bill/2025-26/sb/5528/) - Transp. electrification 👍1  
 
-## [SB 5574](/bill/2025-26/sb/5574/) - History instruction 👍1  
+### [SB 5574](/bill/2025-26/sb/5574/) - History instruction 👍1  
+
+## [SB 5745](/bill/2025-26/sb/5745/) - Invol. treatment counsel   ❓1
+* ❓💵 Michael White
 
 ## 2023-24
 
-### [SB 5574](/bill/2023-24/sb/5574/) - History instruction 👍1  
+### [SB 5745](/bill/2023-24/sb/5745/) - Invol. treatment counsel   ❓1
+* ❓💵 Michael White
 
 ### [HB 1006](/bill/2023-24/hb/1006/) - Drug testing equipment 👍1  
 * 👍 Bradley Finegood

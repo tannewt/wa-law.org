@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1274 Juvenile convictions/score
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164619&caId=26022&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164619&caId=26022&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164619&caId=26022&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164619&caId=26022&tId=4)
-
-#### 1874 👍 - Pro
+#### 1899 👍 - Pro
 Testifying:
 * Kathryn Loring - Washington State Minority and Justice Commission
 * Denise Blacketer
@@ -31,13 +25,15 @@ Testifying:
 * 💵Chelsea Moore - ACLU-WA
 * Cassandra Butler - Collective Justice
 
-#### 661 👎 - Con
+#### 706 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Tiffany Attrill
 * Roshelle Cleland - LCS Northwest
 
-#### 9 ❓ - Other
+#### 10 ❓ - Other
+Testifying:
+* Kristin Ferrera - Superior Court Judges’ Association
 
 ### Tue 01/28 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1274 Juvenile convictions/score
 #### 1586 👍 - Pro

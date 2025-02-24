@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/21/2025 [The Center Square](/org/the_center_square/) - [WATCH: 'Diluted version' of emergency powers reform bill passes out of Senate committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_16cdadaa-f0a0-11ef-8056-832eab47afda.html#:~:text=Senate%20Bill%205434)
+* 02/21/2025 [MyNorthwest](/org/mynorthwest/) - [Revised bill overhauling governor's emergency powers weakened by Democrats, say republicans](https://mynorthwest.com/mynorthwest-politics/revised-bill/4050363#:~:text=Senate%20Bill%205434)
 * 02/20/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Emergency powers, the mileage tax and more - Senate Republican Caucus](https://src.wastateleg.org/blog/21267/#:~:text=Senate%20Bill%205434,)
 * 02/19/2025 [FOX13](/org/fox13/) - [Ferguson advocates for limiting governor’s emergency powers | FOX 13 Seattle](https://www.fox13seattle.com/news/ferguson-advocates-limiting-emergency-powers#:~:text=Senate%20Bill%205434)
 * 02/17/2025 [Washington State Standard](/org/washington_state_standard/) - [With a phone call, WA governor keeps emergency powers bill alive • Washington State Standard](https://washingtonstatestandard.com/2025/02/17/with-a-phone-call-wa-governor-keeps-emergency-powers-bill-alive/#:~:text=Senate%20Bill%205434)

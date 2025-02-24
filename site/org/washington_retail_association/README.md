@@ -80,7 +80,7 @@
 ### [HB 1420](/bill/2025-26/hb/1420/) - Textile producers  👎1 
 * 👎💵 Crystal Leatherman
 
-### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍2  
+### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program 👍2  ❓1
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
 * 👍💵 Mark Johnson
@@ -114,7 +114,8 @@
 * 👍💵 Crystal Leatherman
 * 👍💵 Crystal Leatherman
 
-### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction   ❓1
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction   ❓2
+* ❓💵 Mark Johnson
 * ❓💵 Mark Johnson
 
 ### [HB 1636](/bill/2025-26/hb/1636/) - Wine & spirit sales limits 👍1  
@@ -147,6 +148,10 @@
 * 👍💵 Crystal Leatherman
 
 ### [HB 1995](/bill/2025-26/hb/1995/) - Tax preferences  👎1 
+
+### [HB 1996](/bill/2025-26/hb/1996/) - Behavioral health diversion 👍1  
+
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
@@ -213,7 +218,8 @@
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
 * 👎💵 Amber Carter
 
-### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
+### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍2  
+* 👍💵 Crystal Leatherman
 * 👍💵 Crystal Leatherman
 
 ### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  

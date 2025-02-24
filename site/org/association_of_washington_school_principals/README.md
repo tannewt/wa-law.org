@@ -72,7 +72,7 @@
 
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
 
-### [SB 5186](/bill/2025-26/sb/5186/) - School district elections 👍1  
+### [SB 5186](/bill/2025-26/sb/5186/) - School district elections 👍3  
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍3  
 
@@ -112,11 +112,11 @@
 
 ### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
 
-## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  
+## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍2  
 
 ## 2023-24
 
-### [SJR 8200](/bill/2023-24/sjr/8200/) - School district local funds 👍1  
+### [SJR 8200](/bill/2023-24/sjr/8200/) - School district local funds 👍2  
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍1  
 

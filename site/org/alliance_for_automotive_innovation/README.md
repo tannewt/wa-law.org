@@ -10,6 +10,8 @@
 ### [HB 1721](/bill/2025-26/hb/1721/) - Zero emissions vehicles/sale  👎1 
 * 👎 Curt Augustine
 
+### [HB 1984](/bill/2025-26/hb/1984/) - Autonomous vehicles  👎1 
+
 ### [SB 5045](/bill/2025-26/sb/5045/) - Battery stewardship/EVs  👎1 
 * 👎💵 Brandon Houskeeper
 

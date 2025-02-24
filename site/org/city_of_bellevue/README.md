@@ -50,6 +50,8 @@
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 * 👍 Bianca Siegl
 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
 
 ### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
@@ -74,9 +76,13 @@
 
 ### [HB 1992](/bill/2025-26/hb/1992/) - Safe system approach strat. 👍1  
 
+### [HB 1996](/bill/2025-26/hb/1996/) - Behavioral health diversion   ❓1
+
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
-### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓1
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓2
 
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
 

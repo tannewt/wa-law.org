@@ -8,20 +8,14 @@
 
 ## Meetings
 ### Sat 02/22 09:00 AM - Appropriations (APP): HB 1570 Academic employee bargaining
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164787&caId=26046&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164787&caId=26046&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164787&caId=26046&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164787&caId=26046&tId=4)
-
-#### 825 👍 - Pro
+#### 864 👍 - Pro
 Testifying:
 * 💵Nathan Tippmann - TESC Student Government
 * 💵Emily Myers - UAW
 * Stephanie Lark - WWU Student Employee
 * Alexander Matheson - Working Wildcats at CWU
 
-#### 607 👎 - Con
+#### 647 👎 - Con
 
 #### 3 ❓ - Other
 

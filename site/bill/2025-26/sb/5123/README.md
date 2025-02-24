@@ -21,17 +21,16 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5123 Discrimination in schools
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164851&caId=26095&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164851&caId=26095&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164851&caId=26095&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164851&caId=26095&tId=4)
+#### 64 👍 - Pro
+Testifying:
+* Paree Raval
 
-#### 11 👍 - Pro
+#### 1676 👎 - Con
+Testifying:
+* John Axtell
+* Anthony Holan
 
-#### 495 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/21 08:00 AM - Early Learning & K-12 Education (EDU): SB 5123 Discrimination in schools
 #### 729 👍 - Pro

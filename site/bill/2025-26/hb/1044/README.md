@@ -8,19 +8,18 @@
 
 ## Meetings
 ### Mon 02/24 08:00 AM - Finance (FIN): HB 1044 County REET admin. fees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164667&caId=26067&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164667&caId=26067&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164667&caId=26067&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32892&aId=164667&caId=26067&tId=4)
-
-#### 10 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Jeff Gadman - President, WA Association of County Treasurers
 * 💵Jennifer Wallace - WA Association of County Officials
 * Steve Drew - WA Assoc of Assessors / Thurston County Assessor
 
-#### 1 👎 - Con
+#### 784 👎 - Con
+Testifying:
+* Jeremy Lui
+* TaraLyn Fray
+* Sandra Mochizuki
+* Anthony Holan
 
 #### 0 ❓ - Other
 

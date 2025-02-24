@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1071 Recycling rates
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164728&caId=26034&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164728&caId=26034&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164728&caId=26034&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32886&aId=164728&caId=26034&tId=4)
-
-#### 19 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * 💵Lyset Cadena - WM (Waste Management)
 * Rick Vahl - Waste Connections
@@ -26,7 +20,7 @@ Testifying:
 * Brian Coddington - Sunshine Disposal & Recycling
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
 
-#### 1101 👎 - Con
+#### 1183 👎 - Con
 Testifying:
 * 💵Edwin Borbon - AMERIPEN
 * Tad Sommerville
@@ -34,10 +28,11 @@ Testifying:
 * Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Travis Dutton - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 ### Thu 01/16 08:00 AM - Environment & Energy (ENVI): HB 1071 Recycling rates
 #### 73 👍 - Pro

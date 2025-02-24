@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1402/</link>
 		<description>Updates about HB 1402</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 23 Feb 2025 11:28:29 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,7 +31,7 @@
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201402</guid>
 		</item>
 		<item>
-			<title>👍Judy Jones - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<title>👍Judy Jones - Building Industry Association of Washington (BIAW)</title>
 			<description>Judy Jones signed up to testify Pro.</description>
 			<pubDate>Mon, 27 Jan 2025 06:26:54 GMT</pubDate>
 			<category>testifier</category>
@@ -105,6 +105,14 @@
 			<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-11/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👎Mike Ennis - Building Industry Association of Washington (BIAW)</title>
+			<description>Mike Ennis signed up to testify Con. They are signed up to represent Building Industry Association of Washington (BIAW).</description>
+			<pubDate>Sun, 23 Feb 2025 11:28:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mike/Ennis/2025-02-23 11:28:29</guid>
 		</item>
 	</channel>
 </rss>

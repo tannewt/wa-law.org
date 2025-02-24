@@ -9,19 +9,15 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5359 Clean energy development
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164875&caId=26119&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164875&caId=26119&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164875&caId=26119&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164875&caId=26119&tId=4)
-
-#### 2 👍 - Pro
+#### 80 👍 - Pro
 Testifying:
 * Dave Pringle - Washington State Department of Commerce
 
-#### 182 👎 - Con
+#### 717 👎 - Con
 Testifying:
 * Nicolas B Garcia - Washington Public Utility Districts Association
+* Sandra Mochizuki
+* Anthony Holan
 
 #### 0 ❓ - Other
 

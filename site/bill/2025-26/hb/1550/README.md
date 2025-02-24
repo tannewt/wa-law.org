@@ -8,6 +8,24 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1550 Electric vehicle batteries
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165021&caId=26219&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165021&caId=26219&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165021&caId=26219&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165021&caId=26219&tId=4)
+
+#### 53 👍 - Pro
+Testifying:
+* 💵James King - [Automotive Recyclers of Washington](/org/automotive_recyclers_of_washington/)
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+
+#### 2 👎 - Con
+Testifying:
+* 💵Holly Chisa - ReMA
+
+#### 0 ❓ - Other
+
 ### Mon 02/10 01:30 PM - Environment & Energy (ENVI): HB 1550 Electric vehicle batteries
 #### 294 👍 - Pro
 Testifying:

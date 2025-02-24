@@ -59,7 +59,7 @@
 
 ### [SB 5112](/bill/2025-26/sb/5112/) - Prescribing psychologists 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍2  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍3  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 
@@ -99,6 +99,8 @@
 * 👍💵 Esther Warwick
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
+
+### [SB 5394](/bill/2025-26/sb/5394/) - DDA no-paid services  👎1 
 
 ### [SB 5427](/bill/2025-26/sb/5427/) - Children in crisis program 👍1  
 

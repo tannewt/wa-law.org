@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5327/</link>
 		<description>Updates about SB 5327</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 06:07:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -82,6 +82,30 @@
 			<pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-12/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👎John Axtell - Association of Washington Business</title>
+			<description>John Axtell signed up to testify Con.</description>
+			<pubDate>Sun, 23 Feb 2025 08:37:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/John/Axtell/2025-02-23 08:37:55</guid>
+		</item>
+		<item>
+			<title>👎Steven Bock - Computer/AI Programmer</title>
+			<description>Steven Bock signed up to testify Con. They are signed up to represent Computer/AI Programmer.</description>
+			<pubDate>Sun, 23 Feb 2025 10:36:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Steven/Bock/2025-02-23 10:36:49</guid>
+		</item>
+		<item>
+			<title>👎Anthony Holan - Computer/AI Programmer</title>
+			<description>Anthony Holan signed up to testify Con.</description>
+			<pubDate>Mon, 24 Feb 2025 06:07:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Anthony/Holan/2025-02-24 06:07:25</guid>
 		</item>
 	</channel>
 </rss>

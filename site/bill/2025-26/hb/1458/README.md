@@ -20,11 +20,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164920&caId=26126&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164920&caId=26126&tId=4)
 
-#### 0 👍 - Pro
+#### 83 👍 - Pro
 
-#### 0 👎 - Con
+#### 647 👎 - Con
+Testifying:
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 02/05 08:00 AM - Local Government (LG): HB 1458 Embodied carbon/buildings
 #### 202 👍 - Pro

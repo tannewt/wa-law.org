@@ -11,6 +11,9 @@
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
+### [HB 1862](/bill/2025-26/hb/1862/) - Train length  👎1 
+* 👎💵 Scott Hazlegrove
+
 ### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍1  
 
 ## [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment  👎1 

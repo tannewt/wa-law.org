@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201907)
+
 ## Meetings
 ### Tue 02/25 08:00 AM - Finance (FIN): HB 1907 Self-service storage/tax
 Sign up to testify:
@@ -14,11 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164678&caId=26076&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164678&caId=26076&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
-#### 258 👎 - Con
+#### 942 👎 - Con
 Testifying:
 * Patrick Gilroy - Washington Self Storage Association
 * stuart drebick - ADROIT cONTRACTORS INC
@@ -30,5 +33,10 @@ Testifying:
 * Joe Doherty - Chief Legal Counsel, Self Storage Association
 * george shipley
 * DONALD ARSENAULT - As an Individual and Past 20 Years as Legislative Chair WA Self Storage Assoc.
+* Robert Wasmund - Secure Storage
+* TsunFa Lin
+* Michael Kruse
+* Elizabeth Stugelmayer
+* TaraLyn Fray
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other

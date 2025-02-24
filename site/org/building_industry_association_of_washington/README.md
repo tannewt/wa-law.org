@@ -6,7 +6,7 @@
 ### [HB 1015](/bill/2025-26/hb/1015/) - Energy labeling/residential  👎1 
 * 👎💵 Brent Ludeman
 
-### [HB 1044](/bill/2025-26/hb/1044/) - County REET admin. fees  👎1 
+### [HB 1044](/bill/2025-26/hb/1044/) - County REET admin. fees  👎2 
 
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers  👎1 
 
@@ -80,7 +80,7 @@
 ### [HB 1438](/bill/2025-26/hb/1438/) - Housing permit approval 👍1  
 * 👍💵 Andrea Smiley
 
-### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings  👎1 
+### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings  👎2 
 * 👎💵 Bill Stauffacher
 
 ### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons  👎1 
@@ -156,6 +156,8 @@
 ### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
 * 👍💵 Andrea Smiley
 
+### [HB 1995](/bill/2025-26/hb/1995/) - Tax preferences  👎1 
+
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers  👎1 
@@ -194,6 +196,8 @@
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice  👎1 
 * 👎💵 Andrea Smiley
 
+### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions  👎1 
+
 ### [SB 5408](/bill/2025-26/sb/5408/) - Wage and salary disclosures 👍1  
 
 ### [SB 5429](/bill/2025-26/sb/5429/) - State building code council 👍2  
@@ -208,7 +212,8 @@
 
 ### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎1 
 
-### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint  👎1 
+### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint  👎2 
+* 👎💵 Andrea Smiley
 * 👎💵 Andrea Smiley
 
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities  👎1 
@@ -290,6 +295,9 @@
 
 ### [SB 5747](/bill/2025-26/sb/5747/) - Affordable housing/exemption 👍2  
 * 👍💵 Andrea Smiley
+
+### [SB 5748](/bill/2025-26/sb/5748/) - Impact fees 👍1  
+* 👍💵 Bill Stauffacher
 
 ## [SB 5756](/bill/2025-26/sb/5756/) - Working minors  👎1 
 

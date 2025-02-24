@@ -12,20 +12,32 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5502 Recycling & waste reduction
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164878&caId=26122&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164878&caId=26122&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164878&caId=26122&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164878&caId=26122&tId=4)
-
-#### 35 👍 - Pro
+#### 519 👍 - Pro
 Testifying:
 * Fiona Bell - Novelis
 * Francisco Castillo - Diageo North America
+* Ro Elias - Niagara Bottling
+* Liz Donohue - Primo Brands
+* Allison Kustic - Association for Plastic Recyclers
+* Dylan de Thomas - Coalition for High Performance Recycling
+* Fiona Bell - Novelis
+* Liz Donohue - Primo Brands
+* Scott DeFife - Glass Packaging Institute
 
-#### 175 👎 - Con
+#### 722 👎 - Con
+Testifying:
+* 💵Lyset Cadena - WM (Waste Management)
+* 💵Vicki Christophersen - Washington Refuse and Recycling Assoc.
+* 💵Brandon Houskeeper - NW Grocery Retail Association
+* 💵Jennifer Ziegler - Sanitary Service Company
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Sandra Mochizuki
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Brian Coddington - Sunshine Disposal
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Wed 01/29 08:00 AM - Environment, Energy & Technology (ENET): SB 5502 Recycling & waste reduction
 #### 85 👍 - Pro

@@ -110,7 +110,7 @@
 
 ### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍2  
 
-### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
 
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
 * 👎💵 Paul Jewell
@@ -125,7 +125,8 @@
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction   ❓1
 * ❓💵 Travis Dutton
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎2 
+* 👎💵 Paul Jewell
 * 👎💵 Paul Jewell
 
 ### [HB 1625](/bill/2025-26/hb/1625/) - Back country search & rescue  👎1 
@@ -176,8 +177,9 @@
 ### [HB 1899](/bill/2025-26/hb/1899/) - Homelessness point-in-time 👍1  
 * 👍💵 Curtis Steinhauer
 
-### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍1  
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍2  
 * 👍💵 Travis Dutton
+* 👍💵 Paul Jewell
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍💵 Paul Jewell
@@ -206,6 +208,8 @@
 ### [SB 5154](/bill/2025-26/sb/5154/) - County auditor duties   ❓1
 * ❓💵 Paul Jewell
 
+### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍1  
+
 ### [SB 5197](/bill/2025-26/sb/5197/) - Local government planning   ❓1
 * ❓💵 Kelsey Hulse
 
@@ -220,8 +224,9 @@
 
 ### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile correctional pop. 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓1
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓2
 * ❓💵 Travis Dutton
+* ❓💵 Paul Jewell
 
 ### [SB 5288](/bill/2025-26/sb/5288/) - Concerning vacancies on boards of county commissioners. 👍1  
 * 👍💵 Paul Jewell
@@ -260,8 +265,9 @@
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
 * ❓💵 Curtis Steinhauer
 
-### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction   ❓1
+### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction   ❓2
 * ❓💵 Travis Dutton
+* ❓💵 Paul Jewell
 
 ### [SB 5510](/bill/2025-26/sb/5510/) - Conservation district limits   ❓1
 * ❓💵 Paul Jewell

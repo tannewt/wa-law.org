@@ -28,7 +28,7 @@
 
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
 
-### [HB 1440](/bill/2025-26/hb/1440/) - Civil forfeiture proceedings 👍1  
+### [HB 1440](/bill/2025-26/hb/1440/) - Civil forfeiture proceedings 👍2  
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 
@@ -67,11 +67,11 @@
 
 ### [SB 5259](/bill/2025-26/sb/5259/) - Commercial fishing bait tax 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 
 ### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
 
-### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
+### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍2  
 
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice   ❓1
 * ❓ John Flanagan

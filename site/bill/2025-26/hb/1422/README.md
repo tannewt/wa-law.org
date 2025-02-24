@@ -8,6 +8,18 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1422 Drug take-back program
+#### 67 👍 - Pro
+Testifying:
+* 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+
+#### 10 👎 - Con
+Testifying:
+* Dr. Victoria Travis - MED-Project WA LLC
+* Wanda Voigt - Inmar Rx Solutions
+
+#### 1 ❓ - Other
+
 ### Tue 02/11 01:30 PM - Health Care & Wellness (HCW): HB 1422 Drug take-back program
 #### 39 👍 - Pro
 Testifying:

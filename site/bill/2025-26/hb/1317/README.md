@@ -10,6 +10,21 @@
 * 01/18/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 20-24, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-20-24-2025/#:~:text=HB%201317)
 
 ## Meetings
+### Mon 02/24 01:30 PM - Appropriations (APP): HB 1317 Sentences/offenses before 21
+#### 536 👍 - Pro
+Testifying:
+* Jeffrey Ellis
+* 💵Arthur Longworth - TeamChild
+* Jenson Hankins
+* Sarah Leon - Community Justice Alliance
+* 💵Daniel Landsman - FAMM
+* Tom Sahlberg
+* Naomi Smith
+
+#### 35 👎 - Con
+
+#### 3 ❓ - Other
+
 ### Mon 01/20 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1317 Sentences/offenses before 21
 #### 470 👍 - Pro
 Testifying:

@@ -8,16 +8,20 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TR): HB 1862 Train length
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164706&caId=26083&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164706&caId=26083&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164706&caId=26083&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32901&aId=164706&caId=26083&tId=4)
-
-#### 32 👍 - Pro
+#### 433 👍 - Pro
 Testifying:
 * Steve Mazulo - SMART-TD
+* Sara Barry
+* Bill Moyer - Solutionary Rail
 
-#### 6 👎 - Con
+#### 681 👎 - Con
+Testifying:
+* Paul Katovich - Highline Grain Growers, Inc. / CEO
+* 💵Aaron Hunt - Union Pacific Railroad
+* 💵Johan Hellman
+* TaraLyn Fray
+* 💵Scott Hazlegrove - [Pacific Merchant Shipping Association](/org/pacific_merchant_shipping_association/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jason Lewis - Utilities & Transportation Commission

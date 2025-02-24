@@ -25,6 +25,8 @@
 
 ### [HB 1435](/bill/2025-26/hb/1435/) - Law enf. hiring grants 👍1  
 
+### [HB 1440](/bill/2025-26/hb/1440/) - Civil forfeiture proceedings   ❓1
+
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
@@ -39,11 +41,13 @@
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 * 👍 Alex MacBain
 * 👍 Alex MacBain
 
-### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓1
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓2
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 
@@ -53,9 +57,11 @@
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍2  
 
+### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects   ❓1
+
 ### [SB 5201](/bill/2025-26/sb/5201/) - Psychedelic substances 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
 
@@ -69,11 +75,15 @@
 
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
 
-## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+
+## [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
+* 👎 Carrie Wilhelme
 
 ## 2023-24
 
-### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
+### [SB 5757](/bill/2023-24/sb/5757/) - Auto. traffic safety revenue  👎1 
+* 👎 Carrie Wilhelme
 
 ### [HB 1009](/bill/2023-24/hb/1009/) - Military spouse employment 👍2  
 

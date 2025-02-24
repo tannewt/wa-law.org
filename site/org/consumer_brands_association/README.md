@@ -4,15 +4,17 @@
 ### [HB 1071](/bill/2025-26/hb/1071/) - Recycling rates 👍2  
 * 👍💵 Erin Raden
 
-## [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management  👎2 
+### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management  👎2 
 * 👎💵 Erin Raden
 * 👎 Holly Chisas
+
+## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 
+* 👎💵 Holly Chisa
 
 ## 2023-24
 
-### [HB 1150](/bill/2023-24/hb/1150/) - Solid waste management  👎2 
-* 👎💵 Erin Raden
-* 👎 Holly Chisas
+### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management  👎1 
+* 👎💵 Holly Chisa
 
 ### [HB 1131](/bill/2023-24/hb/1131/) - Solid waste management   ❓2
 * ❓ Brendan Flanagan

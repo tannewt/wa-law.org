@@ -20,19 +20,16 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5382 Ballot measure petitions
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164873&caId=26117&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164873&caId=26117&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164873&caId=26117&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32887&aId=164873&caId=26117&tId=4)
-
-#### 31 👍 - Pro
+#### 599 👍 - Pro
 Testifying:
 * 💵Diane Bedwell
 * Margaret Dreyfus
 * Marrene Franich
+* Eric Gonzalez Alfaro - Washington for Equitable Representation
+* Janet Caldwell - [Washington Education Association](/org/washington_education_association/)
+* Robert Boling
 
-#### 1086 👎 - Con
+#### 4145 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Laurie Layne
@@ -42,8 +39,30 @@ Testifying:
 * Teagan Levine
 * Sharon Hanek
 * Elizabeth Zimmermann
+* Bruce Guthrie
+* James Lane
+* James Szatkowski
+* Mark Elliott
+* Jason Mertens
+* Kan Qiu - Let People Vote
+* Sam Reed - Washington Secretary of State, Retired
+* Steve Hobbs - Washington Secretary of State
+* John Hudziak
+* Robert Boling
+* Ming Xu
+* David Pierce
+* DAVID ALWOOD - H2Oasis, Inc.
+* Dakota Manley - Washington State Young Republicans
+* Joe Kunzler - Citizens for Votes on Taxes
+* Sandra Mochizuki
+* Jacqueline Stonas
+* Ashlee Zinda
+* 💵George Allen
+* Anthony Holan
+* MICHAEL STASZAK - NA
+* Ron Martinsen
 
-#### 0 ❓ - Other
+#### 6 ❓ - Other
 
 ### Tue 02/04 01:30 PM - State Government & Elections (SGE): SB 5382 Ballot measure petitions
 #### 1231 👍 - Pro

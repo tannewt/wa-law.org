@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1422/</link>
 		<description>Updates about HB 1422</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 23 Feb 2025 07:11:55 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -91,6 +91,30 @@
 			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-21/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👎Dr. Victoria Travis - MED-Project WA LLC</title>
+			<description>Dr. Victoria Travis signed up to testify Con. They are signed up to represent MED-Project WA LLC.</description>
+			<pubDate>Sat, 22 Feb 2025 02:59:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Dr. Victoria/Travis/2025-02-22 02:59:13</guid>
+		</item>
+		<item>
+			<title>👎Wanda Voigt - Inmar Rx Solutions</title>
+			<description>Wanda Voigt signed up to testify Con. They are signed up to represent Inmar Rx Solutions.</description>
+			<pubDate>Sun, 23 Feb 2025 03:20:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Wanda/Voigt/2025-02-23 03:20:09</guid>
+		</item>
+		<item>
+			<title>👍💵Heather Trim - Zero Waste Washington</title>
+			<description>Heather Trim signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/zero_waste_washington/"&gt;Zero Waste Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 23 Feb 2025 07:11:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Heather/Trim/2025-02-23 07:11:55</guid>
 		</item>
 	</channel>
 </rss>

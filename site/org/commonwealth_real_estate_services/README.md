@@ -14,7 +14,8 @@
 ### [HB 1542](/bill/2025-26/hb/1542/) - Senior independent housing  👎1 
 * 👎💵 Brad Tower
 
-### [HB 1768](/bill/2025-26/hb/1768/) - Manuf. housing purchases  👎1 
+### [HB 1768](/bill/2025-26/hb/1768/) - Manuf. housing purchases  👎2 
+* 👎💵 Brad Tower
 * 👎💵 Brad Tower
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants  👎1 

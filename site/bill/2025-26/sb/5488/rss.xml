@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5488/</link>
 		<description>Updates about SB 5488</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 13 Feb 2025 07:37:10 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 21 Feb 2025 22:56:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -107,6 +107,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Samuel/Martin/2025-02-13 07:37:10</guid>
+		</item>
+		<item>
+			<title>From the desk of your new state senator - Sen. Emily Alvarado</title>
+			<description>News article "From the desk of your new state senator - Sen. Emily Alvarado" from Senate Democrats.</description>
+			<pubDate>Fri, 21 Feb 2025 22:56:50 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/alvarado/2025/02/21/from-the-desk-of-your-new-state-senator-2/#:~:text=5488</guid>
 		</item>
 	</channel>
 </rss>

@@ -17,7 +17,7 @@
 
 ### [HB 1511](/bill/2025-26/hb/1511/) - Ferry captains 👍1  
 
-### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍1  
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍2  
 
 ### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use 👍1  
 
@@ -39,7 +39,7 @@
 
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
 
-### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use 👍1  
+### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use 👍2  
 
 ### [SB 5435](/bill/2025-26/sb/5435/) - Reorganizing and adding subchapter headings to public employees' collective bargaining statutes. 👍1  
 
