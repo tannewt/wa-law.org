@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5186/</link>
 		<description>Updates about SB 5186</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 10:46:14 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 19:20:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -497,6 +497,20 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Tysen/Shaw/2025-02-24 10:46:14</guid>
+		</item>
+		<item>
+			<title>BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus</title>
+			<description>News article "BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus" from Senate Republicans.</description>
+			<pubDate>Mon, 24 Feb 2025 11:54:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205186</guid>
+		</item>
+		<item>
+			<title>Bill to make school bond approval easier in Washington state gains momentum | Washington | thecentersquare.com</title>
+			<description>News article "Bill to make school bond approval easier in Washington state gains momentum | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 24 Feb 2025 19:20:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_287225e0-f307-11ef-a07a-d7b1edb667ab.html#:~:text=Senate%20Bill%205186</guid>
 		</item>
 	</channel>
 </rss>

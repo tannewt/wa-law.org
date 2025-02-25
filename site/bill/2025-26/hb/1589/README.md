@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165022&caId=26220&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165022&caId=26220&tId=4)
 
-#### 450 👍 - Pro
+#### 719 👍 - Pro
 Testifying:
 * 💵Lori Grassi - WA State Chiropractic Association
 * Paul Reed
@@ -24,8 +24,11 @@ Testifying:
 * Anondi Varn
 * Jane Beyer - Office of the Insurance Commissioner
 * Lindsey Lehmuth
+* Meg Curtin Rey-Bear - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
+* Sharon Shadwell - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
+* Kayla Clark
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 1 ❓ - Other
 Testifying:

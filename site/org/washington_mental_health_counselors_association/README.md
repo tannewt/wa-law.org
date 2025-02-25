@@ -8,11 +8,15 @@
 ### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍3  
 * 👍 Sharon Shadwell
 
-## [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers 👍1  
+## [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers 👍3  
+* 👍 Meg Curtin Rey-Bear
+* 👍 Sharon Shadwell
 
 ## 2023-24
 
-### [HB 1589](/bill/2023-24/hb/1589/) - Health carriers & providers 👍1  
+### [HB 1589](/bill/2023-24/hb/1589/) - Health carriers & providers 👍3  
+* 👍 Meg Curtin Rey-Bear
+* 👍 Sharon Shadwell
 
 ### [HB 1069](/bill/2023-24/hb/1069/) - Mental health counselor comp 👍4  
 * 👍 Dominique Avery

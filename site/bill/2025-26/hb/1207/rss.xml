@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1207/</link>
 		<description>Updates about HB 1207</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 12:08:21 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 07:31:02 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -82,6 +82,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Steve/Hobbs/2025-02-24 12:08:21</guid>
+		</item>
+		<item>
+			<title>👎Janet Baker - Board for Judicial Administration</title>
+			<description>Janet Baker signed up to testify Con.</description>
+			<pubDate>Tue, 25 Feb 2025 07:31:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Janet/Baker/2025-02-25 07:31:02</guid>
 		</item>
 	</channel>
 </rss>

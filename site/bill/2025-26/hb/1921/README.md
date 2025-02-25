@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/25/2025 [The Center Square](/org/the_center_square/) - [Op-Ed: Washington considers imposing mileage tax | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8c0a1d9a-f390-11ef-9b20-8b671d5032e9.html#:~:text=House%20Bill%201921)
 * 02/20/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Emergency powers, the mileage tax and more - Senate Republican Caucus](https://src.wastateleg.org/blog/21267/#:~:text=House%20Bill%201921)
 * 02/19/2025 [The Center Square](/org/the_center_square/) - [Washington pay-per-mile proposal draws praise, skepticism | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9f54c21e-ef22-11ef-8783-3b7e85caa576.html#:~:text=House%20Bill%201921)
 * 02/14/2025 [KING5](/org/king5/) - [Washington's pay-per-mile proposal gets committee hearing | king5.com](https://www.king5.com/article/news/politics/state-politics/washington-pay-per-mile-proposal-gets-committee-hearing/281-c6e6e585-cc2d-41ef-b800-7753cb689b61#:~:text=House%20Bill%201921)
@@ -15,6 +16,7 @@
 * 02/11/2025 [FOX13](/org/fox13/) - [Lawmakers propose pay-by-mile charge for WA drivers | FOX 13 Seattle](https://www.fox13seattle.com/news/pay-by-mile-charge-washington#:~:text=House%20Bill%201921)
 * 02/11/2025 [The Center Square](/org/the_center_square/) - [WA lawmaker proposes honor system road usage charge program | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1e4a3bb0-e8c7-11ef-917f-7b4299c57898.html#:~:text=House%20Bill%201921)
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201921)
+* [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201921)
 * [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201921)
 
 ## Meetings

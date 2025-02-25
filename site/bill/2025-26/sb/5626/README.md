@@ -19,12 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164984&caId=26192&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164984&caId=26192&tId=4)
 
-#### 309 👍 - Pro
+#### 355 👍 - Pro
 Testifying:
 * 💵Kaitie Dong - Washington State Budget and Policy Center
 * Sasha Wasserstrom - Washington Immigrant Solidarity Network (WAISN)
+* Duaa-Rahemaah Hunter
 
-#### 359 👎 - Con
+#### 541 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * TaraLyn Fray

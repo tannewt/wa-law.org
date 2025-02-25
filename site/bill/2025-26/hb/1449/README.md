@@ -18,14 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165018&caId=26216&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165018&caId=26216&tId=4)
 
-#### 117 👍 - Pro
+#### 149 👍 - Pro
 Testifying:
 * John Kingsbury - with concerns
 * Joshua Sheets
 
-#### 1010 👎 - Con
+#### 1078 👎 - Con
 Testifying:
-* Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
 * Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

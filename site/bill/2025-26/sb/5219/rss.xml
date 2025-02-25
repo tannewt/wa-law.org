@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5219/</link>
 		<description>Updates about SB 5219</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 23:26:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -124,6 +124,13 @@
 			<pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-24/First reading, referred to Community Safety.</guid>
+		</item>
+		<item>
+			<title>Plan to close facilities for people exiting Washington prisons draws backlash • Washington State Standard</title>
+			<description>News article "Plan to close facilities for people exiting Washington prisons draws backlash • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Mon, 24 Feb 2025 23:26:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/02/24/plan-to-close-facilities-for-people-exiting-washington-prisons-draws-backlash/#:~:text=Senate%20Bill%205219</guid>
 		</item>
 	</channel>
 </rss>

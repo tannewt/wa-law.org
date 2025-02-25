@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201462)
 * 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201462)
 * 02/07/2025 [House Democrats](/org/house_democrats/) - [Duerr bill cuts potent greenhouse gases   – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/07/duerr-bill-cuts-potent-greenhouse-gases/#:~:text=House%20Bill%201462)
 

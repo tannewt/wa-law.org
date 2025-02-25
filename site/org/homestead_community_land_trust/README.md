@@ -8,6 +8,8 @@
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍2  
 
+### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax 👍1  
+
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
 
 ## [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  

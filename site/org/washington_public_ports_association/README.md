@@ -91,6 +91,8 @@
 ### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy   ❓1
 * ❓ Chris Herman
 
+### [HB 2016](/bill/2025-26/hb/2016/) - Capital budget for broadband 👍1  
+
 ### [SB 5034](/bill/2025-26/sb/5034/) - System improvement team 👍1  
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  ❓1
@@ -146,13 +148,14 @@
 
 ### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  
 
-## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍 Chris Herman
+
+## [SB 5734](/bill/2025-26/sb/5734/) - Interstate bridge toll bonds 👍1  
 
 ## 2023-24
 
-### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
-* 👍 Chris Herman
+### [SB 5734](/bill/2023-24/sb/5734/) - Interstate bridge toll bonds 👍1  
 
 ### [HB 1040](/bill/2023-24/hb/1040/) - Aviation & aerospace cmte. 👍1  
 

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/25/2025 [The Center Square](/org/the_center_square/) - [Washington bill seeks to regulate the use of driverless vehicle on state roads | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_fb589e5e-f397-11ef-937f-e7b190b78d95.html#:~:text=House%20Bill%201984)
+
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TR): HB 1984 Autonomous vehicles
 #### 177 👍 - Pro

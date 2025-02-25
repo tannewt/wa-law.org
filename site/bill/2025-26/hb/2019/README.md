@@ -6,23 +6,25 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/24/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=HB%202019)
+
 ## Meetings
 ### Tue 02/25 08:00 AM - Finance (FIN): HB 2019 Estate tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164885&caId=26125&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164885&caId=26125&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164885&caId=26125&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164885&caId=26125&tId=4)
-
-#### 11 👍 - Pro
+#### 16 👍 - Pro
 Testifying:
 * 💵John Burbank
 
-#### 145 👎 - Con
+#### 180 👎 - Con
 Testifying:
 * Christopher Hesse - None
 * Frank Willmann
 * Laurie Lindgren
 * Erika Carleton
+* Tad Sommerville
+* Anthony Holan
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Steve Ewing - Dept. of Revenue
+* Steve Ewing - Dept. of Revenue

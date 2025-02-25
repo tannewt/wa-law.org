@@ -5,10 +5,10 @@
 * 👍 Duncan Taylor
 
 ### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍2  
-* 👍 Megan Managan
+* 👍💵 Megan Managan
 
 ### [HB 1506](/bill/2025-26/hb/1506/) - Credit union-bank merger/tax 👍1  
-* 👍 Megan Managan
+* 👍💵 Megan Managan
 
 ### [HB 1671](/bill/2025-26/hb/1671/) - Personal data privacy  👎1 
 * 👎 Glen Simecek
@@ -25,7 +25,7 @@
 * 👎 Glen Simecek
 
 ### [SB 5080](/bill/2025-26/sb/5080/) - Financial education 👍1  
-* 👍 Megan Managan
+* 👍💵 Megan Managan
 
 ### [SB 5280](/bill/2025-26/sb/5280/) - Virtual currency kiosks 👍1  
 * 👍 Glen Simecek

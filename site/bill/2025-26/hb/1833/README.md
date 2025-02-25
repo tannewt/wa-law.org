@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201833)
 * 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201833)
 
 ## Meetings
@@ -17,10 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164781&caId=26062&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164781&caId=26062&tId=4)
 
-#### 31 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * 💵Crystal Leatherman
+* 💵Morgan Irwin - AWB
 
-#### 6 👎 - Con
+#### 8 👎 - Con
 
 #### 0 ❓ - Other

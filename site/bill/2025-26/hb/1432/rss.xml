@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1432/</link>
 		<description>Updates about HB 1432</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 09:25:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 07:32:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -212,6 +212,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Kathleen/Wedemeyer/2025-02-24 09:25:00</guid>
+		</item>
+		<item>
+			<title>👍Jennifer Kennett - WMHCA</title>
+			<description>Jennifer Kennett signed up to testify Pro. They are signed up to represent WMHCA.</description>
+			<pubDate>Tue, 25 Feb 2025 07:32:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jennifer/Kennett/2025-02-25 07:32:20</guid>
+		</item>
+		<item>
+			<title>👍Shannon Thompson - WMHCA</title>
+			<description>Shannon Thompson signed up to testify Pro. They are signed up to represent WMHCA.</description>
+			<pubDate>Tue, 25 Feb 2025 07:32:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Shannon/Thompson/2025-02-25 07:32:20</guid>
 		</item>
 	</channel>
 </rss>

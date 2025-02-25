@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/24/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205775)
+
 ## Meetings
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5775 Public safety/local tax
 Sign up to testify:
@@ -14,15 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164962&caId=26170&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164962&caId=26170&tId=4)
 
-#### 9 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Joe McDermott - State Relations Director | King County
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 
-#### 831 👎 - Con
+#### 964 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Anthony Holan
 
 #### 1 ❓ - Other

@@ -195,6 +195,8 @@
 
 ### [HB 1984](/bill/2025-26/hb/1984/) - Autonomous vehicles 👍1  
 
+### [HB 2019](/bill/2025-26/hb/2019/) - Estate tax 👍1  
+
 ### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. allocation 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
@@ -300,6 +302,8 @@
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
 
 ### [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
+
+### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
 
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
 

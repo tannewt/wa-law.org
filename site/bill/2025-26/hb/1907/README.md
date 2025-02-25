@@ -7,23 +7,18 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201907)
 * 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201907)
 
 ## Meetings
 ### Tue 02/25 08:00 AM - Finance (FIN): HB 1907 Self-service storage/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164678&caId=26076&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164678&caId=26076&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164678&caId=26076&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164678&caId=26076&tId=4)
-
-#### 27 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 * Sarah Dickmeyer - Plymouth Housing
 
-#### 1264 👎 - Con
+#### 1319 👎 - Con
 Testifying:
 * Patrick Gilroy - Washington Self Storage Association
 * stuart drebick - ADROIT cONTRACTORS INC
@@ -48,5 +43,7 @@ Testifying:
 * William Hart
 * Todd Barker - Osullivan Storage llc
 * Todd Barker - O’Sullivan Storage LLC
+* Rod Kauffman - The Building Owners and Managers Association of Washington State
+* Kevin Wallace - WA Business Properties Assn (WBPA)
 
 #### 3 ❓ - Other

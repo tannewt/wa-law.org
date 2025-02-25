@@ -74,7 +74,8 @@
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
 * ❓💵 Carl Schroeder
 
-### [HB 1218](/bill/2025-26/hb/1218/) - Competency eval. & restor.  👎1 
+### [HB 1218](/bill/2025-26/hb/1218/) - Competency eval. & restor.  👎2 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element   ❓1
@@ -129,7 +130,7 @@
 * 👎💵 Carl Schroeder
 
 ### [HB 1449](/bill/2025-26/hb/1449/) - Home cultivation of cannabis  👎1 
-* 👎 Derrick Nunnally
+* 👎💵 Derrick Nunnally
 
 ### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase   ❓2
 * ❓💵 Candice Bock

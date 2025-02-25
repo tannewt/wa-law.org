@@ -25,7 +25,8 @@
 ### [HB 1762](/bill/2025-26/hb/1762/) - Higher ed./residence req. 👍1  
 * 👍💵 Sienna Jarrard
 
-### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge 👍1  
+### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge 👍2  
+* 👍💵 Sienna Jarrard
 
 ### [SB 5275](/bill/2025-26/sb/5275/) - Passport to careers program 👍1  
 

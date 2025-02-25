@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5007/</link>
 		<description>Updates about SB 5007</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 12:20:04 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 13:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -153,6 +153,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Joy/Gjersvold/2025-02-24 12:20:04</guid>
+		</item>
+		<item>
+			<title>New WA bill would support chronically absent high school students | Cascade PBS</title>
+			<description>News article "New WA bill would support chronically absent high school students | Cascade PBS" from Cascade PBS.</description>
+			<pubDate>Tue, 25 Feb 2025 13:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://crosscut.com/politics/2025/02/new-wa-bill-would-support-chronically-absent-high-school-students#:~:text=Senate%20Bill%205007</guid>
 		</item>
 	</channel>
 </rss>

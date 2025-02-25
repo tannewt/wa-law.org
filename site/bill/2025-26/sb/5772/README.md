@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164976&caId=26184&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164976&caId=26184&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Ronald Moag - Quilcene School District
 
-#### 4 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * Jared Attridge - Valley School District
 * Mandi Rehn - Valley School District
+* Matt Mallery - Mary M Knight SD
 
 #### 0 ❓ - Other

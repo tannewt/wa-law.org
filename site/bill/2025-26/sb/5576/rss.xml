@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5576/</link>
 		<description>Updates about SB 5576</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 12:49:16 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 08:48:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -327,12 +327,35 @@
 			<guid isPermaLink="false">testifier/Zeke/Reister/2025-02-24 09:26:48</guid>
 		</item>
 		<item>
+			<title>👎Sue Ellen White - Washington Hosts Collaborative Alliance</title>
+			<description>Sue Ellen White signed up to testify Con.</description>
+			<pubDate>Mon, 24 Feb 2025 09:37:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sue Ellen/White/2025-02-24 09:37:49</guid>
+		</item>
+		<item>
+			<title>👎Karim Elmaaroufi - Washington Hosts Collaborative Alliance</title>
+			<description>Karim Elmaaroufi signed up to testify Con.</description>
+			<pubDate>Mon, 24 Feb 2025 10:10:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Karim/Elmaaroufi/2025-02-24 10:10:16</guid>
+		</item>
+		<item>
 			<title>👎Donald Ryan - Private citizen</title>
 			<description>Donald Ryan signed up to testify Con. They are signed up to represent Private citizen.</description>
 			<pubDate>Mon, 24 Feb 2025 11:18:42 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Donald/Ryan/2025-02-24 11:18:42</guid>
+		</item>
+		<item>
+			<title>BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus</title>
+			<description>News article "BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus" from Senate Republicans.</description>
+			<pubDate>Mon, 24 Feb 2025 11:54:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205576</guid>
 		</item>
 		<item>
 			<title>👍BRIAN ENSLOW - Washington State Association of Counties</title>
@@ -365,6 +388,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Scott/Lawhon/2025-02-24 12:49:16</guid>
+		</item>
+		<item>
+			<title>👎Anthony Holan - Private citizen</title>
+			<description>Anthony Holan signed up to testify Con.</description>
+			<pubDate>Tue, 25 Feb 2025 06:26:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Anthony/Holan/2025-02-25 06:26:28</guid>
+		</item>
+		<item>
+			<title>👎LISA VIZZINI - Private citizen</title>
+			<description>LISA VIZZINI signed up to testify Con.</description>
+			<pubDate>Tue, 25 Feb 2025 06:46:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/LISA/VIZZINI/2025-02-25 06:46:09</guid>
+		</item>
+		<item>
+			<title>👎David Baumgardner - Private citizen</title>
+			<description>David Baumgardner signed up to testify Con.</description>
+			<pubDate>Tue, 25 Feb 2025 08:48:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/David/Baumgardner/2025-02-25 08:48:20</guid>
 		</item>
 	</channel>
 </rss>

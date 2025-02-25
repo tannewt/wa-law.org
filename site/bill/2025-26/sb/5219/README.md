@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/24/2025 [Washington State Standard](/org/washington_state_standard/) - [Plan to close facilities for people exiting Washington prisons draws backlash • Washington State Standard](https://washingtonstatestandard.com/2025/02/24/plan-to-close-facilities-for-people-exiting-washington-prisons-draws-backlash/#:~:text=Senate%20Bill%205219)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [2025 Legislative Session Update! - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/01/24/2025-legislative-session-update/#:~:text=SB%205219)
 
 ## Meetings

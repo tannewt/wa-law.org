@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/24/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205502)
 * 01/30/2025 [KING5](/org/king5/) - [Bottle bill backers hope 10-cent fee refund will boost recycling in Washington state | king5.com](https://www.king5.com/article/news/politics/state-politics/bottle-bill-backers-hope-10-cent-refund-will-boost-recycling-washington-state/281-42b0811b-bc66-4682-aee3-afef0df99e7e#:~:text=Senate%20Bill%205502)
 
 ## Meetings

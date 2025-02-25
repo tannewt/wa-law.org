@@ -9,15 +9,11 @@
 
 ## Meetings
 ### Tue 02/25 08:00 AM - Finance (FIN): SHB 1847 Distributed alt. energy dev.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=165007&caId=26160&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=165007&caId=26160&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=165007&caId=26160&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=165007&caId=26160&tId=4)
+#### 25 👍 - Pro
 
-#### 24 👍 - Pro
-
-#### 115 👎 - Con
+#### 158 👎 - Con
+Testifying:
+* Anthony Holan
 
 #### 1 ❓ - Other
 Testifying:

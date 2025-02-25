@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/24/2025 [Senate Democrats](/org/senate_democrats/) - [Cortes co-sponsors bills providing tax relief to working families - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/02/24/cortes-co-sponsors-bills-providing-tax-relief-to-working-families/#:~:text=5768)
 * 02/22/2025 [Senate Democrats](/org/senate_democrats/) - [Supporting our public schools - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/02/21/supporting-our-public-schools/#:~:text=SB%205768)
 
 ## Meetings
@@ -17,11 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164954&caId=26162&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164954&caId=26162&tId=4)
 
-#### 190 👍 - Pro
+#### 236 👍 - Pro
 Testifying:
 * 💵Emily Vyhnanek - Washington State Budget and Policy Center
 * Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
-#### 32 👎 - Con
+#### 79 👎 - Con
+Testifying:
+* Anthony Holan
 
 #### 1 ❓ - Other

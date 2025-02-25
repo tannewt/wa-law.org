@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5734/</link>
 		<description>Updates about SB 5734</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 09:45:22 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 06:22:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -85,6 +85,21 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Ron/Arp/2025-02-24 09:45:22</guid>
+		</item>
+		<item>
+			<title>Bistate bridge bill authorizes Washington state to issue bonds to finance project | Washington | thecentersquare.com</title>
+			<description>News article "Bistate bridge bill authorizes Washington state to issue bonds to finance project | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 24 Feb 2025 17:51:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_6fd89978-f302-11ef-818d-2be6dd98a106.html#:~:text=Senate%20Bill%205734</guid>
+		</item>
+		<item>
+			<title>👎Anthony Holan - None</title>
+			<description>Anthony Holan signed up to testify Con.</description>
+			<pubDate>Tue, 25 Feb 2025 06:22:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Anthony/Holan/2025-02-25 06:22:09</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,6 +8,7 @@
 
 ## 📰 Articles
 * 02/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers may tap brakes on specialty license plates • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-lawmakers-may-tap-brakes-on-specialty-license-plates/#:~:text=House%20Bill%201368)
+* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201368)
 * 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201368)
 
 ## Meetings

@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164961&caId=26169&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164961&caId=26169&tId=4)
 
-#### 96 👍 - Pro
+#### 123 👍 - Pro
 Testifying:
 * Andy Billig
 * John Plaza
@@ -30,8 +30,9 @@ Testifying:
 * 💵Heather Kurtenbach - WA Building & Construction Trades Council
 * 💵Neil Hartman - WA State Association of UA Plumbers, Pipefitters and HVAC/R Service Technicians
 * Scott Kennedy - [Alaska Airlines](/org/alaska_airlines/)
+* Yanni Psareas - The Coalition for Renewable Natural Gas
 
-#### 707 👎 - Con
+#### 778 👎 - Con
 Testifying:
 * TaraLyn Fray
 

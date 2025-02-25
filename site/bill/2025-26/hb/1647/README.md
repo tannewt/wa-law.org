@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Wed 02/26 01:30 PM - Appropriations (APP): HB 1647 Surface mine reclamation
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165129&caId=26236&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165129&caId=26236&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165129&caId=26236&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165129&caId=26236&tId=4)
+
+#### 0 👍 - Pro
+
+#### 2 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/11 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1647 Surface mine reclamation
 #### 2 👍 - Pro
 Testifying:

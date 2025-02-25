@@ -9,7 +9,7 @@
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
 * 👍💵 Daniel Olson
 
-### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍2  
 * 👍💵 Daniel Olson
 
 ### [HB 1602](/bill/2025-26/hb/1602/) - Liquor food service options 👍2  
@@ -26,8 +26,9 @@
 * 👎💵 Daniel Olson
 * 👎 Daniel Olsen
 
-### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study   ❓1
+### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study  👎1 ❓1
 * ❓💵 Daniel Olson
+* 👎💵 Daniel Olson
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎2 
 * 👎💵 Daniel Olson

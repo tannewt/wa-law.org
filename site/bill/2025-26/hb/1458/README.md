@@ -10,27 +10,26 @@
 ## 📰 Articles
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201458)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201458)
+* [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201458)
 * [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201458)
 
 ## Meetings
 ### Tue 02/25 09:00 AM - Capital Budget (CB): SHB 1458 Embodied carbon/buildings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164920&caId=26126&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164920&caId=26126&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164920&caId=26126&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164920&caId=26126&tId=4)
-
-#### 154 👍 - Pro
+#### 163 👍 - Pro
 Testifying:
 * Kjell Anderson
 * Todd Beyreuther - Mercer Mass Timber
 * Amie Lewis - New Buildings Institute
 * Kate White Tudor - Natural Resources Defense Council
 * Roger Heeringa
+* 💵Brandon Houskeeper - [American Wood Council](/org/american_wood_council/)
 
-#### 894 👎 - Con
+#### 957 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Anthony Holan
+* 💵Katherine Mahoney - South Sound School Superintendents
+* 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 
 #### 3 ❓ - Other
 Testifying:

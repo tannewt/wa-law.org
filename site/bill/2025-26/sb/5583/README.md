@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/24/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205583)
+
 ## Meetings
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5583 Fishing and hunting licenses
 Sign up to testify:
@@ -16,8 +19,9 @@ Sign up to testify:
 
 #### 4 👍 - Pro
 
-#### 677 👎 - Con
+#### 756 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Anthony Holan
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other

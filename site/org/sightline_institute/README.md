@@ -30,6 +30,8 @@
 * 👍💵 Shannon Grimes
 * 👍💵 Shannon Grimes
 
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 * 👍💵 Laura Feinstein
 

@@ -8,16 +8,13 @@
 
 ## Meetings
 ### Tue 02/25 09:00 AM - Capital Budget (CB): HB 2016 Capital budget for broadband
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164923&caId=26129&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164923&caId=26129&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164923&caId=26129&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164923&caId=26129&tId=4)
-
-#### 3 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Scott Richards - WA Public Utility Districts Association
+* 💵Axel Swanson - Washington State Association of County Engineers
 
-#### 76 👎 - Con
+#### 116 👎 - Con
+Testifying:
+* Anthony Holan
 
 #### 0 ❓ - Other

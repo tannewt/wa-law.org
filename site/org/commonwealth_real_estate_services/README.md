@@ -28,11 +28,15 @@
 * 👍💵 Brad Tower
 * 👍💵 Brad Tower
 
-## [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption 👍1  
+### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption 👍1  
+
+## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants   ❓1
+* ❓💵 Brad Tower
 
 ## 2023-24
 
-### [SB 5661](/bill/2023-24/sb/5661/) - Landlord-tenant/preemption 👍1  
+### [SB 5771](/bill/2023-24/sb/5771/) - WFTC increase/tenants   ❓1
+* ❓💵 Brad Tower
 
 ### [HB 1124](/bill/2023-24/hb/1124/) - Residential rent and fees  👎2 
 * 👎💵 Brad Tower

@@ -97,7 +97,8 @@
 
 ### [HB 1887](/bill/2025-26/hb/1887/) - Data broker registry & tax  👎1 
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
+* 👎💵 Julia Gorton
 * 👎💵 Julia Gorton
 
 ### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates 👍1  

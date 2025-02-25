@@ -9,7 +9,9 @@
 
 ## 📰 Articles
 * 02/21/2025 [KING5](/org/king5/) - [In Session: ‘Homes for Heroes Act’ would help public servants buy homes in Washington | king5.com](https://www.king5.com/article/news/politics/in-session/homes-for-heroes-act-impacts-washington-state/281-780f95bd-9c62-44bb-b111-c581d5696d59#:~:text=House%20Bill%201022)
+* 02/15/2025 [House Republicans](/org/house_republicans/) - [Housing and rent control | Washington State House Republicans](http://houserepublicans.wa.gov/current/housing-and-rent-control/#:~:text=House%20Bill%201022)
 * 02/15/2025 [House Republicans](/org/house_republicans/) - [Housing and rent control | Washington State House Republicans](https://houserepublicans.wa.gov/current/housing-and-rent-control/#:~:text=House%20Bill%201022)
+* 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201022)
 * 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201022)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201022)
 * 01/20/2025 [The Center Square](/org/the_center_square/) - [Homes for Heroes bill advancing in Olympia | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_0f39046c-d783-11ef-bd79-ef6157cd1187.html#:~:text=House%20Bill%201022)

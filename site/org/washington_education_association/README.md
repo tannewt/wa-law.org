@@ -279,6 +279,8 @@
 
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍1  
 
+### [HB 2019](/bill/2025-26/hb/2019/) - Estate tax 👍1  
+
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
@@ -494,6 +496,8 @@
 
 ### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍2  
 
+### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
+
 ### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining 👍1  
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
@@ -556,6 +560,10 @@
 ### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank 👍1  
 
 ### [SB 5756](/bill/2025-26/sb/5756/) - Working minors 👍1  
+
+### [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍1  
+
+### [SB 5770](/bill/2025-26/sb/5770/) - Primary residence/tax 👍1  
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍4  ❓1
 * ❓💵 Julie Salvi

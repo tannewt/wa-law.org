@@ -5,6 +5,8 @@
 
 ### [HB 1206](/bill/2025-26/hb/1206/) - Expanding eligibility to utilize the multifamily tax exemption program to all counties required or choosing to plan under RCW 36.70A.040.  👎1 
 
+### [HB 1218](/bill/2025-26/hb/1218/) - Competency eval. & restor.  👎1 
+
 ### [HB 1321](/bill/2025-26/hb/1321/) - Outside militia activities  👎1 
 
 ### [HB 1339](/bill/2025-26/hb/1339/) - Even-numbered year elections  👎1 
@@ -16,9 +18,13 @@
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets  👎1 
 
+### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
+
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration  👎1 
 
 ### [HB 1938](/bill/2025-26/hb/1938/) - State flag redesign  👎1 
+
+### [HB 1969](/bill/2025-26/hb/1969/) - Law enf. aviation support 👍1  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎2 
 
@@ -33,12 +39,12 @@
 ### [SB 5635](/bill/2025-26/sb/5635/) - Alt. on-site sewage systems 👍1  
 * 👍 Commissioner Josh Kerns
 
-## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste 👍1  
+## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste 👍2  
 * 👍 KYLE TWOHIG
 
 ## 2023-24
 
-### [SB 5703](/bill/2023-24/sb/5703/) - Municipal solid waste 👍1  
+### [SB 5703](/bill/2023-24/sb/5703/) - Municipal solid waste 👍2  
 * 👍 KYLE TWOHIG
 
 ### [HB 1125](/bill/2023-24/hb/1125/) - Transportation budget   ❓1

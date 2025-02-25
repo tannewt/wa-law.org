@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/24/2025 [MyNorthwest](/org/mynorthwest/) - [WA lawmakers reignite firearm permit fight after failing last year](https://mynorthwest.com/mynorthwest-politics/firearm-permit/4051957#:~:text=House%20Bill%201902)
 * 12/10/2024 [Gorge News Center](/org/gorge_news_center/) - [Gun group wants new taxes and permits for WA firearm sales](https://gorgenewscenter.com/2024/12/10/gun-group-wants-new-taxes-and-permits-for-wa-firearm-sales/#:~:text=bill%20last%20session)
 * 02/19/2024 [House Republicans](/org/house_republicans/) - [Initiatives, bill updates, state budgets, and the week ahead | Washington State House Republicans](http://houserepublicans.wa.gov/current/initiatives-bill-updates-state-budgets-and-the-week-ahead/#:~:text=House%20Bill%201902)
 * 02/05/2024 [Washington St Pta](/org/washington_st_pta/) - [Bills advance, falter as Legislature reaches committee cutoffs - WSPTA](https://www.wastatepta.org/bills-advance-falter-as-legislature-reaches-committee-cutoffs/#:~:text=HB%201902)

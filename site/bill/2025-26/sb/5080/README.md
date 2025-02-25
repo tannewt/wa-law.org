@@ -24,7 +24,7 @@ Testifying:
 * LORI HAIRSTON
 * Lori Hairston
 * Dakota Manley - Washington State Young Republicans
-* Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
+* 💵Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
 * 💵Paula Sardinas - WBBA (WA Build Back Black Alliance
 * Dwija Adamala
 * Andrew Cun - Westbank financials

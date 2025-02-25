@@ -20,9 +20,10 @@ Testifying:
 * Heather Hirotaka - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 * Steve Hobbs - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 45 👎 - Con
+#### 87 👎 - Con
 Testifying:
 * Christopher Stanley - Board for Judicial Administration
+* Janet Baker
 
 #### 0 ❓ - Other
 

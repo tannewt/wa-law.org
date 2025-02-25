@@ -15,14 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165017&caId=26215&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165017&caId=26215&tId=4)
 
-#### 279 👍 - Pro
+#### 423 👍 - Pro
 Testifying:
 * 💵Anna Nepomuceno - NAMI Washington and Patients Coalition of Washington
 * Jake Swanton - Inseparable
 * Brian Allender
 * Lindsey Lehmuth
+* Jennifer Kennett - WMHCA
+* Shannon Thompson - WMHCA
 
-#### 8 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Kathleen Wedemeyer - Citizens Commission on Human Rights
 

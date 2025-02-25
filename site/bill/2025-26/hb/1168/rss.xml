@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1168/</link>
 		<description>Updates about HB 1168</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 11:43:18 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 09:14:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -157,6 +157,13 @@
 			<description>News article "The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans" from House Republicans.</description>
 			<pubDate>Fri, 21 Feb 2025 21:37:09 GMT</pubDate>
 			<category>news</category>
+			<guid isPermaLink="true">http://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201168</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 21 Feb 2025 21:37:09 GMT</pubDate>
+			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201168</guid>
 		</item>
 		<item>
@@ -286,6 +293,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Noah/Williams/2025-02-24 11:43:18</guid>
+		</item>
+		<item>
+			<title>👍💵Paula Sardinas - WBBA</title>
+			<description>Paula Sardinas signed up to testify Pro. They are signed up to represent WBBA. They are a registered lobbyist.</description>
+			<pubDate>Tue, 25 Feb 2025 09:14:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paula/Sardinas/2025-02-25 09:14:00</guid>
 		</item>
 	</channel>
 </rss>

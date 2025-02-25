@@ -7,18 +7,13 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201839)
 * 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201839)
 * 12/02/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2025 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/2025-legislative-agenda/#:~:text=House%20Bill%201839)
 
 ## Meetings
 ### Tue 02/25 08:00 AM - Finance (FIN): HB 1839 Advanced computing surcharge
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164677&caId=26075&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164677&caId=26075&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164677&caId=26075&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164677&caId=26075&tId=4)
-
-#### 290 👍 - Pro
+#### 305 👍 - Pro
 Testifying:
 * Nicholas Dumouchel - Communities for Our College
 * Angelita Cervantes - Communities for Our College
@@ -30,9 +25,13 @@ Testifying:
 * Susan Wilson - AFT Washington
 * Michael Panitz
 * 💵John Burbank
+* 💵Nathan Tippmann - Geoduck Student Union
+* 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
+* 💵Collin Bannister - The Washington Student Association
+* Terrell Stalworth - Associated Students of Tacoma Community College
 * Sanika Kabbur
 
-#### 76 👎 - Con
+#### 109 👎 - Con
 Testifying:
 * 💵Rose Feliciano - TechNet
 * 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)

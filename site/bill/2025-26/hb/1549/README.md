@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Tue 02/25 09:00 AM - Capital Budget (CB): SHB 1549 Responsible bidder criteria
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164758&caId=26066&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164758&caId=26066&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164758&caId=26066&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164758&caId=26066&tId=4)
-
-#### 102 👍 - Pro
+#### 108 👍 - Pro
 Testifying:
 * Chris Ellis - Bricklayers and Allied Craftworkers L 1 WA/AK
 * 💵Erin Frasier - Washington State Building & Construction Trades Council
@@ -28,7 +22,9 @@ Testifying:
 
 #### 3 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Michael Transue - Mechanical Contractors Association of Western Washington
 
 ### Tue 02/04 10:30 AM - Labor & Workplace Standards (LAWS): HB 1549 Responsible bidder criteria
 #### 72 👍 - Pro

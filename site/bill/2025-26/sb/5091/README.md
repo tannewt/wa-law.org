@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/24/2025 [The Center Square](/org/the_center_square/) - [WA truckers want to hit the brakes on California-style emission rules | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5ece718c-f250-11ef-91e8-f79e9d229f21.html#:~:text=Senate%20Bill%205091)
+
 ## Meetings
 ### Fri 02/21 10:30 AM - Environment, Energy & Technology (ENET): SB 5091 Motor vehicle emissions
 #### 1848 👍 - Pro

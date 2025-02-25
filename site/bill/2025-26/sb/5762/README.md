@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/24/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205762)
+
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SB 5762 988 line tax
 Sign up to testify:
@@ -16,7 +19,7 @@ Sign up to testify:
 
 #### 6 👍 - Pro
 
-#### 1172 👎 - Con
+#### 1194 👎 - Con
 Testifying:
 * Jeff Gombosky - CTIA - The Wireless Association
 * 💵Rose Feliciano - TechNet

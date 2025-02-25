@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1958/</link>
 		<description>Updates about HB 1958</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 10:31:44 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 17:51:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -101,6 +101,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Margaret/Tweet/2025-02-24 10:31:44</guid>
+		</item>
+		<item>
+			<title>Bistate bridge bill authorizes Washington state to issue bonds to finance project | Washington | thecentersquare.com</title>
+			<description>News article "Bistate bridge bill authorizes Washington state to issue bonds to finance project | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 24 Feb 2025 17:51:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_6fd89978-f302-11ef-818d-2be6dd98a106.html#:~:text=House%20Bill%201958’s</guid>
 		</item>
 	</channel>
 </rss>

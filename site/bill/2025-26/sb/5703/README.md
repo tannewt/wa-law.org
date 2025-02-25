@@ -17,13 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164982&caId=26190&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164982&caId=26190&tId=4)
 
-#### 15 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Betsy Wilkerson - Spokane City Council President
 * James Tieken - AFSCME Local 270, Spokane City Employees
 * Mayor Lisa Brown - [City of Spokane](/org/city_of_spokane/)
 
-#### 68 👎 - Con
+#### 69 👎 - Con
 
 #### 0 ❓ - Other
 

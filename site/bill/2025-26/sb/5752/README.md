@@ -17,9 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164971&caId=26179&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164971&caId=26179&tId=4)
 
-#### 28 👍 - Pro
+#### 32 👍 - Pro
+Testifying:
+* Bob Rudolph
 
-#### 1242 👎 - Con
+#### 1434 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Stephanie Smith
@@ -32,5 +34,6 @@ Testifying:
 * Caitlin Lankford - Lilac City Early Learning Center
 * Tasha Fitzgerald
 * 💵Minna Long - Washington State Building & Construction Trades Council
+* Kelcey Olson
 
 #### 7 ❓ - Other

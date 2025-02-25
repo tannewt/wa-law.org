@@ -15,13 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164997&caId=26205&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164997&caId=26205&tId=4)
 
-#### 66 👍 - Pro
+#### 78 👍 - Pro
 
-#### 193 👎 - Con
+#### 344 👎 - Con
 Testifying:
 * TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 02/14 10:30 AM - Housing (HSG): SB 5686 Foreclosure mediation prg.
 #### 111 👍 - Pro

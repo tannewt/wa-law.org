@@ -18,13 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164996&caId=26204&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164996&caId=26204&tId=4)
 
-#### 91 👍 - Pro
+#### 109 👍 - Pro
 
-#### 191 👎 - Con
+#### 330 👎 - Con
 Testifying:
 * TaraLyn Fray
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Briahna Murray - [City of Tacoma](/org/city_of_tacoma/)
 

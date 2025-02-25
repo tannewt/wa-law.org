@@ -21,7 +21,7 @@
 ### Thu 01/23 08:30 AM - Education (ED): HB 1285 Financial education
 #### 134 👍 - Pro
 Testifying:
-* Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
+* 💵Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
 * Benjamin Blackerby - Ashwin Teen Financial Academy (ATFA) 501 (c)(3) Organization
 * Luke Novak - Ashwin Teen Financial Academy (ATFA) 501 (c)(3) Organization
 * Tracy Godat - Financial Education Public Private Partnership

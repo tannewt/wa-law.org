@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/24/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Report: Many local college students face food insecurity, but the struggle meeting basic needs is statewide | Cascadia Daily News](https://www.cascadiadaily.com/2025/feb/24/report-many-local-college-students-face-food-insecurity-but-the-struggle-meeting-basic-needs-is-statewide/#:~:text=HB%201540)
 * 02/21/2025 [The Center Square](/org/the_center_square/) - [Slew of bills pass out of the Washington House of Representatives | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_67329b24-eff2-11ef-8f14-c7be1b7a4b31.html#:~:text=House%20Bill%201540)
 
 ## Meetings

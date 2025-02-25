@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5332/</link>
 		<description>Updates about SB 5332</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 06:51:38 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 12:47:17 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -171,6 +171,14 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-02-24 06:51:38</guid>
+		</item>
+		<item>
+			<title>👎Kerri Burnside - Bellingham Tenants Union</title>
+			<description>Kerri Burnside signed up to testify Con. They are signed up to represent Bellingham Tenants Union.</description>
+			<pubDate>Tue, 25 Feb 2025 12:47:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kerri/Burnside/2025-02-25 12:47:17</guid>
 		</item>
 	</channel>
 </rss>

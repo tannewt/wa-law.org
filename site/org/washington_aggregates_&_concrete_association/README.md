@@ -6,7 +6,8 @@
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice  👎2 
 * 👎💵 Cory Shaw
 
-### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings  👎1 
+### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings  👎2 
+* 👎💵 Cory Shaw
 * 👎💵 Cory Shaw
 
 ### [HB 1647](/bill/2025-26/hb/1647/) - Surface mine reclamation 👍1  
@@ -25,7 +26,8 @@
 
 ### [HB 1966](/bill/2025-26/hb/1966/) - Public works contracting 👍1  
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
+* 👎💵 Cory Shaw
 * 👎💵 Cory Shaw
 
 ### [SB 5319](/bill/2025-26/sb/5319/) - Surface mine reclamation 👍1  

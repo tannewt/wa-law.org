@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5091/</link>
 		<description>Updates about SB 5091</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Feb 2025 09:09:48 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 14:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -276,6 +276,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Morgan/Irwin/2025-02-21 09:09:48</guid>
+		</item>
+		<item>
+			<title>WA truckers want to hit the brakes on California-style emission rules | Washington | thecentersquare.com</title>
+			<description>News article "WA truckers want to hit the brakes on California-style emission rules | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 24 Feb 2025 14:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_5ece718c-f250-11ef-91e8-f79e9d229f21.html#:~:text=Senate%20Bill%205091</guid>
 		</item>
 	</channel>
 </rss>

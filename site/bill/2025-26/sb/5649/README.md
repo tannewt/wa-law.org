@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164801&caId=26057&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164801&caId=26057&tId=4)
 
-#### 151 👍 - Pro
+#### 211 👍 - Pro
 Testifying:
 * Paul Jarkiewicz - Port Of Port Angeles
 * Paul Jarkiewicz - [Port of Port Angeles](/org/port_of_port_angeles/)
@@ -23,7 +23,8 @@ Testifying:
 * Sean Eagan - Northwest Seaport Alliance
 * Adam LeMieux - [Port of Everett](/org/port_of_everett/)
 * Cassie Hammond - Port of Benton
+* Bruce Agnew - Pacific NW Economic Region Transportation Accelerator
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other

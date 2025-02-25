@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201168)
 * 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201168)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201168)
 
@@ -19,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164780&caId=26061&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164780&caId=26061&tId=4)
 
-#### 13 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Anish Sharma
 * Jai Jaisimha - Transparency Coalition.ai
@@ -31,8 +32,9 @@ Testifying:
 * Iyas Abdel Rahman
 * Muhammad Mahmood
 * Noah Williams - Lake Washington High School
+* 💵Paula Sardinas - WBBA
 
-#### 13 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * 💵Rose Feliciano - TECHNET
 * 💵Crystal Leatherman

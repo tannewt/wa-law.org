@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165026&caId=26224&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165026&caId=26224&tId=4)
 
-#### 48 👍 - Pro
+#### 80 👍 - Pro
 Testifying:
 * 💵John Rothlin - [Avista Corp](/org/avista_corp/)
 * 💵Matt Miller - [Puget Sound Energy](/org/puget_sound_energy_inc/)

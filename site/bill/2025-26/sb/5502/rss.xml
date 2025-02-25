@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5502/</link>
 		<description>Updates about SB 5502</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 10:51:57 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 11:54:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -474,6 +474,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Peter/Lyon/2025-02-24 10:51:57</guid>
+		</item>
+		<item>
+			<title>BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus</title>
+			<description>News article "BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus" from Senate Republicans.</description>
+			<pubDate>Mon, 24 Feb 2025 11:54:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205502</guid>
 		</item>
 	</channel>
 </rss>

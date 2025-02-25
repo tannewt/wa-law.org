@@ -32,8 +32,9 @@
 * 👎 Josh McDonald
 * 👎 Josh McDonald
 
-### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study   ❓1
+### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study  👎1 ❓1
 * ❓ Josh McDonald
+* 👎 Josh McDonald
 
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
 * 👍 Josh McDonald

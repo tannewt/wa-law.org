@@ -15,12 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164964&caId=26172&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164964&caId=26172&tId=4)
 
-#### 154 👍 - Pro
+#### 215 👍 - Pro
 Testifying:
 * Cathleen MacCaul - AARP Washington State
 * 💵Melanie Smith - WA State LTC Ombuds Program
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 1 ❓ - Other
 

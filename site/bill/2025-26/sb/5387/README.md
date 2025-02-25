@@ -22,13 +22,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164986&caId=26194&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164986&caId=26194&tId=4)
 
-#### 89 👍 - Pro
+#### 135 👍 - Pro
 Testifying:
 * Jay Dr. Lopez
 
-#### 181 👎 - Con
+#### 325 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Mary Ann Lebold
 
 #### 1 ❓ - Other
 

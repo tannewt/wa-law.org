@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/24/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205576)
+
 ## Meetings
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5576 Affordable housing funding
 Sign up to testify:
@@ -14,7 +17,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164960&caId=26168&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164960&caId=26168&tId=4)
 
-#### 35 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Carl Florea - [City of Leavenworth](/org/city_of_leavenworth/)
 * Caitlin Sullivan
@@ -25,7 +28,7 @@ Testifying:
 * Zeke Reister - resident of Leavenworth
 * BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 204 👎 - Con
+#### 267 👎 - Con
 Testifying:
 * Owen Johnson - Propertyfinderz, Co
 * Richard Moser - Washington hosts collaborative alliance
@@ -57,10 +60,15 @@ Testifying:
 * Steve Carr
 * Kirsten Evangelista
 * Carolyn Allen - Washington Hosts Collaborative Alliance
+* Sue Ellen White
+* Karim Elmaaroufi
 * Donald Ryan - Private citizen
 * James McQuillan
 * Janet Spesock
 * Scott Lawhon
+* Anthony Holan
+* LISA VIZZINI
+* David Baumgardner
 
 #### 1 ❓ - Other
 Testifying:

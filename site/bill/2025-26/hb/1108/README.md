@@ -15,9 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165012&caId=26210&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165012&caId=26210&tId=4)
 
-#### 19 👍 - Pro
+#### 23 👍 - Pro
+Testifying:
+* 💵Paula Sardinas - WBBA/FMS Global Strategies.com
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other
 

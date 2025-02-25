@@ -15,11 +15,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164947&caId=26154&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164947&caId=26154&tId=4)
 
-#### 34 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Jeff Gombosky - [Washington Health Care Association](/org/washington_health_care_association/)
 
-#### 14 👎 - Con
+#### 16 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/24/2025 [The Center Square](/org/the_center_square/) - [Bistate bridge bill authorizes Washington state to issue bonds to finance project | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_6fd89978-f302-11ef-818d-2be6dd98a106.html#:~:text=House%20Bill%201958’s)
+
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TR): HB 1958 Interstate bridge toll bonds
 #### 29 👍 - Pro

@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165015&caId=26213&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165015&caId=26213&tId=4)
 
-#### 395 👍 - Pro
+#### 454 👍 - Pro
 Testifying:
 * Arsema Baraki
 * Bob LeRoy - The Long Term Care Foundation
@@ -25,7 +25,7 @@ Testifying:
 
 #### 3 👎 - Con
 
-#### 7 ❓ - Other
+#### 8 ❓ - Other
 
 ### Tue 01/28 10:30 AM - Labor & Workplace Standards (LAWS): HB 1398 Adult family home arb.
 #### 1353 👍 - Pro

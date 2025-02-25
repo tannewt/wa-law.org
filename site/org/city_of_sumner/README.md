@@ -5,7 +5,7 @@
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev  👎1 
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev  👎2 
 * 👎 Ryan Windish
 
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  

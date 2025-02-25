@@ -15,13 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164985&caId=26193&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164985&caId=26193&tId=4)
 
-#### 58 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * 💵Minna Long - Washington State Building & Construction Trades Council
 * 💵Ray Dumas - OPCMIA Local 528
 * Sean Scholes
+* Armando Sanchez - Local 86 Ironworkers
 
-#### 273 👎 - Con
+#### 428 👎 - Con
 Testifying:
 * TaraLyn Fray
 

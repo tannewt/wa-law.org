@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 
-#### 1324 👎 - Con
+#### 1482 👎 - Con
 Testifying:
 * TaraLyn Fray
 

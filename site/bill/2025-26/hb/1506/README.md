@@ -13,7 +13,7 @@
 ### Tue 02/18 08:00 AM - Finance (FIN): HB 1506 Credit union-bank merger/tax
 #### 125 👍 - Pro
 Testifying:
-* Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
+* 💵Megan Managan - [Washington Bankers Association](/org/washington_bankers_association/)
 * 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * Josh Deck - Olympia Federal Savings
 * Eric Sprink - Coastal Community Bank

@@ -114,11 +114,13 @@
 
 ### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
 
-## [SB 5731](/bill/2025-26/sb/5731/) - Tenant assistance program  👎1 
+### [SB 5731](/bill/2025-26/sb/5731/) - Tenant assistance program  👎1 
+
+## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
 
 ## 2023-24
 
-### [SB 5731](/bill/2023-24/sb/5731/) - Tenant assistance program  👎1 
+### [SB 5752](/bill/2023-24/sb/5752/) - Child care & early dev.  👎1 
 
 ### [HB 1022](/bill/2023-24/hb/1022/) - Support & services levies 👍1  
 

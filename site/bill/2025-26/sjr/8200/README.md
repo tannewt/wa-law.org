@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/24/2025 [The Center Square](/org/the_center_square/) - [Bill to make school bond approval easier in Washington state gains momentum | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_287225e0-f307-11ef-a07a-d7b1edb667ab.html#:~:text=Senate%20Joint%20Resolution%208200)
+* 02/24/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SJR%208200)
 * 02/19/2025 [Senate Democrats](/org/senate_democrats/) - [It’s time to give communities the tools to fund their schools - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/02/18/its-time-to-give-communities-the-tools-to-fund-their-schools/#:~:text=Senate%20Joint%20Resolution%208200)
 * 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=SJR%208200)
 * 02/14/2025 [The Center Square](/org/the_center_square/) - [Legislation could make school bond approval easier in Washington state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_00347752-eb07-11ef-bdcc-c33cecbc677d.html#:~:text=Senate%20Joint%20Resolution%208200)

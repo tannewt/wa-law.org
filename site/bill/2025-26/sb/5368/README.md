@@ -15,14 +15,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164956&caId=26164&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164956&caId=26164&tId=4)
 
-#### 12 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * 💵Vicki Christophersen - Assoc. of WA Spirits and Wine Distributors
 * 💵Carrie Tellefson - RNDC
 * 💵Katie Beeson - Washington Food Industry Association
 * Charlie Brown - [Diageo](/org/diageo/)
+* John Gainza
+* Lisa Cole - Southern Glazers Wine and Spirits
 
-#### 1 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Josh McDonald - [Washington Wine Institute](/org/washington_wine_institute/)
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* 💵Scott Hazlegrove - WA Beer & Wine Distributors Association
 
 #### 0 ❓ - Other
 

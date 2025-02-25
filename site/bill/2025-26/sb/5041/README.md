@@ -20,9 +20,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164974&caId=26182&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164974&caId=26182&tId=4)
 
-#### 498 👍 - Pro
+#### 589 👍 - Pro
+Testifying:
+* Joe Kendo - Washington State Labor Council, AFL-CIO
+* 💵Brenda Wiest - Teamsters117
 
-#### 942 👎 - Con
+#### 1112 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Patrick Connor - NFIB
@@ -30,8 +33,13 @@ Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * 💵Jennifer Ziegler - Aerospace Futures Alliance
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Anthony Holan
+* 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
+* Charlie Brown - South Sound Superintendents
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Mike Ennis - Building Industry Association of Washington (BIAW)
 
-#### 9 ❓ - Other
+#### 11 ❓ - Other
 
 ### Tue 01/21 10:30 AM - Labor & Commerce (LC): SB 5041 Unemp ins/strikes & lockouts
 #### 1283 👍 - Pro

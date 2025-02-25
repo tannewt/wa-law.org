@@ -18,9 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165092&caId=26226&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165092&caId=26226&tId=4)
 
-#### 126 👍 - Pro
+#### 218 👍 - Pro
+Testifying:
+* 💵Nickeia Hunter - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 
-#### 10 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

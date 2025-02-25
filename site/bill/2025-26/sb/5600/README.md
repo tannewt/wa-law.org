@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/24/2025 [Axios](/org/axios/) - [Washington state could cap Uber and Lyft surge pricing ahead of World Cup in Seattle - Axios Seattle](https://www.axios.com/local/seattle/2025/02/24/uber-lyft-surge-pricing-world-cup-law#:~:text=Senate%20Bill%205600)
 * 02/21/2025 [Senate Democrats](/org/senate_democrats/) - [From the desk of your new state senator - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/02/21/from-the-desk-of-your-new-state-senator-2/#:~:text=5600)
 
 ## Meetings

@@ -22,12 +22,12 @@ Testifying:
 * RoseMary LaClair - Chair, Nooksack Indian Tribe
 * Kevin Long - North Olympic Salmon Coalition
 
-#### 193 👎 - Con
+#### 338 👎 - Con
 Testifying:
 * john worthington
 * TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 01/23 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5155 Salmon recovery projects
 #### 44 👍 - Pro

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/24/2025 [KUOW](/org/kuow/) - [KUOW - Tesla's direct car sales loophole survives in Washington state — for now](https://www.kuow.org/stories/tesla-s-washington-loophole-survives-for-another-year#:~:text=5377)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [Standing strong, moving forward - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/02/07/standing-strong-moving-forward/#:~:text=SB%205377)
 * 02/04/2025 [The Center Square](/org/the_center_square/) - [Proposed legislation would pull the plug on Tesla’s EV sales advantage in WA | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d5b3ce26-e343-11ef-a095-c38b117fec61.html#:~:text=Senate%20Bill%205377)
 

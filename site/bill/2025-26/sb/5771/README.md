@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/24/2025 [Senate Democrats](/org/senate_democrats/) - [Cortes co-sponsors bills providing tax relief to working families - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/02/24/cortes-co-sponsors-bills-providing-tax-relief-to-working-families/#:~:text=5771)
 * 02/22/2025 [Senate Democrats](/org/senate_democrats/) - [Supporting our public schools - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/02/21/supporting-our-public-schools/#:~:text=SB%205771)
 
 ## Meetings
@@ -17,12 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164955&caId=26163&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164955&caId=26163&tId=4)
 
-#### 131 👍 - Pro
+#### 166 👍 - Pro
 Testifying:
 * John Wilson - Office of Assessments/King County Assessor John Wilson
 
-#### 33 👎 - Con
+#### 81 👎 - Con
 Testifying:
 * Carmen Yanez
+* Anthony Holan
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)

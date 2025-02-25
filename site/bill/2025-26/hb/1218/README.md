@@ -11,6 +11,21 @@
 * 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201218)
 
 ## Meetings
+### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1218 Competency eval. & restor.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165115&caId=26229&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165115&caId=26229&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165115&caId=26229&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165115&caId=26229&tId=4)
+
+#### 1 👍 - Pro
+
+#### 2 👎 - Con
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+
+#### 0 ❓ - Other
+
 ### Wed 01/15 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1218 Concerning persons referred for competency evaluation and restoration services. (Remote Testimony Available). (If measure is referred to committee.)
 #### 10 👍 - Pro
 Testifying:

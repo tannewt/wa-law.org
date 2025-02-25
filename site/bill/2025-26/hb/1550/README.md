@@ -15,19 +15,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165021&caId=26219&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165021&caId=26219&tId=4)
 
-#### 139 👍 - Pro
+#### 226 👍 - Pro
 Testifying:
 * 💵James King - [Automotive Recyclers of Washington](/org/automotive_recyclers_of_washington/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 10 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * 💵Holly Chisa - ReMA
 * Catalina Jelkh Pareja - LKQ Corporation
 * 💵Brandon Houskeeper - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
 * P Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Daniel Zotos
 * 💵Jennifer Ziegler - Toyota Motor North America

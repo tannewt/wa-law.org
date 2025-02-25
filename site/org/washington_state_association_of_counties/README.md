@@ -266,7 +266,7 @@
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
 
-### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
+### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍2  
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
 * ❓💵 Curtis Steinhauer

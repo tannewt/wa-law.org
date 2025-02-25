@@ -19,26 +19,25 @@
 
 ## Meetings
 ### Tue 02/25 09:00 AM - Capital Budget (CB): SHB 1491 Transit-oriented housing dev
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164921&caId=26127&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164921&caId=26127&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164921&caId=26127&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164921&caId=26127&tId=4)
-
-#### 1123 👍 - Pro
+#### 1195 👍 - Pro
 Testifying:
 * Dillon Davis
 * Luke Lettice
+* 💵Michele Thomas - WA Low Income Housing Alliance
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 776 👎 - Con
+#### 834 👎 - Con
 Testifying:
 * TaraLyn Fray
 * john worthington
+* Anthony Holan
 
-#### 5 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Todd Tatum - [City of Edmonds](/org/city_of_edmonds/)
+* 💵Morgan Irwin - AWB
+* Salim Nice - Mayor, City Mercer Island
+* 💵Michael Transue - [City of Fife](/org/city_of_fife/)
 
 ### Tue 01/28 04:00 PM - Housing (HOUS): HB 1491 Transit-oriented housing dev
 #### 825 👍 - Pro

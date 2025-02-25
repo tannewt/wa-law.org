@@ -3,7 +3,8 @@
 
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records   ❓1
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓1
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓2
+* ❓💵 Michael Transue
 * ❓💵 Michael Transue
 
 ### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  

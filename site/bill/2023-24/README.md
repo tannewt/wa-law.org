@@ -69,7 +69,7 @@
 * [HB 1513](hb/1513) - Traffic safety 22📰 2025👍 430👎 11❓ - HRules X
 * [HB 1554](hb/1554) - Lead impacts 359👍 2023👎 26❓ - HRules X
 * [HB 2176](hb/2176) - Preventive dental care 261👍 2124👎 14❓ - HHC/Wellness
-* [HB 1902](hb/1902) - Firearms/purchase & transfer 6📰 878👍 1472👎 3❓ - HCivil R & Judi
+* [HB 1902](hb/1902) - Firearms/purchase & transfer 7📰 878👍 1472👎 3❓ - HCivil R & Judi
 * [HB 1932](hb/1932) - Even-numbered year elections 24📰 774👍 1555👎 6❓ - HRules 3C
 * [SB 5389](sb/5389) - Optometry 1📰 615👍 1710👎 5❓ - C 400 L 23
 * [HB 2160](hb/2160) - Housing development 14📰 1559👍 743👎 26❓ - HRules 3C

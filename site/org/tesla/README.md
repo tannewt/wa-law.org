@@ -1,6 +1,8 @@
 # Tesla
 ## 2025-26
 
+### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries  👎1 
+
 ### [HB 1721](/bill/2025-26/hb/1721/) - Zero emissions vehicles/sale   ❓1
 * ❓💵 Noelani Derrickson
 

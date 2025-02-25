@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/25/2025 [Cascade PBS](/org/cascade_pbs/) - [New WA bill would support chronically absent high school students | Cascade PBS](https://crosscut.com/politics/2025/02/new-wa-bill-would-support-chronically-absent-high-school-students#:~:text=Senate%20Bill%205007)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205007)
 
 ## Meetings
