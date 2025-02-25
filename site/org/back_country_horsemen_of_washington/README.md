@@ -7,13 +7,15 @@
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
 
-## [SB 5390](/bill/2025-26/sb/5390/) - Discover pass, day-use cost 👍1  
+## [SB 5390](/bill/2025-26/sb/5390/) - Discover pass, day-use cost 👍3  
 * 👍 Jeff Chapman
+* 👍 Juelanne Dalzell
 
 ## 2023-24
 
-### [SB 5390](/bill/2023-24/sb/5390/) - Discover pass, day-use cost 👍1  
+### [SB 5390](/bill/2023-24/sb/5390/) - Discover pass, day-use cost 👍3  
 * 👍 Jeff Chapman
+* 👍 Juelanne Dalzell
 
 ### [HB 1489](/bill/2023-24/hb/1489/) - Mt. St. Helens license plate 👍1  
 

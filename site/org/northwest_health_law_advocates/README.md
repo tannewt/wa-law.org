@@ -27,7 +27,8 @@
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 
-### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍1  
+### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍2  
+* 👍💵 Emily Brice
 * 👍💵 Emily Brice
 
 ### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  

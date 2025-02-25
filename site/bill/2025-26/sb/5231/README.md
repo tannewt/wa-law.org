@@ -12,11 +12,12 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5231 Confinement fees & expenses
-#### 485 👍 - Pro
+#### 527 👍 - Pro
 Testifying:
 * Bianca Tylek - Worth Rises
+* 💵Hannah Woerner - [Columbia Legal Services](/org/columbia_legal_services/)
 
-#### 735 👎 - Con
+#### 759 👎 - Con
 Testifying:
 * Anthony Holan
 

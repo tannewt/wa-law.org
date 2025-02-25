@@ -34,7 +34,7 @@
 
 ### [HB 1817](/bill/2025-26/hb/1817/) - Schools/sexual assault 👍1  
 
-### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation   ❓1
+### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation   ❓2
 * ❓ Nicholas Oakley
 
 ### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
@@ -51,7 +51,7 @@
 
 ### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍2  
 
-### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile correctional pop.  👎1 
+### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile correctional pop.  👎1 ❓1
 * 👎 William Hairston
 
 ### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍1  

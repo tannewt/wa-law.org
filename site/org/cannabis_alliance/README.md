@@ -1,7 +1,7 @@
 # Cannabis Alliance
 ## 2025-26
 
-### [HB 1449](/bill/2025-26/hb/1449/) - Home cultivation of cannabis 👍1  
+### [HB 1449](/bill/2025-26/hb/1449/) - Home cultivation of cannabis 👍2  
 * 👍 John Kingsbury
 
 ## [HB 1932](/bill/2025-26/hb/1932/) - Cannabis consumption 👍1  

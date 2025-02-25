@@ -15,16 +15,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165021&caId=26219&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165021&caId=26219&tId=4)
 
-#### 53 👍 - Pro
+#### 139 👍 - Pro
 Testifying:
 * 💵James King - [Automotive Recyclers of Washington](/org/automotive_recyclers_of_washington/)
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 2 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * 💵Holly Chisa - ReMA
+* Catalina Jelkh Pareja - LKQ Corporation
+* 💵Brandon Houskeeper - [Alliance for Automotive Innovation](/org/alliance_for_automotive_innovation/)
+* P Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Daniel Zotos
+* 💵Jennifer Ziegler - Toyota Motor North America
 
 ### Mon 02/10 01:30 PM - Environment & Energy (ENVI): HB 1550 Electric vehicle batteries
 #### 294 👍 - Pro

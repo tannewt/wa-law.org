@@ -89,7 +89,7 @@
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages  👎3 
 
-### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
+### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎2 
 
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
 

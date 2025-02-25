@@ -26,13 +26,15 @@
 ### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍1  
 * 👍💵 Paul Dillon
 
-## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste 👍2  
+### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste 👍3  
 * 👍 Mayor Lisa Brown
+* 👍 Mayor Lisa Brown
+
+## [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 
 ## 2023-24
 
-### [SB 5703](/bill/2023-24/sb/5703/) - Municipal solid waste 👍2  
-* 👍 Mayor Lisa Brown
+### [SB 5757](/bill/2023-24/sb/5757/) - Auto. traffic safety revenue  👎1 
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

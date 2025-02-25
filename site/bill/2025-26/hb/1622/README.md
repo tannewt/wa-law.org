@@ -14,11 +14,11 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): HB 1622 Collective bargaining/AI use
-#### 117 👍 - Pro
+#### 161 👍 - Pro
 Testifying:
 * Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
-#### 8 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)

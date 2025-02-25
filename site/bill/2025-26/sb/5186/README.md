@@ -21,7 +21,7 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5186 School district fac. funding
-#### 2821 👍 - Pro
+#### 3044 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - ESD 105 Schools Coalition
 * Monique Dugaw - ESD 112
@@ -44,8 +44,10 @@ Testifying:
 * Joel White - Spokane Home Builders Association
 * Jeff Losey - Home Builders Association of Tri Cities
 * Angela White - Olympia Master Builders
+* Charlie Brown - South Sound Superintendents
+* Tysen Shaw
 
-#### 1762 👎 - Con
+#### 1813 👎 - Con
 Testifying:
 * Lisa Pearson - We, The People of WA
 * John Axtell

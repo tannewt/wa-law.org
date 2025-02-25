@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TR): HB 1970 Highway alt. contracting
-#### 1 👍 - Pro
+#### 8 👍 - Pro
 
 #### 0 👎 - Con
 

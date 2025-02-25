@@ -9,13 +9,14 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TR): SHB 1733 Agency displacement expenses
-#### 8 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Keith Edwards - Catahoula Health LLC
 * Keith Edwards - Catahoula Health LLC dba The Joint Chiropractic West Seattle
 * Philip Gustavson
 * Mac Nicholson - King County Council
 * Jordan Crawley - Alki Beach Academy
+* Erin Rubin - Mode Music Studios
 
 #### 0 👎 - Con
 

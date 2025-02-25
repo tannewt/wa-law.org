@@ -48,17 +48,17 @@
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel  👎1 
 
-### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍1  
+### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍2  
 
 ### [SB 5106](/bill/2025-26/sb/5106/) - Eid al-Fitr & Eid al-Adha 👍1  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍2  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍3  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
@@ -68,7 +68,7 @@
 
 ### [SB 5442](/bill/2025-26/sb/5442/) - College promise pilot 👍1  
 
-### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍3  
+### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍4  
 
 ### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate 👍1  
 

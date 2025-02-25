@@ -32,8 +32,9 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
-### [HB 1449](/bill/2025-26/hb/1449/) - Home cultivation of cannabis  👎1 
+### [HB 1449](/bill/2025-26/hb/1449/) - Home cultivation of cannabis  👎2 
 * 👎💵 Amy Brackenbury
+* 👎 Megan Moore
 
 ### [HB 1459](/bill/2025-26/hb/1459/) - Child fatalities 👍2  
 

@@ -26,7 +26,7 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TRAN): SSB 5098 Weapons in certain areas
-#### 781 👍 - Pro
+#### 794 👍 - Pro
 Testifying:
 * Hannah Fortman
 * Neal Black - [City of Kirkland](/org/city_of_kirkland/)
@@ -46,7 +46,7 @@ Testifying:
 * Paula Barnes
 * Enzo Mensah - Lake Washington High School
 
-#### 4401 👎 - Con
+#### 4528 👎 - Con
 Testifying:
 * Daniel Donley - Donley
 * Shelby Hyde

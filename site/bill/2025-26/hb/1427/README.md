@@ -9,13 +9,13 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1427 Peer support specialists
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Josh Wallace - Peer Washington
 * Jason Clark - Northwest Credible Messenger
 * Stephaine Courtney - The Shades of Motherhood Network
 
-#### 85 👎 - Con
+#### 89 👎 - Con
 
 #### 1 ❓ - Other
 

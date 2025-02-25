@@ -17,11 +17,13 @@
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 * 👍 Hannah Stone
 
-## [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+
+## [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 
 ## 2023-24
 
-### [SB 5284](/bill/2023-24/sb/5284/) - Solid waste management 👍1  
+### [SB 5757](/bill/2023-24/sb/5757/) - Auto. traffic safety revenue  👎1 
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 * 👍 Clare Fogelsong

@@ -21,14 +21,15 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5123 Discrimination in schools
-#### 64 👍 - Pro
+#### 103 👍 - Pro
 Testifying:
 * Paree Raval
 
-#### 1676 👎 - Con
+#### 1725 👎 - Con
 Testifying:
 * John Axtell
 * Anthony Holan
+* Sharon Damoff
 
 #### 1 ❓ - Other
 

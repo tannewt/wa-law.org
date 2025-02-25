@@ -70,6 +70,9 @@
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 * 👍 Chris Herman
 
+### [HB 1862](/bill/2025-26/hb/1862/) - Train length  👎1 
+* 👎 Chris Herman
+
 ### [HB 1906](/bill/2025-26/hb/1906/) - Water system rates   ❓3
 * ❓💵 Carly Michiels
 * ❓ Eric ffitch
@@ -83,18 +86,22 @@
 ### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
 * 👍 Eric ffitch
 
+### [HB 1958](/bill/2025-26/hb/1958/) - Interstate bridge toll bonds 👍1  
+
 ### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy   ❓1
 * ❓ Chris Herman
 
 ### [SB 5034](/bill/2025-26/sb/5034/) - System improvement team 👍1  
 
-### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages 👍1  ❓1
 * 👍 Chris Herman
+* ❓ Chris Herman
 
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  
 * 👍 Chris Herman
 
-### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects 👍1  
+### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects 👍2  
+* 👍 Chris Herman
 * 👍 Chris Herman
 
 ### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍2  
@@ -124,12 +131,17 @@
 
 ### [SB 5464](/bill/2025-26/sb/5464/) - CDL federal standards 👍1  
 
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+
 ### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
 
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment  👎1 
 * 👎💵 Carly Michiels
 
 ### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+* 👍 Chris Herman
+
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
 * 👍 Chris Herman
 
 ### [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  

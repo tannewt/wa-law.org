@@ -48,7 +48,8 @@
 
 ### [HB 1438](/bill/2025-26/hb/1438/) - Housing permit approval  👎1 
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍4  
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍6  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
 ### [HB 1695](/bill/2025-26/hb/1695/) - Unincorporated villages/GMA  👎1 
@@ -69,6 +70,8 @@
 
 ### [HB 1854](/bill/2025-26/hb/1854/) - Rural areas/subdivision 👍1  
 * 👍💵 Bryce Yadon
+
+### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax 👍1  
 
 ### [HB 1937](/bill/2025-26/hb/1937/) - Industrial stormwater permit  👎1 
 

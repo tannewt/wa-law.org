@@ -14,10 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164801&caId=26057&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164801&caId=26057&tId=4)
 
-#### 52 👍 - Pro
+#### 151 👍 - Pro
 Testifying:
 * Paul Jarkiewicz - Port Of Port Angeles
+* Paul Jarkiewicz - [Port of Port Angeles](/org/port_of_port_angeles/)
+* 💵Brooke Davies - [Port of Seattle](/org/port_of_seattle/)
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
+* Sean Eagan - Northwest Seaport Alliance
+* Adam LeMieux - [Port of Everett](/org/port_of_everett/)
+* Cassie Hammond - Port of Benton
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 
 #### 0 ❓ - Other

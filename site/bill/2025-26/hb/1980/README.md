@@ -8,11 +8,14 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TR): HB 1980 Employer transp. services
-#### 7 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Jodie Alberts - [Bellevue Chamber of Commerce](/org/bellevue_chamber_of_commerce/)
 * Lynne Robinson - Mayor, City of Bellevue
 * 💵Brooke Davies - TechNet
+* Jeremy Burdett - TransWest
+* Matt Jack - Bellevue Downtown Association
+* Kevin Wallace - Wallace Properties, Inc.
 
 #### 1 👎 - Con
 Testifying:

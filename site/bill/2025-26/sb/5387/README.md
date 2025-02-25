@@ -22,11 +22,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164986&caId=26194&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164986&caId=26194&tId=4)
 
-#### 2 👍 - Pro
+#### 89 👍 - Pro
+Testifying:
+* Jay Dr. Lopez
 
-#### 1 👎 - Con
+#### 181 👎 - Con
+Testifying:
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 02/07 08:00 AM - Health & Long Term Care (HLTC): SB 5387 Corp. practice of medicine
 #### 256 👍 - Pro

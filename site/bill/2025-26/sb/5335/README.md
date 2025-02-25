@@ -19,14 +19,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164987&caId=26195&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164987&caId=26195&tId=4)
 
-#### 24 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * Theresa Bowden
 * Brenda Senger - Rural Nursing Education Program (RNEP)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Alison Bradywood - Washington State Board of Nursing
 
 ### Thu 01/30 08:00 AM - Health & Long Term Care (HLTC): SB 5335 Rural nursing education
 #### 158 👍 - Pro

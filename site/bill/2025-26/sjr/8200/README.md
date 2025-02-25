@@ -14,7 +14,7 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSJR 8200 School district local funds
-#### 1848 👍 - Pro
+#### 2039 👍 - Pro
 Testifying:
 * 💵Melissa Gombosky - ESD 105 Schools Coalition
 * Monique Dugaw - ESD 112
@@ -31,8 +31,9 @@ Testifying:
 * Joel White - Spokane Home Builders Association
 * Angela White - Olympia Master Builders
 * Jeff Losey - HBA of Tri Cities
+* Charlie Brown - South Sound Superintendents
 
-#### 1851 👎 - Con
+#### 1922 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Laurie Layne
@@ -42,6 +43,7 @@ Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * Anthony Holan
 * Tim Noonan
+* Alex Harrington - NAIOPWA
 
 #### 3 ❓ - Other
 Testifying:

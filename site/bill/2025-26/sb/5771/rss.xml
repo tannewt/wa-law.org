@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5771/</link>
 		<description>Updates about SB 5771</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 23 Feb 2025 03:02:46 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 01:00:46 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -36,6 +36,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/John/Wilson/2025-02-23 03:02:46</guid>
+		</item>
+		<item>
+			<title>👎Carmen Yanez - Office of Assessments/King County Assessor John Wilson</title>
+			<description>Carmen Yanez signed up to testify Con.</description>
+			<pubDate>Mon, 24 Feb 2025 01:00:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Carmen/Yanez/2025-02-24 01:00:46</guid>
 		</item>
 	</channel>
 </rss>

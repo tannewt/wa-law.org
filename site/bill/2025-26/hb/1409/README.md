@@ -14,18 +14,22 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1409 Clean fuels program
-#### 21 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Dean Taylor - Seattle City Light
 * 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
 * 💵Leah Missik - [Climate Solutions](/org/climate_solutions/)
 * Scott Richards - [Clean Fuels Alliance America](/org/clean_fuels_alliance_america/)
+* Yanni Psareas - The Coalition for Renewable Natural Gas
 
-#### 171 👎 - Con
+#### 193 👎 - Con
 Testifying:
 * 💵Jessica Spiegel - WSPA
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Isaac Kastama - Clean & Prosperous Washington
 
 ### Tue 01/28 04:00 PM - Environment & Energy (ENVI): HB 1409 Clean fuels program
 #### 289 👍 - Pro

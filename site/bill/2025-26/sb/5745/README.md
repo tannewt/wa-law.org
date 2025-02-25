@@ -15,12 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164963&caId=26171&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164963&caId=26171&tId=4)
 
-#### 0 👍 - Pro
-
-#### 0 👎 - Con
-
-#### 1 ❓ - Other
+#### 5 👍 - Pro
 Testifying:
+* Kelly Canary - Washington State Office of Public Defense
+* Rashi Gupta - UW Medicine
+
+#### 2 👎 - Con
+
+#### 3 ❓ - Other
+Testifying:
+* 💵Brad Banks - Association of Counties & BHASOs
 * 💵Michael White - [King County](/org/king_county/)
 
 ### Mon 02/17 10:30 AM - Law & Justice (LAW): SB 5745 Invol. treatment counsel

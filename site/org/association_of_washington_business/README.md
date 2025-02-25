@@ -77,7 +77,8 @@
 
 ### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍1  
 
-### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info  👎1 
+### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info  👎2 
+* 👎💵 Morgan Irwin
 * 👎💵 Morgan Irwin
 
 ### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices  👎1 
@@ -159,7 +160,8 @@
 
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license  👎2 
 
-### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program  👎1 
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program  👎2 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
 ### [HB 1414](/bill/2025-26/hb/1414/) - CTE careers work group 👍1  
@@ -167,7 +169,7 @@
 ### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax  👎1 
 * 👎 Max Martin
 
-### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program  👎1 
+### [HB 1422](/bill/2025-26/hb/1422/) - Drug take-back program  👎2 
 
 ### [HB 1430](/bill/2025-26/hb/1430/) - APRN & PA reimbursement  👎1 
 
@@ -198,8 +200,9 @@
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 * 👍💵 Peter Godlewski
 
-### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries  👎2 
+### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries  👎3 
 * 👎💵 Peter Godlewski
+* 👎 P Godlewski
 
 ### [HB 1564](/bill/2025-26/hb/1564/) - Child care assist./B&O tax   ❓1
 
@@ -214,7 +217,7 @@
 ### [HB 1598](/bill/2025-26/hb/1598/) - Community solar  👎1 
 * 👎💵 Peter Godlewski
 
-### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎1 
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎2 
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
 
@@ -301,9 +304,15 @@
 ### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors  👎1 
 * 👎💵 Morgan Irwin
 
+### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge  👎1 
+* 👎💵 Emily Wittman
+
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev.  👎1 
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
+
+### [HB 1862](/bill/2025-26/hb/1862/) - Train length  👎1 
+* 👎💵 Morgan Irwin
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET  👎1 
 
@@ -324,10 +333,27 @@
 
 ### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
 
+### [HB 1958](/bill/2025-26/hb/1958/) - Interstate bridge toll bonds 👍1  
+* 👍💵 Morgan Irwin
+
 ### [HB 1965](/bill/2025-26/hb/1965/) - Bullion tax preference  👎1 
 
-### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍1  
+### [HB 1970](/bill/2025-26/hb/1970/) - Highway alt. contracting 👍1  
+
+### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍2  
 * 👍💵 Peter Godlewski
+* 👍💵 Peter Godlewski
+
+### [HB 1980](/bill/2025-26/hb/1980/) - Employer transp. services 👍1  
+
+### [HB 1984](/bill/2025-26/hb/1984/) - Autonomous vehicles  👎1 
+* 👎💵 Morgan Irwin
+
+### [HB 1990](/bill/2025-26/hb/1990/) - Utility disaster costs 👍1  
+* 👍💵 Peter Godlewski
+
+### [HB 1992](/bill/2025-26/hb/1992/) - Safe system approach strat.  👎1 
+* 👎💵 Morgan Irwin
 
 ### [HB 1995](/bill/2025-26/hb/1995/) - Tax preferences   ❓1
 
@@ -412,7 +438,8 @@
 
 ### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎2 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
@@ -485,7 +512,7 @@
 
 ### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency  👎1 
 
-### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint  👎1 
+### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint  👎2 
 
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities  👎1 
 * 👎💵 Morgan Irwin
@@ -498,7 +525,7 @@
 ### [SB 5501](/bill/2025-26/sb/5501/) - Employee driving requirement  👎1 
 * 👎💵 Lindsey Hueer
 
-### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
+### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎2 
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
 
@@ -551,7 +578,8 @@
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement  👎2 
 * 👎💵 Lindsey Hueer
 
-### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
+### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍2  
+* 👍💵 Peter Godlewski
 * 👍💵 Peter Godlewski
 
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land 👍1  

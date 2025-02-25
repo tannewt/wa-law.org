@@ -14,18 +14,21 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1503 Digital equity
-#### 53 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * Heather Kelly - League of Women Voters of Washington
 * William Booth - Creating Pathways
 * Sai Samineni
 * David Keyes - digital equity adviser, former member State Digital Equity Forum and founder of City of Seattle Digi
+* 💵Harpreet Kaur - Washington Build Back Black Alliance (WBBA)
 
-#### 1262 👎 - Con
+#### 1346 👎 - Con
 Testifying:
 * John Axtell
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Patrick Stickney - WA State Office of Equity
 
 ### Fri 01/31 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1503 Digital equity
 #### 26 👍 - Pro

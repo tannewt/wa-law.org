@@ -7,9 +7,11 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍1  
 * 👍💵 Denise Rodriguez
 
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+
 ### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍1  
 
-### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍1  
+### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍2  
 * 👍💵 Denise Rodriguez
 
 ### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
@@ -17,10 +19,12 @@
 ### [HB 1732](/bill/2025-26/hb/1732/) - Home buying by entities 👍1  
 * 👍💵 Denise Rodriguez
 
+### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
+
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍💵 Denise Rodriguez
 
-### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍3  
+### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍4  
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 

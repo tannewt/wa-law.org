@@ -12,11 +12,12 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5502 Recycling & waste reduction
-#### 519 👍 - Pro
+#### 588 👍 - Pro
 Testifying:
 * Fiona Bell - Novelis
 * Francisco Castillo - Diageo North America
 * Ro Elias - Niagara Bottling
+* Roberta Elias - Niagara Bottling
 * Liz Donohue - Primo Brands
 * Allison Kustic - Association for Plastic Recyclers
 * Dylan de Thomas - Coalition for High Performance Recycling
@@ -24,7 +25,7 @@ Testifying:
 * Liz Donohue - Primo Brands
 * Scott DeFife - Glass Packaging Institute
 
-#### 722 👎 - Con
+#### 752 👎 - Con
 Testifying:
 * 💵Lyset Cadena - WM (Waste Management)
 * 💵Vicki Christophersen - Washington Refuse and Recycling Assoc.
@@ -35,9 +36,10 @@ Testifying:
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Brian Coddington - Sunshine Disposal
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 
 ### Wed 01/29 08:00 AM - Environment, Energy & Technology (ENET): SB 5502 Recycling & waste reduction
 #### 85 👍 - Pro

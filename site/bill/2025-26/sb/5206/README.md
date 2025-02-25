@@ -8,9 +8,11 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SB 5206 Cannabis advertising
-#### 2 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Vicki Christophersen - Washington CannaBusiness Association
 
-#### 11 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 

@@ -10,6 +10,9 @@
 ### [HB 1720](/bill/2025-26/hb/1720/) - Community care/Rx assistance 👍1  
 * 👍 Vicki McNealley
 
+### [HB 1926](/bill/2025-26/hb/1926/) - Home care aides 👍1  
+* 👍 Jeff Gombosky
+
 ## [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍2  
 * 👍 Carma Matti-Jackson
 * 👍 Carma Matti-Jackson

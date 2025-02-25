@@ -12,6 +12,8 @@
 
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects  👎1 
 
+### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
+
 ## [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍2  
 
 ## 2023-24

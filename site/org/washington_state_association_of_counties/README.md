@@ -177,6 +177,8 @@
 ### [HB 1899](/bill/2025-26/hb/1899/) - Homelessness point-in-time 👍1  
 * 👍💵 Curtis Steinhauer
 
+### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax 👍1  
+
 ### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍2  
 * 👍💵 Travis Dutton
 * 👍💵 Paul Jewell
@@ -192,7 +194,8 @@
 ### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel  👎1 
 * 👎💵 Paul Jewell
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
+* 👎💵 Paul Jewell
 
 ### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates   ❓1
 * ❓💵 Travis Dutton
@@ -246,6 +249,9 @@
 
 ### [SB 5367](/bill/2025-26/sb/5367/) - Law enf. community grants 👍1  
 
+### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use  👎1 
+* 👎💵 Paul Jewell
+
 ### [SB 5423](/bill/2025-26/sb/5423/) - Digital electronics/repair 👍1  
 
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
@@ -273,6 +279,9 @@
 * ❓💵 Paul Jewell
 
 ### [SB 5547](/bill/2025-26/sb/5547/) - Cannabis revenue/local gov. 👍1  
+* 👍 BRIAN ENSLOW
+
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
 * 👍 BRIAN ENSLOW
 
 ### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev.   ❓1

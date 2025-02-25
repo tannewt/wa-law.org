@@ -9,20 +9,22 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1788 Workers' compensation
-#### 51 👍 - Pro
+#### 104 👍 - Pro
 Testifying:
 * 💵Minna Long - Washington State Building & Construction Trades Council
 * 💵Ray Dumas - OPCMIA Local 528
 * Joe Kendo - Washington State Labor Council, AFL-CIO
 * 💵Daniel Goodman - Washington State Association for Justice
+* Cebastian Renteria
+* Sean Scholes
 
-#### 66 👎 - Con
+#### 87 👎 - Con
 Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Carolyn Logue - Associated Builders & Contractors Inland Pacific Chapter
 * 💵Rose Gundersen - WA Retail Association
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/12 08:00 AM - Labor & Workplace Standards (LAWS): HB 1788 Workers' compensation
 #### 131 👍 - Pro

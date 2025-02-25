@@ -24,13 +24,15 @@
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 
+### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license 👍1  
+
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍1  
 
 ### [HB 1437](/bill/2025-26/hb/1437/) - Tourism promotion 👍1  
 
 ### [HB 1440](/bill/2025-26/hb/1440/) - Civil forfeiture proceedings 👍2  
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍2  
 
 ### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  
 * 👍💵 Nick Streuli
@@ -76,7 +78,7 @@
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice   ❓1
 * ❓ John Flanagan
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
@@ -88,8 +90,12 @@
 ### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
 * 👍 John Flanagan
 
-### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍2  
 * 👍 John Flanagan
+* 👍 John Flanagan
+
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
+* 👍💵 Brooke Davies
 
 ### [SB 5652](/bill/2025-26/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts.  👎1 
 * 👎 John Flanagan

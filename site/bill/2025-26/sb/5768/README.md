@@ -17,8 +17,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164954&caId=26162&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164954&caId=26162&tId=4)
 
-#### 22 👍 - Pro
+#### 190 👍 - Pro
+Testifying:
+* 💵Emily Vyhnanek - Washington State Budget and Policy Center
+* Molly Gallagher - [Statewide Poverty Action Network](/org/statewide_poverty_action_network/)
 
-#### 1 👎 - Con
+#### 32 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other

@@ -20,7 +20,7 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5382 Ballot measure petitions
-#### 599 👍 - Pro
+#### 667 👍 - Pro
 Testifying:
 * 💵Diane Bedwell
 * Margaret Dreyfus
@@ -29,7 +29,7 @@ Testifying:
 * Janet Caldwell - [Washington Education Association](/org/washington_education_association/)
 * Robert Boling
 
-#### 4145 👎 - Con
+#### 4748 👎 - Con
 Testifying:
 * Tim Eyman - Initiative Activist
 * Laurie Layne
@@ -61,8 +61,13 @@ Testifying:
 * Anthony Holan
 * MICHAEL STASZAK - NA
 * Ron Martinsen
+* Ryan Jewell
+* Michael Carroll
+* Michael A Moore - A & M striping
+* Tony Holien
+* Andrew Balicki - my
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 
 ### Tue 02/04 01:30 PM - State Government & Elections (SGE): SB 5382 Ballot measure petitions
 #### 1231 👍 - Pro

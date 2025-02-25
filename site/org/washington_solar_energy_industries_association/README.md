@@ -6,10 +6,11 @@
 ### [HB 1804](/bill/2025-26/hb/1804/) - Community solar projects   ❓1
 * ❓ Bill Will
 
-### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
+### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍2  
 * 👍 Bill Will
 
-### [HB 1871](/bill/2025-26/hb/1871/) - Residential energy storage 👍1  
+### [HB 1871](/bill/2025-26/hb/1871/) - Residential energy storage 👍2  ❓1
+* ❓ Bill Will
 
 ### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules 👍4  
 * 👍 Bill Will

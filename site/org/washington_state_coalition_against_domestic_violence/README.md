@@ -33,6 +33,8 @@
 ### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations 👍1  
 * 👍 Karin White
 
+### [HB 1848](/bill/2025-26/hb/1848/) - Traumatic brain injuries 👍1  
+
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
@@ -40,11 +42,13 @@
 
 ### [SB 5356](/bill/2025-26/sb/5356/) - Criminal justice trainings 👍1  
 
-## [SB 5536](/bill/2025-26/sb/5536/) - Property distrib./divorce 👍1  
+### [SB 5536](/bill/2025-26/sb/5536/) - Property distrib./divorce 👍1  
+
+## [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
 
 ## 2023-24
 
-### [SB 5536](/bill/2023-24/sb/5536/) - Property distrib./divorce 👍1  
+### [SB 5576](/bill/2023-24/sb/5576/) - Affordable housing funding 👍1  
 
 ### [HB 1121](/bill/2023-24/hb/1121/) - Uniform child abduction act 👍1  
 

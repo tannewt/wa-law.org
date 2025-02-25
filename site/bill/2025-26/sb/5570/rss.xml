@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5570/</link>
 		<description>Updates about SB 5570</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 23 Feb 2025 05:17:44 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 11:33:38 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -193,6 +193,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Council Charlene/Tillaquots/2025-02-23 05:17:44</guid>
+		</item>
+		<item>
+			<title>👍Karen Condon - Confederated Tribes of the Colville Reservation</title>
+			<description>Karen Condon signed up to testify Pro. They are signed up to represent Confederated Tribes of the Colville Reservation.</description>
+			<pubDate>Mon, 24 Feb 2025 11:24:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Karen/Condon/2025-02-24 11:24:49</guid>
+		</item>
+		<item>
+			<title>👍Patricia Whitefoot - Confederated Tribes of the Colville Reservation</title>
+			<description>Patricia Whitefoot signed up to testify Pro.</description>
+			<pubDate>Mon, 24 Feb 2025 11:33:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Patricia/Whitefoot/2025-02-24 11:33:38</guid>
 		</item>
 	</channel>
 </rss>

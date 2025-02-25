@@ -11,11 +11,13 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SB 5007 Chronically absent students
-#### 171 👍 - Pro
+#### 190 👍 - Pro
 Testifying:
 * John Axtell
 
-#### 1933 👎 - Con
+#### 2058 👎 - Con
+Testifying:
+* Joy Gjersvold - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 1 ❓ - Other
 

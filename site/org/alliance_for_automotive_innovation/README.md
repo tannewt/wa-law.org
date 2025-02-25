@@ -1,9 +1,10 @@
 # Alliance for Automotive Innovation
 ## 2025-26
 
-### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries   ❓2
+### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries  👎1 ❓2
 * ❓💵 Brandon Houskeeper
 * ❓💵 Brandon Houskeeper
+* 👎💵 Brandon Houskeeper
 
 ### [HB 1645](/bill/2025-26/hb/1645/) - Automobile insurance 👍1  
 

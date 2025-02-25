@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1871/</link>
 		<description>Updates about HB 1871</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 06:02:33 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -24,7 +24,7 @@
 			<guid isPermaLink="false">testifier/Maggie/Douglas/2025-02-08 04:43:05</guid>
 		</item>
 		<item>
-			<title>👍Linda Mather - Washington Citizens Against Unfair Taxes</title>
+			<title>👍Linda Mather - Washington Solar Energy Industries Association</title>
 			<description>Linda Mather signed up to testify Pro.</description>
 			<pubDate>Sat, 08 Feb 2025 10:34:18 GMT</pubDate>
 			<category>testifier</category>
@@ -40,7 +40,7 @@
 			<guid isPermaLink="false">testifier/Paul/Lackenbauer/2025-02-08 12:35:36</guid>
 		</item>
 		<item>
-			<title>👍Bruce MacKenzie - Washington Citizens Against Unfair Taxes</title>
+			<title>👍Bruce MacKenzie - Washington Solar Energy Industries Association</title>
 			<description>Bruce MacKenzie signed up to testify Pro.</description>
 			<pubDate>Sun, 09 Feb 2025 02:09:06 GMT</pubDate>
 			<category>testifier</category>
@@ -123,6 +123,30 @@
 			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-21/Referred to Finance.</guid>
+		</item>
+		<item>
+			<title>❓💵Josie Cummings - Avista</title>
+			<description>Josie Cummings signed up to testify Other. They are signed up to represent Avista. They are a registered lobbyist.</description>
+			<pubDate>Mon, 24 Feb 2025 03:31:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Josie/Cummings/2025-02-24 03:31:23</guid>
+		</item>
+		<item>
+			<title>❓💵Maggie Douglas - Puget Sound Energy</title>
+			<description>Maggie Douglas signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/puget_sound_energy_inc/"&gt;Puget Sound Energy&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 24 Feb 2025 05:49:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Maggie/Douglas/2025-02-24 05:49:18</guid>
+		</item>
+		<item>
+			<title>❓Bill Will - Washington Solar Energy Industries Association</title>
+			<description>Bill Will signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_solar_energy_industries_association/"&gt;Washington Solar Energy Industries Association&lt;/a&gt;.</description>
+			<pubDate>Mon, 24 Feb 2025 06:02:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Bill/Will/2025-02-24 06:02:33</guid>
 		</item>
 	</channel>
 </rss>

@@ -18,11 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165016&caId=26214&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165016&caId=26214&tId=4)
 
-#### 1 👍 - Pro
+#### 10 👍 - Pro
 
-#### 3 👎 - Con
+#### 51 👎 - Con
 Testifying:
 * Mike Ennis - Building Industry Association of Washington (BIAW)
+* 💵Rose Gundersen - WA Retail Association
 
 #### 0 ❓ - Other
 

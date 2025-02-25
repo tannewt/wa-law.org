@@ -11,6 +11,8 @@
 
 ### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍1  
 
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍2  
+
 ### [HB 1713](/bill/2025-26/hb/1713/) - Automatic voter reg./tribes 👍1  
 
 ### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍4  

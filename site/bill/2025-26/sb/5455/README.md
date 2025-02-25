@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SB 5455 Cancer research endowment
-#### 12 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Lyset Cadena - CARE Fund
 

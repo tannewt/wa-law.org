@@ -13,7 +13,7 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5284 Solid waste management
-#### 757 👍 - Pro
+#### 864 👍 - Pro
 Testifying:
 * Amy Ockerlander - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Brad Boswell - [Washington Beverage Association](/org/washington_beverage_association/)
@@ -22,7 +22,7 @@ Testifying:
 * 💵Edwin Borbon - AMERIPEN
 * Wyatt Golding - Nisqually Delta Association
 
-#### 674 👎 - Con
+#### 707 👎 - Con
 Testifying:
 * 💵Lyset Cadena - WM (Waste Management)
 * 💵Vicki Christophersen - Washington Refuse and Recycling Assoc.
@@ -34,6 +34,8 @@ Testifying:
 * Anthony Holan
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Brian Coddington
+* 💵Natalie Hester - [Republic Services](/org/republic_services/)
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 4 ❓ - Other
 Testifying:

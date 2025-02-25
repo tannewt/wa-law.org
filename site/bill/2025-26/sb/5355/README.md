@@ -13,7 +13,7 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5355 Higher education safety
-#### 111 👍 - Pro
+#### 126 👍 - Pro
 Testifying:
 * Naira Gonzales
 * Morgan Whitt
@@ -23,8 +23,11 @@ Testifying:
 * Sahana Ballabh
 * Alexander Bejaran - SVLC
 * Melissa Beard - Council of Presidents
+* 💵Collin Bannister - The Washington Student Association
 
-#### 633 👎 - Con
+#### 659 👎 - Con
+Testifying:
+* Sharon Damoff
 
 #### 0 ❓ - Other
 

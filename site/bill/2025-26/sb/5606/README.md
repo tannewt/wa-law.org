@@ -15,13 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164964&caId=26172&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164964&caId=26172&tId=4)
 
-#### 3 👍 - Pro
+#### 154 👍 - Pro
 Testifying:
 * Cathleen MacCaul - AARP Washington State
+* 💵Melanie Smith - WA State LTC Ombuds Program
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 02/14 08:00 AM - Health & Long Term Care (HLTC): SB 5606 Long-term care ombud funding
 #### 494 👍 - Pro

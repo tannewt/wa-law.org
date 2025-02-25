@@ -50,7 +50,7 @@
 * 👍💵 Leah Missik
 * 👍💵 Altinay Karasapan
 
-### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
+### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍2  
 
 ### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex.   ❓1
 * ❓💵 Leah Missik
@@ -61,7 +61,7 @@
 ### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍1  
 * 👍💵 Altinay Karasapan
 
-### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓1
+### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓💵 Leah Missik
 
 ### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎2 
@@ -83,6 +83,8 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 
+### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
+
 ### [SB 5377](/bill/2025-26/sb/5377/) - Motor vehicle dealers  👎2 
 * 👎💵 Leah Missik
 
@@ -94,6 +96,9 @@
 ### [SB 5429](/bill/2025-26/sb/5429/) - State building code council  👎1 
 
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
+
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+* 👍💵 Altinay Karasapan
 
 ### [SB 5592](/bill/2025-26/sb/5592/) - Zero emissions vehicles/sale 👍1  
 * 👍💵 Leah Missik

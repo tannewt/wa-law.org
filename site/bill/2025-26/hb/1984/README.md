@@ -8,16 +8,21 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TR): HB 1984 Autonomous vehicles
-#### 162 👍 - Pro
+#### 177 👍 - Pro
 Testifying:
 * Alex Dietz - Washington State Association for Justice
 * Kris DeBuck - Teamsters 174
 * 💵Nicholas Gullickson - Washington State Council of Firefighters
+* 💵Brenda Wiest - Vice -President Teamsters Local 117
+* Cole Scandaglia - International Brotherhood of Teamsters
+* Greg Woodfill - President ATU 587
+* 💵Nicole Grant - WA State Transportation
 
-#### 24 👎 - Con
+#### 25 👎 - Con
 Testifying:
 * Tahra Jirari - Chamber of Progress
 * Jeff Gombosky - [Tesla](/org/tesla/)
 * 💵Brooke Davies - TechNet
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 40 ❓ - Other
+#### 41 ❓ - Other

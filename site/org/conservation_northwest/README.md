@@ -36,7 +36,7 @@
 * 👍 Joe Scott
 * 👍 Joe Scott
 
-### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
+### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍2  
 
 ### [HB 1930](/bill/2025-26/hb/1930/) - Fish and wildlife commission   ❓1
 * ❓ Jen Syrowitz
@@ -57,7 +57,7 @@
 
 ### [SB 5354](/bill/2025-26/sb/5354/) - Gray wolf management  👎1 
 
-### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
+### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍3  
 
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
 

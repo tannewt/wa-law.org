@@ -58,7 +58,7 @@
 
 ### [HB 1511](/bill/2025-26/hb/1511/) - Ferry captains 👍1  
 
-### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍1  
+### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍2  
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍6  
 * 👍 Rhonda Buchanan

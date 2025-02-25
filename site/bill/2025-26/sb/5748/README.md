@@ -17,11 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164959&caId=26167&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164959&caId=26167&tId=4)
 
-#### 68 👍 - Pro
+#### 171 👍 - Pro
 Testifying:
 * 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* sid bahadur
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other
 

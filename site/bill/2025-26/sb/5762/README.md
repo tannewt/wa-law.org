@@ -16,8 +16,10 @@ Sign up to testify:
 
 #### 6 👍 - Pro
 
-#### 1045 👎 - Con
+#### 1172 👎 - Con
 Testifying:
 * Jeff Gombosky - CTIA - The Wireless Association
+* 💵Rose Feliciano - TechNet
+* Jeff Pack - Me
 
 #### 1 ❓ - Other

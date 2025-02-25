@@ -11,12 +11,14 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TR): HB 1992 Safe system approach strat.
-#### 169 👍 - Pro
+#### 214 👍 - Pro
 Testifying:
 * Kristina Walker - Councilmember, City of Tacoma
 * 💵Matthew Sutherland - [Transportation Choices Coalition](/org/transportation_choices_coalition/)
 * Vicky Clarke - [Washington Bikes](/org/washington_bikes/)
 
-#### 59 👎 - Con
+#### 61 👎 - Con
+Testifying:
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 1 ❓ - Other

@@ -20,11 +20,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165025&caId=26223&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165025&caId=26223&tId=4)
 
-#### 18 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * Jenna Comstock - QLAW Association
+* 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 
-#### 27 👎 - Con
+#### 100 👎 - Con
 
 #### 1 ❓ - Other
 

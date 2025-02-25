@@ -19,7 +19,7 @@
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
 
-### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍2  
+### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍3  
 * 👍 Shelly Washington
 
 ### [SB 5342](/bill/2025-26/sb/5342/) - Legislators/state facilities 👍2  

@@ -3,6 +3,8 @@
 
 ### [HB 1129](/bill/2025-26/hb/1129/) - Fertility-related services 👍1  
 
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
+
 ### [HB 1430](/bill/2025-26/hb/1430/) - APRN & PA reimbursement 👍1  
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement  👎1 

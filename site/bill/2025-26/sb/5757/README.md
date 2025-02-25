@@ -8,9 +8,9 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TRAN): SB 5757 Auto. traffic safety revenue
-#### 179 👍 - Pro
+#### 194 👍 - Pro
 
-#### 37 👎 - Con
+#### 47 👎 - Con
 Testifying:
 * Andy Illyn - Mukilteo Police Department
 * 💵Axel Swanson - Washington State Association of County Engineers

@@ -20,6 +20,8 @@
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting   ❓1
 
 ## [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 

@@ -9,7 +9,7 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5033 Biosolids/PFAS chemicals
-#### 551 👍 - Pro
+#### 623 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 

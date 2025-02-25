@@ -98,11 +98,16 @@
 * 👍 Molly Gallagher
 * 👍 Molly Molly
 
-## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
+### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
+
+### [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍2  
+* 👍 Molly Gallagher
+
+## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍1  
 
 ## 2023-24
 
-### [SB 5680](/bill/2023-24/sb/5680/) - Mobility equipment repair 👍1  
+### [SB 5771](/bill/2023-24/sb/5771/) - WFTC increase/tenants 👍1  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍2  
 

@@ -9,6 +9,8 @@
 * 👍 Bryanna Jenkins
 * 👍💵 Oliver Miska
 
+### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍1  
+
 ## [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community.   ❓2
 * ❓💵 Oliver Miska
 * ❓ Bryanna Jenkins

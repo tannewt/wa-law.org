@@ -14,6 +14,8 @@
 
 ### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program 👍1  
 
+### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍1  
+
 ## [SB 5683](/bill/2025-26/sb/5683/) - Health carrier payment times 👍1  
 
 ## 2023-24

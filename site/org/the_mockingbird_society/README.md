@@ -21,7 +21,9 @@
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
 
-### [HB 1322](/bill/2025-26/hb/1322/) - Juvenile offenses 👍1  
+### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
+
+### [HB 1322](/bill/2025-26/hb/1322/) - Juvenile offenses 👍2  
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍2  
 

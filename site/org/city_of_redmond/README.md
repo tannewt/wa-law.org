@@ -20,6 +20,8 @@
 
 ### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  
 
+### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use  👎1 
+
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
 
 ### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
@@ -32,17 +34,27 @@
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
+### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax 👍1  
+
+### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓1
+
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓1
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
 * 👍 Melissa Stuart
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 * 👍 Melissa Stuart
 
+### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
+
+### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use  👎1 
+
 ### [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations   ❓1
+
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
 
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
 
@@ -50,11 +62,13 @@
 
 ### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
 
-## [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption  👎1 
+### [SB 5661](/bill/2025-26/sb/5661/) - Landlord-tenant/preemption  👎1 
+
+## [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
 
 ## 2023-24
 
-### [SB 5661](/bill/2023-24/sb/5661/) - Landlord-tenant/preemption  👎1 
+### [SB 5775](/bill/2023-24/sb/5775/) - Public safety/local tax 👍1  
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 

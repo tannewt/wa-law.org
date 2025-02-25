@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32902&aId=164710&caId=26088&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32902&aId=164710&caId=26088&tId=4)
 
-#### 67 👍 - Pro
+#### 76 👍 - Pro
+Testifying:
+* Tim Hiatt - Washington State Beekeepers Association
 
 #### 3 👎 - Con
 

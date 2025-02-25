@@ -15,10 +15,11 @@ Testifying:
 
 #### 3 👎 - Con
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Anne Anderson - Washington State Narcotics Investigators Association
+* Michele Walker - City of Kent, Senior Prosecuting Attorney
 
 ### Tue 02/04 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1440 Civil forfeiture proceedings
 #### 3 👍 - Pro

@@ -15,11 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164977&caId=26185&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164977&caId=26185&tId=4)
 
-#### 1 👍 - Pro
+#### 16 👍 - Pro
+Testifying:
+* Allan Warren - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
+* Jasmine Zimmer-Stucky - Lower Columbia Estuary Partnership
+* RoseMary LaClair - Chair, Nooksack Indian Tribe
+* Kevin Long - North Olympic Salmon Coalition
 
-#### 1 👎 - Con
+#### 193 👎 - Con
 Testifying:
 * john worthington
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

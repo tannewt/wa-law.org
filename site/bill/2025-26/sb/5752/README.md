@@ -17,12 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164971&caId=26179&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164971&caId=26179&tId=4)
 
-#### 12 👍 - Pro
+#### 28 👍 - Pro
 
-#### 584 👎 - Con
+#### 1242 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Stephanie Smith
 * Brian Knowles
+* Erika Larson - Holding Hope
+* Roxana Norouzi - OneAmerica
+* Alexis Cortes - Parent Advocate / BrightSpark Early Learning Services
+* Bevette Irvis - [Wellspring Family Services](/org/wellspring_family_services/)
+* 💵Emily Murphy - Child Care Aware of Washington; Child Care for WA Roundtable
+* Caitlin Lankford - Lilac City Early Learning Center
+* Tasha Fitzgerald
+* 💵Minna Long - Washington State Building & Construction Trades Council
 
-#### 2 ❓ - Other
+#### 7 ❓ - Other

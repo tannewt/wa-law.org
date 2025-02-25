@@ -14,13 +14,15 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5278 Juvenile correctional pop.
-#### 232 👍 - Pro
+#### 259 👍 - Pro
 
-#### 31 👎 - Con
+#### 34 👎 - Con
 
-#### 2 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
+* Grete Schultz - TeamChild
 
 ### Mon 02/03 01:30 PM - Human Services (HS): SB 5278 Juvenile correctional pop.
 #### 21 👍 - Pro

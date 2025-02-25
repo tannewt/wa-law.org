@@ -9,13 +9,14 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1648 Child care qualifications
-#### 118 👍 - Pro
+#### 135 👍 - Pro
 Testifying:
 * Jordan Travis - Tree hill
 * Trisha Maygra - Sumner valley preschool
 * Wendy Bart - Washington State Alliance of YMCAs
 * Debra Rinell
 * Susan Brown - Kids Co., Greater Seattle Child Care Business Coalition, and Washington Childcare Centers Assn
+* 💵Harpreet Kaur - Washington Build Back Black Alliance (WBBA)
 
 #### 2 👎 - Con
 

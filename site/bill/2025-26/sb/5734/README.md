@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164803&caId=26059&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164803&caId=26059&tId=4)
 
-#### 7 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Doug Vaughn - Principal Financial Officer, WSDOT
 * 💵Heather Kurtenbach - Washington State Building & Construction Trades Council
@@ -23,6 +23,9 @@ Testifying:
 * Ron Arp - Identity Clark County
 * Ron Arp - Identity Clark County
 
-#### 3 👎 - Con
+#### 72 👎 - Con
+Testifying:
+* Douglas Tweet
+* Bob Ortblad - None
 
 #### 0 ❓ - Other

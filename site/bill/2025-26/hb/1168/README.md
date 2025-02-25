@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164780&caId=26061&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164780&caId=26061&tId=4)
 
-#### 9 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Anish Sharma
 * Jai Jaisimha - Transparency Coalition.ai
@@ -28,8 +28,17 @@ Testifying:
 * Brady Ocain
 * Jinho (Jacob) Lee
 * Krishna Pratheek Madamala
+* Iyas Abdel Rahman
+* Muhammad Mahmood
+* Noah Williams - Lake Washington High School
 
-#### 4 👎 - Con
+#### 13 👎 - Con
+Testifying:
+* 💵Rose Feliciano - TECHNET
+* 💵Crystal Leatherman
+* 💵Kelly Fukai - WATECH
+* 💵Rose Feliciano - TECHNET
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 1 ❓ - Other
 Testifying:

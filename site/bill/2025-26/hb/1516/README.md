@@ -15,9 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165020&caId=26218&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165020&caId=26218&tId=4)
 
-#### 2 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* 💵Bill Clarke - Washington REALTORS
+* Brady Nordstrom - Housing Development Consortium
+* Rory Paine-Donovan - Office of Insurance Commissioner
 
-#### 1 👎 - Con
+#### 35 👎 - Con
 
 #### 0 ❓ - Other
 

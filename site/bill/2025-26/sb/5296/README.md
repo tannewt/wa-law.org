@@ -15,21 +15,21 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5296 Juvenile offenses
-#### 21 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Judge André Peñalver - Minority and Justice Commission
 * Rashida Robbins
 * Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 * Katie Hurley - King County Department of Public Defense
 
-#### 675 👎 - Con
+#### 701 👎 - Con
 Testifying:
 * Tamara McKinley
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Sandra Mochizuki
 * 💵Brad Banks - Washington State Association of Counties (WSAC)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Mon 02/03 01:30 PM - Human Services (HS): SB 5296 Juvenile offenses
 #### 38 👍 - Pro

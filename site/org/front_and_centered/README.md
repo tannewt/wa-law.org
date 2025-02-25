@@ -46,13 +46,16 @@
 
 ### [SB 5652](/bill/2025-26/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts. 👍1  
 
-## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍💵 Guillermo Rogel
+
+### [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍1  
+
+## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍1  
 
 ## 2023-24
 
-### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
-* 👍💵 Guillermo Rogel
+### [SB 5771](/bill/2023-24/sb/5771/) - WFTC increase/tenants 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

@@ -17,8 +17,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164781&caId=26062&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164781&caId=26062&tId=4)
 
-#### 1 👍 - Pro
+#### 31 👍 - Pro
+Testifying:
+* 💵Crystal Leatherman
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 
 #### 0 ❓ - Other

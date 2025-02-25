@@ -9,11 +9,12 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5359 Clean energy development
-#### 80 👍 - Pro
+#### 112 👍 - Pro
 Testifying:
 * Dave Pringle - Washington State Department of Commerce
+* Joshua Rubenstein - [The Nature Conservancy](/org/the_nature_conservancy/)
 
-#### 717 👎 - Con
+#### 743 👎 - Con
 Testifying:
 * Nicolas B Garcia - Washington Public Utility Districts Association
 * Sandra Mochizuki

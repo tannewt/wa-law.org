@@ -9,6 +9,8 @@
 
 ### [HB 1434](/bill/2025-26/hb/1434/) - Eid al-Fitr & Eid al-Adha 👍1  
 
+### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍1  
+
 ### [HB 1517](/bill/2025-26/hb/1517/) - Digital equity/revenue  👎1 
 
 ### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge  👎1 

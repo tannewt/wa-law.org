@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5155/</link>
 		<description>Updates about SB 5155</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 03:53:14 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 12:55:20 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -217,12 +217,52 @@
 			<guid isPermaLink="false">2025-01-31/Referred to Ways &amp; Means.</guid>
 		</item>
 		<item>
-			<title>👎john worthington - Washington State Association of Counties</title>
+			<title>👎john worthington - North Olympic Salmon Coalition</title>
 			<description>john worthington signed up to testify Con.</description>
 			<pubDate>Mon, 24 Feb 2025 03:53:14 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/john/worthington/2025-02-24 03:53:14</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - North Olympic Salmon Coalition</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Mon, 24 Feb 2025 06:54:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-02-24 06:54:07</guid>
+		</item>
+		<item>
+			<title>👍Allan Warren - Bonneville Environmental Foundation</title>
+			<description>Allan Warren signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/bonneville_environmental_foundation/"&gt;Bonneville Environmental Foundation&lt;/a&gt;.</description>
+			<pubDate>Mon, 24 Feb 2025 10:42:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Allan/Warren/2025-02-24 10:42:28</guid>
+		</item>
+		<item>
+			<title>👍Jasmine Zimmer-Stucky - Lower Columbia Estuary Partnership</title>
+			<description>Jasmine Zimmer-Stucky signed up to testify Pro. They are signed up to represent Lower Columbia Estuary Partnership.</description>
+			<pubDate>Mon, 24 Feb 2025 12:25:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jasmine/Zimmer-Stucky/2025-02-24 12:25:40</guid>
+		</item>
+		<item>
+			<title>👍RoseMary LaClair - Chair, Nooksack Indian Tribe</title>
+			<description>RoseMary LaClair signed up to testify Pro. They are signed up to represent Chair, Nooksack Indian Tribe.</description>
+			<pubDate>Mon, 24 Feb 2025 12:33:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/RoseMary/LaClair/2025-02-24 12:33:22</guid>
+		</item>
+		<item>
+			<title>👍Kevin Long - North Olympic Salmon Coalition</title>
+			<description>Kevin Long signed up to testify Pro. They are signed up to represent North Olympic Salmon Coalition.</description>
+			<pubDate>Mon, 24 Feb 2025 12:55:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kevin/Long/2025-02-24 12:55:20</guid>
 		</item>
 	</channel>
 </rss>

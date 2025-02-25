@@ -12,11 +12,13 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SB 5570 Tribes/K-12 instruction
-#### 17 👍 - Pro
+#### 24 👍 - Pro
 Testifying:
 * Council Charlene Tillaquots - Yakama Nation Tribal Council
+* Karen Condon - Confederated Tribes of the Colville Reservation
+* Patricia Whitefoot
 
-#### 651 👎 - Con
+#### 674 👎 - Con
 
 #### 0 ❓ - Other
 

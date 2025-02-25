@@ -19,6 +19,8 @@
 
 ### [HB 1390](/bill/2025-26/hb/1390/) - Community protection program 👍1  
 
+### [HB 1398](/bill/2025-26/hb/1398/) - Adult family home arb. 👍1  
+
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍1  
 
 ### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍1  
@@ -28,11 +30,13 @@
 ### [SB 5427](/bill/2025-26/sb/5427/) - Children in crisis program 👍1  
 * 👍💵 Stacy Dym
 
-## [SB 5504](/bill/2025-26/sb/5504/) - Complex care serv./children 👍1  
+### [SB 5504](/bill/2025-26/sb/5504/) - Complex care serv./children 👍1  
+
+## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
 
 ## 2023-24
 
-### [SB 5504](/bill/2023-24/sb/5504/) - Complex care serv./children 👍1  
+### [SB 5686](/bill/2023-24/sb/5686/) - Foreclosure mediation prg. 👍1  
 
 ### [HB 1048](/bill/2023-24/hb/1048/) - Voting rights act 👍1  
 

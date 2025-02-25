@@ -56,11 +56,13 @@
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
 
-### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍1  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+
+### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍2  
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
-### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍1  
+### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍2  
 
 ### [HB 1556](/bill/2025-26/hb/1556/) - HS completers/CTC tuition 👍1  
 
@@ -126,6 +128,8 @@
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓1
 
+### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍1  
+
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍1  
@@ -142,7 +146,7 @@
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
-### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍2  
 
 ### [SB 5367](/bill/2025-26/sb/5367/) - Law enf. community grants 👍1  
 
@@ -171,11 +175,13 @@
 
 ### [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits   ❓1
 
-## [SB 5634](/bill/2025-26/sb/5634/) - Community solar projects 👍1  
+### [SB 5634](/bill/2025-26/sb/5634/) - Community solar projects 👍1  
+
+## [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 
 ## 2023-24
 
-### [SB 5634](/bill/2023-24/sb/5634/) - Community solar projects 👍1  
+### [SB 5757](/bill/2023-24/sb/5757/) - Auto. traffic safety revenue  👎1 
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

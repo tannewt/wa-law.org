@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/24/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 27-31, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-27-31-2025/#:~:text=HB%201449)
@@ -17,11 +18,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165018&caId=26216&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165018&caId=26216&tId=4)
 
-#### 25 👍 - Pro
+#### 117 👍 - Pro
 Testifying:
 * John Kingsbury - with concerns
+* Joshua Sheets
 
-#### 868 👎 - Con
+#### 1010 👎 - Con
+Testifying:
+* Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)
+* Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
 
 #### 1 ❓ - Other
 

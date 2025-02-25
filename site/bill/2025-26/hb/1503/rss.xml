@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1503/</link>
 		<description>Updates about HB 1503</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 23 Feb 2025 08:50:13 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 12:00:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -193,7 +193,7 @@
 			<guid isPermaLink="false">testifier/Sai/Samineni/2025-02-23 08:27:51</guid>
 		</item>
 		<item>
-			<title>👎John Axtell - digital equity adviser, former member State Digital Equity Forum and founder of City of Seattle Digi</title>
+			<title>👎John Axtell - Washington Build Back Black Alliance (WBBA)</title>
 			<description>John Axtell signed up to testify Con.</description>
 			<pubDate>Sun, 23 Feb 2025 08:32:34 GMT</pubDate>
 			<category>testifier</category>
@@ -207,6 +207,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/David/Keyes/2025-02-23 08:50:13</guid>
+		</item>
+		<item>
+			<title>👍💵Harpreet Kaur - Washington Build Back Black Alliance (WBBA)</title>
+			<description>Harpreet Kaur signed up to testify Pro. They are signed up to represent Washington Build Back Black Alliance (WBBA). They are a registered lobbyist.</description>
+			<pubDate>Mon, 24 Feb 2025 10:26:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Harpreet/Kaur/2025-02-24 10:26:14</guid>
+		</item>
+		<item>
+			<title>❓Patrick Stickney - WA State Office of Equity</title>
+			<description>Patrick Stickney signed up to testify Other. They are signed up to represent WA State Office of Equity.</description>
+			<pubDate>Mon, 24 Feb 2025 12:00:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Patrick/Stickney/2025-02-24 12:00:35</guid>
 		</item>
 	</channel>
 </rss>

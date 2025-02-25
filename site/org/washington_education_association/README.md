@@ -283,7 +283,7 @@
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 
-### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍1  
+### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school. 👍2  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
@@ -293,7 +293,7 @@
 
 ### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel 👍1  
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers 👍1  
 
@@ -353,7 +353,7 @@
 
 ### [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍2  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 
@@ -447,7 +447,7 @@
 
 ### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply 👍1  
 
-### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍1  
+### [SB 5327](/bill/2025-26/sb/5327/) - Learning standards 👍2  
 
 ### [SB 5336](/bill/2025-26/sb/5336/) - Isolated employees 👍1  
 
@@ -521,7 +521,7 @@
 
 ### [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍1  
 
-### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍1  
+### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍2  
 
 ### [SB 5572](/bill/2025-26/sb/5572/) - School construction projects 👍1  
 

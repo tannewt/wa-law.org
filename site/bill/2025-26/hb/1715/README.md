@@ -9,7 +9,7 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1715 Energy standard/comply cost
-#### 36 👍 - Pro
+#### 43 👍 - Pro
 
 #### 4 👎 - Con
 

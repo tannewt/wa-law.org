@@ -9,15 +9,19 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1917 Juvenile rehabilitation
-#### 5 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * 💵Brad Banks - Washington State Association of Counties (WSAC)
+* 💵Nicole Gomez - Washington Federation of State Employees/Lobbyist
 
-#### 2 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* 💵Karen Pillar - Karen Pillar Interim Executive Director, TeamChild
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
 
 ### Tue 02/11 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1917 Juvenile rehabilitation
 #### 7 👍 - Pro

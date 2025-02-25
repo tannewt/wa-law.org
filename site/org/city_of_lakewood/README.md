@@ -21,7 +21,7 @@
 
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 
 
-### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
+### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎2 
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎2 
 
@@ -29,6 +29,8 @@
 * 👍 Captain Chris Westby
 
 ### [SB 5290](/bill/2025-26/sb/5290/) - Controlled subs. dismissal  👎1 
+
+### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 

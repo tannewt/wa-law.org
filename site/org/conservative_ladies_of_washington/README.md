@@ -90,8 +90,9 @@
 
 ### [SB 5004](/bill/2025-26/sb/5004/) - School emergency response 👍1  
 
-### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school.  👎5 
+### [SB 5007](/bill/2025-26/sb/5007/) - Supporting students who are chronically absent and at risk for not graduating high school.  👎6 
 * 👎 Julie Barrett
+* 👎 Joy Gjersvold
 
 ### [SB 5011](/bill/2025-26/sb/5011/) - Labeling ballot drop boxes. 👍3  
 

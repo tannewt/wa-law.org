@@ -20,7 +20,8 @@
 
 ### [HB 1639](/bill/2025-26/hb/1639/) - Medicare advantage discl. 👍1  
 
-### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍1  
+### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍2  
+* 👍 Sam Hatzenbeler
 * 👍 Sam Hatzenbeler
 
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards 👍1  

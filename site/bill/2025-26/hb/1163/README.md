@@ -23,14 +23,14 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1163 Firearm purchase
-#### 568 👍 - Pro
+#### 634 👍 - Pro
 Testifying:
 * Moritz Maszhold
 * Jane Weiss
 * Robert Schentrup - Brady United
 * Cassandra Crifasi - Johns Hopkins Center for Gun Policy and Research
 
-#### 5341 👎 - Con
+#### 5681 👎 - Con
 Testifying:
 * Patrick Wade
 * 💵Aoibheann Cline - NRA
@@ -63,7 +63,7 @@ Testifying:
 * Bettina Pickett
 * Gunner Pruett
 
-#### 6 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * jack praetorius
 

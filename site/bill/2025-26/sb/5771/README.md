@@ -17,10 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164955&caId=26163&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164955&caId=26163&tId=4)
 
-#### 2 👍 - Pro
+#### 131 👍 - Pro
 Testifying:
 * John Wilson - Office of Assessments/King County Assessor John Wilson
 
-#### 2 👎 - Con
+#### 33 👎 - Con
+Testifying:
+* Carmen Yanez
 
 #### 0 ❓ - Other

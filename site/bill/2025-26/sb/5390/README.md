@@ -14,11 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164967&caId=26175&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164967&caId=26175&tId=4)
 
-#### 10 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
+* Juelanne Dalzell - [Back Country Horsemen of Washington](/org/back_country_horsemen_of_washington/)
 
-#### 478 👎 - Con
+#### 677 👎 - Con
 Testifying:
 * TaraLyn Fray
 

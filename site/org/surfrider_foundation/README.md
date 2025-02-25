@@ -20,9 +20,9 @@
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 * 👍💵 Peter Steelquist
 
-### [SB 5390](/bill/2025-26/sb/5390/) - Discover pass, day-use cost 👍1  
+### [SB 5390](/bill/2025-26/sb/5390/) - Discover pass, day-use cost 👍2  
 
-### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍2  
+### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍3  
 * 👍💵 Peter Steelquist
 
 ## [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  

@@ -17,15 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164992&caId=26200&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164992&caId=26200&tId=4)
 
-#### 7 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Keira Domer
 * Sadie Haag
 * Teah Bosworth
+* Jai Jaisimha - Transparency Coalition.ai
 
-#### 929 👎 - Con
+#### 1199 👎 - Con
+Testifying:
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Rose Feliciano - TechNet
 
 ### Thu 02/13 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5708 Online services/minors
 #### 187 👍 - Pro

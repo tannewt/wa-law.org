@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1975/</link>
 		<description>Updates about HB 1975</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 23 Feb 2025 12:38:56 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 10:29:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -107,6 +107,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Isaac/Kastama/2025-02-23 12:38:56</guid>
+		</item>
+		<item>
+			<title>👍💵Jessica Spiegel - Jessica Spiegel</title>
+			<description>Jessica Spiegel signed up to testify Pro. They are signed up to represent Jessica Spiegel. They are a registered lobbyist.</description>
+			<pubDate>Mon, 24 Feb 2025 03:33:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jessica/Spiegel/2025-02-24 03:33:43</guid>
+		</item>
+		<item>
+			<title>👍💵Peter Godlewski - Association of Washington Business</title>
+			<description>Peter Godlewski signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_business/"&gt;Association of Washington Business&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Mon, 24 Feb 2025 10:29:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Peter/Godlewski/2025-02-24 10:29:06</guid>
 		</item>
 	</channel>
 </rss>

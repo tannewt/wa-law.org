@@ -15,11 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=165008&caId=26161&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=165008&caId=26161&tId=4)
 
-#### 135 👍 - Pro
+#### 180 👍 - Pro
 
-#### 2 👎 - Con
+#### 79 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Josie Cummings - Avista
+* 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* Bill Will - [Washington Solar Energy Industries Association](/org/washington_solar_energy_industries_association/)
 
 ### Mon 02/10 01:30 PM - Environment & Energy (ENVI): HB 1871 Residential energy storage
 #### 534 👍 - Pro

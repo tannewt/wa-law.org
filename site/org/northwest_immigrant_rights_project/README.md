@@ -26,7 +26,7 @@
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍3  
 * 👍💵 Malou Chavez
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 

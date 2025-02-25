@@ -58,11 +58,13 @@
 
 ### [SB 5678](/bill/2025-26/sb/5678/) - Residential landlord-tenant  👎1 
 
-## [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍1  
+### [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍1  
+
+## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍1  
 
 ## 2023-24
 
-### [SB 5768](/bill/2023-24/sb/5768/) - Working families' tax credit 👍1  
+### [SB 5771](/bill/2023-24/sb/5771/) - WFTC increase/tenants 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

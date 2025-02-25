@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5703/</link>
 		<description>Updates about SB 5703</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 10:57:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,7 +30,7 @@
 			<guid isPermaLink="false">2025-02-08/Referred to Local Government.</guid>
 		</item>
 		<item>
-			<title>👍Joshua Victor - Wash. State Transportation Commission</title>
+			<title>👍Joshua Victor - City of Spokane</title>
 			<description>Joshua Victor signed up to testify Pro.</description>
 			<pubDate>Thu, 13 Feb 2025 02:34:36 GMT</pubDate>
 			<category>testifier</category>
@@ -170,6 +170,30 @@
 			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-21/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍Betsy Wilkerson - Spokane City Council President</title>
+			<description>Betsy Wilkerson signed up to testify Pro. They are signed up to represent Spokane City Council President.</description>
+			<pubDate>Mon, 24 Feb 2025 10:57:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Betsy/Wilkerson/2025-02-24 10:57:27</guid>
+		</item>
+		<item>
+			<title>👍James Tieken - AFSCME Local 270, Spokane City Employees</title>
+			<description>James Tieken signed up to testify Pro. They are signed up to represent AFSCME Local 270, Spokane City Employees.</description>
+			<pubDate>Mon, 24 Feb 2025 10:57:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/Tieken/2025-02-24 10:57:27</guid>
+		</item>
+		<item>
+			<title>👍Mayor Lisa Brown - City of Spokane</title>
+			<description>Mayor Lisa Brown signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_spokane/"&gt;City of Spokane&lt;/a&gt;.</description>
+			<pubDate>Mon, 24 Feb 2025 10:57:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mayor Lisa/Brown/2025-02-24 10:57:27</guid>
 		</item>
 	</channel>
 </rss>

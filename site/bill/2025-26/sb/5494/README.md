@@ -11,13 +11,13 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SB 5494 Lead-based paint
-#### 9 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * Katie Meehan - Dept. of Commerce
 * Jamie Switras
 * Steven Hoff - LeadClasses.com
 
-#### 153 👎 - Con
+#### 186 👎 - Con
 Testifying:
 * 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
 

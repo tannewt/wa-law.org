@@ -15,9 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164956&caId=26164&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164956&caId=26164&tId=4)
 
-#### 0 👍 - Pro
+#### 12 👍 - Pro
+Testifying:
+* 💵Vicki Christophersen - Assoc. of WA Spirits and Wine Distributors
+* 💵Carrie Tellefson - RNDC
+* 💵Katie Beeson - Washington Food Industry Association
+* Charlie Brown - [Diageo](/org/diageo/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

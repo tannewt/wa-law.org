@@ -9,7 +9,7 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5258 Medicaid concurrent enroll.
-#### 174 👍 - Pro
+#### 184 👍 - Pro
 
 #### 1 👎 - Con
 

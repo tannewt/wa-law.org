@@ -21,13 +21,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165023&caId=26221&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165023&caId=26221&tId=4)
 
-#### 2 👍 - Pro
-
-#### 2 👎 - Con
+#### 37 👍 - Pro
 Testifying:
+* Sam Hatzenbeler - [Economic Opportunity Institute](/org/economic_opportunity_institute/)
+* Jane Beyer - Office of the Insurance Commissioner
+* Pam MacEwan - Providers Business Group on Health
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+
+#### 3 👎 - Con
+Testifying:
+* 💵Courtney Williams - Director of Government Affairs and Advocacy for The Adult Family Home Council
 * Jeff Gombosky - [Washington Health Care Association](/org/washington_health_care_association/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Sean Graham - Washington State Medical Association
+* 💵Lisa Thatcher - Washington State Hospital Association
 
 ### Wed 02/12 01:30 PM - Health Care & Wellness (HCW): HB 1686 Health care entity registry
 #### 142 👍 - Pro

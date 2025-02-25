@@ -15,7 +15,7 @@
 ### [HB 1602](/bill/2025-26/hb/1602/) - Liquor food service options 👍2  
 * 👍💵 Daniel Olson
 
-### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎1 
+### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎2 
 
 ### [HB 1698](/bill/2025-26/hb/1698/) - Liquor permits & licensing 👍1  
 
@@ -29,7 +29,7 @@
 ### [SB 5368](/bill/2025-26/sb/5368/) - Alcohol taxes and fees study   ❓1
 * ❓💵 Daniel Olson
 
-### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎1 
+### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎2 
 * 👎💵 Daniel Olson
 
 ## [SB 5511](/bill/2025-26/sb/5511/) - Low-proof alcohol beverages  👎1 

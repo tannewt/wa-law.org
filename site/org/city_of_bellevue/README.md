@@ -47,6 +47,8 @@
 
 ### [HB 1518](/bill/2025-26/hb/1518/) - Vehicle collision liability  👎1 
 
+### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria   ❓1
+
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 * 👍 Bianca Siegl
 
@@ -84,6 +86,8 @@
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓2
 
+### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
+
 ### [SB 5107](/bill/2025-26/sb/5107/) - Concerning underinsured motorist coverage for local government employees.  👎1 
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓2
@@ -103,7 +107,7 @@
 
 ### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential   ❓1
 
-### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use  👎1 
+### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use  👎2 
 
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
@@ -125,17 +129,21 @@
 
 ### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload   ❓1
 
+### [SB 5613](/bill/2025-26/sb/5613/) - Residential development   ❓1
+
 ### [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits   ❓1
 
 ### [SB 5627](/bill/2025-26/sb/5627/) - Safe excavation  👎1 
 
-### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
+### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎2 
 
-## [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
+### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
+
+## [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
 
 ## 2023-24
 
-### [SB 5757](/bill/2023-24/sb/5757/) - Auto. traffic safety revenue  👎1 
+### [SB 5775](/bill/2023-24/sb/5775/) - Public safety/local tax 👍1  
 
 ### [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  
 

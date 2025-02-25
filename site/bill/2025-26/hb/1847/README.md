@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=165007&caId=26160&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=165007&caId=26160&tId=4)
 
-#### 1 👍 - Pro
+#### 24 👍 - Pro
 
-#### 2 👎 - Con
+#### 115 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Addie Candib - American Farmland Trust
 
 ### Mon 02/10 01:30 PM - Environment & Energy (ENVI): HB 1847 Distributed alt. energy dev.
 #### 63 👍 - Pro

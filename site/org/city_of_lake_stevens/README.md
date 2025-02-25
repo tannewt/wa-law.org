@@ -19,6 +19,8 @@
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
 
+### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
+
 ## [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 
 ## 2023-24

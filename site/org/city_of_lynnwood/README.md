@@ -27,12 +27,13 @@
 ### [SB 5298](/bill/2025-26/sb/5298/) - Mobile home community sale 👍1  
 * 👍 George Hurst
 
-## [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development   ❓1
+### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development   ❓1
 * ❓ Sarah Cho
+
+## [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 
 ## 2023-24
 
-### [SB 5604](/bill/2023-24/sb/5604/) - Transit-oriented development   ❓1
-* ❓ Sarah Cho
+### [SB 5757](/bill/2023-24/sb/5757/) - Auto. traffic safety revenue  👎1 
 
 ## [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍1  

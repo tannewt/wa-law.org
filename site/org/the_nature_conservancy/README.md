@@ -48,10 +48,10 @@
 ### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍1  
 * 👍 Joshua Rubenstein
 
-### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓1
+### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓💵 David Mendoza
 
-### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍1  
+### [SB 5155](/bill/2025-26/sb/5155/) - Salmon recovery projects 👍2  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍 Scott Richards
@@ -68,15 +68,16 @@
 
 ### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
 
-### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
+### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍2  
 * 👍💵 Justin Allegro
+* 👍 Joshua Rubenstein
 
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
 * 👍 Jamie Stroble
 
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍2  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
 
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍2  
 * 👍 Skippy Shaw

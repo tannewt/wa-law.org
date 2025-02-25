@@ -20,13 +20,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164920&caId=26126&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164920&caId=26126&tId=4)
 
-#### 83 👍 - Pro
+#### 154 👍 - Pro
+Testifying:
+* Kjell Anderson
+* Todd Beyreuther - Mercer Mass Timber
+* Amie Lewis - New Buildings Institute
+* Kate White Tudor - Natural Resources Defense Council
+* Roger Heeringa
 
-#### 647 👎 - Con
+#### 894 👎 - Con
 Testifying:
 * TaraLyn Fray
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Troy Nichols - [American Chemistry Council](/org/american_chemistry_council/)
 
 ### Wed 02/05 08:00 AM - Local Government (LG): HB 1458 Embodied carbon/buildings
 #### 202 👍 - Pro

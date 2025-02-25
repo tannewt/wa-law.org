@@ -21,6 +21,8 @@
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  
+
 ### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment 👍1  
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍2  
@@ -38,8 +40,10 @@
 ### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex.   ❓1
 * ❓💵 Clifford Traisman
 
-### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓1
+### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓ Caitlin Krenn
+
+### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍1  
 
 ### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎1 
 
@@ -54,7 +58,7 @@
 ### [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator  👎1 
 * 👎 Mindy Roberts
 
-### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
+### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍2  
 * 👍 Caitlin Krenn
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes 👍1  
@@ -62,10 +66,14 @@
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
 * 👍💵 Darcy Nonemacher
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
+
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
 * 👍 Caitlin Krenn
 
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
+
+### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment 👍1  
 
@@ -76,11 +84,11 @@
 ### [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users   ❓1
 * ❓💵 Clifford Traisman
 
-## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎1 
+## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎2 
 
 ## 2023-24
 
-### [SB 5703](/bill/2023-24/sb/5703/) - Municipal solid waste  👎1 
+### [SB 5703](/bill/2023-24/sb/5703/) - Municipal solid waste  👎2 
 
 ### [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍2  
 

@@ -128,6 +128,9 @@
 * ❓💵 Carl Schroeder
 * 👎💵 Carl Schroeder
 
+### [HB 1449](/bill/2025-26/hb/1449/) - Home cultivation of cannabis  👎1 
+* 👎 Derrick Nunnally
+
 ### [HB 1474](/bill/2025-26/hb/1474/) - PERS/TRS 1 benefit increase   ❓2
 * ❓💵 Candice Bock
 * ❓💵 Candice Bock
@@ -140,7 +143,7 @@
 
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍3  
 
-### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍1  
+### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍2  
 
 ### [HB 1518](/bill/2025-26/hb/1518/) - Vehicle collision liability  👎1 
 
@@ -251,6 +254,9 @@
 
 ### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel  👎1 
 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+* 👎💵 Candice Bock
+
 ### [SB 5053](/bill/2025-26/sb/5053/) - PFD formation 👍1  
 
 ### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates  👎3 
@@ -263,7 +269,8 @@
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓1
 * ❓💵 Kelsey Hulse
 
-### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
+### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎2 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
 ### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans   ❓2
@@ -306,6 +313,9 @@
 * 👍💵 Candice Bock
 
 ### [SB 5315](/bill/2025-26/sb/5315/) - Local tax rate changes 👍1  
+
+### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
+* 👎💵 Carl Schroeder
 
 ### [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 
 
@@ -359,7 +369,12 @@
 ### [SB 5573](/bill/2025-26/sb/5573/) - Electric security alarms 👍1  
 * 👍💵 Carl Schroeder
 
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
+* 👍💵 Carl Schroeder
+
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎2 
+
+### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍1  
 
 ### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
 * 👍💵 Carl Schroeder

@@ -80,7 +80,7 @@
 
 ### [HB 1915](/bill/2025-26/hb/1915/) - Tenant protections 👍1  
 
-### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation  👎1 
+### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation  👎2 
 * 👎 Xaxira Velasco Ponce de Leon
 
 ### [HB 1927](/bill/2025-26/hb/1927/) - Rent payment reporting 👍1  
@@ -105,7 +105,8 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍3  
+### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍4  
+* 👍💵 Hannah Woerner
 
 ### [SB 5260](/bill/2025-26/sb/5260/) - Juvenile correctional pop.   ❓1
 * ❓💵 Sarah Nagy

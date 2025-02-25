@@ -17,10 +17,12 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 2 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Darlene Schanfald - Olympic Environmental Council
 * Marilyn Showalter - Jefferson Land Trust
+* David Ortman - n.a.
+* John Garner - Environmental Coalition of Pierce County
 
 #### 0 ❓ - Other
 

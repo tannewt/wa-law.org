@@ -12,6 +12,22 @@
 * 01/27/2025 [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/) - [Advocates Across Washington Call on Legislators to Stabilize Crime Victim Services Amid Funding Crisis  – Washington State Coalition Against Domestic Violence (WSCADV)](https://wscadv.org/news/advocates-across-washington-call-on-legislators-to-stabilize-crime-victim-services-amid-funding-crisis/#:~:text=SB%205362)
 
 ## Meetings
+### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5362 Crime victim services
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165093&caId=26227&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165093&caId=26227&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165093&caId=26227&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165093&caId=26227&tId=4)
+
+#### 80 👍 - Pro
+Testifying:
+* Carlyn Sampson - Rebuilding Hope Sexual Assault Center
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/03 10:30 AM - Law & Justice (LAW): SB 5362 Crime victim services
 #### 763 👍 - Pro
 Testifying:

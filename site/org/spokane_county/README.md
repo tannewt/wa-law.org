@@ -20,9 +20,11 @@
 
 ### [HB 1938](/bill/2025-26/hb/1938/) - State flag redesign  👎1 
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎1 
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎2 
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net.  👎1 
+
+### [SB 5186](/bill/2025-26/sb/5186/) - School district elections  👎1 
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 

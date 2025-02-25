@@ -24,13 +24,14 @@
 
 ### [SB 5574](/bill/2025-26/sb/5574/) - History instruction 👍1  
 
-## [SB 5745](/bill/2025-26/sb/5745/) - Invol. treatment counsel   ❓1
+### [SB 5745](/bill/2025-26/sb/5745/) - Invol. treatment counsel   ❓1
 * ❓💵 Michael White
+
+## [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
 
 ## 2023-24
 
-### [SB 5745](/bill/2023-24/sb/5745/) - Invol. treatment counsel   ❓1
-* ❓💵 Michael White
+### [SB 5775](/bill/2023-24/sb/5775/) - Public safety/local tax 👍1  
 
 ### [HB 1006](/bill/2023-24/hb/1006/) - Drug testing equipment 👍1  
 * 👍 Bradley Finegood

@@ -8,14 +8,14 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TRAN): SB 5710 Diesel vessels/state ferries
-#### 189 👍 - Pro
+#### 203 👍 - Pro
 Testifying:
 * Pete Brady
 * Daniel Hodun
 * Tad Sommerville
 * Charles Prestrud - Washington Policy Center
 
-#### 12 👎 - Con
+#### 14 👎 - Con
 Testifying:
 * Melinda Kopa
 

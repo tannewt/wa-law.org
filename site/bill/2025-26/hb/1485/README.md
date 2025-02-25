@@ -12,11 +12,14 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): HB 1485 Services and activities fees
-#### 40 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * Haley Chee - University of Washington Seattle
+* 💵Mykhail Lembke - University of Washington Graduate & Professional Student Senate
+* Ryan Wicklund - UW Graduate and Professional Student Senate
+* 💵Sean Behl - Associated Students of the University of Washington
 
-#### 126 👎 - Con
+#### 142 👎 - Con
 Testifying:
 * John Axtell
 

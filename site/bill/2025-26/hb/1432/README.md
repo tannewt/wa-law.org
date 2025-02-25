@@ -15,11 +15,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165017&caId=26215&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165017&caId=26215&tId=4)
 
-#### 38 👍 - Pro
+#### 279 👍 - Pro
+Testifying:
+* 💵Anna Nepomuceno - NAMI Washington and Patients Coalition of Washington
+* Jake Swanton - Inseparable
+* Brian Allender
+* Lindsey Lehmuth
 
-#### 2 👎 - Con
+#### 8 👎 - Con
+Testifying:
+* Kathleen Wedemeyer - Citizens Commission on Human Rights
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Donna Baker-Miller - MCG Health
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 ### Wed 01/29 01:30 PM - Health Care & Wellness (HCW): HB 1432 Mental health services
 #### 478 👍 - Pro

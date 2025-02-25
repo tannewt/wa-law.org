@@ -14,10 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=164951&caId=26158&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=164951&caId=26158&tId=4)
 
-#### 13 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Jesse Anderson - King County Sheriff's Office
+* David Ellis - Spokane Valley Police Department
 
 #### 0 👎 - Con
 

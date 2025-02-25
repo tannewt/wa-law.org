@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TRAN): SB 5746 EV charger property crime
-#### 6 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Elisia Hoffman - Electrify America
 * Kyle Rowe - Electric Era

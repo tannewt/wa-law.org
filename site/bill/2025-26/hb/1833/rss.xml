@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1833/</link>
 		<description>Updates about HB 1833</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Feb 2025 21:37:09 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 07:43:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,14 @@
 			<pubDate>Fri, 21 Feb 2025 21:37:09 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201833</guid>
+		</item>
+		<item>
+			<title>👍💵Crystal Leatherman - Professional Educator Standards Board (PESB)</title>
+			<description>Crystal Leatherman signed up to testify Pro. They are a registered lobbyist.</description>
+			<pubDate>Mon, 24 Feb 2025 07:43:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Crystal/Leatherman/2025-02-24 07:43:35</guid>
 		</item>
 	</channel>
 </rss>

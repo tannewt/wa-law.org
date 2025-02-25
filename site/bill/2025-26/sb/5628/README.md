@@ -9,14 +9,17 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5628 Lead in cookware
-#### 4 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Jacob Cassady - Association of Home Appliance Manufacturers (AHAM)
 * 💵Crystal Leatherman - [Washington Retail Association](/org/washington_retail_association/)
+* Charlie Brown - Assoc. of Home Appliance MFRs
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
+* Katie Fellows - King County Hazardous Waste Management Program
 
-#### 62 👎 - Con
+#### 67 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/11 01:30 PM - Environment, Energy & Technology (ENET): SB 5628 Lead in cookware
 #### 7 👍 - Pro

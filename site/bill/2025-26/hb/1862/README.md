@@ -8,20 +8,26 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TR): HB 1862 Train length
-#### 433 👍 - Pro
+#### 494 👍 - Pro
 Testifying:
 * Steve Mazulo - SMART-TD
 * Sara Barry
 * Bill Moyer - Solutionary Rail
+* Mary Paterson
+* Fritz Edler - Railroad Workers United Technical Expert for Solutionary Rail
+* Breck Lebegue - WA Physicians for Social Responsibility
 
-#### 681 👎 - Con
+#### 709 👎 - Con
 Testifying:
 * Paul Katovich - Highline Grain Growers, Inc. / CEO
 * 💵Aaron Hunt - Union Pacific Railroad
 * 💵Johan Hellman
 * TaraLyn Fray
 * 💵Scott Hazlegrove - [Pacific Merchant Shipping Association](/org/pacific_merchant_shipping_association/)
+* Sean Eagan - [The Northwest Seaport Alliance](/org/the_northwest_seaport_alliance/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Jason Lewis - Utilities & Transportation Commission

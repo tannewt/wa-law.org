@@ -12,9 +12,9 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5327 Learning standards
-#### 9 👍 - Pro
+#### 12 👍 - Pro
 
-#### 1593 👎 - Con
+#### 1637 👎 - Con
 Testifying:
 * John Axtell
 * Steven Bock - Computer/AI Programmer

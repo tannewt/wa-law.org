@@ -12,6 +12,9 @@
 ### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  
 * 👍 Sean Eagan
 
+### [HB 1862](/bill/2025-26/hb/1862/) - Train length  👎1 
+* 👎 Sean Eagan
+
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  

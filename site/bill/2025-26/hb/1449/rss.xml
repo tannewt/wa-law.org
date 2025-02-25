@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1449/</link>
 		<description>Updates about HB 1449</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 23 Feb 2025 12:20:15 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 10:39:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -187,6 +187,46 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/John/Kingsbury/2025-02-23 12:20:15</guid>
+		</item>
+		<item>
+			<title>👎Derrick Nunnally - Association of Washington Cities</title>
+			<description>Derrick Nunnally signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;.</description>
+			<pubDate>Mon, 24 Feb 2025 03:54:38 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Derrick/Nunnally/2025-02-24 03:54:38</guid>
+		</item>
+		<item>
+			<title>👍Joshua Sheets - with concerns</title>
+			<description>Joshua Sheets signed up to testify Pro.</description>
+			<pubDate>Mon, 24 Feb 2025 04:52:00 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joshua/Sheets/2025-02-24 04:52:00</guid>
+		</item>
+		<item>
+			<title>👎Megan Moore - Washington State Public Health Association</title>
+			<description>Megan Moore signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_public_health_association/"&gt;Washington State Public Health Association&lt;/a&gt;.</description>
+			<pubDate>Mon, 24 Feb 2025 05:44:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Megan/Moore/2025-02-24 05:44:56</guid>
+		</item>
+		<item>
+			<title>👎Scott Waller - WASAVP - Washington Association for Substance misuse and Violence Prevention</title>
+			<description>Scott Waller signed up to testify Con. They are signed up to represent WASAVP - Washington Association for Substance misuse and Violence Prevention.</description>
+			<pubDate>Mon, 24 Feb 2025 06:54:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Scott/Waller/2025-02-24 06:54:31</guid>
+		</item>
+		<item>
+			<title>👎James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Con. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Mon, 24 Feb 2025 10:39:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2025-02-24 10:39:48</guid>
 		</item>
 	</channel>
 </rss>

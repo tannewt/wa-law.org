@@ -9,7 +9,7 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1359 Criminal insanity
-#### 10 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * 💵Melissa Johnson - District & Municipal Court Judges' Association

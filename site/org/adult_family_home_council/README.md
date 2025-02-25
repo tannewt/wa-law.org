@@ -1,7 +1,7 @@
 # Adult Family Home Council
 ## 2025-26
 
-### [HB 1398](/bill/2025-26/hb/1398/) - Adult family home arb. 👍1  
+### [HB 1398](/bill/2025-26/hb/1398/) - Adult family home arb. 👍2  
 
 ### [HB 1926](/bill/2025-26/hb/1926/) - Home care aides 👍1  
 * 👍 Amy Thomas

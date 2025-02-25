@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1440/</link>
 		<description>Updates about HB 1440</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 06:35:53 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 09:55:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -106,6 +106,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Alasdair/Whitney/2025-02-24 06:35:53</guid>
+		</item>
+		<item>
+			<title>❓Michele Walker - City of Kent, Senior Prosecuting Attorney</title>
+			<description>Michele Walker signed up to testify Other. They are signed up to represent City of Kent, Senior Prosecuting Attorney.</description>
+			<pubDate>Mon, 24 Feb 2025 09:55:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Michele/Walker/2025-02-24 09:55:32</guid>
 		</item>
 	</channel>
 </rss>

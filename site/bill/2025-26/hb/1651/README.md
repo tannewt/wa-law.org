@@ -16,7 +16,7 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1651 Teacher residency & apprent.
-#### 90 👍 - Pro
+#### 97 👍 - Pro
 Testifying:
 * John Axtell
 * 💵Lorrell Noahr - [Washington Education Association](/org/washington_education_association/)

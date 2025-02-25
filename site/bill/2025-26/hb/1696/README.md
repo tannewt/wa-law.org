@@ -14,11 +14,12 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1696 Covenant homeownership prg.
-#### 13 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Dana Le Roy - Habitat for Humanity Spokane
+* 💵Harpreet Kaur - Washington Build Back Black Alliance (WBBA)
 
-#### 46 👎 - Con
+#### 50 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -36,7 +36,7 @@
 * ❓💵 Mark Johnson
 * ❓💵 Mark Johnson
 
-### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase  👎1 
+### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase  👎2 
 
 ### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info  👎1 
 * 👎💵 Crystal Leatherman

@@ -25,14 +25,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164921&caId=26127&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32924&aId=164921&caId=26127&tId=4)
 
-#### 522 👍 - Pro
+#### 1123 👍 - Pro
+Testifying:
+* Dillon Davis
+* Luke Lettice
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 558 👎 - Con
+#### 776 👎 - Con
 Testifying:
 * TaraLyn Fray
 * john worthington
 
-#### 3 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Todd Tatum - [City of Edmonds](/org/city_of_edmonds/)
 

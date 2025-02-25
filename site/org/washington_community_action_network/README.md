@@ -14,6 +14,8 @@
 
 ### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  
 
+### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍1  
+
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍5  
 * 👍 Brynn Freal
 * 👍 John Godfrey

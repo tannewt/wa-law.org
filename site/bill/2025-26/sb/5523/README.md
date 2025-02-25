@@ -9,10 +9,13 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5523 Higher ed. gov./students
-#### 14 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Krishna Pratheek Madamala
 * Walter Lumpkin
+* Terrell stalworth - Tacoma community college student
+* 💵Sean Behl - [Washington Student Association](/org/washington_student_association/)
+* Heba Qatrani - [Washington Student Association](/org/washington_student_association/)
 
 #### 0 👎 - Con
 

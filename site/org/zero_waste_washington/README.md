@@ -45,7 +45,7 @@
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
-### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍4  
+### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍5  
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
@@ -88,22 +88,22 @@
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
 
-### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint 👍1  
+### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint 👍2  
 * 👍💵 Heather Trim
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍2  
 * 👍💵 Heather Trim
 
-### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware  👎1 
+### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1 👎1 
 * 👎💵 Heather Trim
 
 ### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
 
-## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎1 
+## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎3 
 
 ## 2023-24
 
-### [SB 5703](/bill/2023-24/sb/5703/) - Municipal solid waste  👎1 
+### [SB 5703](/bill/2023-24/sb/5703/) - Municipal solid waste  👎3 
 
 ### [HB 1033](/bill/2023-24/hb/1033/) - Compostable product usage 👍2  
 * 👍💵 Heather Trim

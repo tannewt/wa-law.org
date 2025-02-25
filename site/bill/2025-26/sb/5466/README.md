@@ -9,14 +9,16 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5466 Electric transmission system
-#### 215 👍 - Pro
+#### 260 👍 - Pro
 Testifying:
 * 💵Vicki Christophersen - Northwest and Intermountain Power Producers Coalition
 * Casey MacLean - Renewable NW
 * 💵Matthew Hepner - IBEW/Certified Electrical Workers of WA
 * 💵Maggie Douglas - [Puget Sound Energy](/org/puget_sound_energy_inc/)
+* Dave Pringle - Washington State Department of Commerce
+* 💵Altinay Karasapan - [Climate Solutions](/org/climate_solutions/)
 
-#### 701 👎 - Con
+#### 726 👎 - Con
 Testifying:
 * Nicolas B Garcia - Washington Public Utility Districts Association
 * 💵Brandon Houskeeper - [Alliance of Western Energy Consumers](/org/alliance_of_western_energy_consumers/)

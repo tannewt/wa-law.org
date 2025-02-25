@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1485/</link>
 		<description>Updates about HB 1485</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 23 Feb 2025 11:45:37 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 12:07:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -106,7 +106,7 @@
 			<guid isPermaLink="false">2025-02-21/Referred to Appropriations.</guid>
 		</item>
 		<item>
-			<title>👎John Axtell - University of Washington Seattle</title>
+			<title>👎John Axtell - Associated Students of the University of Washington</title>
 			<description>John Axtell signed up to testify Con.</description>
 			<pubDate>Sun, 23 Feb 2025 08:28:11 GMT</pubDate>
 			<category>testifier</category>
@@ -120,6 +120,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Haley/Chee/2025-02-23 11:45:37</guid>
+		</item>
+		<item>
+			<title>👍💵Mykhail Lembke - University of Washington Graduate &amp; Professional Student Senate</title>
+			<description>Mykhail Lembke signed up to testify Pro. They are signed up to represent University of Washington Graduate &amp; Professional Student Senate. They are a registered lobbyist.</description>
+			<pubDate>Mon, 24 Feb 2025 11:52:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mykhail/Lembke/2025-02-24 11:52:07</guid>
+		</item>
+		<item>
+			<title>👍Ryan Wicklund - UW Graduate and Professional Student Senate</title>
+			<description>Ryan Wicklund signed up to testify Pro. They are signed up to represent UW Graduate and Professional Student Senate.</description>
+			<pubDate>Mon, 24 Feb 2025 11:59:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ryan/Wicklund/2025-02-24 11:59:05</guid>
+		</item>
+		<item>
+			<title>👍💵Sean Behl - Associated Students of the University of Washington</title>
+			<description>Sean Behl signed up to testify Pro. They are signed up to represent Associated Students of the University of Washington. They are a registered lobbyist.</description>
+			<pubDate>Mon, 24 Feb 2025 12:07:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sean/Behl/2025-02-24 12:07:43</guid>
 		</item>
 	</channel>
 </rss>

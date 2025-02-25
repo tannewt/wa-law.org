@@ -63,6 +63,10 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 
+### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
+
+### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use  👎1 
+
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
 
 ### [SB 5529](/bill/2025-26/sb/5529/) - ADU tax exemptions 👍1  
@@ -73,7 +77,12 @@
 
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 
+### [SB 5613](/bill/2025-26/sb/5613/) - Residential development   ❓1
+* ❓💵 Briahna Murray
+
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
+
+### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 

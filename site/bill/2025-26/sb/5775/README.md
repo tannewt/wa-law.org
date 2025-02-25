@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164962&caId=26170&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164962&caId=26170&tId=4)
 
-#### 1 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Joe McDermott - State Relations Director | King County
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
+* Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
 
-#### 535 👎 - Con
+#### 831 👎 - Con
 Testifying:
 * TaraLyn Fray
 

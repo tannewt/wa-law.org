@@ -47,13 +47,15 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
+### [HB 1449](/bill/2025-26/hb/1449/) - Home cultivation of cannabis  👎1 
+
 ### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation 👍1  
 
 ### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease 👍1  
 
 ### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor  👎1 
 
-### [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers 👍1  
+### [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers 👍2  
 
 ### [HB 1604](/bill/2025-26/hb/1604/) - Jail searches/gender 👍1  
 
@@ -67,7 +69,8 @@
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 
-### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍1  
+### [HB 1971](/bill/2025-26/hb/1971/) - Prescription hormone therapy 👍2  
+* 👍💵 Nicole Kern
 
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍2  
 
@@ -113,9 +116,9 @@
 ### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program 👍1  
 * 👍💵 Nicole Kern
 
-### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍1  
+### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍2  
 
-### [SB 5455](/bill/2025-26/sb/5455/) - Cancer research endowment 👍1  
+### [SB 5455](/bill/2025-26/sb/5455/) - Cancer research endowment 👍2  
 
 ### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 

@@ -14,7 +14,7 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1607 Recycling & waste reduction
-#### 167 👍 - Pro
+#### 203 👍 - Pro
 Testifying:
 * Fiona Bell - Novelis
 * Allison Kustic - Association for Plastic Recyclers
@@ -23,7 +23,7 @@ Testifying:
 * Liz Donohue - Primo Brands
 * Scott DeFife - Glass Packaging Institute
 
-#### 154 👎 - Con
+#### 177 👎 - Con
 Testifying:
 * 💵Lyset Cadena - WM (Waste Management)
 * 💵Vicki Christophersen - Washington Refuse and Recycling Assoc.

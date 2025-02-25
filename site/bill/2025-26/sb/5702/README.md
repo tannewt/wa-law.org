@@ -8,11 +8,12 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TRAN): SB 5702 Toll rate setting process
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
+* Carl See - Wash. State Transportation Commission
 * Reema Griffith - Wash. State Transportation Commission
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Melinda Kopa
 

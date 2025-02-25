@@ -17,11 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164678&caId=26076&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164678&caId=26076&tId=4)
 
-#### 5 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+* Sarah Dickmeyer - Plymouth Housing
 
-#### 942 👎 - Con
+#### 1264 👎 - Con
 Testifying:
 * Patrick Gilroy - Washington Self Storage Association
 * stuart drebick - ADROIT cONTRACTORS INC
@@ -38,5 +40,13 @@ Testifying:
 * Michael Kruse
 * Elizabeth Stugelmayer
 * TaraLyn Fray
+* Susan Hunter
+* Anthony D'Ambrosio - Official Representative of DuPont Heated Self Storage
+* Jacqueline Stonas
+* Joe Sievers - Everett Downtown Storage
+* Dave Reed - Coast Property Management
+* William Hart
+* Todd Barker - Osullivan Storage llc
+* Todd Barker - O’Sullivan Storage LLC
 
 #### 3 ❓ - Other

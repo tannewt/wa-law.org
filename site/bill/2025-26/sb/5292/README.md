@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164973&caId=26181&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164973&caId=26181&tId=4)
 
-#### 0 👍 - Pro
+#### 5 👍 - Pro
 
-#### 1 👎 - Con
+#### 41 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Elizabeth New - Washington Policy Center
 
 ### Tue 01/21 10:30 AM - Labor & Commerce (LC): SB 5292 Family & medical leave rates
 #### 23 👍 - Pro

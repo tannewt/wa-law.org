@@ -20,7 +20,7 @@
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍2  
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
@@ -35,27 +35,41 @@
 
 ### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
 
+### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax 👍1  
+
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍 Jennifer Gregerson
 
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+
+### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact 👍1  
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍1  
 * 👍 Dan Templeman
 
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
+
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
 
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 
-### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍2  
 
-## [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
+### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
+
+### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
+
+### [SB 5770](/bill/2025-26/sb/5770/) - Primary residence/tax 👍1  
+
+## [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
 
 ## 2023-24
 
-### [SB 5604](/bill/2023-24/sb/5604/) - Transit-oriented development 👍1  
+### [SB 5775](/bill/2023-24/sb/5775/) - Public safety/local tax 👍1  
 
 ### [HB 1111](/bill/2023-24/hb/1111/) - Housing benefit districts 👍3  
 * 👍 Jennifer Gregerson

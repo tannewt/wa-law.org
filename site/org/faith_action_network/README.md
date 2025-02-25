@@ -27,7 +27,7 @@
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍3  
 
-### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  
+### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍3  
 
 ### [HB 1463](/bill/2025-26/hb/1463/) - Cash assistance time limits 👍4  
 
@@ -35,7 +35,9 @@
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 
-### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍2  
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
+
+### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍4  
 
 ### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
 * 👍💵 Kristin Ang
@@ -57,13 +59,19 @@
 ### [SB 5436](/bill/2025-26/sb/5436/) - Worship/access interference 👍2  
 * 👍💵 Kristin Ang
 
-### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍2  
+### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍4  
 
-## [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍1  
+### [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍1  
+
+### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
+
+### [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍1  
+
+## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍2  
 
 ## 2023-24
 
-### [SB 5714](/bill/2023-24/sb/5714/) - Bail bond agents/immigration 👍1  
+### [SB 5771](/bill/2023-24/sb/5771/) - WFTC increase/tenants 👍2  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Kristin Ang

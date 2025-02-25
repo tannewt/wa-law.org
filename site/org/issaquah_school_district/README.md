@@ -26,7 +26,7 @@
 * 👍 Martin Turney
 * 👍 Martin Turney
 
-### [SB 5186](/bill/2025-26/sb/5186/) - School district elections   ❓1
+### [SB 5186](/bill/2025-26/sb/5186/) - School district elections 👍1  ❓1
 * ❓ Martin Turney
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍5  
@@ -51,12 +51,12 @@
 ### [SB 5593](/bill/2025-26/sb/5593/) - School levies & local effort 👍1  
 * 👍 Martin Turney
 
-## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds   ❓1
+## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  ❓1
 * ❓ Harlan Gallinger
 
 ## 2023-24
 
-### [SJR 8200](/bill/2023-24/sjr/8200/) - School district local funds   ❓1
+### [SJR 8200](/bill/2023-24/sjr/8200/) - School district local funds 👍1  ❓1
 * ❓ Harlan Gallinger
 
 ### [HB 1608](/bill/2023-24/hb/1608/) - Anaphylaxis meds./schools 👍2  

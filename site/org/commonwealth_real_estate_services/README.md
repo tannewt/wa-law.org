@@ -1,6 +1,8 @@
 # Commonwealth Real Estate Services
 ## 2025-26
 
+### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍1  
+
 ### [HB 1204](/bill/2025-26/hb/1204/) - Senior shared housing   ❓1
 * ❓💵 Brad Tower
 

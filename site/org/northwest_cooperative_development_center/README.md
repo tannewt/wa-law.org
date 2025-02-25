@@ -9,13 +9,16 @@
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 
-### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍2  
+### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍3  
 * 👍 Victoria OBanion
 
 ### [HB 1760](/bill/2025-26/hb/1760/) - Manufactured homes/org. sale 👍1  
 * 👍 Victoria OBanion
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
+
+### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax 👍2  
+* 👍 Victoria OBanion
 
 ### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
 

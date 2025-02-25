@@ -11,6 +11,8 @@
 
 ### [HB 1105](/bill/2025-26/hb/1105/) - DOC employee bargaining 👍1  
 
+### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍1  
+
 ### [HB 1140](/bill/2025-26/hb/1140/) - Establishing empowerED scholarships using educational savings accounts.  👎1 
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
@@ -28,6 +30,8 @@
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
 ### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
+
+### [HB 1233](/bill/2025-26/hb/1233/) - Concerning work programs for incarcerated persons. 👍1  
 
 ### [HB 1264](/bill/2025-26/hb/1264/) - Ferry system salaries 👍13  
 * 👍 Eric Winge
@@ -53,6 +57,10 @@
 
 ### [HB 1363](/bill/2025-26/hb/1363/) - Child care licensing  👎1 
 
+### [HB 1398](/bill/2025-26/hb/1398/) - Adult family home arb. 👍1  
+
+### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license 👍1  
+
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
 
 ### [HB 1453](/bill/2025-26/hb/1453/) - Scrap metal/stolen copper 👍1  
@@ -67,11 +75,15 @@
 
 ### [HB 1489](/bill/2025-26/hb/1489/) - Childhood ed./impl. dates  👎1 
 
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+
 ### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation  👎1 
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 
 ### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees 👍1  
+
+### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍1  
 
 ### [HB 1561](/bill/2025-26/hb/1561/) - Domestic workers 👍1  
 
@@ -109,7 +121,7 @@
 
 ### [HB 1682](/bill/2025-26/hb/1682/) - Unemployment ins./part-time 👍1  
 
-### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍1  
+### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍2  
 
 ### [HB 1697](/bill/2025-26/hb/1697/) - Newborn screening additions 👍1  
 
@@ -145,9 +157,11 @@
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎1 
 
+### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge 👍1  
+
 ### [HB 1843](/bill/2025-26/hb/1843/) - Students/unemployment ins. 👍1  
 
-### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
+### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍2  
 
 ### [HB 1857](/bill/2025-26/hb/1857/) - Asbestos building materials 👍1  
 
@@ -177,11 +191,13 @@
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
-### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍1  
+### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍2  
 
 ### [HB 1984](/bill/2025-26/hb/1984/) - Autonomous vehicles 👍1  
 
 ### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. allocation 👍1  
+
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
 ### [SB 5059](/bill/2025-26/sb/5059/) - Ferry captains 👍1  
 
@@ -205,6 +221,8 @@
 
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects 👍1  
 
+### [SB 5186](/bill/2025-26/sb/5186/) - School district elections 👍1  
+
 ### [SB 5208](/bill/2025-26/sb/5208/) - Clean energy fund program 👍1  
 
 ### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍1  
@@ -217,6 +235,8 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
+### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
+
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
 
 ### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
@@ -227,9 +247,15 @@
 
 ### [SB 5386](/bill/2025-26/sb/5386/) - Schools/sexual assault 👍1  
 
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍1  
+
+### [SB 5394](/bill/2025-26/sb/5394/) - DDA no-paid services  👎1 
+
+### [SB 5396](/bill/2025-26/sb/5396/) - FAA medical certificates 👍1  
+
 ### [SB 5397](/bill/2025-26/sb/5397/) - CTC faculty w/o tenure limit 👍1  
 
-### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use 👍1  
+### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use 👍2  
 
 ### [SB 5433](/bill/2025-26/sb/5433/) - DOC employee bargaining 👍1  
 
@@ -243,11 +269,13 @@
 
 ### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  
 
+### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
+
 ### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍1  
 
 ### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining 👍1  
 
-### [SB 5504](/bill/2025-26/sb/5504/) - Complex care serv./children 👍1  
+### [SB 5504](/bill/2025-26/sb/5504/) - Complex care serv./children 👍2  
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
 
@@ -263,7 +291,7 @@
 
 ### [SB 5543](/bill/2025-26/sb/5543/) - College bound scholarship 👍2  
 
-### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation 👍1  
+### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation 👍2  
 
 ### [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍1  
 
@@ -275,25 +303,33 @@
 
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
 
+### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
+
 ### [SB 5634](/bill/2025-26/sb/5634/) - Community solar projects 👍1  
 
 ### [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  
 
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
+
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
 
-### [SB 5653](/bill/2025-26/sb/5653/) - Fish and wildlife officers 👍1  
+### [SB 5653](/bill/2025-26/sb/5653/) - Fish and wildlife officers 👍2  
 
 ### [SB 5693](/bill/2025-26/sb/5693/) - Teacher residency & apprent.  👎1 
 
-### [SB 5694](/bill/2025-26/sb/5694/) - Boiler operator cert. 👍1  
+### [SB 5694](/bill/2025-26/sb/5694/) - Boiler operator cert. 👍2  
 
 ### [SB 5701](/bill/2025-26/sb/5701/) - Prevailing wage/records 👍1  
 
-### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste 👍1  
+### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste 👍2  
 
 ### [SB 5716](/bill/2025-26/sb/5716/) - Transit conduct/ferries 👍1  
 
 ### [SB 5717](/bill/2025-26/sb/5717/) - Driver course/work zones 👍2  
+
+### [SB 5734](/bill/2025-26/sb/5734/) - Interstate bridge toll bonds 👍1  
+
+### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
 
 ### [SB 5756](/bill/2025-26/sb/5756/) - Working minors 👍1  
 

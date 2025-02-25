@@ -14,14 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164960&caId=26168&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164960&caId=26168&tId=4)
 
-#### 8 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Carl Florea - [City of Leavenworth](/org/city_of_leavenworth/)
 * Caitlin Sullivan
 * Consuelo Echeverria
 * Kurt Peterson
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Barbara Rossing
+* Zeke Reister - resident of Leavenworth
+* BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 86 👎 - Con
+#### 204 👎 - Con
 Testifying:
 * Owen Johnson - Propertyfinderz, Co
 * Richard Moser - Washington hosts collaborative alliance
@@ -32,6 +36,20 @@ Testifying:
 * Thomas McCarthy
 * Katy Cornell
 * Kimberly Wongwai
+* Cassy Gilbertson
+* Fritz Feiten
+* Ren Santa
+* Ann Jolie
+* Don MacKenzie
+* Cheryl Hansen
+* Charisse Bennett
+* Joe Slawter - NA
+* Leimback V
+* Ajeet Dhaliwal
+* Huy Vu
+* Colin Campbell
+* Sid Bahadur
+* Lien Nguyen
 * Lisa Evans
 * Craig Sternagel - NA
 * Michelle Larkin
@@ -39,5 +57,11 @@ Testifying:
 * Steve Carr
 * Kirsten Evangelista
 * Carolyn Allen - Washington Hosts Collaborative Alliance
+* Donald Ryan - Private citizen
+* James McQuillan
+* Janet Spesock
+* Scott Lawhon
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tina He-Ying Guan

@@ -18,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164677&caId=26075&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32893&aId=164677&caId=26075&tId=4)
 
-#### 178 👍 - Pro
+#### 290 👍 - Pro
 Testifying:
 * Nicholas Dumouchel - Communities for Our College
 * Angelita Cervantes - Communities for Our College
@@ -29,7 +29,12 @@ Testifying:
 * David Nelson - Communities for Our College
 * Susan Wilson - AFT Washington
 * Michael Panitz
+* 💵John Burbank
+* Sanika Kabbur
 
-#### 13 👎 - Con
+#### 76 👎 - Con
+Testifying:
+* 💵Rose Feliciano - TechNet
+* 💵Emily Wittman - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 0 ❓ - Other

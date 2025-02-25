@@ -15,11 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164985&caId=26193&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164985&caId=26193&tId=4)
 
-#### 15 👍 - Pro
+#### 58 👍 - Pro
+Testifying:
+* 💵Minna Long - Washington State Building & Construction Trades Council
+* 💵Ray Dumas - OPCMIA Local 528
+* Sean Scholes
 
-#### 53 👎 - Con
+#### 273 👎 - Con
+Testifying:
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Fri 02/07 08:00 AM - Labor & Commerce (LC): SB 5548 Workers' compensation
 #### 268 👍 - Pro

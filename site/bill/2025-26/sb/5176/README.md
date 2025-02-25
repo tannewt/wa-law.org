@@ -9,12 +9,16 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5176 Prompt pay/capital projects
-#### 18 👍 - Pro
+#### 47 👍 - Pro
 Testifying:
 * 💵Henry Yates
 * 💵Eric Pettigrew - The Northwest Minority Builders Alliance
 * 💵Kelsey Hulse - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Axel Swanson - Washington State Association of County Engineers
+* 💵Michele Willms - Associated General Contractors (AGC)
+* Les Struthers - 604291820
+* 💵Michael Transue - Mechanical Contractors Association of Western Washington
+* Chris Herman - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 2 👎 - Con
 

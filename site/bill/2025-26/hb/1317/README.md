@@ -11,7 +11,7 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): HB 1317 Sentences/offenses before 21
-#### 536 👍 - Pro
+#### 590 👍 - Pro
 Testifying:
 * Jeffrey Ellis
 * 💵Arthur Longworth - TeamChild
@@ -21,7 +21,9 @@ Testifying:
 * Tom Sahlberg
 * Naomi Smith
 
-#### 35 👎 - Con
+#### 39 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
 #### 3 ❓ - Other
 

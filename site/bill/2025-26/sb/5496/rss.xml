@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5496/</link>
 		<description>Updates about SB 5496</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Feb 2025 22:56:50 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 24 Feb 2025 06:53:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -142,6 +142,14 @@
 			<pubDate>Fri, 21 Feb 2025 22:56:50 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/alvarado/2025/02/21/from-the-desk-of-your-new-state-senator-2/#:~:text=5496</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - American Council of Life Insurers</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Mon, 24 Feb 2025 06:53:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-02-24 06:53:27</guid>
 		</item>
 	</channel>
 </rss>

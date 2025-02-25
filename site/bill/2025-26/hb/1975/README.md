@@ -15,13 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164948&caId=26155&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164948&caId=26155&tId=4)
 
-#### 1 👍 - Pro
+#### 44 👍 - Pro
 Testifying:
 * 💵Isaac Kastama - Clean & Prosperous Washington
+* 💵Jessica Spiegel - Jessica Spiegel
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 11 👎 - Con
+#### 99 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
 
 ### Mon 02/17 01:30 PM - Environment & Energy (ENVI): HB 1975 Climate commitment act
 #### 26 👍 - Pro

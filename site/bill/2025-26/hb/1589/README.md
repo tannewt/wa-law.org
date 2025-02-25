@@ -15,11 +15,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165022&caId=26220&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165022&caId=26220&tId=4)
 
-#### 24 👍 - Pro
+#### 450 👍 - Pro
+Testifying:
+* 💵Lori Grassi - WA State Chiropractic Association
+* Paul Reed
+* Morgan Kinnear
+* Christopher Prouty
+* Anondi Varn
+* Jane Beyer - Office of the Insurance Commissioner
+* Lindsey Lehmuth
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
 
 ### Tue 02/04 01:30 PM - Health Care & Wellness (HCW): HB 1589 Health carriers & providers
 #### 1367 👍 - Pro

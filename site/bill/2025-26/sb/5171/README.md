@@ -17,7 +17,9 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 1 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* John Roskelley
 
 #### 0 ❓ - Other
 

@@ -9,11 +9,12 @@
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1422 Drug take-back program
-#### 67 👍 - Pro
+#### 86 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Carly Bartz-Overman - Washington State Department of Health
 
-#### 10 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * Dr. Victoria Travis - MED-Project WA LLC
 * Wanda Voigt - Inmar Rx Solutions
