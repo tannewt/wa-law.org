@@ -15,9 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165116&caId=26230&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165116&caId=26230&tId=4)
 
-#### 2 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* Gisella Gonzales - TeamChild: Youth Advisory Board
+* Kelli Robinson - Our Sisters house
+* Kelli Robinson - Our Sisters House
 
-#### 0 👎 - Con
+#### 13 👎 - Con
 
 #### 0 ❓ - Other
 

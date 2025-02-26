@@ -13,18 +13,13 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5770 Primary residence/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164957&caId=26165&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164957&caId=26165&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164957&caId=26165&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164957&caId=26165&tId=4)
-
-#### 11 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * John Wilson - Office of Assessments-King County Assessor
 * Linda Hjelle - Snohomish County Assessor
+* Eli Taylor Goss - WA State Budget and Policy Center
 
-#### 143 👎 - Con
+#### 175 👎 - Con
 Testifying:
 * Kenneth Brelsford
 

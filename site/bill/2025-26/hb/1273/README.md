@@ -20,9 +20,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165127&caId=26234&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165127&caId=26234&tId=4)
 
-#### 7 👍 - Pro
+#### 29 👍 - Pro
+Testifying:
+* 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
+* Tianyi Tong - Lake Washington High School
+* John Axtell
+* 💵Jayme Shoun - Washington STEM
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

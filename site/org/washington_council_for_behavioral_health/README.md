@@ -4,6 +4,9 @@
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response   ❓1
 * ❓ Julia O'Connor
 
+### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
+* 👍 Julia O'Connor
+
 ## [HB 1816](/bill/2025-26/hb/1816/) - Civilian crisis resp. teams   ❓1
 * ❓ Olivia Shangrow
 

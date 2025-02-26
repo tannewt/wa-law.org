@@ -14,18 +14,12 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SSB 5041 Unemp ins/strikes & lockouts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164974&caId=26182&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164974&caId=26182&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164974&caId=26182&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164974&caId=26182&tId=4)
-
-#### 589 👍 - Pro
+#### 661 👍 - Pro
 Testifying:
 * Joe Kendo - Washington State Labor Council, AFL-CIO
 * 💵Brenda Wiest - Teamsters117
 
-#### 1112 👎 - Con
+#### 1200 👎 - Con
 Testifying:
 * 💵Lindsey Hueer - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Patrick Connor - NFIB
@@ -39,7 +33,9 @@ Testifying:
 * 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 * Mike Ennis - Building Industry Association of Washington (BIAW)
 
-#### 11 ❓ - Other
+#### 14 ❓ - Other
+Testifying:
+* Josh Dye - Employment Security Department
 
 ### Tue 01/21 10:30 AM - Labor & Commerce (LC): SB 5041 Unemp ins/strikes & lockouts
 #### 1283 👍 - Pro

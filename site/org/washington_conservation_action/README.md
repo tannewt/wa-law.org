@@ -66,7 +66,8 @@
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice 👍1  
 * 👍💵 Darcy Nonemacher
 
-### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
+### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍2  
+* 👍💵 Darcy Nonemacher
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
 * 👍 Caitlin Krenn
@@ -84,11 +85,13 @@
 ### [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users   ❓1
 * ❓💵 Clifford Traisman
 
-## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎2 
+## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎3 
+* 👎💵 Darcy Nonemacher
 
 ## 2023-24
 
-### [SB 5703](/bill/2023-24/sb/5703/) - Municipal solid waste  👎2 
+### [SB 5703](/bill/2023-24/sb/5703/) - Municipal solid waste  👎3 
+* 👎💵 Darcy Nonemacher
 
 ### [HB 1047](/bill/2023-24/hb/1047/) - Cosmetic product chemicals 👍2  
 

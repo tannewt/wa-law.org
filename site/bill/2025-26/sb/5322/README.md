@@ -15,14 +15,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164980&caId=26188&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164980&caId=26188&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Kathleen Nisbet-Moncy - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)
+* Marilyn Sheldon - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)
 
-#### 4 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Darlene Schanfald - Olympic Environmental Council
 * Marilyn Showalter - Jefferson Land Trust
 * David Ortman - n.a.
 * John Garner - Environmental Coalition of Pierce County
+* KIRK KIRKLAND - ENVIRONMENTAL COALITION OF PIERCE COUNTY
 
 #### 0 ❓ - Other
 

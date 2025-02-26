@@ -41,13 +41,14 @@
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
-## [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍3  
+### [SB 5402](/bill/2025-26/sb/5402/) - Financial aid eligibility 👍3  
 * 👍 Bailey Medilo
+
+## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍1  
 
 ## 2023-24
 
-### [SB 5402](/bill/2023-24/sb/5402/) - Financial aid eligibility 👍3  
-* 👍 Bailey Medilo
+### [SB 5771](/bill/2023-24/sb/5771/) - WFTC increase/tenants 👍1  
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍4  
 * 👍💵 Jazmine Smith

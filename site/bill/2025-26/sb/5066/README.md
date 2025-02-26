@@ -18,14 +18,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165092&caId=26226&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165092&caId=26226&tId=4)
 
-#### 218 👍 - Pro
+#### 374 👍 - Pro
 Testifying:
+* Maureen Johnston - [Office of the Attorney General](/org/office_of_the_attorney_general/)
 * 💵Nickeia Hunter - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 
-#### 14 👎 - Con
+#### 722 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Jeff DeVere - WACOPS - Washington Council of Police and Sheriffs
 
 #### 0 ❓ - Other
 

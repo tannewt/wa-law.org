@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1907/</link>
 		<description>Updates about HB 1907</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Feb 2025 06:32:38 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Feb 2025 01:27:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -252,6 +252,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Kevin/Wallace/2025-02-25 06:32:38</guid>
+		</item>
+		<item>
+			<title>Are Washington lawmakers about to tax storage unit rentals? • Washington State Standard</title>
+			<description>News article "Are Washington lawmakers about to tax storage unit rentals? • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Wed, 26 Feb 2025 01:27:06 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/02/25/are-washington-lawmakers-about-to-tax-storage-unit-rentals/#:~:text=House%20Bill%201907</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,7 +7,7 @@
 
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
 
-### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍1  
+### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍2  
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍1  
 
@@ -41,6 +41,9 @@
 * 👍💵 Melanie Smith
 
 ### [SB 5356](/bill/2025-26/sb/5356/) - Criminal justice trainings 👍1  
+
+### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+* 👍 Roz Arch
 
 ### [SB 5536](/bill/2025-26/sb/5536/) - Property distrib./divorce 👍1  
 

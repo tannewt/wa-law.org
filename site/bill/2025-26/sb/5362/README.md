@@ -19,14 +19,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165093&caId=26227&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165093&caId=26227&tId=4)
 
-#### 111 👍 - Pro
+#### 486 👍 - Pro
 Testifying:
 * Carlyn Sampson - Rebuilding Hope Sexual Assault Center
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Roz Arch - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
+* Annalise Martucci - Office of Civil Legal Aid
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Colleen McIngalls - King County Prosecuting Attorney's Office
+* Suzi Fode - Kids Hope Children's Advocacy Center
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Dana Tingey - High Ground Divorces
 
 ### Mon 02/03 10:30 AM - Law & Justice (LAW): SB 5362 Crime victim services
 #### 763 👍 - Pro

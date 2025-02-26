@@ -30,11 +30,11 @@
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
-### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍2  
 
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
 
-### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
+### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍2  
 
 ## [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  
 

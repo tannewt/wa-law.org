@@ -18,6 +18,19 @@
 * [House Republicans](/org/house_republicans/) - [Better Schools | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/better-schools/#:~:text=House%20Bill%201285)
 
 ## Meetings
+### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1285 Financial education
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165216&caId=26240&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165216&caId=26240&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165216&caId=26240&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165216&caId=26240&tId=4)
+
+#### 5 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/23 08:30 AM - Education (ED): HB 1285 Financial education
 #### 134 👍 - Pro
 Testifying:

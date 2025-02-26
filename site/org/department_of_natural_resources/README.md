@@ -76,13 +76,15 @@
 ### [SB 5385](/bill/2025-26/sb/5385/) - Timberland definition/REET 👍1  
 * 👍 Duane Emmons
 
-### [SB 5390](/bill/2025-26/sb/5390/) - Discover pass, day-use cost 👍1  
+### [SB 5390](/bill/2025-26/sb/5390/) - Discover pass, day-use cost 👍2  
+* 👍 Sam Hensold
 * 👍 Sam Hensold
 
 ### [SB 5444](/bill/2025-26/sb/5444/) - New special license plates 👍1  
 * 👍 Pat Sullivan
 
-### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
+### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍2  
+* 👍 Pat Sullivan
 * 👍 Pat Sullivan
 
 ### [SB 5656](/bill/2025-26/sb/5656/) - Aquatic lease inflation rate 👍1  

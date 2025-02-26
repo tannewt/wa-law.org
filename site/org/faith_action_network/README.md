@@ -35,7 +35,7 @@
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍3  
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍4  
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍6  
 
@@ -67,11 +67,11 @@
 
 ### [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍2  
 
-## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍4  
+## [SB 5771](/bill/2025-26/sb/5771/) - WFTC increase/tenants 👍5  
 
 ## 2023-24
 
-### [SB 5771](/bill/2023-24/sb/5771/) - WFTC increase/tenants 👍4  
+### [SB 5771](/bill/2023-24/sb/5771/) - WFTC increase/tenants 👍5  
 
 ### [HB 1000](/bill/2023-24/hb/1000/) - Working families' tax credit   ❓1
 * ❓💵 Kristin Ang

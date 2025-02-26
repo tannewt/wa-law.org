@@ -20,7 +20,7 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
-### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍1  
+### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍2  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
@@ -58,15 +58,19 @@
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍2  
 
+### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  
 
 ### [SB 5488](/bill/2025-26/sb/5488/) - DCYF/financial stability 👍1  
 
-## [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍2  
+### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍2  
+
+## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
 
 ## 2023-24
 
-### [SB 5508](/bill/2023-24/sb/5508/) - Child welfare housing assist 👍2  
+### [SB 5752](/bill/2023-24/sb/5752/) - Child care & early dev.  👎1 
 
 ### [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎1 
 

@@ -66,7 +66,8 @@
 
 ### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍1  
 
-### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings 👍1  
+### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings 👍2  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential 👍1  

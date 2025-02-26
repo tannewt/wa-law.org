@@ -15,13 +15,14 @@
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
 * 👍💵 Neil Strege
 
-## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
+### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍💵 Neil Strege
+
+## [SB 5734](/bill/2025-26/sb/5734/) - Interstate bridge toll bonds 👍1  
 
 ## 2023-24
 
-### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue 👍1  
-* 👍💵 Neil Strege
+### [SB 5734](/bill/2023-24/sb/5734/) - Interstate bridge toll bonds 👍1  
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍2  
 

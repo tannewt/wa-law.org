@@ -24,7 +24,7 @@
 
 ### [SB 5227](/bill/2025-26/sb/5227/) - Child sex dolls 👍1  
 
-### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍2  
 
 ## [SB 5375](/bill/2025-26/sb/5375/) - Clergy, duty to report abuse 👍1  
 

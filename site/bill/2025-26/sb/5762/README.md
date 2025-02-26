@@ -17,12 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164988&caId=26196&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164988&caId=26196&tId=4)
 
-#### 6 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* Levi Van Dyke - Volunteers of America Western Washington
 
-#### 1194 👎 - Con
+#### 1278 👎 - Con
 Testifying:
 * Jeff Gombosky - CTIA - The Wireless Association
 * 💵Rose Feliciano - TechNet
 * Jeff Pack - Me
+* Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 
 #### 1 ❓ - Other

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1233/</link>
 		<description>Updates about HB 1233</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 12:00:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,7 +30,7 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Community Safety.</guid>
 		</item>
 		<item>
-			<title>👍Heather Marks - Lincoln County Commissioner / Chairman Martin Hall Consortium Board</title>
+			<title>👍Heather Marks - Equity in Education Center</title>
 			<description>Heather Marks signed up to testify Pro.</description>
 			<pubDate>Mon, 20 Jan 2025 06:35:51 GMT</pubDate>
 			<category>testifier</category>
@@ -127,6 +127,22 @@
 			<pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-03/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍David Heppard - The Black Rose Collective</title>
+			<description>David Heppard signed up to testify Pro. They are signed up to represent The Black Rose Collective.</description>
+			<pubDate>Tue, 25 Feb 2025 12:00:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/David/Heppard/2025-02-25 12:00:49</guid>
+		</item>
+		<item>
+			<title>👍Tuan Quach - Equity in Education Center</title>
+			<description>Tuan Quach signed up to testify Pro. They are signed up to represent Equity in Education Center.</description>
+			<pubDate>Tue, 25 Feb 2025 12:00:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tuan/Quach/2025-02-25 12:00:49</guid>
 		</item>
 	</channel>
 </rss>

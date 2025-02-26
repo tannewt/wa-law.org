@@ -23,9 +23,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165126&caId=26233&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165126&caId=26233&tId=4)
 
-#### 0 👍 - Pro
+#### 8 👍 - Pro
+Testifying:
+* Patricia Loera - Office of Governor Bob Ferguson/Senior Policy Advisor for Higher Education
+* Melissa Beard - Council of Presidents
 
-#### 0 👎 - Con
+#### 394 👎 - Con
+Testifying:
+* John Axtell
 
 #### 0 ❓ - Other
 

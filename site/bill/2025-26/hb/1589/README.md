@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1589 Health carriers & providers
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165022&caId=26220&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165022&caId=26220&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165022&caId=26220&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165022&caId=26220&tId=4)
-
-#### 719 👍 - Pro
+#### 879 👍 - Pro
 Testifying:
 * 💵Lori Grassi - WA State Chiropractic Association
 * Paul Reed
@@ -28,7 +22,9 @@ Testifying:
 * Sharon Shadwell - [Washington Mental Health Counselors Association](/org/washington_mental_health_counselors_association/)
 * Kayla Clark
 
-#### 4 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* 💵Carrie Tellefson - [Regence Blue Shield](/org/regence_blue_shield/)
 
 #### 1 ❓ - Other
 Testifying:

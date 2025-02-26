@@ -18,7 +18,7 @@
 
 ### [HB 1416](/bill/2025-26/hb/1416/) - Tobacco & vapor products tax 👍1  
 
-### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍1  
+### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍2  
 
 ### [HB 1566](/bill/2025-26/hb/1566/) - Prior authorization/health 👍1  
 * 👍💵 Vanessa Saavedra

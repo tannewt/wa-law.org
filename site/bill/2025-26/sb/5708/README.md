@@ -17,17 +17,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164992&caId=26200&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164992&caId=26200&tId=4)
 
-#### 45 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Keira Domer
 * Sadie Haag
 * Teah Bosworth
 * Jai Jaisimha - Transparency Coalition.ai
+* Adam Eitmann - Washington State Office of the Attorney General
+* Taku Mineshita - Office of Governor Bob Ferguson
 
-#### 1360 👎 - Con
+#### 1608 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Rosemarie Dorn - concerned citizen
 * Amy Bos - NetChoice
+* 💵Rose Feliciano - TechNet
+* Robert Singleton - Chamber of Progress
 * Jayson Reimer
 
 #### 1 ❓ - Other

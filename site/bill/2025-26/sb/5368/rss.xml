@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5368/</link>
 		<description>Updates about SB 5368</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Feb 2025 09:20:33 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 10:56:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -196,6 +196,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Scott/Hazlegrove/2025-02-25 09:20:33</guid>
+		</item>
+		<item>
+			<title>👍Chris Patterson - Southern Glazers Wine and Spirits</title>
+			<description>Chris Patterson signed up to testify Pro.</description>
+			<pubDate>Tue, 25 Feb 2025 09:55:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Chris/Patterson/2025-02-25 09:55:21</guid>
+		</item>
+		<item>
+			<title>👍Sam Miller - Republic National Distributing Company</title>
+			<description>Sam Miller signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/republic_national_distributing_company/"&gt;Republic National Distributing Company&lt;/a&gt;.</description>
+			<pubDate>Tue, 25 Feb 2025 10:56:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sam/Miller/2025-02-25 10:56:27</guid>
 		</item>
 	</channel>
 </rss>

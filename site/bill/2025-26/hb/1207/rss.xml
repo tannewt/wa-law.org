@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1207/</link>
 		<description>Updates about HB 1207</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Feb 2025 07:31:02 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 12:26:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -90,6 +90,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Janet/Baker/2025-02-25 07:31:02</guid>
+		</item>
+		<item>
+			<title>❓Sophia Byrd McSherry - Washington State Office of Public Defense</title>
+			<description>Sophia Byrd McSherry signed up to testify Other. They are signed up to represent Washington State Office of Public Defense.</description>
+			<pubDate>Tue, 25 Feb 2025 12:04:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Sophia/Byrd McSherry/2025-02-25 12:04:20</guid>
+		</item>
+		<item>
+			<title>👎Laquesha Turner-Beers - Board for Judicial Administration</title>
+			<description>Laquesha Turner-Beers signed up to testify Con.</description>
+			<pubDate>Tue, 25 Feb 2025 12:26:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Laquesha/Turner-Beers/2025-02-25 12:26:06</guid>
 		</item>
 	</channel>
 </rss>

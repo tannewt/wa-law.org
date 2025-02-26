@@ -19,9 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164983&caId=26191&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164983&caId=26191&tId=4)
 
-#### 13 👍 - Pro
+#### 27 👍 - Pro
+Testifying:
+* Chris Finlayson - [Pilot Mental Health Campaign](/org/pilot_mental_health_campaign/)
+* Sherman Carll - [Pilot Mental Health Campaign](/org/pilot_mental_health_campaign/)
+* Joe Gansky
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -14,9 +14,11 @@
 ### [HB 1171](/bill/2025-26/hb/1171/) - Mandated reporting/higher ed 👍1  
 * 👍 Rhea Yo
 
-### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍1  
+### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍2  
 
 ### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍2  
+
+### [HB 1207](/bill/2025-26/hb/1207/) - Superior court clerk fees   ❓1
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
 
@@ -35,7 +37,7 @@
 
 ### [HB 1322](/bill/2025-26/hb/1322/) - Juvenile offenses 👍2  
 
-### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍1  
+### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍2  
 * 👍💵 Roxana Gomez
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
@@ -53,7 +55,7 @@
 
 ### [HB 1817](/bill/2025-26/hb/1817/) - Schools/sexual assault 👍1  
 
-### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
+### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍2  
 
 ### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation  👎2 
 
@@ -119,11 +121,15 @@
 
 ### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
 
-## [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍1  
+### [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍1  
+
+## [SB 5761](/bill/2025-26/sb/5761/) - Dependency/attorney appt.   ❓1
+* ❓ Rhea Yo
 
 ## 2023-24
 
-### [SB 5714](/bill/2023-24/sb/5714/) - Bail bond agents/immigration 👍1  
+### [SB 5761](/bill/2023-24/sb/5761/) - Dependency/attorney appt.   ❓1
+* ❓ Rhea Yo
 
 ### [HB 1405](/bill/2023-24/hb/1405/) - Public benefit payments/DCYF 👍1  
 * 👍 Erin Shea McCann

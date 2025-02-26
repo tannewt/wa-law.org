@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5576 Affordable housing funding
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164960&caId=26168&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164960&caId=26168&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164960&caId=26168&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164960&caId=26168&tId=4)
-
-#### 41 👍 - Pro
+#### 43 👍 - Pro
 Testifying:
 * Carl Florea - [City of Leavenworth](/org/city_of_leavenworth/)
 * Caitlin Sullivan
@@ -28,7 +22,7 @@ Testifying:
 * Zeke Reister - resident of Leavenworth
 * BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 267 👎 - Con
+#### 286 👎 - Con
 Testifying:
 * Owen Johnson - Propertyfinderz, Co
 * Richard Moser - Washington hosts collaborative alliance
@@ -69,7 +63,13 @@ Testifying:
 * Anthony Holan
 * LISA VIZZINI
 * David Baumgardner
+* Ken Ploeger - Seattle Airbnb Host Community
+* Daniel Hanson
+* Amy Baker - Willa Villas
+* Judy Cusack-Peterson - Airbnb Host
+* Kandra Kent
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Tina He-Ying Guan
+* Glen-Erik Cortes

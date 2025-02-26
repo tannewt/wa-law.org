@@ -1,6 +1,9 @@
 # Western States Regional Council of Carpenters
 ## 2025-26
 
+### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍1  
+* 👍 Nora Palattao Burnes
+
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages 👍2  
 
 ### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval 👍1 👎6 

@@ -9,17 +9,11 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1926 Home care aides
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164947&caId=26154&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164947&caId=26154&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164947&caId=26154&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=164947&caId=26154&tId=4)
-
 #### 39 👍 - Pro
 Testifying:
 * Jeff Gombosky - [Washington Health Care Association](/org/washington_health_care_association/)
 
-#### 16 👎 - Con
+#### 17 👎 - Con
 
 #### 0 ❓ - Other
 

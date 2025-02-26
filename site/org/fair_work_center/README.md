@@ -35,8 +35,12 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
+### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
+
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards 👍1  
 * 👍 Danielle Alvarado
+
+### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
 
 ## [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍1  
 

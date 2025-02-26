@@ -14,14 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164976&caId=26184&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164976&caId=26184&tId=4)
 
-#### 3 👍 - Pro
+#### 17 👍 - Pro
 Testifying:
 * Ronald Moag - Quilcene School District
 
-#### 13 👎 - Con
+#### 773 👎 - Con
 Testifying:
 * Jared Attridge - Valley School District
 * Mandi Rehn - Valley School District
+* Scott Haeberle - Omak School District
+* Diana Reaume - Quillayute Valley School District
 * Matt Mallery - Mary M Knight SD
+* Michael Porter - Omak School District
+* Shane Black - Parent of Online Student
 
-#### 0 ❓ - Other
+#### 10 ❓ - Other

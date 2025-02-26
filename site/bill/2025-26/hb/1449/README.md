@@ -12,18 +12,14 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1449 Home cultivation of cannabis
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165018&caId=26216&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165018&caId=26216&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165018&caId=26216&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165018&caId=26216&tId=4)
-
-#### 149 👍 - Pro
+#### 166 👍 - Pro
 Testifying:
 * John Kingsbury - with concerns
 * Joshua Sheets
+* Caitlein Ryan - THE CANNABIS ALLIANCE
+* Mike Asai - Black Excellence In Cannabis
 
-#### 1078 👎 - Con
+#### 1100 👎 - Con
 Testifying:
 * 💵Derrick Nunnally - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Megan Moore - [Washington State Public Health Association](/org/washington_state_public_health_association/)

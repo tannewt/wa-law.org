@@ -33,6 +33,8 @@
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 
+### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍1  
+
 ### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
 * 👍💵 Anthony Blankenship
 
@@ -40,11 +42,15 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-## [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
+### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
+
+### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
+
+## [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎1 
 
 ## 2023-24
 
-### [SB 5266](/bill/2023-24/sb/5266/) - Early release petitions 👍1  
+### [SB 5703](/bill/2023-24/sb/5703/) - Municipal solid waste  👎1 
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍3  
 * 👍💵 Kelly Olson

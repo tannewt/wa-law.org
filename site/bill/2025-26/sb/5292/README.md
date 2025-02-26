@@ -9,21 +9,16 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SSB 5292 Family & medical leave rates
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164973&caId=26181&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164973&caId=26181&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164973&caId=26181&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164973&caId=26181&tId=4)
-
-#### 7 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Christoph Mair - Washington State Labor Council, AFL-CIO
 
 #### 52 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Elizabeth New - Washington Policy Center
+* Zachary Freeman - JLARC
 
 ### Tue 01/21 10:30 AM - Labor & Commerce (LC): SB 5292 Family & medical leave rates
 #### 23 👍 - Pro

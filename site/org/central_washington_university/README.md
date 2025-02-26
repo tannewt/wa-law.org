@@ -39,7 +39,7 @@
 
 ### [SB 5666](/bill/2025-26/sb/5666/) - Mental health internships 👍1  
 
-### [SB 5667](/bill/2025-26/sb/5667/) - Intercity passenger rail 👍1  
+### [SB 5667](/bill/2025-26/sb/5667/) - Intercity passenger rail 👍2  
 
 ## [SB 5712](/bill/2025-26/sb/5712/) - Industrial stormwater permit  👎1 
 

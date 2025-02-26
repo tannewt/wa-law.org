@@ -15,18 +15,12 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1971 Prescription hormone therapy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165025&caId=26223&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165025&caId=26223&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165025&caId=26223&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165025&caId=26223&tId=4)
-
-#### 65 👍 - Pro
+#### 78 👍 - Pro
 Testifying:
 * Jenna Comstock - QLAW Association
 * 💵Nicole Kern - [Planned Parenthood Alliance Advocates](/org/planned_parenthood_alliance_advocates/)
 
-#### 177 👎 - Con
+#### 202 👎 - Con
 Testifying:
 * Anthony Holan
 

@@ -57,6 +57,8 @@
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
+### [HB 1625](/bill/2025-26/hb/1625/) - Back country search & rescue 👍1  
+
 ### [HB 1694](/bill/2025-26/hb/1694/) - City & county REET revenues 👍1  
 
 ### [HB 1700](/bill/2025-26/hb/1700/) - Comprehensive plan updates 👍1  

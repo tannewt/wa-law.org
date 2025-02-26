@@ -14,14 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164975&caId=26183&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164975&caId=26183&tId=4)
 
-#### 7 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
 
-#### 1482 👎 - Con
+#### 1727 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Rosemarie Dorn - concerned citizen
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
+* 💵Barbara Gilchrist - Washington State Charter Schools Association

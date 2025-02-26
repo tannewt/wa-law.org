@@ -4,11 +4,13 @@
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍2  
 * 👍💵 Jennifer Baker
 
-## [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+
+## [SB 5734](/bill/2025-26/sb/5734/) - Interstate bridge toll bonds 👍1  
 
 ## 2023-24
 
-### [SB 5041](/bill/2023-24/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+### [SB 5734](/bill/2023-24/sb/5734/) - Interstate bridge toll bonds 👍1  
 
 ### [HB 1717](/bill/2023-24/hb/1717/) - Associate development orgs. 👍6  
 * 👍💵 Jennifer Baker

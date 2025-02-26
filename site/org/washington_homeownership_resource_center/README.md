@@ -24,16 +24,19 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp. 👍1  
 * 👍💵 Denise Rodriguez
 
-### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍4  
+### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍5  
+* 👍💵 Denise Rodriguez
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project 👍1  
 
-## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
+## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍2  
+* 👍💵 Denise Rodriguez
 * 👍💵 Denise Rodriguez
 
 ## 2023-24
 
-### [SB 5686](/bill/2023-24/sb/5686/) - Foreclosure mediation prg. 👍1  
+### [SB 5686](/bill/2023-24/sb/5686/) - Foreclosure mediation prg. 👍2  
+* 👍💵 Denise Rodriguez
 * 👍💵 Denise Rodriguez
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing 👍5  

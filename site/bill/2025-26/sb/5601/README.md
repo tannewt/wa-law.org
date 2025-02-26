@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SSB 5601 Alternative jet fuels
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164961&caId=26169&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164961&caId=26169&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164961&caId=26169&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164961&caId=26169&tId=4)
-
-#### 123 👍 - Pro
+#### 141 👍 - Pro
 Testifying:
 * Andy Billig
 * John Plaza
@@ -31,10 +25,12 @@ Testifying:
 * 💵Neil Hartman - WA State Association of UA Plumbers, Pipefitters and HVAC/R Service Technicians
 * Scott Kennedy - [Alaska Airlines](/org/alaska_airlines/)
 * Yanni Psareas - The Coalition for Renewable Natural Gas
+* 💵Dave Warren - [Twelve](/org/twelve/)
 
-#### 778 👎 - Con
+#### 799 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Ursula Euler - 350Seattle
 
 #### 2 ❓ - Other
 Testifying:

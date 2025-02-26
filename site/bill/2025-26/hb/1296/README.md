@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/25/2025 [Axios](/org/axios/) - [Washington Legislature debates changes to "parents bill of rights," I-2081 - Axios Seattle](https://www.axios.com/local/seattle/2025/02/25/parent-rights-2081-amendments-washington-legislature#:~:text=separate%20House%20proposal)
 * 02/17/2025 [MyNorthwest](/org/mynorthwest/) - [Washington Representative weighs in on one of the most controversial bills this session](https://mynorthwest.com/john-curley/washington-representative-weighs-in-on-one-of-most-controversial-bills-this-session/4047674#:~:text=House%20Bill%201296)
 * 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](http://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=House%20Bill%201296)
 * 02/09/2025 [House Republicans](/org/house_republicans/) - [Better schools and parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/better-schools-and-parental-rights/#:~:text=House%20Bill%201296)

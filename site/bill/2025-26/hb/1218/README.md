@@ -18,13 +18,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165115&caId=26229&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165115&caId=26229&tId=4)
 
-#### 1 👍 - Pro
-
-#### 2 👎 - Con
+#### 6 👍 - Pro
 Testifying:
-* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Chloe Merino - Disability Rights WA; Plaintiff Counsel A.B. v. DSHS (Trueblood)
 
-#### 0 ❓ - Other
+#### 413 👎 - Con
+Testifying:
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+
+#### 1 ❓ - Other
+Testifying:
+* Amber Leaders - Department of Social and Health Services
 
 ### Wed 01/15 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1218 Concerning persons referred for competency evaluation and restoration services. (Remote Testimony Available). (If measure is referred to committee.)
 #### 10 👍 - Pro

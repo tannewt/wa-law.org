@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1432 Mental health services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165017&caId=26215&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165017&caId=26215&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165017&caId=26215&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165017&caId=26215&tId=4)
-
-#### 423 👍 - Pro
+#### 529 👍 - Pro
 Testifying:
 * 💵Anna Nepomuceno - NAMI Washington and Patients Coalition of Washington
 * Jake Swanton - Inseparable
@@ -23,8 +17,9 @@ Testifying:
 * Lindsey Lehmuth
 * Jennifer Kennett - WMHCA
 * Shannon Thompson - WMHCA
+* Ben Packard - Washington State Society for Clinical Social Work
 
-#### 10 👎 - Con
+#### 13 👎 - Con
 Testifying:
 * Kathleen Wedemeyer - Citizens Commission on Human Rights
 

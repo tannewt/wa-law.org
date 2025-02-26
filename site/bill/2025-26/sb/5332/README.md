@@ -18,12 +18,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164995&caId=26203&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164995&caId=26203&tId=4)
 
-#### 6 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Tim McCormick
+* Zachariah Giffin - Operation Tiny Home
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* Kol Peterson
 
-#### 352 👎 - Con
+#### 570 👎 - Con
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * TaraLyn Fray
+* Rosemarie Dorn
+* Rosemarie Dorn - concerned citizen
 * Kerri Burnside - Bellingham Tenants Union
 
 #### 0 ❓ - Other

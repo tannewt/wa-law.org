@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5601/</link>
 		<description>Updates about SB 5601</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Feb 2025 06:36:29 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 11:29:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -205,7 +205,7 @@
 			<guid isPermaLink="false">testifier/John/Plaza/2025-02-23 01:27:51</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - The Coalition for Renewable Natural Gas</title>
+			<title>👎TaraLyn Fray - Twelve</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Sun, 23 Feb 2025 05:12:45 GMT</pubDate>
 			<category>testifier</category>
@@ -283,6 +283,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Yanni/Psareas/2025-02-25 06:36:29</guid>
+		</item>
+		<item>
+			<title>👍💵Dave Warren - Twelve</title>
+			<description>Dave Warren signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/twelve/"&gt;Twelve&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Tue, 25 Feb 2025 10:03:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dave/Warren/2025-02-25 10:03:46</guid>
+		</item>
+		<item>
+			<title>👎Ursula Euler - 350Seattle</title>
+			<description>Ursula Euler signed up to testify Con. They are signed up to represent 350Seattle.</description>
+			<pubDate>Tue, 25 Feb 2025 11:29:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ursula/Euler/2025-02-25 11:29:52</guid>
 		</item>
 	</channel>
 </rss>

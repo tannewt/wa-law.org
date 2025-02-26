@@ -9,19 +9,13 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1516 Insurance/affordable units
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165020&caId=26218&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165020&caId=26218&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165020&caId=26218&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165020&caId=26218&tId=4)
-
-#### 35 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * 💵Bill Clarke - Washington REALTORS
 * Brady Nordstrom - Housing Development Consortium
 * Rory Paine-Donovan - Office of Insurance Commissioner
 
-#### 81 👎 - Con
+#### 90 👎 - Con
 Testifying:
 * Anthony Holan
 

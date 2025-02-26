@@ -15,11 +15,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165114&caId=26228&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165114&caId=26228&tId=4)
 
-#### 0 👍 - Pro
+#### 27 👍 - Pro
+Testifying:
+* Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* James Wells - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
+* Judge Mike Diaz - Interpreter and Language Access Commission
 
-#### 0 👎 - Con
+#### 368 👎 - Con
+Testifying:
+* Mary Lou Pauly - Mayor, City of Issaquah
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Joe McDermott - State Relations Director | King County
 
 ### Wed 01/22 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1174 Court interpreters
 #### 23 👍 - Pro

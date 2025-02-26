@@ -103,6 +103,8 @@
 
 ### [SB 5290](/bill/2025-26/sb/5290/) - Controlled subs. dismissal  👎1 
 
+### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
+
 ### [SB 5367](/bill/2025-26/sb/5367/) - Law enf. community grants 👍1  
 
 ### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential   ❓1

@@ -18,11 +18,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164996&caId=26204&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164996&caId=26204&tId=4)
 
-#### 109 👍 - Pro
+#### 151 👍 - Pro
+Testifying:
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Dylan Sluder - Master Builders Association of King and Snohomish Counties
+* Ezra Hammer
+* Jamie Howsley - jordan ramis
 
-#### 330 👎 - Con
+#### 565 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Rosemarie Dorn - concerned citizen
+* Rosemarie Dorn - concerned citizen
 
 #### 3 ❓ - Other
 Testifying:

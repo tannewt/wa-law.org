@@ -17,6 +17,8 @@
 ### [HB 1566](/bill/2025-26/hb/1566/) - Prior authorization/health  👎1 
 * 👎 Dr. Romilla Batra
 
+### [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers  👎1 
+
 ### [HB 1706](/bill/2025-26/hb/1706/) - Prior auth. APIs/health 👍1  
 * 👍💵 Christine Brewer
 

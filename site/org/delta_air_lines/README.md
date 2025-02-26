@@ -4,6 +4,8 @@
 ### [SB 5396](/bill/2025-26/sb/5396/) - FAA medical certificates   ❓1
 * ❓ Dana Debel
 
+### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+
 ## [SB 5652](/bill/2025-26/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts.  👎1 
 
 ## 2023-24

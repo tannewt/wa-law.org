@@ -18,11 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164994&caId=26202&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164994&caId=26202&tId=4)
 
-#### 18 👍 - Pro
+#### 27 👍 - Pro
+Testifying:
+* Richard Kubiniec
+* Hector Hinojosa
 
-#### 358 👎 - Con
+#### 627 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Rosemarie Dorn
 
 #### 1 ❓ - Other
 

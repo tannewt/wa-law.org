@@ -17,15 +17,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164982&caId=26190&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164982&caId=26190&tId=4)
 
-#### 41 👍 - Pro
+#### 121 👍 - Pro
 Testifying:
 * Betsy Wilkerson - Spokane City Council President
 * James Tieken - AFSCME Local 270, Spokane City Employees
 * Mayor Lisa Brown - [City of Spokane](/org/city_of_spokane/)
+* Connor Glenn
+* Steven Em - Solid waste collection
 
-#### 69 👎 - Con
+#### 289 👎 - Con
+Testifying:
+* 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Mon 02/17 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5703 Municipal solid waste
 #### 128 👍 - Pro

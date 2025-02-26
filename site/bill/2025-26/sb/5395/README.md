@@ -15,9 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164989&caId=26197&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164989&caId=26197&tId=4)
 
-#### 275 👍 - Pro
+#### 389 👍 - Pro
+Testifying:
+* 💵Lisa Thatcher - Washington State Hospital Association
+* 💵Sean Graham - Washington State Medical Association
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* Nancy L. Belcher - King County Medical Society - Seattle, WA
+* Natalie Fuller - [King County Medical Society](/org/king_county_medical_society/)
 
 #### 0 ❓ - Other
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5484/</link>
 		<description>Updates about SB 5484</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 02 Feb 2025 09:59:57 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -77,6 +77,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Peter/Lukevich/2025-02-02 09:59:57</guid>
+		</item>
+		<item>
+			<title>TRAN - Majority; 1st substitute bill be substituted, do pass.</title>
+			<description>TRAN - Majority; 1st substitute bill be substituted, do pass.</description>
+			<pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-25/TRAN - Majority; 1st substitute bill be substituted, do pass.</guid>
 		</item>
 	</channel>
 </rss>

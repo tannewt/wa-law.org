@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5576/</link>
 		<description>Updates about SB 5576</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Feb 2025 08:48:20 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 12:03:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -311,7 +311,7 @@
 			<guid isPermaLink="false">testifier/Carolyn/Allen/2025-02-24 09:05:53</guid>
 		</item>
 		<item>
-			<title>❓Tina He-Ying Guan - Private citizen</title>
+			<title>❓Tina He-Ying Guan - Airbnb Host</title>
 			<description>Tina He-Ying Guan signed up to testify Other.</description>
 			<pubDate>Mon, 24 Feb 2025 09:13:49 GMT</pubDate>
 			<category>testifier</category>
@@ -412,6 +412,54 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/David/Baumgardner/2025-02-25 08:48:20</guid>
+		</item>
+		<item>
+			<title>👎Ken Ploeger - Seattle Airbnb Host Community</title>
+			<description>Ken Ploeger signed up to testify Con. They are signed up to represent Seattle Airbnb Host Community.</description>
+			<pubDate>Tue, 25 Feb 2025 09:52:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ken/Ploeger/2025-02-25 09:52:01</guid>
+		</item>
+		<item>
+			<title>❓Glen-Erik Cortes - Airbnb Host</title>
+			<description>Glen-Erik Cortes signed up to testify Other.</description>
+			<pubDate>Tue, 25 Feb 2025 10:01:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Glen-Erik/Cortes/2025-02-25 10:01:29</guid>
+		</item>
+		<item>
+			<title>👎Daniel Hanson - Seattle Airbnb Host Community</title>
+			<description>Daniel Hanson signed up to testify Con.</description>
+			<pubDate>Tue, 25 Feb 2025 11:18:05 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Daniel/Hanson/2025-02-25 11:18:05</guid>
+		</item>
+		<item>
+			<title>👎Amy Baker - Willa Villas</title>
+			<description>Amy Baker signed up to testify Con. They are signed up to represent Willa Villas.</description>
+			<pubDate>Tue, 25 Feb 2025 11:32:47 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Amy/Baker/2025-02-25 11:32:47</guid>
+		</item>
+		<item>
+			<title>👎Judy Cusack-Peterson - Airbnb Host</title>
+			<description>Judy Cusack-Peterson signed up to testify Con. They are signed up to represent Airbnb Host.</description>
+			<pubDate>Tue, 25 Feb 2025 11:46:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Judy/Cusack-Peterson/2025-02-25 11:46:35</guid>
+		</item>
+		<item>
+			<title>👎Kandra Kent - Airbnb Host</title>
+			<description>Kandra Kent signed up to testify Con.</description>
+			<pubDate>Tue, 25 Feb 2025 12:03:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kandra/Kent/2025-02-25 12:03:51</guid>
 		</item>
 	</channel>
 </rss>

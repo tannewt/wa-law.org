@@ -95,7 +95,7 @@
 
 ### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍1  
 
-### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍2  
+### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍3  
 * 👍💵 Esther Warwick
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  

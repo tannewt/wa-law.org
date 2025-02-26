@@ -43,7 +43,8 @@
 ### [HB 1103](/bill/2025-26/hb/1103/) - Expanding protections against unwanted telephone calls and text messages for cellular users.   ❓1
 * ❓💵 Morgan Irwin
 
-### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍2  
+### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍3  
+* 👍💵 Morgan Irwin
 * 👍💵 Morgan Irwin
 
 ### [HB 1114](/bill/2025-26/hb/1114/) - Concerning the respiratory care interstate compact. 👍1  
@@ -277,7 +278,8 @@
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
 * 👎💵 Lindsey Hueer
 
-### [HB 1768](/bill/2025-26/hb/1768/) - Manuf. housing purchases  👎1 
+### [HB 1768](/bill/2025-26/hb/1768/) - Manuf. housing purchases  👎2 
+* 👎💵 Morgan Irwin
 * 👎💵 Morgan Irwin
 
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
@@ -472,7 +474,7 @@
 
 ### [SB 5385](/bill/2025-26/sb/5385/) - Timberland definition/REET 👍1  
 
-### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care  👎1 
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care  👎2 
 
 ### [SB 5396](/bill/2025-26/sb/5396/) - FAA medical certificates   ❓1
 
@@ -572,6 +574,8 @@
 
 ### [SB 5596](/bill/2025-26/sb/5596/) - Interstate teacher compact  👎1 
 
+### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+
 ### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees 👍1  
 
 ### [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits 👍1  
@@ -611,15 +615,22 @@
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue   ❓1
 * ❓💵 Morgan Irwin
 
+### [SB 5734](/bill/2025-26/sb/5734/) - Interstate bridge toll bonds 👍1  
+
 ### [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank  👎1 
 
 ### [SB 5756](/bill/2025-26/sb/5756/) - Working minors  👎1 
 
-## [SB 5770](/bill/2025-26/sb/5770/) - Primary residence/tax  👎1 
+### [SB 5762](/bill/2025-26/sb/5762/) - 988 line tax  👎1 
+* 👎 Max Martin
+
+### [SB 5770](/bill/2025-26/sb/5770/) - Primary residence/tax  👎1 
+
+## [SB 5773](/bill/2025-26/sb/5773/) - Transportation procurement 👍1  
 
 ## 2023-24
 
-### [SB 5770](/bill/2023-24/sb/5770/) - Primary residence/tax  👎1 
+### [SB 5773](/bill/2023-24/sb/5773/) - Transportation procurement 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

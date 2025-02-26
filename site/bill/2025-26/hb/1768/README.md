@@ -15,19 +15,16 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1768 Manuf. housing purchases
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165024&caId=26222&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165024&caId=26222&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165024&caId=26222&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165024&caId=26222&tId=4)
+#### 191 👍 - Pro
+Testifying:
+* 💵Ishbel Dickens - Assoc of Manufactured Home Owners
 
-#### 146 👍 - Pro
-
-#### 223 👎 - Con
+#### 260 👎 - Con
 Testifying:
 * 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* 💵Morgan Irwin - [Association of Washington Business](/org/association_of_washington_business/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/10 01:30 PM - Housing (HOUS): HB 1768 Manuf. housing purchases
 #### 152 👍 - Pro

@@ -15,12 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=164949&caId=26156&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=164949&caId=26156&tId=4)
 
-#### 8 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Emma Bochan
 * Maria Boyko
 * Michael Gapper
 * Savyo Farias
+* Kent Krumpschmidt - Skamania County Sheriff's Office Search and Rescue
+* Sarah Perry
+* Summer Scheyer - Skamania County Sheriff's Office
 
 #### 0 👎 - Con
 

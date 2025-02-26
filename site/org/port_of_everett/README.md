@@ -5,6 +5,8 @@
 
 ### [HB 1406](/bill/2025-26/hb/1406/) - Associate development orgs 👍2  
 
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 * 👍 Adam LeMieux
 

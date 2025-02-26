@@ -10,13 +10,14 @@
 
 ### [HB 1443](/bill/2025-26/hb/1443/) - Mobile dwellings  👎1 
 
-## [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎1 
+### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎1 
 * 👎 Salim Nice
+
+## [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
 
 ## 2023-24
 
-### [SB 5148](/bill/2023-24/sb/5148/) - GMA housing element  👎1 
-* 👎 Salim Nice
+### [SB 5332](/bill/2023-24/sb/5332/) - Mobile dwellings  👎1 
 
 ### [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍2  
 

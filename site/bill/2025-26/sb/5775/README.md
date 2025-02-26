@@ -11,22 +11,19 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5775 Public safety/local tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164962&caId=26170&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164962&caId=26170&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164962&caId=26170&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164962&caId=26170&tId=4)
-
-#### 11 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Joe McDermott - State Relations Director | King County
 * 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * Linda Thompson - Washington Association for Substance misuse and Violence Prevention (WASAVP)
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Kylie Peterson - WA Assn for Substance Misuse & Violence Prevention
 
-#### 964 👎 - Con
+#### 1016 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Anthony Holan
+* Vernon Jeremica
 
 #### 1 ❓ - Other

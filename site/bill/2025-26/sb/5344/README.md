@@ -8,6 +8,22 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5344 Essential worker health care
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165175&caId=26238&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165175&caId=26238&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165175&caId=26238&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165175&caId=26238&tId=4)
+
+#### 128 👍 - Pro
+Testifying:
+* Carma Matti -Jackson - WHCA
+* Cole Casaret - Nursing home workers
+
+#### 29 👎 - Con
+
+#### 6 ❓ - Other
+
 ### Tue 01/28 10:30 AM - Health & Long Term Care (HLTC): SB 5344 Essential worker health care
 #### 129 👍 - Pro
 Testifying:

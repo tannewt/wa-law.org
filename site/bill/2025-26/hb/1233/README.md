@@ -8,15 +8,12 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Appropriations (APP): HB 1233 Work programs/incarceration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165014&caId=26212&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165014&caId=26212&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165014&caId=26212&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165014&caId=26212&tId=4)
+#### 42 👍 - Pro
+Testifying:
+* David Heppard - The Black Rose Collective
+* Tuan Quach - Equity in Education Center
 
-#### 32 👍 - Pro
-
-#### 142 👎 - Con
+#### 164 👎 - Con
 
 #### 0 ❓ - Other
 

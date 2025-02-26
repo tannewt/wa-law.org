@@ -11,18 +11,16 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5390 Discover pass, day-use cost
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164967&caId=26175&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164967&caId=26175&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164967&caId=26175&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164967&caId=26175&tId=4)
-
-#### 40 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
 * Juelanne Dalzell - [Back Country Horsemen of Washington](/org/back_country_horsemen_of_washington/)
+* John Floberg - Washington State Parks Foundation
+* Sam Hensold - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Brian Considine - State Parks, Policy & Gov't Affairs Director
+* 💵Mark Brown - Former State Parks Commissioner
 
-#### 757 👎 - Con
+#### 772 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Anthony Holan

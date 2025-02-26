@@ -7,19 +7,22 @@
 
 ### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements  👎1 
 
+### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct  👎1 
+
 ### [SB 5461](/bill/2025-26/sb/5461/) - Intensive rural dev. areas 👍1  
 * 👍 Mindy Brooks
 
 ### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs 👍1  
 * 👍 Mindy Brooks
 
-## [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍1  
+### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍1  
 * 👍 Mindy Brooks
+
+## [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev.  👎1 
 
 ## 2023-24
 
-### [SB 5471](/bill/2023-24/sb/5471/) - Middle housing 👍1  
-* 👍 Mindy Brooks
+### [SB 5587](/bill/2023-24/sb/5587/) - Affordable housing dev.  👎1 
 
 ### [HB 1004](/bill/2023-24/hb/1004/) - Bridge jumping signs 👍1  
 

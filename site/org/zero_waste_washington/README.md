@@ -18,7 +18,8 @@
 
 ### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products 👍1  
 
-### [HB 1293](/bill/2025-26/hb/1293/) - Litter 👍1  
+### [HB 1293](/bill/2025-26/hb/1293/) - Litter 👍2  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ### [HB 1302](/bill/2025-26/hb/1302/) - Utility connection charges 👍1  

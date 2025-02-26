@@ -43,6 +43,8 @@
 ### [HB 1534](/bill/2025-26/hb/1534/) - Tobacco, nicotine, and vapor  👎2 
 * 👎 Megan Moore
 
+### [HB 1583](/bill/2025-26/hb/1583/) - Traditional health/medicaid 👍1  
+
 ### [HB 1805](/bill/2025-26/hb/1805/) - Children services/local tax 👍1  
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  

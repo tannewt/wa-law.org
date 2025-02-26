@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SSB 5368 Alcohol taxes and fees study
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164956&caId=26164&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164956&caId=26164&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164956&caId=26164&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32888&aId=164956&caId=26164&tId=4)
-
-#### 82 👍 - Pro
+#### 121 👍 - Pro
 Testifying:
 * 💵Vicki Christophersen - Assoc. of WA Spirits and Wine Distributors
 * 💵Carrie Tellefson - RNDC
@@ -23,6 +17,8 @@ Testifying:
 * Charlie Brown - [Diageo](/org/diageo/)
 * John Gainza
 * Lisa Cole - Southern Glazers Wine and Spirits
+* Chris Patterson
+* Sam Miller - [Republic National Distributing Company](/org/republic_national_distributing_company/)
 
 #### 6 👎 - Con
 Testifying:

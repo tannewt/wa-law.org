@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Transportation (TRAN): SB 5734 Interstate bridge toll bonds
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164803&caId=26059&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164803&caId=26059&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164803&caId=26059&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164803&caId=26059&tId=4)
-
-#### 20 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Doug Vaughn - Principal Financial Officer, WSDOT
 * 💵Heather Kurtenbach - Washington State Building & Construction Trades Council
@@ -25,11 +19,13 @@ Testifying:
 * Mike Bomar - Port of Vancouver USA
 * Ron Arp - Identity Clark County
 * Ron Arp - Identity Clark County
+* Matt Ransom - Southwest Washington Regional Transportation Council
 
-#### 132 👎 - Con
+#### 145 👎 - Con
 Testifying:
 * Douglas Tweet
 * Bob Ortblad - None
 * Anthony Holan
+* Margaret Tweet
 
 #### 0 ❓ - Other

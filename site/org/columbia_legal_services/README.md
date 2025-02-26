@@ -39,7 +39,7 @@
 ### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
 * 👍💵 Antonio Ginatta
 
-### [HB 1233](/bill/2025-26/hb/1233/) - Concerning work programs for incarcerated persons. 👍1  
+### [HB 1233](/bill/2025-26/hb/1233/) - Concerning work programs for incarcerated persons. 👍2  
 * 👍💵 Hannah Woerner
 
 ### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
@@ -76,7 +76,7 @@
 
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍1  
 
-### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
+### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍2  
 
 ### [HB 1915](/bill/2025-26/hb/1915/) - Tenant protections 👍1  
 
@@ -94,7 +94,7 @@
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
-### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍1  
+### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍2  
 * 👍💵 Antonio Ginatta
 
 ### [SB 5103](/bill/2025-26/sb/5103/) - Expediting review of sentences when there exists a pending deportation proceeding. 👍1  

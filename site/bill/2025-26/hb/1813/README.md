@@ -15,9 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=164950&caId=26157&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=164950&caId=26157&tId=4)
 
-#### 39 👍 - Pro
+#### 110 👍 - Pro
+Testifying:
+* Julia O'Connor - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)
+* Lynnwood Police Chief Cole Langdon - Lynnwood Police Department
 
-#### 0 👎 - Con
+#### 353 👎 - Con
 
 #### 1 ❓ - Other
 

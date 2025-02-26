@@ -19,6 +19,8 @@
 
 ### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍1  
 
+### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍1  
+
 ### [HB 1182](/bill/2025-26/hb/1182/) - Parks & rec./interest arb. 👍1  
 
 ### [HB 1183](/bill/2025-26/hb/1183/) - Building codes  👎1 
@@ -113,7 +115,7 @@
 
 ### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent.  👎1 
 
-### [HB 1668](/bill/2025-26/hb/1668/) - Community custody 👍2  
+### [HB 1668](/bill/2025-26/hb/1668/) - Community custody 👍3  
 
 ### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use 👍1  
 
@@ -240,6 +242,8 @@
 ### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
+
+### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
 
 ### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
 

@@ -15,11 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165130&caId=26237&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165130&caId=26237&tId=4)
 
-#### 0 👍 - Pro
+#### 66 👍 - Pro
 
-#### 0 👎 - Con
+#### 3 👎 - Con
+Testifying:
+* 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
+* Travis Coulter
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Jessica Spiegel - WSPA
 
 ### Thu 02/13 08:00 AM - Environment & Energy (ENVI): HB 1912 Agricultural fuel/CCA ex.
 #### 235 👍 - Pro

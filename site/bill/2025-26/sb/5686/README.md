@@ -15,11 +15,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164997&caId=26205&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164997&caId=26205&tId=4)
 
-#### 78 👍 - Pro
+#### 101 👍 - Pro
+Testifying:
+* Raelene Schifano
+* 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 
-#### 344 👎 - Con
+#### 597 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Rosemarie Dorn - concerned citizen
+* Rosemarie Dorn - concerned citizen
 
 #### 1 ❓ - Other
 

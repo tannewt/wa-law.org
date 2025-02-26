@@ -44,7 +44,7 @@
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍2  
 
-### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍2  
 * 👍 Eric ffitch
 
 ### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria   ❓1
@@ -140,7 +140,7 @@
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment  👎1 
 * 👎💵 Carly Michiels
 
-### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
+### [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍2  
 * 👍 Chris Herman
 
 ### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  

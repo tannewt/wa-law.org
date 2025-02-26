@@ -12,21 +12,15 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Appropriations (APP): HB 1402 Job posting/driver's license
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165016&caId=26214&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165016&caId=26214&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165016&caId=26214&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32907&aId=165016&caId=26214&tId=4)
+#### 14 👍 - Pro
 
-#### 12 👍 - Pro
-
-#### 101 👎 - Con
+#### 111 👎 - Con
 Testifying:
 * Mike Ennis - Building Industry Association of Washington (BIAW)
 * 💵Rose Gundersen - WA Retail Association
 * Anthony Holan
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
 
 ### Tue 01/28 10:30 AM - Labor & Workplace Standards (LAWS): HB 1402 Job posting/driver's license
 #### 342 👍 - Pro

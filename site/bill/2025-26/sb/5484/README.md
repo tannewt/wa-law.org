@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/06 04:00 PM - Transportation (TRAN): SB 5484 Tow truck payments/indigent

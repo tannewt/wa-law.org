@@ -16,6 +16,8 @@ Sign up to testify:
 
 #### 3 👍 - Pro
 
-#### 2 👎 - Con
+#### 6 👎 - Con
+Testifying:
+* Mike Pellicciotti - State Treasurer
 
 #### 0 ❓ - Other

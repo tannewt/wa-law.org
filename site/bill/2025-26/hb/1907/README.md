@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Are Washington lawmakers about to tax storage unit rentals? • Washington State Standard](https://washingtonstatestandard.com/2025/02/25/are-washington-lawmakers-about-to-tax-storage-unit-rentals/#:~:text=House%20Bill%201907)
 * 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201907)
 * 02/21/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 24 - 28, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-24-28-2025/#:~:text=HB%201907)
 

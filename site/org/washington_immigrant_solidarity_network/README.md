@@ -68,7 +68,7 @@
 
 ### [SB 5442](/bill/2025-26/sb/5442/) - College promise pilot 👍1  
 
-### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍4  
+### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍5  
 
 ### [SB 5632](/bill/2025-26/sb/5632/) - Confidentiality/interstate 👍1  
 

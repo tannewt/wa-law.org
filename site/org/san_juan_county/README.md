@@ -10,11 +10,13 @@
 
 ### [SB 5089](/bill/2025-26/sb/5089/) - Concerning funding rural county coroners and medical examiners. 👍1  
 
-## [SB 5127](/bill/2025-26/sb/5127/) - Collector vehicle licenses 👍1  
+### [SB 5127](/bill/2025-26/sb/5127/) - Collector vehicle licenses 👍1  
+
+## [SB 5769](/bill/2025-26/sb/5769/) - Transition to kindergarten  👎1 
 
 ## 2023-24
 
-### [SB 5127](/bill/2023-24/sb/5127/) - Collector vehicle licenses 👍1  
+### [SB 5769](/bill/2023-24/sb/5769/) - Transition to kindergarten  👎1 
 
 ### [HB 1241](/bill/2023-24/hb/1241/) - Harassment 👍1  
 

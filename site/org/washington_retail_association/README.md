@@ -224,13 +224,16 @@
 
 ### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
 
-## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue  👎1 
+### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue  👎1 
 * 👎💵 Crystal Leatherman
+
+## [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
+* 👍💵 Mark Johnson
 
 ## 2023-24
 
-### [SB 5726](/bill/2023-24/sb/5726/) - Transportation revenue  👎1 
-* 👎💵 Crystal Leatherman
+### [SB 5775](/bill/2023-24/sb/5775/) - Public safety/local tax 👍1  
+* 👍💵 Mark Johnson
 
 ### [HB 1005](/bill/2023-24/hb/1005/) - Military/employer tax incen. 👍1  
 * 👍💵 Mark Johnson

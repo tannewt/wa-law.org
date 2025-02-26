@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/25/2025 [Senate Democrats](/org/senate_democrats/) - [Working to support you - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/02/25/working-to-support-you/#:~:text=SB%205655!)
+
 ## Meetings
 ### Wed 02/12 10:30 AM - Early Learning & K-12 Education (EDU): SB 5655 Child care centers/buildings
 #### 119 👍 - Pro

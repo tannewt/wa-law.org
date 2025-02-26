@@ -6,6 +6,9 @@
 ### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍1  
 * 👍 Adam Eitmann
 
+### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍1  
+* 👍 Maureen Johnston
+
 ### [SB 5522](/bill/2025-26/sb/5522/) - State capitol campus 👍1  
 
 ## [SB 5708](/bill/2025-26/sb/5708/) - Online services/minors 👍1  

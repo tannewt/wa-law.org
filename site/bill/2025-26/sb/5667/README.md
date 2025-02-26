@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Transportation (TRAN): SB 5667 Intercity passenger rail
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164802&caId=26058&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164802&caId=26058&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164802&caId=26058&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164802&caId=26058&tId=4)
-
-#### 1200 👍 - Pro
+#### 1241 👍 - Pro
 Testifying:
 * Breck Lebegue - WA Physicians for Social Responsibility
 * Susan McCabe
@@ -26,6 +20,11 @@ Testifying:
 * Brandon Bowersox-Johnson - 350 Seattle
 * Thomas White - Climate Rail Alliance and Rail Can't Wait Campaign
 * Meghan Anderson - Kittitas Climate Action
+* Mary Paterson
+* Bill Moyer - Solutionary Rail
+* Sasha Elenko - Solutionary Rail
+* Tim Gould - [Sierra Club](/org/sierra_club/)
+* 💵Mike Elliott - Railroad Labor (Retired)
 
 #### 5 👎 - Con
 

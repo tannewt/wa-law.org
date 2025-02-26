@@ -11,15 +11,11 @@
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Transportation (TRAN): SB 5773 Transportation procurement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164847&caId=26092&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164847&caId=26092&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164847&caId=26092&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32897&aId=164847&caId=26092&tId=4)
+#### 6 👍 - Pro
+Testifying:
+* Catherine Hovell - HNTB
 
-#### 4 👍 - Pro
-
-#### 79 👎 - Con
+#### 88 👎 - Con
 Testifying:
 * Anthony Holan
 

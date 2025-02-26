@@ -110,7 +110,7 @@
 ### [SB 5630](/bill/2025-26/sb/5630/) - Farm fuel users   ❓1
 * ❓💵 Leah Missik
 
-### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎1 
+### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste  👎2 
 
 ## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍💵 Leah Missik

@@ -58,11 +58,13 @@
 
 ### [SB 5500](/bill/2025-26/sb/5500/) - Child care reimburse. rates 👍1  
 
-## [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+## [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
 
 ## 2023-24
 
-### [SB 5509](/bill/2023-24/sb/5509/) - Child care center siting 👍1  
+### [SB 5752](/bill/2023-24/sb/5752/) - Child care & early dev.  👎1 
 
 ### [HB 1071](/bill/2023-24/hb/1071/) - School resource officers  👎2 
 

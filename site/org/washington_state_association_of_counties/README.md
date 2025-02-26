@@ -56,6 +56,9 @@
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave  👎1 
 * 👎💵 Paul Jewell
 
+### [HB 1218](/bill/2025-26/hb/1218/) - Competency eval. & restor.  👎1 
+* 👎💵 Brad Banks
+
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
 * 👍💵 Kelsey Hulse
 
@@ -301,6 +304,8 @@
 
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
 * ❓💵 Curtis Steinhauer
+
+### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
 
 ### [SB 5660](/bill/2025-26/sb/5660/) - Water & sewage system access 👍2  
 * 👍💵 Kelsey Hulse

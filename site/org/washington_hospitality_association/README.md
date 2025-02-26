@@ -51,7 +51,7 @@
 ### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓1
 * ❓💵 Samantha Louderback
 
-### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍1  
+### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍2  
 * 👍 Sean DeWitz
 
 ### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees  👎1 
@@ -89,6 +89,8 @@
 
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
 * 👎 Anthony Anton
+
+### [HB 1833](/bill/2025-26/hb/1833/) - Creating an artificial intelligence grant program. 👍1  
 
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration  👎1 
 
