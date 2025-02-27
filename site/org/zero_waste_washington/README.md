@@ -85,7 +85,7 @@
 ### [SB 5438](/bill/2025-26/sb/5438/) - Hydrofluorocarbons 👍1  
 * 👍💵 Heather Trim
 
-### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍1  
+### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍2  
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
 

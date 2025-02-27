@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5613/</link>
 		<description>Updates about SB 5613</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Feb 2025 09:50:31 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Feb 2025 09:05:58 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -109,7 +109,7 @@
 			<guid isPermaLink="false">2025-02-20/Referred to Ways &amp; Means.</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - jordan ramis</title>
+			<title>👎TaraLyn Fray - Director of Planning and Community Development for the City of Bellingham, WA</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Mon, 24 Feb 2025 06:59:14 GMT</pubDate>
 			<category>testifier</category>
@@ -157,6 +157,14 @@
 			<guid isPermaLink="false">testifier/Dylan/Sluder/2025-02-25 04:37:18</guid>
 		</item>
 		<item>
+			<title>👎Rexine Bennett - concerned citizen</title>
+			<description>Rexine Bennett signed up to testify Con.</description>
+			<pubDate>Tue, 25 Feb 2025 09:45:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rexine/Bennett/2025-02-25 09:45:17</guid>
+		</item>
+		<item>
 			<title>👍Ezra Hammer - Master Builders Association of King and Snohomish Counties</title>
 			<description>Ezra Hammer signed up to testify Pro.</description>
 			<pubDate>Tue, 25 Feb 2025 09:49:25 GMT</pubDate>
@@ -171,6 +179,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jamie/Howsley/2025-02-25 09:50:31</guid>
+		</item>
+		<item>
+			<title>👍Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA</title>
+			<description>Blake Lyon signed up to testify Pro. They are signed up to represent Director of Planning and Community Development for the City of Bellingham, WA.</description>
+			<pubDate>Wed, 26 Feb 2025 09:05:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Blake/Lyon/2025-02-26 09:05:58</guid>
 		</item>
 	</channel>
 </rss>

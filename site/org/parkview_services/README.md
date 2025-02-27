@@ -3,12 +3,12 @@
 
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
 
-## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍6  
+## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍8  
 * 👍 Marc Cote
 
 ## 2023-24
 
-### [SB 5686](/bill/2023-24/sb/5686/) - Foreclosure mediation prg. 👍6  
+### [SB 5686](/bill/2023-24/sb/5686/) - Foreclosure mediation prg. 👍8  
 * 👍 Marc Cote
 
 ### [HB 1628](/bill/2023-24/hb/1628/) - Real estate excise tax 👍1  

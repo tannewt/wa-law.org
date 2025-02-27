@@ -16,24 +16,24 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5387 Corp practice of health care
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164986&caId=26194&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164986&caId=26194&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164986&caId=26194&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164986&caId=26194&tId=4)
-
-#### 216 👍 - Pro
+#### 241 👍 - Pro
 Testifying:
 * Jay Dr. Lopez
+* Jane Beyer - Office of the Insurance Commissioner
+* 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
-#### 570 👎 - Con
+#### 687 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Mary Ann Lebold
 * Rosemaire Dorn
 * 💵Vicki Christophersen - Washington Independent Physician Practice Assoc.
+* Rexine Bennett
 
-#### 1 ❓ - Other
+#### 7 ❓ - Other
+Testifying:
+* 💵Cara Helmer - Washington State Hospital Association
+* 💵Lisa Thatcher - Washington State Hospital Association
 
 ### Fri 02/07 08:00 AM - Health & Long Term Care (HLTC): SB 5387 Corp. practice of medicine
 #### 256 👍 - Pro

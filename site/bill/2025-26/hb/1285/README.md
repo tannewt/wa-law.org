@@ -19,13 +19,10 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1285 Financial education
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165216&caId=26240&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165216&caId=26240&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165216&caId=26240&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165216&caId=26240&tId=4)
-
-#### 5 👍 - Pro
+#### 39 👍 - Pro
+Testifying:
+* 💵Paula Sardinas - WBBA (WA Build Black Alliance)
+* Dakota Manley - Washington State Young Republicans
 
 #### 0 👎 - Con
 

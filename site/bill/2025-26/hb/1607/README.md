@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington legislators debate bills to boost recycling • Washington State Standard](https://washingtonstatestandard.com/2025/02/26/washington-legislators-debate-bills-to-boost-recycling/#:~:text=House%20Bill%201607)
 * 02/22/2025 [House Republicans](/org/house_republicans/) - [Safer streets | Washington State House Republicans](http://houserepublicans.wa.gov/current/safer-streets/#:~:text=House%20Bill%201607)
 * 02/22/2025 [House Republicans](/org/house_republicans/) - [Safer streets | Washington State House Republicans](https://houserepublicans.wa.gov/current/safer-streets/#:~:text=House%20Bill%201607)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201607)

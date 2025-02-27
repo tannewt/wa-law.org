@@ -11,21 +11,17 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SB 5762 988 line tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164988&caId=26196&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164988&caId=26196&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164988&caId=26196&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164988&caId=26196&tId=4)
-
-#### 11 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Levi Van Dyke - Volunteers of America Western Washington
+* 💵Brad Banks - Behavioral Health Administrative Services Organizations
 
-#### 1278 👎 - Con
+#### 1352 👎 - Con
 Testifying:
 * Jeff Gombosky - CTIA - The Wireless Association
 * 💵Rose Feliciano - TechNet
 * Jeff Pack - Me
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
 
 #### 1 ❓ - Other

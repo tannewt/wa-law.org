@@ -9,20 +9,16 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1912 Agricultural fuel/CCA ex.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165130&caId=26237&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165130&caId=26237&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165130&caId=26237&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165130&caId=26237&tId=4)
+#### 128 👍 - Pro
+Testifying:
+* 💵Kate Brouns - Governor's Office
 
-#### 66 👍 - Pro
-
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * 💵Diana Carlen - [Washington Oil Marketers Association](/org/washington_oil_marketers_association/)
 * Travis Coulter
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Jessica Spiegel - WSPA
 

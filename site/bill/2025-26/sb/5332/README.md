@@ -12,12 +12,6 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5332 Mobile dwellings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164995&caId=26203&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164995&caId=26203&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164995&caId=26203&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164995&caId=26203&tId=4)
-
 #### 19 👍 - Pro
 Testifying:
 * Tim McCormick
@@ -25,15 +19,19 @@ Testifying:
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Kol Peterson
 
-#### 570 👎 - Con
+#### 658 👎 - Con
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * TaraLyn Fray
 * Rosemarie Dorn
 * Rosemarie Dorn - concerned citizen
+* Rexine Bennett
 * Kerri Burnside - Bellingham Tenants Union
+* Michael Mactutis - City of Kent, Public Works Department
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA
 
 ### Wed 01/29 10:30 AM - Housing (HSG): SB 5332 Mobile dwellings
 #### 54 👍 - Pro

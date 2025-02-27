@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/25/2025 [MyNorthwest](/org/mynorthwest/) - [Washington Senate approves memorial for trooper killed by burglary suspect](https://mynorthwest.com/local/washington-senate-approves-memorial-for-trooper-killed-by-burglary-suspect/4052513#:~:text=Senate%20Joint%20Memorial%208003)
+
 ## Meetings
 ### Thu 02/06 04:00 PM - Transportation (TRAN): SJM 8003 I-82/Charles Frank Noble, Jr
 #### 9 👍 - Pro

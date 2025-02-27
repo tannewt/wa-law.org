@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1406/</link>
 		<description>Updates about HB 1406</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Feb 2025 12:30:50 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -153,6 +153,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Sarah/Clark/2025-02-19 12:30:50</guid>
+		</item>
+		<item>
+			<title>APP - Executive action taken by committee.</title>
+			<description>APP - Executive action taken by committee.</description>
+			<pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-25/APP - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

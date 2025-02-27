@@ -18,7 +18,8 @@
 ### [SB 5152](/bill/2025-26/sb/5152/) - Concerning state employee access to peer-reviewed journals. 👍1  
 * 👍 Francisco Santiago-Ávila
 
-### [SB 5171](/bill/2025-26/sb/5171/) - Wolf predation  👎1 
+### [SB 5171](/bill/2025-26/sb/5171/) - Wolf predation  👎2 
+* 👎 Francisco Santiago-Ávila
 * 👎 Francisco Santiago-Ávila
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  

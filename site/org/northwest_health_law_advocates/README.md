@@ -55,13 +55,15 @@
 ### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program   ❓1
 * ❓💵 Emily Brice
 
-### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍1  
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍2  
+* 👍💵 Emily Brice
 * 👍💵 Emily Brice
 
 ### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎2 
 * 👎💵 Vanessa Saavedra
 
-### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍1  
+### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health 👍2  
+* 👍💵 Vanessa Saavedra
 * 👍💵 Vanessa Saavedra
 
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  

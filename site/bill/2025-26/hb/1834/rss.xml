@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1834/</link>
 		<description>Updates about HB 1834</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Feb 2025 09:15:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -184,6 +184,54 @@
 			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-21/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👎💵Morgan Irwin - AWB</title>
+			<description>Morgan Irwin signed up to testify Con. They are signed up to represent AWB. They are a registered lobbyist.</description>
+			<pubDate>Tue, 25 Feb 2025 09:31:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Morgan/Irwin/2025-02-25 09:31:19</guid>
+		</item>
+		<item>
+			<title>👎💵Rose Feliciano - TechNet</title>
+			<description>Rose Feliciano signed up to testify Con. They are signed up to represent TechNet. They are a registered lobbyist.</description>
+			<pubDate>Wed, 26 Feb 2025 05:05:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rose/Feliciano/2025-02-26 05:05:46</guid>
+		</item>
+		<item>
+			<title>👎Amy Bos - NetChoice</title>
+			<description>Amy Bos signed up to testify Con. They are signed up to represent NetChoice.</description>
+			<pubDate>Wed, 26 Feb 2025 07:51:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Amy/Bos/2025-02-26 07:51:59</guid>
+		</item>
+		<item>
+			<title>👍Taku Mineshita - Office of Governor Bob Ferguson</title>
+			<description>Taku Mineshita signed up to testify Pro. They are signed up to represent Office of Governor Bob Ferguson.</description>
+			<pubDate>Wed, 26 Feb 2025 08:16:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Taku/Mineshita/2025-02-26 08:16:04</guid>
+		</item>
+		<item>
+			<title>👍Adam Eitmann - Washington State Office of the Attorney General</title>
+			<description>Adam Eitmann signed up to testify Pro. They are signed up to represent Washington State Office of the Attorney General.</description>
+			<pubDate>Wed, 26 Feb 2025 09:00:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Adam/Eitmann/2025-02-26 09:00:54</guid>
+		</item>
+		<item>
+			<title>👍Stephan Blanford - Children's Alliance</title>
+			<description>Stephan Blanford signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/children's_alliance/"&gt;Children's Alliance&lt;/a&gt;.</description>
+			<pubDate>Wed, 26 Feb 2025 09:15:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Stephan/Blanford/2025-02-26 09:15:34</guid>
 		</item>
 	</channel>
 </rss>

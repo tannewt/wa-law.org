@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1273 Dual credit program access
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165127&caId=26234&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165127&caId=26234&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165127&caId=26234&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165127&caId=26234&tId=4)
-
-#### 29 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 * Tianyi Tong - Lake Washington High School

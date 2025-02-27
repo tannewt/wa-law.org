@@ -33,7 +33,8 @@
 ### [HB 1646](/bill/2025-26/hb/1646/) - DNR civil enforcement appeal 👍1  
 * 👍 Erika Odem
 
-### [HB 1647](/bill/2025-26/hb/1647/) - Surface mine reclamation 👍1  
+### [HB 1647](/bill/2025-26/hb/1647/) - Surface mine reclamation 👍2  
+* 👍 Pat Sullivan
 * 👍 Pat Sullivan
 
 ### [HB 1734](/bill/2025-26/hb/1734/) - Outdoor learning grants 👍1  
@@ -49,8 +50,9 @@
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue   ❓1
 
-### [HB 1969](/bill/2025-26/hb/1969/) - Law enf. aviation support   ❓2
+### [HB 1969](/bill/2025-26/hb/1969/) - Law enf. aviation support   ❓3
 * ❓ George Geissler
+* ❓ Pat Sullivan
 * ❓ Pat Sullivan
 
 ### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  

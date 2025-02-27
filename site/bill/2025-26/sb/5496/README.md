@@ -16,22 +16,20 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5496 Home buying by entities
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164993&caId=26201&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164993&caId=26201&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164993&caId=26201&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164993&caId=26201&tId=4)
-
-#### 78 👍 - Pro
+#### 183 👍 - Pro
 Testifying:
 * 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 
-#### 725 👎 - Con
+#### 879 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Rosemarie Dorn - concerned citizen
+* 💵Morgan Irwin - AWB
+* Tim eyman - Initiative activist
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Craig Trummel - [Washington Land Title Association](/org/washington_land_title_association/)
 
 ### Wed 02/05 10:30 AM - Housing (HSG): SB 5496 Home buying by entities
 #### 150 👍 - Pro

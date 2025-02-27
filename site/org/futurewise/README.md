@@ -110,6 +110,8 @@
 ### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing   ❓1
 * ❓💵 Bryce Yadon
 
+### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
+
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters 👍1  
 * 👍💵 Bryce Yadon
 
@@ -128,7 +130,7 @@
 ### [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits  👎1 
 * 👎💵 Bryce Yadon
 
-### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
+### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎2 
 
 ### [SB 5660](/bill/2025-26/sb/5660/) - Water & sewage system access  👎1 
 * 👎💵 Bryce Yadon

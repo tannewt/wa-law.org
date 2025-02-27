@@ -5,6 +5,8 @@
 
 ### [HB 1311](/bill/2025-26/hb/1311/) - Gray wolves 👍1  
 
+### [HB 1583](/bill/2025-26/hb/1583/) - Traditional health/medicaid 👍1  
+
 ## [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍1  
 * 👍 Monica Tonasket
 

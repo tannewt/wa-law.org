@@ -49,7 +49,7 @@
 
 ### [SB 5378](/bill/2025-26/sb/5378/) - PFML grants/school districts  👎1 
 
-### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍1  
+### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍2  
 * 👍 Sam Hatzenbeler
 
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  

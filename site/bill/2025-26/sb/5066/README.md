@@ -12,18 +12,12 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5066 Law enf. misconduct
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165092&caId=26226&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165092&caId=26226&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165092&caId=26226&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165092&caId=26226&tId=4)
-
-#### 374 👍 - Pro
+#### 503 👍 - Pro
 Testifying:
 * Maureen Johnston - [Office of the Attorney General](/org/office_of_the_attorney_general/)
 * 💵Nickeia Hunter - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
 
-#### 722 👎 - Con
+#### 1228 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

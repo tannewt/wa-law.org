@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1668/</link>
 		<description>Updates about HB 1668</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 09:16:30 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -176,6 +176,14 @@
 			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-21/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Pro. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Tue, 25 Feb 2025 09:16:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2025-02-25 09:16:30</guid>
 		</item>
 	</channel>
 </rss>

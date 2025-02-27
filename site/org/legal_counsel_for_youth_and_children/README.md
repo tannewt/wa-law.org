@@ -119,6 +119,8 @@
 ### [SB 5620](/bill/2025-26/sb/5620/) - Foster care/rights of child 👍1  
 * 👍💵 Roxana Gomez
 
+### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
+
 ### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
 
 ### [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍1  

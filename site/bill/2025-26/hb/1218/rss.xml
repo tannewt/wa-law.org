@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1218/</link>
 		<description>Updates about HB 1218</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Feb 2025 10:36:42 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Feb 2025 04:46:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -210,12 +210,28 @@
 			<guid isPermaLink="false">testifier/Brad/Banks/2025-02-25 08:53:25</guid>
 		</item>
 		<item>
+			<title>👎James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Con. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Tue, 25 Feb 2025 09:30:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2025-02-25 09:30:13</guid>
+		</item>
+		<item>
 			<title>👍💵Chloe Merino - Disability Rights WA; Plaintiff Counsel A.B. v. DSHS (Trueblood)</title>
 			<description>Chloe Merino signed up to testify Pro. They are signed up to represent Disability Rights WA; Plaintiff Counsel A.B. v. DSHS (Trueblood). They are a registered lobbyist.</description>
 			<pubDate>Tue, 25 Feb 2025 10:36:42 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Chloe/Merino/2025-02-25 10:36:42</guid>
+		</item>
+		<item>
+			<title>👎Rick Bartholomew - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>Rick Bartholomew signed up to testify Con.</description>
+			<pubDate>Wed, 26 Feb 2025 04:46:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Rick/Bartholomew/2025-02-26 04:46:13</guid>
 		</item>
 	</channel>
 </rss>

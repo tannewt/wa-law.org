@@ -15,7 +15,8 @@
 
 ### [HB 1713](/bill/2025-26/hb/1713/) - Automatic voter reg./tribes 👍1  
 
-### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍5  
+### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍6  
+* 👍 Stephan Blanford
 * 👍 Stephan Blanford
 
 ### [HB 1876](/bill/2025-26/hb/1876/) - Death with dignity act 👍1  
@@ -30,13 +31,15 @@
 
 ### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍1  
 
-## [SB 5708](/bill/2025-26/sb/5708/) - Online services/minors 👍5  
+## [SB 5708](/bill/2025-26/sb/5708/) - Online services/minors 👍6  
 * 👍 Stephan Blanford
+* 👍💵 Reid Saaris
 
 ## 2023-24
 
-### [SB 5708](/bill/2023-24/sb/5708/) - Online services/minors 👍5  
+### [SB 5708](/bill/2023-24/sb/5708/) - Online services/minors 👍6  
 * 👍 Stephan Blanford
+* 👍💵 Reid Saaris
 
 ### [HB 1045](/bill/2023-24/hb/1045/) - Basic income pilot program 👍2  
 

@@ -12,21 +12,17 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1218 Competency eval. & restor.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165115&caId=26229&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165115&caId=26229&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165115&caId=26229&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165115&caId=26229&tId=4)
-
 #### 6 👍 - Pro
 Testifying:
 * 💵Chloe Merino - Disability Rights WA; Plaintiff Counsel A.B. v. DSHS (Trueblood)
 
-#### 413 👎 - Con
+#### 668 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * 💵Brad Banks - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Rick Bartholomew
 
 #### 1 ❓ - Other
 Testifying:

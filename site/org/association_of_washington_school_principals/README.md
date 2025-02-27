@@ -19,7 +19,7 @@
 
 ### [HB 1267](/bill/2025-26/hb/1267/) - Special education funding 👍1  
 
-### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍1  
+### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍2  
 
 ### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍1  
 * 👍💵 Roz Thompson

@@ -10,13 +10,16 @@
 ### [HB 1464](/bill/2025-26/hb/1464/) - Home equity sharing   ❓1
 * ❓ Sean Holland
 
-## [SB 5111](/bill/2025-26/sb/5111/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍2  
+### [SB 5111](/bill/2025-26/sb/5111/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍2  
 * 👍💵 Carrie Tellefson
+
+## [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities   ❓1
+* ❓ Craig Trummel
 
 ## 2023-24
 
-### [SB 5111](/bill/2023-24/sb/5111/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍2  
-* 👍💵 Carrie Tellefson
+### [SB 5496](/bill/2023-24/sb/5496/) - Home buying by entities   ❓1
+* ❓ Craig Trummel
 
 ### [HB 1412](/bill/2023-24/hb/1412/) - Ag. land/foreign ownership   ❓1
 * ❓ Sean Holland

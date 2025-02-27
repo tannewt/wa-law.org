@@ -51,6 +51,8 @@
 
 ### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
 
+### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  
+
 ### [HB 1884](/bill/2025-26/hb/1884/) - Cannabis regulation  👎1 
 
 ### [HB 1932](/bill/2025-26/hb/1932/) - Cannabis consumption  👎1 
@@ -81,11 +83,13 @@
 
 ### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍1  
 
-## [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
+### [SB 5508](/bill/2025-26/sb/5508/) - Child welfare housing assist 👍1  
+
+## [SB 5762](/bill/2025-26/sb/5762/) - 988 line tax 👍1  
 
 ## 2023-24
 
-### [SB 5508](/bill/2023-24/sb/5508/) - Child welfare housing assist 👍1  
+### [SB 5762](/bill/2023-24/sb/5762/) - 988 line tax 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍2  
 

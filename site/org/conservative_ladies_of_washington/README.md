@@ -162,7 +162,8 @@
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue  👎1 
 
-### [SB 5762](/bill/2025-26/sb/5762/) - 988 line tax  👎1 
+### [SB 5762](/bill/2025-26/sb/5762/) - 988 line tax  👎2 
+* 👎 Mary Long
 
 ### [SB 5769](/bill/2025-26/sb/5769/) - Transition to kindergarten  👎1 
 

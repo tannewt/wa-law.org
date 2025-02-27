@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sjm/8003/</link>
 		<description>Updates about SJM 8003</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 25 Feb 2025 16:30:06 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -50,6 +50,13 @@
 			<pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-25/Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Washington Senate approves memorial for trooper killed by burglary suspect</title>
+			<description>News article "Washington Senate approves memorial for trooper killed by burglary suspect" from MyNorthwest.</description>
+			<pubDate>Tue, 25 Feb 2025 16:30:06 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://mynorthwest.com/local/washington-senate-approves-memorial-for-trooper-killed-by-burglary-suspect/4052513#:~:text=Senate%20Joint%20Memorial%208003</guid>
 		</item>
 	</channel>
 </rss>

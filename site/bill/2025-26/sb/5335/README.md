@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5335 Rural nursing education
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164987&caId=26195&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164987&caId=26195&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164987&caId=26195&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164987&caId=26195&tId=4)
-
-#### 91 👍 - Pro
+#### 99 👍 - Pro
 Testifying:
 * Theresa Bowden
 * Brenda Senger - Rural Nursing Education Program (RNEP)

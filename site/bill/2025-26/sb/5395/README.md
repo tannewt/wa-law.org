@@ -9,18 +9,14 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5395 Prior authorization/health
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164989&caId=26197&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164989&caId=26197&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164989&caId=26197&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164989&caId=26197&tId=4)
-
-#### 389 👍 - Pro
+#### 404 👍 - Pro
 Testifying:
 * 💵Lisa Thatcher - Washington State Hospital Association
 * 💵Sean Graham - Washington State Medical Association
+* 💵Vanessa Saavedra - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
+* Rick Marhula - [Proliance Surgeons](/org/proliance_surgeons/)
 
-#### 3 👎 - Con
+#### 4 👎 - Con
 Testifying:
 * Nancy L. Belcher - King County Medical Society - Seattle, WA
 * Natalie Fuller - [King County Medical Society](/org/king_county_medical_society/)

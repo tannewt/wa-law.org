@@ -50,6 +50,9 @@
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 * 👍💵 Carl Schroeder
 
+### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters  👎1 
+* 👎💵 Candice Bock
+
 ### [HB 1175](/bill/2025-26/hb/1175/) - Small businesses/residential   ❓1
 * ❓💵 Carl Schroeder
 
@@ -245,7 +248,8 @@
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍💵 Candice Bock
 
-### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1

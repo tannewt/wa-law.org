@@ -12,21 +12,18 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5587 Affordable housing dev.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164994&caId=26202&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164994&caId=26202&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164994&caId=26202&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164994&caId=26202&tId=4)
-
-#### 27 👍 - Pro
+#### 35 👍 - Pro
 Testifying:
 * Richard Kubiniec
 * Hector Hinojosa
+* Donna Sinclair - Clark County Democrats
+* Evan Randall
 
-#### 627 👎 - Con
+#### 757 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Rosemarie Dorn
+* Rexine Bennett
 
 #### 1 ❓ - Other
 

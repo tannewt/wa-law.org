@@ -9,24 +9,19 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5322 Burrowing shrimp
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164980&caId=26188&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164980&caId=26188&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164980&caId=26188&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164980&caId=26188&tId=4)
-
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Kathleen Nisbet-Moncy - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)
 * Marilyn Sheldon - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)
 
-#### 5 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Darlene Schanfald - Olympic Environmental Council
 * Marilyn Showalter - Jefferson Land Trust
 * David Ortman - n.a.
 * John Garner - Environmental Coalition of Pierce County
 * KIRK KIRKLAND - ENVIRONMENTAL COALITION OF PIERCE COUNTY
+* Joe Breskin - Olympic Environmental Council  501(c)3
 
 #### 0 ❓ - Other
 

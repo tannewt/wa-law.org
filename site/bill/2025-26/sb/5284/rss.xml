@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5284/</link>
 		<description>Updates about SB 5284</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 10:41:47 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Feb 2025 12:00:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -537,6 +537,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Peter/Godlewski/2025-02-24 10:41:47</guid>
+		</item>
+		<item>
+			<title>Washington legislators debate bills to boost recycling • Washington State Standard</title>
+			<description>News article "Washington legislators debate bills to boost recycling • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Wed, 26 Feb 2025 12:00:15 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/02/26/washington-legislators-debate-bills-to-boost-recycling/#:~:text=Senate%20Bill%205284</guid>
 		</item>
 	</channel>
 </rss>

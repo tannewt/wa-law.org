@@ -17,18 +17,12 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1557 Guaranteed admissions prg.
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165126&caId=26233&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165126&caId=26233&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165126&caId=26233&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=165126&caId=26233&tId=4)
-
-#### 8 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Patricia Loera - Office of Governor Bob Ferguson/Senior Policy Advisor for Higher Education
 * Melissa Beard - Council of Presidents
 
-#### 394 👎 - Con
+#### 639 👎 - Con
 Testifying:
 * John Axtell
 

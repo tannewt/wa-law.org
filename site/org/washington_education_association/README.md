@@ -195,7 +195,7 @@
 
 ### [HB 1556](/bill/2025-26/hb/1556/) - HS completers/CTC tuition 👍1  
 
-### [HB 1557](/bill/2025-26/hb/1557/) - Guaranteed admissions prg. 👍1  
+### [HB 1557](/bill/2025-26/hb/1557/) - Guaranteed admissions prg. 👍2  
 
 ### [HB 1565](/bill/2025-26/hb/1565/) - Dual enrollment scholarship 👍1  
 

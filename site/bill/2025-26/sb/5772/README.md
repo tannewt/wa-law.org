@@ -8,17 +8,11 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SB 5772 Student enrollment
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164976&caId=26184&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164976&caId=26184&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164976&caId=26184&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164976&caId=26184&tId=4)
-
 #### 17 👍 - Pro
 Testifying:
 * Ronald Moag - Quilcene School District
 
-#### 773 👎 - Con
+#### 896 👎 - Con
 Testifying:
 * Jared Attridge - Valley School District
 * Mandi Rehn - Valley School District
@@ -28,4 +22,4 @@ Testifying:
 * Michael Porter - Omak School District
 * Shane Black - Parent of Online Student
 
-#### 10 ❓ - Other
+#### 12 ❓ - Other

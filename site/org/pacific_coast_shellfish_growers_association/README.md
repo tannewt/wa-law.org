@@ -9,12 +9,12 @@
 
 ### [SB 5092](/bill/2025-26/sb/5092/) - Farm machinery sales tax 👍1  
 
-## [SB 5322](/bill/2025-26/sb/5322/) - Burrowing shrimp 👍1  
+## [SB 5322](/bill/2025-26/sb/5322/) - Burrowing shrimp 👍2  
 * 👍💵 Diana Carlen
 
 ## 2023-24
 
-### [SB 5322](/bill/2023-24/sb/5322/) - Burrowing shrimp 👍1  
+### [SB 5322](/bill/2023-24/sb/5322/) - Burrowing shrimp 👍2  
 * 👍💵 Diana Carlen
 
 ### [HB 1166](/bill/2023-24/hb/1166/) - Water quality trading prog. 👍1  

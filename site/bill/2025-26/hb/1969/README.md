@@ -8,21 +8,18 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): HB 1969 Law enf. aviation support
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=164951&caId=26158&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=164951&caId=26158&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=164951&caId=26158&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=164951&caId=26158&tId=4)
-
-#### 129 👍 - Pro
+#### 174 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Jesse Anderson - King County Sheriff's Office
 * David Ellis - Spokane Valley Police Department
+* Casey Mayfield
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
 
 ### Tue 02/18 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1969 Law enf. aviation support
 #### 100 👍 - Pro

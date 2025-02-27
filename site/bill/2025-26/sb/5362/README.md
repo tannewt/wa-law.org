@@ -13,13 +13,7 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5362 Crime victim services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165093&caId=26227&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165093&caId=26227&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165093&caId=26227&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=165093&caId=26227&tId=4)
-
-#### 486 👍 - Pro
+#### 616 👍 - Pro
 Testifying:
 * Carlyn Sampson - Rebuilding Hope Sexual Assault Center
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
@@ -28,10 +22,11 @@ Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * Colleen McIngalls - King County Prosecuting Attorney's Office
 * Suzi Fode - Kids Hope Children's Advocacy Center
+* Elisa Adolphsen - Kids Hope CAC
 
 #### 0 👎 - Con
 
-#### 4 ❓ - Other
+#### 5 ❓ - Other
 Testifying:
 * Dana Tingey - High Ground Divorces
 

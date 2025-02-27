@@ -9,20 +9,14 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5155 Salmon recovery projects
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164977&caId=26185&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164977&caId=26185&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164977&caId=26185&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164977&caId=26185&tId=4)
-
-#### 18 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Allan Warren - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
 * Jasmine Zimmer-Stucky - Lower Columbia Estuary Partnership
 * RoseMary LaClair - Chair, Nooksack Indian Tribe
 * Kevin Long - North Olympic Salmon Coalition
 
-#### 609 👎 - Con
+#### 738 👎 - Con
 Testifying:
 * john worthington
 * TaraLyn Fray

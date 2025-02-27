@@ -43,6 +43,8 @@
 * 👍 Greg Poor
 * 👍 Felix Tapley
 
+### [HB 1271](/bill/2025-26/hb/1271/) - State fire service deploy. 👍1  
+
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  

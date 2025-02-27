@@ -9,18 +9,12 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1813 Medical assist reprocurement
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=164950&caId=26157&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=164950&caId=26157&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=164950&caId=26157&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32908&aId=164950&caId=26157&tId=4)
-
-#### 110 👍 - Pro
+#### 127 👍 - Pro
 Testifying:
 * Julia O'Connor - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)
 * Lynnwood Police Chief Cole Langdon - Lynnwood Police Department
 
-#### 353 👎 - Con
+#### 528 👎 - Con
 
 #### 1 ❓ - Other
 

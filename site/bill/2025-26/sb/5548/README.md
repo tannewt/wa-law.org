@@ -9,13 +9,7 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5548 Workers' compensation
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164985&caId=26193&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164985&caId=26193&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164985&caId=26193&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164985&caId=26193&tId=4)
-
-#### 201 👍 - Pro
+#### 212 👍 - Pro
 Testifying:
 * 💵Minna Long - Washington State Building & Construction Trades Council
 * 💵Ray Dumas - OPCMIA Local 528
@@ -23,11 +17,12 @@ Testifying:
 * Armando Sanchez - Local 86 Ironworkers
 * 💵Daniel Goodman - Washington State Association for Justice
 
-#### 684 👎 - Con
+#### 823 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Rosemarie Dorn - concerned citizen
 * 💵Carolyn Logue - Associated Builders and Contractors Inland Pacific Chapter
+* Rexine Bennett
 * 💵Patrick Connor - NFIB
 
 #### 2 ❓ - Other

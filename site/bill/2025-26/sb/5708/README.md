@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SB 5708 Online services/minors
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164992&caId=26200&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164992&caId=26200&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164992&caId=26200&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32889&aId=164992&caId=26200&tId=4)
-
-#### 61 👍 - Pro
+#### 82 👍 - Pro
 Testifying:
 * Keira Domer
 * Sadie Haag
@@ -25,17 +19,22 @@ Testifying:
 * Jai Jaisimha - Transparency Coalition.ai
 * Adam Eitmann - Washington State Office of the Attorney General
 * Taku Mineshita - Office of Governor Bob Ferguson
+* 💵Reid Saaris - [Children's Alliance](/org/children's_alliance/)
 
-#### 1608 👎 - Con
+#### 1740 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Rosemarie Dorn - concerned citizen
 * Amy Bos - NetChoice
 * 💵Rose Feliciano - TechNet
+* 💵Morgan Irwin - AWB
+* Rexine Bennett
 * Robert Singleton - Chamber of Progress
+* Evan Randall
 * Jayson Reimer
+* Jennifer Hanley - Meta
 
-#### 1 ❓ - Other
+#### 27 ❓ - Other
 Testifying:
 * 💵Rose Feliciano - TechNet
 

@@ -151,7 +151,8 @@
 
 ### [HB 1996](/bill/2025-26/hb/1996/) - Behavioral health diversion 👍1  
 
-### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
+* 👍💵 Mark Johnson
 
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 

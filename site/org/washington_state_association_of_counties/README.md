@@ -182,9 +182,10 @@
 
 ### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax 👍1  
 
-### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍2  
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍3  
 * 👍💵 Travis Dutton
 * 👍💵 Paul Jewell
+* 👍💵 Travis Dutton
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍💵 Paul Jewell
