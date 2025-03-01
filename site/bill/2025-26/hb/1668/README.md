@@ -13,11 +13,14 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1668 Community custody
-#### 69 👍 - Pro
+#### 98 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Kati Durkin - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Scott Lee - WFSE Member
+* Jim Furchert - WFSE Member
 
-#### 558 👎 - Con
+#### 602 👎 - Con
 
 #### 1 ❓ - Other
 

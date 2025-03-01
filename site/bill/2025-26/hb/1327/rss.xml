@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1327/</link>
 		<description>Updates about HB 1327</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -66,6 +66,29 @@
 			<pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-04/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>👍Amanda Benton - Washington Horse Racing Commission</title>
+			<description>Amanda Benton signed up to testify Pro. They are signed up to represent Washington Horse Racing Commission.</description>
+			<pubDate>Wed, 26 Feb 2025 02:23:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amanda/Benton/2025-02-26 02:23:56</guid>
+		</item>
+		<item>
+			<title>👍Douglas Moore - Washington Horse Racing Commission</title>
+			<description>Douglas Moore signed up to testify Pro. They are signed up to represent Washington Horse Racing Commission.</description>
+			<pubDate>Wed, 26 Feb 2025 02:23:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Douglas/Moore/2025-02-26 02:23:56</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

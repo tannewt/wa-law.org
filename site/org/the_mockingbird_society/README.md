@@ -66,7 +66,7 @@
 
 ### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍1  
 
-### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile correctional pop.  👎1 
+### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation  👎1 
 
 ### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍2  
 

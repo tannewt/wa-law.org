@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 02/20/2025 [PubliCola](/org/publicola/) - [Seattle Should Follow State's Lead on Inclusionary Zoning—By Funding It - PubliCola](https://publicola.com/2025/02/20/seattle-should-follow-states-lead-on-inclusionary-zoning-by-funding-it/#:~:text=HB%201491)
@@ -19,19 +20,21 @@
 
 ## Meetings
 ### Thu 02/27 09:00 AM - Appropriations (APP): SHB 1491 Transit-oriented housing dev
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32909&aId=165222&caId=26245&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32909&aId=165222&caId=26245&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32909&aId=165222&caId=26245&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32909&aId=165222&caId=26245&tId=4)
+#### 555 👍 - Pro
+Testifying:
+* 💵Michele Thomas - Washington Low Income Housing Alliance
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 5 👍 - Pro
+#### 753 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Sandra Mochizuki
 
-#### 25 👎 - Con
-
-#### 1 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * 💵Morgan Irwin - AWB
+* Salim Nice - Mayor, City Mercer Island
+* 💵Michael Transue - [City of Fife](/org/city_of_fife/)
 
 ### Tue 02/25 09:00 AM - Capital Budget (CB): SHB 1491 Transit-oriented housing dev
 #### 1195 👍 - Pro

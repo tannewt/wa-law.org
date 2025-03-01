@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5184/</link>
 		<description>Updates about SB 5184</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 16:29:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -482,6 +482,13 @@
 			<pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-24/First reading, referred to Local Government.</guid>
+		</item>
+		<item>
+			<title>Updates from Olympia - Sen. June Robinson</title>
+			<description>News article "Updates from Olympia - Sen. June Robinson" from Senate Democrats.</description>
+			<pubDate>Fri, 28 Feb 2025 16:29:05 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/robinson/2025/02/28/updates-from-olympia-2/#:~:text=Senate%20Bill%205184</guid>
 		</item>
 	</channel>
 </rss>

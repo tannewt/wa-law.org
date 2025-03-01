@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 02/22/2025 [House Republicans](/org/house_republicans/) - [Safer streets | Washington State House Republicans](http://houserepublicans.wa.gov/current/safer-streets/#:~:text=House%20Bill%201409)

@@ -23,7 +23,7 @@
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
 
-### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍1  
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍1  
 
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5275/</link>
 		<description>Updates about SB 5275</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 27 Feb 2025 00:41:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -122,6 +122,13 @@
 			<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-11/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>February Session Recap - Sen. T’wina Nobles</title>
+			<description>News article "February Session Recap - Sen. T’wina Nobles" from Senate Democrats.</description>
+			<pubDate>Thu, 27 Feb 2025 00:41:03 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205275</guid>
 		</item>
 	</channel>
 </rss>

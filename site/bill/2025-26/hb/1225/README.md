@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/27/2025 [House Republicans](/org/house_republicans/) - [The “$10 billion” budget shortfall: how did we get here? | Washington State House Republicans](https://houserepublicans.wa.gov/the-10-billion-budget-shortfall/#:~:text=House%20Bill%201225)
 * [House Republicans](/org/house_republicans/) - [Smarter Government | Washington State House Republicans](http://houserepublicans.wa.gov/our-priorities/smarter-government/#:~:text=House%20Bill%201225)
 * [House Republicans](/org/house_republicans/) - [Smarter Government | Washington State House Republicans](https://houserepublicans.wa.gov/our-priorities/smarter-government/#:~:text=House%20Bill%201225)
 

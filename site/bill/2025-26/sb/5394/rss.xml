@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5394/</link>
 		<description>Updates about SB 5394</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,29 @@
 			<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-11/Referred to Ways &amp; Means.</guid>
+		</item>
+		<item>
+			<title>👍Sheri Sawyer - OFM</title>
+			<description>Sheri Sawyer signed up to testify Pro. They are signed up to represent OFM.</description>
+			<pubDate>Wed, 26 Feb 2025 04:34:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sheri/Sawyer/2025-02-26 04:34:32</guid>
+		</item>
+		<item>
+			<title>👎Linda Hyatt - OFM</title>
+			<description>Linda Hyatt signed up to testify Con.</description>
+			<pubDate>Wed, 26 Feb 2025 12:08:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Linda/Hyatt/2025-02-26 12:08:52</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

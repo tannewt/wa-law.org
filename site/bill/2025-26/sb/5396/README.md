@@ -13,7 +13,7 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5396 FAA medical certificates
-#### 38 👍 - Pro
+#### 48 👍 - Pro
 Testifying:
 * Chris Finlayson - [Pilot Mental Health Campaign](/org/pilot_mental_health_campaign/)
 * Sherman Carll - [Pilot Mental Health Campaign](/org/pilot_mental_health_campaign/)

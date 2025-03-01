@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205226)
 * 01/31/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to address physician shortages heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/31/nobles-bill-to-address-physician-shortages-heard-in-committee/#:~:text=Senate%20Bill%205226)
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205226)
 

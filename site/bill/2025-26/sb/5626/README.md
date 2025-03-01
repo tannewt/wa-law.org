@@ -8,18 +8,19 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Reaction to Gov. Ferguson's budget plan & victory on wood stoves - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-looking-ahead-week-eight-april-3-7/#:~:text=SB%205626:)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [Standing strong, moving forward - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/02/07/standing-strong-moving-forward/#:~:text=SB%205626)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Saldaña legislation to provide wage replacement program for excluded workers to be heard in committee - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/02/04/saldana-legislation-to-provide-wage-replacement-program-for-excluded-workers-to-be-heard-in-committee/#:~:text=Senate%20Bill%205626)
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5626 Wage replacement
-#### 968 👍 - Pro
+#### 1076 👍 - Pro
 Testifying:
 * 💵Kaitie Dong - Washington State Budget and Policy Center
 * Sasha Wasserstrom - Washington Immigrant Solidarity Network (WAISN)
 * Duaa-Rahemaah Hunter
 
-#### 1559 👎 - Con
+#### 1654 👎 - Con
 Testifying:
 * Jeff Pack - Washington Citizens Against Unfair Taxes
 * TaraLyn Fray
@@ -28,7 +29,7 @@ Testifying:
 * 💵Patrick Connor - NFIB
 * 💵Carolyn Logue - Washington Food Industry Association
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 
 ### Tue 02/04 10:30 AM - Labor & Commerce (LC): SB 5626 Wage replacement
 #### 711 👍 - Pro

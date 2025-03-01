@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1587/</link>
 		<description>Updates about HB 1587</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 19 Feb 2025 01:43:32 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -127,6 +127,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/John/Axtell/2025-02-19 01:43:32</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

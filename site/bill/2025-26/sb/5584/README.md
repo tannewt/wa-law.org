@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 02/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Reaction to Gov. Ferguson's budget plan & victory on wood stoves - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-looking-ahead-week-eight-april-3-7/#:~:text=SB%205584:)
+
 ## Meetings
 ### Tue 02/04 08:00 AM - Law & Justice (LAW): SB 5584 OII expansion/prosecutions
 #### 564 👍 - Pro

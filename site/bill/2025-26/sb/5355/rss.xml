@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5355/</link>
 		<description>Updates about SB 5355</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 12:08:32 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -267,6 +267,20 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Sharon/Damoff/2025-02-24 12:08:32</guid>
+		</item>
+		<item>
+			<title>February Session Recap - Sen. T’wina Nobles</title>
+			<description>News article "February Session Recap - Sen. T’wina Nobles" from Senate Democrats.</description>
+			<pubDate>Thu, 27 Feb 2025 00:41:03 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205355</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

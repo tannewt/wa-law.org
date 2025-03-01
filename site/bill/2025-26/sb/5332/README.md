@@ -12,14 +12,15 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5332 Mobile dwellings
-#### 19 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Tim McCormick
 * Zachariah Giffin - Operation Tiny Home
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 * Kol Peterson
+* Todd McKellips - WA tiny house association
 
-#### 658 👎 - Con
+#### 679 👎 - Con
 Testifying:
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * TaraLyn Fray

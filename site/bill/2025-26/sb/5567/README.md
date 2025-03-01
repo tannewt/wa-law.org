@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205567)
 * 02/12/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to expand career pathways in natural resources heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/12/nobles-bill-to-expand-career-pathways-in-natural-resources-heard-in-committee/#:~:text=Senate%20Bill%205567)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Building a cleaner, stronger community - Sen. Bill Ramos](https://senatedemocrats.wa.gov/ramos/2025/02/04/building-a-cleaner-stronger-community/#:~:text=SB%205567)
 

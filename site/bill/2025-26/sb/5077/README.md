@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/26/2025 [Senate Democrats](/org/senate_democrats/) - [Almost halfway there!   - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/26/almost-halfway-there/#:~:text=SB%205077)
 * 02/13/2025 [MyNorthwest](/org/mynorthwest/) - [State advances bill to expand voter registration services on a party-line vote](https://mynorthwest.com/mynorthwest-politics/bill-voter/4044929#:~:text=Senate%20Bill%205077)
 * 02/12/2025 [Senate Democrats](/org/senate_democrats/) - [Valdez bill to expand voter registration services passes Senate - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/12/valdez-bill-to-expand-voter-registration-services-passes-senate/#:~:text=Senate%20Bill%205077)
 * 02/10/2025 [Senate Democrats](/org/senate_democrats/) - [Building momentum: Over a third of the way through session - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/10/building-momentum-over-a-third-of-the-way-through-session/#:~:text=SB%205077)

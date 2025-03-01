@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sjm/8003/</link>
 		<description>Updates about SJM 8003</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Feb 2025 16:30:06 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 27 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -57,6 +57,20 @@
 			<pubDate>Tue, 25 Feb 2025 16:30:06 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://mynorthwest.com/local/washington-senate-approves-memorial-for-trooper-killed-by-burglary-suspect/4052513#:~:text=Senate%20Joint%20Memorial%208003</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-27/First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Transportation.</title>
+			<description>First reading, referred to Transportation.</description>
+			<pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-27/First reading, referred to Transportation.</guid>
 		</item>
 	</channel>
 </rss>

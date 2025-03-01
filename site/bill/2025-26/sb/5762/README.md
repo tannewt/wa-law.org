@@ -11,17 +11,18 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SB 5762 988 line tax
-#### 14 👍 - Pro
+#### 18 👍 - Pro
 Testifying:
 * Levi Van Dyke - Volunteers of America Western Washington
 * 💵Brad Banks - Behavioral Health Administrative Services Organizations
 
-#### 1352 👎 - Con
+#### 1367 👎 - Con
 Testifying:
 * Jeff Gombosky - CTIA - The Wireless Association
 * 💵Rose Feliciano - TechNet
 * Jeff Pack - Me
 * Max Martin - [Association of Washington Business](/org/association_of_washington_business/)
 * Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
+* Laurie Layne
 
 #### 1 ❓ - Other

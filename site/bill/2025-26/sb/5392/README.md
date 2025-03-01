@@ -10,8 +10,10 @@
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SB 5392 BSA transfers
 #### 3 👍 - Pro
 
-#### 6 👎 - Con
+#### 7 👎 - Con
 Testifying:
 * Mike Pellicciotti - State Treasurer
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Sheri Sawyer - OFM

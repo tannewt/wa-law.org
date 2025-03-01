@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1813/</link>
 		<description>Updates about HB 1813</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Feb 2025 08:13:54 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -146,6 +146,45 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Lynnwood Police Chief/Cole Langdon/2025-02-25 08:13:54</guid>
+		</item>
+		<item>
+			<title>👍💵Brad Banks - Washington State Association of Counties &amp; BHASOs</title>
+			<description>Brad Banks signed up to testify Pro. They are signed up to represent Washington State Association of Counties &amp; BHASOs. They are a registered lobbyist.</description>
+			<pubDate>Wed, 26 Feb 2025 10:56:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brad/Banks/2025-02-26 10:56:41</guid>
+		</item>
+		<item>
+			<title>👎💵Bill Stauffacher - Coordinated Care</title>
+			<description>Bill Stauffacher signed up to testify Con. They are signed up to represent Coordinated Care. They are a registered lobbyist.</description>
+			<pubDate>Wed, 26 Feb 2025 11:09:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bill/Stauffacher/2025-02-26 11:09:09</guid>
+		</item>
+		<item>
+			<title>👎💵Jennifer Ziegler - Association of Washington Health Care Plans</title>
+			<description>Jennifer Ziegler signed up to testify Con. They are signed up to represent Association of Washington Health Care Plans. They are a registered lobbyist.</description>
+			<pubDate>Wed, 26 Feb 2025 11:09:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jennifer/Ziegler/2025-02-26 11:09:09</guid>
+		</item>
+		<item>
+			<title>👎Tom McBride - Wellpoint</title>
+			<description>Tom McBride signed up to testify Con. They are signed up to represent Wellpoint.</description>
+			<pubDate>Wed, 26 Feb 2025 11:09:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Tom/McBride/2025-02-26 11:09:09</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/Minority; without recommendation.</guid>
 		</item>
 	</channel>
 </rss>

@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/28/2025 [Senate Democrats](/org/senate_democrats/) - [Updates from Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/28/updates-from-olympia-2/#:~:text=Senate%20Bill%205184)
 * 02/20/2025 [The Urbanist](/org/the_urbanist/) - [Washington State Senate Approves Sweeping Parking Reform Bill - The Urbanist](https://www.theurbanist.org/2025/02/20/washington-state-senate-approves-sweeping-parking-reform/#:~:text=Senate%20Bill%205184)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205184)
 * 02/06/2025 [The Urbanist](/org/the_urbanist/) - [Parking Reform Gains Momentum at Washington Legislature - The Urbanist](https://www.theurbanist.org/2025/02/06/parking-reform-gains-momentum-at-washington-legislature/#:~:text=Senate%20Bill%205184)

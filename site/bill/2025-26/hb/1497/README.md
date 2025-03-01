@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Wed 02/19 04:00 PM - Appropriations (APP): SHB 1497 Waste material management

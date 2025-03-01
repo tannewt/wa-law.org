@@ -15,13 +15,14 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Melissa Johnson
 
-## [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
+### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
 * ❓💵 Melissa Johnson
+
+## [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
 
 ## 2023-24
 
-### [SB 5195](/bill/2023-24/sb/5195/) - Capital budget   ❓1
-* ❓💵 Melissa Johnson
+### [SB 5344](/bill/2023-24/sb/5344/) - Essential worker health care 👍1  
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓💵 Melissa Johnson

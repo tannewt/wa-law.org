@@ -190,6 +190,9 @@
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 * 👍💵 Paul Jewell
 
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+* 👍💵 Brad Banks
+
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
 * 👍💵 Derek Young
 
@@ -229,7 +232,7 @@
 
 ### [SB 5260](/bill/2025-26/sb/5260/) - Juvenile correctional pop. 👍1  
 
-### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile correctional pop. 👍1  
+### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation 👍1  
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓2
 * ❓💵 Travis Dutton
@@ -288,8 +291,9 @@
 ### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
 * 👍 BRIAN ENSLOW
 
-### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev.   ❓1
+### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍1  ❓1
 * ❓💵 Curtis Steinhauer
+* 👍💵 Curtis Steinhauer
 
 ### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
 * 👍💵 Curtis Steinhauer

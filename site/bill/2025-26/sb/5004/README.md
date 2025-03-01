@@ -13,6 +13,21 @@
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205004)
 
 ## Meetings
+### Wed 03/05 08:00 AM - Education (ED): ESSB 5004 School emergency response
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165096&caId=26252&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165096&caId=26252&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165096&caId=26252&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165096&caId=26252&tId=4)
+
+#### 4 👍 - Pro
+Testifying:
+* Lori Alhadeff - Make Our Schools Safe
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5004 School emergency response
 #### 489 👍 - Pro
 Testifying:

@@ -16,13 +16,13 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5387 Corp practice of health care
-#### 241 👍 - Pro
+#### 254 👍 - Pro
 Testifying:
 * Jay Dr. Lopez
 * Jane Beyer - Office of the Insurance Commissioner
 * 💵Emily Brice - [Northwest Health Law Advocates](/org/northwest_health_law_advocates/)
 
-#### 687 👎 - Con
+#### 732 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Mary Ann Lebold
@@ -30,10 +30,12 @@ Testifying:
 * 💵Vicki Christophersen - Washington Independent Physician Practice Assoc.
 * Rexine Bennett
 
-#### 7 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * 💵Cara Helmer - Washington State Hospital Association
 * 💵Lisa Thatcher - Washington State Hospital Association
+* Kate White Tudor - Rayus Radiology
+* 💵Sean Graham - Washington State Medical Association
 
 ### Fri 02/07 08:00 AM - Health & Long Term Care (HLTC): SB 5387 Corp. practice of medicine
 #### 256 👍 - Pro

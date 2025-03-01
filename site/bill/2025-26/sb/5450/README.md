@@ -13,7 +13,7 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5450 Sewage-containing spills
-#### 467 👍 - Pro
+#### 555 👍 - Pro
 Testifying:
 * 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
 

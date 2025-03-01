@@ -6,7 +6,7 @@
 
 ### [HB 1183](/bill/2025-26/hb/1183/) - Building codes  👎1 
 
-### [HB 1258](/bill/2025-26/hb/1258/) - Providing funding for municipalities participating in the regional 911 emergency communications system. 👍3  
+### [HB 1258](/bill/2025-26/hb/1258/) - Regional 911 funding 👍3  
 
 ### [HB 1260](/bill/2025-26/hb/1260/) - Document recording fee admin 👍1  
 * 👍💵 Nick Federici

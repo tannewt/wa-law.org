@@ -8,18 +8,23 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SB 5769 Transition to kindergarten
-#### 39 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * Jim Kowalkowski - Rural Education Center
+* Bethany Yuly
 
-#### 1823 👎 - Con
+#### 1846 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Rosemarie Dorn - concerned citizen
 * Rexine Bennett
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
 
-#### 3 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 * 💵Barbara Gilchrist - Washington State Charter Schools Association
 * Jim Kowalkowski - Rural Education Center
+* Jerry Pugh - Colfax School District
+* Jeff Baerwald - Nine Mile Falls School District
+* Nikolas Bergman - Quincy School District

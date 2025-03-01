@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5496/</link>
 		<description>Updates about SB 5496</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Feb 2025 07:53:43 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 16:29:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -144,7 +144,7 @@
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/alvarado/2025/02/21/from-the-desk-of-your-new-state-senator-2/#:~:text=5496</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - Washington Homeownership Resource Center</title>
+			<title>👎TaraLyn Fray - Northwest Community Land Trust Coalition</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Mon, 24 Feb 2025 06:53:27 GMT</pubDate>
 			<category>testifier</category>
@@ -190,6 +190,52 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Craig/Trummel/2025-02-26 07:53:43</guid>
+		</item>
+		<item>
+			<title>👎💵Andrea Smiley - Building Industry Association of Washington</title>
+			<description>Andrea Smiley signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/building_industry_association_of_washington/"&gt;Building Industry Association of Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 26 Feb 2025 09:55:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Andrea/Smiley/2025-02-26 09:55:39</guid>
+		</item>
+		<item>
+			<title>👎💵Katherine Mahoney - Tricon Residential (TAH Operations LLC)</title>
+			<description>Katherine Mahoney signed up to testify Con. They are signed up to represent Tricon Residential (TAH Operations LLC). They are a registered lobbyist.</description>
+			<pubDate>Wed, 26 Feb 2025 10:34:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Katherine/Mahoney/2025-02-26 10:34:21</guid>
+		</item>
+		<item>
+			<title>❓Riley Benge - Washington REALTORS</title>
+			<description>Riley Benge signed up to testify Other. They are signed up to represent Washington REALTORS.</description>
+			<pubDate>Wed, 26 Feb 2025 10:44:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Riley/Benge/2025-02-26 10:44:42</guid>
+		</item>
+		<item>
+			<title>👍💵Nick Federici - Northwest Community Land Trust Coalition</title>
+			<description>Nick Federici signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/northwest_community_land_trust_coalition/"&gt;Northwest Community Land Trust Coalition&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 26 Feb 2025 12:03:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Nick/Federici/2025-02-26 12:03:12</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Updates from Olympia - Sen. June Robinson</title>
+			<description>News article "Updates from Olympia - Sen. June Robinson" from Senate Democrats.</description>
+			<pubDate>Fri, 28 Feb 2025 16:29:05 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/robinson/2025/02/28/updates-from-olympia-2/#:~:text=Senate%20Bill%205496</guid>
 		</item>
 	</channel>
 </rss>

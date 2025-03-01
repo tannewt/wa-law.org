@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5772/</link>
 		<description>Updates about SB 5772</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Feb 2025 11:56:53 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -85,6 +85,29 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Shane/Black/2025-02-25 11:56:53</guid>
+		</item>
+		<item>
+			<title>👎Jim Kowalkowski - Rural Education Center</title>
+			<description>Jim Kowalkowski signed up to testify Con. They are signed up to represent Rural Education Center.</description>
+			<pubDate>Wed, 26 Feb 2025 09:39:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jim/Kowalkowski/2025-02-26 09:39:31</guid>
+		</item>
+		<item>
+			<title>👎Ronald Moag - Quilcene School District</title>
+			<description>Ronald Moag signed up to testify Con. They are signed up to represent Quilcene School District.</description>
+			<pubDate>Wed, 26 Feb 2025 10:54:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ronald/Moag/2025-02-26 10:54:28</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

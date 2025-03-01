@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Reaction to Gov. Ferguson's budget plan & victory on wood stoves - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-looking-ahead-week-eight-april-3-7/#:~:text=HB%201921)
+* 02/26/2025 [The Center Square](/org/the_center_square/) - [‘Watered down’ RUC proposal could still clear Washington Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_944f4ed6-f470-11ef-a7bc-cf4e62a69640.html#:~:text=House%20Bill%201921)
 * 02/25/2025 [The Center Square](/org/the_center_square/) - [Op-Ed: Washington considers imposing mileage tax | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8c0a1d9a-f390-11ef-9b20-8b671d5032e9.html#:~:text=House%20Bill%201921)
 * 02/20/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Emergency powers, the mileage tax and more - Senate Republican Caucus](https://src.wastateleg.org/blog/21267/#:~:text=House%20Bill%201921)
 * 02/19/2025 [The Center Square](/org/the_center_square/) - [Washington pay-per-mile proposal draws praise, skepticism | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9f54c21e-ef22-11ef-8783-3b7e85caa576.html#:~:text=House%20Bill%201921)

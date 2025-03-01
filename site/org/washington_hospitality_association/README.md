@@ -90,7 +90,7 @@
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
 * 👎 Anthony Anton
 
-### [HB 1833](/bill/2025-26/hb/1833/) - Creating an artificial intelligence grant program. 👍1  
+### [HB 1833](/bill/2025-26/hb/1833/) - AI grant program 👍1  
 
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration  👎1 
 

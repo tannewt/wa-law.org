@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5613/</link>
 		<description>Updates about SB 5613</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Feb 2025 09:05:58 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -109,7 +109,7 @@
 			<guid isPermaLink="false">2025-02-20/Referred to Ways &amp; Means.</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - Director of Planning and Community Development for the City of Bellingham, WA</title>
+			<title>👎TaraLyn Fray - Sightline Institute</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Mon, 24 Feb 2025 06:59:14 GMT</pubDate>
 			<category>testifier</category>
@@ -187,6 +187,44 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Blake/Lyon/2025-02-26 09:05:58</guid>
+		</item>
+		<item>
+			<title>👍💵Andrea Smiley - Building Industry Association of Washington</title>
+			<description>Andrea Smiley signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/building_industry_association_of_washington/"&gt;Building Industry Association of Washington&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 26 Feb 2025 09:56:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andrea/Smiley/2025-02-26 09:56:51</guid>
+		</item>
+		<item>
+			<title>👍💵Dan Bertolet - Sightline Institute</title>
+			<description>Dan Bertolet signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/sightline_institute/"&gt;Sightline Institute&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 26 Feb 2025 12:15:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Dan/Bertolet/2025-02-26 12:15:07</guid>
+		</item>
+		<item>
+			<title>❓💵Carl Schroeder - Association of Washington Cities</title>
+			<description>Carl Schroeder signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/association_of_washington_cities/"&gt;Association of Washington Cities&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 26 Feb 2025 12:19:29 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Carl/Schroeder/2025-02-26 12:19:29</guid>
+		</item>
+		<item>
+			<title>An Update on Our Work to Support Affordable Housing - Sen. Jesse Salomon</title>
+			<description>News article "An Update on Our Work to Support Affordable Housing - Sen. Jesse Salomon" from Senate Democrats.</description>
+			<pubDate>Thu, 27 Feb 2025 00:06:15 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/salomon/2025/02/26/heres-how-im-working-to-make-housing-more-affordable/#:~:text=SB%205613</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

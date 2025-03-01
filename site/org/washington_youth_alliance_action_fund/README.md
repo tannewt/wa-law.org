@@ -8,8 +8,9 @@
 ### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍2  
 * 👍 Mahi Malladi
 
-### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍3  
+### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍4  
 * 👍 Fatra Hussein
+* 👍 Mahi Malladi
 * 👍 Mahi Malladi
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
@@ -21,8 +22,10 @@
 
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
-## [SB 5666](/bill/2025-26/sb/5666/) - Mental health internships 👍1  
+### [SB 5666](/bill/2025-26/sb/5666/) - Mental health internships 👍1  
+
+## [SB 5708](/bill/2025-26/sb/5708/) - Online services/minors 👍1  
 
 ## 2023-24
 
-## [SB 5666](/bill/2023-24/sb/5666/) - Mental health internships 👍1  
+## [SB 5708](/bill/2023-24/sb/5708/) - Online services/minors 👍1  

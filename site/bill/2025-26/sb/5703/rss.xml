@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5703/</link>
 		<description>Updates about SB 5703</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Feb 2025 12:59:57 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,7 +30,7 @@
 			<guid isPermaLink="false">2025-02-08/Referred to Local Government.</guid>
 		</item>
 		<item>
-			<title>👍Joshua Victor - Washington Conservation Action</title>
+			<title>👍Joshua Victor - Sierra Club Upper Columbia River Group</title>
 			<description>Joshua Victor signed up to testify Pro.</description>
 			<pubDate>Thu, 13 Feb 2025 02:34:36 GMT</pubDate>
 			<category>testifier</category>
@@ -218,6 +218,21 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Darcy/Nonemacher/2025-02-25 12:59:57</guid>
+		</item>
+		<item>
+			<title>👎W Thomas Soeldner - Sierra Club Upper Columbia River Group</title>
+			<description>W Thomas Soeldner signed up to testify Con. They are signed up to represent Sierra Club Upper Columbia River Group.</description>
+			<pubDate>Wed, 26 Feb 2025 11:02:17 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/W Thomas/Soeldner/2025-02-26 11:02:17</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

@@ -9,7 +9,7 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1909 Court unification task force
-#### 8 👍 - Pro
+#### 14 👍 - Pro
 
 #### 0 👎 - Con
 

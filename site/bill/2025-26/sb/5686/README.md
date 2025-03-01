@@ -9,20 +9,22 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5686 Foreclosure mediation prg.
-#### 115 👍 - Pro
+#### 233 👍 - Pro
 Testifying:
 * Raelene Schifano
 * 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
 
-#### 717 👎 - Con
+#### 740 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Rosemarie Dorn - concerned citizen
 * Rosemarie Dorn - concerned citizen
 * Rexine Bennett
 
-#### 1 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* 💵Brad Tower
 
 ### Fri 02/14 10:30 AM - Housing (HSG): SB 5686 Foreclosure mediation prg.
 #### 111 👍 - Pro

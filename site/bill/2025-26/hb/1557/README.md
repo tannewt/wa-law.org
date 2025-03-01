@@ -17,12 +17,15 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1557 Guaranteed admissions prg.
-#### 13 👍 - Pro
+#### 28 👍 - Pro
 Testifying:
 * Patricia Loera - Office of Governor Bob Ferguson/Senior Policy Advisor for Higher Education
 * Melissa Beard - Council of Presidents
+* 💵Mykhail Lembke - University of Washington Graduate and Professional Student Senate
+* 💵Collin Bannister - The Washington Student Association
+* 💵Sienna Jarrard - Associated Students of UW Bothell
 
-#### 639 👎 - Con
+#### 698 👎 - Con
 Testifying:
 * John Axtell
 

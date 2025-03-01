@@ -12,11 +12,11 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1218 Competency eval. & restor.
-#### 6 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * 💵Chloe Merino - Disability Rights WA; Plaintiff Counsel A.B. v. DSHS (Trueblood)
 
-#### 668 👎 - Con
+#### 724 👎 - Con
 Testifying:
 * 💵Russell Brown - WA Association of Prosecuting Attorneys
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

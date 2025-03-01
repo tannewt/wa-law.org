@@ -7,7 +7,7 @@
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍2  
 
-### [HB 1258](/bill/2025-26/hb/1258/) - Providing funding for municipalities participating in the regional 911 emergency communications system. 👍1  
+### [HB 1258](/bill/2025-26/hb/1258/) - Regional 911 funding 👍1  
 
 ### [HB 1264](/bill/2025-26/hb/1264/) - Ferry system salaries 👍1  
 

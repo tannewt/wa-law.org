@@ -10,6 +10,7 @@
 * [Session Law](S.SL/)
 
 ## 📰 Articles
+* 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [An Update on Our Work to Support Affordable Housing - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2025/02/26/heres-how-im-working-to-make-housing-more-affordable/#:~:text=single-stair%20housing)
 * 02/20/2025 [The Urbanist](/org/the_urbanist/) - [Washington Senate Greenlights Elevator Reform Aimed at Boosting Midrise Homebuilding - The Urbanist](https://www.theurbanist.org/2025/02/20/washington-senate-greenlights-elevator-reform-aimed-at-boosting-midrise-homebuilding/#:~:text=another%20bill)
 * 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam#:~:text=SB%205491)
 * 05/08/2023 [Sightline Institute](/org/sightline_institute/) - [How the Washington Legislature Burst the Housing Abundance Dam - Sightline Institute](https://www.sightline.org/2023/05/08/how-the-washington-legislature-burst-the-housing-abundance-dam/#:~:text=SB%205491)

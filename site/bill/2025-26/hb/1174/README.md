@@ -9,13 +9,14 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1174 Court interpreters
-#### 29 👍 - Pro
+#### 34 👍 - Pro
 Testifying:
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * James Wells - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Judge Mike Diaz - Interpreter and Language Access Commission
+* 💵Jean Hill - Washington State Catholic Conference
 
-#### 561 👎 - Con
+#### 603 👎 - Con
 Testifying:
 * Mary Lou Pauly - Mayor, City of Issaquah
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

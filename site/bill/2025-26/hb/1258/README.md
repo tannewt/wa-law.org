@@ -1,10 +1,11 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1258](/bill/2025-26/hb/1258/)
 
-# HB 1258 - Providing funding for municipalities participating in the regional 911 emergency communications system.
+# HB 1258 - Regional 911 funding
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=1258&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 01/29/2025 [KREM](/org/krem/) - [Spokane County officials, law enforcement discuss potential tax concerns | krem.com](https://www.krem.com/article/news/local/spokane-county-potential-tax-concerns/293-a870f2bf-7a12-4ce3-a484-ace05fb51482#:~:text=House%20Bill%201258,%20which%20was%20introduced%20by%20District%203%20Representatives%20Tim%20Ormsby%20and%20Natasha%20Hill%20to%20the%20state%20legislature%20for%20the%202025-2026%20session.)

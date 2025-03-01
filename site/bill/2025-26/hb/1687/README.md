@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/28/2025 [Cascade PBS](/org/cascade_pbs/) - [What's next for Seattle’s social housing after big tax win? | Cascade PBS](https://crosscut.com/politics/2025/02/whats-next-seattles-social-housing-after-big-tax-win#:~:text=in%20support%20of%20a%20bill)
+
 ## Meetings
 ### Thu 02/20 01:30 PM - Capital Budget (CB): HB 1687 Social housing authorities
 #### 314 👍 - Pro

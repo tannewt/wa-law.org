@@ -1,11 +1,12 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5278](/bill/2025-26/sb/5278/)
 
-# SB 5278 - Juvenile correctional pop.
+# SB 5278 - Juvenile rehabilitation
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5278&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 02/04/2025 [The Center Square](/org/the_center_square/) - [Washington lawmakers wrestle with juvenile correctional facility crisis | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_68867852-e32b-11ef-ba40-4bb880ec3e35.html#:~:text=Senate%20Bill%205278)

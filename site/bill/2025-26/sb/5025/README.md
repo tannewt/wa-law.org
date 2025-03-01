@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Wed 03/05 08:00 AM - Education (ED): SSB 5025 Educational interpreters
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165097&caId=26253&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165097&caId=26253&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165097&caId=26253&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165097&caId=26253&tId=4)
+
+#### 6 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/28 08:00 AM - Early Learning & K-12 Education (EDU): SB 5025 Educational interpreters
 #### 25 👍 - Pro
 Testifying:

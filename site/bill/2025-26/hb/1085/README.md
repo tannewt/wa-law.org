@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 02/13/2025 [FOX13](/org/fox13/) - [Bills protecting WA youth refs makes way to Legislature | FOX 13 Seattle](https://www.fox13seattle.com/news/bills-youth-referees-wa-legislature-seattle-hockey#:~:text=HB%201085)

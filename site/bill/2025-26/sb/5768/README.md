@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/24/2025 [Senate Democrats](/org/senate_democrats/) - [Cortes co-sponsors bills providing tax relief to working families - Sen. Adrian Cortes](https://senatedemocrats.wa.gov/cortes/2025/02/24/cortes-co-sponsors-bills-providing-tax-relief-to-working-families/#:~:text=5768)

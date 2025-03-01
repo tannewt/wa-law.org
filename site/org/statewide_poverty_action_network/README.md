@@ -80,7 +80,7 @@
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
-### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
+### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍2  
 
 ### [SB 5423](/bill/2025-26/sb/5423/) - Digital electronics/repair 👍1  
 

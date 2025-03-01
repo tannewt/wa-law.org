@@ -25,7 +25,7 @@
 
 ### [HB 1256](/bill/2025-26/hb/1256/) - Public works/made in US   ❓1
 
-### [HB 1258](/bill/2025-26/hb/1258/) - Providing funding for municipalities participating in the regional 911 emergency communications system.  👎1 
+### [HB 1258](/bill/2025-26/hb/1258/) - Regional 911 funding  👎1 
 
 ### [HB 1263](/bill/2025-26/hb/1263/) - Essential needs program uses 👍1  
 
@@ -47,7 +47,7 @@
 
 ### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings  👎1 
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓2
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓3
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety  👎1 
 
@@ -85,7 +85,7 @@
 
 ### [HB 1992](/bill/2025-26/hb/1992/) - Safe system approach strat.   ❓1
 
-### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
+### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
 
 ### [SB 5052](/bill/2025-26/sb/5052/) - Law enf. juvenile contact   ❓1
 

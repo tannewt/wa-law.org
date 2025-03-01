@@ -9,9 +9,9 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5171 Wolf predation
-#### 96 👍 - Pro
+#### 117 👍 - Pro
 
-#### 7 👎 - Con
+#### 22 👎 - Con
 Testifying:
 * John Roskelley
 * John Rosapepe - Endangered Species Coalition

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Tue 02/25 08:00 AM - Finance (FIN): SHB 1871 Residential energy storage

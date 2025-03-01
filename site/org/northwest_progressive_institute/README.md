@@ -33,6 +33,8 @@
 
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍1  
 
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+
 ### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance 👍1  
 
 ### [HB 1713](/bill/2025-26/hb/1713/) - Automatic voter reg./tribes 👍1  

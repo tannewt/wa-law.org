@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205164)
 * 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=SSB%205164)
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205164)
 * 01/16/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to expand postsecondary access heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/16/nobles-bill-to-expand-postsecondary-access-heard-in-committee/#:~:text=Senate%20Bill%205164)

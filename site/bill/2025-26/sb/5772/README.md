@@ -8,11 +8,11 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SB 5772 Student enrollment
-#### 17 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Ronald Moag - Quilcene School District
 
-#### 896 👎 - Con
+#### 957 👎 - Con
 Testifying:
 * Jared Attridge - Valley School District
 * Mandi Rehn - Valley School District
@@ -21,5 +21,7 @@ Testifying:
 * Matt Mallery - Mary M Knight SD
 * Michael Porter - Omak School District
 * Shane Black - Parent of Online Student
+* Jim Kowalkowski - Rural Education Center
+* Ronald Moag - Quilcene School District
 
 #### 12 ❓ - Other

@@ -9,7 +9,7 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5395 Prior authorization/health
-#### 404 👍 - Pro
+#### 419 👍 - Pro
 Testifying:
 * 💵Lisa Thatcher - Washington State Hospital Association
 * 💵Sean Graham - Washington State Medical Association

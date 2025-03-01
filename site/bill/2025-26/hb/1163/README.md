@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 02/24/2025 [MyNorthwest](/org/mynorthwest/) - [WA lawmakers reignite firearm permit fight after failing last year](https://mynorthwest.com/mynorthwest-politics/firearm-permit/4051957#:~:text=House%20Bill%201163)

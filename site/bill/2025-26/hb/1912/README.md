@@ -9,9 +9,11 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1912 Agricultural fuel/CCA ex.
-#### 128 👍 - Pro
+#### 160 👍 - Pro
 Testifying:
 * 💵Kate Brouns - Governor's Office
+* 💵Mark Streuli - Washington Potato and Onion Assoc., Washington Assoc of Wheat Growers, Washington Cattlemen's Assoc
+* Ben Buchholz - NW Ag Cooperative Council, WA Friends of Farms and Forests, Far West Agribusiness, NW Grain Growers
 
 #### 4 👎 - Con
 Testifying:

@@ -12,14 +12,16 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5587 Affordable housing dev.
-#### 35 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Richard Kubiniec
 * Hector Hinojosa
 * Donna Sinclair - Clark County Democrats
 * Evan Randall
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* BRIAN ENSLOW - [City of Vancouver](/org/city_of_vancouver/)
 
-#### 757 👎 - Con
+#### 783 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Rosemarie Dorn

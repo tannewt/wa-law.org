@@ -39,7 +39,7 @@
 ### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
 * 👍💵 Antonio Ginatta
 
-### [HB 1233](/bill/2025-26/hb/1233/) - Concerning work programs for incarcerated persons. 👍2  
+### [HB 1233](/bill/2025-26/hb/1233/) - Work programs/incarceration 👍2  
 * 👍💵 Hannah Woerner
 
 ### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
@@ -113,7 +113,7 @@
 
 ### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍2  
 
-### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile correctional pop.  👎1 
+### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation  👎1 
 * 👎💵 Sarah Nagy
 
 ### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍1  

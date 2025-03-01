@@ -8,28 +8,32 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [An Update on Our Work to Support Affordable Housing - Sen. Jesse Salomon](https://senatedemocrats.wa.gov/salomon/2025/02/26/heres-how-im-working-to-make-housing-more-affordable/#:~:text=SB%205613)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205613)
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5613 Residential development
-#### 186 👍 - Pro
+#### 194 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 * Dylan Sluder - Master Builders Association of King and Snohomish Counties
 * Ezra Hammer
 * Jamie Howsley - jordan ramis
 * Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 667 👎 - Con
+#### 690 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Rosemarie Dorn - concerned citizen
 * Rosemarie Dorn - concerned citizen
 * Rexine Bennett
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * 💵Briahna Murray - [City of Tacoma](/org/city_of_tacoma/)
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 
 ### Fri 02/07 10:30 AM - Housing (HSG): SB 5613 Residential development
 #### 51 👍 - Pro

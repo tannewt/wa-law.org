@@ -13,9 +13,10 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): HB 1293 Litter
-#### 121 👍 - Pro
+#### 151 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Susan Vossler - Eastside Litter Busters
 
 #### 3 👎 - Con
 

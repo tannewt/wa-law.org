@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 02/19/2025 [Senate Democrats](/org/senate_democrats/) - [Liias co-sponsors bills to reduce impaired driving, increase law enforcement - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/19/liias-co-sponsors-bills-to-reduce-impaired-driving-increase-law-enforcement/#:~:text=Senate%20Bill%205060)

@@ -9,12 +9,17 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1813 Medical assist reprocurement
-#### 127 👍 - Pro
+#### 139 👍 - Pro
 Testifying:
 * Julia O'Connor - [Washington Council for Behavioral Health](/org/washington_council_for_behavioral_health/)
 * Lynnwood Police Chief Cole Langdon - Lynnwood Police Department
+* 💵Brad Banks - Washington State Association of Counties & BHASOs
 
-#### 528 👎 - Con
+#### 573 👎 - Con
+Testifying:
+* 💵Bill Stauffacher - Coordinated Care
+* 💵Jennifer Ziegler - Association of Washington Health Care Plans
+* Tom McBride - Wellpoint
 
 #### 1 ❓ - Other
 

@@ -8,11 +8,12 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): HB 1647 Surface mine reclamation
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
+* 💵Michael Transue - Washington Aggregate and Concrete Assoiation
 
-#### 625 👎 - Con
+#### 674 👎 - Con
 Testifying:
 * 💵Axel Swanson - Washington State Association of County Engineers
 

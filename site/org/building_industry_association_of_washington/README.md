@@ -216,8 +216,9 @@
 * 👎💵 Andrea Smiley
 * 👎💵 Andrea Smiley
 
-### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities  👎1 
+### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities  👎2 
 * 👎💵 Brent Ludeman
+* 👎💵 Andrea Smiley
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
 
@@ -253,8 +254,9 @@
 
 ### [SB 5612](/bill/2025-26/sb/5612/) - Multiunit housing/SEPA 👍2  
 
-### [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍1  
+### [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍2  
 * 👍💵 Bill Stauffacher
+* 👍💵 Andrea Smiley
 
 ### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees   ❓1
 * ❓💵 Andrea Smiley

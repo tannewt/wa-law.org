@@ -11,7 +11,7 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SB 5703 Municipal solid waste
-#### 140 👍 - Pro
+#### 151 👍 - Pro
 Testifying:
 * Betsy Wilkerson - Spokane City Council President
 * James Tieken - AFSCME Local 270, Spokane City Employees
@@ -19,9 +19,10 @@ Testifying:
 * Connor Glenn
 * Steven Em - Solid waste collection
 
-#### 316 👎 - Con
+#### 328 👎 - Con
 Testifying:
 * 💵Darcy Nonemacher - [Washington Conservation Action](/org/washington_conservation_action/)
+* W Thomas Soeldner - Sierra Club Upper Columbia River Group
 
 #### 2 ❓ - Other
 

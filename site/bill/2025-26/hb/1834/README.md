@@ -15,19 +15,22 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1834 Online services/minors
-#### 18 👍 - Pro
+#### 83 👍 - Pro
 Testifying:
 * Taku Mineshita - Office of Governor Bob Ferguson
 * Adam Eitmann - Washington State Office of the Attorney General
 * Stephan Blanford - [Children's Alliance](/org/children's_alliance/)
+* Jai Jaisimha - Transparency Coalition.ai
+* Mahi Malladi - [Washington Youth Alliance Action Fund](/org/washington_youth_alliance_action_fund/)
+* Adam Cappio - Transparency Coalition
 
-#### 27 👎 - Con
+#### 37 👎 - Con
 Testifying:
 * 💵Morgan Irwin - AWB
 * 💵Rose Feliciano - TechNet
 * Amy Bos - NetChoice
 
-#### 0 ❓ - Other
+#### 12 ❓ - Other
 
 ### Tue 02/18 01:30 PM - Consumer Protection & Business (CPB): HB 1834 Online services/minors
 #### 329 👍 - Pro

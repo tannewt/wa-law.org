@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1839/</link>
 		<description>Updates about HB 1839</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 12:42:21 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Feb 2025 15:48:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -178,6 +178,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Emily/Wittman/2025-02-24 12:42:21</guid>
+		</item>
+		<item>
+			<title>WA bill could end tax cap for major tech companies amid state budget shortfall | Washington | thecentersquare.com</title>
+			<description>News article "WA bill could end tax cap for major tech companies amid state budget shortfall | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 26 Feb 2025 15:48:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_bc6cd952-f47e-11ef-9bdf-5b3c33eb5ea5.html#:~:text=If%20approved,%20House%20Bill%201839</guid>
 		</item>
 	</channel>
 </rss>

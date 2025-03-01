@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5148/</link>
 		<description>Updates about SB 5148</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 18 Feb 2025 12:02:23 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 16:29:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -192,6 +192,20 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Karl/Almgren/2025-02-18 12:02:23</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Updates from Olympia - Sen. June Robinson</title>
+			<description>News article "Updates from Olympia - Sen. June Robinson" from Senate Democrats.</description>
+			<pubDate>Fri, 28 Feb 2025 16:29:05 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/robinson/2025/02/28/updates-from-olympia-2/#:~:text=Senate%20Bill%205148</guid>
 		</item>
 	</channel>
 </rss>

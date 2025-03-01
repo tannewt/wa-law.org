@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 02/26/2025 [Senate Democrats](/org/senate_democrats/) - [Almost halfway there!   - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/26/almost-halfway-there/#:~:text=SB%205069)
 * 01/25/2025 [Senate Democrats](/org/senate_democrats/) - [Pushing for progress - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/01/24/pushing-for-progress/#:~:text=SB%205069)
 * 01/13/2025 [Senate Democrats](/org/senate_democrats/) - [The 2025 legislative session has officially begun - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/01/13/the-2025-legislative-session-has-officially-begun/#:~:text=SB%205069)
 

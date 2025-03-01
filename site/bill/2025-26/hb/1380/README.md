@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/13/2025 [The Center Square](/org/the_center_square/) - [WA bill would let courts decide if city camping bans are ‘objectively reasonable’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_60146aa8-ea4c-11ef-ab18-73d7f7d81f91.html#:~:text=HB%201380)

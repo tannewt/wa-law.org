@@ -30,7 +30,7 @@
 * 👍💵 Shannon Grimes
 * 👍💵 Shannon Grimes
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍2  
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 * 👍💵 Laura Feinstein
@@ -86,12 +86,14 @@
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
 * 👍💵 Dan Bertolet
 
-## [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍1  
+## [SB 5613](/bill/2025-26/sb/5613/) - Residential development 👍2  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ## 2023-24
 
-### [SB 5613](/bill/2023-24/sb/5613/) - Residential development 👍1  
+### [SB 5613](/bill/2023-24/sb/5613/) - Residential development 👍2  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ### [HB 1026](/bill/2023-24/hb/1026/) - Local gov. design review 👍2  

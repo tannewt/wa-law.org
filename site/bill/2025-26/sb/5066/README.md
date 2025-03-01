@@ -12,12 +12,13 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5066 Law enf. misconduct
-#### 503 👍 - Pro
+#### 621 👍 - Pro
 Testifying:
 * Maureen Johnston - [Office of the Attorney General](/org/office_of_the_attorney_general/)
 * 💵Nickeia Hunter - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* 💵Michael Transue - Washington Fraternal Order of Police
 
-#### 1228 👎 - Con
+#### 1574 👎 - Con
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * James McMahan - WA Assoc Sheriffs & Police Chiefs

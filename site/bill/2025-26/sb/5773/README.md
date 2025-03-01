@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/23/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 7: Floor action picks up and another key deadline arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/23/this-week-in-the-senate-week-7-floor-action-picks-up-and-another-key-deadline-arrives/#:~:text=Senate%20Bill%205773)

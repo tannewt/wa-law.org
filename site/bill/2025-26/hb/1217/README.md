@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/28/2025 [Senate Democrats](/org/senate_democrats/) - [Updates from Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/28/updates-from-olympia-2/#:~:text=House%20Bill%201217)
 * 02/21/2025 [Senate Democrats](/org/senate_democrats/) - [From the desk of your new state senator - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/02/21/from-the-desk-of-your-new-state-senator-2/#:~:text=1217)
 * 02/19/2025 [The Center Square](/org/the_center_square/) - [Bill to cap rent increases passes out of WA Senate Housing Committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3e774676-eef8-11ef-8fae-e3d75bcfa845.html#:~:text=Second%20Substitute%20House%20Bill%201217)
 * 02/17/2025 [Senate Republicans](/org/senate_republicans/) - [Senate Republicans introduce 18 bills to address housing crisis - Senate Republican Caucus](https://src.wastateleg.org/blog/senate-republicans-introduce-18-bills-address-housing-crisis/#:~:text=Democrats%20have%20offered%20rent%20control)

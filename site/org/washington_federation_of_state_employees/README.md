@@ -66,7 +66,8 @@
 * 👍 Kati Durkin
 * 👍 Kati Durkin
 
-### [HB 1668](/bill/2025-26/hb/1668/) - Community custody 👍1  
+### [HB 1668](/bill/2025-26/hb/1668/) - Community custody 👍2  
+* 👍 Kati Durkin
 
 ### [HB 1672](/bill/2025-26/hb/1672/) - Employer technology use 👍1  
 

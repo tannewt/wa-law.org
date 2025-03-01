@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5659/</link>
 		<description>Updates about SB 5659</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Feb 2025 08:18:03 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -45,7 +45,7 @@
 			<guid isPermaLink="false">2025-02-21/Referred to Ways &amp; Means.</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - Washington REALTORS</title>
+			<title>👎TaraLyn Fray - Building industry association of washington</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Mon, 24 Feb 2025 06:49:09 GMT</pubDate>
 			<category>testifier</category>
@@ -53,7 +53,7 @@
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-02-24 06:49:09</guid>
 		</item>
 		<item>
-			<title>👎Rexine Bennett - Washington REALTORS</title>
+			<title>👎Rexine Bennett - Building industry association of washington</title>
 			<description>Rexine Bennett signed up to testify Con.</description>
 			<pubDate>Tue, 25 Feb 2025 09:35:19 GMT</pubDate>
 			<category>testifier</category>
@@ -67,6 +67,21 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Riley/Benge/2025-02-26 08:18:03</guid>
+		</item>
+		<item>
+			<title>👍💵Andrea Smiley - Building industry association of washington</title>
+			<description>Andrea Smiley signed up to testify Pro. They are signed up to represent Building industry association of washington. They are a registered lobbyist.</description>
+			<pubDate>Wed, 26 Feb 2025 09:58:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Andrea/Smiley/2025-02-26 09:58:09</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5069/</link>
 		<description>Updates about SB 5069</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Feb 2025 01:18:15 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Feb 2025 20:16:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -174,6 +174,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Tim/EYMAN/2025-02-03 01:18:15</guid>
+		</item>
+		<item>
+			<title>Almost halfway there!   - Sen. Javier Valdez</title>
+			<description>News article "Almost halfway there!   - Sen. Javier Valdez" from Senate Democrats.</description>
+			<pubDate>Wed, 26 Feb 2025 20:16:26 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2025/02/26/almost-halfway-there/#:~:text=SB%205069</guid>
 		</item>
 	</channel>
 </rss>

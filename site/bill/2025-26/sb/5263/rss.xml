@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5263/</link>
 		<description>Updates about SB 5263</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 22 Feb 2025 01:10:27 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -724,6 +724,20 @@
 			<pubDate>Sat, 22 Feb 2025 01:10:27 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/stanford/2025/02/21/supporting-our-public-schools/#:~:text=Senate%20Bill%205263</guid>
+		</item>
+		<item>
+			<title>What’s moving along, and what’s not, in the WA Legislature? | FOX 13 Seattle</title>
+			<description>News article "What’s moving along, and what’s not, in the WA Legislature? | FOX 13 Seattle" from FOX13.</description>
+			<pubDate>Wed, 26 Feb 2025 18:28:31 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.fox13seattle.com/news/whats-moving-along-whats-not-wa-legislature#:~:text=special%20education</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

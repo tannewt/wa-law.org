@@ -11,7 +11,7 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Seamus Petrie
 
-### [HB 1258](/bill/2025-26/hb/1258/) - Providing funding for municipalities participating in the regional 911 emergency communications system. 👍1  
+### [HB 1258](/bill/2025-26/hb/1258/) - Regional 911 funding 👍1  
 
 ### [HB 1312](/bill/2025-26/hb/1312/) - Retirement benefits/death 👍1  
 

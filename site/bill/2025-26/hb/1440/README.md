@@ -6,12 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Transportation (TR): SHB 1440 Civil forfeiture proceedings
 #### 2 👍 - Pro
 Testifying:
-* Alasdair Whitney - [Institute for Justice](/org/institute_for_justice/)
+* 💵Alasdair Whitney - [Institute for Justice](/org/institute_for_justice/)
 
 #### 3 👎 - Con
 
@@ -24,7 +25,7 @@ Testifying:
 ### Tue 02/04 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1440 Civil forfeiture proceedings
 #### 3 👍 - Pro
 Testifying:
-* Alasdair Whitney - [Institute for Justice](/org/institute_for_justice/)
+* 💵Alasdair Whitney - [Institute for Justice](/org/institute_for_justice/)
 
 #### 0 👎 - Con
 

@@ -5,13 +5,15 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/27/2025 [The Center Square](/org/the_center_square/) - [Critics say online privacy bill concerning minors actually undermines parents | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7390cd22-f55c-11ef-8273-27ccdbd6bdc9.html#:~:text=Senate%20Bill%205708)
 * 02/20/2025 [FOX13](/org/fox13/) - [WA Senate panel advances age-based social media restrictions | FOX 13 Seattle](https://www.fox13seattle.com/news/wa-age-restrictions-social-media#:~:text=Senate%20Bill%205708)
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SB 5708 Online services/minors
-#### 82 👍 - Pro
+#### 130 👍 - Pro
 Testifying:
 * Keira Domer
 * Sadie Haag
@@ -20,8 +22,9 @@ Testifying:
 * Adam Eitmann - Washington State Office of the Attorney General
 * Taku Mineshita - Office of Governor Bob Ferguson
 * 💵Reid Saaris - [Children's Alliance](/org/children's_alliance/)
+* Adam Cappio - Transparency Coalition
 
-#### 1740 👎 - Con
+#### 1771 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Rosemarie Dorn - concerned citizen
@@ -33,8 +36,9 @@ Testifying:
 * Evan Randall
 * Jayson Reimer
 * Jennifer Hanley - Meta
+* Amanda McKinney - Yakima County Commissioner
 
-#### 27 ❓ - Other
+#### 53 ❓ - Other
 Testifying:
 * 💵Rose Feliciano - TechNet
 

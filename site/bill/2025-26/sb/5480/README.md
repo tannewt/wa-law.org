@@ -6,8 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bill to remove medical debt from credit score reporting - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/02/27/senate-passes-bill-to-remove-medical-debt-from-credit-score-reporting/#:~:text=Senate%20Bill%205480)
+* 02/27/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington could exempt medical debt from credit reports • Washington State Standard](https://washingtonstatestandard.com/2025/02/26/washington-could-exempt-medical-debt-from-credit-reports/#:~:text=Senate%20Bill%205480)
 * 02/24/2025 [Senate Democrats](/org/senate_democrats/) - [Making health care more accessible for Washingtonians - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/02/24/making-health-care-more-accessible-for-washingtonians/#:~:text=SB%205480)
 * 02/14/2025 [Senate Democrats](/org/senate_democrats/) - [Building an economy that works for all Washingtonians - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/14/building-an-economy-that-works-for-all-washingtonians/#:~:text=bill%20this%20session)
 * 02/11/2025 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [The rising cost of health care is unsustainable and out of control - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/health-care-costs-unsustainable-out-of-control/#:~:text=Senate%20Bill%205480)

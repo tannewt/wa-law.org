@@ -7,7 +7,7 @@
 * 👍 Rob Bryant
 * 👍 Charlie Brown
 
-### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍4  
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍4  
 * 👍 Rob Bryant
 * 👍 Charlie Brown
 

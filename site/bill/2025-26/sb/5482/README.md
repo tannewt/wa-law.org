@@ -22,7 +22,7 @@ Testifying:
 * Pat Arnold - Friends of the White Salmon River
 * Rachel Haymon
 * Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
-* Dan Paul - Humane World for Animals
+* Dan Paul - [Humane World for Animals](/org/humane_world_for_animals/)
 
 #### 264 👎 - Con
 Testifying:

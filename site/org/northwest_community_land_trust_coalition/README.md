@@ -5,12 +5,14 @@
 
 ### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax 👍1  
 
-## [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
+## [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍2  
+* 👍💵 Nick Federici
 * 👍💵 Nick Federici
 
 ## 2023-24
 
-### [SB 5496](/bill/2023-24/sb/5496/) - Home buying by entities 👍1  
+### [SB 5496](/bill/2023-24/sb/5496/) - Home buying by entities 👍2  
+* 👍💵 Nick Federici
 * 👍💵 Nick Federici
 
 ### [HB 1474](/bill/2023-24/hb/1474/) - Covenant homeownership prg. 👍1  

@@ -19,7 +19,7 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1285 Financial education
-#### 39 👍 - Pro
+#### 63 👍 - Pro
 Testifying:
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
 * Dakota Manley - Washington State Young Republicans

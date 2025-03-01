@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5708/</link>
 		<description>Updates about SB 5708</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Feb 2025 08:14:27 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -180,7 +180,7 @@
 			<guid isPermaLink="false">testifier/Jai/Jaisimha/2025-02-24 04:11:05</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - Children's Alliance</title>
+			<title>👎TaraLyn Fray - Transparency Coalition</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Mon, 24 Feb 2025 06:57:52 GMT</pubDate>
 			<category>testifier</category>
@@ -290,6 +290,36 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Reid/Saaris/2025-02-26 08:14:27</guid>
+		</item>
+		<item>
+			<title>👍Adam Cappio - Transparency Coalition</title>
+			<description>Adam Cappio signed up to testify Pro. They are signed up to represent Transparency Coalition.</description>
+			<pubDate>Wed, 26 Feb 2025 10:45:46 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Adam/Cappio/2025-02-26 10:45:46</guid>
+		</item>
+		<item>
+			<title>👎Amanda McKinney - Yakima County Commissioner</title>
+			<description>Amanda McKinney signed up to testify Con. They are signed up to represent Yakima County Commissioner.</description>
+			<pubDate>Wed, 26 Feb 2025 11:59:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Amanda/McKinney/2025-02-26 11:59:25</guid>
+		</item>
+		<item>
+			<title>Critics say online privacy bill concerning minors actually undermines parents | Washington | thecentersquare.com</title>
+			<description>News article "Critics say online privacy bill concerning minors actually undermines parents | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 27 Feb 2025 18:44:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_7390cd22-f55c-11ef-8273-27ccdbd6bdc9.html#:~:text=Senate%20Bill%205708</guid>
+		</item>
+		<item>
+			<title>Passed to Rules Committee for second reading.</title>
+			<description>Passed to Rules Committee for second reading.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/Passed to Rules Committee for second reading.</guid>
 		</item>
 	</channel>
 </rss>

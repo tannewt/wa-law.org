@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): HB 1969 Law enf. aviation support
-#### 174 👍 - Pro
+#### 194 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Jesse Anderson - King County Sheriff's Office

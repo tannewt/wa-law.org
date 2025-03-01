@@ -6,8 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Reaction to Gov. Ferguson's budget plan & victory on wood stoves - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-looking-ahead-week-eight-april-3-7/#:~:text=SB%205098:)
+* 02/26/2025 [Senate Democrats](/org/senate_democrats/) - [Almost halfway there!   - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/26/almost-halfway-there/#:~:text=SB%205098)
 * 02/25/2025 [The Center Square](/org/the_center_square/) - [Expansion of gun-free zones bill draws praise from supporters, fire from opponents | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_813f4cd8-f3b7-11ef-b095-0b41989932c3.html#:~:text=Senate%20Bill%205098)
 * 02/20/2025 [The Center Square](/org/the_center_square/) - [Several gun bills working their way through the Washington State Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8f47292a-efd1-11ef-99dd-03b65ea3534b.html#:~:text=Senate%20Bill%205098)
 * 02/10/2025 [Senate Democrats](/org/senate_democrats/) - [Building momentum: Over a third of the way through session - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/10/building-momentum-over-a-third-of-the-way-through-session/#:~:text=SB%205098)

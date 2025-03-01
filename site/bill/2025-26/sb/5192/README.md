@@ -1,12 +1,15 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5192](/bill/2025-26/sb/5192/)
 
-# SB 5192 - Concerning school district materials, supplies, and operating costs.
+# SB 5192 - School district materials
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5192&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205192)
+* 02/26/2025 [FOX13](/org/fox13/) - [What’s moving along, and what’s not, in the WA Legislature? | FOX 13 Seattle](https://www.fox13seattle.com/news/whats-moving-along-whats-not-wa-legislature#:~:text=materials%20and%20operating%20costs)
 * 02/22/2025 [Senate Democrats](/org/senate_democrats/) - [Supporting our public schools - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/02/21/supporting-our-public-schools/#:~:text=Senate%20Bill%205192)
 * 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=SB%205192)
 * 02/14/2025 [Senate Democrats](/org/senate_democrats/) - [72 days to go - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/14/72-days-to-go/#:~:text=Senate%20Bill%205192)

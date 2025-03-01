@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/17 04:00 PM - Ways & Means (WM): SB 5388 DOC behavioral health cert.

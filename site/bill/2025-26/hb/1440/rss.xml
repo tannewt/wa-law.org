@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1440/</link>
 		<description>Updates about HB 1440</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 09:55:32 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 27 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -55,8 +55,8 @@
 			<guid isPermaLink="false">testifier/Anne/Anderson/2025-02-03 11:58:21</guid>
 		</item>
 		<item>
-			<title>👍Alasdair Whitney - Institute for Justice</title>
-			<description>Alasdair Whitney signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/institute_for_justice/"&gt;Institute for Justice&lt;/a&gt;.</description>
+			<title>👍💵Alasdair Whitney - Institute for Justice</title>
+			<description>Alasdair Whitney signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/institute_for_justice/"&gt;Institute for Justice&lt;/a&gt;. They are a registered lobbyist.</description>
 			<pubDate>Mon, 03 Feb 2025 12:40:07 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
@@ -100,8 +100,8 @@
 			<guid isPermaLink="false">testifier/Anne/Anderson/2025-02-23 03:03:17</guid>
 		</item>
 		<item>
-			<title>👍Alasdair Whitney - Institute for Justice</title>
-			<description>Alasdair Whitney signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/institute_for_justice/"&gt;Institute for Justice&lt;/a&gt;.</description>
+			<title>👍💵Alasdair Whitney - Institute for Justice</title>
+			<description>Alasdair Whitney signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/institute_for_justice/"&gt;Institute for Justice&lt;/a&gt;. They are a registered lobbyist.</description>
 			<pubDate>Mon, 24 Feb 2025 06:35:53 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
@@ -114,6 +114,20 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Michele/Walker/2025-02-24 09:55:32</guid>
+		</item>
+		<item>
+			<title>Minority; without recommendation.</title>
+			<description>Minority; without recommendation.</description>
+			<pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-27/Minority; without recommendation.</guid>
+		</item>
+		<item>
+			<title>TR - Executive action taken by committee.</title>
+			<description>TR - Executive action taken by committee.</description>
+			<pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-27/TR - Executive action taken by committee.</guid>
 		</item>
 	</channel>
 </rss>

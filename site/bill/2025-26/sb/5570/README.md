@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/18/2025 [Senate Democrats](/org/senate_democrats/) - [Expanding education and equity - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/18/expanding-education-and-equity/#:~:text=Senate%20Bill%205570)

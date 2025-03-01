@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/24 08:00 AM - Finance (FIN): HB 1996 Behavioral health diversion

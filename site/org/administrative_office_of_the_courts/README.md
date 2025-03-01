@@ -14,8 +14,9 @@
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley
 
-### [HB 1460](/bill/2025-26/hb/1460/) - Protection order hope cards 👍1  
+### [HB 1460](/bill/2025-26/hb/1460/) - Protection order hope cards 👍2  
 * 👍 Scott Ahlf
+* 👍 Brittany Gregory
 
 ### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
 * 👍 Brittany Gregory

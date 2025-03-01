@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 02/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington legislators debate bills to boost recycling • Washington State Standard](https://washingtonstatestandard.com/2025/02/26/washington-legislators-debate-bills-to-boost-recycling/#:~:text=House%20Bill%201607)

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1376/</link>
 		<description>Updates about HB 1376</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Feb 2025 11:19:43 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -22,6 +22,27 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Steve/Ewing/2025-02-17 11:19:43</guid>
+		</item>
+		<item>
+			<title>FIN - Executive action taken by committee.</title>
+			<description>FIN - Executive action taken by committee.</description>
+			<pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-26/FIN - Executive action taken by committee.</guid>
+		</item>
+		<item>
+			<title>FIN - Majority; do pass.</title>
+			<description>FIN - Majority; do pass.</description>
+			<pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-26/FIN - Majority; do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

@@ -1269,7 +1269,7 @@
 * [HB 2382](hb/2382) - TNC driver death benefits 6📰 33👍 5👎 0❓ - C 184 L 24
 * [SB 5273](sb/5273) - Employee information/unions 32👍 4👎 2❓ - SLabor & Comm
 * [SB 5484](sb/5484) - Food/environmental steward. 18👍 20👎 0❓ - SAg/Water/Natur
-* [SB 5491](sb/5491) - Residential building exits 7📰 34👍 2👎 2❓ - C 372 L 23
+* [SB 5491](sb/5491) - Residential building exits 8📰 34👍 2👎 2❓ - C 372 L 23
 * [SB 5524](sb/5524) - Industrial insurance/duties 18👍 19👎 1❓ - SRules X
 * [SB 5625](sb/5625) - Public employee retirees 37👍 1👎 0❓ - SWays & Means
 * [SB 5627](sb/5627) - County commissioner salary 9👍 29👎 0❓ - C 49 L 23

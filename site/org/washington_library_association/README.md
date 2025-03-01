@@ -18,7 +18,7 @@
 
 ### [SB 5186](/bill/2025-26/sb/5186/) - School district elections 👍1  
 
-### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍3  
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍3  
 
 ### [SB 5365](/bill/2025-26/sb/5365/) - Library funding alternate 👍1  
 

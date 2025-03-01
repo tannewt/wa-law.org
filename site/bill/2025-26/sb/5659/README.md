@@ -11,11 +11,12 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SB 5659 Housing shortage/local share
-#### 185 👍 - Pro
+#### 198 👍 - Pro
 Testifying:
 * Riley Benge - Washington REALTORS
+* 💵Andrea Smiley - Building industry association of washington
 
-#### 681 👎 - Con
+#### 704 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Rexine Bennett

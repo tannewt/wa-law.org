@@ -9,14 +9,15 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5155 Salmon recovery projects
-#### 26 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * Allan Warren - [Bonneville Environmental Foundation](/org/bonneville_environmental_foundation/)
 * Jasmine Zimmer-Stucky - Lower Columbia Estuary Partnership
 * RoseMary LaClair - Chair, Nooksack Indian Tribe
 * Kevin Long - North Olympic Salmon Coalition
+* Anna Brewer - Vice Chair, Nooksack Indian Tribe
 
-#### 738 👎 - Con
+#### 763 👎 - Con
 Testifying:
 * john worthington
 * TaraLyn Fray

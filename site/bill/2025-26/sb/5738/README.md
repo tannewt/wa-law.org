@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/20 04:00 PM - Ways & Means (WM): SB 5738 Retired employees/work

@@ -1,7 +1,7 @@
 # City of Edmonds
 ## 2025-26
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓1
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓2
 * ❓ Todd Tatum
 
 ## [SB 5677](/bill/2025-26/sb/5677/) - Associate development orgs 👍1  

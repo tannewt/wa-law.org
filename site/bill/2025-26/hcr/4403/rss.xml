@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hcr/4403/</link>
 		<description>Updates about HCR 4403</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -28,6 +28,20 @@
 			<pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-14/Referred to Capital Budget.</guid>
+		</item>
+		<item>
+			<title>CB - Majority; do pass 1st substitute bill proposed by State Government &amp; Tribal Relations.</title>
+			<description>CB - Majority; do pass 1st substitute bill proposed by State Government &amp; Tribal Relations.</description>
+			<pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-26/CB - Majority; do pass 1st substitute bill proposed by State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

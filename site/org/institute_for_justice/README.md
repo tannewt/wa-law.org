@@ -5,8 +5,8 @@
 * 👍 Will Aronin
 
 ### [HB 1440](/bill/2025-26/hb/1440/) - Civil forfeiture proceedings 👍2  
-* 👍 Alasdair Whitney
-* 👍 Alasdair Whitney
+* 👍💵 Alasdair Whitney
+* 👍💵 Alasdair Whitney
 
 ## [HB 1499](/bill/2025-26/hb/1499/) - Legal financial obligations 👍1  
 

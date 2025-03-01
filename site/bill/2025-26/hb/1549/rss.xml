@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1549/</link>
 		<description>Updates about HB 1549</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Feb 2025 07:50:22 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -168,6 +168,27 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Michael/Transue/2025-02-25 07:50:22</guid>
+		</item>
+		<item>
+			<title>CB - Majority; 2nd substitute bill be substituted, do pass.</title>
+			<description>CB - Majority; 2nd substitute bill be substituted, do pass.</description>
+			<pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-26/CB - Majority; 2nd substitute bill be substituted, do pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Appropriations.</title>
+			<description>Referred to Appropriations.</description>
+			<pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-27/Referred to Appropriations.</guid>
+		</item>
+		<item>
+			<title>APP - Majority; do pass 2nd substitute bill proposed by Capital Budget.</title>
+			<description>APP - Majority; do pass 2nd substitute bill proposed by Capital Budget.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/APP - Majority; do pass 2nd substitute bill proposed by Capital Budget.</guid>
 		</item>
 	</channel>
 </rss>

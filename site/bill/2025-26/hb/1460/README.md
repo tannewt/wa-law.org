@@ -8,7 +8,9 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): HB 1460 Protection order hope cards
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 
 #### 0 👎 - Con
 

@@ -13,11 +13,12 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5335 Rural nursing education
-#### 99 👍 - Pro
+#### 112 👍 - Pro
 Testifying:
 * Theresa Bowden
 * Brenda Senger - Rural Nursing Education Program (RNEP)
 * Jacqueline Barton True - Washington State Hospital Association
+* Raelyn Dennis - 2003439961
 
 #### 0 👎 - Con
 

@@ -22,7 +22,7 @@
 ### [HB 1913](/bill/2025-26/hb/1913/) - Public utility tax credit  👎1 
 * 👎💵 John Rothlin
 
-### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍1  
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍2  
 * 👍💵 John Rothlin
 
 ### [HB 1990](/bill/2025-26/hb/1990/) - Utility disaster costs 👍1  

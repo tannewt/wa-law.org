@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/28/2025 [Senate Democrats](/org/senate_democrats/) - [Updates from Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/28/updates-from-olympia-2/#:~:text=Senate%20Bill%205496)
 * 02/21/2025 [Senate Democrats](/org/senate_democrats/) - [From the desk of your new state senator - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/02/21/from-the-desk-of-your-new-state-senator-2/#:~:text=5496)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205496)
 * 02/06/2025 [KIRO7](/org/kiro7/) - [Washington bill takes aim at corporate homebuyers, trys to level playing field for families – KIRO 7 News Seattle](https://www.kiro7.com/news/local/washington-bill-takes-aim-corporate-homebuyers-trys-level-playing-field-families/VQHVUSP4UVALHDYHBRVNHSHMGU/#:~:text=Senate%20Bill%205496)
@@ -16,20 +17,24 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5496 Home buying by entities
-#### 183 👍 - Pro
+#### 329 👍 - Pro
 Testifying:
 * 💵Denise Rodriguez - [Washington Homeownership Resource Center](/org/washington_homeownership_resource_center/)
+* 💵Nick Federici - [Northwest Community Land Trust Coalition](/org/northwest_community_land_trust_coalition/)
 
-#### 879 👎 - Con
+#### 921 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Rosemarie Dorn - concerned citizen
 * 💵Morgan Irwin - AWB
 * Tim eyman - Initiative activist
+* 💵Andrea Smiley - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Katherine Mahoney - Tricon Residential (TAH Operations LLC)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * Craig Trummel - [Washington Land Title Association](/org/washington_land_title_association/)
+* Riley Benge - Washington REALTORS
 
 ### Wed 02/05 10:30 AM - Housing (HSG): SB 5496 Home buying by entities
 #### 150 👍 - Pro

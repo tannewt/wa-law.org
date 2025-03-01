@@ -22,13 +22,15 @@
 * 👍 Shree Thirunagari
 * 👍 John Kendall
 
-## [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍1  
+## [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍2  
 * 👍 Patrick Quinton
+* 👍 BRIAN ENSLOW
 
 ## 2023-24
 
-### [SB 5587](/bill/2023-24/sb/5587/) - Affordable housing dev. 👍1  
+### [SB 5587](/bill/2023-24/sb/5587/) - Affordable housing dev. 👍2  
 * 👍 Patrick Quinton
+* 👍 BRIAN ENSLOW
 
 ### [HB 1085](/bill/2023-24/hb/1085/) - Plastic pollution 👍1  
 

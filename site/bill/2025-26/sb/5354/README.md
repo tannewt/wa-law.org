@@ -22,7 +22,7 @@ Testifying:
 * Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
 * J Rosapepe - Endangered Species Coalition
 * John Roskelley
-* Dan Paul - Humane World for Animals
+* Dan Paul - [Humane World for Animals](/org/humane_world_for_animals/)
 
 #### 3 ❓ - Other
 Testifying:

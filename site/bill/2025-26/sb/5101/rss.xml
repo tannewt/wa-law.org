@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5101/</link>
 		<description>Updates about SB 5101</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -135,6 +135,34 @@
 			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-21/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-26/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Almost halfway there!   - Sen. Javier Valdez</title>
+			<description>News article "Almost halfway there!   - Sen. Javier Valdez" from Senate Democrats.</description>
+			<pubDate>Wed, 26 Feb 2025 20:16:26 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/valdez/2025/02/26/almost-halfway-there/#:~:text=SB%205101</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 40; nays, 8; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 40; nays, 8; absent, 0; excused, 1.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/Third reading, passed; yeas, 40; nays, 8; absent, 0; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>

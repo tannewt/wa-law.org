@@ -9,14 +9,14 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5344 Essential worker health care
-#### 179 👍 - Pro
+#### 234 👍 - Pro
 Testifying:
 * Carma Matti -Jackson - WHCA
 * Cole Casaret - Nursing home workers
 
-#### 32 👎 - Con
+#### 33 👎 - Con
 
-#### 7 ❓ - Other
+#### 8 ❓ - Other
 
 ### Tue 01/28 10:30 AM - Health & Long Term Care (HLTC): SB 5344 Essential worker health care
 #### 129 👍 - Pro

@@ -21,7 +21,7 @@
 
 ### [HB 1178](/bill/2025-26/hb/1178/) - Sentencing enhancements 👍1  
 
-### [HB 1233](/bill/2025-26/hb/1233/) - Concerning work programs for incarcerated persons. 👍1  
+### [HB 1233](/bill/2025-26/hb/1233/) - Work programs/incarceration 👍1  
 
 ### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
 

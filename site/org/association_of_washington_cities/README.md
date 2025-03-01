@@ -393,6 +393,9 @@
 ### [SB 5609](/bill/2025-26/sb/5609/) - Cultural resources/land use   ❓1
 * ❓💵 Carl Schroeder
 
+### [SB 5613](/bill/2025-26/sb/5613/) - Residential development   ❓1
+* ❓💵 Carl Schroeder
+
 ### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees   ❓1
 * ❓💵 Carl Schroeder
 

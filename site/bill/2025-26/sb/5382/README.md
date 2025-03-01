@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Reaction to Gov. Ferguson's budget plan & victory on wood stoves - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-looking-ahead-week-eight-april-3-7/#:~:text=SB%205382:)
 * 02/24/2025 [The Center Square](/org/the_center_square/) - [Pair of WA secretaries of state come out against bill to change initiative process | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1607027a-f313-11ef-9a4a-4f105b7676cb.html#:~:text=Senate%20Bill%205382)
 * 02/24/2025 [FOX13](/org/fox13/) - [WA signature verification bill debated in legislature | FOX 13 Seattle](https://www.fox13seattle.com/news/signature-verification-bill-opposition-initative#:~:text=Senate%20Bill%205382)
 * 02/19/2025 [KING5](/org/king5/) - [Secretary of State opposes proposed changes to initiative process | king5.com](https://www.king5.com/article/news/local/washington-secretary-of-state-opposes-proposed-changes-to-initiative-process/281-97c30899-1759-4888-a540-c6356cfa73a2#:~:text=Senate%20Bill%205382)

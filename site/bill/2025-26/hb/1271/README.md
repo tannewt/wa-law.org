@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): HB 1271 State fire service deploy.
-#### 45 👍 - Pro
+#### 62 👍 - Pro
 Testifying:
 * Leonard Johnson - Fire Chief, McLane Black Lake Fire Department
 

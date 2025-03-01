@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington lawmakers may tap brakes on specialty license plates • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-lawmakers-may-tap-brakes-on-specialty-license-plates/#:~:text=House%20Bill%201368)

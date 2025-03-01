@@ -1,0 +1,1053 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 2031](/bill/2025-26/hb/2031/) > [Original Bill](/bill/2025-26/hb/2031/1/)
+
+# HB 2031 - Fishing and hunting licenses
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2031.pdf)
+
+## Section 1
+The definitions in this section apply throughout this title or rules adopted under this title unless the context clearly requires otherwise.
+
+1. "Angling gear" means a line attached to a rod and reel capable of being held in hand while landing the fish or a handheld line operated without rod or reel.
+
+2. "Bag limit" means the maximum number of game animals, game birds, or game fish which may be taken, caught, killed, or possessed by a person, as specified by rule of the commission for a particular period of time, or as to size, sex, or species.
+
+3. "Building" means a private domicile, garage, barn, or public or commercial building.
+
+4. "Closed area" means a place where the hunting of some or all species of wild animals or wild birds is prohibited.
+
+5. "Closed season" means all times, manners of taking, and places or waters other than those established by rule of the commission as an open season. "Closed season" also means all hunting, fishing, taking, or possession of game animals, game birds, game fish, food fish, or shellfish that do not conform to the special restrictions or physical descriptions established by rule of the commission as an open season or that have not otherwise been deemed legal to hunt, fish, take, harvest, or possess by rule of the commission as an open season.
+
+6. "Closed waters" means all or part of a lake, river, stream, or other body of water, where fishing or harvesting is prohibited.
+
+7. "Commercial" means related to or connected with buying, selling, or bartering.
+
+8. "Commission" means the state fish and wildlife commission.
+
+9. "Concurrent waters of the Columbia river" means those waters of the Columbia river that coincide with the Washington-Oregon state boundary.
+
+10. "Contraband" means any property that is unlawful to produce or possess.
+
+11. "Covered animal species" means any species of elephant, rhinoceros, tiger, lion, leopard, cheetah, pangolin, marine turtle, shark, or ray either: (a) Listed in appendix I or appendix II of the convention on international trade in endangered species of wild flora and fauna; or (b) listed as critically endangered, endangered, or vulnerable on the international union for conservation of nature and natural resources red list of threatened species.
+
+12. "Covered animal species part or product" means any item that contains, or is wholly or partially made from, any covered animal species.
+
+13. "Deleterious exotic wildlife" means species of the animal kingdom not native to Washington and designated as dangerous to the environment or wildlife of the state.
+
+14. "Department" means the department of fish and wildlife.
+
+15. "Director" means the director of fish and wildlife.
+
+16. "Distribute" or "distribution" means either a change in possession for consideration or a change in legal ownership.
+
+17. "Endangered species" means wildlife designated by the commission as seriously threatened with extinction.
+
+18. "Ex officio fish and wildlife officer" means:
+
+    a. A commissioned officer of a municipal, county, or state agency having as its primary function the enforcement of criminal laws in general, while the officer is acting in the respective jurisdiction of that agency;
+
+    b. An officer or special agent commissioned by one of the following: The national marine fisheries service; the Washington state parks and recreation commission; the United States fish and wildlife service; the Washington state department of natural resources; the United States forest service; or the United States parks service, if the agent or officer is in the respective jurisdiction of the primary commissioning agency and is acting under a mutual law enforcement assistance agreement between the department and the primary commissioning agency;
+
+    c. A commissioned fish and wildlife peace officer from another state who meets the training standards set by the Washington state criminal justice training commission pursuant to RCW 10.93.090, 43.101.080, and 43.101.200, and who is acting under a mutual law enforcement assistance agreement between the department and the primary commissioning agency; or
+
+    d. A Washington state tribal police officer who successfully completes the requirements set forth under RCW 43.101.157, is employed by a tribal nation that has complied with RCW 10.92.020(2) (a) and (b), and is acting under a mutual law enforcement assistance agreement between the department and the tribal government.
+
+19. "Fish" includes all species classified as game fish or food fish by statute or rule, as well as all finfish not currently classified as food fish or game fish if such species exist in state waters. The term "fish" includes all stages of development and the bodily parts of fish species.
+
+20. "To fish" and its derivatives means an effort to kill, injure, harass, harvest, or capture a fish or shellfish.
+
+21. "Fish and wildlife officer" means a person appointed and commissioned by the director, with authority to enforce this title and rules adopted pursuant to this title, and other statutes as prescribed by the legislature. Fish and wildlife officer includes a person commissioned before June 11, 1998, as a wildlife agent or a fisheries patrol officer.
+
+22. "Fish broker" means a person who facilitates the sale or purchase of raw or frozen fish or shellfish on a fee or commission basis, without assuming title to the fish or shellfish.
+
+23. "Fish dealer" means a person who engages in any activity that triggers the need to obtain a fish dealer license under RCW 77.65.280.
+
+24. "Fishery" means the taking of one or more particular species of fish or shellfish with particular gear in a particular geographical area.
+
+25. "Food, food waste, or other substance" includes human and pet food or other waste or garbage that could attract large wild carnivores.
+
+26. "Freshwater" means all waters not defined as saltwater including, but not limited to, rivers upstream of the river mouth, lakes, ponds, and reservoirs.
+
+27. "Fur-bearing animals" means game animals that shall not be trapped except as authorized by the commission.
+
+28. "Fur dealer" means a person who purchases, receives, or resells raw furs for commercial purposes.
+
+29. "Game animals" means wild animals that shall not be hunted except as authorized by the commission.
+
+30. "Game birds" means wild birds that shall not be hunted except as authorized by the commission.
+
+31. "Game farm" means property on which wildlife is held, confined, propagated, hatched, fed, or otherwise raised for commercial purposes, trade, or gift. The term "game farm" does not include publicly owned facilities.
+
+32. "Game reserve" means a closed area where hunting for all wild animals and wild birds is prohibited.
+
+33. "To hunt" and its derivatives means an effort to kill, injure, harass, harvest, or capture a wild animal or wild bird.
+
+34. "Illegal items" means those items unlawful to be possessed.
+
+35. [Empty]
+
+    a. "Intentionally feed, attempt to feed, or attract" means to purposefully or knowingly provide, leave, or place in, on, or about any land or building any food, food waste, or other substance that attracts or could attract large wild carnivores to that land or building.
+
+    b. "Intentionally feed, attempt to feed, or attract" does not include keeping food, food waste, or other substance in an enclosed garbage receptacle or other enclosed container unless specifically directed by a fish and wildlife officer or animal control authority to secure the receptacle or container in another manner.
+
+36. "Large wild carnivore" includes wild bear, cougar, and wolf.
+
+37. "License year" means the period of time for which a recreational license is valid. The license year begins April 1st, and ends March 31st.
+
+38. "Limited-entry license" means a license subject to a license limitation program established in chapter 77.70 RCW.
+
+39. "Limited fish seller" means a licensed commercial fisher who sells his or her fish or shellfish to anyone other than a wholesale fish buyer thereby triggering the need to obtain a limited fish seller endorsement under RCW 77.65.510.
+
+40. "Money" means all currency, script, personal checks, money orders, or other negotiable instruments.
+
+41. "Natural person" means a human being.
+
+42. [Empty]
+
+    a. "Negligently feed, attempt to feed, or attract" means to provide, leave, or place in, on, or about any land or building any food, food waste, or other substance that attracts or could attract large wild carnivores to that land or building, without the awareness that a reasonable person in the same situation would have with regard to the likelihood that the food, food waste, or other substance could attract large wild carnivores to the land or building.
+
+    b. "Negligently feed, attempt to feed, or attract" does not include keeping food, food waste, or other substance in an enclosed garbage receptacle or other enclosed container unless specifically directed by a fish and wildlife officer or animal control authority to secure the receptacle or container in another manner.
+
+43. "Nonresident" means a person who has not fulfilled the qualifications of a resident.
+
+44. "Offshore waters" means marine waters of the Pacific Ocean outside the territorial boundaries of the state, including the marine waters of other states and countries.
+
+45. "Open season" means those times, manners of taking, and places or waters established by rule of the commission for the lawful hunting, fishing, taking, or possession of game animals, game birds, game fish, food fish, or shellfish that conform to the special restrictions or physical descriptions established by rule of the commission or that have otherwise been deemed legal to hunt, fish, take, or possess by rule of the commission. "Open season" includes the first and last days of the established time.
+
+46. "Owner" means the person in whom is vested the ownership dominion, or title of the property.
+
+47. "Person" means and includes an individual; a corporation; a public or private entity or organization; a local, state, or federal agency; all business organizations, including corporations and partnerships; or a group of two or more individuals acting with a common purpose whether acting in an individual, representative, or official capacity.
+
+48. "Personal property" or "property" includes both corporeal and incorporeal personal property and includes, among other property, contraband and money.
+
+49. "Personal use" means for the private use of the individual taking the fish or shellfish and not for sale or barter.
+
+50. "Predatory birds" means wild birds that may be hunted throughout the year as authorized by the commission.
+
+51. "To process" and its derivatives mean preparing or preserving fish, wildlife, or shellfish.
+
+52. "Protected wildlife" means wildlife designated by the commission that shall not be hunted or fished.
+
+53. "Raffle" means an activity in which tickets bearing an individual number are sold for not more than $25 each and in which a permit or permits are awarded to hunt or for access to hunt big game animals or wild turkeys on the basis of a drawing from the tickets by the person or persons conducting the raffle.
+
+54. "Resident" has the same meaning as defined in RCW 77.08.075.
+
+55. "Saltwater" means those marine waters seaward of river mouths.
+
+56. "Seaweed" means marine aquatic plant species that are dependent upon the marine aquatic or tidal environment, and exist in either an attached or free floating form, and includes but is not limited to marine aquatic plants in the classes Chlorophyta, Phaeophyta, and Rhodophyta.
+
+57. "Senior" means a person 70 years old or older.
+
+58. "Shark fin" means a raw, dried, or otherwise processed detached fin or tail of a shark.
+
+59. [Empty]
+
+    a. "Shark fin derivative product" means any product intended for use by humans or animals that is derived in whole or in part from shark fins or shark fin cartilage.
+
+    b. "Shark fin derivative product" does not include a drug approved by the United States food and drug administration and available by prescription only or medical device or vaccine approved by the United States food and drug administration.
+
+60. "Shellfish" means those species of marine and freshwater invertebrates that have been classified and that shall not be taken or possessed except as authorized by rule of the commission. The term "shellfish" includes all stages of development and the bodily parts of shellfish species.
+
+61. "State waters" means all marine waters and fresh waters within ordinary high water lines and within the territorial boundaries of the state.
+
+62. "To take" and its derivatives means to kill, injure, harvest, or capture a fish, shellfish, wild animal, bird, or seaweed.
+
+63. "Taxidermist" means a person who, for commercial purposes, creates lifelike representations of fish and wildlife using fish and wildlife parts and various supporting structures.
+
+64. "Trafficking" means offering, attempting to engage, or engaging in sale, barter, or purchase of fish, shellfish, wildlife, or deleterious exotic wildlife.
+
+65. "To trap" and its derivatives means a method of hunting using devices to capture wild animals or wild birds.
+
+66. "Unclaimed" means that no owner of the property has been identified or has requested, in writing, the release of the property to themselves nor has the owner of the property designated an individual to receive the property or paid the required postage to effect delivery of the property.
+
+67. "Unclassified wildlife" means wildlife existing in Washington in a wild state that have not been classified as big game, game animals, game birds, predatory birds, protected wildlife, endangered wildlife, or deleterious exotic wildlife.
+
+68. "To waste" or "to be wasted" means to allow any edible portion of any game bird, food fish, game fish, shellfish, or big game animal other than cougar to be rendered unfit for human consumption, or to fail to retrieve edible portions of such a game bird, food fish, game fish, shellfish, or big game animal other than cougar from the field. For purposes of this chapter, edible portions of game birds must include, at a minimum, the breast meat of those birds. Entrails, including the heart and liver, of any wildlife species are not considered edible.
+
+69. "Wholesale fish buyer" means a person who engages in any fish buying or selling activity that triggers the need to obtain a wholesale fish buyer endorsement under RCW 77.65.340.
+
+70. "Wild animals" means those species of the class Mammalia whose members exist in Washington in a wild state. The term "wild animal" does not include feral domestic mammals or old world rats and mice of the family Muridae of the order Rodentia.
+
+71. "Wild birds" means those species of the class Aves whose members exist in Washington in a wild state.
+
+72. "Wildlife" means all species of the animal kingdom whose members exist in Washington in a wild state. This includes but is not limited to mammals, birds, reptiles, amphibians, fish, and invertebrates. The term "wildlife" does not include feral domestic mammals, old world rats and mice of the family Muridae of the order Rodentia, or those fish, shellfish, and marine invertebrates classified as food fish or shellfish by the director. The term "wildlife" includes all stages of development and the bodily parts of wildlife members.
+
+73. "Wildlife meat cutter" means a person who packs, cuts, processes, or stores wildlife for consumption for another for commercial purposes.
+
+74. "Youth" means a person  under 16 years old for fishing and hunting.
+
+## Section 2
+Two percent of the revenue received from the sale of each small game hunting license fee shall be deposited in the eastern Washington pheasant enhancement account created in RCW 77.12.820.
+
+## Section 3
+1. Applicants for a license, permit, tag, or stamp shall furnish the information required by the director. However, the director may not require the purchaser of a razor clam license under RCW 77.32.520 to provide any personal information except for proof of residency. The commission may adopt rules requiring licensees or permittees to keep records and make reports concerning the taking of or effort to harvest fish, shellfish, and wildlife. The reporting requirement may be waived where, for any reason, the department is not able to receive the report. The department must provide reasonable options for a licensee to submit information to a live operator prior to the reporting deadline.
+
+2. [Empty]
+
+    a. The commission may, by rule, set an administrative penalty for failure to comply with rules requiring the reporting of taking or effort to harvest wildlife. The commission may also adopt rules requiring hunters who have not reported  to complete a report and pay the assessed administrative penalty before a new hunting license is issued.
+
+    b. By December 31st of each year, the department shall report the rate of hunter compliance with the harvest reporting requirement, the administrative penalty imposed for failing to report, and the amount of administrative penalties collected during that year to the appropriate fiscal and policy committees of the senate and house of representatives.
+
+3. [Empty]
+
+    a. The commission may, by rule, set an administrative penalty for failure to comply with rules requiring the reporting of data from catch record cards officially endorsed for Puget Sound Dungeness crab. The commission may also adopt rules requiring fishers who possessed a catch record card officially endorsed for Puget Sound Dungeness crab and who have not reported  to complete a report and pay the assessed administrative penalty before a new catch record card officially endorsed for Puget Sound Dungeness crab is issued.
+
+    b. By December 31st of each year, the department shall report the rate of fisher compliance with the Puget Sound Dungeness crab catch record card reporting requirement, the administrative penalty imposed for failing to report, and the amount of administrative penalties collected during that year to the appropriate fiscal and policy committees of the senate and house of representatives.
+
+4. Fees for recreational fishing are specified in section 16 of this act and fees for hunting are specified in section 17 of this act.
+
+## Section 4
+1. [Empty]
+
+    a. When purchasing any hunting license, persons under the age of 18 shall present certification of completion of a course of instruction of at least 10 hours in the safe handling of firearms, safety, conservation, and sporting/hunting behavior. All persons purchasing any hunting license for the first time, if born after January 1, 1972, shall present such certification.
+
+    b. [Empty]
+
+        i. The director may establish a program for training persons in the safe handling of firearms, conservation, and sporting/hunting behavior and shall prescribe the type of instruction and the qualifications of the instructors. The director shall, as part of establishing the training program, exempt the following individuals from the firearms skills portion of any instruction course completed over the internet:
+
+(A) Members of the United States military;
+
+(B) Current or retired general authority Washington peace officers as defined in RCW 10.93.020;
+
+(C) Current or retired limited authority Washington peace officers as defined in RCW 10.93.020, if the officer is or was duly authorized by his or her employer to carry a concealed pistol;
+
+(D) Current or retired specially commissioned Washington peace officers as defined in RCW 10.93.020, if the officer is or was duly authorized by his or her commissioning agency to carry a concealed pistol; and
+
+(E) Current or retired Washington peace officers as defined in RCW 43.101.010 who have met the requirements of RCW 43.101.095 or 43.101.157 and whose certification is in good standing or has not been revoked.
+
+        ii. The director may cooperate with the national rifle association, organized sports/outdoor enthusiasts' groups, or other public or private organizations when establishing the training program.
+
+    c. Upon the successful completion of a course established under this section, the trainee shall receive a hunter education certificate signed by an authorized instructor. The certificate is evidence of compliance with this section.
+
+    d. The director may accept certificates from other states that persons have successfully completed firearm safety, hunter education, or similar courses as evidence of compliance with this section.
+
+2. [Empty]
+
+    a. The director may authorize a once in a lifetime, one license year deferral of hunter education training for individuals who are accompanied, while hunting, by a nondeferred Washington-licensed hunter who  is over 18 years of age. The commission shall adopt rules for the administration of this subsection to avoid potential fraud and abuse.
+
+    b. The director is authorized to collect an application fee for obtaining the once in a lifetime, one license year deferral of hunter education training from the department. This fee must be deposited into the fish and wildlife enforcement reward account and must be used exclusively to administer the deferral program created in this subsection.
+
+    c. For the purposes of this subsection, "accompanied" means to go along with another person while staying within a range of the other person that permits continual unaided visual and auditory communication.
+
+3. To encourage the participation of an adequate number of instructors for the training program, the commission shall develop nonmonetary incentives available to individuals who commit to serving as an instructor. The incentives may include additional hunting opportunities for instructors.
+
+## Section 5
+In addition to a small game hunting license, a supplemental migratory bird permit is required to hunt for migratory birds.
+
+The migratory bird permit is required for all persons . Furthermore, a migratory bird authorization is required for all persons to hunt band-tailed pigeon, brant, sea duck, snow goose, and southwest Canada goose.
+
+## Section 6
+1. A special hunting season permit is required to hunt in each special season.
+
+2. Persons may apply for special hunting season permits as provided by rule of the commission.
+
+3. Persons may apply for multiple season hunting season permits as provided by rule of the commission.
+
+4. Persons may apply for special hunting "quality" permits as provided by rule of the commission. The commission designates as "quality" hunts those that allow the harvest of buck deer, bull elk, or allow the harvest of male big game species that are only available for hunting by a special hunting permit. The commission may authorize a special hunting permit for goat, sheep, moose, or other big game species not specified.
+
+5. An application fee is required to enter a drawing for
+
+all permits in this section.
+
+## Section 7
+1. Catch record card information is necessary for proper management of the state's food fish and game fish species and shellfish resources. Catch record card administration shall be under rules adopted by the commission. Except as provided in this section, there is no charge for an initial catch record card. Each subsequent or duplicate catch record card is subject to a fee.
+
+2. A license to take and possess Dungeness crab is only valid in Puget Sound waters east of the Bonilla-Tatoosh line if the fisher has in possession a valid catch record card officially endorsed for Dungeness crab.
+
+3. Catch record cards issued with affixed temporary short-term charter stamp licenses are neither subject to the fee nor to the Dungeness crab endorsement fee provided for in this section. Charter boat or guide operators issuing temporary short-term charter stamp licenses shall affix the stamp to each catch record card issued before fishing commences. Catch record cards issued with a temporary short-term charter stamp are valid for one day.
+
+4. A catch record card for halibut is subject to a fee when purchased with an annual saltwater or combination fishing license and must be provided at no cost for those who purchase a one-day temporary combination fishing license or one-day temporary charter stamp.
+
+5. The department shall include provisions for recording marked and unmarked salmon in catch record cards issued after March 31, 2004.
+
+6. [Empty]
+
+    a. The funds received from the sale of catch record cards, catch card penalty fees, and the Dungeness crab endorsement must be deposited into the limited fish and wildlife account created in RCW 77.12.170(1).
+
+        i.(A) Eleven percent of the revenue received from the sale of each Dungeness crab endorsement must be used for the removal and disposal of derelict shellfish gear either directly by the department or under contract with a third party. The department is required to maintain a separate accounting of these funds and provide an annual report to the commission and the legislature by January 1st of every year.
+
+(B) The remaining portion of the funds received from the sale of each Dungeness crab endorsement must be used for education, sampling, monitoring, and management of catch associated with the Dungeness crab recreational fisheries.
+
+        ii. Funds received from the sale of halibut catch record cards must be used for monitoring and management of recreational halibut fisheries, including expanding opportunities for recreational anglers.
+
+    b. Moneys allocated under this section shall supplement and not supplant other federal, state, and local funds used for Dungeness crab recreational fisheries management.
+
+## Section 8
+Enhancement programs
+
+receive revenue using a percentage rate applied to the fee of each eligible license and deposited within each dedicated account as follows:
+
+1. Six and eight-tenths percent of all freshwater and combination fishing licenses, including temporary combination fishing licenses, must be deposited in the warm water game fish account created in RCW 77.44.050;
+
+2. Twelve percent of all saltwater and combination fishing licenses, including temporary combination fishing licenses, must be deposited in the recreational fisheries enhancement account created in RCW 77.105.150; and
+
+3. Two and three-tenths percent of all saltwater, freshwater, and combination fishing licenses, including temporary combination fishing licenses, must be deposited in the regional fisheries enhancement group account created in RCW 77.95.090.
+
+## Section 9
+1. A big game hunting license is required to hunt for big game. A big game license allows the holder to hunt for forest grouse, unclassified wildlife, and the individual species identified within a specific big game combination license package. Each big game license includes one transport tag for each species purchased in that package. A hunter may not purchase more than one license for each big game species except as authorized by rule of the commission.
+
+2. In the event that the commission authorizes a special hunt permit  for goat, sheep, moose, or other big game species not specified , a license is required and is subject to a fee.
+
+3. Multiple season big game tag: The commission may, by rule, offer permits for hunters to hunt deer or elk during more than one general season. Only one deer or elk may be harvested annually under a multiple season big game tag.
+
+4. Authorization to hunt the species set out under subsection (2) of this section is by special permit issued under RCW 77.32.370.
+
+## Section 10
+1. A small game hunting license is required to hunt for all classified wild animals and wild birds, except big game. A small game license also allows the holder to hunt for unclassified wildlife.
+
+2. [Empty]
+
+    a. In addition to a small game license, a turkey tag is required to hunt for turkey.
+
+    b. Two-thirds of the moneys received from turkey tags must be appropriated solely for turkey or upland game bird management within the limited fish and wildlife account created in RCW 77.12.170(1). The remainder of the moneys received from turkey tags must be appropriated to the fish, wildlife, and conservation account created in RCW 77.12.170(3). Moneys received from turkey tags may not supplant existing funds provided for these purposes.
+
+## Section 11
+1. A personal use saltwater, freshwater, combination, or temporary license is required for all persons 16 years of age or older to fish for or possess fish taken for personal use from state waters or offshore waters.
+
+    a. A combination license allows the holder to fish for or possess fish, shellfish, and seaweed from state waters or offshore waters.  There is an additional 50 cent surcharge for this license, to be deposited in the rockfish research account created in RCW 77.12.702.
+
+    b. A saltwater license allows the holder to fish for or possess fish taken from saltwater areas.  There is an additional 50 cent surcharge for this license, to be deposited in the rockfish research account created in RCW 77.12.702.
+
+    c. A freshwater license allows the holder to fish for, take, or possess food fish or game fish species in all freshwater areas.
+
+2. [Empty]
+
+    a. A temporary combination fishing license is valid for one to three consecutive days and allows the holder to fish for or possess fish, shellfish, and seaweed taken from state waters or offshore waters.
+
+    b. A charter stamp is valid for a one-day temporary combination fishing license for residents and nonresidents for use on a charter boat as defined in RCW 77.65.150. A guide stamp is valid for a one-day temporary combination fishing license for residents and nonresidents for use with a guide as defined in RCW 77.65.370, 77.65.480, or 77.65.590.
+
+    c.
+
+The temporary combination fishing license fee for active duty military personnel serving in any branch of the United States armed forces is the resident rate . Active duty military personnel must provide a valid military identification card at the time of purchase of the temporary license to qualify for the resident rate.
+
+    d. There is an additional 50 cent surcharge on the temporary combination fishing license and the associated charter stamp, to be deposited in the rockfish research account created in RCW 77.12.702.
+
+3. The commission may adopt rules to create and sell combination licenses for all hunting and fishing activities at or below a fee equal to the total cost of the individual license contained within any combination.
+
+4. The commission may adopt rules to allow the use of two fishing poles per fishing license holder for use on selected state waters. If authorized by the commission, license holders must purchase a two-pole endorsement to use a second pole. The proceeds from the sale of the two-pole endorsement must be deposited into the limited fish and wildlife account created in RCW 77.12.170(1) and used for the operation and maintenance of state-owned fish hatcheries.
+
+## Section 12
+1. Upon written application, a combination fishing license shall be issued at the reduced rate of $6.75 and all hunting licenses shall be issued at the reduced rate of a youth hunting license fee for the following individuals:
+
+    a. A resident 65 years old or older who has a qualifying discharge, as defined in RCW 73.04.005, from the United States armed forces and has a service-connected disability;
+
+    b. A resident who has a qualifying discharge, as defined in RCW 73.04.005, from the United States armed forces and has a 30 percent or more service-connected disability;
+
+    c. A resident with a disability who permanently uses a wheelchair;
+
+    d. A resident who is blind or visually impaired; and
+
+    e. A resident with a developmental disability as defined in RCW 71A.10.020 with documentation of the disability certified by a physician licensed to practice in this state.
+
+2. Upon department verification of eligibility, a nonstate resident veteran with a disability who otherwise satisfies the criteria of subsection (1)(a) and (b) of this section must be issued a combination fishing license or any hunting license at the same cost charged to a nondisabled Washington resident for the same license.
+
+3. Upon written application and department verification, the following recreational hunting licenses must be issued at no cost to a resident member of the state guard or national guard, as defined in RCW 38.04.010, as long as the state guard or national guard member is: An active full-time state guard or national guard employee; or a state guard or national guard member whose status requires the state guard or national guard member to participate in drill training on a part-time basis:
+
+    a. A small game hunting license under RCW 77.32.460(1);
+
+    b. A supplemental migratory bird permit under RCW 77.32.350; and
+
+    c. A big game hunting license under RCW 77.32.450(1) .
+
+## Section 13
+1. A personal use shellfish and seaweed license is required for all persons other than residents or nonresidents under 16 years of age to fish for, take, dig for, or possess seaweed or shellfish, including razor clams, for personal use from state waters or offshore waters including national park beaches.
+
+2. A razor clam license allows a person to harvest only razor clams for personal use from state waters, including national park beaches.
+
+3.
+
+A personal use shellfish and seaweed license or razor clam license must be in immediate possession of the licensee and available for inspection while a licensee is harvesting shellfish or seaweed. However, the license does not need to be visible at all times.
+
+## Section 14
+1. In order to effectively manage wildlife in areas or at times when a higher proficiency and demonstrated skill level are needed for resource protection or public safety, the department establishes the master hunter permit program. The master hunter permit program emphasizes safe, ethical, responsible, and lawful hunting practices. Program goals include improving the public's perception of hunting and perpetuating the highest hunting standards.
+
+2. A master hunter permit is required to participate in controlled hunts to eliminate problem animals that damage property or threaten public safety. The commission may establish by rule the requirements an applicant must comply with when applying for or renewing a master hunter permit including, but not limited to, a criminal background check. The director may establish an advisory group to assist the department with administering the master hunter permit program.
+
+3.  Funds generated under this section must be deposited into the fish and wildlife enforcement reward account established in RCW 77.15.425, and the funds must be used exclusively to administer the master hunter permit program.
+
+## Section 15
+1. A western Washington pheasant license is required to hunt for pheasant in western Washington.
+
+2. The license is available as a season option or a three-day option.
+
+## Section 16
+Recreational fishing fee table
+
+LICENSE TYPES
+
+RESIDENT
+
+NONRESIDENT
+
+RESIDENT SENIOR
+
+YOUTH
+
+RCW
+
+Annual freshwater license
+
+$34.50
+
+$103.50
+
+$6.90
+
+----
+
+77.32.470
+
+Annual saltwater license
+
+$35.19
+
+$72.45
+
+$7.59
+
+----
+
+77.32.470
+
+Annual shellfish/seaweed license
+
+$13.80
+
+$37.26
+
+$6.90
+
+----
+
+77.32.520
+
+Annual combination license
+
+$62.79
+
+$149.73
+
+$21.39
+
+Free
+
+77.32.470
+
+1-day combination license
+
+$11.73
+
+$22.77
+
+$11.73
+
+----
+
+77.32.470
+
+2-day combination license
+
+$17.25
+
+$33.81
+
+$17.25
+
+----
+
+77.32.470
+
+3-day combination license
+
+$21.39
+
+$42.09
+
+$21.39
+
+----
+
+77.32.470
+
+Annual razor clam license
+
+$11.04
+
+$20.70
+
+$11.04
+
+----
+
+77.32.470
+
+3-day razor clam license
+
+$6.90
+
+$6.90
+
+$6.90
+
+----
+
+77.32.520
+
+Catch record cards
+
+1st card free, additional cards $15.18/each
+
+77.32.430
+
+Halibut catch record card
+
+$6.90
+
+$6.90
+
+$6.90
+
+Free
+
+77.32.430
+
+Two-pole endorsement
+
+$17.94
+
+$17.94
+
+$6.90
+
+----
+
+77.32.470
+
+Puget Sound crab endorsement
+
+$10.35
+
+$10.35
+
+$10.35
+
+Free
+
+77.32.430
+
+Puget Sound crab endorsement on 1-3 day temp.
+
+$4.14
+
+$4.14
+
+$4.14
+
+----
+
+77.32.430
+
+1-day charter stamp
+
+$11.73
+
+$11.73
+
+$11.73
+
+----
+
+77.32.470
+
+1-day guide stamp
+
+$11.73
+
+$11.73
+
+$11.73
+
+----
+
+77.32.470
+
+## Section 17
+Hunting fee table
+
+LICENSE TYPES
+
+RESIDENT
+
+NONRESIDENT
+
+RESIDENT SENIOR
+
+YOUTH
+
+RCW
+
+Big game
+
+
+
+
+
+
+
+
+
+
+
+Deer+elk+bear+cougar license
+
+$117.30
+
+$1,076.40
+
+$40.00
+
+$40.00
+
+77.32.450
+
+Deer+elk+bear+cougar license w/discounted small game license
+
+$144.90
+
+$1,197.84
+
+$49.38
+
+$49.38
+
+77.32.450/
+
+77.32.460
+
+Deer+elk license
+
+$103.50
+
+$924.60
+
+$35.19
+
+$35.19
+
+77.32.450
+
+Deer+elk license w/discounted small game license
+
+$130.37
+
+$1,046.04
+
+$44.33
+
+$44.33
+
+77.32.450/
+
+77.32.460
+
+Deer license
+
+$53.82
+
+$542.34
+
+$18.30
+
+$18.30
+
+77.32.450
+
+Deer license w/discounted small game license
+
+$81.42
+
+$663.78
+
+$27.68
+
+$27.68
+
+77.32.450/
+
+77.32.460
+
+Elk license
+
+$60.72
+
+$621.00
+
+$20.64
+
+$20.64
+
+77.32.450
+
+Elk license w/discounted small game license
+
+$88.32
+
+$742.44
+
+$30.03
+
+$30.03
+
+77.32.450/
+
+77.32.460
+
+Bear license
+
+$27.60
+
+$276.00
+
+$10.00
+
+$10.00
+
+77.32.450
+
+Bear license w/discounted small game license
+
+$55.20
+
+$397.44
+
+$19.38
+
+$19.38
+
+77.32.450/
+
+77.32.460
+
+Cougar license
+
+$27.60
+
+$276.00
+
+$10.00
+
+$10.00
+
+77.32.450
+
+Cougar license w/discounted small game license
+
+$55.20
+
+$397.44
+
+$19.38
+
+$19.38
+
+77.32.450/
+
+77.32.460
+
+Moose license (random drawing)
+
+$414.00
+
+$2,070.00
+
+$140.76
+
+$140.76
+
+77.32.450
+
+Mountain goat license (random drawing)
+
+$414.00
+
+$2,070.00
+
+$140.76
+
+$140.76
+
+77.32.450
+
+Bighorn sheep license (random drawing)
+
+$414.00
+
+$2,070.00
+
+$140.76
+
+$140.76
+
+77.32.450
+
+Multiple season deer tag
+
+$173.88
+
+$173.88
+
+$173.88
+
+$173.88
+
+77.32.450
+
+Multiple season elk tag
+
+$227.70
+
+$227.70
+
+$227.70
+
+$227.70
+
+77.32.450
+
+2nd deer license
+
+$82.80
+
+$345.00
+
+$28.15
+
+$28.15
+
+77.32.450
+
+2nd elk license
+
+$82.80
+
+$483.00
+
+$28.15
+
+$28.15
+
+77.32.450
+
+Special hunt permit applications
+
+$8.28
+
+$138.00
+
+$3.00
+
+$3.00
+
+77.32.370
+
+Special hunt permit application - quality
+
+$16.56
+
+$138.00
+
+$5.63
+
+$5.63
+
+77.32.370
+
+Special hunt permit application - multiple season
+
+$8.28
+
+$138.00
+
+$3.00
+
+$3.00
+
+77.32.370/
+
+77.32.450
+
+Hunter deferral card
+
+$24.00
+
+$24.00
+
+$24.00
+
+$24.00
+
+77.32.155
+
+Master hunter permit initial
+
+$69.00
+
+----
+
+$69.00
+
+----
+
+77.32.570
+
+Master hunter permit renew
+
+
+
+$34.50
+
+----
+
+$34.50
+
+----
+
+77.32.570
+
+Small game
+
+
+
+
+
+
+
+
+
+
+
+Small game license
+
+$48.30
+
+$227.70
+
+$16.42
+
+$16.42
+
+77.32.460
+
+3-day small game license
+
+----
+
+$82.80
+
+----
+
+----
+
+77.32.460
+
+Turkey tag #1
+
+$19.32
+
+$55.20
+
+$6.57
+
+$6.57
+
+77.32.460
+
+Additional turkey tags
+
+$19.32
+
+$82.80
+
+$6.57
+
+$6.57
+
+77.32.460
+
+Migratory bird permit
+
+$20.70
+
+$20.70
+
+$20.70
+
+$20.70
+
+77.32.350
+
+Western Washington pheasant license
+
+$103.50
+
+$207.00
+
+$16.42
+
+$16.42
+
+77.32.575
+
+Western Washington pheasant - 3-day license
+
+$48.30
+
+$96.60
+
+$16.42
+
+$16.42
+
+77.32.575
+
+Migratory bird authorization
+
+$15.18
+
+$15.18
+
+$5.16
+
+$5.16
+
+77.32.350
+
+Special hunt permit applications - turkey
+
+$8.28
+
+$138.00
+
+$3.00
+
+$3.00
+
+77.32.370
+
+## Section 18
+1. The commission may establish by rule a surcharge on all fees authorized under chapters 77.32, 77.65, and 77.70 RCW by November 1st of each odd-numbered year if the commission determines that the surcharge is necessary to fund inflationary and other increased costs approved by the legislature in the biennial budget.
+
+2. The surcharge may not exceed the percentage increase needed to generate revenue to offset the costs described in subsection (1) of this section, and must apply equally to all fees, except the surcharge does not apply to transaction fees, commercial application fees, and dealer fees authorized under this title.
+
+## Section 19
+1. The commission may adopt rules to create and sell combination licenses for all hunting and fishing activities at or below a fee equal to the total cost of the individual license contained within any combination. This includes, but is not limited to, discounts for seniors and those that meet the qualifications, such as veterans who are disabled as specified in RCW 77.32.480. Combination licenses may span one or more license years.
+
+2. The director may offer temporary discounted promotional pricing to increase angler, hunting, or wildlife viewing participation.
+
+## Section 20
+The following acts or parts of acts are each repealed:
+
+## Section 21
+Section 18 of this act takes effect September 1, 2027.
+
+## Section 22
+Except for section 18 of this act, this act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect July 1, 2025.

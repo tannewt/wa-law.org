@@ -1,0 +1,38 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1867](/bill/2025-26/hb/1867/) > [Substitute Bill](/bill/2025-26/hb/1867/S/)
+
+# HB 1867 - Affordable housing REET
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1867-S.pdf)
+
+## Section 1
+1. [Empty]
+
+    a. Subject to subsection of this section, the legislative authority of any county may impose an additional excise tax on the purchase and sale of real property in the county at the rate of up to 0.5 percent of the selling price. The proceeds of the tax shall be used exclusively for the development of affordable housing including acquisition, building, rehabilitation, and maintenance and operation of housing for very low, low, and moderate-income persons and those with special needs.
+
+    b. If a county imposes a tax authorized under (a) of this subsection after a city located in that county has imposed the tax authorized under subsection (2) of this section, the county must provide a credit against its tax for the full amount of tax imposed by the city.
+
+2. [Empty]
+
+    a. Subject to subsection (5) of this section, the legislative authority of a city may impose an excise tax on the purchase and sale of real property in the city at the rate of up to 0.5 percent of the selling price if:
+
+        i. The county in which the city is located has adopted a resolution of intent stating that they do not intend to impose the excise tax under this section; or
+
+        ii. The county in which the city is located has not imposed the excise tax under this section by January 1, 2027.
+
+    b. The proceeds of the tax must be used exclusively for the development of affordable housing, including acquisition, building, rehabilitation, and maintenance and operation of housing, for very low, low, and moderate-income persons and those with special needs.
+
+3. Revenues generated from the tax imposed under this section shall be placed in an affordable housing account administered by the county or city. Disbursements from the account shall be made following a competitive grant and loan process. The county or city legislative authority shall determine a mechanism for receiving grant and loan applications, and criteria by which the applications shall be approved and funded. Eligible recipients of grants and loans from the account shall be private nonprofit, affordable housing providers, the housing authority for the county or city, or other housing programs conducted or funded by a public agency, or by a public agency in partnership with a private nonprofit entity.
+
+4. The taxes imposed under this section shall be imposed in the same manner and on the same occurrences, and are subject to the same conditions, as the taxes under chapter 82.45 RCW, except that the tax shall be the obligation of both the purchaser and the seller, as determined by the county or city legislative authority, with at least 0.5 of the obligation being that of the purchaser. The county or city may enforce the obligation through an action of debt against the purchaser or seller or may foreclose the lien on the property in the same manner prescribed for the foreclosure of mortgages. The imposition of the tax is effective 30 days after the election at which the tax is authorized.
+
+5. [Empty]
+
+    a. No tax may be imposed under this section unless approved by a majority of the voters of the county or city voting, for a specified period and for a specified maximum rate. This vote must follow either:
+
+        i. The adoption of a resolution by the county or city legislative authority proposing this action; or
+
+        ii. The filing of a petition proposing this action with the county or city auditor, signed by county or city voters at least equal in number to 10 percent of the total number of voters in the county or city who voted in the preceding general election.
+
+    b. The ballot proposition shall be submitted to the voters of the county or city at the next general election occurring at least 60 days after a petition is filed, or at any special election prior to this general election called for this purpose by the county or city legislative authority.
+
+A plan for the expenditure of the proceeds of the tax imposed by this section shall be prepared by the county or city legislative authority at least 60 days before the election if the proposal is initiated by resolution of the county or city legislative authority, or within six months after the tax has been authorized by the voters if the proposal is initiated by petition. Prior to the adoption of this plan, the elected officials of cities located within the county shall be consulted and at least one public hearing shall be held to obtain public comment. The proceeds of the tax shall be expended in conformance with this plan.

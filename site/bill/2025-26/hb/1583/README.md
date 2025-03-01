@@ -9,9 +9,10 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1583 Traditional health/medicaid
-#### 26 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Esther Lucero - Seattle Indian Health Board
+* 💵Vicki Lowe - American Indian Health Commission
 
 #### 0 👎 - Con
 

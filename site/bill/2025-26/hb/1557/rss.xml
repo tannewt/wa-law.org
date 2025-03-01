@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1557/</link>
 		<description>Updates about HB 1557</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 25 Feb 2025 05:05:30 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 26 Feb 2025 12:29:51 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -206,12 +206,36 @@
 			<guid isPermaLink="false">testifier/Melissa/Beard/2025-02-25 01:37:09</guid>
 		</item>
 		<item>
-			<title>👎John Axtell - Council of Presidents</title>
+			<title>👎John Axtell - Associated Students of UW Bothell</title>
 			<description>John Axtell signed up to testify Con.</description>
 			<pubDate>Tue, 25 Feb 2025 05:05:30 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/John/Axtell/2025-02-25 05:05:30</guid>
+		</item>
+		<item>
+			<title>👍💵Mykhail Lembke - University of Washington Graduate and Professional Student Senate</title>
+			<description>Mykhail Lembke signed up to testify Pro. They are signed up to represent University of Washington Graduate and Professional Student Senate. They are a registered lobbyist.</description>
+			<pubDate>Wed, 26 Feb 2025 12:28:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mykhail/Lembke/2025-02-26 12:28:33</guid>
+		</item>
+		<item>
+			<title>👍💵Collin Bannister - The Washington Student Association</title>
+			<description>Collin Bannister signed up to testify Pro. They are signed up to represent The Washington Student Association. They are a registered lobbyist.</description>
+			<pubDate>Wed, 26 Feb 2025 12:29:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Collin/Bannister/2025-02-26 12:29:03</guid>
+		</item>
+		<item>
+			<title>👍💵Sienna Jarrard - Associated Students of UW Bothell</title>
+			<description>Sienna Jarrard signed up to testify Pro. They are signed up to represent Associated Students of UW Bothell. They are a registered lobbyist.</description>
+			<pubDate>Wed, 26 Feb 2025 12:29:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sienna/Jarrard/2025-02-26 12:29:51</guid>
 		</item>
 	</channel>
 </rss>

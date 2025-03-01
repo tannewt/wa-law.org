@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 01/29/2025 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [Who is left out of the Paid Family and Medical Leave Act? - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/blog/post/paid-family-and-medical-leave-job-protection/#:~:text=House%20Bill%201213)

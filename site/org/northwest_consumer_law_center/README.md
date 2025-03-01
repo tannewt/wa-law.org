@@ -10,13 +10,14 @@
 ### [HB 1599](/bill/2025-26/hb/1599/) - Concerning consumer debt adjusters and debt resolution services providers.  👎1 
 * 👎 Amanda Martin
 
-## [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
+### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 * 👍 Amanda Martin
+
+## [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
 
 ## 2023-24
 
-### [SB 5480](/bill/2023-24/sb/5480/) - Medical debt 👍1  
-* 👍 Amanda Martin
+### [SB 5686](/bill/2023-24/sb/5686/) - Foreclosure mediation prg. 👍1  
 
 ### [HB 1651](/bill/2023-24/hb/1651/) - Infraction debt 👍2  
 * 👍 Christina Henry

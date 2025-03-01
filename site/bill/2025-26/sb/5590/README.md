@@ -23,6 +23,6 @@ Testifying:
 * Tom Sill
 * Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
 * john rosapepe - Endangered Species Coalition
-* Dan Paul - Humane World for Animals
+* Dan Paul - [Humane World for Animals](/org/humane_world_for_animals/)
 
 #### 1 ❓ - Other

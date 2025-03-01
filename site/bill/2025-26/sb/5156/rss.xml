@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5156/</link>
 		<description>Updates about SB 5156</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 27 Feb 2025 00:06:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -155,6 +155,13 @@
 			<pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-24/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>An Update on Our Work to Support Affordable Housing - Sen. Jesse Salomon</title>
+			<description>News article "An Update on Our Work to Support Affordable Housing - Sen. Jesse Salomon" from Senate Democrats.</description>
+			<pubDate>Thu, 27 Feb 2025 00:06:15 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/salomon/2025/02/26/heres-how-im-working-to-make-housing-more-affordable/#:~:text=SB%205156</guid>
 		</item>
 	</channel>
 </rss>

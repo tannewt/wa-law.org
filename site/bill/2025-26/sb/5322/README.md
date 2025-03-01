@@ -9,7 +9,7 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5322 Burrowing shrimp
-#### 5 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Kathleen Nisbet-Moncy - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)
 * Marilyn Sheldon - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)

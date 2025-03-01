@@ -33,7 +33,7 @@
 
 ### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
 
-### [HB 1233](/bill/2025-26/hb/1233/) - Concerning work programs for incarcerated persons. 👍1  
+### [HB 1233](/bill/2025-26/hb/1233/) - Work programs/incarceration 👍1  
 
 ### [HB 1264](/bill/2025-26/hb/1264/) - Ferry system salaries 👍13  
 * 👍 Eric Winge
@@ -79,7 +79,7 @@
 
 ### [HB 1489](/bill/2025-26/hb/1489/) - Childhood ed./impl. dates  👎1 
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍2  
 
 ### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation  👎1 
 
@@ -192,6 +192,8 @@
 ### [HB 1934](/bill/2025-26/hb/1934/) - Employment investigation/PRA 👍1  
 
 ### [HB 1958](/bill/2025-26/hb/1958/) - Interstate bridge toll bonds 👍1  
+
+### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy  👎1 
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 

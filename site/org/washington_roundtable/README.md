@@ -1,7 +1,7 @@
 # Washington Roundtable
 ## 2025-26
 
-### [HB 1557](/bill/2025-26/hb/1557/) - Guaranteed admissions prg. 👍1  
+### [HB 1557](/bill/2025-26/hb/1557/) - Guaranteed admissions prg. 👍2  
 * 👍💵 Neil Strege
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  

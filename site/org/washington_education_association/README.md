@@ -395,7 +395,7 @@
 
 ### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍1  
 
-### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍7  
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍7  
 * 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
 
@@ -563,7 +563,12 @@
 
 ### [SB 5768](/bill/2025-26/sb/5768/) - Working families' tax credit 👍1  
 
+### [SB 5769](/bill/2025-26/sb/5769/) - Transition to kindergarten  👎1 
+* 👎💵 Nasue Nishida
+
 ### [SB 5770](/bill/2025-26/sb/5770/) - Primary residence/tax 👍1  
+
+### [SB 5772](/bill/2025-26/sb/5772/) - Student enrollment  👎1 
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍4  ❓1
 * ❓💵 Julie Salvi

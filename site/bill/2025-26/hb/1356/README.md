@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/25/2025 [The Center Square](/org/the_center_square/) - [Bill to raise lid on local WA school district levies moves forward | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_88441e42-f3b1-11ef-86ab-3b0deaf9a05b.html#:~:text=House%20Bill%201356)

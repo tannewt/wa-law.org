@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205338)
 * 02/25/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Nobles bill to update WA veterans committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/25/senate-passes-nobles-bill-to-update-wa-veterans-committee/#:~:text=Senate%20Bill%205338)
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles introduces bill to update WA veterans committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/nobles-introduces-bill-to-update-wa-veterans-committee/#:~:text=Senate%20Bill%205338)
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205183)

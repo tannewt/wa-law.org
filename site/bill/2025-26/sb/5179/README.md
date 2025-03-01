@@ -6,8 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Reaction to Gov. Ferguson's budget plan & victory on wood stoves - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-looking-ahead-week-eight-april-3-7/#:~:text=SB%205179:)
 * 02/11/2025 [Senate Democrats](/org/senate_democrats/) - [Working together to support students and their families - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/11/working-together-to-support-students-and-their-families/#:~:text=Senate%20Bill%205179)
 * 02/11/2025 [Senate Democrats](/org/senate_democrats/) - [Working together to support students and their families - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/02/11/working-together-to-support-students-and-their-families/#:~:text=Senate%20Bill%205179)
 * 02/07/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Lynden School Board pushes back on bills that 'threaten' parental rights | Cascadia Daily News](https://www.cascadiadaily.com/2025/feb/07/lynden-school-board-pushes-back-on-bills-that-threaten-parental-rights/#:~:text=A%20bill)

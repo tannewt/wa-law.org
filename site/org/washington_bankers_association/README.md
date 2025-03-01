@@ -4,7 +4,7 @@
 ### [HB 1268](/bill/2025-26/hb/1268/) - Virtual currency kiosks 👍1  
 * 👍 Duncan Taylor
 
-### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍2  
+### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍3  
 * 👍💵 Megan Managan
 
 ### [HB 1506](/bill/2025-26/hb/1506/) - Credit union-bank merger/tax 👍1  

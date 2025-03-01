@@ -130,7 +130,7 @@
 ### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education  👎4 
 * 👎 Joy Gjersvold
 
-### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs.  👎5 
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials  👎5 
 * 👎 Jeannie Magdua
 
 ### [SB 5228](/bill/2025-26/sb/5228/) - Updating the governor's interagency coordinating council on health disparities.  👎1 

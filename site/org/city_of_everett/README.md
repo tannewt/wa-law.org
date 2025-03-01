@@ -20,7 +20,7 @@
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍2  
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍3  
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 

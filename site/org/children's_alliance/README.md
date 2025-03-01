@@ -15,7 +15,7 @@
 
 ### [HB 1713](/bill/2025-26/hb/1713/) - Automatic voter reg./tribes 👍1  
 
-### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍6  
+### [HB 1834](/bill/2025-26/hb/1834/) - Online services/minors 👍7  
 * 👍 Stephan Blanford
 * 👍 Stephan Blanford
 
@@ -31,13 +31,13 @@
 
 ### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍1  
 
-## [SB 5708](/bill/2025-26/sb/5708/) - Online services/minors 👍6  
+## [SB 5708](/bill/2025-26/sb/5708/) - Online services/minors 👍7  
 * 👍 Stephan Blanford
 * 👍💵 Reid Saaris
 
 ## 2023-24
 
-### [SB 5708](/bill/2023-24/sb/5708/) - Online services/minors 👍6  
+### [SB 5708](/bill/2023-24/sb/5708/) - Online services/minors 👍7  
 * 👍 Stephan Blanford
 * 👍💵 Reid Saaris
 

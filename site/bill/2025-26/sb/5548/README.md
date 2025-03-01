@@ -9,15 +9,16 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5548 Workers' compensation
-#### 212 👍 - Pro
+#### 235 👍 - Pro
 Testifying:
 * 💵Minna Long - Washington State Building & Construction Trades Council
 * 💵Ray Dumas - OPCMIA Local 528
 * Sean Scholes
 * Armando Sanchez - Local 86 Ironworkers
 * 💵Daniel Goodman - Washington State Association for Justice
+* Joe Kendo - Washington State Labor Council, AFL-CIO
 
-#### 823 👎 - Con
+#### 852 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Rosemarie Dorn - concerned citizen

@@ -14,12 +14,13 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1273 Dual credit program access
-#### 38 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * 💵Sienna Jarrard - [Associated Students of the University of Washington Bothell](/org/associated_students_of_the_university_of_washington_bothell/)
 * Tianyi Tong - Lake Washington High School
 * John Axtell
 * 💵Jayme Shoun - Washington STEM
+* Vickei Hrdina
 
 #### 1 👎 - Con
 

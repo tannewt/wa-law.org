@@ -13,7 +13,7 @@
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5362 Crime victim services
-#### 616 👍 - Pro
+#### 691 👍 - Pro
 Testifying:
 * Carlyn Sampson - Rebuilding Hope Sexual Assault Center
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
@@ -24,11 +24,14 @@ Testifying:
 * Suzi Fode - Kids Hope Children's Advocacy Center
 * Elisa Adolphsen - Kids Hope CAC
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* Tanya Goodman
 
-#### 5 ❓ - Other
+#### 6 ❓ - Other
 Testifying:
 * Dana Tingey - High Ground Divorces
+* Shira Cole - Youth Equity and Safety
 
 ### Mon 02/03 10:30 AM - Law & Justice (LAW): SB 5362 Crime victim services
 #### 763 👍 - Pro

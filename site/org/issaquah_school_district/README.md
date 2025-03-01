@@ -36,7 +36,7 @@
 * 👍 Martin Turney
 * 👍 Jason Morse
 
-### [SB 5192](/bill/2025-26/sb/5192/) - Concerning school district materials, supplies, and operating costs. 👍4  
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍4  
 * 👍 Heather Tow-Yick
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍5  
