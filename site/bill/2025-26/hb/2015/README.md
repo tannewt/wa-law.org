@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 02/25/2025 [House Democrats](/org/house_democrats/) - [House Bill 2015 Advances: A Bold Step Toward Justice, Community Safety, and Accountability – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/25/house-bill-2015-advances-a-bold-step-toward-justice-community-safety-and-accountability/#:~:text=House%20Bill%202015)
+
 ## Meetings
 ### Thu 02/27 09:00 AM - Appropriations (APP): HB 2015 Public safety funding
 #### 21 👍 - Pro

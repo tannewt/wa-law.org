@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/01/2025 [Washington State Standard](/org/washington_state_standard/) - [Latest deadline in Washington Legislature fells more bills • Washington State Standard](https://washingtonstatestandard.com/2025/03/01/latest-deadline-in-washington-legislature-fells-more-bills/#:~:text=House%20Bill%201773)
+
 ## Meetings
 ### Tue 02/04 10:30 AM - Labor & Workplace Standards (LAWS): HB 1773 Wage replacement
 #### 571 👍 - Pro

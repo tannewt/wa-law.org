@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/02/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Human Rights -- 2025 action — Quaker Voice](https://www.quakervoicewa.org/human-rights-2025-action/#:~:text=SB%205123)
 * 02/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Reaction to Gov. Ferguson's budget plan & victory on wood stoves - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-looking-ahead-week-eight-april-3-7/#:~:text=SB%205123:)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205123)
 * 02/11/2025 [Senate Democrats](/org/senate_democrats/) - [Working together to support students and their families - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/11/working-together-to-support-students-and-their-families/#:~:text=Senate%20Bill%205123)

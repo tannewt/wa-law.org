@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/28/2025 [The Center Square](/org/the_center_square/) - [Despite backlash, WA lawmakers advance controversial homeless bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5ac4e9ae-f606-11ef-a44c-d34b7da35575.html#:~:text=House%20Bill%201380)
 * 02/13/2025 [The Center Square](/org/the_center_square/) - [WA bill would let courts decide if city camping bans are ‘objectively reasonable’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_60146aa8-ea4c-11ef-ab18-73d7f7d81f91.html#:~:text=HB%201380)
 * 02/13/2025 [MyNorthwest](/org/mynorthwest/) - [WA bill letting homeless sue cities for not allowing camping, lying in parks is still alive](https://mynorthwest.com/mynorthwest-politics/wa-bill-homeless/4044891#:~:text=House%20Bill%201380)
 * 02/10/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2025 Quaker Voice Priority Bill Tracker — Quaker Voice](https://www.quakervoicewa.org/2025-quaker-voice-priority-bills/#:~:text=HB%201380)

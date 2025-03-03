@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1203/</link>
 		<description>Updates about HB 1203</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 16:37:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -520,6 +520,13 @@
 			<pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-21/Referred to Finance.</guid>
+		</item>
+		<item>
+			<title>In Session: Free lunches, flavored vape ban among non-advancing bills | king5.com</title>
+			<description>News article "In Session: Free lunches, flavored vape ban among non-advancing bills | king5.com" from KING5.</description>
+			<pubDate>Fri, 28 Feb 2025 16:37:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.king5.com/article/news/politics/in-session/free-lunches-flavored-vape-ban-among-non-advancing-bills-washington/281-f2b5c9e0-3b7d-47bb-b1ca-3b7b8aa112f3#:~:text=House%20Bill%201203</guid>
 		</item>
 	</channel>
 </rss>

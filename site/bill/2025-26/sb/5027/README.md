@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/01/2025 [Washington State Standard](/org/washington_state_standard/) - [Latest deadline in Washington Legislature fells more bills • Washington State Standard](https://washingtonstatestandard.com/2025/03/01/latest-deadline-in-washington-legislature-fells-more-bills/#:~:text=Senate%20Bill%205027)
+
 ## Meetings
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5027 Law school loan repayment
 #### 173 👍 - Pro

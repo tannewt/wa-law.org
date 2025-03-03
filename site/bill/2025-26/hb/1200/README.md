@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/01/2025 [Washington State Standard](/org/washington_state_standard/) - [Latest deadline in Washington Legislature fells more bills • Washington State Standard](https://washingtonstatestandard.com/2025/03/01/latest-deadline-in-washington-legislature-fells-more-bills/#:~:text=House%20Bill%201200)
 * 02/05/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Legislature weighs paying parents who care for children with disabilities • Washington State Standard](https://washingtonstatestandard.com/2025/02/05/wa-legislature-weighs-paying-parents-who-care-for-children-with-disabilities/#:~:text=House%20Bill%201200)
 
 ## Meetings

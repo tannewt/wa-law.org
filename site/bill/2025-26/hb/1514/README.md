@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1514 Low carbon thermal energy

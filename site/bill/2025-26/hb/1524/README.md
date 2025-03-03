@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 02/07/2025 [House Democrats](/org/house_democrats/) - [Committee approves Obras’ bill enforcing protections for housekeepers, security guards and janitors – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/07/committee-approves-obras-bill-enforcing-protections-for-housekeepers-security-guards-and-janitors/#:~:text=House%20Bill%201524)

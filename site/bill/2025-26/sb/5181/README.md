@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/02/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Human Rights -- 2025 action — Quaker Voice](https://www.quakervoicewa.org/human-rights-2025-action/#:~:text=ESSB%205181)
+* 02/27/2025 [Real Change](/org/real_change/) - [Seattleites resist Trump admin’s efforts to eliminate trans rights | Feb. 26–March 4, 2025 | Real Change](https://www.realchangenews.org/news/2025/02/27/seattleites-resist-trump-admin-s-efforts-eliminate-trans-rights#:~:text=SB%205181)
 * 02/25/2025 [Axios](/org/axios/) - [Washington Legislature debates changes to "parents bill of rights," I-2081 - Axios Seattle](https://www.axios.com/local/seattle/2025/02/25/parent-rights-2081-amendments-washington-legislature#:~:text=Senate%20Bill%205181)
 * 02/18/2025 [The Center Square](/org/the_center_square/) - [WATCH: Bill dubbed by critics as the 'initiative killer' passed out of Senate committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d05294e4-ee51-11ef-85ec-37b7048af6da.html#:~:text=(SB%205181))
 * 02/16/2025 [The Center Square](/org/the_center_square/) - [Hundreds rally at Capitol to protect parental rights: ‘Enough is enough’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3759a090-ecbf-11ef-88cc-2b90955ea0c2.html#:~:text=Senate%20Bill%205181)

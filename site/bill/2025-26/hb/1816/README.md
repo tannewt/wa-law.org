@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 02/27/2025 [House Democrats](/org/house_democrats/) - [House Bill 1816 Heads to the House Floor: Expanding Emergency Response to Meet Community Needs – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/27/house-bill-1816-heads-to-the-house-floor-expanding-emergency-response-to-meet-community-needs/#:~:text=House%20Bill%201816)
 * 02/22/2025 [MyNorthwest](/org/mynorthwest/) - [Seattle police union president warns of labor rights erosion](https://mynorthwest.com/ktth/ktth-opinion/seattle-police-union-president-labor-rights-erosion/4049420#:~:text=House%20Bill%201816)
 * 02/17/2025 [The Urbanist](/org/the_urbanist/) - [State Bill Would Circumvent SPOG, Clear Path for Seattle Civilian Responder Expansion - The Urbanist](https://www.theurbanist.org/2025/02/17/state-bill-would-clear-path-for-seattle-civilian-responder-expansion/#:~:text=B%201816)
 

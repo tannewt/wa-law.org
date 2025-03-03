@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2023-24/sb/6127/</link>
 		<description>Updates about SB 6127</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 25 Mar 2024 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 19:39:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -309,6 +309,13 @@
 			<pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2024-03-25/Governor signed.</guid>
+		</item>
+		<item>
+			<title>Senate passes Liias bill codifying Apple Health coverage for HIV antiviral drugs - Sen. Marko Liias</title>
+			<description>News article "Senate passes Liias bill codifying Apple Health coverage for HIV antiviral drugs - Sen. Marko Liias" from Senate Democrats.</description>
+			<pubDate>Fri, 28 Feb 2025 19:39:12 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/liias/2025/02/28/senate-passes-liias-bill-codifying-apple-health-coverage-for-hiv-antiviral-drugs/#:~:text=SB%206127</guid>
 		</item>
 	</channel>
 </rss>

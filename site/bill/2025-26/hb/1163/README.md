@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 02/28/2025 [The Center Square](/org/the_center_square/) - [Gun control showdown: WA House Democrats advance 'permit-to-purchase' mandate | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a955165e-f61d-11ef-bdf1-8749bbf8574f.html#:~:text=House%20Bill%201163)
 * 02/24/2025 [MyNorthwest](/org/mynorthwest/) - [WA lawmakers reignite firearm permit fight after failing last year](https://mynorthwest.com/mynorthwest-politics/firearm-permit/4051957#:~:text=House%20Bill%201163)
 * 02/20/2025 [The Center Square](/org/the_center_square/) - [Several gun bills working their way through the Washington State Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8f47292a-efd1-11ef-99dd-03b65ea3534b.html#:~:text=House%20Bill%201163)
 * 01/31/2025 [MyNorthwest](/org/mynorthwest/) - [Washington committee advances 3 controversial firearm bills](https://mynorthwest.com/mynorthwest-politics/firearm-bills/4037773#:~:text=House%20Bill%201163)

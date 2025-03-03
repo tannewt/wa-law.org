@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/01/2025 [Washington State Standard](/org/washington_state_standard/) - [Latest deadline in Washington Legislature fells more bills • Washington State Standard](https://washingtonstatestandard.com/2025/03/01/latest-deadline-in-washington-legislature-fells-more-bills/#:~:text=Senate%20Bill%205382)
 * 02/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Reaction to Gov. Ferguson's budget plan & victory on wood stoves - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-looking-ahead-week-eight-april-3-7/#:~:text=SB%205382:)
 * 02/24/2025 [The Center Square](/org/the_center_square/) - [Pair of WA secretaries of state come out against bill to change initiative process | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1607027a-f313-11ef-9a4a-4f105b7676cb.html#:~:text=Senate%20Bill%205382)
 * 02/24/2025 [FOX13](/org/fox13/) - [WA signature verification bill debated in legislature | FOX 13 Seattle](https://www.fox13seattle.com/news/signature-verification-bill-opposition-initative#:~:text=Senate%20Bill%205382)

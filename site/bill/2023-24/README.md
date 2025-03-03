@@ -644,7 +644,7 @@
 * [SB 5000](sb/5000) - Americans of Chinese descent 1📰 194👍 1👎 3❓ - C 357 L 23
 * [SB 5477](sb/5477) - Murdered indigenous women 1📰 197👍 0👎 1❓ - SRules X
 * [SB 6283](sb/6283) - Connecting communities prg. 2📰 198👍 0👎 0❓ - C 106 L 24
-* [SB 6127](sb/6127) - HIV prophylaxis 1📰 190👍 0👎 7❓ - C 251 L 24
+* [SB 6127](sb/6127) - HIV prophylaxis 2📰 190👍 0👎 7❓ - C 251 L 24
 * [HB 1941](hb/1941) - Health home serv./children 194👍 2👎 0❓ - C 177 L 24
 * [SB 5103](sb/5103) - Medicaid patients/discharge 187👍 3👎 5❓ - C 315 L 23
 * [HB 1945](hb/1945) - Food assistance access 194👍 0👎 0❓ - C 225 L 24
@@ -1049,7 +1049,7 @@
 * [HB 1431](hb/1431) - Senior living meals/tax 3📰 62👍 1👎 1❓ - C 416 L 23
 * [SB 5066](sb/5066) - Health care benefit managers 59👍 3👎 2❓ - C 107 L 23
 * [SB 5216](sb/5216) - Collisions/driver reexam 63👍 1👎 0❓ - SRules X
-* [SB 5280](sb/5280) - Clergy/child abuse reporting 12📰 58👍 2👎 4❓ - SHuman Services
+* [SB 5280](sb/5280) - Clergy/child abuse reporting 14📰 58👍 2👎 4❓ - SHuman Services
 * [SB 5826](sb/5826) - Utility bills/CCA charges 5📰 61👍 2👎 1❓ - SEnvironment, E
 * [HB 1640](hb/1640) - Pardons and commutations 36👍 27👎 0❓ - HRules X
 * [HB 1874](hb/1874) - Protecting consumers from predatory loans. 1📰 48👍 4👎 11❓ - HConsPro&Bus
@@ -1151,7 +1151,7 @@
 * [SB 5674](sb/5674) - Surplus property/housing 2📰 51👍 0👎 0❓ - SRules X
 * [SB 6045](sb/6045) - School district efficiencies 1👍 50👎 0❓ - SEL/K-12
 * [SB 6056](sb/6056) - Human trafficking/hotels 37👍 11👎 3❓ - SRules 3
-* [SB 6298](sb/6298) - Concerning the duty of the clergy to report child abuse or neglect. 11📰 29👍 16👎 6❓ - SRules 3
+* [SB 6298](sb/6298) - Concerning the duty of the clergy to report child abuse or neglect. 13📰 29👍 16👎 6❓ - SRules 3
 * [SB 6300](sb/6300) - College grant/public assist. 1📰 50👍 1👎 0❓ - SWays & Means
 * [HB 1349](hb/1349) - Foreclosure protections 1📰 49👍 0👎 1❓ - C 206 L 23
 * [HB 2319](hb/2319) - Substance use treatment 2📰 36👍 11👎 3❓ - HRules X
@@ -1560,7 +1560,7 @@
 * [HB 2299](hb/2299) - DNR trust asset leasing 4👍 15👎 2❓ - HCap Budget
 * [SB 5033](sb/5033) - Custodial sexual misconduct 1📰 20👍 1👎 0❓ - C 7 L 23
 * [SB 5107](sb/5107) - Cottage food sales cap 20👍 0👎 1❓ - SAg/Water/Natur
-* [SB 5142](sb/5142) - HIV medication rebate rev. 3📰 20👍 1👎 0❓ - C 12 L 23
+* [SB 5142](sb/5142) - HIV medication rebate rev. 4📰 20👍 1👎 0❓ - C 12 L 23
 * [SB 5251](sb/5251) - Commercial driver's licenses 21👍 0👎 0❓ - SRules X
 * [SB 5275](sb/5275) - SEBB benefits access 17👍 2👎 2❓ - C 13 L 23
 * [SB 5327](sb/5327) - Intern wages 16👍 3👎 2❓ - SLabor & Comm

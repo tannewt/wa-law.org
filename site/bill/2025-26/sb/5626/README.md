@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/01/2025 [Washington State Standard](/org/washington_state_standard/) - [Latest deadline in Washington Legislature fells more bills • Washington State Standard](https://washingtonstatestandard.com/2025/03/01/latest-deadline-in-washington-legislature-fells-more-bills/#:~:text=Senate%20Bill%205626)
 * 02/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Reaction to Gov. Ferguson's budget plan & victory on wood stoves - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-looking-ahead-week-eight-april-3-7/#:~:text=SB%205626:)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [Standing strong, moving forward - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/02/07/standing-strong-moving-forward/#:~:text=SB%205626)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Saldaña legislation to provide wage replacement program for excluded workers to be heard in committee - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/02/04/saldana-legislation-to-provide-wage-replacement-program-for-excluded-workers-to-be-heard-in-committee/#:~:text=Senate%20Bill%205626)

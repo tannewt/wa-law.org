@@ -7,6 +7,8 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/03/2025 [Washington State Standard](/org/washington_state_standard/) - [Road usage charge debate returns to Olympia • Washington State Standard](https://washingtonstatestandard.com/2025/03/03/road-usage-charge-debate-returns-to-olympia/#:~:text=House%20Bill%201921)
+* 02/28/2025 [The Center Square](/org/the_center_square/) - [Tech enhancing public input in WA's legislative process, impacting decisions | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f8cf9200-f603-11ef-8132-ffb84e978721.html#:~:text=House%20Bill%201921)
 * 02/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Reaction to Gov. Ferguson's budget plan & victory on wood stoves - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-looking-ahead-week-eight-april-3-7/#:~:text=HB%201921)
 * 02/26/2025 [The Center Square](/org/the_center_square/) - [‘Watered down’ RUC proposal could still clear Washington Legislature | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_944f4ed6-f470-11ef-a7bc-cf4e62a69640.html#:~:text=House%20Bill%201921)
 * 02/25/2025 [The Center Square](/org/the_center_square/) - [Op-Ed: Washington considers imposing mileage tax | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_8c0a1d9a-f390-11ef-9b20-8b671d5032e9.html#:~:text=House%20Bill%201921)

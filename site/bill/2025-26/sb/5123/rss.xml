@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5123/</link>
 		<description>Updates about SB 5123</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 02 Mar 2025 01:12:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -300,6 +300,13 @@
 			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-28/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Human Rights -- 2025 action — Quaker Voice</title>
+			<description>News article "Human Rights -- 2025 action — Quaker Voice" from Quaker Voice On Washington Public Policy.</description>
+			<pubDate>Sun, 02 Mar 2025 01:12:52 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.quakervoicewa.org/human-rights-2025-action/#:~:text=SB%205123</guid>
 		</item>
 	</channel>
 </rss>

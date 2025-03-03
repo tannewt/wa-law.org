@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/01/2025 [Washington State Standard](/org/washington_state_standard/) - [Latest deadline in Washington Legislature fells more bills • Washington State Standard](https://washingtonstatestandard.com/2025/03/01/latest-deadline-in-washington-legislature-fells-more-bills/#:~:text=Senate%20Bill%205011)
 * 01/24/2025 [Washington State Standard](/org/washington_state_standard/) - [After arson, WA lawmakers advance bill to warn of ballot box tampering penalties • Washington State Standard](https://washingtonstatestandard.com/2025/01/24/after-arson-wa-lawmakers-advance-bill-to-warn-of-ballot-box-tampering-penalties/#:~:text=Senate%20Bill%205011)
 
 ## Meetings
