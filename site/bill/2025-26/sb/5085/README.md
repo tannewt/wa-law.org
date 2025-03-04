@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/03/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Robinson bill to merge existing, closed retirement systems - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/03/03/senate-passes-robinson-bill-to-merge-existing-closed-retirement-systems/#:~:text=Senate%20Bill%205085)
 * 02/07/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: K-12 learning loss leaving our kids behind - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-k-12-learning-loss-leaving-kids-behind/#:~:text=SB%205085)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [What’s happening in Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/04/whats-happening-in-olympia/#:~:text=Senate%20Bill%205085)
 

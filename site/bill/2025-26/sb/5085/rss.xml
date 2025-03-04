@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5085/</link>
 		<description>Updates about SB 5085</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Mar 2025 18:55:05 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -181,6 +181,13 @@
 			<pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-03/Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Senate passes Robinson bill to merge existing, closed retirement systems - Sen. June Robinson</title>
+			<description>News article "Senate passes Robinson bill to merge existing, closed retirement systems - Sen. June Robinson" from Senate Democrats.</description>
+			<pubDate>Mon, 03 Mar 2025 18:55:05 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/robinson/2025/03/03/senate-passes-robinson-bill-to-merge-existing-closed-retirement-systems/#:~:text=Senate%20Bill%205085</guid>
 		</item>
 	</channel>
 </rss>

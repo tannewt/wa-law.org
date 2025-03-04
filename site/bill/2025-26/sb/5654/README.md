@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 8: Big 3 Reduced to Big 2 - Amounts Also Reduced - WSPTA](https://www.wastatepta.org/week-8-big-3-reduced-to-big-2-amounts-also-reduced/#:~:text=SB%205654)
+
 ## Meetings
 ### Thu 02/13 10:30 AM - Early Learning & K-12 Education (EDU): SB 5654 Student restraint, isolation
 #### 304 👍 - Pro

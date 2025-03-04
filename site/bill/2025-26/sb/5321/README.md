@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/03/2025 [The Center Square](/org/the_center_square/) - [Bill to expand abortion access on WA college campuses dies in committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d251c696-f862-11ef-8075-d33331d066b8.html#:~:text=Senate%20Bill%205321)
 * 02/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Reaction to Gov. Ferguson's budget plan & victory on wood stoves - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-looking-ahead-week-eight-april-3-7/#:~:text=SB%205321)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205321)
 * 02/24/2025 [Senate Democrats](/org/senate_democrats/) - [Making health care more accessible for Washingtonians - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/02/24/making-health-care-more-accessible-for-washingtonians/#:~:text=SB%205321)

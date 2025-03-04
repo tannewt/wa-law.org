@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 8: Big 3 Reduced to Big 2 - Amounts Also Reduced - WSPTA](https://www.wastatepta.org/week-8-big-3-reduced-to-big-2-amounts-also-reduced/#:~:text=SSB%205192)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205192)
 * 02/26/2025 [FOX13](/org/fox13/) - [What’s moving along, and what’s not, in the WA Legislature? | FOX 13 Seattle](https://www.fox13seattle.com/news/whats-moving-along-whats-not-wa-legislature#:~:text=materials%20and%20operating%20costs)
 * 02/22/2025 [Senate Democrats](/org/senate_democrats/) - [Supporting our public schools - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/02/21/supporting-our-public-schools/#:~:text=Senate%20Bill%205192)

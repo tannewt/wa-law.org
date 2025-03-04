@@ -14,11 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32930&aId=165095&caId=26251&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32930&aId=165095&caId=26251&tId=4)
 
-#### 4 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
+* Matteo Trifunovic
 
-#### 5 👎 - Con
+#### 451 👎 - Con
+Testifying:
+* Sandra Mochizuki
 
 #### 0 ❓ - Other

@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165097&caId=26253&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165097&caId=26253&tId=4)
 
-#### 11 👍 - Pro
+#### 12 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Anna Corinne Huffman - Professional Educator Standards Board (PESB)
 
 ### Tue 01/28 08:00 AM - Early Learning & K-12 Education (EDU): SB 5025 Educational interpreters
 #### 25 👍 - Pro

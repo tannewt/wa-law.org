@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5004/</link>
 		<description>Updates about SB 5004</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Feb 2025 04:36:21 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Mar 2025 18:28:08 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -132,6 +132,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Lori/Alhadeff/2025-02-26 04:36:21</guid>
+		</item>
+		<item>
+			<title>Week 8: Big 3 Reduced to Big 2 - Amounts Also Reduced - WSPTA</title>
+			<description>News article "Week 8: Big 3 Reduced to Big 2 - Amounts Also Reduced - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 03 Mar 2025 18:28:08 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/week-8-big-3-reduced-to-big-2-amounts-also-reduced/#:~:text=ESSB%205004</guid>
 		</item>
 	</channel>
 </rss>

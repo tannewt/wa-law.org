@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sjr/8200/</link>
 		<description>Updates about SJR 8200</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Mar 2025 18:28:08 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -357,6 +357,13 @@
 			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-28/Passed to Rules Committee for second reading.</guid>
+		</item>
+		<item>
+			<title>Week 8: Big 3 Reduced to Big 2 - Amounts Also Reduced - WSPTA</title>
+			<description>News article "Week 8: Big 3 Reduced to Big 2 - Amounts Also Reduced - WSPTA" from Washington St Pta.</description>
+			<pubDate>Mon, 03 Mar 2025 18:28:08 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.wastatepta.org/week-8-big-3-reduced-to-big-2-amounts-also-reduced/#:~:text=SSJR%208200</guid>
 		</item>
 	</channel>
 </rss>

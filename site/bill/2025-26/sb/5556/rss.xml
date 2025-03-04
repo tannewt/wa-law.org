@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5556/</link>
 		<description>Updates about SB 5556</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 27 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 03 Mar 2025 21:24:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -84,6 +84,13 @@
 			<pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-27/First reading, referred to Transportation.</guid>
+		</item>
+		<item>
+			<title>Ramos Report: Building a Balanced Budget and a Cleaner Washington - Sen. Bill Ramos</title>
+			<description>News article "Ramos Report: Building a Balanced Budget and a Cleaner Washington - Sen. Bill Ramos" from Senate Democrats.</description>
+			<pubDate>Mon, 03 Mar 2025 21:24:35 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/ramos/2025/03/03/ramos-report-building-a-balanced-budget-and-a-cleaner-washington/#:~:text=SB%205556</guid>
 		</item>
 	</channel>
 </rss>

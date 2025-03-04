@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5365/</link>
 		<description>Updates about SB 5365</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 04 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -50,6 +50,13 @@
 			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-28/Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Local Government (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Local Government (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-04/First reading, referred to Local Government (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

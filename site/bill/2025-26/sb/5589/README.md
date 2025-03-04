@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/03/2025 [FOX13](/org/fox13/) - [WA senate studying credit score impact on insurance | FOX 13 Seattle](https://www.fox13seattle.com/news/senate-bill-credit-score-insurance#:~:text=Senate%20Bill%205589)
+
 ## Meetings
 ### Thu 02/06 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5589 Insurance & credit study
 #### 16 👍 - Pro

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/03/2025 [House Democrats](/org/house_democrats/) - [House Passes Bill to Prevent Surprise Hotel Stay Fees and Taxes – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/03/house-passes-bill-to-prevent-surprise-hotel-stay-fees-and-taxes/#:~:text=House%20Bill%201080)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201080)
 
 ## Meetings
