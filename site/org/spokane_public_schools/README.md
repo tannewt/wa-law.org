@@ -10,7 +10,7 @@
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success. 👍1  
 
-### [SB 5186](/bill/2025-26/sb/5186/) - School district elections 👍1  
+### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding 👍1  
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
 

@@ -72,7 +72,7 @@
 
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
 
-### [SB 5186](/bill/2025-26/sb/5186/) - School district elections 👍3  
+### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding 👍3  
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍3  
 

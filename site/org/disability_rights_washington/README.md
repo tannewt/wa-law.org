@@ -36,7 +36,7 @@
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍2  
 
-### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍2  
+### [HB 1317](/bill/2025-26/hb/1317/) - Sentences/offenses before 21 👍2  
 
 ### [HB 1359](/bill/2025-26/hb/1359/) - Criminal insanity 👍2  
 

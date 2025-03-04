@@ -51,7 +51,7 @@
 
 ### [HB 1301](/bill/2025-26/hb/1301/) - Confinement fees & expenses 👍2  
 
-### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍1  
+### [HB 1317](/bill/2025-26/hb/1317/) - Sentences/offenses before 21 👍1  
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍3  
 * 👍💵 Sarah Nagy

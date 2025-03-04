@@ -1,0 +1,184 @@
+[wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [HB 1668](/bill/2025-26/hb/1668/) > [Second Substitute](/bill/2025-26/hb/1668/S2/)
+
+# HB 1668 - Community custody
+
+[Source](http://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1668-S2.pdf)
+
+## Section 1
+The offender score is measured on the horizontal axis of the sentencing grid. The offender score rules are as follows:
+
+The offender score is the sum of points accrued under this section rounded down to the nearest whole number.
+
+1. [Empty]
+
+    a. A prior conviction is a conviction which exists before the date of sentencing for the offense for which the offender score is being computed. Convictions entered or sentenced on the same date as the conviction for which the offender score is being computed shall be deemed "other current offenses" within the meaning of RCW 9.94A.589.
+
+    b. For the purposes of this section, adjudications of guilt pursuant to Title 13 RCW which are not murder in the first or second degree or class A felony sex offenses may not be included in the offender score.
+
+2. [Empty]
+
+    a. Class A and sex prior felony convictions shall always be included in the offender score.
+
+    b. Class B prior felony convictions other than sex offenses shall not be included in the offender score, if since the last date of release from confinement (including full-time residential treatment) pursuant to a felony conviction, if any, or entry of judgment and sentence, the offender had spent ten consecutive years in the community without committing any crime that subsequently results in a conviction.
+
+    c. Except as provided in (e) of this subsection, class C prior felony convictions other than sex offenses shall not be included in the offender score if, since the last date of release from confinement (including full-time residential treatment) pursuant to a felony conviction, if any, or entry of judgment and sentence, the offender had spent five consecutive years in the community without committing any crime that subsequently results in a conviction.
+
+    d. Except as provided in (e) of this subsection, serious traffic convictions shall not be included in the offender score if, since the last date of release from confinement (including full-time residential treatment) pursuant to a conviction, if any, or entry of judgment and sentence, the offender spent five years in the community without committing any crime that subsequently results in a conviction.
+
+    e. If the present conviction is felony driving while under the influence of intoxicating liquor or any drug (RCW 46.61.502(6)) or felony physical control of a vehicle while under the influence of intoxicating liquor or any drug (RCW 46.61.504(6)), all predicate crimes for the offense as defined by RCW 46.61.5055(14) shall be included in the offender score, and prior convictions for felony driving while under the influence of intoxicating liquor or any drug (RCW 46.61.502(6)) or felony physical control of a vehicle while under the influence of intoxicating liquor or any drug (RCW 46.61.504(6)) shall always be included in the offender score. All other convictions of the defendant shall be scored according to this section.
+
+    f. Prior convictions for a repetitive domestic violence offense, as defined in RCW 9.94A.030, shall not be included in the offender score if, since the last date of release from confinement or entry of judgment and sentence, the offender had spent ten consecutive years in the community without committing any crime that subsequently results in a conviction.
+
+    g. This subsection applies to both prior adult convictions and prior juvenile adjudications.
+
+3. Out-of-state convictions for offenses shall be classified according to the comparable offense definitions and sentences provided by Washington law. Federal convictions for offenses shall be classified according to the comparable offense definitions and sentences provided by Washington law. Neither out-of-state or federal convictions which would have been presumptively adjudicated in juvenile court under Washington law may be included in the offender score unless they are comparable to murder in the first or second degree or a class A felony sex offense. If there is no clearly comparable offense under Washington law or the offense is one that is usually considered subject to exclusive federal jurisdiction, the offense shall be scored as a class C felony equivalent if it was a felony under the relevant federal statute.
+
+4. Score prior convictions for felony anticipatory offenses (attempts, criminal solicitations, and criminal conspiracies) the same as if they were convictions for completed offenses.
+
+5. [Empty]
+
+    a. In the case of multiple prior convictions, for the purpose of computing the offender score, count all convictions separately, except:
+
+        i. Prior offenses which were found, under RCW 9.94A.589(1)(a), to encompass the same criminal conduct, shall be counted as one offense, the offense that yields the highest offender score. The current sentencing court shall determine with respect to other prior adult offenses for which sentences were served concurrently or prior juvenile offenses for which sentences were served consecutively, whether those offenses shall be counted as one offense or as separate offenses using the "same criminal conduct" analysis found in RCW 9.94A.589(1)(a), and if the court finds that they shall be counted as one offense, then the offense that yields the highest offender score shall be used. The current sentencing court may presume that such other prior offenses were not the same criminal conduct from sentences imposed on separate dates, or in separate counties or jurisdictions, or in separate complaints, indictments, or informations;
+
+        ii. In the case of multiple prior convictions for offenses committed before July 1, 1986, for the purpose of computing the offender score, count all convictions or adjudications served concurrently as one offense. Use the conviction for the offense that yields the highest offender score.
+
+    b. As used in this subsection (5), "served concurrently" means that: (i) The latter sentence was imposed with specific reference to the former; (ii) the concurrent relationship of the sentences was judicially imposed; and (iii) the concurrent timing of the sentences was not the result of a probation or parole revocation on the former offense.
+
+6. If the present conviction is one of the anticipatory offenses of criminal attempt, solicitation, or conspiracy, count each prior conviction as if the present conviction were for a completed offense. When these convictions are used as criminal history, score them the same as a completed crime.
+
+7. If the present conviction is for a nonviolent offense and not covered by subsection (11), (12), or (13) of this section, count one point for each adult prior felony conviction and one point for each juvenile prior violent felony conviction which is scorable under subsection (1)(b) of this section.
+
+8. If the present conviction is for a violent offense and not covered in subsection (9), (10), (11), (12), or (13) of this section, count two points for each prior adult violent felony conviction and juvenile violent felony conviction which is scorable under subsection (1)(b) of this section, and one point for each prior adult nonviolent felony conviction.
+
+9. If the present conviction is for a serious violent offense, count three points for prior adult convictions and juvenile convictions which are scorable under subsection (1)(b) of this section for crimes in this category, two points for each prior adult and scorable juvenile violent conviction (not already counted), and one point for each prior adult nonviolent felony conviction.
+
+10. If the present conviction is for Burglary 1, count prior convictions as in subsection (8) of this section; however count two points for each prior Burglary 2 or residential burglary conviction.
+
+11. If the present conviction is for a felony traffic offense count two points for each prior conviction for Vehicular Homicide or Vehicular Assault; for each felony offense count one point for each adult prior conviction and 1/2 point for each juvenile prior conviction which is scorable under subsection (1)(b) of this section; for each serious traffic offense, other than those used for an enhancement pursuant to RCW 46.61.520(2), count one point for each adult prior conviction and 1/2 point for each juvenile prior conviction which is scorable under subsection (1)(b) of this section; count one point for each adult prior conviction for operation of a vessel while under the influence of intoxicating liquor or any drug.
+
+12. If the present conviction is for homicide by watercraft or assault by watercraft count two points for each adult prior conviction for homicide by watercraft or assault by watercraft; for each felony offense count one point for each adult prior conviction and 1/2 point for each juvenile prior conviction which would be scorable under subsection (1)(b) of this section; count one point for each adult prior conviction for driving under the influence of intoxicating liquor or any drug, actual physical control of a motor vehicle while under the influence of intoxicating liquor or any drug, or operation of a vessel while under the influence of intoxicating liquor or any drug.
+
+13. If the present conviction is for manufacture of methamphetamine count three points for each adult prior manufacture of methamphetamine conviction. If the present conviction is for a drug offense and the offender has a criminal history that includes a sex offense or serious violent offense, count three points for each adult prior felony drug offense conviction. All other felonies are scored as in subsection (8) of this section if the current drug offense is violent, or as in subsection (7) of this section if the current drug offense is nonviolent.
+
+14.
+
+If the present conviction is for Escape 1, RCW 9A.76.110, or Escape 2, RCW 9A.76.120, count adult prior convictions as one point and juvenile prior convictions which are scorable under subsection (1)(b) of this section as 1/2 point.
+
+15. If the present conviction is for Burglary 2 or residential burglary, count priors as in subsection (7) of this section; however, count two points for each prior Burglary 1 conviction, and two points for each prior Burglary 2 or residential burglary conviction.
+
+16. If the present conviction is for a sex offense, count priors as in subsections (7) through (11) and (13) through (15) of this section; however count three points for each adult prior sex offense conviction and juvenile prior class A felony sex offense adjudication.
+
+17. If the present conviction is for failure to register as a sex offender under RCW 9A.44.130 or 9A.44.132, count priors as in subsections (7) through (11) and (13) through (15) of this section; however count three points for each adult prior sex offense conviction and juvenile prior sex offense conviction which is scorable under subsection (1)(b) of this section, excluding adult prior convictions for failure to register as a sex offender under RCW 9A.44.130 or 9A.44.132, which shall count as one point.
+
+18. If the present conviction is for an offense committed while the offender was under community custody, add one point. For purposes of this subsection, community custody includes community placement or postrelease supervision, as defined in chapter 9.94B RCW.
+
+19. If the present conviction is for Theft of a Motor Vehicle, Possession of a Stolen Vehicle, Taking a Motor Vehicle Without Permission 1, or Taking a Motor Vehicle Without Permission 2, count priors as in subsections (7) through (17) of this section; however count one point for prior convictions of Vehicle Prowling 2, and three points for each adult prior Theft 1 (of a motor vehicle), Theft 2 (of a motor vehicle), Possession of Stolen Property 1 (of a motor vehicle), Possession of Stolen Property 2 (of a motor vehicle), Theft of a Motor Vehicle, Possession of a Stolen Vehicle, Taking a Motor Vehicle Without Permission 1, or Taking a Motor Vehicle Without Permission 2 conviction.
+
+20. If the present conviction is for a felony domestic violence offense where domestic violence as defined in RCW 9.94A.030 was pleaded and proven, count priors as in subsections (7) through (19) of this section; however, count points as follows:
+
+    a. Count two points for each adult prior conviction where domestic violence as defined in RCW 9.94A.030 was pleaded and proven after August 1, 2011, for any of the following offenses: A felony violation of a no‑contact or protection order (RCW 7.105.450 or former RCW 26.50.110), felony Harassment (RCW 9A.46.020(2)(b)), felony Stalking (RCW 9A.46.110(5)(b)), Burglary 1 (RCW 9A.52.020), Kidnapping 1 (RCW 9A.40.020), Kidnapping 2 (RCW 9A.40.030), Unlawful imprisonment (RCW 9A.40.040), Robbery 1 (RCW 9A.56.200), Robbery 2 (RCW 9A.56.210), Assault 1 (RCW 9A.36.011), Assault 2 (RCW 9A.36.021), Assault 3 (RCW 9A.36.031), Arson 1 (RCW 9A.48.020), or Arson 2 (RCW 9A.48.030);
+
+    b. Count two points for each adult prior conviction where domestic violence as defined in RCW 9.94A.030 was pleaded and proven after July 23, 2017, for any of the following offenses: Assault of a child in the first degree, RCW 9A.36.120; Assault of a child in the second degree, RCW 9A.36.130; Assault of a child in the third degree, RCW 9A.36.140; Criminal Mistreatment in the first degree, RCW 9A.42.020; or Criminal Mistreatment in the second degree, RCW 9A.42.030; and
+
+    c. Count one point for each adult prior conviction for a repetitive domestic violence offense as defined in RCW 9.94A.030, where domestic violence as defined in RCW 9.94A.030, was pleaded and proven after August 1, 2011.
+
+21. The fact that a prior conviction was not included in an offender's offender score or criminal history at a previous sentencing shall have no bearing on whether it is included in the criminal history or offender score for the current offense. Prior convictions that were not counted in the offender score or included in criminal history under repealed or previous versions of the sentencing reform act shall be included in criminal history and shall count in the offender score if the current version of the sentencing reform act requires including or counting those convictions. Prior convictions that were not included in criminal history or in the offender score shall be included upon any resentencing to ensure imposition of an accurate sentence.
+
+## Section 2
+The offender score is measured on the horizontal axis of the sentencing grid. The offender score rules are as follows:
+
+The offender score is the sum of points accrued under this section rounded down to the nearest whole number.
+
+1. [Empty]
+
+    a. A prior conviction is a conviction which exists before the date of sentencing for the offense for which the offender score is being computed. Convictions entered or sentenced on the same date as the conviction for which the offender score is being computed shall be deemed "other current offenses" within the meaning of RCW 9.94A.589.
+
+    b. For the purposes of this section, adjudications of guilt pursuant to Title 13 RCW which are not murder in the first or second degree or class A felony sex offenses may not be included in the offender score.
+
+2. [Empty]
+
+    a. Class A and sex prior felony convictions shall always be included in the offender score.
+
+    b. Class B prior felony convictions other than sex offenses shall not be included in the offender score, if since the last date of release from confinement (including full-time residential treatment) pursuant to a felony conviction, if any, or entry of judgment and sentence, the offender had spent 10 consecutive years in the community without committing any crime that subsequently results in a conviction.
+
+    c. Except as provided in (e) of this subsection, class C prior felony convictions other than sex offenses shall not be included in the offender score if, since the last date of release from confinement (including full-time residential treatment) pursuant to a felony conviction, if any, or entry of judgment and sentence, the offender had spent five consecutive years in the community without committing any crime that subsequently results in a conviction.
+
+    d. Except as provided in (e) of this subsection, serious traffic convictions shall not be included in the offender score if, since the last date of release from confinement (including full-time residential treatment) pursuant to a conviction, if any, or entry of judgment and sentence, the offender spent five years in the community without committing any crime that subsequently results in a conviction.
+
+    e. If the present conviction is felony driving while under the influence of intoxicating liquor or any drug (RCW 46.61.502(6)) or felony physical control of a vehicle while under the influence of intoxicating liquor or any drug (RCW 46.61.504(6)), all predicate crimes for the offense as defined by RCW 46.61.5055(14) shall be included in the offender score, and prior convictions for felony driving while under the influence of intoxicating liquor or any drug (RCW 46.61.502(6)) or felony physical control of a vehicle while under the influence of intoxicating liquor or any drug (RCW 46.61.504(6)) shall always be included in the offender score. All other convictions of the defendant shall be scored according to this section.
+
+    f. Prior convictions for a repetitive domestic violence offense, as defined in RCW 9.94A.030, shall not be included in the offender score if, since the last date of release from confinement or entry of judgment and sentence, the offender had spent 10 consecutive years in the community without committing any crime that subsequently results in a conviction.
+
+    g. This subsection applies to both prior adult convictions and prior juvenile adjudications.
+
+3. Out-of-state convictions for offenses shall be classified according to the comparable offense definitions and sentences provided by Washington law. Federal convictions for offenses shall be classified according to the comparable offense definitions and sentences provided by Washington law. Neither out-of-state or federal convictions which would have been presumptively adjudicated in juvenile court under Washington law may be included in the offender score unless they are comparable to murder in the first or second degree or a class A felony sex offense. If there is no clearly comparable offense under Washington law or the offense is one that is usually considered subject to exclusive federal jurisdiction, the offense shall be scored as a class C felony equivalent if it was a felony under the relevant federal statute.
+
+4. Score prior convictions for felony anticipatory offenses (attempts, criminal solicitations, and criminal conspiracies) the same as if they were convictions for completed offenses.
+
+5. [Empty]
+
+    a. In the case of multiple prior convictions, for the purpose of computing the offender score, count all convictions separately, except:
+
+        i. Prior offenses which were found, under RCW 9.94A.589(1)(a), to encompass the same criminal conduct, shall be counted as one offense, the offense that yields the highest offender score. The current sentencing court shall determine with respect to other prior adult offenses for which sentences were served concurrently or prior juvenile offenses for which sentences were served consecutively, whether those offenses shall be counted as one offense or as separate offenses using the "same criminal conduct" analysis found in RCW 9.94A.589(1)(a), and if the court finds that they shall be counted as one offense, then the offense that yields the highest offender score shall be used. The current sentencing court may presume that such other prior offenses were not the same criminal conduct from sentences imposed on separate dates, or in separate counties or jurisdictions, or in separate complaints, indictments, or informations;
+
+        ii. In the case of multiple prior convictions for offenses committed before July 1, 1986, for the purpose of computing the offender score, count all convictions or adjudications served concurrently as one offense. Use the conviction for the offense that yields the highest offender score.
+
+    b. As used in this subsection (5), "served concurrently" means that: (i) The latter sentence was imposed with specific reference to the former; (ii) the concurrent relationship of the sentences was judicially imposed; and (iii) the concurrent timing of the sentences was not the result of a probation or parole revocation on the former offense.
+
+6. If the present conviction is one of the anticipatory offenses of criminal attempt, solicitation, or conspiracy, count each prior conviction as if the present conviction were for a completed offense. When these convictions are used as criminal history, score them the same as a completed crime.
+
+7. If the present conviction is for a nonviolent offense and not covered by subsection (11), (12), or (13) of this section, count one point for each adult prior felony conviction and one point for each juvenile prior violent felony conviction which is scorable under subsection (1)(b) of this section.
+
+8. If the present conviction is for a violent offense and not covered in subsection (9), (10), (11), (12), or (13) of this section, count two points for each prior adult violent felony conviction and juvenile violent felony conviction which is scorable under subsection (1)(b) of this section, and one point for each prior adult nonviolent felony conviction.
+
+9. If the present conviction is for a serious violent offense, count three points for prior adult convictions and juvenile convictions which are scorable under subsection (1)(b) of this section for crimes in this category, two points for each prior adult and scorable juvenile violent conviction (not already counted), and one point for each prior adult nonviolent felony conviction.
+
+10. If the present conviction is for Burglary 1, count prior convictions as in subsection (8) of this section; however count two points for each prior Burglary 2 or residential burglary conviction.
+
+11. If the present conviction is for a felony traffic offense count two points for each prior conviction for Vehicular Homicide or Vehicular Assault; for each felony offense count one point for each adult prior conviction and 1/2 point for each juvenile prior conviction which is scorable under subsection (1)(b) of this section; for each serious traffic offense, other than those used for an enhancement pursuant to RCW 46.61.520(2), count one point for each adult prior conviction and 1/2 point for each juvenile prior conviction which is scorable under subsection (1)(b) of this section; count one point for each adult prior conviction for operation of a vessel while under the influence of intoxicating liquor or any drug; count one point for a deferred prosecution granted under chapter 10.05 RCW for a second or subsequent violation of RCW 46.61.502 or 46.61.504, or an equivalent local ordinance.
+
+12. If the present conviction is for homicide by watercraft or assault by watercraft count two points for each adult prior conviction for homicide by watercraft or assault by watercraft; for each felony offense count one point for each adult prior conviction and 1/2 point for each juvenile prior conviction which would be scorable under subsection (1)(b) of this section; count one point for each adult prior conviction for driving under the influence of intoxicating liquor or any drug, actual physical control of a motor vehicle while under the influence of intoxicating liquor or any drug, or operation of a vessel while under the influence of intoxicating liquor or any drug.
+
+13. If the present conviction is for manufacture of methamphetamine count three points for each adult prior manufacture of methamphetamine conviction. If the present conviction is for a drug offense and the offender has a criminal history that includes a sex offense or serious violent offense, count three points for each adult prior felony drug offense conviction. All other felonies are scored as in subsection (8) of this section if the current drug offense is violent, or as in subsection (7) of this section if the current drug offense is nonviolent.
+
+14.
+
+If the present conviction is for Escape 1, RCW 9A.76.110, or Escape 2, RCW 9A.76.120, count adult prior convictions as one point and juvenile prior convictions which are scorable under subsection (1)(b) of this section as 1/2 point.
+
+15. If the present conviction is for Burglary 2 or residential burglary, count priors as in subsection (7) of this section; however, count two points for each prior Burglary 1 conviction, and two points for each prior Burglary 2 or residential burglary conviction.
+
+16. If the present conviction is for a sex offense, count priors as in subsections (7) through (11) and (13) through (15) of this section; however, count three points for each adult prior sex offense conviction and juvenile prior class A felony sex offense adjudication.
+
+17. If the present conviction is for failure to register as a sex offender under RCW 9A.44.130 or 9A.44.132, count priors as in subsections (7) through (11) and (13) through (15) of this section; however, count three points for each adult prior sex offense conviction and juvenile prior sex offense conviction which is scorable under subsection (1)(b) of this section, excluding adult prior convictions for failure to register as a sex offender under RCW 9A.44.130 or 9A.44.132, which shall count as one point.
+
+18. If the present conviction is for an offense committed while the offender was under community custody, add one point. For purposes of this subsection, community custody includes community placement or postrelease supervision, as defined in chapter 9.94B RCW.
+
+19. If the present conviction is for Theft of a Motor Vehicle, Possession of a Stolen Vehicle, Taking a Motor Vehicle Without Permission 1, or Taking a Motor Vehicle Without Permission 2, count priors as in subsections (7) through (17) of this section; however count one point for prior convictions of Vehicle Prowling 2, and three points for each adult prior Theft 1 (of a motor vehicle), Theft 2 (of a motor vehicle), Possession of Stolen Property 1 (of a motor vehicle), Possession of Stolen Property 2 (of a motor vehicle), Theft of a Motor Vehicle, Possession of a Stolen Vehicle, Taking a Motor Vehicle Without Permission 1, or Taking a Motor Vehicle Without Permission 2 conviction.
+
+20. If the present conviction is for a felony domestic violence offense where domestic violence as defined in RCW 9.94A.030 was pleaded and proven, count priors as in subsections (7) through (19) of this section; however, count points as follows:
+
+    a. Count two points for each adult prior conviction where domestic violence as defined in RCW 9.94A.030 was pleaded and proven after August 1, 2011, for any of the following offenses: A felony violation of a no‑contact or protection order (RCW 7.105.450 or former RCW 26.50.110), felony Harassment (RCW 9A.46.020(2)(b)), felony Stalking (RCW 9A.46.110(5)(b)), Burglary 1 (RCW 9A.52.020), Kidnapping 1 (RCW 9A.40.020), Kidnapping 2 (RCW 9A.40.030), Unlawful imprisonment (RCW 9A.40.040), Robbery 1 (RCW 9A.56.200), Robbery 2 (RCW 9A.56.210), Assault 1 (RCW 9A.36.011), Assault 2 (RCW 9A.36.021), Assault 3 (RCW 9A.36.031), Arson 1 (RCW 9A.48.020), or Arson 2 (RCW 9A.48.030);
+
+    b. Count two points for each adult prior conviction where domestic violence as defined in RCW 9.94A.030 was pleaded and proven after July 23, 2017, for any of the following offenses: Assault of a child in the first degree, RCW 9A.36.120; Assault of a child in the second degree, RCW 9A.36.130; Assault of a child in the third degree, RCW 9A.36.140; Criminal Mistreatment in the first degree, RCW 9A.42.020; or Criminal Mistreatment in the second degree, RCW 9A.42.030; and
+
+    c. Count one point for each adult prior conviction for a repetitive domestic violence offense as defined in RCW 9.94A.030, where domestic violence as defined in RCW 9.94A.030, was pleaded and proven after August 1, 2011.
+
+21. The fact that a prior conviction was not included in an offender's offender score or criminal history at a previous sentencing shall have no bearing on whether it is included in the criminal history or offender score for the current offense. Prior convictions that were not counted in the offender score or included in criminal history under repealed or previous versions of the sentencing reform act shall be included in criminal history and shall count in the offender score if the current version of the sentencing reform act requires including or counting those convictions. Prior convictions that were not included in criminal history or in the offender score shall be included upon any resentencing to ensure imposition of an accurate sentence.
+
+## Section 3
+1. When an offender receiving court-ordered mental health, chemical dependency, or domestic violence treatment or treatment ordered by the department  presents for treatment from a mental health or chemical dependency treatment provider, the offender must disclose to the mental health, chemical dependency, or domestic violence treatment provider whether he or she is subject to supervision by the department . If an offender has received relief from disclosure pursuant to RCW 9.94A.562, 70.96A.155, or 71.05.132, the offender must provide the mental health, chemical dependency, or domestic violence treatment provider with a copy of the order granting the relief.
+
+2. If mental health or substance use disorder treatment is a condition of a supervised individual's sentence, or a condition imposed by the department, applicable behavioral health service providers must provide updates regarding the supervised individual's compliance with their treatment plan to the supervised individual's community corrections officer.
+
+## Section 4
+If mental health or substance use disorder treatment is a condition of a supervised individual's criminal sentence under RCW 9.94A.703 or imposed as a condition by the department of corrections under RCW 9.94A.704, any applicable behavioral health provider of behavioral health services must provide updates regarding the supervised individual's compliance with their treatment plan to the supervised individual's community corrections officer.
+
+## Section 5
+Section 1 of this act expires January 1, 2026.
+
+## Section 6
+Section 2 of this act takes effect January 1, 2026.
+
+## Section 7
+If specific funding for the purposes of this act, referencing this act by bill or chapter number, is not provided by June 30, 2025, in the omnibus appropriations act, this act is null and void.

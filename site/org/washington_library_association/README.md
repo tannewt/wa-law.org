@@ -16,7 +16,7 @@
 
 ### [SB 5152](/bill/2025-26/sb/5152/) - Concerning state employee access to peer-reviewed journals. 👍1  
 
-### [SB 5186](/bill/2025-26/sb/5186/) - School district elections 👍1  
+### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding 👍1  
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍3  
 

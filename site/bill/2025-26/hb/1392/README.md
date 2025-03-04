@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Thu 02/13 04:00 PM - Appropriations (APP): HB 1392 Medicaid access program

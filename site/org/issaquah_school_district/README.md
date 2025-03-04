@@ -26,7 +26,7 @@
 * 👍 Martin Turney
 * 👍 Martin Turney
 
-### [SB 5186](/bill/2025-26/sb/5186/) - School district elections 👍1  ❓1
+### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding 👍1  ❓1
 * ❓ Martin Turney
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍5  

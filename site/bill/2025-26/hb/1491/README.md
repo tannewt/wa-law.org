@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Third Substitute](S3/)
 
 ## 📰 Articles
 * 02/20/2025 [PubliCola](/org/publicola/) - [Seattle Should Follow State's Lead on Inclusionary Zoning—By Funding It - PubliCola](https://publicola.com/2025/02/20/seattle-should-follow-states-lead-on-inclusionary-zoning-by-funding-it/#:~:text=HB%201491)

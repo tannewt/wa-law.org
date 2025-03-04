@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Mon 02/24 01:30 PM - Appropriations (APP): HB 1509 Family reconciliation

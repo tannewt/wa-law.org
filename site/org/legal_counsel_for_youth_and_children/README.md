@@ -33,7 +33,7 @@
 
 ### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
 
-### [HB 1317](/bill/2025-26/hb/1317/) - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age. 👍2  
+### [HB 1317](/bill/2025-26/hb/1317/) - Sentences/offenses before 21 👍2  
 
 ### [HB 1322](/bill/2025-26/hb/1322/) - Juvenile offenses 👍2  
 

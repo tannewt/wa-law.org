@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SB 5394 DDA no-paid services

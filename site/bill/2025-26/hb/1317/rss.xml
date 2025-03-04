@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<title>HB 1317 - Concerning persons serving long sentences for offenses committed prior to reaching 21 years of age.</title>
+		<title>HB 1317 - Sentences/offenses before 21</title>
 		<link>https://wa-law.org/bill/2025-26/hb/1317/</link>
 		<description>Updates about HB 1317</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 27 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -309,6 +309,13 @@
 			<pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-27/Minority; do not pass.</guid>
+		</item>
+		<item>
+			<title>Referred to Rules 2 Review.</title>
+			<description>Referred to Rules 2 Review.</description>
+			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-02-28/Referred to Rules 2 Review.</guid>
 		</item>
 	</channel>
 </rss>

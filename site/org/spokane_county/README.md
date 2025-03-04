@@ -30,7 +30,7 @@
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net.  👎1 
 
-### [SB 5186](/bill/2025-26/sb/5186/) - School district elections  👎1 
+### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding  👎1 
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 

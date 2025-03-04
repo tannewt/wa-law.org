@@ -14,7 +14,7 @@
 
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
 
-### [SB 5186](/bill/2025-26/sb/5186/) - School district elections 👍1  
+### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding 👍1  
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍2  
 * 👍 Doug Hostetter

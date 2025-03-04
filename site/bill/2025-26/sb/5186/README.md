@@ -1,11 +1,12 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5186](/bill/2025-26/sb/5186/)
 
-# SB 5186 - School district elections
+# SB 5186 - School district fac. funding
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5186&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 02/25/2025 [Senate Democrats](/org/senate_democrats/) - [Working to support you - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/02/25/working-to-support-you/#:~:text=SB%205186)

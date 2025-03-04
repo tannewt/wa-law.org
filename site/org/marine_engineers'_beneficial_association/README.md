@@ -229,7 +229,7 @@
 
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects 👍1  
 
-### [SB 5186](/bill/2025-26/sb/5186/) - School district elections 👍1  
+### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding 👍1  
 
 ### [SB 5208](/bill/2025-26/sb/5208/) - Clean energy fund program 👍1  
 

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=HB%201285)

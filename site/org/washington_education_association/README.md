@@ -380,7 +380,7 @@
 ### [SB 5181](/bill/2025-26/sb/5181/) - Parents rights in education 👍1  
 * 👍💵 Nasue Nishida
 
-### [SB 5186](/bill/2025-26/sb/5186/) - School district elections 👍7  ❓2
+### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding 👍7  ❓2
 * ❓💵 Simone Boe
 * ❓💵 Julie Salvi
 * 👍💵 Simone Boe

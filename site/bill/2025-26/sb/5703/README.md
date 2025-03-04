@@ -5,6 +5,7 @@
 
 ## Revisions
 * [Original Bill](1/)
+* [Substitute Bill](S/)
 
 ## 📰 Articles
 * 02/16/2025 [The Spokesman-Review](/org/the_spokesman-review/) - [Is burning trash worth the cash? Spokane to use $650,000 in grant funds to study incinerator as state cracks down on emissions](https://www.spokesman.com/stories/2025/feb/16/is-burning-trash-worth-the-cash-spokane-to-use-650/#:~:text=exemption%20bill)

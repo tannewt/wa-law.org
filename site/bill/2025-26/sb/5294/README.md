@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Thu 01/23 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5294 Professional accounts

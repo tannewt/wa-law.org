@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Tue 02/18 08:00 AM - Finance (FIN): HB 1614 Capital gains tax

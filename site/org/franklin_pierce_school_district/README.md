@@ -3,7 +3,7 @@
 
 ### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍1  
 
-### [SB 5186](/bill/2025-26/sb/5186/) - School district elections 👍1  
+### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding 👍1  
 * 👍 Lance Goodpaster
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  

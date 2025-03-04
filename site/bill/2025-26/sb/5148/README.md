@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 02/28/2025 [Senate Democrats](/org/senate_democrats/) - [Updates from Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/28/updates-from-olympia-2/#:~:text=Senate%20Bill%205148)
