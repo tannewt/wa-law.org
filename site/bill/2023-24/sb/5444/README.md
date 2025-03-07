@@ -11,6 +11,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [Valdez bill to enhance public safety passes Senate  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/05/valdez-bill-to-enhance-public-safety-passes-senate/#:~:text=Senate%20Bill%205444)
+* 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [Valdez bill to enhance public safety passes Senate  - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/03/05/valdez-bill-to-enhance-public-safety-passes-senate/#:~:text=Senate%20Bill%205444)
 * 01/17/2025 [The Center Square](/org/the_center_square/) - [Senate adds CPL exemption to bill banning firearms at 5,300+ locations | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_30b5dbb8-d505-11ef-9af0-4f5c28ad12cf.html#:~:text=Senate%20Bill%205444)
 * 01/17/2025 [MyNorthwest](/org/mynorthwest/) - [WA bill with new gun-free zones where kids are present moves on](https://mynorthwest.com/mynorthwest-politics/washington-senate-bill-with-new-gun-free-zones-parks-where-kids-are-present-moves-ahead/4029716#:~:text=SB%205444)
 * 01/14/2025 [Senate Democrats](/org/senate_democrats/) - [Valdez bill to enhance public safety heard in committee - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/01/14/valdez-bill-to-enhance-public-safety-heard-in-committee/#:~:text=Senate%20Bill%205444)

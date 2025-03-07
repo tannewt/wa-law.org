@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5496/</link>
 		<description>Updates about SB 5496</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Feb 2025 16:29:05 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 05 Mar 2025 01:33:30 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -236,6 +236,20 @@
 			<pubDate>Fri, 28 Feb 2025 16:29:05 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/robinson/2025/02/28/updates-from-olympia-2/#:~:text=Senate%20Bill%205496</guid>
+		</item>
+		<item>
+			<title>Placed on second reading by Rules Committee.</title>
+			<description>Placed on second reading by Rules Committee.</description>
+			<pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-05/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>I want to hear from you! See you Saturday, March 15th? - Sen. Vandana Slatter</title>
+			<description>News article "I want to hear from you! See you Saturday, March 15th? - Sen. Vandana Slatter" from Senate Democrats.</description>
+			<pubDate>Wed, 05 Mar 2025 01:33:30 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/slatter/2025/03/04/i-want-to-hear-from-you-see-you-saturday-march-15th/#:~:text=5496</guid>
 		</item>
 	</channel>
 </rss>

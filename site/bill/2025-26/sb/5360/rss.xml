@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5360/</link>
 		<description>Updates about SB 5360</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -108,6 +108,34 @@
 			<pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-12/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-04/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.</description>
+			<pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-04/Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>WA bill seeks to use criminal prosecution as an environmental protection tool | Washington | thecentersquare.com</title>
+			<description>News article "WA bill seeks to use criminal prosecution as an environmental protection tool | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 05 Mar 2025 17:13:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_08bedeac-fa0d-11ef-8645-c7b5a4846ae4.html#:~:text=Engrossed%20Substitute%20Senate%20Bill%205360</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Environment &amp; Energy.</title>
+			<description>First reading, referred to Environment &amp; Energy.</description>
+			<pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-06/First reading, referred to Environment &amp; Energy.</guid>
 		</item>
 	</channel>
 </rss>

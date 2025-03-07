@@ -14,6 +14,9 @@
 ### [HB 1368](/bill/2025-26/hb/1368/) - New special license plates 👍1  
 * 👍 Pat Sullivan
 
+### [HB 1508](/bill/2025-26/hb/1508/) - Ecosystem services   ❓1
+* ❓ Duane Emmons
+
 ### [HB 1537](/bill/2025-26/hb/1537/) - Roadway safety account use 👍1  
 * 👍 Brody Coval
 
@@ -22,6 +25,9 @@
 ### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
 * 👍 Pat Sullivan
 * 👍 Pat Sullivan
+
+### [HB 1593](/bill/2025-26/hb/1593/) - Social equity land trust   ❓1
+* ❓ Duane Emmons
 
 ### [HB 1628](/bill/2025-26/hb/1628/) - Fire service policy board   ❓1
 

@@ -8,18 +8,28 @@
 
 ## Meetings
 ### Thu 03/06 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1508 Ecosystem services
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32930&aId=165094&caId=26250&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32930&aId=165094&caId=26250&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32930&aId=165094&caId=26250&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32930&aId=165094&caId=26250&tId=4)
-
-#### 3 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
+* Calista Brady
+* Ashiana Ranjan
+* Boden Reeve
+* Carter Pawelke
+* Henry Yeh
+* Bill Turner - [Sierra Pacific Industries](/org/sierra_pacific_industries/)
+* 💵Heath Heikkila - American Forest Resource Council
+* Maria Boyko
+* Andrew Lu - Lake Washington High School
 
-#### 459 👎 - Con
+#### 890 👎 - Con
 Testifying:
 * Sandra Mochizuki
+* Mariska Kecskes - [Sierra Club](/org/sierra_club/)
+* 💵Paula Swedeen - [Conservation Northwest](/org/conservation_northwest/)
+* Rachel Baker - [Washington Conservation Action](/org/washington_conservation_action/)
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Skippy Shaw - [The Nature Conservancy](/org/the_nature_conservancy/)

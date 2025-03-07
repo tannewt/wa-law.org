@@ -13,6 +13,22 @@
 * 01/13/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 1 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/13/the-house-hot-sheet-for-week-1-of-the-2025-legislative-session/#:~:text=HB%201149)
 
 ## Meetings
+### Thu 03/13 10:30 AM - Law & Justice (LAW): ESHB 1149 Cruelty to animals
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165318&caId=26309&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165318&caId=26309&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165318&caId=26309&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165318&caId=26309&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Calista Brady
+* Ashiana Ranjan
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/13 02:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1149 Cruelty to animals
 #### 665 👍 - Pro
 Testifying:

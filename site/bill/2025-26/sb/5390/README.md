@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/05/2025 [KIRO7](/org/kiro7/) - [Are hiking, camping and fishing trips about to get more expensive in Washington? – KIRO 7 News Seattle](https://www.kiro7.com/news/local/are-hiking-camping-fishing-trips-about-get-more-expensive-washington/3ASY6KMNQJHJ7CPCGCAISVXITY/#:~:text=Senate%20Bill%205390)
+* 03/05/2025 [MyNorthwest](/org/mynorthwest/) - [Inflation adjustment: bill aims to raise Discover Pass fees](https://mynorthwest.com/mynorthwest-politics/discover-pass/4057578#:~:text=Senate%20Bill%205390)
+* 03/04/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington may raise Discover Pass price to $45 • Washington State Standard](https://washingtonstatestandard.com/2025/03/04/washington-may-raise-discover-pass-price-to-45/#:~:text=Senate%20Bill%205390)
 * 02/24/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205390)
 
 ## Meetings

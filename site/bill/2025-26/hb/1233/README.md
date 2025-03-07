@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
+
+## 📰 Articles
+* 03/06/2025 [The Center Square](/org/the_center_square/) - [House Dems vote to end forced prison labor; GOP warns taxpayers may foot the bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f96c3c0c-fabf-11ef-ae5b-0fb2b20d9b9c.html#:~:text=Engrossed%20Substitute%20House%20Bill%201233)
 
 ## Meetings
 ### Tue 02/25 01:30 PM - Appropriations (APP): HB 1233 Work programs/incarceration

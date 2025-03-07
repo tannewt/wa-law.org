@@ -17,6 +17,9 @@
 
 ### [HB 1582](/bill/2025-26/hb/1582/) - Concerning child care centers operated in existing buildings. 👍1  
 
+### [HB 1593](/bill/2025-26/hb/1593/) - Social equity land trust 👍1  
+* 👍💵 Amy Anderson
+
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍2  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 

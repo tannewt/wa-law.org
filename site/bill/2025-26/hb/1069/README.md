@@ -10,6 +10,19 @@
 * 02/07/2025 [House Democrats](/org/house_democrats/) - [House Passes Bipartisan Bill to Help Public Employees Retire  – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/07/house-passes-bipartisan-bill-to-help-public-employees-retire/#:~:text=House%20Bill%201069)
 
 ## Meetings
+### Fri 03/14 08:00 AM - Labor & Commerce (LC): HB 1069 Supp. retirement bargaining
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32965&aId=165434&caId=26321&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32965&aId=165434&caId=26321&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32965&aId=165434&caId=26321&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32965&aId=165434&caId=26321&tId=4)
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/17 10:30 AM - Labor & Workplace Standards (LAWS): HB 1069 Supp. retirement bargaining
 #### 201 👍 - Pro
 Testifying:

@@ -9,25 +9,29 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/05/2025 [KING5](/org/king5/) - [Washington considers 'Alyssa’s Law' for heightened school security | king5.com](https://www.king5.com/article/news/local/mother-who-lost-daughter-school-shooting-wants-schools-upgrade-security/281-436bb972-fb82-4df5-aa65-388f0d0aca80#:~:text=Senate%20Bill%205004)
 * 03/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 8: Big 3 Reduced to Big 2 - Amounts Also Reduced - WSPTA](https://www.wastatepta.org/week-8-big-3-reduced-to-big-2-amounts-also-reduced/#:~:text=ESSB%205004)
 * 01/27/2025 [Washington St Pta](/org/washington_st_pta/) - [Big 3 bills heard in Senate Ed, Special Education bills to be heard this week - WSPTA](https://www.wastatepta.org/2025session-week3/#:~:text=SB%205004)
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205004)
 
 ## Meetings
 ### Wed 03/05 08:00 AM - Education (ED): ESSB 5004 School emergency response
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165096&caId=26252&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165096&caId=26252&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165096&caId=26252&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165096&caId=26252&tId=4)
-
-#### 37 👍 - Pro
+#### 55 👍 - Pro
 Testifying:
 * Lori Alhadeff - Make Our Schools Safe
+* Ashiana Ranjan
+* Dhruv Sarnot
+* Cameron Kilburn
+* Leonor Lopes Costa
+* Sofia Moreno
+* Calista Brady
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Charlie Brown - The Schools Coalition
+* 💵Grace Yuan - Puget Sound School Coalition
 
 ### Wed 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5004 School emergency response
 #### 489 👍 - Pro

@@ -246,7 +246,8 @@
 ### [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  
 * 👍💵 Kelsey Hulse
 
-### [SB 5317](/bill/2025-26/sb/5317/) - Exempting local governments providing certain services for projects under the jurisdiction of the energy facility siting evaluation council from certain appeals. 👍1  
+### [SB 5317](/bill/2025-26/sb/5317/) - Exempting local governments providing certain services for projects under the jurisdiction of the energy facility siting evaluation council from certain appeals. 👍2  
+* 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
 ### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 

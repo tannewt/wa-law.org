@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5085/</link>
 		<description>Updates about SB 5085</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Mar 2025 18:55:05 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 05 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -188,6 +188,20 @@
 			<pubDate>Mon, 03 Mar 2025 18:55:05 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/robinson/2025/03/03/senate-passes-robinson-bill-to-merge-existing-closed-retirement-systems/#:~:text=Senate%20Bill%205085</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-05/First reading, referred to Appropriations (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Appropriations.</title>
+			<description>First reading, referred to Appropriations.</description>
+			<pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-05/First reading, referred to Appropriations.</guid>
 		</item>
 	</channel>
 </rss>

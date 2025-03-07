@@ -9,13 +9,9 @@
 
 ## Meetings
 ### Wed 03/05 08:00 AM - Education (ED): SSB 5025 Educational interpreters
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165097&caId=26253&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165097&caId=26253&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165097&caId=26253&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32934&aId=165097&caId=26253&tId=4)
-
-#### 12 👍 - Pro
+#### 14 👍 - Pro
+Testifying:
+* Shauna Bilyeu - WA Center for Deaf and Hard of Hearing Youth
 
 #### 2 👎 - Con
 

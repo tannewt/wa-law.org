@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/05/2025 [The Center Square](/org/the_center_square/) - [WATCH: Dems may not have the votes to pass bill capping rent in Washington state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1a1ffc08-f954-11ef-b16c-db744c3646e2.html#:~:text=Senate%20Bill%205222)
 * 02/19/2025 [Washington State Standard](/org/washington_state_standard/) - [Rent cap bill moves ahead in WA Senate • Washington State Standard](https://washingtonstatestandard.com/briefs/rent-cap-bill-moves-ahead-in-wa-senate/#:~:text=Senate%20Bill%205222)
 * 02/19/2025 [The Center Square](/org/the_center_square/) - [Bill to cap rent increases passes out of WA Senate Housing Committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3e774676-eef8-11ef-8fae-e3d75bcfa845.html#:~:text=Senate%20Bill%205222)
 * 02/14/2025 [Senate Democrats](/org/senate_democrats/) - [Building an economy that works for all Washingtonians - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/14/building-an-economy-that-works-for-all-washingtonians/#:~:text=SB%205222)

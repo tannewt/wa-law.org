@@ -22,6 +22,9 @@
 
 ### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
 
+### [HB 1508](/bill/2025-26/hb/1508/) - Ecosystem services   ❓1
+* ❓ Skippy Shaw
+
 ### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍1  
 
 ### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
@@ -29,6 +32,8 @@
 * 👍 Skippy Shaw
 
 ### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
+
+### [HB 1593](/bill/2025-26/hb/1593/) - Social equity land trust 👍1  
 
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
 

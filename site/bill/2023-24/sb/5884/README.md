@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/04/2025 [Senate Democrats](/org/senate_democrats/) - [Bill to crack down on environmental crimes passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/04/bill-to-crack-down-on-environmental-crimes-passes-senate/#:~:text=SB%205884)
+
 ## Meetings
 ### Wed 02/14 10:30 AM - Environment & Energy (ENVI): SB 5884 Restitution/env. crimes
 #### 9 👍 - Pro

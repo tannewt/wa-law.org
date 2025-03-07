@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1457/</link>
 		<description>Updates about HB 1457</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 05 Mar 2025 15:23:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -78,6 +78,27 @@
 			<pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-03/Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Human Services (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Human Services (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-05/First reading, referred to Human Services (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-05/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>WA House passes bill to improve monitoring of sexually violent predators | Washington | thecentersquare.com</title>
+			<description>News article "WA House passes bill to improve monitoring of sexually violent predators | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 05 Mar 2025 15:23:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_5d1a6bd8-f9f9-11ef-b8b7-cf98613df20e.html#:~:text=House%20Bill%201457</guid>
 		</item>
 	</channel>
 </rss>

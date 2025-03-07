@@ -13,6 +13,19 @@
 * 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201759)
 
 ## Meetings
+### Fri 03/14 10:30 AM - State Government & Elections (SGE): HB 1759 Day of the 12s
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165388&caId=26330&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165388&caId=26330&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165388&caId=26330&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165388&caId=26330&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/07 08:00 AM - State Government & Tribal Relations (SGOV): HB 1759 Day of the 12s
 #### 57 👍 - Pro
 Testifying:

@@ -24,11 +24,13 @@
 
 ### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting   ❓1
 
-## [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
+### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
+
+## [SJM 8000](/bill/2025-26/sjm/8000/) - Martin Luther King, Jr. Way 👍1  
 
 ## 2023-24
 
-### [SB 5659](/bill/2023-24/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage.  👎1 
+### [SJM 8000](/bill/2023-24/sjm/8000/) - Martin Luther King, Jr. Way 👍1  
 
 ### [HB 1013](/bill/2023-24/hb/1013/) - Regional apprenticeship prgs 👍3  
 

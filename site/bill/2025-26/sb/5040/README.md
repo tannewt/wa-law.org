@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Fri 03/14 10:30 AM - Labor & Workplace Standards (LAWS): SSB 5040 Uniformed personnel
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165371&caId=26283&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165371&caId=26283&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165371&caId=26283&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165371&caId=26283&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/24 08:00 AM - Labor & Commerce (LC): SB 5040 Uniformed personnel
 #### 13 👍 - Pro
 Testifying:

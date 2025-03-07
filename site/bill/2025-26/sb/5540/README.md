@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching floor cutoff - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/03/06/approaching-floor-cutoff/#:~:text=5540)
 * 02/07/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 5: Reproductive freedom, gender-based violence prevention and a ban on tobacco products - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/07/this-week-in-the-senate-week-5-reproductive-freedom-gender-based-violence-prevention-and-a-ban-on-tobacco-products/#:~:text=Senate%20Bill%205540)
 
 ## Meetings

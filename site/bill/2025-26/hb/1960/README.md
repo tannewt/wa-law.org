@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## Meetings
 ### Thu 02/27 09:00 AM - Appropriations (APP): HB 1960 Renewable energy

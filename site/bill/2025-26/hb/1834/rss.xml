@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1834/</link>
 		<description>Updates about HB 1834</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -270,6 +270,20 @@
 			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-28/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>WA resolution would enshrine abortion, gender-affirming care into state constitution | Washington | thecentersquare.com</title>
+			<description>News article "WA resolution would enshrine abortion, gender-affirming care into state constitution | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Wed, 05 Mar 2025 13:14:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_591bddea-f9dc-11ef-bc65-5b7421525a07.html#:~:text=House%20Bill%201834</guid>
+		</item>
+		<item>
+			<title>Rules Committee relieved of further consideration.  Placed on second reading.</title>
+			<description>Rules Committee relieved of further consideration.  Placed on second reading.</description>
+			<pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-06/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
 		</item>
 	</channel>
 </rss>

@@ -289,7 +289,7 @@
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
-### [SB 5025](/bill/2025-26/sb/5025/) - Educational interpreters 👍1  
+### [SB 5025](/bill/2025-26/sb/5025/) - Educational interpreters 👍2  
 
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍2  
 

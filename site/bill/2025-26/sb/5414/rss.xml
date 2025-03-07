@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5414/</link>
 		<description>Updates about SB 5414</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 26 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Mar 2025 00:27:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -67,6 +67,27 @@
 			<pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-26/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</description>
+			<pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-04/Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to State Government &amp; Tribal Relations.</title>
+			<description>First reading, referred to State Government &amp; Tribal Relations.</description>
+			<pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-06/First reading, referred to State Government &amp; Tribal Relations.</guid>
+		</item>
+		<item>
+			<title>Approaching floor cutoff - Sen. Bob Hasegawa</title>
+			<description>News article "Approaching floor cutoff - Sen. Bob Hasegawa" from Senate Democrats.</description>
+			<pubDate>Fri, 07 Mar 2025 00:27:54 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hasegawa/2025/03/06/approaching-floor-cutoff/#:~:text=5414</guid>
 		</item>
 	</channel>
 </rss>

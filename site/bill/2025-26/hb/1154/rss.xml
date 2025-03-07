@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1154/</link>
 		<description>Updates about HB 1154</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 28 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Mar 2025 17:08:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -213,6 +213,27 @@
 			<pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-28/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>2nd substitute bill substituted.</title>
+			<description>2nd substitute bill substituted.</description>
+			<pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-05/2nd substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 58; nays, 39; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 58; nays, 39; absent, 0; excused, 1.</description>
+			<pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-05/Third reading, passed; yeas, 58; nays, 39; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>House Dems move to grant new authority to Ecology Dept. amid Yakima trash fires | Washington | thecentersquare.com</title>
+			<description>News article "House Dems move to grant new authority to Ecology Dept. amid Yakima trash fires | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Thu, 06 Mar 2025 17:08:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_05fb14d0-fadd-11ef-b984-67b70fff5b2f.html#:~:text=Second%20Substitute%20House%20Bill%201154</guid>
 		</item>
 	</channel>
 </rss>

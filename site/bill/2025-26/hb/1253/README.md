@@ -11,6 +11,19 @@
 * 02/07/2025 [Wenatchee World](/org/wenatchee_world/) - [Power Play: Washington House advances Ybarra energy bill to supercharge partnerships | News | wenatcheeworld.com](https://www.wenatcheeworld.com/news/power-play-washington-house-advances-ybarra-energy-bill-to-supercharge-partnerships/article_abce76f4-e589-11ef-9893-235bf19a19d7.html#:~:text=House%20Bill%201253)
 
 ## Meetings
+### Fri 03/14 10:30 AM - Environment, Energy & Technology (ENET): SHB 1253 Utility joint use agreements
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32962&aId=165419&caId=26323&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32962&aId=165419&caId=26323&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32962&aId=165419&caId=26323&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32962&aId=165419&caId=26323&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/16 08:00 AM - Environment & Energy (ENVI): HB 1253 Expanding the ability of consumer-owned utilities to enter into joint use agreements. (Remote Testimony Available). (If measure is referred to committee.)
 #### 19 👍 - Pro
 Testifying:

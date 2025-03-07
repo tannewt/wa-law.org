@@ -21,6 +21,19 @@
 * 05/18/2000 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/#:~:text=SB%205375)
 
 ## Meetings
+### Fri 03/14 08:00 AM - Human Services, Youth, & Early Learning (HSEL): SB 5375 Clergy, duty to report abuse
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165392&caId=26271&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165392&caId=26271&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165392&caId=26271&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165392&caId=26271&tId=4)
+
+#### 2 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/28 01:30 PM - Human Services (HS): SB 5375 Clergy, duty to report abuse
 #### 184 👍 - Pro
 Testifying:

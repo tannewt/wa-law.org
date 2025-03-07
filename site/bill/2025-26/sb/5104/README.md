@@ -8,11 +8,25 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching floor cutoff - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/03/06/approaching-floor-cutoff/#:~:text=5104)
 * 02/15/2025 [Senate Democrats](/org/senate_democrats/) - [Public testimony, public banking - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/02/14/public-testimony-public-banking/#:~:text=5104)
 * 02/13/2025 [Washington State Standard](/org/washington_state_standard/) - [WA bill intends to protect immigrants from coercion in the workplace • Washington State Standard](https://washingtonstatestandard.com/2025/02/12/wa-bill-intends-to-protect-immigrants-from-coercion-in-the-workplace/#:~:text=Senate%20Bill%205104)
 * 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [Hasegawa bill to protect employees from immigration-status-based coercion - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/02/03/hasegawa-bill-to-protect-employees-from-immigration-status-based-coercion/#:~:text=5104)
 
 ## Meetings
+### Fri 03/14 10:30 AM - Labor & Workplace Standards (LAWS): SSB 5104 Immigration status coercion
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165372&caId=26284&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165372&caId=26284&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165372&caId=26284&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165372&caId=26284&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/20 10:30 AM - Labor & Commerce (LC): SB 5104 Immigration status coercion
 #### 137 👍 - Pro
 Testifying:

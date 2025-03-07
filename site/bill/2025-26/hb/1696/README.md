@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Second Substitute](S2/)
 
 ## 📰 Articles
 * 02/12/2025 [The Center Square](/org/the_center_square/) - [Bill would adjust eligibility, add loan forgiveness to housing discrimination remedy | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9e074162-e8eb-11ef-8315-531e743c69af.html#:~:text=House%20Bill%201696)

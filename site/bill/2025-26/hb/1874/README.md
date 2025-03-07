@@ -12,6 +12,19 @@
 * 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201874)
 
 ## Meetings
+### Fri 03/14 08:00 AM - Labor & Commerce (LC): EHB 1874 Textured hair training
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32965&aId=165441&caId=26322&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32965&aId=165441&caId=26322&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32965&aId=165441&caId=26322&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32965&aId=165441&caId=26322&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/18 01:30 PM - Postsecondary Education & Workforce (PEW): HB 1874 Textured hair training
 #### 5 👍 - Pro
 Testifying:

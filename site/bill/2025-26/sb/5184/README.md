@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [I want to hear from you! See you Saturday, March 15th? - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/03/04/i-want-to-hear-from-you-see-you-saturday-march-15th/#:~:text=5184)
 * 02/28/2025 [Senate Democrats](/org/senate_democrats/) - [Updates from Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/28/updates-from-olympia-2/#:~:text=Senate%20Bill%205184)
 * 02/20/2025 [The Urbanist](/org/the_urbanist/) - [Washington State Senate Approves Sweeping Parking Reform Bill - The Urbanist](https://www.theurbanist.org/2025/02/20/washington-state-senate-approves-sweeping-parking-reform/#:~:text=Senate%20Bill%205184)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205184)
@@ -23,6 +24,19 @@
 * 01/10/2025 [The Urbanist](/org/the_urbanist/) - [Bateman Takes Aim at Washington’s Parking Mandates - The Urbanist](https://www.theurbanist.org/2025/01/10/bateman-takes-aim-at-parking-mandates/#:~:text=Senate%20Bill%205184)
 
 ## Meetings
+### Fri 03/14 10:30 AM - Local Government (LG): ESSB 5184 Minimum parking requirements
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/24 10:30 AM - Housing (HSG): SB 5184 Minimum parking requirements
 #### 891 👍 - Pro
 Testifying:

@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 03/13 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): HB 1006 Service contracts
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32964&aId=165426&caId=26299&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32964&aId=165426&caId=26299&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32964&aId=165426&caId=26299&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32964&aId=165426&caId=26299&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/14 01:30 PM - Consumer Protection & Business (CPB): HB 1006 Service contracts
 #### 11 👍 - Pro
 Testifying:

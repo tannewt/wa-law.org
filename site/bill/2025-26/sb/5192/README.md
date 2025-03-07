@@ -6,8 +6,13 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/06/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Nobles bill advocating for stronger school funding - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/06/senate-passes-nobles-bill-advocating-for-stronger-school-funding/#:~:text=Senate%20Bill%205192)
+* 03/06/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Nobles bill advocating for stronger school funding - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/06/senate-passes-nobles-bill-advocating-for-stronger-school-funding/#:~:text=Senate%20Bill%205192)
+* 03/06/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA Senate passes increased school funding bill sans accountability amendment | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f7605b20-fad1-11ef-8936-bfec441dc776.html#:~:text=Engrossed%20Substitute%20Senate%20Bill%205192)
+* 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [I want to hear from you! See you Saturday, March 15th? - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/03/04/i-want-to-hear-from-you-see-you-saturday-march-15th/#:~:text=5192)
 * 03/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 8: Big 3 Reduced to Big 2 - Amounts Also Reduced - WSPTA](https://www.wastatepta.org/week-8-big-3-reduced-to-big-2-amounts-also-reduced/#:~:text=SSB%205192)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205192)
 * 02/26/2025 [FOX13](/org/fox13/) - [What’s moving along, and what’s not, in the WA Legislature? | FOX 13 Seattle](https://www.fox13seattle.com/news/whats-moving-along-whats-not-wa-legislature#:~:text=materials%20and%20operating%20costs)

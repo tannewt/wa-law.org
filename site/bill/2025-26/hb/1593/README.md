@@ -8,20 +8,31 @@
 
 ## Meetings
 ### Thu 03/06 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1593 Social equity land trust
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32930&aId=165095&caId=26251&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32930&aId=165095&caId=26251&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32930&aId=165095&caId=26251&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32930&aId=165095&caId=26251&tId=4)
-
-#### 7 👍 - Pro
+#### 20 👍 - Pro
 Testifying:
 * Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
 * Matteo Trifunovic
+* Nicolas Laughlin
+* Connor Farris - Lake Washington High School
+* Fraser Waldie - Lake Washington High School
+* Ian Tatt - Lake Washington High School
+* Boden Reeve
+* Carter Pawelke
+* Henry Yeh
+* 💵Amy Anderson - [Washington Childcare Centers Association](/org/washington_childcare_centers_association/)
+* Jett Running
+* Jonah Synn
+* 💵Heath Heikkila - American Forest Resource Council
+* Dhruv Sarnot
 
-#### 451 👎 - Con
+#### 898 👎 - Con
 Testifying:
 * Sandra Mochizuki
+* Lisa Desjardins
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Mariska Kecskes - Sierra Club Washington State
+* Duane Emmons - [Department of Natural Resources](/org/department_of_natural_resources/)

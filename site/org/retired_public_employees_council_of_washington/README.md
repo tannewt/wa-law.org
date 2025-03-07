@@ -7,6 +7,8 @@
 ### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement 👍23  
 * 👍💵 Laurie Weidner
 
+### [HB 1142](/bill/2025-26/hb/1142/) - In-home care training 👍1  
+
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase  👎1 
 
 ### [HB 1165](/bill/2025-26/hb/1165/) - Property tax exemptions 👍2  

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/04/2025 [The Center Square](/org/the_center_square/) - [Report: Home construction costs in Washington state climbing due to red tape | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_efe4c1d2-f94c-11ef-a413-932e6970f6ad.html#:~:text=Senate%20Bill%205729)
 * 02/17/2025 [Senate Republicans](/org/senate_republicans/) - [Senate Republicans introduce 18 bills to address housing crisis - Senate Republican Caucus](https://src.wastateleg.org/blog/senate-republicans-introduce-18-bills-address-housing-crisis/#:~:text=SB%205729)
 
 ## Meetings

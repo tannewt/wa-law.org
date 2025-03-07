@@ -12,6 +12,19 @@
 * 01/13/2025 [Senate Democrats](/org/senate_democrats/) - [Kicking off the 2025 legislative session - Sen. Rebecca Saldaña](https://senatedemocrats.wa.gov/saldana/2025/01/13/kicking-off-the-2025-legislative-session/#:~:text=SB%205138)
 
 ## Meetings
+### Thu 03/13 01:30 PM - Finance (FIN): SB 5138 Public facilities districts
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33008&aId=165418&caId=26275&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33008&aId=165418&caId=26275&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33008&aId=165418&caId=26275&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33008&aId=165418&caId=26275&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/20 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5138 Public facilities districts
 #### 6 👍 - Pro
 Testifying:

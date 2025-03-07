@@ -7,8 +7,13 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/06/2025 [FOX13](/org/fox13/) - [Groups lobby for more gun regulations in WA | FOX 13 Seattle](https://www.fox13seattle.com/news/groups-lobby-gun-regulations-wa#:~:text=Senate%20Bill%205098)
+* 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [Valdez bill to enhance public safety passes Senate  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/05/valdez-bill-to-enhance-public-safety-passes-senate/#:~:text=Senate%20Bill%205098)
+* 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [Valdez bill to enhance public safety passes Senate  - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/03/05/valdez-bill-to-enhance-public-safety-passes-senate/#:~:text=Senate%20Bill%205098)
+* 03/05/2025 [The Center Square](/org/the_center_square/) - [Washington State Senate passes gun-free zone expansion bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a98d9d94-fa19-11ef-8cbd-5360b1340c04.html#:~:text=Engrossed%20Second%20Substitute%20Senate%20Bill%205098)
 * 02/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Reaction to Gov. Ferguson's budget plan & victory on wood stoves - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-looking-ahead-week-eight-april-3-7/#:~:text=SB%205098:)
 * 02/26/2025 [Senate Democrats](/org/senate_democrats/) - [Almost halfway there!   - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/26/almost-halfway-there/#:~:text=SB%205098)
 * 02/25/2025 [The Center Square](/org/the_center_square/) - [Expansion of gun-free zones bill draws praise from supporters, fire from opponents | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_813f4cd8-f3b7-11ef-b095-0b41989932c3.html#:~:text=Senate%20Bill%205098)

@@ -11,6 +11,19 @@
 * 02/13/2025 [Senate Democrats](/org/senate_democrats/) - [Protecting the rights of every Washingtonian - Sen. Manka Dhingra](https://senatedemocrats.wa.gov/dhingra/2025/02/12/protecting-the-rights-of-every-washingtonian/#:~:text=SB%205093)
 
 ## Meetings
+### Fri 03/14 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5093 Pregnancy loss
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33003&aId=165398&caId=26260&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33003&aId=165398&caId=26260&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33003&aId=165398&caId=26260&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33003&aId=165398&caId=26260&tId=4)
+
+#### 3 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/20 10:30 AM - Law & Justice (LAW): SB 5093 Pregnancy loss
 #### 283 👍 - Pro
 Testifying:

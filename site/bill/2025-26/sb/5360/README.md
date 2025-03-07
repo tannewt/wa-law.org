@@ -6,6 +6,10 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
+
+## 📰 Articles
+* 03/05/2025 [The Center Square](/org/the_center_square/) - [WA bill seeks to use criminal prosecution as an environmental protection tool | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_08bedeac-fa0d-11ef-8645-c7b5a4846ae4.html#:~:text=Engrossed%20Substitute%20Senate%20Bill%205360)
 
 ## Meetings
 ### Fri 01/24 10:30 AM - Environment, Energy & Technology (ENET): SB 5360 Environmental crimes

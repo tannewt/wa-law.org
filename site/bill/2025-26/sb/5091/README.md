@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/06/2025 [The Center Square](/org/the_center_square/) - [WA draft report blames high electric semi-truck prices on 'market failure' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d86b2044-fab6-11ef-946b-eb04a72a09fa.html#:~:text=Senate%20Bill%205091)
 * 02/24/2025 [The Center Square](/org/the_center_square/) - [WA truckers want to hit the brakes on California-style emission rules | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_5ece718c-f250-11ef-91e8-f79e9d229f21.html#:~:text=Senate%20Bill%205091)
 
 ## Meetings

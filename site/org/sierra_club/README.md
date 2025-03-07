@@ -4,6 +4,9 @@
 ### [HB 1249](/bill/2025-26/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission.  👎1 
 * 👎 Kathleen M. Saul
 
+### [HB 1508](/bill/2025-26/hb/1508/) - Ecosystem services  👎1 
+* 👎 Mariska Kecskes
+
 ### [HB 1825](/bill/2025-26/hb/1825/) - Grizzly bear management 👍2  
 * 👍 Susan Kane-Ronning
 * 👍 Susan Kane-Ronning

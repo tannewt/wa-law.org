@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 03/14 10:30 AM - Civil Rights & Judiciary (CRJ): SB 5122 Uniform antitrust premerger
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33003&aId=165399&caId=26261&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33003&aId=165399&caId=26261&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33003&aId=165399&caId=26261&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33003&aId=165399&caId=26261&tId=4)
+
+#### 3 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 01/20 10:30 AM - Law & Justice (LAW): SB 5122 Uniform antitrust premerger
 #### 350 👍 - Pro
 Testifying:

@@ -11,6 +11,19 @@
 * 02/21/2025 [The Center Square](/org/the_center_square/) - [Slew of bills pass out of the Washington House of Representatives | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_67329b24-eff2-11ef-8f14-c7be1b7a4b31.html#:~:text=Substitute%20House%20Bill%201325)
 
 ## Meetings
+### Thu 03/13 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SHB 1325 Fish & wildlife enforcement
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33007&aId=165406&caId=26312&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33007&aId=165406&caId=26312&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33007&aId=165406&caId=26312&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33007&aId=165406&caId=26312&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/04 10:30 AM - Agriculture and Natural Resources (AGNR): HB 1325 Fish & wildlife enforcement
 #### 22 👍 - Pro
 Testifying:

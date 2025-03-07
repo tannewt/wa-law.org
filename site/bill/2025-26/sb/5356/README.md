@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## 📰 Articles
+* 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Orwall bill to expand training for Title IX investigators, police officers - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/03/04/senate-passes-orwall-bill-to-expand-training-for-title-ix-investigators-police-officers/#:~:text=here)
+
 ## Meetings
 ### Tue 02/18 04:00 PM - Ways & Means (WM): SSB 5356 Criminal justice trainings
 #### 4 👍 - Pro

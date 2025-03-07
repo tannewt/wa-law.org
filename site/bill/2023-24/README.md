@@ -20,7 +20,7 @@
 * [SB 5232](sb/5232) - Firearms/purchase & transfer 7📰 1782👍 4345👎 2❓ - SWays & Means
 * [HB 1333](hb/1333) - Domestic violent extremism 5📰 253👍 5451👎 12❓ - HRules X
 * [HB 1389](hb/1389) - Residential rent increases 33📰 3125👍 2455👎 27❓ - HRules X
-* [SB 5444](sb/5444) - Firearms/certain premises 25📰 2645👍 2865👎 4❓ - C 285 L 24
+* [SB 5444](sb/5444) - Firearms/certain premises 27📰 2645👍 2865👎 4❓ - C 285 L 24
 * [SB 5241](sb/5241) - Health care marketplace 29📰 3903👍 1435👎 6❓ - SRules 3
 * [HB 1181](hb/1181) - Climate change/planning 26📰 4665👍 601👎 16❓ - C 228 L 23
 * [SB 5768](sb/5768) - DOC/abortion medications 20📰 1440👍 3668👎 7❓ - C 195 L 23
@@ -763,7 +763,7 @@
 * [HB 2313](hb/2313) - Digital equity 4📰 97👍 35👎 5❓ - HRules X
 * [SB 5338](sb/5338) - Essential health benefits 1📰 136👍 0👎 1❓ - C 87 L 23
 * [SB 5723](sb/5723) - Even-numbered year elections 13📰 127👍 9👎 1❓ - SRules X
-* [SB 5884](sb/5884) - Concerning court-ordered restitution in environmental criminal cases. 11👍 126👎 0❓ - C 342 L 24
+* [SB 5884](sb/5884) - Concerning court-ordered restitution in environmental criminal cases. 1📰 11👍 126👎 0❓ - C 342 L 24
 * [HB 1247](hb/1247) - Music therapists 4📰 130👍 4👎 2❓ - C 175 L 23
 * [HB 2145](hb/2145) - Concerning medically necessary treatment of a mental health or substance use disorder. 2📰 127👍 9👎 0❓ - HHC/Wellness
 * [SB 5360](sb/5360) - Vehicle combinations 11👍 124👎 1❓ - STransportation

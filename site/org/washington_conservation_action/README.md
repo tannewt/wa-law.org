@@ -19,6 +19,9 @@
 
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍1  
 
+### [HB 1508](/bill/2025-26/hb/1508/) - Ecosystem services  👎1 
+* 👎 Rachel Baker
+
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
 ### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  

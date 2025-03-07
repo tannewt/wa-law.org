@@ -9,6 +9,9 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/04/2025 [Washington State Standard](/org/washington_state_standard/) - [Voters could get final say on changes to Washington’s parental ‘bill of rights' • Washington State Standard](https://washingtonstatestandard.com/briefs/voters-could-get-final-say-on-changes-to-washingtons-parental-bill-of-right/#:~:text=Senate%20Bill%205181)
+* 03/04/2025 [The Center Square](/org/the_center_square/) - [New initiative aims to protect WA parents’ bill of rights from legislative rewrite | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f2e0ba8e-f934-11ef-a24a-6b870e3d5bbc.html#:~:text=Engrossed%20Substitute%20Senate%20Bill%205181)
+* 03/04/2025 [MyNorthwest](/org/mynorthwest/) - [Jumping the gun? Millionaire initiative backer moves to repeal law that doesn't yet exist](https://mynorthwest.com/mynorthwest-politics/jumping-the-gun-millionaire-initiative-backer-moves-to-repeal-law-that-doesnt-yet-exist/4057056#:~:text=Engrossed%20Substitute%20Senate%20Bill%205181)
 * 03/02/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Human Rights -- 2025 action — Quaker Voice](https://www.quakervoicewa.org/human-rights-2025-action/#:~:text=ESSB%205181)
 * 02/27/2025 [Real Change](/org/real_change/) - [Seattleites resist Trump admin’s efforts to eliminate trans rights | Feb. 26–March 4, 2025 | Real Change](https://www.realchangenews.org/news/2025/02/27/seattleites-resist-trump-admin-s-efforts-eliminate-trans-rights#:~:text=SB%205181)
 * 02/25/2025 [Axios](/org/axios/) - [Washington Legislature debates changes to "parents bill of rights," I-2081 - Axios Seattle](https://www.axios.com/local/seattle/2025/02/25/parent-rights-2081-amendments-washington-legislature#:~:text=Senate%20Bill%205181)

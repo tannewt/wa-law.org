@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/06/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Why Housing Supply Advocates Should Support Rent Stabilization - The Urbanist](https://www.theurbanist.org/2025/03/06/op-ed-why-housing-supply-advocates-should-support-rent-stabilization/#:~:text=House%20Bill%201217)
+* 03/05/2025 [The Center Square](/org/the_center_square/) - [WATCH: Dems may not have the votes to pass bill capping rent in Washington state | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1a1ffc08-f954-11ef-b16c-db744c3646e2.html#:~:text=Second%20Substitute%20House%20Bill%201217)
 * 02/28/2025 [Senate Democrats](/org/senate_democrats/) - [Updates from Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/28/updates-from-olympia-2/#:~:text=House%20Bill%201217)
 * 02/21/2025 [Senate Democrats](/org/senate_democrats/) - [From the desk of your new state senator - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/02/21/from-the-desk-of-your-new-state-senator-2/#:~:text=1217)
 * 02/19/2025 [The Center Square](/org/the_center_square/) - [Bill to cap rent increases passes out of WA Senate Housing Committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3e774676-eef8-11ef-8fae-e3d75bcfa845.html#:~:text=Second%20Substitute%20House%20Bill%201217)

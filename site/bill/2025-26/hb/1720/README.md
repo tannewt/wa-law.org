@@ -11,6 +11,22 @@
 * 02/21/2025 [The Center Square](/org/the_center_square/) - [Slew of bills pass out of the Washington House of Representatives | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_67329b24-eff2-11ef-8f14-c7be1b7a4b31.html#:~:text=Substitute%20House%20Bill%201720)
 
 ## Meetings
+### Thu 03/13 08:00 AM - Health & Long Term Care (HLTC): SHB 1720 Community care/Rx assistance
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165360&caId=26305&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165360&caId=26305&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165360&caId=26305&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165360&caId=26305&tId=4)
+
+#### 3 👍 - Pro
+Testifying:
+* Ashiana Ranjan
+* Calista Brady
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/11 01:30 PM - Health Care & Wellness (HCW): HB 1720 Community care/Rx assistance
 #### 251 👍 - Pro
 Testifying:

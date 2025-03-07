@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 03/13 10:30 AM - Community Safety, Justice, & Reentry (CSJR): SB 5209 L&I law enforcement
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165328&caId=26265&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165328&caId=26265&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165328&caId=26265&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165328&caId=26265&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/21 08:00 AM - Law & Justice (LAW): SB 5209 L&I law enforcement
 #### 9 👍 - Pro
 Testifying:

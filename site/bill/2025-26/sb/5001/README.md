@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/04/2025 [KING5](/org/king5/) - [Yes, daylight saving time is still happening in Washington | king5.com](https://www.king5.com/article/news/politics/state-politics/washington-lawmakers-ditch-the-switch-daylight-saving-time/281-e5545b05-84f6-43a1-bb0f-3fc4c1ee3d8a#:~:text=SB%205001)
 * 02/12/2025 [KING5](/org/king5/) - [Why a bill to allow Washington to 'ditch the switch' is stalled in Olympia | king5.com](https://www.king5.com/article/news/politics/state-politics/get-rid-daylight-savings-time-standard-time-washington/281-c7c3ecd4-5edd-4a33-9899-41bc01619fa3#:~:text=SB%205001)
 
 ## Meetings

@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 03/13 04:00 PM - Transportation (TR): ESB 5595 Shared streets
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165335&caId=26296&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165335&caId=26296&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165335&caId=26296&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165335&caId=26296&tId=4)
+
+#### 2 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/10 04:00 PM - Transportation (TRAN): SB 5595 Shared streets
 #### 189 👍 - Pro
 Testifying:

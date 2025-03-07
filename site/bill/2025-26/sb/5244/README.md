@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 03/14 08:00 AM - Health Care & Wellness (HCW): SB 5244 WIC hematological screening
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165380&caId=26280&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165380&caId=26280&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165380&caId=26280&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165380&caId=26280&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/23 08:00 AM - Health & Long Term Care (HLTC): SB 5244 WIC hematological screening
 #### 8 👍 - Pro
 Testifying:

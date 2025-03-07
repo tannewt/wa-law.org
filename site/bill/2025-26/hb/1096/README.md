@@ -7,8 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/04/2025 [The Center Square](/org/the_center_square/) - [Report: Home construction costs in Washington state climbing due to red tape | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_efe4c1d2-f94c-11ef-a413-932e6970f6ad.html#:~:text=House%20Bill%201096)
 * 02/15/2025 [House Republicans](/org/house_republicans/) - [Housing and rent control | Washington State House Republicans](http://houserepublicans.wa.gov/current/housing-and-rent-control/#:~:text=House%20Bill%201096)
 * 02/15/2025 [House Republicans](/org/house_republicans/) - [Housing and rent control | Washington State House Republicans](https://houserepublicans.wa.gov/current/housing-and-rent-control/#:~:text=House%20Bill%201096)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201096)

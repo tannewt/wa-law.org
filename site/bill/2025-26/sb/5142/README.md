@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching floor cutoff - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/03/06/approaching-floor-cutoff/#:~:text=5142)
+
 ## Meetings
 ### Thu 01/23 10:30 AM - Law & Justice (LAW): SB 5142 Eminent domain purchase back
 #### 22 👍 - Pro

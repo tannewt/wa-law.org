@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5023/</link>
 		<description>Updates about SB 5023</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Mar 2025 00:22:30 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -358,6 +358,41 @@
 			<pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-03/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-05/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.</description>
+			<pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-05/Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Domestic Workers’ Bill of Rights passes Senate - Sen. Rebecca Saldaña</title>
+			<description>News article "Domestic Workers’ Bill of Rights passes Senate - Sen. Rebecca Saldaña" from Senate Democrats.</description>
+			<pubDate>Wed, 05 Mar 2025 22:56:30 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/saldana/2025/03/05/domestic-workers-bill-of-rights-passes-senate/#:~:text=Senate%20Bill%205023</guid>
+		</item>
+		<item>
+			<title>Senado aprueba propuesta de ley sobre derechos laborales de personas trabajadoras del hogar - Sen. Rebecca Saldaña</title>
+			<description>News article "Senado aprueba propuesta de ley sobre derechos laborales de personas trabajadoras del hogar - Sen. Rebecca Saldaña" from Senate Democrats.</description>
+			<pubDate>Wed, 05 Mar 2025 23:01:27 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/saldana/2025/03/05/senado-aprueba-propuesta-de-ley-sobre-derechos-laborales-de-personas-trabajadoras-del-hogar/#:~:text=La%20propuesta%20de%20ley%20del%20Senado%205023</guid>
+		</item>
+		<item>
+			<title>Domestic workers rights bill passes Washington State Senate – KIRO 7 News Seattle</title>
+			<description>News article "Domestic workers rights bill passes Washington State Senate – KIRO 7 News Seattle" from KIRO7.</description>
+			<pubDate>Thu, 06 Mar 2025 00:22:30 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kiro7.com/news/local/domestic-workers-rights-bill-passes-washington-state-senate/NQW2BWHQGZGRTGLCSGSIE47WJU/#:~:text=Senate%20Bill%205023</guid>
 		</item>
 	</channel>
 </rss>

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching floor cutoff - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/03/06/approaching-floor-cutoff/#:~:text=5414)
+
 ## Meetings
 ### Tue 02/04 01:30 PM - State Government & Elections (SGE): SB 5414 Social equity impact/audits
 #### 6 👍 - Pro
