@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/07/2025 [The Center Square](/org/the_center_square/) - [Moses Lake School Board comes out against state bills it says erode parents' rights | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a33e7fea-fb76-11ef-8bed-cf5cea5646c8.html#:~:text=Senate%20Bill%205181)
 * 03/04/2025 [Washington State Standard](/org/washington_state_standard/) - [Voters could get final say on changes to Washington’s parental ‘bill of rights' • Washington State Standard](https://washingtonstatestandard.com/briefs/voters-could-get-final-say-on-changes-to-washingtons-parental-bill-of-right/#:~:text=Senate%20Bill%205181)
 * 03/04/2025 [The Center Square](/org/the_center_square/) - [New initiative aims to protect WA parents’ bill of rights from legislative rewrite | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f2e0ba8e-f934-11ef-a24a-6b870e3d5bbc.html#:~:text=Engrossed%20Substitute%20Senate%20Bill%205181)
 * 03/04/2025 [MyNorthwest](/org/mynorthwest/) - [Jumping the gun? Millionaire initiative backer moves to repeal law that doesn't yet exist](https://mynorthwest.com/mynorthwest-politics/jumping-the-gun-millionaire-initiative-backer-moves-to-repeal-law-that-doesnt-yet-exist/4057056#:~:text=Engrossed%20Substitute%20Senate%20Bill%205181)

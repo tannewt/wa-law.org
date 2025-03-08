@@ -20,12 +20,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165318&caId=26309&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165318&caId=26309&tId=4)
 
-#### 2 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Calista Brady
 * Ashiana Ranjan
+* 💵Kirsten Gregory - [Pasado's Safe Haven](/org/pasado's_safe_haven/)
+* Nathaniel Block
+* Sarah Hock - Joint Animal Services / Washington Federation of Animal Care & Control Agencies
+* 💵Tricia Gullion - Washington State Gambling Commission
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Jodie Olmos - American Federation of Aviculture
+* Debbie Goodrich - Flight Club Foundation
 
 #### 0 ❓ - Other
 

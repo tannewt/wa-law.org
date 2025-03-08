@@ -18,10 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165360&caId=26305&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165360&caId=26305&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Ashiana Ranjan
 * Calista Brady
+* Alison Bradywood - Washington State Board of Nursing
+* Vicki McNealley - [Washington Health Care Association](/org/washington_health_care_association/)
 
 #### 0 👎 - Con
 

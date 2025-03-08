@@ -19,8 +19,9 @@
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
-### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍2  
 * 👍 Zack Zappone
+* 👍 Council Member Zack Zappone
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 * 👍 Marlene Feist

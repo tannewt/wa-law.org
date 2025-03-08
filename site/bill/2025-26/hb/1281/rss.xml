@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1281/</link>
 		<description>Updates about HB 1281</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 05 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -86,6 +86,13 @@
 			<pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-05/Third reading, passed; yeas, 97; nays, 0; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-07/First reading, referred to Law &amp; Justice.</guid>
 		</item>
 	</channel>
 </rss>

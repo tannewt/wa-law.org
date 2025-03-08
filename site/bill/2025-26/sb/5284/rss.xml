@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5284/</link>
 		<description>Updates about SB 5284</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 05 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sat, 08 Mar 2025 00:55:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -558,6 +558,41 @@
 			<pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-05/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>2nd substitute bill substituted.</title>
+			<description>2nd substitute bill substituted.</description>
+			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-07/2nd substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 27; nays, 22; absent, 0; excused, 0.</title>
+			<description>Third reading, passed; yeas, 27; nays, 22; absent, 0; excused, 0.</description>
+			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-07/Third reading, passed; yeas, 27; nays, 22; absent, 0; excused, 0.</guid>
+		</item>
+		<item>
+			<title>Senate approves plan to modernize state’s recycling system - Washington Senate Democrats</title>
+			<description>News article "Senate approves plan to modernize state’s recycling system - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Fri, 07 Mar 2025 21:57:32 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2025/03/07/senate-approves-plan-to-modernize-states-recycling-system/#:~:text=progress%20here</guid>
+		</item>
+		<item>
+			<title>Senate approves plan to modernize state’s recycling system - Sen. Liz Lovelett</title>
+			<description>News article "Senate approves plan to modernize state’s recycling system - Sen. Liz Lovelett" from Senate Democrats.</description>
+			<pubDate>Fri, 07 Mar 2025 21:57:32 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/lovelett/2025/03/07/senate-approves-plan-to-modernize-states-recycling-system/#:~:text=progress%20here</guid>
+		</item>
+		<item>
+			<title>Recycling system overhaul bill clears Washington Senate • Washington State Standard</title>
+			<description>News article "Recycling system overhaul bill clears Washington Senate • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Sat, 08 Mar 2025 00:55:59 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/03/07/recycling-system-overhaul-bill-clears-washington-senate/#:~:text=Senate%20Bill%205284</guid>
 		</item>
 	</channel>
 </rss>

@@ -7,7 +7,8 @@
 ### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry  👎1 
 * 👎 Jeff Gombosky
 
-### [HB 1720](/bill/2025-26/hb/1720/) - Community care/Rx assistance 👍1  
+### [HB 1720](/bill/2025-26/hb/1720/) - Community care/Rx assistance 👍2  
+* 👍 Vicki McNealley
 * 👍 Vicki McNealley
 
 ### [HB 1926](/bill/2025-26/hb/1926/) - Home care aides 👍1  

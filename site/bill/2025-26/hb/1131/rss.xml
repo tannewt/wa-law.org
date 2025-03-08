@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1131/</link>
 		<description>Updates about HB 1131</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -179,6 +179,20 @@
 			<pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-04/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>2nd substitute bill substituted.</title>
+			<description>2nd substitute bill substituted.</description>
+			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-07/2nd substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 53; nays, 44; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 53; nays, 44; absent, 0; excused, 1.</description>
+			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-07/Third reading, passed; yeas, 53; nays, 44; absent, 0; excused, 1.</guid>
 		</item>
 	</channel>
 </rss>

@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Thu 03/06 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1508 Ecosystem services
-#### 12 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 * Calista Brady
@@ -20,8 +20,10 @@ Testifying:
 * 💵Heath Heikkila - American Forest Resource Council
 * Maria Boyko
 * Andrew Lu - Lake Washington High School
+* Jett Running
+* Jonah Synn
 
-#### 890 👎 - Con
+#### 933 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * Mariska Kecskes - [Sierra Club](/org/sierra_club/)

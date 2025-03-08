@@ -7,8 +7,12 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/08/2025 [Washington State Standard](/org/washington_state_standard/) - [Recycling system overhaul bill clears Washington Senate • Washington State Standard](https://washingtonstatestandard.com/2025/03/07/recycling-system-overhaul-bill-clears-washington-senate/#:~:text=Senate%20Bill%205284)
+* 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Senate approves plan to modernize state’s recycling system - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/07/senate-approves-plan-to-modernize-states-recycling-system/#:~:text=progress%20here)
+* 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Senate approves plan to modernize state’s recycling system - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/03/07/senate-approves-plan-to-modernize-states-recycling-system/#:~:text=progress%20here)
 * 02/26/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington legislators debate bills to boost recycling • Washington State Standard](https://washingtonstatestandard.com/2025/02/26/washington-legislators-debate-bills-to-boost-recycling/#:~:text=Senate%20Bill%205284)
 * 02/10/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [2025 Quaker Voice Priority Bill Tracker — Quaker Voice](https://www.quakervoicewa.org/2025-quaker-voice-priority-bills/#:~:text=SB%205284)
 * 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: Back at the capitol for the 2025 session - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/02/03/lizs-loveletter-back-at-the-capitol-for-the-2025-session/#:~:text=SB%205284):)

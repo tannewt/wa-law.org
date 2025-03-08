@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1167/</link>
 		<description>Updates about HB 1167</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 05 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -133,6 +133,13 @@
 			<pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-05/Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Early Learning &amp; K-12 Education.</title>
+			<description>First reading, referred to Early Learning &amp; K-12 Education.</description>
+			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-07/First reading, referred to Early Learning &amp; K-12 Education.</guid>
 		</item>
 	</channel>
 </rss>

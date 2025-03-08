@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1190/</link>
 		<description>Updates about HB 1190</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Mar 2025 03:58:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,7 +30,7 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Health Care &amp; Wellness.</guid>
 		</item>
 		<item>
-			<title>👍Chloe Stanage - I Did The Time/ Revive Center For Returning Citizens</title>
+			<title>👍Chloe Stanage - University of Washington, HEALWA</title>
 			<description>Chloe Stanage signed up to testify Pro.</description>
 			<pubDate>Tue, 21 Jan 2025 03:58:36 GMT</pubDate>
 			<category>testifier</category>
@@ -116,6 +116,14 @@
 			<pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-31/First reading, referred to Health &amp; Long-Term Care.</guid>
+		</item>
+		<item>
+			<title>👍Tania Bardyn - University of Washington, HEALWA</title>
+			<description>Tania Bardyn signed up to testify Pro. They are signed up to represent University of Washington, HEALWA.</description>
+			<pubDate>Thu, 06 Mar 2025 03:58:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tania/Bardyn/2025-03-06 03:58:35</guid>
 		</item>
 	</channel>
 </rss>

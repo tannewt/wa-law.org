@@ -6,8 +6,11 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Senate approves bill making striking workers eligible for unemployment insurance - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/03/07/senate-approves-bill-making-striking-workers-eligible-for-unemployment-insurance/#:~:text=Senate%20Bill%205041)
+* 03/07/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Senate approves unemployment benefits for striking workers • Washington State Standard](https://washingtonstatestandard.com/2025/03/07/unemployment-benefits-for-striking-workers-gain-approval-from-washington-senate/#:~:text=Senate%20Bill%205041)
 * 02/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Reaction to Gov. Ferguson's budget plan & victory on wood stoves - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-looking-ahead-week-eight-april-3-7/#:~:text=SB%205041)
 * 02/03/2025 [The Stranger](/org/the_stranger/) - [Shaun Scott’s Radical Agenda Arrives in Olympia - The Stranger](https://www.thestranger.com/news/2025/02/03/79904473/shaun-scotts-radical-agenda-arrives-in-olympia#:~:text=SB%205041)
 * 01/22/2025 [KING5](/org/king5/) - [WA lawmakers to consider bill that grants unemployment to workers on strike | king5.com](https://www.king5.com/article/news/politics/state-politics/unemployment-benefits-striking-workers-olympia/281-0d4b107e-3a0e-4555-ab83-44b29793ee77#:~:text=SB%205041)

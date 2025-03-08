@@ -203,7 +203,7 @@
 
 ### [HB 2019](/bill/2025-26/hb/2019/) - Estate tax 👍1  
 
-### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. allocation 👍1  
+### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. vehicles 👍1  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 

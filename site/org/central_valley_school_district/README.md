@@ -4,7 +4,7 @@
 ### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍1  
 * 👍 John Parker
 
-### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. allocation 👍1  
+### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. vehicles 👍1  
 
 ### [SB 5120](/bill/2025-26/sb/5120/) - Learning assistance program 👍1  
 

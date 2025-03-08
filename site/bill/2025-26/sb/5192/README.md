@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [SAVE THE DATE: Town halls March 22 - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2025/03/07/save-the-date-in-person-town-halls-march-22/#:~:text=The%20bill)
+* 03/07/2025 [KING5](/org/king5/) - [Despite potential cuts, bills to increase Washington school funding progress | king5.com](https://www.king5.com/article/news/local/despite-potential-cuts-bills-increase-washington-school-funding-progress/281-7ea4dccf-486e-4be2-8f2a-2d1e33b7ef33#:~:text=Senate%20Bill%205192)
 * 03/06/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Nobles bill advocating for stronger school funding - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/06/senate-passes-nobles-bill-advocating-for-stronger-school-funding/#:~:text=Senate%20Bill%205192)
 * 03/06/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Nobles bill advocating for stronger school funding - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/06/senate-passes-nobles-bill-advocating-for-stronger-school-funding/#:~:text=Senate%20Bill%205192)
 * 03/06/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA Senate passes increased school funding bill sans accountability amendment | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f7605b20-fad1-11ef-8936-bfec441dc776.html#:~:text=Engrossed%20Substitute%20Senate%20Bill%205192)

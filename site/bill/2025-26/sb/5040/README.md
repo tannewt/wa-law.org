@@ -17,7 +17,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Matthew Lundh - City of Cle Elum
 
 #### 0 ❓ - Other
 

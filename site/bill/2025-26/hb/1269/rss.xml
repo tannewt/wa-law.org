@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1269/</link>
 		<description>Updates about HB 1269</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 05 Mar 2025 05:06:48 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 07 Mar 2025 09:25:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -142,6 +142,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Karen/Strickland/2025-03-05 05:06:48</guid>
+		</item>
+		<item>
+			<title>👍Sam Lax - Pawn 1, Inc</title>
+			<description>Sam Lax signed up to testify Pro. They are signed up to represent Pawn 1, Inc.</description>
+			<pubDate>Fri, 07 Mar 2025 09:25:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sam/Lax/2025-03-07 09:25:26</guid>
 		</item>
 	</channel>
 </rss>

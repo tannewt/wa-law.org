@@ -7,6 +7,10 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
+
+## 📰 Articles
+* 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Orwall bill expanding Foreclosure Fairness Act - Sen. Tina Orwall](https://senatedemocrats.wa.gov/orwall/2025/03/07/senate-passes-orwall-bill-expanding-foreclosure-fairness-act/#:~:text=here)
 
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5686 Foreclosure mediation prg.

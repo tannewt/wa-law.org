@@ -170,7 +170,7 @@
 * 👍💵 Crystal Leatherman
 * 👍💵 Mark Johnson
 
-### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍1  
+### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍2  
 * 👍💵 Mark Johnson
 
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍1  
@@ -184,7 +184,8 @@
 ### [SB 5201](/bill/2025-26/sb/5201/) - Psychedelic substances 👍2  
 * 👍💵 Mark Johnson
 
-### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍1  
+### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍2  
+* 👍💵 Mark Johnson
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓2
 * ❓💵 Mark Johnson

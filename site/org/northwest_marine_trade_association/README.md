@@ -1,7 +1,7 @@
 # Northwest Marine Trade Association
 ## 2025-26
 
-### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍1  
+### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍2  
 
 ### [HB 1758](/bill/2025-26/hb/1758/) - Aquatic land lease inflation 👍2  
 * 👍 Roman Daniels-Brown
@@ -10,7 +10,7 @@
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
-### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍2  
+### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍3  
 * 👍 Roman Daniels-Brown
 
 ### [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  

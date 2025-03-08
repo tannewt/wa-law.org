@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
 * 02/18/2025 [Washington State Standard](/org/washington_state_standard/) - [Push for inspections at Tacoma immigration detention center reemerges in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/02/17/push-for-inspections-at-tacoma-immigration-detention-center-reemerges-in-wa-legislature/#:~:text=House%20Bill%201232)

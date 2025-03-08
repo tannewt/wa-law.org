@@ -36,7 +36,7 @@
 
 ### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍2  
 
-### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍3  
 
 ### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions 👍2  
 

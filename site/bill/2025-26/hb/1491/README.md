@@ -20,6 +20,19 @@
 * 01/22/2025 [The Urbanist](/org/the_urbanist/) - [Washington Legislature Sets it Sights on Transit-Oriented Development…Again - The Urbanist](https://www.theurbanist.org/2025/01/22/washington-legislature-sets-it-sights-on-transit-oriented-development-again/#:~:text=House%20Bill%201491)
 
 ## Meetings
+### Fri 03/14 10:30 AM - Housing (HSG): 3SHB 1491 Transit-oriented housing dev
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165450&caId=26348&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165450&caId=26348&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165450&caId=26348&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165450&caId=26348&tId=4)
+
+#### 6 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/27 09:00 AM - Appropriations (APP): SHB 1491 Transit-oriented housing dev
 #### 555 👍 - Pro
 Testifying:

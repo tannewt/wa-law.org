@@ -8,7 +8,7 @@
 
 ## Meetings
 ### Thu 03/06 08:00 AM - Agriculture and Natural Resources (AGNR): HB 1593 Social equity land trust
-#### 20 👍 - Pro
+#### 26 👍 - Pro
 Testifying:
 * Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
@@ -26,7 +26,7 @@ Testifying:
 * 💵Heath Heikkila - American Forest Resource Council
 * Dhruv Sarnot
 
-#### 898 👎 - Con
+#### 953 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * Lisa Desjardins

@@ -31,9 +31,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=4)
 
-#### 1 👍 - Pro
+#### 45 👍 - Pro
+Testifying:
+* Skylar Bisom-Rapp - Inversion Design Build
+* Council Member Zack Zappone - [City of Spokane](/org/city_of_spokane/)
+* Catie Gould
+* Ty Stober - [City of Vancouver](/org/city_of_vancouver/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

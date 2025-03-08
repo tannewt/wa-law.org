@@ -6,6 +6,8 @@
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍1  
 
+### [HB 1270](/bill/2025-26/hb/1270/) - Deferred comp. by local gov. 👍1  
+
 ### [HB 1299](/bill/2025-26/hb/1299/) - Minimum parking requirements 👍1  
 * 👍 Ty Stober
 
@@ -15,7 +17,8 @@
 
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 
-### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍2  
+* 👍 Ty Stober
 * 👍 Ty Stober
 
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍2  

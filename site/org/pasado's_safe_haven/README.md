@@ -1,14 +1,15 @@
 # Pasado's Safe Haven
 ## 2025-26
 
-### [HB 1046](/bill/2025-26/hb/1046/) - Motor vehicle damage/rescue 👍1  
+### [HB 1046](/bill/2025-26/hb/1046/) - Motor vehicle damage/rescue 👍2  
 
 ### [HB 1078](/bill/2025-26/hb/1078/) - Pet insurance 👍1  
 
 ### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal   ❓2
 * ❓💵 Kirsten Gregory
 
-### [HB 1149](/bill/2025-26/hb/1149/) - Cruelty to animals 👍2  
+### [HB 1149](/bill/2025-26/hb/1149/) - Cruelty to animals 👍4  
+* 👍💵 Kirsten Gregory
 * 👍💵 Kirsten Gregory
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  

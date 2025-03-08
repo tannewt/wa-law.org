@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1508/</link>
 		<description>Updates about HB 1508</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 05 Mar 2025 12:28:11 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 06 Mar 2025 12:24:45 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -157,6 +157,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-05 12:28:11</guid>
+		</item>
+		<item>
+			<title>👍Jett Running - Lake Washington High School</title>
+			<description>Jett Running signed up to testify Pro.</description>
+			<pubDate>Thu, 06 Mar 2025 12:24:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jett/Running/2025-03-06 12:24:45</guid>
+		</item>
+		<item>
+			<title>👍Jonah Synn - Lake Washington High School</title>
+			<description>Jonah Synn signed up to testify Pro.</description>
+			<pubDate>Thu, 06 Mar 2025 12:24:45 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jonah/Synn/2025-03-06 12:24:45</guid>
 		</item>
 	</channel>
 </rss>

@@ -28,11 +28,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165392&caId=26271&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165392&caId=26271&tId=4)
 
-#### 2 👍 - Pro
+#### 65 👍 - Pro
+Testifying:
+* Colleen Kinerk - Heal Our Church / Clergy Accountability Coalition
+* Mary Dispenza - Survivors of those Abused by Priests (SNAP) / Clergy Accountability Coalition
+* Sharon Huling - Clergy Accountability Coalition
+* Alex Ashley
+* Mitch Melin - Clergy Accountability Coalition - Former Jehovah's Witness
+* Reverend Juli Prentice
+* Tim Law - Catholic Accountability Project and Clergy Accountability Coalition
 
-#### 0 👎 - Con
+#### 34 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 01/28 01:30 PM - Human Services (HS): SB 5375 Clergy, duty to report abuse
 #### 184 👍 - Pro
