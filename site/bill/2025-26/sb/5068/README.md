@@ -17,11 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165327&caId=26264&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165327&caId=26264&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Christina Miyamasu - King County Prosecuting Attorney's Office
 
-#### 0 👎 - Con
+#### 935 👎 - Con
+Testifying:
+* Randy Welch
+* TaraLyn Fray
+* Sandra Mochizuki
 
 #### 0 ❓ - Other
 

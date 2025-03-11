@@ -10,7 +10,8 @@
 
 ### [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
 
-### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍1  
+### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍2  
+* 👍 Bernard Koontz
 * 👍 Bernard Koontz
 
 ## [SB 5596](/bill/2025-26/sb/5596/) - Interstate teacher compact 👍1  

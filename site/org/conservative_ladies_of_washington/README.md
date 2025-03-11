@@ -100,7 +100,9 @@
 
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving 👍1  
 
-### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility  👎1 
+### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility  👎2 
+
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration  👎1 
 
 ### [SB 5080](/bill/2025-26/sb/5080/) - Financial education  👎2 
 * 👎 Jeannie Magdua
@@ -127,7 +129,7 @@
 
 ### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding  👎3 
 
-### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education  👎4 
+### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education  👎5 
 * 👎 Joy Gjersvold
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - School district materials  👎5 

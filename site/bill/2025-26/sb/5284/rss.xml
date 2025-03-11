@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5284/</link>
 		<description>Updates about SB 5284</description>
 		<language>en-US</language>
-		<lastBuildDate>Sat, 08 Mar 2025 00:55:59 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 09 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -593,6 +593,13 @@
 			<pubDate>Sat, 08 Mar 2025 00:55:59 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/03/07/recycling-system-overhaul-bill-clears-washington-senate/#:~:text=Senate%20Bill%205284</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Environment &amp; Energy.</title>
+			<description>First reading, referred to Environment &amp; Energy.</description>
+			<pubDate>Sun, 09 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-09/First reading, referred to Environment &amp; Energy.</guid>
 		</item>
 	</channel>
 </rss>

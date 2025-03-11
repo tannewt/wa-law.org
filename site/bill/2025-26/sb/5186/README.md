@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/10/2025 [Senate Democrats](/org/senate_democrats/) - [Halfway there - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/03/10/halfway-there/#:~:text=5186)
+* 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=2SSB%205186)
+* 03/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Good and bad bills still alive and moving forward - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=SB%205186:)
 * 03/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 8: Big 3 Reduced to Big 2 - Amounts Also Reduced - WSPTA](https://www.wastatepta.org/week-8-big-3-reduced-to-big-2-amounts-also-reduced/#:~:text=SSB%205186)
 * 02/25/2025 [Senate Democrats](/org/senate_democrats/) - [Working to support you - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/02/25/working-to-support-you/#:~:text=SB%205186)
 * 02/24/2025 [The Center Square](/org/the_center_square/) - [Bill to make school bond approval easier in Washington state gains momentum | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_287225e0-f307-11ef-a07a-d7b1edb667ab.html#:~:text=Senate%20Bill%205186)

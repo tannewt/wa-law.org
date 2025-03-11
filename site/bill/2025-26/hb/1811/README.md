@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/04/2025 [House Democrats](/org/house_democrats/) - [Strengthening Behavioral Health Crisis Response – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/04/strengthening-behavioral-health-crisis-response/#:~:text=House%20Bill%201811)
 * 02/10/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 5 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/10/the-house-hot-sheet-for-week-5-of-the-2025-legislative-session/#:~:text=HB%201811)
 
 ## Meetings

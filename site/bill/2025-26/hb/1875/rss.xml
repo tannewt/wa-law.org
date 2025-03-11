@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1875/</link>
 		<description>Updates about HB 1875</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Mar 2025 16:16:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -183,11 +183,25 @@
 			<guid isPermaLink="false">2025-03-06/Third reading, passed; yeas, 58; nays, 39; absent, 0; excused, 1.</guid>
 		</item>
 		<item>
+			<title>Workers Could Soon Use Paid Sick Leave for Immigration Proceedings – Washington State House Democrats</title>
+			<description>News article "Workers Could Soon Use Paid Sick Leave for Immigration Proceedings – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/03/06/workers-could-soon-use-paid-sick-leave-for-immigration-proceedings/#:~:text=House%20Bill%201875</guid>
+		</item>
+		<item>
 			<title>WA lawmakers advance bill allowing paid sick leave for immigration proceedings | Washington | thecentersquare.com</title>
 			<description>News article "WA lawmakers advance bill allowing paid sick leave for immigration proceedings | Washington | thecentersquare.com" from The Center Square.</description>
 			<pubDate>Fri, 07 Mar 2025 16:16:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_7388cffc-fb9f-11ef-95f6-6725474250a6.html#:~:text=Engrossed%20Substitute%20House%20Bill%201875</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Commerce.</title>
+			<description>First reading, referred to Labor &amp; Commerce.</description>
+			<pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-10/First reading, referred to Labor &amp; Commerce.</guid>
 		</item>
 	</channel>
 </rss>

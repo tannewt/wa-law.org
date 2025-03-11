@@ -18,11 +18,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165375&caId=26287&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165375&caId=26287&tId=4)
 
-#### 5 👍 - Pro
+#### 87 👍 - Pro
+Testifying:
+* 💵Bryce Yadon - Disability Rights WA
+* John Lemus - AtWork!
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Emilie Robertson - Arch of wa
+* Mike Ennis - Building Industry Association of Washington (BIAW), Washington Trucking Associations (WTA)
 
 ### Tue 02/04 10:30 AM - Labor & Commerce (LC): SB 5501 Employee driving requirement
 #### 182 👍 - Pro

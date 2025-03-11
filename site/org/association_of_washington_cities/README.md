@@ -252,12 +252,16 @@
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
+### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement   ❓1
+* ❓💵 Candice Bock
+
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system   ❓1
 * ❓💵 Candice Bock
 
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍2  
 
-### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel  👎1 
+### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel  👎2 
+* 👎💵 Candice Bock
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
 * 👎💵 Candice Bock
@@ -278,7 +282,8 @@
 * 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
-### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans   ❓2
+### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans   ❓3
+* ❓💵 Candice Bock
 * ❓💵 Candice Bock
 * ❓💵 Candice Bock
 

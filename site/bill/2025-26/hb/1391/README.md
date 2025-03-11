@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## 📰 Articles
+* 03/05/2025 [House Democrats](/org/house_democrats/) - [Rep. Cortes: ‘Standardize Juvenile Diversion Programs, Cut Recidivism Rates’ – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/05/rep-cortes-standardize-juvenile-diversion-programs-cut-recidivism-rates/#:~:text=House%20Bill%201391)
+
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1391 Court alternatives/youth
 #### 41 👍 - Pro

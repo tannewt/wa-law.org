@@ -49,6 +49,8 @@
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
 
+### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍1  
+
 ### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎1 
 
 ### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍2  
@@ -58,6 +60,8 @@
 * 👍 Neal Black
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
+
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓1
 
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
 
@@ -69,7 +73,7 @@
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
 
-### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍2  
 
 ### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees  👎1 
 

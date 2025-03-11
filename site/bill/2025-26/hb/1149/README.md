@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165318&caId=26309&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165318&caId=26309&tId=4)
 
-#### 12 👍 - Pro
+#### 30 👍 - Pro
 Testifying:
 * Calista Brady
 * Ashiana Ranjan
@@ -29,7 +29,7 @@ Testifying:
 * Sarah Hock - Joint Animal Services / Washington Federation of Animal Care & Control Agencies
 * 💵Tricia Gullion - Washington State Gambling Commission
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Jodie Olmos - American Federation of Aviculture
 * Debbie Goodrich - Flight Club Foundation

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 02/18/2025 [House Democrats](/org/house_democrats/) - [Rep. Lisa Parshley: Give workers a voice on new technologies being introduced in their workspaces – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/18/rep-lisa-parshley-give-workers-a-voice-on-new-technologies-being-introduced-in-their-workspaces/#:~:text=House%20Bill%201622)

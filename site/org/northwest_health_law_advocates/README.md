@@ -42,7 +42,9 @@
 * 👍💵 Emily Brice
 * 👍💵 Emily Brice
 
-### [SB 5084](/bill/2025-26/sb/5084/) - Health carrier reporting 👍1  
+### [SB 5084](/bill/2025-26/sb/5084/) - Health carrier reporting 👍2  
+
+### [SB 5128](/bill/2025-26/sb/5128/) - Juvenile detention, medical 👍1  
 
 ### [SB 5258](/bill/2025-26/sb/5258/) - Medicaid concurrent enroll.  👎1 
 * 👎💵 Vanessa Saavedra
@@ -73,7 +75,7 @@
 ### [SB 5561](/bill/2025-26/sb/5561/) - Health care entity registry 👍1  
 * 👍💵 Emily Brice
 
-### [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍1  
+### [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍2  
 * 👍💵 Emily Brice
 
 ### [SB 5651](/bill/2025-26/sb/5651/) - Garnishment exemptions 👍1  

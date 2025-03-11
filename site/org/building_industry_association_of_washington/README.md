@@ -59,7 +59,7 @@
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth  👎1 
 * 👎💵 Jan Himebaugh
 
-### [HB 1353](/bill/2025-26/hb/1353/) - ADU self-certification 👍1  
+### [HB 1353](/bill/2025-26/hb/1353/) - ADU self-certification 👍2  
 * 👍💵 Andrea Smiley
 
 ### [HB 1356](/bill/2025-26/hb/1356/) - K-12 funding  👎1 
@@ -212,7 +212,7 @@
 
 ### [SB 5463](/bill/2025-26/sb/5463/) - Industrial insurance/duties  👎1 
 
-### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint  👎2 
+### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint 👍1 👎2 
 * 👎💵 Andrea Smiley
 * 👎💵 Andrea Smiley
 

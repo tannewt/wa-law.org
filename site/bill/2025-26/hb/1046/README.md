@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165316&caId=26307&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165316&caId=26307&tId=4)
 
-#### 7 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* Cat Kelly - [Animal Legal Defense Fund](/org/animal_legal_defense_fund/)
+* Amanda Fox - Animal Rights Initiative
 
 #### 0 👎 - Con
 

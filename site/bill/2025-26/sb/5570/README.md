@@ -19,13 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165468&caId=26336&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165468&caId=26336&tId=4)
 
-#### 2 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Henry Strom - Office of Superintendent of Public Instruction
+* Bernard Koontz - [Highline Public Schools](/org/highline_public_schools/)
+* Kristen Jensen - Instructional Coach Bellingham School District, Elementary Level
+* Karen Condon - Confederated Tribes of the Colville Reservation
 
-#### 1 👎 - Con
+#### 414 👎 - Con
 Testifying:
 * John Axtell
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

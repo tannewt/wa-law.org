@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/06/2025 [House Democrats](/org/house_democrats/) - [Timmons Bill to Enhance Public Transit Governing Bodies Passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/06/timmons-bill-to-enhance-public-transit-governing-bodies-passes-house/#:~:text=House%20Bill%201418)
 * 01/27/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 3 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/01/27/the-house-hot-sheet-for-week-3-of-the-2025-legislative-session/#:~:text=HB%201418)
 
 ## Meetings

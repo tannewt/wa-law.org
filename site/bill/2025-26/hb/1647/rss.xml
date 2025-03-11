@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1647/</link>
 		<description>Updates about HB 1647</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 06 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -97,6 +97,13 @@
 			<pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-06/Third reading, passed; yeas, 55; nays, 42; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Agriculture &amp; Natural Resources.</title>
+			<description>First reading, referred to Agriculture &amp; Natural Resources.</description>
+			<pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-10/First reading, referred to Agriculture &amp; Natural Resources.</guid>
 		</item>
 	</channel>
 </rss>

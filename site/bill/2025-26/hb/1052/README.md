@@ -21,15 +21,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165320&caId=26311&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165320&caId=26311&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Yessenia Manzo - King County Prosecuting Attorney's Office
 * Ariel Novick - Anti-Defamation League
 
-#### 3 👎 - Con
+#### 964 👎 - Con
 Testifying:
 * Laurie Layne
 * Gregor Doerr - Washington State Young Republicans
+* Randy Welch
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

@@ -4,12 +4,14 @@
 ### [HB 1297](/bill/2025-26/hb/1297/) - Child support/self-employed   ❓1
 * ❓💵 Brooke Davies
 
-## [HB 1874](/bill/2025-26/hb/1874/) - Textured hair training 👍1  
+## [HB 1874](/bill/2025-26/hb/1874/) - Textured hair training 👍2  
+* 👍💵 Brooke Davies
 * 👍💵 Brooke Davies
 
 ## 2023-24
 
-### [HB 1874](/bill/2023-24/hb/1874/) - Textured hair training 👍1  
+### [HB 1874](/bill/2023-24/hb/1874/) - Textured hair training 👍2  
+* 👍💵 Brooke Davies
 * 👍💵 Brooke Davies
 
 ### [HB 1017](/bill/2023-24/hb/1017/) - Cosmetologists, etc/licenses 👍1  

@@ -9,6 +9,7 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/10/2025 [Washington State Standard](/org/washington_state_standard/) - [Debate heats up over Ferguson’s request for $100M to hire more police in Washington • Washington State Standard](https://washingtonstatestandard.com/2025/03/10/debate-heats-up-over-fergusons-request-for-100m-to-hire-more-police-in-washington/#:~:text=Senate%20Bill%205060)
 * 02/19/2025 [Senate Democrats](/org/senate_democrats/) - [Liias co-sponsors bills to reduce impaired driving, increase law enforcement - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/2025/02/19/liias-co-sponsors-bills-to-reduce-impaired-driving-increase-law-enforcement/#:~:text=Senate%20Bill%205060)
 * 01/21/2025 [FOX13](/org/fox13/) - [Legislators consider police hiring grant program  | FOX 13 Seattle](https://www.fox13seattle.com/news/police-funding-bill-wa-constitution#:~:text=Senate%20Bill%205060)
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205060)

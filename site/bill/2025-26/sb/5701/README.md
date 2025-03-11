@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 03/11/2025 [The Center Square](/org/the_center_square/) - [Senate passes bill expanding records access for prevailing wage enforcement | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b5aa4984-fe3c-11ef-924a-3b965b740821.html#:~:text=Engrossed%20Senate%20Substitute%20Bill%205701)
+
 ## Meetings
 ### Tue 02/11 10:30 AM - Labor & Commerce (LC): SB 5701 Joint labor manage. records
 #### 64 👍 - Pro

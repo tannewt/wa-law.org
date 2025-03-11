@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Good and bad bills still alive and moving forward - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=Senate%20Bill%205041:)
 * 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Senate approves bill making striking workers eligible for unemployment insurance - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/03/07/senate-approves-bill-making-striking-workers-eligible-for-unemployment-insurance/#:~:text=Senate%20Bill%205041)
 * 03/07/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Senate approves unemployment benefits for striking workers • Washington State Standard](https://washingtonstatestandard.com/2025/03/07/unemployment-benefits-for-striking-workers-gain-approval-from-washington-senate/#:~:text=Senate%20Bill%205041)
 * 02/27/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Reaction to Gov. Ferguson's budget plan & victory on wood stoves - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-looking-ahead-week-eight-april-3-7/#:~:text=SB%205041)

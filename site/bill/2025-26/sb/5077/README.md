@@ -22,11 +22,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165369&caId=26291&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165369&caId=26291&tId=4)
 
-#### 174 👍 - Pro
+#### 340 👍 - Pro
 
-#### 1 👎 - Con
+#### 483 👎 - Con
 Testifying:
 * Gregor Doerr - Washington State Young Republicans
+* Laurie Layne
 
 #### 0 ❓ - Other
 

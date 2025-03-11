@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1696/</link>
 		<description>Updates about HB 1696</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Mar 2025 18:20:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -211,11 +211,25 @@
 			<guid isPermaLink="false">2025-03-06/Third reading, passed; yeas, 57; nays, 39; absent, 0; excused, 2.</guid>
 		</item>
 		<item>
+			<title>More Washingtonians could become first-time homebuyers with Taylor bill – Washington State House Democrats</title>
+			<description>News article "More Washingtonians could become first-time homebuyers with Taylor bill – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/03/07/more-washingtonians-could-become-first-time-homebuyers-with-taylor-bill/#:~:text=HB%201696</guid>
+		</item>
+		<item>
 			<title>House passes bill to expand eligibility for program to remedy housing discrimination | Washington | thecentersquare.com</title>
 			<description>News article "House passes bill to expand eligibility for program to remedy housing discrimination | Washington | thecentersquare.com" from The Center Square.</description>
 			<pubDate>Fri, 07 Mar 2025 18:20:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_4c509eec-fba4-11ef-a72a-0b2f81a5bc8e.html#:~:text=Second%20Substitute%20House%20Bill%201696</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Housing.</title>
+			<description>First reading, referred to Housing.</description>
+			<pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-10/First reading, referred to Housing.</guid>
 		</item>
 	</channel>
 </rss>

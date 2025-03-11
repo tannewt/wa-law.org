@@ -41,6 +41,8 @@
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
+### [SB 5128](/bill/2025-26/sb/5128/) - Juvenile detention, medical 👍1  
+
 ### [SB 5149](/bill/2025-26/sb/5149/) - Early childhood court prg. 👍2  
 * 👍 Morgan Silverman
 

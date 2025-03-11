@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=SB%205737)
+
 ## Meetings
 ### Thu 03/13 04:00 PM - Ways & Means (WM): SB 5737 National board bonuses
 Sign up to testify:
@@ -14,11 +17,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165464&caId=26345&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165464&caId=26345&tId=4)
 
-#### 0 👍 - Pro
+#### 37 👍 - Pro
 
-#### 7 👎 - Con
+#### 1600 👎 - Con
 Testifying:
 * 💵Melissa Gombosky - Evergreen and Vancouver School Districts
 * Joshua Peterson
+* Derek Sarley - President, WSSDA and Walla Walla Public Schools
+* Jessica Tuatagaloa
+* 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
+* Holly Koon - Mount Baker Education Association
+* Zanovia Clark - Highline Education Association
+* Jon Holmen - Lake Washington School District
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other

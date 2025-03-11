@@ -15,11 +15,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32994&aId=165447&caId=26335&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32994&aId=165447&caId=26335&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
 
-#### 0 👎 - Con
+#### 407 👎 - Con
+Testifying:
+* Randy Welch
+* TaraLyn Fray
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 02/13 08:00 AM - Education (ED): HB 1827 Basic education/juv. justice
 #### 28 👍 - Pro

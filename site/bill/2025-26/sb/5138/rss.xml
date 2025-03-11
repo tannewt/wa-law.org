@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5138/</link>
 		<description>Updates about SB 5138</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 17 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Mar 2025 03:48:10 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -124,6 +124,22 @@
 			<pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-17/First reading, referred to Finance.</guid>
+		</item>
+		<item>
+			<title>👍Eliana Horn - Puget Sound Sage</title>
+			<description>Eliana Horn signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/puget_sound_sage/"&gt;Puget Sound Sage&lt;/a&gt;.</description>
+			<pubDate>Mon, 10 Mar 2025 03:38:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Eliana/Horn/2025-03-10 03:38:03</guid>
+		</item>
+		<item>
+			<title>👍Friendly Vang Johnson - Puget Sound Sage</title>
+			<description>Friendly Vang Johnson signed up to testify Pro.</description>
+			<pubDate>Mon, 10 Mar 2025 03:48:10 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Friendly/Vang Johnson/2025-03-10 03:48:10</guid>
 		</item>
 	</channel>
 </rss>

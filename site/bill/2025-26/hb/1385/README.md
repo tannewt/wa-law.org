@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/05/2025 [House Democrats](/org/house_democrats/) - [Taylor bill to decrease background check turnaround time passes House – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/05/taylor-bill-to-decrease-background-check-turnaround-time-passes-house/#:~:text=House%20bill%201385)
 * 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=HB%201385)
 
 ## Meetings

@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/04/2025 [House Democrats](/org/house_democrats/) - [Rep. Parshley passes bill streamlining collective bargaining negotiations for ferry workers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/04/rep-parshley-passes-bill-streamlining-collective-bargaining-negotiations-for-ferry-workers/#:~:text=HB%201511)
+
 ## Meetings
 ### Tue 01/28 10:30 AM - Labor & Workplace Standards (LAWS): HB 1511 Ferry captains
 #### 16 👍 - Pro

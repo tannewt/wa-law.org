@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=E2SSB%205098)
 * 03/06/2025 [FOX13](/org/fox13/) - [Groups lobby for more gun regulations in WA | FOX 13 Seattle](https://www.fox13seattle.com/news/groups-lobby-gun-regulations-wa#:~:text=Senate%20Bill%205098)
 * 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [Valdez bill to enhance public safety passes Senate  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/05/valdez-bill-to-enhance-public-safety-passes-senate/#:~:text=Senate%20Bill%205098)
 * 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [Valdez bill to enhance public safety passes Senate  - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/03/05/valdez-bill-to-enhance-public-safety-passes-senate/#:~:text=Senate%20Bill%205098)

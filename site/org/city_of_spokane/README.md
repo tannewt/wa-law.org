@@ -29,6 +29,8 @@
 ### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍1  
 * 👍💵 Paul Dillon
 
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
+
 ### [SB 5703](/bill/2025-26/sb/5703/) - Municipal solid waste 👍4  
 * 👍 Mayor Lisa Brown
 * 👍 Mayor Lisa Brown

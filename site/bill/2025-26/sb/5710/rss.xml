@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5710/</link>
 		<description>Updates about SB 5710</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 23 Feb 2025 10:10:23 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 09 Mar 2025 09:28:13 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -61,6 +61,13 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Melinda/Kopa/2025-02-23 10:10:23</guid>
+		</item>
+		<item>
+			<title>Governor: Washington ferry service to be restored to pre-pandemic levels by summer | Cascadia Daily News</title>
+			<description>News article "Governor: Washington ferry service to be restored to pre-pandemic levels by summer | Cascadia Daily News" from Cascadia Daily News.</description>
+			<pubDate>Sun, 09 Mar 2025 09:28:13 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.cascadiadaily.com/2025/mar/09/governor-washington-ferry-service-to-be-restored-to-pre-pandemic-levels-by-summer/#:~:text=to%20one%20such%20bill</guid>
 		</item>
 	</channel>
 </rss>

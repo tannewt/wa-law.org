@@ -10,6 +10,8 @@
 * [Third Substitute](S3/)
 
 ## 📰 Articles
+* 03/10/2025 [KUOW](/org/kuow/) - [KUOW - Bill to allow more housing near bus stops and rail stations progresses in Olympia](https://www.kuow.org/stories/bill-to-allow-more-housing-near-bus-stops-and-rail-stations-progresses-in-olympia#:~:text=House%20Bill%201491)
+* 03/09/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 9: House of origin cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/09/this-week-in-the-senate-week-9-house-of-origin-cutoff-arrives/#:~:text=HB%201491)
 * 02/20/2025 [PubliCola](/org/publicola/) - [Seattle Should Follow State's Lead on Inclusionary Zoning—By Funding It - PubliCola](https://publicola.com/2025/02/20/seattle-should-follow-states-lead-on-inclusionary-zoning-by-funding-it/#:~:text=HB%201491)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201491)
 * 02/10/2025 [PubliCola](/org/publicola/) - [Council's Fight to Scale Back List of Neighborhood Centers is a NIMBY Canard - PubliCola](https://publicola.com/2025/02/10/councils-fight-to-scale-back-list-of-neighborhood-centers-is-a-nimby-canard/#:~:text=HB%201491)
@@ -27,11 +29,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165450&caId=26348&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165450&caId=26348&tId=4)
 
-#### 6 👍 - Pro
+#### 385 👍 - Pro
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Dave Andersen - Washington Department of Commerce
+* Karl Almgren - [City of Lynnwood](/org/city_of_lynnwood/)
 
 ### Thu 02/27 09:00 AM - Appropriations (APP): SHB 1491 Transit-oriented housing dev
 #### 555 👍 - Pro

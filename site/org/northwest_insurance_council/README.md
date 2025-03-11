@@ -5,6 +5,9 @@
 
 ### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface 👍1  
 
+### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍1  
+* 👍💵 Kenton Brine
+
 ### [SB 5695](/bill/2025-26/sb/5695/) - Young driver safety 👍1  
 
 ## [SB 5721](/bill/2025-26/sb/5721/) - Automobile insurance  👎1 

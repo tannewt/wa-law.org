@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=SB%205769)
+
 ## Meetings
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SB 5769 Transition to kindergarten
 #### 62 👍 - Pro

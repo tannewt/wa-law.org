@@ -19,10 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165332&caId=26293&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165332&caId=26293&tId=4)
 
-#### 9 👍 - Pro
+#### 15 👍 - Pro
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
 * Monique Webber - Pacific Yacht Management
+* Roman Daniels-Brown - [Northwest Marine Trade Association](/org/northwest_marine_trade_association/)
+* 💵James Cockburn - [Washington Public Ports Association](/org/washington_public_ports_association/)
 
 #### 0 👎 - Con
 

@@ -17,18 +17,24 @@
 
 ### [SB 5075](/bill/2025-26/sb/5075/) - Prenatal and postnatal care 👍1  
 
+### [SB 5084](/bill/2025-26/sb/5084/) - Health carrier reporting 👍1  
+
 ### [SB 5086](/bill/2025-26/sb/5086/) - PEBB & SEBB consolidation 👍1  
 * 👍 Ronnie Shure
+
+### [SB 5122](/bill/2025-26/sb/5122/) - Uniform antitrust premerger 👍1  
 
 ### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program 👍1  
 
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
 
-## [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  
+### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  
+
+## [SB 5568](/bill/2025-26/sb/5568/) - State health plan 👍1  
 
 ## 2023-24
 
-### [SB 5493](/bill/2023-24/sb/5493/) - Hospital price transparency 👍1  
+### [SB 5568](/bill/2023-24/sb/5568/) - State health plan 👍1  
 
 ### [HB 1269](/bill/2023-24/hb/1269/) - Rx drug affordability board 👍1  
 * 👍 Ronnie Shure

@@ -7,7 +7,8 @@
 ### [HB 1097](/bill/2025-26/hb/1097/) - Extending governmental services beyond the urban growth area in specific circumstances.  👎1 
 * 👎💵 Bryce Yadon
 
-### [HB 1135](/bill/2025-26/hb/1135/) - Local government planning 👍1  
+### [HB 1135](/bill/2025-26/hb/1135/) - Local government planning 👍2  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 
 ### [HB 1164](/bill/2025-26/hb/1164/) - Urban growth area boundaries  👎1 
@@ -48,7 +49,8 @@
 
 ### [HB 1438](/bill/2025-26/hb/1438/) - Housing permit approval  👎1 
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍9  
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍10  
+* 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon
 * 👍💵 Bryce Yadon

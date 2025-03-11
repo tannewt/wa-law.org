@@ -18,11 +18,13 @@
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget   ❓1
 * ❓💵 Melissa Johnson
 
-## [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
+### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
+
+## [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍1  
 
 ## 2023-24
 
-### [SB 5344](/bill/2023-24/sb/5344/) - Essential worker health care 👍1  
+### [SB 5393](/bill/2023-24/sb/5393/) - Yakima & Rainier schools 👍1  
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget   ❓1
 * ❓💵 Melissa Johnson

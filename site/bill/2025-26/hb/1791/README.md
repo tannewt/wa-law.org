@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/06/2025 [House Democrats](/org/house_democrats/) - [Rep. Paul Works to Expand Local Government Flexibility for Affordable Housing – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/06/rep-paul-works-to-expand-local-government-flexibility-for-affordable-housing/#:~:text=House%20Bill%201791)
+
 ## Meetings
 ### Thu 02/13 01:30 PM - Finance (FIN): HB 1791 Local real estate excise tax
 #### 21 👍 - Pro

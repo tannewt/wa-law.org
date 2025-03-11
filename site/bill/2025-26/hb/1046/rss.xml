@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1046/</link>
 		<description>Updates about HB 1046</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 31 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Mar 2025 11:27:01 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -99,6 +99,22 @@
 			<pubDate>Fri, 31 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-31/First reading, referred to Law &amp; Justice.</guid>
+		</item>
+		<item>
+			<title>👍Cat Kelly - Animal Legal Defense Fund</title>
+			<description>Cat Kelly signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/animal_legal_defense_fund/"&gt;Animal Legal Defense Fund&lt;/a&gt;.</description>
+			<pubDate>Mon, 10 Mar 2025 09:24:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cat/Kelly/2025-03-10 09:24:49</guid>
+		</item>
+		<item>
+			<title>👍Amanda Fox - Animal Rights Initiative</title>
+			<description>Amanda Fox signed up to testify Pro. They are signed up to represent Animal Rights Initiative.</description>
+			<pubDate>Mon, 10 Mar 2025 11:27:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Amanda/Fox/2025-03-10 11:27:01</guid>
 		</item>
 	</channel>
 </rss>

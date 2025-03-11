@@ -14,11 +14,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165458&caId=26339&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165458&caId=26339&tId=4)
 
-#### 0 👍 - Pro
+#### 7 👍 - Pro
 
-#### 5 👎 - Con
+#### 492 👎 - Con
 Testifying:
 * Lance Baker
 * Patrick Gilroy - Washington Self Storage Association
+* Patrick Reilly
+* Jacob Bond - GSC Investments
+* Kristi Tripple - Rowley Properties, Inc.
+* Randy Welch
+* Victoria Fox
+* Pat Sievers
+* TaraLyn Fray
+* Ryan Daley
+* Kari Kaltenborn
+* Joe Doherty - Self Storage Association
+* Bill McKay
+* Gary Schneider
+* Sandra Mochizuki
 
 #### 0 ❓ - Other

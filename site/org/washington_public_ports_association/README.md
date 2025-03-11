@@ -115,7 +115,8 @@
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
 * 👍💵 Carly Michiels
 
-### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍1  
+### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍2  
+* 👍💵 James Cockburn
 * 👍💵 James Cockburn
 
 ### [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  

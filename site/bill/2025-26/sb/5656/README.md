@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/10/2025 [Senate Democrats](/org/senate_democrats/) - [Halfway there - Sen. Deborah Krishnadasan](https://senatedemocrats.wa.gov/Krishnadasan/2025/03/10/halfway-there/#:~:text=5656)
+
 ## Meetings
 ### Mon 02/10 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5656 Aquatic lease inflation rate
 #### 17 👍 - Pro

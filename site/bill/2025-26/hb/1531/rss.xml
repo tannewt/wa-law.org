@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1531/</link>
 		<description>Updates about HB 1531</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 06 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -648,6 +648,27 @@
 			<pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-06/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-08/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>WA House Dems pass public health bill touted as 'best science' | Washington | thecentersquare.com</title>
+			<description>News article "WA House Dems pass public health bill touted as 'best science' | Washington | thecentersquare.com" from The Center Square.</description>
+			<pubDate>Mon, 10 Mar 2025 19:09:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_f68a9b5a-fe02-11ef-8b9e-4b5a2aa5e974.html#:~:text=Engrossed%20Substitute%20House%20Bill%201531</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Health &amp; Long-Term Care.</title>
+			<description>First reading, referred to Health &amp; Long-Term Care.</description>
+			<pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-11/First reading, referred to Health &amp; Long-Term Care.</guid>
 		</item>
 	</channel>
 </rss>

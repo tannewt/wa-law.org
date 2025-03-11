@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165451&caId=26349&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165451&caId=26349&tId=4)
 
-#### 1 👍 - Pro
+#### 12 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Naomi Quintana - I am testifying on behalf of communities as a whole
 
 ### Wed 01/29 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1621 Housing court commissioners
 #### 9 👍 - Pro

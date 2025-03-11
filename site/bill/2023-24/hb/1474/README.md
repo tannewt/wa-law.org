@@ -11,6 +11,7 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 03/07/2025 [House Democrats](/org/house_democrats/) - [More Washingtonians could become first-time homebuyers with Taylor bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/07/more-washingtonians-could-become-first-time-homebuyers-with-taylor-bill/#:~:text=HB%201474)
 * 02/12/2025 [The Center Square](/org/the_center_square/) - [Bill would adjust eligibility, add loan forgiveness to housing discrimination remedy | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9e074162-e8eb-11ef-8315-531e743c69af.html#:~:text=House%20Bill%201474)
 * 07/03/2024 [The Center Square](/org/the_center_square/) - [New WA program aims to help first-time homebuyers who faced discrimination | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_776b679a-3978-11ef-b48b-576c01ca2b2b.html#:~:text=House%20Bill%201474)
 * 10/31/2023 [South Seattle Emerald](/org/south_seattle_emerald/) - [‘The Color of Law’: Housing Experts Talk New Book About Segregation Solution and Celebrate Fair Housing Law | South Seattle Emerald](https://southseattleemerald.com/2023/10/31/the-color-of-law-housing-experts-talk-new-book-about-segregation-solution-and-celebrate-fair-housing-law/#:~:text=House%20Bill%201474)

@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## 📰 Articles
+* 03/05/2025 [House Democrats](/org/house_democrats/) - [Equal access to justice: Peterson bill helps courts provide interpreter services – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/05/equal-access-to-justice-peterson-bill-helps-courts-provide-interpreter-services/#:~:text=House%20Bill%201174)
+
 ## Meetings
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1174 Court interpreters
 #### 34 👍 - Pro

@@ -13,6 +13,25 @@
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [What’s happening in Olympia - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/02/04/whats-happening-in-olympia/#:~:text=Senate%20Bill%205085)
 
 ## Meetings
+### Thu 03/13 04:00 PM - Appropriations (APP): SSB 5085 Closed retirement plans
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165474&caId=26355&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165474&caId=26355&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165474&caId=26355&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165474&caId=26355&tId=4)
+
+#### 999 👍 - Pro
+
+#### 10 👎 - Con
+Testifying:
+* Edwin Goodwillie
+* Bradd Reynolds
+* 💵Michael Duchemin - [Retired Firefighters of Washington](/org/retired_firefighters_of_washington/)
+
+#### 11 ❓ - Other
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+
 ### Thu 01/23 04:00 PM - Ways & Means (WM): SB 5085 Closed retirement plans
 #### 1272 👍 - Pro
 Testifying:

@@ -28,7 +28,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165392&caId=26271&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165392&caId=26271&tId=4)
 
-#### 65 👍 - Pro
+#### 127 👍 - Pro
 Testifying:
 * Colleen Kinerk - Heal Our Church / Clergy Accountability Coalition
 * Mary Dispenza - Survivors of those Abused by Priests (SNAP) / Clergy Accountability Coalition
@@ -37,8 +37,17 @@ Testifying:
 * Mitch Melin - Clergy Accountability Coalition - Former Jehovah's Witness
 * Reverend Juli Prentice
 * Tim Law - Catholic Accountability Project and Clergy Accountability Coalition
+* Annelise Orozco - Lake Washington High School
+* Carson Suyetsugu - Lake Washington High School
+* Lily Cheung - Lake Washington High School
+* Kiersten Larson - Clergy Accountability Coalition/JW
+* Sara Young - Clergy Accountability Coalition/JW
+* Angela Taylor
 
-#### 34 👎 - Con
+#### 79 👎 - Con
+Testifying:
+* John Axtell
+* 💵Jean Hill - Washington State Catholic Conference
 
 #### 1 ❓ - Other
 

@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/04/2025 [House Democrats](/org/house_democrats/) - [Nance bill designates bull kelp as Washington state’s official marine forest – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/04/nance-bill-designates-bull-kelp-as-washington-states-official-marine-forest/#:~:text=House%20Bill%201631.)
 * 02/07/2025 [House Democrats](/org/house_democrats/) - [Nance bill: Salmon and orca get help from kelp – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/07/nance-bill-salmon-and-orca-get-help-from-kelp/#:~:text=House%20Bill%201631)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201631)
 * 01/31/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 3-7, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-3-7-2025/#:~:text=HB%201631)

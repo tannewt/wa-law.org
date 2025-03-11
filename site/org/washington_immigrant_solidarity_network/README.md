@@ -31,7 +31,7 @@
 
 ### [HB 1434](/bill/2025-26/hb/1434/) - Eid al-Fitr & Eid al-Adha 👍1  
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍2  
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
 
@@ -53,6 +53,10 @@
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel  👎1 
 
 ### [SB 5066](/bill/2025-26/sb/5066/) - Law enf. misconduct 👍2  
+
+### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍1  
+
+### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
 
 ### [SB 5106](/bill/2025-26/sb/5106/) - Eid al-Fitr & Eid al-Adha 👍1  
 

@@ -98,7 +98,7 @@
 
 ### [HB 1267](/bill/2025-26/hb/1267/) - Special education funding   ❓1
 
-### [HB 1270](/bill/2025-26/hb/1270/) - Deferred comp. by local gov. 👍1  
+### [HB 1270](/bill/2025-26/hb/1270/) - Deferred comp. by local gov. 👍2  
 
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
 
@@ -436,7 +436,7 @@
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍3  
 
-### [SB 5306](/bill/2025-26/sb/5306/) - Pension credit for leave 👍1  
+### [SB 5306](/bill/2025-26/sb/5306/) - Pension credit for leave 👍2  
 
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍2  
 * 👍💵 Larry Delaney
@@ -552,6 +552,9 @@
 ### [SB 5658](/bill/2025-26/sb/5658/) - Workforce education account 👍1  
 
 ### [SB 5666](/bill/2025-26/sb/5666/) - Mental health internships 👍1  
+
+### [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎6 
+* 👎💵 Larry Delaney
 
 ### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
 

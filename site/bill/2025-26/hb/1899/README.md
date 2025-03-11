@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/04/2025 [House Democrats](/org/house_democrats/) - [Rep. Janice Zahn’s First Bill Passes House, Improving Homelessness Data Collection – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/04/rep-janice-zahns-first-bill-passes-house-improving-homelessness-data-collection/#:~:text=House%20Bill%201899)
+
 ## Meetings
 ### Thu 02/13 08:00 AM - Housing (HOUS): HB 1899 Homelessness point-in-time
 #### 7 👍 - Pro

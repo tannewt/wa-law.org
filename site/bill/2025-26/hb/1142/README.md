@@ -20,9 +20,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165355&caId=26304&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165355&caId=26304&tId=4)
 
-#### 1 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Bea Rector - Dept. of Social and Health Services
 
-#### 0 👎 - Con
+#### 413 👎 - Con
+Testifying:
+* George Simms
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

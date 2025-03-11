@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=SB%205780)
+
 ## Meetings
 ### Thu 03/13 04:00 PM - Ways & Means (WM): SB 5780 Student transport. vehicles
 Sign up to testify:
@@ -16,6 +19,8 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 1 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Jon Holmen - Lake Washington School District
 
 #### 0 ❓ - Other

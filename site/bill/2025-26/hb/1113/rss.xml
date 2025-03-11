@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1113/</link>
 		<description>Updates about HB 1113</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 04 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -205,6 +205,27 @@
 			<pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-04/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-08/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>House floor action | Washington State House Republicans</title>
+			<description>News article "House floor action | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Sun, 09 Mar 2025 20:31:35 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201113</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Law &amp; Justice.</title>
+			<description>First reading, referred to Law &amp; Justice.</description>
+			<pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-11/First reading, referred to Law &amp; Justice.</guid>
 		</item>
 	</channel>
 </rss>

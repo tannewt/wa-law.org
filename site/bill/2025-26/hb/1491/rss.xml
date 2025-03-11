@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1491/</link>
 		<description>Updates about HB 1491</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Mar 2025 10:00:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -441,6 +441,44 @@
 			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-07/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>👍💵Bryce Yadon - Futurewise</title>
+			<description>Bryce Yadon signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/futurewise/"&gt;Futurewise&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sat, 08 Mar 2025 10:39:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bryce/Yadon/2025-03-08 10:39:37</guid>
+		</item>
+		<item>
+			<title>This Week In The Senate - Week 9: House of origin cutoff arrives - Washington Senate Democrats</title>
+			<description>News article "This Week In The Senate - Week 9: House of origin cutoff arrives - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Sun, 09 Mar 2025 22:59:25 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2025/03/09/this-week-in-the-senate-week-9-house-of-origin-cutoff-arrives/#:~:text=HB%201491</guid>
+		</item>
+		<item>
+			<title>❓Dave Andersen - Washington Department of Commerce</title>
+			<description>Dave Andersen signed up to testify Other. They are signed up to represent Washington Department of Commerce.</description>
+			<pubDate>Mon, 10 Mar 2025 03:50:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Dave/Andersen/2025-03-10 03:50:31</guid>
+		</item>
+		<item>
+			<title>KUOW - Bill to allow more housing near bus stops and rail stations progresses in Olympia</title>
+			<description>News article "KUOW - Bill to allow more housing near bus stops and rail stations progresses in Olympia" from KUOW.</description>
+			<pubDate>Mon, 10 Mar 2025 09:28:17 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/bill-to-allow-more-housing-near-bus-stops-and-rail-stations-progresses-in-olympia#:~:text=House%20Bill%201491</guid>
+		</item>
+		<item>
+			<title>❓Karl Almgren - City of Lynnwood</title>
+			<description>Karl Almgren signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_lynnwood/"&gt;City of Lynnwood&lt;/a&gt;.</description>
+			<pubDate>Mon, 10 Mar 2025 10:00:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Karl/Almgren/2025-03-10 10:00:49</guid>
 		</item>
 	</channel>
 </rss>

@@ -19,7 +19,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165326&caId=26263&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165326&caId=26263&tId=4)
 
-#### 24 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * Kristen Morgan - Department of Corrections
 

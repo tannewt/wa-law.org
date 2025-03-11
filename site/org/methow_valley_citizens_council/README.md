@@ -1,9 +1,15 @@
 # Methow Valley Citizens Council
 ## 2025-26
 
+### [HB 1135](/bill/2025-26/hb/1135/) - Local government planning 👍1  
+
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
-### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍1  
+### [HB 1302](/bill/2025-26/hb/1302/) - Utility connection charges 👍1  
+
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+
+### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍2  
 
 ### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
 
@@ -14,19 +20,27 @@
 
 ### [HB 1854](/bill/2025-26/hb/1854/) - Rural areas/subdivision 👍1  
 
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
+
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
-### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍1  
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+
+### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍2  
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍3  
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
+
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes 👍1  
 
 ### [SB 5391](/bill/2025-26/sb/5391/) - Sustainable farms grants 👍1  
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
 
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍2  
+
+### [SB 5556](/bill/2025-26/sb/5556/) - Adopt-a-highway program 👍1  
 
 ## [SB 5722](/bill/2025-26/sb/5722/) - Local farming grant program 👍1  
 

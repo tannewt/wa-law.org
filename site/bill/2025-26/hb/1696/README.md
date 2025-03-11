@@ -10,6 +10,7 @@
 
 ## 📰 Articles
 * 03/07/2025 [The Center Square](/org/the_center_square/) - [House passes bill to expand eligibility for program to remedy housing discrimination | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_4c509eec-fba4-11ef-a72a-0b2f81a5bc8e.html#:~:text=Second%20Substitute%20House%20Bill%201696)
+* 03/07/2025 [House Democrats](/org/house_democrats/) - [More Washingtonians could become first-time homebuyers with Taylor bill – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/07/more-washingtonians-could-become-first-time-homebuyers-with-taylor-bill/#:~:text=HB%201696)
 * 02/12/2025 [The Center Square](/org/the_center_square/) - [Bill would adjust eligibility, add loan forgiveness to housing discrimination remedy | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9e074162-e8eb-11ef-8315-531e743c69af.html#:~:text=House%20Bill%201696)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201696)
 * 02/07/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 10 - 14, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-feb-10-14-2025/#:~:text=HB%201696)

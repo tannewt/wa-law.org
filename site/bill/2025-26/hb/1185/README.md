@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/04/2025 [House Democrats](/org/house_democrats/) - [Expanding Representation on the Correctional Industries Advisory Committee – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/04/expanding-representation-on-the-correctional-industries-advisory-committee/#:~:text=House%20Bill%201185)
+
 ## Meetings
 ### Tue 01/28 04:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1185 Correctional industries comm
 #### 351 👍 - Pro

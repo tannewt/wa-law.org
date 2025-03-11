@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/06/2025 [House Democrats](/org/house_democrats/) - [Smart use of existing space: Walen bill to build housing in commercial buildings clears the House. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/06/smart-use-of-existing-space-walen-bill-to-build-housing-in-commercial-buildings-clears-the-house/#:~:text=House%20Bill%201757)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=HB%201757)
 
 ## Meetings
@@ -17,7 +18,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165452&caId=26350&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165452&caId=26350&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 

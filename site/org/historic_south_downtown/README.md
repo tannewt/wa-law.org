@@ -1,13 +1,16 @@
 # Historic South Downtown
 ## 2025-26
 
-## [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍3  
+### [HB 1408](/bill/2025-26/hb/1408/) - Community authority funding 👍3  
 * 👍 Kathleen Barry Johnson
+
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+
+## [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 
 ## 2023-24
 
-### [HB 1408](/bill/2023-24/hb/1408/) - Community authority funding 👍3  
-* 👍 Kathleen Barry Johnson
+### [SB 5595](/bill/2023-24/sb/5595/) - Shared streets 👍1  
 
 ### [HB 1510](/bill/2023-24/hb/1510/) - Community preservation auth. 👍8  
 * 👍 Kathleen Johnson

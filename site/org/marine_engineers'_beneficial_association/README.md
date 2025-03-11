@@ -5,7 +5,11 @@
 
 ### [HB 1043](/bill/2025-26/hb/1043/) - Commute trip reduction 👍1  
 
+### [HB 1054](/bill/2025-26/hb/1054/) - County ferry contracts 👍1  
+
 ### [HB 1068](/bill/2025-26/hb/1068/) - DOC WMS employee arbitration 👍1  
+
+### [HB 1069](/bill/2025-26/hb/1069/) - Supp. retirement bargaining 👍1  
 
 ### [HB 1070](/bill/2025-26/hb/1070/) - PTSD/correctional workers 👍1  
 
@@ -14,6 +18,8 @@
 ### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍1  
 
 ### [HB 1140](/bill/2025-26/hb/1140/) - Establishing empowerED scholarships using educational savings accounts.  👎1 
+
+### [HB 1142](/bill/2025-26/hb/1142/) - In-home care training 👍1  
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
@@ -43,6 +49,8 @@
 * 👍 Greg Poor
 * 👍 Felix Tapley
 
+### [HB 1270](/bill/2025-26/hb/1270/) - Deferred comp. by local gov. 👍1  
+
 ### [HB 1271](/bill/2025-26/hb/1271/) - State fire service deploy. 👍1  
 
 ### [HB 1272](/bill/2025-26/hb/1272/) - Children in crisis program 👍1  
@@ -55,7 +63,7 @@
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 
-### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  
+### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍2  
 
 ### [HB 1356](/bill/2025-26/hb/1356/) - K-12 funding 👍1  
 
@@ -79,7 +87,7 @@
 
 ### [HB 1489](/bill/2025-26/hb/1489/) - Childhood ed./impl. dates  👎1 
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍2  
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍3  
 
 ### [HB 1509](/bill/2025-26/hb/1509/) - Family reconciliation  👎1 
 
@@ -205,6 +213,10 @@
 
 ### [SB 5009](/bill/2025-26/sb/5009/) - Student transp. vehicles 👍1  
 
+### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍1  
+
+### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel 👍1  
+
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
 ### [SB 5059](/bill/2025-26/sb/5059/) - Ferry captains 👍1  
@@ -221,7 +233,11 @@
 
 ### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
 
+### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
+
 ### [SB 5112](/bill/2025-26/sb/5112/) - Prescribing psychologists 👍1  
+
+### [SB 5118](/bill/2025-26/sb/5118/) - International medical grads 👍1  
 
 ### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
 
@@ -229,13 +245,19 @@
 
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects 👍1  
 
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+
 ### [SB 5186](/bill/2025-26/sb/5186/) - School district fac. funding 👍1  
+
+### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍1  
 
 ### [SB 5208](/bill/2025-26/sb/5208/) - Clean energy fund program 👍1  
 
 ### [SB 5211](/bill/2025-26/sb/5211/) - DD parental caregivers 👍1  
 
 ### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
+
+### [SB 5223](/bill/2025-26/sb/5223/) - Criminal fingerprinting  👎1 
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 
@@ -247,6 +269,8 @@
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
 
+### [SB 5306](/bill/2025-26/sb/5306/) - Pension credit for leave 👍1  
+
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
 
 ### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
@@ -255,9 +279,13 @@
 
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes   ❓1
+
 ### [SB 5386](/bill/2025-26/sb/5386/) - Schools/sexual assault 👍1  
 
 ### [SB 5387](/bill/2025-26/sb/5387/) - Corp practice of health care 👍1  
+
+### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools  👎1 
 
 ### [SB 5394](/bill/2025-26/sb/5394/) - DDA no-paid services  👎1 
 
@@ -268,6 +296,8 @@
 ### [SB 5422](/bill/2025-26/sb/5422/) - Collective bargaining/AI use 👍2  
 
 ### [SB 5433](/bill/2025-26/sb/5433/) - DOC employee bargaining 👍1  
+
+### [SB 5435](/bill/2025-26/sb/5435/) - Reorganizing and adding subchapter headings to public employees' collective bargaining statutes. 👍1  
 
 ### [SB 5437](/bill/2025-26/sb/5437/) - Noncompetition agreements 👍1  
 
@@ -340,6 +370,8 @@
 ### [SB 5717](/bill/2025-26/sb/5717/) - Driver course/work zones 👍2  
 
 ### [SB 5734](/bill/2025-26/sb/5734/) - Interstate bridge toll bonds 👍1  
+
+### [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎1 
 
 ### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
 

@@ -17,9 +17,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165457&caId=26338&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165457&caId=26338&tId=4)
 
-#### 0 👍 - Pro
+#### 31 👍 - Pro
+Testifying:
+* Nicholas Carr - Office of the Governor
 
-#### 1 👎 - Con
+#### 423 👎 - Con
+Testifying:
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

@@ -7,3 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Thu 03/13 04:00 PM - Appropriations (APP): HB 2034 LEOFF 1 restatement
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165473&caId=26354&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165473&caId=26354&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165473&caId=26354&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165473&caId=26354&tId=4)
+
+#### 14 👍 - Pro
+
+#### 496 👎 - Con
+Testifying:
+* 💵Michael Duchemin - [Retired Firefighters of Washington](/org/retired_firefighters_of_washington/)
+
+#### 197 ❓ - Other
+Testifying:
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

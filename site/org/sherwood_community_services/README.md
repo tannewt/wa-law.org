@@ -10,13 +10,14 @@
 
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍3  
 
-## [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
 * 👍💵 Lance Morehouse
+
+## [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍4  
 
 ## 2023-24
 
-### [SB 5253](/bill/2023-24/sb/5253/) - Special education services 👍1  
-* 👍💵 Lance Morehouse
+### [SB 5393](/bill/2023-24/sb/5393/) - Yakima & Rainier schools 👍4  
 
 ### [HB 1506](/bill/2023-24/hb/1506/) - DSHS leases  👎1 
 

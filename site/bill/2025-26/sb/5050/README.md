@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Good and bad bills still alive and moving forward - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=SB%205050:)
+
 ## Meetings
 ### Thu 02/20 04:00 PM - Ways & Means (WM): SB 5050 Presidential primary privacy
 #### 1440 👍 - Pro

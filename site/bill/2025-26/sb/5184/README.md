@@ -31,16 +31,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=4)
 
-#### 45 👍 - Pro
+#### 388 👍 - Pro
 Testifying:
 * Skylar Bisom-Rapp - Inversion Design Build
 * Council Member Zack Zappone - [City of Spokane](/org/city_of_spokane/)
 * Catie Gould
 * Ty Stober - [City of Vancouver](/org/city_of_vancouver/)
+* Dana Christiansen - Kids unlimited
+* Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA
+* Nicholas Carr - Office of the Governor
+* Jennifer Gregerson
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Dave Andersen - Washington Department of Commerce
 
 ### Fri 01/24 10:30 AM - Housing (HSG): SB 5184 Minimum parking requirements
 #### 891 👍 - Pro

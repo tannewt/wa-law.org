@@ -27,6 +27,9 @@
 
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
 
+### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍1  
+* 👍💵 Stacy Dym
+
 ### [SB 5427](/bill/2025-26/sb/5427/) - Children in crisis program 👍1  
 * 👍💵 Stacy Dym
 

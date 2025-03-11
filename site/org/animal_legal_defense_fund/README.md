@@ -1,10 +1,11 @@
 # Animal Legal Defense Fund
 ## 2025-26
 
-### [HB 1046](/bill/2025-26/hb/1046/) - Motor vehicle damage/rescue 👍1  
+### [HB 1046](/bill/2025-26/hb/1046/) - Motor vehicle damage/rescue 👍2  
+* 👍 Cat Kelly
 * 👍 Cat Kelly
 
-### [HB 1149](/bill/2025-26/hb/1149/) - Cruelty to animals 👍1  
+### [HB 1149](/bill/2025-26/hb/1149/) - Cruelty to animals 👍2  
 
 ### [HB 1201](/bill/2025-26/hb/1201/) - Emergency shelters/pets 👍1  
 * 👍 Cat Kelly

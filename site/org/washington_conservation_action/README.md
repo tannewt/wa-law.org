@@ -3,7 +3,7 @@
 
 ### [HB 1015](/bill/2025-26/hb/1015/) - Energy labeling/residential 👍1  
 
-### [HB 1135](/bill/2025-26/hb/1135/) - Local government planning 👍1  
+### [HB 1135](/bill/2025-26/hb/1135/) - Local government planning 👍2  
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
@@ -18,6 +18,8 @@
 * 👍💵 Clifford Traisman
 
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections 👍1  
+
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 
 ### [HB 1508](/bill/2025-26/hb/1508/) - Ecosystem services  👎1 
 * 👎 Rachel Baker
@@ -52,7 +54,7 @@
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
-### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍2  
 
 ### [SB 5236](/bill/2025-26/sb/5236/) - Anesthetics/greenhouse gases 👍1  
 

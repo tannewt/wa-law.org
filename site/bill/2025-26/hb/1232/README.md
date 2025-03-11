@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/07/2025 [House Democrats](/org/house_democrats/) - [Bill To Increase Oversight of Detention Facilities Passes House/Cámara de Representantes Aprueba Proyecto de Ley para Aumentar Supervisión de Centros de Detención – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/07/bill-to-increase-oversight-of-detention-facilities-passes-house-camara-de-representantes-aprueba-proyecto-de-ley-para-aumentar-supervision-de-centros-de-detencion/#:~:text=House%20Bill%201232)
 * 02/18/2025 [Washington State Standard](/org/washington_state_standard/) - [Push for inspections at Tacoma immigration detention center reemerges in WA Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/02/17/push-for-inspections-at-tacoma-immigration-detention-center-reemerges-in-wa-legislature/#:~:text=House%20Bill%201232)
 * 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201232)
 

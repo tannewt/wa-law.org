@@ -1,6 +1,8 @@
 # Microsoft
 ## 2025-26
 
+### [HB 1052](/bill/2025-26/hb/1052/) - Hate crime offense  👎1 
+
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
 
 ### [HB 1360](/bill/2025-26/hb/1360/) - Quantum economic development 👍1  

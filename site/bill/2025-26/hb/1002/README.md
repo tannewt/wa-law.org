@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/10/2025 [KING5](/org/king5/) - [‘The stuff you see is horrific': Coroners, medical examiners could qualify for PTSD treatment | king5.com](https://www.king5.com/article/news/local/coroners-medical-examiners-could-qualify-ptsd-treatment/281-195a2327-4f32-45e5-8eb7-29863ad704a5#:~:text=House%20Bill%201002)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201002)
 
 ## Meetings

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1142/</link>
 		<description>Updates about HB 1142</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Mar 2025 08:19:54 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -152,6 +152,30 @@
 			<pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/11/training-requirement-improvements-for-long-term-care-passes-house/#:~:text=House%20Bill%201142</guid>
+		</item>
+		<item>
+			<title>👎George Simms - Dept. of Social and Health Services</title>
+			<description>George Simms signed up to testify Con.</description>
+			<pubDate>Mon, 10 Mar 2025 09:09:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/George/Simms/2025-03-10 09:09:35</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - Dept. of Social and Health Services</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Mon, 10 Mar 2025 11:45:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-10 11:45:48</guid>
+		</item>
+		<item>
+			<title>👍Bea Rector - Dept. of Social and Health Services</title>
+			<description>Bea Rector signed up to testify Pro. They are signed up to represent Dept. of Social and Health Services.</description>
+			<pubDate>Tue, 11 Mar 2025 08:19:54 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bea/Rector/2025-03-11 08:19:54</guid>
 		</item>
 	</channel>
 </rss>

@@ -16,11 +16,11 @@
 
 ### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍1  
 
-## [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
+## [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍2  
 
 ## 2023-24
 
-### [SB 5595](/bill/2023-24/sb/5595/) - Shared streets 👍1  
+### [SB 5595](/bill/2023-24/sb/5595/) - Shared streets 👍2  
 
 ### [HB 1135](/bill/2023-24/hb/1135/) - Impact fee use 👍1  
 

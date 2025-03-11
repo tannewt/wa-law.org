@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5570/</link>
 		<description>Updates about SB 5570</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Mar 2025 05:19:25 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Mar 2025 10:39:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -239,7 +239,7 @@
 			<guid isPermaLink="false">2025-03-06/Third reading, passed; yeas, 35; nays, 14; absent, 0; excused, 0.</guid>
 		</item>
 		<item>
-			<title>👎John Axtell - Office of Superintendent of Public Instruction</title>
+			<title>👎John Axtell - Confederated Tribes of the Colville Reservation</title>
 			<description>John Axtell signed up to testify Con.</description>
 			<pubDate>Fri, 07 Mar 2025 02:42:46 GMT</pubDate>
 			<category>testifier</category>
@@ -253,6 +253,45 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Henry/Strom/2025-03-07 05:19:25</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Education (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Education (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Sat, 08 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-08/First reading, referred to Education (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>👍Bernard Koontz - Highline Public Schools</title>
+			<description>Bernard Koontz signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/highline_public_schools/"&gt;Highline Public Schools&lt;/a&gt;.</description>
+			<pubDate>Mon, 10 Mar 2025 08:13:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Bernard/Koontz/2025-03-10 08:13:16</guid>
+		</item>
+		<item>
+			<title>👍Kristen Jensen - Instructional Coach Bellingham School District, Elementary Level</title>
+			<description>Kristen Jensen signed up to testify Pro. They are signed up to represent Instructional Coach Bellingham School District, Elementary Level.</description>
+			<pubDate>Mon, 10 Mar 2025 09:09:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kristen/Jensen/2025-03-10 09:09:26</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - Confederated Tribes of the Colville Reservation</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Mon, 10 Mar 2025 11:50:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-10 11:50:23</guid>
+		</item>
+		<item>
+			<title>👍Karen Condon - Confederated Tribes of the Colville Reservation</title>
+			<description>Karen Condon signed up to testify Pro. They are signed up to represent Confederated Tribes of the Colville Reservation.</description>
+			<pubDate>Tue, 11 Mar 2025 10:39:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Karen/Condon/2025-03-11 10:39:32</guid>
 		</item>
 	</channel>
 </rss>

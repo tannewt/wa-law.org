@@ -68,6 +68,9 @@
 * 👎💵 Rachael Seevers
 * 👎💵 Rachael Seevers
 
+### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍1  
+* 👍💵 Chloe Merino
+
 ### [SB 5501](/bill/2025-26/sb/5501/) - Employee driving requirement 👍1  
 * 👍💵 Anna Zivarts
 

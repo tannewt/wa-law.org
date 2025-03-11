@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/09/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Bellingham farmer leads push for more food access through mobile markets | Cascadia Daily News](https://www.cascadiadaily.com/2025/mar/09/bellingham-farmer-leads-push-for-more-food-access-through-mobile-markets/#:~:text=a%20state%20bill)
 * 02/14/2025 [Senate Democrats](/org/senate_democrats/) - [Shewmake Bill To Expand Nutrition Access, Establish Mobile Farmers Market Program Passes Senate - Sen. Sharon Shewmake](https://senatedemocrats.wa.gov/shewmake/2025/02/13/shewmake-bill-to-expand-nutrition-access-establish-mobile-farmers-market-program-passes-senate/#:~:text=Senate%20Bill%205214)
 
 ## Meetings

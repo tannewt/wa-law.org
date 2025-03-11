@@ -17,7 +17,7 @@ Testifying:
 * Mia Ayala-Marshall - Duwamish River Community Coalition
 * Kurt Ellison - [Climate Solutions](/org/climate_solutions/)
 * 💵Matthew Hepner - IBEW/ceww
-* Jayne Stevenson - Pacific Environment
+* 💵Jayne Stevenson - [Pacific Environment](/org/pacific_environment/)
 * 💵Guillermo Rogel - [Front and Centered](/org/front_and_centered/)
 * Breck Lebegue MD MPH - WA Physicians for Social Responsibility
 
