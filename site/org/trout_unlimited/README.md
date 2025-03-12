@@ -19,7 +19,7 @@
 
 ### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
 
-### [SB 5390](/bill/2025-26/sb/5390/) - Discover pass, day-use cost 👍1  
+### [SB 5390](/bill/2025-26/sb/5390/) - Discover pass 👍1  
 
 ## [SB 5583](/bill/2025-26/sb/5583/) - Fishing and hunting licenses 👍1  
 

@@ -29,11 +29,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165450&caId=26348&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165450&caId=26348&tId=4)
 
-#### 385 👍 - Pro
+#### 591 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
+* Mary Lou Pauly - Mayor, City of Issaquah
+* Nicholas Carr - Office of the Governor
 
-#### 2 👎 - Con
+#### 75 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

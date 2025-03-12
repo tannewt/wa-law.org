@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 02/28/2025 [House Democrats](/org/house_democrats/) - [Committee Advances Andrea Smith Hudson Act to Prevent Speeding Deaths – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/28/committee-advances-andrea-smith-hudson-act-to-prevent-speeding-deaths/#:~:text=House%20Bill%201596)

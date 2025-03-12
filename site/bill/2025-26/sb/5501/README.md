@@ -18,12 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165375&caId=26287&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165375&caId=26287&tId=4)
 
-#### 87 👍 - Pro
+#### 228 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - Disability Rights WA
 * John Lemus - AtWork!
 
-#### 1 👎 - Con
+#### 67 👎 - Con
 
 #### 2 ❓ - Other
 Testifying:

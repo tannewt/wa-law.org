@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/11/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Nobles bill to protect children who witness violent crimes - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/11/senate-passes-nobles-bill-to-protect-children-who-witness-violent-crimes/#:~:text=Senate%20Bill%205169)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205169)
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205169)
 * 01/23/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to protect children who witness violent crimes heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/23/nobles-bill-to-protect-children-who-witness-violent-crimes-heard-in-committee/#:~:text=Senate%20Bill%205169)

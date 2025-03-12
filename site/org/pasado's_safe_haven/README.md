@@ -1,7 +1,7 @@
 # Pasado's Safe Haven
 ## 2025-26
 
-### [HB 1046](/bill/2025-26/hb/1046/) - Motor vehicle damage/rescue 👍2  
+### [HB 1046](/bill/2025-26/hb/1046/) - Motor vehicle damage/rescue 👍3  
 
 ### [HB 1078](/bill/2025-26/hb/1078/) - Pet insurance 👍1  
 

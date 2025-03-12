@@ -20,17 +20,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165474&caId=26355&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165474&caId=26355&tId=4)
 
-#### 999 👍 - Pro
+#### 1231 👍 - Pro
+Testifying:
+* Clair Olivers - Retired Public Employees Council of WA
 
-#### 10 👎 - Con
+#### 12 👎 - Con
 Testifying:
 * Edwin Goodwillie
 * Bradd Reynolds
 * 💵Michael Duchemin - [Retired Firefighters of Washington](/org/retired_firefighters_of_washington/)
 
-#### 11 ❓ - Other
+#### 14 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Lisa Won - OSA - available for questions
 
 ### Thu 01/23 04:00 PM - Ways & Means (WM): SB 5085 Closed retirement plans
 #### 1272 👍 - Pro

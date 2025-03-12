@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165384&caId=26326&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165384&caId=26326&tId=4)
 
-#### 16 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Kathleen Drew - Washington State Women's Commission
+* Samantha Grono - Washington State Women's Commission
 
 #### 1 👎 - Con
 

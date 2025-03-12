@@ -7,12 +7,12 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.  👎1 
 * 👎💵 James King
 
-## [SB 5390](/bill/2025-26/sb/5390/) - Discover pass, day-use cost 👍2  
+## [SB 5390](/bill/2025-26/sb/5390/) - Discover pass 👍2  
 * 👍💵 James King
 * 👍💵 James King
 
 ## 2023-24
 
-## [SB 5390](/bill/2023-24/sb/5390/) - Discover pass, day-use cost 👍2  
+## [SB 5390](/bill/2023-24/sb/5390/) - Discover pass 👍2  
 * 👍💵 James King
 * 👍💵 James King

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2034/</link>
 		<description>Updates about HB 2034</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 09 Mar 2025 12:43:58 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 09:45:12 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,6 +30,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Michael/Duchemin/2025-03-09 12:43:58</guid>
+		</item>
+		<item>
+			<title>❓Lisa Won - OSA - available for questions</title>
+			<description>Lisa Won signed up to testify Other. They are signed up to represent OSA - available for questions.</description>
+			<pubDate>Wed, 12 Mar 2025 07:51:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Lisa/Won/2025-03-12 07:51:25</guid>
+		</item>
+		<item>
+			<title>❓Clair Olivers - Retired Public Employees Council of WA</title>
+			<description>Clair Olivers signed up to testify Other. They are signed up to represent Retired Public Employees Council of WA.</description>
+			<pubDate>Wed, 12 Mar 2025 09:45:12 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Clair/Olivers/2025-03-12 09:45:12</guid>
 		</item>
 	</channel>
 </rss>

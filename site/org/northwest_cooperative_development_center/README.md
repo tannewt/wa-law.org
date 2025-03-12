@@ -26,11 +26,15 @@
 * 👍 Victoria OBanion
 * 👍 Victoria OBanion
 
-## [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  
+### [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  
+
+## [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍2  
+* 👍 Victoria O'Banion
 
 ## 2023-24
 
-### [SB 5647](/bill/2023-24/sb/5647/) - Affordable housing/REET 👍1  
+### [SB 5711](/bill/2023-24/sb/5711/) - Self-service storage/tax 👍2  
+* 👍 Victoria O'Banion
 
 ### [HB 1743](/bill/2023-24/hb/1743/) - Employee ownership 👍1  
 * 👍 John McNamara

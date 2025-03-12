@@ -18,11 +18,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33003&aId=165398&caId=26260&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33003&aId=165398&caId=26260&tId=4)
 
-#### 30 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * Dhara Srinivasan - LifeWire (lifewire.org)
 
-#### 9 👎 - Con
+#### 92 👎 - Con
 Testifying:
 * Carissa Carlson
 

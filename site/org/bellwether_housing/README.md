@@ -3,6 +3,8 @@
 
 ### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍1  
 
+### [HB 1621](/bill/2025-26/hb/1621/) - Housing court commissioners 👍1  
+
 ## [SB 5725](/bill/2025-26/sb/5725/) - Housing on college lands 👍1  
 * 👍 Susan Boyd
 

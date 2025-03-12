@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/11/2025 [House Democrats](/org/house_democrats/) - [The Road Usage Charge (RUC) – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/11/the-road-usage-charge-ruc/#:~:text=House%20Bill%201921)
 * 03/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Good and bad bills still alive and moving forward - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=HB%201921:)
 * 03/03/2025 [Washington State Standard](/org/washington_state_standard/) - [Road usage charge debate returns to Olympia • Washington State Standard](https://washingtonstatestandard.com/2025/03/03/road-usage-charge-debate-returns-to-olympia/#:~:text=House%20Bill%201921)
 * 02/28/2025 [The Center Square](/org/the_center_square/) - [Tech enhancing public input in WA's legislative process, impacting decisions | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f8cf9200-f603-11ef-8132-ffb84e978721.html#:~:text=House%20Bill%201921)

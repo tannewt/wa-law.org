@@ -9,6 +9,9 @@
 * [Second Substitute](S2/)
 * [Engrossed Second Substitute](S2.E/)
 
+## 📰 Articles
+* 03/10/2025 [House Democrats](/org/house_democrats/) - [Healthcare bills aimed to lower costs and increase accessibility pass house with overwhelming bipartisan support – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/healthcare-bills-aimed-to-lower-costs-and-increase-accessibility-pass-house-with-overwhelming-bipartisan-support/#:~:text=HB%201589)
+
 ## Meetings
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1589 Health carriers & providers
 #### 879 👍 - Pro

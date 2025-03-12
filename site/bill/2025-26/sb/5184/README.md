@@ -31,7 +31,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=4)
 
-#### 388 👍 - Pro
+#### 619 👍 - Pro
 Testifying:
 * Skylar Bisom-Rapp - Inversion Design Build
 * Council Member Zack Zappone - [City of Spokane](/org/city_of_spokane/)
@@ -40,11 +40,17 @@ Testifying:
 * Dana Christiansen - Kids unlimited
 * Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA
 * Nicholas Carr - Office of the Governor
+* Ron Davis - Sightline, on Behalf of the Coalition in Support of Parking Reform
+* Joe Tovar
 * Jennifer Gregerson
+* Cary Westerbeck
 
-#### 3 👎 - Con
+#### 74 👎 - Con
+Testifying:
+* Andrew Johnson - Senior Planner of the City of Covington
+* Mary Lou Pauly - Mayor, City of Issaquah
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Dave Andersen - Washington Department of Commerce
 

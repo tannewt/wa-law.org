@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/10/2025 [House Democrats](/org/house_democrats/) - [House sends rent stabilization to the Senate, moving toward predictability for Washington renters – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/house-sends-rent-stabilization-to-the-senate-moving-toward-predictability-for-washington-renters/#:~:text=similar%20legislation)
 * 01/16/2025 [Axios](/org/axios/) - [Washington Legislature weighs new bill to limit rent increases - Axios Seattle](https://www.axios.com/local/seattle/2025/01/16/rent-increase-cap-law-washington-state#:~:text=similar%20bill)
 * 01/11/2025 [Cascadia Daily News](/org/cascadia_daily_news/) - [Washington lawmakers revive plan for state cap on rent increases | Cascadia Daily News](https://www.cascadiadaily.com/2025/jan/11/washington-lawmakers-revive-plan-for-state-cap-on-rent-increases/#:~:text=where%20the%20plan%20left%20off%20last%20year)
 * 03/11/2024 [The Urbanist](/org/the_urbanist/) - [Year of Housing 2.0 Mostly Fizzles Out at Washington Legislature - The Urbanist](https://www.theurbanist.org/2024/03/11/year-of-housing-2-0-mostly-fizzles-out-at-washington-legislature/#:~:text=House%20Bill%202114)

@@ -10,6 +10,8 @@
 
 ### [HB 1249](/bill/2025-26/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission. 👍1  
 
+### [HB 1253](/bill/2025-26/hb/1253/) - Utility joint use agreements 👍1  
+
 ### [HB 1461](/bill/2025-26/hb/1461/) - Joint operating agencies 👍3  
 * 👍 Richard Shaff
 * 👍 Chris La Plante
@@ -17,13 +19,14 @@
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
-## [HB 1967](/bill/2025-26/hb/1967/) - Design-build projects/bonds 👍1  
+### [HB 1967](/bill/2025-26/hb/1967/) - Design-build projects/bonds 👍1  
 * 👍 Richard Shaff
+
+## [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
 
 ## 2023-24
 
-### [HB 1967](/bill/2023-24/hb/1967/) - Design-build projects/bonds 👍1  
-* 👍 Richard Shaff
+### [SB 5360](/bill/2023-24/sb/5360/) - Environmental crimes  👎1 
 
 ### [HB 1117](/bill/2023-24/hb/1117/) - Power supply inadequacy 👍2  
 

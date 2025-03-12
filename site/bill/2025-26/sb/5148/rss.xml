@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5148/</link>
 		<description>Updates about SB 5148</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 03 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Mar 2025 22:12:31 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -213,6 +213,34 @@
 			<pubDate>Mon, 03 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-03/Placed on second reading by Rules Committee.</guid>
+		</item>
+		<item>
+			<title>2nd substitute bill substituted.</title>
+			<description>2nd substitute bill substituted.</description>
+			<pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-11/2nd substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 46; nays, 2; absent, 0; excused, 1.</title>
+			<description>Third reading, passed; yeas, 46; nays, 2; absent, 0; excused, 1.</description>
+			<pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-11/Third reading, passed; yeas, 46; nays, 2; absent, 0; excused, 1.</guid>
+		</item>
+		<item>
+			<title>Housing Accountability Act passes Senate - Sen. Jessica Bateman</title>
+			<description>News article "Housing Accountability Act passes Senate - Sen. Jessica Bateman" from Senate Democrats.</description>
+			<pubDate>Tue, 11 Mar 2025 22:12:31 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/bateman/2025/03/11/housing-accountability-act-passes-senate/#:~:text=Senate%20Bill%205148</guid>
+		</item>
+		<item>
+			<title>Housing Accountability Act passes Senate - Washington Senate Democrats</title>
+			<description>News article "Housing Accountability Act passes Senate - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Tue, 11 Mar 2025 22:12:31 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2025/03/11/housing-accountability-act-passes-senate/#:~:text=Senate%20Bill%205148</guid>
 		</item>
 	</channel>
 </rss>

@@ -14,12 +14,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165473&caId=26354&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165473&caId=26354&tId=4)
 
-#### 14 👍 - Pro
+#### 19 👍 - Pro
 
-#### 496 👎 - Con
+#### 587 👎 - Con
 Testifying:
 * 💵Michael Duchemin - [Retired Firefighters of Washington](/org/retired_firefighters_of_washington/)
 
-#### 197 ❓ - Other
+#### 252 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Lisa Won - OSA - available for questions
+* Clair Olivers - Retired Public Employees Council of WA

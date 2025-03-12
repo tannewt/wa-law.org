@@ -18,11 +18,13 @@
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍2  
 * 👍 Rob Bryant
 
-## [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍1  
+### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍1  
+
+## [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎1 
 
 ## 2023-24
 
-### [SB 5517](/bill/2023-24/sb/5517/) - School staff salary alloc. 👍1  
+### [SB 5737](/bill/2023-24/sb/5737/) - National board bonuses  👎1 
 
 ### [HB 1550](/bill/2023-24/hb/1550/) - Transition to kindergarten  👎1 ❓1
 * 👎 Melissa Spencer

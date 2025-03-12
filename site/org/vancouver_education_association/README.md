@@ -1,13 +1,16 @@
 # Vancouver Education Association
 ## 2025-26
 
-## [HB 1079](/bill/2025-26/hb/1079/) - Remote testing 👍1  
+### [HB 1079](/bill/2025-26/hb/1079/) - Remote testing 👍1  
 * 👍 Kiera O'Brien
+
+## [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎1 
+* 👎 Kyle Kielty
 
 ## 2023-24
 
-### [HB 1079](/bill/2023-24/hb/1079/) - Remote testing 👍1  
-* 👍 Kiera O'Brien
+### [SB 5737](/bill/2023-24/sb/5737/) - National board bonuses  👎1 
+* 👎 Kyle Kielty
 
 ### [SB 5072](/bill/2023-24/sb/5072/) - Highly capable students 👍2  
 

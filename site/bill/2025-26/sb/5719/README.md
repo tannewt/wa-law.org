@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Mon 02/17 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5719 Local gov. hearing examiners

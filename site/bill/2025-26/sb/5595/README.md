@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165335&caId=26296&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165335&caId=26296&tId=4)
 
-#### 238 👍 - Pro
+#### 446 👍 - Pro
+Testifying:
+* Venu Nemani - [City of Seattle](/org/city_of_seattle/)
 
-#### 449 👎 - Con
+#### 606 👎 - Con
 Testifying:
 * TaraLyn Fray
 

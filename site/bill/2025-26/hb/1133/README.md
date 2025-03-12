@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/10/2025 [House Democrats](/org/house_democrats/) - [Bill Strengthening Public Safety Measures for Sexually Violent Predators Advances to the Senate – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/bill-strengthening-public-safety-measures-for-sexually-violent-predators-advances-to-the-senate/#:~:text=HB%201133)
 * 01/13/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Jan. 13-17, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-jan-13-17-2025/#:~:text=HB%201133)
 
 ## Meetings

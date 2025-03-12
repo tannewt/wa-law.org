@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165461&caId=26342&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165461&caId=26342&tId=4)
 
-#### 261 👍 - Pro
+#### 363 👍 - Pro
 Testifying:
 * 💵Shawn Latham - Serlf Advocates In Leadership
 * Kyle Matheson - Self Advocate
@@ -28,9 +28,13 @@ Testifying:
 * Tanika Aden - State Board Advisor for People First of Washington
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 * 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
+* Elizabeth Johnston
 * 💵Corinna Fale - People first of Washington
+* Tracy Turner - Sail
+* Todd H Carlisle - [Disability Rights Washington](/org/disability_rights_washington/)
+* Jennifer Maxwell
 
-#### 229 👎 - Con
+#### 410 👎 - Con
 Testifying:
 * Mike Yestramski
 * Jeff Carter - Friends of Rainier
@@ -39,8 +43,9 @@ Testifying:
 * Sher Kirkpatrick
 * Brittney Barber - WFSE Member
 * 💵Nicole Gomez - Washington Federation of State Employees (WFSE)/Lobbyist
+* Bobbie Appleton
 
-#### 7 ❓ - Other
+#### 12 ❓ - Other
 Testifying:
 * Rusty Allphin - People First
 * Shirley Milliren - Parent

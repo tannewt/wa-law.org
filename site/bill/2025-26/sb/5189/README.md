@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165370&caId=26272&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165370&caId=26272&tId=4)
 
-#### 22 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * John Axtell
 * Nick Olson
@@ -29,12 +29,16 @@ Testifying:
 * Tonja Reischl - Principal, Gibson Ek High School, Issaquah School District
 * Will Kheriaty
 * Mae Hollinshead
+* Matthew Brewer
 
-#### 918 👎 - Con
+#### 1532 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
+* Gabriel Jacobs
+* Sarah Garriott
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
 
 ### Mon 02/17 04:00 PM - Ways & Means (WM): SB 5189 Competency-based education
 #### 43 👍 - Pro

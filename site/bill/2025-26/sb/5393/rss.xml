@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5393/</link>
 		<description>Updates about SB 5393</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Mar 2025 12:16:45 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 09:20:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -46,7 +46,7 @@
 			<guid isPermaLink="false">testifier/Kyle/Matheson/2025-03-07 03:58:18</guid>
 		</item>
 		<item>
-			<title>👎Mike Yestramski - People first of Washington</title>
+			<title>👎Mike Yestramski - Disability Rights Washington</title>
 			<description>Mike Yestramski signed up to testify Con.</description>
 			<pubDate>Fri, 07 Mar 2025 04:51:47 GMT</pubDate>
 			<category>testifier</category>
@@ -174,6 +174,14 @@
 			<guid isPermaLink="false">testifier/Chloe/Merino/2025-03-10 09:49:05</guid>
 		</item>
 		<item>
+			<title>👍Elizabeth Johnston - Disability Rights Washington</title>
+			<description>Elizabeth Johnston signed up to testify Pro.</description>
+			<pubDate>Tue, 11 Mar 2025 06:33:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Elizabeth/Johnston/2025-03-11 06:33:31</guid>
+		</item>
+		<item>
 			<title>👎Brittney Barber - WFSE Member</title>
 			<description>Brittney Barber signed up to testify Con. They are signed up to represent WFSE Member.</description>
 			<pubDate>Tue, 11 Mar 2025 09:20:23 GMT</pubDate>
@@ -198,12 +206,44 @@
 			<guid isPermaLink="false">testifier/Corinna/Fale/2025-03-11 10:40:41</guid>
 		</item>
 		<item>
+			<title>👍Tracy Turner - Sail</title>
+			<description>Tracy Turner signed up to testify Pro. They are signed up to represent Sail.</description>
+			<pubDate>Tue, 11 Mar 2025 11:26:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tracy/Turner/2025-03-11 11:26:42</guid>
+		</item>
+		<item>
+			<title>👍Todd H Carlisle - Disability Rights Washington</title>
+			<description>Todd H Carlisle signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/disability_rights_washington/"&gt;Disability Rights Washington&lt;/a&gt;.</description>
+			<pubDate>Tue, 11 Mar 2025 11:39:20 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Todd H/Carlisle/2025-03-11 11:39:20</guid>
+		</item>
+		<item>
 			<title>❓Shirley Milliren - Parent</title>
 			<description>Shirley Milliren signed up to testify Other. They are signed up to represent Parent.</description>
 			<pubDate>Tue, 11 Mar 2025 12:16:45 GMT</pubDate>
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Shirley/Milliren/2025-03-11 12:16:45</guid>
+		</item>
+		<item>
+			<title>👍Jennifer Maxwell - Disability Rights Washington</title>
+			<description>Jennifer Maxwell signed up to testify Pro.</description>
+			<pubDate>Wed, 12 Mar 2025 07:48:41 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jennifer/Maxwell/2025-03-12 07:48:41</guid>
+		</item>
+		<item>
+			<title>👎Bobbie Appleton - Washington Federation of State Employees (WFSE)/Lobbyist</title>
+			<description>Bobbie Appleton signed up to testify Con.</description>
+			<pubDate>Wed, 12 Mar 2025 09:20:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Bobbie/Appleton/2025-03-12 09:20:32</guid>
 		</item>
 	</channel>
 </rss>

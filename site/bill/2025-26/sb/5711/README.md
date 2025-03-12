@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165458&caId=26339&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165458&caId=26339&tId=4)
 
-#### 7 👍 - Pro
+#### 30 👍 - Pro
+Testifying:
+* Victoria O'Banion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 
-#### 492 👎 - Con
+#### 653 👎 - Con
 Testifying:
 * Lance Baker
 * Patrick Gilroy - Washington Self Storage Association
@@ -32,6 +34,9 @@ Testifying:
 * Joe Doherty - Self Storage Association
 * Bill McKay
 * Gary Schneider
+* Elaine Armstrong - 4020 East evergreen blvd
+* Robert Terry
 * Sandra Mochizuki
+* Ryan Gibson
 
 #### 0 ❓ - Other

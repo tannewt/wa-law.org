@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5737/</link>
 		<description>Updates about SB 5737</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Mar 2025 08:14:02 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 08:57:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -86,12 +86,44 @@
 			<guid isPermaLink="true">https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=SB%205737</guid>
 		</item>
 		<item>
+			<title>👎Kyle Kielty - Vancouver Education Association</title>
+			<description>Kyle Kielty signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/vancouver_education_association/"&gt;Vancouver Education Association&lt;/a&gt;.</description>
+			<pubDate>Tue, 11 Mar 2025 01:04:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kyle/Kielty/2025-03-11 01:04:42</guid>
+		</item>
+		<item>
+			<title>👎Nicole Sorensen - Vancouver Education Association</title>
+			<description>Nicole Sorensen signed up to testify Con.</description>
+			<pubDate>Tue, 11 Mar 2025 07:08:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Nicole/Sorensen/2025-03-11 07:08:44</guid>
+		</item>
+		<item>
 			<title>👎Jon Holmen - Lake Washington School District</title>
 			<description>Jon Holmen signed up to testify Con. They are signed up to represent Lake Washington School District.</description>
 			<pubDate>Tue, 11 Mar 2025 08:14:02 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Jon/Holmen/2025-03-11 08:14:02</guid>
+		</item>
+		<item>
+			<title>👎Aurora Flores - Lake Washington School District</title>
+			<description>Aurora Flores signed up to testify Con.</description>
+			<pubDate>Tue, 11 Mar 2025 11:18:40 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Aurora/Flores/2025-03-11 11:18:40</guid>
+		</item>
+		<item>
+			<title>👎Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)</title>
+			<description>Jenny Plaja signed up to testify Con. They are signed up to represent Office of Superintendent of Public Instruction (OSPI).</description>
+			<pubDate>Wed, 12 Mar 2025 08:57:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jenny/Plaja/2025-03-12 08:57:43</guid>
 		</item>
 	</channel>
 </rss>

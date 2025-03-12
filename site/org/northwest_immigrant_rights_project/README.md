@@ -30,6 +30,9 @@
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
+### [SB 5223](/bill/2025-26/sb/5223/) - Criminal fingerprinting  👎1 
+* 👎💵 Malou Chavez
+
 ### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍2  
 
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  

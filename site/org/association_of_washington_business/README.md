@@ -610,6 +610,8 @@
 
 ### [SB 5695](/bill/2025-26/sb/5695/) - Young driver safety 👍1  
 
+### [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax  👎1 
+
 ### [SB 5717](/bill/2025-26/sb/5717/) - Driver course/work zones 👍1  
 
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue   ❓1

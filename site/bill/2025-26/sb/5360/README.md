@@ -19,13 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32969&aId=165442&caId=26352&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32969&aId=165442&caId=26352&tId=4)
 
-#### 45 👍 - Pro
+#### 53 👍 - Pro
 
-#### 411 👎 - Con
+#### 571 👎 - Con
 Testifying:
 * TaraLyn Fray
+* Sandra Mochizuki
+* 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Fri 01/24 10:30 AM - Environment, Energy & Technology (ENET): SB 5360 Environmental crimes
 #### 17 👍 - Pro

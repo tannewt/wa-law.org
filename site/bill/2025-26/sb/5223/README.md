@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165329&caId=26266&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165329&caId=26266&tId=4)
 
-#### 4 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Captain Deion Glover - Washington State Patrol
 
-#### 1 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
 
 #### 0 ❓ - Other
 

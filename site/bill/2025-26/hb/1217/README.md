@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/10/2025 [House Democrats](/org/house_democrats/) - [House sends rent stabilization to the Senate, moving toward predictability for Washington renters – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/house-sends-rent-stabilization-to-the-senate-moving-toward-predictability-for-washington-renters/#:~:text=House%20Bill%201217)
+* 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](http://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201217)
 * 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201217)
 * 03/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Good and bad bills still alive and moving forward - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=HB%201217:)
 * 03/06/2025 [The Urbanist](/org/the_urbanist/) - [Op-Ed: Why Housing Supply Advocates Should Support Rent Stabilization - The Urbanist](https://www.theurbanist.org/2025/03/06/op-ed-why-housing-supply-advocates-should-support-rent-stabilization/#:~:text=House%20Bill%201217)

@@ -1,7 +1,7 @@
 # Highline Public Schools
 ## 2025-26
 
-### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍1  
+### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍2  
 * 👍 Holly Ferguson
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  

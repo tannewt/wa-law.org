@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/2015/</link>
 		<description>Updates about HB 2015</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Mar 2025 11:01:58 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 01:00:57 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -269,6 +269,27 @@
 			<pubDate>Mon, 10 Mar 2025 11:01:58 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/03/10/debate-heats-up-over-fergusons-request-for-100m-to-hire-more-police-in-washington/#:~:text=House%20Bill%202015</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-11/1st substitute bill substituted.</guid>
+		</item>
+		<item>
+			<title>Third reading, passed; yeas, 54; nays, 42; absent, 0; excused, 2.</title>
+			<description>Third reading, passed; yeas, 54; nays, 42; absent, 0; excused, 2.</description>
+			<pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-11/Third reading, passed; yeas, 54; nays, 42; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>$100M plan for police hiring gets greenlight from Washington House • Washington State Standard</title>
+			<description>News article "$100M plan for police hiring gets greenlight from Washington House • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Wed, 12 Mar 2025 01:00:57 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/03/11/100m-plan-for-police-hiring-gets-greenlight-from-washington-house/#:~:text=House%20Bill%202015</guid>
 		</item>
 	</channel>
 </rss>

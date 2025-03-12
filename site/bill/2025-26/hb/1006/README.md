@@ -14,9 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32964&aId=165426&caId=26299&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32964&aId=165426&caId=26299&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Travis Moore - Service Contract Industry Council
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* CAROL GRISWOLD-BACIGALUPI - your BOSS - please LISTEN - your NEIGHBOR
 
 #### 0 ❓ - Other
 

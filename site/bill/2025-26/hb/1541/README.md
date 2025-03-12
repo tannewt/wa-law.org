@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Wed 01/29 08:00 AM - Innovation, Community & Economic Development, & Veterans (ICEV): HB 1541 Veterans affairs adv. comm.

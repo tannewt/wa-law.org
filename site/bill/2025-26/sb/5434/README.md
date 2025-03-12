@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/11/2025 [Washington State Standard](/org/washington_state_standard/) - [WA governor says he will limit his own emergency powers if lawmakers don’t • Washington State Standard](https://washingtonstatestandard.com/2025/03/11/washington-governor-says-he-will-limit-his-own-emergency-powers-if-lawmakers-dont/#:~:text=Senate%20Bill%205434)
 * 03/11/2025 [Washington State Standard](/org/washington_state_standard/) - [Emergency powers bill WA governor helped keep alive is on cusp of failure • Washington State Standard](https://washingtonstatestandard.com/2025/03/11/emergency-powers-bill-wa-governor-helped-keep-alive-is-on-cusp-of-failure/#:~:text=Senate%20Bill%205434)
 * 03/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Good and bad bills still alive and moving forward - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=SB%205434:)
 * 02/21/2025 [The Center Square](/org/the_center_square/) - [WATCH: 'Diluted version' of emergency powers reform bill passes out of Senate committee | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_16cdadaa-f0a0-11ef-8056-832eab47afda.html#:~:text=Senate%20Bill%205434)

@@ -84,7 +84,7 @@
 ### [SB 5385](/bill/2025-26/sb/5385/) - Timberland definition/REET 👍1  
 * 👍 Duane Emmons
 
-### [SB 5390](/bill/2025-26/sb/5390/) - Discover pass, day-use cost 👍2  
+### [SB 5390](/bill/2025-26/sb/5390/) - Discover pass 👍2  
 * 👍 Sam Hensold
 * 👍 Sam Hensold
 

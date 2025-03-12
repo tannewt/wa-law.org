@@ -28,7 +28,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165392&caId=26271&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165392&caId=26271&tId=4)
 
-#### 127 👍 - Pro
+#### 143 👍 - Pro
 Testifying:
 * Colleen Kinerk - Heal Our Church / Clergy Accountability Coalition
 * Mary Dispenza - Survivors of those Abused by Priests (SNAP) / Clergy Accountability Coalition
@@ -43,11 +43,18 @@ Testifying:
 * Kiersten Larson - Clergy Accountability Coalition/JW
 * Sara Young - Clergy Accountability Coalition/JW
 * Angela Taylor
+* Bea Stull
+* Steve Snider
+* McKenzie Raynor
+* Rev. James Connell
 
-#### 79 👎 - Con
+#### 88 👎 - Con
 Testifying:
 * John Axtell
 * 💵Jean Hill - Washington State Catholic Conference
+* Theresa Schrempp
+* Theresa Schrempp
+* Mary Locke
 
 #### 1 ❓ - Other
 

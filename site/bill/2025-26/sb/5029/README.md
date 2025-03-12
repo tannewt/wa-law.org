@@ -19,11 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165326&caId=26263&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165326&caId=26263&tId=4)
 
-#### 56 👍 - Pro
+#### 61 👍 - Pro
 Testifying:
 * Kristen Morgan - Department of Corrections
+* Percy Levy - Washington Defender Association and Washington Association of Criminal Defense Lawyers
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

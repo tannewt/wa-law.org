@@ -19,17 +19,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165468&caId=26336&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165468&caId=26336&tId=4)
 
-#### 10 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * Henry Strom - Office of Superintendent of Public Instruction
 * Bernard Koontz - [Highline Public Schools](/org/highline_public_schools/)
+* Kirsten Jensen - Instructional Coach Bellingham School District, Elementary Level
 * Kristen Jensen - Instructional Coach Bellingham School District, Elementary Level
 * Karen Condon - Confederated Tribes of the Colville Reservation
+* Matt Remle - Lakota, Marysville School District Native Education Department Program Supervisor
+* Victoria Caputo - Lummi tribal member, teacher at Ferndale High School, Ferndale School District
 
-#### 414 👎 - Con
+#### 554 👎 - Con
 Testifying:
 * John Axtell
 * TaraLyn Fray
+* Sandra Mochizuki
+* Sandra Mochizuki
 
 #### 0 ❓ - Other
 

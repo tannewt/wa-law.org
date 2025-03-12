@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5711/</link>
 		<description>Updates about SB 5711</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Mar 2025 05:45:50 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Mar 2025 09:52:11 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2025-02-10/First reading, referred to Ways &amp; Means.</guid>
 		</item>
 		<item>
-			<title>👎Lance Baker - Washington Policy Center</title>
+			<title>👎Lance Baker - Northwest Cooperative Development Center</title>
 			<description>Lance Baker signed up to testify Con.</description>
 			<pubDate>Fri, 07 Mar 2025 04:34:14 GMT</pubDate>
 			<category>testifier</category>
@@ -135,12 +135,44 @@
 			<guid isPermaLink="false">testifier/Gary/Schneider/2025-03-10 12:27:36</guid>
 		</item>
 		<item>
-			<title>👎Sandra Mochizuki - Self Storage Association</title>
+			<title>👎Elaine Armstrong - 4020 East evergreen blvd</title>
+			<description>Elaine Armstrong signed up to testify Con. They are signed up to represent 4020 East evergreen blvd.</description>
+			<pubDate>Tue, 11 Mar 2025 01:51:42 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Elaine/Armstrong/2025-03-11 01:51:42</guid>
+		</item>
+		<item>
+			<title>👎Robert Terry - 4020 East evergreen blvd</title>
+			<description>Robert Terry signed up to testify Con.</description>
+			<pubDate>Tue, 11 Mar 2025 04:01:30 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Robert/Terry/2025-03-11 04:01:30</guid>
+		</item>
+		<item>
+			<title>👎Sandra Mochizuki - 4020 East evergreen blvd</title>
 			<description>Sandra Mochizuki signed up to testify Con.</description>
 			<pubDate>Tue, 11 Mar 2025 05:45:50 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-11 05:45:50</guid>
+		</item>
+		<item>
+			<title>👍Victoria O'Banion - Northwest Cooperative Development Center</title>
+			<description>Victoria O'Banion signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/northwest_cooperative_development_center/"&gt;Northwest Cooperative Development Center&lt;/a&gt;.</description>
+			<pubDate>Tue, 11 Mar 2025 08:43:02 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Victoria/O'Banion/2025-03-11 08:43:02</guid>
+		</item>
+		<item>
+			<title>👎Ryan Gibson - 4020 East evergreen blvd</title>
+			<description>Ryan Gibson signed up to testify Con.</description>
+			<pubDate>Tue, 11 Mar 2025 09:52:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ryan/Gibson/2025-03-11 09:52:11</guid>
 		</item>
 	</channel>
 </rss>

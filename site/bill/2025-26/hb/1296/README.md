@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](http://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201296)
 * 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201296)
 * 03/07/2025 [The Center Square](/org/the_center_square/) - [Moses Lake School Board comes out against state bills it says erode parents' rights | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a33e7fea-fb76-11ef-8bed-cf5cea5646c8.html#:~:text=House%20Bill%201296)
 * 03/02/2025 [Quaker Voice On Washington Public Policy](/org/quaker_voice_on_washington_public_policy/) - [Human Rights -- 2025 action — Quaker Voice](https://www.quakervoicewa.org/human-rights-2025-action/#:~:text=HB%201296)

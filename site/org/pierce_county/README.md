@@ -1,7 +1,8 @@
 # Pierce County
 ## 2025-26
 
-### [HB 1054](/bill/2025-26/hb/1054/) - County ferry contracts 👍1  
+### [HB 1054](/bill/2025-26/hb/1054/) - County ferry contracts 👍2  
+* 👍💵 Michael Shaw
 * 👍💵 Michael Shaw
 
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  

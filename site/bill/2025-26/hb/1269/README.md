@@ -14,14 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32964&aId=165428&caId=26301&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32964&aId=165428&caId=26301&tId=4)
 
-#### 26 👍 - Pro
+#### 29 👍 - Pro
 Testifying:
 * 💵Karen Strickland - Pawn 1 Inc.
 * Sam Lax - Pawn 1, Inc
 * Nika Mihailov - Kittitas County Trading Co.
 * Janelle Morehart - Washington State Pawnbrokers Association / Ponders Pawnbrokers
+* 💵Tamara Rancore - WA St Pawnbrokers Association
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

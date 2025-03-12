@@ -25,11 +25,11 @@
 
 ### [HB 1642](/bill/2025-26/hb/1642/) - Pension plan choice 👍1  
 
-### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement 👍1  ❓26
+### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement 👍1  ❓32
 
 ### [SB 5083](/bill/2025-26/sb/5083/) - Health carrier reimbursement 👍79  
 
-### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans 👍102  ❓1
+### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans 👍112  ❓1
 * 👍 Judith Fosmo
 
 ### [SB 5113](/bill/2025-26/sb/5113/) - Concerning cost-of-living adjustments for plan 1 retirees of the teachers' retirement system and public employees' retirement system. 👍55  

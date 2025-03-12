@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165318&caId=26309&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165318&caId=26309&tId=4)
 
-#### 30 👍 - Pro
+#### 894 👍 - Pro
 Testifying:
 * Calista Brady
 * Ashiana Ranjan
@@ -28,13 +28,15 @@ Testifying:
 * Nathaniel Block
 * Sarah Hock - Joint Animal Services / Washington Federation of Animal Care & Control Agencies
 * 💵Tricia Gullion - Washington State Gambling Commission
+* simon gaspar - capital classroom tvw.org
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Jodie Olmos - American Federation of Aviculture
 * Debbie Goodrich - Flight Club Foundation
+* Talitha Hazelton
 
-#### 0 ❓ - Other
+#### 7 ❓ - Other
 
 ### Mon 01/13 02:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1149 Cruelty to animals
 #### 665 👍 - Pro

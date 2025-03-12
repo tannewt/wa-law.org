@@ -14,11 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165476&caId=26357&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165476&caId=26357&tId=4)
 
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Luke Masselink - OSA - available for questions
 
 ### Thu 01/23 04:00 PM - Ways & Means (WM): SB 5306 Pension credit for leave
 #### 13 👍 - Pro

@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 02/28/2025 [The Center Square](/org/the_center_square/) - [Bottoms up! Bill to study updating WA’s alcohol tax system moves ahead | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_d47b1e12-f624-11ef-9fb1-cb1d36a5b677.html#:~:text=Substitute%20Senate%20Bill%205368)

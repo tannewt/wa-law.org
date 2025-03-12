@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 03/10/2025 [House Democrats](/org/house_democrats/) - [Protecting Physician Well-Being & Supporting Workforce Retention – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/protecting-physician-well-being-supporting-workforce-retention/#:~:text=House%20Bill%201718)
+
 ## Meetings
 ### Wed 02/12 01:30 PM - Health Care & Wellness (HCW): HB 1718 Health care prof. well-being
 #### 13 👍 - Pro

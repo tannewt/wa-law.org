@@ -15,9 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165371&caId=26283&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165371&caId=26283&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 
-#### 10 👎 - Con
+#### 71 👎 - Con
 Testifying:
 * Matthew Lundh - City of Cle Elum
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

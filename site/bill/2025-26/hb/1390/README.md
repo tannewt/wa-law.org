@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](http://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201390)
 * 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201390)
 
 ## Meetings

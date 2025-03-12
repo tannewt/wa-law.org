@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## Meetings
 ### Tue 02/04 01:30 PM - Environment, Energy & Technology (ENET): SB 5445 Local energy resilience

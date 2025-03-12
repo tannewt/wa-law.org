@@ -1,11 +1,12 @@
 [wa-law.org](/) > [bill](/bill/) > [2025-26](/bill/2025-26/) > [SB 5390](/bill/2025-26/sb/5390/)
 
-# SB 5390 - Discover pass, day-use cost
+# SB 5390 - Discover pass
 [leg.wa.gov](https://app.leg.wa.gov/billsummary?BillNumber=5390&Year=2025&Initiative=false) | [RSS Feed](./rss.xml)
 
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 03/05/2025 [KIRO7](/org/kiro7/) - [Are hiking, camping and fishing trips about to get more expensive in Washington? – KIRO 7 News Seattle](https://www.kiro7.com/news/local/are-hiking-camping-fishing-trips-about-get-more-expensive-washington/3ASY6KMNQJHJ7CPCGCAISVXITY/#:~:text=Senate%20Bill%205390)

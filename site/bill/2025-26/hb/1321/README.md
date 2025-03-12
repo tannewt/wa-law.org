@@ -8,6 +8,8 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/11/2025 [Washington State Standard](/org/washington_state_standard/) - [Bill advances to restrict outside National Guard from entering WA • Washington State Standard](https://washingtonstatestandard.com/2025/03/11/wa-bill-to-restrict-outside-national-guard-from-entering-state-advances-in-legislature/#:~:text=House%20Bill%201321)
+* 03/10/2025 [House Democrats](/org/house_democrats/) - [Blocking Unauthorized Militias from Entering WA – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/blocking-unauthorized-militias-from-entering-wa-passes-house/#:~:text=House%20Bill%201321)
 * 01/31/2025 [Cascade PBS](/org/cascade_pbs/) - [Lawmakers mull limit on out-of-state National Guard access in WA | Cascade PBS](https://crosscut.com/briefs/2025/01/lawmakers-mull-limit-out-state-national-guard-access-wa#:~:text=House%20Bill%201321)
 * 01/30/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington bill would restrict when outside National Guard troops can enter the state • Washington State Standard](https://washingtonstatestandard.com/2025/01/30/washington-bill-would-restrict-when-outside-national-guard-troops-can-enter-the-state/#:~:text=House%20Bill%201321)
 * 01/29/2025 [FOX13](/org/fox13/) - [WA lawmakers consider bill to restrict outside militias | FOX 13 Seattle](https://www.fox13seattle.com/news/lawmakers-consider-bill-outside-militias#:~:text=House%20Bill%201321)

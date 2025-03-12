@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1644/</link>
 		<description>Updates about HB 1644</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -155,6 +155,20 @@
 			<pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-10/Third reading, passed; yeas, 60; nays, 35; absent, 0; excused, 3.</guid>
+		</item>
+		<item>
+			<title>House passes Fosse’s Child Labor Safety Bill Improving’s Protections for Washington’s Youngest Workers – Washington State House Democrats</title>
+			<description>News article "House passes Fosse’s Child Labor Safety Bill Improving’s Protections for Washington’s Youngest Workers – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/03/10/house-passes-fosses-child-labor-safety-bill-improvings-protections-for-washingtons-youngest-workers/#:~:text=House%20Bill%201644</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Labor &amp; Commerce (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Labor &amp; Commerce (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-12/First reading, referred to Labor &amp; Commerce (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

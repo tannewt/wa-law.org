@@ -12,6 +12,8 @@
 * [Session Law](S2.SL/)
 
 ## 📰 Articles
+* 03/11/2025 [Senate Democrats](/org/senate_democrats/) - [Housing Accountability Act passes Senate - Sen. Jessica Bateman](https://senatedemocrats.wa.gov/bateman/2025/03/11/housing-accountability-act-passes-senate/#:~:text=House%20Bill%201110)
+* 03/11/2025 [Senate Democrats](/org/senate_democrats/) - [Housing Accountability Act passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/11/housing-accountability-act-passes-senate/#:~:text=House%20Bill%201110)
 * 01/13/2025 [Axios](/org/axios/) - [Seattle debates future of housing growth - Axios Seattle](https://www.axios.com/local/seattle/2025/01/13/housing-affordability-debates-zoning-city-council#:~:text=2023%20state%20law)
 * 10/17/2024 [The Center Square](/org/the_center_square/) - [Proposed Seattle growth plan update seeks to allow 330,000 new housing units | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_34a640fa-8ccb-11ef-ba44-af75021ec8e3.html#:~:text=House%20Bill%201110)
 * 05/06/2024 [PubliCola](/org/publicola/) - [The Backlash to Harrell's Comp Plan Proves We're All YIMBYs Now - PubliCola](https://publicola.com/2024/05/06/the-backlash-to-harrells-comp-plan-proves-were-all-yimbys-now/#:~:text=House%20Bill%201110)

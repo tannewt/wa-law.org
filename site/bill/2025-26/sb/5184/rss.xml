@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5184/</link>
 		<description>Updates about SB 5184</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Mar 2025 10:11:35 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 08:24:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -562,12 +562,52 @@
 			<guid isPermaLink="false">testifier/Dave/Andersen/2025-03-10 03:49:05</guid>
 		</item>
 		<item>
-			<title>👍Jennifer Gregerson - Office of the Governor</title>
+			<title>👎Andrew Johnson - Senior Planner of the City of Covington</title>
+			<description>Andrew Johnson signed up to testify Con. They are signed up to represent Senior Planner of the City of Covington.</description>
+			<pubDate>Tue, 11 Mar 2025 01:01:48 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Andrew/Johnson/2025-03-11 01:01:48</guid>
+		</item>
+		<item>
+			<title>👎Mary Lou Pauly - Mayor, City of Issaquah</title>
+			<description>Mary Lou Pauly signed up to testify Con. They are signed up to represent Mayor, City of Issaquah.</description>
+			<pubDate>Tue, 11 Mar 2025 02:24:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Mary Lou/Pauly/2025-03-11 02:24:18</guid>
+		</item>
+		<item>
+			<title>👍Ron Davis - Sightline, on Behalf of the Coalition in Support of Parking Reform</title>
+			<description>Ron Davis signed up to testify Pro. They are signed up to represent Sightline, on Behalf of the Coalition in Support of Parking Reform.</description>
+			<pubDate>Tue, 11 Mar 2025 03:14:09 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ron/Davis/2025-03-11 03:14:09</guid>
+		</item>
+		<item>
+			<title>👍Joe Tovar - Sightline, on Behalf of the Coalition in Support of Parking Reform</title>
+			<description>Joe Tovar signed up to testify Pro.</description>
+			<pubDate>Tue, 11 Mar 2025 03:58:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Joe/Tovar/2025-03-11 03:58:13</guid>
+		</item>
+		<item>
+			<title>👍Jennifer Gregerson - Sightline, on Behalf of the Coalition in Support of Parking Reform</title>
 			<description>Jennifer Gregerson signed up to testify Pro.</description>
 			<pubDate>Tue, 11 Mar 2025 10:11:35 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jennifer/Gregerson/2025-03-11 10:11:35</guid>
+		</item>
+		<item>
+			<title>👍Cary Westerbeck - Sightline, on Behalf of the Coalition in Support of Parking Reform</title>
+			<description>Cary Westerbeck signed up to testify Pro.</description>
+			<pubDate>Wed, 12 Mar 2025 08:24:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Cary/Westerbeck/2025-03-12 08:24:22</guid>
 		</item>
 	</channel>
 </rss>

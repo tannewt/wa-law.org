@@ -5,12 +5,12 @@
 
 ### [HB 1734](/bill/2025-26/hb/1734/) - Outdoor learning grants 👍1  
 
-## [SB 5390](/bill/2025-26/sb/5390/) - Discover pass, day-use cost 👍2  
+## [SB 5390](/bill/2025-26/sb/5390/) - Discover pass 👍2  
 * 👍 Michael DeCramer
 
 ## 2023-24
 
-### [SB 5390](/bill/2023-24/sb/5390/) - Discover pass, day-use cost 👍2  
+### [SB 5390](/bill/2023-24/sb/5390/) - Discover pass 👍2  
 * 👍 Michael DeCramer
 
 ### [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍2  

@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32994&aId=165447&caId=26335&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32994&aId=165447&caId=26335&tId=4)
 
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Misha Cherniske - Office of Superintendent of Public Instruction (OSPI)
+* Aaron Leavell - Assoc. of Educational Service Districts, Olympic ESD 114
+* Jessica Vavrus - Assoc. of Educational Service Districts
 
-#### 407 👎 - Con
+#### 543 👎 - Con
 Testifying:
 * Randy Welch
 * TaraLyn Fray

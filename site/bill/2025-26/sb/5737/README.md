@@ -17,9 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165464&caId=26345&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165464&caId=26345&tId=4)
 
-#### 37 👍 - Pro
+#### 54 👍 - Pro
 
-#### 1600 👎 - Con
+#### 2431 👎 - Con
 Testifying:
 * 💵Melissa Gombosky - Evergreen and Vancouver School Districts
 * Joshua Peterson
@@ -28,6 +28,10 @@ Testifying:
 * 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
 * Holly Koon - Mount Baker Education Association
 * Zanovia Clark - Highline Education Association
+* Kyle Kielty - [Vancouver Education Association](/org/vancouver_education_association/)
+* Nicole Sorensen
 * Jon Holmen - Lake Washington School District
+* Aurora Flores
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 
 #### 4 ❓ - Other

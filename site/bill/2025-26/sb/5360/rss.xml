@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5360/</link>
 		<description>Updates about SB 5360</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Mar 2025 11:48:50 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 08:28:44 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -144,6 +144,22 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-10 11:48:50</guid>
+		</item>
+		<item>
+			<title>👎Sandra Mochizuki - WPUDA</title>
+			<description>Sandra Mochizuki signed up to testify Con.</description>
+			<pubDate>Tue, 11 Mar 2025 04:18:58 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-11 04:18:58</guid>
+		</item>
+		<item>
+			<title>👎💵Cory Shaw - Washington Aggregates &amp; Concrete Association</title>
+			<description>Cory Shaw signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_aggregates_&amp;_concrete_association/"&gt;Washington Aggregates &amp; Concrete Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Wed, 12 Mar 2025 08:28:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Cory/Shaw/2025-03-12 08:28:44</guid>
 		</item>
 	</channel>
 </rss>

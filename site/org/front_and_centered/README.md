@@ -13,7 +13,7 @@
 * 👍 Nico Wedekind
 * 👍💵 Guillermo Rogel
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍2  
 * 👍💵 Guillermo Rogel
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety 👍1  
@@ -34,6 +34,8 @@
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
@@ -43,6 +45,10 @@
 * 👍 Nico Wedekind
 
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
+
+### [SB 5501](/bill/2025-26/sb/5501/) - Employee driving requirement 👍1  
+
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
 
 ### [SB 5652](/bill/2025-26/sb/5652/) - Reducing environmental and health disparities and improving the health of Washington state residents in large port districts. 👍1  
 

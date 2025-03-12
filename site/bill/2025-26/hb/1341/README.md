@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/10/2025 [House Democrats](/org/house_democrats/) - [Rep. Wylie Strengthens Medical Cannabis Tax Exemption Protections – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/rep-wylie-strengthens-medical-cannabis-tax-exemption-protections/#:~:text=House%20bill%201341)
+
 ## Meetings
 ### Tue 01/28 01:30 PM - Consumer Protection & Business (CPB): HB 1341 Medical cannabis database
 #### 6 👍 - Pro

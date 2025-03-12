@@ -8,8 +8,9 @@
 
 ### [HB 1258](/bill/2025-26/hb/1258/) - Regional 911 funding 👍3  
 
-### [HB 1260](/bill/2025-26/hb/1260/) - Document recording fee admin 👍1  
+### [HB 1260](/bill/2025-26/hb/1260/) - Document recording fee admin 👍2  
 * 👍💵 Nick Federici
+* 👍 Nicholas Federici
 
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 

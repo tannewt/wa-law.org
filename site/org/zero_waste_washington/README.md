@@ -22,7 +22,8 @@
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
-### [HB 1302](/bill/2025-26/hb/1302/) - Utility connection charges 👍1  
+### [HB 1302](/bill/2025-26/hb/1302/) - Utility connection charges 👍2  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍2  

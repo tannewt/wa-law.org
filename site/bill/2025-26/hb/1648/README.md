@@ -17,11 +17,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32994&aId=165446&caId=26334&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32994&aId=165446&caId=26334&tId=4)
 
-#### 0 👍 - Pro
+#### 33 👍 - Pro
+Testifying:
+* Karen Hedine - WA Alliance of YMCAs
+* Susan Brown - Kids Co., Washington Child Care Centers Assn, and the Greater Seattle Child Care Business Coalition
 
-#### 0 👎 - Con
+#### 5 👎 - Con
+Testifying:
+* Annie Garrett
+* Samantha Carrillo - CARRILLO
+* Isabella Sebastiani
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Raishawn Swensen - Washington Association for the Education of Young Children (WAEYC) Public Policy Fellow
+* Ruth Ayodeji
 
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1648 Child care qualifications
 #### 135 👍 - Pro

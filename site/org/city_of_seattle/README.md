@@ -166,7 +166,8 @@
 
 ### [SB 5584](/bill/2025-26/sb/5584/) - Independent prosecutor 👍1  
 
-### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍2  
+* 👍 Venu Nemani
 * 👍 Venu Nemani
 
 ### [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  

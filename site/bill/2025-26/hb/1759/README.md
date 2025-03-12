@@ -20,9 +20,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165388&caId=26330&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165388&caId=26330&tId=4)
 
-#### 41 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * Norbert Caoili
+* Mary Sodawasser
+* Sara St John - Kirkland Seahawkers Booster Club
+* Lori CROSS - East Plateau Sea Hawkers President and Founder
+* Laurie Staples - Kirkland Seahawkers
+* Raymond Hensley - Kirkland Sea Hawkers
+* Terri Fletcher - Kirkland Seahawkers
 
 #### 3 👎 - Con
 

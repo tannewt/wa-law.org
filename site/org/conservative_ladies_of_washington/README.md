@@ -107,6 +107,8 @@
 ### [SB 5080](/bill/2025-26/sb/5080/) - Financial education  👎2 
 * 👎 Jeannie Magdua
 
+### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss  👎1 
+
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎3 
 
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers  👎2 

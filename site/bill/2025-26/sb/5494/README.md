@@ -18,11 +18,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32969&aId=165472&caId=26353&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32969&aId=165472&caId=26353&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Jamie Switras
 
-#### 2 👎 - Con
+#### 515 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* Randy Welch
 
 #### 0 ❓ - Other
 

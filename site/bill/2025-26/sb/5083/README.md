@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
 * 03/11/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Robinson bill to address health care costs, access - Sen. June Robinson](https://senatedemocrats.wa.gov/robinson/2025/03/11/senate-passes-robinson-bill-to-address-health-care-costs-access/#:~:text=Senate%20Bill%205083)

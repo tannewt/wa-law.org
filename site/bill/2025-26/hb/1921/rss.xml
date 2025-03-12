@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1921/</link>
 		<description>Updates about HB 1921</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 09 Mar 2025 17:43:07 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 11 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -1096,6 +1096,13 @@
 			<pubDate>Sun, 09 Mar 2025 17:43:07 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=HB%201921:</guid>
+		</item>
+		<item>
+			<title>The Road Usage Charge (RUC) – Washington State House Democrats</title>
+			<description>News article "The Road Usage Charge (RUC) – Washington State House Democrats" from House Democrats.</description>
+			<pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/03/11/the-road-usage-charge-ruc/#:~:text=House%20Bill%201921</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5570/</link>
 		<description>Updates about SB 5570</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Mar 2025 10:39:32 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 09:41:43 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -239,7 +239,7 @@
 			<guid isPermaLink="false">2025-03-06/Third reading, passed; yeas, 35; nays, 14; absent, 0; excused, 0.</guid>
 		</item>
 		<item>
-			<title>👎John Axtell - Confederated Tribes of the Colville Reservation</title>
+			<title>👎John Axtell - Lummi tribal member, teacher at Ferndale High School, Ferndale School District</title>
 			<description>John Axtell signed up to testify Con.</description>
 			<pubDate>Fri, 07 Mar 2025 02:42:46 GMT</pubDate>
 			<category>testifier</category>
@@ -270,6 +270,14 @@
 			<guid isPermaLink="false">testifier/Bernard/Koontz/2025-03-10 08:13:16</guid>
 		</item>
 		<item>
+			<title>👍Kirsten Jensen - Instructional Coach Bellingham School District, Elementary Level</title>
+			<description>Kirsten Jensen signed up to testify Pro. They are signed up to represent Instructional Coach Bellingham School District, Elementary Level.</description>
+			<pubDate>Mon, 10 Mar 2025 09:09:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kirsten/Jensen/2025-03-10 09:09:26</guid>
+		</item>
+		<item>
 			<title>👍Kristen Jensen - Instructional Coach Bellingham School District, Elementary Level</title>
 			<description>Kristen Jensen signed up to testify Pro. They are signed up to represent Instructional Coach Bellingham School District, Elementary Level.</description>
 			<pubDate>Mon, 10 Mar 2025 09:09:26 GMT</pubDate>
@@ -278,12 +286,28 @@
 			<guid isPermaLink="false">testifier/Kristen/Jensen/2025-03-10 09:09:26</guid>
 		</item>
 		<item>
-			<title>👎TaraLyn Fray - Confederated Tribes of the Colville Reservation</title>
+			<title>👎TaraLyn Fray - Lummi tribal member, teacher at Ferndale High School, Ferndale School District</title>
 			<description>TaraLyn Fray signed up to testify Con.</description>
 			<pubDate>Mon, 10 Mar 2025 11:50:23 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-10 11:50:23</guid>
+		</item>
+		<item>
+			<title>👎Sandra Mochizuki - Lummi tribal member, teacher at Ferndale High School, Ferndale School District</title>
+			<description>Sandra Mochizuki signed up to testify Con.</description>
+			<pubDate>Tue, 11 Mar 2025 04:22:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-11 04:22:18</guid>
+		</item>
+		<item>
+			<title>👎Sandra Mochizuki - Lummi tribal member, teacher at Ferndale High School, Ferndale School District</title>
+			<description>Sandra Mochizuki signed up to testify Con.</description>
+			<pubDate>Tue, 11 Mar 2025 04:22:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-11 04:22:50</guid>
 		</item>
 		<item>
 			<title>👍Karen Condon - Confederated Tribes of the Colville Reservation</title>
@@ -292,6 +316,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Karen/Condon/2025-03-11 10:39:32</guid>
+		</item>
+		<item>
+			<title>👍Matt Remle - Lakota, Marysville School District Native Education Department Program Supervisor</title>
+			<description>Matt Remle signed up to testify Pro. They are signed up to represent Lakota, Marysville School District Native Education Department Program Supervisor.</description>
+			<pubDate>Wed, 12 Mar 2025 06:41:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matt/Remle/2025-03-12 06:41:50</guid>
+		</item>
+		<item>
+			<title>👍Victoria Caputo - Lummi tribal member, teacher at Ferndale High School, Ferndale School District</title>
+			<description>Victoria Caputo signed up to testify Pro. They are signed up to represent Lummi tribal member, teacher at Ferndale High School, Ferndale School District.</description>
+			<pubDate>Wed, 12 Mar 2025 09:41:43 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Victoria/Caputo/2025-03-12 09:41:43</guid>
 		</item>
 	</channel>
 </rss>
