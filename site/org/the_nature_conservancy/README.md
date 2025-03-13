@@ -35,13 +35,13 @@
 
 ### [HB 1593](/bill/2025-26/hb/1593/) - Social equity land trust 👍1  
 
-### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
+### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍2  
 
 ### [HB 1641](/bill/2025-26/hb/1641/) - Definition of timberland 👍1  
 
 ### [HB 1646](/bill/2025-26/hb/1646/) - DNR civil enforcement appeal 👍1  
 
-### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
+### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍2  
 
 ### [HB 1721](/bill/2025-26/hb/1721/) - Zero emissions vehicles/sale 👍1  
 
@@ -69,7 +69,7 @@
 * ❓💵 Justin Allegro
 * ❓💵 Justin Allegro
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 
 ### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
 

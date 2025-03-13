@@ -14,11 +14,19 @@
 
 ### [HB 1900](/bill/2025-26/hb/1900/) - Financial fraud protections  👎1 
 
+### [HB 2020](/bill/2025-26/hb/2020/) - Payment card processing/tax 👍1  
+
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips  👎1 
 * 👎💵 Brad Tower
 
-### [SB 5109](/bill/2025-26/sb/5109/) - Concerning the mortgage lending fraud prosecution account.   ❓1
+### [SB 5109](/bill/2025-26/sb/5109/) - Concerning the mortgage lending fraud prosecution account.   ❓2
 * ❓💵 Brad Tower
+* ❓💵 Brad Tower
+
+### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍1  
+* 👍💵 Brad Tower
+
+### [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax  👎1 
 
 ## [SB 5754](/bill/2025-26/sb/5754/) - Washington state public bank  👎1 
 * 👎💵 Brad Tower

@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 03/13 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): HB 1006 Service contracts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32964&aId=165426&caId=26299&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32964&aId=165426&caId=26299&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32964&aId=165426&caId=26299&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32964&aId=165426&caId=26299&tId=4)
-
-#### 4 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * Tyler Langford - Office of the Insurance Commissioner
 * Travis Moore - Service Contract Industry Council

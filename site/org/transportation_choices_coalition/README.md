@@ -23,7 +23,7 @@
 ### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat. 👍1  
 * 👍 Katy Ricchiuto
 
-### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍2  
 
 ### [SB 5600](/bill/2025-26/sb/5600/) - TNCs/large-scale events 👍1  
 

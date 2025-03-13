@@ -14,13 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32986&aId=165359&caId=26318&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32986&aId=165359&caId=26318&tId=4)
 
-#### 44 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Tania Bardyn - University of Washington, HEALWA
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 01/22 01:30 PM - Health Care & Wellness (HCW): HB 1190 UW health sciences library
 #### 110 👍 - Pro

@@ -442,6 +442,8 @@
 
 ### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
 
+### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍1  
+
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎2 
 * 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
@@ -570,7 +572,7 @@
 ### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat.  👎1 
 * 👎💵 Morgan Irwin
 
-### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets  👎1 
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets  👎2 
 * 👎💵 Morgan Irwin
 
 ### [SB 5596](/bill/2025-26/sb/5596/) - Interstate teacher compact  👎1 

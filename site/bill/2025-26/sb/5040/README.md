@@ -17,7 +17,7 @@ Sign up to testify:
 
 #### 5 👍 - Pro
 
-#### 307 👎 - Con
+#### 404 👎 - Con
 Testifying:
 * Matthew Lundh - City of Cle Elum
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)

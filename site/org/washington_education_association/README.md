@@ -261,7 +261,8 @@
 
 ### [HB 1822](/bill/2025-26/hb/1822/) - Driver course/work zones 👍1  
 
-### [HB 1827](/bill/2025-26/hb/1827/) - Basic education/juv. justice 👍1  
+### [HB 1827](/bill/2025-26/hb/1827/) - Basic education/juv. justice 👍2  
+* 👍💵 Simone Boe
 * 👍💵 Simone Boe
 
 ### [HB 1832](/bill/2025-26/hb/1832/) - Improving student performance and success.  👎10 
@@ -390,7 +391,7 @@
 
 ### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍1  
 
-### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍2  
+### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍3  
 * 👍💵 Nasue Nishida
 
 ### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍1  
@@ -525,7 +526,7 @@
 
 ### [SB 5557](/bill/2025-26/sb/5557/) - Pregnancy/emerg. treatment 👍1  
 
-### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍2  
+### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍3  
 
 ### [SB 5572](/bill/2025-26/sb/5572/) - School construction projects 👍1  
 

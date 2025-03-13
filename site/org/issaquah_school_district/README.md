@@ -32,7 +32,8 @@
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍5  
 * 👍 Heather Tow-Yick
 
-### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍1  
+### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍2  
+* 👍 Julia Bamba
 
 ### [SB 5190](/bill/2025-26/sb/5190/) - School building energy perf. 👍2  
 * 👍 Martin Turney

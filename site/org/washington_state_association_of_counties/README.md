@@ -25,7 +25,8 @@
 ### [HB 1125](/bill/2025-26/hb/1125/) - Sentence modification  👎1 
 * 👎💵 Brad Banks
 
-### [HB 1135](/bill/2025-26/hb/1135/) - Local government planning   ❓1
+### [HB 1135](/bill/2025-26/hb/1135/) - Local government planning   ❓2
+* ❓💵 Kelsey Hulse
 * ❓💵 Kelsey Hulse
 
 ### [HB 1146](/bill/2025-26/hb/1146/) - Voting in jails, hospitals   ❓1
@@ -326,6 +327,8 @@
 ### [SB 5684](/bill/2025-26/sb/5684/) - Electioneering/auditors 👍1  
 
 ### [SB 5699](/bill/2025-26/sb/5699/) - Intensive rural development 👍1  
+
+### [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍1  
 
 ### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners   ❓1
 * ❓💵 Curtis Steinhauer

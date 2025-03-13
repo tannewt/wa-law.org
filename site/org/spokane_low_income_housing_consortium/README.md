@@ -8,12 +8,14 @@
 
 ### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
 
-## [SB 5662](/bill/2025-26/sb/5662/) - Utility connection charges 👍1  
+## [SB 5662](/bill/2025-26/sb/5662/) - Utility connection charges 👍2  
+* 👍💵 Ben Stuckart
 * 👍💵 Ben Stuckart
 
 ## 2023-24
 
-### [SB 5662](/bill/2023-24/sb/5662/) - Utility connection charges 👍1  
+### [SB 5662](/bill/2023-24/sb/5662/) - Utility connection charges 👍2  
+* 👍💵 Ben Stuckart
 * 👍💵 Ben Stuckart
 
 ### [HB 1046](/bill/2023-24/hb/1046/) - Housing dev. income limits 👍1  

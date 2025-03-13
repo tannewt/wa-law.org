@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1596/</link>
 		<description>Updates about HB 1596</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Mar 2025 23:50:48 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -178,6 +178,13 @@
 			<pubDate>Wed, 12 Mar 2025 23:50:48 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.kiro7.com/news/local/washington-house-passes-bill-that-could-majorly-redefine-excessive-speeding/QQFFPBD4JFCVXATPF2XECEANQA/#:~:text=House%20Bill%201596</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</title>
+			<description>First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</description>
+			<pubDate>Thu, 13 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-13/First reading, referred to Transportation (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 	</channel>
 </rss>

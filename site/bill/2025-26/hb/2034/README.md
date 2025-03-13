@@ -16,15 +16,19 @@ Sign up to testify:
 
 #### 20 👍 - Pro
 
-#### 617 👎 - Con
+#### 632 👎 - Con
 Testifying:
 * 💵Michael Duchemin - [Retired Firefighters of Washington](/org/retired_firefighters_of_washington/)
 * 💵Peter Diedrick - Washington State School Retirees' Association
+* 💵Joyce Willms - LEOFF1 Coalition
+* 💵Joyce Willms - Thurston County Council on Aging
 
-#### 279 ❓ - Other
+#### 285 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * David Maehren
 * Fran Grant - Retired Public Employees Council of Wa
 * Lisa Won - OSA - available for questions
 * Clair Olivers - Retired Public Employees Council of WA
+* 💵Dennis Lawson - Washington State Council of Fire Fighters
+* 💵Teresa Taylor - (WACOPS) Washington Council of Police & Sheriffs

@@ -50,11 +50,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=4)
 
-#### 15 👍 - Pro
+#### 49 👍 - Pro
 Testifying:
 * Makayla Pugmire
 
-#### 32 👎 - Con
+#### 63 👎 - Con
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner
 * Greg Lovern
@@ -62,6 +62,9 @@ Testifying:
 * Errin Reynolds - [Washington Landlord Association](/org/washington_landlord_association/)
 * Errin Reynolds - [Washington Landlord Association](/org/washington_landlord_association/)
 * Greg Christiansen
+* 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
+* Steve Horvath
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
 #### 0 ❓ - Other
 

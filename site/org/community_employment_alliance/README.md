@@ -18,7 +18,7 @@
 
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  
 
-### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍1  
+### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍2  
 
 ### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
 

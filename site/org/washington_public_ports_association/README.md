@@ -121,7 +121,8 @@
 
 ### [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator 👍1  
 
-### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 ❓1
+* ❓💵 Carly Michiels
 
 ### [SB 5370](/bill/2025-26/sb/5370/) - Port commissioner terms 👍1  
 * 👍 Eric ffitch

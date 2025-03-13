@@ -11,7 +11,7 @@
 
 ### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍1  
 
-### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍2  
+### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg. 👍3  
 * 👍💵 Denise Rodriguez
 
 ### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  

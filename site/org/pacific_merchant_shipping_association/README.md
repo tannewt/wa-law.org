@@ -1,7 +1,7 @@
 # Pacific Merchant Shipping Association
 ## 2025-26
 
-### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍1  
+### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍2  
 
 ### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment  👎1 
 * 👎 Jacqueline Moore
@@ -14,7 +14,7 @@
 ### [HB 1862](/bill/2025-26/hb/1862/) - Train length  👎1 
 * 👎💵 Scott Hazlegrove
 
-### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍1  
+### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍2  
 
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment  👎1 
 * 👎 Jacqueline Moore

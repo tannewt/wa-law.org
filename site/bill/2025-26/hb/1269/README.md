@@ -8,21 +8,17 @@
 
 ## Meetings
 ### Thu 03/13 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): HB 1269 Pawnbroker fees, int. rates
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32964&aId=165428&caId=26301&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32964&aId=165428&caId=26301&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32964&aId=165428&caId=26301&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32964&aId=165428&caId=26301&tId=4)
-
-#### 30 👍 - Pro
+#### 33 👍 - Pro
 Testifying:
 * 💵Karen Strickland - Pawn 1 Inc.
 * Sam Lax - Pawn 1, Inc
 * Nika Mihailov - Kittitas County Trading Co.
 * Janelle Morehart - Washington State Pawnbrokers Association / Ponders Pawnbrokers
 * 💵Tamara Rancore - WA St Pawnbrokers Association
+* Carli Karlson - Wa St. Pawnbrokers Association Secretary
+* 💵Michael Transue - Cash America
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

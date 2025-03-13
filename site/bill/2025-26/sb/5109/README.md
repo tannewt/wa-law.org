@@ -21,7 +21,9 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 
 ### Mon 02/10 04:00 PM - Ways & Means (WM): SB 5109 Mortgage lending fraud acc.
 #### 5 👍 - Pro

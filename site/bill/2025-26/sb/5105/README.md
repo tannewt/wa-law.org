@@ -21,9 +21,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33068&aId=165654&caId=26458&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33068&aId=165654&caId=26458&tId=4)
 
-#### 1 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Laura Harmon - King County Prosecutor's Office
 
 #### 0 👎 - Con
 

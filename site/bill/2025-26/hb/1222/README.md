@@ -21,7 +21,7 @@ Sign up to testify:
 Testifying:
 * 💵Tricia Gullion - Washington State Gambling Commission
 
-#### 289 👎 - Con
+#### 388 👎 - Con
 Testifying:
 * Sandra Mochizuki
 

@@ -21,7 +21,7 @@ Sign up to testify:
 Testifying:
 * 💵David Ramos - Cascade AIDS Project
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

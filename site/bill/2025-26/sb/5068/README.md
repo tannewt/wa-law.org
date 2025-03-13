@@ -11,18 +11,12 @@
 
 ## Meetings
 ### Thu 03/13 10:30 AM - Community Safety, Justice, & Reentry (CSJR): SB 5068 Public employ. eligibility
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165327&caId=26264&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165327&caId=26264&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165327&caId=26264&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165327&caId=26264&tId=4)
-
-#### 10 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Christina Miyamasu - King County Prosecuting Attorney's Office
 
-#### 1692 👎 - Con
+#### 1826 👎 - Con
 Testifying:
 * Randy Welch
 * TaraLyn Fray

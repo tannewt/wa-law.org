@@ -18,9 +18,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165464&caId=26345&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165464&caId=26345&tId=4)
 
-#### 83 👍 - Pro
+#### 96 👍 - Pro
 
-#### 3473 👎 - Con
+#### 3847 👎 - Con
 Testifying:
 * 💵Melissa Gombosky - Evergreen and Vancouver School Districts
 * Joshua Peterson
@@ -40,4 +40,4 @@ Testifying:
 * Andrea Danahey-Feil
 * Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 
-#### 8 ❓ - Other
+#### 10 ❓ - Other

@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Thu 03/13 10:30 AM - Education (ED): SSB 5570 Tribes/K-12 instruction
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165468&caId=26336&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165468&caId=26336&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165468&caId=26336&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165468&caId=26336&tId=4)
-
-#### 77 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * Henry Strom - Office of Superintendent of Public Instruction
 * Bernard Koontz - [Highline Public Schools](/org/highline_public_schools/)
@@ -29,8 +23,9 @@ Testifying:
 * Karen Condon - Confederated Tribes of the Colville Reservation
 * Matt Remle - Lakota, Marysville School District Native Education Department Program Supervisor
 * Victoria Caputo - Lummi tribal member, teacher at Ferndale High School, Ferndale School District
+* Elese Washines - Washington State Native American Education Advisory Committee – Tribal East Representative
 
-#### 607 👎 - Con
+#### 638 👎 - Con
 Testifying:
 * John Axtell
 * TaraLyn Fray

@@ -14,13 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165335&caId=26296&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165335&caId=26296&tId=4)
 
-#### 674 👍 - Pro
+#### 721 👍 - Pro
 Testifying:
 * Venu Nemani - [City of Seattle](/org/city_of_seattle/)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Nick Bond - [City of Port Orchard](/org/city_of_port_orchard/)
 
-#### 673 👎 - Con
+#### 754 👎 - Con
 Testifying:
 * TaraLyn Fray
 

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5102/</link>
 		<description>Updates about SB 5102</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Mar 2025 00:27:54 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Mar 2025 08:02:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -110,6 +110,14 @@
 			<pubDate>Fri, 07 Mar 2025 00:27:54 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/hasegawa/2025/03/06/approaching-floor-cutoff/#:~:text=5102</guid>
+		</item>
+		<item>
+			<title>👍Tyna Ek - General Counsel for the Washington Schools Risk Management Pool</title>
+			<description>Tyna Ek signed up to testify Pro. They are signed up to represent General Counsel for the Washington Schools Risk Management Pool.</description>
+			<pubDate>Thu, 13 Mar 2025 08:02:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tyna/Ek/2025-03-13 08:02:34</guid>
 		</item>
 	</channel>
 </rss>

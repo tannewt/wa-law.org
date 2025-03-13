@@ -88,7 +88,7 @@
 ### [SB 5005](/bill/2025-26/sb/5005/) - Jail system 👍1  
 * 👍💵 Ethan Frenchman
 
-### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍1  
+### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍2  
 
 ### [SB 5032](/bill/2025-26/sb/5032/) - Juvenile rehab. ombuds 👍1  
 

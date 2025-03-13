@@ -22,16 +22,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165368&caId=26290&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165368&caId=26290&tId=4)
 
-#### 203 👍 - Pro
+#### 210 👍 - Pro
 Testifying:
 * Linda Farmer - WSACA Legislative Co Chair
 
-#### 356 👎 - Con
+#### 501 👎 - Con
 Testifying:
 * Gregor Doerr - Washington State Young Republicans
 * Sandra Mochizuki
+* Lorilee Gates
+* Annetta Hermes
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * C.Jay Coles - [Verified Voting](/org/verified_voting/)
 * Susan Greenhalgh - Free Speech For People

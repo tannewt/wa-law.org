@@ -15,6 +15,8 @@
 
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍2  
 
+### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍1  
+
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍1  
 
 ### [HB 1208](/bill/2025-26/hb/1208/) - Salmon recovery projects 👍1  
@@ -74,11 +76,11 @@
 
 ### [HB 1592](/bill/2025-26/hb/1592/) - Public defense services 👍1  
 
-### [HB 1621](/bill/2025-26/hb/1621/) - Housing court commissioners 👍1  
+### [HB 1621](/bill/2025-26/hb/1621/) - Housing court commissioners 👍2  
 
 ### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools 👍1  
 
-### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍2  
+### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍3  
 
 ### [HB 1657](/bill/2025-26/hb/1657/) - Washington 13 free guarantee 👍1  
 * 👍 Brittany Ota-Malloy
@@ -113,7 +115,7 @@
 
 ### [SB 5060](/bill/2025-26/sb/5060/) - Law enforcement personnel 👍2  
 
-### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍1  
+### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍2  
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
 * 👍 AP Diaz
@@ -134,7 +136,7 @@
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍1  
 
-### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
+### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍2  
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
 

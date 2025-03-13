@@ -4,7 +4,8 @@
 ### [HB 1002](/bill/2025-26/hb/1002/) - Recognizing posttraumatic stress disorder as an occupational disease for county coroners, examiners, and investigative personnel. 👍1  
 * 👍💵 Timothy Grisham
 
-### [SB 5021](/bill/2025-26/sb/5021/) - Retention of court exhibits 👍1  
+### [SB 5021](/bill/2025-26/sb/5021/) - Retention of court exhibits 👍2  
+* 👍💵 Timothy Grisham
 * 👍💵 Timothy Grisham
 
 ## [SB 5089](/bill/2025-26/sb/5089/) - Concerning funding rural county coroners and medical examiners. 👍1  

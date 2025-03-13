@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Thu 03/13 10:30 AM - Law & Justice (LAW): ESHB 1149 Cruelty to animals
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165318&caId=26309&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165318&caId=26309&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165318&caId=26309&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165318&caId=26309&tId=4)
-
-#### 1209 👍 - Pro
+#### 1318 👍 - Pro
 Testifying:
 * Calista Brady
 * Ashiana Ranjan
@@ -34,15 +28,18 @@ Testifying:
 * James Snyder
 * Hayden Reeves - TVW.org
 
-#### 9 👎 - Con
+#### 10 👎 - Con
 Testifying:
 * Jodie Olmos - American Federation of Aviculture
 * Debbie Goodrich - Flight Club Foundation
 * Talitha Hazelton
 * Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 * Lewis Waskey - American Federation of Aviculture
+* Debbie Goodrich - Flight Club Foundation
 
-#### 10 ❓ - Other
+#### 11 ❓ - Other
+Testifying:
+* 💵Adán Espino - WA Defender Assn/WA Assn of Criminal Defense Lawyers
 
 ### Mon 01/13 02:00 PM - Community Safety, Justice, & Reentry (CSJR): HB 1149 Cruelty to animals
 #### 665 👍 - Pro

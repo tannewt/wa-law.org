@@ -15,7 +15,7 @@
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  
 
-### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍1  
+### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍2  
 
 ### [SB 5163](/bill/2025-26/sb/5163/) - Child fatalities 👍1  
 
@@ -24,13 +24,15 @@
 
 ### [SB 5227](/bill/2025-26/sb/5227/) - Child sex dolls 👍1  
 
+### [SB 5356](/bill/2025-26/sb/5356/) - Criminal justice trainings 👍1  
+
 ### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍3  
 
-## [SB 5375](/bill/2025-26/sb/5375/) - Clergy, duty to report abuse 👍2  
+## [SB 5375](/bill/2025-26/sb/5375/) - Clergy, duty to report abuse 👍3  
 
 ## 2023-24
 
-### [SB 5375](/bill/2023-24/sb/5375/) - Clergy, duty to report abuse 👍2  
+### [SB 5375](/bill/2023-24/sb/5375/) - Clergy, duty to report abuse 👍3  
 
 ### [HB 1021](/bill/2023-24/hb/1021/) - Social worker licensing 👍1  
 

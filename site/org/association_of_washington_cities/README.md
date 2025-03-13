@@ -237,7 +237,8 @@
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍💵 Carl Schroeder
 
-### [HB 1934](/bill/2025-26/hb/1934/) - Employment investigation/PRA 👍1  
+### [HB 1934](/bill/2025-26/hb/1934/) - Employment investigation/PRA 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  

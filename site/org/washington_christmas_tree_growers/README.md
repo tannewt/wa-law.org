@@ -1,7 +1,8 @@
 # Washington Christmas Tree Growers
 ## 2025-26
 
-### [HB 1261](/bill/2025-26/hb/1261/) - Open space incidental use 👍1  
+### [HB 1261](/bill/2025-26/hb/1261/) - Open space incidental use 👍2  
+* 👍💵 Brad Tower
 * 👍💵 Brad Tower
 
 ### [HB 1294](/bill/2025-26/hb/1294/) - Pesticide application comm. 👍1  

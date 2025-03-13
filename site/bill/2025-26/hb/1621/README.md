@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165451&caId=26349&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165451&caId=26349&tId=4)
 
-#### 33 👍 - Pro
+#### 39 👍 - Pro
+Testifying:
+* Judge Sean O'Donnell - Superior Court Judges' Association
 
 #### 0 👎 - Con
 

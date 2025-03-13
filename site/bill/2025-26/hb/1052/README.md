@@ -15,18 +15,12 @@
 
 ## Meetings
 ### Thu 03/13 10:30 AM - Law & Justice (LAW): EHB 1052 Hate crime offense
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165320&caId=26311&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165320&caId=26311&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165320&caId=26311&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32958&aId=165320&caId=26311&tId=4)
-
-#### 20 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * Yessenia Manzo - King County Prosecuting Attorney's Office
 * Ariel Novick - Anti-Defamation League
 
-#### 1874 👎 - Con
+#### 2057 👎 - Con
 Testifying:
 * Laurie Layne
 * Gregor Doerr - Washington State Young Republicans

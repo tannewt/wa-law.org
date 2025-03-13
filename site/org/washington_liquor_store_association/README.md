@@ -4,6 +4,9 @@
 ### [HB 1636](/bill/2025-26/hb/1636/) - Wine & spirit sales limits 👍1  
 * 👍💵 Brad Tower
 
+### [HB 2035](/bill/2025-26/hb/2035/) - Liquor license fees  👎1 
+* 👎💵 Brad Tower
+
 ## [SB 5371](/bill/2025-26/sb/5371/) - Wine & spirit sales limits 👍1  
 * 👍💵 Brad Tower
 

@@ -43,7 +43,8 @@
 
 ### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
 
-### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍2  
+### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍3  
+* 👍 Tricia Bennon
 * 👍 Tricia Bennon
 
 ## [SB 5667](/bill/2025-26/sb/5667/) - Intercity passenger rail 👍1  

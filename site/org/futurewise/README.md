@@ -127,6 +127,8 @@
 ### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process   ❓1
 * ❓💵 Bryce Yadon
 
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍1  
+
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
 * 👍💵 Bryce Yadon
 

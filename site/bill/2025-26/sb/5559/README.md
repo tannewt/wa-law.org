@@ -18,10 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165571&caId=26360&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165571&caId=26360&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Riley Benge - Washington REALTORS
+* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
+* Scott Bonjukian
 
 #### 0 👎 - Con
 

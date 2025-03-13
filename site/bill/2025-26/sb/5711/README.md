@@ -14,14 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165458&caId=26339&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165458&caId=26339&tId=4)
 
-#### 69 👍 - Pro
+#### 71 👍 - Pro
 Testifying:
 * Victoria O'Banion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 * 💵Nick Federici - NW Community Land Trust Coalition
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Mike Rizzitiello - Common Roots Housing Land Trust
+* Sarah Dickmeyer - Plymouth Housing
 
-#### 750 👎 - Con
+#### 803 👎 - Con
 Testifying:
 * Lance Baker
 * Patrick Gilroy - Washington Self Storage Association
@@ -44,6 +45,7 @@ Testifying:
 * Joe Levin - Northwest Commercial Real Estate Investments
 * Thomas Wolter
 * Robert Wasmund - Secure Storage
+* Ryan Layton - Storage Solutions
 * Rod Kauffman - Building Owners & Managers Assn (BOMA)
 * Anthony D'Ambrosio - Urban Self Storage
 * Dee Hampton

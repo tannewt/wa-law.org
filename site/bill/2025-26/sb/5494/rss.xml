@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5494/</link>
 		<description>Updates about SB 5494</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Mar 2025 06:16:15 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Mar 2025 07:48:50 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -160,7 +160,7 @@
 			<guid isPermaLink="false">testifier/Jamie/Switras/2025-03-10 09:39:06</guid>
 		</item>
 		<item>
-			<title>👎Sandra Mochizuki - LeadClasses.com</title>
+			<title>👎Sandra Mochizuki - Orion, Inc.</title>
 			<description>Sandra Mochizuki signed up to testify Con.</description>
 			<pubDate>Tue, 11 Mar 2025 04:31:24 GMT</pubDate>
 			<category>testifier</category>
@@ -168,7 +168,7 @@
 			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-11 04:31:24</guid>
 		</item>
 		<item>
-			<title>👎Randy Welch - LeadClasses.com</title>
+			<title>👎Randy Welch - Orion, Inc.</title>
 			<description>Randy Welch signed up to testify Con.</description>
 			<pubDate>Tue, 11 Mar 2025 05:01:26 GMT</pubDate>
 			<category>testifier</category>
@@ -198,6 +198,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Angel/Hoff/2025-03-12 06:16:15</guid>
+		</item>
+		<item>
+			<title>👍Mike Lawrence - Orion, Inc.</title>
+			<description>Mike Lawrence signed up to testify Pro. They are signed up to represent Orion, Inc..</description>
+			<pubDate>Thu, 13 Mar 2025 07:03:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Mike/Lawrence/2025-03-13 07:03:34</guid>
+		</item>
+		<item>
+			<title>👍Kyle Lorang - Orion, Inc.</title>
+			<description>Kyle Lorang signed up to testify Pro.</description>
+			<pubDate>Thu, 13 Mar 2025 07:48:50 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Kyle/Lorang/2025-03-13 07:48:50</guid>
 		</item>
 	</channel>
 </rss>

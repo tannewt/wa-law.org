@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165461&caId=26342&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165461&caId=26342&tId=4)
 
-#### 410 👍 - Pro
+#### 427 👍 - Pro
 Testifying:
 * 💵Shawn Latham - Serlf Advocates In Leadership
 * Kyle Matheson - Self Advocate
@@ -35,7 +35,7 @@ Testifying:
 * ARZU FOROUGH - Washington Autism Alliance
 * Jennifer Maxwell
 
-#### 473 👎 - Con
+#### 486 👎 - Con
 Testifying:
 * Mike Yestramski
 * Jeff Carter - Friends of Rainier

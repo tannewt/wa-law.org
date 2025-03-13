@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165617&caId=26422&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165617&caId=26422&tId=4)
 
-#### 22 👍 - Pro
+#### 38 👍 - Pro
 Testifying:
 * Brandon Williams - Brandon Williams PLLC, Family Law Attorney
 * Tamara Emerson - Concerned Citizen
@@ -31,6 +31,13 @@ Testifying:
 * Evangline Stratton
 * Heidi Padilla - ??Justice4Nicolaas&Ashley??
 * Dana Tingey
+* Tina Swithin - One Mom's Battle
+* Kimberly Kerr
+* Amy Annette
+* Gina Bloom - Victim Advocate
+* Brandon Padilla
+* Sarah Hulteen - DV Survivor Mother
+* Natalie Sullivan
 
 #### 0 👎 - Con
 

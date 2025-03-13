@@ -52,6 +52,9 @@
 ### [HB 1418](/bill/2025-26/hb/1418/) - PTBA governing body members 👍1  
 * 👍💵 Anna Zivarts
 
+### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍1  
+* 👍 Todd H Carlisle
+
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
 
 ### [HB 1826](/bill/2025-26/hb/1826/) - Establishing a right to repair for mobility equipment for persons with physical disabilities. 👍1  

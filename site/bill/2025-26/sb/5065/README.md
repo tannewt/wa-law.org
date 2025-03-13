@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165658&caId=26462&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165658&caId=26462&tId=4)
 
-#### 29 👍 - Pro
+#### 45 👍 - Pro
 Testifying:
 * Josh Diamond
+* Dan Paul - [Humane World for Animals](/org/humane_world_for_animals/)
 
 #### 1 👎 - Con
 Testifying:

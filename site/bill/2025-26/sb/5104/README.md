@@ -21,7 +21,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165372&caId=26284&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165372&caId=26284&tId=4)
 
-#### 145 👍 - Pro
+#### 157 👍 - Pro
 Testifying:
 * Angelo Tadrous - Seattle University Workers' Rights Clinic
 * Yasmene Hammoud - Seattle University Workers' Rights Clinic
@@ -31,8 +31,9 @@ Testifying:
 * Ingrid Naumann
 * Maricres Castro
 * 💵Jean Hill - Washington State Catholic Conference
+* 💵Kelli Carson - Washington State Association for Justice
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

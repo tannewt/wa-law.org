@@ -14,17 +14,12 @@
 
 ## Meetings
 ### Thu 03/13 08:00 AM - Health & Long Term Care (HLTC): SHB 1142 In-home care training
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165355&caId=26304&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165355&caId=26304&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165355&caId=26304&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165355&caId=26304&tId=4)
-
-#### 12 👍 - Pro
+#### 22 👍 - Pro
 Testifying:
 * Bea Rector - Dept. of Social and Health Services
+* De Anna Winterrose - The Arc of Tri-Cities/ Benton-Franklin County (Parent Coalition)
 
-#### 611 👎 - Con
+#### 636 👎 - Con
 Testifying:
 * George Simms
 * TaraLyn Fray

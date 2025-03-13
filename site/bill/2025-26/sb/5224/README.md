@@ -8,18 +8,12 @@
 
 ## Meetings
 ### Thu 03/13 10:30 AM - Community Safety, Justice, & Reentry (CSJR): SB 5224 Officer certification
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165330&caId=26267&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165330&caId=26267&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165330&caId=26267&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165330&caId=26267&tId=4)
-
-#### 3 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Kimberly Bliss - Washington State Criminal Justice Training Commission
 
-#### 19 👎 - Con
+#### 25 👎 - Con
 
 #### 0 ❓ - Other
 

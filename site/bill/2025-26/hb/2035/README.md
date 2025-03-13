@@ -16,8 +16,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 3 👎 - Con
+#### 6 👎 - Con
 Testifying:
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
+* 💵Brad Tower - [Washington Liquor Store Association](/org/washington_liquor_store_association/)
 
 #### 0 ❓ - Other

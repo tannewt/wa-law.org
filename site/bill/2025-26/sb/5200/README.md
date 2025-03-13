@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165670&caId=26496&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165670&caId=26496&tId=4)
 
-#### 37 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Wanda Tapp-Kratzer
 * Wanda Tapp-Kratzer

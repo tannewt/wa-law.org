@@ -15,13 +15,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33008&aId=165417&caId=26274&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33008&aId=165417&caId=26274&tId=4)
 
-#### 39 👍 - Pro
+#### 51 👍 - Pro
 Testifying:
 * Kate Armstrong - Department of Revenue
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Richard Schilling
 
 ### Tue 02/04 04:00 PM - Ways & Means (WM): SB 5431 Tax and revenue laws
 #### 1 👍 - Pro

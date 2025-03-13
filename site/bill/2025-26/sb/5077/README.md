@@ -22,14 +22,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165369&caId=26291&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165369&caId=26291&tId=4)
 
-#### 529 👍 - Pro
+#### 547 👍 - Pro
 Testifying:
 * 💵Denisse Guerrero - Washington Community Alliance
 * 💵Anthony Blankenship - Free The Vote WA
 * Raymond Williams - Just Us Solutions
 * Lai King - Pacific Islander Health Board
+* Jess Unger - Institute for Responsive Government
 
-#### 1411 👎 - Con
+#### 1604 👎 - Con
 Testifying:
 * Gregor Doerr - Washington State Young Republicans
 * Laurie Layne

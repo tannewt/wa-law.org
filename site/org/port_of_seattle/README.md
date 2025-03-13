@@ -11,7 +11,7 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
-### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍1  
+### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍2  
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 

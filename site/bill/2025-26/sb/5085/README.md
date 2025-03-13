@@ -20,18 +20,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165474&caId=26355&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165474&caId=26355&tId=4)
 
-#### 1341 👍 - Pro
+#### 1376 👍 - Pro
 Testifying:
 * Connie Greenidge - Retired Public Employees Council of WA
 * Linda Nelsen - Retired Public Employees Council of WA
 * Clair Olivers - Retired Public Employees Council of WA
+* Gretchen McDevitt
 * Pat McLachlan - Washington State School Retirees' Association
 
-#### 31 👎 - Con
+#### 57 👎 - Con
 Testifying:
 * Edwin Goodwillie
 * Bradd Reynolds
 * 💵Michael Duchemin - [Retired Firefighters of Washington](/org/retired_firefighters_of_washington/)
+* Jim O'Hern
+* 💵Dennis Lawson - Washington State Council of Fire Fighters
+* Kathy Parks - Leoff1
+* 💵Joyce Willms - Thurston County Council on Aging
+* 💵Joyce Willms - LEOFF1 Coalition
+* 💵Teresa Taylor - (WACOPS) Washington Council of Police & Sheriffs
 
 #### 15 ❓ - Other
 Testifying:

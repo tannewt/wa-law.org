@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 03/13 08:00 AM - Health & Long Term Care (HLTC): HB 1009 Pharmacy commission members
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165354&caId=26303&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165354&caId=26303&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165354&caId=26303&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165354&caId=26303&tId=4)
-
 #### 4 👍 - Pro
 Testifying:
 * Rick Hughes - Ray's Pharmacy, Orcas Island

@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Thu 03/13 08:00 AM - Health & Long Term Care (HLTC): SHB 1720 Community care/Rx assistance
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165360&caId=26305&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165360&caId=26305&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165360&caId=26305&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32985&aId=165360&caId=26305&tId=4)
-
-#### 68 👍 - Pro
+#### 75 👍 - Pro
 Testifying:
 * Ashiana Ranjan
 * Calista Brady

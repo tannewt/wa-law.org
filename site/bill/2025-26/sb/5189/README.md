@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Thu 03/13 10:30 AM - Education (ED): SB 5189 Competency-based education
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165370&caId=26272&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165370&caId=26272&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165370&caId=26272&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165370&caId=26272&tId=4)
-
-#### 76 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * John Axtell
 * Nick Olson
@@ -33,14 +27,18 @@ Testifying:
 * Matthew Brewer
 * Troy Goracke - WA State Board for Community and Technical Colleges
 * Alissa Muller - [Washington State Board of Education](/org/washington_state_board_of_education/)
+* Connor Arthur
 * Lars Hill
+* Julia Bamba - [Issaquah School District](/org/issaquah_school_district/)
 
-#### 1683 👎 - Con
+#### 2126 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki
 * Gabriel Jacobs
 * Sarah Garriott
+* Linda Wojciechowski
+* Linda Wojciechowski
 
 #### 5 ❓ - Other
 

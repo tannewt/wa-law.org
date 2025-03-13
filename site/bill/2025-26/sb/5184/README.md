@@ -31,7 +31,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=4)
 
-#### 885 👍 - Pro
+#### 968 👍 - Pro
 Testifying:
 * Skylar Bisom-Rapp - Inversion Design Build
 * Council Member Zack Zappone - [City of Spokane](/org/city_of_spokane/)
@@ -47,9 +47,14 @@ Testifying:
 * 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 * Riley Benge - Washington REALTORS
 * Cary Westerbeck
+* 💵Scott Hazlegrove - Master Builders Association of King & Snohomish Counties
+* Jace Cotton - Bellingham City Councilmember (testifying as an individual)
+* Sarah Dickmeyer - Plymouth Housing
 * Angela Rozmyn - Natural and Built Environments
+* Daniel Herriges - Parking Reform Network
+* Scott Bonjukian
 
-#### 358 👎 - Con
+#### 474 👎 - Con
 Testifying:
 * Andrew Johnson - Senior Planner of the City of Covington
 * Mary Lou Pauly - Mayor, City of Issaquah
@@ -60,6 +65,7 @@ Testifying:
 * Rebecca Deming - Community Development Director, City of Des Moines
 * Richa Sigdel - City of Pasco, Deputy City Manager
 * Matt Herrera - Planning Director, City of Renton
+* Mariya Frost - Kemper Development Company
 
 #### 4 ❓ - Other
 Testifying:

@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33062&aId=165639&caId=26535&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33062&aId=165639&caId=26535&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Adam Fyall - Benton County
+* Discovery Lab of Ellensburg - Discovery Lab of Ellensburg
 
 #### 0 👎 - Con
 

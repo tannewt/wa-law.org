@@ -97,6 +97,8 @@
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍2  
 * 👍💵 Heather Trim
 
+### [SB 5556](/bill/2025-26/sb/5556/) - Adopt-a-highway program 👍1  
+
 ### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1 👎1 
 * 👎💵 Heather Trim
 

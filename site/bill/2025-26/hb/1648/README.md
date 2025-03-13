@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Thu 03/13 10:30 AM - Early Learning & K-12 Education (EDU): E2SHB 1648 Child care qualifications
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32994&aId=165446&caId=26334&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32994&aId=165446&caId=26334&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32994&aId=165446&caId=26334&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32994&aId=165446&caId=26334&tId=4)
-
-#### 79 👍 - Pro
+#### 119 👍 - Pro
 Testifying:
 * Karen Hedine - WA Alliance of YMCAs
 * Susan Brown - Kids Co., Washington Child Care Centers Assn, and the Greater Seattle Child Care Business Coalition
@@ -25,22 +19,26 @@ Testifying:
 * Johnny Otto
 * Lois Martin
 * Susan Brown
+* Suzie Hanson - Washington Federation of Independent Schools
 * Mary Curry
 
-#### 18 👎 - Con
+#### 21 👎 - Con
 Testifying:
 * Annie Garrett
 * Samantha Carrillo - CARRILLO
 * Isabella Sebastiani
 * Heather Robison - Bates Technical College
 * Nathanial Helligso - Non-Profit Consultant
+* Adriana Taylor - Preschool Teacher
+* Perla Garcia
 * Donnell Bacus
 
-#### 5 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Raishawn Swensen - Washington Association for the Education of Young Children (WAEYC) Public Policy Fellow
 * Ruth Ayodeji
 * Donnell Bacus
+* 💵Allison Krutsinger - Dept of Children, Youth, and Families
 
 ### Mon 02/24 01:30 PM - Appropriations (APP): SHB 1648 Child care qualifications
 #### 135 👍 - Pro

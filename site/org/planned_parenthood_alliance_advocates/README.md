@@ -59,6 +59,8 @@
 
 ### [HB 1604](/bill/2025-26/hb/1604/) - Jail searches/gender 👍1  
 
+### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍1  
+
 ### [HB 1805](/bill/2025-26/hb/1805/) - Children services/local tax 👍1  
 
 ### [HB 1813](/bill/2025-26/hb/1813/) - Medical assist reprocurement 👍1  

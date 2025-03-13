@@ -44,9 +44,10 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 4 👎 - Con
+#### 11 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Teodorin Morca
 
 #### 0 ❓ - Other
 
