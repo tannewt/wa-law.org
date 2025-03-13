@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
 
+## 📰 Articles
+* 03/12/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington carbon auction prices rise again • Washington State Standard](https://washingtonstatestandard.com/2025/03/12/washington-carbon-auction-prices-rise-again/#:~:text=House%20Bill%201975)
+
 ## Meetings
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1975 Climate commitment act
 #### 95 👍 - Pro

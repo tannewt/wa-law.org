@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1596/</link>
 		<description>Updates about HB 1596</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 23:50:48 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -171,6 +171,13 @@
 			<pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-11/Third reading, passed; yeas, 84; nays, 12; absent, 0; excused, 2.</guid>
+		</item>
+		<item>
+			<title>Washington House passes bill that could majorly redefine ‘excessive speeding’ – KIRO 7 News Seattle</title>
+			<description>News article "Washington House passes bill that could majorly redefine ‘excessive speeding’ – KIRO 7 News Seattle" from KIRO7.</description>
+			<pubDate>Wed, 12 Mar 2025 23:50:48 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kiro7.com/news/local/washington-house-passes-bill-that-could-majorly-redefine-excessive-speeding/QQFFPBD4JFCVXATPF2XECEANQA/#:~:text=House%20Bill%201596</guid>
 		</item>
 	</channel>
 </rss>

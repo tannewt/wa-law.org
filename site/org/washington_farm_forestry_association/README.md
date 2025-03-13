@@ -5,9 +5,11 @@
 
 ### [HB 1389](/bill/2025-26/hb/1389/) - Timber purchase reporting 👍1  
 
-### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection   ❓2
+### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍2  ❓2
 * ❓ ELAINE ONEIL
 * ❓ Tony Craven
+* 👍 ELAINE ONEIL
+* 👍 Tony Craven
 
 ### [HB 1707](/bill/2025-26/hb/1707/) - Noxious weeds list/crops 👍1  
 

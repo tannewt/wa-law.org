@@ -8,7 +8,7 @@
 
 ### [HB 1249](/bill/2025-26/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission. 👍1  
 
-### [HB 1253](/bill/2025-26/hb/1253/) - Utility joint use agreements 👍1  
+### [HB 1253](/bill/2025-26/hb/1253/) - Utility joint use agreements 👍2  
 
 ## [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 

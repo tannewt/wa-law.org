@@ -11,6 +11,19 @@
 * 02/10/2025 [Senate Democrats](/org/senate_democrats/) - [Building momentum: Over a third of the way through session - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/2025/02/10/building-momentum-over-a-third-of-the-way-through-session/#:~:text=SB%205587)
 
 ## Meetings
+### Tue 03/18 04:00 PM - Housing (HOUS): SSB 5587 Affordable housing dev.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33022&aId=165514&caId=26509&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33022&aId=165514&caId=26509&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33022&aId=165514&caId=26509&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33022&aId=165514&caId=26509&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5587 Affordable housing dev.
 #### 39 👍 - Pro
 Testifying:

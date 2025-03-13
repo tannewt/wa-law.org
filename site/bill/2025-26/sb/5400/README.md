@@ -15,6 +15,21 @@
 * 05/18/2000 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Marko Liias](https://senatedemocrats.wa.gov/liias/#:~:text=Senate%20Bill%205400)
 
 ## Meetings
+### Tue 03/18 04:00 PM - Ways & Means (WM): SSB 5400 Local news journalism
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165852&caId=26439&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165852&caId=26439&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165852&caId=26439&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165852&caId=26439&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Dee Anne Finken - League of Women Voters of Washington
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/28 10:30 AM - Labor & Commerce (LC): SB 5400 Local news journalism
 #### 424 👍 - Pro
 Testifying:

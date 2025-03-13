@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 03/18 01:30 PM - State Government & Tribal Relations (SGOV): SSB 5049 Sunshine committee
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33062&aId=165637&caId=26533&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33062&aId=165637&caId=26533&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33062&aId=165637&caId=26533&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33062&aId=165637&caId=26533&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/24 10:30 AM - State Government & Elections (SGE): SB 5049 Sunshine committee
 #### 38 👍 - Pro
 Testifying:

@@ -17,8 +17,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32978&aId=165341&caId=26269&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32978&aId=165341&caId=26269&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
+* Tyler Langford - Office of the Insurance Commissioner
 * Travis Moore - Service Contract Industry Council
 
 #### 0 👎 - Con

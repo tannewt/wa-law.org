@@ -16,11 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32963&aId=165423&caId=26316&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32963&aId=165423&caId=26316&tId=4)
 
-#### 233 👍 - Pro
+#### 481 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 8 👎 - Con
+#### 39 👎 - Con
+Testifying:
+* steve sinwell
 
 #### 0 ❓ - Other
 

@@ -15,6 +15,21 @@
 * 01/16/2025 [The Center Square](/org/the_center_square/) - [Green Hill whistleblower warns the inmates could ‘take over the facility’ | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_b3d83aee-d42f-11ef-b5ee-bf1241616a4e.html#:~:text=Senate%20Bill%205278)
 
 ## Meetings
+### Tue 03/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): E2SSB 5278 Juvenile rehabilitation
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165704&caId=26475&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165704&caId=26475&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165704&caId=26475&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165704&caId=26475&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5278 Juvenile correctional pop.
 #### 259 👍 - Pro
 

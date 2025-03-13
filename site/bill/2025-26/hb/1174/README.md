@@ -13,6 +13,19 @@
 * 03/05/2025 [House Democrats](/org/house_democrats/) - [Equal access to justice: Peterson bill helps courts provide interpreter services – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/05/equal-access-to-justice-peterson-bill-helps-courts-provide-interpreter-services/#:~:text=House%20Bill%201174)
 
 ## Meetings
+### Tue 03/18 08:00 AM - Law & Justice (LAW): E2SHB 1174 Court interpreters
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165618&caId=26423&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165618&caId=26423&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165618&caId=26423&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165618&caId=26423&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/26 01:30 PM - Appropriations (APP): SHB 1174 Court interpreters
 #### 34 👍 - Pro
 Testifying:

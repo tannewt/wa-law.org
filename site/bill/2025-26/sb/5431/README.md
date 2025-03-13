@@ -15,7 +15,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33008&aId=165417&caId=26274&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33008&aId=165417&caId=26274&tId=4)
 
-#### 22 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * Kate Armstrong - Department of Revenue
 

@@ -19,7 +19,7 @@ Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Kimberly Bliss - Washington State Criminal Justice Training Commission
 
-#### 5 👎 - Con
+#### 19 👎 - Con
 
 #### 0 ❓ - Other
 

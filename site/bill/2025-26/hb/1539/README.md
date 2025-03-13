@@ -19,10 +19,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33007&aId=165407&caId=26313&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33007&aId=165407&caId=26313&tId=4)
 
-#### 34 👍 - Pro
+#### 57 👍 - Pro
 Testifying:
 * 💵Kenton Brine - [Northwest Insurance Council](/org/northwest_insurance_council/)
 * MIKE BUCY - Stevens County Fire Protection District 1
+* ELAINE ONEIL - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
+* Tony Craven - [Washington Farm Forestry Association](/org/washington_farm_forestry_association/)
+* Eli Loftis - Okanogan Conservation District
 
 #### 0 👎 - Con
 

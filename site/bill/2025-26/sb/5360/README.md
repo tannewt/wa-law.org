@@ -19,15 +19,24 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32969&aId=165442&caId=26352&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32969&aId=165442&caId=26352&tId=4)
 
-#### 53 👍 - Pro
+#### 60 👍 - Pro
+Testifying:
+* Bradley Roberts - Washington State Attorney General's Office
 
-#### 571 👎 - Con
+#### 770 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki
+* 💵Bill Stauffacher - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* 💵Jake Mayson - Greater Spokane Incorporated
+* 💵Melissa Gombosky - Inland Empire Paper Company
+* 💵Peter Godlewski - [Association of Washington Business](/org/association_of_washington_business/)
 * 💵Cory Shaw - [Washington Aggregates & Concrete Association](/org/washington_aggregates_&_concrete_association/)
+* Van Collins - American Council of Engineering Companies of Washington (ACEC)
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Mallorie Davies - Washington and Northern Idaho District Council of Laborers
 
 ### Fri 01/24 10:30 AM - Environment, Energy & Technology (ENET): SB 5360 Environmental crimes
 #### 17 👍 - Pro

@@ -23,6 +23,9 @@
 * 👍 Shelly Washington
 * 👍💵 Nickeia Hunter
 
+### [SB 5223](/bill/2025-26/sb/5223/) - Criminal fingerprinting  👎2 
+* 👎💵 Paul Benz
+
 ### [SB 5342](/bill/2025-26/sb/5342/) - Legislators/state facilities 👍2  
 
 ## [SB 5584](/bill/2025-26/sb/5584/) - Independent prosecutor 👍3  

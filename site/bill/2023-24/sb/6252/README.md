@@ -10,7 +10,7 @@
 ### Tue 01/23 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 6252 Automobile insurance
 #### 11 👍 - Pro
 Testifying:
-* Justin Lewis - Washington Independent Collision Repairers Association
+* Justin Lewis - [Washington Independent Collision Repairers Association](/org/washington_independent_collision_repairers_association/)
 * Ron Mondragon
 * Mark Buchanan
 * David Forte - Office of the Insurance Commissioner

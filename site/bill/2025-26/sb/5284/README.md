@@ -18,6 +18,19 @@
 * 02/03/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: Back at the capitol for the 2025 session - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/02/03/lizs-loveletter-back-at-the-capitol-for-the-2025-session/#:~:text=SB%205284):)
 
 ## Meetings
+### Mon 03/17 01:30 PM - Environment & Energy (ENVI): E2SSB 5284 Solid waste management
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165565&caId=26487&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165565&caId=26487&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165565&caId=26487&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165565&caId=26487&tId=4)
+
+#### 6 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5284 Solid waste management
 #### 864 👍 - Pro
 Testifying:

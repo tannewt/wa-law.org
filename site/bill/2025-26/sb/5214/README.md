@@ -12,6 +12,19 @@
 * 02/14/2025 [Senate Democrats](/org/senate_democrats/) - [Shewmake Bill To Expand Nutrition Access, Establish Mobile Farmers Market Program Passes Senate - Sen. Sharon Shewmake](https://senatedemocrats.wa.gov/shewmake/2025/02/13/shewmake-bill-to-expand-nutrition-access-establish-mobile-farmers-market-program-passes-senate/#:~:text=Senate%20Bill%205214)
 
 ## Meetings
+### Tue 03/18 01:30 PM - Human Services, Youth, & Early Learning (HSEL): SSB 5214 Mobile market programs
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165539&caId=26474&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165539&caId=26474&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165539&caId=26474&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165539&caId=26474&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/15 08:00 AM - Human Services (HS): SB 5214 Mobile market programs
 #### 6 👍 - Pro
 Testifying:

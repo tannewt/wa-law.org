@@ -14,7 +14,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32963&aId=165421&caId=26314&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32963&aId=165421&caId=26314&tId=4)
 
-#### 20 👍 - Pro
+#### 27 👍 - Pro
 Testifying:
 * 💵Michael Shaw - [Pierce County](/org/pierce_county/)
 * Raymond Williams - Pierce County Public Works - Ferry Administrator

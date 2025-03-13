@@ -12,6 +12,19 @@
 * 03/06/2025 [Senate Democrats](/org/senate_democrats/) - [Ramos legislation to strengthen safe excavation practices passes Senate - Sen. Bill Ramos](https://senatedemocrats.wa.gov/ramos/2025/03/06/ramos-legislation-to-strengthen-safe-excavation-practices-passes-senate/#:~:text=Senate%20Bill%205627)
 
 ## Meetings
+### Tue 03/18 04:00 PM - Environment & Energy (ENVI): ESSB 5627 Safe excavation
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33044&aId=165570&caId=26490&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33044&aId=165570&caId=26490&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33044&aId=165570&caId=26490&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33044&aId=165570&caId=26490&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 02/14 10:30 AM - Environment, Energy & Technology (ENET): SB 5627 Safe excavation
 #### 90 👍 - Pro
 Testifying:

@@ -20,11 +20,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32965&aId=165441&caId=26322&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32965&aId=165441&caId=26322&tId=4)
 
-#### 3 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * 💵Brooke Davies - [Cosmetologists of Washington United](/org/cosmetologists_of_washington_united/)
+* 💵Intisar Benge - L'Oreal
+* Shawn Stearns - L'Oreal
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

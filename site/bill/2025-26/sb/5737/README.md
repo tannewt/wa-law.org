@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [Major boost to special education funding gets Washington Senate approval • Washington State Standard](https://washingtonstatestandard.com/2025/03/12/major-boost-to-special-education-funding-gets-washington-senate-approval/#:~:text=Senate%20Bill%205737)
 * 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=SB%205737)
 
 ## Meetings
@@ -17,9 +18,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165464&caId=26345&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165464&caId=26345&tId=4)
 
-#### 54 👍 - Pro
+#### 83 👍 - Pro
 
-#### 2431 👎 - Con
+#### 3473 👎 - Con
 Testifying:
 * 💵Melissa Gombosky - Evergreen and Vancouver School Districts
 * Joshua Peterson
@@ -32,6 +33,11 @@ Testifying:
 * Nicole Sorensen
 * Jon Holmen - Lake Washington School District
 * Aurora Flores
+* Jennifer Standard - [Washington School Counselor Association](/org/washington_school_counselor_association/)
+* Jorge Torres - [Washington School Counselor Association](/org/washington_school_counselor_association/)
+* Michelle Sotelo - [Washington School Counselor Association](/org/washington_school_counselor_association/)
+* Michael Hill
+* Andrea Danahey-Feil
 * Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
 
-#### 4 ❓ - Other
+#### 8 ❓ - Other

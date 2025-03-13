@@ -8,6 +8,21 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Mon 03/17 01:30 PM - Housing (HOUS): SSB 5298 Mobile home community sale
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165511&caId=26506&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165511&caId=26506&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165511&caId=26506&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165511&caId=26506&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Victoria O'Banion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/18 04:00 PM - Ways & Means (WM): SSB 5298 Mobile home community sale
 #### 180 👍 - Pro
 Testifying:

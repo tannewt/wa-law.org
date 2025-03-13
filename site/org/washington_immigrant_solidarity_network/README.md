@@ -66,9 +66,13 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
+### [SB 5223](/bill/2025-26/sb/5223/) - Criminal fingerprinting  👎1 
+
 ### [SB 5321](/bill/2025-26/sb/5321/) - Postsecondary/med. abortion 👍1  
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
+
+### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍1  
 
 ### [SB 5442](/bill/2025-26/sb/5442/) - College promise pilot 👍1  
 

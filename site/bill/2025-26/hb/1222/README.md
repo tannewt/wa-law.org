@@ -17,13 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165386&caId=26328&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165386&caId=26328&tId=4)
 
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * 💵Tricia Gullion - Washington State Gambling Commission
 
-#### 59 👎 - Con
+#### 289 👎 - Con
+Testifying:
+* Sandra Mochizuki
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 Testifying:
 * 💵Rowland Thompson - Allied Daily Newspapers and WSABroadcasters
 

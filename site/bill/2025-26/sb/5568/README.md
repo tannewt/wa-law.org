@@ -15,11 +15,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165381&caId=26281&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165381&caId=26281&tId=4)
 
-#### 38 👍 - Pro
+#### 54 👍 - Pro
 
-#### 62 👎 - Con
+#### 300 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Thu 02/06 08:00 AM - Health & Long Term Care (HLTC): SB 5568 State health plan
 #### 12 👍 - Pro

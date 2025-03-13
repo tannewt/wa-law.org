@@ -8,6 +8,19 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Thu 03/20 08:00 AM - Community Safety, Justice, & Reentry (CSJR): SSB 5388 DOC behavioral health cert.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33070&aId=165668&caId=26467&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33070&aId=165668&caId=26467&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33070&aId=165668&caId=26467&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33070&aId=165668&caId=26467&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/17 04:00 PM - Ways & Means (WM): SB 5388 DOC behavioral health cert.
 #### 3 👍 - Pro
 Testifying:

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Nobles bill to support incarcerated families - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/12/senate-passes-nobles-bill-to-support-incarcerated-families/#:~:text=Senate%20Bill%205182)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [February Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/02/26/february-session-recap-2/#:~:text=SB%205182)
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205182)
 * 01/21/2025 [Senate Democrats](/org/senate_democrats/) - [Nobles bill to support incarcerated families heard in committee - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/21/nobles-bill-to-support-incarcerated-families-heard-in-committee/#:~:text=Senate%20Bill%205182)

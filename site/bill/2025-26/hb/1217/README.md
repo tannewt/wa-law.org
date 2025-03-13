@@ -43,6 +43,28 @@
 * [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201217)
 
 ## Meetings
+### Wed 03/19 01:30 PM - Housing (HSG): EHB 1217 Residential tenants
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=4)
+
+#### 15 👍 - Pro
+Testifying:
+* Makayla Pugmire
+
+#### 32 👎 - Con
+Testifying:
+* Stacey Valenzuela - Manufactured Homeowner
+* Greg Lovern
+* Gordon Haggerty
+* Errin Reynolds - [Washington Landlord Association](/org/washington_landlord_association/)
+* Errin Reynolds - [Washington Landlord Association](/org/washington_landlord_association/)
+* Greg Christiansen
+
+#### 0 ❓ - Other
+
 ### Mon 02/03 04:00 PM - Appropriations (APP): SHB 1217 Residential tenants
 #### 3607 👍 - Pro
 Testifying:

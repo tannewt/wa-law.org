@@ -1,7 +1,8 @@
 # Northwest Cooperative Development Center
 ## 2025-26
 
-### [HB 1191](/bill/2025-26/hb/1191/) - Concerning removing vehicle titles from manufactured homes. 👍3  
+### [HB 1191](/bill/2025-26/hb/1191/) - Concerning removing vehicle titles from manufactured homes. 👍4  
+* 👍 Victoria OBanion
 * 👍 Victoria OBanion
 
 ### [HB 1358](/bill/2025-26/hb/1358/) - Mobile home community sale 👍1  
@@ -12,7 +13,8 @@
 ### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍3  
 * 👍 Victoria OBanion
 
-### [HB 1760](/bill/2025-26/hb/1760/) - Manufactured homes/org. sale 👍1  
+### [HB 1760](/bill/2025-26/hb/1760/) - Manufactured homes/org. sale 👍2  
+* 👍 Victoria OBanion
 * 👍 Victoria OBanion
 
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍1  
@@ -22,9 +24,10 @@
 
 ### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
 
-### [SB 5298](/bill/2025-26/sb/5298/) - Mobile home community sale 👍2  
+### [SB 5298](/bill/2025-26/sb/5298/) - Mobile home community sale 👍3  
 * 👍 Victoria OBanion
 * 👍 Victoria OBanion
+* 👍 Victoria O'Banion
 
 ### [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  
 

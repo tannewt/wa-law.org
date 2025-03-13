@@ -24,7 +24,7 @@
 * ❓ Karl Almgren
 * ❓ Karl Almgren
 
-### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓1
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 ❓1
 * ❓ Karl Almgren
 
 ### [SB 5298](/bill/2025-26/sb/5298/) - Mobile home community sale 👍1  

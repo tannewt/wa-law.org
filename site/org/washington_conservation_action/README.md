@@ -50,6 +50,8 @@
 
 ### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍1  
 
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
+
 ### [SB 5091](/bill/2025-26/sb/5091/) - Motor vehicle emissions  👎1 
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  

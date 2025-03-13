@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall this Saturday - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/03/12/town-hall-this-saturday/#:~:text=SB%205570)
 * 02/18/2025 [Senate Democrats](/org/senate_democrats/) - [Expanding education and equity - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/18/expanding-education-and-equity/#:~:text=Senate%20Bill%205570)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205570)
 
@@ -19,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165468&caId=26336&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165468&caId=26336&tId=4)
 
-#### 49 👍 - Pro
+#### 77 👍 - Pro
 Testifying:
 * Henry Strom - Office of Superintendent of Public Instruction
 * Bernard Koontz - [Highline Public Schools](/org/highline_public_schools/)
@@ -29,7 +30,7 @@ Testifying:
 * Matt Remle - Lakota, Marysville School District Native Education Department Program Supervisor
 * Victoria Caputo - Lummi tribal member, teacher at Ferndale High School, Ferndale School District
 
-#### 554 👎 - Con
+#### 607 👎 - Con
 Testifying:
 * John Axtell
 * TaraLyn Fray

@@ -18,9 +18,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32994&aId=165445&caId=26333&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32994&aId=165445&caId=26333&tId=4)
 
-#### 6 👍 - Pro
+#### 10 👍 - Pro
 
-#### 542 👎 - Con
+#### 586 👎 - Con
 Testifying:
 * TaraLyn Fray
 

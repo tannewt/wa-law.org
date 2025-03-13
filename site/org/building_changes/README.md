@@ -35,6 +35,8 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
+### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
+
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍3  
 
 ### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍1  

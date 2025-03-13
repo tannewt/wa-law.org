@@ -93,7 +93,7 @@
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
 
-### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍1  
+### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍2  
 
 ### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
 
@@ -105,7 +105,7 @@
 * 👍💵 Nicole Gomez
 * 👍💵 Nicole Gomez
 
-### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
+### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍2  
 
 ### [SB 5161](/bill/2025-26/sb/5161/) - Transportation budget   ❓1
 * ❓ Kati Durkin
@@ -116,6 +116,10 @@
 * ❓💵 Nicole Gomez
 * 👍💵 Nicole Gomez
 
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+
+### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍1  
+
 ### [SB 5217](/bill/2025-26/sb/5217/) - Pregnancy accommodations 👍1  
 
 ### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍1  
@@ -123,6 +127,8 @@
 ### [SB 5326](/bill/2025-26/sb/5326/) - Insulin emergency supply 👍1  
 
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
+
+### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools  👎1 
 
 ### [SB 5397](/bill/2025-26/sb/5397/) - CTC faculty w/o tenure limit 👍1  
 

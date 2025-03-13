@@ -49,6 +49,8 @@
 
 ### [SB 5061](/bill/2025-26/sb/5061/) - Public works wages   ❓2
 
+### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍1  
+
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 
 ### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  

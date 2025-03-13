@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1296/</link>
 		<description>Updates about HB 1296</description>
 		<language>en-US</language>
-		<lastBuildDate>Sun, 09 Mar 2025 20:31:35 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 00:00:00 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -657,6 +657,13 @@
 			<pubDate>Sun, 09 Mar 2025 20:31:35 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201296</guid>
+		</item>
+		<item>
+			<title>1st substitute bill substituted.</title>
+			<description>1st substitute bill substituted.</description>
+			<pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-12/1st substitute bill substituted.</guid>
 		</item>
 	</channel>
 </rss>

@@ -22,13 +22,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165368&caId=26290&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165368&caId=26290&tId=4)
 
-#### 198 👍 - Pro
+#### 203 👍 - Pro
+Testifying:
+* Linda Farmer - WSACA Legislative Co Chair
 
-#### 82 👎 - Con
+#### 356 👎 - Con
 Testifying:
 * Gregor Doerr - Washington State Young Republicans
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* C.Jay Coles - [Verified Voting](/org/verified_voting/)
+* Susan Greenhalgh - Free Speech For People
 
 ### Tue 01/14 01:30 PM - State Government & Elections (SGE): SB 5017 Uniformed & overseas voting
 #### 21 👍 - Pro

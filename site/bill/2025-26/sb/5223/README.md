@@ -14,13 +14,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165329&caId=26266&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32974&aId=165329&caId=26266&tId=4)
 
-#### 25 👍 - Pro
+#### 52 👍 - Pro
 Testifying:
 * Captain Deion Glover - Washington State Patrol
 
-#### 5 👎 - Con
+#### 42 👎 - Con
 Testifying:
 * 💵Malou Chavez - [Northwest Immigrant Rights Project](/org/northwest_immigrant_rights_project/)
+* 💵Paul Benz - [Washington Coalition for Police Accountability](/org/washington_coalition_for_police_accountability/)
+* Soumyo Lahiri-Gupta - OneAmerica
+* Kari Reardon - WACDL/WDA
 
 #### 0 ❓ - Other
 

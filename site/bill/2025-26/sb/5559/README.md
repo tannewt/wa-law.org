@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Liz’s Loveletter: Town Hall coming up on Saturday! - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/03/12/lizs-loveletter-town-hall-coming-up-on-saturday/#:~:text=SB%205559)
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205559)
 
 ## Meetings
@@ -17,7 +18,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165571&caId=26360&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165571&caId=26360&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
+Testifying:
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Riley Benge - Washington REALTORS
 
 #### 0 👎 - Con
 

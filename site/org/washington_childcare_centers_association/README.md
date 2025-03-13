@@ -20,14 +20,14 @@
 ### [HB 1593](/bill/2025-26/hb/1593/) - Social equity land trust 👍1  
 * 👍💵 Amy Anderson
 
-### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍2  
+### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍3  
 
 ### [SB 5062](/bill/2025-26/sb/5062/) - Child care workforce board  👎1 
 
 ### [SB 5130](/bill/2025-26/sb/5130/) - Eliminating child care licensing fees. 👍2  
 * 👍💵 Amy Anderson
 
-### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍2  
 * 👍💵 Amy Anderson
 
 ### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  

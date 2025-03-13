@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1874/</link>
 		<description>Updates about HB 1874</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Mar 2025 08:27:48 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 07:37:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -123,6 +123,22 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Brooke/Davies/2025-03-10 08:27:48</guid>
+		</item>
+		<item>
+			<title>👍💵Intisar Benge - L'Oreal</title>
+			<description>Intisar Benge signed up to testify Pro. They are signed up to represent L'Oreal. They are a registered lobbyist.</description>
+			<pubDate>Wed, 12 Mar 2025 07:37:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Intisar/Benge/2025-03-12 07:37:59</guid>
+		</item>
+		<item>
+			<title>👍Shawn Stearns - L'Oreal</title>
+			<description>Shawn Stearns signed up to testify Pro. They are signed up to represent L'Oreal.</description>
+			<pubDate>Wed, 12 Mar 2025 07:37:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Shawn/Stearns/2025-03-12 07:37:59</guid>
 		</item>
 	</channel>
 </rss>

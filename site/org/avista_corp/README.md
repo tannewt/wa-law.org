@@ -28,6 +28,8 @@
 ### [HB 1990](/bill/2025-26/hb/1990/) - Utility disaster costs 👍1  
 * 👍💵 John Rothlin
 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+
 ### [SB 5401](/bill/2025-26/sb/5401/) - Wholesale power purchases 👍1  
 
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system   ❓1

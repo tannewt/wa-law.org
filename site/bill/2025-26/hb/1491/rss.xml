@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1491/</link>
 		<description>Updates about HB 1491</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Mar 2025 02:11:14 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 08:25:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -495,6 +495,30 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Nicholas/Carr/2025-03-11 02:11:14</guid>
+		</item>
+		<item>
+			<title>👎Sandra Mochizuki - Washington Low Income Housing Alliance</title>
+			<description>Sandra Mochizuki signed up to testify Con.</description>
+			<pubDate>Wed, 12 Mar 2025 03:52:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-12 03:52:27</guid>
+		</item>
+		<item>
+			<title>👍Geoff Anderson - AIAWA (American Institute of Architects WA Council)</title>
+			<description>Geoff Anderson signed up to testify Pro. They are signed up to represent AIAWA (American Institute of Architects WA Council).</description>
+			<pubDate>Wed, 12 Mar 2025 04:43:13 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Geoff/Anderson/2025-03-12 04:43:13</guid>
+		</item>
+		<item>
+			<title>👍💵Michele Thomas - Washington Low Income Housing Alliance</title>
+			<description>Michele Thomas signed up to testify Pro. They are signed up to represent Washington Low Income Housing Alliance. They are a registered lobbyist.</description>
+			<pubDate>Wed, 12 Mar 2025 08:25:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Michele/Thomas/2025-03-12 08:25:16</guid>
 		</item>
 	</channel>
 </rss>

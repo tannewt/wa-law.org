@@ -9,6 +9,23 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Tue 03/18 01:30 PM - Health Care & Wellness (HCW): ESSB 5200 Veteran medical foster homes
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165670&caId=26496&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165670&caId=26496&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165670&caId=26496&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165670&caId=26496&tId=4)
+
+#### 37 👍 - Pro
+Testifying:
+* Wanda Tapp-Kratzer
+* Wanda Tapp-Kratzer
+* April Ritter - None
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/28 10:30 AM - Health & Long Term Care (HLTC): SB 5200 Veteran medical foster homes
 #### 58 👍 - Pro
 Testifying:

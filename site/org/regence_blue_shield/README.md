@@ -6,6 +6,8 @@
 ### [HB 1589](/bill/2025-26/hb/1589/) - Health carriers & providers  👎1 
 * 👎💵 Carrie Tellefson
 
+### [HB 1706](/bill/2025-26/hb/1706/) - Prior auth. APIs/health 👍1  
+
 ### [HB 1725](/bill/2025-26/hb/1725/) - Biosimilar medicines 👍1  
 
 ## [SB 5351](/bill/2025-26/sb/5351/) - Dental insurance practices  👎1 

@@ -14,6 +14,19 @@
 * 01/28/2025 [Senate Democrats](/org/senate_democrats/) - [January Session Recap - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/01/28/january-session-recap-2/#:~:text=SB%205183)
 
 ## Meetings
+### Tue 03/18 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): SSB 5338 Veterans affairs adv. comm.
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165498&caId=26538&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165498&caId=26538&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165498&caId=26538&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165498&caId=26538&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/28 01:30 PM - State Government & Elections (SGE): SB 5338 Veterans affairs adv. comm.
 #### 5 👍 - Pro
 Testifying:

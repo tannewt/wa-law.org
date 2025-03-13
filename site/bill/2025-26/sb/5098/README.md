@@ -35,6 +35,21 @@
 * 05/18/2000 [Senate Democrats](/org/senate_democrats/) - [Home - Sen. Javier Valdez](https://senatedemocrats.wa.gov/valdez/#:~:text=Senate%20Bill%205098)
 
 ## Meetings
+### Tue 03/18 10:30 AM - Civil Rights & Judiciary (CRJ): E2SSB 5098 Weapons in certain areas
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165590&caId=26452&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165590&caId=26452&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165590&caId=26452&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165590&caId=26452&tId=4)
+
+#### 0 👍 - Pro
+
+#### 4 👎 - Con
+Testifying:
+* 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+
+#### 0 ❓ - Other
+
 ### Mon 02/24 01:30 PM - Transportation (TRAN): SSB 5098 Weapons in certain areas
 #### 794 👍 - Pro
 Testifying:

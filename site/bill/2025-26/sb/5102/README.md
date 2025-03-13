@@ -10,6 +10,19 @@
 * 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching floor cutoff - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/03/06/approaching-floor-cutoff/#:~:text=5102)
 
 ## Meetings
+### Tue 03/18 01:30 PM - State Government & Tribal Relations (SGOV): SB 5102 Public risk pool records
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33062&aId=165638&caId=26534&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33062&aId=165638&caId=26534&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33062&aId=165638&caId=26534&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33062&aId=165638&caId=26534&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/14 01:30 PM - State Government & Elections (SGE): SB 5102 Public risk pool records
 #### 5 👍 - Pro
 Testifying:

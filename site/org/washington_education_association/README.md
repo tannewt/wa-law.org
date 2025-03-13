@@ -553,7 +553,7 @@
 
 ### [SB 5666](/bill/2025-26/sb/5666/) - Mental health internships 👍1  
 
-### [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎6 
+### [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎7 
 * 👎💵 Larry Delaney
 
 ### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  

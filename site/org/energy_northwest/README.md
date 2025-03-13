@@ -12,10 +12,11 @@
 
 ### [HB 1253](/bill/2025-26/hb/1253/) - Utility joint use agreements 👍1  
 
-### [HB 1461](/bill/2025-26/hb/1461/) - Joint operating agencies 👍3  
+### [HB 1461](/bill/2025-26/hb/1461/) - Joint operating agencies 👍4  
 * 👍 Richard Shaff
 * 👍 Chris La Plante
 * 👍 David Jordan
+* 👍 Chris La Plante
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 

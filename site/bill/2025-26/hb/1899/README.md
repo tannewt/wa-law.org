@@ -11,6 +11,19 @@
 * 03/04/2025 [House Democrats](/org/house_democrats/) - [Rep. Janice Zahn’s First Bill Passes House, Improving Homelessness Data Collection – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/04/rep-janice-zahns-first-bill-passes-house-improving-homelessness-data-collection/#:~:text=House%20Bill%201899)
 
 ## Meetings
+### Wed 03/19 01:30 PM - Housing (HSG): SHB 1899 Homelessness point-in-time
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165729&caId=26396&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165729&caId=26396&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165729&caId=26396&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165729&caId=26396&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/13 08:00 AM - Housing (HOUS): HB 1899 Homelessness point-in-time
 #### 7 👍 - Pro
 Testifying:

@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * Tammy Fellin - Department of Labor & Industries
 
-#### 9 👎 - Con
+#### 23 👎 - Con
 
 #### 0 ❓ - Other
 

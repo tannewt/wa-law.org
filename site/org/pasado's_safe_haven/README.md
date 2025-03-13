@@ -12,6 +12,8 @@
 * 👍💵 Kirsten Gregory
 * 👍💵 Kirsten Gregory
 
+### [HB 1201](/bill/2025-26/hb/1201/) - Emergency shelters/pets 👍1  
+
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
 
 ### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
@@ -23,7 +25,7 @@
 
 ### [HB 1775](/bill/2025-26/hb/1775/) - Fur products 👍1  
 
-### [SB 5065](/bill/2025-26/sb/5065/) - Traveling animal acts 👍1  
+### [SB 5065](/bill/2025-26/sb/5065/) - Traveling animal acts 👍2  
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 

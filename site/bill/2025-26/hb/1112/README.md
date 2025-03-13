@@ -18,7 +18,7 @@ Sign up to testify:
 Testifying:
 * Judge Faye Chess - Seattle Municipal Court
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

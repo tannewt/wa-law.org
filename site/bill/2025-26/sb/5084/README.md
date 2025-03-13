@@ -14,7 +14,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165377&caId=26277&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165377&caId=26277&tId=4)
 
-#### 19 👍 - Pro
+#### 26 👍 - Pro
+Testifying:
+* Jane Beyer - Office of the Insurance Commissioner
 
 #### 0 👎 - Con
 

@@ -10,6 +10,19 @@
 * 02/13/2025 [House Democrats](/org/house_democrats/) - [Taylor Bill Provides Equity in End-of-life Care Administration – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/13/taylor-bill-provides-equity-in-end-of-life-care-administration/#:~:text=1215)
 
 ## Meetings
+### Mon 03/17 10:30 AM - Law & Justice (LAW): HB 1215 Natural death act/pregnancy
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33059&aId=165612&caId=26417&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33059&aId=165612&caId=26417&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33059&aId=165612&caId=26417&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33059&aId=165612&caId=26417&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 01/28 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1215 Natural death act/pregnancy
 #### 60 👍 - Pro
 Testifying:

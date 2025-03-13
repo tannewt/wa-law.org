@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1325/</link>
 		<description>Updates about HB 1325</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 21 Feb 2025 12:30:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 02:03:52 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -140,6 +140,14 @@
 			<pubDate>Fri, 21 Feb 2025 12:30:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://www.thecentersquare.com/washington/article_67329b24-eff2-11ef-8f14-c7be1b7a4b31.html#:~:text=Substitute%20House%20Bill%201325</guid>
+		</item>
+		<item>
+			<title>👍Jeff Wickersham - WDFW</title>
+			<description>Jeff Wickersham signed up to testify Pro. They are signed up to represent WDFW.</description>
+			<pubDate>Wed, 12 Mar 2025 02:03:52 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jeff/Wickersham/2025-03-12 02:03:52</guid>
 		</item>
 	</channel>
 </rss>

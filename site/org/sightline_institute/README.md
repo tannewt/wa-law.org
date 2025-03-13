@@ -53,7 +53,7 @@
 
 ### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
 
-### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element 👍1  
 * 👍💵 Dan Bertolet

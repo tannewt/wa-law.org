@@ -9,7 +9,7 @@
 
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction 👍1  
 
-### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍2  
+### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍3  
 * 👍💵 Peter Steelquist
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍2  
@@ -17,7 +17,7 @@
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍4  
 * 👍💵 Peter Steelquist
 
 ### [SB 5390](/bill/2025-26/sb/5390/) - Discover pass 👍2  

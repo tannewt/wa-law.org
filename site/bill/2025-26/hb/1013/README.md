@@ -14,7 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165385&caId=26327&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165385&caId=26327&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Andrew Colvin - Department of Social and Health Services, Human Resources Division
+* Johanna Tatarian - Department of Social and Health Services, Human Resources Division
 
 #### 0 👎 - Con
 

@@ -22,7 +22,7 @@ Sign up to testify:
 Testifying:
 * Chief John Batiste - Washington State Patrol
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

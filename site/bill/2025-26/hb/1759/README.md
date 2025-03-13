@@ -20,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165388&caId=26330&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165388&caId=26330&tId=4)
 
-#### 57 👍 - Pro
+#### 66 👍 - Pro
 Testifying:
 * Norbert Caoili
 * Mary Sodawasser
@@ -29,6 +29,10 @@ Testifying:
 * Laurie Staples - Kirkland Seahawkers
 * Raymond Hensley - Kirkland Sea Hawkers
 * Terri Fletcher - Kirkland Seahawkers
+* Myrna Elise Jones - Sea Hawkers Booster Club
+* Wallace Watts - Captain SeaHawk & KamHawk
+* Tammie Miller - Kirkland Sea Hawkers
+* 💵Drew Johnston - Seattle Seahawks
 
 #### 3 👎 - Con
 

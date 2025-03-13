@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5494/</link>
 		<description>Updates about SB 5494</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Mar 2025 05:01:26 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 06:16:15 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -160,7 +160,7 @@
 			<guid isPermaLink="false">testifier/Jamie/Switras/2025-03-10 09:39:06</guid>
 		</item>
 		<item>
-			<title>👎Sandra Mochizuki - Washington State Hospital Association</title>
+			<title>👎Sandra Mochizuki - LeadClasses.com</title>
 			<description>Sandra Mochizuki signed up to testify Con.</description>
 			<pubDate>Tue, 11 Mar 2025 04:31:24 GMT</pubDate>
 			<category>testifier</category>
@@ -168,12 +168,36 @@
 			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-11 04:31:24</guid>
 		</item>
 		<item>
-			<title>👎Randy Welch - Washington State Hospital Association</title>
+			<title>👎Randy Welch - LeadClasses.com</title>
 			<description>Randy Welch signed up to testify Con.</description>
 			<pubDate>Tue, 11 Mar 2025 05:01:26 GMT</pubDate>
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Randy/Welch/2025-03-11 05:01:26</guid>
+		</item>
+		<item>
+			<title>👍Jennifer Caraway - Department of Commerce</title>
+			<description>Jennifer Caraway signed up to testify Pro. They are signed up to represent Department of Commerce.</description>
+			<pubDate>Wed, 12 Mar 2025 04:39:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jennifer/Caraway/2025-03-12 04:39:39</guid>
+		</item>
+		<item>
+			<title>👍Katie Meehan - Department of Commerce</title>
+			<description>Katie Meehan signed up to testify Pro. They are signed up to represent Department of Commerce.</description>
+			<pubDate>Wed, 12 Mar 2025 04:39:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Katie/Meehan/2025-03-12 04:39:39</guid>
+		</item>
+		<item>
+			<title>👍Angel Hoff - LeadClasses.com</title>
+			<description>Angel Hoff signed up to testify Pro. They are signed up to represent LeadClasses.com.</description>
+			<pubDate>Wed, 12 Mar 2025 06:16:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Angel/Hoff/2025-03-12 06:16:15</guid>
 		</item>
 	</channel>
 </rss>

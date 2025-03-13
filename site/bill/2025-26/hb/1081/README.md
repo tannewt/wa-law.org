@@ -11,6 +11,19 @@
 * 03/04/2025 [House Democrats](/org/house_democrats/) - [Donaghy bill ensuring transparency in solicited real estate sent to Senate. – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/04/donaghy-bill-ensuring-transparency-in-solicited-real-estate-sent-to-senate/#:~:text=House%20Bill%201081)
 
 ## Meetings
+### Wed 03/19 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SHB 1081 Solicited real estate
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165687&caId=26370&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165687&caId=26370&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165687&caId=26370&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33054&aId=165687&caId=26370&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 01/15 01:30 PM - Consumer Protection & Business (CPB): HB 1081 Solicited real estate
 #### 3 👍 - Pro
 Testifying:

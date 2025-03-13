@@ -32,6 +32,8 @@
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍5  
 * 👍 Heather Tow-Yick
 
+### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍1  
+
 ### [SB 5190](/bill/2025-26/sb/5190/) - School building energy perf. 👍2  
 * 👍 Martin Turney
 * 👍 Jason Morse
@@ -50,6 +52,8 @@
 
 ### [SB 5593](/bill/2025-26/sb/5593/) - School levies & local effort 👍1  
 * 👍 Martin Turney
+
+### [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎1 
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  ❓1
 * ❓ Harlan Gallinger

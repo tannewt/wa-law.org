@@ -42,13 +42,20 @@
 
 ### [SB 5307](/bill/2025-26/sb/5307/) - Special education funding 👍1  
 
-## [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools   ❓1
+### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools   ❓1
 * ❓💵 Jenny Morgan
+
+## [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎3 
+* 👎 Jennifer Standard
+* 👎 Jorge Torres
+* 👎 Michelle Sotelo
 
 ## 2023-24
 
-### [SB 5369](/bill/2023-24/sb/5369/) - Youth mental health/schools   ❓1
-* ❓💵 Jenny Morgan
+### [SB 5737](/bill/2023-24/sb/5737/) - National board bonuses  👎3 
+* 👎 Jennifer Standard
+* 👎 Jorge Torres
+* 👎 Michelle Sotelo
 
 ### [HB 1109](/bill/2023-24/hb/1109/) - Special education funding 👍1  
 

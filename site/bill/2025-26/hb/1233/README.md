@@ -12,6 +12,19 @@
 * 03/06/2025 [The Center Square](/org/the_center_square/) - [House Dems vote to end forced prison labor; GOP warns taxpayers may foot the bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f96c3c0c-fabf-11ef-ae5b-0fb2b20d9b9c.html#:~:text=Engrossed%20Substitute%20House%20Bill%201233)
 
 ## Meetings
+### Tue 03/18 01:30 PM - Human Services (HS): ESHB 1233 Work programs/incarceration
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165724&caId=26405&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165724&caId=26405&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165724&caId=26405&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165724&caId=26405&tId=4)
+
+#### 5 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/25 01:30 PM - Appropriations (APP): HB 1233 Work programs/incarceration
 #### 42 👍 - Pro
 Testifying:

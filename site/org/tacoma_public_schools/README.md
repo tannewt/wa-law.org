@@ -19,11 +19,13 @@
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍2  
 * 👍 Doug Hostetter
 
-## [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍1  
+### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍1  
+
+## [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎1 
 
 ## 2023-24
 
-### [SB 5517](/bill/2023-24/sb/5517/) - School staff salary alloc. 👍1  
+### [SB 5737](/bill/2023-24/sb/5737/) - National board bonuses  👎1 
 
 ### [HB 1248](/bill/2023-24/hb/1248/) - Pupil transportation   ❓1
 * ❓ Charlie Brown

@@ -1,9 +1,9 @@
 # Washington Mental Health Counselors Association
 ## 2025-26
 
-### [HB 1190](/bill/2025-26/hb/1190/) - Allowing additional health professions to access the University of Washington health sciences library. 👍2  
+### [HB 1190](/bill/2025-26/hb/1190/) - Allowing additional health professions to access the University of Washington health sciences library. 👍3  
 
-### [HB 1234](/bill/2025-26/hb/1234/) - Concerning the mental health counselors, marriage and family therapists, and social workers advisory committee. 👍1  
+### [HB 1234](/bill/2025-26/hb/1234/) - Concerning the mental health counselors, marriage and family therapists, and social workers advisory committee. 👍2  
 
 ### [HB 1432](/bill/2025-26/hb/1432/) - Mental health services 👍3  
 * 👍 Sharon Shadwell

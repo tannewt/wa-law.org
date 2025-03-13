@@ -7,6 +7,19 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 03/18 10:30 AM - Local Government (LG): SB 5571 Exterior cladding materials
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33100&aId=165824&caId=26525&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33100&aId=165824&caId=26525&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33100&aId=165824&caId=26525&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33100&aId=165824&caId=26525&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Mon 02/10 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5571 Exterior cladding materials
 #### 6 👍 - Pro
 Testifying:

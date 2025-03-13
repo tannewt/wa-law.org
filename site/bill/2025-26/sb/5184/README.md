@@ -31,7 +31,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=4)
 
-#### 619 👍 - Pro
+#### 885 👍 - Pro
 Testifying:
 * Skylar Bisom-Rapp - Inversion Design Build
 * Council Member Zack Zappone - [City of Spokane](/org/city_of_spokane/)
@@ -43,16 +43,28 @@ Testifying:
 * Ron Davis - Sightline, on Behalf of the Coalition in Support of Parking Reform
 * Joe Tovar
 * Jennifer Gregerson
+* Sonja Max
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
+* Riley Benge - Washington REALTORS
 * Cary Westerbeck
+* Angela Rozmyn - Natural and Built Environments
 
-#### 74 👎 - Con
+#### 358 👎 - Con
 Testifying:
 * Andrew Johnson - Senior Planner of the City of Covington
 * Mary Lou Pauly - Mayor, City of Issaquah
+* 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Jim Millbauer - City of Kennewick Councilmember
+* Sandra Mochizuki
+* Kristen Holdsworth - City of Kent, Long Range Planner
+* Rebecca Deming - Community Development Director, City of Des Moines
+* Richa Sigdel - City of Pasco, Deputy City Manager
+* Matt Herrera - Planning Director, City of Renton
 
-#### 3 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Dave Andersen - Washington Department of Commerce
+* Nick Bond - [City of Port Orchard](/org/city_of_port_orchard/)
 
 ### Fri 01/24 10:30 AM - Housing (HSG): SB 5184 Minimum parking requirements
 #### 891 👍 - Pro

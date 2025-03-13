@@ -6,6 +6,7 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
 * 02/27/2025 [The Center Square](/org/the_center_square/) - [Critics say online privacy bill concerning minors actually undermines parents | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_7390cd22-f55c-11ef-8273-27ccdbd6bdc9.html#:~:text=Senate%20Bill%205708)

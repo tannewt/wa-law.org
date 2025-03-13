@@ -38,11 +38,13 @@
 
 ### [SB 5397](/bill/2025-26/sb/5397/) - CTC faculty w/o tenure limit 👍1  
 
-## [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍2  
+### [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍2  
+
+## [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎2 
 
 ## 2023-24
 
-### [SB 5517](/bill/2023-24/sb/5517/) - School staff salary alloc. 👍2  
+### [SB 5737](/bill/2023-24/sb/5737/) - National board bonuses  👎2 
 
 ### [HB 1238](/bill/2023-24/hb/1238/) - Free school meals 👍1  
 

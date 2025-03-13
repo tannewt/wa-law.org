@@ -7,6 +7,21 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Fri 03/21 10:30 AM - Housing (HSG): EHB 1191 Manufactured home titles
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165730&caId=26397&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165730&caId=26397&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165730&caId=26397&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165730&caId=26397&tId=4)
+
+#### 1 👍 - Pro
+Testifying:
+* Victoria OBanion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/30 08:00 AM - Housing (HOUS): HB 1191 Manufactured home titles
 #### 48 👍 - Pro
 Testifying:

@@ -61,6 +61,8 @@
 
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development 👍1  
 
+### [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍1  
+
 ### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 
 ### [SB 5770](/bill/2025-26/sb/5770/) - Primary residence/tax 👍1  

@@ -4,6 +4,8 @@
 ### [HB 1261](/bill/2025-26/hb/1261/) - Open space incidental use 👍1  
 * 👍💵 Brad Tower
 
+### [HB 1294](/bill/2025-26/hb/1294/) - Pesticide application comm. 👍1  
+
 ## [SB 5479](/bill/2025-26/sb/5479/) - Open space incidental use 👍1  
 * 👍💵 Brad Tower
 

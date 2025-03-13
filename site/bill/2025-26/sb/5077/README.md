@@ -22,14 +22,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165369&caId=26291&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165369&caId=26291&tId=4)
 
-#### 460 👍 - Pro
+#### 529 👍 - Pro
+Testifying:
+* 💵Denisse Guerrero - Washington Community Alliance
+* 💵Anthony Blankenship - Free The Vote WA
+* Raymond Williams - Just Us Solutions
+* Lai King - Pacific Islander Health Board
 
-#### 1055 👎 - Con
+#### 1411 👎 - Con
 Testifying:
 * Gregor Doerr - Washington State Young Republicans
 * Laurie Layne
+* Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Shirley Prasad - Washington Health Benefit Exchange
+* 💵Shirley Prasad - Washington Health Benefit Exchange
 
 ### Tue 01/21 01:30 PM - State Government & Elections (SGE): SB 5077 Agency voter registration
 #### 274 👍 - Pro

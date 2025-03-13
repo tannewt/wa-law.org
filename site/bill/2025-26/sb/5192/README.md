@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [Major boost to special education funding gets Washington Senate approval • Washington State Standard](https://washingtonstatestandard.com/2025/03/12/major-boost-to-special-education-funding-gets-washington-senate-approval/#:~:text=Senate%20Bill%205192)
+* 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall this Saturday - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/03/12/town-hall-this-saturday/#:~:text=SB%205192)
 * 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=ESSB%205192)
 * 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [SAVE THE DATE: Town halls March 22 - Sen. Drew Hansen](https://senatedemocrats.wa.gov/hansen/2025/03/07/save-the-date-in-person-town-halls-march-22/#:~:text=The%20bill)
 * 03/07/2025 [KING5](/org/king5/) - [Despite potential cuts, bills to increase Washington school funding progress | king5.com](https://www.king5.com/article/news/local/despite-potential-cuts-bills-increase-washington-school-funding-progress/281-7ea4dccf-486e-4be2-8f2a-2d1e33b7ef33#:~:text=Senate%20Bill%205192)
@@ -35,6 +37,19 @@
 * 01/13/2025 [Washington St Pta](/org/washington_st_pta/) - [69th Legislature Convenes January 13 Amid New Faces, Projected Deficit - WSPTA](https://www.wastatepta.org/69th-legislature-convenes-january-13-amid-new-faces-projected-deficit/#:~:text=SB%205192)
 
 ## Meetings
+### Wed 03/19 04:00 PM - Appropriations (APP): ESSB 5192 School district materials
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165791&caId=26451&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165791&caId=26451&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165791&caId=26451&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165791&caId=26451&tId=4)
+
+#### 19 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/11 04:00 PM - Ways & Means (WM): SB 5192 School district materials
 #### 2708 👍 - Pro
 Testifying:

@@ -7,6 +7,23 @@
 * [Original Bill](1/)
 
 ## Meetings
+### Tue 03/18 04:00 PM - Community Safety, Justice, & Reentry (CSJR): ESB 5065 Traveling animal acts
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165658&caId=26462&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165658&caId=26462&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165658&caId=26462&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165658&caId=26462&tId=4)
+
+#### 29 👍 - Pro
+Testifying:
+* Josh Diamond
+
+#### 1 👎 - Con
+Testifying:
+* Debbie Goodrich - Flight Club Foundation
+
+#### 0 ❓ - Other
+
 ### Thu 01/16 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5065 Traveling animal acts
 #### 19 👍 - Pro
 Testifying:

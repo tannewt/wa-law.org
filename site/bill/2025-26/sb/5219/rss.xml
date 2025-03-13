@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5219/</link>
 		<description>Updates about SB 5219</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 23:26:57 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 07:54:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -131,6 +131,14 @@
 			<pubDate>Mon, 24 Feb 2025 23:26:57 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/02/24/plan-to-close-facilities-for-people-exiting-washington-prisons-draws-backlash/#:~:text=Senate%20Bill%205219</guid>
+		</item>
+		<item>
+			<title>👎James McMahan - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>James McMahan signed up to testify Con. They are signed up to represent WA Assoc Sheriffs &amp; Police Chiefs.</description>
+			<pubDate>Wed, 12 Mar 2025 07:54:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/James/McMahan/2025-03-12 07:54:27</guid>
 		</item>
 	</channel>
 </rss>

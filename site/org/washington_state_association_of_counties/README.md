@@ -160,7 +160,8 @@
 ### [HB 1742](/bill/2025-26/hb/1742/) - Urban design/environment 👍1  
 * 👍💵 Kelsey Hulse
 
-### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
+### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍2  
+* 👍💵 Paul Jewell
 * 👍💵 Paul Jewell
 
 ### [HB 1805](/bill/2025-26/hb/1805/) - Children services/local tax 👍1  
@@ -202,7 +203,8 @@
 * 👎💵 Paul Jewell
 * 👎💵 Paul Jewell
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎3 
+* 👎💵 Paul Jewell
 * 👎💵 Paul Jewell
 
 ### [SB 5058](/bill/2025-26/sb/5058/) - Recycling rates   ❓1
@@ -213,8 +215,9 @@
 ### [SB 5089](/bill/2025-26/sb/5089/) - Concerning funding rural county coroners and medical examiners. 👍1  
 * 👍💵 Paul Jewell
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas   ❓1
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎1 ❓1
 * ❓💵 Paul Jewell
+* 👎💵 Paul Jewell
 
 ### [SB 5154](/bill/2025-26/sb/5154/) - County auditor duties   ❓1
 * ❓💵 Paul Jewell

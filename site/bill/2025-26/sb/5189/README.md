@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall this Saturday - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/03/12/town-hall-this-saturday/#:~:text=SB%205189)
 * 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=SB%205189)
 * 02/17/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Six: Make way for Focus Day! - WSPTA](https://www.wastatepta.org/week-six-make-way-for-focus-day/#:~:text=SB%205189)
 * 02/03/2025 [Washington St Pta](/org/washington_st_pta/) - [Week Four: Big 3 Bills Continue to Advance - WSPTA](https://www.wastatepta.org/week-four-big-3-bills-continue-to-advance/#:~:text=SB%205189)
@@ -20,7 +21,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165370&caId=26272&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32981&aId=165370&caId=26272&tId=4)
 
-#### 42 👍 - Pro
+#### 76 👍 - Pro
 Testifying:
 * John Axtell
 * Nick Olson
@@ -30,8 +31,11 @@ Testifying:
 * Will Kheriaty
 * Mae Hollinshead
 * Matthew Brewer
+* Troy Goracke - WA State Board for Community and Technical Colleges
+* Alissa Muller - [Washington State Board of Education](/org/washington_state_board_of_education/)
+* Lars Hill
 
-#### 1532 👎 - Con
+#### 1683 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki

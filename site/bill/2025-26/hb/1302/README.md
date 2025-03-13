@@ -22,7 +22,9 @@ Sign up to testify:
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
 
-#### 60 👎 - Con
+#### 292 👎 - Con
+Testifying:
+* Sandra Mochizuki
 
 #### 0 ❓ - Other
 

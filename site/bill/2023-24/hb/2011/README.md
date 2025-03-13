@@ -12,7 +12,7 @@
 Testifying:
 * Chris Danforth
 * Ron Mondragon
-* Justin Lewis - Washington Independent Collision Repairers Association
+* Justin Lewis - [Washington Independent Collision Repairers Association](/org/washington_independent_collision_repairers_association/)
 * Jeff Butler - Collision Consulting of Washington
 * Dawn Perlman
 * David Forte - Office of the Insurance Commissioner

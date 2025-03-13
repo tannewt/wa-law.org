@@ -14,9 +14,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165324&caId=26325&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165324&caId=26325&tId=4)
 
-#### 0 👍 - Pro
+#### 4 👍 - Pro
 
-#### 72 👎 - Con
+#### 328 👎 - Con
+Testifying:
+* Sandra Mochizuki
 
 #### 0 ❓ - Other
 

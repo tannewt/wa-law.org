@@ -13,6 +13,21 @@
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205156)
 
 ## Meetings
+### Mon 03/17 01:30 PM - Housing (HOUS): SSB 5156 Elevators/smaller apartments
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165510&caId=26505&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165510&caId=26505&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165510&caId=26505&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165510&caId=26505&tId=4)
+
+#### 5 👍 - Pro
+Testifying:
+* michael eliason - larch lab
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Fri 01/17 10:30 AM - Housing (HSG): SB 5156 Elevators/smaller apartments
 #### 53 👍 - Pro
 Testifying:

@@ -4,13 +4,15 @@
 ### [HB 1285](/bill/2025-26/hb/1285/) - Financial education 👍1  
 * 👍 J. Lee Schultz
 
-## [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍1  
+## [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍2  
 * 👍 J. Lee Schultz
+* 👍 Alissa Muller
 
 ## 2023-24
 
-### [SB 5189](/bill/2023-24/sb/5189/) - Competency-based education 👍1  
+### [SB 5189](/bill/2023-24/sb/5189/) - Competency-based education 👍2  
 * 👍 J. Lee Schultz
+* 👍 Alissa Muller
 
 ### [HB 1003](/bill/2023-24/hb/1003/) - Dual credit program access 👍1  
 

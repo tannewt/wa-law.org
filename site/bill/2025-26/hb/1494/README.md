@@ -17,12 +17,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165457&caId=26338&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165457&caId=26338&tId=4)
 
-#### 38 👍 - Pro
+#### 41 👍 - Pro
 Testifying:
 * Nicholas Carr - Office of the Governor
 * 💵Anthony Hemstad - Washington Housing Development, LLC
 
-#### 556 👎 - Con
+#### 626 👎 - Con
 Testifying:
 * TaraLyn Fray
 * Sandra Mochizuki

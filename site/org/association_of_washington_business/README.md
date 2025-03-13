@@ -76,7 +76,7 @@
 ### [HB 1155](/bill/2025-26/hb/1155/) - Noncompetition agreements  👎1 
 * 👎💵 Lindsey Hueer
 
-### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍1  
+### [HB 1167](/bill/2025-26/hb/1167/) - Maritime careers task force 👍2  
 
 ### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info  👎2 
 * 👎💵 Morgan Irwin
@@ -465,7 +465,8 @@
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development  👎1 
 * 👎💵 Peter Godlewski
 
-### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎1 
+### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes  👎2 
+* 👎💵 Peter Godlewski
 * 👎💵 Peter Godlewski
 
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice  👎2 

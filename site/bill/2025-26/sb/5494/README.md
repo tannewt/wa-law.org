@@ -18,16 +18,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32969&aId=165472&caId=26353&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32969&aId=165472&caId=26353&tId=4)
 
-#### 6 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * Jamie Switras
+* Jennifer Caraway - Department of Commerce
+* Katie Meehan - Department of Commerce
+* Angel Hoff - LeadClasses.com
 
-#### 515 👎 - Con
+#### 709 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * Randy Welch
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SB 5494 Lead-based paint
 #### 15 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1975/</link>
 		<description>Updates about HB 1975</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 20:15:26 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -165,6 +165,20 @@
 			<pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-12/First reading, referred to Environment, Energy &amp; Technology (Not Officially read and referred until adoption of Introduction report).</guid>
+		</item>
+		<item>
+			<title>First reading, referred to Environment, Energy &amp; Technology.</title>
+			<description>First reading, referred to Environment, Energy &amp; Technology.</description>
+			<pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-12/First reading, referred to Environment, Energy &amp; Technology.</guid>
+		</item>
+		<item>
+			<title>Washington carbon auction prices rise again • Washington State Standard</title>
+			<description>News article "Washington carbon auction prices rise again • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Wed, 12 Mar 2025 20:15:26 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/03/12/washington-carbon-auction-prices-rise-again/#:~:text=House%20Bill%201975</guid>
 		</item>
 	</channel>
 </rss>

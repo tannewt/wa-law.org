@@ -40,7 +40,7 @@
 
 ### [HB 1127](/bill/2025-26/hb/1127/) - Unclaimed property 👍1  
 
-### [HB 1135](/bill/2025-26/hb/1135/) - Local government planning   ❓1
+### [HB 1135](/bill/2025-26/hb/1135/) - Local government planning 👍1  ❓1
 * ❓💵 Carl Schroeder
 
 ### [HB 1138](/bill/2025-26/hb/1138/) - Improving public safety by implementing evidence-based interview practices that increase the reliability of statements collected during criminal investigations.  👎1 
@@ -307,6 +307,9 @@
 * ❓💵 Kelsey Hulse
 * 👍💵 Kelsey Hulse
 
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
+* 👎💵 Carl Schroeder
+
 ### [SB 5197](/bill/2025-26/sb/5197/) - Local government planning   ❓1
 * ❓💵 Carl Schroeder
 
@@ -389,7 +392,8 @@
 ### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
 * 👍💵 Carl Schroeder
 
-### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍2  
+### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍3  
+* 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
 ### [SB 5604](/bill/2025-26/sb/5604/) - Transit-oriented development   ❓1
@@ -411,6 +415,9 @@
 * 👎💵 Kelsey Hulse
 
 ### [SB 5633](/bill/2025-26/sb/5633/) - Subdivision of land   ❓1
+
+### [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍1  
+* 👍💵 Carl Schroeder
 
 ### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners   ❓1
 * ❓💵 Carl Schroeder

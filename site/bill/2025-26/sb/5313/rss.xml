@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5313/</link>
 		<description>Updates about SB 5313</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 24 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 12 Mar 2025 23:01:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -165,6 +165,21 @@
 			<pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-24/First reading, referred to Housing.</guid>
+		</item>
+		<item>
+			<title>👍Emily Rosenzweig - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<description>Emily Rosenzweig signed up to testify Pro.</description>
+			<pubDate>Wed, 12 Mar 2025 04:30:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emily/Rosenzweig/2025-03-12 04:30:39</guid>
+		</item>
+		<item>
+			<title>Town Hall this Saturday - Sen. Jamie Pedersen</title>
+			<description>News article "Town Hall this Saturday - Sen. Jamie Pedersen" from Senate Democrats.</description>
+			<pubDate>Wed, 12 Mar 2025 23:01:35 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/pedersen/2025/03/12/town-hall-this-saturday/#:~:text=SB%205313</guid>
 		</item>
 	</channel>
 </rss>

@@ -32,7 +32,7 @@
 
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
 
-### [HB 1393](/bill/2025-26/hb/1393/) - Commencement/cultural exp. 👍1  
+### [HB 1393](/bill/2025-26/hb/1393/) - Commencement/cultural exp. 👍2  
 * 👍💵 Roz Thompson
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍1  
@@ -103,6 +103,8 @@
 ### [SB 5369](/bill/2025-26/sb/5369/) - Youth mental health/schools 👍1  
 
 ### [SB 5567](/bill/2025-26/sb/5567/) - Natural resources careers 👍1  
+
+### [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍1  
 
 ### [SB 5574](/bill/2025-26/sb/5574/) - History instruction   ❓1
 * ❓💵 Casey Brown

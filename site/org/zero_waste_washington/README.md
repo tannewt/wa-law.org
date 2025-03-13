@@ -65,7 +65,8 @@
 ### [HB 1857](/bill/2025-26/hb/1857/) - Asbestos building materials  👎1 
 * 👎💵 Heather Trim
 
-### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍3  
+### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍4  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
@@ -90,7 +91,7 @@
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
 
-### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint 👍2  
+### [SB 5494](/bill/2025-26/sb/5494/) - Lead-based paint 👍3  
 * 👍💵 Heather Trim
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍2  

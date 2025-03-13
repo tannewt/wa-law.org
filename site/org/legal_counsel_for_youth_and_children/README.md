@@ -11,7 +11,8 @@
 
 ### [HB 1147](/bill/2025-26/hb/1147/) - Civic engage./state custody 👍1  
 
-### [HB 1171](/bill/2025-26/hb/1171/) - Mandated reporting/higher ed 👍1  
+### [HB 1171](/bill/2025-26/hb/1171/) - Mandated reporting/higher ed 👍2  
+* 👍 Rhea Yo
 * 👍 Rhea Yo
 
 ### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍2  

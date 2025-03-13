@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 * [Second Substitute](S2/)
+* [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
 * 03/06/2025 [Cascade PBS](/org/cascade_pbs/) - [Students press WA lawmakers for campus sexual assault policy reform | Cascade PBS](https://crosscut.com/politics/2025/03/students-press-wa-lawmakers-campus-sexual-assault-policy-reform#:~:text=Senate%20Bill%205355)
