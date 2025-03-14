@@ -8,21 +8,16 @@
 
 ## Meetings
 ### Thu 03/13 04:00 PM - Ways & Means (WM): SB 5711 Self-service storage/tax
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165458&caId=26339&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165458&caId=26339&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165458&caId=26339&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165458&caId=26339&tId=4)
-
-#### 71 👍 - Pro
+#### 77 👍 - Pro
 Testifying:
 * Victoria O'Banion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
 * 💵Nick Federici - NW Community Land Trust Coalition
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Mike Rizzitiello - Common Roots Housing Land Trust
 * Sarah Dickmeyer - Plymouth Housing
+* Jacinda Steltjes - [City of Olympia](/org/city_of_olympia/)
 
-#### 803 👎 - Con
+#### 816 👎 - Con
 Testifying:
 * Lance Baker
 * Patrick Gilroy - Washington Self Storage Association
@@ -49,5 +44,7 @@ Testifying:
 * Rod Kauffman - Building Owners & Managers Assn (BOMA)
 * Anthony D'Ambrosio - Urban Self Storage
 * Dee Hampton
+* Stephen Ramsey - Glacier West Self Storage
+* ROBERT REISWIG
 
 #### 0 ❓ - Other

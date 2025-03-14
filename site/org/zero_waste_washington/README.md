@@ -18,7 +18,8 @@
 
 ### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products 👍1  
 
-### [HB 1293](/bill/2025-26/hb/1293/) - Litter 👍2  
+### [HB 1293](/bill/2025-26/hb/1293/) - Litter 👍3  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 
@@ -43,7 +44,8 @@
 ### [HB 1483](/bill/2025-26/hb/1483/) - Digital electronics/repair 👍2  
 * 👍 Moji Igun
 
-### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍2  
+### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍3  
+* 👍💵 Heather Trim
 * 👍💵 Heather Trim
 * 👍💵 Heather Trim
 

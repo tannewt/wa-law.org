@@ -14,11 +14,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33035&aId=165544&caId=26478&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33035&aId=165544&caId=26478&tId=4)
 
-#### 4 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
+* 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
 * Todd H Carlisle - [Disability Rights Washington](/org/disability_rights_washington/)
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
+* 💵Shawn Latham - Serlf Advocates In Leadership
 
-#### 3 👎 - Con
+#### 11 👎 - Con
+Testifying:
+* Brittany Barber - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
 
 #### 0 ❓ - Other

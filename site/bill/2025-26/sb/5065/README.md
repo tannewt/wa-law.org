@@ -14,14 +14,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165658&caId=26462&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33069&aId=165658&caId=26462&tId=4)
 
-#### 45 👍 - Pro
+#### 98 👍 - Pro
 Testifying:
 * Josh Diamond
+* Isabel Starnes
 * Dan Paul - [Humane World for Animals](/org/humane_world_for_animals/)
+* Cat Kelly - [Animal Legal Defense Fund](/org/animal_legal_defense_fund/)
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Debbie Goodrich - Flight Club Foundation
+* Kim Connolly
+* DEBBIE GOODRICH - Flight Club Foundation
 
 #### 0 ❓ - Other
 

@@ -1,6 +1,8 @@
 # City of Mercer Island
 ## 2025-26
 
+### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting  👎1 
+
 ### [HB 1183](/bill/2025-26/hb/1183/) - Building codes  👎1 
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
@@ -15,11 +17,15 @@
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element  👎1 
 * 👎 Salim Nice
 
-## [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
+
+### [SB 5332](/bill/2025-26/sb/5332/) - Mobile dwellings  👎1 
+
+## [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process 👍1  
 
 ## 2023-24
 
-### [SB 5332](/bill/2023-24/sb/5332/) - Mobile dwellings  👎1 
+### [SB 5559](/bill/2023-24/sb/5559/) - UGA subdivision process 👍1  
 
 ### [HB 1086](/bill/2023-24/hb/1086/) - Community org. contracts 👍2  
 

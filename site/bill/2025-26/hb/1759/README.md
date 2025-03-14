@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Fri 03/14 10:30 AM - State Government & Elections (SGE): HB 1759 Day of the 12s
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165388&caId=26330&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165388&caId=26330&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165388&caId=26330&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165388&caId=26330&tId=4)
-
-#### 67 👍 - Pro
+#### 131 👍 - Pro
 Testifying:
 * Norbert Caoili
 * Mary Sodawasser
@@ -34,9 +28,11 @@ Testifying:
 * Tammie Miller - Kirkland Sea Hawkers
 * 💵Drew Johnston - Seattle Seahawks
 
-#### 3 👎 - Con
+#### 9 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Edgar G. Campos
 
 ### Fri 02/07 08:00 AM - State Government & Tribal Relations (SGOV): HB 1759 Day of the 12s
 #### 57 👍 - Pro

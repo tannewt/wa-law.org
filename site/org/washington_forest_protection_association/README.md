@@ -1,19 +1,29 @@
 # Washington Forest Protection Association
 ## 2025-26
 
+### [HB 1389](/bill/2025-26/hb/1389/) - Timber purchase reporting 👍1  
+* 👍 Tom Davis
+
 ### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings 👍1  
 
 ### [HB 1508](/bill/2025-26/hb/1508/) - Ecosystem services 👍1  
 * 👍 Tom Davis
 
-### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
 
 ### [HB 1593](/bill/2025-26/hb/1593/) - Social equity land trust 👍1  
 * 👍 Tom Davis
 
+### [HB 1606](/bill/2025-26/hb/1606/) - Journal access/state empl. 👍1  
+
 ### [HB 1742](/bill/2025-26/hb/1742/) - Urban design/environment 👍1  
 
 ### [HB 1862](/bill/2025-26/hb/1862/) - Train length  👎1 
+
+### [SB 5170](/bill/2025-26/sb/5170/) - DNR boundary line surveys 👍1  
+
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓1
+* ❓ Tom Davis
 
 ## [SB 5601](/bill/2025-26/sb/5601/) - Alternative jet fuels 👍1  
 

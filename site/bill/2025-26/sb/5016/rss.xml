@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5016/</link>
 		<description>Updates about SB 5016</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Mar 2025 12:40:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -78,6 +78,22 @@
 			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-07/First reading, referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
+			<title>👍Scott Sheehan - Evergreen Washelli</title>
+			<description>Scott Sheehan signed up to testify Pro. They are signed up to represent Evergreen Washelli.</description>
+			<pubDate>Thu, 13 Mar 2025 06:14:56 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Scott/Sheehan/2025-03-13 06:14:56</guid>
+		</item>
+		<item>
+			<title>👎Carissa Carlson - Washington State Funeral Directors Association</title>
+			<description>Carissa Carlson signed up to testify Con. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_funeral_directors_association/"&gt;Washington State Funeral Directors Association&lt;/a&gt;.</description>
+			<pubDate>Thu, 13 Mar 2025 12:40:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Carissa/Carlson/2025-03-13 12:40:16</guid>
 		</item>
 	</channel>
 </rss>

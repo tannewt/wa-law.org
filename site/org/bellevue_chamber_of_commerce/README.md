@@ -7,7 +7,7 @@
 
 ### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 
-### [HB 1576](/bill/2025-26/hb/1576/) - Historic landmarks/cities 👍1  
+### [HB 1576](/bill/2025-26/hb/1576/) - Historic landmarks/cities 👍2  
 
 ### [HB 1980](/bill/2025-26/hb/1980/) - Employer transp. services 👍1  
 * 👍💵 Jodie Alberts

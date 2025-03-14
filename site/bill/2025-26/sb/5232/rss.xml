@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5232/</link>
 		<description>Updates about SB 5232</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Mar 2025 10:47:30 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Mar 2025 07:48:21 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -124,6 +124,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Jean/Hill/2025-03-12 10:47:30</guid>
+		</item>
+		<item>
+			<title>👎Jaimee Saling - Washington State Catholic Conference</title>
+			<description>Jaimee Saling signed up to testify Con.</description>
+			<pubDate>Thu, 13 Mar 2025 07:48:21 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Jaimee/Saling/2025-03-13 07:48:21</guid>
 		</item>
 	</channel>
 </rss>

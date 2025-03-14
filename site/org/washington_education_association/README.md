@@ -253,7 +253,7 @@
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation   ❓1
 * ❓ Jared Mason-Gere
 
-### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍1  
+### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍2  
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
@@ -281,6 +281,8 @@
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act 👍1  
 
 ### [HB 2019](/bill/2025-26/hb/2019/) - Estate tax 👍1  
+
+### [HB 2034](/bill/2025-26/hb/2034/) - LEOFF 1 restatement   ❓1
 
 ### [SB 5003](/bill/2025-26/sb/5003/) - Establishing the school security and preparedness infrastructure grant program. 👍1  
 
@@ -324,7 +326,7 @@
 * 👍 Jared Mason-Gere
 * 👍 Jared Mason-Gere
 
-### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans   ❓1
+### [SB 5085](/bill/2025-26/sb/5085/) - Closed retirement plans   ❓2
 * ❓ Jared Mason-Gere
 
 ### [SB 5086](/bill/2025-26/sb/5086/) - PEBB & SEBB consolidation  👎7 
@@ -394,7 +396,7 @@
 ### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education 👍3  
 * 👍💵 Nasue Nishida
 
-### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍1  
+### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍2  
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍7  
 * 👍💵 Julie Salvi
@@ -420,7 +422,7 @@
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
 
-### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍2  
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍3  
 
 ### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍9  
 * 👍💵 Larry Delaney

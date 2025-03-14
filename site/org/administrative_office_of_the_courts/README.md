@@ -5,14 +5,18 @@
 * 👍 Haily Perkins
 * 👍 Brittany Gregory
 
-### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍3  
+### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍5  
 * 👍 Brittany Gregory
+* 👍 Brittany Gregory
+* 👍 James Wells
 * 👍 Brittany Gregory
 * 👍 James Wells
 
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget 👍2  
 * 👍 Brittany Gregory
 * 👍 Christopher Stanley
+
+### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍1  
 
 ### [HB 1460](/bill/2025-26/hb/1460/) - Protection order hope cards 👍2  
 * 👍 Scott Ahlf

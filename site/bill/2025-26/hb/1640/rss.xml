@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1640/</link>
 		<description>Updates about HB 1640</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Mar 2025 10:43:34 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -65,6 +65,14 @@
 			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-07/First reading, referred to Health &amp; Long-Term Care.</guid>
+		</item>
+		<item>
+			<title>👍Taylor Bacharach-Nixon - Washington Medical Commission</title>
+			<description>Taylor Bacharach-Nixon signed up to testify Pro. They are signed up to represent Washington Medical Commission.</description>
+			<pubDate>Fri, 14 Mar 2025 10:43:34 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Taylor/Bacharach-Nixon/2025-03-14 10:43:34</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1017/</link>
 		<description>Updates about HB 1017</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 20 Jan 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Mar 2025 22:40:22 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -56,6 +56,13 @@
 			<pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-01-20/Referred to Rules 2 Review.</guid>
+		</item>
+		<item>
+			<title>What bills are still dead and alive in the Washington Legislature • Washington State Standard</title>
+			<description>News article "What bills are still dead and alive in the Washington Legislature • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Thu, 13 Mar 2025 22:40:22 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/03/13/what-bills-are-still-dead-and-alive-in-the-washington-legislature/#:~:text=House%20Bill%201017</guid>
 		</item>
 	</channel>
 </rss>

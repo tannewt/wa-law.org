@@ -1,6 +1,9 @@
 # National Safety Council
 ## 2025-26
 
+### [HB 1244](/bill/2025-26/hb/1244/) - Driver training alternative 👍1  
+* 👍 Alaina Dahlquist
+
 ### [HB 1596](/bill/2025-26/hb/1596/) - Speeding 👍1  
 
 ### [HB 1878](/bill/2025-26/hb/1878/) - Young driver safety 👍1  

@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/13/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall coming up March 22 - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/03/13/town-hall-coming-up-march-22/#:~:text=SB%205545)
 * 03/03/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bill to expand childcare access to military families - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/03/03/senate-passes-bill-to-expand-childcare-access-to-military-families/#:~:text=Senate%20Bill%205545)
 
 ## Meetings

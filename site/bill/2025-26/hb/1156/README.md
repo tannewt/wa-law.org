@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Thu 03/13 04:00 PM - Ways & Means (WM): HB 1156 Volunteer firefighters/DCP
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165460&caId=26341&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165460&caId=26341&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165460&caId=26341&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165460&caId=26341&tId=4)
-
-#### 6 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * Arnold Baker - Chelan County Fire District 5
 * Jerry Pettit - WA St Fire Fighters' Association (Volunteers)

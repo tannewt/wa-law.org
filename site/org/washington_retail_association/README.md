@@ -154,6 +154,9 @@
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍2  
 * 👍💵 Mark Johnson
 
+### [HB 2020](/bill/2025-26/hb/2020/) - Payment card processing/tax 👍2  
+* 👍💵 Mark Johnson
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5027](/bill/2025-26/sb/5027/) - Law school loan repayment 👍1  
@@ -187,9 +190,10 @@
 ### [SB 5281](/bill/2025-26/sb/5281/) - Vessel length/nonresident 👍2  
 * 👍💵 Mark Johnson
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management   ❓2
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 ❓2
 * ❓💵 Mark Johnson
 * ❓💵 Mark Johnson
+* 👎💵 Mark Johnson
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 * 👍💵 Mark Johnson
@@ -214,6 +218,8 @@
 
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
+### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍2  
+
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction   ❓1
 * ❓💵 Mark Johnson
 
@@ -229,12 +235,15 @@
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue  👎1 
 * 👎💵 Crystal Leatherman
 
-## [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
+### [SB 5775](/bill/2025-26/sb/5775/) - Public safety/local tax 👍1  
+* 👍💵 Mark Johnson
+
+## [SB 5777](/bill/2025-26/sb/5777/) - Payment card processing/tax 👍2  
 * 👍💵 Mark Johnson
 
 ## 2023-24
 
-### [SB 5775](/bill/2023-24/sb/5775/) - Public safety/local tax 👍1  
+### [SB 5777](/bill/2023-24/sb/5777/) - Payment card processing/tax 👍2  
 * 👍💵 Mark Johnson
 
 ### [HB 1005](/bill/2023-24/hb/1005/) - Military/employer tax incen. 👍1  

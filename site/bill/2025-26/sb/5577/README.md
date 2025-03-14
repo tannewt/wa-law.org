@@ -11,17 +11,12 @@
 
 ## Meetings
 ### Fri 03/14 08:00 AM - Health Care & Wellness (HCW): SB 5577 HIV antiviral drugs/medicaid
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165382&caId=26282&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165382&caId=26282&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165382&caId=26282&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165382&caId=26282&tId=4)
-
-#### 3 👍 - Pro
+#### 11 👍 - Pro
 Testifying:
 * 💵David Ramos - Cascade AIDS Project
+* Katie Kolan - AIDS Healthcare Foundation
 
-#### 1 👎 - Con
+#### 24 👎 - Con
 
 #### 0 ❓ - Other
 

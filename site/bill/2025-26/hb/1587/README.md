@@ -22,11 +22,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33079&aId=165739&caId=26391&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33079&aId=165739&caId=26391&tId=4)
 
-#### 0 👍 - Pro
+#### 2 👍 - Pro
+Testifying:
+* Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jessica Monger - [Washington State Opportunity Scholarship](/org/washington_state_opportunity_scholarship/)
 
 ### Wed 02/19 04:00 PM - Appropriations (APP): SHB 1587 Partner promise scholarships
 #### 17 👍 - Pro

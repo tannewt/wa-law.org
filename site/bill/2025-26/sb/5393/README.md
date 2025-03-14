@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 03/13 04:00 PM - Ways & Means (WM): SB 5393 Yakima & Rainier schools
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165461&caId=26342&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165461&caId=26342&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165461&caId=26342&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32998&aId=165461&caId=26342&tId=4)
-
-#### 427 👍 - Pro
+#### 447 👍 - Pro
 Testifying:
 * 💵Shawn Latham - Serlf Advocates In Leadership
 * Kyle Matheson - Self Advocate
@@ -34,8 +28,9 @@ Testifying:
 * Todd H Carlisle - [Disability Rights Washington](/org/disability_rights_washington/)
 * ARZU FOROUGH - Washington Autism Alliance
 * Jennifer Maxwell
+* Michael Raymond - Former resident of Rainier School
 
-#### 486 👎 - Con
+#### 499 👎 - Con
 Testifying:
 * Mike Yestramski
 * Jeff Carter - Friends of Rainier

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5156/</link>
 		<description>Updates about SB 5156</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Mar 2025 07:26:29 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Mar 2025 10:12:59 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -170,6 +170,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/michael/eliason/2025-03-12 07:26:29</guid>
+		</item>
+		<item>
+			<title>👎Lindsay LaBrosse - Elevator Constructors Union Local 19</title>
+			<description>Lindsay LaBrosse signed up to testify Con. They are signed up to represent Elevator Constructors Union Local 19.</description>
+			<pubDate>Fri, 14 Mar 2025 10:12:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Lindsay/LaBrosse/2025-03-14 10:12:59</guid>
 		</item>
 	</channel>
 </rss>

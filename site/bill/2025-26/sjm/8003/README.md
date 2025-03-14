@@ -12,13 +12,7 @@
 
 ## Meetings
 ### Thu 03/13 04:00 PM - Transportation (TR): SSJM 8003 I-82/Charles Frank Noble, Jr
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165337&caId=26298&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165337&caId=26298&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165337&caId=26298&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165337&caId=26298&tId=4)
-
-#### 2 👍 - Pro
+#### 3 👍 - Pro
 Testifying:
 * Chief John Batiste - Washington State Patrol
 

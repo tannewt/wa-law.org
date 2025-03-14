@@ -42,9 +42,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165590&caId=26452&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165590&caId=26452&tId=4)
 
-#### 0 👍 - Pro
+#### 117 👍 - Pro
 
-#### 11 👎 - Con
+#### 16 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Teodorin Morca

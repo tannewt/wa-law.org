@@ -16,22 +16,19 @@
 
 ## Meetings
 ### Fri 03/14 08:00 AM - State Government & Tribal Relations (SGOV): SSB 5017 Uniformed & overseas voting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165368&caId=26290&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165368&caId=26290&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165368&caId=26290&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165368&caId=26290&tId=4)
-
-#### 210 👍 - Pro
+#### 223 👍 - Pro
 Testifying:
 * Linda Farmer - WSACA Legislative Co Chair
+* Alyssa Barba - [Office of Secretary of State](/org/office_of_secretary_of_state/)
 
-#### 501 👎 - Con
+#### 742 👎 - Con
 Testifying:
 * Gregor Doerr - Washington State Young Republicans
 * Sandra Mochizuki
 * Lorilee Gates
+* Jaimee Saling
 * Annetta Hermes
+* Lauren Colas
 
 #### 3 ❓ - Other
 Testifying:

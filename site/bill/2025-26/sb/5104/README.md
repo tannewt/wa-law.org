@@ -15,13 +15,7 @@
 
 ## Meetings
 ### Fri 03/14 10:30 AM - Labor & Workplace Standards (LAWS): SSB 5104 Immigration status coercion
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165372&caId=26284&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165372&caId=26284&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165372&caId=26284&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32990&aId=165372&caId=26284&tId=4)
-
-#### 157 👍 - Pro
+#### 182 👍 - Pro
 Testifying:
 * Angelo Tadrous - Seattle University Workers' Rights Clinic
 * Yasmene Hammoud - Seattle University Workers' Rights Clinic
@@ -33,7 +27,7 @@ Testifying:
 * 💵Jean Hill - Washington State Catholic Conference
 * 💵Kelli Carson - Washington State Association for Justice
 
-#### 3 👎 - Con
+#### 27 👎 - Con
 
 #### 0 ❓ - Other
 

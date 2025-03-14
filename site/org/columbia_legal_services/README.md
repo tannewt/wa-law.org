@@ -99,6 +99,8 @@
 
 ### [SB 5103](/bill/2025-26/sb/5103/) - Expediting review of sentences when there exists a pending deportation proceeding. 👍1  
 
+### [SB 5104](/bill/2025-26/sb/5104/) - Immigration status coercion 👍1  
+
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 
 ### [SB 5131](/bill/2025-26/sb/5131/) - Religious celebrations/DOC 👍1  
@@ -122,7 +124,7 @@
 
 ### [SB 5342](/bill/2025-26/sb/5342/) - Legislators/state facilities 👍1  
 
-### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert.  👎2 
+### [SB 5388](/bill/2025-26/sb/5388/) - DOC behavioral health cert. 👍1 👎2 
 * 👎💵 Ethan Frenchman
 
 ### [SB 5426](/bill/2025-26/sb/5426/) - Court alternatives/youth 👍1  

@@ -16,7 +16,7 @@
 ### [HB 1357](/bill/2025-26/hb/1357/) - Special education funding 👍1  
 * 👍 Martin Turney
 
-### [HB 1709](/bill/2025-26/hb/1709/) - Adrenal insufficiency care 👍1  
+### [HB 1709](/bill/2025-26/hb/1709/) - Adrenal insufficiency care 👍2  
 * 👍 Laura Carmichael
 
 ### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍1  
@@ -54,7 +54,7 @@
 ### [SB 5593](/bill/2025-26/sb/5593/) - School levies & local effort 👍1  
 * 👍 Martin Turney
 
-### [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎1 
+### [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎2 
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  ❓1
 * ❓ Harlan Gallinger

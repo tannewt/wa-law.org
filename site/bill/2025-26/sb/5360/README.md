@@ -13,9 +13,10 @@
 
 ## Meetings
 ### Thu 03/13 10:30 AM - Environment & Energy (ENVI): ESSB 5360 Environmental crimes
-#### 67 👍 - Pro
+#### 68 👍 - Pro
 Testifying:
 * Bradley Roberts - Washington State Attorney General's Office
+* Adam Eitmann - Attorney General's Office
 
 #### 1006 👎 - Con
 Testifying:

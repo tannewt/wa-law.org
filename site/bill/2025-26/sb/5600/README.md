@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [What bills are still dead and alive in the Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/03/13/what-bills-are-still-dead-and-alive-in-the-washington-legislature/#:~:text=Senate%20Bill%205600)
 * 02/24/2025 [Axios](/org/axios/) - [Washington state could cap Uber and Lyft surge pricing ahead of World Cup in Seattle - Axios Seattle](https://www.axios.com/local/seattle/2025/02/24/uber-lyft-surge-pricing-world-cup-law#:~:text=Senate%20Bill%205600)
 * 02/21/2025 [Senate Democrats](/org/senate_democrats/) - [From the desk of your new state senator - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/02/21/from-the-desk-of-your-new-state-senator-2/#:~:text=5600)
 

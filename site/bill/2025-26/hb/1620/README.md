@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165617&caId=26422&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165617&caId=26422&tId=4)
 
-#### 38 👍 - Pro
+#### 117 👍 - Pro
 Testifying:
 * Brandon Williams - Brandon Williams PLLC, Family Law Attorney
 * Tamara Emerson - Concerned Citizen
@@ -38,10 +38,21 @@ Testifying:
 * Brandon Padilla
 * Sarah Hulteen - DV Survivor Mother
 * Natalie Sullivan
+* Yash Joshi
+* Yash Joshi - A student
+* Cierra Ozolin
+* Karen Dawson
+* Chanel Wahidi
+* Pat Edmundson
+* Pat Edmundson
+* Jennifer Bloom
 
-#### 0 👎 - Con
+#### 72 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Kassidy Gee - Court Napping, Tanawah Downing, Court Fraud, Parents against CPS, CPS Corruption
+* Sean Kuhlmeyer
 
 ### Wed 01/29 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1620 Parenting plan limitations
 #### 112 👍 - Pro

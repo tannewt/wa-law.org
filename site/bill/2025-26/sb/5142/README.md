@@ -19,12 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165592&caId=26454&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165592&caId=26454&tId=4)
 
-#### 4 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Emily Weaver
 * Emily Weaver
 * Kenneth Weaver
+* Shaylynn Houston
 * John Houston - The Houston Family Land Justice Project
+* Jerry Evans - No organization but would in person testify as a panel or individually.
 
 #### 0 👎 - Con
 

@@ -10,6 +10,8 @@
 * [Third Substitute](S3/)
 
 ## 📰 Articles
+* 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201491)
+* 03/13/2025 [KUOW](/org/kuow/) - [KUOW - Rent cap, parents rights survive key cutoff deadline in WA Legislature](https://www.kuow.org/stories/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201491)
 * 03/10/2025 [KUOW](/org/kuow/) - [KUOW - Bill to allow more housing near bus stops and rail stations progresses in Olympia](https://www.kuow.org/stories/bill-to-allow-more-housing-near-bus-stops-and-rail-stations-progresses-in-olympia#:~:text=House%20Bill%201491)
 * 03/09/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 9: House of origin cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/09/this-week-in-the-senate-week-9-house-of-origin-cutoff-arrives/#:~:text=HB%201491)
 * 02/20/2025 [PubliCola](/org/publicola/) - [Seattle Should Follow State's Lead on Inclusionary Zoning—By Funding It - PubliCola](https://publicola.com/2025/02/20/seattle-should-follow-states-lead-on-inclusionary-zoning-by-funding-it/#:~:text=HB%201491)
@@ -23,29 +25,29 @@
 
 ## Meetings
 ### Fri 03/14 10:30 AM - Housing (HSG): 3SHB 1491 Transit-oriented housing dev
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165450&caId=26348&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165450&caId=26348&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165450&caId=26348&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165450&caId=26348&tId=4)
-
-#### 892 👍 - Pro
+#### 997 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 * Mary Lou Pauly - Mayor, City of Issaquah
 * Nicholas Carr - Office of the Governor
 * Geoff Anderson - AIAWA (American Institute of Architects WA Council)
 * 💵Michele Thomas - Washington Low Income Housing Alliance
+* 💵Kira Munson - Washington State Labor Council, AFL-CIO
 * 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
 
-#### 462 👎 - Con
+#### 790 👎 - Con
 Testifying:
 * Sandra Mochizuki
+* Jaimee Saling
+* Tad Sommerville
 
-#### 2 ❓ - Other
+#### 8 ❓ - Other
 Testifying:
 * Dave Andersen - Washington Department of Commerce
 * Karl Almgren - [City of Lynnwood](/org/city_of_lynnwood/)
+* Toby Thaler
+* 💵Bill Clarke - Washington REALTORS
+* McKenzie Darr - NAIOPWA
 
 ### Thu 02/27 09:00 AM - Appropriations (APP): SHB 1491 Transit-oriented housing dev
 #### 555 👍 - Pro

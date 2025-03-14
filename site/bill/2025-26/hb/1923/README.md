@@ -22,11 +22,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33051&aId=165848&caId=26435&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33051&aId=165848&caId=26435&tId=4)
 
-#### 35 👍 - Pro
+#### 108 👍 - Pro
+Testifying:
+* Peter Philips - Des Moines and Vashon Island
+* Councilmember Justin Paulsen - San Juan County Council
 
 #### 1 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 02/19 04:00 PM - Transportation (TR): HB 1923 Passenger-only ferries
 #### 783 👍 - Pro

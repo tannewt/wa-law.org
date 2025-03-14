@@ -181,7 +181,8 @@
 
 ### [SB 5175](/bill/2025-26/sb/5175/) - Photovoltaic modules  👎3 
 
-### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍1  
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements 👍2  
+* 👍💵 Brent Ludeman
 
 ### [SB 5249](/bill/2025-26/sb/5249/) - Kit home siting 👍1  
 
@@ -234,8 +235,9 @@
 ### [SB 5554](/bill/2025-26/sb/5554/) - Historic landmark desig.   ❓1
 * ❓💵 Andrea Smiley
 
-### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process 👍1  
+### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process 👍2  
 * 👍💵 Andrea Smiley
+* 👍💵 Brent Ludeman
 
 ### [SB 5571](/bill/2025-26/sb/5571/) - Exterior cladding materials 👍1  
 * 👍💵 Andrea Smiley

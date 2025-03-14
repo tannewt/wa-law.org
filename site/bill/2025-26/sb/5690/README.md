@@ -15,11 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33027&aId=165714&caId=26543&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33027&aId=165714&caId=26543&tId=4)
 
-#### 0 👍 - Pro
+#### 1 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Greg Gachowsky - Washington State Department of Transportation
 
 ### Thu 02/20 04:00 PM - Transportation (TRAN): SB 5690 Utility relocation
 #### 17 👍 - Pro

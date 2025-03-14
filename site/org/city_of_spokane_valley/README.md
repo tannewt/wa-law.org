@@ -7,7 +7,7 @@
 
 ### [HB 1061](/bill/2025-26/hb/1061/) - Residential parking   ❓1
 
-### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓2
+### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓3
 
 ### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍2  
 
@@ -47,7 +47,7 @@
 
 ### [HB 1458](/bill/2025-26/hb/1458/) - Embodied carbon/buildings  👎1 
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓3
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓4
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety  👎1 
 
@@ -101,7 +101,7 @@
 
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects  👎2 
 
-### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎2 
 
 ### [SB 5229](/bill/2025-26/sb/5229/) - Opioid overdose/civil commit 👍1  
 
@@ -137,6 +137,8 @@
 ### [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations   ❓1
 
 ### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍1  
+
+### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process   ❓1
 
 ### [SB 5581](/bill/2025-26/sb/5581/) - Safe system approach strat.   ❓1
 

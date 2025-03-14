@@ -22,11 +22,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165852&caId=26439&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165852&caId=26439&tId=4)
 
-#### 3 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Dee Anne Finken - League of Women Voters of Washington
+* Sharon Maeda - (retired)
+* Karen Keiser - no
 
-#### 0 👎 - Con
+#### 1 👎 - Con
+Testifying:
+* 💵Rose Feliciano - TechNet
 
 #### 0 ❓ - Other
 

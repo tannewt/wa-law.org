@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/12/2025 [House Democrats](/org/house_democrats/) - [Students dealing with adrenal insufficiency get assistance – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/12/students-dealing-with-adrenal-insufficiency-get-assistance/#:~:text=HB%201709)
+
 ## Meetings
 ### Wed 03/19 01:30 PM - Early Learning & K-12 Education (EDU): SHB 1709 Adrenal insufficiency care
 Sign up to testify:
@@ -15,7 +18,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165858&caId=26376&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165858&caId=26376&tId=4)
 
-#### 0 👍 - Pro
+#### 178 👍 - Pro
+Testifying:
+* Mark Harper
 
 #### 0 👎 - Con
 

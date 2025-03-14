@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/13/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall coming up March 22 - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/03/13/town-hall-coming-up-march-22/#:~:text=Senate%20Bill%205480)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bill to remove medical debt from credit score reporting - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/02/27/senate-passes-bill-to-remove-medical-debt-from-credit-score-reporting/#:~:text=Senate%20Bill%205480)
 * 02/27/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington could exempt medical debt from credit reports • Washington State Standard](https://washingtonstatestandard.com/2025/02/26/washington-could-exempt-medical-debt-from-credit-reports/#:~:text=Senate%20Bill%205480)
 * 02/24/2025 [Senate Democrats](/org/senate_democrats/) - [Making health care more accessible for Washingtonians - Sen. Vandana Slatter](https://senatedemocrats.wa.gov/slatter/2025/02/24/making-health-care-more-accessible-for-washingtonians/#:~:text=SB%205480)
@@ -29,7 +30,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165781&caId=26468&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165781&caId=26468&tId=4)
 
-#### 34 👍 - Pro
+#### 178 👍 - Pro
 
 #### 0 👎 - Con
 

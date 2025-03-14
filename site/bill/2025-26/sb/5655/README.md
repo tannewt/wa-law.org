@@ -18,11 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165538&caId=26473&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165538&caId=26473&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Robyn Denson - Pierce County Council
 * Tricia Bennon - [Pierce County](/org/pierce_county/)
 * Ken Rice - Pierce County Fire Marshal
+* Christine Luna - Key Peninsula Preschool
 
 #### 0 👎 - Con
 

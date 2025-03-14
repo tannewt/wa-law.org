@@ -8,15 +8,10 @@
 
 ## Meetings
 ### Fri 03/14 08:00 AM - Health & Long Term Care (HLTC): HB 1190 UW health sciences library
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32986&aId=165359&caId=26318&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32986&aId=165359&caId=26318&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32986&aId=165359&caId=26318&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32986&aId=165359&caId=26318&tId=4)
-
-#### 52 👍 - Pro
+#### 65 👍 - Pro
 Testifying:
 * Tania Bardyn - University of Washington, HEALWA
+* CMHS, NCC, Shannon Thompson LMHC - Washington Mental Health Counselor Association
 
 #### 0 👎 - Con
 

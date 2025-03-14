@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1587/</link>
 		<description>Updates about HB 1587</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Mar 2025 09:35:27 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -162,6 +162,22 @@
 			<pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-11/First reading, referred to Higher Education &amp; Workforce Development.</guid>
+		</item>
+		<item>
+			<title>👍Ben Mitchell - Foundation for Tacoma Students</title>
+			<description>Ben Mitchell signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/foundation_for_tacoma_students/"&gt;Foundation for Tacoma Students&lt;/a&gt;.</description>
+			<pubDate>Thu, 13 Mar 2025 04:45:31 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ben/Mitchell/2025-03-13 04:45:31</guid>
+		</item>
+		<item>
+			<title>❓Jessica Monger - Washington State Opportunity Scholarship</title>
+			<description>Jessica Monger signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_state_opportunity_scholarship/"&gt;Washington State Opportunity Scholarship&lt;/a&gt;.</description>
+			<pubDate>Thu, 13 Mar 2025 09:35:27 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Jessica/Monger/2025-03-13 09:35:27</guid>
 		</item>
 	</channel>
 </rss>

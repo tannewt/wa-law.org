@@ -24,12 +24,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165700&caId=26388&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165700&caId=26388&tId=4)
 
-#### 2 👍 - Pro
+#### 7 👍 - Pro
+Testifying:
+* Breck Lebegue
 
-#### 7 👎 - Con
+#### 262 👎 - Con
 Testifying:
 * Laurie Layne
 * Leah Houser
+* Joshua Lenton
+* Krista Petrova
+* Mollie Vigil
+* Helena Hamilton
+* Bob Runnells
 
 #### 0 ❓ - Other
 

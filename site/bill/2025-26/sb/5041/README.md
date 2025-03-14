@@ -25,13 +25,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165794&caId=26513&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165794&caId=26513&tId=4)
 
-#### 0 👍 - Pro
+#### 399 👍 - Pro
 
-#### 6 👎 - Con
+#### 27 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 0 ❓ - Other
+#### 5 ❓ - Other
 
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SSB 5041 Unemp ins/strikes & lockouts
 #### 661 👍 - Pro

@@ -8,19 +8,14 @@
 
 ## Meetings
 ### Thu 03/13 04:00 PM - Transportation (TR): ESB 5595 Shared streets
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165335&caId=26296&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165335&caId=26296&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165335&caId=26296&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32961&aId=165335&caId=26296&tId=4)
-
-#### 721 👍 - Pro
+#### 755 👍 - Pro
 Testifying:
 * Venu Nemani - [City of Seattle](/org/city_of_seattle/)
 * 💵Carl Schroeder - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Nick Bond - [City of Port Orchard](/org/city_of_port_orchard/)
+* Mark Ostrow
 
-#### 754 👎 - Con
+#### 768 👎 - Con
 Testifying:
 * TaraLyn Fray
 

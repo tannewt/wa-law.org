@@ -9,6 +9,8 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=House%20Bill%201217)
+* 03/13/2025 [KUOW](/org/kuow/) - [KUOW - Rent cap, parents rights survive key cutoff deadline in WA Legislature](https://www.kuow.org/stories/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=House%20Bill%201217)
 * 03/10/2025 [House Democrats](/org/house_democrats/) - [House sends rent stabilization to the Senate, moving toward predictability for Washington renters – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/house-sends-rent-stabilization-to-the-senate-moving-toward-predictability-for-washington-renters/#:~:text=House%20Bill%201217)
 * 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](http://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201217)
 * 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201217)
@@ -50,11 +52,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=4)
 
-#### 49 👍 - Pro
+#### 250 👍 - Pro
 Testifying:
 * Makayla Pugmire
+* Kyle Matheson - Self advocate
+* 💵Harpreet Kaur - Washington Build Back Black Alliance (WBBA)
+* 💵Paula Sardinas - Washington Build Back Black Alliance (WBBA)
+* Kerri Burnside - Bellingham Tenants Union
 
-#### 63 👎 - Con
+#### 186 👎 - Con
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner
 * Greg Lovern
@@ -64,9 +70,23 @@ Testifying:
 * Greg Christiansen
 * 💵Brad Tower - [Commonwealth Real Estate Services](/org/commonwealth_real_estate_services/)
 * Steve Horvath
+* Mike Morris
+* Ken Tousley - Hamilton Urban Partners
+* Christopher Tanaka
+* Bruce Becker - Bruce Becker
+* Janelle Costanti
+* Mike Kuhlman - Kuhlman Properties
+* Constance Nelson
 * Jeff Pack - Washington Citizens Against Unfair Taxes
+* Janelle Costanti
+* Tad Sommerville
+* Shep Salusky
+* Michael Gustavson - Kitsap. Alliance of Property Owners
+* Brian Hansen
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* David Toler - Olympia for All
 
 ### Mon 02/03 04:00 PM - Appropriations (APP): SHB 1217 Residential tenants
 #### 3607 👍 - Pro

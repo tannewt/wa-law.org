@@ -20,7 +20,10 @@ Sign up to testify:
 Testifying:
 * Steve Horvath - HOA United
 
-#### 0 👎 - Con
+#### 2 👎 - Con
+Testifying:
+* Michele Horaney
+* Phil Landesberg
 
 #### 0 ❓ - Other
 

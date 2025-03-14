@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Fri 03/14 08:00 AM - Health & Long Term Care (HLTC): HB 1234 Counselors, etc. committee
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32986&aId=165431&caId=26319&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32986&aId=165431&caId=26319&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32986&aId=165431&caId=26319&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32986&aId=165431&caId=26319&tId=4)
-
-#### 25 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Jeremy Arp - National Association of Social Workers - Washington Chapter
 

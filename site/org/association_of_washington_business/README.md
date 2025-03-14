@@ -3,6 +3,8 @@
 
 ### [HB 1002](/bill/2025-26/hb/1002/) - Recognizing posttraumatic stress disorder as an occupational disease for county coroners, examiners, and investigative personnel.  👎1 
 
+### [HB 1003](/bill/2025-26/hb/1003/) - Addressing service of notice by mail in cases involving forcible entry and forcible and unlawful detainer. 👍1  
+
 ### [HB 1004](/bill/2025-26/hb/1004/) - Increasing the personal property tax exemption. 👍1  
 * 👍 Max Martin
 
@@ -35,7 +37,7 @@
 
 ### [HB 1094](/bill/2025-26/hb/1094/) - Providing a property tax exemption for property owned by a qualifying nonprofit organization and loaned, leased, or rented to and used by any government entity to provide character-building, benevolent, protective, or rehabilitative social services. 👍1  
 
-### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
+### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍2  
 * 👍💵 Morgan Irwin
 
 ### [HB 1099](/bill/2025-26/hb/1099/) - Tenant assistance program 👍1  
@@ -51,7 +53,7 @@
 
 ### [HB 1115](/bill/2025-26/hb/1115/) - Concerning the excise tax treatment of amounts received by title and escrow businesses from clients for remittance to a county filing office for the purpose of recording documents. 👍1  
 
-### [HB 1121](/bill/2025-26/hb/1121/) - Work restrictions/age 16, 17 👍1  
+### [HB 1121](/bill/2025-26/hb/1121/) - Work restrictions/age 16, 17 👍2  
 * 👍💵 Lindsey Hueer
 
 ### [HB 1123](/bill/2025-26/hb/1123/) - Health carrier reimbursement  👎1 
@@ -148,6 +150,8 @@
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth  👎1 
 * 👎 Max Martin
 
+### [HB 1353](/bill/2025-26/hb/1353/) - ADU self-certification 👍1  
+
 ### [HB 1356](/bill/2025-26/hb/1356/) - K-12 funding  👎1 
 * 👎 Max Martin
 
@@ -229,7 +233,7 @@
 ### [HB 1643](/bill/2025-26/hb/1643/) - Utility facility removal   ❓1
 * ❓💵 Morgan Irwin
 
-### [HB 1644](/bill/2025-26/hb/1644/) - Working minors  👎1 
+### [HB 1644](/bill/2025-26/hb/1644/) - Working minors  👎2 
 * 👎💵 Lindsey Hueer
 
 ### [HB 1648](/bill/2025-26/hb/1648/) - Child care qualifications 👍2  
@@ -271,6 +275,8 @@
 
 ### [HB 1756](/bill/2025-26/hb/1756/) - Lead in cookware 👍1  
 * 👍💵 Peter Godlewski
+
+### [HB 1757](/bill/2025-26/hb/1757/) - Residential use/existing 👍1  
 
 ### [HB 1763](/bill/2025-26/hb/1763/) - Affordable housing funding  👎1 
 * 👎 Max Martin
@@ -534,7 +540,7 @@
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction  👎2 
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍3  
 
 ### [SB 5514](/bill/2025-26/sb/5514/) - Clean buildings standard 👍1  
 * 👍💵 Peter Godlewski
@@ -556,7 +562,7 @@
 ### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans   ❓1
 * ❓💵 Morgan Irwin
 
-### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process 👍1  
+### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process 👍2  
 
 ### [SB 5561](/bill/2025-26/sb/5561/) - Health care entity registry  👎1 
 
@@ -600,7 +606,7 @@
 
 ### [SB 5653](/bill/2025-26/sb/5653/) - Fish and wildlife officers  👎1 
 
-### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍1  
+### [SB 5655](/bill/2025-26/sb/5655/) - Child care centers/buildings 👍2  
 
 ### [SB 5659](/bill/2025-26/sb/5659/) - Eliminating each local government's proportional share of Washington's housing shortage. 👍1  
 

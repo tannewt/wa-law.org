@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [What bills are still dead and alive in the Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/03/13/what-bills-are-still-dead-and-alive-in-the-washington-legislature/#:~:text=Senate%20Bill%205330)
 * 02/07/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington could require bars to carry spiked drink drug tests • Washington State Standard](https://washingtonstatestandard.com/briefs/washington-could-require-bars-to-carry-spiked-drink-drug-tests/#:~:text=Senate%20Bill%205330)
 * 01/27/2025 [FOX13](/org/fox13/) - [WA proposal would require bars to sell drug tests | FOX 13 Seattle](https://www.fox13seattle.com/news/washington-drug-tests-spiked-drinks#:~:text=Senate%20Bill%205330)
 

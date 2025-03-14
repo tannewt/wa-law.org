@@ -12,7 +12,7 @@
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍3  
 * 👍💵 Peter Steelquist
 
-### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍2  
+### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍3  
 * 👍 Pete Steelquist
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  

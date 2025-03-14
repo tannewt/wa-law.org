@@ -12,18 +12,12 @@
 
 ## Meetings
 ### Fri 03/14 10:30 AM - Environment, Energy & Technology (ENET): SHB 1253 Utility joint use agreements
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32962&aId=165419&caId=26323&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32962&aId=165419&caId=26323&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32962&aId=165419&caId=26323&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32962&aId=165419&caId=26323&tId=4)
-
-#### 8 👍 - Pro
+#### 74 👍 - Pro
 Testifying:
 * Josh Walter - Seattle City Light
 * Ryan Holterhoff - Grant PUD
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

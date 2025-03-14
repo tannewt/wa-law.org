@@ -3,7 +3,7 @@
 
 ### [HB 1111](/bill/2025-26/hb/1111/) - Concerning the indeterminate sentence review board. 👍1  
 
-### [HB 1131](/bill/2025-26/hb/1131/) - Clemency and pardons 👍3  
+### [HB 1131](/bill/2025-26/hb/1131/) - Clemency and pardons 👍4  
 * 👍 Waldo Waldron-Ramsey
 
 ### [HB 1178](/bill/2025-26/hb/1178/) - Sentencing enhancements 👍2  

@@ -12,6 +12,19 @@
 * 03/06/2025 [The Center Square](/org/the_center_square/) - [House Dems move to grant new authority to Ecology Dept. amid Yakima trash fires | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_05fb14d0-fadd-11ef-b984-67b70fff5b2f.html#:~:text=Second%20Substitute%20House%20Bill%201154)
 
 ## Meetings
+### Tue 03/18 01:30 PM - Environment, Energy & Technology (ENET): 2SHB 1154 Solid waste handling
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165872&caId=26555&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165872&caId=26555&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165872&caId=26555&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165872&caId=26555&tId=4)
+
+#### 1 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/13 04:00 PM - Appropriations (APP): SHB 1154 Solid waste handling
 #### 321 👍 - Pro
 Testifying:

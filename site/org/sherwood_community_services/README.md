@@ -8,6 +8,8 @@
 
 ### [HB 1344](/bill/2025-26/hb/1344/) - Respite care 👍2  
 
+### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍2  
+
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍3  
 
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍1  

@@ -40,11 +40,11 @@
 
 ### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions 👍2  
 
-## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍1  
+## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍2  
 
 ## 2023-24
 
-### [SB 5400](/bill/2023-24/sb/5400/) - Local news journalism 👍1  
+### [SB 5400](/bill/2023-24/sb/5400/) - Local news journalism 👍2  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

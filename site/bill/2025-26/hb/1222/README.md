@@ -11,19 +11,15 @@
 
 ## Meetings
 ### Fri 03/14 10:30 AM - State Government & Elections (SGE): HB 1222 Gambling commission/PRA
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165386&caId=26328&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165386&caId=26328&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165386&caId=26328&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165386&caId=26328&tId=4)
-
-#### 3 👍 - Pro
+#### 9 👍 - Pro
 Testifying:
 * 💵Tricia Gullion - Washington State Gambling Commission
+* Tina Griffin - Washington State Gambling Commission
 
-#### 388 👎 - Con
+#### 581 👎 - Con
 Testifying:
 * Sandra Mochizuki
+* Jaimee Saling
 
 #### 2 ❓ - Other
 Testifying:

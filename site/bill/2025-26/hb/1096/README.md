@@ -10,6 +10,8 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201096)
+* 03/13/2025 [KUOW](/org/kuow/) - [KUOW - Rent cap, parents rights survive key cutoff deadline in WA Legislature](https://www.kuow.org/stories/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201096)
 * 03/09/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 9: House of origin cutoff arrives - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/09/this-week-in-the-senate-week-9-house-of-origin-cutoff-arrives/#:~:text=HB%201096)
 * 03/04/2025 [The Center Square](/org/the_center_square/) - [Report: Home construction costs in Washington state climbing due to red tape | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_efe4c1d2-f94c-11ef-a413-932e6970f6ad.html#:~:text=House%20Bill%201096)
 * 02/15/2025 [House Republicans](/org/house_republicans/) - [Housing and rent control | Washington State House Republicans](http://houserepublicans.wa.gov/current/housing-and-rent-control/#:~:text=House%20Bill%201096)
@@ -20,21 +22,22 @@
 
 ## Meetings
 ### Fri 03/14 10:30 AM - Housing (HSG): E2SHB 1096 Lot splitting
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165448&caId=26346&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165448&caId=26346&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165448&caId=26346&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32959&aId=165448&caId=26346&tId=4)
-
-#### 333 👍 - Pro
+#### 481 👍 - Pro
 Testifying:
 * 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* 💵Ethan Robinson - Habitat for Humanity Seattle-King & Kittitas Counties
+* 💵Bill Clarke - Washington REALTORS
+* 💵Dan Bertolet - [Sightline Institute](/org/sightline_institute/)
+* 💵Andrea Smiley - Building industry association of Washington
+* 💵Amina Abdalla - City of Redmond and Kent
+* Ruby Holland
 
-#### 10 👎 - Con
+#### 18 👎 - Con
 
-#### 1 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * Dave Andersen - Washington Department of Commerce
+* 💵Joren Clowers - Sno-King Water District Coalition
 
 ### Wed 02/12 04:00 PM - Appropriations (APP): SHB 1096 Lot splitting
 #### 353 👍 - Pro

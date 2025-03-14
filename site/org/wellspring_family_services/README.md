@@ -1,6 +1,8 @@
 # Wellspring Family Services
 ## 2025-26
 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+
 ### [HB 1314](/bill/2025-26/hb/1314/) - Early learning facilities 👍1  
 
 ### [HB 1351](/bill/2025-26/hb/1351/) - ECEAP age requirements 👍1  

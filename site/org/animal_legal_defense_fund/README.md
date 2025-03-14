@@ -7,7 +7,8 @@
 
 ### [HB 1149](/bill/2025-26/hb/1149/) - Cruelty to animals 👍2  
 
-### [HB 1201](/bill/2025-26/hb/1201/) - Emergency shelters/pets 👍1  
+### [HB 1201](/bill/2025-26/hb/1201/) - Emergency shelters/pets 👍3  
+* 👍 Cat Kelly
 * 👍 Cat Kelly
 
 ### [HB 1311](/bill/2025-26/hb/1311/) - Gray wolves  👎1 
@@ -21,6 +22,9 @@
 ### [HB 1735](/bill/2025-26/hb/1735/) - Force-feeding of birds 👍1  
 
 ### [HB 1775](/bill/2025-26/hb/1775/) - Fur products 👍2  
+* 👍 Cat Kelly
+
+### [SB 5065](/bill/2025-26/sb/5065/) - Traveling animal acts 👍2  
 * 👍 Cat Kelly
 
 ## [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍4  

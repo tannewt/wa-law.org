@@ -14,7 +14,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165718&caId=26399&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165718&caId=26399&tId=4)
 
-#### 23 👍 - Pro
+#### 47 👍 - Pro
+Testifying:
+* Hillery Gladden - Dawson Place
+* Paula Reed - [Children's Advocacy Centers of Washington](/org/children's_advocacy_centers_of_washington/)
+* Stephanie Widhalm - Partners with Families & Children
+* Tysen Shaw
+* Tysen Shaw
 
 #### 0 👎 - Con
 

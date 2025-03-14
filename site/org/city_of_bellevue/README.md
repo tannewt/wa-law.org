@@ -95,7 +95,7 @@
 
 ### [SB 5176](/bill/2025-26/sb/5176/) - Prompt pay/capital projects   ❓2
 
-### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓1
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓2
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 

@@ -6,8 +6,15 @@
 ## Revisions
 * [Original Bill](1/)
 * [Substitute Bill](S/)
+* [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201296)
+* 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [What bills are still dead and alive in the Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/03/13/what-bills-are-still-dead-and-alive-in-the-washington-legislature/#:~:text=House%20Bill%201296)
+* 03/13/2025 [KIRO7](/org/kiro7/) - [No more waiting – Schools must notify parents immediately under reworked House bill – KIRO 7 News Seattle](https://www.kiro7.com/news/local/no-more-waiting-schools-must-notify-parents-immediately-under-reworked-house-bill/QRUHQCY6TNFDVIKWLGJ2SUA2KM/#:~:text=House%20Bill%201296)
+* 03/13/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA schools must notify parents immediately under revamped House bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_384d7c88-0060-11f0-9875-9bf03e87f107.html#:~:text=Engrossed%20Substitute%20House%20Bill%201296)
+* 03/13/2025 [KUOW](/org/kuow/) - [KUOW - Rent cap, parents rights survive key cutoff deadline in WA Legislature](https://www.kuow.org/stories/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201296)
+* 03/13/2025 [The Center Square](/org/the_center_square/) - [Emails reveal outrage over 'out-of-context' remarks by WA senator on parental rights | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1bcbd9d6-004e-11f0-a390-4f4721ed8deb.html#:~:text=House%20Bill%201296)
 * 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](http://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201296)
 * 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201296)
 * 03/07/2025 [The Center Square](/org/the_center_square/) - [Moses Lake School Board comes out against state bills it says erode parents' rights | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a33e7fea-fb76-11ef-8bed-cf5cea5646c8.html#:~:text=House%20Bill%201296)

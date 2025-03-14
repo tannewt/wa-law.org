@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [What bills are still dead and alive in the Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/03/13/what-bills-are-still-dead-and-alive-in-the-washington-legislature/#:~:text=Senate%20Bill%205375)
 * 03/01/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington Senate passes bill to make clergy mandatory reporters of child abuse • Washington State Standard](https://washingtonstatestandard.com/2025/02/28/washington-senate-passes-bill-to-make-clergy-members-mandatory-reporters/#:~:text=Senate%20Bill%205375)
 * 02/28/2025 [Senate Democrats](/org/senate_democrats/) - [Bill to make clergy mandatory reporters of child abuse passes Senate - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/02/28/bill-to-make-clergy-mandatory-reporters-of-child-abuse-passes-senate-2/#:~:text=Senate%20Bill%205375)
 * 02/28/2025 [Senate Democrats](/org/senate_democrats/) - [Bill to make clergy mandatory reporters of child abuse passes Senate - Sen. Noel Frame](https://senatedemocrats.wa.gov/frame/2025/02/28/bill-to-make-clergy-mandatory-reporters-of-child-abuse-passes-senate-2/#:~:text=Senate%20Bill%205375)
@@ -22,13 +23,7 @@
 
 ## Meetings
 ### Fri 03/14 08:00 AM - Human Services, Youth, & Early Learning (HSEL): SB 5375 Clergy, duty to report abuse
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165392&caId=26271&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165392&caId=26271&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165392&caId=26271&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165392&caId=26271&tId=4)
-
-#### 175 👍 - Pro
+#### 381 👍 - Pro
 Testifying:
 * Colleen Kinerk - Heal Our Church / Clergy Accountability Coalition
 * Mary Dispenza - Survivors of those Abused by Priests (SNAP) / Clergy Accountability Coalition
@@ -48,8 +43,19 @@ Testifying:
 * McKenzie Raynor
 * Rev. James Connell
 * Marino Hardin
+* Ryu Hoshino - Lake Washington High School
+* Michelle Sung - Lake Washington High School
+* Gavin Callahan - Lake Washington High School
+* Gavin Callahan - Lake Washington High School
+* Michelle Sung - Lake Washington High School
+* Ryu Hoshino - Lake Washington High School
+* Andrew Fox
+* Maivi Vuong
+* Marino Hardin
+* Kristiana de Leon - Association of Secular Elected Officials
+* Simone L'Amour - XJW CSA SURVIVORS
 
-#### 117 👎 - Con
+#### 256 👎 - Con
 Testifying:
 * John Axtell
 * 💵Jean Hill - Washington State Catholic Conference
@@ -57,6 +63,9 @@ Testifying:
 * Theresa Schrempp
 * Mary Locke
 * Paris Apodaca - Washington State Young Republicans
+* Jaimee Saling
+* 💵Luke Esser - Washington State Catholic Conference
+* Sandra Ewaskow
 
 #### 1 ❓ - Other
 

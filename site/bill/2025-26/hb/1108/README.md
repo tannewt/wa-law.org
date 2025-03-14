@@ -10,6 +10,23 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## Meetings
+### Fri 03/21 10:30 AM - Housing (HSG): E2SHB 1108 Housing cost task force
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165899&caId=26554&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165899&caId=26554&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165899&caId=26554&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33078&aId=165899&caId=26554&tId=4)
+
+#### 1 👍 - Pro
+
+#### 5 👎 - Con
+Testifying:
+* Jeff Pack - Washington Citizens Against Unfair Taxes
+
+#### 1 ❓ - Other
+Testifying:
+* Steve Horvath - HOA United
+
 ### Tue 02/25 01:30 PM - Appropriations (APP): SHB 1108 Housing cost task force
 #### 34 👍 - Pro
 Testifying:

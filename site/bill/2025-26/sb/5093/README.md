@@ -12,20 +12,23 @@
 
 ## Meetings
 ### Fri 03/14 10:30 AM - Civil Rights & Judiciary (CRJ): SSB 5093 Pregnancy loss
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33003&aId=165398&caId=26260&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33003&aId=165398&caId=26260&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33003&aId=165398&caId=26260&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33003&aId=165398&caId=26260&tId=4)
-
-#### 293 👍 - Pro
+#### 360 👍 - Pro
 Testifying:
 * Dhara Srinivasan - LifeWire (lifewire.org)
+* Betty Hernandez - [Open Arms Perinatal Services](/org/open_arms_perinatal_services/)
+* Jackie Vaughn - Surge Reproductive Justice
+* Rosalind Arch - [Washington State Coalition Against Domestic Violence](/org/washington_state_coalition_against_domestic_violence/)
+* 💵Gabriella Nazari - Pro-Choice Washington
+* Sara Ainsworth - If/When/How: Lawyering for Reproductive Justice
+* Soumyo Lahiri-Gupta - OneAmerica
 
-#### 481 👎 - Con
+#### 786 👎 - Con
 Testifying:
 * Carissa Carlson
 * Sandra Mochizuki
+* Jaimee Saling
+* Mary Long - [Conservative Ladies of Washington](/org/conservative_ladies_of_washington/)
+* Theresa Schrempp
 
 #### 0 ❓ - Other
 

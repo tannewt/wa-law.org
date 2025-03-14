@@ -4,7 +4,7 @@
 ### [HB 1198](/bill/2025-26/hb/1198/) - Operating budget   ❓1
 * ❓💵 Aaron Yared
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 
 ### [HB 1257](/bill/2025-26/hb/1257/) - Special education services 👍1  
 
@@ -28,24 +28,26 @@
 
 ### [SB 5082](/bill/2025-26/sb/5082/) - Extended foster care/housing 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍2  
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓💵 Aaron Yared
+
+### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
 ### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
 
-### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍3  
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍4  
 
-### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍1  
+### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍2  
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍1  
 
 ### [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market 👍2  
 
-### [SB 5542](/bill/2025-26/sb/5542/) - HS completers/CTC tuition 👍1  
+### [SB 5542](/bill/2025-26/sb/5542/) - HS completers/CTC tuition 👍2  
 
 ## [SB 5617](/bill/2025-26/sb/5617/) - Juvenile detention/CHINS 👍1  
 * 👍💵 Aaron Yared

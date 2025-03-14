@@ -5,6 +5,8 @@
 * 👍 Ben Buchholz
 * 👍 Ben Buchholz
 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
+
 ## [SB 5454](/bill/2025-26/sb/5454/) - Dairy inspection program 👍1  
 * 👍 Ben Buchholz
 

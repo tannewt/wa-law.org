@@ -33,14 +33,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165477&caId=26479&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165477&caId=26479&tId=4)
 
-#### 7 👍 - Pro
+#### 81 👍 - Pro
 Testifying:
 * LINDEN JORDAN - PFLAG Skagit
 * Paree Raval - Washington Legislative Youth Advisory Board
+* Monica Reichert
+* Lyric Lewis
+* Tony Draper
+* Grace Nyblade
 
-#### 38 👎 - Con
+#### 43 👎 - Con
 Testifying:
 * Tonya Hickman - Lynden School Board
+* Jennifer Heine-Withee - FPIW Action
 
 #### 0 ❓ - Other
 

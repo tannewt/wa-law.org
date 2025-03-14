@@ -31,7 +31,7 @@
 ### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge 👍2  
 * 👍💵 Carolyn Brotherton
 
-### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍2  
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 * 👍 Sam Hatzenbeler

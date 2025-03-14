@@ -10,17 +10,11 @@
 
 ## Meetings
 ### Thu 03/13 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): ESHB 1135 Local government planning
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32963&aId=165423&caId=26316&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32963&aId=165423&caId=26316&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32963&aId=165423&caId=26316&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32963&aId=165423&caId=26316&tId=4)
-
-#### 549 👍 - Pro
+#### 577 👍 - Pro
 Testifying:
 * 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
-#### 102 👎 - Con
+#### 107 👎 - Con
 Testifying:
 * steve sinwell
 

@@ -9,7 +9,10 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%202015)
+* 03/13/2025 [KUOW](/org/kuow/) - [KUOW - Rent cap, parents rights survive key cutoff deadline in WA Legislature](https://www.kuow.org/stories/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%202015)
 * 03/12/2025 [Washington State Standard](/org/washington_state_standard/) - [$100M plan for police hiring gets greenlight from Washington House • Washington State Standard](https://washingtonstatestandard.com/2025/03/11/100m-plan-for-police-hiring-gets-greenlight-from-washington-house/#:~:text=House%20Bill%202015)
+* 03/12/2025 [House Democrats](/org/house_democrats/) - [House Passes Bill to Fund Public Safety, Delivering on Community Priorities – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/12/house-passes-bill-to-fund-public-safety-delivering-on-community-priorities/#:~:text=House%20Bill%202015)
 * 03/10/2025 [Washington State Standard](/org/washington_state_standard/) - [Debate heats up over Ferguson’s request for $100M to hire more police in Washington • Washington State Standard](https://washingtonstatestandard.com/2025/03/10/debate-heats-up-over-fergusons-request-for-100m-to-hire-more-police-in-washington/#:~:text=House%20Bill%202015)
 * 02/25/2025 [House Democrats](/org/house_democrats/) - [House Bill 2015 Advances: A Bold Step Toward Justice, Community Safety, and Accountability – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/25/house-bill-2015-advances-a-bold-step-toward-justice-community-safety-and-accountability/#:~:text=House%20Bill%202015)
 

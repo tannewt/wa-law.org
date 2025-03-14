@@ -14,13 +14,7 @@
 
 ## Meetings
 ### Fri 03/14 08:00 AM - Labor & Commerce (LC): EHB 1874 Textured hair training
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32965&aId=165441&caId=26322&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32965&aId=165441&caId=26322&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32965&aId=165441&caId=26322&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32965&aId=165441&caId=26322&tId=4)
-
-#### 6 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * 💵Brooke Davies - [Cosmetologists of Washington United](/org/cosmetologists_of_washington_united/)
 * 💵Intisar Benge - L'Oreal

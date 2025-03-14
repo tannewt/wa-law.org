@@ -62,6 +62,8 @@
 
 ### [HB 1571](/bill/2025-26/hb/1571/) - Occupational disease/heart  👎1 
 
+### [HB 1576](/bill/2025-26/hb/1576/) - Historic landmarks/cities 👍1  
+
 ### [HB 1607](/bill/2025-26/hb/1607/) - Recycling & waste reduction  👎2 
 * 👎💵 Samantha Louderback
 * 👎💵 Samantha Louderback

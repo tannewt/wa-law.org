@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [What bills are still dead and alive in the Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/03/13/what-bills-are-still-dead-and-alive-in-the-washington-legislature/#:~:text=Senate%20Bill%205284)
 * 03/08/2025 [Washington State Standard](/org/washington_state_standard/) - [Recycling system overhaul bill clears Washington Senate • Washington State Standard](https://washingtonstatestandard.com/2025/03/07/recycling-system-overhaul-bill-clears-washington-senate/#:~:text=Senate%20Bill%205284)
 * 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Senate approves plan to modernize state’s recycling system - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/07/senate-approves-plan-to-modernize-states-recycling-system/#:~:text=progress%20here)
 * 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Senate approves plan to modernize state’s recycling system - Sen. Liz Lovelett](https://senatedemocrats.wa.gov/lovelett/2025/03/07/senate-approves-plan-to-modernize-states-recycling-system/#:~:text=progress%20here)
@@ -25,11 +26,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165565&caId=26487&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165565&caId=26487&tId=4)
 
-#### 9 👍 - Pro
+#### 221 👍 - Pro
+Testifying:
+* Sydney Harris - [Upstream](/org/upstream/)
 
-#### 0 👎 - Con
+#### 23 👎 - Con
+Testifying:
+* 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Jay Balasbas - Basin Disposal and Consolidated Disposal Services Inc.
+* 💵Lyset Cadena - WM (Waste Management)
+* 💵Vicki Christophersen - Washington Refuse and Recycling Association
+* Brian Coddington - Sunshine Disposal & Recycling
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5284 Solid waste management
 #### 864 👍 - Pro

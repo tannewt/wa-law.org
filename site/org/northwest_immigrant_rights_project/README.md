@@ -6,7 +6,7 @@
 
 ### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal 👍1  
 
-### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍2  
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍3  
 * 👍 Tim Warden-Hertz
 
 ### [HB 1399](/bill/2025-26/hb/1399/) - Sheriffs, chiefs, etc. 👍4  

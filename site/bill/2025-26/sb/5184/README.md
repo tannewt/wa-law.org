@@ -25,13 +25,7 @@
 
 ## Meetings
 ### Fri 03/14 10:30 AM - Local Government (LG): ESSB 5184 Minimum parking requirements
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33002&aId=165433&caId=26288&tId=4)
-
-#### 968 👍 - Pro
+#### 1108 👍 - Pro
 Testifying:
 * Skylar Bisom-Rapp - Inversion Design Build
 * Council Member Zack Zappone - [City of Spokane](/org/city_of_spokane/)
@@ -51,10 +45,16 @@ Testifying:
 * Jace Cotton - Bellingham City Councilmember (testifying as an individual)
 * Sarah Dickmeyer - Plymouth Housing
 * Angela Rozmyn - Natural and Built Environments
+* Jesse Simpson - Housing Development Consortium
+* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* cecelia black
 * Daniel Herriges - Parking Reform Network
 * Scott Bonjukian
+* McKai Morgan - A1DesignBuild
+* Jenne Alderks - City of Bothell Councilmember
+* Wes Stewart - Sierra Club Washington State chapter
 
-#### 474 👎 - Con
+#### 664 👎 - Con
 Testifying:
 * Andrew Johnson - Senior Planner of the City of Covington
 * Mary Lou Pauly - Mayor, City of Issaquah
@@ -65,12 +65,15 @@ Testifying:
 * Rebecca Deming - Community Development Director, City of Des Moines
 * Richa Sigdel - City of Pasco, Deputy City Manager
 * Matt Herrera - Planning Director, City of Renton
+* David Fritz
+* City Councilmember John Herbert - [City of Maple Valley](/org/city_of_maple_valley/)
 * Mariya Frost - Kemper Development Company
 
-#### 4 ❓ - Other
+#### 10 ❓ - Other
 Testifying:
 * Dave Andersen - Washington Department of Commerce
 * Nick Bond - [City of Port Orchard](/org/city_of_port_orchard/)
+* Deanna Martinez - Councilmember, City of Moses Lake
 
 ### Fri 01/24 10:30 AM - Housing (HSG): SB 5184 Minimum parking requirements
 #### 891 👍 - Pro

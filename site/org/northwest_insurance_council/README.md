@@ -8,6 +8,8 @@
 ### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍1  
 * 👍💵 Kenton Brine
 
+### [SB 5108](/bill/2025-26/sb/5108/) - Regulating service contracts and protection product guarantees. 👍1  
+
 ### [SB 5695](/bill/2025-26/sb/5695/) - Young driver safety 👍1  
 
 ## [SB 5721](/bill/2025-26/sb/5721/) - Automobile insurance  👎1 

@@ -1,7 +1,8 @@
 # Trout Unlimited
 ## 2025-26
 
-### [HB 1325](/bill/2025-26/hb/1325/) - Fish & wildlife enforcement 👍2  
+### [HB 1325](/bill/2025-26/hb/1325/) - Fish & wildlife enforcement 👍3  
+* 👍💵 Alexei Calambokidis
 * 👍💵 Alexei Calambokidis
 
 ### [HB 1685](/bill/2025-26/hb/1685/) - Fish and wildlife governance   ❓1

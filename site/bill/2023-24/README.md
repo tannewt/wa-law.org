@@ -297,7 +297,7 @@
 * [SB 5238](sb/5238) - Academic employee bargaining 1📰 611👍 20👎 2❓ - C 115 L 23
 * [HB 1608](hb/1608) - Anaphylaxis meds./schools 3📰 629👍 0👎 2❓ - C 81 L 24
 * [HB 1897](hb/1897) - Charter schools/enrichment 1📰 575👍 55👎 1❓ - HApprops
-* [HB 2131](hb/2131) - Thermal energy networks 4📰 621👍 2👎 5❓ - C 348 L 24
+* [HB 2131](hb/2131) - Thermal energy networks 5📰 621👍 2👎 5❓ - C 348 L 24
 * [HB 2028](hb/2028) - Concerning manufacturer and new dealer franchise agreements. 265👍 359👎 3❓ - HRules X
 * [SB 5372](sb/5372) - DNR land 2📰 600👍 11👎 13❓ - SWays & Means
 * [HB 2013](hb/2013) - Paying state retirement benefits until the end of the month in which the retiree or beneficiary dies. 613👍 2👎 0❓ - HApprops

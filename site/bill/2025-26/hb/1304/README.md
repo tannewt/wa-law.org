@@ -8,12 +8,6 @@
 
 ## Meetings
 ### Thu 03/13 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): HB 1304 Boundary review filings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32963&aId=165422&caId=26315&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32963&aId=165422&caId=26315&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32963&aId=165422&caId=26315&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32963&aId=165422&caId=26315&tId=4)
-
 #### 2 👍 - Pro
 Testifying:
 * Chandler Felt - WA State Association of Boundary Review Boards

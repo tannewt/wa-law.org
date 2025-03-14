@@ -20,7 +20,7 @@
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations 👍1  
 
-### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍2  
+### [HB 1391](/bill/2025-26/hb/1391/) - Court alternatives/youth 👍3  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍1  
 
@@ -49,14 +49,14 @@
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1
 * ❓ Nicholas Oakley
 
-### [SB 5199](/bill/2025-26/sb/5199/) - Providing compensation to members of the department of children, youth, and families oversight board with direct lived experience. 👍2  
+### [SB 5199](/bill/2025-26/sb/5199/) - Providing compensation to members of the department of children, youth, and families oversight board with direct lived experience. 👍3  
 
 ### [SB 5266](/bill/2025-26/sb/5266/) - Early release petitions 👍2  
 
 ### [SB 5278](/bill/2025-26/sb/5278/) - Juvenile rehabilitation  👎1 ❓1
 * 👎 William Hairston
 
-### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍1  
+### [SB 5296](/bill/2025-26/sb/5296/) - Juvenile offenses 👍2  
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍2  
 

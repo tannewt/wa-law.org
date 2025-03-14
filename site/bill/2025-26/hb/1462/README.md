@@ -15,6 +15,19 @@
 * 02/07/2025 [House Democrats](/org/house_democrats/) - [Duerr bill cuts potent greenhouse gases   – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/07/duerr-bill-cuts-potent-greenhouse-gases/#:~:text=House%20Bill%201462)
 
 ## Meetings
+### Tue 03/18 01:30 PM - Environment, Energy & Technology (ENET): 2SHB 1462 Hydrofluorocarbons
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165873&caId=26556&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165873&caId=26556&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165873&caId=26556&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165873&caId=26556&tId=4)
+
+#### 0 👍 - Pro
+
+#### 1 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Wed 02/19 04:00 PM - Appropriations (APP): SHB 1462 Hydrofluorocarbons
 #### 435 👍 - Pro
 Testifying:

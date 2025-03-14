@@ -22,9 +22,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165814&caId=26485&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165814&caId=26485&tId=4)
 
-#### 39 👍 - Pro
+#### 130 👍 - Pro
 Testifying:
 * Jaanvi Ganapathy - Legislative Youth Advisory Council (LYAC)
+* Bryan-Virgil Raiz
 
 #### 0 👎 - Con
 

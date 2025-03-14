@@ -1,16 +1,17 @@
 # Northwest Cooperative Development Center
 ## 2025-26
 
-### [HB 1191](/bill/2025-26/hb/1191/) - Concerning removing vehicle titles from manufactured homes. 👍4  
+### [HB 1191](/bill/2025-26/hb/1191/) - Concerning removing vehicle titles from manufactured homes. 👍5  
+* 👍 Victoria OBanion
 * 👍 Victoria OBanion
 * 👍 Victoria OBanion
 
 ### [HB 1358](/bill/2025-26/hb/1358/) - Mobile home community sale 👍1  
 * 👍 Victoria OBanion
 
-### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
+### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍2  
 
-### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍3  
+### [HB 1516](/bill/2025-26/hb/1516/) - Insurance/affordable units 👍4  
 * 👍 Victoria OBanion
 
 ### [HB 1760](/bill/2025-26/hb/1760/) - Manufactured homes/org. sale 👍2  
@@ -31,12 +32,12 @@
 
 ### [SB 5647](/bill/2025-26/sb/5647/) - Affordable housing/REET 👍1  
 
-## [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍2  
+## [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍3  
 * 👍 Victoria O'Banion
 
 ## 2023-24
 
-### [SB 5711](/bill/2023-24/sb/5711/) - Self-service storage/tax 👍2  
+### [SB 5711](/bill/2023-24/sb/5711/) - Self-service storage/tax 👍3  
 * 👍 Victoria O'Banion
 
 ### [HB 1743](/bill/2023-24/hb/1743/) - Employee ownership 👍1  

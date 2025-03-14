@@ -10,6 +10,8 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/14/2025 [KIRO7](/org/kiro7/) - [School budgets under pressure amid federal funding concerns – KIRO 7 News Seattle](https://www.kiro7.com/news/local/school-budgets-under-pressure-amid-federal-funding-concerns/263JTL7AZJHNFBFWLLTVBMDQWQ/#:~:text=In%20SB%205263,)
+* 03/14/2025 [Senate Democrats](/org/senate_democrats/) - [42nd LD Town Hall This Saturday, March 15! Plus, An Important Update on Education Funding. - Sen. Sharon Shewmake](https://senatedemocrats.wa.gov/shewmake/2025/03/13/2870/#:~:text=SB%205263)
 * 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [Major boost to special education funding gets Washington Senate approval • Washington State Standard](https://washingtonstatestandard.com/2025/03/12/major-boost-to-special-education-funding-gets-washington-senate-approval/#:~:text=the%20sponsors%20of%20Senate%20Bill%205263)
 * 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall this Saturday - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/03/12/town-hall-this-saturday/#:~:text=SB%205263)
 * 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=2SSB%205263)

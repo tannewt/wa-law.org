@@ -26,7 +26,7 @@
 ### [HB 1095](/bill/2025-26/hb/1095/) - Law enforcement funding 👍1  
 * 👍💵 Candice Bock
 
-### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting   ❓3
+### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  ❓3
 * ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
 * ❓💵 Carl Schroeder
@@ -89,6 +89,8 @@
 ### [HB 1254](/bill/2025-26/hb/1254/) - Wildland urban interface   ❓1
 * ❓💵 Carl Schroeder
 
+### [HB 1270](/bill/2025-26/hb/1270/) - Deferred comp. by local gov. 👍1  
+
 ### [HB 1275](/bill/2025-26/hb/1275/) - Self-insurer withdrawal 👍1  
 
 ### [HB 1276](/bill/2025-26/hb/1276/) - Organized retail theft 👍1  
@@ -104,9 +106,10 @@
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 * 👍💵 Candice Bock
 
-### [HB 1353](/bill/2025-26/hb/1353/) - ADU self-certification 👍2  
+### [HB 1353](/bill/2025-26/hb/1353/) - ADU self-certification 👍3  
 * 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
+* 👍💵 Candice Bock
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎3 
 * 👎💵 Carl Schroeder
@@ -141,6 +144,8 @@
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev   ❓1
 * ❓💵 Carl Schroeder
+
+### [HB 1494](/bill/2025-26/hb/1494/) - Multiple-unit dwellings/tax 👍1  
 
 ### [HB 1512](/bill/2025-26/hb/1512/) - Traffic safety  👎1 
 * 👎💵 Candice Bock
@@ -179,6 +184,8 @@
 
 ### [HB 1670](/bill/2025-26/hb/1670/) - Sewage-containing spills 👍1  
 
+### [HB 1688](/bill/2025-26/hb/1688/) - Electric security alarms 👍1  
+
 ### [HB 1690](/bill/2025-26/hb/1690/) - Water and sewer systems 👍1  
 * 👍💵 Carl Schroeder
 
@@ -206,7 +213,8 @@
 ### [HB 1772](/bill/2025-26/hb/1772/) - Shared streets 👍1  
 * 👍💵 Carl Schroeder
 
-### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
+### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍2  
+* 👍💵 Carl Schroeder
 * 👍💵 Carl Schroeder
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
@@ -358,7 +366,7 @@
 ### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining  👎1 
 * 👎💵 Candice Bock
 
-### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍2  
 * 👍💵 Carl Schroeder
 
 ### [SB 5518](/bill/2025-26/sb/5518/) - Sales tax sourcing impact 👍1  
@@ -377,8 +385,9 @@
 ### [SB 5555](/bill/2025-26/sb/5555/) - Zoning regulations   ❓1
 * ❓💵 Carl Schroeder
 
-### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process   ❓1
+### [SB 5559](/bill/2025-26/sb/5559/) - UGA subdivision process 👍1  ❓1
 * ❓💵 Carl Schroeder
+* 👍💵 Carl Schroeder
 
 ### [SB 5573](/bill/2025-26/sb/5573/) - Electric security alarms 👍1  
 * 👍💵 Carl Schroeder
@@ -388,7 +397,7 @@
 
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎2 
 
-### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍1  
+### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍2  
 
 ### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax 👍1  
 * 👍💵 Carl Schroeder

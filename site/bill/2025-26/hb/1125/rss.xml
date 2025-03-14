@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1125/</link>
 		<description>Updates about HB 1125</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Mar 2025 00:31:09 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -599,6 +599,20 @@
 			<pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-10/Rules Committee relieved of further consideration.  Placed on second reading.</guid>
+		</item>
+		<item>
+			<title>KUOW - Rent cap, parents rights survive key cutoff deadline in WA Legislature</title>
+			<description>News article "KUOW - Rent cap, parents rights survive key cutoff deadline in WA Legislature" from KUOW.</description>
+			<pubDate>Thu, 13 Mar 2025 17:35:06 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.kuow.org/stories/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201125</guid>
+		</item>
+		<item>
+			<title>Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network</title>
+			<description>News article "Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network" from NW News Network.</description>
+			<pubDate>Fri, 14 Mar 2025 00:31:09 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201125</guid>
 		</item>
 	</channel>
 </rss>

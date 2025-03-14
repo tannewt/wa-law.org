@@ -11,13 +11,7 @@
 
 ## Meetings
 ### Fri 03/14 08:00 AM - Consumer Protection & Business (CPB): SB 5108 Service contracts
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32978&aId=165341&caId=26269&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32978&aId=165341&caId=26269&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32978&aId=165341&caId=26269&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32978&aId=165341&caId=26269&tId=4)
-
-#### 4 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Tyler Langford - Office of the Insurance Commissioner
 * Travis Moore - Service Contract Industry Council

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5711/</link>
 		<description>Updates about SB 5711</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Mar 2025 12:43:02 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Mar 2025 12:22:25 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2025-02-10/First reading, referred to Ways &amp; Means.</guid>
 		</item>
 		<item>
-			<title>👎Lance Baker - Plymouth Housing</title>
+			<title>👎Lance Baker - City of Olympia</title>
 			<description>Lance Baker signed up to testify Con.</description>
 			<pubDate>Fri, 07 Mar 2025 04:34:14 GMT</pubDate>
 			<category>testifier</category>
@@ -261,6 +261,30 @@
 			<category>testifier</category>
 			<category>Con</category>
 			<guid isPermaLink="false">testifier/Dee/Hampton/2025-03-12 12:43:02</guid>
+		</item>
+		<item>
+			<title>👍Jacinda Steltjes - City of Olympia</title>
+			<description>Jacinda Steltjes signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/city_of_olympia/"&gt;City of Olympia&lt;/a&gt;.</description>
+			<pubDate>Thu, 13 Mar 2025 11:23:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jacinda/Steltjes/2025-03-13 11:23:28</guid>
+		</item>
+		<item>
+			<title>👎Stephen Ramsey - Glacier West Self Storage</title>
+			<description>Stephen Ramsey signed up to testify Con. They are signed up to represent Glacier West Self Storage.</description>
+			<pubDate>Thu, 13 Mar 2025 12:12:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Stephen/Ramsey/2025-03-13 12:12:51</guid>
+		</item>
+		<item>
+			<title>👎ROBERT REISWIG - Glacier West Self Storage</title>
+			<description>ROBERT REISWIG signed up to testify Con.</description>
+			<pubDate>Thu, 13 Mar 2025 12:22:25 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/ROBERT/REISWIG/2025-03-13 12:22:25</guid>
 		</item>
 	</channel>
 </rss>

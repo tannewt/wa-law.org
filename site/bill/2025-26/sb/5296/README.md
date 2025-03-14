@@ -25,7 +25,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165705&caId=26476&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165705&caId=26476&tId=4)
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Dr. Esther Matthews
+* Katie Hurley - King County Department of Public Defense
 
 #### 1 👎 - Con
 Testifying:

@@ -35,7 +35,8 @@
 
 ### [HB 1848](/bill/2025-26/hb/1848/) - Traumatic brain injuries 👍1  
 
-### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍1  
+### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍2  
+* 👍 Rosalind Arch
 
 ### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
 

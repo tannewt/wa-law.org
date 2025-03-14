@@ -8,13 +8,7 @@
 
 ## Meetings
 ### Thu 03/13 01:30 PM - Higher Education & Workforce Development (HEWD): EHB 1705 Large animal veterinarians
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32980&aId=165491&caId=26362&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32980&aId=165491&caId=26362&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32980&aId=165491&caId=26362&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32980&aId=165491&caId=26362&tId=4)
-
-#### 17 👍 - Pro
+#### 19 👍 - Pro
 Testifying:
 * Dori Borjesson - Washington State University
 * 💵Greg Hanon - WA State Veterinary Medical Association

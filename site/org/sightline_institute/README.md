@@ -1,7 +1,8 @@
 # Sightline Institute
 ## 2025-26
 
-### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍1  
+### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting 👍2  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review 👍1  
@@ -49,7 +50,8 @@
 
 ### [HB 1717](/bill/2025-26/hb/1717/) - Affordable housing/sales tax 👍1  
 
-### [HB 1757](/bill/2025-26/hb/1757/) - Residential use/existing 👍1  
+### [HB 1757](/bill/2025-26/hb/1757/) - Residential use/existing 👍2  
+* 👍💵 Dan Bertolet
 * 👍💵 Dan Bertolet
 
 ### [HB 1808](/bill/2025-26/hb/1808/) - Homeownership revolving loan 👍1  
@@ -72,6 +74,9 @@
 * 👍💵 Dan Bertolet
 
 ### [SB 5421](/bill/2025-26/sb/5421/) - Small businesses/residential 👍1  
+
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+* 👍💵 Emily Moore
 
 ### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs 👍1  
 

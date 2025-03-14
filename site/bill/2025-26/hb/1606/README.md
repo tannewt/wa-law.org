@@ -15,7 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165533&caId=26432&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165533&caId=26432&tId=4)
 
-#### 0 👍 - Pro
+#### 6 👍 - Pro
+Testifying:
+* Natalie Marshall - Washington AgForestry Leadership Program
+* Stacey Rasmussen - Washington AgForestry Leadership Program
+* Cody LaRiviere - Washington AgForestry Leadership Program
+* Paul D'Agnolo - Washington AgForestry Leadership Program
 
 #### 0 👎 - Con
 

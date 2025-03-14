@@ -56,7 +56,7 @@ Testifying:
 * Sergio Hernandez
 * 💵Neil Hartman - Washington State Association Of UA Plumbers & Pipefitters
 * 💵Ray Dumas - OPCMIA Local 528
-* Marianna Hyke - [Western States Regional Council of Carpenters](/org/western_states_regional_council_of_carpenters/)
+* 💵Marianna Hyke - [Western States Regional Council of Carpenters](/org/western_states_regional_council_of_carpenters/)
 * Brandon Jordan - Northwest Laborers Employers Training Trust Fund
 * 💵Mallorie Davies - Washington and Northern Idaho District Council of Laborers
 * Levi Loomer

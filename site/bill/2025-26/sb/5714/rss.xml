@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5714/</link>
 		<description>Updates about SB 5714</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 05 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Mar 2025 19:07:42 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -123,6 +123,13 @@
 			<pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-05/First reading, referred to Consumer Protection &amp; Business.</guid>
+		</item>
+		<item>
+			<title>WA bill seeks to prevent bail bond agents from enforcing immigration law • Washington State Standard</title>
+			<description>News article "WA bill seeks to prevent bail bond agents from enforcing immigration law • Washington State Standard" from Washington State Standard.</description>
+			<pubDate>Fri, 14 Mar 2025 19:07:42 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://washingtonstatestandard.com/2025/03/14/washington-bill-seeks-to-prevent-bail-bond-agents-from-enforcing-immigration-law/#:~:text=Senate%20Bill%205714</guid>
 		</item>
 	</channel>
 </rss>

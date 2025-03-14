@@ -223,12 +223,14 @@
 ### [SB 5154](/bill/2025-26/sb/5154/) - County auditor duties   ❓1
 * ❓💵 Paul Jewell
 
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓1
+
 ### [SB 5188](/bill/2025-26/sb/5188/) - Broadband repair loans 👍1  
 
 ### [SB 5197](/bill/2025-26/sb/5197/) - Local government planning   ❓1
 * ❓💵 Kelsey Hulse
 
-### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍1  
+### [SB 5232](/bill/2025-26/sb/5232/) - Essential needs program uses 👍2  
 
 ### [SB 5246](/bill/2025-26/sb/5246/) - Energy facility site eval. 👍1  
 * 👍💵 Kelsey Hulse
@@ -297,7 +299,7 @@
 ### [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
 * 👍 BRIAN ENSLOW
 
-### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍1  ❓1
+### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍2  ❓1
 * ❓💵 Curtis Steinhauer
 * 👍💵 Curtis Steinhauer
 

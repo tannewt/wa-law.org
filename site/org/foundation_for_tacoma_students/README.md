@@ -6,7 +6,7 @@
 
 ### [HB 1143](/bill/2025-26/hb/1143/) - College grant award amounts 👍1  
 
-### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍2  
+### [HB 1273](/bill/2025-26/hb/1273/) - Dual credit program access 👍3  
 
 ### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍1  
 
@@ -14,7 +14,8 @@
 
 ### [HB 1568](/bill/2025-26/hb/1568/) - Financial aid eligibility 👍1  
 
-### [HB 1587](/bill/2025-26/hb/1587/) - Partner promise scholarships 👍3  
+### [HB 1587](/bill/2025-26/hb/1587/) - Partner promise scholarships 👍4  
+* 👍 Ben Mitchell
 * 👍 Ben Mitchell
 * 👍 Ben Mitchell
 
@@ -29,7 +30,7 @@
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍2  
 
-### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍2  
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍3  
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 

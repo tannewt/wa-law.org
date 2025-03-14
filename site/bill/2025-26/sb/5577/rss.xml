@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5577/</link>
 		<description>Updates about SB 5577</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Mar 2025 06:32:44 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Mar 2025 02:30:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -79,6 +79,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/David/Ramos/2025-03-12 06:32:44</guid>
+		</item>
+		<item>
+			<title>👍Katie Kolan - AIDS Healthcare Foundation</title>
+			<description>Katie Kolan signed up to testify Pro. They are signed up to represent AIDS Healthcare Foundation.</description>
+			<pubDate>Thu, 13 Mar 2025 02:30:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Katie/Kolan/2025-03-13 02:30:35</guid>
 		</item>
 	</channel>
 </rss>

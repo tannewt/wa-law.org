@@ -12,21 +12,17 @@
 
 ## Meetings
 ### Fri 03/14 10:30 AM - Environment, Energy & Technology (ENET): SHB 1302 Utility connection charges
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32962&aId=165420&caId=26324&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32962&aId=165420&caId=26324&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32962&aId=165420&caId=26324&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32962&aId=165420&caId=26324&tId=4)
-
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* 💵Isaac Kastama - [Center for Sustainable Infrastructure](/org/center_for_sustainable_infrastructure/)
+* Rhys Roth - [Center for Sustainable Infrastructure](/org/center_for_sustainable_infrastructure/)
 
-#### 384 👎 - Con
+#### 529 👎 - Con
 Testifying:
 * Sandra Mochizuki
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 01/27 01:30 PM - Environment & Energy (ENVI): HB 1302 Utility connection charges
 #### 6 👍 - Pro

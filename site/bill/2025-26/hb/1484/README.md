@@ -19,7 +19,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33059&aId=165613&caId=26418&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33059&aId=165613&caId=26418&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* Raquel Rodriguez - King County Sexual Assault Resource Center
+* Laurel Smith - Clark County Prosecuting Attorney's Office
 
 #### 0 👎 - Con
 

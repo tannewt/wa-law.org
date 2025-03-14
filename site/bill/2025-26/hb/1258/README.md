@@ -12,6 +12,19 @@
 * 01/29/2025 [KREM](/org/krem/) - [Spokane County officials, law enforcement discuss potential tax concerns | krem.com](https://www.krem.com/article/news/local/spokane-county-potential-tax-concerns/293-a870f2bf-7a12-4ce3-a484-ace05fb51482#:~:text=House%20Bill%201258,%20which%20was%20introduced%20by%20District%203%20Representatives%20Tim%20Ormsby%20and%20Natasha%20Hill%20to%20the%20state%20legislature%20for%20the%202025-2026%20session.)
 
 ## Meetings
+### Tue 03/18 04:00 PM - Ways & Means (WM): ESHB 1258 Regional 911 funding
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165918&caId=26583&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165918&caId=26583&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165918&caId=26583&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165918&caId=26583&tId=4)
+
+#### 0 👍 - Pro
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 01/30 01:30 PM - Finance (FIN): HB 1258 Regional 911 funding
 #### 218 👍 - Pro
 Testifying:

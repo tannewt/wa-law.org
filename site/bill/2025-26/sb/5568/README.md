@@ -9,18 +9,15 @@
 
 ## Meetings
 ### Fri 03/14 08:00 AM - Health Care & Wellness (HCW): SSB 5568 State health plan
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165381&caId=26281&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165381&caId=26281&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165381&caId=26281&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165381&caId=26281&tId=4)
+#### 67 👍 - Pro
+Testifying:
+* Jim Freeburg - Patient Coalition of Washington
 
-#### 54 👍 - Pro
-
-#### 403 👎 - Con
+#### 612 👎 - Con
 Testifying:
 * Sandra Mochizuki
 * Sandra Mochizuki
+* Jaimee Saling
 
 #### 1 ❓ - Other
 

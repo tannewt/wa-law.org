@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1069/</link>
 		<description>Updates about HB 1069</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Mar 2025 07:54:37 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -30,7 +30,7 @@
 			<guid isPermaLink="false">2025-01-13/First reading, referred to Labor &amp; Workplace Standards.</guid>
 		</item>
 		<item>
-			<title>👍💵Brenda Wiest - Teamsters Local 117</title>
+			<title>👍💵Brenda Wiest - Freedom Foundation</title>
 			<description>Brenda Wiest signed up to testify Pro. They are a registered lobbyist.</description>
 			<pubDate>Thu, 16 Jan 2025 09:31:58 GMT</pubDate>
 			<category>testifier</category>
@@ -38,7 +38,7 @@
 			<guid isPermaLink="false">testifier/Brenda/Wiest/2025-01-16 09:31:58</guid>
 		</item>
 		<item>
-			<title>👍Julius Monroe - Teamsters Local 117</title>
+			<title>👍Julius Monroe - Freedom Foundation</title>
 			<description>Julius Monroe signed up to testify Pro.</description>
 			<pubDate>Thu, 16 Jan 2025 09:31:58 GMT</pubDate>
 			<category>testifier</category>
@@ -46,7 +46,7 @@
 			<guid isPermaLink="false">testifier/Julius/Monroe/2025-01-16 09:31:58</guid>
 		</item>
 		<item>
-			<title>👍Brady McNeely - Teamsters Local 117</title>
+			<title>👍Brady McNeely - Freedom Foundation</title>
 			<description>Brady McNeely signed up to testify Pro.</description>
 			<pubDate>Thu, 16 Jan 2025 09:39:55 GMT</pubDate>
 			<category>testifier</category>
@@ -54,7 +54,7 @@
 			<guid isPermaLink="false">testifier/Brady/McNeely/2025-01-16 09:39:55</guid>
 		</item>
 		<item>
-			<title>👍Christopher Malone - Teamsters Local 117</title>
+			<title>👍Christopher Malone - Freedom Foundation</title>
 			<description>Christopher Malone signed up to testify Pro.</description>
 			<pubDate>Thu, 16 Jan 2025 09:39:55 GMT</pubDate>
 			<category>testifier</category>
@@ -62,7 +62,7 @@
 			<guid isPermaLink="false">testifier/Christopher/Malone/2025-01-16 09:39:55</guid>
 		</item>
 		<item>
-			<title>👍Daniel Hahn - Teamsters Local 117</title>
+			<title>👍Daniel Hahn - Freedom Foundation</title>
 			<description>Daniel Hahn signed up to testify Pro.</description>
 			<pubDate>Thu, 16 Jan 2025 09:39:55 GMT</pubDate>
 			<category>testifier</category>
@@ -131,6 +131,22 @@
 			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://housedemocrats.wa.gov/blog/2025/02/07/house-passes-bipartisan-bill-to-help-public-employees-retire/#:~:text=House%20Bill%201069</guid>
+		</item>
+		<item>
+			<title>❓💵Maxford Nelsen - Freedom Foundation</title>
+			<description>Maxford Nelsen signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/freedom_foundation/"&gt;Freedom Foundation&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Thu, 13 Mar 2025 04:53:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Maxford/Nelsen/2025-03-13 04:53:15</guid>
+		</item>
+		<item>
+			<title>👍💵Brenda Wiest - Teamsters117</title>
+			<description>Brenda Wiest signed up to testify Pro. They are signed up to represent Teamsters117. They are a registered lobbyist.</description>
+			<pubDate>Thu, 13 Mar 2025 07:54:37 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Brenda/Wiest/2025-03-13 07:54:37</guid>
 		</item>
 	</channel>
 </rss>

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1879/</link>
 		<description>Updates about HB 1879</description>
 		<language>en-US</language>
-		<lastBuildDate>Thu, 06 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 13 Mar 2025 03:43:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -23,7 +23,7 @@
 			<guid isPermaLink="false">2025-02-07/First reading, referred to Labor &amp; Workplace Standards.</guid>
 		</item>
 		<item>
-			<title>👍💵Ashlen Strong - President, Washington Traffic Safety Education Association</title>
+			<title>👍💵Ashlen Strong - SEIU Healthcare 1199NW</title>
 			<description>Ashlen Strong signed up to testify Pro. They are a registered lobbyist.</description>
 			<pubDate>Tue, 11 Feb 2025 04:08:45 GMT</pubDate>
 			<category>testifier</category>
@@ -107,6 +107,22 @@
 			<pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-06/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👍💵Ashlen Strong - WSHA</title>
+			<description>Ashlen Strong signed up to testify Pro. They are signed up to represent WSHA. They are a registered lobbyist.</description>
+			<pubDate>Thu, 13 Mar 2025 03:43:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ashlen/Strong/2025-03-13 03:43:19</guid>
+		</item>
+		<item>
+			<title>👍💵Lindsey Grad - SEIU Healthcare 1199NW</title>
+			<description>Lindsey Grad signed up to testify Pro. They are signed up to represent SEIU Healthcare 1199NW. They are a registered lobbyist.</description>
+			<pubDate>Thu, 13 Mar 2025 03:43:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Lindsey/Grad/2025-03-13 03:43:19</guid>
 		</item>
 	</channel>
 </rss>

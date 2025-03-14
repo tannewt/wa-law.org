@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/13/2025 [House Democrats](/org/house_democrats/) - [Thursday, March 13 – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/13/thursday-march-13-2/#:~:text=Washington%20bill%20could%20transform%20prosthetics%20access%20for%20amputees)
+
 ## Meetings
 ### Tue 02/11 01:30 PM - Health Care & Wellness (HCW): HB 1669 Prosthetic limb coverage
 #### 42 👍 - Pro

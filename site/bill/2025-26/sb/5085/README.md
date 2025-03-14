@@ -14,21 +14,18 @@
 
 ## Meetings
 ### Thu 03/13 04:00 PM - Appropriations (APP): SSB 5085 Closed retirement plans
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165474&caId=26355&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165474&caId=26355&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165474&caId=26355&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32987&aId=165474&caId=26355&tId=4)
-
-#### 1376 👍 - Pro
+#### 1424 👍 - Pro
 Testifying:
 * Connie Greenidge - Retired Public Employees Council of WA
 * Linda Nelsen - Retired Public Employees Council of WA
 * Clair Olivers - Retired Public Employees Council of WA
 * Gretchen McDevitt
 * Pat McLachlan - Washington State School Retirees' Association
+* Carol Johns - Self
+* Carol Johns - Self
+* Carol Johns - Self
 
-#### 57 👎 - Con
+#### 63 👎 - Con
 Testifying:
 * Edwin Goodwillie
 * Bradd Reynolds
@@ -39,8 +36,9 @@ Testifying:
 * 💵Joyce Willms - Thurston County Council on Aging
 * 💵Joyce Willms - LEOFF1 Coalition
 * 💵Teresa Taylor - (WACOPS) Washington Council of Police & Sheriffs
+* Michael McKinley
 
-#### 15 ❓ - Other
+#### 16 ❓ - Other
 Testifying:
 * 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
 * Lisa Won - OSA - available for questions

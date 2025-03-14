@@ -42,6 +42,8 @@
 
 ### [SB 5148](/bill/2025-26/sb/5148/) - GMA housing element   ❓1
 
+### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓2
+
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
 * 👍 Melissa Stuart
 

@@ -8,18 +8,12 @@
 
 ## Meetings
 ### Fri 03/14 10:30 AM - State Government & Elections (SGE): HB 1013 DSHS civil service
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165385&caId=26327&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165385&caId=26327&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165385&caId=26327&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32995&aId=165385&caId=26327&tId=4)
-
 #### 2 👍 - Pro
 Testifying:
 * Andrew Colvin - Department of Social and Health Services, Human Resources Division
 * Johanna Tatarian - Department of Social and Health Services, Human Resources Division
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

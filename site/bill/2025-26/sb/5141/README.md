@@ -11,15 +11,11 @@
 
 ## Meetings
 ### Fri 03/14 08:00 AM - Consumer Protection & Business (CPB): SB 5141 Disability insurer filings
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32978&aId=165342&caId=26270&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32978&aId=165342&caId=26270&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32978&aId=165342&caId=26270&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32978&aId=165342&caId=26270&tId=4)
-
-#### 2 👍 - Pro
+#### 7 👍 - Pro
 Testifying:
 * Rory Paine-Donovan - Office of the Insurance Commissioner
+* John Mangan - [American Council of Life Insurers](/org/american_council_of_life_insurers/)
+* Kris Tefft - [American Council of Life Insurers](/org/american_council_of_life_insurers/)
 
 #### 0 👎 - Con
 

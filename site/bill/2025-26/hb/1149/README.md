@@ -14,7 +14,7 @@
 
 ## Meetings
 ### Thu 03/13 10:30 AM - Law & Justice (LAW): ESHB 1149 Cruelty to animals
-#### 1318 👍 - Pro
+#### 1320 👍 - Pro
 Testifying:
 * Calista Brady
 * Ashiana Ranjan
@@ -27,6 +27,8 @@ Testifying:
 * BAYLEE JONES
 * James Snyder
 * Hayden Reeves - TVW.org
+* Carson Cooper
+* Jose Francisco
 
 #### 10 👎 - Con
 Testifying:

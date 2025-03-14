@@ -32,7 +32,7 @@
 
 ### [HB 1440](/bill/2025-26/hb/1440/) - Civil forfeiture proceedings 👍2  
 
-### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍2  
+### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍3  
 
 ### [HB 1532](/bill/2025-26/hb/1532/) - Sales tax sourcing impact 👍1  
 * 👍💵 Nick Streuli

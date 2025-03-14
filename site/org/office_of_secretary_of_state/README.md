@@ -62,9 +62,10 @@
 * 👍 Steve Hobbs
 * 👍 Kevin McMahan
 
-### [SB 5017](/bill/2025-26/sb/5017/) - Uniformed & overseas voting 👍2  
+### [SB 5017](/bill/2025-26/sb/5017/) - Uniformed & overseas voting 👍3  
 * 👍 Steve Hobbs
 * 👍 Stuart Holmes
+* 👍 Alyssa Barba
 
 ### [SB 5050](/bill/2025-26/sb/5050/) - Presidential primary privacy   ❓1
 * ❓ Brian Hatfield
@@ -74,7 +75,7 @@
 * 👍 Brian Hatfield
 * 👍 Stuart Holmes
 
-### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration   ❓1
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  ❓1
 * ❓ Brian Hatfield
 
 ### [SB 5166](/bill/2025-26/sb/5166/) - Operating budget, supp.   ❓1

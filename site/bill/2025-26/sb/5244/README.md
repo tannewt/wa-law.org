@@ -6,17 +6,17 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/13/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall coming up March 22 - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/03/13/town-hall-coming-up-march-22/#:~:text=SB%205244)
+
 ## Meetings
 ### Fri 03/14 08:00 AM - Health Care & Wellness (HCW): SB 5244 WIC hematological screening
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165380&caId=26280&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165380&caId=26280&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165380&caId=26280&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165380&caId=26280&tId=4)
-
-#### 4 👍 - Pro
+#### 12 👍 - Pro
 Testifying:
 * 💵Jaime Bodden - WSALPHO
+* Brittany Tybo - Washington State Department of Health
+* Lindsay Irion - Public Health - Seattle & King County
+* Nicole Flateboe - Nutrition First
 
 #### 0 👎 - Con
 

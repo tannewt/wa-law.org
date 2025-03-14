@@ -1,13 +1,13 @@
 # Washington Landlord Association
 ## 2025-26
 
-## [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎2 
+## [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎3 
 * 👎 Errin Reynolds
 * 👎 Errin Reynolds
 
 ## 2023-24
 
-### [HB 1217](/bill/2023-24/hb/1217/) - Residential tenants  👎2 
+### [HB 1217](/bill/2023-24/hb/1217/) - Residential tenants  👎3 
 * 👎 Errin Reynolds
 * 👎 Errin Reynolds
 

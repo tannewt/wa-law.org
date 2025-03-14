@@ -9,6 +9,24 @@
 * [Engrossed Substitute](S.E/)
 
 ## Meetings
+### Wed 03/19 08:00 AM - Human Services (HS): ESHB 1815 Prison riot offenses
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165905&caId=26570&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165905&caId=26570&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165905&caId=26570&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165905&caId=26570&tId=4)
+
+#### 3 👍 - Pro
+Testifying:
+* Dr. Esther Matthews
+* Stacy Stanaway - Kids are Kids
+
+#### 1 👎 - Con
+Testifying:
+* James McMahan - WA Assoc Sheriffs & Police Chiefs
+
+#### 0 ❓ - Other
+
 ### Wed 02/12 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1815 Prison riot offenses
 #### 59 👍 - Pro
 Testifying:

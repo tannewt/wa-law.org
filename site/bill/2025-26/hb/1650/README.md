@@ -8,6 +8,22 @@
 * [Substitute Bill](S/)
 
 ## Meetings
+### Tue 03/18 04:00 PM - Ways & Means (WM): SHB 1650 Airport projects/local REET
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165919&caId=26584&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165919&caId=26584&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165919&caId=26584&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165919&caId=26584&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Carl Hicks - Tacoma Narrows Airport Advisory Commission
+* Ashley Stolhand - Peninsula School District, Aviation Academy
+
+#### 0 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/13 01:30 PM - Finance (FIN): HB 1650 Airport projects/local REET
 #### 10 👍 - Pro
 Testifying:

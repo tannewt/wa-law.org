@@ -16,27 +16,25 @@
 
 ## Meetings
 ### Fri 03/14 08:00 AM - State Government & Tribal Relations (SGOV): SB 5077 Agency voter registration
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165369&caId=26291&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165369&caId=26291&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165369&caId=26291&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32989&aId=165369&caId=26291&tId=4)
-
-#### 547 👍 - Pro
+#### 632 👍 - Pro
 Testifying:
 * 💵Denisse Guerrero - Washington Community Alliance
 * 💵Anthony Blankenship - Free The Vote WA
 * Raymond Williams - Just Us Solutions
 * Lai King - Pacific Islander Health Board
+* 💵Alex Alston - WA Voting Justice Coalition
 * Jess Unger - Institute for Responsive Government
 
-#### 1604 👎 - Con
+#### 1954 👎 - Con
 Testifying:
 * Gregor Doerr - Washington State Young Republicans
 * Laurie Layne
 * Sandra Mochizuki
+* Jaimee Saling
+* Lauren Colas
+* Jeff Pack - Washington Citizens Against Unfair Taxes
 
-#### 2 ❓ - Other
+#### 3 ❓ - Other
 Testifying:
 * 💵Shirley Prasad - Washington Health Benefit Exchange
 * 💵Shirley Prasad - Washington Health Benefit Exchange

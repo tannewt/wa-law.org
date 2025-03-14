@@ -23,11 +23,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165728&caId=26395&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165728&caId=26395&tId=4)
 
-#### 8 👍 - Pro
+#### 25 👍 - Pro
 Testifying:
 * Tracy Brown
+* LaKeisha Davis - Habitat for Humanity Spokane
 
-#### 1 👎 - Con
+#### 5 👎 - Con
 
 #### 0 ❓ - Other
 

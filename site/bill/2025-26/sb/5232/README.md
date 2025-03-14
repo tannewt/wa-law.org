@@ -13,18 +13,14 @@
 
 ## Meetings
 ### Fri 03/14 08:00 AM - Human Services, Youth, & Early Learning (HSEL): ESSB 5232 Essential needs program uses
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165536&caId=26359&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165536&caId=26359&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165536&caId=26359&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32997&aId=165536&caId=26359&tId=4)
-
-#### 11 👍 - Pro
+#### 21 👍 - Pro
 Testifying:
 * Tedd Kelleher - Department of Commerce
 * 💵Jean Hill - Washington State Catholic Conference
 
-#### 0 👎 - Con
+#### 44 👎 - Con
+Testifying:
+* Jaimee Saling
 
 #### 0 ❓ - Other
 

@@ -7,7 +7,7 @@
 ### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages 👍2  
 
 ### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval 👍1 👎6 
-* 👎 Marianna Hyke
+* 👎💵 Marianna Hyke
 
 ### [HB 1821](/bill/2025-26/hb/1821/) - Interested party/prev. wage 👍2  
 

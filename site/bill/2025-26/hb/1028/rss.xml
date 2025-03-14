@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1028/</link>
 		<description>Updates about HB 1028</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Feb 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Mar 2025 10:37:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -101,6 +101,46 @@
 			<pubDate>Fri, 07 Feb 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-02-07/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
+			<title>👍Hillery Gladden - Dawson Place</title>
+			<description>Hillery Gladden signed up to testify Pro. They are signed up to represent Dawson Place.</description>
+			<pubDate>Thu, 13 Mar 2025 12:45:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Hillery/Gladden/2025-03-13 12:45:26</guid>
+		</item>
+		<item>
+			<title>👍Paula Reed - Children's Advocacy Centers of Washington</title>
+			<description>Paula Reed signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/children's_advocacy_centers_of_washington/"&gt;Children's Advocacy Centers of Washington&lt;/a&gt;.</description>
+			<pubDate>Thu, 13 Mar 2025 12:45:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Paula/Reed/2025-03-13 12:45:26</guid>
+		</item>
+		<item>
+			<title>👍Stephanie Widhalm - Partners with Families &amp; Children</title>
+			<description>Stephanie Widhalm signed up to testify Pro. They are signed up to represent Partners with Families &amp; Children.</description>
+			<pubDate>Thu, 13 Mar 2025 12:45:26 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Stephanie/Widhalm/2025-03-13 12:45:26</guid>
+		</item>
+		<item>
+			<title>👍Tysen Shaw - Partners with Families &amp; Children</title>
+			<description>Tysen Shaw signed up to testify Pro.</description>
+			<pubDate>Fri, 14 Mar 2025 10:33:01 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tysen/Shaw/2025-03-14 10:33:01</guid>
+		</item>
+		<item>
+			<title>👍Tysen Shaw - Partners with Families &amp; Children</title>
+			<description>Tysen Shaw signed up to testify Pro.</description>
+			<pubDate>Fri, 14 Mar 2025 10:37:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Tysen/Shaw/2025-03-14 10:37:04</guid>
 		</item>
 	</channel>
 </rss>

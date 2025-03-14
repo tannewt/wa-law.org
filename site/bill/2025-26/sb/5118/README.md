@@ -15,17 +15,21 @@
 
 ## Meetings
 ### Fri 03/14 08:00 AM - Health Care & Wellness (HCW): SSB 5118 International medical grads
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165378&caId=26278&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165378&caId=26278&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165378&caId=26278&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=32972&aId=165378&caId=26278&tId=4)
+#### 17 👍 - Pro
+Testifying:
+* Micah Matthews - Washington Medical Commission/Deputy Executive and Legislative Director
+* Fatima Mirza - Washington Medical Commission
+* Micah Matthews - Washington Medical Commission
+* MD, Caleb Chu - Pacific Medical Specialties Group
+* MD, Neriza Mercado - Pacific Medical Specialties Group
+* MD, Okasana Nesterenko - Pacific Medical Specialties Group
+* 💵Alex Wehinger - Washington State Medical Association (WSMA)
 
-#### 5 👍 - Pro
+#### 23 👎 - Con
 
-#### 1 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Mohamed Khalif - The International Medical Graduates Academy (TIMGA)
 
 ### Fri 01/31 08:00 AM - Health & Long Term Care (HLTC): SB 5118 International medical grads
 #### 12 👍 - Pro
