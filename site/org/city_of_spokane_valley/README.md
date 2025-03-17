@@ -120,7 +120,7 @@
 
 ### [SB 5333](/bill/2025-26/sb/5333/) - Eluding & resisting arrest 👍1  
 
-### [SB 5356](/bill/2025-26/sb/5356/) - Criminal justice trainings  👎1 
+### [SB 5356](/bill/2025-26/sb/5356/) - Criminal justice trainings  👎1 ❓1
 
 ### [SB 5380](/bill/2025-26/sb/5380/) - Environmental justice  👎1 
 

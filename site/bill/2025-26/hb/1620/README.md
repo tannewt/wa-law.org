@@ -16,7 +16,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165617&caId=26422&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165617&caId=26422&tId=4)
 
-#### 117 👍 - Pro
+#### 306 👍 - Pro
 Testifying:
 * Brandon Williams - Brandon Williams PLLC, Family Law Attorney
 * Tamara Emerson - Concerned Citizen
@@ -46,13 +46,29 @@ Testifying:
 * Pat Edmundson
 * Pat Edmundson
 * Jennifer Bloom
+* Angela Garcia-Leija
+* Jessica Ormond
+* Isabelle Latour - DV survivor mother
+* Liz Jeppesen
+* Danielle Pollack - National Family Violence Law Center at GW
+* Emma Cole
 
-#### 72 👎 - Con
+#### 421 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Jim Clark - National Parents Organization
+* Mary Welch - [Northwest Justice Project](/org/northwest_justice_project/)
+* Rael LaPenta - Mothers Against Child Abuse- MACA
+* Eric Coltrain - Coalition for Effective Family Courts
+* Sandra Mochizuki
+* Kyle Spencer
 
-#### 2 ❓ - Other
+#### 4 ❓ - Other
 Testifying:
 * Kassidy Gee - Court Napping, Tanawah Downing, Court Fraud, Parents against CPS, CPS Corruption
 * Sean Kuhlmeyer
+* Erin Pease - VITAL Justice Project
+* LMFT, LCSW-R, Linda Gottlieb - Turning Points for Families
 
 ### Wed 01/29 08:00 AM - Civil Rights & Judiciary (CRJ): HB 1620 Parenting plan limitations
 #### 112 👍 - Pro

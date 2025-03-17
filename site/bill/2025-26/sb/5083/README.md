@@ -18,6 +18,21 @@
 * 12/02/2024 [Economic Opportunity Institute](/org/economic_opportunity_institute/) - [2025 Legislative Agenda - Economic Opportunity Institute Economic Opportunity Institute](https://www.opportunityinstitute.org/current-projects__trashed/2025-legislative-agenda/#:~:text=Senate%20Bill%205083)
 
 ## Meetings
+### Wed 03/19 04:00 PM - Appropriations (APP): E2SSB 5083 Health carrier reimbursement
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165954&caId=26605&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165954&caId=26605&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165954&caId=26605&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165954&caId=26605&tId=4)
+
+#### 100 👍 - Pro
+Testifying:
+* Jane Beyer - Office of the Insurance Commissioner
+
+#### 12 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Thu 02/20 04:00 PM - Ways & Means (WM): SSB 5083 Health carrier reimbursement
 #### 591 👍 - Pro
 Testifying:

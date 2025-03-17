@@ -14,6 +14,23 @@
 * 02/13/2025 [Sightline Institute](/org/sightline_institute/) - [Washington Housing Bills to Watch in 2025  | Sightline Institute](https://www.sightline.org/2025/02/13/washington-housing-bills-to-watch-in-2025/#:~:text=SB%205613)
 
 ## Meetings
+### Thu 03/20 08:00 AM - Housing (HOUS): E2SSB 5613 Residential development
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165948&caId=26604&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165948&caId=26604&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165948&caId=26604&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33023&aId=165948&caId=26604&tId=4)
+
+#### 2 👍 - Pro
+Testifying:
+* Joseph Tovar
+
+#### 0 👎 - Con
+
+#### 1 ❓ - Other
+Testifying:
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+
 ### Wed 02/26 01:30 PM - Ways & Means (WM): SSB 5613 Residential development
 #### 194 👍 - Pro
 Testifying:

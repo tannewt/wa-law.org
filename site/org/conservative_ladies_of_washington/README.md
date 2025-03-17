@@ -28,7 +28,7 @@
 
 ### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions  👎2 
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎2 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎3 
 
 ### [HB 1262](/bill/2025-26/hb/1262/) - Health disparities council  👎1 
 * 👎 Mary Long
@@ -37,7 +37,7 @@
 
 ### [HB 1289](/bill/2025-26/hb/1289/) - Public school survey info.  👎1 
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system  👎1 
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system  👎3 
 
 ### [HB 1321](/bill/2025-26/hb/1321/) - Outside militia activities  👎2 
 
@@ -55,12 +55,14 @@
 
 ### [HB 1504](/bill/2025-26/hb/1504/) - Firearm financial resp.  👎2 
 
-### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease  👎1 
+### [HB 1531](/bill/2025-26/hb/1531/) - Communicable disease  👎4 
 
 ### [HB 1634](/bill/2025-26/hb/1634/) - Behavioral health/schools  👎2 
 
 ### [HB 1677](/bill/2025-26/hb/1677/) - Postsecondary/med. abortion 👍1 👎4 
 * 👎 Mary Long
+
+### [HB 1696](/bill/2025-26/hb/1696/) - Covenant homeownership prg.  👎1 
 
 ### [HB 1710](/bill/2025-26/hb/1710/) - Voting rights act compliance  👎4 
 
@@ -110,18 +112,18 @@
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss  👎2 
 * 👎 Mary Long
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎3 
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎4 
 
 ### [SB 5099](/bill/2025-26/sb/5099/) - Firearms dealers  👎2 
 
 ### [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services  👎2 
 * 👎 Mary Long
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools  👎3 
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools  👎5 
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net.  👎2 
 
-### [SB 5177](/bill/2025-26/sb/5177/) - Considering the experiences of historically marginalized and underrepresented groups when identifying professional development resources on certain topics.  👎3 
+### [SB 5177](/bill/2025-26/sb/5177/) - Considering the experiences of historically marginalized and underrepresented groups when identifying professional development resources on certain topics.  👎4 
 * 👎 Jeannie Magdua
 
 ### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process  👎4 
@@ -135,7 +137,7 @@
 ### [SB 5189](/bill/2025-26/sb/5189/) - Competency-based education  👎5 
 * 👎 Joy Gjersvold
 
-### [SB 5192](/bill/2025-26/sb/5192/) - School district materials  👎5 
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials  👎6 
 * 👎 Jeannie Magdua
 
 ### [SB 5228](/bill/2025-26/sb/5228/) - Updating the governor's interagency coordinating council on health disparities.  👎1 
@@ -155,9 +157,13 @@
 
 ### [SB 5386](/bill/2025-26/sb/5386/) - Schools/sexual assault  👎1 
 
+### [SB 5414](/bill/2025-26/sb/5414/) - Social equity impact/audits  👎2 
+
 ### [SB 5434](/bill/2025-26/sb/5434/) - Gubernatorial emergencies 👍2  
 
 ### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt  👎2 
+
+### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage  👎1 
 
 ### [SB 5541](/bill/2025-26/sb/5541/) - Future fund pilot project  👎2 
 

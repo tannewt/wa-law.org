@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/14/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall on March 17 - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/03/14/town-hall-on-march-17/#:~:text=SB%205263)
 * 03/14/2025 [KIRO7](/org/kiro7/) - [School budgets under pressure amid federal funding concerns – KIRO 7 News Seattle](https://www.kiro7.com/news/local/school-budgets-under-pressure-amid-federal-funding-concerns/263JTL7AZJHNFBFWLLTVBMDQWQ/#:~:text=In%20SB%205263,)
 * 03/14/2025 [Senate Democrats](/org/senate_democrats/) - [42nd LD Town Hall This Saturday, March 15! Plus, An Important Update on Education Funding. - Sen. Sharon Shewmake](https://senatedemocrats.wa.gov/shewmake/2025/03/13/2870/#:~:text=SB%205263)
 * 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [Major boost to special education funding gets Washington Senate approval • Washington State Standard](https://washingtonstatestandard.com/2025/03/12/major-boost-to-special-education-funding-gets-washington-senate-approval/#:~:text=the%20sponsors%20of%20Senate%20Bill%205263)
@@ -34,6 +35,32 @@
 * 01/19/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 2: Rent stabilization, education funding and MLK Day 2025 - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/01/19/this-week-in-the-senate-week-2-rent-stabilization-education-funding-and-mlk-day-2025/#:~:text=SB%205263)
 
 ## Meetings
+### Wed 03/19 04:00 PM - Appropriations (APP): E2SSB 5263 Special education funding
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165955&caId=26606&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165955&caId=26606&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165955&caId=26606&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33095&aId=165955&caId=26606&tId=4)
+
+#### 281 👍 - Pro
+Testifying:
+* Mary Templeton - [School Alliance](/org/school_alliance/)
+* Dr. Brent Jones - Superintendent, Seattle Public Schools
+* Dr. Ivan Duran - Superintendent, Highline Public Schools
+* Dr. Kelly Aramaki - Superintendent, Bellevue School District
+* Melissa Beard - Washington State School Directors' Association, Tumwater School District
+* Nikki Otero Lockwood - Washington State School Directors' Association, Spokane Public Schools
+* Sandy Hayes - Washington State School Directors' Association, Northshore School District
+* Malorie Larson - Shoreline PTA Council
+* Samantha Fogg - Seattle Council PTSA Co-President
+* 💵Larry Delaney - [Washington Education Association](/org/washington_education_association/)
+* 💵Mitch Denning - Alliance of Educational Associations
+* Angela Steck - President, Washington State PTA
+
+#### 3 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/11 04:00 PM - Ways & Means (WM): SSB 5263 Special education funding
 #### 3091 👍 - Pro
 Testifying:

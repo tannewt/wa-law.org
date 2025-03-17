@@ -4,7 +4,7 @@
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget   ❓1
 * ❓ Vanessa Kritzer
 
-### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍3  
 
 ### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
 

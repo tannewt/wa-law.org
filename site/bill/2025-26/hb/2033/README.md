@@ -16,8 +16,9 @@ Sign up to testify:
 
 #### 0 👍 - Pro
 
-#### 2 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * Thomas Eshleman - Doyles Sheehan
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 
 #### 0 ❓ - Other

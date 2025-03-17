@@ -20,12 +20,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33022&aId=165516&caId=26511&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33022&aId=165516&caId=26511&tId=4)
 
-#### 28 👍 - Pro
+#### 39 👍 - Pro
 Testifying:
 * 💵Brad Tower - [Community Bankers of Washington](/org/community_bankers_of_washington/)
 * Steve Horvath - HOA United
+* Raelene Schifano - HoA United
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* Bennett Taylor - Washington State Community Association Institute
 
 #### 0 ❓ - Other
 

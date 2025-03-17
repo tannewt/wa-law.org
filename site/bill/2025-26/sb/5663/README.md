@@ -16,9 +16,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165749&caId=26532&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165749&caId=26532&tId=4)
 
-#### 0 👍 - Pro
+#### 10 👍 - Pro
+Testifying:
+* Kathryn Cox
+* Marina Aminy - California Community Colleges, California Virtual Campus
 
-#### 0 👎 - Con
+#### 221 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

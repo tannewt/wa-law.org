@@ -5,9 +5,10 @@
 
 ### [HB 1203](/bill/2025-26/hb/1203/) - Tobacco & nicotine products  👎1 
 
-### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex.  👎2 
+### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex. 👍1 👎2 
 * 👎💵 Diana Carlen
 * 👎💵 Diana Carlen
+* 👍💵 Diana Carlen
 
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍1  
 

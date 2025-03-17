@@ -19,14 +19,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33068&aId=165657&caId=26461&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33068&aId=165657&caId=26461&tId=4)
 
-#### 18 👍 - Pro
+#### 23 👍 - Pro
 Testifying:
 * Naira Gonzales Aranda
 * Andrea Piper-Wentland - Washington State Criminal Justice Training Commission
+* Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Baron Li
+* Blair Daly - Washington Initiative for Boys and Men
+* Kristen Lewis - Family Law Professional
 
 ### Tue 02/18 04:00 PM - Ways & Means (WM): SSB 5356 Criminal justice trainings
 #### 4 👍 - Pro

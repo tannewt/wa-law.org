@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/14/2025 [The Center Square](/org/the_center_square/) - [WA gubernatorial emergency powers reform legislation dies – again | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_3c4b0f94-010f-11f0-a793-73d96e1931d5.html#:~:text=Substitute%20Senate%20Bill%205434)
 * 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=SB%205434)
 * 03/13/2025 [KUOW](/org/kuow/) - [KUOW - Rent cap, parents rights survive key cutoff deadline in WA Legislature](https://www.kuow.org/stories/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=SB%205434)
 * 03/11/2025 [Washington State Standard](/org/washington_state_standard/) - [WA governor says he will limit his own emergency powers if lawmakers don’t • Washington State Standard](https://washingtonstatestandard.com/2025/03/11/washington-governor-says-he-will-limit-his-own-emergency-powers-if-lawmakers-dont/#:~:text=Senate%20Bill%205434)

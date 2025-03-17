@@ -22,7 +22,8 @@
 
 ### [SB 5094](/bill/2025-26/sb/5094/) - Concerning sexually explicit depictions of minors.  👍1  
 
-### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍1  
+### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍2  
+* 👍 Riddhi Mukhopadhyay
 
 ### [SB 5180](/bill/2025-26/sb/5180/) - Securing the rights of students to have a safe, civil, and respectful learning community. 👍1  
 
@@ -38,7 +39,8 @@
 ### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
 * 👍 Riddhi Mukhopadhyay
 
-### [SB 5356](/bill/2025-26/sb/5356/) - Criminal justice trainings 👍1  
+### [SB 5356](/bill/2025-26/sb/5356/) - Criminal justice trainings 👍2  
+* 👍 Riddhi Mukhopadhyay
 * 👍 Riddhi Mukhopadhyay
 
 ### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  

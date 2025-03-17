@@ -16,12 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165593&caId=26455&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165593&caId=26455&tId=4)
 
-#### 2 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Sandra Shanahan - KCPAO RDVFEU
+* Kimberly Wyatt - King County Prosecuting Attorney's Office
 
-#### 0 👎 - Con
+#### 281 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Ronald Mochizuki
+* Ronald Mochizuki
 
 #### 0 ❓ - Other
 

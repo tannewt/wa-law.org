@@ -20,11 +20,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165510&caId=26505&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165510&caId=26505&tId=4)
 
-#### 34 👍 - Pro
+#### 56 👍 - Pro
 Testifying:
 * michael eliason - larch lab
+* Stephen Smith - Center for Building in North America
 
-#### 5 👎 - Con
+#### 28 👎 - Con
 Testifying:
 * Lindsay LaBrosse - Elevator Constructors Union Local 19
 

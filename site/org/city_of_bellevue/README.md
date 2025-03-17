@@ -74,7 +74,7 @@
 
 ### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
 
-### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
+### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍2  
 
 ### [HB 1992](/bill/2025-26/hb/1992/) - Safe system approach strat. 👍1  
 
@@ -97,7 +97,7 @@
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓2
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
 

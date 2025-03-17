@@ -8,6 +8,7 @@
 * [Substitute Bill](S/)
 
 ## 📰 Articles
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205123)
 * 03/12/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall this Saturday - Sen. Jamie Pedersen](https://senatedemocrats.wa.gov/pedersen/2025/03/12/town-hall-this-saturday/#:~:text=SB%205123)
 * 03/07/2025 [The Center Square](/org/the_center_square/) - [Moses Lake School Board comes out against state bills it says erode parents' rights | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a33e7fea-fb76-11ef-8bed-cf5cea5646c8.html#:~:text=Senate%20Bill%205123)
 * 03/06/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Nobles bill to update anti-discrimination law - Sen. T’wina Nobles](https://senatedemocrats.wa.gov/nobles/2025/03/06/senate-passes-nobles-bill-to-update-anti-discrimination-law/#:~:text=Senate%20Bill%205123)
@@ -33,7 +34,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165477&caId=26479&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165477&caId=26479&tId=4)
 
-#### 81 👍 - Pro
+#### 891 👍 - Pro
 Testifying:
 * LINDEN JORDAN - PFLAG Skagit
 * Paree Raval - Washington Legislative Youth Advisory Board
@@ -41,13 +42,86 @@ Testifying:
 * Lyric Lewis
 * Tony Draper
 * Grace Nyblade
+* Riley Aliamus
+* Nancy Jacobs
+* Susan Ratner
+* Vanessa Edrich
+* Victoria Urias
+* Shary B
+* Anne Hall
+* Andrea Soroko Naar - Jewish Coalition for Immigrant Justice NW
+* John Morefield
+* Linda Relano
+* Elaine Johnson
+* wendy tanowitz
+* John Alder - Faith action network
+* Sonja Vegdahl
+* Julie Kageler
+* Elizabeth Lang
+* Marijke Fakasiieiki
+* Jim YOUNG
+* Betty Brooking
+* Marla Murdock
+* Lorraine Johnson
+* Katy Lloyd
+* Judith Kasper
+* Corinne Jaeger
+* Oolaa annonymous
+* Oolaa annonymous
+* Eric Watness - 45 4th
+* Mary Weese
+* 💵Donna Smith
+* Bruce Radtke
+* Karen Erlander
+* Amy Kvaalen
+* Elaine Hickman
+* Lisa Sweet
+* Ann-Scott Ettinger
+* John Birnel
+* Mary Raine
+* Nancy Holcomb
+* Catie Light
+* Mary Lou Johnson
+* Barbara Anderson - 4655 ne 89th street
+* Martha Cetina
+* Margaret Nelson-Low
+* Ethan Bergman - Grace Episcopal Church
+* Marsha Stipe
+* Joan Nelson
+* Joan Nelson
+* Jennifer Boelter
+* Mason Taylor
+* Linda Maschhoff
+* Donna Schultz
+* Jean Harris
+* Jameson Varpness
+* Mickey Beary - retired
+* Amy Cannava - Washington State Association of School Psychologists
+* Martha Nichols - FAN
+* Kathleen Morefield
+* Dan Novogrodsky
+* Darla Austerman
+* Alexis Gamber
+* Deborah Maranville
+* Amy Compestine
+* June Thomasson
+* 💵Kristin Ang - Faith Action Network (FAN)
 
-#### 43 👎 - Con
+#### 1895 👎 - Con
 Testifying:
 * Tonya Hickman - Lynden School Board
 * Jennifer Heine-Withee - FPIW Action
+* JAMES Derouin jr - self
+* Dawn Land - Reject 5599
+* Matthew Jackmond - A long time WA Resident and a very concerned taxpayer!
+* Sharon Damoff
+* Sandra Brock
+* Jan Smith
+* Sandra Mochizuki
+* TaraLyn Fray
+* Anthony Mixer - Washington State Young Republicans
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5123 Discrimination in schools
 #### 103 👍 - Pro

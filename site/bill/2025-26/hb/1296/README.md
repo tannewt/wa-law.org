@@ -9,12 +9,15 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/17/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Affordable housing, health care and safe kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/16/this-week-in-the-senate-week-10-affordable-housing-health-care-and-safe-kids/#:~:text=House%20Bill%201296)
+* 03/15/2025 [House Republicans](/org/house_republicans/) - [Parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201296)
 * 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201296)
 * 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [What bills are still dead and alive in the Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/03/13/what-bills-are-still-dead-and-alive-in-the-washington-legislature/#:~:text=House%20Bill%201296)
 * 03/13/2025 [KIRO7](/org/kiro7/) - [No more waiting – Schools must notify parents immediately under reworked House bill – KIRO 7 News Seattle](https://www.kiro7.com/news/local/no-more-waiting-schools-must-notify-parents-immediately-under-reworked-house-bill/QRUHQCY6TNFDVIKWLGJ2SUA2KM/#:~:text=House%20Bill%201296)
 * 03/13/2025 [The Center Square](/org/the_center_square/) - [WATCH: WA schools must notify parents immediately under revamped House bill | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_384d7c88-0060-11f0-9875-9bf03e87f107.html#:~:text=Engrossed%20Substitute%20House%20Bill%201296)
 * 03/13/2025 [KUOW](/org/kuow/) - [KUOW - Rent cap, parents rights survive key cutoff deadline in WA Legislature](https://www.kuow.org/stories/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=HB%201296)
 * 03/13/2025 [The Center Square](/org/the_center_square/) - [Emails reveal outrage over 'out-of-context' remarks by WA senator on parental rights | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_1bcbd9d6-004e-11f0-a390-4f4721ed8deb.html#:~:text=House%20Bill%201296)
+* 03/13/2025 [MyNorthwest](/org/mynorthwest/) - [Schools must notify parents immediately under reworked House Bill 1296](https://mynorthwest.com/mynorthwest-politics/house-bill-1296/4062314#:~:text=House%20Bill%201296)
 * 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](http://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201296)
 * 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](https://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201296)
 * 03/07/2025 [The Center Square](/org/the_center_square/) - [Moses Lake School Board comes out against state bills it says erode parents' rights | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a33e7fea-fb76-11ef-8bed-cf5cea5646c8.html#:~:text=House%20Bill%201296)
@@ -42,6 +45,36 @@
 * [House Republicans](/org/house_republicans/) - [The Worst Democrat Bills in 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/the-worst-democrat-bills-in-2025/#:~:text=House%20Bill%201296)
 
 ## Meetings
+### Thu 03/20 10:30 AM - Early Learning & K-12 Education (EDU): ESHB 1296 Public education system
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33040&aId=165928&caId=26586&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33040&aId=165928&caId=26586&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33040&aId=165928&caId=26586&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33040&aId=165928&caId=26586&tId=4)
+
+#### 417 👍 - Pro
+Testifying:
+* Emily Carmichael
+* Maggie Anderson
+* 💵Nasue Nishida - [Washington Education Association](/org/washington_education_association/)
+* Jenny Plaja - Office of Superintendent of Public Instruction (OSPI)
+
+#### 1006 👎 - Con
+Testifying:
+* Matthew Jackmond - A long time WA Resident and a very concerned voter!
+* laurielayne1@gmail.com Layne
+* Laurie Layne
+* Sarah Garriott
+* Dawn Land - Reject 5599
+* mike johnson
+* Robert Runnells - Informed Choice Washington
+* Tim Eyman - Initiative Activist
+* Diane Kong
+* thomas Grauer
+* Amanda McKinney - Yakima County Commissioner
+
+#### 0 ❓ - Other
+
 ### Thu 01/23 08:30 AM - Education (ED): HB 1296 Public education system
 #### 1213 👍 - Pro
 Testifying:

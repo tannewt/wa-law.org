@@ -14,11 +14,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33094&aId=165790&caId=26450&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33094&aId=165790&caId=26450&tId=4)
 
-#### 2 👍 - Pro
+#### 176 👍 - Pro
+Testifying:
+* John Axtell
+* Sandra Brock
+* Julie Gorman
 
-#### 3 👎 - Con
+#### 16 👎 - Con
+Testifying:
+* Ronald Reed - Retired
+* Francisco Santiago-Ávila - [Washington Wildlife First](/org/washington_wildlife_first/)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Jonathan Grudin
 
 ### Mon 01/27 01:30 PM - Agriculture, Water, Natural Resources & Parks (AWNP): SB 5343 NE WA wolf-livestock account
 #### 214 👍 - Pro

@@ -15,9 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33071&aId=165691&caId=26379&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33071&aId=165691&caId=26379&tId=4)
 
-#### 1 👍 - Pro
+#### 2 👍 - Pro
 Testifying:
 * Cynthia Flynn - Washington Association of Birth Centers
+* Jennifer Stuber - UW BHCore
 
 #### 0 👎 - Con
 

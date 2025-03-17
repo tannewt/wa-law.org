@@ -15,17 +15,18 @@
 
 ## Meetings
 ### Mon 03/17 10:30 AM - Labor & Commerce (LC): 2SHB 1524 Isolated employees
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33056&aId=165755&caId=26410&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33056&aId=165755&caId=26410&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33056&aId=165755&caId=26410&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33056&aId=165755&caId=26410&tId=4)
+#### 53 👍 - Pro
+Testifying:
+* 💵Khalil Hamiduddin - SEIU6
 
-#### 2 👍 - Pro
+#### 499 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* TaraLyn Fray
 
-#### 0 👎 - Con
-
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Julia Gorton - [Washington Hospitality Association](/org/washington_hospitality_association/)
 
 ### Wed 02/19 04:00 PM - Appropriations (APP): SHB 1524 Isolated employees
 #### 19 👍 - Pro

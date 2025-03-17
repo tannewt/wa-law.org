@@ -12,6 +12,8 @@
 
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍1  
 
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍1  
+
 ## [SB 5517](/bill/2025-26/sb/5517/) - School staff salary alloc. 👍3  
 
 ## 2023-24

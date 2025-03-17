@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/17/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Affordable housing, health care and safe kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/16/this-week-in-the-senate-week-10-affordable-housing-health-care-and-safe-kids/#:~:text=House%20Bill%201644)
 * 03/10/2025 [House Democrats](/org/house_democrats/) - [House passes Fosse’s Child Labor Safety Bill Improving’s Protections for Washington’s Youngest Workers – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/house-passes-fosses-child-labor-safety-bill-improvings-protections-for-washingtons-youngest-workers/#:~:text=House%20Bill%201644)
 * 02/22/2025 [Senate Democrats](/org/senate_democrats/) - [Supporting our public schools - Sen. Derek Stanford](https://senatedemocrats.wa.gov/stanford/2025/02/21/supporting-our-public-schools/#:~:text=House%20version%20of%20this%20bill.)
 * 02/03/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 4 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/03/the-house-hot-sheet-for-week-4-of-the-2025-legislative-session/#:~:text=HB%201644)
@@ -23,11 +24,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165818&caId=26416&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165818&caId=26416&tId=4)
 
-#### 27 👍 - Pro
+#### 114 👍 - Pro
+Testifying:
+* April Sims - Washington State Labor Council, AFL-CIO
+* 💵Minna Long - Washington State Building & Construction Trades Council
+* 💵Ray Dumas - OPCMIA Local 528
+* Diana Winther - IBEW Local 48
+* Justin Bourgault - SMART Local 66
+* Mike Bridges - Longview/Kelso Building and Construction Trades Council
 
-#### 10 👎 - Con
+#### 127 👎 - Con
+Testifying:
+* Mike Ennis - Building Industry Association of Washington (BIAW)
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/04 10:30 AM - Labor & Workplace Standards (LAWS): HB 1644 Working minors
 #### 69 👍 - Pro

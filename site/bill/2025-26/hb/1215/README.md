@@ -11,17 +11,20 @@
 
 ## Meetings
 ### Mon 03/17 10:30 AM - Law & Justice (LAW): HB 1215 Natural death act/pregnancy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33059&aId=165612&caId=26417&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33059&aId=165612&caId=26417&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33059&aId=165612&caId=26417&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33059&aId=165612&caId=26417&tId=4)
+#### 70 👍 - Pro
+Testifying:
+* Sara Ainsworth
+* 💵Nancy Sapiro - Cedar River Clinics, American College of Obstetrics and Gynecology, End of Life WA
+* 💵Yvette Maganya - [Legal Voice](/org/legal_voice/)
 
-#### 2 👍 - Pro
+#### 818 👎 - Con
+Testifying:
+* Sandra Brock
+* Sandra Mochizuki
+* TaraLyn Fray
+* Theresa Schrempp
 
-#### 39 👎 - Con
-
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Tue 01/28 10:30 AM - Civil Rights & Judiciary (CRJ): HB 1215 Natural death act/pregnancy
 #### 60 👍 - Pro

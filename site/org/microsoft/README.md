@@ -15,6 +15,9 @@
 
 ### [HB 1517](/bill/2025-26/hb/1517/) - Digital equity/revenue  👎1 
 
+### [HB 1576](/bill/2025-26/hb/1576/) - Historic landmarks/cities 👍1  
+* 👍 Barb Wilson
+
 ### [HB 1839](/bill/2025-26/hb/1839/) - Advanced computing surcharge  👎1 
 
 ### [HB 1876](/bill/2025-26/hb/1876/) - Death with dignity act 👍1  
@@ -23,7 +26,11 @@
 
 ### [HB 1974](/bill/2025-26/hb/1974/) - Land banking authorities 👍1  
 
-### [HB 1980](/bill/2025-26/hb/1980/) - Employer transp. services 👍1  
+### [HB 1980](/bill/2025-26/hb/1980/) - Employer transp. services 👍2  
+
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas  👎1 
+
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
 ### [SB 5308](/bill/2025-26/sb/5308/) - Guaranteed admissions prg. 👍1  
 

@@ -14,9 +14,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165620&caId=26425&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165620&caId=26425&tId=4)
 
-#### 1 👍 - Pro
+#### 90 👍 - Pro
 Testifying:
 * Bradley Richardson - Washington Museum Association
+* Dee Anne Finken Megrditchian
 
 #### 0 👎 - Con
 

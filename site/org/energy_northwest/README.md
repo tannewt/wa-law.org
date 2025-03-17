@@ -3,7 +3,7 @@
 
 ### [HB 1057](/bill/2025-26/hb/1057/) - Access to federal funds 👍1  
 
-### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences 👍1  
+### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences 👍2  
 
 ### [HB 1237](/bill/2025-26/hb/1237/) - Facilitating predictable and timely application decisions by the energy facility site evaluation council. 👍1  
 * 👍 Dave Arbaugh
@@ -11,6 +11,8 @@
 ### [HB 1249](/bill/2025-26/hb/1249/) - Creating the commercial liftoff for energy from advanced nuclear advisory commission. 👍1  
 
 ### [HB 1253](/bill/2025-26/hb/1253/) - Utility joint use agreements 👍1  
+
+### [HB 1329](/bill/2025-26/hb/1329/) - Wholesale power purchases 👍1  
 
 ### [HB 1461](/bill/2025-26/hb/1461/) - Joint operating agencies 👍4  
 * 👍 Richard Shaff

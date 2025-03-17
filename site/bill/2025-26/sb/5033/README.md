@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205033)
+
 ## Meetings
 ### Mon 03/17 01:30 PM - Environment & Energy (ENVI): SSB 5033 Biosolids/PFAS chemicals
 Sign up to testify:
@@ -15,13 +18,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165569&caId=26489&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165569&caId=26489&tId=4)
 
-#### 3 👍 - Pro
+#### 373 👍 - Pro
 Testifying:
 * 💵Heather Trim - [Zero Waste Washington](/org/zero_waste_washington/)
+* Wyatt Golding - The Nisqually Delta Association
+* 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
+* 💵Joren Clowers - Sno-King Water District Coalition
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
+Testifying:
+* Darlene Schanfald
+* Phyllis Farrell
+* Peter Lyon - Washington Department of Ecology, Solid Waste Management Program
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5033 Biosolids/PFAS chemicals
 #### 623 👍 - Pro

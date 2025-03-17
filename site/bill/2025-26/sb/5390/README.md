@@ -15,6 +15,23 @@
 * 02/24/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205390)
 
 ## Meetings
+### Thu 03/20 04:00 PM - Appropriations (APP): ESSB 5390 Discover pass
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165959&caId=26610&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165959&caId=26610&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165959&caId=26610&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33096&aId=165959&caId=26610&tId=4)
+
+#### 7 👍 - Pro
+Testifying:
+* 💵James King - [Citizens for Parks and Recreation](/org/citizens_for_parks_and_recreation/)
+* 💵Mark Brown - Former State Parks Commissioner
+* John Floberg - Washington State Parks Foundation
+
+#### 4 👎 - Con
+
+#### 0 ❓ - Other
+
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5390 Discover pass, day-use cost
 #### 49 👍 - Pro
 Testifying:

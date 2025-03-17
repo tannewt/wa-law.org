@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1815/</link>
 		<description>Updates about HB 1815</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Mar 2025 08:58:27 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 09:12:16 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -31,7 +31,7 @@
 			<guid isPermaLink="false">testifier/James/McMahan/2025-02-07 11:01:48</guid>
 		</item>
 		<item>
-			<title>👍Dr. Esther Matthews - WA Assoc Sheriffs &amp; Police Chiefs</title>
+			<title>👍Dr. Esther Matthews - WA Association of Prosecuting Attorneys</title>
 			<description>Dr. Esther Matthews signed up to testify Pro.</description>
 			<pubDate>Sat, 08 Feb 2025 04:30:44 GMT</pubDate>
 			<category>testifier</category>
@@ -208,12 +208,51 @@
 			<guid isPermaLink="false">2025-03-14/First reading, referred to Human Services (Not Officially read and referred until adoption of Introduction report).</guid>
 		</item>
 		<item>
+			<title>First reading, referred to Human Services.</title>
+			<description>First reading, referred to Human Services.</description>
+			<pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+			<category>official</category>
+			<guid isPermaLink="false">2025-03-14/First reading, referred to Human Services.</guid>
+		</item>
+		<item>
 			<title>👍Stacy Stanaway - Kids are Kids</title>
 			<description>Stacy Stanaway signed up to testify Pro. They are signed up to represent Kids are Kids.</description>
 			<pubDate>Fri, 14 Mar 2025 08:58:27 GMT</pubDate>
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Stacy/Stanaway/2025-03-14 08:58:27</guid>
+		</item>
+		<item>
+			<title>👎💵Russell Brown - WA Association of Prosecuting Attorneys</title>
+			<description>Russell Brown signed up to testify Con. They are signed up to represent WA Association of Prosecuting Attorneys. They are a registered lobbyist.</description>
+			<pubDate>Sat, 15 Mar 2025 08:06:06 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Russell/Brown/2025-03-15 08:06:06</guid>
+		</item>
+		<item>
+			<title>❓Tatum Pickett - WA Association of Prosecuting Attorneys</title>
+			<description>Tatum Pickett signed up to testify Other.</description>
+			<pubDate>Sat, 15 Mar 2025 11:33:55 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Tatum/Pickett/2025-03-15 11:33:55</guid>
+		</item>
+		<item>
+			<title>👍Jessica Levin - Center for Civil Rights and Critical Justice</title>
+			<description>Jessica Levin signed up to testify Pro. They are signed up to represent Center for Civil Rights and Critical Justice.</description>
+			<pubDate>Sun, 16 Mar 2025 06:07:24 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jessica/Levin/2025-03-16 06:07:24</guid>
+		</item>
+		<item>
+			<title>👍Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers</title>
+			<description>Ramona Brandes signed up to testify Pro. They are signed up to represent Washington Defender Association/Washington Association of Criminal Defense Lawyers.</description>
+			<pubDate>Mon, 17 Mar 2025 09:12:16 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ramona/Brandes/2025-03-17 09:12:16</guid>
 		</item>
 	</channel>
 </rss>

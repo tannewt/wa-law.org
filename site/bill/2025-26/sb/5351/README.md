@@ -15,9 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165717&caId=26502&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33032&aId=165717&caId=26502&tId=4)
 
-#### 370 👍 - Pro
+#### 435 👍 - Pro
+Testifying:
+* Rachael Snell
+* Jane Beyer - Office of the Insurance Commissioner
 
-#### 1 👎 - Con
+#### 2 👎 - Con
 
 #### 1 ❓ - Other
 

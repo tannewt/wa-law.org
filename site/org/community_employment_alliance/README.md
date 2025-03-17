@@ -22,6 +22,8 @@
 
 ### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍2  
 
+### [SB 5394](/bill/2025-26/sb/5394/) - DDA no-paid services  👎1 
+
 ### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
 
 ## [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  

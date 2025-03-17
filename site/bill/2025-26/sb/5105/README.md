@@ -21,15 +21,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33068&aId=165654&caId=26458&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33068&aId=165654&caId=26458&tId=4)
 
-#### 28 👍 - Pro
+#### 180 👍 - Pro
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
 * Laura Harmon - King County Prosecutor's Office
 * 💵Paula Sardinas - WBBA (WA Build Black Alliance)
+* Riddhi Mukhopadhyay - [Sexual Violence Law Center](/org/sexual_violence_law_center/)
+* Nica Rondinelli
+* Sandra Brock
 
-#### 0 👎 - Con
+#### 125 👎 - Con
+Testifying:
+* Joanne Smieja - WA Voices
+* Brad Meryhew
+* Lisa Trifilleti
+* Priscilla Hannon
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
 
 ### Thu 01/16 10:30 AM - Law & Justice (LAW): SB 5105 Fabricated depictions/minors
 #### 98 👍 - Pro

@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1947/</link>
 		<description>Updates about HB 1947</description>
 		<language>en-US</language>
-		<lastBuildDate>Tue, 11 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 09:05:04 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -79,6 +79,46 @@
 			<pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-11/First reading, referred to Agriculture &amp; Natural Resources.</guid>
+		</item>
+		<item>
+			<title>👍Wes McCart - WSALPHO</title>
+			<description>Wes McCart signed up to testify Pro.</description>
+			<pubDate>Sat, 15 Mar 2025 05:11:15 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Wes/McCart/2025-03-15 05:11:15</guid>
+		</item>
+		<item>
+			<title>👍Sandra Brock - WSALPHO</title>
+			<description>Sandra Brock signed up to testify Pro.</description>
+			<pubDate>Sat, 15 Mar 2025 07:53:28 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Sandra/Brock/2025-03-15 07:53:28</guid>
+		</item>
+		<item>
+			<title>👍Julie Gorman - WSALPHO</title>
+			<description>Julie Gorman signed up to testify Pro.</description>
+			<pubDate>Sun, 16 Mar 2025 07:41:11 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Julie/Gorman/2025-03-16 07:41:11</guid>
+		</item>
+		<item>
+			<title>👍💵Jaime Bodden - WSALPHO</title>
+			<description>Jaime Bodden signed up to testify Pro. They are signed up to represent WSALPHO. They are a registered lobbyist.</description>
+			<pubDate>Sun, 16 Mar 2025 09:24:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jaime/Bodden/2025-03-16 09:24:39</guid>
+		</item>
+		<item>
+			<title>👍Matt Schanz - Northeast Tri County Health Dist</title>
+			<description>Matt Schanz signed up to testify Pro. They are signed up to represent Northeast Tri County Health Dist.</description>
+			<pubDate>Mon, 17 Mar 2025 09:05:04 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Matt/Schanz/2025-03-17 09:05:04</guid>
 		</item>
 	</channel>
 </rss>

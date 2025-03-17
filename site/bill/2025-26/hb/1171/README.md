@@ -15,12 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165720&caId=26401&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165720&caId=26401&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Paul Holland
 * Rhea Yo - [Legal Counsel for Youth and Children](/org/legal_counsel_for_youth_and_children/)
+* Aubrey Stahl - Washington Defender Association and Washington Association of Criminal Defense Lawyers
 
-#### 0 👎 - Con
+#### 27 👎 - Con
 
 #### 0 ❓ - Other
 

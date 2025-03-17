@@ -15,11 +15,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165833&caId=26364&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165833&caId=26364&tId=4)
 
-#### 0 👍 - Pro
+#### 599 👍 - Pro
+Testifying:
+* Sandra Mochizuki
+* TaraLyn Fray
+* Kathleen Nisbet-Moncy - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)
+* Marilyn Sheldon - Willapa-Grays Harbor Oyster Growers Association (WGHOGA)
 
-#### 0 👎 - Con
+#### 27 👎 - Con
+Testifying:
+* John Garner - Environmental Coalition of Pierce County
+* Darlene Schanfald
+* David Ortman
+* Anne Mosness
+* Elaine Packard
+* Marilyn Showalter
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Laura Butler
 
 ### Wed 02/19 04:00 PM - Appropriations (APP): HB 1309 Burrowing shrimp
 #### 600 👍 - Pro

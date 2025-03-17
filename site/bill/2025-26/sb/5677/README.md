@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205677)
+
 ## Meetings
 ### Tue 03/18 10:30 AM - Innovation, Community & Economic Development, & Veterans (ICEV): ESSB 5677 Associate development orgs
 Sign up to testify:
@@ -16,11 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165500&caId=26540&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165500&caId=26540&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
 
-#### 0 👎 - Con
+#### 7 👎 - Con
+Testifying:
+* JAMES Derouin jr - self
 
-#### 0 ❓ - Other
+#### 9 ❓ - Other
+Testifying:
+* Michael Cade - Thurston Economic Development Council (ADO for Thurston County)
+* Roni Holder-Diefenbach - Economic Alliance (ADO for Okanogan County)
+* Suzanne Dale Estey - [Washington Economic Development Association](/org/washington_economic_development_association/)
 
 ### Thu 02/13 08:00 AM - Business, Financial Services, Gaming & Trade (BFGT): SB 5677 Associate development orgs
 #### 60 👍 - Pro

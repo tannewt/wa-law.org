@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5459/</link>
 		<description>Updates about SB 5459</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 05 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 09:10:19 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -102,6 +102,37 @@
 			<pubDate>Wed, 05 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-05/First reading, referred to Labor &amp; Workplace Standards.</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 14 Mar 2025 21:10:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205459</guid>
+		</item>
+		<item>
+			<title>👍💵Christine Reid - IBEW</title>
+			<description>Christine Reid signed up to testify Pro. They are signed up to represent IBEW. They are a registered lobbyist.</description>
+			<pubDate>Mon, 17 Mar 2025 09:10:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Christine/Reid/2025-03-17 09:10:19</guid>
+		</item>
+		<item>
+			<title>👍Eileen Nix - Communications Workers of America</title>
+			<description>Eileen Nix signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/communications_workers_of_america/"&gt;Communications Workers of America&lt;/a&gt;.</description>
+			<pubDate>Mon, 17 Mar 2025 09:10:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Eileen/Nix/2025-03-17 09:10:19</guid>
+		</item>
+		<item>
+			<title>👍Krystal Rivas - Communications Workers of America</title>
+			<description>Krystal Rivas signed up to testify Pro. They are signed up to represent &lt;a href="https://wa-law.org/org/communications_workers_of_america/"&gt;Communications Workers of America&lt;/a&gt;.</description>
+			<pubDate>Mon, 17 Mar 2025 09:10:19 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Krystal/Rivas/2025-03-17 09:10:19</guid>
 		</item>
 	</channel>
 </rss>

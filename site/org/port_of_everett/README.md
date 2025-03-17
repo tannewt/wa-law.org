@@ -10,7 +10,7 @@
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 * 👍 Adam LeMieux
 
-### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍2  
 * 👍 Glen Bachman
 
 ### [SB 5063](/bill/2025-26/sb/5063/) - Freight railroad infra. 👍1  

@@ -18,7 +18,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165499&caId=26539&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33016&aId=165499&caId=26539&tId=4)
 
-#### 16 👍 - Pro
+#### 45 👍 - Pro
+Testifying:
+* 💵Teresa Taylor
 
 #### 0 👎 - Con
 

@@ -110,7 +110,8 @@
 ### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs   ❓1
 * ❓💵 Bryce Yadon
 
-### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing   ❓1
+### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing   ❓2
+* ❓💵 Bryce Yadon
 * ❓💵 Bryce Yadon
 
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  

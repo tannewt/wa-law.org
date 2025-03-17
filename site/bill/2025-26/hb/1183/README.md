@@ -20,11 +20,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165906&caId=26576&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165906&caId=26576&tId=4)
 
-#### 3 👍 - Pro
+#### 224 👍 - Pro
+Testifying:
+* Julie Blazek - HKP Architects
+* Connor Stein
+* michael eliason - larch lab
+* 💵Ryan Donohue - Habitat for Humanity Seattle-King & Kittitas Counties
 
-#### 0 👎 - Con
+#### 803 👎 - Con
+Testifying:
+* Sandra Brock
+* Sandra Mochizuki
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Sat 02/22 09:00 AM - Appropriations (APP): SHB 1183 Building codes
 #### 35 👍 - Pro

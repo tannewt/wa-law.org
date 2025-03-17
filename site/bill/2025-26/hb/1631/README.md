@@ -20,9 +20,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165534&caId=26433&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33030&aId=165534&caId=26433&tId=4)
 
-#### 22 👍 - Pro
+#### 60 👍 - Pro
 Testifying:
 * Katherine Staatz
+* Fred Felleman - [Port of Seattle](/org/port_of_seattle/)
 
 #### 0 👎 - Con
 

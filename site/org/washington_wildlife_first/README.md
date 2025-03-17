@@ -24,7 +24,8 @@
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍1  
 
-### [SB 5343](/bill/2025-26/sb/5343/) - NE WA wolf-livestock account  👎1 
+### [SB 5343](/bill/2025-26/sb/5343/) - NE WA wolf-livestock account  👎2 
+* 👎 Francisco Santiago-Ávila
 * 👎 Francisco Santiago-Ávila
 
 ### [SB 5354](/bill/2025-26/sb/5354/) - Gray wolf management  👎1 

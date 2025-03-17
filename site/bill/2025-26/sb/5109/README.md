@@ -17,12 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33094&aId=165788&caId=26448&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33094&aId=165788&caId=26448&tId=4)
 
-#### 3 👍 - Pro
+#### 6 👍 - Pro
 Testifying:
 * Hugo Torres - King County Prosecuting Attorney's Office
 * Patrick Hinds - King County Prosecuting Attorney's Office
 
-#### 0 👎 - Con
+#### 531 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* Sandra Brock
+* TaraLyn Fray
 
 #### 1 ❓ - Other
 Testifying:

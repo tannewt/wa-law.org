@@ -5,6 +5,8 @@
 
 ### [HB 1149](/bill/2025-26/hb/1149/) - Cruelty to animals 👍1  
 
+### [HB 1201](/bill/2025-26/hb/1201/) - Emergency shelters/pets 👍1  
+
 ### [SB 5065](/bill/2025-26/sb/5065/) - Traveling animal acts 👍1  
 * 👍 Dan Paul
 

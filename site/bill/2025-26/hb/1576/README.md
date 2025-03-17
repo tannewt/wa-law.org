@@ -19,9 +19,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165857&caId=26429&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165857&caId=26429&tId=4)
 
-#### 9 👍 - Pro
+#### 141 👍 - Pro
+Testifying:
+* Max Chinowsky
+* Benjamin Maritz
+* Margaret Dungo Gritten - YWCA | Seattle | King | Snohomish
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
+* Barb Wilson - [Microsoft](/org/microsoft/)
+* Ian Brown
 
-#### 3 👎 - Con
+#### 81 👎 - Con
+Testifying:
+* Anthony Culanag
+* Kathryn Merlino
+* Eugenia Woo - Historic Seattle
 
 #### 0 ❓ - Other
 

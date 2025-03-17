@@ -5,11 +5,11 @@
 * 👍 Jeremiah Miller
 * 👍 Jeremiah Miller
 
-### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍2  
+### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍3  
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍2  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍1  
 
@@ -22,8 +22,11 @@
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
 * 👍 Danielle Alvarado
 
-### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍3  
+### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍5  
 * 👍 Danielle Alvarado
+* 👍 Anarosa Bello Nieto
+
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
 
 ### [SB 5070](/bill/2025-26/sb/5070/) - Interchange fees on tips 👍2  
 * 👍 Danielle Alvarado
@@ -43,11 +46,11 @@
 
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍1  
 
-## [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍1  
+## [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍2  
 
 ## 2023-24
 
-### [SB 5714](/bill/2023-24/sb/5714/) - Bail bond agents/immigration 👍1  
+### [SB 5714](/bill/2023-24/sb/5714/) - Bail bond agents/immigration 👍2  
 
 ### [HB 1217](/bill/2023-24/hb/1217/) - Wage complaints 👍1  
 

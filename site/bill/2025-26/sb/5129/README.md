@@ -20,12 +20,15 @@ Sign up to testify:
 Testifying:
 * Steve Horvath - HOA United
 
-#### 2 👎 - Con
+#### 5 👎 - Con
 Testifying:
 * Michele Horaney
+* Patrick Johansen - HOA Reform Leaders National Group (HRLNG)
 * Phil Landesberg
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Teresa Hammer
 
 ### Wed 01/15 01:30 PM - Housing (HSG): SB 5129 Common interest communities
 #### 19 👍 - Pro

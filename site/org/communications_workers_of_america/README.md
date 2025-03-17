@@ -43,7 +43,9 @@
 
 ### [SB 5435](/bill/2025-26/sb/5435/) - Reorganizing and adding subchapter headings to public employees' collective bargaining statutes. 👍1  
 
-### [SB 5459](/bill/2025-26/sb/5459/) - Call center retention 👍3  
+### [SB 5459](/bill/2025-26/sb/5459/) - Call center retention 👍5  
+* 👍 Eileen Nix
+* 👍 Krystal Rivas
 * 👍 Eileen Nix
 * 👍 Krystal Rivas
 

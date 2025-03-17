@@ -9,7 +9,11 @@
 * [Second Substitute](S2/)
 
 ## 📰 Articles
+* 03/17/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Affordable housing, health care and safe kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/16/this-week-in-the-senate-week-10-affordable-housing-health-care-and-safe-kids/#:~:text=House%20Bill%201217)
+* 03/16/2025 [KING5](/org/king5/) - [In Session: Senate leader says with changes, rent stabilization bill could pass | king5.com](https://www.king5.com/article/news/politics/in-session/in-session-senate-leader-rent-bill-could-pass/281-03086a0c-98b4-4201-ad19-93e77bb36496#:~:text=House%20Bill%201217)
+* 03/15/2025 [House Republicans](/org/house_republicans/) - [Parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201217)
 * 03/14/2025 [NW News Network](/org/nw_news_network/) - [Rent cap, parents rights survive key cutoff deadline in WA Legislature | Northwest News Network](https://www.nwnewsnetwork.org/2025-03-13/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=House%20Bill%201217)
+* 03/14/2025 [Real Change](/org/real_change/) - [Washington Legislature advances bill to cap rent increases | March 12–18, 2025 | Real Change](https://www.realchangenews.org/news/2025/03/14/washington-legislature-advances-bill-cap-rent-increases#:~:text=HB%201217)
 * 03/13/2025 [KUOW](/org/kuow/) - [KUOW - Rent cap, parents rights survive key cutoff deadline in WA Legislature](https://www.kuow.org/stories/rent-cap-parents-rights-survive-key-cutoff-deadline-in-wa-legislature#:~:text=House%20Bill%201217)
 * 03/10/2025 [House Democrats](/org/house_democrats/) - [House sends rent stabilization to the Senate, moving toward predictability for Washington renters – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/10/house-sends-rent-stabilization-to-the-senate-moving-toward-predictability-for-washington-renters/#:~:text=House%20Bill%201217)
 * 03/09/2025 [House Republicans](/org/house_republicans/) - [House floor action | Washington State House Republicans](http://houserepublicans.wa.gov/current/house-floor-action/#:~:text=House%20Bill%201217)
@@ -52,15 +56,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33077&aId=165727&caId=26394&tId=4)
 
-#### 250 👍 - Pro
+#### 1194 👍 - Pro
 Testifying:
 * Makayla Pugmire
 * Kyle Matheson - Self advocate
 * 💵Harpreet Kaur - Washington Build Back Black Alliance (WBBA)
 * 💵Paula Sardinas - Washington Build Back Black Alliance (WBBA)
+* Charity Grice
+* Stacey Valenzuela - Manufactured Homeowner
 * Kerri Burnside - Bellingham Tenants Union
+* Virginia Berry
+* Caitlin Sullivan
+* Shirley Messick
+* Blake Lyon - Director of Planning and Community Development for the City of Bellingham, WA
+* Carolyn Stetson
 
-#### 186 👎 - Con
+#### 1484 👎 - Con
 Testifying:
 * Stacey Valenzuela - Manufactured Homeowner
 * Greg Lovern
@@ -81,10 +92,27 @@ Testifying:
 * Janelle Costanti
 * Tad Sommerville
 * Shep Salusky
+* Benine McDonnell
+* Mike Nykreim - Newport West LLC
+* 💵Brent Ludeman - [Building Industry Association of Washington](/org/building_industry_association_of_washington/)
+* Anne Knapp
+* David Juhasz
+* Russell Millard - Park Preservations
 * Michael Gustavson - Kitsap. Alliance of Property Owners
 * Brian Hansen
+* Kristi Tripple - Rowley Properties, Inc.
+* DAVID NAGEL
+* Hailey Irvine
+* Laurie Layne
+* LaDon Linde - Yakima County Commissioner
+* Jay Parker
+* Michael Urquhart
+* Patrick Gilroy - Washington Self Storage Association
+* Lilly Zheng
+* JIN YANG
+* Martha Schaefer
 
-#### 2 ❓ - Other
+#### 27 ❓ - Other
 Testifying:
 * David Toler - Olympia for All
 

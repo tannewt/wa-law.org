@@ -19,9 +19,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33068&aId=165655&caId=26459&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33068&aId=165655&caId=26459&tId=4)
 
-#### 24 👍 - Pro
+#### 259 👍 - Pro
 Testifying:
 * Council Charlene Tillequots - Yakama Nation Tribal Council
+* Matthew Perry - Jewish Prisoner Services International
+* Emily Gause - WACDL/WDA
+* Bruce Glant
+* Heather Kelly - League of Women Voters of Washington
+* Mick Woynarowski - Washington Association of Criminal Defense Lawyers (WACDL)
+* Colin Wood - CAGE
 
 #### 3 👎 - Con
 Testifying:

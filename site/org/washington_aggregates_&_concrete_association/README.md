@@ -1,7 +1,7 @@
 # Washington Aggregates & Concrete Association
 ## 2025-26
 
-### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages  👎1 
+### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages  👎2 
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice  👎2 
 * 👎💵 Cory Shaw
@@ -17,7 +17,7 @@
 
 ### [HB 1689](/bill/2025-26/hb/1689/) - Emissions/vessels at berth  👎1 
 
-### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation  👎1 
+### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation  👎2 
 
 ### [HB 1860](/bill/2025-26/hb/1860/) - Supply chain competitiveness 👍1  
 
@@ -43,6 +43,8 @@
 ### [SB 5548](/bill/2025-26/sb/5548/) - Workers' compensation  👎1 
 
 ### [SB 5578](/bill/2025-26/sb/5578/) - Labor standards  👎1 
+
+### [SB 5649](/bill/2025-26/sb/5649/) - Supply chain competitiveness 👍1  
 
 ## [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍💵 Cory Shaw

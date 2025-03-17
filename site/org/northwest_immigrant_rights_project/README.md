@@ -17,7 +17,7 @@
 
 ### [HB 1561](/bill/2025-26/hb/1561/) - Domestic workers 👍1  
 
-### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations 👍1  
+### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations 👍1 👎1 
 
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍1  
 
@@ -26,7 +26,7 @@
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍3  
 * 👍💵 Malou Chavez
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍3  
 
 ### [SB 5115](/bill/2025-26/sb/5115/) - Creating the Washington dream act service incentive program. 👍1  
 

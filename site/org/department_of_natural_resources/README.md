@@ -22,7 +22,8 @@
 
 ### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍2  
 
-### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍3  
+* 👍 Pat Sullivan
 * 👍 Pat Sullivan
 * 👍 Pat Sullivan
 
@@ -31,7 +32,7 @@
 
 ### [HB 1628](/bill/2025-26/hb/1628/) - Fire service policy board   ❓1
 
-### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
+### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍2  
 
 ### [HB 1641](/bill/2025-26/hb/1641/) - Definition of timberland 👍1  
 * 👍 Duane Emmons

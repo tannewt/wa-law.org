@@ -16,16 +16,21 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165905&caId=26570&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165905&caId=26570&tId=4)
 
-#### 3 👍 - Pro
+#### 59 👍 - Pro
 Testifying:
 * Dr. Esther Matthews
 * Stacy Stanaway - Kids are Kids
+* Jessica Levin - Center for Civil Rights and Critical Justice
+* Ramona Brandes - Washington Defender Association/Washington Association of Criminal Defense Lawyers
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Tatum Pickett
 
 ### Wed 02/12 01:30 PM - Human Services, Youth, & Early Learning (HSEL): HB 1815 Prison riot offenses
 #### 59 👍 - Pro

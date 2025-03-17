@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1028/</link>
 		<description>Updates about HB 1028</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Mar 2025 10:37:04 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 02:27:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -141,6 +141,13 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Tysen/Shaw/2025-03-14 10:37:04</guid>
+		</item>
+		<item>
+			<title>This Week In The Senate - Week 10: Affordable housing, health care and safe kids - Washington Senate Democrats</title>
+			<description>News article "This Week In The Senate - Week 10: Affordable housing, health care and safe kids - Washington Senate Democrats" from Senate Democrats.</description>
+			<pubDate>Mon, 17 Mar 2025 02:27:49 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/blog/2025/03/16/this-week-in-the-senate-week-10-affordable-housing-health-care-and-safe-kids/#:~:text=House%20Bill%201028</guid>
 		</item>
 	</channel>
 </rss>

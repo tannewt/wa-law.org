@@ -19,11 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165872&caId=26555&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165872&caId=26555&tId=4)
 
-#### 1 👍 - Pro
+#### 174 👍 - Pro
+Testifying:
+* Wendy Wickersham
 
-#### 0 👎 - Con
+#### 281 👎 - Con
+Testifying:
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Jaime Bodden - WSALPHO
 
 ### Thu 02/13 04:00 PM - Appropriations (APP): SHB 1154 Solid waste handling
 #### 321 👍 - Pro

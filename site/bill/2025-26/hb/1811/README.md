@@ -19,7 +19,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33071&aId=165692&caId=26380&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33071&aId=165692&caId=26380&tId=4)
 
-#### 12 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* Amy Barden - Seattle CARE Dept
+* Jennifer Stuber - University of Washington- BHCore
+* Natasha Grossman - Bellevue Fire CARES
 
 #### 0 👎 - Con
 

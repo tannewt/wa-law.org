@@ -161,7 +161,7 @@
 
 ### [HB 1384](/bill/2025-26/hb/1384/) - Winery tax exemption   ❓1
 
-### [HB 1389](/bill/2025-26/hb/1389/) - Timber purchase reporting 👍1  
+### [HB 1389](/bill/2025-26/hb/1389/) - Timber purchase reporting 👍2  
 
 ### [HB 1402](/bill/2025-26/hb/1402/) - Job posting/driver's license  👎2 
 
@@ -367,6 +367,10 @@
 
 ### [HB 2019](/bill/2025-26/hb/2019/) - Estate tax  👎1 
 
+### [HB 2020](/bill/2025-26/hb/2020/) - Payment card processing/tax 👍1  
+
+### [HB 2035](/bill/2025-26/hb/2035/) - Liquor license fees  👎1 
+
 ### [SB 5019](/bill/2025-26/sb/5019/) - Medication dispensing 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers  👎1 
@@ -521,7 +525,7 @@
 ### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system  👎1 
 * 👎💵 Peter Godlewski
 
-### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
+### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍2  
 
 ### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency  👎1 
 
@@ -637,11 +641,13 @@
 
 ### [SB 5770](/bill/2025-26/sb/5770/) - Primary residence/tax  👎1 
 
-## [SB 5773](/bill/2025-26/sb/5773/) - Transportation procurement 👍1  
+### [SB 5773](/bill/2025-26/sb/5773/) - Transportation procurement 👍1  
+
+## [SB 5777](/bill/2025-26/sb/5777/) - Payment card processing/tax 👍1  
 
 ## 2023-24
 
-### [SB 5773](/bill/2023-24/sb/5773/) - Transportation procurement 👍1  
+### [SB 5777](/bill/2023-24/sb/5777/) - Payment card processing/tax 👍1  
 
 ### [HB 1001](/bill/2023-24/hb/1001/) - Audiology & speech compact 👍3  
 

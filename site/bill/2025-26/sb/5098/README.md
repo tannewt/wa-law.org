@@ -10,6 +10,9 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205098)
+* 03/14/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall on March 17 - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/03/14/town-hall-on-march-17/#:~:text=SB%205098)
+* 03/14/2025 [The Center Square](/org/the_center_square/) - [Under the gun: Some firearms regulation bills advance, others die before key cutoff date | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_a444be66-010e-11f0-9f22-03c75736ec30.html#:~:text=Engrossed%20Second%20Substitute%20Senate%20Bill%205098)
 * 03/10/2025 [Washington St Pta](/org/washington_st_pta/) - [Week 9: Spring ahead to the second half of the 2025 session - WSPTA](https://www.wastatepta.org/week-9-spring-ahead-to-the-second-half-of-the-2025-session/#:~:text=E2SSB%205098)
 * 03/06/2025 [FOX13](/org/fox13/) - [Groups lobby for more gun regulations in WA | FOX 13 Seattle](https://www.fox13seattle.com/news/groups-lobby-gun-regulations-wa#:~:text=Senate%20Bill%205098)
 * 03/05/2025 [Senate Democrats](/org/senate_democrats/) - [Valdez bill to enhance public safety passes Senate  - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/05/valdez-bill-to-enhance-public-safety-passes-senate/#:~:text=Senate%20Bill%205098)
@@ -42,14 +45,45 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165590&caId=26452&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165590&caId=26452&tId=4)
 
-#### 117 👍 - Pro
+#### 475 👍 - Pro
+Testifying:
+* Sarah Rumbaugh - Council Member, City of Tacoma
 
-#### 16 👎 - Con
+#### 2437 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 * Teodorin Morca
+* Jane Milhans
+* Christian Ruvalcaba - Toad Tavern
+* Michele Ward
+* Brian Pelan
+* Jason Reed
+* Travis Backstrom
+* Thomas Kosloske
+* Ryan Brightman
+* Haydn Rice
+* Jeff Anderson
+* Miles Creed - 11910
+* Mackinzy Brandhorst
+* 💵George Allen
+* 💵Aoibheann Cline - NRA
+* Dawn Bailey
+* brian keelean - Washington State Rifle and Pistol Association
+* Linda Wow
+* TaraLyn Fray
+* Shawn Teixeira
+* Lorance Hiebert
+* Andrew Balerud
+* Sandra Mochizuki
+* Ronald Mochizuki
+* Robert Smith
+* Wayne Schakel
+* Saundra Smith
+* Anderson Kim
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* Cory Causey
 
 ### Mon 02/24 01:30 PM - Transportation (TRAN): SSB 5098 Weapons in certain areas
 #### 794 👍 - Pro

@@ -15,7 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33027&aId=165714&caId=26543&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33027&aId=165714&caId=26543&tId=4)
 
-#### 1 👍 - Pro
+#### 19 👍 - Pro
+Testifying:
+* 💵Scott Hazlegrove - WA Association of Sewer & Water Districts
+* James Dykes
 
 #### 0 👎 - Con
 

@@ -54,8 +54,9 @@
 ### [HB 1515](/bill/2025-26/hb/1515/) - Alcohol service in public 👍2  
 * 👍 Sean DeWitz
 
-### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees  👎1 
+### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees  👎1 ❓1
 * 👎💵 Julia Gorton
+* ❓💵 Julia Gorton
 
 ### [HB 1562](/bill/2025-26/hb/1562/) - Diaper changing stations 👍1  
 * 👍 Samatha Louderback
@@ -92,6 +93,8 @@
 ### [HB 1764](/bill/2025-26/hb/1764/) - Labor standards  👎1 
 * 👎 Anthony Anton
 
+### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation  👎1 
+
 ### [HB 1833](/bill/2025-26/hb/1833/) - AI grant program 👍1  
 
 ### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration  👎1 
@@ -123,7 +126,8 @@
 ### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes   ❓1
 * ❓💵 Julia Gorton
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎1 
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management  👎2 
+* 👎💵 Samantha Louderback
 * 👎💵 Samantha Louderback
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  

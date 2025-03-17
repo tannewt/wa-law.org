@@ -17,16 +17,18 @@
 ### [HB 1599](/bill/2025-26/hb/1599/) - Concerning consumer debt adjusters and debt resolution services providers.  👎1 
 * 👎 Julia Kellison
 
-### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations 👍1  
+### [HB 1620](/bill/2025-26/hb/1620/) - Parenting plan limitations 👍1 👎1 
 * 👍 Mary Welch
+* 👎 Mary Welch
 
 ### [HB 1915](/bill/2025-26/hb/1915/) - Tenant protections 👍1  
 * 👍 Christopher Brunetti
 
-### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
+### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍2  
+* 👍 Julia Kellison
 * 👍 Julia Kellison
 
-### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍2  
+### [SB 5686](/bill/2025-26/sb/5686/) - Foreclosure mediation prg. 👍3  
 * 👍 Tareva Marshall
 
 ## [SB 5740](/bill/2025-26/sb/5740/) - Eviction reform  👎1 

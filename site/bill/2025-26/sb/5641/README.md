@@ -14,10 +14,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165481&caId=26482&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33013&aId=165481&caId=26482&tId=4)
 
-#### 2 👍 - Pro
+#### 4 👍 - Pro
 Testifying:
 * 💵Juan Cotto - BloodworksNW
 * Mark Dyce - [Bloodworks Northwest](/org/bloodworks_northwest/)
+* Naomi Howatt - Naomi Howatt, Volunteer Resources Manager, Bloodworks NW
+* Christina Melief - National Cord Blood Network
 
 #### 0 👎 - Con
 

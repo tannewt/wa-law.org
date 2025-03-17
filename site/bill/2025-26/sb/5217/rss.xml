@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5217/</link>
 		<description>Updates about SB 5217</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Mar 2025 21:10:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -261,6 +261,21 @@
 			<pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-12/First reading, referred to Labor &amp; Workplace Standards.</guid>
+		</item>
+		<item>
+			<title>👍Stephanie Metcalf - AGC</title>
+			<description>Stephanie Metcalf signed up to testify Pro.</description>
+			<pubDate>Fri, 14 Mar 2025 01:07:22 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Stephanie/Metcalf/2025-03-14 01:07:22</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 14 Mar 2025 21:10:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=HB%205217</guid>
 		</item>
 	</channel>
 </rss>

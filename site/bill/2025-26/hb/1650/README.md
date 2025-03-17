@@ -15,10 +15,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165919&caId=26584&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165919&caId=26584&tId=4)
 
-#### 2 👍 - Pro
+#### 5 👍 - Pro
 Testifying:
 * Carl Hicks - Tacoma Narrows Airport Advisory Commission
 * Ashley Stolhand - Peninsula School District, Aviation Academy
+* Kelsey Parke - Peninsula School District 401
+* Kelsey Parke - Peninsula School District 401
 
 #### 0 👎 - Con
 

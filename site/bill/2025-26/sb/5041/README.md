@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205041)
 * 03/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Good and bad bills still alive and moving forward - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=Senate%20Bill%205041:)
 * 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Senate approves bill making striking workers eligible for unemployment insurance - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/03/07/senate-approves-bill-making-striking-workers-eligible-for-unemployment-insurance/#:~:text=Senate%20Bill%205041)
 * 03/07/2025 [Washington State Standard](/org/washington_state_standard/) - [WA Senate approves unemployment benefits for striking workers • Washington State Standard](https://washingtonstatestandard.com/2025/03/07/unemployment-benefits-for-striking-workers-gain-approval-from-washington-senate/#:~:text=Senate%20Bill%205041)
@@ -25,13 +26,25 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165794&caId=26513&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33097&aId=165794&caId=26513&tId=4)
 
-#### 399 👍 - Pro
+#### 1913 👍 - Pro
 
-#### 27 👎 - Con
+#### 574 👎 - Con
 Testifying:
 * 💵Paul Jewell - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
+* Miriam Battson - Gig Harbor Chamber of Commerce
+* 💵Candice Bock - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Elizabeth New - Washington Policy Center
+* 💵Amber Carter - WA Retail Association
+* TaraLyn Fray
+* 💵Katherine Mahoney - South Sound Superintendents
+* Marissa Rathbone - Washington State School Directors' Association
+* Sandra Mochizuki
+* Ronald Mochizuki
+* Jon Holmen - Lake Washington School District
 
-#### 5 ❓ - Other
+#### 20 ❓ - Other
+Testifying:
+* Fred Rundle - [School Alliance](/org/school_alliance/)
 
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SSB 5041 Unemp ins/strikes & lockouts
 #### 661 👍 - Pro

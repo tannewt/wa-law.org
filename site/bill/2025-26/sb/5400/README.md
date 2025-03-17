@@ -22,15 +22,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165852&caId=26439&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165852&caId=26439&tId=4)
 
-#### 8 👍 - Pro
+#### 95 👍 - Pro
 Testifying:
 * Dee Anne Finken - League of Women Voters of Washington
+* Keith Shipman - Washington State Association of Broadcasters
+* Ellen Hiatt - Washington Newspaper Publishers Association
 * Sharon Maeda - (retired)
 * Karen Keiser - no
+* Emmett O'Connell - N/A
 
-#### 1 👎 - Con
+#### 27 👎 - Con
 Testifying:
 * 💵Rose Feliciano - TechNet
+* 💵Kelly Fukai - WTIA
 
 #### 0 ❓ - Other
 

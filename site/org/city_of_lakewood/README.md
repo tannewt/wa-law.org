@@ -31,7 +31,8 @@
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements  👎1 
 
-### [SB 5286](/bill/2025-26/sb/5286/) - State hospitals/police costs 👍1  
+### [SB 5286](/bill/2025-26/sb/5286/) - State hospitals/police costs 👍2  
+* 👍 Captain Chris Westby
 * 👍 Captain Chris Westby
 
 ### [SB 5290](/bill/2025-26/sb/5290/) - Controlled subs. dismissal  👎1 

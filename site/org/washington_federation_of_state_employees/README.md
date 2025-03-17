@@ -17,11 +17,13 @@
 
 ### [HB 1128](/bill/2025-26/hb/1128/) - Child care workforce board 👍1  
 
+### [HB 1162](/bill/2025-26/hb/1162/) - Health care work violence 👍1  
+
 ### [HB 1168](/bill/2025-26/hb/1168/) - Artificial intelligence info 👍2  
 
 ### [HB 1170](/bill/2025-26/hb/1170/) - AI content notices 👍1  
 
-### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages 👍1  
+### [HB 1173](/bill/2025-26/hb/1173/) - High-hazard facility wages 👍2  
 
 ### [HB 1182](/bill/2025-26/hb/1182/) - Parks & rec./interest arb. 👍1  
 * 👍 Andrew Kallinen
@@ -40,6 +42,8 @@
 
 ### [HB 1239](/bill/2025-26/hb/1239/) - Preparing incarcerated people for successful reentry upon release from a correctional facility. 👍1  
 * 👍 Kati Durkin
+
+### [HB 1264](/bill/2025-26/hb/1264/) - Ferry system salaries 👍1  
 
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍1  
 
@@ -61,6 +65,8 @@
 
 ### [HB 1511](/bill/2025-26/hb/1511/) - Ferry captains 👍1  
 
+### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees 👍1  
+
 ### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍2  
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use 👍6  
@@ -68,6 +74,8 @@
 * 👍 Kati Durkin
 * 👍 Kati Durkin
 * 👍 Kati Durkin
+
+### [HB 1644](/bill/2025-26/hb/1644/) - Working minors 👍1  
 
 ### [HB 1668](/bill/2025-26/hb/1668/) - Community custody 👍2  
 * 👍 Kati Durkin
@@ -81,7 +89,7 @@
 
 ### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval  👎1 
 
-### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍2  
+### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍3  
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
@@ -94,7 +102,7 @@
 
 ### [HB 1964](/bill/2025-26/hb/1964/) - Lists of individuals/PRA 👍1  
 
-### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
+### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍2  
 
 ### [SB 5029](/bill/2025-26/sb/5029/) - DOC release transportation 👍2  
 

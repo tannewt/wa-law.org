@@ -13,7 +13,7 @@
 
 ### [HB 1099](/bill/2025-26/hb/1099/) - Tenant assistance program 👍1  
 
-### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍1  
+### [HB 1108](/bill/2025-26/hb/1108/) - Housing cost task force 👍2  
 
 ### [HB 1135](/bill/2025-26/hb/1135/) - Local government planning 👍1  
 
@@ -21,15 +21,25 @@
 
 ### [HB 1153](/bill/2025-26/hb/1153/) - Urban forest management 👍1  
 
-### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍1  
+### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍2  
 
 ### [HB 1165](/bill/2025-26/hb/1165/) - Property tax exemptions 👍1  
 
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes 👍1  
+
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
+
+### [HB 1403](/bill/2025-26/hb/1403/) - Condominium construction 👍1  
 
 ### [HB 1423](/bill/2025-26/hb/1423/) - Vehicle noise cameras 👍1  
 
 ### [HB 1428](/bill/2025-26/hb/1428/) - Criminal justice assistance 👍1  
+
+### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
+
+### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management   ❓1
+
+### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
 ### [HB 1550](/bill/2025-26/hb/1550/) - Electric vehicle batteries 👍2  
 
@@ -37,17 +47,23 @@
 
 ### [HB 1763](/bill/2025-26/hb/1763/) - Affordable housing funding 👍1  
 
-### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍1  
+### [HB 1791](/bill/2025-26/hb/1791/) - Local real estate excise tax 👍1  
+
+### [HB 1796](/bill/2025-26/hb/1796/) - School construction debt 👍2  
 
 ### [HB 1809](/bill/2025-26/hb/1809/) - Behavioral health response 👍1  
 
-### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍1  
+### [HB 1811](/bill/2025-26/hb/1811/) - Crisis co-response 👍2  
 
 ### [HB 1896](/bill/2025-26/hb/1896/) - Local law enf. officers 👍1  
 
+### [HB 1899](/bill/2025-26/hb/1899/) - Homelessness point-in-time 👍1  
+
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 
-### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍2  
+### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
+
+### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍3  
 
 ### [SB 5068](/bill/2025-26/sb/5068/) - Public employ. eligibility 👍1  
 
@@ -55,7 +71,7 @@
 
 ### [SB 5095](/bill/2025-26/sb/5095/) - School construction debt 👍2  
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍3  
 * 👍 Neal Black
 * 👍 Neal Black
 
@@ -63,15 +79,19 @@
 
 ### [SB 5184](/bill/2025-26/sb/5184/) - Minimum parking requirements   ❓1
 
-### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍1  
+### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp. 👍2  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍1  
 
 ### [SB 5475](/bill/2025-26/sb/5475/) - Salmon recovery maintenance 👍1  
 
 ### [SB 5502](/bill/2025-26/sb/5502/) - Recycling & waste reduction 👍1  
+
+### [SB 5509](/bill/2025-26/sb/5509/) - Child care center siting 👍1  
+
+### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev. 👍1  
 
 ### [SB 5595](/bill/2025-26/sb/5595/) - Shared streets 👍2  
 
@@ -80,6 +100,8 @@
 ### [SB 5615](/bill/2025-26/sb/5615/) - Residential housing permits  👎1 
 
 ### [SB 5697](/bill/2025-26/sb/5697/) - Social services/property tax 👍1  
+
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
 
 ## [SJR 8200](/bill/2025-26/sjr/8200/) - School district local funds 👍1  
 

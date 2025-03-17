@@ -41,7 +41,8 @@
 
 ### [HB 1160](/bill/2025-26/hb/1160/) - Local gov. design review   ❓2
 
-### [HB 1183](/bill/2025-26/hb/1183/) - Building codes   ❓2
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes   ❓3
+* ❓💵 Curtis Steinhauer
 * ❓💵 Curtis Steinhauer
 * ❓💵 Curtis Steinhauer
 
@@ -179,10 +180,14 @@
 ### [HB 1867](/bill/2025-26/hb/1867/) - Affordable housing REET 👍2  
 * 👍💵 Paul Jewell
 
-### [HB 1899](/bill/2025-26/hb/1899/) - Homelessness point-in-time 👍1  
+### [HB 1899](/bill/2025-26/hb/1899/) - Homelessness point-in-time 👍2  
+* 👍💵 Curtis Steinhauer
 * 👍💵 Curtis Steinhauer
 
 ### [HB 1907](/bill/2025-26/hb/1907/) - Self-service storage/tax 👍1  
+
+### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
+* 👍💵 Curtis Steinhauer
 
 ### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍3  
 * 👍💵 Travis Dutton
@@ -276,7 +281,8 @@
 ### [SB 5470](/bill/2025-26/sb/5470/) - Detached ADUs 👍1  
 * 👍 BRIAN ENSLOW
 
-### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍1  
+### [SB 5471](/bill/2025-26/sb/5471/) - Middle housing 👍2  
+* 👍 BRIAN ENSLOW
 * 👍 BRIAN ENSLOW
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
@@ -309,7 +315,8 @@
 ### [SB 5611](/bill/2025-26/sb/5611/) - Land use permitting workload   ❓1
 * ❓💵 Curtis Steinhauer
 
-### [SB 5613](/bill/2025-26/sb/5613/) - Residential development   ❓1
+### [SB 5613](/bill/2025-26/sb/5613/) - Residential development   ❓2
+* ❓💵 Curtis Steinhauer
 * ❓💵 Curtis Steinhauer
 
 ### [SB 5614](/bill/2025-26/sb/5614/) - Impact fees  👎1 
@@ -332,10 +339,12 @@
 
 ### [SB 5711](/bill/2025-26/sb/5711/) - Self-service storage/tax 👍1  
 
-### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners   ❓1
+### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners   ❓2
+* ❓💵 Curtis Steinhauer
 * ❓💵 Curtis Steinhauer
 
-### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎2 
+* 👎💵 Curtis Steinhauer
 
 ## [SB 5732](/bill/2025-26/sb/5732/) - Housing supply/GMA  👎1 
 * 👎💵 Kelsey Hulse

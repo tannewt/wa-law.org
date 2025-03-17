@@ -24,7 +24,7 @@
 
 ### [HB 1213](/bill/2025-26/hb/1213/) - Paid family & medical leave 👍1  
 
-### [HB 1215](/bill/2025-26/hb/1215/) - Natural death act/pregnancy 👍1  
+### [HB 1215](/bill/2025-26/hb/1215/) - Natural death act/pregnancy 👍2  
 
 ### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
@@ -111,7 +111,7 @@
 
 ### [SB 5297](/bill/2025-26/sb/5297/) - Early learning facilities 👍1  
 
-### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍1  
+### [SB 5355](/bill/2025-26/sb/5355/) - Higher education safety 👍2  
 
 ### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
 

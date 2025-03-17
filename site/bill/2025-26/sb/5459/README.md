@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205459)
+
 ## Meetings
 ### Wed 03/19 08:00 AM - Labor & Workplace Standards (LAWS): ESSB 5459 Call center retention
 Sign up to testify:
@@ -16,7 +19,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33098&aId=165800&caId=26519&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33098&aId=165800&caId=26519&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
+Testifying:
+* 💵Christine Reid - IBEW
+* Eileen Nix - [Communications Workers of America](/org/communications_workers_of_america/)
+* Krystal Rivas - [Communications Workers of America](/org/communications_workers_of_america/)
 
 #### 0 👎 - Con
 

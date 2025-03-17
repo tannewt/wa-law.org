@@ -14,15 +14,41 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33035&aId=165544&caId=26478&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33035&aId=165544&caId=26478&tId=4)
 
-#### 56 👍 - Pro
+#### 166 👍 - Pro
 Testifying:
 * 💵Chloe Merino - [Disability Rights Washington](/org/disability_rights_washington/)
 * Todd H Carlisle - [Disability Rights Washington](/org/disability_rights_washington/)
 * 💵Stacy Dym - [The Arc of Washington State](/org/the_arc_of_washington_state/)
 * 💵Shawn Latham - Serlf Advocates In Leadership
+* Krista Milhofer - People First of Washington
+* ARZU FOROUGH - Washington Autism Alliance
+* Julie Clark - Washington State Developmental Disabilities Council
+* Tracy Turner
+* 💵Corinna Fale
 
-#### 11 👎 - Con
+#### 118 👎 - Con
 Testifying:
 * Brittany Barber - [Washington Federation of State Employees](/org/washington_federation_of_state_employees/)
+* Jeff Carter - Friends of Rainier
+* Mark Von Walter - Friends of Rainier
+* Terri Anderson - Action DD
+* Ryan Feamster
+* Steven Yates - Citizen
+* Bethlehem Demissie
+* Nghi Julie Huynh
+* Joseph Thull
+* Juli Woods
+* Ethiopia Seyoum
+* Jacques Murinda
+* Dawit Chanie
+* Agidew Zenebe
+* Alimamy Conteh
+* Verna Stone
+* Abebe Workineh
+* Camilo V Valencia
+* Marcelo Bartolome
+* Bryan Marsh - Bonney Lake House
+* Joey Dormady
+* Leslie Moon
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other

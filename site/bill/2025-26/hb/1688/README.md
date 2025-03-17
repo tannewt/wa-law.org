@@ -19,9 +19,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165856&caId=26428&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165856&caId=26428&tId=4)
 
-#### 1 👍 - Pro
+#### 60 👍 - Pro
+Testifying:
+* Charlie Brown - [Amarok](/org/amarok/)
+* Keith Kaneko - [Amarok](/org/amarok/)
 
-#### 0 👎 - Con
+#### 1 👎 - Con
 
 #### 0 ❓ - Other
 

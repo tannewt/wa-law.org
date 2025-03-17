@@ -11,6 +11,8 @@
 
 ### [HB 1566](/bill/2025-26/hb/1566/) - Prior authorization/health 👍1  
 
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
+
 ### [SB 5236](/bill/2025-26/sb/5236/) - Anesthetics/greenhouse gases 👍1  
 
 ### [SB 5395](/bill/2025-26/sb/5395/) - Prior authorization/health  👎1 

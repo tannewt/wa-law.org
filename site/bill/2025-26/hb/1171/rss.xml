@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1171/</link>
 		<description>Updates about HB 1171</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Mar 2025 06:40:25 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 16 Mar 2025 08:23:18 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -140,6 +140,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Rhea/Yo/2025-03-12 06:40:25</guid>
+		</item>
+		<item>
+			<title>👍Aubrey Stahl - Washington Defender Association and Washington Association of Criminal Defense Lawyers</title>
+			<description>Aubrey Stahl signed up to testify Pro. They are signed up to represent Washington Defender Association and Washington Association of Criminal Defense Lawyers.</description>
+			<pubDate>Sun, 16 Mar 2025 08:23:18 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Aubrey/Stahl/2025-03-16 08:23:18</guid>
 		</item>
 	</channel>
 </rss>

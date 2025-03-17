@@ -20,11 +20,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165513&caId=26508&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165513&caId=26508&tId=4)
 
-#### 1 👍 - Pro
+#### 80 👍 - Pro
+Testifying:
+* BRIAN ENSLOW - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
-#### 0 👎 - Con
+#### 11 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Bryce Yadon - [Futurewise](/org/futurewise/)
 
 ### Fri 01/31 10:30 AM - Housing (HSG): SB 5471 Middle housing
 #### 20 👍 - Pro

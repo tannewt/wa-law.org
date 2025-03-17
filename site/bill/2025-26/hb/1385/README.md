@@ -20,7 +20,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165721&caId=26402&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33074&aId=165721&caId=26402&tId=4)
 
-#### 0 👍 - Pro
+#### 177 👍 - Pro
+Testifying:
+* Sandra Brock
+* Deion Glover - Washington State Patrol
 
 #### 0 👎 - Con
 

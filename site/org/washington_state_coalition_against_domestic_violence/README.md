@@ -1,21 +1,23 @@
 # Washington State Coalition Against Domestic Violence
 ## 2025-26
 
+### [HB 1028](/bill/2025-26/hb/1028/) - Child exposure to violence 👍1  
+
 ### [HB 1113](/bill/2025-26/hb/1113/) - Misdemeanor dismissal 👍1  
 
 ### [HB 1139](/bill/2025-26/hb/1139/) - Unlawful firearm possession 👍1  
 
 ### [HB 1163](/bill/2025-26/hb/1163/) - Firearm purchase 👍1  
 
-### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍2  
+### [HB 1174](/bill/2025-26/hb/1174/) - Court interpreters 👍3  
 
 ### [HB 1195](/bill/2025-26/hb/1195/) - Housing & shelters 👍1  
 
 ### [HB 1196](/bill/2025-26/hb/1196/) - Voting rights/convictions 👍1  
 
-### [HB 1205](/bill/2025-26/hb/1205/) - Forged digital likeness 👍1  
+### [HB 1205](/bill/2025-26/hb/1205/) - Forged digital likeness 👍2  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
 ### [HB 1252](/bill/2025-26/hb/1252/) - Pretrial release 👍1  
 
@@ -38,23 +40,27 @@
 ### [SB 5093](/bill/2025-26/sb/5093/) - Pregnancy loss 👍2  
 * 👍 Rosalind Arch
 
-### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍1  
+### [SB 5098](/bill/2025-26/sb/5098/) - Weapons in certain areas 👍2  
+
+### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions 👍1  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 * 👍💵 Melanie Smith
 
-### [SB 5356](/bill/2025-26/sb/5356/) - Criminal justice trainings 👍1  
+### [SB 5356](/bill/2025-26/sb/5356/) - Criminal justice trainings 👍2  
 
 ### [SB 5362](/bill/2025-26/sb/5362/) - Crime victim services 👍1  
 * 👍 Roz Arch
 
+### [SB 5498](/bill/2025-26/sb/5498/) - Contraceptive coverage 👍1  
+
 ### [SB 5536](/bill/2025-26/sb/5536/) - Property distrib./divorce 👍1  
 
-## [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍1  
+## [SB 5576](/bill/2025-26/sb/5576/) - Affordable housing funding 👍2  
 
 ## 2023-24
 
-### [SB 5576](/bill/2023-24/sb/5576/) - Affordable housing funding 👍1  
+### [SB 5576](/bill/2023-24/sb/5576/) - Affordable housing funding 👍2  
 
 ### [HB 1121](/bill/2023-24/hb/1121/) - Uniform child abduction act 👍1  
 

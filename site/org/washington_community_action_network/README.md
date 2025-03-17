@@ -8,7 +8,7 @@
 
 ### [HB 1178](/bill/2025-26/hb/1178/) - Sentencing enhancements 👍2  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍1  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
 
 ### [HB 1317](/bill/2025-26/hb/1317/) - Sentences/offenses before 21 👍3  
 

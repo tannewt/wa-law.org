@@ -107,6 +107,8 @@
 ### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
 * 👍 Alexis Mercedes Rinck
 
+### [HB 1935](/bill/2025-26/hb/1935/) - Project permit definition 👍1  
+
 ### [HB 2015](/bill/2025-26/hb/2015/) - Public safety funding 👍1  
 
 ### [SB 5023](/bill/2025-26/sb/5023/) - Domestic workers 👍1  
@@ -143,6 +145,8 @@
 ### [SB 5273](/bill/2025-26/sb/5273/) - Concerning the availability of community violence prevention and intervention services. 👍1  
 
 ### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
+
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
 
 ### [SB 5297](/bill/2025-26/sb/5297/) - Early learning facilities 👍1  
 

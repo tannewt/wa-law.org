@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5400/</link>
 		<description>Updates about SB 5400</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 14 Mar 2025 07:07:40 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 17 Mar 2025 09:05:03 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -289,6 +289,30 @@
 			<guid isPermaLink="false">testifier/Rose/Feliciano/2025-03-13 11:01:24</guid>
 		</item>
 		<item>
+			<title>👍Keith Shipman - Washington State Association of Broadcasters</title>
+			<description>Keith Shipman signed up to testify Pro. They are signed up to represent Washington State Association of Broadcasters.</description>
+			<pubDate>Fri, 14 Mar 2025 01:51:07 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Keith/Shipman/2025-03-14 01:51:07</guid>
+		</item>
+		<item>
+			<title>👎💵Kelly Fukai - WTIA</title>
+			<description>Kelly Fukai signed up to testify Con. They are signed up to represent WTIA. They are a registered lobbyist.</description>
+			<pubDate>Fri, 14 Mar 2025 03:09:51 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Kelly/Fukai/2025-03-14 03:09:51</guid>
+		</item>
+		<item>
+			<title>👍Ellen Hiatt - Washington Newspaper Publishers Association</title>
+			<description>Ellen Hiatt signed up to testify Pro. They are signed up to represent Washington Newspaper Publishers Association.</description>
+			<pubDate>Fri, 14 Mar 2025 05:46:23 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Ellen/Hiatt/2025-03-14 05:46:23</guid>
+		</item>
+		<item>
 			<title>👍Sharon Maeda - (retired)</title>
 			<description>Sharon Maeda signed up to testify Pro. They are signed up to represent (retired).</description>
 			<pubDate>Fri, 14 Mar 2025 06:57:27 GMT</pubDate>
@@ -303,6 +327,14 @@
 			<category>testifier</category>
 			<category>Pro</category>
 			<guid isPermaLink="false">testifier/Karen/Keiser/2025-03-14 07:07:40</guid>
+		</item>
+		<item>
+			<title>👍Emmett O'Connell - N/A</title>
+			<description>Emmett O'Connell signed up to testify Pro. They are signed up to represent N/A.</description>
+			<pubDate>Mon, 17 Mar 2025 09:05:03 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Emmett/O'Connell/2025-03-17 09:05:03</guid>
 		</item>
 	</channel>
 </rss>

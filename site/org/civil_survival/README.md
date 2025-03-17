@@ -45,6 +45,9 @@
 ### [HB 1909](/bill/2025-26/hb/1909/) - Court unification task force 👍1  
 * 👍 Laura Del Villar
 
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
+* 👍💵 Anthony Blankenship
+
 ### [SB 5231](/bill/2025-26/sb/5231/) - Confinement fees & expenses 👍4  
 * 👍💵 Kelly Olson
 

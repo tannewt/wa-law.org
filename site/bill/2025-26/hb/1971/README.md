@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/17/2025 [Senate Democrats](/org/senate_democrats/) - [This Week In The Senate - Week 10: Affordable housing, health care and safe kids - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/16/this-week-in-the-senate-week-10-affordable-housing-health-care-and-safe-kids/#:~:text=House%20Bill%201971)
 * 03/11/2025 [House Democrats](/org/house_democrats/) - [House Approves 12-month Supply of Hormone Therapy – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/03/11/house-approves-12-month-supply-of-hormone-therapy/#:~:text=HB%201971)
 * 02/17/2025 [House Democrats](/org/house_democrats/) - [The House Hot Sheet for Week 6 of the 2025 Legislative Session – Washington State House Democrats](https://housedemocrats.wa.gov/blog/2025/02/17/the-house-hot-sheet-for-week-6-of-the-2025-legislative-session/#:~:text=HB%201971)
 * 02/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: Feb. 17 – 22, 2025 | Washington State House Republicans](http://houserepublicans.wa.gov/week/the-week-ahead-feb-17-22-2025/#:~:text=HB%201971)
@@ -23,9 +24,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165701&caId=26389&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165701&caId=26389&tId=4)
 
-#### 3 👍 - Pro
+#### 21 👍 - Pro
+Testifying:
+* Tela Hogle
 
-#### 0 👎 - Con
+#### 32 👎 - Con
 
 #### 0 ❓ - Other
 

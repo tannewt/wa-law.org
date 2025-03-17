@@ -7,6 +7,7 @@
 * [Original Bill](1/)
 
 ## 📰 Articles
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205110)
 * 02/18/2025 [Senate Democrats](/org/senate_democrats/) - [Expanding education and equity - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/18/expanding-education-and-equity/#:~:text=Senate%20Bill%205110)
 * 02/04/2025 [Senate Democrats](/org/senate_democrats/) - [Back to Olympia - Sen. Claudia Kauffman](https://senatedemocrats.wa.gov/kauffman/2025/02/04/back-to-olympia/#:~:text=SB%205110)
 
@@ -18,9 +19,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165745&caId=26528&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165745&caId=26528&tId=4)
 
-#### 3 👍 - Pro
+#### 11 👍 - Pro
+Testifying:
+* JAMES Derouin jr - self
 
-#### 0 👎 - Con
+#### 249 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

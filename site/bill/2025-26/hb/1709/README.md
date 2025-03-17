@@ -18,9 +18,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165858&caId=26376&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33039&aId=165858&caId=26376&tId=4)
 
-#### 178 👍 - Pro
+#### 293 👍 - Pro
 Testifying:
 * Mark Harper
+* Kathryn Mueller
 
 #### 0 👎 - Con
 

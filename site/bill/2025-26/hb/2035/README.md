@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=HB%202035)
+
 ## Meetings
 ### Mon 03/17 04:00 PM - Appropriations (APP): HB 2035 Liquor license fees
 Sign up to testify:
@@ -14,11 +17,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33094&aId=165787&caId=26447&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33094&aId=165787&caId=26447&tId=4)
 
-#### 0 👍 - Pro
+#### 3 👍 - Pro
 
-#### 9 👎 - Con
+#### 727 👎 - Con
 Testifying:
 * Jeffrey Pack - Washington Citizens Against Unfair Taxes
 * 💵Brad Tower - [Washington Liquor Store Association](/org/washington_liquor_store_association/)
+* Jim Hedrick - Washington Ditillers' Guild
+* Sandra Brock
+* 💵Amber Carter - WA Retail Association
+* Sandra Mochizuki
+* TaraLyn Fray
+* 💵Daniel Olson - [Washington Brewers Guild](/org/washington_brewers_guild/)
+* Nora Palattao Burnes - WA Beer and Wine Distributors Association
 
 #### 0 ❓ - Other

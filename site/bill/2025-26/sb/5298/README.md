@@ -15,9 +15,10 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165511&caId=26506&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33021&aId=165511&caId=26506&tId=4)
 
-#### 6 👍 - Pro
+#### 32 👍 - Pro
 Testifying:
 * Victoria O'Banion - [Northwest Cooperative Development Center](/org/northwest_cooperative_development_center/)
+* Stacey Valenzuela - Manufactured Homeowner
 
 #### 0 👎 - Con
 

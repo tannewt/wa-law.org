@@ -41,13 +41,20 @@
 
 ### [HB 1233](/bill/2025-26/hb/1233/) - Work programs/incarceration 👍1  
 
-### [HB 1264](/bill/2025-26/hb/1264/) - Ferry system salaries 👍13  
+### [HB 1264](/bill/2025-26/hb/1264/) - Ferry system salaries 👍35  
 * 👍 Eric Winge
 * 👍 Chris Schneider
 * 👍 Eric Winge
 * 👍 Nick Twietmeyer
 * 👍 Greg Poor
 * 👍 Felix Tapley
+* 👍 Chris Schneider
+* 👍 Nick Twietmeyer
+* 👍 Eric Winge
+* 👍 Felix Tapley
+* 👍 Alex Zecha
+* 👍 Greg Poor
+* 👍 Phil Wolf
 
 ### [HB 1270](/bill/2025-26/hb/1270/) - Deferred comp. by local gov. 👍1  
 
@@ -57,7 +64,7 @@
 
 ### [HB 1274](/bill/2025-26/hb/1274/) - Juvenile convictions/score 👍1  
 
-### [HB 1275](/bill/2025-26/hb/1275/) - Self-insurer withdrawal 👍1  
+### [HB 1275](/bill/2025-26/hb/1275/) - Self-insurer withdrawal 👍2  
 
 ### [HB 1318](/bill/2025-26/hb/1318/) - Children's diapers sales tax 👍1  
 
@@ -93,7 +100,7 @@
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 
-### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees 👍1  
+### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees 👍2  
 
 ### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria 👍1  
 
@@ -109,7 +116,7 @@
 
 ### [HB 1572](/bill/2025-26/hb/1572/) - Higher ed. accreditation 👍1  
 
-### [HB 1587](/bill/2025-26/hb/1587/) - Partner promise scholarships 👍3  
+### [HB 1587](/bill/2025-26/hb/1587/) - Partner promise scholarships 👍4  
 
 ### [HB 1603](/bill/2025-26/hb/1603/) - Medicare supp. coverage 👍1  
 
@@ -151,7 +158,7 @@
 
 ### [HB 1783](/bill/2025-26/hb/1783/) - Law enf. officers/colleges  👎1 
 
-### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍2  
+### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍3  
 
 ### [HB 1804](/bill/2025-26/hb/1804/) - Community solar projects 👍1  
 
@@ -163,7 +170,7 @@
 
 ### [HB 1817](/bill/2025-26/hb/1817/) - Schools/sexual assault 👍1  
 
-### [HB 1821](/bill/2025-26/hb/1821/) - Interested party/prev. wage 👍1  
+### [HB 1821](/bill/2025-26/hb/1821/) - Interested party/prev. wage 👍2  
 
 ### [HB 1822](/bill/2025-26/hb/1822/) - Driver course/work zones 👍1  
 
@@ -193,7 +200,7 @@
 
 ### [HB 1917](/bill/2025-26/hb/1917/) - Juvenile rehabilitation 👍1  
 
-### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍1  
+### [HB 1923](/bill/2025-26/hb/1923/) - Passenger-only ferries 👍2  
 
 ### [HB 1927](/bill/2025-26/hb/1927/) - Rent payment reporting 👍1  
 
@@ -239,7 +246,9 @@
 
 ### [SB 5118](/bill/2025-26/sb/5118/) - International medical grads 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍2  
+
+### [SB 5156](/bill/2025-26/sb/5156/) - Elevators/smaller apartments  👎1 
 
 ### [SB 5164](/bill/2025-26/sb/5164/) - Student navigational support 👍1  
 
@@ -263,13 +272,15 @@
 
 ### [SB 5283](/bill/2025-26/sb/5283/) - Prohibiting the energy facility site evaluation council from preempting local laws that forbid the siting of certain storage facilities in critical areas.  👎1 
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
 
 ### [SB 5292](/bill/2025-26/sb/5292/) - Family & medical leave rates 👍1  
 
 ### [SB 5304](/bill/2025-26/sb/5304/) - Homelessness/tribal colleges 👍1  
 
 ### [SB 5306](/bill/2025-26/sb/5306/) - Pension credit for leave 👍1  
+
+### [SB 5313](/bill/2025-26/sb/5313/) - Rental agreement provisions 👍1  
 
 ### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍1  
 
@@ -301,7 +312,7 @@
 
 ### [SB 5437](/bill/2025-26/sb/5437/) - Noncompetition agreements 👍1  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
 
 ### [SB 5473](/bill/2025-26/sb/5473/) - Law enforcement arbitration 👍1  
 

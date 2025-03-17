@@ -1,13 +1,15 @@
 # Health Care for All - Washington
 ## 2025-26
 
+### [HB 1186](/bill/2025-26/hb/1186/) - Medication dispensing 👍1  
+
 ### [HB 1199](/bill/2025-26/hb/1199/) - Strengthening consumer protection through increased insurer accountability for violations of the insurance code. 👍1  
 
 ### [HB 1379](/bill/2025-26/hb/1379/) - Health carrier reporting 👍1  
 
 ### [HB 1392](/bill/2025-26/hb/1392/) - Medicaid access program 👍3  
 
-### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍1  
+### [HB 1686](/bill/2025-26/hb/1686/) - Health care entity registry 👍2  
 
 ### [HB 1748](/bill/2025-26/hb/1748/) - Insurance & credit study 👍1  
 
@@ -24,9 +26,11 @@
 
 ### [SB 5122](/bill/2025-26/sb/5122/) - Uniform antitrust premerger 👍1  
 
+### [SB 5331](/bill/2025-26/sb/5331/) - Insurance code violations 👍1  
+
 ### [SB 5372](/bill/2025-26/sb/5372/) - Medicaid access program 👍1  
 
-### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
+### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍2  
 
 ### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍1  
 

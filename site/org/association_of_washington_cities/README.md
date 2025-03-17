@@ -91,7 +91,7 @@
 
 ### [HB 1270](/bill/2025-26/hb/1270/) - Deferred comp. by local gov. 👍1  
 
-### [HB 1275](/bill/2025-26/hb/1275/) - Self-insurer withdrawal 👍1  
+### [HB 1275](/bill/2025-26/hb/1275/) - Self-insurer withdrawal 👍2  
 
 ### [HB 1276](/bill/2025-26/hb/1276/) - Organized retail theft 👍1  
 
@@ -245,7 +245,8 @@
 ### [HB 1921](/bill/2025-26/hb/1921/) - Transportation revenue 👍1  
 * 👍💵 Carl Schroeder
 
-### [HB 1934](/bill/2025-26/hb/1934/) - Employment investigation/PRA 👍2  
+### [HB 1934](/bill/2025-26/hb/1934/) - Employment investigation/PRA 👍3  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
@@ -272,7 +273,8 @@
 ### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel  👎2 
 * 👎💵 Candice Bock
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎1 
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts  👎2 
+* 👎💵 Candice Bock
 * 👎💵 Candice Bock
 
 ### [SB 5053](/bill/2025-26/sb/5053/) - PFD formation 👍1  
@@ -328,7 +330,8 @@
 
 ### [SB 5268](/bill/2025-26/sb/5268/) - Unlawful firearm possession 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
+* 👍 Amy Ockerlander
 * 👍 Amy Ockerlander
 
 ### [SB 5285](/bill/2025-26/sb/5285/) - Law enf. officers/increase 👍1  
@@ -355,7 +358,8 @@
 
 ### [SB 5453](/bill/2025-26/sb/5453/) - Public defense recruitment 👍1  
 
-### [SB 5473](/bill/2025-26/sb/5473/) - Law enforcement arbitration 👍1  
+### [SB 5473](/bill/2025-26/sb/5473/) - Law enforcement arbitration 👍2  
+* 👍💵 Candice Bock
 * 👍💵 Candice Bock
 
 ### [SB 5497](/bill/2025-26/sb/5497/) - Housing & shelters   ❓1
@@ -435,7 +439,7 @@
 ### [SB 5726](/bill/2025-26/sb/5726/) - Transportation revenue 👍1  
 * 👍💵 Carl Schroeder
 
-### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
+### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍2  
 
 ### [SB 5757](/bill/2025-26/sb/5757/) - Auto. traffic safety revenue  👎1 
 * 👎💵 Candice Bock

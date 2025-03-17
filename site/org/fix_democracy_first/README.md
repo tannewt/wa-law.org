@@ -36,15 +36,15 @@
 
 ### [SB 5069](/bill/2025-26/sb/5069/) - Voters' pamphlets 👍2  
 
-### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍3  
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍4  
 
 ### [SB 5382](/bill/2025-26/sb/5382/) - Ballot measure petitions 👍2  
 
-## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍2  
+## [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍3  
 
 ## 2023-24
 
-### [SB 5400](/bill/2023-24/sb/5400/) - Local news journalism 👍2  
+### [SB 5400](/bill/2023-24/sb/5400/) - Local news journalism 👍3  
 
 ### [HB 1024](/bill/2023-24/hb/1024/) - Incarcerated persons/labor 👍1  
 

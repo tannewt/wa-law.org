@@ -22,6 +22,9 @@
 ### [HB 1719](/bill/2025-26/hb/1719/) - Liquor licensee events 👍1  
 * 👍💵 Daniel Olson
 
+### [HB 2035](/bill/2025-26/hb/2035/) - Liquor license fees  👎1 
+* 👎💵 Daniel Olson
+
 ### [SB 5067](/bill/2025-26/sb/5067/) - Impaired driving  👎2 
 * 👎💵 Daniel Olson
 * 👎 Daniel Olsen

@@ -16,12 +16,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165893&caId=26567&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33066&aId=165893&caId=26567&tId=4)
 
-#### 4 👍 - Pro
+#### 14 👍 - Pro
 Testifying:
 * Joe Schiessl - [City of Richland](/org/city_of_richland/)
 * Rael Candelaria - Framatome
 
-#### 1 👎 - Con
+#### 166 👎 - Con
+Testifying:
+* 💵Suellen Mele - 350 Washington Civic Action Team
+* Kathleen M. Saul - [Sierra Club](/org/sierra_club/)
 
 #### 0 ❓ - Other
 

@@ -22,9 +22,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165873&caId=26556&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33084&aId=165873&caId=26556&tId=4)
 
-#### 0 👍 - Pro
+#### 181 👍 - Pro
 
-#### 1 👎 - Con
+#### 323 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Sandra Mochizuki
+* Ronald Mochizuki
 
 #### 0 ❓ - Other
 

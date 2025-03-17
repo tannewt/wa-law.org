@@ -10,6 +10,7 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=HB%205296)
 * 03/11/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes Wilson bills to reform juvenile rehabilitation systems - Sen. Claire Wilson](https://senatedemocrats.wa.gov/wilson/2025/03/10/senate-passes-wilson-bills-to-reform-juvenile-rehabilitation-systems/#:~:text=5296)
 * 03/09/2025 [Senate Republicans](/org/senate_republicans/) - [NEWSFLASH: Good and bad bills still alive and moving forward - Senate Republican Caucus](https://src.wastateleg.org/blog/newsflash-good-bad-bills-still-alive-moving-forward/#:~:text=SB%205296:)
 * 02/04/2025 [The Center Square](/org/the_center_square/) - [Washington lawmakers wrestle with juvenile correctional facility crisis | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_68867852-e32b-11ef-ba40-4bb880ec3e35.html#:~:text=Senate%20Bill%205296)
@@ -25,14 +26,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165705&caId=26476&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33034&aId=165705&caId=26476&tId=4)
 
-#### 6 👍 - Pro
+#### 42 👍 - Pro
 Testifying:
 * Dr. Esther Matthews
 * Katie Hurley - King County Department of Public Defense
 
-#### 1 👎 - Con
+#### 281 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* JAMES Derouin jr
+* 💵Russell Brown - WA Association of Prosecuting Attorneys
+* Sandra Mochizuki
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

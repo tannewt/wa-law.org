@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5238/</link>
 		<description>Updates about SB 5238</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Mar 2025 05:25:49 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Mar 2025 21:10:24 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -79,6 +79,13 @@
 			<category>testifier</category>
 			<category>Other</category>
 			<guid isPermaLink="false">testifier/Amy/Freedheim/2025-03-12 05:25:49</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 14 Mar 2025 21:10:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=HB%205238</guid>
 		</item>
 	</channel>
 </rss>

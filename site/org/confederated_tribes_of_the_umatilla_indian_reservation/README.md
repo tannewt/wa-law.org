@@ -1,6 +1,8 @@
 # Confederated Tribes of the Umatilla Indian Reservation
 ## 2025-26
 
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+
 ## [SB 5570](/bill/2025-26/sb/5570/) - Tribes/K-12 instruction 👍2  
 * 👍 Lisa Ganuelas
 

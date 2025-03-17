@@ -14,7 +14,9 @@
 
 ### [HB 1214](/bill/2025-26/hb/1214/) - Working families' tax credit 👍2  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍7  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍8  
+
+### [HB 1232](/bill/2025-26/hb/1232/) - Private detention facilities 👍1  
 
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice 👍2  
 
@@ -24,6 +26,8 @@
 * 👍💵 Kristin Ang
 
 ### [HB 1404](/bill/2025-26/hb/1404/) - Free school meals 👍2  
+
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
 
 ### [HB 1429](/bill/2025-26/hb/1429/) - Extended foster care/housing 👍3  
 
@@ -42,11 +46,13 @@
 ### [SB 5101](/bill/2025-26/sb/5101/) - Worker leave/hate crimes 👍1  
 * 👍💵 Kristin Ang
 
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
+
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍2  
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍2  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 
 ### [SB 5352](/bill/2025-26/sb/5352/) - Free school meals 👍2  
 
@@ -61,7 +67,7 @@
 
 ### [SB 5626](/bill/2025-26/sb/5626/) - Wage replacement 👍5  
 
-### [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍1  
+### [SB 5714](/bill/2025-26/sb/5714/) - Bail bond agents/immigration 👍2  
 
 ### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
 

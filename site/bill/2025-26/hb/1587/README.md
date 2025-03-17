@@ -16,17 +16,15 @@
 
 ## Meetings
 ### Mon 03/17 10:30 AM - Higher Education & Workforce Development (HEWD): 2SHB 1587 Partner promise scholarships
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33079&aId=165739&caId=26391&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33079&aId=165739&caId=26391&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33079&aId=165739&caId=26391&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33079&aId=165739&caId=26391&tId=4)
-
-#### 2 👍 - Pro
+#### 13 👍 - Pro
 Testifying:
 * Ben Mitchell - [Foundation for Tacoma Students](/org/foundation_for_tacoma_students/)
+* John Axtell
 
-#### 0 👎 - Con
+#### 91 👎 - Con
+Testifying:
+* Jill Ross
+* Sandra Brock
 
 #### 1 ❓ - Other
 Testifying:

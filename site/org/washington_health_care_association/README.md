@@ -16,15 +16,15 @@
 
 ### [SB 5051](/bill/2025-26/sb/5051/) - Nursing assistant regulation 👍1  
 
-## [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍2  
+### [SB 5344](/bill/2025-26/sb/5344/) - Essential worker health care 👍2  
 * 👍 Carma Matti-Jackson
 * 👍 Carma Matti-Jackson
+
+## [SB 5672](/bill/2025-26/sb/5672/) - Home care aide certification 👍1  
 
 ## 2023-24
 
-### [SB 5344](/bill/2023-24/sb/5344/) - Essential worker health care 👍2  
-* 👍 Carma Matti-Jackson
-* 👍 Carma Matti-Jackson
+### [SB 5672](/bill/2023-24/sb/5672/) - Home care aide certification 👍1  
 
 ### [HB 1140](/bill/2023-24/hb/1140/) - Operating budget 👍1  ❓1
 * 👍 Jeff Gombosky

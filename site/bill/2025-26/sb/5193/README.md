@@ -19,11 +19,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165479&caId=26480&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33012&aId=165479&caId=26480&tId=4)
 
-#### 1 👍 - Pro
+#### 92 👍 - Pro
+Testifying:
+* 💵Carolyn Logue - Stride/K12
+* Felicia Kern - Parent of online school student
 
-#### 0 👎 - Con
+#### 456 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Wed 01/15 01:30 PM - Early Learning & K-12 Education (EDU): SB 5193 Remote testing
 #### 514 👍 - Pro

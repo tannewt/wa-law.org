@@ -20,15 +20,18 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165722&caId=26403&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33075&aId=165722&caId=26403&tId=4)
 
-#### 13 👍 - Pro
+#### 162 👍 - Pro
 Testifying:
 * Waldo Waldron-Ramsey - Political Director, Washington Community Action Network
+* Barbara Serrano - Former Senior Policy Advisor to Former Gov. Jay Inslee
 
-#### 1 👎 - Con
+#### 292 👎 - Con
 Testifying:
 * James McMahan - WA Assoc Sheriffs & Police Chiefs
+* Sandra Mochizuki
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/17 04:00 PM - Appropriations (APP): SHB 1131 Clemency and pardons
 #### 102 👍 - Pro

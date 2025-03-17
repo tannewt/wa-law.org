@@ -5,22 +5,40 @@
 
 ### [HB 1150](/bill/2025-26/hb/1150/) - Solid waste management 👍1  
 
+### [HB 1154](/bill/2025-26/hb/1154/) - Solid waste handling 👍1  
+
+### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences  👎1 
+
 ### [HB 1302](/bill/2025-26/hb/1302/) - Utility connection charges 👍1  
+
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
+
+### [HB 1462](/bill/2025-26/hb/1462/) - Hydrofluorocarbons 👍1  
 
 ### [HB 1491](/bill/2025-26/hb/1491/) - Transit-oriented housing dev 👍1  
 
+### [HB 1497](/bill/2025-26/hb/1497/) - Waste material management 👍1  
+
 ### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍2  
 
-### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍3  
 
 ### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
+
+### [HB 1606](/bill/2025-26/hb/1606/) - Journal access/state empl. 👍1  
+
+### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
 
 ### [HB 1825](/bill/2025-26/hb/1825/) - Grizzly bear management 👍2  
 * 👍 Jasmine Minbashian
 
 ### [HB 1854](/bill/2025-26/hb/1854/) - Rural areas/subdivision 👍1  
 
-### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍1  
+### [SB 5033](/bill/2025-26/sb/5033/) - Biosolids/PFAS chemicals 👍1  
+
+### [SB 5077](/bill/2025-26/sb/5077/) - Agency voter registration 👍2  
+
+### [SB 5157](/bill/2025-26/sb/5157/) - Habitat restoration material 👍1  
 
 ### [SB 5174](/bill/2025-26/sb/5174/) - Wood burning devices 👍1  
 
@@ -30,11 +48,17 @@
 
 ### [SB 5203](/bill/2025-26/sb/5203/) - Wildlife safe passages 👍3  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍4  
+
+### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
 
 ### [SB 5360](/bill/2025-26/sb/5360/) - Environmental crimes 👍1  
 
 ### [SB 5391](/bill/2025-26/sb/5391/) - Sustainable farms grants 👍1  
+
+### [SB 5400](/bill/2025-26/sb/5400/) - Local news journalism 👍1  
+
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
 
 ### [SB 5474](/bill/2025-26/sb/5474/) - Organic, etc. agriculture 👍1  
 
@@ -42,11 +66,19 @@
 
 ### [SB 5556](/bill/2025-26/sb/5556/) - Adopt-a-highway program 👍1  
 
-## [SB 5722](/bill/2025-26/sb/5722/) - Local farming grant program 👍1  
+### [SB 5628](/bill/2025-26/sb/5628/) - Lead in cookware 👍1  
+
+### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍1  
+
+### [SB 5722](/bill/2025-26/sb/5722/) - Local farming grant program 👍1  
+
+### [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting 👍1  
+
+## [SB 5749](/bill/2025-26/sb/5749/) - Housing opportunity zones 👍1  
 
 ## 2023-24
 
-### [SB 5722](/bill/2023-24/sb/5722/) - Local farming grant program 👍1  
+### [SB 5749](/bill/2023-24/sb/5749/) - Housing opportunity zones 👍1  
 
 ### [HB 1012](/bill/2023-24/hb/1012/) - Extreme weather events 👍4  
 

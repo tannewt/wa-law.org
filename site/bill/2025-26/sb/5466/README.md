@@ -8,6 +8,9 @@
 * [Substitute Bill](S/)
 * [Engrossed Substitute](S.E/)
 
+## 📰 Articles
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205466)
+
 ## Meetings
 ### Mon 03/17 01:30 PM - Environment & Energy (ENVI): ESSB 5466 Electric transmission system
 Sign up to testify:
@@ -16,13 +19,30 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165566&caId=26488&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165566&caId=26488&tId=4)
 
-#### 3 👍 - Pro
+#### 281 👍 - Pro
 Testifying:
 * 💵Emily Moore - [Sightline Institute](/org/sightline_institute/)
+* 💵Altinay Karasapan - [Climate Solutions](/org/climate_solutions/)
+* Casey MacLean - Renewable NW
+* 💵Cassie Bordelon - Climate Jobs WA
+* Joe Nguyen - Director Dept. of Commerce
+* 💵Kate Brouns - Policy Advisor, Gov. Ferguson
+* 💵Matthew Hepner - IBEW/ceww
+* 💵Brooke Davies - Northwest & Intermountain Power Producers Coalition
+* 💵Clifford Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
+* 💵Jason Hudson - IBEW 77
 
-#### 0 👎 - Con
+#### 625 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* 💵Brandon Houskeeper - Alliance for Western Energy Consumers
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* 💵Jay Balasbas - PacifiCorp
+* Peter Brehm - CTC Global
+* 💵Dawn Vyvyan - Yakama Nation Puyallup Tribe
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5466 Electric transmission system
 #### 260 👍 - Pro

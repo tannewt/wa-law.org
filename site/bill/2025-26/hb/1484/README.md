@@ -13,20 +13,16 @@
 
 ## Meetings
 ### Mon 03/17 10:30 AM - Law & Justice (LAW): HB 1484 Victim of rape/pregnancy
-Sign up to testify:
-* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33059&aId=165613&caId=26418&tId=1)
-* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33059&aId=165613&caId=26418&tId=2)
-* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33059&aId=165613&caId=26418&tId=3)
-* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33059&aId=165613&caId=26418&tId=4)
-
-#### 3 👍 - Pro
+#### 192 👍 - Pro
 Testifying:
 * Raquel Rodriguez - King County Sexual Assault Resource Center
 * Laurel Smith - Clark County Prosecuting Attorney's Office
 
-#### 0 👎 - Con
+#### 5 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Keri-Anne Jetzer - WA State Sentencing Guidelines Commission
 
 ### Mon 02/03 01:30 PM - Community Safety, Justice, & Reentry (CSJR): HB 1484 Victim of rape/pregnancy
 #### 15 👍 - Pro

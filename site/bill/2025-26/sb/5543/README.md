@@ -6,6 +6,9 @@
 ## Revisions
 * [Original Bill](1/)
 
+## 📰 Articles
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205543)
+
 ## Meetings
 ### Tue 03/18 01:30 PM - Postsecondary Education & Workforce (PEW): SB 5543 College bound scholarship
 Sign up to testify:
@@ -14,13 +17,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165748&caId=26531&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33081&aId=165748&caId=26531&tId=4)
 
-#### 1 👍 - Pro
+#### 8 👍 - Pro
 Testifying:
 * Troy Goracke - WA State Board for Community and Technical Colleges
 
-#### 0 👎 - Con
+#### 236 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/17 04:00 PM - Ways & Means (WM): SB 5543 College bound scholarship
 #### 14 👍 - Pro

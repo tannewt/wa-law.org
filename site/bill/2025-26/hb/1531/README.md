@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/15/2025 [House Republicans](/org/house_republicans/) - [Parental rights | Washington State House Republicans](https://houserepublicans.wa.gov/current/parental-rights/#:~:text=House%20Bill%201531)
 * 03/10/2025 [The Center Square](/org/the_center_square/) - [WA House Dems pass public health bill touted as 'best science' | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_f68a9b5a-fe02-11ef-8b9e-4b5a2aa5e974.html#:~:text=Engrossed%20Substitute%20House%20Bill%201531)
 * 02/23/2025 [MyNorthwest](/org/mynorthwest/) - [Public health and political power: Democratic bill says 'best science' must be followed](https://mynorthwest.com/mynorthwest-politics/public-health/4050369#:~:text=House%20Bill%201531)
 * 01/31/2025 [The Center Square](/org/the_center_square/) - [Washington state public health bill receives lopsided critical testimony | Washington | thecentersquare.com](https://www.thecentersquare.com/washington/article_9f90cb56-e004-11ef-81d1-4b3c6961bacc.html#:~:text=House%20Bill%201531)
@@ -24,21 +25,34 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165700&caId=26388&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33073&aId=165700&caId=26388&tId=4)
 
-#### 7 👍 - Pro
+#### 190 👍 - Pro
 Testifying:
 * Breck Lebegue
 
-#### 262 👎 - Con
+#### 2888 👎 - Con
 Testifying:
 * Laurie Layne
 * Leah Houser
 * Joshua Lenton
 * Krista Petrova
 * Mollie Vigil
+* Brian Friesen
 * Helena Hamilton
+* Anthony Mixer - Washington State Young Republicans
+* Corey Sherwood - Washington State Young Republicans
+* Dakota Manley - Washington State Young Republicans
+* Enrique Rico - Washington State Young Republicans
 * Bob Runnells
+* Larry Fetter - Park Partners LLC
+* mike johnson - no, individual
+* Hailey Irvine
+* Sandra Mochizuki
+* thomas Grauer
+* Angela Dye
+* Natalie Chavez
+* Tanya Goodman
 
-#### 0 ❓ - Other
+#### 4 ❓ - Other
 
 ### Fri 01/31 08:00 AM - Health Care & Wellness (HCW): HB 1531 Communicable disease
 #### 169 👍 - Pro

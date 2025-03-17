@@ -9,6 +9,7 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205142)
 * 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Approaching floor cutoff - Sen. Bob Hasegawa](https://senatedemocrats.wa.gov/hasegawa/2025/03/06/approaching-floor-cutoff/#:~:text=5142)
 
 ## Meetings
@@ -19,7 +20,7 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165592&caId=26454&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33045&aId=165592&caId=26454&tId=4)
 
-#### 6 👍 - Pro
+#### 37 👍 - Pro
 Testifying:
 * Emily Weaver
 * Emily Weaver
@@ -27,10 +28,15 @@ Testifying:
 * Shaylynn Houston
 * John Houston - The Houston Family Land Justice Project
 * Jerry Evans - No organization but would in person testify as a panel or individually.
+* JAMES Derouin jr - self
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
-#### 0 ❓ - Other
+#### 3 ❓ - Other
+Testifying:
+* Brian Buck - Lake Washington School District
+* Larry Fleckenstein - Everett School District
+* Martin Turney - [Issaquah School District](/org/issaquah_school_district/)
 
 ### Thu 01/23 10:30 AM - Law & Justice (LAW): SB 5142 Eminent domain purchase back
 #### 22 👍 - Pro

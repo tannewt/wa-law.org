@@ -18,7 +18,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165841&caId=26369&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165841&caId=26369&tId=4)
 
-#### 0 👍 - Pro
+#### 69 👍 - Pro
+Testifying:
+* Wes McCart
+* Sandra Brock
+* Julie Gorman
+* 💵Jaime Bodden - WSALPHO
+* Matt Schanz - Northeast Tri County Health Dist
 
 #### 0 👎 - Con
 

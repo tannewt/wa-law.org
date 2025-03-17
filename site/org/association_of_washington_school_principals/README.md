@@ -60,7 +60,7 @@
 
 ### [SB 5120](/bill/2025-26/sb/5120/) - Learning assistance program 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍2  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 
@@ -77,6 +77,8 @@
 ### [SB 5187](/bill/2025-26/sb/5187/) - Student transportation 👍3  
 
 ### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍3  
+
+### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  
 
 ### [SB 5210](/bill/2025-26/sb/5210/) - Ninth grade success grants 👍1  
 

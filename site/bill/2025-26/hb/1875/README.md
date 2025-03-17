@@ -23,11 +23,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165779&caId=26414&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165779&caId=26414&tId=4)
 
-#### 4 👍 - Pro
+#### 43 👍 - Pro
 
-#### 0 👎 - Con
+#### 349 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* Ronald Mochizuki
+* TaraLyn Fray
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/18 10:30 AM - Labor & Workplace Standards (LAWS): HB 1875 Sick leave/immigration
 #### 108 👍 - Pro

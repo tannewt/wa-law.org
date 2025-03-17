@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1524/</link>
 		<description>Updates about HB 1524</description>
 		<language>en-US</language>
-		<lastBuildDate>Fri, 07 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 16 Mar 2025 12:30:32 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -176,6 +176,38 @@
 			<pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-07/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👎Sandra Mochizuki - SEIU6</title>
+			<description>Sandra Mochizuki signed up to testify Con.</description>
+			<pubDate>Sat, 15 Mar 2025 01:17:44 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-15 01:17:44</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - SEIU6</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Sun, 16 Mar 2025 06:56:59 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-16 06:56:59</guid>
+		</item>
+		<item>
+			<title>❓💵Julia Gorton - Washington Hospitality Association</title>
+			<description>Julia Gorton signed up to testify Other. They are signed up to represent &lt;a href="https://wa-law.org/org/washington_hospitality_association/"&gt;Washington Hospitality Association&lt;/a&gt;. They are a registered lobbyist.</description>
+			<pubDate>Sun, 16 Mar 2025 10:47:39 GMT</pubDate>
+			<category>testifier</category>
+			<category>Other</category>
+			<guid isPermaLink="false">testifier/Julia/Gorton/2025-03-16 10:47:39</guid>
+		</item>
+		<item>
+			<title>👍💵Khalil Hamiduddin - SEIU6</title>
+			<description>Khalil Hamiduddin signed up to testify Pro. They are signed up to represent SEIU6. They are a registered lobbyist.</description>
+			<pubDate>Sun, 16 Mar 2025 12:30:32 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Khalil/Hamiduddin/2025-03-16 12:30:32</guid>
 		</item>
 	</channel>
 </rss>

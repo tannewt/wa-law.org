@@ -9,6 +9,8 @@
 * [Engrossed Substitute](S.E/)
 
 ## 📰 Articles
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205480)
+* 03/14/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall on March 17 - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/03/14/town-hall-on-march-17/#:~:text=SB%205480)
 * 03/13/2025 [Senate Democrats](/org/senate_democrats/) - [Town Hall coming up March 22 - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/03/13/town-hall-coming-up-march-22/#:~:text=Senate%20Bill%205480)
 * 02/27/2025 [Senate Democrats](/org/senate_democrats/) - [Senate passes bill to remove medical debt from credit score reporting - Sen. Marcus Riccelli](https://senatedemocrats.wa.gov/riccelli/2025/02/27/senate-passes-bill-to-remove-medical-debt-from-credit-score-reporting/#:~:text=Senate%20Bill%205480)
 * 02/27/2025 [Washington State Standard](/org/washington_state_standard/) - [Washington could exempt medical debt from credit reports • Washington State Standard](https://washingtonstatestandard.com/2025/02/26/washington-could-exempt-medical-debt-from-credit-reports/#:~:text=Senate%20Bill%205480)
@@ -30,9 +32,19 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165781&caId=26468&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33089&aId=165781&caId=26468&tId=4)
 
-#### 178 👍 - Pro
+#### 358 👍 - Pro
+Testifying:
+* Katerina LaMarche - Washington State Hospital Association (WSHA)
+* Lonnie Johns-Brown - Health Care For All Washington
+* Adam Zarrij - The Leukemia & Lymphoma Society
+* Amanda Martin - [Northwest Consumer Law Center](/org/northwest_consumer_law_center/)
+* Julia Kellison - [Northwest Justice Project](/org/northwest_justice_project/)
+* Jeremy Griffin
 
-#### 0 👎 - Con
+#### 51 👎 - Con
+Testifying:
+* Elizabeth New - Washington Policy Center
+* Kris Quigley - CDIA
 
 #### 0 ❓ - Other
 

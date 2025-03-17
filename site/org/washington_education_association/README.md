@@ -115,7 +115,8 @@
 ### [HB 1289](/bill/2025-26/hb/1289/) - Public school survey info.   ❓1
 * ❓💵 Nasue Nishida
 
-### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍2  
+* 👍💵 Nasue Nishida
 * 👍💵 Nasue Nishida
 
 ### [HB 1308](/bill/2025-26/hb/1308/) - Access to personnel records 👍1  
@@ -185,7 +186,7 @@
 
 ### [HB 1514](/bill/2025-26/hb/1514/) - Low carbon thermal energy 👍1  
 
-### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees 👍2  
+### [HB 1524](/bill/2025-26/hb/1524/) - Isolated employees 👍3  
 
 ### [HB 1538](/bill/2025-26/hb/1538/) - Capital assistance/schools   ❓1
 
@@ -222,7 +223,7 @@
 ### [HB 1642](/bill/2025-26/hb/1642/) - Pension plan choice 👍3  
 * 👍 Jared Mason-Gere
 
-### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent. 👍1 👎1 
+### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent. 👍3 👎1 
 * 👎💵 Lorrell Noahr
 * 👍💵 Lorrell Noahr
 
@@ -248,7 +249,7 @@
 
 ### [HB 1777](/bill/2025-26/hb/1777/) - Apprenticeship approval  👎1 
 
-### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍1  
+### [HB 1788](/bill/2025-26/hb/1788/) - Workers' compensation 👍2  
 
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation   ❓1
 * ❓ Jared Mason-Gere
@@ -270,7 +271,7 @@
 
 ### [HB 1843](/bill/2025-26/hb/1843/) - Students/unemployment ins. 👍2  
 
-### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍2  
 
 ### [HB 1881](/bill/2025-26/hb/1881/) - Health care marketplace 👍1  
 
@@ -298,7 +299,7 @@
 
 ### [SB 5040](/bill/2025-26/sb/5040/) - Uniformed personnel 👍1  
 
-### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍2  
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍5  
 
 ### [SB 5043](/bill/2025-26/sb/5043/) - PTSD/correctional workers 👍1  
 
@@ -358,7 +359,7 @@
 
 ### [SB 5121](/bill/2025-26/sb/5121/) - Fertility-related services 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍2  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍4  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 
@@ -398,11 +399,11 @@
 
 ### [SB 5191](/bill/2025-26/sb/5191/) - Dockworkers/family leave 👍2  
 
-### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍7  
+### [SB 5192](/bill/2025-26/sb/5192/) - School district materials 👍10  
 * 👍💵 Julie Salvi
 * 👍💵 Julie Salvi
 
-### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍1  
+### [SB 5193](/bill/2025-26/sb/5193/) - Remote testing 👍2  
 
 ### [SB 5195](/bill/2025-26/sb/5195/) - Capital budget 👍1  
 
@@ -424,9 +425,10 @@
 
 ### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍3  
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍9  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍10  
 * 👍💵 Larry Delaney
 * 👍 Martha Patterson
+* 👍💵 Larry Delaney
 
 ### [SB 5265](/bill/2025-26/sb/5265/) - Electrical inspector exp.  👎1 
 
@@ -497,6 +499,10 @@
 
 ### [SB 5473](/bill/2025-26/sb/5473/) - Law enforcement arbitration 👍1  
 
+### [SB 5478](/bill/2025-26/sb/5478/) - Authorized PEBB benefits 👍1  
+
+### [SB 5480](/bill/2025-26/sb/5480/) - Medical debt 👍1  
+
 ### [SB 5493](/bill/2025-26/sb/5493/) - Hospital price transparency 👍2  
 
 ### [SB 5496](/bill/2025-26/sb/5496/) - Home buying by entities 👍1  
@@ -559,7 +565,7 @@
 ### [SB 5737](/bill/2025-26/sb/5737/) - National board bonuses  👎7 
 * 👎💵 Larry Delaney
 
-### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍1  
+### [SB 5738](/bill/2025-26/sb/5738/) - Retired employees/work 👍2  
 
 ### [SB 5752](/bill/2025-26/sb/5752/) - Child care & early dev.  👎1 
 

@@ -16,13 +16,16 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165759&caId=26427&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33087&aId=165759&caId=26427&tId=4)
 
-#### 15 👍 - Pro
+#### 204 👍 - Pro
 Testifying:
 * 💵Brittany Benesi - ASPCA
 * Dr. Jennifer Stonequist - Kitsap Humane Society
 * Cat Kelly - [Animal Legal Defense Fund](/org/animal_legal_defense_fund/)
+* Sarah Hock - Joint Animal Services
+* 💵Stephanie Hillman - Seattle Humane
+* 💵Ann Simons - Kitsap Humane Society
 
-#### 0 👎 - Con
+#### 3 👎 - Con
 
 #### 0 ❓ - Other
 

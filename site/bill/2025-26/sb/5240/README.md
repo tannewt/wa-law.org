@@ -19,7 +19,10 @@ Sign up to testify:
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Erica Hallock - School Nurse Organization of Washington (SNOW)
+* Liz Pray - School Nurse Organization of Washington (SNOW)
 
 ### Wed 01/29 10:30 AM - Early Learning & K-12 Education (EDU): SB 5240 Anaphylaxis med. in schools
 #### 8 👍 - Pro

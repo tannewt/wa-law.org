@@ -34,7 +34,7 @@
 
 ### [HB 1773](/bill/2025-26/hb/1773/) - Wage replacement 👍2  
 
-### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍1  
+### [HB 1875](/bill/2025-26/hb/1875/) - Sick leave/immigration 👍2  
 
 ### [HB 1987](/bill/2025-26/hb/1987/) - Food security strategy 👍1  
 

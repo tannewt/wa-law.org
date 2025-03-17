@@ -3,7 +3,7 @@
 
 ### [HB 1096](/bill/2025-26/hb/1096/) - Lot splitting  👎1 
 
-### [HB 1183](/bill/2025-26/hb/1183/) - Building codes  👎1 
+### [HB 1183](/bill/2025-26/hb/1183/) - Building codes  👎2 
 
 ### [HB 1380](/bill/2025-26/hb/1380/) - Public property regulations  👎1 
 * 👎 Salim Nice

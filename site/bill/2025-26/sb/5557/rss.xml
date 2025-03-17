@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/sb/5557/</link>
 		<description>Updates about SB 5557</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Mar 2025 21:15:48 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 16 Mar 2025 02:00:35 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -173,6 +173,28 @@
 			<pubDate>Mon, 10 Mar 2025 21:15:48 GMT</pubDate>
 			<category>news</category>
 			<guid isPermaLink="true">https://senatedemocrats.wa.gov/Krishnadasan/2025/03/10/halfway-there/#:~:text=5557</guid>
+		</item>
+		<item>
+			<title>Town hall on March 17 - Sen. Emily Alvarado</title>
+			<description>News article "Town hall on March 17 - Sen. Emily Alvarado" from Senate Democrats.</description>
+			<pubDate>Fri, 14 Mar 2025 20:55:28 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://senatedemocrats.wa.gov/alvarado/2025/03/14/town-hall-on-march-17/#:~:text=SB%205557</guid>
+		</item>
+		<item>
+			<title>The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans</title>
+			<description>News article "The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans" from House Republicans.</description>
+			<pubDate>Fri, 14 Mar 2025 21:10:24 GMT</pubDate>
+			<category>news</category>
+			<guid isPermaLink="true">https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205557</guid>
+		</item>
+		<item>
+			<title>👎Theresa Schrempp - theresaschrempp922@gmail.com</title>
+			<description>Theresa Schrempp signed up to testify Con. They are signed up to represent theresaschrempp922@gmail.com.</description>
+			<pubDate>Sun, 16 Mar 2025 02:00:35 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Theresa/Schrempp/2025-03-16 02:00:35</guid>
 		</item>
 	</channel>
 </rss>

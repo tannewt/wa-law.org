@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205331)
+
 ## Meetings
 ### Wed 03/19 01:30 PM - Consumer Protection & Business (CPB): SSB 5331 Insurance code violations
 Sign up to testify:
@@ -15,9 +18,12 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33090&aId=165784&caId=26470&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33090&aId=165784&caId=26470&tId=4)
 
-#### 62 👍 - Pro
+#### 118 👍 - Pro
+Testifying:
+* Bryon Welch - Office of the Insurance Commissioner
+* Patty Kuderer - Office of the Insurance Commissioner
 
-#### 0 👎 - Con
+#### 56 👎 - Con
 
 #### 0 ❓ - Other
 

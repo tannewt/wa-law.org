@@ -13,6 +13,42 @@
 * 02/24/2025 [Senate Republicans](/org/senate_republicans/) - [BILL ALERT: Senate and House budget committees hearing bills this week to raise taxes/fees - Senate Republican Caucus](https://src.wastateleg.org/blog/bill-alert-senate-house-budget-committees-hearing-bills-week-raise-taxes-fees/#:~:text=SB%205576)
 
 ## Meetings
+### Tue 03/18 08:00 AM - Finance (FIN): ESSB 5576 Affordable housing funding
+Sign up to testify:
+* [I would like to testify in person during the hearing](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33015&aId=165944&caId=26600&tId=1)
+* [I would like to testify remotely](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33015&aId=165944&caId=26600&tId=2)
+* [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33015&aId=165944&caId=26600&tId=3)
+* [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33015&aId=165944&caId=26600&tId=4)
+
+#### 21 👍 - Pro
+Testifying:
+* Carl Florea - [City of Leavenworth](/org/city_of_leavenworth/)
+* Judy Lightfoot
+* Caitlin Sullivan
+* Laurel Cripe
+* Caitlin Sullivan
+* Councilmember Lindsey Schromen-Wawrin
+* Barbara Rossing - Faith Lutheran Church
+* Kurt Peterson
+
+#### 89 👎 - Con
+Testifying:
+* Richard Moser - Washington Hosts Collaborative Alliance
+* Allison Moser - Washington Hosts Collaborative Alliance
+* Ann Jolie
+* Carolyn Allen - Washington Hosts Collaborative Alliance
+* Thomas McCarthy
+* Hernan Savastano
+* 💵Rose Feliciano - TechNet
+* Leslie Hubbard
+* Bradford Augustine - Madrona Real Estate Services, LLC
+* Ken Ploeger - Seattle Airbnb Hosts Group
+* Steve Carr
+* Zaida Edmundson
+* Dushyant Khatri
+
+#### 0 ❓ - Other
+
 ### Tue 02/25 01:30 PM - Ways & Means (WM): SB 5576 Affordable housing funding
 #### 43 👍 - Pro
 Testifying:

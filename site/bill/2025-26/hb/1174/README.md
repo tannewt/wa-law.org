@@ -20,14 +20,14 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165618&caId=26423&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33060&aId=165618&caId=26423&tId=4)
 
-#### 6 👍 - Pro
+#### 10 👍 - Pro
 Testifying:
 * Brittany Gregory - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * James Wells - [Administrative Office of the Courts](/org/administrative_office_of_the_courts/)
 * Luisa Gracia
 * Michael Diaz - Interpreter And Language Access Commission (ILAC)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
 #### 0 ❓ - Other
 

@@ -12,7 +12,7 @@
 
 ### [HB 1064](/bill/2025-26/hb/1064/) - System improvement team 👍1  
 
-### [HB 1109](/bill/2025-26/hb/1109/) - Public facilities districts 👍1  
+### [HB 1109](/bill/2025-26/hb/1109/) - Public facilities districts 👍2  
 
 ### [HB 1210](/bill/2025-26/hb/1210/) - Urban area tax preferences 👍1  
 
@@ -30,6 +30,8 @@
 ### [HB 1303](/bill/2025-26/hb/1303/) - Environmental justice  👎3 
 * 👎💵 Carly Michiels
 * 👎💵 Carly Michiels
+
+### [HB 1309](/bill/2025-26/hb/1309/) - Burrowing shrimp 👍1  
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 
@@ -49,6 +51,8 @@
 
 ### [HB 1549](/bill/2025-26/hb/1549/) - Responsible bidder criteria   ❓1
 * ❓ Chris Herman
+
+### [HB 1573](/bill/2025-26/hb/1573/) - Oath of office timing/local 👍1  
 
 ### [HB 1622](/bill/2025-26/hb/1622/) - Collective bargaining/AI use   ❓1
 * ❓💵 James Cockburn
@@ -135,9 +139,9 @@
 
 ### [SB 5464](/bill/2025-26/sb/5464/) - CDL federal standards 👍1  
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍1  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
 
-### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍1  
+### [SB 5492](/bill/2025-26/sb/5492/) - Tourism promotion 👍2  
 
 ### [SB 5519](/bill/2025-26/sb/5519/) - Ocean vessels/environment  👎1 
 * 👎💵 Carly Michiels

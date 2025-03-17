@@ -16,11 +16,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33048&aId=165589&caId=26446&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33048&aId=165589&caId=26446&tId=4)
 
-#### 1 👍 - Pro
+#### 10 👍 - Pro
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* Chris Maykut - Friends of Bumping Lake
 
 ### Fri 03/14 10:30 AM - Agriculture and Natural Resources (AGNR): ESSB 5303 Yakima basin water plan
 #### 0 👍 - Pro

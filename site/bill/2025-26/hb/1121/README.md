@@ -15,7 +15,9 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165870&caId=26569&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165870&caId=26569&tId=4)
 
-#### 3 👍 - Pro
+#### 88 👍 - Pro
+Testifying:
+* Dakota Manley - Washington State Young Republicans
 
 #### 0 👎 - Con
 

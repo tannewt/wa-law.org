@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1875/</link>
 		<description>Updates about HB 1875</description>
 		<language>en-US</language>
-		<lastBuildDate>Mon, 10 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 16 Mar 2025 05:35:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -202,6 +202,30 @@
 			<pubDate>Mon, 10 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-10/First reading, referred to Labor &amp; Commerce.</guid>
+		</item>
+		<item>
+			<title>👎Sandra Mochizuki - L'Oreal</title>
+			<description>Sandra Mochizuki signed up to testify Con.</description>
+			<pubDate>Sun, 16 Mar 2025 01:24:33 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Sandra/Mochizuki/2025-03-16 01:24:33</guid>
+		</item>
+		<item>
+			<title>👎Ronald Mochizuki - L'Oreal</title>
+			<description>Ronald Mochizuki signed up to testify Con.</description>
+			<pubDate>Sun, 16 Mar 2025 01:25:14 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/Ronald/Mochizuki/2025-03-16 01:25:14</guid>
+		</item>
+		<item>
+			<title>👎TaraLyn Fray - L'Oreal</title>
+			<description>TaraLyn Fray signed up to testify Con.</description>
+			<pubDate>Sun, 16 Mar 2025 05:35:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Con</category>
+			<guid isPermaLink="false">testifier/TaraLyn/Fray/2025-03-16 05:35:49</guid>
 		</item>
 	</channel>
 </rss>

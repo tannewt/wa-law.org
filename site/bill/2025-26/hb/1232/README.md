@@ -22,11 +22,11 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165726&caId=26407&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33076&aId=165726&caId=26407&tId=4)
 
-#### 254 👍 - Pro
+#### 421 👍 - Pro
 
-#### 1 👎 - Con
+#### 45 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 02/19 04:00 PM - Appropriations (APP): SHB 1232 Private detention facilities
 #### 336 👍 - Pro

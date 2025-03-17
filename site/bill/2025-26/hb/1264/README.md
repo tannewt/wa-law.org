@@ -21,13 +21,22 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33051&aId=165844&caId=26434&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33051&aId=165844&caId=26434&tId=4)
 
-#### 1 👍 - Pro
+#### 36 👍 - Pro
 Testifying:
 * Robert Hodge - Boilermakers local 104
+* Jeff Coughlin
+* Chris Schneider - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
+* Nick Twietmeyer - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
+* Eric Winge - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
+* Felix Tapley - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
+* Alex Zecha - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
+* Greg Poor - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
+* Phil Wolf - [Marine Engineers' Beneficial Association](/org/marine_engineers'_beneficial_association/)
+* Peter Hart - Inland Boatmen's Union
 
 #### 0 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Mon 02/17 04:00 PM - Transportation (TR): HB 1264 Ferry system salaries
 #### 34 👍 - Pro

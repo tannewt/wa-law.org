@@ -20,11 +20,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165672&caId=26498&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33031&aId=165672&caId=26498&tId=4)
 
-#### 197 👍 - Pro
+#### 562 👍 - Pro
 
-#### 0 👎 - Con
+#### 820 👎 - Con
+Testifying:
+* Matthew Jackmond - A long time WA Resident and a very concerned taxpayer!
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
 
 ### Tue 02/18 10:30 AM - Health & Long Term Care (HLTC): SB 5498 Contraceptive coverage
 #### 540 👍 - Pro

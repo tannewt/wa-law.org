@@ -27,13 +27,19 @@
 * 👎 Salina Lyons
 * ❓ Salina Lyons
 
+### [SB 5503](/bill/2025-26/sb/5503/) - Public employee bargaining  👎1 
+
 ### [SB 5587](/bill/2025-26/sb/5587/) - Affordable housing dev.   ❓1
 
-## [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax   ❓1
+### [SB 5591](/bill/2025-26/sb/5591/) - Affordable housing/sales tax   ❓1
+
+### [SB 5719](/bill/2025-26/sb/5719/) - Local gov. hearing examiners   ❓1
+
+## [SB 5729](/bill/2025-26/sb/5729/) - Housing permitting  👎1 
 
 ## 2023-24
 
-### [SB 5591](/bill/2023-24/sb/5591/) - Affordable housing/sales tax   ❓1
+### [SB 5729](/bill/2023-24/sb/5729/) - Housing permitting  👎1 
 
 ### [HB 1110](/bill/2023-24/hb/1110/) - Middle housing   ❓1
 

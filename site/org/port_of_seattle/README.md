@@ -41,7 +41,8 @@
 
 ### [HB 1595](/bill/2025-26/hb/1595/) - Economic development plan 👍1  
 
-### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍1  
+### [HB 1631](/bill/2025-26/hb/1631/) - State marine forest 👍2  
+* 👍 Fred Felleman
 
 ### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment   ❓1
 * ❓ John Flanagan
@@ -69,7 +70,7 @@
 
 ### [SB 5259](/bill/2025-26/sb/5259/) - Commercial fishing bait tax 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 
 ### [SB 5358](/bill/2025-26/sb/5358/) - Career & tech. ed./6th grade 👍1  
 

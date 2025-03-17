@@ -43,6 +43,9 @@
 
 ### [HB 1212](/bill/2025-26/hb/1212/) - Child care center siting 👍2  
 
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants  👎1 
+* 👎💵 Brent Ludeman
+
 ### [HB 1235](/bill/2025-26/hb/1235/) - GMA housing element 👍1  
 * 👍💵 Brent Ludeman
 

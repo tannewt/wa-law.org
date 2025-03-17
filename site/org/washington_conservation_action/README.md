@@ -13,7 +13,7 @@
 
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 
-### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍2  
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍3  
 * 👍💵 Clifford Traisman
 * 👍💵 Clifford Traisman
 
@@ -26,7 +26,7 @@
 
 ### [HB 1543](/bill/2025-26/hb/1543/) - Clean buildings standard 👍1  
 
-### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍1  
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
 
 ### [HB 1652](/bill/2025-26/hb/1652/) - Ocean vessels/environment 👍1  
 
@@ -42,8 +42,9 @@
 
 ### [HB 1847](/bill/2025-26/hb/1847/) - Distributed alt. energy dev. 👍1  
 
-### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex.   ❓1
+### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex. 👍1  ❓1
 * ❓💵 Clifford Traisman
+* 👍💵 Clifford Traisman
 
 ### [HB 1975](/bill/2025-26/hb/1975/) - Climate commitment act   ❓2
 * ❓ Caitlin Krenn
@@ -60,7 +61,8 @@
 
 ### [SB 5236](/bill/2025-26/sb/5236/) - Anesthetics/greenhouse gases 👍1  
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍1  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍2  
+* 👍 Cliff Traisman
 
 ### [SB 5305](/bill/2025-26/sb/5305/) - Salmon recovery accelerator  👎1 
 * 👎 Mindy Roberts
@@ -76,8 +78,9 @@
 ### [SB 5450](/bill/2025-26/sb/5450/) - Sewage-containing spills 👍3  
 * 👍💵 Darcy Nonemacher
 
-### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍2  
+### [SB 5466](/bill/2025-26/sb/5466/) - Electric transmission system 👍3  
 * 👍 Caitlin Krenn
+* 👍💵 Clifford Traisman
 
 ### [SB 5491](/bill/2025-26/sb/5491/) - Prescribed fire claims 👍1  
 

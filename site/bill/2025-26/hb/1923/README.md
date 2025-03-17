@@ -22,14 +22,23 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33051&aId=165848&caId=26435&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33051&aId=165848&caId=26435&tId=4)
 
-#### 108 👍 - Pro
+#### 364 👍 - Pro
 Testifying:
+* Jake Beattie - Northwest Maritime
+* Vicky de Monterey Richoux - VashonBePrepared
 * Peter Philips - Des Moines and Vashon Island
 * Councilmember Justin Paulsen - San Juan County Council
+* Justin Paulsen - San Juan County Council (Council member)
+* Jane Fuller - San Juan County Council
+* Jeff Coughlin
+* Ashley Mathews - Mayor City of Bainbridge Island
+* Walt Elliott - Kingston North Kitsap Rotary
+* Bruce Agnew - Pacific NW Economic Region Accelerator
+* Dylan Doty - [Kitsap Transit](/org/kitsap_transit/)
 
-#### 1 👎 - Con
+#### 3 👎 - Con
 
-#### 1 ❓ - Other
+#### 2 ❓ - Other
 
 ### Wed 02/19 04:00 PM - Transportation (TR): HB 1923 Passenger-only ferries
 #### 783 👍 - Pro

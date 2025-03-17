@@ -20,16 +20,17 @@
 ### [HB 1328](/bill/2025-26/hb/1328/) - Clean energy development 👍1  
 * 👍💵 Justin Allegro
 
-### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍1  
+### [HB 1409](/bill/2025-26/hb/1409/) - Clean fuels program 👍2  
 
 ### [HB 1508](/bill/2025-26/hb/1508/) - Ecosystem services   ❓1
 * ❓ Skippy Shaw
 
 ### [HB 1539](/bill/2025-26/hb/1539/) - Wildfire protection 👍2  
 
-### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍2  
+### [HB 1563](/bill/2025-26/hb/1563/) - Prescribed fire claims 👍3  
 * 👍 Emily Hohman
 * 👍 Skippy Shaw
+* 👍 Mark Charlton
 
 ### [HB 1588](/bill/2025-26/hb/1588/) - Organic, etc. agriculture 👍1  
 
@@ -47,7 +48,7 @@
 
 ### [HB 1903](/bill/2025-26/hb/1903/) - Low-income energy assistance 👍1  
 
-### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex.   ❓1
+### [HB 1912](/bill/2025-26/hb/1912/) - Agricultural fuel/CCA ex. 👍1  ❓1
 * ❓💵 David Mendoza
 
 ### [HB 1960](/bill/2025-26/hb/1960/) - Renewable energy 👍1  
@@ -71,7 +72,7 @@
 
 ### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
 
-### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
+### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍2  
 
 ### [SB 5359](/bill/2025-26/sb/5359/) - Clean energy development 👍2  
 * 👍💵 Justin Allegro

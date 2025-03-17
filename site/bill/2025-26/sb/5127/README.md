@@ -15,9 +15,13 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33027&aId=165713&caId=26542&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33027&aId=165713&caId=26542&tId=4)
 
-#### 1 👍 - Pro
+#### 5 👍 - Pro
+Testifying:
+* Jill Johnson - Department of Licensing
 
-#### 1 👎 - Con
+#### 59 👎 - Con
+Testifying:
+* Sandra Brock
 
 #### 0 ❓ - Other
 

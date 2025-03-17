@@ -10,6 +10,8 @@
 * [Engrossed Second Substitute](S2.E/)
 
 ## 📰 Articles
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205284)
+* 03/14/2025 [Senate Democrats](/org/senate_democrats/) - [Town hall on March 17 - Sen. Emily Alvarado](https://senatedemocrats.wa.gov/alvarado/2025/03/14/town-hall-on-march-17/#:~:text=(SB%205284))
 * 03/13/2025 [Washington State Standard](/org/washington_state_standard/) - [What bills are still dead and alive in the Washington Legislature • Washington State Standard](https://washingtonstatestandard.com/2025/03/13/what-bills-are-still-dead-and-alive-in-the-washington-legislature/#:~:text=Senate%20Bill%205284)
 * 03/08/2025 [Washington State Standard](/org/washington_state_standard/) - [Recycling system overhaul bill clears Washington Senate • Washington State Standard](https://washingtonstatestandard.com/2025/03/07/recycling-system-overhaul-bill-clears-washington-senate/#:~:text=Senate%20Bill%205284)
 * 03/07/2025 [Senate Democrats](/org/senate_democrats/) - [Senate approves plan to modernize state’s recycling system - Washington Senate Democrats](https://senatedemocrats.wa.gov/blog/2025/03/07/senate-approves-plan-to-modernize-states-recycling-system/#:~:text=progress%20here)
@@ -26,21 +28,44 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165565&caId=26487&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33042&aId=165565&caId=26487&tId=4)
 
-#### 221 👍 - Pro
+#### 1387 👍 - Pro
 Testifying:
 * Sydney Harris - [Upstream](/org/upstream/)
+* 💵Caleb Weaver - [Ridwell](/org/ridwell/)
+* Amy Ockerlander - [Association of Washington Cities](/org/association_of_washington_cities/)
+* Cliff Traisman - [Washington Conservation Action](/org/washington_conservation_action/)
+* Zack Zappone - [City of Spokane](/org/city_of_spokane/)
+* Allison Kustic - Association of Plastic Recyclers
+* Dylan de Thomas - [The Recycling Partnership](/org/the_recycling_partnership/)
+* 💵Kelsey Hulse - EPR Leadership Forum
+* 💵Christoph Mair - Washington State Labor Council, AFL-CIO
+* 💵Brooke Davies - [Washington Beverage Association](/org/washington_beverage_association/)
+* 💵Edwin Borbon - AMERIPEN
 
-#### 23 👎 - Con
+#### 807 👎 - Con
 Testifying:
 * 💵Mark Johnson - [Washington Retail Association](/org/washington_retail_association/)
+* 💵Katie Beeson - Washington Food Industry Association (WFIA)
 * 💵Jay Balasbas - Basin Disposal and Consolidated Disposal Services Inc.
 * 💵Lyset Cadena - WM (Waste Management)
 * 💵Vicki Christophersen - Washington Refuse and Recycling Association
 * Brian Coddington - Sunshine Disposal & Recycling
+* 💵Samantha Louderback - [Washington Hospitality Association](/org/washington_hospitality_association/)
+* Wendy Weiker - [Republic Services](/org/republic_services/)
+* David Jacober - Retired
+* Sandra Brock
+* Sandra Mochizuki
+* Ted Carlson - Sanitary Service Company
+* 💵Brandon Houskeeper - NW Grocery Retail Association
+* TaraLyn Fray
+* Brad Lovaas - Washington Refuse and Recycling Association
+* 💵Jay Balasbas - Basin Disposal and Consolidated Disposal Services Inc.
+* 💵Lyset Cadena - WM (Waste Management)
 
-#### 1 ❓ - Other
+#### 7 ❓ - Other
 Testifying:
 * Tom Davis - [Washington Forest Protection Association](/org/washington_forest_protection_association/)
+* 💵Amber Carter - [Coalition for Protein Packaging](/org/coalition_for_protein_packaging/)
 
 ### Mon 02/24 01:30 PM - Ways & Means (WM): SSB 5284 Solid waste management
 #### 864 👍 - Pro

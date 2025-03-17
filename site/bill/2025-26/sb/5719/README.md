@@ -16,11 +16,17 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33101&aId=165888&caId=26572&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33101&aId=165888&caId=26572&tId=4)
 
-#### 0 👍 - Pro
+#### 59 👍 - Pro
+Testifying:
+* Joseph Tovar - [American Planning Association Washington Chapter](/org/american_planning_association_washington_chapter/)
+* Mike Nykreim - Newport West LLC
+* 💵Blake Baldwin - [Hayden Homes](/org/hayden_homes/)
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 2 ❓ - Other
+Testifying:
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 ### Mon 02/17 01:30 PM - Local Government, Land Use & Tribal Affairs (LGLT): SB 5719 Local gov. hearing examiners
 #### 38 👍 - Pro

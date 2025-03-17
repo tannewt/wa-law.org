@@ -17,11 +17,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165777&caId=26412&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33057&aId=165777&caId=26412&tId=4)
 
-#### 1 👍 - Pro
+#### 23 👍 - Pro
+Testifying:
+* 💵Erin Frasier - WA State Building & Construction Trades Council
 
-#### 0 👎 - Con
+#### 2 👎 - Con
 
-#### 0 ❓ - Other
+#### 1 ❓ - Other
+Testifying:
+* 💵Greg Hanon - Western States Petroleum Assoc.
 
 ### Wed 01/15 08:00 AM - Labor & Workplace Standards (LAWS): HB 1173 High-hazard facility wages
 #### 454 👍 - Pro

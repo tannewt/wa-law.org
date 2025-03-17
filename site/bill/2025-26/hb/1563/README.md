@@ -17,9 +17,20 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165840&caId=26368&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33024&aId=165840&caId=26368&tId=4)
 
-#### 75 👍 - Pro
+#### 333 👍 - Pro
+Testifying:
+* Cody Desautel - Colville Tribes
+* Dylan Kruse - Sustainable NW
+* Lucas King - WA Prescribed Fire Council; Mt. Adams Resource Stewards
+* Mark Charlton - [The Nature Conservancy](/org/the_nature_conservancy/)
+* Sara Clark - Shute, Mihaly & Weinberger
+* Pat Sullivan - [Department of Natural Resources](/org/department_of_natural_resources/)
+* Sandra Brock
 
-#### 0 👎 - Con
+#### 441 👎 - Con
+Testifying:
+* Sandra Mochizuki
+* TaraLyn Fray
 
 #### 0 ❓ - Other
 

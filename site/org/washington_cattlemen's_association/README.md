@@ -27,6 +27,8 @@
 
 ### [SB 5303](/bill/2025-26/sb/5303/) - Yakima basin water plan 👍1  
 
+### [SB 5343](/bill/2025-26/sb/5343/) - NE WA wolf-livestock account 👍1  
+
 ### [SB 5354](/bill/2025-26/sb/5354/) - Gray wolf management 👍1  
 * 👍💵 Mark Streuli
 

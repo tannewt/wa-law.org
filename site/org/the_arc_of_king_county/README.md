@@ -6,7 +6,7 @@
 ### [HB 1051](/bill/2025-26/hb/1051/) - IEP team meetings/recording 👍2  
 * 👍💵 Ramona Hattendorf
 
-### [HB 1130](/bill/2025-26/hb/1130/) - Concerning utilization of developmental disabilities waivers. 👍1 👎1 
+### [HB 1130](/bill/2025-26/hb/1130/) - Concerning utilization of developmental disabilities waivers. 👍2 👎1 
 
 ### [HB 1177](/bill/2025-26/hb/1177/) - Child welfare housing assist 👍1  
 
@@ -17,7 +17,7 @@
 
 ### [HB 1216](/bill/2025-26/hb/1216/) - Capital budget 👍1  
 
-### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍2  
+### [HB 1217](/bill/2025-26/hb/1217/) - Residential tenants 👍3  
 
 ### [HB 1220](/bill/2025-26/hb/1220/) - Concerning appropriate response to assaults by individuals in behavioral health crisis. 👍1  
 
@@ -45,6 +45,8 @@
 ### [HB 1448](/bill/2025-26/hb/1448/) - Local elections   ❓1
 * ❓💵 Esther Warwick
 
+### [HB 1472](/bill/2025-26/hb/1472/) - Yakima & Rainier schools 👍1  
+
 ### [HB 1493](/bill/2025-26/hb/1493/) - DDA employment services age 👍1  
 
 ### [HB 1795](/bill/2025-26/hb/1795/) - Student restraint, isolation 👍1  
@@ -59,7 +61,7 @@
 
 ### [SB 5112](/bill/2025-26/sb/5112/) - Prescribing psychologists 👍1  
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍3  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍4  
 
 ### [SB 5126](/bill/2025-26/sb/5126/) - Student mental health net. 👍1  
 
@@ -67,6 +69,8 @@
 * ❓💵 Ramona Hattendorf
 * ❓💵 Ramona Hattendorf
 * ❓💵 Ramona Hattendorf
+
+### [SB 5177](/bill/2025-26/sb/5177/) - Considering the experiences of historically marginalized and underrepresented groups when identifying professional development resources on certain topics. 👍1  
 
 ### [SB 5179](/bill/2025-26/sb/5179/) - Education complaint process 👍5  
 * 👍💵 Ramona Hattendorf
@@ -81,9 +85,9 @@
 
 ### [SB 5222](/bill/2025-26/sb/5222/) - Residential tenants 👍1  
 
-### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍2  
+### [SB 5253](/bill/2025-26/sb/5253/) - Special education services 👍3  
 
-### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍3  
+### [SB 5263](/bill/2025-26/sb/5263/) - Special education funding 👍4  
 * 👍💵 Ramona Hattendorf
 
 ### [SB 5279](/bill/2025-26/sb/5279/) - Child care provider qualif. 👍1  
@@ -102,9 +106,11 @@
 
 ### [SB 5393](/bill/2025-26/sb/5393/) - Yakima & Rainier schools 👍1  
 
-### [SB 5394](/bill/2025-26/sb/5394/) - DDA no-paid services  👎1 
+### [SB 5394](/bill/2025-26/sb/5394/) - DDA no-paid services  👎2 
 
 ### [SB 5427](/bill/2025-26/sb/5427/) - Children in crisis program 👍1  
+
+### [SB 5469](/bill/2025-26/sb/5469/) - Rental housing market 👍1  
 
 ### [SB 5504](/bill/2025-26/sb/5504/) - Complex care serv./children 👍1  
 
@@ -115,6 +121,8 @@
 ### [SB 5654](/bill/2025-26/sb/5654/) - Student restraint, isolation 👍1  
 
 ### [SB 5680](/bill/2025-26/sb/5680/) - Mobility equipment repair 👍2  
+
+### [SB 5696](/bill/2025-26/sb/5696/) - Mental health treatment/tax 👍1  
 
 ### [SB 5731](/bill/2025-26/sb/5731/) - Tenant assistance program  👎1 
 

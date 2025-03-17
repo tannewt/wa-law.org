@@ -5,7 +5,7 @@
 		<link>https://wa-law.org/bill/2025-26/hb/1615/</link>
 		<description>Updates about HB 1615</description>
 		<language>en-US</language>
-		<lastBuildDate>Wed, 12 Mar 2025 00:00:00 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 14 Mar 2025 12:41:49 GMT</lastBuildDate>
 		<generator>rfeed v1.1.1</generator>
 		<docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
 		<item>
@@ -78,6 +78,14 @@
 			<pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
 			<category>official</category>
 			<guid isPermaLink="false">2025-03-12/First reading, referred to Agriculture &amp; Natural Resources.</guid>
+		</item>
+		<item>
+			<title>👍Jack Dunne - South Head Water Association</title>
+			<description>Jack Dunne signed up to testify Pro. They are signed up to represent South Head Water Association.</description>
+			<pubDate>Fri, 14 Mar 2025 12:41:49 GMT</pubDate>
+			<category>testifier</category>
+			<category>Pro</category>
+			<guid isPermaLink="false">testifier/Jack/Dunne/2025-03-14 12:41:49</guid>
 		</item>
 	</channel>
 </rss>

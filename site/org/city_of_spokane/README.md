@@ -24,8 +24,9 @@
 * 👍 Zack Zappone
 * 👍 Council Member Zack Zappone
 
-### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍3  
+### [SB 5284](/bill/2025-26/sb/5284/) - Solid waste management 👍4  
 * 👍 Marlene Feist
+* 👍 Zack Zappone
 
 ### [SB 5558](/bill/2025-26/sb/5558/) - Growth management comp plans 👍1  
 * 👍💵 Paul Dillon

@@ -7,6 +7,9 @@
 * [Original Bill](1/)
 * [Substitute Bill](S/)
 
+## 📰 Articles
+* 03/14/2025 [House Republicans](/org/house_republicans/) - [The Week Ahead: March 17 - 21, 2025 | Washington State House Republicans](https://houserepublicans.wa.gov/week/the-week-ahead-march-17-21-2025/#:~:text=SB%205292)
+
 ## Meetings
 ### Tue 03/18 10:30 AM - Labor & Workplace Standards (LAWS): SSB 5292 Family & medical leave rates
 Sign up to testify:
@@ -17,7 +20,11 @@ Sign up to testify:
 
 #### 1 👍 - Pro
 
-#### 0 👎 - Con
+#### 317 👎 - Con
+Testifying:
+* TaraLyn Fray
+* Sandra Mochizuki
+* Ronald Mochizuki
 
 #### 0 ❓ - Other
 

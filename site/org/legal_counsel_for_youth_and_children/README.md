@@ -76,7 +76,7 @@
 
 ### [SB 5105](/bill/2025-26/sb/5105/) - Sexually explicit depictions   ❓1
 
-### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍2  
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍3  
 
 ### [SB 5128](/bill/2025-26/sb/5128/) - Juvenile detention, medical 👍1  
 

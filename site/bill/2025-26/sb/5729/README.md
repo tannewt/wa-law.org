@@ -18,9 +18,15 @@ Sign up to testify:
 * [I would like my position noted for the legislative record](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33100&aId=165887&caId=26571&tId=3)
 * [I would like to submit written testimony](https://app.leg.wa.gov/csi/Testifier/Add?chamber=House&mId=33100&aId=165887&caId=26571&tId=4)
 
-#### 1 👍 - Pro
+#### 71 👍 - Pro
+Testifying:
+* Mike Nykreim - Newport West LLC
+* Samuel Hooper - Institute for Justice / Legislative Counsel
+* 💵Alex Hur - Master Builders Association of King and Snohomish Counties
 
-#### 0 👎 - Con
+#### 4 👎 - Con
+Testifying:
+* 💵Curtis Steinhauer - [Washington State Association of Counties](/org/washington_state_association_of_counties/)
 
 #### 0 ❓ - Other
 

@@ -1,6 +1,8 @@
 # Washington Library Association
 ## 2025-26
 
+### [HB 1296](/bill/2025-26/hb/1296/) - Public education system 👍1  
+
 ### [HB 1334](/bill/2025-26/hb/1334/) - Property tax revenue growth 👍1  
 
 ### [HB 1338](/bill/2025-26/hb/1338/) - School operating costs 👍1  
@@ -12,7 +14,13 @@
 
 ### [HB 1606](/bill/2025-26/hb/1606/) - Journal access/state empl. 👍1  
 
+### [HB 1651](/bill/2025-26/hb/1651/) - Teacher residency & apprent. 👍1  
+
 ### [HB 1715](/bill/2025-26/hb/1715/) - Energy standard/comply cost 👍1  
+
+### [SB 5041](/bill/2025-26/sb/5041/) - Unemp ins/strikes & lockouts 👍1  
+
+### [SB 5123](/bill/2025-26/sb/5123/) - Discrimination in schools 👍1  
 
 ### [SB 5152](/bill/2025-26/sb/5152/) - Concerning state employee access to peer-reviewed journals. 👍1  
 
